@@ -410,7 +410,9 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-176 | 5 Nov (Fri) | 1. Saṅgahāsaṅgahapadaniddeso | 33–61 |
 | day-177 | 6 Nov (Sat) | 1. Saṅgahāsaṅgahapadaniddeso | 62–97 |
 | day-178 | 7 Nov (Sun) | 1. Saṅgahāsaṅgahapadaniddeso | 98–132 |
-| day-179 | 8 Nov (Mon) | 1. Saṅgahāsaṅgahapadaniddeso | 133–167 |
+| day-179 | 8 Nov (Mon) | 1. Saṅgahāsaṅgahapadaniddeso | 133–170 |
+
+> ⚙️ **Boundary correction, 2026-11-02 — day-179.** As scheduled, day-179 ended at 167 and day-180 opens the second method at 171, so `^3-168`–`^3-170` sat in no day. All three are real content: 168 (not sense-sphere / unincluded / unsurpassed states), 169 (fine-material, formless, leading-out, fixed, with-conflict states), and 170 (their opposites — not fine-material … without conflict — followed by the chapter colophon `Saṅgahāsaṅgahapadaniddeso paṭhamo.` on the block's last line). Corrected on Evan's direction under the standing 2026-09-09 rule that each day sits inside one chapter: **day-179 is now 133–170** (was 133–167). The source spreadsheet needs this edit too.
 
 ### Plan 25 — Days 180–189 · Four Permutations of Included/Not-Included (9–18 Nov)
 
