@@ -21,6 +21,9 @@ chapters: preamble + 15 methods (Uddeso, Paṭhamanayo … Cuddasamanayo)
 split_chapters: AI_translation/english/pi-3-english-plain-seeded-rails_split_chapters
 generated: 2026-10-30
 translation_of: Us3yilUt8Q4I8m3JuCOhk
+text_id: Tw2zOi44uDO6leRe8XenT
+edition_id: HLezWU6MhI6FdaGdncgBK
+toc_id: 4P0TdecSNhpTGChsE6798
 ---
 
 ![[1-SOURCES/Text/pi-3.md#^T-1]]
