@@ -11,18 +11,24 @@ layer: atthakatha
 root_text: 1-SOURCES/Text/pi-2.md
 covers_verses: 2-1–2-1044
 copyright: Public domain
-license: CC0
-source_description: Tipitaka.org Atthakatha/Tika edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Vibhaṅga-aṭṭhakathā; 2346 segments in source. Cross-checked against the WeBuddhist backend copy. Backend record 'Sammohavinodanī-aṭṭhakathā (Commentary)'.
-source_filename: book/abh02a.att.html
-source_url: "https://tipitaka.org/romn/cscd/abh02a.att.html"
+source_description: "Tipitaka.org Atthakatha/Tika edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Vibhaṅga-aṭṭhakathā; 2346 segments in source. Cross-checked against the WeBuddhist backend copy. Backend record 'Sammohavinodanī-aṭṭhakathā (Commentary)'.
+source_filename: book/abh02a.att.html"
+source: "https://tipitaka.org/romn/cscd/abh02a.att.html"
 other_ids:
   - tipitaka.org: abh02a
   - webuddhist_text_id: 476d09f1-9b21-4926-b77f-ca8778b3eddb
+license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
+category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: Bkcft6D0nQCPZNb4Kkuf4
+text_id: jzjFqxJ1SRgcATHZVQESs
+edition_id: 0IaO2jkm0341RQub4y4uY
+toc_id: PmZJjLTMkFaH5yxPMqvNf
 ---
 
-Namo tassa bhagavato arahato sammāsambuddhassa
+Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
-# Abhidhammapiṭake (aṭṭhakathā) ^atthakatha-0
+# Abhidhammapiṭake (aṭṭhakathā) ^0
 
 ## Sammohavinodanī nāma Vibhaṅga-aṭṭhakathā ^2-0
 
@@ -686,7 +692,7 @@ Abhidhammabhājanīyavaṇṇanā. ^2-271
 
 #### Pañhāpucchakavaṇṇanā ^2-3-3-0
 
-![[1-SOURCES/Text/pi-2.md#^2-185]]
+![[1-SOURCES/Text/pi-2.md#^2-186]]
 
 Pañhāpucchake aṭṭhārasannaṃ dhātūnaṃ heṭṭhā vuttanayānusāreneva kusalādibhāvo veditabbo. Ārammaṇattikesu pana cha dhātuyo parittārammaṇāti idaṃ pana pañcannaṃ cakkhuviññāṇādīnaṃ manodhātuyā ca ekantena pañcasu rūpārammaṇādīsu pavattiṃ sandhāya vuttaṃ. Dve dhātuyoti vuttānaṃ pana dhammadhātumanoviññāṇadhātūnaṃ manāyatanadhammāyatanesu vuttanayeneva parittārammaṇāditā veditabbā. Iti imasmimpi pañhāpucchake soḷasa dhātuyo kāmāvacarā, dve catubhūmikā lokiyalokuttaramissakā kathitā. Evamayaṃ dhātuvibhaṅgopi teparivaṭṭaṃ nīharitvāva bhājetvā desitoti. ^2-272
 
@@ -2125,7 +2131,7 @@ Bhavaniddese ca yasmā upādānaṃ saṅkhārakkhandhe saṅgahaṃ gacchati, t
 
 Evaṃ paṭhamavāraṃ niṭṭhapetvā puna dutiyavāre yasmiṃ samaye paṭhamavārena paccayākāro dassito, tasmiṃyeva samaye aparenapi nayena paccayākāraṃ dassetuṃ visuṃ samayavavatthānavāraṃ avatvā tasmiṃ samaye avijjāpaccayā saṅkhārotiādināva nayena desanā katā. Tattha ṭhapetvā phassanti idaṃ yasmā phassopi nāmapariyāpanno, tasmā phassassa nāmato nīharaṇatthaṃ vuttaṃ. ^2-833
 
-![[1-SOURCES/Text/pi-2.md#^2-252]]
+![[1-SOURCES/Text/pi-2.md#^2-253]]
 
 Tatiyavāre yassa cittasamuṭṭhānarūpassa viññāṇaṃ paccayo, tasmiṃ pavattamāne yasmā tenupatthaddhānaṃ cakkhāyatanādīnaṃ upacitattaṃ paññāyati, tasmā cakkhāyatanassa upacayotiādi vuttaṃ. Yasmā ca kammajarūpassapi tasmiṃ samaye vattamānassa viññāṇaṃ pacchājātapaccayena paccayo hoti, tasmāpi evaṃ vuttaṃ. Tattha kiñcāpi kammajaṃ cittasamuṭṭhānanti dveva santatiyo gahitā, itarāpi pana dve santatiyo gahetabbā. Tāsampi hi viññāṇaṃ paccayo hotiyeva. ^2-834
 
@@ -2137,7 +2143,8 @@ Catutthavāre pana yasmā ekacittakkhaṇepi mahābhūtarūpapaccayā cakkhāyat
 
 Dutiyacatukke sabbaṃ uttānameva. ^2-836
 
-![[1-SOURCES/Text/pi-2.md#^2-264]]
+![[1-SOURCES/Text/pi-2.md#^2-268]]
+![[1-SOURCES/Text/pi-2.md#^2-269]]
 
 Tatiyacatukke yassa sampayuttapaccayabhāvo na hoti, yassa ca hoti, taṃ visuṃ visuṃ dassetuṃ idaṃ vuccati viññāṇapaccayā nāmarūpaṃ viññāṇasampayuttaṃ nāmantiādi vuttaṃ. ^2-837
 

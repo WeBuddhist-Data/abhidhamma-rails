@@ -1,0 +1,579 @@
+{
+  "sections": [
+    {
+      "title": {
+        "en": "Abhidhamma Piṭaka"
+      },
+      "span": {
+        "start": 65,
+        "end": 184251
+      },
+      "subsections": [
+        {
+          "title": {
+            "en": "Discussion of Elements"
+          },
+          "span": {
+            "start": 65,
+            "end": 184251
+          },
+          "subsections": [
+            {
+              "title": {
+                "en": "Outline"
+              },
+              "span": {
+                "start": 65,
+                "end": 1464
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Matrix of Methods"
+                  },
+                  "span": {
+                    "start": 65,
+                    "end": 732
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inner Matrix"
+                  },
+                  "span": {
+                    "start": 732,
+                    "end": 1233
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Matrix of Approaches"
+                  },
+                  "span": {
+                    "start": 1233,
+                    "end": 1351
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Matrix of Characteristics"
+                  },
+                  "span": {
+                    "start": 1351,
+                    "end": 1377
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Outer Outline"
+                  },
+                  "span": {
+                    "start": 1377,
+                    "end": 1464
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "First Method"
+              },
+              "span": {
+                "start": 1464,
+                "end": 47261
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Terms Inclusion and Exclusion"
+                  },
+                  "span": {
+                    "start": 1464,
+                    "end": 47261
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Aggregate"
+                      },
+                      "span": {
+                        "start": 1464,
+                        "end": 6357
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Base"
+                      },
+                      "span": {
+                        "start": 6357,
+                        "end": 8790
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Element"
+                      },
+                      "span": {
+                        "start": 8790,
+                        "end": 11839
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Truth"
+                      },
+                      "span": {
+                        "start": 11839,
+                        "end": 14492
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Faculty"
+                      },
+                      "span": {
+                        "start": 14492,
+                        "end": 17895
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Beginning with Dependent Origination"
+                      },
+                      "span": {
+                        "start": 17895,
+                        "end": 21680
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Groups of Three"
+                      },
+                      "span": {
+                        "start": 21680,
+                        "end": 30521
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Pairs"
+                      },
+                      "span": {
+                        "start": 30521,
+                        "end": 47261
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Second Method"
+              },
+              "span": {
+                "start": 47261,
+                "end": 50082
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Excluded by What Is Included\""
+                  },
+                  "span": {
+                    "start": 47261,
+                    "end": 50082
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Third Method"
+              },
+              "span": {
+                "start": 50082,
+                "end": 55891
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Included by What Is Excluded\""
+                  },
+                  "span": {
+                    "start": 50082,
+                    "end": 55891
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Fourth Method"
+              },
+              "span": {
+                "start": 55891,
+                "end": 58478
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Included by What Is Included\""
+                  },
+                  "span": {
+                    "start": 55891,
+                    "end": 58478
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Fifth Method"
+              },
+              "span": {
+                "start": 58478,
+                "end": 74972
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Excluded by What Is Excluded\""
+                  },
+                  "span": {
+                    "start": 58478,
+                    "end": 74972
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Groups of Three"
+                      },
+                      "span": {
+                        "start": 64938,
+                        "end": 67135
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Pairs"
+                      },
+                      "span": {
+                        "start": 67135,
+                        "end": 74972
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Sixth Method"
+              },
+              "span": {
+                "start": 74972,
+                "end": 98718
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Terms Association and Dissociation"
+                  },
+                  "span": {
+                    "start": 74972,
+                    "end": 98718
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Aggregate"
+                      },
+                      "span": {
+                        "start": 74972,
+                        "end": 75854
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Base"
+                      },
+                      "span": {
+                        "start": 75854,
+                        "end": 76319
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Element"
+                      },
+                      "span": {
+                        "start": 76319,
+                        "end": 76860
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Beginning with the Truths"
+                      },
+                      "span": {
+                        "start": 76860,
+                        "end": 83823
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Groups of Three"
+                      },
+                      "span": {
+                        "start": 83823,
+                        "end": 89459
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Pairs"
+                      },
+                      "span": {
+                        "start": 89459,
+                        "end": 98718
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Seventh Method"
+              },
+              "span": {
+                "start": 98718,
+                "end": 102699
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Dissociated from What Is Associated\""
+                  },
+                  "span": {
+                    "start": 98718,
+                    "end": 102699
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Eighth Method"
+              },
+              "span": {
+                "start": 102699,
+                "end": 103585
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Associated with What Is Dissociated\""
+                  },
+                  "span": {
+                    "start": 102699,
+                    "end": 103585
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Ninth Method"
+              },
+              "span": {
+                "start": 103585,
+                "end": 114848
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Associated with What Is Associated\""
+                  },
+                  "span": {
+                    "start": 103585,
+                    "end": 114848
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Tenth Method"
+              },
+              "span": {
+                "start": 114848,
+                "end": 134893
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Dissociated from What Is Dissociated\""
+                  },
+                  "span": {
+                    "start": 114848,
+                    "end": 134893
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Groups of Three"
+                      },
+                      "span": {
+                        "start": 120465,
+                        "end": 126854
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Pairs"
+                      },
+                      "span": {
+                        "start": 126854,
+                        "end": 134893
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Eleventh Method"
+              },
+              "span": {
+                "start": 134893,
+                "end": 140341
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Associated with and Dissociated from What Is Included\""
+                  },
+                  "span": {
+                    "start": 134893,
+                    "end": 140341
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Twelfth Method"
+              },
+              "span": {
+                "start": 140341,
+                "end": 151090
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Included and Excluded by What Is Associated\""
+                  },
+                  "span": {
+                    "start": 140341,
+                    "end": 151090
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Thirteenth Method"
+              },
+              "span": {
+                "start": 151090,
+                "end": 159112
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Associated with and Dissociated from What Is Excluded\""
+                  },
+                  "span": {
+                    "start": 151090,
+                    "end": 159112
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Fourteenth Method"
+              },
+              "span": {
+                "start": 159112,
+                "end": 184251
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Explanation of the Term \"What Is Included and Excluded by What Is Dissociated\""
+                  },
+                  "span": {
+                    "start": 159112,
+                    "end": 184251
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Beginning with the Aggregates"
+                      },
+                      "span": {
+                        "start": 159112,
+                        "end": 160773
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Beginning with the Truths"
+                      },
+                      "span": {
+                        "start": 160773,
+                        "end": 165315
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Seven Beginning with Contact"
+                      },
+                      "span": {
+                        "start": 165315,
+                        "end": 165989
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Groups of Three"
+                      },
+                      "span": {
+                        "start": 165989,
+                        "end": 173548
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Pairs"
+                      },
+                      "span": {
+                        "start": 173548,
+                        "end": 184251
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

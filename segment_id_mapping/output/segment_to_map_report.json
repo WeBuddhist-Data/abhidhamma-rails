@@ -1,0 +1,383 @@
+{
+  "title": "segment_to_map_report",
+  "description": "One-time run of the map-segments pipeline against the single shared segment_id_mapping/segment_to_map.json export (5315 rows), which interleaves pi-1 Pali, pi-1's English translation, pi-2 Pali, and a partial pi-2 English translation. Each of the four combinations below was matched separately against its own source markdown and its own *_segments.json id registry.",
+  "to_map_file": "segment_id_mapping/segment_to_map.json",
+  "to_map_file_total_rows": 5315,
+  "methodology_note": "The vault's canonical segment_id_mapping/skill/scripts/map_segments.py was run first (unmodified) and produced a materially incomplete result for pi-1: its unbounded forward exact-match scan plus its fuzzy fallback can jump far ahead onto a coincidental match when the same short formulaic paragraph recurs verbatim at many different references (very common in this Abhidhamma text), permanently stranding legitimate exact matches that sat between the old and new pointer position. For this run only, a throwaway alternative aligner (not saved into the vault / skill/scripts, per instruction) was used instead: a strict order-preserving two-pointer walk with a capped forward window (so it cannot runaway-jump), a safe unique-exact backfill pass for rows left behind by the window cap, and -- only for pi-1, where full coverage was requested -- a small number of manually-verified overrides for source paragraphs the to-map export had split across many non-adjacent rows (e.g. one 41-line rūpasaṅgaho enumeration). Every override was verified by exact string reconstruction (the concatenation of the assigned to-map rows equals the source paragraph's text character-for-character), never by similarity/guessing.",
+  "runs": [
+    {
+      "order": 1,
+      "label": "pi-1 (Pali source)",
+      "source_md": "1-SOURCES/Text/pi-1.md",
+      "segments_registry": "segment_id_mapping/pi-1_pali_segments.json",
+      "output_mapping_file": "segment_id_mapping/output/pi-1_pali_segment_id_mapping.json",
+      "output_report_file": "segment_id_mapping/output/pi-1_pali_segment_id_mapping.report.json",
+      "summary": {
+        "total_rows_in_to_map_file": 5315,
+        "unique_segment_ids": 5315,
+        "matched": 1991,
+        "matched_exact": 1908,
+        "matched_fuzzy": 3,
+        "matched_backfill": 1,
+        "matched_manual_override": 79,
+        "unmatched_to_map_rows_count": 3324,
+        "source_segments_total": 1930,
+        "source_segments_consumed": 1770,
+        "unmatched_source_segments_count": 160,
+        "unmatched_source_segments_by_type": {
+          "title": 148,
+          "verse": 12
+        },
+        "unmatched_source_segments_non_title": [
+          {
+            "reference": "1-168",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti avitakkaṃ vicāramattaṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ"
+          },
+          {
+            "reference": "1-169",
+            "type": "verse",
+            "source_content_preview": "Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīviti"
+          },
+          {
+            "reference": "1-170",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… tatiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye"
+          },
+          {
+            "reference": "1-171",
+            "type": "verse",
+            "source_content_preview": "Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ"
+          },
+          {
+            "reference": "1-172",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… catutthaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso"
+          },
+          {
+            "reference": "1-173",
+            "type": "verse",
+            "source_content_preview": "Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ samm"
+          },
+          {
+            "reference": "1-174",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā…pe… pañcamaṃ jhānaṃ [pañcamajjhānaṃ (sī.)] upasampajja viharati pathavīkasiṇ"
+          },
+          {
+            "reference": "1-175",
+            "type": "verse",
+            "source_content_preview": "Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ samm"
+          },
+          {
+            "reference": "1-176",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ [dukkhāpaṭipadaṃ (bah"
+          },
+          {
+            "reference": "1-202",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭham"
+          },
+          {
+            "reference": "1-611",
+            "type": "verse",
+            "source_content_preview": "Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ jivhaṃ nissāya rasaṃ ārabbha jivhā"
+          },
+          {
+            "reference": "1-1616",
+            "type": "verse",
+            "source_content_preview": "Katame dhammā araṇā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā araṇā.\nAtthuddhāro niṭṭhito.\nD"
+          }
+        ]
+      },
+      "coverage_note": "1930 source segments total: 148 are section/chapter titles with no to-map counterpart by design. Of the remaining 1782 real content (verse) segments, 1770 (99.3%) are matched to a to-map row. The 12 listed below are genuine gaps in the to-map export itself (confirmed absent -- their exact text does not appear anywhere in segment_to_map.json, even ignoring position), not a matching failure: mostly paragraphs that use the Pali '...pe...' elision ('repeat as before') convention in the source markdown, which the to-map export appears to have skipped rather than spelled out."
+    },
+    {
+      "order": 2,
+      "label": "pi-1 English translation",
+      "source_md": "3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-dhammasangani-ai.md",
+      "segments_registry": "segment_id_mapping/pi-1_english_segments.json",
+      "output_mapping_file": "segment_id_mapping/output/pi-1_english_segment_id_mapping.json",
+      "output_report_file": "segment_id_mapping/output/pi-1_english_segment_id_mapping.report.json",
+      "summary": {
+        "total_rows_in_to_map_file": 5315,
+        "unique_segment_ids": 5315,
+        "matched": 2093,
+        "matched_exact": 2023,
+        "matched_fuzzy": 3,
+        "matched_backfill": 8,
+        "matched_manual_override": 59,
+        "unmatched_to_map_rows_count": 3222,
+        "source_segments_total": 1930,
+        "source_segments_consumed": 1844,
+        "unmatched_source_segments_count": 86,
+        "unmatched_source_segments_by_type": {
+          "top_segment": 1,
+          "title": 45,
+          "verse": 40
+        },
+        "unmatched_source_segments_non_title": [
+          {
+            "reference": "T-1",
+            "type": "top_segment",
+            "source_content_preview": "Homage to the Blessed One, the Arahant, the Perfectly Enlightened One."
+          },
+          {
+            "reference": "1-26",
+            "type": "verse",
+            "source_content_preview": "What on that occasion is the power of energy?\nThat which on that occasion is mental energy, exertion, effort, striving, endeavor, enthusiasm, perseverance, stre"
+          },
+          {
+            "reference": "1-202",
+            "type": "verse",
+            "source_content_preview": "What are wholesome states? When one cultivates the path for rebirth in the fine-material sphere, by the cessation of initial and sustained application...pe... a"
+          },
+          {
+            "reference": "1-594",
+            "type": "verse",
+            "source_content_preview": "All materiality is\nnot a root,\nrootless,\ndissociated from roots,\nwith conditions,\nconditioned,\nmaterial,\nmundane,\nsubject to taints,\nfettering,\nbinding,\nof the "
+          },
+          {
+            "reference": "1-611",
+            "type": "verse",
+            "source_content_preview": "What is that material form which is the tongue sense base?\nThe tongue, that is to say the sensitive matter, derived from the four great primaries, included in o"
+          },
+          {
+            "reference": "1-874",
+            "type": "verse",
+            "source_content_preview": "What is that external matter which is the aging of matter? That which is the decay of matter, its wearing out, brokenness, graying, wrinkling of skin, decline o"
+          },
+          {
+            "reference": "1-875",
+            "type": "verse",
+            "source_content_preview": "What is that external matter which is not the aging of matter? Visible form...\nedible food – this is that external matter which is not the aging of matter."
+          },
+          {
+            "reference": "1-876",
+            "type": "verse",
+            "source_content_preview": "What is that internal matter which is not the impermanence of matter? Eye-base...\nbody-base – this is that internal matter which is not the impermanence of matt"
+          },
+          {
+            "reference": "1-877",
+            "type": "verse",
+            "source_content_preview": "What is that external matter which is the impermanence of matter? That which is the wasting away of matter, its dissolution, breaking up, complete breaking up, "
+          },
+          {
+            "reference": "1-878",
+            "type": "verse",
+            "source_content_preview": "What is that external matter which is not the impermanence of matter? Visible form...\nedible food – this is that external matter which is not the impermanence o"
+          },
+          {
+            "reference": "1-879",
+            "type": "verse",
+            "source_content_preview": "What is that internal matter which is not edible food? Eye-base...\nbody-base – this is that internal matter which is not edible food."
+          },
+          {
+            "reference": "1-880",
+            "type": "verse",
+            "source_content_preview": "What is that external matter which is edible food? Cooked rice, gruel, flour, fish, meat, milk, curd, ghee, fresh butter, oil, honey, treacle, or whatever other"
+          },
+          {
+            "reference": "1-881",
+            "type": "verse",
+            "source_content_preview": "Which matter is external and not physical nutriment? Visible form... up to... the impermanence of matter – this is that matter which is external and not physica"
+          },
+          {
+            "reference": "1-1153",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are associated with fetters but are not fetters? Excluding those phenomena that are associated with these fetters, the feeling aggregate... to t"
+          },
+          {
+            "reference": "1-1154",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are disassociated from fetters but bound by fetters? Those phenomena that are disassociated from these fetters: subject to taints, wholesome, un"
+          },
+          {
+            "reference": "1-1155",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are disassociated from fetters and not bound by fetters? The unincluded paths, the fruits of the paths, and the unconditioned element – these ph"
+          },
+          {
+            "reference": "1-1156",
+            "type": "verse",
+            "source_content_preview": "What are the states that are floods? The four floods…etc.… These states are dissociated from floods, conducive to floods."
+          },
+          {
+            "reference": "1-1157",
+            "type": "verse",
+            "source_content_preview": "What are the states that are yokes? The four yokes…etc.… These states are dissociated from yokes, conducive to yokes."
+          },
+          {
+            "reference": "1-1383",
+            "type": "verse",
+            "source_content_preview": "Knowledge of non-arising means the knowledge of one endowed with fruition.\nThe Section on Elucidation is concluded."
+          },
+          {
+            "reference": "1-1396",
+            "type": "verse",
+            "source_content_preview": "What phenomena are defiled and defiling? The twelve unwholesome consciousnesses\n– these phenomena are defiled and defiling."
+          },
+          {
+            "reference": "1-1397",
+            "type": "verse",
+            "source_content_preview": "What phenomena are undefiled but defiling? Wholesome phenomena in the three planes, resultant phenomena in the three planes, functional indeterminate phenomena "
+          },
+          {
+            "reference": "1-1398",
+            "type": "verse",
+            "source_content_preview": "What phenomena are undefiled and non-defiling? The four supramundane paths, the four fruits of recluseship, and Nibbána – these phenomena are undefiled and non-"
+          },
+          {
+            "reference": "1-1399",
+            "type": "verse",
+            "source_content_preview": "What phenomena are accompanied by initial application and sustained application? Wholesome and unwholesome sense-sphere consciousnesses; eleven resultant wholes"
+          },
+          {
+            "reference": "1-1400",
+            "type": "verse",
+            "source_content_preview": "What phenomena are without initial application but with sustained application only? The second fine-material jhána in the five-fold system, wholesome, resultant"
+          },
+          {
+            "reference": "1-1401",
+            "type": "verse",
+            "source_content_preview": "What phenomena are without initial application and without sustained application? The two sets of fivefold sense consciousnesses; the fine-material jhána triads"
+          },
+          {
+            "reference": "1-1402",
+            "type": "verse",
+            "source_content_preview": "What phenomena are accompanied by rapture? Four wholesome sense-sphere consciousnesses accompanied by joy; four unwholesome consciousnesses; five resultant whol"
+          },
+          {
+            "reference": "1-1403",
+            "type": "verse",
+            "source_content_preview": "What phenomena are accompanied by happiness? Four wholesome sense-sphere consciousnesses accompanied by joy; four unwholesome consciousnesses; six resultant who"
+          },
+          {
+            "reference": "1-1404",
+            "type": "verse",
+            "source_content_preview": "What phenomena are accompanied by equanimity? Four wholesome sense-sphere consciousnesses accompanied by equanimity; six unwholesome consciousnesses; ten result"
+          },
+          {
+            "reference": "1-1405",
+            "type": "verse",
+            "source_content_preview": "What phenomena are to be abandoned by insight? The four consciousnesses associated with wrong view, and the consciousness accompanied by doubt – these phenomena"
+          },
+          {
+            "reference": "1-1406",
+            "type": "verse",
+            "source_content_preview": "What phenomena are to be abandoned by development? The consciousness accompanied by restlessness – these phenomena are to be abandoned by development. The four "
+          },
+          {
+            "reference": "1-1407",
+            "type": "verse",
+            "source_content_preview": "What phenomena are to be abandoned neither by insight nor by development? Wholesome consciousnesses in the four planes; resultant consciousnesses in the four pl"
+          },
+          {
+            "reference": "1-1408",
+            "type": "verse",
+            "source_content_preview": "Which states have roots to be abandoned by seeing? The four consciousnesses associated with wrong view, the consciousness accompanied by doubt, excluding the de"
+          },
+          {
+            "reference": "1-1409",
+            "type": "verse",
+            "source_content_preview": "Which states have roots to be abandoned by development? The consciousness accompanied by restlessness, excluding the delusion arising therein – these states hav"
+          },
+          {
+            "reference": "1-1410",
+            "type": "verse",
+            "source_content_preview": "Which states have roots to be abandoned neither by seeing nor by development? Delusion accompanied by doubt, delusion accompanied by restlessness, wholesome sta"
+          },
+          {
+            "reference": "1-1411",
+            "type": "verse",
+            "source_content_preview": "Which states lead to accumulation? Wholesome states in the three planes, unwholesome states – these states lead to accumulation."
+          },
+          {
+            "reference": "1-1412",
+            "type": "verse",
+            "source_content_preview": "Which states lead to reduction? The four supramundane paths – these states lead to reduction."
+          },
+          {
+            "reference": "1-1413",
+            "type": "verse",
+            "source_content_preview": "Which states lead neither to accumulation nor to reduction? Resultant states in the four planes, functional indeterminate states in the three planes, and matter"
+          },
+          {
+            "reference": "1-1414",
+            "type": "verse",
+            "source_content_preview": "Which states are learners? The four supramundane paths, and the three lower fruits of recluseship – these states are learners."
+          },
+          {
+            "reference": "1-1475",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are disjoined from cankers but still have cankers? Ignorance arising in the two consciousnesses accompanied by displeasure, ignorance accompanie"
+          },
+          {
+            "reference": "1-1476",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are disjoined from cankers and are without cankers? The four supramundane paths, the four supramundane fruits, and Nibbāna – these phenomena are"
+          },
+          {
+            "reference": "1-1616",
+            "type": "verse",
+            "source_content_preview": "Which phenomena are without refuge/defilement? Wholesome and resultant phenomena in the four planes, functional indeterminate phenomena in the three planes, mat"
+          }
+        ]
+      },
+      "coverage_note": "1930 source segments total: 45 titles + 1 top_segment (homage line) have no to-map counterpart by design. Of the remaining 1884 real content segments, 1844 (97.9%) are matched. The 40 listed below were confirmed genuinely absent from the to-map export (35 of them have no matching text fragment anywhere in segment_to_map.json at all); they cluster mostly in the material-form (rupa) analysis and the fetters/floods sections, suggesting those specific passages were never included in the export rather than being scattered matching failures."
+    },
+    {
+      "order": 3,
+      "label": "pi-2 (Pali source)",
+      "source_md": "1-SOURCES/Text/pi-2.md",
+      "segments_registry": "segment_id_mapping/pi-2_pali_segments.json",
+      "output_mapping_file": "segment_id_mapping/output/pi-2_pali_segment_id_mapping.json",
+      "output_report_file": "segment_id_mapping/output/pi-2_pali_segment_id_mapping.report.json",
+      "summary": {
+        "total_rows_in_to_map_file": 5315,
+        "unique_segment_ids": 5315,
+        "matched": 392,
+        "matched_exact": 384,
+        "matched_fuzzy": 8,
+        "matched_backfill": 0,
+        "matched_manual_override": 0,
+        "unmatched_to_map_rows_count": 4923,
+        "source_segments_total": 1543,
+        "source_segments_consumed": 346,
+        "unmatched_source_segments_count": 1197,
+        "unmatched_source_segments_by_type": {
+          "title": 430,
+          "verse": 767
+        }
+      },
+      "coverage_note": "pi-2 is only partially represented in segment_to_map.json (as expected -- per instruction, unmatched_source_segments is intentionally not itemized for pi-2). 392 to-map rows matched against 346 of pi-2's 1543 registry segments."
+    },
+    {
+      "order": 4,
+      "label": "pi-2 English translation",
+      "source_md": "3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/pi-2-english-plain-zeroshot.md",
+      "segments_registry": "segment_id_mapping/pi-2_english_segments.json",
+      "output_mapping_file": "segment_id_mapping/output/pi-2_english_segment_id_mapping.json",
+      "output_report_file": "segment_id_mapping/output/pi-2_english_segment_id_mapping.report.json",
+      "summary": {
+        "total_rows_in_to_map_file": 5315,
+        "unique_segment_ids": 5315,
+        "matched": 396,
+        "matched_exact": 394,
+        "matched_fuzzy": 2,
+        "matched_backfill": 0,
+        "matched_manual_override": 0,
+        "unmatched_to_map_rows_count": 4919,
+        "source_segments_total": 1543,
+        "source_segments_consumed": 346,
+        "unmatched_source_segments_count": 1197,
+        "unmatched_source_segments_by_type": {
+          "title": 430,
+          "verse": 767
+        }
+      },
+      "coverage_note": "pi-2's English translation is only partially represented in segment_to_map.json (as expected -- per instruction, unmatched_source_segments is intentionally not itemized for pi-2). 396 to-map rows matched against 346 of pi-2's 1543 registry segments."
+    }
+  ]
+}

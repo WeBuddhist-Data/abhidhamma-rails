@@ -11,7 +11,7 @@ status: draft
 
 # Interlinear gloss — Pāli → English (Rhys Davids)
 
-## ^1-0a-1
+## ^1-MI-1
 
 ```gloss
 \gla kusalā dhammā akusalā dhammā abyākatā dhammā
@@ -19,7 +19,7 @@ status: draft
 \ex States that are good, bad, indeterminate.
 ```
 
-## ^1-0a-2
+## ^1-MI-2
 
 ```gloss
 \gla sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
@@ -27,7 +27,7 @@ status: draft
 \ex States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
-## ^1-0a-3
+## ^1-MI-3
 
 ```gloss
 \gla vipākā dhammā vipāka dhamma dhammā neva vipāka na vipākadhamma dhammā
@@ -35,7 +35,7 @@ status: draft
 \ex States that are results; that have resultant quality; that are neither.
 ```
 
-## ^1-0a-4
+## ^1-MI-4
 
 ```gloss
 \gla upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādāniyā dhammā
@@ -43,7 +43,7 @@ status: draft
 \ex States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
 ```
 
-## ^1-0a-5
+## ^1-MI-5
 
 ```gloss
 \gla saṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhaasaṃkilesikā dhammā
@@ -51,7 +51,7 @@ status: draft
 \ex States that are vitiated and vicious; that are not vitiated but are vicious; that are neither.
 ```
 
-## ^1-0a-6
+## ^1-MI-6
 
 ```gloss
 \gla savitakkasavicārā dhammā avitakkavicāramattā dhammā avitakkaavicārā dhammā
@@ -59,7 +59,7 @@ status: draft
 \ex States that have applied and sustained thinking; sustained thinking only; neither.
 ```
 
-## ^1-0a-7
+## ^1-MI-7
 
 ```gloss
 \gla pītisahagatā dhammā sukhasahagatā dhammā upekkhāsahagatā dhammā
@@ -67,7 +67,7 @@ status: draft
 \ex States that are accompanied by zest; by happiness; by indifference.
 ```
 
-## ^1-0a-8
+## ^1-MI-8
 
 ```gloss
 \gla dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā neva dassanena na bhāvanāya pahātabbā dhammā
@@ -75,7 +75,7 @@ status: draft
 \ex States that are to be put away by vision; by culture; by neither.
 ```
 
-## ^1-0a-9
+## ^1-MI-9
 
 ```gloss
 \gla dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
@@ -83,7 +83,7 @@ status: draft
 \ex States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
-## ^1-0a-10
+## ^1-MI-10
 
 ```gloss
 \gla ācayagāmino dhammā apacayagāmino dhammā nevācayagāmināpacayagāmino dhammā
@@ -91,7 +91,7 @@ status: draft
 \ex States going to building up; going to pulling down; going to neither.
 ```
 
-## ^1-0a-11
+## ^1-MI-11
 
 ```gloss
 \gla sekkhā dhammā asekkhā dhammā nevasekkhanāsekkhā dhammā
@@ -99,7 +99,7 @@ status: draft
 \ex States of one in training; of the adept; of one who is neither.
 ```
 
-## ^1-0a-12
+## ^1-MI-12
 
 ```gloss
 \gla parittā dhammā mahaggatā dhammā appamāṇā dhammā
@@ -107,7 +107,7 @@ status: draft
 \ex States that are limited, sublime, infinite.
 ```
 
-## ^1-0a-13
+## ^1-MI-13
 
 ```gloss
 \gla parittārammaṇā dhammā mahaggatārammaṇā dhammā appamāṇārammaṇā dhammā
@@ -115,7 +115,7 @@ status: draft
 \ex States that have a limited object; a sublime object; neither.
 ```
 
-## ^1-0a-14
+## ^1-MI-14
 
 ```gloss
 \gla hīnā dhammā majjhimā dhammā paṇītā dhammā
@@ -123,7 +123,7 @@ status: draft
 \ex States that are base; of medium worth; excellent.
 ```
 
-## ^1-0a-15
+## ^1-MI-15
 
 ```gloss
 \gla micchattaniyatā dhammā sammattaniyatā dhammā aniyatā dhammā
@@ -131,7 +131,7 @@ status: draft
 \ex States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences.
 ```
 
-## ^1-0a-16
+## ^1-MI-16
 
 ```gloss
 \gla maggārammaṇā dhammā maggahetukā dhammā maggādhipatino dhammā
@@ -139,7 +139,7 @@ status: draft
 \ex States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path.
 ```
 
-## ^1-0a-17
+## ^1-MI-17
 
 ```gloss
 \gla uppannā dhammā anuppannā dhammā uppādino dhammā
@@ -147,7 +147,7 @@ status: draft
 \ex States that have arisen; that have not arisen; that are bound to arise.
 ```
 
-## ^1-0a-18
+## ^1-MI-18
 
 ```gloss
 \gla atītā dhammā anāgatā dhammā paccuppannā dhammā
@@ -155,7 +155,7 @@ status: draft
 \ex States that are past; present; future.
 ```
 
-## ^1-0a-19
+## ^1-MI-19
 
 ```gloss
 \gla atītārammaṇā dhammā anāgatārammaṇā dhammā paccuppannārammaṇā dhammā
@@ -163,7 +163,7 @@ status: draft
 \ex States that have the past as their object; the present as their object; the future as their object.
 ```
 
-## ^1-0a-20
+## ^1-MI-20
 
 ```gloss
 \gla ajjhattā dhammā bahiddhā dhammā ajjhattabahiddhā dhammā
@@ -171,7 +171,7 @@ status: draft
 \ex States that belong to one's self; are external to one's self; are belonging or external to one's self.
 ```
 
-## ^1-0a-21
+## ^1-MI-21
 
 ```gloss
 \gla ajjhattārammaṇā dhammā bahiddhārammaṇā dhammā ajjhattabahiddhārammaṇā dhammā
@@ -179,7 +179,7 @@ status: draft
 \ex States that have for an object one's self; an object external to one's self; an object that is both.
 ```
 
-## ^1-0a-22
+## ^1-MI-22
 
 ```gloss
 \gla sanidassanasappaṭighā dhammā anidassanasappaṭighā dhammā anidassanaappaṭighā dhammā
@@ -187,7 +187,7 @@ status: draft
 \ex States that are visible and reacting; invisible and reacting; neither.
 ```
 
-## ^1-0b-1
+## ^1-MII-1
 
 ```gloss
 \gla hetū dhammā na hetū dhammā
@@ -195,7 +195,7 @@ status: draft
 \ex States that are moral roots; not moral roots.
 ```
 
-## ^1-0b-2
+## ^1-MII-2
 
 ```gloss
 \gla sahetukā dhammā ahetukā dhammā
@@ -203,7 +203,7 @@ status: draft
 \ex States concomitant with a moral root; not so concomitant.
 ```
 
-## ^1-0b-3
+## ^1-MII-3
 
 ```gloss
 \gla hetusampayuttā dhammā hetuvippayuttā dhammā
@@ -211,7 +211,7 @@ status: draft
 \ex States associated with a moral root; dissociated from a moral root.
 ```
 
-## ^1-0b-4
+## ^1-MII-4
 
 ```gloss
 \gla hetū ceva dhammā sahetukā ca sahetukā ceva dhammā na ca hetū
@@ -219,7 +219,7 @@ status: draft
 \ex States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former.
 ```
 
-## ^1-0b-5
+## ^1-MII-5
 
 ```gloss
 \gla hetū ceva dhammā hetusampayuttā ca hetusampayuttā ceva dhammā na ca hetū
@@ -227,7 +227,7 @@ status: draft
 \ex States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former.
 ```
 
-## ^1-0b-6
+## ^1-MII-6
 
 ```gloss
 \gla na hetū kho pana dhammā sahetukāpi ahetukāpi
@@ -235,7 +235,7 @@ status: draft
 \ex States that are not moral roots, but are either concomitant with moral roots or not.
 ```
 
-## ^1-0b-7
+## ^1-MII-7
 
 ```gloss
 \gla sappaccayā dhammā appaccayā dhammā
@@ -243,7 +243,7 @@ status: draft
 \ex States that are causally related; not causally related.
 ```
 
-## ^1-0b-8
+## ^1-MII-8
 
 ```gloss
 \gla saṅkhatā dhammā asaṅkhatā dhammā
@@ -251,7 +251,7 @@ status: draft
 \ex States that are conditioned; unconditioned.
 ```
 
-## ^1-0b-9
+## ^1-MII-9
 
 ```gloss
 \gla sanidassanā dhammā anidassanā dhammā
@@ -259,7 +259,7 @@ status: draft
 \ex States that are visible; invisible.
 ```
 
-## ^1-0b-10
+## ^1-MII-10
 
 ```gloss
 \gla sappaṭighā dhammā appaṭighā dhammā
@@ -267,7 +267,7 @@ status: draft
 \ex States that are reactions; not reactions.
 ```
 
-## ^1-0b-11
+## ^1-MII-11
 
 ```gloss
 \gla rūpino dhammā arūpino dhammā
@@ -275,7 +275,7 @@ status: draft
 \ex States that have material form; that are immaterial.
 ```
 
-## ^1-0b-12
+## ^1-MII-12
 
 ```gloss
 \gla lokiyā dhammā lokuttarā dhammā
@@ -283,7 +283,7 @@ status: draft
 \ex States that are mundane; supramundane.
 ```
 
-## ^1-0b-13
+## ^1-MII-13
 
 ```gloss
 \gla kenaci viññeyyā dhammā kenaci na viññeyyā dhammā
@@ -291,7 +291,7 @@ status: draft
 \ex States that may be cognized in a given way; that may not be cognized in that given way.
 ```
 
-## ^1-0b-14
+## ^1-MII-14
 
 ```gloss
 \gla āsavā dhammā no āsavā dhammā
@@ -299,7 +299,7 @@ status: draft
 \ex States that are āsavas; are not āsavas.
 ```
 
-## ^1-0b-15
+## ^1-MII-15
 
 ```gloss
 \gla sāsavā dhammā anāsavā dhammā
@@ -307,7 +307,7 @@ status: draft
 \ex States that have āsavas, have not āsavas.
 ```
 
-## ^1-0b-16
+## ^1-MII-16
 
 ```gloss
 \gla āsavasampayuttā dhammā āsavavippayuttā dhammā
@@ -315,7 +315,7 @@ status: draft
 \ex States that are associated with āsavas; dissociated from āsavas.
 ```
 
-## ^1-0b-17
+## ^1-MII-17
 
 ```gloss
 \gla āsavā ceva dhammā sāsavā ca sāsavā ceva dhammā no ca āsavā
@@ -323,7 +323,7 @@ status: draft
 \ex States that both are and have āsavas; that have āsavas but are not āsavas.
 ```
 
-## ^1-0b-18
+## ^1-MII-18
 
 ```gloss
 \gla āsavā ceva dhammā āsavasampayuttā ca āsavasampayuttā ceva dhammā no ca āsavā
@@ -331,7 +331,7 @@ status: draft
 \ex States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas.
 ```
 
-## ^1-0b-19
+## ^1-MII-19
 
 ```gloss
 \gla āsavavippayuttā kho pana dhammā sāsavāpi anāsavāpi
@@ -339,7 +339,7 @@ status: draft
 \ex States that are dissociated from āsavas, but may have or may not have āsavas.
 ```
 
-## ^1-0b-20
+## ^1-MII-20
 
 ```gloss
 \gla saṃyojanā dhammā no saṃyojanā dhammā
@@ -347,7 +347,7 @@ status: draft
 \ex States that are fetters; are not fetters.
 ```
 
-## ^1-0b-21
+## ^1-MII-21
 
 ```gloss
 \gla saṃyojaniyā dhammā asaṃyojaniyā dhammā
@@ -355,7 +355,7 @@ status: draft
 \ex States that are favourable to fetters; are not so.
 ```
 
-## ^1-0b-22
+## ^1-MII-22
 
 ```gloss
 \gla saṃyojanasampayuttā dhammā saṃyojanavippayuttā dhammā
@@ -363,7 +363,7 @@ status: draft
 \ex States that are associated with fetters; are dissociated from fetters.
 ```
 
-## ^1-0b-23
+## ^1-MII-23
 
 ```gloss
 \gla saṃyojanā ceva dhammā saṃyojaniyā ca saṃyojaniyā ceva dhammā no ca saṃyojanā
@@ -371,7 +371,7 @@ status: draft
 \ex States that are both fetters and favourable to fetters; that are the latter but not the former.
 ```
 
-## ^1-0b-24
+## ^1-MII-24
 
 ```gloss
 \gla saṃyojanā ceva dhammā saṃyojanasampayuttā ca saṃyojanasampayuttā ceva dhammā no ca saṃyojanā
@@ -379,7 +379,7 @@ status: draft
 \ex States that are both fetters and associated with fetters; that are the latter but not the former.
 ```
 
-## ^1-0b-25
+## ^1-MII-25
 
 ```gloss
 \gla saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi asaṃyojaniyāpi
@@ -387,7 +387,7 @@ status: draft
 \ex States that are dissociated from fetters, but may be favourable to fetters or unfavourable.
 ```
 
-## ^1-0b-26
+## ^1-MII-26
 
 ```gloss
 \gla ganthā dhammā no ganthā dhammā
@@ -395,7 +395,7 @@ status: draft
 \ex States that are ties; are not ties.
 ```
 
-## ^1-0b-27
+## ^1-MII-27
 
 ```gloss
 \gla ganthaniyā dhammā aganthaniyā dhammā
@@ -403,7 +403,7 @@ status: draft
 \ex States that are favourable to ties; are not so.
 ```
 
-## ^1-0b-28
+## ^1-MII-28
 
 ```gloss
 \gla ganthasampayuttā dhammā ganthavippayuttā dhammā
@@ -411,7 +411,7 @@ status: draft
 \ex States that are associated with ties; dissociated from ties.
 ```
 
-## ^1-0b-29
+## ^1-MII-29
 
 ```gloss
 \gla ganthā ceva dhammā ganthaniyā ca ganthaniyā ceva dhammā no ca ganthā
@@ -419,7 +419,7 @@ status: draft
 \ex States that are both ties and favourable to ties; that are the latter but not the former.
 ```
 
-## ^1-0b-30
+## ^1-MII-30
 
 ```gloss
 \gla ganthā ceva dhammā ganthasampayuttā ca ganthasampayuttā ceva dhammā no ca ganthā
@@ -427,7 +427,7 @@ status: draft
 \ex States that are both ties and associated with ties; are the latter but not the former.
 ```
 
-## ^1-0b-31
+## ^1-MII-31
 
 ```gloss
 \gla ganthavippayuttā kho pana dhammā ganthaniyāpi aganthaniyāpi
@@ -435,7 +435,7 @@ status: draft
 \ex States that are dissociated from ties; but may or may not be favourable to ties.
 ```
 
-## ^1-0b-32
+## ^1-MII-32
 
 ```gloss
 \gla oghā dhammā no oghā dhammā
@@ -443,7 +443,7 @@ status: draft
 \ex States that are floods; are not floods.
 ```
 
-## ^1-0b-33
+## ^1-MII-33
 
 ```gloss
 \gla oghaniyā dhammā anoghaniyā dhammā
@@ -451,7 +451,7 @@ status: draft
 \ex States that are favourable to floods; are not so.
 ```
 
-## ^1-0b-34
+## ^1-MII-34
 
 ```gloss
 \gla oghasampayuttā dhammā oghavippayuttā dhammā
@@ -459,7 +459,7 @@ status: draft
 \ex States that are associated with floods; are dissociated from floods.
 ```
 
-## ^1-0b-35
+## ^1-MII-35
 
 ```gloss
 \gla oghā ceva dhammā oghaniyā ca oghaniyā ceva dhammā no ca oghā
@@ -467,7 +467,7 @@ status: draft
 \ex States that are both floods and favourable to floods; that are the latter but not the former.
 ```
 
-## ^1-0b-36
+## ^1-MII-36
 
 ```gloss
 \gla oghā ceva dhammā oghasampayuttā ca oghasampayuttā ceva dhammā no ca oghā
@@ -475,7 +475,7 @@ status: draft
 \ex States that are both floods and associated with floods; that are the latter but not the former.
 ```
 
-## ^1-0b-37
+## ^1-MII-37
 
 ```gloss
 \gla oghavippayuttā kho pana dhammā oghaniyāpi anoghaniyāpi
@@ -483,7 +483,7 @@ status: draft
 \ex States that are dissociated from floods, but may be favourable or unfavourable to floods.
 ```
 
-## ^1-0b-38
+## ^1-MII-38
 
 ```gloss
 \gla yogā dhammā no yogā dhammā
@@ -491,7 +491,7 @@ status: draft
 \ex States that are bonds; are not bonds.
 ```
 
-## ^1-0b-39
+## ^1-MII-39
 
 ```gloss
 \gla yoganiyā dhammā ayoganiyā dhammā
@@ -499,7 +499,7 @@ status: draft
 \ex States that are favourable to bonds; are not so.
 ```
 
-## ^1-0b-40
+## ^1-MII-40
 
 ```gloss
 \gla yogasampayuttā dhammā yogavippayuttā dhammā
@@ -507,7 +507,7 @@ status: draft
 \ex States that are associated with bonds; are dissociated from bonds.
 ```
 
-## ^1-0b-41
+## ^1-MII-41
 
 ```gloss
 \gla yogā ceva dhammā yoganiyā ca yoganiyā ceva dhammā no ca yogā
@@ -515,7 +515,7 @@ status: draft
 \ex States that are both bonds and favourable to bonds; that are the latter but not the former.
 ```
 
-## ^1-0b-42
+## ^1-MII-42
 
 ```gloss
 \gla yogā ceva dhammā yogasampayuttā ca yogasampayuttā ceva dhammā no ca yogā
@@ -523,7 +523,7 @@ status: draft
 \ex States that are both bonds and associated with bonds; that are the latter but not the former.
 ```
 
-## ^1-0b-43
+## ^1-MII-43
 
 ```gloss
 \gla yogavippayuttā kho pana dhammā yoganiyāpi ayoganiyāpi
@@ -531,7 +531,7 @@ status: draft
 \ex States that are dissociated from bonds, but may be favourable or unfavourable to bonds.
 ```
 
-## ^1-0b-44
+## ^1-MII-44
 
 ```gloss
 \gla nīvaraṇā dhammā no nīvaraṇā dhammā
@@ -539,7 +539,7 @@ status: draft
 \ex States that are hindrances; are not hindrances.
 ```
 
-## ^1-0b-45
+## ^1-MII-45
 
 ```gloss
 \gla nīvaraṇiyā dhammā anīvaraṇiyā dhammā
@@ -547,7 +547,7 @@ status: draft
 \ex States that are favourable to hindrances; are not so.
 ```
 
-## ^1-0b-46
+## ^1-MII-46
 
 ```gloss
 \gla nīvaraṇasampayuttā dhammā nīvaraṇavippayuttā dhammā
@@ -555,7 +555,7 @@ status: draft
 \ex States that are associated with hindrances; are dissociated from hindrances.
 ```
 
-## ^1-0b-47
+## ^1-MII-47
 
 ```gloss
 \gla nīvaraṇā ceva dhammā nīvaraṇiyā ca nīvaraṇiyā ceva dhammā no ca nīvaraṇā
@@ -563,7 +563,7 @@ status: draft
 \ex States that are both hindrances and favourable to hindrances; that are the latter but not the former.
 ```
 
-## ^1-0b-48
+## ^1-MII-48
 
 ```gloss
 \gla nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
@@ -571,7 +571,7 @@ status: draft
 \ex States that are both hindrances and associated with hindrances; that are the latter but not the former.
 ```
 
-## ^1-0b-49
+## ^1-MII-49
 
 ```gloss
 \gla nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi anīvaraṇiyāpi
@@ -579,7 +579,7 @@ status: draft
 \ex States that are dissociated from hindrances, but may be favourable or unfavourable to hindrances.
 ```
 
-## ^1-0b-50
+## ^1-MII-50
 
 ```gloss
 \gla parāmāsā dhammā no parāmāsā dhammā
@@ -587,7 +587,7 @@ status: draft
 \ex States that are perversions; are not perversions.
 ```
 
-## ^1-0b-51
+## ^1-MII-51
 
 ```gloss
 \gla parāmaṭṭhā dhammā aparāmaṭṭhā dhammā
@@ -595,7 +595,7 @@ status: draft
 \ex States that are perverted; unperverted.
 ```
 
-## ^1-0b-52
+## ^1-MII-52
 
 ```gloss
 \gla parāmāsasampayuttā dhammā parāmāsavippayuttā dhammā
@@ -603,7 +603,7 @@ status: draft
 \ex States that are associated with perversion; dissociated from perversion.
 ```
 
-## ^1-0b-53
+## ^1-MII-53
 
 ```gloss
 \gla parāmāsā ceva dhammā parāmaṭṭhā ca parāmaṭṭhā ceva dhammā no ca parāmāsā
@@ -611,7 +611,7 @@ status: draft
 \ex States that are both perversions and perverted; are the latter but not the former.
 ```
 
-## ^1-0b-54
+## ^1-MII-54
 
 ```gloss
 \gla parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi aparāmaṭṭhāpi
@@ -619,7 +619,7 @@ status: draft
 \ex States that are dissociated from perversion, but are either perverted or unperverted.
 ```
 
-## ^1-0b-55
+## ^1-MII-55
 
 ```gloss
 \gla sārammaṇā dhammā anārammaṇā dhammā
@@ -627,7 +627,7 @@ status: draft
 \ex States that have objects of thought; have not such.
 ```
 
-## ^1-0b-56
+## ^1-MII-56
 
 ```gloss
 \gla cittā dhammā no cittā dhammā
@@ -635,7 +635,7 @@ status: draft
 \ex States that are thought; have not thought.
 ```
 
-## ^1-0b-57
+## ^1-MII-57
 
 ```gloss
 \gla cetasikā dhammā acetasikā dhammā
@@ -643,7 +643,7 @@ status: draft
 \ex States that are mental properties; are not such.
 ```
 
-## ^1-0b-58
+## ^1-MII-58
 
 ```gloss
 \gla cittasampayuttā dhammā cittavippayuttā dhammā
@@ -651,7 +651,7 @@ status: draft
 \ex States that are associated with thought; dissociated from thought.
 ```
 
-## ^1-0b-59
+## ^1-MII-59
 
 ```gloss
 \gla cittasaṃsaṭṭhā dhammā cittavisaṃsaṭṭhā dhammā
@@ -659,7 +659,7 @@ status: draft
 \ex States that are conjoined with thought; detached from thought.
 ```
 
-## ^1-0b-60
+## ^1-MII-60
 
 ```gloss
 \gla cittasamuṭṭhānā dhammā no cittasamuṭṭhānā dhammā
@@ -667,7 +667,7 @@ status: draft
 \ex States that are sprung from thought; are not so.
 ```
 
-## ^1-0b-61
+## ^1-MII-61
 
 ```gloss
 \gla cittasahabhuno dhammā no cittasahabhuno dhammā
@@ -675,7 +675,7 @@ status: draft
 \ex States that come into being together with thought; do not so come into being.
 ```
 
-## ^1-0b-62
+## ^1-MII-62
 
 ```gloss
 \gla cittānuparivattino dhammā no cittānuparivattino dhammā
@@ -683,7 +683,7 @@ status: draft
 \ex States that are consecutive to thought; are not so.
 ```
 
-## ^1-0b-63
+## ^1-MII-63
 
 ```gloss
 \gla cittasaṃsaṭṭhasamuṭṭhānā dhammā no cittasaṃsaṭṭhasamuṭṭhānā dhammā
@@ -691,7 +691,7 @@ status: draft
 \ex States that are conjoined with and sprung from thought; are not so.
 ```
 
-## ^1-0b-64
+## ^1-MII-64
 
 ```gloss
 \gla cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
@@ -699,7 +699,7 @@ status: draft
 \ex States that are conjoined with, sprung from, come into being together with thought; are not so.
 ```
 
-## ^1-0b-65
+## ^1-MII-65
 
 ```gloss
 \gla cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
@@ -707,7 +707,7 @@ status: draft
 \ex States that are conjoined with, sprung from, consecutive to thought; are not so.
 ```
 
-## ^1-0b-66
+## ^1-MII-66
 
 ```gloss
 \gla ajjhattikā dhammā bāhirā dhammā
@@ -715,7 +715,7 @@ status: draft
 \ex States that are one's own; are external.
 ```
 
-## ^1-0b-67
+## ^1-MII-67
 
 ```gloss
 \gla upādā dhammā no upādā dhammā
@@ -723,7 +723,7 @@ status: draft
 \ex States that are derived; are not derived.
 ```
 
-## ^1-0b-68
+## ^1-MII-68
 
 ```gloss
 \gla upādiṇṇā dhammā anupādiṇṇā dhammā
@@ -731,7 +731,7 @@ status: draft
 \ex States that are grasped at; are not grasped at.
 ```
 
-## ^1-0b-69
+## ^1-MII-69
 
 ```gloss
 \gla upādānā dhammā no upādānā dhammā
@@ -739,7 +739,7 @@ status: draft
 \ex States that are graspings; are not graspings.
 ```
 
-## ^1-0b-70
+## ^1-MII-70
 
 ```gloss
 \gla upādāniyā dhammā anupādāniyā dhammā
@@ -747,7 +747,7 @@ status: draft
 \ex States that are favourable to grasping; not favourable.
 ```
 
-## ^1-0b-71
+## ^1-MII-71
 
 ```gloss
 \gla upādānasampayuttā dhammā upādānavippayuttā dhammā
@@ -755,7 +755,7 @@ status: draft
 \ex States that are associated with grasping; dissociated from grasping.
 ```
 
-## ^1-0b-72
+## ^1-MII-72
 
 ```gloss
 \gla upādānā ceva dhammā upādāniyā ca upādāniyā ceva dhammā no ca upādānā
@@ -763,7 +763,7 @@ status: draft
 \ex States that are both graspings and favourable to grasping; are the latter but not the former.
 ```
 
-## ^1-0b-73
+## ^1-MII-73
 
 ```gloss
 \gla upādānā ceva dhammā upādānasampayuttā ca upādānasampayuttā ceva dhammā no ca upādānā
@@ -771,7 +771,7 @@ status: draft
 \ex States that are both graspings and associated with grasping; are the latter but not the former.
 ```
 
-## ^1-0b-74
+## ^1-MII-74
 
 ```gloss
 \gla upādānavippayuttā kho pana dhammā upādāniyāpi anupādāniyāpi
@@ -779,7 +779,7 @@ status: draft
 \ex States that are dissociated from grasping, but may be either favourable or unfavourable to grasping.
 ```
 
-## ^1-0b-75
+## ^1-MII-75
 
 ```gloss
 \gla kilesā dhammā no kilesā dhammā
@@ -787,7 +787,7 @@ status: draft
 \ex States that are vices; are not vices.
 ```
 
-## ^1-0b-76
+## ^1-MII-76
 
 ```gloss
 \gla saṃkilesikā dhammā asaṃkilesikā dhammā
@@ -795,7 +795,7 @@ status: draft
 \ex States that are vicious; are not vicious.
 ```
 
-## ^1-0b-77
+## ^1-MII-77
 
 ```gloss
 \gla saṃkiliṭṭhā dhammā asaṃkiliṭṭhā dhammā
@@ -803,7 +803,7 @@ status: draft
 \ex States that are vitiated; are not vitiated.
 ```
 
-## ^1-0b-78
+## ^1-MII-78
 
 ```gloss
 \gla kilesasampayuttā dhammā kilesavippayuttā dhammā
@@ -811,7 +811,7 @@ status: draft
 \ex States that are associated with vice; are dissociated from vice.
 ```
 
-## ^1-0b-79
+## ^1-MII-79
 
 ```gloss
 \gla kilesā ceva dhammā saṃkilesikā ca saṃkilesikā ceva dhammā no ca kilesā
@@ -819,7 +819,7 @@ status: draft
 \ex States that are both vices and vicious; are vicious but not vices.
 ```
 
-## ^1-0b-80
+## ^1-MII-80
 
 ```gloss
 \gla kilesā ceva dhammā saṃkiliṭṭhā ca saṃkiliṭṭhā ceva dhammā no ca kilesā
@@ -827,7 +827,7 @@ status: draft
 \ex States that are both vices and vitiated; are vitiated but not vices.
 ```
 
-## ^1-0b-81
+## ^1-MII-81
 
 ```gloss
 \gla kilesā ceva dhammā kilesasampayuttā ca kilesasampayuttā ceva dhammā no ca kilesā
@@ -835,7 +835,7 @@ status: draft
 \ex States that are both vices and associated with vice; are the latter but not the former.
 ```
 
-## ^1-0b-82
+## ^1-MII-82
 
 ```gloss
 \gla kilesavippayuttā kho pana dhammā saṃkilesikāpi asaṃkilesikāpi
@@ -843,7 +843,7 @@ status: draft
 \ex States that are dissociated from vice, but may be either vicious or not.
 ```
 
-## ^1-0b-83
+## ^1-MII-83
 
 ```gloss
 \gla dassanena pahātabbā dhammā na dassanena pahātabbā dhammā
@@ -851,7 +851,7 @@ status: draft
 \ex States that may be put away by vision; not so put away.
 ```
 
-## ^1-0b-84
+## ^1-MII-84
 
 ```gloss
 \gla bhāvanāya pahātabbā dhammā na bhāvanāya pahātabbā dhammā
@@ -859,7 +859,7 @@ status: draft
 \ex States that may be put away by culture; not so put away.
 ```
 
-## ^1-0b-85
+## ^1-MII-85
 
 ```gloss
 \gla dassanena pahātabbahetukā dhammā na dassanena pahātabbahetukā dhammā
@@ -867,7 +867,7 @@ status: draft
 \ex States, the moral root of which may be put away by vision; may not be so put away.
 ```
 
-## ^1-0b-86
+## ^1-MII-86
 
 ```gloss
 \gla bhāvanāya pahātabbahetukā dhammā na bhāvanāya pahātabbahetukā dhammā
@@ -875,7 +875,7 @@ status: draft
 \ex States, the moral root of which may be put away by culture; may not be so put away.
 ```
 
-## ^1-0b-87
+## ^1-MII-87
 
 ```gloss
 \gla savitakkā dhammā avitakkā dhammā
@@ -883,7 +883,7 @@ status: draft
 \ex States having applied thinking; not having applied thinking.
 ```
 
-## ^1-0b-88
+## ^1-MII-88
 
 ```gloss
 \gla savicārā dhammā avicārā dhammā
@@ -891,7 +891,7 @@ status: draft
 \ex States having sustained thinking; not having sustained thinking.
 ```
 
-## ^1-0b-89
+## ^1-MII-89
 
 ```gloss
 \gla sappītikā dhammā appītikā dhammā
@@ -899,7 +899,7 @@ status: draft
 \ex States concomitant with zest; not concomitant with zest.
 ```
 
-## ^1-0b-90
+## ^1-MII-90
 
 ```gloss
 \gla pītisahagatā dhammā na pītisahagatā dhammā
@@ -907,7 +907,7 @@ status: draft
 \ex States accompanied by zest; unaccompanied by zest.
 ```
 
-## ^1-0b-91
+## ^1-MII-91
 
 ```gloss
 \gla sukhasahagatā dhammā na sukhasahagatā dhammā
@@ -915,7 +915,7 @@ status: draft
 \ex States accompanied by ease; unaccompanied by ease.
 ```
 
-## ^1-0b-92
+## ^1-MII-92
 
 ```gloss
 \gla upekkhāsahagatā dhammā na upekkhāsahagatā dhammā
@@ -923,7 +923,7 @@ status: draft
 \ex States accompanied by indifference; unaccompanied by indifference.
 ```
 
-## ^1-0b-93
+## ^1-MII-93
 
 ```gloss
 \gla kāmāvacarā dhammā na kāmāvacarā dhammā
@@ -931,7 +931,7 @@ status: draft
 \ex States of the universe of sense; not of that universe.
 ```
 
-## ^1-0b-94
+## ^1-MII-94
 
 ```gloss
 \gla rūpāvacarā dhammā na rūpāvacarā dhammā
@@ -939,7 +939,7 @@ status: draft
 \ex States of the universe of form; not of that universe.
 ```
 
-## ^1-0b-95
+## ^1-MII-95
 
 ```gloss
 \gla arūpāvacarā dhammā na arūpāvacarā dhammā
@@ -947,7 +947,7 @@ status: draft
 \ex States of the formless universe; not of that universe.
 ```
 
-## ^1-0b-96
+## ^1-MII-96
 
 ```gloss
 \gla pariyāpannā dhammā apariyāpannā dhammā
@@ -955,7 +955,7 @@ status: draft
 \ex States that are included; unincluded.
 ```
 
-## ^1-0b-97
+## ^1-MII-97
 
 ```gloss
 \gla niyyānikā dhammā aniyyānikā dhammā
@@ -963,7 +963,7 @@ status: draft
 \ex States that lead onward; do not lead onward.
 ```
 
-## ^1-0b-98
+## ^1-MII-98
 
 ```gloss
 \gla niyatā dhammā aniyatā dhammā
@@ -971,7 +971,7 @@ status: draft
 \ex States that are fixed; are not fixed.
 ```
 
-## ^1-0b-99
+## ^1-MII-99
 
 ```gloss
 \gla sauttarā dhammā anuttarā dhammā
@@ -979,7 +979,7 @@ status: draft
 \ex States that have a beyond; have no beyond.
 ```
 
-## ^1-0b-100
+## ^1-MII-100
 
 ```gloss
 \gla saraṇā dhammā araṇā dhammā
@@ -987,7 +987,7 @@ status: draft
 \ex States that are harmful; are harmless.
 ```
 
-## ^1-0b-101
+## ^1-MII-101
 
 ```gloss
 \gla vijjābhāgino dhammā avijjābhāgino dhammā
@@ -995,7 +995,7 @@ status: draft
 \ex States that partake of wisdom; do not partake of wisdom.
 ```
 
-## ^1-0b-102
+## ^1-MII-102
 
 ```gloss
 \gla vijjūpamā dhammā vajirūpamā dhammā
@@ -1003,7 +1003,7 @@ status: draft
 \ex States that resemble lightning; are comparable to the thunderbolt.
 ```
 
-## ^1-0b-103
+## ^1-MII-103
 
 ```gloss
 \gla bālā dhammā paṇḍitā dhammā
@@ -1011,7 +1011,7 @@ status: draft
 \ex States that are foolish; discreet.
 ```
 
-## ^1-0b-104
+## ^1-MII-104
 
 ```gloss
 \gla kaṇhā dhammā sukkā dhammā
@@ -1019,7 +1019,7 @@ status: draft
 \ex States that are dark; bright.
 ```
 
-## ^1-0b-105
+## ^1-MII-105
 
 ```gloss
 \gla tapanīyā dhammā atapanīyā dhammā
@@ -1027,7 +1027,7 @@ status: draft
 \ex States that conduce to remorse; that do not.
 ```
 
-## ^1-0b-106
+## ^1-MII-106
 
 ```gloss
 \gla adhivacanā dhammā adhivacanapathā dhammā
@@ -1035,7 +1035,7 @@ status: draft
 \ex States that are equivalent terms; processes of such.
 ```
 
-## ^1-0b-107
+## ^1-MII-107
 
 ```gloss
 \gla nirutti dhammā niruttipathā dhammā
@@ -1043,7 +1043,7 @@ status: draft
 \ex States that are explanations; processes of explanation.
 ```
 
-## ^1-0b-108
+## ^1-MII-108
 
 ```gloss
 \gla paññatti dhammā paññattipathā dhammā
@@ -1051,7 +1051,7 @@ status: draft
 \ex States that are expressions; processes of expression.
 ```
 
-## ^1-0b-109
+## ^1-MII-109
 
 ```gloss
 \gla nāmañca rūpañca
@@ -1059,7 +1059,7 @@ status: draft
 \ex Name and shape.
 ```
 
-## ^1-0b-110
+## ^1-MII-110
 
 ```gloss
 \gla avijjā ca bhavataṇhā ca
@@ -1067,7 +1067,7 @@ status: draft
 \ex Ignorance and craving for rebirth.
 ```
 
-## ^1-0b-111
+## ^1-MII-111
 
 ```gloss
 \gla bhavadiṭṭhi ca vibhavadiṭṭhi ca
@@ -1075,7 +1075,7 @@ status: draft
 \ex Theory of rebirth and theory of dissolution.
 ```
 
-## ^1-0b-112
+## ^1-MII-112
 
 ```gloss
 \gla sassatadiṭṭhi ca ucchedadiṭṭhi ca
@@ -1083,7 +1083,7 @@ status: draft
 \ex Theory of eternalism and theory of annihilation.
 ```
 
-## ^1-0b-113
+## ^1-MII-113
 
 ```gloss
 \gla antavā diṭṭhi ca anantavā diṭṭhi ca
@@ -1091,7 +1091,7 @@ status: draft
 \ex Theory of finiteness and theory of infiniteness.
 ```
 
-## ^1-0b-114
+## ^1-MII-114
 
 ```gloss
 \gla pubbantānudiṭṭhi ca aparantānudiṭṭhi ca
@@ -1099,7 +1099,7 @@ status: draft
 \ex Theory of first and last things.
 ```
 
-## ^1-0b-115
+## ^1-MII-115
 
 ```gloss
 \gla ahirikañca anottappañca
@@ -1107,7 +1107,7 @@ status: draft
 \ex Unconscientiousness and indiscretion.
 ```
 
-## ^1-0b-116
+## ^1-MII-116
 
 ```gloss
 \gla hirī ca ottappañca
@@ -1115,7 +1115,7 @@ status: draft
 \ex Conscientiousness and discretion.
 ```
 
-## ^1-0b-117
+## ^1-MII-117
 
 ```gloss
 \gla dovacassatā ca pāpamittatā ca
@@ -1123,7 +1123,7 @@ status: draft
 \ex Contumacy and friendship with evil.
 ```
 
-## ^1-0b-118
+## ^1-MII-118
 
 ```gloss
 \gla sovacassatā ca kalyāṇamittatā ca
@@ -1131,7 +1131,7 @@ status: draft
 \ex Suavity and friendship with good.
 ```
 
-## ^1-0b-119
+## ^1-MII-119
 
 ```gloss
 \gla āpattikusalatā ca āpattivuṭṭhānakusalatā ca
@@ -1139,7 +1139,7 @@ status: draft
 \ex Skill in offences and in restoration from the offences.
 ```
 
-## ^1-0b-120
+## ^1-MII-120
 
 ```gloss
 \gla samāpattikusalatā ca samāpattivuṭṭhānakusalatā ca
@@ -1147,7 +1147,7 @@ status: draft
 \ex Skill in the attainments and in recovery from the attainments.
 ```
 
-## ^1-0b-121
+## ^1-MII-121
 
 ```gloss
 \gla dhātukusalatā ca manasikārakusalatā ca
@@ -1155,7 +1155,7 @@ status: draft
 \ex Skill in the elements and in attention.
 ```
 
-## ^1-0b-122
+## ^1-MII-122
 
 ```gloss
 \gla āyatanakusalatā ca paṭiccasamuppādakusalatā ca
@@ -1163,7 +1163,7 @@ status: draft
 \ex Skill in the spheres of sense and in the causal law.
 ```
 
-## ^1-0b-123
+## ^1-MII-123
 
 ```gloss
 \gla ṭhānakusalatā ca aṭṭhānakusalatā ca
@@ -1171,7 +1171,7 @@ status: draft
 \ex Skill in affirming and in negating causal relation.
 ```
 
-## ^1-0b-124
+## ^1-MII-124
 
 ```gloss
 \gla ajjavo ca maddavo ca
@@ -1179,7 +1179,7 @@ status: draft
 \ex Upright and soft.
 ```
 
-## ^1-0b-125
+## ^1-MII-125
 
 ```gloss
 \gla khanti ca soraccañca
@@ -1187,7 +1187,7 @@ status: draft
 \ex Patience and loveableness.
 ```
 
-## ^1-0b-126
+## ^1-MII-126
 
 ```gloss
 \gla sākhalyañca paṭisanthāro ca
@@ -1195,7 +1195,7 @@ status: draft
 \ex Amity and courtesy.
 ```
 
-## ^1-0b-127
+## ^1-MII-127
 
 ```gloss
 \gla indriyesu aguttadvāratā ca bhojane amattaññutā ca
@@ -1203,7 +1203,7 @@ status: draft
 \ex Unguardedness in the gateways of sense and immoderation in diet.
 ```
 
-## ^1-0b-128
+## ^1-MII-128
 
 ```gloss
 \gla indriyesu guttadvāratā ca bhojane mattaññutā ca
@@ -1211,7 +1211,7 @@ status: draft
 \ex Guardedness in the gateways of sense and moderation in diet.
 ```
 
-## ^1-0b-129
+## ^1-MII-129
 
 ```gloss
 \gla muṭṭhasaccañca asampajaññañca
@@ -1219,7 +1219,7 @@ status: draft
 \ex Forgetfulness and unintelligence.
 ```
 
-## ^1-0b-130
+## ^1-MII-130
 
 ```gloss
 \gla sati ca sampajaññañca
@@ -1227,7 +1227,7 @@ status: draft
 \ex Mindfulness and intelligence.
 ```
 
-## ^1-0b-131
+## ^1-MII-131
 
 ```gloss
 \gla paṭisaṅkhānabalañca bhāvanābalañca
@@ -1235,7 +1235,7 @@ status: draft
 \ex Computing power and developing power.
 ```
 
-## ^1-0b-132
+## ^1-MII-132
 
 ```gloss
 \gla samatho ca vipassanā ca
@@ -1243,7 +1243,7 @@ status: draft
 \ex Calm and intuition.
 ```
 
-## ^1-0b-133
+## ^1-MII-133
 
 ```gloss
 \gla samathanimittañca paggāhanimittañca
@@ -1251,7 +1251,7 @@ status: draft
 \ex The sign of calm and the sign of grasp.
 ```
 
-## ^1-0b-134
+## ^1-MII-134
 
 ```gloss
 \gla paggāho ca avikkhepo ca
@@ -1259,7 +1259,7 @@ status: draft
 \ex Grasp and balance.
 ```
 
-## ^1-0b-135
+## ^1-MII-135
 
 ```gloss
 \gla sīlavipatti ca diṭṭhivipatti ca
@@ -1267,7 +1267,7 @@ status: draft
 \ex Moral failure and theoretic fallacy.
 ```
 
-## ^1-0b-136
+## ^1-MII-136
 
 ```gloss
 \gla sīlasampadā ca diṭṭhisampadā ca
@@ -1275,7 +1275,7 @@ status: draft
 \ex Moral achievement and theoretic achievement.
 ```
 
-## ^1-0b-137
+## ^1-MII-137
 
 ```gloss
 \gla sīlavisuddhi ca diṭṭhivisuddhi ca
@@ -1283,7 +1283,7 @@ status: draft
 \ex Purity of morals and of theory.
 ```
 
-## ^1-0b-138
+## ^1-MII-138
 
 ```gloss
 \gla diṭṭhivisuddhi kho pana yathādiṭṭhissa ca padhānaṃ
@@ -1291,7 +1291,7 @@ status: draft
 \ex Purity in views and the struggle of him who holds the views.
 ```
 
-## ^1-0b-139
+## ^1-MII-139
 
 ```gloss
 \gla saṃvego ca saṃvejaniyesu ṭhānesu saṃviggassa ca yoniso padhānaṃ
@@ -1299,7 +1299,7 @@ status: draft
 \ex Agitation on occasions calling for agitation and the struggle of the agitated.
 ```
 
-## ^1-0b-140
+## ^1-MII-140
 
 ```gloss
 \gla asantuṭṭhitā ca kusalesu dhammesu appaṭivānitā ca padhānasmiṃ
@@ -1307,7 +1307,7 @@ status: draft
 \ex Discontent as to good states and unfalteringness in the struggle.
 ```
 
-## ^1-0b-141
+## ^1-MII-141
 
 ```gloss
 \gla vijjā ca vimutti ca
@@ -1315,7 +1315,7 @@ status: draft
 \ex Wisdom and freedom.
 ```
 
-## ^1-0b-142
+## ^1-MII-142
 
 ```gloss
 \gla khaye ñāṇaṃ anuppāde ñāṇanti

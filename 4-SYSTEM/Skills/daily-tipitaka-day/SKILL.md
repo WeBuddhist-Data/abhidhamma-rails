@@ -9,6 +9,18 @@ This skill produces a **complete Daily Tipitaka day file** — frontmatter, the 
 
 **Why the day file's §4 and §6 are abbreviated (first verse + last verse only).** The WeBuddhist app pulls the full verse text for a day's range from its own verse library at render time. The day file's job is *not* to reproduce all the verses — it is to give the plan-importer enough to (a) confirm the range and (b) find the first and last verses in the app library so the right range can be selected. The full text of every verse in the range lives only in the **assets scratchpad** in `0-INBOX/`, because the scratchpad is what §1 and §5 are written from. The day file's §4 and §6 print only the *first* and *last* verses of the range, each with its verse number (and, in §6, its block ID). This is a hard constraint, not a stylistic preference — the app's daily-session screen is calibrated for ~5 minutes of reading, of which most of the time is the verses themselves, leaving little room for the orientation prose around them.
 
+**A verse block can span several lines, and its block ID sits on the LAST one.** This is the single most common source of silently-wrong day files, so read it carefully. In `1-SOURCES/Text/pi-*.md`, one numbered verse often runs over several lines — the number appears only on the **first** line, and the `^<book>-<verse>` anchor only on the **last**. Verse `^2-15`, for example, is three lines:
+
+```
+15. Tattha katamā saññā atītā? … ayaṃ vuccati saññā atītā.
+Tattha katamā saññā anāgatā? … ayaṃ vuccati saññā anāgatā.
+Tattha katamā saññā paccuppannā? … ayaṃ vuccati saññā paccuppannā. ^2-15
+```
+
+If you locate a verse by grepping for its anchor and take *that line* as the verse, you get only the tail — here, "What is present perception?" — so the day file appears to start in the middle of a sentence, with the past- and future-perception clauses silently dropped. Some blocks are long: `^2-33` is thirteen lines, `^2-34` is ten. Truncation is invisible unless you test for it, which is why the completion checks below do so explicitly.
+
+**To resolve a verse, find the line carrying its anchor, then walk backwards to the verse's true opening** — stop at a blank line, at a heading, or at the previous line that itself ends in an anchor. The line you stop *after* is the opening line, and it normally begins with the printed verse number. Every consumer follows this rule: the assets scratchpad's range must begin at the first verse's opening line, not at its anchor line, and the day file's §4/§6 entries must begin there too. The same applies to the translation file, which mirrors the source's line structure.
+
 **Length discipline on §1 and §5.** The casual-Buddhist audience this plan serves is calibrated for ~5-minute sessions on a phone. §1 (Today's Chanting Guide) and §5 (Pāli Word of the Day) are the two prose sections that compete with the verses for that budget, so both are kept short. See Phase 2 step 3 and step 6 for the per-section caps. The plan's outcome statement — *"come away each day ready to do a little less harm, a little more good, and know your mind a little better than before"* — is the yardstick: every paragraph in §1 and §5 should be earning its place against that, not against academic completeness.
 
 **Plain-English discipline on §1 and §5.** The audience is international, with English as a second or third language for a large share of readers. The audience profile sets the target at 8th-grade reading level — concretely, **Flesch-Kincaid grade ≤ 9** for both §1 and §5, with average sentence length ~12–15 words. This is not a stylistic preference; it is the floor below which the readership the plan was built for can actually use it. **Pāli technical terms are welcome and expected — but every Pāli term gets a short plain-English gloss on first use in the section.** What is *not* welcome: academic register ("canonical formula", "the text foregrounds"), figurative English idioms that don't translate ("step off the map", "lets the rubber meet the road"), internal-architecture references ("the practice rail describes…" — the reader doesn't know what a rail is and shouldn't have to), or chains of multisyllable English where a short word would do (*"meditative absorption" → "deep focus", "sensual pleasures" → "sense desires", "dissociated from knowledge" → "without wisdom"*). The Phase 2 completion check measures this; if §1 or §5 lands above grade 9, rewrite — don't just trim, simplify.
@@ -126,11 +138,11 @@ sources:
 
 **Verses <A>–<B>.** *(Full text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below so the plan-importer can find the right entries.)*
 
-**v. <A>.** <First verse of the range in the target language, taken verbatim from the assets file's "English translation" section.>
+**v. <A>.** <First verse of the range in the target language, taken verbatim from the assets file's "English translation" section, **beginning at the verse's opening line**. If the verse spans several lines, print its opening line, then ` *(…)* `, then its closing line — see "multi-line verses" below.>
 
 …
 
-**v. <B>.** <Last verse of the range in the target language, taken verbatim from the assets file's "English translation" section.>
+**v. <B>.** <Last verse of the range in the target language, same rule.>
 
 *Source: [[2-RAILS/Sections/<book>-summaries.md]], [[2-RAILS/Sections/<book>-practice.md]]*
 
@@ -152,11 +164,23 @@ sources:
 
 <If the verse range opens inside a named subsection of the source text, name it on one line before the first verse — e.g. `Section: Suññatavāro → Rūpāvacarakusalaṃ → Catukkanayo`. If the range straddles one or more new headings, name those too. Do **not** print full heading blocks; the plan-importer needs orientation, not the full TOC.>
 
-**<A>.** <First Pāli verse of the range, verbatim from the assets file, formatted for chanting (clause-level line breaks, closing formula in bold). Block ID preserved at the end: `^<book>-<A>`.>
+**<A>.** <First Pāli verse of the range, verbatim from the assets file, **beginning at the verse's opening line**, formatted for chanting (clause-level line breaks, closing formula in bold). Block ID preserved at the end: `^<book>-<A>`.>
 
 …
 
-**<B>.** <Last Pāli verse of the range, verbatim from the assets file, same formatting. Block ID preserved at the end: `^<book>-<B>`.>
+**<B>.** <Last Pāli verse of the range, same rule. Block ID preserved at the end: `^<book>-<B>`.>
+
+### Multi-line verses in §4 and §6
+
+A verse that spans several lines is printed as **opening line + ` *(…)* ` + closing line**, on one paragraph, with the block ID last (§6). For example:
+
+```
+**33.** Tattha katamo rūpakkhandho? Ekavidhena rūpakkhandho – … Evaṃ ekavidhena rūpakkhandho. *(…)* Ayaṃ vuccati rūpakkhandho. ^2-33
+```
+
+Both ends are needed, for two different reasons. The **opening** line is the verse's real beginning — without it the entry reads as a fragment. The **closing** line is what makes the entry identifiable: in the Abhidhamma's repeating formulas, several consecutive verses open identically (`^2-40`, `^2-41` and `^2-57` all begin "Ekavidhena vedanākkhandho – phassasampayutto."), so an opening-only entry can leave a day's first and last verses looking like the same verse. The closing line also carries the anchor.
+
+Do **not** print the intervening lines: `*(…)*` marks their omission, and the app renders the full text from its own verse library. Keep `*(…)*` distinct from the standalone `…` line that separates the range's first verse from its last — one marks elision *within* a verse, the other elision *between* verses.
 
 ## 7. Aspiration
 
@@ -181,15 +205,48 @@ sources:
 3. **Do not overwrite a filled day file.** If `<lang>/days/day-NNN.md` already exists and contains anything beyond the unfilled template, stop and ask. "Unfilled template" means the file matches `day-template.md` line-for-line except for the frontmatter `day:` and `language:` values.
 4. **Citation chain stays in 2-RAILS/.** The day file's `sources:` frontmatter and §4 source line cite only `2-RAILS/` paths. Never cite `1-SOURCES/` from the day file. The assets scratchpad may quote `1-SOURCES/` verbatim because it lives in `0-INBOX/` and is not cited from anywhere downstream.
 5. **Day file's §4 and §6 print first verse + last verse only.** Not the whole range. The WeBuddhist app pulls the full verses from its own library at render time; the day file's job is to give the plan-importer enough to find the right range. The two verses are taken verbatim from the assets file (§6 from the Pāli source section, §4 from the English translation section). Both block IDs (`^<book>-<first>` and `^<book>-<last>`) are preserved at the end of their verses in §6.
-6. **Assets scratchpad always carries the full verse range.** This is the source of truth §1 and §5 are written from. The "first verse + last verse only" rule applies to the *day file*, never to the assets file.
-7. **§1 length cap: ~180 words.** Two short paragraphs maximum, plus the closing question. If the draft exceeds the cap, cut — do not add a third paragraph and trim the first two.
-8. **§5 length cap: ~140 words.** Pronunciation line + "In today's passage" (2–4 sentences) + "Why it matters" (2–4 sentences). No separate "Literal sense" paragraph; fold any literal-sense note into "In today's passage" if it pays its way.
-9. **App notification character caps are hard limits.** Title ≤ 40 characters. Body ≤ 120 characters. Button (if present) ≤ 15 characters. Re-count after writing; if any cap is exceeded, tighten the wording before reporting completion.
-10. **English Reading for Meaning content sources only from the assets file.** If the assets file has an "English translation" section drawn from a translation track file, §4 uses the first and last verses from it verbatim. If no translation file exists, §4 falls back to a *one-line* gloss of the first and last verses drawn from the section summary — never a fresh translation from Pāli.
-11. **Frontmatter `sources:` lists every rail the day file draws from.** At minimum: the summaries rail and the practice rail. Add the verse-rails path if `2-RAILS/Verses/<ref>.md` files exist for any verse in the day's range.
-12. **One assets file per day, never one per batch.** Even if days share a section, each day gets its own `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
-13. **Do not modify any file in `1-SOURCES/` or `2-RAILS/`.** This skill writes only to `0-INBOX/daily-tipitaka/`, `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/`, and `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/termbase.md` (append-only — see Rule 14).
-14. **Termbase is the cross-day consistency lock; treat it as authoritative and append-only.** Every Pāli technical term that appears in §1 or §5 of a day file is looked up against `<lang>/termbase.md` first (see Phase 2 step 3). Locked renderings are used verbatim; new terms grow the file via Phase 2 step 10. The skill **never** modifies or removes an existing locked row — only the human contributor does that, because every change cascades through every published day. The termbase is how today's day-012 stays consistent with tomorrow's day-013 and with day-007 written last week; without it, the same Pāli word ends up rendered three different ways across the journey.
+6. **Every verse begins at its opening line, never at its anchor line.** A verse's `^<book>-<verse>` anchor sits on its *last* line; the printed verse number sits on its first. Resolve a verse by finding the anchor and walking backwards to the opening (stop at a blank line, a heading, or a previous anchor line). This applies to the assets scratchpad's range start and to both §4 and §6 entries. Multi-line verses render as `opening *(…)* closing` — see "Multi-line verses in §4 and §6" above. Never let an entry begin mid-verse; that is a silent corruption a reader notices immediately and a checker will not, unless it tests for it.
+7. **Assets scratchpad always carries the full verse range.** This is the source of truth §1 and §5 are written from. The "first verse + last verse only" rule applies to the *day file*, never to the assets file.
+8. **§1 length cap: ~180 words.** Two short paragraphs maximum, plus the closing question. If the draft exceeds the cap, cut — do not add a third paragraph and trim the first two.
+9. **§5 length cap: ~140 words.** Pronunciation line + "In today's passage" (2–4 sentences) + "Why it matters" (2–4 sentences). No separate "Literal sense" paragraph; fold any literal-sense note into "In today's passage" if it pays its way.
+10. **App notification character caps are hard limits.** Title ≤ 40 characters. Body ≤ 120 characters. Button (if present) ≤ 15 characters. Re-count after writing; if any cap is exceeded, tighten the wording before reporting completion.
+11. **English Reading for Meaning content sources only from the assets file.** If the assets file has an "English translation" section drawn from a translation track file, §4 uses the first and last verses from it verbatim. If no translation file exists, §4 falls back to a *one-line* gloss of the first and last verses drawn from the section summary — never a fresh translation from Pāli.
+12. **Frontmatter `sources:` lists every rail the day file draws from.** At minimum: the summaries rail and the practice rail. Add the verse-rails path if `2-RAILS/Verses/<ref>.md` files exist for any verse in the day's range.
+13. **One assets file per day, never one per batch.** Even if days share a section, each day gets its own `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
+14. **Do not modify any file in `1-SOURCES/` or `2-RAILS/`.** This skill writes only to `0-INBOX/daily-tipitaka/`, `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/`, and `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/termbase.md` (append-only — see Rule 17).
+15. **One translation track per language, across every book.** §4 for a given language always comes from the same track folder (for English, `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/`), with one output file per book — `en-dhammasangani-ai.md`, `en-vibhanga-ai.md`, and so on. A reader is on one continuous journey; a mid-journey change of track would change register and terminology and read as a break in voice. If a translation arrives labelled for some other audience (a filename or frontmatter field saying "plain", "simple", "accessible"), **do not create a new track for it** — check it against the existing track's `requirements.md` first. That contract already specifies a 7th–8th grade reading level and short sentences, so an "accessible" label usually describes what the track already is. Report the arrival and file it as the book's output in the existing track.
+16. **When §1/§5 and §4 word the same concept differently, do not "fix" §1.** §1 and §5 use the locked rendering from `<lang>/termbase.md`; §4 is verbatim from the translation. If the translation diverges from a locked row, both sides are individually correct and the mismatch belongs to the *translation*. Record it (in the translation's `known_issues` frontmatter and as a note in the plan termbase) and leave §1/§5 alone — changing them would break consistency with every earlier day that used the locked term.
+17. **Termbase is the cross-day consistency lock; treat it as authoritative and append-only.** Every Pāli technical term that appears in §1 or §5 of a day file is looked up against `<lang>/termbase.md` first (see Phase 2 step 3). Locked renderings are used verbatim; new terms grow the file via Phase 2 step 10. The skill **never** modifies or removes an existing locked row — only the human contributor does that, because every change cascades through every published day. The termbase is how today's day-012 stays consistent with tomorrow's day-013 and with day-007 written last week; without it, the same Pāli word ends up rendered three different ways across the journey.
+
+---
+
+## Starting a new book, or a new section of one
+
+The plan crosses book boundaries (Book I ends at day-077; Book II runs 078–178; Book III 179–200), and it is normal for a requested batch to be the first to need a source, a rail, or a translation that nobody has produced yet. Check these **before** Phase 1, because a missing rail halts the batch under Rule 2 and it is better to discover that in one lookup than five.
+
+| Prerequisite | Path | If missing |
+|---|---|---|
+| Root text | `1-SOURCES/Text/pi-<book>.md` | **Hard stop.** Only the human contributor can add canonical text. Report precisely which book and which verse range is unavailable. Do not translate or reconstruct verses from a commentary or an audio transcript. |
+| Commentary | `1-SOURCES/Commentaries/pi-<book>-atthakatha.md` (also `-mulatiika`, `-anutiika`) | **Hard stop for rail-building.** The rails are grounded in commentary; without it, do not write rail prose. |
+| Summaries rail | `2-RAILS/Sections/pi-<book>-summaries.md` | Buildable. Grounded in the aṭṭhakathā layer. |
+| Practice rail | `2-RAILS/Sections/pi-<book>-practice.md` | Buildable — use the `practice-summaries` skill, which owns the format (Pāli prose weaving the three pillars, TOC block with `^toc-N` anchors, `[[#^toc-N\|↑↑↑]]` backlink under each heading, commentary back-citations beneath each entry). |
+| Translation | the language's single track, one file per book (see Rule 15) | Not a hard stop — Rule 11 allows a one-line gloss fallback — but say so plainly in the run report, because a whole plan cannot ship on glosses. **Do not substitute draft-grade material to close the gap** — see below. |
+
+**Never substitute draft-grade material for a missing asset.** A vault under active development accumulates intermediates that *look* like the thing you need: zeroshot or first-pass translations, scaffolded termbases, partial rails, audience profiles someone stubbed out. Reaching for one to unblock a batch is the wrong trade. A missing day is recoverable — someone builds it next week. A published day drafted from draft-grade material has to be found and redone, and if the draft used different terminology, it breaks voice for every reader who reaches that point in the journey.
+
+Two tells that material is not ready:
+
+- **The pipeline says so.** Check the producing skill's own description. A path documented as "no termbase", "first draft", "quick or exploratory", "fast path" is not the deliverable, however complete its coverage looks. Coverage is not grade.
+- **It disagrees with what is already published.** Spot-check two or three recurring terms against the day files already shipped. If a candidate source says "aggregate of material form" where published days say "aggregate of form", adopting it changes vocabulary mid-journey.
+
+When you find only draft-grade material, halt the batch and report precisely: which asset is missing, what draft exists, why it does not qualify, and what would have to be produced. That report is more useful than a day file that has to be withdrawn.
+
+Two things to check when a rail already exists but is new to you:
+
+- **Rails are often partial.** A rail file covering Book II may cover only its first vibhaṅga. Confirm the day's specific subsections resolve, not merely that the file exists — this is Rule 2's "Shape B", a heading present with nothing under it.
+- **Match the rail's own structure to the commentary's, not to the root text's.** Where the commentary treats several sibling nodes under one shared method, give them one combined entry rather than several stubs; a TOC entry whose body would be empty is worse than no entry. Every TOC line must resolve to a non-empty body, and every body heading must appear in the TOC.
+
+Ground rail prose only in what the commentary actually says, and cite the specific anchors used (`[[1-SOURCES/Commentaries/pi-<book>-atthakatha.md#^<book>-N]]`). Rail prose written this way still needs a native Pāli reviewer before the days built on it are published — say so in the run report.
 
 ---
 
@@ -239,7 +296,11 @@ The goal of Phase 1 is to copy the actual verse text (and the matching summary +
 For each day `N` in the range:
 
 1. Create the directory `0-INBOX/daily-tipitaka/` if it does not exist.
-2. **Copy the Pāli verses for the day's range.** Open the source text file resolved in Phase 0 step 4. Find every block whose ID is in the day's range — i.e. for a range of `A–B` with block-ID prefix `^P-`, every block from `^P-A` to `^P-B` inclusive. Copy each block verbatim, in source order, preserving **every heading at any level** (`###`, `####`, `#####`, `######` — any that appear inside the range or immediately above the first verse). Chapter (`###`) and section (`####`) headings carry orientation the chanter needs, even though they may seem "too high level"; do not strip them. Do not paraphrase, translate, or reformat.
+2. **Copy the Pāli verses for the day's range.** Open the source text file resolved in Phase 0 step 4. Find every block whose ID is in the day's range — i.e. for a range of `A–B` with block-ID prefix `^P-`, every block from `^P-A` to `^P-B` inclusive.
+
+   **Get the start boundary right.** Locate the line carrying `^P-A`, then walk backwards to that verse's opening line (stop at a blank line, a heading, or a previous anchor line) and begin the copy there. Copying from the anchor line instead drops the earlier lines of a multi-line first verse, so the scratchpad — and every §1/§5 paragraph written from it — silently starts mid-verse. The end boundary needs no such care: the anchor sits on the verse's last line, so copying up to and including it captures the whole final verse.
+
+   Copy each block verbatim, in source order, preserving **every heading at any level** (`###`, `####`, `#####`, `######` — any that appear inside the range or immediately above the first verse). Chapter (`###`) and section (`####`) headings carry orientation the chanter needs, even though they may seem "too high level"; do not strip them. Do not paraphrase, translate, or reformat.
 
    *Examples:*
    - *Day-007: scans `1-SOURCES/Text/pi-1.md` and copies the blocks ending in `^1-1`, `^1-2`, … `^1-26` — 26 blocks in total, including the `##### Padabhājanī ^1-1-1-1-0` heading just before `^1-1`.*
@@ -267,6 +328,7 @@ After Phase 1 has run for every day in the batch, verify *all* of the following 
 - [ ] One assets file exists at `0-INBOX/daily-tipitaka/day-NNN-assets.md` for every day in the requested range.
 - [ ] Every assets file's frontmatter has a non-empty `section`, `verses`, `book_source`, `summary_rail`, and `practice_rail`.
 - [ ] Every assets file's "Pāli source verses" section contains the same number of distinct block IDs as the day's verse range. (For range `A–B` with prefix `^P-`, the section should contain `B − A + 1` blocks from `^P-A` to `^P-B`.)
+- [ ] **Every assets file's verse range begins at the first verse's opening line.** The first non-heading line of the "Pāli source verses" section should begin with the printed verse number `A.` — if it begins mid-sentence, the multi-line start boundary was mishandled (see Phase 1 step 2). Check the "English translation" section the same way.
 - [ ] Every assets file's "Section summary" section is non-empty and contains the matching `#### <subsection-text>` heading from the summary rail.
 - [ ] Every assets file's "Practice notes" section is non-empty and contains the matching `### <subsection-text>` heading from the practice rail.
 - [ ] No day was silently skipped because of a missing asset — every halt was reported.
@@ -343,6 +405,32 @@ After Phase 2 has run for every day in the batch:
 - [ ] Every day file's `sources:` frontmatter lists at least the summaries rail and the practice rail.
 - [ ] Every day file's §4 (Reading for Meaning) contains **exactly two** verse-numbered entries: the first verse of the range (`**v. A.**`) and the last (`**v. B.**`), separated by a `…` divider line. No other verses.
 - [ ] Every day file's §6 (Chanting in Pāli) contains **exactly two** distinct block IDs: `^<book>-A` (on the first verse) and `^<book>-B` (on the last verse), separated by a `…` divider line. No other block IDs.
+- [ ] **Both boundary verses in §4 and §6 begin at their verse's opening line.** For each of the four entries (§4 first/last, §6 first/last), resolve the verse in its source file, walk back to its opening line, and confirm the day file's entry starts with that same text. An entry that starts mid-verse is the failure mode this check exists for — it is invisible to every other check here. A bash test:
+  ```bash
+  # Substitute DAY, BOOK (1/2/3), A and B; run from the vault root.
+  python3 -c "
+  import re
+  DAY,P,A,B='078','2',1,15
+  SRC=f'1-SOURCES/Text/pi-{P}.md'
+  def opening(path,n):
+      L=open(path,encoding='utf-8').read().split('\n')
+      ei=[i for i,l in enumerate(L) if re.search(rf'\^{P}-{n}\s*\$',l)][0]
+      si=ei; j=ei-1
+      while j>=0:
+          s=L[j].strip()
+          if s=='' or re.search(r'\^[\w\-]+\s*\$',L[j]) or re.match(r'^#{1,6}\s',L[j]): break
+          si=j; j-=1
+      first=re.sub(rf'\s*\^{P}-\d+\s*\$','',L[si]).strip()
+      return re.sub(rf'^{n}\.\s*','',first)
+  t=open(f'3-TRANSFORMATIONS/Plans/Daily-Tipitaka/en/days/day-{DAY}.md',encoding='utf-8').read()
+  s6=re.search(r'## 6\..*?(?=\n## 7)',t,re.S).group(0)
+  for n in (A,B):
+      op=opening(SRC,n)
+      ok=bool(re.search(rf'\*\*{n}\.\*\* '+re.escape(op[:55]),s6))
+      print(f'  §6 v{n}: {\"OK\" if ok else \"STARTS MID-VERSE\"}')
+  "
+  ```
+- [ ] **The first and last verse entries are distinguishable from each other.** In the Abhidhamma's repeating formulas consecutive verses often open with identical wording, so if a day's two entries read the same, the closing line is missing from one or both (see "Multi-line verses in §4 and §6"). A reader must be able to tell the range's start from its end.
 - [ ] §1 word count ≤ ~180 words (re-count after writing). Cut if over.
 - [ ] §5 word count ≤ ~140 words (re-count after writing). Cut if over.
 - [ ] Every Pāli technical term appearing in §1 or §5 has a corresponding row in `<lang>/termbase.md` (either pre-existing or newly appended in Phase 2 step 10), and the English rendering used in §1/§5 matches that row's locked rendering verbatim. **Spot-check at least three terms per day** by grepping the term in §1/§5 against the termbase row.

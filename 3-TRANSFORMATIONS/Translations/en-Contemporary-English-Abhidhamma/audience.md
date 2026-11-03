@@ -13,13 +13,23 @@ Template: `4-SYSTEM/Templates/audience.md`.
 
 ---
 
-> **Inferred starting points (2026-07-30).** The sections below are still largely
-> `TODO`. Where a value can be inferred from `requirements.md` (which mandates a
-> 7th–8th grade reading level and 12–20 word sentences) or from the downstream
-> Daily Tipitaka audience profile
+> **Inferred starting points (2026-07-30, corrected 2026-07-31).** The sections
+> below are still largely `TODO`. Where a value can be inferred from
+> `requirements.md` (which mandates a 7th–8th grade reading level and 12–20 word
+> sentences) or from the downstream Daily Tipitaka audience profile
 > (`../../Plans/Daily-Tipitaka/en/audience.md`), it is marked **(inferred)** and
 > needs a reviewer to confirm or replace it. Nothing here has been confirmed with
 > real readers.
+>
+> **Correction:** these inferences were originally written on the belief that no
+> audience profile existed for the Book II translation. One does —
+> `AI_translation/audience_profile/plain.md` (commit fe5eaea) — and it says:
+> *readers with little or no Buddhist background; make the text understandable
+> without prior knowledge of Buddhist terminology; clear, modern, natural
+> language.* That is brief but real, and it is the pipeline's own statement of
+> intent. It should be reconciled with this file rather than inferred around.
+> Note it does **not** mention second-language readers, which the inference below
+> asserts — that part came from the Daily Tipitaka profile, not from here.
 
 ## 1. Demographics and Region
 

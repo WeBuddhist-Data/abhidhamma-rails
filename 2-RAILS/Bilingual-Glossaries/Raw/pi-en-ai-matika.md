@@ -22,11 +22,11 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| by_development | 4 | ^1-0a-8 | — |
+| by_development | 4 | ^1-MI-8 | — |
 
 **Sample pairings:**
 
-> **^1-0a-8** — *bhāvanāya* → "by_development"
+> **^1-MI-8** — *bhāvanāya* → "by_development"
 
 ---
 
@@ -36,19 +36,19 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| but | 20 | ^1-0b-4 | — |
-| both | 10 | ^1-0b-17 | — |
-| and_are | 6 | ^1-0b-4 | — |
-| and | 3 | ^1-0b-29 | — |
-| and_are_also | 1 | ^1-0b-72 | — |
+| but | 20 | ^1-MII-4 | — |
+| both | 10 | ^1-MII-17 | — |
+| and_are | 6 | ^1-MII-4 | — |
+| and | 3 | ^1-MII-29 | — |
+| and_are_also | 1 | ^1-MII-72 | — |
 
 **Sample pairings:**
 
-> **^1-0b-4** — *ceva* → "but"
+> **^1-MII-4** — *ceva* → "but"
 >
-> **^1-0b-17** — *ceva* → "both"
+> **^1-MII-17** — *ceva* → "both"
 >
-> **^1-0b-5** — *ceva* → "and_are"
+> **^1-MII-5** — *ceva* → "and_are"
 
 ---
 
@@ -58,14 +58,14 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| by_seeing | 2 | ^1-0a-8 | — |
-| by_insight | 2 | ^1-0b-83 | — |
+| by_seeing | 2 | ^1-MI-8 | — |
+| by_insight | 2 | ^1-MII-83 | — |
 
 **Sample pairings:**
 
-> **^1-0a-8** — *dassanena* → "by_seeing"
+> **^1-MI-8** — *dassanena* → "by_seeing"
 >
-> **^1-0b-83** — *dassanena* → "by_insight"
+> **^1-MII-83** — *dassanena* → "by_insight"
 
 ---
 
@@ -75,22 +75,22 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| Phenomena | 57 | ^1-0a-16 | — |
-| States | 32 | ^1-0a-2 | — |
-| phenomena | 28 | ^1-0a-22 | — |
-| states | 3 | ^1-0a-12 | — |
-| states. | 2 | ^1-0a-1 | — |
-| phenomena; | 2 | ^1-0a-18 | — |
-| knowable_by_some | 1 | ^1-0b-13 | — |
-| not_knowable_by_some | 1 | ^1-0b-13 | — |
+| Phenomena | 57 | ^1-MI-16 | — |
+| States | 32 | ^1-MI-2 | — |
+| phenomena | 28 | ^1-MI-22 | — |
+| states | 3 | ^1-MI-12 | — |
+| states. | 2 | ^1-MI-1 | — |
+| phenomena; | 2 | ^1-MI-18 | — |
+| knowable_by_some | 1 | ^1-MII-13 | — |
+| not_knowable_by_some | 1 | ^1-MII-13 | — |
 
 **Sample pairings:**
 
-> **^1-0a-16** — *dhammā* → "Phenomena"
+> **^1-MI-16** — *dhammā* → "Phenomena"
 >
-> **^1-0a-2** — *dhammā* → "States"
+> **^1-MI-2** — *dhammā* → "States"
 >
-> **^1-0a-22** — *dhammā* → "phenomena"
+> **^1-MI-22** — *dhammā* → "phenomena"
 
 ---
 
@@ -100,12 +100,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| knots | 3 | ^1-0b-26 | — |
-| knots. | 1 | ^1-0b-26 | — |
+| knots | 3 | ^1-MII-26 | — |
+| knots. | 1 | ^1-MII-26 | — |
 
 **Sample pairings:**
 
-> **^1-0b-26** — *ganthā* → "knots"
+> **^1-MII-26** — *ganthā* → "knots"
 
 ---
 
@@ -115,14 +115,14 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| roots. | 3 | ^1-0b-1 | — |
-| roots | 3 | ^1-0b-1 | — |
+| roots. | 3 | ^1-MII-1 | — |
+| roots | 3 | ^1-MII-1 | — |
 
 **Sample pairings:**
 
-> **^1-0b-1** — *hetū* → "roots."
+> **^1-MII-1** — *hetū* → "roots."
 >
-> **^1-0b-4** — *hetū* → "roots"
+> **^1-MII-4** — *hetū* → "roots"
 
 ---
 
@@ -132,12 +132,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| defilements | 4 | ^1-0b-75 | — |
-| defilements. | 1 | ^1-0b-75 | — |
+| defilements | 4 | ^1-MII-75 | — |
+| defilements. | 1 | ^1-MII-75 | — |
 
 **Sample pairings:**
 
-> **^1-0b-75** — *kilesā* → "defilements"
+> **^1-MII-75** — *kilesā* → "defilements"
 
 ---
 
@@ -147,14 +147,14 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| not | 34 | ^1-0b-14 | — |
-| Non-derived | 1 | ^1-0b-67 | — |
+| not | 34 | ^1-MII-14 | — |
+| Non-derived | 1 | ^1-MII-67 | — |
 
 **Sample pairings:**
 
-> **^1-0b-14** — *no* → "not"
+> **^1-MII-14** — *no* → "not"
 >
-> **^1-0b-67** — *no* → "Non-derived"
+> **^1-MII-67** — *no* → "Non-derived"
 
 ---
 
@@ -164,12 +164,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| hindrances | 3 | ^1-0b-44 | — |
-| hindrances. | 1 | ^1-0b-44 | — |
+| hindrances | 3 | ^1-MII-44 | — |
+| hindrances. | 1 | ^1-MII-44 | — |
 
 **Sample pairings:**
 
-> **^1-0b-44** — *nīvaraṇā* → "hindrances"
+> **^1-MII-44** — *nīvaraṇā* → "hindrances"
 
 ---
 
@@ -179,12 +179,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| floods | 3 | ^1-0b-32 | — |
-| floods. | 1 | ^1-0b-32 | — |
+| floods | 3 | ^1-MII-32 | — |
+| floods. | 1 | ^1-MII-32 | — |
 
 **Sample pairings:**
 
-> **^1-0b-32** — *oghā* → "floods"
+> **^1-MII-32** — *oghā* → "floods"
 
 ---
 
@@ -194,12 +194,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| fetters | 3 | ^1-0b-20 | — |
-| fetters; | 1 | ^1-0b-20 | — |
+| fetters | 3 | ^1-MII-20 | — |
+| fetters; | 1 | ^1-MII-20 | — |
 
 **Sample pairings:**
 
-> **^1-0b-20** — *saṃyojanā* → "fetters"
+> **^1-MII-20** — *saṃyojanā* → "fetters"
 
 ---
 
@@ -209,12 +209,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| clinging_itself | 3 | ^1-0b-69 | — |
-| clinging_itself. | 1 | ^1-0b-69 | — |
+| clinging_itself | 3 | ^1-MII-69 | — |
+| clinging_itself. | 1 | ^1-MII-69 | — |
 
 **Sample pairings:**
 
-> **^1-0b-69** — *upādānā* → "clinging_itself"
+> **^1-MII-69** — *upādānā* → "clinging_itself"
 
 ---
 
@@ -224,12 +224,12 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| yokes | 3 | ^1-0b-38 | — |
-| yokes. | 1 | ^1-0b-38 | — |
+| yokes | 3 | ^1-MII-38 | — |
+| yokes. | 1 | ^1-MII-38 | — |
 
 **Sample pairings:**
 
-> **^1-0b-38** — *yogā* → "yokes"
+> **^1-MII-38** — *yogā* → "yokes"
 
 ---
 
@@ -239,13 +239,13 @@ Extracted from the interlinear gloss file (14 keywords with occurrence ≥ 3, fu
 
 | Rendering | Frequency | First seen | Notes |
 |-----------|-----------|------------|-------|
-| cankers | 2 | ^1-0b-17 | — |
-| taints | 1 | ^1-0b-14 | — |
+| cankers | 2 | ^1-MII-17 | — |
+| taints | 1 | ^1-MII-14 | — |
 
 **Sample pairings:**
 
-> **^1-0b-17** — *āsavā* → "cankers"
+> **^1-MII-17** — *āsavā* → "cankers"
 >
-> **^1-0b-14** — *āsavā* → "taints"
+> **^1-MII-14** — *āsavā* → "taints"
 
 ---

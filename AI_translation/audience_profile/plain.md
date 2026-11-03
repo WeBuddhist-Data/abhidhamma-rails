@@ -1,4 +1,4 @@
-# Audience Profile: Plain English Version
+# Audience Profile: Plain <language> Version
 
 ## Audience
 

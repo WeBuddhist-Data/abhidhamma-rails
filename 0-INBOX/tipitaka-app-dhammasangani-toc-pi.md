@@ -1,0 +1,161 @@
+---
+title: Dhammasaṅgaṇīpāḷi — table of contents (tipitaka.app side navigation)
+language: Pāli
+lang_tag: pi
+source_url: https://tipitaka.app/latn/ap-dhs
+scraped: 2026-10-22
+node_count: 147
+note: "Scratch scrape of the site's Contents sidebar (Mūla tab), fully expanded. Not authoritative — inbox only."
+---
+
+# Dhammasaṅgaṇīpāḷi — TOC (tipitaka.app)
+
+Node IDs are tipitaka.app's own URL slugs (`ap-dhs-…`), not vault block IDs.
+
+- [Dhammasaṅgaṇīpāḷi](https://tipitaka.app/latn/ap-dhs) `ap-dhs`
+  - [Mātikā](https://tipitaka.app/latn/ap-dhs-0) `ap-dhs-0`
+    - [1. Tikamātikā](https://tipitaka.app/latn/ap-dhs-0-1) `ap-dhs-0-1`
+    - [2. Dukamātikā](https://tipitaka.app/latn/ap-dhs-0-2) `ap-dhs-0-2`
+      - [Hetugocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-1) `ap-dhs-0-2-1`
+      - [Cūḷantaradukaṃ](https://tipitaka.app/latn/ap-dhs-0-2-2) `ap-dhs-0-2-2`
+      - [Āsavagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-3) `ap-dhs-0-2-3`
+      - [Saṃyojanagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-4) `ap-dhs-0-2-4`
+      - [Ganthagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-5) `ap-dhs-0-2-5`
+      - [Oghagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-6) `ap-dhs-0-2-6`
+      - [Yogagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-7) `ap-dhs-0-2-7`
+      - [Nīvaraṇagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-8) `ap-dhs-0-2-8`
+      - [Parāmāsagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-9) `ap-dhs-0-2-9`
+      - [Mahantaradukaṃ](https://tipitaka.app/latn/ap-dhs-0-2-10) `ap-dhs-0-2-10`
+      - [Upādānagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-11) `ap-dhs-0-2-11`
+      - [Kilesagocchakaṃ](https://tipitaka.app/latn/ap-dhs-0-2-12) `ap-dhs-0-2-12`
+      - [Piṭṭhidukaṃ](https://tipitaka.app/latn/ap-dhs-0-2-13) `ap-dhs-0-2-13`
+      - [Suttantikadukamātikā](https://tipitaka.app/latn/ap-dhs-0-2-14) `ap-dhs-0-2-14`
+  - [1. Cittuppādakaṇḍaṃ](https://tipitaka.app/latn/ap-dhs-1) `ap-dhs-1`
+    - [Kāmāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-1) `ap-dhs-1-1`
+      - [Padabhājanī](https://tipitaka.app/latn/ap-dhs-1-1-1) `ap-dhs-1-1-1`
+      - [Koṭṭhāsavāro](https://tipitaka.app/latn/ap-dhs-1-1-2) `ap-dhs-1-1-2`
+      - [Suññatavāro](https://tipitaka.app/latn/ap-dhs-1-1-3) `ap-dhs-1-1-3`
+    - [Rūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-2) `ap-dhs-1-2`
+      - [Catukkanayo](https://tipitaka.app/latn/ap-dhs-1-2-1) `ap-dhs-1-2-1`
+      - [Pañcakanayo](https://tipitaka.app/latn/ap-dhs-1-2-2) `ap-dhs-1-2-2`
+      - [Catasso paṭipadā](https://tipitaka.app/latn/ap-dhs-1-2-3) `ap-dhs-1-2-3`
+      - [Cattāri ārammaṇāni](https://tipitaka.app/latn/ap-dhs-1-2-4) `ap-dhs-1-2-4`
+      - [Soḷasakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-5) `ap-dhs-1-2-5`
+      - [Aṭṭhakasiṇaṃ soḷasakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-6) `ap-dhs-1-2-6`
+      - [Abhibhāyatanāni parittāni](https://tipitaka.app/latn/ap-dhs-1-2-7) `ap-dhs-1-2-7`
+      - [Catasso paṭipadā](https://tipitaka.app/latn/ap-dhs-1-2-8) `ap-dhs-1-2-8`
+      - [Dve ārammaṇāni](https://tipitaka.app/latn/ap-dhs-1-2-9) `ap-dhs-1-2-9`
+      - [Aṭṭhakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-10) `ap-dhs-1-2-10`
+      - [Idampi aṭṭhakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-11) `ap-dhs-1-2-11`
+      - [Appamāṇāni](https://tipitaka.app/latn/ap-dhs-1-2-12) `ap-dhs-1-2-12`
+      - [Catasso paṭipadā](https://tipitaka.app/latn/ap-dhs-1-2-13) `ap-dhs-1-2-13`
+      - [Dve ārammaṇāni](https://tipitaka.app/latn/ap-dhs-1-2-14) `ap-dhs-1-2-14`
+      - [Aparampi aṭṭhakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-15) `ap-dhs-1-2-15`
+      - [Idampi aṭṭhakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-16) `ap-dhs-1-2-16`
+      - [Tīṇi vimokkhāni soḷasakkhattukāni](https://tipitaka.app/latn/ap-dhs-1-2-17) `ap-dhs-1-2-17`
+      - [Cattāri brahmavihārajhānāni soḷasakkhattukāni](https://tipitaka.app/latn/ap-dhs-1-2-18) `ap-dhs-1-2-18`
+      - [Asubhajhānaṃ soḷasakkhattukaṃ](https://tipitaka.app/latn/ap-dhs-1-2-19) `ap-dhs-1-2-19`
+    - [Arūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-3) `ap-dhs-1-3`
+      - [Cattāri arūpajhānāni soḷasakkhattukāni](https://tipitaka.app/latn/ap-dhs-1-3-1) `ap-dhs-1-3-1`
+    - [Tebhūmakakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-4) `ap-dhs-1-4`
+      - [Kāmāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-4-1) `ap-dhs-1-4-1`
+      - [Rūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-4-2) `ap-dhs-1-4-2`
+      - [Arūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-4-3) `ap-dhs-1-4-3`
+    - [Lokuttarakusalaṃ](https://tipitaka.app/latn/ap-dhs-1-5) `ap-dhs-1-5`
+      - [Suddhikapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-5-1) `ap-dhs-1-5-1`
+      - [Suññataṃ](https://tipitaka.app/latn/ap-dhs-1-5-2) `ap-dhs-1-5-2`
+      - [Suññatamūlakapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-5-3) `ap-dhs-1-5-3`
+      - [Appaṇihitaṃ](https://tipitaka.app/latn/ap-dhs-1-5-4) `ap-dhs-1-5-4`
+      - [Appaṇihitamūlakapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-5-5) `ap-dhs-1-5-5`
+      - [Vīsati mahānayā](https://tipitaka.app/latn/ap-dhs-1-5-6) `ap-dhs-1-5-6`
+      - [Adhipati](https://tipitaka.app/latn/ap-dhs-1-5-7) `ap-dhs-1-5-7`
+    - [Dvādasa akusalāni](https://tipitaka.app/latn/ap-dhs-1-6) `ap-dhs-1-6`
+    - [Abyākatavipāko](https://tipitaka.app/latn/ap-dhs-1-7) `ap-dhs-1-7`
+      - [Kusalavipākapañcaviññāṇāni](https://tipitaka.app/latn/ap-dhs-1-7-1) `ap-dhs-1-7-1`
+      - [Kusalavipākamanodhātu](https://tipitaka.app/latn/ap-dhs-1-7-2) `ap-dhs-1-7-2`
+      - [Kusalavipākamanoviññāṇadhātusomanassasahagatā](https://tipitaka.app/latn/ap-dhs-1-7-3) `ap-dhs-1-7-3`
+      - [Kusalavipākamanoviññāṇadhātuupekkhāsahagatā](https://tipitaka.app/latn/ap-dhs-1-7-4) `ap-dhs-1-7-4`
+      - [Aṭṭhamahāv ipākā](https://tipitaka.app/latn/ap-dhs-1-7-5) `ap-dhs-1-7-5`
+      - [Rūpāvacaravipākā](https://tipitaka.app/latn/ap-dhs-1-7-6) `ap-dhs-1-7-6`
+      - [Arūpāvacaravipākā](https://tipitaka.app/latn/ap-dhs-1-7-7) `ap-dhs-1-7-7`
+    - [Lokuttaravipāka-paṭhamamaggavipākā](https://tipitaka.app/latn/ap-dhs-1-8) `ap-dhs-1-8`
+      - [Suddhikapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-8-1) `ap-dhs-1-8-1`
+      - [Suddhikasuññataṃ](https://tipitaka.app/latn/ap-dhs-1-8-2) `ap-dhs-1-8-2`
+      - [Suññatapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-8-3) `ap-dhs-1-8-3`
+      - [Suddhikaappaṇihitaṃ](https://tipitaka.app/latn/ap-dhs-1-8-4) `ap-dhs-1-8-4`
+      - [Appaṇihitapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-8-5) `ap-dhs-1-8-5`
+      - [Vīsati mahānayā](https://tipitaka.app/latn/ap-dhs-1-8-6) `ap-dhs-1-8-6`
+      - [Chandādhipateyyasuddhikapaṭipadā](https://tipitaka.app/latn/ap-dhs-1-8-7) `ap-dhs-1-8-7`
+      - [Chandādhipateyyasuddhikasuññatā](https://tipitaka.app/latn/ap-dhs-1-8-8) `ap-dhs-1-8-8`
+      - [Dutiyādimaggavipāko](https://tipitaka.app/latn/ap-dhs-1-8-9) `ap-dhs-1-8-9`
+    - [Akusalavipākaabyākataṃ](https://tipitaka.app/latn/ap-dhs-1-9) `ap-dhs-1-9`
+      - [Akusalavipākapañcaviññāṇāni](https://tipitaka.app/latn/ap-dhs-1-9-1) `ap-dhs-1-9-1`
+      - [Akusalavipākamanodhātu](https://tipitaka.app/latn/ap-dhs-1-9-2) `ap-dhs-1-9-2`
+      - [Akusalavipākamanoviññāṇadhātu](https://tipitaka.app/latn/ap-dhs-1-9-3) `ap-dhs-1-9-3`
+    - [Ahetukakiriyāabyākataṃ](https://tipitaka.app/latn/ap-dhs-1-10) `ap-dhs-1-10`
+      - [Kiriyāmanodhātu](https://tipitaka.app/latn/ap-dhs-1-10-1) `ap-dhs-1-10-1`
+      - [Kiriyāmanoviññāṇadhātusomanassasahagatā](https://tipitaka.app/latn/ap-dhs-1-10-2) `ap-dhs-1-10-2`
+      - [Kiriyāmanoviññāṇadhātuupekkhāsahagatā](https://tipitaka.app/latn/ap-dhs-1-10-3) `ap-dhs-1-10-3`
+      - [Sahetukakāmāvacarakiriyā](https://tipitaka.app/latn/ap-dhs-1-10-4) `ap-dhs-1-10-4`
+      - [Rūpāvacarakiriyā](https://tipitaka.app/latn/ap-dhs-1-10-5) `ap-dhs-1-10-5`
+      - [Arūpāvacarakiriyā](https://tipitaka.app/latn/ap-dhs-1-10-6) `ap-dhs-1-10-6`
+  - [2. Rūpakaṇḍaṃ](https://tipitaka.app/latn/ap-dhs-2) `ap-dhs-2`
+    - [Uddeso](https://tipitaka.app/latn/ap-dhs-2-1) `ap-dhs-2-1`
+    - [Mātikā](https://tipitaka.app/latn/ap-dhs-2-2) `ap-dhs-2-2`
+      - [Ekakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-1) `ap-dhs-2-2-1`
+      - [Dukaṃ](https://tipitaka.app/latn/ap-dhs-2-2-2) `ap-dhs-2-2-2`
+      - [Tikaṃ](https://tipitaka.app/latn/ap-dhs-2-2-3) `ap-dhs-2-2-3`
+      - [Catukkaṃ](https://tipitaka.app/latn/ap-dhs-2-2-4) `ap-dhs-2-2-4`
+      - [Pañcakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-5) `ap-dhs-2-2-5`
+      - [Chakkaṃ](https://tipitaka.app/latn/ap-dhs-2-2-6) `ap-dhs-2-2-6`
+      - [Sattakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-7) `ap-dhs-2-2-7`
+      - [Aṭṭhakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-8) `ap-dhs-2-2-8`
+      - [Navakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-9) `ap-dhs-2-2-9`
+      - [Dasakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-10) `ap-dhs-2-2-10`
+      - [Ekādasakaṃ](https://tipitaka.app/latn/ap-dhs-2-2-11) `ap-dhs-2-2-11`
+    - [Rūpavibhatti](https://tipitaka.app/latn/ap-dhs-2-3) `ap-dhs-2-3`
+      - [Ekakaniddeso](https://tipitaka.app/latn/ap-dhs-2-3-1) `ap-dhs-2-3-1`
+      - [Dukaniddeso](https://tipitaka.app/latn/ap-dhs-2-3-2) `ap-dhs-2-3-2`
+      - [Upādābhājanīyaṃ](https://tipitaka.app/latn/ap-dhs-2-3-3) `ap-dhs-2-3-3`
+      - [Tikaniddeso](https://tipitaka.app/latn/ap-dhs-2-3-4) `ap-dhs-2-3-4`
+      - [Catukkaṃ](https://tipitaka.app/latn/ap-dhs-2-3-5) `ap-dhs-2-3-5`
+      - [Pañcakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-6) `ap-dhs-2-3-6`
+      - [Chakkaṃ](https://tipitaka.app/latn/ap-dhs-2-3-7) `ap-dhs-2-3-7`
+      - [Sattakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-8) `ap-dhs-2-3-8`
+      - [Aṭṭhakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-9) `ap-dhs-2-3-9`
+      - [Navakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-10) `ap-dhs-2-3-10`
+      - [Dasakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-11) `ap-dhs-2-3-11`
+      - [Ekādasakaṃ](https://tipitaka.app/latn/ap-dhs-2-3-12) `ap-dhs-2-3-12`
+  - [3. Nikkhepakaṇḍaṃ](https://tipitaka.app/latn/ap-dhs-3) `ap-dhs-3`
+    - [Tikanikkhepaṃ](https://tipitaka.app/latn/ap-dhs-3-1) `ap-dhs-3-1`
+    - [Dukanikkhepaṃ](https://tipitaka.app/latn/ap-dhs-3-2) `ap-dhs-3-2`
+      - [Hetugocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-1) `ap-dhs-3-2-1`
+      - [Cūḷantaradukaṃ](https://tipitaka.app/latn/ap-dhs-3-2-2) `ap-dhs-3-2-2`
+      - [Āsavagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-3) `ap-dhs-3-2-3`
+      - [Saṃyojanagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-4) `ap-dhs-3-2-4`
+      - [Ganthagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-5) `ap-dhs-3-2-5`
+      - [Oghagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-6) `ap-dhs-3-2-6`
+      - [Yogagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-7) `ap-dhs-3-2-7`
+      - [Nīvaraṇagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-8) `ap-dhs-3-2-8`
+      - [Parāmāsagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-9) `ap-dhs-3-2-9`
+      - [Mahantaradukaṃ](https://tipitaka.app/latn/ap-dhs-3-2-10) `ap-dhs-3-2-10`
+      - [Upādānagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-11) `ap-dhs-3-2-11`
+      - [Kilesagocchakaṃ](https://tipitaka.app/latn/ap-dhs-3-2-12) `ap-dhs-3-2-12`
+      - [Piṭṭhidukaṃ](https://tipitaka.app/latn/ap-dhs-3-2-13) `ap-dhs-3-2-13`
+    - [Suttantikadukanikkhepaṃ](https://tipitaka.app/latn/ap-dhs-3-3) `ap-dhs-3-3`
+  - [4. Aṭṭhakathākaṇḍaṃ](https://tipitaka.app/latn/ap-dhs-4) `ap-dhs-4`
+    - [Tikaatthuddhāro](https://tipitaka.app/latn/ap-dhs-4-1) `ap-dhs-4-1`
+    - [Dukaatthuddhāro](https://tipitaka.app/latn/ap-dhs-4-2) `ap-dhs-4-2`
+      - [Hetugocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-1) `ap-dhs-4-2-1`
+      - [Cūḷantaradukaṃ](https://tipitaka.app/latn/ap-dhs-4-2-2) `ap-dhs-4-2-2`
+      - [Āsavagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-3) `ap-dhs-4-2-3`
+      - [Saṃyojanagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-4) `ap-dhs-4-2-4`
+      - [Ganthagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-5) `ap-dhs-4-2-5`
+      - [Oghagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-6) `ap-dhs-4-2-6`
+      - [Yogagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-7) `ap-dhs-4-2-7`
+      - [Nīvaraṇagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-8) `ap-dhs-4-2-8`
+      - [Parāmāsagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-9) `ap-dhs-4-2-9`
+      - [Mahantaradukaṃ](https://tipitaka.app/latn/ap-dhs-4-2-10) `ap-dhs-4-2-10`
+      - [Upādānagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-11) `ap-dhs-4-2-11`
+      - [Kilesagocchakaṃ](https://tipitaka.app/latn/ap-dhs-4-2-12) `ap-dhs-4-2-12`
+      - [Piṭṭhidukaṃ](https://tipitaka.app/latn/ap-dhs-4-2-13) `ap-dhs-4-2-13`

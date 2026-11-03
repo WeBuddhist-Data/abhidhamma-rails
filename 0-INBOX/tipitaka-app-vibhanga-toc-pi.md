@@ -1,0 +1,443 @@
+---
+title: Vibhaṅgapāḷi — table of contents (tipitaka.app side navigation)
+language: Pāli
+lang_tag: pi
+source_url: https://tipitaka.app/latn/ap-vbh
+scraped: 2026-10-22
+node_count: 429
+note: "Scratch scrape of the site's Contents sidebar (Mūla tab), fully expanded. Not authoritative — inbox only."
+---
+
+# Vibhaṅgapāḷi — TOC (tipitaka.app)
+
+Node IDs are tipitaka.app's own URL slugs (`ap-vbh-…`), not vault block IDs. Nesting mirrors the site exactly, including its quirks (e.g. under 17 the 2.–10. mātikā entries sit beneath "1. Ekakamātikā").
+
+- [Vibhaṅgapāḷi](https://tipitaka.app/latn/ap-vbh) `ap-vbh`
+  - [1. Khandhavibhaṅgo](https://tipitaka.app/latn/ap-vbh-1) `ap-vbh-1`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-1-1) `ap-vbh-1-1`
+      - [1. Rūpakkhandho](https://tipitaka.app/latn/ap-vbh-1-1-1) `ap-vbh-1-1-1`
+      - [2. Vedanākkhandho](https://tipitaka.app/latn/ap-vbh-1-1-2) `ap-vbh-1-1-2`
+      - [3. Saññākkhandho](https://tipitaka.app/latn/ap-vbh-1-1-3) `ap-vbh-1-1-3`
+      - [4. Saṅkhārakkhandho](https://tipitaka.app/latn/ap-vbh-1-1-4) `ap-vbh-1-1-4`
+      - [5. Viññāṇakkhandho](https://tipitaka.app/latn/ap-vbh-1-1-5) `ap-vbh-1-1-5`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-1-2) `ap-vbh-1-2`
+      - [1. Rūpakkhandho](https://tipitaka.app/latn/ap-vbh-1-2-1) `ap-vbh-1-2-1`
+      - [2. Vedanākkhandho](https://tipitaka.app/latn/ap-vbh-1-2-2) `ap-vbh-1-2-2`
+      - [3. Saññākkhandho](https://tipitaka.app/latn/ap-vbh-1-2-3) `ap-vbh-1-2-3`
+      - [4. Saṅkhārakkhandho](https://tipitaka.app/latn/ap-vbh-1-2-4) `ap-vbh-1-2-4`
+      - [5. Viññāṇakkhandho](https://tipitaka.app/latn/ap-vbh-1-2-5) `ap-vbh-1-2-5`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-1-3) `ap-vbh-1-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-1-3-1) `ap-vbh-1-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-1-3-2) `ap-vbh-1-3-2`
+  - [2. Āyatanavibhaṅgo](https://tipitaka.app/latn/ap-vbh-2) `ap-vbh-2`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-2-1) `ap-vbh-2-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-2-2) `ap-vbh-2-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-2-3) `ap-vbh-2-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-2-3-1) `ap-vbh-2-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-2-3-2) `ap-vbh-2-3-2`
+  - [3. Dhātuvibhaṅgo](https://tipitaka.app/latn/ap-vbh-3) `ap-vbh-3`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-3-1) `ap-vbh-3-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-3-2) `ap-vbh-3-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-3-3) `ap-vbh-3-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-3-3-1) `ap-vbh-3-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-3-3-2) `ap-vbh-3-3-2`
+  - [4. Saccavibhaṅgo](https://tipitaka.app/latn/ap-vbh-4) `ap-vbh-4`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-4-1) `ap-vbh-4-1`
+      - [1. Dukkhasaccaṃ](https://tipitaka.app/latn/ap-vbh-4-1-1) `ap-vbh-4-1-1`
+      - [2. Samudayasaccaṃ](https://tipitaka.app/latn/ap-vbh-4-1-2) `ap-vbh-4-1-2`
+      - [3. Nirodhasaccaṃ](https://tipitaka.app/latn/ap-vbh-4-1-3) `ap-vbh-4-1-3`
+      - [4. Maggasaccaṃ](https://tipitaka.app/latn/ap-vbh-4-1-4) `ap-vbh-4-1-4`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-4-2) `ap-vbh-4-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-4-3) `ap-vbh-4-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-4-3-1) `ap-vbh-4-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-4-3-2) `ap-vbh-4-3-2`
+  - [5. Indriyavibhaṅgo](https://tipitaka.app/latn/ap-vbh-5) `ap-vbh-5`
+    - [1. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-5-1) `ap-vbh-5-1`
+    - [2. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-5-2) `ap-vbh-5-2`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-5-2-1) `ap-vbh-5-2-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-5-2-2) `ap-vbh-5-2-2`
+  - [6. Paṭiccasamuppādavibhaṅgo](https://tipitaka.app/latn/ap-vbh-6) `ap-vbh-6`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-6-1) `ap-vbh-6-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-6-2) `ap-vbh-6-2`
+      - [1. Paccayacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-1) `ap-vbh-6-2-1`
+      - [2. Hetucatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-2) `ap-vbh-6-2-2`
+      - [3. Sampayuttacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-3) `ap-vbh-6-2-3`
+      - [4. Aññamaññacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-4) `ap-vbh-6-2-4`
+        - [Mātikā](https://tipitaka.app/latn/ap-vbh-6-2-4-1) `ap-vbh-6-2-4-1`
+      - [5. Paccayacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-5) `ap-vbh-6-2-5`
+      - [6. Hetucatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-6) `ap-vbh-6-2-6`
+      - [7. Sampayuttacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-7) `ap-vbh-6-2-7`
+      - [8. Aññamaññacatukkaṃ](https://tipitaka.app/latn/ap-vbh-6-2-8) `ap-vbh-6-2-8`
+      - [9. Akusalaniddeso](https://tipitaka.app/latn/ap-vbh-6-2-9) `ap-vbh-6-2-9`
+      - [10. Kusalaniddeso](https://tipitaka.app/latn/ap-vbh-6-2-10) `ap-vbh-6-2-10`
+      - [11. Abyākataniddeso](https://tipitaka.app/latn/ap-vbh-6-2-11) `ap-vbh-6-2-11`
+      - [12. Avijjāmūlakakusalaniddeso](https://tipitaka.app/latn/ap-vbh-6-2-12) `ap-vbh-6-2-12`
+      - [13. Kusalamūlakavipākaniddeso](https://tipitaka.app/latn/ap-vbh-6-2-13) `ap-vbh-6-2-13`
+      - [14. Akusalamūlakavipākaniddeso](https://tipitaka.app/latn/ap-vbh-6-2-14) `ap-vbh-6-2-14`
+  - [7. Satipaṭṭhānavibhaṅgo](https://tipitaka.app/latn/ap-vbh-7) `ap-vbh-7`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-7-1) `ap-vbh-7-1`
+      - [1. Kāyānupassanāniddeso](https://tipitaka.app/latn/ap-vbh-7-1-1) `ap-vbh-7-1-1`
+      - [2. Vedanānupassanāniddeso](https://tipitaka.app/latn/ap-vbh-7-1-2) `ap-vbh-7-1-2`
+      - [3. Cittānupassanāniddeso](https://tipitaka.app/latn/ap-vbh-7-1-3) `ap-vbh-7-1-3`
+      - [4. Dhammānupassanāniddeso](https://tipitaka.app/latn/ap-vbh-7-1-4) `ap-vbh-7-1-4`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-7-2) `ap-vbh-7-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-7-3) `ap-vbh-7-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-7-3-1) `ap-vbh-7-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-7-3-2) `ap-vbh-7-3-2`
+  - [8. Sammappadhānavibhaṅgo](https://tipitaka.app/latn/ap-vbh-8) `ap-vbh-8`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-8-1) `ap-vbh-8-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-8-2) `ap-vbh-8-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-8-3) `ap-vbh-8-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-8-3-1) `ap-vbh-8-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-8-3-2) `ap-vbh-8-3-2`
+  - [9. Iddhipādavibhaṅgo](https://tipitaka.app/latn/ap-vbh-9) `ap-vbh-9`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-9-1) `ap-vbh-9-1`
+      - [1. Chandiddhipādo](https://tipitaka.app/latn/ap-vbh-9-1-1) `ap-vbh-9-1-1`
+      - [2. Vīriyiddhipādo](https://tipitaka.app/latn/ap-vbh-9-1-2) `ap-vbh-9-1-2`
+      - [3. Cittiddhipādo](https://tipitaka.app/latn/ap-vbh-9-1-3) `ap-vbh-9-1-3`
+      - [4. Vīmaṃsiddhipādo](https://tipitaka.app/latn/ap-vbh-9-1-4) `ap-vbh-9-1-4`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-9-2) `ap-vbh-9-2`
+      - [1. Chandiddhipādo](https://tipitaka.app/latn/ap-vbh-9-2-1) `ap-vbh-9-2-1`
+      - [2. Vīriyiddhipādo](https://tipitaka.app/latn/ap-vbh-9-2-2) `ap-vbh-9-2-2`
+      - [3. Cittiddhipādo](https://tipitaka.app/latn/ap-vbh-9-2-3) `ap-vbh-9-2-3`
+      - [4. Vīmaṃsiddhipādo](https://tipitaka.app/latn/ap-vbh-9-2-4) `ap-vbh-9-2-4`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-9-3) `ap-vbh-9-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-9-3-1) `ap-vbh-9-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-9-3-2) `ap-vbh-9-3-2`
+  - [10. Bojjhaṅgavibhaṅgo](https://tipitaka.app/latn/ap-vbh-10) `ap-vbh-10`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-10-1) `ap-vbh-10-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-10-2) `ap-vbh-10-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-10-3) `ap-vbh-10-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-10-3-1) `ap-vbh-10-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-10-3-2) `ap-vbh-10-3-2`
+  - [11. Maggaṅgavibhaṅgo](https://tipitaka.app/latn/ap-vbh-11) `ap-vbh-11`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-11-1) `ap-vbh-11-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-11-2) `ap-vbh-11-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-11-3) `ap-vbh-11-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-11-3-1) `ap-vbh-11-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-11-3-2) `ap-vbh-11-3-2`
+  - [12. Jhānavibhaṅgo](https://tipitaka.app/latn/ap-vbh-12) `ap-vbh-12`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-12-1) `ap-vbh-12-1`
+      - [Mātikā](https://tipitaka.app/latn/ap-vbh-12-1-1) `ap-vbh-12-1-1`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-12-2) `ap-vbh-12-2`
+      - [1. Rūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-vbh-12-2-1) `ap-vbh-12-2-1`
+      - [2. Arūpāvacarakusalaṃ](https://tipitaka.app/latn/ap-vbh-12-2-2) `ap-vbh-12-2-2`
+      - [3. Lokuttarakusalaṃ](https://tipitaka.app/latn/ap-vbh-12-2-3) `ap-vbh-12-2-3`
+      - [4. Rūpāvacaravipākā](https://tipitaka.app/latn/ap-vbh-12-2-4) `ap-vbh-12-2-4`
+      - [5. Arūpāvacaravipākā](https://tipitaka.app/latn/ap-vbh-12-2-5) `ap-vbh-12-2-5`
+      - [6. Lokuttaravipākā](https://tipitaka.app/latn/ap-vbh-12-2-6) `ap-vbh-12-2-6`
+      - [7. Rūpārūpāvacarakiriyā](https://tipitaka.app/latn/ap-vbh-12-2-7) `ap-vbh-12-2-7`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-12-3) `ap-vbh-12-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-12-3-1) `ap-vbh-12-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-12-3-2) `ap-vbh-12-3-2`
+  - [13. Appamaññāvibhaṅgo](https://tipitaka.app/latn/ap-vbh-13) `ap-vbh-13`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-13-1) `ap-vbh-13-1`
+      - [1. Mettā](https://tipitaka.app/latn/ap-vbh-13-1-1) `ap-vbh-13-1-1`
+      - [2. Karuṇā](https://tipitaka.app/latn/ap-vbh-13-1-2) `ap-vbh-13-1-2`
+      - [3. Muditā](https://tipitaka.app/latn/ap-vbh-13-1-3) `ap-vbh-13-1-3`
+      - [4. Upekkhā](https://tipitaka.app/latn/ap-vbh-13-1-4) `ap-vbh-13-1-4`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-13-2) `ap-vbh-13-2`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-13-3) `ap-vbh-13-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-13-3-1) `ap-vbh-13-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-13-3-2) `ap-vbh-13-3-2`
+  - [14. Sikkhāpadavibhaṅgo](https://tipitaka.app/latn/ap-vbh-14) `ap-vbh-14`
+    - [1. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-14-1) `ap-vbh-14-1`
+    - [2. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-14-2) `ap-vbh-14-2`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-14-2-1) `ap-vbh-14-2-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-14-2-2) `ap-vbh-14-2-2`
+  - [15. Paṭisambhidāvibhaṅgo](https://tipitaka.app/latn/ap-vbh-15) `ap-vbh-15`
+    - [1. Suttantabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-15-1) `ap-vbh-15-1`
+      - [1. Saṅgahavāro](https://tipitaka.app/latn/ap-vbh-15-1-1) `ap-vbh-15-1-1`
+      - [2. Saccavāro](https://tipitaka.app/latn/ap-vbh-15-1-2) `ap-vbh-15-1-2`
+      - [3. Hetuvāro](https://tipitaka.app/latn/ap-vbh-15-1-3) `ap-vbh-15-1-3`
+      - [4. Dhammavāro](https://tipitaka.app/latn/ap-vbh-15-1-4) `ap-vbh-15-1-4`
+      - [5. Paṭiccasamuppādavāro](https://tipitaka.app/latn/ap-vbh-15-1-5) `ap-vbh-15-1-5`
+      - [6. Pariyattivāro](https://tipitaka.app/latn/ap-vbh-15-1-6) `ap-vbh-15-1-6`
+    - [2. Abhidhammabhājanīyaṃ](https://tipitaka.app/latn/ap-vbh-15-2) `ap-vbh-15-2`
+      - [1. Kusalavāro](https://tipitaka.app/latn/ap-vbh-15-2-1) `ap-vbh-15-2-1`
+      - [2. Akusalavāro](https://tipitaka.app/latn/ap-vbh-15-2-2) `ap-vbh-15-2-2`
+      - [3. Vipākavāro](https://tipitaka.app/latn/ap-vbh-15-2-3) `ap-vbh-15-2-3`
+      - [4. Kiriyavāro](https://tipitaka.app/latn/ap-vbh-15-2-4) `ap-vbh-15-2-4`
+    - [3. Pañhāpucchakaṃ](https://tipitaka.app/latn/ap-vbh-15-3) `ap-vbh-15-3`
+      - [1. Tikaṃ](https://tipitaka.app/latn/ap-vbh-15-3-1) `ap-vbh-15-3-1`
+      - [2. Dukaṃ](https://tipitaka.app/latn/ap-vbh-15-3-2) `ap-vbh-15-3-2`
+  - [16. Ñāṇavibhaṅgo](https://tipitaka.app/latn/ap-vbh-16) `ap-vbh-16`
+    - [1. Ekakamātikā](https://tipitaka.app/latn/ap-vbh-16-1) `ap-vbh-16-1`
+    - [2. Dukamātikā](https://tipitaka.app/latn/ap-vbh-16-2) `ap-vbh-16-2`
+    - [3. Tikamātikā](https://tipitaka.app/latn/ap-vbh-16-3) `ap-vbh-16-3`
+    - [4. Catukkamātikā](https://tipitaka.app/latn/ap-vbh-16-4) `ap-vbh-16-4`
+    - [5. Pañcakamātikā](https://tipitaka.app/latn/ap-vbh-16-5) `ap-vbh-16-5`
+    - [6. Chakkamātikā](https://tipitaka.app/latn/ap-vbh-16-6) `ap-vbh-16-6`
+    - [7. Sattakamātikā](https://tipitaka.app/latn/ap-vbh-16-7) `ap-vbh-16-7`
+    - [8. Aṭṭhakamātikā](https://tipitaka.app/latn/ap-vbh-16-8) `ap-vbh-16-8`
+    - [9. Navakamātikā](https://tipitaka.app/latn/ap-vbh-16-9) `ap-vbh-16-9`
+    - [10. Dasakamātikā](https://tipitaka.app/latn/ap-vbh-16-10) `ap-vbh-16-10`
+    - [Mātikā](https://tipitaka.app/latn/ap-vbh-16-10a) `ap-vbh-16-10a`
+      - [1. Ekakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-1) `ap-vbh-16-10a-1`
+      - [2. Dukaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-2) `ap-vbh-16-10a-2`
+      - [3. Tikaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-3) `ap-vbh-16-10a-3`
+      - [4. Catukkaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-4) `ap-vbh-16-10a-4`
+      - [5. Pañcakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-5) `ap-vbh-16-10a-5`
+      - [6. Chakkaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-6) `ap-vbh-16-10a-6`
+      - [7. Sattakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-7) `ap-vbh-16-10a-7`
+      - [8. Aṭṭhakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-8) `ap-vbh-16-10a-8`
+      - [9. Navakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-9) `ap-vbh-16-10a-9`
+      - [10. Dasakaniddeso](https://tipitaka.app/latn/ap-vbh-16-10a-10) `ap-vbh-16-10a-10`
+  - [17. Khuddakavatthuvibhaṅgo](https://tipitaka.app/latn/ap-vbh-17) `ap-vbh-17`
+    - [1. Ekakamātikā](https://tipitaka.app/latn/ap-vbh-17-1) `ap-vbh-17-1`
+      - [2. Dukamātikā](https://tipitaka.app/latn/ap-vbh-17-1-2) `ap-vbh-17-1-2`
+      - [3. Tikamātikā](https://tipitaka.app/latn/ap-vbh-17-1-3) `ap-vbh-17-1-3`
+      - [4. Catukkamātikā](https://tipitaka.app/latn/ap-vbh-17-1-4) `ap-vbh-17-1-4`
+      - [5. Pañcakamātikā](https://tipitaka.app/latn/ap-vbh-17-1-5) `ap-vbh-17-1-5`
+      - [6. Chakkamātikā](https://tipitaka.app/latn/ap-vbh-17-1-6) `ap-vbh-17-1-6`
+      - [7. Sattakamātikā](https://tipitaka.app/latn/ap-vbh-17-1-7) `ap-vbh-17-1-7`
+      - [8. Aṭṭhakamātikā](https://tipitaka.app/latn/ap-vbh-17-1-8) `ap-vbh-17-1-8`
+      - [9. Navakamātikā](https://tipitaka.app/latn/ap-vbh-17-1-9) `ap-vbh-17-1-9`
+      - [10. Dasakamātikā](https://tipitaka.app/latn/ap-vbh-17-1-10) `ap-vbh-17-1-10`
+    - [1. Ekakaniddeso](https://tipitaka.app/latn/ap-vbh-17-2) `ap-vbh-17-2`
+      - [(1) Jātimado](https://tipitaka.app/latn/ap-vbh-17-2-1) `ap-vbh-17-2-1`
+      - [(2-27) Gottamadādī](https://tipitaka.app/latn/ap-vbh-17-2-2) `ap-vbh-17-2-2`
+      - [(28) Mado](https://tipitaka.app/latn/ap-vbh-17-2-28) `ap-vbh-17-2-28`
+      - [(29) Pamādo](https://tipitaka.app/latn/ap-vbh-17-2-29) `ap-vbh-17-2-29`
+      - [(30) Thambho](https://tipitaka.app/latn/ap-vbh-17-2-30) `ap-vbh-17-2-30`
+      - [(31) Sārambho](https://tipitaka.app/latn/ap-vbh-17-2-31) `ap-vbh-17-2-31`
+      - [(32) Atricchatā](https://tipitaka.app/latn/ap-vbh-17-2-32) `ap-vbh-17-2-32`
+      - [(33) Mahicchatā](https://tipitaka.app/latn/ap-vbh-17-2-33) `ap-vbh-17-2-33`
+      - [(34) Pāpicchatā](https://tipitaka.app/latn/ap-vbh-17-2-34) `ap-vbh-17-2-34`
+      - [(35) Siṅgaṃ](https://tipitaka.app/latn/ap-vbh-17-2-35) `ap-vbh-17-2-35`
+      - [(36) Tintiṇaṃ](https://tipitaka.app/latn/ap-vbh-17-2-36) `ap-vbh-17-2-36`
+      - [(37) Cāpalyaṃ](https://tipitaka.app/latn/ap-vbh-17-2-37) `ap-vbh-17-2-37`
+      - [(38) Asabhāgavutti](https://tipitaka.app/latn/ap-vbh-17-2-38) `ap-vbh-17-2-38`
+      - [(39) Arati](https://tipitaka.app/latn/ap-vbh-17-2-39) `ap-vbh-17-2-39`
+      - [(40) Tandī](https://tipitaka.app/latn/ap-vbh-17-2-40) `ap-vbh-17-2-40`
+      - [(41) Vijambhitā](https://tipitaka.app/latn/ap-vbh-17-2-41) `ap-vbh-17-2-41`
+      - [(42) Bhattasammado](https://tipitaka.app/latn/ap-vbh-17-2-42) `ap-vbh-17-2-42`
+      - [(43) Cetaso ca līnattaṃ](https://tipitaka.app/latn/ap-vbh-17-2-43) `ap-vbh-17-2-43`
+      - [(44) Kuhanā](https://tipitaka.app/latn/ap-vbh-17-2-44) `ap-vbh-17-2-44`
+      - [(45) Lapanā](https://tipitaka.app/latn/ap-vbh-17-2-45) `ap-vbh-17-2-45`
+      - [(46) Nemittikatā](https://tipitaka.app/latn/ap-vbh-17-2-46) `ap-vbh-17-2-46`
+      - [(47) Nippesikatā](https://tipitaka.app/latn/ap-vbh-17-2-47) `ap-vbh-17-2-47`
+      - [(48) Lābhena lābhaṃ nijigīsanatā](https://tipitaka.app/latn/ap-vbh-17-2-48) `ap-vbh-17-2-48`
+      - [(49) Seyyohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-49) `ap-vbh-17-2-49`
+      - [(50) Sadisohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-50) `ap-vbh-17-2-50`
+      - [(51) Hīnohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-51) `ap-vbh-17-2-51`
+      - [(52) Seyyassa seyyohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-52) `ap-vbh-17-2-52`
+      - [(53) Seyyassa sadisohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-53) `ap-vbh-17-2-53`
+      - [(54) Seyyassa hīnohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-54) `ap-vbh-17-2-54`
+      - [(55) Sadisassa seyyohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-55) `ap-vbh-17-2-55`
+      - [(56) Sadisassa sadisohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-56) `ap-vbh-17-2-56`
+      - [(57) Sadisassa hīnohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-57) `ap-vbh-17-2-57`
+      - [(58) Hīnassa seyyohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-58) `ap-vbh-17-2-58`
+      - [(59) Hīnassa sadisohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-59) `ap-vbh-17-2-59`
+      - [(60) Hīnassa hīnohamasmīti māno](https://tipitaka.app/latn/ap-vbh-17-2-60) `ap-vbh-17-2-60`
+      - [(61) Māno](https://tipitaka.app/latn/ap-vbh-17-2-61) `ap-vbh-17-2-61`
+      - [(62) Atimāno](https://tipitaka.app/latn/ap-vbh-17-2-62) `ap-vbh-17-2-62`
+      - [(63) Mānātimāno](https://tipitaka.app/latn/ap-vbh-17-2-63) `ap-vbh-17-2-63`
+      - [(64) Omāno](https://tipitaka.app/latn/ap-vbh-17-2-64) `ap-vbh-17-2-64`
+      - [(65) Adhimāno](https://tipitaka.app/latn/ap-vbh-17-2-65) `ap-vbh-17-2-65`
+      - [(66) Asmimāno](https://tipitaka.app/latn/ap-vbh-17-2-66) `ap-vbh-17-2-66`
+      - [(67) Micchāmāno](https://tipitaka.app/latn/ap-vbh-17-2-67) `ap-vbh-17-2-67`
+      - [(68) Ñātivitakko](https://tipitaka.app/latn/ap-vbh-17-2-68) `ap-vbh-17-2-68`
+      - [(69) Janapadavitakko](https://tipitaka.app/latn/ap-vbh-17-2-69) `ap-vbh-17-2-69`
+      - [(70) Amaravitakko](https://tipitaka.app/latn/ap-vbh-17-2-70) `ap-vbh-17-2-70`
+      - [(71) Parānuddayatāpaṭisaṃyutto vitakko](https://tipitaka.app/latn/ap-vbh-17-2-71) `ap-vbh-17-2-71`
+      - [(72) Lābhādipaṭisaṃyutto vitakko](https://tipitaka.app/latn/ap-vbh-17-2-72) `ap-vbh-17-2-72`
+      - [(73) Anavaññattipaṭisaṃyutto vitakko](https://tipitaka.app/latn/ap-vbh-17-2-73) `ap-vbh-17-2-73`
+    - [2. Dukaniddeso](https://tipitaka.app/latn/ap-vbh-17-3) `ap-vbh-17-3`
+      - [(1) Kodho ca upanāho ca](https://tipitaka.app/latn/ap-vbh-17-3-1) `ap-vbh-17-3-1`
+      - [(2) Makkho ca paḷāso ca](https://tipitaka.app/latn/ap-vbh-17-3-2) `ap-vbh-17-3-2`
+      - [(3) Issā ca macchariyañca](https://tipitaka.app/latn/ap-vbh-17-3-3) `ap-vbh-17-3-3`
+      - [(4) Māyā ca sāṭheyyañca](https://tipitaka.app/latn/ap-vbh-17-3-4) `ap-vbh-17-3-4`
+      - [(5) Avijjā ca bhavataṇhā ca](https://tipitaka.app/latn/ap-vbh-17-3-5) `ap-vbh-17-3-5`
+      - [(6) Bhavadiṭṭhi ca vibhavadiṭṭhi ca](https://tipitaka.app/latn/ap-vbh-17-3-6) `ap-vbh-17-3-6`
+      - [(7) Sassatadiṭṭhi ca ucchedadiṭṭhi ca](https://tipitaka.app/latn/ap-vbh-17-3-7) `ap-vbh-17-3-7`
+      - [(8) Antavādiṭṭhi ca anantavādiṭṭhi ca](https://tipitaka.app/latn/ap-vbh-17-3-8) `ap-vbh-17-3-8`
+      - [(9) Pubbantānudiṭṭhi ca aparantānudiṭṭhi ca](https://tipitaka.app/latn/ap-vbh-17-3-9) `ap-vbh-17-3-9`
+      - [(10) Ahirikañca anottappañca](https://tipitaka.app/latn/ap-vbh-17-3-10) `ap-vbh-17-3-10`
+      - [(11) Dovacassatā ca pāpamittatā ca](https://tipitaka.app/latn/ap-vbh-17-3-11) `ap-vbh-17-3-11`
+      - [(12) Anajjavo ca amaddavo ca](https://tipitaka.app/latn/ap-vbh-17-3-12) `ap-vbh-17-3-12`
+      - [(13) Akkhanti ca asoraccañca](https://tipitaka.app/latn/ap-vbh-17-3-13) `ap-vbh-17-3-13`
+      - [(14) Asākhalyañca appaṭisanthāro ca](https://tipitaka.app/latn/ap-vbh-17-3-14) `ap-vbh-17-3-14`
+      - [(15) Indriyesu aguttadvāratā ca bhojane amattaññutā ca](https://tipitaka.app/latn/ap-vbh-17-3-15) `ap-vbh-17-3-15`
+      - [(16) Muṭṭhassaccañca asampajaññañca](https://tipitaka.app/latn/ap-vbh-17-3-16) `ap-vbh-17-3-16`
+      - [(17) Sīlavipatti ca diṭṭhivipatti ca](https://tipitaka.app/latn/ap-vbh-17-3-17) `ap-vbh-17-3-17`
+      - [(18) Ajjhattasaṃyojanañca bahiddhāsaṃyojanañca](https://tipitaka.app/latn/ap-vbh-17-3-18) `ap-vbh-17-3-18`
+    - [3. Tikaniddeso](https://tipitaka.app/latn/ap-vbh-17-4) `ap-vbh-17-4`
+      - [(1) Tīṇi akusalamūlāni](https://tipitaka.app/latn/ap-vbh-17-4-1) `ap-vbh-17-4-1`
+      - [(2) Tayo akusalavitakkā](https://tipitaka.app/latn/ap-vbh-17-4-2) `ap-vbh-17-4-2`
+      - [(3) Tisso akusalasaññā](https://tipitaka.app/latn/ap-vbh-17-4-3) `ap-vbh-17-4-3`
+      - [(4) Tisso akusaladhātuyo](https://tipitaka.app/latn/ap-vbh-17-4-4) `ap-vbh-17-4-4`
+      - [(5) Tīṇi duccaritāni](https://tipitaka.app/latn/ap-vbh-17-4-5) `ap-vbh-17-4-5`
+      - [(6) Tayo āsavā](https://tipitaka.app/latn/ap-vbh-17-4-6) `ap-vbh-17-4-6`
+      - [(7) Tīṇi saṃyojanāni](https://tipitaka.app/latn/ap-vbh-17-4-7) `ap-vbh-17-4-7`
+      - [(8) Tisso taṇhā](https://tipitaka.app/latn/ap-vbh-17-4-8) `ap-vbh-17-4-8`
+      - [(9) Aparāpi tisso taṇhā](https://tipitaka.app/latn/ap-vbh-17-4-9) `ap-vbh-17-4-9`
+      - [(10) Aparāpi tisso taṇhā](https://tipitaka.app/latn/ap-vbh-17-4-10) `ap-vbh-17-4-10`
+      - [(11) Tisso esanā](https://tipitaka.app/latn/ap-vbh-17-4-11) `ap-vbh-17-4-11`
+      - [(12) Tisso vidhā](https://tipitaka.app/latn/ap-vbh-17-4-12) `ap-vbh-17-4-12`
+      - [(13) Tīṇi bhayāni](https://tipitaka.app/latn/ap-vbh-17-4-13) `ap-vbh-17-4-13`
+      - [(14) Tīṇi tamāni](https://tipitaka.app/latn/ap-vbh-17-4-14) `ap-vbh-17-4-14`
+      - [(15) Tīṇi titthāyatanāni](https://tipitaka.app/latn/ap-vbh-17-4-15) `ap-vbh-17-4-15`
+      - [(16) Tayo kiñcanā](https://tipitaka.app/latn/ap-vbh-17-4-16) `ap-vbh-17-4-16`
+      - [(17) Tīṇi aṅgaṇāni](https://tipitaka.app/latn/ap-vbh-17-4-17) `ap-vbh-17-4-17`
+      - [(18) Tīṇi malāni](https://tipitaka.app/latn/ap-vbh-17-4-18) `ap-vbh-17-4-18`
+      - [(19) Tīṇi visamāni](https://tipitaka.app/latn/ap-vbh-17-4-19) `ap-vbh-17-4-19`
+      - [(20) Aparānipi tīṇi visamāni](https://tipitaka.app/latn/ap-vbh-17-4-20) `ap-vbh-17-4-20`
+      - [(21) Tayo aggī](https://tipitaka.app/latn/ap-vbh-17-4-21) `ap-vbh-17-4-21`
+      - [(22) Tayo kasāvā](https://tipitaka.app/latn/ap-vbh-17-4-22) `ap-vbh-17-4-22`
+      - [(23) Aparepi tayo kasāvā](https://tipitaka.app/latn/ap-vbh-17-4-23) `ap-vbh-17-4-23`
+      - [(24. Ka) assādadiṭṭhi](https://tipitaka.app/latn/ap-vbh-17-4-24) `ap-vbh-17-4-24`
+        - [(Kha) attānudiṭṭhi](https://tipitaka.app/latn/ap-vbh-17-4-24-1) `ap-vbh-17-4-24-1`
+        - [(Ga) micchādiṭṭhi](https://tipitaka.app/latn/ap-vbh-17-4-24-2) `ap-vbh-17-4-24-2`
+      - [(25. Ka) arati](https://tipitaka.app/latn/ap-vbh-17-4-25) `ap-vbh-17-4-25`
+        - [(Kha) vihesā](https://tipitaka.app/latn/ap-vbh-17-4-25-1) `ap-vbh-17-4-25-1`
+        - [(Ga) adhammacariyā](https://tipitaka.app/latn/ap-vbh-17-4-25-2) `ap-vbh-17-4-25-2`
+      - [(26. Ka) dovacassatā](https://tipitaka.app/latn/ap-vbh-17-4-26) `ap-vbh-17-4-26`
+        - [(Kha) pāpamittatā](https://tipitaka.app/latn/ap-vbh-17-4-26-1) `ap-vbh-17-4-26-1`
+        - [(Ga) nānattasaññā](https://tipitaka.app/latn/ap-vbh-17-4-26-2) `ap-vbh-17-4-26-2`
+      - [(27. Ka) uddhaccaṃ](https://tipitaka.app/latn/ap-vbh-17-4-27) `ap-vbh-17-4-27`
+        - [(Kha) kosajjaṃ](https://tipitaka.app/latn/ap-vbh-17-4-27-1) `ap-vbh-17-4-27-1`
+        - [(Ga) pamādo](https://tipitaka.app/latn/ap-vbh-17-4-27-2) `ap-vbh-17-4-27-2`
+      - [(28. Ka) asantuṭṭhitā](https://tipitaka.app/latn/ap-vbh-17-4-28) `ap-vbh-17-4-28`
+        - [(Kha) asampajaññatā](https://tipitaka.app/latn/ap-vbh-17-4-28-1) `ap-vbh-17-4-28-1`
+        - [(Ga) mahicchatā](https://tipitaka.app/latn/ap-vbh-17-4-28-2) `ap-vbh-17-4-28-2`
+      - [(29. Ka) ahirikaṃ](https://tipitaka.app/latn/ap-vbh-17-4-29) `ap-vbh-17-4-29`
+        - [(Kha) anottappaṃ](https://tipitaka.app/latn/ap-vbh-17-4-29-1) `ap-vbh-17-4-29-1`
+        - [(Ga) pamādo](https://tipitaka.app/latn/ap-vbh-17-4-29-2) `ap-vbh-17-4-29-2`
+      - [(30. Ka) anādariyaṃ](https://tipitaka.app/latn/ap-vbh-17-4-30) `ap-vbh-17-4-30`
+        - [(Kha) dovacassatā](https://tipitaka.app/latn/ap-vbh-17-4-30-1) `ap-vbh-17-4-30-1`
+        - [(Ga) pāpamittatā](https://tipitaka.app/latn/ap-vbh-17-4-30-2) `ap-vbh-17-4-30-2`
+      - [(31. Ka) assaddhiyaṃ](https://tipitaka.app/latn/ap-vbh-17-4-31) `ap-vbh-17-4-31`
+        - [(Kha) avadaññutā](https://tipitaka.app/latn/ap-vbh-17-4-31-1) `ap-vbh-17-4-31-1`
+        - [(Ga) kosajjaṃ](https://tipitaka.app/latn/ap-vbh-17-4-31-2) `ap-vbh-17-4-31-2`
+      - [(32. Ka) uddhaccaṃ](https://tipitaka.app/latn/ap-vbh-17-4-32) `ap-vbh-17-4-32`
+        - [(Kha) asaṃvaro](https://tipitaka.app/latn/ap-vbh-17-4-32-1) `ap-vbh-17-4-32-1`
+        - [(Ga) dussīlyaṃ](https://tipitaka.app/latn/ap-vbh-17-4-32-2) `ap-vbh-17-4-32-2`
+      - [(33. Ka) ariyānaṃ adassanakamyatā](https://tipitaka.app/latn/ap-vbh-17-4-33) `ap-vbh-17-4-33`
+        - [(Kha) saddhammaṃ asotukamyatā](https://tipitaka.app/latn/ap-vbh-17-4-33-1) `ap-vbh-17-4-33-1`
+        - [(Ga) upārambhacittatā](https://tipitaka.app/latn/ap-vbh-17-4-33-2) `ap-vbh-17-4-33-2`
+      - [(34. Ka) muṭṭhassaccaṃ](https://tipitaka.app/latn/ap-vbh-17-4-34) `ap-vbh-17-4-34`
+        - [(Kha) asampajaññaṃ](https://tipitaka.app/latn/ap-vbh-17-4-34-1) `ap-vbh-17-4-34-1`
+        - [(Ga) cetaso vikkhepo](https://tipitaka.app/latn/ap-vbh-17-4-34-2) `ap-vbh-17-4-34-2`
+      - [(35. Ka) ayoniso manasikāro](https://tipitaka.app/latn/ap-vbh-17-4-35) `ap-vbh-17-4-35`
+        - [(Kha) kummaggasevanā](https://tipitaka.app/latn/ap-vbh-17-4-35-1) `ap-vbh-17-4-35-1`
+        - [(Ga) cetaso ca līnattaṃ](https://tipitaka.app/latn/ap-vbh-17-4-35-2) `ap-vbh-17-4-35-2`
+    - [4. Catukkaniddeso](https://tipitaka.app/latn/ap-vbh-17-5) `ap-vbh-17-5`
+      - [(1) Cattāro āsavā](https://tipitaka.app/latn/ap-vbh-17-5-1) `ap-vbh-17-5-1`
+        - [(Ka) kāmāsavo](https://tipitaka.app/latn/ap-vbh-17-5-1-1) `ap-vbh-17-5-1-1`
+        - [(Kha) bhavāsavo](https://tipitaka.app/latn/ap-vbh-17-5-1-2) `ap-vbh-17-5-1-2`
+        - [(Ga) diṭṭhāsavo](https://tipitaka.app/latn/ap-vbh-17-5-1-3) `ap-vbh-17-5-1-3`
+        - [(Gha) avijjāsavo](https://tipitaka.app/latn/ap-vbh-17-5-1-4) `ap-vbh-17-5-1-4`
+      - [(2-5) Cattāro ganthādī](https://tipitaka.app/latn/ap-vbh-17-5-2) `ap-vbh-17-5-2`
+        - [(Ka) kāmupādānaṃ](https://tipitaka.app/latn/ap-vbh-17-5-2-1) `ap-vbh-17-5-2-1`
+        - [(Kha) diṭṭhupādānaṃ](https://tipitaka.app/latn/ap-vbh-17-5-2-2) `ap-vbh-17-5-2-2`
+        - [(Ga) sīlabbatupādānaṃ](https://tipitaka.app/latn/ap-vbh-17-5-2-3) `ap-vbh-17-5-2-3`
+        - [(Gha) attavādupādānaṃ](https://tipitaka.app/latn/ap-vbh-17-5-2-4) `ap-vbh-17-5-2-4`
+      - [(6) Cattāro taṇhuppādā](https://tipitaka.app/latn/ap-vbh-17-5-6) `ap-vbh-17-5-6`
+      - [(7) Cattāri agatigamanāni](https://tipitaka.app/latn/ap-vbh-17-5-7) `ap-vbh-17-5-7`
+      - [(8) Cattāro vipariyāsā](https://tipitaka.app/latn/ap-vbh-17-5-8) `ap-vbh-17-5-8`
+      - [(9) Cattāro anariyavohārā](https://tipitaka.app/latn/ap-vbh-17-5-9) `ap-vbh-17-5-9`
+      - [(10) Aparepi cattāro anariyavohārā](https://tipitaka.app/latn/ap-vbh-17-5-10) `ap-vbh-17-5-10`
+      - [(11) Cattāri duccaritāni](https://tipitaka.app/latn/ap-vbh-17-5-11) `ap-vbh-17-5-11`
+      - [(12) Aparānipi cattāri duccaritāni](https://tipitaka.app/latn/ap-vbh-17-5-12) `ap-vbh-17-5-12`
+      - [(13) Cattāri bhayāni](https://tipitaka.app/latn/ap-vbh-17-5-13) `ap-vbh-17-5-13`
+      - [(14) Aparānipi cattāri bhayāni](https://tipitaka.app/latn/ap-vbh-17-5-14) `ap-vbh-17-5-14`
+      - [(15) Catasso diṭṭhiyo](https://tipitaka.app/latn/ap-vbh-17-5-15) `ap-vbh-17-5-15`
+    - [5. Pañcakaniddeso](https://tipitaka.app/latn/ap-vbh-17-6) `ap-vbh-17-6`
+      - [(1) Pañcorambhāgiyāni saṃyojanāni](https://tipitaka.app/latn/ap-vbh-17-6-1) `ap-vbh-17-6-1`
+      - [(2) Pañcuddhambhāgiyāni saṃyojanāni](https://tipitaka.app/latn/ap-vbh-17-6-2) `ap-vbh-17-6-2`
+      - [(3) Pañca macchariyāni](https://tipitaka.app/latn/ap-vbh-17-6-3) `ap-vbh-17-6-3`
+      - [(4) Pañca saṅgā](https://tipitaka.app/latn/ap-vbh-17-6-4) `ap-vbh-17-6-4`
+      - [(5) Pañca sallā](https://tipitaka.app/latn/ap-vbh-17-6-5) `ap-vbh-17-6-5`
+      - [(6) Pañca cetokhilā](https://tipitaka.app/latn/ap-vbh-17-6-6) `ap-vbh-17-6-6`
+      - [(7) Pañca cetaso vinibandhā](https://tipitaka.app/latn/ap-vbh-17-6-7) `ap-vbh-17-6-7`
+      - [(8) Pañca nīvaraṇāni](https://tipitaka.app/latn/ap-vbh-17-6-8) `ap-vbh-17-6-8`
+      - [(9) Pañca kammāni ānantarikāni](https://tipitaka.app/latn/ap-vbh-17-6-9) `ap-vbh-17-6-9`
+      - [(10) Pañca diṭṭhiyo](https://tipitaka.app/latn/ap-vbh-17-6-10) `ap-vbh-17-6-10`
+      - [(11) Pañca verā](https://tipitaka.app/latn/ap-vbh-17-6-11) `ap-vbh-17-6-11`
+      - [(12) Pañca byasanā](https://tipitaka.app/latn/ap-vbh-17-6-12) `ap-vbh-17-6-12`
+      - [(13) Pañca akkhantiyā ādīnavā](https://tipitaka.app/latn/ap-vbh-17-6-13) `ap-vbh-17-6-13`
+      - [(14) Pañca bhayāni](https://tipitaka.app/latn/ap-vbh-17-6-14) `ap-vbh-17-6-14`
+      - [(15) Pañca diṭṭhadhammanibbānavādā](https://tipitaka.app/latn/ap-vbh-17-6-15) `ap-vbh-17-6-15`
+    - [6. Chakkaniddeso](https://tipitaka.app/latn/ap-vbh-17-7) `ap-vbh-17-7`
+      - [(1) Cha vivādamūlāni](https://tipitaka.app/latn/ap-vbh-17-7-1) `ap-vbh-17-7-1`
+      - [(2) Cha chandarāgā](https://tipitaka.app/latn/ap-vbh-17-7-2) `ap-vbh-17-7-2`
+      - [(3) Cha virodhavatthūni](https://tipitaka.app/latn/ap-vbh-17-7-3) `ap-vbh-17-7-3`
+      - [(4) Cha taṇhākāyā](https://tipitaka.app/latn/ap-vbh-17-7-4) `ap-vbh-17-7-4`
+      - [(5) Cha agāravā](https://tipitaka.app/latn/ap-vbh-17-7-5) `ap-vbh-17-7-5`
+      - [(6) Cha parihāniyā dhammā](https://tipitaka.app/latn/ap-vbh-17-7-6) `ap-vbh-17-7-6`
+      - [(7) Aparepi cha parihāniyā dhammā](https://tipitaka.app/latn/ap-vbh-17-7-7) `ap-vbh-17-7-7`
+      - [(8) Cha somanassupavicārā](https://tipitaka.app/latn/ap-vbh-17-7-8) `ap-vbh-17-7-8`
+      - [(9) Cha domanassupavicārā](https://tipitaka.app/latn/ap-vbh-17-7-9) `ap-vbh-17-7-9`
+      - [(10) Cha upekkhupavicārā](https://tipitaka.app/latn/ap-vbh-17-7-10) `ap-vbh-17-7-10`
+      - [(11) Cha gehasitāni somanassāni](https://tipitaka.app/latn/ap-vbh-17-7-11) `ap-vbh-17-7-11`
+      - [(12) Cha gehasitāni domanassāni](https://tipitaka.app/latn/ap-vbh-17-7-12) `ap-vbh-17-7-12`
+      - [(13) Cha gehasitā upekkhā](https://tipitaka.app/latn/ap-vbh-17-7-13) `ap-vbh-17-7-13`
+      - [(14) Cha diṭṭhiyo](https://tipitaka.app/latn/ap-vbh-17-7-14) `ap-vbh-17-7-14`
+    - [7. Sattakaniddeso](https://tipitaka.app/latn/ap-vbh-17-8) `ap-vbh-17-8`
+      - [(1) Sattānusayā](https://tipitaka.app/latn/ap-vbh-17-8-1) `ap-vbh-17-8-1`
+      - [(2) Satta saṃyojanāni](https://tipitaka.app/latn/ap-vbh-17-8-2) `ap-vbh-17-8-2`
+      - [(3) Satta pariyuṭṭhānāni](https://tipitaka.app/latn/ap-vbh-17-8-3) `ap-vbh-17-8-3`
+      - [(4) Satta asaddhammā](https://tipitaka.app/latn/ap-vbh-17-8-4) `ap-vbh-17-8-4`
+      - [(5) Satta duccaritāni](https://tipitaka.app/latn/ap-vbh-17-8-5) `ap-vbh-17-8-5`
+      - [(6) Satta mānā](https://tipitaka.app/latn/ap-vbh-17-8-6) `ap-vbh-17-8-6`
+      - [(7) Satta diṭṭhiyo](https://tipitaka.app/latn/ap-vbh-17-8-7) `ap-vbh-17-8-7`
+    - [8. Aṭṭhakaniddeso](https://tipitaka.app/latn/ap-vbh-17-9) `ap-vbh-17-9`
+      - [(1) Aṭṭha kilesavatthūni](https://tipitaka.app/latn/ap-vbh-17-9-1) `ap-vbh-17-9-1`
+      - [(2) Aṭṭha kusītavatthūni](https://tipitaka.app/latn/ap-vbh-17-9-2) `ap-vbh-17-9-2`
+      - [(3) Aṭṭhasu lokadhammesu cittassa paṭighāto](https://tipitaka.app/latn/ap-vbh-17-9-3) `ap-vbh-17-9-3`
+      - [(4) Aṭṭhaanariyavohārā](https://tipitaka.app/latn/ap-vbh-17-9-4) `ap-vbh-17-9-4`
+      - [(5) Aṭṭha micchattā](https://tipitaka.app/latn/ap-vbh-17-9-5) `ap-vbh-17-9-5`
+      - [(6) Aṭṭha purisadosā](https://tipitaka.app/latn/ap-vbh-17-9-6) `ap-vbh-17-9-6`
+      - [(7) Aṭṭha asaññīvādā](https://tipitaka.app/latn/ap-vbh-17-9-7) `ap-vbh-17-9-7`
+      - [(8) Aṭṭha nevasaññīnāsaññīvādā](https://tipitaka.app/latn/ap-vbh-17-9-8) `ap-vbh-17-9-8`
+    - [9. Navakaniddeso](https://tipitaka.app/latn/ap-vbh-17-10) `ap-vbh-17-10`
+      - [(1) Nava āghātavatthūni](https://tipitaka.app/latn/ap-vbh-17-10-1) `ap-vbh-17-10-1`
+      - [(2) Nava purisamalāni](https://tipitaka.app/latn/ap-vbh-17-10-2) `ap-vbh-17-10-2`
+      - [(3) Navavidhā mānā](https://tipitaka.app/latn/ap-vbh-17-10-3) `ap-vbh-17-10-3`
+      - [(4) Nava taṇhāmūlakā dhammā](https://tipitaka.app/latn/ap-vbh-17-10-4) `ap-vbh-17-10-4`
+      - [(5) Nava iñjitāni](https://tipitaka.app/latn/ap-vbh-17-10-5) `ap-vbh-17-10-5`
+      - [(6-9) Nava maññitādīni](https://tipitaka.app/latn/ap-vbh-17-10-6) `ap-vbh-17-10-6`
+    - [10. Dasakaniddeso](https://tipitaka.app/latn/ap-vbh-17-11) `ap-vbh-17-11`
+      - [(1) Dasa kilesavatthūni](https://tipitaka.app/latn/ap-vbh-17-11-1) `ap-vbh-17-11-1`
+      - [(2) Dasa āghātavatthūni](https://tipitaka.app/latn/ap-vbh-17-11-2) `ap-vbh-17-11-2`
+      - [(3) Dasa akusalakammapathā](https://tipitaka.app/latn/ap-vbh-17-11-3) `ap-vbh-17-11-3`
+      - [(4) Dasa saṃyojanāni](https://tipitaka.app/latn/ap-vbh-17-11-4) `ap-vbh-17-11-4`
+      - [(5) Dasa micchattā](https://tipitaka.app/latn/ap-vbh-17-11-5) `ap-vbh-17-11-5`
+      - [(6) Dasavatthukā micchādiṭṭhi](https://tipitaka.app/latn/ap-vbh-17-11-6) `ap-vbh-17-11-6`
+      - [(7) Dasavatthukā antaggāhikā diṭṭhi](https://tipitaka.app/latn/ap-vbh-17-11-7) `ap-vbh-17-11-7`
+    - [11. Taṇhāvicaritaniddeso](https://tipitaka.app/latn/ap-vbh-17-12) `ap-vbh-17-12`
+      - [(1) Ajjhattikassa upādāya](https://tipitaka.app/latn/ap-vbh-17-12-1) `ap-vbh-17-12-1`
+      - [(2) Bāhirassa upādāya](https://tipitaka.app/latn/ap-vbh-17-12-2) `ap-vbh-17-12-2`
+  - [18. Dhammahadayavibhaṅgo](https://tipitaka.app/latn/ap-vbh-18) `ap-vbh-18`
+    - [1. Sabbasaṅgāhikavāro](https://tipitaka.app/latn/ap-vbh-18-1) `ap-vbh-18-1`
+    - [2. Uppattānuppattivāro](https://tipitaka.app/latn/ap-vbh-18-2) `ap-vbh-18-2`
+      - [1. Kāmadhātu](https://tipitaka.app/latn/ap-vbh-18-2-1) `ap-vbh-18-2-1`
+      - [2. Rūpadhātu](https://tipitaka.app/latn/ap-vbh-18-2-2) `ap-vbh-18-2-2`
+      - [3. Arūpadhātu](https://tipitaka.app/latn/ap-vbh-18-2-3) `ap-vbh-18-2-3`
+      - [4. Apariyāpannaṃ](https://tipitaka.app/latn/ap-vbh-18-2-4) `ap-vbh-18-2-4`
+    - [3. Pariyāpannāpariyāpannavāro](https://tipitaka.app/latn/ap-vbh-18-3) `ap-vbh-18-3`
+      - [1. Kāmadhātu](https://tipitaka.app/latn/ap-vbh-18-3-1) `ap-vbh-18-3-1`
+      - [2. Rūpadhātu](https://tipitaka.app/latn/ap-vbh-18-3-2) `ap-vbh-18-3-2`
+      - [3. Arūpadhātu](https://tipitaka.app/latn/ap-vbh-18-3-3) `ap-vbh-18-3-3`
+      - [4. Pariyāpannāpariyāpannaṃ](https://tipitaka.app/latn/ap-vbh-18-3-4) `ap-vbh-18-3-4`
+    - [4. Dhammadassanavāro](https://tipitaka.app/latn/ap-vbh-18-4) `ap-vbh-18-4`
+      - [1. Kāmadhātu](https://tipitaka.app/latn/ap-vbh-18-4-1) `ap-vbh-18-4-1`
+      - [2. Rūpadhātu](https://tipitaka.app/latn/ap-vbh-18-4-2) `ap-vbh-18-4-2`
+      - [3. Asaññasattā](https://tipitaka.app/latn/ap-vbh-18-4-3) `ap-vbh-18-4-3`
+      - [4. Arūpadhātu](https://tipitaka.app/latn/ap-vbh-18-4-4) `ap-vbh-18-4-4`
+    - [5. Bhūmantaradassanavāro](https://tipitaka.app/latn/ap-vbh-18-5) `ap-vbh-18-5`
+    - [6. Uppādakakammaāyuppamāṇavāro](https://tipitaka.app/latn/ap-vbh-18-6) `ap-vbh-18-6`
+      - [1. Uppādakakammaṃ](https://tipitaka.app/latn/ap-vbh-18-6-1) `ap-vbh-18-6-1`
+      - [2. Āyuppamāṇaṃ](https://tipitaka.app/latn/ap-vbh-18-6-2) `ap-vbh-18-6-2`
+    - [7. Abhiññeyyādivāro](https://tipitaka.app/latn/ap-vbh-18-7) `ap-vbh-18-7`
+    - [8. Sārammaṇānārammaṇavāro](https://tipitaka.app/latn/ap-vbh-18-8) `ap-vbh-18-8`
+    - [9. Diṭṭhasutādidassanavāro](https://tipitaka.app/latn/ap-vbh-18-9) `ap-vbh-18-9`
+    - [10. Tikādidassanavāro](https://tipitaka.app/latn/ap-vbh-18-10) `ap-vbh-18-10`
+      - [1. Kusalattikaṃ](https://tipitaka.app/latn/ap-vbh-18-10-1) `ap-vbh-18-10-1`
+      - [2. Vedanātikaṃ](https://tipitaka.app/latn/ap-vbh-18-10-2) `ap-vbh-18-10-2`
+      - [3. Vipākattikaṃ](https://tipitaka.app/latn/ap-vbh-18-10-3) `ap-vbh-18-10-3`
+      - [4. Upādinnattikaṃ](https://tipitaka.app/latn/ap-vbh-18-10-4) `ap-vbh-18-10-4`
+      - [5. Vitakkattikaṃ](https://tipitaka.app/latn/ap-vbh-18-10-5) `ap-vbh-18-10-5`
+      - [(1) Rūpadukaṃ](https://tipitaka.app/latn/ap-vbh-18-10-6) `ap-vbh-18-10-6`
+      - [(2) Lokiyadukaṃ](https://tipitaka.app/latn/ap-vbh-18-10-7) `ap-vbh-18-10-7`

@@ -9,43 +9,121 @@ pitaka: abhidhamma
 track: en-Contemporary-English-Abhidhamma
 target_language: en
 root_text: 1-SOURCES/Text/pi-2.md
-source_section: "Khandhavibhaṅgo ^2-1-0 (verses ^2-1 – ^2-153)"
-chapter: Khandhavibhaṅga (Analysis of the Aggregates)
+source_section: "Khandhavibhaṅgo ^2-1-0 (verses ^2-1 – ^2-153); Āyatanavibhaṅgo ^2-2-0 (verses ^2-154 – ^2-171)"
+chapter: >
+  1. Khandhavibhaṅga (Analysis of the Aggregates) — ^2-1 – ^2-153;
+  2. Āyatanavibhaṅga (Analysis of the Sense Bases) — ^2-154 – ^2-171
 requirements: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/requirements.md
 termbase: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase.md
 audience_profile: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/audience.md
+drafted_against_termbase: AI_translation/english/pi-2-english-termbase-plain.md
+drafted_against_audience: AI_translation/audience_profile/plain.md
+drafted_from_source_split: AI_translation/pi-2_split_chapters/1-khandhavibhango.md
+drafted_from_source_split_notes: >
+  Ch. 1 (Khandhavibhaṅgo, ^2-1 – ^2-153) — from
+  AI_translation/pi-2_split_chapters/1-khandhavibhango.md, as recorded above.
+
+  Ch. 2 (Āyatanavibhaṅgo, ^2-154 – ^2-171), added 2026-08-05 — the expected
+  split file `AI_translation/pi-2_split_chapters/2-ayatanavibhango.md` was NOT
+  present in the working copy this pass ran against (that copy carried only
+  `AI_translation/skills/rails-verse-translator.md` under `AI_translation/`),
+  so it is deliberately not cited as this chapter's source. Reported as absent
+  from the working copy, not as absent from the vault — see provenance_note's
+  2026-07-31 correction for why that distinction is made explicitly here.
+  This chapter was drafted directly from the root text,
+  `1-SOURCES/Text/pi-2.md` lines 731–815 (`### Āyatanavibhaṅgo ^2-2-0` through
+  `^2-171`, stopping before `### Dhātuvibhaṅgo ^2-3-0`). If the split file does
+  exist in a fuller checkout, a reviewer should diff it against that line range
+  and then record it here.
 status: draft
 translator: AI (CSCD-aligned, tipitaka.org Mūla edition)
 translation_basis: Segment-aligned AI translation of the Pāli Vibhaṅga (tipitaka.org Mūla / CSCD)
 provenance_note: >
-  Arrived as AI_translation/english/khandhavibhango-english-plain.md, outside the
-  Translations tree, with frontmatter citing three files that were never in the
-  vault (pali-english-termbase-plain.md, audience_profile/plain.md,
-  pi-2_split_chapters/1-khandhavibhango.md). Its "plain audience" label was
-  briefly taken to imply a separate track; on comparison, this track's
-  requirements.md already mandates the same 7th–8th grade reading level and
-  12–20 word sentences, so there was no distinction to preserve. Filed here as
-  the Book II counterpart to en-dhammasangani-ai.md. Governing files are now
-  this track's requirements.md, termbase.md, and audience.md.
+  Produced by the `AI_translation/` pipeline (see its `skills/` and `scripts/`)
+  and originally written to AI_translation/english/khandhavibhango-english-plain.md.
+  Relocated here on 2026-07-30 and renamed as the Book II counterpart to
+  en-dhammasangani-ai.md.
+
+  CORRECTION (2026-07-31): an earlier version of this note claimed the three
+  files its original frontmatter cited "were never in the vault". That was
+  wrong. All three exist — added in commit fe5eaea, 2026-07-30 — and are now
+  recorded in the `drafted_against_*` keys above. They were simply absent from
+  the working copy at the moment the relocation was done, and their absence was
+  reported as fact rather than as a stale checkout. The pipeline's own audience
+  profile is real ("readers with little or no Buddhist background"; clear,
+  modern, natural language).
+
+  OPEN QUESTION — whether this file belongs in this track at all. The relocation
+  reasoning was that a "plain audience" label implied nothing this track's
+  requirements.md does not already mandate (7th–8th grade reading level, 12–20
+  word sentences). That may still hold, but it was decided without the pipeline's
+  audience profile in hand, and the move means `AI_translation/english/` no
+  longer contains the file its own pipeline wrote there. The pipeline owner
+  should confirm the relocation, or move it back and have the Daily Tipitaka plan
+  read it in place.
 known_issues: >
   (1) Dropped copulas in the threefold-list segments — "feeling that wholesome",
   "feeling that a result" should read "feeling that IS wholesome / IS a result".
   Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks. Daily Tipitaka
   days 081–082 quote these verbatim in §4, so the error is user-visible.
-  (2) Three renderings diverge from this track's BB-curated termbase, because
-  the file was drafted against a termbase that was never committed:
-  hetu = "root-cause" (BB: "root"); samāpatti = "absorption" (BB: "(meditative)
-  attainment"); vitakka/vicāra = "applied/sustained thought" (BB:
-  "initial/sustained application"). Reviewer to either revise the translation to
-  BB or record a deliberate override.
+
+  (2) Terminology divergence. Read the dates before reading the table: this
+  track's BB-curated termbase was committed 2026-05-17 and the Daily Tipitaka
+  plan termbase 2026-05-20; the pipeline termbase this file was drafted against
+  (`drafted_against_termbase`) was committed 2026-07-30, roughly ten weeks later
+  and after 82 day files had already published from the earlier two. So where
+  they disagree, the **May termbases are the established lock** and the July one
+  is the newcomer:
+    hetu — text "root-cause" (64×); pipeline "root"; BB "root"
+      → text is the outlier; both termbases agree.
+    samāpatti — text "absorption" (17×); pipeline "attainment"; BB "attainment"
+      → text is the outlier; both termbases agree.
+    vitakka / vicāra — text "applied and sustained thought" (11×);
+      pipeline "thought" / "examination"; BB "initial / sustained application"
+      → text is the outlier; the two termbases differ from each other too.
+    cetanā — text "volition" (16×); pipeline "intention"; BB "volition"
+      → the **pipeline termbase** is the outlier here. "volition" was BB-locked
+      on 2026-05-17 and is what Daily Tipitaka day-079 §5 publishes as its
+      headword. Nothing in the published corpus needs changing.
+  Reviewer to revise the text on the first three, or record a deliberate
+  override. Note that an earlier version of this list cited BB as the sole
+  yardstick, omitted *cetanā*, and then described the pipeline termbase as the
+  authority — which inverted the actual chronology on *cetanā*.
+
+  (3) FIXED 2026-07-31 — mistranslation at ^2-120. The line read "A formation is
+  associated with contact." The Pāli is `Ekavidhena saṅkhārakkhandho –
+  cittasampayutto` — associated with *mind*, not contact — and the error reversed
+  the commentary's point at ^2-141, that the formations heap is named by mind
+  precisely because contact sits inside it. Corrected to "Formations are
+  associated with mind." Daily Tipitaka day-088 §4 quoted the line verbatim and
+  has been regenerated to match. Checked across ^2-1 – ^2-153: this was the only
+  citta-/phassa- confusion in the file.
+
+  (3a) OPEN — grammatical consistency of the same opener. The corrected line now
+  reads "Formations are", while 24 other verses read "Formations is" and one
+  reads "formations are". "Formations is" is not English; the majority spelling
+  is the wrong one, so matching it was not an option. Left as-is rather than
+  silently rewriting 25 lines of someone else's translation — see (1), which is
+  the same class of problem at larger scale.
+
+  (4) Systemic cause, now fixed upstream. `AI_translation/skills/termbase-builder.md`
+  was written to be source-agnostic: it derived terminology from a sense-tagged
+  keyword file plus an audience profile, with no instruction to seed from
+  termbases the project had already locked. Run on Book II it therefore
+  re-derived terms the vault had settled in May, and diverged wherever a second
+  reading was defensible — which is exactly what happened with *cetanā*. A
+  seeding step has been added to that skill so later books inherit the existing
+  locks instead of re-deciding them.
 translation_approach: >
   Fresh rails-style translation composed segment by segment directly from the
   Pali source, using a locked termbase as a fixed terminology reference. Not
   adapted or reused from any prior zeroshot translation. Per-segment line
   structure mirrors the source exactly; exactly one blank line separates
   segments.
-segment_id_coverage: 169 of 169 segments (^2-1 through ^2-153, including all
+segment_id_coverage: 187 of 187 segments (^2-1 through ^2-171, including all
   nested sub-segment IDs), full parity verified against source line counts.
+  Khandhavibhaṅgo ^2-1 – ^2-153 verified 2026-07-31; Āyatanavibhaṅgo
+  ^2-154 – ^2-171 verified 2026-08-05.
 ---
 
 ### Analysis of the Aggregates ^2-1-0
@@ -567,7 +645,7 @@ As three categories: there is formations that having a past object; formations t
 As two categories: there is formations that dissociated from fetters yet still capable of being fettered, and formations that dissociated from fetters and not capable of being fettered.
 As three categories: there is formations that internal; formations that external; and formations that both internal and external. Thus, as ten categories, this is the aggregate of formations. ^2-119
 
-120. As a single category: A formation is associated with contact.
+120. As a single category: Formations are associated with mind.
 As two categories: there is a formation that is a tie, and a formation that is not a tie.
 As three categories: there is a formation with an internal object, a formation with an external object, and a formation with both an internal and an external object. Thus, as ten categories, this is the aggregate of formations.
 (This covers both directions of expansion.)
@@ -751,3 +829,89 @@ The aggregate of form is not abandoned by seeing. The other four aggregates may 
 The aggregate of form belongs to the sense sphere. The other four aggregates may belong to the sense sphere, or not. The aggregate of form does not belong to the fine-material sphere. The other four aggregates may belong to the fine-material sphere, or not. The aggregate of form does not belong to the immaterial sphere. The other four aggregates may belong to the immaterial sphere, or not. The aggregate of form is included. The other four aggregates may be included, or unincluded. The aggregate of form does not lead out of the round. The other four aggregates may lead out of the round, or not. The aggregate of form is undetermined. The other four aggregates may be determined, or undetermined. The aggregate of form has no superior. The other four aggregates may have a superior, or none. The aggregate of form is without strife. The other four aggregates may be with strife, or without strife.
 The Catechism.
 Here ends the Analysis of the Aggregates. ^2-153
+
+### Analysis of the Sense Bases ^2-2-0
+
+#### The Discourse Method ^2-2-1-0
+
+154. The twelve bases: the eye base, the form base, the ear base, the sound base, the nose base, the smell base, the tongue base, the taste base, the body base, the tangible-object base, the mind base, the mind-object base.
+The eye is impermanent, suffering, not-self, and subject to change. Forms are impermanent, suffering, not-self, and subject to change. The ear is impermanent, suffering, not-self, and subject to change. Sounds are impermanent, suffering, not-self, and subject to change. The nose is impermanent, suffering, not-self, and subject to change. Smells are impermanent, suffering, not-self, and subject to change. The tongue is impermanent, suffering, not-self, and subject to change. Tastes are impermanent, suffering, not-self, and subject to change. The body is impermanent, suffering, not-self, and subject to change. Tangible objects are impermanent, suffering, not-self, and subject to change. The mind is impermanent, suffering, not-self, and subject to change. Mind-objects are impermanent, suffering, not-self, and subject to change.
+The Discourse Method. ^2-154
+
+#### The Abhidhamma Method ^2-2-2-0
+
+155. The twelve bases: the eye base, the ear base, the nose base, the tongue base, the body base, the mind base, the form base, the sound base, the smell base, the taste base, the tangible-object base, the mind-object base. ^2-155
+
+156. What is the eye base? The eye is sensitive matter derived from the four great elements, included in one's own individual existence, invisible, and offering resistance. With this eye — itself invisible yet offering resistance — one has seen, sees, will see, or may see a form that is visible and offers resistance. This is the eye; this is the eye base; this is the eye element; this is the eye faculty; this is a world; this is a door; this is an ocean; this is what is bright; this is a field; this is a ground; this is a guide; this is a leader; this is the near shore; this is an empty village. This is called the eye base. ^2-156
+
+157. What is the ear base? The ear is sensitive matter derived from the four great elements, included in one's own individual existence, invisible, and offering resistance. With this ear — itself invisible yet offering resistance — one has heard, hears, will hear, or may hear a sound that is invisible and offers resistance. This is the ear; this is the ear base; this is the ear element; this is the ear faculty; this is a world; this is a door; this is an ocean; this is what is bright; this is a field; this is a ground; this is the near shore; this is an empty village. This is called the ear base. ^2-157
+
+158. What is the nose base? The nose is sensitive matter derived from the four great elements, included in one's own individual existence, invisible, and offering resistance. With this nose — itself invisible yet offering resistance — one has smelled, smells, will smell, or may smell a smell that is invisible and offers resistance. This is the nose; this is the nose base; this is the nose element; this is the nose faculty; this is a world; this is a door; this is an ocean; this is what is bright; this is a field; this is a ground; this is the near shore; this is an empty village. This is called the nose base. ^2-158
+
+159. What is the tongue base? The tongue is sensitive matter derived from the four great elements, included in one's own individual existence, invisible, and offering resistance. With this tongue — itself invisible yet offering resistance — one has tasted, tastes, will taste, or may taste a taste that is invisible and offers resistance. This is the tongue; this is the tongue base; this is the tongue element; this is the tongue faculty; this is a world; this is a door; this is an ocean; this is what is bright; this is a field; this is a ground; this is the near shore; this is an empty village. This is called the tongue base. ^2-159
+
+160. What is the body base? The body is sensitive matter derived from the four great elements, included in one's own individual existence, invisible, and offering resistance. With this body — itself invisible yet offering resistance — one has touched, touches, will touch, or may touch a tangible object that is invisible and offers resistance. This is the body; this is the body base; this is the body element; this is the body faculty; this is a world; this is a door; this is an ocean; this is what is bright; this is a field; this is a ground; this is the near shore; this is an empty village. This is called the body base. ^2-160
+
+161. What is the mind base? As a single category: the mind base is associated with contact.
+As two categories: there is a mind base that has a root-cause, and a mind base that is without a root-cause.
+As three categories: there is a mind base that is wholesome, a mind base that is unwholesome, and a mind base that is indeterminate.
+As four categories: there is a mind base belonging to the sense sphere, to the fine-material sphere, to the immaterial sphere, and a mind base that is unincluded.
+As five categories: there is a mind base associated with the pleasure faculty, a mind base associated with the pain faculty, a mind base associated with the joy faculty, a mind base associated with the displeasure faculty, and a mind base associated with the equanimity faculty.
+As six categories: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, mind-consciousness. Thus, as six categories, this is the mind base.
+As seven categories: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, the mind-element, and the mind-consciousness-element. Thus, as seven categories, this is the mind base.
+As eight categories: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness — the last being either accompanied by pleasure or accompanied by pain — together with the mind-element and the mind-consciousness-element. Thus, as eight categories, this is the mind base.
+As nine categories: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, the mind-element, and the mind-consciousness-element — these last being wholesome, unwholesome, or indeterminate. Thus, as nine categories, this is the mind base.
+As ten categories: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness — the last being either accompanied by pleasure or accompanied by pain — together with the mind-element and the mind-consciousness-element, these last being wholesome, unwholesome, or indeterminate. Thus, as ten categories, this is the mind base.
+As a single category: the mind base is associated with contact.
+As two categories: there is a mind base that has a root-cause, and a mind base that is without a root-cause.
+As three categories: there is a mind base associated with pleasant feeling, a mind base associated with painful feeling, and a mind base associated with neither-pleasant-nor-painful feeling … up to … Thus, in this way, this is the mind base. This is called the mind base. ^2-161
+
+162. What is the form base? Form is the appearance of colour derived from the four great elements, visible and offering resistance: blue, yellow, red, white, black, crimson, green, green in hue, the colour of a mango shoot; long, short, small, large, round, circular, four-sided, six-sided, eight-sided, sixteen-sided; low, raised; shadow, sunlight, light, darkness; cloud, mist, smoke, dust; the appearance of the moon's disc, the appearance of the sun's disc, the appearance of the stars, the appearance of a mirror's disc, the appearance of a gem, a conch, a pearl, or beryl, the appearance of gold or silver; and whatever other form there is that is the appearance of colour derived from the four great elements, visible and offering resistance. That form, being visible and offering resistance, has been seen, is seen, will be seen, or may be seen with the eye, which is itself invisible yet offers resistance. This is form; this is the form base; this is the form element. This is called the form base. ^2-162
+
+163. What is the sound base? Sound is derived from the four great elements, invisible and offering resistance: the sound of a drum, the sound of a tabor, the sound of a conch, the sound of a tambourine, the sound of singing, the sound of instrumental music, the sound of cymbals, the sound of hand-clapping, the cries of living beings, the clashing of elements, the sound of wind, the sound of water, human sounds, non-human sounds; and whatever other sound there is that is derived from the four great elements, invisible and offering resistance. That sound, being invisible and offering resistance, has been heard, is heard, will be heard, or may be heard with the ear, which is itself invisible yet offers resistance. This is sound; this is the sound base; this is the sound element. This is called the sound base. ^2-163
+
+164. What is the smell base? Smell is derived from the four great elements, invisible and offering resistance: the smell of roots, the smell of heartwood, the smell of bark, the smell of leaves, the smell of flowers, the smell of fruit, a raw smell, a putrid smell, a fragrant smell, a foul smell; and whatever other smell there is that is derived from the four great elements, invisible and offering resistance. That smell, being invisible and offering resistance, has been smelled, is smelled, will be smelled, or may be smelled with the nose, which is itself invisible yet offers resistance. This is smell; this is the smell base; this is the smell element. This is called the smell base. ^2-164
+
+165. What is the taste base? Taste is derived from the four great elements, invisible and offering resistance: the taste of roots, the taste of stems, the taste of bark, the taste of leaves, the taste of flowers, the taste of fruit; sour, sweet, bitter, sharp, salty, alkaline, acrid, astringent, pleasant, unpleasant; and whatever other taste there is that is derived from the four great elements, invisible and offering resistance. That taste, being invisible and offering resistance, has been tasted, is tasted, will be tasted, or may be tasted with the tongue, which is itself invisible yet offers resistance. This is taste; this is the taste base; this is the taste element. This is called the taste base. ^2-165
+
+166. What is the tangible-object base? The earth element, the fire element, the air element; hard, soft, smooth, rough, pleasant to touch, painful to touch, heavy, light. That tangible object, being invisible and offering resistance, has been touched, is touched, will be touched, or may be touched with the body, which is itself invisible yet offers resistance. This is a tangible object; this is the tangible-object base; this is the tangible-object element. This is called the tangible-object base. ^2-166
+
+167. What is the mind-object base? The aggregate of feeling, the aggregate of perception, the aggregate of formations, whatever form is invisible, offers no resistance, and is included in the mind-object base, and the unconstructed element.
+What is the aggregate of feeling? As a single category: feeling is associated with contact. As two categories: there is feeling that has a root-cause, and feeling that is without a root-cause. As three categories: there is feeling that is wholesome, feeling that is unwholesome, and feeling that is indeterminate … up to … thus, as ten categories, this is the aggregate of feeling … up to … thus, in this way, this is the aggregate of feeling. This is called the aggregate of feeling.
+What is the aggregate of perception? As a single category: perception is associated with contact. As two categories: there is perception that has a root-cause, and perception that is without a root-cause. As three categories: there is perception that is wholesome, perception that is unwholesome, and perception that is indeterminate … up to … thus, as ten categories, this is the aggregate of perception … up to … thus, in this way, this is the aggregate of perception. This is called the aggregate of perception.
+What is the aggregate of formations? As a single category: formations are associated with mind. As two categories: there are formations that are a root-cause, and formations that are not a root-cause. As three categories: there are formations that are wholesome, formations that are unwholesome, and formations that are indeterminate … up to … thus, as ten categories, this is the aggregate of formations … up to … thus, in this way, this is the aggregate of formations. This is called the aggregate of formations.
+What is the form that is invisible, offers no resistance, and is included in the mind-object base? The femininity faculty, the masculinity faculty … up to … edible food. This is called the form that is invisible, offers no resistance, and is included in the mind-object base.
+What is the unconstructed element? The destruction of lust, the destruction of hatred, the destruction of delusion — this is called the unconstructed element.
+This is called the mind-object base.
+The Abhidhamma Method. ^2-167
+
+#### The Catechism ^2-2-3-0
+
+168. The twelve bases: the eye base, the form base, the ear base, the sound base, the nose base, the smell base, the tongue base, the taste base, the body base, the tangible-object base, the mind base, the mind-object base. ^2-168
+
+169. Of the twelve bases, how many are wholesome, how many are unwholesome, how many are indeterminate … up to … how many are with strife, how many are without strife? ^2-169
+
+##### The Triads ^2-2-3-1-0
+
+170. Ten bases are indeterminate. Two bases may be wholesome, may be unwholesome, or may be indeterminate. It cannot rightly be said of ten bases that they are "associated with pleasant feeling," or "associated with painful feeling," or "associated with neither-pleasant-nor-painful feeling." The mind base may be associated with pleasant feeling, may be associated with painful feeling, or may be associated with neither-pleasant-nor-painful feeling. The mind-object base may be associated with pleasant feeling, may be associated with painful feeling, may be associated with neither-pleasant-nor-painful feeling, or it cannot rightly be said of it that it is "associated with pleasant feeling," or "associated with painful feeling," or "associated with neither-pleasant-nor-painful feeling." Ten bases are neither a result nor productive of a result. Two bases may be results, may be productive of results, or may be neither.
+Five bases are clung to and a basis for clinging. The sound base is not clung to but is a basis for clinging. Four bases may be clung to and a basis for clinging, may be not clung to but a basis for clinging, or may be no basis for clinging at all. Two bases may be clung to and a basis for clinging, may be not clung to but a basis for clinging, or may be neither clung to nor a basis for clinging. Ten bases are undefiled but a basis for defilement. Two bases may be defiled and a basis for defilement, may be undefiled but a basis for defilement, or may be neither defiled nor a basis for defilement. Ten bases are without applied and sustained thought. The mind base may have applied and sustained thought, may have only sustained thought, or may have neither. The mind-object base may have applied and sustained thought, may have only sustained thought, may have neither, or it cannot rightly be said of it that it "has applied and sustained thought," or "has only sustained thought," or "has neither." It cannot rightly be said of ten bases that they are "accompanied by joy," "accompanied by pleasure," or "accompanied by equanimity." Two bases may be accompanied by joy, may be accompanied by pleasure, may be accompanied by equanimity, or it cannot rightly be said of them that they are "accompanied by joy," "accompanied by pleasure," or "accompanied by equanimity."
+Ten bases are abandoned neither by seeing nor by development. Two bases may be abandoned by seeing, may be abandoned by development, or may be abandoned by neither. Ten bases have a root-cause that is abandoned neither by seeing nor by development. Two bases may have a root-cause abandoned by seeing, may have a root-cause abandoned by development, or may have a root-cause abandoned by neither. Ten bases neither lead to accumulation nor to dispersal. Two bases may lead to accumulation, may lead to dispersal, or may do neither. Ten bases belong to neither a trainee nor one beyond training. Two bases may belong to a trainee, may belong to one beyond training, or may belong to neither. Ten bases are limited. Two bases may be limited, may be exalted, or may be measureless. Ten bases have no object. Two bases may have a limited object, may have an exalted object, may have a measureless object, or it cannot rightly be said of them that they have "a limited object," "an exalted object," or "a measureless object." Ten bases are middling. Two bases may be inferior, may be middling, or may be superior. Ten bases are undetermined. Two bases may be fixed in wrongness, may be fixed in rightness, or may be undetermined.
+Ten bases have no object. Two bases may have the path as their object, may have the path as their root-cause, may have the path as their dominant factor, or it cannot rightly be said of them that they have "the path as object," "the path as root-cause," or "the path as dominant factor." Five bases may have arisen or may be due to arise; it cannot rightly be said of them that they "have not arisen." The sound base may have arisen or may not have arisen; it cannot rightly be said of it that it is "due to arise." Five bases may have arisen, may not have arisen, or may be due to arise. The mind-object base may have arisen, may not have arisen, may be due to arise, or it cannot rightly be said of it that it "has arisen," "has not arisen," or "is due to arise." Eleven bases may be past, may be future, or may be present. The mind-object base may be past, may be future, may be present, or it cannot rightly be said of it that it is "past," "future," or "present." Ten bases have no object. Two bases may have a past object, may have a future object, may have a present object, or it cannot rightly be said of them that they have "a past object," "a future object," or "a present object"; they may be internal, may be external, or may be both internal and external. Ten bases have no object. Two bases may have an internal object, may have an external object, may have both an internal and an external object, or it cannot rightly be said of them that they have "an internal object," "an external object," or "both." The form base is visible and offers resistance. Nine bases are invisible and offer resistance. Two bases are invisible and offer no resistance. ^2-170
+
+##### The Dyads ^2-2-3-2-0
+
+171. Eleven bases are not a root-cause. The mind-object base may be a root-cause, or may not be a root-cause. Ten bases are without a root-cause. Two bases may have a root-cause, or may be without one. Ten bases are dissociated from a root-cause. Two bases may be associated with a root-cause, or dissociated from one. It cannot rightly be said of ten bases that they are "both a root-cause and having a root-cause," nor "having a root-cause without being a root-cause." It cannot rightly be said of the mind base that it is "both a root-cause and having a root-cause"; it may be having-a-root-cause without being a root-cause, or it cannot rightly be said of it that it is so. The mind-object base may be both a root-cause and having a root-cause, may be having-a-root-cause without being a root-cause, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both a root-cause and associated with a root-cause," nor "associated with a root-cause without being a root-cause." It cannot rightly be said of the mind base that it is "both a root-cause and associated with a root-cause"; it may be associated-with-a-root-cause without being a root-cause, or it cannot rightly be said of it that it is so. The mind-object base may be both a root-cause and associated with a root-cause, may be associated-with-a-root-cause without being a root-cause, or it cannot rightly be said of it that it is either. Ten bases are neither a root-cause nor have a root-cause. The mind base may be neither a root-cause but have a root-cause, or may be neither a root-cause nor have one. The mind-object base may be neither a root-cause but have a root-cause, may be neither a root-cause nor have one, or it cannot rightly be said of it that it is either.
+Eleven bases are conditioned. The mind-object base may be conditioned, or may be unconditioned. Eleven bases are constructed. The mind-object base may be constructed, or may be unconstructed. The form base is visible. Eleven bases are invisible. Ten bases offer resistance. Two bases offer no resistance. Ten bases are form. The mind base is formless. The mind-object base may be form, or may be formless. Ten bases belong to the world. Two bases may belong to the world, or may go beyond the world; they may be cognizable by some means, or not cognizable by any.
+Eleven bases are not taints. The mind-object base may be a taint, or may not be a taint. Ten bases are subject to taints. Two bases may be subject to taints, or free of taints. Ten bases are dissociated from taints. Two bases may be associated with taints, or dissociated from them. It cannot rightly be said of ten bases that they are "both taints and subject to taints," nor "subject to taints without being taints." It cannot rightly be said of the mind base that it is "both a taint and subject to taints"; it may be subject-to-taints without being a taint, or it cannot rightly be said of it that it is so. The mind-object base may be both a taint and subject to taints, may be subject-to-taints without being a taint, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both taints and associated with taints," nor "associated with taints without being taints." It cannot rightly be said of the mind base that it is "both a taint and associated with a taint"; it may be associated-with-a-taint without being a taint, or it cannot rightly be said of it that it is so. The mind-object base may be both a taint and associated with a taint, may be associated-with-a-taint without being a taint, or it cannot rightly be said of it that it is either. Ten bases are dissociated from taints yet subject to them. Two bases may be dissociated from taints yet subject to them, may be dissociated from taints and free of them, or it cannot rightly be said of them that they are either.
+Eleven bases are not fetters. The mind-object base may be a fetter, or may not be a fetter. Ten bases are fetter-objects. Two bases may be fetter-objects, or free of that status. Ten bases are dissociated from fetters. Two bases may be associated with fetters, or dissociated from them. It cannot rightly be said of ten bases that they are "both fetters and fetter-objects," nor "fetter-objects without being fetters." It cannot rightly be said of the mind base that it is "both a fetter and a fetter-object"; it may be a fetter-object without being a fetter, or it cannot rightly be said of it that it is so. The mind-object base may be both a fetter and a fetter-object, may be a fetter-object without being a fetter, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both fetters and associated with fetters," nor "associated with fetters without being fetters." It cannot rightly be said of the mind base that it is "both a fetter and associated with a fetter"; it may be associated-with-a-fetter without being a fetter, or it cannot rightly be said of it that it is so. The mind-object base may be both a fetter and associated with a fetter, may be associated-with-a-fetter without being a fetter, or it cannot rightly be said of it that it is either. Ten bases are dissociated from fetters yet fetter-objects. Two bases may be dissociated from fetters yet fetter-objects, may be dissociated from fetters and free of that status, or it cannot rightly be said of them that they are either.
+Eleven bases are not ties. The mind-object base may be a tie, or may not be a tie. Ten bases are tie-objects. Two bases may be tie-objects, or free of that status. Ten bases are dissociated from ties. Two bases may be associated with ties, or dissociated from them. It cannot rightly be said of ten bases that they are "both ties and tie-objects," nor "tie-objects without being ties." It cannot rightly be said of the mind base that it is "both a tie and a tie-object"; it may be a tie-object without being a tie, or it cannot rightly be said of it that it is so. The mind-object base may be both a tie and a tie-object, may be a tie-object without being a tie, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both ties and associated with ties," nor "associated with ties without being ties." It cannot rightly be said of the mind base that it is "both a tie and associated with a tie"; it may be associated-with-a-tie without being a tie, or it cannot rightly be said of it that it is so. The mind-object base may be both a tie and associated with a tie, may be associated-with-a-tie without being a tie, or it cannot rightly be said of it that it is either. Ten bases are dissociated from ties yet tie-objects. Two bases may be dissociated from ties yet tie-objects, may be dissociated from ties and free of that status, or it cannot rightly be said of them that they are either.
+Eleven bases are not floods … up to … not bonds … up to … not hindrances. The mind-object base may be a hindrance, or may not be a hindrance. Ten bases are hindrance-objects. Two bases may be hindrance-objects, or free of that status. Ten bases are dissociated from hindrances. Two bases may be associated with hindrances, or dissociated from them. It cannot rightly be said of ten bases that they are "both hindrances and hindrance-objects," nor "hindrance-objects without being hindrances." It cannot rightly be said of the mind base that it is "both a hindrance and a hindrance-object"; it may be a hindrance-object without being a hindrance, or it cannot rightly be said of it that it is so. The mind-object base may be both a hindrance and a hindrance-object, may be a hindrance-object without being a hindrance, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both hindrances and associated with hindrances," nor "associated with hindrances without being hindrances." It cannot rightly be said of the mind base that it is "both a hindrance and associated with a hindrance"; it may be associated-with-a-hindrance without being a hindrance, or it cannot rightly be said of it that it is so. The mind-object base may be both a hindrance and associated with a hindrance, may be associated-with-a-hindrance without being a hindrance, or it cannot rightly be said of it that it is either. Ten bases are dissociated from hindrances yet hindrance-objects. Two bases may be dissociated from hindrances yet hindrance-objects, may be dissociated from hindrances and free of that status, or it cannot rightly be said of them that they are either.
+Eleven bases are not misapprehensions. The mind-object base may be a misapprehension, or may not be a misapprehension. Ten bases are misapprehended. Two bases may be misapprehended, or not misapprehended. Ten bases are dissociated from misapprehension. The mind base may be associated with misapprehension, or dissociated from it. The mind-object base may be associated with misapprehension, may be dissociated from it, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both misapprehensions and misapprehended," nor "misapprehended without being misapprehensions." It cannot rightly be said of the mind base that it is "both a misapprehension and misapprehended"; it may be misapprehended without being a misapprehension, or it cannot rightly be said of it that it is so. The mind-object base may be both a misapprehension and misapprehended, may be misapprehended without being a misapprehension, or it cannot rightly be said of it that it is either. Ten bases are dissociated from misapprehension yet misapprehended. Two bases may be dissociated from misapprehension yet misapprehended, may be dissociated from misapprehension and free of that status, or it cannot rightly be said of them that they are either.
+Ten bases have no object. The mind base has an object. The mind-object base may have an object, or may have none. The mind base is mind. Eleven bases are not mind. Eleven bases are not mental factors. The mind-object base may be a mental factor, or may not be a mental factor. Ten bases are dissociated from mind. The mind-object base may be associated with mind, or dissociated from it. It cannot rightly be said of the mind base that it is "associated with mind" or "dissociated from mind." Ten bases are disjoined from mind. The mind-object base may be conjoined with mind, or disjoined from it. It cannot rightly be said of the mind base that it is "conjoined with mind" or "disjoined from mind." Six bases do not originate from mind. Six bases may originate from mind, or may not. Eleven bases do not co-arise with mind. The mind-object base may co-arise with mind, or may not. Eleven bases do not follow mind's course. The mind-object base may follow mind's course, or may not. Eleven bases are neither conjoined with nor originate from mind. The mind-object base may be conjoined with and originate from mind, or may not. Eleven bases are neither conjoined with, nor originate from, nor co-arise with mind. The mind-object base may be conjoined with, originate from, and co-arise with mind, or may not. Eleven bases are neither conjoined with, nor originate from, nor follow the course of mind. The mind-object base may be conjoined with, originate from, and follow the course of mind, or may not.
+Six bases are internal. Six bases are external. Nine bases are derived [matter]. Two bases are not derived [matter]. The mind-object base may be derived [matter], or may not be. Five bases are clung to. The sound base is not clung to. Six bases may be clung to, or not clung to. Eleven bases are not clingings. The mind-object base may be a clinging, or may not be a clinging. Ten bases are bases for clinging. Two bases may be bases for clinging, or free of that status. Ten bases are dissociated from clinging. Two bases may be associated with clinging, or dissociated from it. It cannot rightly be said of ten bases that they are "both clingings and bases for clinging," nor "bases for clinging without being clingings." It cannot rightly be said of the mind base that it is "both a clinging and a basis for clinging"; it may be a basis for clinging without being a clinging, or it cannot rightly be said of it that it is so. The mind-object base may be both a clinging and a basis for clinging, may be a basis for clinging without being a clinging, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both clingings and associated with clinging," nor "associated with clinging without being clingings." It cannot rightly be said of the mind base that it is "both a basis for clinging and associated with a clinging"; it may be associated with a clinging without being a clinging, or it cannot rightly be said of it that it is so. The mind-object base may be both a clinging and associated with a clinging, may be associated with a clinging without being a clinging, or it cannot rightly be said of it that it is either. Ten bases are dissociated from clinging yet a basis for it. Two bases may be associated with clinging and a basis for it, may be dissociated from clinging and free of that status, or it cannot rightly be said of them that they are either.
+Eleven bases are not defilements. The mind-object base may be a defilement, or may not be a defilement. Ten bases are subject to defilement. Two bases may be subject to defilement, or free of that status. Ten bases are undefiled. Two bases may be defiled, or undefiled. Ten bases are dissociated from defilement. Two bases may be associated with defilement, or dissociated from it. It cannot rightly be said of ten bases that they are "both defilements and subject to defilement," nor "subject to defilement without being defilements." It cannot rightly be said of the mind base that it is "both a defilement and subject to defilement"; it may be subject to defilement without being a defilement, or it cannot rightly be said of it that it is so. The mind-object base may be both a defilement and subject to defilement, may be subject to defilement without being a defilement, or it cannot rightly be said of it that it is either. It cannot rightly be said of ten bases that they are "both defilements and defiled," nor "defiled without being defilements." It cannot rightly be said of the mind base that it is "both a defilement and defiled"; it may be defiled without being a defilement, or it cannot rightly be said of it that it is so. The mind-object base may be both a defilement and defiled, may be defiled without being a defilement, or it cannot rightly be said of it that it is either.
+It cannot rightly be said of ten bases that they are "both defilements and associated with defilement," nor "associated with defilement without being defilements." It cannot rightly be said of the mind base that it is "both a defilement and associated with defilement"; it may be associated with defilement without being a defilement, or it cannot rightly be said of it that it is so. The mind-object base may be both a defilement and associated with defilement, may be associated with defilement without being a defilement, or it cannot rightly be said of it that it is either. Ten bases are dissociated from defilement yet subject to it. Two bases may be dissociated from defilement yet subject to it, may be dissociated from defilement and free of that status, or it cannot rightly be said of them that they are either.
+Ten bases are not abandoned by seeing. Two bases may be abandoned by seeing, or not. Ten bases are not abandoned by development. Two bases may be abandoned by development, or not. Ten bases have no root-cause abandoned by seeing. Two bases may have a root-cause abandoned by seeing, or not. Ten bases have no root-cause abandoned by development. Two bases may have a root-cause abandoned by development, or not. Ten bases are without applied thought. Two bases may have applied thought, or not. Ten bases are without sustained thought. Two bases may have sustained thought, or not. Ten bases are without joy. Two bases may have joy, or not. Ten bases are not accompanied by joy. Two bases may be accompanied by joy, or not. Ten bases are not accompanied by pleasure. Two bases may be accompanied by pleasure, or not. Ten bases are not accompanied by equanimity. Two bases may be accompanied by equanimity, or not.
+Ten bases belong to the sense sphere. Two bases may belong to the sense sphere, or not. Ten bases do not belong to the fine-material sphere. Two bases may belong to the fine-material sphere, or not. Ten bases do not belong to the immaterial sphere. Two bases may belong to the immaterial sphere, or not. Ten bases are included. Two bases may be included, or unincluded. Ten bases do not lead out of the round. Two bases may lead out of the round, or not. Ten bases are undetermined. Two bases may be determined, or undetermined. Ten bases have a superior. Two bases may have a superior, or none. Ten bases are without strife. Two bases may be with strife, or without strife.
+The Catechism.
+Here ends the Analysis of the Sense Bases. ^2-171

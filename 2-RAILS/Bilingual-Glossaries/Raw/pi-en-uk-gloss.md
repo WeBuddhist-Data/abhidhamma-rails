@@ -11,7 +11,7 @@ status: draft
 
 # Interlinear gloss — pi → English (U Kyaw Khine)
 
-## ^1-0a-1
+## ^1-MI-1
 
 ```gloss
 \gla    kusalā   dhammā   akusalā   dhammā   abyākatā   dhammā
@@ -19,7 +19,7 @@ status: draft
 \ex     1. Kusala Tika: (i) Meritorious Dhammā (1–364, 985, 1384) (ii) Demeritorious Dhammā (365–430, 986, 1385) (iii) Neither meritorious nor demeritorious Dhammā (431–984, 987, 1386)
 ```
 
-## ^1-0a-2
+## ^1-MI-2
 
 ```gloss
 \gla    sukhāya   vedanāya   sampayuttā   dhammā   dukkhāya   vedanāya   sampayuttā   dhammā   adukkhamasukhāya   vedanāya   sampayuttā   dhammā
@@ -27,7 +27,7 @@ status: draft
 \ex     2. Vedanā Tika: (i) Dhammā associated with pleasant sensation (988, 1387) (ii) Dhammā associated with unpleasant sensation (989, 1388) (iii) Dhammā associated with neither pleasant nor unpleasant sensation (990, 1389)
 ```
 
-## ^1-0a-3
+## ^1-MI-3
 
 ```gloss
 \gla    vipākā   dhammā   vipākadhammadhammā   nevavipākanavipākadhammadhammā
@@ -35,7 +35,7 @@ status: draft
 \ex     3. Vipāka Tika: (i) Dhamma which are resultants (991, 1390) (ii) Dhamma which cause resultants (992, 1391) (iii) Dhamma which are neither resultants nor which cause resultants (993, 1392)
 ```
 
-## ^1-0a-4
+## ^1-MI-4
 
 ```gloss
 \gla    upādiṇṇupādāniyā   dhammā   anupādiṇṇupādāniyā   dhammā   anupādiṇṇaanupādāniyā   dhammā
@@ -43,7 +43,7 @@ status: draft
 \ex     4. Upādinna Tika: (i) Dhamma which are kamma-born as well as objects of Clinging (994, 1393) (ii) Dhamma which are not kamma-born but are objects of Clinging (995, 1394) (iii) Dhammā which are neither kamma-born nor are objects of Clinging (996, 1395)
 ```
 
-## ^1-0a-5
+## ^1-MI-5
 
 ```gloss
 \gla    saṃkiliṭṭhasaṃkilesikā   dhammā   asaṃkiliṭṭhasaṃkilesikā   dhammā   asaṃkiliṭṭhaasaṃkilesikā   dhammā
@@ -51,7 +51,7 @@ status: draft
 \ex     5. Saṃkiliṭṭha Tika: (i) Dhammā which are defiled and are also objects of defilements (997, 1396) (ii) Dhammā which are not defiled but are objects of defilements (998, 1397) (iii) Dhamma which are neither defiled nor are objects of defilements (999, 1398)
 ```
 
-## ^1-0a-6
+## ^1-MI-6
 
 ```gloss
 \gla    savitakkasavicārā   dhammā   avitakkavicāramattā   dhammā   avitakkaavicārā   dhammā
@@ -59,7 +59,7 @@ status: draft
 \ex     6. Vitakka Tika: (i) Dhammā associated with initial application of the mind and sustained application of the mind (1000, 1399) (ii) Dhammā not associated with initial application of the mind but merely with sustained application of the mind (1001, 1400) (iii) Dhammā not associated with both initial application of the mind and sustained application of the mind (1002, 1401)
 ```
 
-## ^1-0a-7
+## ^1-MI-7
 
 ```gloss
 \gla    pītisahagatā   dhammā   sukhasahagatā   dhammā   upekkhāsahagatā   dhammā
@@ -67,7 +67,7 @@ status: draft
 \ex     7. Pīti Tika: (i) Dhamma which arise together with Delightful Satisfaction (1003, 1402) (ii) Dhamma which arise together with happiness (1004, 1403) (iii) Dhamma which arise together with Equanimity (1005, 1404)
 ```
 
-## ^1-0a-8
+## ^1-MI-8
 
 ```gloss
 \gla    dassanena   pahātabbā   dhammā   bhāvanāya   pahātabbā   dhammā   neva   dassanena   na   bhāvanāya   pahātabbā   dhammā
@@ -75,7 +75,7 @@ status: draft
 \ex     8. Dassana Tika: (i) Dhammā eliminated by Sotāpatti Magga (1006, 1405) (ii) Dhammā eliminated by the three higher Maggas (1011, 1406) (iii) Dhammā not eliminated by Sotāpatti Magga nor by the three higher Maggas (1012, 1407)
 ```
 
-## ^1-0a-9
+## ^1-MI-9
 
 ```gloss
 \gla    dassanena   pahātabbahetukā   dhammā   bhāvanāya   pahātabbahetukā   dhammā   neva   dassanena   na   bhāvanāya   pahātabbahetukā   dhammā
@@ -83,7 +83,7 @@ status: draft
 \ex     9. Dassana Hetuka Tika: (i) Dhammā with root causes eliminated by Sotāpatti Magga (1013, 1408) (ii) Dhammā with root causes eliminated by the three higher Maggas (1018, 1409) (iii) Dhamma which have no other root causes to associate with and which are eliminated neither by Sotāpatti Magga nor by the three higher Maggas (1019, 1410)
 ```
 
-## ^1-0a-10
+## ^1-MI-10
 
 ```gloss
 \gla    ācayagāmino   dhammā   apacayagāmino   dhammā   nevācayagāmināpacayagāmino   dhammā
@@ -91,7 +91,7 @@ status: draft
 \ex     10. Acayagāmi Tika: (i) Dhammā leading to the piling up of rebirth and death (1020, 1411) (ii) Dhammā leading to realization of Nibbāna (1021, 1412) (iii) Dhamma which neither lead to the piling up of rebirth and death nor to realization of Nibbāna (1022, 1413)
 ```
 
-## ^1-0a-11
+## ^1-MI-11
 
 ```gloss
 \gla    sekkhā   dhammā   asekkhā   dhammā   nevasekkhanāsekkhā   dhammā
@@ -99,7 +99,7 @@ status: draft
 \ex     11. Sekkha Tika: (i) Dhamma which are the mental properties of ariyas who are still training themselves for arahatship (1023, 1414) (ii) Dhammā which are the mental properties of ariyas who have completed training themselves (arahats) (1024, 1415) (iii) Dhamma which are neither the mental properties of ariyas still training themselves for arahatship nor of ariyas who have completed training themselves (arahats) (1025, 1416)
 ```
 
-## ^1-0a-12
+## ^1-MI-12
 
 ```gloss
 \gla    parittā   dhammā   mahaggatā   dhammā   appamāṇā   dhammā
@@ -107,7 +107,7 @@ status: draft
 \ex     12. Paritta Tika: (i) Dhamma of limited efficacy (Kāma dhamma) (1026, 1417) (ii) Dhamma of lofty attainments (1027, 1418) (iii) Dhamma which are incomparable (1031, 1419)
 ```
 
-## ^1-0a-13
+## ^1-MI-13
 
 ```gloss
 \gla    parittārammaṇā   dhammā   mahaggatārammaṇā   dhammā   appamāṇārammaṇā   dhammā
@@ -115,7 +115,7 @@ status: draft
 \ex     13. Parittarāmmana Tika: (i) Dhamma which have object of limited efficacy (1029, 1420) (ii) Dhamma which have lofty attainments as object (1027, 1418) (iii) Dhamma which have incomparable dhamma as object (1031, 1422)
 ```
 
-## ^1-0a-14
+## ^1-MI-14
 
 ```gloss
 \gla    hīnā   dhammā   majjhimā   dhammā   paṇītā   dhammā
@@ -123,7 +123,7 @@ status: draft
 \ex     14. Hīna Tika: (i) Inferior dhammā (1032, 1423) (ii) Medium dhammā (1033, 1424) (iii) Superior dhamma (1034, 1425)
 ```
 
-## ^1-0a-15
+## ^1-MI-15
 
 ```gloss
 \gla    micchattaniyatā   dhammā   sammattaniyatā   dhammā   aniyatā   dhammā
@@ -131,7 +131,7 @@ status: draft
 \ex     15. Micchatta Tika: (i) Wrong dhamma which unfailingly produce results (immediately after death) (1035, 1426) (ii) Right dhammā which unfailingly produce results (immediately after the arising of those dhamma) (1036, 1427) (iii) Dhamma which do not unfailingly produce results (immediately after death or immediately after the arising of those dhamma) (1037, 1428)
 ```
 
-## ^1-0a-16
+## ^1-MI-16
 
 ```gloss
 \gla    maggārammaṇā   dhammā   maggahetukā   dhammā   maggādhipatino   dhammā
@@ -139,7 +139,7 @@ status: draft
 \ex     16. Maggārammana Tika: (i) Dhamma which have Magga as the object (1038, 1429) (ii) Dhamma which have Magga as root cause (1039, 1429) (iii) Dhamma which have Magga as predominant factor (1040, 1429)
 ```
 
-## ^1-0a-17
+## ^1-MI-17
 
 ```gloss
 \gla    uppannā   dhammā   anuppannā   dhammā   uppādino   dhammā
@@ -147,7 +147,7 @@ status: draft
 \ex     17. Uppannā Tika: (i) Dhamma which are in the process of arising (1041, 1430) (ii) Dhamma which have not yet arisen (1042, 1430) (iii) Dhamma which will definitely arise (1043, 1430)
 ```
 
-## ^1-0a-18
+## ^1-MI-18
 
 ```gloss
 \gla    atītā   dhammā   anāgatā   dhammā   paccuppannā   dhammā
@@ -155,7 +155,7 @@ status: draft
 \ex     18. Atīta Tika: (i) Dhamma which are past (1044, 1431) (ii) Dhamma of the future (1045, 1431) (iii) Dhamma of the present (1046, 1431)
 ```
 
-## ^1-0a-19
+## ^1-MI-19
 
 ```gloss
 \gla    atītārammaṇā   dhammā   anāgatārammaṇā   dhammā   paccuppannārammaṇā   dhammā
@@ -163,7 +163,7 @@ status: draft
 \ex     19. Atītārammana Tika: (i) Dhamma which have the past as object (1047, 1432) (ii) Dhamma which have the future as object (1048, 1433) (iii) Dhamma which have the present as object (1049, 1434)
 ```
 
-## ^1-0a-20
+## ^1-MI-20
 
 ```gloss
 \gla    ajjhattā   dhammā   bahiddhā   dhammā   ajjhattabahiddhā   dhammā
@@ -171,7 +171,7 @@ status: draft
 \ex     20. Ajjhatta Tika: (i) Dhamma which are internal (1050, 1435) (ii) Dhamma which are external (1051, 1435) (iii) Dhamma which are internal and external (1052, 1435)
 ```
 
-## ^1-0a-21
+## ^1-MI-21
 
 ```gloss
 \gla    ajjhattārammaṇā   dhammā   bahiddhārammaṇā   dhammā   ajjhattabahiddhārammaṇā   dhammā
@@ -179,7 +179,7 @@ status: draft
 \ex     21. Ajjhatārammana Tika: (i) Dhamma which have internal things as objects (1053, 1436) (ii) Dhamma which have external things as objects (1054, 1437) (iii) Dhamma which have internal and external things as objects (1055, 1437)
 ```
 
-## ^1-0a-22
+## ^1-MI-22
 
 ```gloss
 \gla    sanidassanasappaṭighā   dhammā   anidassanasappaṭighā   dhammā   anidassanaappaṭighā   dhammā   Tikamātikā

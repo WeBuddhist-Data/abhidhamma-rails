@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md",
+  "validated_at": "2026-09-04T09:17:10.723003+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'BzOXhiRUQM4MOT6affzmO'",
+    "root_text: '1-SOURCES/Text/pi-1.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://tipitaka.org/romn/cscd/abh01a.att.xml'",
+    "toc: 110 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Dhammasaṅgaṇi-aṭṭhakathā"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": "BzOXhiRUQM4MOT6affzmO",
+    "translation_of": null,
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

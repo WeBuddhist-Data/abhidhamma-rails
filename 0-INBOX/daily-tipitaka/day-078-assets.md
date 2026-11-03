@@ -78,7 +78,6 @@ Tattha katamā vedanā santike? Akusalā vedanā akusalāya vedanāya santike; k
 15. Tattha katamā saññā atītā? Yā saññā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā atītā.
 Tattha katamā saññā anāgatā? Yā saññā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā anāgatā.
 Tattha katamā saññā paccuppannā? Yā saññā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā paccuppannā. ^2-15
-
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
 ## Khandhavibhaṅgo

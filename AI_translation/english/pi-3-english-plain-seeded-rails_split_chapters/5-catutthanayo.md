@@ -1,0 +1,13 @@
+### Fourth Method ^3-5-0
+
+#### Explanation of the Term "What Is Included by What Is Included" ^3-5-1-0
+
+Take the states that are included with the truth of the origin… with the truth of the path in terms of aggregates, included in terms of bases and included in terms of elements; then the states that are included with those states in terms of aggregates, included in terms of bases and included in terms of elements: in how many aggregates, bases and elements are those states included? Those states are included in one aggregate, one base and one element. ^3-191
+
+Take the states that are included with the femininity faculty… with the masculinity faculty… with the pleasure faculty… with the pain faculty… with the joy faculty… with the displeasure faculty… with the equanimity faculty… with the faith faculty… with the energy faculty… with the mindfulness faculty… with the concentration faculty… with the wisdom faculty… with the faculty of "I shall know the not-yet-known"… with the knowledge faculty… with the final-knowledge faculty….
+With ignorance… with formations with ignorance as condition… with contact with the six sense bases as condition… with craving with feeling as condition… with clinging with craving as condition… with becoming through action… with sorrow… with lamentation… with suffering… with displeasure… with despair….
+With a foundation of mindfulness… with a right effort… with a measureless state… with the five faculties… with the five powers… with the seven factors of awakening… with the noble eightfold path… with contact… with volition… with decision… with attention….
+With states that are roots… with states that are roots and also have roots (sahetukehi)… with states that are roots and also associated with roots… with taints… with fetters… with knots… with floods… with yokes… with hindrances… with misapprehensions… with clingings… with states that are defilements… with states that are defilements and also subject to defilement… with states that are defilements and also defiled… with states that are defilements and also associated with defilements in terms of aggregates, included in terms of bases and included in terms of elements; then the states that are included with those states in terms of aggregates, included in terms of bases and included in terms of elements: in how many aggregates, bases and elements are those states included? Those states are included in one aggregate, one base and one element.
+Two truths, fifteen faculties, eleven terms of dependent origination;
+beyond that, eleven more; here the cluster terms are of thirty kinds [tiṃsavidhanti (PTS edition)].
+The fourth: the Explanation of the Term "What Is Included by What Is Included". ^3-192

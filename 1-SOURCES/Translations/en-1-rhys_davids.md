@@ -6,7 +6,7 @@ file_type: translation
 lang_tag: en-rd
 verse_id_format: book-verse
 pitaka: abhidhamma
-root_text: 1-SOURCES/Text/pi-dhammasangani.md
+root_text: 1-SOURCES/Text/pi-1.md
 translator: C.A.F. Rhys Davids, A Buddhist Manual of Psychological Ethics (PTS, 1900)
 translation_basis: C.A.F. Rhys Davids 1900 PTS translation, segment-aligned to the Pāli Dhammasaṅgaṇī
 coverage: partial
@@ -15,371 +15,371 @@ copyright: "© Pali Text Society. Digital edition: For non-commercial use only. 
 
 Homage to the Blessed One, the Arahant, the Perfectly Enlightened One.
 
-# Abhidhammapiṭake ^abhidhamma-0
+# Abhidhammapiṭake ^0
 
 ## Dhammasaṅgaṇīpāḷi ^1-0
 
-### Mātikā ^1-0-0
+### Mātikā ^1-M-0
 
-#### Tikamātikā ^1-0a-0
+#### Tikamātikā ^1-M-I-0
 
-States that are good, bad, indeterminate. ^1-0a-1
+States that are good, bad, indeterminate. ^1-MI-1
 
-States that are associated with pleasant feeling, painful feeling, neutral feeling. ^1-0a-2
+States that are associated with pleasant feeling, painful feeling, neutral feeling. ^1-MI-2
 
-States that are results; that have resultant quality; that are neither. ^1-0a-3
+States that are results; that have resultant quality; that are neither. ^1-MI-3
 
-States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither. ^1-0a-4
+States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither. ^1-MI-4
 
-States that are vitiated and vicious; that are not vitiated but are vicious; that are neither. ^1-0a-5
+States that are vitiated and vicious; that are not vitiated but are vicious; that are neither. ^1-MI-5
 
-States that have applied and sustained thinking; sustained thinking only; neither. ^1-0a-6
+States that have applied and sustained thinking; sustained thinking only; neither. ^1-MI-6
 
-States that are accompanied by zest; by happiness; by indifference. ^1-0a-7
+States that are accompanied by zest; by happiness; by indifference. ^1-MI-7
 
-States that are to be put away by vision; by culture; by neither. ^1-0a-8
+States that are to be put away by vision; by culture; by neither. ^1-MI-8
 
-States, the moral roots of which are to be put away by vision; by culture; by neither. ^1-0a-9
+States, the moral roots of which are to be put away by vision; by culture; by neither. ^1-MI-9
 
-States going to building up; going to pulling down; going to neither. ^1-0a-10
+States going to building up; going to pulling down; going to neither. ^1-MI-10
 
-States of one in training; of the adept; of one who is neither. ^1-0a-11
+States of one in training; of the adept; of one who is neither. ^1-MI-11
 
-States that are limited, sublime, infinite. ^1-0a-12
+States that are limited, sublime, infinite. ^1-MI-12
 
-States that have a limited object; a sublime object; neither. ^1-0a-13
+States that have a limited object; a sublime object; neither. ^1-MI-13
 
-States that are base; of medium worth; excellent. ^1-0a-14
+States that are base; of medium worth; excellent. ^1-MI-14
 
-States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences. ^1-0a-15
+States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences. ^1-MI-15
 
-States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path. ^1-0a-16
+States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path. ^1-MI-16
 
-States that have arisen; that have not arisen; that are bound to arise. ^1-0a-17
+States that have arisen; that have not arisen; that are bound to arise. ^1-MI-17
 
-States that are past; present; future. ^1-0a-18
+States that are past; present; future. ^1-MI-18
 
-States that have the past as their object; the present as their object; the future as their object. ^1-0a-19
+States that have the past as their object; the present as their object; the future as their object. ^1-MI-19
 
-States that belong to one's self; are external to one's self; are belonging or external to one's self. ^1-0a-20
+States that belong to one's self; are external to one's self; are belonging or external to one's self. ^1-MI-20
 
-States that have for an object one's self; an object external to one's self; an object that is both. ^1-0a-21
+States that have for an object one's self; an object external to one's self; an object that is both. ^1-MI-21
 
-States that are visible and reacting; invisible and reacting; neither. ^1-0a-22
+States that are visible and reacting; invisible and reacting; neither. ^1-MI-22
 
-#### Dukamātikā ^1-0b-0
+#### Dukamātikā ^1-M-II-0
 
-##### Hetugocchakaṃ ^1-0b-1-0
+##### Hetugocchakaṃ ^1-M-II-I-0
 
-States that are moral roots; not moral roots. ^1-0b-1
+States that are moral roots; not moral roots. ^1-MII-1
 
-States concomitant with a moral root; not so concomitant. ^1-0b-2
+States concomitant with a moral root; not so concomitant. ^1-MII-2
 
-States associated with a moral root; dissociated from a moral root. ^1-0b-3
+States associated with a moral root; dissociated from a moral root. ^1-MII-3
 
-States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former. ^1-0b-4
+States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former. ^1-MII-4
 
-States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former. ^1-0b-5
+States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former. ^1-MII-5
 
-States that are not moral roots, but are either concomitant with moral roots or not. ^1-0b-6
+States that are not moral roots, but are either concomitant with moral roots or not. ^1-MII-6
 
-##### Cūḷantaradukaṃ ^1-0b-2-0
+##### Cūḷantaradukaṃ ^1-M-II-II-0
 
-States that are causally related; not causally related. ^1-0b-7
+States that are causally related; not causally related. ^1-MII-7
 
-States that are conditioned; unconditioned. ^1-0b-8
+States that are conditioned; unconditioned. ^1-MII-8
 
-States that are visible; invisible. ^1-0b-9
+States that are visible; invisible. ^1-MII-9
 
-States that are reactions; not reactions. ^1-0b-10
+States that are reactions; not reactions. ^1-MII-10
 
-States that have material form; that are immaterial. ^1-0b-11
+States that have material form; that are immaterial. ^1-MII-11
 
-States that are mundane; supramundane. ^1-0b-12
+States that are mundane; supramundane. ^1-MII-12
 
-States that may be cognized in a given way; that may not be cognized in that given way. ^1-0b-13
+States that may be cognized in a given way; that may not be cognized in that given way. ^1-MII-13
 
-##### Āsavagocchakaṃ ^1-0b-3-0
+##### Āsavagocchakaṃ ^1-M-II-III-0
 
-States that are āsavas; are not āsavas. ^1-0b-14
+States that are āsavas; are not āsavas. ^1-MII-14
 
-States that have āsavas, have not āsavas. ^1-0b-15
+States that have āsavas, have not āsavas. ^1-MII-15
 
-States that are associated with āsavas; dissociated from āsavas. ^1-0b-16
+States that are associated with āsavas; dissociated from āsavas. ^1-MII-16
 
-States that both are and have āsavas; that have āsavas but are not āsavas. ^1-0b-17
+States that both are and have āsavas; that have āsavas but are not āsavas. ^1-MII-17
 
-States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas. ^1-0b-18
+States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas. ^1-MII-18
 
-States that are dissociated from āsavas, but may have or may not have āsavas. ^1-0b-19
+States that are dissociated from āsavas, but may have or may not have āsavas. ^1-MII-19
 
-##### Saṃyojanagocchakaṃ ^1-0b-4-0
+##### Saṃyojanagocchakaṃ ^1-M-II-IV-0
 
-States that are fetters; are not fetters. ^1-0b-20
+States that are fetters; are not fetters. ^1-MII-20
 
-States that are favourable to fetters; are not so. ^1-0b-21
+States that are favourable to fetters; are not so. ^1-MII-21
 
-States that are associated with fetters; are dissociated from fetters. ^1-0b-22
+States that are associated with fetters; are dissociated from fetters. ^1-MII-22
 
-States that are both fetters and favourable to fetters; that are the latter but not the former. ^1-0b-23
+States that are both fetters and favourable to fetters; that are the latter but not the former. ^1-MII-23
 
-States that are both fetters and associated with fetters; that are the latter but not the former. ^1-0b-24
+States that are both fetters and associated with fetters; that are the latter but not the former. ^1-MII-24
 
-States that are dissociated from fetters, but may be favourable to fetters or unfavourable. ^1-0b-25
+States that are dissociated from fetters, but may be favourable to fetters or unfavourable. ^1-MII-25
 
-##### Ganthagocchakaṃ ^1-0b-5-0
+##### Ganthagocchakaṃ ^1-M-II-V-0
 
-States that are ties; are not ties. ^1-0b-26
+States that are ties; are not ties. ^1-MII-26
 
-States that are favourable to ties; are not so. ^1-0b-27
+States that are favourable to ties; are not so. ^1-MII-27
 
-States that are associated with ties; dissociated from ties. ^1-0b-28
+States that are associated with ties; dissociated from ties. ^1-MII-28
 
-States that are both ties and favourable to ties; that are the latter but not the former. ^1-0b-29
+States that are both ties and favourable to ties; that are the latter but not the former. ^1-MII-29
 
-States that are both ties and associated with ties; are the latter but not the former. ^1-0b-30
+States that are both ties and associated with ties; are the latter but not the former. ^1-MII-30
 
-States that are dissociated from ties; but may or may not be favourable to ties. ^1-0b-31
+States that are dissociated from ties; but may or may not be favourable to ties. ^1-MII-31
 
-##### Oghagocchakaṃ ^1-0b-6-0
+##### Oghagocchakaṃ ^1-M-II-VI-0
 
-- ^1-0b-32
+- ^1-MII-32
 
-- ^1-0b-33
+- ^1-MII-33
 
-- ^1-0b-34
+- ^1-MII-34
 
-- ^1-0b-35
+- ^1-MII-35
 
-- ^1-0b-36
+- ^1-MII-36
 
-- ^1-0b-37
+- ^1-MII-37
 
-##### Yogagocchakaṃ ^1-0b-7-0
+##### Yogagocchakaṃ ^1-M-II-VII-0
 
-- ^1-0b-38
+- ^1-MII-38
 
-- ^1-0b-39
+- ^1-MII-39
 
-- ^1-0b-40
+- ^1-MII-40
 
-- ^1-0b-41
+- ^1-MII-41
 
-- ^1-0b-42
+- ^1-MII-42
 
-- ^1-0b-43
+- ^1-MII-43
 
-##### Nīvaraṇagocchakaṃ ^1-0b-8-0
+##### Nīvaraṇagocchakaṃ ^1-M-II-VIII-0
 
-- ^1-0b-44
+- ^1-MII-44
 
-- ^1-0b-45
+- ^1-MII-45
 
-- ^1-0b-46
+- ^1-MII-46
 
-- ^1-0b-47
+- ^1-MII-47
 
-- ^1-0b-48
+- ^1-MII-48
 
-- ^1-0b-49
+- ^1-MII-49
 
-##### Parāmāsagocchakaṃ ^1-0b-9-0
+##### Parāmāsagocchakaṃ ^1-M-II-IX-0
 
-States that are perversions; are not perversions. ^1-0b-50
+States that are perversions; are not perversions. ^1-MII-50
 
-States that are perverted; unperverted. ^1-0b-51
+States that are perverted; unperverted. ^1-MII-51
 
-States that are associated with perversion; dissociated from perversion. ^1-0b-52
+States that are associated with perversion; dissociated from perversion. ^1-MII-52
 
-States that are both perversions and perverted; are the latter but not the former. ^1-0b-53
+States that are both perversions and perverted; are the latter but not the former. ^1-MII-53
 
-States that are dissociated from perversion, but are either perverted or unperverted. ^1-0b-54
+States that are dissociated from perversion, but are either perverted or unperverted. ^1-MII-54
 
-##### Mahantaradukaṃ ^1-0b-10-0
+##### Mahantaradukaṃ ^1-M-II-X-0
 
-States that have objects of thought; have not such. ^1-0b-55
+States that have objects of thought; have not such. ^1-MII-55
 
-States that have thought; have not thought. ^1-0b-56
+States that have thought; have not thought. ^1-MII-56
 
-States that are mental properties; are not such. ^1-0b-57
+States that are mental properties; are not such. ^1-MII-57
 
-States that are associated with thought; dissociated from thought. ^1-0b-58
+States that are associated with thought; dissociated from thought. ^1-MII-58
 
-States that are conjoined with thought; detached from thought. ^1-0b-59
+States that are conjoined with thought; detached from thought. ^1-MII-59
 
-States that are sprung from thought; are not so. ^1-0b-60
+States that are sprung from thought; are not so. ^1-MII-60
 
-States that come into being together with thought; do not so come into being. ^1-0b-61
+States that come into being together with thought; do not so come into being. ^1-MII-61
 
-States that are consecutive to thought; are not so. ^1-0b-62
+States that are consecutive to thought; are not so. ^1-MII-62
 
-States that are conjoined with and sprung from thought; are not so. ^1-0b-63
+States that are conjoined with and sprung from thought; are not so. ^1-MII-63
 
-States that are conjoined with, sprung from, come into being together with thought; are not so. ^1-0b-64
+States that are conjoined with, sprung from, come into being together with thought; are not so. ^1-MII-64
 
-States that are conjoined with, sprung from, consecutive to thought; are not so. ^1-0b-65
+States that are conjoined with, sprung from, consecutive to thought; are not so. ^1-MII-65
 
-States that are one's own; are external. ^1-0b-66
+States that are one's own; are external. ^1-MII-66
 
-States that are derived; are not derived. ^1-0b-67
+States that are derived; are not derived. ^1-MII-67
 
-States that are grasped at; are not grasped at. ^1-0b-68
+States that are grasped at; are not grasped at. ^1-MII-68
 
-##### Upādānagocchakaṃ ^1-0b-11-0
+##### Upādānagocchakaṃ ^1-M-II-XI-0
 
-States that are graspings; are not graspings. ^1-0b-69
+States that are graspings; are not graspings. ^1-MII-69
 
-States that are favourable to grasping; not favourable. ^1-0b-70
+States that are favourable to grasping; not favourable. ^1-MII-70
 
-States that are associated with grasping; dissociated from grasping. ^1-0b-71
+States that are associated with grasping; dissociated from grasping. ^1-MII-71
 
-States that are both graspings and favourable to grasping; are the latter but not the former. ^1-0b-72
+States that are both graspings and favourable to grasping; are the latter but not the former. ^1-MII-72
 
-States that are both graspings and associated with grasping; are the latter but not the former. ^1-0b-73
+States that are both graspings and associated with grasping; are the latter but not the former. ^1-MII-73
 
-States that are dissociated from grasping, but may be either favourable or unfavourable to grasping. ^1-0b-74
+States that are dissociated from grasping, but may be either favourable or unfavourable to grasping. ^1-MII-74
 
-##### Kilesagocchakaṃ ^1-0b-12-0
+##### Kilesagocchakaṃ ^1-M-II-XII-0
 
-States that are vices; are not vices. ^1-0b-75
+States that are vices; are not vices. ^1-MII-75
 
-States that are vicious; are not vicious. ^1-0b-76
+States that are vicious; are not vicious. ^1-MII-76
 
-States that are vitiated; are not vitiated. ^1-0b-77
+States that are vitiated; are not vitiated. ^1-MII-77
 
-States that are associated with vice; are dissociated from vice. ^1-0b-78
+States that are associated with vice; are dissociated from vice. ^1-MII-78
 
-States that are both vices and vicious; are vicious but not vices. ^1-0b-79
+States that are both vices and vicious; are vicious but not vices. ^1-MII-79
 
-States that are both vices and vitiated; are vitiated but not vices. ^1-0b-80
+States that are both vices and vitiated; are vitiated but not vices. ^1-MII-80
 
-States that are both vices and associated with vice; are the latter but not the former. ^1-0b-81
+States that are both vices and associated with vice; are the latter but not the former. ^1-MII-81
 
-States that are dissociated from vice, but may be either vicious or not. ^1-0b-82
+States that are dissociated from vice, but may be either vicious or not. ^1-MII-82
 
-##### Piṭṭhidukaṃ ^1-0b-13-0
+##### Piṭṭhidukaṃ ^1-M-II-XIII-0
 
-States that may be put away by vision; not so put away. ^1-0b-83
+States that may be put away by vision; not so put away. ^1-MII-83
 
-States that may be put away by culture; not so put away. ^1-0b-84
+States that may be put away by culture; not so put away. ^1-MII-84
 
-States, the moral root of which may be put away by vision; may not be so put away. ^1-0b-85
+States, the moral root of which may be put away by vision; may not be so put away. ^1-MII-85
 
-States, the moral root of which may be put away by culture; may not be so put away. ^1-0b-86
+States, the moral root of which may be put away by culture; may not be so put away. ^1-MII-86
 
-States having applied thinking; not having applied thinking. ^1-0b-87
+States having applied thinking; not having applied thinking. ^1-MII-87
 
-States having sustained thinking; not having sustained thinking. ^1-0b-88
+States having sustained thinking; not having sustained thinking. ^1-MII-88
 
-States concomitant with zest; not concomitant with zest. ^1-0b-89
+States concomitant with zest; not concomitant with zest. ^1-MII-89
 
-States accompanied by zest; unaccompanied by zest. ^1-0b-90
+States accompanied by zest; unaccompanied by zest. ^1-MII-90
 
-States accompanied by ease; unaccompanied by ease. ^1-0b-91
+States accompanied by ease; unaccompanied by ease. ^1-MII-91
 
-States accompanied by indifference; unaccompanied by indifference. ^1-0b-92
+States accompanied by indifference; unaccompanied by indifference. ^1-MII-92
 
-States of the universe of sense; not of that universe. ^1-0b-93
+States of the universe of sense; not of that universe. ^1-MII-93
 
-States of the universe of form; not of that universe. ^1-0b-94
+States of the universe of form; not of that universe. ^1-MII-94
 
-States of the formless universe; not of that universe. ^1-0b-95
+States of the formless universe; not of that universe. ^1-MII-95
 
-States that are included; unincluded. ^1-0b-96
+States that are included; unincluded. ^1-MII-96
 
-States that lead onward; do not lead onward. ^1-0b-97
+States that lead onward; do not lead onward. ^1-MII-97
 
-States that are fixed; are not fixed. ^1-0b-98
+States that are fixed; are not fixed. ^1-MII-98
 
-States that have a beyond; have no beyond. ^1-0b-99
+States that have a beyond; have no beyond. ^1-MII-99
 
-States that are harmful; are harmless. ^1-0b-100
+States that are harmful; are harmless. ^1-MII-100
 
-##### Suttantikadukamātikā ^1-0b-14-0
+##### Suttantikadukamātikā ^1-M-II-XIV-0
 
-States that partake of wisdom; do not partake of wisdom. ^1-0b-101
+States that partake of wisdom; do not partake of wisdom. ^1-MII-101
 
-States that resemble lightning; are comparable to the thunderbolt. ^1-0b-102
+States that resemble lightning; are comparable to the thunderbolt. ^1-MII-102
 
-States that are foolish; discreet. ^1-0b-103
+States that are foolish; discreet. ^1-MII-103
 
-States that are dark; bright. ^1-0b-104
+States that are dark; bright. ^1-MII-104
 
-States that conduce to remorse; that do not. ^1-0b-105
+States that conduce to remorse; that do not. ^1-MII-105
 
-States that are equivalent terms; processes of such. ^1-0b-106
+States that are equivalent terms; processes of such. ^1-MII-106
 
-States that are explanations; processes of explanation. ^1-0b-107
+States that are explanations; processes of explanation. ^1-MII-107
 
-States that are expressions; processes of expression. ^1-0b-108
+States that are expressions; processes of expression. ^1-MII-108
 
-Name and shape. ^1-0b-109
+Name and shape. ^1-MII-109
 
-Ignorance and craving for rebirth. ^1-0b-110
+Ignorance and craving for rebirth. ^1-MII-110
 
-Theory of rebirth and theory of dissolution. ^1-0b-111
+Theory of rebirth and theory of dissolution. ^1-MII-111
 
-Theory of eternalism and theory of annihilation. ^1-0b-112
+Theory of eternalism and theory of annihilation. ^1-MII-112
 
-Theory of infiniteness and theory of finiteness. ^1-0b-113
+Theory of infiniteness and theory of finiteness. ^1-MII-113
 
-Theory of first and last things. ^1-0b-114
+Theory of first and last things. ^1-MII-114
 
-Unconscientiousness and indiscretion. ^1-0b-115
+Unconscientiousness and indiscretion. ^1-MII-115
 
-Conscientiousness and discretion. ^1-0b-116
+Conscientiousness and discretion. ^1-MII-116
 
-Contumacy and friendship with evil. ^1-0b-117
+Contumacy and friendship with evil. ^1-MII-117
 
-Suavity and friendship with good. ^1-0b-118
+Suavity and friendship with good. ^1-MII-118
 
-Skill in offences and in restoration from the offences. ^1-0b-119
+Skill in offences and in restoration from the offences. ^1-MII-119
 
-Skill in the attainments and in recovery from the attainments. ^1-0b-120
+Skill in the attainments and in recovery from the attainments. ^1-MII-120
 
-Skill in the elements and in attention. ^1-0b-121
+Skill in the elements and in attention. ^1-MII-121
 
-Skill in the spheres of sense and in the causal law. ^1-0b-122
+Skill in the spheres of sense and in the causal law. ^1-MII-122
 
-Skill in affirming and in negating causal relation. ^1-0b-123
+Skill in affirming and in negating causal relation. ^1-MII-123
 
-Upright and soft. ^1-0b-124
+Upright and soft. ^1-MII-124
 
-Patience and loveableness. ^1-0b-125
+Patience and loveableness. ^1-MII-125
 
-Amity and courtesy. ^1-0b-126
+Amity and courtesy. ^1-MII-126
 
-Unguardedness in the gateways of sense and immoderation in diet. ^1-0b-127
+Unguardedness in the gateways of sense and immoderation in diet. ^1-MII-127
 
-Guardedness in the gateways of sense and moderation in diet. ^1-0b-128
+Guardedness in the gateways of sense and moderation in diet. ^1-MII-128
 
-Forgetfulness and unintelligence. ^1-0b-129
+Forgetfulness and unintelligence. ^1-MII-129
 
-Mindfulness and intelligence. ^1-0b-130
+Mindfulness and intelligence. ^1-MII-130
 
-Computing power and developing power. ^1-0b-131
+Computing power and developing power. ^1-MII-131
 
-Calm and intuition. ^1-0b-132
+Calm and intuition. ^1-MII-132
 
-The sign of calm and the sign of grasp. ^1-0b-133
+The sign of calm and the sign of grasp. ^1-MII-133
 
-Grasp and balance. ^1-0b-134
+Grasp and balance. ^1-MII-134
 
-Moral failure and theoretic fallacy. ^1-0b-135
+Moral failure and theoretic fallacy. ^1-MII-135
 
-Moral achievement and theoretic achievement. ^1-0b-136
+Moral achievement and theoretic achievement. ^1-MII-136
 
-Purity of morals and of theory. ^1-0b-137
+Purity of morals and of theory. ^1-MII-137
 
-Purity in views and the struggle of him who holds the views. ^1-0b-138
+Purity in views and the struggle of him who holds the views. ^1-MII-138
 
-Agitation on occasions calling for agitation and the struggle of the agitated. ^1-0b-139
+Agitation on occasions calling for agitation and the struggle of the agitated. ^1-MII-139
 
-Discontent as to good states and unfalteringness in the struggle. ^1-0b-140
+Discontent as to good states and unfalteringness in the struggle. ^1-MII-140
 
-Wisdom and freedom. ^1-0b-141
+Wisdom and freedom. ^1-MII-141
 
-Knowledge in making an end; knowledge in not coming to pass. ^1-0b-142
+Knowledge in making an end; knowledge in not coming to pass. ^1-MII-142
 
 ### Cittuppādakaṇḍaṃ ^1-1-0
 

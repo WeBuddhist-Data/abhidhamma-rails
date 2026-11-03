@@ -62,7 +62,6 @@ Navavidhena rūpakkhandho – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, j
 Dasavidhena rūpakkhandho – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, na indriyaṃ rūpaṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. Evaṃ dasavidhena rūpakkhandho.
 Ekādasavidhena rūpakkhandho – cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, rūpāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, phoṭṭhabbāyatanaṃ, yañca rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ. Evaṃ ekādasavidhena rūpakkhandho.
 Ayaṃ vuccati rūpakkhandho. ^2-33
-
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
 #### Viññāṇakkhandho

@@ -22,6 +22,8 @@ status: assets-gathered
 
 ## Pāli source verses
 
+41. Ekavidhena vedanākkhandho – phassasampayutto.
+Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-41
 
 42. Ekavidhena vedanākkhandho – phassasampayutto.
@@ -88,7 +90,6 @@ Tividhena vedanākkhandho – atthi maggārammaṇo, atthi maggahetuko, atthi ma
 57. Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi oghaniyo, atthi anoghaniyo.
 Tividhena vedanākkhandho – atthi uppanno, atthi anuppanno, atthi uppādī…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-57
-
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
 #### Vedanākkhandho (Abhidhamma)
@@ -123,6 +124,8 @@ Abhidhammabhājanīye vedanākkhandho ekavidhena phassasampayuttato, duvidhena s
 
 ## English translation (from `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md`)
 
+41. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that has a root-cause, and feeling that is without a root-cause.
 As three categories: there is feeling that a result; feeling that productive of a result; feeling that neither a result nor productive of a result; feeling that clung to and capable of being clung to; feeling that not clung to but capable of being clung to; feeling that neither clung to nor capable of being clung to; feeling that defiled and productive of defilement; feeling that undefiled but productive of defilement; feeling that neither defiled nor productive of defilement; feeling that with applied and sustained thought; feeling that without applied thought but with sustained thought only; feeling that without either applied or sustained thought; feeling that to be abandoned by seeing; feeling that to be abandoned by development; feeling that to be abandoned neither by seeing nor by development; feeling that having as root-cause what is abandoned by seeing; feeling that having as root-cause what is abandoned by development; feeling that having as root-cause what is abandoned neither by seeing nor by development; feeling that leading to accumulation; feeling that leading to dispersal; feeling that leading neither to accumulation nor to dispersal; feeling that belonging to one still in training; feeling that belonging to one beyond training; feeling that belonging to neither; feeling that limited; feeling that exalted; feeling that measureless; feeling that having a limited object; feeling that having an exalted object; feeling that having a measureless object; feeling that inferior; feeling that middling; feeling that superior; feeling that fixed in wrongness; feeling that fixed in rightness; feeling that undetermined; feeling that having the path as object; feeling that having the path as root-cause; feeling that having the path as ruling condition; feeling that arisen; feeling that not yet arisen; feeling that bound to arise; feeling that past; feeling that future; feeling that present; feeling that having a past object; feeling that having a future object; feeling that having a present object; feeling that internal; feeling that external; feeling that both internal and external; feeling that having an internal object; feeling that having an external object; and feeling that having both an internal and an external object. Thus, as ten categories, this is the aggregate of feeling. ^2-41
 
 42. As a single category: Feeling is associated with contact.

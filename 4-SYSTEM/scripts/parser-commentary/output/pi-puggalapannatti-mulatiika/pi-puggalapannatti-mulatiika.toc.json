@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Abhidhammapiṭake (ṭīkā)"
+      },
+      "span": {
+        "start": 46,
+        "end": 30006
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Puggalapaññattipakaraṇa-mūlaṭīkā"
+          },
+          "span": {
+            "start": 46,
+            "end": 30006
+          },
+          "subsections": [
+            {
+              "title": {
+                "pi": "Mātikāvaṇṇanā"
+              },
+              "span": {
+                "start": 46,
+                "end": 6522
+              }
+            },
+            {
+              "title": {
+                "pi": "Niddesavaṇṇanā"
+              },
+              "span": {
+                "start": 6522,
+                "end": 30006
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Ekakaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 6522,
+                    "end": 21365
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dukaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 21365,
+                    "end": 22123
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Tikaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 22123,
+                    "end": 23845
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Catukkaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 23845,
+                    "end": 27058
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pañcakaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 27058,
+                    "end": 27902
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Chakkaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 27902,
+                    "end": 28586
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sattakaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 28586,
+                    "end": 29575
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dasakaniddesavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 29575,
+                    "end": 30006
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,6 +26,11 @@ Only books that have been ingested are present in the folder. The Dhammasaṅga�
 
 ## 2. Bible-style addressing for Pāli canonical texts
 
+> [!warning] Superseded in part
+> The **block-ID construction rules** in this section (piṭaka anchor `^abhidhamma-0`, the `^1-0a-…` / `^1-0b-…` Mātikā sub-namespaces, and the "unlabelled sections get no verse ID" rule) are **superseded by [`block-id-spec.md`](block-id-spec.md)**, which is authoritative for all `^id` construction. See its §9 for a difference table.
+>
+> The conceptual material below — the Bible analogy, the single continuous verse counter, verse grouping, and verses spanning headings — remains accurate.
+
 Pāli canonical texts in this vault use a Bible-inspired addressing scheme. This convention **overrides** the generic `^chapter-verse` rule in `../../1-SOURCES/About Sources.md` §4 for these texts.
 
 ### The analogy

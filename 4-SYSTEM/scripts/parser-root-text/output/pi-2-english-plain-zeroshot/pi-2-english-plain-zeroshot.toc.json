@@ -1,0 +1,4002 @@
+{
+  "sections": [
+    {
+      "title": {
+        "en": "In the Abhidhamma Piṭaka"
+      },
+      "span": {
+        "start": 92,
+        "end": 1093707
+      },
+      "subsections": [
+        {
+          "title": {
+            "en": "The Book of Analysis"
+          },
+          "span": {
+            "start": 112,
+            "end": 1093707
+          },
+          "subsections": [
+            {
+              "title": {
+                "en": "Analysis of the Aggregates"
+              },
+              "span": {
+                "start": 138,
+                "end": 171454
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 180,
+                    "end": 31227
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Aggregate of Material Form"
+                      },
+                      "span": {
+                        "start": 392,
+                        "end": 4024
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Feeling"
+                      },
+                      "span": {
+                        "start": 4048,
+                        "end": 9676
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Perception"
+                      },
+                      "span": {
+                        "start": 9703,
+                        "end": 16835
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Mental Formations"
+                      },
+                      "span": {
+                        "start": 16869,
+                        "end": 24158
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Consciousness"
+                      },
+                      "span": {
+                        "start": 24188,
+                        "end": 31227
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 31269,
+                    "end": 149452
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Aggregate of Material Form"
+                      },
+                      "span": {
+                        "start": 31481,
+                        "end": 38494
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Feeling"
+                      },
+                      "span": {
+                        "start": 38518,
+                        "end": 65348
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Perception"
+                      },
+                      "span": {
+                        "start": 65375,
+                        "end": 92092
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Mental Formations"
+                      },
+                      "span": {
+                        "start": 92126,
+                        "end": 122060
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Aggregate of Consciousness"
+                      },
+                      "span": {
+                        "start": 122090,
+                        "end": 149452
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 149488,
+                    "end": 171454
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 149827,
+                        "end": 154038
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 154047,
+                        "end": 171454
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Sense-Fields"
+              },
+              "span": {
+                "start": 171482,
+                "end": 206694
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 171524,
+                    "end": 172849
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 172891,
+                    "end": 185104
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 185140,
+                    "end": 206694
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 185646,
+                        "end": 189988
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 189997,
+                        "end": 206694
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Elements"
+              },
+              "span": {
+                "start": 206718,
+                "end": 248892
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 206760,
+                    "end": 218154
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 218196,
+                    "end": 226490
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 226526,
+                    "end": 248892
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 227172,
+                        "end": 232245
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 232254,
+                        "end": 248892
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Truths"
+              },
+              "span": {
+                "start": 248914,
+                "end": 304873
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 248956,
+                    "end": 267427
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Truth of Suffering"
+                      },
+                      "span": {
+                        "start": 249192,
+                        "end": 254075
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Truth of the Origin"
+                      },
+                      "span": {
+                        "start": 254098,
+                        "end": 259449
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Truth of the Ending"
+                      },
+                      "span": {
+                        "start": 259472,
+                        "end": 263900
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Truth of the Path"
+                      },
+                      "span": {
+                        "start": 263921,
+                        "end": 267427
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 267469,
+                    "end": 283102
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 283138,
+                    "end": 304873
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 283511,
+                        "end": 288918
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 288927,
+                        "end": 304873
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Faculties"
+              },
+              "span": {
+                "start": 304898,
+                "end": 338955
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 304940,
+                    "end": 312661
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 312697,
+                    "end": 338955
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 313454,
+                        "end": 320004
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 320013,
+                        "end": 338955
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of Dependent Origination"
+              },
+              "span": {
+                "start": 338988,
+                "end": 491619
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 339030,
+                    "end": 346783
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 346825,
+                    "end": 491619
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Tetrad of Conditions"
+                      },
+                      "span": {
+                        "start": 346849,
+                        "end": 348961
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Causes"
+                      },
+                      "span": {
+                        "start": 348981,
+                        "end": 352043
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Association"
+                      },
+                      "span": {
+                        "start": 352068,
+                        "end": 355121
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Mutuality"
+                      },
+                      "span": {
+                        "start": 355144,
+                        "end": 358899
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix"
+                      },
+                      "span": {
+                        "start": 358909,
+                        "end": 359773
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Conditions"
+                      },
+                      "span": {
+                        "start": 359797,
+                        "end": 371983
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Causes"
+                      },
+                      "span": {
+                        "start": 372003,
+                        "end": 385559
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Association"
+                      },
+                      "span": {
+                        "start": 385584,
+                        "end": 398294
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Tetrad of Mutuality"
+                      },
+                      "span": {
+                        "start": 398317,
+                        "end": 418679
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Unwholesome"
+                      },
+                      "span": {
+                        "start": 418712,
+                        "end": 429720
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Wholesome"
+                      },
+                      "span": {
+                        "start": 429751,
+                        "end": 443488
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Neutral"
+                      },
+                      "span": {
+                        "start": 443517,
+                        "end": 470870
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Wholesome Rooted in Ignorance"
+                      },
+                      "span": {
+                        "start": 470921,
+                        "end": 478329
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of Results Rooted in the Wholesome"
+                      },
+                      "span": {
+                        "start": 478378,
+                        "end": 485707
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of Results Rooted in the Unwholesome"
+                      },
+                      "span": {
+                        "start": 485758,
+                        "end": 491619
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Foundations of Mindfulness"
+              },
+              "span": {
+                "start": 491661,
+                "end": 529483
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 491703,
+                    "end": 514902
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Exposition of Contemplating the Body"
+                      },
+                      "span": {
+                        "start": 492990,
+                        "end": 497529
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of Contemplating Feelings"
+                      },
+                      "span": {
+                        "start": 497569,
+                        "end": 501827
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of Contemplating the Mind"
+                      },
+                      "span": {
+                        "start": 501867,
+                        "end": 506350
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of Contemplating Mental Objects"
+                      },
+                      "span": {
+                        "start": 506396,
+                        "end": 514902
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 514944,
+                    "end": 524268
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 524304,
+                    "end": 529483
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 525144,
+                        "end": 526813
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 526822,
+                        "end": 529483
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Right Efforts"
+              },
+              "span": {
+                "start": 529512,
+                "end": 549400
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 529554,
+                    "end": 536728
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 536770,
+                    "end": 544581
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 544617,
+                    "end": 549400
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 545329,
+                        "end": 546788
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 546797,
+                        "end": 549400
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Bases of Success"
+              },
+              "span": {
+                "start": 549432,
+                "end": 576075
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 549474,
+                    "end": 559396
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Desire"
+                      },
+                      "span": {
+                        "start": 549987,
+                        "end": 552750
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Energy"
+                      },
+                      "span": {
+                        "start": 552785,
+                        "end": 554984
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Mind"
+                      },
+                      "span": {
+                        "start": 555017,
+                        "end": 557090
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Investigation"
+                      },
+                      "span": {
+                        "start": 557132,
+                        "end": 559396
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 559438,
+                    "end": 570071
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Desire"
+                      },
+                      "span": {
+                        "start": 559951,
+                        "end": 561658
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Energy"
+                      },
+                      "span": {
+                        "start": 561693,
+                        "end": 563449
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Mind"
+                      },
+                      "span": {
+                        "start": 563482,
+                        "end": 565202
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Basis of Success Through Investigation"
+                      },
+                      "span": {
+                        "start": 565244,
+                        "end": 570071
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 570107,
+                    "end": 576075
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 570592,
+                        "end": 571981
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 571990,
+                        "end": 576075
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Awakening Factors"
+              },
+              "span": {
+                "start": 576108,
+                "end": 596287
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 576150,
+                    "end": 581855
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 581897,
+                    "end": 590596
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 590632,
+                    "end": 596287
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 591091,
+                        "end": 592971
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 592980,
+                        "end": 596287
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Path Factors"
+              },
+              "span": {
+                "start": 596315,
+                "end": 616415
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 596357,
+                    "end": 600589
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 600631,
+                    "end": 610902
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 610938,
+                    "end": 616415
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 611260,
+                        "end": 613168
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 613177,
+                        "end": 616415
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of Meditative Absorption"
+              },
+              "span": {
+                "start": 616448,
+                "end": 687716
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 616490,
+                    "end": 660774
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Matrix"
+                      },
+                      "span": {
+                        "start": 620467,
+                        "end": 660774
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 660816,
+                    "end": 679129
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Fine-Material-Sphere Wholesome"
+                      },
+                      "span": {
+                        "start": 660850,
+                        "end": 665341
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Immaterial-Sphere Wholesome"
+                      },
+                      "span": {
+                        "start": 665372,
+                        "end": 665917
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Wholesome Beyond the World"
+                      },
+                      "span": {
+                        "start": 665947,
+                        "end": 671580
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Fine-Material-Sphere Results"
+                      },
+                      "span": {
+                        "start": 671608,
+                        "end": 673540
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Immaterial-Sphere Results"
+                      },
+                      "span": {
+                        "start": 673565,
+                        "end": 674535
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Results Beyond the World"
+                      },
+                      "span": {
+                        "start": 674559,
+                        "end": 676848
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Fine-Material and Immaterial Functional"
+                      },
+                      "span": {
+                        "start": 676887,
+                        "end": 679129
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 679165,
+                    "end": 687716
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 680366,
+                        "end": 684002
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 684011,
+                        "end": 687716
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Measureless States"
+              },
+              "span": {
+                "start": 687750,
+                "end": 724032
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 687792,
+                    "end": 698401
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Loving-Kindness"
+                      },
+                      "span": {
+                        "start": 689250,
+                        "end": 691686
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Compassion"
+                      },
+                      "span": {
+                        "start": 691696,
+                        "end": 693953
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Sympathetic Joy"
+                      },
+                      "span": {
+                        "start": 693968,
+                        "end": 696162
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Equanimity"
+                      },
+                      "span": {
+                        "start": 696172,
+                        "end": 698401
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 698443,
+                    "end": 717326
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 717362,
+                    "end": 724032
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 718970,
+                        "end": 720842
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 720851,
+                        "end": 724032
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Training Rules"
+              },
+              "span": {
+                "start": 724062,
+                "end": 745545
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 724104,
+                    "end": 741230
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 741266,
+                    "end": 745545
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 741780,
+                        "end": 743013
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 743022,
+                        "end": 745545
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Analytical Knowledges"
+              },
+              "span": {
+                "start": 745582,
+                "end": 788121
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Classification According to the Discourses"
+                  },
+                  "span": {
+                    "start": 745624,
+                    "end": 751282
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Summary Section"
+                      },
+                      "span": {
+                        "start": 745643,
+                        "end": 746230
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Truths Section"
+                      },
+                      "span": {
+                        "start": 746248,
+                        "end": 747007
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Cause Section"
+                      },
+                      "span": {
+                        "start": 747024,
+                        "end": 747599
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Things Section"
+                      },
+                      "span": {
+                        "start": 747617,
+                        "end": 748427
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Dependent Origination Section"
+                      },
+                      "span": {
+                        "start": 748460,
+                        "end": 750231
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Scripture Section"
+                      },
+                      "span": {
+                        "start": 750252,
+                        "end": 751282
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Classification According to the Abhidhamma"
+                  },
+                  "span": {
+                    "start": 751324,
+                    "end": 779724
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Wholesome Section"
+                      },
+                      "span": {
+                        "start": 751345,
+                        "end": 757067
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Unwholesome Section"
+                      },
+                      "span": {
+                        "start": 757090,
+                        "end": 759697
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Results Section"
+                      },
+                      "span": {
+                        "start": 759716,
+                        "end": 774508
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Functional Section"
+                      },
+                      "span": {
+                        "start": 774530,
+                        "end": 779724
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section of Questions and Answers"
+                  },
+                  "span": {
+                    "start": 779760,
+                    "end": 788121
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Triads"
+                      },
+                      "span": {
+                        "start": 780129,
+                        "end": 784182
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Pairs"
+                      },
+                      "span": {
+                        "start": 784191,
+                        "end": 788121
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of Knowledge"
+              },
+              "span": {
+                "start": 788142,
+                "end": 878522
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "The Matrix of Ones"
+                  },
+                  "span": {
+                    "start": 788160,
+                    "end": 791437
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Twos"
+                  },
+                  "span": {
+                    "start": 791455,
+                    "end": 794438
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Threes"
+                  },
+                  "span": {
+                    "start": 794458,
+                    "end": 802261
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Fours"
+                  },
+                  "span": {
+                    "start": 802280,
+                    "end": 804265
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Fives"
+                  },
+                  "span": {
+                    "start": 804284,
+                    "end": 804447
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Sixes"
+                  },
+                  "span": {
+                    "start": 804466,
+                    "end": 804589
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Sevens"
+                  },
+                  "span": {
+                    "start": 804609,
+                    "end": 804739
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Eights"
+                  },
+                  "span": {
+                    "start": 804759,
+                    "end": 804898
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Nines"
+                  },
+                  "span": {
+                    "start": 804917,
+                    "end": 805057
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix of Tens"
+                  },
+                  "span": {
+                    "start": 805075,
+                    "end": 809597
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Matrix"
+                  },
+                  "span": {
+                    "start": 809607,
+                    "end": 878522
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Exposition of the Ones"
+                      },
+                      "span": {
+                        "start": 809633,
+                        "end": 818545
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Twos"
+                      },
+                      "span": {
+                        "start": 818571,
+                        "end": 825595
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Threes"
+                      },
+                      "span": {
+                        "start": 825623,
+                        "end": 834182
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Fours"
+                      },
+                      "span": {
+                        "start": 834209,
+                        "end": 849544
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Fives"
+                      },
+                      "span": {
+                        "start": 849571,
+                        "end": 850885
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Sixes"
+                      },
+                      "span": {
+                        "start": 850912,
+                        "end": 851340
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Sevens"
+                      },
+                      "span": {
+                        "start": 851368,
+                        "end": 853372
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Eights"
+                      },
+                      "span": {
+                        "start": 853400,
+                        "end": 853873
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Nines"
+                      },
+                      "span": {
+                        "start": 853900,
+                        "end": 854704
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Exposition of the Tens"
+                      },
+                      "span": {
+                        "start": 854730,
+                        "end": 878522
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Minor Topics"
+              },
+              "span": {
+                "start": 878550,
+                "end": 1005578
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "The Matrix of Ones"
+                  },
+                  "span": {
+                    "start": 878568,
+                    "end": 886213
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Matrix of Twos"
+                      },
+                      "span": {
+                        "start": 880839,
+                        "end": 881656
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Threes"
+                      },
+                      "span": {
+                        "start": 881676,
+                        "end": 883068
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Fours"
+                      },
+                      "span": {
+                        "start": 883087,
+                        "end": 883516
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Fives"
+                      },
+                      "span": {
+                        "start": 883535,
+                        "end": 883983
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Sixes"
+                      },
+                      "span": {
+                        "start": 884002,
+                        "end": 884499
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Sevens"
+                      },
+                      "span": {
+                        "start": 884519,
+                        "end": 884717
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Eights"
+                      },
+                      "span": {
+                        "start": 884737,
+                        "end": 885086
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Nines"
+                      },
+                      "span": {
+                        "start": 885105,
+                        "end": 885375
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Matrix of Tens"
+                      },
+                      "span": {
+                        "start": 885393,
+                        "end": 886213
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Ones"
+                  },
+                  "span": {
+                    "start": 886239,
+                    "end": 906222
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) Intoxication with birth"
+                      },
+                      "span": {
+                        "start": 886266,
+                        "end": 886558
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2-27) Intoxication with clan and the rest"
+                      },
+                      "span": {
+                        "start": 886600,
+                        "end": 887525
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(28) Intoxication"
+                      },
+                      "span": {
+                        "start": 887542,
+                        "end": 887791
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(29) Heedlessness"
+                      },
+                      "span": {
+                        "start": 887808,
+                        "end": 888396
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(30) Obstinacy"
+                      },
+                      "span": {
+                        "start": 888410,
+                        "end": 888571
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(31) Contentiousness"
+                      },
+                      "span": {
+                        "start": 888591,
+                        "end": 888789
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(32) Excessive desire"
+                      },
+                      "span": {
+                        "start": 888810,
+                        "end": 889165
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(33) Great desire"
+                      },
+                      "span": {
+                        "start": 889182,
+                        "end": 889525
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(34) Evil desire"
+                      },
+                      "span": {
+                        "start": 889541,
+                        "end": 890388
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(35) Affectation"
+                      },
+                      "span": {
+                        "start": 890404,
+                        "end": 890570
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(36) Greediness"
+                      },
+                      "span": {
+                        "start": 890585,
+                        "end": 890798
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(37) Frivolity"
+                      },
+                      "span": {
+                        "start": 890812,
+                        "end": 891091
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(38) Discordant behaviour"
+                      },
+                      "span": {
+                        "start": 891116,
+                        "end": 891467
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(39) Discontent"
+                      },
+                      "span": {
+                        "start": 891482,
+                        "end": 891699
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(40) Sloth"
+                      },
+                      "span": {
+                        "start": 891709,
+                        "end": 891850
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(41) Stretching oneself"
+                      },
+                      "span": {
+                        "start": 891873,
+                        "end": 892080
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(42) Drowsiness after meals"
+                      },
+                      "span": {
+                        "start": 892107,
+                        "end": 892313
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(43) Sluggishness of mind"
+                      },
+                      "span": {
+                        "start": 892338,
+                        "end": 892593
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(44) Trickery"
+                      },
+                      "span": {
+                        "start": 892606,
+                        "end": 892950
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(45) Wheedling talk"
+                      },
+                      "span": {
+                        "start": 892969,
+                        "end": 893377
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(46) Hinting"
+                      },
+                      "span": {
+                        "start": 893389,
+                        "end": 893650
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(47) Belittling"
+                      },
+                      "span": {
+                        "start": 893665,
+                        "end": 893994
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(48) Chasing gain with gain"
+                      },
+                      "span": {
+                        "start": 894021,
+                        "end": 894388
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(49) The conceit \"I am better\""
+                      },
+                      "span": {
+                        "start": 894418,
+                        "end": 894901
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(50) The conceit \"I am equal\""
+                      },
+                      "span": {
+                        "start": 894930,
+                        "end": 895411
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(51) The conceit \"I am worse\""
+                      },
+                      "span": {
+                        "start": 895440,
+                        "end": 895998
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(52) The conceit of one who is better, \"I am better\""
+                      },
+                      "span": {
+                        "start": 896050,
+                        "end": 896654
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(53) The conceit of one who is better, \"I am equal\""
+                      },
+                      "span": {
+                        "start": 896705,
+                        "end": 897304
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(54) The conceit of one who is better, \"I am worse\""
+                      },
+                      "span": {
+                        "start": 897355,
+                        "end": 898033
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(55) The conceit of one who is equal, \"I am better\""
+                      },
+                      "span": {
+                        "start": 898084,
+                        "end": 898496
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(56) The conceit of one who is equal, \"I am equal\""
+                      },
+                      "span": {
+                        "start": 898546,
+                        "end": 899000
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(57) The conceit of one who is equal, \"I am worse\""
+                      },
+                      "span": {
+                        "start": 899050,
+                        "end": 899583
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(58) The conceit of one who is worse, \"I am better\""
+                      },
+                      "span": {
+                        "start": 899634,
+                        "end": 900093
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(59) The conceit of one who is worse, \"I am equal\""
+                      },
+                      "span": {
+                        "start": 900143,
+                        "end": 900597
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(60) The conceit of one who is worse, \"I am worse\""
+                      },
+                      "span": {
+                        "start": 900647,
+                        "end": 901178
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(61) Conceit"
+                      },
+                      "span": {
+                        "start": 901190,
+                        "end": 901365
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(62) Exaggerated conceit"
+                      },
+                      "span": {
+                        "start": 901389,
+                        "end": 901719
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(63) Conceit beyond conceit"
+                      },
+                      "span": {
+                        "start": 901746,
+                        "end": 902169
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(64) Self-belittling conceit"
+                      },
+                      "span": {
+                        "start": 902197,
+                        "end": 902753
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(65) Over-estimating conceit"
+                      },
+                      "span": {
+                        "start": 902781,
+                        "end": 903209
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(66) The conceit \"I am\""
+                      },
+                      "span": {
+                        "start": 903232,
+                        "end": 903704
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(67) Wrong conceit"
+                      },
+                      "span": {
+                        "start": 903722,
+                        "end": 904221
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(68) Thoughts about relatives"
+                      },
+                      "span": {
+                        "start": 904250,
+                        "end": 904433
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(69) Thoughts about one's home country"
+                      },
+                      "span": {
+                        "start": 904471,
+                        "end": 904681
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(70) Thoughts about not dying"
+                      },
+                      "span": {
+                        "start": 904710,
+                        "end": 904946
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(71) Thought connected with sympathy for others"
+                      },
+                      "span": {
+                        "start": 904993,
+                        "end": 905410
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(72) Thought connected with gain and the rest"
+                      },
+                      "span": {
+                        "start": 905455,
+                        "end": 905698
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(73) Thought connected with not being despised"
+                      },
+                      "span": {
+                        "start": 905744,
+                        "end": 906222
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Twos"
+                  },
+                  "span": {
+                    "start": 906248,
+                    "end": 916409
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) Anger and resentment"
+                      },
+                      "span": {
+                        "start": 906272,
+                        "end": 906833
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) Contempt and domineering"
+                      },
+                      "span": {
+                        "start": 906861,
+                        "end": 907190
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) Envy and stinginess"
+                      },
+                      "span": {
+                        "start": 907213,
+                        "end": 907821
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) Deceit and treachery"
+                      },
+                      "span": {
+                        "start": 907845,
+                        "end": 908770
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) Ignorance and craving for existence"
+                      },
+                      "span": {
+                        "start": 908809,
+                        "end": 909307
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The view of existence and the view of non-existence"
+                      },
+                      "span": {
+                        "start": 909362,
+                        "end": 909764
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The eternalist view and the annihilationist view"
+                      },
+                      "span": {
+                        "start": 909816,
+                        "end": 910216
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The finite view and the infinite view"
+                      },
+                      "span": {
+                        "start": 910257,
+                        "end": 910695
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(9) Speculation about the past and about the future"
+                      },
+                      "span": {
+                        "start": 910746,
+                        "end": 911098
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(10) Shamelessness and lack of moral dread"
+                      },
+                      "span": {
+                        "start": 911140,
+                        "end": 911482
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(11) Being hard to correct and evil friendship"
+                      },
+                      "span": {
+                        "start": 911528,
+                        "end": 912230
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(12) Crookedness and harshness"
+                      },
+                      "span": {
+                        "start": 912260,
+                        "end": 912576
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(13) Impatience and immoderation"
+                      },
+                      "span": {
+                        "start": 912608,
+                        "end": 912960
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(14) Rough speech and lack of hospitality"
+                      },
+                      "span": {
+                        "start": 913001,
+                        "end": 913583
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(15) Not guarding the doors of the faculties and not knowing moderation in food"
+                      },
+                      "span": {
+                        "start": 913662,
+                        "end": 915077
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(16) Forgetfulness and lack of clear comprehension"
+                      },
+                      "span": {
+                        "start": 915127,
+                        "end": 915553
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(17) Failure in virtue and failure in view"
+                      },
+                      "span": {
+                        "start": 915595,
+                        "end": 916210
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(18) The internal fetter and the external fetter"
+                      },
+                      "span": {
+                        "start": 916258,
+                        "end": 916409
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Threes"
+                  },
+                  "span": {
+                    "start": 916437,
+                    "end": 945904
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The three unwholesome roots"
+                      },
+                      "span": {
+                        "start": 916468,
+                        "end": 919637
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The three unwholesome thoughts"
+                      },
+                      "span": {
+                        "start": 919671,
+                        "end": 920313
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The three unwholesome perceptions"
+                      },
+                      "span": {
+                        "start": 920350,
+                        "end": 921070
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The three unwholesome elements"
+                      },
+                      "span": {
+                        "start": 921104,
+                        "end": 921959
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The three kinds of misconduct"
+                      },
+                      "span": {
+                        "start": 921992,
+                        "end": 922934
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The three mental taints"
+                      },
+                      "span": {
+                        "start": 922961,
+                        "end": 923857
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The three fetters"
+                      },
+                      "span": {
+                        "start": 923878,
+                        "end": 925730
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The three cravings"
+                      },
+                      "span": {
+                        "start": 925752,
+                        "end": 926736
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(9) Another three cravings"
+                      },
+                      "span": {
+                        "start": 926762,
+                        "end": 927453
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(10) Yet another three cravings"
+                      },
+                      "span": {
+                        "start": 927484,
+                        "end": 928156
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(11) The three quests"
+                      },
+                      "span": {
+                        "start": 928177,
+                        "end": 929623
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(12) The three modes of self-ranking"
+                      },
+                      "span": {
+                        "start": 929659,
+                        "end": 929823
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(13) The three fears"
+                      },
+                      "span": {
+                        "start": 929843,
+                        "end": 930435
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(14) The three darknesses"
+                      },
+                      "span": {
+                        "start": 930460,
+                        "end": 930822
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(15) The three sectarian grounds"
+                      },
+                      "span": {
+                        "start": 930854,
+                        "end": 931564
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(16) The three impediments"
+                      },
+                      "span": {
+                        "start": 931590,
+                        "end": 931737
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(17) The three blemishes"
+                      },
+                      "span": {
+                        "start": 931761,
+                        "end": 931892
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(18) The three stains"
+                      },
+                      "span": {
+                        "start": 931913,
+                        "end": 932032
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(19) The three unevennesses"
+                      },
+                      "span": {
+                        "start": 932059,
+                        "end": 932199
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(20) Another three unevennesses"
+                      },
+                      "span": {
+                        "start": 932230,
+                        "end": 932367
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(21) The three fires"
+                      },
+                      "span": {
+                        "start": 932387,
+                        "end": 932507
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(22) The three corruptions"
+                      },
+                      "span": {
+                        "start": 932533,
+                        "end": 932683
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(23) Another three corruptions"
+                      },
+                      "span": {
+                        "start": 932713,
+                        "end": 932848
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(24a) The view of enjoyment"
+                      },
+                      "span": {
+                        "start": 932875,
+                        "end": 933089
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) The view of self"
+                      },
+                      "span": {
+                        "start": 933109,
+                        "end": 933831
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Wrong view"
+                      },
+                      "span": {
+                        "start": 933845,
+                        "end": 934269
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(25a) Discontent"
+                      },
+                      "span": {
+                        "start": 934285,
+                        "end": 934502
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Cruelty"
+                      },
+                      "span": {
+                        "start": 934513,
+                        "end": 934799
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Unrighteous conduct"
+                      },
+                      "span": {
+                        "start": 934822,
+                        "end": 935058
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(26a) Being hard to correct"
+                      },
+                      "span": {
+                        "start": 935085,
+                        "end": 935425
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Evil friendship"
+                      },
+                      "span": {
+                        "start": 935444,
+                        "end": 935798
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Perception of diversity"
+                      },
+                      "span": {
+                        "start": 935825,
+                        "end": 936053
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(27a) Restlessness"
+                      },
+                      "span": {
+                        "start": 936071,
+                        "end": 936220
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Laziness"
+                      },
+                      "span": {
+                        "start": 936232,
+                        "end": 936724
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Heedlessness"
+                      },
+                      "span": {
+                        "start": 936740,
+                        "end": 937328
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(28a) Discontentment"
+                      },
+                      "span": {
+                        "start": 937348,
+                        "end": 937697
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Lack of clear comprehension"
+                      },
+                      "span": {
+                        "start": 937728,
+                        "end": 937917
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Great desire"
+                      },
+                      "span": {
+                        "start": 937933,
+                        "end": 938276
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(29a) Shamelessness"
+                      },
+                      "span": {
+                        "start": 938295,
+                        "end": 938468
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Lack of moral dread"
+                      },
+                      "span": {
+                        "start": 938491,
+                        "end": 938652
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Heedlessness"
+                      },
+                      "span": {
+                        "start": 938668,
+                        "end": 939256
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(30a) Disrespect"
+                      },
+                      "span": {
+                        "start": 939272,
+                        "end": 939508
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Being hard to correct"
+                      },
+                      "span": {
+                        "start": 939533,
+                        "end": 939873
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Evil friendship"
+                      },
+                      "span": {
+                        "start": 939892,
+                        "end": 940271
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(31a) Lack of confidence"
+                      },
+                      "span": {
+                        "start": 940295,
+                        "end": 940600
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Uncharitableness"
+                      },
+                      "span": {
+                        "start": 940620,
+                        "end": 941011
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Laziness"
+                      },
+                      "span": {
+                        "start": 941023,
+                        "end": 941515
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(32a) Restlessness"
+                      },
+                      "span": {
+                        "start": 941533,
+                        "end": 941682
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Non-restraint"
+                      },
+                      "span": {
+                        "start": 941699,
+                        "end": 942624
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Bad conduct"
+                      },
+                      "span": {
+                        "start": 942639,
+                        "end": 942781
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(33a) Not wishing to see the noble ones"
+                      },
+                      "span": {
+                        "start": 942820,
+                        "end": 943170
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Not wishing to hear the good teaching"
+                      },
+                      "span": {
+                        "start": 943211,
+                        "end": 943712
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) A fault-finding mind"
+                      },
+                      "span": {
+                        "start": 943736,
+                        "end": 944046
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(34a) Forgetfulness"
+                      },
+                      "span": {
+                        "start": 944065,
+                        "end": 944294
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Lack of clear comprehension"
+                      },
+                      "span": {
+                        "start": 944325,
+                        "end": 944514
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Distraction of mind"
+                      },
+                      "span": {
+                        "start": 944537,
+                        "end": 944700
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(35a) Unwise attention"
+                      },
+                      "span": {
+                        "start": 944722,
+                        "end": 945118
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Following the wrong path"
+                      },
+                      "span": {
+                        "start": 945146,
+                        "end": 945614
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Sluggishness of mind"
+                      },
+                      "span": {
+                        "start": 945638,
+                        "end": 945904
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Fours"
+                  },
+                  "span": {
+                    "start": 945931,
+                    "end": 953495
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The four mental taints"
+                      },
+                      "span": {
+                        "start": 945957,
+                        "end": 946095
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(a) The taint of sense pleasure"
+                      },
+                      "span": {
+                        "start": 946126,
+                        "end": 946519
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) The taint of existence"
+                      },
+                      "span": {
+                        "start": 946545,
+                        "end": 946719
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) The taint of views"
+                      },
+                      "span": {
+                        "start": 946741,
+                        "end": 947333
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(d) The taint of ignorance"
+                      },
+                      "span": {
+                        "start": 947359,
+                        "end": 947921
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2-5) The four ties and the rest"
+                      },
+                      "span": {
+                        "start": 947953,
+                        "end": 948161
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(a) Clinging to sense pleasures"
+                      },
+                      "span": {
+                        "start": 948192,
+                        "end": 948384
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(b) Clinging to views"
+                      },
+                      "span": {
+                        "start": 948405,
+                        "end": 948825
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(c) Clinging to rules and observances"
+                      },
+                      "span": {
+                        "start": 948862,
+                        "end": 949197
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(d) Clinging to a doctrine of self"
+                      },
+                      "span": {
+                        "start": 949231,
+                        "end": 950019
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The four arisings of craving"
+                      },
+                      "span": {
+                        "start": 950051,
+                        "end": 950416
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The four ways of going astray"
+                      },
+                      "span": {
+                        "start": 950449,
+                        "end": 950781
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The four distortions"
+                      },
+                      "span": {
+                        "start": 950805,
+                        "end": 951322
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(9) The four ignoble ways of speech"
+                      },
+                      "span": {
+                        "start": 951357,
+                        "end": 951631
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(10) Another four ignoble ways of speech"
+                      },
+                      "span": {
+                        "start": 951671,
+                        "end": 951949
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(11) The four kinds of misconduct"
+                      },
+                      "span": {
+                        "start": 951982,
+                        "end": 952152
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(12) Another four kinds of misconduct"
+                      },
+                      "span": {
+                        "start": 952189,
+                        "end": 952340
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(13) The four fears"
+                      },
+                      "span": {
+                        "start": 952359,
+                        "end": 952498
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(14) Another four fears"
+                      },
+                      "span": {
+                        "start": 952521,
+                        "end": 952989
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(15) The four views"
+                      },
+                      "span": {
+                        "start": 953008,
+                        "end": 953495
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Fives"
+                  },
+                  "span": {
+                    "start": 953522,
+                    "end": 960740
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The five lower fetters"
+                      },
+                      "span": {
+                        "start": 953548,
+                        "end": 953729
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The five higher fetters"
+                      },
+                      "span": {
+                        "start": 953756,
+                        "end": 953917
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The five kinds of stinginess"
+                      },
+                      "span": {
+                        "start": 953949,
+                        "end": 954172
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The five attachments"
+                      },
+                      "span": {
+                        "start": 954196,
+                        "end": 954396
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The five darts"
+                      },
+                      "span": {
+                        "start": 954414,
+                        "end": 954572
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The five barrennesses of mind"
+                      },
+                      "span": {
+                        "start": 954605,
+                        "end": 955184
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The five bondages of mind"
+                      },
+                      "span": {
+                        "start": 955213,
+                        "end": 955833
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The five hindrances"
+                      },
+                      "span": {
+                        "start": 955856,
+                        "end": 956093
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(9) The five actions with immediate result"
+                      },
+                      "span": {
+                        "start": 956135,
+                        "end": 956449
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(10) The five views"
+                      },
+                      "span": {
+                        "start": 956468,
+                        "end": 956890
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(11) The five hostilities"
+                      },
+                      "span": {
+                        "start": 956915,
+                        "end": 957125
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(12) The five losses"
+                      },
+                      "span": {
+                        "start": 957145,
+                        "end": 957294
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(13) The five dangers of impatience"
+                      },
+                      "span": {
+                        "start": 957329,
+                        "end": 957650
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(14) The five fears"
+                      },
+                      "span": {
+                        "start": 957669,
+                        "end": 957865
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(15) The five doctrines of Nibbāna in this very life"
+                      },
+                      "span": {
+                        "start": 957917,
+                        "end": 960740
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Sixes"
+                  },
+                  "span": {
+                    "start": 960767,
+                    "end": 967726
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The six roots of dispute"
+                      },
+                      "span": {
+                        "start": 960795,
+                        "end": 960949
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The six desires-and-lusts"
+                      },
+                      "span": {
+                        "start": 960978,
+                        "end": 961357
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The six grounds of opposition"
+                      },
+                      "span": {
+                        "start": 961390,
+                        "end": 961863
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The six classes of craving"
+                      },
+                      "span": {
+                        "start": 961893,
+                        "end": 962114
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The six kinds of disrespect"
+                      },
+                      "span": {
+                        "start": 962145,
+                        "end": 962627
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The six things that lead to decline"
+                      },
+                      "span": {
+                        "start": 962666,
+                        "end": 962891
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) Another six things that lead to decline"
+                      },
+                      "span": {
+                        "start": 962934,
+                        "end": 963156
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The six explorations with joy"
+                      },
+                      "span": {
+                        "start": 963189,
+                        "end": 963616
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(9) The six explorations with grief"
+                      },
+                      "span": {
+                        "start": 963651,
+                        "end": 964086
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(10) The six explorations with equanimity"
+                      },
+                      "span": {
+                        "start": 964127,
+                        "end": 964582
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(11) The six kinds of household joy"
+                      },
+                      "span": {
+                        "start": 964617,
+                        "end": 965260
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(12) The six kinds of household grief"
+                      },
+                      "span": {
+                        "start": 965297,
+                        "end": 965974
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(13) The six kinds of household equanimity"
+                      },
+                      "span": {
+                        "start": 966016,
+                        "end": 966909
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(14) The six views"
+                      },
+                      "span": {
+                        "start": 966927,
+                        "end": 967726
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Sevens"
+                  },
+                  "span": {
+                    "start": 967754,
+                    "end": 973722
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The seven underlying tendencies"
+                      },
+                      "span": {
+                        "start": 967789,
+                        "end": 968150
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The seven fetters"
+                      },
+                      "span": {
+                        "start": 968171,
+                        "end": 968413
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The seven obsessions"
+                      },
+                      "span": {
+                        "start": 968437,
+                        "end": 968706
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The seven bad qualities"
+                      },
+                      "span": {
+                        "start": 968733,
+                        "end": 968965
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The seven kinds of misconduct"
+                      },
+                      "span": {
+                        "start": 968998,
+                        "end": 969215
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The seven conceits"
+                      },
+                      "span": {
+                        "start": 969237,
+                        "end": 969444
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The seven views"
+                      },
+                      "span": {
+                        "start": 969463,
+                        "end": 973722
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Eights"
+                  },
+                  "span": {
+                    "start": 973750,
+                    "end": 982265
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The eight grounds of defilement"
+                      },
+                      "span": {
+                        "start": 973785,
+                        "end": 973949
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The eight grounds of laziness"
+                      },
+                      "span": {
+                        "start": 973982,
+                        "end": 976977
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The mind's resistance to the eight worldly conditions"
+                      },
+                      "span": {
+                        "start": 977034,
+                        "end": 977335
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The eight ignoble ways of speech"
+                      },
+                      "span": {
+                        "start": 977371,
+                        "end": 977827
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The eight wrongnesses"
+                      },
+                      "span": {
+                        "start": 977852,
+                        "end": 978055
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The eight faults of a person"
+                      },
+                      "span": {
+                        "start": 978087,
+                        "end": 980302
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The eight doctrines of the non-percipient"
+                      },
+                      "span": {
+                        "start": 980347,
+                        "end": 981060
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(8) The eight doctrines of the neither-percipient-nor-non-percipient"
+                      },
+                      "span": {
+                        "start": 981128,
+                        "end": 982265
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Nines"
+                  },
+                  "span": {
+                    "start": 982292,
+                    "end": 985191
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The nine grounds of resentment"
+                      },
+                      "span": {
+                        "start": 982326,
+                        "end": 982749
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The nine stains of a person"
+                      },
+                      "span": {
+                        "start": 982780,
+                        "end": 982959
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The nine kinds of conceit"
+                      },
+                      "span": {
+                        "start": 982988,
+                        "end": 983499
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The nine things rooted in craving"
+                      },
+                      "span": {
+                        "start": 983536,
+                        "end": 984184
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The nine agitations"
+                      },
+                      "span": {
+                        "start": 984207,
+                        "end": 984630
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6-9) The nine imaginings and the rest"
+                      },
+                      "span": {
+                        "start": 984668,
+                        "end": 985191
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Tens"
+                  },
+                  "span": {
+                    "start": 985217,
+                    "end": 988004
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) The ten grounds of defilement"
+                      },
+                      "span": {
+                        "start": 985250,
+                        "end": 985446
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The ten grounds of resentment"
+                      },
+                      "span": {
+                        "start": 985479,
+                        "end": 985936
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(3) The ten courses of unwholesome action"
+                      },
+                      "span": {
+                        "start": 985977,
+                        "end": 986246
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(4) The ten fetters"
+                      },
+                      "span": {
+                        "start": 986265,
+                        "end": 986605
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(5) The ten wrongnesses"
+                      },
+                      "span": {
+                        "start": 986628,
+                        "end": 986862
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(6) The wrong view with ten grounds"
+                      },
+                      "span": {
+                        "start": 986897,
+                        "end": 987451
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(7) The extremist view with ten grounds"
+                      },
+                      "span": {
+                        "start": 987490,
+                        "end": 988004
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Exposition of the Wanderings of Craving"
+                  },
+                  "span": {
+                    "start": 988047,
+                    "end": 1005578
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(1) Concerning what is internal"
+                      },
+                      "span": {
+                        "start": 988078,
+                        "end": 996270
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) Concerning what is external"
+                      },
+                      "span": {
+                        "start": 996301,
+                        "end": 1005578
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysis of the Heart of the Teaching"
+              },
+              "span": {
+                "start": 1005615,
+                "end": 1093707
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "The Section Comprising Everything"
+                  },
+                  "span": {
+                    "start": 1005648,
+                    "end": 1010306
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section on Occurrence and Non-Occurrence"
+                  },
+                  "span": {
+                    "start": 1010350,
+                    "end": 1023177
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Sense-Pleasure Element"
+                      },
+                      "span": {
+                        "start": 1010376,
+                        "end": 1014791
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Material-Form Element"
+                      },
+                      "span": {
+                        "start": 1014816,
+                        "end": 1018255
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Immaterial Element"
+                      },
+                      "span": {
+                        "start": 1018277,
+                        "end": 1020571
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Not-Included"
+                      },
+                      "span": {
+                        "start": 1020587,
+                        "end": 1023177
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section on Included and Not Included"
+                  },
+                  "span": {
+                    "start": 1023217,
+                    "end": 1030234
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Sense-Pleasure Element"
+                      },
+                      "span": {
+                        "start": 1023243,
+                        "end": 1025324
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Material-Form Element"
+                      },
+                      "span": {
+                        "start": 1025349,
+                        "end": 1027307
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Immaterial Element"
+                      },
+                      "span": {
+                        "start": 1027329,
+                        "end": 1029194
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "Included and Not Included"
+                      },
+                      "span": {
+                        "start": 1029219,
+                        "end": 1030234
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section Showing the Things That Appear"
+                  },
+                  "span": {
+                    "start": 1030276,
+                    "end": 1052409
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Sense-Pleasure Element"
+                      },
+                      "span": {
+                        "start": 1030302,
+                        "end": 1046259
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Material-Form Element"
+                      },
+                      "span": {
+                        "start": 1046284,
+                        "end": 1049167
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Non-Percipient Beings"
+                      },
+                      "span": {
+                        "start": 1049192,
+                        "end": 1049802
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Immaterial Element"
+                      },
+                      "span": {
+                        "start": 1049824,
+                        "end": 1052409
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section Showing the Different Planes"
+                  },
+                  "span": {
+                    "start": 1052449,
+                    "end": 1055019
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section on Generating Action and the Measure of Life"
+                  },
+                  "span": {
+                    "start": 1055075,
+                    "end": 1063433
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Generating Action"
+                      },
+                      "span": {
+                        "start": 1055096,
+                        "end": 1056047
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Measure of Life"
+                      },
+                      "span": {
+                        "start": 1056066,
+                        "end": 1063433
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Section on What Is to Be Directly Known and the Rest"
+                  },
+                  "span": {
+                    "start": 1063489,
+                    "end": 1068414
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section on Having Objects and Not Having Objects"
+                  },
+                  "span": {
+                    "start": 1068466,
+                    "end": 1071964
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section Showing the Seen, the Heard, and the Rest"
+                  },
+                  "span": {
+                    "start": 1072017,
+                    "end": 1073797
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Section Showing the Triads and the Rest"
+                  },
+                  "span": {
+                    "start": 1073840,
+                    "end": 1093707
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "The Wholesome Triad"
+                      },
+                      "span": {
+                        "start": 1073859,
+                        "end": 1075289
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Feeling Triad"
+                      },
+                      "span": {
+                        "start": 1075306,
+                        "end": 1080468
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Result Triad"
+                      },
+                      "span": {
+                        "start": 1080484,
+                        "end": 1082949
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Taken-Up Triad"
+                      },
+                      "span": {
+                        "start": 1082967,
+                        "end": 1086735
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "The Thought Triad"
+                      },
+                      "span": {
+                        "start": 1086752,
+                        "end": 1090924
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(1) The Material-Form Pair"
+                      },
+                      "span": {
+                        "start": 1090950,
+                        "end": 1091864
+                      }
+                    },
+                    {
+                      "title": {
+                        "en": "(2) The Worldly Pair"
+                      },
+                      "span": {
+                        "start": 1091884,
+                        "end": 1093707
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

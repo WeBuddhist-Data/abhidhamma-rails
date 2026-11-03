@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "source": "3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-dhammasangani-ai.md",
+  "validated_at": "2026-08-20T11:06:47.640583+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-1.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 148 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "no Person found in BDRC for 'AI (CSCD-aligned'",
+    "translator 'AI (CSCD-aligned' not found (no id) — skipped",
+    "no Person found in BDRC for 'tipitaka.org Mūla edition)'",
+    "translator 'tipitaka.org Mūla edition)' not found (no id) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "Dhammasaṅgaṇī — AI-assisted translation"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "BzOXhiRUQM4MOT6affzmO",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

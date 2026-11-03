@@ -1,0 +1,1378 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Abhidhammapiṭake"
+      },
+      "span": {
+        "start": 62,
+        "end": 450636
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Dhammasaṅgaṇīpāḷi"
+          },
+          "span": {
+            "start": 79,
+            "end": 450636
+          },
+          "subsections": [
+            {
+              "title": {
+                "pi": "Mātikā"
+              },
+              "span": {
+                "start": 85,
+                "end": 10695
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Tikamātikā"
+                  },
+                  "span": {
+                    "start": 95,
+                    "end": 2210
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dukamātikā"
+                  },
+                  "span": {
+                    "start": 2220,
+                    "end": 10695
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Hetugocchakaṃ"
+                      },
+                      "span": {
+                        "start": 2233,
+                        "end": 2594
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Cūḷantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 2608,
+                        "end": 2950
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Āsavagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 2964,
+                        "end": 3336
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Saṃyojanagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 3354,
+                        "end": 3804
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Ganthagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 3819,
+                        "end": 4227
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Oghagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 4240,
+                        "end": 4614
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Yogagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 4627,
+                        "end": 4999
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Nīvaraṇagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 5016,
+                        "end": 5449
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Parāmāsagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 5466,
+                        "end": 5798
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Mahantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 5812,
+                        "end": 6683
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Upādānagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 6699,
+                        "end": 7115
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kilesagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 7130,
+                        "end": 7676
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Piṭṭhidukaṃ"
+                      },
+                      "span": {
+                        "start": 7687,
+                        "end": 8685
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suttantikadukamātikā"
+                      },
+                      "span": {
+                        "start": 8705,
+                        "end": 10695
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "Cittuppādakaṇḍaṃ"
+              },
+              "span": {
+                "start": 10711,
+                "end": 213252
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Kāmāvacarakusalaṃ"
+                  },
+                  "span": {
+                    "start": 10728,
+                    "end": 50671
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Padabhājanī"
+                      },
+                      "span": {
+                        "start": 10739,
+                        "end": 24807
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Koṭṭhāsavāro"
+                      },
+                      "span": {
+                        "start": 24819,
+                        "end": 38573
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suññatavāro"
+                      },
+                      "span": {
+                        "start": 38584,
+                        "end": 50671
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Rūpāvacarakusalaṃ"
+                  },
+                  "span": {
+                    "start": 50688,
+                    "end": 90942
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Catukkanayo"
+                      },
+                      "span": {
+                        "start": 50699,
+                        "end": 55478
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Pañcakanayo"
+                      },
+                      "span": {
+                        "start": 55489,
+                        "end": 61255
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Catasso paṭipadā"
+                      },
+                      "span": {
+                        "start": 61271,
+                        "end": 62757
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Cattāri ārammaṇāni"
+                      },
+                      "span": {
+                        "start": 62775,
+                        "end": 64178
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Soḷasakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 64194,
+                        "end": 69863
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aṭṭhakasiṇaṃ soḷasakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 69892,
+                        "end": 70223
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Abhibhāyatanāni parittāni"
+                      },
+                      "span": {
+                        "start": 70248,
+                        "end": 70896
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Catasso paṭipadā"
+                      },
+                      "span": {
+                        "start": 70912,
+                        "end": 72666
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dve ārammaṇāni"
+                      },
+                      "span": {
+                        "start": 72680,
+                        "end": 73729
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aṭṭhakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 73744,
+                        "end": 77276
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Idampi aṭṭhakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 77298,
+                        "end": 78006
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Appamāṇāni"
+                      },
+                      "span": {
+                        "start": 78016,
+                        "end": 78666
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Catasso paṭipadā"
+                      },
+                      "span": {
+                        "start": 78682,
+                        "end": 80440
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dve ārammaṇāni"
+                      },
+                      "span": {
+                        "start": 80454,
+                        "end": 81510
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aparampi aṭṭhakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 81534,
+                        "end": 85101
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Idampi aṭṭhakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 85123,
+                        "end": 86639
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Tīṇi vimokkhāni soḷasakkhattukāni"
+                      },
+                      "span": {
+                        "start": 86672,
+                        "end": 87361
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Cattāri brahmavihārajhānāni soḷasakkhattukāni"
+                      },
+                      "span": {
+                        "start": 87406,
+                        "end": 90142
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Asubhajhānaṃ soḷasakkhattukaṃ"
+                      },
+                      "span": {
+                        "start": 90171,
+                        "end": 90942
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Arūpāvacarakusalaṃ"
+                  },
+                  "span": {
+                    "start": 90960,
+                    "end": 92265
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Cattāri arūpajhānāni [arūpajjhānāni (sī. syā.)] soḷasakkhattukāni"
+                      },
+                      "span": {
+                        "start": 91025,
+                        "end": 92265
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Tebhūmakakusalaṃ"
+                  },
+                  "span": {
+                    "start": 92281,
+                    "end": 97250
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Kāmāvacarakusalaṃ"
+                      },
+                      "span": {
+                        "start": 92298,
+                        "end": 93548
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Rūpāvacarakusalaṃ"
+                      },
+                      "span": {
+                        "start": 93565,
+                        "end": 94755
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Arūpāvacarakusalaṃ"
+                      },
+                      "span": {
+                        "start": 94773,
+                        "end": 97250
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Lokuttarakusalaṃ"
+                  },
+                  "span": {
+                    "start": 97266,
+                    "end": 125571
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Suddhikapaṭipadā"
+                      },
+                      "span": {
+                        "start": 97282,
+                        "end": 116300
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suññataṃ"
+                      },
+                      "span": {
+                        "start": 116308,
+                        "end": 116945
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suññatamūlakapaṭipadā"
+                      },
+                      "span": {
+                        "start": 116966,
+                        "end": 118701
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Appaṇihitaṃ"
+                      },
+                      "span": {
+                        "start": 118712,
+                        "end": 119359
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Appaṇihitamūlakapaṭipadā"
+                      },
+                      "span": {
+                        "start": 119383,
+                        "end": 121145
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Vīsati mahānayā"
+                      },
+                      "span": {
+                        "start": 121160,
+                        "end": 122041
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Adhipati"
+                      },
+                      "span": {
+                        "start": 122049,
+                        "end": 125571
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Dvādasa akusalāni"
+                  },
+                  "span": {
+                    "start": 125588,
+                    "end": 148711
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Abyākatavipāko"
+                  },
+                  "span": {
+                    "start": 148725,
+                    "end": 168871
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Kusalavipākapañcaviññāṇāni"
+                      },
+                      "span": {
+                        "start": 148751,
+                        "end": 154738
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kusalavipākamanodhātu"
+                      },
+                      "span": {
+                        "start": 154759,
+                        "end": 158015
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kusalavipākamanoviññāṇadhātusomanassasahagatā"
+                      },
+                      "span": {
+                        "start": 158060,
+                        "end": 161554
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kusalavipākamanoviññāṇadhātuupekkhāsahagatā"
+                      },
+                      "span": {
+                        "start": 161597,
+                        "end": 164919
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aṭṭhamahāvipākā"
+                      },
+                      "span": {
+                        "start": 164934,
+                        "end": 165615
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Rūpāvacaravipākā"
+                      },
+                      "span": {
+                        "start": 165631,
+                        "end": 166578
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Arūpāvacaravipākā"
+                      },
+                      "span": {
+                        "start": 166595,
+                        "end": 168871
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Lokuttaravipāka-paṭhamamaggavipākā"
+                  },
+                  "span": {
+                    "start": 168905,
+                    "end": 201038
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Suddhikapaṭipadā"
+                      },
+                      "span": {
+                        "start": 168921,
+                        "end": 171993
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suddhikasuññataṃ"
+                      },
+                      "span": {
+                        "start": 172009,
+                        "end": 173949
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suññatapaṭipadā"
+                      },
+                      "span": {
+                        "start": 173964,
+                        "end": 177082
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Suddhikaappaṇihitaṃ"
+                      },
+                      "span": {
+                        "start": 177101,
+                        "end": 179062
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Appaṇihitapaṭipadā"
+                      },
+                      "span": {
+                        "start": 179080,
+                        "end": 182235
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Vīsati mahānayā"
+                      },
+                      "span": {
+                        "start": 182250,
+                        "end": 183399
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Chandādhipateyyasuddhikapaṭipadā"
+                      },
+                      "span": {
+                        "start": 183431,
+                        "end": 186836
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Chandādhipateyyasuddhikasuññatā"
+                      },
+                      "span": {
+                        "start": 186867,
+                        "end": 199446
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dutiyādimaggavipāko"
+                      },
+                      "span": {
+                        "start": 199465,
+                        "end": 201038
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Akusalavipākaabyākataṃ"
+                  },
+                  "span": {
+                    "start": 201060,
+                    "end": 205604
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Akusalavipākapañcaviññāṇāni"
+                      },
+                      "span": {
+                        "start": 201087,
+                        "end": 203259
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Akusalavipākamanodhātu"
+                      },
+                      "span": {
+                        "start": 203281,
+                        "end": 204411
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Akusalavipākamanoviññāṇadhātu"
+                      },
+                      "span": {
+                        "start": 204440,
+                        "end": 205604
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Ahetukakiriyāabyākataṃ"
+                  },
+                  "span": {
+                    "start": 205626,
+                    "end": 213252
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Kiriyāmanodhātu"
+                      },
+                      "span": {
+                        "start": 205641,
+                        "end": 206764
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kiriyāmanoviññāṇadhātusomanassasahagatā"
+                      },
+                      "span": {
+                        "start": 206803,
+                        "end": 208979
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kiriyāmanoviññāṇadhātuupekkhāsahagatā"
+                      },
+                      "span": {
+                        "start": 209016,
+                        "end": 210266
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Sahetukakāmāvacarakiriyā"
+                      },
+                      "span": {
+                        "start": 210290,
+                        "end": 210969
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Rūpāvacarakiriyā"
+                      },
+                      "span": {
+                        "start": 210985,
+                        "end": 211656
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Arūpāvacarakiriyā"
+                      },
+                      "span": {
+                        "start": 211673,
+                        "end": 213252
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "Rūpakaṇḍaṃ"
+              },
+              "span": {
+                "start": 213262,
+                "end": 308293
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Uddeso"
+                  },
+                  "span": {
+                    "start": 213268,
+                    "end": 213552
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Mātikā"
+                  },
+                  "span": {
+                    "start": 213558,
+                    "end": 228685
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Ekakaṃ"
+                      },
+                      "span": {
+                        "start": 213564,
+                        "end": 214479
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dukaṃ"
+                      },
+                      "span": {
+                        "start": 214484,
+                        "end": 217860
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Tikaṃ"
+                      },
+                      "span": {
+                        "start": 217865,
+                        "end": 224211
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Catukkaṃ"
+                      },
+                      "span": {
+                        "start": 224219,
+                        "end": 227057
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Pañcakaṃ"
+                      },
+                      "span": {
+                        "start": 227065,
+                        "end": 227194
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Chakkaṃ"
+                      },
+                      "span": {
+                        "start": 227201,
+                        "end": 227392
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Sattakaṃ"
+                      },
+                      "span": {
+                        "start": 227400,
+                        "end": 227632
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aṭṭhakaṃ"
+                      },
+                      "span": {
+                        "start": 227640,
+                        "end": 227919
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Navakaṃ"
+                      },
+                      "span": {
+                        "start": 227926,
+                        "end": 228124
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dasakaṃ"
+                      },
+                      "span": {
+                        "start": 228131,
+                        "end": 228359
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Ekādasakaṃ"
+                      },
+                      "span": {
+                        "start": 228369,
+                        "end": 228685
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Rūpavibhatti"
+                  },
+                  "span": {
+                    "start": 228697,
+                    "end": 308293
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Ekakaniddeso"
+                      },
+                      "span": {
+                        "start": 228709,
+                        "end": 229626
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dukaniddeso"
+                      },
+                      "span": {
+                        "start": 229637,
+                        "end": 229637
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Upādābhājanīyaṃ"
+                      },
+                      "span": {
+                        "start": 229652,
+                        "end": 269564
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Tikaniddeso"
+                      },
+                      "span": {
+                        "start": 269575,
+                        "end": 289321
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Catukkaṃ"
+                      },
+                      "span": {
+                        "start": 289329,
+                        "end": 304593
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Pañcakaṃ"
+                      },
+                      "span": {
+                        "start": 304601,
+                        "end": 305384
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Chakkaṃ"
+                      },
+                      "span": {
+                        "start": 305391,
+                        "end": 305639
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Sattakaṃ"
+                      },
+                      "span": {
+                        "start": 305647,
+                        "end": 306004
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Aṭṭhakaṃ"
+                      },
+                      "span": {
+                        "start": 306012,
+                        "end": 306444
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Navakaṃ"
+                      },
+                      "span": {
+                        "start": 306451,
+                        "end": 306976
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Dasakaṃ"
+                      },
+                      "span": {
+                        "start": 306983,
+                        "end": 307647
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Ekādasakaṃ"
+                      },
+                      "span": {
+                        "start": 307657,
+                        "end": 308293
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "Nikkhepakaṇḍaṃ"
+              },
+              "span": {
+                "start": 308307,
+                "end": 401492
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Tikanikkhepaṃ"
+                  },
+                  "span": {
+                    "start": 308320,
+                    "end": 322956
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dukanikkhepaṃ"
+                  },
+                  "span": {
+                    "start": 322969,
+                    "end": 387084
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Hetugocchakaṃ"
+                      },
+                      "span": {
+                        "start": 322982,
+                        "end": 330177
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Cūḷantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 330191,
+                        "end": 334008
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Āsavagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 334022,
+                        "end": 337654
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Saṃyojanagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 337672,
+                        "end": 345067
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Ganthagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 345082,
+                        "end": 350408
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Oghagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 350421,
+                        "end": 350493
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Yogagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 350506,
+                        "end": 350578
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Nīvaraṇagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 350595,
+                        "end": 357302
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Parāmāsagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 357319,
+                        "end": 359510
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Mahantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 359524,
+                        "end": 363466
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Upādānagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 363482,
+                        "end": 367717
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kilesagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 367732,
+                        "end": 378027
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Piṭṭhidukaṃ"
+                      },
+                      "span": {
+                        "start": 378038,
+                        "end": 387084
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Suttantikadukanikkhepaṃ"
+                  },
+                  "span": {
+                    "start": 387107,
+                    "end": 401492
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "Aṭṭhakathākaṇḍaṃ"
+              },
+              "span": {
+                "start": 401508,
+                "end": 450636
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Tikaatthuddhāro"
+                  },
+                  "span": {
+                    "start": 401523,
+                    "end": 414551
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dukaatthuddhāro"
+                  },
+                  "span": {
+                    "start": 414566,
+                    "end": 450636
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Hetugocchakaṃ"
+                      },
+                      "span": {
+                        "start": 414579,
+                        "end": 418189
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Cūḷantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 418203,
+                        "end": 419780
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Āsavagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 419794,
+                        "end": 422216
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Saṃyojanagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 422234,
+                        "end": 425245
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Ganthagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 425260,
+                        "end": 428158
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Oghagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 428171,
+                        "end": 428194
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Yogagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 428207,
+                        "end": 428230
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Nīvaraṇagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 428247,
+                        "end": 430827
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Parāmāsagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 430844,
+                        "end": 432933
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Mahantaradukaṃ"
+                      },
+                      "span": {
+                        "start": 432947,
+                        "end": 436597
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Upādānagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 436613,
+                        "end": 439285
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Kilesagocchakaṃ"
+                      },
+                      "span": {
+                        "start": 439300,
+                        "end": 442314
+                      }
+                    },
+                    {
+                      "title": {
+                        "pi": "Piṭṭhidukaṃ"
+                      },
+                      "span": {
+                        "start": 442325,
+                        "end": 450636
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

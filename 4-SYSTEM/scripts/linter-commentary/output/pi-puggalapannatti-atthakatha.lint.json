@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-puggalapannatti-atthakatha.md",
+  "validated_at": "2026-10-27T11:04:05.839288+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'leKc1Ei0OBaZN2FNMqlpL'",
+    "root_text: '1-SOURCES/Text/pi-4.md'",
+    "source: source = 'https://tipitaka.org/romn/cscd/abh03a.att.html'",
+    "toc: 13 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Puggalapaññatti-aṭṭhakathā"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": "leKc1Ei0OBaZN2FNMqlpL",
+    "translation_of": null,
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}

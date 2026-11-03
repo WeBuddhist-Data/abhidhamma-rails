@@ -7,23 +7,30 @@ lang_tag: pi
 verse_id_format: book-verse
 pitaka: abhidhamma
 layer: atthakatha
-root_text: 1-SOURCES/Text/pi-dhammasangani.md
+root_text: 1-SOURCES/Text/pi-1.md
 source_description: Tipitaka.org Atthakatha edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Dhammasaṅgaṇi-aṭṭhakathā; 2489 segments in source.
 source_filename: book/abh01a.att.html
-source_url: "https://tipitaka.org/romn/cscd/abh01a.att.xml"
+source: "https://tipitaka.org/romn/cscd/abh01a.att.xml"
 other_ids:
   - tipitaka.org: abh01a
+license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
+category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: BzOXhiRUQM4MOT6affzmO
+text_id: uHWsHi5ow5AATMDRaqn6E
+edition_id: FcUMpPJEec1GAjFaWAZ6m
+toc_id: 6TNf6hPY5DGUAgVeL4IQ2
 ---
 
-Namo tassa bhagavato arahato sammāsambuddhassa
+Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
-# Abhidhammapiṭake (aṭṭhakathā) ^atthakatha-0
+# Abhidhammapiṭake (aṭṭhakathā) ^0
 
 ## Aṭṭhasālinī nāma Dhammasaṅgaṇī-aṭṭhakathā ^1-0
 
-### Nidānakathā ^1-0-0
+### Nidānakathā ^1-I-0
 
-#### Ganthārambhakathā ^1-0-1-0
+#### Ganthārambhakathā ^1-I-I-0
 
 Karuṇā viya sattesu, paññā yassa mahesino;
 Ñeyyadhammesu sabbesu, pavattittha yathāruci. ^1-1
@@ -428,7 +435,7 @@ Jambudīpā idhāgatāti (pari. 3, 8). ^1-165
 
 Imehi mahānāgehi ābhato. Tato uddhaṃ tesaṃyeva sissānusissasaṅkhātāya ācariyaparamparāya yāvajjatanakālā ābhato. ^1-166
 
-#### Sumedhakathā ^1-0-2-0
+#### Sumedhakathā ^1-I-II-0
 
 Evaṃ ābhatassa panassa yaṃ taṃ dīpaṅkaradasabalato paṭṭhāya yāva mahābodhipallaṅkā adhigamanidānaṃ, yāva dhammacakkappavattanā desanānidānañca vuttaṃ, tassa āvibhāvatthaṃ ayaṃ anupubbikathā veditabbā – ^1-167
 
@@ -1368,7 +1375,7 @@ Evaṃ paṭiññātāya abhidhammakathāya kathanokāso sampatto. Tattha yasmā
 Ito paṭṭhāya gambhīraṃ, abhidhammakathaṃ imaṃ;
 Vuccamānaṃ nisāmetha, ekaggā sādhu sādhavoti. ^1-508
 
-![[pi-1#^1-0a-1]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-1]]
 
 "Kusalā dhammā, akusalā dhammā, abyākatā dhammā"ti ayaṃ tāva ādipadena laddhanāmo kusalattiko nāma. "Sukhāya vedanāya sampayuttā dhammā, dukkhāya vedanāya sampayuttā dhammā, adukkhamasukhāya vedanāya sampayuttā dhammā"ti ayaṃ sabbapadehi laddhanāmo vedanāttiko nāma. Evaṃ ādipadavasena vā sabbapadavasena vā sabbesampi tikadukānaṃ nāmaṃ veditabbaṃ . Sabbeva cete pañcadasahi paricchedehi vavatthitā. Tikānañhi eko paricchedo, dukānaṃ catuddasa. "Hetū dhammā, nahetū dhammā"tiādayo hi cha dukā ganthato ca atthato ca aññamaññasambandhena kaṇṇikā viya ghaṭā viya hutvā ṭhitattā ‘hetugocchako’ti vuccati. Tato apare "sappaccayā dhammā appaccayā dhammā"tiādayo satta dukā, aññamaññaṃ asambandhā, kevalaṃ dukasāmaññato uccinitvā uccinitvā visuṃ visuṃ gocchakantare ṭhapitattā aññehi ca mahantaradukehi cūḷakattā ‘cūḷantaradukā’ti veditabbā. Tato paraṃ āsavadukādīnaṃ channaṃ vasena ‘āsavagocchako’ ; tathā saṃyojanadukādīnaṃ vasena ‘saṃyojanagocchako’; tathā ganthaoghayoganīvaraṇadukādīnaṃ vasena ‘ganthaoghayoganīvaraṇagocchakā’; parāmāsadukādīnaṃ pañcannaṃ vasena ‘parāmāsagocchako’ti. Sabbepi satta gocchakā veditabbā. Tato paraṃ "sārammaṇā dhammā"tiādayo catuddasa dukā ‘mahantaradukā’ nāma. Tato upādānadukādayo cha dukā ‘upādānagocchako’ nāma. Tato kilesadukādayo aṭṭha dukā ‘kilesagocchako’ nāma. Tato paraṃ dassanenapahātabbadukādayo aṭṭhārasa dukā abhidhammamātikāya pariyosāne ṭhapitattā ‘piṭṭhidukā’ nāma. "Vijjābhāgino dhammā avijjābhāgino dhammā"tiādayo pana dvācattālīsa dukā ‘suttantikadukā’ nāma. Evaṃ sabbepete pañcadasahi paricchedehi vavatthitāti veditabbā. ^1-509
 
@@ -1391,7 +1398,7 @@ Yathā hi ‘kusalā’ ‘rūpaṃ’‘cakkhumā’ti vutte atthavasena añña
 
 Sabbametaṃ akāraṇaṃ. Kasmā? Yathānumativohārasiddhitoti. Vohāro hi yathā yathā atthesu anumato sampaṭicchito tathā tatheva siddho. Na cāyaṃ "kusalā dhammā"tiādīsu kusalapubbo dhammābhilāpo dhammaparo ca kusalābhilāpo, yathā ‘kusalā kusalā’ti evaṃ, attano atthavisesābhāvena paṇḍitehi sampaṭicchito; na ca ‘kusalā’ ‘rūpaṃ’cakkhumāsaddā viya aññamaññaṃ anolokitatthabhāvena. ‘Kusala’-saddo panettha anavajjasukhavipākasaṅkhātassa atthassa jotakabhāvena sampaṭicchito, ‘akusala’-saddo sāvajjadukkhavipākatthajotakattena, ‘abyākata’-saddo avipākatthajotakattena, ‘dhamma’-saddo sabhāvadhāraṇādiatthajotakattena. So etesaṃ aññatarānantare vuccamāno attano atthasāmaññaṃ dīpeti. Sabbeva hi ete sabhāvadhāraṇādinā lakkhaṇena dhammā. Kusalādisaddā cāpi dhammasaddassa purato vuccamānā attano attano atthavisesaṃ tassa dīpenti. Dhammo hi kusalo vā hoti akusalo vā abyākato vā. Evamete visuṃ visuṃ vuccamānā attano attano atthamattadīpakattena sampaṭicchitā. Dhammasaddena saha vuccamānā attano attano atthasāmaññaṃ atthavisesaṃ vā dīpakattena loke paṇḍitehi sampaṭicchitā. Tasmā yadetamettha ekatthanānātthataṃ vikappetvā dosāropanakāraṇaṃ vuttaṃ sabbametaṃ akāraṇaṃ. Ayaṃ tāva kusalattikassa anupubbapadavaṇṇanā. Imināva nayena sesatikadukānampi nayo veditabbo. Ito paraṃ pana visesamattameva vakkhāma. ^1-518
 
-![[pi-1#^1-0a-2]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-2]]
 
 Sukhāya vedanāyātiādīsu ‘sukha’-saddo tāva sukhavedanāsukhamūlasukhārammaṇasukhahetusukhapaccayaṭṭhānaabyābajjhanibbānādīsu dissati. Ayañhi "sukhassa ca pahānā"tiādīsu (dī. ni. 1.232) sukhavedanāyaṃ dissati. "Sukho buddhānaṃ uppādo" (dha. pa. 194), "sukhā virāgatā loke"tiādīsu (udā. 11; mahāva. 5) sukhamūle "yasmā ca kho, mahāli, rūpaṃ sukhaṃ sukhānupatitaṃ sukhāvakkanta"ntiādīsu (saṃ. ni. 3.60) sukhārammaṇe. "Sukhassetaṃ, bhikkhave, adhivacanaṃ yadidaṃ puññānī"tiādīsu (a. ni. 7.62) sukhahetumhi. "Yāvañcidaṃ, bhikkhave, na sukaraṃ akkhānena pāpuṇituṃ yāva sukhā saggā" (ma. ni. 3.255), "na te sukhaṃ pajānanti ye na passanti nandana"ntiādīsu (saṃ. ni. 1.11) sukhapaccayaṭṭhāne. "Diṭṭhadhammasukhavihārā ete dhammā"tiādīsu (ma. ni. 1.82) abyābajjhe. "Nibbānaṃ paramaṃ sukha"ntiādisu (dha. pa. 203-204) nibbāne. Idha panāyaṃ sukhavedanāyameva daṭṭhabbo. ‘Vedanā’-saddo "viditā vedanā uppajjantī"tiādīsu (ma. ni. 3.208) vedayitasmiṃyeva vattati. ^1-519
 
@@ -1399,83 +1406,83 @@ Sukhāya vedanāyātiādīsu ‘sukha’-saddo tāva sukhavedanāsukhamūlasukh�
 
 Vacanattho panettha – sukhayatīti sukhā. Dukkhayatīti dukkhā. Na dukkhā na sukhāti adukkhamasukhā. ‘Ma-kāro padasandhivasena vutto. Sabbāpi ārammaṇarasaṃ vedayanti anubhavantīti vedanā. Tāsu iṭṭhānubhavanalakkhaṇā sukhā, aniṭṭhānubhavanalakkhaṇā dukkhā, ubhayaviparītānubhavanalakkhaṇā adukkhamasukhā. Yopanāyaṃ tīsupi padesu ‘sampayutta’-saddo, tassattho – samaṃ pakārehi yuttāti sampayuttā. Katarehi pakārehīti? Ekuppādatādīhi. "Natthi keci dhammā kehici dhammehi sampayuttāti? Āmantā"ti hi imassa pañhassa paṭikkhepe "nanu atthi keci dhammā kehici dhammehi sahagatā sahajātā saṃsaṭṭhā ekuppādā ekanirodhā ekavatthukā ekārammaṇā"ti (kathā. 473) evaṃ ekuppādatādīnaṃ vasena sampayogattho vutto. Iti imehi ekuppādatādīhi samaṃ pakārehi yuttāti sampayuttā. ^1-521
 
-![[pi-1#^1-0a-3]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-3]]
 
 Vipākattike aññamaññavisiṭṭhānaṃ kusalākusalānaṃ pākāti vipākā. Vipakkabhāvamāpannānaṃ arūpadhammānametaṃ adhivacanaṃ. Vipākadhammadhammāti vipākasabhāvadhammā. Yathā jātijarāsabhāvā jātijarāpakatikā sattā jātidhammā jarādhammāti vuccanti evaṃ vipākajanakaṭṭhena vipākasabhāvā vipākapakatikā dhammāti attho. Tatiyapadaṃ ubhayasabhāvapaṭikkhepavasena vuttaṃ. ^1-522
 
-![[pi-1#^1-0a-4]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-4]]
 
 Upādinnupādāniyattike ārammaṇakaraṇavasena taṇhādiṭṭhīhi upetena kammunā ādinnā, phalabhāvena gahitāti upādinnā. Ārammaṇabhāvaṃ upagantvā upādānasambandhena upādānānaṃ hitāti upādāniyā. Upādānassa ārammaṇapaccayabhūtānametaṃ adhivacanaṃ. Upādiṇṇā ca te upādāniyā cāti upādiṇṇupādāniyā; sāsavakammanibbattānaṃ rūpārūpadhammānametaṃ adhivacanaṃ. Iti iminā nayena sesapadadvayepi paṭisedhasahito attho veditabbo. ^1-523
 
-![[pi-1#^1-0a-5]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-5]]
 
 Saṃkiliṭṭhasaṃkilesikattike saṃkilesetīti saṃkileso, vibādhati, upatāpeti cāti attho. Saṃkilesena samannāgatāti saṃkiliṭṭhā. Attānaṃ ārammaṇaṃ katvā pavattanena saṃkilesaṃ arahanti , saṃkilese vā niyuttā, tassa ārammaṇabhāvānatikkamanatoti saṃkilesikā. Saṃkilesassa ārammaṇapaccayabhūtānametaṃ adhivacanaṃ. Saṃkiliṭṭhā ca te saṃkilesikā cāti saṃkiliṭṭhasaṃkilesikā. Sesapadadvayampi purimattike vuttanayeneva veditabbaṃ. ^1-524
 
-![[pi-1#^1-0a-6]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-6]]
 
 Vitakkattike sampayogavasena vattamānena saha vitakkena savitakkā. Saha vicārena savicārā. Savitakkā ca te savicārā cāti savitakkasavicārā. Ubhayarahitā avitakkaavicārā. Vitakkavicāresu vicārova mattā, pamāṇaṃ, etesanti vicāramattā. Vicārato uttari vitakkena saddhiṃ sampayogaṃ na gacchantīti attho. Avitakkā ca te vicāramattā cāti avitakkavicāramattā. ^1-525
 
-![[pi-1#^1-0a-7]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-7]]
 
 Pītittike pītiyā saha ekuppādādibhāvaṃ gatāti pītisahagatā, pītisampayuttāti attho. Sesapadadvayepi eseva nayo. Upekkhāti cettha adukkhamasukhā vedanā vuttā. Sā hi sukhadukkhākārappavattiṃ upekkhati, majjhattākārasaṇṭhitattā tenākārena pavattatīti upekkhā. Iti vedanāttikato padadvayameva gahetvā nippītikassa sukhassa sappītikasukhato visesadassanavasena ayaṃ tiko vutto. ^1-526
 
-![[pi-1#^1-0a-8]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-8]]
 
 Dassanattike dassanenāti sotāpattimaggena. So hi paṭhamaṃ nibbānaṃ dassanato dassananti vutto. Gotrabhu pana kiñcāpi paṭhamataraṃ passati, yathā pana rañño santikaṃ kenacideva karaṇīyena āgato puriso dūratova rathikāya carantaṃ hatthikkhandhagataṃ rājānaṃ disvāpi ‘diṭṭho te rājā’ti puṭṭho disvāpi kattabbakiccassa akatattā ‘na passāmī’ti āha. Evameva nibbānaṃ disvāpi kattabbassa kilesappahānassābhāvā na dassananti vuccati. Tañhi ñāṇaṃ maggassa āvajjanaṭṭhāne tiṭṭhati. Bhāvanāyāti sesamaggattayena. Sesamaggattayañhi paṭhamamaggena diṭṭhasmiṃyeva dhamme bhāvanāvasena uppajjati, adiṭṭhapubbaṃ kiñci na passati, tasmā bhāvanāti vuccati. Tatiyapadaṃ ubhayapaṭikkhepavasena vuttaṃ. ^1-527
 
-![[pi-1#^1-0a-9]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-9]]
 
 Tadanantarattike dassanena pahātabbo hetu etesanti dassanena pahātabbahetukā. Dutiyapadepi eseva nayo. Tatiyapade neva dassanena na bhāvanāya pahātabbo hetu etesanti evamatthaṃ aggahetvā neva dassanena na bhāvanāya pahātabbo hetu etesaṃ atthīti evamattho gahetabbo . Itarathā hi ahetukānaṃ aggahaṇaṃ bhaveyya; hetuyeva hi tesaṃ natthi yo dassanabhāvanāhi pahātabbo siyā. Sahetukesupi hetuvajjānaṃ pahānaṃ āpajjati, na hetūnaṃ; hetuyeva hi etesaṃ ‘neva dassanena na bhāvanāya pahātabbo’ti vutto, na te dhammā. Ubhayampi cetaṃ anadhippetaṃ. Tasmā neva dassanena na bhāvanāya pahātabbo hetu etesaṃ atthīti nevadassanena nabhāvanāya pahātabbahetukāti ayamattho gahetabbo. ^1-528
 
-![[pi-1#^1-0a-10]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-10]]
 
 Ācayagāmittike kammakilesehi āciyatīti ācayo. Paṭisandhicutigatippavattānaṃ etaṃ nāmaṃ. Tassa kāraṇaṃ hutvā nipphādanakabhāvena taṃ ācayaṃ gacchanti, yassa vā pavattanti taṃ puggalaṃ yathāvuttameva ācayaṃ gamentītipi ācayagāmino; sāsavakusalākusalānaṃ etaṃ adhivacanaṃ. Tato eva ācayasaṅkhātā cayā apetattā, nibbānaṃ apetaṃ cayāti apacayo. Taṃ ārammaṇaṃ katvā pavattanato apacayaṃ gacchantīti apacayagāmino; ariyamaggānametaṃ adhivacanaṃ. Apica pākāraṃ iṭṭhakavaḍḍhakī viya pavattaṃ ācinantā gacchantīti ācayagāmino. Tena citaṃ citaṃ iṭṭhakaṃ viddhaṃsayamāno puriso viya tadeva pavattaṃ apacinantā gacchantīti apacayagāmino. Tatiyapadaṃ ubhayapaṭikkhepena vuttaṃ. ^1-529
 
-![[pi-1#^1-0a-11]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-11]]
 
 Sekkhattike tīsu sikkhāsu jātāti sekkhā. Sattannaṃ sekkhānaṃ etetipi sekkhā. Apariyositasikkhattā sayameva sikkhantītipi sekkhā. Upari sikkhitabbābhāvato na sekkhāti asekkhā. Vuḍḍhippattā vā sekkhātipi asekkhā. Arahattaphaladhammānaṃ etaṃ adhivacanaṃ. Tatiyapadaṃ ubhayapaṭikkhepena vuttaṃ. ^1-530
 
-![[pi-1#^1-0a-12]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-12]]
 
 Parittattike samantato khaṇḍitattā appamattakaṃ parittanti vuccati; ‘parittaṃ gomayapiṇḍa’ntiādīsu (saṃ. ni. 3.96) viya. Imepi appānubhāvatāya parittā viyāti parittā; kāmāvacaradhammānametaṃ adhivacanaṃ. Kilesavikkhambhanasamatthatāya vipulaphalatāya dīghasantānatāya ca mahantabhāvaṃ gatā, mahantehi vā uḷāracchandavīriyacittapaññehi gatā paṭipannātipi mahaggatā. Pamāṇakarā dhammā rāgādayo pamāṇaṃ nāma. Ārammaṇato vā sampayogato vā natthi etesaṃ pamāṇaṃ, pamāṇassa ca paṭipakkhāti appamāṇā. ^1-531
 
-![[pi-1#^1-0a-13]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-13]]
 
 Parittārammaṇattike parittaṃ ārammaṇaṃ etesanti parittārammaṇā. Sesapadadvayepi eseva nayo. ^1-532
 
-![[pi-1#^1-0a-14]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-14]]
 
 Hīnattike hīnāti lāmakā akusalā dhammā. Hīnappaṇītānaṃ majjhe bhavāti majjhimā. Avasesā tebhūmakā dhammā uttamaṭṭhena atappakaṭṭhena ca paṇītā; lokuttarā dhammā. ^1-533
 
-![[pi-1#^1-0a-15]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-15]]
 
 Micchattattike ‘hitasukhāvahā me bhavissantī’ti evaṃ āsīsitāpi tathā abhāvato, ‘asubhādīsuyeva subha’ntiādi viparītappavattito ca micchāsabhāvāti micchattā; vipākadāne sati khandhabhedānantarameva vipākadānato niyatā; micchattā ca te niyatā cāti micchattaniyatā. Vuttaviparītena atthena sammāsabhāvāti sammattā; sammattā ca te niyatā ca anantarameva phaladānenāti sammattaniyatā. Ubhayathāpi na niyatāti aniyatā. ^1-534
 
-![[pi-1#^1-0a-16]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-16]]
 
 Maggārammaṇattike nibbānaṃ maggati, gavesati, kilese vā mārento gacchatīti maggo. Maggo ārammaṇaṃ etesanti maggārammaṇā. Aṭṭhaṅgikopi maggo paccayaṭṭhena etesaṃ hetūti maggahetukā. Maggasampayuttā vā hetū magge vā hetūti maggahetū. Te etesaṃ hetūtipi maggahetukā. Sammādiṭṭhi sayaṃ maggo ceva hetu ca. Iti maggo hetu etesantipi maggahetukā. Abhibhavitvā pavattanaṭṭhena maggo adhipati etesanti maggādhipatino. ^1-535
 
-![[pi-1#^1-0a-17]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-17]]
 
 Uppannattike uppādato paṭṭhāya yāva bhaṅgā uddhaṃ pannā gatā pavattāti uppannā. Na uppannāti anuppannā. Pariniṭṭhitakāraṇekadesattā avassaṃ uppajjissantīti uppādino. ^1-536
 
-![[pi-1#^1-0a-18]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-18]]
 
 Atītattike attano sabhāvaṃ uppādādikkhaṇaṃ vā patvā atikkantāti atītā. Tadubhayampi na āgatāti anāgatā. Taṃ taṃ kāraṇaṃ paṭicca uppannāti paccuppannā. ^1-537
 
-![[pi-1#^1-0a-19]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-19]]
 
 Anantarattike atītaṃ ārammaṇaṃ etesanti atītārammaṇā. Sesapadadvayepi eseva nayo. ^1-538
 
-![[pi-1#^1-0a-20]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-20]]
 
 Ajjhattattike ‘evaṃ pavattamānā mayaṃ attā’ti gahaṇaṃ, ‘gamissāmā’ti iminā viya adhippāyena attānaṃ adhikāraṃ katvā pavattāti ajjhattā. ‘Ajjhatta’-saddo panāyaṃ gocarajjhatte niyakajjhatte ajjhattajjhatte visayajjhatteti catūsu atthesu dissati. "Tenānanda, bhikkhunā tasmiṃyeva purimasmiṃ samādhinimitte ajjhattameva cittaṃ saṇṭhapetabbaṃ" (ma. ni. 3.188), "ajjhattarato samāhito"tiādīsu (dha. pa. 362) hi ayaṃ gocarajjhatte dissati. "Ajjhattaṃ sampasādanaṃ" (dī. ni. 1.228; dha. sa. 161), "ajjhattaṃ vā dhammesu dhammānupassī viharatī"tiādīsu (dī. ni. 2.373) niyakajjhatte. "Cha ajjhattikāni āyatanānī"tiādīsu (ma. ni. 3.304) ajjhattajjhatte. "Ayaṃ kho panānanda, vihāro tathāgatena abhisambuddho yadidaṃ sabbanimittānaṃ amanasikārā ajjhattaṃ suññataṃ upasampajja viharatī"tiādīsu (ma. ni. 3.187) visayajjhatte; issariyaṭṭhāneti attho. Phalasamāpatti hi buddhānaṃ issariyaṭṭhānaṃ nāma. Idha pana niyakajjhatte adhippeto. Tasmā attano santāne pavattā pāṭipuggalikā dhammā ajjhattāti veditabbā. Tato bāhirabhūtā pana indriyabaddhā vā anindriyabaddhā vā bahiddhā nāma. Tatiyapadaṃ tadubhayavasena vuttaṃ. ^1-539
 
-![[pi-1#^1-0a-21]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-21]]
 
 Anantarattiko teyeva tippakārepi dhamme ārammaṇaṃ katvā pavattanavasena vutto. ^1-540
 
-![[pi-1#^1-0a-22]]
+![[1-SOURCES/Text/pi-1.md#^1-MI-22]]
 
 Sanidassanattike daṭṭhabbabhāvasaṅkhātena saha nidassanenāti sanidassanā. Paṭihananabhāvasaṅkhātena saha paṭighenāti sappaṭighā. Sanidassanā ca te sappaṭighā cāti sanidassanasappaṭighā. Natthi etesaṃ daṭṭhabbabhāvasaṅkhātaṃ nidassananti anidassanā. Anidassanā ca te vuttanayeneva sappaṭighā cāti anidassanasappaṭighā. Tatiyapadaṃ ubhayapaṭikkhepena vuttaṃ. Ayaṃ tāva tikamātikāya anupubbapadavaṇṇanā. ^1-541
 
@@ -1483,157 +1490,157 @@ Tikamātikāpadavaṇṇanā niṭṭhitā. ^1-542
 
 ### Dukamātikāpadavaṇṇanā ^1-3-0
 
-![[pi-1#^1-0b-1]]
-![[pi-1#^1-0b-2]]
-![[pi-1#^1-0b-3]]
-![[pi-1#^1-0b-4]]
-![[pi-1#^1-0b-5]]
-![[pi-1#^1-0b-6]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-1]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-2]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-3]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-4]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-5]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-6]]
 
 Dukamātikāyaṃ pana tikesu anāgatapadavaṇṇanaṃyeva karissāma. Hetugocchake tāva hetudhammāti mūlaṭṭhena hetusaṅkhātā dhammā. Hetū dhammātipi pāṭho. Nahetūti tesaṃyeva paṭikkhepavacanaṃ. Sampayogato pavattena saha hetunāti sahetukā. Tatheva pavatto natthi etesaṃ hetūti ahetukā. Ekuppādāditāya hetunā sampayuttāti hetusampayuttā. Hetunā vippayuttāti hetuvippayuttā. Imesaṃ dvinnampi dukānaṃ kiñcāpi atthato nānattaṃ natthi, desanāvilāsena pana tathā bujjhantānaṃ vā puggalānaṃ ajjhāsayavasena vuttā. Tato paraṃ paṭhamadukaṃ dutiyatatiyehi saddhiṃ yojetvā tesaṃ ‘hetū na hetū’tiādīnaṃ padānaṃ vasena yathāsambhavato aparepi tayo dukā vuttā. Tattha yatheva ‘hetū ceva dhammā sahetukā cā’ti etaṃ sambhavati, tathā ‘hetū ceva dhammā ahetukā cā’ti idampi. Yathā ca ‘sahetukā ceva dhammā na ca hetū’ti etaṃ sambhavati, tathā ‘ahetukā ceva dhammā na ca hetū’ti idampi. Hetusampayuttadukena saddhiṃ yojanāyapi eseva nayo. ^1-543
 
 Tatra yadetaṃ ‘na hetū dhammā sahetukāpi ahetukāpī’ti siddhe, ‘na hetū kho pana dhammā’ti atirittaṃ ‘kho panā’ti padaṃ vuttaṃ, tassa vasena ayaṃ atirekattho saṅgahitoti veditabbo. Kathaṃ? Na kevalaṃ ‘na hetu dhammā atha kho aññepi na ca sahetukāpi ahetukāpi icceva, atha kho aññathāpīti. Idaṃ vuttaṃ hoti – yatheva hi ‘na hetū dhammā sahetukāpi ahetukāpi’, evaṃ ‘hetū dhammā sahetukāpi ahetukāpi’. Yathā ca ‘na hetū dhammā sahetukāpi ahetukāpi’, evaṃ ‘na hetū dhammā hetusampayuttāpi hetuvippayuttāpī’ti. ^1-544
 
-![[pi-1#^1-0b-7]]
-![[pi-1#^1-0b-8]]
-![[pi-1#^1-0b-9]]
-![[pi-1#^1-0b-10]]
-![[pi-1#^1-0b-11]]
-![[pi-1#^1-0b-12]]
-![[pi-1#^1-0b-13]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-7]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-8]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-9]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-10]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-11]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-12]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-13]]
 
 Cūḷantaradukesu attano nipphādakena saha paccayenāti sappaccayā. Natthi etesaṃ uppāde vā ṭhitiyaṃ vā paccayoti appaccayā. Paccayehi samāgantvā katāti saṅkhatā. Na saṅkhatāti asaṅkhatā. Avinibbhogavasena rūpaṃ etesaṃ atthīti rūpino. Tathāvidhaṃ natthi etesaṃ rūpanti arūpino. Ruppanalakkhaṇaṃ vā rūpaṃ; taṃ etesaṃ atthīti rūpino. Na rūpino arūpino. Lokiyā dhammāti loko vuccati lujjanapalujjanaṭṭhena vaṭṭaṃ; tasmiṃ pariyāpannabhāvena loke niyuttāti lokiyā. Tato uttiṇṇāti uttarā; loke apariyāpannabhāvena lokato uttarāti lokuttarā. Kenaci viññeyyāti cakkhuviññāṇādīsu kenaci ekena cakkhuviññāṇena vā sotaviññāṇena vā vijānitabbā. Kenaci na viññeyyāti teneva cakkhuviññāṇena vā sotaviññāṇena vā na vijānitabbā. Evaṃ sante dvinnampi padānaṃ atthanānattato duko hoti. ^1-545
 
-![[pi-1#^1-0b-14]]
-![[pi-1#^1-0b-15]]
-![[pi-1#^1-0b-16]]
-![[pi-1#^1-0b-17]]
-![[pi-1#^1-0b-18]]
-![[pi-1#^1-0b-19]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-14]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-15]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-16]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-17]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-18]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-19]]
 
 Āsavagocchake āsavantīti āsavā. Cakkhutopi…pe… manatopi sandanti pavattantīti vuttaṃ hoti. Dhammato yāva gotrabhuṃ, okāsato yāva bhavaggaṃ savantīti vā āsavā. Ete dhamme etañca okāsaṃ antokaritvā pavattantīti attho. Antokaraṇattho hi ayaṃ ‘ā’kāro. Cirapārivāsiyaṭṭhena madirādayo āsavā. Āsavā viyātipi āsavā. Lokasmiñhi cirapārivāsikā madirādayo āsavāti vuccanti. Yadi ca cirapārivāsiyaṭṭhena āsavā, eteyeva bhavitumarahanti. Vuttañhetaṃ – "purimā, bhikkhave, koṭi na paññāyati avijjāya, ito pubbe avijjā nāhosī"tiādi (a. ni. 10.61). Āyataṃ vā saṃsāradukkhaṃ savanti pasavantītipi āsavā. Tato aññe no āsavā nāma. Attānaṃ ārammaṇaṃ katvā pavattehi saha āsavehīti sāsavā. Evaṃ pavattamānā natthi etesaṃ āsavāti anāsavā. Sesaṃ hetugocchake vuttanayena veditabbaṃ. Ayaṃ pana viseso – yathā tattha ‘na hetū kho pana dhammā sahetukāpi ahetukāpīti ayaṃ osānaduko paṭhamadukassa dutiyapadaṃ ādimhi ṭhapetvā vutto, evaṃ idha ‘no āsavā kho pana dhammā sāsavāpi anāsavāpī’ti na vutto. Kiñcāpi na vutto, atha kho ayañca añño ca bhedo tattha vuttanayeneva veditabbo. ^1-546
 
-![[pi-1#^1-0b-20]]
-![[pi-1#^1-0b-21]]
-![[pi-1#^1-0b-22]]
-![[pi-1#^1-0b-23]]
-![[pi-1#^1-0b-24]]
-![[pi-1#^1-0b-25]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-20]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-21]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-22]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-23]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-24]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-25]]
 
 Saṃyojanagocchake yassa saṃvijjanti, taṃ puggalaṃ vaṭṭasmiṃ saṃyojenti bandhantīti saṃyojanā. Tato aññe no saṃyojanā nāma. Ārammaṇabhāvaṃ upagantvā saṃyojanasambandhane saṃyojanānaṃ hitāti saṃyojaniyā. Saṃyojanassa ārammaṇapaccayabhūtānaṃ etaṃ adhivacanaṃ. Na saṃyojaniyā asaṃyojaniyā. Sesaṃ hetugocchake vuttanayeneva yojetabbaṃ. ^1-547
 
-![[pi-1#^1-0b-26]]
-![[pi-1#^1-0b-27]]
-![[pi-1#^1-0b-28]]
-![[pi-1#^1-0b-29]]
-![[pi-1#^1-0b-30]]
-![[pi-1#^1-0b-31]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-26]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-27]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-28]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-29]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-30]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-31]]
 
 Ganthagocchake yassa saṃvijjanti taṃ cutipaṭisandhivasena vaṭṭasmiṃ ganthenti ghaṭentīti ganthā. Tato aññe no ganthā. Ārammaṇakaraṇavasena ganthehi ganthitabbāti ganthaniyā. Sesaṃ hetugocchake vuttanayeneva yojetabbaṃ. Yathā ca idha, evaṃ ito paresupi vuttāvasesaṃ tattha tattha vuttanayeneva veditabbaṃ. ^1-548
 
-![[pi-1#^1-0b-32]]
-![[pi-1#^1-0b-33]]
-![[pi-1#^1-0b-34]]
-![[pi-1#^1-0b-35]]
-![[pi-1#^1-0b-36]]
-![[pi-1#^1-0b-37]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-32]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-33]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-34]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-35]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-36]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-37]]
 
 Oghagocchake yassa saṃvijjanti taṃ vaṭṭasmiṃyeva ohananti osīdāpentīti oghā. Ārammaṇaṃ katvā atikkamanīyato oghehi atikkamitabbāti oghaniyā. Oghānaṃ ārammaṇadhammā eva veditabbā. ^1-549
 
-![[pi-1#^1-0b-38]]
-![[pi-1#^1-0b-39]]
-![[pi-1#^1-0b-40]]
-![[pi-1#^1-0b-41]]
-![[pi-1#^1-0b-42]]
-![[pi-1#^1-0b-43]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-38]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-39]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-40]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-41]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-42]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-43]]
 
 Yogagocchake vaṭṭasmiṃ yojentīti yogā. Yoganiyā oghaniyā viya veditabbā. ^1-550
 
-![[pi-1#^1-0b-44]]
-![[pi-1#^1-0b-45]]
-![[pi-1#^1-0b-46]]
-![[pi-1#^1-0b-47]]
-![[pi-1#^1-0b-48]]
-![[pi-1#^1-0b-49]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-44]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-45]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-46]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-47]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-48]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-49]]
 
 Nīvaraṇagocchake cittaṃ nīvaranti pariyonandhantīti nīvaraṇā. Nīvaraṇiyā saṃyojaniyā viya veditabbā. ^1-551
 
-![[pi-1#^1-0b-50]]
-![[pi-1#^1-0b-51]]
-![[pi-1#^1-0b-52]]
-![[pi-1#^1-0b-53]]
-![[pi-1#^1-0b-54]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-50]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-51]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-52]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-53]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-54]]
 
 Parāmāsagocchake dhammānaṃ yathābhūtaṃ aniccādiākāraṃ atikkamitvā ‘nicca’nti ādivasena pavattamānā parato āmasantīti parāmāsā. Parāmāsehi ārammaṇakaraṇavasena parāmaṭṭhattā parāmaṭṭhā. ^1-552
 
-![[pi-1#^1-0b-55]]
-![[pi-1#^1-0b-56]]
-![[pi-1#^1-0b-57]]
-![[pi-1#^1-0b-58]]
-![[pi-1#^1-0b-59]]
-![[pi-1#^1-0b-60]]
-![[pi-1#^1-0b-61]]
-![[pi-1#^1-0b-62]]
-![[pi-1#^1-0b-63]]
-![[pi-1#^1-0b-64]]
-![[pi-1#^1-0b-65]]
-![[pi-1#^1-0b-66]]
-![[pi-1#^1-0b-67]]
-![[pi-1#^1-0b-68]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-55]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-56]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-57]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-58]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-59]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-60]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-61]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-62]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-63]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-64]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-65]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-66]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-67]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-68]]
 
 Mahantaradukesu ārammaṇaṃ aggahetvā appavattito saha ārammaṇenāti sārammaṇā. Natthi etesaṃ ārammaṇanti anārammaṇā. Cintanaṭṭhena cittā, vicittaṭṭhena vā cittā. Avippayogavasena cetasi niyuttāti cetasikā. Nirantarabhāvūpagamanatāya, uppādato yāva bhaṅgā, cittena saṃsaṭṭhāti cittasaṃsaṭṭhā. Ekato vattamānāpi nirantarabhāvaṃ anupagamanatāya cittena visaṃsaṭṭhāti cittavisaṃsaṭṭhā. Samuṭṭhahanti etenāti samuṭṭhānaṃ. Cittaṃ samuṭṭhānaṃ etesanti cittasamuṭṭhānā. Saha bhavantīti sahabhuno. Cittena sahabhuno cittasahabhuno. Anuparivattantīti anuparivattino. Kiṃ anuparivattanti? Cittaṃ. Cittassa anuparivattino cittānuparivattino. Cittasaṃsaṭṭhā ca te cittasamuṭṭhānā cāti cittasaṃsaṭṭhasamuṭṭhānā. Cittasaṃsaṭṭhā ca te cittasamuṭṭhānā ca cittasahabhuno eva cāti cittasaṃsaṭṭhasamuṭṭhānasahabhuno. Cittasaṃsaṭṭhā ca te cittasamuṭṭhānā ca cittānuparivattino eva cāti cittasaṃsaṭṭhasamuṭṭhānānuparivattino. Sesāni sabbapadāni vuttapadānaṃ paṭikkhepavasena veditabbāni. Ajjhattajjhattaṃ sandhāya ajjhattattike vuttavasena ajjhattāva ajjhattikā. Tato bahibhūtāti bāhirā. Upādiyanteva bhūtāni, na bhūtāni viya upādiyantīti upādā. Na upādiyantevāti noupādā. ^1-553
 
-![[pi-1#^1-0b-69]]
-![[pi-1#^1-0b-70]]
-![[pi-1#^1-0b-71]]
-![[pi-1#^1-0b-72]]
-![[pi-1#^1-0b-73]]
-![[pi-1#^1-0b-74]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-69]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-70]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-71]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-72]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-73]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-74]]
 
 Upādānagocchake bhusaṃ ādiyantīti upādānā; daḷhaggāhaṃ gaṇhantīti attho. Tato aññe noupādānā. ^1-554
 
-![[pi-1#^1-0b-75]]
-![[pi-1#^1-0b-76]]
-![[pi-1#^1-0b-77]]
-![[pi-1#^1-0b-78]]
-![[pi-1#^1-0b-79]]
-![[pi-1#^1-0b-80]]
-![[pi-1#^1-0b-81]]
-![[pi-1#^1-0b-82]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-75]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-76]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-77]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-78]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-79]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-80]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-81]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-82]]
 
 Kilesagocchake saṃkiliṭṭhattike vuttanayeneva attho veditabbo. ^1-555
 
-![[pi-1#^1-0b-83]]
-![[pi-1#^1-0b-84]]
-![[pi-1#^1-0b-85]]
-![[pi-1#^1-0b-86]]
-![[pi-1#^1-0b-87]]
-![[pi-1#^1-0b-88]]
-![[pi-1#^1-0b-89]]
-![[pi-1#^1-0b-90]]
-![[pi-1#^1-0b-91]]
-![[pi-1#^1-0b-92]]
-![[pi-1#^1-0b-93]]
-![[pi-1#^1-0b-94]]
-![[pi-1#^1-0b-95]]
-![[pi-1#^1-0b-96]]
-![[pi-1#^1-0b-97]]
-![[pi-1#^1-0b-98]]
-![[pi-1#^1-0b-99]]
-![[pi-1#^1-0b-100]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-83]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-84]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-85]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-86]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-87]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-88]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-89]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-90]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-91]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-92]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-93]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-94]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-95]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-96]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-97]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-98]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-99]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-100]]
 
 Piṭṭhidukesu kāme avacarantīti kāmāvacarā rūpe avacarantīti rūpāvacarā. Arūpe avacarantīti arūpāvacarā. Ayamettha saṅkhepo. Vitthāro pana parato āvi bhavissati. Tebhūmakavaṭṭe pariyāpannā antogadhāti pariyāpannā. Tasmiṃ na pariyāpannāti apariyāpannā. Vaṭṭamūlaṃ chindantā nibbānaṃ ārammaṇaṃ katvā vaṭṭato niyyantīti niyyānikā. Iminā lakkhaṇena na niyyantīti aniyyānikā. Cutiyā vā attano vā pavattiyā anantaraṃ phaladāne niyatattā niyatā. Tathā aniyatattā aniyatā. Aññe dhamme uttaranti pajahantīti uttarā. Attānaṃ uttarituṃ samatthehi saha uttarehīti sauttarā. Natthi etesaṃ uttarāti anuttarā. Raṇanti etehīti raṇā; yehi abhibhūtā sattā nānappakārena kandanti paridevanti, tesaṃ rāgādīnaṃ etaṃ adhivacanaṃ. Sampayogavasena pahānekaṭṭhatāvasena ca saha raṇehīti saraṇā. Tenākārena natthi etesaṃ raṇāti araṇā. ^1-556
 
 #### Suttantikadukamātikāpadavaṇṇanā ^1-3-1-0
 
-![[pi-1#^1-0b-101]]
-![[pi-1#^1-0b-102]]
-![[pi-1#^1-0b-103]]
-![[pi-1#^1-0b-104]]
-![[pi-1#^1-0b-105]]
-![[pi-1#^1-0b-106]]
-![[pi-1#^1-0b-107]]
-![[pi-1#^1-0b-108]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-101]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-102]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-103]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-104]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-105]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-106]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-107]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-108]]
 
 Suttantikadukesu sampayogavasena vijjaṃ bhajantīti vijjābhāgino; vijjābhāge vijjākoṭṭhāse vattantītipi vijjābhāgino. Tattha vipassanāñāṇaṃ, manomayiddhi, cha abhiññāti aṭṭha vijjā. Purimena atthena tāhi sampayuttadhammāpi vijjābhāgino. Pacchimena atthena tāsu yā kāci ekā vijjā vijjā. Sesā vijjābhāginoti. Evaṃ vijjāpi vijjāya sampayuttadhammāpi vijjābhāginotveva veditabbā. Idha pana sampayuttadhammāva adhippetā. Sampayogavaseneva avijjaṃ bhajantīti avijjābhāgino. Avijjābhāge avijjākoṭṭhāse vattantītipi avijjābhāgino. Tattha dukkhapaṭicchādakaṃ tamo samudayādipaṭicchādakanti catasso avijjā. Purimanayeneva tāhi sampayuttadhammāpi avijjābhāgino. Tāsu yā kāci ekā avijjā avijjā. Sesā avijjābhāginoti. Evaṃ avijjāpi avijjāya sampayuttadhammāpi avijjābhāginotveva veditabbā. Idha pana sampayuttadhammāva adhippetā. ^1-557
 
@@ -1641,49 +1648,49 @@ Puna anajjhottharaṇabhāvena kilesandhakāraṃ viddhaṃsetuṃ asamatthatāy
 
 Adhivacanadukādayo tayo atthato ninnānākaraṇā; byañjanamevettha nānaṃ. Sirivaḍḍhako dhanavaḍḍhakoti ādayo hi vacanamattameva adhikāraṃ katvā pavattā adhivacanā nāma. Adhivacanānaṃ pathā adhivacanapathā. "Abhisaṅkharontīti kho, bhikkhave, tasmā saṅkhārā"ti (saṃ. ni. 3.79) evaṃ niddhāretvā sahetukaṃ katvā vuccamānā abhilāpā nirutti nāma. Niruttīnaṃ pathā niruttipathā. Takko vitakko saṅkappoti (dha. sa. 7) evaṃ tena tena pakārena ñāpanato paññatti nāma. Paññattīnaṃ pathā paññattipathā. Ettha ca ekaṃ dukaṃ vatvāpi itaresaṃ vacane payojanaṃ hetugocchake vuttanayeneva veditabbaṃ. ^1-559
 
-![[pi-1#^1-0b-109]]
-![[pi-1#^1-0b-110]]
-![[pi-1#^1-0b-111]]
-![[pi-1#^1-0b-112]]
-![[pi-1#^1-0b-113]]
-![[pi-1#^1-0b-114]]
-![[pi-1#^1-0b-115]]
-![[pi-1#^1-0b-116]]
-![[pi-1#^1-0b-117]]
-![[pi-1#^1-0b-118]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-109]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-110]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-111]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-112]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-113]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-114]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-115]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-116]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-117]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-118]]
 
 Nāmarūpaduke nāmakaraṇaṭṭhena namanaṭṭhena nāmanaṭṭhena ca nāmaṃ. Ruppanaṭṭhena rūpaṃ. Ayamettha saṅkhepo. Vitthāro pana nikkhepakaṇḍe āvi bhavissati. Avijjāti dukkhādīsu aññāṇaṃ. Bhavataṇhāti bhavapatthanā. Bhavadiṭṭhīti bhavo vuccati sassataṃ; sassatavasena uppajjanadiṭṭhi. Vibhavadiṭṭhīti vibhavo vuccati ucchedaṃ; ucchedavasena uppajjanadiṭṭhi. Sassato attā ca loko cāti pavattā diṭṭhi sassatadiṭṭhi. Ucchijjissatīti pavattā diṭṭhi ucchedadiṭṭhi. Antavāti pavattā diṭṭhi antavādiṭṭhi. Anantavāti pavattā diṭṭhi anantavādiṭṭhi. Pubbantaṃ anugatā diṭṭhi pubbantānudiṭṭhi. Aparantaṃ anugatā diṭṭhi aparantānudiṭṭhi. Ahirikanti yaṃ na hiriyati hiriyitabbenāti (dha. sa. 387) evaṃ vitthāritā nillajjatā. Anottappanti yaṃ na ottappati ottappitabbenāti evaṃ vitthārito abhāyanakaākāro. Hiriyanā hirī, ottappanā ottappaṃ. Dovacassatādīsu dukkhaṃ vaco etasmiṃ vippaṭikūlagāhimhi vipaccanīkasāte anādare puggaleti dubbaco. Tassa kammaṃ dovacassaṃ. Tassa bhāvo dovacassatā. Pāpā assaddhādayo puggalā etassa mittāti pāpamitto; tassa bhāvo pāpamittatā. Sovacassatā ca kalyāṇamittatā ca vuttapaṭipakkhanayena veditabbā. ^1-560
 
-![[pi-1#^1-0b-119]]
-![[pi-1#^1-0b-120]]
-![[pi-1#^1-0b-121]]
-![[pi-1#^1-0b-122]]
-![[pi-1#^1-0b-123]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-119]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-120]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-121]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-122]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-123]]
 
 ‘Pañcapi āpattikkhandhā āpattiyo, sattapi āpattikkhandhā āpattiyo’ti (dha. sa. 1336) evaṃ vuttāsu āpattīsu kusalabhāvo āpattikusalatā. Tāhi āpattīhi vuṭṭhāne kusalabhāvo āpattivuṭṭhānakusalatā. Samāpattīsu kusalabhāvo samāpattikusalatā. Samāpattīnaṃ appanāparicchedapaññāyetaṃ adhivacanaṃ. Samāpattīhi vuṭṭhāne kusalabhāvo samāpattivuṭṭhānakusalatā. Aṭṭhārasasu dhātūsu kusalabhāvo dhātukusalatā. Tāsaṃyeva dhātūnaṃ manasikāre kusalabhāvo manasikārakusalatā. Cakkhāyatanādīsu kusalabhāvo āyatanakusalatā. Dvādasaṅge paṭiccasamuppāde kusalabhāvo paṭiccasamuppādakusalatā. Tasmiṃ tasmiṃ ṭhāne kusalabhāvo ṭhānakusalatā. Ṭhānanti kāraṇaṃ vuccati. Tasmiñhi tadāyattavuttitāya phalaṃ tiṭṭhati nāma, tasmā ṭhānanti vuttaṃ. Aṭṭhāne kusalabhāvo aṭṭhānakusalatā. ^1-561
 
-![[pi-1#^1-0b-124]]
-![[pi-1#^1-0b-125]]
-![[pi-1#^1-0b-126]]
-![[pi-1#^1-0b-127]]
-![[pi-1#^1-0b-128]]
-![[pi-1#^1-0b-129]]
-![[pi-1#^1-0b-130]]
-![[pi-1#^1-0b-131]]
-![[pi-1#^1-0b-132]]
-![[pi-1#^1-0b-133]]
-![[pi-1#^1-0b-134]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-124]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-125]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-126]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-127]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-128]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-129]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-130]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-131]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-132]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-133]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-134]]
 
 Ujubhāvo ajjavo. Mudubhāvo maddavo. Adhivāsanasaṅkhāto khamanabhāvo khanti. Suratassa bhāvo soraccaṃ. Sammodakamudubhāvasaṅkhāto sakhilabhāvo sākhalyaṃ. Yathā parehi saddhiṃ attano chiddaṃ na hoti evaṃ dhammāmisehi paṭisantharaṇaṃ paṭisanthāro. Indriyasaṃvarabhedasaṅkhāto manacchaṭṭhesu indriyesu aguttadvārabhāvo indriyesu aguttadvāratā. Paṭiggahaṇaparibhogavasena bhojane mattaṃ ajānanabhāvo bhojane amattaññutā. Anantaraduko vuttapaṭipakkhanayena veditabbo. Sativippavāsasaṅkhāto muṭṭhassatibhāvo muṭṭhassaccaṃ. Asampajānabhāvo asampajaññaṃ. Saratīti sati. Sampajānātīti sampajaññaṃ. Appaṭisaṅkhāne akampanaṭṭhena paṭisaṅkhānasaṅkhātaṃ balaṃ paṭisaṅkhānabalaṃ. Vīriyasīsena satta bojjhaṅge bhāventassa uppannaṃ balaṃ bhāvanābalaṃ. Paccanīkadhamme sametīti samatho. Aniccādivasena vividhena ākārena passatīti vipassanā. Samathova taṃ ākāraṃ gahetvā puna pavattetabbassa samathassa nimittavasena samathanimittaṃ. Paggāhanimittepi eseva nayo. Sampayuttadhamme paggaṇhātīti paggāho. Na vikkhipatīti avikkhepo. ^1-562
 
-![[pi-1#^1-0b-135]]
-![[pi-1#^1-0b-136]]
-![[pi-1#^1-0b-137]]
-![[pi-1#^1-0b-138]]
-![[pi-1#^1-0b-139]]
-![[pi-1#^1-0b-140]]
-![[pi-1#^1-0b-141]]
-![[pi-1#^1-0b-142]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-135]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-136]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-137]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-138]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-139]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-140]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-141]]
+![[1-SOURCES/Text/pi-1.md#^1-MII-142]]
 
 Sīlavināsikā asaṃvarasaṅkhātā sīlassa vipatti sīlavipatti. Sammādiṭṭhivināsikā micchādiṭṭhisaṅkhātā diṭṭhiyā vipatti diṭṭhivipatti. Soraccameva sīlassa sampādanato sīlaparipūraṇato sīlassa sampadāti sīlasampadā. Diṭṭhipāripūribhūtaṃ ñāṇaṃ diṭṭhiyā sampadāti diṭṭhisampadā. Visuddhibhāvaṃ sampattā sīlasaṅkhātā sīlassa visuddhi, sīlavisuddhi. Nibbānasaṅkhātaṃ visuddhiṃ pāpetuṃ samatthā, dassanasaṅkhātā, diṭṭhiyā visuddhi diṭṭhivisuddhi. Diṭṭhivisuddhi kho pana yathādiṭṭhissa ca padhānanti kammassakataññāṇādisaṅkhātā diṭṭhivisuddhi ceva yathādiṭṭhissa ca anurūpadiṭṭhissa kalyāṇadiṭṭhissa taṃsampayuttameva padhānaṃ. Saṃvegoti jātiādīni paṭicca uppannabhayasaṅkhātaṃ saṃvijjanaṃ. Saṃvejaniyaṭṭhānanti saṃvegajanakaṃ jātiādikāraṇaṃ. Saṃviggassa ca yonisopadhānanti evaṃ saṃvegajātassa upāyapadhānaṃ. Asantuṭṭhitā ca kusalesu dhammesūti kusaladhammapūraṇe asantuṭṭhibhāvo. Appaṭivānitā ca padhānasminti arahattaṃ apatvā padhānasmiṃ anivattanatā anosakkanatā. Vijānanato vijjā. Vimuccanato vimutti. Khaye ñāṇanti kilesakkhayakare ariyamagge ñāṇaṃ. Anuppāde ñāṇanti paṭisandhivasena anuppādabhūte taṃtaṃmaggavajjhakilesānaṃ anuppādapariyosāne uppanne ariyaphale ñāṇaṃ. Ayaṃ mātikāya anupubbapadavaṇṇanā. ^1-563
 
@@ -1691,7 +1698,7 @@ Dukamātikāpadavaṇṇanā niṭṭhitā. ^1-564
 
 ### Kāmāvacarakusalapadabhājanīyaṃ ^1-4-0
 
-![[pi-1#^1-1]]
+![[1-SOURCES/Text/pi-1.md#^1-1]]
 
 Idāni yathānikkhittāya mātikāya saṅgahite dhamme pabhedato dassetuṃ katame dhammā kusalāti idaṃ padabhājanīyaṃ āraddhaṃ. Tattha yadetaṃ yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hotīti paṭhamaṃ kāmāvacarakusalaṃ dassitaṃ, tassa tāva niddese dhammavavatthānavāro saṅgahavāro suññatavāroti tayo mahāvārā honti. Tesu dhammavavatthānavāro uddesaniddesavasena dvidhā ṭhito. Tesu uddesavārassa pucchā, samayaniddeso, dhammuddeso, appanāti cattāro paricchedā. Tesu ‘katame dhammā kusalā’ti ayaṃ pucchā nāma. ‘Yasmiṃ samaye kāmāvacaraṃ…pe… tasmiṃ samaye’ti ayaṃ samayaniddeso nāma. ‘Phasso hoti…pe… avikkhepo hotī’ti ayaṃ dhammuddeso nāma. ‘Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ime dhammā kusalā’ti ayaṃ appanā nāma. ^1-565
 
@@ -2434,7 +2441,7 @@ Dhammuddesavārakathā niṭṭhitā. ^1-900
 
 #### Kāmāvacarakusalaṃ niddesavārakathā ^1-4-4-0
 
-![[pi-1#^1-2]]
+![[1-SOURCES/Text/pi-1.md#^1-2]]
 
 Idāni tāneva dhammuddesavāre pāḷiāruḷhāni chappaññāsa padāni vibhajitvā dassetuṃ ‘katamo tasmiṃ samaye phasso hotī’tiādinā nayena niddesavāro āraddho. ^1-901
 
@@ -2462,19 +2469,21 @@ Byañjanavasena upasaggavasena atthavasena ca punappunaṃ bhaṇanameva daḷh�
 
 Ayaṃ tasmiṃ samaye phasso hotīti yasmiṃ samaye paṭhamaṃ kāmāvacaraṃ mahākusalacittaṃ uppajjati, tasmiṃ samaye ayaṃ phasso nāma hotīti attho. Ayaṃ tāva phassapadaniddesassa vaṇṇanā. Ito paresu pana vedanādīnaṃ padānaṃ niddesesu visesamattameva vaṇṇayissāma. Sesaṃ idha vuttanayeneva veditabbaṃ. ^1-913
 
-![[pi-1#^1-3]]
+![[1-SOURCES/Text/pi-1.md#^1-3]]
 
 Yaṃ tasmiṃ samayeti ettha kiñcāpi katamā tasmiṃ samaye vedanā hotīti āraddhaṃ, ‘sātapadavasena pana ‘ya’nti vuttaṃ. Tajjāmanoviññāṇadhātusamphassajanti ettha ‘tajjā’ vuccati tassa sātasukhassa anucchavikā sāruppā. Anucchavikatthopi hi ayaṃ ‘tajjā’-saddo hoti. Yathāha – "tajjaṃ tassāruppaṃ kathaṃ mantetī"ti (ma. ni. 3.246). Tehi vā rūpādīhi ārammaṇehi imassa ca sukhassa paccayehi jātātipi tajjā. Manoviññāṇameva nissattaṭṭhena dhātūti manoviññāṇadhātu. Samphassato jātaṃ, samphasse vā jātanti samphassajaṃ. Cittanissitattā cetasikaṃ. Madhuraṭṭhena sātaṃ. Idaṃ vuttaṃ hoti – yaṃ tasmiṃ samaye yathāvuttena atthena tajjāya manoviññāṇadhātuyā samphassajaṃ cetasikaṃ sātaṃ, ayaṃ tasmiṃ samaye vedanā hotīti. Evaṃ sabbapadehi saddhiṃ yojanā veditabbā. ^1-914
 
 Idāni cetasikaṃ sukhantiādīsu cetasikapadena kāyikasukhaṃ paṭikkhipati, sukhapadena cetasikaṃ dukkhaṃ. Cetosamphassajanti cittasamphasse jātaṃ. Sātaṃ sukhaṃ vedayitanti sātaṃ vedayitaṃ, na asātaṃ vedayitaṃ; sukhaṃ vedayitaṃ, na dukkhaṃ vedayitaṃ. Parato tīṇi padāni itthiliṅgavasena vuttāni. Sātā vedanā, na asātā; sukhā vedanā, na dukkhāti. Ayameva panettha attho. ^1-915
 
-![[pi-1#^1-4]]
+![[1-SOURCES/Text/pi-1.md#^1-4]]
 
 Saññāniddese tajjāmanoviññāṇadhātusamphassajāti tassākusalasaññāya anucchavikāya manoviññāṇadhātuyā samphassamhi jātā. Saññāti sabhāvanāmaṃ. Sañjānanāti sañjānanākāro. Sañjānitattanti sañjānitabhāvo. ^1-916
 
-![[pi-1#^1-5]]
+![[1-SOURCES/Text/pi-1.md#^1-5]]
 
 Cetanāniddesepi imināva nayena veditabbo. ^1-917
+
+![[1-SOURCES/Text/pi-1.md#^1-6]]
 
 Cittaniddese cittavicittatāya cittaṃ. Ārammaṇaṃ minamānaṃ jānātīti mano. Mānasanti mano eva. "Antalikkhacaro pāso yvāyaṃ carati mānaso"ti (saṃ. ni. 1.151; mahāva. 33) hi ettha pana sampayuttakadhammo ‘mānaso’ti vutto. ^1-918
 
@@ -2497,19 +2506,19 @@ Imesañca pana phassapañcamakānaṃ dhammānaṃ pāṭiyekkaṃ pāṭiyekka�
 
 "Dukkaraṃ, mahārāja, bhagavatā katanti. ‘Kiṃ, bhante nāgasena, bhagavatā dukkaraṃ kata’nti. ‘Dukkaraṃ, mahārāja, bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ ekārammaṇe pavattamānānaṃ vavatthānaṃ akkhātaṃ – ayaṃ phasso, ayaṃ vedanā, ayaṃ saññā, ayaṃ cetanā, idaṃ citta’nti. ‘Opammaṃ, bhante, karohī’ti. ‘Yathā, mahārāja, kocideva puriso nāvāya samuddaṃ ajjhogāhetvā hatthapuṭena udakaṃ gahetvā jivhāya sāyitvā jāneyya nu kho, mahārāja, so puriso – idaṃ gaṅgāya udakaṃ, idaṃ yamunāya udakaṃ, idaṃ aciravatiyā udakaṃ, idaṃ sarabhuyā udakaṃ, idaṃ mahiyā udaka’nti? ‘Dukkaraṃ, bhante, jānitu’nti. ‘Tato dukkarataraṃ kho, mahārāja, bhagavatā kataṃ yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ…pe… idaṃ citta"’nti (mi. pa. 2.7.16). ^1-927
 
-![[pi-1#^1-7]]
+![[1-SOURCES/Text/pi-1.md#^1-7]]
 
 Vitakkaniddese takkanavasena takko. Tassa tittakaṃ takkesi kumbhaṃ takkesi sakaṭaṃ takkesi yojanaṃ takkesi addhayojanaṃ takkesīti evaṃ takkanavasena pavatti veditabbā. Idaṃ takkassa sabhāvapadaṃ. Vitakkanavasena vitakko. Balavataratakkassetaṃ nāmaṃ. Suṭṭhu kappanavasena saṅkappo. Ekaggaṃ cittaṃ ārammaṇe appetīti appanā. Dutiyapadaṃ upasaggavasena vaḍḍhitaṃ . Balavatarā vā appanā byappanā. Ārammaṇe cittaṃ abhiniropeti patiṭṭhāpetīti cetaso abhiniropanā. Yāthāvatāya niyyānikatāya ca kusalabhāvappatto pasattho saṅkappoti sammāsaṅkappo. ^1-928
 
-![[pi-1#^1-8]]
+![[1-SOURCES/Text/pi-1.md#^1-8]]
 
 Vicāraniddese ārammaṇe caraṇakavasena cāro. Idamassa sabhāvapadaṃ. Vicaraṇavasena vicāro. Anugantvā vicaraṇavasena anuvicāro. Upagantvā vicaraṇavasena upavicāroti. Upasaggavasena vā padāni vaḍḍhitāni. Ārammaṇe cittaṃ, saraṃ viya jiyāya, anusandahitvā ṭhapanato cittassa anusandhānatā. Ārammaṇaṃ anupekkhamāno viya tiṭṭhatīti anupekkhanatā. Vicaraṇavasena vā upekkhanatā anupekkhanatā. ^1-929
 
-![[pi-1#^1-9]]
+![[1-SOURCES/Text/pi-1.md#^1-9]]
 
 Pītiniddese pītīti sabhāvapadaṃ. Pamuditassa bhāvo pāmojjaṃ. Āmodanākāro āmodanā. Pamodanākāro pamodanā. Yathā vā bhesajjānaṃ vā telānaṃ vā uṇhodakasītodakānaṃ vā ekatokaraṇaṃ modanāti vuccati, evamayampi pīti dhammānaṃ ekatokaraṇena modanā. Upasaggavasena pana maṇḍetvā āmodanā pamodanāti vuttā. Hāsetīti hāso. Pahāsetīti pahāso. Haṭṭhapahaṭṭhākārānametaṃ adhivacanaṃ. Vittīti vittaṃ; dhanassetaṃ nāmaṃ. Ayaṃ pana somanassapaccayattā vittisarikkhatāya vitti. Yathā hi dhanino dhanaṃ paṭicca somanassaṃ uppajjati, evaṃ pītimatopi pītiṃ paṭicca somanassaṃ uppajjati, tasmā vittīti vuttā. Tuṭṭhisabhāvasaṇṭhitāya pītiyā etaṃ nāmaṃ. Pītimā pana puggalo kāyacittānaṃ uggatattā abbhuggatattā udaggoti vuccati . Udaggassa bhāvo odagyaṃ. Attano manatā attamanatā. Anabhiraddhassa hi mano dukkhapadaṭṭhānattā attano mano nāma na hoti, abhiraddhassa pana sukhapadaṭṭhānattā attano mano nāma hoti. Iti attano manatā attamanatā, sakamanatā. Sakamanassa bhāvoti attho. Sā pana yasmā na aññassa kassaci attano manatā, cittasseva paneso bhāvo, cetasiko dhammo, tasmā attamanatā cittassāti vuttā. ^1-930
 
-![[pi-1#^1-11]]
+![[1-SOURCES/Text/pi-1.md#^1-11]]
 
 Ekaggatāniddese acalabhāvena ārammaṇe tiṭṭhatīti ṭhiti. Parato padadvayaṃ upasaggavasena vaḍḍhitaṃ. Apica sampayuttadhamme ārammaṇamhi sampiṇḍetvā tiṭṭhatīti saṇṭhiti. Ārammaṇaṃ ogāhetvā anupavisitvā tiṭṭhatīti avaṭṭhiti. Kusalapakkhasmiñhi cattāro dhammā ārammaṇaṃ ogāhanti – saddhā sati samādhi paññāti. Teneva saddhā okappanāti vuttā, sati apilāpanatāti, samādhi avaṭṭhitīti, paññā pariyogāhanāti. Akusalapakkhe pana tayo dhammā ārammaṇaṃ ogāhanti – taṇhā diṭṭhi avijjāti. Teneva te oghāti vuttā. Cittekaggatā panettha na balavatī hoti. Yathā hi rajuṭṭhānaṭṭhāne udakena siñcitvā sammaṭṭhe thokameva kālaṃ rajo sannisīdati, sukkhante sukkhante puna pakatibhāvena vuṭṭhāti, evameva akusalapakkhe cittekaggatā na balavatī hoti. Yathā pana tasmiṃ ṭhāne ghaṭehi udakaṃ āsiñcitvā kudālena khanitvā ākoṭanamaddanaghaṭṭanāni katvā upalitte ādāse viya chāyā paññāyati, vassasatātikkamepi taṃmuhuttakataṃ viya hoti, evameva kusalapakkhe cittekaggatā balavatī hoti. ^1-931
 
@@ -2517,11 +2526,11 @@ Uddhaccavicikicchāvasena pavattassa visāhārassa paṭipakkhato avisāhāro. U
 
 Samathoti tividho samatho – cittasamatho, adhikaraṇasamatho, sabbasaṅkhārasamathoti. Tattha aṭṭhasu samāpattīsu cittekaggatā cittasamatho nāma. Tañhi āgamma cittacalanaṃ cittavipphanditaṃ sammati vūpasammati, tasmā so cittasamathoti vuccati. Sammukhāvinayādisattavidho samatho adhikaraṇasamatho nāma. Tañhi āgamma tāni tāni adhikaraṇāni sammanti vūpasammanti, tasmā so adhikaraṇasamathoti vuccati. Yasmā pana sabbe saṅkhārā nibbānaṃ āgamma sammanti vūpasammanti, tasmā taṃ sabbasaṅkhārasamathoti vuccati. Imasmiṃ atthe cittasamatho adhippeto. Samādhilakkhaṇe indaṭṭhaṃ kāretīti samādhindriyaṃ. Uddhacce na kampatīti samādhibalaṃ. Sammāsamādhīti yāthāvasamādhi niyyānikasamādhi kusalasamādhi. ^1-933
 
-![[pi-1#^1-12]]
+![[1-SOURCES/Text/pi-1.md#^1-12]]
 
 Saddhindriyaniddese buddhādiguṇānaṃ saddahanavasena saddhā. Buddhādīni vā ratanāni saddahati pattiyāyatīti saddhā. Saddahanāti saddahanākāro. Buddhādīnaṃ guṇe ogāhati, bhinditvā viya anupavisatīti okappanā. Buddhādīnaṃ guṇesu etāya sattā ativiya pasīdanti, sayaṃ vā abhippasīdatīti abhippasādo. Idāni yasmā saddhindriyādīnaṃ samāsapadānaṃ vasena aññasmiṃ pariyāye āraddhe ādipadaṃ gahetvāva padabhājanaṃ karīyati – ayaṃ abhidhamme dhammatā – tasmā puna saddhāti vuttaṃ. Yathā vā itthiyā indriyaṃ itthindriyaṃ, na tathā idaṃ. Idaṃ pana saddhāva indriyaṃ saddhindriyanti. Evaṃ samānādhikaraṇabhāvañāpanatthampi puna saddhāti vuttaṃ. Evaṃ sabbapadaniddesesu ādipadassa puna vacane payojanaṃ veditabbaṃ. Adhimokkhalakkhaṇe indaṭṭhaṃ kāretīti saddhindriyaṃ. Asaddhiye na kampatīti saddhābalaṃ. ^1-934
 
-![[pi-1#^1-13]]
+![[1-SOURCES/Text/pi-1.md#^1-13]]
 
 Vīriyindriyaniddese cetasikoti idaṃ vīriyassa niyamato cetasikabhāvadīpanatthaṃ vuttaṃ. Idañhi vīriyaṃ "yadapi, bhikkhave, kāyikaṃ vīriyaṃ tadapi vīriyasambojjhaṅgo, yadapi cetasikaṃ vīriyaṃ tadapi vīriyasambojjhaṅgoti. Itihidaṃ uddesaṃ gacchatī"ti (saṃ. ni. 5.233) evamādīsu suttesu caṅkamādīni karontassa uppannattā ‘kāyika’nti vuccamānampi kāyaviññāṇaṃ viya kāyikaṃ nāma natthi, cetasikameva panetanti dassetuṃ ‘cetasiko’ti vuttaṃ. Vīriyārambhoti vīriyasaṅkhāto ārambho. Iminā sesārambhe paṭikkhipati. Ayañhi ‘ārambha’-saddo kamme āpattiyaṃ kiriyāyaṃ vīriye hiṃsāya vikopaneti anekesu atthesu āgato. ^1-935
 
@@ -2534,11 +2543,11 @@ Aparo nayo – nikkamo ceso kāmānaṃ panudanāya, parakkamo ceso bandhanacche
 
 "Kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatū"ti (ma. ni. 2.184; saṃ. ni. 2.22, 237; a. ni. 2.5; mahāni. 196; cūḷani. khaggavisāṇasuttaniddesa 154) evaṃ pavattikāle asithilaparakkamavasena asithilaparakkamatā; thiraparakkamo, daḷhaparakkamoti attho. Yasmā panetaṃ vīriyaṃ kusalakammakaraṇaṭṭhāne chandaṃ na nikkhipati, dhuraṃ na nikkhipati, na otāreti, na vissajjeti, anosakkitamānasataṃ āvahati, tasmā anikkhittachandatā anikkhittadhuratāti vuttaṃ. Yathā pana tajjātike udakasambhinnaṭṭhāne dhuravāhagoṇaṃ gaṇhathāti vadanti , so jaṇṇunā bhūmiṃ uppīḷetvāpi dhuraṃ vahati, bhūmiyaṃ patituṃ na deti, evameva vīriyaṃ kusalakammakaraṇaṭṭhāne dhuraṃ ukkhipati paggaṇhāti, tasmā dhurasampaggāhoti vuttaṃ. Paggahalakkhaṇe indaṭṭhaṃ kāretīti vīriyindriyaṃ. Kosajje na kampatīti vīriyabalaṃ. Yāthāvaniyyānikakusalavāyāmatāya sammāvāyāmo. ^1-939
 
-![[pi-1#^1-14]]
+![[1-SOURCES/Text/pi-1.md#^1-14]]
 
 Satindriyaniddese saraṇakavasena sati. Idaṃ satiyā sabhāvapadaṃ. Punappunaṃ saraṇato anussaraṇavasena anussati. Abhimukhaṃ gantvā viya saraṇato paṭisaraṇavasena paṭissati. Upasaggavasena vā vaḍḍhitamattametaṃ. Saraṇākāro saraṇatā. Yasmā pana saraṇatāti tiṇṇaṃ saraṇānampi nāmaṃ, tasmā taṃ paṭisedhetuṃ puna satiggahaṇaṃ kataṃ. Satisaṅkhātā saraṇatāti ayañhettha attho. Sutapariyattassa dhāraṇabhāvato dhāraṇatā. Anupavisanasaṅkhātena ogāhanaṭṭhena apilāpanabhāvo apilāpanatā. Yathā hi lābukaṭāhādīni udake plavanti, na anupavisanti, na tathā ārammaṇe sati. Ārammaṇañhesā anupavisati, tasmā apilāpanatāti vuttā. Cirakatacirabhāsitānaṃ asammussanabhāvato asammussanatā. Upaṭṭhānalakkhaṇe jotanalakkhaṇe ca indaṭṭhaṃ kāretīti indriyaṃ. Satisaṅkhātaṃ indriyaṃ satindriyaṃ. Pamāde na kampatīti satibalaṃ. Yāthāvasati niyyānikasati kusalasatīti sammāsati. ^1-940
 
-![[pi-1#^1-16]]
+![[1-SOURCES/Text/pi-1.md#^1-16]]
 
 Paññindriyaniddese tassa tassa atthassa pākaṭakaraṇasaṅkhātena paññāpanaṭṭhena paññā. Tena tena vā aniccādinā pakārena dhamme jānātītipi paññā. Idamassā sabhāvapadaṃ. Pajānanākāro pajānanā. Aniccādīni vicinātīti vicayo. Pavicayoti upasaggena padaṃ vaḍḍhitaṃ . Catusaccadhamme vicinātīti dhammavicayo. Aniccādīnaṃ sallakkhaṇavasena sallakkhaṇā. Sāyeva puna upasagganānattena upalakkhaṇā paccupalakkhaṇāti vuttā. Paṇḍitassa bhāvo paṇḍiccaṃ. Kusalassa bhāvo kosallaṃ. Nipuṇassa bhāvo nepuññaṃ. Aniccādīnaṃ vibhāvanavasena vebhabyā. Aniccādīnaṃ cintanakavasena cintā. Yassa vā uppajjati taṃ aniccādīni cintāpetītipi cintā. Aniccādīni upaparikkhatīti upaparikkhā. Bhūrīti pathaviyā nāmaṃ. Ayampi saṇhaṭṭhena vitthaṭaṭṭhena ca bhūrī viyāti bhūrī. Tena vuttaṃ – "bhūrī vuccati pathavī . Tāya pathavīsamāya vitthaṭāya vipulāya paññāya samannāgatoti bhūripaññoti (mahāni. 27). Apica paññāya etaṃ adhivacanaṃ bhūrī"ti. Bhūte atthe ramatītipi bhūrī. Asani viya siluccaye kilese medhati hiṃsatīti medhā. Khippaṃ gahaṇadhāraṇaṭṭhena vā medhā. Yassa uppajjati taṃ attahitapaṭipattiyaṃ sampayuttadhamme ca yāthāvalakkhaṇapaṭivedhe parinetīti pariṇāyikā. Aniccādivasena dhamme vipassatīti vipassanā. Sammā pakārehi aniccādīni jānātīti sampajaññaṃ. Uppathapaṭipanne sindhave vīthiāropanatthaṃ patodo viya uppathe dhāvanakaṃ kūṭacittaṃ vīthiāropanatthaṃ vijjhatīti patodo viya patodo. Dassanalakkhaṇe indaṭṭhaṃ kāretīti indriyaṃ. Paññāsaṅkhātaṃ indriyaṃ paññindriyaṃ. Avijjāya na kampatīti paññābalaṃ. Kilesacchedanaṭṭhena paññāva satthaṃ paññāsatthaṃ. Accuggataṭṭhena paññāva pāsādo paññāpāsādo. ^1-941
 
@@ -2546,53 +2555,53 @@ Paññindriyaniddese tassa tassa atthassa pākaṭakaraṇasaṅkhātena paññ�
 
 Ratikaraṇaṭṭhena pana ratidāyakaṭṭhena ratijanakaṭṭhena cittīkataṭṭhena dullabhapātubhāvaṭṭhena atulaṭṭhena anomasattaparibhogaṭṭhena ca paññāva ratanaṃ paññāratanaṃ. Na tena sattā muyhanti, sayaṃ vā ārammaṇe na muyhatīti amoho. Dhammavicayapadaṃ vuttatthameva. Kasmā panetaṃ puna vuttanti? Amohassa mohapaṭipakkhabhāvadīpanatthaṃ . Tenetaṃ dīpeti – yvāyaṃ amoho so na kevalaṃ mohato añño dhammo, mohassa pana paṭipakkho, dhammavicayasaṅkhāto amoho nāma idha adhippetoti. Sammādiṭṭhīti yāthāvaniyyānikakusaladiṭṭhi. ^1-943
 
-![[pi-1#^1-19]]
+![[1-SOURCES/Text/pi-1.md#^1-19]]
 
 Jīvitindriyaniddese yo tesaṃ arūpīnaṃ dhammānaṃ āyūti tesaṃ sampayuttakānaṃ arūpadhammānaṃ yo āyāpanaṭṭhena āyu, tasmiñhi sati arūpadhammā ayanti gacchanti pavattanti, tasmā āyūti vuccati. Idamassa sabhāvapadaṃ. Yasmā panete dhammā āyusmiṃyeva sati tiṭṭhanti yapenti yāpenti iriyanti vattanti pālayanti, tasmā ṭhitītiādīni vuttāni. Vacanattho panettha – etāya tiṭṭhantīti ṭhiti. Yapentīti yapanā. Tathā yāpanā. Evaṃ bujjhantānaṃ pana vasena purimapade rassattaṃ kataṃ. Etāya iriyantīti iriyanā. Vattantīti vattanā. Pālayantīti pālanā. Jīvanti etenāti jīvitaṃ. Anupālanalakkhaṇe indaṭṭhaṃ kāretīti jīvitindriyaṃ. ^1-944
 
-![[pi-1#^1-30]]
+![[1-SOURCES/Text/pi-1.md#^1-30]]
 
 Hiribalaniddese yaṃ tasmiṃ samayeti yena dhammena tasmiṃ samaye. Liṅgavipallāsaṃ vā katvā yo dhammo tasmiṃ samayetipi attho veditabbo. Hiriyitabbenāti upayogatthe karaṇavacanaṃ. Hiriyitabbayuttakaṃ kāyaduccaritādidhammaṃ hiriyati jigucchatīti attho. Pāpakānanti lāmakānaṃ. Akusalānaṃ dhammānanti akosallasambhūtānaṃ dhammānaṃ. Samāpattiyāti idampi upayogatthe karaṇavacanaṃ. Tesaṃ dhammānaṃ samāpattiṃ paṭilābhaṃ samaṅgībhāvaṃ hiriyati jigucchatīti attho. ^1-945
 
-![[pi-1#^1-31]]
+![[1-SOURCES/Text/pi-1.md#^1-31]]
 
 Ottappabalaniddese ottappitabbenāti hetvatthe karaṇavacanaṃ. Ottappitabbayuttakena ottappassa hetubhūtena kāyaduccaritādinā vuttappakārāya ca samāpattiyā ottappassa hetubhūtāya ottappati, bhāyatīti attho. ^1-946
 
-![[pi-1#^1-32]]
+![[1-SOURCES/Text/pi-1.md#^1-32]]
 
 Alobhaniddese alubbhanakavasena alobho. Na lubbhatītipi alobho. Idamassa sabhāvapadaṃ. Alubbhanāti alubbhanākāro. Lobhasamaṅgī puggalo lubbhito nāma. Na lubbhito alubbhito . Alubbhitassa bhāvo alubbhitattaṃ. Sārāgapaṭipakkhato na sārāgoti asārāgo. Asārajjanāti asārajjanākāro. Asārajjitassa bhāvo asārajjitattaṃ. Na abhijjhāyatīti anabhijjhā. Alobho kusalamūlanti alobhasaṅkhātaṃ kusalamūlaṃ. Alobho hi kusalānaṃ dhammānaṃ mūlaṃ paccayaṭṭhenāti kusalamūlaṃ. Kusalañca taṃ paccayaṭṭhena mūlañcātipi kusalamūlaṃ. ^1-947
 
-![[pi-1#^1-33]]
+![[1-SOURCES/Text/pi-1.md#^1-33]]
 
 Adosaniddese adussanakavasena adoso. Na dussatītipi adoso. Idamassa sabhāvapadaṃ. Adussanāti adussanākāro. Adussitassa bhāvo adussitattaṃ. Byāpādapaṭipakkhato na byāpādoti abyāpādo. Kodhadukkhapaṭipakkhato na byāpajjoti abyāpajjo. Adosasaṅkhātaṃ kusalamūlaṃ adoso kusalamūlaṃ. Taṃ vuttatthameva. ^1-948
 
-![[pi-1#^1-40]]
-![[pi-1#^1-41]]
+![[1-SOURCES/Text/pi-1.md#^1-40]]
+![[1-SOURCES/Text/pi-1.md#^1-41]]
 
 Kāyapassaddhiniddesādīsu yasmā kāyoti tayo khandhā adhippetā, tasmā vedanākkhandhassātiādi vuttaṃ. Passambhanti etāya te dhammā, vigatadarathā bhavanti, samassāsappattāti passaddhi. Dutiyapadaṃ upasaggavasena vaḍḍhitaṃ. Passambhanāti passambhanākāro. Dutiyapadaṃ upasaggavasena vaḍḍhitaṃ. Passaddhisamaṅgitāya paṭippassambhitassa khandhattayassa bhāvo paṭippassambhitattaṃ. Sabbapadehipi tiṇṇaṃ khandhānaṃ kilesadarathapaṭippassaddhi eva kathitā. Dutiyanayena viññāṇakkhandhassa darathapaṭippassaddhi kathitā. ^1-949
 
-![[pi-1#^1-42]]
-![[pi-1#^1-43]]
+![[1-SOURCES/Text/pi-1.md#^1-42]]
+![[1-SOURCES/Text/pi-1.md#^1-43]]
 
 Lahutāti lahutākāro. Lahupariṇāmatāti lahupariṇāmo etesaṃ dhammānanti lahupariṇāmā; tesaṃ bhāvo lahupariṇāmatā; sīghaṃ sīghaṃ parivattanasamatthatāti vuttaṃ hoti. Adandhanatāti garubhāvapaṭikkhepavacanametaṃ; abhāriyatāti attho. Avitthanatāti mānādikilesabhārassa abhāvena athaddhatā. Evaṃ paṭhamena tiṇṇaṃ khandhānaṃ lahutākāro kathito. Dutiyena viññāṇakkhandhassa lahutākāro kathito. ^1-950
 
-![[pi-1#^1-44]]
-![[pi-1#^1-45]]
+![[1-SOURCES/Text/pi-1.md#^1-44]]
+![[1-SOURCES/Text/pi-1.md#^1-45]]
 
 Mudutāti mudubhāvo. Maddavatāti maddavaṃ vuccati siniddhaṃ, maṭṭhaṃ; maddavassa bhāvo maddavatā. Akakkhaḷatāti akakkhaḷabhāvo. Akathinatāti akathinabhāvo. Idhāpi purimanayena tiṇṇaṃ khandhānaṃ, pacchimanayena viññāṇakkhandhassa mudutākārova kathito. ^1-951
 
-![[pi-1#^1-46]]
-![[pi-1#^1-47]]
+![[1-SOURCES/Text/pi-1.md#^1-46]]
+![[1-SOURCES/Text/pi-1.md#^1-47]]
 
 Kammaññatāti kammani sādhutā; kusalakiriyāya viniyogakkhamatāti attho. Sesapadadvayaṃ byañjanavasena vaḍḍhitaṃ. Padadvayenāpi hi purimanayena tiṇṇaṃ khandhānaṃ, pacchimanayena viññāṇakkhandhassa kammaniyākārova kathito. ^1-952
 
-![[pi-1#^1-48]]
-![[pi-1#^1-49]]
+![[1-SOURCES/Text/pi-1.md#^1-48]]
+![[1-SOURCES/Text/pi-1.md#^1-49]]
 
 Paguṇatāti paguṇabhāvo, anāturatā niggilānatāti attho. Sesapadadvayaṃ byañjanavasena vaḍḍhitaṃ. Idhāpi purimanayena tiṇṇaṃ khandhānaṃ, pacchimanayena viññāṇakkhandhassa niggilānākārova kathito. ^1-953
 
-![[pi-1#^1-50]]
-![[pi-1#^1-51]]
+![[1-SOURCES/Text/pi-1.md#^1-50]]
+![[1-SOURCES/Text/pi-1.md#^1-51]]
 
 Ujukatāti ujukabhāvo, ujukenākārena pavattanatāti attho. Ujukassa khandhattayassa viññāṇakkhandhassa ca bhāvo ujukatā. Ajimhatāti gomuttavaṅkabhāvapaṭikkhepo. Avaṅkatāti candalekhāvaṅkabhāvapaṭikkhepo. Akuṭilatāti naṅgalakoṭivaṅkabhāvapaṭikkhepo. ^1-954
 
@@ -2610,69 +2619,69 @@ Ettāvatā pucchā samayaniddeso dhammuddeso appanāti uddesavāre catūhi paric
 
 ##### Koṭṭhāsavāro ^1-4-4-1-0
 
-![[pi-1#^1-58]]
-![[pi-1#^1-59]]
-![[pi-1#^1-60]]
-![[pi-1#^1-61]]
-![[pi-1#^1-62]]
-![[pi-1#^1-63]]
-![[pi-1#^1-64]]
-![[pi-1#^1-65]]
-![[pi-1#^1-66]]
-![[pi-1#^1-67]]
-![[pi-1#^1-68]]
-![[pi-1#^1-69]]
-![[pi-1#^1-70]]
-![[pi-1#^1-71]]
-![[pi-1#^1-72]]
-![[pi-1#^1-73]]
-![[pi-1#^1-74]]
-![[pi-1#^1-75]]
-![[pi-1#^1-76]]
-![[pi-1#^1-77]]
-![[pi-1#^1-78]]
-![[pi-1#^1-79]]
-![[pi-1#^1-80]]
-![[pi-1#^1-81]]
-![[pi-1#^1-82]]
-![[pi-1#^1-83]]
-![[pi-1#^1-84]]
-![[pi-1#^1-85]]
-![[pi-1#^1-86]]
-![[pi-1#^1-87]]
-![[pi-1#^1-88]]
-![[pi-1#^1-89]]
-![[pi-1#^1-90]]
-![[pi-1#^1-91]]
-![[pi-1#^1-92]]
-![[pi-1#^1-93]]
-![[pi-1#^1-94]]
-![[pi-1#^1-95]]
-![[pi-1#^1-96]]
-![[pi-1#^1-97]]
-![[pi-1#^1-98]]
-![[pi-1#^1-99]]
-![[pi-1#^1-100]]
-![[pi-1#^1-101]]
-![[pi-1#^1-102]]
-![[pi-1#^1-103]]
-![[pi-1#^1-104]]
-![[pi-1#^1-105]]
-![[pi-1#^1-106]]
-![[pi-1#^1-107]]
-![[pi-1#^1-108]]
-![[pi-1#^1-109]]
-![[pi-1#^1-110]]
-![[pi-1#^1-111]]
-![[pi-1#^1-112]]
-![[pi-1#^1-113]]
-![[pi-1#^1-114]]
-![[pi-1#^1-115]]
-![[pi-1#^1-116]]
-![[pi-1#^1-117]]
-![[pi-1#^1-118]]
-![[pi-1#^1-119]]
-![[pi-1#^1-120]]
+![[1-SOURCES/Text/pi-1.md#^1-58]]
+![[1-SOURCES/Text/pi-1.md#^1-59]]
+![[1-SOURCES/Text/pi-1.md#^1-60]]
+![[1-SOURCES/Text/pi-1.md#^1-61]]
+![[1-SOURCES/Text/pi-1.md#^1-62]]
+![[1-SOURCES/Text/pi-1.md#^1-63]]
+![[1-SOURCES/Text/pi-1.md#^1-64]]
+![[1-SOURCES/Text/pi-1.md#^1-65]]
+![[1-SOURCES/Text/pi-1.md#^1-66]]
+![[1-SOURCES/Text/pi-1.md#^1-67]]
+![[1-SOURCES/Text/pi-1.md#^1-68]]
+![[1-SOURCES/Text/pi-1.md#^1-69]]
+![[1-SOURCES/Text/pi-1.md#^1-70]]
+![[1-SOURCES/Text/pi-1.md#^1-71]]
+![[1-SOURCES/Text/pi-1.md#^1-72]]
+![[1-SOURCES/Text/pi-1.md#^1-73]]
+![[1-SOURCES/Text/pi-1.md#^1-74]]
+![[1-SOURCES/Text/pi-1.md#^1-75]]
+![[1-SOURCES/Text/pi-1.md#^1-76]]
+![[1-SOURCES/Text/pi-1.md#^1-77]]
+![[1-SOURCES/Text/pi-1.md#^1-78]]
+![[1-SOURCES/Text/pi-1.md#^1-79]]
+![[1-SOURCES/Text/pi-1.md#^1-80]]
+![[1-SOURCES/Text/pi-1.md#^1-81]]
+![[1-SOURCES/Text/pi-1.md#^1-82]]
+![[1-SOURCES/Text/pi-1.md#^1-83]]
+![[1-SOURCES/Text/pi-1.md#^1-84]]
+![[1-SOURCES/Text/pi-1.md#^1-85]]
+![[1-SOURCES/Text/pi-1.md#^1-86]]
+![[1-SOURCES/Text/pi-1.md#^1-87]]
+![[1-SOURCES/Text/pi-1.md#^1-88]]
+![[1-SOURCES/Text/pi-1.md#^1-89]]
+![[1-SOURCES/Text/pi-1.md#^1-90]]
+![[1-SOURCES/Text/pi-1.md#^1-91]]
+![[1-SOURCES/Text/pi-1.md#^1-92]]
+![[1-SOURCES/Text/pi-1.md#^1-93]]
+![[1-SOURCES/Text/pi-1.md#^1-94]]
+![[1-SOURCES/Text/pi-1.md#^1-95]]
+![[1-SOURCES/Text/pi-1.md#^1-96]]
+![[1-SOURCES/Text/pi-1.md#^1-97]]
+![[1-SOURCES/Text/pi-1.md#^1-98]]
+![[1-SOURCES/Text/pi-1.md#^1-99]]
+![[1-SOURCES/Text/pi-1.md#^1-100]]
+![[1-SOURCES/Text/pi-1.md#^1-101]]
+![[1-SOURCES/Text/pi-1.md#^1-102]]
+![[1-SOURCES/Text/pi-1.md#^1-103]]
+![[1-SOURCES/Text/pi-1.md#^1-104]]
+![[1-SOURCES/Text/pi-1.md#^1-105]]
+![[1-SOURCES/Text/pi-1.md#^1-106]]
+![[1-SOURCES/Text/pi-1.md#^1-107]]
+![[1-SOURCES/Text/pi-1.md#^1-108]]
+![[1-SOURCES/Text/pi-1.md#^1-109]]
+![[1-SOURCES/Text/pi-1.md#^1-110]]
+![[1-SOURCES/Text/pi-1.md#^1-111]]
+![[1-SOURCES/Text/pi-1.md#^1-112]]
+![[1-SOURCES/Text/pi-1.md#^1-113]]
+![[1-SOURCES/Text/pi-1.md#^1-114]]
+![[1-SOURCES/Text/pi-1.md#^1-115]]
+![[1-SOURCES/Text/pi-1.md#^1-116]]
+![[1-SOURCES/Text/pi-1.md#^1-117]]
+![[1-SOURCES/Text/pi-1.md#^1-118]]
+![[1-SOURCES/Text/pi-1.md#^1-119]]
+![[1-SOURCES/Text/pi-1.md#^1-120]]
 
 Idāni tasmiṃ kho pana samaye cattāro khandhā hontīti saṅgahavāro āraddho. So uddesaniddesapaṭiniddesānaṃ vasena tividho hoti. Tattha ‘tasmiṃ kho pana samaye cattāro khandhā’ti evamādiko uddeso. Katame tasmiṃ samaye cattāro khandhā’tiādiko niddeso. Katamo tasmiṃ samaye vedanākkhandhotiādiko paṭiniddesoti veditabbo. ^1-961
 
@@ -2698,31 +2707,31 @@ Koṭṭhāsavārotipi etasseva nāmaṃ. ^1-971
 
 ##### Suññatavāro ^1-4-4-2-0
 
-![[pi-1#^1-121]]
-![[pi-1#^1-122]]
-![[pi-1#^1-123]]
-![[pi-1#^1-124]]
-![[pi-1#^1-125]]
-![[pi-1#^1-126]]
-![[pi-1#^1-127]]
-![[pi-1#^1-128]]
-![[pi-1#^1-129]]
-![[pi-1#^1-130]]
-![[pi-1#^1-131]]
-![[pi-1#^1-132]]
-![[pi-1#^1-133]]
-![[pi-1#^1-134]]
-![[pi-1#^1-135]]
-![[pi-1#^1-136]]
-![[pi-1#^1-137]]
-![[pi-1#^1-138]]
-![[pi-1#^1-139]]
-![[pi-1#^1-140]]
-![[pi-1#^1-141]]
-![[pi-1#^1-142]]
-![[pi-1#^1-143]]
-![[pi-1#^1-144]]
-![[pi-1#^1-145]]
+![[1-SOURCES/Text/pi-1.md#^1-121]]
+![[1-SOURCES/Text/pi-1.md#^1-122]]
+![[1-SOURCES/Text/pi-1.md#^1-123]]
+![[1-SOURCES/Text/pi-1.md#^1-124]]
+![[1-SOURCES/Text/pi-1.md#^1-125]]
+![[1-SOURCES/Text/pi-1.md#^1-126]]
+![[1-SOURCES/Text/pi-1.md#^1-127]]
+![[1-SOURCES/Text/pi-1.md#^1-128]]
+![[1-SOURCES/Text/pi-1.md#^1-129]]
+![[1-SOURCES/Text/pi-1.md#^1-130]]
+![[1-SOURCES/Text/pi-1.md#^1-131]]
+![[1-SOURCES/Text/pi-1.md#^1-132]]
+![[1-SOURCES/Text/pi-1.md#^1-133]]
+![[1-SOURCES/Text/pi-1.md#^1-134]]
+![[1-SOURCES/Text/pi-1.md#^1-135]]
+![[1-SOURCES/Text/pi-1.md#^1-136]]
+![[1-SOURCES/Text/pi-1.md#^1-137]]
+![[1-SOURCES/Text/pi-1.md#^1-138]]
+![[1-SOURCES/Text/pi-1.md#^1-139]]
+![[1-SOURCES/Text/pi-1.md#^1-140]]
+![[1-SOURCES/Text/pi-1.md#^1-141]]
+![[1-SOURCES/Text/pi-1.md#^1-142]]
+![[1-SOURCES/Text/pi-1.md#^1-143]]
+![[1-SOURCES/Text/pi-1.md#^1-144]]
+![[1-SOURCES/Text/pi-1.md#^1-145]]
 
 Idāni tasmiṃ kho pana samaye dhammā hontīti suññatavāro āraddho. So uddesaniddesavasena dvidhā vavatthito. Tattha uddesavāre ‘dhammā hontī’ti iminā saddhiṃ catuvīsati koṭṭhāsā honti. Sabbakoṭṭhāsesu ca ‘cattāro dve tayo’ti gaṇanaparicchedo na vutto. Kasmā? Saṅgahavāre paricchinnattā. Tattha paricchinnadhammāyeva hi idhāpi vuttā. Na hettha satto vā bhāvo vā attā vā upalabbhati. Dhammāva ete dhammamattā asārā apariṇāyakāti imissā suññatāya dīpanatthaṃ vuttā. Tasmā evamettha attho veditabbo – yasmiṃ samaye kāmāvacaraṃ paṭhamaṃ mahākusalacittaṃ uppajjati, tasmiṃ samaye cittaṅgavasena uppannā atirekapaṇṇāsadhammā sabhāvaṭṭhena dhammā eva honti. Na añño koci satto vā bhāvo vā poso vā puggalo vā hotīti. Tathā rāsaṭṭhena khandhāva hontīti. Evaṃ purimanayeneva sabbapadesu atthayojanā veditabbā. Yasmā pana jhānato aññaṃ jhānaṅgaṃ, maggato vā aññaṃ maggaṅgaṃ natthi, tasmā idha ‘jhānaṃ hoti, maggo hoti’ icceva vuttaṃ. Upanijjhāyanaṭṭhena hi jhānameva hetvaṭṭhena maggova hoti. Na añño koci satto vā bhāvo vāti. Evaṃ sabbapadesu atthayojanā kātabbā. Niddesavāro uttānatthoyevāti. ^1-972
 
@@ -2734,7 +2743,7 @@ Paṭhamacittassa atthavaṇṇanā. ^1-975
 
 ##### Dutiyacittaṃ ^1-4-4-3-0
 
-![[pi-1#^1-146]]
+![[1-SOURCES/Text/pi-1.md#^1-146]]
 
 Idāni dutiyacittādīni dassetuṃ puna "katame dhammā"tiādi āraddhaṃ. Tesu sabbesupi paṭhamacitte vuttanayeneva tayo tayo mahāvārā veditabbā. Na kevalañca mahāvārā eva, paṭhamacitte vuttasadisānaṃ sabbapadānaṃ atthopi vuttanayeneva veditabbo. Ito parampi apubbapadavaṇṇanaṃyeva karissāma. Imasmiṃ tāva dutiyacittaniddese sasaṅkhārenāti idameva apubbaṃ. Tassattho – saha saṅkhārenāti sasaṅkhāro. Tena sasaṅkhārena sappayogena saupāyena paccayagaṇenāti attho. Yena hi ārammaṇādinā paccayagaṇena paṭhamaṃ mahācittaṃ uppajjati, teneva sappayogena saupāyena idaṃ uppajjati. ^1-976
 
@@ -2744,8 +2753,8 @@ Dutiyacittaṃ. ^1-978
 
 ##### Tatiyacittaṃ ^1-4-4-4-0
 
-![[pi-1#^1-147]]
-![[pi-1#^1-148]]
+![[1-SOURCES/Text/pi-1.md#^1-147]]
+![[1-SOURCES/Text/pi-1.md#^1-148]]
 
 Tatiye ñāṇena vippayuttanti ñāṇavippayuttaṃ. Idampi hi ārammaṇe haṭṭhapahaṭṭhaṃ hoti paricchindakañāṇaṃ panettha na hoti. Tasmā idaṃ daharakumārakānaṃ bhikkhuṃ disvā ‘ayaṃ thero mayha’nti vandanakāle, teneva nayena cetiyavandanadhammasavanakālādīsu ca uppajjatīti veditabbaṃ. Pāḷiyaṃ panettha sattasu ṭhānesu paññā parihāyati. Sesaṃ pākatikamevāti. ^1-979
 
@@ -2753,7 +2762,7 @@ Tatiyacittaṃ. ^1-980
 
 ##### Catutthacittaṃ ^1-4-4-5-0
 
-![[pi-1#^1-149]]
+![[1-SOURCES/Text/pi-1.md#^1-149]]
 
 Catutthacittepi eseva nayo. Idaṃ pana sasaṅkhārenāti vacanato yadā mātāpitaro daharakumārake sīse gahetvā cetiyādīni vandāpenti te ca anatthikā samānāpi haṭṭhapahaṭṭhāva vandanti. Evarūpe kāle labbhatīti veditabbaṃ. ^1-981
 
@@ -2761,7 +2770,7 @@ Catutthacittaṃ. ^1-982
 
 ##### Pañcamacittaṃ ^1-4-4-6-0
 
-![[pi-1#^1-150]]
+![[1-SOURCES/Text/pi-1.md#^1-150]]
 
 Pañcame upekkhāsahagatanti upekkhāvedanāya sampayuttaṃ . Idañhi ārammaṇe majjhattaṃ hoti. Paricchindakañāṇaṃ panettha hotiyeva. Pāḷiyaṃ panettha jhānacatukke upekkhā hotīti indriyaṭṭhake upekkhindriyaṃ hotīti vatvā sabbesampi vedanādipadānaṃ niddese sātāsātasukhadukkhapaṭikkhepavasena desanaṃ katvā adukkhamasukhavedanā kathitā. Tassā majjhattalakkhaṇe indattakaraṇavasena upekkhindriyabhāvo veditabbo. Padapaṭipāṭiyā ca ekasmiṃ ṭhāne pīti parihīnā. Tasmā cittaṅgavasena pāḷiāruḷhā pañcapaṇṇāseva dhammā honti. Tesaṃ vasena sabbakoṭṭhāsesu sabbavāresu ca vinicchayo veditabbo. ^1-983
 
@@ -2827,7 +2836,7 @@ Kāmāvacarakusalaniddeso samatto. ^1-1010
 
 ##### Catukkanayo paṭhamajjhānaṃ ^1-4-5-1-0
 
-![[pi-1#^1-160]]
+![[1-SOURCES/Text/pi-1.md#^1-160]]
 
 Idāni rūpāvacarakusalaṃ dassetuṃ katame dhammā kusalātiādi āraddhaṃ. Tattha rūpūpapattiyā maggaṃ bhāvetīti rūpaṃ vuccati rūpabhavo. Upapattīti nibbatti jāti sañjāti. Maggoti upāyo. Vacanattho panettha – taṃ upapattiṃ maggati gavesati janeti nipphādetīti maggo. Idaṃ vuttaṃ hoti – yena maggena rūpabhave upapatti hoti nibbatti jāti sañjāti, taṃ maggaṃ bhāvetīti. Kiṃ panetena niyamato rūpabhave upapatti hotīti? Na hoti. "Samādhiṃ, bhikkhave, bhāvetha, samāhito yathābhūtaṃ pajānāti passatī"ti (saṃ. ni. 3.5; 4.99; 5.1071; netti. 40; mi. pa. 2.1.15) evaṃ vuttena hi nibbedhabhāgiyena rūpabhavātikkamopi hoti. Rūpūpapattiyā pana ito añño maggo nāma natthi, tena vuttaṃ ‘rūpūpapattiyā maggaṃ bhāvetī’ti. Atthato cāyaṃ maggo nāma cetanāpi hoti, cetanāya sampayuttadhammāpi, tadubhayampi. "Nirayañcāhaṃ, sāriputta, pajānāmi nirayagāmiñca magga"nti (ma. ni. 1.153) hi ettha cetanā maggo nāma. ^1-1011
 
@@ -2870,8 +2879,8 @@ Paṭhamaṃ. ^1-1029
 
 ##### Dutiyajjhānaṃ ^1-4-5-2-0
 
-![[pi-1#^1-161]]
-![[pi-1#^1-162]]
+![[1-SOURCES/Text/pi-1.md#^1-161]]
+![[1-SOURCES/Text/pi-1.md#^1-162]]
 
 Dutiyajjhānaniddese vitakkavicārānaṃ vūpasamāti vitakkassa ca vicārassa cāti imesaṃ dvinnaṃ vūpasamā, samatikkamā; dutiyajjhānakkhaṇe apātubhāvāti vuttaṃ hoti. Tattha kiñcāpi dutiyajjhāne sabbepi paṭhamajjhānadhammā na santi, aññeyeva hi paṭhamajjhāne phassādayo aññe idha, oḷārikassa pana oḷārikassa aṅgassa samatikkamā paṭhamajjhānato paresaṃ dutiyajjhānādīnaṃ adhigamo hotīti dīpanatthaṃ vitakkavicārānaṃ vūpasamāti evaṃ vuttanti veditabbaṃ. Ajjhattanti idha – niyakajjhattaṃ adhippetaṃ. Vibhaṅge pana "ajjhattaṃ paccatta"nti (vibha. 573) ettakameva vuttaṃ. Yasmā niyakajjhattaṃ adhippetaṃ, tasmā attani jātaṃ, attano santāne nibbattanti ayamettha attho. ^1-1030
 
@@ -2895,7 +2904,7 @@ Dutiyaṃ. ^1-1039
 
 ##### Tatiyajjhānaṃ ^1-4-5-3-0
 
-![[pi-1#^1-163]]
+![[1-SOURCES/Text/pi-1.md#^1-163]]
 
 Tatiyajjhānaniddese pītiyā ca virāgāti virāgo nāma vuttappakārāya pītiyā jigucchanaṃ vā samatikkamo vā. Ubhinnaṃ pana antarā ‘ca’-saddo sampiṇḍanattho. So vūpasamaṃ vā sampiṇḍeti vitakkavicāravūpasamaṃ vā. Tattha yadā vūpasamameva sampiṇḍeti tadā pītiyā virāgā ca, kiñca bhiyyo ‘vūpasamā’ cāti evaṃ yojanā veditabbā. Imissā ca yojanāya virāgo jigucchanattho hoti. Tasmā pītiyā jigucchanā ca vūpasamā cāti ayamattho daṭṭhabbo. Yadā pana vitakkavicārānaṃ vūpasamaṃ sampiṇḍeti tadā pītiyā ca virāgā kiñca bhiyyo ‘vitakkavicārānañca vūpasamā’ti evaṃ yojanā veditabbā. Imissā ca yojanāya virāgo samatikkamanattho hoti, tasmā pītiyā ca samatikkamā vitakkavicārānañca vūpasamāti ayamattho daṭṭhabbo. ^1-1040
 
@@ -2951,7 +2960,7 @@ Tatiyaṃ. ^1-1065
 
 ##### Catutthajjhānaṃ ^1-4-5-4-0
 
-![[pi-1#^1-165]]
+![[1-SOURCES/Text/pi-1.md#^1-165]]
 
 Catutthajjhānaniddese sukhassa ca pahānā dukkhassa ca pahānāti kāyikasukhassa ca kāyikadukkhassa ca pahānā. Pubbevāti tañca kho pubbeva na catutthajjhānakkhaṇe. Somanassadomanassānaṃ atthaṅgamāti cetasikasukhassa ca cetasikadukkhassa cāti imesampi dvinnaṃ pubbeva atthaṅgamā; pahānā icceva vuttaṃ hoti. Kadā pana nesaṃ pahānaṃ hoti? Catunnaṃ jhānānaṃ upacārakkhaṇe. Somanassañhi catutthajjhānassa upacārakkhaṇeyeva pahīyati. Dukkhadomanassasukhāni paṭhamadutiyatatiyajjhānānaṃ upacārakkhaṇesu. Evametesaṃ pahānakkamena avuttānaṃ indriyavibhaṅge pana indriyānaṃ uddesakkameneva idhāpi vuttānaṃ sukhadukkhasomanassadomanassānaṃ pahānaṃ veditabbaṃ. ^1-1066
 
@@ -2973,7 +2982,7 @@ Catukkanayo niṭṭhito. ^1-1074
 
 ##### Pañcakanayo ^1-4-5-5-0
 
-![[pi-1#^1-167]]
+![[1-SOURCES/Text/pi-1.md#^1-167]]
 
 Idāni katame dhammā kusalāti pañcakanayo āraddho. Kasmāti ce, puggalajjhāsayavasena ceva desanāvilāsena ca. Sannisinnadevaparisāya kira ekaccānaṃ devānaṃ vitakko eva oḷārikato upaṭṭhāsi, vicārapītisukhacittekaggatā santato. Tesaṃ sappāyavasena satthā caturaṅgikaṃ avitakkaṃ vicāramattaṃ dutiyajjhānaṃ nāma bhājesi. Ekaccānaṃ vicāro oḷārikato upaṭṭhāsi, pītisukhacittekaggatā santato. Tesaṃ sappāyavasena tivaṅgikaṃ tatiyajjhānaṃ nāma bhājesi. Ekaccānaṃ pīti oḷārikato upaṭṭhāsi, sukhacittekaggatā santato. Tesaṃ sappāyavasena duvaṅgikaṃ catutthajjhānaṃ nāma bhājesi. Ekaccānaṃ sukhaṃ oḷārikato upaṭṭhāsi, upekkhācittekaggatā santato. Tesaṃ sappāyavasena duvaṅgikaṃ pañcamajjhānaṃ nāma bhājesi. Ayaṃ tāva ‘puggalajjhāsayo’. ^1-1075
 
@@ -3011,11 +3020,11 @@ Ettāvatā catukkapañcakanayadvayabhedo suddhikanavako nāma pakāsito hoti. At
 
 ##### Paṭipadācatukkaṃ ^1-4-5-6-0
 
-![[pi-1#^1-176]]
-![[pi-1#^1-177]]
-![[pi-1#^1-178]]
-![[pi-1#^1-179]]
-![[pi-1#^1-180]]
+![[1-SOURCES/Text/pi-1.md#^1-176]]
+![[1-SOURCES/Text/pi-1.md#^1-177]]
+![[1-SOURCES/Text/pi-1.md#^1-178]]
+![[1-SOURCES/Text/pi-1.md#^1-179]]
+![[1-SOURCES/Text/pi-1.md#^1-180]]
 
 Idāni yasmā etaṃ jhānaṃ nāma paṭipadākamena sijjhati, tasmā tassa paṭipadābhedaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha dukkhā paṭipadā assāti dukkhapaṭipadaṃ. Dandhā abhiññā assāti dandhābhiññaṃ. Iti dukkhapaṭipadanti vā dandhābhiññanti vā pathavīkasiṇanti vā tīṇipi jhānasseva nāmāni. Dukkhapaṭipadaṃ khippābhiññantiādīsupi eseva nayo. ^1-1092
 
@@ -3035,7 +3044,7 @@ Paṭipadācatukkaṃ. ^1-1099
 
 ##### Ārammaṇacatukkaṃ ^1-4-5-7-0
 
-![[pi-1#^1-181]]
+![[1-SOURCES/Text/pi-1.md#^1-181]]
 
 Idāni yasmā etaṃ jhānaṃ nāma yathā paṭipadābhedena evaṃ ārammaṇabhedenāpi catubbidhaṃ hoti. Tasmāssa taṃ pabhedaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha parittaṃ parittārammaṇantiādīsu yaṃ appaguṇaṃ hoti, uparijjhānassa paccayo bhavituṃ na sakkoti, idaṃ parittaṃ nāma. Yaṃ pana avaḍḍhite suppamatte vā sarāvamatte vā ārammaṇe pavattaṃ, taṃ parittaṃ ārammaṇaṃ assāti parittārammaṇaṃ. Yaṃ paguṇaṃ subhāvitaṃ uparijjhānassa paccayo bhavituṃ sakkoti, idaṃ appamāṇaṃ nāma. Yaṃ vipule ārammaṇe pavattaṃ taṃ vuḍḍhippamāṇattā appamāṇaṃ ārammaṇaṃ assāti appamāṇārammaṇaṃ. Vuttalakkhaṇavomissakatāya pana vomissakanayo veditabbo. Iti ārammaṇavasenapi cattāro navakā vuttā honti. Cittagaṇanāpettha purimasadisā evāti. ^1-1100
 
@@ -3043,7 +3052,7 @@ Idāni yasmā etaṃ jhānaṃ nāma yathā paṭipadābhedena evaṃ ārammaṇ
 
 ##### Ārammaṇapaṭipadāmissakaṃ ^1-4-5-8-0
 
-![[pi-1#^1-186]]
+![[1-SOURCES/Text/pi-1.md#^1-186]]
 
 Idāni ārammaṇapaṭipadāmissakaṃ soḷasakkhattukanayaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha paṭhamanaye vuttajjhānaṃ dukkhapaṭipadattā dandhābhiññattā parittattā parittārammaṇattāti catūhi kāraṇehi hīnaṃ, soḷasamanaye vuttajjhānaṃ sukhapaṭipadattā khippābhiññattā appamāṇattā appamāṇārammaṇattāti catūhi kāraṇehi paṇītaṃ. Sesesu cuddasasu ekena dvīhi tīhi ca kāraṇehi hīnappaṇītatā veditabbā. ^1-1102
 
@@ -3057,7 +3066,7 @@ Ettāvatā suddhikanavako, cattāro paṭipadānavakā, cattāro ārammaṇanava
 
 Pathavīkasiṇaṃ. ^1-1107
 
-![[pi-1#^1-203]]
+![[1-SOURCES/Text/pi-1.md#^1-203]]
 
 Idāni yasmā āpokasiṇādīsupi etāni jhānāni uppajjanti, tasmā tesaṃ dassanatthaṃ puna katame dhammā kusalātiādi āraddhaṃ. Tesu sabbo pāḷinayo ca atthavibhāvanā ca cittagaṇanā ca vārasaṅkhepo ca pathavīkasiṇe vuttanayeneva veditabbo. Bhāvanānayo pana kasiṇaparikammaṃ ādiṃ katvā sabbo visuddhimagge (visuddhi 1.91 ādayo) pakāsitoyeva. Mahāsakuludāyisutte pana dasakasiṇāni (ma. ni. 2.250) vuttāni. Tesu viññāṇakasiṇaṃ ākāse pavattitamahaggataviññāṇampi tattha parikammaṃ katvā nibbattā viññāṇañcāyatanasamāpattipi hotīti sabbappakārena āruppadesanameva bhajati, tasmā imasmiṃ ṭhāne na kathitaṃ. ^1-1108
 
@@ -3071,7 +3080,7 @@ Kasiṇakathā. ^1-1112
 
 ##### Abhibhāyatanakathā ^1-4-5-9-0
 
-![[pi-1#^1-204]]
+![[1-SOURCES/Text/pi-1.md#^1-204]]
 
 Evaṃ aṭṭhasu kasiṇesu rūpāvacarakusalaṃ niddisitvā, idāni yasmā samānepi ārammaṇe bhāvanāya asamānaṃ imesu aṭṭhasu kasiṇesu aññampi abhibhāyatanasaṅkhātaṃ rūpāvacarakusalaṃ pavattati, tasmā taṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha ajjhattaṃ arūpasaññīti alābhitāya vā anatthikatāya vā ajjhattarūpe parikammasaññāvirahito. Bahiddhā rūpāni passatīti bahiddhā aṭṭhasu kasiṇesu kataparikammatāya parikammavasena ceva appanāvasena ca tāni bahiddhā aṭṭhasu kasiṇesu rūpāni passati. Parittānīti avaḍḍhitāni. Tāni abhibhuyyāti yathā nāma sampannagahaṇiko kaṭacchumattaṃ bhattaṃ labhitvā ‘kiṃ ettha bhuñjitabbaṃ atthī’ti saṅkaḍḍhitvā ekakabaḷameva karoti, evameva ñāṇuttariko puggalo visadañāṇo ‘kimettha parittake ārammaṇe samāpajjitabbaṃ atthi, nāyaṃ mama bhāro’ti tāni rūpāni abhibhavitvā samāpajjati. Saha nimittuppādenevettha appanaṃ nibbattetīti attho. Jānāmi passāmīti iminā panassa pubbabhāgo kathito. Āgamaṭṭhakathāsu pana vuttaṃ – imināssa pana ābhogo kathito. So ca kho samāpattito vuṭṭhitassa, na antosamāpattiyanti (a. ni. aṭṭha. 3.8.65). ^1-1113
 
@@ -3083,7 +3092,7 @@ Suvaṇṇadubbaṇṇānīti parisuddhāparisuddhavaṇṇāni. Parisuddhāni h
 
 Kasmā pana, yathā suttante "ajjhattaṃ rūpasaññī eko bahiddhā rūpāni passati parittānī"tiādi (dī. ni. 2.173; ma. ni. 2.249; a. ni. 8.65) vuttaṃ, evaṃ avatvā idha catūsupi abhibhāyatanesu ajjhattaṃ arūpasaññitāva vuttāti? Ajjhattarūpānaṃ anabhibhavanīyato. Tattha vā hi idha vā bahiddhārūpāneva abhibhavitabbāni, tasmā tāni niyamato vattabbānīti tatrapi idhapi vuttāni. Ajjhattaṃ arūpasaññīti idaṃ pana satthu desanāvilāsamattameva. Ayaṃ tāva catūsu abhibhāyatanesu apubbapadavaṇṇanā. Suddhikanayapaṭipadābhedo panettha pathavīkasiṇe vuttanayeneva ekekasmiṃ abhibhāyatane veditabbo. Kevalañcettha ārammaṇacatukkaṃ ārammaṇadukaṃ hoti, soḷasakkhattukañca aṭṭhakkhattukaṃ. Sesaṃ tādisameva. Evamettha ekekasmiṃ abhibhāyatane eko suddhikanavako, cattāro paṭipadānavakā, dve ārammaṇanavakā, ārammaṇapaṭipadāmissake aṭṭha navakāti pannarasa navakāti catūsupi abhibhāyatanesu samasaṭṭhi navakā veditabbā. ^1-1117
 
-![[pi-1#^1-246]]
+![[1-SOURCES/Text/pi-1.md#^1-246]]
 
 Pañcamaabhibhāyatanādīsu nīlānīti sabbasaṅgāhikavasena vuttaṃ. Nīlavaṇṇānīti vaṇṇavasena, nīlanidassanānīti nidassanavasena, apaññāyamānavivarāni, asambhinnavaṇṇāni, ekanīlāneva hutvā dissantīti vuttaṃ hoti. Nīlanibhāsānīti idaṃ pana obhāsanavasena vuttaṃ; nīlobhāsāni nīlappabhāyuttānīti attho. Etena nesaṃ suvisuddhataṃ dasseti. Suvisuddhavaṇṇavasena hi imāni cattāri abhibhāyatanāni vuttāni. Pītānītiādīsupi imināva nayena attho veditabbo. Nīlakasiṇaṃ uggaṇhanto nīlasmiṃ nimittaṃ gaṇhāti. Pupphasmiṃ vā vatthasmiṃ vā vaṇṇadhātuyā vātiādikaṃ panettha kasiṇakaraṇañca parikammañca appanāvidhānañca sabbaṃ visuddhimagge (visuddhi. 1.93 ādayo) vitthārato vuttameva. Yathā ca pathavīkasiṇe evamettha ekekasmiṃ abhibhāyatane pañcavīsati pañcavīsati navakā veditabbā. ^1-1118
 
@@ -3091,7 +3100,7 @@ Abhibhāyatanakathā. ^1-1119
 
 ##### Vimokkhakathā ^1-4-5-10-0
 
-![[pi-1#^1-248]]
+![[1-SOURCES/Text/pi-1.md#^1-248]]
 
 Idāni yasmā idaṃ rūpāvacarakusalaṃ nāma na kevalaṃ ārammaṇasaṅkhātānaṃ āyatanānaṃ abhibhavanato abhibhāyatanavaseneva uppajjati, atha kho vimokkhavasenapi uppajjati, tasmā tampi nayaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. ^1-1120
 
@@ -3107,7 +3116,7 @@ Vimokkhakathā. ^1-1125
 
 ##### Brahmavihārakathā ^1-4-5-11-0
 
-![[pi-1#^1-251]]
+![[1-SOURCES/Text/pi-1.md#^1-251]]
 
 Idāni mettādibrahmavihāravasena pavattamānaṃ rūpāvacarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha mettāsahagatanti mettāya samannāgataṃ. Parato karuṇāsahagatādīsupi eseva nayo. Yena panesa vidhānena paṭipanno mettādisahagatāni jhānāni upasampajja viharati, taṃ mettādīnaṃ bhāvanāvidhānaṃ sabbaṃ visuddhimagge (visuddhi. 1.240) vitthāritameva. Avasesāya pāḷiyā attho pathavīkasiṇe vuttanayeneva veditabbo. ^1-1126
 
@@ -3166,7 +3175,7 @@ Brahmavihārakathā. ^1-1149
 
 ##### Asubhakathā ^1-4-5-12-0
 
-![[pi-1#^1-263]]
+![[1-SOURCES/Text/pi-1.md#^1-263]]
 
 Idāni rāgacaritasattānaṃ ekantahitaṃ nānārammaṇesu ekekajjhānavaseneva pavattamānaṃ rūpāvacarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. ^1-1150
 
@@ -3202,7 +3211,7 @@ Rūpāvacarakusalakathā niṭṭhitā. ^1-1162
 
 ##### Ākāsānañcāyatanaṃ ^1-4-6-1-0
 
-![[pi-1#^1-265]]
+![[1-SOURCES/Text/pi-1.md#^1-265]]
 
 Idāni arūpāvacarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha arūpūpapattiyāti arūpabhavo arūpaṃ, arūpe upapatti arūpūpapatti, tassā arūpūpapattiyā. Maggaṃ bhāvetīti upāyaṃ hetuṃ kāraṇaṃ uppādeti vaḍḍheti. Sabbasoti sabbākārena. Sabbāsaṃ vā anavasesānanti attho. Rūpasaññānanti saññāsīsena vuttarūpāvacarajjhānānañceva tadārammaṇānañca. Rūpāvacarajjhānampi hi rūpanti vuccati ‘rūpī rūpāni passatī’tiādīsu (dha. sa. 248; dī. ni. 2.129). Tassa ārammaṇampi "bahiddhā rūpāni passati suvaṇṇadubbaṇṇānī"tiādīsu (dha. sa. 244-246; dī. ni. 2.173); tasmā idha rūpe saññā rūpasaññāti evaṃ saññāsīsena vuttarūpāvacarajjhānassetaṃ adhivacanaṃ. Rūpaṃ saññā assāti rūpasaññaṃ, rūpamassa nāmanti vuttaṃ hoti. Evaṃ pathavīkasiṇādibhedassa tadārammaṇassa cetaṃ adhivacananti veditabbaṃ. ^1-1163
 
@@ -3230,7 +3239,7 @@ Yathā pana aññattha ‘ananto ākāso’ti (vibha. 508; dī. ni. 2.129) vutta
 
 ##### Viññāṇañcāyatanaṃ ^1-4-6-2-0
 
-![[pi-1#^1-266]]
+![[1-SOURCES/Text/pi-1.md#^1-266]]
 
 Ākāsānañcāyatanaṃ samatikkammāti, ettha tāva pubbe vuttanayena ākāsānañcaṃ āyatanamassa adhiṭṭhānaṭṭhenāti jhānampi ākāsānañcāyatanaṃ. Vuttanayeneva ārammaṇampi. Evametaṃ jhānañca ārammaṇañcāti ubhayampi appavattikaraṇena ca amanasikaraṇena ca samatikkamitvāva yasmā idaṃ viññāṇañcāyatanaṃ upasampajja vihātabbaṃ, tasmā ubhayampetaṃ ekajjhaṃ katvā ‘ākāsānañcāyatanaṃ samatikkammā’ti idaṃ vuttanti veditabbaṃ. ^1-1175
 
@@ -3238,13 +3247,15 @@ Viññāṇañcāyatanasaññāsahagatanti, ettha pana anantanti manasikātabbav
 
 ##### Ākiñcaññāyatanaṃ ^1-4-6-3-0
 
-![[pi-1#^1-267]]
+![[1-SOURCES/Text/pi-1.md#^1-267]]
 
 Viññāṇañcāyatanaṃsamatikkammāti etthāpi pubbe vuttanayeneva viññāṇañca āyatanamassa adhiṭṭhānaṭṭhenāti jhānampi viññāṇañcāyatanaṃ. Vuttanayeneva ca ārammaṇampi. Evametaṃ jhānañca ārammaṇañcāti ubhayampi appavattikaraṇena ca amanasikaraṇena ca samatikkamitvāva yasmā idaṃ ākiñcaññāyatanaṃ upasampajja vihātabbaṃ, tasmā ubhayampetaṃ ekajjhaṃ katvā ‘viññāṇañcāyatanaṃ samatikkammā’ti idaṃ vuttanti veditabbaṃ. ^1-1177
 
 Ākiñcaññāyatanasaññāsahagatanti ettha pana nāssa kiñcananti akiñcanaṃ; antamaso bhaṅgamattampi assa avasiṭṭhaṃ natthīti vuttaṃ hoti. Akiñcanassa bhāvo ākiñcaññaṃ. Ākāsānañcāyatanaviññāṇāpagamassetaṃ adhivacanaṃ. Taṃ ākiñcaññaṃ adhiṭṭhānaṭṭhena imissā saññāya āyatananti ākiñcaññāyatanaṃ. Tasmiṃ ākiñcaññāyatane pavattāya saññāya sahagatanti ākiñcaññāyatanasaññāsahagataṃ. Ākāse pavattitaviññāṇāpagamārammaṇassa jhānassetaṃ adhivacanaṃ. Idha viññāṇañcāyatanasamāpattiyā nikantipariyādānadukkhatāya dukkhā paṭipadā, pariyādinnanikantikassa appanā parivāsadandhatāya dandhābhiññā. Vipariyāyena sukhā paṭipadā khippābhiññā ca. Parittakasiṇugghāṭimākāse pavattitaviññāṇāpagamārammaṇatāya parittārammaṇatā, vipariyāyena appamāṇārammaṇatā veditabbā. Sesaṃ purimasadisameva. ^1-1178
 
 ##### Nevasaññānāsaññāyatanaṃ ^1-4-6-4-0
+
+![[1-SOURCES/Text/pi-1.md#^1-268]]
 
 Ākiñcaññāyatanaṃ samatikkammāti etthāpi pubbe vuttanayeneva ākiñcaññaṃ āyatanamassa adhiṭṭhānaṭṭhenāti jhānampi ākiñcaññāyatanaṃ. Vuttanayeneva ārammaṇampi. Evametaṃ jhānañca ārammaṇañcāti ubhayampi appavattikaraṇena ca amanasikaraṇe ca samatikkamitvāva yasmā idaṃ nevasaññānāsaññāyatanaṃ upasampajja vihātabbaṃ, tasmā ubhayampetaṃ ekajjhaṃ katvā ‘ākiñcaññāyatanaṃ samatikkammā’ti idaṃ vuttanti veditabbaṃ. ^1-1179
 
@@ -3306,7 +3317,7 @@ Arūpāvacarakusalakathā niṭṭhitā. ^1-1203
 
 ##### Tebhūmakakusalavaṇṇanā ^1-4-6-5-0
 
-![[pi-1#^1-269]]
+![[1-SOURCES/Text/pi-1.md#^1-269]]
 
 Idāni yasmā sabbānipetāni tebhūmakakusalāni hīnādinā pabhedena vattanti, tasmā tesaṃ taṃ pabhedaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha hīnanti lāmakaṃ. Taṃ āyūhanavasena veditabbaṃ. Hīnuttamānaṃ majjhe bhavaṃ majjhimaṃ. Padhānabhāvaṃ nītaṃ paṇītaṃ, uttamanti attho. Tānipi āyūhanavaseneva veditabbāni. Yassa hi āyūhanakkhaṇe chando vā hīno hoti, vīriyaṃ vā, cittaṃ vā, vīmaṃsā vā, taṃ hīnaṃ nāma. Yassa te dhammā majjhimā ceva paṇītā, ca taṃ majjhimañceva paṇītañca. Yaṃ pana kattukāmatāsaṅkhātaṃ chandaṃ dhuraṃ chandaṃ jeṭṭhakaṃ chandaṃ pubbaṅgamaṃ katvā āyūhitaṃ, taṃ chandādhipatito āgatattā chandādhipateyyaṃ nāma. Vīriyādhipateyyādīsupi eseva nayo. ^1-1204
 
@@ -3320,7 +3331,7 @@ Tebhūmakakusalaṃ. ^1-1208
 
 #### Lokuttarakusalavaṇṇanā ^1-4-7-0
 
-![[pi-1#^1-277]]
+![[1-SOURCES/Text/pi-1.md#^1-277]]
 
 Evaṃ bhavattayasampattinibbattakaṃ kusalaṃ dassetvā idāni sabbabhavasamatikkamanāya lokuttarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha lokuttaranti kenaṭṭhena lokuttaraṃ? Lokaṃ taratīti, lokuttaraṃ lokaṃ uttaratīti lokuttaraṃ; lokaṃ samatikkamma abhibhuyya tiṭṭhatīti lokuttaraṃ (paṭi. ma. 2.43). Jhānaṃ bhāvetīti ekacittakkhaṇikaṃ appanājhānaṃ bhāveti janeti vaḍḍheti. ^1-1209
 
@@ -3350,21 +3361,21 @@ Sundarā pasatthā vā vācā sammāvācā. Vacīduccaritasamugghāṭikāya mic
 
 Apica heṭṭhā viratittaye vuttavasenapettha lakkhaṇādīni veditabbāni. Iti imesaṃ tiṇṇaṃ dhammānaṃ vasena heṭṭhā vuttaṃ maggapañcakaṃ idha maggaṭṭhakaṃ veditabbaṃ. Yevāpanakesu ca imesaṃ abhāvo. Tathā karuṇāmuditānaṃ. Ime hi tayo dhammā idha pāḷiyaṃ āgatattāva yevāpanakesu na gahitā. Karuṇāmuditā pana sattārammaṇā, ime dhammā nibbānārammaṇāti tāpettha na gahitā. Ayaṃ tāva uddesavāre visesattho. ^1-1222
 
-![[pi-1#^1-283]]
+![[1-SOURCES/Text/pi-1.md#^1-283]]
 
 Niddesavāre pana maggaṅgaṃ maggapariyāpannanti ettha tāva maggassa aṅganti maggaṅgaṃ; maggakoṭṭhāsoti attho. Yathā pana araññe pariyāpannaṃ araññapariyāpannaṃ nāma hoti, evaṃ magge pariyāpannanti maggapariyāpannaṃ. Maggasannissitanti attho. ^1-1223
 
-![[pi-1#^1-285]]
+![[1-SOURCES/Text/pi-1.md#^1-285]]
 
 Pītisambojjhaṅgoti ettha pīti eva sambojjhaṅgoti pītisambojjhaṅgo. Tattha bodhiyā bodhissa vā aṅgoti bojjhaṅgo. Idaṃ vuttaṃ hoti – yā ayaṃ dhammasāmaggī yāya lokuttaramaggakkhaṇe uppajjamānāya līnuddhaccapatiṭṭhānāyūhanakāmasukhattakilamathānuyogaucchedasassatābhinivesādīnaṃ anekesaṃ upaddavānaṃ paṭipakkhabhūtāya satidhammavicayavīriyapītipassaddhisamādhiupekkhāsaṅkhātāya dhammasāmaggiyā ariyasāvako bujjhatīti katvā bodhīti vuccati. Bujjhatīti kilesasantānaniddāya uṭṭhahati, cattāri vā ariyasaccāni paṭivijjhati, nibbānameva vā sacchikaroti. Tassā dhammasāmaggīsaṅkhātāya bodhiyā aṅgotipi bojjhaṅgo, jhānaṅgamaggaṅgādīni viya. Yopesa yathāvuttappakārāya etāya dhammasāmaggiyā bujjhatīti katvā ariyasāvako bodhīti vuccati, tassa bodhissa aṅgotipi bojjhaṅgo; senaṅgarathaṅgādayo viya. Tenāhu aṭṭhakathācariyā – "bujjhanakassa puggalassa aṅgāti vā bojjhaṅgā"ti (vibha. aṭṭha. 466; saṃ. ni. aṭṭha. 3.5.182). ^1-1224
 
 Apica "bojjhaṅgāti kenaṭṭhena bojjhaṅgā? Bodhāya saṃvattantīti bojjhaṅgā, bujjhantīti bojjhaṅgā, anubujjhantīti bojjhaṅgā, paṭibujjhantīti bojjhaṅgā, sambujjhantīti bojjhaṅgā"ti (paṭi. ma. 2.17) iminā paṭisambhidānayenāpi bojjhaṅgattho veditabbo. Pasattho sundaro vā bojjhaṅgoti sambojjhaṅgo. Evaṃ pīti eva sambojjhaṅgo pītisambojjhaṅgoti. Cittekaggatāniddesādīsupi imināva nayena attho veditabbo. ^1-1225
 
-![[pi-1#^1-296]]
+![[1-SOURCES/Text/pi-1.md#^1-296]]
 
 Tesaṃ dhammānanti ye tasmiṃ samaye paṭivedhaṃ gacchanti catusaccadhammā, tesaṃ dhammānaṃ. Anaññātānanti kiñcāpi paṭhamamaggena te dhammā ñātā nāma honti, yathā pana pakatiyā anāgatapubbaṃ vihāraṃ āgantvā vihāramajjhe ṭhitopi puggalo pakatiyā anāgatabhāvaṃ upādāya ‘anāgatapubbaṃ ṭhānaṃ āgatomhī’ti vadati, yathā ca pakatiyā apiḷandhapubbaṃ mālaṃ piḷandhitvā, anivatthapubbaṃ vatthaṃ nivāsetvā, abhuttapubbaṃ bhojanaṃ bhuñjitvā, pakatiyā abhuttabhāvaṃ upādāya abhuttapubbaṃ bhojanaṃ bhuttomhīti vadati, evamidhāpi yasmā pakatiyā iminā puggalena ime dhammā na ñātapubbā tasmā anaññātānanti vuttaṃ. Adiṭṭhādīsupi eseva nayo. Tattha adiṭṭhānanti ito pubbe paññācakkhunā adiṭṭhānaṃ. Appattānanti adhigamanavasena appattānaṃ. Aviditānanti ñāṇena apākaṭakatānaṃ. Asacchikatānanti apaccakkhakatānaṃ. Sacchikiriyāyāti paccakkhakaraṇatthaṃ. Yathā ca iminā padena, evaṃ sesehipi saddhiṃ anaññātānaṃ ñāṇāya, adiṭṭhānaṃ dassanāya, appattānaṃ pattiyā, aviditānaṃ vedāyāti yojanā kātabbā. ^1-1226
 
-![[pi-1#^1-299]]
+![[1-SOURCES/Text/pi-1.md#^1-299]]
 
 Catūhi vacīduccaritehītiādīsu vacīti vacīviññatti veditabbā. Tiṇṇaṃ dosānaṃ yena kenaci duṭṭhāni caritānīti duccaritāni. Vacīto pavattāni duccaritāni vacīduccaritāni, vaciyā vā nipphāditāni duccaritāni vacīduccaritāni. Tehi vacīduccaritehi. Ārakā ramatīti ārati. Vinā tehi ramatīti virati. Tato tato paṭinivattāva hutvā tehi vinā ramatīti paṭivirati. Upasaggavasena vā padaṃ vaḍḍhitaṃ. Sabbamidaṃ oramaṇabhāvassevādhivacanaṃ. Veraṃ maṇati, vināsetīti veramaṇī. Idampi oramaṇasseva vevacanaṃ. Yāya pana cetanāya musāvādādīni bhāsamāno karoti nāma, ayaṃ lokuttaramaggavirati. Uppajjitvā taṃ kiriyaṃ kātuṃ na deti, kiriyāpathaṃ pacchindatīti akiriyā. Tathā taṃ karaṇaṃ kātuṃ na deti, karaṇapathaṃ pacchindatīti akaraṇaṃ. Yāya ca cetanāya catubbidhaṃ vacīduccaritaṃ bhāsamāno ajjhāpajjati nāma, ayaṃ uppajjitvā tathā ajjhāpajjituṃ na detīti anajjhāpatti. ^1-1227
 
@@ -3372,11 +3383,11 @@ Velāanatikkamoti ettha "tāya velāyā"tiādīsu (dī. ni. 2.154; mahāva. 1-3;
 
 Setuṃ hanatīti setughāto; catunnaṃ vacīduccaritānaṃ padaghāto paccayaghātoti attho. Paccayo hi idha setūti adhippeto. Tatrāyaṃ vacanattho – rāgādiko catunnaṃ vacīduccaritānaṃ paccayo vaṭṭasmiṃ puggalaṃ sinoti bandhatīti setu. Setussa ghāto setughāto. Vacīduccaritapaccayasamugghāṭikāya viratiyā etaṃ adhivacanaṃ. Ayaṃ pana sammāvācāsaṅkhātā virati pubbabhāge nānācittesu labbhati. Aññeneva hi cittena musāvādā viramati, aññena pesuññādīhi. Lokuttaramaggakkhaṇe pana ekacittasmiṃyeva labbhati. Catubbidhāya hi vacīduccaritacetanāya padapacchedaṃ kurumānā maggaṅgaṃ pūrayamānā ekāva virati uppajjati. ^1-1229
 
-![[pi-1#^1-300]]
+![[1-SOURCES/Text/pi-1.md#^1-300]]
 
 Kāyaduccaritehīti kāyato pavattehi kāyena vā nipphāditehi pāṇātipātādīhi duccaritehi. Sesaṃ purimanayeneva veditabbaṃ. Ayampi sammākammantasaṅkhātā virati pubbabhāge nānācittesu labbhati. Aññeneva hi cittena pāṇātipātā viramati, aññena adinnādānamicchācārehi. Lokuttaramaggakkhaṇe pana ekacittasmiṃyeva labbhati. Tividhāya hi kāyaduccaritacetanāya padapacchedaṃ kurumānā maggaṅgaṃ pūrayamānā ekāva virati uppajjati. ^1-1230
 
-![[pi-1#^1-301]]
+![[1-SOURCES/Text/pi-1.md#^1-301]]
 
 Sammāājīvaniddese akiriyātiādīsu yāya cetanāya micchājīvaṃ ājīvamāno kiriyaṃ karoti nāma, ayaṃ uppajjitvā taṃ kiriyaṃ kātuṃ na detīti akiriyāti. Iminā nayena yojanā veditabbā. Ājīvo ca nāmesa pāṭiyekko natthi, vācākammantesu gahitesu gahitova hoti, tappakkhikattā. Dhuvapaṭisevanavasena panāyaṃ tato nīharitvā dassitoti. Evaṃ sante sammāājīvo sakiccako na hoti , aṭṭha maggaṅgāni na paripūrenti, tasmā sammāājīvo sakiccako kātabbo, aṭṭha maggaṅgāni paripūretabbānīti. Tatrāyaṃ nayo – ājīvo nāma bhijjamāno kāyavacīdvāresuyeva bhijjati. Manodvāre ājīvabhedo nāma natthi. Pūrayamānopi tasmiṃyeva dvāradvaye pūrati. Manodvāre ājīvapūraṇaṃ nāma natthi. Kāyadvāre pana vītikkamo ājīvahetukopi atthi naājīvahetukopi. Tathā vacīdvāre. ^1-1231
 
@@ -3390,13 +3401,13 @@ Ayampi sammāājīvo pubbabhāge nānācittesu labbhati, aññeneva hi cittena k
 
 Yaṃ panetaṃ indriyesu anaññātaññassāmītindriyaṃ vaḍḍhitaṃ, maggaṅgesu ca sammāvācādīni, tesaṃ vasena saṅgahavāre "navindriyāni, aṭṭhaṅgiko maggo"ti vuttaṃ. Suññatavāro pākatikoyevāti. Ayaṃ tāva suddhikapaṭipadāya viseso. ^1-1236
 
-![[pi-1#^1-343]]
+![[1-SOURCES/Text/pi-1.md#^1-343]]
 
 Ito paraṃ suddhikasuññatā suññatapaṭipadā suddhikaappaṇihitā appaṇihitapaṭipadāti ayaṃ desanābhedo hoti. Tattha suññatanti lokuttaramaggassa nāmaṃ. So hi āgamanato saguṇato ārammaṇatoti tīhi kāraṇehi nāmaṃ labhati. Kathaṃ? Idha bhikkhu anattato abhinivisitvā anattato saṅkhāre passati. Yasmā pana anattato diṭṭhamatteneva maggavuṭṭhānaṃ nāma na hoti, aniccatopi dukkhatopi daṭṭhumeva vaṭṭati, tasmā ‘aniccaṃ dukkhamanattā’ti tividhaṃ anupassanaṃ āropetvā sammasanto carati. Vuṭṭhānagāminivipassanā panassa tebhūmakepi saṅkhāre suññatova passati. Ayaṃ vipassanā suññatā nāma hoti. Sā āgamanīyaṭṭhāne ṭhatvā attano maggassa ‘suññata’nti nāmaṃ deti. Evaṃ maggo ‘āgamanato’ suññatanāmaṃ labhati. Yasmā pana so rāgādīhi suñño tasmā ‘saguṇeneva’ suññatanāmaṃ labhati. Nibbānampi rāgādīhi suññattā suññatanti vuccati. Taṃ ārammaṇaṃ katvā uppannattā maggo ‘ārammaṇato’ suññatanāmaṃ labhati. ^1-1237
 
 Tattha suttantikapariyāyena saguṇatopi ārammaṇatopi nāmaṃ labhati. Pariyāyadesanā hesā. Abhidhammakathā pana nippariyāyadesanā. Tasmā idha saguṇato vā ārammaṇato vā nāmaṃ na labhati, āgamanatova labhati. Āgamanameva hi dhuraṃ. Taṃ duvidhaṃ hoti – vipassanāgamanaṃ maggāgamananti. Tattha maggassa āgataṭṭhāne vipassanāgamanaṃ dhuraṃ, phalassa āgataṭṭhāne maggāgamanaṃ dhuraṃ. Idha maggassa āgatattā vipassanāgamanameva dhuraṃ jātaṃ. ^1-1238
 
-![[pi-1#^1-350]]
+![[1-SOURCES/Text/pi-1.md#^1-350]]
 
 Appaṇihitanti, etthāpi appaṇihitanti maggasseva nāmaṃ. Idampi nāmaṃ maggo tīheva kāraṇehi labhati. Kathaṃ? Idha bhikkhu āditova dukkhato abhinivisitvā dukkhatova saṅkhāre passati. Yasmā pana dukkhato diṭṭhamatteneva maggavuṭṭhānaṃ nāma na hoti, aniccatopi anattatopi daṭṭhumeva vaṭṭati, tasmā aniccaṃ dukkhamanattā’ti tividhaṃ anupassanaṃ āropetvā sammasanto carati. Vuṭṭhānagāminivipassanā panassa tebhūmakasaṅkhāresu paṇidhiṃ sosetvā pariyādiyitvā vissajjeti. Ayaṃ vipassanā appaṇihitā nāma hoti. Sā āgamanīyaṭṭhāne ṭhatvā attano maggassa ‘appaṇihita’nti nāmaṃ deti. Evaṃ maggo ‘āgamanato’ appaṇihitanāmaṃ labhati. Yasmā pana tattha rāgadosamohapaṇidhayo natthi, tasmā ‘saguṇeneva’ appaṇihitanāmaṃ labhati. Nibbānampi tesaṃ paṇidhīnaṃ abhāvā appaṇihitanti vuccati. Taṃ ārammaṇaṃ katvā uppannattā maggo appaṇihitanāmaṃ labhati. ^1-1239
 
@@ -3510,13 +3521,13 @@ Pakiṇṇakakathā niṭṭhitā. ^1-1291
 
 ##### Paṭhamamaggavīsatimahānayo ^1-4-7-2-0
 
-![[pi-1#^1-357]]
+![[1-SOURCES/Text/pi-1.md#^1-357]]
 
 Idāni yasmā lokuttarakusalaṃ bhāvento na kevalaṃ upanijjhāyanaṭṭhena jhānaṃyeva bhāveti, niyyānaṭṭhena pana maggampi bhāveti, upaṭṭhānaṭṭhena satipaṭṭhānampi, padahanaṭṭhena sammappadhānampi, ijjhanaṭṭhena iddhipādampi, adhipatiyaṭṭhena indriyampi, akampiyaṭṭhena balampi, bujjhanaṭṭhena bojjhaṅgampi, tathaṭṭhena saccampi, avikkhepaṭṭhena samathampi, suññataṭṭhena dhammampi, rāsaṭṭhena khandhampi, āyatanaṭṭhena āyatanampi, suññasabhāvanissattaṭṭhena dhātumpi, paccayaṭṭhena āhārampi, phusanaṭṭhena phassampi, vedayitaṭṭhena vedanampi, sañjānanaṭṭhena saññampi, cetayitaṭṭhena cetanampi, vijānanaṭṭhena cittampi bhāveti, tasmā etesaṃ ekūnavīsatiyā padānaṃ dassanatthaṃ puna katame dhammā kusalātiādi vuttaṃ. Evaṃ ‘idampi bhāveti, idampi bhāvetī’ti puggalajjhāsayena ceva desanāvilāsena ca vīsati nayā desitā honti . Dhammaṃ sotuṃ nisinnadevaparisāya hi ye upanijjhāyanaṭṭhena lokuttaraṃ ‘jhāna’nti kathite bujjhanti, tesaṃ sappāyavasena jhānanti kathitaṃ…pe… ye vijānanaṭṭhena ‘citta’nti vutte bujjhanti, tesaṃ sappāyavasena cittanti kathitaṃ. Ayamettha ‘puggalajjhāsayo’. ^1-1292
 
 Sammāsambuddho pana attano buddhasubodhitāya dasabalacatuvesārajjacatupaṭisambhidatāya chaasādhāraṇañāṇayogena ca desanaṃ yadicchakaṃ niyametvā dasseti. Icchanto upanijjhāyanaṭṭhena lokuttaraṃ jhānanti dasseti, icchanto niyyānaṭṭhena…pe… vijānanaṭṭhena lokuttaraṃ cittanti. Ayaṃ ‘desanāvilāso’ nāma. Tattha yatheva lokuttaraṃ jhānanti vuttaṭṭhāne dasa nayā vibhattā, evaṃ maggādīsupi teyeva veditabbā. Iti vīsatiyā ṭhānesu dasa dasa katvā dve nayasatāni vibhattāni honti. ^1-1293
 
-![[pi-1#^1-358]]
+![[1-SOURCES/Text/pi-1.md#^1-358]]
 
 Idāni adhipatibhedaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha chandaṃ dhuraṃ jeṭṭhakaṃ pubbaṅgamaṃ katvā nibbattitaṃ lokuttaraṃ jhānaṃ chandādhipateyyaṃ nāma. Sesesupi eseva nayo. Iti purimasmiṃ suddhike dvenayasatāni chandādhipateyyādīsupi dve dveti nayasahassena bhājetvā paṭhamamaggaṃ dassesi dhammarājā. ^1-1294
 
@@ -3524,7 +3535,7 @@ Paṭhamamaggo niṭṭhito. ^1-1295
 
 ##### Dutiyamaggo ^1-4-7-3-0
 
-![[pi-1#^1-361]]
+![[1-SOURCES/Text/pi-1.md#^1-361]]
 
 Idāni dutiyamaggādīnaṃ dassanatthaṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha kāmarāgabyāpādānaṃ tanubhāvāyāti etesaṃ kilesānaṃ tanubhāvatthāya. Tattha dvīhi kāraṇehi tanubhāvo veditabbo – adhiccuppattiyā ca pariyuṭṭhānamandatāya ca. Sakadāgāmissa hi, vaṭṭānusārimahājanasseva, kilesā abhiṇhaṃ nuppajjanti, kadāci kadāci uppajjanti; uppajjantāpi viraḷākārā hutvā uppajjanti, viraḷavāpitakhette aṅkurā viya. Uppajjamānāpi, ca vaṭṭānusārimahājanasseva, maddantā pharantā chādentā andhakāraṃ karontā nuppajjanti. Dvīhi pana maggehi pahīnattā mandā mandā uppajjanti. Tanukākārā hutvā uppajjanti, abbhapaṭalaṃ viya makkhikāpattaṃ viya ca. ^1-1296
 
@@ -3538,7 +3549,7 @@ Dutiyamaggo niṭṭhito. ^1-1300
 
 ##### Tatiyacatutthamaggā ^1-4-7-4-0
 
-![[pi-1#^1-362]]
+![[1-SOURCES/Text/pi-1.md#^1-362]]
 
 Tatiye anavasesappahānāyāti tesaṃyeva sakadāgāmimaggena tanubhūtānaṃ saṃyojanānaṃ nissesapajahanatthāya. ^1-1301
 
@@ -3598,7 +3609,7 @@ Kusalā dhammātipadassa vaṇṇanā niṭṭhitā. ^1-1325
 
 ##### Paṭhamacittaṃ ^1-4-9-1-0
 
-![[pi-1#^1-365]]
+![[1-SOURCES/Text/pi-1.md#^1-365]]
 
 Idāni akusaladhammapadaṃ bhājetvā dassetuṃ katame dhammā akusalātiādi āraddhaṃ. Tattha dhammavavatthānādivārappabhedo ca heṭṭhā āgatānaṃ padānaṃ atthavinicchayo ca heṭṭhā vuttanayeneva veditabbo. Tattha tattha pana visesamattameva vaṇṇayissāma. Tattha samayavavatthāne tāva yasmā, kusalassa viya, akusalassa bhūmibhedo natthi, tasmā ekantaṃ kāmāvacarampi samānaṃ etaṃ ‘kāmāvacara’nti na vuttaṃ. Diṭṭhigatasampayuttanti ettha diṭṭhi eva diṭṭhigataṃ ‘gūthagataṃ muttagata’ntiādīni (a. ni. 9.11) viya. Gantabbābhāvato vā diṭṭhiyā gatamattamevetantipi diṭṭhigataṃ. Tena sampayuttaṃ diṭṭhigatasampayuttaṃ. ^1-1326
 
@@ -3644,34 +3655,34 @@ Dhammuddesavārakathā niṭṭhitā. ^1-1346
 
 #### Niddesavārakathā ^1-4-10-0
 
-![[pi-1#^1-375]]
+![[1-SOURCES/Text/pi-1.md#^1-375]]
 
 Niddesavāre cittassekaggatāniddese tāva saṇṭhiti avaṭṭhitīti. Idaṃ dvayaṃ ṭhitivevacanameva. Yaṃ pana kusalaniddese ‘ārammaṇaṃ ogāhetvā anupavisitvā tiṭṭhatīti avaṭṭhitī’ti vuttaṃ, taṃ idha na labbhati. Akusalasmiñhi dubbalā cittassekaggatāti heṭṭhā dīpitameva. ^1-1347
 
-![[pi-1#^1-384]]
+![[1-SOURCES/Text/pi-1.md#^1-384]]
 
 Uddhaccavicikicchāvasena pavattassa visāhārassa paṭipakkhato avisāhāroti evarūpopi attho idha na labbhati. Sahajātadhamme pana na visāharatīti avisāhāro. Na vikkhipatīti avikkhepo. Akusalacittekaggatāvasena avisāhaṭassa mānasassa bhāvo avisāhaṭamānasatā. Sahajātadhammesu na kampatīti samādhibalaṃ. Ayāthāvasamādhānato micchāsamādhīti evamidha attho daṭṭhabbo. ^1-1348
 
-![[pi-1#^1-385]]
+![[1-SOURCES/Text/pi-1.md#^1-385]]
 
 Vīriyindriyaniddese yo heṭṭhā ‘nikkamo ceso kāmānaṃ panudanāyā’tiādi nayo vutto, so idha na labbhati. Sahajātadhammesu akampanaṭṭheneva vīriyabalaṃ veditabbaṃ. ^1-1349
 
-![[pi-1#^1-386]]
+![[1-SOURCES/Text/pi-1.md#^1-386]]
 
 Micchādiṭṭhiniddese ayāthāvadassanaṭṭhena micchādiṭṭhi. Diṭṭhīsu gataṃ idaṃ dassanaṃ, dvāsaṭṭhidiṭṭhiantogatattāti diṭṭhigataṃ. Heṭṭhāpissa attho vuttoyeva. Diṭṭhiyeva duratikkamanaṭṭhena diṭṭhigahanaṃ, tiṇagahanavanagahanapabbatagahanāni viya. Diṭṭhiyeva sāsaṅkasappaṭibhayaṭṭhena diṭṭhikantāro, corakantāravāḷakantāramarukantāranirudakakantāradubbhikkhakantārā viya. Sammādiṭṭhiyā vinivijjhanaṭṭhena vilomanaṭṭhena ca diṭṭhivisūkāyikaṃ. Micchādassanañhi uppajjamānaṃ sammādassanaṃ vinivijjhati ceva vilometi ca. Kadāci sassatassa kadāci ucchedassa gahaṇato diṭṭhiyā virūpaṃ phanditanti diṭṭhivipphanditaṃ. Diṭṭhigatiko hi ekasmiṃ patiṭṭhātuṃ na sakkoti, kadāci sassataṃ anupatati kadāci ucchedaṃ. Diṭṭhiyeva bandhanaṭṭhena saṃyojananti diṭṭhisaṃyojanaṃ. ^1-1350
 
 Susumārādayo viya purisaṃ, ārammaṇaṃ daḷhaṃ gaṇhātīti gāho. Patiṭṭhahanato patiṭṭhāho. Ayañhi balavappavattibhāvena patiṭṭhahitvā gaṇhāti. Niccādivasena abhinivisatīti abhiniveso. Dhammasabhāvaṃ atikkamitvā niccādivasena parato āmasatīti parāmāso. Anatthāvahattā kucchito maggo, kucchitānaṃ vā apāyānaṃ maggoti kummaggo. Ayāthāvapathato micchāpatho. Yathā hi disāmūḷhena ayaṃ asukagāmassa nāma pathoti gahitopi taṃ gāmaṃ na sampāpeti, evaṃ diṭṭhigatikena sugatipathoti gahitāpi diṭṭhi sugatiṃ na pāpetīti ayāthāvapathato, micchāpatho. Micchāsabhāvato micchattaṃ. Tattheva paribbhamanato taranti ettha bālāti titthaṃ. Titthañca taṃ anatthānañca āyatananti titthāyatanaṃ. Titthiyānaṃ vā sañjātidesaṭṭhena nivāsaṭhānaṭṭhena ca āyatanantipi titthāyatanaṃ. Vipariyesabhūto gāho, vipariyesato vā gāhoti vipariyesaggāho; vipallattha gāhoti attho. ^1-1351
 
-![[pi-1#^1-387]]
-![[pi-1#^1-388]]
+![[1-SOURCES/Text/pi-1.md#^1-387]]
+![[1-SOURCES/Text/pi-1.md#^1-388]]
 
 Ahirikānottappaniddesesu hirottappaniddesavipariyāyena attho veditabbo. Sahajātadhammesu pana akampanaṭṭheneva ahirikabalaṃ anottappabalañca veditabbaṃ. ^1-1352
 
-![[pi-1#^1-389]]
+![[1-SOURCES/Text/pi-1.md#^1-389]]
 
 Lobhamohaniddesesu lubbhatīti lobho. Lubbhanāti lubbhanākāro. Lobhasampayuttacittaṃ, puggalo vā lubbhito; lubbhitassa bhāvo lubbhitattaṃ. Sārajjatīti sārāgo. Sārajjanākāro sārajjanā. Sārajjitassa bhāvo sārajjitattaṃ. Abhijjhāyanaṭṭhena abhijjhā. Puna ‘lobha’-vacane kāraṇaṃ vuttameva. Akusalañca taṃ mūlañca akusalānaṃ vā mūlanti akusalamūlaṃ. ^1-1353
 
-![[pi-1#^1-390]]
+![[1-SOURCES/Text/pi-1.md#^1-390]]
 
 Ñāṇadassanapaṭipakkhato aññāṇaṃ adassanaṃ. Abhimukho hutvā dhammena na sameti, na samāgacchatīti anabhisamayo. Anurūpato dhamme bujjhatīti anubodho. Tappaṭipakkhatāya ananubodho. Aniccādīhi saddhiṃ yojetvā na bujjhatīti asambodho. Asantaṃ asamañca bujjhatītipi asambodho. Catusaccadhammaṃ nappaṭivijjhatīti appaṭivedho. Rūpādīsu ekadhammampi aniccādisāmaññato na saṅgaṇhātīti asaṃgāhanā. Tameva dhammaṃ na pariyogāhatīti apariyogāhanā. Na samaṃ pekkhatīti asamapekkhaṇā. Dhammānaṃ sabhāvaṃ pati na apekkhatīti apaccavekkhaṇā. ^1-1354
 
@@ -3679,7 +3690,7 @@ Kusalākusalakammesu viparītavuttiyā sabhāvaggahaṇābhāvena vā ekampi kam
 
 ##### Dutiyacittaṃ ^1-4-10-1-0
 
-![[pi-1#^1-399]]
+![[1-SOURCES/Text/pi-1.md#^1-399]]
 
 Dutiyacitte sasaṅkhārenāti padaṃ visesaṃ. Tampi heṭṭhā vuttatthameva. Idaṃ pana cittaṃ kiñcāpi chasu ārammaṇesu somanassitassa lobhaṃ uppādetvā ‘satto satto’tiādinā nayena parāmasantassa uppajjati, tathāpi sasaṅkhārikattā sappayogena saupāyena uppajjanato – yadā kulaputto micchādiṭṭhikassa kulassa kumārikaṃ pattheti. Te ca ‘aññadiṭṭhikā tumhe’ti kumārikaṃ na denti. Athaññe ñātakā ‘yaṃ tumhe karotha tamevāyaṃ karissatī’ti dāpenti. So tehi saddhiṃ titthiye upasaṅkamati. Āditova vematiko hoti. Gacchante gacchante kāle etesaṃ kiriyā manāpāti laddhiṃ roceti, diṭṭhiṃ gaṇhāti – evarūpe kāle idaṃ labbhatīti veditabbaṃ. ^1-1356
 
@@ -3687,34 +3698,34 @@ Yevāpanakesu panettha thinamiddhaṃ adhikaṃ. Tattha thinanatā ‘thinaṃ�
 
 ##### Tatiyacittaṃ ^1-4-10-2-0
 
-![[pi-1#^1-400]]
+![[1-SOURCES/Text/pi-1.md#^1-400]]
 
 Tatiyaṃ chasu ārammaṇesu somanassitassa lobhaṃ uppādetvā ‘satto satto’tiādinā nayena aparāmasantassa nārāyaṇavirājanamallayuddhanaṭasamajjādīni passato manāpiyasaddasavanādipasutassa vā uppajjati. Idha mānena saddhiṃ pañca apaṇṇakaṅgāni honti. Tattha maññatīti ‘māno’. So unnatilakkhaṇo, sampaggaharaso, ketukamyatāpaccupaṭṭhāno, diṭṭhivippayuttalobhapadaṭṭhāno, ummādo viya daṭṭhabboti. ^1-1358
 
 ##### Catutthacittaṃ ^1-4-10-3-0
 
-![[pi-1#^1-402]]
+![[1-SOURCES/Text/pi-1.md#^1-402]]
 
 Catutthaṃ vuttappakāresu eva ṭhānesu yadā sīse kheḷaṃ khipanti, pādapaṃsuṃ okiranti, tadā tassa pariharaṇatthaṃ saussāhena antarantarā olokentānaṃ rājanāṭakesu nikkhantesu ussāraṇāya vattamānāya tena tena chiddena olokentānañcāti evamādīsu ṭhānesu uppajjati. Idha pana thinamiddhehi saddhiṃ satta yevāpanakā honti. Ubhayatthāpi micchādiṭṭhi parihāyati. Taṃ ṭhapetvā sesānaṃ vasena dhammagaṇanā veditabbāti. ^1-1359
 
 ##### Pañcamacittaṃ ^1-4-10-4-0
 
-![[pi-1#^1-403]]
+![[1-SOURCES/Text/pi-1.md#^1-403]]
 
 Pañcamaṃ chasu ārammaṇesu vedanāvasena majjhattassa lobhaṃ uppādetvā ‘satto satto’tiādinā nayena parāmasantassa uppajjati. Somanassaṭṭhāne panettha upekkhāvedanā hoti, pītipadaṃ parihāyati. Sesaṃ sabbaṃ paṭhamacittasadisameva. ^1-1360
 
 ##### Chaṭṭhacittādi ^1-4-10-5-0
 
-![[pi-1#^1-409]]
-![[pi-1#^1-410]]
-![[pi-1#^1-411]]
-![[pi-1#^1-412]]
+![[1-SOURCES/Text/pi-1.md#^1-409]]
+![[1-SOURCES/Text/pi-1.md#^1-410]]
+![[1-SOURCES/Text/pi-1.md#^1-411]]
+![[1-SOURCES/Text/pi-1.md#^1-412]]
 
 Chaṭṭhasattamaṭṭhamānipi vedanaṃ parivattetvā pītipadañca hāpetvā dutiyatatiyacatutthesu vuttanayeneva veditabbāni. Imesu aṭṭhasu lobhasahagatacittesu sahajātādhipati ārammaṇādhipatīti dvepi adhipatayo labbhanti. ^1-1361
 
 ##### Navamacittaṃ ^1-4-10-6-0
 
-![[pi-1#^1-413]]
+![[1-SOURCES/Text/pi-1.md#^1-413]]
 
 Navamaṃ chasu ārammaṇesu domanassitassa paṭighaṃ uppādayato uppajjati. Tassa samayavavatthānavāre tāva duṭṭhu mano, hīnavedanattā vā kucchitaṃ manoti dummano; dummanassa bhāvo domanassaṃ. Tena sahagatanti domanassasahagataṃ. Asampiyāyanabhāvena ārammaṇasmiṃ paṭihaññatīti paṭighaṃ. Tena sampayuttanti paṭighasampayuttaṃ. ^1-1362
 
@@ -3726,17 +3737,17 @@ Byāpajjati tena cittaṃ, pūtibhāvaṃ upagacchati, byāpādayati vā vinayā
 
 Yevāpanakesu chandādhimokkhamanasikārauddhaccāni niyatāni. Issāmacchariyakukkuccesu pana aññatarena saddhiṃ pañca pañca hutvāpi uppajjanti. Evamepi tayo dhammā aniyatayevāpanakā nāma. Tesu issatīti ‘issā’. Sā parasampattīnaṃ usūyanalakkhaṇā, tattheva anabhiratirasā, tato vimukhabhāvapaccupaṭṭhānā, parasampattipadaṭṭhānā. Saṃyojananti daṭṭhabbā. Maccherabhāvo ‘macchariyaṃ’. Taṃ laddhānaṃ vā labhitabbānaṃ vā attano sampattīnaṃ nigūhanalakkhaṇaṃ, tāsaṃyeva parehi sādhāraṇabhāvaakkhamanarasaṃ, saṅkocanapaccupaṭṭhānaṃ kaṭukañcukatāpaccupaṭṭhānaṃ vā, attasampattipadaṭṭhānaṃ. Cetaso virūpabhāvoti daṭṭhabbaṃ. Kucchitaṃ kataṃ kukataṃ. Tassa bhāvo ‘kukkuccaṃ’. Taṃ pacchānutāpalakkhaṇaṃ, katākatānusocanarasaṃ, vippaṭisārapaccupaṭṭhānaṃ, katākatapadaṭṭhānaṃ. Dāsabyaṃ viya daṭṭhabbaṃ. Ayaṃ tāva uddesavāre viseso. ^1-1366
 
-![[pi-1#^1-415]]
+![[1-SOURCES/Text/pi-1.md#^1-415]]
 
 Niddesavāre vedanāniddese asātaṃ sātapaṭipakkhavasena veditabbaṃ. ^1-1367
 
-![[pi-1#^1-418]]
+![[1-SOURCES/Text/pi-1.md#^1-418]]
 
 Dosaniddese dussatīti doso. Dussanāti dussanākāro. Dussitattanti dussitabhāvo. Pakatibhāvavijahanaṭṭhena byāpajjanaṃ byāpatti. Byāpajjanāti byāpajjanākāro. Virujjhatīti virodho. Punappunaṃ virujjhatīti paṭivirodho. Viruddhākārapaṭiviruddhākāravasena vā idaṃ vuttaṃ. Caṇḍiko vuccati caṇḍo, thaddhapuggalo; tassa bhāvo caṇḍikkaṃ. Na etena suropitaṃ vacanaṃ hoti, duruttaṃ aparipuṇṇameva hotīti asuropo. Kuddhakāle hi paripuṇṇavacanaṃ nāma natthi. Sacepi kassaci hoti taṃ appamāṇaṃ. Apare pana assujananaṭṭhena assuropanato assuropoti vadanti. Taṃ akāraṇaṃ, somanassassāpi assujananato. Heṭṭhā vuttaattamanatāpaṭipakkhato na attamanatāti anattamanatā. Sā pana yasmā cittasseva, na sattassa, tasmā cittassāti vuttaṃ. Sesamettha saṅgahasuññatavāresu ca heṭṭhā vuttanayeneva veditabbanti. ^1-1368
 
 ##### Dasamacittaṃ ^1-4-10-7-0
 
-![[pi-1#^1-421]]
+![[1-SOURCES/Text/pi-1.md#^1-421]]
 
 Dasamaṃ sasaṅkhārattā parehi ussāhitassa vā, paresaṃ vā aparādhaṃ sāritassa, sayameva vā paresaṃ aparādhaṃ anussaritvā kujjhamānassa uppajjati. ^1-1369
 
@@ -3744,27 +3755,27 @@ Idhāpi padapaṭipāṭiyā ekūnatiṃsa, aggahitaggahaṇena ca cuddaseva pad
 
 ##### Ekādasamacittaṃ ^1-4-10-8-0
 
-![[pi-1#^1-422]]
+![[1-SOURCES/Text/pi-1.md#^1-422]]
 
 Ekādasamaṃ chasu ārammaṇesu vedanāvasena majjhattassa kaṅkhāpavattikāle uppajjati. Tassa samayavavatthāne vicikicchāsampayuttanti padaṃ apubbaṃ. Tassattho – vicikicchāya sampayuttanti vicikicchāsampayuttaṃ. Dhammuddese ‘vicikicchā hotī’ti padameva viseso. Tattha vigatā cikicchāti vicikicchā. Sabhāvaṃ vā vicinanto etāya kicchati kilamatīti vicikicchā. Sā saṃsayalakkhaṇā, kampanarasā, anicchayapaccupaṭṭhānā anekaṃsagāhapaccupaṭṭhānā vā, ayonisomanasikārapadaṭṭhānā. Paṭipattiantarāyakarāti daṭṭhabbā. ^1-1371
 
 Idha padapaṭipāṭiyā tevīsati padāni honti. Aggahitaggahaṇena cuddasa. Tesaṃ vasena savibhattikāvibhattikarāsivinicchayo veditabbo. Manasikāro uddhaccanti dveyeva yevāpanakā. ^1-1372
 
-![[pi-1#^1-424]]
+![[1-SOURCES/Text/pi-1.md#^1-424]]
 
 Niddesavārassa cittassekaggatāniddese yasmā idaṃ dubbalaṃ cittaṃ pavattiṭṭhitimattakamevettha hoti, tasmā ‘saṇṭhitī’tiādīni avatvā cittassa ‘ṭhitī’ti ekameva padaṃ vuttaṃ. Teneva ca kāraṇena uddesavārepi ‘samādhindriya’ntiādi na vuttaṃ. ^1-1373
 
-![[pi-1#^1-425]]
+![[1-SOURCES/Text/pi-1.md#^1-425]]
 
 Vicikicchāniddese kaṅkhanavasena kaṅkhā. Kaṅkhāya āyanāti kaṅkhāyanā. Purimakaṅkhā hi uttarakaṅkhaṃ āneti nāma. Ākāravasena vā etaṃ vuttaṃ. Kaṅkhāsamaṅgicittaṃ kaṅkhāya āyitattā kaṅkhāyitaṃ nāma. Tassa bhāvo kaṅkhāyitattaṃ. Vimatīti namati. Vicikicchā vuttatthā eva. Kampanaṭṭhena dvidhā eḷayatīti dveḷhakaṃ. Paṭipattinivāraṇena dvidhāpatho viyāti dvedhāpatho. ‘Niccaṃ nu kho idaṃ, aniccaṃ nu kho’tiādipavattiyā ekasmiṃ ākāre saṇṭhātuṃ asamatthatāya samantato setīti saṃsayo. Ekaṃsaṃ gahetuṃ asamatthatāya na ekaṃsaggāhoti anekaṃsaggāho. Nicchetuṃ asakkontī ārammaṇato osakkatīti āsappanā. Ogāhituṃ asakkontī parisamantato sappatīti parisappanā. Pariyogāhituṃ asamatthatāya apariyogāhanā. Nicchayavasena ārammaṇe pavattituṃ asamatthatāya thambhitattaṃ; cittassa thaddhabhāvoti attho. Vicikicchā hi uppajjitvā cittaṃ thaddhaṃ karoti. Yasmā panesā uppajjamānā ārammaṇaṃ gahetvā manaṃ vilikhantī viya, tasmā manovilekhoti vuttā. Sesaṃ sabbattha uttānatthameva. ^1-1374
 
 ##### Dvādasamacittaṃ ^1-4-10-9-0
 
-![[pi-1#^1-427]]
+![[1-SOURCES/Text/pi-1.md#^1-427]]
 
 Dvādasamassa samayavavatthāne uddhaccena sampayuttanti uddhaccasampayuttaṃ. Idañhi cittaṃ chasu ārammaṇesu vedanāvasena majjhattaṃ hutvā uddhataṃ hoti. Idha dhammuddese ‘vicikicchā’-ṭhāne ‘uddhaccaṃ hotī’ti āgataṃ. Padapaṭipāṭiyā aṭṭhavīsati padāni honti. Aggahitaggahaṇena cuddasa. Tesaṃ vasena savibhattikāvibhattikarāsividhānaṃ veditabbaṃ. Adhimokkho manasikāroti dveyeva yevāpanakā. ^1-1375
 
-![[pi-1#^1-429]]
+![[1-SOURCES/Text/pi-1.md#^1-429]]
 
 Niddesavārassa uddhaccaniddese cittassāti na sattassa, na posassa. Uddhaccanti uddhatākāro. Na vūpasamoti avūpasamo. Ceto vikkhipatīti cetasovikkhepo. Bhantattaṃ cittassāti cittassa bhantabhāvo, bhantayānabhantagoṇādīni viya. Iminā ekārammaṇasmiṃyeva vipphandanaṃ kathitaṃ. Uddhaccañhi ekārammaṇe vipphandati, vicikicchā nānārammaṇe. Sesaṃ sabbavāresu heṭṭhā vuttanayeneva veditabbaṃ. ^1-1376
 
@@ -3778,7 +3789,7 @@ Akusalā dhammātipadassa vaṇṇanā niṭṭhitā. ^1-1379
 
 #### Ahetukakusalavipāko ^1-4-12-0
 
-![[pi-1#^1-431]]
+![[1-SOURCES/Text/pi-1.md#^1-431]]
 
 Idāni abyākatapadaṃ bhājetvā dassetuṃ katame dhammā abyākatātiādi āraddhaṃ. Tattha catubbidhaṃ abyākataṃ – vipākaṃ kiriyaṃ rūpaṃ nibbānanti. Tesu vipākābyākataṃ. Vipākābyākatepi kusalavipākaṃ. Tasmimpi parittavipākaṃ. Tasmimpi ahetukaṃ. Tasmimpi pañcaviññāṇaṃ. Tasmimpi dvārapaṭipāṭiyā cakkhuviññāṇaṃ . Tassāpi, ṭhapetvā dvārārammaṇādisādhāraṇapaccayaṃ, asādhāraṇakammapaccayavaseneva uppattiṃ dīpetuṃ kāmāvacarassa kusalassa kammassa katattātiādi vuttaṃ. Tattha katattāti katakāraṇā. Upacitattāti ācitattā, vaḍḍhitakāraṇā. Cakkhuviññāṇanti kāraṇabhūtassa cakkhussa viññāṇaṃ, cakkhuto vā pavattaṃ, cakkhusmiṃ vā nissitaṃ viññāṇanti cakkhuviññāṇaṃ. Parato sotaviññāṇādīsupi eseva nayo. ^1-1380
 
@@ -3786,11 +3797,11 @@ Tattha cakkhusannissitarūpavijānanalakkhaṇaṃ cakkhuviññāṇaṃ, rūpam
 
 Idha padapaṭipāṭiyā dasa padāni honti. Aggahitaggahaṇena satta. Tesu pañca avibhattikāni, dve savibhattikāni. Tesu cittaṃ phassapañcakavasena ceva indriyavasena ca dvīsu ṭhānesu vibhattiṃ gacchati, vedanā phassapañcakajhānaṅgaindriyavasena tīsuyeva. Rāsayopi imeva tayo honti. Yevāpanako eko manasikāro eva. ^1-1382
 
-![[pi-1#^1-436]]
+![[1-SOURCES/Text/pi-1.md#^1-436]]
 
 Niddesavāre cakkhuviññāṇaṃ paṇḍaranti vatthuto vuttaṃ. Kusalañhi attano parisuddhatāya paṇḍaraṃ nāma, akusalaṃ bhavaṅganissandena, vipākaṃ vatthupaṇḍarattā. ^1-1383
 
-![[pi-1#^1-439]]
+![[1-SOURCES/Text/pi-1.md#^1-439]]
 
 Cittassekaggatāniddese cittassa ṭhitīti ekameva padaṃ vuttaṃ. Idampi hi dubbalaṃ cittaṃ pavattiṭṭhitimattamevettha labbhati, ‘saṇṭhitiavaṭṭhiti’-bhāvaṃ pāpuṇituṃ na sakkoti. Saṅgahavāre jhānaṅgamaggaṅgāni na uddhaṭāni. Kasmā? Vitakkapacchimakañhi jhānaṃ nāma, hetupacchimako maggo nāma. Pakatiyā avitakkacitte jhānaṅgaṃ na labbhati, ahetukacitte ca maggaṅgāni. Tasmā idha ubhayampi na uddhaṭaṃ. Saṅkhārakkhandhopettha caturaṅgikoyeva bhājito. Suññatavāro pākatikoyeva. Sotaviññāṇādiniddesāpi imināva nayena veditabbā. ^1-1384
 
@@ -3798,11 +3809,11 @@ Kevalañhi cakkhuviññāṇādīsu ‘upekkhā’ bhājitā, kāyaviññāṇe 
 
 Imesaṃ pana pañcannaṃ cittānaṃ vatthudvārārammaṇāni nibaddhāneva honti, vatthādisaṅkamanaṃ nāmettha natthi. Kusalavipākacakkhuviññāṇañhi cakkhupasādaṃ vatthuṃ katvā iṭṭhe ca iṭṭhamajjhatte ca catusamuṭṭhānikarūpārammaṇe dassanakiccaṃ sādhayamānaṃ cakkhudvāre ṭhatvā vipaccati. Sotaviññāṇādīni sotapasādādīni vatthuṃ katvā iṭṭhaiṭṭhamajjhattesu saddādīsu savanaghāyanasāyanaphusanakiccāni sādhayamānāni sotadvārādīsu ṭhatvā vipaccanti. Saddo panettha dvisamuṭṭhānikoyeva hoti. ^1-1386
 
-![[pi-1#^1-455]]
+![[1-SOURCES/Text/pi-1.md#^1-455]]
 
 Manodhātuniddese sabhāvasuññatanissattaṭṭhena manoyeva dhātu manodhātu. Sā cakkhuviññāṇādīnaṃ anantaraṃ rūpādivijānanalakkhaṇā, rūpādīnaṃ sampaṭicchanarasā, tathābhāvapaccupaṭṭhānā, cakkhuviññāṇādiapagamapadaṭṭhānā . Idha dhammuddese dvādasa padāni honti. Aggahitaggahaṇena nava. Tesu satta avibhattikāni dve savibhattikāni. Adhimokkho manasikāroti dve yevāpanakā. Vitakkaniddeso abhiniropanaṃ pāpetvā ṭhapito. Yasmā panetaṃ cittaṃ neva kusalaṃ nākusalaṃ, tasmā sammāsaṅkappoti vā micchāsaṅkappoti vā na vuttaṃ. Saṅgahavāre labbhamānampi jhānaṅgaṃ pañcaviññāṇasote patitvā gatanti. Maggaṅgaṃ pana na labbhatiyevāti na uddhaṭaṃ. Suññatavāro pākatikoyeva. Imassa cittassa vatthu nibaddhaṃ hadayavatthumeva hoti. Dvārārammaṇāni anibaddhāni. Tattha kiñcāpi dvārārammaṇāni saṅkamanti, ṭhānaṃ pana ekaṃ. Sampaṭicchanakiccameva hetaṃ hoti. Idañhi pañcadvāre pañcasu ārammaṇesu sampaṭicchanaṃ hutvā vipaccati. Kusalavipākesu cakkhuviññāṇādīsu niruddhesu taṃsamanantarā tāneva ṭhānappattāni rūpārammaṇādīni sampaṭicchati. ^1-1387
 
-![[pi-1#^1-469]]
+![[1-SOURCES/Text/pi-1.md#^1-469]]
 
 Manoviññāṇadhātuniddesesu paṭhamamanoviññāṇadhātuyaṃ ‘pīti’padaṃ adhikaṃ. Vedanāpi ‘somanassa’-vedanā hoti. Ayañhi iṭṭhārammaṇasmiṃyeva pavattati. Dutiyamanoviññāṇadhātu iṭṭhamajjhattārammaṇe. Tasmā tattha ‘upekkhā’ vedanā hotīti. Padāni manodhātuniddesasadisāneva. Ubhayatthāpi pañcaviññāṇasote patitvā gatattāyeva jhānaṅgāni na uddhaṭāni. Maggaṅgāni alābhatoyeva. Sesaṃ sabbattha vuttanayeneva veditabbaṃ. Lakkhaṇādito panesā duvidhāpi manoviññāṇadhātu ahetukavipākā, chaḷārammaṇavijānanalakkhaṇā, santīraṇādirasā, tathābhāvapaccupaṭṭhānā, hadayavatthupadaṭṭhānāti veditabbā. ^1-1388
 
@@ -3814,7 +3825,7 @@ Manoviññāṇadhātudvayaṃ niṭṭhitaṃ. ^1-1391
 
 #### Aṭṭhamahāvipākacittavaṇṇanā ^1-4-13-0
 
-![[pi-1#^1-498]]
+![[1-SOURCES/Text/pi-1.md#^1-498]]
 
 Idāni aṭṭhamahāvipākacittāni dassetuṃ puna katame dhammā abyākatātiādi āraddhaṃ. Tattha pāḷiyaṃ nayamattaṃ dassetvā sabbavārā saṃkhittā. Tesaṃ attho heṭṭhā vuttanayeneva veditabbo. Yo panettha viseso taṃ dassetuṃ alobho abyākatamūlantiādi vuttaṃ. Yampi na vuttaṃ taṃ evaṃ veditabbaṃ – yo hi kāmāvacarakusalesu kammadvārakammapathapuññakiriyavatthubhedo vutto so idha natthi. Kasmā? Aviññattijanakato avipākadhammato tathā appavattito ca. Yāpi tā yevāpanakesu karuṇāmuditā vuttā, tā sattārammaṇattā vipākesu na santi. Ekantaparittārammaṇāni hi kāmāvacaravipākāni. Na kevalañca karuṇāmuditā, viratiyopettha na santi. ‘Pañca sikkhāpadāni kusalānevā’ti (vibha. 715) hi vuttaṃ. ^1-1392
 
@@ -3986,7 +3997,7 @@ Kāmāvacarakusalavipākakathā niṭṭhitā. ^1-1472
 
 ##### Rūpāvacarārūpāvacaravipākakathā ^1-4-13-2-0
 
-![[pi-1#^1-499]]
+![[1-SOURCES/Text/pi-1.md#^1-499]]
 
 Idāni rūpāvacarādivipākaṃ dassetuṃ puna katame dhammā abyākatātiādi āraddhaṃ. Tattha yasmā kāmāvacaravipākaṃ attano kusalena sadisampi hoti, asadisampi, tasmā na taṃ kusalānugatikaṃ katvā bhājitaṃ. Rūpāvacarārūpāvacaravipākaṃ pana yathā hatthiassapabbatādīnaṃ chāyā hatthiādisadisāva honti, tathā attano kusalasadisameva hotīti kusalānugatikaṃ katvā bhājitaṃ. Kāmāvacarakammañca yadā kadāci vipākaṃ deti, rūpāvacarārūpāvacaraṃ pana anantarāyena, dutiyasmiṃyeva attabhāve, vipākaṃ detītipi kusalānugatikameva katvā bhājitaṃ. Sesaṃ kusale vuttanayeneva veditabbaṃ. Ayaṃ pana viseso – paṭipadādibhedo ca hīnapaṇītamajjhimabhāvo ca etesu jhānāgamanato veditabbo. Chandādīnaṃ pana aññataraṃ dhuraṃ katvā anuppādanīyattā niradhipatikāneva etānīti. ^1-1473
 
@@ -3994,7 +4005,7 @@ Rūpāvacarārūpāvacaravipākakathā niṭṭhitā. ^1-1474
 
 ##### Lokuttaravipākakathā ^1-4-13-3-0
 
-![[pi-1#^1-505]]
+![[1-SOURCES/Text/pi-1.md#^1-505]]
 
 Lokuttaravipākampi kusalasadisattā kusalānugatikameva katvā bhājitaṃ. Yasmā pana tebhūmakakusalaṃ cutipaṭisandhivasena vaṭṭaṃ ācināti vaḍḍheti, tasmā tattha katattā upacitattāti vuttaṃ. Lokuttaraṃ pana tena ācitampi apacināti, sayampi cutipaṭisandhivasena na ācināti, tenettha ‘katattā upacitattā’ti avatvā katattā bhāvitattāti vuttaṃ. ^1-1475
 
@@ -4008,7 +4019,7 @@ Yathā pana tebhūmakakusalāni attano vipākaṃ adhipatiṃ labhāpetuṃ na s
 
 Yathā hi parittakassa aggino gataṭṭhāne aggismiṃ nibbutamatteyeva uṇhākāro nibbāyitvā kiñci na hoti, mahantaṃ pana ādittaṃ aggikkhandhaṃ nibbāpetvā gomayaparibhaṇḍe katepi uṇhākāro avūpasantova hoti, evameva tebhūmakakusale añño kammakkhaṇo añño vipākakkhaṇo parittaaggiṭṭhāne uṇhabhāvanibbutakālo viya hoti. Tasmā taṃ attano vipākaṃ adhipatiṃ labhāpetuṃ na sakkoti. Lokuttare pana tāya saddhāya…pe… tāya paññāya avūpasantāya, maggānantarameva phalaṃ uppajjati, tasmā taṃ attano vipākaṃ adhipatiṃ labhāpetīti veditabbaṃ. Tenāhu porāṇā – ‘vipāke adhipati natthi ṭhapetvā lokuttara’nti. ^1-1480
 
-![[pi-1#^1-555]]
+![[1-SOURCES/Text/pi-1.md#^1-555]]
 
 Catutthaphalaniddese aññātāvindriyanti aññātāvino catūsu saccesu niṭṭhitañāṇakiccassa indriyaṃ, aññātāvīnaṃ vā catūsu saccesu niṭṭhitakiccānaṃ cattāri saccāni ñatvā paṭivijjhitvā ṭhitānaṃ dhammānaṃ abbhantare indaṭṭhasādhanena indriyaṃ. Niddesavārepissa aññātāvīnanti ājānitvā ṭhitānaṃ. Dhammānanti sampayuttadhammānaṃ abbhantare. Aññāti ājānanā, paññā pajānanātiādīni vuttatthāneva. Maggaṅgaṃ maggapariyāpannanti phalamaggassa aṅgaṃ, phalamagge ca pariyāpannanti attho. ^1-1481
 
@@ -4018,7 +4029,7 @@ Lokuttaravipākakathā niṭṭhitā. ^1-1483
 
 ##### Akusalavipākakathā ^1-4-13-4-0
 
-![[pi-1#^1-556]]
+![[1-SOURCES/Text/pi-1.md#^1-556]]
 
 Ito parāni akusalavipākāni – pañca cakkhusotaghānajivhākāyaviññāṇāni, ekā manodhātu, ekā manoviññāṇadhātūti imāni satta cittāni – pāḷito ca atthato ca heṭṭhā vuttehi tādiseheva kusalavipākacittehi sadisāni. ^1-1484
 
@@ -4030,7 +4041,7 @@ Akusalavipākakathā niṭṭhitā. ^1-1486
 
 ##### Manodhātucittaṃ ^1-4-14-1-0
 
-![[pi-1#^1-566]]
+![[1-SOURCES/Text/pi-1.md#^1-566]]
 
 Idāni kiriyābyākataṃ bhājetvā dassetuṃ puna katame dhammā abyākatātiādi āraddhaṃ. Tattha kiriyāti karaṇamattaṃ. Sabbesuyeva hi kiriyacittesu yaṃ javanabhāvaṃ appattaṃ taṃ vātapupphaṃ viya. Yaṃ javanabhāvappattaṃ taṃ chinnamūlakarukkhapupphaṃ viya aphalaṃ hoti, taṃtaṃ kiccasādhanavasena pavattattā pana karaṇamattameva hoti. Tasmā kiriyāti vuttaṃ. Nevakusalānākusalātiādīsu kusalamūlasaṅkhātassa kusalahetuno abhāvā ‘nevakusalā’; akusalamūlasaṅkhātassa akusalahetuno abhāvā ‘nevaakusalā’; yonisomanasikāraayonisomanasikārasaṅkhātānampi kusalākusalapaccayānaṃ abhāvā ‘nevakusalānākusalā’. Kusalākusalasaṅkhātassa janakahetuno abhāvā nevakammavipākā. ^1-1487
 
@@ -4040,7 +4051,7 @@ Kiriyamanodhātucittaṃ niṭṭhitaṃ. ^1-1489
 
 ##### Kiriyamanoviññāṇadhātucittāni ^1-4-14-2-0
 
-![[pi-1#^1-568]]
+![[1-SOURCES/Text/pi-1.md#^1-568]]
 
 Manoviññāṇadhātuuppannā hoti…pe… somanassasahagatāti, idaṃ cittaṃ aññesaṃ asādhāraṇaṃ. Khīṇāsavasseva pāṭipuggalikaṃ. Chasu dvāresu labbhati. Cakkhudvāre hi padhānasāruppaṃ ṭhānaṃ disvā khīṇāsavo iminā cittena somanassito hoti. Sotadvāre bhaṇḍabhājanīyaṭṭhānaṃ patvā mahāsaddaṃ katvā luddhaluddhesu gaṇhantesu ‘evarūpā nāma me loluppataṇhā pahīnā’ti iminā cittena somanassito hoti. Ghānadvāre gandhehi vā pupphehi vā cetiyaṃ pūjento iminā cittena somanassito hoti. Jivhādvāre rasasampannaṃ piṇḍapātaṃ laddhā bhājetvā paribhuñjanto ‘sāraṇīyadhammo vata me pūrito’ti iminā cittena somanassito hoti. Kāyadvāre abhisamācārikavattaṃ karonto ‘kāyadvāre me vattaṃ pūrita’nti iminā cittena somanassito hoti. Evaṃ tāva pañcadvāre labbhati. ^1-1490
 
@@ -4048,7 +4059,7 @@ Manodvāre pana atītānāgatamārabbha uppajjati. Jotipālamāṇava(ma. ni. 2.
 
 Niddesavāre panassa sesaahetukacittehi balavataratāya cittekaggatā samādhibalaṃ pāpetvā ṭhapitā. Vīriyampi vīriyabalaṃ pāpetvā. Uddesavāre pana ‘samādhibalaṃ hoti vīriyabalaṃ hotī’ti anāgatattā paripuṇṇena balaṭṭhenetaṃ dvayaṃ balaṃ nāma na hoti. Yasmā pana ‘neva kusalaṃ nākusalaṃ’ tasmā balanti vatvāna ṭhapitaṃ. Yasmā ca na nippariyāyena balaṃ, tasmā saṅgahavārepi ‘dve balāni hontī’ti na vuttaṃ. Sesaṃ sabbaṃ somanassasahagatāhetukamanoviññāṇadhātuniddese vuttanayeneva veditabbaṃ. ^1-1492
 
-![[pi-1#^1-574]]
+![[1-SOURCES/Text/pi-1.md#^1-574]]
 
 Upekkhāsahagatāti idaṃ cittaṃ tīsu bhavesu sabbesaṃ sacittakasattānaṃ sādhāraṇaṃ, na kassaci sacittakassa nuppajjati nāma. Uppajjamānaṃ pana pañcadvāre voṭṭhabbanaṃ hoti, manodvāre āvajjanaṃ. Cha asādhāraṇañāṇānipi iminā gahitārammaṇameva gaṇhanti. Mahāgajaṃ nāmetaṃ cittaṃ; imassa anārammaṇaṃ nāma natthi. ‘Asabbaññutaññāṇaṃ sabbaññutaññāṇagatikaṃ nāma katama’nti vutte ‘ida’nti vattabbaṃ. Sesamettha purimacitte vuttanayeneva veditabbaṃ. Kevalañhi tattha sappītikattā navaṅgiko saṅkhārakkhandho vibhatto. Idha nippītikattā aṭṭhaṅgiko. ^1-1493
 
@@ -4058,7 +4069,7 @@ Idha ṭhatvā hasanakacittāni samodhānetabbāni. Kati panetāni hontīti? Vuc
 
 ##### Rūpāvacarārūpāvacarakiriyaṃ ^1-4-14-3-0
 
-![[pi-1#^1-577]]
+![[1-SOURCES/Text/pi-1.md#^1-577]]
 
 Rūpāvacarārūpāvacarakiriyaniddesesu diṭṭhadhammasukhavihāranti diṭṭhadhamme, imasmiṃyeva attabhāve, sukhavihāramattaṃ. Tattha khīṇāsavassa puthujjanakāle nibbattitā samāpatti yāva na naṃ samāpajjati tāva kusalāva samāpannakāle kiriyā hoti. Khīṇāsavakāle panassa nibbattitā samāpatti kiriyāva hoti. Sesaṃ sabbaṃ taṃsadisattā kusalaniddese vuttanayeneva veditabbanti. ^1-1496
 
@@ -4078,7 +4089,7 @@ Idāni rūpakaṇḍaṃ bhājetvā dassetuṃ puna katame dhammā abyākatāti�
 
 Evaṃ vipākābyākataṃ kusalākusalavasena bhūmantaravasena sampayuttakkhandhavasenāti tīhi nayehi pariyādāya dassetvā, puna kiriyābyākataṃ dassento ye ca dhammā kiriyātiādimāha. Tattha ‘kāmāvacarā rūpāvacarā arūpāvacarā vedanākkhandho…pe… viññāṇakkhandho’ti vattabbaṃ bhaveyya. Heṭṭhā pana gahitamevāti nayaṃ dassetvā nissajjitaṃ. Idāni avibhattaṃ dassento sabbañca rūpaṃ asaṅkhatā ca dhātūti āha. Tattha ‘sabbañca rūpa’nti padena pañcavīsati rūpāni channavutirūpakoṭṭhāsā nippadesato gahitāti veditabbā. ‘Asaṅkhatā cadhātū’ti padena nibbānaṃ nippadesato gahitanti. Ettāvatā ‘abyākatā dhammā’ti padaṃ niṭṭhitaṃ hoti. ^1-1502
 
-![[pi-1#^1-584]]
+![[1-SOURCES/Text/pi-1.md#^1-584]]
 
 Tattha katamaṃ sabbaṃ rūpanti idaṃ kasmā gahitaṃ? Heṭṭhā rūpābyākataṃ saṅkhepena kathitaṃ. Idāni taṃ ekakadukatikacatukka…pe… ekādasakavasena vitthārato bhājetvā dassetuṃ idaṃ gahitaṃ. Tassattho – yaṃ vuttaṃ ‘sabbañca rūpaṃ, asaṅkhatā ca dhātū’ti, tasmiṃ padadvaye ‘katamaṃ sabbaṃ rūpaṃ nāma’? Idāni taṃ dassento cattāro ca mahābhūtātiādimāha . Tattha cattāroti gaṇanaparicchedo. Tena tesaṃ ūnādhikabhāvaṃ nivāreti. ‘Ca’-saddo sampiṇḍanattho. Tena na kevalaṃ ‘cattāro mahābhūtāva’ rūpaṃ, aññampi atthīti ‘upādārūpaṃ’ sampiṇḍeti. ^1-1503
 
@@ -4184,13 +4195,13 @@ Tatrāyaṃ nayo – dutiyasaṅgahe tāva sataṃ cattāro ca dukā. Tattha att
 
 ##### Tividharūpasaṅgaho ^1-5-1-3-0
 
-![[pi-1#^1-585]]
+![[1-SOURCES/Text/pi-1.md#^1-585]]
 
 Tatiyasaṅgahe sataṃ tīṇi ca tikāni. Tattha dutiyasaṅgahe vuttesu cuddasasu pakiṇṇakadukesu ekaṃ ajjhattikadukaṃ sesehi terasahi yojetvā yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ upādā; yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi upādā , atthi noupādātiādinā nayena ṭhapitā terasa pakiṇṇakatikā nāma. Tato tameva dukaṃ sesadukehi saddhiṃ yojetvā yaṃ taṃ rūpaṃ bāhiraṃ taṃ cakkhusamphassassa na vatthu, yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ atthi cakkhusamphassassa vatthu, atthi cakkhusamphassassa na vatthūtiādinā nayena sesatikā ṭhapitā. Tesaṃ nāmañca gaṇanā ca tesaṃyeva vatthudukādīnaṃ vasena veditabbāti. Idaṃ tatiyasaṅgahe pāḷivavatthānaṃ. ^1-1541
 
 ##### Catubbidhādirūpasaṅgahā ^1-5-1-4-0
 
-![[pi-1#^1-586]]
+![[1-SOURCES/Text/pi-1.md#^1-586]]
 
 Catutthasaṅgahe dvāvīsati catukkā. Tattha sabbapacchimo atthi rūpaṃ upādā atthi rūpaṃ noupādāti evaṃ idha vuttaṃ mātikaṃ anāmasitvā ṭhapito . Itare pana āmasitvā ṭhapitā. Kathaṃ? Ye tāva idha duvidhasaṅgahe pakiṇṇakesu ādito tayo dukā, tesu ekekaṃ gahetvā yaṃ taṃ rūpaṃ upādā taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇantiādinā nayena pañcahi pañcahi dukehi saddhiṃ yojetvā dukattayamūlakā ādimhi pañcadasa catukkā ṭhapitā. ^1-1542
 
@@ -4200,7 +4211,7 @@ Yathā cāyaṃ catutthaduko yogaṃ na gacchati, tathā tena saddhiṃ ādiduko
 
 #### Rūpavibhattiekakaniddesavaṇṇanā ^1-5-2-0
 
-![[pi-1#^1-594]]
+![[1-SOURCES/Text/pi-1.md#^1-594]]
 
 Idāni tassā atthaṃ bhājetvā dassetuṃ sabbaṃ rūpaṃ na hetumevātiādi āraddhaṃ. Kasmā panettha ‘katamaṃ taṃ sabbaṃ rūpaṃ na hetū’ti pucchā na katāti? Bhedābhāvato. Yathā hi dukādīsu ‘upādārūpa’mpi atthi ‘noupādārūpa’mpi, evamidha hetu na hetūtipi sahetukamahetukantipi bhedo natthi, tasmā pucchaṃ akatvāva vibhattaṃ. Tattha ‘sabba’nti sakalaṃ, niravasesaṃ. ‘Rūpa’nti ayamassa sītādīhi ruppanabhāvadīpano sāmaññalakkhaṇaniddeso. Na hetumevāti sādhāraṇahetupaṭikkhepaniddeso. ^1-1545
 
@@ -4216,11 +4227,11 @@ Saṅgahasaddopi sajātisañjātikiriyāgaṇanavasena catubbidho. Tattha "sabbe
 
 ##### Upādābhājanīyakathā ^1-5-3-1-0
 
-![[pi-1#^1-595]]
+![[1-SOURCES/Text/pi-1.md#^1-595]]
 
 Idāni duvidhasaṅgahādīsu ‘atthi rūpaṃ upādā, atthi rūpaṃ noupādā’ti evaṃ bhedasabbhāvato pucchāpubbaṅgamaṃ padabhājanaṃ dassento katamaṃ taṃ rūpaṃ upādātiādimāha. Tattha upādiyatīti ‘upādā’; mahābhūtāni gahetvā, amuñcitvā, tāni nissāya pavattatīti attho. Idāni taṃ pabhedato dassento cakkhāyatanantiādimāha. ^1-1550
 
-![[pi-1#^1-596]]
+![[1-SOURCES/Text/pi-1.md#^1-596]]
 
 Evaṃ tevīsatividhaṃ upādārūpaṃ saṅkhepato uddisitvā puna tadeva vitthārato niddisanto katamaṃ taṃ rūpaṃ cakkhāyatanantiādimāha. Tattha duvidhaṃ cakkhu – maṃsacakkhu paññācakkhu ca. Etesu ‘buddhacakkhu samantacakkhu ñāṇacakkhu dibbacakkhu dhammacakkhū’ti pañcavidhaṃ paññācakkhu. Tattha "addasaṃ kho ahaṃ, bhikkhave, buddhacakkhunā lokaṃ volokento satte apparajakkhe…pe… duviññāpaye"ti (ma. ni. 1.283) idaṃ buddhacakkhu nāma. "Samantacakkhu vuccati sabbaññutaññāṇa"nti idaṃ samantacakkhu nāma. "Cakkhuṃ udapādi ñāṇaṃ udapādī"ti (saṃ. ni. 5.1081; mahāva. 15) idaṃ ñāṇacakkhu nāma. "Addasaṃ kho ahaṃ, bhikkhave, dibbena cakkhunā visuddhenā"ti (ma. ni. 1.284) idaṃ dibbacakkhu nāma. "Tasmiṃ yevāsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādī"ti (ma. ni. 2.395) idaṃ heṭṭhimamaggattayasaṅkhātaṃ ñāṇaṃ dhammacakkhu nāma. ^1-1551
 
@@ -4239,19 +4250,19 @@ Yenātiādīsu ayaṃ saṅkhepattho – yena karaṇabhūtena cakkhunā ayaṃ 
 
 Ettāvatā ‘passi vā’tiādīhi catūhi padehi cakkhuṃpetantiādīni cuddasa nāmāni yojetvā cakkhāyatanassa cattāro vavatthāpananayā vuttāti veditabbā. Kathaṃ? Ettha hi yena cakkhunā anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passi vā cakkhuṃpetaṃ…pe… suñño gāmopeso, idaṃ taṃ rūpaṃ cakkhāyatananti ayameko nayo. Evaṃ sesāpi veditabbā. ^1-1558
 
-![[pi-1#^1-597]]
+![[1-SOURCES/Text/pi-1.md#^1-597]]
 
 Idāni yasmā vijjuniccharaṇādikālesu anoloketukāmassāpi rūpaṃ cakkhupasādaṃ ghaṭṭeti, tasmā taṃ ākāraṃ dassetuṃ dutiyo niddesavāro āraddho. Tattha yamhi cakkhumhīti yamhi adhikaraṇabhūte cakkhumhi. Rūpanti paccattavacanametaṃ. Tattha paṭihaññi vāti atītattho. Paṭihaññativāti paccuppannattho. Paṭihaññissati vāti anāgatattho. Paṭihaññe vāti vikappanattho. Atītañhi rūpaṃ atīte cakkhusmiṃ paṭihaññi nāma. Paccuppannaṃ paccuppanne paṭihaññati nāma. Anāgataṃ anāgate paṭihaññissati nāma. Sace taṃ rūpaṃ cakkhussa āpāthaṃ āgaccheyya, cakkhumhi paṭihaññeyya taṃ rūpanti ayamettha parikappo. Atthato pana pasādaṃ ghaṭṭayamānameva rūpaṃ paṭihaññati nāma. Idhāpi purimanayeneva cattāro vavatthāpananayā veditabbā. ^1-1559
 
-![[pi-1#^1-598]]
+![[1-SOURCES/Text/pi-1.md#^1-598]]
 
 Idāni yasmā attano icchāya oloketukāmassa rūpe cakkhuṃ upasaṃharato cakkhu rūpasmiṃ paṭihaññati, tasmā taṃ ākāraṃ dassetuṃ tatiyo niddesavāro āraddho. So atthato pākaṭoyeva. Ettha pana cakkhu ārammaṇaṃ sampaṭicchamānameva rūpamhi paṭihaññati nāma. Idhāpi purimanayeneva cattāro vavatthāpananayā veditabbā. ^1-1560
 
-![[pi-1#^1-599]]
+![[1-SOURCES/Text/pi-1.md#^1-599]]
 
 Ito paraṃ phassapañcamakānaṃ uppattidassanavasena pañca, tesaṃyeva ārammaṇapaṭibaddhauppattidassanavasena pañcāti, dasa vārā dassitā. Tattha cakkhuṃ nissāyāti cakkhuṃ nissāya, paccayaṃ katvā. Rūpaṃ ārabbhāti rūpārammaṇaṃ āgamma, sandhāya, paṭicca. Iminā cakkhupasādavatthukānaṃ phassādīnaṃ purejātapaccayena cakkhudvārajavanavīthipariyāpannānaṃ ārammaṇādhipatiārammaṇūpanissayapaccayehi rūpassa paccayabhāvo dassito. Itaresu pañcasu vāresu rūpaṃ ārammaṇamassāti rūpārammaṇoti evaṃ ārammaṇapaccayamatteneva paccayabhāvo dassito. Yathā pana purimesu tīsu, evaṃ imesupi dasasu vāresu cattāro cattāro vavatthāpananayā veditabbā. Evaṃ katamaṃ taṃ rūpaṃ cakkhāyatananti pucchāya uddhaṭaṃ cakkhuṃ ‘idaṃ ta’nti nānappakārato dassetuṃ, purimā tayo, ime dasāti, terasa niddesavārā dassitā. Ekekasmiñcettha catunnaṃ catunnaṃ vavatthāpananayānaṃ āgatattā dvipaññāsāya nayehi paṭimaṇḍetvāva dassitāti veditabbā. ^1-1561
 
-![[pi-1#^1-600]]
+![[1-SOURCES/Text/pi-1.md#^1-600]]
 
 Ito paresu sotāyatanādiniddesesupi eseva nayo. Visesamattaṃ panettha evaṃ veditabbaṃ – suṇātīti sotaṃ. Taṃ sasambhārasotabilassa anto tanutambalomācite aṅgulivedhakasaṇṭhāne padese vuttappakārāhi dhātūhi katūpakāraṃ, utucittāhārehi upatthambhiyamānaṃ, āyunā anupāliyamānaṃ, vaṇṇādīhi parivutaṃ sotaviññāṇādīnaṃ yathārahaṃ vatthudvārabhāvaṃ sādhayamānaṃ tiṭṭhati. ^1-1562
 
@@ -4297,7 +4308,7 @@ Apica nesaṃ asammissatāya ayaṃ upamāpi veditabbā – yathā hi pañcava�
 
 Tattha cakkhupasādassa paccayāni cattāri mahābhūtāni, vaṇṇo gandho raso ojā, jīvitindriyaṃ cakkhupasādoti idaṃ ekantato avinibhuttānaṃ dasannaṃ nipphannarūpānaṃ vasena cakkhudasakaṃ nāma. Iminā nayena sesānipi veditabbāni. Tesu heṭṭhimakāye rūpaṃ majjhimakāyauparimakāyarūpehi saddhiṃ asammissaṃ. Sesakāyadvayepi rūpaṃ itarehi saddhiṃ asammissameva. Yathā hi sāyanhasamaye pabbatacchāyā ca rukkhacchāyā ca kiñcāpi ekābaddhā viya honti aññamaññaṃ pana asammissāva evaṃ imesupi kāyesu catucattālīsa catupaññāsa caturāsīti rūpāni ca kiñcāpi ekābaddhāni viya honti, aññamaññaṃ pana asammissānevāti. ^1-1583
 
-![[pi-1#^1-616]]
+![[1-SOURCES/Text/pi-1.md#^1-616]]
 
 Rūpāyatananiddese vaṇṇova vaṇṇanibhā; nibhātīti vā nibhā. Cakkhuviññāṇassa pākaṭā hotīti attho. Vaṇṇova nibhā vaṇṇanibhā. Saddhiṃ nidassanena sanidassanaṃ, cakkhuviññāṇena passitabbanti attho. Saddhiṃ paṭighena sappaṭighaṃ, paṭighaṭṭananighaṃsajanakanti attho. Nīlādīsu umāpupphasamānaṃ nīlaṃ, kaṇikārapupphasamānaṃ pītakaṃ, bandhujīvakapupphasamānaṃ lohitakaṃ, osadhitārakasamānaṃ odātaṃ. Jhāmaṅgārasamānaṃ kāḷakaṃ, mandarattaṃ sinduvārakaravīramakuḷasamānaṃ mañjiṭṭhakaṃ. "Harittacahemavaṇṇakāmaṃsumukhapakkamā"ti (jā. 1.15.133) ettha pana kiñcāpi ‘harī’ti suvaṇṇaṃ vuttaṃ, parato panassa jātarūpaggahaṇena gahitattā idha sāmaṃ hari nāma. Imāni satta vatthuṃ anāmasitvā sabhāveneva dassitāni. ^1-1584
 
@@ -4315,25 +4326,25 @@ Yaṃ vā panaññampīti iminā pāḷiāgataṃ ṭhapetvā sesaṃ taṭṭik
 
 Evametaṃ nīlādinā bhedena bhinnampi rūpaṃ sabbaṃ lakkhaṇādīhi abhinnameva. Sabbañhetaṃ cakkhupaṭihananalakkhaṇaṃ rūpaṃ, cakkhuviññāṇassa visayabhāvarasaṃ, tasseva gocarapaccupaṭṭhānaṃ, catumahābhūtapadaṭṭhānaṃ. Yathā cetaṃ tathā sabbānipi upādārūpāni. Yattha pana viseso atthi tattha vakkhāma. Sesamettha cakkhāyatananiddese vuttanayeneva veditabbaṃ. Kevalañhi tattha cakkhupubbaṅgamo niddeso idha rūpapubbaṅgamo. Tattha ‘cakkhuṃ peta’ntiādīni cuddasa nāmāni, idha ‘rūpaṃpeta’ntiādīni tīṇi. Sesaṃ tādisameva. Yathā hi catūhi catūhi nayehi paṭimaṇḍetvā cakkhuṃ vavatthāpetuṃ terasa vārā vuttā, idhāpi te tatheva vuttāti. ^1-1591
 
-![[pi-1#^1-620]]
+![[1-SOURCES/Text/pi-1.md#^1-620]]
 
 Saddāyatananiddese bherisaddoti mahābherīpahaṭabherīnaṃ saddo. Mudiṅgasaṅkhapaṇavasaddāpi mudiṅgādipaccayā saddā. Gītasaṅkhāto saddo gītasaddo. Vuttāvasesānaṃ vīṇādīnaṃ tantibaddhānaṃ saddo vāditasaddo. Sammasaddoti kaṃsatālakaṭṭhatālasaddo. Pāṇisaddoti pāṇippahārasaddo. Sattānaṃ nigghosasaddoti bahūnaṃ sannipatitānaṃ apaññāyamānapadabyañjananigghosasaddo. Dhātūnaṃ sannighātasaddoti rukkhānaṃ aññamaññanighaṃsanaghaṇṭikākoṭanādisaddo. Vātassa vāyato saddo vātasaddo. Udakassa sandamānassa vā paṭihatassa vā saddo udakasaddo. Manussānaṃ sallāpādisaddo manussasaddo. Taṃ ṭhapetvā seso sabbopi amanussasaddo. Iminā padadvayena sabbopi saddo pariyādinno. Evaṃ santepi vaṃsaphālanapilotikaphālanādīsu pavatto pāḷiyaṃ anāgatasaddo yevāpanakaṭṭhānaṃ paviṭṭhoti veditabbo. ^1-1592
 
 Evamayaṃ bherīsaddādinā bhedena bhinnopi saddo lakkhaṇādīhi abhinnoyeva. Sabbopi hesa sotapaṭihananalakkhaṇo saddo sotaviññāṇassa visayabhāvaraso, tasseva gocarapaccupaṭṭhāno. Sesaṃ cakkhāyatananiddese vuttanayeneva veditabbaṃ. Idhāpi hi catūhi catūhi nayehi paṭimaṇḍitā terasa vārā vuttā. Tesaṃ attho sakkā vuttanayeneva jānitunti na vitthārito. ^1-1593
 
-![[pi-1#^1-624]]
+![[1-SOURCES/Text/pi-1.md#^1-624]]
 
 Gandhāyatananiddese mūlagandhoti yaṃ kiñci mūlaṃ paṭicca nibbatto gandho. Sāragandhādīsupi eseva nayo. Asiddhadusiddhānaṃ ḍākādīnaṃ gandho āmakagandho. Macchasakalikāpūtimaṃsasaṃkiliṭṭhasappiādīnaṃ gandho vissagandho. Sugandhoti iṭṭhagandho. Duggandhoti aniṭṭhagandho. Iminā padadvayena sabbopi gandho pariyādinno. Evaṃ santepi kaṇṇakagandhapilotikagandhādayo pāḷiyaṃ anāgatā sabbepi gandhā yevāpanakaṭṭhānaṃ paviṭṭhāti veditabbā. ^1-1594
 
 Evamayaṃ mūlagandhādinā bhedena bhinnopi gandho lakkhaṇādīhi abhinnoyeva. Sabbopi hesa ghānapaṭihananalakkhaṇo gandho, ghānaviññāṇassa visayabhāvaraso, tasseva gocarapaccupaṭṭhāno. Sesaṃ cakkhāyatananiddese vuttanayeneva veditabbaṃ. Idhāpi hi tatheva dvipaññāsanayapaṭimaṇḍitā terasa vārā vuttā. Te atthato pākaṭāyeva. ^1-1595
 
-![[pi-1#^1-628]]
+![[1-SOURCES/Text/pi-1.md#^1-628]]
 
 Rasāyatananiddese mūlarasoti yaṃkiñci mūlaṃ paṭicca nibbattaraso. Khandharasādīsupi eseva nayo. Ambilanti takkambilādi. Madhuranti ekantato gosappiādi. Madhu pana kasāvayuttaṃ ciranikkhittaṃ kasāvaṃ hoti. Phāṇitaṃ khāriyuttaṃ ciranikkhittaṃ khāriyaṃ hoti. Sappi pana ciranikkhittaṃ vaṇṇagandhe jahantampi rasaṃ na jahatīti tadeva ekantamadhuraṃ. Tittakanti nimbapaṇṇādi. Kaṭukanti siṅgiveramaricādi. Loṇikanti sāmuddikaloṇādi. Khārikanti vātiṅgaṇakaḷīrādi. Lambilanti badarāmalakakapiṭṭhasālavādi. Kasāvanti haritakādi. Ime sabbepi rasā vatthuvasena vuttā. Taṃtaṃvatthuto panettha rasova ambilādīhi nāmehi vuttoti veditabbo. Sādūti iṭṭharaso, asādūti aniṭṭharaso. Iminā padadvayena sabbopi raso pariyādinno. Evaṃ santepi leḍḍurasabhittirasapilotikarasādayo pāḷiyaṃ anāgatā sabbepi rasā yevāpanakaṭṭhānaṃ paviṭṭhāti veditabbā. ^1-1596
 
 Evamayaṃ mūlarasādinābhedena bhinnopi raso lakkhaṇādīhi abhinnoyeva. Sabbopi hesa jivhāpaṭihananalakkhaṇo raso, jivhāviññāṇassa visayabhāvaraso, tasseva gocarapaccupaṭṭhāno. Sesaṃ cakkhāyatananiddese vuttanayeneva veditabbaṃ. Idhāpi hi tatheva dvipaññāsanayapaṭimaṇḍitā terasa vārā vuttā. ^1-1597
 
-![[pi-1#^1-632]]
+![[1-SOURCES/Text/pi-1.md#^1-632]]
 
 Itthindriyaniddese yanti karaṇavacanaṃ. Yena kāraṇena itthiyā itthiliṅgādīni hontīti ayamettha attho. Tattha ‘liṅga’nti saṇṭhānaṃ. Itthiyā hi hatthapādagīvāurādīnaṃ saṇṭhānaṃ na purisassa viya hoti. Itthīnañhi heṭṭhimakāyo visado hoti, uparimakāyo avisado. Hatthapādā khuddakā, mukhaṃ khuddakaṃ. Nimittanti sañjānanaṃ. Itthīnañhi uramaṃsaṃ avisadaṃ hoti, mukhaṃ nimmassudāṭhikaṃ. Kesabandhavatthaggahaṇampi na purisānaṃ viya hoti. Kuttanti kiriyā. Itthiyo hi daharakāle suppakamusalakehi kīḷanti, cittadhītalikāya kīḷanti, mattikavākena suttakaṃ nāma kantanti. Ākappoti gamanādiākāro. Itthiyo hi gacchamānā avisadā gacchanti, tiṭṭhamānā nipajjamānā nisīdamānā khādamānā bhuñjamānā avisadā bhuñjanti. Purisampi hi avisadaṃ disvā mātugāmo viya gacchati tiṭṭhati nipajjati nisīdati khādati bhuñjatīti vadanti. ^1-1598
 
@@ -4341,7 +4352,7 @@ Itthattaṃ itthibhāvoti ubhayampi ekatthaṃ; itthisabhāvoti attho. Ayaṃ ka
 
 Idaṃ taṃ rūpaṃ itthindriyanti idaṃ taṃ rūpaṃ, yathā cakkhundriyādīni purisassāpi honti, na evaṃ; niyamato pana itthiyā eva indriyaṃ ‘itthindriyaṃ’. ^1-1600
 
-![[pi-1#^1-633]]
+![[1-SOURCES/Text/pi-1.md#^1-633]]
 
 Purisindriyepi eseva nayo. Purisaliṅgādīni pana itthiliṅgādīnaṃ paṭipakkhato veditabbāni. Purisassa hi hatthapādagīvāurādīnaṃ saṇṭhānaṃ na itthiyā viya hoti. Purisānañhi uparimakāyo visado hoti heṭṭhimakāyo avisado, hatthapādā mahantā, mukhaṃ mahantaṃ, uramaṃsaṃ visadaṃ, massudāṭhikā uppajjanti. Kesabandhanavatthaggahaṇaṃ na itthīnaṃ viya hoti. Daharakāle rathanaṅgalādīhi kīḷanti, vālikapāḷiṃ katvā vāpiṃ nāma khananti, gamanādīni visadāni honti. Itthimpi gamanādīni visadāni kurumānaṃ disvā ‘puriso viya gacchatī’tiādīni vadanti. Sesaṃ itthindriye vuttasadisameva. ^1-1601
 
@@ -4357,11 +4368,11 @@ Ubhatobyañjanakassa pana kiṃ ekaṃ indriyaṃ udāhu dveti? Ekaṃ. Tañca k
 
 Yadi ca tesaṃ indriyaṃ dutiyabyañjanakāraṇaṃ bhaveyya, sadāpi byañjanadvayaṃ tiṭṭheyya. Na pana tiṭṭhati. Tasmā veditabbametaṃ na tassa taṃ byañjanakāraṇaṃ. Kammasahāyaṃ pana rāgacittamevettha kāraṇaṃ. Yasmā cassa ekameva indriyaṃ hoti, tasmā itthiubhatobyañjanako sayampi gabbhaṃ gaṇhāti, parampi gaṇhāpeti. Purisaubhatobyañjanako paraṃ gabbhaṃ gaṇhāpeti, sayaṃ pana na gaṇhātīti. ^1-1607
 
-![[pi-1#^1-634]]
+![[1-SOURCES/Text/pi-1.md#^1-634]]
 
 Jīvitindriyaniddese yaṃ vattabbaṃ taṃ heṭṭhā arūpajīvitindriye vuttameva. Kevalañhi tattha yo tesaṃ arūpīnaṃ dhammānanti vuttaṃ, idha rūpajīvitindriyattā yo tesaṃ rūpīnaṃ dhammānanti ayameva viseso. Lakkhaṇādīni panassa evaṃ veditabbāni – sahajātarūpānupālanalakkhaṇaṃ jīvitindriyaṃ, tesaṃ pavattanarasaṃ, tesaṃ yeva ṭhapanapaccupaṭṭhānaṃ, yāpayitabbabhūtapadaṭṭhānanti. ^1-1608
 
-![[pi-1#^1-635]]
+![[1-SOURCES/Text/pi-1.md#^1-635]]
 
 Kāyaviññattiniddese kāyaviññattīti ettha tāva kāyena attano bhāvaṃ viññāpentānaṃ tiracchānehipi purisānaṃ, purisehi vā tiracchānānampi kāyagahaṇānusārena gahitāya etāya bhāvo viññāyatīti ‘viññatti’. Sayaṃ kāyagahaṇānusārena viññāyatītipi ‘viññatti’. "Kāyena saṃvaro sādhū"tiādīsu (dha. pa. 361) āgato copanasaṅkhāto kāyova viññatti ‘kāyaviññatti’. Kāyavipphandanena adhippāyaviññāpanahetuttā, sayañca tathā viññeyyattā kāyena viññattītipi ‘kāyaviññatti’. ^1-1609
 
@@ -4371,7 +4382,7 @@ Idāni chahi padehi ‘phalato’ dassetuṃ abhikkamantassa vātiādi vuttaṃ.
 
 Idāni chahi padehi ‘sabhāvato’ dassetuṃ kāyassa thambhanāti ādi vuttaṃ. Tattha ‘kāyassā’ti sarīrassa. Kāyaṃ thambhetvā thaddhaṃ karotīti thambhanā. Tameva upasaggena vaḍḍhetvā santhambhanāti āha. Balavatarā vā thambhanā ‘santhambhanā’. Santhambhitattanti santhambhitabhāvo. Viññāpanavasena viññatti. Viññāpanāti viññāpanākāro. Viññāpitabhāvo viññāpitattaṃ. Sesamettha yaṃ vattabbaṃ taṃ heṭṭhā dvārakathāyaṃ vuttameva. Tathā vacīviññattiyaṃ. ^1-1612
 
-![[pi-1#^1-636]]
+![[1-SOURCES/Text/pi-1.md#^1-636]]
 
 Vacīviññattītipadassa pana niddesapadānañca attho tattha na vutto, so evaṃ veditabbo – vācāya attano bhāvaṃ viññāpentānaṃ tiracchānehipi purisānaṃ, purisehi vā tiracchānānampi , vacīgahaṇānusārena gahitāya etāya bhāvo viññāyatīti viññatti. Sayañca vacīgahaṇānusārena viññāyatītipi viññatti. "Sādhu vācāya saṃvaro"tiādīsu (dha. pa. 361) āgatā copanasaṅkhātā vacī eva viññatti ‘vacīviññatti’. Vacīghosena adhippāyaviññāpanahetuttā sayañca tathāviññeyyattā vācāya viññattītipi ‘vacīviññatti’. Vācā girātiādīsu vuccatīti ‘vācā’. Giriyatīti ‘girā’. Byappathoti vākyabhedo. Vākyañca taṃ patho ca atthaṃ ñātukāmānaṃ ñāpetukāmānañcātipi ‘byappatho’. Udīriyatīti udīraṇaṃ. Ghussatīti ghoso. Kariyatīti kammaṃ. Ghosova kammaṃ ghosakammaṃ. Nānappakārehi kato ghosoti attho. Vaciyā bhedo vacībhedo. So pana ‘na bhaṅgo, pabhedagatā vācā evā’ti ñāpanatthaṃ vācā vacībhedoti vuttaṃ. Imehi sabbehipi padehi ‘saddavācāva’ dassitā. Idāni tāya vācāya saddhiṃ yojetvā heṭṭhā vuttatthānaṃ viññattiādīnaṃ padānaṃ vasena tīhākārehi sabhāvato taṃ dassetuṃ yā tāya vācāya viññattītiādi vuttaṃ. Taṃ heṭṭhā vuttanayattā uttānatthameva. ^1-1613
 
@@ -4379,11 +4390,11 @@ Idāni viññattisamuṭṭhāpakacittesu asammohatthaṃ dvattiṃsa chabbīsa 
 
 Tattha dvattiṃsāti heṭṭhā vuttāneva kāmāvacarato aṭṭha kusalāni, dvādasa akusalāni, kiriyato dasa cittāni, sekkhaputhujjanānaṃ abhiññācittaṃ, khīṇāsavānaṃ abhiññācittanti. Chabbīsāti rūpāvacarato pañca kusalāni, pañca kiriyāni, arūpāvacarato cattāri kusalāni, cattāri kiriyāni, cattāri maggacittāni, cattāri phalacittānīti. Ekūnavīsatīti kāmāvacarakusalavipākato ekādasa, akusalavipākato dve , kiriyato kiriyamanodhātu, rūpāvacarato pañca vipākacittānīti. Soḷasāti dve pañcaviññāṇāni, sabbasattānaṃ paṭisandhicittaṃ, khīṇāsavānaṃ cuticittaṃ, arūpe cattāri vipākacittānīti. Imāni soḷasa rūpiriyāpathaviññattīsu ekampi na karonti. Aññānipi bahūni arūpe uppannāni anokāsagatattā rūpaṃ na samuṭṭhāpenti. Na tāneva, kāyavacīviññattiyopi. ^1-1615
 
-![[pi-1#^1-637]]
+![[1-SOURCES/Text/pi-1.md#^1-637]]
 
 Ākāsadhātuniddese na kassati, na nikassati, kasituṃ vā chindituṃ vā bhindituṃ vā na sakkāti ākāso. Ākāsova ākāsagataṃ, kheḷagatādi viya. Ākāsoti vā gatanti ‘ākāsagataṃ’. Na haññatīti aghaṃ, aghaṭṭanīyanti attho. Aghameva aghagataṃ. Chiddaṭṭhena vivaro. Vivarova vivaragataṃ. Asamphuṭṭhaṃ catūhi mahābhūtehīti etehi asamphuṭṭhaṃ nijjaṭākāsaṃva kathitaṃ. Lakkhaṇādito pana rūpaparicchedalakkhaṇā ākāsadhātu, rūpapariyantappakāsanarasā, rūpamariyādapaccupaṭṭhānā asamphuṭṭhabhāvachiddavivarabhāvapaccupaṭṭhānā vā, paricchinnarūpapadaṭṭhānā, yāya paricchinnesu rūpesu ‘idamito uddhaṃ adho tiriya’nti ca hoti. ^1-1616
 
-![[pi-1#^1-638]]
+![[1-SOURCES/Text/pi-1.md#^1-638]]
 
 Ito pare rūpassalahutādīnaṃ niddesā cittassalahutādīsu vuttanayeneva veditabbā. Lakkhaṇādito panettha adandhatālakkhaṇā rūpassa lahutā, rūpānaṃ garubhāvavinodanarasā, lahuparivattitāpaccupaṭṭhānā, lahurūpapadaṭṭhānā. Athaddhatālakkhaṇā rūpassa mudutā, rūpānaṃ thaddhabhāvavinodanarasā, sabbakiriyāsu avirodhitāpaccupaṭṭhānā, mudurūpapadaṭṭhānā. Sarīrakiriyānukūlakammaññabhāvalakkhaṇā rūpassa kammaññatā, akammaññatāvinodanarasā, adubbalabhāvapaccupaṭṭhānā, kammaññarūpapadaṭṭhānā. ^1-1617
 
@@ -4391,7 +4402,7 @@ Etā pana tisso na aññamaññaṃ vijahanti. Evaṃ santepi yo arogino viya r�
 
 Etā pana tissopi kammaṃ kātuṃ na sakkoti, āhārādayova karonti. Tathā hi yogino ‘ajja amhehi bhojanasappāyaṃ laddhaṃ, kāyo no lahu mudu kammañño’ti vadanti. ‘Ajja utusappāyaṃ laddhaṃ, ajja amhākaṃ cittaṃ ekaggaṃ, kāyo no lahu mudu kammañño’ti vadantīti. ^1-1619
 
-![[pi-1#^1-641]]
+![[1-SOURCES/Text/pi-1.md#^1-641]]
 
 Upacayasantatiniddesesu āyatanānanti aḍḍhekādasannaṃ rūpāyatanānaṃ. Ācayoti nibbatti. So rūpassa upacayoti yo āyatanānaṃ ācayo punappunaṃ nibbattamānānaṃ, sova rūpassa upacayo nāma hoti; vaḍḍhīti attho. Yo rūpassa upacayo sā rūpassa santatīti yā evaṃ upacitānaṃ rūpānaṃ vaḍḍhi, tato uttaritaraṃ pavattikāle sā rūpassa santati nāma hoti; pavattīti attho. Naditīre khatakūpasmiñhi udakuggamanakālo viya ācayo, nibbatti; paripuṇṇakālo viya upacayo, vaḍḍhi; ajjhottharitvā gamanakālo viya santati, pavattīti veditabbā. ^1-1620
 
@@ -4399,7 +4410,7 @@ Evaṃ kiṃ kathitaṃ hotīti? Āyatanena hi ācayo kathito, ācayena āyatana
 
 Yasmā ca ubhayampetaṃ jātirūpasseva adhivacanaṃ tasmā ettha ācayalakkhaṇo rūpassa upacayo, pubbantato rūpānaṃ ummujjāpanaraso, niyyātanapaccupaṭṭhāno paripuṇṇabhāvapaccupaṭṭhāno vā, upacitarūpapadaṭṭhāno. Pavattilakkhaṇā rūpassa santati, anuppabandharasā, anupacchedapaccupaṭṭhānā, anuppabandharūpapadaṭṭhānāti veditabbā. ^1-1622
 
-![[pi-1#^1-643]]
+![[1-SOURCES/Text/pi-1.md#^1-643]]
 
 Jaratāniddese jīraṇakavasena jarā; ayamettha sabhāvaniddeso . Jīraṇākāro jīraṇatā. Khaṇḍiccanti ādayo tayo kālātikkame kiccaniddesā. Pacchimā dve pakatiniddesā. Ayañhi ‘jarā’ti iminā padena sabhāvato dīpitā; tenassāyaṃ sabhāvaniddeso. ‘Jīraṇatā’ti iminā ākārato; tenassāyaṃ ākāraniddeso. Khaṇḍiccanti iminā kālātikkame dantanakhānaṃ khaṇḍitabhāvakaraṇakiccato. Pāliccanti iminā kesalomānaṃ palitabhāvakaraṇakiccato. Valittacatāti iminā maṃsaṃ milāpetvā tace valibhāvakaraṇakiccato dīpitā. Tenassā ime ‘khaṇḍicca’ntiādayo tayo kālātikkame kiccaniddesā. Tehi imesaṃ vikārānaṃ dassanavasena pākaṭībhūtā pākaṭajarā dassitā. Yatheva hi udakassa vā aggino vā tiṇarukkhādīnaṃ saṃbhaggapalibhaggatāya vā jhāmatāya vā gatamaggo pākaṭo hoti, na ca so gatamaggo tāneva udakādīni, evameva jarāya dantādīsu khaṇḍiccādivasena gatamaggo pākaṭo, cakkhuṃ ummīletvāpi gayhati, na ca khaṇḍiccādīneva jarā. Na hi jarā cakkhuviññeyyā hoti. ^1-1623
 
@@ -4409,13 +4420,13 @@ Sā panāyaṃ evaṃ niddiṭṭhā sabbāpi jarā pākaṭā paṭicchannāti 
 
 Lakkhaṇāditopi rūpaparipākalakkhaṇā rūpassa jaratā, upanayanarasā, sabhāvānapagamepi navabhāvāpagamapaccupaṭṭhānā, vīhipurāṇabhāvo viya paripaccamānarūpapadaṭṭhānāti veditabbā. ^1-1626
 
-![[pi-1#^1-644]]
+![[1-SOURCES/Text/pi-1.md#^1-644]]
 
 Aniccatāniddese khayagamanavasena khayo, vayagamanavasena vayo, bhijjanavasena bhedo. Atha vā, yasmā taṃ patvā rūpaṃ khīyati, veti, bhijjati ca, tasmā khīyati etasminti ‘khayo’, veti etasminti ‘vayo’, bhijjati etasminti ‘bhedo’. Upasaggavasena padaṃ vaḍḍhetvā bhedova paribhedo. Hutvā abhāvaṭṭhena, na niccanti aniccaṃ. Tassa bhāvo aniccatā. Antaradhāyati etthāti antaradhānaṃ. Maraṇañhi patvā rūpaṃ antaradhāyati, adassanaṃ gacchati. Na kevalañca rūpameva, sabbepi pañcakkhandhā. Tasmā pañcannampi khandhānaṃ aniccatāya idameva lakkhaṇanti veditabbaṃ. Lakkhaṇādito pana paribhedalakkhaṇā rūpassa aniccatā, saṃsīdanarasā, khayavayapaccupaṭṭhānā, paribhijjamānarūpapadaṭṭhānāti veditabbā. ^1-1627
 
 Heṭṭhā jāti gahitā jarā gahitā, imasmiṃ ṭhāne maraṇaṃ gahitaṃ. Ime tayo dhammā imesaṃ sattānaṃ ukkhittāsikapaccāmittasadisā. Yathā hi purisassa tayo paccāmittā otāraṃ gavesamānā vicareyyuṃ. Tesu eko evaṃ vadeyya – ‘etaṃ nīharitvā aṭavipavesanaṃ mayhaṃ bhāro hotū’ti. Dutiyo ‘aṭavigatakāle pothetvā pathaviyaṃ pātanaṃ mayhaṃ bhāro’ti. Tatiyo ‘pathavigatakālato paṭṭhāya asinā sīsacchedanaṃ mayhaṃ bhāro’ti. Evarūpā ime jāti ādayo. Nīharitvā aṭavipavesanapaccāmittasadisā hettha jāti, tasmiṃ tasmiṃ ṭhāne nibbattāpanato. Aṭavigataṃ pothetvā pathaviyaṃ pātanapaccāmittasadisā jarā , nibbattakkhandhānaṃ dubbalaparādhīnamañcaparāyaṇabhāvakaraṇato. Pathavigatassa asinā sīsacchedakapaccāmittasadisaṃ maraṇaṃ, jarāppattānaṃ khandhānaṃ jīvitakkhayapāpanatoti. ^1-1628
 
-![[pi-1#^1-645]]
+![[1-SOURCES/Text/pi-1.md#^1-645]]
 
 Kabaḷīkārāhāraniddese kabaḷaṃ karīyatīti kabaḷīkāro. Āharīyatīti āhāro. Kabaḷaṃ katvā ajjhoharīyatīti attho. Rūpaṃ vā āharatītipi ‘āhāro’. Evaṃ vatthuvasena nāmaṃ uddharitvā puna vatthuvasenevetaṃ pabhedato dassetuṃ odano kummāsotiādi vuttaṃ. Odanādīni hi phāṇitapariyantāni dvādasa idhādhippetassa āhārassa vatthūni. Pāḷiyaṃ anāgatāni mūlaphalādīni yevāpanakaṃ paviṭṭhāni. ^1-1629
 
@@ -4429,11 +4440,11 @@ Tattha oḷārike vatthusmiṃ ojā mandā hoti. Sukhume balavatī. Kudrūsakabh
 
 Lakkhaṇāditopi ojālakkhaṇo kabaḷīkāro āhāro, rūpāharaṇaraso, upatthambhanapaccupaṭṭhāno, kabaḷaṃ katvā āharitabbavatthupadaṭṭhānoti veditabbo. ^1-1634
 
-![[pi-1#^1-646]]
+![[1-SOURCES/Text/pi-1.md#^1-646]]
 
 Noupādāniddese yathā upādārūpaṃ upādiyateva, na aññena upādiyati, evametaṃ na upādiyatevāti noupādā. ^1-1635
 
-![[pi-1#^1-647]]
+![[1-SOURCES/Text/pi-1.md#^1-647]]
 
 Phusitabbanti phoṭṭhabbaṃ. Phusitvā jānitabbanti attho. Phoṭṭhabbañca taṃ āyatanañcāti phoṭṭhabbāyatanaṃ. Āpo ca taṃ nissattasuññatasabhāvaṭṭhena dhātu cāti āpodhātu. Idāni yasmā tīṇi rūpāni phusitvā jānitabbāni tasmā tāni bhājetvā dassetuṃ katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātūtiādimāha. Tattha kakkhaḷattalakkhaṇā pathavīdhātu, patiṭṭhānarasā, sampaṭicchanapaccupaṭṭhānā. Tejodhātu uṇhattalakkhaṇā, paripācanarasā, maddavānuppadānapaccupaṭṭhānā. Vāyodhātu vitthambhanalakkhaṇā, samudīraṇarasā, abhinīhārapaccupaṭṭhānā. Purimā pana ‘āpodhātu’ paggharaṇalakkhaṇā, brūhanarasā, saṅgahapaccupaṭṭhānā. Ekekā cettha sesattayapadaṭṭhānāti veditabbā. ^1-1636
 
@@ -4455,7 +4466,7 @@ Kathaṃ pana cittassa ārammaṇato saṅkanti hotīti? Dvīhākārehi hoti –
 
 Kelāsakūṭapaṭibhāgaṃ pana mahācetiyaṃ olokento ṭhitopi aparabhāge sabbatūriyesu paggahitesu rūpārammaṇaṃ vissajjetvā saddārammaṇaṃ saṅkamati. Manuññagandhesu pupphesu vā gandhesu vā ābhatesu saddārammaṇaṃ vissajjetvā gandhārammaṇaṃ saṅkamati. Evaṃ visayādhimattato saṅkamati nāma. ^1-1645
 
-![[pi-1#^1-651]]
+![[1-SOURCES/Text/pi-1.md#^1-651]]
 
 Āpodhātuniddese āpoti sabhāvaniddeso. Āpova āpogataṃ. Sinehavasena sineho, sinehova sinehagataṃ. Bandhanattaṃrūpassāti pathavīdhātuādikassa bhūtarūpassa bandhanabhāvo. Ayopiṇḍiādīni hi āpodhātu ābandhitvā baddhāni karoti. Tāya ābaddhattā tāni baddhāni nāma honti. Pāsāṇapabbatatālaṭṭhihatthidantagosiṅgādīsupi eseva nayo . Sabbāni hetāni āpodhātu eva ābandhitvā baddhāni karoti. Āpodhātuyā ābaddhattāva baddhāni honti. ^1-1646
 
@@ -4469,7 +4480,7 @@ Ucchurasaṃ pacitvā phāṇitapiṇḍe kariyamāne āpodhātu thaddhā hoti n
 
 Ayañhettha attho – ānanda, kakkhaḷattalakkhaṇā pathavīdhātu parivattitvā paggharaṇalakkhaṇā āpodhātu nāma bhaveyya, ariyasāvakassa pana aññathattaṃ nāma natthīti. Evamettha aṭṭhānaparikappo āgato. ^1-1651
 
-![[pi-1#^1-652]]
+![[1-SOURCES/Text/pi-1.md#^1-652]]
 
 Ito paresu upādiṇṇarūpādiniddesesu upādiṇṇapadādīnaṃ attho mātikākathāyaṃ vuttanayeneva veditabbo. Cakkhāyatanādīni heṭṭhā vitthāritāneva. Tattha tattha pana visesamattameva vakkhāma. ^1-1652
 
@@ -4477,43 +4488,43 @@ Upādiṇṇaniddese tāva cakkhāyatanādīni ekantaupādiṇṇattā vuttāni.
 
 Kasmā pana ‘kammassa katattā’ti ca ‘na kammassa katattā’ti ca ubhinnampi niddese ‘jaratā ca aniccatā ca’ na gahitā, anupādiṇṇādīnaṃyeva niddesesu gahitāti? Na kammassa katattāti ettha tāva kammato aññapaccayasamuṭṭhānaṃ saṅgahitaṃ. ‘Kammassa katattā’ti ettha kammasamuṭṭhānameva. Imāni ca dve rūpāni neva kammato na aññasmā rūpajanakapaccayā uppajjanti, tasmā na gahitāni. Sā ca nesaṃ anuppatti parato āvi bhavissati. Anupādiṇṇantiādīsu pana kevalaṃ anupādiṇṇādiggahaṇena kammādisamuṭṭhānatā paṭikkhittā, naaññapaccayasamuṭṭhānatā anuññātā. Tasmā tattha gahitānīti veditabbāni. ^1-1654
 
-![[pi-1#^1-666]]
+![[1-SOURCES/Text/pi-1.md#^1-666]]
 
 Cittasamuṭṭhānaniddese kāyaviññatti vacīviññattīti idaṃ dvayaṃ yasmā ekantacittasamuṭṭhānāni bhūtāni upādāya paññāyati, tasmā vuttaṃ. Paramatthato pana tassa nissayabhūtāni bhūtāneva cittasamuṭṭhānāni, taṃnissitattā. Yathā aniccassa rūpassa jarāmaraṇaṃ aniccaṃ nāma hoti, evamidampi cittasamuṭṭhānaṃ nāma jātaṃ. ^1-1655
 
-![[pi-1#^1-668]]
+![[1-SOURCES/Text/pi-1.md#^1-668]]
 
 Cittasahabhuniddesepi eseva nayo. Yāva cittaṃ tāva paññāyanato idameva dvayaṃ vuttaṃ. Na panetaṃ cittena saha bhūtāni viya, cetanādayo viya ca uppajjati. ^1-1656
 
-![[pi-1#^1-670]]
+![[1-SOURCES/Text/pi-1.md#^1-670]]
 
 Cittānuparivattitāyapi eseva nayo. Yāva cittaṃ tāva paññāyanato eva hetaṃ dvayaṃ cittānuparivattīti vuttaṃ. ^1-1657
 
-![[pi-1#^1-674]]
+![[1-SOURCES/Text/pi-1.md#^1-674]]
 
 Oḷārikanti vatthārammaṇabhūtattā saṃṅghaṭṭanavasena gahetabbato thūlaṃ. Vuttavipallāsato sukhumaṃ veditabbaṃ. ^1-1658
 
-![[pi-1#^1-676]]
+![[1-SOURCES/Text/pi-1.md#^1-676]]
 
 Dūreti ghaṭṭanavasena aggahetabbattā dubbiññeyyabhāvena samīpe ṭhitampi dūre. Itaraṃ pana ghaṭṭanavasena gahetabbattā suviññeyyabhāvena dūre ṭhitampi santike. Cakkhāyatanādiniddesā heṭṭhā vuttanayeneva vitthārato veditabbā. Idaṃ tāva duvidhena rūpasaṅgahe visesamattaṃ. Tividhasaṅgaho uttānatthova. ^1-1659
 
 ##### Catukkaniddesavaṇṇanā ^1-5-3-2-0
 
-![[pi-1#^1-966]]
+![[1-SOURCES/Text/pi-1.md#^1-966]]
 
 Catubbidhasaṅgahāvasāne diṭṭhādīnaṃ pacchimapadassa bhedābhāvena ādito paṭṭhāya pucchaṃ akatvāva rūpāyatanaṃ diṭṭhaṃ saddāyatanaṃ sutantiādi vuttaṃ. Tattha rūpāyatanaṃ cakkhunā oloketvā dakkhituṃ sakkāti ‘diṭṭhaṃ’ nāma jātaṃ. Saddāyatanaṃ sotena sutvā jānituṃ sakkāti ‘sutaṃ’ nāma jātaṃ. Gandhāyatanādittayaṃ ghānajivhākāyehi patvā gahetabbato munitvā jānitabbaṭṭhena mutaṃ nāma jātaṃ. Phusitvā viññāṇuppattikāraṇato ‘mutaṃ’ nāmātipi vuttaṃ. Sabbameva pana rūpaṃ manoviññāṇena jānitabbanti manasā viññātaṃ nāma jātaṃ. ^1-1660
 
 ##### Pañcakaniddesavaṇṇanā ^1-5-3-3-0
 
-![[pi-1#^1-967]]
+![[1-SOURCES/Text/pi-1.md#^1-967]]
 
 Pañcavidhasaṅgahaniddese kakkhaḷanti thaddhaṃ. Kharameva kharagataṃ, pharusanti attho. Itare dvepi sabhāvaniddesā eva. Ajjhattanti niyakajjhattaṃ. Bahiddhāti bāhiraṃ. Upādiṇṇanti na kammasamuṭṭhānameva. Avisesena pana sarīraṭṭhakassetaṃ gahaṇaṃ. Sarīraṭṭhakañhi upādiṇṇaṃ vā hotu anupādiṇṇaṃ vā, ādinnagahitaparāmaṭṭhavasena sabbaṃ upādiṇṇameva nāma. ^1-1661
 
-![[pi-1#^1-969]]
+![[1-SOURCES/Text/pi-1.md#^1-969]]
 
 Tejogatanti sabbatejesu gataṃ uṇhattalakkhaṇaṃ, tejo eva vā tejobhāvaṃ gatanti ‘tejogataṃ’. Usmāti usmākāro. Usmāgatanti usmābhāvaṃ gataṃ. Usmākārassevetaṃ nāmaṃ. Usumanti balavausmā. Usumameva usumabhāvaṃ gatanti usumagataṃ. ^1-1662
 
-![[pi-1#^1-970]]
+![[1-SOURCES/Text/pi-1.md#^1-970]]
 
 Vāyanakavasena vāyo. Vāyova vāyobhāvaṃ gatattā vāyogataṃ. Thambhitattanti uppalanāḷatacādīnaṃ viya vātapuṇṇānaṃ thambhitabhāvo rūpassa. ^1-1663
 
@@ -4521,13 +4532,13 @@ Vāyanakavasena vāyo. Vāyova vāyobhāvaṃ gatattā vāyogataṃ. Thambhitatt
 
 Chabbidhādisaṅgahānaṃ tiṇṇaṃ osānapadassa bhedābhāvato ādito paṭṭhāya apucchitvāva niddeso kato. Tattha cakkhuviññāṇena jānituṃ sakkāti cakkhuviññeyyaṃ…pe… manoviññāṇena jānituṃ sakkāti manoviññeyyaṃ. Tividhāya manodhātuyā jānituṃ sakkāti manodhātuviññeyyaṃ sabbaṃ rūpanti ettha yasmā ekaṃ rūpampi manoviññāṇadhātuyā ajānitabbaṃ nāma natthi, tasmā ‘sabbaṃ rūpa’nti vuttaṃ. Sammāsambuddhena hi abhidhammaṃ patvā nayaṃ kātuṃ yuttaṭṭhāne nayo akato nāma natthi. Idañca ekarūpassāpi manoviññāṇadhātuyā ajānitabbassa abhāvena nayaṃ kātuṃ yuttaṭṭhānaṃ nāma, tasmā nayaṃ karonto ‘sabbaṃ rūpa’nti āha. ^1-1664
 
-![[pi-1#^1-974]]
+![[1-SOURCES/Text/pi-1.md#^1-974]]
 
 Sukhasamphassoti sukhavedanāpaṭilābhapaccayo. Dukkhasamphassoti dukkhavedanāpaṭilābhapaccayo. Idhāpi phoṭṭhabbārammaṇassa sukhadukkhassa sabbhāvato ayaṃ nayo dinno. ^1-1665
 
 ##### Navakādiniddesavaṇṇanā ^1-5-3-5-0
 
-![[pi-1#^1-975]]
+![[1-SOURCES/Text/pi-1.md#^1-975]]
 
 Navake pana indriyarūpassa nāma atthitāya nayo dinno. Tasseva sappaṭighaappaṭighatāya dasake nayo dinno. Ekādasake aḍḍhekādasa āyatanāni vibhattāni. Tesaṃ niddesavārā heṭṭhā vuttanayena vitthārato veditabbā. Sesaṃ sabbattha uttānatthameva. ^1-1666
 
@@ -4567,7 +4578,7 @@ Rūpakaṇḍavaṇṇanā niṭṭhitā. ^1-1681
 
 #### Tikanikkhepakathā ^1-6-1-0
 
-![[pi-1#^1-985]]
+![[1-SOURCES/Text/pi-1.md#^1-985]]
 
 Ettāvatā kusalattiko sabbesaṃ kusalādidhammānaṃ padabhājananayena vitthārito hoti. Yasmā pana yvāyaṃ kusalattikassa vibhajananayo vutto, sesatikadukānampi eseva vibhajananayo hoti – yathā hi ettha, evaṃ ‘katame dhammā sukhāya vedanāya sampayuttā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākhandhaṃ, ime dhammā sukhāya vedanāya sampayuttā’tiādinā anukkamena sabbatikadukesu sakkā paṇḍitehi vibhājananayaṃ sallakkhetuṃ – tasmā taṃ vitthāradesanaṃ nikkhipitvā, aññena nātisaṅkhepanātivitthāranayena sabbatikadukadhammavibhāgaṃ dassetuṃ katame dhammā kusalāti nikkhepakaṇḍaṃ āraddhaṃ. Cittuppādakaṇḍañhi vitthāradesanā, aṭṭhakathākaṇḍaṃ saṅkhepadesanā. Idaṃ pana nikkhepakaṇḍaṃ cittuppādakaṇḍaṃ upādāya saṅkhepo, aṭṭhakathākaṇḍaṃ upādāya vitthāroti saṅkhittavitthāradhātukaṃ hoti. Tayidaṃ, vitthāradesanaṃ nikkhipitvā desitattāpi, heṭṭhā vuttakāraṇavasenāpi, nikkhepakaṇḍaṃ nāmāti veditabbaṃ. Vuttañhetaṃ – ^1-1682
 
@@ -4579,47 +4590,47 @@ Idañhi tīṇi kusalamūlānītiādinā nayena mūlato nikkhipitvā desitaṃ. 
 
 Tattha kusalapadaniddese tāva tīṇīti gaṇanaparicchedo. Kusalāni ca tāni mūlāni ca, kusalānaṃ vā dhammānaṃ hetupaccayapabhavajanakasamuṭṭhānanibbattakaṭṭhena mūlānīti kusalamūlāni. Evaṃ atthavasena dassetvā idāni nāmavasena dassetuṃ alobho adoso amohoti āha. Ettāvatā yasmā mūlena muttaṃ kusalaṃ nāma natthi, tasmā catubhūmakakusalaṃ tīhi mūlehi pariyādiyitvā dassesi dhammarājā. Taṃsampayuttoti tehi alobhādīhi sampayutto. Tattha alobhena sampayutte saṅkhārakkhandhe, adosāmohāpi alobhena sampayuttasaṅkhārakkhandhagaṇanaṃyeva gacchanti. Sesadvayavasena sampayogepi eseva nayo. Iti catubhūmakakusalaṃ puna taṃsampayuttakacatukkhandhavasena pariyādiyitvā dassesi dhammarājā. Taṃsamuṭṭhānanti tehi alobhādīhi samuṭṭhitaṃ. Imināpi nayena tadeva catubhūmikakusalaṃ tiṇṇaṃ kammadvārānaṃ vasena pariyādiyitvā dassesi dhammarājā. Evaṃ tāva kusalaṃ tīsu ṭhānesu pariyādiyitvā dassitaṃ. ^1-1685
 
-![[pi-1#^1-986]]
+![[1-SOURCES/Text/pi-1.md#^1-986]]
 
 Akusalepi eseva nayo. Dvādasannañhi akusalacittānaṃ ekampi mūlena muttaṃ nāma natthīti mūlena pariyādiyitvā dassesi dhammarājā. Taṃsampayuttacatukkhandhato ca uddhaṃ akusalaṃ nāma natthīti tāneva dvādasa akusalacittāni catukkhandhavasena pariyādiyitvā dassesi. Dhammarājā kāyakammādivasena pana nesaṃ pavattisabbhāvato kammadvāravasena pariyādiyitvā dassesi dhammarājā. Yaṃ panettha tadekaṭṭhā ca kilesātiādi vuttaṃ, tattha ekasmiṃ citte puggale vā ṭhitanti ‘ekaṭṭhaṃ’. Tattha ekasmiṃ citte ṭhitaṃ sahajekaṭṭhaṃ nāma hoti. Ekasmiṃ puggale ṭhitaṃ pahānekaṭṭhaṃ nāma. Tena lobhādinā aññena vā tattha tattha niddiṭṭhena saha ekasmiṃ ṭhitanti tadekaṭṭhaṃ. Tattha ‘katame dhammā saṃkiliṭṭhasaṃkilesikā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesā’ti saṃkiliṭṭhattike; ‘katame dhammā hīnā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesā’ti hīnattike ‘katame dhammā akusalā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesā’ti imasmiṃ kusalattike; ‘katame dhammā saṃkiliṭṭhā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesā’ti kilesagocchake ‘katame dhammā saraṇā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesāti saraṇaduke’ti – imesu ettakesu ṭhānesu ‘sahajekaṭṭhaṃ’ āgataṃ. ^1-1686
 
 Dassanenapahātabbattike pana ‘imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā’ti, dassanenapahātabbahetukattikepi ‘imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā’ti, puna tattheva tīṇi saṃyojanāni – sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso, ime dhammā dassanenapahātabbā; tadekaṭṭho lobho doso moho, ime dhammā dassanenapahātabbahetū; tadekaṭṭhā ca kilesā taṃsampayutto vedanākhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ, ime dhammā dassanenapahātabbahetukāti; sammappadhānavibhaṅge "tattha katame pāpakā akusalā dhammā? Tīṇi akusalamūlāni – lobho doso moho, tadekaṭṭhā ca kilesā"ti (vibha. 391) – imesu pana ettakesu ṭhānesu ‘pahānekaṭṭhaṃ’ āgatanti veditabbaṃ. ^1-1687
 
-![[pi-1#^1-987]]
+![[1-SOURCES/Text/pi-1.md#^1-987]]
 
 Abyākatapadaniddeso uttānatthoyevāti. Imasmiṃ tike tīṇi lakkhaṇāni tisso paññattiyo kasiṇugghāṭimākāsaṃ ajaṭākāsaṃ ākiñcaññāyatanassa ārammaṇaṃ nirodhasamāpatti ca na labbhatīti vuttaṃ. ^1-1688
 
-![[pi-1#^1-988]]
+![[1-SOURCES/Text/pi-1.md#^1-988]]
 
 Vedanāttikaniddese sukhabhūmiyanti ettha yathā tambabhūmi kaṇhabhūmīti tambakaṇhabhūmiyova vuccanti, evaṃ sukhampi sukhabhūmi nāma. Yathā ucchubhūmi sālibhūmīti ucchusālīnaṃ uppajjanaṭṭhānāni vuccanti, evaṃ sukhassa uppajjanaṭṭhānaṃ cittampi sukhabhūmi nāma. Taṃ idha adhippetaṃ. Yasmā pana sā kāmāvacare vā hoti, rūpāvacarādīsu vā, tasmāssā taṃ pabhedaṃ dassetuṃ kāmāvacaretiādi vuttaṃ. Sukhavedanaṃ ṭhapetvāti yā sā sukhabhūmiyaṃ sukhavedanā, taṃ ṭhapetvā. Taṃsampayuttoti tāya ṭhapitāya sukhavedanāya sampayutto. Sesapadadvayepi imināva nayena attho veditabboti. ^1-1689
 
 Imasmiṃ tike tisso vedanā, sabbaṃ rūpaṃ, nibbānanti idampi na labbhati. Ayañhi tiko kusalattike ca alabbhamānehi imehi ca tīhi koṭṭhāsehi muttako nāma. Ito paresu pana tikadukesu pāḷito ca atthato ca yaṃ vattabbaṃ siyā taṃ sabbaṃ padānukkamena mātikākathāyañceva kusalādīnaṃ niddese ca vuttameva. Yaṃ pana yattha visesamattaṃ tadeva vakkhāma. ^1-1690
 
-![[pi-1#^1-991]]
+![[1-SOURCES/Text/pi-1.md#^1-991]]
 
 Tattha vipākattike tāva kiñcāpi arūpadhammā viya rūpadhammāpi kammasamuṭṭhānā atthi, anārammaṇattā pana te kammasarikkhakā na hontīti sārammaṇā arūpadhammāva kammasarikkhakattā vipākāti vuttā, bījasarikkhakaṃ phalaṃ viya. Sālibījasmiñhi vapite aṅkurapattādīsu nikkhantesupi sāliphalanti na vuccati. Yadā pana sālisīsaṃ pakkaṃ hoti pariṇataṃ, tadā bījasarikkhako sāli eva sāliphalanti vuccati. Aṅkurapattādīni pana bījajātāni bījato nibbattānīti vuccanti, evameva rūpampi kammajanti vā upādiṇṇanti vā vattuṃ vaṭṭati. ^1-1691
 
-![[pi-1#^1-994]]
+![[1-SOURCES/Text/pi-1.md#^1-994]]
 
 Upādiṇṇattike kiñcāpi khīṇāsavassa khandhā ‘amhākaṃ mātulatthero amhākaṃ cūḷapitutthero’ti vadantānaṃ paresaṃ upādānassa paccayā honti, maggaphalanibbānāni pana aggahitāni aparāmaṭṭhāni anupādiṇṇāneva. Tāni hi, yathā divasaṃ santatto ayoguḷo makkhikānaṃ abhinisīdanassa paccayo na hoti, evameva tejussadattā taṇhāmānadiṭṭhivasena gahaṇassa paccayā na honti. Tena vuttaṃ – ime dhammā anupādiṇṇaanupādāniyāti. ^1-1692
 
-![[pi-1#^1-998]]
+![[1-SOURCES/Text/pi-1.md#^1-998]]
 
 Asaṃkiliṭṭhaasaṃkilesikesupi eseva nayo. ^1-1693
 
-![[pi-1#^1-1000]]
+![[1-SOURCES/Text/pi-1.md#^1-1000]]
 
 Vitakkattike vitakkasahajātena vicārena saddhiṃ kusalattike alabbhamānāva na labbhanti. ^1-1694
 
-![[pi-1#^1-1003]]
+![[1-SOURCES/Text/pi-1.md#^1-1003]]
 
 Pītisahagatattike pītiādayo attanā sahajātadhammānaṃ pītisahagatādibhāvaṃ datvā sayaṃ piṭṭhivaṭṭakā jātā. Imasmiñhi tike dve domanassasahagatacittuppādā dukkhasahagataṃ kāyaviññāṇaṃ upekkhāvedanā rūpaṃ nibbānanti – idampi na labbhati. Ayañhi tiko kusalattike ca alabbhamānehi imehi ca pañcahi koṭṭhāsehi muttako nāma. ^1-1695
 
-![[pi-1#^1-1006]]
+![[1-SOURCES/Text/pi-1.md#^1-1006]]
 
 Dassanenapahātabbattike saññojanānīti bandhanāni. Sakkāyadiṭṭhīti vijjamānaṭṭhena sati khandhapañcakasaṅkhāte kāye; sayaṃ vā satī tasmiṃ kāye diṭṭhīti ‘sakkāyadiṭṭhi’. Sīlena sujjhituṃ sakkā, vatena sujjhituṃ sakkā, sīlavatehi sujjhituṃ sakkāti gahitasamādānaṃ pana sīlabbataparāmāso nāma. ^1-1696
 
-![[pi-1#^1-1007]]
+![[1-SOURCES/Text/pi-1.md#^1-1007]]
 
 Idhāti desāpadese nipāto. Svāyaṃ katthaci lokaṃ upādāya vuccati. Yathāha – "idha tathāgato loke uppajjatī"ti (dī. ni. 1.189). Katthaci sāsanaṃ. Yathāha – "idheva, bhikkhave, samaṇo idha dutiyo samaṇo"ti (ma. ni. 1.139; a. ni. 4.241). Katthaci okāsaṃ. Yathāha – ^1-1697
 
@@ -4679,7 +4690,7 @@ Rūpaṃ attato samanupassatīti idhekacco rūpaṃ attato samanupassati – ‘
 
 Tattha ‘rūpaṃ attato samanupassatī’ti suddharūpameva attāti kathitaṃ. ‘Rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ; vedanaṃ attato samanupassati… saññaṃ… saṅkhāre… viññāṇaṃ attato samanupassatī’ti imesu sattasu ṭhānesu ‘arūpaṃ attā’ti kathitaṃ. Vedanāvantaṃ vā attānaṃ, attani vā vedanaṃ, vedanāya vā attānanti evaṃ catūsu khandhesu tiṇṇaṃ tiṇṇaṃ vasena dvādasasu ṭhānesu ‘rūpārūpamissako attā’ kathito. Tattha ‘rūpaṃ attato samanupassati vedanaṃ… saññaṃ… saṅkhāre… viññāṇaṃ attato samanupassatī’ti imesu pañcasu ṭhānesu ucchedadiṭṭhi kathitā. Avasesesu sassatadiṭṭhi. Evamettha pannarasa bhavadiṭṭhiyo pañca vibhavadiṭṭhiyo honti. Tā sabbāpi maggāvaraṇā, na saggāvaraṇā, paṭhamamaggavajjhāti veditabbā. ^1-1720
 
-![[pi-1#^1-1008]]
+![[1-SOURCES/Text/pi-1.md#^1-1008]]
 
 Satthari kaṅkhatīti satthu sarīre vā guṇe vā ubhayattha vā kaṅkhati. Sarīre kaṅkhamāno ‘dvattiṃsavaralakkhaṇapaṭimaṇḍitaṃ nāma sarīraṃ atthi nu kho natthī’ti kaṅkhati. Guṇe kaṅkhamāno ‘atītānāgatapaccuppannajānanasamatthaṃ sabbaññutañāṇaṃ atthi nu kho natthī’ti kaṅkhati. Ubhayattha kaṅkhamāno ‘asītianubyañjanabyāmappabhānurañjitāya sarīranipphattiyā samannāgato sabbañeyyajānanasamatthaṃ sabbaññutaññāṇaṃ paṭivijjhitvā ṭhito lokatārako buddho nāma atthi nu kho natthī’ti kaṅkhati. Ayañhissa attabhāve guṇe vā kaṅkhanato ubhayattha kaṅkhati nāma. Vicikicchatīti ārammaṇaṃ nicchetuṃ asakkonto kicchati kilamati. Nādhimuccatīti tattheva adhimokkhaṃ na labhati. Na sampasīdatīti cittaṃ anāvilaṃ katvā pasīdituṃ na sakkoti, guṇesu nappasīdati. ^1-1721
 
@@ -4687,7 +4698,7 @@ Dhamme kaṅkhatītiādīsu pana ‘kilese pajahantā cattāro ariyamaggā, pa�
 
 Pubbanto vuccati atītāni khandhadhātāyatanāni. Aparanto anāgatāni. Tattha atītesu khandhādīsu ‘atītāni nu kho, na nu kho’ti kaṅkhanto pubbante kaṅkhati nāma. Anāgatesu ‘anāgatāni nu kho, na nu kho’ti kaṅkhanto aparante kaṅkhati nāma. Ubhayattha kaṅkhanto pubbantāparante kaṅkhati nāma. ‘Dvādasapadikaṃ paccayavaṭṭaṃ atthi nu kho natthī’ti kaṅkhanto idappaccayatāpaṭiccasamuppannesu dhammesu kaṅkhati nāma. Tatrāyaṃ vacanattho – imesaṃ jarāmaraṇādīnaṃ paccayā ‘idappaccayā’. Idappaccayānaṃ bhāvo ‘idappaccayatā’. Idappaccayā eva vā ‘idappaccayatā’; jātiādīnametaṃ adhivacanaṃ. Jātiādīsu taṃ taṃ paṭicca āgamma samuppannāti ‘paṭiccasamuppannā’. Idaṃ vuttaṃ hoti – idappaccayatāya ca paṭiccasamuppannesu ca dhammesu kaṅkhatīti. ^1-1723
 
-![[pi-1#^1-1009]]
+![[1-SOURCES/Text/pi-1.md#^1-1009]]
 
 Sīlenāti gosīlādinā. Vatenāti govatādināva. Sīlabbatenāti tadubhayena. Suddhīti kilesasuddhi; paramatthasuddhibhūtaṃ vā nibbānameva. Tadekaṭṭhāti idha pahānekaṭṭhaṃ dhuraṃ. Imissā ca pāḷiyā diṭṭhikileso vicikicchākilesoti dveyeva āgatā. Lobho doso moho māno thinaṃ uddhaccaṃ ahirikaṃ anottappanti ime pana aṭṭha anāgatā. Āharitvā pana dīpetabbā. Ettha hi diṭṭhivicikicchāsu pahīyamānāsu apāyagamanīyo lobho doso moho māno thinaṃ uddhaccaṃ ahirikaṃ anottappanti sabbepime pahānekaṭṭhā hutvā pahīyanti. Sahajekaṭṭhaṃ pana āharitvā dīpetabbaṃ. Sotāpattimaggena hi cattāri diṭṭhisahagatāni vicikicchāsahagatañcāti pañca cittāni pahīyanti. Tattha dvīsu asaṅkhārikadiṭṭhicittesu pahīyantesu tehi sahajāto lobho moho uddhaccaṃ ahirikaṃ anottappanti ime kilesā sahajekaṭṭhavasena pahīyanti. Sesadiṭṭhikileso ca vicikicchākileso ca pahānekaṭṭhavasena pahīyanti. Diṭṭhigatasampayuttasasaṅkhārikacittesupi pahīyantesu tehi sahajāto lobho moho thinaṃ uddhaccaṃ ahirikaṃ anottappanti ime kilesā sahajekaṭṭhavasena pahīyanti. Sesadiṭṭhikileso ca vicikicchākileso ca pahānekaṭṭhavasena pahīyanti. Evaṃ pahānekaṭṭhasmiṃyeva sahajekaṭṭhaṃ labbhatīti idaṃ sahajekaṭṭhaṃ āharitvā dīpayiṃsu. ^1-1724
 
@@ -4695,39 +4706,39 @@ Taṃsampayuttoti tehi tadekaṭṭhehi aṭṭhahi kilesehi sampayutto. Vinibbh
 
 Ime dhammā dassanena pahātabbāti ettha dassanaṃ nāma sotāpattimaggo; tena pahātabbāti attho. ‘Kasmā pana sotāpattimaggo dassanaṃ nāma jāto’ti? ‘Paṭhamaṃ nibbānadassanato’. ‘Nanu gotrabhu paṭhamataraṃ passatī’ti ? ‘No na passati; disvāpi kattabbakiccaṃ pana na karoti, saṃyojanānaṃ appahānato. Tasmā passatī’ti na vattabbo. Yattha katthaci rājānaṃ disvāpi paṇṇākāraṃ datvā kiccanipphattiyā adiṭṭhattā ‘ajjāpi rājānaṃ na passāmī’ti vadanto cettha jānapadapuriso nidassanaṃ. ^1-1726
 
-![[pi-1#^1-1011]]
+![[1-SOURCES/Text/pi-1.md#^1-1011]]
 
 Avaseso lobhoti dassanena pahīnāvaseso. Lobho dosamohesupi eseva nayo. Dassanena hi apāyagamanīyāva pahīnā. Tehi pana aññe dassetuṃ idaṃ vuttaṃ. ‘Tadekaṭṭhā’ti tehi pāḷiyaṃ āgatehi tīhi kilesehi sampayogatopi pahānatopi ekaṭṭhā pañca kilesā. Neva dassanena na bhāvanāyāti idaṃ saṃyojanādīnaṃ viya tehi maggehi appahātabbataṃ sandhāya vuttaṃ. Yaṃ pana "sotāpattimaggañāṇena abhisaṅkhāraviññāṇassa nirodhena satta bhave ṭhapetvā anamatagge saṃsāravaṭṭe ye uppajjeyyuṃ, nāmañca rūpañca etthete nirujjhantī"tiādinā nayena kusalādīnampi pahānaṃ anuññātaṃ, taṃ tesaṃ maggānaṃ abhāvitattā ye uppajjeyyuṃ, te upanissayapaccayānaṃ kilesānaṃ pahīnattā pahīnāti imaṃ pariyāyaṃ sandhāya vuttanti veditabbaṃ. ^1-1727
 
-![[pi-1#^1-1013]]
+![[1-SOURCES/Text/pi-1.md#^1-1013]]
 
 Dassanenapahātabbahetukattike ime dhammā dassanena pahātabbahetukāti niṭṭhapetvā, puna ‘tīṇi saṃyojanānī’tiādi pahātabbe dassetvā, tadekaṭṭhabhāvena hetū ceva sahetuke ca dassetuṃ vuttaṃ. Tattha ‘kiñcāpi dassanena pahātabbesu hetūsu lobhasahagato moho lobhena sahetuko hoti, dosasahagato moho dosena, lobhadosā ca mohenāti pahātabbahetukapadepete saṅgahaṃ gacchanti, vicikicchāsahagato pana moho aññassa sampayuttahetuno abhāvena hetuyeva, na sahetukoti tassa pahānaṃ dassetuṃ ime dhammā dassanena pahātabbahetū’ti vuttaṃ. ^1-1728
 
-![[pi-1#^1-1018]]
+![[1-SOURCES/Text/pi-1.md#^1-1018]]
 
 Dutiyapade uddhaccasahagatassa mohassa pahānaṃ dassetuṃ ime dhammā bhāvanāya pahātabbahetūti vuttaṃ. So hi attanā sampayuttadhamme sahetuke katvā piṭṭhivaṭṭako jāto, vicikicchāsahagato viya aññassa sampayuttahetuno abhāvā pahātabbahetukapadaṃ na bhajati. Tatiyapade avasesā akusalāti puna akusalaggahaṇaṃ vicikicchuddhaccasahagatānaṃ mohānaṃ saṅgahatthaṃ kataṃ. Te hi sampayuttahetuno abhāvā pahātabbahetukā nāma na honti. ^1-1729
 
-![[pi-1#^1-1029]]
+![[1-SOURCES/Text/pi-1.md#^1-1029]]
 
 Parittārammaṇattike ārabbhāti ārammaṇaṃ katvā. Sayañhi parittā vā hontu mahaggatā vā, parittadhamme ārammaṇaṃ katvā uppannā parittārammaṇā, mahaggate ārammaṇaṃ katvā uppannā mahaggatārammaṇā, appamāṇe ārammaṇaṃ katvā uppannā appamāṇārammaṇā. Te pana parittāpi honti mahaggatāpi appamāṇāpi. ^1-1730
 
-![[pi-1#^1-1035]]
+![[1-SOURCES/Text/pi-1.md#^1-1035]]
 
 Micchattattike ānantarikānīti anantarāyena phaladāyakāni; mātughātakakammādīnametaṃ adhivacanaṃ. Tesu hi ekasmimpi kamme kate taṃ paṭibāhitvā aññaṃ kammaṃ attano vipākassa okāsaṃ kātuṃ na sakkoti. Sineruppamāṇepi hi suvaṇṇathūpe katvā cakkavāḷamattaṃ vā ratanamayapākāraṃ vihāraṃ kāretvā taṃ pūretvā nisinnassa buddhappamukhassa saṅghassa yāvajīvaṃ cattāro paccaye dadatopi taṃ kammaṃ etesaṃ kammānaṃ vipākaṃ paṭibāhetuṃ na sakkoti eva. Yā ca micchādiṭṭhi niyatāti ahetukavādaakiriyavādanatthikavādesu aññatarā. Tañhi gahetvā ṭhitaṃ puggalaṃ buddhasatampi buddhasahassampi bodhetuṃ na sakkoti. ^1-1731
 
-![[pi-1#^1-1038]]
+![[1-SOURCES/Text/pi-1.md#^1-1038]]
 
 Maggārammaṇattike ariyamaggaṃ ārabbhāti lokuttaramaggaṃ ārammaṇaṃ katvā. Te pana parittāpi honti mahaggatāpi. ^1-1732
 
-![[pi-1#^1-1039]]
+![[1-SOURCES/Text/pi-1.md#^1-1039]]
 
 Maggahetukaniddese paṭhamanayena paccayaṭṭhena hetunā maggasampayuttānaṃ khandhānaṃ sahetukabhāvo dassito. Dutiyanayena maggabhūtena sammādiṭṭhisaṅkhātena hetunā sesamaggaṅgānaṃ sahetukabhāvo dassito. Tatiyanayena magge uppannahetūhi sammādiṭṭhiyā sahetukabhāvo dassitoti veditabbo. ^1-1733
 
-![[pi-1#^1-1040]]
+![[1-SOURCES/Text/pi-1.md#^1-1040]]
 
 Adhipatiṃ karitvāti ārammaṇādhipatiṃ katvā. Te ca kho parittadhammāva honti. Ariyasāvakānañhi attano maggaṃ garuṃ katvā paccavekkhaṇakāle ārammaṇādhipati labbhati. Cetopariyañāṇena pana ariyasāvako parassa maggaṃ paccavekkhamāno garuṃ karontopi attanā paṭividdhamaggaṃ viya garuṃ na karoti. ‘Yamakapāṭihāriyaṃ karontaṃ tathāgataṃ disvā tassa maggaṃ garuṃ karoti na karotī’ti? Karoti, na pana attano maggaṃ viya. Arahā na kiñci dhammaṃ garuṃ karoti ṭhapetvā maggaṃ phalaṃ nibbānanti. Etthāpi ayamevattho. Vīmaṃsādhipateyyanti idaṃ sahajātādhipatiṃ dassetuṃ vuttaṃ. Chandañhi jeṭṭhakaṃ katvā maggaṃ bhāventassa chando adhipati nāma hoti, na maggo. Sesadhammāpi chandādhipatino nāma honti, na maggādhipatino. Cittepi eseva nayo. Vīmaṃsaṃ pana jeṭṭhakaṃ katvā maggaṃ bhāventassa vīmaṃsādhipati ceva hoti maggo cāti. Sesadhammā maggādhipatino nāma honti. Vīriyepi eseva nayo. ^1-1734
 
-![[pi-1#^1-1041]]
+![[1-SOURCES/Text/pi-1.md#^1-1041]]
 
 Uppannattikaniddese jātāti nibbattā, paṭiladdhattabhāvā. Bhūtātiādīni tesaṃyeva vevacanāni. Jātā eva hi bhāvappattiyā bhūtā. Paccayasaṃyoge jātattā sañjātā. Nibbattilakkhaṇappattattā nibbattā. Upasaggena pana padaṃ vaḍḍhetvā abhinibbattāti vuttā. Pākaṭībhūtāti pātubhūtā. Pubbantato uddhaṃ pannāti uppannā. Upasaggena padaṃ vaḍḍhetvā samuppannāti vuttā. Nibbattaṭṭheneva uddhaṃ ṭhitāti uṭṭhitā. Paccayasaṃyoge uṭṭhitāti samuṭṭhitā. Puna uppannātivacane kāraṇaṃ heṭṭhā vuttanayeneva veditabbaṃ. Uppannaṃsena saṅgahitāti uppannakoṭṭhāsena gaṇanaṃ gatā. Rūpaṃ vedanā saññā saṅkhārā viññāṇanti idaṃ nesaṃ sabhāvadassanaṃ. Dutiyapadaniddeso vuttapaṭisedhanayena veditabbo. Tatiyapadaniddeso uttānatthoyeva. ^1-1735
 
@@ -4735,37 +4746,37 @@ Ayaṃ pana tiko dvinnaṃ addhānaṃ vasena pūretvā dassito. Laddhokāsassa 
 
 Yadi pana āyūhitaṃ kusalākusalakammaṃ sabbaṃ vipākaṃ dadeyya, aññassa okāso na bhaveyya. Taṃ pana duvidhaṃ hoti – dhuvavipākaṃ, adhuvavipākañca. Tattha pañca ānantariyakammāni, aṭṭha samāpattiyo, cattāro ariyamaggāti etaṃ ‘dhuvavipākaṃ’ nāma. Taṃ pana khaṇappattampi atthi, appattampi. Tattha ‘khaṇappattaṃ’ uppannaṃ nāma. ‘Appattaṃ’ anuppannaṃ nāma. Tassa vipāko cittānantare vā uppajjatu kappasatasahassātikkame vā. Dhuvapaccayaṭṭhena anuppannaṃ nāma na hoti, uppādino dhammā nāma jātaṃ. Metteyyabodhisattassa maggo anuppanno nāma, phalaṃ uppādino dhammāyeva nāma jātaṃ. ^1-1737
 
-![[pi-1#^1-1044]]
+![[1-SOURCES/Text/pi-1.md#^1-1044]]
 
 Atītattikaniddese atītāti khaṇattayaṃ atikkantā. Niruddhāti nirodhappattā. Vigatāti vibhavaṃ gatā, vigacchitā vā. Vipariṇatāti pakativijahanena vipariṇāmaṃ gatā. Nirodhasaṅkhātaṃ atthaṃ gatāti atthaṅgatā. Abbhatthaṅgatāti upasaggena padaṃ vaḍḍhitaṃ. Uppajjitvā vigatāti nibbattitvā vigacchitā. Puna atītavacane kāraṇaṃ heṭṭhā vuttameva. Parato anāgatādīsupi eseva nayo. Atītaṃsena saṅgahitāti atītakoṭṭhāsena gaṇanaṃ gatā. Katame teti? Rūpaṃ vedanā saññā saṅkhārā viññāṇaṃ. Parato anāgatādīsupi eseva nayo. ^1-1738
 
-![[pi-1#^1-1047]]
+![[1-SOURCES/Text/pi-1.md#^1-1047]]
 
 Atītārammaṇattikaniddese atīte dhamme ārabbhātiādīsu parittamahaggatāva dhammā veditabbā. Te hi atītādīni ārabbha uppajjanti. ^1-1739
 
-![[pi-1#^1-1050]]
+![[1-SOURCES/Text/pi-1.md#^1-1050]]
 
 Ajjhattattikaniddese tesaṃ tesanti padadvayena sabbasatte pariyādiyati. Ajjhattaṃ paccattanti ubhayaṃ niyakajjhattādhivacanaṃ. Niyatāti attani jātā. Pāṭipuggalikāti pāṭiyekkassa pāṭiyekkassa puggalassa santakā. Upādiṇṇāti sarīraṭṭhakā. Te hi kammanibbattā vā hontu mā vā, ādinnagahitaparāmaṭṭhavasena pana idha upādiṇṇāti vuttā. ^1-1740
 
-![[pi-1#^1-1051]]
+![[1-SOURCES/Text/pi-1.md#^1-1051]]
 
 Parasattānanti attānaṃ ṭhapetvā avasesasattānaṃ. Parapuggalānanti tasseva vevacanaṃ. Sesaṃ heṭṭhā vuttasadisameva. Tadubhayanti taṃ ubhayaṃ. ^1-1741
 
-![[pi-1#^1-1053]]
+![[1-SOURCES/Text/pi-1.md#^1-1053]]
 
 Ajjhattārammaṇattikassa paṭhamapade parittamahaggatā dhammā veditabbā. Dutiye appamāṇāpi. Tatiye parittamahaggatāva. Appamāṇā pana kālena bahiddhā kālena ajjhattaṃ ārammaṇaṃ na karonti. Sanidassanattikaniddeso uttānoyevāti. ^1-1742
 
 #### Dukanikkhepakathā ^1-6-2-0
 
-![[pi-1#^1-1062]]
+![[1-SOURCES/Text/pi-1.md#^1-1062]]
 
 Dukesu adosaniddese mettāyanavasena metti. Mettākāro mettāyanā. Mettāya ayitassa mettāsamaṅgino cittassa bhāvo mettāyitattaṃ. Anudayatīti anuddā, rakkhatīti attho. Anuddākāro anuddāyanā. Anuddāyitassa bhāvo anuddāyitattaṃ. Hitassa esanavasena hitesitā. Anukampanavasena anukampā. Sabbehipi imehi padehi upacārappanāppattā mettāva vuttā. Sesapadehi lokiyalokuttaro adoso kathito. ^1-1743
 
-![[pi-1#^1-1063]]
+![[1-SOURCES/Text/pi-1.md#^1-1063]]
 
 Amohaniddese dukkhe ñāṇanti dukkhasacce paññā. Dukkhasamudayetiādīsupi eseva nayo. Ettha ca dukkhe ñāṇaṃ savanasammasanapaṭivedhapaccavekkhaṇāsu vattati. Tathā dukkhasamudaye. Nirodhe pana savanapaṭivedhapaccavekkhaṇāsu eva. Tathā paṭipadāya. Pubbanteti atītakoṭṭhāse. Aparanteti anāgatakoṭṭhāse. Pubbantāparanteti tadubhaye. Idappaccayatāpaṭiccasamuppannesu dhammesu ñāṇanti ayaṃ paccayo, idaṃ paccayuppannaṃ, idaṃ paṭicca idaṃ nibbattanti, evaṃ paccayesu ca paccayuppannadhammesu ca ñāṇaṃ. ^1-1744
 
-![[pi-1#^1-1065]]
+![[1-SOURCES/Text/pi-1.md#^1-1065]]
 
 Lobhaniddesepi heṭṭhā anāgatānaṃ padānaṃ ayamattho – rañjanavasena rāgo. Balavarañjanaṭṭhena sārāgo. Visayesu sattānaṃ anunayanato anunayo. Anurujjhatīti anurodho, kāmetīti attho. Yattha katthaci bhave sattā etāya nandanti, sayaṃ vā nandatīti nandī. Nandī ca sā rañjanaṭṭhena rāgo cāti nandīrāgo. Tattha ekasmiṃ ārammaṇe sakiṃ uppannā taṇhā ‘nandī’. Punappunaṃ uppajjamānā ‘nandīrāgo’ti vuccati. Cittassa sārāgoti yo heṭṭhā balavarañjanaṭṭhena sārāgoti vutto, so na sattassa, cittasseva sārāgoti attho. ^1-1745
 
@@ -4791,39 +4802,39 @@ Pucchañjikatāti yāya taṇhāya lābhaṭṭhānesu, pucchaṃ cālayamānā 
 
 Kusaladhamme āvaratīti āvaraṇaṃ. Chādanavasena chādanaṃ. Satte vaṭṭasmiṃ bandhatīti bandhanaṃ. Cittaṃ upagantvā kilissati saṃkiliṭṭhaṃ karotīti upakkileso. Thāmagataṭṭhena anusetīti anusayo. Uppajjamānā cittaṃ pariyuṭṭhātīti pariyuṭṭhānaṃ; uppajjituṃ appadānena kusalacāraṃ gaṇhātīti attho. "Corā magge pariyuṭṭhiṃsu dhuttā magge pariyuṭṭhiṃsū"tiādīsu (cūḷava. 430) hi maggaṃ gaṇhiṃsūti attho. Evamidhāpi gahaṇaṭṭhena pariyuṭṭhānaṃ veditabbaṃ. Paliveṭhanaṭṭhena latā viyāti latā. "Latā ubbhijja tiṭṭhatī"ti (dha. pa. 340) āgataṭṭhānepi ayaṃ taṇhā latāti vuttā. Vividhāni vatthūni icchatīti vevicchaṃ. Vaṭṭadukkhassa mūlanti dukkhamūlaṃ. Tasseva dukkhassa nidānanti dukkhanidānaṃ. Taṃ dukkhaṃ ito pabhavatīti dukkhappabhavo. Bandhanaṭṭhena pāso viyāti pāso. Mārassa pāso mārapāso. Duruggilanaṭṭhena baḷisaṃ viyāti baḷisaṃ. Mārassa baḷisaṃ mārabaḷisaṃ. Taṇhābhibhūtā mārassa visayaṃ nātikkamanti, tesaṃ upari māro vasaṃ vattetīti iminā pariyāyena mārassa visayoti māravisayo. Sandanaṭṭhena taṇhāva nadī taṇhānadī. Ajjhottharaṇaṭṭhena taṇhāva jālaṃ taṇhājālaṃ. Yathā sunakhā gaddulabaddhā yadicchakaṃ nīyanti, evaṃ taṇhābaddhā sattāpīti daḷhabandhanaṭṭhena gaddulaṃ viyāti gaddulaṃ. Taṇhāva gaddulaṃ taṇhāgaddulaṃ. Duppūraṇaṭṭhena taṇhāva samuddo taṇhāsamuddo. ^1-1755
 
-![[pi-1#^1-1066]]
+![[1-SOURCES/Text/pi-1.md#^1-1066]]
 
 Dosaniddese anatthaṃ me acarīti avuḍḍhiṃ me akāsi. Iminā upāyena sabbapadesu attho veditabbo. Aṭṭhāne vā pana āghātoti akāraṇe kopo – ekacco hi ‘devo ativassatī’ti kuppati, ‘na vassatī’ti kuppati, ‘sūriyo tappatī’ti kuppati, ‘na tappatī’ti kuppati, vāte vāyantepi kuppati, avāyantepi kuppati, sammajjituṃ asakkonto bodhipaṇṇānaṃ kuppati, cīvaraṃ pārupituṃ asakkonto vātassa kuppati, upakkhalitvā khāṇukassa kuppati idaṃ sandhāya vuttaṃ – aṭṭhāne vā pana āghāto jāyatīti. Tattha heṭṭhā navasu ṭhānesu satte ārabbha uppannattā kammapathabhedo hoti. Aṭṭhānāghāto pana saṅkhāresu uppanno kammapathabhedaṃ na karoti. Cittaṃ āghātento uppannoti cittassa āghāto. Tato balavataro paṭighāto. Paṭihaññanavasena paṭighaṃ. Paṭivirujjhatīti paṭivirodho. Kuppanavasena kopo. Pakopo sampakopoti upasaggena padaṃ vaḍḍhitaṃ. Dussanavasena doso. Padoso sampadosoti upasaggena padaṃ vaḍḍhitaṃ. Cittassa byāpattīti cittassa vipannatā, viparivattanākāro. Manaṃ padūsayamāno uppajjatīti manopadoso. Kujjhanavasena kodho. Kujjhanākāro kujjhanā. Kujjhitassa bhāvo kujjhitattaṃ. ^1-1756
 
 Idāni akusalaniddese vuttanayaṃ dassetuṃ doso dussanātiādi vuttaṃ. Tasmā "yo evarūpo cittassa āghāto…pe… kujjhitatta"nti ca idha vutto, "doso dussanā"tiādinā nayena heṭṭhā vutto, ayaṃ vuccati dosoti. Evamettha yojanā kātabbā. Evañhi sati punaruttidoso paṭisedhito hoti. Mohaniddeso amohaniddese vuttapaṭipakkhanayena veditabbo. Sabbākārena panesa vibhaṅgaṭṭhakathāyaṃ āvi bhavissati. ^1-1757
 
-![[pi-1#^1-1079]]
+![[1-SOURCES/Text/pi-1.md#^1-1079]]
 
 Tehidhammehi ye dhammā sahetukāti tehi hetudhammehi ye aññe hetudhammā vā nahetudhammā vā te sahetukā. Ahetukapadepi eseva nayo. Ettha ca hetu hetuyeva ca hoti, tiṇṇaṃ vā dvinnaṃ vā ekato uppattiyaṃ sahetuko ca. Vicikicchuddhaccasahagato pana moho hetu ahetuko. Hetusampayuttadukaniddesepi eseva nayo. ^1-1758
 
-![[pi-1#^1-1091]]
+![[1-SOURCES/Text/pi-1.md#^1-1091]]
 
 Saṅkhatadukaniddese purimaduke vuttaṃ asaṅkhatadhātuṃ sandhāya yo eva so dhammoti ekavacananiddeso kato. Purimaduke pana bahuvacanavasena pucchāya uddhaṭattā ime dhammā appaccayāti pucchānusandhinayena bahuvacanaṃ kataṃ. Ime dhammā sanidassanātiādīsupi eseva nayo. ^1-1759
 
-![[pi-1#^1-1101]]
+![[1-SOURCES/Text/pi-1.md#^1-1101]]
 
 Kenaci viññeyyadukaniddese cakkhuviññeyyāti cakkhuviññāṇena vijānitabbā. Sesapadesupi eseva nayo. Ettha ca kenaci viññeyyāti cakkhuviññāṇādīsu kenaci ekena cakkhuviññāṇena vā sotaviññāṇena vā vijānitabbā. Kenaci na viññeyyāti teneva cakkhuviññāṇena vā sotaviññāṇena vā na vijānitabbā. ‘Evaṃ sante dvinnampi padānaṃ atthanānattato duko hotī’ti heṭṭhā vuttattā ‘ye te dhammā cakkhuviññeyyā na te dhammā sotaviññeyyā’ti ayaṃ duko na hoti. Rūpaṃ pana cakkhuviññeyyaṃ saddo na cakkhuviññeyyoti imamatthaṃ gahetvā ‘ye te dhammā cakkhuviññeyyā na te dhammā sotaviññeyyā, ye vā pana te dhammā sotaviññeyyā na te dhammā cakkhuviññeyyā’ti ayameko dukoti veditabbo. Evaṃ ekekaindriyamūlake cattāro cattāro katvā vīsati dukā vibhattāti veditabbā. ^1-1760
 
 Kiṃ pana ‘manoviññāṇena kenaci viññeyyā kenaci na viññeyyā’ natthi? Tenettha dukā na vuttāti? No natthi, vavatthānābhāvato pana na vuttā. Na hi, yathā cakkhuviññāṇena aviññeyyā evāti vavatthānaṃ atthi, evaṃ manoviññāṇenāpīti vavatthānābhāvato ettha dukā na vuttā. Manoviññāṇena pana kenaci viññeyyā ceva aviññeyyā cāti ayamattho atthi. Tasmā so avuttopi yathālābhavasena veditabbo. Manoviññāṇanti hi saṅkhyaṃ gatehi kāmāvacaradhammehi kāmāvacaradhammā eva tāva kehici viññeyyā kehici aviññeyyā. Tehiyeva rūpāvacarādidhammāpi kehici viññeyyā kehici aviññeyyā. Rūpāvacarehipi kāmāvacarā kehici viññeyyā kehici aviññeyyā. Teheva rūpāvacarādayopi kehici viññeyyā kehici aviññeyyā. Arūpāvacarehi pana kāmāvacarā rūpāvacarā apariyāpannā ca neva viññeyyā. Arūpāvacarā pana kehici viññeyyā kehici aviññeyyā. Tepi ca kecideva viññeyyā keci aviññeyyā. Apariyāpannehi kāmāvacarādayo neva viññeyyā. Apariyāpannā pana nibbānena aviññeyyattā kehici viññeyyā kehici aviññeyyā. Tepi ca maggaphalānaṃ aviññeyyattā kecideva viññeyyā keci aviññeyyāti. ^1-1761
 
-![[pi-1#^1-1102]]
+![[1-SOURCES/Text/pi-1.md#^1-1102]]
 
 Āsavaniddese pañcakāmaguṇiko rāgo kāmāsavo nāma. Rūpārūpabhavesu chandarāgo jhānanikanti sassatadiṭṭhisahajāto rāgo bhavavasena patthanā bhavāsavo nāma. Dvāsaṭṭhi diṭṭhiyo diṭṭhāsavo nāma. Aṭṭhasu ṭhānesu aññāṇaṃ avijjāsavo nāma. Tattha tattha āgatesu pana āsavesu asammohatthaṃ ekavidhādibhedo veditabbo. Atthato hete cirapārivāsiyaṭṭhena āsavāti evaṃ ekavidhāva honti. Vinaye pana "diṭṭhadhammikānaṃ āsavānaṃ saṃvarāya samparāyikānaṃ āsavānaṃ paṭighātāyā"ti (pārā. 39) duvidhena āgatā. Suttante saḷāyatane tāva "tayome, āvuso, āsavā – kāmāsavo bhavāsavo avijjāsavo"ti (saṃ. ni. 4.321) tividhena āgatā. Nibbedhikapariyāye "atthi, bhikkhave, āsavā nirayagamanīyā , atthi āsavā tiracchānayonigamanīyā, atthi āsavā pettivisayagamanīyā, atthi āsavā manussalokagamanīyā, atthi āsavā devalokagamanīyā"ti (a. ni. 6.63) pañcavidhena āgatā. Chakkanipāte āhuneyyasutte – "atthi āsavā saṃvarā pahātabbā, atthi āsavā paṭisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā"ti (a. ni. 6.58) chabbidhena āgatā. Sabbāsavapariyāye (ma. ni. 1.14 ādayo) ‘dassanapahātabbehi’ saddhiṃ sattavidhena āgatā. Idha panete kāmāsavādibhedato catubbidhena āgatā. Tatrāyaṃ vacanattho – pañcakāmaguṇasaṅkhāte kāme āsavo ‘kāmāsavo’. Rūpārūpasaṅkhāte kammato ca upapattito ca duvidhepi bhave āsavo ‘bhavāsavo’. Diṭṭhi eva āsavo ‘diṭṭhāsavo’. Avijjāva āsavo ‘avijjāsavo’. ^1-1762
 
-![[pi-1#^1-1103]]
+![[1-SOURCES/Text/pi-1.md#^1-1103]]
 
 Kāmesūti pañcasu kāmaguṇesu. Kāmacchandoti kāmasaṅkhāto chando, na kattukamyatāchando, na dhammacchando. Kāmanavasena rajjanavasena ca kāmoyeva rāgo kāmarāgo. Kāmanavasena nandanavasena ca kāmova nandīti kāmanandī. Evaṃ sabbattha kāmatthaṃ viditvā taṇhāyanaṭṭhena kāmataṇhā, sinehanaṭṭhena kāmasineho, pariḍayhanaṭṭhena kāmapariḷāho, mucchanaṭṭhena kāmamucchā, gilitvā pariniṭṭhāpanaṭṭhena kāmajjhosānanti veditabbaṃ. Ayaṃ vuccatīti ayaṃ aṭṭhahi padehi vibhatto kāmāsavo nāma vuccati. ^1-1763
 
-![[pi-1#^1-1104]]
+![[1-SOURCES/Text/pi-1.md#^1-1104]]
 
 Bhavesu bhavachandoti rūpārūpabhavesu bhavapatthanāvaseneva pavatto chando ‘bhavachando’. Sesapadānipi imināva nayena veditabbāni. ^1-1764
 
-![[pi-1#^1-1105]]
+![[1-SOURCES/Text/pi-1.md#^1-1105]]
 
 Sassato lokoti vātiādīhi dasahākārehi diṭṭhippabhedova vutto. Tattha sassato lokoti ettha khandhapañcakaṃ lokoti gahetvā ‘ayaṃ loko nicco dhuvo sabbakāliko’ti gaṇhantassa ‘sassata’nti gahaṇākārappavattā diṭṭhi. Asassatoti tameva lokaṃ ‘ucchijjati vinassatī’ti gaṇhantassa ucchedagahaṇākārappavattā diṭṭhi. Antavāti parittakasiṇalābhino ‘suppamatte vā sarāvamatte vā’ kasiṇe samāpannassa antosamāpattiyaṃ pavattitarūpārūpadhamme lokoti ca kasiṇaparicchedantena ca ‘antavā’ti gaṇhantassa ‘antavā loko’ti gahaṇākārappavattā diṭṭhi. Sā sassatadiṭṭhipi hoti ucchedadiṭṭhipi. Vipulakasiṇalābhino pana tasmiṃ kasiṇe samāpannassa antosamāpattiyaṃ pavattitarūpārūpadhamme lokoti ca kasiṇaparicchedantena ca ‘ananto’ti gaṇhantassa ‘anantavā loko’ti gahaṇākārappavattā diṭṭhi. Sā sassatadiṭṭhipi hoti, ucchedadiṭṭhipi. ^1-1765
 
@@ -4833,19 +4844,19 @@ Yo pana brahmānaṃ vimānakapparukkhaābharaṇesu chandarāgo uppajjati, so k
 
 Ime pana āsave kilesapaṭipāṭiyāpi āharituṃ vaṭṭati, maggapaṭipāṭiyāpi. Kilesapaṭipāṭiyā kāmāsavo anāgāmimaggena pahīyati, bhavāsavo arahattamaggena, diṭṭhāsavo sotāpattimaggena, avijjāsavo arahattamaggena. Maggapaṭipāṭiyā sotāpattimaggena diṭṭhāsavo pahīyati, anāgāmimaggena kāmāsavo, arahattamaggena bhavāsavo avijjāsavo cāti. ^1-1768
 
-![[pi-1#^1-1121]]
+![[1-SOURCES/Text/pi-1.md#^1-1121]]
 
 Saṃyojanesu mānaniddese seyyohamasmīti mānoti uttamaṭṭhena ‘ahaṃ seyyo’ti evaṃ uppannamāno. Sadisohamasmīti mānoti samasamaṭṭhena ‘ahaṃ sadiso’ti evaṃ uppannamāno. Hīnohamasmīti mānoti lāmakaṭṭhena ‘ahaṃ hīno’ti evaṃ uppannamāno. Evaṃ seyyamāno sadisamāno hīnamānoti ime tayo mānā tiṇṇaṃ janānaṃ uppajjanti. Seyyassāpi hi ‘ahaṃ seyyo sadiso hīno’ti tayo mānā uppajjanti. Sadisassāpi, hīnassāpi. Tattha seyyassa seyyamānova yāthāvamāno, itare dve ayāthāvamānā. Sadisassa sadisamānova…pe… hīnassa hīnamānova yāthāvamāno, itare dve ayāthāvamānā. Iminā kiṃ kathitaṃ? Ekassa tayo mānā uppajjantīti kathitaṃ. Khuddakavatthuke pana paṭhamakamānabhājanīye eko māno tiṇṇaṃ janānaṃ uppajjatīti kathito. ^1-1769
 
 Mānakaraṇavasena māno. Maññanā maññitattanti ākārabhāvaniddesā. Ussitaṭṭhena unnati. Yassuppajjati taṃ puggalaṃ unnāmeti, ukkhipitvā ṭhapetīti unnamo. Samussitaṭṭhena dhajo. Ukkhipanaṭṭhena cittaṃ sampaggaṇhātīti sampaggāho. Ketu vuccati bahūsu dhajesu accuggatadhajo. Mānopi punappunaṃ uppajjamāno aparāpare upādāya accuggataṭṭhena ketu viyāti ‘ketu’. Ketuṃ icchatīti ketukamyaṃ, tassa bhāvo ketukamyatā. Sā pana cittassa, na attano. Tena vuttaṃ – ‘ketukamyatā cittassā’ti. Mānasampayuttañhi cittaṃ ketuṃ icchati. Tassa ca bhāvo ketukamyatā; ketusaṅkhāto mānoti. ^1-1770
 
-![[pi-1#^1-1126]]
+![[1-SOURCES/Text/pi-1.md#^1-1126]]
 
 Issāniddese yā paralābhasakkāragarukāramānanavandanapūjanāsu issāti yā etesu paresaṃ lābhādīsu ‘kiṃ iminā imesa’nti parasampattikhiyyanalakkhaṇā issā. Tattha lābhoti cīvarādīnaṃ catunnaṃ paccayānaṃ paṭilābho. Issukī hi puggalo parassa taṃ lābhaṃ khiyyati, ‘kiṃ imassa iminā’ti na icchati. Sakkāroti tesaṃyeva paccayānaṃ sukatānaṃ sundarānaṃ paṭilābho. Garukāroti garukiriyā, bhāriyakaraṇaṃ. Mānananti manena piyakaraṇaṃ. Vandananti pañcapatiṭṭhitena vandanaṃ. Pūjanāti gandhamālādīhi pūjanā. Issāyanavasena issā. Issākāro issāyanā. Issāyitabhāvo issāyitattaṃ. Usūyādīni issādivevacanāni. ^1-1771
 
 Imissā pana issāya khiyyanalakkhaṇaṃ āgārikenāpi anāgārikenāpi dīpetabbaṃ. Āgāriko hi ekacco kasivaṇijjādīsu aññatarena ājīvena attano purisakāraṃ nissāya bhaddakaṃ yānaṃ vā vāhanaṃ vā ratanaṃ vā labhati. Aparo tassa alābhatthiko tena lābhena na tussati. ‘Kadā nu kho esa imāya sampattiyā parihāyitvā kapaṇo hutvā carissatī’ti cintetvā ekena kāraṇena tasmiṃ tāya sampattiyā parihīne attamano hoti. Anāgārikopi eko issāmanako aññaṃ attano sutapariyattiādīni nissāya uppannalābhādisampattiṃ disvā ‘kadā nu kho eso imehi lābhādīhi parihāyissatī’ti cintetvā, yadā taṃ ekena kāraṇena parihīnaṃ passati, tadā attamano hoti. Evaṃ parasampattikhiyyanalakkhaṇā ‘issā’ti veditabbā. ^1-1772
 
-![[pi-1#^1-1127]]
+![[1-SOURCES/Text/pi-1.md#^1-1127]]
 
 Macchariyaniddese vatthuto macchariyadassanatthaṃ ‘pañca macchariyāni āvāsamacchariya’ntiādi vuttaṃ. Tattha āvāse macchariyaṃ āvāsamacchariyaṃ. Sesapadesupi eseva nayo. ^1-1773
 
@@ -4876,15 +4887,15 @@ Aggahitattaṃ cittassāti paresaṃ upakārakaraṇe dānādinā ākārena yath
 
 Imāni pana saṃyojanāni kilesapaṭipāṭiyāpi āharituṃ vaṭṭati maggapaṭipāṭiyāpi. Kilesapaṭipāṭiyā kāmarāgapaṭighasaṃyojanāni anāgāmimaggena pahīyanti, mānasaṃyojanaṃ arahattamaggena, diṭṭhivicikicchāsīlabbataparāmāsā sotāpattimaggena, bhavarāgasaṃyojanaṃ arahattamaggena, issāmacchariyāni sotāpattimaggena, avijjā arahattamaggena. Maggapaṭipāṭiyā diṭṭhivicikicchāsīlabbataparāmāsaissāmacchariyāni sotāpattimaggena pahīyanti, kāmarāgapaṭighā anāgāmimaggena, mānabhavarāgaavijjā arahattamaggenāti. ^1-1786
 
-![[pi-1#^1-1140]]
+![[1-SOURCES/Text/pi-1.md#^1-1140]]
 
 Ganthagocchake nāmakāyaṃ gantheti, cutipaṭisandhivasena vaṭṭasmiṃ ghaṭetīti kāyagantho. Sabbaññubhāsitampi paṭikkhipitvā sassato loko idameva saccaṃ moghamaññanti iminā ākārena abhinivisatīti idaṃsaccābhiniveso. Yasmā pana abhijjhākāmarāgānaṃ viseso atthi, tasmā abhijjhākāyaganthassa padabhājane "yo kāmesu kāmacchando kāmarāgo"ti avatvā yo rāgo sārāgotiādi vuttaṃ. Iminā yaṃ heṭṭhā vuttaṃ ‘brahmānaṃ vimānādīsu chandarāgo kāmāsavo na hoti, ganthagocchakaṃ patvā abhijjhākāyagantho hotī’ti taṃ suvuttanti veditabbaṃ. Parato kilesagocchakepi eseva nayo. Ṭhapetvā sīlabbataparāmāsanti idaṃ yasmā sīlabbataparāmāso ‘idameva sacca’ntiādinā ākārena nābhinivisati, ‘sīlena suddhī’tiādinā eva pana abhinivisati, tasmā micchādiṭṭhibhūtampi taṃ paṭikkhipanto ‘ṭhapetvā’ti āha. ^1-1787
 
-![[pi-1#^1-1162]]
+![[1-SOURCES/Text/pi-1.md#^1-1162]]
 
 Nīvaraṇagocchakassa thinamiddhaniddese cittassa akallatāti cittassa gilānabhāvo. Gilāno hi akallakoti vuccati. Vinayepi vuttaṃ – "nāhaṃ, bhante, akallako"ti (pārā. 151). Akammaññatāti cittagelaññasaṅkhātova akammaññatākāro. Olīyanāti olīyanākāro. Iriyāpathikacittañhi iriyāpathaṃ sandhāretuṃ asakkontaṃ, rukkhe vagguli viya, khīle laggitaphāṇitavārako viya ca, olīyati. Tassa taṃ ākāraṃ sandhāya olīyanāti vuttaṃ. Dutiyapadaṃ upasaggavasena vaḍḍhitaṃ. Līnanti avipphārikatāya paṭikuṭitaṃ. Itare dve ākārabhāvaniddesā. Thinanti sappipiṇḍo viya avipphārikatāya ghanabhāvena ṭhitaṃ. Thiyanāti ākāraniddeso. Thiyitabhāvo thiyitattaṃ, avipphāravaseneva thaddhatāti attho. ^1-1788
 
-![[pi-1#^1-1163]]
+![[1-SOURCES/Text/pi-1.md#^1-1163]]
 
 Kāyassāti khandhattayasaṅkhātassa nāmakāyassa. Akallatā akammaññatāti heṭṭhā vuttanayameva. Megho viya ākāsaṃ kāyaṃ onayhatīti onāho. Sabbatobhāgena onāho pariyonāho. Abbhantare samorundhatīti antosamorodho. Yathā hi nagare rundhitvā gahite manussā bahi nikkhamituṃ na labhanti, evampi middhena samoruddhā dhammā vipphāravasena nikkhamituṃ na labhanti. Tasmā antosamorodhoti vuttaṃ. Medhatīti middhaṃ; akammaññabhāvena vihiṃsatīti attho. Supanti tenāti soppaṃ. Akkhidalādīnaṃ pacalabhāvaṃ karotīti pacalāyikā. Supanā supitattanti ākārabhāvaniddesā. Yaṃ pana tesaṃ purato soppapadaṃ tassa punavacane kāraṇaṃ vuttameva. Idaṃ vuccati thinamiddhanīvaraṇanti idaṃ thinañca middhañca ekato katvā āvaraṇaṭṭhena thinamiddhanīvaraṇanti vuccati. Yaṃ yebhuyyena sekkhaputhujjanānaṃ niddāya pubbabhāgaaparabhāgesu uppajjati taṃ arahattamaggena samucchijjati. Khīṇāsavānaṃ pana karajakāyassa dubbalabhāvena bhavaṅgotaraṇaṃ hoti, tasmiṃ asammisse vattamāne te supanti, sā nesaṃ niddā nāma hoti. Tenāha bhagavā – "abhijānāmi kho panāhaṃ, aggivessana, gimhānaṃ pacchime māse catugguṇaṃ saṅghāṭiṃ paññapetvā dakkhiṇena passena sato sampajāno niddaṃ okkamitā"ti (ma. ni. 1.387). Evarūpo panāyaṃ karajakāyassa dubbalabhāvo na maggavajjho, upādinnakepi anupādinnakepi labbhati. Upādinnake labbhamāno yadā khīṇāsavo dīghamaggaṃ gato hoti, aññataraṃ vā pana kammaṃ katvā kilanto, evarūpe kāle labbhati. Anupādinnake labbhamāno paṇṇapupphesu labbhati. Ekaccānañhi rukkhānaṃ paṇṇāni sūriyātapena pasāriyanti rattiṃ paṭikuṭanti, padumapupphādīni sūriyātapena pupphanti, rattiṃ puna paṭikuṭanti . Idaṃ pana middhaṃ akusalattā khīṇāsavānaṃ na hotīti. ^1-1789
 
@@ -4908,65 +4919,65 @@ Kiñca bhiyyo? Pahānavacanato. Bhagavatā hi "cha, bhikkhave, dhamme pahāya bh
 
 Evamādīni ca anekāni etassa arūpabhāvajotakāneva suttāni vuttāni. Yasmā cetaṃ arūpaṃ tasmā āruppepi uppajjati. Vuttañhetaṃ mahāpakaraṇe paṭṭhāne – "nīvaraṇaṃ dhammaṃ paṭicca nīvaraṇo dhammo uppajjati, na purejātapaccayā"ti etassa vibhaṅge "āruppe kāmacchandanīvaraṇaṃ paṭicca thinamiddhaṃ… uddhaccaṃ avijjānīvaraṇa"nti (paṭṭhā. 3.8.8) sabbaṃ vitthāretabbaṃ. Tasmā sanniṭṭhānamettha gantabbaṃ arūpameva middhanti. ^1-1799
 
-![[pi-1#^1-1166]]
+![[1-SOURCES/Text/pi-1.md#^1-1166]]
 
 Kukkuccaniddese akappiye kappiyasaññitātiādīni mūlato kukkuccadassanatthaṃ vuttāni. Evaṃsaññitāya hi kate vītikamme, niṭṭhite vatthujjhācāre, puna sañjātasatinopi ‘duṭṭhu mayā kata’nti evaṃ anutappamānassa pacchānutāpavasenetaṃ uppajjati. Tena taṃ mūlato dassetuṃ ‘akappiye kappiyasaññitā’tiādi vuttaṃ. Tattha akappiyabhojanaṃ kappiyasaññī hutvā paribhuñjati, akappiyamaṃsaṃ kappiyamaṃsasaññī hutvā, acchamaṃsaṃ sūkaramaṃsanti, dīpimaṃsaṃ vā migamaṃsanti khādati; kāle vītivatte kālasaññāya, pavāretvā appavāritasaññāya, pattasmiṃ raje patite paṭiggahitasaññāya bhuñjati – evaṃ ‘akappiye kappiyasaññāya’ vītikkamaṃ karoti nāma. Sūkaramaṃsaṃ pana acchamaṃsasaññāya khādamāno, kāle ca vikālasaññāya bhuñjamāno ‘kappiye akappiyasaññitāya’ vītikkamaṃ karoti nāma. Anavajjaṃ pana kiñcideva vajjasaññitāya, vajjañca anavajjasaññitāya karonto ‘anavajje vajjasaññāya vajje ca anavajjasaññāya’ vītikkamaṃ karoti nāma. Yasmā panetaṃ "akataṃ vata me kalyāṇaṃ, akataṃ kusalaṃ, akataṃ bhīruttāṇaṃ, kataṃ pāpaṃ, kataṃ luddaṃ, kataṃ kibbisa"nti evaṃ anavajje vajjasaññitāyapi kate vītikkame uppajjati, tasmāssa aññampi vatthuṃ anujānanto yaṃ evarūpantiādimāha. ^1-1800
 
 Tattha kukkuccapadaṃ vuttatthameva. Kukkuccāyanākāro kukkuccāyanā. Kukkuccena ayitassa bhāvo kukkuccāyitattaṃ. Cetaso vippaṭisāroti ettha katākatassa sāvajjānavajjassa vā abhimukhagamanaṃ ‘vippaṭisāro’ nāma. Yasmā pana so kataṃ vā pāpaṃ akataṃ na karoti, akataṃ vā kalyāṇaṃ kataṃ na karoti, tasmā virūpo kucchito vā paṭisāroti ‘vippaṭisāro’. So pana cetaso, na sattassāti ñāpanatthaṃ ‘cetaso’ vippaṭisāroti vuttaṃ. Ayamassa sabhāvaniddeso. Uppajjamānaṃ pana kukkuccaṃ āraggamiva kaṃsapattaṃ manaṃ vilikhamānameva uppajjati, tasmā manovilekhoti vuttaṃ. Ayamassa kiccaniddeso. Yaṃ pana vinaye "atha kho āyasmā sāriputto bhagavatā paṭikkhittaṃ anuvasitvā anuvasitvā āvasathapiṇḍaṃ paribhuñjitu"nti kukkuccāyanto na paṭiggahesīti (pāci. 204) kukkuccaṃ āgataṃ, na taṃ nīvaraṇaṃ. Na hi arahato ‘duṭṭhu mayā idaṃ kata’nti evaṃ anutāpo atthi. Nīvaraṇapatirūpakaṃ panetaṃ ‘kappati na kappatī’ti vīmaṃsanasaṅkhātaṃ vinayakukkuccaṃ nāma. ^1-1801
 
-![[pi-1#^1-1176]]
+![[1-SOURCES/Text/pi-1.md#^1-1176]]
 
 "Katame dhammā nīvaraṇā ceva nīvaraṇasampayuttā cā"ti padassa niddese yasmā thinamiddhaṃ aññamaññaṃ na vijahati, tasmā thinamiddhanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañcāti abhinditvā vuttaṃ. Yasmā pana uddhacce satipi kukkuccassa abhāvā kukkuccena vināpi uddhaccaṃ uppajjati, tasmā taṃ bhinditvā vuttaṃ. Yañca yena sampayogaṃ na gacchati, taṃ na yojitanti veditabbaṃ. ^1-1802
 
 Ime pana nīvaraṇe kilesapaṭipāṭiyāpi āharituṃ vaṭṭati maggapaṭipāṭiyāpi. Kilesapaṭipāṭiyā kāmacchandabyāpādā anāgāmimaggena pahīyanti, thinamiddhuddhaccāni arahattamaggena, kukkuccavicikicchā sotāpattimaggena, avijjā arahattamaggena. Maggapaṭipāṭiyā sotāpattimaggena kukkuccavicikicchā pahīyanti, anāgāmimaggena kāmacchandabyāpādā, arahattamaggena thinamiddhuddhaccāvijjāti. ^1-1803
 
-![[pi-1#^1-1182]]
+![[1-SOURCES/Text/pi-1.md#^1-1182]]
 
 Parāmāsagocchake te dhamme ṭhapetvāti pucchāsabhāgena bahuvacanaṃ kataṃ. ^1-1804
 
-![[pi-1#^1-1219]]
+![[1-SOURCES/Text/pi-1.md#^1-1219]]
 
 Upādānaniddese vatthusaṅkhātaṃ kāmaṃ upādiyatīti kāmupādānaṃ kāmo ca so upādānañcātipi kāmupādānaṃ. Upādānanti daḷhaggahaṇaṃ. Daḷhattho hi ettha upasaddo upāyāsaupakaṭṭhādīsu viya. Tathā diṭṭhi ca sā upādānañcāti diṭṭhupādānaṃ. Diṭṭhiṃ upādiyatīti diṭṭhupādānaṃ. ‘Sassato attā ca loko cā’tiādīsu (dī. ni. 1.31) hi purimadiṭṭhiṃ uttaradiṭṭhi upādiyahi. Tathā sīlabbataṃ upādiyatīti sīlabbatupādānaṃ. Sīlabbatañca taṃ upādānañcātipi sīlabbatupādānaṃ. Gosīlagovatādīni hi ‘evaṃ suddhī’ti abhinivesato sayameva upādānāni. Tathā, vadanti etenāti ‘vādo’; upādiyanti etenāti ‘upādānaṃ’. Kiṃ vadanti, upādiyanti vā? Attānaṃ. Attano vādupādānaṃ attavādupādānaṃ; ‘attavādamattameva vā attā’ti upādiyanti etenāti attavādupādānaṃ. ^1-1805
 
-![[pi-1#^1-1220]]
+![[1-SOURCES/Text/pi-1.md#^1-1220]]
 
 Yo kāmesu kāmacchandoti etthāpi vatthukāmāva anavasesato kāmāti adhippetā. Tasmā vatthukāmesu kāmacchando idha kāmupādānanti anāgāminopi taṃ siddhaṃ hoti. Pañcakāmaguṇavatthuko panassa kāmarāgova natthīti. ^1-1806
 
-![[pi-1#^1-1221]]
+![[1-SOURCES/Text/pi-1.md#^1-1221]]
 
 Diṭṭhupādānaniddese natthi dinnanti. Dinnaṃ nāma atthi, sakkā kassaci kiñci dātunti jānāti; dinnassa pana phalaṃ vipāko natthīti gaṇhāti. Natthi yiṭṭhanti. Yiṭṭhaṃ vuccati mahāyāgo. Taṃ yajituṃ sakkāti jānāti; yiṭṭhassa pana phalaṃ vipāko natthīti gaṇhāti. Natthi hutanti āhunapāhunamaṅgalakiriyā. Taṃ kātuṃ sakkāti jānāti; tassa pana phalaṃ vipāko natthīti gaṇhāti. Natthi, sukatadukkaṭānanti ettha dasa kusalakammapathā sukatakammāni nāma. Dasa akusalakammapathā dukkaṭakammāni nāma. Tesaṃ atthibhāvaṃ jānāti phalaṃ vipāko pana natthīti gaṇhāti. Natthi ayaṃ lokoti paraloke ṭhito imaṃ lokaṃ natthīti gaṇhāti. Natthi paralokoti idha loke ṭhito paralokaṃ natthīti gaṇhāti. Natthi mātā natthi pitāti mātāpitūnaṃ atthibhāvaṃ jānāti, tesu katapaccayena koci phalaṃ vipāko natthīti gaṇhāti. Natthi sattā opapātikāti cavanakaupapajjanakā sattā natthīti gaṇhāti. Sammaggatā sammā paṭipannāti anulomapaṭipadaṃ paṭipannā dhammikasamaṇabrāhmaṇā lokasmiṃ natthīti gaṇhāti. Ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti imañca lokaṃ parañca lokaṃ attanāva abhivisiṭṭhena ñāṇena ñatvā pavedanasamattho sabbaññū buddho nāma natthīti gaṇhāti. ^1-1807
 
 Imāni pana upādānāni kilesapaṭipāṭiyāpi āharituṃ vaṭṭati maggapaṭipāṭiyāpi. Kilesapaṭipāṭiyā kāmupādānaṃ catūhi maggehi pahīyati, sesāni tīṇi sotāpattimaggena. Maggapaṭipāṭiyā sotāpattimaggena diṭṭhupādānādīni pahīyanti, catūhi maggehi kāmupādānanti. ^1-1808
 
-![[pi-1#^1-1235]]
+![[1-SOURCES/Text/pi-1.md#^1-1235]]
 
 Kilesagocchake kilesā eva kilesavatthūni. Vasanti vā ettha akhīṇāsavā sattā lobhādīsu patiṭṭhitattāti ‘vatthūni’. Kilesā ca te tappatiṭṭhānaṃ sattānaṃ vatthūni cāti ‘kilesavatthūni’. Yasmā cettha anantarapaccayādibhāvena uppajjamānā kilesāpi vasanti eva nāma, tasmā kilesānaṃ vatthūnītipi ‘kilesavatthūni’. ^1-1809
 
-![[pi-1#^1-1236]]
+![[1-SOURCES/Text/pi-1.md#^1-1236]]
 
 Tattha katamo lobho? Yo rāgo sārāgoti ayaṃ pana lobho hetugocchake ganthagocchake imasmiṃ kilesagocchaketi tīsu ṭhānesu atirekapadasatena niddiṭṭho. Āsavasaṃyojanaoghayoganīvaraṇaupādānagocchakesu aṭṭhahi aṭṭhahi padehi niddiṭṭho. Svāyaṃ atirekapadasatena niddiṭṭhaṭṭhānepi aṭṭhahi aṭṭhahi padehi niddiṭṭhaṭṭhānepi nippadesatova gahitoti veditabbo. Tesu hetuganthanīvaraṇaupādānakilesagocchakesu catumaggavajjhā taṇhā ekeneva koṭṭhāsena ṭhitā. Āsavasaṃyojanaoghayogesu catumaggavajjhāpi dve koṭṭhāsā hutvā ṭhitā. Kathaṃ? Āsavesu kāmāsavo bhavāsavoti, saṃyojanesu kāmarāgasaṃyojanaṃ bhavarāgasaṃyojananti, oghesu kāmogho bhavoghoti, yogesu kāmayogo bhavayogoti. ^1-1810
 
 Imāni pana kilesavatthūni kilesapaṭipāṭiyāpi āharituṃ vaṭṭati maggapaṭipāṭiyāpi. Kilesapaṭipāṭiyā lobho catūhi maggehi pahīyati, doso anāgāmimaggena, mohamānā arahattamaggena, diṭṭhivicikicchā sotāpattimaggena, thinādīni arahattamaggena. Maggapaṭipāṭiyā sotāpattimaggena diṭṭhivicikicchā pahīyanti, anāgāmimaggena doso, arahattamaggena sesā sattāti. ^1-1811
 
-![[pi-1#^1-1287]]
+![[1-SOURCES/Text/pi-1.md#^1-1287]]
 
 Kāmāvacaraniddese heṭṭhatoti heṭṭhābhāgena. Avīcinirayanti vā aggijālānaṃ vā sattānaṃ vā dukkhavedanāya vīci, antaraṃ, chiddaṃ ettha natthīti avīci. Sukhasaṅkhāto ayo ettha natthīti nirayo. Niratiatthenapi nirassādatthenapi nirayo. Pariyantaṃ karitvāti taṃ avīcisaṅkhātaṃ nirayaṃ antaṃ katvā. Uparitoti uparibhāgena. Paranimmitavasavattideveti paranimmitesu kāmesu vasaṃ vattanato evaṃladdhavohāre deve. Anto karitvāti anto pakkhipitvā. Yaṃ etasmiṃ antareti ye etasmiṃ okāse. Etthāvacarāti iminā yasmā etasmiṃ antare aññepi caranti kadāci katthaci sambhavato, tasmā tesaṃ asaṅgaṇhanatthaṃ ‘avacarā’ti vuttaṃ. Tena ye etasmiṃ antare ogāḷhā hutvā caranti sabbattha sadā ca sambhavato, adhobhāge caranti avīcinirayassa heṭṭhā bhūtupādāyapavattibhāvena, tesaṃ saṅgaho kato hoti. Te hi avagāḷhāva caranti, adhobhāgeva carantīti avacarā. Ettha pariyāpannāti iminā pana yasmā ete etthāvacarā aññatthāpi avacaranti, na pana tattha pariyāpannā honti, tasmā tesaṃ aññatthāpi avacarantānaṃ pariggaho kato hoti. Idāni te ettha pariyāpannadhamme rāsisuññatapaccayabhāvato ceva sabhāvato ca dassento khandhātiādimāha. ^1-1812
 
-![[pi-1#^1-1289]]
+![[1-SOURCES/Text/pi-1.md#^1-1289]]
 
 Rūpāvacaraniddese brahmalokanti paṭhamajjhānabhūmisaṅkhātaṃ brahmaṭṭhānaṃ. Sesamettha kāmāvacaraniddese vuttanayeneva veditabbaṃ. Samāpannassa vātiādīsu paṭhamapadena kusalajjhānaṃ vuttaṃ, dutiyena vipākajjhānaṃ, vuttaṃ tatiyena kiriyajjhānaṃ vuttanti veditabbaṃ. ^1-1813
 
-![[pi-1#^1-1291]]
+![[1-SOURCES/Text/pi-1.md#^1-1291]]
 
 Arūpāvacaraniddese ākāsānañcāyatanūpageti ākāsānañcāyatanasaṅkhātaṃ bhavaṃ upagate. Dutiyapadepi eseva nayo. Sesaṃ heṭṭhā vuttanayeneva veditabbaṃ. ^1-1814
 
-![[pi-1#^1-1301]]
+![[1-SOURCES/Text/pi-1.md#^1-1301]]
 
 Saraṇadukaniddese yvāyaṃ tīsu akusalamūlesu moho, so lobhasampayutto ca lobhena saraṇo, dosasampayutto ca dosena saraṇo. Vicikicchuddhaccasampayutto pana moho diṭṭhisampayuttena ceva rūparāgaarūparāgasaṅkhātena ca rāgaraṇena pahānekaṭṭhabhāvato saraṇo sarajoti veditabbo. ^1-1815
 
 #### Suttantikadukanikkhepakathā ^1-6-3-0
 
-![[pi-1#^1-1303]]
+![[1-SOURCES/Text/pi-1.md#^1-1303]]
 
 Suttantikadukesu mātikākathāyaṃ atthato vivecitattā yāni ca nesaṃ niddesapadāni tesampi heṭṭhā vuttanayeneva suviññeyyattā yebhuyyena uttānatthāni eva. Idaṃ panettha visesamattaṃ – vijjūpamaduke tāva cakkhumā kira puriso meghandhakāre rattiṃ maggaṃ paṭipajji. Tassa andhakāratāya maggo na paññāyi. Vijju niccharitvā andhakāraṃ viddhaṃsesi. Athassa andhakāravigamā maggo pākaṭo ahosi. So dutiyampi gamanaṃ abhinīhari. Dutiyampi andhakāro otthari. Maggo na paññāyi. Vijju niccharitvā taṃ viddhaṃsesi. Vigate andhakāre maggo pākaṭo ahosi. Tatiyampi gamanaṃ abhinīhari. Andhakāro otthari. Maggo na paññāyi. Vijju niccharitvā andhakāraṃ viddhaṃsesi. ^1-1816
 
@@ -4974,15 +4985,15 @@ Tattha cakkhumato purisassa andhakāre maggapaṭipajjanaṃ viya ariyasāvakass
 
 Vajirassa pana pāsāṇo vā maṇi vā abhejjo nāma natthi. Yattha patati taṃ vinividdhameva hoti. Vajiraṃ khepentaṃ asesetvā khepeti. Vajirena gatamaggo nāma puna pākatiko na hoti. Evameva arahattamaggassa avajjhakileso nāma natthi. Sabbakilese vinivijjhati vajiraṃ viya. Arahattamaggopi kilese khepento asesetvā khepeti. Vajirena gatamaggassa puna pākatikattābhāvo viya arahattamaggena pahīnakilesānaṃ puna paccudāvattanaṃ nāma natthīti. ^1-1818
 
-![[pi-1#^1-1307]]
+![[1-SOURCES/Text/pi-1.md#^1-1307]]
 
 Bāladukaniddese bālesu ahirikānottappāni pākaṭāni, mūlāni ca sesānaṃ bāladhammānaṃ. Ahiriko hi anottappī ca na kiñci akusalaṃ na karoti nāmāti. Etāni dve paṭhamaṃyeva visuṃ vuttāni. Sukkapakkhepi ayameva nayo. Tathā kaṇhaduke. ^1-1819
 
-![[pi-1#^1-1311]]
+![[1-SOURCES/Text/pi-1.md#^1-1311]]
 
 Tapanīyadukaniddese katattā ca akatattā ca tapanaṃ veditabbaṃ. Kāyaduccaritādīni hi katattā tapanti, kāyasucaritādīni akatattā. Tathā hi puggalo ‘kataṃ me kāyaduccarita’nti tappati, ‘akataṃ me kāyasucarita’nti tappati. ‘Kataṃ me vacīduccarita’nti tappati…pe… ‘akataṃ me manosucarita’nti tappati. Atapanīyepi eseva nayo. Kalyāṇakārī hi puggalo ‘kataṃ me kāyasucarita’nti na tappati, ‘akataṃ me kāyaduccarita’nti na tappati…pe… ‘akataṃ me manoduccarita’nti na tappatīti (a. ni. 2.3). ^1-1820
 
-![[pi-1#^1-1313]]
+![[1-SOURCES/Text/pi-1.md#^1-1313]]
 
 Adhivacanadukaniddese yā tesaṃ tesaṃ dhammānanti sabbadhammaggahaṇaṃ. Saṅkhāyatīti saṅkhā, saṃkathiyatīti attho. Kinti saṃkathiyati? Ahanti mamanti paroti parassāti sattoti bhāvoti posoti puggaloti naroti māṇavoti tissoti dattoti, ‘mañco pīṭhaṃ bhisi bimbohanaṃ’ ‘vihāro pariveṇaṃ dvāraṃ vātapāna’nti evaṃ anekehi ākārehi saṃkathiyatīti ‘saṅkhā’. Samaññāyatīti samaññā. Kinti samaññāyati? ‘Ahanti…pe… vātapāna’nti samaññāyatīti ‘samaññā’. Paññāpiyatīti paññatti. Vohariyatīti vohāro. Kinti vohariyati? ‘Aha’nti…pe… ‘vātapāna’nti vohariyatīti vohāro. ^1-1821
 
@@ -4997,75 +5008,75 @@ Nāmakammanti nāmakaraṇaṃ. Nāmadheyyanti nāmaṭṭhapanaṃ. Niruttīti 
 
 Aṭavīpabbatādīsu rukkhopi jānapadānaṃ bhāro. Te hi ‘ayaṃ kiṃ rukkho nāmā’ti puṭṭhā ‘khadiro’ ‘palāso’ti attanā jānanakanāmaṃ kathenti. Yassa nāmaṃ na jānanti tampi ‘anāmako’ nāmāti vadanti. Tampi tassa nāmadheyyameva hutvā tiṭṭhati. Samudde macchakacchapādīsupi eseva nayo. Itare dve dukā iminā samānatthā eva. ^1-1826
 
-![[pi-1#^1-1316]]
+![[1-SOURCES/Text/pi-1.md#^1-1316]]
 
 Nāmarūpaduke nāmakaraṇaṭṭhena ca namanaṭṭhena ca nāmanaṭṭhena ca nāmaṃ. Tattha cattāro khandhā tāva nāmakaraṇaṭṭhena ‘nāmaṃ’. Yathā hi mahājanasammatattā mahāsammatassa mahāsammatoti nāmaṃ ahosi, yathā vā mātāpitaro ‘ayaṃ tisso nāma hotu, phusso nāma hotū’ti evaṃ puttassa kittimanāmaṃ karonti, yathā vā ‘dhammakathiko’ ‘vinayadharo’ti guṇato nāmaṃ āgacchati, na evaṃ vedanādīnaṃ. Vedanādayo hi mahāpathavīādayo viya attano nāmaṃ karontāva uppajjanti. Tesu uppannesu tesaṃ nāmaṃ uppannameva hoti. Na hi vedanaṃ uppannaṃ ‘tvaṃ vedanā nāma hohī’ti koci bhaṇati. Na ca tassā nāmaggahaṇakiccaṃ atthi. Yathā pathaviyā uppannāya ‘tvaṃ pathavī nāma hohī’ti nāmaggahaṇakiccaṃ natthi, cakkavāḷasinerucandimasūriyanakkhattesu uppannesu ‘tvaṃ cakkavāḷaṃ nāma hohi tvaṃ nakkhattaṃ nāma hohī’ti nāmaggahaṇakiccaṃ natthi, nāmaṃ uppannameva hoti, opapātikapaññattiyaṃ nipatati, evaṃ vedanāya uppannāya ‘tvaṃ vedanā nāma hohī’ti nāmaggahaṇakiccaṃ natthi. Tāya uppannāya vedanāti nāmaṃ uppannameva hoti. Opapātikapaññattiyaṃ nipatati. Saññādīsupi eseva nayo. Atītepi hi vedanā vedanāyeva, saññā… saṅkhārā… viññāṇaṃ viññāṇameva. Anāgatepi, paccuppannepi. Nibbānaṃ pana sadāpi nibbānamevāti. ‘Nāmakaraṇaṭṭhena’ nāmaṃ. ^1-1827
 
 ‘Namanaṭṭhenā’pi cettha cattāro khandhā nāmaṃ. Te hi ārammaṇābhimukhā namanti. ‘Nāmanaṭṭhena’ sabbampi nāmaṃ. Cattāro hi khandhā ārammaṇe aññamaññaṃ nāmenti. Nibbānaṃ ārammaṇādhipatipaccayatāya attani anavajjadhamme nāmeti. ^1-1828
 
-![[pi-1#^1-1318]]
+![[1-SOURCES/Text/pi-1.md#^1-1318]]
 
 Avijjābhavataṇhā vaṭṭamūlasamudācāradassanatthaṃ gahitā. ^1-1829
 
-![[pi-1#^1-1320]]
+![[1-SOURCES/Text/pi-1.md#^1-1320]]
 
 Bhavissati attā ca loko cāti khandhapañcakaṃ attā ca loko cāti gahetvā ‘taṃ bhavissatī’ti gahaṇākārena niviṭṭhā sassatadiṭṭhi. Dutiyā ‘na bhavissatī’ti ākārena niviṭṭhā ucchedadiṭṭhi. ^1-1830
 
-![[pi-1#^1-1326]]
+![[1-SOURCES/Text/pi-1.md#^1-1326]]
 
 Pubbantaṃārabbhāti atītakoṭṭhāsaṃ ārammaṇaṃ karitvā. Iminā brahmajāle āgatā aṭṭhārasa pubbantānudiṭṭhiyo gahitā. Aparantaṃ ārabbhāti anāgatakoṭṭhāsaṃ ārammaṇaṃ karitvā. Iminā tattheva āgatā catucattālīsa aparantānudiṭṭhiyo gahitā. ^1-1831
 
-![[pi-1#^1-1332]]
+![[1-SOURCES/Text/pi-1.md#^1-1332]]
 
 Dovacassatāniddese sahadhammike vuccamāneti sahadhammikaṃ nāma yaṃ bhagavatā paññattaṃ sikkhāpadaṃ, tasmiṃ vatthuṃ dassetvā āpattiṃ āropetvā ‘idaṃ nāma tvaṃ āpattiṃ āpanno, iṅgha desehi vuṭṭhāhi paṭikarohī’ti vuccamāne. Dovacassāyantiādīsu evaṃ codiyamānassa paṭicodanāya vā appadakkhiṇagāhitāya vā dubbacassa kammaṃ dovacassāyaṃ. Tadeva dovacassantipi vuccati. Tassa bhāvo dovacassiyaṃ. Itaraṃ tasseva vevacanaṃ. Vippaṭikūlagāhitāti vilomagāhitā. Vilomagahaṇasaṅkhātena vipaccanīkena sātaṃ assāti vipaccanīkasāto. ‘Paṭāṇikagahaṇaṃ gahetvā ekapadeneva taṃ nissaddamakāsi’nti sukhaṃ paṭilabhantassetaṃ adhivacanaṃ. Tassa bhāvo vipaccanīkasātatā. Ovādaṃ anādiyanavasena anādarassa bhāvo anādariyaṃ. Itaraṃ tasseva vevacanaṃ. Anādiyanākāro vā anādaratā. Garuvāsaṃ avasanavasena uppanno agāravabhāvo agāravatā. Sajeṭṭhakavāsaṃ avasanavasena uppanno appaṭissavabhāvo appaṭissavatā. Ayaṃ vuccatīti ayaṃ evarūpā dovacassatā nāma vuccati. Atthato panesā tenākārena pavattā cattāro khandhā, saṅkhārakkhandhoyeva vāti. Pāpamittatādīsupi eseva nayo. Dovacassatā pāpamittatādayo hi visuṃ cetasikadhammā nāma natthi. ^1-1832
 
-![[pi-1#^1-1333]]
+![[1-SOURCES/Text/pi-1.md#^1-1333]]
 
 Natthi etesaṃ saddhāti assaddhā; buddhādīni vatthūni na saddahantīti attho. Dussīlāti sīlassa dunnāmaṃ natthi, nissīlāti attho. Appassutāti sutarahitā. Pañca macchariyāni etesaṃ atthīti maccharino. Duppaññāti nippaññā. Sevanakavasena sevanā. Balavasevanā nisevanā. Sabbatobhāgena sevanā saṃsevanā. Upasaggavasena vā padaṃ vaḍḍhitaṃ. Tīhipi sevanāva kathitā. Bhajanāti upasaṅkamanā. Sambhajanāti sabbatobhāgena bhajanā. Upasaggavasena vā padaṃ vaḍḍhitaṃ. Bhattīti daḷhabhatti. Sambhattīti sabbatobhāgena bhatti. Upasaggavasena vā padaṃ vaḍḍhitaṃ. Dvīhipi daḷhabhatti eva kathitā. Taṃsampavaṅkatāti tesu puggalesu kāyena ceva cittena ca sampavaṅkabhāvo; tanninnatā tappoṇatā tappabbhāratāti attho. ^1-1833
 
-![[pi-1#^1-1334]]
+![[1-SOURCES/Text/pi-1.md#^1-1334]]
 
 Sovacassatādukaniddesopi vuttapaṭipakkhanayena veditabbo. ^1-1834
 
-![[pi-1#^1-1336]]
+![[1-SOURCES/Text/pi-1.md#^1-1336]]
 
 Pañcapiāpattikkhandhāti mātikāniddesena ‘pārājikaṃ saṅghādisesaṃ pācittiyaṃ pāṭidesanīyaṃ dukkaṭa’nti imā pañca āpattiyo. Sattapi āpattikkhandhāti vinayaniddesena ‘pārājikaṃ saṅghādisesaṃ thullaccayaṃ pācittiyaṃ pāṭidesanīyaṃ dukkaṭaṃ dubbhāsita’nti imā satta āpattiyo. Tattha saha vatthunā tāsaṃ āpattīnaṃ paricchedajānanakapaññā āpattikusalatā nāma. Saha kammavācāya āpattivuṭṭhānaparicchedajānanakapaññā pana āpattivuṭṭhānakusalatā nāma. ^1-1835
 
-![[pi-1#^1-1338]]
+![[1-SOURCES/Text/pi-1.md#^1-1338]]
 
 Samāpajjitabbato samāpatti. Saha parikammena appanāparicchedajānanakapaññā pana samāpattikusalatā nāma. ‘Cande vā sūriye vā nakkhatte vā ettakaṃ ṭhānaṃ gate vuṭṭhahissāmī’ti avirajjhitvā tasmiṃyeva samaye vuṭṭhānakapaññāya atthitāya samāpattivuṭṭhānakusalatā nāma. ^1-1836
 
-![[pi-1#^1-1340]]
+![[1-SOURCES/Text/pi-1.md#^1-1340]]
 
 Aṭṭhārasannaṃ dhātūnaṃ uggahamanasikārasavanadhāraṇaparicchedajānanakapaññā dhātukusalatā nāma. Tāsaṃyeva uggahamanasikārajānanakapaññā manasikārakusalatā nāma. ^1-1837
 
-![[pi-1#^1-1342]]
+![[1-SOURCES/Text/pi-1.md#^1-1342]]
 
 Dvādasannaṃ āyatanānaṃ uggahamanasikārasavanadhāraṇaparicchedajānanakapaññā latā nāma. Tīsupi vā etāsu kusalatāsu uggaho manasikāro savanaṃ sammasanaṃ paṭivedho paccavekkhaṇāti sabbaṃ vaṭṭati. Tattha savanauggahapaccavekkhaṇā lokiyā, paṭivedho lokuttaro. Sammasanamanasikārā lokiyalokuttaramissakā. ‘Avijjāpaccayā saṅkhārā’tiādīni (vibha. aṭṭha. 225) paṭiccasamuppādavibhaṅge āvibhavissanti. ‘Iminā pana paccayena idaṃ hotī’ti jānanakapaññā paṭiccasamuppādakusalatā nāma. ^1-1838
 
-![[pi-1#^1-1344]]
+![[1-SOURCES/Text/pi-1.md#^1-1344]]
 
 Ṭhānāṭṭhānakusalatādukaniddese hetū paccayāti ubhayampetaṃ aññamaññavevacanaṃ. Cakkhupasādo hi rūpaṃ ārammaṇaṃ katvā uppajjanakassa cakkhuviññāṇassa hetu ceva paccayo ca. Tathā sotapasādādayo sotaviññāṇādīnaṃ, ambabījādīni ca ambaphalādīnaṃ. Dutiyanaye ye ye dhammāti visabhāgapaccayadhammānaṃ nidassanaṃ. Yesaṃ yesanti visabhāgapaccayasamuppannadhammanidassanaṃ. Na hetū na paccayāti cakkhupasādo saddaṃ ārammaṇaṃ katvā uppajjanakassa sotaviññāṇassa na hetu na paccayo. Tathā sotapasādādayo avasesaviññāṇādīnaṃ. Ambādayo ca tālādīnaṃ uppattiyāti evamattho veditabbo. ^1-1839
 
-![[pi-1#^1-1346]]
+![[1-SOURCES/Text/pi-1.md#^1-1346]]
 
 Ajjavamaddavaniddese nīcacittatāti padamattameva viseso. Tassattho – mānābhāvena nīcaṃ cittaṃ assāti nīcacitto. Nīcacittassa bhāvo nīcacittatā. Sesaṃ cittujukatācittamudutānaṃ padabhājanīye āgatameva. ^1-1840
 
-![[pi-1#^1-1348]]
+![[1-SOURCES/Text/pi-1.md#^1-1348]]
 
 Khantiniddese khamanakavasena khanti. Khamanākāro khamanatā. Adhivāsenti etāya, attano upari āropetvā vāsenti, na paṭibāhanti, na paccanīkatāya tiṭṭhantīti adhivāsanatā. Acaṇḍikassa bhāvo acaṇḍikkaṃ. Anasuropoti asuropo vuccati na sammāropitattā duruttavacanaṃ. Tappaṭipakkhato anasuropo suruttavācāti attho. Evamettha phalūpacārena kāraṇaṃ niddiṭṭhaṃ. Attamanatā cittassāti somanassavasena cittassa sakamanatā, attano cittasabhāvoyeva, na byāpannacittatāti attho. ^1-1841
 
-![[pi-1#^1-1349]]
+![[1-SOURCES/Text/pi-1.md#^1-1349]]
 
 Soraccaniddese kāyiko avītikkamoti tividhaṃ kāyasucaritaṃ. Vācasiko avītikkamoti catubbidhaṃ vacīsucaritaṃ. Kāyikavācasikoti iminā kāyavacīdvārasamuṭṭhitaṃ ājīvaṭṭhamakasīlaṃ pariyādiyati. Idaṃ vuccati soraccanti idaṃ pāpato suṭṭhu oratattā soraccaṃ nāma vuccati. Sabbopi sīlasaṃvaroti idaṃ yasmā na kevalaṃ kāyavācāheva anācāraṃ ācarati manasāpi ācarati eva, tasmā mānasikasīlaṃ pariyādāya dassetuṃ vuttaṃ. ^1-1842
 
-![[pi-1#^1-1350]]
+![[1-SOURCES/Text/pi-1.md#^1-1350]]
 
 Sākhalyaniddese aṇḍakāti yathā sadose rukkhe aṇḍakāni uṭṭhahanti, evaṃ sadosatāya khuṃsanavambhanādivacanehi aṇḍakā jātā. Kakkasāti pūtikā sā yathā nāma pūtirukkho kakkaso hoti paggharitacuṇṇo evaṃ kakkasā hoti. Sotaṃ ghaṃsayamānā viya pavisati. Tena vuttaṃ ‘kakkasā’ti. Parakaṭukāti paresaṃ kaṭukā amanāpā dosajananī. Parābhisajjanīti kuṭilakaṇṭakasākhā viya cammesu vijjhitvā paresaṃ abhisajjanī, gantukāmānampi gantuṃ adatvā lagganakārī. Kodhasāmantāti kodhassa āsannā. Asamādhisaṃvattanikāti appanāsamādhissa vā upacārasamādhissa vā asaṃvattanikā. Iti sabbānevetāni sadosavācāya vevacanāni. Tathārūpiṃ vācaṃ pahāyāti idaṃ pharusavācaṃ appajahitvā ṭhitassa antarantare pavattāpi saṇhavācā asaṇhavācā eva nāmāti dīpanatthaṃ vuttaṃ. ^1-1843
 
 Neḷāti eḷaṃ vuccati doso. Nāssā eḷanti neḷā; niddosāti attho. "Neḷaṅgo setapacchādo"ti (udā. 65; saṃ. ni. 4.347; peṭako. 25) ettha vuttaneḷaṃ viya. Kaṇṇasukhāti byañjanamadhuratāya kaṇṇānaṃ sukhā, sūcivijjhanaṃ viya kaṇṇasūlaṃ na janeti. Atthamadhuratāya sarīre kopaṃ ajanetvā pemaṃ janetīti pemanīyā. Hadayaṃ gacchati, appaṭihaññamānā sukhena cittaṃ pavisatīti hadayaṅgamā. Guṇaparipuṇṇatāya pure bhavāti porī. Pure saṃvaḍḍhanārī viya sukumārātipi porī. Purassa esātipi porī; nagaravāsīnaṃ kathāti attho. Nagaravāsino hi yuttakathā honti. Pitimattaṃ pitāti bhātimattaṃ bhātāti vadanti. Evarūpī kathā bahuno janassa kantā hotīti bahujanakantā. Kantabhāveneva bahuno janassa manāpā cittavuḍḍhikarāti bahujanamanāpā. Yā tatthāti yā tasmiṃ puggale. Saṇhavācatāti maṭṭhavācatā. Sakhilavācatāti muduvācatā. Apharusavācatāti akakkhaḷavācatā. ^1-1844
 
-![[pi-1#^1-1351]]
+![[1-SOURCES/Text/pi-1.md#^1-1351]]
 
 Paṭisanthāraniddese āmisapaṭisanthāroti āmisaalābhena attanā saha paresaṃ chiddaṃ yathā pihitaṃ hoti paṭicchannaṃ evaṃ āmisena paṭisantharaṇaṃ. Dhammapaṭisanthāroti dhammassa appaṭilābhena attanā saha paresaṃ chiddaṃ yathā pihitaṃ hoti paṭicchannaṃ, evaṃ dhammena paṭisantharaṇaṃ. Paṭisanthārako hotīti dveyeva hi lokasannivāsassa chiddāni, tesaṃ paṭisanthārako hoti. Āmisapaṭisanthārena vā dhammapaṭisanthārena vāti iminā duvidhena paṭisanthārena paṭisanthārako hoti, paṭisantharati, nirantaraṃ karoti. ^1-1845
 
@@ -5083,7 +5094,7 @@ Imaṃ paṭisanthāraṃ katvā bhikkhunā saṅgahapakkhe ṭhatvā tassa bhik
 
 Imehi dvīhi paṭisanthārehi paṭisanthārako bhikkhu anuppannaṃ lābhaṃ uppādeti, uppannaṃ thāvaraṃ karoti, sabhayaṭṭhāne attano jīvitaṃ rakkhati coranāgarañño pattaggahaṇahattheneva aggaṃ gahetvā patteneva bhattaṃ ākiranto thero viya. Aladdhalābhuppādane pana ito palāyitvā paratīraṃ gatena mahānāgaraññā ekassa therassa santike saṅgahaṃ labhitvā puna āgantvā rajje patiṭṭhitena setambaṅgaṇe yāvajīvaṃ pavattitaṃ mahābhesajjadānavatthu kathetabbaṃ. Uppannalābhathāvarakaraṇe dīghabhāṇakaabhayattherassa hatthato paṭisanthāraṃ labhitvā cetiyapabbate corehi bhaṇḍakassa aviluttabhāve vatthu kathetabbaṃ. ^1-1852
 
-![[pi-1#^1-1352]]
+![[1-SOURCES/Text/pi-1.md#^1-1352]]
 
 Indriyesu aguttadvāratāniddese cakkhunā rūpaṃ disvāti kāraṇavasena cakkhūti laddhavohārena rūpadassanasamatthena cakkhuviññāṇena rūpaṃ disvā. Porāṇā panāhu – "cakkhu rūpaṃ na passati, acittakattā; cittaṃ na passati, acakkhukattā; dvārārammaṇasaṅghaṭṭanena pana pasādavatthukena cittena passati. Īdisī panesā ‘dhanunā vijjatī’tiādīsu viya sasambhārakathā nāma hoti. Tasmā cakkhuviññāṇena rūpaṃ disvā"ti ayamevettha atthoti. Nimittaggāhīti itthipurisanimittaṃ vā subhanimittādikaṃ vā kilesavatthubhūtaṃ nimittaṃ chandarāgavasena gaṇhāti, diṭṭhamatteyeva na saṇṭhāti. Anubyañjanaggāhīti kilesānaṃ anubyañjanato pākaṭabhāvakaraṇato anubyañjananti laddhavohāraṃ hatthapādasitahasitakathitaālokitavilokitādibhedaṃ ākāraṃ gaṇhāti. Yatvādhikaraṇamenantiādimhi yaṃkāraṇā yassa cakkhundriyāsaṃvarassa hetu, etaṃ puggalaṃ satikavāṭena cakkhundriyaṃ asaṃvutaṃ apihitacakkhudvāraṃ hutvā viharantaṃ ete abhijjhādayo dhammā anvāssaveyyuṃ anubandheyyuṃ ajjhotthareyyuṃ. Tassa saṃvarāya na paṭipajjatīti tassa cakkhundriyassa satikavāṭena pidahanatthāya na paṭipajjati. Evaṃbhūtoyeva ca na rakkhati cakkhundriyaṃ, na cakkhundriye saṃvaraṃ āpajjatīti vuccati. ^1-1853
 
@@ -5093,15 +5104,15 @@ Evaṃ honto pana so ‘cakkhundriye asaṃvaro’ti vuccati. Kasmā? Yasmā tas
 
 Sotena saddaṃ sutvātiādīsupi eseva nayo. Yā imesanti evaṃ saṃvaraṃ anāpajjantassa imesaṃ channaṃ indriyānaṃ yā agutti yā agopanā yo anārakkho yo asaṃvaro, athakanaṃ, apidahananti attho. ^1-1856
 
-![[pi-1#^1-1353]]
+![[1-SOURCES/Text/pi-1.md#^1-1353]]
 
 Bhojane amattaññutāniddese idhekaccoti imasmiṃ sattaloke ekacco. Appaṭisaṅkhāti paṭisaṅkhānapaññāya ajānitvā anupadhāretvā. Ayonisoti anupāyena. Āhāranti asitapītādiajjhoharaṇīyaṃ. Āhāretīti paribhuñjati ajjhoharati. Davāyātiādi anupāyadassanatthaṃ vuttaṃ. Anupāyena hi āhārento davatthāya madatthāya maṇḍanatthāya vibhūsanatthāya vā āhāreti, no idamatthitaṃ paṭicca. Yā tattha asantuṭṭhitāti yā tasmiṃ ayoniso āhāraparibhoge asantussanā asantuṭṭhibhāvo. Amattaññutāti amattaññubhāvo, pamāṇasaṅkhātāya mattāya ajānanaṃ. Ayaṃ vuccatīti ayaṃ apaccavekkhitaparibhogavasena pavattā bhojane amattaññutā nāma vuccati. ^1-1857
 
-![[pi-1#^1-1354]]
+![[1-SOURCES/Text/pi-1.md#^1-1354]]
 
 Indriyesu guttadvāratāniddese cakkhunātiādi vuttanayeneva veditabbaṃ. Na nimittaggāhī hotīti chandarāgavasena vuttappakāraṃ nimittaṃ na gaṇhāti. Evaṃ sesapadānipi vuttapaṭipakkhanayeneva veditabbāni. Yathā ca heṭṭhā ‘javane dussīlyādīsu uppannesu tasmiṃ asaṃvare sati, dvārampi aguttaṃ hoti, bhavaṅgampi, āvajjanādīnipi vīthicittānī’ti vuttaṃ, evamidha tasmiṃ sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi, āvajjanādīnipi vīthicittāni. Yathā kiṃ? Yathā nagaradvāresu susaṃvutesu, kiñcāpi antogharādayo asaṃvutā honti, tathāpi antonagare sabbaṃ bhaṇḍaṃ surakkhitaṃ sugopitameva hoti – nagaradvāresu pihitesu corānaṃ paveso natthi – evameva javane sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi, āvajjanādīnipi vīthicittāni. Tasmā javanakkhaṇe uppajjamānopi ‘cakkhundriye saṃvaro’ti vutto. Sotena saddaṃ sutvātiādīsupi eseva nayo. ^1-1858
 
-![[pi-1#^1-1355]]
+![[1-SOURCES/Text/pi-1.md#^1-1355]]
 
 Bhojane mattaññutāniddese paṭisaṅkhā yoniso āhāraṃ āhāretīti paṭisaṅkhānapaññāya jānitvā upāyena āhāraṃ paribhuñjati. Idāni taṃ upāyaṃ dassetuṃ neva davāyātiādi vuttaṃ. ^1-1859
 
@@ -5124,57 +5135,57 @@ Alaṃ phāsuvihārāya, pahitattassa bhikkhuno"ti. (theragā. 983); ^1-1867
 
 Imasmiṃ pana ṭhāne aṅgāni samodhānetabbāni. ‘Neva davāyā’tihi ekaṃ aṅgaṃ, ‘na madāyā’ti ekaṃ, ‘na maṇḍanāyā’ti ekaṃ, ‘na vibhūsanāyā’ti ekaṃ, ‘yāvadeva imassa kāyassa ṭhitiyā yāpanāyā’ti ekaṃ, ‘vihiṃsūparatiyā brahmacariyānuggahāyā’ti ekaṃ, ‘iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmī’ti ekaṃ, ‘yātrā ca me bhavissatī’ti ekaṃ aṅgaṃ. Anavajjatā ca phāsuvihāro cāti ayamettha bhojanānisaṃso. Mahāsīvatthero panāha – heṭṭhā cattāri aṅgāni paṭikkhepo nāma. Upari pana aṭṭhaṅgāni samodhānetabbānīti – tattha ‘yāvadeva imassa kāyassa ṭhitiyā’ti ekaṃ aṅgaṃ, ‘yāpanāyā’ti ekaṃ, ‘vihiṃsūparatiyāti’ ekaṃ, ‘brahmacariyānuggahāyā’ti ekaṃ, ‘iti purāṇañca vedanaṃ paṭihaṅkhāmī’ti ekaṃ, ‘navañca vedanaṃ na uppādessāmī’ti ekaṃ, ‘yātrā ca me bhavissatī’ti ekaṃ, ‘anavajjatā’ cāti ekaṃ. Phāsuvihāro pana bhojanānisaṃsoti. Evaṃ aṭṭhaṅgasamannāgataṃ āhāraṃ āhārento bhojane mattaññū nāma hoti. Ayaṃ vuccatīti ayaṃ pariyesanapaṭiggahaṇaparibhogesu yuttappamāṇajānanavasena pavatto paccavekkhitaparibhogo bhojane mattaññutā nāma vuccati. ^1-1868
 
-![[pi-1#^1-1356]]
+![[1-SOURCES/Text/pi-1.md#^1-1356]]
 
 Muṭṭhassaccaniddese asatīti sativirahitā cattāro khandhā. Ananussati appaṭissatīti upasaggavasena padaṃ vaḍḍhitaṃ. Asaraṇatāti asaraṇākāro. Adhāraṇatāti dhāretuṃ asamatthatā. Tāya hi samannāgato puggalo ādhānappatto nidhānakkhamo na hoti. Udake alābukaṭāhaṃ viya ārammaṇe pilavatīti pilāpanatā. Saṃmusanatāti naṭṭhamuṭṭhassatitā. Tāya hi samannāgato puggalo nikkhittabhatto viya kāko, nikkhittamaṃso viya ca siṅgālo hoti. ^1-1869
 
-![[pi-1#^1-1361]]
+![[1-SOURCES/Text/pi-1.md#^1-1361]]
 
 Bhāvanābalaniddese kusalānaṃ dhammānanti bodhipakkhiyadhammānaṃ āsevanāti ādisevanā. Bhāvanāti vaḍḍhanā. Bahulīkammanti punappunaṃ karaṇaṃ. ^1-1870
 
-![[pi-1#^1-1368]]
+![[1-SOURCES/Text/pi-1.md#^1-1368]]
 
 Sīlavipattiniddeso sīlasampadāniddesapaṭipakkhato veditabbo. Diṭṭhivipattiniddeso ca diṭṭhisampadāniddesapaṭipakkhato diṭṭhisampadāniddeso ca diṭṭhupādānaniddesapaṭipakkhato. Sīlavisuddhiniddeso kiñcāpi sīlasampadāniddesena samāno, tattha pana visuddhisampāpakaṃ pātimokkhasaṃvarasīlaṃ kathitaṃ, idha visuddhippattaṃ sīlaṃ. Sati ca sampajaññañca, paṭisaṅkhānabalañca bhāvanābalañca, samatho ca vipassanā ca, samathanimittañca paggahanimittañca, paggāho ca avikkhepo ca, sīlasampadā ca diṭṭhisampadā cāti imehi pana chahi dukehi catubhūmakāpi lokiyalokuttaradhammāva kathitā. ^1-1871
 
-![[pi-1#^1-1373]]
+![[1-SOURCES/Text/pi-1.md#^1-1373]]
 
 Diṭṭhivisuddhiniddese kammassakataññāṇanti ‘idaṃ kammaṃ sakaṃ, idaṃ no saka’nti jānanapaññā. Tattha attanā vā kataṃ hotu parena vā sabbampi akusalakammaṃ no sakaṃ. Kasmā? Atthabhañjanato anatthajananato ca. Kusalakammaṃ pana anatthabhañjanato atthajananato ca ‘sakaṃ’ nāma. Tattha yathā nāma sadhano sabhogo puriso addhānamaggaṃ paṭipajjitvā antarāmagge gāmanigamādīsu nakkhatte saṅghuṭṭhe ‘ahaṃ āgantuko, kaṃ nu kho nissāya nakkhattaṃ kīḷeyya’nti acintetvā yathā yathā icchati tena tena nīhārena nakkhattaṃ kīḷanto sukhena kantāraṃ atikkamati, evameva imasmiṃ kammassakataññāṇe ṭhatvā ime sattā bahuṃ vaṭṭagāmikammaṃ āyūhitvā sukhena sukhaṃ anubhavantā arahattaṃ pattā gaṇanapathaṃ vītivattā. Saccānulomikañāṇanti catunnaṃ saccānaṃ anulomaṃ vipassanāñāṇaṃ. Maggasamaṅgissa ñāṇaṃ phalasamaṅgissa ñāṇanti maggañāṇaphalañāṇāniyeva. ^1-1872
 
-![[pi-1#^1-1374]]
+![[1-SOURCES/Text/pi-1.md#^1-1374]]
 
 ‘Diṭṭhivisuddhi kho panā’tipadassa niddese yā paññā pajānanātiādīhi padehi heṭṭhā vuttāni kammassakataññāṇādīneva cattāri ñāṇāni vibhattāni. ^1-1873
 
-![[pi-1#^1-1375]]
+![[1-SOURCES/Text/pi-1.md#^1-1375]]
 
 ‘Yathādiṭṭhissaca padhāna’nti padassa niddese yo cetasiko vīriyārambhotiādīhi padehi niddiṭṭhaṃ vīriyaṃ paññāgatikameva; paññāya hi lokiyaṭṭhāne lokiyaṃ lokuttaraṭṭhāne lokuttaranti veditabbaṃ. ^1-1874
 
-![[pi-1#^1-1376]]
+![[1-SOURCES/Text/pi-1.md#^1-1376]]
 
 Saṃvegadukaniddese jātibhayanti jātiṃ bhayato disvā ṭhitañāṇaṃ. Jarāmaraṇabhayādīsupi eseva nayo. ^1-1875
 
-![[pi-1#^1-1377]]
+![[1-SOURCES/Text/pi-1.md#^1-1377]]
 
 Anuppannānaṃ pāpakānantiādīhi jātiādīni bhayato disvā jātijarābyādhimaraṇehi muccitukāmassa upāyapadhānaṃ kathitaṃ. Padabhājanīyassa panattho vibhaṅgaṭṭhakathāyaṃ (vibha. aṭṭha. 367 bojjhaṅgapabbavaṇṇanā) āvi bhavissati. ^1-1876
 
-![[pi-1#^1-1378]]
+![[1-SOURCES/Text/pi-1.md#^1-1378]]
 
 ‘Asantuṭṭhitā ca kusalesu dhammesū’ti padaniddese bhiyyokamyatāti visesakāmatā. Idhekacco hi āditova pakkhikabhattaṃ vā salākabhattaṃ vā uposathikaṃ vā pāṭipadikaṃ vā deti, so tena asantuṭṭho hutvā puna dhurabhattaṃ saṅghabhattaṃ vassāvāsikaṃ deti, āvāsaṃ kāreti, cattāropi paccaye deti. Tatrāpi asantuṭṭho hutvā saraṇāni gaṇhāti, pañca sīlāni samādiyati. Tatrāpi asantuṭṭho hutvā pabbajati. Pabbajitvā ekaṃ nikāyaṃ dve nikāyeti tepiṭakaṃ buddhavacanaṃ gaṇhāti, aṭṭha samāpattiyo bhāveti, vipassanaṃ vaḍḍhetvā arahattaṃ gaṇhāti . Arahattappattito paṭṭhāya mahāsantuṭṭho nāma hoti. Evaṃ yāva arahattā visesakāmatā ‘bhiyyokamyatā’ nāma. ^1-1877
 
-![[pi-1#^1-1379]]
+![[1-SOURCES/Text/pi-1.md#^1-1379]]
 
 ‘Appaṭivānitā ca padhānasmi’nti padassa niddese yasmā pantasenāsanesu adhikusalānaṃ dhammānaṃ bhāvanāya ukkaṇṭhamāno padhānaṃ paṭivāseti nāma , anukkaṇṭhamāno no paṭivāseti nāma, tasmā taṃ nayaṃ dassetuṃ yā kusalānaṃ dhammānantiādi vuttaṃ. Tattha sakkaccakiriyatāti kusalānaṃ karaṇe sakkaccakāritā. Sātaccakiriyatāti satatameva karaṇaṃ. Aṭṭhitakiriyatāti khaṇḍaṃ akatvā aṭṭhapetvā karaṇaṃ. Anolīnavuttitāti alīnajīvitā, alīnapavattitā vā. Anikkhittachandatāti kusalacchandassa anikkhipanaṃ. Anikkhittadhuratāti kusalakaraṇe vīriyadhurassa anikkhipanaṃ. ^1-1878
 
-![[pi-1#^1-1380]]
+![[1-SOURCES/Text/pi-1.md#^1-1380]]
 
 ‘Pubbenivāsānussatiñāṇaṃvijjā’ti ettha pubbenivāsoti pubbe nivutthakkhandhā ca khandhapaṭibaddhañca. Pubbenivāsassa anussati pubbenivāsānussati. Tāya sampayuttaṃ ñāṇaṃ pubbenivāsānussatiñāṇaṃ. Tayidaṃ pubbe nivutthakkhandhapaṭicchādakaṃ tamaṃ vijjhatīti vijjā. Taṃ tamaṃ vijjhitvā te khandhe vidite pākaṭe karotīti viditakaraṇaṭṭhenāpi vijjā. ^1-1879
 
 Cutūpapāte ñāṇanti cutiyañca upapāte ca ñāṇaṃ. Idampi sattānaṃ cutipaṭisandhicchādakaṃ tamaṃ vijjhatīti vijjā. Taṃ tamaṃ vijjhitvā sattānaṃ cutipaṭisandhiyo viditā pākaṭā karotīti viditakaraṇaṭṭhenāpi vijjā. Āsavānaṃ khaye ñāṇanti sabbakilesānaṃ khayasamaye ñāṇaṃ. Tayidaṃ catusaccacchādakatamaṃ vijjhatīti vijjā. Taṃ tamaṃ vijjhitvā cattāri saccāni viditāni pākaṭāni karotīti viditakaraṇaṭṭhenāpi vijjā. ^1-1880
 
-![[pi-1#^1-1381]]
+![[1-SOURCES/Text/pi-1.md#^1-1381]]
 
 ‘Cittassaca adhimutti nibbānañcā’ti ettha ārammaṇe adhimuccanaṭṭhena, paccanīkadhammehi ca suṭṭhumuttaṭṭhena aṭṭha samāpattiyo cittassa adhimutti nāma. Itaraṃ pana ‘natthi ettha taṇhāsaṅkhātaṃ vānaṃ’, ‘niggataṃ vā tasmā vānā’ti nibbānaṃ. Tattha aṭṭha samāpattiyo sayaṃ vikkhambhitakilesehi vimuttattā vimuttīti vuttā, nibbānaṃ pana sabbakilesehi accantaṃ vimuttattā vimuttīti. ^1-1881
 
-![[pi-1#^1-1382]]
+![[1-SOURCES/Text/pi-1.md#^1-1382]]
 
 Maggasamaṅgissañāṇanti cattāri maggañāṇāni. Phalasamaṅgissa ñāṇanti cattāri phalañāṇāni. Tattha paṭhamamaggañāṇaṃ pañca kilese khepentaṃ nirodhentaṃ vūpasamentaṃ paṭippassambhentaṃ uppajjatīti khaye ñāṇaṃ nāma jātaṃ. Dutiyamaggañāṇaṃ cattāro kilese. Tathā tatiyamaggañāṇaṃ. Catutthamaggañāṇaṃ pana aṭṭha kilese khepentaṃ nirodhentaṃ vūpasamentaṃ paṭippassambhentaṃ uppajjatīti ‘khaye ñāṇaṃ’ nāma jātaṃ. Taṃ taṃ maggaphalañāṇaṃ pana tesaṃ tesaṃ kilesānaṃ khīṇante niruddhante vūpasamante paṭippassambhante anuppādante appavattante uppannanti anuppāde ñāṇaṃ nāma jātanti. ^1-1882
 
@@ -5186,7 +5197,7 @@ Nikkhepakaṇḍavaṇṇanā niṭṭhitā. ^1-1884
 
 #### Tikaatthuddhāravaṇṇanā ^1-7-1-0
 
-![[pi-1#^1-1384]]
+![[1-SOURCES/Text/pi-1.md#^1-1384]]
 
 Idāni nikkhepakaṇḍānantaraṃ ṭhapitassa aṭṭhakathākaṇḍassa vaṇṇanākkamo anuppatto. Kasmā panetaṃ aṭṭhakathākaṇḍaṃ nāma jātanti? Tepiṭakassa buddhavacanassa atthaṃ uddharitvā ṭhapitattā. Tīsupi hi piṭakesu dhammantaraṃ āgataṃ aṭṭhakathākaṇḍeneva paricchinditvā vinicchitaṃ suvinicchitaṃ nāma hoti. Sakale abhidhammapiṭake nayamaggaṃ mahāpakaraṇe pañhuddhāraṃ gaṇanacāraṃ asallakkhentenāpi aṭṭhakathākaṇḍatoyeva samānetuṃ vaṭṭati. ^1-1885
 
@@ -5194,15 +5205,15 @@ Kuto pabhavaṃ pana etanti? Sāriputtattherappabhavaṃ. Sāriputtatthero hi ek
 
 Tattha catūsūti kāmāvacararūpāvacarārūpāvacaraapariyāpannāsu. Kusalanti phassādibhedaṃ kusalaṃ. Ime dhammā kusalāti ime sabbepi tāsu tāsu bhūmīsu vuttā phassādayo dhammā kusalā nāma. ^1-1887
 
-![[pi-1#^1-1385]]
+![[1-SOURCES/Text/pi-1.md#^1-1385]]
 
 Akusalānaṃ pana bhūmivasena bhedābhāvato dvādasa akusalacittuppādāti āha. Tattha uppajjatīti uppādo. Cittameva uppādo cittuppādo. Desanāsīsameva cetaṃ. Yathā pana ‘rājā āgato’ti vutte amaccādīnampi āgamanaṃ vuttameva hoti, evaṃ ‘cittuppādā’ti vutte tehi sampayuttadhammāpi vuttāva hontīti. Sabbattha cittuppādaggahaṇena sasampayuttadhammaṃ cittaṃ gahitanti veditabbaṃ. Ito paraṃ catūsu bhūmīsu vipākotiādīnaṃ sabbesampi tikadukabhājanīyapadānaṃ attho, vedanāttikādīsu ca sukhādīnaṃ navattabbatā heṭṭhā vuttanayeneva pāḷiyatthaṃ vīmaṃsitvā veditabbā. Visesamattameva pana vakkhāma. ^1-1888
 
-![[pi-1#^1-1420]]
+![[1-SOURCES/Text/pi-1.md#^1-1420]]
 
 Tattha parittārammaṇattike tāva sabbo kāmāvacarassa vipākoti ettha dvipañcaviññāṇāni cakkhupasādādayo nissāya niyameneva iṭṭhāniṭṭhādibhede rūpasaddagandharasaphoṭṭhabbadhamme ārabbha pavattantīti parittārammaṇāni. Kusalākusalavipākā pana dve manodhātuyo hadayavatthuṃ nissāya cakkhuviññāṇādīnaṃ anantarā niyamato rūpādīneva ārabbha pavattantīti parittārammaṇā. Kusalavipākāhetukamanoviññāṇadhātu somanassasahagatā pañcadvāre santīraṇavasena chasu dvāresu tadārammaṇavasenāti niyamato rūpādīni cha parittārammaṇāneva ārabbha pavattatīti parittārammaṇā. Kusalākusalavipākāhetukamanoviññāṇadhātudvayaṃ pañcadvāre santīraṇavasena chasu dvāresu tadārammaṇavasena niyamato rūpādīni cha parittārammaṇāneva ārabbha pavattati. Paṭisandhivasena pavattamānampi parittaṃ kammaṃ kammanimittaṃ gatinimittaṃ vā ārammaṇaṃ karoti, pavattiyaṃ bhavaṅgavasena, pariyosāne cutivasena pavattamānampi tadeva ārammaṇaṃ karotīti parittārammaṇaṃ. Aṭṭha pana sahetukavipākacittuppādā ettha vuttanayeneva tadārammaṇavasena paṭisandhibhavaṅgacutivasena ca parittadhammeyeva ārabbha pavattanti. Kiriyamanodhātu pañcadvāre rūpādīni ārabbha pavattati. Somanassasahagatāhetukakiriyamanoviññāṇadhātu chasu dvāresu paccuppanne manodvāre atītānāgatepi paritte rūpādidhammeyeva ārabbha khīṇāsavānaṃ pahaṭṭhākāraṃ kurumānā pavattatīti parittārammaṇā. Evamime pañcavīsati cittuppādā ekanteneva parittārammaṇāti veditabbā. ^1-1889
 
-![[pi-1#^1-1421]]
+![[1-SOURCES/Text/pi-1.md#^1-1421]]
 
 Viññāṇañcāyatananevasaññānāsaññāyatanadhammā attano attano heṭṭhimaṃ samāpattiṃ ārabbha pavattanato mahaggatārammaṇā. Eva maggaphaladhammā nibbānārammaṇattā appamāṇārammaṇā. ^1-1890
 
@@ -5224,7 +5235,7 @@ Tattha ‘sabbatthapādakacatutthaṃ’ nāma aṭṭhasu kasiṇesu catutthajj
 
 Arūpāvacaracatutthaṃ pana āsavānaṃ khayacatutthañca pāḷiyaṃ āgataṭṭhāneyeva kathessāmi. Kiriyāhetukamanoviññāṇadhātu upekkhāsahagatā sabbesampi etesaṃ kusalākusalakiriyacittānaṃ purecārikā. Tassā tesu vuttanayeneva ārammaṇabhedo veditabbo. Pañcadvāre pana voṭṭhabbanavasena pavattiyaṃ ekantaparittārammaṇāva hoti. Rūpāvacaratikacatukkajjhānādīni parittādibhāvena navattabbadhammaṃ ārabbha pavattito navattabbārammaṇāni. Ettha hi rūpāvacarāni pathavīkasiṇādīsu pavattanti, ākāsānañcāyatanaṃ ugghāṭimākāse, ākiñcaññāyatanaṃ viññāṇāpagameti. ^1-1899
 
-![[pi-1#^1-1429]]
+![[1-SOURCES/Text/pi-1.md#^1-1429]]
 
 Maggārammaṇattike ādimhi vuttā aṭṭha ñāṇasampayuttacittuppādā sekkhāsekkhānaṃ attanā paṭividdhamaggānaṃ paccavekkhaṇakāle maggārammaṇā, maggena pana asahajātattā na maggahetukā, attanā paṭividdhamaggaṃ garuṃ katvā paccavekkhaṇakāle ārammaṇādhipativasena maggādhipatino, aññadhammārammaṇakāle na vattabbā maggārammaṇātipi maggādhipatinotipi. Cattāro ariyamaggā maggasaṅkhātassa maggasampayuttassa vā hetuno atthitāya ekantato maggahetukāva. Vīriyaṃ pana vīmaṃsaṃ vā jeṭṭhakaṃ katvā maggabhāvanākāle sahajātādhipatinā siyā maggādhipatino, chandacittānaṃ aññatarajeṭṭhakakāle siyā na vattabbā maggādhipatinoti. ^1-1900
 
@@ -5234,15 +5245,15 @@ Kiriyāhetukamanoviññāṇadhātupi ariyānaṃ maggapaccavekkhaṇakāle pacc
 
 Ñāṇavippayuttakusalādīni ñāṇābhāvena ceva lokiyadhammārammaṇatāya ca maggārammaṇādibhāvaṃ na labhanti, navattabbārammaṇāneva hontīti veditabbānīti. ^1-1903
 
-![[pi-1#^1-1432]]
+![[1-SOURCES/Text/pi-1.md#^1-1432]]
 
 Atītārammaṇattike viññāṇañcāyatananevasaññānāsaññāyatanadhammā heṭṭhā atītasamāpattiṃ ārabbha pavattitā ekantena atītārammaṇāva. ^1-1904
 
-![[pi-1#^1-1433]]
+![[1-SOURCES/Text/pi-1.md#^1-1433]]
 
 Niyogā anāgatārammaṇā natthīti niyamena pāṭiyekkaṃ cittaṃ anāgatārammaṇaṃ nāma natthi. Nanu ca anāgataṃsañāṇaṃ ekantena anāgatārammaṇaṃ, cetopariyañāṇampi anāgataṃ ārabbha pavattatīti? No na pavattati. Pāṭiyekkaṃ pana etaṃ ekaṃ cittaṃ nāma natthi. Rūpāvacaracatutthajjhānena saṅgahitattā aññehi mahaggatacittehi missakaṃ hoti. Tena vuttaṃ ‘niyogā anāgatārammaṇā natthī’ti. ^1-1905
 
-![[pi-1#^1-1434]]
+![[1-SOURCES/Text/pi-1.md#^1-1434]]
 
 Dvipañcaviññāṇāni , tisso manodhātuyo ca paccuppannesu rūpādīsu pavattito paccuppannārammaṇā nāma. Dasa cittuppādāti ettha aṭṭha tāva sahetukā devamanussānaṃ paṭisandhiggahaṇakāle kammaṃ vā kammanimittaṃ vā ārabbha pavattiyaṃ atītārammaṇā. Bhavaṅgacutikālesupi eseva nayo. Gatinimittaṃ pana ārabbha paṭisandhiggahaṇakāle tato paraṃ bhavaṅgakāle ca paccuppannārammaṇā. Tathā pañcadvāre tadārammaṇavasena pavattiyaṃ. Manodvāre pana atītānāgatapaccuppannārammaṇānaṃ javanānaṃ ārammaṇaṃ gahetvā pavattito atītānāgatapaccuppannārammaṇā. ‘Kusalavipākāhetukaupekkhāsahagatamanoviññāṇadhātuya’mpi eseva nayo. Kevalañhi sā manussesu jaccandhādīnaṃ paṭisandhi hoti. Pañcadvāre ca santīraṇavasenāpi paccuppannārammaṇā hotīti ayamettha viseso. ‘Somanassasahagatā’ pana pañcadvāre santīraṇavasena tadārammaṇavasena ca paccuppannārammaṇā hoti. Manodvāre tadārammaṇavasena sahetukavipākā viya atītānāgatapaccuppannārammaṇāti veditabbā. ^1-1906
 
@@ -5268,7 +5279,7 @@ Tattha yaṃ vattamānajavanavīthito atītānāgatavasena dvitijavanavīthipari
 
 ‘Dibbacakkhuñāṇacatutthaṃ’ vijjamānavaṇṇārammaṇattā paccuppannārammaṇameva. Anāgataṃsañāṇacatutthaṃ anāgatārammaṇameva. Tañhi anāgatakkhandhakhandhapaṭibaddhesu dhammesu pubbenivāsañāṇaṃ viya sabbaññutaññāṇasamagatikaṃ hoti. Tattha kiñcāpi cetopariyañāṇampi anāgatārammaṇaṃ hoti, taṃ pana sattadivasabbhantare uppajjanakacittameva ārammaṇaṃ karoti. Idaṃ anāgate kappasatasahasse uppajjanakacittampi khandhepi khandhapaṭibaddhampi. Rūpāvacaratikacatukkajjhānādīni atītānāgatapaccuppannesu ekadhammampi ārabbha appavattito ekantanavattabbārammaṇānevāti veditabbāni. ^1-1917
 
-![[pi-1#^1-1435]]
+![[1-SOURCES/Text/pi-1.md#^1-1435]]
 
 Ajjhattattike anindriyabaddharūpañca nibbānañca bahiddhāti idaṃ yathā indriyabaddhaṃ parapuggalasantāne bahiddhāti vuccamānampi tassa attano santānapariyāpannattā niyakajjhattaṃ hoti, evaṃ na kenaci pariyāyena ajjhattaṃ hotīti niyakajjhattapariyāyassa abhāvena bahiddhāti vuttaṃ, na niyakajjhattamattassa asambhavato. Niyakajjhattamattassa pana asambhavamattaṃ sandhāya ajjhattārammaṇattike bahiddhārammaṇatā vuttā. Ajjhattadhammāpagamamattatova ākiñcaññāyatanārammaṇassa ajjhattabhāvampi bahiddhābhāvampi ajjhattabahiddhābhāvampi ananujānitvā ākiñcaññāyatanaṃ na vattabbaṃ ajjhattārammaṇantipītiādi vuttaṃ. ^1-1918
 
@@ -5294,19 +5305,19 @@ Vuttappakāre rūpāvacaracatutthajjhāne sabbatthapādakacatutthādīni pañca 
 
 #### Dukaatthuddhāravaṇṇanā ^1-7-2-0
 
-![[pi-1#^1-1441]]
+![[1-SOURCES/Text/pi-1.md#^1-1441]]
 
 Hetugocchakaniddese tayo kusalahetūtiādinā nayena hetū dassetvā puna teyeva uppattiṭṭhānato dassetuṃ catūsu bhūmīsu kusalesu uppajjantītiādi vuttaṃ. Iminā upāyena sesagocchakesupi desanānayo veditabbo. ^1-1929
 
-![[pi-1#^1-1473]]
+![[1-SOURCES/Text/pi-1.md#^1-1473]]
 
 Yattha dve tayo āsavā ekato uppajjantīti ettha tividhena āsavānaṃ ekato uppatti veditabbā. Tattha catūsu diṭṭhivippayuttesu avijjāsavena, diṭṭhisampayuttesu diṭṭhāsavaavijjāsavehi saddhinti kāmāsavo duvidhena ekato uppajjati. Bhavāsavo catūsu diṭṭhivippayuttesu avijjāsavena saddhinti ekadhāva ekato uppajjati. Yathā cettha evaṃ yattha dve tīṇi saṃyojanāni ekato uppajjantīti etthāpi saṃyojanānaṃ uppatti ekato dasadhā bhave. Tattha kāmarāgo catudhā ekato uppajjati, paṭigho tidhā, māno ekadhā. Tathā vicikicchā ceva bhavarāgo ca. Kathaṃ? Kāmarāgo tāva mānasaṃyojanaavijjāsaṃyojanehi ceva, diṭṭhisaṃyojanaavijjāsaṃyojanehi ca, sīlabbataparāmāsaavijjāsaṃyojanehi ca, avijjāsaṃyojanamatteneva ca saddhinti evaṃ catudhā ekato uppajjati. Paṭigho pana issāsaṃyojanaavijjāsaṃyojanehi ceva, macchariyasaṃyojanaavijjāsaṃyojanehi ca, avijjāsaṃyojanamatteneva ca saddhinti evaṃ tidhā ekato uppajjati. Māno bhavarāgāvijjāsaṃyojanehi saddhiṃ ekadhāva ekato uppajjati . Tathā vicikicchā. Sā hi avijjāsaṃyojanena saddhiṃ ekadhā uppajjati. Bhavarāgepi eseva nayoti. Evamettha dve tīṇi saṃyojanāni ekato uppajjanti. ^1-1930
 
-![[pi-1#^1-1511]]
+![[1-SOURCES/Text/pi-1.md#^1-1511]]
 
 Yaṃ panetaṃ nīvaraṇagocchake yattha dve tīṇi nīvaraṇāni ekato uppajjantīti vuttaṃ, tatthāpi aṭṭhadhā nīvaraṇānaṃ ekato uppatti veditabbā. Etesu hi kāmacchando duvidhā ekato uppajjati, byāpādo catudhā, uddhaccaṃ ekadhā. Tathā vicikicchā. Kathaṃ? Kāmacchando tāva asaṅkhārikacittesu uddhaccanīvaraṇaavijjānīvaraṇehi, sasaṅkhārikesu thinamiddhauddhaccaavijjānīvaraṇehi saddhiṃ duvidhā ekato uppajjati. Yaṃ panetaṃ dve tīṇīti vuttaṃ, taṃ heṭṭhimaparicchedavasena vuttaṃ. Tasmā catunnampi ekato uppajjatīti vacanaṃ yujjati eva. Byāpādo pana asaṅkhārikacitte uddhaccaavijjānīvaraṇehi, sasaṅkhārike thinamiddhauddhaccaavijjānīvaraṇehi, asaṅkhārikeyeva uddhaccakukkuccaavijjānīvaraṇehi, sasaṅkhārikeyeva thinamiddhauddhaccakukkuccaavijjānīvaraṇehi saddhinti catudhā ekato uppajjati. Uddhaccaṃ pana avijjānīvaraṇamattena saddhiṃ ekadhāva ekato uppajjati. Vicikicchuddhaccaavijjānīvaraṇehi saddhiṃ ekadhāva ekato uppajjati. ^1-1931
 
-![[pi-1#^1-1577]]
+![[1-SOURCES/Text/pi-1.md#^1-1577]]
 
 Yampidaṃ kilesagocchake yattha dve tayo kilesā ekato uppajjantīti vuttaṃ, tattha ‘dve kilesā aññehi, tayo vā kilesā aññehi kilesehi saddhiṃ uppajjantī’ti evamattho veditabbo. Kasmā? Dvinnaṃ tiṇṇaṃyeva vā ekato uppattiyā asambhavato. ^1-1932
 

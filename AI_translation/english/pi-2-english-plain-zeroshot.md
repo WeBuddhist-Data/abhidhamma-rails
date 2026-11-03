@@ -1,6 +1,6 @@
-Homage to the Blessed One, the Worthy One, the Fully Awakened Buddha
+Homage to the Blessed One, the Worthy One, the Fully Awakened Buddha ^T-1
 
-# In the Abhidhamma Piṭaka ^abhidhamma-0
+# In the Abhidhamma Piṭaka ^0
 
 ## The Book of Analysis ^2-0
 
@@ -1712,7 +1712,7 @@ The Exposition of Results Rooted in the Wholesome. ^2-349
 
 353. Which things are neutral? On the occasion when, because unwholesome action has been done and accumulated, the resultant mind-consciousness element has arisen, accompanied by equanimity, with a sight as its object… or a mental object as its object, or based on whatever it may be — on that occasion, with an unwholesome root as condition, a formation; with the formation as condition, consciousness; with consciousness as condition, mentality; with mentality as condition, the sixth sense-field; with the sixth sense-field as condition, contact; with contact as condition, feeling; with feeling as condition, decision; with decision as condition, existence; with existence as condition, birth; with birth as condition, aging and death. Thus there is the origin of this entire mass of suffering. ^2-353
 
-Therein, what is the formation that has an unwholesome root as condition? The intention, intending, state of intending — this is called "the formation that has an unwholesome root as condition".
+354. Therein, what is the formation that has an unwholesome root as condition? The intention, intending, state of intending — this is called "the formation that has an unwholesome root as condition".
 Therein, what is the consciousness that has the formation as condition? The mind, mentality, mental activity… the corresponding mind-consciousness element — this is called "the consciousness that has the formation as condition".
 Therein, what is the mentality that has consciousness as condition? The aggregate of feeling, the aggregate of perception, the aggregate of mental formations — this is called "the mentality that has consciousness as condition".
 Therein, what is the sixth sense-field that has mentality as condition? The mind, mentality, mental activity… the corresponding mind-consciousness element — this is called "the sixth sense-field that has mentality as condition".
@@ -3962,31 +3962,31 @@ The lust, passion, passion of the mind accompanied by the annihilationist view �
 
 ##### (17) The three blemishes ^2-17-4-17-0
 
-Therein, what are the three blemishes? Lust is a blemish, hate is a blemish, delusion is a blemish — these are the three blemishes.
+Therein, what are the three blemishes? Lust is a blemish, hate is a blemish, delusion is a blemish — these are the three blemishes. ^2-U1
 
 ##### (18) The three stains ^2-17-4-18-0
 
-Therein, what are the three stains? Lust is a stain, hate is a stain, delusion is a stain — these are the three stains.
+Therein, what are the three stains? Lust is a stain, hate is a stain, delusion is a stain — these are the three stains. ^2-U2
 
 ##### (19) The three unevennesses ^2-17-4-19-0
 
-Therein, what are the three unevennesses? Lust is unevenness, hate is unevenness, delusion is unevenness — these are the three unevennesses.
+Therein, what are the three unevennesses? Lust is unevenness, hate is unevenness, delusion is unevenness — these are the three unevennesses. ^2-U3
 
 ##### (20) Another three unevennesses ^2-17-4-20-0
 
-Therein, what are another three unevennesses? Bodily unevenness, verbal unevenness, mental unevenness — these are the three unevennesses.
+Therein, what are another three unevennesses? Bodily unevenness, verbal unevenness, mental unevenness — these are the three unevennesses. ^2-U4
 
 ##### (21) The three fires ^2-17-4-21-0
 
-Therein, what are the three fires? The fire of lust, the fire of hate, the fire of delusion — these are the three fires.
+Therein, what are the three fires? The fire of lust, the fire of hate, the fire of delusion — these are the three fires. ^2-U5
 
 ##### (22) The three corruptions ^2-17-4-22-0
 
-Therein, what are the three corruptions? The corruption of lust, the corruption of hate, the corruption of delusion — these are the three corruptions.
+Therein, what are the three corruptions? The corruption of lust, the corruption of hate, the corruption of delusion — these are the three corruptions. ^2-U6
 
 ##### (23) Another three corruptions ^2-17-4-23-0
 
-Therein, what are another three corruptions? Bodily corruption, verbal corruption, mental corruption — these are the three corruptions.
+Therein, what are another three corruptions? Bodily corruption, verbal corruption, mental corruption — these are the three corruptions. ^2-U7
 
 ##### (24a) The view of enjoyment ^2-17-4-24-0
 
@@ -3994,11 +3994,11 @@ Therein, what are another three corruptions? Bodily corruption, verbal corruptio
 
 ##### (b) The view of self ^2-17-4-25-0
 
-Therein, what is the view of self? Here an unlearned ordinary person — who has no regard for the noble ones, is unskilled in the teaching of the noble ones, untrained in the teaching of the noble ones; who has no regard for good people, is unskilled in the teaching of good people, untrained in the teaching of good people — regards material form as self, or self as possessing material form, or material form as in self, or self as in material form. He regards feeling… perception… formations… consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever view of this kind there is, resort to views… the distorted grip — this is called "the view of self".
+Therein, what is the view of self? Here an unlearned ordinary person — who has no regard for the noble ones, is unskilled in the teaching of the noble ones, untrained in the teaching of the noble ones; who has no regard for good people, is unskilled in the teaching of good people, untrained in the teaching of good people — regards material form as self, or self as possessing material form, or material form as in self, or self as in material form. He regards feeling… perception… formations… consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever view of this kind there is, resort to views… the distorted grip — this is called "the view of self". ^2-U8
 
 ##### (c) Wrong view ^2-17-4-26-0
 
-Therein, what is wrong view? "There is nothing given, there is nothing offered… who declare this world and the other world, having realised them for themselves by direct knowledge" — whatever view of this kind there is, resort to views… the distorted grip — this is called "wrong view". The eternalist view is the view of enjoyment; the view of a self in the body is the view of self; the annihilationist view is wrong view.
+Therein, what is wrong view? "There is nothing given, there is nothing offered… who declare this world and the other world, having realised them for themselves by direct knowledge" — whatever view of this kind there is, resort to views… the distorted grip — this is called "wrong view". The eternalist view is the view of enjoyment; the view of a self in the body is the view of self; the annihilationist view is wrong view. ^2-U9
 
 ##### (25a) Discontent ^2-17-4-27-0
 
@@ -4006,11 +4006,11 @@ Therein, what is wrong view? "There is nothing given, there is nothing offered�
 
 ##### (b) Cruelty ^2-17-4-28-0
 
-Therein, what is cruelty? Here someone harms beings with the hand, or a clod, or a stick, or a knife, or a rope, or with one thing or another; whatever harming of this kind there is, harassing, hurting, injuring, provoking, enraging, doing violence to others — this is called "cruelty".
+Therein, what is cruelty? Here someone harms beings with the hand, or a clod, or a stick, or a knife, or a rope, or with one thing or another; whatever harming of this kind there is, harassing, hurting, injuring, provoking, enraging, doing violence to others — this is called "cruelty". ^2-U10
 
 ##### (c) Unrighteous conduct ^2-17-4-29-0
 
-Therein, what is unrighteous conduct? Unrighteous conduct and uneven conduct with the body, unrighteous conduct and uneven conduct with speech, unrighteous conduct and uneven conduct with the mind — this is called "unrighteous conduct".
+Therein, what is unrighteous conduct? Unrighteous conduct and uneven conduct with the body, unrighteous conduct and uneven conduct with speech, unrighteous conduct and uneven conduct with the mind — this is called "unrighteous conduct". ^2-U11
 
 ##### (26a) Being hard to correct ^2-17-4-30-0
 
@@ -4018,11 +4018,11 @@ Therein, what is unrighteous conduct? Unrighteous conduct and uneven conduct wit
 
 ##### (b) Evil friendship ^2-17-4-31-0
 
-Therein, what is evil friendship? Those persons who are without confidence, of bad conduct, of little learning, stingy, and without wisdom — the resorting to them, the frequenting, the close frequenting, the associating with them, the fully associating, the devotion, the full devotion, the being inclined towards them — this is called "evil friendship".
+Therein, what is evil friendship? Those persons who are without confidence, of bad conduct, of little learning, stingy, and without wisdom — the resorting to them, the frequenting, the close frequenting, the associating with them, the fully associating, the devotion, the full devotion, the being inclined towards them — this is called "evil friendship". ^2-U12
 
 ##### (c) Perception of diversity ^2-17-4-32-0
 
-Therein, what is perception of diversity? The perception of sense pleasure, the perception of ill will, the perception of cruelty — this is called "perception of diversity". All unwholesome perception is perception of diversity.
+Therein, what is perception of diversity? The perception of sense pleasure, the perception of ill will, the perception of cruelty — this is called "perception of diversity". All unwholesome perception is perception of diversity. ^2-U13
 
 ##### (27a) Restlessness ^2-17-4-33-0
 
@@ -4030,11 +4030,11 @@ Therein, what is perception of diversity? The perception of sense pleasure, the 
 
 ##### (b) Laziness ^2-17-4-34-0
 
-Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness — this is called "laziness".
+Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness — this is called "laziness". ^2-U14
 
 ##### (c) Heedlessness ^2-17-4-35-0
 
-Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness; whatever heedlessness of this kind there is, being heedless, the state of heedlessness — this is called "heedlessness".
+Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness; whatever heedlessness of this kind there is, being heedless, the state of heedlessness — this is called "heedlessness". ^2-U15
 
 ##### (28a) Discontentment ^2-17-4-36-0
 
@@ -4042,11 +4042,11 @@ Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verb
 
 ##### (b) Lack of clear comprehension ^2-17-4-37-0
 
-Therein, what is lack of clear comprehension? The lack of knowledge, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "lack of clear comprehension".
+Therein, what is lack of clear comprehension? The lack of knowledge, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "lack of clear comprehension". ^2-U16
 
 ##### (c) Great desire ^2-17-4-38-0
 
-Therein, what is great desire? The wanting of more by one discontented with whatever robes, alms-food, dwelling place, and medicinal supports for the sick he has, or with the five strands of sense pleasure; whatever desire of this kind there is, being desirous, great desire, lust, passion, passion of the mind — this is called "great desire".
+Therein, what is great desire? The wanting of more by one discontented with whatever robes, alms-food, dwelling place, and medicinal supports for the sick he has, or with the five strands of sense pleasure; whatever desire of this kind there is, being desirous, great desire, lust, passion, passion of the mind — this is called "great desire". ^2-U17
 
 ##### (29a) Shamelessness ^2-17-4-39-0
 
@@ -4054,11 +4054,11 @@ Therein, what is great desire? The wanting of more by one discontented with what
 
 ##### (b) Lack of moral dread ^2-17-4-40-0
 
-Therein, what is lack of moral dread? Not dreading what one should dread, not dreading taking up evil, unwholesome things — this is called "lack of moral dread".
+Therein, what is lack of moral dread? Not dreading what one should dread, not dreading taking up evil, unwholesome things — this is called "lack of moral dread". ^2-U18
 
 ##### (c) Heedlessness ^2-17-4-41-0
 
-Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness; whatever heedlessness of this kind there is, being heedless, the state of heedlessness — this is called "heedlessness".
+Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness; whatever heedlessness of this kind there is, being heedless, the state of heedlessness — this is called "heedlessness". ^2-U19
 
 ##### (30a) Disrespect ^2-17-4-42-0
 
@@ -4066,11 +4066,11 @@ Therein, what is heedlessness? Letting the mind loose in bodily misconduct, verb
 
 ##### (b) Being hard to correct ^2-17-4-43-0
 
-Therein, what is being hard to correct? When one is addressed in accordance with the teaching: the being hard to speak to, the difficulty in correcting, the state of being hard to correct, contrary grasping, delight in opposition, disrespect, disrespectfulness, lack of reverence, lack of deference — this is called "being hard to correct".
+Therein, what is being hard to correct? When one is addressed in accordance with the teaching: the being hard to speak to, the difficulty in correcting, the state of being hard to correct, contrary grasping, delight in opposition, disrespect, disrespectfulness, lack of reverence, lack of deference — this is called "being hard to correct". ^2-U20
 
 ##### (c) Evil friendship ^2-17-4-44-0
 
-Therein, what is evil friendship? Those persons who are without confidence, of bad conduct, of little learning, stingy, and without wisdom — the resorting to them, the frequenting, the close frequenting, the attending upon them, the associating with them, the fully associating, the devotion, the full devotion, the being inclined towards them — this is called "evil friendship".
+Therein, what is evil friendship? Those persons who are without confidence, of bad conduct, of little learning, stingy, and without wisdom — the resorting to them, the frequenting, the close frequenting, the attending upon them, the associating with them, the fully associating, the devotion, the full devotion, the being inclined towards them — this is called "evil friendship". ^2-U21
 
 ##### (31a) Lack of confidence ^2-17-4-45-0
 
@@ -4078,11 +4078,11 @@ Therein, what is evil friendship? Those persons who are without confidence, of b
 
 ##### (b) Uncharitableness ^2-17-4-46-0
 
-Therein, what is uncharitableness? The five kinds of stinginess: stinginess about dwellings, stinginess about families, stinginess about gains, stinginess about praise, stinginess about the teaching. Whatever stinginess of this kind there is, being stingy, the state of stinginess; meanness, miserliness, tight-fistedness, the ungenerous grip of the mind — this is called "uncharitableness".
+Therein, what is uncharitableness? The five kinds of stinginess: stinginess about dwellings, stinginess about families, stinginess about gains, stinginess about praise, stinginess about the teaching. Whatever stinginess of this kind there is, being stingy, the state of stinginess; meanness, miserliness, tight-fistedness, the ungenerous grip of the mind — this is called "uncharitableness". ^2-U22
 
 ##### (c) Laziness ^2-17-4-47-0
 
-Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness — this is called "laziness".
+Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness — this is called "laziness". ^2-U23
 
 ##### (32a) Restlessness ^2-17-4-48-0
 
@@ -4090,11 +4090,11 @@ Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal m
 
 ##### (b) Non-restraint ^2-17-4-49-0
 
-Therein, what is non-restraint? Here someone, having seen a sight with the eye, grasps at its signs and grasps at its details. Since, if he dwelt with the eye faculty unrestrained, covetousness and grief, evil, unwholesome things, might flow in upon him, he does not practise for its restraint, he does not guard the eye faculty, he does not undertake restraint of the eye faculty. Having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, he grasps at its signs and grasps at its details. Since, if he dwelt with the mind faculty unrestrained, covetousness and grief, evil, unwholesome things, might flow in upon him, he does not practise for its restraint, he does not guard the mind faculty, he does not undertake restraint of the mind faculty — this is called "non-restraint".
+Therein, what is non-restraint? Here someone, having seen a sight with the eye, grasps at its signs and grasps at its details. Since, if he dwelt with the eye faculty unrestrained, covetousness and grief, evil, unwholesome things, might flow in upon him, he does not practise for its restraint, he does not guard the eye faculty, he does not undertake restraint of the eye faculty. Having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, he grasps at its signs and grasps at its details. Since, if he dwelt with the mind faculty unrestrained, covetousness and grief, evil, unwholesome things, might flow in upon him, he does not practise for its restraint, he does not guard the mind faculty, he does not undertake restraint of the mind faculty — this is called "non-restraint". ^2-U24
 
 ##### (c) Bad conduct ^2-17-4-50-0
 
-Therein, what is bad conduct? Transgression in body, transgression in speech, transgression in body and speech — this is called "bad conduct".
+Therein, what is bad conduct? Transgression in body, transgression in speech, transgression in body and speech — this is called "bad conduct". ^2-U25
 
 ##### (33a) Not wishing to see the noble ones ^2-17-4-51-0
 
@@ -4102,11 +4102,11 @@ Therein, what is bad conduct? Transgression in body, transgression in speech, tr
 
 ##### (b) Not wishing to hear the good teaching ^2-17-4-52-0
 
-Therein, what is not wishing to hear the good teaching? Therein, what is the good teaching? The four foundations of mindfulness, the four right efforts, the four bases of success, the five faculties, the five powers, the seven awakening factors, the noble eightfold path — this is called "the good teaching". The not wishing to hear this good teaching, the not wishing to listen to it, the not wishing to learn it, the not wishing to retain it — this is called "not wishing to hear the good teaching".
+Therein, what is not wishing to hear the good teaching? Therein, what is the good teaching? The four foundations of mindfulness, the four right efforts, the four bases of success, the five faculties, the five powers, the seven awakening factors, the noble eightfold path — this is called "the good teaching". The not wishing to hear this good teaching, the not wishing to listen to it, the not wishing to learn it, the not wishing to retain it — this is called "not wishing to hear the good teaching". ^2-U26
 
 ##### (c) A fault-finding mind ^2-17-4-53-0
 
-Therein, what is a fault-finding mind? Therein, what is fault-finding? The fault-finding, constant fault-finding, being a fault-finder, constantly finding fault, the state of constant fault-finding, the contempt, the scorn, the disparagement, the seeking of weak points — this is called "a fault-finding mind".
+Therein, what is a fault-finding mind? Therein, what is fault-finding? The fault-finding, constant fault-finding, being a fault-finder, constantly finding fault, the state of constant fault-finding, the contempt, the scorn, the disparagement, the seeking of weak points — this is called "a fault-finding mind". ^2-U27
 
 ##### (34a) Forgetfulness ^2-17-4-54-0
 
@@ -4114,11 +4114,11 @@ Therein, what is a fault-finding mind? Therein, what is fault-finding? The fault
 
 ##### (b) Lack of clear comprehension ^2-17-4-55-0
 
-Therein, what is lack of clear comprehension? The lack of knowledge, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "lack of clear comprehension".
+Therein, what is lack of clear comprehension? The lack of knowledge, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "lack of clear comprehension". ^2-U28
 
 ##### (c) Distraction of mind ^2-17-4-56-0
 
-Therein, what is distraction of mind? The restlessness of the mind, lack of calm, mental distraction, agitation of the mind — this is called "distraction of mind".
+Therein, what is distraction of mind? The restlessness of the mind, lack of calm, mental distraction, agitation of the mind — this is called "distraction of mind". ^2-U29
 
 ##### (35a) Unwise attention ^2-17-4-57-0
 
@@ -4126,12 +4126,12 @@ Therein, what is distraction of mind? The restlessness of the mind, lack of calm
 
 ##### (b) Following the wrong path ^2-17-4-58-0
 
-Therein, what is following the wrong path? Therein, what is the wrong path? Wrong view, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration — this is called "the wrong path". The resorting to this wrong path, the frequenting, the close frequenting, the associating with it, the fully associating, the devotion, the full devotion, the being inclined towards it — this is called "following the wrong path".
+Therein, what is following the wrong path? Therein, what is the wrong path? Wrong view, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration — this is called "the wrong path". The resorting to this wrong path, the frequenting, the close frequenting, the associating with it, the fully associating, the devotion, the full devotion, the being inclined towards it — this is called "following the wrong path". ^2-U30
 
 ##### (c) Sluggishness of mind ^2-17-4-59-0
 
 Therein, what is sluggishness of mind? The mind's lack of readiness, its unworkableness, its sagging, its slumping; sloth, being slothful, the mind's slothfulness; dullness, being dull, the mind's state of dullness — this is called "sluggishness of mind".
-The Threes.
+The Threes. ^2-U31
 
 #### The Exposition of the Fours ^2-17-5-0
 
@@ -4141,19 +4141,19 @@ The Threes.
 
 ##### (a) The taint of sense pleasure ^2-17-5-2-0
 
-Therein, what is the taint of sense pleasure? The desire for sense pleasures with regard to sense pleasures, the lust for sense pleasures, the delight in sense pleasures, the craving for sense pleasures, the affection for sense pleasures, the burning for sense pleasures, the infatuation with sense pleasures, the holding fast to sense pleasures — this is called "the taint of sense pleasure".
+Therein, what is the taint of sense pleasure? The desire for sense pleasures with regard to sense pleasures, the lust for sense pleasures, the delight in sense pleasures, the craving for sense pleasures, the affection for sense pleasures, the burning for sense pleasures, the infatuation with sense pleasures, the holding fast to sense pleasures — this is called "the taint of sense pleasure". ^2-U32
 
 ##### (b) The taint of existence ^2-17-5-3-0
 
-Therein, what is the taint of existence? The desire for existence with regard to states of existence… the holding fast to existence — this is called "the taint of existence".
+Therein, what is the taint of existence? The desire for existence with regard to states of existence… the holding fast to existence — this is called "the taint of existence". ^2-U33
 
 ##### (c) The taint of views ^2-17-5-4-0
 
-Therein, what is the taint of views? "The world is eternal", or "the world is not eternal", or "the world is finite", or "the world is infinite", or "the soul and the body are the same", or "the soul is one thing and the body another", or "a Tathāgata exists after death", or "a Tathāgata does not exist after death", or "a Tathāgata both exists and does not exist after death", or "a Tathāgata neither exists nor does not exist after death". Whatever view of this kind there is, resort to views… the distorted grip — this is called "the taint of views". All wrong view is the taint of views.
+Therein, what is the taint of views? "The world is eternal", or "the world is not eternal", or "the world is finite", or "the world is infinite", or "the soul and the body are the same", or "the soul is one thing and the body another", or "a Tathāgata exists after death", or "a Tathāgata does not exist after death", or "a Tathāgata both exists and does not exist after death", or "a Tathāgata neither exists nor does not exist after death". Whatever view of this kind there is, resort to views… the distorted grip — this is called "the taint of views". All wrong view is the taint of views. ^2-U34
 
 ##### (d) The taint of ignorance ^2-17-5-5-0
 
-Therein, what is the taint of ignorance? Not knowing suffering, not knowing the origin of suffering, not knowing the cessation of suffering, not knowing the way leading to the cessation of suffering; not knowing the past, not knowing the future, not knowing the past and the future; not knowing things that are dependently arisen through specific conditionality. Whatever lack of knowledge of this kind there is, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "the taint of ignorance". These are the four mental taints.
+Therein, what is the taint of ignorance? Not knowing suffering, not knowing the origin of suffering, not knowing the cessation of suffering, not knowing the way leading to the cessation of suffering; not knowing the past, not knowing the future, not knowing the past and the future; not knowing things that are dependently arisen through specific conditionality. Whatever lack of knowledge of this kind there is, lack of vision… the barrier of ignorance, delusion, the unwholesome root — this is called "the taint of ignorance". These are the four mental taints. ^2-U35
 
 ##### (2-5) The four ties and the rest ^2-17-5-6-0
 
@@ -4161,19 +4161,19 @@ Therein, what is the taint of ignorance? Not knowing suffering, not knowing the 
 
 ##### (a) Clinging to sense pleasures ^2-17-5-7-0
 
-Therein, what is clinging to sense pleasures? The desire for sense pleasures with regard to sense pleasures… the holding fast to sense pleasures — this is called "clinging to sense pleasures".
+Therein, what is clinging to sense pleasures? The desire for sense pleasures with regard to sense pleasures… the holding fast to sense pleasures — this is called "clinging to sense pleasures". ^2-U36
 
 ##### (b) Clinging to views ^2-17-5-8-0
 
-Therein, what is clinging to views? "There is nothing given, there is nothing offered… who declare this world and the other world, having realised them for themselves by direct knowledge." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to views". Setting aside clinging to rules and observances and clinging to a doctrine of self, all wrong view is clinging to views.
+Therein, what is clinging to views? "There is nothing given, there is nothing offered… who declare this world and the other world, having realised them for themselves by direct knowledge." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to views". Setting aside clinging to rules and observances and clinging to a doctrine of self, all wrong view is clinging to views. ^2-U37
 
 ##### (c) Clinging to rules and observances ^2-17-5-9-0
 
-Therein, what is clinging to rules and observances? "Purity comes through virtue, purity comes through observances, purity comes through virtue-and-observances of ascetics and brahmins outside this teaching." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to rules and observances".
+Therein, what is clinging to rules and observances? "Purity comes through virtue, purity comes through observances, purity comes through virtue-and-observances of ascetics and brahmins outside this teaching." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to rules and observances". ^2-U38
 
 ##### (d) Clinging to a doctrine of self ^2-17-5-10-0
 
-Therein, what is clinging to a doctrine of self? Here an unlearned ordinary person — who has no regard for the noble ones, is unskilled in the teaching of the noble ones, untrained in the teaching of the noble ones; who has no regard for good people, is unskilled in the teaching of good people, untrained in the teaching of good people — regards material form as self, or self as possessing material form, or material form as in self, or self as in material form. He regards feeling… perception… formations… consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to a doctrine of self". These are the four kinds of clinging.
+Therein, what is clinging to a doctrine of self? Here an unlearned ordinary person — who has no regard for the noble ones, is unskilled in the teaching of the noble ones, untrained in the teaching of the noble ones; who has no regard for good people, is unskilled in the teaching of good people, untrained in the teaching of good people — regards material form as self, or self as possessing material form, or material form as in self, or self as in material form. He regards feeling… perception… formations… consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to a doctrine of self". These are the four kinds of clinging. ^2-U39
 
 ##### (6) The four arisings of craving ^2-17-5-11-0
 
@@ -4181,42 +4181,42 @@ Therein, what is clinging to a doctrine of self? Here an unlearned ordinary pers
 
 ##### (7) The four ways of going astray ^2-17-5-12-0
 
-Therein, what are the four ways of going astray? One goes astray through desire, one goes astray through hate, one goes astray through delusion, one goes astray through fear. Whatever going astray of this kind there is, the wrong course, going by desire, going by faction, going by evasion — these are the four ways of going astray.
+Therein, what are the four ways of going astray? One goes astray through desire, one goes astray through hate, one goes astray through delusion, one goes astray through fear. Whatever going astray of this kind there is, the wrong course, going by desire, going by faction, going by evasion — these are the four ways of going astray. ^2-U40
 
 ##### (8) The four distortions ^2-17-5-13-0
 
-Therein, what are the four distortions? Taking the impermanent as "permanent" is a distortion of perception, a distortion of mind, a distortion of view; taking the painful as "pleasant" is a distortion of perception, a distortion of mind, a distortion of view; taking what is not self as "self" is a distortion of perception, a distortion of mind, a distortion of view; taking the unattractive as "attractive" is a distortion of perception, a distortion of mind, a distortion of view — these are the four distortions.
+Therein, what are the four distortions? Taking the impermanent as "permanent" is a distortion of perception, a distortion of mind, a distortion of view; taking the painful as "pleasant" is a distortion of perception, a distortion of mind, a distortion of view; taking what is not self as "self" is a distortion of perception, a distortion of mind, a distortion of view; taking the unattractive as "attractive" is a distortion of perception, a distortion of mind, a distortion of view — these are the four distortions. ^2-U41
 
 ##### (9) The four ignoble ways of speech ^2-17-5-14-0
 
-Therein, what are the four ignoble ways of speech? Saying one has seen what one has not seen, saying one has heard what one has not heard, saying one has sensed what one has not sensed, saying one has known what one has not known — these are the four ignoble ways of speech.
+Therein, what are the four ignoble ways of speech? Saying one has seen what one has not seen, saying one has heard what one has not heard, saying one has sensed what one has not sensed, saying one has known what one has not known — these are the four ignoble ways of speech. ^2-U42
 
 ##### (10) Another four ignoble ways of speech ^2-17-5-15-0
 
-Therein, what are another four ignoble ways of speech? Saying one has not seen what one has seen, saying one has not heard what one has heard, saying one has not sensed what one has sensed, saying one has not known what one has known — these are the four ignoble ways of speech.
+Therein, what are another four ignoble ways of speech? Saying one has not seen what one has seen, saying one has not heard what one has heard, saying one has not sensed what one has sensed, saying one has not known what one has known — these are the four ignoble ways of speech. ^2-U43
 
 ##### (11) The four kinds of misconduct ^2-17-5-16-0
 
-Therein, what are the four kinds of misconduct? Killing living beings, taking what is not given, sexual misconduct, false speech — these are the four kinds of misconduct.
+Therein, what are the four kinds of misconduct? Killing living beings, taking what is not given, sexual misconduct, false speech — these are the four kinds of misconduct. ^2-U44
 
 ##### (12) Another four kinds of misconduct ^2-17-5-17-0
 
-Therein, what are another four kinds of misconduct? False speech, divisive speech, harsh speech, idle chatter — these are the four kinds of misconduct.
+Therein, what are another four kinds of misconduct? False speech, divisive speech, harsh speech, idle chatter — these are the four kinds of misconduct. ^2-U45
 
 ##### (13) The four fears ^2-17-5-18-0
 
-Therein, what are the four fears? The fear of birth, the fear of aging, the fear of sickness, the fear of death — these are the four fears.
+Therein, what are the four fears? The fear of birth, the fear of aging, the fear of sickness, the fear of death — these are the four fears. ^2-U46
 
 ##### (14) Another four fears ^2-17-5-19-0
 
 Therein, what are another four fears? The fear of kings, the fear of thieves, the fear of fire, the fear of water — these are the four fears.
 Therein, what are another four fears? The fear of waves, the fear of crocodiles, the fear of whirlpools, the fear of sharks — these are the four fears.
-Therein, what are another four fears? The fear of self-reproach, the fear of others' reproach, the fear of punishment, the fear of a bad destination — these are the four fears.
+Therein, what are another four fears? The fear of self-reproach, the fear of others' reproach, the fear of punishment, the fear of a bad destination — these are the four fears. ^2-U47
 
 ##### (15) The four views ^2-17-5-20-0
 
 Therein, what are the four views? The view arises as true and established, "Happiness and suffering are made by oneself"; the view arises as true and established, "Happiness and suffering are made by another"; the view arises as true and established, "Happiness and suffering are made both by oneself and by another"; the view arises as true and established, "Happiness and suffering are made neither by oneself nor by another, but arisen by chance" — these are the four views.
-The Fours.
+The Fours. ^2-U48
 
 #### The Exposition of the Fives ^2-17-6-0
 
@@ -4226,19 +4226,19 @@ The Fours.
 
 ##### (2) The five higher fetters ^2-17-6-2-0
 
-Therein, what are the five higher fetters? Lust for material form, lust for the immaterial, conceit, restlessness, ignorance — these are the five higher fetters.
+Therein, what are the five higher fetters? Lust for material form, lust for the immaterial, conceit, restlessness, ignorance — these are the five higher fetters. ^2-U49
 
 ##### (3) The five kinds of stinginess ^2-17-6-3-0
 
-Therein, what are the five kinds of stinginess? Stinginess about dwellings, stinginess about families, stinginess about gains, stinginess about praise, stinginess about the teaching — these are the five kinds of stinginess.
+Therein, what are the five kinds of stinginess? Stinginess about dwellings, stinginess about families, stinginess about gains, stinginess about praise, stinginess about the teaching — these are the five kinds of stinginess. ^2-U50
 
 ##### (4) The five attachments ^2-17-6-4-0
 
-Therein, what are the five attachments? The attachment of lust, the attachment of hate, the attachment of delusion, the attachment of conceit, the attachment of views — these are the five attachments.
+Therein, what are the five attachments? The attachment of lust, the attachment of hate, the attachment of delusion, the attachment of conceit, the attachment of views — these are the five attachments. ^2-U51
 
 ##### (5) The five darts ^2-17-6-5-0
 
-Therein, what are the five darts? The dart of lust, the dart of hate, the dart of delusion, the dart of conceit, the dart of views — these are the five darts.
+Therein, what are the five darts? The dart of lust, the dart of hate, the dart of delusion, the dart of conceit, the dart of views — these are the five darts. ^2-U52
 
 ##### (6) The five barrennesses of mind ^2-17-6-6-0
 
@@ -4246,19 +4246,19 @@ Therein, what are the five darts? The dart of lust, the dart of hate, the dart o
 
 ##### (7) The five bondages of mind ^2-17-6-7-0
 
-Therein, what are the five bondages of mind? One is not without lust for sense pleasures, not without desire, not without affection, not without thirst, not without burning, not without craving; one is not without lust for the body… one is not without lust for material form… having eaten as much as one's belly will hold, one dwells devoted to the pleasure of lying down, the pleasure of lolling, the pleasure of sleep; one lives the holy life aspiring to some order of gods — "By this virtue, or observance, or austerity, or holy life, I shall become a god or one among the gods" — these are the five bondages of mind.
+Therein, what are the five bondages of mind? One is not without lust for sense pleasures, not without desire, not without affection, not without thirst, not without burning, not without craving; one is not without lust for the body… one is not without lust for material form… having eaten as much as one's belly will hold, one dwells devoted to the pleasure of lying down, the pleasure of lolling, the pleasure of sleep; one lives the holy life aspiring to some order of gods — "By this virtue, or observance, or austerity, or holy life, I shall become a god or one among the gods" — these are the five bondages of mind. ^2-U53
 
 ##### (8) The five hindrances ^2-17-6-8-0
 
-Therein, what are the five hindrances? The hindrance of sense desire, the hindrance of ill will, the hindrance of dullness and drowsiness, the hindrance of restlessness and remorse, the hindrance of doubt — these are the five hindrances.
+Therein, what are the five hindrances? The hindrance of sense desire, the hindrance of ill will, the hindrance of dullness and drowsiness, the hindrance of restlessness and remorse, the hindrance of doubt — these are the five hindrances. ^2-U54
 
 ##### (9) The five actions with immediate result ^2-17-6-9-0
 
-Therein, what are the five actions with immediate result? One's mother has been deprived of life, one's father has been deprived of life, an arahant has been deprived of life, the blood of a Tathāgata has been shed with a mind of hatred, the Order has been split — these are the five actions with immediate result.
+Therein, what are the five actions with immediate result? One's mother has been deprived of life, one's father has been deprived of life, an arahant has been deprived of life, the blood of a Tathāgata has been shed with a mind of hatred, the Order has been split — these are the five actions with immediate result. ^2-U55
 
 ##### (10) The five views ^2-17-6-10-0
 
-Therein, what are the five views? Some declare, "The self is percipient and unimpaired after death"; some declare, "The self is non-percipient and unimpaired after death"; some declare, "The self is neither percipient nor non-percipient and unimpaired after death"; or they proclaim the cutting off, destruction, and non-existence of an existing being; or some declare Nibbāna in this very life — these are the five views.
+Therein, what are the five views? Some declare, "The self is percipient and unimpaired after death"; some declare, "The self is non-percipient and unimpaired after death"; some declare, "The self is neither percipient nor non-percipient and unimpaired after death"; or they proclaim the cutting off, destruction, and non-existence of an existing being; or some declare Nibbāna in this very life — these are the five views. ^2-U56
 
 ##### (11) The five hostilities ^2-17-6-11-0
 
@@ -4266,15 +4266,15 @@ Therein, what are the five views? Some declare, "The self is percipient and unim
 
 ##### (12) The five losses ^2-17-6-12-0
 
-Therein, what are the five losses? Loss of relatives, loss of wealth, loss through illness, loss of virtue, loss of view — these are the five losses.
+Therein, what are the five losses? Loss of relatives, loss of wealth, loss through illness, loss of virtue, loss of view — these are the five losses. ^2-U57
 
 ##### (13) The five dangers of impatience ^2-17-6-13-0
 
-Therein, what are the five dangers of impatience? One is disliked and displeasing to many people; one has much hostility; one has many faults; one dies confused; with the breakup of the body after death one is reborn in a state of loss, a bad destination, a place of ruin, hell — these are the five dangers of impatience.
+Therein, what are the five dangers of impatience? One is disliked and displeasing to many people; one has much hostility; one has many faults; one dies confused; with the breakup of the body after death one is reborn in a state of loss, a bad destination, a place of ruin, hell — these are the five dangers of impatience. ^2-U58
 
 ##### (14) The five fears ^2-17-6-14-0
 
-Therein, what are the five fears? The fear about livelihood, the fear of disrepute, the fear of timidity in assemblies, the fear of death, the fear of a bad destination — these are the five fears.
+Therein, what are the five fears? The fear about livelihood, the fear of disrepute, the fear of timidity in assemblies, the fear of death, the fear of a bad destination — these are the five fears. ^2-U59
 
 ##### (15) The five doctrines of Nibbāna in this very life ^2-17-6-15-0
 
@@ -4294,15 +4294,15 @@ The Fives. ^2-943
 
 ##### (2) The six desires-and-lusts ^2-17-7-2-0
 
-Therein, what are the six desires-and-lusts? Desires-and-lusts are things connected with the household life. Household lust for pleasing sights, passion, passion of the mind; for pleasing sounds… for pleasing smells… for pleasing tastes… for pleasing tangible things… household lust for pleasing mental objects, passion, passion of the mind — these are the six desires-and-lusts.
+Therein, what are the six desires-and-lusts? Desires-and-lusts are things connected with the household life. Household lust for pleasing sights, passion, passion of the mind; for pleasing sounds… for pleasing smells… for pleasing tastes… for pleasing tangible things… household lust for pleasing mental objects, passion, passion of the mind — these are the six desires-and-lusts. ^2-U60
 
 ##### (3) The six grounds of opposition ^2-17-7-3-0
 
-Therein, what are the six grounds of opposition? Concerning displeasing sights: the resentment of the mind, repugnance, fierceness, rudeness, the mind's dissatisfaction; concerning displeasing sounds… concerning displeasing smells… concerning displeasing tastes… concerning displeasing tangible things… concerning displeasing mental objects: the resentment of the mind, repugnance, fierceness, rudeness, the mind's dissatisfaction — these are the six grounds of opposition.
+Therein, what are the six grounds of opposition? Concerning displeasing sights: the resentment of the mind, repugnance, fierceness, rudeness, the mind's dissatisfaction; concerning displeasing sounds… concerning displeasing smells… concerning displeasing tastes… concerning displeasing tangible things… concerning displeasing mental objects: the resentment of the mind, repugnance, fierceness, rudeness, the mind's dissatisfaction — these are the six grounds of opposition. ^2-U61
 
 ##### (4) The six classes of craving ^2-17-7-4-0
 
-Therein, what are the six classes of craving? Craving for sights, craving for sounds, craving for smells, craving for tastes, craving for tangible things, craving for mental objects — these are the six classes of craving.
+Therein, what are the six classes of craving? Craving for sights, craving for sounds, craving for smells, craving for tastes, craving for tangible things, craving for mental objects — these are the six classes of craving. ^2-U62
 
 ##### (5) The six kinds of disrespect ^2-17-7-5-0
 
@@ -4310,7 +4310,7 @@ Therein, what are the six classes of craving? Craving for sights, craving for so
 
 ##### (6) The six things that lead to decline ^2-17-7-6-0
 
-Therein, what are the six things that lead to decline? Delight in activity, delight in talk, delight in sleep, delight in company, delight in mingling, delight in proliferation — these are the six things that lead to decline.
+Therein, what are the six things that lead to decline? Delight in activity, delight in talk, delight in sleep, delight in company, delight in mingling, delight in proliferation — these are the six things that lead to decline. ^2-U63
 
 ##### (7) Another six things that lead to decline ^2-17-7-7-0
 
@@ -4318,15 +4318,15 @@ Therein, what are the six things that lead to decline? Delight in activity, deli
 
 ##### (8) The six explorations with joy ^2-17-7-8-0
 
-Therein, what are the six explorations with joy? Having seen a sight with the eye, one explores a sight that is a basis for joy; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for joy — these are the six explorations with joy.
+Therein, what are the six explorations with joy? Having seen a sight with the eye, one explores a sight that is a basis for joy; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for joy — these are the six explorations with joy. ^2-U64
 
 ##### (9) The six explorations with grief ^2-17-7-9-0
 
-Therein, what are the six explorations with grief? Having seen a sight with the eye, one explores a sight that is a basis for grief; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for grief — these are the six explorations with grief.
+Therein, what are the six explorations with grief? Having seen a sight with the eye, one explores a sight that is a basis for grief; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for grief — these are the six explorations with grief. ^2-U65
 
 ##### (10) The six explorations with equanimity ^2-17-7-10-0
 
-Therein, what are the six explorations with equanimity? Having seen a sight with the eye, one explores a sight that is a basis for equanimity; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for equanimity — these are the six explorations with equanimity.
+Therein, what are the six explorations with equanimity? Having seen a sight with the eye, one explores a sight that is a basis for equanimity; having heard a sound with the ear… having smelled a smell with the nose… having tasted a taste with the tongue… having touched a tangible thing with the body… having known a mental object with the mind, one explores a mental object that is a basis for equanimity — these are the six explorations with equanimity. ^2-U66
 
 ##### (11) The six kinds of household joy ^2-17-7-11-0
 
@@ -4334,11 +4334,11 @@ Therein, what are the six explorations with equanimity? Having seen a sight with
 
 ##### (12) The six kinds of household grief ^2-17-7-12-0
 
-Therein, what are the six kinds of household grief? Concerning displeasing sights: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact; concerning displeasing sounds… concerning displeasing smells… concerning displeasing tastes… concerning displeasing tangible things… concerning displeasing mental objects: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact — these are the six kinds of household grief.
+Therein, what are the six kinds of household grief? Concerning displeasing sights: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact; concerning displeasing sounds… concerning displeasing smells… concerning displeasing tastes… concerning displeasing tangible things… concerning displeasing mental objects: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact — these are the six kinds of household grief. ^2-U67
 
 ##### (13) The six kinds of household equanimity ^2-17-7-13-0
 
-Therein, what are the six kinds of household equanimity? Concerning sights that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact; concerning sounds that are a basis for equanimity… concerning smells that are a basis for equanimity… concerning tastes that are a basis for equanimity… concerning tangible things that are a basis for equanimity… concerning mental objects that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact — these are the six kinds of household equanimity.
+Therein, what are the six kinds of household equanimity? Concerning sights that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact; concerning sounds that are a basis for equanimity… concerning smells that are a basis for equanimity… concerning tastes that are a basis for equanimity… concerning tangible things that are a basis for equanimity… concerning mental objects that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact — these are the six kinds of household equanimity. ^2-U68
 
 ##### (14) The six views ^2-17-7-14-0
 
@@ -4353,11 +4353,11 @@ The Sixes. ^2-948
 
 ##### (2) The seven fetters ^2-17-8-2-0
 
-Therein, what are the seven fetters? The fetter of sensual lust, the fetter of aversion, the fetter of conceit, the fetter of views, the fetter of doubt, the fetter of lust for existence, the fetter of ignorance — these are the seven fetters.
+Therein, what are the seven fetters? The fetter of sensual lust, the fetter of aversion, the fetter of conceit, the fetter of views, the fetter of doubt, the fetter of lust for existence, the fetter of ignorance — these are the seven fetters. ^2-U69
 
 ##### (3) The seven obsessions ^2-17-8-3-0
 
-Therein, what are the seven obsessions? The obsession of sensual lust, the obsession of aversion, the obsession of conceit, the obsession of views, the obsession of doubt, the obsession of lust for existence, the obsession of ignorance — these are the seven obsessions.
+Therein, what are the seven obsessions? The obsession of sensual lust, the obsession of aversion, the obsession of conceit, the obsession of views, the obsession of doubt, the obsession of lust for existence, the obsession of ignorance — these are the seven obsessions. ^2-U70
 
 ##### (4) The seven bad qualities ^2-17-8-4-0
 
@@ -4365,11 +4365,11 @@ Therein, what are the seven obsessions? The obsession of sensual lust, the obses
 
 ##### (5) The seven kinds of misconduct ^2-17-8-5-0
 
-Therein, what are the seven kinds of misconduct? Killing living beings, taking what is not given, sexual misconduct, false speech, divisive speech, harsh speech, idle chatter — these are the seven kinds of misconduct.
+Therein, what are the seven kinds of misconduct? Killing living beings, taking what is not given, sexual misconduct, false speech, divisive speech, harsh speech, idle chatter — these are the seven kinds of misconduct. ^2-U71
 
 ##### (6) The seven conceits ^2-17-8-6-0
 
-Therein, what are the seven conceits? Conceit, exaggerated conceit, conceit beyond conceit, self-belittling conceit, over-estimating conceit, the conceit "I am", wrong conceit — these are the seven conceits.
+Therein, what are the seven conceits? Conceit, exaggerated conceit, conceit beyond conceit, self-belittling conceit, over-estimating conceit, the conceit "I am", wrong conceit — these are the seven conceits. ^2-U72
 
 ##### (7) The seven views ^2-17-8-7-0
 

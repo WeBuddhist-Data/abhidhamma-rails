@@ -17,6 +17,9 @@
 pali-english/db_query/dpd.db/
 .venv/
 
+# Secrets (API keys)
+.env
+
 # Python
 __pycache__/
 *.py[cod]

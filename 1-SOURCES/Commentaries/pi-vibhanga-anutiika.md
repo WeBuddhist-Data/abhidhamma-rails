@@ -11,16 +11,22 @@ layer: tika
 root_text: 1-SOURCES/Text/pi-2.md
 covers_verses: 2-1–2-1044
 copyright: Public domain
-license: CC0
-source_description: Tipitaka.org Atthakatha/Tika edition export. Ṭīkā > Abhidhammapiṭaka (ṭīkā) > Vibhaṅga-anuṭīkā; 1066 segments in source. Cross-checked against the WeBuddhist backend copy. Not a separate backend record: the anuṭīkā is the second half (CSCD paragraphs 1154-2219) of the backend's 'Vibhaṅga-mūlaṭīkā' record, which merges both sub-commentaries.
+source_description: "Tipitaka.org Atthakatha/Tika edition export. Ṭīkā > Abhidhammapiṭaka (ṭīkā) > Vibhaṅga-anuṭīkā; 1066 segments in source. Cross-checked against the WeBuddhist backend copy. Not a separate backend record: the anuṭīkā is the second half (CSCD paragraphs 1154-2219) of the backend's 'Vibhaṅga-mūlaṭīkā' record, which merges both sub-commentaries."
 source_filename: book/abh02t.tik.html
-source_url: "https://tipitaka.org/romn/cscd/abh02t.tik.html"
+source: "https://tipitaka.org/romn/cscd/abh02t.tik.html"
 other_ids:
   - tipitaka.org: abh02t
   - webuddhist_text_id: e2a8f0d7-243d-43d3-8629-4c1734ac70ec
+license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
+category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: Bkcft6D0nQCPZNb4Kkuf4
+text_id: COXRCJpHSzbY2ob89LzQK
+edition_id: W7VwsJ9ukmss2VILUfmVF
+toc_id: BMg4rOLenLIBTX8KiXHMF
 ---
 
-# Abhidhammapiṭake (ṭīkā) ^tika-0
+# Abhidhammapiṭake (ṭīkā) ^0
 
 ## Vibhaṅga-anuṭīkā ^2-0
 
@@ -1240,7 +1246,7 @@ Mātikāvaṇṇanā niṭṭhitā. ^2-482
 
 Tanti diṭṭhupādānaṃ. Itarassāti kāmupādānassa. Taṇhāgahaṇenāti "taṇhāpaccayā"ti ettha taṇhāgahaṇena gahitattā. Yadi evaṃ nāmaggahaṇena gahitā taṇhā kasmā puna vuttāti āha "nāme viya visesapaccayattābhāvā"ti. "Nāmapaccayā chaṭṭhāyatana"nti ettha hi kāmataṇhāpi nāme saṅgahitāti nāmassa yathārahaṃ chaṭṭhāyatanassa paccayabhāvo vuttoti atthi tattha visesapaccayattaṃ, upādānassa pana bhavasaṅgahopi atthīti "taṇhāpaccayā upādāna"nti etena "kāmupādānapaccayā bhavo"ti etassa nattheva visesoti vuttaṃ "nāme viya visesapaccayattābhāvā"ti. Taṇhā etissā paccayoti taṇhāpaccayā, diṭṭhi . Bhavassa paccayabhūtāti duvidhassapi bhavassa kāraṇabhūtā. Ubhayenapi upādānassa bhavaniddese ṭhapetabbataṃyeva vibhāveti. Paccayuppannaṃ paccayo ca ekamevāti "taṇhāpaccayā upādāna"nti ettha vuttapaccayuppannaṃ, "upādānapaccayā bhavo"ti ettha vuttapaccayo ca eko evattho, tasmā paccayo visuṃ paccayuppannato bhinnaṃ katvā na vibhatto. ^2-483
 
-![[1-SOURCES/Text/pi-2.md#^2-252]]
+![[1-SOURCES/Text/pi-2.md#^2-253]]
 
 Upatthambhakasamuṭṭhāpanapacchājātapaccayavasenāti upatthambhakassa cittasamuṭṭhānarūpassa samuṭṭhāpanavasena, pacchājātapaccayavasena ca. ^2-484
 
@@ -1248,7 +1254,8 @@ Upatthambhakasamuṭṭhāpanapacchājātapaccayavasenāti upatthambhakassa citt
 
 Pañcannanti cakkhāyatanādīnaṃ pañcannaṃ. Sahajātādipaccayoti sahajātanissayaatthiavigatādipaccayo. Vatthusaṅkhātaṃ rūpaṃ. Purejātādipaccayoti purejātanissayavippayuttaatthiavigatapaccayo. Pacchājātādipaccayoti pacchājātavippayuttaatthiavigatapaccayo. Chaṭṭhassa sahajātādīti ādi-saddena aññamaññanissayasampayuttaatthiavigatādayo gahitā. ^2-485
 
-![[1-SOURCES/Text/pi-2.md#^2-264]]
+![[1-SOURCES/Text/pi-2.md#^2-268]]
+![[1-SOURCES/Text/pi-2.md#^2-269]]
 
 Yassāti "yassa ca hotī"ti ettha vuttaṃ "yassā"ti padaṃ sandhāya vuttaṃ. Tenāha "hotīti yojetabba"nti. ^2-486
 

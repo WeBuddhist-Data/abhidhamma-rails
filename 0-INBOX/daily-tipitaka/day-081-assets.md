@@ -22,6 +22,17 @@ status: assets-gathered
 
 ## Pāli source verses
 
+##### Vedanākkhandho ^2-1-2-2-0
+
+34. Tattha katamo vedanākkhandho? Ekavidhena vedanākkhandho – phassasampayutto.
+Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
+Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato.
+Catubbidhena vedanākkhandho – atthi kāmāvacaro, atthi rūpāvacaro, atthi arūpāvacaro, atthi apariyāpanno.
+Pañcavidhena vedanākkhandho – atthi sukhindriyaṃ, atthi dukkhindriyaṃ, atthi somanassindriyaṃ, atthi domanassindriyaṃ, atthi upekkhindriyaṃ. Evaṃ pañcavidhena vedanākkhandho.
+Chabbidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā. Evaṃ chabbidhena vedanākkhandho.
+Sattavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā. Evaṃ sattavidhena vedanākkhandho.
+Aṭṭhavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā atthi sukhā, atthi dukkhā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā. Evaṃ aṭṭhavidhena vedanākkhandho.
+Navavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ navavidhena vedanākkhandho.
 Dasavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā atthi sukhā, atthi dukkhā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ dasavidhena vedanākkhandho. ^2-34
 
 35. Ekavidhena vedanākkhandho – phassasampayutto.
@@ -48,7 +59,6 @@ Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe�
 40. Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi na hetusahetuko, atthi na hetuahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo…pe… atthi saraṇo, atthi araṇo.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-40
-
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
 #### Vedanākkhandho (Abhidhamma)
@@ -83,6 +93,15 @@ Abhidhammabhājanīye vedanākkhandho ekavidhena phassasampayuttato, duvidhena s
 
 ## English translation (from `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md`)
 
+34. What is the aggregate of feeling? As a single category: feeling is associated with contact.
+As two categories: there is feeling that has a root-cause, and feeling that is without a root-cause.
+As three categories: there is feeling that is wholesome, feeling that is unwholesome, and feeling that is indeterminate.
+As four categories: there is feeling belonging to the sense sphere, to the fine-material sphere, to the immaterial sphere, and feeling that is unincluded.
+As five categories: the pleasure faculty, the pain faculty, the joy faculty, the displeasure faculty, and the equanimity faculty. Thus, as five categories, this is the aggregate of feeling.
+As six categories: feeling born of eye-contact, feeling born of ear-contact, feeling born of nose-contact, feeling born of tongue-contact, feeling born of body-contact, feeling born of mind-contact. Thus, as six categories, this is the aggregate of feeling.
+As seven categories: feeling born of eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, mind-element-contact, and mind-consciousness-element-contact. Thus, as seven categories, this is the aggregate of feeling.
+As eight categories: feeling born of eye-contact, ear-contact, nose-contact, tongue-contact, and body-contact — the last being either pleasant or painful — together with feeling born of mind-element-contact and mind-consciousness-element-contact. Thus, as eight categories, this is the aggregate of feeling.
+As nine categories: feeling born of eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, mind-element-contact, and mind-consciousness-element-contact, each being wholesome, unwholesome, or indeterminate. Thus, as nine categories, this is the aggregate of feeling.
 As ten categories: feeling born of eye-contact, ear-contact, nose-contact, tongue-contact, and body-contact — the last being either pleasant or painful — together with feeling born of mind-element-contact and mind-consciousness-element-contact, each being wholesome, unwholesome, or indeterminate. Thus, as ten categories, this is the aggregate of feeling. ^2-34
 
 35. As a single category: Feeling is associated with contact.

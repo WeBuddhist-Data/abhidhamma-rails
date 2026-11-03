@@ -1,11 +1,12 @@
 ---
 status: draft
-note: kickoff 14 May 2026; arrival at Bodhgayā 29 November 2026
+note: kickoff 14 May 2026; final session 24 November 2026; arrival at Bodhgayā 29 November 2026
+renumbered: 2026-08-05 — the five verse-less rest days (former day-094, 097, 102, 107, 110) were removed and all subsequent days renumbered contiguously; days 001–093 are unchanged. The journey now closes on 24 Nov, leaving five clear days before the 29 Nov arrival.
 ---
 
-# Schedule — Daily Tipitaka 200-Day Journey (English)
+# Schedule — Daily Tipitaka 195-Day Journey (English)
 
-200 days across 27 plans, covering the first three books of the Abhidhamma Piṭaka: *Dhammasaṅgaṇī*, *Vibhaṅga*, and *Dhātukathā*.
+195 days across 27 plans, covering the first three books of the Abhidhamma Piṭaka: *Dhammasaṅgaṇī*, *Vibhaṅga*, and *Dhātukathā*.
 
 ---
 
@@ -15,43 +16,43 @@ note: kickoff 14 May 2026; arrival at Bodhgayā 29 November 2026
 
 | Plan | Days  | Dates         | Pāli section            | English       |
 | ---- | ----- | ------------- | ----------------------- | ------------- |
-| 1    | 1–6   | 14–19 May     | Tikamātikā + Dukamātikā | The Matrix    |
-| 2    | 7–37  | 20 May–19 Jun | 1. Cittuppādakaṇḍaṃ     | Consciousness |
-| 3    | 38–54 | 20 Jun–6 Jul  | 2. Rūpakaṇḍaṃ           | Material Form |
-| 4    | 55–69 | 7–21 Jul      | 3. Nikkhepakaṇḍaṃ       | Summary       |
-| 5    | 70–77 | 22–29 Jul     | 4. Aṭṭhakathākaṇḍaṃ     | Commentary    |
+| 1 | 1–6 | 14–19 May | Tikamātikā + Dukamātikā | The Matrix    |
+| 2 | 7–37 | 20 May–19 Jun | 1. Cittuppādakaṇḍaṃ     | Consciousness |
+| 3 | 38–54 | 20 Jun–6 Jul | 2. Rūpakaṇḍaṃ           | Material Form |
+| 4 | 55–69 | 7–21 Jul | 3. Nikkhepakaṇḍaṃ       | Summary       |
+| 5 | 70–77 | 22–29 Jul | 4. Aṭṭhakathākaṇḍaṃ     | Commentary    |
 
-### Book II — *Vibhaṅgapāḷi* · The Analysis (Days 78–178)
+### Book II — *Vibhaṅgapāḷi* · The Analysis (Days 78–173)
 
 | Plan | Days    | Dates         | Pāli section                | English                                    |
 | ---- | ------- | ------------- | --------------------------- | ------------------------------------------ |
-| 6    | 78–94   | 30 Jul–15 Aug | 1. Khandhavibhaṅgo          | Analysis of the Aggregates                 |
-| 7    | 95–97   | 16–18 Aug     | 2. Āyatanavibhaṅgo          | Analysis of the Sense Bases                |
-| 8    | 98–102  | 19–23 Aug     | 3. Dhātuvibhaṅgo            | Analysis of the Elements                   |
-| 9    | 103–107 | 24–28 Aug     | 4. Saccavibhaṅgo            | Analysis of the Truths                     |
-| 10   | 108–110 | 29–31 Aug     | 5. Indriyavibhaṅgo          | Analysis of the Faculties                  |
-| 11   | 111–123 | 1–13 Sep      | 6. Paṭiccasamuppādavibhaṅgo | Analysis of Dependent Origination          |
-| 12   | 124–126 | 14–16 Sep     | 7. Satipaṭṭhānavibhaṅgo     | Analysis of the Foundations of Mindfulness |
-| 13   | 127–128 | 17–18 Sep     | 8. Sammappadhānavibhaṅgo    | Analysis of the Right Strivings            |
-| 14   | 129–130 | 19–20 Sep     | 9. Iddhipādavibhaṅgo        | Analysis of the Bases of Power             |
-| 15   | 131–132 | 21–22 Sep     | 10. Bojjhaṅgavibhaṅgo       | Analysis of the Factors of Enlightenment   |
-| 16   | 133–134 | 23–24 Sep     | 11. Maggaṅgavibhaṅgo        | Analysis of the Path Factors               |
-| 17   | 135–140 | 25–30 Sep     | 12. Jhānavibhaṅgo           | Analysis of the Jhānas                     |
-| 18   | 141–143 | 1–3 Oct       | 13. Appamaññāvibhaṅgo       | Analysis of the Illimitables               |
-| 19   | 144–145 | 4–5 Oct       | 14. Sikkhāpadavibhaṅgo      | Analysis of the Training Precepts          |
-| 20   | 146–148 | 6–8 Oct       | 15. Paṭisambhidāvibhaṅgo    | Analysis of the Discriminations            |
-| 21   | 149–157 | 9–17 Oct      | 16. Ñāṇavibhaṅgo            | Analysis of Knowledge                      |
-| 22   | 158–170 | 18–30 Oct     | 17. Khuddakavatthuvibhaṅgo  | Analysis of Minor Subjects                 |
-| 23   | 171–178 | 31 Oct–7 Nov  | 18. Dhammahadayavibhaṅgo    | Analysis of the Heart of the Doctrine      |
+| 6 | 78–93 | 30 Jul–14 Aug | 1. Khandhavibhaṅgo          | Analysis of the Aggregates                 |
+| 7 | 94–95 | 15–16 Aug | 2. Āyatanavibhaṅgo          | Analysis of the Sense Bases                |
+| 8 | 96–99 | 17–20 Aug | 3. Dhātuvibhaṅgo            | Analysis of the Elements                   |
+| 9 | 100–103 | 21–24 Aug | 4. Saccavibhaṅgo            | Analysis of the Truths                     |
+| 10 | 104–105 | 25–26 Aug | 5. Indriyavibhaṅgo          | Analysis of the Faculties                  |
+| 11 | 106–118 | 27 Aug–8 Sep | 6. Paṭiccasamuppādavibhaṅgo | Analysis of Dependent Origination          |
+| 12 | 119–121 | 9–11 Sep | 7. Satipaṭṭhānavibhaṅgo     | Analysis of the Foundations of Mindfulness |
+| 13 | 122–123 | 12–13 Sep | 8. Sammappadhānavibhaṅgo    | Analysis of the Right Strivings            |
+| 14 | 124–125 | 14–15 Sep | 9. Iddhipādavibhaṅgo        | Analysis of the Bases of Power             |
+| 15 | 126–127 | 16–17 Sep | 10. Bojjhaṅgavibhaṅgo       | Analysis of the Factors of Enlightenment   |
+| 16 | 128–129 | 18–19 Sep | 11. Maggaṅgavibhaṅgo        | Analysis of the Path Factors               |
+| 17 | 130–135 | 20–25 Sep | 12. Jhānavibhaṅgo           | Analysis of the Jhānas                     |
+| 18 | 136–138 | 26–28 Sep | 13. Appamaññāvibhaṅgo       | Analysis of the Illimitables               |
+| 19 | 139–140 | 29–30 Sep | 14. Sikkhāpadavibhaṅgo      | Analysis of the Training Precepts          |
+| 20 | 141–143 | 1–3 Oct | 15. Paṭisambhidāvibhaṅgo    | Analysis of the Discriminations            |
+| 21 | 144–152 | 4–12 Oct | 16. Ñāṇavibhaṅgo            | Analysis of Knowledge                      |
+| 22 | 153–165 | 13–25 Oct | 17. Khuddakavatthuvibhaṅgo  | Analysis of Minor Subjects                 |
+| 23 | 166–173 | 26 Oct–2 Nov | 18. Dhammahadayavibhaṅgo    | Analysis of the Heart of the Doctrine      |
 
-### Book III — *Dhātukathāpāḷi* · Exposition of Elements (Days 179–200)
+### Book III — *Dhātukathāpāḷi* · Exposition of Elements (Days 174–195)
 
 | Plan | Days | Dates | Pāli section | English |
 |---|---|---|---|---|
-| 24 | 179–184 | 8–13 Nov | Mātikā + 1. Saṅgahāsaṅgahapadaniddeso | Methodology Matrices + Included/Not-Included |
-| 25 | 185–194 | 14–23 Nov | 2.–5. (Saṅgahita/Asaṅgahita chapters) | With Included/Not-Included (four permutations) |
-| 26 | 195–198 | 24–27 Nov | 11.–14. (Sampayutta/Vippayutta chapters) | Associated/Dissociated with Included/Not-Included |
-| 27 | 199–200 | 28–29 Nov | Phassādisattakaṃ | Heptad of Contact etc. |
+| 24 | 174–179 | 3–8 Nov | Mātikā + 1. Saṅgahāsaṅgahapadaniddeso | Methodology Matrices + Included/Not-Included |
+| 25 | 180–189 | 9–18 Nov | 2.–5. (Saṅgahita/Asaṅgahita chapters) | With Included/Not-Included (four permutations) |
+| 26 | 190–193 | 19–22 Nov | 11.–14. (Sampayutta/Vippayutta chapters) | Associated/Dissociated with Included/Not-Included |
+| 27 | 194–195 | 23–24 Nov | Phassādisattakaṃ | Heptad of Contact etc. |
 
 ---
 
@@ -61,10 +62,11 @@ note: kickoff 14 May 2026; arrival at Bodhgayā 29 November 2026
 |---|---|---|---|
 | Kickoff | day-001 | 14 May 2026 | Launch announcement, first session published |
 | End of plan-001 | day-006 | 19 May | Plan close, brief reflection prompt |
-| Quarter point | day-050 | 2 Jul | Mid-journey rally communication |
-| Halfway | day-100 | 21 Aug | Sangha video / testimonial post |
-| Three-quarter | day-150 | 10 Oct | Run-up to Bodhgayā messaging begins |
-| Arrival | day-200 | 29 Nov | Bodhgayā chanting begins |
+| Quarter point | day-049 | 1 Jul | Mid-journey rally communication |
+| Halfway | day-098 | 19 Aug | Sangha video / testimonial post |
+| Three-quarter | day-146 | 6 Oct | Run-up to Bodhgayā messaging begins |
+| Final session | day-195 | 24 Nov | Journey complete; five-day run-in to Bodhgayā |
+| Arrival | — | 29 Nov 2026 | Bodhgayā chanting begins |
 | ITCC Gathering | — | December 2026 | The chanting at Bodhgayā |
 
 ---
@@ -100,15 +102,15 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-016 | 29 May (Sat) | 1. Cittuppādakaṇḍaṃ | 221–239 |
 | day-017 | 30 May (Sun) | 1. Cittuppādakaṇḍaṃ | 240–262 |
 | day-018 | 31 May (Mon) | 1. Cittuppādakaṇḍaṃ | 263–276 |
-| day-019 | 1 Jun (Tue)  | 1. Cittuppādakaṇḍaṃ | 277–303 |
-| day-020 | 2 Jun (Wed)  | 1. Cittuppādakaṇḍaṃ | 304–334 |
-| day-021 | 3 Jun (Thu)  | 1. Cittuppādakaṇḍaṃ | 335–353 |
-| day-022 | 4 Jun (Fri)  | 1. Cittuppādakaṇḍaṃ | 354–364 |
-| day-023 | 5 Jun (Sat)  | 1. Cittuppādakaṇḍaṃ | 365–387 |
-| day-024 | 6 Jun (Sun)  | 1. Cittuppādakaṇḍaṃ | 388–403 |
-| day-025 | 7 Jun (Mon)  | 1. Cittuppādakaṇḍaṃ | 404–419 |
-| day-026 | 8 Jun (Tue)  | 1. Cittuppādakaṇḍaṃ | 420–432 |
-| day-027 | 9 Jun (Wed)  | 1. Cittuppādakaṇḍaṃ | 433–454 |
+| day-019 | 1 Jun (Tue) | 1. Cittuppādakaṇḍaṃ | 277–303 |
+| day-020 | 2 Jun (Wed) | 1. Cittuppādakaṇḍaṃ | 304–334 |
+| day-021 | 3 Jun (Thu) | 1. Cittuppādakaṇḍaṃ | 335–353 |
+| day-022 | 4 Jun (Fri) | 1. Cittuppādakaṇḍaṃ | 354–364 |
+| day-023 | 5 Jun (Sat) | 1. Cittuppādakaṇḍaṃ | 365–387 |
+| day-024 | 6 Jun (Sun) | 1. Cittuppādakaṇḍaṃ | 388–403 |
+| day-025 | 7 Jun (Mon) | 1. Cittuppādakaṇḍaṃ | 404–419 |
+| day-026 | 8 Jun (Tue) | 1. Cittuppādakaṇḍaṃ | 420–432 |
+| day-027 | 9 Jun (Wed) | 1. Cittuppādakaṇḍaṃ | 433–454 |
 | day-028 | 10 Jun (Thu) | 1. Cittuppādakaṇḍaṃ | 455–477 |
 | day-029 | 11 Jun (Fri) | 1. Cittuppādakaṇḍaṃ | 478–498 |
 | day-030 | 12 Jun (Sat) | 1. Cittuppādakaṇḍaṃ | 499–508 |
@@ -177,243 +179,268 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-076 | 28 Jul (Wed) | 4. Aṭṭhakathākaṇḍaṃ | 1574–1596 |
 | day-077 | 29 Jul (Thu) | 4. Aṭṭhakathākaṇḍaṃ | 1597–1616 |
 
-### Plan 6 — Days 78–94 · Analysis of the Aggregates (30 Jul–15 Aug)
+### Plan 6 — Days 78–93 · Analysis of the Aggregates (30 Jul–14 Aug)
 
 | Day     | Date         | Section            | Verses  |
 | ------- | ------------ | ------------------ | ------- |
 | day-078 | 30 Jul (Fri) | 1. Khandhavibhaṅgo | 1–15    |
 | day-079 | 31 Jul (Sat) | 1. Khandhavibhaṅgo | 16–25   |
-| day-080 | 1 Aug (Sun)  | 1. Khandhavibhaṅgo | 26–33   |
-| day-081 | 2 Aug (Mon)  | 1. Khandhavibhaṅgo | 34–40   |
-| day-082 | 3 Aug (Tue)  | 1. Khandhavibhaṅgo | 41–57   |
-| day-083 | 4 Aug (Wed)  | 1. Khandhavibhaṅgo | 58–64   |
-| day-084 | 5 Aug (Thu)  | 1. Khandhavibhaṅgo | 65–77   |
-| day-085 | 6 Aug (Fri)  | 1. Khandhavibhaṅgo | 78–91   |
-| day-086 | 7 Aug (Sat)  | 1. Khandhavibhaṅgo | 92–95   |
-| day-087 | 8 Aug (Sun)  | 1. Khandhavibhaṅgo | 96–109  |
-| day-088 | 9 Aug (Mon)  | 1. Khandhavibhaṅgo | 110–120 |
+| day-080 | 1 Aug (Sun) | 1. Khandhavibhaṅgo | 26–33   |
+| day-081 | 2 Aug (Mon) | 1. Khandhavibhaṅgo | 34–40   |
+| day-082 | 3 Aug (Tue) | 1. Khandhavibhaṅgo | 41–57   |
+| day-083 | 4 Aug (Wed) | 1. Khandhavibhaṅgo | 58–64   |
+| day-084 | 5 Aug (Thu) | 1. Khandhavibhaṅgo | 65–77   |
+| day-085 | 6 Aug (Fri) | 1. Khandhavibhaṅgo | 78–91   |
+| day-086 | 7 Aug (Sat) | 1. Khandhavibhaṅgo | 92–95   |
+| day-087 | 8 Aug (Sun) | 1. Khandhavibhaṅgo | 96–109  |
+| day-088 | 9 Aug (Mon) | 1. Khandhavibhaṅgo | 110–120 |
 | day-089 | 10 Aug (Tue) | 1. Khandhavibhaṅgo | 121–123 |
 | day-090 | 11 Aug (Wed) | 1. Khandhavibhaṅgo | 124–134 |
 | day-091 | 12 Aug (Thu) | 1. Khandhavibhaṅgo | 135–149 |
 | day-092 | 13 Aug (Fri) | 1. Khandhavibhaṅgo | 150–152 |
 | day-093 | 14 Aug (Sat) | 1. Khandhavibhaṅgo | 153     |
-| day-094 | 15 Aug (Sun) | 1. Khandhavibhaṅgo | —       |
 
-> ⚠️ **Content pipeline stops after day-094.** Days 001–094 can be built; **day-095 onward cannot yet.** Three prerequisites are missing:
+> ⚠️ **Status as of 2026-08-05 — the translation gate here has since been lifted; see the 🔁 and 🔓 blocks below.** At the time of writing, days 001–095 could be built and day-096 onward was blocked on translation:
 >
-> 1. **Translation** — `en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md` covers `^2-1` – `^2-153` only (through day-093; day-094 has no verses). Day-095 needs `^2-154` onward from `Āyatanavibhaṅgo`.
-> 2. **Rails** — `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` cover `Khandhavibhaṅgo` only. Each further vibhaṅga needs its entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`.
-> 3. **Book III sources** — days 179–200 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) plus its commentary; neither is in the vault.
+> 1. **Translation** — `en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md` now covers `^2-1` – `^2-171` (Khandhavibhaṅgo + Āyatanavibhaṅgo), i.e. through day-095. Day-096 needs `^2-172` onward from `Dhātuvibhaṅgo`. Per `AI_translation/skills/rails-verse-translator.md` the pass runs **one chapter per turn with a human review gate between chapters**, so Dhātuvibhaṅgo starts only after the Āyatanavibhaṅgo chapter is signed off.
+> 2. **Rails** — ✅ `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` cover `Khandhavibhaṅgo`, `Āyatanavibhaṅgo`, `Dhātuvibhaṅgo`, `Saccavibhaṅgo` and `Indriyavibhaṅgo` (through day-105; Indriyavibhaṅgo added 2026-08-24). Chapters 6–18 still need entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`. Rail prose still needs a native Pāli reviewer before the days built on it are published.
+> 3. **Book III sources** — days 174–195 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) plus its commentary; neither is in this working copy.
 >
-> Materials for these are not ready yet. See `../../Translations/en-Contemporary-English-Abhidhamma/requirements.md` §4.1 for the full coverage table.
+> **Do not substitute `AI_translation/english/pi-2-english-plain-zeroshot.md`.** It does cover the whole of Book II (`^2-0` – `^2-1044`), so it looks like it closes gap 1. It does not. By its own pipeline's definition (`AI_translation/skills/zeroshot-translator.md`) a zeroshot pass uses **no termbase at all** and is "useful for a first draft"; the publication-grade path is `rails-verse-translator`, run one chapter at a time with a review gate. The two passes also disagree on terminology — zeroshot says "aggregate of **material** form" and "**mental** formations" where the rails pass (already published in days 078–082) says "aggregate of form" and "formations" — so days built on it would shift vocabulary mid-journey. Decision, 2026-07-31: **wait for the rails pass on each chapter.**
+>
+> See `../../Translations/en-Contemporary-English-Abhidhamma/requirements.md` §4.1 for the full coverage table.
 
-### Plan 7 — Days 95–97 · Analysis of the Sense Bases (16–18 Aug)
+> 🔁 **Override, 2026-08-05 — days 096–103 built on the zeroshot pass.** On Evan's direction, days 096–103 (`^2-172` – `^2-218`, Dhātuvibhaṅgo + Saccavibhaṅgo) were drafted with §4 sourced from `AI_translation/english/pi-2-english-plain-zeroshot.md`, overriding the 2026-07-31 decision above. Each day file records this in its `translation_source` / `translation_source_note` frontmatter.
+>
+> **Scope of the vocabulary risk, measured.** Across the full range vv. 172–218 the zeroshot text contains 8 occurrences of "mental formations" and 1 of "aggregate of material form". But §4 prints only the **first and last verse** of each day's range — 15 verses across the 8 days — and only **two** of those carry a conflicting term (vv. 182 and 184, both "mental formations"). Both were normalised in day-097 §4 to the locked day-079 rendering "formations". The remaining 13 boundary verses were conflict-free against the plan termbase.
+>
+> **What still needs doing when the rails pass reaches this range:** regenerate §4 in days 096–103 from `en-vibhanga-ai.md`, and reconcile the nine `candidate` termbase rows added 2026-08-05 — especially *nirodha* → _ending_, where the conventional rendering is _cessation_ and the zeroshot wording was inherited rather than chosen.
+>
+> Days 104–105 were built the same way on 2026-08-24; see the 🔓 block below.
 
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-095 | 16 Aug (Mon) | 2. Āyatanavibhaṅgo | 154–165 |
-| day-096 | 17 Aug (Tue) | 2. Āyatanavibhaṅgo | 166–171 |
-| day-097 | 18 Aug (Wed) | 2. Āyatanavibhaṅgo | — |
+> 🔓 **Standing rule, 2026-08-24 — translation is no longer the gate. Rails are, and they get built as we go.**
+>
+> On Evan's direction, §4 draws from the one-shot pass (`AI_translation/english/pi-2-english-plain-zeroshot.md`), which covers the whole of Book II (`^2-0` – `^2-1044`). **No day in Book II is blocked on translation any more**, and the 2026-07-31 "wait for the rails pass on each chapter" decision above no longer holds. Regenerating §4 from `en-vibhanga-ai.md` once the curated pass catches up remains desirable, not blocking.
+>
+> **What each new batch does still require:** the day's chapter must have entries in `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` before its day files can be drafted. Those entries are built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` **as each batch comes up** — not stockpiled in advance. A batch whose chapter has no rail entries halts until they are written (`daily-tipitaka-day` SKILL.md Rule 2). Chapter 6 (`Paṭiccasamuppādavibhaṅgo`, days 106–118) is the next one to need building.
+>
+> **Two obligations travel with every batch built this way.** (1) New rail prose needs a native Pāli reviewer before the days resting on it are published — recorded in each day file's `rail_provenance` frontmatter. (2) Where the one-shot wording conflicts with a locked plan-termbase row, the conflict is normalised in §4 and recorded in `termbase.md`; see the note under "Added 2026-08-24" for the open question of whether normalise-or-record should be the standing rule.
+>
+> **Still genuinely blocked:** days 174–195 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) and its commentary. Neither is in this working copy.
 
-### Plan 8 — Days 98–102 · Analysis of the Elements (19–23 Aug)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-098 | 19 Aug (Thu) | 3. Dhātuvibhaṅgo | 172–181 |
-| day-099 | 20 Aug (Fri) | 3. Dhātuvibhaṅgo | 182–184 |
-| day-100 | 21 Aug (Sat) | 3. Dhātuvibhaṅgo | 186–187 |
-| day-101 | 22 Aug (Sun) | 3. Dhātuvibhaṅgo | 188 |
-| day-102 | 23 Aug (Mon) | 3. Dhātuvibhaṅgo | — |
-
-### Plan 9 — Days 103–107 · Analysis of the Truths (24–28 Aug)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-103 | 24 Aug (Tue) | 4. Saccavibhaṅgo | 189–203 |
-| day-104 | 25 Aug (Wed) | 4. Saccavibhaṅgo | 204–206 |
-| day-105 | 26 Aug (Thu) | 4. Saccavibhaṅgo | 207–212 |
-| day-106 | 27 Aug (Fri) | 4. Saccavibhaṅgo | 213–218 |
-| day-107 | 28 Aug (Sat) | 4. Saccavibhaṅgo | — |
-
-### Plan 10 — Days 108–110 · Analysis of the Faculties (29–31 Aug)
+### Plan 7 — Days 94–95 · Analysis of the Sense Bases (15–16 Aug)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-108 | 29 Aug (Sun) | 5. Indriyavibhaṅgo | 219–222 |
-| day-109 | 30 Aug (Mon) | 5. Indriyavibhaṅgo | 223–224 |
-| day-110 | 31 Aug (Tue) | 5. Indriyavibhaṅgo | — |
+| day-094 | 15 Aug (Sun) | 2. Āyatanavibhaṅgo | 154–165 |
+| day-095 | 16 Aug (Mon) | 2. Āyatanavibhaṅgo | 166–171 |
 
-### Plan 11 — Days 111–123 · Analysis of Dependent Origination (1–13 Sep)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-111 | 1 Sep (Wed) | 6. Paṭiccasamuppādavibhaṅgo | 225–243 |
-| day-112 | 2 Sep (Thu) | 6. Paṭiccasamuppādavibhaṅgo | 244–248 |
-| day-113 | 3 Sep (Fri) | 6. Paṭiccasamuppādavibhaṅgo | 249–255 |
-| day-114 | 4 Sep (Sat) | 6. Paṭiccasamuppādavibhaṅgo | 256–263 |
-| day-115 | 5 Sep (Sun) | 6. Paṭiccasamuppādavibhaṅgo | 265–271 |
-| day-116 | 6 Sep (Mon) | 6. Paṭiccasamuppādavibhaṅgo | 272–275 |
-| day-117 | 7 Sep (Tue) | 6. Paṭiccasamuppādavibhaṅgo | 276–280 |
-| day-118 | 8 Sep (Wed) | 6. Paṭiccasamuppādavibhaṅgo | 281–292 |
-| day-119 | 9 Sep (Thu) | 6. Paṭiccasamuppādavibhaṅgo | 293–305 |
-| day-120 | 10 Sep (Fri) | 6. Paṭiccasamuppādavibhaṅgo | 306–316 |
-| day-121 | 11 Sep (Sat) | 6. Paṭiccasamuppādavibhaṅgo | 317–327 |
-| day-122 | 12 Sep (Sun) | 6. Paṭiccasamuppādavibhaṅgo | 328–341 |
-| day-123 | 13 Sep (Mon) | 6. Paṭiccasamuppādavibhaṅgo | 342–354 |
-
-### Plan 12 — Days 124–126 · Analysis of the Foundations of Mindfulness (14–16 Sep)
+### Plan 8 — Days 96–99 · Analysis of the Elements (17–20 Aug)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-124 | 14 Sep (Tue) | 7. Satipaṭṭhānavibhaṅgo | 355–365 |
-| day-125 | 15 Sep (Wed) | 7. Satipaṭṭhānavibhaṅgo | 366–373 |
-| day-126 | 16 Sep (Thu) | 7. Satipaṭṭhānavibhaṅgo | 374–389 |
+| day-096 | 17 Aug (Tue) | 3. Dhātuvibhaṅgo | 172–181 |
+| day-097 | 18 Aug (Wed) | 3. Dhātuvibhaṅgo | 182–184 |
+| day-098 | 19 Aug (Thu) | 3. Dhātuvibhaṅgo | 186–187 |
+| day-099 | 20 Aug (Fri) | 3. Dhātuvibhaṅgo | 188 |
 
-### Plan 13 — Days 127–128 · Analysis of the Right Strivings (17–18 Sep)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-127 | 17 Sep (Fri) | 8. Sammappadhānavibhaṅgo | 390–412 |
-| day-128 | 18 Sep (Sat) | 8. Sammappadhānavibhaṅgo | 413–429 |
-
-### Plan 14 — Days 129–130 · Analysis of the Bases of Power (19–20 Sep)
+### Plan 9 — Days 100–103 · Analysis of the Truths (21–24 Aug)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-129 | 19 Sep (Sun) | 9. Iddhipādavibhaṅgo | 430–446 |
-| day-130 | 20 Sep (Mon) | 9. Iddhipādavibhaṅgo | 447–465 |
+| day-100 | 21 Aug (Sat) | 4. Saccavibhaṅgo | 189–203 |
+| day-101 | 22 Aug (Sun) | 4. Saccavibhaṅgo | 204–206 |
+| day-102 | 23 Aug (Mon) | 4. Saccavibhaṅgo | 207–212 |
+| day-103 | 24 Aug (Tue) | 4. Saccavibhaṅgo | 213–218 |
 
-### Plan 15 — Days 131–132 · Analysis of the Factors of Enlightenment (21–22 Sep)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-131 | 21 Sep (Tue) | 10. Bojjhaṅgavibhaṅgo | 466–474 |
-| day-132 | 22 Sep (Wed) | 10. Bojjhaṅgavibhaṅgo | 475–484 |
-
-### Plan 16 — Days 133–134 · Analysis of the Path Factors (23–24 Sep)
+### Plan 10 — Days 104–105 · Analysis of the Faculties (25–26 Aug)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-133 | 23 Sep (Thu) | 11. Maggaṅgavibhaṅgo | 485–495 |
-| day-134 | 24 Sep (Fri) | 11. Maggaṅgavibhaṅgo | 496–507 |
+| day-104 | 25 Aug (Wed) | 5. Indriyavibhaṅgo | 219–222 |
+| day-105 | 26 Aug (Thu) | 5. Indriyavibhaṅgo | 223–224 |
 
-### Plan 17 — Days 135–140 · Analysis of the Jhānas (25–30 Sep)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-135 | 25 Sep (Sat) | 12. Jhānavibhaṅgo | 508–523 |
-| day-136 | 26 Sep (Sun) | 12. Jhānavibhaṅgo | 524–556 |
-| day-137 | 27 Sep (Mon) | 12. Jhānavibhaṅgo | 557–587 |
-| day-138 | 28 Sep (Tue) | 12. Jhānavibhaṅgo | 588–622 |
-| day-139 | 29 Sep (Wed) | 12. Jhānavibhaṅgo | 623–631 |
-| day-140 | 30 Sep (Thu) | 12. Jhānavibhaṅgo | 632–641 |
-
-### Plan 18 — Days 141–143 · Analysis of the Illimitables (1–3 Oct)
+### Plan 11 — Days 106–118 · Analysis of Dependent Origination (27 Aug–8 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-141 | 1 Oct (Fri) | 13. Appamaññāvibhaṅgo | 642–678 |
-| day-142 | 2 Oct (Sat) | 13. Appamaññāvibhaṅgo | 679–692 |
-| day-143 | 3 Oct (Sun) | 13. Appamaññāvibhaṅgo | 693–702 |
+| day-106 | 27 Aug (Fri) | 6. Paṭiccasamuppādavibhaṅgo | 225–243 |
+| day-107 | 28 Aug (Sat) | 6. Paṭiccasamuppādavibhaṅgo | 244–248 |
+| day-108 | 29 Aug (Sun) | 6. Paṭiccasamuppādavibhaṅgo | 249–255 |
+| day-109 | 30 Aug (Mon) | 6. Paṭiccasamuppādavibhaṅgo | 256–263 |
+| day-110 | 31 Aug (Tue) | 6. Paṭiccasamuppādavibhaṅgo | 265–271 |
+| day-111 | 1 Sep (Wed) | 6. Paṭiccasamuppādavibhaṅgo | 272–275 |
+| day-112 | 2 Sep (Thu) | 6. Paṭiccasamuppādavibhaṅgo | 276–280 |
+| day-113 | 3 Sep (Fri) | 6. Paṭiccasamuppādavibhaṅgo | 281–292 |
+| day-114 | 4 Sep (Sat) | 6. Paṭiccasamuppādavibhaṅgo | 293–305 |
+| day-115 | 5 Sep (Sun) | 6. Paṭiccasamuppādavibhaṅgo | 306–316 |
+| day-116 | 6 Sep (Mon) | 6. Paṭiccasamuppādavibhaṅgo | 317–327 |
+| day-117 | 7 Sep (Tue) | 6. Paṭiccasamuppādavibhaṅgo | 328–341 |
+| day-118 | 8 Sep (Wed) | 6. Paṭiccasamuppādavibhaṅgo | 342–354 |
 
-### Plan 19 — Days 144–145 · Analysis of the Training Precepts (4–5 Oct)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-144 | 4 Oct (Mon) | 14. Sikkhāpadavibhaṅgo | 703–709 |
-| day-145 | 5 Oct (Tue) | 14. Sikkhāpadavibhaṅgo | 710–717 |
-
-### Plan 20 — Days 146–148 · Analysis of the Discriminations (6–8 Oct)
-
-| Day | Date | Section | Verses |
-|---|---|---|---|
-| day-146 | 6 Oct (Wed) | 15. Paṭisambhidāvibhaṅgo | 718–731 |
-| day-147 | 7 Oct (Thu) | 15. Paṭisambhidāvibhaṅgo | 732–741 |
-| day-148 | 8 Oct (Fri) | 15. Paṭisambhidāvibhaṅgo | 742–750 |
-
-### Plan 21 — Days 149–157 · Analysis of Knowledge (9–17 Oct)
+### Plan 12 — Days 119–121 · Analysis of the Foundations of Mindfulness (9–11 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-149 | 9 Oct (Sat) | 16. Ñāṇavibhaṅgo | 751–753 |
-| day-150 | 10 Oct (Sun) | 16. Ñāṇavibhaṅgo | 754 |
-| day-151 | 11 Oct (Mon) | 16. Ñāṇavibhaṅgo | 755–765 |
-| day-152 | 12 Oct (Tue) | 16. Ñāṇavibhaṅgo | 766–767 |
-| day-153 | 13 Oct (Wed) | 16. Ñāṇavibhaṅgo | 768–787 |
-| day-154 | 14 Oct (Thu) | 16. Ñāṇavibhaṅgo | 788–800 |
-| day-155 | 15 Oct (Fri) | 16. Ñāṇavibhaṅgo | 801–809 |
-| day-156 | 16 Oct (Sat) | 16. Ñāṇavibhaṅgo | 810–815 |
-| day-157 | 17 Oct (Sun) | 16. Ñāṇavibhaṅgo | 816–830 |
+| day-119 | 9 Sep (Thu) | 7. Satipaṭṭhānavibhaṅgo | 355–365 |
+| day-120 | 10 Sep (Fri) | 7. Satipaṭṭhānavibhaṅgo | 366–373 |
+| day-121 | 11 Sep (Sat) | 7. Satipaṭṭhānavibhaṅgo | 374–389 |
 
-### Plan 22 — Days 158–170 · Analysis of Minor Subjects (18–30 Oct)
+### Plan 13 — Days 122–123 · Analysis of the Right Strivings (12–13 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-158 | 18 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 832–849 |
-| day-159 | 19 Oct (Tue) | 17. Khuddakavatthuvibhaṅgo | 850–876 |
-| day-160 | 20 Oct (Wed) | 17. Khuddakavatthuvibhaṅgo | 877–899 |
-| day-161 | 21 Oct (Thu) | 17. Khuddakavatthuvibhaṅgo | 900–913 |
-| day-162 | 22 Oct (Fri) | 17. Khuddakavatthuvibhaṅgo | 914–924 |
-| day-163 | 23 Oct (Sat) | 17. Khuddakavatthuvibhaṅgo | 925–932 |
-| day-164 | 24 Oct (Sun) | 17. Khuddakavatthuvibhaṅgo | 933–938 |
-| day-165 | 25 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 939–942 |
-| day-166 | 26 Oct (Tue) | 17. Khuddakavatthuvibhaṅgo | 943–947 |
-| day-167 | 27 Oct (Wed) | 17. Khuddakavatthuvibhaṅgo | 948–953 |
-| day-168 | 28 Oct (Thu) | 17. Khuddakavatthuvibhaṅgo | 954–965 |
-| day-169 | 29 Oct (Fri) | 17. Khuddakavatthuvibhaṅgo | 966–974 |
-| day-170 | 30 Oct (Sat) | 17. Khuddakavatthuvibhaṅgo | 975–977 |
+| day-122 | 12 Sep (Sun) | 8. Sammappadhānavibhaṅgo | 390–412 |
+| day-123 | 13 Sep (Mon) | 8. Sammappadhānavibhaṅgo | 413–430 |
 
-### Plan 23 — Days 171–178 · Analysis of the Heart of the Doctrine (31 Oct–7 Nov)
+> ⚙️ **Boundary correction, 2026-09-09 — day-123/day-124.** As originally scheduled, day-123 ran 413–429 and day-124 ran 430–446. But `^2-430` is chapter 8's closing block — its last line is `Sammappadhānavibhaṅgo niṭṭhito.` — so `Iddhipādavibhaṅgo` actually begins at `^2-431`. day-124 therefore opened with the previous chapter's colophon. On Evan's direction the boundary was moved: **day-123 is now 413–430** (18 verses, closing on the colophon, as day-121 does for chapter 7) **and day-124 is now 431–446** (16 verses). Coverage stays contiguous and every day again sits inside one chapter. **The source spreadsheet (`0-INBOX/200 Days - ITCC_2026_Bodhgaya_Reading_Schedule - Day-by-Day.csv`) still carries the old split and needs the same edit.**
+>
+> ⚙️ **Boundary correction, 2026-09-09 — day-127/day-128.** The identical fault sat at the chapter 10/11 break: `^2-485` is chapter 10's closing block (`Bojjhaṅgavibhaṅgo niṭṭhito.`), but day-127 was scheduled 475–484 and day-128 opened at 485 under `11. Maggaṅgavibhaṅgo`. Corrected the same way on Evan's direction — **day-127 is now 475–485** (11 verses, finishing the chapter) **and day-128 is now 486–495** (10 verses). The source spreadsheet needs this edit too. These two were the only straddles among the 93 Book II days; every other chapter boundary is clean.
+
+### Plan 14 — Days 124–125 · Analysis of the Bases of Power (14–15 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-171 | 31 Oct (Sun) | 18. Dhammahadayavibhaṅgo | 978–994 |
-| day-172 | 1 Nov (Mon) | 18. Dhammahadayavibhaṅgo | 995–1005 |
-| day-173 | 2 Nov (Tue) | 18. Dhammahadayavibhaṅgo | 1006–1012 |
-| day-174 | 3 Nov (Wed) | 18. Dhammahadayavibhaṅgo | 1013–1019 |
-| day-175 | 4 Nov (Thu) | 18. Dhammahadayavibhaṅgo | 1020–1027 |
-| day-176 | 5 Nov (Fri) | 18. Dhammahadayavibhaṅgo | 1028–1035 |
-| day-177 | 6 Nov (Sat) | 18. Dhammahadayavibhaṅgo | 1036–1040 |
-| day-178 | 7 Nov (Sun) | 18. Dhammahadayavibhaṅgo | 1041–1044 |
+| day-124 | 14 Sep (Tue) | 9. Iddhipādavibhaṅgo | 431–446 |
+| day-125 | 15 Sep (Wed) | 9. Iddhipādavibhaṅgo | 447–465 |
 
-### Plan 24 — Days 179–184 · Methodology Matrices + Included/Not-Included (8–13 Nov)
+### Plan 15 — Days 126–127 · Analysis of the Factors of Enlightenment (16–17 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-179 | 8 Nov (Mon) | Mātikā (Nayamātikā–Bāhiramātikā) | 1–5 |
-| day-180 | 9 Nov (Tue) | 1. Saṅgahāsaṅgahapadaniddeso | 6–32 |
-| day-181 | 10 Nov (Wed) | 1. Saṅgahāsaṅgahapadaniddeso | 33–61 |
-| day-182 | 11 Nov (Thu) | 1. Saṅgahāsaṅgahapadaniddeso | 62–97 |
-| day-183 | 12 Nov (Fri) | 1. Saṅgahāsaṅgahapadaniddeso | 98–132 |
-| day-184 | 13 Nov (Sat) | 1. Saṅgahāsaṅgahapadaniddeso | 133–167 |
+| day-126 | 16 Sep (Thu) | 10. Bojjhaṅgavibhaṅgo | 466–474 |
+| day-127 | 17 Sep (Fri) | 10. Bojjhaṅgavibhaṅgo | 475–485 |
 
-### Plan 25 — Days 185–194 · Four Permutations of Included/Not-Included (14–23 Nov)
+### Plan 16 — Days 128–129 · Analysis of the Path Factors (18–19 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-185 | 14 Nov (Sun) | 2. Saṅgahitenaasaṅgahitapadaniddeso | 171–173 |
-| day-186 | 15 Nov (Mon) | 3. Asaṅgahitenasaṅgahitapadaniddeso | 179–190 |
-| day-187 | 16 Nov (Tue) | 4. Saṅgahitenasaṅgahitapadaniddeso | 191–192 |
-| day-188 | 17 Nov (Wed) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 193–216 |
-| day-189 | 18 Nov (Thu) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 217–244 |
-| day-190 | 19 Nov (Fri) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 245–284 |
-| day-191 | 20 Nov (Sat) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 285–318 |
-| day-192 | 21 Nov (Sun) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 319–352 |
-| day-193 | 22 Nov (Mon) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 353–378 |
-| day-194 | 23 Nov (Tue) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 379–405 |
+| day-128 | 18 Sep (Sat) | 11. Maggaṅgavibhaṅgo | 486–495 |
+| day-129 | 19 Sep (Sun) | 11. Maggaṅgavibhaṅgo | 496–507 |
 
-### Plan 26 — Days 195–198 · Associated/Dissociated with Included/Not-Included (24–27 Nov)
+### Plan 17 — Days 130–135 · Analysis of the Jhānas (20–25 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-195 | 24 Nov (Wed) | 11. Saṅgahitenasampayuttavippayuttapadaniddeso | 409–416 |
-| day-196 | 25 Nov (Thu) | 12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso | 417–446 |
-| day-197 | 26 Nov (Fri) | 13. Asaṅgahitenasampayuttavippayuttapadaniddeso | 448–455 |
-| day-198 | 27 Nov (Sat) | 14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso | 456–469 |
+| day-130 | 20 Sep (Mon) | 12. Jhānavibhaṅgo | 508–523 |
+| day-131 | 21 Sep (Tue) | 12. Jhānavibhaṅgo | 524–556 |
+| day-132 | 22 Sep (Wed) | 12. Jhānavibhaṅgo | 557–587 |
+| day-133 | 23 Sep (Thu) | 12. Jhānavibhaṅgo | 588–622 |
+| day-134 | 24 Sep (Fri) | 12. Jhānavibhaṅgo | 623–631 |
+| day-135 | 25 Sep (Sat) | 12. Jhānavibhaṅgo | 632–641 |
 
-### Plan 27 — Days 199–200 · Heptad of Contact etc. (28–29 Nov)
+### Plan 18 — Days 136–138 · Analysis of the Illimitables (26–28 Sep)
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-199 | 28 Nov (Sun) | Phassādisattakaṃ | 472–500 |
-| day-200 | 29 Nov (Mon) | Phassādisattakaṃ | 501–518 |
+| day-136 | 26 Sep (Sun) | 13. Appamaññāvibhaṅgo | 642–678 |
+| day-137 | 27 Sep (Mon) | 13. Appamaññāvibhaṅgo | 679–692 |
+| day-138 | 28 Sep (Tue) | 13. Appamaññāvibhaṅgo | 693–702 |
+
+### Plan 19 — Days 139–140 · Analysis of the Training Precepts (29–30 Sep)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-139 | 29 Sep (Wed) | 14. Sikkhāpadavibhaṅgo | 703–709 |
+| day-140 | 30 Sep (Thu) | 14. Sikkhāpadavibhaṅgo | 710–717 |
+
+### Plan 20 — Days 141–143 · Analysis of the Discriminations (1–3 Oct)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-141 | 1 Oct (Fri) | 15. Paṭisambhidāvibhaṅgo | 718–731 |
+| day-142 | 2 Oct (Sat) | 15. Paṭisambhidāvibhaṅgo | 732–741 |
+| day-143 | 3 Oct (Sun) | 15. Paṭisambhidāvibhaṅgo | 742–750 |
+
+### Plan 21 — Days 144–152 · Analysis of Knowledge (4–12 Oct)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-144 | 4 Oct (Mon) | 16. Ñāṇavibhaṅgo | 751–753 |
+| day-145 | 5 Oct (Tue) | 16. Ñāṇavibhaṅgo | 754 |
+| day-146 | 6 Oct (Wed) | 16. Ñāṇavibhaṅgo | 755–765 |
+| day-147 | 7 Oct (Thu) | 16. Ñāṇavibhaṅgo | 766–767 |
+| day-148 | 8 Oct (Fri) | 16. Ñāṇavibhaṅgo | 768–787 |
+| day-149 | 9 Oct (Sat) | 16. Ñāṇavibhaṅgo | 788–800 |
+| day-150 | 10 Oct (Sun) | 16. Ñāṇavibhaṅgo | 801–809 |
+| day-151 | 11 Oct (Mon) | 16. Ñāṇavibhaṅgo | 810–815 |
+| day-152 | 12 Oct (Tue) | 16. Ñāṇavibhaṅgo | 816–831 |
+
+> ⚙️ **Boundary correction, 2026-09-29 — day-152.** `^2-831` sat in no scheduled day: day-152 ended at 830 and day-153 opens chapter 17 at 832. The block is not a bare colophon — it is the tenth power of the Tathāgata (*āsavānaṃ khayaṃ yathābhūtaṃ ñāṇaṃ*), then `Dasakaṃ.` and `Ñāṇavibhaṅgo niṭṭhito.` — so the gap dropped real content. Corrected on the standing 2026-09-09 rule that each day sits inside one chapter: **day-152 is now 816–831** (was 816–830). Found by `4-SYSTEM/scripts/check-schedule-boundaries.py`. The source spreadsheet needs this edit too.
+
+### Plan 22 — Days 153–165 · Analysis of Minor Subjects (13–25 Oct)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-153 | 13 Oct (Wed) | 17. Khuddakavatthuvibhaṅgo | 832–849 |
+| day-154 | 14 Oct (Thu) | 17. Khuddakavatthuvibhaṅgo | 850–876 |
+| day-155 | 15 Oct (Fri) | 17. Khuddakavatthuvibhaṅgo | 877–899 |
+| day-156 | 16 Oct (Sat) | 17. Khuddakavatthuvibhaṅgo | 900–913 |
+| day-157 | 17 Oct (Sun) | 17. Khuddakavatthuvibhaṅgo | 914–924 |
+| day-158 | 18 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 925–932 |
+| day-159 | 19 Oct (Tue) | 17. Khuddakavatthuvibhaṅgo | 933–938 |
+| day-160 | 20 Oct (Wed) | 17. Khuddakavatthuvibhaṅgo | 939–942 |
+| day-161 | 21 Oct (Thu) | 17. Khuddakavatthuvibhaṅgo | 943–947 |
+| day-162 | 22 Oct (Fri) | 17. Khuddakavatthuvibhaṅgo | 948–953 |
+| day-163 | 23 Oct (Sat) | 17. Khuddakavatthuvibhaṅgo | 954–965 |
+| day-164 | 24 Oct (Sun) | 17. Khuddakavatthuvibhaṅgo | 966–974 |
+| day-165 | 25 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 975–977 |
+
+> ⚙️ **Boundary correction, 2026-10-12 — days 157–161.** Chapter 17's root text carries 72 unnumbered content blocks (`^2-U1`–`^2-U72`, no printed verse number). The rows above go by verse number, so 18 of these sat between one day's last verse and the next day's first and fell into no day: `^2-U1`–`U7` (Threes items 17–23: blemishes, stains, unevennesses, fires, corruptions) between v.924 and v.925; `U22`–`U23` (avadaññutā, kosajjaṃ) between 932 and 933; `U36`–`U39` (the four kinds of clinging) between 938 and 939; `U57`–`U59` (five losses, five dangers of impatience, five fears) between 942 and 943; `U67`–`U68` (household grief and equanimity) between 947 and 948. Each finishes the preceding day's item, so on Evan's call each now joins the day before: **day-157 = 914–924 + U1–U7, day-158 = 925–932 + U22–U23, day-159 = 933–938 + U36–U39, day-160 = 939–942 + U57–U59, day-161 = 943–947 + U67–U68.** The verse column keeps the numbered range so `4-SYSTEM/scripts/check-schedule-boundaries.py` still parses it; that script ignores `U` blocks, which is why it did not catch this. The source spreadsheet needs this edit too.
+
+### Plan 23 — Days 166–173 · Analysis of the Heart of the Doctrine (26 Oct–2 Nov)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-166 | 26 Oct (Tue) | 18. Dhammahadayavibhaṅgo | 978–994 |
+| day-167 | 27 Oct (Wed) | 18. Dhammahadayavibhaṅgo | 995–1005 |
+| day-168 | 28 Oct (Thu) | 18. Dhammahadayavibhaṅgo | 1006–1012 |
+| day-169 | 29 Oct (Fri) | 18. Dhammahadayavibhaṅgo | 1013–1019 |
+| day-170 | 30 Oct (Sat) | 18. Dhammahadayavibhaṅgo | 1020–1027 |
+| day-171 | 31 Oct (Sun) | 18. Dhammahadayavibhaṅgo | 1028–1035 |
+| day-172 | 1 Nov (Mon) | 18. Dhammahadayavibhaṅgo | 1036–1040 |
+| day-173 | 2 Nov (Tue) | 18. Dhammahadayavibhaṅgo | 1041–1044 |
+
+### Plan 24 — Days 174–179 · Methodology Matrices + Included/Not-Included (3–8 Nov)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-174 | 3 Nov (Wed) | Mātikā (Nayamātikā–Bāhiramātikā) | 1–5 |
+| day-175 | 4 Nov (Thu) | 1. Saṅgahāsaṅgahapadaniddeso | 6–32 |
+| day-176 | 5 Nov (Fri) | 1. Saṅgahāsaṅgahapadaniddeso | 33–61 |
+| day-177 | 6 Nov (Sat) | 1. Saṅgahāsaṅgahapadaniddeso | 62–97 |
+| day-178 | 7 Nov (Sun) | 1. Saṅgahāsaṅgahapadaniddeso | 98–132 |
+| day-179 | 8 Nov (Mon) | 1. Saṅgahāsaṅgahapadaniddeso | 133–170 |
+
+> ⚙️ **Boundary correction, 2026-11-02 — day-179.** As scheduled, day-179 ended at 167 and day-180 opens the second method at 171, so `^3-168`–`^3-170` sat in no day. All three are real content: 168 (not sense-sphere / unincluded / unsurpassed states), 169 (fine-material, formless, leading-out, fixed, with-conflict states), and 170 (their opposites — not fine-material … without conflict — followed by the chapter colophon `Saṅgahāsaṅgahapadaniddeso paṭhamo.` on the block's last line). Corrected on Evan's direction under the standing 2026-09-09 rule that each day sits inside one chapter: **day-179 is now 133–170** (was 133–167). The source spreadsheet needs this edit too.
+
+### Plan 25 — Days 180–189 · Four Permutations of Included/Not-Included (9–18 Nov)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-180 | 9 Nov (Tue) | 2. Saṅgahitenaasaṅgahitapadaniddeso | 171–173 |
+| day-181 | 10 Nov (Wed) | 3. Asaṅgahitenasaṅgahitapadaniddeso | 179–190 |
+| day-182 | 11 Nov (Thu) | 4. Saṅgahitenasaṅgahitapadaniddeso | 191–192 |
+| day-183 | 12 Nov (Fri) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 193–216 |
+| day-184 | 13 Nov (Sat) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 217–244 |
+| day-185 | 14 Nov (Sun) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 245–284 |
+| day-186 | 15 Nov (Mon) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 285–318 |
+| day-187 | 16 Nov (Tue) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 319–352 |
+| day-188 | 17 Nov (Wed) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 353–378 |
+| day-189 | 18 Nov (Thu) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 379–405 |
+
+### Plan 26 — Days 190–193 · Associated/Dissociated with Included/Not-Included (19–22 Nov)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-190 | 19 Nov (Fri) | 11. Saṅgahitenasampayuttavippayuttapadaniddeso | 409–416 |
+| day-191 | 20 Nov (Sat) | 12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso | 417–446 |
+| day-192 | 21 Nov (Sun) | 13. Asaṅgahitenasampayuttavippayuttapadaniddeso | 448–455 |
+| day-193 | 22 Nov (Mon) | 14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso | 456–469 |
+
+### Plan 27 — Days 194–195 · Heptad of Contact etc. (23–24 Nov)
+
+| Day | Date | Section | Verses |
+|---|---|---|---|
+| day-194 | 23 Nov (Tue) | Phassādisattakaṃ | 472–500 |
+| day-195 | 24 Nov (Wed) | Phassādisattakaṃ | 501–518 |

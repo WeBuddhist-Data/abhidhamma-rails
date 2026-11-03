@@ -270,7 +270,7 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 
 ## Known §1/§5 ↔ §4 wording divergences (Book II)
 
-`en-vibhanga-ai.md` was drafted against a termbase that was never committed, and three of its renderings differ both from the BB-curated track termbase and from rows locked above. **§1/§5 keep the locked rendering; §4 stays verbatim from the translation.** Both sides are individually correct, so these are not day-file bugs — but they are reader-visible, and the clean fix is to revise the *translation* rather than bend §1 away from a locked term.
+`en-vibhanga-ai.md` was drafted against `AI_translation/english/pi-2-english-termbase-plain.md`, and several of its renderings differ from that termbase, from the BB-curated track termbase, and from rows locked above. **§1/§5 keep the locked rendering; §4 stays verbatim from the translation.** Both sides are individually correct, so these are not day-file bugs — but they are reader-visible, and the clean fix is to revise the *translation* rather than bend §1 away from a locked term.
 
 | Pāli | Locked here (used in §1/§5) | `en-vibhanga-ai.md` (appears in §4) | Seen in |
 |---|---|---|---|
@@ -278,5 +278,350 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | vitakka / vicāra | _thinking_ / _holding the thought_ (day-013) | "applied and sustained thought" | day-082 §1 vs §4 |
 | sekha / asekha | _learner_ / _adept_ (day-071) | "one still in training" / "one beyond training" | day-082 §1 vs §4 |
 | samāpatti | — (not yet locked) | "absorption" | day-079 §4 |
+| cetanā | _volition_ (day-079) | "volition" — **agrees** | day-079 §1, §5 |
 
-Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation to BB or record a deliberate override; until then, do not change §1/§5 to match §4.
+Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation or record a deliberate override; until then, do not change §1/§5 to match §4.
+
+**Correction (2026-07-31) — chronology, and which file is authoritative.** This table was first written against the BB-curated track termbase, on the belief that the termbase `en-vibhanga-ai.md` was drafted against had never been committed. It had been: `AI_translation/english/pi-2-english-termbase-plain.md` (commit fe5eaea). A first correction then over-swung, treating that file as the authority — which inverts the real order:
+
+| Termbase | First committed |
+|---|---|
+| `en-Contemporary-English-Abhidhamma/termbase.md` (BB-curated) | **2026-05-17** |
+| `Daily-Tipitaka/en/termbase.md` (this file) | **2026-05-20** |
+| `AI_translation/.../pi-2-english-termbase-plain.md` | **2026-07-30** |
+
+The May files are the established lock, with 82 published day files behind them; the July file is the newcomer. Against that:
+
+| Pāli | this file / BB (May) | pipeline (July) | text in `en-vibhanga-ai.md` | outlier |
+|---|---|---|---|---|
+| hetu | root | root | "root-cause" (64×) | the text |
+| samāpatti | — / attainment | attainment | "absorption" (17×) | the text |
+| vitakka / vicāra | thinking / holding the thought | thought / examination | "applied and sustained thought" (11×) | the text (all three differ) |
+| cetanā | **volition** | intention | "volition" (16×) | **the pipeline termbase** |
+
+So *cetanā* needs no action here: _volition_ was BB-locked on 17 May, this file follows it, and day-079 §5 publishes it. The July termbase is what diverges.
+
+**Root cause, fixed upstream.** `AI_translation/skills/termbase-builder.md` had no instruction to seed from termbases the project had already locked, so run on Book II it re-derived terminology settled in May and diverged where a second reading was defensible. A seeding step has been added to that skill; later books should inherit these locks rather than re-decide them.
+
+## Reviewer ruling — *pīti* is not "zest" (2026-07-31)
+
+The BB-curated track termbase (`../../Translations/en-Contemporary-English-Abhidhamma/termbase.md`) renders `pīti` as **_zest_**. Evan has ruled that wrong. Three renderings were in play:
+
+| Source | Rendering |
+|---|---|
+| BB-curated track termbase (17 May) | _zest_ ← **ruled out** |
+| Daily Tipitaka plan termbase, row below (day-076) | _rapture_ (also _joy_) |
+| `en-dhammasangani-ai.md` (Book I, v.1596) | "rapture" |
+| `en-vibhanga-ai.md` (Book II, v.77) | "joy" |
+
+**Standing rendering: _rapture_, with _joy_ acceptable where the surrounding sentence reads better for it** — which is what the existing plan-termbase row already says, and what days 076 and 084 publish. No published day needs changing.
+
+Two follow-ups for the human contributor, since neither is the skill's to do:
+1. The BB row itself still says "zest" and should be corrected at source, or explicitly marked superseded — otherwise the next term-lock lookup that reaches step 2 will pick it up again.
+2. This is the second BB row found questionable for the casual register (*cetanā* was confirmed correct; *pīti* was not). Worth a pass over the BB rows the plan actually uses, rather than catching them one at a time.
+
+## Terms added by days 083–087
+
+| Pāli | English | Where | Note | Status |
+|---|---|---|---|---|
+| saññā | _perception_ | day-083 §1, §5 | Day-083 §5 headword. BB-curated and plan termbase agree; reaffirms the day-078 row. | draft |
+| upekkhā | _equanimity_ | day-084 §1, §5 | Day-084 §5 headword. **BB-curated** "equanimity"; plan row already existed. Reaffirmed. | draft |
+| dassana | _seeing_ | day-085 §1, §5 | Day-085 §5 headword. **BB-curated** "seeing". The *dassanena pahātabba* / *bhāvanāya pahātabba* pair (v.78). | draft |
+| saṅkhāra | _formations_ | day-086 §1, §5; day-087 §1 | Day-086 §5 headword. BB row is `<TODO>`; both translations say "formations". Reviewer to fill the BB row. | candidate |
+| cittasampayutta | _associated with mind_ | day-086 §1, §5 | Translation wording (v.92). Why the formations heap is named by mind, not by contact (`vibhanga-atthakatha #^2-141`). | candidate |
+| ācayagāmī / apacayagāmī | _leading to accumulation_ / _leading to dispersal_ | day-087 §1, §5 | Day-087 §5 headword. No row in either termbase; translation wording (v.109). Reviewer to confirm. | candidate |
+| dukamūlaka | _the dyad-rooted section_ | day-086 §1 | Structural marker closing the first of the four *mahāvārā* (`vibhanga-atthakatha #^2-121`). | candidate |
+
+**Note on `bhāvanā`.** Day-085 §1 says "developing" / "development" rather than the plan-termbase lock _cultivation_, because §4 quotes the translation's "abandoned by development" in the same breath and the two reading differently within one screen would confuse more than the term drift does. BB gives "meditation, development (of the eightfold path…)", so "development" is within BB's range. Flagged rather than resolved — if the reviewer prefers _cultivation_ throughout, day-085 §1 needs a small edit.
+
+## Terms added by days 088–093
+
+| Pāli | English | Where | Note | Status |
+|---|---|---|---|---|
+| sekha | _learner_ (one still in training) | day-088 §1, §5 | Day-088 §5 headword. Reaffirms the day-071 row (*asekha* = adept). No BB row; plan lock stands. | candidate |
+| phassa | _contact_ | day-089 §1, §5 | Day-089 §5 headword. **BB-curated** "contact". Why the consciousness heap is "associated with contact" while formations are "associated with mind". | draft |
+| tikamūlaka | _the triad-rooted pass_ | day-090 §1, §5 | Day-090 §5 headword. Second of the four *mahāvārā*; parallel to *dukamūlaka* (day-086). `vibhanga-atthakatha #^2-121`. | candidate |
+| pañhāpucchaka | _the question method_ | day-092 §1, §5 | Day-092 §5 headword. The chapter's third turning. `vibhanga-atthakatha #^2-143`. | candidate |
+| ārammaṇa | _object_ | day-093 §1, §5 | Day-093 §5 headword. **BB-curated** "object". Form is *anārammaṇa* (without object); the four mental heaps always have one. | draft |
+
+## Translation error at `^2-120` — FIXED (2026-07-31)
+
+`en-vibhanga-ai.md` rendered v120's opening as **"A formation is associated with contact."** The Pāli reads `Ekavidhena saṅkhārakkhandho – cittasampayutto` — *associated with **mind***, not contact. This is not a terminology preference; it reverses the point the commentary makes at `^2-141`, that the formations heap is named by mind precisely *because* contact sits inside it (see day-086 §5).
+
+Day-088 §4 quotes the line verbatim, so the error is user-visible. Two consequences:
+- the singular "A formation" is also inconsistent with every neighbouring verse ("Formations is/are…"), which itself wobbles between *is* and *are*;
+- once the translation is corrected, day-088's §4 last entry needs regenerating.
+
+**Fixed.** With Evan's go-ahead the line was corrected in `en-vibhanga-ai.md` to "Formations are associated with mind.", and day-088 §4 was regenerated to match. A sweep of `^2-1` – `^2-153` confirmed this was the only citta-/phassa- confusion in the file.
+
+Still open, same class at larger scale: 24 verses read "Formations is associated…" (not English), and the dropped copulas in the threefold lists ("perception that wholesome"). Both are systematic rewrites of a collaborator's translation, so they wait on the pipeline owner rather than being patched here.
+| āyatana | _base_ | day-094 §1, §5; day-095 §1 | Day-094 §5 headword. **BB-curated** "base" in the translation track termbase — never "sense base". Twelve: six inner doors + the six objects they meet. | draft |
+| anicca | _impermanent_ | day-094 §1, §5 | Adjectival partner to the day-046 row *aniccatā* → "impermanence". Translation v.154 renders the formula "impermanent, suffering, not-self, and subject to change". | draft |
+| anattā | _not-self_ | day-094 §1 | Translation v.154 wording. Not in the track termbase; taken from the published §4 rendering per the term-lock lookup order. | candidate |
+| vipariṇāmadhamma | _subject to change_ | day-094 §1 | Translation v.154 wording, fourth item of the formula. | candidate |
+| dhammāyatana | _the mind-object base_ | day-095 §1, §5 | Track termbase row is `<TODO>`; rendering taken from the published §4 translation of vv. 154–171. Widest of the twelve — subtle matter, mental factors, and the unconstructed element. | candidate |
+| manāyatana | _the mind base_ | day-095 §1, §5 | Track termbase row is `<TODO>`; rendering taken from the published §4 translation of vv. 154–171. | candidate |
+| asaṅkhatā dhātu | _the unconstructed element_ | day-095 §1 | Track termbase has `asaṅkhata` as `<TODO>` and explicitly defers to a reviewer. Rendering taken from the published §4 translation of v. 167. The commentary reads it as a name for *nibbāna*. | candidate |
+| nibbāna | _nibbāna_ (left untranslated) | day-095 §1 | Not in either termbase. Left in Pāli in §1 rather than glossed, since the commentary treats *rāgakkhaya/dosakkhaya/mohakkhaya* as three names for it and any single English gloss would pick a side. | candidate |
+
+### Added 2026-08-05 (days 094–095, Āyatanavibhaṅgo)
+
+Eight rows above. Four are `candidate` because the translation-track termbase carries `<TODO>` for them (`asaṅkhata`, `manāyatana`, `dhammāyatana`) or no row at all (`anattā`, `vipariṇāmadhamma`, `nibbāna`), so the rendering was taken from the published §4 translation rather than from a curated source — step 3 of the term-lock lookup. A reviewer should confirm these before they harden.
+
+`dukkha` and `abyākata` were already locked and were used verbatim: day-094 §1 originally read "painful (*dukkha*)" and was corrected to the locked "suffering". `āyatana` and `anicca` trace to curated sources and are `draft`.
+
+### Added 2026-08-05 (days 096–103, Dhātuvibhaṅgo + Saccavibhaṅgo)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| ariyasacca | _noble truth_ | day-100 §1, §5 | Day-100 §5 headword. Zeroshot §4 v. 189 "noble truth". Commentary: noble because the *ariyā* penetrate them, true because *tacchāviparītabhūta* (`vibhanga-atthakatha #^2-275`). | candidate |
+| assāda | _relishing_ | day-103 §1, §5 | Day-103 §5 headword. Not in either termbase; taken from the practice rail's *assādanavasena … samudayapakkhaṃ bhajati* (`pi-2-practice.md`, Pañhāpucchakaṃ (Sacca)). | candidate |
+| avihiṃsā | _harmlessness_ | day-096 §1 | Zeroshot §4 v. 181. Practice rail glosses it as a name for *karuṇā* (locked day-017 = _compassion_). | candidate |
+| dhātu | _element_ | day-096 §1, §5; day-097 §1; day-098 §1; day-099 §1 | Day-096 §5 headword. Zeroshot §4 vv. 172–188 throughout. Commentary gloss *nijjīvamattassetaṃ adhivacanaṃ* — a word for what has no life in it (`vibhanga-atthakatha #^2-253`). | candidate |
+| nekkhamma | _renunciation_ | day-096 §1 | Zeroshot §4 v. 181. Practice rail: *nekkhammaṃ sabbassāpi kusalassa* — a name for all that is wholesome. | candidate |
+| nirodha | _ending_ | day-101 §1, §5; day-103 §1 | Day-101 §5 headword. Zeroshot §4 v. 204 renders *dukkhanirodha* "the ending of suffering". **Note for reviewer:** the conventional rendering is _cessation_; "ending" is inherited from the zeroshot pass and should be reconciled when the rails pass covers `^2-172`+. | candidate |
+| samudaya | _origin_ | day-100 §1; day-102 §1, §5; day-103 §1 | Day-102 §5 headword. Zeroshot §4 vv. 203, 206–212 "the origin of suffering". | candidate |
+| taṇhā | _craving_ | day-100 §1; day-101 §1, §5; day-102 §1 | Zeroshot §4 vv. 203–204 "craving". Three kinds: *kāma-*, *bhava-*, *vibhava-taṇhā*. | candidate |
+| vitakka | _thought_ | day-097 §1, §5 | Day-097 §5 headword. Zeroshot §4 v. 182 "thought" in the *takko vitakko saṅkappo* string. Distinct from the jhāna-factor sense (applied thought) used in Book I. | candidate |
+
+**Nine rows above, all `candidate`.** Every one was taken from the **zeroshot** §4 rendering (`AI_translation/english/pi-2-english-plain-zeroshot.md`) rather than from a curated source, because the rails pass (`en-vibhanga-ai.md`) stops at `^2-171` and neither termbase carries these terms. Per the zeroshot pipeline's own description it uses no termbase at all, so these renderings carry less authority than a normal step-3 lookup. **A reviewer should confirm all nine before they harden** — `nirodha` most of all.
+
+**Locked rows used verbatim, unchanged:** *vedanā* → feeling (day-081), *hetu* → root / root-cause (day-057, day-081), *kilesa* → defilement (day-064), *byāpāda* → ill will (day-025), *abyākata* → indeterminate (day-026), *kusala* → wholesome, *ārammaṇa* → object (day-093), *mettā* → loving-kindness and *karuṇā* → compassion (day-017), *dukkha* → suffering (day-025), *nibbāna* → left untranslated (day-095), *magga* → path (day-019), *āyatana* → base (day-094).
+
+**One normalisation applied:** zeroshot renders *saṅkhārakkhandha* as "mental formations" in vv. 182 and 184, against the locked day-079 rendering "formations". Both occurrences were corrected in day-097 §4. The other 13 boundary verses in this batch were free of conflicts with locked rows.
+
+### Added 2026-08-24 (days 104–105, Indriyavibhaṅgo)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| domanassindriya | _the faculty of displeasure_ | day-105 §1 | Built on the locked day-025 row *domanassa* → _displeasure_. The one unwholesome faculty of the twenty-two. Zeroshot §4 reads "the faculty of sadness"; normalised — see below. | candidate |
+| inda | _ruler_ | day-104 §5 | Day-104 §5 headword. Not in either termbase; taken from the summary rail's *indaṭṭhaṃ kāretīti indriyaṃ* and the commentary's *indaliṅgaṭṭho … indajuṭṭhaṭṭho* five senses plus *ādhipacca* (`vibhanga-atthakatha #^2-441`, `#^2-445`). Supports the locked *indriya* → _faculty_ (day-035) rather than replacing it. | candidate |
+| lokiya | _mundane_ (on-first-use unwrap: _of this world_) | day-105 §1 | **BB-curated** rendering in the translation track termbase, headword `lokiya`. Counterpart to the locked *lokuttara* → _supramundane_ (day-019, day-030). | draft |
+| missaka | _mixed_ | day-105 §1, §5 | Day-105 §5 headword. Not in either termbase; taken from the commentary's *lokiyalokuttaramissaka* — the nine faculties at work both in the world and beyond it (`vibhanga-atthakatha #^2-452`, `#^2-458`). | candidate |
+| saddhā | _faith_ | day-104 §1, §5 | **BB-curated** rendering in the translation track termbase, headword `saddhā`. Zeroshot §4 reads "confidence"; normalised — see below. | draft |
+| samādhi | _concentration_ | day-104 §1; day-105 §1 | Zeroshot §4 v. 219 "the faculty of concentration"; consistent with the day-019 row *sammāsamādhi* → _Right Concentration_. | candidate |
+
+**Six rows above.** `lokiya` and `saddhā` are `draft` — both trace to the BB-curated translation-track termbase. The other four are `candidate`: `inda` and `missaka` were taken from the commentary via the newly-built Indriyavibhaṅgo rails, `domanassindriya` is a compound built on a locked row, and `samādhi` comes from the zeroshot §4. A reviewer should confirm the four before they harden.
+
+**Locked rows used verbatim, unchanged:** *indriya* → faculty (day-035), *lokuttara* → supramundane (day-019, day-030), *abyākata* → indeterminate (day-026, day-038), *somanassa* → joy (day-028), *domanassa* → displeasure (day-025), *upekkhā* → equanimity (day-084), *sati* → mindfulness (day-069), *vīriya* → energy (day-022), *paññā* → wisdom, *hetu* → root cause (day-057, day-081), *ārammaṇa* → object (day-093), *jīvitindriya* → the life faculty (day-044), *dukkhindriya* → pain faculty (day-035), *anaññātaññassāmītindriya* (day-019) and *aññātāvindriya* (day-035) → as locked.
+
+**Four normalisations applied to §4.** The zeroshot pass conflicts with locked rows at four strings inside this batch's boundary verses: "the faculty of gladness" → _of joy_, "the faculty of sadness" → _of displeasure_, "the faculty of confidence" → _of faith_, and "neutral" → _indeterminate_ (one occurrence in day-104 v. 222, three in day-105 v. 223). All were corrected in §4, following the day-097 precedent recorded above rather than SKILL.md Rule 16, which would leave §4 verbatim and record only. **Reviewer: this batch is the second to normalise rather than record — worth settling which is the standing rule, since the two documents disagree.** All other §4 wording is verbatim from the zeroshot.
+
+### Added 2026-08-24 (days 106–112, Paṭiccasamuppādavibhaṅgo)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| aññamañña | _mutual_ | day-111 §1, §5 | Day-111 §5 headword. The fourth of the four catukkas — each link supporting the other inside one mind-moment (`vibhanga-atthakatha #^2-826`). | candidate |
+| bhava | _becoming_ | day-106 §1; day-109 §1; day-111 §1 | Zeroshot §4 v. 225. Tenth link of the chain. | candidate |
+| chaṭṭhāyatana | _the sixth sense-field_ | day-107 §1; day-111 §1 | Zeroshot §4 v. 243. The Abhidhamma method's one-moment substitute for *saḷāyatana* — see the reviewer note below. | candidate |
+| cittakkhaṇa | _mind-moment_ | day-108 §5 | Day-108 §5 headword. From the commentary's *ekacittakkhaṇika* — the whole twelve-link chain inside one arising of consciousness (`vibhanga-atthakatha #^2-797`, `#^2-805`). | candidate |
+| jarāmaraṇa | _aging and death_ | day-106 §1; day-109 §1 | Zeroshot §4 v. 225. Twelfth link. | candidate |
+| jāti | _birth_ | day-106 §1; day-109 §1 | Zeroshot §4 v. 225. Eleventh link. | candidate |
+| nāmarūpa | _mentality and material form_ (plain-English unwrap: mind and body) | day-106 §1; day-110 §1; day-111 §1 | Zeroshot §4 v. 225. Consistent with the locked *rūpa* → _material form_ (day-038). Long for the casual register — §1 pairs it with the unwrap on first use. | candidate |
+| paccaya | _condition_ | day-106 §1, §5 | Day-106 §5 headword. Commentary: *yaṃ paṭicca phalameti so paccayo*, and *upakārakaṭṭho paccayaṭṭho* — the sense of the word is help (`vibhanga-atthakatha #^2-481`). | candidate |
+| saḷāyatana | _the six sense-fields_ | day-106 §1 | Zeroshot §4 v. 225. Sixth link. See the reviewer note below. | candidate |
+
+**Nine rows above, all `candidate`.** Six were taken from the zeroshot §4 rendering (step 3 of the term-lock lookup) because neither termbase carries them; three (`aññamañña`, `cittakkhaṇa`, `paccaya`) come from the commentary via the newly-built Paṭiccasamuppādavibhaṅgo rails. A reviewer should confirm all nine.
+
+**⚠️ Reviewer: a terminology collision worth settling now.** `āyatana` is locked as _base_ (day-094, Āyatanavibhaṅgo), but the zeroshot renders the compounds *saḷāyatana* and *chaṭṭhāyatana* as "the six sense-fields" and "the sixth sense-field". Both appear in §1 of these days. The same Pāli root is therefore rendered two ways in the journey — _base_ in Book II chapter 2, _sense-field_ in chapter 6. This is not a defect introduced by this batch; it is inherited from the zeroshot. But days 113–118 use these compounds constantly, so it is cheaper to settle it before that batch than after.
+
+**Locked rows used verbatim, unchanged:** *avijjā* → ignorance (day-024), *saṅkhāra* → formations (day-086), *viññāṇa* → consciousness (day-080), *phassa* → contact (day-089), *vedanā* → feeling (day-081), *taṇhā* → craving (day-100), *upādāna* → clinging, *hetu* → root / root-cause (day-057, day-081) — day-109 §5 headword, *sampayutta* → associated with — day-110 §5 headword, *mātikā* → matrix — day-107 §5 headword, *akusala* → unwholesome (day-023) — day-112 §5 headword, *kusala* → wholesome, *rūpa* → material form (day-038).
+
+**No §4 normalisations were needed in this batch.** The fourteen boundary verses printed across days 106–112 were checked against every locked row and carried no conflicting strings — unlike days 096–103 and 104–105.
+
+### Added 2026-08-24 (days 113–118, Paṭiccasamuppādavibhaṅgo, chapter close)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| adhimokkha | _decision_ | day-114 §1 | Zeroshot §4 wording (151 occurrences across vv. 280–354). What fills the clinging slot in a wholesome mind, and in the view-dissociated unwholesome minds (`vibhanga-atthakatha #^2-841`, `#^2-844`). | candidate |
+| pasāda | _confidence_ | day-114 §1, §5 | Day-114 §5 headword. Zeroshot §4 wording (130 occurrences). What fills the craving slot in a wholesome mind (`vibhanga-atthakatha #^2-844`). **Reviewer: keep distinct from the locked *saddhā* → _faith_ (day-104).** The translation-track row for `pasāda` is a bad harvest ("are based on the sensitive matter") and should be replaced. | candidate |
+| upanissaya | _decisive support_ | day-118 §1, §5 | Day-118 §5 headword. Not in either termbase and not in the root text — a commentary term (`vibhanga-atthakatha #^2-850`, `#^2-854`). Rendering is the skill's own; **reviewer to confirm**. | candidate |
+
+**Three rows above, all `candidate`.** `adhimokkha` and `pasāda` come from the zeroshot §4; `upanissaya` is a commentary term with no existing rendering anywhere, so it is a last-resort gloss and needs confirming.
+
+**Locked rows used verbatim, unchanged:** *kusalamūla* → wholesome root and *alobha / adosa / amoha* → non-greed / non-hate / non-delusion (day-055) — day-113 §5 headword; *abyākata* → indeterminate, unwrap "neither wholesome nor unwholesome" (day-026, day-038) — day-115 §5 headword; *vipāka* → resultant / result (day-026) — day-116 §5 headword; *kiriya* → functional, unwrap "mere doing" (day-036) — day-117 §5 headword; *jhāna* → jhāna, Pāli retained with the gloss "meditative absorption" (day-013); *avijjā* → ignorance; *taṇhā* → craving; *upādāna* → clinging; *kusala* → wholesome; *akusala* → unwholesome; *lokuttara* → supramundane, unwrap "above the world".
+
+**One §4 normalisation applied.** The zeroshot renders *abyākata* as "neutral"; the locked row is _indeterminate_. Corrected in the boundary verses of day-115 (v. 306), day-116 (v. 317) and day-117 (v. 328), following the day-097 / day-104 precedent. Days 113, 114 and 118 needed none.
+
+**Chapter 6 is complete.** Days 106–118 cover `Paṭiccasamuppādavibhaṅgo` vv. 225–354 end to end, and both rails now carry all thirteen of its entries, built from `pi-vibhanga-atthakatha.md` ^2-462 – ^2-864. Chapter 7 (`Satipaṭṭhānavibhaṅgo`, days 119–121) had no rail entries at the time of writing; they were built 2026-09-08 — see the next block.
+
+
+### Added 2026-09-08 (days 119–121, Satipaṭṭhānavibhaṅgo, chapter 7)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| satipaṭṭhāna | _foundation of mindfulness_ | day-119 §1, §5 | Day-119 §5 headword. **BB curated** in the translation track termbase, headword `satipaṭṭhāna`; the one-shot §4 agrees ("four foundations of mindfulness", v. 355). Commentary gives three senses — *satigocara*, the teacher's evenness toward three kinds of disciple, and *sati* itself — and takes the third here (`vibhanga-atthakatha #^2-865`, `#^2-866`). | draft |
+| ātāpī | _ardent_ | day-119 §1 | One-shot §4 wording (v. 355 and every repetition of the formula through v. 389). Neither termbase carries it. From *ātāpa*, the energy that burns up the defilements in all three realms (`vibhanga-atthakatha #^2-880`). | candidate |
+| sampajañña | _clear comprehension_; adjectival *sampajāno* → _clearly comprehending_ | day-119 §1 | One-shot §4 wording ("clearly comprehending", v. 355 onward). The translation-track row is `<TODO>`, so this is a step-3 lookup off the §4 text. **Reviewer to confirm.** | candidate |
+| bojjhaṅga / sambojjhaṅga | _awakening factor_ | day-120 §1, §5 | Day-120 §5 headword. One-shot §4 wording (61 occurrences across vv. 367–373). Both `bojjhaṅga` and `dhammavicayasambojjhaṅgo` are `<TODO>` in the translation-track termbase. Commentary lists the arising-conditions for each of the seven (`vibhanga-atthakatha #^2-1068` – `#^2-1112`). | candidate |
+| dhammavicaya | _investigation_ | day-120 §1 | Second of the seven awakening factors, named in §1's list. Track termbase row is `<TODO>`; kept to one word for §1's budget rather than "investigation of phenomena". **Reviewer to confirm** against the locked *dhamma* → _phenomenon_. | candidate |
+| dhammā (as the fourth satipaṭṭhāna) | §1 uses the plain gloss _what passes through the mind_; the locked *dhamma* → _phenomenon_ stands for technical use | day-120 §1 | The one-shot renders the fourth foundation's *dhammā* as "mental objects" throughout vv. 355–389, which collides with the locked *dhamma* row. §4 is left as the translation has it (Rule 16) and §1 uses a plain gloss rather than picking a side. **Reviewer to settle: "phenomena", "mental objects", or "mind-objects" for this compound** — it recurs in every remaining satipaṭṭhāna-shaped chapter. | candidate |
+
+**Six rows above, all `candidate` except `satipaṭṭhāna`,** which comes from the BB-curated track termbase and so lands as `draft`. Four of the remaining five are step-3 lookups off the one-shot §4 (`ātāpī`, `sampajañña`, `bojjhaṅga`, `dhammavicaya`) because both termbases carry `<TODO>`; the `dhammā` row records a collision rather than a rendering.
+
+**Locked rows used verbatim, unchanged:** *sati* → mindfulness (day-069); *nīvaraṇa* → hindrance (day-061); *kāmacchanda* → sense desire (day-012); *abhijjhā* → covetousness (day-024); *domanassa* → displeasure (day-025); *vedanā* → feeling (day-081); *citta* → consciousness / mind in compounds; *vīriya* → energy (day-022); *pīti* → rapture (day-076); *passaddhi* → tranquillity (day-020); *samādhi* → concentration (day-104); *upekkhā* → equanimity (day-084); *khandha* → aggregate, with "heap" allowed as the commentary's own plain image (day-078); *lokuttara* → supramundane, on-first-use unwrap "above the world" (day-019, day-030) — day-121 §5 headword; *nibbāna* → left untranslated (day-095).
+
+**One §4 normalisation applied.** The one-shot renders *domanassa* as "grief"; the locked row is _displeasure_ (day-025). Corrected in the boundary verses of day-119 (vv. 355, 365) and day-120 (vv. 366, 373), following the day-097 / day-104 precedent. Day-121's two boundary verses carry no conflicting string.
+
+**⚠️ Reviewer: *lokuttara* in §4.** v. 389 renders *lokuttarā* as "beyond the world" against the locked _supramundane_, but that line falls in the verse's elided middle and is not printed in day-121. `day-118` §4 (v. 342) does print the same "beyond the world" string, un-normalised. Worth settling whether to backfill day-118 before the reader reaches it.
+
+**§4 source moved.** From day-119 the cited one-shot file is the track-folder copy, `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/pi-2-english-plain-zeroshot.md` (promoted 2026-09-01), rather than `AI_translation/english/pi-2-english-plain-zeroshot.md` as in days 096–118. Same prose, same 1041 anchors; the track copy adds the app's category/text/edition IDs and an `![[…]]` transclusion above each verse, and drops the printed verse number.
+
+**Chapter 7 is complete.** Days 119–121 cover `Satipaṭṭhānavibhaṅgo` vv. 355–389 end to end. Both rails now carry all eight of its entries, built 2026-09-08 from `pi-vibhanga-atthakatha.md` ^2-865 – ^2-1120 — the Vibhaṅga commentary having arrived in this working copy the same day. Rail prose is new and still needs a native Pāli reviewer before these days are published. Chapters 8–10 were built the following day — see the next block.
+
+
+### Added 2026-09-09 (days 122–127, chapters 8–10)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| appamāṇa | _measureless_ | day-127 §1, §5 | Day-127 §5 headword. One-shot §4 wording at v. 484 ("They are measureless"). Neither termbase carries it. The pañhāpucchaka's recurring answer: the awakening factors are measureless and take a measureless object (`vibhanga-atthakatha #^2-1216`). | candidate |
+| iddhipāda | _means to accomplishment_ | day-124 §1, §5; day-125 §1 | Day-124 §5 headword. **BB curated** in the translation-track termbase, headword `iddhipāda`. Commentary keeps both readings — the accomplishment itself (*iddhi eva pādo*) and what one stands on to reach it (*iddhiyā pādo*) — at `#^2-1165`. **See the ⚠️ note below: three renderings are in play.** | draft |
+| padhāna | _exertion_ | day-123 §5 | Day-123 §5 headword. From the root formula's *padahati* (v. 390) and the commentary's *padhānavīriyaṃ karoti* (`#^2-1121`). Not in either termbase. | candidate |
+| sammappadhāna | _right effort_ | day-122 §1, §5; day-123 §1 | Day-122 §5 headword. One-shot §4 wording at v. 390 ("There are four right efforts"). Not in either termbase. **See the ⚠️ note below on the collision with *sammāvāyāma*.** | candidate |
+
+**Four rows above:** `iddhipāda` comes from the BB-curated track termbase and so lands as `draft`; the other three are step-3 lookups off the one-shot §4 because neither termbase carries them.
+
+**Locked rows used verbatim, unchanged:** *chanda* → aspiration (day-022) — normalised into §4, see below; *vīmaṃsā* → investigation (day-022) — day-125 §5 headword; *vīriya* → energy (day-022); *citta* → consciousness / mind in compounds; *sati* → mindfulness (day-069); *pīti* → rapture (day-076) — normalised into §4, see below; *passaddhi* → tranquillity (day-020); *samādhi* → concentration (day-104); *upekkhā* → equanimity (day-084); *somanassa* → joy (day-028); *bojjhaṅga / sambojjhaṅga* → awakening factor (day-120); *khandha* → aggregate, "heap" allowed as the commentary's plain image (day-078); *nibbāna* → left untranslated (day-095).
+
+**Two §4 normalisations applied.** (1) *chanda*: the one-shot renders it "desire"; the locked row is _aspiration_ (day-022). Corrected in the boundary verses of day-122 (v. 390) and day-124 (vv. 431, 446). The distinction matters here — the commentary explicitly rules out *taṇhāchanda* and *diṭṭhichanda* and specifies *kattukamyatākusaladhammacchanda* (`#^2-1123`), which "desire" blurs. (2) *pīti*: the one-shot renders the fifth awakening factor "the awakening factor of joy"; the locked row is _rapture_ (day-076), and "joy" is separately locked to *somanassa* (day-028). Corrected in day-126 (v. 466).
+
+**⚠️ Reviewer: *iddhipāda* has three renderings in play, and none of them is settled.** The BB-curated track termbase says _means to accomplishment_; the one-shot §4 says _basis of success_ (with bare *iddhi* as _success_); the schedule's own Plan 14 heading says _Analysis of the Bases of Power_. §1 and §5 of days 124–125 use the curated rendering. §4 was **left un-normalised**, because there *iddhi* and *iddhipāda* form a matched pair and normalising half of it would break the pair while normalising both is a rewrite, not a substitution. This needs settling before chapter 9 is published, and the chosen rendering should also be pushed back into the schedule's plan heading.
+
+**⚠️ Reviewer: *sammappadhāna* and *sammāvāyāma* both come out as "right effort".** The one-shot uses that string for *sammappadhāna* at v. 390 and again for *sammāvāyāma* inside the standard *vīriya* definition at v. 412 — two different terms, one English phrase, both inside day-122. The track termbase has `sammāvāyāmo` as `<TODO>`, so nothing curated arbitrates. The schedule's Plan 13 heading offers a third option, _Right Strivings_. Days 122–123 use "right effort" for *sammappadhāna* (the §4 wording); a reviewer should decide whether *sammāvāyāma* keeps it and *sammappadhāna* moves, or the reverse.
+
+**⚠️ Reviewer: *dhammavicaya* and *vīmaṃsā* both came out as "investigation".** The day-120 row (added yesterday) renders *dhammavicaya* as _investigation_; the day-022 row renders *vīmaṃsā* the same way. Both terms appear in this batch — *vīmaṃsā* as day-125's §5 headword, *dhammavicaya* as day-126's. To keep them apart, day-126 uses **"investigation of things"** for *dhammavicaya* (which is also the one-shot's §4 wording at v. 466), keeping bare "investigation" for *vīmaṃsā*. Neither locked row was modified. A reviewer should confirm the split, or pick a different rendering for one of the two.
+
+**Chapters 8, 9 and 10 are complete.** Days 122–127 cover `Sammappadhānavibhaṅgo` vv. 390–430, `Iddhipādavibhaṅgo` vv. 431–465 and `Bojjhaṅgavibhaṅgo` vv. 466–485, end to end. Both rails now carry all twelve of their entries, built 2026-09-09 from `pi-vibhanga-atthakatha.md` ^2-1121 – ^2-1219, following the commentary's own three-node structure — the aṭṭhakathā treats the four iddhipādas under one node and says so explicitly (`#^2-1170`), so each rail carries one combined entry per bhājanīya rather than four stubs. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**Two verse ranges were corrected in `schedule.md` on 2026-09-09** (Evan's direction), because `^2-430` and `^2-485` are the closing blocks of chapters 8 and 10 and had been scheduled into the following chapter's first day: day-123 is now 413–430, day-124 is now 431–446, day-127 is now 475–485, day-128 becomes 486–495. These were the only two straddles among the 93 Book II days. The source spreadsheet still carries the old split. Chapter 11 (`Maggaṅgavibhaṅgo`, days 128–129) has no rail entries in this working copy.
+
+### Added 2026-09-17 (days 128–138, chapters 11–13)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| maggaṅga | _path factor_ | day-128 §5, §1 | Day-128 §5 headword. Root text lists the eight; the commentary treats them as the limbs of the *ariyo aṭṭhaṅgiko maggo* (`vibhanga-atthakatha #^2-1220`). One-shot §4 wording "path factor". | candidate |
+| sammādiṭṭhi | _right view_ | day-129 §5; day-128 §1 | Day-129 §5 headword. The first path factor and, per the pañhāpucchaka, the one factor that is a *hetu* (`#^2-1240`). One-shot §4 wording "right view". | candidate |
+| sīla | _moral discipline_ | day-130 §5, §1 | Day-130 §5 headword. The *pubbabhāga* foundation the Jhāna Suttantabhājanīya opens with — sense-restraint, moderation, wakefulness (`#^2-1247`). | candidate |
+| vicikicchā | _doubt_ | day-132 §1 | The fifth hindrance, set down before the first jhāna. One-shot §4 wording "doubt" (v. 557). | candidate |
+| appamaññā | _measureless state_ | day-136 §1; day-137 §5 | Day-137 §5 headword. Chapter 13's four brahmavihāras, "measureless" by boundless pervasion (`#^2-1438`). Aligns with the locked *appamāṇa* → measureless (day-127). | candidate |
+
+**Locked rows used verbatim, unchanged:** *jhāna* → jhāna, Pāli retained with gloss "meditative absorption" (day-013) — day-134 §5 headword; *kusala* → wholesome, *akusala* → unwholesome (day-023); *upekkhā* → equanimity (day-084) — day-133 §5 headword; *pīti* → rapture (day-076) — day-132 §5 headword; *sati* → mindfulness (day-069) — day-131 §5 headword; *mettā* → loving-kindness and *karuṇā* → compassion (day-017) — day-136/day-138 §5 headwords; *muditā* → sympathetic joy (day-017); *magga* → path (day-019); *hetu* → root / root-cause (day-057, day-081); *arūpāvacara* → formless sphere (day-018) — day-135 §5 headword; *rūpāvacara* → fine-material sphere; *kāmāvacara* → sense sphere; *nibbāna* → left untranslated (day-095).
+
+**Chapters 11, 12 and 13 are complete.** Days 128–138 cover `Maggaṅgavibhaṅgo` vv. 486–507, `Jhānavibhaṅgo` vv. 508–641 and `Appamaññāvibhaṅgo` vv. 642–702, end to end. Both rails now carry all nine of their entries (three nodes per chapter), built 2026-09-17 from `pi-vibhanga-atthakatha.md` ^2-1220 – ^2-1453, following the commentary's own three-node structure. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**New §1 convention (Evan's direction, 2026-09-17): §1 no longer names verse numbers**, because the WeBuddhist library uses a different numbering system. Days 128–138 keep verse numbers out of the Today's Chanting Guide entirely (they remain in §4 and §6 for the plan-importer). Earlier days' §1 still name verses.
+
+**⚠️ Reviewer: *sammappadhāna* / *sammāvāyāma* → "right effort" recurs.** The one-shot §4 renders *sammāvāyāma* as "right effort" inside the eightfold/fivefold path lists (vv. 486, 496), the same English it uses for *sammappadhāna* in chapter 8. Left un-normalised, as on days 122–123; a reviewer should settle both.
+
+### Added 2026-09-28 (days 139–143, chapters 14–15)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| attha (in *atthapaṭisambhidā*) | _meaning_ (here: the result, what follows from a cause) | day-142 §5 | Day-142 §5 headword. One-shot §4 wording "analytical knowledge of meaning" (v. 718). Commentary: *saṅkhepato hetuphalaṃ*, five kinds (`vibhanga-atthakatha #^2-1480`). Track termbase row is `<TODO>`. | draft |
+| paṭibhāna | _ready understanding_ | day-143 §1, §5 | Day-143 §5 headword. One-shot §4 wording (v. 718). Commentary: *ñāṇesu ñāṇaṃ*, knows the others' work but cannot do it (`#^2-1486`, `#^2-1498`). | draft |
+| paṭisambhidā | _analytical knowledge_ | day-141 §1, §5 | Day-141 §5 headword. One-shot §4 wording throughout vv. 718–750. Commentary: *ñāṇasseva pabhedā* (`#^2-1479`). **See the ⚠️ note below.** | draft |
+| sikkhāpada | _training rule_ | day-139 §1, §5 | Day-139 §5 headword. One-shot §4 wording throughout vv. 703–717. Commentary: *sikkhānaṃ patiṭṭhānaṭṭhena padaṃ* (`#^2-1454`). **See the ⚠️ note below.** | draft |
+| virati | _abstinence_ | day-140 §1, §5 | Day-140 §5 headword. **BB curated** in the translation-track termbase, headword `virati`. Commentary: the precept in the strict sense (*nippariyāyasikkhāpadaṃ*), against *cetanā* as the precept in the loose sense (`#^2-1456`). | draft |
+
+**Locked rows used verbatim, unchanged:** *kusala* → wholesome; *cetanā* → volition (day-079) — day-140 §1; *vipāka* → resultant / result (day-026) — day-142 §1; *kiriya* → functional (day-036) — day-143 §1; *nibbāna* → left untranslated (day-095). The day-130 *sīla* row (moral discipline) was not needed: this chapter's own word is *sikkhāpada*.
+
+**Chapters 14 and 15 are complete.** Days 139–143 cover `Sikkhāpadavibhaṅgo` vv. 703–717 and `Paṭisambhidāvibhaṅgo` vv. 718–750, end to end. Both rails now carry their entries, built 2026-09-28 from `pi-vibhanga-atthakatha.md` ^2-1454 – ^2-1509 — two nodes for Sikkhāpada, because the commentary (like the root text) gives it no Suttantabhājanīya, and three for Paṭisambhidā. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**⚠️ Reviewer: the schedule's plan headings disagree with §4 for both chapters.** Plan 19 says "Analysis of the Training Precepts" and Plan 20 says "Analysis of the Discriminations"; the one-shot says "training rules" and "analytical knowledges" throughout. §1 and §5 follow §4. This is the same pattern as *iddhipāda* (Plan 14). Settle the rendering and push it back into `schedule.md` and the source spreadsheet.
+
+**⚠️ Reviewer: *dhamma* in *dhammapaṭisambhidā* is "principles" in §4.** That is right for this chapter, where *dhamma* means cause or condition (`#^2-1481`), but it sits beside the locked technical row *dhamma* → phenomenon. §1 day-141 uses "principles" only in English, inside the name of the knowledge, and does not add a row.
+
+### Added 2026-09-29 (days 144–152, chapter 16)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| adhimutti | _inclination_ | day-151 §1, §5 | Day-151 §5 headword. One-shot §4 wording (v. 813, v. 818). The fifth power; *ajjhāsayadhātu* draws like to like (`vibhanga-atthakatha #^2-1699`). | draft |
+| anusaya | _underlying tendency_ | day-152 §1, §5 | Day-152 §5 headword. One-shot §4 wording (v. 816), the seven named. Neither termbase carries it. | draft |
+| bala | _power_ (in *tathāgatabala*: _Tathāgata-power_) | day-146 §1, §5 | Day-146 §5 headword. **BB curated** in the translation-track termbase. Commentary: *akampiyaṭṭhena upatthambhakaṭṭhena* (`#^2-1519`). | draft |
+| kammassakatā (*kammassakatañāṇa*) | _knowledge that action is one's own_ (heading: _owning one's actions_) | day-145 §1, §5; day-149 §1 | Day-145 §5 headword. One-shot §4 wording (v. 754, v. 793). Commentary `#^2-1584`. | draft |
+| kosalla | _skill_ (*āya-*, *apāya-*, *upāya-*: _in gain, in loss, in means_) | day-148 §1, §5 | Day-148 §5 headword. One-shot §4 wording (v. 771). Commentary `#^2-1582`. | draft |
+| ñāṇavatthu | _ground of knowledge_ | day-144 §1, §5 | Day-144 §5 headword. One-shot §4 wording throughout vv. 751–760. Commentary: *ñāṇañca taṃ vatthu ca … sampattīnaṃ* (`#^2-1511`). | draft |
+| nibbidā | _disenchantment_ | day-149 §1, §5 | Day-149 §5 headword. One-shot §4 wording (v. 798). | draft |
+| paññā | _wisdom_ | day-144 §1; day-147 §1, §5 | Day-147 §5 headword. **BB curated** in the translation-track termbase; no plan row until now. | draft |
+| paṭipadā | _mode of practice_ (the four: difficult/easy × slow/quick) | day-150 §1, §5 | Day-150 §5 headword. One-shot §4 wording (v. 801). Commentary `#^2-1593`. | draft |
+
+**Locked rows used verbatim, unchanged:** *indriya* → faculty (day-035); *āsava* → taint (day-058) — day-147, day-152 §1; *viññāṇa* → consciousness (day-080); *nibbāna* → left untranslated (day-095). *ñāṇa* is used in §1 as plain "knowledge" with no row of its own.
+
+**Chapter 16 is complete.** Days 144–152 cover `Ñāṇavibhaṅgo` vv. 751–831, end to end. Both rails now carry its eleven entries (chapter intro plus ten nodes), built 2026-09-29 from `pi-vibhanga-atthakatha.md` ^2-1510 – ^2-1738, following the commentary's own structure rather than the root text's one-heading-per-mātikā layout. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**Schedule correction, 2026-09-29:** `^2-831` (the tenth power plus the chapter colophon) sat in no day; day-152 is now 816–831. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.
+
+**⚠️ Reviewer: *āsava* is "mental taint" in the one-shot §4**, where the locked row is _taint_. Left as the translation has it; §1 uses the locked form.
+
+
+### Added 2026-10-12 (days 153–165, chapter 17)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| agati | _going astray_ | day-160 §1, §5 | Day-160 §5 headword. One-shot §4 wording (v. 939 range, "four ways of going astray"). Commentary's judge example (`vibhanga-atthakatha #^2-1875`). | draft |
+| agārava | _disrespect_ | day-161 §1, §5 | Day-161 §5 headword. One-shot §4 wording ("six kinds of disrespect"). Commentary `#^2-1900`. | draft |
+| aggi | _fire_ (*rāgaggi* etc.: _the fire of lust / hate / delusion_) | day-157 §1, §5 | Day-157 §5 headword. One-shot §4 wording (`^2-U5`, "the fire of lust, the fire of hate, the fire of delusion"). Commentary: *anudahanaṭṭhena aggi* (`#^2-1863`). *rāga* stays "lust" as in §4; the locked _greed_ row is for *lobha*. | draft |
+| dovacassatā | _being hard to correct_ | day-156 §1, §5 | Day-156 §5 headword. One-shot §4 wording (v. 901). | draft |
+| kusītavatthu | _ground of laziness_ | day-162 §1, §5 | Day-162 §5 headword. One-shot §4 wording (v. 953). Commentary: *‘handāhaṃ nipajjāmī’ti osīdanaṃ* (`#^2-1911`). | draft |
+| lokadhamma | _worldly condition_ (the eight) | day-163 §1, §5 | Day-163 §5 headword. One-shot §4 wording (v. 954). Commentary: *buddhānampi honti eva* (`#^2-1913`). | draft |
+| mada | _intoxication_ (pride that makes the mind drunk) | day-153 §1, §5 | Day-153 §5 headword. One-shot §4 wording throughout vv. 832–845. Commentary: *majjanākārappavatto māno* (`#^2-1740`). | draft |
+| māna | _conceit_ (three shapes: _"I am better / equal / worse"_) | day-154 §1, §5; day-155 §1; day-162 §1 | Day-154 §5 headword. One-shot §4 wording (vv. 866–884). Already the rendering inside the locked *anusaya* list (day-152). | draft |
+| micchāñāṇa | _wrong knowledge_ | day-164 §1, §5 | Day-164 §5 headword. One-shot §4 wording (v. 970, the ten wrongnesses). Commentary `#^2-1925`. | draft |
+| pamāda | _heedlessness_ | day-153 §1; day-158 §1, §5 | Day-158 §5 headword. One-shot §4 wording (v. 846, v. 928). Commentary: the chameleon simile (`#^2-1762`). | draft |
+| papañca | _proliferation_ (plain unwrap: _endless mental chatter_) | day-161 §1 | One-shot §4 wording (v. 946, "delight in proliferation"). Neither termbase carries it. | candidate |
+| taṇhāvicarita | _wandering of craving_ | day-164 §1; day-165 §1, §5 | Day-165 §5 headword. One-shot §4 wording (vv. 842, 973–976). | draft |
+| upanāha | _resentment_ | day-155 §1, §5 | Day-155 §5 headword. One-shot §4 wording (v. 891). ⚠️ The one-shot also renders *āghāta* (in *āghātavatthu*, vv. 960, 967) as "resentment"; day-163/164 §1 follow §4 there. Two Pāli terms now share one English word — reviewer may want *āghāta* → _ill-will / grudge_ in a later pass. | draft |
+| upārambha | _fault-finding_ | day-159 §1, §5 | Day-159 §5 headword. One-shot §4 wording (`^2-U24` range, "a fault-finding mind"). Commentary: the tailor simile (`#^2-1870`). | draft |
+
+**Locked rows used verbatim, unchanged:** *kilesa* → defilement; *āsava* → taint (day-157, day-159 §1; the one-shot says "mental taint"); *upādāna* → clinging; *anusaya* → underlying tendency; *saṃyojana* → fetter; *nīvaraṇa* → hindrance; *jhāna* (Pāli retained, gloss _meditative absorption_); *nibbāna* (untranslated); *taṇhā* → craving.
+
+**Chapter 17 is complete.** Days 153–165 cover `Khuddakavatthuvibhaṅgo` vv. 832–977 plus the unnumbered blocks `^2-U1`–`U72`. Both rails now carry its thirteen entries (chapter intro plus twelve nodes), built 2026-10-12 from `pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942. Rail prose still needs a native Pāli reviewer.
+
+**Schedule correction, 2026-10-12:** 18 unnumbered blocks fell between days; days 157–161 now end on `^2-U7`, `U23`, `U39`, `U59`, `U68`. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.
+
+
+### Added 2026-10-23 (days 166–173, chapter 18)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| apariyāpanna | _not included_ (in any world); opposite *pariyāpanna* → _included_ | day-167 §1, §5 | Day-167 §5 headword. One-shot §4 wording (vv. 997–1005). Commentary: *bhavavasena okāsavasena ca paricchinnā / aparicchinnā* (`vibhanga-atthakatha #^2-1946`). Track termbase has `apariyāpanna` as `<TODO>`. | draft |
+| arūpadhātu | _immaterial element_ (plain unwrap: _the formless world_) | day-167 §1; day-169 §1 | One-shot §4 wording (v. 995, v. 1018). ⚠️ The locked *arūpāvacara* row is _formless sphere_; §1 uses "formless world" only as the plain unwrap. | draft |
+| asaññasatta | _non-percipient being_ | day-169 §1 | One-shot §4 says "non-percipient gods" (v. 1017, v. 1027). Commentary `#^2-1957`. | draft |
+| dāna | _giving_ | day-170 §1 | One-shot §4 wording (v. 1021, "having given gifts"). Neither termbase carries it. | candidate |
+| deva | _god_ (three kinds: _by convention_, _by rebirth_, _by purity_) | day-170 §1, §5 | One-shot §4 wording (v. 1021). Commentary `#^2-1948`. | draft |
+| kāmadhātu | _sense-pleasure element_ (plain unwrap: _the world of the five senses_) | day-166 §1 | One-shot §4 wording (vv. 991–1014). ⚠️ The locked *kāmāvacara* row is _sense sphere_ — different Pāli word, so no conflict, but the two read close. | draft |
+| kappa | _eon_ (plain unwrap: _world-age_) | day-170 §1; day-171 §1 | One-shot §4 wording (vv. 1024–1028). | draft |
+| koṭṭhāsa | _portion_ | day-166 §5 | Day-166 §5 headword. Commentary: *khandhādīnaṃ dvādasannaṃ koṭṭhāsānaṃ vasena* (`#^2-1943`). Not in either termbase; "portion" follows day-009's §5 heading ("Analyzing by Portion"). | candidate |
+| ñāṇasampayutta | _associated with knowledge_ | day-169 §1, §5 | Day-169 §5 headword. One-shot §4 wording (vv. 1012–1013). | draft |
+| pariññā | _full understanding_ (three: knowing, weighing up, abandoning) | day-173 §5 | Day-173 §5 headword. One-shot §4 "fully understood" (v. 1031). Commentary: *ñātatīraṇapahānapariññā* (`#^2-1964`). | draft |
+| rūpadhātu | _material-form element_ | day-166 §1 | One-shot §4 wording (vv. 993–994). Track termbase `<TODO>`; consolidated glossary leaves it untranslated. ⚠️ Locked *rūpāvacara* is _fine-material sphere_. | candidate |
+| upapatti | _rebirth_ (*upapattikkhaṇa*: _moment of rebirth_) | day-168 §1, §5; day-169 §1 | Day-168 §5 headword. One-shot §4 wording (vv. 1007–1019). Kept distinct from locked *paṭisandhi* → _rebirth-linking_. | draft |
+| uposatha | _observance day_ | day-170 §1, §5 | One-shot §4 wording (v. 1021). Commentary: *aṭṭhaṅgasamannāgataṃ uposathaṃ upavasitvā* (`#^2-1949`). | draft |
+| visuddhideva | _god by purity_ (= the arahants) | day-170 §5 | Day-170 §5 headword. One-shot §4 wording (v. 1021). Commentary: *sabbesaṃ devānaṃ pūjārahā sabbakilesavisuddhiyā devā* (`#^2-1948`). | draft |
+
+**Locked rows used verbatim, unchanged:** *khandha* → aggregate; *āyatana* → base (the one-shot says "sense-field"); *dhātu* → element; *indriya* → faculty; *dukkha* → suffering; *samudaya* → origin; *nirodha* → ending; *magga* → path; *alobha / adosa / amoha* → non-greed / non-hate / non-delusion; *sīla* → moral discipline; *jhāna* (meditative absorption); *kāmāvacara* → sense sphere; *rūpāvacara* → fine-material sphere; *arūpāvacara* → formless sphere (the one-shot says "immaterial sphere"); *asaṅkhatā dhātu* → the unconstructed element (the one-shot says "unconditioned element"); *arahant* (a fully freed one); *paññā* → wisdom; *sampayutta* → associated with; *bhava* → becoming (the one-shot v. 1029 says "existence"); *ārammaṇa* → object; *pamāda* → heedlessness; *kusala / akusala / abyākata* → wholesome / unwholesome / indeterminate; *vipāka* → result; *vitakka* → thought; *diṭṭha-suta-muta-viññāta* → seen, heard, sensed, cognized (the one-shot says "known"); *lokiya* → mundane; *lokuttara* → supramundane (the one-shot says "beyond the world").
+
+**Chapter 18 and Book II are complete.** Days 166–173 cover `Dhammahadayavibhaṅgo` vv. 978–1044, the last chapter of the Vibhaṅga. Both rails now carry its nine entries (chapter intro plus six commentary nodes, one with two sub-nodes), built 2026-10-23 from `pi-vibhanga-atthakatha.md` ^2-1943 – ^2-1967. Rail prose still needs a native Pāli reviewer.
+
+
+### Added 2026-11-02 (days 174–179, Book III: Uddeso + first method)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| asaṅgaha | _exclusion_ (*asaṅgahita*: _excluded_; §1 plain wording: _left out_) | day-174 §1; day-175 §1, §5 | Seeded-pass termbase `asaṅgaho` → exclusion. Opposite of *saṅgaha*; commentary: *tappaṭipakkhena asaṅgaho* (`dhatukatha-atthakatha #^3-8`). | draft |
+| asaṅkhata | _the unconstructed_ (= *nibbāna*) | day-175 §1; day-178 §1; day-179 §1, §5 | Day-179 §5 headword. Extends the locked *asaṅkhatā dhātu* → _the unconstructed element_ (day-095). ⚠️ The seeded pass says "the unconditioned"; normalised to "the unconstructed" in §4 of days 175–179. Commentary: *asaṅkhataṃ dhammāyatanaṃ nāma nibbānaṃ, tañca khandhasaṅgahaṃ na gacchati* (`#^3-12`). | draft |
+| Dhātukathā | _the Discussion of Elements_ | day-174 §1 | Seeded-pass termbase `Dhātukathā` → Discussion of Elements. Title of Book III. | draft |
+| naya | _method_ (the fourteen methods of the Dhātukathā) | day-174 §1, §5 | Day-174 §5 headword. Seeded-pass termbase `nayo` → method. Mūlaṭīkā: *desanā nīyati… ñāyanti etehi pakārehīti nayā* (`dhatukatha-mulatiika #^3-4`). | draft |
+| paṭiccasamuppāda | _dependent origination_ | day-176 §1; day-177 §1 | Seeded-pass §4 heading "Beginning with Dependent Origination" and v. 2. Neither termbase carried a row, though days 106–118 cover the Vibhaṅga chapter of that name. | candidate |
+| sabhāga / visabhāga | _same kind_ / _different kind_ | day-174 §1; day-175 §5 | Seeded-pass §4 v. 4 ("Same kind, different kind"). Commentary: *sabhāgalakkhaṇehi saṅgahanayo, visabhāgalakkhaṇehi asaṅgahanayo* (`#^3-6`). | draft |
+| saṅgaha | _inclusion_ (*saṅgahita*: _included_); in this book, inclusion by counting (*gaṇanasaṅgaha*) | day-174 §1; day-175 §1, §5 | Day-175 §5 headword. Seeded-pass termbase `saṅgaho` → inclusion. Commentary: of four kinds of *saṅgaha*, *gaṇanasaṅgaho… ayamidha adhippeto* (`#^3-8`). | draft |
+| sampayoga | _association_ (arising and ending together in one mind) | day-174 §1 | Seeded-pass termbase `sampayogo` (implied by *vippayogo* → dissociation). Commentary: *ekuppādaekanirodhaekavatthukaekārammaṇatāvasena sampayogo* (`#^3-8`). Consistent with locked *sampayutta* → _associated with_. | draft |
+| soka | _sorrow_ (with *parideva* → _lamentation_, *upāyāsa* → _despair_) | day-177 §1, §5 | Day-177 §5 headword. Seeded-pass §4 v. 72 and termbase (`paridevo`, `upāyāso`). Commentary sorts them: *sokadukkhadomanassāni vedanākkhandhena, paridevo rūpakkhandhena, upāyāsādayo saṅkhārakkhandhena* (`#^3-17`). | draft |
+
+**Locked rows used verbatim, unchanged:** *khandha* → aggregate; *āyatana* → base (the seeded pass says "sense bases" — normalised in §4, since the row says "never sense base"); *dhātu* → element; *mātikā* → matrix; *jīvitindriya* → the life faculty (day-044); *avijjā* → ignorance; *kusala / akusala / abyākata* → wholesome / unwholesome / indeterminate; *jhāna* (meditative absorption); *lokiya* → mundane; *lokuttara* → supramundane; *parāmāsa* → misapprehension; *kāmāvacara / rūpāvacara / arūpāvacara* → sense sphere / fine-material sphere / formless sphere; *nibbāna* (untranslated).
+
+**Book III opens on new rails and a new translation pass.** Days 174–179 cover the Uddeso (vv. 1–5) and the whole first method, `Saṅgahāsaṅgahapadaniddeso` (vv. 6–170). Both rails (`pi-3-summaries.md`, `pi-3-practice.md`) were built 2026-11-02 from `pi-dhatukatha-atthakatha.md` ^3-1 – ^3-20 and `pi-dhatukatha-mulatiika.md` ^3-4 – ^3-20, and still need a native Pāli reviewer. §4 comes from the seeded rails pass (`AI_translation/english/pi-3-english-plain-seeded.md`, draft, no per-chapter review gate), on Evan's direction.
+
+**⚠️ Reviewer: the seeded pass renders *dhammā* as "states"** throughout, where the locked technical row is _phenomenon_. Left as is in §4. §1 and §5 also say "states" in plural lists ("wholesome states"), following the usage already published in §1/§5 of earlier days; the _phenomenon_ row governs the singular technical sense.
+
+**Schedule correction, 2026-11-02:** `^3-168`–`^3-170` sat in no day; day-179 is now 133–170. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.

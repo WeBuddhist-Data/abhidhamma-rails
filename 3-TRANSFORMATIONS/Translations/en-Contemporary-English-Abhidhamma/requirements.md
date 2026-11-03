@@ -122,13 +122,20 @@ This track is the **single English source for §4 (Reading for Meaning) of every
 | Book | Section | File | Verses | Daily Tipitaka days | Status |
 |---|---|---|---|---|---|
 | I — Dhammasaṅgaṇī | all | `en-dhammasangani-ai.md` | `^1-1` – `^1-1616` | 001–077 | draft |
-| II — Vibhaṅga | 1. Khandhavibhaṅgo | `en-vibhanga-ai.md` | `^2-1` – `^2-153` | 078–094 | draft |
-| II — Vibhaṅga | 2. Āyatanavibhaṅgo onward | **missing** | `^2-154` – `^2-1044` | **095–178** | **not started** |
-| III — Dhātukathā | all | **missing** | — | **179–200** | **not started** |
+| II — Vibhaṅga | 1. Khandhavibhaṅgo | `en-vibhanga-ai.md` | `^2-1` – `^2-153` | 078–093 | draft |
+| II — Vibhaṅga | 2. Āyatanavibhaṅgo | `en-vibhanga-ai.md` | `^2-154` – `^2-171` | 094–095 | draft — awaiting chapter review gate |
+| II — Vibhaṅga | 3. Dhātuvibhaṅgo onward | **missing** | `^2-172` – `^2-1044` | **096–173** | **not started** |
+| III — Dhātukathā | all | **missing** | — | **174–195** | **not started** |
 
-**Blocking dependency.** The Vibhaṅga translation stops at `^2-153`, which is the last verse of day-093 (day-094 carries no verses). **Day-095 is the first day that cannot be built**: it needs `^2-154` – `^2-165` from `Āyatanavibhaṅgo`, which is untranslated. Days 095–200 are blocked on this, i.e. slightly over half the journey.
+**Blocking dependency.** The Vibhaṅga translation now reaches `^2-171`, the last verse of day-095. **Day-096 is the first day that cannot be built**: it needs `^2-172` – `^2-181` from `Dhātuvibhaṅgo`, which has no publication-grade translation yet. Days 096–195 are blocked on this, i.e. slightly over half the journey.
 
-Note that the rails are blocked too, not just the translation: `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` currently cover `Khandhavibhaṅgo` only. Each new vibhaṅga needs its rail entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` before its day files can be composed. Book III needs a root text (`pi-3.md`) and commentary as well — neither is in the vault yet.
+Day numbering note (2026-08-05): the plan's five verse-less rest days were removed and days renumbered contiguously, so the journey is now 195 days and the day numbers in this table are the renumbered ones. Days 001–093 were unaffected. See `../../Plans/Daily-Tipitaka/en/schedule.md` frontmatter.
+
+**A draft exists but must not be used.** `AI_translation/english/pi-2-english-plain-zeroshot.md` covers all of Book II (`^2-0` – `^2-1044`), which makes it tempting. It is a **first draft**, not a deliverable: its own pipeline documents the zeroshot path as using no termbase at all, with `rails-verse-translator` (termbase-locked, one chapter at a time, review gate between chapters) as the publication path. It also diverges in terminology from the rails pass already published in days 078–082 — "aggregate of *material* form" / "*mental* formations" against "aggregate of form" / "formations" — so adopting it would break voice mid-journey and violate §4.1's single-track principle in spirit if not in letter.
+
+Decision, 2026-07-31: **days 095+ wait for the rails pass on each chapter.** What changed with the arrival of `AI_translation/` (commit fe5eaea) is that the pipeline's *intermediates* for chapters 2–18 — keyword map, sense groups, and `pi-2-english-termbase-plain.md` — now exist, so the rails pass is unblocked and only needs running. Generally: never substitute draft-grade material to close a gap in this plan. A missing day is recoverable; a published day in the wrong voice has to be found and redone.
+
+The rails are no longer the binding constraint through day-103: `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` now cover `Khandhavibhaṅgo`, `Āyatanavibhaṅgo`, `Dhātuvibhaṅgo` and `Saccavibhaṅgo` (built 2026-08-05 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`). Chapters 5–18 still need their entries, and all new rail prose still needs a native Pāli reviewer before the days built on it are published. Book III needs a root text (`pi-3.md`) and commentary as well — neither is in this working copy.
 
 ---
 

@@ -1,0 +1,21 @@
+---
+title: Dhātukathāpāḷi
+language: Pali
+script: Roman (PTS diacritics)
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+layer: mula
+source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Dhātukathāpāḷi; 673 segments in source.
+source_filename: book/abh03m.mul.html
+source: "https://tipitaka.org/romn/cscd/abh03m1.mul.xml"
+other_ids:
+  - tipitaka.org: abh03m1
+license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: Us3yilUt8Q4I8m3JuCOhk
+edition_id: ygJ9vnhenIaGvUeIfRJ9i
+toc_id: ad0db1RvZE6VmWDk3j6j3
+---
