@@ -1,0 +1,20 @@
+---
+title: Puggalapaññattipāḷi
+language: Pali
+script: Roman (PTS diacritics)
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+layer: mula
+source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Puggalapaññattipāḷi; 561 segments in source.
+source_filename: book/abh03m.mul.html
+source: "https://tipitaka.org/romn/cscd/abh03m2.mul.xml"
+other_ids:
+  - tipitaka.org: abh03m2
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: leKc1Ei0OBaZN2FNMqlpL
+edition_id: 4bCOP5KnJqlcTxSBZXYA3
+toc_id: Cmp5KOPdf1Q1YOtThwOPM
+---
