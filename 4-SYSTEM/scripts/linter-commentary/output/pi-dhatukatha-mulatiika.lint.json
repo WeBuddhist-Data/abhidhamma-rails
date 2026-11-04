@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Commentaries/pi-dhatukatha-mulatiika.md",
-  "validated_at": "2026-10-27T05:51:52.518603+00:00",
+  "validated_at": "2026-11-04T09:06:12.355973+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -9,7 +9,6 @@
     "translation_of: not set (optional)",
     "commentary_of: 'Us3yilUt8Q4I8m3JuCOhk'",
     "root_text: '1-SOURCES/Text/pi-3.md'",
-    "tag_ids: not set (optional)",
     "source: source = 'https://tipitaka.org/romn/cscd/abh03t.tik.html'",
     "toc: 27 headers found"
   ],
@@ -31,6 +30,8 @@
     "category_id": "MZUUxphQ0yFwLBon3Vng8",
     "license": "cc0",
     "contributions": null,
-    "tag_ids": null
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
   }
 }

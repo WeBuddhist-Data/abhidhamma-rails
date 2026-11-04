@@ -16,7 +16,7 @@ license: cc0
 category_id: MZUUxphQ0yFwLBon3Vng8
 text_id: leKc1Ei0OBaZN2FNMqlpL
 edition_id: 4bCOP5KnJqlcTxSBZXYA3
-toc_id: Cmp5KOPdf1Q1YOtThwOPM
+toc_id: 63qdh0Q1M4VbaPBH0l6mo
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
@@ -27,7 +27,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
 ### Mātikā ^4-M-0
 
-#### Ekakauddeso ^4-M-I-0
+#### Ekakauddeso ^4-M-1-0
 
 Cha paññattiyo – khandhapaññatti, āyatanapaññatti, dhātupaññatti, saccapaññatti, indriyapaññatti, puggalapaññattīti. ^4-M-1
 
@@ -98,7 +98,7 @@ Kittāvatā puggalānaṃ puggalapaññatti?
 (54) Arahattaphalasacchikiriyāya [arahattāya (sī.)] paṭipanno
 Ekakaṃ. ^4-M-7
 
-#### Dukauddeso ^4-M-II-0
+#### Dukauddeso ^4-M-2-0
 
 Dve puggalā –
 (1) Kodhano ca, upanāhī ca.
@@ -129,7 +129,7 @@ Dve puggalā –
 (26) Titto ca, tappetā ca.
 Dukaṃ. ^4-M-8
 
-#### Tikauddeso ^4-M-III-0
+#### Tikauddeso ^4-M-3-0
 
 Tayo puggalā –
 (1) Nirāso, āsaṃso, vigatāso.
@@ -151,7 +151,7 @@ Tayo puggalā –
 (17) Aparepi tayo satthāro.
 Tikaṃ. ^4-M-9
 
-#### Catukkauddeso ^4-M-IV-0
+#### Catukkauddeso ^4-M-4-0
 
 Cattāro puggalā –
 (1) Asappuriso, asappurisena asappurisataro, sappuriso, sappurisena sappurisataro.
@@ -186,7 +186,7 @@ Cattāro puggalā –
 (30) Samaṇamacalo, samaṇapadumo, samaṇapuṇḍarīko, samaṇesu samaṇasukhumālo.
 Catukkaṃ. ^4-M-10
 
-#### Pañcakauddeso ^4-M-V-0
+#### Pañcakauddeso ^4-M-5-0
 
 Pañca puggalā –
 (1) Atthekacco puggalo ārabhati [ārambhati (sī. syā.)] ca vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo ārabhati na vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati vippaṭisārī ca hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati na vippaṭisārī hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti. Atthekacco puggalo nārabhati na vippaṭisārī hoti, tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti, yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti.
@@ -205,32 +205,32 @@ Pañca puggalā –
 (14) Pañca sosānikā.
 Pañcakaṃ. ^4-M-11
 
-#### Chakkauddeso ^4-M-VI-0
+#### Chakkauddeso ^4-M-6-0
 
 Cha puggalā –
 (1) Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhati, tattha ca sabbaññutaṃ pāpuṇāti balesu [phalesu (pī.)] ca vasībhāvaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhati, na ca tattha sabbaññutaṃ pāpuṇāti na ca balesu vasībhāvaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, diṭṭhe ceva dhamme dukkhassantakaro hoti sāvakapāramiñca pāpuṇāti. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, diṭṭheva dhamme dukkhassantakaro hoti, na ca sāvakapāramiṃ pāpuṇāti. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, na ca diṭṭheva dhamme dukkhassantakaro hoti, anāgāmī hoti anāgantā [anāgantvā (syā. ka.) a. ni. 4.171] itthattaṃ. Atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati, na ca diṭṭheva dhamme dukkhassantakaro hoti, āgāmī [sotāpannasakadāgāmī (syā. ka.)] hoti āgantā itthattaṃ.
 Chakkaṃ. ^4-M-12
 
-#### Sattakauddeso ^4-M-VII-0
+#### Sattakauddeso ^4-M-7-0
 
 Satta puggalā –
 (1) Satta udakūpamā puggalā. Sakiṃ nimuggo nimuggova hoti, ummujjitvā nimujjati, ummujjitvā ṭhito hoti, ummujjitvā vipassati viloketi, ummujjitvā patarati, ummujjitvā paṭigādhappatto hoti, ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.
 (2) Ubhatobhāgavimutto, paññāvimutto, kāyasakkhī, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.
 Sattakaṃ. ^4-M-13
 
-#### Aṭṭhakauddeso ^4-M-VIII-0
+#### Aṭṭhakauddeso ^4-M-8-0
 
 Aṭṭha puggalā –
 (1) Cattāro maggasamaṅgino, cattāro phalasamaṅgino puggalā.
 Aṭṭhakaṃ. ^4-M-14
 
-#### Navakauddeso ^4-M-IX-0
+#### Navakauddeso ^4-M-9-0
 
 Nava puggalā –
 (1) Sammāsambuddho, paccekasambuddho, ubhatobhāgavimutto, paññāvimutto, kāyasakkhī, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.
 Navakaṃ. ^4-M-15
 
-#### Dasakauddeso ^4-M-X-0
+#### Dasakauddeso ^4-M-10-0
 
 Dasa puggalā –
 (1) Pañcannaṃ idha niṭṭhā, pañcannaṃ idha vihāya niṭṭhā.

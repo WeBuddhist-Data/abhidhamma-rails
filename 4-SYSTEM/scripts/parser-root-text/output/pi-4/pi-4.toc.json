@@ -5,8 +5,8 @@
         "pi": "Abhidhammapiṭake"
       },
       "span": {
-        "start": 62,
-        "end": 131890
+        "start": 46,
+        "end": 131514
       },
       "subsections": [
         {
@@ -14,8 +14,8 @@
             "pi": "Puggalapaññattipāḷi"
           },
           "span": {
-            "start": 81,
-            "end": 131890
+            "start": 46,
+            "end": 131514
           },
           "subsections": [
             {
@@ -23,8 +23,8 @@
                 "pi": "Mātikā"
               },
               "span": {
-                "start": 87,
-                "end": 12286
+                "start": 46,
+                "end": 12126
               },
               "subsections": [
                 {
@@ -32,8 +32,8 @@
                     "pi": "Ekakauddeso"
                   },
                   "span": {
-                    "start": 98,
-                    "end": 2683
+                    "start": 46,
+                    "end": 2631
                   }
                 },
                 {
@@ -41,8 +41,8 @@
                     "pi": "Dukauddeso"
                   },
                   "span": {
-                    "start": 2693,
-                    "end": 3606
+                    "start": 2631,
+                    "end": 3544
                   }
                 },
                 {
@@ -50,8 +50,8 @@
                     "pi": "Tikauddeso"
                   },
                   "span": {
-                    "start": 3616,
-                    "end": 5113
+                    "start": 3544,
+                    "end": 5041
                   }
                 },
                 {
@@ -59,8 +59,8 @@
                     "pi": "Catukkauddeso"
                   },
                   "span": {
-                    "start": 5126,
-                    "end": 9205
+                    "start": 5041,
+                    "end": 9120
                   }
                 },
                 {
@@ -68,8 +68,8 @@
                     "pi": "Pañcakauddeso"
                   },
                   "span": {
-                    "start": 9218,
-                    "end": 10510
+                    "start": 9120,
+                    "end": 10412
                   }
                 },
                 {
@@ -77,8 +77,8 @@
                     "pi": "Chakkauddeso"
                   },
                   "span": {
-                    "start": 10522,
-                    "end": 11507
+                    "start": 10412,
+                    "end": 11397
                   }
                 },
                 {
@@ -86,8 +86,8 @@
                     "pi": "Sattakauddeso"
                   },
                   "span": {
-                    "start": 11520,
-                    "end": 11895
+                    "start": 11397,
+                    "end": 11772
                   }
                 },
                 {
@@ -95,8 +95,8 @@
                     "pi": "Aṭṭhakauddeso"
                   },
                   "span": {
-                    "start": 11908,
-                    "end": 11991
+                    "start": 11772,
+                    "end": 11855
                   }
                 },
                 {
@@ -104,8 +104,8 @@
                     "pi": "Navakauddeso"
                   },
                   "span": {
-                    "start": 12003,
-                    "end": 12165
+                    "start": 11855,
+                    "end": 12017
                   }
                 },
                 {
@@ -113,8 +113,8 @@
                     "pi": "Dasakauddeso"
                   },
                   "span": {
-                    "start": 12177,
-                    "end": 12286
+                    "start": 12017,
+                    "end": 12126
                   }
                 }
               ]
@@ -124,8 +124,8 @@
                 "pi": "Niddeso"
               },
               "span": {
-                "start": 12293,
-                "end": 131890
+                "start": 12126,
+                "end": 131514
               },
               "subsections": [
                 {
@@ -133,8 +133,8 @@
                     "pi": "Ekakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 12313,
-                    "end": 23154
+                    "start": 12126,
+                    "end": 22967
                   }
                 },
                 {
@@ -142,8 +142,8 @@
                     "pi": "Dukapuggalapaññatti"
                   },
                   "span": {
-                    "start": 23173,
-                    "end": 37714
+                    "start": 22967,
+                    "end": 37508
                   }
                 },
                 {
@@ -151,8 +151,8 @@
                     "pi": "Tikapuggalapaññatti"
                   },
                   "span": {
-                    "start": 37733,
-                    "end": 62114
+                    "start": 37508,
+                    "end": 61889
                   }
                 },
                 {
@@ -160,8 +160,8 @@
                     "pi": "Catukkapuggalapaññatti"
                   },
                   "span": {
-                    "start": 62136,
-                    "end": 111854
+                    "start": 61889,
+                    "end": 111607
                   }
                 },
                 {
@@ -169,8 +169,8 @@
                     "pi": "Pañcakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 111876,
-                    "end": 124182
+                    "start": 111607,
+                    "end": 123913
                   }
                 },
                 {
@@ -178,8 +178,8 @@
                     "pi": "Chakkapuggalapaññatti"
                   },
                   "span": {
-                    "start": 124203,
-                    "end": 125322
+                    "start": 123913,
+                    "end": 125032
                   }
                 },
                 {
@@ -187,8 +187,8 @@
                     "pi": "Sattakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 125344,
-                    "end": 128821
+                    "start": 125032,
+                    "end": 128509
                   }
                 },
                 {
@@ -196,8 +196,8 @@
                     "pi": "Aṭṭhakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 128843,
-                    "end": 129224
+                    "start": 128509,
+                    "end": 128890
                   }
                 },
                 {
@@ -205,8 +205,8 @@
                     "pi": "Navakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 129245,
-                    "end": 131427
+                    "start": 128890,
+                    "end": 131072
                   }
                 },
                 {
@@ -214,8 +214,8 @@
                     "pi": "Dasakapuggalapaññatti"
                   },
                   "span": {
-                    "start": 131448,
-                    "end": 131890
+                    "start": 131072,
+                    "end": 131514
                   }
                 }
               ]
