@@ -64,7 +64,7 @@ Headings use **sibling position** under their parent, so Dasaka is `^4-2-8-0` al
 ### Outline
 
 - **24 headings**, levels `#` to `####`, each with a `-0` anchor. Every child ID extends its parent's; siblings run 1…n with no gaps.
-- The mātikā (Ekaka … Dasaka uddesa) sits in its own `M` zone with Roman sibling numbers (`^4-M-I-0` …); the niddesas follow as the body.
+- The mātikā (Ekaka … Dasaka uddesa) sits in its own `M` zone with Arabic sibling numbers (`^4-M-1-0` … `^4-M-10-0`; Roman numerals until 2026-11-04) and is parsed as verse; the niddesas follow as the body.
 
 ### Body
 
