@@ -20,9 +20,9 @@ other_ids:
   - tipitaka.org: abh03t (chapter 2 of combined Pañcapakaraṇa-mūlaṭīkā)
 commentary_of: HE6FGm4AAqwlDOTnCT0Yd
 category_id: MZUUxphQ0yFwLBon3Vng8
-text_id: Awq6BwDSyKA3BEvodcEmk
-edition_id: 4rL7eOexrXBXN7UydZNnI
-toc_id: t4pwbvl4zFrGIx3hQe20b
+text_id: kMeYH7MvpJi1D5Szm0Oif
+edition_id: a6z9bxg8efzN2iaM3g2pH
+toc_id: PXR8CvLDN2ZEOBOucK0g0
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
