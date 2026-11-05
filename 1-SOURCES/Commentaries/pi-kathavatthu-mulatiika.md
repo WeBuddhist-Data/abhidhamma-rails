@@ -247,7 +247,7 @@ Paññattānuyogavaṇṇanā niṭṭhitā. ^5-43
 ![[1-SOURCES/Text/pi-5.md#^5-71]]
 ![[1-SOURCES/Text/pi-5.md#^5-72]]
 
-69-72. "Dassento‘tena hi puggalo sandhāvatī’tiādimāhā"ti vuttaṃ, "dassento ‘na vattabbaṃ puggalo sandhāvatī’tiādimāhā"ti pana bhavitabbaṃ, dassetvāti vā vattabbaṃ. ^5-44
+69-72. "Dassento ‘tena hi puggalo sandhāvatī’tiādimāhā"ti vuttaṃ, "dassento ‘na vattabbaṃ puggalo sandhāvatī’tiādimāhā"ti pana bhavitabbaṃ, dassetvāti vā vattabbaṃ. ^5-44
 
 ![[1-SOURCES/Text/pi-5.md#^5-91]]
 
@@ -275,7 +275,7 @@ Gatianuyogavaṇṇanā niṭṭhitā. ^5-48
 
 ![[1-SOURCES/Text/pi-5.md#^5-112]]
 
-112. Idāni…pe… dassetuṃ "yathā rukkha"ntiādimāhāti pubbapakkhaṃ dassetvā uttaramāhāti vuttaṃ hoti. ^5-51
+112. Idāni …pe… dassetuṃ "yathā rukkha"ntiādimāhāti pubbapakkhaṃ dassetvā uttaramāhāti vuttaṃ hoti. ^5-51
 
 ![[1-SOURCES/Text/pi-5.md#^5-115]]
 

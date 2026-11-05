@@ -41,13 +41,13 @@ Tassatthaṃ dīpayissāmi, taṃ suṇātha samāhitāti. ^3-2
 
 ![[1-SOURCES/Text/pi-3.md#^3-1]]
 
-1. Saṅgahoasaṅgahotiādīnañhi vasena idaṃ pakaraṇaṃ cuddasavidhena vibhattanti vuttaṃ. Taṃ sabbampi uddesaniddesato dvidhā ṭhitaṃ. Tattha mātikā uddeso. Sā pañcavidhā – nayamātikā, abbhantaramātikā, nayamukhamātikā, lakkhaṇamātikā, bāhiramātikāti. Tattha saṅgaho asaṅgaho…pe… vippayuttena saṅgahitaṃ asaṅgahitanti – ayaṃ cuddasahi padehi nikkhittā nayamātikā nāma. Ayañhi iminā saṅgahādikena nayena dhātukathā dhammā vibhattāti dassetuṃ ṭhapitattā nayamātikāti vuccati. Etesaṃ padānaṃ mūlabhūtattā mūlamātikātipi vattuṃ vaṭṭati. ^3-3
+1. Saṅgaho asaṅgahotiādīnañhi vasena idaṃ pakaraṇaṃ cuddasavidhena vibhattanti vuttaṃ. Taṃ sabbampi uddesaniddesato dvidhā ṭhitaṃ. Tattha mātikā uddeso. Sā pañcavidhā – nayamātikā, abbhantaramātikā, nayamukhamātikā, lakkhaṇamātikā, bāhiramātikāti. Tattha saṅgaho asaṅgaho…pe… vippayuttena saṅgahitaṃ asaṅgahitanti – ayaṃ cuddasahi padehi nikkhittā nayamātikā nāma. Ayañhi iminā saṅgahādikena nayena dhātukathā dhammā vibhattāti dassetuṃ ṭhapitattā nayamātikāti vuccati. Etesaṃ padānaṃ mūlabhūtattā mūlamātikātipi vattuṃ vaṭṭati. ^3-3
 
 #### Abbhantaramātikāvaṇṇanā ^3-1-2-0
 
 ![[1-SOURCES/Text/pi-3.md#^3-2]]
 
-2. Pañcakkhandhā…pe… manasikāroti ayaṃ pañcavīsādhikena padasatena nikkhittā abbhantaramātikā nāma. Ayañhi "sabbāpi dhammasaṅgaṇī dhātukathāya mātikā"ti evaṃ avatvā saṅgahādinā nayena vibhajitabbe khandhādidhamme sarūpato dassetvā dhātukathāya abbhantareyeva ṭhapitattā abbhantaramātikāti vuccati. Khandhādipadānaṃ dhammasaṅgaṇīmātikāya asaṅgahitattā pakiṇṇakamātikātipi vattuṃ vaṭṭati. ^3-4
+2. Pañcakkhandhā …pe… manasikāroti ayaṃ pañcavīsādhikena padasatena nikkhittā abbhantaramātikā nāma. Ayañhi "sabbāpi dhammasaṅgaṇī dhātukathāya mātikā"ti evaṃ avatvā saṅgahādinā nayena vibhajitabbe khandhādidhamme sarūpato dassetvā dhātukathāya abbhantareyeva ṭhapitattā abbhantaramātikāti vuccati. Khandhādipadānaṃ dhammasaṅgaṇīmātikāya asaṅgahitattā pakiṇṇakamātikātipi vattuṃ vaṭṭati. ^3-4
 
 #### Nayamukhamātikāvaṇṇanā ^3-1-3-0
 
@@ -279,7 +279,7 @@ Dhammāyatanañhi rūpanibbānamissakattā tasmiṃ apariyāpannena viññāṇe
 
 ![[1-SOURCES/Text/pi-3.md#^3-235]]
 
-235. Tīhikhandhehīti saṅkhārakkhandhaṃ ṭhapetvā sesehi. Ekāya dhātuyāti manoviññāṇadhātuyā. Samudayamaggānañhi aññāya dhātuyā sampayogo natthi. Ekena khandhenāti saṅkhārakkhandhena. Ekenāyatanenāti dhammāyatanena. Ekāyadhātuyāti dhammadhātuyā. Etesu hi taṃ saccadvayaṃ kehici sampayuttaṃ. ^3-65
+235. Tīhi khandhehīti saṅkhārakkhandhaṃ ṭhapetvā sesehi. Ekāya dhātuyāti manoviññāṇadhātuyā. Samudayamaggānañhi aññāya dhātuyā sampayogo natthi. Ekena khandhenāti saṅkhārakkhandhena. Ekenāyatanenāti dhammāyatanena. Ekāya dhātuyāti dhammadhātuyā. Etesu hi taṃ saccadvayaṃ kehici sampayuttaṃ. ^3-65
 
 ![[1-SOURCES/Text/pi-3.md#^3-238]]
 

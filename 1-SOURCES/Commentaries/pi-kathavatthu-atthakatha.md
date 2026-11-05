@@ -882,7 +882,7 @@ Vacanasodhanavaṇṇanā niṭṭhitā. ^5-223
 
 ![[1-SOURCES/Text/pi-5.md#^5-296]]
 
-296. Navattabbaṃ "atītaṃ atthi anāgataṃ atthī"ti suttasādhanāya pucchā paravādissa, paṭiññā sakavādissa. Puna attano laddhiṃ nissāya yaṃkiñci, bhikkhave, rūpanti anuyogo paravādisseva. Dutiyanaye pucchā sakavādissa, paṭiññā itarassa. Evaṃ sabbattha pucchā ca paṭiññā ca veditabbā. Yaṃ panetaṃ paravādinā anāgatassa atthibhāvasādhanatthaṃ "nanu vuttaṃ bhagavatā kabaḷīkāre, ce, bhikkhave"ti suttassa pariyosāne atthi tattha āyatiṃ punabbhavābhinibbattītiādi dassitaṃ na taṃ anāgatassa atthibhāvasādhakaṃ. Tañhi hetūnaṃ pariniṭṭhitattā avassaṃ bhāvitaṃ sandhāya tattha vuttaṃ. Ayaṃ suttādhippāyo. Sesaṃ sabbattha uttānatthamevāti. ^5-228
+296. Na vattabbaṃ "atītaṃ atthi anāgataṃ atthī"ti suttasādhanāya pucchā paravādissa, paṭiññā sakavādissa. Puna attano laddhiṃ nissāya yaṃkiñci, bhikkhave, rūpanti anuyogo paravādisseva. Dutiyanaye pucchā sakavādissa, paṭiññā itarassa. Evaṃ sabbattha pucchā ca paṭiññā ca veditabbā. Yaṃ panetaṃ paravādinā anāgatassa atthibhāvasādhanatthaṃ "nanu vuttaṃ bhagavatā kabaḷīkāre, ce, bhikkhave"ti suttassa pariyosāne atthi tattha āyatiṃ punabbhavābhinibbattītiādi dassitaṃ na taṃ anāgatassa atthibhāvasādhakaṃ. Tañhi hetūnaṃ pariniṭṭhitattā avassaṃ bhāvitaṃ sandhāya tattha vuttaṃ. Ayaṃ suttādhippāyo. Sesaṃ sabbattha uttānatthamevāti. ^5-228
 
 Sabbamatthītikathāvaṇṇanā niṭṭhitā. ^5-229
 
@@ -1414,7 +1414,7 @@ Niyāmakathāvaṇṇanā. ^5-375
 ![[1-SOURCES/Text/pi-5.md#^5-432]]
 ![[1-SOURCES/Text/pi-5.md#^5-433]]
 
-432-433. Idāni paṭisambhidākathā nāma hoti. Tattha yesaṃ "yaṃkiñci ariyānaṃ ñāṇaṃ, sabbaṃ lokuttaramevā"ti gahetvā "sabbaṃ ñāṇaṃ paṭisambhidā"ti laddhi, seyyathāpi andhakānaṃ; te sandhāya pucchā sakavādissa, paṭiññā itarassa. Sammutiñāṇapañhesu pathavīkasiṇasammutiyaṃ samāpattiñāṇaṃ sandhāya paṭikkhipati, niruttiñāṇaṃ sandhāya paṭijānāti. Ye keci sammutinti pañhe puthujjane sandhāya paṭikkhipati. Cetopariyāyapañhesu puthujjanassa ñāṇaṃ sandhāya paṭikkhipati, ariyassa ñāṇaṃ sandhāya paṭijānāti. Sabbā paññātipañhesu kasiṇasamāpattipañhaṃ sandhāya paṭikkhipati, lokuttaraṃ sandhāya paṭijānāti. Pathavīkasiṇasamāpattintiādi "yā etesu ettakesu ṭhānesu paññā, kiṃ sabbā sā paṭisambhidā"ti pucchanatthaṃ vuttaṃ. Tenahi sabbaṃ ñāṇanti yasmā sabbā lokuttarapaññā paṭisambhidā, tasmā sabbanti vacanaṃ sāmaññaphalena saddhiṃ patiṭṭhāpetīti. ^5-376
+432-433. Idāni paṭisambhidākathā nāma hoti. Tattha yesaṃ "yaṃkiñci ariyānaṃ ñāṇaṃ, sabbaṃ lokuttaramevā"ti gahetvā "sabbaṃ ñāṇaṃ paṭisambhidā"ti laddhi, seyyathāpi andhakānaṃ; te sandhāya pucchā sakavādissa, paṭiññā itarassa. Sammutiñāṇapañhesu pathavīkasiṇasammutiyaṃ samāpattiñāṇaṃ sandhāya paṭikkhipati, niruttiñāṇaṃ sandhāya paṭijānāti. Ye keci sammutinti pañhe puthujjane sandhāya paṭikkhipati. Cetopariyāyapañhesu puthujjanassa ñāṇaṃ sandhāya paṭikkhipati, ariyassa ñāṇaṃ sandhāya paṭijānāti. Sabbā paññātipañhesu kasiṇasamāpattipañhaṃ sandhāya paṭikkhipati, lokuttaraṃ sandhāya paṭijānāti. Pathavīkasiṇasamāpattintiādi "yā etesu ettakesu ṭhānesu paññā, kiṃ sabbā sā paṭisambhidā"ti pucchanatthaṃ vuttaṃ. Tena hi sabbaṃ ñāṇanti yasmā sabbā lokuttarapaññā paṭisambhidā, tasmā sabbanti vacanaṃ sāmaññaphalena saddhiṃ patiṭṭhāpetīti. ^5-376
 
 Paṭisambhidākathāvaṇṇanā. ^5-377
 
@@ -2953,7 +2953,7 @@ Atthi arahato puññūpacayotikathāvaṇṇanā. ^5-677
 
 ![[1-SOURCES/Text/pi-5.md#^5-782]]
 
-782. Nāhaṃ,bhikkhaveti suttaṃ idaṃ sandhāya vuttaṃ – sañcetanikānaṃ kammānaṃ katānaṃ vipākaṃ apaṭisaṃveditvā avinditvā ananubhavitvā byantībhāvaṃ tesaṃ kammānaṃ parivaṭumaparicchinnabhāvaṃ na vadāmi, tañca kho diṭṭhadhammavedanīyānaṃ diṭṭheva dhamme, na tato paraṃ, upapajjavedanīyānaṃ anantaraṃ upapattiṃ upapajjitvāva na tato paraṃ, aparāpariyavedanīyānaṃ yadā vipākokāsaṃ labhanti, tathārūpe aparāpare vā pariyāye. Evaṃ sabbathāpi saṃsārapavatte sati laddhavipākavāre kamme na vijjateso jagatippadeso, yatthaṭṭhito mucceyya pāpakammāti. Evaṃ sante yadetaṃ "aladdhavipākavārampi kammaṃ avassaṃ arahato paṭisaṃveditabba"nti kappanāvasena "natthi arahato akālamaccū"ti laddhipatiṭṭhāpanaṃ kataṃ, taṃ dukkaṭamevāti. ^5-680
+782. Nāhaṃ, bhikkhaveti suttaṃ idaṃ sandhāya vuttaṃ – sañcetanikānaṃ kammānaṃ katānaṃ vipākaṃ apaṭisaṃveditvā avinditvā ananubhavitvā byantībhāvaṃ tesaṃ kammānaṃ parivaṭumaparicchinnabhāvaṃ na vadāmi, tañca kho diṭṭhadhammavedanīyānaṃ diṭṭheva dhamme, na tato paraṃ, upapajjavedanīyānaṃ anantaraṃ upapattiṃ upapajjitvāva na tato paraṃ, aparāpariyavedanīyānaṃ yadā vipākokāsaṃ labhanti, tathārūpe aparāpare vā pariyāye. Evaṃ sabbathāpi saṃsārapavatte sati laddhavipākavāre kamme na vijjateso jagatippadeso, yatthaṭṭhito mucceyya pāpakammāti. Evaṃ sante yadetaṃ "aladdhavipākavārampi kammaṃ avassaṃ arahato paṭisaṃveditabba"nti kappanāvasena "natthi arahato akālamaccū"ti laddhipatiṭṭhāpanaṃ kataṃ, taṃ dukkaṭamevāti. ^5-680
 
 Natthi arahato akālamaccūtikathāvaṇṇanā. ^5-681
 

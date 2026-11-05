@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 46,
-        "end": 56657
+        "end": 56662
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 46,
-            "end": 56657
+            "end": 56662
           },
           "subsections": [
             {
@@ -89,7 +89,7 @@
               },
               "span": {
                 "start": 15576,
-                "end": 56657
+                "end": 56662
               },
               "subsections": [
                 {
@@ -98,7 +98,7 @@
                   },
                   "span": {
                     "start": 15576,
-                    "end": 19619
+                    "end": 19620
                   },
                   "subsections": [
                     {
@@ -116,7 +116,7 @@
                       },
                       "span": {
                         "start": 16719,
-                        "end": 18027
+                        "end": 18028
                       }
                     },
                     {
@@ -124,8 +124,8 @@
                         "pi": "Paṭiccasamuppādavaṇṇanā"
                       },
                       "span": {
-                        "start": 18027,
-                        "end": 19619
+                        "start": 18028,
+                        "end": 19620
                       }
                     }
                   ]
@@ -135,8 +135,8 @@
                     "pi": "Dutiyanayo saṅgahitenaasaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 19619,
-                    "end": 30036
+                    "start": 19620,
+                    "end": 30038
                   }
                 },
                 {
@@ -144,8 +144,8 @@
                     "pi": "Tatiyanayo asaṅgahitenasaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 30036,
-                    "end": 31956
+                    "start": 30038,
+                    "end": 31959
                   }
                 },
                 {
@@ -153,8 +153,8 @@
                     "pi": "Catutthanayo saṅgahitenasaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 31956,
-                    "end": 34059
+                    "start": 31959,
+                    "end": 34063
                   }
                 },
                 {
@@ -162,8 +162,8 @@
                     "pi": "Pañcamanayo asaṅgahitenaasaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 34059,
-                    "end": 38196
+                    "start": 34063,
+                    "end": 38200
                   }
                 },
                 {
@@ -171,8 +171,8 @@
                     "pi": "Chaṭṭhanayo sampayogavippayogapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 38196,
-                    "end": 48959
+                    "start": 38200,
+                    "end": 48964
                   }
                 },
                 {
@@ -180,8 +180,8 @@
                     "pi": "Sattamanayo sampayuttenavippayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 48959,
-                    "end": 51400
+                    "start": 48964,
+                    "end": 51405
                   }
                 },
                 {
@@ -189,8 +189,8 @@
                     "pi": "Aṭṭhamanayo vippayuttenasampayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 51400,
-                    "end": 51829
+                    "start": 51405,
+                    "end": 51834
                   }
                 },
                 {
@@ -198,8 +198,8 @@
                     "pi": "Navamanayo sampayuttenasampayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 51829,
-                    "end": 53118
+                    "start": 51834,
+                    "end": 53123
                   }
                 },
                 {
@@ -207,8 +207,8 @@
                     "pi": "Dasamanayo vippayuttenavippayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 53118,
-                    "end": 53796
+                    "start": 53123,
+                    "end": 53801
                   }
                 },
                 {
@@ -216,8 +216,8 @@
                     "pi": "Ekādasamanayo saṅgahitenasampayuttavippayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 53796,
-                    "end": 54605
+                    "start": 53801,
+                    "end": 54610
                   }
                 },
                 {
@@ -225,8 +225,8 @@
                     "pi": "Dvādasamanayo sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 54605,
-                    "end": 54853
+                    "start": 54610,
+                    "end": 54858
                   }
                 },
                 {
@@ -234,8 +234,8 @@
                     "pi": "Terasamanayo asaṅgahitenasampayuttavippayuttapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 54853,
-                    "end": 55949
+                    "start": 54858,
+                    "end": 55954
                   }
                 },
                 {
@@ -243,8 +243,8 @@
                     "pi": "Cuddasamanayo vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā"
                   },
                   "span": {
-                    "start": 55949,
-                    "end": 56657
+                    "start": 55954,
+                    "end": 56662
                   }
                 }
               ]

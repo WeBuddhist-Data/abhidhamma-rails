@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 46,
-        "end": 139279
+        "end": 139280
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 46,
-            "end": 139279
+            "end": 139280
           },
           "subsections": [
             {
@@ -24,7 +24,7 @@
               },
               "span": {
                 "start": 307,
-                "end": 8818
+                "end": 8819
               }
             },
             {
@@ -32,8 +32,8 @@
                 "pi": "Niddesavaṇṇanā"
               },
               "span": {
-                "start": 8818,
-                "end": 138696
+                "start": 8819,
+                "end": 138697
               },
               "subsections": [
                 {
@@ -41,8 +41,8 @@
                     "pi": "Ekakaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 8818,
-                    "end": 51167
+                    "start": 8819,
+                    "end": 51168
                   }
                 },
                 {
@@ -50,8 +50,8 @@
                     "pi": "Dukaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 51167,
-                    "end": 56973
+                    "start": 51168,
+                    "end": 56974
                   }
                 },
                 {
@@ -59,8 +59,8 @@
                     "pi": "Tikaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 56973,
-                    "end": 82946
+                    "start": 56974,
+                    "end": 82947
                   }
                 },
                 {
@@ -68,8 +68,8 @@
                     "pi": "Catukkaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 82946,
-                    "end": 125957
+                    "start": 82947,
+                    "end": 125958
                   }
                 },
                 {
@@ -77,8 +77,8 @@
                     "pi": "Pañcakaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 125957,
-                    "end": 133926
+                    "start": 125958,
+                    "end": 133927
                   }
                 },
                 {
@@ -86,8 +86,8 @@
                     "pi": "Chakkaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 133926,
-                    "end": 134431
+                    "start": 133927,
+                    "end": 134432
                   }
                 },
                 {
@@ -95,8 +95,8 @@
                     "pi": "Sattakaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 134431,
-                    "end": 138161
+                    "start": 134432,
+                    "end": 138162
                   }
                 },
                 {
@@ -104,8 +104,8 @@
                     "pi": "Dasakaniddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 138161,
-                    "end": 138696
+                    "start": 138162,
+                    "end": 138697
                   }
                 }
               ]
@@ -115,8 +115,8 @@
                 "pi": "Nigamanakathā"
               },
               "span": {
-                "start": 138696,
-                "end": 139279
+                "start": 138697,
+                "end": 139280
               }
             }
           ]

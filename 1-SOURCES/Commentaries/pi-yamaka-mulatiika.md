@@ -1474,7 +1474,7 @@ Pavattivāravaṇṇanā niṭṭhitā. ^6-67
 
 ![[1-SOURCES/Text/pi-6.md#^6-5-170]]
 
-165-170. Pariññāvāre…pe… tissopettha pariññā labbhantīti ettheva visesanaṃ khandhayamakādīsu sabbakhandhādīnaṃ viya sabbasaccānaṃ apariññeyyatādassanatthaṃ sacchikaraṇabhāvanāvasena imassa vārassa appavattidassanatthañca. Dukkhassa pariññatthaṃ samudayassa ca pahānatthaṃ bhagavati brahmacariyaṃ vussatīti pariññāpahānaṃ saccesu dassetuṃ dukkhe tīraṇapariññā vuttā, na pahānapariññā. Samudaye ca pahānapariññā, na tīraṇapariññā. Ñātapariññā pana sādhāraṇāti ubhayattha vuttā. Maggañāṇañhi dukkhasamudayāni vibhāvetīti ñātapariññā ca hoti, dukkhatīraṇakiccānaṃ nipphādanato tīraṇapariññā ca, samudayassa appavattikaraṇatova pahānapariññā cāti tissopi pariññā maggakkhaṇe eva yojetabbāti. ^6-68
+165-170. Pariññāvāre …pe… tissopettha pariññā labbhantīti ettheva visesanaṃ khandhayamakādīsu sabbakhandhādīnaṃ viya sabbasaccānaṃ apariññeyyatādassanatthaṃ sacchikaraṇabhāvanāvasena imassa vārassa appavattidassanatthañca. Dukkhassa pariññatthaṃ samudayassa ca pahānatthaṃ bhagavati brahmacariyaṃ vussatīti pariññāpahānaṃ saccesu dassetuṃ dukkhe tīraṇapariññā vuttā, na pahānapariññā. Samudaye ca pahānapariññā, na tīraṇapariññā. Ñātapariññā pana sādhāraṇāti ubhayattha vuttā. Maggañāṇañhi dukkhasamudayāni vibhāvetīti ñātapariññā ca hoti, dukkhatīraṇakiccānaṃ nipphādanato tīraṇapariññā ca, samudayassa appavattikaraṇatova pahānapariññā cāti tissopi pariññā maggakkhaṇe eva yojetabbāti. ^6-68
 
 Pariññāvāravaṇṇanā niṭṭhitā. ^6-69
 
