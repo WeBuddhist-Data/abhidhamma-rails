@@ -20,7 +20,7 @@ license: cc0
 category_id: MZUUxphQ0yFwLBon3Vng8
 text_id: XtTiyeogM96K1Chqpbccr
 edition_id: 03TkdCHL1y2qqnI0aVBNG
-toc_id: jHY9LvtNGWKb3xSVcyn14
+toc_id: 82IgaMy2gu4ffh1D2oiMm
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
