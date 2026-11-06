@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "D:/Work/OpenPecha/abhidhamma-rails/3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/pi-5-english-plain.md",
+  "validated_at": "2026-11-06T03:54:36.596930+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-5.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 481 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "Points of Discussion - Plain English"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "HE6FGm4AAqwlDOTnCT0Yd",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "ai",
+        "role": "translator",
+        "id": "Xz6QQW6yYdR111UgnnxJk"
+      }
+    ],
+    "tag_ids": null
+  }
+}

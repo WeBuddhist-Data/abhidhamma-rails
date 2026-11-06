@@ -1,0 +1,148 @@
+### Navamavaggo ^5-17-0
+
+#### (84) 1. Ānisaṃsadassāvīkathā ^5-17-1-0
+
+Ānisaṃsadassāvissa saṃyojanānaṃ pahānanti? Āmantā. Nanu saṅkhāre aniccato manasikaroto saṃyojanā pahīyantīti? Āmantā. Hañci saṅkhāre aniccato manasikaroto saṃyojanā pahīyanti, no ca vata re vattabbe – "ānisaṃsadassāvissa saṃyojanānaṃ pahāna"nti.
+Nanu saṅkhāre dukkhato…pe… rogato… gaṇḍato… sallato… aghato… ābādhato… parato… palokato… ītito… upaddavato… bhayato… upasaggato… calato… pabhaṅguto… addhuvato… atāṇato… aleṇato… asaraṇato… asaraṇībhūtato… rittato… tucchato… suññato… anattato… ādīnavato…pe… vipariṇāmadhammato manasikaroto saṃyojanā pahīyantīti? Āmantā. Hañci saṅkhāre vipariṇāmadhammato manasikaroto saṃyojanā pahīyanti, no ca vata re vattabbe – "ānisaṃsadassāvissa saṃyojanānaṃ pahāna"nti.
+Saṅkhāre ca aniccato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti? Na hevaṃ vattabbe…pe… saṅkhāre ca aniccato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti? Āmantā. Dvinnaṃ phassānaṃ…pe… dvinnaṃ cittānaṃ samodhānaṃ hotīti? Na hevaṃ vattabbe…pe… saṅkhāre ca dukkhato…pe… vipariṇāmadhammato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti? Na hevaṃ vattabbe…pe… saṅkhāre ca vipariṇāmadhammato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti? Āmantā. Dvinnaṃ phassānaṃ…pe… dvinnaṃ cittānaṃ samodhānaṃ hotīti? Na hevaṃ vattabbe…pe…. ^5-547
+
+Na vattabbaṃ – "ānisaṃsadassāvissa saṃyojanānaṃ pahāna"nti? Āmantā. Nanu vuttaṃ bhagavatā – "idha, bhikkhave, bhikkhu nibbāne sukhānupassī viharati sukhasaññī sukhapaṭisaṃvedī, satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno"ti [a. ni. 7.19]! Attheva suttantoti? Āmantā. Tena hi ānisaṃsadassāvissa saṃyojanānaṃ pahānanti.
+Ānisaṃsadassāvīkathā niṭṭhitā. ^5-548
+
+#### Navamavaggo ^5-17-2-0
+
+##### (85) 2. Amatārammaṇakathā ^5-17-2-1-0
+
+Amatārammaṇaṃ saṃyojananti? Āmantā. Amataṃ saṃyojaniyaṃ ganthaniyaṃ oghaniyaṃ yoganiyaṃ nīvaraṇiyaṃ parāmaṭṭhaṃ upādāniyaṃ saṃkilesiyanti? Na hevaṃ vattabbe…pe… nanu amataṃ asaṃyojaniyaṃ aganthaniyaṃ…pe… asaṃkilesiyanti? Āmantā. Hañci amataṃ asaṃyojaniyaṃ…pe… asaṃkilesiyaṃ, no ca vata re vattabbe – "amatārammaṇaṃ saṃyojana"nti.
+Amataṃ ārabbha rāgo uppajjatīti? Āmantā. Amataṃ rāgaṭṭhāniyaṃ rajaniyaṃ kamaniyaṃ madaniyaṃ bandhaniyaṃ mucchaniyanti? Na hevaṃ vattabbe…pe… nanu amataṃ na rāgaṭṭhāniyaṃ na rajaniyaṃ na kamaniyaṃ na madaniyaṃ na bandhaniyaṃ na mucchaniyanti? Āmantā. Hañci amataṃ na rāgaṭṭhāniyaṃ na rajaniyaṃ na kamaniyaṃ na madaniyaṃ na bandhaniyaṃ na mucchaniyaṃ, no ca vata re vattabbe – "amataṃ ārabbha rāgo uppajjatī"ti.
+Amataṃ ārabbha doso uppajjatīti? Āmantā. Amataṃ dosaṭṭhāniyaṃ kopaṭṭhāniyaṃ paṭighaṭṭhāniyanti? Na hevaṃ vattabbe…pe… nanu amataṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyanti? Āmantā. Hañci amataṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyaṃ, no ca vata re vattabbe – "amataṃ ārabbha doso uppajjatī"ti.
+Amataṃ ārabbha moho uppajjatīti? Āmantā. Amataṃ mohaṭṭhāniyaṃ aññāṇakaraṇaṃ acakkhukaraṇaṃ paññānirodhiyaṃ vighātapakkhiyaṃ anibbānasaṃvattaniyanti? Na hevaṃ vattabbe…pe… nanu amataṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ na acakkhukaraṇaṃ paññābuddhiyaṃ avighātapakkhiyaṃ nibbānasaṃvattaniyanti? Āmantā. Hañci amataṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ…pe… nibbānasaṃvattaniyaṃ, no ca vata re vattabbe – "amataṃ ārabbha moho uppajjatī"ti. ^5-549
+
+Rūpaṃ ārabbha saṃyojanā uppajjanti, rūpaṃ saṃyojaniyaṃ ganthaniyaṃ…pe… saṃkilesiyanti? Āmantā. Amataṃ ārabbha saṃyojanā uppajjanti, amataṃ saṃyojaniyaṃ…pe… saṃkilesiyanti? Na hevaṃ vattabbe…pe….
+Rūpaṃ ārabbha rāgo uppajjati, rūpaṃ rāgaṭṭhāniyaṃ rajaniyaṃ kamaniyaṃ madaniyaṃ bandhaniyaṃ mucchaniyanti? Āmantā. Amataṃ ārabbha rāgo uppajjati, amataṃ rāgaṭṭhāniyaṃ…pe… mucchaniyanti? Na hevaṃ vattabbe…pe….
+Rūpaṃ ārabbha doso uppajjati, rūpaṃ dosaṭṭhāniyaṃ kopaṭṭhāniyaṃ paṭighaṭṭhāniyanti? Āmantā. Amataṃ ārabbha doso uppajjati, amataṃ dosaṭṭhāniyaṃ kopaṭṭhāniyaṃ paṭighaṭṭhāniyanti? Na hevaṃ vattabbe…pe….
+Rūpaṃ ārabbha moho uppajjati, rūpaṃ mohaṭṭhāniyaṃ aññāṇakaraṇaṃ…pe… anibbānasaṃvattaniyanti? Āmantā. Amataṃ ārabbha moho uppajjati, amataṃ mohaṭṭhāniyaṃ aññāṇakaraṇaṃ…pe… anibbānasaṃvattaniyanti? Na hevaṃ vattabbe…pe….
+Amataṃ ārabbha saṃyojanā uppajjanti, amataṃ asaṃyojaniyaṃ aganthaniyaṃ anoghaniyaṃ ayoganiyaṃ anīvaraṇiyaṃ aparāmaṭṭhaṃ anupādāniyaṃ asaṃkilesiyanti? Āmantā. Rūpaṃ ārabbha saṃyojanā uppajjanti, rūpaṃ asaṃyojaniyaṃ aganthaniyaṃ…pe… asaṃkilesiyanti? Na hevaṃ vattabbe…pe….
+Amataṃ ārabbha rāgo uppajjati, amataṃ na rāgaṭṭhāniyaṃ na rajaniyaṃ na kamaniyaṃ na madaniyaṃ na bandhaniyaṃ na mucchaniyanti? Āmantā. Rūpaṃ ārabbha rāgo uppajjati, rūpaṃ na rāgaṭṭhāniyaṃ…pe… na mucchaniyanti? Na hevaṃ vattabbe…pe….
+Amataṃ ārabbha doso uppajjati, amataṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyanti? Āmantā. Rūpaṃ ārabbha doso uppajjati, rūpaṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyanti? Na hevaṃ vattabbe…pe….
+Amataṃ ārabbha moho uppajjati, amataṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ…pe… nibbānasaṃvattaniyanti? Āmantā. Rūpaṃ ārabbha moho uppajjati, rūpaṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ…pe… nibbānasaṃvattaniyanti? Na hevaṃ vattabbe…pe…. ^5-550
+
+Na vattabbaṃ – "amatārammaṇaṃ saṃyojana"nti? Āmantā. Nanu vuttaṃ bhagavatā – "nibbānaṃ nibbānato sañjānāti, nibbānaṃ nibbānato sañjānitvā nibbānaṃ maññati, nibbānasmiṃ maññati, nibbānato maññati, nibbānaṃ meti maññati, nibbānaṃ abhinandatī"ti [ma. ni. 1.6]! Attheva suttantoti? Āmantā. Tena hi amatārammaṇaṃ saṃyojananti.
+Amatārammaṇakathā niṭṭhitā. ^5-551
+
+#### Navamavaggo ^5-17-3-0
+
+##### (86) 3. Rūpaṃ sārammaṇantikathā ^5-17-3-1-0
+
+Rūpaṃ sārammaṇanti? Āmantā. Atthi tassa āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhīti? Na hevaṃ vattabbe…pe… nanu natthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Āmantā. Hañci natthi tassa āvaṭṭanā ābhogo…pe… paṇidhi, no ca vata re vattabbe – "rūpaṃ sārammaṇa"nti.
+Phasso sārammaṇo, atthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Āmantā. Rūpaṃ sārammaṇaṃ, atthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Na hevaṃ vattabbe…pe….
+Vedanā…pe… saññā cetanā cittaṃ saddhā vīriyaṃ sati samādhi paññā rāgo doso moho māno diṭṭhi vicikicchā thinaṃ uddhaccaṃ ahirikaṃ…pe… anottappaṃ sārammaṇaṃ, atthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Āmantā. Rūpaṃ sārammaṇaṃ, atthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Na hevaṃ vattabbe…pe….
+Rūpaṃ sārammaṇaṃ, natthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Āmantā. Phasso sārammaṇo, natthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Na hevaṃ vattabbe…pe….
+Rūpaṃ sārammaṇaṃ, natthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Āmantā. Vedanā…pe… anottappaṃ sārammaṇaṃ, natthi tassa āvaṭṭanā ābhogo…pe… paṇidhīti? Na hevaṃ vattabbe…pe…. ^5-552
+
+Na vattabbaṃ – "rūpaṃ sārammaṇa"nti? Āmantā. Nanu rūpaṃ sappaccayanti? Āmantā. Hañci rūpaṃ sappaccayaṃ, tena vata re vattabbe – "rūpaṃ sārammaṇa"nti.
+Rūpaṃ sārammaṇantikathā niṭṭhitā. ^5-553
+
+#### Navamavaggo ^5-17-4-0
+
+##### (87) 4. Anusayā anārammaṇakathā ^5-17-4-1-0
+
+Anusayā anārammaṇāti? Āmantā. Rūpaṃ nibbānaṃ cakkhāyatanaṃ…pe… phoṭṭhabbāyatananti? Na hevaṃ vattabbe…pe….
+Kāmarāgānusayo anārammaṇoti? Āmantā. Kāmarāgo kāmarāgapariyuṭṭhānaṃ kāmarāgasaṃyojanaṃ kāmogho kāmayogo kāmacchandanīvaraṇaṃ anārammaṇanti? Na hevaṃ vattabbe…pe… kāmarāgo kāmarāgapariyuṭṭhānaṃ kāmarāgasaṃyojanaṃ kāmogho kāmayogo kāmacchandanīvaraṇaṃ sārammaṇanti? Āmantā. Kāmarāgānusayo sārammaṇoti? Na hevaṃ vattabbe…pe….
+Kāmarāgānusayo anārammaṇoti? Āmantā. Katamakkhandhapariyāpannoti? Saṅkhārakkhandhapariyāpannoti. Saṅkhārakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe….
+Kāmarāgānusayo saṅkhārakkhandhapariyāpanno anārammaṇoti? Āmantā. Kāmarāgo saṅkhārakkhandhapariyāpanno anārammaṇoti? Na hevaṃ vattabbe…pe… kāmarāgo saṅkhārakkhandhapariyāpanno sārammaṇoti? Āmantā. Kāmarāgānusayo saṅkhārakkhandhapariyāpanno sārammaṇoti? Na hevaṃ vattabbe…pe….
+Kāmarāgānusayo saṅkhārakkhandhapariyāpanno anārammaṇo, kāmarāgo saṅkhārakkhandhapariyāpanno sārammaṇoti? Āmantā. Saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe…. ^5-554
+
+Paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo anārammaṇoti? Āmantā. Avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjāsaṃyojanaṃ avijjānīvaraṇaṃ anārammaṇanti? Na hevaṃ vattabbe…pe… avijjā avijjogho…pe… avijjānīvaraṇaṃ sārammaṇanti? Āmantā. Avijjānusayo sārammaṇoti? Na hevaṃ vattabbe…pe….
+Avijjānusayo anārammaṇoti? Āmantā. Katamakkhandhapariyāpannoti? Saṅkhārakkhandhapariyāpannoti. Saṅkhārakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe….
+Avijjānusayo saṅkhārakkhandhapariyāpanno anārammaṇoti? Āmantā. Avijjā saṅkhārakkhandhapariyāpannā anārammaṇāti? Na hevaṃ vattabbe…pe… avijjā saṅkhārakkhandhapariyāpannā sārammaṇāti? Āmantā. Avijjānusayo saṅkhārakkhandhapariyāpanno sārammaṇoti? Na hevaṃ vattabbe…pe….
+Avijjānusayo saṅkhārakkhandhapariyāpanno anārammaṇo, avijjā saṅkhārakkhandhapariyāpannā sārammaṇāti? Āmantā. Saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe…. ^5-555
+
+Na vattabbaṃ – "anusayā anārammaṇā"ti? Āmantā. Puthujjano kusalābyākate citte vattamāne sānusayoti vattabboti? Āmantā. Atthi tesaṃ anusayānaṃ ārammaṇanti? Na hevaṃ vattabbe…pe… tena hi anusayā anārammaṇāti. Puthujjano kusalābyākate citte vattamāne sarāgoti vattabboti? Āmantā. Atthi tassa rāgassa ārammaṇanti? Na hevaṃ vattabbe…pe…. Tena hi rāgo anārammaṇoti.
+Anusayā anārammaṇātikathā niṭṭhitā. ^5-556
+
+#### Navamavaggo ^5-17-5-0
+
+##### (88) 5. Ñāṇaṃ anārammaṇantikathā ^5-17-5-1-0
+
+Ñāṇaṃ anārammaṇanti? Āmantā. Rūpaṃ nibbānaṃ cakkhāyatanaṃ…pe… phoṭṭhabbāyatananti? Na hevaṃ vattabbe…pe… ñāṇaṃ anārammaṇanti? Āmantā. Paññā paññindriyaṃ paññābalaṃ sammādiṭṭhi dhammavicayasambojjhaṅgo anārammaṇoti? Na hevaṃ vattabbe…pe… paññā paññindriyaṃ paññābalaṃ sammādiṭṭhi dhammavicayasambojjhaṅgo sārammaṇoti? Āmantā. Ñāṇaṃ sārammaṇanti? Na hevaṃ vattabbe…pe….
+Ñāṇaṃ anārammaṇanti? Āmantā. Katamakkhandhapariyāpannanti? Saṅkhārakkhandhapariyāpannanti. Saṅkhārakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho anārammaṇoti? Na hevaṃ vattabbe…pe… ñāṇaṃ saṅkhārakkhandhapariyāpannaṃ anārammaṇanti? Āmantā. Paññā saṅkhārakkhandhapariyāpannā anārammaṇāti? Na hevaṃ vattabbe…pe… paññā saṅkhārakkhandhapariyāpannā sārammaṇāti? Āmantā. Ñāṇaṃ saṅkhārakkhandhapariyāpannaṃ sārammaṇanti? Na hevaṃ vattabbe…pe….
+Ñāṇaṃ saṅkhārakkhandhapariyāpannaṃ anārammaṇaṃ, paññā saṅkhārakkhandhapariyāpannā sārammaṇāti? Āmantā. Saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe… saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Āmantā. Vedanākkhandho saññākkhandho viññāṇakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti? Na hevaṃ vattabbe…pe…. ^5-557
+
+Na vattabbaṃ – "ñāṇaṃ anārammaṇa"nti? Āmantā. Arahā cakkhuviññāṇasamaṅgī ñāṇīti vattabboti? Āmantā. Atthi tassa ñāṇassa ārammaṇanti? Na hevaṃ vattabbe…pe… tena hi ñāṇaṃ anārammaṇanti. Arahā cakkhuviññāṇasamaṅgī paññavāti vattabboti? Āmantā. Atthi tāya paññāya ārammaṇanti? Na hevaṃ vattabbe…pe…. Tena hi paññā anārammaṇāti.
+Ñāṇaṃ anārammaṇantikathā niṭṭhitā. ^5-558
+
+#### Navamavaggo ^5-17-6-0
+
+##### (89) 6. Atītānāgatārammaṇakathā ^5-17-6-1-0
+
+Atītārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Nanu atītārammaṇanti? Āmantā. Hañci atītārammaṇaṃ, no ca vata re vattabbe – "atītārammaṇaṃ cittaṃ anārammaṇa"nti. Atītārammaṇaṃ cittaṃ anārammaṇanti micchā. Hañci vā pana anārammaṇaṃ, no ca vata re vattabbe – "atītārammaṇa"nti. Anārammaṇaṃ atītārammaṇanti micchā.
+Atītārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Nanu atītaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhīti? Āmantā. Hañci atītaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, no ca vata re vattabbe – "atītārammaṇaṃ cittaṃ anārammaṇa"nti. ^5-559
+
+Anāgatārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Nanu anāgatārammaṇanti? Āmantā. Hañci anāgatārammaṇaṃ, no ca vata re vattabbe – "anāgatārammaṇaṃ cittaṃ anārammaṇa"nti. Anāgatārammaṇaṃ cittaṃ anārammaṇanti micchā. Hañci vā pana anārammaṇaṃ, no ca vata re vattabbe – "anāgatārammaṇa"nti. Anārammaṇaṃ anāgatārammaṇanti micchā.
+Anāgatārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Nanu anāgataṃ ārabbha atthi āvaṭṭanā…pe… paṇidhīti? Āmantā. Hañci anāgataṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, no ca vata re vattabbe – "anāgatārammaṇaṃ cittaṃ anārammaṇa"nti.
+Paccuppannaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, paccuppannārammaṇaṃ cittaṃ sārammaṇanti? Āmantā. Atītaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, atītārammaṇaṃ cittaṃ sārammaṇanti? Na hevaṃ vattabbe…pe… paccuppannaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, paccuppannārammaṇaṃ cittaṃ sārammaṇanti? Āmantā. Anāgataṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, anāgatārammaṇaṃ cittaṃ sārammaṇanti? Na hevaṃ vattabbe…pe….
+Atītaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, atītārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Paccuppannaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, paccuppannārammaṇaṃ cittaṃ anārammaṇanti? Na hevaṃ vattabbe…pe….
+Anāgataṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, anāgatārammaṇaṃ cittaṃ anārammaṇanti? Āmantā. Paccuppannaṃ ārabbha atthi āvaṭṭanā…pe… paṇidhi, paccuppannārammaṇaṃ cittaṃ anārammaṇanti? Na hevaṃ vattabbe…pe…. ^5-560
+
+Na vattabbaṃ – "atītānāgatārammaṇaṃ cittaṃ anārammaṇa"nti? Āmantā. Nanu atītānāgataṃ natthīti? Āmantā. Hañci atītānāgataṃ natthi, tena vata re vattabbe – "atītānāgatārammaṇaṃ cittaṃ anārammaṇa"nti…pe….
+Atītānāgatārammaṇakathā niṭṭhitā. ^5-561
+
+#### Navamavaggo ^5-17-7-0
+
+##### (90) 7. Vitakkānupatitakathā ^5-17-7-1-0
+
+Sabbaṃ cittaṃ vitakkānupatitanti? Āmantā. Sabbaṃ cittaṃ vicārānupatitaṃ pītānupatitaṃ sukhānupatitaṃ dukkhānupatitaṃ somanassānupatitaṃ domanassānupatitaṃ upekkhānupatitaṃ saddhānupatitaṃ vīriyānupatitaṃ satānupatitaṃ samādhānupatitaṃ paññānupatitaṃ rāgānupatitaṃ dosānupatitaṃ…pe… anottappānupatitanti? Na hevaṃ vattabbe…pe….
+Sabbaṃ cittaṃ vitakkānupatitanti? Āmantā. Nanu atthi avitakko vicāramatto samādhīti? Āmantā. Hañci atthi avitakko vicāramatto samādhi, no ca vata re vattabbe – "sabbaṃ cittaṃ vitakkānupatita"nti.
+Sabbaṃ cittaṃ vitakkānupatitanti? Āmantā. Nanu atthi avitakko avicāro samādhīti? Āmantā. Hañci atthi avitakko avicāro samādhi, no ca vata re vattabbe – "sabbaṃ cittaṃ vitakkānupatita"nti. Sabbaṃ cittaṃ vitakkānupatitanti? Āmantā. Nanu tayo samādhī vuttā bhagavatā – savitakko savicāro samādhi, avitakko vicāramatto samādhi, avitakko avicāro samādhīti [dī. ni. 3.305, 353]? Āmantā. Hañci tayo samādhī vuttā bhagavatā – savitakko savicāro samādhi, avitakko vicāramatto samādhi, avitakko avicāro samādhi, no ca vata re vattabbe – "sabbaṃ cittaṃ vitakkānupatita"nti.
+Vitakkānupatitakathā niṭṭhitā. ^5-562
+
+#### Navamavaggo ^5-17-8-0
+
+##### (91) 8. Vitakkavipphārasaddakathā ^5-17-8-1-0
+
+Sabbaso vitakkayato vicārayato vitakkavipphāro saddoti? Āmantā. Sabbaso phusayato phassavipphāro saddo, sabbaso vedayato vedanāvipphāro saddo, sabbaso sañjānato saññāvipphāro saddo, sabbaso cetayato cetanāvipphāro saddo, sabbaso cintayato cittavipphāro saddo, sabbaso sarato sativipphāro saddo, sabbaso pajānato paññāvipphāro saddoti? Na hevaṃ vattabbe…pe….
+Sabbaso vitakkayato vicārayato vitakkavipphāro saddoti? Āmantā. Vitakkavipphāro saddo sotaviññeyyo sotasmiṃ paṭihaññati sotassa āpāthaṃ āgacchatīti? Na hevaṃ vattabbe…pe…. Nanu vitakkavipphāro saddo na sotaviññeyyo na sotasmiṃ paṭihaññati na sotassa āpāthaṃ āgacchatīti? Āmantā. Hañci vitakkavipphāro saddo na sotaviññeyyo na sotasmiṃ paṭihaññati na sotassa āpāthaṃ āgacchati, no ca vata re vattabbe – "sabbaso vitakkayato vicārayato vitakkavipphāro saddo"ti.
+Vitakkavipphārasaddakathā niṭṭhitā. ^5-563
+
+#### Navamavaggo ^5-17-9-0
+
+##### (92) 9. Na yathācittassa vācātikathā ^5-17-9-1-0
+
+Na yathācittassa vācāti? Āmantā. Aphassakassa vācā avedanakassa vācā asaññakassa vācā acetanakassa vācā acittakassa vācāti? Na hevaṃ vattabbe…pe… nanu saphassakassa vācā savedanakassa vācā sasaññakassa vācā sacetanakassa vācā sacittakassa vācāti? Āmantā. Hañci saphassakassa vācā…pe… sacittakassa vācā, no ca vata re vattabbe – "na yathācittassa vācā"ti.
+Na yathācittassa vācāti? Āmantā. Anāvaṭṭentassa [anāvaṭṭantassa (pī.), anāvajjantassa (sī. syā. ka.) kathā. 484 passitabbaṃ] vācā…pe… anābhogassa vācā…pe… appaṇidahantassa vācāti? Na hevaṃ vattabbe…pe… nanu āvaṭṭentassa vācā ābhogassa vācā…pe… paṇidahantassa vācāti? Āmantā. Hañci āvaṭṭentassa vācā ābhogassa vācā paṇidahantassa vācā, no ca vata re vattabbe – "na yathācittassa vācā"ti.
+Na yathācittassa vācāti? Āmantā. Nanu vācā cittasamuṭṭhānā cittena sahajātā cittena saha ekuppādāti? Āmantā. Hañci vācā cittasamuṭṭhānā cittena sahajātā cittena saha ekuppādā, no ca vata re vattabbe – "na yathācittassa vācā"ti.
+Na yathācittassa vācāti? Āmantā. Na bhaṇitukāmo bhaṇati, na kathetukāmo katheti, na ālapitukāmo ālapati, na voharitukāmo voharatīti? Na hevaṃ vattabbe…pe… nanu bhaṇitukāmo bhaṇati, kathetukāmo katheti, ālapitukāmo ālapati, voharitukāmo voharatīti? Āmantā. Hañci bhaṇitukāmo bhaṇati, kathetukāmo katheti, ālapitukāmo ālapati, voharitukāmo voharati, no ca vata re vattabbe – "na yathācittassa vācā"ti. ^5-564
+
+Na vattabbaṃ – "na yathācittassa vācā"ti? Āmantā. Nanu atthi koci "aññaṃ bhaṇissāmī"ti aññaṃ bhaṇati, "aññaṃ kathessāmī"ti aññaṃ katheti, "aññaṃ ālapissāmī"ti aññaṃ ālapati, "aññaṃ voharissāmī"ti aññaṃ voharatīti? Āmantā. Hañci atthi koci "aññaṃ bhaṇissāmī"ti aññaṃ bhaṇati,…pe… "aññaṃ voharissāmī"ti aññaṃ voharati, tena vata re vattabbe – "na yathācittassa vācā"ti.
+Na yathācittassa vācātikathā niṭṭhitā. ^5-565
+
+#### Navamavaggo ^5-17-10-0
+
+##### (93) 10. Na yathācittassa kāyakammantikathā ^5-17-10-1-0
+
+Na yathācittassa kāyakammanti? Āmantā. Aphassakassa kāyakammaṃ…pe… acittakassa kāyakammanti? Na hevaṃ vattabbe…pe… nanu saphassakassa kāyakammaṃ…pe… sacittakassa kāyakammanti? Āmantā. Hañci saphassakassa kāyakammaṃ…pe… sacittakassa kāyakammaṃ, no ca vata re vattabbe – "na yathācittassa kāyakamma"nti.
+Na yathācittassa kāyakammanti? Āmantā. Anāvaṭṭentassa kāyakammaṃ…pe… appaṇidahantassa kāyakammanti? Na hevaṃ vattabbe…pe… nanu āvaṭṭentassa kāyakammaṃ…pe… paṇidahantassa kāyakammanti? Āmantā. Hañci āvaṭṭentassa kāyakammaṃ…pe… paṇidahantassa kāyakammaṃ, no ca vata re vattabbe – "na yathācittassa kāyakamma"nti.
+Na yathācittassa kāyakammanti? Āmantā. Nanu kāyakammaṃ cittasamuṭṭhānaṃ cittena sahajātaṃ cittena saha ekuppādanti? Āmantā. Hañci kāyakammaṃ cittasamuṭṭhānaṃ cittena sahajātaṃ cittena saha ekuppādaṃ, no ca vata re vattabbe – "na yathācittassa kāyakamma"nti.
+Na yathācittassa kāyakammanti? Āmantā. Na abhikkamitukāmo abhikkamati, na paṭikkamitukāmo paṭikkamati, na āloketukāmo āloketi, na viloketukāmo viloketi, na samiñjitukāmo samiñjeti, na pasāretukāmo pasāretīti? Na hevaṃ vattabbe…pe…. Nanu abhikkamitukāmo abhikkamati, paṭikkamitukāmo paṭikkamati, āloketukāmo āloketi, viloketukāmo viloketi, samiñjitukāmo samiñjeti, pasāretukāmo pasāretīti? Āmantā. Hañci abhikkamitukāmo abhikkamati…pe… pasāretukāmo pasāreti, no ca vata re vattabbe – "na yathācittassa kāyakamma"nti. ^5-566
+
+Na vattabbaṃ – "na yathācittassa kāyakamma"nti? Āmantā. Nanu atthi koci "aññatra gacchissāmī"ti aññatra gacchati…pe… "aññaṃ pasāressāmī"ti aññaṃ pasāretīti? Āmantā. Hañci atthi koci "aññatra gacchissāmī"ti aññatra gacchati…pe… "aññaṃ pasāressāmī"ti aññaṃ pasāreti, tena vata re vattabbe – "na yathācittassa kāyakamma"nti.
+Na yathācittassa kāyakammantikathā niṭṭhitā. ^5-567
+
+#### Navamavaggo ^5-17-11-0
+
+##### (94) 11. Atītānāgatasamannāgatakathā ^5-17-11-1-0
+
+Atītena samannāgatoti? Āmantā. Nanu atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgatanti? Āmantā. Hañci atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ, no ca vata re vattabbe – "atītena samannāgato"ti.
+Anāgatena samannāgatoti? Āmantā. Nanu anāgataṃ ajātaṃ abhūtaṃ asañjātaṃ anibbattaṃ anabhinibbattaṃ apātubhūtanti? Āmantā. Hañci anāgataṃ ajātaṃ abhūtaṃ asañjātaṃ anibbattaṃ anabhinibbattaṃ apātubhūtaṃ, no ca vata re vattabbe – "anāgatena samannāgato"ti. ^5-568
+
+Atītena rūpakkhandhena samannāgato, anāgatena rūpakkhandhena samannāgato, paccuppannena rūpakkhandhena samannāgatoti? Āmantā. Tīhi rūpakkhandhehi samannāgatoti? Na hevaṃ vattabbe…pe… atītehi pañcahi khandhehi samannāgato, anāgatehi pañcahi khandhehi samannāgato, paccuppannehi pañcahi khandhehi samannāgatoti? Āmantā. Pannarasahi khandhehi samannāgatoti? Na hevaṃ vattabbe…pe….
+Atītena cakkhāyatanena samannāgato, anāgatena cakkhāyatanena samannāgato, paccuppannena cakkhāyatanena samannāgatoti? Āmantā. Tīhi cakkhāyatanehi samannāgatoti? Na hevaṃ vattabbe…pe… atītehi dvādasahi āyatanehi samannāgato, anāgatehi dvādasahi āyatanehi samannāgato, paccuppannehi dvādasahi āyatanehi samannāgatoti? Āmantā. Chattiṃsāyatanehi samannāgatoti? Na hevaṃ vattabbe…pe….
+Atītāya cakkhudhātuyā samannāgato, anāgatāya cakkhudhātuyā samannāgato, paccuppannāya cakkhudhātuyā samannāgatoti? Āmantā. Tīhi cakkhudhātūhi samannāgatoti? Na hevaṃ vattabbe…pe… atītāhi aṭṭhārasahi dhātūhi samannāgato, anāgatāhi aṭṭhārasahi dhātūhi samannāgato, paccuppannāhi aṭṭhārasahi dhātūhi samannāgatoti? Āmantā. Catupaññāsadhātūhi samannāgatoti? Na hevaṃ vattabbe…pe….
+Atītena cakkhundriyena samannāgato, anāgatena cakkhundriyena samannāgato, paccuppannena cakkhundriyena samannāgatoti? Āmantā. Tīhi cakkhundriyehi samannāgatoti? Na hevaṃ vattabbe…pe… atītehi bāvīsatindriyehi samannāgato, anāgatehi bāvīsatindriyehi samannāgato, paccuppannehi bāvīsatindriyehi samannāgatoti? Āmantā. Chasaṭṭhindriyehi samannāgatoti? Na hevaṃ vattabbe…pe…. ^5-569
+
+Na vattabbaṃ – "atītānāgatehi samannāgato"ti? Āmantā. Nanu atthi aṭṭhavimokkhajhāyī catunnaṃ jhānānaṃ nikāmalābhī navannaṃ anupubbavihārasamāpattīnaṃ lābhīti? Āmantā. Hañci atthi aṭṭhavimokkhajhāyī catunnaṃ jhānānaṃ nikāmalābhī navannaṃ anupubbavihārasamāpattīnaṃ lābhī, tena vata re vattabbe – "atītānāgatehi samannāgato"ti.
+Atītānāgatasamannāgatakathā niṭṭhitā.
+Navamavaggo.
+Tassuddānaṃ –
+Ānisaṃsadassāvissa saṃyojanānaṃ pahānaṃ, amatārammaṇaṃ saṃyojanaṃ, rūpaṃ sārammaṇaṃ, anusayā anārammaṇā, evamevaṃ ñāṇaṃ, atītānāgatārammaṇaṃ cittaṃ, sabbaṃ cittaṃ vitakkānupatitaṃ, sabbaso vitakkayato vicārayato vitakkavipphāro saddo, na yathācittassa vācā, tatheva kāyakammaṃ atītānāgatehi samannāgatoti. ^5-570

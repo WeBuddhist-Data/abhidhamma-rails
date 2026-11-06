@@ -1,0 +1,20 @@
+---
+title: Kathāvatthupāḷi
+language: Pali
+script: Roman (PTS diacritics)
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+layer: mula
+source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Kathāvatthupāḷi; 3460 segments in source.
+source_filename: book/abh03m.mul.html
+source: "https://tipitaka.org/romn/cscd/abh03m3.mul.xml"
+other_ids:
+  - tipitaka.org: abh03m3
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: HE6FGm4AAqwlDOTnCT0Yd
+edition_id: WjnE60LMIzQETFlXoh9Hd
+toc_id: 93DloTVF8z7HC7WKkqKxW
+---

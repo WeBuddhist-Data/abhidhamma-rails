@@ -1,0 +1,4783 @@
+{
+  "sections": [
+    {
+      "title": {
+        "en": "In the Abhidhamma Piṭaka"
+      },
+      "span": {
+        "start": 66,
+        "end": 990568
+      },
+      "subsections": [
+        {
+          "title": {
+            "en": "Points of Discussion"
+          },
+          "span": {
+            "start": 66,
+            "end": 990568
+          },
+          "subsections": [
+            {
+              "title": {
+                "en": "Discussion of the Person"
+              },
+              "span": {
+                "start": 66,
+                "end": 129266
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Plain Real Fact"
+                  },
+                  "span": {
+                    "start": 66,
+                    "end": 6556
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Forward and Reverse"
+                      },
+                      "span": {
+                        "start": 66,
+                        "end": 6556
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Plain Real Fact"
+                  },
+                  "span": {
+                    "start": 6556,
+                    "end": 12651
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Reverse and Forward"
+                      },
+                      "span": {
+                        "start": 6556,
+                        "end": 12651
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(a) Real Fact with Regard to Place"
+                  },
+                  "span": {
+                    "start": 12651,
+                    "end": 13510
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Forward and Reverse"
+                      },
+                      "span": {
+                        "start": 12651,
+                        "end": 13510
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(a) Real Fact with Regard to Time"
+                  },
+                  "span": {
+                    "start": 13510,
+                    "end": 14380
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Forward and Reverse"
+                      },
+                      "span": {
+                        "start": 13510,
+                        "end": 14380
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(a) Real Fact with Regard to Parts"
+                  },
+                  "span": {
+                    "start": 14380,
+                    "end": 15254
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Forward and Reverse"
+                      },
+                      "span": {
+                        "start": 14380,
+                        "end": 15254
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(b) Real Fact with Regard to Place"
+                  },
+                  "span": {
+                    "start": 15254,
+                    "end": 16143
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Reverse and Forward"
+                      },
+                      "span": {
+                        "start": 15254,
+                        "end": 16143
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(b) Real Fact with Regard to Time"
+                  },
+                  "span": {
+                    "start": 16143,
+                    "end": 17049
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Reverse and Forward"
+                      },
+                      "span": {
+                        "start": 16143,
+                        "end": 17049
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "(b) Real Fact with Regard to Parts"
+                  },
+                  "span": {
+                    "start": 17049,
+                    "end": 17957
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "Reverse and Forward"
+                      },
+                      "span": {
+                        "start": 17049,
+                        "end": 17957
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "Plain Comparison"
+                  },
+                  "span": {
+                    "start": 17957,
+                    "end": 28592
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Comparison by Analogy"
+                  },
+                  "span": {
+                    "start": 28592,
+                    "end": 44948
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Comparison by the Fourfold Method"
+                  },
+                  "span": {
+                    "start": 44948,
+                    "end": 54011
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of Reasoning by Characteristics"
+                  },
+                  "span": {
+                    "start": 54011,
+                    "end": 54804
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Clarifying the Terms"
+                  },
+                  "span": {
+                    "start": 54804,
+                    "end": 56330
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into Designation"
+                  },
+                  "span": {
+                    "start": 56330,
+                    "end": 62113
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into Passing On"
+                  },
+                  "span": {
+                    "start": 62113,
+                    "end": 72573
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into Derived Designation"
+                  },
+                  "span": {
+                    "start": 72573,
+                    "end": 90708
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into Human Agency"
+                  },
+                  "span": {
+                    "start": 90708,
+                    "end": 105554
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into the Higher Knowledges"
+                  },
+                  "span": {
+                    "start": 105554,
+                    "end": 106920
+                  }
+                },
+                {
+                  "title": {
+                    "en": "15-18. Inquiry into Relatives and So On"
+                  },
+                  "span": {
+                    "start": 106920,
+                    "end": 108964
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into Realization"
+                  },
+                  "span": {
+                    "start": 108964,
+                    "end": 111070
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into the Community"
+                  },
+                  "span": {
+                    "start": 111070,
+                    "end": 111934
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Inquiry into What Shares the Nature of a Real Fact"
+                  },
+                  "span": {
+                    "start": 111934,
+                    "end": 129266
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of Falling Away"
+              },
+              "span": {
+                "start": 129266,
+                "end": 169774
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Falling Away: Argument by Reasoning"
+                  },
+                  "span": {
+                    "start": 129266,
+                    "end": 130651
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Falling Away: Comparison of the Noble Persons"
+                  },
+                  "span": {
+                    "start": 130651,
+                    "end": 163938
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Falling Away: Proof from the Discourses"
+                  },
+                  "span": {
+                    "start": 163938,
+                    "end": 169774
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of the Holy Life"
+              },
+              "span": {
+                "start": 169774,
+                "end": 197724
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Plain Discussion of the Holy Life"
+                  },
+                  "span": {
+                    "start": 169774,
+                    "end": 181484
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of the Holy Life by Comparison"
+                  },
+                  "span": {
+                    "start": 181484,
+                    "end": 186060
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of Part by Part"
+                  },
+                  "span": {
+                    "start": 186060,
+                    "end": 197724
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of Abandoning"
+              },
+              "span": {
+                "start": 197724,
+                "end": 207608
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Discussion without Citing the Discourses"
+                  },
+                  "span": {
+                    "start": 197724,
+                    "end": 204089
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion Citing the Discourses"
+                  },
+                  "span": {
+                    "start": 204089,
+                    "end": 207608
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of \"Everything Exists\""
+              },
+              "span": {
+                "start": 207608,
+                "end": 252792
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Argument by Reasoning"
+                  },
+                  "span": {
+                    "start": 207608,
+                    "end": 208397
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Comparison of Times"
+                  },
+                  "span": {
+                    "start": 208397,
+                    "end": 222861
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Clarification of Statements"
+                  },
+                  "span": {
+                    "start": 222861,
+                    "end": 224521
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of the Past Eye, Visible Form, and So On"
+                  },
+                  "span": {
+                    "start": 224521,
+                    "end": 229388
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of Past Knowledge and So On"
+                  },
+                  "span": {
+                    "start": 229388,
+                    "end": 232275
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of the Arahant and So On"
+                  },
+                  "span": {
+                    "start": 232275,
+                    "end": 239045
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of Past Hands and So On"
+                  },
+                  "span": {
+                    "start": 239045,
+                    "end": 240417
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of the Combination of Past Aggregates and So On"
+                  },
+                  "span": {
+                    "start": 240417,
+                    "end": 242132
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion Clarifying the Terms"
+                  },
+                  "span": {
+                    "start": 242132,
+                    "end": 245776
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Proof from the Discourses"
+                  },
+                  "span": {
+                    "start": 245776,
+                    "end": 252792
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of Past Aggregates and So On"
+              },
+              "span": {
+                "start": 252792,
+                "end": 261698
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Without Proof from the Discourses"
+                  },
+                  "span": {
+                    "start": 252792,
+                    "end": 260611
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Proof from the Discourses"
+                  },
+                  "span": {
+                    "start": 260611,
+                    "end": 261698
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of \"Some of It Exists\""
+              },
+              "span": {
+                "start": 261698,
+                "end": 268000
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "Discussion of Some of the Past and So On"
+                  },
+                  "span": {
+                    "start": 261698,
+                    "end": 265575
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Discussion of Some of the Future and So On"
+                  },
+                  "span": {
+                    "start": 265575,
+                    "end": 268000
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Discussion of the Foundations of Mindfulness"
+              },
+              "span": {
+                "start": 268000,
+                "end": 275103
+              }
+            },
+            {
+              "title": {
+                "en": "Discussion of \"It Exists in a Certain Way\""
+              },
+              "span": {
+                "start": 275103,
+                "end": 283580
+              }
+            },
+            {
+              "title": {
+                "en": "The Second Chapter"
+              },
+              "span": {
+                "start": 283580,
+                "end": 393246
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(10) 1. Discussion of Bringing by Others"
+                  },
+                  "span": {
+                    "start": 283580,
+                    "end": 299509
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 299509,
+                    "end": 314367
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(11) 2. Discussion of Lack of Knowledge"
+                      },
+                      "span": {
+                        "start": 299509,
+                        "end": 314367
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 314367,
+                    "end": 314367
+                  }
+                },
+                {
+                  "title": {
+                    "en": "(12) 3. Discussion of Uncertainty"
+                  },
+                  "span": {
+                    "start": 314367,
+                    "end": 325361
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 325361,
+                    "end": 336356
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(13) 4. Discussion of Being Helped by Others"
+                      },
+                      "span": {
+                        "start": 325361,
+                        "end": 336356
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 336356,
+                    "end": 351061
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(14) 5. Discussion of Verbal Expression"
+                      },
+                      "span": {
+                        "start": 336356,
+                        "end": 351061
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 351061,
+                    "end": 351807
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(15) 6. Discussion of Uttering \"Suffering\""
+                      },
+                      "span": {
+                        "start": 351061,
+                        "end": 351807
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 351807,
+                    "end": 359562
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(16) 7. Discussion of the Duration of Mind"
+                      },
+                      "span": {
+                        "start": 351807,
+                        "end": 359562
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 359562,
+                    "end": 367751
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(17) 8. Discussion of Hot Embers"
+                      },
+                      "span": {
+                        "start": 359562,
+                        "end": 367751
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 367751,
+                    "end": 383212
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(18) 9. Discussion of Gradual Breakthrough"
+                      },
+                      "span": {
+                        "start": 367751,
+                        "end": 383212
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 383212,
+                    "end": 390886
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(19) 10. Discussion of Speech"
+                      },
+                      "span": {
+                        "start": 383212,
+                        "end": 390886
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Second Chapter"
+                  },
+                  "span": {
+                    "start": 390886,
+                    "end": 393246
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(20) 11. Discussion of Cessation"
+                      },
+                      "span": {
+                        "start": 390886,
+                        "end": 393246
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Third Chapter"
+              },
+              "span": {
+                "start": 393246,
+                "end": 456732
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(21) 1. Discussion of the Powers"
+                  },
+                  "span": {
+                    "start": 393246,
+                    "end": 401104
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 401104,
+                    "end": 411102
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(22) 2. Discussion of \"It Is Noble\""
+                      },
+                      "span": {
+                        "start": 401104,
+                        "end": 411102
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 411102,
+                    "end": 415342
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(23) 3. Discussion of Liberation"
+                      },
+                      "span": {
+                        "start": 411102,
+                        "end": 415342
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 415342,
+                    "end": 419517
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(24) 4. Discussion of Becoming Liberated"
+                      },
+                      "span": {
+                        "start": 415342,
+                        "end": 419517
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 419517,
+                    "end": 424279
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(25) 5. Discussion of the Eighth Person"
+                      },
+                      "span": {
+                        "start": 419517,
+                        "end": 424279
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 424279,
+                    "end": 430076
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(26) 6. Discussion of the Faculties of the Eighth Person"
+                      },
+                      "span": {
+                        "start": 424279,
+                        "end": 430076
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 430076,
+                    "end": 433288
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(27) 7. Discussion of the Divine Eye"
+                      },
+                      "span": {
+                        "start": 430076,
+                        "end": 433288
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 433288,
+                    "end": 435403
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(28) 8. Discussion of the divine ear"
+                      },
+                      "span": {
+                        "start": 433288,
+                        "end": 435403
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 435403,
+                    "end": 438852
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(29) 9. Discussion of Knowledge of How Beings Fare According to Their Actions"
+                      },
+                      "span": {
+                        "start": 435403,
+                        "end": 438852
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 438852,
+                    "end": 443029
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(30) 10. Discussion of Restraint"
+                      },
+                      "span": {
+                        "start": 438852,
+                        "end": 443029
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 443029,
+                    "end": 448613
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(31) 11. Discussion of Beings Without Perception"
+                      },
+                      "span": {
+                        "start": 443029,
+                        "end": 448613
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Third Chapter"
+                  },
+                  "span": {
+                    "start": 448613,
+                    "end": 456732
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(32) 12. Discussion of the Base of Neither Perception nor Non-Perception"
+                      },
+                      "span": {
+                        "start": 448613,
+                        "end": 456732
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Fourth Chapter"
+              },
+              "span": {
+                "start": 456732,
+                "end": 510133
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(33) 1. Discussion of Whether a Householder Can Be an Arahant"
+                  },
+                  "span": {
+                    "start": 456732,
+                    "end": 459576
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 459576,
+                    "end": 463353
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(34) 2. Discussion of Rebirth"
+                      },
+                      "span": {
+                        "start": 459576,
+                        "end": 463353
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 463353,
+                    "end": 468449
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(35) 3. Discussion of What Is Free of Taints"
+                      },
+                      "span": {
+                        "start": 463353,
+                        "end": 468449
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 468449,
+                    "end": 476849
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(36) 4. Discussion of Possessing"
+                      },
+                      "span": {
+                        "start": 468449,
+                        "end": 476849
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 476849,
+                    "end": 478124
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(37) 5. Discussion of Possessing Equanimity"
+                      },
+                      "span": {
+                        "start": 476849,
+                        "end": 478124
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 478124,
+                    "end": 482096
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(38) 6. Discussion of Being a Buddha by Awakening"
+                      },
+                      "span": {
+                        "start": 478124,
+                        "end": 482096
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 482096,
+                    "end": 486757
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(39) 7. Discussion of the Marks"
+                      },
+                      "span": {
+                        "start": 482096,
+                        "end": 486757
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 486757,
+                    "end": 493781
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(40) 8. Discussion of Entering the Fixed Course"
+                      },
+                      "span": {
+                        "start": 486757,
+                        "end": 493781
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 493781,
+                    "end": 506973
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(41) 9. Another Discussion of Possessing"
+                      },
+                      "span": {
+                        "start": 493781,
+                        "end": 506973
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourth Chapter"
+                  },
+                  "span": {
+                    "start": 506973,
+                    "end": 510133
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(42) 10. Discussion of Abandoning All Fetters"
+                      },
+                      "span": {
+                        "start": 506973,
+                        "end": 510133
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Fifth Chapter"
+              },
+              "span": {
+                "start": 510133,
+                "end": 535101
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(43) 1. Discussion of Liberation"
+                  },
+                  "span": {
+                    "start": 510133,
+                    "end": 514131
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 514131,
+                    "end": 516816
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(44) 2. Discussion of the Knowledge of an Adept"
+                      },
+                      "span": {
+                        "start": 514131,
+                        "end": 516816
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 516816,
+                    "end": 520783
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(45) 3. Discussion of the Distorted"
+                      },
+                      "span": {
+                        "start": 516816,
+                        "end": 520783
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 520783,
+                    "end": 523965
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(46) 4. Discussion of the Fixed Course"
+                      },
+                      "span": {
+                        "start": 520783,
+                        "end": 523965
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 523965,
+                    "end": 525566
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(47) 5. Discussion of Analytical Knowledge"
+                      },
+                      "span": {
+                        "start": 523965,
+                        "end": 525566
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 525566,
+                    "end": 526960
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(48) 6. Discussion of Conventional Knowledge"
+                      },
+                      "span": {
+                        "start": 525566,
+                        "end": 526960
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 526960,
+                    "end": 529910
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(49) 7. Discussion of Mind as Object"
+                      },
+                      "span": {
+                        "start": 526960,
+                        "end": 529910
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 529910,
+                    "end": 531297
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(50) 8. Discussion of Knowledge of the Future"
+                      },
+                      "span": {
+                        "start": 529910,
+                        "end": 531297
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 531297,
+                    "end": 533206
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(51) 9. Discussion of the Present"
+                      },
+                      "span": {
+                        "start": 531297,
+                        "end": 533206
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifth Chapter"
+                  },
+                  "span": {
+                    "start": 533206,
+                    "end": 535101
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(52) 10. Discussion of Knowledge of the Fruits"
+                      },
+                      "span": {
+                        "start": 533206,
+                        "end": 535101
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Sixth Chapter"
+              },
+              "span": {
+                "start": 535101,
+                "end": 558546
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(53) 1. Discussion of the Fixed Course"
+                  },
+                  "span": {
+                    "start": 535101,
+                    "end": 537974
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 537974,
+                    "end": 542495
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(54) 2. Discussion of Dependent Origination"
+                      },
+                      "span": {
+                        "start": 537974,
+                        "end": 542495
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 542495,
+                    "end": 546213
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(55) 3. Discussion of the Truths"
+                      },
+                      "span": {
+                        "start": 542495,
+                        "end": 546213
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 546213,
+                    "end": 548280
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(56) 4. Discussion of the Formless States"
+                      },
+                      "span": {
+                        "start": 546213,
+                        "end": 548280
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 548280,
+                    "end": 550687
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(57) 5. Discussion of the Attainment of Cessation"
+                      },
+                      "span": {
+                        "start": 548280,
+                        "end": 550687
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 550687,
+                    "end": 552544
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(58) 6. Discussion of Space"
+                      },
+                      "span": {
+                        "start": 550687,
+                        "end": 552544
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 552544,
+                    "end": 553805
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(59) 7. Discussion of Whether Space Is Visible"
+                      },
+                      "span": {
+                        "start": 552544,
+                        "end": 553805
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 553805,
+                    "end": 555733
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(60) 8. Discussion of Whether the Earth Element and the Others Are Visible"
+                      },
+                      "span": {
+                        "start": 553805,
+                        "end": 555733
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 555733,
+                    "end": 556914
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(61) 9. Discussion of Whether the Eye Faculty and the Others Are Visible"
+                      },
+                      "span": {
+                        "start": 555733,
+                        "end": 556914
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixth Chapter"
+                  },
+                  "span": {
+                    "start": 556914,
+                    "end": 558546
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(62) 10. Discussion of Whether Bodily Action Is Visible"
+                      },
+                      "span": {
+                        "start": 556914,
+                        "end": 558546
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Seventh Chapter"
+              },
+              "span": {
+                "start": 558546,
+                "end": 596334
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(63) 1. Discussion of Inclusion"
+                  },
+                  "span": {
+                    "start": 558546,
+                    "end": 562576
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 562576,
+                    "end": 564388
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(64) 2. Discussion of Association"
+                      },
+                      "span": {
+                        "start": 562576,
+                        "end": 564388
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 564388,
+                    "end": 566928
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(65) 3. Discussion of Mental Factors"
+                      },
+                      "span": {
+                        "start": 564388,
+                        "end": 566928
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 566928,
+                    "end": 572901
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(66) 4. Discussion of Giving"
+                      },
+                      "span": {
+                        "start": 566928,
+                        "end": 572901
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 572901,
+                    "end": 579267
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(67) 5. Discussion of Merit Arising from Use"
+                      },
+                      "span": {
+                        "start": 572901,
+                        "end": 579267
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 579267,
+                    "end": 582429
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(68) 6. Discussion of What Is Given from Here"
+                      },
+                      "span": {
+                        "start": 579267,
+                        "end": 582429
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 582429,
+                    "end": 587388
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(69) 7. Discussion of Whether the Earth Is a Result of Action"
+                      },
+                      "span": {
+                        "start": 582429,
+                        "end": 587388
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 587388,
+                    "end": 590711
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(70) 8. Discussion of Whether Aging and Death Are a Result"
+                      },
+                      "span": {
+                        "start": 587388,
+                        "end": 590711
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 590711,
+                    "end": 594190
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(71) 9. Discussion of the Result of the Noble States"
+                      },
+                      "span": {
+                        "start": 590711,
+                        "end": 594190
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventh Chapter"
+                  },
+                  "span": {
+                    "start": 594190,
+                    "end": 596334
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(72) 10. Discussion of Whether a Result Is a State That Produces Results"
+                      },
+                      "span": {
+                        "start": 594190,
+                        "end": 596334
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Eighth Chapter"
+              },
+              "span": {
+                "start": 596334,
+                "end": 658363
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(73) 1. Discussion of the Six Destinations"
+                  },
+                  "span": {
+                    "start": 596334,
+                    "end": 598082
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 598082,
+                    "end": 607239
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(74) 2. Discussion of Intermediate Existence"
+                      },
+                      "span": {
+                        "start": 598082,
+                        "end": 607239
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 607239,
+                    "end": 612213
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(75) 3. Discussion of the Strands of Sensual Pleasure"
+                      },
+                      "span": {
+                        "start": 607239,
+                        "end": 612213
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 612213,
+                    "end": 614330
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(76) 4. Discussion of Sensual Pleasures"
+                      },
+                      "span": {
+                        "start": 612213,
+                        "end": 614330
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 614330,
+                    "end": 616601
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(77) 5. Discussion of the Material-Form Element"
+                      },
+                      "span": {
+                        "start": 614330,
+                        "end": 616601
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 616601,
+                    "end": 619353
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(78) 6. Discussion of the Immaterial Element"
+                      },
+                      "span": {
+                        "start": 616601,
+                        "end": 619353
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 619353,
+                    "end": 625254
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(79) 7. Discussion of the Bases in the Material-Form Element"
+                      },
+                      "span": {
+                        "start": 619353,
+                        "end": 625254
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 625254,
+                    "end": 628710
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(80) 8. Discussion of Material Form in the Formless"
+                      },
+                      "span": {
+                        "start": 625254,
+                        "end": 628710
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 628710,
+                    "end": 650923
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(81) 9. Discussion of Material Form as Action"
+                      },
+                      "span": {
+                        "start": 628710,
+                        "end": 650923
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 650923,
+                    "end": 656098
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(82) 10. Discussion of the Life Faculty"
+                      },
+                      "span": {
+                        "start": 650923,
+                        "end": 656098
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighth Chapter"
+                  },
+                  "span": {
+                    "start": 656098,
+                    "end": 658363
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(83) 11. Discussion of Action as a Cause"
+                      },
+                      "span": {
+                        "start": 656098,
+                        "end": 658363
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Ninth Chapter"
+              },
+              "span": {
+                "start": 658363,
+                "end": 688979
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(84) 1. Discussion of Seeing the Benefit"
+                  },
+                  "span": {
+                    "start": 658363,
+                    "end": 660509
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 660509,
+                    "end": 665591
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(85) 2. Discussion of the Deathless as Object"
+                      },
+                      "span": {
+                        "start": 660509,
+                        "end": 665591
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 665591,
+                    "end": 667361
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(86) 3. Discussion of Material Form as Having an Object"
+                      },
+                      "span": {
+                        "start": 665591,
+                        "end": 667361
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 667361,
+                    "end": 672125
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(87) 4. Discussion of Underlying Tendencies as Without an Object"
+                      },
+                      "span": {
+                        "start": 667361,
+                        "end": 672125
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 672125,
+                    "end": 674397
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(88) 5. Discussion of Knowledge as Without an Object"
+                      },
+                      "span": {
+                        "start": 672125,
+                        "end": 674397
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 674397,
+                    "end": 677296
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(89) 6. Discussion of Past and Future Objects"
+                      },
+                      "span": {
+                        "start": 674397,
+                        "end": 677296
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 677296,
+                    "end": 678982
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(90) 7. Discussion of Being Accompanied by Thinking"
+                      },
+                      "span": {
+                        "start": 677296,
+                        "end": 678982
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 678982,
+                    "end": 680284
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(91) 8. Discussion of the Outflow of Thinking as Sound"
+                      },
+                      "span": {
+                        "start": 678982,
+                        "end": 680284
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 680284,
+                    "end": 683161
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(92) 9. Discussion of Speech Not in Accordance with the Mind"
+                      },
+                      "span": {
+                        "start": 680284,
+                        "end": 683161
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 683161,
+                    "end": 685916
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(93) 10. Discussion of Bodily Action Not in Accordance with the Mind"
+                      },
+                      "span": {
+                        "start": 683161,
+                        "end": 685916
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Ninth Chapter"
+                  },
+                  "span": {
+                    "start": 685916,
+                    "end": 688979
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(94) 11. Discussion of Possessing the Past and the Future"
+                      },
+                      "span": {
+                        "start": 685916,
+                        "end": 688979
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Tenth Chapter"
+              },
+              "span": {
+                "start": 688979,
+                "end": 721093
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(95) 1. Discussion of Cessation"
+                  },
+                  "span": {
+                    "start": 688979,
+                    "end": 690374
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 690374,
+                    "end": 693817
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(96) 2. Discussion of Material Form as the Path"
+                      },
+                      "span": {
+                        "start": 690374,
+                        "end": 693817
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 693817,
+                    "end": 698102
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(97) 3. Discussion of the Path for One Possessing the Five Kinds of Consciousness"
+                      },
+                      "span": {
+                        "start": 693817,
+                        "end": 698102
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 698102,
+                    "end": 701948
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(98) 4. Discussion of the Five Kinds of Consciousness as Both Wholesome and Unwholesome"
+                      },
+                      "span": {
+                        "start": 698102,
+                        "end": 701948
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 701948,
+                    "end": 705426
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(99) 5. Discussion of Having Mental Engagement"
+                      },
+                      "span": {
+                        "start": 701948,
+                        "end": 705426
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 705426,
+                    "end": 708448
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(100) 6. Discussion of Two Kinds of Moral Discipline"
+                      },
+                      "span": {
+                        "start": 705426,
+                        "end": 708448
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 708448,
+                    "end": 712531
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(101) 7. Discussion of Moral Discipline as Not a Mental Factor"
+                      },
+                      "span": {
+                        "start": 708448,
+                        "end": 712531
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 712531,
+                    "end": 714978
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(102) 8. Discussion of Moral Discipline as Not Moving Along with Consciousness"
+                      },
+                      "span": {
+                        "start": 712531,
+                        "end": 714978
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 714978,
+                    "end": 717096
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(103) 9. Discussion of Moral Discipline Due to Undertaking"
+                      },
+                      "span": {
+                        "start": 714978,
+                        "end": 717096
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 717096,
+                    "end": 718289
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(104) 10. Discussion of Expression as Moral Discipline"
+                      },
+                      "span": {
+                        "start": 717096,
+                        "end": 718289
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Tenth Chapter"
+                  },
+                  "span": {
+                    "start": 718289,
+                    "end": 721093
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(105) 11. Discussion of Non-Expression as Lack of Moral Discipline"
+                      },
+                      "span": {
+                        "start": 718289,
+                        "end": 721093
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Eleventh Chapter"
+              },
+              "span": {
+                "start": 721093,
+                "end": 748910
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(106-108) 1-3. The Three Discussions of the Underlying Tendencies"
+                  },
+                  "span": {
+                    "start": 721093,
+                    "end": 731414
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 731414,
+                    "end": 732832
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(109) 4. Discussion of Knowledge"
+                      },
+                      "span": {
+                        "start": 731414,
+                        "end": 732832
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 732832,
+                    "end": 735461
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(110) 5. Discussion of Knowledge as Dissociated from Consciousness"
+                      },
+                      "span": {
+                        "start": 732832,
+                        "end": 735461
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 735461,
+                    "end": 739055
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(111) 6. Discussion of \"This Is Suffering\""
+                      },
+                      "span": {
+                        "start": 735461,
+                        "end": 739055
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 739055,
+                    "end": 743246
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(112) 7. Discussion of the Strength of Psychic Power"
+                      },
+                      "span": {
+                        "start": 739055,
+                        "end": 743246
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 743246,
+                    "end": 745060
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(113) 8. Discussion of Concentration"
+                      },
+                      "span": {
+                        "start": 743246,
+                        "end": 745060
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 745060,
+                    "end": 746238
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(114) 9. Discussion of the Stability of Things"
+                      },
+                      "span": {
+                        "start": 745060,
+                        "end": 746238
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eleventh Chapter"
+                  },
+                  "span": {
+                    "start": 746238,
+                    "end": 748910
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(115) 10. Discussion of Impermanence"
+                      },
+                      "span": {
+                        "start": 746238,
+                        "end": 748910
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Twelfth Chapter"
+              },
+              "span": {
+                "start": 748910,
+                "end": 767669
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(116) 1. Discussion of Restraint as Action"
+                  },
+                  "span": {
+                    "start": 748910,
+                    "end": 751456
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 751456,
+                    "end": 753828
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(117) 2. Discussion of Action"
+                      },
+                      "span": {
+                        "start": 751456,
+                        "end": 753828
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 753828,
+                    "end": 755462
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(118) 3. Discussion of Sound as Result"
+                      },
+                      "span": {
+                        "start": 753828,
+                        "end": 755462
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 755462,
+                    "end": 757659
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(119) 4. Discussion of the Six Sense-Fields"
+                      },
+                      "span": {
+                        "start": 755462,
+                        "end": 757659
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 757659,
+                    "end": 760665
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(120) 5. Discussion of One with at Most Seven More Lives"
+                      },
+                      "span": {
+                        "start": 757659,
+                        "end": 760665
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 760665,
+                    "end": 761068
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(121) 6. Discussion of One Going from family to family"
+                      },
+                      "span": {
+                        "start": 760665,
+                        "end": 761068
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 761068,
+                    "end": 761394
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(122) 7. Discussion of the Single-Seed Person"
+                      },
+                      "span": {
+                        "start": 761068,
+                        "end": 761394
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 761394,
+                    "end": 763451
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(123) 8. Discussion of Depriving of Life"
+                      },
+                      "span": {
+                        "start": 761394,
+                        "end": 763451
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 763451,
+                    "end": 766712
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(124) 9. Discussion of Bad Destinations"
+                      },
+                      "span": {
+                        "start": 763451,
+                        "end": 766712
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twelfth Chapter"
+                  },
+                  "span": {
+                    "start": 766712,
+                    "end": 767669
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(125) 10. Discussion of One in the Seventh Existence"
+                      },
+                      "span": {
+                        "start": 766712,
+                        "end": 767669
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Thirteenth Chapter"
+              },
+              "span": {
+                "start": 767669,
+                "end": 789615
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(126) 1. Discussion of One Who Lasts for an Eon"
+                  },
+                  "span": {
+                    "start": 767669,
+                    "end": 770245
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 770245,
+                    "end": 771387
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(127) 2. Discussion of Obtaining a Wholesome Mind"
+                      },
+                      "span": {
+                        "start": 770245,
+                        "end": 771387
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 771387,
+                    "end": 773708
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(128) 3. Discussion of One Engaged in a Deed with Immediate Result"
+                      },
+                      "span": {
+                        "start": 771387,
+                        "end": 773708
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 773708,
+                    "end": 774909
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(129) 4. Discussion of the Fixed Entering the Fixed Course"
+                      },
+                      "span": {
+                        "start": 773708,
+                        "end": 774909
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 774909,
+                    "end": 777087
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(130) 5. Discussion of the Hindered"
+                      },
+                      "span": {
+                        "start": 774909,
+                        "end": 777087
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 777087,
+                    "end": 779168
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(131) 6. Discussion of Being Face to Face"
+                      },
+                      "span": {
+                        "start": 777087,
+                        "end": 779168
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 779168,
+                    "end": 781729
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(132) 7. Discussion of One in Meditative Attainment Relishing It"
+                      },
+                      "span": {
+                        "start": 779168,
+                        "end": 781729
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 781729,
+                    "end": 783332
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(133) 8. Discussion of Lust for the Unpleasant"
+                      },
+                      "span": {
+                        "start": 781729,
+                        "end": 783332
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 783332,
+                    "end": 786095
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(134) 9. Discussion of Craving for Mental Objects as Indeterminate"
+                      },
+                      "span": {
+                        "start": 783332,
+                        "end": 786095
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Thirteenth Chapter"
+                  },
+                  "span": {
+                    "start": 786095,
+                    "end": 789615
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(135) 10. Discussion of Craving for Mental Objects as Not the Origin of Suffering"
+                      },
+                      "span": {
+                        "start": 786095,
+                        "end": 789615
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Fourteenth Chapter"
+              },
+              "span": {
+                "start": 789615,
+                "end": 815902
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(136) 1. Discussion of the Linking of Wholesome and Unwholesome"
+                  },
+                  "span": {
+                    "start": 789615,
+                    "end": 793894
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 793894,
+                    "end": 796313
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(137) 2. Discussion of the Arising of the Six Sense-Fields"
+                      },
+                      "span": {
+                        "start": 793894,
+                        "end": 796313
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 796313,
+                    "end": 801324
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(138) 3. Discussion of the Proximity Condition"
+                      },
+                      "span": {
+                        "start": 796313,
+                        "end": 801324
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 801324,
+                    "end": 802607
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(139) 4. Discussion of Noble Material Form"
+                      },
+                      "span": {
+                        "start": 801324,
+                        "end": 802607
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 802607,
+                    "end": 805383
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(140) 5. Discussion of the Underlying Tendency as Different"
+                      },
+                      "span": {
+                        "start": 802607,
+                        "end": 805383
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 805383,
+                    "end": 806065
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(141) 6. Discussion of Obsession as Dissociated from Consciousness"
+                      },
+                      "span": {
+                        "start": 805383,
+                        "end": 806065
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 806065,
+                    "end": 811203
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(142) 7. Discussion of Being Included"
+                      },
+                      "span": {
+                        "start": 806065,
+                        "end": 811203
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 811203,
+                    "end": 814633
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(143) 8. Discussion of the Indeterminate"
+                      },
+                      "span": {
+                        "start": 811203,
+                        "end": 814633
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fourteenth Chapter"
+                  },
+                  "span": {
+                    "start": 814633,
+                    "end": 815902
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(144) 9. Discussion of Not Being Included"
+                      },
+                      "span": {
+                        "start": 814633,
+                        "end": 815902
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Fifteenth Chapter"
+              },
+              "span": {
+                "start": 815902,
+                "end": 841758
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(145) 1. Discussion of Conditionality"
+                  },
+                  "span": {
+                    "start": 815902,
+                    "end": 822052
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 822052,
+                    "end": 823614
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(146) 2. Discussion of Mutual Conditions"
+                      },
+                      "span": {
+                        "start": 822052,
+                        "end": 823614
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 823614,
+                    "end": 826033
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(147) 3. Discussion of Time"
+                      },
+                      "span": {
+                        "start": 823614,
+                        "end": 826033
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 826033,
+                    "end": 826869
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(148) 4. Discussion of the Moment, the Instant and the Short While"
+                      },
+                      "span": {
+                        "start": 826033,
+                        "end": 826869
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 826869,
+                    "end": 827300
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(149) 5. Discussion of the Taints"
+                      },
+                      "span": {
+                        "start": 826869,
+                        "end": 827300
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 827300,
+                    "end": 828623
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(150) 6. Discussion of Aging and Death"
+                      },
+                      "span": {
+                        "start": 827300,
+                        "end": 828623
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 828623,
+                    "end": 829072
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(151) 7. Discussion of Perception and Feeling"
+                      },
+                      "span": {
+                        "start": 828623,
+                        "end": 829072
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 829072,
+                    "end": 829702
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(152) 8. Second Discussion of Perception and Feeling"
+                      },
+                      "span": {
+                        "start": 829072,
+                        "end": 829702
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 829702,
+                    "end": 833238
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(153) 9. Third Discussion of Perception and Feeling"
+                      },
+                      "span": {
+                        "start": 829702,
+                        "end": 833238
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 833238,
+                    "end": 835720
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(154) 10. Discussion of Leading to the Non-Percipient Beings"
+                      },
+                      "span": {
+                        "start": 833238,
+                        "end": 835720
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Fifteenth Chapter"
+                  },
+                  "span": {
+                    "start": 835720,
+                    "end": 841758
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(155) 11. Discussion of the Accumulation of Action"
+                      },
+                      "span": {
+                        "start": 835720,
+                        "end": 841758
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Sixteenth Chapter"
+              },
+              "span": {
+                "start": 841758,
+                "end": 867828
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(156) 1. Discussion of Restraining the Mind"
+                  },
+                  "span": {
+                    "start": 841758,
+                    "end": 843991
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 843991,
+                    "end": 846202
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(157) 2. Discussion of Upholding the Mind"
+                      },
+                      "span": {
+                        "start": 843991,
+                        "end": 846202
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 846202,
+                    "end": 847661
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(158) 3. Discussion of Giving Happiness"
+                      },
+                      "span": {
+                        "start": 846202,
+                        "end": 847661
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 847661,
+                    "end": 852043
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(159) 4. Discussion of Attending All at Once"
+                      },
+                      "span": {
+                        "start": 847661,
+                        "end": 852043
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 852043,
+                    "end": 853855
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(160) 5. Discussion of Material Form as a Root"
+                      },
+                      "span": {
+                        "start": 852043,
+                        "end": 853855
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 853855,
+                    "end": 855720
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(161) 6. Discussion of Material Form as Having Roots"
+                      },
+                      "span": {
+                        "start": 853855,
+                        "end": 855720
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 855720,
+                    "end": 858560
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(162) 7. Discussion of Material Form as Wholesome and Unwholesome"
+                      },
+                      "span": {
+                        "start": 855720,
+                        "end": 858560
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 858560,
+                    "end": 860246
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(163) 8. Discussion of Material Form as Result"
+                      },
+                      "span": {
+                        "start": 858560,
+                        "end": 860246
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 860246,
+                    "end": 862841
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(164) 9. Discussion of Material Form as Belonging to the Fine-Material and Formless Spheres"
+                      },
+                      "span": {
+                        "start": 860246,
+                        "end": 862841
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Sixteenth Chapter"
+                  },
+                  "span": {
+                    "start": 862841,
+                    "end": 867828
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(165) 10. Discussion of Inclusion in the Material-Form and Immaterial Elements"
+                      },
+                      "span": {
+                        "start": 862841,
+                        "end": 867828
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Seventeenth Chapter"
+              },
+              "span": {
+                "start": 867828,
+                "end": 891050
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(166) 1. Discussion of an Arahant's Accumulation of Merit"
+                  },
+                  "span": {
+                    "start": 867828,
+                    "end": 870355
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 870355,
+                    "end": 872323
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(167) 2. Discussion of There Being No Untimely Death for an Arahant"
+                      },
+                      "span": {
+                        "start": 870355,
+                        "end": 872323
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 872323,
+                    "end": 874265
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(168) 3. Discussion of All This Being Due to Action"
+                      },
+                      "span": {
+                        "start": 872323,
+                        "end": 874265
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 874265,
+                    "end": 876866
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(169) 4. Discussion of What Is Bound Up with the Faculties"
+                      },
+                      "span": {
+                        "start": 874265,
+                        "end": 876866
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 876866,
+                    "end": 878453
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(170) 5. Discussion of Leaving Aside the Noble Path"
+                      },
+                      "span": {
+                        "start": 876866,
+                        "end": 878453
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 878453,
+                    "end": 880354
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(171) 6. Discussion of Not Saying That the Community Receives Offerings"
+                      },
+                      "span": {
+                        "start": 878453,
+                        "end": 880354
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 880354,
+                    "end": 882054
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(172) 7. Discussion of Not Saying That the Community Purifies Offerings"
+                      },
+                      "span": {
+                        "start": 880354,
+                        "end": 882054
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 882054,
+                    "end": 883703
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(173) 8. Discussion of Not Saying That the Community Eats"
+                      },
+                      "span": {
+                        "start": 882054,
+                        "end": 883703
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 883703,
+                    "end": 886353
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(174) 9. Discussion of Not Saying That What Is Given to the Community Bears Great Fruit"
+                      },
+                      "span": {
+                        "start": 883703,
+                        "end": 886353
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 886353,
+                    "end": 887991
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(175) 10. Discussion of Not Saying That What Is Given to the Buddha Bears Great Fruit"
+                      },
+                      "span": {
+                        "start": 886353,
+                        "end": 887991
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Seventeenth Chapter"
+                  },
+                  "span": {
+                    "start": 887991,
+                    "end": 891050
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(176) 11. Discussion of the Purification of Offerings"
+                      },
+                      "span": {
+                        "start": 887991,
+                        "end": 891050
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Eighteenth Chapter"
+              },
+              "span": {
+                "start": 891050,
+                "end": 915472
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(177) 1. Discussion of the Human World"
+                  },
+                  "span": {
+                    "start": 891050,
+                    "end": 893321
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 893321,
+                    "end": 895596
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(178) 2. Discussion of the Teaching of the Dhamma"
+                      },
+                      "span": {
+                        "start": 893321,
+                        "end": 895596
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 895596,
+                    "end": 897227
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(179) 3. Discussion of Compassion"
+                      },
+                      "span": {
+                        "start": 895596,
+                        "end": 897227
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 897227,
+                    "end": 898065
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(180) 4. Discussion of Fragrant Substances"
+                      },
+                      "span": {
+                        "start": 897227,
+                        "end": 898065
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 898065,
+                    "end": 900962
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(181) 5. Discussion of the Single Path"
+                      },
+                      "span": {
+                        "start": 898065,
+                        "end": 900962
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 900962,
+                    "end": 905917
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(182) 6. Discussion of Passing from Jhāna to Jhāna"
+                      },
+                      "span": {
+                        "start": 900962,
+                        "end": 905917
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 905917,
+                    "end": 910169
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(183) 7. Discussion of the Interval between Jhānas"
+                      },
+                      "span": {
+                        "start": 905917,
+                        "end": 910169
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 910169,
+                    "end": 912823
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(184) 8. Discussion of Hearing Sound"
+                      },
+                      "span": {
+                        "start": 910169,
+                        "end": 912823
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Eighteenth Chapter"
+                  },
+                  "span": {
+                    "start": 912823,
+                    "end": 915472
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(185) 9. Discussion of Seeing a Visible Form with the Eye"
+                      },
+                      "span": {
+                        "start": 912823,
+                        "end": 915472
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Nineteenth Chapter"
+              },
+              "span": {
+                "start": 915472,
+                "end": 938177
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(186) 1. Discussion of Abandoning Defilements"
+                  },
+                  "span": {
+                    "start": 915472,
+                    "end": 918337
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 918337,
+                    "end": 921216
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(187) 2. Discussion of Emptiness"
+                      },
+                      "span": {
+                        "start": 918337,
+                        "end": 921216
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 921216,
+                    "end": 922816
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(188) 3 Discussion of the Fruit of the Ascetic Life"
+                      },
+                      "span": {
+                        "start": 921216,
+                        "end": 922816
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 922816,
+                    "end": 926112
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(189) 4. Discussion of Acquisition"
+                      },
+                      "span": {
+                        "start": 922816,
+                        "end": 926112
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 926112,
+                    "end": 928297
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(190) 5. Discussion of Suchness"
+                      },
+                      "span": {
+                        "start": 926112,
+                        "end": 928297
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 928297,
+                    "end": 930185
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(191) 6. Discussion of the Wholesome"
+                      },
+                      "span": {
+                        "start": 928297,
+                        "end": 930185
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 930185,
+                    "end": 934618
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(192) 7. Discussion of the Absolutely Fixed Destiny"
+                      },
+                      "span": {
+                        "start": 930185,
+                        "end": 934618
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Nineteenth Chapter"
+                  },
+                  "span": {
+                    "start": 934618,
+                    "end": 938177
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(193) 8. Discussion of the Faculties"
+                      },
+                      "span": {
+                        "start": 934618,
+                        "end": 938177
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Twentieth Chapter"
+              },
+              "span": {
+                "start": 938177,
+                "end": 953849
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(194) 1. Discussion of the Unintentional"
+                  },
+                  "span": {
+                    "start": 938177,
+                    "end": 942679
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Twentieth Chapter"
+                  },
+                  "span": {
+                    "start": 942679,
+                    "end": 944180
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(195) 2. Discussion of Knowledge"
+                      },
+                      "span": {
+                        "start": 942679,
+                        "end": 944180
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twentieth Chapter"
+                  },
+                  "span": {
+                    "start": 944180,
+                    "end": 947273
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(196) 3. Discussion of Hell Wardens"
+                      },
+                      "span": {
+                        "start": 944180,
+                        "end": 947273
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twentieth Chapter"
+                  },
+                  "span": {
+                    "start": 947273,
+                    "end": 948272
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(197) 4. Discussion of Animals"
+                      },
+                      "span": {
+                        "start": 947273,
+                        "end": 948272
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twentieth Chapter"
+                  },
+                  "span": {
+                    "start": 948272,
+                    "end": 951171
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(198) 5. Discussion of the Path"
+                      },
+                      "span": {
+                        "start": 948272,
+                        "end": 951171
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twentieth Chapter"
+                  },
+                  "span": {
+                    "start": 951171,
+                    "end": 953849
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(199) 6. Discussion of Knowledge"
+                      },
+                      "span": {
+                        "start": 951171,
+                        "end": 953849
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Twenty-First Chapter"
+              },
+              "span": {
+                "start": 953849,
+                "end": 966383
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(200) 1. Discussion of the Teaching"
+                  },
+                  "span": {
+                    "start": 953849,
+                    "end": 955660
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 955660,
+                    "end": 956936
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(201) 2. Discussion of Not Being Separated"
+                      },
+                      "span": {
+                        "start": 955660,
+                        "end": 956936
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 956936,
+                    "end": 958201
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(202) 3. Discussion of the Fetters"
+                      },
+                      "span": {
+                        "start": 956936,
+                        "end": 958201
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 958201,
+                    "end": 960275
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(203) 4. Discussion of Psychic Power"
+                      },
+                      "span": {
+                        "start": 958201,
+                        "end": 960275
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 960275,
+                    "end": 960636
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(204) 5. Discussion of the Buddhas"
+                      },
+                      "span": {
+                        "start": 960275,
+                        "end": 960636
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 960636,
+                    "end": 961892
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(205) 6. Discussion of All Directions"
+                      },
+                      "span": {
+                        "start": 960636,
+                        "end": 961892
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 961892,
+                    "end": 963608
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(206) 7. Discussion of Phenomena"
+                      },
+                      "span": {
+                        "start": 961892,
+                        "end": 963608
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-First Chapter"
+                  },
+                  "span": {
+                    "start": 963608,
+                    "end": 966383
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(207) 8. Discussion of Action"
+                      },
+                      "span": {
+                        "start": 963608,
+                        "end": 966383
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Twenty-Second Chapter"
+              },
+              "span": {
+                "start": 966383,
+                "end": 980887
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(208) 1. Discussion of Final Nibbāna"
+                  },
+                  "span": {
+                    "start": 966383,
+                    "end": 967218
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 967218,
+                    "end": 969336
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(209) 2. Discussion of Wholesome Consciousness"
+                      },
+                      "span": {
+                        "start": 967218,
+                        "end": 969336
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 969336,
+                    "end": 971258
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(210) 3. Discussion of the Imperturbable"
+                      },
+                      "span": {
+                        "start": 969336,
+                        "end": 971258
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 971258,
+                    "end": 972717
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(211) 4. Discussion of the Breakthrough to the Dhamma"
+                      },
+                      "span": {
+                        "start": 971258,
+                        "end": 972717
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 972717,
+                    "end": 973359
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(212-4) 5-7. Discussion of All Three"
+                      },
+                      "span": {
+                        "start": 972717,
+                        "end": 973359
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 973359,
+                    "end": 974859
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(215) 8. Discussion of the Indeterminate"
+                      },
+                      "span": {
+                        "start": 973359,
+                        "end": 974859
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 974859,
+                    "end": 977716
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(216) 9. Discussion of the Repetition Condition"
+                      },
+                      "span": {
+                        "start": 974859,
+                        "end": 977716
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Second Chapter"
+                  },
+                  "span": {
+                    "start": 977716,
+                    "end": 980887
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(217) 10. Discussion of the Momentary"
+                      },
+                      "span": {
+                        "start": 977716,
+                        "end": 980887
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "The Twenty-Third Chapter"
+              },
+              "span": {
+                "start": 980887,
+                "end": 990568
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "en": "(218) 1. Discussion of Shared Intention"
+                  },
+                  "span": {
+                    "start": 980887,
+                    "end": 981638
+                  }
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Third Chapter"
+                  },
+                  "span": {
+                    "start": 981638,
+                    "end": 982090
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(219) 2. Discussion of the Appearance of Arahants"
+                      },
+                      "span": {
+                        "start": 981638,
+                        "end": 982090
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Third Chapter"
+                  },
+                  "span": {
+                    "start": 982090,
+                    "end": 986171
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(220-4) 3-7. Discussion of Acting at Will through Sovereignty and Other Topics"
+                      },
+                      "span": {
+                        "start": 982090,
+                        "end": 986171
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Third Chapter"
+                  },
+                  "span": {
+                    "start": 986171,
+                    "end": 987191
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(225) 8. Discussion of Counterfeits"
+                      },
+                      "span": {
+                        "start": 986171,
+                        "end": 987191
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "en": "The Twenty-Third Chapter"
+                  },
+                  "span": {
+                    "start": 987191,
+                    "end": 990568
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "en": "(226) 9. Discussion of the Not Concretely Produced"
+                      },
+                      "span": {
+                        "start": 987191,
+                        "end": 990568
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

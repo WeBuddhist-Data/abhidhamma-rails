@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 66,
-        "end": 181892
+        "end": 181988
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 66,
-            "end": 181892
+            "end": 181988
           },
           "subsections": [
             {
@@ -24,7 +24,7 @@
               },
               "span": {
                 "start": 66,
-                "end": 17855
+                "end": 17885
               },
               "subsections": [
                 {
@@ -60,7 +60,7 @@
                   },
                   "span": {
                     "start": 8032,
-                    "end": 13711
+                    "end": 13741
                   }
                 },
                 {
@@ -68,8 +68,8 @@
                     "en": "Outline of Fives"
                   },
                   "span": {
-                    "start": 13711,
-                    "end": 15506
+                    "start": 13741,
+                    "end": 15536
                   }
                 },
                 {
@@ -77,8 +77,8 @@
                     "en": "Outline of Sixes"
                   },
                   "span": {
-                    "start": 15506,
-                    "end": 16792
+                    "start": 15536,
+                    "end": 16822
                   }
                 },
                 {
@@ -86,8 +86,8 @@
                     "en": "Outline of Sevens"
                   },
                   "span": {
-                    "start": 16792,
-                    "end": 17354
+                    "start": 16822,
+                    "end": 17384
                   }
                 },
                 {
@@ -95,8 +95,8 @@
                     "en": "Outline of Eights"
                   },
                   "span": {
-                    "start": 17354,
-                    "end": 17462
+                    "start": 17384,
+                    "end": 17492
                   }
                 },
                 {
@@ -104,8 +104,8 @@
                     "en": "Outline of Nines"
                   },
                   "span": {
-                    "start": 17462,
-                    "end": 17694
+                    "start": 17492,
+                    "end": 17724
                   }
                 },
                 {
@@ -113,8 +113,8 @@
                     "en": "Outline of Tens"
                   },
                   "span": {
-                    "start": 17694,
-                    "end": 17855
+                    "start": 17724,
+                    "end": 17885
                   }
                 }
               ]
@@ -124,8 +124,8 @@
                 "en": "Exposition"
               },
               "span": {
-                "start": 17855,
-                "end": 181892
+                "start": 17885,
+                "end": 181988
               },
               "subsections": [
                 {
@@ -133,8 +133,8 @@
                     "en": "Description of Single Types of Persons"
                   },
                   "span": {
-                    "start": 17855,
-                    "end": 33083
+                    "start": 17885,
+                    "end": 33113
                   }
                 },
                 {
@@ -142,8 +142,8 @@
                     "en": "Description of Pairs of Persons"
                   },
                   "span": {
-                    "start": 33083,
-                    "end": 54336
+                    "start": 33113,
+                    "end": 54372
                   }
                 },
                 {
@@ -151,8 +151,8 @@
                     "en": "Description of Threes of Persons"
                   },
                   "span": {
-                    "start": 54336,
-                    "end": 86753
+                    "start": 54372,
+                    "end": 86789
                   }
                 },
                 {
@@ -160,8 +160,8 @@
                     "en": "Description of Fours of Persons"
                   },
                   "span": {
-                    "start": 86753,
-                    "end": 154726
+                    "start": 86789,
+                    "end": 154822
                   }
                 },
                 {
@@ -169,8 +169,8 @@
                     "en": "Description of Fives of Persons"
                   },
                   "span": {
-                    "start": 154726,
-                    "end": 171487
+                    "start": 154822,
+                    "end": 171583
                   }
                 },
                 {
@@ -178,8 +178,8 @@
                     "en": "Description of Sixes of Persons"
                   },
                   "span": {
-                    "start": 171487,
-                    "end": 173083
+                    "start": 171583,
+                    "end": 173179
                   }
                 },
                 {
@@ -187,8 +187,8 @@
                     "en": "Description of Sevens of Persons"
                   },
                   "span": {
-                    "start": 173083,
-                    "end": 177728
+                    "start": 173179,
+                    "end": 177824
                   }
                 },
                 {
@@ -196,8 +196,8 @@
                     "en": "Description of Eights of Persons"
                   },
                   "span": {
-                    "start": 177728,
-                    "end": 178309
+                    "start": 177824,
+                    "end": 178405
                   }
                 },
                 {
@@ -205,8 +205,8 @@
                     "en": "Description of Nines of Persons"
                   },
                   "span": {
-                    "start": 178309,
-                    "end": 181175
+                    "start": 178405,
+                    "end": 181271
                   }
                 },
                 {
@@ -214,8 +214,8 @@
                     "en": "Description of Tens of Persons"
                   },
                   "span": {
-                    "start": 181175,
-                    "end": 181892
+                    "start": 181271,
+                    "end": 181988
                   }
                 }
               ]
