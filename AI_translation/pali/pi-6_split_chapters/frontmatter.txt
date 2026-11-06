@@ -1,0 +1,22 @@
+---
+title: Yamakapāḷi
+language: Pali
+script: Roman (PTS diacritics)
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+layer: mula
+source_description: "Tipitaka.org Mula edition export, merged from 3 source files (abh03m4, abh03m5, abh03m6); 14219 segments in source total."
+source_filename: book/abh03m.mul.html
+source: "https://tipitaka.org/romn/cscd/abh03m4.mul.xml"
+other_ids:
+  - tipitaka.org: abh03m4
+  - tipitaka.org: abh03m5
+  - tipitaka.org: abh03m6
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: IZ74xHeWa9xortlOhL6cc
+edition_id: vYtNelE9z5AWQ0jAv82cC
+toc_id: Alj20DKMlE3ZnucAMvW5l
+---
