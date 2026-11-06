@@ -279,10 +279,15 @@ def _build_content_and_segmentation(blocks, doc_default):
             ref_idx = text.rfind(ref)
             if ref_idx != -1:
                 text = text[:ref_idx].rstrip()
+            level = _heading_level(raw_lines[0])
+            # Headings deeper than level 6 are written `####### *Title* ^id`
+            # (Markdown stops at six levels); the asterisks are display only.
+            if level > 6 and len(text) > 2 and text.startswith("*") and text.endswith("*"):
+                text = text[1:-1].strip()
             if not text:
                 continue
             headings.append({
-                "level": _heading_level(raw_lines[0]),
+                "level": level,
                 "title": text,
                 "reference": ref_no_caret,
                 "offset": pos,
