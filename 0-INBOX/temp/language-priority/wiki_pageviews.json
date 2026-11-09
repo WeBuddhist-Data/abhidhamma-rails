@@ -1,0 +1,310 @@
+{
+ "window": "20251101-20261031",
+ "topics": {
+  "abhidhamma": {
+   "wikidata": "Q878092",
+   "langs": {
+    "en": {
+     "title": "Abhidhamma Piṭaka",
+     "views": 16260
+    },
+    "bo": {
+     "title": null,
+     "views": null
+    },
+    "fr": {
+     "title": null,
+     "views": null
+    },
+    "hi": {
+     "title": "अभिधम्मपिटक",
+     "views": 1950
+    },
+    "ja": {
+     "title": "論蔵",
+     "views": 1847
+    },
+    "lzh": {
+     "title": null,
+     "views": null
+    },
+    "mn": {
+     "title": null,
+     "views": null
+    },
+    "mr": {
+     "title": null,
+     "views": null
+    },
+    "ne": {
+     "title": "अभिधम्म पिटक",
+     "views": 90
+    },
+    "ru": {
+     "title": "Абхидхамма-питака",
+     "views": 1640
+    },
+    "sa": {
+     "title": null,
+     "views": null
+    },
+    "th": {
+     "title": "พระอภิธรรมปิฎก",
+     "views": 7688
+    },
+    "vi": {
+     "title": "Luận tạng",
+     "views": 957
+    },
+    "zh": {
+     "title": "論藏",
+     "views": 2958
+    }
+   }
+  },
+  "abhidharma": {
+   "wikidata": "Q612405",
+   "langs": {
+    "en": {
+     "title": "Abhidharma",
+     "views": 37963
+    },
+    "bo": {
+     "title": null,
+     "views": null
+    },
+    "fr": {
+     "title": "Abhidhamma",
+     "views": 1441
+    },
+    "hi": {
+     "title": "अभिधम्म साहित्य",
+     "views": 363
+    },
+    "ja": {
+     "title": "阿毘達磨",
+     "views": 8084
+    },
+    "lzh": {
+     "title": null,
+     "views": null
+    },
+    "mn": {
+     "title": null,
+     "views": null
+    },
+    "mr": {
+     "title": "अभिधम्मपिटक",
+     "views": 1253
+    },
+    "ne": {
+     "title": null,
+     "views": null
+    },
+    "ru": {
+     "title": "Абхидхарма",
+     "views": 4298
+    },
+    "sa": {
+     "title": null,
+     "views": null
+    },
+    "th": {
+     "title": null,
+     "views": null
+    },
+    "vi": {
+     "title": "A-tì-đạt-ma",
+     "views": 2249
+    },
+    "zh": {
+     "title": "阿毘達磨",
+     "views": 8329
+    }
+   }
+  },
+  "pali_canon": {
+   "wikidata": "Q215685",
+   "langs": {
+    "en": {
+     "title": "Pali Canon",
+     "views": 69524
+    },
+    "bo": {
+     "title": null,
+     "views": null
+    },
+    "fr": {
+     "title": "Canon pali",
+     "views": 404
+    },
+    "hi": {
+     "title": "पाली त्रिपिटक",
+     "views": 536
+    },
+    "ja": {
+     "title": "パーリ仏典",
+     "views": 17514
+    },
+    "lzh": {
+     "title": null,
+     "views": null
+    },
+    "mn": {
+     "title": null,
+     "views": null
+    },
+    "mr": {
+     "title": null,
+     "views": null
+    },
+    "ne": {
+     "title": "पाली त्रिपिटक",
+     "views": 107
+    },
+    "ru": {
+     "title": "Палийский канон",
+     "views": 14767
+    },
+    "sa": {
+     "title": null,
+     "views": null
+    },
+    "th": {
+     "title": "พระไตรปิฎกภาษาบาลี",
+     "views": 5331
+    },
+    "vi": {
+     "title": "Kinh điển Pali",
+     "views": 2723
+    },
+    "zh": {
+     "title": "巴利三藏",
+     "views": 12081
+    }
+   }
+  },
+  "theravada": {
+   "wikidata": "Q132265",
+   "langs": {
+    "en": {
+     "title": "Theravada",
+     "views": 235720
+    },
+    "bo": {
+     "title": "ལྷོ་བརྒྱུད་ནང་བསྟན།",
+     "views": 99
+    },
+    "fr": {
+     "title": "Theravāda",
+     "views": 16186
+    },
+    "hi": {
+     "title": "थेरवाद",
+     "views": 2785
+    },
+    "ja": {
+     "title": "上座部仏教",
+     "views": 68221
+    },
+    "lzh": {
+     "title": null,
+     "views": null
+    },
+    "mn": {
+     "title": null,
+     "views": null
+    },
+    "mr": {
+     "title": "थेरवाद",
+     "views": 506
+    },
+    "ne": {
+     "title": "थेरवाद",
+     "views": 239
+    },
+    "ru": {
+     "title": "Тхеравада",
+     "views": 46295
+    },
+    "sa": {
+     "title": null,
+     "views": null
+    },
+    "th": {
+     "title": "เถรวาท",
+     "views": 14306
+    },
+    "vi": {
+     "title": "Thượng tọa bộ",
+     "views": 6246
+    },
+    "zh": {
+     "title": "上座部佛教",
+     "views": 44566
+    }
+   }
+  },
+  "buddhism": {
+   "wikidata": "Q748",
+   "langs": {
+    "en": {
+     "title": "Buddhism",
+     "views": 1408309
+    },
+    "bo": {
+     "title": "ནང་བསྟན།",
+     "views": 756
+    },
+    "fr": {
+     "title": "Bouddhisme",
+     "views": 133962
+    },
+    "hi": {
+     "title": "बौद्ध धर्म",
+     "views": 59779
+    },
+    "ja": {
+     "title": "仏教",
+     "views": 168129
+    },
+    "lzh": {
+     "title": "佛教",
+     "views": 1460
+    },
+    "mn": {
+     "title": "Буддын шашин",
+     "views": 4850
+    },
+    "mr": {
+     "title": "बौद्ध धर्म",
+     "views": 12339
+    },
+    "ne": {
+     "title": "बौद्ध धर्म",
+     "views": 1855
+    },
+    "ru": {
+     "title": "Буддизм",
+     "views": 297845
+    },
+    "sa": {
+     "title": "बौद्धधर्मः",
+     "views": 632
+    },
+    "th": {
+     "title": "ศาสนาพุทธ",
+     "views": 40166
+    },
+    "vi": {
+     "title": "Phật giáo",
+     "views": 49074
+    },
+    "zh": {
+     "title": "佛教",
+     "views": 134570
+    }
+   }
+  }
+ }
+}
