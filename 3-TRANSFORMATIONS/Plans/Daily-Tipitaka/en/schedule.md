@@ -418,16 +418,18 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 
 | Day | Date | Section | Verses |
 |---|---|---|---|
-| day-180 | 9 Nov (Tue) | 2. Saṅgahitenaasaṅgahitapadaniddeso | 171–173 |
+| day-180 | 9 Nov (Tue) | 2. Saṅgahitenaasaṅgahitapadaniddeso | 171–178 |
 | day-181 | 10 Nov (Wed) | 3. Asaṅgahitenasaṅgahitapadaniddeso | 179–190 |
 | day-182 | 11 Nov (Thu) | 4. Saṅgahitenasaṅgahitapadaniddeso | 191–192 |
-| day-183 | 12 Nov (Fri) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 193–216 |
-| day-184 | 13 Nov (Sat) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 217–244 |
-| day-185 | 14 Nov (Sun) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 245–284 |
-| day-186 | 15 Nov (Mon) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 285–318 |
-| day-187 | 16 Nov (Tue) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 319–352 |
-| day-188 | 17 Nov (Wed) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 353–378 |
-| day-189 | 18 Nov (Thu) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 379–405 |
+| day-183 | 12 Nov (Fri) | 5. Asaṅgahitenaasaṅgahitapadaniddeso | 193–227 |
+| day-184 | 13 Nov (Sat) | 6. Sampayogavippayogapadaniddeso | 228–256 |
+| day-185 | 14 Nov (Sun) | 6. Sampayogavippayogapadaniddeso | 257–305 |
+| day-186 | 15 Nov (Mon) | 7. Sampayuttenavippayuttapadaniddeso + 8. Vippayuttenasampayuttapadaniddeso | 306–318 |
+| day-187 | 16 Nov (Tue) | 9. Sampayuttenasampayuttapadaniddeso | 319–352 |
+| day-188 | 17 Nov (Wed) | 10. Vippayuttenavippayuttapadaniddeso | 353–388 |
+| day-189 | 18 Nov (Thu) | 10. Vippayuttenavippayuttapadaniddeso | 389–408 |
+
+> ⚙️ **Boundary correction, 2026-11-09 — days 180–189.** As scheduled, this plan dropped `^3-174`–`^3-178` (the rest of method 2, ending on its colophon) and `^3-406`–`^3-408` (the end of method 10, ending on its colophon); days 183–186 crossed the 5/6, 6/7 and 7/8 method breaks; and days 183–189 were all labelled method 5 although they ran through methods 5–10. Re-split on Evan's direction so coverage is contiguous 171–408: one day per method, method 6 split at its `Tikaṃ` heading (`^3-257`), method 10 split at its `Dukaṃ` heading (`^3-389`), and the two short methods 7 (306–316) and 8 (317–318) merged into day-186 — the one deliberate exception to the 2026-09-09 one-chapter-per-day rule, chosen by Evan to keep day-189 short. The plan heading still reads "Four Permutations"; methods 6–10 are in fact the associated/dissociated permutations. The source spreadsheet needs this edit too.
 
 ### Plan 26 — Days 190–193 · Associated/Dissociated with Included/Not-Included (19–22 Nov)
 
