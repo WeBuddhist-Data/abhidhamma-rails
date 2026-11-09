@@ -1,5 +1,5 @@
 ---
-title: Предметы обсуждения (простой русский)
+title: Предметы обсуждения - простой русский
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
 source_title: Kathāvatthupāḷi
 root_text: 1-SOURCES/Text/pi-5.md

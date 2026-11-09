@@ -1,5 +1,5 @@
 ---
-title: धातुकथा (तत्वों पर चर्चा), सरल हिंदी
+title: धातुकथा (तत्वों पर चर्चा) - सरल हिंदी
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
 source_title: Dhātukathāpāḷi
 root_text: 1-SOURCES/Text/pi-3.md

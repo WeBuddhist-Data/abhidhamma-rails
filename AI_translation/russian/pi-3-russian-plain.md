@@ -1,5 +1,5 @@
 ---
-title: Беседа об элементах (простой русский)
+title: Беседа об элементах - простой русский
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
 source_title: Dhātukathāpāḷi
 root_text: 1-SOURCES/Text/pi-3.md

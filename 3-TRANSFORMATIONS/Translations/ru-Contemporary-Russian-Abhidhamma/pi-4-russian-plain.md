@@ -1,5 +1,5 @@
 ---
-title: Описание типов людей (простой русский)
+title: Описание типов людей - простой русский
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
 source_title: Puggalapaññattipāḷi
 root_text: 1-SOURCES/Text/pi-4.md
