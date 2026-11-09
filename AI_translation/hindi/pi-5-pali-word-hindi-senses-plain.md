@@ -2,7 +2,7 @@ abhidhamma: {the higher teaching, first member of the Piṭaka name: अभि�
 Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): अभिधम्म पिटक}
 kathā: {debate or talk, final word of each discussion heading: चर्चा}
 vatthu: {site or stump, in tālāvatthukata 'made like a palm stump': कटा हुआ / कटा सिर; topics of debate, in the book title: विषय}
-kathāvatthu: {title of the fifth Abhidhamma book: कथावत्थु (चर्चा के विषय)}
+kathāvatthu: {title of the fifth Abhidhamma book: चर्चा के विषय}
 Ājānāhi: {imperative 'admit it!', demanding the opponent concede: स्वीकार करना}
 atthena: {in the sense of a reality (instrumental): वास्तविकता}
 paramattho: {the highest reality (nominative), rendered with its verb: परम वास्तविकता}

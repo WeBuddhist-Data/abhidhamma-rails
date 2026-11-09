@@ -1,7 +1,7 @@
 abhidhamma: {the higher teaching, first member of the Piṭaka name: अभिधम्म}
 Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): अभिधम्म पिटक}
 kathā: {talk or treatise, as in the book title: चर्चा}
-Dhātukathā: {title of the third Abhidhamma book: धातुकथा (तत्वों पर चर्चा)}
+Dhātukathā: {title of the third Abhidhamma book: तत्वों पर चर्चा}
 dhātu: {the eighteen elements, as stem or compound member: तत्व}
 sampayuttaṃ: {conjoined as co-arising mental states (neuter sg. participle): जुड़ा}
 vippayuttaṃ: {not conjoined, standing apart (neuter sg. participle): अलग}
@@ -63,9 +63,9 @@ samuppāda: {arising together, in the heading compound paṭiccasamuppāda: उ�
 asaṅgahita: {not comprised (stem in heading compounds): बाहर}
 visabhāgo: {of a dissimilar class (nominative sg.): भिन्न प्रकार का}
 bhāga: {class or portion, in sabhāga and visabhāga: प्रकार}
-dhātukathāya: {the book title in the dative-genitive, for the Dhātukathā: धातुकथा}
+dhātukathāya: {the book title in the dative-genitive, for the Dhātukathā: तत्वों पर चर्चा}
 saṅgaṇī: {the listing, second member of Dhammasaṅgaṇī: गणना}
-dhammasaṅgaṇī: {title of the first Abhidhamma book: धम्मसंगणी (परिघटनाओं की गणना)}
+dhammasaṅgaṇī: {title of the first Abhidhamma book: परिघटनाओं की गणना}
 dhamma: {the mental-object base or element (dhammāyatana, dhammadhātu): मन के विषय; things or states in general, in the title Dhammasaṅgaṇī: परिघटना}
 sabbā: {entire, the book in its totality (nominative fem.): पूरा}
 Rūpakkhandho: {the matter aggregate (nominative sg.): भौतिक रूप का समूह}

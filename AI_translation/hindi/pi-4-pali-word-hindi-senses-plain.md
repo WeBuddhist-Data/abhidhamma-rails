@@ -1,7 +1,7 @@
 abhidhamma: {the higher teaching, first member of the Piṭaka name: अभिधम्म}
 Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): अभिधम्म पिटक}
 paññatti: {designation or descriptive account, in book and chapter titles: विवरण}
-puggalapaññatti: {title of the fourth Abhidhamma book: व्यक्तियों का विवरण / पुग्गलपञ्ञत्ति (व्यक्तियों का विवरण)}
+puggalapaññatti: {title of the fourth Abhidhamma book: व्यक्तियों का विवरण}
 puggala: {individuals, as stem in the title compound: व्यक्ति}
 kāyena: {by one's own physical person (instrumental): शरीर}
 parikkhīṇā: {completely worn out, said of the taints (nominative pl. participle): पूरी तरह नष्ट / पूरी तरह नष्ट होना}

@@ -1,5 +1,5 @@
 [0] abhidhamma=अभिधम्म, Abhidhammapiṭake=अभिधम्म पिटक
-[4-0] paññatti=विवरण, Puggalapaññatti=पुग्गलपञ्ञत्ति (व्यक्तियों का विवरण), puggala=व्यक्ति
+[4-0] paññatti=विवरण, Puggalapaññatti=व्यक्तियों का विवरण, puggala=व्यक्ति
 [4-1] kāyena=शरीर, parikkhīṇā=पूरी तरह नष्ट, Katamo=कौन, Katamo puggalo=व्यक्ति कौन, vimutto=मुक्त, vimokkhe=मुक्ति-अवस्थाएँ, viharati=रहना, samayena=अवसर-अवसर पर, puggalo=व्यक्ति, vuccati puggalo=व्यक्ति … कहा जाता है, āsavā=मन के मैल, samaya=समय, phusitvā=छूकर, paññāya=प्रज्ञा
 [4-1-0] Niddeso=व्याख्या
 [4-1-1-0] paññatti=विवरण, puggalapaññatti=व्यक्तियों का विवरण, puggala=व्यक्ति, ekaka=एकल प्रकार
