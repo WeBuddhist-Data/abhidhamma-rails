@@ -625,3 +625,18 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 **⚠️ Reviewer: the seeded pass renders *dhammā* as "states"** throughout, where the locked technical row is _phenomenon_. Left as is in §4. §1 and §5 also say "states" in plural lists ("wholesome states"), following the usage already published in §1/§5 of earlier days; the _phenomenon_ row governs the singular technical sense.
 
 **Schedule correction, 2026-11-02:** `^3-168`–`^3-170` sat in no day; day-179 is now 133–170. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.
+
+
+### Added 2026-11-09 (days 180–189, Book III: methods 2–10)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| ekadesa | _a part_ (of a heap, base or element) | day-180 §5 | Day-180 §5 headword. Not in either termbase. Commentary: only terms showing *rūpekadesaṃ arūpena asammissaṃ, viññāṇekadesañca aññena asammissaṃ* enter the second method (`dhatukatha-atthakatha #^3-21`). | candidate |
+| moghapucchā | _an empty question_ | day-186 §1, §5 | Day-186 §5 headword. Not in either termbase. Commentary on the eighth method: *sabbāpi pucchā moghapucchāva… natthi natthi icceva vuttaṃ* (`dhatukatha-atthakatha #^3-81`). | candidate |
+| vippayoga | _dissociation_ (not arising together in one mind) | day-188 §5; day-185 §1 (as "dissociated") | Day-188 §5 headword. Seeded-pass termbase `vippayogo` → dissociation; consistent with locked *vippayutta* → _dissociated from_. Commentary: *tappaṭipakkhato vippayogo* (`#^3-8`); wholesome and unwholesome *aññamaññavippayuttā* (`dhatukatha-mulatiika #^3-45`). | draft |
+
+**Locked rows used verbatim, unchanged:** *naya* → method; *khandha* → aggregate (§1 image: heap); *āyatana* → base (day-184 §1 says "sense doors" for the eye, ear etc. rather than "sense bases"); *dhātu* → element; *sampayoga* → association (day-184 §5 headword); *sampayutta / vippayutta* → associated with / dissociated from; *dhammāyatana* → the mind-object base (day-181 §5 headword); *manāyatana* → the mind base; *asaṅkhata* → the unconstructed; *nibbāna* (untranslated); *samudaya* → origin; *taṇhā* → craving; *parideva* → lamentation (with *soka*, day-182 §5 headword); *viññāṇa* → consciousness; *rūpa* → material form; *nāmarūpa* → mentality and material form (day-183 §5 headword); *kusala / akusala* → wholesome / unwholesome (day-185 §5 headword); *cetasika* → mental factor (day-187 §5 headword); *hetu* → root (day-189 §5 headword); *alobha / adosa / amoha* → non-greed / non-hate / non-delusion; *jhāna* (meditative absorption); *mātikā* → matrix.
+
+**Book III methods 2–10 open on newly extended rails.** Both rails (`pi-3-summaries.md`, `pi-3-practice.md`) gained 25 entries each on 2026-11-09 (Dutiyanayo – Dasamanayo, with the Pañcamanayo, Chaṭṭhanayo and Dasamanayo subsections), from `pi-dhatukatha-atthakatha.md` ^3-21 – ^3-90 and `pi-dhatukatha-mulatiika.md` ^3-22 – ^3-59. Six ⚑ divergences recorded (aṭṭhakathā vs mūlaṭīkā). Rail prose still needs a native Pāli reviewer. §4 now cites the track copy `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/pi-3-english-plain.md` (same seeded pass as days 174–179).
+
+**Schedule correction, 2026-11-09:** days 180–189 re-split so coverage is contiguous 171–408 (see the boundary-correction note in `schedule.md`). The source spreadsheet still needs the edit.
