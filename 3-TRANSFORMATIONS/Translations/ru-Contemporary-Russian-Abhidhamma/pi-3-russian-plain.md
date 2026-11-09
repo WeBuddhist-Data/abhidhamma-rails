@@ -1,5 +1,3 @@
-![[1-SOURCES/Text/pi-3.md#^3-518]]
-
 ---
 title: Беседа об элементах (простой русский)
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
@@ -24,7 +22,6 @@ zeroshot_split: AI_translation/russian/pi-3-russian-plain-zeroshot_split_chapter
 keyword_map: AI_translation/russian/pi-3-keywords-by-reference-pali-russian-plain.md
 senses: AI_translation/russian/pi-3-pali-word-russian-senses-plain.md
 segment_ids: "^T-1 … ^3-518 (578 blocks, matching the source)"
-
 chapters: preamble + 15 sections (Uddeso, Paṭhamanayo … Cuddasamanayo)
 split_chapters: AI_translation/russian/pi-3-russian-plain-rails_split_chapters
 generated: 2026-11-06

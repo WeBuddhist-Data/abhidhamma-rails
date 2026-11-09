@@ -1,5 +1,3 @@
-![[1-SOURCES/Text/pi-4.md#^4-209]]
-
 ---
 title: Описание типов людей (простой русский)
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
@@ -24,7 +22,6 @@ zeroshot_split: AI_translation/russian/pi-4-russian-plain-zeroshot_split_chapter
 keyword_map: AI_translation/russian/pi-4-keywords-by-reference-pali-russian-plain.md
 senses: AI_translation/russian/pi-4-pali-word-russian-senses-plain.md
 segment_ids: "^T-1 … ^4-209 (250 blocks, matching the source)"
-
 chapters: preamble + 11 sections (Mātikā, Ekaka … Dasaka)
 split_chapters: AI_translation/russian/pi-4-russian-plain-rails_split_chapters
 generated: 2026-11-07

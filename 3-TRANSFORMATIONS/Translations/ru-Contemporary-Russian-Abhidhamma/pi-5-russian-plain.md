@@ -1,5 +1,3 @@
-![[1-SOURCES/Text/pi-5.md#^5-918]]
-
 ---
 title: Предметы обсуждения (простой русский)
 translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
@@ -24,7 +22,6 @@ zeroshot_split: AI_translation/russian/pi-5-russian-plain-zeroshot_split_chapter
 keyword_map: AI_translation/russian/pi-5-keywords-by-reference-pali-russian-plain.md
 senses: AI_translation/russian/pi-5-pali-word-russian-senses-plain.md
 segment_ids: "^T-1 … ^5-918 (1400 blocks, matching the source)"
-
 chapters: preamble + 31 sections (Puggalakathā … Tevīsatimavagga)
 split_chapters: AI_translation/russian/pi-5-russian-plain-rails_split_chapters
 generated: 2026-11-07
