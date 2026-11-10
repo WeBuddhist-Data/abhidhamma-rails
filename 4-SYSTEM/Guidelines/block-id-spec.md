@@ -172,9 +172,9 @@ Matrices are **common and recurring**, not once-per-book. Observed:
 
 A matrix qualifies **only** if it opens the book's numbering. Every other matrix is ordinary content under ordinary zones.
 
-### Migration status (2026-09)
+### Migration status (completed 2026-11-10)
 
-`pi-1` (164 content IDs, 16 headings) and `pi-4` (9 headings) still carry the Roman form, along with the translations, commentaries, glossaries and `2-RAILS/Verses` files that reference them. Parsers accept both forms and type either as `verse`; the linter warns once per file until the rename is done.
+Every root text now uses the Arabic form. `pi-4` (9 headings) was renamed on 2026-11-04 and `pi-1` (164 content IDs, 16 headings) on 2026-11-10, together with the translations, commentaries, glossaries and `2-RAILS/Verses` files that reference them (`1-MI-N` → `1-M1-N`, `1-MII-N` → `1-M2-N`, `1-M-II-XIV-0` → `1-M-2-14-0`). The library editions were re-uploaded with the new IDs; the old → new segment maps are in `0-INBOX/pi-4-segment-id-map.json` and `0-INBOX/pi-1-segment-id-map/`. Parsers still accept the Roman form and type it as `verse`, and the linter warns if it reappears.
 
 ---
 
