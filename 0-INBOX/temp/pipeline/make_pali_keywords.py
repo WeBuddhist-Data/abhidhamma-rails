@@ -7,7 +7,7 @@ Refuses to overwrite an existing output file.
 """
 import pathlib, sys
 
-B = pathlib.Path(r"D:\Work\OpenPecha\abhidhamma-rails")
+B = pathlib.Path(__file__).resolve().parents[3]  # repo root (was a fixed Windows path)
 n = sys.argv[1]
 src = B / f"AI_translation/english/pi-{n}-keywords-by-reference-pali-english-plain.md"
 out = B / f"AI_translation/pali/pi-{n}-keywords-by-reference-pali-plain.md"

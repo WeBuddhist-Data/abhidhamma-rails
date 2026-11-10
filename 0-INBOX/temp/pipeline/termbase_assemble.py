@@ -20,7 +20,7 @@ Checks: same headwords and sense tags as the senses file; one term per sense; no
 import pathlib, sys
 
 BOOK, LANG, TAG, AUD = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
-BASE = pathlib.Path(r"D:\Work\OpenPecha\abhidhamma-rails")
+BASE = pathlib.Path(__file__).resolve().parents[3]  # repo root (was a fixed Windows path)
 SENSES = BASE / f"AI_translation/{LANG}/pi-{BOOK}-pali-word-{LANG}-senses-{AUD}.md"
 TB = BASE / f"0-INBOX/temp/pipeline/pi-{BOOK}-{TAG}/termbase"
 OUT = BASE / f"AI_translation/{LANG}/pi-{BOOK}-pali-{LANG}-termbase-{AUD}.md"

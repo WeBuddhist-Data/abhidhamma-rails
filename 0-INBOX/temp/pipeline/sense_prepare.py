@@ -11,7 +11,7 @@ out: 0-INBOX/temp/pipeline/pi-N-<tag>/senses/agg-partK.tsv
 import collections, pathlib, sys
 
 BOOK, LANG, TAG, AUD, N_PARTS = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5])
-B = pathlib.Path(r"D:\Work\OpenPecha\abhidhamma-rails")
+B = pathlib.Path(__file__).resolve().parents[3]  # repo root (was a fixed Windows path)
 MAP = B / f"AI_translation/{LANG}/pi-{BOOK}-keywords-by-reference-pali-{LANG}-{AUD}.md"
 EN = B / f"AI_translation/english/pi-{BOOK}-pali-word-english-senses-{AUD}.md"
 OUT = B / f"0-INBOX/temp/pipeline/pi-{BOOK}-{TAG}/senses"; OUT.mkdir(parents=True, exist_ok=True)

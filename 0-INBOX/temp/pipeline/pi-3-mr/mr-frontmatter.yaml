@@ -1,0 +1,29 @@
+---
+title: तत्त्वांवरील चर्चा - सोपी मराठी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Dhātukathāpāḷi
+root_text: 1-SOURCES/Text/pi-3.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-3_split_chapters
+source_text_id: Us3yilUt8Q4I8m3JuCOhk
+source_edition_id: ygJ9vnhenIaGvUeIfRJ9i
+translation_of: Us3yilUt8Q4I8m3JuCOhk
+language: Marathi
+lang_tag: mr
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/marathi/pi-3-pali-marathi-termbase-plain.md
+termbase_approved: 2026-11-09
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-3-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a chapter-1 sample at each step, remaining chapters run in parallel at the user's request; independent bilingual review, fixes approved by the user; no dashes (user rule)"
+zeroshot_split: AI_translation/marathi/pi-3-marathi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/marathi/pi-3-keywords-by-reference-pali-marathi-plain.md
+senses: AI_translation/marathi/pi-3-pali-word-marathi-senses-plain.md
+segment_ids: "^T-1 … ^3-518 (578 blocks, matching the source)"
+chapters: preamble + 15 sections (Uddeso, Paṭhamanayo … Cuddasamanayo)
+split_chapters: AI_translation/marathi/pi-3-marathi-plain-rails_split_chapters
+generated: 2026-11-09
+status: draft
+---
