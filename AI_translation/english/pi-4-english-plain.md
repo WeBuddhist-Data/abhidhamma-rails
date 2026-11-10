@@ -13,7 +13,7 @@ audience_profile: AI_translation/audience_profile/plain.md
 termbase: AI_translation/english/pi-4-pali-english-termbase-plain.md
 approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli, chapter by chapter in order, with the termbase treated as locked"
 segment_ids: "^T-1 … ^4-209 (250 blocks, matching the source)"
-chapters: preamble + Mātikā (outline) + 10 Niddesa sections (single types … tens)
+chapters: preamble + Mātikā (matrix) + 10 Niddesa sections (single types … tens)
 split_chapters: AI_translation/english/pi-4-english-plain-rails_split_chapters
 generated: 2026-11-03
 status: draft
@@ -25,9 +25,9 @@ Homage to that Blessed One, the Arahant, the Fully Awakened Buddha ^T-1
 
 ## The Description of Persons ^4-0
 
-### Outline ^4-M-0
+### Matrix ^4-M-0
 
-#### Outline of Single Types ^4-M-1-0
+#### Matrix of Single Types ^4-M-1-0
 
 There are six descriptions – the description of the aggregates, the description of the bases, the description of the elements, the description of the truths, the description of the faculties, and the description of persons. ^4-M-1
 
@@ -98,7 +98,7 @@ What does the description of persons cover?
 (54) One practising to realize the fruit of arahantship [variant: arahattāya (Sī.)]
 Single Types. ^4-M-7
 
-#### Outline of Pairs ^4-M-2-0
+#### Matrix of Pairs ^4-M-2-0
 
 Two persons –
 (1) One who is angry, and one who holds grudges.
@@ -129,7 +129,7 @@ Two persons –
 (26) One who is satisfied, and one who satisfies others.
 Pairs. ^4-M-8
 
-#### Outline of Threes ^4-M-3-0
+#### Matrix of Threes ^4-M-3-0
 
 Three persons –
 (1) One without hope, one with hope, and one whose hope is gone.
@@ -151,7 +151,7 @@ Three persons –
 (17) Another three teachers.
 Threes. ^4-M-9
 
-#### Outline of Fours ^4-M-4-0
+#### Matrix of Fours ^4-M-4-0
 
 Four persons –
 (1) A bad person, one worse than a bad person, a good person, and one better than a good person.
@@ -186,7 +186,7 @@ Four persons –
 (30) The unshakable ascetic, the red-lotus ascetic, the white-lotus ascetic, and the refined ascetic among ascetics.
 Fours. ^4-M-10
 
-#### Outline of Fives ^4-M-5-0
+#### Matrix of Fives ^4-M-5-0
 
 Five persons –
 (1) There is someone who does wrong [variant: ārambhati (Sī., Syā.)] and feels remorse, and does not really understand that liberation of mind and liberation by wisdom in which those bad, unwholesome states that have arisen in them cease without remainder. There is someone who does wrong but does not feel remorse, and does not really understand that liberation of mind and liberation by wisdom in which those bad, unwholesome states that have arisen in them cease without remainder. There is someone who does no wrong but feels remorse, and does not really understand that liberation of mind and liberation by wisdom in which those bad, unwholesome states that have arisen in them cease without remainder. There is someone who does no wrong and does not feel remorse, and does not really understand that liberation of mind and liberation by wisdom in which those bad, unwholesome states that have arisen in them cease without remainder. There is someone who does no wrong and does not feel remorse, and really understands that liberation of mind and liberation by wisdom in which those bad, unwholesome states that have arisen in them cease without remainder.
@@ -205,37 +205,37 @@ Five persons –
 (14) Five who live in charnel grounds.
 Fives. ^4-M-11
 
-#### Outline of Sixes ^4-M-6-0
+#### Matrix of Sixes ^4-M-6-0
 
 Six persons –
 (1) There is someone who, in teachings not heard before, awakens to the truths by themselves, and attains there all-knowing wisdom and mastery of the powers [variant: phalesu (Pī.)]. There is someone who, in teachings not heard before, awakens to the truths by themselves, but does not attain there all-knowing wisdom or mastery of the powers. There is someone who, in teachings not heard before, does not awaken to the truths by themselves, but makes an end of suffering in this very life and attains the perfection of a disciple. There is someone who, in teachings not heard before, does not awaken to the truths by themselves, but makes an end of suffering in this very life, though they do not attain the perfection of a disciple. There is someone who, in teachings not heard before, does not awaken to the truths by themselves, and does not make an end of suffering in this very life, but is a non-returner who does not come back [variant: anāgantvā (Syā., Ka.) A. Ni. 4.171] to this state of existence. There is someone who, in teachings not heard before, does not awaken to the truths by themselves, and does not make an end of suffering in this very life, but is a returner [variant: sotāpannasakadāgāmī (Syā., Ka.)] who comes back to this state of existence.
 Sixes. ^4-M-12
 
-#### Outline of Sevens ^4-M-7-0
+#### Matrix of Sevens ^4-M-7-0
 
 Seven persons –
 (1) Seven persons compared to people in water. One who has sunk once stays sunk; one who comes up and sinks again; one who comes up and stays established; one who comes up, sees clearly and looks around; one who comes up and swims across; one who comes up and attains a foothold; one who comes up, has crossed over, reached the far shore, and stands on land – the brahmin.
 (2) One liberated both ways, one liberated by wisdom, a body-witness, one attained to view, one liberated by faith, a follower by the teaching, and a follower by faith.
 Sevens. ^4-M-13
 
-#### Outline of Eights ^4-M-8-0
+#### Matrix of Eights ^4-M-8-0
 
 Eight persons –
 (1) The four persons who possess the path, and the four persons who possess the fruit.
 Eights. ^4-M-14
 
-#### Outline of Nines ^4-M-9-0
+#### Matrix of Nines ^4-M-9-0
 
 Nine persons –
 (1) A Fully Awakened Buddha, a Solitary Buddha, one liberated both ways, one liberated by wisdom, a body-witness, one attained to view, one liberated by faith, a follower by the teaching, and a follower by faith.
 Nines. ^4-M-15
 
-#### Outline of Tens ^4-M-10-0
+#### Matrix of Tens ^4-M-10-0
 
 Ten persons –
 (1) For five, the goal is reached here; for five, the goal is reached after leaving here.
 Tens.
-The outline of the Description of Persons is complete. ^4-M-16
+The matrix of the Description of Persons is complete. ^4-M-16
 
 ### Exposition ^4-1-0
 

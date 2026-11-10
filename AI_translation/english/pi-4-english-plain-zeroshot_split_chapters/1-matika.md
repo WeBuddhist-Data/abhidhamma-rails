@@ -1,6 +1,6 @@
-### The Outline ^4-M-0
+### The Matrix ^4-M-0
 
-#### Outline of the Single Types ^4-M-1-0
+#### Matrix of the Single Types ^4-M-1-0
 
 There are six kinds of description – the description of aggregates, the description of sense bases, the description of elements, the description of truths, the description of faculties, and the description of persons. ^4-M-1
 
@@ -71,7 +71,7 @@ What does the description of persons cover?
 (54) One practising to realize the fruit of arahantship [variant: arahattāya (Sī.)]
 The single types. ^4-M-7
 
-#### Outline of the Pairs ^4-M-2-0
+#### Matrix of the Pairs ^4-M-2-0
 
 Two persons –
 (1) The angry one and the one who bears grudges.
@@ -102,7 +102,7 @@ Two persons –
 (26) The one who is satisfied and the one who satisfies others.
 The pairs. ^4-M-8
 
-#### Outline of the Threes ^4-M-3-0
+#### Matrix of the Threes ^4-M-3-0
 
 Three persons –
 (1) The one without hope, the one with hope, the one whose hope has gone.
@@ -124,7 +124,7 @@ Three persons –
 (17) Three further teachers.
 The threes. ^4-M-9
 
-#### Outline of the Fours ^4-M-4-0
+#### Matrix of the Fours ^4-M-4-0
 
 Four persons –
 (1) The bad person, the one worse than a bad person, the good person, the one better than a good person.
@@ -159,7 +159,7 @@ Four persons –
 (30) The unshakable ascetic, the red-lotus ascetic, the white-lotus ascetic, the most refined ascetic among ascetics.
 The fours. ^4-M-10
 
-#### Outline of the Fives ^4-M-5-0
+#### Matrix of the Fives ^4-M-5-0
 
 Five persons –
 (1) There is the person who does wrong [variant: ārambhati (Sī., Syā.)] and feels remorse, and does not understand as it really is that liberation of mind, that liberation by wisdom, in which the bad, unwholesome states that have arisen in them cease without remainder. There is the person who does wrong and does not feel remorse, and does not understand as it really is that liberation of mind, that liberation by wisdom, in which the bad, unwholesome states that have arisen in them cease without remainder. There is the person who does no wrong yet feels remorse, and does not understand as it really is that liberation of mind, that liberation by wisdom, in which the bad, unwholesome states that have arisen in them cease without remainder. There is the person who does no wrong and does not feel remorse, and does not understand as it really is that liberation of mind, that liberation by wisdom, in which the bad, unwholesome states that have arisen in them cease without remainder. There is the person who does no wrong and does not feel remorse, and understands as it really is that liberation of mind, that liberation by wisdom, in which the bad, unwholesome states that have arisen in them cease without remainder.
@@ -178,34 +178,34 @@ Five persons –
 (14) Five who live in charnel grounds.
 The fives. ^4-M-11
 
-#### Outline of the Sixes ^4-M-6-0
+#### Matrix of the Sixes ^4-M-6-0
 
 Six persons –
 (1) There is the person who, regarding teachings not heard before, awakens to the truths by themselves, and there attains all-knowing wisdom and mastery over the powers [variant: phalesu (Pī.)]. There is the person who, regarding teachings not heard before, awakens to the truths by themselves, but does not there attain all-knowing wisdom or mastery over the powers. There is the person who, regarding teachings not heard before, does not awaken to the truths by themselves, but in this very life makes an end of suffering and attains the perfection of a disciple. There is the person who, regarding teachings not heard before, does not awaken to the truths by themselves, and in this very life makes an end of suffering, but does not attain the perfection of a disciple. There is the person who, regarding teachings not heard before, does not awaken to the truths by themselves, and does not in this very life make an end of suffering, but is a non-returner, one who does not come back [variant: anāgantvā (Syā., Ka.); A. Ni. 4.171] to this state of being. There is the person who, regarding teachings not heard before, does not awaken to the truths by themselves, and does not in this very life make an end of suffering, but is a returner [variant: sotāpannasakadāgāmī (Syā., Ka.)], one who comes back to this state of being.
 The sixes. ^4-M-12
 
-#### Outline of the Sevens ^4-M-7-0
+#### Matrix of the Sevens ^4-M-7-0
 
 Seven persons –
 (1) Seven persons who are like people in water. One sinks once and stays sunk; one comes up and sinks again; one comes up and stays there; one comes up, sees and looks around; one comes up and swims across; one comes up and reaches a foothold; one comes up, has crossed over and reached the far shore, and stands on dry land, a true brahmin.
 (2) One liberated in both ways, one liberated by wisdom, a body-witness, one who has attained to view, one liberated by faith, a follower of the Teaching, a follower by faith.
 The sevens. ^4-M-13
 
-#### Outline of the Eights ^4-M-8-0
+#### Matrix of the Eights ^4-M-8-0
 
 Eight persons –
 (1) The four persons who possess a path and the four who possess a fruit.
 The eights. ^4-M-14
 
-#### Outline of the Nines ^4-M-9-0
+#### Matrix of the Nines ^4-M-9-0
 
 Nine persons –
 (1) A Fully Awakened Buddha, a Solitary Buddha, one liberated in both ways, one liberated by wisdom, a body-witness, one who has attained to view, one liberated by faith, a follower of the Teaching, a follower by faith.
 The nines. ^4-M-15
 
-#### Outline of the Tens ^4-M-10-0
+#### Matrix of the Tens ^4-M-10-0
 
 Ten persons –
 (1) Five reach the goal here; five reach the goal after leaving here.
 The tens.
-The outline of the description of persons is complete. ^4-M-16
+The matrix of the description of persons is complete. ^4-M-16

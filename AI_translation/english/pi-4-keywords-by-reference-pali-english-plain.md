@@ -220,7 +220,7 @@
 [4-207] arahā=arahant, arahatta=arahantship, aṭṭhaka=eights, niddeso=exposition, phala=fruit, sotāpattiphala=fruit of stream-entry, anāgāmī=non-returner, anāgāmi=non-returning, sakadāgāmī=once-returner, sakadāgāmi=once-returning, magga=path, puggalā=persons, samaṅgino puggalā=persons who possess, samaṅgino=possess, paṭipanno=practising, sacchikiriyāya paṭipanno=practising to realize, sacchikiriyāya=realize, phalasacchikiriyāya=realize the fruit, sotāpanno=stream-enterer, sotāpatti=stream-entry, (no direct equivalent)=variant, arahā=worthy
 [4-208] sabbaññutaṃ=all-knowing, sabbaññutaṃ=all-knowing wisdom, pāpuṇāti=attain, patto=attained, pāpuṇāti=attains, sambuddho=awakened, sambuddho=Awakened Buddha, abhisambujjhati=awakens, kāyena=body, kāyasakkhī=body-witness, sambuddho=buddha, vāhiṃ=carried, nirodha=cessation, dukkhanirodha=cessation of suffering, vodiṭṭhā=clearly, parikkhīṇā=destroyed, bhāveti=develops, ṭhito=established, vocaritā=examined, niddeso=exposition, indriyaṃ=faculty, saddhā=faith, anusārī=follower, saddhānusārī=follower by faith, phala=fruit, sotāpattiphala=fruit of stream-entry, sammā=fully, sammāsambuddho=Fully Awakened, sammāsambuddho=Fully Awakened Buddha, (no direct equivalent)=having, anussutesu=heard, Katamo=kind, Katamo puggalo=kind of person, vimutto=liberated, saddhāvimutto=liberated by faith, vimokkhe=liberations, viharati=live, viharati=lives, vasībhāvaṃ=mastery, navaka=nines, ariya=noble, ariyamaggaṃ=noble path, (no direct equivalent)=once, paṭipadā=path, gāminī paṭipadā=path leading, puggalo=person, vuccati puggalo=person is called, puggalo viharati=person lives, puggalassa paṭipannassa=person practising, puggalo pajānāti=person understands, balesu=powers, paṭipannassa=practising, sacchikiriyāya paṭipannassa=practising to realize, adhimattaṃ=predominant, paveditā=proclaimed, sacchikiriyāya=realize, phalasacchikiriyāya=realize the fruit, yathābhūtaṃ=really, (no direct equivalent)=regarding, pacceka=solitary, paccekasambuddho=Solitary Buddha, sotāpatti=stream-entry, dukkhaṃ=suffering, āsavā=taints, dhamma=teaching, dhammesu=teachings, ananussutesu dhammesu=teachings not heard, paveditā dhammā=teachings proclaimed, sāmaṃ=themselves, vocaritā=thoroughly, phusitvā=touched, saccāni=truths, pajānāti=understands, diṭṭhi=view, bhāga=ways, paññāya=wisdom
 [4-209] arahā=arahant, upahacca=arrival, parinibbāyissa=attains, parinibbāyissa=attains final, parinibbāyissa=attains final release, (no direct equivalent)=becomes, niṭṭhitaṃ=complete, paññatti=description, puggalapaññatti=Description of Persons, saṅkhāra=effort, niddeso=exposition, Ettāvatā=extent, kola=family, parinibbāyissa=final release, niṭṭhā=goal, gāmino=goes, akaniṭṭha=heaven, akaniṭṭha=highest, antarā=interval, vihāya=leaving, dhamme=life, (no direct equivalent)=lives, sakadāgāmissa=once-returner, puggalānaṃ=persons, (no direct equivalent)=reach, parinibbāyissa=release, bījissa=seed, eka=single, dasaka=tens, pakaraṇaṃ=treatise, uddhaṃsotassa=upstream, arahā=worthy
-[4-M-0] Mātikā=outline
+[4-M-0] Mātikā=matrix
 [4-M-1] khandha=aggregates, āyatana=bases, paññattiyo=description, puggalapaññatti=Description of Persons, dhātu=elements, indriya=faculties, (no direct equivalent)=kinds, puggala=persons, āyatana=sense, āyatana=sense bases, sacca=truths
 [4-M-2] khandho=aggregate, khandhānaṃ=aggregates, Kittāvatā khandhānaṃ=aggregates cover, ettāvatā khandhānaṃ=aggregates covers, viññāṇa=consciousness, Kittāvatā=cover, Yāvatā=covers, paññatti=description, vedanā=feeling, rūpa=form, saṅkhāra=formations, rūpa=material, saṅkhāra=mental, saññā=perception
 [4-M-3] āyatanānaṃ=bases, Kittāvatā āyatanānaṃ=bases cover, ettāvatā āyatanānaṃ=bases covers, kāya=body, Kittāvatā=cover, Yāvatā=covers, paññatti=description, sota=ear, cakkhu=eye, dhamma=mental, mana=mind, manāyatanaṃ=mind base, ghāna=nose, dhamma=objects, āyatanānaṃ=sense, āyatanānaṃ=sense bases, Kittāvatā āyatanānaṃ=sense bases cover, ettāvatā āyatanānaṃ=sense bases covers, gandha=smell, sadda=sound, rasa=taste, jivhā=tongue, phoṭṭhabba=touch, dvādasa=twelve, rūpa=visible-form
@@ -236,15 +236,15 @@
 [4-M-13] patarati=across, (no direct equivalent)=again, patto=attained, kāyasakkhī=body-witness, brāhmaṇo=brahmin, ummujjitvā=comes, tiṇṇo=crossed, thale=dry, saddhā=faith, anusārī=follower, saddhānusārī=follower by faith, paṭigādha=foothold, thale=land, vimutto=liberated, saddhāvimutto=liberated by faith, upamā=like, viloketi=looks, Sakiṃ=once, (no direct equivalent)=people, puggalā=persons, patto=reaches, Sattakaṃ=sevens, pāraṅgato=shore, nimuggo=sinks, tiṭṭhati=stands, ṭhito=stays, nimuggo=sunk, patarati=swims, dhamma=teaching, (no direct equivalent)=true, diṭṭhi=view, udaka=water, bhāga=ways, paññā=wisdom
 [4-M-14] Aṭṭhakaṃ=eights, phala=fruit, magga=path, puggalā=persons, samaṅgino puggalā=persons who possess, samaṅgino=possess
 [4-M-15] patto=attained, sambuddho=awakened, sambuddho=Awakened Buddha, kāyasakkhī=body-witness, sambuddho=buddha, saddhā=faith, anusārī=follower, saddhānusārī=follower by faith, sammā=fully, Sammāsambuddho=Fully Awakened, Sammāsambuddho=Fully Awakened Buddha, vimutto=liberated, saddhāvimutto=liberated by faith, Navakaṃ=nines, puggalā=persons, pacceka=solitary, paccekasambuddho=Solitary Buddha, dhamma=teaching, diṭṭhi=view, bhāga=ways, paññā=wisdom
-[4-M-16] niṭṭhitā=complete, paññatti=description, puggalapaññatti=Description of Persons, niṭṭhā=goal, vihāya=leaving, mātikā=outline, puggalā=persons, (no direct equivalent)=reach, Dasa=ten, Dasa puggalā=Ten persons, Dasakaṃ=tens
-[4-M-1-0] uddeso=outline, ekaka=single, ekaka=Single Types, (no direct equivalent)=types
-[4-M-2-0] uddeso=outline, duka=pairs
-[4-M-3-0] uddeso=outline, tika=threes
-[4-M-4-0] catukka=fours, uddeso=outline
-[4-M-9-0] navaka=nines, uddeso=outline
-[4-M-5-0] pañcaka=fives, uddeso=outline
-[4-M-6-0] uddeso=outline, chakka=sixes
-[4-M-7-0] uddeso=outline, sattaka=sevens
-[4-M-8-0] aṭṭhaka=eights, uddeso=outline
-[4-M-10-0] uddeso=outline, dasaka=tens
+[4-M-16] niṭṭhitā=complete, paññatti=description, puggalapaññatti=Description of Persons, niṭṭhā=goal, vihāya=leaving, mātikā=matrix, puggalā=persons, (no direct equivalent)=reach, Dasa=ten, Dasa puggalā=Ten persons, Dasakaṃ=tens
+[4-M-1-0] uddeso=matrix, ekaka=single, ekaka=Single Types, (no direct equivalent)=types
+[4-M-2-0] uddeso=matrix, duka=pairs
+[4-M-3-0] uddeso=matrix, tika=threes
+[4-M-4-0] catukka=fours, uddeso=matrix
+[4-M-9-0] navaka=nines, uddeso=matrix
+[4-M-5-0] pañcaka=fives, uddeso=matrix
+[4-M-6-0] uddeso=matrix, chakka=sixes
+[4-M-7-0] uddeso=matrix, sattaka=sevens
+[4-M-8-0] aṭṭhaka=eights, uddeso=matrix
+[4-M-10-0] uddeso=matrix, dasaka=tens
 [T-1] sambuddha=awakened, sambuddha=Awakened Buddha, bhagavato=blessed, sambuddha=buddha, sammā=fully, sammāsambuddhassa=Fully Awakened, sammāsambuddhassa=Fully Awakened Buddha, namo=homage, arahato=worthy

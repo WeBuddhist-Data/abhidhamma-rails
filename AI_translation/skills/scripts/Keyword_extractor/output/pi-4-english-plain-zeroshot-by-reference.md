@@ -220,7 +220,7 @@
 [4-207] arahant, arahantship, eights, exposition, fruit, fruit of stream-entry, non-returner, non-returning, once-returner, once-returning, path, persons, persons who possess, possess, practising, practising to realize, realize, realize the fruit, stream-enterer, stream-entry, variant, worthy
 [4-208] all-knowing, all-knowing wisdom, attain, attained, attains, awakened, Awakened Buddha, awakens, body, body-witness, buddha, carried, cessation, cessation of suffering, clearly, destroyed, develops, established, examined, exposition, faculty, faith, follower, follower by faith, fruit, fruit of stream-entry, fully, Fully Awakened, Fully Awakened Buddha, having, heard, kind, kind of person, liberated, liberated by faith, liberations, live, lives, mastery, nines, noble, noble path, once, path, path leading, person, person is called, person lives, person practising, person understands, powers, practising, practising to realize, predominant, proclaimed, realize, realize the fruit, really, regarding, solitary, Solitary Buddha, stream-entry, suffering, taints, teaching, teachings, teachings not heard, teachings proclaimed, themselves, thoroughly, touched, truths, understands, view, ways, wisdom
 [4-209] arahant, arrival, attains, attains final, attains final release, becomes, complete, description, Description of Persons, effort, exposition, extent, family, final release, goal, goes, heaven, highest, interval, leaving, life, lives, once-returner, persons, reach, release, seed, single, tens, treatise, upstream, worthy
-[4-M-0] outline
+[4-M-0] matrix
 [4-M-1] aggregates, bases, description, Description of Persons, elements, faculties, kinds, persons, sense, sense bases, truths
 [4-M-2] aggregate, aggregates, aggregates cover, aggregates covers, consciousness, cover, covers, description, feeling, form, formations, material, mental, perception
 [4-M-3] bases, bases cover, bases covers, body, cover, covers, description, ear, eye, mental, mind, mind base, nose, objects, sense, sense bases, sense bases cover, sense bases covers, smell, sound, taste, tongue, touch, twelve, visible-form
@@ -236,15 +236,15 @@
 [4-M-13] across, again, attained, body-witness, brahmin, comes, crossed, dry, faith, follower, follower by faith, foothold, land, liberated, liberated by faith, like, looks, once, people, persons, reaches, sevens, shore, sinks, stands, stays, sunk, swims, teaching, true, view, water, ways, wisdom
 [4-M-14] eights, fruit, path, persons, persons who possess, possess
 [4-M-15] attained, awakened, Awakened Buddha, body-witness, buddha, faith, follower, follower by faith, fully, Fully Awakened, Fully Awakened Buddha, liberated, liberated by faith, nines, persons, solitary, Solitary Buddha, teaching, view, ways, wisdom
-[4-M-16] complete, description, Description of Persons, goal, leaving, outline, persons, reach, ten, Ten persons, tens
-[4-M-1-0] outline, single, Single Types, types
-[4-M-2-0] outline, pairs
-[4-M-3-0] outline, threes
-[4-M-4-0] fours, outline
-[4-M-9-0] nines, outline
-[4-M-5-0] fives, outline
-[4-M-6-0] outline, sixes
-[4-M-7-0] outline, sevens
-[4-M-8-0] eights, outline
-[4-M-10-0] outline, tens
+[4-M-16] complete, description, Description of Persons, goal, leaving, matrix, persons, reach, ten, Ten persons, tens
+[4-M-1-0] matrix, single, Single Types, types
+[4-M-2-0] matrix, pairs
+[4-M-3-0] matrix, threes
+[4-M-4-0] fours, matrix
+[4-M-9-0] nines, matrix
+[4-M-5-0] fives, matrix
+[4-M-6-0] matrix, sixes
+[4-M-7-0] matrix, sevens
+[4-M-8-0] eights, matrix
+[4-M-10-0] matrix, tens
 [T-1] awakened, Awakened Buddha, blessed, buddha, fully, Fully Awakened, Fully Awakened Buddha, homage, worthy

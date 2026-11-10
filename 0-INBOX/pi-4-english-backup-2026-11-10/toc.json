@@ -1,0 +1,277 @@
+[
+ {
+  "id": "R7GQNLqnqzRctri4qTMNk",
+  "edition_id": "E9ox1ON9xZVrrjoaE5sHJ",
+  "text_id": "jefOIeF2AWloYGYdf8Q7s",
+  "sections": [
+   {
+    "id": "usL5crjfzsePJ0miQuGK8",
+    "title": {
+     "en": "In the Abhidhamma Piṭaka"
+    },
+    "span": {
+     "start": 66,
+     "end": 181988
+    },
+    "subsections": [
+     {
+      "id": "0pbYRhx2z5iHPjVALbeZ7",
+      "title": {
+       "en": "The Description of Persons"
+      },
+      "span": {
+       "start": 66,
+       "end": 181988
+      },
+      "subsections": [
+       {
+        "id": "l53ZFQWjV2rANObyAJFbV",
+        "title": {
+         "en": "Outline"
+        },
+        "span": {
+         "start": 66,
+         "end": 17885
+        },
+        "subsections": [
+         {
+          "id": "eFJmNkS217P1guJ3TnwNW",
+          "title": {
+           "en": "Outline of Single Types"
+          },
+          "span": {
+           "start": 66,
+           "end": 4234
+          },
+          "subsections": []
+         },
+         {
+          "id": "yzXUxonjGwh0dRu9x5e3Q",
+          "title": {
+           "en": "Outline of Pairs"
+          },
+          "span": {
+           "start": 4234,
+           "end": 5808
+          },
+          "subsections": []
+         },
+         {
+          "id": "FQE9z2EiLNuROF5uX8UxA",
+          "title": {
+           "en": "Outline of Threes"
+          },
+          "span": {
+           "start": 5808,
+           "end": 8032
+          },
+          "subsections": []
+         },
+         {
+          "id": "5YvefmU42aVvCsWe5ZIVN",
+          "title": {
+           "en": "Outline of Fours"
+          },
+          "span": {
+           "start": 8032,
+           "end": 13741
+          },
+          "subsections": []
+         },
+         {
+          "id": "BWPv1fnW5vSGJbnRZjQ5B",
+          "title": {
+           "en": "Outline of Fives"
+          },
+          "span": {
+           "start": 13741,
+           "end": 15536
+          },
+          "subsections": []
+         },
+         {
+          "id": "wCrifiLoJvW5oXfUuHB46",
+          "title": {
+           "en": "Outline of Sixes"
+          },
+          "span": {
+           "start": 15536,
+           "end": 16822
+          },
+          "subsections": []
+         },
+         {
+          "id": "Ssbtl4ETXl4B7xthMnpju",
+          "title": {
+           "en": "Outline of Sevens"
+          },
+          "span": {
+           "start": 16822,
+           "end": 17384
+          },
+          "subsections": []
+         },
+         {
+          "id": "sjODZQh1UjTbhOwpT5M4A",
+          "title": {
+           "en": "Outline of Eights"
+          },
+          "span": {
+           "start": 17384,
+           "end": 17492
+          },
+          "subsections": []
+         },
+         {
+          "id": "Zr31owvauZipb8CCNSEw3",
+          "title": {
+           "en": "Outline of Nines"
+          },
+          "span": {
+           "start": 17492,
+           "end": 17724
+          },
+          "subsections": []
+         },
+         {
+          "id": "R8oicgdvaRy8Wz02nUerQ",
+          "title": {
+           "en": "Outline of Tens"
+          },
+          "span": {
+           "start": 17724,
+           "end": 17885
+          },
+          "subsections": []
+         }
+        ]
+       },
+       {
+        "id": "mUyyaP6LrQxl9pQHuZJVT",
+        "title": {
+         "en": "Exposition"
+        },
+        "span": {
+         "start": 17885,
+         "end": 181988
+        },
+        "subsections": [
+         {
+          "id": "fbkn739d3vZOkJhcAqKlo",
+          "title": {
+           "en": "Description of Single Types of Persons"
+          },
+          "span": {
+           "start": 17885,
+           "end": 33113
+          },
+          "subsections": []
+         },
+         {
+          "id": "JhFUTZ7OJTij12xnOhlse",
+          "title": {
+           "en": "Description of Pairs of Persons"
+          },
+          "span": {
+           "start": 33113,
+           "end": 54372
+          },
+          "subsections": []
+         },
+         {
+          "id": "FXUIQmM2YJUA0UH229th0",
+          "title": {
+           "en": "Description of Threes of Persons"
+          },
+          "span": {
+           "start": 54372,
+           "end": 86789
+          },
+          "subsections": []
+         },
+         {
+          "id": "H14Yt3xVEDDlwdvprJgVS",
+          "title": {
+           "en": "Description of Fours of Persons"
+          },
+          "span": {
+           "start": 86789,
+           "end": 154822
+          },
+          "subsections": []
+         },
+         {
+          "id": "CHfUoORAxmcZw5irEHqY6",
+          "title": {
+           "en": "Description of Fives of Persons"
+          },
+          "span": {
+           "start": 154822,
+           "end": 171583
+          },
+          "subsections": []
+         },
+         {
+          "id": "o6vK2kft9EoNtMrQM6ifx",
+          "title": {
+           "en": "Description of Sixes of Persons"
+          },
+          "span": {
+           "start": 171583,
+           "end": 173179
+          },
+          "subsections": []
+         },
+         {
+          "id": "xwZhInrqBPo9mDlHPnRum",
+          "title": {
+           "en": "Description of Sevens of Persons"
+          },
+          "span": {
+           "start": 173179,
+           "end": 177824
+          },
+          "subsections": []
+         },
+         {
+          "id": "yzx7i8yIDosnGobl5r1XC",
+          "title": {
+           "en": "Description of Eights of Persons"
+          },
+          "span": {
+           "start": 177824,
+           "end": 178405
+          },
+          "subsections": []
+         },
+         {
+          "id": "QjKtXrCQGG7U7L7xDag4M",
+          "title": {
+           "en": "Description of Nines of Persons"
+          },
+          "span": {
+           "start": 178405,
+           "end": 181271
+          },
+          "subsections": []
+         },
+         {
+          "id": "XTzr5fVPLJbnll4s229fi",
+          "title": {
+           "en": "Description of Tens of Persons"
+          },
+          "span": {
+           "start": 181271,
+           "end": 181988
+          },
+          "subsections": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

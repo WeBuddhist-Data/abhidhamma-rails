@@ -1,0 +1,3732 @@
+[
+ {
+  "lines": [
+   {
+    "start": 0,
+    "end": 66
+   }
+  ],
+  "id": "LBuvJxXBw5tNt77mm8NTK",
+  "type": "top_segment",
+  "reference": "T-1"
+ },
+ {
+  "lines": [
+   {
+    "start": 66,
+    "end": 289
+   }
+  ],
+  "id": "xCvkRPbkqTRThwrKnFDjg",
+  "type": "verse",
+  "reference": "4-M-1"
+ },
+ {
+  "lines": [
+   {
+    "start": 289,
+    "end": 578
+   }
+  ],
+  "id": "RrPZXGBwtKmQ1pbxttCLK",
+  "type": "verse",
+  "reference": "4-M-2"
+ },
+ {
+  "lines": [
+   {
+    "start": 578,
+    "end": 908
+   }
+  ],
+  "id": "rVSM5mJ3thVTPCi4l9pJp",
+  "type": "verse",
+  "reference": "4-M-3"
+ },
+ {
+  "lines": [
+   {
+    "start": 908,
+    "end": 1477
+   }
+  ],
+  "id": "vWx0RfKiAVUDqVuTpIfwg",
+  "type": "verse",
+  "reference": "4-M-4"
+ },
+ {
+  "lines": [
+   {
+    "start": 1477,
+    "end": 1703
+   }
+  ],
+  "id": "D20fweRB23Ypzapyn1TlM",
+  "type": "verse",
+  "reference": "4-M-5"
+ },
+ {
+  "lines": [
+   {
+    "start": 1703,
+    "end": 2369
+   }
+  ],
+  "id": "PPOBpq5Xwawz2lgLPj4oz",
+  "type": "verse",
+  "reference": "4-M-6"
+ },
+ {
+  "lines": [
+   {
+    "start": 2369,
+    "end": 2412
+   },
+   {
+    "start": 2412,
+    "end": 2438
+   },
+   {
+    "start": 2438,
+    "end": 2475
+   },
+   {
+    "start": 2475,
+    "end": 2514
+   },
+   {
+    "start": 2514,
+    "end": 2556
+   },
+   {
+    "start": 2556,
+    "end": 2583
+   },
+   {
+    "start": 2583,
+    "end": 2614
+   },
+   {
+    "start": 2614,
+    "end": 2654
+   },
+   {
+    "start": 2654,
+    "end": 2694
+   },
+   {
+    "start": 2694,
+    "end": 2716
+   },
+   {
+    "start": 2716,
+    "end": 2747
+   },
+   {
+    "start": 2747,
+    "end": 2780
+   },
+   {
+    "start": 2780,
+    "end": 2814
+   },
+   {
+    "start": 2814,
+    "end": 2839
+   },
+   {
+    "start": 2839,
+    "end": 2866
+   },
+   {
+    "start": 2866,
+    "end": 2897
+   },
+   {
+    "start": 2897,
+    "end": 2932
+   },
+   {
+    "start": 2932,
+    "end": 2958
+   },
+   {
+    "start": 2958,
+    "end": 2991
+   },
+   {
+    "start": 2991,
+    "end": 3027
+   },
+   {
+    "start": 3027,
+    "end": 3061
+   },
+   {
+    "start": 3061,
+    "end": 3077
+   },
+   {
+    "start": 3077,
+    "end": 3102
+   },
+   {
+    "start": 3102,
+    "end": 3116
+   },
+   {
+    "start": 3116,
+    "end": 3129
+   },
+   {
+    "start": 3129,
+    "end": 3175
+   },
+   {
+    "start": 3175,
+    "end": 3209
+   },
+   {
+    "start": 3209,
+    "end": 3248
+   },
+   {
+    "start": 3248,
+    "end": 3276
+   },
+   {
+    "start": 3276,
+    "end": 3329
+   },
+   {
+    "start": 3329,
+    "end": 3357
+   },
+   {
+    "start": 3357,
+    "end": 3385
+   },
+   {
+    "start": 3385,
+    "end": 3404
+   },
+   {
+    "start": 3404,
+    "end": 3429
+   },
+   {
+    "start": 3429,
+    "end": 3456
+   },
+   {
+    "start": 3456,
+    "end": 3487
+   },
+   {
+    "start": 3487,
+    "end": 3511
+   },
+   {
+    "start": 3511,
+    "end": 3549
+   },
+   {
+    "start": 3549,
+    "end": 3588
+   },
+   {
+    "start": 3588,
+    "end": 3615
+   },
+   {
+    "start": 3615,
+    "end": 3635
+   },
+   {
+    "start": 3635,
+    "end": 3654
+   },
+   {
+    "start": 3654,
+    "end": 3704
+   },
+   {
+    "start": 3704,
+    "end": 3749
+   },
+   {
+    "start": 3749,
+    "end": 3798
+   },
+   {
+    "start": 3798,
+    "end": 3844
+   },
+   {
+    "start": 3844,
+    "end": 3892
+   },
+   {
+    "start": 3892,
+    "end": 3913
+   },
+   {
+    "start": 3913,
+    "end": 3969
+   },
+   {
+    "start": 3969,
+    "end": 3989
+   },
+   {
+    "start": 3989,
+    "end": 4047
+   },
+   {
+    "start": 4047,
+    "end": 4066
+   },
+   {
+    "start": 4066,
+    "end": 4123
+   },
+   {
+    "start": 4123,
+    "end": 4138
+   },
+   {
+    "start": 4138,
+    "end": 4221
+   },
+   {
+    "start": 4221,
+    "end": 4234
+   }
+  ],
+  "id": "S8L8SIbnrhyrUfBh9jcxG",
+  "type": "verse",
+  "reference": "4-M-7"
+ },
+ {
+  "lines": [
+   {
+    "start": 4234,
+    "end": 4247
+   },
+   {
+    "start": 4247,
+    "end": 4295
+   },
+   {
+    "start": 4295,
+    "end": 4377
+   },
+   {
+    "start": 4377,
+    "end": 4423
+   },
+   {
+    "start": 4423,
+    "end": 4471
+   },
+   {
+    "start": 4471,
+    "end": 4526
+   },
+   {
+    "start": 4526,
+    "end": 4586
+   },
+   {
+    "start": 4586,
+    "end": 4680
+   },
+   {
+    "start": 4680,
+    "end": 4747
+   },
+   {
+    "start": 4747,
+    "end": 4822
+   },
+   {
+    "start": 4822,
+    "end": 4884
+   },
+   {
+    "start": 4884,
+    "end": 4944
+   },
+   {
+    "start": 4944,
+    "end": 5013
+   },
+   {
+    "start": 5013,
+    "end": 5077
+   },
+   {
+    "start": 5077,
+    "end": 5134
+   },
+   {
+    "start": 5134,
+    "end": 5190
+   },
+   {
+    "start": 5190,
+    "end": 5252
+   },
+   {
+    "start": 5252,
+    "end": 5337
+   },
+   {
+    "start": 5337,
+    "end": 5417
+   },
+   {
+    "start": 5417,
+    "end": 5481
+   },
+   {
+    "start": 5481,
+    "end": 5520
+   },
+   {
+    "start": 5520,
+    "end": 5557
+   },
+   {
+    "start": 5557,
+    "end": 5594
+   },
+   {
+    "start": 5594,
+    "end": 5632
+   },
+   {
+    "start": 5632,
+    "end": 5677
+   },
+   {
+    "start": 5677,
+    "end": 5746
+   },
+   {
+    "start": 5746,
+    "end": 5802
+   },
+   {
+    "start": 5802,
+    "end": 5808
+   }
+  ],
+  "id": "eS5hCGwuY7TXRO26r8u6b",
+  "type": "verse",
+  "reference": "4-M-8"
+ },
+ {
+  "lines": [
+   {
+    "start": 5808,
+    "end": 5823
+   },
+   {
+    "start": 5823,
+    "end": 5887
+   },
+   {
+    "start": 5887,
+    "end": 5929
+   },
+   {
+    "start": 5929,
+    "end": 5998
+   },
+   {
+    "start": 5998,
+    "end": 6102
+   },
+   {
+    "start": 6102,
+    "end": 6229
+   },
+   {
+    "start": 6229,
+    "end": 6296
+   },
+   {
+    "start": 6296,
+    "end": 6437
+   },
+   {
+    "start": 6437,
+    "end": 6704
+   },
+   {
+    "start": 6704,
+    "end": 6821
+   },
+   {
+    "start": 6821,
+    "end": 6865
+   },
+   {
+    "start": 6865,
+    "end": 6912
+   },
+   {
+    "start": 6912,
+    "end": 7004
+   },
+   {
+    "start": 7004,
+    "end": 7314
+   },
+   {
+    "start": 7314,
+    "end": 7619
+   },
+   {
+    "start": 7619,
+    "end": 7977
+   },
+   {
+    "start": 7977,
+    "end": 7997
+   },
+   {
+    "start": 7997,
+    "end": 8025
+   },
+   {
+    "start": 8025,
+    "end": 8032
+   }
+  ],
+  "id": "uiZGiYfwHTO2sQGNECZYD",
+  "type": "verse",
+  "reference": "4-M-9"
+ },
+ {
+  "lines": [
+   {
+    "start": 8032,
+    "end": 8046
+   },
+   {
+    "start": 8046,
+    "end": 8142
+   },
+   {
+    "start": 8142,
+    "end": 8244
+   },
+   {
+    "start": 8244,
+    "end": 8372
+   },
+   {
+    "start": 8372,
+    "end": 8517
+   },
+   {
+    "start": 8517,
+    "end": 8702
+   },
+   {
+    "start": 8702,
+    "end": 8926
+   },
+   {
+    "start": 8926,
+    "end": 8966
+   },
+   {
+    "start": 8966,
+    "end": 9007
+   },
+   {
+    "start": 9007,
+    "end": 9041
+   },
+   {
+    "start": 9041,
+    "end": 9079
+   },
+   {
+    "start": 9079,
+    "end": 9114
+   },
+   {
+    "start": 9114,
+    "end": 9150
+   },
+   {
+    "start": 9150,
+    "end": 9217
+   },
+   {
+    "start": 9217,
+    "end": 9254
+   },
+   {
+    "start": 9254,
+    "end": 9669
+   },
+   {
+    "start": 9669,
+    "end": 10044
+   },
+   {
+    "start": 10044,
+    "end": 10777
+   },
+   {
+    "start": 10777,
+    "end": 11049
+   },
+   {
+    "start": 11049,
+    "end": 11193
+   },
+   {
+    "start": 11193,
+    "end": 11297
+   },
+   {
+    "start": 11297,
+    "end": 11333
+   },
+   {
+    "start": 11333,
+    "end": 11451
+   },
+   {
+    "start": 11451,
+    "end": 11595
+   },
+   {
+    "start": 11595,
+    "end": 11934
+   },
+   {
+    "start": 11934,
+    "end": 12669
+   },
+   {
+    "start": 12669,
+    "end": 12746
+   },
+   {
+    "start": 12746,
+    "end": 13155
+   },
+   {
+    "start": 13155,
+    "end": 13371
+   },
+   {
+    "start": 13371,
+    "end": 13619
+   },
+   {
+    "start": 13619,
+    "end": 13735
+   },
+   {
+    "start": 13735,
+    "end": 13741
+   }
+  ],
+  "id": "UF8Yw04cfppOO57Oo616p",
+  "type": "verse",
+  "reference": "4-M-10"
+ },
+ {
+  "lines": [
+   {
+    "start": 13741,
+    "end": 13755
+   },
+   {
+    "start": 13755,
+    "end": 14916
+   },
+   {
+    "start": 14916,
+    "end": 15102
+   },
+   {
+    "start": 15102,
+    "end": 15140
+   },
+   {
+    "start": 15140,
+    "end": 15172
+   },
+   {
+    "start": 15172,
+    "end": 15211
+   },
+   {
+    "start": 15211,
+    "end": 15243
+   },
+   {
+    "start": 15243,
+    "end": 15280
+   },
+   {
+    "start": 15280,
+    "end": 15314
+   },
+   {
+    "start": 15314,
+    "end": 15339
+   },
+   {
+    "start": 15339,
+    "end": 15380
+   },
+   {
+    "start": 15380,
+    "end": 15415
+   },
+   {
+    "start": 15415,
+    "end": 15444
+   },
+   {
+    "start": 15444,
+    "end": 15492
+   },
+   {
+    "start": 15492,
+    "end": 15530
+   },
+   {
+    "start": 15530,
+    "end": 15536
+   }
+  ],
+  "id": "L3rc8J6HLAT6GG0Ab0vaW",
+  "type": "verse",
+  "reference": "4-M-11"
+ },
+ {
+  "lines": [
+   {
+    "start": 15536,
+    "end": 15549
+   },
+   {
+    "start": 15549,
+    "end": 16816
+   },
+   {
+    "start": 16816,
+    "end": 16822
+   }
+  ],
+  "id": "IfShOfaGn2AlNTzyr09LT",
+  "type": "verse",
+  "reference": "4-M-12"
+ },
+ {
+  "lines": [
+   {
+    "start": 16822,
+    "end": 16837
+   },
+   {
+    "start": 16837,
+    "end": 17209
+   },
+   {
+    "start": 17209,
+    "end": 17377
+   },
+   {
+    "start": 17377,
+    "end": 17384
+   }
+  ],
+  "id": "REhpW39Q40Lfo1Ay5gsla",
+  "type": "verse",
+  "reference": "4-M-13"
+ },
+ {
+  "lines": [
+   {
+    "start": 17384,
+    "end": 17399
+   },
+   {
+    "start": 17399,
+    "end": 17485
+   },
+   {
+    "start": 17485,
+    "end": 17492
+   }
+  ],
+  "id": "VMGqcWtG4VRo1o0q9gXTv",
+  "type": "verse",
+  "reference": "4-M-14"
+ },
+ {
+  "lines": [
+   {
+    "start": 17492,
+    "end": 17506
+   },
+   {
+    "start": 17506,
+    "end": 17718
+   },
+   {
+    "start": 17718,
+    "end": 17724
+   }
+  ],
+  "id": "E2w6rbvskWb2ERT4AeB25",
+  "type": "verse",
+  "reference": "4-M-15"
+ },
+ {
+  "lines": [
+   {
+    "start": 17724,
+    "end": 17737
+   },
+   {
+    "start": 17737,
+    "end": 17826
+   },
+   {
+    "start": 17826,
+    "end": 17831
+   },
+   {
+    "start": 17831,
+    "end": 17885
+   }
+  ],
+  "id": "P3Cw00i2rOZ3z50yIYCJk",
+  "type": "verse",
+  "reference": "4-M-16"
+ },
+ {
+  "lines": [
+   {
+    "start": 17885,
+    "end": 18197
+   }
+  ],
+  "id": "F3Rmjb6UtrAc4fGKvvcCx",
+  "type": "verse",
+  "reference": "4-1"
+ },
+ {
+  "lines": [
+   {
+    "start": 18197,
+    "end": 18589
+   }
+  ],
+  "id": "5BM1H0HqEWIeo5I7VWoIQ",
+  "type": "verse",
+  "reference": "4-2"
+ },
+ {
+  "lines": [
+   {
+    "start": 18589,
+    "end": 19086
+   }
+  ],
+  "id": "xPna1dvsLdXJwd3GVASJ0",
+  "type": "verse",
+  "reference": "4-3"
+ },
+ {
+  "lines": [
+   {
+    "start": 19086,
+    "end": 19697
+   }
+  ],
+  "id": "0ws2dmkqDkUWtZS4JdME6",
+  "type": "verse",
+  "reference": "4-4"
+ },
+ {
+  "lines": [
+   {
+    "start": 19697,
+    "end": 20172
+   }
+  ],
+  "id": "OhbhSGGysJhXy1xsMwBJK",
+  "type": "verse",
+  "reference": "4-5"
+ },
+ {
+  "lines": [
+   {
+    "start": 20172,
+    "end": 20752
+   }
+  ],
+  "id": "yUXCuKVMlNDVpDb4GMiVz",
+  "type": "verse",
+  "reference": "4-6"
+ },
+ {
+  "lines": [
+   {
+    "start": 20752,
+    "end": 21322
+   }
+  ],
+  "id": "YRVSuD3fbSKQDvBtN1xIa",
+  "type": "verse",
+  "reference": "4-7"
+ },
+ {
+  "lines": [
+   {
+    "start": 21322,
+    "end": 21862
+   }
+  ],
+  "id": "D1lK3GqiofIco6vKVc6eC",
+  "type": "verse",
+  "reference": "4-8"
+ },
+ {
+  "lines": [
+   {
+    "start": 21862,
+    "end": 22050
+   }
+  ],
+  "id": "OOfdjqxuYL325jcCal47C",
+  "type": "verse",
+  "reference": "4-9"
+ },
+ {
+  "lines": [
+   {
+    "start": 22050,
+    "end": 22244
+   }
+  ],
+  "id": "n4rXUpBq2FeEBZZKW8tC2",
+  "type": "verse",
+  "reference": "4-10"
+ },
+ {
+  "lines": [
+   {
+    "start": 22244,
+    "end": 22416
+   }
+  ],
+  "id": "sWCnKbNXVeRSjNVwMnGp2",
+  "type": "verse",
+  "reference": "4-11"
+ },
+ {
+  "lines": [
+   {
+    "start": 22416,
+    "end": 22735
+   }
+  ],
+  "id": "Vnbh4IGwnBJ0AFQBgNVq4",
+  "type": "verse",
+  "reference": "4-12"
+ },
+ {
+  "lines": [
+   {
+    "start": 22735,
+    "end": 23080
+   }
+  ],
+  "id": "CVfOcGE485ZleaBySNygT",
+  "type": "verse",
+  "reference": "4-13"
+ },
+ {
+  "lines": [
+   {
+    "start": 23080,
+    "end": 23363
+   }
+  ],
+  "id": "cvWGA5cTWLnp5OFUJHCYU",
+  "type": "verse",
+  "reference": "4-14"
+ },
+ {
+  "lines": [
+   {
+    "start": 23363,
+    "end": 23545
+   }
+  ],
+  "id": "8srQVuRTS0ecjbrEOW2JC",
+  "type": "verse",
+  "reference": "4-15"
+ },
+ {
+  "lines": [
+   {
+    "start": 23545,
+    "end": 23775
+   }
+  ],
+  "id": "lIqOzW4WNsmB2hJczGfXx",
+  "type": "verse",
+  "reference": "4-16"
+ },
+ {
+  "lines": [
+   {
+    "start": 23775,
+    "end": 24157
+   }
+  ],
+  "id": "NhFPlF3JO94rtWExUJbaO",
+  "type": "verse",
+  "reference": "4-17"
+ },
+ {
+  "lines": [
+   {
+    "start": 24157,
+    "end": 24264
+   }
+  ],
+  "id": "c7nwUCUzBIcXxUyoazWXj",
+  "type": "verse",
+  "reference": "4-18"
+ },
+ {
+  "lines": [
+   {
+    "start": 24264,
+    "end": 24474
+   }
+  ],
+  "id": "mIQGID2dZ0MHZKTHsDUc2",
+  "type": "verse",
+  "reference": "4-19"
+ },
+ {
+  "lines": [
+   {
+    "start": 24474,
+    "end": 24607
+   }
+  ],
+  "id": "GC1i8mLoq3EYcgpIBX2wl",
+  "type": "verse",
+  "reference": "4-20"
+ },
+ {
+  "lines": [
+   {
+    "start": 24607,
+    "end": 24755
+   }
+  ],
+  "id": "9GeoZAl1iZasezKbezSiB",
+  "type": "verse",
+  "reference": "4-21"
+ },
+ {
+  "lines": [
+   {
+    "start": 24755,
+    "end": 24999
+   }
+  ],
+  "id": "5doegoIJO0oMhD7E38C4H",
+  "type": "verse",
+  "reference": "4-22"
+ },
+ {
+  "lines": [
+   {
+    "start": 24999,
+    "end": 25240
+   }
+  ],
+  "id": "zlyB1tmo944gnkrSREKzk",
+  "type": "verse",
+  "reference": "4-23"
+ },
+ {
+  "lines": [
+   {
+    "start": 25240,
+    "end": 25467
+   }
+  ],
+  "id": "u04Gzclh63AJxVQkyqJiT",
+  "type": "verse",
+  "reference": "4-24"
+ },
+ {
+  "lines": [
+   {
+    "start": 25467,
+    "end": 25701
+   }
+  ],
+  "id": "yvyFjS3iZOq74oD1PZUjV",
+  "type": "verse",
+  "reference": "4-25"
+ },
+ {
+  "lines": [
+   {
+    "start": 25701,
+    "end": 25917
+   }
+  ],
+  "id": "1eMbdHsUvz5dNNeNdNf7y",
+  "type": "verse",
+  "reference": "4-26"
+ },
+ {
+  "lines": [
+   {
+    "start": 25917,
+    "end": 26422
+   }
+  ],
+  "id": "btzLhmIw5p2mWrHqXAIR4",
+  "type": "verse",
+  "reference": "4-27"
+ },
+ {
+  "lines": [
+   {
+    "start": 26422,
+    "end": 26985
+   }
+  ],
+  "id": "RYrLoHhR8mqdmm4Tm4XVm",
+  "type": "verse",
+  "reference": "4-28"
+ },
+ {
+  "lines": [
+   {
+    "start": 26985,
+    "end": 27427
+   }
+  ],
+  "id": "B1xDISEjbkWCowlfDEhuk",
+  "type": "verse",
+  "reference": "4-29"
+ },
+ {
+  "lines": [
+   {
+    "start": 27427,
+    "end": 27847
+   }
+  ],
+  "id": "W3bARfiR2ha00t7iHjufO",
+  "type": "verse",
+  "reference": "4-30"
+ },
+ {
+  "lines": [
+   {
+    "start": 27847,
+    "end": 28279
+   }
+  ],
+  "id": "Cvs22A4N0XnUa2vnsMYAL",
+  "type": "verse",
+  "reference": "4-31"
+ },
+ {
+  "lines": [
+   {
+    "start": 28279,
+    "end": 28670
+   }
+  ],
+  "id": "wJWvJrfjgDVLkklEaPZnb",
+  "type": "verse",
+  "reference": "4-32"
+ },
+ {
+  "lines": [
+   {
+    "start": 28670,
+    "end": 29016
+   }
+  ],
+  "id": "Ibwpam7HsNSFIGxbMqiAa",
+  "type": "verse",
+  "reference": "4-33"
+ },
+ {
+  "lines": [
+   {
+    "start": 29016,
+    "end": 29303
+   }
+  ],
+  "id": "FKcNGH2iVgXb2YEQA1pkx",
+  "type": "verse",
+  "reference": "4-34"
+ },
+ {
+  "lines": [
+   {
+    "start": 29303,
+    "end": 29561
+   }
+  ],
+  "id": "3eQOW1wNAjCDQpVmPpLMY",
+  "type": "verse",
+  "reference": "4-35"
+ },
+ {
+  "lines": [
+   {
+    "start": 29561,
+    "end": 30036
+   }
+  ],
+  "id": "ncyxUbMmk2Pi8FWCZ03JV",
+  "type": "verse",
+  "reference": "4-36"
+ },
+ {
+  "lines": [
+   {
+    "start": 30036,
+    "end": 30516
+   }
+  ],
+  "id": "TUGqRrelylvto3jFOR1pQ",
+  "type": "verse",
+  "reference": "4-37"
+ },
+ {
+  "lines": [
+   {
+    "start": 30516,
+    "end": 30917
+   }
+  ],
+  "id": "wMvT2ET4WD9UcxDaKCxeZ",
+  "type": "verse",
+  "reference": "4-38"
+ },
+ {
+  "lines": [
+   {
+    "start": 30917,
+    "end": 31309
+   }
+  ],
+  "id": "kgkp9sIUFC6fyhCcmN9LP",
+  "type": "verse",
+  "reference": "4-39"
+ },
+ {
+  "lines": [
+   {
+    "start": 31309,
+    "end": 31986
+   }
+  ],
+  "id": "E61LtzvTTUMwy8y5ObCLF",
+  "type": "verse",
+  "reference": "4-40"
+ },
+ {
+  "lines": [
+   {
+    "start": 31986,
+    "end": 32277
+   }
+  ],
+  "id": "SfeqVbh6G8nZhGmvwJAK7",
+  "type": "verse",
+  "reference": "4-41"
+ },
+ {
+  "lines": [
+   {
+    "start": 32277,
+    "end": 32489
+   }
+  ],
+  "id": "dA4D2vS1KHy9d0VBkbDjY",
+  "type": "verse",
+  "reference": "4-42"
+ },
+ {
+  "lines": [
+   {
+    "start": 32489,
+    "end": 32737
+   }
+  ],
+  "id": "wLhJnHWemBsjDQxS473G3",
+  "type": "verse",
+  "reference": "4-43"
+ },
+ {
+  "lines": [
+   {
+    "start": 32737,
+    "end": 33075
+   },
+   {
+    "start": 33075,
+    "end": 33113
+   }
+  ],
+  "id": "ctqJJdJG7mMVRsjeOpC8b",
+  "type": "verse",
+  "reference": "4-44"
+ },
+ {
+  "lines": [
+   {
+    "start": 33113,
+    "end": 33539
+   }
+  ],
+  "id": "MMEOCOmKS7JVUK9VbpwI9",
+  "type": "verse",
+  "reference": "4-45"
+ },
+ {
+  "lines": [
+   {
+    "start": 33539,
+    "end": 33992
+   }
+  ],
+  "id": "TnjqP3T0lSImElI5M66Lu",
+  "type": "verse",
+  "reference": "4-46"
+ },
+ {
+  "lines": [
+   {
+    "start": 33992,
+    "end": 34393
+   }
+  ],
+  "id": "PQW6VHJqwXrhIojCCV1xJ",
+  "type": "verse",
+  "reference": "4-47"
+ },
+ {
+  "lines": [
+   {
+    "start": 34393,
+    "end": 34748
+   }
+  ],
+  "id": "l7n8jWu72zJUKDgkuF3bb",
+  "type": "verse",
+  "reference": "4-48"
+ },
+ {
+  "lines": [
+   {
+    "start": 34748,
+    "end": 35142
+   }
+  ],
+  "id": "GJiKg9QZVmk2c534c9X7b",
+  "type": "verse",
+  "reference": "4-49"
+ },
+ {
+  "lines": [
+   {
+    "start": 35142,
+    "end": 35669
+   }
+  ],
+  "id": "33FOj7F878klIlgAruUKl",
+  "type": "verse",
+  "reference": "4-50"
+ },
+ {
+  "lines": [
+   {
+    "start": 35669,
+    "end": 36129
+   }
+  ],
+  "id": "cCWajea8iYtAMYadogrOJ",
+  "type": "verse",
+  "reference": "4-51"
+ },
+ {
+  "lines": [
+   {
+    "start": 36129,
+    "end": 36860
+   }
+  ],
+  "id": "0RKz7h9eXmBU3rdIpvczp",
+  "type": "verse",
+  "reference": "4-52"
+ },
+ {
+  "lines": [
+   {
+    "start": 36860,
+    "end": 37161
+   }
+  ],
+  "id": "UvVXarqWlqME9B6CP0ls7",
+  "type": "verse",
+  "reference": "4-53"
+ },
+ {
+  "lines": [
+   {
+    "start": 37161,
+    "end": 37499
+   }
+  ],
+  "id": "aZ2dUXZZxsLRpJkYHwoQQ",
+  "type": "verse",
+  "reference": "4-54"
+ },
+ {
+  "lines": [
+   {
+    "start": 37499,
+    "end": 37949
+   }
+  ],
+  "id": "k122fYLmzMrssAmMM08VJ",
+  "type": "verse",
+  "reference": "4-55"
+ },
+ {
+  "lines": [
+   {
+    "start": 37949,
+    "end": 38429
+   }
+  ],
+  "id": "F8cMJ6x7oBxHNEMv0CZwH",
+  "type": "verse",
+  "reference": "4-56"
+ },
+ {
+  "lines": [
+   {
+    "start": 38429,
+    "end": 39752
+   }
+  ],
+  "id": "fXyarRmHDfpbyLusAEThE",
+  "type": "verse",
+  "reference": "4-57"
+ },
+ {
+  "lines": [
+   {
+    "start": 39752,
+    "end": 40239
+   }
+  ],
+  "id": "y9D7CJtVucQodL6HMkDzB",
+  "type": "verse",
+  "reference": "4-58"
+ },
+ {
+  "lines": [
+   {
+    "start": 40239,
+    "end": 40584
+   }
+  ],
+  "id": "tWEaea9NdHWiIgX15xyky",
+  "type": "verse",
+  "reference": "4-59"
+ },
+ {
+  "lines": [
+   {
+    "start": 40584,
+    "end": 41364
+   }
+  ],
+  "id": "UAuiQT5jBebR7VEybXeDu",
+  "type": "verse",
+  "reference": "4-60"
+ },
+ {
+  "lines": [
+   {
+    "start": 41364,
+    "end": 41729
+   }
+  ],
+  "id": "pOH54pKUULdkFCnN476E9",
+  "type": "verse",
+  "reference": "4-61"
+ },
+ {
+  "lines": [
+   {
+    "start": 41729,
+    "end": 42841
+   }
+  ],
+  "id": "K473F0yWhocot0BaPYS4n",
+  "type": "verse",
+  "reference": "4-62"
+ },
+ {
+  "lines": [
+   {
+    "start": 42841,
+    "end": 43003
+   }
+  ],
+  "id": "m0fjCzdU2S7Gu3FNIi8w2",
+  "type": "verse",
+  "reference": "4-63"
+ },
+ {
+  "lines": [
+   {
+    "start": 43003,
+    "end": 43166
+   }
+  ],
+  "id": "ITCCtpGZ7Y93tN1OQaxig",
+  "type": "verse",
+  "reference": "4-64"
+ },
+ {
+  "lines": [
+   {
+    "start": 43166,
+    "end": 43568
+   }
+  ],
+  "id": "GFPEPpAe9MEjpR8J46U45",
+  "type": "verse",
+  "reference": "4-65"
+ },
+ {
+  "lines": [
+   {
+    "start": 43568,
+    "end": 43986
+   }
+  ],
+  "id": "uHWjvwUCZi2z9ov330PL9",
+  "type": "verse",
+  "reference": "4-66"
+ },
+ {
+  "lines": [
+   {
+    "start": 43986,
+    "end": 44323
+   }
+  ],
+  "id": "qXYitMqVEj82OoyIGR7zS",
+  "type": "verse",
+  "reference": "4-67"
+ },
+ {
+  "lines": [
+   {
+    "start": 44323,
+    "end": 44690
+   }
+  ],
+  "id": "JmZWwO4CkiIZMJrAroLaX",
+  "type": "verse",
+  "reference": "4-68"
+ },
+ {
+  "lines": [
+   {
+    "start": 44690,
+    "end": 45046
+   }
+  ],
+  "id": "qhoimfdJenaqWDqUOqAt4",
+  "type": "verse",
+  "reference": "4-69"
+ },
+ {
+  "lines": [
+   {
+    "start": 45046,
+    "end": 45593
+   }
+  ],
+  "id": "2gRCbn5zDRL4mvUMspzA0",
+  "type": "verse",
+  "reference": "4-70"
+ },
+ {
+  "lines": [
+   {
+    "start": 45593,
+    "end": 45955
+   }
+  ],
+  "id": "MolBVim2htuX744TbIpNr",
+  "type": "verse",
+  "reference": "4-71"
+ },
+ {
+  "lines": [
+   {
+    "start": 45955,
+    "end": 46690
+   }
+  ],
+  "id": "3hXvAVCwwrNXp75gK2kVq",
+  "type": "verse",
+  "reference": "4-72"
+ },
+ {
+  "lines": [
+   {
+    "start": 46690,
+    "end": 46977
+   }
+  ],
+  "id": "ZelXeybm9MG7KijjojlLw",
+  "type": "verse",
+  "reference": "4-73"
+ },
+ {
+  "lines": [
+   {
+    "start": 46977,
+    "end": 47283
+   }
+  ],
+  "id": "KgKjX3v12uUWFDjxmMgix",
+  "type": "verse",
+  "reference": "4-74"
+ },
+ {
+  "lines": [
+   {
+    "start": 47283,
+    "end": 47706
+   }
+  ],
+  "id": "CLTcnd2IEiFAwLmvH3Rgb",
+  "type": "verse",
+  "reference": "4-75"
+ },
+ {
+  "lines": [
+   {
+    "start": 47706,
+    "end": 48189
+   }
+  ],
+  "id": "gaqSp5ZQyhVsKgnHLxLfg",
+  "type": "verse",
+  "reference": "4-76"
+ },
+ {
+  "lines": [
+   {
+    "start": 48189,
+    "end": 49407
+   }
+  ],
+  "id": "z6jzalSfiik8dGs5LA6B5",
+  "type": "verse",
+  "reference": "4-77"
+ },
+ {
+  "lines": [
+   {
+    "start": 49407,
+    "end": 50127
+   }
+  ],
+  "id": "NGN8eWYS2NgCKNq2PSG7k",
+  "type": "verse",
+  "reference": "4-78"
+ },
+ {
+  "lines": [
+   {
+    "start": 50127,
+    "end": 50549
+   }
+  ],
+  "id": "RZx9UbfHEWn9YB4eLiJve",
+  "type": "verse",
+  "reference": "4-79"
+ },
+ {
+  "lines": [
+   {
+    "start": 50549,
+    "end": 51276
+   }
+  ],
+  "id": "M3K9HAL77QcUVsa2coTKb",
+  "type": "verse",
+  "reference": "4-80"
+ },
+ {
+  "lines": [
+   {
+    "start": 51276,
+    "end": 51674
+   }
+  ],
+  "id": "maVfv5A4QtNk1T6tYOcSY",
+  "type": "verse",
+  "reference": "4-81"
+ },
+ {
+  "lines": [
+   {
+    "start": 51674,
+    "end": 52468
+   }
+  ],
+  "id": "EZwUxJKAnGePeCjCQhUgW",
+  "type": "verse",
+  "reference": "4-82"
+ },
+ {
+  "lines": [
+   {
+    "start": 52468,
+    "end": 52668
+   }
+  ],
+  "id": "K75Bv9kVE8IMpbasufYCL",
+  "type": "verse",
+  "reference": "4-83"
+ },
+ {
+  "lines": [
+   {
+    "start": 52668,
+    "end": 52851
+   }
+  ],
+  "id": "Mneo37Nn6YRP74xJTAZeO",
+  "type": "verse",
+  "reference": "4-84"
+ },
+ {
+  "lines": [
+   {
+    "start": 52851,
+    "end": 53050
+   }
+  ],
+  "id": "I455HgPtjNsI8ckSOgGsl",
+  "type": "verse",
+  "reference": "4-85"
+ },
+ {
+  "lines": [
+   {
+    "start": 53050,
+    "end": 53274
+   }
+  ],
+  "id": "CLqxOl6b6Gy2vPdPOUJmd",
+  "type": "verse",
+  "reference": "4-86"
+ },
+ {
+  "lines": [
+   {
+    "start": 53274,
+    "end": 53509
+   }
+  ],
+  "id": "Zeo5sOBkt5spvoJnMVSvm",
+  "type": "verse",
+  "reference": "4-87"
+ },
+ {
+  "lines": [
+   {
+    "start": 53509,
+    "end": 53762
+   }
+  ],
+  "id": "J8EPR1TBxKlq1fC8VmNHn",
+  "type": "verse",
+  "reference": "4-88"
+ },
+ {
+  "lines": [
+   {
+    "start": 53762,
+    "end": 54039
+   }
+  ],
+  "id": "6QRjLtX7cieynEUZXvQmv",
+  "type": "verse",
+  "reference": "4-89"
+ },
+ {
+  "lines": [
+   {
+    "start": 54039,
+    "end": 54341
+   },
+   {
+    "start": 54341,
+    "end": 54372
+   }
+  ],
+  "id": "s6wVbMXUhpOOnTEtisQA5",
+  "type": "verse",
+  "reference": "4-90"
+ },
+ {
+  "lines": [
+   {
+    "start": 54372,
+    "end": 55210
+   }
+  ],
+  "id": "aHfQFZLNmoA2V8S7KgpjM",
+  "type": "verse",
+  "reference": "4-91"
+ },
+ {
+  "lines": [
+   {
+    "start": 55210,
+    "end": 55838
+   }
+  ],
+  "id": "BU88v3lV752ILzv2dn3A8",
+  "type": "verse",
+  "reference": "4-92"
+ },
+ {
+  "lines": [
+   {
+    "start": 55838,
+    "end": 56768
+   }
+  ],
+  "id": "54Ket5s22Um5i4hzwKyt7",
+  "type": "verse",
+  "reference": "4-93"
+ },
+ {
+  "lines": [
+   {
+    "start": 56768,
+    "end": 57147
+   },
+   {
+    "start": 57147,
+    "end": 57425
+   },
+   {
+    "start": 57425,
+    "end": 57668
+   },
+   {
+    "start": 57668,
+    "end": 58131
+   },
+   {
+    "start": 58131,
+    "end": 58584
+   },
+   {
+    "start": 58584,
+    "end": 58894
+   },
+   {
+    "start": 58894,
+    "end": 59135
+   },
+   {
+    "start": 59135,
+    "end": 59635
+   }
+  ],
+  "id": "ey0qD2tD4mdHBHwDYr1iR",
+  "type": "verse",
+  "reference": "4-94"
+ },
+ {
+  "lines": [
+   {
+    "start": 59635,
+    "end": 59852
+   }
+  ],
+  "id": "YbAm1ngxR5YYx4X1SYTbV",
+  "type": "verse",
+  "reference": "4-95"
+ },
+ {
+  "lines": [
+   {
+    "start": 59852,
+    "end": 60357
+   }
+  ],
+  "id": "lA4L6MvIqBLZXU1a1nnMx",
+  "type": "verse",
+  "reference": "4-96"
+ },
+ {
+  "lines": [
+   {
+    "start": 60357,
+    "end": 60731
+   }
+  ],
+  "id": "ygljQmvjPk51cTAjIjLAD",
+  "type": "verse",
+  "reference": "4-97"
+ },
+ {
+  "lines": [
+   {
+    "start": 60731,
+    "end": 61442
+   }
+  ],
+  "id": "7ad6KmH5dt88PogbA9sle",
+  "type": "verse",
+  "reference": "4-98"
+ },
+ {
+  "lines": [
+   {
+    "start": 61442,
+    "end": 62155
+   }
+  ],
+  "id": "k6xHh42nEEGYsWfJZENMK",
+  "type": "verse",
+  "reference": "4-99"
+ },
+ {
+  "lines": [
+   {
+    "start": 62155,
+    "end": 62456
+   }
+  ],
+  "id": "4xAjv1NgKj1wq43esTsoa",
+  "type": "verse",
+  "reference": "4-100"
+ },
+ {
+  "lines": [
+   {
+    "start": 62456,
+    "end": 63217
+   }
+  ],
+  "id": "BgZKHFv8H4d0CA7u5GUjM",
+  "type": "verse",
+  "reference": "4-101"
+ },
+ {
+  "lines": [
+   {
+    "start": 63217,
+    "end": 63943
+   }
+  ],
+  "id": "CG98GZym1RQ9NmQZ5DM69",
+  "type": "verse",
+  "reference": "4-102"
+ },
+ {
+  "lines": [
+   {
+    "start": 63943,
+    "end": 64590
+   }
+  ],
+  "id": "LJaXqwCmTzzuowLMZFGzi",
+  "type": "verse",
+  "reference": "4-103"
+ },
+ {
+  "lines": [
+   {
+    "start": 64590,
+    "end": 65033
+   }
+  ],
+  "id": "pNZARzUiOgCS0GdwVH3dW",
+  "type": "verse",
+  "reference": "4-104"
+ },
+ {
+  "lines": [
+   {
+    "start": 65033,
+    "end": 65476
+   }
+  ],
+  "id": "NsiQwmZFSC1WROUypyIPj",
+  "type": "verse",
+  "reference": "4-105"
+ },
+ {
+  "lines": [
+   {
+    "start": 65476,
+    "end": 65917
+   }
+  ],
+  "id": "GLvDaPFlj8AbxLfRLmBu8",
+  "type": "verse",
+  "reference": "4-106"
+ },
+ {
+  "lines": [
+   {
+    "start": 65917,
+    "end": 67419
+   }
+  ],
+  "id": "IsLZ6mkuJAdHoZYtkKPV8",
+  "type": "verse",
+  "reference": "4-107"
+ },
+ {
+  "lines": [
+   {
+    "start": 67419,
+    "end": 68906
+   }
+  ],
+  "id": "5ynbLSpYjMU041iZb6nxE",
+  "type": "verse",
+  "reference": "4-108"
+ },
+ {
+  "lines": [
+   {
+    "start": 68906,
+    "end": 70248
+   }
+  ],
+  "id": "iUl3V17dRDhP1A4NVdMtR",
+  "type": "verse",
+  "reference": "4-109"
+ },
+ {
+  "lines": [
+   {
+    "start": 70248,
+    "end": 70469
+   }
+  ],
+  "id": "FfqS92ByQNiOYh7EvpOOp",
+  "type": "verse",
+  "reference": "4-110"
+ },
+ {
+  "lines": [
+   {
+    "start": 70469,
+    "end": 70706
+   }
+  ],
+  "id": "M6pTiEvWOEoffI0SWXcyq",
+  "type": "verse",
+  "reference": "4-111"
+ },
+ {
+  "lines": [
+   {
+    "start": 70706,
+    "end": 70901
+   }
+  ],
+  "id": "u8UvNdSkNnOViYROdmScn",
+  "type": "verse",
+  "reference": "4-112"
+ },
+ {
+  "lines": [
+   {
+    "start": 70901,
+    "end": 71309
+   }
+  ],
+  "id": "9d5q6aFWfbOCIO0R8ncIw",
+  "type": "verse",
+  "reference": "4-113"
+ },
+ {
+  "lines": [
+   {
+    "start": 71309,
+    "end": 71762
+   }
+  ],
+  "id": "BAeafpGfyB7aBZDkp1qi8",
+  "type": "verse",
+  "reference": "4-114"
+ },
+ {
+  "lines": [
+   {
+    "start": 71762,
+    "end": 72361
+   }
+  ],
+  "id": "XK5OZ95XzkvtXZKjnZtEc",
+  "type": "verse",
+  "reference": "4-115"
+ },
+ {
+  "lines": [
+   {
+    "start": 72361,
+    "end": 73596
+   },
+   {
+    "start": 73596,
+    "end": 74280
+   },
+   {
+    "start": 74280,
+    "end": 74708
+   }
+  ],
+  "id": "QleEWdSIxmHmwwRW1aWcn",
+  "type": "verse",
+  "reference": "4-116"
+ },
+ {
+  "lines": [
+   {
+    "start": 74708,
+    "end": 75192
+   },
+   {
+    "start": 75192,
+    "end": 76135
+   },
+   {
+    "start": 76135,
+    "end": 76842
+   },
+   {
+    "start": 76842,
+    "end": 77191
+   }
+  ],
+  "id": "80mcXslIoVXZ2ewk23aV0",
+  "type": "verse",
+  "reference": "4-117"
+ },
+ {
+  "lines": [
+   {
+    "start": 77191,
+    "end": 77478
+   }
+  ],
+  "id": "GZ7LAKlXYV9JCCuiZ1oBu",
+  "type": "verse",
+  "reference": "4-118"
+ },
+ {
+  "lines": [
+   {
+    "start": 77478,
+    "end": 77807
+   }
+  ],
+  "id": "j9smtgIBBquVXY3eEUHso",
+  "type": "verse",
+  "reference": "4-119"
+ },
+ {
+  "lines": [
+   {
+    "start": 77807,
+    "end": 78129
+   }
+  ],
+  "id": "SwehEYw5XhXAV2olxwhWU",
+  "type": "verse",
+  "reference": "4-120"
+ },
+ {
+  "lines": [
+   {
+    "start": 78129,
+    "end": 78433
+   }
+  ],
+  "id": "0nZ9xLqyMkOeb9mA8JRPp",
+  "type": "verse",
+  "reference": "4-121"
+ },
+ {
+  "lines": [
+   {
+    "start": 78433,
+    "end": 79233
+   }
+  ],
+  "id": "HlJOKQUF5ulCBTwJufV8C",
+  "type": "verse",
+  "reference": "4-122"
+ },
+ {
+  "lines": [
+   {
+    "start": 79233,
+    "end": 80195
+   }
+  ],
+  "id": "alg9WykHvF0kowDN7kjGB",
+  "type": "verse",
+  "reference": "4-123"
+ },
+ {
+  "lines": [
+   {
+    "start": 80195,
+    "end": 81270
+   }
+  ],
+  "id": "ZXOrzp1JFXvZoXDWm6cqH",
+  "type": "verse",
+  "reference": "4-124"
+ },
+ {
+  "lines": [
+   {
+    "start": 81270,
+    "end": 82813
+   }
+  ],
+  "id": "34SdVChNdqemZl7O3Kfm4",
+  "type": "verse",
+  "reference": "4-125"
+ },
+ {
+  "lines": [
+   {
+    "start": 82813,
+    "end": 83348
+   }
+  ],
+  "id": "DZY5J4VNNzMAbmpT2H3mC",
+  "type": "verse",
+  "reference": "4-126"
+ },
+ {
+  "lines": [
+   {
+    "start": 83348,
+    "end": 83664
+   }
+  ],
+  "id": "BuUisECodOMkVbtDRZBLL",
+  "type": "verse",
+  "reference": "4-127"
+ },
+ {
+  "lines": [
+   {
+    "start": 83664,
+    "end": 83923
+   }
+  ],
+  "id": "91I7XvpdYLYeKH5hQQE1W",
+  "type": "verse",
+  "reference": "4-128"
+ },
+ {
+  "lines": [
+   {
+    "start": 83923,
+    "end": 84118
+   }
+  ],
+  "id": "wVn3B6M7J6KEI7lTkaWGp",
+  "type": "verse",
+  "reference": "4-129"
+ },
+ {
+  "lines": [
+   {
+    "start": 84118,
+    "end": 84762
+   },
+   {
+    "start": 84762,
+    "end": 85611
+   }
+  ],
+  "id": "ivT7EwWT2lxC7uaefKRKD",
+  "type": "verse",
+  "reference": "4-130"
+ },
+ {
+  "lines": [
+   {
+    "start": 85611,
+    "end": 86111
+   },
+   {
+    "start": 86111,
+    "end": 86757
+   },
+   {
+    "start": 86757,
+    "end": 86789
+   }
+  ],
+  "id": "LK8sNtLhimnVJoocbfUA0",
+  "type": "verse",
+  "reference": "4-131"
+ },
+ {
+  "lines": [
+   {
+    "start": 86789,
+    "end": 87040
+   }
+  ],
+  "id": "7gdzcdyBEQvdeT2quzSlN",
+  "type": "verse",
+  "reference": "4-132"
+ },
+ {
+  "lines": [
+   {
+    "start": 87040,
+    "end": 87647
+   }
+  ],
+  "id": "CftBaJAunmUk81YbasDkm",
+  "type": "verse",
+  "reference": "4-133"
+ },
+ {
+  "lines": [
+   {
+    "start": 87647,
+    "end": 87953
+   }
+  ],
+  "id": "xje9rVnG6x4qO9VCzjeoh",
+  "type": "verse",
+  "reference": "4-134"
+ },
+ {
+  "lines": [
+   {
+    "start": 87953,
+    "end": 88669
+   }
+  ],
+  "id": "vqKrrz99r1uX2fVAHQQ0V",
+  "type": "verse",
+  "reference": "4-135"
+ },
+ {
+  "lines": [
+   {
+    "start": 88669,
+    "end": 89069
+   }
+  ],
+  "id": "paEg9s6JPWUzwV5IaWyT9",
+  "type": "verse",
+  "reference": "4-136"
+ },
+ {
+  "lines": [
+   {
+    "start": 89069,
+    "end": 89913
+   }
+  ],
+  "id": "WuNaukEfAMFy7NJaBbo8z",
+  "type": "verse",
+  "reference": "4-137"
+ },
+ {
+  "lines": [
+   {
+    "start": 89913,
+    "end": 90338
+   }
+  ],
+  "id": "picOlGeWlg4BWirIkSmZf",
+  "type": "verse",
+  "reference": "4-138"
+ },
+ {
+  "lines": [
+   {
+    "start": 90338,
+    "end": 91374
+   }
+  ],
+  "id": "Ks50ZTWpmYLDaY4SG8bG4",
+  "type": "verse",
+  "reference": "4-139"
+ },
+ {
+  "lines": [
+   {
+    "start": 91374,
+    "end": 91544
+   }
+  ],
+  "id": "pclIjJA3MsTBu6YkWiegY",
+  "type": "verse",
+  "reference": "4-140"
+ },
+ {
+  "lines": [
+   {
+    "start": 91544,
+    "end": 91905
+   }
+  ],
+  "id": "VAQ60LJoQjx2E873DbLBc",
+  "type": "verse",
+  "reference": "4-141"
+ },
+ {
+  "lines": [
+   {
+    "start": 91905,
+    "end": 92108
+   }
+  ],
+  "id": "RmhoU8q1D49sDebHPIaf4",
+  "type": "verse",
+  "reference": "4-142"
+ },
+ {
+  "lines": [
+   {
+    "start": 92108,
+    "end": 92421
+   }
+  ],
+  "id": "4miKaokH0BIWn5TBxE12b",
+  "type": "verse",
+  "reference": "4-143"
+ },
+ {
+  "lines": [
+   {
+    "start": 92421,
+    "end": 92650
+   }
+  ],
+  "id": "dbccw153uRUdIegT9Bkbo",
+  "type": "verse",
+  "reference": "4-144"
+ },
+ {
+  "lines": [
+   {
+    "start": 92650,
+    "end": 92998
+   }
+  ],
+  "id": "snYAAPYJ9zbvHcrOq2mrQ",
+  "type": "verse",
+  "reference": "4-145"
+ },
+ {
+  "lines": [
+   {
+    "start": 92998,
+    "end": 93350
+   }
+  ],
+  "id": "wvIGy2F8cIyGPqEAYcrKw",
+  "type": "verse",
+  "reference": "4-146"
+ },
+ {
+  "lines": [
+   {
+    "start": 93350,
+    "end": 93569
+   }
+  ],
+  "id": "vPoKAXeGsZIC6S4BLDRVk",
+  "type": "verse",
+  "reference": "4-147"
+ },
+ {
+  "lines": [
+   {
+    "start": 93569,
+    "end": 93772
+   }
+  ],
+  "id": "mUQcI95kHwLiVWN75AB8s",
+  "type": "verse",
+  "reference": "4-148"
+ },
+ {
+  "lines": [
+   {
+    "start": 93772,
+    "end": 94021
+   }
+  ],
+  "id": "rFwO2FOvox5LlX46bKugU",
+  "type": "verse",
+  "reference": "4-149"
+ },
+ {
+  "lines": [
+   {
+    "start": 94021,
+    "end": 94343
+   }
+  ],
+  "id": "Ap14ljmdqKImfitTsVTxG",
+  "type": "verse",
+  "reference": "4-150"
+ },
+ {
+  "lines": [
+   {
+    "start": 94343,
+    "end": 94617
+   }
+  ],
+  "id": "pe3mz0zn13CzTl5jVab4h",
+  "type": "verse",
+  "reference": "4-151"
+ },
+ {
+  "lines": [
+   {
+    "start": 94617,
+    "end": 94885
+   }
+  ],
+  "id": "1bZ0EyT0NnvkBLAxhuCWH",
+  "type": "verse",
+  "reference": "4-152"
+ },
+ {
+  "lines": [
+   {
+    "start": 94885,
+    "end": 95107
+   }
+  ],
+  "id": "OIJ0INOfUsZF0ldxKiiCz",
+  "type": "verse",
+  "reference": "4-153"
+ },
+ {
+  "lines": [
+   {
+    "start": 95107,
+    "end": 95332
+   }
+  ],
+  "id": "w7sMCA73Vm8PFC0YMJc8t",
+  "type": "verse",
+  "reference": "4-154"
+ },
+ {
+  "lines": [
+   {
+    "start": 95332,
+    "end": 95566
+   }
+  ],
+  "id": "sYh4wG0CJCxinCZyT5pQC",
+  "type": "verse",
+  "reference": "4-155"
+ },
+ {
+  "lines": [
+   {
+    "start": 95566,
+    "end": 95897
+   },
+   {
+    "start": 95897,
+    "end": 96161
+   },
+   {
+    "start": 96161,
+    "end": 96429
+   },
+   {
+    "start": 96429,
+    "end": 96744
+   }
+  ],
+  "id": "7h6mGClcpGci65dFZYylJ",
+  "type": "verse",
+  "reference": "4-156"
+ },
+ {
+  "lines": [
+   {
+    "start": 96744,
+    "end": 97263
+   },
+   {
+    "start": 97263,
+    "end": 97496
+   },
+   {
+    "start": 97496,
+    "end": 97733
+   },
+   {
+    "start": 97733,
+    "end": 97958
+   },
+   {
+    "start": 97958,
+    "end": 98195
+   },
+   {
+    "start": 98195,
+    "end": 98283
+   }
+  ],
+  "id": "WXT8Ae2DWYUuF7sP8xF0O",
+  "type": "verse",
+  "reference": "4-157"
+ },
+ {
+  "lines": [
+   {
+    "start": 98283,
+    "end": 98855
+   },
+   {
+    "start": 98855,
+    "end": 99587
+   },
+   {
+    "start": 99587,
+    "end": 100299
+   },
+   {
+    "start": 100299,
+    "end": 100994
+   },
+   {
+    "start": 100994,
+    "end": 101737
+   },
+   {
+    "start": 101737,
+    "end": 101818
+   }
+  ],
+  "id": "f4Nb9PNP66Bjru1b4uKQO",
+  "type": "verse",
+  "reference": "4-158"
+ },
+ {
+  "lines": [
+   {
+    "start": 101818,
+    "end": 102322
+   },
+   {
+    "start": 102322,
+    "end": 102988
+   },
+   {
+    "start": 102988,
+    "end": 103595
+   },
+   {
+    "start": 103595,
+    "end": 104112
+   },
+   {
+    "start": 104112,
+    "end": 104599
+   },
+   {
+    "start": 104599,
+    "end": 104683
+   }
+  ],
+  "id": "iMVZSkg0vEjX2wpwLcLne",
+  "type": "verse",
+  "reference": "4-159"
+ },
+ {
+  "lines": [
+   {
+    "start": 104683,
+    "end": 105051
+   },
+   {
+    "start": 105051,
+    "end": 105540
+   },
+   {
+    "start": 105540,
+    "end": 106022
+   },
+   {
+    "start": 106022,
+    "end": 106521
+   },
+   {
+    "start": 106521,
+    "end": 107075
+   }
+  ],
+  "id": "wVAa8hCKzdz8a5qSA7WN8",
+  "type": "verse",
+  "reference": "4-160"
+ },
+ {
+  "lines": [
+   {
+    "start": 107075,
+    "end": 107498
+   },
+   {
+    "start": 107498,
+    "end": 108007
+   },
+   {
+    "start": 108007,
+    "end": 108506
+   },
+   {
+    "start": 108506,
+    "end": 109028
+   },
+   {
+    "start": 109028,
+    "end": 109597
+   }
+  ],
+  "id": "kmhK4ZSXAcOQ2iXXNDM7T",
+  "type": "verse",
+  "reference": "4-161"
+ },
+ {
+  "lines": [
+   {
+    "start": 109597,
+    "end": 110402
+   },
+   {
+    "start": 110402,
+    "end": 110756
+   },
+   {
+    "start": 110756,
+    "end": 111110
+   },
+   {
+    "start": 111110,
+    "end": 111443
+   },
+   {
+    "start": 111443,
+    "end": 111871
+   }
+  ],
+  "id": "QY6QWNrBAxS08Yp38b5nY",
+  "type": "verse",
+  "reference": "4-162"
+ },
+ {
+  "lines": [
+   {
+    "start": 111871,
+    "end": 112526
+   },
+   {
+    "start": 112526,
+    "end": 112848
+   },
+   {
+    "start": 112848,
+    "end": 113221
+   },
+   {
+    "start": 113221,
+    "end": 113538
+   },
+   {
+    "start": 113538,
+    "end": 113964
+   }
+  ],
+  "id": "bLSMbdmKWaJrkOKqcVWEl",
+  "type": "verse",
+  "reference": "4-163"
+ },
+ {
+  "lines": [
+   {
+    "start": 113964,
+    "end": 114341
+   },
+   {
+    "start": 114341,
+    "end": 114714
+   },
+   {
+    "start": 114714,
+    "end": 115083
+   },
+   {
+    "start": 115083,
+    "end": 115453
+   }
+  ],
+  "id": "ty7ktgCbX7beOwrOcpgmm",
+  "type": "verse",
+  "reference": "4-164"
+ },
+ {
+  "lines": [
+   {
+    "start": 115453,
+    "end": 115812
+   },
+   {
+    "start": 115812,
+    "end": 116163
+   },
+   {
+    "start": 116163,
+    "end": 116520
+   },
+   {
+    "start": 116520,
+    "end": 116862
+   }
+  ],
+  "id": "Ggx23McVEw52JjLhb2m3h",
+  "type": "verse",
+  "reference": "4-165"
+ },
+ {
+  "lines": [
+   {
+    "start": 116862,
+    "end": 117475
+   },
+   {
+    "start": 117475,
+    "end": 118088
+   },
+   {
+    "start": 118088,
+    "end": 118766
+   },
+   {
+    "start": 118766,
+    "end": 119466
+   }
+  ],
+  "id": "8O3LSKN3NfWzp2793AySI",
+  "type": "verse",
+  "reference": "4-166"
+ },
+ {
+  "lines": [
+   {
+    "start": 119466,
+    "end": 119757
+   },
+   {
+    "start": 119757,
+    "end": 120028
+   },
+   {
+    "start": 120028,
+    "end": 120326
+   },
+   {
+    "start": 120326,
+    "end": 120498
+   }
+  ],
+  "id": "FNgQP0rDCa0DL0E2RSKlm",
+  "type": "verse",
+  "reference": "4-167"
+ },
+ {
+  "lines": [
+   {
+    "start": 120498,
+    "end": 121433
+   },
+   {
+    "start": 121433,
+    "end": 122250
+   },
+   {
+    "start": 122250,
+    "end": 123106
+   },
+   {
+    "start": 123106,
+    "end": 123927
+   }
+  ],
+  "id": "zNCfQxxyVAYqc8eQHptlS",
+  "type": "verse",
+  "reference": "4-168"
+ },
+ {
+  "lines": [
+   {
+    "start": 123927,
+    "end": 124013
+   },
+   {
+    "start": 124013,
+    "end": 124097
+   },
+   {
+    "start": 124097,
+    "end": 124181
+   },
+   {
+    "start": 124181,
+    "end": 124263
+   }
+  ],
+  "id": "kHOu9G0BPJ63wH3VUS5aZ",
+  "type": "verse",
+  "reference": "4-169"
+ },
+ {
+  "lines": [
+   {
+    "start": 124263,
+    "end": 124750
+   },
+   {
+    "start": 124750,
+    "end": 125055
+   },
+   {
+    "start": 125055,
+    "end": 125360
+   },
+   {
+    "start": 125360,
+    "end": 125655
+   },
+   {
+    "start": 125655,
+    "end": 126061
+   }
+  ],
+  "id": "3qeTVyBit59NiuxWUX2QF",
+  "type": "verse",
+  "reference": "4-170"
+ },
+ {
+  "lines": [
+   {
+    "start": 126061,
+    "end": 126415
+   },
+   {
+    "start": 126415,
+    "end": 126745
+   }
+  ],
+  "id": "AMcWjidB4Yx4z0YZEAwkz",
+  "type": "verse",
+  "reference": "4-171"
+ },
+ {
+  "lines": [
+   {
+    "start": 126745,
+    "end": 127111
+   },
+   {
+    "start": 127111,
+    "end": 127458
+   }
+  ],
+  "id": "sujhKd7bgzdcgPElvMNzc",
+  "type": "verse",
+  "reference": "4-172"
+ },
+ {
+  "lines": [
+   {
+    "start": 127458,
+    "end": 128205
+   },
+   {
+    "start": 128205,
+    "end": 128932
+   },
+   {
+    "start": 128932,
+    "end": 129647
+   },
+   {
+    "start": 129647,
+    "end": 130428
+   }
+  ],
+  "id": "EvpYgPC75Ve8m8noAp8yd",
+  "type": "verse",
+  "reference": "4-173"
+ },
+ {
+  "lines": [
+   {
+    "start": 130428,
+    "end": 133007
+   }
+  ],
+  "id": "FOOSNst02iRXW7dLpUy8H",
+  "type": "verse",
+  "reference": "4-174"
+ },
+ {
+  "lines": [
+   {
+    "start": 133007,
+    "end": 133410
+   }
+  ],
+  "id": "9eiTJOqwrLe3UmQNGCkBZ",
+  "type": "verse",
+  "reference": "4-175"
+ },
+ {
+  "lines": [
+   {
+    "start": 133410,
+    "end": 135321
+   }
+  ],
+  "id": "Gev0F5AzoU3BH0H186BYd",
+  "type": "verse",
+  "reference": "4-176"
+ },
+ {
+  "lines": [
+   {
+    "start": 135321,
+    "end": 135686
+   },
+   {
+    "start": 135686,
+    "end": 137080
+   }
+  ],
+  "id": "pHo4B8imIP4BR3Vp3cS9x",
+  "type": "verse",
+  "reference": "4-177"
+ },
+ {
+  "lines": [
+   {
+    "start": 137080,
+    "end": 137385
+   },
+   {
+    "start": 137385,
+    "end": 137579
+   },
+   {
+    "start": 137579,
+    "end": 137729
+   },
+   {
+    "start": 137729,
+    "end": 137884
+   },
+   {
+    "start": 137884,
+    "end": 138327
+   },
+   {
+    "start": 138327,
+    "end": 138569
+   },
+   {
+    "start": 138569,
+    "end": 138872
+   }
+  ],
+  "id": "CHsme63uEVjrMty8NX2Dd",
+  "type": "verse",
+  "reference": "4-178"
+ },
+ {
+  "lines": [
+   {
+    "start": 138872,
+    "end": 139285
+   },
+   {
+    "start": 139285,
+    "end": 139996
+   }
+  ],
+  "id": "HORh2tyBjJ5XUm5dWBq8u",
+  "type": "verse",
+  "reference": "4-179"
+ },
+ {
+  "lines": [
+   {
+    "start": 139996,
+    "end": 140481
+   }
+  ],
+  "id": "rHRVXHrjNEZi48pl5cYkr",
+  "type": "verse",
+  "reference": "4-180"
+ },
+ {
+  "lines": [
+   {
+    "start": 140481,
+    "end": 141411
+   }
+  ],
+  "id": "584EBJATeGWHx6QBMP4vy",
+  "type": "verse",
+  "reference": "4-181"
+ },
+ {
+  "lines": [
+   {
+    "start": 141411,
+    "end": 141953
+   },
+   {
+    "start": 141953,
+    "end": 143318
+   }
+  ],
+  "id": "Wy5LzIJLXRAuoqLKLvuOu",
+  "type": "verse",
+  "reference": "4-182"
+ },
+ {
+  "lines": [
+   {
+    "start": 143318,
+    "end": 144372
+   },
+   {
+    "start": 144372,
+    "end": 145397
+   }
+  ],
+  "id": "3TL8PwbnIv6LBr2hJJPjg",
+  "type": "verse",
+  "reference": "4-183"
+ },
+ {
+  "lines": [
+   {
+    "start": 145397,
+    "end": 146828
+   }
+  ],
+  "id": "OZTES5PJS2gUB6qpmBJbu",
+  "type": "verse",
+  "reference": "4-184"
+ },
+ {
+  "lines": [
+   {
+    "start": 146828,
+    "end": 148271
+   }
+  ],
+  "id": "4CCJfBTpE5Wl3ImGRCzfP",
+  "type": "verse",
+  "reference": "4-185"
+ },
+ {
+  "lines": [
+   {
+    "start": 148271,
+    "end": 148390
+   },
+   {
+    "start": 148390,
+    "end": 148515
+   },
+   {
+    "start": 148515,
+    "end": 148646
+   },
+   {
+    "start": 148646,
+    "end": 148774
+   }
+  ],
+  "id": "U07XVcZxGN6H9uH1Zt9Mg",
+  "type": "verse",
+  "reference": "4-186"
+ },
+ {
+  "lines": [
+   {
+    "start": 148774,
+    "end": 149118
+   },
+   {
+    "start": 149118,
+    "end": 149462
+   },
+   {
+    "start": 149462,
+    "end": 149800
+   },
+   {
+    "start": 149800,
+    "end": 150146
+   }
+  ],
+  "id": "IWr9uQkPORqoWqMIlyIRo",
+  "type": "verse",
+  "reference": "4-187"
+ },
+ {
+  "lines": [
+   {
+    "start": 150146,
+    "end": 150316
+   },
+   {
+    "start": 150316,
+    "end": 150629
+   },
+   {
+    "start": 150629,
+    "end": 150896
+   },
+   {
+    "start": 150896,
+    "end": 151311
+   }
+  ],
+  "id": "bmYJPQL6gZBTHgxgsOpBp",
+  "type": "verse",
+  "reference": "4-188"
+ },
+ {
+  "lines": [
+   {
+    "start": 151311,
+    "end": 151987
+   },
+   {
+    "start": 151987,
+    "end": 152523
+   },
+   {
+    "start": 152523,
+    "end": 153080
+   },
+   {
+    "start": 153080,
+    "end": 153608
+   }
+  ],
+  "id": "Vy1ao9XU0hfWRmVhc9X9B",
+  "type": "verse",
+  "reference": "4-189"
+ },
+ {
+  "lines": [
+   {
+    "start": 153608,
+    "end": 153881
+   },
+   {
+    "start": 153881,
+    "end": 154179
+   },
+   {
+    "start": 154179,
+    "end": 154454
+   },
+   {
+    "start": 154454,
+    "end": 154791
+   },
+   {
+    "start": 154791,
+    "end": 154822
+   }
+  ],
+  "id": "tE7Gc2HTpV8R08UbeRNUf",
+  "type": "verse",
+  "reference": "4-190"
+ },
+ {
+  "lines": [
+   {
+    "start": 154822,
+    "end": 155442
+   },
+   {
+    "start": 155442,
+    "end": 155993
+   },
+   {
+    "start": 155993,
+    "end": 156536
+   },
+   {
+    "start": 156536,
+    "end": 157162
+   }
+  ],
+  "id": "lvtVTws5k1luoaFhbsRfh",
+  "type": "verse",
+  "reference": "4-191"
+ },
+ {
+  "lines": [
+   {
+    "start": 157162,
+    "end": 157528
+   },
+   {
+    "start": 157528,
+    "end": 157786
+   },
+   {
+    "start": 157786,
+    "end": 157956
+   },
+   {
+    "start": 157956,
+    "end": 158119
+   },
+   {
+    "start": 158119,
+    "end": 158426
+   }
+  ],
+  "id": "pVB2Yb0VYwishp86tltvC",
+  "type": "verse",
+  "reference": "4-192"
+ },
+ {
+  "lines": [
+   {
+    "start": 158426,
+    "end": 158795
+   },
+   {
+    "start": 158795,
+    "end": 159064
+   },
+   {
+    "start": 159064,
+    "end": 159432
+   },
+   {
+    "start": 159432,
+    "end": 159686
+   },
+   {
+    "start": 159686,
+    "end": 160072
+   }
+  ],
+  "id": "ieSKnwLkMEBztoqXhfY9H",
+  "type": "verse",
+  "reference": "4-193"
+ },
+ {
+  "lines": [
+   {
+    "start": 160072,
+    "end": 160933
+   },
+   {
+    "start": 160933,
+    "end": 161194
+   }
+  ],
+  "id": "p8HXjYLDsc2VrXcEWsSQU",
+  "type": "verse",
+  "reference": "4-194"
+ },
+ {
+  "lines": [
+   {
+    "start": 161194,
+    "end": 162079
+   },
+   {
+    "start": 162079,
+    "end": 162377
+   }
+  ],
+  "id": "6NRaqRup7LxCDmT8tYyPx",
+  "type": "verse",
+  "reference": "4-195"
+ },
+ {
+  "lines": [
+   {
+    "start": 162377,
+    "end": 163192
+   },
+   {
+    "start": 163192,
+    "end": 163518
+   }
+  ],
+  "id": "HdvhBIAIavJ3NFlq7axvG",
+  "type": "verse",
+  "reference": "4-196"
+ },
+ {
+  "lines": [
+   {
+    "start": 163518,
+    "end": 164127
+   },
+   {
+    "start": 164127,
+    "end": 164410
+   }
+  ],
+  "id": "eVHYGbUyFlYabKVFVfGOu",
+  "type": "verse",
+  "reference": "4-197"
+ },
+ {
+  "lines": [
+   {
+    "start": 164410,
+    "end": 165030
+   },
+   {
+    "start": 165030,
+    "end": 166154
+   },
+   {
+    "start": 166154,
+    "end": 166576
+   },
+   {
+    "start": 166576,
+    "end": 167254
+   },
+   {
+    "start": 167254,
+    "end": 168125
+   }
+  ],
+  "id": "AqiuejUTZkWXWAt6f9tB4",
+  "type": "verse",
+  "reference": "4-198"
+ },
+ {
+  "lines": [
+   {
+    "start": 168125,
+    "end": 169117
+   },
+   {
+    "start": 169117,
+    "end": 169695
+   }
+  ],
+  "id": "Jxz96baIVHBUn2L25AYso",
+  "type": "verse",
+  "reference": "4-199"
+ },
+ {
+  "lines": [
+   {
+    "start": 169695,
+    "end": 170055
+   }
+  ],
+  "id": "N2rYIvOboJNcdlRDYKdxi",
+  "type": "verse",
+  "reference": "4-200"
+ },
+ {
+  "lines": [
+   {
+    "start": 170055,
+    "end": 170984
+   },
+   {
+    "start": 170984,
+    "end": 171552
+   },
+   {
+    "start": 171552,
+    "end": 171583
+   }
+  ],
+  "id": "5FfJPkNKXUghO0SnOnRkY",
+  "type": "verse",
+  "reference": "4-201"
+ },
+ {
+  "lines": [
+   {
+    "start": 171583,
+    "end": 171800
+   },
+   {
+    "start": 171800,
+    "end": 172018
+   },
+   {
+    "start": 172018,
+    "end": 172329
+   },
+   {
+    "start": 172329,
+    "end": 172594
+   },
+   {
+    "start": 172594,
+    "end": 172876
+   },
+   {
+    "start": 172876,
+    "end": 173148
+   },
+   {
+    "start": 173148,
+    "end": 173179
+   }
+  ],
+  "id": "hGP290aKHy9JMcY29xZRz",
+  "type": "verse",
+  "reference": "4-202"
+ },
+ {
+  "lines": [
+   {
+    "start": 173179,
+    "end": 173366
+   },
+   {
+    "start": 173366,
+    "end": 174080
+   },
+   {
+    "start": 174080,
+    "end": 174748
+   },
+   {
+    "start": 174748,
+    "end": 175282
+   },
+   {
+    "start": 175282,
+    "end": 175815
+   },
+   {
+    "start": 175815,
+    "end": 176333
+   },
+   {
+    "start": 176333,
+    "end": 177008
+   }
+  ],
+  "id": "Hf7NnB1uryOLfZX16ir66",
+  "type": "verse",
+  "reference": "4-203"
+ },
+ {
+  "lines": [
+   {
+    "start": 177008,
+    "end": 177232
+   }
+  ],
+  "id": "XiW5EmroGJLqbbc7SuFWJ",
+  "type": "verse",
+  "reference": "4-204"
+ },
+ {
+  "lines": [
+   {
+    "start": 177232,
+    "end": 177375
+   }
+  ],
+  "id": "uPQ83xhwgIIPAdN3fRnnz",
+  "type": "verse",
+  "reference": "4-205"
+ },
+ {
+  "lines": [
+   {
+    "start": 177375,
+    "end": 177792
+   },
+   {
+    "start": 177792,
+    "end": 177824
+   }
+  ],
+  "id": "8CFbUfwW3F9FPjzBLvlYV",
+  "type": "verse",
+  "reference": "4-206"
+ },
+ {
+  "lines": [
+   {
+    "start": 177824,
+    "end": 178373
+   },
+   {
+    "start": 178373,
+    "end": 178405
+   }
+  ],
+  "id": "9uqG66JCNGOSZHbQspzMl",
+  "type": "verse",
+  "reference": "4-207"
+ },
+ {
+  "lines": [
+   {
+    "start": 178405,
+    "end": 178646
+   },
+   {
+    "start": 178646,
+    "end": 178884
+   },
+   {
+    "start": 178884,
+    "end": 179108
+   },
+   {
+    "start": 179108,
+    "end": 179340
+   },
+   {
+    "start": 179340,
+    "end": 179554
+   },
+   {
+    "start": 179554,
+    "end": 179940
+   },
+   {
+    "start": 179940,
+    "end": 180384
+   },
+   {
+    "start": 180384,
+    "end": 180823
+   },
+   {
+    "start": 180823,
+    "end": 181240
+   },
+   {
+    "start": 181240,
+    "end": 181271
+   }
+  ],
+  "id": "KhWi6ErpFoQPW2HyDkJeK",
+  "type": "verse",
+  "reference": "4-208"
+ },
+ {
+  "lines": [
+   {
+    "start": 181271,
+    "end": 181515
+   },
+   {
+    "start": 181515,
+    "end": 181857
+   },
+   {
+    "start": 181857,
+    "end": 181904
+   },
+   {
+    "start": 181904,
+    "end": 181934
+   },
+   {
+    "start": 181934,
+    "end": 181988
+   }
+  ],
+  "id": "tUBWa0UgM8ENxTLKzjxjT",
+  "type": "verse",
+  "reference": "4-209"
+ }
+]

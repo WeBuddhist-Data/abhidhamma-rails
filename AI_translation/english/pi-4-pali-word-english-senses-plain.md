@@ -2081,7 +2081,7 @@ sakadāgāmissa: {of the one who comes back once (genitive): once-returner}
 bījissa: {of the one with a single seed (genitive): seed}
 pakaraṇaṃ: {the book, the work (nominative): treatise}
 uddhaṃsotassa: {of one whose stream goes upward (genitive): upstream}
-Mātikā: {matrix, list of topics (heading): outline}
+Mātikā: {matrix, list of topics (heading): matrix}
 khandha: {groups of existence (compound member): aggregates}
 āyatana: {sense spheres (compound member): bases / sense / sense bases}
 paññattiyo: {designations (nominative pl.): description}
@@ -2152,7 +2152,7 @@ Navakaṃ: {the enneads section (heading): nines}
 niṭṭhitā: {finished (feminine participle): complete}
 Dasa puggalā: {the ten kinds of individual (heading phrase): Ten persons}
 Dasakaṃ: {the decads section (heading): tens}
-uddeso: {summary listing of topics (heading): outline}
+uddeso: {summary listing of topics (heading): matrix}
 sambuddha: {perfectly enlightened one (compound member): awakened / Awakened Buddha / buddha}
 bhagavato: {of the Lord (genitive): blessed}
 sammāsambuddhassa: {of the perfectly self-enlightened one (genitive): Fully Awakened / Fully Awakened Buddha}

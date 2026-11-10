@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 66,
-        "end": 181988
+        "end": 181987
       },
       "subsections": [
         {
@@ -15,21 +15,21 @@
           },
           "span": {
             "start": 66,
-            "end": 181988
+            "end": 181987
           },
           "subsections": [
             {
               "title": {
-                "en": "Outline"
+                "en": "Matrix"
               },
               "span": {
                 "start": 66,
-                "end": 17885
+                "end": 17884
               },
               "subsections": [
                 {
                   "title": {
-                    "en": "Outline of Single Types"
+                    "en": "Matrix of Single Types"
                   },
                   "span": {
                     "start": 66,
@@ -38,7 +38,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Pairs"
+                    "en": "Matrix of Pairs"
                   },
                   "span": {
                     "start": 4234,
@@ -47,7 +47,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Threes"
+                    "en": "Matrix of Threes"
                   },
                   "span": {
                     "start": 5808,
@@ -56,7 +56,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Fours"
+                    "en": "Matrix of Fours"
                   },
                   "span": {
                     "start": 8032,
@@ -65,7 +65,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Fives"
+                    "en": "Matrix of Fives"
                   },
                   "span": {
                     "start": 13741,
@@ -74,7 +74,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Sixes"
+                    "en": "Matrix of Sixes"
                   },
                   "span": {
                     "start": 15536,
@@ -83,7 +83,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Sevens"
+                    "en": "Matrix of Sevens"
                   },
                   "span": {
                     "start": 16822,
@@ -92,7 +92,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Eights"
+                    "en": "Matrix of Eights"
                   },
                   "span": {
                     "start": 17384,
@@ -101,7 +101,7 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Nines"
+                    "en": "Matrix of Nines"
                   },
                   "span": {
                     "start": 17492,
@@ -110,11 +110,11 @@
                 },
                 {
                   "title": {
-                    "en": "Outline of Tens"
+                    "en": "Matrix of Tens"
                   },
                   "span": {
                     "start": 17724,
-                    "end": 17885
+                    "end": 17884
                   }
                 }
               ]
@@ -124,8 +124,8 @@
                 "en": "Exposition"
               },
               "span": {
-                "start": 17885,
-                "end": 181988
+                "start": 17884,
+                "end": 181987
               },
               "subsections": [
                 {
@@ -133,8 +133,8 @@
                     "en": "Description of Single Types of Persons"
                   },
                   "span": {
-                    "start": 17885,
-                    "end": 33113
+                    "start": 17884,
+                    "end": 33112
                   }
                 },
                 {
@@ -142,8 +142,8 @@
                     "en": "Description of Pairs of Persons"
                   },
                   "span": {
-                    "start": 33113,
-                    "end": 54372
+                    "start": 33112,
+                    "end": 54371
                   }
                 },
                 {
@@ -151,8 +151,8 @@
                     "en": "Description of Threes of Persons"
                   },
                   "span": {
-                    "start": 54372,
-                    "end": 86789
+                    "start": 54371,
+                    "end": 86788
                   }
                 },
                 {
@@ -160,8 +160,8 @@
                     "en": "Description of Fours of Persons"
                   },
                   "span": {
-                    "start": 86789,
-                    "end": 154822
+                    "start": 86788,
+                    "end": 154821
                   }
                 },
                 {
@@ -169,8 +169,8 @@
                     "en": "Description of Fives of Persons"
                   },
                   "span": {
-                    "start": 154822,
-                    "end": 171583
+                    "start": 154821,
+                    "end": 171582
                   }
                 },
                 {
@@ -178,8 +178,8 @@
                     "en": "Description of Sixes of Persons"
                   },
                   "span": {
-                    "start": 171583,
-                    "end": 173179
+                    "start": 171582,
+                    "end": 173178
                   }
                 },
                 {
@@ -187,8 +187,8 @@
                     "en": "Description of Sevens of Persons"
                   },
                   "span": {
-                    "start": 173179,
-                    "end": 177824
+                    "start": 173178,
+                    "end": 177823
                   }
                 },
                 {
@@ -196,8 +196,8 @@
                     "en": "Description of Eights of Persons"
                   },
                   "span": {
-                    "start": 177824,
-                    "end": 178405
+                    "start": 177823,
+                    "end": 178404
                   }
                 },
                 {
@@ -205,8 +205,8 @@
                     "en": "Description of Nines of Persons"
                   },
                   "span": {
-                    "start": 178405,
-                    "end": 181271
+                    "start": 178404,
+                    "end": 181270
                   }
                 },
                 {
@@ -214,8 +214,8 @@
                     "en": "Description of Tens of Persons"
                   },
                   "span": {
-                    "start": 181271,
-                    "end": 181988
+                    "start": 181270,
+                    "end": 181987
                   }
                 }
               ]
