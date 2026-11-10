@@ -127,10 +127,10 @@ samannāgato puggalo: {individual endowed with (phrase): युक्त व्�
 abhiñño: {having the direct knowledges, in chaḷabhiñño: उच्च ज्ञान}
 sabbaññutaṃ: {omniscience (accusative): सर्वज्ञता}
 pāpuṇāti: {reaches (3rd sg.): प्राप्त करना}
-sambuddho: {self-awakened one (nominative sg.): बोध प्राप्त बुद्ध}
+sambuddho: {self-awakened one (nominative sg.): जागृत बुद्ध}
 abhisambujjhati: {fully understands by himself (3rd sg.): पूर्ण बोध प्राप्त करना}
-sammā: {perfectly, in sammāsambuddha: पूर्ण; correct, correctly (adjective and adverb): सही}
-sammāsambuddho: {the perfectly self-awakened one (nominative sg.): पूर्ण बोध प्राप्त बुद्ध}
+sammā: {perfectly, in sammāsambuddha: पूर्ण रूप से; correct, correctly (adjective and adverb): सही}
+sammāsambuddho: {the perfectly self-awakened one (nominative sg.): पूर्ण रूप से जागृत बुद्ध}
 anussutesu: {in what has been handed down, in ananussutesu (locative pl.): सुना गया}
 vasībhāvaṃ: {state of control (accusative): अधिकार}
 balesu: {strengths (locative pl.): बल}
@@ -445,7 +445,7 @@ pilāpanatā: {superficiality (nominative): उथलापन}
 sambodho: {full understanding, in asambodho: पूर्ण बोध}
 sampajāno: {one with clear comprehension (nominative sg.): स्पष्ट समझ रखने वाला}
 laṅgī: {bar, bolt (nominative): रुकावट}
-yogo: {yoke (nominative): जुआ}
+yogo: {yoke (nominative): जकड़न}
 vuccati asampajaññaṃ: {formula 'is termed non-comprehension': स्पष्ट समझ का अभाव कहा जाता है}
 saṅgāhaṇā: {grasping together (nominative): समेटना}
 pekkhaṇā: {looking at, in samapekkhaṇā: देखना}
@@ -886,7 +886,7 @@ parikkhāraṃ: {requisites (accusative): ज़रूरी सामान}
 ukkhipati: {throws out, expels (3rd sg.): निष्कासित करना}
 samphasso: {contact with the skin, in dukkhasamphasso (nominative): छूना}
 dubbaṇṇatāya: {by bad colour (instrumental): बदरंग होना}
-dubbaṇṇo: {ill-coloured, unsightly (nominative): कुरूप}
+dubbaṇṇo: {ill-coloured, unsightly (nominative): बदरंग}
 nicchāreti: {emits (3rd sg.): कह देना}
 vācaṃ: {utterance (accusative): वाणी}
 sameti: {coincides (3rd sg.): मेल खाना}
@@ -971,7 +971,7 @@ bhiyyoso: {even more (adverb): और भी ज़्यादा}
 samādhismiṃ: {in composure (locative): एकाग्रता}
 samādhismiṃ paññāya: {in composure and understanding (phrase): एकाग्रता … प्रज्ञा}
 paripūrakārino: {those who carry out fully (nominative pl.): पूरा पालन करने वाले}
-paripūrakārī: {one who carries out fully (nominative sg.): पूरा पालन करना}
+paripūrakārī: {one who carries out fully (nominative sg.): पूरा अभ्यास करना}
 sīlesu paripūrakārī: {one who carries out the virtues fully (phrase): सदाचार का पूरा पालन करना}
 sīlesu: {in the virtues (locative pl.): सदाचार}
 puggalo paripūrakārī: {the individual carries out fully (phrase): व्यक्ति … पूरा पालन करता है}
@@ -1304,8 +1304,8 @@ duddasiko: {ugly to look at (nominative): देखने में अप्र
 yānassa: {conveyances (genitive): वाहन}
 dhane: {riches (locative): धनवान}
 mahāsāla: {greatly propertied (compound member): धनी}
-puggalo uṇṇatoṇato: {a person risen and raised (phrase): व्यक्ति … ऊँचा पर नीचे जाता हुआ}
-puggalo oṇatoṇato: {a person sunk and sinking (phrase): व्यक्ति … नीचा और नीचे जाता हुआ}
+puggalo uṇṇatoṇato: {a person risen and raised (phrase): व्यक्ति … ऊँचा पर नीचे की ओर जाता हुआ}
+puggalo oṇatoṇato: {a person sunk and sinking (phrase): व्यक्ति … नीचा और नीचे की ओर जाता हुआ}
 oṇato: {sunk down, lowly (participle): नीचा}
 kalyāṇadhammā: {of good nature (nominative): अच्छे स्वभाव वाला}
 sīlavatī: {virtuous (feminine nominative): सदाचारी}

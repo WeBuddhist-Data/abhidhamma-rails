@@ -1,0 +1,29 @@
+---
+title: व्यक्तियों का विवरण - सरल हिंदी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Puggalapaññattipāḷi
+root_text: 1-SOURCES/Text/pi-4.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-4_split_chapters
+source_text_id: leKc1Ei0OBaZN2FNMqlpL
+source_edition_id: 4bCOP5KnJqlcTxSBZXYA3
+translation_of: leKc1Ei0OBaZN2FNMqlpL
+language: Hindi
+lang_tag: hi
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/hindi/pi-4-pali-hindi-termbase-plain.md
+termbase_approved: 2026-11-07
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-4-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a chapter-1 sample at each step, remaining chapters run in parallel at the user's request; independent bilingual review, fixes approved by the user; dashes only where the Pāli has them (user rule)"
+zeroshot_split: AI_translation/hindi/pi-4-hindi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/hindi/pi-4-keywords-by-reference-pali-hindi-plain.md
+senses: AI_translation/hindi/pi-4-pali-word-hindi-senses-plain.md
+segment_ids: "^T-1 … ^4-209 (250 blocks, matching the source)"
+chapters: preamble + 11 sections (Mātikā, Ekaka … Dasaka)
+split_chapters: AI_translation/hindi/pi-4-hindi-plain-rails_split_chapters
+generated: 2026-11-09
+status: draft
+---

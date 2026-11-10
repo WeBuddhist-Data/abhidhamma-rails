@@ -290,7 +290,7 @@ samaṅgissa: {of one endowed with (genitive): युक्त}
 viññāṇā: {cognizances, types of consciousness (pl.): चेतना}
 akusalā: {unskilful (pl.): हानिकर}
 kusalā: {skilful (pl.): हितकर}
-ābhoga: {attention, solicitude: रुचि}
+ābhoga: {attention, solicitude: मन का जुड़ना}
 sīlehi: {by moral conduct (instrumental pl.): सदाचार}
 sīlaṃ: {moral conduct (nominative/accusative): सदाचार}
 anuparivatti: {keeping in step with, revolving along with: साथ-साथ चलना}
@@ -380,7 +380,7 @@ paññindriyaṃ: {the controlling faculty of understanding: प्रज्ञ�
 saddhā: {confidence, trust: श्रद्धा}
 itthi: {a female human: स्त्री; femaleness, in the faculty of femininity: स्त्रीत्व}
 aññā: {final gnosis of the arahant: पूर्ण ज्ञान; other (feminine pronoun), in 'one thing… another': अलग}
-aññātāvī upalabbhati: {'one who has final knowledge is apprehended', thesis phrase: पूर्ण ज्ञान पा चुके व्यक्ति की क्षमता पाई जाती है}
+aññātāvī upalabbhati: {'one who has final knowledge is apprehended', thesis phrase: पूर्ण ज्ञान पा चुके की क्षमता पाई जाती है}
 somanassa: {mental pleasure: प्रसन्नता}
 ñassāmi: {I shall know (future), in anaññātaññassāmītindriya: मैं जान लूँगा}
 aññāta: {what was not known, in anaññātaññassāmītindriya: जाना}
@@ -466,9 +466,9 @@ Rūpaṃ kusala: {heading thesis 'matter is skilful': भौतिक रूप 
 arūpāvacara: {belonging to the immaterial sphere: अरूप-लोक का}
 avacara: {sphere, domain (compound final): लोक}
 rūpāvacara: {belonging to the fine-material sphere: रूप-लोक का}
-Rūpārūpadhātupariyāpannakathā: {heading 'talk on what is included in the material and immaterial spheres': रूप-लोक और अरूप-लोक में सम्मिलित होने के विषय में चर्चा}
+Rūpārūpadhātupariyāpannakathā: {heading 'talk on what is included in the material and immaterial spheres': रूप-तत्व और अरूप-तत्व में सम्मिलित होने के विषय में चर्चा}
 pariyāpanna: {included in, belonging to: सम्मिलित}
-rūpārūpadhātu: {the fine-material and immaterial spheres (heading): रूप-लोक और अरूप-लोक}
+rūpārūpadhātu: {the fine-material and immaterial spheres (heading): रूप-तत्व और अरूप-तत्व}
 sattarasama: {ordinal (compound member): सत्रहवाँ}
 Sattarasamavaggo: {the seventeenth group of discussions: सत्रहवाँ अध्याय}
 puññūpacaya: {heaping up of merit (heading): पुण्य का संचय}
@@ -516,7 +516,7 @@ suṇāti: {perceives by ear (3rd sg.): सुनना}
 saddaṃ suṇāti: {heading thesis 'one hears a sound': ध्वनि सुनना}
 saddaṃ: {object of hearing (accusative): ध्वनि}
 cakkhunā: {with the organ of sight (instrumental): आँख}
-aññātāvī: {one who has final gnosis: पूर्ण ज्ञान पा चुका व्यक्ति}
+aññātāvī: {one who has final gnosis: पूर्ण ज्ञान पा चुका}
 ekūnavīsatima: {ordinal (compound member): उन्नीसवाँ}
 Ekūnavīsatimavaggo: {the nineteenth group of discussions: उन्नीसवाँ अध्याय}
 jahana: {giving up (heading member): छोड़ना}
@@ -637,7 +637,7 @@ hutvā: {having been (absolutive): होकर}
 manusso: {a human being (nominative): मनुष्य}
 kammānaṃ: {of deeds (genitive pl.): कर्म}
 pāṇa: {living creature, in pāṇātipāta: प्राणी}
-hevaṃ: {thus indeed, in 'na hevaṃ vattabbe': इस तरह}
+hevaṃ: {thus indeed, in 'na hevaṃ vattabbe': ऐसा}
 katānaṃ: {of what has been done (genitive pl.): किया हुआ}
 atipāto: {striking down, in pāṇātipāta: हत्या}
 vipaccamāne: {when ripening (locative participle): फल देना}
@@ -757,7 +757,7 @@ kāyaṃ: {the body (accusative): शरीर}
 niruddhe: {when ended (locative participle): समाप्त हो चुका}
 sotaṃ: {the hearing organ (accusative): कान}
 cakkhuṃ: {the sight organ, also vision that arises (accusative): आँख}
-cakkhumā: {one who has eyes, the physical organ: आँख वाला; the Seeing One, epithet of the Buddha: आँखों वाला}
+cakkhumā: {one who has eyes, the physical organ: आँख वाला; the Seeing One, epithet of the Buddha: दृष्टि-संपन्न}
 manaṃ: {the mind (accusative): मन}
 ghānaṃ: {the smell organ (accusative): नाक}
 jivhaṃ: {the taste organ (accusative): जीभ}
@@ -3554,7 +3554,7 @@ paṇidahantassa: {of one who directs the mind with longing (genitive participle
 manasikarontassa: {of one paying attention (genitive participle): मनोयोग करने वाला}
 samannāharati: {calls to mind (3rd sg. present): ध्यान देना}
 samannāharantassa: {of one calling to mind (genitive participle): ध्यान देने वाला}
-ābhogassa: {of one who is mindful of (genitive sg.): रुचि लेने वाला}
+ābhogassa: {of one who is mindful of (genitive sg.): मन को जोड़ने वाला}
 Dāyako: {donor (nominative sg.): दाता}
 cetayantassa: {of one willing, thinking of (genitive participle): इरादा करने वाला}
 āvaṭṭentassa: {of one adverting the mind (genitive participle): मन को मोड़ने वाला}
@@ -3661,7 +3661,7 @@ paṇḍitā: {the sagacious (nominative pl.): बुद्धिमान}
 icchanti: {desire (3rd pl. present): चाहना}
 samannāhāro: {calling to mind (nominative sg.): मन को लगाना}
 ocinituṃ: {to pick, gather (infinitive): इकट्ठा करना}
-ābhogo: {mental engagement, heeding (nominative sg.): रुचि}
+ābhogo: {mental engagement, heeding (nominative sg.): मन का जुड़ना}
 Pathavī kammavipāko: {the earth is a result of deeds (phrase): पृथ्वी कर्म-फल है}
 vedaniyā: {to be experienced (gerundive): अनुभूति देने वाला}
 dukkhavedaniyā: {to be experienced as pain (gerundive): दुःखद अनुभूति देने वाला}
@@ -3733,10 +3733,10 @@ parisā: {assembly, following (nominative sg.): अनुयायी}
 vuttā: {stated, taught (nominative participle): बताना}
 vepacitti: {name of an asura chief (nominative): वेपचित्ति}
 asura: {demon-god (compound member): असुर}
-Kāmabhavassa antare antarābhavo: {an in-between state within sense-sphere existence (phrase): इंद्रिय-सुखों वाले अस्तित्व और भौतिक रूप वाले अस्तित्व के बीच मध्यवर्ती अस्तित्व}
-Rūpabhavassa arūpabhavassa: {of fine-material and immaterial existence (genitive phrase): भौतिक रूप वाला अस्तित्व और अभौतिक अस्तित्व}
+Kāmabhavassa antare antarābhavo: {an in-between state within sense-sphere existence (phrase): इंद्रिय-सुखों के लोक के अस्तित्व और रूप-लोक के अस्तित्व के बीच मध्यवर्ती अस्तित्व}
+Rūpabhavassa arūpabhavassa: {of fine-material and immaterial existence (genitive phrase): रूप-लोक का अस्तित्व और अरूप-लोक का अस्तित्व}
 antarābhavo: {the in-between state (nominative sg.): मध्यवर्ती अस्तित्व}
-Kāmabhavassa rūpabhavassa: {of sense-sphere and fine-material existence (genitive phrase): इंद्रिय-सुखों वाला अस्तित्व और भौतिक रूप वाला अस्तित्व}
+Kāmabhavassa rūpabhavassa: {of sense-sphere and fine-material existence (genitive phrase): इंद्रिय-सुखों के लोक का अस्तित्व और रूप-लोक का अस्तित्व}
 antarābhavūpagaṃ kammaṃ: {deed bringing rebirth in the in-between state (phrase): मध्यवर्ती अस्तित्व तक ले जाने वाला कर्म}
 aṭṭhamī: {ordinal of eight (nominative feminine): आठवाँ}
 Antarābhavo bhavo: {the in-between state is an existence (phrase): मध्यवर्ती अस्तित्व एक अस्तित्व है}
@@ -3745,9 +3745,9 @@ antarābhavūpagaṃ: {going to the in-between state (accusative sg.): मध्
 antarābhavūpagā: {beings going to the in-between state (nominative pl.): मध्यवर्ती अस्तित्व में जाने वाला}
 chaṭṭhamī: {ordinal of six (nominative feminine): छठा}
 dasamo: {ordinal of ten (nominative sg.): दसवाँ}
-kāmabhavūpagaṃ kammaṃ: {deed bringing rebirth in sense-sphere existence (phrase): इंद्रिय-सुखों वाले अस्तित्व तक ले जाने वाला कर्म}
-kāmabhavo bhavo: {sense-sphere existence is an existence (phrase): इंद्रिय-सुखों वाला अस्तित्व एक अस्तित्व है}
-rūpabhavo bhavo: {fine-material existence is an existence (phrase): भौतिक रूप वाला अस्तित्व एक अस्तित्व है}
+kāmabhavūpagaṃ kammaṃ: {deed bringing rebirth in sense-sphere existence (phrase): इंद्रिय-सुखों के लोक के अस्तित्व में ले जाने वाला कर्म}
+kāmabhavo bhavo: {sense-sphere existence is an existence (phrase): इंद्रिय-सुखों के लोक का अस्तित्व एक अस्तित्व है}
+rūpabhavo bhavo: {fine-material existence is an existence (phrase): रूप-लोक का अस्तित्व एक अस्तित्व है}
 upagassa: {of one going to a rebirth (genitive sg.): जाने वाला}
 ānantariyassa: {of one who has done a deed with immediate result (genitive sg.): तत्काल फल देने वाला घोर कर्म करने वाला}
 nirayūpagassa puggalassa: {of an individual going to hell (genitive phrase): नरक में जाने वाला व्यक्ति}
@@ -3784,14 +3784,14 @@ Rūpino dhammā: {phenomena having materiality (phrase): भौतिक पर�
 rūpadhātū: {the fine-material sphere (nominative): रूप-लोक}
 bhavena: {with a state of being (instrumental sg.): अस्तित्व}
 bhavehi: {with states of being (instrumental pl.): अस्तित्व}
-kāmabhavena rūpabhavena: {with sense-sphere and fine-material existence (phrase): इंद्रिय-सुखों वाला अस्तित्व और भौतिक रूप वाला अस्तित्व}
-Kāmabhavena samannāgato: {possessed of sense-sphere existence (phrase): इंद्रिय-सुखों वाले अस्तित्व से युक्त}
+kāmabhavena rūpabhavena: {with sense-sphere and fine-material existence (phrase): इंद्रिय-सुखों के लोक का अस्तित्व और रूप-लोक का अस्तित्व}
+Kāmabhavena samannāgato: {possessed of sense-sphere existence (phrase): इंद्रिय-सुखों के लोक के अस्तित्व से युक्त}
 kāmadhātu rūpadhātū: {the sense sphere and the fine-material sphere (phrase): वही इंद्रिय-सुखों का लोक वही रूप-लोक}
 vedanūpagaṃ kammaṃ: {deed bringing a sensation-bearing rebirth (phrase): अनुभूति तक ले जाने वाला कर्म}
 arūpadhātū: {the immaterial sphere (nominative): अरूप-लोक}
 Arūpino dhammā: {phenomena without materiality (phrase): अभौतिक परिघटना}
-rūpabhavena arūpabhavena: {with fine-material and immaterial existence (phrase): भौतिक रूप वाला अस्तित्व और अभौतिक अस्तित्व}
-kāmabhavena arūpabhavena: {with sense-sphere and immaterial existence (phrase): इंद्रिय-सुखों वाला अस्तित्व और अभौतिक अस्तित्व}
+rūpabhavena arūpabhavena: {with fine-material and immaterial existence (phrase): रूप-लोक का अस्तित्व और अरूप-लोक का अस्तित्व}
+kāmabhavena arūpabhavena: {with sense-sphere and immaterial existence (phrase): इंद्रिय-सुखों के लोक का अस्तित्व और अरूप-लोक का अस्तित्व}
 kāmadhātu arūpadhātū: {the sense sphere and the immaterial sphere (phrase): वही इंद्रिय-सुखों का लोक वही अरूप-लोक}
 āyataniko: {having sense spheres, in saḷāyataniko (nominative sg.): इंद्रिय-क्षेत्रों वाला}
 bhāvo: {state of being (nominative sg.): अस्तित्व}
@@ -3816,10 +3816,10 @@ ambilaṃ: {acid-tasting (nominative sg.): खट्टा}
 madhuraṃ: {honey-tasting (nominative sg.): मीठा}
 lambilaṃ: {sharp-sour taste (nominative sg.): चरपरा}
 nimittaṃ: {sign or feature attended to, in rūpanimittaṃ (accusative sg.): चिह्न; outward physical form of an organ, in ghānanimittaṃ (nominative sg.): आकार}
-Rūpabhavo: {fine-material existence (nominative sg.): भौतिक रूप वाला अस्तित्व}
+Rūpabhavo: {fine-material existence (nominative sg.): रूप-लोक का अस्तित्व}
 arūpesu: {in the immaterial spheres (locative pl.): अरूप-लोक}
 arūpattabhāvapaṭilābho: {obtaining of an immaterial personal existence (nominative sg.): अभौतिक व्यक्तिगत अस्तित्व की प्राप्ति}
-arūpabhavo: {immaterial existence (nominative sg.): अभौतिक अस्तित्व}
+arūpabhavo: {immaterial existence (nominative sg.): अरूप-लोक का अस्तित्व}
 nissaraṇaṃ: {exit, release (nominative sg.): निकलने का मार्ग}
 rūpānaṃ: {of material things (genitive pl.): भौतिक रूप}
 anāsavesu: {among the canker-free (locative pl.): मन के मैलों से रहित}
@@ -4070,7 +4070,7 @@ purejāta: {born beforehand, pre-nascent (compound member): पहले उत�
 manasikārā: {from attending (ablative or nominative pl.): मनोयोग}
 vatthukā: {having as physical basis (nominative pl.): आधार}
 samannāhārā: {from calling to mind (ablative or nominative pl.): मन को लगाना}
-ābhogā: {from mental engagement (ablative or nominative pl.): रुचि}
+ābhogā: {from mental engagement (ablative or nominative pl.): मन का जुड़ाव}
 visayaṃ: {range, field (accusative sg.): दायरा}
 paccanubhonti: {undergo, enjoy (3rd pl. present): अनुभव करना}
 bāhira: {outside, outer (compound member): बाहरी}
@@ -4093,8 +4093,8 @@ ghāyitvā: {having sensed an odour with the nose (absolutive): सूँघक�
 sāyitvā: {having savoured a flavour with the tongue (absolutive): चखकर}
 Cakkhuviññāṇaṃ kusalaṃ: {'eye-consciousness is skilful', a disputed thesis (phrase): आँख की चेतना हितकर होती है}
 Manoviññāṇaṃ kusalaṃ: {'mind-consciousness is skilful' (phrase): मन की चेतना हितकर भी होती है}
-ābhogaṃ: {attentive involvement, regard (accusative): रुचि}
-Cakkhuviññāṇaṃ sābhogaṃ: {'eye-consciousness has attentive regard', a disputed thesis (phrase): आँख की चेतना रुचि से युक्त होती है}
+ābhogaṃ: {attentive involvement, regard (accusative): मन का जुड़ाव}
+Cakkhuviññāṇaṃ sābhogaṃ: {'eye-consciousness has attentive regard', a disputed thesis (phrase): आँख की चेतना मन के जुड़ाव वाली होती है}
 lokiyena samannāgato: {possessed of something mundane (phrase): लौकिक… से संपन्न}
 Maggasamaṅgī samannāgato: {one at the path moment is possessed of (phrase): मार्ग से युक्त व्यक्ति… से संपन्न होता है}
 Maggasamaṅgī: {one who is at the moment of the path (nominative): मार्ग से युक्त व्यक्ति}
@@ -4193,7 +4193,7 @@ bhāsato: {of one talking (genitive participle): बोलते हुए}
 vācaṃ bhāsato: {of one uttering speech (phrase): वचन बोलते हुए}
 attā: {the soul, oneself (nominative): आत्मा}
 kha: {last syllable of dukkha pronounced on its own (sound unit): खं}
-attabhāvappaṭilābho: {obtaining of a personal existence (nominative): देह की प्राप्ति}
+attabhāvappaṭilābho: {obtaining of a personal existence (nominative): व्यक्तिगत अस्तित्व की प्राप्ति}
 bhāva: {state of being, in attabhāva (compound member): देह}
 Iddhibalena tiṭṭheyya: {'might one remain alive by supernormal force' (phrase): सिद्धि के बल से संपन्न व्यक्ति… टिका रह सकता है}
 avasese: {in what is left over (locative): शेष भाग}
@@ -4748,13 +4748,13 @@ upapattesiyaṃ: {in quest of a new existence (neuter): पुनर्जन्
 rūpaṃ arūpāvacaraṃ: {matter belonging to the immaterial sphere (phrase): भौतिक रूप जो अरूप-लोक का है}
 katattā rūpaṃ: {matter born of performed kamma (phrase): किए जाने के कारण भौतिक रूप}
 kāmāvacara: {of the sensual sphere (compound member): इंद्रिय-सुखों के लोक का}
-Rūparāgo rūpadhātupariyāpanno: {'lust for fine-material being is comprised in the fine-material plane' (phrase): रूप का राग रूप-तत्व में शामिल है}
-Saddarāgo saddadhātupariyāpanno: {'lust for sound is comprised in the element of sound' (phrase): ध्वनि का राग ध्वनि-तत्व में शामिल है}
-phoṭṭhabbarāgo phoṭṭhabbadhātupariyāpanno: {'lust for tangibles is comprised in the element of tangibles' (phrase): स्पर्श का राग स्पर्श-तत्व में शामिल है}
-Arūparāgo arūpadhātupariyāpanno: {'lust for immaterial being is comprised in the immaterial plane' (phrase): अरूप का राग अरूप-तत्व में शामिल है}
+Rūparāgo rūpadhātupariyāpanno: {'lust for fine-material being is comprised in the fine-material plane' (phrase): रूप का राग रूप-तत्व में सम्मिलित है}
+Saddarāgo saddadhātupariyāpanno: {'lust for sound is comprised in the element of sound' (phrase): ध्वनि का राग ध्वनि-तत्व में सम्मिलित है}
+phoṭṭhabbarāgo phoṭṭhabbadhātupariyāpanno: {'lust for tangibles is comprised in the element of tangibles' (phrase): स्पर्श का राग स्पर्श-तत्व में सम्मिलित है}
+Arūparāgo arūpadhātupariyāpanno: {'lust for immaterial being is comprised in the immaterial plane' (phrase): अरूप का राग अरूप-तत्व में सम्मिलित है}
 anuppadānaṃ: {bestowing (nominative): देना}
 sukhānuppadānaṃ: {the bestowing of pleasure, heading (nominative): सुख देना}
-kāmarāgo kāmadhātupariyāpanno: {'sensual lust is comprised in the sensual plane' (phrase): इंद्रिय-सुखों का राग इंद्रिय-सुखों के तत्व में शामिल है}
+kāmarāgo kāmadhātupariyāpanno: {'sensual lust is comprised in the sensual plane' (phrase): इंद्रिय-सुखों का राग इंद्रिय-सुखों के तत्व में सम्मिलित है}
 niggaho: {curbing (nominative): अंकुश}
 paggaho: {lifting up, support (nominative): सहारा}
 puññūpacayo: {heaping up of merit, chapter heading (nominative): पुण्य का संचय}
@@ -5015,15 +5015,15 @@ asañjaneti: {does not generate (3rd sg. negative causative): अनुत्प
 ajaneti: {does not give birth to (3rd sg. negative causative): अजन्मा रखना}
 apātubhāveti: {does not make appear (3rd sg. negative causative): अप्रकट रखना}
 anibbatteti: {does not bring forth (3rd sg. negative causative): पैदा न होने देना}
-Suññatā saṅkhārakkhandhapariyāpannā: {'voidness is comprised in the formations aggregate' (phrase): शून्यता मानसिक रचनाओं के समूह में शामिल है}
+Suññatā saṅkhārakkhandhapariyāpannā: {'voidness is comprised in the formations aggregate' (phrase): शून्यता मानसिक रचनाओं के समूह में सम्मिलित है}
 Animittaṃ: {without marks or signs (nominative): चिह्नों का अभाव}
 khandhassa: {of the group, heap (genitive): समूह}
 viññāṇakkhandhassa: {of the awareness group (genitive): चेतना का समूह}
 vedanākkhandhassa: {of the feeling group (genitive): अनुभूति का समूह}
 Rūpakkhandhassa: {of the matter group (genitive): भौतिक रूप का समूह}
 saññākkhandhassa: {of the ideation group (genitive): पहचान का समूह}
-Rūpakkhandhassa saṅkhārakkhandhapariyāpannā: {'of the matter group, comprised in the formations aggregate' (phrase): भौतिक रूप के समूह की … मानसिक रचनाओं के समूह में शामिल}
-Saṅkhārakkhandhassa rūpakkhandhapariyāpannā: {'of the formations group, comprised in the matter aggregate' (phrase): मानसिक रचनाओं के समूह की … भौतिक रूप के समूह में शामिल}
+Rūpakkhandhassa saṅkhārakkhandhapariyāpannā: {'of the matter group, comprised in the formations aggregate' (phrase): भौतिक रूप के समूह की … मानसिक रचनाओं के समूह में सम्मिलित}
+Saṅkhārakkhandhassa rūpakkhandhapariyāpannā: {'of the formations group, comprised in the matter aggregate' (phrase): मानसिक रचनाओं के समूह की … भौतिक रूप के समूह में सम्मिलित}
 suññaṃ: {void (nominative): शून्य}
 Sāmaññaphalaṃ asaṅkhataṃ: {'the fruit of recluseship is unconstructed' (phrase): श्रमण-जीवन का फल अनिर्मित है}
 parāyaṇaṃ: {ultimate support, refuge (nominative): परम लक्ष्य}
