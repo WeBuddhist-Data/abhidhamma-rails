@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-dhammasangani-ai.md",
-  "validated_at": "2026-08-20T11:06:47.640583+00:00",
+  "validated_at": "2026-11-10T11:34:34.478859+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -14,10 +14,8 @@
   ],
   "warnings": [
     "alt_titles: missing — ignored for now",
-    "no Person found in BDRC for 'AI (CSCD-aligned'",
-    "translator 'AI (CSCD-aligned' not found (no id) — skipped",
-    "no Person found in BDRC for 'tipitaka.org Mūla edition)'",
-    "translator 'tipitaka.org Mūla edition)' not found (no id) — skipped"
+    "translator 'AI (CSCD-aligned' has no [bdrc:ID] or [op:ID] — skipped",
+    "translator 'tipitaka.org Mūla edition)' has no [bdrc:ID] or [op:ID] — skipped"
   ],
   "text_input": {
     "bdrc": null,

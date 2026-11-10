@@ -30,7 +30,7 @@ body        := BOOK "-" [ ZONE "-" ] LEAF           # content
              | BOOK "-" PATH "-0"                   # heading
 
 BOOK        := 1..7
-ZONE        := arabic | "M" roman | reserved        # see §4
+ZONE        := arabic | "M" [ arabic ] | reserved    # see §4
 LEAF        := INT | INT "x" INT | "U" INT
 PATH        := segment ( "-" segment )*
 ```
@@ -42,9 +42,9 @@ Concrete shapes:
 | Piṭaka root | `^0` | `^0` |
 | Pre-title prose | `^T-{n}` | `^T-1` |
 | Book heading | `^{book}-0` | `^1-0` |
-| Deeper heading | `^{book}-{path}-0` | `^1-2-3-0`, `^1-M-II-XIV-0` (root text); `^1-I-II-0` (commentary — §11a) |
+| Deeper heading | `^{book}-{path}-0` | `^1-2-3-0`, `^1-M-2-14-0` (root text); `^1-I-II-0` (commentary — §11a) |
 | Content, principal run | `^{book}-{N}` | `^1-585` |
-| Content, zoned run | `^{book}-{zone}-{N}` | `^1-MII-142` |
+| Content, zoned run | `^{book}-{zone}-{N}` | `^1-M2-142` |
 | Content, unnumbered | `^{book}-U{k}` | `^1-U1` |
 | Content, repeated `N` | `^{book}-{N}x{k}` | `^1-5x1` |
 
@@ -92,9 +92,9 @@ If the source skips a number, the ID sequence skips it too (book 2 legitimately 
 | `1`–`7` | book | Abhidhamma book number | `^3-…` |
 | `U` | leaf | **U**nnumbered — block has no printed number | `^1-U1` |
 | `x` | leaf infix | Duplicate printed `N`; 1st bare, later `x1`, `x2` | `^1-5x1` |
-| `M` | zone | **M**ātikā that opens the book's first counter (root-text books only) | `^1-M-0`, `^1-MI-1` |
-| Roman | path | Sibling index **inside a designated front-matter subtree only** — root-text books: inside an `M` subtree (§6). Commentary files (`1-SOURCES/Commentaries/`): inside the single, manually-named `--frontmatter` heading's subtree, if any (§11a) | `^1-M-II-0` (root text); `^1-I-II-0` (commentary front matter) |
-| Arabic | zone/path/leaf | Default for all headings outside a front-matter subtree (both root-text and commentary); sequential run label; every commentary content leaf (`N`), always, front matter or not | `^1-2-0` (ordinary heading, either file type); `^1-142` (commentary content) |
+| `M` | zone | **M**ātikā that opens the book's first counter (root-text books only); with a run index when the matrix has more than one run. Matrix content is typed `verse` | `^1-M-0`, `^1-M1-1`, `^4-M-5` |
+| Roman | path | Sibling index **inside a commentary front-matter subtree only** (`1-SOURCES/Commentaries/`, the single manually-named `--frontmatter` heading's subtree — §11a). Root-text IDs never use Roman, `M` subtrees included (§6) | `^1-I-II-0` (commentary front matter) |
+| Arabic | zone/path/leaf | Every root-text ID, `M` subtrees included; every commentary heading outside a front-matter subtree; sequential run label; every commentary content leaf (`N`), always, front matter or not | `^1-2-0` (ordinary heading, either file type); `^1-M-2-0` (matrix heading); `^1-142` (commentary content) |
 | `D`,`T`*,`A`,`P` | zone | **Reserved, book 7 only** — see §7 | `^7-D7T1-…` |
 
 \* `T` is overloaded: `^T-{n}` at the *start* of an ID means top-matter; `T` inside a book-7 zone means *tika*. They never occupy the same position, so no ambiguity arises — but do not introduce a third meaning.
@@ -120,30 +120,45 @@ Two **independent tracks**. Do not make one mirror the other.
 | Depth | unlimited (4, 5, 6+ segments fine) | **maximum 3 segments** |
 | Numbering | sibling position under its parent | verbatim printed `N` |
 
-Because the tracks are independent, the same digits may appear in both meaning different things — e.g. Dukamātikā's **content** is `^1-MII-{N}` while its **heading** is `^1-M-II-0`. No literal collision is possible, since content never ends in `-0`.
+Because the tracks are independent, the same digits may appear in both meaning different things — e.g. Dukamātikā's **content** is `^1-M2-{N}` while its **heading** is `^1-M-2-0`. No literal collision is possible, since content never ends in `-0`.
 
 **Headings use sibling position even when the source prints a number on them.** Book 2 has ~170 headings like `##### (25. Ka) arati`; those printed numbers collide with each other and desync where lettered sub-headings intervene. Verbatim-number preservation (§3) is a **content-ID rule only**.
 
 The `###` counter runs continuously across *all* `###` siblings in a book. There is no separate counter for "front" and "body" sections.
 
-**The `M`/front-matter exception exists in both file types, with the same shape.** Root-text books render heading sibling position in Arabic, except inside an `M` subtree (§6) — a mātikā that opens the book's first counter, Roman inside that subtree only. Commentary files render heading sibling position in Arabic too, except inside a single, manually-named front-matter subtree (§11a) — Roman inside that subtree only, everywhere else Arabic. Content stays Arabic in both file types, always. Neither file type uses Roman as its default — it is always the narrow exception for a genuinely separate opening section, never the baseline.
+**Both file types mark a separate opening section, but not the same way.** Root-text books number every heading — `M` subtrees included (§6) — by Arabic sibling position; the `M` token alone marks the matrix, and no root-text ID uses Roman. Commentary files render heading sibling position in Arabic too, except inside a single, manually-named front-matter subtree (§11a), which is Roman. Content stays Arabic in both file types, always. Roman is never a baseline: it marks only a commentary's genuinely separate opening section.
 
 ---
 
 ## 6. The `M` zone
 
-The one place a zone carries meaning. When a **mātikā/matrix section opens the book's first numbering run** — it precedes the body and owns its own counter(s) — it is genuinely introductory and takes `M`:
+The one place a zone carries meaning. When a **mātikā/matrix section opens the book's first numbering run** — it precedes the body and owns its own counter(s) — it takes `M`:
 
 | Track | Shape | Book 1 |
 |---|---|---|
 | Matrix parent heading | `^{book}-M-0` | `### Mātikā ^1-M-0` |
-| Child headings | `^{book}-M-{Roman}-0` | `^1-M-I-0`, `^1-M-II-0` |
-| Deeper headings | Roman throughout | `^1-M-II-I-0` … `^1-M-II-XIV-0` |
-| Content | `^{book}-M{Roman}-{N}` | `^1-MI-1`…`^1-MI-22`, `^1-MII-1`…`^1-MII-142` |
+| Child headings | `^{book}-M-{n}-0` | `^1-M-1-0` (Tikamātikā), `^1-M-2-0` (Dukamātikā) |
+| Deeper headings | Arabic throughout | `^1-M-2-1-0` … `^1-M-2-14-0` |
+| Content, one run | `^{book}-M-{N}` | `^4-M-1` … `^4-M-16` (book 4) |
+| Content, several runs | `^{book}-M{n}-{N}` | `^1-M1-1`…`^1-M1-22`, `^1-M2-1`…`^1-M2-142` |
 
-Heading and content share the same Roman label (`^1-M-I-0` ↔ `^1-MI-{N}`); content merely fuses `M`+Roman into one token to respect the 3-segment cap.
+**`{n}` after `M` is a run index, not a heading index.** It exists for the same reason as any other zone (§3): so two blocks with the same printed `N` do not collide. A matrix with a single counter takes no index at all — book 4's matrix runs 1–16 across nine child headings, so its content is plain `^4-M-{N}`. Book 1's matrix has two counters (tika 1–22, duka 1–142), which happen to line up with its two child headings.
+
+Content fuses `M` and the run index into one token (`M2`) to respect the 3-segment cap; the heading track keeps its segments separate (`M-2-1`) and may nest deeper.
 
 Body `###` numbering starts at `1` *after* the `M` section, since `M` occupies its own slot.
+
+### Numerals
+
+Arabic, everywhere in the `M` subtree — headings and content alike. **Roman numerals are not used in root-text IDs at all**; they survive only inside a commentary front-matter subtree (§11a).
+
+They were used here until 2026-09 (`^1-M-II-XIV-0`, `^1-MII-142`). That turned out to be a trap: `M`, `MI` and `MII` are themselves valid Roman numerals, so a parser reading numerals out of an ID typed the whole mātikā as `front_matter`. `linter-root-text` reports any ID still numbering a matrix in Roman.
+
+### Segment type
+
+A matrix is text of the work, not paratext, so **matrix content is typed `verse`** — never `front_matter`. The zone says which numbering run a block belongs to; it makes no claim about genre beyond marking the matrix itself.
+
+Parsers must not infer a segment type from numeral-looking letters in an ID. `^T-{n}` (pre-title prose → `top_segment`) and `M` are the only tokens a parser may read a type from.
 
 ### The test is counter behaviour, not the word "mātikā"
 
@@ -156,6 +171,10 @@ Matrices are **common and recurring**, not once-per-book. Observed:
 | 3 | five inside `Uddesa` (Naya-, Abbhantara-, Nayamukha-, Lakkhaṇa-, Bāhira-) | **no** — numbering flows into the body |
 
 A matrix qualifies **only** if it opens the book's numbering. Every other matrix is ordinary content under ordinary zones.
+
+### Migration status (2026-09)
+
+`pi-1` (164 content IDs, 16 headings) and `pi-4` (9 headings) still carry the Roman form, along with the translations, commentaries, glossaries and `2-RAILS/Verses` files that reference them. Parsers accept both forms and type either as `verse`; the linter warns once per file until the rename is done.
 
 ---
 
@@ -199,8 +218,8 @@ That section documents the pre-2026-08 scheme. Where they differ, **this spec wi
 |---|---|---|
 | Piṭaka root | `^abhidhamma-0` | `^0` |
 | Homage line | no anchor | `^T-1` |
-| Mātikā sub-headings | `^1-0a-0`, `^1-0b-0` | `^1-M-I-0`, `^1-M-II-0` |
-| Mātikā content | `^1-0a-1`, `^1-0b-1` | `^1-MI-1`, `^1-MII-1` |
+| Mātikā sub-headings | `^1-0a-0`, `^1-0b-0` | `^1-M-1-0`, `^1-M-2-0` |
+| Mātikā content | `^1-0a-1`, `^1-0b-1` | `^1-M1-1`, `^1-M2-1` |
 | Unnumbered block | no verse-level ID | `^{book}-U{k}` |
 | Mātikā counter | "internal counter" | source's printed `N`, verbatim |
 
@@ -239,7 +258,7 @@ See `4-SYSTEM/Skills/add-block-id-commentary/SKILL.md` for the workflow. Its `ap
 
 ## 11a. Commentary front-matter heading IDs — a commentary-side `M`-zone
 
-Commentary headings are **Arabic by default** — same sibling-position logic as root-text headings (§5), same numeral system. The one exception: a single, manually-identified front-matter heading and its whole descendant subtree may use **Roman** numerals instead, in their own counter namespace, mirroring root-text's `M`-zone (§6) exactly:
+Commentary headings are **Arabic by default** — same sibling-position logic as root-text headings (§5), same numeral system. The one exception: a single, manually-identified front-matter heading and its whole descendant subtree may use **Roman** numerals instead, in their own counter namespace, mirroring the *shape* of root-text's `M`-zone (§6) — though that zone itself is numbered in Arabic:
 
 ```
 ### Sumedhakathāvaṇṇanā          ^1-I-0      front matter — 1st Roman sibling in its own namespace

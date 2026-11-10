@@ -5,8 +5,8 @@
         "pi": "Abhidhammapiṭake (anuṭīkā)"
       },
       "span": {
-        "start": 72,
-        "end": 396891
+        "start": 46,
+        "end": 396015
       },
       "subsections": [
         {
@@ -14,35 +14,35 @@
             "pi": "Dhammasaṅgaṇī-anuṭīkā"
           },
           "span": {
-            "start": 93,
-            "end": 396891
+            "start": 46,
+            "end": 396015
           },
           "subsections": [
             {
               "title": {
-                "pi": "Sumedhakathāvaṇṇanā"
+                "pi": "Vīsatigāthāvaṇṇanā"
               },
               "span": {
-                "start": 112,
-                "end": 47205
+                "start": 46,
+                "end": 20053
+              }
+            },
+            {
+              "title": {
+                "pi": "Nidānakathāvaṇṇanā"
+              },
+              "span": {
+                "start": 20053,
+                "end": 47101
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Vīsatigāthāvaṇṇanā"
+                    "pi": "Sumedhakathāvaṇṇanā"
                   },
                   "span": {
-                    "start": 130,
-                    "end": 20137
-                  }
-                },
-                {
-                  "title": {
-                    "pi": "Nidānakathāvaṇṇanā"
-                  },
-                  "span": {
-                    "start": 20155,
-                    "end": 47205
+                    "start": 46176,
+                    "end": 47101
                   }
                 }
               ]
@@ -52,249 +52,251 @@
                 "pi": "Cittuppādakaṇḍaṃ"
               },
               "span": {
-                "start": 47221,
-                "end": 47221
-              }
-            },
-            {
-              "title": {
-                "pi": "Tikamātikāpadavaṇṇanā"
-              },
-              "span": {
-                "start": 47242,
-                "end": 95717
-              }
-            },
-            {
-              "title": {
-                "pi": "Dukamātikāpadavaṇṇanā"
-              },
-              "span": {
-                "start": 95738,
-                "end": 117831
+                "start": 47101,
+                "end": 262229
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Suttantikadukamātikāpadavaṇṇanā"
+                    "pi": "Tikamātikāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 114273,
-                    "end": 117831
+                    "start": 47101,
+                    "end": 95632
                   }
-                }
-              ]
-            },
-            {
-              "title": {
-                "pi": "Kāmāvacarakusalapadabhājanīyavaṇṇanā"
-              },
-              "span": {
-                "start": 117867,
-                "end": 263225
-              },
-              "subsections": [
+                },
                 {
                   "title": {
-                    "pi": "Kāmāvacarakusalaṃ"
+                    "pi": "Dukamātikāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 143046,
-                    "end": 170470
+                    "start": 95632,
+                    "end": 117793
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Kāyakammadvārakathāvaṇṇanā"
+                        "pi": "Suttantikadukamātikāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 143072,
-                        "end": 150277
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Vacīkammadvārakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 150303,
-                        "end": 152845
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Manokammadvārakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 152871,
-                        "end": 154134
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Kammakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 154151,
-                        "end": 162438
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Akusalakammapathakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 162467,
-                        "end": 166560
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Kusalakammapathakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 166588,
-                        "end": 166709
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Kammapathasaṃsandanakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 166741,
-                        "end": 170470
+                        "start": 114191,
+                        "end": 117793
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Dhammuddesavārakathā"
+                    "pi": "Kāmāvacarakusalapadabhājanīyavaṇṇanā"
                   },
                   "span": {
-                    "start": 170490,
-                    "end": 185792
+                    "start": 117793,
+                    "end": 194673
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Phassapañcamakarāsivaṇṇanā"
+                        "pi": "Kāmāvacarakusalaṃ"
                       },
                       "span": {
-                        "start": 170516,
-                        "end": 173979
-                      }
+                        "start": 142958,
+                        "end": 170198
+                      },
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "Kāyakammadvārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 142958,
+                            "end": 150163
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Vacīkammadvārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 150163,
+                            "end": 152705
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Manokammadvārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 152705,
+                            "end": 153968
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Kammakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 153968,
+                            "end": 162255
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Akusalakammapathakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 162255,
+                            "end": 166348
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Kusalakammapathakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 166348,
+                            "end": 166469
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Kammapathasaṃsandanakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 166469,
+                            "end": 170198
+                          }
+                        }
+                      ]
                     },
                     {
                       "title": {
-                        "pi": "Jhānaṅgarāsivaṇṇanā"
+                        "pi": "Dhammuddesavārakathā"
                       },
                       "span": {
-                        "start": 173998,
-                        "end": 175570
-                      }
+                        "start": 170198,
+                        "end": 185327
+                      },
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "Phassapañcamakarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 170198,
+                            "end": 173661
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Jhānaṅgarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 173661,
+                            "end": 175233
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Indriyarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 175233,
+                            "end": 179199
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Maggaṅgarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 179199,
+                            "end": 179528
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Balarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 179528,
+                            "end": 179844
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Mūlarāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 179844,
+                            "end": 182553
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Kammapatharāsivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 182553,
+                            "end": 182882
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Passaddhādiyugalavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 182882,
+                            "end": 184151
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Yevāpanakavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 184151,
+                            "end": 185327
+                          }
+                        }
+                      ]
                     },
                     {
                       "title": {
-                        "pi": "Indriyarāsivaṇṇanā"
+                        "pi": "Kāmāvacarakusalaṃ"
                       },
                       "span": {
-                        "start": 175588,
-                        "end": 179554
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Maggaṅgarāsivaṇṇanā"
+                        "start": 185327,
+                        "end": 194673
                       },
-                      "span": {
-                        "start": 179573,
-                        "end": 179902
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Balarāsivaṇṇanā"
-                      },
-                      "span": {
-                        "start": 179917,
-                        "end": 180233
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Mūlarāsivaṇṇanā"
-                      },
-                      "span": {
-                        "start": 180248,
-                        "end": 182957
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Kammapatharāsivaṇṇanā"
-                      },
-                      "span": {
-                        "start": 182978,
-                        "end": 183307
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Passaddhādiyugalavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 183331,
-                        "end": 184600
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Yevāpanakavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 184617,
-                        "end": 185792
-                      }
-                    }
-                  ]
-                },
-                {
-                  "title": {
-                    "pi": "Kāmāvacarakusalaṃ"
-                  },
-                  "span": {
-                    "start": 185809,
-                    "end": 195127
-                  },
-                  "subsections": [
-                    {
-                      "title": {
-                        "pi": "Niddesavārakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 185832,
-                        "end": 192543
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Koṭṭhāsavārakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 192567,
-                        "end": 194799
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Suññatavārādivaṇṇanā"
-                      },
-                      "span": {
-                        "start": 194819,
-                        "end": 195127
-                      }
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "Niddesavārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 185327,
+                            "end": 192102
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Koṭṭhāsavārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 192102,
+                            "end": 194341
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Suññatavārādivaṇṇanā"
+                          },
+                          "span": {
+                            "start": 194341,
+                            "end": 194673
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -303,8 +305,8 @@
                     "pi": "Rūpāvacarakusalaṃ"
                   },
                   "span": {
-                    "start": 195144,
-                    "end": 228152
+                    "start": 194673,
+                    "end": 221798
                   },
                   "subsections": [
                     {
@@ -312,44 +314,46 @@
                         "pi": "Catukkanayo"
                       },
                       "span": {
-                        "start": 195155,
-                        "end": 195155
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Paṭhamajjhānakathāvaṇṇanā"
+                        "start": 194673,
+                        "end": 200311
                       },
-                      "span": {
-                        "start": 195180,
-                        "end": 198281
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Dutiyajjhānakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 198305,
-                        "end": 199718
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Tatiyajjhānakathāvaṇṇanā"
-                      },
-                      "span": {
-                        "start": 199742,
-                        "end": 200847
-                      }
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "Paṭhamajjhānakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 194673,
+                            "end": 197779
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Dutiyajjhānakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 197779,
+                            "end": 199201
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Tatiyajjhānakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 199201,
+                            "end": 200311
+                          }
+                        }
+                      ]
                     },
                     {
                       "title": {
                         "pi": "Pañcakanayavaṇṇanā"
                       },
                       "span": {
-                        "start": 200865,
-                        "end": 203587
+                        "start": 200311,
+                        "end": 203038
                       }
                     },
                     {
@@ -357,8 +361,8 @@
                         "pi": "Paṭipadācatukkādivaṇṇanā"
                       },
                       "span": {
-                        "start": 203611,
-                        "end": 204098
+                        "start": 203038,
+                        "end": 203539
                       }
                     },
                     {
@@ -366,8 +370,8 @@
                         "pi": "Kasiṇakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 204116,
-                        "end": 204426
+                        "start": 203539,
+                        "end": 203855
                       }
                     },
                     {
@@ -375,8 +379,8 @@
                         "pi": "Abhibhāyatanakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 204451,
-                        "end": 209121
+                        "start": 203855,
+                        "end": 208530
                       }
                     },
                     {
@@ -384,8 +388,8 @@
                         "pi": "Vimokkhakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 209141,
-                        "end": 209782
+                        "start": 208530,
+                        "end": 209176
                       }
                     },
                     {
@@ -393,8 +397,8 @@
                         "pi": "Brahmavihārakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 209806,
-                        "end": 210479
+                        "start": 209176,
+                        "end": 209854
                       }
                     },
                     {
@@ -402,8 +406,8 @@
                         "pi": "Asubhakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 210497,
-                        "end": 210983
+                        "start": 209854,
+                        "end": 210344
                       }
                     },
                     {
@@ -411,8 +415,8 @@
                         "pi": "Arūpāvacarakusalakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 211012,
-                        "end": 212899
+                        "start": 210344,
+                        "end": 212246
                       }
                     },
                     {
@@ -420,8 +424,8 @@
                         "pi": "Tebhūmakakusalavaṇṇanā"
                       },
                       "span": {
-                        "start": 212921,
-                        "end": 214082
+                        "start": 212246,
+                        "end": 213413
                       }
                     },
                     {
@@ -429,26 +433,28 @@
                         "pi": "Lokuttarakusalavaṇṇanā"
                       },
                       "span": {
-                        "start": 214104,
-                        "end": 222463
+                        "start": 213413,
+                        "end": 221798
                       }
-                    },
-                    {
-                      "title": {
-                        "pi": "Lokuttarakusalaṃ"
-                      },
-                      "span": {
-                        "start": 222479,
-                        "end": 222479
-                      }
-                    },
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "pi": "Lokuttarakusalaṃ"
+                  },
+                  "span": {
+                    "start": 221798,
+                    "end": 227407
+                  },
+                  "subsections": [
                     {
                       "title": {
                         "pi": "Pakiṇṇakakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 222500,
-                        "end": 226537
+                        "start": 221798,
+                        "end": 225837
                       }
                     },
                     {
@@ -456,8 +462,8 @@
                         "pi": "Paṭhamamaggavīsatimahānayavaṇṇanā"
                       },
                       "span": {
-                        "start": 226570,
-                        "end": 227417
+                        "start": 225837,
+                        "end": 226694
                       }
                     },
                     {
@@ -465,8 +471,8 @@
                         "pi": "Catumagganayasahassavaṇṇanā"
                       },
                       "span": {
-                        "start": 227444,
-                        "end": 228152
+                        "start": 226694,
+                        "end": 227407
                       }
                     }
                   ]
@@ -476,81 +482,83 @@
                     "pi": "Akusalapadaṃ"
                   },
                   "span": {
-                    "start": 228164,
-                    "end": 228164
-                  }
-                },
-                {
-                  "title": {
-                    "pi": "Dhammuddesavāro"
-                  },
-                  "span": {
-                    "start": 228179,
-                    "end": 238325
+                    "start": 227407,
+                    "end": 237452
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamacittavaṇṇanā"
+                        "pi": "Dhammuddesavāro"
                       },
                       "span": {
-                        "start": 228198,
-                        "end": 230511
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Niddesavārakathāvaṇṇanā"
+                        "start": 227407,
+                        "end": 237452
                       },
-                      "span": {
-                        "start": 230534,
-                        "end": 230834
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Tatiyacittavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 230852,
-                        "end": 232758
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Catutthacittavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 232778,
-                        "end": 232860
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Navamacittavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 232878,
-                        "end": 233199
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Ekādasamacittavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 233220,
-                        "end": 233314
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "Dvādasamacittavaṇṇanā"
-                      },
-                      "span": {
-                        "start": 233335,
-                        "end": 238325
-                      }
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "Paṭhamacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 227407,
+                            "end": 229725
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Niddesavārakathāvaṇṇanā"
+                          },
+                          "span": {
+                            "start": 229725,
+                            "end": 230030
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Tatiyacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 230030,
+                            "end": 231940
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Catutthacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 231940,
+                            "end": 232027
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Navamacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 232027,
+                            "end": 232358
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Ekādasamacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 232358,
+                            "end": 232457
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "Dvādasamacittavaṇṇanā"
+                          },
+                          "span": {
+                            "start": 232457,
+                            "end": 237452
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -559,8 +567,8 @@
                     "pi": "Abyākatapadaṃ"
                   },
                   "span": {
-                    "start": 238338,
-                    "end": 263225
+                    "start": 237452,
+                    "end": 262229
                   },
                   "subsections": [
                     {
@@ -568,8 +576,8 @@
                         "pi": "Ahetukakusalavipākavaṇṇanā"
                       },
                       "span": {
-                        "start": 238364,
-                        "end": 243824
+                        "start": 237452,
+                        "end": 242935
                       }
                     },
                     {
@@ -577,8 +585,8 @@
                         "pi": "Aṭṭhamahāvipākacittavaṇṇanā"
                       },
                       "span": {
-                        "start": 243851,
-                        "end": 244955
+                        "start": 242935,
+                        "end": 244044
                       }
                     },
                     {
@@ -586,8 +594,8 @@
                         "pi": "Vipākuddhārakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 244979,
-                        "end": 258451
+                        "start": 244044,
+                        "end": 257514
                       }
                     },
                     {
@@ -595,8 +603,8 @@
                         "pi": "Rūpāvacarārūpāvacaravipākakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 258489,
-                        "end": 259152
+                        "start": 257514,
+                        "end": 258182
                       }
                     },
                     {
@@ -604,8 +612,8 @@
                         "pi": "Lokuttaravipākakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 259179,
-                        "end": 260485
+                        "start": 258182,
+                        "end": 259498
                       }
                     },
                     {
@@ -613,8 +621,8 @@
                         "pi": "Kiriyābyākatakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 260510,
-                        "end": 263225
+                        "start": 259498,
+                        "end": 262229
                       }
                     }
                   ]
@@ -626,8 +634,8 @@
                 "pi": "Rūpakaṇḍaṃ"
               },
               "span": {
-                "start": 263235,
-                "end": 309666
+                "start": 262229,
+                "end": 308569
               },
               "subsections": [
                 {
@@ -635,8 +643,8 @@
                     "pi": "Uddesavaṇṇanā"
                   },
                   "span": {
-                    "start": 263248,
-                    "end": 271730
+                    "start": 262229,
+                    "end": 270673
                   },
                   "subsections": [
                     {
@@ -644,8 +652,8 @@
                         "pi": "Tividharūpasaṅgahavaṇṇanā"
                       },
                       "span": {
-                        "start": 268633,
-                        "end": 270168
+                        "start": 267596,
+                        "end": 269137
                       }
                     },
                     {
@@ -653,8 +661,8 @@
                         "pi": "Catubbidhādirūpasaṅgahavaṇṇanā"
                       },
                       "span": {
-                        "start": 270198,
-                        "end": 271730
+                        "start": 269137,
+                        "end": 270673
                       }
                     }
                   ]
@@ -664,8 +672,8 @@
                     "pi": "Rūpavibhatti"
                   },
                   "span": {
-                    "start": 271742,
-                    "end": 277961
+                    "start": 270673,
+                    "end": 276879
                   },
                   "subsections": [
                     {
@@ -673,8 +681,8 @@
                         "pi": "Ekakaniddesavaṇṇanā"
                       },
                       "span": {
-                        "start": 271761,
-                        "end": 277961
+                        "start": 270673,
+                        "end": 276879
                       }
                     }
                   ]
@@ -684,8 +692,8 @@
                     "pi": "Dukaniddeso"
                   },
                   "span": {
-                    "start": 277972,
-                    "end": 309666
+                    "start": 276879,
+                    "end": 308569
                   },
                   "subsections": [
                     {
@@ -693,8 +701,8 @@
                         "pi": "Upādābhājanīyavaṇṇanā"
                       },
                       "span": {
-                        "start": 277993,
-                        "end": 301752
+                        "start": 276879,
+                        "end": 300706
                       }
                     },
                     {
@@ -702,8 +710,8 @@
                         "pi": "Noupādābhājanīyakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 301780,
-                        "end": 306155
+                        "start": 300706,
+                        "end": 305106
                       }
                     },
                     {
@@ -711,8 +719,8 @@
                         "pi": "Catukkaniddesavaṇṇanā"
                       },
                       "span": {
-                        "start": 306176,
-                        "end": 306607
+                        "start": 305106,
+                        "end": 305542
                       }
                     },
                     {
@@ -720,8 +728,8 @@
                         "pi": "Pañcakaniddesavaṇṇanā"
                       },
                       "span": {
-                        "start": 306628,
-                        "end": 306685
+                        "start": 305542,
+                        "end": 305604
                       }
                     },
                     {
@@ -729,8 +737,8 @@
                         "pi": "Pakiṇṇakakathāvaṇṇanā"
                       },
                       "span": {
-                        "start": 306706,
-                        "end": 309666
+                        "start": 305604,
+                        "end": 308569
                       }
                     }
                   ]
@@ -742,8 +750,8 @@
                 "pi": "Nikkhepakaṇḍaṃ"
               },
               "span": {
-                "start": 309680,
-                "end": 368561
+                "start": 308569,
+                "end": 367685
               },
               "subsections": [
                 {
@@ -751,8 +759,8 @@
                     "pi": "Tikanikkhepakathāvaṇṇanā"
                   },
                   "span": {
-                    "start": 309704,
-                    "end": 327627
+                    "start": 308569,
+                    "end": 326588
                   }
                 },
                 {
@@ -760,18 +768,20 @@
                     "pi": "Dukanikkhepakathāvaṇṇanā"
                   },
                   "span": {
-                    "start": 327651,
-                    "end": 341722
-                  }
-                },
-                {
-                  "title": {
-                    "pi": "Suttantikadukanikkhepakathāvaṇṇanā"
+                    "start": 326588,
+                    "end": 367685
                   },
-                  "span": {
-                    "start": 341756,
-                    "end": 368561
-                  }
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "Suttantikadukanikkhepakathāvaṇṇanā"
+                      },
+                      "span": {
+                        "start": 340767,
+                        "end": 367685
+                      }
+                    }
+                  ]
                 }
               ]
             },
@@ -780,8 +790,8 @@
                 "pi": "Aṭṭhakathākaṇḍaṃ"
               },
               "span": {
-                "start": 368577,
-                "end": 396891
+                "start": 367685,
+                "end": 396015
               },
               "subsections": [
                 {
@@ -789,8 +799,8 @@
                     "pi": "Tikaatthuddhāravaṇṇanā"
                   },
                   "span": {
-                    "start": 368599,
-                    "end": 392297
+                    "start": 367685,
+                    "end": 391426
                   }
                 },
                 {
@@ -798,8 +808,8 @@
                     "pi": "Dukaatthuddhāravaṇṇanā"
                   },
                   "span": {
-                    "start": 392319,
-                    "end": 396891
+                    "start": 391426,
+                    "end": 396015
                   }
                 }
               ]

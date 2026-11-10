@@ -15,7 +15,7 @@ source: https://webuddhist.com
 translation_of: BzOXhiRUQM4MOT6affzmO
 text_id: w5I1qppFhuq3ajPKycfZq
 edition_id: iHKzVEoVdYD9V81IKRBn3
-toc_id: Kx3htHQ214kWaUT4vxylV
+toc_id: zWV2oRYusGn5YpUL79nFf
 ---
 
 ![[1-SOURCES/Text/pi-1.md#^T-1]]
@@ -28,896 +28,896 @@ Homage to the Blessed One, the Arahant, the Perfectly Enlightened One. ^T-1
 
 ### Matrix ^1-M-0
 
-#### 1. Triad Matrix ^1-M-I-0
+#### 1. Triad Matrix ^1-M-1-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-1]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-1]]
 
 (Ka) Wholesome states.
 (Kha) Unwholesome states.
-(Ga) Indeterminate states. ^1-MI-1
+(Ga) Indeterminate states. ^1-M1-1
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-2]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-2]]
 
 (Ka) States associated with pleasant feeling.
 (Kha) States associated with painful feeling.
-(Ga) States associated with neither-painful-nor-pleasant feeling. ^1-MI-2
+(Ga) States associated with neither-painful-nor-pleasant feeling. ^1-M1-2
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-3]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-3]]
 
 (Ka) Resultant states.
 (Kha) States with resultant quality.
-(Ga) States that are neither resultant nor have resultant quality. ^1-MI-3
+(Ga) States that are neither resultant nor have resultant quality. ^1-M1-3
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-4]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-4]]
 
 (Ka) States clung to and fit for clinging.
 (Kha) States not clung to but fit for clinging.
-(Ga) States neither clung to nor fit for clinging. ^1-MI-4
+(Ga) States neither clung to nor fit for clinging. ^1-M1-4
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-5]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-5]]
 
 (Ka) States that are defiled and defiling.
 (Kha) States that are not defiled but defiling.
-(Ga) States that are neither defiled nor defiling. ^1-MI-5
+(Ga) States that are neither defiled nor defiling. ^1-M1-5
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-6]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-6]]
 
 States with initial and sustained application
 States with only sustained application
-States without initial and sustained application. ^1-MI-6
+States without initial and sustained application. ^1-M1-6
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-7]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-7]]
 
 States accompanied by zest
 States accompanied by happiness
-States accompanied by equanimity. ^1-MI-7
+States accompanied by equanimity. ^1-M1-7
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-8]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-8]]
 
 States to be abandoned by seeing
 States to be abandoned by development
-States to be abandoned neither by seeing nor by development. ^1-MI-8
+States to be abandoned neither by seeing nor by development. ^1-M1-8
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-9]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-9]]
 
 States whose roots are to be abandoned by seeing
 States whose roots are to be abandoned by development
-States whose roots are neither to be abandoned by seeing nor by development. ^1-MI-9
+States whose roots are neither to be abandoned by seeing nor by development. ^1-M1-9
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-10]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-10]]
 
 States leading to accumulation
 States leading to diminution
-States leading neither to accumulation nor diminution. ^1-MI-10
+States leading neither to accumulation nor diminution. ^1-M1-10
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-11]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-11]]
 
 States of trainees
 States of perfected ones
-States of neither trainees nor perfected ones. ^1-MI-11
+States of neither trainees nor perfected ones. ^1-M1-11
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-12]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-12]]
 
 Limited states
 Sublime states
-Immeasurable states. ^1-MI-12
+Immeasurable states. ^1-M1-12
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-13]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-13]]
 
 States having a limited object
 States having a sublime object
-States having an immeasurable object. ^1-MI-13
+States having an immeasurable object. ^1-M1-13
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-14]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-14]]
 
 Inferior states
 Middling states
-Superior states. ^1-MI-14
+Superior states. ^1-M1-14
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-15]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-15]]
 
 States fixed in wrongness
 States fixed in rightness
-Unfixed states. ^1-MI-15
+Unfixed states. ^1-M1-15
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-16]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-16]]
 
 Phenomena that have the path as object;
 phenomena that have the path as root;
-phenomena that have the path as predominant condition. ^1-MI-16
+phenomena that have the path as predominant condition. ^1-M1-16
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-17]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-17]]
 
 Phenomena that have arisen;
 phenomena that have not arisen;
-phenomena that are bound to arise. ^1-MI-17
+phenomena that are bound to arise. ^1-M1-17
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-18]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-18]]
 
 Past phenomena;
 future phenomena;
-present phenomena. ^1-MI-18
+present phenomena. ^1-M1-18
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-19]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-19]]
 
 Phenomena that have a past object;
 phenomena that have a future object;
-phenomena that have a present object. ^1-MI-19
+phenomena that have a present object. ^1-M1-19
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-20]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-20]]
 
 Internal phenomena;
 external phenomena;
-internal and external phenomena. ^1-MI-20
+internal and external phenomena. ^1-M1-20
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-21]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-21]]
 
 Phenomena that have an internal object;
 phenomena that have an external object;
-phenomena that have an internal and external object. ^1-MI-21
+phenomena that have an internal and external object. ^1-M1-21
 
-![[1-SOURCES/Text/pi-1.md#^1-MI-22]]
+![[1-SOURCES/Text/pi-1.md#^1-M1-22]]
 
 Visible and impinging phenomena;
 invisible and impinging phenomena;
 invisible and non-impinging phenomena.
-Triplet Matrix. ^1-MI-22
+Triplet Matrix. ^1-M1-22
 
-#### 2. Duplet Matrix ^1-M-II-0
+#### 2. Duplet Matrix ^1-M-2-0
 
-##### Root Cluster ^1-M-II-I-0
+##### Root Cluster ^1-M-2-1-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-1]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-1]]
 
 Phenomena that are roots.
-Phenomena that are not roots. ^1-MII-1
+Phenomena that are not roots. ^1-M2-1
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-2]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-2]]
 
 Phenomena accompanied by roots.
-Phenomena not accompanied by roots. ^1-MII-2
+Phenomena not accompanied by roots. ^1-M2-2
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-3]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-3]]
 
 Phenomena associated with roots.
-Phenomena dissociated from roots. ^1-MII-3
+Phenomena dissociated from roots. ^1-M2-3
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-4]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-4]]
 
 Phenomena that are roots and are accompanied by roots.
-Phenomena that are accompanied by roots but are not roots. ^1-MII-4
+Phenomena that are accompanied by roots but are not roots. ^1-M2-4
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-5]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-5]]
 
 Phenomena that are roots and are associated with roots.
-Phenomena that are associated with roots but are not roots. ^1-MII-5
+Phenomena that are associated with roots but are not roots. ^1-M2-5
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-6]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-6]]
 
 Phenomena that are not roots, but are accompanied by roots.
 Phenomena that are also not accompanied by roots.
-Section on Roots. ^1-MII-6
+Section on Roots. ^1-M2-6
 
-##### Minor Intermediate Dyad. ^1-M-II-II-0
+##### Minor Intermediate Dyad. ^1-M-2-2-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-7]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-7]]
 
 Phenomena with conditions.
-Phenomena without conditions. ^1-MII-7
+Phenomena without conditions. ^1-M2-7
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-8]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-8]]
 
 Phenomena that are conditioned.
-Phenomena that are unconditioned. ^1-MII-8
+Phenomena that are unconditioned. ^1-M2-8
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-9]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-9]]
 
 Visible phenomena
-invisible phenomena. ^1-MII-9
+invisible phenomena. ^1-M2-9
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-10]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-10]]
 
 Impinging phenomena
-non-impinging phenomena. ^1-MII-10
+non-impinging phenomena. ^1-M2-10
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-11]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-11]]
 
 Material phenomena
-immaterial phenomena. ^1-MII-11
+immaterial phenomena. ^1-M2-11
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-12]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-12]]
 
 Mundane phenomena
-supramundane phenomena. ^1-MII-12
+supramundane phenomena. ^1-M2-12
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-13]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-13]]
 
 Phenomena knowable by some
 phenomena not knowable by some.
-Minor Intermediate Dyads. ^1-MII-13
+Minor Intermediate Dyads. ^1-M2-13
 
-##### Cluster of Taints. ^1-M-II-III-0
+##### Cluster of Taints. ^1-M-2-3-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-14]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-14]]
 
 Phenomena that are taints
-phenomena that are not taints. ^1-MII-14
+phenomena that are not taints. ^1-M2-14
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-15]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-15]]
 
 Tainted phenomena
-untouched by taints phenomena. ^1-MII-15
+untouched by taints phenomena. ^1-M2-15
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-16]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-16]]
 
 Phenomena associated with taints
-phenomena dissociated from taints. ^1-MII-16
+phenomena dissociated from taints. ^1-M2-16
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-17]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-17]]
 
 Phenomena that are both cankers and associated with cankers;
-phenomena that are associated with cankers but are not cankers. ^1-MII-17
+phenomena that are associated with cankers but are not cankers. ^1-M2-17
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-18]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-18]]
 
 Phenomena that are both cankers and conjoined with cankers;
-phenomena that are conjoined with cankers but are not cankers. ^1-MII-18
+phenomena that are conjoined with cankers but are not cankers. ^1-M2-18
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-19]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-19]]
 
 However, phenomena disjoined from cankers are also associated with cankers;
 also not associated with cankers.
-The Canker Couplet. ^1-MII-19
+The Canker Couplet. ^1-M2-19
 
-##### The Fetter Couplet. ^1-M-II-IV-0
+##### The Fetter Couplet. ^1-M-2-4-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-20]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-20]]
 
 Phenomena that are fetters;
-phenomena that are not fetters. ^1-MII-20
+phenomena that are not fetters. ^1-M2-20
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-21]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-21]]
 
 Phenomena that are fettering;
-phenomena that are not fettering. ^1-MII-21
+phenomena that are not fettering. ^1-M2-21
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-22]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-22]]
 
 Phenomena conjoined with fetters;
-phenomena disjoined from fetters. ^1-MII-22
+phenomena disjoined from fetters. ^1-M2-22
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-23]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-23]]
 
 Phenomena that are both fetters and fettering;
-phenomena that are fettering but are not fetters. ^1-MII-23
+phenomena that are fettering but are not fetters. ^1-M2-23
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-24]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-24]]
 
 Phenomena that are both fetters and conjoined with fetters;
-phenomena that are conjoined with fetters but are not fetters. ^1-MII-24
+phenomena that are conjoined with fetters but are not fetters. ^1-M2-24
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-25]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-25]]
 
 (Ka) Phenomena dissociated from fetters are also conducive to fetters.
 (Kha) Also not conducive to fetters.
-Group on Fetters. ^1-MII-25
+Group on Fetters. ^1-M2-25
 
-##### Group on Knots ^1-M-II-V-0
+##### Group on Knots ^1-M-2-5-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-26]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-26]]
 
 (Ka) Phenomena that are knots.
-(Kha) Phenomena that are not knots. ^1-MII-26
+(Kha) Phenomena that are not knots. ^1-M2-26
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-27]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-27]]
 
 (Ka) Phenomena conducive to knots.
-(Kha) Phenomena not conducive to knots. ^1-MII-27
+(Kha) Phenomena not conducive to knots. ^1-M2-27
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-28]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-28]]
 
 (Ka) Phenomena associated with knots.
-(Kha) Phenomena dissociated from knots. ^1-MII-28
+(Kha) Phenomena dissociated from knots. ^1-M2-28
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-29]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-29]]
 
 (Ka) Phenomena that are knots and conducive to knots.
-(Kha) Phenomena that are conducive to knots but are not knots. ^1-MII-29
+(Kha) Phenomena that are conducive to knots but are not knots. ^1-M2-29
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-30]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-30]]
 
 (Ka) Phenomena that are knots and associated with knots.
-(Kha) Phenomena that are associated with knots but are not knots. ^1-MII-30
+(Kha) Phenomena that are associated with knots but are not knots. ^1-M2-30
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-31]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-31]]
 
 (Ka) Phenomena dissociated from knots are also conducive to knots.
 (Kha) Also not conducive to knots.
-Group on Knots. ^1-MII-31
+Group on Knots. ^1-M2-31
 
-##### Section on Floods ^1-M-II-VI-0
+##### Section on Floods ^1-M-2-6-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-32]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-32]]
 
 (Ka) Phenomena that are floods.
-(Kha) Phenomena that are not floods. ^1-MII-32
+(Kha) Phenomena that are not floods. ^1-M2-32
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-33]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-33]]
 
 (Ka) Phenomena that lead to floods.
-(Kha) Phenomena that do not lead to floods. ^1-MII-33
+(Kha) Phenomena that do not lead to floods. ^1-M2-33
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-34]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-34]]
 
 (Ka) Phenomena associated with floods.
-(Kha) Phenomena dissociated from floods. ^1-MII-34
+(Kha) Phenomena dissociated from floods. ^1-M2-34
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-35]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-35]]
 
 (Ka) Phenomena that are both floods and lead to floods.
-(Kha) Phenomena that lead to floods but are not floods. ^1-MII-35
+(Kha) Phenomena that lead to floods but are not floods. ^1-M2-35
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-36]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-36]]
 
 (Ka) Phenomena that are both floods and associated with floods.
-(Kha) Phenomena that are associated with floods but are not floods. ^1-MII-36
+(Kha) Phenomena that are associated with floods but are not floods. ^1-M2-36
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-37]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-37]]
 
 (Ka) Indeed, phenomena dissociated from floods also lead to floods.
 (Kha) And also do not lead to floods.
-Section on Floods. ^1-MII-37
+Section on Floods. ^1-M2-37
 
-##### Section on Yokes ^1-M-II-VII-0
+##### Section on Yokes ^1-M-2-7-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-38]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-38]]
 
 (Ka) Phenomena that are yokes.
-(Kha) Phenomena that are not yokes. ^1-MII-38
+(Kha) Phenomena that are not yokes. ^1-M2-38
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-39]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-39]]
 
 Phenomena pertaining to yokes.
-Phenomena not pertaining to yokes. ^1-MII-39
+Phenomena not pertaining to yokes. ^1-M2-39
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-40]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-40]]
 
 Phenomena associated with yokes.
-Phenomena dissociated from yokes. ^1-MII-40
+Phenomena dissociated from yokes. ^1-M2-40
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-41]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-41]]
 
 Phenomena that are yokes and pertain to yokes.
-Phenomena that pertain to yokes but are not yokes. ^1-MII-41
+Phenomena that pertain to yokes but are not yokes. ^1-M2-41
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-42]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-42]]
 
 Phenomena that are yokes and are associated with yokes.
-Phenomena that are associated with yokes but are not yokes. ^1-MII-42
+Phenomena that are associated with yokes but are not yokes. ^1-M2-42
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-43]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-43]]
 
 Phenomena dissociated from yokes, which also pertain to yokes.
 Phenomena dissociated from yokes, which also do not pertain to yokes.
-Group on Yokes. ^1-MII-43
+Group on Yokes. ^1-M2-43
 
-##### Group on Hindrances. ^1-M-II-VIII-0
+##### Group on Hindrances. ^1-M-2-8-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-44]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-44]]
 
 Phenomena that are hindrances.
-Phenomena that are not hindrances. ^1-MII-44
+Phenomena that are not hindrances. ^1-M2-44
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-45]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-45]]
 
 Phenomena pertaining to hindrances.
-Phenomena not pertaining to hindrances. ^1-MII-45
+Phenomena not pertaining to hindrances. ^1-M2-45
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-46]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-46]]
 
 Phenomena associated with hindrances.
-Phenomena dissociated from hindrances. ^1-MII-46
+Phenomena dissociated from hindrances. ^1-M2-46
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-47]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-47]]
 
 (Ka) States that are hindrances and are of the nature of hindrances.
-(Kha) States that are of the nature of hindrances but are not hindrances. ^1-MII-47
+(Kha) States that are of the nature of hindrances but are not hindrances. ^1-M2-47
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-48]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-48]]
 
 (Ka) States that are hindrances and are associated with hindrances.
-(Kha) States that are associated with hindrances but are not hindrances. ^1-MII-48
+(Kha) States that are associated with hindrances but are not hindrances. ^1-M2-48
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-49]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-49]]
 
 (Ka) States that are dissociated from hindrances, but are of the nature of hindrances.
 (Kha) States that are dissociated from hindrances and are not of the nature of hindrances.
-The Hindrance Group. ^1-MII-49
+The Hindrance Group. ^1-M2-49
 
-##### The Misapprehension Group. ^1-M-II-IX-0
+##### The Misapprehension Group. ^1-M-2-9-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-50]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-50]]
 
 (Ka) States that are misapprehensions.
-(Kha) States that are not misapprehensions. ^1-MII-50
+(Kha) States that are not misapprehensions. ^1-M2-50
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-51]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-51]]
 
 (Ka) States that are misapprehended.
-(Kha) States that are unmisapprehended. ^1-MII-51
+(Kha) States that are unmisapprehended. ^1-M2-51
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-52]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-52]]
 
 (Ka) States that are associated with misapprehension.
-(Kha) States that are dissociated from misapprehension. ^1-MII-52
+(Kha) States that are dissociated from misapprehension. ^1-M2-52
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-53]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-53]]
 
 (Ka) States that are both misapprehensions and misapprehended.
-(Kha) States that are misapprehended but are not misapprehensions. ^1-MII-53
+(Kha) States that are misapprehended but are not misapprehensions. ^1-M2-53
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-54]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-54]]
 
 (Ka) States that are dissociated from misapprehension, but are misapprehended.
 (Kha) States that are dissociated from misapprehension and are unmisapprehended.
-Cluster of Grasping ^1-MII-54
+Cluster of Grasping ^1-M2-54
 
-##### The Great Pairs ^1-M-II-X-0
+##### The Great Pairs ^1-M-2-10-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-55]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-55]]
 
 Phenomena with objects
-Phenomena without objects ^1-MII-55
+Phenomena without objects ^1-M2-55
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-56]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-56]]
 
 Phenomena that are consciousness
-Phenomena that are not consciousness ^1-MII-56
+Phenomena that are not consciousness ^1-M2-56
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-57]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-57]]
 
 Phenomena that are mental factors
-Phenomena that are not mental factors ^1-MII-57
+Phenomena that are not mental factors ^1-M2-57
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-58]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-58]]
 
 Phenomena associated with consciousness
-Phenomena dissociated from consciousness ^1-MII-58
+Phenomena dissociated from consciousness ^1-M2-58
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-59]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-59]]
 
 Phenomena conjoined with consciousness
-Phenomena unconjoined with consciousness ^1-MII-59
+Phenomena unconjoined with consciousness ^1-M2-59
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-60]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-60]]
 
 Phenomena originated by consciousness
-Phenomena not originated by consciousness ^1-MII-60
+Phenomena not originated by consciousness ^1-M2-60
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-61]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-61]]
 
 Phenomena co-arising with consciousness
-Phenomena not co-arising with consciousness ^1-MII-61
+Phenomena not co-arising with consciousness ^1-M2-61
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-62]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-62]]
 
 Phenomena following consciousness
-Phenomena not following consciousness ^1-MII-62
+Phenomena not following consciousness ^1-M2-62
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-63]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-63]]
 
 Phenomena that arise from and are associated with consciousness.
-Phenomena that do not arise from and are not associated with consciousness. ^1-MII-63
+Phenomena that do not arise from and are not associated with consciousness. ^1-M2-63
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-64]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-64]]
 
 Phenomena that are co-existent with those arising from and associated with consciousness.
-Phenomena that are not co-existent with those arising from and associated with consciousness. ^1-MII-64
+Phenomena that are not co-existent with those arising from and associated with consciousness. ^1-M2-64
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-65]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-65]]
 
 Phenomena that accompany or are dependent on those arising from and associated with consciousness.
-Phenomena that do not accompany or are not dependent on those arising from and associated with consciousness. ^1-MII-65
+Phenomena that do not accompany or are not dependent on those arising from and associated with consciousness. ^1-M2-65
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-66]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-66]]
 
 Internal phenomena.
-External phenomena. ^1-MII-66
+External phenomena. ^1-M2-66
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-67]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-67]]
 
 Derived phenomena.
-Non-derived phenomena. ^1-MII-67
+Non-derived phenomena. ^1-M2-67
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-68]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-68]]
 
 Karmically conditioned or grasped phenomena.
 Non-karmically conditioned or not grasped phenomena.
-The Great Intermediate Pair. ^1-MII-68
+The Great Intermediate Pair. ^1-M2-68
 
-##### The Group on Clinging/Grasping. ^1-M-II-XI-0
+##### The Group on Clinging/Grasping. ^1-M-2-11-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-69]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-69]]
 
 Phenomena that are clinging itself.
-Phenomena that are not clinging itself. ^1-MII-69
+Phenomena that are not clinging itself. ^1-M2-69
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-70]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-70]]
 
 Phenomena that are objects of clinging.
-Phenomena that are not objects of clinging. ^1-MII-70
+Phenomena that are not objects of clinging. ^1-M2-70
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-71]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-71]]
 
 Phenomena associated with clinging.
-Phenomena dissociated from clinging. ^1-MII-71
+Phenomena dissociated from clinging. ^1-M2-71
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-72]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-72]]
 
 Phenomena that are clinging itself and are also objects of clinging.
-Phenomena that are objects of clinging but are not clinging itself. ^1-MII-72
+Phenomena that are objects of clinging but are not clinging itself. ^1-M2-72
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-73]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-73]]
 
 Phenomena that are clinging itself and are associated with clinging.
-Phenomena that are associated with clinging but are not clinging itself. ^1-MII-73
+Phenomena that are associated with clinging but are not clinging itself. ^1-M2-73
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-74]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-74]]
 
 Phenomena dissociated from clinging that are also objects of clinging.
 Phenomena dissociated from clinging and not objects of clinging.
-The Clinging Group. ^1-MII-74
+The Clinging Group. ^1-M2-74
 
-##### The Defilement Group. ^1-M-II-XII-0
+##### The Defilement Group. ^1-M-2-12-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-75]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-75]]
 
 Phenomena that are defilements.
-Phenomena that are not defilements. ^1-MII-75
+Phenomena that are not defilements. ^1-M2-75
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-76]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-76]]
 
 Phenomena that are defiling.
-Phenomena that are not defiling. ^1-MII-76
+Phenomena that are not defiling. ^1-M2-76
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-77]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-77]]
 
 Phenomena that are defiled.
-Phenomena that are undefiled. ^1-MII-77
+Phenomena that are undefiled. ^1-M2-77
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-78]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-78]]
 
 Phenomena associated with defilements.
-Phenomena dissociated from defilements. ^1-MII-78
+Phenomena dissociated from defilements. ^1-M2-78
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-79]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-79]]
 
 Phenomena that are both defilements and defiling
-Phenomena that are defiling but not defilements. ^1-MII-79
+Phenomena that are defiling but not defilements. ^1-M2-79
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-80]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-80]]
 
 Phenomena that are both defilements and defiled
-Phenomena that are defiled but not defilements. ^1-MII-80
+Phenomena that are defiled but not defilements. ^1-M2-80
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-81]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-81]]
 
 Phenomena that are both defilements and associated with defilements
-Phenomena that are associated with defilements but not defilements. ^1-MII-81
+Phenomena that are associated with defilements but not defilements. ^1-M2-81
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-82]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-82]]
 
 Phenomena dissociated from defilements, but also defiling
 And also non-defiling.
-Cluster of Defilements. ^1-MII-82
+Cluster of Defilements. ^1-M2-82
 
-##### Pairs of Backs/Foundations. ^1-M-II-XIII-0
+##### Pairs of Backs/Foundations. ^1-M-2-13-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-83]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-83]]
 
 Phenomena to be abandoned by insight
-Phenomena not to be abandoned by insight. ^1-MII-83
+Phenomena not to be abandoned by insight. ^1-M2-83
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-84]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-84]]
 
 Phenomena to be abandoned by development
-Phenomena not to be abandoned by development. ^1-MII-84
+Phenomena not to be abandoned by development. ^1-M2-84
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-85]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-85]]
 
 Phenomena whose roots are to be abandoned by insight
-Phenomena whose roots are not to be abandoned by insight. ^1-MII-85
+Phenomena whose roots are not to be abandoned by insight. ^1-M2-85
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-86]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-86]]
 
 Phenomena whose roots are to be abandoned by development
-Phenomena whose roots are not to be abandoned by development. ^1-MII-86
+Phenomena whose roots are not to be abandoned by development. ^1-M2-86
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-87]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-87]]
 
 Phenomena accompanied by initial application
-Phenomena without initial application. ^1-MII-87
+Phenomena without initial application. ^1-M2-87
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-88]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-88]]
 
 Phenomena accompanied by sustained application
-Phenomena without sustained application. ^1-MII-88
+Phenomena without sustained application. ^1-M2-88
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-89]]
-
-Phenomena accompanied by zest
-Phenomena without zest. ^1-MII-89
-
-![[1-SOURCES/Text/pi-1.md#^1-MII-90]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-89]]
 
 Phenomena accompanied by zest
-Phenomena not accompanied by zest. ^1-MII-90
+Phenomena without zest. ^1-M2-89
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-91]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-90]]
+
+Phenomena accompanied by zest
+Phenomena not accompanied by zest. ^1-M2-90
+
+![[1-SOURCES/Text/pi-1.md#^1-M2-91]]
 
 Phenomena accompanied by pleasant feeling
-Phenomena not accompanied by pleasant feeling. ^1-MII-91
+Phenomena not accompanied by pleasant feeling. ^1-M2-91
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-92]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-92]]
 
 Phenomena accompanied by equanimity
-Phenomena not accompanied by equanimity. ^1-MII-92
+Phenomena not accompanied by equanimity. ^1-M2-92
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-93]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-93]]
 
 Phenomena of the sense sphere
-Phenomena not of the sense sphere. ^1-MII-93
+Phenomena not of the sense sphere. ^1-M2-93
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-94]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-94]]
 
 Phenomena of the fine-material sphere
-Phenomena not of the fine-material sphere. ^1-MII-94
+Phenomena not of the fine-material sphere. ^1-M2-94
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-95]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-95]]
 
 Phenomena of the immaterial sphere
-Phenomena not of the immaterial sphere. ^1-MII-95
+Phenomena not of the immaterial sphere. ^1-M2-95
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-96]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-96]]
 
 Included phenomena
-Unincluded phenomena. ^1-MII-96
+Unincluded phenomena. ^1-M2-96
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-97]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-97]]
 
 States that lead to liberation
-States that do not lead to liberation. ^1-MII-97
+States that do not lead to liberation. ^1-M2-97
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-98]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-98]]
 
 States that are fixed
-States that are unfixed. ^1-MII-98
+States that are unfixed. ^1-M2-98
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-99]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-99]]
 
 States that have a beyond
-States that have no beyond. ^1-MII-99
+States that have no beyond. ^1-M2-99
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-100]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-100]]
 
 States that are harmful
 States that are harmless.
 End of pairs.
-Abhidhamma Pairs Matrix. ^1-MII-100
+Abhidhamma Pairs Matrix. ^1-M2-100
 
-##### Suttanta Pairs Matrix ^1-M-II-XIV-0
+##### Suttanta Pairs Matrix ^1-M-2-14-0
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-101]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-101]]
 
 States that partake of wisdom
-States that partake of ignorance. ^1-MII-101
+States that partake of ignorance. ^1-M2-101
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-102]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-102]]
 
 States that resemble lightning
-States that resemble a thunderbolt. ^1-MII-102
+States that resemble a thunderbolt. ^1-M2-102
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-103]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-103]]
 
 States that are foolish
-States that are wise. ^1-MII-103
+States that are wise. ^1-M2-103
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-104]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-104]]
 
 Dark states
-Bright states. ^1-MII-104
+Bright states. ^1-M2-104
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-105]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-105]]
 
 States that cause torment
-States that do not cause torment. ^1-MII-105
+States that do not cause torment. ^1-M2-105
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-106]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-106]]
 
 Designations
-Paths of designation. ^1-MII-106
+Paths of designation. ^1-M2-106
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-107]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-107]]
 
 Expressions
-Paths of expression. ^1-MII-107
+Paths of expression. ^1-M2-107
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-108]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-108]]
 
 Concepts
-Paths of concept. ^1-MII-108
+Paths of concept. ^1-M2-108
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-109]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-109]]
 
 Mentality
-Materiality. ^1-MII-109
+Materiality. ^1-M2-109
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-110]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-110]]
 
 Ignorance
-Craving for existence. ^1-MII-110
+Craving for existence. ^1-M2-110
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-111]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-111]]
 
 View of eternalism
-View of annihilationism. ^1-MII-111
+View of annihilationism. ^1-M2-111
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-112]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-112]]
 
 Eternalist view
-Annihilationist view. ^1-MII-112
+Annihilationist view. ^1-M2-112
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-113]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-113]]
 
 View that the world is finite
-View that the world is infinite. ^1-MII-113
+View that the world is infinite. ^1-M2-113
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-114]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-114]]
 
 Speculative views about the past
-speculative views about the future. ^1-MII-114
+speculative views about the future. ^1-M2-114
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-115]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-115]]
 
 Shamelessness
-fearlessness of wrongdoing. ^1-MII-115
+fearlessness of wrongdoing. ^1-M2-115
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-116]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-116]]
 
 Moral shame
-moral dread. ^1-MII-116
+moral dread. ^1-M2-116
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-117]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-117]]
 
 Obdurateness
-bad friendship. ^1-MII-117
+bad friendship. ^1-M2-117
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-118]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-118]]
 
 Tractability
-good friendship. ^1-MII-118
+good friendship. ^1-M2-118
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-119]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-119]]
 
 Skill in offences
-skill in rehabilitation from offences. ^1-MII-119
+skill in rehabilitation from offences. ^1-M2-119
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-120]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-120]]
 
 Skill in attainments
-skill in emerging from attainments. ^1-MII-120
+skill in emerging from attainments. ^1-M2-120
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-121]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-121]]
 
 Skill in elements
-skill in attention. ^1-MII-121
+skill in attention. ^1-M2-121
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-122]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-122]]
 
 Skill in sense bases
-skill in dependent origination. ^1-MII-122
+skill in dependent origination. ^1-M2-122
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-123]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-123]]
 
 Skill in the possible
-skill in the impossible. ^1-MII-123
+skill in the impossible. ^1-M2-123
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-124]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-124]]
 
 Uprightness
-Gentleness ^1-MII-124
+Gentleness ^1-M2-124
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-125]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-125]]
 
 Patience
-Amiability ^1-MII-125
+Amiability ^1-M2-125
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-126]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-126]]
 
 Friendliness
-Hospitality ^1-MII-126
+Hospitality ^1-M2-126
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-127]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-127]]
 
 Unguarded sense doors
-Immoderation in food ^1-MII-127
+Immoderation in food ^1-M2-127
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-128]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-128]]
 
 Guarded sense doors
-Moderation in food ^1-MII-128
+Moderation in food ^1-M2-128
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-129]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-129]]
 
 Forgetfulness
-Lack of clear comprehension ^1-MII-129
+Lack of clear comprehension ^1-M2-129
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-130]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-130]]
 
 Mindfulness
-Clear comprehension ^1-MII-130
+Clear comprehension ^1-M2-130
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-131]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-131]]
 
 Power of reflection
-Power of development ^1-MII-131
+Power of development ^1-M2-131
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-132]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-132]]
 
 Tranquility
-Insight ^1-MII-132
+Insight ^1-M2-132
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-133]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-133]]
 
 Sign of tranquility
-Sign of exertion ^1-MII-133
+Sign of exertion ^1-M2-133
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-134]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-134]]
 
 Exertion
-and collectedness. ^1-MII-134
+and collectedness. ^1-M2-134
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-135]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-135]]
 
 Moral failure
-and theoretic fallacy. ^1-MII-135
+and theoretic fallacy. ^1-M2-135
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-136]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-136]]
 
 Moral achievement
-and theoretic achievement. ^1-MII-136
+and theoretic achievement. ^1-M2-136
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-137]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-137]]
 
 Purity of morals
-and purity of view. ^1-MII-137
+and purity of view. ^1-M2-137
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-138]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-138]]
 
 Purity of view
-and the exertion of one who holds the view. ^1-MII-138
+and the exertion of one who holds the view. ^1-M2-138
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-139]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-139]]
 
 Spiritual urgency in agitating situations
-and the appropriate exertion of one who is spiritually urgent. ^1-MII-139
+and the appropriate exertion of one who is spiritually urgent. ^1-M2-139
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-140]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-140]]
 
 Discontent with wholesome states
-and unfalteringness in exertion. ^1-MII-140
+and unfalteringness in exertion. ^1-M2-140
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-141]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-141]]
 
 Wisdom
-and liberation. ^1-MII-141
+and liberation. ^1-M2-141
 
-![[1-SOURCES/Text/pi-1.md#^1-MII-142]]
+![[1-SOURCES/Text/pi-1.md#^1-M2-142]]
 
 Knowledge of ending
 and knowledge of non-arising.
 Suttanta Dyad Matrix.
-The outline is finished. ^1-MII-142
+The outline is finished. ^1-M2-142
 
 ### 1. Chapter on the Arising of Consciousness ^1-1-0
 
@@ -2703,7 +2703,7 @@ Which are wholesome states? When one develops supramundane jhana leading to libe
 Which are wholesome states? When one develops supramundane jhana leading to liberation, leading to non-accumulation (of kamma), for the abandoning of wrong views, for the attainment of the first stage, with the cessation of initial and sustained application, etc., enters and abides in the second jhana, etc., third jhana, etc., fourth jhana, etc., first jhana, etc., fifth jhana, with difficult practice, slow direct knowledge, etc., difficult practice, quick direct knowledge, etc., easy practice, slow direct knowledge, etc., easy practice, quick direct knowledge, at that time, contact, etc., non-distraction, etc., these are wholesome states.
 Pure Practice. ^1-342
 
-##### ⤵Emptiness ^1-1-5-2-0
+##### Emptiness ^1-1-5-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-343]]
 
@@ -2714,7 +2714,7 @@ Which are wholesome states? When one develops supramundane jhana leading to libe
 Which are wholesome states? When one develops supramundane jhana leading to liberation, leading to non-accumulation (of kamma), for the abandoning of wrong views, for the attainment of the first stage, with the cessation of initial and sustained application, etc., enters and abides in the second jhana, etc., third jhana, etc., fourth jhana, etc., first jhana, etc., fifth jhana, realizing emptiness, at that time, contact, etc., non-distraction, etc., these are wholesome states.
 Emptiness. ^1-344
 
-##### ⤵Practice Rooted in Emptiness ^1-1-5-3-0
+##### Practice Rooted in Emptiness ^1-1-5-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-345]]
 
@@ -2741,7 +2741,7 @@ Which states are wholesome?
 When one cultivates a supramundane jhana leading to liberation, ceasing kamma accumulation, for abandoning wrong views, for attaining the first stage; and, with the cessation of initial and sustained application... attains and dwells in the second jhana... third jhana... fourth jhana... first jhana... fifth jhana, with painful practice, slow insight, based on emptiness... painful practice, swift insight, based on emptiness... pleasant practice, slow insight, based on emptiness... pleasant practice, swift insight, based on emptiness; at that time, contact arises... non-distraction arises... these states are wholesome.
 Practices based on the emptiness door to liberation. ^1-349
 
-##### ⤵Desireless ^1-1-5-4-0
+##### Desireless ^1-1-5-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-350]]
 
@@ -2754,7 +2754,7 @@ Which states are wholesome?
 When one cultivates a supramundane jhana leading to liberation, ceasing kamma accumulation, for abandoning wrong views, for attaining the first stage; and, with the cessation of initial and sustained application... attains and dwells in the second jhana... third jhana... fourth jhana... first jhana... fifth jhana, based on desirelessness; at that time, contact arises... non-distraction arises... these states are wholesome.
 Desireless. ^1-351
 
-##### ⤵Practices based on the desireless door to liberation. ^1-1-5-5-0
+##### Practices based on the desireless door to liberation. ^1-1-5-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-352]]
 
@@ -2777,7 +2777,7 @@ What are wholesome states? When one develops supramundane jhána, leading to lib
 What are wholesome states? When one develops supramundane jhána, leading to liberation, tending to the destruction (of defilements), for the abandoning of wrong views, for the attainment of the first stage (of enlightenment), having secluded oneself from sense pleasures...pe... he enters and abides in the first jhána, and due to the cessation of initial application and sustained application...pe... he enters and abides in the second jhána...pe... third jhána...pe... fourth jhána...pe... first jhána...pe... fifth jhána, with painful practice, slow comprehension, undirected...pe... painful practice, swift comprehension, undirected...pe... pleasant practice, slow comprehension, undirected...pe... pleasant practice, swift comprehension, undirected—at that time, contact arises...pe... non-distraction arises...pe... these states are wholesome.
 The path rooted in the undirected. ^1-356
 
-##### ⤵Twenty Great Methods ^1-1-5-6-0
+##### Twenty Great Methods ^1-1-5-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-357]]
 
@@ -4261,7 +4261,7 @@ Section on Unities. ^1-594
 
 ##### Section on Dualities ^1-2-3-2-0
 
-##### Analysis of Derived Materiality ^1-2-3-3-0
+###### Analysis of Derived Materiality ^1-2-3-2-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-595]]
 
@@ -5049,7 +5049,7 @@ What is not edible food? The eye-base…etc.…the impermanence of matter—this
 Thus, the compendium of matter by dyads.
 Explanation by Dyads. ^1-743
 
-##### Explanation by Triads. ^1-2-3-4-0
+##### Explanation by Triads. ^1-2-3-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-744]]
 
@@ -5760,7 +5760,7 @@ Which matter is external and not physical nutriment? Visible form... up to... th
 Thus, the compendium of matter is in three ways.
 Explanation of the Triads. ^1-881
 
-##### Tetrads. ^1-2-3-5-0
+##### Tetrads. ^1-2-3-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-882]]
 
@@ -6167,7 +6167,7 @@ all matter is matter cognized by the mind.
 Thus, the compilation of matter is fourfold.
 The Tetrad. ^1-966
 
-##### The Pentad ^1-2-3-6-0
+##### The Pentad ^1-2-3-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-967]]
 
@@ -6191,7 +6191,7 @@ What is the derived matter? The eye-base… (and so on)… edible food – this 
 Thus, the compilation of matter is fivefold.
 The Pentad. ^1-971
 
-##### The Hexad ^1-2-3-7-0
+##### The Hexad ^1-2-3-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-972]]
 
@@ -6199,7 +6199,7 @@ Visual form is form cognizable by eye-consciousness; sound form is form cognizab
 Thus is the compendium of matter in six ways.
 The Sixfold Way ^1-972
 
-##### The Sevenfold Way ^1-2-3-8-0
+##### The Sevenfold Way ^1-2-3-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-973]]
 
@@ -6207,7 +6207,7 @@ Visual form is form cognizable by eye-consciousness; sound form is form cognizab
 Thus is the compendium of matter in seven ways.
 The Sevenfold Way ^1-973
 
-##### The Eightfold Way ^1-2-3-9-0
+##### The Eightfold Way ^1-2-3-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-974]]
 
@@ -6215,7 +6215,7 @@ Visual form is form cognizable by eye-consciousness; sound form is form cognizab
 Thus is the compendium of matter in eight ways.
 The Eightfold Group. ^1-974
 
-##### The Ninefold Group ^1-2-3-10-0
+##### The Ninefold Group ^1-2-3-9-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-975]]
 
@@ -6231,7 +6231,7 @@ What is that material form which is not a faculty? Visual form…pe… edible fo
 Thus, the collection of material forms is in nine ways.
 The Ninefold Group. ^1-977
 
-##### The Tenfold Group ^1-2-3-11-0
+##### The Tenfold Group ^1-2-3-10-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-978]]
 
@@ -6251,7 +6251,7 @@ What is that material phenomenon which is not a faculty and does not have imping
 Thus, the collection of material phenomena is tenfold.
 The Decad. ^1-981
 
-##### The Undecad ^1-2-3-12-0
+##### The Undecad ^1-2-3-11-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-982]]
 
@@ -7648,7 +7648,7 @@ Which phenomena are dissociated from defilements but are defiling? Excluding tho
 
 Which phenomena are dissociated from defilements and are not defiling? The unincluded paths, and their fruits, and the unconditioned element – these phenomena are dissociated from defilements and are not defiling. ^1-1260
 
-##### ⤵The Section on Abandonment. ^1-3-2-13-0
+##### The Section on Abandonment. ^1-3-2-13-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-1261]]
 

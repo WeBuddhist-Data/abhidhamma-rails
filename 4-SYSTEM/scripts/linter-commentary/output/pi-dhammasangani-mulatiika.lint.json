@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Commentaries/pi-dhammasangani-mulatiika.md",
-  "validated_at": "2026-09-04T09:22:58.445147+00:00",
+  "validated_at": "2026-11-10T11:54:58.934649+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -9,7 +9,6 @@
     "translation_of: not set (optional)",
     "commentary_of: 'BzOXhiRUQM4MOT6affzmO'",
     "root_text: '1-SOURCES/Text/pi-1.md'",
-    "tag_ids: not set (optional)",
     "source: source = 'https://tipitaka.org/romn/cscd/abh01t.tik.html'",
     "toc: 97 headers found"
   ],
@@ -31,6 +30,8 @@
     "category_id": "MZUUxphQ0yFwLBon3Vng8",
     "license": "cc0",
     "contributions": null,
-    "tag_ids": null
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
   }
 }

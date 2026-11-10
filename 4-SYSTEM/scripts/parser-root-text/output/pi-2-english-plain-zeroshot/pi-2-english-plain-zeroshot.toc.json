@@ -5,8 +5,8 @@
         "en": "In the Abhidhamma Piṭaka"
       },
       "span": {
-        "start": 92,
-        "end": 1093707
+        "start": 68,
+        "end": 1081523
       },
       "subsections": [
         {
@@ -14,8 +14,8 @@
             "en": "The Book of Analysis"
           },
           "span": {
-            "start": 112,
-            "end": 1093707
+            "start": 68,
+            "end": 1081523
           },
           "subsections": [
             {
@@ -23,8 +23,8 @@
                 "en": "Analysis of the Aggregates"
               },
               "span": {
-                "start": 138,
-                "end": 171454
+                "start": 68,
+                "end": 170955
               },
               "subsections": [
                 {
@@ -32,8 +32,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 180,
-                    "end": 31227
+                    "start": 68,
+                    "end": 30970
                   },
                   "subsections": [
                     {
@@ -41,8 +41,8 @@
                         "en": "The Aggregate of Material Form"
                       },
                       "span": {
-                        "start": 392,
-                        "end": 4024
+                        "start": 250,
+                        "end": 3882
                       }
                     },
                     {
@@ -50,8 +50,8 @@
                         "en": "The Aggregate of Feeling"
                       },
                       "span": {
-                        "start": 4048,
-                        "end": 9676
+                        "start": 3882,
+                        "end": 9510
                       }
                     },
                     {
@@ -59,8 +59,8 @@
                         "en": "The Aggregate of Perception"
                       },
                       "span": {
-                        "start": 9703,
-                        "end": 16835
+                        "start": 9510,
+                        "end": 16642
                       }
                     },
                     {
@@ -68,8 +68,8 @@
                         "en": "The Aggregate of Mental Formations"
                       },
                       "span": {
-                        "start": 16869,
-                        "end": 24158
+                        "start": 16642,
+                        "end": 23931
                       }
                     },
                     {
@@ -77,8 +77,8 @@
                         "en": "The Aggregate of Consciousness"
                       },
                       "span": {
-                        "start": 24188,
-                        "end": 31227
+                        "start": 23931,
+                        "end": 30970
                       }
                     }
                   ]
@@ -88,8 +88,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 31269,
-                    "end": 149452
+                    "start": 30970,
+                    "end": 149008
                   },
                   "subsections": [
                     {
@@ -97,8 +97,8 @@
                         "en": "The Aggregate of Material Form"
                       },
                       "span": {
-                        "start": 31481,
-                        "end": 38494
+                        "start": 31152,
+                        "end": 38165
                       }
                     },
                     {
@@ -106,8 +106,8 @@
                         "en": "The Aggregate of Feeling"
                       },
                       "span": {
-                        "start": 38518,
-                        "end": 65348
+                        "start": 38165,
+                        "end": 64995
                       }
                     },
                     {
@@ -115,8 +115,8 @@
                         "en": "The Aggregate of Perception"
                       },
                       "span": {
-                        "start": 65375,
-                        "end": 92092
+                        "start": 64995,
+                        "end": 91712
                       }
                     },
                     {
@@ -124,8 +124,8 @@
                         "en": "The Aggregate of Mental Formations"
                       },
                       "span": {
-                        "start": 92126,
-                        "end": 122060
+                        "start": 91712,
+                        "end": 121646
                       }
                     },
                     {
@@ -133,8 +133,8 @@
                         "en": "The Aggregate of Consciousness"
                       },
                       "span": {
-                        "start": 122090,
-                        "end": 149452
+                        "start": 121646,
+                        "end": 149008
                       }
                     }
                   ]
@@ -144,8 +144,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 149488,
-                    "end": 171454
+                    "start": 149008,
+                    "end": 170955
                   },
                   "subsections": [
                     {
@@ -153,8 +153,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 149827,
-                        "end": 154038
+                        "start": 149337,
+                        "end": 153548
                       }
                     },
                     {
@@ -162,8 +162,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 154047,
-                        "end": 171454
+                        "start": 153548,
+                        "end": 170955
                       }
                     }
                   ]
@@ -175,8 +175,8 @@
                 "en": "Analysis of the Sense-Fields"
               },
               "span": {
-                "start": 171482,
-                "end": 206694
+                "start": 170955,
+                "end": 206028
               },
               "subsections": [
                 {
@@ -184,8 +184,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 171524,
-                    "end": 172849
+                    "start": 170955,
+                    "end": 172280
                   }
                 },
                 {
@@ -193,8 +193,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 172891,
-                    "end": 185104
+                    "start": 172280,
+                    "end": 184493
                   }
                 },
                 {
@@ -202,8 +202,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 185140,
-                    "end": 206694
+                    "start": 184493,
+                    "end": 206028
                   },
                   "subsections": [
                     {
@@ -211,8 +211,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 185646,
-                        "end": 189988
+                        "start": 184989,
+                        "end": 189331
                       }
                     },
                     {
@@ -220,8 +220,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 189997,
-                        "end": 206694
+                        "start": 189331,
+                        "end": 206028
                       }
                     }
                   ]
@@ -233,8 +233,8 @@
                 "en": "Analysis of the Elements"
               },
               "span": {
-                "start": 206718,
-                "end": 248892
+                "start": 206028,
+                "end": 248063
               },
               "subsections": [
                 {
@@ -242,8 +242,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 206760,
-                    "end": 218154
+                    "start": 206028,
+                    "end": 217422
                   }
                 },
                 {
@@ -251,8 +251,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 218196,
-                    "end": 226490
+                    "start": 217422,
+                    "end": 225716
                   }
                 },
                 {
@@ -260,8 +260,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 226526,
-                    "end": 248892
+                    "start": 225716,
+                    "end": 248063
                   },
                   "subsections": [
                     {
@@ -269,8 +269,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 227172,
-                        "end": 232245
+                        "start": 226352,
+                        "end": 231425
                       }
                     },
                     {
@@ -278,8 +278,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 232254,
-                        "end": 248892
+                        "start": 231425,
+                        "end": 248063
                       }
                     }
                   ]
@@ -291,8 +291,8 @@
                 "en": "Analysis of the Truths"
               },
               "span": {
-                "start": 248914,
-                "end": 304873
+                "start": 248063,
+                "end": 303794
               },
               "subsections": [
                 {
@@ -300,8 +300,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 248956,
-                    "end": 267427
+                    "start": 248063,
+                    "end": 266445
                   },
                   "subsections": [
                     {
@@ -309,8 +309,8 @@
                         "en": "The Truth of Suffering"
                       },
                       "span": {
-                        "start": 249192,
-                        "end": 254075
+                        "start": 248277,
+                        "end": 253160
                       }
                     },
                     {
@@ -318,8 +318,8 @@
                         "en": "The Truth of the Origin"
                       },
                       "span": {
-                        "start": 254098,
-                        "end": 259449
+                        "start": 253160,
+                        "end": 258511
                       }
                     },
                     {
@@ -327,8 +327,8 @@
                         "en": "The Truth of the Ending"
                       },
                       "span": {
-                        "start": 259472,
-                        "end": 263900
+                        "start": 258511,
+                        "end": 262939
                       }
                     },
                     {
@@ -336,8 +336,8 @@
                         "en": "The Truth of the Path"
                       },
                       "span": {
-                        "start": 263921,
-                        "end": 267427
+                        "start": 262939,
+                        "end": 266445
                       }
                     }
                   ]
@@ -347,8 +347,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 267469,
-                    "end": 283102
+                    "start": 266445,
+                    "end": 282078
                   }
                 },
                 {
@@ -356,8 +356,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 283138,
-                    "end": 304873
+                    "start": 282078,
+                    "end": 303794
                   },
                   "subsections": [
                     {
@@ -365,8 +365,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 283511,
-                        "end": 288918
+                        "start": 282441,
+                        "end": 287848
                       }
                     },
                     {
@@ -374,8 +374,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 288927,
-                        "end": 304873
+                        "start": 287848,
+                        "end": 303794
                       }
                     }
                   ]
@@ -387,8 +387,8 @@
                 "en": "Analysis of the Faculties"
               },
               "span": {
-                "start": 304898,
-                "end": 338955
+                "start": 303794,
+                "end": 337754
               },
               "subsections": [
                 {
@@ -396,8 +396,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 304940,
-                    "end": 312661
+                    "start": 303794,
+                    "end": 311515
                   }
                 },
                 {
@@ -405,8 +405,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 312697,
-                    "end": 338955
+                    "start": 311515,
+                    "end": 337754
                   },
                   "subsections": [
                     {
@@ -414,8 +414,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 313454,
-                        "end": 320004
+                        "start": 312262,
+                        "end": 318812
                       }
                     },
                     {
@@ -423,8 +423,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 320013,
-                        "end": 338955
+                        "start": 318812,
+                        "end": 337754
                       }
                     }
                   ]
@@ -436,8 +436,8 @@
                 "en": "Analysis of Dependent Origination"
               },
               "span": {
-                "start": 338988,
-                "end": 491619
+                "start": 337754,
+                "end": 489863
               },
               "subsections": [
                 {
@@ -445,8 +445,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 339030,
-                    "end": 346783
+                    "start": 337754,
+                    "end": 345507
                   }
                 },
                 {
@@ -454,8 +454,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 346825,
-                    "end": 491619
+                    "start": 345507,
+                    "end": 489863
                   },
                   "subsections": [
                     {
@@ -463,8 +463,8 @@
                         "en": "The Tetrad of Conditions"
                       },
                       "span": {
-                        "start": 346849,
-                        "end": 348961
+                        "start": 345507,
+                        "end": 347619
                       }
                     },
                     {
@@ -472,8 +472,8 @@
                         "en": "The Tetrad of Causes"
                       },
                       "span": {
-                        "start": 348981,
-                        "end": 352043
+                        "start": 347619,
+                        "end": 350681
                       }
                     },
                     {
@@ -481,8 +481,8 @@
                         "en": "The Tetrad of Association"
                       },
                       "span": {
-                        "start": 352068,
-                        "end": 355121
+                        "start": 350681,
+                        "end": 353734
                       }
                     },
                     {
@@ -490,8 +490,8 @@
                         "en": "The Tetrad of Mutuality"
                       },
                       "span": {
-                        "start": 355144,
-                        "end": 358899
+                        "start": 353734,
+                        "end": 357489
                       }
                     },
                     {
@@ -499,8 +499,8 @@
                         "en": "The Matrix"
                       },
                       "span": {
-                        "start": 358909,
-                        "end": 359773
+                        "start": 357489,
+                        "end": 358353
                       }
                     },
                     {
@@ -508,8 +508,8 @@
                         "en": "The Tetrad of Conditions"
                       },
                       "span": {
-                        "start": 359797,
-                        "end": 371983
+                        "start": 358353,
+                        "end": 370539
                       }
                     },
                     {
@@ -517,8 +517,8 @@
                         "en": "The Tetrad of Causes"
                       },
                       "span": {
-                        "start": 372003,
-                        "end": 385559
+                        "start": 370539,
+                        "end": 384095
                       }
                     },
                     {
@@ -526,8 +526,8 @@
                         "en": "The Tetrad of Association"
                       },
                       "span": {
-                        "start": 385584,
-                        "end": 398294
+                        "start": 384095,
+                        "end": 396805
                       }
                     },
                     {
@@ -535,8 +535,8 @@
                         "en": "The Tetrad of Mutuality"
                       },
                       "span": {
-                        "start": 398317,
-                        "end": 418679
+                        "start": 396805,
+                        "end": 417167
                       }
                     },
                     {
@@ -544,8 +544,8 @@
                         "en": "The Exposition of the Unwholesome"
                       },
                       "span": {
-                        "start": 418712,
-                        "end": 429720
+                        "start": 417167,
+                        "end": 428175
                       }
                     },
                     {
@@ -553,8 +553,8 @@
                         "en": "The Exposition of the Wholesome"
                       },
                       "span": {
-                        "start": 429751,
-                        "end": 443488
+                        "start": 428175,
+                        "end": 441912
                       }
                     },
                     {
@@ -562,8 +562,8 @@
                         "en": "The Exposition of the Neutral"
                       },
                       "span": {
-                        "start": 443517,
-                        "end": 470870
+                        "start": 441912,
+                        "end": 469265
                       }
                     },
                     {
@@ -571,8 +571,8 @@
                         "en": "The Exposition of the Wholesome Rooted in Ignorance"
                       },
                       "span": {
-                        "start": 470921,
-                        "end": 478329
+                        "start": 469265,
+                        "end": 476673
                       }
                     },
                     {
@@ -580,8 +580,8 @@
                         "en": "The Exposition of Results Rooted in the Wholesome"
                       },
                       "span": {
-                        "start": 478378,
-                        "end": 485707
+                        "start": 476673,
+                        "end": 484002
                       }
                     },
                     {
@@ -589,8 +589,8 @@
                         "en": "The Exposition of Results Rooted in the Unwholesome"
                       },
                       "span": {
-                        "start": 485758,
-                        "end": 491619
+                        "start": 484002,
+                        "end": 489863
                       }
                     }
                   ]
@@ -602,8 +602,8 @@
                 "en": "Analysis of the Foundations of Mindfulness"
               },
               "span": {
-                "start": 491661,
-                "end": 529483
+                "start": 489863,
+                "end": 527380
               },
               "subsections": [
                 {
@@ -611,8 +611,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 491703,
-                    "end": 514902
+                    "start": 489863,
+                    "end": 512896
                   },
                   "subsections": [
                     {
@@ -620,8 +620,8 @@
                         "en": "The Exposition of Contemplating the Body"
                       },
                       "span": {
-                        "start": 492990,
-                        "end": 497529
+                        "start": 491110,
+                        "end": 495649
                       }
                     },
                     {
@@ -629,8 +629,8 @@
                         "en": "The Exposition of Contemplating Feelings"
                       },
                       "span": {
-                        "start": 497569,
-                        "end": 501827
+                        "start": 495649,
+                        "end": 499907
                       }
                     },
                     {
@@ -638,8 +638,8 @@
                         "en": "The Exposition of Contemplating the Mind"
                       },
                       "span": {
-                        "start": 501867,
-                        "end": 506350
+                        "start": 499907,
+                        "end": 504390
                       }
                     },
                     {
@@ -647,8 +647,8 @@
                         "en": "The Exposition of Contemplating Mental Objects"
                       },
                       "span": {
-                        "start": 506396,
-                        "end": 514902
+                        "start": 504390,
+                        "end": 512896
                       }
                     }
                   ]
@@ -658,8 +658,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 514944,
-                    "end": 524268
+                    "start": 512896,
+                    "end": 522220
                   }
                 },
                 {
@@ -667,8 +667,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 524304,
-                    "end": 529483
+                    "start": 522220,
+                    "end": 527380
                   },
                   "subsections": [
                     {
@@ -676,8 +676,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 525144,
-                        "end": 526813
+                        "start": 523050,
+                        "end": 524719
                       }
                     },
                     {
@@ -685,8 +685,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 526822,
-                        "end": 529483
+                        "start": 524719,
+                        "end": 527380
                       }
                     }
                   ]
@@ -698,8 +698,8 @@
                 "en": "Analysis of the Right Efforts"
               },
               "span": {
-                "start": 529512,
-                "end": 549400
+                "start": 527380,
+                "end": 547129
               },
               "subsections": [
                 {
@@ -707,8 +707,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 529554,
-                    "end": 536728
+                    "start": 527380,
+                    "end": 534554
                   }
                 },
                 {
@@ -716,8 +716,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 536770,
-                    "end": 544581
+                    "start": 534554,
+                    "end": 542365
                   }
                 },
                 {
@@ -725,8 +725,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 544617,
-                    "end": 549400
+                    "start": 542365,
+                    "end": 547129
                   },
                   "subsections": [
                     {
@@ -734,8 +734,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 545329,
-                        "end": 546788
+                        "start": 543067,
+                        "end": 544526
                       }
                     },
                     {
@@ -743,8 +743,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 546797,
-                        "end": 549400
+                        "start": 544526,
+                        "end": 547129
                       }
                     }
                   ]
@@ -756,8 +756,8 @@
                 "en": "Analysis of the Bases of Success"
               },
               "span": {
-                "start": 549432,
-                "end": 576075
+                "start": 547129,
+                "end": 573343
               },
               "subsections": [
                 {
@@ -765,8 +765,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 549474,
-                    "end": 559396
+                    "start": 547129,
+                    "end": 556906
                   },
                   "subsections": [
                     {
@@ -774,8 +774,8 @@
                         "en": "The Basis of Success Through Desire"
                       },
                       "span": {
-                        "start": 549987,
-                        "end": 552750
+                        "start": 547607,
+                        "end": 550370
                       }
                     },
                     {
@@ -783,8 +783,8 @@
                         "en": "The Basis of Success Through Energy"
                       },
                       "span": {
-                        "start": 552785,
-                        "end": 554984
+                        "start": 550370,
+                        "end": 552569
                       }
                     },
                     {
@@ -792,8 +792,8 @@
                         "en": "The Basis of Success Through Mind"
                       },
                       "span": {
-                        "start": 555017,
-                        "end": 557090
+                        "start": 552569,
+                        "end": 554642
                       }
                     },
                     {
@@ -801,8 +801,8 @@
                         "en": "The Basis of Success Through Investigation"
                       },
                       "span": {
-                        "start": 557132,
-                        "end": 559396
+                        "start": 554642,
+                        "end": 556906
                       }
                     }
                   ]
@@ -812,8 +812,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 559438,
-                    "end": 570071
+                    "start": 556906,
+                    "end": 567394
                   },
                   "subsections": [
                     {
@@ -821,8 +821,8 @@
                         "en": "The Basis of Success Through Desire"
                       },
                       "span": {
-                        "start": 559951,
-                        "end": 561658
+                        "start": 557384,
+                        "end": 559091
                       }
                     },
                     {
@@ -830,8 +830,8 @@
                         "en": "The Basis of Success Through Energy"
                       },
                       "span": {
-                        "start": 561693,
-                        "end": 563449
+                        "start": 559091,
+                        "end": 560847
                       }
                     },
                     {
@@ -839,8 +839,8 @@
                         "en": "The Basis of Success Through Mind"
                       },
                       "span": {
-                        "start": 563482,
-                        "end": 565202
+                        "start": 560847,
+                        "end": 562567
                       }
                     },
                     {
@@ -848,8 +848,8 @@
                         "en": "The Basis of Success Through Investigation"
                       },
                       "span": {
-                        "start": 565244,
-                        "end": 570071
+                        "start": 562567,
+                        "end": 567394
                       }
                     }
                   ]
@@ -859,8 +859,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 570107,
-                    "end": 576075
+                    "start": 567394,
+                    "end": 573343
                   },
                   "subsections": [
                     {
@@ -868,8 +868,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 570592,
-                        "end": 571981
+                        "start": 567869,
+                        "end": 569258
                       }
                     },
                     {
@@ -877,8 +877,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 571990,
-                        "end": 576075
+                        "start": 569258,
+                        "end": 573343
                       }
                     }
                   ]
@@ -890,8 +890,8 @@
                 "en": "Analysis of the Awakening Factors"
               },
               "span": {
-                "start": 576108,
-                "end": 596287
+                "start": 573343,
+                "end": 593383
               },
               "subsections": [
                 {
@@ -899,8 +899,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 576150,
-                    "end": 581855
+                    "start": 573343,
+                    "end": 579048
                   }
                 },
                 {
@@ -908,8 +908,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 581897,
-                    "end": 590596
+                    "start": 579048,
+                    "end": 587747
                   }
                 },
                 {
@@ -917,8 +917,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 590632,
-                    "end": 596287
+                    "start": 587747,
+                    "end": 593383
                   },
                   "subsections": [
                     {
@@ -926,8 +926,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 591091,
-                        "end": 592971
+                        "start": 588196,
+                        "end": 590076
                       }
                     },
                     {
@@ -935,8 +935,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 592980,
-                        "end": 596287
+                        "start": 590076,
+                        "end": 593383
                       }
                     }
                   ]
@@ -948,8 +948,8 @@
                 "en": "Analysis of the Path Factors"
               },
               "span": {
-                "start": 596315,
-                "end": 616415
+                "start": 593383,
+                "end": 613344
               },
               "subsections": [
                 {
@@ -957,8 +957,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 596357,
-                    "end": 600589
+                    "start": 593383,
+                    "end": 597615
                   }
                 },
                 {
@@ -966,8 +966,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 600631,
-                    "end": 610902
+                    "start": 597615,
+                    "end": 607886
                   }
                 },
                 {
@@ -975,8 +975,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 610938,
-                    "end": 616415
+                    "start": 607886,
+                    "end": 613344
                   },
                   "subsections": [
                     {
@@ -984,8 +984,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 611260,
-                        "end": 613168
+                        "start": 608198,
+                        "end": 610106
                       }
                     },
                     {
@@ -993,8 +993,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 613177,
-                        "end": 616415
+                        "start": 610106,
+                        "end": 613344
                       }
                     }
                   ]
@@ -1006,8 +1006,8 @@
                 "en": "Analysis of Meditative Absorption"
               },
               "span": {
-                "start": 616448,
-                "end": 687716
+                "start": 613344,
+                "end": 684252
               },
               "subsections": [
                 {
@@ -1015,8 +1015,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 616490,
-                    "end": 660774
+                    "start": 613344,
+                    "end": 657618
                   },
                   "subsections": [
                     {
@@ -1024,8 +1024,8 @@
                         "en": "The Matrix"
                       },
                       "span": {
-                        "start": 620467,
-                        "end": 660774
+                        "start": 617311,
+                        "end": 657618
                       }
                     }
                   ]
@@ -1035,8 +1035,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 660816,
-                    "end": 679129
+                    "start": 657618,
+                    "end": 675720
                   },
                   "subsections": [
                     {
@@ -1044,8 +1044,8 @@
                         "en": "The Fine-Material-Sphere Wholesome"
                       },
                       "span": {
-                        "start": 660850,
-                        "end": 665341
+                        "start": 657618,
+                        "end": 662109
                       }
                     },
                     {
@@ -1053,8 +1053,8 @@
                         "en": "The Immaterial-Sphere Wholesome"
                       },
                       "span": {
-                        "start": 665372,
-                        "end": 665917
+                        "start": 662109,
+                        "end": 662654
                       }
                     },
                     {
@@ -1062,8 +1062,8 @@
                         "en": "The Wholesome Beyond the World"
                       },
                       "span": {
-                        "start": 665947,
-                        "end": 671580
+                        "start": 662654,
+                        "end": 668287
                       }
                     },
                     {
@@ -1071,8 +1071,8 @@
                         "en": "Fine-Material-Sphere Results"
                       },
                       "span": {
-                        "start": 671608,
-                        "end": 673540
+                        "start": 668287,
+                        "end": 670219
                       }
                     },
                     {
@@ -1080,8 +1080,8 @@
                         "en": "Immaterial-Sphere Results"
                       },
                       "span": {
-                        "start": 673565,
-                        "end": 674535
+                        "start": 670219,
+                        "end": 671189
                       }
                     },
                     {
@@ -1089,8 +1089,8 @@
                         "en": "Results Beyond the World"
                       },
                       "span": {
-                        "start": 674559,
-                        "end": 676848
+                        "start": 671189,
+                        "end": 673478
                       }
                     },
                     {
@@ -1098,8 +1098,8 @@
                         "en": "Fine-Material and Immaterial Functional"
                       },
                       "span": {
-                        "start": 676887,
-                        "end": 679129
+                        "start": 673478,
+                        "end": 675720
                       }
                     }
                   ]
@@ -1109,8 +1109,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 679165,
-                    "end": 687716
+                    "start": 675720,
+                    "end": 684252
                   },
                   "subsections": [
                     {
@@ -1118,8 +1118,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 680366,
-                        "end": 684002
+                        "start": 676911,
+                        "end": 680547
                       }
                     },
                     {
@@ -1127,8 +1127,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 684011,
-                        "end": 687716
+                        "start": 680547,
+                        "end": 684252
                       }
                     }
                   ]
@@ -1140,8 +1140,8 @@
                 "en": "Analysis of the Measureless States"
               },
               "span": {
-                "start": 687750,
-                "end": 724032
+                "start": 684252,
+                "end": 720345
               },
               "subsections": [
                 {
@@ -1149,8 +1149,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 687792,
-                    "end": 698401
+                    "start": 684252,
+                    "end": 694811
                   },
                   "subsections": [
                     {
@@ -1158,8 +1158,8 @@
                         "en": "Loving-Kindness"
                       },
                       "span": {
-                        "start": 689250,
-                        "end": 691686
+                        "start": 685695,
+                        "end": 688131
                       }
                     },
                     {
@@ -1167,8 +1167,8 @@
                         "en": "Compassion"
                       },
                       "span": {
-                        "start": 691696,
-                        "end": 693953
+                        "start": 688131,
+                        "end": 690388
                       }
                     },
                     {
@@ -1176,8 +1176,8 @@
                         "en": "Sympathetic Joy"
                       },
                       "span": {
-                        "start": 693968,
-                        "end": 696162
+                        "start": 690388,
+                        "end": 692582
                       }
                     },
                     {
@@ -1185,8 +1185,8 @@
                         "en": "Equanimity"
                       },
                       "span": {
-                        "start": 696172,
-                        "end": 698401
+                        "start": 692582,
+                        "end": 694811
                       }
                     }
                   ]
@@ -1196,8 +1196,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 698443,
-                    "end": 717326
+                    "start": 694811,
+                    "end": 713694
                   }
                 },
                 {
@@ -1205,8 +1205,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 717362,
-                    "end": 724032
+                    "start": 713694,
+                    "end": 720345
                   },
                   "subsections": [
                     {
@@ -1214,8 +1214,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 718970,
-                        "end": 720842
+                        "start": 715292,
+                        "end": 717164
                       }
                     },
                     {
@@ -1223,8 +1223,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 720851,
-                        "end": 724032
+                        "start": 717164,
+                        "end": 720345
                       }
                     }
                   ]
@@ -1236,8 +1236,8 @@
                 "en": "Analysis of the Training Rules"
               },
               "span": {
-                "start": 724062,
-                "end": 745545
+                "start": 720345,
+                "end": 741731
               },
               "subsections": [
                 {
@@ -1245,8 +1245,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 724104,
-                    "end": 741230
+                    "start": 720345,
+                    "end": 737471
                   }
                 },
                 {
@@ -1254,8 +1254,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 741266,
-                    "end": 745545
+                    "start": 737471,
+                    "end": 741731
                   },
                   "subsections": [
                     {
@@ -1263,8 +1263,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 741780,
-                        "end": 743013
+                        "start": 737975,
+                        "end": 739208
                       }
                     },
                     {
@@ -1272,8 +1272,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 743022,
-                        "end": 745545
+                        "start": 739208,
+                        "end": 741731
                       }
                     }
                   ]
@@ -1285,8 +1285,8 @@
                 "en": "Analysis of the Analytical Knowledges"
               },
               "span": {
-                "start": 745582,
-                "end": 788121
+                "start": 741731,
+                "end": 783920
               },
               "subsections": [
                 {
@@ -1294,8 +1294,8 @@
                     "en": "Classification According to the Discourses"
                   },
                   "span": {
-                    "start": 745624,
-                    "end": 751282
+                    "start": 741731,
+                    "end": 747263
                   },
                   "subsections": [
                     {
@@ -1303,8 +1303,8 @@
                         "en": "The Summary Section"
                       },
                       "span": {
-                        "start": 745643,
-                        "end": 746230
+                        "start": 741731,
+                        "end": 742318
                       }
                     },
                     {
@@ -1312,8 +1312,8 @@
                         "en": "The Truths Section"
                       },
                       "span": {
-                        "start": 746248,
-                        "end": 747007
+                        "start": 742318,
+                        "end": 743077
                       }
                     },
                     {
@@ -1321,8 +1321,8 @@
                         "en": "The Cause Section"
                       },
                       "span": {
-                        "start": 747024,
-                        "end": 747599
+                        "start": 743077,
+                        "end": 743652
                       }
                     },
                     {
@@ -1330,8 +1330,8 @@
                         "en": "The Things Section"
                       },
                       "span": {
-                        "start": 747617,
-                        "end": 748427
+                        "start": 743652,
+                        "end": 744462
                       }
                     },
                     {
@@ -1339,8 +1339,8 @@
                         "en": "The Dependent Origination Section"
                       },
                       "span": {
-                        "start": 748460,
-                        "end": 750231
+                        "start": 744462,
+                        "end": 746233
                       }
                     },
                     {
@@ -1348,8 +1348,8 @@
                         "en": "The Scripture Section"
                       },
                       "span": {
-                        "start": 750252,
-                        "end": 751282
+                        "start": 746233,
+                        "end": 747263
                       }
                     }
                   ]
@@ -1359,8 +1359,8 @@
                     "en": "Classification According to the Abhidhamma"
                   },
                   "span": {
-                    "start": 751324,
-                    "end": 779724
+                    "start": 747263,
+                    "end": 775578
                   },
                   "subsections": [
                     {
@@ -1368,8 +1368,8 @@
                         "en": "The Wholesome Section"
                       },
                       "span": {
-                        "start": 751345,
-                        "end": 757067
+                        "start": 747263,
+                        "end": 752985
                       }
                     },
                     {
@@ -1377,8 +1377,8 @@
                         "en": "The Unwholesome Section"
                       },
                       "span": {
-                        "start": 757090,
-                        "end": 759697
+                        "start": 752985,
+                        "end": 755592
                       }
                     },
                     {
@@ -1386,8 +1386,8 @@
                         "en": "The Results Section"
                       },
                       "span": {
-                        "start": 759716,
-                        "end": 774508
+                        "start": 755592,
+                        "end": 770384
                       }
                     },
                     {
@@ -1395,8 +1395,8 @@
                         "en": "The Functional Section"
                       },
                       "span": {
-                        "start": 774530,
-                        "end": 779724
+                        "start": 770384,
+                        "end": 775578
                       }
                     }
                   ]
@@ -1406,8 +1406,8 @@
                     "en": "The Section of Questions and Answers"
                   },
                   "span": {
-                    "start": 779760,
-                    "end": 788121
+                    "start": 775578,
+                    "end": 783920
                   },
                   "subsections": [
                     {
@@ -1415,8 +1415,8 @@
                         "en": "The Triads"
                       },
                       "span": {
-                        "start": 780129,
-                        "end": 784182
+                        "start": 775937,
+                        "end": 779990
                       }
                     },
                     {
@@ -1424,8 +1424,8 @@
                         "en": "The Pairs"
                       },
                       "span": {
-                        "start": 784191,
-                        "end": 788121
+                        "start": 779990,
+                        "end": 783920
                       }
                     }
                   ]
@@ -1437,8 +1437,8 @@
                 "en": "Analysis of Knowledge"
               },
               "span": {
-                "start": 788142,
-                "end": 878522
+                "start": 783920,
+                "end": 873830
               },
               "subsections": [
                 {
@@ -1446,8 +1446,8 @@
                     "en": "The Matrix of Ones"
                   },
                   "span": {
-                    "start": 788160,
-                    "end": 791437
+                    "start": 783920,
+                    "end": 787197
                   }
                 },
                 {
@@ -1455,8 +1455,8 @@
                     "en": "The Matrix of Twos"
                   },
                   "span": {
-                    "start": 791455,
-                    "end": 794438
+                    "start": 787197,
+                    "end": 790180
                   }
                 },
                 {
@@ -1464,8 +1464,8 @@
                     "en": "The Matrix of Threes"
                   },
                   "span": {
-                    "start": 794458,
-                    "end": 802261
+                    "start": 790180,
+                    "end": 797983
                   }
                 },
                 {
@@ -1473,8 +1473,8 @@
                     "en": "The Matrix of Fours"
                   },
                   "span": {
-                    "start": 802280,
-                    "end": 804265
+                    "start": 797983,
+                    "end": 799968
                   }
                 },
                 {
@@ -1482,8 +1482,8 @@
                     "en": "The Matrix of Fives"
                   },
                   "span": {
-                    "start": 804284,
-                    "end": 804447
+                    "start": 799968,
+                    "end": 800131
                   }
                 },
                 {
@@ -1491,8 +1491,8 @@
                     "en": "The Matrix of Sixes"
                   },
                   "span": {
-                    "start": 804466,
-                    "end": 804589
+                    "start": 800131,
+                    "end": 800254
                   }
                 },
                 {
@@ -1500,8 +1500,8 @@
                     "en": "The Matrix of Sevens"
                   },
                   "span": {
-                    "start": 804609,
-                    "end": 804739
+                    "start": 800254,
+                    "end": 800384
                   }
                 },
                 {
@@ -1509,8 +1509,8 @@
                     "en": "The Matrix of Eights"
                   },
                   "span": {
-                    "start": 804759,
-                    "end": 804898
+                    "start": 800384,
+                    "end": 800523
                   }
                 },
                 {
@@ -1518,8 +1518,8 @@
                     "en": "The Matrix of Nines"
                   },
                   "span": {
-                    "start": 804917,
-                    "end": 805057
+                    "start": 800523,
+                    "end": 800663
                   }
                 },
                 {
@@ -1527,8 +1527,8 @@
                     "en": "The Matrix of Tens"
                   },
                   "span": {
-                    "start": 805075,
-                    "end": 809597
+                    "start": 800663,
+                    "end": 805185
                   }
                 },
                 {
@@ -1536,8 +1536,8 @@
                     "en": "The Matrix"
                   },
                   "span": {
-                    "start": 809607,
-                    "end": 878522
+                    "start": 805185,
+                    "end": 873830
                   },
                   "subsections": [
                     {
@@ -1545,8 +1545,8 @@
                         "en": "The Exposition of the Ones"
                       },
                       "span": {
-                        "start": 809633,
-                        "end": 818545
+                        "start": 805185,
+                        "end": 814097
                       }
                     },
                     {
@@ -1554,8 +1554,8 @@
                         "en": "The Exposition of the Twos"
                       },
                       "span": {
-                        "start": 818571,
-                        "end": 825595
+                        "start": 814097,
+                        "end": 821121
                       }
                     },
                     {
@@ -1563,8 +1563,8 @@
                         "en": "The Exposition of the Threes"
                       },
                       "span": {
-                        "start": 825623,
-                        "end": 834182
+                        "start": 821121,
+                        "end": 829680
                       }
                     },
                     {
@@ -1572,8 +1572,8 @@
                         "en": "The Exposition of the Fours"
                       },
                       "span": {
-                        "start": 834209,
-                        "end": 849544
+                        "start": 829680,
+                        "end": 845015
                       }
                     },
                     {
@@ -1581,8 +1581,8 @@
                         "en": "The Exposition of the Fives"
                       },
                       "span": {
-                        "start": 849571,
-                        "end": 850885
+                        "start": 845015,
+                        "end": 846329
                       }
                     },
                     {
@@ -1590,8 +1590,8 @@
                         "en": "The Exposition of the Sixes"
                       },
                       "span": {
-                        "start": 850912,
-                        "end": 851340
+                        "start": 846329,
+                        "end": 846757
                       }
                     },
                     {
@@ -1599,8 +1599,8 @@
                         "en": "The Exposition of the Sevens"
                       },
                       "span": {
-                        "start": 851368,
-                        "end": 853372
+                        "start": 846757,
+                        "end": 848761
                       }
                     },
                     {
@@ -1608,8 +1608,8 @@
                         "en": "The Exposition of the Eights"
                       },
                       "span": {
-                        "start": 853400,
-                        "end": 853873
+                        "start": 848761,
+                        "end": 849234
                       }
                     },
                     {
@@ -1617,8 +1617,8 @@
                         "en": "The Exposition of the Nines"
                       },
                       "span": {
-                        "start": 853900,
-                        "end": 854704
+                        "start": 849234,
+                        "end": 850038
                       }
                     },
                     {
@@ -1626,8 +1626,8 @@
                         "en": "The Exposition of the Tens"
                       },
                       "span": {
-                        "start": 854730,
-                        "end": 878522
+                        "start": 850038,
+                        "end": 873830
                       }
                     }
                   ]
@@ -1639,8 +1639,8 @@
                 "en": "Analysis of the Minor Topics"
               },
               "span": {
-                "start": 878550,
-                "end": 1005578
+                "start": 873830,
+                "end": 994348
               },
               "subsections": [
                 {
@@ -1648,8 +1648,8 @@
                     "en": "The Matrix of Ones"
                   },
                   "span": {
-                    "start": 878568,
-                    "end": 886213
+                    "start": 873830,
+                    "end": 881303
                   },
                   "subsections": [
                     {
@@ -1657,8 +1657,8 @@
                         "en": "The Matrix of Twos"
                       },
                       "span": {
-                        "start": 880839,
-                        "end": 881656
+                        "start": 876083,
+                        "end": 876900
                       }
                     },
                     {
@@ -1666,8 +1666,8 @@
                         "en": "The Matrix of Threes"
                       },
                       "span": {
-                        "start": 881676,
-                        "end": 883068
+                        "start": 876900,
+                        "end": 878292
                       }
                     },
                     {
@@ -1675,8 +1675,8 @@
                         "en": "The Matrix of Fours"
                       },
                       "span": {
-                        "start": 883087,
-                        "end": 883516
+                        "start": 878292,
+                        "end": 878721
                       }
                     },
                     {
@@ -1684,8 +1684,8 @@
                         "en": "The Matrix of Fives"
                       },
                       "span": {
-                        "start": 883535,
-                        "end": 883983
+                        "start": 878721,
+                        "end": 879169
                       }
                     },
                     {
@@ -1693,8 +1693,8 @@
                         "en": "The Matrix of Sixes"
                       },
                       "span": {
-                        "start": 884002,
-                        "end": 884499
+                        "start": 879169,
+                        "end": 879666
                       }
                     },
                     {
@@ -1702,8 +1702,8 @@
                         "en": "The Matrix of Sevens"
                       },
                       "span": {
-                        "start": 884519,
-                        "end": 884717
+                        "start": 879666,
+                        "end": 879864
                       }
                     },
                     {
@@ -1711,8 +1711,8 @@
                         "en": "The Matrix of Eights"
                       },
                       "span": {
-                        "start": 884737,
-                        "end": 885086
+                        "start": 879864,
+                        "end": 880213
                       }
                     },
                     {
@@ -1720,8 +1720,8 @@
                         "en": "The Matrix of Nines"
                       },
                       "span": {
-                        "start": 885105,
-                        "end": 885375
+                        "start": 880213,
+                        "end": 880483
                       }
                     },
                     {
@@ -1729,8 +1729,8 @@
                         "en": "The Matrix of Tens"
                       },
                       "span": {
-                        "start": 885393,
-                        "end": 886213
+                        "start": 880483,
+                        "end": 881303
                       }
                     }
                   ]
@@ -1740,8 +1740,8 @@
                     "en": "The Exposition of the Ones"
                   },
                   "span": {
-                    "start": 886239,
-                    "end": 906222
+                    "start": 881303,
+                    "end": 899901
                   },
                   "subsections": [
                     {
@@ -1749,8 +1749,8 @@
                         "en": "(1) Intoxication with birth"
                       },
                       "span": {
-                        "start": 886266,
-                        "end": 886558
+                        "start": 881303,
+                        "end": 881595
                       }
                     },
                     {
@@ -1758,8 +1758,8 @@
                         "en": "(2-27) Intoxication with clan and the rest"
                       },
                       "span": {
-                        "start": 886600,
-                        "end": 887525
+                        "start": 881595,
+                        "end": 882520
                       }
                     },
                     {
@@ -1767,8 +1767,8 @@
                         "en": "(28) Intoxication"
                       },
                       "span": {
-                        "start": 887542,
-                        "end": 887791
+                        "start": 882520,
+                        "end": 882769
                       }
                     },
                     {
@@ -1776,8 +1776,8 @@
                         "en": "(29) Heedlessness"
                       },
                       "span": {
-                        "start": 887808,
-                        "end": 888396
+                        "start": 882769,
+                        "end": 883357
                       }
                     },
                     {
@@ -1785,8 +1785,8 @@
                         "en": "(30) Obstinacy"
                       },
                       "span": {
-                        "start": 888410,
-                        "end": 888571
+                        "start": 883357,
+                        "end": 883518
                       }
                     },
                     {
@@ -1794,8 +1794,8 @@
                         "en": "(31) Contentiousness"
                       },
                       "span": {
-                        "start": 888591,
-                        "end": 888789
+                        "start": 883518,
+                        "end": 883716
                       }
                     },
                     {
@@ -1803,8 +1803,8 @@
                         "en": "(32) Excessive desire"
                       },
                       "span": {
-                        "start": 888810,
-                        "end": 889165
+                        "start": 883716,
+                        "end": 884071
                       }
                     },
                     {
@@ -1812,8 +1812,8 @@
                         "en": "(33) Great desire"
                       },
                       "span": {
-                        "start": 889182,
-                        "end": 889525
+                        "start": 884071,
+                        "end": 884414
                       }
                     },
                     {
@@ -1821,8 +1821,8 @@
                         "en": "(34) Evil desire"
                       },
                       "span": {
-                        "start": 889541,
-                        "end": 890388
+                        "start": 884414,
+                        "end": 885261
                       }
                     },
                     {
@@ -1830,8 +1830,8 @@
                         "en": "(35) Affectation"
                       },
                       "span": {
-                        "start": 890404,
-                        "end": 890570
+                        "start": 885261,
+                        "end": 885427
                       }
                     },
                     {
@@ -1839,8 +1839,8 @@
                         "en": "(36) Greediness"
                       },
                       "span": {
-                        "start": 890585,
-                        "end": 890798
+                        "start": 885427,
+                        "end": 885640
                       }
                     },
                     {
@@ -1848,8 +1848,8 @@
                         "en": "(37) Frivolity"
                       },
                       "span": {
-                        "start": 890812,
-                        "end": 891091
+                        "start": 885640,
+                        "end": 885919
                       }
                     },
                     {
@@ -1857,8 +1857,8 @@
                         "en": "(38) Discordant behaviour"
                       },
                       "span": {
-                        "start": 891116,
-                        "end": 891467
+                        "start": 885919,
+                        "end": 886270
                       }
                     },
                     {
@@ -1866,8 +1866,8 @@
                         "en": "(39) Discontent"
                       },
                       "span": {
-                        "start": 891482,
-                        "end": 891699
+                        "start": 886270,
+                        "end": 886487
                       }
                     },
                     {
@@ -1875,8 +1875,8 @@
                         "en": "(40) Sloth"
                       },
                       "span": {
-                        "start": 891709,
-                        "end": 891850
+                        "start": 886487,
+                        "end": 886628
                       }
                     },
                     {
@@ -1884,8 +1884,8 @@
                         "en": "(41) Stretching oneself"
                       },
                       "span": {
-                        "start": 891873,
-                        "end": 892080
+                        "start": 886628,
+                        "end": 886835
                       }
                     },
                     {
@@ -1893,8 +1893,8 @@
                         "en": "(42) Drowsiness after meals"
                       },
                       "span": {
-                        "start": 892107,
-                        "end": 892313
+                        "start": 886835,
+                        "end": 887041
                       }
                     },
                     {
@@ -1902,8 +1902,8 @@
                         "en": "(43) Sluggishness of mind"
                       },
                       "span": {
-                        "start": 892338,
-                        "end": 892593
+                        "start": 887041,
+                        "end": 887296
                       }
                     },
                     {
@@ -1911,8 +1911,8 @@
                         "en": "(44) Trickery"
                       },
                       "span": {
-                        "start": 892606,
-                        "end": 892950
+                        "start": 887296,
+                        "end": 887640
                       }
                     },
                     {
@@ -1920,8 +1920,8 @@
                         "en": "(45) Wheedling talk"
                       },
                       "span": {
-                        "start": 892969,
-                        "end": 893377
+                        "start": 887640,
+                        "end": 888048
                       }
                     },
                     {
@@ -1929,8 +1929,8 @@
                         "en": "(46) Hinting"
                       },
                       "span": {
-                        "start": 893389,
-                        "end": 893650
+                        "start": 888048,
+                        "end": 888309
                       }
                     },
                     {
@@ -1938,8 +1938,8 @@
                         "en": "(47) Belittling"
                       },
                       "span": {
-                        "start": 893665,
-                        "end": 893994
+                        "start": 888309,
+                        "end": 888638
                       }
                     },
                     {
@@ -1947,8 +1947,8 @@
                         "en": "(48) Chasing gain with gain"
                       },
                       "span": {
-                        "start": 894021,
-                        "end": 894388
+                        "start": 888638,
+                        "end": 889005
                       }
                     },
                     {
@@ -1956,8 +1956,8 @@
                         "en": "(49) The conceit \"I am better\""
                       },
                       "span": {
-                        "start": 894418,
-                        "end": 894901
+                        "start": 889005,
+                        "end": 889488
                       }
                     },
                     {
@@ -1965,8 +1965,8 @@
                         "en": "(50) The conceit \"I am equal\""
                       },
                       "span": {
-                        "start": 894930,
-                        "end": 895411
+                        "start": 889488,
+                        "end": 889969
                       }
                     },
                     {
@@ -1974,8 +1974,8 @@
                         "en": "(51) The conceit \"I am worse\""
                       },
                       "span": {
-                        "start": 895440,
-                        "end": 895998
+                        "start": 889969,
+                        "end": 890527
                       }
                     },
                     {
@@ -1983,8 +1983,8 @@
                         "en": "(52) The conceit of one who is better, \"I am better\""
                       },
                       "span": {
-                        "start": 896050,
-                        "end": 896654
+                        "start": 890527,
+                        "end": 891131
                       }
                     },
                     {
@@ -1992,8 +1992,8 @@
                         "en": "(53) The conceit of one who is better, \"I am equal\""
                       },
                       "span": {
-                        "start": 896705,
-                        "end": 897304
+                        "start": 891131,
+                        "end": 891730
                       }
                     },
                     {
@@ -2001,8 +2001,8 @@
                         "en": "(54) The conceit of one who is better, \"I am worse\""
                       },
                       "span": {
-                        "start": 897355,
-                        "end": 898033
+                        "start": 891730,
+                        "end": 892408
                       }
                     },
                     {
@@ -2010,8 +2010,8 @@
                         "en": "(55) The conceit of one who is equal, \"I am better\""
                       },
                       "span": {
-                        "start": 898084,
-                        "end": 898496
+                        "start": 892408,
+                        "end": 892820
                       }
                     },
                     {
@@ -2019,8 +2019,8 @@
                         "en": "(56) The conceit of one who is equal, \"I am equal\""
                       },
                       "span": {
-                        "start": 898546,
-                        "end": 899000
+                        "start": 892820,
+                        "end": 893274
                       }
                     },
                     {
@@ -2028,8 +2028,8 @@
                         "en": "(57) The conceit of one who is equal, \"I am worse\""
                       },
                       "span": {
-                        "start": 899050,
-                        "end": 899583
+                        "start": 893274,
+                        "end": 893807
                       }
                     },
                     {
@@ -2037,8 +2037,8 @@
                         "en": "(58) The conceit of one who is worse, \"I am better\""
                       },
                       "span": {
-                        "start": 899634,
-                        "end": 900093
+                        "start": 893807,
+                        "end": 894266
                       }
                     },
                     {
@@ -2046,8 +2046,8 @@
                         "en": "(59) The conceit of one who is worse, \"I am equal\""
                       },
                       "span": {
-                        "start": 900143,
-                        "end": 900597
+                        "start": 894266,
+                        "end": 894720
                       }
                     },
                     {
@@ -2055,8 +2055,8 @@
                         "en": "(60) The conceit of one who is worse, \"I am worse\""
                       },
                       "span": {
-                        "start": 900647,
-                        "end": 901178
+                        "start": 894720,
+                        "end": 895251
                       }
                     },
                     {
@@ -2064,8 +2064,8 @@
                         "en": "(61) Conceit"
                       },
                       "span": {
-                        "start": 901190,
-                        "end": 901365
+                        "start": 895251,
+                        "end": 895426
                       }
                     },
                     {
@@ -2073,8 +2073,8 @@
                         "en": "(62) Exaggerated conceit"
                       },
                       "span": {
-                        "start": 901389,
-                        "end": 901719
+                        "start": 895426,
+                        "end": 895756
                       }
                     },
                     {
@@ -2082,8 +2082,8 @@
                         "en": "(63) Conceit beyond conceit"
                       },
                       "span": {
-                        "start": 901746,
-                        "end": 902169
+                        "start": 895756,
+                        "end": 896179
                       }
                     },
                     {
@@ -2091,8 +2091,8 @@
                         "en": "(64) Self-belittling conceit"
                       },
                       "span": {
-                        "start": 902197,
-                        "end": 902753
+                        "start": 896179,
+                        "end": 896735
                       }
                     },
                     {
@@ -2100,8 +2100,8 @@
                         "en": "(65) Over-estimating conceit"
                       },
                       "span": {
-                        "start": 902781,
-                        "end": 903209
+                        "start": 896735,
+                        "end": 897163
                       }
                     },
                     {
@@ -2109,8 +2109,8 @@
                         "en": "(66) The conceit \"I am\""
                       },
                       "span": {
-                        "start": 903232,
-                        "end": 903704
+                        "start": 897163,
+                        "end": 897635
                       }
                     },
                     {
@@ -2118,8 +2118,8 @@
                         "en": "(67) Wrong conceit"
                       },
                       "span": {
-                        "start": 903722,
-                        "end": 904221
+                        "start": 897635,
+                        "end": 898134
                       }
                     },
                     {
@@ -2127,8 +2127,8 @@
                         "en": "(68) Thoughts about relatives"
                       },
                       "span": {
-                        "start": 904250,
-                        "end": 904433
+                        "start": 898134,
+                        "end": 898317
                       }
                     },
                     {
@@ -2136,8 +2136,8 @@
                         "en": "(69) Thoughts about one's home country"
                       },
                       "span": {
-                        "start": 904471,
-                        "end": 904681
+                        "start": 898317,
+                        "end": 898527
                       }
                     },
                     {
@@ -2145,8 +2145,8 @@
                         "en": "(70) Thoughts about not dying"
                       },
                       "span": {
-                        "start": 904710,
-                        "end": 904946
+                        "start": 898527,
+                        "end": 898763
                       }
                     },
                     {
@@ -2154,8 +2154,8 @@
                         "en": "(71) Thought connected with sympathy for others"
                       },
                       "span": {
-                        "start": 904993,
-                        "end": 905410
+                        "start": 898763,
+                        "end": 899180
                       }
                     },
                     {
@@ -2163,8 +2163,8 @@
                         "en": "(72) Thought connected with gain and the rest"
                       },
                       "span": {
-                        "start": 905455,
-                        "end": 905698
+                        "start": 899180,
+                        "end": 899423
                       }
                     },
                     {
@@ -2172,8 +2172,8 @@
                         "en": "(73) Thought connected with not being despised"
                       },
                       "span": {
-                        "start": 905744,
-                        "end": 906222
+                        "start": 899423,
+                        "end": 899901
                       }
                     }
                   ]
@@ -2183,8 +2183,8 @@
                     "en": "The Exposition of the Twos"
                   },
                   "span": {
-                    "start": 906248,
-                    "end": 916409
+                    "start": 899901,
+                    "end": 909315
                   },
                   "subsections": [
                     {
@@ -2192,8 +2192,8 @@
                         "en": "(1) Anger and resentment"
                       },
                       "span": {
-                        "start": 906272,
-                        "end": 906833
+                        "start": 899901,
+                        "end": 900462
                       }
                     },
                     {
@@ -2201,8 +2201,8 @@
                         "en": "(2) Contempt and domineering"
                       },
                       "span": {
-                        "start": 906861,
-                        "end": 907190
+                        "start": 900462,
+                        "end": 900791
                       }
                     },
                     {
@@ -2210,8 +2210,8 @@
                         "en": "(3) Envy and stinginess"
                       },
                       "span": {
-                        "start": 907213,
-                        "end": 907821
+                        "start": 900791,
+                        "end": 901399
                       }
                     },
                     {
@@ -2219,8 +2219,8 @@
                         "en": "(4) Deceit and treachery"
                       },
                       "span": {
-                        "start": 907845,
-                        "end": 908770
+                        "start": 901399,
+                        "end": 902324
                       }
                     },
                     {
@@ -2228,8 +2228,8 @@
                         "en": "(5) Ignorance and craving for existence"
                       },
                       "span": {
-                        "start": 908809,
-                        "end": 909307
+                        "start": 902324,
+                        "end": 902822
                       }
                     },
                     {
@@ -2237,8 +2237,8 @@
                         "en": "(6) The view of existence and the view of non-existence"
                       },
                       "span": {
-                        "start": 909362,
-                        "end": 909764
+                        "start": 902822,
+                        "end": 903224
                       }
                     },
                     {
@@ -2246,8 +2246,8 @@
                         "en": "(7) The eternalist view and the annihilationist view"
                       },
                       "span": {
-                        "start": 909816,
-                        "end": 910216
+                        "start": 903224,
+                        "end": 903624
                       }
                     },
                     {
@@ -2255,8 +2255,8 @@
                         "en": "(8) The finite view and the infinite view"
                       },
                       "span": {
-                        "start": 910257,
-                        "end": 910695
+                        "start": 903624,
+                        "end": 904062
                       }
                     },
                     {
@@ -2264,8 +2264,8 @@
                         "en": "(9) Speculation about the past and about the future"
                       },
                       "span": {
-                        "start": 910746,
-                        "end": 911098
+                        "start": 904062,
+                        "end": 904414
                       }
                     },
                     {
@@ -2273,8 +2273,8 @@
                         "en": "(10) Shamelessness and lack of moral dread"
                       },
                       "span": {
-                        "start": 911140,
-                        "end": 911482
+                        "start": 904414,
+                        "end": 904756
                       }
                     },
                     {
@@ -2282,8 +2282,8 @@
                         "en": "(11) Being hard to correct and evil friendship"
                       },
                       "span": {
-                        "start": 911528,
-                        "end": 912230
+                        "start": 904756,
+                        "end": 905458
                       }
                     },
                     {
@@ -2291,8 +2291,8 @@
                         "en": "(12) Crookedness and harshness"
                       },
                       "span": {
-                        "start": 912260,
-                        "end": 912576
+                        "start": 905458,
+                        "end": 905774
                       }
                     },
                     {
@@ -2300,8 +2300,8 @@
                         "en": "(13) Impatience and immoderation"
                       },
                       "span": {
-                        "start": 912608,
-                        "end": 912960
+                        "start": 905774,
+                        "end": 906126
                       }
                     },
                     {
@@ -2309,8 +2309,8 @@
                         "en": "(14) Rough speech and lack of hospitality"
                       },
                       "span": {
-                        "start": 913001,
-                        "end": 913583
+                        "start": 906126,
+                        "end": 906708
                       }
                     },
                     {
@@ -2318,8 +2318,8 @@
                         "en": "(15) Not guarding the doors of the faculties and not knowing moderation in food"
                       },
                       "span": {
-                        "start": 913662,
-                        "end": 915077
+                        "start": 906708,
+                        "end": 908123
                       }
                     },
                     {
@@ -2327,8 +2327,8 @@
                         "en": "(16) Forgetfulness and lack of clear comprehension"
                       },
                       "span": {
-                        "start": 915127,
-                        "end": 915553
+                        "start": 908123,
+                        "end": 908549
                       }
                     },
                     {
@@ -2336,8 +2336,8 @@
                         "en": "(17) Failure in virtue and failure in view"
                       },
                       "span": {
-                        "start": 915595,
-                        "end": 916210
+                        "start": 908549,
+                        "end": 909164
                       }
                     },
                     {
@@ -2345,8 +2345,8 @@
                         "en": "(18) The internal fetter and the external fetter"
                       },
                       "span": {
-                        "start": 916258,
-                        "end": 916409
+                        "start": 909164,
+                        "end": 909315
                       }
                     }
                   ]
@@ -2356,8 +2356,8 @@
                     "en": "The Exposition of the Threes"
                   },
                   "span": {
-                    "start": 916437,
-                    "end": 945904
+                    "start": 909315,
+                    "end": 937375
                   },
                   "subsections": [
                     {
@@ -2365,8 +2365,8 @@
                         "en": "(1) The three unwholesome roots"
                       },
                       "span": {
-                        "start": 916468,
-                        "end": 919637
+                        "start": 909315,
+                        "end": 912484
                       }
                     },
                     {
@@ -2374,8 +2374,8 @@
                         "en": "(2) The three unwholesome thoughts"
                       },
                       "span": {
-                        "start": 919671,
-                        "end": 920313
+                        "start": 912484,
+                        "end": 913126
                       }
                     },
                     {
@@ -2383,8 +2383,8 @@
                         "en": "(3) The three unwholesome perceptions"
                       },
                       "span": {
-                        "start": 920350,
-                        "end": 921070
+                        "start": 913126,
+                        "end": 913846
                       }
                     },
                     {
@@ -2392,8 +2392,8 @@
                         "en": "(4) The three unwholesome elements"
                       },
                       "span": {
-                        "start": 921104,
-                        "end": 921959
+                        "start": 913846,
+                        "end": 914701
                       }
                     },
                     {
@@ -2401,8 +2401,8 @@
                         "en": "(5) The three kinds of misconduct"
                       },
                       "span": {
-                        "start": 921992,
-                        "end": 922934
+                        "start": 914701,
+                        "end": 915643
                       }
                     },
                     {
@@ -2410,8 +2410,8 @@
                         "en": "(6) The three mental taints"
                       },
                       "span": {
-                        "start": 922961,
-                        "end": 923857
+                        "start": 915643,
+                        "end": 916539
                       }
                     },
                     {
@@ -2419,8 +2419,8 @@
                         "en": "(7) The three fetters"
                       },
                       "span": {
-                        "start": 923878,
-                        "end": 925730
+                        "start": 916539,
+                        "end": 918391
                       }
                     },
                     {
@@ -2428,8 +2428,8 @@
                         "en": "(8) The three cravings"
                       },
                       "span": {
-                        "start": 925752,
-                        "end": 926736
+                        "start": 918391,
+                        "end": 919375
                       }
                     },
                     {
@@ -2437,8 +2437,8 @@
                         "en": "(9) Another three cravings"
                       },
                       "span": {
-                        "start": 926762,
-                        "end": 927453
+                        "start": 919375,
+                        "end": 920066
                       }
                     },
                     {
@@ -2446,8 +2446,8 @@
                         "en": "(10) Yet another three cravings"
                       },
                       "span": {
-                        "start": 927484,
-                        "end": 928156
+                        "start": 920066,
+                        "end": 920738
                       }
                     },
                     {
@@ -2455,8 +2455,8 @@
                         "en": "(11) The three quests"
                       },
                       "span": {
-                        "start": 928177,
-                        "end": 929623
+                        "start": 920738,
+                        "end": 922184
                       }
                     },
                     {
@@ -2464,8 +2464,8 @@
                         "en": "(12) The three modes of self-ranking"
                       },
                       "span": {
-                        "start": 929659,
-                        "end": 929823
+                        "start": 922184,
+                        "end": 922348
                       }
                     },
                     {
@@ -2473,8 +2473,8 @@
                         "en": "(13) The three fears"
                       },
                       "span": {
-                        "start": 929843,
-                        "end": 930435
+                        "start": 922348,
+                        "end": 922940
                       }
                     },
                     {
@@ -2482,8 +2482,8 @@
                         "en": "(14) The three darknesses"
                       },
                       "span": {
-                        "start": 930460,
-                        "end": 930822
+                        "start": 922940,
+                        "end": 923302
                       }
                     },
                     {
@@ -2491,8 +2491,8 @@
                         "en": "(15) The three sectarian grounds"
                       },
                       "span": {
-                        "start": 930854,
-                        "end": 931564
+                        "start": 923302,
+                        "end": 924012
                       }
                     },
                     {
@@ -2500,8 +2500,8 @@
                         "en": "(16) The three impediments"
                       },
                       "span": {
-                        "start": 931590,
-                        "end": 931737
+                        "start": 924012,
+                        "end": 924159
                       }
                     },
                     {
@@ -2509,8 +2509,8 @@
                         "en": "(17) The three blemishes"
                       },
                       "span": {
-                        "start": 931761,
-                        "end": 931892
+                        "start": 924159,
+                        "end": 924290
                       }
                     },
                     {
@@ -2518,8 +2518,8 @@
                         "en": "(18) The three stains"
                       },
                       "span": {
-                        "start": 931913,
-                        "end": 932032
+                        "start": 924290,
+                        "end": 924409
                       }
                     },
                     {
@@ -2527,8 +2527,8 @@
                         "en": "(19) The three unevennesses"
                       },
                       "span": {
-                        "start": 932059,
-                        "end": 932199
+                        "start": 924409,
+                        "end": 924549
                       }
                     },
                     {
@@ -2536,8 +2536,8 @@
                         "en": "(20) Another three unevennesses"
                       },
                       "span": {
-                        "start": 932230,
-                        "end": 932367
+                        "start": 924549,
+                        "end": 924686
                       }
                     },
                     {
@@ -2545,8 +2545,8 @@
                         "en": "(21) The three fires"
                       },
                       "span": {
-                        "start": 932387,
-                        "end": 932507
+                        "start": 924686,
+                        "end": 924806
                       }
                     },
                     {
@@ -2554,8 +2554,8 @@
                         "en": "(22) The three corruptions"
                       },
                       "span": {
-                        "start": 932533,
-                        "end": 932683
+                        "start": 924806,
+                        "end": 924956
                       }
                     },
                     {
@@ -2563,8 +2563,8 @@
                         "en": "(23) Another three corruptions"
                       },
                       "span": {
-                        "start": 932713,
-                        "end": 932848
+                        "start": 924956,
+                        "end": 925091
                       }
                     },
                     {
@@ -2572,8 +2572,8 @@
                         "en": "(24a) The view of enjoyment"
                       },
                       "span": {
-                        "start": 932875,
-                        "end": 933089
+                        "start": 925091,
+                        "end": 925305
                       }
                     },
                     {
@@ -2581,8 +2581,8 @@
                         "en": "(b) The view of self"
                       },
                       "span": {
-                        "start": 933109,
-                        "end": 933831
+                        "start": 925305,
+                        "end": 926027
                       }
                     },
                     {
@@ -2590,8 +2590,8 @@
                         "en": "(c) Wrong view"
                       },
                       "span": {
-                        "start": 933845,
-                        "end": 934269
+                        "start": 926027,
+                        "end": 926451
                       }
                     },
                     {
@@ -2599,8 +2599,8 @@
                         "en": "(25a) Discontent"
                       },
                       "span": {
-                        "start": 934285,
-                        "end": 934502
+                        "start": 926451,
+                        "end": 926668
                       }
                     },
                     {
@@ -2608,8 +2608,8 @@
                         "en": "(b) Cruelty"
                       },
                       "span": {
-                        "start": 934513,
-                        "end": 934799
+                        "start": 926668,
+                        "end": 926954
                       }
                     },
                     {
@@ -2617,8 +2617,8 @@
                         "en": "(c) Unrighteous conduct"
                       },
                       "span": {
-                        "start": 934822,
-                        "end": 935058
+                        "start": 926954,
+                        "end": 927190
                       }
                     },
                     {
@@ -2626,8 +2626,8 @@
                         "en": "(26a) Being hard to correct"
                       },
                       "span": {
-                        "start": 935085,
-                        "end": 935425
+                        "start": 927190,
+                        "end": 927530
                       }
                     },
                     {
@@ -2635,8 +2635,8 @@
                         "en": "(b) Evil friendship"
                       },
                       "span": {
-                        "start": 935444,
-                        "end": 935798
+                        "start": 927530,
+                        "end": 927884
                       }
                     },
                     {
@@ -2644,8 +2644,8 @@
                         "en": "(c) Perception of diversity"
                       },
                       "span": {
-                        "start": 935825,
-                        "end": 936053
+                        "start": 927884,
+                        "end": 928112
                       }
                     },
                     {
@@ -2653,8 +2653,8 @@
                         "en": "(27a) Restlessness"
                       },
                       "span": {
-                        "start": 936071,
-                        "end": 936220
+                        "start": 928112,
+                        "end": 928261
                       }
                     },
                     {
@@ -2662,8 +2662,8 @@
                         "en": "(b) Laziness"
                       },
                       "span": {
-                        "start": 936232,
-                        "end": 936724
+                        "start": 928261,
+                        "end": 928753
                       }
                     },
                     {
@@ -2671,8 +2671,8 @@
                         "en": "(c) Heedlessness"
                       },
                       "span": {
-                        "start": 936740,
-                        "end": 937328
+                        "start": 928753,
+                        "end": 929341
                       }
                     },
                     {
@@ -2680,8 +2680,8 @@
                         "en": "(28a) Discontentment"
                       },
                       "span": {
-                        "start": 937348,
-                        "end": 937697
+                        "start": 929341,
+                        "end": 929690
                       }
                     },
                     {
@@ -2689,8 +2689,8 @@
                         "en": "(b) Lack of clear comprehension"
                       },
                       "span": {
-                        "start": 937728,
-                        "end": 937917
+                        "start": 929690,
+                        "end": 929879
                       }
                     },
                     {
@@ -2698,8 +2698,8 @@
                         "en": "(c) Great desire"
                       },
                       "span": {
-                        "start": 937933,
-                        "end": 938276
+                        "start": 929879,
+                        "end": 930222
                       }
                     },
                     {
@@ -2707,8 +2707,8 @@
                         "en": "(29a) Shamelessness"
                       },
                       "span": {
-                        "start": 938295,
-                        "end": 938468
+                        "start": 930222,
+                        "end": 930395
                       }
                     },
                     {
@@ -2716,8 +2716,8 @@
                         "en": "(b) Lack of moral dread"
                       },
                       "span": {
-                        "start": 938491,
-                        "end": 938652
+                        "start": 930395,
+                        "end": 930556
                       }
                     },
                     {
@@ -2725,8 +2725,8 @@
                         "en": "(c) Heedlessness"
                       },
                       "span": {
-                        "start": 938668,
-                        "end": 939256
+                        "start": 930556,
+                        "end": 931144
                       }
                     },
                     {
@@ -2734,8 +2734,8 @@
                         "en": "(30a) Disrespect"
                       },
                       "span": {
-                        "start": 939272,
-                        "end": 939508
+                        "start": 931144,
+                        "end": 931380
                       }
                     },
                     {
@@ -2743,8 +2743,8 @@
                         "en": "(b) Being hard to correct"
                       },
                       "span": {
-                        "start": 939533,
-                        "end": 939873
+                        "start": 931380,
+                        "end": 931720
                       }
                     },
                     {
@@ -2752,8 +2752,8 @@
                         "en": "(c) Evil friendship"
                       },
                       "span": {
-                        "start": 939892,
-                        "end": 940271
+                        "start": 931720,
+                        "end": 932099
                       }
                     },
                     {
@@ -2761,8 +2761,8 @@
                         "en": "(31a) Lack of confidence"
                       },
                       "span": {
-                        "start": 940295,
-                        "end": 940600
+                        "start": 932099,
+                        "end": 932404
                       }
                     },
                     {
@@ -2770,8 +2770,8 @@
                         "en": "(b) Uncharitableness"
                       },
                       "span": {
-                        "start": 940620,
-                        "end": 941011
+                        "start": 932404,
+                        "end": 932795
                       }
                     },
                     {
@@ -2779,8 +2779,8 @@
                         "en": "(c) Laziness"
                       },
                       "span": {
-                        "start": 941023,
-                        "end": 941515
+                        "start": 932795,
+                        "end": 933287
                       }
                     },
                     {
@@ -2788,8 +2788,8 @@
                         "en": "(32a) Restlessness"
                       },
                       "span": {
-                        "start": 941533,
-                        "end": 941682
+                        "start": 933287,
+                        "end": 933436
                       }
                     },
                     {
@@ -2797,8 +2797,8 @@
                         "en": "(b) Non-restraint"
                       },
                       "span": {
-                        "start": 941699,
-                        "end": 942624
+                        "start": 933436,
+                        "end": 934361
                       }
                     },
                     {
@@ -2806,8 +2806,8 @@
                         "en": "(c) Bad conduct"
                       },
                       "span": {
-                        "start": 942639,
-                        "end": 942781
+                        "start": 934361,
+                        "end": 934503
                       }
                     },
                     {
@@ -2815,8 +2815,8 @@
                         "en": "(33a) Not wishing to see the noble ones"
                       },
                       "span": {
-                        "start": 942820,
-                        "end": 943170
+                        "start": 934503,
+                        "end": 934853
                       }
                     },
                     {
@@ -2824,8 +2824,8 @@
                         "en": "(b) Not wishing to hear the good teaching"
                       },
                       "span": {
-                        "start": 943211,
-                        "end": 943712
+                        "start": 934853,
+                        "end": 935354
                       }
                     },
                     {
@@ -2833,8 +2833,8 @@
                         "en": "(c) A fault-finding mind"
                       },
                       "span": {
-                        "start": 943736,
-                        "end": 944046
+                        "start": 935354,
+                        "end": 935664
                       }
                     },
                     {
@@ -2842,8 +2842,8 @@
                         "en": "(34a) Forgetfulness"
                       },
                       "span": {
-                        "start": 944065,
-                        "end": 944294
+                        "start": 935664,
+                        "end": 935893
                       }
                     },
                     {
@@ -2851,8 +2851,8 @@
                         "en": "(b) Lack of clear comprehension"
                       },
                       "span": {
-                        "start": 944325,
-                        "end": 944514
+                        "start": 935893,
+                        "end": 936082
                       }
                     },
                     {
@@ -2860,8 +2860,8 @@
                         "en": "(c) Distraction of mind"
                       },
                       "span": {
-                        "start": 944537,
-                        "end": 944700
+                        "start": 936082,
+                        "end": 936245
                       }
                     },
                     {
@@ -2869,8 +2869,8 @@
                         "en": "(35a) Unwise attention"
                       },
                       "span": {
-                        "start": 944722,
-                        "end": 945118
+                        "start": 936245,
+                        "end": 936641
                       }
                     },
                     {
@@ -2878,8 +2878,8 @@
                         "en": "(b) Following the wrong path"
                       },
                       "span": {
-                        "start": 945146,
-                        "end": 945614
+                        "start": 936641,
+                        "end": 937109
                       }
                     },
                     {
@@ -2887,8 +2887,8 @@
                         "en": "(c) Sluggishness of mind"
                       },
                       "span": {
-                        "start": 945638,
-                        "end": 945904
+                        "start": 937109,
+                        "end": 937375
                       }
                     }
                   ]
@@ -2898,8 +2898,8 @@
                     "en": "The Exposition of the Fours"
                   },
                   "span": {
-                    "start": 945931,
-                    "end": 953495
+                    "start": 937375,
+                    "end": 944358
                   },
                   "subsections": [
                     {
@@ -2907,8 +2907,8 @@
                         "en": "(1) The four mental taints"
                       },
                       "span": {
-                        "start": 945957,
-                        "end": 946095
+                        "start": 937375,
+                        "end": 937513
                       }
                     },
                     {
@@ -2916,8 +2916,8 @@
                         "en": "(a) The taint of sense pleasure"
                       },
                       "span": {
-                        "start": 946126,
-                        "end": 946519
+                        "start": 937513,
+                        "end": 937906
                       }
                     },
                     {
@@ -2925,8 +2925,8 @@
                         "en": "(b) The taint of existence"
                       },
                       "span": {
-                        "start": 946545,
-                        "end": 946719
+                        "start": 937906,
+                        "end": 938080
                       }
                     },
                     {
@@ -2934,8 +2934,8 @@
                         "en": "(c) The taint of views"
                       },
                       "span": {
-                        "start": 946741,
-                        "end": 947333
+                        "start": 938080,
+                        "end": 938672
                       }
                     },
                     {
@@ -2943,8 +2943,8 @@
                         "en": "(d) The taint of ignorance"
                       },
                       "span": {
-                        "start": 947359,
-                        "end": 947921
+                        "start": 938672,
+                        "end": 939234
                       }
                     },
                     {
@@ -2952,8 +2952,8 @@
                         "en": "(2-5) The four ties and the rest"
                       },
                       "span": {
-                        "start": 947953,
-                        "end": 948161
+                        "start": 939234,
+                        "end": 939442
                       }
                     },
                     {
@@ -2961,8 +2961,8 @@
                         "en": "(a) Clinging to sense pleasures"
                       },
                       "span": {
-                        "start": 948192,
-                        "end": 948384
+                        "start": 939442,
+                        "end": 939634
                       }
                     },
                     {
@@ -2970,8 +2970,8 @@
                         "en": "(b) Clinging to views"
                       },
                       "span": {
-                        "start": 948405,
-                        "end": 948825
+                        "start": 939634,
+                        "end": 940054
                       }
                     },
                     {
@@ -2979,8 +2979,8 @@
                         "en": "(c) Clinging to rules and observances"
                       },
                       "span": {
-                        "start": 948862,
-                        "end": 949197
+                        "start": 940054,
+                        "end": 940389
                       }
                     },
                     {
@@ -2988,8 +2988,8 @@
                         "en": "(d) Clinging to a doctrine of self"
                       },
                       "span": {
-                        "start": 949231,
-                        "end": 950019
+                        "start": 940389,
+                        "end": 941177
                       }
                     },
                     {
@@ -2997,8 +2997,8 @@
                         "en": "(6) The four arisings of craving"
                       },
                       "span": {
-                        "start": 950051,
-                        "end": 950416
+                        "start": 941177,
+                        "end": 941542
                       }
                     },
                     {
@@ -3006,8 +3006,8 @@
                         "en": "(7) The four ways of going astray"
                       },
                       "span": {
-                        "start": 950449,
-                        "end": 950781
+                        "start": 941542,
+                        "end": 941874
                       }
                     },
                     {
@@ -3015,8 +3015,8 @@
                         "en": "(8) The four distortions"
                       },
                       "span": {
-                        "start": 950805,
-                        "end": 951322
+                        "start": 941874,
+                        "end": 942391
                       }
                     },
                     {
@@ -3024,8 +3024,8 @@
                         "en": "(9) The four ignoble ways of speech"
                       },
                       "span": {
-                        "start": 951357,
-                        "end": 951631
+                        "start": 942391,
+                        "end": 942665
                       }
                     },
                     {
@@ -3033,8 +3033,8 @@
                         "en": "(10) Another four ignoble ways of speech"
                       },
                       "span": {
-                        "start": 951671,
-                        "end": 951949
+                        "start": 942665,
+                        "end": 942943
                       }
                     },
                     {
@@ -3042,8 +3042,8 @@
                         "en": "(11) The four kinds of misconduct"
                       },
                       "span": {
-                        "start": 951982,
-                        "end": 952152
+                        "start": 942943,
+                        "end": 943113
                       }
                     },
                     {
@@ -3051,8 +3051,8 @@
                         "en": "(12) Another four kinds of misconduct"
                       },
                       "span": {
-                        "start": 952189,
-                        "end": 952340
+                        "start": 943113,
+                        "end": 943264
                       }
                     },
                     {
@@ -3060,8 +3060,8 @@
                         "en": "(13) The four fears"
                       },
                       "span": {
-                        "start": 952359,
-                        "end": 952498
+                        "start": 943264,
+                        "end": 943403
                       }
                     },
                     {
@@ -3069,8 +3069,8 @@
                         "en": "(14) Another four fears"
                       },
                       "span": {
-                        "start": 952521,
-                        "end": 952989
+                        "start": 943403,
+                        "end": 943871
                       }
                     },
                     {
@@ -3078,8 +3078,8 @@
                         "en": "(15) The four views"
                       },
                       "span": {
-                        "start": 953008,
-                        "end": 953495
+                        "start": 943871,
+                        "end": 944358
                       }
                     }
                   ]
@@ -3089,8 +3089,8 @@
                     "en": "The Exposition of the Fives"
                   },
                   "span": {
-                    "start": 953522,
-                    "end": 960740
+                    "start": 944358,
+                    "end": 951152
                   },
                   "subsections": [
                     {
@@ -3098,8 +3098,8 @@
                         "en": "(1) The five lower fetters"
                       },
                       "span": {
-                        "start": 953548,
-                        "end": 953729
+                        "start": 944358,
+                        "end": 944539
                       }
                     },
                     {
@@ -3107,8 +3107,8 @@
                         "en": "(2) The five higher fetters"
                       },
                       "span": {
-                        "start": 953756,
-                        "end": 953917
+                        "start": 944539,
+                        "end": 944700
                       }
                     },
                     {
@@ -3116,8 +3116,8 @@
                         "en": "(3) The five kinds of stinginess"
                       },
                       "span": {
-                        "start": 953949,
-                        "end": 954172
+                        "start": 944700,
+                        "end": 944923
                       }
                     },
                     {
@@ -3125,8 +3125,8 @@
                         "en": "(4) The five attachments"
                       },
                       "span": {
-                        "start": 954196,
-                        "end": 954396
+                        "start": 944923,
+                        "end": 945123
                       }
                     },
                     {
@@ -3134,8 +3134,8 @@
                         "en": "(5) The five darts"
                       },
                       "span": {
-                        "start": 954414,
-                        "end": 954572
+                        "start": 945123,
+                        "end": 945281
                       }
                     },
                     {
@@ -3143,8 +3143,8 @@
                         "en": "(6) The five barrennesses of mind"
                       },
                       "span": {
-                        "start": 954605,
-                        "end": 955184
+                        "start": 945281,
+                        "end": 945860
                       }
                     },
                     {
@@ -3152,8 +3152,8 @@
                         "en": "(7) The five bondages of mind"
                       },
                       "span": {
-                        "start": 955213,
-                        "end": 955833
+                        "start": 945860,
+                        "end": 946480
                       }
                     },
                     {
@@ -3161,8 +3161,8 @@
                         "en": "(8) The five hindrances"
                       },
                       "span": {
-                        "start": 955856,
-                        "end": 956093
+                        "start": 946480,
+                        "end": 946717
                       }
                     },
                     {
@@ -3170,8 +3170,8 @@
                         "en": "(9) The five actions with immediate result"
                       },
                       "span": {
-                        "start": 956135,
-                        "end": 956449
+                        "start": 946717,
+                        "end": 947031
                       }
                     },
                     {
@@ -3179,8 +3179,8 @@
                         "en": "(10) The five views"
                       },
                       "span": {
-                        "start": 956468,
-                        "end": 956890
+                        "start": 947031,
+                        "end": 947453
                       }
                     },
                     {
@@ -3188,8 +3188,8 @@
                         "en": "(11) The five hostilities"
                       },
                       "span": {
-                        "start": 956915,
-                        "end": 957125
+                        "start": 947453,
+                        "end": 947663
                       }
                     },
                     {
@@ -3197,8 +3197,8 @@
                         "en": "(12) The five losses"
                       },
                       "span": {
-                        "start": 957145,
-                        "end": 957294
+                        "start": 947663,
+                        "end": 947812
                       }
                     },
                     {
@@ -3206,8 +3206,8 @@
                         "en": "(13) The five dangers of impatience"
                       },
                       "span": {
-                        "start": 957329,
-                        "end": 957650
+                        "start": 947812,
+                        "end": 948133
                       }
                     },
                     {
@@ -3215,8 +3215,8 @@
                         "en": "(14) The five fears"
                       },
                       "span": {
-                        "start": 957669,
-                        "end": 957865
+                        "start": 948133,
+                        "end": 948329
                       }
                     },
                     {
@@ -3224,8 +3224,8 @@
                         "en": "(15) The five doctrines of Nibbāna in this very life"
                       },
                       "span": {
-                        "start": 957917,
-                        "end": 960740
+                        "start": 948329,
+                        "end": 951152
                       }
                     }
                   ]
@@ -3235,8 +3235,8 @@
                     "en": "The Exposition of the Sixes"
                   },
                   "span": {
-                    "start": 960767,
-                    "end": 967726
+                    "start": 951152,
+                    "end": 957637
                   },
                   "subsections": [
                     {
@@ -3244,8 +3244,8 @@
                         "en": "(1) The six roots of dispute"
                       },
                       "span": {
-                        "start": 960795,
-                        "end": 960949
+                        "start": 951152,
+                        "end": 951306
                       }
                     },
                     {
@@ -3253,8 +3253,8 @@
                         "en": "(2) The six desires-and-lusts"
                       },
                       "span": {
-                        "start": 960978,
-                        "end": 961357
+                        "start": 951306,
+                        "end": 951685
                       }
                     },
                     {
@@ -3262,8 +3262,8 @@
                         "en": "(3) The six grounds of opposition"
                       },
                       "span": {
-                        "start": 961390,
-                        "end": 961863
+                        "start": 951685,
+                        "end": 952158
                       }
                     },
                     {
@@ -3271,8 +3271,8 @@
                         "en": "(4) The six classes of craving"
                       },
                       "span": {
-                        "start": 961893,
-                        "end": 962114
+                        "start": 952158,
+                        "end": 952379
                       }
                     },
                     {
@@ -3280,8 +3280,8 @@
                         "en": "(5) The six kinds of disrespect"
                       },
                       "span": {
-                        "start": 962145,
-                        "end": 962627
+                        "start": 952379,
+                        "end": 952861
                       }
                     },
                     {
@@ -3289,8 +3289,8 @@
                         "en": "(6) The six things that lead to decline"
                       },
                       "span": {
-                        "start": 962666,
-                        "end": 962891
+                        "start": 952861,
+                        "end": 953086
                       }
                     },
                     {
@@ -3298,8 +3298,8 @@
                         "en": "(7) Another six things that lead to decline"
                       },
                       "span": {
-                        "start": 962934,
-                        "end": 963156
+                        "start": 953086,
+                        "end": 953308
                       }
                     },
                     {
@@ -3307,8 +3307,8 @@
                         "en": "(8) The six explorations with joy"
                       },
                       "span": {
-                        "start": 963189,
-                        "end": 963616
+                        "start": 953308,
+                        "end": 953735
                       }
                     },
                     {
@@ -3316,8 +3316,8 @@
                         "en": "(9) The six explorations with grief"
                       },
                       "span": {
-                        "start": 963651,
-                        "end": 964086
+                        "start": 953735,
+                        "end": 954170
                       }
                     },
                     {
@@ -3325,8 +3325,8 @@
                         "en": "(10) The six explorations with equanimity"
                       },
                       "span": {
-                        "start": 964127,
-                        "end": 964582
+                        "start": 954170,
+                        "end": 954625
                       }
                     },
                     {
@@ -3334,8 +3334,8 @@
                         "en": "(11) The six kinds of household joy"
                       },
                       "span": {
-                        "start": 964617,
-                        "end": 965260
+                        "start": 954625,
+                        "end": 955268
                       }
                     },
                     {
@@ -3343,8 +3343,8 @@
                         "en": "(12) The six kinds of household grief"
                       },
                       "span": {
-                        "start": 965297,
-                        "end": 965974
+                        "start": 955268,
+                        "end": 955945
                       }
                     },
                     {
@@ -3352,8 +3352,8 @@
                         "en": "(13) The six kinds of household equanimity"
                       },
                       "span": {
-                        "start": 966016,
-                        "end": 966909
+                        "start": 955945,
+                        "end": 956838
                       }
                     },
                     {
@@ -3361,8 +3361,8 @@
                         "en": "(14) The six views"
                       },
                       "span": {
-                        "start": 966927,
-                        "end": 967726
+                        "start": 956838,
+                        "end": 957637
                       }
                     }
                   ]
@@ -3372,8 +3372,8 @@
                     "en": "The Exposition of the Sevens"
                   },
                   "span": {
-                    "start": 967754,
-                    "end": 973722
+                    "start": 957637,
+                    "end": 963424
                   },
                   "subsections": [
                     {
@@ -3381,8 +3381,8 @@
                         "en": "(1) The seven underlying tendencies"
                       },
                       "span": {
-                        "start": 967789,
-                        "end": 968150
+                        "start": 957637,
+                        "end": 957998
                       }
                     },
                     {
@@ -3390,8 +3390,8 @@
                         "en": "(2) The seven fetters"
                       },
                       "span": {
-                        "start": 968171,
-                        "end": 968413
+                        "start": 957998,
+                        "end": 958240
                       }
                     },
                     {
@@ -3399,8 +3399,8 @@
                         "en": "(3) The seven obsessions"
                       },
                       "span": {
-                        "start": 968437,
-                        "end": 968706
+                        "start": 958240,
+                        "end": 958509
                       }
                     },
                     {
@@ -3408,8 +3408,8 @@
                         "en": "(4) The seven bad qualities"
                       },
                       "span": {
-                        "start": 968733,
-                        "end": 968965
+                        "start": 958509,
+                        "end": 958741
                       }
                     },
                     {
@@ -3417,8 +3417,8 @@
                         "en": "(5) The seven kinds of misconduct"
                       },
                       "span": {
-                        "start": 968998,
-                        "end": 969215
+                        "start": 958741,
+                        "end": 958958
                       }
                     },
                     {
@@ -3426,8 +3426,8 @@
                         "en": "(6) The seven conceits"
                       },
                       "span": {
-                        "start": 969237,
-                        "end": 969444
+                        "start": 958958,
+                        "end": 959165
                       }
                     },
                     {
@@ -3435,8 +3435,8 @@
                         "en": "(7) The seven views"
                       },
                       "span": {
-                        "start": 969463,
-                        "end": 973722
+                        "start": 959165,
+                        "end": 963424
                       }
                     }
                   ]
@@ -3446,8 +3446,8 @@
                     "en": "The Exposition of the Eights"
                   },
                   "span": {
-                    "start": 973750,
-                    "end": 982265
+                    "start": 963424,
+                    "end": 971608
                   },
                   "subsections": [
                     {
@@ -3455,8 +3455,8 @@
                         "en": "(1) The eight grounds of defilement"
                       },
                       "span": {
-                        "start": 973785,
-                        "end": 973949
+                        "start": 963424,
+                        "end": 963588
                       }
                     },
                     {
@@ -3464,8 +3464,8 @@
                         "en": "(2) The eight grounds of laziness"
                       },
                       "span": {
-                        "start": 973982,
-                        "end": 976977
+                        "start": 963588,
+                        "end": 966583
                       }
                     },
                     {
@@ -3473,8 +3473,8 @@
                         "en": "(3) The mind's resistance to the eight worldly conditions"
                       },
                       "span": {
-                        "start": 977034,
-                        "end": 977335
+                        "start": 966583,
+                        "end": 966884
                       }
                     },
                     {
@@ -3482,8 +3482,8 @@
                         "en": "(4) The eight ignoble ways of speech"
                       },
                       "span": {
-                        "start": 977371,
-                        "end": 977827
+                        "start": 966884,
+                        "end": 967340
                       }
                     },
                     {
@@ -3491,8 +3491,8 @@
                         "en": "(5) The eight wrongnesses"
                       },
                       "span": {
-                        "start": 977852,
-                        "end": 978055
+                        "start": 967340,
+                        "end": 967543
                       }
                     },
                     {
@@ -3500,8 +3500,8 @@
                         "en": "(6) The eight faults of a person"
                       },
                       "span": {
-                        "start": 978087,
-                        "end": 980302
+                        "start": 967543,
+                        "end": 969758
                       }
                     },
                     {
@@ -3509,8 +3509,8 @@
                         "en": "(7) The eight doctrines of the non-percipient"
                       },
                       "span": {
-                        "start": 980347,
-                        "end": 981060
+                        "start": 969758,
+                        "end": 970471
                       }
                     },
                     {
@@ -3518,8 +3518,8 @@
                         "en": "(8) The eight doctrines of the neither-percipient-nor-non-percipient"
                       },
                       "span": {
-                        "start": 981128,
-                        "end": 982265
+                        "start": 970471,
+                        "end": 971608
                       }
                     }
                   ]
@@ -3529,8 +3529,8 @@
                     "en": "The Exposition of the Nines"
                   },
                   "span": {
-                    "start": 982292,
-                    "end": 985191
+                    "start": 971608,
+                    "end": 974315
                   },
                   "subsections": [
                     {
@@ -3538,8 +3538,8 @@
                         "en": "(1) The nine grounds of resentment"
                       },
                       "span": {
-                        "start": 982326,
-                        "end": 982749
+                        "start": 971608,
+                        "end": 972031
                       }
                     },
                     {
@@ -3547,8 +3547,8 @@
                         "en": "(2) The nine stains of a person"
                       },
                       "span": {
-                        "start": 982780,
-                        "end": 982959
+                        "start": 972031,
+                        "end": 972210
                       }
                     },
                     {
@@ -3556,8 +3556,8 @@
                         "en": "(3) The nine kinds of conceit"
                       },
                       "span": {
-                        "start": 982988,
-                        "end": 983499
+                        "start": 972210,
+                        "end": 972721
                       }
                     },
                     {
@@ -3565,8 +3565,8 @@
                         "en": "(4) The nine things rooted in craving"
                       },
                       "span": {
-                        "start": 983536,
-                        "end": 984184
+                        "start": 972721,
+                        "end": 973369
                       }
                     },
                     {
@@ -3574,8 +3574,8 @@
                         "en": "(5) The nine agitations"
                       },
                       "span": {
-                        "start": 984207,
-                        "end": 984630
+                        "start": 973369,
+                        "end": 973792
                       }
                     },
                     {
@@ -3583,8 +3583,8 @@
                         "en": "(6-9) The nine imaginings and the rest"
                       },
                       "span": {
-                        "start": 984668,
-                        "end": 985191
+                        "start": 973792,
+                        "end": 974315
                       }
                     }
                   ]
@@ -3594,8 +3594,8 @@
                     "en": "The Exposition of the Tens"
                   },
                   "span": {
-                    "start": 985217,
-                    "end": 988004
+                    "start": 974315,
+                    "end": 976879
                   },
                   "subsections": [
                     {
@@ -3603,8 +3603,8 @@
                         "en": "(1) The ten grounds of defilement"
                       },
                       "span": {
-                        "start": 985250,
-                        "end": 985446
+                        "start": 974315,
+                        "end": 974511
                       }
                     },
                     {
@@ -3612,8 +3612,8 @@
                         "en": "(2) The ten grounds of resentment"
                       },
                       "span": {
-                        "start": 985479,
-                        "end": 985936
+                        "start": 974511,
+                        "end": 974968
                       }
                     },
                     {
@@ -3621,8 +3621,8 @@
                         "en": "(3) The ten courses of unwholesome action"
                       },
                       "span": {
-                        "start": 985977,
-                        "end": 986246
+                        "start": 974968,
+                        "end": 975237
                       }
                     },
                     {
@@ -3630,8 +3630,8 @@
                         "en": "(4) The ten fetters"
                       },
                       "span": {
-                        "start": 986265,
-                        "end": 986605
+                        "start": 975237,
+                        "end": 975577
                       }
                     },
                     {
@@ -3639,8 +3639,8 @@
                         "en": "(5) The ten wrongnesses"
                       },
                       "span": {
-                        "start": 986628,
-                        "end": 986862
+                        "start": 975577,
+                        "end": 975811
                       }
                     },
                     {
@@ -3648,8 +3648,8 @@
                         "en": "(6) The wrong view with ten grounds"
                       },
                       "span": {
-                        "start": 986897,
-                        "end": 987451
+                        "start": 975811,
+                        "end": 976365
                       }
                     },
                     {
@@ -3657,8 +3657,8 @@
                         "en": "(7) The extremist view with ten grounds"
                       },
                       "span": {
-                        "start": 987490,
-                        "end": 988004
+                        "start": 976365,
+                        "end": 976879
                       }
                     }
                   ]
@@ -3668,8 +3668,8 @@
                     "en": "The Exposition of the Wanderings of Craving"
                   },
                   "span": {
-                    "start": 988047,
-                    "end": 1005578
+                    "start": 976879,
+                    "end": 994348
                   },
                   "subsections": [
                     {
@@ -3677,8 +3677,8 @@
                         "en": "(1) Concerning what is internal"
                       },
                       "span": {
-                        "start": 988078,
-                        "end": 996270
+                        "start": 976879,
+                        "end": 985071
                       }
                     },
                     {
@@ -3686,8 +3686,8 @@
                         "en": "(2) Concerning what is external"
                       },
                       "span": {
-                        "start": 996301,
-                        "end": 1005578
+                        "start": 985071,
+                        "end": 994348
                       }
                     }
                   ]
@@ -3699,8 +3699,8 @@
                 "en": "Analysis of the Heart of the Teaching"
               },
               "span": {
-                "start": 1005615,
-                "end": 1093707
+                "start": 994348,
+                "end": 1081523
               },
               "subsections": [
                 {
@@ -3708,8 +3708,8 @@
                     "en": "The Section Comprising Everything"
                   },
                   "span": {
-                    "start": 1005648,
-                    "end": 1010306
+                    "start": 994348,
+                    "end": 999006
                   }
                 },
                 {
@@ -3717,8 +3717,8 @@
                     "en": "The Section on Occurrence and Non-Occurrence"
                   },
                   "span": {
-                    "start": 1010350,
-                    "end": 1023177
+                    "start": 999006,
+                    "end": 1011744
                   },
                   "subsections": [
                     {
@@ -3726,8 +3726,8 @@
                         "en": "The Sense-Pleasure Element"
                       },
                       "span": {
-                        "start": 1010376,
-                        "end": 1014791
+                        "start": 999006,
+                        "end": 1003421
                       }
                     },
                     {
@@ -3735,8 +3735,8 @@
                         "en": "The Material-Form Element"
                       },
                       "span": {
-                        "start": 1014816,
-                        "end": 1018255
+                        "start": 1003421,
+                        "end": 1006860
                       }
                     },
                     {
@@ -3744,8 +3744,8 @@
                         "en": "The Immaterial Element"
                       },
                       "span": {
-                        "start": 1018277,
-                        "end": 1020571
+                        "start": 1006860,
+                        "end": 1009154
                       }
                     },
                     {
@@ -3753,8 +3753,8 @@
                         "en": "The Not-Included"
                       },
                       "span": {
-                        "start": 1020587,
-                        "end": 1023177
+                        "start": 1009154,
+                        "end": 1011744
                       }
                     }
                   ]
@@ -3764,8 +3764,8 @@
                     "en": "The Section on Included and Not Included"
                   },
                   "span": {
-                    "start": 1023217,
-                    "end": 1030234
+                    "start": 1011744,
+                    "end": 1018663
                   },
                   "subsections": [
                     {
@@ -3773,8 +3773,8 @@
                         "en": "The Sense-Pleasure Element"
                       },
                       "span": {
-                        "start": 1023243,
-                        "end": 1025324
+                        "start": 1011744,
+                        "end": 1013825
                       }
                     },
                     {
@@ -3782,8 +3782,8 @@
                         "en": "The Material-Form Element"
                       },
                       "span": {
-                        "start": 1025349,
-                        "end": 1027307
+                        "start": 1013825,
+                        "end": 1015783
                       }
                     },
                     {
@@ -3791,8 +3791,8 @@
                         "en": "The Immaterial Element"
                       },
                       "span": {
-                        "start": 1027329,
-                        "end": 1029194
+                        "start": 1015783,
+                        "end": 1017648
                       }
                     },
                     {
@@ -3800,8 +3800,8 @@
                         "en": "Included and Not Included"
                       },
                       "span": {
-                        "start": 1029219,
-                        "end": 1030234
+                        "start": 1017648,
+                        "end": 1018663
                       }
                     }
                   ]
@@ -3811,8 +3811,8 @@
                     "en": "The Section Showing the Things That Appear"
                   },
                   "span": {
-                    "start": 1030276,
-                    "end": 1052409
+                    "start": 1018663,
+                    "end": 1040698
                   },
                   "subsections": [
                     {
@@ -3820,8 +3820,8 @@
                         "en": "The Sense-Pleasure Element"
                       },
                       "span": {
-                        "start": 1030302,
-                        "end": 1046259
+                        "start": 1018663,
+                        "end": 1034620
                       }
                     },
                     {
@@ -3829,8 +3829,8 @@
                         "en": "The Material-Form Element"
                       },
                       "span": {
-                        "start": 1046284,
-                        "end": 1049167
+                        "start": 1034620,
+                        "end": 1037503
                       }
                     },
                     {
@@ -3838,8 +3838,8 @@
                         "en": "The Non-Percipient Beings"
                       },
                       "span": {
-                        "start": 1049192,
-                        "end": 1049802
+                        "start": 1037503,
+                        "end": 1038113
                       }
                     },
                     {
@@ -3847,8 +3847,8 @@
                         "en": "The Immaterial Element"
                       },
                       "span": {
-                        "start": 1049824,
-                        "end": 1052409
+                        "start": 1038113,
+                        "end": 1040698
                       }
                     }
                   ]
@@ -3858,8 +3858,8 @@
                     "en": "The Section Showing the Different Planes"
                   },
                   "span": {
-                    "start": 1052449,
-                    "end": 1055019
+                    "start": 1040698,
+                    "end": 1043268
                   }
                 },
                 {
@@ -3867,8 +3867,8 @@
                     "en": "The Section on Generating Action and the Measure of Life"
                   },
                   "span": {
-                    "start": 1055075,
-                    "end": 1063433
+                    "start": 1043268,
+                    "end": 1051586
                   },
                   "subsections": [
                     {
@@ -3876,8 +3876,8 @@
                         "en": "The Generating Action"
                       },
                       "span": {
-                        "start": 1055096,
-                        "end": 1056047
+                        "start": 1043268,
+                        "end": 1044219
                       }
                     },
                     {
@@ -3885,8 +3885,8 @@
                         "en": "The Measure of Life"
                       },
                       "span": {
-                        "start": 1056066,
-                        "end": 1063433
+                        "start": 1044219,
+                        "end": 1051586
                       }
                     }
                   ]
@@ -3896,8 +3896,8 @@
                     "en": "The Section on What Is to Be Directly Known and the Rest"
                   },
                   "span": {
-                    "start": 1063489,
-                    "end": 1068414
+                    "start": 1051586,
+                    "end": 1056511
                   }
                 },
                 {
@@ -3905,8 +3905,8 @@
                     "en": "The Section on Having Objects and Not Having Objects"
                   },
                   "span": {
-                    "start": 1068466,
-                    "end": 1071964
+                    "start": 1056511,
+                    "end": 1060009
                   }
                 },
                 {
@@ -3914,8 +3914,8 @@
                     "en": "The Section Showing the Seen, the Heard, and the Rest"
                   },
                   "span": {
-                    "start": 1072017,
-                    "end": 1073797
+                    "start": 1060009,
+                    "end": 1061789
                   }
                 },
                 {
@@ -3923,8 +3923,8 @@
                     "en": "The Section Showing the Triads and the Rest"
                   },
                   "span": {
-                    "start": 1073840,
-                    "end": 1093707
+                    "start": 1061789,
+                    "end": 1081523
                   },
                   "subsections": [
                     {
@@ -3932,8 +3932,8 @@
                         "en": "The Wholesome Triad"
                       },
                       "span": {
-                        "start": 1073859,
-                        "end": 1075289
+                        "start": 1061789,
+                        "end": 1063219
                       }
                     },
                     {
@@ -3941,8 +3941,8 @@
                         "en": "The Feeling Triad"
                       },
                       "span": {
-                        "start": 1075306,
-                        "end": 1080468
+                        "start": 1063219,
+                        "end": 1068381
                       }
                     },
                     {
@@ -3950,8 +3950,8 @@
                         "en": "The Result Triad"
                       },
                       "span": {
-                        "start": 1080484,
-                        "end": 1082949
+                        "start": 1068381,
+                        "end": 1070846
                       }
                     },
                     {
@@ -3959,8 +3959,8 @@
                         "en": "The Taken-Up Triad"
                       },
                       "span": {
-                        "start": 1082967,
-                        "end": 1086735
+                        "start": 1070846,
+                        "end": 1074614
                       }
                     },
                     {
@@ -3968,8 +3968,8 @@
                         "en": "The Thought Triad"
                       },
                       "span": {
-                        "start": 1086752,
-                        "end": 1090924
+                        "start": 1074614,
+                        "end": 1078786
                       }
                     },
                     {
@@ -3977,8 +3977,8 @@
                         "en": "(1) The Material-Form Pair"
                       },
                       "span": {
-                        "start": 1090950,
-                        "end": 1091864
+                        "start": 1078786,
+                        "end": 1079700
                       }
                     },
                     {
@@ -3986,8 +3986,8 @@
                         "en": "(2) The Worldly Pair"
                       },
                       "span": {
-                        "start": 1091884,
-                        "end": 1093707
+                        "start": 1079700,
+                        "end": 1081523
                       }
                     }
                   ]

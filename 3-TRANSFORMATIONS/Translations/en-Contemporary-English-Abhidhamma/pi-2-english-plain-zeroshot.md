@@ -14,7 +14,7 @@ source: https://webuddhist.com
 translation_of: Bkcft6D0nQCPZNb4Kkuf4
 text_id: cerJBx5GGK8omYyeYWmSi
 edition_id: DSHz6piqLAWwZPzL7GpkK
-toc_id: 4stP85FEHIiYMRVyPYGfO
+toc_id: r6iMjDDUCdJcwPVAx3A6A
 language: english
 ---
 

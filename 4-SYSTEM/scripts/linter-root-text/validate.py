@@ -13,6 +13,11 @@ EDITION_TYPES = frozenset({"diplomatic", "critical", "collated"})
 
 # Headers: ^n, ^n-n, ^n-n-n, ^n-n-n-… (any depth). Verses/segments: max ^n-n-n (3 parts).
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')
+# Matrix zone (block-id-spec §6): M, or M + run index (M1, M2, …)
+MATRIX_ZONE_RE = re.compile(r'^M\d*$')
+# Pre-Arabic matrix IDs: content zones MI/MII, heading segments M-I / M-II-XIV
+LEGACY_MATRIX_ZONE_RE = re.compile(r'^M[IVXLCDM]+$')
+ROMAN_RE = re.compile(r'^[IVXLCDM]+$')
 VERSE_REF_MAX_PARTS = 3
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 
@@ -270,10 +275,25 @@ def _extract_ref(lines):
     return None
 
 
+def _legacy_matrix_parts(ref, is_header):
+    """Roman parts of a matrix ID — block-id-spec §6 now numbers them in Arabic.
+
+    Content: a zone such as ``MI`` / ``MII``. Headings: Roman segments inside
+    an ``M`` subtree, e.g. ``^1-M-II-XIV-0``.
+    """
+    parts = ref.lstrip("^").split("-")
+    if is_header:
+        if "M" not in parts:
+            return []
+        return [p for p in parts[parts.index("M") + 1:] if ROMAN_RE.match(p)]
+    return [p for p in parts[:-1] if LEGACY_MATRIX_ZONE_RE.match(p)]
+
+
 def _validate_segmentation_refs(body, items):
     blocks = re.split(r'\n[ \t]*\n', body.strip())
     header_seen = {}
     segment_seen = {}
+    legacy_matrix_refs = []
     block_num = 0
     for raw in blocks:
         block = raw.strip()
@@ -296,6 +316,9 @@ def _validate_segmentation_refs(body, items):
                 f"{kind} {block_num}: reference {ref!r} has {_ref_part_count(ref)} parts; "
                 f"verses allow at most ^n-n-n ({VERSE_REF_MAX_PARTS} parts)"))
             continue
+        if _legacy_matrix_parts(ref, is_header):
+            legacy_matrix_refs.append(ref)
+
         bucket = header_seen if is_header else segment_seen
         if ref in bucket:
             items.append(("ERROR",
@@ -303,6 +326,12 @@ def _validate_segmentation_refs(body, items):
                 f"(first seen at {kind} {bucket[ref]})"))
         else:
             bucket[ref] = block_num
+
+    if legacy_matrix_refs:
+        items.append(("WARN",
+            f"matrix references: {len(legacy_matrix_refs)} still number the matrix in "
+            f"Roman (e.g. {', '.join(legacy_matrix_refs[:3])}); block-id-spec §6 now uses "
+            f"Arabic — content ^{{book}}-M{{n}}-{{N}}, headings ^{{book}}-M-{{n}}-0"))
 
 
 def _extract_headers(body):

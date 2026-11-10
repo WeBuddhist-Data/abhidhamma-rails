@@ -20,7 +20,7 @@ other_ids:
   - webuddhist_text_id: 67c3b5fe-3356-4980-a0a5-47bb9f0d2b19
 text_id: Bkcft6D0nQCPZNb4Kkuf4
 edition_id: KAoqSlcxrqMtx3VRwmnPX
-toc_id: hA8WzP3VP5RdOabDyuXmk
+toc_id: SD228hurhdmc4ZsYDXNqu
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

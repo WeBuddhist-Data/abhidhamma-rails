@@ -1,14 +1,13 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/pi-1.md",
-  "validated_at": "2026-08-20T06:10:48.349340+00:00",
+  "validated_at": "2026-11-10T11:29:30.552578+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
-    "tag_ids: not set (optional)",
     "source: source = 'https://tipitaka.org/romn/cscd/abh01m.mul.xml'",
     "toc: 148 headers found"
   ],
@@ -30,6 +29,8 @@
     "category_id": "MZUUxphQ0yFwLBon3Vng8",
     "license": "cc0",
     "contributions": null,
-    "tag_ids": null
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
   }
 }

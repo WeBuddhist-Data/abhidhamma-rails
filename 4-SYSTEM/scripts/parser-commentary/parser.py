@@ -27,6 +27,10 @@ YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')
 VERSE_REF_MAX_PARTS = 3
 ROMAN_RE = re.compile(r'^[IVXLCDM]+$')
+# Matrix zone (block-id-spec §6): M, or M + run index (M1, M2, …).
+MATRIX_ZONE_RE = re.compile(r'^M\d*$')
+# Pre-Arabic matrix zones still in the vault: MI, MII.
+LEGACY_MATRIX_ZONE_RE = re.compile(r'^M[IVXLCDM]+$')
 VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
@@ -159,25 +163,24 @@ def _infer_segment_type(ref_no_caret, doc_default):
     if ref_no_caret[0].upper() == 'T':
         return "top_segment"
     parts = ref_no_caret.split('-')
-    first = parts[0]
-    if ROMAN_RE.match(first):
-        return "front_matter"
-    # Middle (or any) Roman part → front_matter (Abhidhamma book-Roman-N)
+    # A lowercase-letter part marks a conclusion / colophon: `^1-a` (section
+    # conclusion), `^4-M-a` (inside a zone), `^a-1` (a colophon section).
     for part in parts:
         base = re.sub(r'[xX]\d+$', '', part)
-        if ROMAN_RE.match(base):
-            return "front_matter"
+        if part and not base.isdigit() and not ROMAN_RE.match(base):
+            if re.match(r'^[a-z]+$', base):
+                return "back_matter"
+    # A matrix zone marks mātikā content. The matrix is text of the work, so
+    # it is a verse; the zone only says which numbering run it belongs to.
+    for part in parts[:-1]:
+        if MATRIX_ZONE_RE.match(part) or LEGACY_MATRIX_ZONE_RE.match(part):
+            return "verse"
     # x-suffix / U-leaf stay content; commentaries use paragraph default
     if VERSE_X_RE.search(ref_no_caret):
         return doc_default
     last = parts[-1] if parts else ""
     if re.match(r'^U\d+$', re.sub(r'[xX]\d+$', '', last)):
         return doc_default
-    for part in parts:
-        base = re.sub(r'[xX]\d+$', '', part)
-        if part and not base.isdigit() and not ROMAN_RE.match(base):
-            if re.match(r'^[a-z]+$', base):
-                return "back_matter"
     return doc_default
 
 

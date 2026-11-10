@@ -5,8 +5,8 @@
         "en": "In the Abhidhamma Piṭaka"
       },
       "span": {
-        "start": 94,
-        "end": 588117
+        "start": 70,
+        "end": 584490
       },
       "subsections": [
         {
@@ -14,8 +14,8 @@
             "en": "Dhammasaṅgaṇī"
           },
           "span": {
-            "start": 107,
-            "end": 588117
+            "start": 70,
+            "end": 584490
           },
           "subsections": [
             {
@@ -23,8 +23,8 @@
                 "en": "Matrix"
               },
               "span": {
-                "start": 113,
-                "end": 13374
+                "start": 70,
+                "end": 13019
               },
               "subsections": [
                 {
@@ -32,8 +32,8 @@
                     "en": "1. Triad Matrix"
                   },
                   "span": {
-                    "start": 128,
-                    "end": 2440
+                    "start": 70,
+                    "end": 2382
                   }
                 },
                 {
@@ -41,8 +41,8 @@
                     "en": "2. Duplet Matrix"
                   },
                   "span": {
-                    "start": 2456,
-                    "end": 13374
+                    "start": 2382,
+                    "end": 13019
                   },
                   "subsections": [
                     {
@@ -50,8 +50,8 @@
                         "en": "Root Cluster"
                       },
                       "span": {
-                        "start": 2468,
-                        "end": 3004
+                        "start": 2382,
+                        "end": 2918
                       }
                     },
                     {
@@ -59,8 +59,8 @@
                         "en": "Minor Intermediate Dyad."
                       },
                       "span": {
-                        "start": 3028,
-                        "end": 3388
+                        "start": 2918,
+                        "end": 3278
                       }
                     },
                     {
@@ -68,8 +68,8 @@
                         "en": "Cluster of Taints."
                       },
                       "span": {
-                        "start": 3406,
-                        "end": 3945
+                        "start": 3278,
+                        "end": 3817
                       }
                     },
                     {
@@ -77,8 +77,8 @@
                         "en": "The Fetter Couplet."
                       },
                       "span": {
-                        "start": 3964,
-                        "end": 4489
+                        "start": 3817,
+                        "end": 4342
                       }
                     },
                     {
@@ -86,8 +86,8 @@
                         "en": "Group on Knots"
                       },
                       "span": {
-                        "start": 4503,
-                        "end": 5068
+                        "start": 4342,
+                        "end": 4907
                       }
                     },
                     {
@@ -95,8 +95,8 @@
                         "en": "Section on Floods"
                       },
                       "span": {
-                        "start": 5085,
-                        "end": 5670
+                        "start": 4907,
+                        "end": 5492
                       }
                     },
                     {
@@ -104,8 +104,8 @@
                         "en": "Section on Yokes"
                       },
                       "span": {
-                        "start": 5686,
-                        "end": 6236
+                        "start": 5492,
+                        "end": 6042
                       }
                     },
                     {
@@ -113,8 +113,8 @@
                         "en": "Group on Hindrances."
                       },
                       "span": {
-                        "start": 6256,
-                        "end": 6945
+                        "start": 6042,
+                        "end": 6731
                       }
                     },
                     {
@@ -122,8 +122,8 @@
                         "en": "The Misapprehension Group."
                       },
                       "span": {
-                        "start": 6971,
-                        "end": 7540
+                        "start": 6731,
+                        "end": 7300
                       }
                     },
                     {
@@ -131,8 +131,8 @@
                         "en": "The Great Pairs"
                       },
                       "span": {
-                        "start": 7555,
-                        "end": 8857
+                        "start": 7300,
+                        "end": 8602
                       }
                     },
                     {
@@ -140,8 +140,8 @@
                         "en": "The Group on Clinging/Grasping."
                       },
                       "span": {
-                        "start": 8888,
-                        "end": 9543
+                        "start": 8602,
+                        "end": 9257
                       }
                     },
                     {
@@ -149,8 +149,8 @@
                         "en": "The Defilement Group."
                       },
                       "span": {
-                        "start": 9564,
-                        "end": 10249
+                        "start": 9257,
+                        "end": 9942
                       }
                     },
                     {
@@ -158,8 +158,8 @@
                         "en": "Pairs of Backs/Foundations."
                       },
                       "span": {
-                        "start": 10276,
-                        "end": 11613
+                        "start": 9942,
+                        "end": 11279
                       }
                     },
                     {
@@ -167,8 +167,8 @@
                         "en": "Suttanta Pairs Matrix"
                       },
                       "span": {
-                        "start": 11634,
-                        "end": 13374
+                        "start": 11279,
+                        "end": 13019
                       }
                     }
                   ]
@@ -180,8 +180,8 @@
                 "en": "1. Chapter on the Arising of Consciousness"
               },
               "span": {
-                "start": 13416,
-                "end": 276699
+                "start": 13019,
+                "end": 274140
               },
               "subsections": [
                 {
@@ -189,8 +189,8 @@
                     "en": "Wholesome Consciousness of the Sense-Sphere"
                   },
                   "span": {
-                    "start": 13459,
-                    "end": 64685
+                    "start": 13019,
+                    "end": 64185
                   },
                   "subsections": [
                     {
@@ -198,8 +198,8 @@
                         "en": "Analysis by Terms"
                       },
                       "span": {
-                        "start": 13476,
-                        "end": 30912
+                        "start": 13019,
+                        "end": 30455
                       }
                     },
                     {
@@ -207,8 +207,8 @@
                         "en": "Section on Constituents"
                       },
                       "span": {
-                        "start": 30935,
-                        "end": 49107
+                        "start": 30455,
+                        "end": 48627
                       }
                     },
                     {
@@ -216,8 +216,8 @@
                         "en": "Section on Voidness."
                       },
                       "span": {
-                        "start": 49127,
-                        "end": 64685
+                        "start": 48627,
+                        "end": 64185
                       }
                     }
                   ]
@@ -227,8 +227,8 @@
                     "en": "Wholesome fine-material-sphere consciousness"
                   },
                   "span": {
-                    "start": 64729,
-                    "end": 118023
+                    "start": 64185,
+                    "end": 117027
                   },
                   "subsections": [
                     {
@@ -236,8 +236,8 @@
                         "en": "The fourfold method"
                       },
                       "span": {
-                        "start": 64748,
-                        "end": 71317
+                        "start": 64185,
+                        "end": 70754
                       }
                     },
                     {
@@ -245,8 +245,8 @@
                         "en": "The Fivefold System"
                       },
                       "span": {
-                        "start": 71336,
-                        "end": 77998
+                        "start": 70754,
+                        "end": 77416
                       }
                     },
                     {
@@ -254,8 +254,8 @@
                         "en": "The Four Modes of Progress."
                       },
                       "span": {
-                        "start": 78025,
-                        "end": 79902
+                        "start": 77416,
+                        "end": 79293
                       }
                     },
                     {
@@ -263,8 +263,8 @@
                         "en": "The Four Objects of Thought"
                       },
                       "span": {
-                        "start": 79929,
-                        "end": 81737
+                        "start": 79293,
+                        "end": 81101
                       }
                     },
                     {
@@ -272,8 +272,8 @@
                         "en": "Sixteenfold Combination"
                       },
                       "span": {
-                        "start": 81760,
-                        "end": 89564
+                        "start": 81101,
+                        "end": 88905
                       }
                     },
                     {
@@ -281,8 +281,8 @@
                         "en": "Eight Kasinas, Sixteenfold Combination"
                       },
                       "span": {
-                        "start": 89602,
-                        "end": 90057
+                        "start": 88905,
+                        "end": 89360
                       }
                     },
                     {
@@ -290,8 +290,8 @@
                         "en": "Limited Overcoming-Bases"
                       },
                       "span": {
-                        "start": 90081,
-                        "end": 90981
+                        "start": 89360,
+                        "end": 90260
                       }
                     },
                     {
@@ -299,8 +299,8 @@
                         "en": "Four Practices"
                       },
                       "span": {
-                        "start": 90995,
-                        "end": 93395
+                        "start": 90260,
+                        "end": 92660
                       }
                     },
                     {
@@ -308,8 +308,8 @@
                         "en": "Two objects"
                       },
                       "span": {
-                        "start": 93406,
-                        "end": 94851
+                        "start": 92660,
+                        "end": 94105
                       }
                     },
                     {
@@ -317,8 +317,8 @@
                         "en": "The Eightfold Classification"
                       },
                       "span": {
-                        "start": 94879,
-                        "end": 99189
+                        "start": 94105,
+                        "end": 98415
                       }
                     },
                     {
@@ -326,8 +326,8 @@
                         "en": "This also is the eightfold combination"
                       },
                       "span": {
-                        "start": 99227,
-                        "end": 100136
+                        "start": 98415,
+                        "end": 99324
                       }
                     },
                     {
@@ -335,8 +335,8 @@
                         "en": "Unlimited"
                       },
                       "span": {
-                        "start": 100145,
-                        "end": 100981
+                        "start": 99324,
+                        "end": 100160
                       }
                     },
                     {
@@ -344,8 +344,8 @@
                         "en": "Four Modes of Practice"
                       },
                       "span": {
-                        "start": 101003,
-                        "end": 103442
+                        "start": 100160,
+                        "end": 102599
                       }
                     },
                     {
@@ -353,8 +353,8 @@
                         "en": "Two objects."
                       },
                       "span": {
-                        "start": 103454,
-                        "end": 104900
+                        "start": 102599,
+                        "end": 104045
                       }
                     },
                     {
@@ -362,8 +362,8 @@
                         "en": "Again, Eightfold"
                       },
                       "span": {
-                        "start": 104916,
-                        "end": 109845
+                        "start": 104045,
+                        "end": 108974
                       }
                     },
                     {
@@ -371,8 +371,8 @@
                         "en": "This also is eightfold."
                       },
                       "span": {
-                        "start": 109868,
-                        "end": 111946
+                        "start": 108974,
+                        "end": 111052
                       }
                     },
                     {
@@ -380,8 +380,8 @@
                         "en": "Three Liberations, sixteenfold."
                       },
                       "span": {
-                        "start": 111977,
-                        "end": 112929
+                        "start": 111052,
+                        "end": 112004
                       }
                     },
                     {
@@ -389,8 +389,8 @@
                         "en": "Four Brahmavihāra Jhānas, sixteenfold"
                       },
                       "span": {
-                        "start": 112966,
-                        "end": 116886
+                        "start": 112004,
+                        "end": 115924
                       }
                     },
                     {
@@ -398,8 +398,8 @@
                         "en": "The foulness jhāna is sixteenfold."
                       },
                       "span": {
-                        "start": 116920,
-                        "end": 118023
+                        "start": 115924,
+                        "end": 117027
                       }
                     }
                   ]
@@ -409,8 +409,8 @@
                     "en": "Wholesome Formless-Sphere Consciousness"
                   },
                   "span": {
-                    "start": 118062,
-                    "end": 119852
+                    "start": 117027,
+                    "end": 118780
                   },
                   "subsections": [
                     {
@@ -418,8 +418,8 @@
                         "en": "The four formless jhanas, sixteenfold"
                       },
                       "span": {
-                        "start": 118099,
-                        "end": 119852
+                        "start": 117027,
+                        "end": 118780
                       }
                     }
                   ]
@@ -429,8 +429,8 @@
                     "en": "Wholesome States of the Three Planes of Existence"
                   },
                   "span": {
-                    "start": 119901,
-                    "end": 125677
+                    "start": 118780,
+                    "end": 124435
                   },
                   "subsections": [
                     {
@@ -438,8 +438,8 @@
                         "en": "Wholesome States of the Sense Sphere"
                       },
                       "span": {
-                        "start": 119937,
-                        "end": 121098
+                        "start": 118780,
+                        "end": 119941
                       }
                     },
                     {
@@ -447,8 +447,8 @@
                         "en": "Wholesome States of the Fine-Material Sphere"
                       },
                       "span": {
-                        "start": 121142,
-                        "end": 122166
+                        "start": 119941,
+                        "end": 120965
                       }
                     },
                     {
@@ -456,8 +456,8 @@
                         "en": "Wholesome States of the Immaterial Sphere"
                       },
                       "span": {
-                        "start": 122207,
-                        "end": 125677
+                        "start": 120965,
+                        "end": 124435
                       }
                     }
                   ]
@@ -467,8 +467,8 @@
                     "en": "Wholesome Supramundane Consciousness"
                   },
                   "span": {
-                    "start": 125713,
-                    "end": 162775
+                    "start": 124435,
+                    "end": 161347
                   },
                   "subsections": [
                     {
@@ -476,53 +476,53 @@
                         "en": "Pure Practice"
                       },
                       "span": {
-                        "start": 125726,
-                        "end": 150513
+                        "start": 124435,
+                        "end": 149222
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵Emptiness"
+                        "en": "Emptiness"
                       },
                       "span": {
-                        "start": 150523,
-                        "end": 151393
+                        "start": 149222,
+                        "end": 150092
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵Practice Rooted in Emptiness"
+                        "en": "Practice Rooted in Emptiness"
                       },
                       "span": {
-                        "start": 151422,
-                        "end": 153752
+                        "start": 150092,
+                        "end": 152422
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵Desireless"
+                        "en": "Desireless"
                       },
                       "span": {
-                        "start": 153763,
-                        "end": 154594
+                        "start": 152422,
+                        "end": 153253
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵Practices based on the desireless door to liberation."
+                        "en": "Practices based on the desireless door to liberation."
                       },
                       "span": {
-                        "start": 154648,
-                        "end": 157463
+                        "start": 153253,
+                        "end": 156068
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵Twenty Great Methods"
+                        "en": "Twenty Great Methods"
                       },
                       "span": {
-                        "start": 157484,
-                        "end": 158557
+                        "start": 156068,
+                        "end": 157141
                       }
                     },
                     {
@@ -530,8 +530,8 @@
                         "en": "Predominance"
                       },
                       "span": {
-                        "start": 158569,
-                        "end": 162775
+                        "start": 157141,
+                        "end": 161347
                       }
                     }
                   ]
@@ -541,8 +541,8 @@
                     "en": "Twelve unwholesome states."
                   },
                   "span": {
-                    "start": 162801,
-                    "end": 191922
+                    "start": 161347,
+                    "end": 190468
                   }
                 },
                 {
@@ -550,8 +550,8 @@
                     "en": "Indeterminate Result"
                   },
                   "span": {
-                    "start": 191942,
-                    "end": 218313
+                    "start": 190468,
+                    "end": 216517
                   },
                   "subsections": [
                     {
@@ -559,8 +559,8 @@
                         "en": "Five Resultant Wholesome Consciousnesses"
                       },
                       "span": {
-                        "start": 191982,
-                        "end": 199599
+                        "start": 190468,
+                        "end": 198085
                       }
                     },
                     {
@@ -568,8 +568,8 @@
                         "en": "Wholesome Resultant Mind-Element"
                       },
                       "span": {
-                        "start": 199631,
-                        "end": 203810
+                        "start": 198085,
+                        "end": 202264
                       }
                     },
                     {
@@ -577,8 +577,8 @@
                         "en": "Resultant wholesome mind-consciousness element accompanied by joy."
                       },
                       "span": {
-                        "start": 203876,
-                        "end": 208325
+                        "start": 202264,
+                        "end": 206713
                       }
                     },
                     {
@@ -586,8 +586,8 @@
                         "en": "Wholesome resultant mind-consciousness element accompanied by equanimity"
                       },
                       "span": {
-                        "start": 208397,
-                        "end": 212564
+                        "start": 206713,
+                        "end": 210880
                       }
                     },
                     {
@@ -595,8 +595,8 @@
                         "en": "The Eight Great Resultant Consciousnesses"
                       },
                       "span": {
-                        "start": 212605,
-                        "end": 213663
+                        "start": 210880,
+                        "end": 211938
                       }
                     },
                     {
@@ -604,8 +604,8 @@
                         "en": "Results of Fine-Material Sphere Kamma"
                       },
                       "span": {
-                        "start": 213700,
-                        "end": 214997
+                        "start": 211938,
+                        "end": 213235
                       }
                     },
                     {
@@ -613,8 +613,8 @@
                         "en": "Results of Immaterial Sphere Kamma"
                       },
                       "span": {
-                        "start": 215031,
-                        "end": 218313
+                        "start": 213235,
+                        "end": 216517
                       }
                     }
                   ]
@@ -624,8 +624,8 @@
                     "en": "Supramundane Resultant First Path-Result"
                   },
                   "span": {
-                    "start": 218353,
-                    "end": 261399
+                    "start": 216517,
+                    "end": 259316
                   },
                   "subsections": [
                     {
@@ -633,8 +633,8 @@
                         "en": "Pure Ways of Practice"
                       },
                       "span": {
-                        "start": 218374,
-                        "end": 222162
+                        "start": 216517,
+                        "end": 220305
                       }
                     },
                     {
@@ -642,8 +642,8 @@
                         "en": "Pure Emptiness"
                       },
                       "span": {
-                        "start": 222176,
-                        "end": 224671
+                        "start": 220305,
+                        "end": 222800
                       }
                     },
                     {
@@ -651,8 +651,8 @@
                         "en": "Way of Emptiness"
                       },
                       "span": {
-                        "start": 224687,
-                        "end": 228985
+                        "start": 222800,
+                        "end": 227098
                       }
                     },
                     {
@@ -660,8 +660,8 @@
                         "en": "Simple Aimless Liberation"
                       },
                       "span": {
-                        "start": 229010,
-                        "end": 231651
+                        "start": 227098,
+                        "end": 229739
                       }
                     },
                     {
@@ -669,8 +669,8 @@
                         "en": "The Way of Aimless Liberation"
                       },
                       "span": {
-                        "start": 231680,
-                        "end": 236017
+                        "start": 229739,
+                        "end": 234076
                       }
                     },
                     {
@@ -678,8 +678,8 @@
                         "en": "Twenty Great Methods."
                       },
                       "span": {
-                        "start": 236038,
-                        "end": 237308
+                        "start": 234076,
+                        "end": 235346
                       }
                     },
                     {
@@ -687,8 +687,8 @@
                         "en": "Practice with Dominance of Desire."
                       },
                       "span": {
-                        "start": 237342,
-                        "end": 242180
+                        "start": 235346,
+                        "end": 240184
                       }
                     },
                     {
@@ -696,8 +696,8 @@
                         "en": "Pure emptiness with desire as predominance"
                       },
                       "span": {
-                        "start": 242222,
-                        "end": 258995
+                        "start": 240184,
+                        "end": 256957
                       }
                     },
                     {
@@ -705,8 +705,8 @@
                         "en": "Resultant of the Second and Subsequent Paths."
                       },
                       "span": {
-                        "start": 259040,
-                        "end": 261399
+                        "start": 256957,
+                        "end": 259316
                       }
                     }
                   ]
@@ -716,8 +716,8 @@
                     "en": "Indeterminate Resultant of Unwholesome Kamma"
                   },
                   "span": {
-                    "start": 261443,
-                    "end": 266895
+                    "start": 259316,
+                    "end": 264634
                   },
                   "subsections": [
                     {
@@ -725,8 +725,8 @@
                         "en": "The Five Resultant Unwholesome Sense-Consciousnesses"
                       },
                       "span": {
-                        "start": 261495,
-                        "end": 264124
+                        "start": 259316,
+                        "end": 261945
                       }
                     },
                     {
@@ -734,8 +734,8 @@
                         "en": "Unwholesome Resultant Mind-Element"
                       },
                       "span": {
-                        "start": 264158,
-                        "end": 265447
+                        "start": 261945,
+                        "end": 263234
                       }
                     },
                     {
@@ -743,8 +743,8 @@
                         "en": "Unwholesome Resultant Mind-Consciousness Element"
                       },
                       "span": {
-                        "start": 265495,
-                        "end": 266895
+                        "start": 263234,
+                        "end": 264634
                       }
                     }
                   ]
@@ -754,8 +754,8 @@
                     "en": "Rootless Functional Undetermined States"
                   },
                   "span": {
-                    "start": 266934,
-                    "end": 276699
+                    "start": 264634,
+                    "end": 274140
                   },
                   "subsections": [
                     {
@@ -763,8 +763,8 @@
                         "en": "Functional Mind-element"
                       },
                       "span": {
-                        "start": 266957,
-                        "end": 268255
+                        "start": 264634,
+                        "end": 265932
                       }
                     },
                     {
@@ -772,8 +772,8 @@
                         "en": "Functional Mind-consciousness-element accompanied by joy"
                       },
                       "span": {
-                        "start": 268311,
-                        "end": 270915
+                        "start": 265932,
+                        "end": 268536
                       }
                     },
                     {
@@ -781,8 +781,8 @@
                         "en": "Functional Mind-Consciousness Element Accompanied by Equanimity"
                       },
                       "span": {
-                        "start": 270978,
-                        "end": 272499
+                        "start": 268536,
+                        "end": 270057
                       }
                     },
                     {
@@ -790,8 +790,8 @@
                         "en": "Rooted Sense-Sphere Functional"
                       },
                       "span": {
-                        "start": 272529,
-                        "end": 273498
+                        "start": 270057,
+                        "end": 271026
                       }
                     },
                     {
@@ -799,8 +799,8 @@
                         "en": "Fine-material Sphere Functional Consciousness"
                       },
                       "span": {
-                        "start": 273543,
-                        "end": 274395
+                        "start": 271026,
+                        "end": 271878
                       }
                     },
                     {
@@ -808,8 +808,8 @@
                         "en": "Immaterial Sphere Functional Consciousness"
                       },
                       "span": {
-                        "start": 274437,
-                        "end": 276699
+                        "start": 271878,
+                        "end": 274140
                       }
                     }
                   ]
@@ -821,8 +821,8 @@
                 "en": "2. Chapter on Form"
               },
               "span": {
-                "start": 276717,
-                "end": 402246
+                "start": 274140,
+                "end": 399329
               },
               "subsections": [
                 {
@@ -830,8 +830,8 @@
                     "en": "Summary"
                   },
                   "span": {
-                    "start": 276724,
-                    "end": 277134
+                    "start": 274140,
+                    "end": 274550
                   }
                 },
                 {
@@ -839,8 +839,8 @@
                     "en": "Matrix"
                   },
                   "span": {
-                    "start": 277140,
-                    "end": 298129
+                    "start": 274550,
+                    "end": 295433
                   },
                   "subsections": [
                     {
@@ -848,8 +848,8 @@
                         "en": "The One"
                       },
                       "span": {
-                        "start": 277147,
-                        "end": 278304
+                        "start": 274550,
+                        "end": 275707
                       }
                     },
                     {
@@ -857,8 +857,8 @@
                         "en": "The Dyads"
                       },
                       "span": {
-                        "start": 278313,
-                        "end": 283390
+                        "start": 275707,
+                        "end": 280784
                       }
                     },
                     {
@@ -866,8 +866,8 @@
                         "en": "Triads"
                       },
                       "span": {
-                        "start": 283396,
-                        "end": 293057
+                        "start": 280784,
+                        "end": 290445
                       }
                     },
                     {
@@ -875,8 +875,8 @@
                         "en": "Tetrads"
                       },
                       "span": {
-                        "start": 293064,
-                        "end": 296311
+                        "start": 290445,
+                        "end": 293692
                       }
                     },
                     {
@@ -884,8 +884,8 @@
                         "en": "The Fivefold"
                       },
                       "span": {
-                        "start": 296323,
-                        "end": 296490
+                        "start": 293692,
+                        "end": 293859
                       }
                     },
                     {
@@ -893,8 +893,8 @@
                         "en": "The Sixfold"
                       },
                       "span": {
-                        "start": 296501,
-                        "end": 296652
+                        "start": 293859,
+                        "end": 294010
                       }
                     },
                     {
@@ -902,8 +902,8 @@
                         "en": "The Sevenfold"
                       },
                       "span": {
-                        "start": 296665,
-                        "end": 296891
+                        "start": 294010,
+                        "end": 294236
                       }
                     },
                     {
@@ -911,8 +911,8 @@
                         "en": "The Eightfold"
                       },
                       "span": {
-                        "start": 296904,
-                        "end": 297170
+                        "start": 294236,
+                        "end": 294502
                       }
                     },
                     {
@@ -920,8 +920,8 @@
                         "en": "The Nonad"
                       },
                       "span": {
-                        "start": 297179,
-                        "end": 297467
+                        "start": 294502,
+                        "end": 294790
                       }
                     },
                     {
@@ -929,8 +929,8 @@
                         "en": "The Decad"
                       },
                       "span": {
-                        "start": 297476,
-                        "end": 297798
+                        "start": 294790,
+                        "end": 295112
                       }
                     },
                     {
@@ -938,8 +938,8 @@
                         "en": "Elevenfold"
                       },
                       "span": {
-                        "start": 297808,
-                        "end": 298129
+                        "start": 295112,
+                        "end": 295433
                       }
                     }
                   ]
@@ -949,8 +949,8 @@
                     "en": "Analysis of Materiality"
                   },
                   "span": {
-                    "start": 298152,
-                    "end": 402246
+                    "start": 295433,
+                    "end": 399329
                   },
                   "subsections": [
                     {
@@ -958,8 +958,8 @@
                         "en": "Section on Unities"
                       },
                       "span": {
-                        "start": 298170,
-                        "end": 299262
+                        "start": 295433,
+                        "end": 296525
                       }
                     },
                     {
@@ -967,26 +967,28 @@
                         "en": "Section on Dualities"
                       },
                       "span": {
-                        "start": 299282,
-                        "end": 299282
-                      }
-                    },
-                    {
-                      "title": {
-                        "en": "Analysis of Derived Materiality"
+                        "start": 296525,
+                        "end": 348193
                       },
-                      "span": {
-                        "start": 299313,
-                        "end": 350981
-                      }
+                      "subsections": [
+                        {
+                          "title": {
+                            "en": "Analysis of Derived Materiality"
+                          },
+                          "span": {
+                            "start": 296525,
+                            "end": 348193
+                          }
+                        }
+                      ]
                     },
                     {
                       "title": {
                         "en": "Explanation by Triads."
                       },
                       "span": {
-                        "start": 351003,
-                        "end": 376623
+                        "start": 348193,
+                        "end": 373813
                       }
                     },
                     {
@@ -994,8 +996,8 @@
                         "en": "Tetrads."
                       },
                       "span": {
-                        "start": 376631,
-                        "end": 396972
+                        "start": 373813,
+                        "end": 394154
                       }
                     },
                     {
@@ -1003,8 +1005,8 @@
                         "en": "The Pentad"
                       },
                       "span": {
-                        "start": 396982,
-                        "end": 397948
+                        "start": 394154,
+                        "end": 395120
                       }
                     },
                     {
@@ -1012,8 +1014,8 @@
                         "en": "The Hexad"
                       },
                       "span": {
-                        "start": 397957,
-                        "end": 398336
+                        "start": 395120,
+                        "end": 395499
                       }
                     },
                     {
@@ -1021,8 +1023,8 @@
                         "en": "The Sevenfold Way"
                       },
                       "span": {
-                        "start": 398353,
-                        "end": 398866
+                        "start": 395499,
+                        "end": 396012
                       }
                     },
                     {
@@ -1030,8 +1032,8 @@
                         "en": "The Eightfold Way"
                       },
                       "span": {
-                        "start": 398883,
-                        "end": 399515
+                        "start": 396012,
+                        "end": 396644
                       }
                     },
                     {
@@ -1039,8 +1041,8 @@
                         "en": "The Ninefold Group"
                       },
                       "span": {
-                        "start": 399533,
-                        "end": 400309
+                        "start": 396644,
+                        "end": 397420
                       }
                     },
                     {
@@ -1048,8 +1050,8 @@
                         "en": "The Tenfold Group"
                       },
                       "span": {
-                        "start": 400326,
-                        "end": 401382
+                        "start": 397420,
+                        "end": 398476
                       }
                     },
                     {
@@ -1057,8 +1059,8 @@
                         "en": "The Undecad"
                       },
                       "span": {
-                        "start": 401393,
-                        "end": 402246
+                        "start": 398476,
+                        "end": 399329
                       }
                     }
                   ]
@@ -1070,8 +1072,8 @@
                 "en": "3. Compendium of Categories"
               },
               "span": {
-                "start": 402273,
-                "end": 518531
+                "start": 399329,
+                "end": 515272
               },
               "subsections": [
                 {
@@ -1079,8 +1081,8 @@
                     "en": "Exposition of Triads"
                   },
                   "span": {
-                    "start": 402293,
-                    "end": 423072
+                    "start": 399329,
+                    "end": 420108
                   }
                 },
                 {
@@ -1088,8 +1090,8 @@
                     "en": "Exposition of Dyads"
                   },
                   "span": {
-                    "start": 423091,
-                    "end": 500986
+                    "start": 420108,
+                    "end": 497755
                   },
                   "subsections": [
                     {
@@ -1097,8 +1099,8 @@
                         "en": "Cluster of Roots"
                       },
                       "span": {
-                        "start": 423107,
-                        "end": 432889
+                        "start": 420108,
+                        "end": 429890
                       }
                     },
                     {
@@ -1106,8 +1108,8 @@
                         "en": "Minor Intermediate Pair"
                       },
                       "span": {
-                        "start": 432912,
-                        "end": 438598
+                        "start": 429890,
+                        "end": 435576
                       }
                     },
                     {
@@ -1115,8 +1117,8 @@
                         "en": "The Taint Group"
                       },
                       "span": {
-                        "start": 438613,
-                        "end": 443940
+                        "start": 435576,
+                        "end": 440903
                       }
                     },
                     {
@@ -1124,8 +1126,8 @@
                         "en": "Group of Fetters"
                       },
                       "span": {
-                        "start": 443956,
-                        "end": 450609
+                        "start": 440903,
+                        "end": 447556
                       }
                     },
                     {
@@ -1133,8 +1135,8 @@
                         "en": "The Bundle of Bodily Ties"
                       },
                       "span": {
-                        "start": 450634,
-                        "end": 456294
+                        "start": 447556,
+                        "end": 453216
                       }
                     },
                     {
@@ -1142,8 +1144,8 @@
                         "en": "Group of Floods"
                       },
                       "span": {
-                        "start": 456309,
-                        "end": 456430
+                        "start": 453216,
+                        "end": 453337
                       }
                     },
                     {
@@ -1151,8 +1153,8 @@
                         "en": "Group of Yokes"
                       },
                       "span": {
-                        "start": 456444,
-                        "end": 456561
+                        "start": 453337,
+                        "end": 453454
                       }
                     },
                     {
@@ -1160,8 +1162,8 @@
                         "en": "Group of Hindrances"
                       },
                       "span": {
-                        "start": 456580,
-                        "end": 465253
+                        "start": 453454,
+                        "end": 462127
                       }
                     },
                     {
@@ -1169,8 +1171,8 @@
                         "en": "Cluster on Misapprehension"
                       },
                       "span": {
-                        "start": 465279,
-                        "end": 468433
+                        "start": 462127,
+                        "end": 465281
                       }
                     },
                     {
@@ -1178,8 +1180,8 @@
                         "en": "Great Pair"
                       },
                       "span": {
-                        "start": 468443,
-                        "end": 474096
+                        "start": 465281,
+                        "end": 470934
                       }
                     },
                     {
@@ -1187,8 +1189,8 @@
                         "en": "Section on Clinging"
                       },
                       "span": {
-                        "start": 474115,
-                        "end": 480194
+                        "start": 470934,
+                        "end": 477013
                       }
                     },
                     {
@@ -1196,17 +1198,17 @@
                         "en": "Cluster of Defilements"
                       },
                       "span": {
-                        "start": 480216,
-                        "end": 487486
+                        "start": 477013,
+                        "end": 484283
                       }
                     },
                     {
                       "title": {
-                        "en": "⤵The Section on Abandonment."
+                        "en": "The Section on Abandonment."
                       },
                       "span": {
-                        "start": 487514,
-                        "end": 500986
+                        "start": 484283,
+                        "end": 497755
                       }
                     }
                   ]
@@ -1216,8 +1218,8 @@
                     "en": "Exposition of Suttanta Dyads"
                   },
                   "span": {
-                    "start": 501014,
-                    "end": 518531
+                    "start": 497755,
+                    "end": 515272
                   }
                 }
               ]
@@ -1227,8 +1229,8 @@
                 "en": "4. Commentary Section"
               },
               "span": {
-                "start": 518552,
-                "end": 588117
+                "start": 515272,
+                "end": 584490
               },
               "subsections": [
                 {
@@ -1236,8 +1238,8 @@
                     "en": "Elucidation of the Tika Meanings"
                   },
                   "span": {
-                    "start": 518584,
-                    "end": 537043
+                    "start": 515272,
+                    "end": 533731
                   }
                 },
                 {
@@ -1245,8 +1247,8 @@
                     "en": "Elucidation of Dyads"
                   },
                   "span": {
-                    "start": 537063,
-                    "end": 588117
+                    "start": 533731,
+                    "end": 584490
                   },
                   "subsections": [
                     {
@@ -1254,8 +1256,8 @@
                         "en": "Chapter on Roots"
                       },
                       "span": {
-                        "start": 537079,
-                        "end": 542076
+                        "start": 533731,
+                        "end": 538728
                       }
                     },
                     {
@@ -1263,8 +1265,8 @@
                         "en": "Minor Intermediate Dyad"
                       },
                       "span": {
-                        "start": 542099,
-                        "end": 544168
+                        "start": 538728,
+                        "end": 540797
                       }
                     },
                     {
@@ -1272,8 +1274,8 @@
                         "en": "The Section on Taints"
                       },
                       "span": {
-                        "start": 544189,
-                        "end": 547709
+                        "start": 540797,
+                        "end": 544317
                       }
                     },
                     {
@@ -1281,8 +1283,8 @@
                         "en": "Saṃyojanagocchakaṃ"
                       },
                       "span": {
-                        "start": 547727,
-                        "end": 551589
+                        "start": 544317,
+                        "end": 548179
                       }
                     },
                     {
@@ -1290,8 +1292,8 @@
                         "en": "Group of Bodily Ties"
                       },
                       "span": {
-                        "start": 551609,
-                        "end": 555271
+                        "start": 548179,
+                        "end": 551841
                       }
                     },
                     {
@@ -1299,8 +1301,8 @@
                         "en": "The Floods Group"
                       },
                       "span": {
-                        "start": 555287,
-                        "end": 555334
+                        "start": 551841,
+                        "end": 551888
                       }
                     },
                     {
@@ -1308,8 +1310,8 @@
                         "en": "The Yokes Group"
                       },
                       "span": {
-                        "start": 555349,
-                        "end": 555395
+                        "start": 551888,
+                        "end": 551934
                       }
                     },
                     {
@@ -1317,8 +1319,8 @@
                         "en": "The Hindrances Group"
                       },
                       "span": {
-                        "start": 555415,
-                        "end": 559177
+                        "start": 551934,
+                        "end": 555696
                       }
                     },
                     {
@@ -1326,8 +1328,8 @@
                         "en": "Group concerning Misapprehension/Clinging"
                       },
                       "span": {
-                        "start": 559218,
-                        "end": 562095
+                        "start": 555696,
+                        "end": 558573
                       }
                     },
                     {
@@ -1335,8 +1337,8 @@
                         "en": "Mahantaradukaṃ"
                       },
                       "span": {
-                        "start": 562109,
-                        "end": 567525
+                        "start": 558573,
+                        "end": 563989
                       }
                     },
                     {
@@ -1344,8 +1346,8 @@
                         "en": "Upādānagocchakaṃ (The Section on Clinging)"
                       },
                       "span": {
-                        "start": 567567,
-                        "end": 571498
+                        "start": 563989,
+                        "end": 567920
                       }
                     },
                     {
@@ -1353,8 +1355,8 @@
                         "en": "The Section on Defilements"
                       },
                       "span": {
-                        "start": 571524,
-                        "end": 575376
+                        "start": 567920,
+                        "end": 571772
                       }
                     },
                     {
@@ -1362,8 +1364,8 @@
                         "en": "The Pair of Eradication"
                       },
                       "span": {
-                        "start": 575399,
-                        "end": 588117
+                        "start": 571772,
+                        "end": 584490
                       }
                     }
                   ]

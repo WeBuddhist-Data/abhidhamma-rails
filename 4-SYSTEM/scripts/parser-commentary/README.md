@@ -69,6 +69,7 @@ python3 4-SYSTEM\scripts\parser-commentary\parser.py "1-SOURCES\Commentaries\pi-
 - Header refs may have any depth; content refs max `^n-n-n` (3 parts)
 - Pure transclusion blocks (`![[...]]` only) are silently skipped from edition content — they feed alignment only
 - Tibetan TOC titles in Wylie are auto-converted to Unicode
+- Segment types come from the block ID: `^T-{n}` is `top_segment`, a matrix zone (`M`, `M1`, `M2`, and the older `MI`/`MII`) is `verse` per block-id-spec §6 — never `front_matter` — and everything else falls to the document default
 - Cleaned before parsing (the source file is never modified): `<small>…</small>` tags are dropped and the gloss text kept; non-breaking spaces become ordinary spaces
 - A line of zero-width characters only counts as blank, so it does not split a block. The block is kept whole and a warning says its parts may each need their own block ID
 - Headings deeper than level 6 (7 or more `#`) have `**` stripped from the TOC title, since Obsidian renders only six levels and people bold those to look like headings. Bold on levels 1–6 is left alone
