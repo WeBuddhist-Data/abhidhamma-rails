@@ -78,6 +78,14 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
   - vīriya (उत्साह) vs padhāna / vāyāma (प्रयत्न).
 - samudaya = उत्पत्ती. yoni = जन्माचा प्रकार, distinct from saṃsāra = जन्म-मृत्यूचे चक्र.
 
+### pi-4 additions (approved with the pi-4 run, 2026-11-10; full list in AI_translation/marathi/pi-4-pali-marathi-termbase-plain.md)
+- paññatti = वर्णन (व्यक्तींचे वर्णन, समूहांचे वर्णन).
+- Atthekacco puggalo = एखादी व्यक्ती अशी असते जी …; Idhekacco puggalo = इथे एखादी व्यक्ती …
+- sekkha / asekkha = अजून शिकत असलेला / शिकणे पूर्ण झालेला (as pi-3).
+- vippaṭisāra = पस्तावा, distinct from kukkucca = पश्चात्ताप.
+- saṅkhāra as exertion (asaṅkhāra-, sasaṅkhāraparinibbāyī) = प्रयास, distinct from padhāna / vāyāma = प्रयत्न and uṭṭhāna = परिश्रम.
+- hiri / ottappa = लज्जा / वाईट कृत्याची भीती; sīla = सदाचार; diṭṭhi = दृष्टी.
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md
