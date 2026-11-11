@@ -2,133 +2,133 @@
 
 #### Suttantabhājanīyaṃ ^2-9-1-0
 
-431. Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-431
+Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-431
 
 ##### Chandiddhipādo ^2-9-1-1-0
 
-432. Kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Chandaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ, labhati cittassekaggataṃ [cittassa ekaggataṃ (sī. syā.)] – ayaṃ vuccati "chandasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca chandasamādhi, ime ca padhānasaṅkhārā. Tadekajjhaṃ abhisaññahitvā abhisaṅkhipitvā chandasamādhipadhānasaṅkhārotveva saṅkhyaṃ [saṅkhaṃ (sī.)] gacchati. ^2-432
+Kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Chandaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ, labhati cittassekaggataṃ [cittassa ekaggataṃ (sī. syā.)] – ayaṃ vuccati "chandasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca chandasamādhi, ime ca padhānasaṅkhārā. Tadekajjhaṃ abhisaññahitvā abhisaṅkhipitvā chandasamādhipadhānasaṅkhārotveva saṅkhyaṃ [saṅkhaṃ (sī.)] gacchati. ^2-432
 
-433. Tattha katamo chando? Yo chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chando".
+Tattha katamo chando? Yo chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chando".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo ṭhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca chandena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti samupeto upāgato samupāgato upapanno sampanno samannāgato. Tena vuccati "chandasamādhipadhānasaṅkhārasamannāgato"ti. ^2-433
 
-434. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 "Iddhipādo"ti. Tathābhūtassa vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho.
 "Iddhipādaṃ bhāvetī"ti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-434
 
 ##### Vīriyiddhipādo ^2-9-1-2-0
 
-435. Kathañca bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Vīriyaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "vīriyasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca vīriyasamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā vīriyasamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-435
+Kathañca bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Vīriyaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "vīriyasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca vīriyasamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā vīriyasamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-435
 
-436. Tattha katamaṃ vīriyaṃ? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – idaṃ vuccati "vīriyaṃ".
+Tattha katamaṃ vīriyaṃ? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – idaṃ vuccati "vīriyaṃ".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca vīriyena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "vīriyasamādhipadhānasaṅkhārasamannāgato"ti. ^2-436
 
-437. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa vedanākkhandho…pe… viññāṇakkhandho.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-437
 
 ##### Cittiddhipādo ^2-9-1-3-0
 
-438. Kathañca bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Cittaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "cittasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca cittasamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā cittasamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-438
+Kathañca bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Cittaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "cittasamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca cittasamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā cittasamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-438
 
-439. Tattha katamaṃ cittaṃ? Yaṃ cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – idaṃ vuccati "cittaṃ".
+Tattha katamaṃ cittaṃ? Yaṃ cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – idaṃ vuccati "cittaṃ".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca cittena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "cittasamādhipadhānasaṅkhārasamannāgato"ti. ^2-439
 
-440. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa vedanākkhandho…pe… viññāṇakkhandho.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-440
 
 ##### Vīmaṃsiddhipādo ^2-9-1-4-0
 
-441. Kathañca bhikkhu vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Vīmaṃsaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "vīmaṃsāsamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca vīmaṃsāsamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā vīmaṃsāsamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-441
+Kathañca bhikkhu vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Vīmaṃsaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ – ayaṃ vuccati "vīmaṃsāsamādhi". So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya…pe… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya…pe… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ime vuccanti "padhānasaṅkhārā". Iti ayañca vīmaṃsāsamādhi, ime ca padhānasaṅkhārā; tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā vīmaṃsāsamādhipadhānasaṅkhārotveva saṅkhyaṃ gacchati. ^2-441
 
-442. Tattha katamā vīmaṃsā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati "vīmaṃsā".
+Tattha katamā vīmaṃsā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati "vīmaṃsā".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho …pe… sammāvāyāmo – ayaṃ vuccati "padhānasaṅkhāro". Iti imāya ca vīmaṃsāya, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "vīmaṃsāsamādhipadhānasaṅkhārasamannāgato"ti. ^2-442
 
-443. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakhandho.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti.
 Suttantabhājanīyaṃ. ^2-443
 
 #### Abhidhammabhājanīyaṃ ^2-9-2-0
 
-444. Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-444
+Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-444
 
 ##### Chandiddhipādo ^2-9-2-1-0
 
-445. Kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-445
+Kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-445
 
-446. Tattha katamo chando? Yo chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chando".
+Tattha katamo chando? Yo chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chando".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca chandena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "chandasamādhipadhānasaṅkhārasamannāgato"ti. ^2-446
 
-447. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa phasso…pe… paggāho avikkhepo.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-447
 
 ##### Vīriyiddhipādo ^2-9-2-2-0
 
-448. Kathañca bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-448
+Kathañca bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-448
 
-449. Tattha katamaṃ vīriyaṃ? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ vuccati "vīriyaṃ".
+Tattha katamaṃ vīriyaṃ? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ vuccati "vīriyaṃ".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca vīriyena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "vīriyasamādhipadhānasaṅkhārasamannāgato"ti. ^2-449
 
-450. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtasa phasso…pe… paggāho avikkhepo.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-450
 
 ##### Cittiddhipādo ^2-9-2-3-0
 
-451. Kathañca bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-451
+Kathañca bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-451
 
-452. Tattha katamaṃ cittaṃ? Yaṃ cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – idaṃ vuccati "cittaṃ".
+Tattha katamaṃ cittaṃ? Yaṃ cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – idaṃ vuccati "cittaṃ".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "padhānasaṅkhāro". Iti iminā ca cittena, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti…pe… samannāgato. Tena vuccati "cittasamādhipadhānasaṅkhārasamannāgato"ti. ^2-452
 
-453. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa phasso…pe… paggāho avikkhepo.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-453
 
 ##### Vīmaṃsiddhipādo ^2-9-2-4-0
 
-454. Kathañca bhikkhu vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-454
+Kathañca bhikkhu vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-454
 
-455. Tattha katamā vīmaṃsā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "vīmaṃsā".
+Tattha katamā vīmaṃsā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "vīmaṃsā".
 Tattha katamo samādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "samādhi".
 Tattha katamo padhānasaṅkhāro? Yo cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "padhānasaṅkhāro". Iti imāya ca vīmaṃsāya, iminā ca samādhinā, iminā ca padhānasaṅkhārena upeto hoti samupeto upāgato samupāgato upapanno sampanno samannāgato. Tena vuccati "vīmaṃsāsamādhipadhānasaṅkhārasamannāgato"ti ^2-455
 
-456. Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
+Iddhīti. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā.
 Iddhipādoti. Tathābhūtassa phasso…pe… paggāho avikkhepo.
 Iddhipādaṃ bhāvetīti. Te dhamme āsevati bhāveti bahulīkaroti. Tena vuccati "iddhipādaṃ bhāvetī"ti. ^2-456
 
-457. Cattāro iddhipādā – chandiddhipādo, vīriyiddhipādo, cittiddhipādo, vīmaṃsiddhipādo. ^2-457
+Cattāro iddhipādā – chandiddhipādo, vīriyiddhipādo, cittiddhipādo, vīmaṃsiddhipādo. ^2-457
 
-458. Tattha katamo chandiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yo tasmiṃ samaye chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chandiddhipādo". Avasesā dhammā chandiddhipādasampayuttā. ^2-458
+Tattha katamo chandiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yo tasmiṃ samaye chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati "chandiddhipādo". Avasesā dhammā chandiddhipādasampayuttā. ^2-458
 
-459. Tattha katamo vīriyiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yo tasmiṃ samaye cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggariyāpannaṃ – ayaṃ vuccati "vīriyiddhipādo". Avasesā dhammā vīriyiddhipādasampayuttā. ^2-459
+Tattha katamo vīriyiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yo tasmiṃ samaye cetasiko vīriyārambho…pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggariyāpannaṃ – ayaṃ vuccati "vīriyiddhipādo". Avasesā dhammā vīriyiddhipādasampayuttā. ^2-459
 
-460. Tattha katamo cittiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi …pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – ayaṃ vuccati "cittiddhipādo". Avasesā dhammā cittiddhipādasampayuttā. ^2-460
+Tattha katamo cittiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi …pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – ayaṃ vuccati "cittiddhipādo". Avasesā dhammā cittiddhipādasampayuttā. ^2-460
 
-461. Tattha katamo vīmaṃsiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yā tasmiṃ samaye paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "vīmaṃsiddhipādo". Avasesā dhammā vīmaṃsiddhipādasampayuttā.
+Tattha katamo vīmaṃsiddhipādo? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, yā tasmiṃ samaye paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "vīmaṃsiddhipādo". Avasesā dhammā vīmaṃsiddhipādasampayuttā.
 Abhidhammabhājanīyaṃ. ^2-461
 
 #### Pañhāpucchakaṃ ^2-9-3-0
 
-462. Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi…pe… cittasamādhi…pe… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-462
+Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi…pe… cittasamādhi…pe… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. ^2-462
 
-463. Catunnaṃ iddhipādānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-463
+Catunnaṃ iddhipādānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-463
 
 ##### Tikaṃ ^2-9-3-1-0
 
-464. Kusalāyeva. Siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Vipākadhammadhammā. Anupādinnaanupādāniyā. Asaṃkiliṭṭhaasaṃkilesikā. Siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā. Siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā. Neva dassanena na bhāvanāya pahātabbā. Neva dassanena na bhāvanāya pahātabbahetukā. Apacayagāmino. Sekkhā. Appamāṇā. Appamāṇārammaṇā. Paṇītā. Sammattaniyatā. Na maggārammaṇā, maggahetukā, na maggādhipatino. Siyā uppannā, siyā anuppannā, na vattabbā uppādinoti. Siyā atītā, siyā anāgatā, siyā paccuppannā. Na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Bahiddhārammaṇā. Anidassanaappaṭighā. ^2-464
+Kusalāyeva. Siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Vipākadhammadhammā. Anupādinnaanupādāniyā. Asaṃkiliṭṭhaasaṃkilesikā. Siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā. Siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā. Neva dassanena na bhāvanāya pahātabbā. Neva dassanena na bhāvanāya pahātabbahetukā. Apacayagāmino. Sekkhā. Appamāṇā. Appamāṇārammaṇā. Paṇītā. Sammattaniyatā. Na maggārammaṇā, maggahetukā, na maggādhipatino. Siyā uppannā, siyā anuppannā, na vattabbā uppādinoti. Siyā atītā, siyā anāgatā, siyā paccuppannā. Na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Bahiddhārammaṇā. Anidassanaappaṭighā. ^2-464
 
 ##### Dukaṃ ^2-9-3-2-0
 
-465. Vīmaṃsiddhipādo hetu, tayo iddhipādā na hetū. Sahetukā. Hetusampayuttā. Vīmaṃsiddhipādo hetu ceva sahetuko ca, tayo iddhipādā na vattabbā hetū ceva sahetukā cāti, sahetukā ceva na ca hetū. Vīmaṃsiddhipādo hetu ceva hetusampayutto ca, tayo iddhipādā na vattabbā hetū ceva hetusampayuttā cāti, hetusampayuttā ceva na ca hetū. Tayo iddhipādā na hetū sahetukā, vīmaṃsiddhipādo na vattabbo na hetu sahetukotipi, na hetu ahetukotipi. Sappaccayā. Saṅkhatā. Anidassanā. Appaṭighā. Arūpā. Lokuttarā. Kenaci viññeyyā, kenaci na viññeyyā. No āsavā. Anāsavā. Āsavavippayuttā. Na vattabbā āsavā ceva sāsavā cātipi, sāsavā ceva no ca āsavātipi. Na vattabbā āsavā ceva āsavasampayuttā cātipi, āsavasampayuttā ceva no ca āsavātipi. Āsavavippayuttā. Anāsavā.
+Vīmaṃsiddhipādo hetu, tayo iddhipādā na hetū. Sahetukā. Hetusampayuttā. Vīmaṃsiddhipādo hetu ceva sahetuko ca, tayo iddhipādā na vattabbā hetū ceva sahetukā cāti, sahetukā ceva na ca hetū. Vīmaṃsiddhipādo hetu ceva hetusampayutto ca, tayo iddhipādā na vattabbā hetū ceva hetusampayuttā cāti, hetusampayuttā ceva na ca hetū. Tayo iddhipādā na hetū sahetukā, vīmaṃsiddhipādo na vattabbo na hetu sahetukotipi, na hetu ahetukotipi. Sappaccayā. Saṅkhatā. Anidassanā. Appaṭighā. Arūpā. Lokuttarā. Kenaci viññeyyā, kenaci na viññeyyā. No āsavā. Anāsavā. Āsavavippayuttā. Na vattabbā āsavā ceva sāsavā cātipi, sāsavā ceva no ca āsavātipi. Na vattabbā āsavā ceva āsavasampayuttā cātipi, āsavasampayuttā ceva no ca āsavātipi. Āsavavippayuttā. Anāsavā.
 No saṃyojanā…pe… no ganthā…pe… no oghā…pe… no yogā…pe… no nīvaraṇā…pe… no parāmāsā…pe… sārammaṇā. Tayo iddhipādā no cittā, cittiddhipādo cittaṃ. Tayo iddhipādā cetasikā, cittiddhipādo acetasiko. Tayo iddhipādā cittasampayuttā, cittiddhipādo na vattabbo cittena sampayuttotipi, cittena vippayuttotipi. Tayo iddhipādā cittasaṃsaṭṭhā, cittiddhipādo na vattabbo cittena saṃsaṭṭhotipi, cittena visaṃsaṭṭhotipi. Tayo iddhipādā cittasamuṭṭhānā, cittiddhipādo no cittasamuṭṭhāno. Tayo iddhipādā cittasahabhuno, cittiddhipādo no cittasahabhū. Tayo iddhipādā cittānuparivattino, cittiddhipādo no cittānuparivatti. Tayo iddhipādā cittasaṃsaṭṭhasamuṭṭhānā, cittiddhipādo no cittasaṃsaṭṭhasamuṭṭhāno. Tayo iddhipādā cittasaṃsaṭṭhasamuṭṭhānasahabhuno, cittiddhipādo no cittasaṃsaṭṭhasamuṭṭhānasahabhū. Tayo iddhipādā cittasaṃsaṭṭhasamuṭṭhānānuparivattino, cittiddhipādo no cittasaṃsaṭṭhasamuṭṭhānānuparivatti.
 Tayo iddhipādā bāhirā, cittiddhipādo ajjhattiko. No upādā. Anupādinnā. No upādānā…pe… no kilesā…pe… na dassanena pahātabbā. Na bhāvanāya pahātabbā. Na dassanena pahātabbahetukā. Na bhāvanāya pahātabbahetukā. Siyā savitakkā, siyā avitakkā. Siyā savicārā, siyā avicārā. Siyā sappītikā, siyā appītikā. Siyā pītisahagatā, siyā na pītisahagatā. Siyā sukhasahagatā, siyā na sukhasahagatā. Siyā upekkhāsahagatā, siyā na upekkhāsahagatā. Na kāmāvacarā. Na rūpāvacarā. Na arūpāvacarā. Apariyāpannā. Niyyānikā. Niyatā. Anuttarā. Araṇāti.
 Pañhāpucchakaṃ.

@@ -1,5 +1,5 @@
-Namo tassa bhagavato arahato sammāsambuddhassa
+Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
-# Abhidhammapiṭake ^abhidhamma-0
+# Abhidhammapiṭake ^0
 
 ## Vibhaṅgapāḷi ^2-0

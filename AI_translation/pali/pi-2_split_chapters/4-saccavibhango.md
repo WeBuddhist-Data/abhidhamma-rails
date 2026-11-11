@@ -2,41 +2,41 @@
 
 #### Suttantabhājanīyaṃ ^2-4-1-0
 
-189. Cattāri ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ [dukkhasamudayo (syā.)] ariyasaccaṃ, dukkhanirodhaṃ [dukkhanirodho (syā.)] ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ. ^2-189
+Cattāri ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ [dukkhasamudayo (syā.)] ariyasaccaṃ, dukkhanirodhaṃ [dukkhanirodho (syā.)] ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ. ^2-189
 
 ##### Dukkhasaccaṃ ^2-4-1-1-0
 
-190. Tattha katamaṃ dukkhaṃ ariyasaccaṃ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yaṃ picchaṃ na labhati tampi dukkhaṃ, saṃkhittena pañcupādānakkhandhā dukkhā. ^2-190
+Tattha katamaṃ dukkhaṃ ariyasaccaṃ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yaṃ picchaṃ na labhati tampi dukkhaṃ, saṃkhittena pañcupādānakkhandhā dukkhā. ^2-190
 
-191. Tattha katamā jāti? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho – ayaṃ vuccati "jāti". ^2-191
+Tattha katamā jāti? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho – ayaṃ vuccati "jāti". ^2-191
 
-192. Tattha katamā jarā? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – ayaṃ vuccati "jarā". ^2-192
+Tattha katamā jarā? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – ayaṃ vuccati "jarā". ^2-192
 
-193. Tattha katamaṃ maraṇaṃ? Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo – idaṃ vuccati "maraṇaṃ". ^2-193
+Tattha katamaṃ maraṇaṃ? Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo – idaṃ vuccati "maraṇaṃ". ^2-193
 
-194. Tattha katamo soko? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṃ antosoko antoparisoko cetaso parijjhāyanā domanassaṃ sokasallaṃ – ayaṃ vuccati "soko". ^2-194
+Tattha katamo soko? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṃ antosoko antoparisoko cetaso parijjhāyanā domanassaṃ sokasallaṃ – ayaṃ vuccati "soko". ^2-194
 
-195. Tattha katamo paridevo? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṃ paridevitattaṃ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṃ [lālapo lālapanā lālapitattaṃ (syā.)] – ayaṃ vuccati "paridevo". ^2-195
+Tattha katamo paridevo? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṃ paridevitattaṃ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṃ [lālapo lālapanā lālapitattaṃ (syā.)] – ayaṃ vuccati "paridevo". ^2-195
 
-196. Tattha katamaṃ dukkhaṃ? Yaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ vuccati "dukkhaṃ". ^2-196
+Tattha katamaṃ dukkhaṃ? Yaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ vuccati "dukkhaṃ". ^2-196
 
-197. Tattha katamaṃ domanassaṃ? Yaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ vuccati "domanassaṃ". ^2-197
+Tattha katamaṃ domanassaṃ? Yaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ vuccati "domanassaṃ". ^2-197
 
-198. Tattha katamo upāyāso? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṃ upāyāsitattaṃ – ayaṃ vuccati "upāyāso". ^2-198
+Tattha katamo upāyāso? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṃ upāyāsitattaṃ – ayaṃ vuccati "upāyāso". ^2-198
 
-199. Tattha katamo appiyehi sampayogo dukkho? Idha yassa te honti aniṭṭhā akantā amanāpā rūpā saddā gandhā rasā phoṭṭhabbā, ye vā panassa te honti anatthakāmā ahitakāmā aphāsukakāmā ayogakkhemakāmā; yā tehi saṅgati samāgamo samodhānaṃ missībhāvo – ayaṃ vuccati "appiyehi sampayogo dukkho". ^2-199
+Tattha katamo appiyehi sampayogo dukkho? Idha yassa te honti aniṭṭhā akantā amanāpā rūpā saddā gandhā rasā phoṭṭhabbā, ye vā panassa te honti anatthakāmā ahitakāmā aphāsukakāmā ayogakkhemakāmā; yā tehi saṅgati samāgamo samodhānaṃ missībhāvo – ayaṃ vuccati "appiyehi sampayogo dukkho". ^2-199
 
-200. Tattha katamo piyehi vippayogo dukkho? Idha yassa te honti iṭṭhā kantā manāpā rūpā saddā gandhā rasā phoṭṭhabbā, ye vā panassa te honti atthakāmā hitakāmā phāsukakāmā yogakkhemakāmā mātā vā pitā vā bhātā vā bhaginī vā mittā vā amaccā vā ñātī vā sālohitā vā; yā tehi asaṅgati asamāgamo asamodhānaṃ amissībhāvo – ayaṃ vuccati "piyehi vippayogo dukkho". ^2-200
+Tattha katamo piyehi vippayogo dukkho? Idha yassa te honti iṭṭhā kantā manāpā rūpā saddā gandhā rasā phoṭṭhabbā, ye vā panassa te honti atthakāmā hitakāmā phāsukakāmā yogakkhemakāmā mātā vā pitā vā bhātā vā bhaginī vā mittā vā amaccā vā ñātī vā sālohitā vā; yā tehi asaṅgati asamāgamo asamodhānaṃ amissībhāvo – ayaṃ vuccati "piyehi vippayogo dukkho". ^2-200
 
-201. Tattha katamaṃ yampicchaṃ na labhati tampi dukkhaṃ? Jātidhammānaṃ sattānaṃ evaṃ icchā uppajjati – "aho vata, mayaṃ na jātidhammā assāma; na ca, vata, no jāti āgaccheyyā"ti! Na kho panetaṃ icchāya pattabbaṃ. Idampi "yampicchaṃ na labhati tampi dukkhaṃ".
+Tattha katamaṃ yampicchaṃ na labhati tampi dukkhaṃ? Jātidhammānaṃ sattānaṃ evaṃ icchā uppajjati – "aho vata, mayaṃ na jātidhammā assāma; na ca, vata, no jāti āgaccheyyā"ti! Na kho panetaṃ icchāya pattabbaṃ. Idampi "yampicchaṃ na labhati tampi dukkhaṃ".
 Jarādhammānaṃ sattānaṃ…pe… byādhidhammānaṃ sattānaṃ…pe… maraṇadhammānaṃ sattānaṃ…pe… sokaparidevadukkhadomanassupāyāsadhammānaṃ sattānaṃ evaṃ icchā uppajjati – "aho vata, mayaṃ na sokaparidevadukkhadomanassupāyāsadhammā assāma; na ca, vata, no sokaparidevadukkhadomanassupāyāsā āgaccheyyu"nti! Na kho panetaṃ icchāya pattabbaṃ. Idampi "yampicchaṃ na labhati tampi dukkhaṃ". ^2-201
 
-202. Tattha katame saṃkhittena pañcupādānakkhandhā dukkhā? Seyyathidaṃ – rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime vuccanti "saṃkhittena pañcupādānakkhandhā dukkhā".
+Tattha katame saṃkhittena pañcupādānakkhandhā dukkhā? Seyyathidaṃ – rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime vuccanti "saṃkhittena pañcupādānakkhandhā dukkhā".
 Idaṃ vuccati "dukkhaṃ ariyasaccaṃ". ^2-202
 
 ##### Samudayasaccaṃ ^2-4-1-2-0
 
-203. Tattha katamaṃ dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobhavikā [ponobbhavikā (syā. ka.)] nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ – kāmataṇhā, bhavataṇhā, vibhavataṇhā.
+Tattha katamaṃ dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobhavikā [ponobbhavikā (syā. ka.)] nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ – kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 Sā kho panesā taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? Yaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 Kiñca loke piyarūpaṃ sātarūpaṃ? Cakkhuṃ loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṃ loke…pe… ghānaṃ loke… jivhā loke… kāyo loke… mano loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 Rūpā loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddā loke…pe… gandhā loke… rasā loke… phoṭṭhabbā loke… dhammā loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
@@ -52,7 +52,7 @@ Idaṃ vuccati "dukkhasamudayaṃ ariyasaccaṃ". ^2-203
 
 ##### Nirodhasaccaṃ ^2-4-1-3-0
 
-204. Tattha katamaṃ dukkhanirodhaṃ ariyasaccaṃ? Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
+Tattha katamaṃ dukkhanirodhaṃ ariyasaccaṃ? Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
 Sā kho panesā taṇhā kattha pahīyamānā pahīyati, kattha nirujjhamānā nirujjhati? Yaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 Kiñca loke piyarūpaṃ sātarūpaṃ? Cakkhuṃ loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaṃ loke…pe… ghānaṃ loke… jivhā loke… kāyo loke… mano loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 Rūpā loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddā loke…pe… gandhā loke… rasā loke… phoṭṭhabbā loke… dhammā loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
@@ -68,7 +68,7 @@ Idaṃ vuccati "dukkhanirodhaṃ ariyasaccaṃ". ^2-204
 
 ##### Maggasaccaṃ ^2-4-1-4-0
 
-205. Tattha katamaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
+Tattha katamaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
 Tattha katamā sammādiṭṭhi? Dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ – ayaṃ vuccati "sammādiṭṭhi".
 Tattha katamo sammāsaṅkappo? Nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṃsāsaṅkappo – ayaṃ vuccati "sammāsaṅkappo".
 Tattha katamā sammāvācā? Musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī – ayaṃ vuccati "sammāvācā".
@@ -82,7 +82,7 @@ Suttantabhājanīyaṃ. ^2-205
 
 #### Abhidhammabhājanīyaṃ ^2-4-2-0
 
-206. Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
+Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
 Tattha katamo dukkhasamudayo? Taṇhā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya pahānaṃ – ayaṃ vuccati "dukkhanirodho".
@@ -96,27 +96,27 @@ Tattha katamo sammāvāyāmo? Yo cetasiko vīriyārambho [viriyārambho (sī. sy
 Tattha katamā sammāsati? Yā sati anussati…pe… sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "sammāsati".
 Tattha katamo sammāsamādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "sammāsamādhi". Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-206
 
-207. Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā, vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye aṭṭhaṅgiko maggo hoti – sammādiṭṭhi…pe… sammāsamādhi. Ayaṃ vuccati – "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-207
 
-208. Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā, avasesā ca akusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā, avasesā ca akusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ, avasesānañca akusalānaṃ dhammānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye aṭṭhaṅgiko maggo hoti – sammādiṭṭhi…pe… sammāsamādhi. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-208
 
-209. Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ, avasesānañca akusalānaṃ dhammānaṃ, tiṇṇañca kusalamūlānaṃ sāsavānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye aṭṭhaṅgiko maggo hoti – sammādiṭṭhi…pe… sammāsamādhi. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-209
 
-210. Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ, avasesānañca akusalānaṃ dhammānaṃ, tiṇṇañca kusalamūlānaṃ sāsavānaṃ, avasesānañca sāsavānaṃ kusalānaṃ dhammānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā, vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye aṭṭhaṅgiko maggo hoti – sammādiṭṭhi…pe… sammāsamādhi. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-210
 
-211. Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
+Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
 Tattha katamo dukkhasamudayo? Taṇhā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya pahānaṃ – ayaṃ vuccati "dukkhanirodho".
@@ -127,18 +127,18 @@ Tattha katamo sammāvāyāmo? Yo cetasiko vīriyārambho…pe… sammāvāyāmo 
 Tattha katamā sammāsati? Yā sati anussati…pe… sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "sammāsati".
 Tattha katamo sammāsamādhi? Yā cittassa ṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati "sammāsamādhi". Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-211
 
-212. Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ, avasesānañca akusalānaṃ dhammānaṃ, tiṇṇañca kusalamūlānaṃ sāsavānaṃ, avasesānañca sāsavānaṃ kusalānaṃ dhammānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā, vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye pañcaṅgiko maggo hoti – sammādiṭṭhi, sammāsaṅkappo, sammāvāyāmo, sammāsati, sammāsamādhi. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā. ^2-212
 
-213. Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
+Cattāri saccāni – dukkhaṃ, dukkhasamudayo, dukkhanirodho, dukkhanirodhagāminī paṭipadā.
 Tattha katamo dukkhasamudayo? Taṇhā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā, sāsavā ca kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā". ^2-213
 
-214. Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
+Tattha katamo dukkhasamudayo? Taṇhā ca, avasesā ca kilesā, avasesā ca akusalā dhammā, tīṇi ca kusalamūlāni sāsavāni, avasesā ca sāsavā kusalā dhammā – ayaṃ vuccati "dukkhasamudayo".
 Tattha katamaṃ dukkhaṃ? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ – idaṃ vuccati "dukkhaṃ".
 Tattha katamo dukkhanirodho? Taṇhāya ca, avasesānañca kilesānaṃ, avasesānañca akusalānaṃ dhammānaṃ, tiṇṇañca kusalamūlānaṃ sāsavānaṃ, avasesānañca sāsavānaṃ kusalānaṃ dhammānaṃ pahānaṃ – ayaṃ vuccati "dukkhanirodho".
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ayaṃ vuccati "dukkhanirodhagāminī paṭipadā".
@@ -146,20 +146,20 @@ Abhidhammabhājanīyaṃ. ^2-214
 
 #### Pañhāpucchakaṃ ^2-4-3-0
 
-215. Cattāri ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ariyasaccaṃ, dukkhanirodhaṃ ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ. ^2-215
+Cattāri ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ariyasaccaṃ, dukkhanirodhaṃ ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ. ^2-215
 
-216. Catunnaṃ ariyasaccānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-216
+Catunnaṃ ariyasaccānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-216
 
 ##### Tikaṃ ^2-4-3-1-0
 
-217. Samudayasaccaṃ akusalaṃ. Maggasaccaṃ kusalaṃ. Nirodhasaccaṃ abyākataṃ. Dukkhasaccaṃ siyā kusalaṃ, siyā akusalaṃ, siyā abyākataṃ. Dve saccā siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Nirodhasaccaṃ na vattabbaṃ – "sukhāya vedanāya sampayutta"ntipi, "dukkhāya vedanāya sampayutta"ntipi, "adukkhamasukhāya vedanāya sampayutta"ntipi. Dukkhasaccaṃ siyā sukhāya vedanāya sampayuttaṃ, siyā dukkhāya vedanāya sampayuttaṃ, siyā adukkhamasukhāya vedanāya sampayuttaṃ, siyā na vattabbaṃ – "sukhāya vedanāya sampayutta"ntipi, "dukkhāya vedanāya sampayutta"ntipi, "adukkhamasukhāya vedanāya sampayutta"ntipi. Dve saccā vipākadhammadhammā. Nirodhasaccaṃ nevavipākanavipākadhammadhammaṃ. Dukkhasaccaṃ siyā vipākaṃ, siyā vipākadhammadhammaṃ, siyā nevavipākanavipākadhammadhammaṃ. Samudayasaccaṃ anupādinnupādāniyaṃ. Dve saccā anupādinnaanupādāniyā. Dukkhasaccaṃ siyā upādinnupādāniyaṃ, siyā anupādinnupādāniyaṃ.
+Samudayasaccaṃ akusalaṃ. Maggasaccaṃ kusalaṃ. Nirodhasaccaṃ abyākataṃ. Dukkhasaccaṃ siyā kusalaṃ, siyā akusalaṃ, siyā abyākataṃ. Dve saccā siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Nirodhasaccaṃ na vattabbaṃ – "sukhāya vedanāya sampayutta"ntipi, "dukkhāya vedanāya sampayutta"ntipi, "adukkhamasukhāya vedanāya sampayutta"ntipi. Dukkhasaccaṃ siyā sukhāya vedanāya sampayuttaṃ, siyā dukkhāya vedanāya sampayuttaṃ, siyā adukkhamasukhāya vedanāya sampayuttaṃ, siyā na vattabbaṃ – "sukhāya vedanāya sampayutta"ntipi, "dukkhāya vedanāya sampayutta"ntipi, "adukkhamasukhāya vedanāya sampayutta"ntipi. Dve saccā vipākadhammadhammā. Nirodhasaccaṃ nevavipākanavipākadhammadhammaṃ. Dukkhasaccaṃ siyā vipākaṃ, siyā vipākadhammadhammaṃ, siyā nevavipākanavipākadhammadhammaṃ. Samudayasaccaṃ anupādinnupādāniyaṃ. Dve saccā anupādinnaanupādāniyā. Dukkhasaccaṃ siyā upādinnupādāniyaṃ, siyā anupādinnupādāniyaṃ.
 Samudayasaccaṃ saṃkiliṭṭhasaṃkilesikaṃ. Dve saccā asaṃkiliṭṭhaasaṃkilesikā. Dukkhasaccaṃ siyā saṃkiliṭṭhasaṃkilesikaṃ, siyā asaṃkiliṭṭhasaṃkilesikaṃ. Samudayasaccaṃ savitakkasavicāraṃ. Nirodhasaccaṃ avitakkaavicāraṃ. Maggasaccaṃ siyā savitakkasavicāraṃ, siyā avitakkavicāramattaṃ, siyā avitakkaavicāraṃ. Dukkhasaccaṃ siyā savitakkasavicāraṃ, siyā avitakkavicāramattaṃ, siyā avitakkaavicāraṃ, siyā na vattabbaṃ – "savitakkasavicāra"ntipi, "avitakkavicāramatta"ntipi, "avitakkaavicāra"ntipi. Dve saccā siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā. Nirodhasaccaṃ na vattabbaṃ – "pītisahagata"ntipi, "sukhasahagata"ntipi, "upekkhāsahagata"ntipi. Dukkhasaccaṃ siyā pītisahagataṃ, siyā sukhasahagataṃ, siyā upekkhāsahagataṃ, siyā na vattabbaṃ – "pītisahagata"ntipi, "sukhasahagata"ntipi, "upekkhāsahagata"ntipi.
 Dve saccā neva dassanena na bhāvanāya pahātabbā. Samudayasaccaṃ siyā dassanena pahātabbaṃ, siyā bhāvanāya pahātabbaṃ. Dukkhasaccaṃ siyā dassanena pahātabbaṃ, siyā bhāvanāya pahātabbaṃ, siyā neva dassanena na bhāvanāya pahātabbaṃ. Dve saccā neva dassanena na bhāvanāya pahātabbahetukā. Samudayasaccaṃ siyā dassanena pahātabbahetukaṃ, siyā bhāvanāya pahātabbahetukaṃ. Dukkhasaccaṃ siyā dassanena pahātabbahetukaṃ, siyā bhāvanāya pahātabbahetukaṃ, siyā neva dassanena na bhāvanāya pahātabbahetukaṃ. Samudayasaccaṃ ācayagāmi. Maggasaccaṃ apacayagāmi. Nirodhasaccaṃ nevācayagāmināpacayagāmi. Dukkhasaccaṃ siyā ācayagāmi, siyā nevācayagāmināpacayagāmi. Maggasaccaṃ sekkhaṃ. Tīṇi saccāni nevasekkhanāsekkhā. Samudayasaccaṃ parittaṃ. Dve saccā appamāṇā. Dukkhasaccaṃ siyā parittaṃ, siyā mahaggataṃ. Nirodhasaccaṃ anārammaṇaṃ. Maggasaccaṃ appamāṇārammaṇaṃ. Samudayasaccaṃ siyā parittārammaṇaṃ, siyā mahaggatārammaṇaṃ na appamāṇārammaṇaṃ, siyā na vattabbaṃ – "parittārammaṇa"ntipi, "mahaggatārammaṇa"ntipi. Dukkhasaccaṃ siyā parittārammaṇaṃ, siyā mahaggatārammaṇaṃ, siyā appamāṇārammaṇaṃ, siyā na vattabbaṃ – "parittārammaṇa"ntipi, "mahaggatārammaṇa"ntipi, "appamāṇārammaṇa"ntipi.
 Samudayasaccaṃ hīnaṃ. Dve saccā paṇītā. Dukkhasaccaṃ siyā hīnaṃ, siyā majjhimaṃ. Nirodhasaccaṃ aniyataṃ. Maggasaccaṃ sammattaniyataṃ. Dve saccā siyā micchattaniyatā, siyā aniyatā. Nirodhasaccaṃ anārammaṇaṃ. Samudayasaccaṃ na vattabbaṃ – "maggārammaṇa"ntipi, "maggahetuka"ntipi, "maggādhipatī"tipi. Maggasaccaṃ na maggārammaṇaṃ maggahetukaṃ, siyā maggādhipati, siyā na vattabbaṃ – "maggādhipatī"ti. Dukkhasaccaṃ siyā maggārammaṇaṃ na maggahetukaṃ, siyā maggādhipati, siyā na vattabbaṃ – "maggārammaṇa"ntipi, "maggādhipatī"tipi. Dve saccā siyā uppannā, siyā anuppannā, na vattabbā – "uppādino"ti. Nirodhasaccaṃ na vattabbaṃ – "uppanna"ntipi, "anuppanna"ntipi, "uppādī"tipi. Dukkhasaccaṃ siyā uppannaṃ, siyā anuppannaṃ, siyā uppādi. Tīṇi saccāni siyā atītā, siyā anāgatā, siyā paccuppannā. Nirodhasaccaṃ na vattabbaṃ – "atīta"ntipi, "anāgata"ntipi, "paccuppanna"ntipi. Nirodhasaccaṃ anārammaṇaṃ. Maggasaccaṃ na vattabbaṃ – "atītārammaṇa"ntipi, "anāgatārammaṇa"ntipi, "paccuppannārammaṇa"ntipi. Dve saccā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā, siyā na vattabbā – "atītārammaṇā"tipi, "anāgatārammaṇā"tipi, "paccuppannārammaṇā"tipi. Nirodhasaccaṃ bahiddhā. Tīṇi saccāni siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Nirodhasaccaṃ anārammaṇaṃ. Maggasaccaṃ bahiddhārammaṇaṃ. Samudayasaccaṃ siyā ajjhattārammaṇaṃ, siyā bahiddhārammaṇaṃ, siyā ajjhattabahiddhārammaṇaṃ. Dukkhasaccaṃ siyā ajjhattārammaṇaṃ, siyā bahiddhārammaṇaṃ, siyā ajjhattabahiddhārammaṇaṃ, siyā na vattabbaṃ – "ajjhattārammaṇa"ntipi, "bahiddhārammaṇa"ntipi, "ajjhattabahiddhārammaṇa"ntipi. Tīṇi saccāni anidassanaappaṭighā. Dukkhasaccaṃ siyā sanidassanasappaṭighaṃ, siyā anidassanasappaṭighaṃ, siyā anidassanaappaṭighaṃ. ^2-217
 
 ##### Dukaṃ ^2-4-3-2-0
 
-218. Samudayasaccaṃ hetu. Nirodhasaccaṃ na hetu. Dve saccā siyā hetū, siyā na hetū. Dve saccā sahetukā. Nirodhasaccaṃ ahetukaṃ. Dukkhasaccaṃ siyā sahetukaṃ, siyā ahetukaṃ. Dve saccā hetusampayuttā. Nirodhasaccaṃ hetuvippayuttaṃ. Dukkhasaccaṃ siyā hetusampayuttaṃ, siyā hetuvippayuttaṃ. Samudayasaccaṃ hetu ceva sahetukañca. Nirodhasaccaṃ na vattabbaṃ – "hetu ceva sahetukañcā"tipi, "sahetukañceva na ca hetū"tipi. Maggasaccaṃ siyā hetu ceva sahetukañca, siyā sahetukañceva na ca hetu. Dukkhasaccaṃ siyā hetu ceva sahetukañca, siyā sahetukañceva na ca hetu, siyā na vattabbaṃ – "hetu ceva sahetukañcā"tipi, "sahetukañceva na ca hetū"tipi. Samudayasaccaṃ hetu ceva hetusampayuttañca. Nirodhasaccaṃ na vattabbaṃ – "hetu ceva hetusampayuttañcā"tipi, "hetusampayuttañceva na ca hetū"tipi. Maggasaccaṃ siyā hetu ceva hetusampayuttañca, siyā hetusampayuttañceva na ca hetu. Dukkhasaccaṃ siyā hetu ceva hetusampayuttañca, siyā hetusampayuttañceva na ca hetu, siyā na vattabbaṃ – "hetu ceva hetusampayuttañcā"tipi, "hetusampayuttañceva na ca hetū"tipi. Nirodhasaccaṃ na hetuahetukaṃ. Samudayasaccaṃ na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi. Maggasaccaṃ siyā na hetusahetukaṃ, siyā na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi. Dukkhasaccaṃ siyā na hetusahetukaṃ, siyā na hetuahetukaṃ, siyā na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi.
+Samudayasaccaṃ hetu. Nirodhasaccaṃ na hetu. Dve saccā siyā hetū, siyā na hetū. Dve saccā sahetukā. Nirodhasaccaṃ ahetukaṃ. Dukkhasaccaṃ siyā sahetukaṃ, siyā ahetukaṃ. Dve saccā hetusampayuttā. Nirodhasaccaṃ hetuvippayuttaṃ. Dukkhasaccaṃ siyā hetusampayuttaṃ, siyā hetuvippayuttaṃ. Samudayasaccaṃ hetu ceva sahetukañca. Nirodhasaccaṃ na vattabbaṃ – "hetu ceva sahetukañcā"tipi, "sahetukañceva na ca hetū"tipi. Maggasaccaṃ siyā hetu ceva sahetukañca, siyā sahetukañceva na ca hetu. Dukkhasaccaṃ siyā hetu ceva sahetukañca, siyā sahetukañceva na ca hetu, siyā na vattabbaṃ – "hetu ceva sahetukañcā"tipi, "sahetukañceva na ca hetū"tipi. Samudayasaccaṃ hetu ceva hetusampayuttañca. Nirodhasaccaṃ na vattabbaṃ – "hetu ceva hetusampayuttañcā"tipi, "hetusampayuttañceva na ca hetū"tipi. Maggasaccaṃ siyā hetu ceva hetusampayuttañca, siyā hetusampayuttañceva na ca hetu. Dukkhasaccaṃ siyā hetu ceva hetusampayuttañca, siyā hetusampayuttañceva na ca hetu, siyā na vattabbaṃ – "hetu ceva hetusampayuttañcā"tipi, "hetusampayuttañceva na ca hetū"tipi. Nirodhasaccaṃ na hetuahetukaṃ. Samudayasaccaṃ na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi. Maggasaccaṃ siyā na hetusahetukaṃ, siyā na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi. Dukkhasaccaṃ siyā na hetusahetukaṃ, siyā na hetuahetukaṃ, siyā na vattabbaṃ – "na hetusahetuka"ntipi, "na hetuahetuka"ntipi.
 Tīṇi saccāni sappaccayā. Nirodhasaccaṃ appaccayaṃ. Tīṇi saccāni saṅkhatā. Nirodhasaccaṃ asaṅkhataṃ. Tīṇi saccāni anidassanā. Dukkhasaccaṃ siyā sanidassanaṃ, siyā anidassanaṃ. Tīṇi saccāni appaṭighā. Dukkhasaccaṃ siyā sappaṭighaṃ, siyā appaṭighaṃ. Tīṇi saccāni arūpāni. Dukkhasaccaṃ siyā rūpaṃ, siyā arūpaṃ. Dve saccā lokiyā. Dve saccā lokuttarā; kenaci viññeyyā, kenaci na viññeyyā.
 Samudayasaccaṃ āsavo. Dve saccā no āsavā. Dukkhasaccaṃ siyā āsavo, siyā no āsavo. Dve saccā sāsavā. Dve saccā anāsavā. Samudayasaccaṃ āsavasampayuttaṃ. Dve saccā āsavavippayuttā. Dukkhasaccaṃ siyā āsavasampayuttaṃ, siyā āsavavippayuttaṃ. Samudayasaccaṃ āsavo ceva sāsavañca. Dve saccā na vattabbā – "āsavā ceva sāsavā cā"tipi, "sāsavā ceva no ca āsavā"tipi. Dukkhasaccaṃ siyā āsavo ceva sāsavañca, siyā sāsavañceva no ca āsavo. Samudayasaccaṃ āsavo ceva āsavasampayuttañca. Dve saccā na vattabbā – "āsavā ceva āsavasampayuttā cā"tipi, "āsavasampayuttā ceva no ca āsavā"tipi. Dukkhasaccaṃ siyā āsavo ceva āsavasampayuttañca, siyā āsavasampayuttañceva no ca āsavo, siyā na vattabbaṃ – "āsavo ceva āsavasampayuttañcā"tipi, "āsavasampayuttañceva no ca āsavo"tipi. Dve saccā āsavavippayuttaanāsavā. Samudayasaccaṃ na vattabbaṃ – "āsavavippayuttasāsava"ntipi, "āsavavippayuttaanāsava"ntipi. Dukkhasaccaṃ siyā āsavavippayuttasāsavaṃ, siyā na vattabbaṃ – "āsavavippayuttasāsava"ntipi, "āsavavippayuttaanāsava"ntipi.
 Samudayasaccaṃ saṃyojanaṃ. Dve saccā no saṃyojanā. Dukkhasaccaṃ siyā saṃyojanaṃ, siyā no saṃyojanaṃ. Dve saccā saṃyojaniyā. Dve saccā asaṃyojaniyā. Samudayasaccaṃ saṃyojanasampayuttaṃ. Dve saccā saṃyojanavippayuttā. Dukkhasaccaṃ siyā saṃyojanasampayuttaṃ, siyā saṃyojanavippayuttaṃ. Samudayasaccaṃ saṃyojanañceva saṃyojaniyañca. Dve saccā na vattabbā – "saṃyojanā ceva saṃyojaniyā cā"tipi, "saṃyojaniyā ceva no ca saṃyojanā"tipi. Dukkhasaccaṃ siyā saṃyojanañceva saṃyojaniyañca, siyā saṃyojaniyañceva no ca saṃyojanaṃ. Samudayasaccaṃ saṃyojanañceva saṃyojanasampayuttañca. Dve saccā na vattabbā – "saṃyojanā ceva saṃyojanasampayuttā cā"tipi, "saṃyojanasampayuttā ceva no ca saṃyojanā"tipi. Dukkhasaccaṃ siyā saṃyojanañceva saṃyojanasampayuttañca, siyā saṃyojanasampayuttañceva no ca saṃyojanaṃ, siyā na vattabbaṃ – "saṃyojanañceva saṃyojanasampayuttañcā"tipi, "saṃyojanasampayuttañceva no ca saṃyojana"ntipi. Dve saccā saṃyojanavippayuttaasaṃyojaniyā. Samudayasaccaṃ na vattabbaṃ – "saṃyojanavippayuttasaṃyojaniya"ntipi, "saṃyojanavippayuttaasaṃyojaniya"ntipi. Dukkhasaccaṃ siyā saṃyojanavippayuttasaṃyojaniyaṃ, siyā na vattabbaṃ – "saṃyojanavippayuttasaṃyojaniya"ntipi, "saṃyojanavippayuttaasaṃyojaniya"ntipi.

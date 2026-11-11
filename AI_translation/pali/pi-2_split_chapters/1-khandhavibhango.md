@@ -2,108 +2,108 @@
 
 #### Suttantabhājanīyaṃ ^2-1-1-0
 
-1. Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-1
+Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-1
 
 ##### Rūpakkhandho ^2-1-1-1-0
 
-2. Tattha katamo rūpakkhandho? Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati rūpakkhandho. ^2-2
+Tattha katamo rūpakkhandho? Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati rūpakkhandho. ^2-2
 
-3. Tattha katamaṃ rūpaṃ atītaṃ? Yaṃ rūpaṃ atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ uppajjitvā vigataṃ atītaṃ atītaṃsena saṅgahitaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ atītaṃ.
+Tattha katamaṃ rūpaṃ atītaṃ? Yaṃ rūpaṃ atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ uppajjitvā vigataṃ atītaṃ atītaṃsena saṅgahitaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ atītaṃ.
 Tattha katamaṃ rūpaṃ anāgataṃ? Yaṃ rūpaṃ ajātaṃ abhūtaṃ asañjātaṃ anibbattaṃ anabhinibbattaṃ apātubhūtaṃ anuppannaṃ asamuppannaṃ anuṭṭhitaṃ asamuṭṭhitaṃ anāgataṃ anāgataṃsena saṅgahitaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ anāgataṃ.
 Tattha katamaṃ rūpaṃ paccuppannaṃ? Yaṃ rūpaṃ jātaṃ bhūtaṃ sañjātaṃ nibbattaṃ abhinibbattaṃ pātubhūtaṃ uppannaṃ samuppannaṃ uṭṭhitaṃ samuṭṭhitaṃ paccuppannaṃ paccuppannaṃsena saṅgahitaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ paccuppannaṃ. ^2-3
 
-4. Tattha katamaṃ rūpaṃ ajjhattaṃ? Yaṃ rūpaṃ tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ ajjhattaṃ.
+Tattha katamaṃ rūpaṃ ajjhattaṃ? Yaṃ rūpaṃ tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ ajjhattaṃ.
 Tattha katamaṃ rūpaṃ bahiddhā? Yaṃ rūpaṃ tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāyarūpaṃ – idaṃ vuccati rūpaṃ bahiddhā. ^2-4
 
-5. Tattha katamaṃ rūpaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ vuccati rūpaṃ oḷārikaṃ.
+Tattha katamaṃ rūpaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ vuccati rūpaṃ oḷārikaṃ.
 Tattha katamaṃ rūpaṃ sukhumaṃ? Itthindriyaṃ…pe… kabaḷīkāro [kabaḷiṃkāro (sī. syā.)] āhāro – idaṃ vuccati rūpaṃ sukhumaṃ. ^2-5
 
-6. Tattha katamaṃ rūpaṃ hīnaṃ? Yaṃ rūpaṃ tesaṃ tesaṃ sattānaṃ uññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ hīnaṃ hīnamataṃ hīnasammataṃ aniṭṭhaṃ akantaṃ amanāpaṃ, rūpā saddā gandhā rasā phoṭṭhabbā – idaṃ vuccati rūpaṃ hīnaṃ.
+Tattha katamaṃ rūpaṃ hīnaṃ? Yaṃ rūpaṃ tesaṃ tesaṃ sattānaṃ uññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ hīnaṃ hīnamataṃ hīnasammataṃ aniṭṭhaṃ akantaṃ amanāpaṃ, rūpā saddā gandhā rasā phoṭṭhabbā – idaṃ vuccati rūpaṃ hīnaṃ.
 Tattha katamaṃ rūpaṃ paṇītaṃ? Yaṃ rūpaṃ tesaṃ tesaṃ sattānaṃ anuññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ paṇītaṃ paṇītamataṃ paṇītasammataṃ iṭṭhaṃ kantaṃ manāpaṃ, rūpā saddā gandhā rasā phoṭṭhabbā – idaṃ vuccati rūpaṃ paṇītaṃ. Taṃ taṃ vā pana rūpaṃ upādāyupādāya rūpaṃ hīnaṃ paṇītaṃ daṭṭhabbaṃ. ^2-6
 
-7. Tattha katamaṃ rūpaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro, yaṃ vā panaññampi atthi rūpaṃ anāsanne anupakaṭṭhe dūre asantike – idaṃ vuccati rūpaṃ dūre.
+Tattha katamaṃ rūpaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro, yaṃ vā panaññampi atthi rūpaṃ anāsanne anupakaṭṭhe dūre asantike – idaṃ vuccati rūpaṃ dūre.
 Tattha katamaṃ rūpaṃ santike? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ āsanne upakaṭṭhe avidūre santike – idaṃ vuccati rūpaṃ santike. Taṃ taṃ vā pana rūpaṃ upādāyupādāya rūpaṃ dūre santike daṭṭhabbaṃ. ^2-7
 
 ##### Vedanākkhandho ^2-1-1-2-0
 
-8. Tattha katamo vedanākkhandho? Yā kāci vedanā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati vedanākkhandho. ^2-8
+Tattha katamo vedanākkhandho? Yā kāci vedanā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati vedanākkhandho. ^2-8
 
-9. Tattha katamā vedanā atītā? Yā vedanā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā atītā.
+Tattha katamā vedanā atītā? Yā vedanā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā atītā.
 Tattha katamā vedanā anāgatā? Yā vedanā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā anāgatā.
 Tattha katamā vedanā paccuppannā? Yā vedanā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā paccuppannā. ^2-9
 
-10. Tattha katamā vedanā ajjhattā? Yā vedanā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā ajjhattā.
+Tattha katamā vedanā ajjhattā? Yā vedanā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā ajjhattā.
 Tattha katamā vedanā bahiddhā? Yā vedanā tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā – ayaṃ vuccati vedanā bahiddhā. ^2-10
 
-11. Tattha katamā vedanā oḷārikā sukhumā? Akusalā vedanā oḷārikā, kusalābyākatā vedanā sukhumā. Kusalākusalā vedanā oḷārikā, abyākatā vedanā sukhumā. Dukkhā vedanā oḷārikā, sukhā ca adukkhamasukhā ca vedanā sukhumā. Sukhadukkhā vedanā oḷārikā, adukkhamasukhā vedanā sukhumā. Asamāpannassa vedanā oḷārikā, samāpannassa vedanā sukhumā. Sāsavā vedanā oḷārikā, anāsavā vedanā sukhumā. Taṃ taṃ vā pana vedanaṃ upādāyupādāya vedanā oḷārikā sukhumā daṭṭhabbā. ^2-11
+Tattha katamā vedanā oḷārikā sukhumā? Akusalā vedanā oḷārikā, kusalābyākatā vedanā sukhumā. Kusalākusalā vedanā oḷārikā, abyākatā vedanā sukhumā. Dukkhā vedanā oḷārikā, sukhā ca adukkhamasukhā ca vedanā sukhumā. Sukhadukkhā vedanā oḷārikā, adukkhamasukhā vedanā sukhumā. Asamāpannassa vedanā oḷārikā, samāpannassa vedanā sukhumā. Sāsavā vedanā oḷārikā, anāsavā vedanā sukhumā. Taṃ taṃ vā pana vedanaṃ upādāyupādāya vedanā oḷārikā sukhumā daṭṭhabbā. ^2-11
 
-12. Tattha katamā vedanā hīnā paṇītā? Akusalā vedanā hīnā, kusalābyākatā vedanā paṇītā. Kusalākusalā vedanā hīnā, abyākatā vedanā paṇītā. Dukkhā vedanā hīnā, sukhā ca adukkhamasukhā ca vedanā paṇītā. Sukhadukkhā vedanā hīnā, adukkhamasukhā vedanā paṇītā. Asamāpannassa vedanā hīnā, samāpannassa vedanā paṇītā. Sāsavā vedanā hīnā, anāsavā vedanā paṇītā. Taṃ taṃ vā pana vedanaṃ upādāyupādāya vedanā hīnā paṇītā daṭṭhabbā. ^2-12
+Tattha katamā vedanā hīnā paṇītā? Akusalā vedanā hīnā, kusalābyākatā vedanā paṇītā. Kusalākusalā vedanā hīnā, abyākatā vedanā paṇītā. Dukkhā vedanā hīnā, sukhā ca adukkhamasukhā ca vedanā paṇītā. Sukhadukkhā vedanā hīnā, adukkhamasukhā vedanā paṇītā. Asamāpannassa vedanā hīnā, samāpannassa vedanā paṇītā. Sāsavā vedanā hīnā, anāsavā vedanā paṇītā. Taṃ taṃ vā pana vedanaṃ upādāyupādāya vedanā hīnā paṇītā daṭṭhabbā. ^2-12
 
-13. Tattha katamā vedanā dūre? Akusalā vedanā kusalābyākatāhi vedanāhi dūre; kusalābyākatā vedanā akusalāya vedanāya dūre; kusalā vedanā akusalābyākatāhi vedanāhi dūre; akusalābyākatā vedanā kusalāya vedanāya dūre; abyākatā vedanā kusalākusalāhi vedanāhi dūre; kusalākusalā vedanā abyākatāya vedanāya dūre. Dukkhā vedanā sukhāya ca adukkhamasukhāya ca vedanāhi dūre; sukhā ca adukkhamasukhā ca vedanā dukkhāya vedanāya dūre; sukhā vedanā dukkhāya ca adukkhamasukhāya ca vedanāhi dūre; dukkhā ca adukkhamasukhā ca vedanā sukhāya vedanāya dūre; adukkhamasukhā vedanā sukhadukkhāhi vedanāhi dūre; sukhadukkhā vedanā adukkhamasukhāya vedanāya dūre. Asamāpannassa vedanā samāpannassa vedanāya dūre; samāpannassa vedanā asamāpannassa vedanāya dūre. Sāsavā vedanā anāsavāya vedanāya dūre; anāsavā vedanā sāsavāya vedanāya dūre – ayaṃ vuccati vedanā dūre.
+Tattha katamā vedanā dūre? Akusalā vedanā kusalābyākatāhi vedanāhi dūre; kusalābyākatā vedanā akusalāya vedanāya dūre; kusalā vedanā akusalābyākatāhi vedanāhi dūre; akusalābyākatā vedanā kusalāya vedanāya dūre; abyākatā vedanā kusalākusalāhi vedanāhi dūre; kusalākusalā vedanā abyākatāya vedanāya dūre. Dukkhā vedanā sukhāya ca adukkhamasukhāya ca vedanāhi dūre; sukhā ca adukkhamasukhā ca vedanā dukkhāya vedanāya dūre; sukhā vedanā dukkhāya ca adukkhamasukhāya ca vedanāhi dūre; dukkhā ca adukkhamasukhā ca vedanā sukhāya vedanāya dūre; adukkhamasukhā vedanā sukhadukkhāhi vedanāhi dūre; sukhadukkhā vedanā adukkhamasukhāya vedanāya dūre. Asamāpannassa vedanā samāpannassa vedanāya dūre; samāpannassa vedanā asamāpannassa vedanāya dūre. Sāsavā vedanā anāsavāya vedanāya dūre; anāsavā vedanā sāsavāya vedanāya dūre – ayaṃ vuccati vedanā dūre.
 Tattha katamā vedanā santike? Akusalā vedanā akusalāya vedanāya santike; kusalā vedanā kusalāya vedanāya santike; abyākatā vedanā abyākatāya vedanāya santike. Dukkhā vedanā dukkhāya vedanāya santike; sukhā vedanā sukhāya vedanāya santike; adukkhamasukhā vedanā adukkhamasukhāya vedanāya santike. Asamāpannassa vedanā asamāpannassa vedanāya santike; samāpannassa vedanā samāpannassa vedanāya santike. Sāsavā vedanā sāsavāya vedanāya santike; anāsavā vedanā anāsavāya vedanāya santike. Ayaṃ vuccati vedanā santike. Taṃ taṃ vā pana vedanaṃ upādāyupādāya vedanā dūre santike daṭṭhabbā. ^2-13
 
 ##### Saññākkhandho ^2-1-1-3-0
 
-14. Tattha katamo saññākkhandho? Yā kāci saññā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati saññākkhandho. ^2-14
+Tattha katamo saññākkhandho? Yā kāci saññā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati saññākkhandho. ^2-14
 
-15. Tattha katamā saññā atītā? Yā saññā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā atītā.
+Tattha katamā saññā atītā? Yā saññā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā atītā.
 Tattha katamā saññā anāgatā? Yā saññā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā anāgatā.
 Tattha katamā saññā paccuppannā? Yā saññā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā paccuppannā. ^2-15
 
-16. Tattha katamā saññā ajjhattā? Yā saññā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā ajjhattā.
+Tattha katamā saññā ajjhattā? Yā saññā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā ajjhattā.
 Tattha katamā saññā bahiddhā? Yā saññā tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manosamphassajā saññā – ayaṃ vuccati saññā bahiddhā. ^2-16
 
-17. Tattha katamā saññā oḷārikā sukhumā? Paṭighasamphassajā saññā oḷārikā, adhivacanasamphassajā saññā sukhumā. Akusalā saññā oḷārikā, kusalābyākatā saññā sukhumā. Kusalākusalā saññā oḷārikā, abyākatā saññā sukhumā. Dukkhāya vedanāya sampayuttā saññā oḷārikā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā saññā oḷārikā, adukkhamasukhāya vedanāya sampayuttā saññā sukhumā. Asamāpannassa saññā oḷārikā, samāpannassa saññā sukhumā. Sāsavā saññā oḷārikā, anāsavā saññā sukhumā. Taṃ taṃ vā pana saññaṃ upādāyupādāya saññā oḷārikā sukhumā daṭṭhabbā. ^2-17
+Tattha katamā saññā oḷārikā sukhumā? Paṭighasamphassajā saññā oḷārikā, adhivacanasamphassajā saññā sukhumā. Akusalā saññā oḷārikā, kusalābyākatā saññā sukhumā. Kusalākusalā saññā oḷārikā, abyākatā saññā sukhumā. Dukkhāya vedanāya sampayuttā saññā oḷārikā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā saññā oḷārikā, adukkhamasukhāya vedanāya sampayuttā saññā sukhumā. Asamāpannassa saññā oḷārikā, samāpannassa saññā sukhumā. Sāsavā saññā oḷārikā, anāsavā saññā sukhumā. Taṃ taṃ vā pana saññaṃ upādāyupādāya saññā oḷārikā sukhumā daṭṭhabbā. ^2-17
 
-18. Tattha katamā saññā hīnā paṇītā? Akusalā saññā hīnā, kusalābyākatā saññā paṇītā. Kusalākusalā saññā hīnā, abyākatā saññā paṇītā. Dukkhāya vedanāya sampayuttā saññā hīnā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā saññā hīnā, adukkhamasukhāya vedanāya sampayuttā saññā paṇītā. Asamāpannassa saññā hīnā, samāpannassa saññā paṇītā. Sāsavā saññā hīnā, anāsavā saññā paṇītā. Taṃ taṃ vā pana saññaṃ upādāyupādāya saññā hīnā paṇītā daṭṭhabbā. ^2-18
+Tattha katamā saññā hīnā paṇītā? Akusalā saññā hīnā, kusalābyākatā saññā paṇītā. Kusalākusalā saññā hīnā, abyākatā saññā paṇītā. Dukkhāya vedanāya sampayuttā saññā hīnā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā saññā hīnā, adukkhamasukhāya vedanāya sampayuttā saññā paṇītā. Asamāpannassa saññā hīnā, samāpannassa saññā paṇītā. Sāsavā saññā hīnā, anāsavā saññā paṇītā. Taṃ taṃ vā pana saññaṃ upādāyupādāya saññā hīnā paṇītā daṭṭhabbā. ^2-18
 
-19. Tattha katamā saññā dūre? Akusalā saññā kusalābyākatāhi saññāhi dūre; kusalābyākatā saññā akusalāya saññāya dūre; kusalā saññā akusalābyākatāhi saññāhi dūre; akusalābyākatā saññā kusalāya saññāya dūre. Abyākatā saññā kusalākusalāhi saññāhi dūre; kusalākusalā saññā abyākatāya saññāya dūre. Dukkhāya vedanāya sampayuttā saññā sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttāhi saññāhi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā dukkhāya vedanāya sampayuttāya saññāya dūre; sukhāya vedanāya sampayuttā saññā dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttāhi saññāhi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā sukhāya vedanāya sampayuttāya saññāya dūre; adukkhamasukhāya vedanāya sampayuttā saññā sukhadukkhāhi vedanāhi sampayuttāhi saññāhi dūre; sukhadukkhāhi vedanāhi sampayuttā saññā adukkhamasukhāya vedanāya sampayuttāya saññāya dūre. Asamāpannassa saññā samāpannassa saññāya dūre; samāpannassa saññā asamāpannassa saññāya dūre. Sāsavā saññā anāsavāya saññāya dūre; anāsavā saññā sāsavāya saññāya dūre – ayaṃ vuccati saññā dūre.
+Tattha katamā saññā dūre? Akusalā saññā kusalābyākatāhi saññāhi dūre; kusalābyākatā saññā akusalāya saññāya dūre; kusalā saññā akusalābyākatāhi saññāhi dūre; akusalābyākatā saññā kusalāya saññāya dūre. Abyākatā saññā kusalākusalāhi saññāhi dūre; kusalākusalā saññā abyākatāya saññāya dūre. Dukkhāya vedanāya sampayuttā saññā sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttāhi saññāhi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā dukkhāya vedanāya sampayuttāya saññāya dūre; sukhāya vedanāya sampayuttā saññā dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttāhi saññāhi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saññā sukhāya vedanāya sampayuttāya saññāya dūre; adukkhamasukhāya vedanāya sampayuttā saññā sukhadukkhāhi vedanāhi sampayuttāhi saññāhi dūre; sukhadukkhāhi vedanāhi sampayuttā saññā adukkhamasukhāya vedanāya sampayuttāya saññāya dūre. Asamāpannassa saññā samāpannassa saññāya dūre; samāpannassa saññā asamāpannassa saññāya dūre. Sāsavā saññā anāsavāya saññāya dūre; anāsavā saññā sāsavāya saññāya dūre – ayaṃ vuccati saññā dūre.
 Tattha katamā saññā santike? Akusalā saññā akusalāya saññāya santike; kusalā saññā kusalāya saññāya santike; abyākatā saññā abyākatāya saññāya santike. Dukkhāya vedanāya sampayuttā saññā dukkhāya vedanāya sampayuttāya saññāya santike; sukhāya vedanāya sampayuttā saññā sukhāya vedanāya sampayuttāya saññāya santike; adukkhamasukhāya vedanāya sampayuttā saññā adukkhamasukhāya vedanāya sampayuttāya saññāya santike. Asamāpannassa saññā asamāpannassa saññāya santike; samāpannassa saññā samāpannassa saññāya santike. Sāsavā saññā sāsavāya saññāya santike; anāsavā saññā anāsavāya saññāya santike. Ayaṃ vuccati saññā santike. Taṃ taṃ vā pana saññaṃ upādāyupādāya saññā dūre santike daṭṭhabbā. ^2-19
 
 ##### Saṅkhārakkhandho ^2-1-1-4-0
 
-20. Tattha katamo saṅkhārakkhandho? Ye keci saṅkhārā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati saṅkhārakkhandho. ^2-20
+Tattha katamo saṅkhārakkhandho? Ye keci saṅkhārā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati saṅkhārakkhandho. ^2-20
 
-21. Tattha katame saṅkhārā atītā? Ye saṅkhārā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā atītā.
+Tattha katame saṅkhārā atītā? Ye saṅkhārā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā atītā.
 Tattha katame saṅkhārā anāgatā? Ye saṅkhārā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā anāgatā.
 Tattha katame saṅkhārā paccuppannā? Ye saṅkhārā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā paccuppannā. ^2-21
 
-22. Tattha katame saṅkhārā ajjhattā? Ye saṅkhārā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā ajjhattā.
+Tattha katame saṅkhārā ajjhattā? Ye saṅkhārā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā ajjhattā.
 Tattha katame saṅkhārā bahiddhā? Ye saṅkhārā tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyakā pāṭipuggalikā upādinnā, cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manosamphassajā cetanā – ime vuccanti saṅkhārā bahiddhā. ^2-22
 
-23. Tattha katame saṅkhārā oḷārikā sukhumā? Akusalā saṅkhārā oḷārikā, kusalābyākatā saṅkhārā sukhumā. Kusalākusalā saṅkhārā oḷārikā, abyākatā saṅkhārā sukhumā. Dukkhāya vedanāya sampayuttā saṅkhārā oḷārikā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā saṅkhārā oḷārikā, adukkhamasukhāya vedanāya sampayuttā saṅkhārā sukhumā. Asamāpannassa saṅkhārā oḷārikā, samāpannassa saṅkhārā sukhumā. Sāsavā saṅkhārā oḷārikā, anāsavā saṅkhārā sukhumā. Te te vā pana saṅkhāre upādāyupādāya saṅkhārā oḷārikā sukhumā daṭṭhabbā. ^2-23
+Tattha katame saṅkhārā oḷārikā sukhumā? Akusalā saṅkhārā oḷārikā, kusalābyākatā saṅkhārā sukhumā. Kusalākusalā saṅkhārā oḷārikā, abyākatā saṅkhārā sukhumā. Dukkhāya vedanāya sampayuttā saṅkhārā oḷārikā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā saṅkhārā oḷārikā, adukkhamasukhāya vedanāya sampayuttā saṅkhārā sukhumā. Asamāpannassa saṅkhārā oḷārikā, samāpannassa saṅkhārā sukhumā. Sāsavā saṅkhārā oḷārikā, anāsavā saṅkhārā sukhumā. Te te vā pana saṅkhāre upādāyupādāya saṅkhārā oḷārikā sukhumā daṭṭhabbā. ^2-23
 
-24. Tattha katame saṅkhārā hīnā paṇītā? Akusalā saṅkhārā hīnā, kusalābyākatā saṅkhārā paṇītā. Kusalākusalā saṅkhārā hīnā, abyākatā saṅkhārā paṇītā. Dukkhāya vedanāya sampayuttā saṅkhārā hīnā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā saṅkhārā hīnā, adukkhamasukhāya vedanāya sampayuttā saṅkhārā paṇītā. Asamāpannassa saṅkhārā hīnā, samāpannassa saṅkhārā paṇītā. Sāsavā saṅkhārā hīnā, anāsavā saṅkhārā paṇītā. Te te vā pana saṅkhāre upādāyupādāya saṅkhārā hīnā paṇītā daṭṭhabbā. ^2-24
+Tattha katame saṅkhārā hīnā paṇītā? Akusalā saṅkhārā hīnā, kusalābyākatā saṅkhārā paṇītā. Kusalākusalā saṅkhārā hīnā, abyākatā saṅkhārā paṇītā. Dukkhāya vedanāya sampayuttā saṅkhārā hīnā, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā saṅkhārā hīnā, adukkhamasukhāya vedanāya sampayuttā saṅkhārā paṇītā. Asamāpannassa saṅkhārā hīnā, samāpannassa saṅkhārā paṇītā. Sāsavā saṅkhārā hīnā, anāsavā saṅkhārā paṇītā. Te te vā pana saṅkhāre upādāyupādāya saṅkhārā hīnā paṇītā daṭṭhabbā. ^2-24
 
-25. Tattha katame saṅkhārā dūre? Akusalā saṅkhārā kusalābyākatehi saṅkhārehi dūre; kusalābyākatā saṅkhārā akusalehi saṅkhārehi dūre; kusalā saṅkhārā akusalābyākatehi saṅkhārehi dūre; akusalābyākatā saṅkhārā kusalehi saṅkhārehi dūre; abyākatā saṅkhārā kusalākusalehi saṅkhārehi dūre; kusalākusalā saṅkhārā abyākatehi saṅkhārehi dūre. Dukkhāya vedanāya sampayuttā saṅkhārā sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi saṅkhārehi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā dukkhāya vedanāya sampayuttehi saṅkhārehi dūre; sukhāya vedanāya sampayuttā saṅkhārā dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi saṅkhārehi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā sukhāya vedanāya sampayuttehi saṅkhārehi dūre; adukkhamasukhāya vedanāya sampayuttā saṅkhārā sukhadukkhāhi vedanāhi sampayuttehi saṅkhārehi dūre; sukhadukkhāhi vedanāhi sampayuttā saṅkhārā adukkhamasukhāya vedanāya sampayuttehi saṅkhārehi dūre. Asamāpannassa saṅkhārā samāpannassa saṅkhārehi dūre; samāpannassa saṅkhārā asamāpannassa saṅkhārehi dūre. Sāsavā saṅkhārā anāsavehi saṅkhārehi dūre; anāsavā saṅkhārā sāsavehi saṅkhārehi dūre. Ime vuccanti saṅkhārā dūre.
+Tattha katame saṅkhārā dūre? Akusalā saṅkhārā kusalābyākatehi saṅkhārehi dūre; kusalābyākatā saṅkhārā akusalehi saṅkhārehi dūre; kusalā saṅkhārā akusalābyākatehi saṅkhārehi dūre; akusalābyākatā saṅkhārā kusalehi saṅkhārehi dūre; abyākatā saṅkhārā kusalākusalehi saṅkhārehi dūre; kusalākusalā saṅkhārā abyākatehi saṅkhārehi dūre. Dukkhāya vedanāya sampayuttā saṅkhārā sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi saṅkhārehi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā dukkhāya vedanāya sampayuttehi saṅkhārehi dūre; sukhāya vedanāya sampayuttā saṅkhārā dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi saṅkhārehi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā saṅkhārā sukhāya vedanāya sampayuttehi saṅkhārehi dūre; adukkhamasukhāya vedanāya sampayuttā saṅkhārā sukhadukkhāhi vedanāhi sampayuttehi saṅkhārehi dūre; sukhadukkhāhi vedanāhi sampayuttā saṅkhārā adukkhamasukhāya vedanāya sampayuttehi saṅkhārehi dūre. Asamāpannassa saṅkhārā samāpannassa saṅkhārehi dūre; samāpannassa saṅkhārā asamāpannassa saṅkhārehi dūre. Sāsavā saṅkhārā anāsavehi saṅkhārehi dūre; anāsavā saṅkhārā sāsavehi saṅkhārehi dūre. Ime vuccanti saṅkhārā dūre.
 Tattha katame saṅkhārā santike? Akusalā saṅkhārā akusalānaṃ saṅkhārānaṃ santike; kusalā saṅkhārā kusalānaṃ saṅkhārānaṃ santike; abyākatā saṅkhārā abyākatānaṃ saṅkhārānaṃ santike. Dukkhāya vedanāya sampayuttā saṅkhārā dukkhāya vedanāya sampayuttānaṃ saṅkhārānaṃ santike; sukhāya vedanāya sampayuttā saṅkhārā sukhāya vedanāya sampayuttānaṃ saṅkhārānaṃ santike; adukkhamasukhāya vedanāya sampayuttā saṅkhārā adukkhamasukhāya vedanāya sampayuttānaṃ saṅkhārānaṃ santike. Asamāpannassa saṅkhārā asamāpannassa saṅkhārānaṃ santike; samāpannassa saṅkhārā samāpannassa saṅkhārānaṃ santike. Sāsavā saṅkhārā sāsavānaṃ saṅkhārānaṃ santike; anāsavā saṅkhārā anāsavānaṃ saṅkhārānaṃ santike. Ime vuccanti saṅkhārā santike. Te te vā pana saṅkhāre upādāyupādāya saṅkhārā dūre santike daṭṭhabbā. ^2-25
 
 ##### Viññāṇakkhandho ^2-1-1-5-0
 
-26. Tattha katamo viññāṇakkhandho? Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati viññāṇakkhandho. ^2-26
+Tattha katamo viññāṇakkhandho? Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā – ayaṃ vuccati viññāṇakkhandho. ^2-26
 
-27. Tattha katamaṃ viññāṇaṃ atītaṃ? Yaṃ viññāṇaṃ atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ uppajjitvā vigataṃ atītaṃ atītaṃsena saṅgahitaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ atītaṃ.
+Tattha katamaṃ viññāṇaṃ atītaṃ? Yaṃ viññāṇaṃ atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ uppajjitvā vigataṃ atītaṃ atītaṃsena saṅgahitaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ atītaṃ.
 Tattha katamaṃ viññāṇaṃ anāgataṃ? Yaṃ viññāṇaṃ ajātaṃ abhūtaṃ asañjātaṃ anibbattaṃ anabhinibbattaṃ apātubhūtaṃ anuppannaṃ asamuppannaṃ anuṭṭhitaṃ asamuṭṭhitaṃ anāgataṃ anāgataṃsena saṅgahitaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ anāgataṃ.
 Tattha katamaṃ viññāṇaṃ paccuppannaṃ? Yaṃ viññāṇaṃ jātaṃ bhūtaṃ sañjātaṃ nibbattaṃ abhinibbattaṃ pātubhūtaṃ uppannaṃ samuppannaṃ uṭṭhitaṃ samuṭṭhitaṃ paccuppannaṃ paccuppannaṃsena saṅgahitaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ paccuppannaṃ. ^2-27
 
-28. Tattha katamaṃ viññāṇaṃ ajjhattaṃ? Yaṃ viññāṇaṃ tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ ajjhattaṃ.
+Tattha katamaṃ viññāṇaṃ ajjhattaṃ? Yaṃ viññāṇaṃ tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ ajjhattaṃ.
 Tattha katamaṃ viññāṇaṃ bahiddhā? Yaṃ viññāṇaṃ tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyakaṃ pāṭipuggalikaṃ upādinnaṃ, cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ – idaṃ vuccati viññāṇaṃ bahiddhā. ^2-28
 
-29. Tattha katamaṃ viññāṇaṃ oḷārikaṃ sukhumaṃ? Akusalaṃ viññāṇaṃ oḷārikaṃ, kusalābyākatā viññāṇā sukhumā. Kusalākusalā viññāṇā oḷārikā, abyākataṃ viññāṇaṃ sukhumaṃ. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ oḷārikaṃ, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā viññāṇā oḷārikā, adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhumaṃ. Asamāpannassa viññāṇaṃ oḷārikaṃ, samāpannassa viññāṇaṃ sukhumaṃ. Sāsavaṃ viññāṇaṃ oḷārikaṃ, anāsavaṃ viññāṇaṃ sukhumaṃ. Taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ oḷārikaṃ sukhumaṃ daṭṭhabbaṃ. ^2-29
+Tattha katamaṃ viññāṇaṃ oḷārikaṃ sukhumaṃ? Akusalaṃ viññāṇaṃ oḷārikaṃ, kusalābyākatā viññāṇā sukhumā. Kusalākusalā viññāṇā oḷārikā, abyākataṃ viññāṇaṃ sukhumaṃ. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ oḷārikaṃ, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā sukhumā. Sukhadukkhāhi vedanāhi sampayuttā viññāṇā oḷārikā, adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhumaṃ. Asamāpannassa viññāṇaṃ oḷārikaṃ, samāpannassa viññāṇaṃ sukhumaṃ. Sāsavaṃ viññāṇaṃ oḷārikaṃ, anāsavaṃ viññāṇaṃ sukhumaṃ. Taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ oḷārikaṃ sukhumaṃ daṭṭhabbaṃ. ^2-29
 
-30. Tattha katamaṃ viññāṇaṃ hīnaṃ paṇītaṃ? Akusalaṃ viññāṇaṃ hīnaṃ, kusalābyākatā viññāṇā paṇītā. Kusalākusalā viññāṇā hīnā, abyākataṃ viññāṇaṃ paṇītaṃ. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ hīnaṃ, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā viññāṇā hīnā, adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ paṇītaṃ. Asamāpannassa viññāṇaṃ hīnaṃ, samāpannassa viññāṇaṃ paṇītaṃ. Sāsavaṃ viññāṇaṃ hīnaṃ, anāsavaṃ viññāṇaṃ paṇītaṃ. Taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ hīnaṃ paṇītaṃ daṭṭhabbaṃ. ^2-30
+Tattha katamaṃ viññāṇaṃ hīnaṃ paṇītaṃ? Akusalaṃ viññāṇaṃ hīnaṃ, kusalābyākatā viññāṇā paṇītā. Kusalākusalā viññāṇā hīnā, abyākataṃ viññāṇaṃ paṇītaṃ. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ hīnaṃ, sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā paṇītā. Sukhadukkhāhi vedanāhi sampayuttā viññāṇā hīnā, adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ paṇītaṃ. Asamāpannassa viññāṇaṃ hīnaṃ, samāpannassa viññāṇaṃ paṇītaṃ. Sāsavaṃ viññāṇaṃ hīnaṃ, anāsavaṃ viññāṇaṃ paṇītaṃ. Taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ hīnaṃ paṇītaṃ daṭṭhabbaṃ. ^2-30
 
-31. Tattha katamaṃ viññāṇaṃ dūre? Akusalaṃ viññāṇaṃ kusalābyākatehi viññāṇehi dūre; kusalābyākatā viññāṇā akusalā viññāṇā dūre; kusalaṃ viññāṇaṃ akusalābyākatehi viññāṇehi dūre; akusalābyākatā viññāṇā kusalā viññāṇā dūre; abyākataṃ viññāṇaṃ kusalākusalehi viññāṇehi dūre; kusalākusalā viññāṇā abyākatā viññāṇā dūre. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā dukkhāya vedanāya sampayuttā viññāṇā dūre; sukhāya vedanāya sampayuttaṃ viññāṇaṃ dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā sukhāya vedanāya sampayuttā viññāṇā dūre; adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhadukkhāhi vedanāhi sampayuttehi viññāṇehi dūre; sukhadukkhāhi vedanāhi sampayuttā viññāṇā adukkhamasukhāya vedanāya sampayuttā viññāṇā dūre. Asamāpannassa viññāṇaṃ samāpannassa viññāṇā dūre; samāpannassa viññāṇaṃ asamāpannassa viññāṇā dūre. Sāsavaṃ viññāṇaṃ anāsavā viññāṇā dūre; anāsavaṃ viññāṇaṃ sāsavā viññāṇā dūre – idaṃ vuccati viññāṇaṃ dūre.
+Tattha katamaṃ viññāṇaṃ dūre? Akusalaṃ viññāṇaṃ kusalābyākatehi viññāṇehi dūre; kusalābyākatā viññāṇā akusalā viññāṇā dūre; kusalaṃ viññāṇaṃ akusalābyākatehi viññāṇehi dūre; akusalābyākatā viññāṇā kusalā viññāṇā dūre; abyākataṃ viññāṇaṃ kusalākusalehi viññāṇehi dūre; kusalākusalā viññāṇā abyākatā viññāṇā dūre. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre; sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā dukkhāya vedanāya sampayuttā viññāṇā dūre; sukhāya vedanāya sampayuttaṃ viññāṇaṃ dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre; dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā sukhāya vedanāya sampayuttā viññāṇā dūre; adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhadukkhāhi vedanāhi sampayuttehi viññāṇehi dūre; sukhadukkhāhi vedanāhi sampayuttā viññāṇā adukkhamasukhāya vedanāya sampayuttā viññāṇā dūre. Asamāpannassa viññāṇaṃ samāpannassa viññāṇā dūre; samāpannassa viññāṇaṃ asamāpannassa viññāṇā dūre. Sāsavaṃ viññāṇaṃ anāsavā viññāṇā dūre; anāsavaṃ viññāṇaṃ sāsavā viññāṇā dūre – idaṃ vuccati viññāṇaṃ dūre.
 Tattha katamaṃ viññāṇaṃ santike? Akusalaṃ viññāṇaṃ akusalassa viññāṇassa santike; kusalaṃ viññāṇaṃ kusalassa viññāṇassa santike; abyākataṃ viññāṇaṃ abyākatassa viññāṇassa santike. Dukkhāya vedanāya sampayuttaṃ viññāṇaṃ dukkhāya vedanāya sampayuttassa viññāṇassa santike; sukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhāya vedanāya sampayuttassa viññāṇassa santike; adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ adukkhamasukhāya vedanāya sampayuttassa viññāṇassa santike. Asamāpannassa viññāṇaṃ asamāpannassa viññāṇassa santike; samāpannassa viññāṇaṃ samāpannassa viññāṇassa santike. Sāsavaṃ viññāṇaṃ sāsavassa viññāṇassa santike; anāsavaṃ viññāṇaṃ anāsavassa viññāṇassa santike – idaṃ vuccati viññāṇaṃ santike. Taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ dūre santike daṭṭhabbaṃ.
 Suttantabhājanīyaṃ. ^2-31
 
 #### Abhidhammabhājanīyaṃ ^2-1-2-0
 
-32. Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-32
+Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-32
 
 ##### Rūpakkhandho ^2-1-2-1-0
 
-33. Tattha katamo rūpakkhandho? Ekavidhena rūpakkhandho – sabbaṃ rūpaṃ na hetu, ahetukaṃ, hetuvippayuttaṃ, sappaccayaṃ, saṅkhataṃ, rūpaṃ, lokiyaṃ, sāsavaṃ, saṃyojaniyaṃ, ganthaniyaṃ, oghaniyaṃ, yoganiyaṃ, nīvaraṇiyaṃ, parāmaṭṭhaṃ, upādāniyaṃ, saṃkilesikaṃ, abyākataṃ, anārammaṇaṃ, acetasikaṃ, cittavippayuttaṃ, nevavipākanavipākadhammadhammaṃ, asaṃkiliṭṭhasaṃkilesikaṃ, na savitakkasavicāraṃ, na avitakkavicāramattaṃ, avitakkaavicāraṃ, na pītisahagataṃ, na sukhasahagataṃ, na upekkhāsahagataṃ, neva dassanena na bhāvanāya pahātabbaṃ, neva dassanena na bhāvanāya pahātabbahetukaṃ, nevācayagāmināpacayagāmī, nevasekkhanāsekkhaṃ, parittaṃ, kāmāvacaraṃ, na rūpāvacaraṃ, na arūpāvacaraṃ, pariyāpannaṃ, no apariyāpannaṃ, aniyataṃ, aniyyānikaṃ, uppannaṃ, chahi viññāṇehi viññeyyaṃ, aniccaṃ, jarābhibhūtaṃ. Evaṃ ekavidhena rūpakkhandho.
+Tattha katamo rūpakkhandho? Ekavidhena rūpakkhandho – sabbaṃ rūpaṃ na hetu, ahetukaṃ, hetuvippayuttaṃ, sappaccayaṃ, saṅkhataṃ, rūpaṃ, lokiyaṃ, sāsavaṃ, saṃyojaniyaṃ, ganthaniyaṃ, oghaniyaṃ, yoganiyaṃ, nīvaraṇiyaṃ, parāmaṭṭhaṃ, upādāniyaṃ, saṃkilesikaṃ, abyākataṃ, anārammaṇaṃ, acetasikaṃ, cittavippayuttaṃ, nevavipākanavipākadhammadhammaṃ, asaṃkiliṭṭhasaṃkilesikaṃ, na savitakkasavicāraṃ, na avitakkavicāramattaṃ, avitakkaavicāraṃ, na pītisahagataṃ, na sukhasahagataṃ, na upekkhāsahagataṃ, neva dassanena na bhāvanāya pahātabbaṃ, neva dassanena na bhāvanāya pahātabbahetukaṃ, nevācayagāmināpacayagāmī, nevasekkhanāsekkhaṃ, parittaṃ, kāmāvacaraṃ, na rūpāvacaraṃ, na arūpāvacaraṃ, pariyāpannaṃ, no apariyāpannaṃ, aniyataṃ, aniyyānikaṃ, uppannaṃ, chahi viññāṇehi viññeyyaṃ, aniccaṃ, jarābhibhūtaṃ. Evaṃ ekavidhena rūpakkhandho.
 Duvidhena rūpakkhandho – atthi rūpaṃ upādā, atthi rūpaṃ no upādā [nupādā (sī. ka.)]. Atthi rūpaṃ upādinnaṃ, atthi rūpaṃ anupādinnaṃ. Atthi rūpaṃ upādinnupādāniyaṃ, atthi rūpaṃ anupādinnupādāniyaṃ. Atthi rūpaṃ sanidassanaṃ, atthi rūpaṃ anidassanaṃ. Atthi rūpaṃ sappaṭighaṃ, atthi rūpaṃ appaṭighaṃ. Atthi rūpaṃ indriyaṃ, atthi rūpaṃ na indriyaṃ. Atthi rūpaṃ mahābhūtaṃ, atthi rūpaṃ na mahābhūtaṃ. Atthi rūpaṃ viññatti, atthi rūpaṃ na viññatti. Atthi rūpaṃ cittasamuṭṭhānaṃ, atthi rūpaṃ na cittasamuṭṭhānaṃ. Atthi rūpaṃ cittasahabhu, atthi rūpaṃ na cittasahabhu. Atthi rūpaṃ cittānuparivatti, atthi rūpaṃ na cittānuparivatti. Atthi rūpaṃ ajjhattikaṃ, atthi rūpaṃ bāhiraṃ. Atthi rūpaṃ oḷārikaṃ, atthi rūpaṃ sukhumaṃ. Atthi rūpaṃ dūre, atthi rūpaṃ santike…pe… atthi rūpaṃ kabaḷīkāro āhāro, atthi rūpaṃ na kabaḷīkāro āhāro. Evaṃ duvidhena rūpakkhandho.
 (Yathā rūpakaṇḍe vibhattaṃ, tathā idha vibhajitabbaṃ.)
 Tividhena rūpakkhandho – yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ upādā, yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi upādā, atthi no upādā. Yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ upādinnaṃ, yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi upādinnaṃ, atthi anupādinnaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ upādinnupādāniyaṃ, yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi upādinnupādāniyaṃ, atthi anupādinnupādāniyaṃ…pe… yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ na kabaḷīkāro āhāro, yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi kabaḷīkāro āhāro, atthi na kabaḷīkāro āhāro. Evaṃ tividhena rūpakkhandho.
@@ -119,7 +119,7 @@ Ayaṃ vuccati rūpakkhandho. ^2-33
 
 ##### Vedanākkhandho ^2-1-2-2-0
 
-34. Tattha katamo vedanākkhandho? Ekavidhena vedanākkhandho – phassasampayutto.
+Tattha katamo vedanākkhandho? Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato.
 Catubbidhena vedanākkhandho – atthi kāmāvacaro, atthi rūpāvacaro, atthi arūpāvacaro, atthi apariyāpanno.
@@ -130,113 +130,113 @@ Aṭṭhavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassaj�
 Navavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ navavidhena vedanākkhandho.
 Dasavidhena vedanākkhandho – cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā atthi sukhā, atthi dukkhā, manodhātusamphassajā vedanā, manoviññāṇadhātusamphassajā vedanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ dasavidhena vedanākkhandho. ^2-34
 
-35. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-35
 
-36. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi hetusampayutto, atthi hetuvippayutto…pe… atthi na hetusahetuko, atthi na hetuahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo. Atthi saṃyojaniyo, atthi asaṃyojaniyo. Atthi saṃyojanasampayutto, atthi saṃyojanavippayutto. Atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo. Atthi ganthaniyo, atthi aganthaniyo. Atthi ganthasampayutto, atthi ganthavippayutto. Atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo. Atthi oghaniyo, atthi anoghaniyo. Atthi oghasampayutto, atthi oghavippayutto. Atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo. Atthi yoganiyo, atthi ayoganiyo. Atthi yogasampayutto, atthi yogavippayutto. Atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo. Atthi nīvaraṇiyo, atthi anīvaraṇiyo. Atthi nīvaraṇasampayutto, atthi nīvaraṇavippayutto. Atthi nīvaraṇavippayuttanīvaraṇiyo, atthi nīvaraṇavippayuttaanīvaraṇiyo. Atthi parāmaṭṭho, atthi aparāmaṭṭho. Atthi parāmāsasampayutto, atthi parāmāsavippayutto. Atthi parāmāsavippayuttaparāmaṭṭho, atthi parāmāsavippayuttaaparāmaṭṭho. Atthi upādinno, atthi anupādinno. Atthi upādāniyo, atthi anupādāniyo. Atthi upādānasampayutto, atthi upādānavippayutto. Atthi upādānavippayuttaupādāniyo, atthi upādānavippayuttaanupādāniyo. Atthi saṃkilesiko, atthi asaṃkilesiko. Atthi saṃkiliṭṭho, atthi asaṃkiliṭṭho. Atthi kilesasampayutto, atthi kilesavippayutto. Atthi kilesavippayuttasaṃkilesiko, atthi kilesavippayuttaasaṃkilesiko. Atthi dassanena pahātabbo, atthi na dassanena pahātabbo. Atthi bhāvanāya pahātabbo, atthi na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi na dassanena pahātabbahetuko. Atthi bhāvanāya pahātabbahetuko, atthi na bhāvanāya pahātabbahetuko. Atthi savitakko, atthi avitakko. Atthi savicāro, atthi avicāro. Atthi sappītiko, atthi appītiko. Atthi pītisahagato, atthi na pītisahagato. Atthi kāmāvacaro, atthi na kāmāvacaro. Atthi rūpāvacaro, atthi na rūpāvacaro. Atthi arūpāvacaro, atthi na arūpāvacaro. Atthi pariyāpanno, atthi apariyāpanno. Atthi niyyāniko, atthi aniyyāniko. Atthi niyato, atthi aniyato. Atthi sauttaro, atthi anuttaro. Atthi saraṇo, atthi araṇo.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-36
 
-37. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi saraṇo, atthi araṇo.
 Tividhena vedanākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho.
 Dukamūlakaṃ. ^2-37
 
-38. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-38
 
-39. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi hetusampayutto, atthi hetuvippayutto.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-39
 
-40. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi na hetusahetuko, atthi na hetuahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo…pe… atthi saraṇo, atthi araṇo.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-40
 
-41. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-41
 
-42. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi hetusampayutto, atthi hetuvippayutto. Atthi na hetusahetuko, atthi na hetuahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo. Atthi saṃyojaniyo, atthi asaṃyojaniyo…pe… atthi saraṇo, atthi araṇo.
 Tividhena vedanākkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho.
 Tikamūlakaṃ. ^2-42
 
-43. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena vedanākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-43
 
-44. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi hetusampayutto, atthi hetuvippayutto.
 Tividhena vedanākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-44
 
-45. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi na hetusahetuko, atthi na hetuahetuko.
 Tividhena vedanākkhandho – atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-45
 
-46. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi lokiyo, atthi lokuttaro.
 Tividhena vedanākkhandho – atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-46
 
-47. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi kenaci viññeyyo, atthi kenaci na viññeyyo.
 Tividhena vedanākkhandho – atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-47
 
-48. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi sāsavo, atthi anāsavo.
 Tividhena vedanākkhandho – atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-48
 
-49. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi āsavasampayutto, atthi āsavavippayutto.
 Tividhena vedanākkhandho – atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-49
 
-50. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo.
 Tividhena vedanākkhandho – atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-50
 
-51. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi saṃyojaniyo, atthi asaṃyojaniyo.
 Tividhena vedanākkhandho – atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-51
 
-52. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi saṃyojanasampayutto, atthi saṃyojanavippayutto.
 Tividhena vedanākkhandho – atthi paritto, atthi mahaggato, atthi appamāṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-52
 
-53. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Tividhena vedanākkhandho – atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-53
 
-54. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi ganthaniyo, atthi aganthaniyo.
 Tividhena vedanākkhandho – atthi hīno, atthi majjhimo, atthi paṇīto…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-54
 
-55. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi ganthasampayutto, atthi ganthavippayutto.
 Tividhena vedanākkhandho – atthi micchattaniyato, atthi sammattaniyato, atthi aniyato…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-55
 
-56. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo.
 Tividhena vedanākkhandho – atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-56
 
-57. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi oghaniyo, atthi anoghaniyo.
 Tividhena vedanākkhandho – atthi uppanno, atthi anuppanno, atthi uppādī…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-57
 
-58. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi oghasampayutto, atthi oghavippayutto.
 Tividhena vedanākkhandho – atthi atīto, atthi anāgato, atthi paccuppanno…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-58
 
-59. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo.
 Tividhena vedanākkhandho – atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-59
 
-60. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi yoganiyo, atthi ayoganiyo.
 Tividhena vedanākkhandho – atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho…pe…. Evaṃ dasavidhena vedanākkhandho. ^2-60
 
-61. Ekavidhena vedanākkhandho – phassasampayutto.
+Ekavidhena vedanākkhandho – phassasampayutto.
 Duvidhena vedanākkhandho – atthi yogasampayutto, atthi yogavippayutto.
 Tividhena vedanākkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena vedanākkhandho.
 Ubhatovaḍḍhakaṃ.
@@ -251,7 +251,7 @@ Ayaṃ vuccati vedanākkhandho. ^2-61
 
 ##### Saññākkhandho ^2-1-2-3-0
 
-62. Tattha katamo saññākkhandho? Ekavidhena saññākkhandho – phassasampayutto.
+Tattha katamo saññākkhandho? Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi kusalo, atthi akusalo, atthi abyākato.
 Catubbidhena saññākkhandho – atthi kāmāvacaro, atthi rūpāvacaro, atthi arūpāvacaro, atthi apariyāpanno.
@@ -262,122 +262,122 @@ Aṭṭhavidhena saññākkhandho – cakkhusamphassajā saññā…pe… kāyas
 Navavidhena saññākkhandho – cakkhusamphassajā saññā…pe… kāyasamphassajā saññā, manodhātusamphassajā saññā, manoviññāṇadhātusamphassajā saññā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ navavidhena saññākkhandho.
 Dasavidhena saññākkhandho – cakkhusamphassajā saññā…pe… kāyasamphassajā saññā atthi sukhasahagatā, atthi dukkhasahagatā, manodhātusamphassajā saññā, manoviññāṇadhātusamphassajā saññā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ dasavidhena saññākkhandho. ^2-62
 
-63. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto…pe…. Evaṃ dasavidhena saññākkhandho. ^2-63
 
-64. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe… evaṃ dasavidhena saññākkhandho. ^2-64
 
-65. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi hetusampayutto, atthi hetuvippayutto. Atthi na hetusahetuko, atthi na hetuahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo. Atthi saṃyojaniyo, atthi asaṃyojaniyo. Atthi saṃyojanasampayutto, atthi saṃyojanavippayutto. Atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo. Atthi ganthaniyo, atthi aganthaniyo. Atthi ganthasampayutto, atthi ganthavippayutto. Atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo. Atthi oghaniyo, atthi anoghaniyo. Atthi oghasampayutto, atthi oghavippayutto. Atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo. Atthi yoganiyo, atthi ayoganiyo. Atthi yogasampayutto, atthi yogavippayutto. Atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo. Atthi nīvaraṇiyo, atthi anīvaraṇiyo. Atthi nīvaraṇasampayutto, atthi nīvaraṇavippayutto. Atthi nīvaraṇavippayuttanīvaraṇiyo, atthi nīvaraṇavippayuttaanīvaraṇiyo. Atthi parāmaṭṭho, atthi aparāmaṭṭho. Atthi parāmāsasampayutto, atthi parāmāsavippayutto. Atthi parāmāsavippayuttaparāmaṭṭho, atthi parāmāsavippayuttaaparāmaṭṭho. Atthi upādinno, atthi anupādinno. Atthi upādāniyo, atthi anupādāniyo. Atthi upādānasampayutto, atthi upādānavippayutto. Atthi upādānavippayuttaupādāniyo, atthi upādānavippayuttaanupādāniyo. Atthi saṃkilesiko, atthi asaṃkilesiko. Atthi saṃkiliṭṭho, atthi asaṃkiliṭṭho. Atthi kilesasampayutto, atthi kilesavippayutto. Atthi kilesavippayuttasaṃkilesiko, atthi kilesavippayuttaasaṃkilesiko. Atthi dassanena pahātabbo, atthi na dassanena pahātabbo. Atthi bhāvanāya pahātabbo, atthi na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi na dassanena pahātabbahetuko. Atthi bhāvanāya pahātabbahetuko, atthi na bhāvanāya pahātabbahetuko. Atthi savitakko, atthi avitakko. Atthi savicāro, atthi avicāro. Atthi sappītiko, atthi appītiko. Atthi pītisahagato, atthi na pītisahagato. Atthi sukhasahagato, atthi na sukhasahagato. Atthi upekkhāsahagato, atthi na upekkhāsahagato. Atthi kāmāvacaro, atthi na kāmāvacaro. Atthi rūpāvacaro, atthi na rūpāvacaro. Atthi arūpāvacaro, atthi na arūpāvacaro. Atthi pariyāpanno, atthi apariyāpanno. Atthi niyyāniko, atthi aniyyāniko. Atthi niyato, atthi aniyato. Atthi sauttaro, atthi anuttaro. Atthi saraṇo, atthi araṇo.
 Tividhena saññākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-65
 
-66. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi saraṇo, atthi araṇo.
 Tividhena saññākkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho.
 (Yathā kusalattike vitthāro, evaṃ sabbepi tikā vitthāretabbā.)
 Dukamūlakaṃ. ^2-66
 
-67. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-67
 
-68. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi hetusampayutto, atthi hetuvippayutto…pe… atthi saraṇo, atthi araṇo.
 Tividhena saññākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-68
 
-69. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-69
 
-70. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi hetusampayutto, atthi hetuvippayutto…pe… atthi saraṇo, atthi araṇo.
 Tividhena saññākkhandho…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho.
 Tikamūlakaṃ. ^2-70
 
-71. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena saññākkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-71
 
-72. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi hetusampayutto, atthi hetuvippayutto.
 Tividhena saññākkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto…pe…. Evaṃ dasavidhena saññākkhandho. ^2-72
 
-73. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi na hetu sahetuko, atthi na hetu ahetuko.
 Tividhena saññākkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-73
 
-74. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi lokiyo, atthi lokuttaro.
 Tividhena saññākkhandho – atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-74
 
-75. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi kenaci viññeyyo, atthi kenaci na viññeyyo.
 Tividhena saññākkhandho – atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko…pe…. Evaṃ dasavidhena saññākkhandho. ^2-75
 
-76. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi sāsavo, atthi anāsavo.
 Tividhena saññākkhandho – atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro…pe…. Evaṃ dasavidhena saññākkhandho. ^2-76
 
-77. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi āsavasampayutto, atthi āsavavippayutto.
 Tividhena saññākkhandho – atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-77
 
-78. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo.
 Tividhena saññākkhandho – atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-78
 
-79. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi saṃyojaniyo, atthi asaṃyojaniyo.
 Tividhena saññākkhandho – atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko…pe…. Evaṃ dasavidhena saññākkhandho. ^2-79
 
-80. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi saṃyojanasampayutto, atthi saṃyojanavippayutto.
 Tividhena saññākkhandho – atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī…pe…. Evaṃ dasavidhena saññākkhandho. ^2-80
 
-81. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Tividhena saññākkhandho – atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho…pe…. Evaṃ dasavidhena saññākkhandho. ^2-81
 
-82. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi ganthaniyo, atthi aganthaniyo.
 Tividhena saññākkhandho – atthi paritto, atthi mahaggato, atthi appamāṇo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-82
 
-83. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi ganthasampayutto, atthi ganthavippayutto.
 Tividhena saññākkhandho – atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-83
 
-84. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo.
 Tividhena saññākkhandho – atthi hīno, atthi majjhimo, atthi paṇīto…pe…. Evaṃ dasavidhena saññākkhandho. ^2-84
 
-85. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi oghaniyo, atthi anoghaniyo.
 Tividhena saññākkhandho – atthi micchattaniyato, atthi sammattaniyato, atthi aniyato…pe…. Evaṃ dasavidhena saññākkhandho. ^2-85
 
-86. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi oghasampayutto, atthi oghavippayutto.
 Tividhena saññākkhandho – atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati…pe…. Evaṃ dasavidhena saññākkhandho. ^2-86
 
-87. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo.
 Tividhena saññākkhandho – atthi uppanno, atthi anuppanno, atthi uppādī…pe…. Evaṃ dasavidhena saññākkhandho. ^2-87
 
-88. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi yoganiyo, atthi ayoganiyo.
 Tividhena saññākkhandho – atthi atīto, atthi anāgato, atthi paccuppanno…pe…. Evaṃ dasavidhena saññākkhandho. ^2-88
 
-89. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi yogasampayutto, atthi yogavippayutto.
 Tividhena saññākkhandho – atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho. ^2-89
 
-90. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo.
 Tividhena saññākkhandho – atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho…pe…. Evaṃ dasavidhena saññākkhandho. ^2-90
 
-91. Ekavidhena saññākkhandho – phassasampayutto.
+Ekavidhena saññākkhandho – phassasampayutto.
 Duvidhena saññākkhandho – atthi nīvaraṇiyo, atthi anīvaraṇiyo.
 Tividhena saññākkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saññākkhandho.
 Ubhatovaḍḍhakaṃ.
@@ -392,7 +392,7 @@ Ayaṃ vuccati saññākkhandho. ^2-91
 
 ##### Saṅkhārakkhandho ^2-1-2-4-0
 
-92. Tattha katamo saṅkhārakkhandho? Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Tattha katamo saṅkhārakkhandho? Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu, atthi na hetu.
 Tividhena saṅkhārakkhandho – atthi kusalo, atthi akusalo, atthi abyākato.
 Catubbidhena saṅkhārakkhandho – atthi kāmāvacaro, atthi rūpāvacaro, atthi arūpāvacaro, atthi apariyāpanno.
@@ -403,11 +403,11 @@ Aṭṭhavidhena saṅkhārakkhandho – cakkhusamphassajā cetanā…pe… kāy
 Navavidhena saṅkhārakkhandho – cakkhusamphassajā cetanā…pe… manodhātusamphassajā cetanā, manoviññāṇadhātusamphassajā cetanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ navavidhena saṅkhārakkhandho.
 Dasavidhena saṅkhārakkhandho – cakkhusamphassajā cetanā…pe… kāyasamphassajā cetanā atthi sukhasahagatā, atthi dukkhasahagatā, manodhātusamphassajā cetanā, manoviññāṇadhātusamphassajā cetanā atthi kusalā, atthi akusalā, atthi abyākatā. Evaṃ dasavidhena saṅkhārakkhandho. ^2-92
 
-93. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu, atthi na hetu.
 Tividhena saṅkhārakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-93
 
-94. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi sahetuko, atthi ahetuko. Atthi hetusampayutto, atthi hetuvippayutto. Atthi hetu ceva sahetuko ca, atthi sahetuko ceva na ca hetu. Atthi hetu ceva hetusampayutto ca, atthi hetusampayutto ceva na ca hetu. Atthi na hetu sahetuko, atthi na hetu ahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi āsavo, atthi no āsavo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavo ceva sāsavo ca, atthi sāsavo ceva no ca āsavo. Atthi āsavo ceva āsavasampayutto ca, atthi āsavasampayutto ceva no ca āsavo. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo. Atthi saṃyojanaṃ, atthi no saṃyojanaṃ. Atthi saṃyojaniyo, atthi asaṃyojaniyo. Atthi saṃyojanasampayutto, atthi saṃyojanavippayutto. Atthi saṃyojanañceva saṃyojaniyo ca, atthi saṃyojaniyo ceva no ca saṃyojanaṃ. Atthi saṃyojanañceva saṃyojanasampayutto ca, atthi saṃyojanasampayutto ceva no ca saṃyojanaṃ. Atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Atthi gantho, atthi no gantho. Atthi ganthaniyo, atthi aganthaniyo. Atthi ganthasampayutto, atthi ganthavippayutto. Atthi gantho ceva ganthaniyo ca, atthi ganthaniyo ceva no ca gantho. Atthi gantho ceva ganthasampayutto ca, atthi ganthasampayutto ceva no ca gantho. Atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo. Atthi ogho, atthi no ogho. Atthi oghaniyo, atthi anoghaniyo. Atthi oghasampayutto, atthi oghavippayutto. Atthi ogho ceva oghaniyo ca, atthi oghaniyo ceva no ca ogho. Atthi ogho ceva oghasampayutto ca, atthi oghasampayutto ceva no ca ogho. Atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo. Atthi yogo, atthi no yogo. Atthi yoganiyo, atthi ayoganiyo. Atthi yogasampayutto, atthi yogavippayutto. Atthi yogo ceva yoganiyo ca, atthi yoganiyo ceva no ca yogo. Atthi yogo ceva yogasampayutto ca, atthi yogasampayutto ceva no ca yogo. Atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo. Atthi nīvaraṇaṃ, atthi no nīvaraṇaṃ. Atthi nīvaraṇiyo, atthi anīvaraṇiyo. Atthi nīvaraṇasampayutto, atthi nīvaraṇavippayutto. Atthi nīvaraṇañceva nīvaraṇiyo ca, atthi nīvaraṇiyo ceva no ca nīvaraṇaṃ. Atthi nīvaraṇañceva nīvaraṇasampayutto ca, atthi nīvaraṇasampayutto ceva no ca nīvaraṇaṃ. Atthi nīvaraṇavippayuttanīvaraṇiyo, atthi nīvaraṇavippayuttaanīvaraṇiyo.
 Atthi parāmāso, atthi no parāmāso. Atthi parāmaṭṭho, atthi aparāmaṭṭho. Atthi parāmāsasampayutto, atthi parāmāsavippayutto. Atthi parāmāso ceva parāmaṭṭho ca, atthi parāmaṭṭho ceva no ca parāmāso. Atthi parāmāsavippayuttaparāmaṭṭho, atthi parāmāsavippayuttaaparāmaṭṭho. Atthi upādinno, atthi anupādinno. Atthi upādānaṃ, atthi no upādānaṃ. Atthi upādāniyo, atthi anupādāniyo. Atthi upādānasampayutto, atthi upādānavippayutto. Atthi upādānañceva upādāniyo ca, atthi upādāniyo ceva no ca upādānaṃ. Atthi upādānañceva upādānasampayutto ca, atthi upādānasampayutto ceva no ca upādānaṃ. Atthi upādānavippayuttaupādāniyo, atthi upādānavippayuttaanupādāniyo.
@@ -415,109 +415,109 @@ Atthi kileso, atthi no kileso. Atthi saṃkilesiko, atthi asaṃkilesiko. Atthi 
 Atthi savitakko, atthi avitakko. Atthi savicāro, atthi avicāro. Atthi sappītiko, atthi appītiko. Atthi pītisahagato, atthi na pītisahagato. Atthi sukhasahagato, atthi na sukhasahagato. Atthi upekkhāsahagato, atthi na upekkhāsahagato. Atthi kāmāvacaro, atthi na kāmāvacaro. Atthi rūpāvacaro, atthi na rūpāvacaro. Atthi arūpāvacaro, atthi na arūpāvacaro. Atthi pariyāpanno, atthi apariyāpanno. Atthi niyyāniko, atthi aniyyāniko. Atthi niyato, atthi aniyato. Atthi sauttaro, atthi anuttaro. Atthi saraṇo, atthi araṇo.
 Tividhena saṅkhārakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-94
 
-95. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saraṇo, atthi araṇo.
 Tividhena saṅkhārakkhandho – atthi sukhāya vedanāya sampayutto…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho.
 Dukamūlakaṃ. ^2-95
 
-96. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu, atthi na hetu.
 Tividhena saṅkhārakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-96
 
-97. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saraṇo, atthi araṇo.
 Tividhena saṅkhārakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-97
 
-98. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu, atthi na hetu.
 Tividhena saṅkhārakkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-98
 
-99. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saraṇo, atthi araṇo.
 Tividhena saṅkhārakkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho.
 Tikamūlakaṃ. ^2-99
 
-100. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu, atthi na hetu.
 Tividhena saṅkhārakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-100
 
-101. Ekavidhena saṅkhārakkhandho cittasampayutto.
+Ekavidhena saṅkhārakkhandho cittasampayutto.
 Duvidhena saṅkhārakkhandho atthi sahetuko, atthi ahetuko.
 Tividhena saṅkhārakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-101
 
-102. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetusampayutto, atthi hetuvippayutto.
 Tividhena saṅkhārakkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-102
 
-103. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu ceva sahetuko ca, atthi sahetuko ceva na ca hetu.
 Tividhena saṅkhārakkhandho – atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-103
 
-104. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi hetu ceva hetusampayutto ca, atthi hetusampayutto ceva na ca hetu.
 Tividhena saṅkhārakkhandho – atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-104
 
-105. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi na hetu sahetuko, atthi na hetu ahetuko.
 Tividhena saṅkhārakkhandho – atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-105
 
-106. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi lokiyo, atthi lokuttaro.
 Tividhena saṅkhārakkhandho – atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-106
 
-107. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi kenaci viññeyyo, atthi kenaci na viññeyyo.
 Tividhena saṅkhārakkhandho – atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-107
 
-108. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi āsavo, atthi no āsavo.
 Tividhena saṅkhārakkhandho – atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-108
 
-109. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi sāsavo, atthi anāsavo.
 Tividhena saṅkhārakkhandho – atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-109
 
-110. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi āsavasampayutto, atthi āsavavippayutto.
 Tividhena saṅkhārakkhandho – atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-110
 
-111. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi āsavo ceva sāsavo ca, atthi sāsavo ceva no ca āsavo.
 Tividhena saṅkhārakkhandho – atthi paritto, atthi mahaggato, atthi appamāṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-111
 
-112. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi āsavo ceva āsavasampayutto ca, atthi āsavasampayutto ceva no ca āsavo.
 Tividhena saṅkhārakkhandho – atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-112
 
-113. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi āsavavippayuttasāsavo, atthi āsavippayuttaanāsavo.
 Tividhena saṅkhārakkhandho – atthi hīno, atthi majjhimo, atthi paṇīto…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-113
 
-114. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojanaṃ, atthi no saṃyojanaṃ.
 Tividhena saṅkhārakkhandho – atthi micchattaniyato, atthi sammattaniyato, atthi aniyato…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-114
 
-115. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojaniyo, atthi asaṃyojaniyo.
 Tividhena saṅkhārakkhandho – atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-115
 
-116. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojanasampayutto, atthi saṃyojanavippayutto.
 Tividhena saṅkhārakkhandho – atthi uppanno, atthi anuppanno, atthi uppādī…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-116
 
-117. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojanañceva saṃyojaniyo ca, atthi saṃyojaniyo ceva no ca saṃyojanaṃ.
 Tividhena saṅkhārakkhandho – atthi atīto, atthi anāgato, atthi paccuppanno…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-117
 
-118. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojanañceva saṃyojanasampayutto ca, atthi saṃyojanasampayutto ceva no ca saṃyojanaṃ.
 Tividhena saṅkhārakkhandho – atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-118
 
-119. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Tividhena saṅkhārakkhandho – atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho…pe…. Evaṃ dasavidhena saṅkhārakkhandho. ^2-119
 
-120. Ekavidhena saṅkhārakkhandho – cittasampayutto.
+Ekavidhena saṅkhārakkhandho – cittasampayutto.
 Duvidhena saṅkhārakkhandho – atthi gantho, atthi no gantho.
 Tividhena saṅkhārakkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena saṅkhārakkhandho.
 Ubhatovaḍḍhakaṃ.
@@ -532,7 +532,7 @@ Ayaṃ vuccati saṅkhārakkhandho. ^2-120
 
 ##### Viññāṇakkhandho ^2-1-2-5-0
 
-121. Tattha katamo viññāṇakkhandho? Ekavidhena viññāṇakkhandho – phassasampayutto.
+Tattha katamo viññāṇakkhandho? Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena viññāṇakkhandho – atthi kusalo, atthi akusalo, atthi abyākato.
 Catubbidhena viññāṇakkhandho – atthi kāmāvacaro, atthi rūpāvacaro, atthi arūpāvacaro, atthi apariyāpanno.
@@ -543,120 +543,120 @@ Aṭṭhavidhena viññāṇakkhandho – cakkhuviññāṇaṃ, sotaviññāṇ
 Navavidhena viññāṇakkhandho – cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu atthi kusalaṃ, atthi akusalaṃ, atthi abyākataṃ. Evaṃ navavidhena viññāṇakkhandho.
 Dasavidhena viññāṇakkhandho – cakkhuviññāṇaṃ…pe… kāyaviññāṇaṃ atthi sukhasahagataṃ, atthi dukkhasahagataṃ, manodhātu, manoviññāṇadhātu atthi kusalaṃ, atthi akusalaṃ, atthi abyākataṃ. Evaṃ dasavidhena viññāṇakkhandho. ^2-121
 
-122. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena viññāṇakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo. Atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo. Atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko. Atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro. Atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato. Atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko. Atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī. Atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho. Atthi paritto, atthi mahaggato, atthi appamāṇo. Atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo. Atthi hīno, atthi majjhimo, atthi paṇīto. Atthi micchattaniyato, atthi sammattaniyato, atthi aniyato. Atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati. Atthi uppanno, atthi anuppanno, atthi uppādī. Atthi atīto, atthi anāgato, atthi paccuppanno. Atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo. Atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho. Atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-122
 
-123. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi hetusampayutto, atthi hetuvippayutto. Atthi na hetu sahetuko, atthi na hetu ahetuko. Atthi lokiyo, atthi lokuttaro. Atthi kenaci viññeyyo, atthi kenaci na viññeyyo. Atthi sāsavo, atthi anāsavo. Atthi āsavasampayutto, atthi āsavavippayutto. Atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo. Atthi saṃyojaniyo, atthi asaṃyojaniyo. Atthi saṃyojanasampayutto, atthi saṃyojanavippayutto. Atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Atthi ganthaniyo, atthi aganthaniyo. Atthi ganthasampayutto, atthi ganthavippayutto. Atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo. Atthi oghaniyo, atthi anoghaniyo. Atthi oghasampayutto, atthi oghavippayutto. Atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo. Atthi yoganiyo, atthi ayoganiyo. Atthi yogasampayutto, atthi yogavippayutto. Atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo. Atthi nīvaraṇiyo, atthi anīvaraṇiyo. Atthi nīvaraṇasampayutto, atthi nīvaraṇavippayutto. Atthi nīvaraṇavippayuttanīvaraṇiyo, atthi nīvaraṇavippayuttaanīvaraṇiyo.
 Atthi parāmaṭṭho, atthi aparāmaṭṭho. Atthi parāmāsasampayutto, atthi parāmāsavippayutto. Atthi parāmāsavippayuttaparāmaṭṭho, atthi parāmāsavippayuttaaparāmaṭṭho. Atthi upādinno, atthi anupādinno. Atthi upādāniyo, atthi anupādāniyo. Atthi upādānasampayutto, atthi upādānavippayutto. Atthi upādānavippayuttaupādāniyo, atthi upādānavippayuttaanupādāniyo. Atthi saṃkilesiko, atthi asaṃkilesiko. Atthi saṃkiliṭṭho, atthi asaṃkiliṭṭho. Atthi kilesasampayutto, atthi kilesavippayutto. Atthi kilesavippayuttasaṃkilesiko, atthi kilesavippayuttaasaṃkilesiko. Atthi dassanena pahātabbo, atthi na dassanena pahātabbo. Atthi bhāvanāya pahātabbo, atthi na bhāvanāya pahātabbo. Atthi dassanena pahātabbahetuko, atthi na dassanena pahātabbahetuko. Atthi bhāvanāya pahātabbahetuko, atthi na bhāvanāya pahātabbahetuko.
 Atthi savitakko, atthi avitakko. Atthi savicāro, atthi avicāro. Atthi sappītiko, atthi appītiko. Atthi pītisahagato, atthi na pītisahagato. Atthi sukhasahagato, atthi na sukhasahagato. Atthi upekkhāsahagato, atthi na upekkhāsahagato. Atthi kāmāvacaro, atthi na kāmāvacaro. Atthi rūpāvacaro, atthi na rūpāvacaro. Atthi arūpāvacaro, atthi na arūpāvacaro, atthi pariyāpanno, atthi apariyāpanno. Atthi niyyāniko, atthi aniyyāniko. Atthi niyato, atthi aniyato. Atthi sauttaro, atthi anuttaro. Atthi saraṇo, atthi araṇo.
 Tividhena viññāṇakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-123
 
-124. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi saraṇo, atthi araṇo.
 Tividhena viññāṇakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho.
 Dukamūlakaṃ. ^2-124
 
-125. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena viññāṇakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-125
 
-126. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi hetusampayutto, atthi hetuvippayutto…pe… atthi saraṇo, atthi araṇo.
 Tividhena viññāṇakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-126
 
-127. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena viññāṇakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto. Atthi vipāko…pe… atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-127
 
-128. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi hetusampayutto, atthi hetuvippayutto…pe… atthi saraṇo, atthi araṇo.
 Tividhena viññāṇakkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho.
 Tikamūlakaṃ. ^2-128
 
-129. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sahetuko, atthi ahetuko.
 Tividhena viññāṇakkhandho – atthi kusalo, atthi akusalo, atthi abyākato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-129
 
-130. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi hetusampayutto, atthi hetuvippayutto.
 Tividhena viññāṇakkhandho – atthi sukhāya vedanāya sampayutto, atthi dukkhāya vedanāya sampayutto, atthi adukkhamasukhāya vedanāya sampayutto…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-130
 
-131. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi na hetu sahetuko, atthi na hetuahetuko.
 Tividhena viññāṇakkhandho – atthi vipāko, atthi vipākadhammadhammo, atthi nevavipākanavipākadhammadhammo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-131
 
-132. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi lokiyo, atthi lokuttaro.
 Tividhena viññāṇakkhandho – atthi upādinnupādāniyo, atthi anupādinnupādāniyo, atthi anupādinnaanupādāniyo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-132
 
-133. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi kenaci viññeyyo, atthi kenaci na viññeyyo.
 Tividhena viññāṇakkhandho – atthi saṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhasaṃkilesiko, atthi asaṃkiliṭṭhaasaṃkilesiko…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-133
 
-134. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi sāsavo, atthi anāsavo.
 Tividhena viññāṇakkhandho – atthi savitakkasavicāro, atthi avitakkavicāramatto, atthi avitakkaavicāro…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-134
 
-135. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi āsavasampayutto, atthi āsavavippayutto.
 Tividhena viññāṇakkhandho – atthi pītisahagato, atthi sukhasahagato, atthi upekkhāsahagato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-135
 
-136. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi āsavavippayuttasāsavo, atthi āsavavippayuttaanāsavo.
 Tividhena viññāṇakkhandho – atthi dassanena pahātabbo, atthi bhāvanāya pahātabbo, atthi neva dassanena na bhāvanāya pahātabbo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-136
 
-137. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi saṃyojaniyo, atthi asaṃyojaniyo.
 Tividhena viññāṇakkhandho – atthi dassanena pahātabbahetuko, atthi bhāvanāya pahātabbahetuko, atthi neva dassanena na bhāvanāya pahātabbahetuko…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-137
 
-138. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi saṃyojanasampayutto, atthi saṃyojanavippayutto.
 Tividhena viññāṇakkhandho – atthi ācayagāmī, atthi apacayagāmī, atthi nevācayagāmināpacayagāmī…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-138
 
-139. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi saṃyojanavippayuttasaṃyojaniyo, atthi saṃyojanavippayuttaasaṃyojaniyo.
 Tividhena viññāṇakkhandho – atthi sekkho, atthi asekkho, atthi nevasekkhanāsekkho…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-139
 
-140. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi ganthaniyo, atthi aganthaniyo.
 Tividhena viññāṇakkhandho – atthi paritto, atthi mahaggato, atthi appamāṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-140
 
-141. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi ganthasampayutto, atthi ganthavippayutto.
 Tividhena viññāṇakkhandho – atthi parittārammaṇo, atthi mahaggatārammaṇo, atthi appamāṇārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-141
 
-142. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi ganthavippayuttaganthaniyo, atthi ganthavippayuttaaganthaniyo.
 Tividhena viññāṇakkhandho – atthi hīno, atthi majjhimo, atthi paṇīto…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-142
 
-143. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi oghaniyo, atthi anoghaniyo.
 Tividhena viññāṇakkhandho – atthi micchattaniyato, atthi sammattaniyato, atthi aniyato…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-143
 
-144. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi oghasampayutto, atthi oghavippayutto.
 Tividhena viññāṇakkhandho – atthi maggārammaṇo, atthi maggahetuko, atthi maggādhipati…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-144
 
-145. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi oghavippayuttaoghaniyo, atthi oghavippayuttaanoghaniyo.
 Tividhena viññāṇakkhandho – atthi uppanno, atthi anuppanno, atthi uppādī…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-145
 
-146. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi yoganiyo, atthi ayoganiyo.
 Tividhena viññāṇakkhandho – atthi atīto, atthi anāgato, atthi paccuppanno…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-146
 
-147. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi yogasampayutto, atthi yogavippayutto.
 Tividhena viññāṇakkhandho – atthi atītārammaṇo, atthi anāgatārammaṇo, atthi paccuppannārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-147
 
-148. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi yogavippayuttayoganiyo, atthi yogavippayuttaayoganiyo.
 Tividhena viññāṇakkhandho – atthi ajjhatto, atthi bahiddho, atthi ajjhattabahiddho…pe…. Evaṃ dasavidhena viññāṇakkhandho. ^2-148
 
-149. Ekavidhena viññāṇakkhandho – phassasampayutto.
+Ekavidhena viññāṇakkhandho – phassasampayutto.
 Duvidhena viññāṇakkhandho – atthi nīvaraṇiyo, atthi anīvaraṇiyo.
 Tividhena viññāṇakkhandho – atthi ajjhattārammaṇo, atthi bahiddhārammaṇo, atthi ajjhattabahiddhārammaṇo…pe…. Evaṃ dasavidhena viññāṇakkhandho.
 Ubhatovaḍḍhakaṃ.
@@ -672,20 +672,20 @@ Abhidhammabhājanīyaṃ. ^2-149
 
 #### Pañhāpucchakaṃ ^2-1-3-0
 
-150. Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-150
+Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^2-150
 
-151. Pañcannaṃ khandhānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-151
+Pañcannaṃ khandhānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-151
 
 ##### Tikaṃ ^2-1-3-1-0
 
-152. Rūpakkhandho abyākato. Cattāro khandhā siyā kusalā, siyā akusalā, siyā abyākatā. Dve khandhā na vattabbā – "sukhāya vedanāya sampayuttā"tipi, "dukkhāya vedanāya sampayuttā"tipi, "adukkhamasukhāya vedanāya sampayuttā"tipi. Tayo khandhā siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Rūpakkhandho nevavipākanavipākadhammadhammo. Cattāro khandhā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā. Rūpakkhandho siyā upādinnupādāniyo, siyā anupādinnupādāniyo. Cattāro khandhā siyā upādinnupādāniyā, siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā.
+Rūpakkhandho abyākato. Cattāro khandhā siyā kusalā, siyā akusalā, siyā abyākatā. Dve khandhā na vattabbā – "sukhāya vedanāya sampayuttā"tipi, "dukkhāya vedanāya sampayuttā"tipi, "adukkhamasukhāya vedanāya sampayuttā"tipi. Tayo khandhā siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Rūpakkhandho nevavipākanavipākadhammadhammo. Cattāro khandhā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā. Rūpakkhandho siyā upādinnupādāniyo, siyā anupādinnupādāniyo. Cattāro khandhā siyā upādinnupādāniyā, siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā.
 Rūpakkhandho asaṃkiliṭṭhasaṃkilesiko. Cattāro khandhā siyā saṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhaasaṃkilesikā. Rūpakkhandho avitakkaavicāro. Tayo khandhā siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā. Saṅkhārakkhandho siyā savitakkasavicāro, siyā avitakkavicāramatto, siyā avitakkaavicāro, siyā na vattabbo – "savitakkasavicāro"tipi, "avitakkavicāramatto"tipi, "avitakkaavicāro"tipi. Rūpakkhandho na vattabbo – "pītisahagato"tipi, "sukhasahagato"tipi, "upekkhāsahagato"tipi. Vedanākkhandho siyā pītisahagato na sukhasahagato na upekkhāsahagato, siyā na vattabbo – "pītisahagato"ti. Tayo khandhā siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā, siyā na vattabbā – "pītisahagatā"tipi, "sukhasahagatā"tipi, "upekkhāsahagatā"tipi.
 Rūpakkhandho neva dassanena na bhāvanāya pahātabbo. Cattāro khandhā siyā dassanena pahātabbā, siyā bhāvanāya pahātabbā, siyā neva dassanena na bhāvanāya pahātabbā. Rūpakkhandho neva dassanena na bhāvanāya pahātabbahetuko. Cattāro khandhā siyā dassanena pahātabbahetukā, siyā bhāvanāya pahātabbahetukā, siyā neva dassanena na bhāvanāya pahātabbahetukā. Rūpakkhandho nevācayagāmināpacayagāmī. Cattāro khandhā siyā ācayagāmino, siyā apacayagāmino, siyā nevācayagāmināpacayagāmino. Rūpakkhandho nevasekkhanāsekkho. Cattāro khandhā siyā sekkhā, siyā asekkhā, siyā nevasekkhanāsekkhā. Rūpakkhandho paritto. Cattāro khandhā siyā parittā, siyā mahaggatā, siyā appamāṇā. Rūpakkhandho anārammaṇo. Cattāro khandhā siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā, siyā na vattabbā – "parittārammaṇā"tipi, "mahaggatārammaṇā"tipi, "appamāṇārammaṇā"tipi. Rūpakkhandho majjhimo. Cattāro khandhā siyā hīnā, siyā majjhimā, siyā paṇītā. Rūpakkhandho aniyato. Cattāro khandhā siyā micchattaniyatā, siyā sammattaniyatā, siyā aniyatā.
 Rūpakkhandho anārammaṇo. Cattāro khandhā siyā maggārammaṇā, siyā maggahetukā, siyā maggādhipatino, siyā na vattabbā – "maggārammaṇā"tipi, "maggahetukā"tipi, "maggādhipatino"tipi; siyā uppannā, siyā anuppannā, siyā uppādino; siyā atītā, siyā anāgatā, siyā paccuppannā. Rūpakkhandho anārammaṇo. Cattāro khandhā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā, siyā na vattabbā – "atītārammaṇā"tipi, "anāgatārammaṇā"tipi, "paccuppannārammaṇā"tipi; siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Rūpakkhandho anārammaṇo. Cattāro khandhā siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā, siyā na vattabbā – "ajjhattārammaṇā"tipi, "bahiddhārammaṇā"tipi, "ajjhattabahiddhārammaṇā"tipi. Cattāro khandhā anidassanaappaṭighā. Rūpakkhandho siyā sanidassanasappaṭigho, siyā anidassanasappaṭigho, siyā anidassanaappaṭigho. ^2-152
 
 ##### Dukaṃ ^2-1-3-2-0
 
-153. Cattāro khandhā na hetū. Saṅkhārakkhandho siyā hetu, siyā na hetu. Rūpakkhandho ahetuko. Cattāro khandhā siyā sahetukā, siyā ahetukā. Rūpakkhandho hetuvippayutto. Cattāro khandhā siyā hetusampayuttā, siyā hetuvippayuttā. Rūpakkhandho na vattabbo – "hetu ceva sahetuko cā"tipi, "sahetuko ceva na ca hetū"tipi. Tayo khandhā na vattabbā – "hetū ceva sahetukā cā"ti, siyā sahetukā ceva na ca hetū, siyā na vattabbā – "sahetukā ceva na ca hetū"ti. Saṅkhārakkhandho siyā hetu ceva sahetuko ca, siyā sahetuko ceva na ca hetu, siyā na vattabbo – "hetu ceva sahetuko cā"tipi, "sahetuko ceva na ca hetū"tipi. Rūpakkhandho na vattabbo – "hetu ceva hetusampayutto cā"tipi, "hetusampayutto ceva na ca hetū"tipi. Tayo khandhā na vattabbā – "hetū ceva hetusampayuttā cā"ti, siyā hetusampayuttā ceva na ca hetū, siyā na vattabbā – "hetusampayuttā ceva na ca hetū"ti. Saṅkhārakkhandho siyā hetu ceva hetusampayutto ca, siyā hetusampayutto ceva na ca hetu, siyā na vattabbo – "hetu ceva hetusampayutto cā"tipi, "hetusampayutto ceva na ca hetū"tipi. Rūpakkhandho na hetu ahetuko. Tayo khandhā siyā na hetū sahetukā, siyā na hetū ahetukā. Saṅkhārakkhandho siyā na hetu sahetuko, siyā na hetu ahetuko, siyā na vattabbo – "na hetu sahetuko"tipi, "na hetu ahetuko"tipi.
+Cattāro khandhā na hetū. Saṅkhārakkhandho siyā hetu, siyā na hetu. Rūpakkhandho ahetuko. Cattāro khandhā siyā sahetukā, siyā ahetukā. Rūpakkhandho hetuvippayutto. Cattāro khandhā siyā hetusampayuttā, siyā hetuvippayuttā. Rūpakkhandho na vattabbo – "hetu ceva sahetuko cā"tipi, "sahetuko ceva na ca hetū"tipi. Tayo khandhā na vattabbā – "hetū ceva sahetukā cā"ti, siyā sahetukā ceva na ca hetū, siyā na vattabbā – "sahetukā ceva na ca hetū"ti. Saṅkhārakkhandho siyā hetu ceva sahetuko ca, siyā sahetuko ceva na ca hetu, siyā na vattabbo – "hetu ceva sahetuko cā"tipi, "sahetuko ceva na ca hetū"tipi. Rūpakkhandho na vattabbo – "hetu ceva hetusampayutto cā"tipi, "hetusampayutto ceva na ca hetū"tipi. Tayo khandhā na vattabbā – "hetū ceva hetusampayuttā cā"ti, siyā hetusampayuttā ceva na ca hetū, siyā na vattabbā – "hetusampayuttā ceva na ca hetū"ti. Saṅkhārakkhandho siyā hetu ceva hetusampayutto ca, siyā hetusampayutto ceva na ca hetu, siyā na vattabbo – "hetu ceva hetusampayutto cā"tipi, "hetusampayutto ceva na ca hetū"tipi. Rūpakkhandho na hetu ahetuko. Tayo khandhā siyā na hetū sahetukā, siyā na hetū ahetukā. Saṅkhārakkhandho siyā na hetu sahetuko, siyā na hetu ahetuko, siyā na vattabbo – "na hetu sahetuko"tipi, "na hetu ahetuko"tipi.
 Sappaccayā, saṅkhatā.
 Cattāro khandhā anidassanā. Rūpakkhandho siyā sanidassano, siyā anidassano. Cattāro khandhā appaṭighā. Rūpakkhandho siyā sappaṭigho, siyā appaṭigho. Rūpakkhandho rūpaṃ. Cattāro khandhā arūpā. Rūpakkhandho lokiyo. Cattāro khandhā siyā lokiyā, siyā lokuttarā; kenaci viññeyyā, kenaci na viññeyyā.
 Cattāro khandhā no āsavā. Saṅkhārakkhandho siyā āsavo, siyā no āsavo. Rūpakkhandho sāsavo. Cattāro khandhā siyā sāsavā, siyā anāsavā. Rūpakkhandho āsavavippayutto. Cattāro khandhā siyā āsavasampayuttā, siyā āsavavippayuttā. Rūpakkhandho na vattabbo – "āsavo ceva sāsavo cā"ti, sāsavo ceva no ca āsavo. Tayo khandhā na vattabbā – "āsavā ceva sāsavā cā"ti, siyā sāsavā ceva no ca āsavā, siyā na vattabbā – "sāsavā ceva no ca āsavā"ti. Saṅkhārakkhandho siyā āsavo ceva sāsavo ca, siyā sāsavo ceva no ca āsavo, siyā na vattabbo – "āsavo ceva sāsavo cā"tipi, "sāsavo ceva no ca āsavo"tipi. Rūpakkhandho na vattabbo – "āsavo ceva āsavasampayutto cā"tipi, "āsavasampayutto ceva no ca āsavo"tipi. Tayo khandhā na vattabbā – "āsavā ceva āsavasampayuttā cā"ti, siyā āsavasampayuttā ceva no ca āsavā, siyā na vattabbā – "āsavasampayuttā ceva no ca āsavā"ti. Saṅkhārakkhandho siyā āsavo ceva āsavasampayutto ca, siyā āsavasampayutto ceva no ca āsavo, siyā na vattabbo – "āsavo ceva āsavasampayutto cā"tipi, "āsavasampayutto ceva no ca āsavo"tipi. Rūpakkhandho āsavavippayuttasāsavo. Cattāro khandhā siyā āsavavippayuttasāsavā, siyā āsavavippayuttaanāsavā, siyā na vattabbā – "āsavavippayuttasāsavā"tipi, "āsavavippayuttaanāsavā"tipi.

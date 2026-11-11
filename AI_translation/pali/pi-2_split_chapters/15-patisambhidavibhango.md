@@ -4,29 +4,29 @@
 
 ##### Saṅgahavāro ^2-15-1-1-0
 
-718. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā [paṭibhāṇapaṭisambhidā (syā.) evamuparipi]. Atthe ñāṇaṃ atthapaṭisambhidā, dhamme ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ saṅgahavāro. ^2-718
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā [paṭibhāṇapaṭisambhidā (syā.) evamuparipi]. Atthe ñāṇaṃ atthapaṭisambhidā, dhamme ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ saṅgahavāro. ^2-718
 
 ##### Saccavāro ^2-15-1-2-0
 
-719. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Dukkhe ñāṇaṃ atthapaṭisambhidā, dukkhasamudaye ñāṇaṃ dhammapaṭisambhidā, dukkhanirodhe ñāṇaṃ atthapaṭisambhidā, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ saccavāro. ^2-719
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Dukkhe ñāṇaṃ atthapaṭisambhidā, dukkhasamudaye ñāṇaṃ dhammapaṭisambhidā, dukkhanirodhe ñāṇaṃ atthapaṭisambhidā, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ saccavāro. ^2-719
 
 ##### Hetuvāro ^2-15-1-3-0
 
-720. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Hetumhi ñāṇaṃ dhammapaṭisambhidā, hetuphale ñāṇaṃ atthapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ hetuvāro. ^2-720
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Hetumhi ñāṇaṃ dhammapaṭisambhidā, hetuphale ñāṇaṃ atthapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ hetuvāro. ^2-720
 
 ##### Dhammavāro ^2-15-1-4-0
 
-721. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā, imesu dhammesu ñāṇaṃ atthapaṭisambhidā; yamhā dhammā te dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā, tesu dhammesu ñāṇaṃ dhammapaṭisambhidā; tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā; ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ dhammavāro. ^2-721
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā, imesu dhammesu ñāṇaṃ atthapaṭisambhidā; yamhā dhammā te dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā, tesu dhammesu ñāṇaṃ dhammapaṭisambhidā; tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā; ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ dhammavāro. ^2-721
 
 ##### Paṭiccasamuppādavāro ^2-15-1-5-0
 
-722. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Jarāmaraṇe ñāṇaṃ atthapaṭisambhidā, jarāmaraṇasamudaye ñāṇaṃ dhammapaṭisambhidā, jarāmaraṇanirodhe ñāṇaṃ atthapaṭisambhidā, jarāmaraṇanirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-722
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Jarāmaraṇe ñāṇaṃ atthapaṭisambhidā, jarāmaraṇasamudaye ñāṇaṃ dhammapaṭisambhidā, jarāmaraṇanirodhe ñāṇaṃ atthapaṭisambhidā, jarāmaraṇanirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-722
 
-723. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Jātiyā ñāṇaṃ…pe… bhave ñāṇaṃ…pe… upādāne ñāṇaṃ…pe… taṇhāya ñāṇaṃ…pe… vedanāya ñāṇaṃ…pe… phasse ñāṇaṃ…pe… saḷāyatane ñāṇaṃ…pe… nāmarūpe ñāṇaṃ…pe… viññāṇe ñāṇaṃ…pe… saṅkhāresu ñāṇaṃ atthapaṭisambhidā, saṅkhārasamudaye ñāṇaṃ dhammapaṭisambhidā, saṅkhāranirodhe ñāṇaṃ atthapaṭisambhidā, saṅkhāranirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ paṭiccasamuppādavāro. ^2-723
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Jātiyā ñāṇaṃ…pe… bhave ñāṇaṃ…pe… upādāne ñāṇaṃ…pe… taṇhāya ñāṇaṃ…pe… vedanāya ñāṇaṃ…pe… phasse ñāṇaṃ…pe… saḷāyatane ñāṇaṃ…pe… nāmarūpe ñāṇaṃ…pe… viññāṇe ñāṇaṃ…pe… saṅkhāresu ñāṇaṃ atthapaṭisambhidā, saṅkhārasamudaye ñāṇaṃ dhammapaṭisambhidā, saṅkhāranirodhe ñāṇaṃ atthapaṭisambhidā, saṅkhāranirodhagāminiyā paṭipadāya ñāṇaṃ dhammapaṭisambhidā, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ paṭiccasamuppādavāro. ^2-723
 
 ##### Pariyattivāro ^2-15-1-6-0
 
-724. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Tattha katamā dhammapaṭisambhidā? Idha bhikkhu dhammaṃ jānāti – suttaṃ geyyaṃ veyyākaraṇaṃ gāthaṃ udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. Ayaṃ vuccati "dhammapaṭisambhidā". So tassa tasseva bhāsitassa atthaṃ jānāti – "ayaṃ imassa bhāsitassa attho, ayaṃ imassa bhāsitassa attho"ti. Ayaṃ vuccati "atthapaṭisambhidā". Tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. Ayaṃ pariyattivāro.
 Suttantabhājanīyaṃ. ^2-724
 
@@ -34,86 +34,86 @@ Suttantabhājanīyaṃ. ^2-724
 
 ##### Kusalavāro ^2-15-2-1-0
 
-725. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti, ime dhammā kusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā, yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti, tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-725
 
-726. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… somanassasahagataṃ ñāṇavippayuttaṃ…pe… somanassasahagataṃ ñāṇavippayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-726
 
-727. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-727
 
-728. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-728
 
-729. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-729
 
 ##### Akusalavāro ^2-15-2-2-0
 
-730. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā akusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-730
 
-731. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena…pe… somanassasahagataṃ diṭṭhigatavippayuttaṃ…pe… somanassasahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ diṭṭhigatasampayuttaṃ…pe… upekkhāsahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ diṭṭhigatavippayuttaṃ…pe… upekkhāsahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena…pe… domanassasahagataṃ paṭighasampayuttaṃ…pe… domanassasahagataṃ paṭighasampayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ vicikicchāsampayuttaṃ…pe… upekkhāsahagataṃ uddhaccasampayuttaṃ rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā akusalā. Imesu dhammesu ñāṇaṃ dhammapaṭisambhidā. Tesaṃ vipāke ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-731
 
 ##### Vipākavāro ^2-15-2-3-0
 
-732. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-732
 
-733. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ…pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti sukhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, sukhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-733
 
-734. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-734
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-734
 
-735. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-735
 
-736. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-736
 
-737. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-737
 
-738. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Tasseva rūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-738
 
-739. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-739
 
-740. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā kusalā. Tasseva lokuttarassa kusalassa kammassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-740
 
-741. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ…pe… sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ…pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti dukkhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, dukkhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, dukkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-741
 
-742. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā…pe… manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-742
 
 ##### Kiriyavāro ^2-15-2-4-0
 
-743. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye manodhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-743
 
-744. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā…pe… manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-744
 
-745. Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
+Tisso paṭisambhidā – atthapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā.
 Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena…pe… rūpāvacaraṃ jhānaṃ bhāveti…pe… arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ…pe… sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti. Ime dhammā abyākatā. Imesu dhammesu ñāṇaṃ atthapaṭisambhidā. Yāya niruttiyā tesaṃ dhammānaṃ paññatti hoti tatra dhammaniruttābhilāpe ñāṇaṃ niruttipaṭisambhidā. Yena ñāṇena tāni ñāṇāni jānāti – "imāni ñāṇāni idamatthajotakānī"ti, ñāṇesu ñāṇaṃ paṭibhānapaṭisambhidā. ^2-745
 
-746. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Tisso paṭisambhidā kāmāvacarakusalato catūsu ñāṇasampayuttesu cittuppādesu, kiriyato catūsu ñāṇasampayuttesu cittuppādesu uppajjanti. Atthapaṭisambhidā etesu ceva uppajjati, catūsu maggesu catūsu phalesu ca uppajjati.
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. Tisso paṭisambhidā kāmāvacarakusalato catūsu ñāṇasampayuttesu cittuppādesu, kiriyato catūsu ñāṇasampayuttesu cittuppādesu uppajjanti. Atthapaṭisambhidā etesu ceva uppajjati, catūsu maggesu catūsu phalesu ca uppajjati.
 Abhidhammabhājanīyaṃ. ^2-746
 
 #### Pañhāpucchakaṃ ^2-15-3-0
 
-747. Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. ^2-747
+Catasso paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā. ^2-747
 
-748. Catunnaṃ paṭisambhidānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-748
+Catunnaṃ paṭisambhidānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-748
 
 ##### Tikaṃ ^2-15-3-1-0
 
-749. Siyā kusalā, siyā abyākatā. Siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Tisso paṭisambhidā siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā; atthapaṭisambhidā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā. Tisso paṭisambhidā anupādinnupādāniyā; atthapaṭisambhidā siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā. Tisso paṭisambhidā asaṃkiliṭṭhaasaṃkilesikā; atthapaṭisambhidā siyā asaṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhaasaṃkilesikā.
+Siyā kusalā, siyā abyākatā. Siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Tisso paṭisambhidā siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā; atthapaṭisambhidā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā. Tisso paṭisambhidā anupādinnupādāniyā; atthapaṭisambhidā siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā. Tisso paṭisambhidā asaṃkiliṭṭhaasaṃkilesikā; atthapaṭisambhidā siyā asaṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhaasaṃkilesikā.
 Tisso paṭisambhidā savitakkasavicārā; atthapaṭisambhidā siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā. Siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā. Neva dassanena na bhāvanāya pahātabbā. Neva dassanena na bhāvanāya pahātabbahetukā.
 Tisso paṭisambhidā siyā ācayagāmino, siyā nevācayagāmināpacayagāmino; atthapaṭisambhidā siyā ācayagāminī, siyā apacayagāminī, siyā nevācayagāmināpacayagāminī.
 Tisso paṭisambhidā nevasekkhanāsekkhā, atthapaṭisambhidā siyā sekkhā, siyā asekkhā, siyā nevasekkhanāsekkhā. Tisso paṭisambhidā parittā; atthapaṭisambhidā siyā parittā, siyā appamāṇā. Niruttipaṭisambhidā parittārammaṇā; tisso paṭisambhidā siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā.
@@ -122,7 +122,7 @@ Tisso paṭisambhidā siyā uppannā, siyā anuppannā, na vattabbā uppādinoti
 
 ##### Dukaṃ ^2-15-3-2-0
 
-750. Hetū, sahetukā, hetusampayuttā, hetū ceva sahetukā ca, hetū ceva hetusampayuttā ca, na vattabbā na hetū sahetukātipi, nahetūahetukātipi.
+Hetū, sahetukā, hetusampayuttā, hetū ceva sahetukā ca, hetū ceva hetusampayuttā ca, na vattabbā na hetū sahetukātipi, nahetūahetukātipi.
 Sappaccayā, saṅkhatā, anidassanā, appaṭighā, arūpā, tisso paṭisambhidā lokiyā, atthapaṭisambhidā siyā lokiyā, siyā lokuttarā, kenaci viññeyyā, kenaci na viññeyyā.
 No āsavā. Tisso paṭisambhidā sāsavā; atthapaṭisambhidā siyā sāsavā, siyā anāsavā. Āsavavippayuttā. Tisso paṭisambhidā na vattabbā āsavā ceva sāsavā cāti, sāsavā ceva no ca āsavā; atthapaṭisambhidā na vattabbā āsavo [āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi] ceva sāsavā cāti, siyā sāsavā ceva no ca āsavo [āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi], siyā na vattabbā sāsavā ceva no ca āsavāti. Na vattabbā āsavā ceva āsavasampayuttā cātipi, āsavasampayuttā ceva no ca āsavātipi. Tisso paṭisambhidā āsavavippayuttā sāsavā; atthapaṭisambhidā siyā āsavavippayuttā sāsavā, siyā āsavavippayuttā anāsavā.
 No saṃyojanā…pe… no ganthā…pe… no oghā…pe… no yogā…pe… no nīvaraṇā…pe… no parāmāsā…pe… sārammaṇā. No cittā, cetasikā, cittasampayuttā, cittasaṃsaṭṭhā, cittasamuṭṭhānā, cittasahabhuno, cittānuparivattino. Cittasaṃsaṭṭhasamuṭṭhānā, cittasaṃsaṭṭhasamuṭṭhānasahabhuno, cittasaṃsaṭṭhasamuṭṭhānānuparivattino, bāhirā, no upādā, anupādinnā.

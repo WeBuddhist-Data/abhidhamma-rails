@@ -8,12 +8,17 @@ verse_id_format: book-verse
 pitaka: abhidhamma
 layer: mula
 copyright: Public domain
-license: CC0
+license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
+category_id: MZUUxphQ0yFwLBon3Vng8
 source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Vibhaṅgapāḷi; 3427 segments in source. Text verified paragraph-by-paragraph against the WeBuddhist backend record for this book (pecha_text_id 3HyZUpbWixfrK8H7AuvNJ); the two agree except that the backend hoists three summary gāthās above the prose they close.
 source_filename: book/abh02m.mul.html
-source_url: "https://tipitaka.org/romn/cscd/abh02m.mul.xml"
+source: "https://tipitaka.org/romn/cscd/abh02m.mul.xml"
 other_ids:
   - tipitaka.org: abh02m
   - pecha_text_id: 3HyZUpbWixfrK8H7AuvNJ
   - webuddhist_text_id: 67c3b5fe-3356-4980-a0a5-47bb9f0d2b19
+text_id: Bkcft6D0nQCPZNb4Kkuf4
+edition_id: KAoqSlcxrqMtx3VRwmnPX
+toc_id: SD228hurhdmc4ZsYDXNqu
 ---

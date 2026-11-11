@@ -2,9 +2,9 @@
 
 #### Abhidhammabhājanīyaṃ ^2-5-1-0
 
-219. Bāvīsatindriyāni – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ [viriyindriyaṃ (sī. syā.)], satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ. ^2-219
+Bāvīsatindriyāni – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ [viriyindriyaṃ (sī. syā.)], satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ. ^2-219
 
-220. Tattha katamaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmopeso – idaṃ vuccati "cakkhundriyaṃ".
+Tattha katamaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmopeso – idaṃ vuccati "cakkhundriyaṃ".
 Tattha katamaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmopeso – idaṃ vuccati "kāyindriyaṃ".
 Tattha katamaṃ manindriyaṃ? Ekavidhena manindriyaṃ – phassasampayuttaṃ. Duvidhena manindriyaṃ – atthi sahetukaṃ, atthi ahetukaṃ. Tividhena manindriyaṃ – atthi kusalaṃ, atthi akusalaṃ, atthi abyākataṃ. Catubbidhena manindriyaṃ – atthi kāmāvacaraṃ, atthi rūpāvacaraṃ, atthi arūpāvacaraṃ, atthi apariyāpannaṃ. Pañcavidhena manindriyaṃ – atthi sukhindriyasampayuttaṃ, atthi dukkhindriyasampayuttaṃ, atthi somanassindriyasampayuttaṃ, atthi domanassindriyasampayuttaṃ, atthi upekkhindriyasampayuttaṃ. Chabbidhena manindriyaṃ – cakkhuviññāṇaṃ…pe… manoviññāṇaṃ. Evaṃ chabbidhena manindriyaṃ.
 Sattavidhena manindriyaṃ – cakkhuviññāṇaṃ…pe… kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu. Evaṃ sattavidhena manindriyaṃ.
@@ -33,13 +33,13 @@ Abhidhammabhājanīyaṃ. ^2-220
 
 #### Pañhāpucchakaṃ ^2-5-2-0
 
-221. Bāvīsatindriyāni – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ. ^2-221
+Bāvīsatindriyāni – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ. ^2-221
 
-222. Bāvīsatīnaṃ indriyānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-222
+Bāvīsatīnaṃ indriyānaṃ kati kusalā, kati akusalā, kati abyākatā…pe… kati saraṇā, kati araṇā? ^2-222
 
 ##### Tikaṃ ^2-5-2-1-0
 
-223. Dasindriyā abyākatā. Domanassindriyaṃ akusalaṃ. Anaññātaññassāmītindriyaṃ kusalaṃ. Cattārindriyā siyā kusalā, siyā abyākatā. Cha indriyā siyā kusalā, siyā akusalā, siyā abyākatā.
+Dasindriyā abyākatā. Domanassindriyaṃ akusalaṃ. Anaññātaññassāmītindriyaṃ kusalaṃ. Cattārindriyā siyā kusalā, siyā abyākatā. Cha indriyā siyā kusalā, siyā akusalā, siyā abyākatā.
 Dvādasindriyā na vattabbā – "sukhāya vedanāya sampayuttā"tipi, "dukkhāya vedanāya sampayuttā"tipi, "adukkhamasukhāya vedanāya sampayuttā"tipi. Cha indriyā siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Tīṇindriyā siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā. Jīvitindriyaṃ siyā sukhāya vedanāya sampayuttaṃ, siyā dukkhāya vedanāya sampayuttaṃ, siyā adukkhamasukhāya vedanāya sampayuttaṃ, siyā na vattabbaṃ – "sukhāya vedanāya sampayutta"ntipi, "dukkhāya vedanāya sampayutta"ntipi, "adukkhamasukhāya vedanāya sampayutta"ntipi.
 Sattindriyā nevavipākanavipākadhammadhammā. Tīṇindriyā vipākā. Dvindriyā vipākadhammadhammā. Aññindriyaṃ siyā vipākaṃ, siyā vipākadhammadhammaṃ. Navindriyā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā. Navindriyā upādinnupādāniyā. Domanassindriyaṃ anupādinnupādāniyaṃ. Tīṇindriyā anupādinnaanupādāniyā. Navindriyā siyā upādinnupādāniyā, siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā.
 Navindriyā asaṃkiliṭṭhasaṃkilesikā. Domanassindriyaṃ saṃkiliṭṭhasaṃkilesikaṃ. Tīṇindriyā asaṃkiliṭṭhaasaṃkilesikā. Tīṇindriyā siyā asaṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhaasaṃkilesikā. Cha indriyā siyā saṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhasaṃkilesikā, siyā asaṃkiliṭṭhaasaṃkilesikā. Navindriyā avitakkaavicārā. Domanassindriyaṃ savitakkasavicāraṃ. Upekkhindriyaṃ siyā savitakkasavicāraṃ, siyā avitakkaavicāraṃ. Ekādasindriyā siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā.
@@ -52,7 +52,7 @@ Dasindriyā siyā uppannā, siyā uppādino, na vattabbā – "anuppannā"ti. Dv
 
 ##### Dukaṃ ^2-5-2-2-0
 
-224. Cattārindriyā hetū. Aṭṭhārasindriyā na hetū. Sattindriyā sahetukā. Navindriyā ahetukā. Cha indriyā siyā sahetukā, siyā ahetukā. Sattindriyā hetusampayuttā. Navindriyā hetuvippayuttā. Cha indriyā siyā hetusampayuttā, siyā hetuvippayuttā. Cattārindriyā hetū ceva sahetukā ca. Navindriyā na vattabbā – "hetū ceva sahetukā cā"tipi, "sahetukā ceva na ca hetū"tipi. Tīṇindriyā na vattabbā – "hetū ceva sahetukā cā"ti. Sahetukā ceva na ca hetū. Cha indriyā na vattabbā – "hetū ceva sahetukā cā"ti, siyā sahetukā ceva na ca hetū, siyā na vattabbā – "sahetukā ceva na ca hetū"ti.
+Cattārindriyā hetū. Aṭṭhārasindriyā na hetū. Sattindriyā sahetukā. Navindriyā ahetukā. Cha indriyā siyā sahetukā, siyā ahetukā. Sattindriyā hetusampayuttā. Navindriyā hetuvippayuttā. Cha indriyā siyā hetusampayuttā, siyā hetuvippayuttā. Cattārindriyā hetū ceva sahetukā ca. Navindriyā na vattabbā – "hetū ceva sahetukā cā"tipi, "sahetukā ceva na ca hetū"tipi. Tīṇindriyā na vattabbā – "hetū ceva sahetukā cā"ti. Sahetukā ceva na ca hetū. Cha indriyā na vattabbā – "hetū ceva sahetukā cā"ti, siyā sahetukā ceva na ca hetū, siyā na vattabbā – "sahetukā ceva na ca hetū"ti.
 Cattārindriyā hetū ceva hetusampayuttā ca. Navindriyā na vattabbā – "hetū ceva hetusampayuttā cā"tipi, "hetusampayuttā ceva na ca hetū"tipi. Tīṇindriyā na vattabbā – "hetū ceva hetusampayuttā cā"ti, "hetusampayuttā ceva na ca hetū". Cha indriyā na vattabbā – "hetū ceva hetusampayuttā cā"ti, siyā hetusampayuttā ceva na ca hetū, siyā na vattabbā – "hetusampayuttā ceva na ca hetū"ti.
 Navindriyā na hetū ahetukā. Tīṇindriyā na hetū sahetukā. Cattārindriyā na vattabbā – "na hetū sahetukā"tipi, "na hetū ahetukā"tipi. Cha indriyā siyā na hetū sahetukā, siyā na hetū ahetukā.
 Sappaccayā. Saṅkhatā. Anidassanā. Pañcindriyā sappaṭighā. Sattarasindriyā appaṭighā. Sattindriyā rūpā. Cuddasindriyā arūpā. Jīvitindriyaṃ siyā rūpaṃ, siyā arūpaṃ. Dasindriyā lokiyā. Tīṇindriyā lokuttarā. Navindriyā siyā lokiyā, siyā lokuttarā; kenaci viññeyyā, kenaci na viññeyyā.
