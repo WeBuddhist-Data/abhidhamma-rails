@@ -1,0 +1,75 @@
+# pi-1 Pāli→Hindi plain termbase, part 1 (senses-file lines 1–830). key<TAB>term<TAB>reason
+# --- multi-candidate senses ---
+Dhamma|0	मन का विषय	terms list: dhammārammaṇa / dhamma as sense object = मन का विषय; dictionary form of मन के विषय
+sahagataṃ|0	के साथ होने वाला	terms list core: sahagata = के साथ होने वाला; matrix pītisahagatā etc.; family form (stems, -sahagatā, -sahagato)
+uppannaṃ|0	उत्पन्न	majority; pi-5 prior; family uppanno, samuppannā = उत्पन्न
+kāya|0	शरीर	majority; pi-3/4/5 all शरीर
+rūpa|1	सूक्ष्म भौतिक लोक	pi-3 prior; sphere sense, matches rūpāvacara = सूक्ष्म भौतिक लोक से संबंधित
+sukhaṃ|0	सुख	majority; pi-4/5 prior; terms list: sukha as a factor = सुख
+diṭṭhi|0	दृष्टि	terms list core (sammādiṭṭhi, diṭṭhi = दृष्टि); majority; pi-4 prior
+kusalaṃ|0	हितकर	core term kusala = हितकर; pi-5 prior; मन comes from cittaṃ (kusalaṃ cittaṃ = हितकर मन)
+paṭipadā|0	प्रगति का ढंग	terms list heading Catasso paṭipadā = प्रगति के चार ढंग; dictionary form without the gap
+Abhibhāyatanāni|0	विजय के आधार	dictionary form without the gap; family Abhibhu = विजय, āyatanāni (abhibhāyatana) = आधार
+Arūpa|0	अभौतिक लोक	pi-3 prior; sphere sense, matches arūpāvacara = अभौतिक लोक से संबंधित and rūpa|1
+Suññataṃ|0	शून्य	majority; adjective name of the path absorption like चिह्नों से रहित, इच्छा-रहित; suññatanti = शून्य; heading noun Suññata = शून्यता stays
+Appaṇihitaṃ|0	इच्छा-रहित	majority; adjective like शून्य, चिह्नों से रहित; appaṇihitanti = इच्छा-रहित; heading noun Appaṇihita = इच्छाओं का अभाव stays
+viññāṇāni|0	चेतना	core term viññāṇa = चेतना; headings «पाँच प्रकार की चेतना»; pañcaviññāṇāni keeps इंद्रिय-चेतना
+vipāka|0	कर्म-फल रूपी	terms list: vipāka = कर्म-फल (रूपी); matrix vipākā dhammā; whole-book majority (164 vs 15); «कर्म के फल रूपी» is the split form after हितकर/हानिकर
+mano|0	मन	majority; pi-3/4/5 all मन; mano in the citta string stays मानस (terms list)
+sahagatā|0	के साथ होने वाला	terms list core; pi-3 prior; majority
+somanassasahagatā|0	प्रसन्नता के साथ होने वाला	core sahagata form; terms list somanassasahagata
+vipākamanoviññāṇadhātu|0	कर्म के फल रूपी मन की चेतना का तत्व	dictionary form without the gap; parallel vipākamanodhātu = कर्म के फल रूपी मन का तत्व
+manoviññāṇadhātu|0	मन की चेतना का तत्व	terms list core; pi-3 prior; majority
+upekkhāsahagatā|0	समभाव के साथ होने वाला	core sahagata form; majority; matrix upekkhāsahagatā
+kiriyā|0	केवल क्रिया रूपी	terms list headings (Ahetukakiriyāabyākataṃ); majority; kiriyābyākataṃ, kiriyato
+hetuka|0	मूल वाला	matrix sahetukā = मूल वाली; dictionary form ('having roots')
+Kiriyāmano|0	केवल क्रिया रूपी मन	dictionary form without the gap; family kiriyā
+Mātikā|0	मूल सूची	terms list heading ### Mātikā = मूल सूची; pi-4 prior
+cetasikaṃ|0	मानसिक	adjective sense; pi-5 prior; majority; family cetasiko = मानसिक
+sukhā|0	सुखद	feeling sense; pi-5 prior; majority; terms list sukha (feeling) = सुखद
+Yaṃ|0	जो	majority; pi-5 prior
+Kilesa|0	मन के क्लेश	hindi-style core kilesa = मन के क्लेश; terms list Kilesagocchakaṃ = मन के क्लेशों का वर्ग; pi-4 prior
+sañcetanā|0	इरादा करना	terms list cetanā string (इरादा, इरादा करना, इरादा कर चुका होना); majority
+anussati|0	बार-बार स्मरण	terms list sati string; pi-4 prior; majority
+samuppannā|0	उत्पन्न	majority; pi-5 prior; family uppanna = उत्पन्न
+upekkhāsahagataṃ|0	समभाव के साथ होने वाला	core sahagata form, as sahagataṃ|0
+ajjhattaṃ|0	स्वयं में	majority (45, abhibhāyatana formula); family ajjhattaṃ arūpa; matrix ajjhatta = स्वयं से संबंधित; priors disagree (pi-4 भीतर, pi-5 भीतरी)
+dukkha|0	दुःखद	terms list dukkha (feeling) = दुःखद; majority; pi-3/5 painful-feeling sense
+sukha|0	सुखद	terms list sukha (feeling) = सुखद; majority (sukhapaṭipadā); pairs with dukkha|0 दुःखद
+bahiddhā|1	दूसरों से संबंधित	terms list/matrix bahiddhā = दूसरों से संबंधित; pi-3 prior
+ānañcāyatana|0	अनंत आकाश का क्षेत्र	the only full candidate; sense is 'of infinite space'; pi-5 अनंत आकाश का क्षेत्र
+ānañcāyatanaṃ|0	अनंत आकाश का क्षेत्र	OUTSIDE: all 7 segments are ākāsānañcāyatanaṃ; both candidates are fragments around ākāsa = आकाश; same as ānañcāyatana|0 and pi-5
+viditānaṃ|0	समझा जा चुका	parallel ñātānaṃ = जाना जा चुका in the same list
+sacchikatānaṃ|0	प्रत्यक्ष अनुभव किया जा चुका	parallel ñātānaṃ = जाना जा चुका in the same list
+padhānaṃ|0	प्रयास	terms list: vāyāma / padhāna = प्रयास; matrix yathādiṭṭhissa ca padhānaṃ; pi-3 prior
+gāho|0	पकड़	majority; pi-4 prior; diṭṭhi string
+ottappitabbena|0	जिस बात से डरना चाहिए	terms list ottappa string
+sārāgo|0	प्रबल राग	harmonise D7: keeps sārāgo apart from rāgo in the same lobha string; majority
+pariyogāhanā|0	गहराई में उतरना	dictionary form; majority; apariyogāhanā = गहराई में न उतर पाना
+ñāṇaṃ|0	ज्ञान	terms list core (ñāṇasampayutta, khaye ñāṇaṃ); pi-5 prior; 'not knowing' is the separate headword aññāṇaṃ
+ekaṃsa|0	पक्का	open point: carries 'definite, certain'; majority; एक बात is only the literal 'one side'; anekaṃsaggāho keeps «किसी एक बात को पक्का …»
+vilekho|0	खरोंच	majority; noun for a noun (manovilekho)
+bhantattaṃ|0	डाँवाडोल होना	majority; plainest for 'agitated, whirling'
+kusalassa|0	हितकर	core term; majority; as kusalaṃ|0
+sukhasahagataṃ|0	सुख के साथ होने वाला	core sahagata form; family sukhasahagatā
+uppannā|0	उत्पन्न	majority; pi-5 prior; matrix 'already arisen' is the separate headword uppannā dhammā
+ārammaṇā|0	विषय वाला	matrix items (सीमित विषय वाली …); majority; family ārammaṇaṃ|1, ārammaṇo
+vipākā manoviññāṇadhātu|0	कर्म के फल रूपी मन की चेतना का तत्व	dictionary form without the gap; parallel vipākā manodhātu
+akusalassa|0	हानिकर	core term; majority; as akusalaṃ|0
+kusalā nākusalā|0	न हितकर न हानिकर	majority; dictionary form; kusalaṃ nākusalaṃ
+Kiriyā mano|0	केवल क्रिया रूपी मन	dictionary form without the gap; as Kiriyāmano|0
+dhātu upekkhāsahagatā|0	समभाव के साथ होने वाला … तत्व	heading order and core sahagata form; parallel dhātu somanassasahagatā
+manoviññāṇadhātu upekkhāsahagatā|0	समभाव के साथ होने वाला मन की चेतना का तत्व	heading form without the gap; parallel manoviññāṇadhātu somanassasahagatā
+hetukā|0	मूलों वाला	matrix pahātabbahetukā = … मूलों वाली; pi-3 prior; majority
+akusalaṃ|0	हानिकर	core term akusala = हानिकर; pi-5 prior; मन comes from cittaṃ
+rūpāvacarā|0	सूक्ष्म भौतिक लोक से संबंधित	terms list core; majority
+asaṅkhatā ca dhātu|0	अनिर्मित तत्व	dictionary form; ca (और) is the particle
+# --- family re-alignments (single-candidate senses) ---
+pahānā|0	छोड़ना	re-align: family pahānāya, pahātabba = छोड़ना; pi-4 and pi-5 pahānā = छोड़ना (was त्याग)
+sukhassa ca pahānā|0	सुख को छोड़ना	re-align with pahānā = छोड़ना (was सुख का त्याग)
+diṭṭhigataṃ|0	दृष्टियों में फँसना	re-align: family diṭṭhigatānaṃ (71×); pi-5 diṭṭhigataṃ = दृष्टियों में फँसना (was दृष्टि में पड़ जाना)
+
+# --- coordinator: sahagata family, participle form (as sahagataṃ|0, somanassasahagatā|0) ---
+somanassasahagataṃ|0	प्रसन्नता के साथ होने वाला	family: sahagata = के साथ होने वाला (adjectival participle), as the multi-candidate sahagata senses
+mettāsahagataṃ|0	मैत्री के साथ होने वाला	family: sahagata = के साथ होने वाला
+domanassasahagataṃ|0	उदासी के साथ होने वाला	family: sahagata = के साथ होने वाला

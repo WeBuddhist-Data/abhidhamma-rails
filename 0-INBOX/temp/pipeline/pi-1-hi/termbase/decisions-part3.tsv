@@ -1,0 +1,46 @@
+# pi-1 Pāli→Hindi plain termbase, part 3 (senses-file lines 1661–2487). key<TAB>term<TAB>reason
+# --- multi-candidate senses ---
+hoti tathāgato|0	तथागत रहना	dictionary form of the two variants; hoti (speculative views) = रहना
+anāsavā|0	मन के मैलों का विषय न बनने वाला	terms list/matrix anāsavā; pi-3 prior; majority
+dhammā āsavavippayuttā|0	मन के मैलों से अलग परिघटना	dictionary form without the gap; matrix āsavavippayuttā dhammā
+saṃyojaniyā|0	बंधनों का विषय बनने वाला	terms list/matrix saṃyojaniyā; majority; full form like the -niya siblings
+dhammā saṃyojanavippayuttā|0	बंधनों से अलग परिघटना	dictionary form without the gap; matrix saṃyojanavippayuttā dhammā
+saṃyojanavippayuttā saṃyojaniyā|0	बंधनों से अलग पर उनका विषय बनने वाला	matrix ^1-M2-25 without the comma; majority; as nīvaraṇa/upādāna siblings
+ganthaniyā|0	गाँठों का विषय बनने वाला	terms list/matrix ganthaniyā; majority
+dhammā ganthavippayuttā|0	गाँठों से अलग परिघटना	dictionary form without the gap; matrix ganthavippayuttā dhammā
+ganthavippayuttā ganthaniyā|0	गाँठों से अलग पर उनका विषय बनने वाला	matrix ^1-M2-31 without the comma; majority
+oghaniyā|0	बाढ़ों का विषय बनने वाला	terms list/matrix oghaniyā; family oghaniyaṃ (tie in counts)
+yoganiyā|0	जकड़नों का विषय बनने वाला	terms list/matrix yoganiyā; family yoganiyaṃ (tie in counts)
+nīvaraṇiyā|0	बाधाओं का विषय बनने वाला	terms list/matrix nīvaraṇiyā; majority
+dhammā nīvaraṇavippayuttā|0	बाधाओं से अलग परिघटना	dictionary form without the gap; matrix nīvaraṇavippayuttā dhammā
+parāmaṭṭhā|0	ग़लत धारणा का विषय बनने वाला	terms list/matrix parāmaṭṭhā; pi-3 prior; majority
+dhammā parāmāsavippayuttā|0	ग़लत धारणा से अलग परिघटना	dictionary form without the gap; matrix parāmāsavippayuttā dhammā
+vattabbaṃ|0	कहा जा सकना	dictionary form without the gap; family vattabbā/vattabbo
+dhammā no cittasaṃsaṭṭhasamuṭṭhānā|0	परिघटना मन से घुली-मिली और मन से उत्पन्न नहीं है	terms-list answer frame «ये परिघटनाएँ … नहीं हैं»; heading form «ऐसी परिघटना जो … नहीं है»
+dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno|0	परिघटना मन से घुली-मिली मन से उत्पन्न और मन के साथ-साथ होने वाली नहीं है	as dhammā no cittasaṃsaṭṭhasamuṭṭhānā; matrix ^1-M2-64 (ख)
+dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino|0	परिघटना मन से घुली-मिली मन से उत्पन्न और मन का अनुसरण करने वाली नहीं है	as dhammā no cittasaṃsaṭṭhasamuṭṭhānā; matrix ^1-M2-65 (ख)
+dhammā upādānavippayuttā|0	आसक्ति से अलग परिघटना	dictionary form without the gap; matrix upādānavippayuttā dhammā
+dhammā kilesavippayuttā|0	क्लेशों से अलग परिघटना	dictionary form without the gap; matrix kilesavippayuttā dhammā
+pītikā|0	उल्लास वाला	matrix sappītikā = उल्लास वाली (rule 1a over pi-3 उल्लास); majority; as hetuka = मूल वाला
+uppādāya|0	उत्पत्ति	majority; family uppāda/uppādo/uppādā = उत्पत्ति; fits «… की उत्पत्ति के लिए» in both passages
+gāhī|0	पकड़ना	pi-4 and pi-5 prior; dictionary form; gāhitā = पकड़ना
+paṭipajjati|0	प्रयत्न करना	pi-4 prior; dictionary form without the gap
+santuṭṭhitā|0	संतुष्ट होना	terms list ^1-M2-140 asantuṭṭhitā = संतुष्ट न होना (rule 1a over pi-4 संतोष)
+kusalesu|0	हितकर	core kusala = हितकर; pi-4 and pi-5 prior; majority
+kiriyato|0	केवल क्रिया रूपी मन	majority; no cittaṃ in the Pāli, sense is 'the functional minds'; parallel akusalato, kiriyesu = … मन
+sahagatacitta|0	के साथ होने वाला मन	core sahagata form; dictionary form without the gap; majority
+kusalato|0	हितकर मन	majority; sense 'the wholesome minds'; parallel akusalato = हानिकर मन, kiriyato
+vattabbā|0	कहा जा सकना	dictionary form without the gap; family vattabbo
+vattabbo|0	कहा जा सकना	dictionary form without the gap; family vattabbā
+cittuppāde|0	मन की उत्पत्ति	majority; family Cittuppāda, cittuppādo = मन की उत्पत्ति
+# --- user-approved with the sample ---
+dhajo|0	ध्वजा	OUTSIDE (approved with part 1): pi-5 word; keeps dhajo apart from ketu = झंडा in the conceit list ^1-1121/^1-1239
+# --- family re-alignments (single-candidate senses) ---
+Upariṭṭhime|0	सबसे ऊँचा	re-align: family Upariṭṭhimaṃ = सबसे ऊँचा (was सबसे ऊपर का)
+# --- gap form only: same Hindi word, dictionary form of the family ---
+dhammā oghavippayuttā|0	बाढ़ों से अलग परिघटना	series form of the seven X-vippayuttā dhammā senses decided above (was बाढ़ों से अलग … परिघटना)
+dhammā yogavippayuttā|0	जकड़नों से अलग परिघटना	series form of the seven X-vippayuttā dhammā senses decided above (was जकड़नों से अलग … परिघटना)
+bojjhaṅgā|0	जागृति का अंग	family sambojjhaṅgo, bojjhaṅgaṃ = जागृति का अंग; pi-5 bojjhaṅgā = जागृति के अंग (was जागृति के … अंग)
+manodhātuyo|0	मन का तत्व	family manodhātu = मन का तत्व (was मन के … तत्व)
+cittuppādā|0	मन की उत्पत्ति	family cittuppādo, cittuppāde = मन की उत्पत्ति (was मन की … उत्पत्ति)
+cittuppādesu|0	मन की उत्पत्ति	family cittuppādo, cittuppāde = मन की उत्पत्ति (was मन की … उत्पत्ति)

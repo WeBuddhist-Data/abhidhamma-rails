@@ -1,0 +1,30 @@
+# pi-1 Pāli→Hindi plain termbase, part 2 (senses-file lines 831–1660). key<TAB>term<TAB>reason
+# --- multi-candidate senses ---
+bhūtā|0	महाभूत	family mahābhūtā, mahābhūtaṃ, bhūtaṃ, bhūtānaṃ = महाभूत; majority; pi-5 mahābhūtā prior
+hetukaṃ|0	के कारण होने वाला	dictionary form of the compound final (cittahetukaṃ = मन के कारण होने वाला, ^1-666/769), like के साथ होने वाला; |1 'having roots' stays मूलों वाला
+Tattha|0	यहाँ	majority (131 vs 1); the opening of every definition
+rūpassa upacayo|0	भौतिक रूप की वृद्धि	dictionary form without the gap; harmonise upacaya = वृद्धि; rūpassa na upacayo
+rūpaṃ sappaṭighaṃ|0	भौतिक रूप टकराव वाला	dictionary form without the gap (part-1 precedent)
+samuddo|0	सागर	brief rule 1b: pi-5 prior samuddo = सागर is a candidate (same meaning 'sea'); also taṇhāsamuddo in the greed list
+kammassa katattā|0	कर्म किए जाने के कारण	user-approved for the whole book; majority 60 vs 6; harmonise notes; pi-5 katattā
+rūpaṃ cittasamuṭṭhānaṃ|0	भौतिक रूप मन से उत्पन्न	dictionary form without the gap
+rūpaṃ cittasahabhu|0	भौतिक रूप मन के साथ-साथ होने वाला	dictionary form without the gap; matrix cittasahabhuno
+rūpaṃ cittānuparivatti|0	भौतिक रूप मन का अनुसरण करने वाला	dictionary form without the gap; matrix cittānuparivattino
+upādā sappaṭighaṃ|0	व्युत्पन्न और टकराव वाला	dictionary form without the gap; parallel bāhiraṃ sappaṭighaṃ = बाह्य और टकराव वाला
+upādā appaṭighaṃ|0	व्युत्पन्न और टकराव से रहित	dictionary form without the gap; parallel bāhiraṃ appaṭighaṃ
+upādiṇṇaṃ sappaṭighaṃ|0	कर्म से उत्पन्न और टकराव वाला	dictionary form without the gap; parallel bāhiraṃ sappaṭighaṃ
+upādiṇṇaṃ appaṭighaṃ|0	कर्म से उत्पन्न और टकराव से रहित	dictionary form without the gap; parallel bāhiraṃ appaṭighaṃ
+ekaṭṭhā ca kilesā|0	साथ रहने वाले मन के क्लेश	without the gap; ca (और) is the particle (part-1 asaṅkhatā ca dhātu); ekaṭṭhā = साथ रहने वाला; kilesā = मन के क्लेश
+upādāniyā|0	आसक्ति का विषय बनने वाला	terms list/matrix upādāniya; pi-3 prior; majority; «उसका विषय …» is the resumptive form in the matrix (ख) items
+Sāsavā|0	मन के मैलों का विषय बनने वाला	terms list/matrix sāsava; pi-3 prior (sāsavā dhammā); majority
+yañca|0	जो भी	tie 8:8; ca (और) is the particle (part-1 asaṅkhatā ca dhātu); 'whatever' (yañca rūpaṃ kammassa katattā); Yaṃ = जो
+pahātabbahetukā|0	छोड़े जाने वाले मूलों वाला	matrix pahātabbahetukā = … मूलों वाली; part-1 hetukā = मूलों वाला
+sekkhā|0	सीखने के चरण का	matrix sekkhā dhammā; pi-3 prior; majority; family sekkha
+samaṅgissa|0	से युक्त व्यक्ति	majority; dictionary form like के साथ होने वाला (मार्ग से युक्त व्यक्ति); pi-5 युक्त
+sādhu|0	बढ़िया चीज़	sense 'fine things'; all three segments read «बढ़िया चीज़ों की चाह» (^1-1065/1141/1236)
+kamyatā|0	चाह	majority; keeps kamyatā apart from icchā = इच्छा in the same greed list (^1-1065)
+caratīti|0	कर रहा है	full quoted finite form, parallel to acarīti = किया (the Hindi reads «वह मेरा अहित कर रहा है»)
+vipākato|0	कर्म-फल	majority (26 vs 2); the postposition (में से / के रूप में) comes from the frame; family vipāka
+kiriya|0	केवल क्रिया रूपी	part-1 kiriyā = केवल क्रिया रूपी; terms list headings
+Tehi dhammehi|0	उन परिघटनाओं	majority; bare base: the postposition follows the predicate (से with जुड़ी/अलग, के संबंध में with sahetukā/-niyā frames, harmonise notes)
+āsavo|0	मन का मैल	core āsava = मन के मैल (singular form); ^1-1114 «मन का मैल भी है»; bare मैल only inside kāmāsavo etc.

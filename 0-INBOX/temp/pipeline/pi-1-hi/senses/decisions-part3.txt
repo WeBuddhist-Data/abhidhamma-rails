@@ -1,0 +1,417 @@
+# pi-1 Hindi senses, part 3: tag table written by hand, headword by headword.
+# 'hw: {tag}' = one sense with every attested value; full form = explicit senses ('*' = the rest).
+jarā: {ageing, decay, in jarābhibhūta 'overcome by ageing' (compound member)}
+asekkhaṃ: {beyond training, of one who has finished training, in nevasekkhanāsekkhaṃ (neuter sg.)}
+saṅgaho: {classification, grouping into kinds, as in rūpasaṅgaho (nominative sg.)}
+upādāniyaṃ: {subject to clinging, a possible object of clinging (neuter sg.)}
+saṅkhataṃ: {conditioned, made by conditions (neuter sg. participle)}
+viññāṇehi: {by the kinds of consciousness, in 'knowable by six kinds' (instrumental)}
+saṃkilesikaṃ: {tending to defilement, a possible object of defilement (neuter sg.)}
+upādāya: {derived from, depending on the great elements, as in upādāya rūpaṃ (absolutive)}
+cittavippayuttaṃ: {dissociated from mind (neuter sg. participle)}
+bhūtā: {the great elements, primary matter, in mahābhūtā (nominative pl.)}
+saṃyojaniyaṃ: {subject to the fetters, a possible object of fettering (neuter sg.)}
+niyataṃ: {fixed in destiny, certain of its result, in aniyataṃ (neuter sg.)}
+oghaniyaṃ: {subject to the floods, a possible object of the floods (neuter sg.)}
+upādāya rūpaṃ: {derived matter, form dependent on the great elements (nominative sg.)}
+rūpasaṅgaho: {the classification of matter (nominative sg.)}
+mahābhūtā: {the four great elements, primary matter (nominative pl.)}
+nīvaraṇiyaṃ: {subject to the hindrances, a possible object of the hindrances (neuter sg.)}
+aniccaṃ: {impermanent, not lasting (neuter sg.)}
+viññeyyaṃ: {knowable, cognizable by a kind of consciousness (neuter sg.)}
+gāmi: {leading to, in ācayagāmi and apacayagāmi (compound final)}
+parāmaṭṭhaṃ: {misapprehended, wrongly grasped by views (neuter sg. participle)}
+abhibhūtaṃ: {overcome, overpowered, in jarābhibhūtaṃ (neuter sg. participle)}
+vipākadhamma: {productive of results, having the nature to bear fruit (compound member)}
+hetukaṃ: {caused by, in cittahetukaṃ 'caused by mind' (compound final): कारण होने वाला / के कारण होने वाला / कारण; having roots, rooted, in pahātabbahetukaṃ (compound final): मूलों वाला}
+dassanena: {by seeing, the first path's vision of the truths (instrumental)}
+apariyāpannaṃ: {not included in the spheres of existence, of supramundane phenomena (neuter sg.)}
+sāsavaṃ: {subject to the taints, a possible object of the taints (neuter sg.)}
+ganthaniyaṃ: {subject to the ties, a possible object of the ties (neuter sg.)}
+yoganiyaṃ: {subject to the yokes, a possible object of the yokes (neuter sg.)}
+āsavaṃ: {the mental taints, cankers, in sāsavaṃ (compound member)}
+Tattha: {therein, in that connection, opening a definition (locative)}
+sekkha: {in training, of the learner's stage, in nevasekkhanāsekkha (compound member)}
+asaṃkiliṭṭha: {undefiled, not stained by defilements (compound member)}
+lokiyaṃ: {mundane, belonging to the world (neuter sg.)}
+anuparivatti: {following along with, moving in step with the mind (compound final)}
+upādiṇṇupādāniyaṃ: {kamma-born and subject to clinging (neuter sg.)}
+anupādiṇṇupādāniyaṃ: {not kamma-born yet subject to clinging (neuter sg.)}
+jaratā: {decay, growing old (nominative sg.)}
+rūpassa jaratā: {the ageing, decay of matter (nominative sg.)}
+samuṭṭhānaṃ: {originating from, arisen from, as in cittasamuṭṭhānaṃ (compound final)}
+kāyaviññatti: {bodily intimation, expression through the body (nominative sg.)}
+kāyāyatanaṃ: {the body sense base (nominative sg.)}
+kāyadhātu: {the body element (nominative sg.)}
+kāyaviññāṇassa: {of body-consciousness, consciousness at the body door (genitive sg.)}
+kāyasamphassassa: {of body-contact, contact through the body (genitive sg.)}
+samphassajāya: {born of contact, said of feeling (genitive sg.)}
+kāyasamphassajāya: {born of body-contact, said of feeling (genitive sg.)}
+santati: {continuity, unbroken succession (nominative sg.)}
+rūpassa santati: {the continuity of matter (nominative sg.)}
+sota: {the ear, the hearing organ (stem and compound member)}
+sotāyatanaṃ: {the ear sense base (nominative sg.)}
+sotadhātu: {the ear element (nominative sg.)}
+sotasamphassassa: {of ear-contact, contact through hearing (genitive sg.)}
+kabaḷīkāro: {made into mouthfuls, edible (masculine sg.)}
+kabaḷīkāro āhāro: {edible food, physical nutriment taken in mouthfuls (nominative sg.)}
+bhūtaṃ: {a great element, primary matter, in mahābhūtaṃ (neuter sg.)}
+cittasahabhu: {co-existent with mind, arising together with it (compound final)}
+bāhiraṃ: {external, outside oneself (neuter sg.)}
+cakkhu: {the eye, the seeing organ (stem and nominative)}
+cakkhāyatanaṃ: {the eye sense base (nominative sg.)}
+cakkhudhātu: {the eye element (nominative sg.)}
+cakkhuviññāṇassa: {of eye-consciousness, seeing consciousness (genitive sg.)}
+cakkhusamphassassa: {of eye-contact, contact through the eye (genitive sg.)}
+itthindriyaṃ: {the controlling faculty of femininity (nominative sg.)}
+purisindriyaṃ: {the controlling faculty of masculinity (nominative sg.)}
+vedanāya: {of feeling, the affective tone of experience (genitive sg.)}
+samphassajāya vedanāya: {of feeling born of contact (genitive sg.)}
+itthi: {femininity, in itthindriya (compound member): स्त्रीत्व; woman, in itthiliṅga 'feature of a woman' and similar (compound member): स्त्री}
+mahābhūtaṃ: {a great element, primary matter (neuter sg.)}
+oḷārikaṃ: {gross, coarse, of matter (neuter sg.)}
+rūpassa upacayo: {the growth, building up of matter (nominative sg.)}
+aniccatā: {impermanence, transience (nominative sg.)}
+rūpassa aniccatā: {the impermanence of matter (nominative sg.)}
+cetanāya: {of intention, volition (genitive sg.)}
+ajjhattikaṃ: {internal, belonging to oneself (neuter sg.)}
+viññatti: {intimation, making known (stem and nominative)}
+anidassanaṃ: {invisible, not visible to the eye (neuter sg.)}
+rūpassa lahutā: {the lightness of matter (nominative sg.)}
+sappaṭighaṃ: {impinging, striking against (neuter sg.)}
+appaṭighaṃ: {non-impinging, without impact (neuter sg.)}
+purisa: {masculinity, in purisindriya (compound member): पुरुषत्व; man, in purisaliṅga 'feature of a man' and similar (compound member): पुरुष}
+ghāna: {the nose, the smelling organ (stem and compound member)}
+ghānāyatanaṃ: {the nose sense base (nominative sg.)}
+ghānadhātu: {the nose element (nominative sg.)}
+ghānasamphassassa: {of nose-contact, contact through smelling (genitive sg.)}
+upādiṇṇaṃ: {kamma-born, produced by past action (neuter sg. participle)}
+saññāya: {of perception, recognition (genitive sg.)}
+rūpassa mudutā: {the pliancy of matter (nominative sg.)}
+gandhāyatanaṃ: {the smell sense base (nominative sg.)}
+gandhadhātu: {the smell element (nominative sg.)}
+saddāyatanaṃ: {the sound sense base (nominative sg.)}
+saddadhātu: {the sound element (nominative sg.)}
+ākāsadhātu: {the space element (nominative sg.)}
+sukhumaṃ: {subtle, fine, of matter (neuter sg.)}
+rasāyatanaṃ: {the taste sense base (nominative sg.)}
+rasadhātu: {the taste element (nominative sg.)}
+jivhā: {the tongue, the tasting organ (stem and nominative)}
+jivhāyatanaṃ: {the tongue sense base (nominative sg.)}
+jivhādhātu: {the tongue element (nominative sg.)}
+jivhāsamphassassa: {of tongue-contact, contact through tasting (genitive sg.)}
+phoṭṭhabbāyatanaṃ: {the tangible sense base, base of the touchable (nominative sg.)}
+phoṭṭhabbadhātu: {the tangible element, element of the touchable (nominative sg.)}
+vacīviññatti: {verbal intimation, expression through speech (nominative sg.)}
+sanidassanaṃ: {visible, able to be seen (neuter sg.)}
+rūpāyatanaṃ: {the visible-form sense base, the object of the eye (nominative sg.)}
+rūpadhātu: {the visible-form element, the object of the eye (nominative sg.)}
+āpodhātu: {the water element, cohesion (nominative sg.)}
+vidhena: {way, kind, in ekavidhena 'in one way' (instrumental)}
+rūpassa kammaññatā: {the workability of matter (nominative sg.)}
+viññātaṃ: {cognized, known by the mind (neuter sg. participle)}
+rūpaṃ sappaṭighaṃ: {matter that is impinging, striking against (nominative sg.)}
+sutaṃ: {heard, what is heard (neuter sg. participle)}
+mutaṃ: {sensed by nose, tongue or body (neuter sg. participle)}
+Catubbidhena: {in four ways, the fourfold classification (instrumental)}
+vāyodhātu: {the air element, motion (nominative sg.)}
+Pathavīdhātu: {the earth element, solidity (nominative sg.)}
+tejodhātu: {the fire element, heat (nominative sg.)}
+viññeyyaṃ rūpaṃ: {matter knowable by a kind of consciousness (nominative sg.)}
+Chabbidhena: {in six ways, the sixfold classification (instrumental)}
+samphassaṃ: {having such a contact, in sukhasamphassaṃ 'pleasant to touch' (compound final)}
+Dasa: {the number ten (numeral)}
+Ekādasa: {the number eleven (numeral)}
+anidassana: {invisible, not visible to the eye (compound member)}
+anidassanaappaṭighaṃ: {invisible and non-impinging (neuter sg.)}
+dhammāyatana: {the sense base of mind-objects (stem and compound member)}
+pahātabbameva: {to be abandoned, with emphatic -eva (neuter sg.)}
+sahagatameva: {accompanied by, compound final, with emphatic -eva (neuter sg. participle)}
+upekkhāsahagatameva: {accompanied by equanimity, with emphatic -eva (neuter sg.)}
+sukhasahagatameva: {accompanied by pleasure, with emphatic -eva (neuter sg.)}
+pītisahagatameva: {accompanied by rapture, with emphatic -eva (neuter sg.)}
+asekkhameva: {beyond training, with emphatic -eva (neuter sg.)}
+upādāniyameva: {subject to clinging, with emphatic -eva (neuter sg.)}
+saṅkhatameva: {conditioned, with emphatic -eva (neuter sg. participle)}
+saṃkilesikameva: {tending to defilement, with emphatic -eva (neuter sg.)}
+vippayuttameva: {dissociated from, with emphatic -eva (neuter sg. participle)}
+cittavippayuttameva: {dissociated from mind, with emphatic -eva (neuter sg. participle)}
+cetasikameva: {a mental concomitant, in acetasikameva, with emphatic -eva (noun)}
+saṃyojaniyameva: {subject to the fetters, with emphatic -eva (neuter sg.)}
+rūpāvacarameva: {belonging to the fine-material sphere, with emphatic -eva (neuter sg.)}
+niyatameva: {fixed in destiny, in aniyatameva, with emphatic -eva (neuter sg.)}
+oghaniyameva: {subject to the floods, with emphatic -eva (neuter sg.)}
+nīvaraṇiyameva: {subject to the hindrances, with emphatic -eva (neuter sg.)}
+arūpāvacarameva: {belonging to the immaterial sphere, with emphatic -eva (neuter sg.)}
+aniccameva: {impermanent, with emphatic -eva (neuter sg.)}
+abyākatameva: {neither wholesome nor unwholesome, with emphatic -eva (neuter sg.)}
+viññeyyameva: {knowable, with emphatic -eva (neuter sg.)}
+niyyānikameva: {leading out to liberation, in aniyyānikameva, with emphatic -eva (neuter sg.)}
+parittameva: {limited, small in scope, with emphatic -eva (neuter sg.)}
+parāmaṭṭhameva: {misapprehended, with emphatic -eva (neuter sg. participle)}
+ārammaṇameva: {object of the mind, in anārammaṇameva, with emphatic -eva (noun)}
+abhibhūtameva: {overcome, in jarābhibhūtameva, with emphatic -eva (neuter sg. participle)}
+hetukameva: {having roots, rooted, in pahātabbahetukameva, with emphatic -eva (compound final)}
+kāmāvacarameva: {belonging to the sense sphere, with emphatic -eva (neuter sg.)}
+avacarameva: {belonging to a sphere, compound final, with emphatic -eva (neuter sg.)}
+apariyāpannameva: {not included in the spheres of existence, with emphatic -eva (neuter sg.)}
+sāsavameva: {subject to the taints, with emphatic -eva (neuter sg.)}
+ganthaniyameva: {subject to the ties, with emphatic -eva (neuter sg.)}
+yoganiyameva: {subject to the yokes, with emphatic -eva (neuter sg.)}
+āsavameva: {the mental taints, cankers, in sāsavameva (compound member)}
+lokiyameva: {mundane, with emphatic -eva (neuter sg.)}
+dvārā: {door, the sense organ as a doorway, in the list of its names (feminine sg.)}
+bhūtānaṃ: {of the great elements, primary matter (genitive pl.)}
+suñño: {empty, deserted, in suñño gāmo (masculine sg.)}
+suñño gāmo: {an empty village, the sense organ as a deserted village (nominative sg.)}
+khettaṃ: {field, the sense organ as a field (nominative sg.)}
+mahābhūtānaṃ: {of the four great elements (genitive pl.)}
+nettaṃ: {guide, the eye as what leads (nominative sg.)}
+anidassano: {invisible, not visible to the eye (masculine sg.)}
+anidassano sappaṭigho: {invisible and impinging, said of the sense organ (masculine sg.)}
+nayanaṃ: {leader, the eye as what conducts (nominative sg.)}
+sappaṭigho: {impinging, striking against (masculine sg.)}
+samuddo: {ocean, sea, as a figure for the sense organ and in taṇhāsamuddo 'ocean of craving' (nominative sg.)}
+attabhāva: {personal existence, the individual being, in attabhāvapariyāpanno (compound member)}
+pasādo: {sensitivity, the sensitive matter of a sense organ (nominative sg.)}
+upādāya pasādo: {sensitivity derived from the great elements (nominative sg.)}
+tīraṃ: {shore, bank, in orimaṃ tīraṃ 'the near shore' (nominative sg.)}
+gāmo: {village, in suñño gāmo (nominative sg.)}
+sappaṭighaṃ paṭihaññi: {impinging matter struck against, past formula (gapped phrase)}
+paṭihaññissati: {will strike against, will impinge (3rd sg. future)}
+paṭihaññati: {strikes against, impinges (3rd sg. present)}
+paṭihaññi: {struck against, impinged (3rd sg. aorist)}
+sappaṭighamhi: {impinging, striking against (locative)}
+rūpamhi: {visible form, the object of the eye (locative)}
+sanidassanamhi: {visible, able to be seen (locative)}
+uppajjissati: {will arise, will come into being (3rd sg. future)}
+uppajji: {arose, has come into being (3rd sg. aorist)}
+uppajjati: {arises, comes into being (3rd sg. present)}
+cakkhusamphassajā: {born of eye-contact, said of feeling (feminine sg.)}
+nissāya: {depending on, relying on (absolutive)}
+cakkhuṃ nissāya: {depending on the eye (absolutive phrase)}
+cakkhusamphasso: {eye-contact, contact through the eye (nominative sg.)}
+cakkhusamphassajā vedanā: {feeling born of eye-contact (nominative sg.)}
+ārammaṇo: {having such-and-such an object, as in rūpārammaṇo (compound final)}
+suṇissati: {will hear, will listen (3rd sg. future)}
+suṇi: {heard, has heard (3rd sg. aorist)}
+suṇāti: {hears, listens (3rd sg. present)}
+anidassanaṃ sappaṭighaṃ: {invisible and impinging (neuter sg.)}
+saddaṃ: {sound as object, what is heard (accusative sg.)}
+sappaṭigho paṭihaññi: {the impinging organ or object struck against, past formula (gapped phrase)}
+saddo: {sound as object, what is heard (nominative sg.)}
+anidassanamhi sappaṭighamhi: {invisible and impinging (locative)}
+saddamhi: {sound as object, what is heard (locative)}
+sotasamphassajā: {born of ear-contact, said of feeling (feminine sg.)}
+sotaṃ nissāya: {depending on the ear (absolutive phrase)}
+sotasamphasso: {ear-contact, contact through hearing (nominative sg.)}
+sotasamphassajā vedanā: {feeling born of ear-contact (nominative sg.)}
+gandhaṃ: {smell, odour as object (accusative sg.)}
+ghāyissati: {will smell, will sniff (3rd sg. future)}
+ghāyi: {smelled, has smelled (3rd sg. aorist)}
+ghāyati: {smells, perceives odour (3rd sg. present)}
+gandho: {smell, odour as object (nominative sg.)}
+gandhamhi: {smell, odour as object (locative)}
+ghānasamphassajā: {born of nose-contact, said of feeling (feminine sg.)}
+ghānasamphassajā vedanā: {feeling born of nose-contact (nominative sg.)}
+ghānaṃ nissāya: {depending on the nose (absolutive phrase)}
+ghānasamphasso: {nose-contact, contact through smelling (nominative sg.)}
+rasaṃ: {taste, flavour as object (accusative sg.)}
+sāyissati: {will taste, will savour (3rd sg. future)}
+sāyi: {tasted, has tasted (3rd sg. aorist)}
+sāyati: {tastes, savours (3rd sg. present)}
+raso: {taste, flavour as object (nominative sg.)}
+rasamhi: {taste, flavour as object (locative)}
+jivhāsamphassajā: {born of tongue-contact, said of feeling (feminine sg.)}
+jivhāsamphassajā vedanā: {feeling born of tongue-contact (nominative sg.)}
+jivhaṃ nissāya: {depending on the tongue (absolutive phrase)}
+jivhāsamphasso: {tongue-contact, contact through tasting (nominative sg.)}
+anidassanasappaṭighaṃ: {invisible and impinging, as one compound (neuter sg.)}
+phoṭṭhabbaṃ: {tangible object, what is touched (accusative sg.)}
+phusissati: {will touch, will make contact (3rd sg. future)}
+phusi: {touched, has touched (3rd sg. aorist)}
+phusati: {touches, makes contact (3rd sg. present)}
+phoṭṭhabbo: {tangible object, what is touched (nominative sg.)}
+phoṭṭhabbamhi: {tangible object, what is touched (locative)}
+kāyaṃ nissāya: {depending on the body (absolutive phrase)}
+kāyasamphasso: {body-contact, contact through the body (nominative sg.)}
+kāyasamphassajā vedanā: {feeling born of body-contact (nominative sg.)}
+nibhā: {lustre, look, in vaṇṇanibhā (compound final)}
+upādāya vaṇṇanibhā: {derived colour and lustre, visible form as appearance (nominative sg.)}
+maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā: {the colour and lustre of gems, conch, pearls and beryl (nominative sg.)}
+jātarūparajatassa vaṇṇanibhā: {the colour and lustre of gold and silver (nominative sg.)}
+veḷuriyassa: {of beryl, the cat's-eye gem (genitive sg.)}
+kāḷakaṃ: {black, dark in colour (neuter sg.)}
+nīlaṃ: {blue, dark blue in colour (neuter sg.)}
+parimaṇḍalaṃ: {circular, ring-shaped (neuter sg.)}
+abbhā: {cloud, in the list of visible objects (stem)}
+vaṇṇa: {colour, hue, as in vaṇṇanibhā (compound member): रंग; praise, reputation, in vaṇṇamacchariya (compound member): प्रशंसा}
+vaṇṇanibhā: {colour and lustre, the look of a visible thing (nominative sg.)}
+ambaṅkuravaṇṇaṃ: {having the colour of young mango leaves (neuter sg.)}
+saṅkha: {conch shell (compound member)}
+mañjiṭṭhakaṃ: {crimson, madder-red (neuter sg.)}
+andhakāro: {darkness, in the list of visible objects (nominative sg.)}
+maṇḍalassa: {of the disc, in candamaṇḍalassa 'of the moon's disc' (genitive sg.)}
+rajo: {dust, in the list of visible objects (nominative sg.)}
+aṭṭhaṃsaṃ: {eight-cornered, octagonal (neuter sg.)}
+cakkhunā: {by the eye, with the seeing organ (instrumental)}
+maṇi: {gem, jewel (compound member)}
+hari: {green, greenish (compound member)}
+harivaṇṇaṃ: {green in colour, green-hued (neuter sg.)}
+anidassanena: {invisible, not visible to the eye (instrumental)}
+anidassanena sappaṭighena: {invisible and impinging (instrumental)}
+amba: {mango tree, in ambaṅkura 'mango shoot' (compound member)}
+ādāsa: {mirror, looking glass (compound member)}
+mahikā: {mist, fog (stem)}
+canda: {the moon, in candamaṇḍala (compound member)}
+muttā: {pearl (compound member)}
+lohitakaṃ: {red, blood-coloured (neuter sg.)}
+vaṭṭaṃ: {round, rounded (neuter sg.)}
+chāyā: {shade, shadow, in the list of visible objects (nominative sg.)}
+aṅkura: {shoot, sprout, in ambaṅkura (compound member)}
+rajatassa: {of silver, in jātarūparajatassa (genitive sg.)}
+chaḷaṃsaṃ: {six-cornered, hexagonal (neuter sg.)}
+soḷasaṃsaṃ: {sixteen-cornered (neuter sg.)}
+dhūmo: {smoke, in the list of visible objects (nominative sg.)}
+caturaṃsaṃ: {four-cornered, square-shaped (neuter sg.)}
+tārakarūpānaṃ: {of the stars, star-forms (genitive pl.)}
+sūriya: {the sun, in sūriyamaṇḍala (compound member)}
+ātapo: {sunshine, heat of the sun (nominative sg.)}
+sanidassanaṃ sappaṭighaṃ: {visible and impinging, said of visible form (neuter sg.)}
+odātaṃ: {white, clean white (neuter sg.)}
+pītakaṃ: {yellow, golden in colour (neuter sg.)}
+cakkhuṃ: {the eye, the seeing organ (accusative sg.)}
+cakkhumhi: {the eye, the seeing organ (locative)}
+anidassanamhi: {invisible, not visible to the eye (locative)}
+sattānaṃ: {of living beings (genitive pl.)}
+amanussa: {non-human beings, spirits (compound member)}
+samma: {cymbal (compound member)}
+bheri: {drum, kettle-drum (compound member)}
+sotena: {by the ear, with the hearing organ (instrumental)}
+pāṇi: {hand, clapping of hands (compound member)}
+manussa: {human beings, people (compound member)}
+vādita: {instrumental music, played instruments (compound member)}
+sannighāta: {striking together, knocking against each other (compound member)}
+nigghosasaddo: {noise, din, a resounding sound (nominative sg.)}
+gīta: {song, singing (compound member)}
+saṅkhasaddo: {the sound of conch shells blown (nominative sg.)}
+sammasaddo: {the sound of cymbals clashed (nominative sg.)}
+bherisaddo: {the sound of drums beaten (nominative sg.)}
+pāṇisaddo: {the sound of hands clapped (nominative sg.)}
+manussasaddo: {the sound of human voices (nominative sg.)}
+vāditasaddo: {the sound of musical instruments played (nominative sg.)}
+amanussasaddo: {the sound of non-human beings, spirit voices (nominative sg.)}
+gītasaddo: {the sound of song, singing voices (nominative sg.)}
+mudiṅgasaddo: {the sound of tabors, two-headed drums (nominative sg.)}
+dhātūnaṃ sannighātasaddo: {the sound of things knocking together (nominative sg.)}
+paṇavasaddo: {the sound of small drums, tom-toms (nominative sg.)}
+udakasaddo: {the sound of flowing water (nominative sg.)}
+vātasaddo: {the sound of the wind (nominative sg.)}
+mudiṅga: {tabor, a two-headed drum (compound member)}
+dhātūnaṃ: {of things, objects striking each other, in dhātūnaṃ sannighātasaddo (genitive pl.): वस्तु; of the elements, irreducible constituents, in skill in attention (genitive pl.): तत्व}
+paṇava: {small drum, tom-tom (compound member)}
+udaka: {water, flowing water (compound member)}
+vāta: {wind, moving air (compound member)}
+sotaṃ: {the ear, the hearing organ (accusative sg.)}
+sotamhi: {the ear, the hearing organ (locative)}
+taca: {bark of a tree (compound member)}
+āmaka: {raw flesh, uncooked meat (compound member)}
+puppha: {flower, blossom (compound member)}
+phala: {fruit, of plants in the smell and taste lists, also the fruition of the path in phalasamaṅgī (compound member)}
+sāra: {heartwood, core of a tree (compound member)}
+patta: {leaf, foliage (compound member)}
+ghānena: {by the nose, with the smelling organ (instrumental)}
+sugandho: {fragrance, a pleasant smell (nominative sg.)}
+mūla: {root of a plant (compound member)}
+vissa: {rot, putrid matter (compound member)}
+tacagandho: {the smell of tree bark (nominative sg.)}
+pupphagandho: {the scent of flowers (nominative sg.)}
+phalagandho: {the scent of fruits (nominative sg.)}
+sāragandho: {the smell of heartwood (nominative sg.)}
+pattagandho: {the smell of leaves, foliage (nominative sg.)}
+āmakagandho: {the smell of raw flesh (nominative sg.)}
+mūlagandho: {the smell of plant roots (nominative sg.)}
+vissagandho: {the smell of rot, stench of decay (nominative sg.)}
+duggandho: {foul smell, stench (nominative sg.)}
+ghānaṃ: {the nose, the smelling organ (accusative sg.)}
+ghānamhi: {the nose, the smelling organ (locative)}
+khārikaṃ: {alkaline, caustic in taste (neuter sg.)}
+kasāvo: {astringent in taste (nominative sg.)}
+tittakaṃ: {bitter in taste (neuter sg.)}
+kaṭukaṃ: {pungent, sharp in taste (neuter sg.)}
+loṇikaṃ: {salty in taste (neuter sg.)}
+ambilaṃ: {sour in taste (neuter sg.)}
+khandha: {stem, trunk of a plant, in khandharaso (compound member): तना; aggregate, group of phenomena, in khandhadhātuāyatanā (compound member): समूह}
+madhuraṃ: {sweet in taste (neuter sg.)}
+lambilaṃ: {tart, slightly sour in taste (neuter sg.)}
+tacaraso: {the taste of tree bark (nominative sg.)}
+puppharaso: {the taste of flowers, blossom flavour (nominative sg.)}
+phalaraso: {the taste of fruits, fruit flavour (nominative sg.)}
+pattaraso: {the taste of leaves, foliage flavour (nominative sg.)}
+mūlaraso: {the taste of plant roots (nominative sg.)}
+khandharaso: {the taste of stems, plant trunks (nominative sg.)}
+sādu: {tasty, delicious (neuter sg.)}
+jivhāya: {by the tongue, with the tasting organ (instrumental)}
+jivhaṃ: {the tongue, the tasting organ (accusative sg.)}
+kuttaṃ: {conduct, behaviour typical of a sex (nominative sg.)}
+liṅgaṃ: {feature, outward mark of a sex (nominative sg.)}
+ākappo: {manner, deportment (nominative sg.)}
+nimittaṃ: {sign, characteristic mark (nominative sg.)}
+itthiyā: {of a woman (genitive sg.)}
+purisassa: {of a man (genitive sg.)}
+rūpīnaṃ dhammānaṃ: {of material phenomena (genitive pl.)}
+ālokentassa: {looking ahead, of one looking forward (genitive sg.)}
+samiñjentassa: {bending a limb, of one drawing in (genitive sg.)}
+kāyassa: {the physical body, or bodily (genitive sg., as in kāyassa thambhanā and imassa kāyassa ṭhitiyā): शरीर; the mental body, the group of mental factors (genitive sg., in kāyassa akallatā, the definition of torpor): मानसिक काया}
+santhambhitattaṃ: {the state of being stiffened (neuter sg.)}
+abhikkamantassa: {going forward, of one advancing (genitive sg.)}
+paṭikkamantassa: {going back, of one returning (genitive sg.)}
+viññāpanā: {making known, act of intimating (nominative sg.)}
+vilokentassa: {looking around, of one glancing aside (genitive sg.)}
+thambhanā: {stiffening, tensing of the body (nominative sg.)}
+pasārentassa: {stretching out a limb, of one extending (genitive sg.)}
+akusalacittassa: {of an unwholesome mind (genitive sg.)}
+kusalacittassa: {of a wholesome mind (genitive sg.)}
+bhedo: {breaking forth, in vacībhedo 'utterance of speech' (nominative sg.): फूटना; breaking up, dissolution, in the impermanence list (nominative sg.): टूटना}
+byappatho: {way of speaking, speech (nominative sg.)}
+girā: {utterance, words spoken (nominative sg.)}
+udīraṇaṃ: {uttering, giving voice (nominative sg.)}
+ghoso: {voice, sound of speech (nominative sg.)}
+ghosakammaṃ: {voicing, the act of making a sound (nominative sg.)}
+gataṃ: {having the nature of, reckoned as, in ākāsagataṃ (compound final)}
+bhūtehi: {by the great elements, primary matter (instrumental)}
+mahābhūtehi: {by the four great elements (instrumental)}
+vivaro: {opening, gap, aperture (nominative sg.)}
+asamphuṭṭhaṃ: {untouched, not in contact with the great elements (neuter sg. participle)}
+aghaṃ: {void, empty space (nominative sg.)}
+avitthanatā: {absence of stiffness, inertia (nominative sg.)}
+lahupariṇāmatā: {quick changeability, ability to change swiftly (nominative sg.)}
+akathinatā: {absence of rigidity (nominative sg.)}
+ācayo: {accumulation, first building up (nominative sg.)}
+āyatanānaṃ: {of the sense bases, the sense fields (genitive pl.)}
+khaṇḍiccaṃ: {brokenness of teeth (nominative sg.)}
+saṃhāni: {dwindling, decline of life (nominative sg.)}
+indriyānaṃ: {of the sense faculties, the senses (genitive pl.)}
+pāliccaṃ: {greyness of hair (nominative sg.)}
+jīraṇatā: {growing old, decrepitude (nominative sg.)}
+āyuno: {of the life span (genitive sg.)}
+paripāko: {over-ripening, full ripeness of the faculties (nominative sg.)}
+valittacatā: {wrinkledness of skin (nominative sg.)}
+paribhedo: {falling apart, breaking up completely (nominative sg.)}
+vayo: {passing away, decay (nominative sg.)}
+khayo: {destruction, wearing away (nominative sg.)}
+antaradhānaṃ: {disappearance, vanishing (nominative sg.)}
+yāpenti: {keep alive, sustain themselves (3rd pl. present)}
+sattu: {barley meal, parched flour (nominative sg.)}
+kucchi: {belly, stomach (nominative sg.)}
+Odano: {boiled rice, cooked grain (nominative sg.)}
+navanītaṃ: {fresh butter (nominative sg.)}
+kaṇḍe: {in the chapter, as in Rūpakaṇḍe (locative, heading)}
+vikhādanaṃ: {chewing, what is chewed (nominative sg.)}
+dadhi: {curd, sour milk (nominative sg.)}
+āsiyaṃ: {eating, what is eaten (nominative sg.)}
+ojāya: {by nutritive essence (instrumental)}
+vitthambhanaṃ: {filling, supporting as nourishment (nominative sg.)}
+maccho: {fish, as food (nominative sg.)}
+sappi: {ghee, clarified butter (nominative sg.)}
+madhu: {honey, as food (nominative sg.)}
