@@ -1,0 +1,24 @@
+---
+title: Paṭṭhānapāḷi
+language: Pali
+script: Roman (PTS diacritics)
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+layer: mula
+source_description: "Tipitaka.org Mula edition export, merged from 5 source files (abh03m7, abh03m8, abh03m9, abh03m10, abh03m11); 27761 segments in source total."
+source_filename: book/abh03m.mul.html
+source: "https://tipitaka.org/romn/cscd/abh03m7.mul.xml"
+other_ids:
+  - tipitaka.org: abh03m7
+  - tipitaka.org: abh03m8
+  - tipitaka.org: abh03m9
+  - tipitaka.org: abh03m10
+  - tipitaka.org: abh03m11
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: XtTiyeogM96K1Chqpbccr
+edition_id: 03TkdCHL1y2qqnI0aVBNG
+toc_id: AIk9ox9F9aJ1oLLwrpbid
+---
