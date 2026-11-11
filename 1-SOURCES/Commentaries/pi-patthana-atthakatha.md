@@ -18,6 +18,9 @@ other_ids:
   - tipitaka.org: abh03a (chapters 50-65 of combined Pañcapakaraṇa-aṭṭhakathā)
 commentary_of: XtTiyeogM96K1Chqpbccr
 category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: koOCvi9WXNVbVJ4BrsXOm
+edition_id: ZAlRBmUWCZkBFXCMljyWW
+toc_id: Trc4T2LzGc6xZ3Mc5meEk
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

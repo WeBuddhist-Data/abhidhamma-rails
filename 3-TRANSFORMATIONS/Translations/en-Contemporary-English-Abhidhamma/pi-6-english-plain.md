@@ -21,6 +21,9 @@ split_chapters: AI_translation/english/pi-6-english-plain-rails_split_chapters
 generated: 2026-11-06
 status: draft
 translation_of: IZ74xHeWa9xortlOhL6cc
+text_id: TxLz0bIFwDV1J0fxrVwXg
+edition_id: hgdo52fzBzV34279F7V9z
+toc_id: Pq4QFmYtD1cQcfpCMTyUR
 ---
 
 ![[1-SOURCES/Text/pi-6.md#^T-1]]

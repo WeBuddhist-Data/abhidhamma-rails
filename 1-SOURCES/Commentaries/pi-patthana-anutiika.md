@@ -19,6 +19,9 @@ other_ids:
   - tipitaka.org: abh05t (chapter 5 of combined Pañcapakaraṇa-anuṭīkā)
 commentary_of: XtTiyeogM96K1Chqpbccr
 category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: gUCmYO0CLvMD2Nvlo3Ncj
+edition_id: kA9s4Uv5Tr1QLkjWgSx3k
+toc_id: EHvJHIvm3ZBurLKuz2fqV
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
