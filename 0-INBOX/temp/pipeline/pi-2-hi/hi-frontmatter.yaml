@@ -1,0 +1,29 @@
+---
+title: विस्तृत विश्लेषण - सरल हिंदी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Vibhaṅgapāḷi
+root_text: 1-SOURCES/Text/pi-2.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-2_split_chapters
+source_text_id: Bkcft6D0nQCPZNb4Kkuf4
+source_edition_id: KAoqSlcxrqMtx3VRwmnPX
+translation_of: Bkcft6D0nQCPZNb4Kkuf4
+language: Hindi
+lang_tag: hi
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/hindi/pi-2-pali-hindi-termbase-plain.md
+termbase_approved: 2026-11-12
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-2-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a sample at each step, remaining chapters run in parallel at the user's request; cross-chapter alignment pass; independent bilingual review, fixes and five term changes approved by the user; one source slip emended at ^2-187 with a bracket note; dashes only where the Pāli has them (user rule)"
+zeroshot_split: AI_translation/hindi/pi-2-hindi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/hindi/pi-2-keywords-by-reference-pali-hindi-plain.md
+senses: AI_translation/hindi/pi-2-pali-word-hindi-senses-plain.md
+segment_ids: "SEGMENT_IDS"
+chapters: preamble + 18 vibhaṅgas (Khandhavibhaṅga … Dhammahadayavibhaṅga)
+split_chapters: AI_translation/hindi/pi-2-hindi-plain-rails_split_chapters
+generated: 2026-11-12
+status: draft
+---

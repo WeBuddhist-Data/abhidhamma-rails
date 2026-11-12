@@ -1,0 +1,30 @@
+# pi-2 Pāli→Hindi plain termbase, coordinator's cross-part family alignments (single-candidate senses with no part decision). key<TAB>term<TAB>reason
+acetasiko|0	मन का सहचर न होने वाला	family: cetasika = मन का सहचर; acetasikā (part 1) and acetasikaṃ, acetasikameva = मन का सहचर न होने वाला; label form, «… नहीं» is the predicate (^2 ch9 cittiddhipādo acetasiko)
+vipākaṃ|0	कर्म-फल रूपी	family: vipākato (part 3), vipāka|0 (pi-1 prior), vipākahetu = कर्म-फल रूपी; the triad text reads «कर्म-फल रूपी» (144 vs 68)
+vipākā|0	कर्म-फल रूपी	family: as vipākaṃ; ch5 «तीन क्षमताएँ कर्म-फल रूपी हैं»; pi-1 vipākā = कर्म के फल रूपी (cross-book)
+adhammacariyā|0	अनैतिक आचरण	family: part-1 adhamma = अनैतिक (pi-1 adhammarāga); keeps it apart from visamacariyā in ^2-U11
+visamacariyā|0	अनुचित आचरण	family: visama = अनुचित (part 3, pi-1 visamalobha); adhammacariyā = अनैतिक आचरण, so the pair in ^2-U11 stays distinct
+bhāvetabbā|0	अभ्यास किए जाने योग्य	open point bhāveti: one word for the verb family (bhāveti = अभ्यास करना, bhāvitattā = अभ्यास किया जाना pi-1, abhāvanā = मानसिक अभ्यास न करना part 3); विकसित was a second word for the same verb
+bhāvetabbo|0	अभ्यास किए जाने योग्य	as bhāvetabbā
+kusalato|0	हितकर मन	pi-1 prior, same planes-of-arising sense (^2 ch15 kāmāvacarakusalato = हितकर मन); family kusale = हितकर मन
+kiriyato|0	केवल क्रिया रूपी मन	pi-1 prior, same sense (ch15 «केवल क्रिया रूपी मन की … उत्पत्तियों में»)
+Pāṇātipāto|0	जीव-हत्या	family Pāṇātipātā = जीव-हत्या; pi-5 pāṇātipāto prior; text 40:5
+Adukkhamasukha|0	न दुःखद न सुखद	family adukkhamasukhā, adukkhamasukhāya; pi-1 and pi-5 adukkhamasukhaṃ, terms list §8
+jāto|0	जन्मा हुआ	family jātā = जन्मा हुआ (pi-1), jātaṃ = जन्मा हुआ (terms list §7); pi-5 jāto = जन्मा
+ñātī|0	रिश्तेदार	family Ñāti = रिश्तेदार (part 1, pi-4); keeps ñāti apart from sālohita = रक्त-संबंधी (^2-200)
+tike|0	तीन-तीन के वर्गीकरण	family Tika, Tikaṃ, tikā = तीन-तीन के वर्गीकरण (part 1, harmonise 5)
+avitakka|0	आरंभिक विचार से रहित	family avitakko; pi-1 and pi-3 avitakkā dhammā, pi-5 avitakko samādhi = आरंभिक विचार से रहित
+upapajjati|0	जन्म लेना	family upapajjanti = जन्म लेना; pi-5 upapajjati prior; uppajjati|1 (is reborn) = जन्म लेना
+Kāmāvacarānaṃ|0	इंद्रिय-सुखों के लोक से संबंधित	family kāmāvacaro, kāmāvacarā (part 1, pi-1/3), kāmāvacarassa = इंद्रिय-सुखों के लोक से संबंधित
+āvacarānaṃ|0	लोक से संबंधित	family āvacaro (part 1), āvacarā, āvacarassa = लोक से संबंधित
+nevasaññānāsaññāyatanūpago|0	न पहचान न अ-पहचान के क्षेत्र में पहुँचा	family -āyatanūpage, -āyatanūpagānaṃ (6 refs) = … क्षेत्र में पहुँचा
+ākiñcaññāyatanūpago|0	कुछ भी न होने के क्षेत्र में पहुँचा	as nevasaññānāsaññāyatanūpago
+āyatanūpago|0	क्षेत्र में पहुँचा	as nevasaññānāsaññāyatanūpago; family āyatanūpage, āyatanūpagānaṃ
+suviññāpayā|0	आसानी से समझाए जा सकने वाला	family suviññāpaye; pi-5 suviññāpaye prior
+duviññāpayā|0	कठिनाई से समझाए जा सकने वाला	family duviññāpaye
+viññāpayā|0	समझाए जा सकने वाला	family viññāpaye; pi-5 viññāpaye prior
+kopañca|0	कोप	family kopo = कोप (pi-1, pi-4 kopaṃ); keeps kopa apart from kodha = क्रोध
+pāsādopi|0	महल	family pāsādo = महल (pi-1, pi-4, pi-5 pāsādaṃ)
+udakāni|0	पानी	family udaka = पानी (pi-1/4/5); keeps udaka apart from āpo = जल in the same passage (^2-174)
+visuddhiyā|0	शुद्धि	family visuddhi = शुद्धि (pi-1, pi-5 visuddhiyā)
+upakkilese|0	मलिनता	family upakkileso = मलिनता (pi-1, pi-5 upakkilese)

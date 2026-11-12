@@ -1,0 +1,76 @@
+# Notes for chapters 12 (Jhānavibhaṅga) and 13 (Appamaññāvibhaṅga): new recurring terms and formulas
+
+Builder: build_12_13_hi.py (constants named in brackets). [pi-1] = verbatim from the reviewed pi-1 Hindi; [pi-4] = from pi-4; [new] = settled here.
+
+## Headings
+Mātikā (##### in ch12) = मूल सूची [pi-1]
+Rūpāvacarakusalaṃ = सूक्ष्म भौतिक लोक से संबंधित हितकर मन [pi-1]
+Arūpāvacarakusalaṃ = अभौतिक लोक से संबंधित हितकर मन [pi-1]
+Lokuttarakusalaṃ = लोकोत्तर हितकर मन [pi-1]
+Rūpāvacaravipākā = सूक्ष्म भौतिक लोक से संबंधित कर्म-फल [pi-1]
+Arūpāvacaravipākā = अभौतिक लोक से संबंधित कर्म-फल [pi-1]
+Lokuttaravipākā = लोकोत्तर कर्म-फल [new, pi-1 pattern]
+Rūpārūpāvacarakiriyā = सूक्ष्म भौतिक और अभौतिक लोक से संबंधित केवल क्रिया रूपी मन [new, pi-1 pattern]
+Tikaṃ / Dukaṃ (Pañhāpucchaka) = तीन-तीन के वर्गीकरण / दो-दो के वर्गीकरण [new, from pi-1 Tikamātikā]
+Catukkaṃ. / Pañcakaṃ. (closing lines) = चार-चार की विधि। / पाँच-पाँच की विधि। [pi-1 Catukkanayo / Pañcakanayo]
+Mettā / Karuṇā / Muditā / Upekkhā (headings) = मैत्री / करुणा / दूसरों के सुख पर प्रसन्नता / समभाव [pi-1]
+
+## Word-commentary frames
+"X"ti <definition> = “X”: <definition> [new]
+Tena vuccati "X"ti. = इसीलिए “X” कहा जाता है। [new]
+atthi X, atthi Y = X भी होता/होती है, Y भी होता/होती है। [new]
+upeto hoti samupeto upāgato samupāgato upapanno sampanno samannāgato = युक्त होता है, भली-भाँति युक्त, सहित, भली-भाँति सहित, संपन्न, परिपूर्ण, समन्वित (UPETA_FULL; …pe… forms UPETA_PE / UPETA_PE2) [new]
+iriyati vattati pāleti yapeti yāpeti carati viharati = चलता-फिरता है, आचरण करता है, स्वयं को बनाए रखता है, निभाता है, जीवन चलाता है, विचरता है, रहता है (VIHARATI_DEF) [new]
+santā honti samitā vūpasantā atthaṅgatā abbhatthaṅgatā appitā byappitā sositā visositā byantīkatā = शांत हो चुके, थम चुके, पूरी तरह शांत हो चुके, अस्त हो चुके, पूरी तरह अस्त हो चुके, नष्ट हो चुके, पूरी तरह नष्ट हो चुके, सूख चुके, पूरी तरह सूख चुके और पूरी तरह समाप्त हो चुके होते हैं (santa(g, n), gender/number of the Hindi noun) [new]
+sodheti visodheti parisodheti moceti vimoceti parimoceti = शुद्ध करता है, विशुद्ध करता है, पूरी तरह शुद्ध करता है, छुड़ाता है, मुक्त करता है, पूरी तरह मुक्त करता है (SODHETI) [new]
+cattattā vantattā muttattā pahīnattā paṭinissaṭṭhattā pahīnapaṭinissaṭṭhattā = के त्याग दिए जाने, उगल दिए जाने, छोड़ दिए जाने, हटा दिए जाने, पूरी तरह छोड़ दिए जाने, हटाकर पूरी तरह छोड़ दिए जाने के कारण (CATTATTA) [new]
+atikkanto hoti vītikkanto samatikkanto = लाँघ चुका, पार कर चुका और पूरी तरह पार कर चुका होता है (ATIKKANTA) [new]
+jātā honti sañjātā nibbattā abhinibbattā pātubhūtā = जन्मे हुए, भली-भाँति जन्मे, पैदा हुए, पूरी तरह पैदा हुए और प्रकट हुए होते हैं (JATA; words of pi-1 SYN_PACCUPPANNA) [new]
+lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā = लाभ, पुनः लाभ, पहुँच, पूरी पहुँच, स्पर्श, साक्षात्कार और प्राप्ति (labha) [new]
+gaṇanānupubbatā X. Idaṃ X samāpajjatīti X. = गिनती के क्रम में X। इसे Y स्थान पर प्राप्त किया जाता है, इसलिए X। (ganana) [new]
+sabbena sabbaṃ sabbathā sabbaṃ asesaṃ nissesaṃ = सब कुछ पूरी तरह, हर प्रकार से सब कुछ, बिना कुछ बचाए, बिना कुछ छोड़े (SABBENA) [new]
+sahagataṃ hoti sahajātaṃ saṃsaṭṭhaṃ sampayuttaṃ = के साथ होता है, उसके साथ उत्पन्न होता है, उससे घुला-मिला और उससे जुड़ा होता है (SAHAGATA_TAIL) [new; pi-1 words]
+samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā = में लीन व्यक्ति की, या वहाँ जन्मे व्यक्ति की, या इसी जीवन में सुख से रहने वाले व्यक्ति की [pi-1 ^1-1289]
+cittacetasikā dhammā = मन और मन की सहचर परिघटनाएँ [pi-1]
+
+## Suttanta terms (ch12 ^2-508 and its word commentary)
+pātimokkha = भिक्षु-नियमों की संहिता; pātimokkhasaṃvarasaṃvuto = भिक्षु-नियमों की संहिता के संयम से संयमित [new]
+ācāra / anācāra = उचित आचरण / अनुचित आचरण; gocara / agocara = उचित विचरण-क्षेत्र / अनुचित विचरण-क्षेत्र [new]
+aṇumattesu vajjesu bhayadassāvī = छोटे-से-छोटे दोषों में भी भय देखने वाला [new]
+samādāya sikkhati sikkhāpadesu = प्रशिक्षण के नियमों को अपनाकर उनमें प्रशिक्षण लेता है [new]
+indriyesu guttadvāro / guttadvāratā = इंद्रियों के द्वारों की रक्षा करने वाला / करने की प्रवृत्ति [pi-1/pi-4]
+bhojane mattaññū = भोजन में मात्रा जानने वाला [new; pi-1 mattaññutā]
+pubbarattāpararattaṃ jāgariyānuyogamanuyutto = रात के पहले और पिछले पहर में जागते रहने के अभ्यास में लगा हुआ [new]
+sātacca / nepakka = निरंतरता / समझदारी [new]
+bodhipakkhikā dhammā = जागृति के पक्ष की परिघटनाएँ; satisambojjhaṅgo … = सजगता नामक जागृति का अंग … [pi-1]
+sampajānakārī = स्पष्ट समझ के साथ काम करता है [pi-4]; sato sampajāno = सजग और स्पष्ट समझ रखते हुए [pi-1]
+senāsana = निवास-स्थान; vivitta = एकांत; vanapattha = घना जंगल; arañña = वन [pi-4]
+appasadda / appanigghosa / vijanavāta / manussarāhasseyyaka / paṭisallānasāruppa = कम आवाज़ वाला / कम शोर वाला / लोगों की भीड़ से रहित / मनुष्यों से छिपकर रहने योग्य / एकांत-साधना के अनुकूल [new]
+loka (abhijjhaṃ loke) = लोक (not संसार, which is saṃsāra) [new]
+upādānakkhandhā = आसक्ति के विषय बनने वाले समूह [new]
+padosa = गहरा द्वेष (as in the pi-1 dosa list); byāpādapadosa = दुर्भावना और गहरा द्वेष [new]
+nīvaraṇa = बाधा; cetaso upakkilesa = मन को मैला करने वाली; paññāya dubbalīkaraṇa = प्रज्ञा को दुर्बल करने वाली [pi-1/pi-4]
+upekkhā upekkhanā ajjhupekkhanā majjhattatā cittassa = समभाव, समभाव रखना, उदासीन भाव से देखना, मन का संतुलन [new]
+kāyo (in sukhañca kāyena) = काया [pi-1]
+ariyā = आर्य; ācikkhanti desenti paññapenti paṭṭhapenti vivaranti vibhajanti uttāniṃ karonti pakāsenti = कहते हैं, उपदेश देते हैं, बताते हैं, स्थापित करते हैं, खोलकर रखते हैं, विश्लेषण करते हैं, स्पष्ट करते हैं, प्रकट करते हैं [new]
+"ananto ākāso" / "anantaṃ viññāṇaṃ" / "natthi kiñci" = “आकाश अनंत है” / “चेतना अनंत है” / “कुछ भी नहीं है” (+ "इस भाव से") [new]
+nevasaññīnāsaññī = न पहचान वाला, न अ-पहचान वाला [new]
+
+## Abhidhammabhājanīya frames
+Idha bhikkhu yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti = यहाँ जिस समय भिक्षु सूक्ष्म भौतिक लोक में जन्म की ओर ले जाने वाले मार्ग का अभ्यास करता है [pi-1 + "यहाँ … भिक्षु"; same as ch9 agent]
+tasmiṃ samaye pañcaṅgikaṃ/caturaṅgikaṃ/tivaṅgikaṃ/duvaṅgikaṃ jhānaṃ hoti – … = उस समय पाँच/चार/तीन/दो अंगों वाला ध्यान होता है – … [pi-1]
+Idaṃ vuccati "paṭhamaṃ jhānaṃ". Avasesā dhammā jhānasampayuttā. = यह “पहला ध्यान” कहा जाता है। शेष परिघटनाएँ ध्यान से जुड़ी हैं। [new]
+Avasesā dhammā mettāya sampayuttā = शेष परिघटनाएँ मैत्री से जुड़ी हैं [new]
+metti mettāyanā mettāyitattaṃ mettācetovimutti = मैत्री, मैत्री करना, मैत्री से भरा होना, मैत्री द्वारा मन की मुक्ति (same pattern for करुणा, दूसरों के सुख पर प्रसन्नता, समभाव) [pi-1 ^1-1062 + pi-4 cetovimutti]
+sattesu = प्राणियों के प्रति [new]
+X-sahagatena cetasā = X के साथ होने वाले मन से [pi-1 sahagata]
+ekaṃ disaṃ pharitvā viharati = एक दिशा को व्याप्त करके रहता है; pharitvā adhimuccitvā = व्याप्त करके, उस पर मन को दृढ़ता से टिकाकर [new]
+uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ = ऊपर, नीचे, चारों ओर, हर जगह, सबको अपने समान मानकर, पूरे लोक को [new]
+vipula mahaggata appamāṇa avera abyāpajja = विशाल, उन्नत, अपरिमित, वैर से रहित, दुर्भावना से रहित [pi-1 mahaggata/appamāṇa; rest new]
+
+## Pañhāpucchaka (masculine plural subject: ध्यान / असीम भाव)
+Catunnaṃ X-ānaṃ kati kusalā … kati araṇā? = चार X में से कितने हितकर हैं, कितने हानिकर, कितने नैतिक रूप से अनिर्धारित… कितने संघर्ष वाले हैं, कितने संघर्ष से रहित? [same as ch9 agent]
+siyā X = कभी X होते हैं (pi-1 ^1-1406 pattern); na vattabbā X-ātipi, Y-ātipi = इन्हें न X कहा जा सकता है, न Y [pi-1]
+etthuppannaṃ X ṭhapetvā = इनमें/इसमें उत्पन्न X को छोड़कर [pi-1]
+na hetū sahetukā = मूल रूपी न होने वाले, पर मूल वाले [pi-1 matrix]
+Matrix predicates otherwise = pi-1 matrix wording in masculine plural (कर्म-फल उत्पन्न करने वाले, मन के मैलों का विषय बनने वाले …)

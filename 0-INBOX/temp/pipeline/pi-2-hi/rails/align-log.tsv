@@ -1,0 +1,68 @@
+rule	chapter	replacements	lines
+A1 kati-question (one हैं)	1	1	513
+A1 kati-question (one हैं)	2	1	41
+A1 kati-question (one हैं)	3	1	62
+A1 kati-question (one हैं)	4	1	116
+A1 kati-question (one हैं)	14	1	29
+A1 kati-question (one हैं)	15	1	68
+A2 siyā na vattabba: drop «ऐसा होता है कि»	2	50	43,44,46,48,50,51,52,53,54,56,57,58,44,45,46,50,51,52,53,54,56,58
+A2 siyā na vattabba: drop «ऐसा होता है कि»	4	32	118,119,120,121,123,125,126,127,128,129,130,131,132,121,127,129,131
+A3 anaphoric pronoun उसे/उन्हें	5	35	35,38,41,42,38,41,42,43,45,46,49,50,51,52,53,54,55,56,57,58,59,60,65,66,67,68,69,43
+A4 na vattabba – A, B: «”, वे/वह»	1	23	520,523,524,525,526,527,529,530,531,523,524,525,526,527,529,530
+A4 na vattabba – A, B: «”, वे/वह»	5	29	45,46,49,50,51,52,54,55,57,58,60,65,66,67,68,69,46,49,51,54,57,60,65,67,50,52,58,68,69
+A5 no added subject (sentence start)	1	1	521
+A5 no added subject (sentence start)	8	1	47
+A5 no added subject (sentence start)	9	1	81
+A5 no added subject (sentence start)	14	7	31,32,34,35,36
+A5 no added subject (sentence start)	15	26	70,71,75,77,78,79,80,81,78
+A5 no added subject: «; वे» for a continuing subject	2	1	46
+A5 no added subject: «; वे» for a continuing subject	3	1	71
+A5 no added subject: «; वे» for a continuing subject	5	1	43
+A5 no added subject: «इन्हें»	14	1	34
+A5 no added subject: «इन्हें»	15	1	79
+A6 kenaci viññeyyā (one wording)	1	1	522
+A6 kenaci viññeyyā (one wording)	2	1	49
+A6 kenaci viññeyyā (one wording)	3	1	75
+A6 kenaci viññeyyā (one wording)	4	1	124
+A6 kenaci viññeyyā (one wording)	5	1	48
+A7 negated item -> predicate negation	1	21	528,532,533
+A7 negated item -> predicate negation	2	47	48,50,51,52,53,54,55,56,57,59,60,55,55
+A7 negated item -> predicate negation	4	50	123,125,126,127,129,130,131,132,133,134,130,130,128,128
+A7 negated item -> predicate negation	8	6	49
+A7 negated item -> predicate negation	9	6	85
+A8 no-dash na vattabba: no added quotes	8	6	47,49
+A8 no-dash na vattabba: no added quotes	9	8	81,83,84
+A9 na vattabba Xti, Y: item name	8	2	49
+A9 na vattabba Xti, Y: item name	9	2	83
+B1 nirodhasacca = अंत का सत्य	18	9	8,69,245,256,262,275,294,312,283
+B2 soka/parideva/upāyāsa -itattaṃ = «से भरा होना»	4	4	9,10,10,13
+B3 byasana list (ch4 wording)	6	3	22,23,26
+B4 dukkhe ñāṇaṃ = «दुःख का ज्ञान» (ch11, ch16)	4	1	50
+B5 typo «दुःखके»	16	8	150,322,324,327
+B6 dhamme ñāṇaṃ = «परिघटनाओं का ज्ञान» (ch15)	16	1	342
+C1 right-effort formula = pi-1 ^1-1377	11	6	9,9,9
+C2 āsevati bhāveti bahulīkaroti (one string)	7	8	5,6,16,17,22,23,29,31
+C2 āsevati bhāveti bahulīkaroti (one string)	12	1	26
+C3 upeto hoti … samannāgato (ch8/ch9 wording)	7	8	8,10,11,12,34,36,37,38
+C3 upeto hoti … samannāgato (ch8/ch9 wording)	12	4	7,19,22,118
+C3 upeto hoti … samannāgato (two objects: उनसे)	12	5	14,29,64,91,121
+C4 vīriya string: anikkhittachandatā = चाह न छोड़ना	9	1	8
+D1 Tena vuccati = «इसीलिए “X” कहा जाता है।»	6	43	27,71,78,86,94,106,113,121,132,144,151,159,167,191,202,216,231,238,241,243,249,254,260,272,278,282,285,288,292,301,311,318,324,330,336,342,353,359,362,374,385,397,410
+D1 Tena vuccati = «इसीलिए “X” कहा जाता है।»	8	20	5,6,7,8,9,11,12,13,14,15,17,20,25,26,27,28,36,37,38,39
+D1 Tena vuccati = «इसीलिए “X” कहा जाता है।»	9	16	11,19,27,35,46,54,62,70,8,16,24,32,43,51,59,67
+E1 precept phrase «X से दूर रहना»	4	5	52,53,53
+E2 veramaṇī without a phrase entry = «बचना»	11	3	6,6,6
+F1 dha. sa. = «परिघटनाओं की गणना»	10	1	28
+F1 dha. sa. = «परिघटनाओं की गणना»	17	3	36,141,190
+G1 yañca rūpaṃ anidassanaappaṭighaṃ … (formulas file)	3	1	52
+G2 vipāka = कर्म-फल रूपी (termbase)	15	11	37,39,40,42,44,46,48,50,52,54,56
+G3 third jhāna: upekkhako = समभाव वाला, satimā = सजग (termbase)	11	1	11
+G3 third jhāna: upekkhako = समभाव वाला, satimā = सजग (termbase)	12	4	3,125,127,214
+G4 «Idha bhikkhu yasmiṃ samaye» = «यहाँ भिक्षु जिस समय»	8	5	24,30,32,34,41
+G4 «Idha bhikkhu yasmiṃ samaye» = «यहाँ भिक्षु जिस समय»	12	27	171,172,173,174,176,177,178,179,180,183,186,187,188,189,191,192,193,194,195,199,200,202,205,206,209,210,211
+G4 «Idha bhikkhu yasmiṃ samaye» = «यहाँ भिक्षु जिस समय»	13	32	63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,86,87,88,89,90,91,92,94,95,96
+H1 ch12/ch13 Pañhāpucchaka line (ch7 frames)	12	6	217,219,220,221,222,223
+H1 ch12/ch13 Pañhāpucchaka line (ch7 frames)	13	5	102,104,105,106,107
+S1 sentence sync (Pañhāpucchaka ch7-15, ch7 / majority form)	8	1	49
+S1 sentence sync (Pañhāpucchaka ch7-15, ch7 / majority form)	9	1	85
+S1 sentence sync (Pañhāpucchaka ch7-15, ch7 / majority form)	15	1	79
