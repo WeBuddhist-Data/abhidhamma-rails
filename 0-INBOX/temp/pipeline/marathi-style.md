@@ -86,6 +86,13 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
 - saṅkhāra as exertion (asaṅkhāra-, sasaṅkhāraparinibbāyī) = प्रयास, distinct from padhāna / vāyāma = प्रयत्न and uṭṭhāna = परिश्रम.
 - hiri / ottappa = लज्जा / वाईट कृत्याची भीती; sīla = सदाचार; diṭṭhi = दृष्टी.
 
+### pi-5 additions (pi-5 run, 2026-11-11; full list in AI_translation/marathi/pi-5-pali-marathi-termbase-plain.md)
+- niggaha = खंडन; Āmantā = हो; Na hevaṃ vattabbe = असे म्हणू नये; tena hi = तर मग; upalabbhati = आढळणे.
+- cavati = मृत्यू पावणे (not च्युत होणे; bilingual review); cuti = मृत्यू.
+- dhamma as righteousness (dhammena, dhammarājā) = न्याय, never धर्म.
+- nirodhasamāpatti = लोप पावण्याची ध्यान-प्राप्ती; niyāma = निश्चित मार्ग; parinipphanna = पूर्णपणे निर्माण झालेला; upādā (anupādā°) = धरून ठेवणे.
+- Citation brackets keep canon references in Pāli names in Devanagari with numbers: [पुग्गलपञ्ञत्ति मातिका 4.24; अंगुत्तर निकाय 4.95-96], [धम्मसंगणी तिकमातिका …].
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md

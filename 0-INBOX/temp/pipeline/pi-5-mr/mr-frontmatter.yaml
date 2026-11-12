@@ -1,0 +1,29 @@
+---
+title: चर्चेचे विषय - सोपी मराठी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Kathāvatthupāḷi
+root_text: 1-SOURCES/Text/pi-5.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-5_split_chapters
+source_text_id: HE6FGm4AAqwlDOTnCT0Yd
+source_edition_id: WjnE60LMIzQETFlXoh9Hd
+translation_of: HE6FGm4AAqwlDOTnCT0Yd
+language: Marathi
+lang_tag: mr
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/marathi/pi-5-pali-marathi-termbase-plain.md
+termbase_approved: 2026-11-11
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-5-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a sample at each step, remaining chapters run in parallel, then one cross-chapter alignment pass; independent bilingual review with fixes applied; no dashes unless the Pāli has one (user rule)"
+zeroshot_split: AI_translation/marathi/pi-5-marathi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/marathi/pi-5-keywords-by-reference-pali-marathi-plain.md
+senses: AI_translation/marathi/pi-5-pali-word-marathi-senses-plain.md
+segment_ids: "^T-1 … ^5-918 (1400 blocks, matching the source)"
+chapters: preamble + 31 sections (Puggalakathā … Tevīsatimavagga)
+split_chapters: AI_translation/marathi/pi-5-marathi-plain-rails_split_chapters
+generated: 2026-11-11
+status: draft
+---
