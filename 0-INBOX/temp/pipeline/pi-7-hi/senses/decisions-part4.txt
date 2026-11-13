@@ -1,0 +1,590 @@
+# pi-7 Hindi senses: decisions for agg-part4.tsv (578 headwords). Conventions: senses-conventions-pi7.md (+ pi-1, pi-6)
+# Family note (part 4): items of the negative method by phenomena (Na-X / na-X / nano-X) are tagged
+#   'not <base gloss>, the negated item <...> (<grammar>)'; double negatives 'not '<inner gloss>', the doubly negated item'.
+#   noX cluster items: 'not itself a X, the negative item of the X dyad (<grammar>)' (Hindi «X रूपी न होने वाला»).
+# --- parāmāsa cluster
+parāmāsasampayutto: {conjoined with wrong grasping (masculine sg.)}
+parāmāsavippayuttassa: {of what is dissociated from wrong grasping (genitive sg.)}
+parāmāsasampayuttassa: {of what is conjoined with wrong grasping (genitive sg.)}
+parāmaṭṭho: {misapprehended, wrongly grasped by views (masculine sg. participle)}
+parāmāsadukasadisaṃ: {like the wrong-grasping dyad, the same as in that dyad (neuter sg.)}
+# --- mahantara dyads
+anārammaṇo: {without an object, not taking any object (masculine sg.)}
+Anārammaṇaṃ: {without an object, not taking any object (neuter sg.)}
+anārammaṇañca: {and without an object, with enclitic -ñca (neuter sg.)}
+cittañca: {and the mind, with enclitic -ñca (nominative/accusative sg.)}
+cakkhuviññāṇasahagatā: {accompanied by eye-consciousness (feminine or pl.)}
+kāyaviññāṇasahagatā: {accompanied by body-consciousness (feminine or pl.)}
+cakkhuviññāṇañca: {and eye-consciousness, with enclitic -ñca (nominative/accusative sg.)}
+paṭhamagamanasadisaṃ: {like the first course, the same as the first round of answers (neuter sg.)}
+cittādhipati: {the mind as predominant factor, in 'cittādhipati sampayuttakānaṃ' (nominative)}
+cittassa: {of the mind (genitive sg.)}
+gamanā: {courses, rounds of answers, in 'dvepi gamanā' (nominative pl.)}
+purimaṃ: {preceding, the earlier one (neuter sg.)}
+pūretukāmena: {by one wishing to complete, in 'ime dve pūretukāmena kātabbā' (instrumental)}
+Cetasikaṃ: {a mental concomitant, a factor accompanying the mind (neuter sg.)}
+acetasiko: {not a mental concomitant, not belonging to the mind (masculine sg.)}
+Acetasikaṃ: {not a mental concomitant, not belonging to the mind (neuter sg.)}
+cetasiko: {a mental concomitant, a factor accompanying the mind (masculine sg.)}
+Cetasikañca: {and a mental concomitant, with enclitic -ñca (neuter sg.)}
+dvepi: {both, the two of them, with enclitic -pi (numeral)}
+pavattipaṭisandhiyā: {in the course of existence and at rebirth-linking (locative)}
+acetasikassa: {of what is not a mental concomitant (genitive sg.)}
+uppajanti: {they arise, come into being, variant spelling of uppajjanti (3rd pl. present)}
+cetasikassa: {of a mental concomitant (genitive sg.)}
+cittavippayutto: {dissociated from mind (masculine sg. participle)}
+Cittavippayuttaṃ: {dissociated from mind (neuter sg. participle)}
+cittavippayuttassa: {of what is dissociated from mind (genitive sg.)}
+Cittasaṃsaṭṭhaṃ: {intermixed with mind (neuter sg. participle)}
+nocittasamuṭṭhāno: {not originated by mind, not mind-produced (masculine sg.)}
+nocittasamuṭṭhānañca: {and not originated by mind, with enclitic -ñca (neuter sg.)}
+cittasamuṭṭhāno: {originated by mind, mind-produced (masculine sg.)}
+cakkhuviññāṇasahagate: {accompanied by eye-consciousness (accusative pl. or locative)}
+kāyaviññāṇasahagate: {accompanied by body-consciousness (accusative pl. or locative)}
+Nocittasamuṭṭhānaṃ: {not originated by mind, not mind-produced (neuter sg.)}
+cittasaṃsaṭṭhā: {intermixed with mind (nominative pl. participle)}
+nocittasamuṭṭhānassa: {of what is not originated by mind (genitive sg.)}
+cittasamuṭṭhānādhipati: {predominance originated by mind, a mind-produced predominant factor (nominative)}
+itare: {the others, the remaining ones (nominative pl.)}
+iminākāreneva: {in just this manner, with emphatic -eva (instrumental)}
+upekkhindriyañca: {and the controlling faculty of equanimity, with enclitic -ñca (nominative/accusative sg.)}
+cittasamuṭṭhānassa: {of what is originated by mind (genitive sg.)}
+Cittasahabhuṃ: {coexisting with mind, arising together with it (neuter sg.)}
+cittasahabhū: {coexisting with mind, arising together with it (masculine sg.)}
+nocittasahabhū: {not coexisting with mind, not arising together with it (masculine sg.)}
+Cittasahabhuñca: {and coexisting with mind, with enclitic -ñca (neuter sg.)}
+uddharitabbaṃ: {should be extracted, is to be taken out (gerundive)}
+Cittasamuṭṭhānadukasadisaṃ: {like the dyad of what is originated by mind, the same as in that dyad (neuter sg.)}
+pañhesu: {in the questions (locative pl.)}
+cittasamuṭṭhānaduke: {in the dyad of what is originated by mind, 60th dyad of the matrix (locative)}
+Paccayavārassa: {of the section on conditions, 'with X as condition' (genitive sg.)}
+nocittasahabhūnaṃ: {of what does not coexist with mind (genitive pl.)}
+cittasahabhūnañca: {and of what coexists with mind, with enclitic -ñca (genitive pl.)}
+nocittasahabhūnañca: {and of what does not coexist with mind, with enclitic -ñca (genitive pl.)}
+cittasamuṭṭhānadukasadisā: {like the dyad of what is originated by mind, the same as in that dyad (nominative pl.)}
+nocittasahabhussa: {of what does not coexist with mind (genitive sg.)}
+cittasahabhūnaṃ: {of what coexists with mind (genitive pl.)}
+cittasahabhussa: {of what coexists with mind (genitive sg.)}
+Cittānuparivattiṃ: {following along with mind (neuter sg.)}
+cittānuparivatti: {following along with mind (stem form)}
+Cittasaṃsaṭṭhasamuṭṭhānaṃ: {intermixed with and originated by mind (neuter sg.)}
+cittasaṃsaṭṭhasamuṭṭhāno: {intermixed with and originated by mind (masculine sg.)}
+nocittasaṃsaṭṭhasamuṭṭhāno: {not intermixed with and originated by mind (masculine sg.)}
+Cittasaṃsaṭṭhasamuṭṭhānañca: {and intermixed with and originated by mind, with enclitic -ñca (neuter sg.)}
+cittasaṃsaṭṭhasamuṭṭhāne: {intermixed with and originated by mind (accusative pl. or locative)}
+cittasahabhūduke: {in the dyad of what coexists with mind, 61st dyad of the matrix (locative)}
+ārammaṇaṃ: {object condition, named in the count notes (nominative sg.)}
+adhipatī: {kinds of predominance, the object and co-arising predominance in the notes (nominative pl.)}
+cittasahabhūdukasadisā: {like the dyad of what coexists with mind, the same as in that dyad (nominative pl.)}
+nocittasaṃsaṭṭhasamuṭṭhānassa: {of what is not intermixed with and originated by mind (genitive sg.)}
+cittasaṃsaṭṭhasamuṭṭhānassa: {of what is intermixed with and originated by mind (genitive sg.)}
+Cittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ: {intermixed with, originated by and following after mind (neuter sg.)}
+Ajjhattikaṃ: {internal, belonging to oneself (neuter sg.)}
+bāhiro: {external, outside oneself (masculine sg.)}
+ajjhattikañca: {and internal, with enclitic -ñca (neuter sg.)}
+bāhirañca: {and external, with enclitic -ñca (neuter sg.)}
+ajjhattiko: {internal, belonging to one's own person (masculine sg.)}
+pavesetvā: {having included, having brought in (absolutive)}
+bāhirānañca: {and of what is external, with enclitic -ñca (genitive pl.)}
+ajjhattikassa: {of what is internal, one's own (genitive sg.)}
+ajjhattikānañca: {and of what is internal, with enclitic -ñca (genitive pl.)}
+bāhiracittasamaṅgissa: {of one possessed of an external mind (genitive sg.)}
+bāhirassa: {of what is external (genitive sg.)}
+pacchājātasadisaṃ: {like the post-arising condition, as set out there (neuter sg.)}
+sabbaṭṭhāne: {in every place, everywhere in the answers (locative)}
+padā: {items, the terms of the answers (nominative pl.)}
+Upādā: {derived from the great elements, of matter (stem)}
+noupādā: {not derived from the great elements (stem)}
+noupādācittasamaṅgissa: {of one possessed of a mind not derived from the great elements (genitive sg.)}
+rasasampadaṃ: {excellence of taste, in the strong-support list (accusative sg.)}
+Upādinnaṃ: {kammically acquired, clung-to (neuter sg.)}
+anupādinno: {not kammically acquired, not clung-to (masculine sg.)}
+Anupādinnaṃ: {not kammically acquired, not clung-to (neuter sg.)}
+upādinne: {kammically acquired, clung-to (accusative pl. or locative)}
+Upādinnañca: {and kammically acquired, with enclitic -ñca (neuter sg.)}
+Upādinno: {kammically acquired, clung-to (masculine sg.)}
+anupādinnassa: {of what is not kammically acquired (genitive sg.)}
+upādinnassa: {of what is kammically acquired (genitive sg.)}
+ākāsānañcāyatanakusalaṃ: {the wholesome mind of the base of infinite space (neuter sg.)}
+Upādinnamūlake: {in the series starting from the clung-to item, in a count note (locative)}
+paṭhamasseva: {of the first only, with emphatic -eva (genitive sg.)}
+# --- upādāna cluster
+upādāno: {clinging, a phenomenon that is itself a clinging (masculine sg.)}
+diṭṭhupādānaṃ: {clinging to views, grasping at opinions (nominative sg.)}
+kāmupādānaṃ: {clinging to sensual pleasures (nominative sg.)}
+attavādupādānaṃ: {clinging to a doctrine of self (nominative sg.)}
+Upādānañca: {and clinging, with enclitic -ñca (nominative/accusative sg.)}
+noupādānañca: {and not itself a clinging, with enclitic -ñca (neuter sg.)}
+diṭṭhupādānañca: {and clinging to views, with enclitic -ñca (nominative/accusative sg.)}
+cakkā: {cycles, all rotations of the items, in 'sabbe cakkā kātabbā' (nominative pl.)}
+upādāne: {the clingings, as what the states depend on (accusative pl.)}
+noupādāno: {not itself a clinging, the negative item of the clinging dyad (masculine sg.)}
+upādānassa: {of clinging (genitive sg.)}
+ekoyeva: {only one, with emphatic -yeva (nominative sg.)}
+kāmupādānassa: {of clinging to sensual pleasures (genitive sg.)}
+Upādāniyaṃ: {subject to clinging, a possible object of clinging (neuter sg.)}
+upādānavippayutto: {dissociated from clinging (masculine sg.)}
+Upādānavippayuttaṃ: {dissociated from clinging (neuter sg.)}
+viññāṇā: {kinds of consciousness, the five sense consciousnesses (nominative pl.)}
+arūpaṃyeva: {only the immaterial, with emphatic -yeva (accusative sg.)}
+upādānavippayuttassa: {of what is dissociated from clinging (genitive sg.)}
+upādānavippayuttā: {dissociated from clinging (nominative pl. participle)}
+Upādānasampayutto: {conjoined with clinging (masculine sg.)}
+kammapaccaye: {in the kamma condition, the condition named in an editorial note (locative)}
+Upādānañceva: {itself a clinging, in 'both clinging and subject to clinging', with enclitic -ñceva (neuter sg.)}
+upādāniyo: {subject to clinging, a possible object of clinging (masculine sg.)}
+ninnānā: {without difference, identical, in an editorial note (adverb)}
+upādānadukasadisā: {like the clinging dyad, the same as in that dyad (nominative pl.)}
+ghaṭanādhipatipi: {predominance in the combinations, with enclitic -pi 'also' (nominative)}
+bhāgo: {part, a part of the book (nominative sg.)}
+# --- kilesa cluster
+Kilesaṃ: {a defilement, mental corruption (accusative sg.)}
+thinaṃ: {sloth, stiffness of mind (nominative/accusative sg.)}
+ahirikaṃ: {shamelessness, lack of moral shame (neuter sg.)}
+anottappaṃ: {absence of moral dread, not fearing wrongdoing (neuter sg.)}
+vicikicchaṃ: {doubt, sceptical wavering (accusative sg.)}
+nokileso: {not itself a defilement, the negative item of the defilement dyad (masculine sg.)}
+Nokilesaṃ: {not itself a defilement, the negative item of the defilement dyad (neuter sg.)}
+kileso: {a defilement, mental corruption (nominative sg.)}
+nokilesañca: {and not itself a defilement, with enclitic -ñca (neuter sg.)}
+vicikicchañca: {and doubt, sceptical wavering, with enclitic -ñca (accusative sg.)}
+nokilesā: {not themselves defilements, the negative item of the defilement dyad (nominative pl.)}
+kilesassa: {of a defilement (genitive sg.)}
+nokilesānaṃ: {of what are not themselves defilements (genitive pl.)}
+kilesānaṃ: {of the mental defilements (genitive pl.)}
+nokilesassa: {of what is not itself a defilement (genitive sg.)}
+thinassa: {of sloth, stiffness of mind (genitive sg.)}
+uddhaccassa: {of restlessness, agitation (genitive sg.)}
+ahirikassa: {of shamelessness, lack of moral shame (genitive sg.)}
+anottappassa: {of the absence of moral dread (genitive sg.)}
+Saṃkilesikaṃ: {subject to defilement, a possible object of defilement (neuter sg.)}
+Saṃkiliṭṭhaṃ: {defiled, stained by defilements (neuter sg. participle)}
+asaṃkiliṭṭho: {not defiled, unstained by the defilements (masculine sg.)}
+Saṃkiliṭṭhañca: {and defiled, with enclitic -ñca (neuter sg.)}
+asaṃkiliṭṭhañca: {and not defiled, with enclitic -ñca (neuter sg.)}
+Asaṃkiliṭṭhaṃ: {not defiled, unstained by the defilements (neuter sg.)}
+saṃkiliṭṭho: {defiled, stained by the defilements (masculine sg.)}
+asaṃkiliṭṭhassa: {of what is not defiled (genitive sg.)}
+uddhacca: {restlessness, agitation (compound member)}
+saṃkiliṭṭhacittasamaṅgissa: {of one possessed of a defiled mind (genitive sg.)}
+saṃkiliṭṭhassa: {of what is defiled (genitive sg.)}
+Kilesasampayuttaṃ: {joined with the defilements (neuter sg.)}
+saṃkilesiko: {subject to defilement, a possible object of defilement (masculine sg.)}
+kilesadukasadisaṃ: {like the defilement dyad, the same as in that dyad (neuter sg.)}
+kilesadukasadisā: {like the defilement dyad, the same as in that dyad (nominative pl.)}
+Kilesañceva: {itself a defilement, with enclitic -ñceva 'both' (accusative sg.)}
+Saṃkiliṭṭhañceva: {defiled, with enclitic -ñceva 'both' (neuter sg.)}
+kilesānañca: {and of the defilements, with enclitic -ñca (genitive pl.)}
+kilesasampayutto: {joined with the defilements (masculine sg.)}
+# --- piṭṭhiduka (dassana .. saraṇa)
+Nadassanena: {by seeing the truths with negated roots, in the -hetuka items 'without roots to be abandoned by seeing' (instrumental): सत्य-दर्शन … रहित / सत्य-दर्शन … से रहित; not by seeing the truths, in the dyad 'not to be abandoned by seeing' (instrumental): सत्य-दर्शन से न / सत्य-दर्शन … न}
+dassanadukaṃ: {the dyad 'to be abandoned by seeing', 83rd dyad of the matrix (nominative/accusative sg.)}
+uddharitabbo: {should be extracted, is to be taken out (gerundive)}
+pahātabbā: {to be abandoned, to be given up (nominative pl. participle)}
+vibhajitabbo: {should be analysed, set out separately (gerundive)}
+pahātabbahetukādhipati: {predominance having roots to be abandoned, a predominant factor of that item (nominative)}
+pahātabbahetukadukasadisā: {like the dyad of what has roots to be abandoned, the same as in that dyad (nominative pl.)}
+Anantarapaccaye: {in the proximity condition, the condition named in an editorial note (locative)}
+pahātabbabhājanakāraṇe: {owing to the division of what is to be abandoned, in an editorial note (locative)}
+Savitakkaṃ: {with initial application of mind (neuter sg.)}
+avitakko: {without initial application of mind (masculine sg.)}
+Avitakkaṃ: {without initial application of mind (neuter sg.)}
+savitakko: {with initial application of mind (masculine sg.)}
+paṭisandhiyāpi: {at rebirth-linking, with enclitic -pi 'also' (locative)}
+niyāmetabbā: {should be specified, is to be fixed (gerundive)}
+pañcaviññāṇā: {the five kinds of sense consciousness (nominative pl.)}
+avitakkā: {without initial application of mind (nominative pl.)}
+savitakkassa: {of what has initial application of mind (genitive sg.)}
+avitakkassa: {of what is without initial application of mind (genitive sg.)}
+parikammañca: {and the preliminary work before an attainment, with enclitic -ñca (nominative sg.)}
+likhitaṃ: {written, set down above, in 'heṭṭhā likhitaṃ lekhaṃ' (neuter sg. participle)}
+dutiyavāre: {in the second section, where the items are written out (locative)}
+nānākkhaṇikāpi: {asynchronous, of a different moment, the kamma subtype label, with enclitic -pi 'also' (nominative, label)}
+Savicāraṃ: {with sustained application of mind (neuter sg.)}
+Savicāraduke: {in the dyad 'with sustained application', 88th dyad of the matrix (locative)}
+Sappītikaṃ: {with rapture, accompanied by joyful interest (neuter sg.)}
+appītiko: {without rapture, lacking joyful interest (masculine sg.)}
+pīti: {rapture, joyful interest (nominative sg.)}
+pītiṃ: {rapture, joyful interest (accusative sg.)}
+sappītiko: {with rapture, accompanied by joyful interest (masculine sg.)}
+pītiñca: {and rapture, joyful interest, with enclitic -ñca (accusative sg.)}
+savitakkaduke: {in the dyad 'with initial application', 87th dyad of the matrix (locative)}
+anulomapaccayavāraṃ: {the section on conditions in the positive method (accusative sg.)}
+Appītikaṃ: {without rapture, lacking joyful interest (neuter sg.)}
+appītikassa: {of what is without rapture (genitive sg.)}
+pītiyā: {rapture, joyful interest (genitive sg.)}
+sappītikassa: {of what has rapture (genitive sg.)}
+sappītikādhipati: {predominance with rapture, a predominant factor accompanied by rapture (nominative)}
+pacchimāya: {succeeding, the later one (feminine sg.)}
+sappītikānaṃ: {of what has rapture (genitive pl.)}
+dutiyavārasadisaṃ: {like the second section, the same as there (neuter sg.)}
+sappītikadukasadisaṃ: {like the dyad 'with rapture', the same as in that dyad (neuter sg.)}
+āmasanaṃ: {mention, the wording of the items, in 'āmasanaṃ nānaṃ' (nominative sg.)}
+nasukhasahagato: {not accompanied by pleasure (masculine sg.)}
+sappītikadukassa: {of the dyad 'with rapture', 89th dyad of the matrix (genitive sg.)}
+anulomapaṭiccavāro: {the dependence section in the positive method (heading)}
+sukhañca: {and pleasure, happiness, with enclitic -ñca (accusative sg.)}
+sappītike: {in the item 'with rapture' (locative)}
+sabbatthameva: {everywhere, in every case, with emphatic -eva (adverb)}
+sappītikaduke: {in the dyad 'with rapture', 89th dyad of the matrix (locative)}
+nissayavāropi: {the support section, with enclitic -pi 'also' (nominative sg.)}
+sappītikadukasadisā: {like the dyad 'with rapture', the same as in that dyad (nominative pl.)}
+kusalākusalañca: {and wholesome or unwholesome, said of a mind, with enclitic -ñca (neuter sg.)}
+kammāni: {deeds, kammas (nominative pl.)}
+naupekkhāsahagato: {not accompanied by equanimity (masculine sg.)}
+upekkhā: {equanimity, neutral feeling (nominative sg.)}
+upekkhaṃ: {equanimity, neutral feeling (accusative sg.)}
+upekkhāsahagatā: {accompanied by equanimity (feminine or pl.)}
+vatthupi: {the physical base too, with enclitic -pi 'also' (nominative sg.)}
+savitakkadukassa: {of the dyad 'with initial application', 87th dyad of the matrix (genitive sg.)}
+upekkhāya: {equanimity, neutral feeling (genitive sg.)}
+upekkhāsahagatānaṃ: {of what is accompanied by equanimity (genitive pl.)}
+kāyaviññāṇadhātu: {the body-consciousness element (nominative sg.)}
+dutiyagamanasadisā: {like the second course, the same as the second round of answers (nominative pl.)}
+naupekkhāsahagatassa: {of what is not accompanied by equanimity (genitive sg.)}
+Kāmāvacaraṃ: {belonging to the sense sphere (neuter sg.)}
+nakāmāvacaro: {not belonging to the sense sphere (masculine sg.)}
+Nakāmāvacaraṃ: {not belonging to the sense sphere (neuter sg.)}
+kāmāvacaro: {belonging to the sense sphere (masculine sg.)}
+Kāmāvacarañca: {and belonging to the sense sphere, with enclitic -ñca (neuter sg.)}
+nakāmāvacarañca: {and not belonging to the sense sphere, with enclitic -ñca (neuter sg.)}
+nakāmāvacare: {not belonging to the sense sphere (accusative pl. or locative)}
+nakāmāvacarādhipati: {predominance not belonging to the sense sphere, a predominant factor of the higher spheres (nominative)}
+pākatikā: {as usual, in their ordinary form, in 'itare dve pākatikā' (nominative pl.)}
+arūpamissake: {in the immaterial-mixed item, the case mixed with immaterial states (locative)}
+nakāmāvacarassa: {of what does not belong to the sense sphere (genitive sg.)}
+paṭhamaṃ: {the first, in 'paṭhamaṃ jhānaṃ' (ordinal, neuter sg.)}
+tatiyaṃ: {the third, in 'tatiyaṃ jhānaṃ' (ordinal, neuter sg.)}
+catutthaṃ: {the fourth, in 'catutthaṃ jhānaṃ' (ordinal, neuter sg.)}
+atthapaṭisambhidāya: {for analytical knowledge of meaning, first of the four analytical knowledges (dative-genitive)}
+Rūpāvacaraṃ: {belonging to the fine-material sphere (neuter sg.)}
+narūpāvacaro: {not belonging to the fine-material sphere (masculine sg.)}
+Narūpāvacaraṃ: {not belonging to the fine-material sphere (neuter sg.)}
+rūpāvacaro: {belonging to the fine-material sphere (masculine sg.)}
+Rūpāvacarañca: {and belonging to the fine-material sphere, with enclitic -ñca (neuter sg.)}
+nti: {thus, the quotative -ti after a quoted word (particle)}
+narūpāvacarassa: {of what does not belong to the fine-material sphere (genitive sg.)}
+Arūpāvacaraṃ: {belonging to the immaterial sphere (neuter sg.)}
+naarūpāvacaro: {not belonging to the immaterial sphere (masculine sg.)}
+Naarūpāvacaraṃ: {not belonging to the immaterial sphere (neuter sg.)}
+arūpāvacare: {belonging to the immaterial sphere (accusative pl. or locative)}
+arūpāvacaro: {belonging to the immaterial sphere (masculine sg.)}
+naarūpāvacarassa: {of what does not belong to the immaterial sphere (genitive sg.)}
+Pariyāpannaṃ: {included in the spheres of existence (neuter sg.)}
+Niyyānikaṃ: {leading out to liberation, emancipating (neuter sg.)}
+aniyyāniko: {not leading out to liberation (masculine sg.)}
+Niyyānikañca: {and leading out to liberation, with enclitic -ñca (neuter sg.)}
+Aniyyānikaṃ: {not leading out to liberation (neuter sg.)}
+niyyānikādhipati: {predominance leading out to liberation, a liberating predominant factor (nominative)}
+niyyāniko: {leading out to liberation (masculine sg.)}
+aniyyānikassa: {of what does not lead out to liberation (genitive sg.)}
+niyyānikassa: {of what leads out to liberation (genitive sg.)}
+arūpadukasadisā: {like the immaterial-sphere dyad, the same as in that dyad (nominative pl.)}
+āmasanā: {mention, the wording of the items only (nominative)}
+niyato: {fixed in its destiny, certain (masculine sg.)}
+Pañcapi: {all five, with enclitic -pi (numeral)}
+niyatassa: {of what is fixed in its destiny (genitive sg.)}
+arūpadukasadisaṃ: {like the immaterial-sphere dyad, the same as in that dyad (neuter sg.)}
+arūpāvacaradukasadisaṃ: {like the dyad 'belonging to the immaterial sphere', the same as in that dyad (neuter sg.)}
+Sauttaraṃ: {surpassable, having something higher (neuter sg.)}
+Saraṇaṃ: {involving conflict, accompanied by strife (neuter sg. adjective)}
+arūpāvacaradukasadisā: {like the dyad 'belonging to the immaterial sphere', the same as in that dyad (nominative pl.)}
+Araṇaṃ: {free of conflict, without strife (neuter sg. adjective)}
+arūpāvacaradukassa: {of the dyad 'belonging to the immaterial sphere', 95th dyad of the matrix (genitive sg.)}
+Saraṇo: {involving conflict, accompanied by strife (masculine sg.)}
+araṇassa: {of what is free of conflict (genitive sg.)}
+Araṇo: {free from conflict, without strife (masculine sg.)}
+saraṇassa: {of what involves conflict (genitive sg.)}
+saraṇādhipati: {predominance involving conflict, a predominant factor with strife (nominative)}
+# --- methods, counts, notes
+anuloma: {positive, the first member of a detached 'anuloma paccanīyaṃ' (compound member)}
+anulomampi: {the positive method, counting with the conditions present, with enclitic -pi 'also' (nominative sg.)}
+anulomapaccanīyampi: {the positive-negative method, present then absent, with enclitic -pi 'also' (nominative sg.)}
+sampayuttañca: {and conjoined, with enclitic -ñca (neuter sg.)}
+asekkhañca: {and belonging to the one beyond training, with enclitic -ñca (neuter sg.)}
+gaṇitaṃ: {counted, reckoned (neuter sg. participle)}
+hīno: {inferior, low (masculine sg.)}
+paṇīto: {superior, refined (masculine sg.)}
+Imamhi: {in this, in 'imamhi dukatike' (locative pronoun)}
+Hetuvippayuttaṃ: {dissociated from the roots (neuter sg.)}
+Sahajātavārepi: {in the co-arising section, with enclitic -pi 'also' (locative)}
+Rūpiṃ: {material, having material form (neuter sg.)}
+Noāsavaṃ: {not itself a taint, the negative item of the taint dyad (neuter sg.)}
+Anāsavo: {not an object of the taints, free of them (masculine sg.)}
+sāsavassa: {of what is subject to the taints, a possible object of the taints (genitive sg.)}
+Nosaññojanaṃ: {not itself a fetter, the negative item of the fetter dyad (neuter sg.)}
+lokiyalokuttaragamanasadisaṃ: {like the course of the mundane and supramundane, the same as in that dyad (neuter sg.)}
+aganthaniyo: {not subject to the ties, never their object (masculine sg.)}
+Cittadukakusalasadisaṃ: {like the wholesome item of the mind dyad (neuter sg.)}
+ādimhi: {at the beginning, in the first ones (locative)}
+cetasikadukamūlā: {based on the mental-concomitant dyad, its courses (nominative pl.)}
+cittānuparivattī: {following along with mind (masculine sg.)}
+mahantaraduke: {in the greater intermediate dyads of the matrix (locative)}
+Cittasaṃsaṭṭhasamuṭṭhānadukaabyākatasadisaṃ: {like the indeterminate item of the dyad intermixed with and originated by mind (neuter sg.)}
+cittasaṃsaṭṭhasamuṭṭhānānuparivattī: {intermixed with, originated by and following after mind (masculine sg.)}
+Lokiyadukaabyākatasadisaṃ: {like the indeterminate item of the mundane dyad (neuter sg.)}
+upādānavippayutte: {dissociated from clinging (accusative pl. or locative)}
+upādānadukaakusalasadisaṃ: {like the unwholesome item of the clinging dyad (neuter sg.)}
+Lokiyadukakusalasadisaṃ: {like the wholesome item of the mundane dyad (neuter sg.)}
+Asaṃkilesikaṃ: {not subject to defilement, not an object of defilement (neuter sg.)}
+Kilesavippayuttaṃ: {dissociated from the defilements (neuter sg.)}
+kilesadukaakusalasadisaṃ: {like the unwholesome item of the defilement dyad (neuter sg.)}
+dassane: {in the item 'to be abandoned by seeing' (locative)}
+nadassane: {in the item 'not to be abandoned by seeing' (locative)}
+dhamma: {phenomenon, state, written without its ending for dhammaṃ (stem)}
+avitakke: {without initial application of mind (accusative pl. or locative)}
+pañhāvāraṃ: {the question section, where the conditions are applied to each question (accusative sg.)}
+Avicāraṃ: {without sustained application of mind (neuter sg.)}
+Savicāro: {with sustained application of mind (masculine sg.)}
+pañhāvāre: {in the question section (locative)}
+upekkhāti: {equanimity, with quotative -ti (nominative sg.)}
+abyākate: {neither wholesome nor unwholesome, the indeterminate (locative)}
+narūpāvacare: {not belonging to the fine-material sphere (accusative pl. or locative)}
+kāmāvacaradukaabyākatasadisaṃ: {like the indeterminate item of the sense-sphere dyad (neuter sg.)}
+naarūpāvacare: {not belonging to the immaterial sphere (accusative pl. or locative)}
+Apariyāpannaṃ: {not included in the spheres of existence, of supramundane phenomena (neuter sg.)}
+Anuttaraṃ: {unsurpassable, having nothing higher (neuter sg.)}
+nahetuñca: {and not a root, the negated item 'na hetu', with enclitic -ñca (neuter sg.)}
+nahetu: {not a root, the negated item 'na hetu' (masculine sg.)}
+saṅkhato: {conditioned, made by conditions (masculine sg.)}
+sappaccayadukasadisaṃ: {like the dyad 'having conditions', the same as in that dyad (neuter sg.)}
+asaṃkilesiko: {not subject to defilement, not an object of defilement (masculine sg.)}
+kilesavippayutto: {dissociated from the defilements (masculine sg.)}
+nasukhasahagataṃ: {not accompanied by pleasure (neuter sg.)}
+pariyāpanno: {included in the spheres of existence (masculine sg. participle)}
+apariyāpanno: {not included in the spheres of existence, supramundane (masculine sg. participle)}
+niyataṃ: {fixed in destiny, certain of its result (neuter sg.)}
+sauttaro: {surpassable, having something higher, not supreme (masculine sg.)}
+anuttaro: {unsurpassable, having nothing higher (masculine sg.)}
+saraṇañca: {and involving conflict, with enclitic -ñca (neuter sg.)}
+vitthāro: {detailed treatment, full exposition (nominative sg.)}
+Kusalattikasanidassanattikaṃ: {the wholesome triad combined with the visible-and-impinging triad (heading)}
+lokuttarañca: {and supramundane, beyond the world, with enclitic -ñca (neuter sg.)}
+cittavisaṃsaṭṭhaṃ: {not intermixed with mind (neuter sg. participle)}
+# --- negative method by phenomena: negated items
+nocittasahabhuṃ: {not coexisting with mind, not arising together with it (neuter sg.)}
+nocittānuparivattī: {not following along with mind (masculine sg.)}
+nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ: {not intermixed with, originated by and coexisting with mind (neuter sg.)}
+nocittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ: {not intermixed with, originated by and following after mind (neuter sg.)}
+Nakusalaṃ: {not wholesome, the negated item 'na kusala' (neuter sg.)}
+naakusalo: {not unwholesome, the negated item 'na akusala' (masculine sg.)}
+naabyākato: {not indeterminate, the negated item 'na abyākata' (masculine sg.)}
+Naakusalaṃ: {not unwholesome, the negated item 'na akusala' (neuter sg.)}
+nakusalo: {not wholesome, the negated item 'na kusala' (masculine sg.)}
+naabyākatañca: {and not indeterminate, the negated item, with enclitic -ñca (neuter sg.)}
+naakusalassa: {of what is not unwholesome, the negated item (genitive sg.)}
+chattiṃsa: {the number thirty-six (numeral)}
+aṭṭhārasa: {the number eighteen (numeral)}
+Nasukhāya: {not associated with pleasant feeling, the negated feeling item (feminine dative sg.)}
+nadukkhāya: {not associated with painful feeling, the negated feeling item (feminine dative sg.)}
+Navipākadhammadhammaṃ: {not producing results, the negated item 'na vipākadhammadhamma' (neuter sg.)}
+Nanevavipākanavipākadhammadhammaṃ: {not 'neither resultant nor productive of results', the negated item (neuter sg.)}
+Naupādinnupādāniyaṃ: {not 'clung-to and subject to clinging', the negated item (neuter sg.)}
+Nasaṃkiliṭṭhasaṃkilesikaṃ: {not 'defiled and subject to defilement', the negated item (neuter sg.)}
+Naasaṃkiliṭṭhasaṃkilesikaṃ: {not 'undefiled yet subject to defilement', the negated item (neuter sg.)}
+Naasaṃkiliṭṭhaasaṃkilesikaṃ: {not 'neither defiled nor subject to defilement', the negated item (neuter sg.)}
+Naavitakkaavicāraṃ: {not 'without both initial and sustained application', the negated item (neuter sg.)}
+Napītisahagataṃ: {not accompanied by rapture, the negated item (neuter sg.)}
+naupekkhāsahagataṃ: {not accompanied by equanimity, the negated item (neuter sg.)}
+Naparittārammaṇaṃ: {not having a limited object, the negated item (neuter sg.)}
+namahaggatārammaṇaṃ: {not having an exalted object, the negated item (neuter sg.)}
+naappamāṇārammaṇaṃ: {not having a measureless object, the negated item (neuter sg.)}
+Nahīnaṃ: {not inferior, the negated item 'na hīna' (neuter sg.)}
+namajjhimaṃ: {not middling, the negated item 'na majjhima' (neuter sg.)}
+napaṇītaṃ: {not superior, the negated item 'na paṇīta' (neuter sg.)}
+Namicchattaniyataṃ: {not fixed in the wrong direction, the negated item (neuter sg.)}
+Namaggārammaṇaṃ: {not having the path as object, the negated item (neuter sg.)}
+namaggahetukaṃ: {not having the path as root, the negated item (neuter sg.)}
+Naanuppannaṃ: {not unarisen, the negated item 'na anuppanna' (neuter sg.)}
+Naanuppannañca: {and not unarisen, the negated item, with enclitic -ñca (neuter sg.)}
+Naatītārammaṇaṃ: {not having a past object, the negated item (neuter sg.)}
+naanāgatārammaṇaṃ: {not having a future object, the negated item (neuter sg.)}
+napaccuppannārammaṇaṃ: {not having a present object, the negated item (neuter sg.)}
+Naajjhattārammaṇaṃ: {not having an internal object, the negated item (neuter sg.)}
+nabahiddhārammaṇo: {not having an external object, the negated item (masculine sg.)}
+Nasanidassanasappaṭighaṃ: {not visible and impinging, the negated item (neuter sg.)}
+naanidassanasappaṭigho: {not invisible yet impinging, the negated item (masculine sg.)}
+naanidassanaappaṭigho: {not invisible and non-impinging, the negated item (masculine sg.)}
+Naanidassanasappaṭighaṃ: {not invisible yet impinging, the negated item (neuter sg.)}
+nasanidassanasappaṭigho: {not visible and impinging, the negated item (masculine sg.)}
+Naanidassanaappaṭighaṃ: {not invisible and non-impinging, the negated item (neuter sg.)}
+sahetukā: {having roots, accompanied by root conditions (nominative pl.)}
+nahetuvippayutto: {not dissociated from the roots, the negated item (masculine sg.)}
+Naasaṅkhataṃ: {not unconditioned, the negated item 'na asaṅkhata' (neuter sg.)}
+naanidassano: {not invisible, the negated item 'na anidassana' (masculine sg.)}
+Nasappaṭighañca: {and not impinging, the negated item, with enclitic -ñca (neuter sg.)}
+Narūpiṃ: {not material, the negated item 'na rūpī' (neuter sg.)}
+Naarūpiṃ: {not immaterial, the negated item 'na arūpī' (neuter sg.)}
+Narūpiñca: {and not material, the negated item, with enclitic -ñca (neuter sg.)}
+nalokuttaro: {not supramundane, the negated item 'na lokuttara' (masculine sg.)}
+nanoāsavo: {not 'not a taint', the doubly negated item 'na noāsava' (masculine sg.)}
+nanoāsavañca: {and not 'not a taint', the doubly negated item, with enclitic -ñca (neuter sg.)}
+naanāsavo: {not free of the taints, the negated item 'na anāsava' (masculine sg.)}
+Nasāsavañca: {and not subject to the taints, the negated item, with enclitic -ñca (neuter sg.)}
+naanāsavañca: {and not free of the taints, the negated item, with enclitic -ñca (neuter sg.)}
+naāsavo: {not a taint, the negated item 'na āsava' (masculine sg.)}
+nanosaññojanañca: {and not 'not a fetter', the doubly negated item, with enclitic -ñca (neuter sg.)}
+Nasaññojanañceva: {not a fetter, the negated item, with enclitic -ñceva 'both' (neuter sg.)}
+nanoganthañca: {and not 'not a tie', the doubly negated item, with enclitic -ñca (neuter sg.)}
+naaganthaniyo: {not 'not subject to the ties', the negated item 'na aganthaniya' (masculine sg.)}
+naaganthaniyañca: {and not 'not subject to the ties', the negated item, with enclitic -ñca (neuter sg.)}
+Nooghaṃ: {not itself a flood, the negative item of the flood dyad (neuter sg.)}
+noyogaṃ: {not itself a bond, the negative item of the bond dyad (neuter sg.)}
+āsavagocchake: {in the taint cluster, the group of taint dyads (locative)}
+Nīvaraṇagocchake: {in the hindrance cluster, the group of hindrance dyads (locative)}
+naaparāmaṭṭhañca: {and not 'not misapprehended', the negated item, with enclitic -ñca (neuter sg.)}
+naaparāmaṭṭho: {not 'not misapprehended', the negated item 'na aparāmaṭṭha' (masculine sg.)}
+Nasārammaṇañca: {and not having an object, the negated item, with enclitic -ñca (neuter sg.)}
+Nacetasikaṃ: {not a mental concomitant, the negated item 'na cetasika' (neuter sg.)}
+cittasampayuttakā: {associated with the mind, conjoined with consciousness (nominative pl.)}
+Paccanīyadukamattāni: {just the negative-method dyads, in an editorial note (nominative pl.)}
+vattabbaṃ: {can be called, to be described, in 'na vattabbaṃ' (neuter sg. participle)}
+pañhāni: {questions, the neuter plural of pañha (nominative pl.)}
+Nacittasaṃsaṭṭhaṃ: {not intermixed with mind, the negated item (neuter sg.)}
+Nacittānuparivattiṃ: {not following along with mind, the negated item (neuter sg.)}
+Nacittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ: {not intermixed with, originated by and following after mind, the negated item (neuter sg.)}
+Naajjhattikaṃ: {not internal, the negated item 'na ajjhattika' (neuter sg.)}
+nanoupādā: {not 'not derived from the great elements', the doubly negated item (stem)}
+Nasaṃkilesikañca: {and not subject to defilement, the negated item, with enclitic -ñca (neuter sg.)}
+Nakilesavippayuttaṃ: {not dissociated from the defilements, the negated item (neuter sg.)}
+nakilesavippayuttañca: {and not dissociated from the defilements, the negated item, with enclitic -ñca (neuter sg.)}
+Naapariyāpannaṃ: {not 'not included in the spheres of existence', the negated item (neuter sg.)}
+Naniyyānikaṃ: {not leading out to liberation, the negated item (neuter sg.)}
+Nasauttaraṃ: {not surpassable, the negated item 'na sauttara' (neuter sg.)}
+Naanuttaraṃ: {not unsurpassable, the negated item 'na anuttara' (neuter sg.)}
+Nasaraṇaṃ: {not involving conflict, the negated item 'na saraṇa' (neuter sg.)}
+nakusalañca: {and not wholesome, the negated item, with enclitic -ñca (neuter sg.)}
+nabahiddhārammaṇaṃ: {not having an external object, the negated item (neuter sg.)}
+Ekapañhameva: {a single question only, with emphatic -eva (accusative sg.)}
+nalokuttaraṃ: {not supramundane, the negated item 'na lokuttara' (neuter sg.)}
+nanakenaci: {not 'not knowable by some kind of consciousness', the doubly negated item (instrumental pronoun)}
+naanāsavaṃ: {not free of the taints, the negated item 'na anāsava' (neuter sg.)}
+naanāsavañceva: {not free of the taints, the negated item, with enclitic -ñceva 'both' (neuter sg.)}
+naāsavavippayuttañceva: {not dissociated from the taints, the negated item, with enclitic -ñceva 'both' (neuter sg.)}
+nanosaññojanaṃ: {not 'not a fetter', the doubly negated item 'na nosaññojana' (neuter sg.)}
+Nocittānuparivattiṃ: {not following along with mind (neuter sg.)}
+nanokilesaṃ: {not 'not a defilement', the doubly negated item 'na nokilesa' (neuter sg.)}
+Nakilesañceva: {not a defilement, the negated item, with enclitic -ñceva 'both' (neuter sg.)}
+nahetuvippayuttaṃ: {not dissociated from the roots, the negated item (neuter sg.)}
+nahetuvippayuttañca: {and not dissociated from the roots, the negated item, with enclitic -ñca (neuter sg.)}
+naaraṇaṃ: {not free of conflict, the negated item 'na araṇa' (neuter sg.)}
+naaraṇo: {not free of conflict, the negated item 'na araṇa' (masculine sg.)}
+navipākañca: {and not resultant, the negated item, with enclitic -ñca (neuter sg.)}
+ekūnapaññāsa: {the number forty-nine (numeral)}
+aṭṭhacattālīsa: {the number forty-eight (numeral)}
+naanupādinnaṃ: {not 'not clung-to', the negated item 'na anupādinna' (neuter sg.)}
+noupādānaṃ: {not itself a clinging, the negative item of the clinging dyad (neuter sg.)}
+Cittasamuṭṭhānarūpameva: {only mind-originated matter, with emphatic -eva (nominative sg.)}
+ekūnavīsati: {the number nineteen (numeral)}
+ekūnavīsa: {the number nineteen, short form of ekūnavīsati (numeral)}
+chabbīsa: {the number twenty-six (numeral)}
+nakusalassa: {of what is not wholesome, the negated item (genitive sg.)}
+navipākadhammadhammo: {not producing results, the negated item 'na vipākadhammadhamma' (masculine sg.)}
+nanevavipākanavipākadhammadhammo: {not 'neither resultant nor productive of results', the negated item (masculine sg.)}
+nanevavipākanavipākadhammadhammassa: {of what is not 'neither resultant nor productive of results', the negated item (genitive sg.)}
+nasaṃkiliṭṭhasaṃkilesiko: {not 'defiled and subject to defilement', the negated item (masculine sg.)}
+naasaṃkiliṭṭhasaṃkilesiko: {not 'undefiled yet subject to defilement', the negated item (masculine sg.)}
+namahaggato: {not exalted, the negated item 'na mahaggata' (masculine sg.)}
+napaccuppannārammaṇo: {not having a present object, the negated item (masculine sg.)}
+nasanidassanasappaṭighassa: {of what is not visible and impinging, the negated item (genitive sg.)}
+naanidassanasappaṭighassa: {of what is not invisible yet impinging, the negated item (genitive sg.)}
+sahetukañca: {and having roots, with enclitic -ñca (neuter sg.)}
+sappaccayasadisaṃ: {like the conditioned, said of the item 'saṅkhata' (neuter sg.)}
+nasappaṭigho: {not impinging, the negated item 'na sappaṭigha' (masculine sg.)}
+noāsavañca: {and not itself a taint, with enclitic -ñca (neuter sg.)}
+āsavasampayuttañca: {and joined with the taints, with enclitic -ñca (neuter sg.)}
+noogho: {not itself a flood, the negative item of the flood dyad (masculine sg.)}
+noyogo: {not itself a bond, the negative item of the bond dyad (masculine sg.)}
+naajjhattiko: {not internal, the negated item 'na ajjhattika' (masculine sg.)}
+nabāhiro: {not external, the negated item 'na bāhira' (masculine sg.)}
+naanupādinno: {not 'not clung-to', the negated item 'na anupādinna' (masculine sg.)}
+apariyāpannañca: {and not included in the spheres of existence, with enclitic -ñca (neuter sg.)}
+naanuttaro: {not unsurpassable, the negated item 'na anuttara' (masculine sg.)}
+nanaaraṇo: {not 'not free of conflict', the doubly negated item 'na naaraṇa' (masculine sg.)}
+nanevasekkhanāsekkho: {not 'neither in training nor beyond training', the negated item (masculine sg.)}
+naaniyato: {not unfixed, the negated item 'na aniyata' (masculine sg.)}
+maggādhipatiṃ: {having the path as predominant factor, item of the path-object triad (neuter sg.)}
+naanuppannassa: {of what is not unarisen, the negated item (genitive sg.)}
+nasāsavo: {not subject to the taints, the negated item 'na sāsava' (masculine sg.)}
+Āsavaāsavasampayuttadukaṃ: {the dyad 'both a taint and joined with taints', 18th dyad of the matrix (heading)}
+Abyākatamūlaṃ: {the series starting from the indeterminate item, in the count notes (nominative sg.)}
+paccayavasena: {by way of the conditions, according to the conditions (instrumental)}
+Abyākatamūle: {in the series starting from the indeterminate item, in the count notes (locative)}
+naappaccayassa: {of what is not unconditioned, the negated item 'na appaccaya' (genitive sg.)}
+Asaṅkhataṃ: {unconditioned, not made by conditions (neuter sg.)}
+Akusalena: {by the unwholesome, the triad item in a combination (instrumental)}
+Abyākatena: {by the indeterminate, the triad item in a combination (instrumental)}
+sārammaṇaṃ: {having an object, taking an object (neuter sg.)}
+Abyākatāni: {neither wholesome nor unwholesome, the indeterminate ones (neuter nominative pl.)}
+Acetasikāni: {not mental concomitants, not belonging to the mind (neuter nominative pl.)}
+Cittavippayutte: {dissociated from mind (accusative pl. or locative)}
+Ete: {these, in 'ete saṃkhittā' (nominative pl. pronoun)}
+namajjhimo: {not middling, the negated item 'na majjhima' (masculine sg.)}
+atītasadisaṃ: {like the past, said of the future item (neuter sg.)}
+nocittasaṃsaṭṭhasamuṭṭhānasahabhū: {not intermixed with, originated by and coexisting with mind (masculine sg.)}
+naasaṅkhatassa: {of what is not unconditioned, the negated item 'na asaṅkhata' (genitive sg.)}
+nasauttaro: {not surpassable, the negated item 'na sauttara' (masculine sg.)}
+Naabyākataṃ: {not indeterminate, the negated item 'na abyākata' (neuter sg.)}
+chabbīsati: {the number twenty-six, long form of chabbīsa (numeral)}
+dvāvīsa: {the number twenty-two (numeral)}
+Naanuppanno: {not unarisen, the negated item 'na anuppanna' (masculine sg.)}
+Nasappaṭighaṃ: {not impinging, the negated item 'na sappaṭigha' (neuter sg.)}
+Nalokiyaṃ: {not mundane, the negated item 'na lokiya' (neuter sg.)}
+Nalokiyañca: {and not mundane, the negated item, with enclitic -ñca (neuter sg.)}
+Nanoāsavaṃ: {not 'not a taint', the doubly negated item 'na noāsava' (neuter sg.)}
+ogho: {flood, torrent of defilement (nominative sg.)}
+yogo: {yoke, bond binding to existence (nominative sg.)}
+citto: {mind, the item of the mind dyad (masculine sg.)}
+cittasaṃsaṭṭho: {intermixed with mind (masculine sg. participle)}
+Nabāhiraṃ: {not external, the negated item 'na bāhira' (neuter sg.)}
+Naajjhattikañca: {and not internal, the negated item, with enclitic -ñca (neuter sg.)}
+Nasauttarañca: {and not surpassable, the negated item, with enclitic -ñca (neuter sg.)}
+Naabyākate: {not indeterminate, the negated item (accusative pl. or locative)}
+nanevasekkhanāsekkhaṃ: {not 'neither in training nor beyond training', the negated item (neuter sg.)}
+nasammattaniyataṃ: {not fixed in the right direction, the negated item (neuter sg.)}
+Ajjhattattiko: {the internal triad, twentieth triad of the matrix (heading)}
+hetuhetusampayuttaduke: {in the dyad 'both a root and joined with roots', 5th dyad of the matrix (locative)}
+purimanayena: {by the former method, as above (instrumental)}
+Āsavaāsavasampayuttaduke: {in the dyad 'both a taint and joined with taints', 18th dyad of the matrix (locative)}
+nocittasaṃsaṭṭhasamuṭṭhānānuparivattī: {not intermixed with, originated by and following after mind (masculine sg.)}
+avicāro: {without sustained application of mind (masculine sg.)}
+sappaccayassa: {of what has conditions, dependent on causes (genitive sg.)}
+nasāsavaṃ: {not subject to the taints, the negated item 'na sāsava' (neuter sg.)}
+naaraṇañca: {and not free of conflict, the negated item, with enclitic -ñca (neuter sg.)}
+ovattā: {reversed, interchanged, in 'nahetu nanahetu ovattā' (nominative pl. participle)}
+cittavisaṃsaṭṭho: {not intermixed with mind (masculine sg. participle)}
+Nasaraṇo: {not involving conflict, the negated item 'na saraṇa' (masculine sg.)}
+sauttarassa: {of what is surpassable (genitive sg.)}
+Anulomadukatikapaṭṭhānato: {from the Conditional Relations of dyads and triads in the positive method (ablative, heading)}
+Navipākaṃ: {absence of the result condition, bare negative stem in an editorial note on the counts (stem)}
+namaggaṃ: {absence of the path condition, bare negative stem in an editorial note on the counts (stem)}
+navippayuttaṃ: {absence of the dissociation condition, bare negative stem in an editorial note on the counts (stem)}
+Avasesāni: {the remaining, the rest (neuter nominative pl.)}
+ekasadisāni: {alike, all the same (neuter nominative pl.)}
+Naaññamaññamūlakaṃ: {the series starting from absence of the mutuality condition (heading)}
+Nanissayamūlakaṃ: {the series starting from absence of the support condition (heading)}
+mūlakaṃ: {series, the counts starting from a given condition (nominative sg.)}
+naārammaṇa: {without the object condition, bare negative stem in a chain of negatives (stem)}
+nanissaya: {without the support condition, bare negative stem in a chain of negatives (stem)}
+naupanissaya: {without the strong-support condition, bare negative stem in a chain of negatives (stem)}
+napurejāta: {without the pre-arising condition, bare negative stem in a chain of negatives (stem)}
+naāsevana: {without the repetition condition, bare negative stem in a chain of negatives (stem)}
+nasampayutta: {without the association condition, bare negative stem in a chain of negatives (stem)}
+navippayutta: {without the dissociation condition, bare negative stem in a chain of negatives (stem)}
+sajjhāyamaggo: {the order of recitation, the recited sequence (nominative sg.)}
+upādinnattike: {in the clung-to triad, fourth triad of the matrix (locative)}
+gambhīrā: {deep, profound, said of the count (feminine sg.)}
+sukhumatarā: {subtler, more refined, said of the count (feminine sg.)}
+Mahābhūtesu: {the great elements, in 'mahābhūtesu niṭṭhitesu' (locative pl.)}
+niṭṭhitesu: {finished, once completed, in 'mahābhūtesu niṭṭhitesu' (locative pl. participle)}
+paripuṇṇo: {complete, in full, said of a section (masculine sg.)}
+dassetabbāni: {should be shown, are to be set out (gerundive)}
+kāmupādāna: {clinging to sensual pleasures, before quotative -nti (stem)}
+upādānadukaṃ: {the clinging dyad, 69th dyad of the matrix (nominative/accusative sg.)}
+paṭiccavāropi: {the dependence section, with enclitic -pi 'also' (nominative sg.)}
+nānākaraṇaṃ: {distinction, a difference (nominative sg.)}
+vicikicchāsahagatamohaṭṭhāne: {in the place of delusion accompanied by doubt (locative)}
+# --- homage line
+Namo: {homage, reverence (nominative sg.)}
+bhagavato: {of the Blessed One, the Lord (genitive sg.)}
+sammāsambuddhassa: {of the perfectly self-awakened Buddha (genitive sg.)}

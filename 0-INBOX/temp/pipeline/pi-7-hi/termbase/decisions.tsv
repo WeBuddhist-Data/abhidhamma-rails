@@ -1,0 +1,275 @@
+# pi-7 (Paṭṭhāna) Pāli→Hindi plain termbase: decisions for lines 1-2315 (113 multi-candidate senses, then family re-alignments)
+Natthi|1	नहीं होना	pi-5 natthi 'there is not' = नहीं होना (rule 1b, same meaning); dictionary form of नहीं / नहीं है
+Sahajāta|1	सह-उत्पत्ति	harmonise-notes: labels सह-उत्पत्ति (no «रूपी»); terms file Sahajātavāro = सह-उत्पत्ति का खंड; 21 vs 1
+saṃsaṭṭha|0	घुला-मिला	pi-1/pi-2/pi-3 saṃsaṭṭha (compound member) = घुला-मिला (rule 1b); most used (14)
+katvā|1	पालन करके	terms file «uposathakammaṃ katvā = उपवास-व्रत का पालन करके» (rule a); family karoti 'observes' = पालन करना; 26 vs 11
+kusalākusalaṃ|0	हितकर और हानिकर	most used (26 vs 10); same as kusalākusale
+sampayuttakānaṃ|0	जुड़ा हुआ	terms file «जुड़ी हुई परिघटनाओं / जुड़े हुए समूहों के लिए» (rule a); 376 vs 7
+vitthāretabbo|0	विस्तार करना चाहिए	terms file vitthāretabba = विस्तार करना चाहिए (rule a); family vitthāretabbaṃ / -ā / -āni
+vipākābyākataṃ|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	terms file vipākābyākata [pi-1] (rule a); ungapped form; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+kaṭattārūpaṃ|0	किए गए कर्म से उत्पन्न भौतिक रूप	terms file kaṭattārūpa (rule a); ungapped form (460 vs 5)
+vipākaṃ|0	कर्म-फल रूपी	terms file «vipāka (alone, adjective) = कर्म के फल रूपी [pi-1]» (rule a); pi-1 vipākāni / vipākā; one adjective for the whole family; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākābyākate|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	terms file vipākābyākata [pi-1] (rule a); ungapped form; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+arūpe|0	अभौतिक लोक	terms file arūpe = अभौतिक लोक में [pi-6] (rule a); pi-6 same; 208 vs 1
+vipākābyākatā|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	terms file vipākābyākata [pi-1] (rule a); ungapped form; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+Paripuṇṇaṃ|0	परिपूर्ण	pi-4 paripuṇṇaṃ 'entire, complete' = परिपूर्ण (rule 1b, pi-3/4/5 tier; no pi-1/2/6 term); one term for the family
+gaṇetabbaṃ|0	गिनना चाहिए	terms file gaṇetabbā = गिनना चाहिए (rule a); 329 vs 1
+vipāko|0	कर्म-फल रूपी	terms file vipāka adjective = कर्म के फल रूपी [pi-1] (rule a); family vipākaṃ; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+kiriyassa|0	केवल क्रिया रूपी	pi-1/pi-2 kiriyaṃ = केवल क्रिया रूपी (rule 1b); family kiriyaṃ; «मन» is the head noun, not part of kiriya
+Bhavaṅgaṃ|0	जीवन-धारा	harmonise-notes bhavaṅga = जीवन-धारा; 37 vs 1
+vipākābyākatānaṃ|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	terms file vipākābyākata [pi-1] (rule a); ungapped form; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+karoti|1	करना	pi-5 karoti 'does, performs' = करना (rule 1b); most used (3 vs 1)
+sutaṃ|0	सुना-सीखा ज्ञान	pi-2 sutaṃ 'learning' = सुना-सीखा ज्ञान (rule 1b, same meaning); 15 vs 1
+anuppannaṃ|0	उत्पन्न न हुआ	pi-2 anuppanna- = उत्पन्न न हुआ (rule 1b); most used (7)
+uppannaṃ|0	उत्पन्न हो चुका	pi-6 uppannaṃ 'arisen, already come into being' = उत्पन्न हो चुका (rule 1b); 10 vs 2
+saṅkhāre|0	निर्मित परिघटना	the vipassanā object 'saṅkhāre aniccato vipassati' = conditioned things in general: pi-5 same meaning = निर्मित परिघटनाएँ (rule 1b; singular per map convention); pi-1/pi-2 मानसिक रचनाएँ is the aggregate sense
+dhammappaṭisambhidāya|0	परिघटनाओं का विश्लेषणात्मक ज्ञान	pi-2 dhammapaṭisambhidā = परिघटनाओं का विश्लेषणात्मक ज्ञान (rule 1b); dhamma here is not the Teaching
+paṭibhānappaṭisambhidāya|0	सूझ-बूझ का विश्लेषणात्मक ज्ञान	pi-2 paṭibhānapaṭisambhidā = सूझ-बूझ का विश्लेषणात्मक ज्ञान (rule 1b); 3 vs 1
+ṭhānāṭhānakosallassa|0	संभव और असंभव को जानने की कुशलता	most used (11 vs 1); clearest
+jappeti|0	पालना	pi-2 jappeti = पालना (rule 1b); most used (48 vs 17)
+gaṇhāti|0	ग्रहण करना	most used (109 vs 38 vs 35); diṭṭhiṃ gaṇhāti = दृष्टि ग्रहण करना
+paritāpeti|0	कष्ट देना	most used (5 vs 3); plainer than संतप्त करना
+pariyiṭṭhimūlakaṃ|0	खोज के कारण होने वाला	most used (5 vs 3)
+pāṇaṃ|0	जीव	pi-2 pāṇa 'living being' = जीव (rule 1b, pi-1/2/6 tier before pi-5 प्राणी); family Pāṇātipāto = जीव-हत्या (pi-2, pi-5)
+adinnaṃ|0	बिना दिया हुआ	most used (7 vs 3 vs 2)
+ādiyati|0	लेना	most used (7 vs 1); dictionary form
+samphaṃ|0	व्यर्थ	pi-5 samphaṃ = व्यर्थ, pi-4/pi-5 sampha = व्यर्थ (rule 1b); 6 vs 3
+nillopaṃ|0	डाका	pi-5 nillopaṃ = डाका (rule 1b); 6 vs 3
+ekāgārikaṃ|0	एक ही घर में डाका	most used (3); a noun like nillopaṃ डाका (pi-5 «किसी एक घर को लूटना» renders the phrase with kareyya, verb included)
+paripanthe|0	राह में घात	pi-5 paripanthe = राह में घात (rule 1b); most used (4)
+tiṭṭhati|0	घात लगाना	'lies in ambush' in paripanthe tiṭṭhati; खड़ा होना is the literal 'stands' (pi-4 sense, not this one); clearest
+gāmaghātaṃ|0	गाँव पर हमला	most used (4); same shape as nigamaghātaṃ
+nigamaghātaṃ|0	कस्बे पर हमला	most used (15); same shape as gāmaghātaṃ
+Pāṇātipāto|0	जीव-हत्या	pi-2 and pi-5 pāṇātipāto = जीव-हत्या (rule 1b); family pāṇaṃ = जीव
+ruhiruppādakammassa|0	बुद्ध का खून बहाने का कर्म	most used (28 vs 4); pi-5 ruhiruppādako = बुद्ध का खून बहाने वाला
+niyatamicchādiṭṭhiyā|0	निश्चित ग़लत दृष्टि	most used (12 vs 4); niyata = निश्चित in the triad name (ग़लत दिशा में निश्चित)
+paṭighātatthāya|0	प्रतिकार	'to counteract' the killing (pāṇaṃ hantvā tassa paṭighātatthāya); 2 vs 2; प्रतिकार = counteraction, closer than निवारण 'prevention'
+kiriyaṃ|0	केवल क्रिया रूपी	pi-1/pi-2 kiriyaṃ = केवल क्रिया रूपी (rule 1b); 85 vs 1
+vipāke|1	कर्म-फल रूपी	terms file vipāka adjective (rule a); 3 vs 1; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+Lokiyadukaṃ|0	लौकिक परिघटनाओं वाला दो का वर्गीकरण	harmonise-notes names table (rule a)
+Cittasampayuttadukaṃ|0	मन से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	harmonise-notes names table (rule a); 7 vs 1
+upapatticittassa|0	जन्म का मन	harmonise-notes upapatticitta = जन्म का मन; pi-6 same; ungapped
+vipākamanodhātuyā|0	कर्म-फल रूपी मन का तत्व	pi-1 vipākā manodhātu = कर्म के फल रूपी मन का तत्व (rule 1b); 13 vs 6; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākamanoviññāṇadhātu|0	कर्म-फल रूपी मन की चेतना का तत्व	pi-1 vipākā manoviññāṇadhātu (rule 1b); 36 vs 28; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+Vipākamanodhātu|0	कर्म-फल रूपी मन का तत्व	pi-1 vipākā manodhātu (rule 1b); family vipākamanodhātuyā; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+jīvitā|0	जान	most used (2 vs 1); with voropeti लेना gives «जान लेना» 'to kill'
+sajjhāyamaggena|0	पाठ का क्रम	most used (6 vs 1); terms file vācanāmaggena = पाठ का क्रम
+gaṇitā|0	गणना की गई	ungapped form (गिना गया of gaṇitaṃ is not a candidate here)
+vibhajitabbāni|0	विश्लेषण करना चाहिए	vibhaṅga = विश्लेषण (terms file Vibhaṅgavāro = विश्लेषण का खंड); one term for the vibhajitabba family; विश्लेषण 31 vs विभाजन 25 in the translation
+dassanattikaṃ|0	सत्य-दर्शन से छोड़ी जाने वाली परिघटनाओं वाला तीन का वर्गीकरण	harmonise-notes: short forms take the full name (rule a); 9 vs 1
+gaṇetabbā|0	गिनना चाहिए	terms file gaṇetabbā = गिनना चाहिए (rule a); 12 vs 1
+avasesā|0	शेष	pi-1, pi-2 and pi-6 avasesā = शेष (rule 1b)
+vibhajitabbā|0	विश्लेषण करना चाहिए	one term for the vibhajitabba family (see vibhajitabbāni)
+uddharitabbā|0	निकालना चाहिए	'should be extracted'; उद्धृत means 'quoted' in Hindi; clearest; one term for the uddharitabba family
+paripuṇṇā|0	परिपूर्ण	one term for the paripuṇṇa family (see Paripuṇṇaṃ; pi-4)
+anumajjantena|0	अनुसरण करते हुए	most used (9 vs 1 vs 1)
+vibhajitabbaṃ|0	विश्लेषण करना चाहिए	one term for the vibhajitabba family; most used here (9)
+niyāmetabbaṃ|0	निश्चित करना चाहिए	most used (6 vs 3 vs 1); harmonise-notes «“कर्म-फल” निश्चित करना चाहिए»
+vipākamanoviññāṇadhātuyā|0	कर्म-फल रूपी मन की चेतना का तत्व	pi-1 vipākā manoviññāṇadhātu (rule 1b); family vipākamanoviññāṇadhātu; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+nabhāvanāya|1	मानसिक अभ्यास … से रहित	most used (64 vs 15); the pi-1 item ends «… मूलों से रहित»; same shape as Nadassanena|0
+nabhāvanāya|2	मानसिक अभ्यास से न	ungapped form (43 vs 10)
+Ajjhattikā|0	आंतरिक	pi-1, pi-2, pi-3 ajjhattikā = आंतरिक (rule 1b); 23 vs 1
+pahātabbahetukaṃ|0	छोड़े जाने वाले मूलों वाला	pi-2 pahātabbahetuko = छोड़े जाने वाले मूलों वाला (rule 1b); 212 vs 20
+pahātabbahetuko|0	छोड़े जाने वाले मूलों वाला	pi-2 same headword (rule 1b); 199 vs 2
+pavattipaṭisandhi|0	जीवन-काल और पुनर्जन्म	most used (6); 'in the course of existence' (pi-6 pavatte = जीवन के दौरान)
+voropeti|0	लेना	pi-5 voropeti 'takes away, of life' = लेना (rule 1b); with jīvitā जान = «जान लेना»
+vaṇṇasampadaṃ|0	रंग-रूप की संपन्नता	most used (3 vs 1 vs 1); same shape as cakkhusampadaṃ आँख की संपन्नता
+ninnānākaraṇaṃ|0	बिना किसी अंतर के	harmonise-notes ninnānākaraṇaṃ = बिना किसी अंतर के; 56 vs 1
+Ghaṭane|0	संयोजन	harmonise-notes ghaṭanā = संयोजन; family ghaṭanā, Pakiṇṇakaghaṭanā
+ekasadisā|0	एक समान	the pi-7 translation has «एक समान» 5 times, «एक जैसे» once
+ekāyeva|0	एक ही	most used (3 vs 2)
+anulomamātikā|0	सकारात्मक क्रम की मूल सूची	pi-1, pi-2, pi-4 mātikā = मूल सूची (rule 1b); 29 vs 4
+suddhake|0	शुद्ध पद	'in the pure (unmixed) case' as against arūpamissake / rūpamissake; अकेला कारण belongs to Suddhaṃ (the single-condition count)
+garukārammaṇā|0	महत्व दिए गए विषय	most used (3 vs 1); a noun phrase
+Sāsavaṃ|0	मन के मैलों का विषय बनने वाला	pi-1/pi-2 Sāsavaṃ (rule 1b); closing-pair pronoun form is the same sense
+Anāsavaṃ|0	मन के मैलों का विषय न बनने वाला	pi-2 Anāsavaṃ in the taint classification (rule 1b); pronoun form same sense
+sāsavo|0	मन के मैलों का विषय बनने वाला	pi-2 sāsavo (rule 1b); 60 vs 6
+labbhati|0	लागू होना	pi-3 labbhati 'is obtained, is applicable' = लागू होना (rule 1b, same note usage)
+Saññojaniyaṃ|0	बंधनों का विषय बनने वाला	full form; pronoun form is the same sense (pi-1 Sāsavā precedent); 5 vs 2
+saññojaniyo|0	बंधनों का विषय बनने वाला	full form; pronoun form is the same sense; 20 vs 5
+lokiyadukasadisaṃ|0	लौकिक परिघटनाओं वाले दो के वर्गीकरण के समान	harmonise-notes name Lokiyadukaṃ (rule a); 16 vs 6
+Ganthaniyaṃ|0	गाँठों का विषय बनने वाला	pi-1/pi-2 Ganthaniyaṃ (rule 1b)
+vibhajantena|0	विश्लेषण करते हुए	one word for the vibhaj- family (विश्लेषण)
+Nīvaraṇiyaṃ|0	बाधाओं का विषय बनने वाला	pi-1/pi-2 Nīvaraṇiyaṃ (rule 1b)
+nīvaraṇiyo|0	बाधाओं का विषय बनने वाला	pi-2 nīvaraṇiyo (rule 1b)
+paccavekkhitvā|0	जाँचकर	pi-2/pi-5 paccavekkhati 'reviews' = जाँचना (rule 1b); here reviewing the text in an editorial note
+Parāmaṭṭhaṃ|0	ग़लत धारणा का विषय बनने वाला	pi-1/pi-2 Parāmaṭṭhaṃ (rule 1b); family parāmaṭṭho
+itare|0	बाकी	pi-6 itaresaṃ 'the other ones of a named group' = बाकी (rule 1b)
+nocittasahabhū|0	मन के साथ-साथ न होने वाला	most used (63 vs 5); family nocittasahabhūnaṃ / -ssa
+Upādāniyaṃ|0	आसक्ति का विषय बनने वाला	pi-1/pi-2 Upādāniyaṃ (rule 1b)
+upādāniyo|0	आसक्ति का विषय बनने वाला	pi-2 upādāniyo (rule 1b)
+Nadassanena|0	सत्य-दर्शन … से रहित	same shape as nabhāvanāya|1 (the pi-1 item ends «… मूलों से रहित»); family over count (37 vs 12)
+Nadassanena|1	सत्य-दर्शन से न	ungapped form (9 vs 2); same shape as nabhāvanāya|2
+pahātabbahetukādhipati|0	छोड़े जाने वाले मूलों वाली प्रधानता	ungapped form; family pahātabbahetuka
+āmasanaṃ|0	उल्लेख	most used (6 vs 1)
+gaṇitaṃ|0	गिना गया	most used (49 vs 1)
+Anāsavo|0	मन के मैलों का विषय न बनने वाला	pi-2 Anāsavo (rule 1b); 16 vs 4
+nocittasahabhuṃ|0	मन के साथ-साथ न होने वाला	family nocittasahabhū (63 uses); negation placement only
+naanāsavo|0	मन के मैलों का विषय न बनने वाला न होने वाला	full form (pi-2 anāsava); 19 vs 1
+Nasāsavañca|0	मन के मैलों का विषय बनने वाला न होने वाला	full form (pi-1/pi-2 sāsava)
+naaganthaniyo|0	गाँठों का विषय न बनने वाला न होने वाला	full form (pi-1/pi-2 ganthaniya)
+# family re-alignments of single-candidate senses
+Atthi|1	होना	dictionary form of «है»; pi-1 atthi = होना; pairs with Natthi|1 नहीं होना
+kusalākusalañca|0	हितकर और हानिकर	family kusalākusalaṃ / kusalākusale; enclitic -ñca dropped
+vipākassa|0	कर्म-फल रूपी	family vipākaṃ / vipāko / vipākānaṃ (terms file vipāka adjective); user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+Vipākañca|0	कर्म-फल रूपी	family vipākaṃ; enclitic -ñca dropped; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+Ajjhattattiko|0	स्वयं से संबंधित परिघटनाओं वाला तीन का वर्गीकरण	harmonise-notes name Ajjhattattikaṃ (fixed)
+upādinnattike|0	कर्म से उत्पन्न परिघटनाओं वाला तीन का वर्गीकरण	harmonise-notes name Upādinnattikaṃ (fixed)
+gaṇetabbo|0	गिनना चाहिए	family gaṇetabbaṃ / -ā / -āni (terms file)
+niyatamicchādiṭṭhi|0	निश्चित ग़लत दृष्टि	family niyatamicchādiṭṭhiyā
+niyāmetabbā|0	निश्चित करना चाहिए	family niyāmetabbaṃ
+niyāmetabbāni|0	निश्चित करना चाहिए	family niyāmetabbaṃ
+uddharitabbaṃ|0	निकालना चाहिए	family uddharitabbā
+uddharitabbo|0	निकालना चाहिए	family uddharitabbā
+vibhajitabbo|0	विश्लेषण करना चाहिए	family vibhajitabbaṃ / -ā / -āni; the value had lost its noun
+vibhajitvā|0	विश्लेषण करके	family vibhajitabba / vibhajantena (विश्लेषण)
+ekasadisāni|0	एक समान	family ekasadisā
+pavattipaṭisandhiyā|0	जीवन-काल और पुनर्जन्म	family pavattipaṭisandhi
+Nocittānuparivattiṃ|0	मन का अनुसरण न करने वाला	family nocittānuparivattī; negation placement as nocittasahabhū
+paripuṇṇo|0	परिपूर्ण	family Paripuṇṇaṃ / paripuṇṇā
+cakkā|0	चक्र	family Cakkaṃ; harmonise-notes cakka = चक्र
+vuṭṭhānassapi|0	बाहर आना	harmonise-notes vuṭṭhāna = बाहर आना; family vuṭṭhānassa; -pi dropped
+aganthaniyo|0	गाँठों का विषय न बनने वाला	full form; closing-pair pronoun form is the same sense (pi-1/pi-2 ganthaniya)
+naaparāmaṭṭho|0	ग़लत धारणा का विषय न बनने वाला न होने वाला	full form; family naaparāmaṭṭhañca
+navipākañca|0	कर्म-फल रूपी न होने वाला	family vipāka adjective (terms file); negated item; user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākādhipati|0	कर्म-फल रूपी प्रधानता	family vipāka adjective (terms file); user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākānaṃ|0	कर्म-फल रूपी	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākā|0	कर्म-फल रूपी	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+viññāṇañcāyatanavipākassa|0	अनंत चेतना के क्षेत्र का कर्म-फल रूपी मन	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākābyākatakiriyābyākatacittasamaṅgissa|0	कर्म-फल रूपी या केवल क्रिया रूपी नैतिक रूप से अनिर्धारित मन से युक्त व्यक्ति	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākābyākato|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vipākābyākatāni|0	कर्म-फल रूपी नैतिक रूप से अनिर्धारित	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+vicākānaṃ|0	कर्म-फल रूपी	user 2026-11-13: vipāka = कर्म-फल रूपी everywhere
+kātabbaṃ|0	बनाना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbaṃ|1	करना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbā|0	बनाना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbā|1	शामिल करना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbā|2	करना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbāni|0	बनाना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbāni|1	करना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbo|0	बनाना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbo|1	शामिल करना चाहिए	user 2026-11-14: kātabba verb fits its object
+kātabbo|2	करना चाहिए	user 2026-11-14: kātabba verb fits its object
+Hetudukaṃ|0	मूल रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Dassanenapahātabbahetukattikaṃ|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Ācayagāmittikaṃ|0	संचय की ओर ले जाने वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Maggārammaṇattikaṃ|0	मार्ग को विषय बनाने वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+sahajāto|0	साथ उत्पन्न होकर	user 2026-11-14 after the rails review
+sahajātaṃ|1	साथ उत्पन्न होकर	user 2026-11-14 after the rails review
+Āsavadukaṃ|0	मन के मैल रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sāsavadukaṃ|0	मन के मैलों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavasampayuttadukaṃ|0	मन के मैलों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavasāsavadukaṃ|0	मन के मैल रूपी भी और मन के मैलों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavavippayuttasāsavadukaṃ|0	मन के मैलों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanadukaṃ|0	बंधन रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojaniyadukaṃ|0	बंधनों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasampayuttadukaṃ|0	बंधनों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasaññojaniyadukaṃ|0	बंधन रूपी भी और बंधनों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasaññojanasampayuttadukaṃ|0	बंधन रूपी भी और बंधनों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanavippayuttasaññojaniyadukaṃ|0	बंधनों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthadukaṃ|0	गाँठ रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaniyadukaṃ|0	गाँठों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthasampayuttadukaṃ|0	गाँठों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaganthaniyadukaṃ|0	गाँठ रूपी भी और गाँठों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaganthasampayuttadukaṃ|0	गाँठ रूपी भी और गाँठों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthavippayuttaganthaniyadukaṃ|0	गाँठों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇadukaṃ|0	बाधा रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇiyadukaṃ|0	बाधाओं का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇanīvaraṇiyadukaṃ|0	बाधा रूपी भी और बाधाओं का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇanīvaraṇasampayuttadukaṃ|0	बाधा रूपी भी और बाधाओं से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇavippayuttanīvaraṇiyadukaṃ|0	बाधाओं से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmaṭṭhadukaṃ|0	ग़लत धारणा का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsasampayuttadukaṃ|0	ग़लत धारणा से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsaparāmaṭṭhadukaṃ|0	ग़लत धारणा रूपी भी और ग़लत धारणा का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsavippayuttaparāmaṭṭhadukaṃ|0	ग़लत धारणा से अलग पर उसका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesadukaṃ|0	मन के क्लेश रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saṃkilesikadukaṃ|0	क्लेशों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesasampayuttadukaṃ|0	क्लेशों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesasaṃkilesikadukaṃ|0	मन के क्लेश रूपी भी और क्लेशों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesasaṃkiliṭṭhadukaṃ|0	मन के क्लेश रूपी भी और क्लेशों से मलिन भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesakilesasampayuttadukaṃ|0	मन के क्लेश रूपी भी और क्लेशों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesavippayuttasaṃkilesikadukaṃ|0	क्लेशों से अलग पर क्लेशों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Dassanenapahātabbahetukadukaṃ|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Bhāvanāyapahātabbahetukadukaṃ|0	मानसिक अभ्यास से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Savitakkadukaṃ|0	आरंभिक विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Savicāradukaṃ|0	सतत विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sappītikadukaṃ|0	उल्लास वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Pītisahagatadukaṃ|0	उल्लास के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sukhasahagatadukaṃ|0	सुख के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Upekkhāsahagatadukaṃ|0	समभाव के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kāmāvacaradukaṃ|0	इंद्रिय-सुखों के लोक से संबंधित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Rūpāvacaradukaṃ|0	सूक्ष्म भौतिक लोक से संबंधित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Arūpāvacaradukaṃ|0	अभौतिक लोक से संबंधित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Pariyāpannadukaṃ|0	अस्तित्व के लोकों में समाई हुई परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Niyyānikadukaṃ|0	मुक्ति की ओर ले जाने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Niyatadukaṃ|0	निश्चित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sauttaradukaṃ|0	सर्वोच्च न होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saraṇadukaṃ|0	संघर्ष वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Hetuduka|0	मूल रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavaduka|0	मन के मैल रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sāsavaduka|0	मन के मैलों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavasampayuttaduka|0	मन के मैलों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavasāsavaduka|0	मन के मैल रूपी भी और मन के मैलों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavavippayuttasāsavaduka|0	मन के मैलों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanaduka|0	बंधन रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojaniyaduka|0	बंधनों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasampayuttaduka|0	बंधनों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasaññojaniyaduka|0	बंधन रूपी भी और बंधनों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanasaññojanasampayuttaduka|0	बंधन रूपी भी और बंधनों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanavippayuttasaññojaniyaduka|0	बंधनों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaduka|0	गाँठ रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaniyaduka|0	गाँठों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthasampayuttaduka|0	गाँठों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaganthaniyaduka|0	गाँठ रूपी भी और गाँठों का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthaganthasampayuttaduka|0	गाँठ रूपी भी और गाँठों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Ganthavippayuttaganthaniyaduka|0	गाँठों से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇaduka|0	बाधा रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇanīvaraṇiyaduka|0	बाधा रूपी भी और बाधाओं का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇanīvaraṇasampayuttaduka|0	बाधा रूपी भी और बाधाओं से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇavippayuttanīvaraṇiyaduka|0	बाधाओं से अलग पर उनका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmaṭṭhaduka|0	ग़लत धारणा का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsasampayuttaduka|0	ग़लत धारणा से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsaparāmaṭṭhaduka|0	ग़लत धारणा रूपी भी और ग़लत धारणा का विषय बनने वाली भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Parāmāsavippayuttaparāmaṭṭhaduka|0	ग़लत धारणा से अलग पर उसका विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesaduka|0	मन के क्लेश रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saṃkilesikaduka|0	क्लेशों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesasampayuttaduka|0	क्लेशों से जुड़ी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesasaṃkiliṭṭhaduka|0	मन के क्लेश रूपी भी और क्लेशों से मलिन भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesakilesasampayuttaduka|0	मन के क्लेश रूपी भी और क्लेशों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kilesavippayuttasaṃkilesikaduka|0	क्लेशों से अलग पर क्लेशों का विषय बनने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Dassanenapahātabbahetukaduka|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Bhāvanāyapahātabbahetukaduka|0	मानसिक अभ्यास से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Savitakkaduka|0	आरंभिक विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sappītikaduka|0	उल्लास वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Upekkhāsahagataduka|0	समभाव के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Pariyāpannaduka|0	अस्तित्व के लोकों में समाई हुई परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Niyyānikaduka|0	मुक्ति की ओर ले जाने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Niyataduka|0	निश्चित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sauttaraduka|0	सर्वोच्च न होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Saraṇaduka|0	संघर्ष वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+sanidassanattikaṃ|0	दिखाई देने वाली और टकराव वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Dassanenapahātabbahetukattika|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Ācayagāmittika|0	संचय की ओर ले जाने वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Maggārammaṇattika|0	मार्ग को विषय बनाने वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+saññojanādidukāni|0	बंधन रूपी परिघटनाओं वाला दो का वर्गीकरण आदि	user 2026-11-14 after the rails review
+Dassanahetuttika|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Sanidassanattika|0	दिखाई देने वाली और टकराव वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Saññojanādiduka|0	बंधन रूपी परिघटनाओं वाला दो का वर्गीकरण आदि	user 2026-11-14 after the rails review
+Dassanahetuttikaṃ|0	सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+hetvādidukāni|0	मूल रूपी परिघटनाओं वाला दो का वर्गीकरण आदि	user 2026-11-14 after the rails review
+Pītisahagataduka|0	उल्लास के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Sukhasahagataduka|0	सुख के साथ होने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavadukepi|0	मन के मैल रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Nīvaraṇadukassa|0	बाधा रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+dassanadukaṃ|0	सत्य-दर्शन से छोड़ी जाने वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Savicāraduke|0	सतत विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+savitakkaduke|0	आरंभिक विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+sappītikadukassa|0	उल्लास वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+sappītikaduke|0	उल्लास वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+savitakkadukassa|0	आरंभिक विचार वाली परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+arūpāvacaradukassa|0	अभौतिक लोक से संबंधित परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Kusalattikasanidassanattikaṃ|0	हितकर वाला तीन का वर्गीकरण और दिखाई देने वाली और टकराव वाली परिघटनाओं वाला तीन का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavaāsavasampayuttadukaṃ|0	मन के मैल रूपी भी और मन के मैलों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+Āsavaāsavasampayuttaduke|0	मन के मैल रूपी भी और मन के मैलों से जुड़ी भी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review
+niṭṭhitesu|0	समाप्त हो जाना	user 2026-11-14 after the rails review
+upādānadukaṃ|0	आसक्ति रूपी परिघटनाओं वाला दो का वर्गीकरण	user 2026-11-14 after the rails review

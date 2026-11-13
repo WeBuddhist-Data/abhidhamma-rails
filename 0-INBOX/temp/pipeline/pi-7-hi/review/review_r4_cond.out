@@ -1,0 +1,178 @@
+﻿2-10-micchattaniyatattika.md 38
+  P []
+  H [('hetu', 'P')]
+2-10-micchattaniyatattika.md 42
+  P []
+  H [('hetu', 'N')]
+2-10-micchattaniyatattika.md 90
+  P []
+  H [('hetu', 'P')]
+2-10-micchattaniyatattika.md 94
+  P []
+  H [('hetu', 'N')]
+2-10-micchattaniyatattika.md 175
+  P [('samanantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+2-10-micchattaniyatattika.md 248
+  P []
+  H [('hetu', 'P')]
+2-10-micchattaniyatattika.md 252
+  P []
+  H [('hetu', 'N')]
+2-11-maggarammanattika.md 84
+  P []
+  H [('hetu', 'P')]
+2-11-maggarammanattika.md 88
+  P []
+  H [('hetu', 'N')]
+2-11-maggarammanattika.md 144
+  P [('samanantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+2-11-maggarammanattika.md 169
+  P [('āsevana', 'P')]
+  H [('āsevana', 'P'), ('anantara', 'P')]
+2-11-maggarammanattika.md 173
+  P [('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('atthi', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+  H [('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('atthi', 'P'), ('hetu', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('anantara', 'P'), ('avigata', 'P')]
+2-11-maggarammanattika.md 203
+  P [('hetu', 'N'), ('ārammaṇa', 'N'), ('adhipati', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('sahajāta', 'N'), ('aññamañña', 'N'), ('nissaya', 'N'), ('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('vipāka', 'N'), ('āhāra', 'N'), ('indriya', 'N'), ('jhāna', 'N'), ('magga', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('atthi', 'N'), ('natthi', 'N'), ('vigata', 'N'), ('avigata', 'N')]
+  H [('hetu', 'N'), ('ārammaṇa', 'N'), ('ārammaṇa', 'N'), ('adhipati', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('sahajāta', 'N'), ('aññamañña', 'N'), ('nissaya', 'N'), ('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('vipāka', 'N'), ('āhāra', 'N'), ('indriya', 'N'), ('jhāna', 'N'), ('magga', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('atthi', 'N'), ('natthi', 'N'), ('vigata', 'N'), ('avigata', 'N')]
+2-11-maggarammanattika.md 206
+  P []
+  H [('hetu', 'P')]
+2-11-maggarammanattika.md 210
+  P []
+  H [('hetu', 'N')]
+2-13-atitattika.md 17
+  P [('samanantara', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P')]
+2-13-atitattika.md 38
+  P [('atthi', 'P')]
+  H [('atthi', 'P'), ('atthi', 'P')]
+2-13-atitattika.md 39
+  P []
+  H [('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+2-14-atitarammanattika.md 10
+  P [('ārammaṇa', 'P'), ('adhipati', 'P'), ('anantara', 'P'), ('samanantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('upanissaya', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('kamma', 'P'), ('vipāka', 'P'), ('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+  H [('ārammaṇa', 'P'), ('adhipati', 'P'), ('adhipati', 'P'), ('anantara', 'P'), ('samanantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('upanissaya', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('kamma', 'P'), ('vipāka', 'P'), ('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+2-14-atitarammanattika.md 22
+  P [('adhipati', 'N')]
+  H [('adhipati', 'N'), ('sahajāta', 'P')]
+2-14-atitarammanattika.md 28
+  P [('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N')]
+  H [('pacchājāta', 'N'), ('āsevana', 'N'), ('adhipati', 'N'), ('kamma', 'N')]
+2-14-atitarammanattika.md 32
+  P [('vipāka', 'N')]
+  H [('vipāka', 'N'), ('vipāka', 'N')]
+2-14-atitarammanattika.md 36
+  P [('magga', 'N')]
+  H [('magga', 'N'), ('hetu', 'N')]
+2-14-atitarammanattika.md 45
+  P []
+  H [('hetu', 'P')]
+2-14-atitarammanattika.md 88
+  P [('samanantara', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P')]
+2-14-atitarammanattika.md 137
+  P []
+  H [('hetu', 'P')]
+2-14-atitarammanattika.md 141
+  P []
+  H [('hetu', 'N')]
+2-15-ajjhattattika.md 18
+  P [('aññamañña', 'P'), ('nissaya', 'P'), ('upanissaya', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('kamma', 'P'), ('vipāka', 'P'), ('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+  H [('aññamañña', 'P'), ('nissaya', 'P'), ('upanissaya', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('purejāta', 'P'), ('āsevana', 'P'), ('kamma', 'P'), ('vipāka', 'P'), ('āhāra', 'P'), ('indriya', 'P'), ('jhāna', 'P'), ('magga', 'P'), ('sampayutta', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+2-15-ajjhattattika.md 32
+  P [('adhipati', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('upanissaya', 'N'), ('purejāta', 'N')]
+  H [('adhipati', 'N'), ('sahajāta', 'P'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('upanissaya', 'N'), ('purejāta', 'N')]
+2-15-ajjhattattika.md 46
+  P [('magga', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N')]
+  H [('magga', 'N'), ('hetu', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N')]
+2-15-ajjhattattika.md 82
+  P [('ārammaṇa', 'N'), ('adhipati', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('vippayutta', 'N'), ('natthi', 'N'), ('vigata', 'N')]
+  H [('ārammaṇa', 'N'), ('adhipati', 'N'), ('sahajāta', 'P'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('vippayutta', 'N'), ('vippayutta', 'P'), ('natthi', 'N'), ('vigata', 'N')]
+2-15-ajjhattattika.md 116
+  P [('samanantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+2-15-ajjhattattika.md 151
+  P [('atthi', 'P'), ('atthi', 'P'), ('atthi', 'P')]
+  H [('atthi', 'P'), ('purejāta', 'P'), ('atthi', 'P'), ('atthi', 'P')]
+2-15-ajjhattattika.md 157
+  P []
+  H [('natthi', 'P'), ('vigata', 'P'), ('avigata', 'P')]
+2-15-ajjhattattika.md 176
+  P []
+  H [('hetu', 'P')]
+2-16-ajjhattarammanattika.md 20
+  P [('adhipati', 'N'), ('purejāta', 'N')]
+  H [('adhipati', 'N'), ('sahajāta', 'P'), ('purejāta', 'N')]
+2-16-ajjhattarammanattika.md 21
+  P [('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N')]
+  H [('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('sahajāta', 'P'), ('kamma', 'N')]
+2-16-ajjhattarammanattika.md 25
+  P [('jhāna', 'N'), ('magga', 'N'), ('vippayutta', 'N')]
+  H [('jhāna', 'N'), ('magga', 'N'), ('hetu', 'N'), ('vippayutta', 'N')]
+2-17-sanidassanasappatighattika.md 36
+  P [('samanantara', 'P')]
+  H [('anantara', 'P'), ('samanantara', 'P')]
+2-17-sanidassanasappatighattika.md 37
+  P [('anantara', 'P'), ('samanantara', 'P')]
+  H [('anantara', 'P'), ('samanantara', 'P'), ('ārammaṇa', 'P')]
+2-17-sanidassanasappatighattika.md 76
+  P [('adhipati', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N')]
+  H [('adhipati', 'N'), ('sahajāta', 'P'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N')]
+2-17-sanidassanasappatighattika.md 78
+  P [('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('vipāka', 'N'), ('āhāra', 'N')]
+  H [('upanissaya', 'N'), ('purejāta', 'N'), ('pacchājāta', 'N'), ('āsevana', 'N'), ('kamma', 'N'), ('kamma', 'N'), ('vipāka', 'N'), ('āhāra', 'N')]
+2-17-sanidassanasappatighattika.md 84
+  P [('magga', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('natthi', 'N'), ('vigata', 'N')]
+  H [('magga', 'N'), ('hetu', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('natthi', 'N'), ('vigata', 'N')]
+2-17-sanidassanasappatighattika.md 91
+  P []
+  H [('hetu', 'P')]
+2-17-sanidassanasappatighattika.md 95
+  P []
+  H [('hetu', 'N')]
+2-17-sanidassanasappatighattika.md 121
+  P [('samanantara', 'P')]
+  H [('samanantara', 'P'), ('anantara', 'P')]
+2-17-sanidassanasappatighattika.md 123
+  P [('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+  H [('sahajāta', 'P'), ('aññamañña', 'P'), ('aññamañña', 'P'), ('nissaya', 'P')]
+2-17-sanidassanasappatighattika.md 180
+  P [('avigata', 'P')]
+  H [('natthi', 'P'), ('vigata', 'P'), ('anantara', 'P'), ('avigata', 'P'), ('atthi', 'P')]
+2-17-sanidassanasappatighattika.md 185
+  P []
+  H [('hetu', 'P')]
+2-17-sanidassanasappatighattika.md 187
+  P []
+  H [('hetu', 'P')]
+2-17-sanidassanasappatighattika.md 188
+  P []
+  H [('hetu', 'P'), ('sahajāta', 'P'), ('nissaya', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('sampayutta', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('nissaya', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('vipāka', 'P')]
+2-17-sanidassanasappatighattika.md 189
+  P []
+  H [('hetu', 'P'), ('sahajāta', 'P'), ('nissaya', 'P'), ('vipāka', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('vipāka', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('vipāka', 'P'), ('sampayutta', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('nissaya', 'P'), ('vipāka', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('vipāka', 'P'), ('vippayutta', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('vipāka', 'P')]
+2-17-sanidassanasappatighattika.md 222
+  P []
+  H [('hetu', 'N')]
+2-17-sanidassanasappatighattika.md 224
+  P []
+  H [('hetu', 'N')]
+2-17-sanidassanasappatighattika.md 228
+  P []
+  H [('hetu', 'P')]
+2-17-sanidassanasappatighattika.md 230
+  P []
+  H [('hetu', 'P')]
+2-17-sanidassanasappatighattika.md 231
+  P [('ārammaṇa', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('natthi', 'N'), ('vigata', 'N')]
+  H [('hetu', 'P'), ('sahajāta', 'P'), ('nissaya', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('ārammaṇa', 'N'), ('anantara', 'N'), ('samanantara', 'N'), ('aññamañña', 'N'), ('sampayutta', 'N'), ('vippayutta', 'N'), ('natthi', 'N'), ('vigata', 'N')]
+2-17-sanidassanasappatighattika.md 232
+  P [('ārammaṇa', 'N'), ('vigata', 'N')]
+  H [('hetu', 'P'), ('sahajāta', 'P'), ('aññamañña', 'P'), ('nissaya', 'P'), ('atthi', 'P'), ('avigata', 'P'), ('ārammaṇa', 'N'), ('vigata', 'N')]
+2-17-sanidassanasappatighattika.md 235
+  P []
+  H [('hetu', 'N')]
+TOTAL 59

@@ -1,0 +1,29 @@
+---
+title: कारण-संबंध - सरल हिंदी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Paṭṭhānapāḷi
+root_text: 1-SOURCES/Text/pi-7.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-7_split_chapters
+source_text_id: XtTiyeogM96K1Chqpbccr
+source_edition_id: 03TkdCHL1y2qqnI0aVBNG
+translation_of: XtTiyeogM96K1Chqpbccr
+language: Hindi
+lang_tag: hi
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/hindi/pi-7-pali-hindi-termbase-plain.md
+termbase_approved: 2026-11-13
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-7-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a sample at each step, remaining files run in parallel at the user's request; cross-file alignment pass; independent bilingual review and fixes, with user decisions on kātabba, the triad/dyad names, the doubt/restlessness pair and sahajāto; the Pāli is translated as written, source slips included (only spelling slips rendered as the word meant); dashes only where the Pāli has them (user rule)"
+zeroshot_split: AI_translation/hindi/pi-7-hindi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/hindi/pi-7-keywords-by-reference-pali-hindi-plain.md
+senses: AI_translation/hindi/pi-7-pali-word-hindi-senses-plain.md
+segment_ids: "SEGMENT_IDS"
+chapters: preamble + 1-00-paccaya + 73 files (Tikapaṭṭhāna … Dhammapaccanīyānuloma dukaduka)
+split_chapters: AI_translation/hindi/pi-7-hindi-plain-rails_split_chapters
+generated: 2026-11-14
+status: draft
+---

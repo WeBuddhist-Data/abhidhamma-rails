@@ -1,0 +1,589 @@
+# pi-7 Hindi senses: decisions for agg-part2.tsv (579 headwords). Conventions: senses-conventions-pi7.md (+ pi-1, pi-6)
+# --- supernormal knowledges, pakatūpanissaya passages
+Dibbassa: {divine, in dibbassa cakkhussa 'of the divine eye' (genitive sg.)}
+cakkhussa: {of the eye, in 'of the divine eye' (genitive sg.)}
+Cetopariyañāṇassa: {of the knowledge encompassing others' minds (genitive sg.)}
+Dibbacakkhu: {the divine eye, supernormal sight (nominative sg.)}
+Dibbasotadhātu: {the divine ear element, supernormal hearing (nominative sg.)}
+anuppannaṃ: {not yet arisen, not come into being (past participle)}
+uppādenti: {they produce, bring into being (3rd pl. present)}
+uppannaṃ: {arisen, already come into being (past participle)}
+samāpajjanti: {they enter, go into a meditative attainment (3rd pl. present)}
+saṅkhāre: {formations, seen as impermanent in 'saṅkhāre aniccato vipassati' (accusative pl.)}
+atthappaṭisambhidāya: {for the analytical knowledge of meaning (feminine dative sg.)}
+dhammappaṭisambhidāya: {for the analytical knowledge of phenomena, of the teaching (feminine dative sg.)}
+niruttippaṭisambhidāya: {for the analytical knowledge of language, of expression in words (feminine dative sg.)}
+paṭibhānappaṭisambhidāya: {for the analytical knowledge of ready wit, of quick discernment (feminine dative sg.)}
+ṭhānāṭhānakosallassa: {for skill in what is possible and impossible (dative sg.)}
+mānaṃ: {conceit, pride (accusative sg.)}
+jappeti: {fosters, indulges in, in mānaṃ jappeti 'is conceited' (3rd sg. present)}
+diṭṭhiṃ: {view, a wrong view taken up, in diṭṭhiṃ gaṇhāti (accusative sg.)}
+gaṇhāti: {grasps, adopts, in diṭṭhiṃ gaṇhāti (3rd sg. present)}
+dosassa: {for hatred, aversion (dative sg.)}
+mohassa: {for delusion, bewilderment (dative sg.)}
+patthanāya: {for longing, wishing for (feminine dative sg.)}
+attānaṃ: {oneself, in attānaṃ ātāpeti 'torments oneself' (accusative sg.)}
+ātāpeti: {torments, burns, in attānaṃ ātāpeti (3rd sg. present)}
+paritāpeti: {afflicts, tortures oneself, causes pain (3rd sg. present)}
+pariyiṭṭhimūlakaṃ: {rooted in seeking, the pain that comes from searching (neuter sg.)}
+paccanubhoti: {experiences, undergoes, reaps (3rd sg. present)}
+kāyikassa: {bodily, physical, for bodily pleasure or pain (dative sg.)}
+vipākassa: {resultant, born as the result of action (genitive sg.): कर्म-फल रूपी; the kamma-result itself, rendered as a noun, in 'kamma is a condition for its result' (genitive sg.): कर्म-फल}
+kiriyasamāpattiṃ: {a functional attainment, the arahant's merely functional meditative state (accusative sg.)}
+samāpajjati: {enters, goes into a meditative attainment (3rd sg. present)}
+# --- the misdeeds list
+pāṇaṃ: {a living being, in pāṇaṃ hanati 'kills a living being' (accusative sg.)}
+hanati: {kills, strikes down (3rd sg. present)}
+adinnaṃ: {what is not given, in adinnaṃ ādiyati 'takes what is not given' (accusative sg.)}
+ādiyati: {takes, in adinnaṃ ādiyati (3rd sg. present)}
+musā: {falsely, in musā bhaṇati 'speaks falsely' (adverb)}
+bhaṇati: {speaks, says (3rd sg. present)}
+pisuṇaṃ: {maliciously, divisive speech, in pisuṇaṃ bhaṇati (adverbial accusative)}
+pharusaṃ: {harshly, harsh speech, in pharusaṃ bhaṇati (adverbial accusative)}
+samphaṃ: {frivolously, in samphaṃ palapati 'chatters idly' (adverbial accusative)}
+palapati: {chatters, prattles, in samphaṃ palapati (3rd sg. present)}
+sandhiṃ: {a breach in a house wall, in sandhiṃ chindati 'breaks into a house' (accusative sg.)}
+chindati: {cuts, makes a breach, in sandhiṃ chindati (3rd sg. present)}
+nillopaṃ: {plunder, pillage, in nillopaṃ harati (accusative sg.)}
+harati: {carries off, in nillopaṃ harati 'commits plunder' (3rd sg. present)}
+ekāgārikaṃ: {robbing a single house, burglary of one dwelling (accusative sg.)}
+paripanthe: {on the road, lying in ambush, in paripanthe tiṭṭhati (locative)}
+tiṭṭhati: {stands, lies in wait, in paripanthe tiṭṭhati 'lies in ambush' (3rd sg. present)}
+paradāraṃ: {another man's wife, in paradāraṃ gacchati 'commits adultery' (accusative sg.)}
+gāmaghātaṃ: {the sacking of a village, a raid on a village (accusative sg.)}
+nigamaghātaṃ: {the sacking of a market town, a raid on a town (accusative sg.)}
+mātaraṃ: {one's mother, in mātaraṃ jīvitā voropeti (accusative sg.)}
+pitaraṃ: {one's father, in pitaraṃ jīvitā voropeti (accusative sg.)}
+arahantaṃ: {an arahant, a fully liberated one (accusative sg.)}
+cittena: {with the mind, by a mind (instrumental)}
+saṅghaṃ: {the monastic community, the Order (accusative sg.)}
+bhindati: {splits, causes a schism, in saṅghaṃ bhindati (3rd sg. present)}
+Pāṇātipāto: {killing living beings, destruction of life (nominative sg.)}
+adinnādānassa: {of taking what is not given, theft (genitive sg.)}
+kāmesumicchācārassa: {of sexual misconduct, wrong conduct in sensual pleasures (genitive sg.)}
+musāvādassa: {of false speech, lying (genitive sg.)}
+vācāya: {of speech, in the list of wrong actions (feminine genitive sg.)}
+samphappalāpassa: {of idle chatter, frivolous talk (genitive sg.)}
+abhijjhāya: {of covetousness (feminine genitive sg.)}
+byāpādassa: {of ill will (genitive sg.)}
+Adinnādānaṃ: {taking what is not given, theft (nominative sg.)}
+Cakkaṃ: {the cycle, the round of questions to be linked up (nominative sg.)}
+bandhitabbaṃ: {should be linked up, is to be joined into a cycle (gerundive)}
+pisuṇavācā: {divisive speech, slander (nominative sg.)}
+pharusavācā: {harsh, abusive speech (nominative sg.)}
+Mātughātikammaṃ: {the act of matricide, killing one's mother (nominative sg.)}
+pitughātikammassa: {of the act of parricide, killing one's father (genitive sg.)}
+arahantaghātikammassa: {of the act of killing an arahant (genitive sg.)}
+ruhiruppādakammassa: {of the act of drawing the Buddha's blood (genitive sg.)}
+saṅghabhedakammassa: {of the act of splitting the Order (genitive sg.)}
+niyatamicchādiṭṭhiyā: {of a fixed wrong view, one certain in its result (feminine genitive sg.)}
+kātabbaṃ: {should be done, is to be worked out or included (gerundive)}
+hantvā: {having killed (absolutive)}
+paṭighātatthāya: {for counteracting it, to ward off its result (dative)}
+ādiyitvā: {having taken (absolutive)}
+bhaṇitvā: {having spoken, having said (absolutive)}
+uppādetvā: {having drawn, having caused to flow, of the Buddha's blood (absolutive)}
+bhinditvā: {having split the Order (absolutive)}
+kiriyaṃ: {merely functional, producing no result (neuter sg.)}
+Utu: {temperature, climate as a supporting condition (nominative sg.)}
+Bhojanaṃ: {food, a meal, as a supporting condition (nominative sg.)}
+Senāsanaṃ: {lodging, a monk's dwelling place (nominative/accusative sg.)}
+# --- kinds within a condition (labels)
+ārammaṇapurejātaṃ: {object pre-arising, the object kind of pre-arising (nominative, label)}
+vatthupurejātaṃ: {base pre-arising, the physical-base kind of pre-arising (nominative, label)}
+sahajātā: {co-arising, the label of the co-arisen kind and its examples (nominative, label)}
+nānākkhaṇikā: {asynchronous, of a different moment, the label of that kind of kamma condition (nominative, label)}
+āhārā: {nutriments, sustaining conditions (nominative pl.)}
+vipākābyākatāni: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (neuter nominative pl.)}
+kiriyābyākatāni: {functional and neither wholesome nor unwholesome, the functional indeterminate (neuter nominative pl.)}
+sahajātaṃ: {co-arising, the label of the co-arisen kind in the list of kinds (nominative, label): सह-उत्पत्ति; born together with, the Sahajātavāra frame (absolutive-like participle): साथ जन्म लेकर}
+pacchājātaṃ: {post-arising, the label of the post-arising kind in the list of kinds (nominative, label)}
+purejātassa: {arisen before, said of the body supported by later states (genitive sg.)}
+āhāraṃ: {nutriment, the label of the nutriment kind in the list of kinds (nominative, label): आहार; edible food, in kabaḷīkāraṃ āhāraṃ (accusative sg.): भोजन}
+indriyaṃ: {faculty, the label of the faculty kind in the list of kinds (nominative, label)}
+anantarapaccayaṃ: {proximity condition, as a named condition (accusative sg.)}
+atthipaccayaṃ: {presence condition, as a named condition (accusative sg.)}
+Pañhāvārassa: {of the question section, the Pañhāvāra (genitive sg.)}
+terasa: {the number thirteen (numeral)}
+# --- condition stems and counts
+vippayutta: {dissociation condition, bare stem in lists and headings (stem)}
+magga: {path condition, bare stem in lists and headings (stem)}
+Hetādhipati: {root and predominance conditions together, in the combination counts (compound)}
+Ārammaṇa: {object condition, bare stem in lists and headings (stem)}
+purejāta: {pre-arising condition, bare stem in lists and headings (stem): पूर्व-उत्पत्ति-कारण; pre-arising as a label, of the object and base kinds of pre-arising (heading member): पूर्व-उत्पत्ति}
+āhāra: {nutriment condition, bare stem in lists and headings (stem)}
+sampayutta: {association condition, bare stem in lists and headings (stem)}
+samanantara: {contiguity condition, bare stem in lists and headings (stem)}
+āsevana: {repetition condition, bare stem in lists and headings (stem)}
+nissaye: {in the support condition, the count locative (locative)}
+Pacchājāta: {post-arising condition, bare stem in lists and headings (stem)}
+vipāke: {in the result condition, the count locative (locative): कर्म-फल-कारण; resultant, born as the result of action, in 'vipāke khandhe' (masculine accusative pl.): *}
+vipāka: {result condition, bare stem in lists and headings (stem)}
+Āhārādhipati: {nutriment and predominance conditions together, in the combination counts (compound)}
+Indriyādhipati: {faculty and predominance conditions together, in the combination counts (compound)}
+Vigata: {disappearance condition, bare stem in lists and headings (stem)}
+Avigata: {non-disappearance condition, bare stem in lists and headings (stem)}
+anulomagaṇanā: {the count in the positive method, the reckoning with the conditions present (heading and nominative sg.)}
+purejātaṃ: {pre-arising, the label of the pre-arising kind in the list of kinds (nominative, label)}
+pannarasa: {the number fifteen (numeral)}
+ekādasa: {the number eleven (numeral)}
+nanissaye: {in the absence of the support condition, the negative count locative (locative)}
+noatthiyā: {in the absence of the presence condition, the negative count locative (locative)}
+noavigate: {in the absence of the non-disappearance condition, the negative count locative (locative)}
+nasahajāte: {in the absence of the co-arising condition, the negative count locative (locative)}
+Noavigatapaccayā: {without the non-disappearance condition, in the negative chains (negative ablative)}
+paccanīyagaṇanā: {the count in the negative method, the reckoning with the conditions absent (heading and nominative sg.)}
+avigatanti: {non-disappearance condition, with quotative -ti, closing a combination in the counts (stem)}
+Nasahajātapaccayā: {without the co-arising condition, in the negative chains (negative ablative)}
+Nanissayapaccayā: {without the support condition, in the negative chains (negative ablative)}
+noatthimūlakaṃ: {the series starting from absence of the presence condition (heading)}
+niṭṭhitaṃ: {brought to an end, finished, the colophon formula (neuter sg. participle)}
+vedanāya: {with feeling, the affective tone of experience, in 'conjoined with X feeling' (instrumental)}
+Adukkhamasukhāya: {neither painful nor pleasant, of feeling (feminine instrumental sg.)}
+# --- clusters, dyads (numbered by the matrix)
+Hetugocchakaṃ: {the root cluster, the group of the 1st to 6th dyads of the matrix (heading)}
+Sahetukadukaṃ: {the with-roots dyad, 2nd dyad of the matrix (heading)}
+Hetusampayuttadukaṃ: {the associated-with-roots dyad, 3rd dyad of the matrix (heading)}
+Hetusahetukadukaṃ: {the root-and-with-roots dyad, 4th dyad of the matrix (heading)}
+Hetuhetusampayuttadukaṃ: {the root-and-associated-with-roots dyad, 5th dyad of the matrix (heading)}
+Nahetusahetukadukaṃ: {the not-a-root-but-with-roots dyad, 6th dyad of the matrix (heading)}
+Cūḷantaradukaṃ: {the minor intermediate dyads, 7th to 13th dyads of the matrix (heading)}
+Sappaccayadukaṃ: {the with-conditions dyad, 7th dyad of the matrix (heading)}
+Saṅkhatadukaṃ: {the conditioned dyad, 8th dyad of the matrix (heading)}
+Sanidassanadukaṃ: {the visible dyad, 9th dyad of the matrix (heading)}
+Sappaṭighadukaṃ: {the impinging dyad, 10th dyad of the matrix (heading)}
+Rūpīdukaṃ: {the material dyad, 11th dyad of the matrix (heading)}
+Vipākāhārapaccayā: {result and nutriment conditions together, by which a state arises (ablative)}
+Lokiyadukaṃ: {the mundane dyad, 12th dyad of the matrix (heading)}
+Kenaciviññeyyadukaṃ: {the knowable-by-some dyad, 13th dyad of the matrix (heading)}
+Āsavagocchakaṃ: {the taint cluster, the group of the 14th to 19th dyads of the matrix (heading)}
+Āsavadukaṃ: {the taint dyad, 14th dyad of the matrix (heading)}
+Sāsavadukaṃ: {the subject-to-taints dyad, 15th dyad of the matrix (heading)}
+Āsavasampayuttadukaṃ: {the associated-with-taints dyad, 16th dyad of the matrix (heading)}
+Āsavasāsavadukaṃ: {the taint-and-subject-to-taints dyad, 17th dyad of the matrix (heading)}
+Āsavavippayuttasāsavadukaṃ: {the dissociated-from-taints-but-subject-to-taints dyad, 19th dyad of the matrix (heading)}
+Saññojanagocchakaṃ: {the fetter cluster, the group of the 20th to 25th dyads of the matrix (heading)}
+Saññojanadukaṃ: {the fetter dyad, 20th dyad of the matrix (heading)}
+Saññojaniyadukaṃ: {the subject-to-fetters dyad, 21st dyad of the matrix (heading)}
+Paṭiccavārādi: {the dependence section and the rest, the sections that follow it (heading)}
+Saññojanasampayuttadukaṃ: {the associated-with-fetters dyad, 22nd dyad of the matrix (heading)}
+Saññojanasaññojaniyadukaṃ: {the fetter-and-subject-to-fetters dyad, 23rd dyad of the matrix (heading)}
+Saññojanasaññojanasampayuttadukaṃ: {the fetter-and-associated-with-fetters dyad, 24th dyad of the matrix (heading)}
+Saññojanavippayuttasaññojaniyadukaṃ: {the dissociated-from-fetters-but-subject-to-fetters dyad, 25th dyad of the matrix (heading)}
+Ganthagocchakaṃ: {the tie cluster, the group of the 26th to 31st dyads of the matrix (heading)}
+Ganthadukaṃ: {the tie dyad, 26th dyad of the matrix (heading)}
+Ganthaniyadukaṃ: {the subject-to-ties dyad, 27th dyad of the matrix (heading)}
+Ganthasampayuttadukaṃ: {the associated-with-ties dyad, 28th dyad of the matrix (heading)}
+Ganthaganthaniyadukaṃ: {the tie-and-subject-to-ties dyad, 29th dyad of the matrix (heading)}
+Ganthaganthasampayuttadukaṃ: {the tie-and-associated-with-ties dyad, 30th dyad of the matrix (heading)}
+Ganthavippayuttaganthaniyadukaṃ: {the dissociated-from-ties-but-subject-to-ties dyad, 31st dyad of the matrix (heading)}
+Oghayogagocchakaṃ: {the flood and bond clusters, the 32nd to 43rd dyads of the matrix given together (heading)}
+Nīvaraṇagocchakaṃ: {the hindrance cluster, the group of the 44th to 49th dyads of the matrix (heading)}
+Nīvaraṇadukaṃ: {the hindrance dyad, 44th dyad of the matrix (heading)}
+Nīvaraṇiyadukaṃ: {the subject-to-hindrances dyad, 45th dyad of the matrix (heading)}
+Pacchājātāsevanapaccayā: {post-arising and repetition conditions together, by which a state arises (ablative)}
+Nīvaraṇanīvaraṇiyadukaṃ: {the hindrance-and-subject-to-hindrances dyad, 47th dyad of the matrix (heading)}
+Nīvaraṇanīvaraṇasampayuttadukaṃ: {the hindrance-and-associated-with-hindrances dyad, 48th dyad of the matrix (heading)}
+Nīvaraṇavippayuttanīvaraṇiyadukaṃ: {the dissociated-from-hindrances-but-subject-to-hindrances dyad, 49th dyad of the matrix (heading)}
+Parāmaṭṭhadukaṃ: {the subject-to-wrong-grasping dyad, 51st dyad of the matrix (heading)}
+Parāmāsasampayuttadukaṃ: {the associated-with-wrong-grasping dyad, 52nd dyad of the matrix (heading)}
+Parāmāsaparāmaṭṭhadukaṃ: {the wrong-grasping-and-subject-to-it dyad, 53rd dyad of the matrix (heading)}
+Parāmāsavippayuttaparāmaṭṭhadukaṃ: {the dissociated-from-wrong-grasping-but-subject-to-it dyad, 54th dyad of the matrix (heading)}
+Mahantaradukaṃ: {the major intermediate dyads, 55th to 68th dyads of the matrix (heading)}
+Sārammaṇadukaṃ: {the with-an-object dyad, 55th dyad of the matrix (heading)}
+Cetasikadukaṃ: {the mental-concomitant dyad, 57th dyad of the matrix (heading)}
+Cittasampayuttadukaṃ: {the associated-with-mind dyad, 58th dyad of the matrix (heading)}
+Cittasaṃsaṭṭhadukaṃ: {the conjoined-with-mind dyad, 59th dyad of the matrix (heading)}
+Cittasamuṭṭhānadukaṃ: {the produced-by-mind dyad, 60th dyad of the matrix (heading)}
+Cittasahabhūdukaṃ: {the coexisting-with-mind dyad, 61st dyad of the matrix (heading)}
+Cittānuparivattidukaṃ: {the accompanying-mind dyad, 62nd dyad of the matrix (heading)}
+Cittasaṃsaṭṭhasamuṭṭhānadukaṃ: {the conjoined-with-and-produced-by-mind dyad, 63rd dyad of the matrix (heading)}
+Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ: {the conjoined-produced-and-coexisting dyad, 64th dyad of the matrix (heading)}
+Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ: {the conjoined-produced-and-accompanying dyad, 65th dyad of the matrix (heading)}
+Ajjhattikadukaṃ: {the internal dyad, 66th dyad of the matrix (heading)}
+Upādādukaṃ: {the derived-matter dyad, 67th dyad of the matrix (heading)}
+Upādinnadukaṃ: {the kamma-born, clung-to dyad, 68th dyad of the matrix (heading)}
+Upādānagocchakaṃ: {the clinging cluster, the group of the 69th to 74th dyads of the matrix (heading)}
+Upādāniyadukaṃ: {the subject-to-clinging dyad, 70th dyad of the matrix (heading)}
+Upādānasampayuttadukaṃ: {the associated-with-clinging dyad, 71st dyad of the matrix (heading)}
+Upādānaupādāniyadukaṃ: {the clinging-and-subject-to-clinging dyad, 72nd dyad of the matrix (heading)}
+Upādānaupādānasampayuttadukaṃ: {the clinging-and-associated-with-clinging dyad, 73rd dyad of the matrix (heading)}
+Upādānavippayuttaupādāniyadukaṃ: {the dissociated-from-clinging-but-subject-to-it dyad, 74th dyad of the matrix (heading)}
+sampayuttaṃ: {conjoined with, associated (neuter sg. participle)}
+Sukhāya: {pleasant, of feeling (feminine instrumental sg.)}
+dukkhasahagataṃ: {accompanied by pain (neuter sg.)}
+kāyaviññāṇasahagataṃ: {accompanied by body-consciousness (neuter sg.)}
+kusalattikassa: {of the wholesome triad, in 'as the count of conditions of the wholesome triad' (genitive sg.)}
+dukkhāya: {painful, of feeling (feminine instrumental sg.)}
+catuviññāṇasahagataṃ: {accompanied by the four kinds of sense-consciousness (neuter sg.)}
+phalā: {from fruition, in phalā vuṭṭhahitvā 'having emerged from fruition' (ablative)}
+Ariyā: {the noble ones, the awakened (nominative pl.)}
+sampayuttacittasamaṅgissa: {of one possessed of a mind conjoined with it, in 'knows the mind of …' (genitive sg.)}
+sampayutto: {conjoined with, associated (masculine sg. participle)}
+dosaṃ: {hatred, aversion (accusative sg.)}
+Ākāsānañcāyatanaṃ: {the base of the infinity of space, the first immaterial attainment (nominative/accusative sg.)}
+Ākiñcaññāyatanaṃ: {the base of nothingness, the third immaterial attainment (nominative/accusative sg.)}
+sampayuttādhipati: {associated predominance, the predominant factor conjoined with a feeling (nominative)}
+upapatticittassa: {of the rebirth mind, the first mind of a new existence (genitive sg.)}
+Sukhasahagataṃ: {accompanied by pleasure, by happiness (neuter sg.)}
+vipākamanodhātuyā: {for the resultant mind element (feminine dative sg.)}
+vipākamanoviññāṇadhātu: {the resultant mind-consciousness element (nominative sg.)}
+nevasaññānāsaññāyatanaṃ: {the base of neither perception nor non-perception (nominative/accusative sg.)}
+Āvajjanā: {adverting, turning the mind to the object (nominative sg.)}
+Vipākamanodhātu: {the resultant mind element (nominative sg.)}
+jhānaṃ: {meditative absorption (nominative/accusative sg.)}
+maggaṃ: {the path, as a set of factors (accusative sg.)}
+mohaṃ: {delusion, bewilderment (accusative sg.)}
+patthanaṃ: {longing, wishing for (accusative sg.)}
+saddhāpañcamakesu: {in the five beginning with faith, an editorial note (locative pl.)}
+jīvitā: {from life, in jīvitā voropeti 'deprives of life' (ablative)}
+duṭṭhena: {with a corrupted, malicious mind (instrumental)}
+tathāgatassa: {of the Tathāgata, the Buddha (genitive sg.)}
+lohitaṃ: {blood, in 'draws the Tathāgata's blood' (accusative sg.)}
+dukkhasahagatassa: {accompanied by pain (genitive sg.)}
+saddhāya: {faith, confidence (feminine oblique sg.)}
+sukhasahagatassa: {accompanied by pleasure, by happiness (genitive sg.)}
+sajjhāyamaggena: {by the recitation sequence, following the recited order (instrumental)}
+gaṇitā: {counted, worked out in the counts (past participle)}
+nevavipākanavipākadhammadhammo: {neither resultant nor productive of results (masculine sg.)}
+Kilesagocchakaṃ: {the defilement cluster, the group of the 75th to 82nd dyads of the matrix (heading)}
+Kilesadukaṃ: {the defilement dyad, 75th dyad of the matrix (heading)}
+Saṃkilesikadukaṃ: {the subject-to-defilement dyad, 76th dyad of the matrix (heading)}
+Saṃkiliṭṭhadukaṃ: {the defiled dyad, 77th dyad of the matrix (heading)}
+Kilesasampayuttadukaṃ: {the associated-with-defilements dyad, 78th dyad of the matrix (heading)}
+Kilesasaṃkilesikadukaṃ: {the defilement-and-subject-to-defilement dyad, 79th dyad of the matrix (heading)}
+Kilesasaṃkiliṭṭhadukaṃ: {the defilement-and-defiled dyad, 80th dyad of the matrix (heading)}
+Kilesakilesasampayuttadukaṃ: {the defilement-and-associated-with-defilements dyad, 81st dyad of the matrix (heading)}
+Kilesavippayuttasaṃkilesikadukaṃ: {the dissociated-from-defilements-but-subject-to-defilement dyad, 82nd dyad of the matrix (heading)}
+Piṭṭhidukaṃ: {the final dyads, 83rd to 100th dyads of the matrix (heading)}
+Dassanenapahātabbahetukadukaṃ: {the roots-to-be-abandoned-by-seeing dyad, 85th dyad of the matrix (heading)}
+Bhāvanāyapahātabbahetukadukaṃ: {the roots-to-be-abandoned-by-development dyad, 86th dyad of the matrix (heading)}
+Savitakkadukaṃ: {the with-initial-thought dyad, 87th dyad of the matrix (heading)}
+Savicāradukaṃ: {the with-sustained-thought dyad, 88th dyad of the matrix (heading)}
+Sappītikadukaṃ: {the with-rapture dyad, 89th dyad of the matrix (heading)}
+Pītisahagatadukaṃ: {the accompanied-by-rapture dyad, 90th dyad of the matrix (heading)}
+Sukhasahagatadukaṃ: {the accompanied-by-pleasure dyad, 91st dyad of the matrix (heading)}
+Upekkhāsahagatadukaṃ: {the accompanied-by-equanimity dyad, 92nd dyad of the matrix (heading)}
+Kāmāvacaradukaṃ: {the sense-sphere dyad, 93rd dyad of the matrix (heading)}
+Rūpāvacaradukaṃ: {the fine-material-sphere dyad, 94th dyad of the matrix (heading)}
+Arūpāvacaradukaṃ: {the immaterial-sphere dyad, 95th dyad of the matrix (heading)}
+Pariyāpannadukaṃ: {the included dyad, included in the round of existence, 96th dyad of the matrix (heading)}
+Niyyānikadukaṃ: {the leading-out dyad, leading out to liberation, 97th dyad of the matrix (heading)}
+Niyatadukaṃ: {the fixed dyad, fixed in its result, 98th dyad of the matrix (heading)}
+Sauttaradukaṃ: {the surpassable dyad, 99th dyad of the matrix (heading)}
+Saraṇadukaṃ: {the with-conflict dyad, 100th dyad of the matrix (heading)}
+Vipākadhammadhammaṃ: {producing results, having the nature to bear fruit (neuter sg.)}
+dukatikapaṭṭhānaṃ: {the Conditional Relations of the dyads and triads, third division of the book (heading)}
+Hetuduka: {the root dyad, 1st dyad of the matrix, member of a combined heading (heading member)}
+# --- items (pada)
+Vipākadhammapadaṃ: {the productive-of-results item, heading of the series that starts from it (heading)}
+Anupādinnupādāniyapadaṃ: {the not-clung-to-but-subject-to-clinging item, heading of the series that starts from it (heading)}
+Anupādinnaanupādāniyapadaṃ: {the neither-clung-to-nor-subject-to-clinging item, heading of the series that starts from it (heading)}
+Saṃkiliṭṭhasaṃkilesikapadaṃ: {the defiled-and-subject-to-defilement item, heading of the series that starts from it (heading)}
+Asaṃkiliṭṭhasaṃkilesikapadaṃ: {the undefiled-yet-subject-to-defilement item, heading of the series that starts from it (heading)}
+Asaṃkiliṭṭhaasaṃkilesikapadaṃ: {the neither-defiled-nor-subject-to-defilement item, heading of the series that starts from it (heading)}
+Savitakkasavicārapadaṃ: {the with-initial-and-sustained-thought item, heading of the series that starts from it (heading)}
+Avitakkavicāramattapadaṃ: {the without-initial-thought-with-sustained-thought-only item, heading of its series (heading)}
+Avitakkaavicārapadaṃ: {the without-initial-and-sustained-thought item, heading of the series that starts from it (heading)}
+Dassanenapahātabbapadaṃ: {the to-be-abandoned-by-seeing item, heading of the series that starts from it (heading)}
+Bhāvanāyapahātabbapadaṃ: {the to-be-abandoned-by-development item, heading of the series that starts from it (heading)}
+Nevadassanenanabhāvanāyapahātabbapadaṃ: {the item to be abandoned neither by seeing nor by development, heading of its series (heading)}
+Dassanenapahātabbahetukapadaṃ: {the item with roots to be abandoned by seeing, heading of its series (heading)}
+Bhāvanāyapahātabbahetukapadaṃ: {the item with roots to be abandoned by development, heading of its series (heading)}
+Nevadassanenanabhāvanāyapahātabbahetukapadaṃ: {the item with roots to be abandoned neither by seeing nor by development, heading of its series (heading)}
+Ācayagāmipadaṃ: {the leading-to-accumulation item, heading of the series that starts from it (heading)}
+Apacayagāmipadaṃ: {the leading-to-dispersal item, heading of the series that starts from it (heading)}
+Nevācayagāmināpacayagāmipadaṃ: {the item leading neither to accumulation nor to dispersal, heading of its series (heading)}
+Sekkhapadaṃ: {the trainee item, of one still in training, heading of its series (heading)}
+Asekkhapadaṃ: {the beyond-training item, of one whose training is complete, heading of its series (heading)}
+Nevasekkhanāsekkhapadaṃ: {the item neither of a trainee nor of one beyond training, heading of its series (heading)}
+Mahaggatārammaṇapadaṃ: {the exalted-object item, heading of the series that starts from it (heading)}
+Appamāṇārammaṇapadaṃ: {the immeasurable-object item, heading of the series that starts from it (heading)}
+Hīnapadaṃ: {the inferior item, heading of the series that starts from it (heading)}
+Sammattaniyatapadaṃ: {the fixed-in-rightness item, heading of the series that starts from it (heading)}
+Maggahetukapadaṃ: {the item having the path as root, heading of the series that starts from it (heading)}
+Anāgatārammaṇapadaṃ: {the future-object item, heading of the series that starts from it (heading)}
+Paccuppannārammaṇapadaṃ: {the present-object item, heading of the series that starts from it (heading)}
+Ajjhattapadaṃ: {the internal item, what belongs to oneself, heading of its series (heading)}
+Bahiddhārammaṇapadaṃ: {the external-object item, heading of the series that starts from it (heading)}
+Anidassanasappaṭighapadaṃ: {the invisible-but-impinging item, heading of the series that starts from it (heading)}
+Anidassanaappaṭighapadaṃ: {the invisible-and-non-impinging item, heading of the series that starts from it (heading)}
+# --- dyad stems in combined headings
+Sahetukaduka: {the with-roots dyad, 2nd dyad of the matrix, member of a combined heading (heading member)}
+Hetusampayuttaduka: {the associated-with-roots dyad, 3rd dyad of the matrix, member of a combined heading (heading member)}
+Hetusahetukaduka: {the root-and-with-roots dyad, 4th dyad of the matrix, member of a combined heading (heading member)}
+Hetuhetusampayuttaduka: {the root-and-associated-with-roots dyad, 5th dyad of the matrix, member of a combined heading (heading member)}
+Nahetusahetukaduka: {the not-a-root-but-with-roots dyad, 6th dyad of the matrix, member of a combined heading (heading member)}
+Kusalākusalapadaṃ: {the wholesome and unwholesome items, heading of the series that starts from them (heading)}
+Sappaccayaduka: {the with-conditions dyad, 7th dyad of the matrix, member of a combined heading (heading member)}
+Saṅkhataduka: {the conditioned dyad, 8th dyad of the matrix, member of a combined heading (heading member)}
+Sanidassanaduka: {the visible dyad, 9th dyad of the matrix, member of a combined heading (heading member)}
+Sappaṭighaduka: {the impinging dyad, 10th dyad of the matrix, member of a combined heading (heading member)}
+Rūpīduka: {the material dyad, 11th dyad of the matrix, member of a combined heading (heading member)}
+Lokiyaduka: {the mundane dyad, 12th dyad of the matrix, member of a combined heading (heading member)}
+Kenaciviññeyyaduka: {the knowable-by-some dyad, 13th dyad of the matrix, member of a combined heading (heading member)}
+Āsavaduka: {the taint dyad, 14th dyad of the matrix, member of a combined heading (heading member)}
+Sāsavaduka: {the subject-to-taints dyad, 15th dyad of the matrix, member of a combined heading (heading member)}
+Āsavasampayuttaduka: {the associated-with-taints dyad, 16th dyad of the matrix, member of a combined heading (heading member)}
+Āsavasāsavaduka: {the taint-and-subject-to-taints dyad, 17th dyad of the matrix, member of a combined heading (heading member)}
+Āsavavippayuttasāsavaduka: {the dissociated-from-taints-but-subject-to-taints dyad, 19th dyad of the matrix, member of a combined heading (heading member)}
+Saññojanaduka: {the fetter dyad, 20th dyad of the matrix, member of a combined heading (heading member)}
+Saññojaniyaduka: {the subject-to-fetters dyad, 21st dyad of the matrix, member of a combined heading (heading member)}
+Saññojanasampayuttaduka: {the associated-with-fetters dyad, 22nd dyad of the matrix, member of a combined heading (heading member)}
+Saññojanasaññojaniyaduka: {the fetter-and-subject-to-fetters dyad, 23rd dyad of the matrix, member of a combined heading (heading member)}
+Saññojanasaññojanasampayuttaduka: {the fetter-and-associated-with-fetters dyad, 24th dyad of the matrix, member of a combined heading (heading member)}
+Saññojanavippayuttasaññojaniyaduka: {the dissociated-from-fetters-but-subject-to-fetters dyad, 25th dyad of the matrix, member of a combined heading (heading member)}
+Ganthaduka: {the tie dyad, 26th dyad of the matrix, member of a combined heading (heading member)}
+Ganthaniyaduka: {the subject-to-ties dyad, 27th dyad of the matrix, member of a combined heading (heading member)}
+Ganthasampayuttaduka: {the associated-with-ties dyad, 28th dyad of the matrix, member of a combined heading (heading member)}
+Ganthaganthaniyaduka: {the tie-and-subject-to-ties dyad, 29th dyad of the matrix, member of a combined heading (heading member)}
+Ganthaganthasampayuttaduka: {the tie-and-associated-with-ties dyad, 30th dyad of the matrix, member of a combined heading (heading member)}
+Ganthavippayuttaganthaniyaduka: {the dissociated-from-ties-but-subject-to-ties dyad, 31st dyad of the matrix, member of a combined heading (heading member)}
+Nīvaraṇaduka: {the hindrance dyad, 44th dyad of the matrix, member of a combined heading (heading member)}
+Nīvaraṇanīvaraṇiyaduka: {the hindrance-and-subject-to-hindrances dyad, 47th dyad of the matrix, member of a combined heading (heading member)}
+Nīvaraṇanīvaraṇasampayuttaduka: {the hindrance-and-associated-with-hindrances dyad, 48th dyad of the matrix, member of a combined heading (heading member)}
+Nīvaraṇavippayuttanīvaraṇiyaduka: {the dissociated-from-hindrances-but-subject-to-hindrances dyad, 49th dyad of the matrix, member of a combined heading (heading member)}
+Parāmaṭṭhaduka: {the subject-to-wrong-grasping dyad, 51st dyad of the matrix, member of a combined heading (heading member)}
+Parāmāsasampayuttaduka: {the associated-with-wrong-grasping dyad, 52nd dyad of the matrix, member of a combined heading (heading member)}
+Parāmāsaparāmaṭṭhaduka: {the wrong-grasping-and-subject-to-it dyad, 53rd dyad of the matrix, member of a combined heading (heading member)}
+Parāmāsavippayuttaparāmaṭṭhaduka: {the dissociated-from-wrong-grasping-but-subject-to-it dyad, 54th dyad of the matrix, member of a combined heading (heading member)}
+Sārammaṇaduka: {the with-an-object dyad, 55th dyad of the matrix, member of a combined heading (heading member)}
+Cetasikaduka: {the mental-concomitant dyad, 57th dyad of the matrix, member of a combined heading (heading member)}
+Cittasampayuttaduka: {the associated-with-mind dyad, 58th dyad of the matrix, member of a combined heading (heading member)}
+Cittasaṃsaṭṭhaduka: {the conjoined-with-mind dyad, 59th dyad of the matrix, member of a combined heading (heading member)}
+Cittasamuṭṭhānaduka: {the produced-by-mind dyad, 60th dyad of the matrix, member of a combined heading (heading member)}
+Cittasahabhūduka: {the coexisting-with-mind dyad, 61st dyad of the matrix, member of a combined heading (heading member)}
+Cittānuparivattiduka: {the accompanying-mind dyad, 62nd dyad of the matrix, member of a combined heading (heading member)}
+Cittasaṃsaṭṭhasamuṭṭhānaduka: {the conjoined-with-and-produced-by-mind dyad, 63rd dyad of the matrix, member of a combined heading (heading member)}
+Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka: {the conjoined-produced-and-coexisting dyad, 64th dyad of the matrix, member of a combined heading (heading member)}
+Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka: {the conjoined-produced-and-accompanying dyad, 65th dyad of the matrix, member of a combined heading (heading member)}
+Ajjhattikaduka: {the internal dyad, 66th dyad of the matrix, member of a combined heading (heading member)}
+Upādāduka: {the derived-matter dyad, 67th dyad of the matrix, member of a combined heading (heading member)}
+Upādinnaduka: {the kamma-born, clung-to dyad, 68th dyad of the matrix, member of a combined heading (heading member)}
+Upādāniyaduka: {the subject-to-clinging dyad, 70th dyad of the matrix, member of a combined heading (heading member)}
+Upādānasampayuttaduka: {the associated-with-clinging dyad, 71st dyad of the matrix, member of a combined heading (heading member)}
+Upādānaupādāniyaduka: {the clinging-and-subject-to-clinging dyad, 72nd dyad of the matrix, member of a combined heading (heading member)}
+Upādānaupādānasampayuttaduka: {the clinging-and-associated-with-clinging dyad, 73rd dyad of the matrix, member of a combined heading (heading member)}
+Upādānavippayuttaupādāniyaduka: {the dissociated-from-clinging-but-subject-to-it dyad, 74th dyad of the matrix, member of a combined heading (heading member)}
+Kilesaduka: {the defilement dyad, 75th dyad of the matrix, member of a combined heading (heading member)}
+Saṃkilesikaduka: {the subject-to-defilement dyad, 76th dyad of the matrix, member of a combined heading (heading member)}
+Saṃkiliṭṭhaduka: {the defiled dyad, 77th dyad of the matrix, member of a combined heading (heading member)}
+Kilesasampayuttaduka: {the associated-with-defilements dyad, 78th dyad of the matrix, member of a combined heading (heading member)}
+Kilesasaṃkiliṭṭhaduka: {the defilement-and-defiled dyad, 80th dyad of the matrix, member of a combined heading (heading member)}
+Kilesakilesasampayuttaduka: {the defilement-and-associated-with-defilements dyad, 81st dyad of the matrix, member of a combined heading (heading member)}
+Kilesavippayuttasaṃkilesikaduka: {the dissociated-from-defilements-but-subject-to-defilement dyad, 82nd dyad of the matrix, member of a combined heading (heading member)}
+Dassanenapahātabbahetukaduka: {the roots-to-be-abandoned-by-seeing dyad, 85th dyad of the matrix, member of a combined heading (heading member)}
+Bhāvanāyapahātabbahetukaduka: {the roots-to-be-abandoned-by-development dyad, 86th dyad of the matrix, member of a combined heading (heading member)}
+Savitakkaduka: {the with-initial-thought dyad, 87th dyad of the matrix, member of a combined heading (heading member)}
+Sappītikaduka: {the with-rapture dyad, 89th dyad of the matrix, member of a combined heading (heading member)}
+Upekkhāsahagataduka: {the accompanied-by-equanimity dyad, 92nd dyad of the matrix, member of a combined heading (heading member)}
+Pariyāpannaduka: {the included dyad, included in the round of existence, 96th dyad of the matrix, member of a combined heading (heading member)}
+Niyyānikaduka: {the leading-out dyad, leading out to liberation, 97th dyad of the matrix, member of a combined heading (heading member)}
+Niyataduka: {the fixed dyad, fixed in its result, 98th dyad of the matrix, member of a combined heading (heading member)}
+Sauttaraduka: {the surpassable dyad, 99th dyad of the matrix, member of a combined heading (heading member)}
+Saraṇaduka: {the with-conflict dyad, 100th dyad of the matrix, member of a combined heading (heading member)}
+# --- triads
+micchattattikaṃ: {the fixed-in-wrongness triad, 15th triad of the matrix (heading)}
+sanidassanattikaṃ: {the visible-and-impinging triad, 22nd triad of the matrix (heading)}
+Nevavipākanavipākadhammadhammaṃ: {neither resultant nor productive of results (neuter sg.)}
+tikadukapaṭṭhānaṃ: {the Conditional Relations of the triads and dyads, fourth division of the book (heading)}
+Kusalattika: {the wholesome triad, 1st triad of the matrix, member of a combined heading (heading member)}
+Nahetupadaṃ: {the not-a-root item, heading of the series that starts from it (heading)}
+Vedanāttika: {the feeling triad, 2nd triad of the matrix, member of a combined heading (heading member)}
+Vipākattika: {the resultant triad, 3rd triad of the matrix, member of a combined heading (heading member)}
+Upādinnattika: {the kamma-born, clung-to triad, 4th triad of the matrix, member of a combined heading (heading member)}
+Saṃkiliṭṭhattika: {the defiled triad, 5th triad of the matrix, member of a combined heading (heading member)}
+Vitakkattika: {the initial-thought triad, 6th triad of the matrix, member of a combined heading (heading member)}
+Pītittika: {the rapture triad, 7th triad of the matrix, member of a combined heading (heading member)}
+Dassanenapahātabbattika: {the abandoned-by-seeing triad, 8th triad of the matrix, member of a combined heading (heading member)}
+Dassanenapahātabbahetukattika: {the roots-abandoned-by-seeing triad, 9th triad of the matrix, member of a combined heading (heading member)}
+Ācayagāmittika: {the accumulation triad, 10th triad of the matrix, member of a combined heading (heading member)}
+Sekkhattika: {the trainee triad, 11th triad of the matrix, member of a combined heading (heading member)}
+Parittattika: {the limited triad, 12th triad of the matrix, member of a combined heading (heading member)}
+Parittārammaṇattika: {the limited-object triad, 13th triad of the matrix, member of a combined heading (heading member)}
+Hīnattika: {the inferior triad, 14th triad of the matrix, member of a combined heading (heading member)}
+Micchattaniyatattika: {the fixed-in-wrongness triad, 15th triad of the matrix, member of a combined heading (heading member)}
+Maggārammaṇattika: {the path-object triad, 16th triad of the matrix, member of a combined heading (heading member)}
+Uppannattika: {the arisen triad, 17th triad of the matrix, member of a combined heading (heading member)}
+Atītattika: {the past triad, 18th triad of the matrix, member of a combined heading (heading member)}
+Atītārammaṇattika: {the past-object triad, 19th triad of the matrix, member of a combined heading (heading member)}
+Ajjhattattika: {the internal triad, 20th triad of the matrix, member of a combined heading (heading member)}
+Ajjhattārammaṇattika: {the internal-object triad, 21st triad of the matrix, member of a combined heading (heading member)}
+Hetuvippayuttapadaṃ: {the dissociated-from-roots item, heading of the series that starts from it (heading)}
+Sahetukanahetupadaṃ: {the with-roots-but-not-a-root item, heading of the series that starts from it (heading)}
+Hetusampayuttanahetupadaṃ: {the associated-with-roots-but-not-a-root item, heading of its series (heading)}
+Nahetuahetukapadaṃ: {the not-a-root-and-rootless item, heading of the series that starts from it (heading)}
+Anāsavapadaṃ: {the free-of-taints item, not an object of the taints, heading of its series (heading)}
+saññojanādidukāni: {the fetter dyad and the rest, the following dyads of the matrix (heading)}
+Hetusahajātapaccayādi: {the root and co-arising conditions and the rest, in a combination heading (heading)}
+Araṇapadaṃ: {the without-conflict item, heading of the series that starts from it (heading)}
+Dassanattika: {the abandoned-by-seeing triad, 8th triad of the matrix, member of a combined heading (heading member)}
+Dassanahetuttika: {the roots-abandoned-by-seeing triad, 9th triad of the matrix, member of a combined heading (heading member)}
+Sanidassanattika: {the visible-and-impinging triad, 22nd triad of the matrix, member of a combined heading (heading member)}
+Vipākañca: {and resultant, born as the result of action, with enclitic -ñca (neuter sg.)}
+nevavipākanavipākadhammadhammañca: {and neither resultant nor productive of results, with enclitic -ñca (neuter sg.)}
+Vipākadhammadhammañca: {and producing results, having the nature to bear fruit, with enclitic -ñca (neuter sg.)}
+vipākadhammadhamme: {producing results, having the nature to bear fruit (masculine accusative pl.)}
+ahetuke: {without roots, rootless (masculine accusative pl.)}
+dvādasa: {the number twelve (numeral)}
+vipākadhammadhammo: {producing results, having the nature to bear fruit (masculine sg.)}
+cakkhuviññāṇasahagataṃ: {accompanied by eye-consciousness (neuter sg.)}
+sota: {the ear, the hearing organ (stem and compound member)}
+ghāna: {the nose, the smelling organ (stem and compound member)}
+jivhā: {the tongue, the tasting organ (stem and compound member)}
+kāya: {the physical body, the bodily sense (stem and compound member)}
+kusalattike: {in the wholesome triad, in 'as the count in the wholesome triad' (locative)}
+vibhajitabbāni: {should be analysed, set out separately (gerundive)}
+nevavipākanavipākadhammadhammassa: {neither resultant nor productive of results (genitive sg.)}
+kusalākusale: {wholesome and unwholesome, in kusalākusale niruddhe 'when the wholesome or unwholesome has ceased' (locative)}
+vipākadhammadhammassa: {producing results, having the nature to bear fruit (genitive sg.)}
+assādenti: {they relish, enjoy the taste of (3rd pl. present)}
+abhinandanti: {they delight in (3rd pl. present)}
+vipākadhammadhammacittasamaṅgissa: {of one possessed of a mind productive of results (genitive sg.)}
+nevasaññānāsaññāyatanakusalassa: {of the wholesome mind of the base of neither perception nor non-perception (genitive sg.)}
+dhammassa: {of a phenomenon, a state (genitive sg.)}
+vipākādhipati: {resultant predominance, predominance of a resultant kind (nominative)}
+vipākadhammadhammādhipati: {predominance of a kind productive of results (nominative)}
+Pañcaviññāṇaṃ: {the fivefold sense-consciousness, the five kinds of consciousness (nominative sg.)}
+sekkhānaṃ: {of the trainees, those still in training (genitive pl.)}
+viññāṇānaṃ: {of the kinds of consciousness, in 'the five kinds of consciousness' (genitive pl.)}
+cakkhāyatanañca: {and the eye sense base, with enclitic -ñca (nominative/accusative sg.)}
+kāyikaṃ: {bodily, physical (neuter sg. adjective)}
+jhānassa: {of the meditative absorption (genitive sg.)}
+tatiyo: {the third, in 'the third path' (ordinal, masculine sg.)}
+dukkhaṃ: {pain, suffering (nominative/accusative sg.)}
+utuṃ: {temperature, climate as a supporting condition (accusative sg.)}
+saddaṃ: {sound as object, what is heard (accusative sg.)}
+kātabbā: {should be done, is to be worked out or included (gerundive)}
+cittasamuṭṭhānānañca: {and produced by mind, said of matter, with enclitic -ñca (genitive pl.)}
+cakkhuviññāṇasahagatānaṃ: {accompanied by eye-consciousness (genitive pl.)}
+kāyaviññāṇasahagatānaṃ: {accompanied by body-consciousness (genitive pl.)}
+jhānaṅgā: {the jhāna factors, constituents of the absorption (nominative pl.)}
+maggaṅgā: {the path factors, constituents of the path (nominative pl.)}
+rūpajīvitindriyañca: {and the material life faculty, with enclitic -ñca (nominative sg.)}
+vigataṃ: {disappearance condition, named in an editorial note (nominative sg.)}
+avigataṃ: {non-disappearance condition, named in an editorial note (nominative sg.)}
+soḷasa: {the number sixteen (numeral)}
+cuddasa: {the number fourteen (numeral)}
+# --- upādinna / saṃkiliṭṭha / vitakka families
+Upādinnupādāniyaṃ: {clung-to by kamma and subject to clinging (neuter sg.)}
+upādinnupādāniyo: {clung-to by kamma and subject to clinging (masculine sg.)}
+anupādinnupādāniyo: {not clung-to by kamma but subject to clinging (masculine sg.)}
+Anupādinnupādāniyaṃ: {not clung-to by kamma but subject to clinging (neuter sg.)}
+Anupādinnaanupādāniyaṃ: {neither clung-to by kamma nor subject to clinging (neuter sg.)}
+anupādinnaanupādāniyo: {neither clung-to by kamma nor subject to clinging (masculine sg.)}
+Anupādinnupādāniyañca: {and not clung-to by kamma but subject to clinging, with enclitic -ñca (neuter sg.)}
+tikatikapaṭṭhānaṃ: {the Conditional Relations of the triads with the triads, fifth division of the book (heading)}
+dassanattikaṃ: {the abandoned-by-seeing triad, 8th triad of the matrix (heading)}
+Micchattattika: {the fixed-in-wrongness triad, 15th triad of the matrix, short name in a combined heading (heading member)}
+dukadukapaṭṭhānaṃ: {the Conditional Relations of the dyads with the dyads, sixth division of the book (heading)}
+Cūḷantaraduka: {the minor intermediate dyads, 7th to 13th dyads of the matrix, member of a combined heading (heading member)}
+Āsavagocchaka: {the taint cluster, the 14th to 19th dyads of the matrix, member of a combined heading (heading member)}
+Saññojanādiduka: {the fetter dyad and the rest, member of a combined heading (heading member)}
+Mahantaraduka: {the major intermediate dyads, 55th to 68th dyads of the matrix, member of a combined heading (heading member)}
+Upādānagocchaka: {the clinging cluster, the 69th to 74th dyads of the matrix, member of a combined heading (heading member)}
+Kilesagocchaka: {the defilement cluster, the 75th to 82nd dyads of the matrix, member of a combined heading (heading member)}
+Piṭṭhiduka: {the final dyads, 83rd to 100th dyads of the matrix, member of a combined heading (heading member)}
+anupādinnaanupādāniye: {neither clung-to by kamma nor subject to clinging (masculine accusative pl.)}
+Dhammapaccanīye: {in the negative method by phenomena, division of the book (locative, heading)}
+Dassanahetuttikaṃ: {the roots-abandoned-by-seeing triad, 9th triad of the matrix (heading)}
+Hetusahetukadukādi: {the root-and-with-roots dyad and the rest (heading)}
+Cūḷantaradukāni: {the minor intermediate dyads, the 7th to 13th dyads as a set (heading)}
+saññojanādigocchakāni: {the fetter cluster and the clusters that follow it (heading)}
+mahantaradukāni: {the major intermediate dyads, the 55th to 68th dyads as a set (heading)}
+hetvādidukāni: {the root dyad and the dyads that follow it (heading)}
+sahetukādidukāni: {the with-roots dyad and the dyads that follow it (heading)}
+Dhammānulomapaccanīye: {in the positive-negative method by phenomena, division of the book (locative, heading)}
+Pītisahagataduka: {the accompanied-by-rapture dyad, 90th dyad of the matrix, member of a combined heading (heading member)}
+Sukhasahagataduka: {the accompanied-by-pleasure dyad, 91st dyad of the matrix, member of a combined heading (heading member)}
+saññojanādigocchakaṃ: {the fetter cluster and the rest (heading)}
+mahantaradukādi: {the major intermediate dyads and the rest (heading)}
+ekā: {one, a single question, in the counts (feminine nominative sg.)}
+Dhammapaccanīyānulome: {in the negative-positive method by phenomena, division of the book (locative, heading)}
+Saññojanādichagocchakāni: {the six clusters beginning with the fetter cluster (heading)}
+Piṭṭhidukāni: {the final dyads, the 83rd to 100th dyads as a set (heading)}
+āsavagocchakāni: {the taint cluster and its dyads, given as a set (heading)}
+atītattikadvayaṃ: {the pair of past triads, the 18th and 19th triads together (heading)}
+ajjhattattikadvayaṃ: {the pair of internal triads, the 20th and 21st triads together (heading)}
+gaṇetabbā: {should be counted, is to be reckoned (gerundive)}
+anupādinnupādāniyā: {not clung-to by kamma but subject to clinging (nominative pl.)}
+anupādinnaanupādāniyā: {neither clung-to by kamma nor subject to clinging (nominative pl.)}
+Upādinnupādāniyañca: {and clung-to by kamma and subject to clinging, with enclitic -ñca (neuter sg.)}
+upādinnupādāniye: {clung-to by kamma and subject to clinging (masculine accusative pl.)}
+Paccayavāropi: {the section on conditions too, with enclitic -pi (heading and nominative sg.)}
+Saṃsaṭṭhavāropi: {the conjoined section too, with enclitic -pi (heading and nominative sg.)}
+sampayuttavāropi: {the association section too, with enclitic -pi (heading and nominative sg.)}
+anupādinnupādāniyassa: {not clung-to by kamma but subject to clinging (genitive sg.)}
+upādinnupādāniyassa: {clung-to by kamma and subject to clinging (genitive sg.)}
+upādinnupādāniyā: {clung-to by kamma and subject to clinging (nominative pl.)}
+anupādinnaanupādāniyassa: {neither clung-to by kamma nor subject to clinging (genitive sg.)}
+dukkhassa: {of pain, of suffering (genitive sg.)}
+sutassa: {of learning, what has been heard and learnt (genitive sg.)}
+cāgassa: {of generosity, giving up (genitive sg.)}
+paññāya: {of wisdom, discernment (feminine genitive sg.)}
+rāgassa: {of lust, passion (genitive sg.)}
+mānassa: {of conceit, pride (genitive sg.)}
+diṭṭhiyā: {of view, wrong view (feminine genitive sg.)}
+niyatamicchādiṭṭhi: {fixed wrong view, one certain in its result (nominative sg.)}
+maggo: {the path, as a set of factors (nominative sg.)}
+rūpāyatanañca: {and the visible-form sense base, the object of the eye, with enclitic -ñca (nominative/accusative sg.)}
+tevīsa: {the number twenty-three (numeral)}
+Saṃkiliṭṭhasaṃkilesikaṃ: {defiled and subject to defilement (neuter sg.)}
+asaṃkiliṭṭhasaṃkilesiko: {undefiled yet subject to defilement (masculine sg.)}
+Asaṃkiliṭṭhaasaṃkilesikaṃ: {neither defiled nor subject to defilement (neuter sg.)}
+saṃkiliṭṭhasaṃkilesike: {defiled and subject to defilement (masculine accusative pl.)}
+Asaṃkiliṭṭhasaṃkilesikaṃ: {undefiled yet subject to defilement (neuter sg.)}
+Saṃkiliṭṭhasaṃkilesiko: {defiled and subject to defilement (masculine sg.)}
+asaṃkiliṭṭhasaṃkilesikassa: {undefiled yet subject to defilement (genitive sg.)}
+Asaṃkiliṭṭhaasaṃkilesiko: {neither defiled nor subject to defilement (masculine sg.)}
+saṃkiliṭṭhasaṃkilesikacittasamaṅgissa: {of one possessed of a mind defiled and subject to defilement (genitive sg.)}
+saṃkiliṭṭhasaṃkilesikassa: {defiled and subject to defilement (genitive sg.)}
+asaṃkiliṭṭhasaṃkilesikādhipati: {predominance that is undefiled yet subject to defilement (nominative)}
+asaṃkiliṭṭhaasaṃkilesikassa: {neither defiled nor subject to defilement (genitive sg.)}
+patthanā: {longing, wishing for (nominative sg.)}
+Savitakkasavicāraṃ: {with initial and sustained application of mind (neuter sg.)}
+avitakkavicāramatto: {without initial application, with sustained application only (masculine sg.)}
+vitakko: {initial application of mind to the object (nominative sg.)}
+avitakkaavicāro: {without initial and sustained thought (masculine sg.)}
+Avitakkavicāramattaṃ: {without initial application, with sustained application only (neuter sg.)}
+savitakkasavicāro: {with initial and sustained application of mind (masculine sg.)}
+vitakkaṃ: {initial application of mind to the object (accusative sg.)}
+vicāro: {sustained examination of the object (nominative sg.)}
+Avitakkaavicāraṃ: {without initial and sustained thought, said of a mind (neuter sg.)}
+vicāraṃ: {sustained examination of the object (accusative sg.)}
+Savitakkasavicārañca: {and with initial and sustained application of mind, with enclitic -ñca (neuter sg.)}
+vitakkañca: {and initial application of mind, with enclitic -ñca (accusative sg.)}
+vicārañca: {and sustained examination of the object, with enclitic -ñca (accusative sg.)}
+avasesā: {the remaining ones, the rest (nominative pl.)}
+vīsatipaccayā: {twenty conditions, in a count note (nominative pl.)}
+vibhajitabbā: {should be analysed, set out separately (gerundive)}
+sattatiṃsa: {the number thirty-seven (numeral)}
+ekavīsa: {the number twenty-one (numeral)}
+aṭṭhavīsa: {the number twenty-eight (numeral)}
+vicikicchāsahagataṃ: {accompanied by doubt, said of delusion (neuter sg.)}
+uddhaccasahagataṃ: {accompanied by restlessness, said of delusion (neuter sg.)}
+Avitakkavicāramattañca: {and without initial application, with sustained application only, with enclitic -ñca (neuter sg.)}
+savitakkasavicāre: {with initial and sustained application of mind (masculine accusative pl.)}
+avitakkavicāramatte: {without initial application, with sustained application only (masculine accusative pl.)}
+suddhikaṃ: {the single-condition section, the conditions taken singly (neuter sg.)}
+gacchantena: {taking along, combining with, in an editorial note (instrumental present participle)}
+dassetabbo: {should be shown, is to be pointed out (gerundive)}
+tettiṃsa: {the number thirty-three (numeral)}
+bāvīsa: {the number twenty-two (numeral)}
+paṭiccavārasadisā: {like the dependence section, in the instructions to fill in (nominative pl.)}
+paṭhamaudāharaṇe: {in the first example (locative)}
+Paccanīye: {in the negative method, counting with the conditions absent (locative, heading)}
+sattasu: {in seven, in 'in seven places' (locative pl. numeral)}
+ṭhānesu: {in places, positions in the list of questions (locative pl.)}
+uddharitabbā: {should be extracted, drawn out (gerundive)}
+cittasamuṭṭhānā: {originated by mind (nominative pl.)}
+āgacchati: {comes, turns up in a question (3rd sg. present)}
+Naanantarampi: {in the absence of the proximity condition too, with enclitic -pi, in a count note (negative noun)}
+Naāhāra: {absence of the nutriment condition, bare negative stem in headings (stem)}
+naindriya: {absence of the faculty condition, bare negative stem in headings (stem): क्षमता-कारण का अभाव; without the faculty condition, bare negative stem in a chain of negatives (stem): क्षमता-कारण के बिना}
+namagga: {absence of the path condition, bare negative stem in headings (stem): मार्ग-कारण का अभाव; without the path condition, bare negative stem in a chain of negatives (stem): मार्ग-कारण के बिना}
+avitakkavicāramattassa: {without initial application, with sustained application only (genitive sg.)}
+avitakkaavicārassa: {without initial and sustained thought (genitive sg.)}
+savitakkasavicārassa: {with initial and sustained application of mind (genitive sg.)}
+vicārassa: {of sustained examination of the object (genitive sg.)}
+vitakkassa: {of initial application of mind to the object (genitive sg.)}

@@ -1,0 +1,266 @@
+	0	obj	[1, 1]	Naupādinnupādāniyaṃ nakusalaṃ dhammaṃ paṭicca
+5-05-paccaniya-dukatika.md	143	obj	[1, 0]	naanāsavaṃ kusalaṃ dhammaṃ paṭicca
+5-05-paccaniya-dukatika.md	147	obj	[0, 1, 1]	Āsavavippayuttaṃ nasāsavaṃ nakusalaṃ dhammaṃ paṭicca
+5-05-paccaniya-dukatika.md	147	obj	[0, 1, 1]	āsavavippayuttaṃ naanāsavaṃ nakusalaṃ dhammaṃ paṭicca
+5-05-paccaniya-dukatika.md	173	obj	[0, 1, 1]	Kilesavippayuttaṃ nasaṃkilesikaṃ nakusalaṃ dhammaṃ paṭicca
+5-05-paccaniya-dukatika.md	173	obj	[0, 1, 1]	kilesavippayuttaṃ naasaṃkilesikaṃ nakusalaṃ dhammaṃ paṭicca
+5-06-paccaniya-tikaduka.md	60	obj	[1, 0, 1]	Nakusalaṃ āsavavippayuttaṃ nasāsavaṃ dhammaṃ paṭicca
+5-06-paccaniya-tikaduka.md	61	obj	[1, 0, 1]	Nakusalaṃ āsavavippayuttaṃ naanāsavaṃ dhammaṃ paṭicca
+5-07-paccaniya-tikatika.md	147	obj	[1, 0]	Nasanidassanasappaṭighaṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca
+5-07-paccaniya-tikatika.md	165	obj	[0, 1]	sanidassanasappaṭighaṃ namahaggatārammaṇaṃ dhammaṃ paṭicca
+5-08-paccaniya-dukaduka.md	50	obj	[1, 0, 1]	Nahetuṃ āsavavippayuttaṃ nasāsavaṃ dhammaṃ paṭicca
+5-08-paccaniya-dukaduka.md	50	obj	[1, 0, 1]	nahetuṃ āsavavippayuttaṃ naanāsavaṃ dhammaṃ paṭicca
+5-08-paccaniya-dukaduka.md	106	obj	[0, 1, 1]	āsavavippayuttaṃ nasāsavaṃ nahetuṃ dhammaṃ paṭicca
+5-08-paccaniya-dukaduka.md	106	obj	[0, 1, 1]	āsavavippayuttaṃ naanāsavaṃ nahetuṃ dhammaṃ paṭicca
+5-09-anulomapaccaniya-tika.md	226	src	[1]	Naanidassanaappaṭigho dhammo
+5-10-anulomapaccaniya-duka.md	7	obj	[1]	Nahetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	7	obj	[1]	Nahetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	7	obj	[1]	Nahetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	8	obj	[0, 1]	Hetuñca nahetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	8	obj	[0, 1]	Hetuñca nahetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	8	obj	[0, 1]	Hetuñca nahetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	13	src	[1]	Nahetu dhammo
+5-10-anulomapaccaniya-duka.md	14	src	[0, 1]	Hetu ca nahetu ca dhammā
+5-10-anulomapaccaniya-duka.md	31	obj	[0, 1]	Sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	31	obj	[0, 1]	Sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	31	obj	[0, 1]	Sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	32	obj	[0, 0, 0, 1]	Hetuñceva sahetukañca sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	32	obj	[0, 0, 0, 1]	Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	32	obj	[0, 0, 0, 1]	Hetuñceva sahetukañca sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	37	obj	[0, 1]	Hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	37	obj	[0, 1]	Hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	37	obj	[0, 1]	Hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	38	obj	[0, 0, 0, 1]	Hetuñceva hetusampayuttañca hetusampayuttañceva na ca hetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	38	obj	[0, 0, 0, 1]	Hetuñceva hetusampayuttañca hetusampayuttañceva na ca hetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	38	obj	[0, 0, 0, 1]	Hetuñceva hetusampayuttañca hetusampayuttañceva na ca hetuñca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	42	obj	[1, 0]	Nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	73	obj	[1]	Nakenaci viññeyyaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	74	obj	[0, 1]	Kenaci viññeyyañca nakenaci viññeyyañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	79	obj	[1]	Noāsavaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	79	obj	[1]	Noāsavaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	79	obj	[1]	Noāsavaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	80	obj	[0, 1]	Āsavañca noāsavañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	80	obj	[0, 1]	Āsavañca noāsavañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	80	obj	[0, 1]	Āsavañca noāsavañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	96	obj	[0, 1]	Sāsavañceva no ca āsavaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	97	obj	[0, 0, 0, 1]	Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	101	obj	[0, 1]	Āsavasampayuttañceva no ca āsavaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	102	obj	[0, 0, 0, 1]	Āsavañceva āsavasampayuttañca āsavavippayuttañceva no ca āsavañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	105	res	[0, 1]	āsavavippayutto naanāsavo dhammo
+5-10-anulomapaccaniya-duka.md	106	res	[0, 1]	āsavavippayutto naanāsavo dhammo
+5-10-anulomapaccaniya-duka.md	107	res	[0, 2]	āsavavippayutto nanoanāsavo dhammo
+5-10-anulomapaccaniya-duka.md	125	obj	[1]	Nocittaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	126	obj	[0, 1]	Cittañca nocittañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	138	obj	[1]	Noupādā dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	139	obj	[0, 1]	Upādā ca noupādā ca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	151	obj	[1]	Nadassanena pahātabbaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	152	obj	[0, 1]	Dassanena pahātabbañca nadassanena pahātabbañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	156	obj	[1]	Nabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	157	obj	[0, 1]	Bhāvanāya pahātabbañca nabhāvanāya pahātabbañca dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	173	obj	[1]	Napītisahagataṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	175	obj	[1]	Nasukhasahagataṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	177	obj	[1]	Naupekkhāsahagataṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	180	obj	[1]	Nakāmāvacaraṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	182	obj	[1]	Narūpāvacaraṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	184	obj	[1]	Naarūpāvacaraṃ dhammaṃ paṭicca
+5-10-anulomapaccaniya-duka.md	185	obj	[0, 1]	Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	5	obj	[1, 0]	Nahetuṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	5	obj	[0, 0, 1, 0]	Hetuṃ kusalañca nahetuṃ kusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	10	src	[1, 0]	Nahetu kusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	11	src	[0, 0, 1, 0]	Hetu kusalo ca nahetu kusalo ca dhammā
+5-11-anulomapaccaniya-dukatika.md	16	obj	[1, 0]	Nahetuṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	17	obj	[0, 0, 1, 0]	Hetuṃ akusalañca nahetuṃ akusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	21	src	[1, 0]	Nahetu akusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	22	src	[0, 0, 1, 0]	Hetu akusalo ca nahetu akusalo ca dhammā
+5-11-anulomapaccaniya-dukatika.md	26	obj	[1, 0]	Nahetuṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	29	obj	[1, 0]	Nahetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	30	obj	[0, 0, 1, 0]	Hetuṃ sukhāya vedanāya sampayuttañca nahetuṃ sukhāya vedanāya sampayuttañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	37	obj	[1, 0]	Nahetuṃ nevavipākanavipākadhammadhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	40	obj	[1, 0]	Nahetuṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	44	obj	[1, 0]	Nahetuṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	49	obj	[1, 0]	Nahetuṃ avitakkaavicāraṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	57	obj	[1, 0]	Nahetuṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	65	obj	[1, 0]	Nahetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	69	obj	[1, 0]	Nahetuṃ nevasekkhanāsekkhaṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	71	obj	[1, 0]	Nahetuṃ parittaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	80	obj	[1, 0]	Nahetuṃ majjhimaṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	85	obj	[1, 0]	Nahetuṃ aniyataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	104	src	[1, 0]	Nahetu sanidassanasappaṭigho dhammo
+5-11-anulomapaccaniya-dukatika.md	104	src	[1, 0]	nahetu sanidassanasappaṭigho dhammo
+5-11-anulomapaccaniya-dukatika.md	105	obj	[1, 0]	Nahetuṃ anidassanasappaṭighaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	106	obj	[1, 0]	Nahetuṃ anidassanaappaṭighaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	106	obj	[0, 0, 1, 0]	Hetuṃ anidassanaappaṭighañca nahetuṃ anidassanaappaṭighañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	117	src	[0, 1, 0]	Sahetuko ceva na ca hetu kusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	117	src	[0, 1, 0]	Sahetuko ceva na ca hetu kusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	117	src	[0, 1, 0]	Sahetuko ceva na ca hetu kusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	118	src	[0, 0, 0, 0, 1, 0]	Hetu ceva sahetuko kusalo ca sahetuko ceva na ca hetu kusalo ca dhammā
+5-11-anulomapaccaniya-dukatika.md	118	src	[0, 0, 0, 0, 1, 0]	Hetu ceva sahetuko kusalo ca sahetuko ceva na ca hetu kusalo ca dhammā
+5-11-anulomapaccaniya-dukatika.md	118	src	[0, 0, 0, 0, 1, 0]	Hetu ceva sahetuko kusalo ca sahetuko ceva na ca hetu kusalo ca dhammā
+5-11-anulomapaccaniya-dukatika.md	123	obj	[1, 0, 0]	Nahetuṃ sahetukaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	124	obj	[1, 0, 0]	Nahetuṃ sahetukaṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	125	obj	[1, 0, 0]	Nahetuṃ ahetukaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	151	obj	[1, 0]	Noāsavaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	153	obj	[1, 0]	Noāsavaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	163	obj	[0, 1, 0]	Sāsavañceva no ca āsavaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	165	obj	[0, 1, 0]	Sāsavañceva no ca āsavaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	168	res	[0, 1, 1]	āsavavippayutto naanāsavo nakusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	169	res	[0, 1, 1]	āsavavippayutto naanāsavo nakusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	170	res	[0, 1, 1]	āsavavippayutto naanāsavo naakusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	171	res	[0, 1, 1]	āsavavippayutto nasāsavo naabyākato dhammo
+5-11-anulomapaccaniya-dukatika.md	171	res	[0, 1, 1]	āsavavippayutto naanāsavo naabyākato dhammo
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	Nosaññojanaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	noganthaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	nooghaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	noyogaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	nonīvaraṇaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	174	obj	[1, 0]	noparāmāsaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	182	obj	[1, 0]	Nocittaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	215	obj	[1, 0]	Noupādā kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	216	obj	[1, 0]	Noupādā akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	222	obj	[1, 0]	Noupādānaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	224	obj	[1, 0]	Nokilesaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	226	obj	[1, 0]	Nadassanena pahātabbaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	227	obj	[1, 0]	Nadassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	228	obj	[1, 0]	Nadassanena pahātabbaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	230	obj	[1, 0]	Nabhāvanāya pahātabbaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	232	obj	[1, 0]	Nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	234	obj	[1, 0]	Nadassanena pahātabbahetukaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	236	obj	[1, 0]	Nadassanena pahātabbahetukaṃ abyākataṃ dhammaṃ paccayā
+5-11-anulomapaccaniya-dukatika.md	238	obj	[1, 0]	Nabhāvanāya pahātabbahetukaṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	248	res	[1, 0]	nasappītiko akusalo dhammo
+5-11-anulomapaccaniya-dukatika.md	253	obj	[1, 0]	Nasukhasahagataṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	253	obj	[0, 0, 1, 0]	Sukhasahagataṃ kusalañca nasukhasahagataṃ kusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	254	obj	[1, 0]	Nasukhasahagataṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	254	obj	[0, 0, 1, 0]	Sukhasahagataṃ akusalañca nasukhasahagataṃ akusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	256	obj	[1, 0]	Naupekkhāsahagataṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	256	obj	[0, 0, 1, 0]	Upekkhāsahagataṃ kusalañca naupekkhāsahagataṃ kusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	257	obj	[1, 0]	Naupekkhāsahagataṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	257	obj	[0, 0, 1, 0]	Upekkhāsahagataṃ akusalañca naupekkhāsahagataṃ akusalañca dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	259	obj	[1, 0]	Nakāmāvacaraṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	262	obj	[1, 0]	Narūpāvacaraṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	263	obj	[1, 0]	Narūpāvacaraṃ akusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	265	obj	[1, 0]	Naarūpāvacaraṃ kusalaṃ dhammaṃ paṭicca
+5-11-anulomapaccaniya-dukatika.md	266	obj	[1, 0]	Naarūpāvacaraṃ akusalaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	21	obj	[0, 1]	Kusalaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	21	obj	[0, 1]	Kusalaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	45	obj	[0, 0, 1]	Kusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	45	obj	[0, 0, 1]	Kusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	45	obj	[0, 0, 1]	Kusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	46	obj	[0, 0, 1]	Akusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	46	obj	[0, 0, 1]	Akusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	46	obj	[0, 0, 1]	Akusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	47	obj	[0, 0, 1]	Abyākataṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	47	obj	[0, 0, 1]	Abyākataṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	47	obj	[0, 0, 1]	Abyākataṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	52	obj	[0, 0, 1]	Kusalaṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	52	obj	[0, 0, 1]	Kusalaṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	52	obj	[0, 0, 1]	Kusalaṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	53	obj	[0, 0, 1]	Akusalaṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	55	obj	[0, 1, 0]	Kusalaṃ nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	55	obj	[0, 1, 0]	Kusalaṃ nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	55	obj	[0, 1, 0]	Kusalaṃ nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	57	obj	[0, 1, 0]	Abyākataṃ nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	58	obj	[0, 1, 0]	Abyākataṃ nahetuṃ ahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	58	obj	[0, 1, 0]	Abyākataṃ nahetuṃ ahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	58	obj	[0, 1, 0]	Abyākataṃ nahetuṃ ahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	82	obj	[0, 1]	Akusalaṃ noāsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	82	obj	[0, 1]	Akusalaṃ noāsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	87	obj	[0, 0, 1]	Akusalaṃ sāsavañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	89	obj	[0, 0, 1]	Akusalaṃ āsavasampayuttañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	103	obj	[0, 1]	Kusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	103	obj	[0, 1]	Kusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	103	obj	[0, 1]	Kusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	104	obj	[0, 1]	Akusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	104	obj	[0, 1]	Akusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	104	obj	[0, 1]	Akusalaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	123	obj	[0, 1]	Kusalaṃ nocittasamuṭṭhānaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	124	obj	[0, 1]	Akusalaṃ nocittasamuṭṭhānaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	125	obj	[0, 1]	Abyākataṃ nocittasamuṭṭhānaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	130	obj	[0, 1]	Kusalaṃ nocittasahabhuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	131	obj	[0, 1]	Akusalaṃ nocittasahabhuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	132	obj	[0, 1]	Abyākataṃ nocittasahabhuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	135	obj	[0, 1]	Kusalaṃ nocittānuparivattiṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	140	obj	[0, 1]	Kusalaṃ noupādā dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	147	obj	[0, 1]	Abyākataṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	147	obj	[0, 1]	Abyākataṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	147	obj	[0, 1]	Abyākataṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	149	obj	[0, 1]	Abyākataṃ nabhāvanāya pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	151	obj	[0, 1]	Akusalaṃ nadassanena pahātabbahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	152	obj	[0, 1]	Abyākataṃ nadassanena pahātabbahetukaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	154	obj	[0, 1]	Akusalaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	162	obj	[0, 1]	Kusalaṃ napītisahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	164	obj	[0, 1]	Kusalaṃ nasukhasahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	166	obj	[0, 1]	Kusalaṃ naupekkhāsahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	168	obj	[0, 1]	Kusalaṃ nakāmāvacaraṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	170	obj	[0, 1]	Abyākataṃ narūpāvacaraṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	172	obj	[0, 1]	Abyākataṃ naarūpāvacaraṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	187	obj	[0, 1]	Sukhāya vedanāya sampayuttaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	187	obj	[0, 1]	Sukhāya vedanāya sampayuttaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	187	obj	[0, 1]	Sukhāya vedanāya sampayuttaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	188	obj	[0, 1]	Dukkhāya vedanāya sampayuttaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	189	obj	[0, 1]	Adukkhamasukhāya vedanāya sampayuttaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	194	obj	[0, 1]	Vipākaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	194	obj	[0, 1]	Vipākaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	194	obj	[0, 1]	Vipākaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	195	obj	[0, 1]	Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	195	obj	[0, 1]	Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	195	obj	[0, 1]	Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	196	obj	[0, 1]	Nevavipākanavipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	196	obj	[0, 1]	Nevavipākanavipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	196	obj	[0, 1]	Nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	197	obj	[0, 1, 0, 1]	Vipākaṃ nahetuñca nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	202	obj	[0, 1]	Upādinnupādāniyaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	205	obj	[0, 1]	Saṃkiliṭṭhasaṃkilesikaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	208	obj	[0, 1]	Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	211	obj	[0, 1]	Pītisahagataṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	214	obj	[0, 1]	Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	217	obj	[0, 1]	Dassanena pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	220	obj	[0, 1]	Ācayagāmiṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	223	obj	[0, 1]	Sekkhaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	226	obj	[0, 1]	Parittaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	229	obj	[0, 1]	Parittārammaṇaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	232	obj	[0, 1]	Hīnaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	235	obj	[0, 1]	Micchattaniyataṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	238	obj	[0, 1]	Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	245	obj	[0, 1]	Atītārammaṇaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	248	obj	[0, 1]	Ajjhattaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	248	obj	[0, 1]	Bahiddhā nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	251	obj	[0, 1]	Ajjhattārammaṇaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	254	obj	[0, 1]	Anidassanaappaṭighaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	254	obj	[0, 1]	Anidassanaappaṭighaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	254	obj	[0, 1]	Anidassanaappaṭighaṃ nahetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	263	obj	[0, 0, 1]	Anidassanaappaṭighaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	266	obj	[0, 0, 1]	Anidassanaappaṭighaṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	268	obj	[0, 1, 0]	Anidassanaappaṭighaṃ nahetuṃ sahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	269	obj	[0, 1, 0]	Anidassanaappaṭighaṃ nahetuṃ ahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	274	src	[0, 1]	Sanidassanasappaṭigho nasanidassano dhammo
+5-12-anulomapaccaniya-tikaduka.md	292	obj	[0, 1]	Anidassanaappaṭighaṃ noāsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	292	obj	[0, 1]	Anidassanaappaṭighaṃ noāsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	292	obj	[0, 1]	Anidassanaappaṭighaṃ noāsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	301	obj	[0, 0, 1]	Anidassanaappaṭighaṃ sāsavañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	301	obj	[0, 0, 1]	Anidassanaappaṭighaṃ sāsavañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	301	obj	[0, 0, 1]	Anidassanasappaṭighaṃ sāsavañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	304	obj	[0, 0, 1]	Anidassanaappaṭighaṃ āsavasampayuttañceva no ca āsavaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	306	res	[1, 0, 1]	nasanidassanasappaṭigho āsavavippayutto nasāsavo dhammo
+5-12-anulomapaccaniya-tikaduka.md	306	res	[1, 0, 1]	naanidassanasappaṭigho āsavavippayutto nasāsavo dhammo
+5-12-anulomapaccaniya-tikaduka.md	306	res	[1, 0, 1, 1, 0, 1]	nasanidassanasappaṭigho āsavavippayutto nasāsavo ca naanidassanasappaṭigho āsavavippayutto nasāsavo ca dhammā
+5-12-anulomapaccaniya-tikaduka.md	307	res	[1, 0, 1]	naanidassanaappaṭigho āsavavippayutto naanāsavo dhammo
+5-12-anulomapaccaniya-tikaduka.md	307	res	[1, 0, 1]	nasanidassanasappaṭigho āsavavippayutto naanāsavo dhammo
+5-12-anulomapaccaniya-tikaduka.md	307	res	[1, 0, 1, 1, 0, 1]	nasanidassanasappaṭigho āsavavippayutto naanāsavo ca naanidassanasappaṭigho āsavavippayutto naanāsavo ca dhammā
+5-12-anulomapaccaniya-tikaduka.md	320	obj	[0, 1]	Anidassanaappaṭighaṃ nocittaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	342	obj	[0, 1]	Anidassanasappaṭighaṃ noupādā dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	343	obj	[0, 1]	Anidassanaappaṭighaṃ noupādā dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	344	obj	[0, 1, 0, 1]	Anidassanasappaṭighaṃ noupādā ca anidassanaappaṭighaṃ noupādā ca dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	353	obj	[0, 1]	Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	353	obj	[0, 1]	Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	353	obj	[0, 1]	Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	356	obj	[0, 1]	Anidassanaappaṭighaṃ nabhāvanāya pahātabbaṃ dhammaṃ paccayā
+5-12-anulomapaccaniya-tikaduka.md	359	obj	[0, 1]	Anidassanaappaṭighaṃ nadassanena pahātabbahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	362	obj	[0, 1]	Anidassanaappaṭighaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	374	obj	[0, 1]	Anidassanaappaṭighaṃ napītisahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	377	obj	[0, 1]	Anidassanaappaṭighaṃ nasukhasahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	380	obj	[0, 1]	Anidassanaappaṭighaṃ naupekkhāsahagataṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	383	obj	[0, 1]	Anidassanaappaṭighaṃ nakāmāvacaraṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	383	obj	[0, 1]	anidassanaappaṭighaṃ nakāmāvacaraṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	386	obj	[0, 1]	Anidassanaappaṭighaṃ narūpāvacaraṃ dhammaṃ paṭicca
+5-12-anulomapaccaniya-tikaduka.md	389	obj	[0, 1]	Anidassanaappaṭighaṃ naarūpāvacaraṃ dhammaṃ paccayā

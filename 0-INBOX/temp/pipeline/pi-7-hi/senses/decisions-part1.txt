@@ -1,0 +1,600 @@
+# pi-7 Hindi senses: decisions for agg-part1.tsv (579 headwords; the first 120 lines are decisions-sample.txt verbatim). Conventions: senses-conventions-pi7.md
+# --- title frame
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line)}
+Paṭṭhānapāḷi: {the Book of Conditional Relations, title of the whole book (heading)}
+# --- condition names, positive
+Hetupaccayoti: {root condition, with quotative -ti, opening its definition (nominative)}
+dhammānaṃ: {of phenomena, states (genitive pl.)}
+rūpānaṃ: {of material things (genitive pl.)}
+hetupaccayena: {root condition, in 'is a condition by way of root' (instrumental)}
+paccayo: {is a condition, the predicate of the Pañhāvāra and definition formula (nominative, verbal)}
+# --- methods, divisions, series, items
+Dhammānulome: {in the positive method by phenomena, division of the book (locative, heading)}
+Tikapaṭṭhānaṃ: {the Conditional Relations of the triads, first division of the book (heading)}
+Paccayaniddeso: {the exposition of the conditions, defining each of the twenty-four (heading)}
+Paccayānulomaṃ: {the positive method by conditions, counting with the conditions present (heading)}
+Ekamūlakaṃ: {the one-condition series, counts that start from a single condition (heading)}
+Kusalapadaṃ: {the wholesome item, heading of the series that starts from it (heading)}
+Akusalapadaṃ: {the unwholesome item, heading of the series that starts from it (heading)}
+Abyākatapadaṃ: {the indeterminate item, neither wholesome nor unwholesome (heading)}
+Kusalābyākatapadaṃ: {the combined wholesome and indeterminate item (heading)}
+Akusalābyākatapadaṃ: {the combined unwholesome and indeterminate item (heading)}
+Paccayapaccanīyaṃ: {the negative method by conditions, counting with the conditions absent (heading)}
+Paccayānulomapaccanīyaṃ: {the positive-negative method by conditions, present then absent (heading)}
+Paccayapaccanīyānulomaṃ: {the negative-positive method by conditions, absent then present (heading)}
+Kusalattikaṃ: {the wholesome triad, first triad of the matrix (heading)}
+Vibhaṅgavāro: {the analysis section, where each answer is set out (heading)}
+Anulomaṃ: {the positive method, counting with the conditions present (heading and nominative): सकारात्मक क्रम; conformity, the conformity moment before change-of-lineage (nominative sg.): अनुरूपता}
+hetupaccayo: {root condition, as a named condition (nominative)}
+Ārammaṇapaccayo: {object condition, as a named condition (nominative)}
+Adhipatipaccayo: {predominance condition, as a named condition (nominative)}
+Anantara: {proximity condition, bare stem in lists and headings (stem)}
+Sahajātapaccayo: {co-arising condition, as a named condition (nominative)}
+Aññamaññapaccayo: {mutuality condition, as a named condition (nominative)}
+Nissayapaccayo: {support condition, as a named condition (nominative)}
+Upanissayapaccayo: {strong-support condition, as a named condition (nominative)}
+Purejātapaccayo: {pre-arising condition, as a named condition (nominative)}
+Āsevanapaccayo: {repetition condition, as a named condition (nominative)}
+Kammapaccayo: {kamma condition, as a named condition (nominative)}
+Vipākapaccayo: {result condition, kamma-result as a named condition (nominative)}
+Āhārapaccayo: {nutriment condition, as a named condition (nominative)}
+Indriyapaccayo: {faculty condition, as a named condition (nominative)}
+Jhāna: {jhāna condition, bare stem in lists and headings (stem)}
+Sampayuttapaccayo: {association condition, as a named condition (nominative)}
+Vippayuttapaccayo: {dissociation condition, as a named condition (nominative)}
+Atthipaccayo: {presence condition, as a named condition (nominative)}
+Natthi: {absence condition, bare stem in lists and headings (stem): अनुपस्थिति-कारण; there is not, is absent, in the editorial notes (3rd sg. present): *}
+vigatapaccayā: {disappearance condition, by which a state arises, also in headings (ablative)}
+Avigatapaccayo: {non-disappearance condition, as a named condition (nominative)}
+# --- counting
+Saṅkhyāvāro: {the counting section, the number of answers per condition (heading)}
+Suddhaṃ: {the conditions taken singly, the single-condition count (heading)}
+Gaṇanā: {the count, the reckoning of answers (heading and nominative sg.)}
+Tikaṃ: {threes, combinations of three conditions in the counts (heading)}
+Dvādasakaṃ: {twelves, combinations of twelve conditions in the counts (heading)}
+Bāvīsakaṃ: {twenty-twos, combinations of twenty-two conditions in the counts (heading)}
+Terasakaṃ: {thirteens, combinations of thirteen conditions in the counts (heading)}
+Āsevanadukaṃ: {pairs with the repetition condition, combinations in the counts (heading)}
+Vipākadukaṃ: {pairs with the result condition, combinations in the counts (heading)}
+Paccanīyaṃ: {the negative method, counting with the conditions absent (heading)}
+# --- condition names, negative
+nahetupaccayo: {absence of the root condition, as a named negative condition (nominative)}
+Naārammaṇapaccayo: {absence of the object condition, as a named negative condition (nominative)}
+Naadhipatipaccayo: {absence of the predominance condition, as a named negative condition (nominative)}
+Naanantara: {absence of the proximity condition, bare negative stem in headings (stem): निकटता-कारण का अभाव; without the proximity condition, bare negative stem in a chain of negatives (stem): निकटता-कारण के बिना}
+Napurejātapaccayo: {absence of the pre-arising condition, as a named negative condition (nominative)}
+Napacchājāta: {absence of the post-arising condition, bare negative stem in headings (stem): पश्चात्-उत्पत्ति-कारण का अभाव; without the post-arising condition, bare negative stem in a chain of negatives (stem): पश्चात्-उत्पत्ति-कारण के बिना}
+Nakammapaccayo: {absence of the kamma condition, as a named negative condition (nominative)}
+Navipākapaccayo: {absence of the result condition, as a named negative condition (nominative)}
+Najhānapaccayo: {absence of the jhāna condition, as a named negative condition (nominative)}
+Namaggapaccayo: {absence of the path condition, as a named negative condition (nominative)}
+Nasampayuttapaccayo: {absence of the association condition, as a named negative condition (nominative)}
+Navippayuttapaccayo: {absence of the dissociation condition, as a named negative condition (nominative)}
+Nonatthi: {absence of the absence condition, bare negative stem in headings (stem)}
+Nahetudukaṃ: {pairs with absence of the root condition, in the negative counts (heading)}
+Vīsakaṃ: {twenties, combinations of twenty conditions in the counts (heading)}
+Catukkaṃ: {fours, combinations of four conditions in the counts (heading)}
+Naadhipatidukaṃ: {pairs with absence of the predominance condition, in the negative counts (heading)}
+Navippayuttadukaṃ: {pairs with absence of the dissociation condition, in the negative counts (heading)}
+Hetudukaṃ: {the root dyad, first dyad of the matrix (heading): मूल वाला दो का वर्गीकरण; pairs with the root condition, combinations in the counts (heading): मूल-कारण के साथ दो कारणों का मेल}
+Ekādasakaṃ: {elevens, combinations of eleven conditions in the counts (heading)}
+Tevīsakaṃ: {twenty-threes, combinations of twenty-three conditions in the counts (heading)}
+Sahajātadukaṃ: {pairs with the co-arising condition, combinations in the counts (heading)}
+Aññamaññadukaṃ: {pairs with the mutuality condition, combinations in the counts (heading)}
+Nissaya: {support condition, bare stem in lists and headings (stem)}
+Pañcakaṃ: {fives, combinations of five conditions in the counts (heading)}
+Indriyadukaṃ: {pairs with the faculty condition, combinations in the counts (heading)}
+Jhānadukaṃ: {pairs with the jhāna condition, combinations in the counts (heading)}
+Maggadukaṃ: {pairs with the path condition, combinations in the counts (heading)}
+Vippayuttadukaṃ: {pairs with the dissociation condition, combinations in the counts (heading)}
+Cuddasakaṃ: {fourteens, combinations of fourteen conditions in the counts (heading)}
+Sattakaṃ: {sevens, combinations of seven conditions in the counts (heading)}
+Ekavīsakaṃ: {twenty-ones, combinations of twenty-one conditions in the counts (heading)}
+Najhānadukaṃ: {pairs with absence of the jhāna condition, in the negative counts (heading)}
+Aṭṭhakaṃ: {eights, combinations of eight conditions in the counts (heading)}
+Pannarasakaṃ: {fifteens, combinations of fifteen conditions in the counts (heading)}
+Paccayavāro: {the section on conditions, 'with X as condition' (heading)}
+# --- the extra multi-value headwords
+Sahajāta: {co-arising condition, bare stem in lists and headings (stem): सह-उत्पत्ति-कारण; co-arising as a label, in the section name Sahajātavāra and the co-arisen subtype (heading member): *}
+adhipati: {predominance condition, bare stem or separate word in lists and headings (stem): प्रधानता-कारण; predominance, the predominant factor itself, in notes and answers (nominative): प्रधानता}
+Upanissaya: {strong-support condition, bare stem in lists and headings (stem): प्रबल आश्रय-कारण; relying strongly on, variant spelling of the absolutive upanissāya (absolutive): प्रबल आश्रय से}
+saṃsaṭṭha: {conjoined, intermixed, in the section name Saṃsaṭṭhavāra (heading member)}
+katvā: {having made, in garuṃ katvā 'having given weight to' (absolutive): देकर; having performed, in uposathakammaṃ katvā 'having kept the observance day' (absolutive): *}
+anantarā: {immediately after, with nothing in between (postposition): ठीक बाद; the proximity conditions, in an editorial note (nominative pl.): निकटता-कारण}
+rūpaṃ: {matter, material form (nominative/accusative sg.): भौतिक रूप; visible form, the object of the eye (nominative/accusative sg.): दृश्य रूप}
+pacchājātā: {post-arisen, arising later, said of mind and its concomitants (nominative pl.): बाद में उत्पन्न; post-arising, the label of the post-arising kind and its questions (nominative, label): पश्चात्-उत्पत्ति}
+kusalākusalaṃ: {wholesome or unwholesome, said of kamma or of a mind (neuter sg.)}
+sampayuttakānaṃ: {associated, of the states conjoined with it (genitive pl.)}
+vitthāretabbo: {should be expanded, is to be given in full (gerundive)}
+naadhipatipaccayā: {without the predominance condition, in the negative chains (negative ablative): प्रधानता-कारण के बिना; absence of the predominance condition, in headings (negative noun): प्रधानता-कारण का अभाव}
+Atthi: {presence condition, bare stem in lists and headings (stem): उपस्थिति-कारण; there is, is found, in the editorial notes (3rd sg. present): है}
+Naadhipati: {absence of the predominance condition, bare negative stem in headings (stem): प्रधानता-कारण का अभाव; without the predominance condition, bare negative stem in a chain of negatives (stem): प्रधानता-कारण के बिना}
+vipākābyākataṃ: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (neuter sg.)}
+kaṭattārūpaṃ: {kamma-born matter, matter produced by kamma done (nominative sg.)}
+vipākaṃ: {resultant, born as the result of action (neuter sg.): कर्म-फल रूपी / कर्म के फल रूपी; result condition, named in the count notes (neuter sg.): कर्म-फल-कारण; the kamma-result itself, rendered as a noun (neuter sg.): कर्म-फल}
+vipākābyākate: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (locative)}
+arūpe: {the immaterial realm, as a place (locative)}
+naārammaṇapaccayā: {without the object condition, in the negative chains (negative ablative): विषय-कारण के बिना; absence of the object condition, in headings (negative noun): विषय-कारण का अभाव}
+paccayā: {because of, with X as condition, in the Paccayavāra frame (ablative): के कारण; conditions, as a noun or a detached compound member (nominative pl.): कारण}
+vipākābyākatā: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (nominative pl.)}
+Paripuṇṇaṃ: {complete, in full, said of the questions or of rebirth (neuter sg.)}
+gaṇetabbaṃ: {should be counted, is to be reckoned (gerundive)}
+vipāko: {resultant, born as the result of action (masculine sg.): कर्म-फल रूपी / कर्म के फल रूपी; the kamma-result, resultant consciousness as a noun (nominative sg.): कर्म-फल}
+kiriyassa: {merely functional, the functional mind producing no result (genitive sg.)}
+Ārammaṇādhipati: {object-predominance, the object kind of predominance (nominative): विषय रूपी प्रधानता; object and predominance conditions together, in the combination counts (compound): विषय-कारण प्रधानता-कारण}
+Bhavaṅgaṃ: {the life-continuum, the stream of being between active processes (nominative sg.)}
+vipākābyākatānaṃ: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (genitive pl.)}
+karoti: {performs, observes, in uposathakammaṃ karoti (3rd sg. present): पालन करना; commits, carries out, in gāmaghātaṃ and nigamaghātaṃ karoti (3rd sg. present): *}
+# ===== PART 1: headwords beyond the sample (above: the 120 sample lines, copied verbatim) =====
+# --- condition names, positive (named, quotative, instrumental, ablative, accusative, stems)
+Kamma: {kamma condition, bare stem in lists and headings (stem)}
+indriya: {faculty condition, bare stem in lists and headings (stem)}
+Aññamañña: {mutuality condition, bare stem in lists and headings (stem)}
+Anantarapaccayo: {proximity condition, as a named condition (nominative)}
+Samanantarapaccayo: {contiguity condition, as a named condition (nominative)}
+Pacchājātapaccayo: {post-arising condition, as a named condition (nominative)}
+Jhānapaccayo: {jhāna condition, as a named condition (nominative)}
+Maggapaccayo: {path condition, as a named condition (nominative)}
+Natthipaccayo: {absence condition, as a named condition (nominative)}
+Vigatapaccayo: {disappearance condition, as a named condition (nominative)}
+Adhipatipaccayoti: {predominance condition, with quotative -ti, opening its definition (nominative)}
+Anantarapaccayoti: {proximity condition, with quotative -ti, opening its definition (nominative)}
+Samanantarapaccayoti: {contiguity condition, with quotative -ti, opening its definition (nominative)}
+Vigatapaccayoti: {disappearance condition, with quotative -ti, opening its definition (nominative)}
+ārammaṇapaccayena: {object condition, in 'is a condition by way of object' (instrumental)}
+adhipatipaccayena: {predominance condition, in 'is a condition by way of predominance' (instrumental)}
+anantarapaccayena: {proximity condition, in 'is a condition by way of proximity' (instrumental)}
+samanantarapaccayena: {contiguity condition, in 'is a condition by way of contiguity' (instrumental)}
+sahajātapaccayena: {co-arising condition, in 'is a condition by way of co-arising' (instrumental)}
+aññamaññapaccayena: {mutuality condition, in 'is a condition by way of mutuality' (instrumental)}
+nissayapaccayena: {support condition, in 'is a condition by way of support' (instrumental)}
+upanissayapaccayena: {strong-support condition, in 'is a condition by way of strong-support' (instrumental)}
+purejātapaccayena: {pre-arising condition, in 'is a condition by way of pre-arising' (instrumental)}
+pacchājātapaccayena: {post-arising condition, in 'is a condition by way of post-arising' (instrumental)}
+āsevanapaccayena: {repetition condition, in 'is a condition by way of repetition' (instrumental)}
+kammapaccayena: {kamma condition, in 'is a condition by way of kamma' (instrumental)}
+vipākapaccayena: {result condition, in 'is a condition by way of kamma-result' (instrumental)}
+āhārapaccayena: {nutriment condition, in 'is a condition by way of nutriment' (instrumental)}
+indriyapaccayena: {faculty condition, in 'is a condition by way of faculty' (instrumental)}
+jhānapaccayena: {jhāna condition, in 'is a condition by way of jhāna' (instrumental)}
+maggapaccayena: {path condition, in 'is a condition by way of path' (instrumental)}
+sampayuttapaccayena: {association condition, in 'is a condition by way of association' (instrumental)}
+vippayuttapaccayena: {dissociation condition, in 'is a condition by way of dissociation' (instrumental)}
+atthipaccayena: {presence condition, in 'is a condition by way of presence' (instrumental)}
+natthipaccayena: {absence condition, in 'is a condition by way of absence' (instrumental)}
+vigatapaccayena: {disappearance condition, in 'is a condition by way of disappearance' (instrumental)}
+avigatapaccayena: {non-disappearance condition, in 'is a condition by way of non-disappearance' (instrumental)}
+hetupaccayā: {root condition, by which a state arises, also in headings (ablative)}
+ārammaṇapaccayā: {object condition, by which a state arises, also in headings (ablative)}
+adhipatipaccayā: {predominance condition, by which a state arises, also in headings (ablative)}
+anantarapaccayā: {proximity condition, by which a state arises, also in headings (ablative)}
+samanantarapaccayā: {contiguity condition, by which a state arises, also in headings (ablative)}
+sahajātapaccayā: {co-arising condition, by which a state arises, also in headings (ablative)}
+aññamaññapaccayā: {mutuality condition, by which a state arises, also in headings (ablative)}
+nissayapaccayā: {support condition, by which a state arises, also in headings (ablative)}
+upanissayapaccayā: {strong-support condition, by which a state arises, also in headings (ablative)}
+purejātapaccayā: {pre-arising condition, by which a state arises, also in headings (ablative)}
+pacchājātapaccayā: {post-arising condition, by which a state arises, also in headings (ablative)}
+āsevanapaccayā: {repetition condition, by which a state arises, also in headings (ablative)}
+kammapaccayā: {kamma condition, by which a state arises, also in headings (ablative)}
+vipākapaccayā: {result condition, by which a state arises, also in headings (ablative)}
+āhārapaccayā: {nutriment condition, by which a state arises, also in headings (ablative)}
+indriyapaccayā: {faculty condition, by which a state arises, also in headings (ablative)}
+jhānapaccayā: {jhāna condition, by which a state arises, also in headings (ablative)}
+maggapaccayā: {path condition, by which a state arises, also in headings (ablative)}
+sampayuttapaccayā: {association condition, by which a state arises, also in headings (ablative)}
+vippayuttapaccayā: {dissociation condition, by which a state arises, also in headings (ablative)}
+atthipaccayā: {presence condition, by which a state arises, also in headings (ablative)}
+natthipaccayā: {absence condition, by which a state arises, also in headings (ablative)}
+avigatapaccayā: {non-disappearance condition, by which a state arises, also in headings (ablative)}
+vigatāvigatapaccayā: {disappearance and non-disappearance conditions, joined in one form (ablative)}
+Natthivigatāvigatapaccayā: {absence, disappearance and non-disappearance conditions, joined in one form (ablative)}
+hetupaccayaṃ: {root condition, in the note 'as with the root condition' (accusative)}
+ārammaṇapaccayaṃ: {object condition, in the note 'as with the object condition' (accusative)}
+sahajātapaccayaṃ: {co-arising condition, in the note 'as with the co-arising condition' (accusative)}
+paccaya: {conditions, member of the combined section name with nissaya and saṃsaṭṭha (heading member)}
+paccayaṃ: {condition, as object in a note (accusative sg.)}
+āsevanaṃ: {repetition condition, in the note 'there is no repetition' (nominative sg.)}
+# --- count locatives
+Hetuyā: {in the root condition, the count locative (locative)}
+ārammaṇe: {in the object condition, the count locative (locative)}
+adhipatiyā: {in the predominance condition, the count locative (locative)}
+anantare: {in the proximity condition, the count locative (locative)}
+samanantare: {in the contiguity condition, the count locative (locative)}
+sahajāte: {in the co-arising condition, the count locative (locative)}
+aññamaññe: {in the mutuality condition, the count locative (locative)}
+upanissaye: {in the strong-support condition, the count locative (locative)}
+purejāte: {in the pre-arising condition, the count locative (locative)}
+pacchājāte: {in the post-arising condition, the count locative (locative)}
+āsevane: {in the repetition condition, the count locative (locative)}
+kamme: {in the kamma condition, the count locative (locative)}
+āhāre: {in the nutriment condition, the count locative (locative)}
+indriye: {in the faculty condition, the count locative (locative)}
+jhāne: {in the jhāna condition, the count locative (locative)}
+magge: {in the path condition, the count locative (locative)}
+sampayutte: {in the association condition, the count locative (locative)}
+vippayutte: {in the dissociation condition, the count locative (locative)}
+atthiyā: {in the presence condition, the count locative (locative)}
+natthiyā: {in the absence condition, the count locative (locative)}
+vigate: {in the disappearance condition, the count locative (locative)}
+avigate: {in the non-disappearance condition, the count locative (locative)}
+# --- condition names, negative
+Navipāka: {absence of the result condition, bare negative stem in headings (stem)}
+naaññamañña: {without the mutuality condition, bare negative stem in a chain of negatives (stem)}
+Naāsevanapaccayo: {absence of the repetition condition, as a named negative condition (nominative)}
+Nahetupaccayā: {without the root condition, in the negative chains (negative ablative)}
+naaññamaññapaccayā: {without the mutuality condition, in the negative chains (negative ablative)}
+napurejātapaccayā: {without the pre-arising condition, in the negative chains (negative ablative)}
+naāsevanapaccayā: {without the repetition condition, in the negative chains (negative ablative)}
+nakammapaccayā: {without the kamma condition, in the negative chains (negative ablative)}
+navipākapaccayā: {without the result condition, in the negative chains (negative ablative)}
+najhānapaccayā: {without the jhāna condition, in the negative chains (negative ablative)}
+namaggapaccayā: {without the path condition, in the negative chains (negative ablative)}
+nasampayuttapaccayā: {without the association condition, in the negative chains (negative ablative)}
+navippayuttapaccayā: {without the dissociation condition, in the negative chains (negative ablative)}
+nonatthipaccayā: {without the absence condition, in the negative chains (negative ablative)}
+novigatapaccayā: {without the disappearance condition, in the negative chains (negative ablative)}
+Naanantarapaccayādi: {absence of the proximity condition and the rest, in headings (negative noun)}
+Naāhārapaccayādi: {absence of the nutriment condition and the rest, in headings (negative noun)}
+Navipākapaccayādi: {absence of the result condition and the rest, in headings (negative noun)}
+Najhānapaccayādi: {absence of the jhāna condition and the rest, in headings (negative noun)}
+Naadhipatipaccayādi: {absence of the predominance condition and the rest, in headings (negative noun)}
+Navippayuttapaccayādi: {absence of the dissociation condition and the rest, in headings (negative noun)}
+Naārammaṇapaccayādi: {absence of the object condition and the rest, in headings (negative noun)}
+naārammaṇapaccayasadisaṃ: {like the absence of the object condition, to be treated the same (neuter sg.)}
+Nahetuyā: {in the absence of the root condition, the negative count locative (locative)}
+naārammaṇe: {in the absence of the object condition, the negative count locative (locative)}
+naadhipatiyā: {in the absence of the predominance condition, the negative count locative (locative)}
+naanantare: {in the absence of the proximity condition, the negative count locative (locative)}
+nasamanantare: {in the absence of the contiguity condition, the negative count locative (locative)}
+naaññamaññe: {in the absence of the mutuality condition, the negative count locative (locative)}
+naupanissaye: {in the absence of the strong-support condition, the negative count locative (locative)}
+napurejāte: {in the absence of the pre-arising condition, the negative count locative (locative)}
+napacchājāte: {in the absence of the post-arising condition, the negative count locative (locative)}
+naāsevane: {in the absence of the repetition condition, the negative count locative (locative)}
+nakamme: {in the absence of the kamma condition, the negative count locative (locative)}
+navipāke: {in the absence of the result condition, the negative count locative (locative)}
+naāhāre: {in the absence of the nutriment condition, the negative count locative (locative)}
+naindriye: {in the absence of the faculty condition, the negative count locative (locative)}
+najhāne: {in the absence of the jhāna condition, the negative count locative (locative)}
+namagge: {in the absence of the path condition, the negative count locative (locative)}
+nasampayutte: {in the absence of the association condition, the negative count locative (locative)}
+navippayutte: {in the absence of the dissociation condition, the negative count locative (locative)}
+nonatthiyā: {in the absence of the absence condition, the negative count locative (locative)}
+novigate: {in the absence of the disappearance condition, the negative count locative (locative)}
+# --- sections, methods, counts, series, combinations (headings)
+Pañhāvāro: {the question section, where each condition is applied to the questions (heading)}
+Nissayavāro: {the support section, 'depending on' (heading)}
+Saṃsaṭṭhavāro: {the conjoined section, 'conjoined with' (heading)}
+sampayuttavāro: {the association section, 'associated with' (heading)}
+Paccayavāre: {in the section on conditions, the Paccayavāra (locative)}
+Nissayavāre: {in the support section, the Nissayavāra (locative)}
+Saṃsaṭṭhavāre: {in the conjoined section, the Saṃsaṭṭhavāra (locative)}
+anulome: {in the positive method (locative)}
+Anulomapaccanīyaṃ: {the positive-negative method, counting with the conditions present then absent (heading)}
+Paccanīyānulomaṃ: {the negative-positive method, counting with the conditions absent then present (heading)}
+Paccayacatukkaṃ: {the fourfold set by conditions, the four counting methods (heading)}
+Paccanīyuddhāro: {the extraction for the negative method, sorting out the conditions (heading)}
+Chakkaṃ: {sixes, combinations of six conditions in the counts (heading)}
+Navakaṃ: {nines, combinations of nine conditions in the counts (heading)}
+Dasakaṃ: {tens, combinations of ten conditions in the counts (heading)}
+Sattarasakaṃ: {seventeens, combinations of seventeen conditions in the counts (heading)}
+Soḷasakaṃ: {sixteens, combinations of sixteen conditions in the counts (heading)}
+Aṭṭhārasakaṃ: {eighteens, combinations of eighteen conditions in the counts (heading)}
+Catuvīsakaṃ: {twenty-fours, combinations of twenty-four conditions in the counts (heading)}
+Namaggadukaṃ: {pairs with absence of the path condition, in the negative counts (heading)}
+Dumūlakaṃ: {the two-condition series, counts that start from two conditions (heading)}
+Timūlakaṃ: {the three-condition series, counts that start from three conditions (heading)}
+Catumūlakaṃ: {the four-condition series, counts that start from four conditions (heading)}
+pañcamūlakaṃ: {the five-condition series, counts that start from five conditions (heading)}
+Pañcamūlakādikā: {the five-condition series and the rest (heading)}
+tevīsatimūlakaṃ: {the twenty-three-condition series, counts that start from twenty-three conditions (heading)}
+Hetusāmaññaghaṭanā: {the common combinations of the root condition (heading)}
+Sahajātasāmaññaghaṭanā: {the common combinations of the co-arising condition (heading)}
+sāmaññaghaṭanā: {the common combinations, in a combination heading (heading)}
+Pakiṇṇakaghaṭanā: {the miscellaneous combinations of conditions (heading)}
+Kammapakiṇṇakaghaṭanā: {the miscellaneous combinations of the kamma condition (heading)}
+Adhipatimissakaghaṭanā: {the mixed combinations of the predominance condition (heading)}
+Nissayamissakaghaṭanā: {the mixed combinations of the support condition (heading)}
+Āhāramissakaghaṭanā: {the mixed combinations of the nutriment condition (heading)}
+Indriyamissakaghaṭanā: {the mixed combinations of the faculty condition (heading)}
+Vippayuttamissakaghaṭanā: {the mixed combinations of the dissociation condition (heading)}
+Atthimissakaghaṭanā: {the mixed combinations of the presence condition (heading)}
+Avigatamissakaghaṭanā: {the mixed combinations of the non-disappearance condition (heading)}
+Cittādhipatighaṭanā: {the combinations with mind as the predominant factor (heading)}
+Vīriyādhipatighaṭanā: {the combinations with energy as the predominant factor (heading)}
+Vīmaṃsādhipatighaṭanā: {the combinations with investigation as the predominant factor (heading)}
+Sahajātaghaṭanā: {the combinations of the co-arising condition (heading)}
+Aññamaññaghaṭanā: {the combinations of the mutuality condition (heading)}
+Upanissayaghaṭanā: {the combinations of the strong-support condition (heading)}
+Purejātaghaṭanā: {the combinations of the pre-arising condition (heading)}
+Pacchājātaghaṭanā: {the combinations of the post-arising condition (heading)}
+Āsevanaghaṭanā: {the combinations of the repetition condition (heading)}
+Vipākaghaṭanā: {the combinations of the result condition (heading)}
+Sampayuttaghaṭanā: {the combinations of the association condition (heading)}
+Natthighaṭanā: {the combinations of the absence condition (heading)}
+Saindriyaghaṭanā: {the combinations with the faculty condition (heading)}
+Sajhānaghaṭanā: {the combinations with the jhāna condition (heading)}
+Sādhipati: {with the predominance condition, opening a combination heading (heading member)}
+Saindriya: {with the faculty condition, opening a combination heading (heading member)}
+Sajhāna: {with the jhāna condition, opening a combination heading (heading member)}
+Sahetādhipati: {with the root and predominance conditions, opening a combination heading (heading member)}
+# --- triad names
+Vedanāttikaṃ: {the feeling triad, second triad of the matrix (heading)}
+Vipākattikaṃ: {the resultant triad, third triad of the matrix (heading)}
+Upādinnattikaṃ: {the clung-to triad, fourth triad of the matrix (heading)}
+Saṃkiliṭṭhattikaṃ: {the defiled triad, fifth triad of the matrix (heading)}
+Vitakkattikaṃ: {the applied-thought triad, sixth triad of the matrix (heading)}
+Pītittikaṃ: {the rapture triad, seventh triad of the matrix (heading)}
+Dassanenapahātabbattikaṃ: {the triad of what is to be abandoned by seeing, eighth triad of the matrix (heading)}
+Dassanenapahātabbahetukattikaṃ: {the triad of what has roots to be abandoned by seeing, ninth triad of the matrix (heading)}
+Ācayagāmittikaṃ: {the accumulation triad, tenth triad of the matrix (heading)}
+Sekkhattikaṃ: {the trainee triad, eleventh triad of the matrix (heading)}
+Parittattikaṃ: {the limited triad, twelfth triad of the matrix (heading)}
+Parittārammaṇattikaṃ: {the limited-object triad, thirteenth triad of the matrix (heading)}
+Hīnattikaṃ: {the inferior triad, fourteenth triad of the matrix (heading)}
+Micchattaniyatattikaṃ: {the triad of what is fixed in wrongness, fifteenth triad of the matrix (heading)}
+Maggārammaṇattikaṃ: {the path-object triad, sixteenth triad of the matrix (heading)}
+Uppannattikaṃ: {the arisen triad, seventeenth triad of the matrix (heading)}
+Atītattikaṃ: {the past triad, eighteenth triad of the matrix (heading)}
+Atītārammaṇattikaṃ: {the past-object triad, nineteenth triad of the matrix (heading)}
+Ajjhattattikaṃ: {the internal triad, twentieth triad of the matrix (heading)}
+Ajjhattārammaṇattikaṃ: {the internal-object triad, twenty-first triad of the matrix (heading)}
+# --- editorial notes, instructions, closing verse
+saṃkhittā: {abbreviated, given in short (nominative pl.)}
+Saṃkhittaṃ: {abbreviated, the text is shortened here, in editorial notes (neuter sg.)}
+asammuyhantena: {without confusion, by one not confused (present participle, instrumental)}
+sajjhāyantena: {by one reciting, while chanting the text (present participle, instrumental)}
+vācanāmaggena: {by the recitation pattern, following the way of reciting (instrumental)}
+vitthāretabbaṃ: {should be expanded, is to be given in full (gerundive)}
+vitthāretabbā: {should be expanded, is to be given in full (gerundive)}
+vitthāretabbāni: {should be expanded, is to be given in full (gerundive)}
+gaṇetabbāti: {should be counted, with quotative -ti (gerundive)}
+gaṇite: {when counted, when the count is taken (locative participle)}
+ṭhitena: {standing at, starting the count from a condition (instrumental participle)}
+pañhā: {questions, the answers counted (nominative pl.)}
+sattarasa: {seventeen, the number of answers (numeral)}
+padāni: {items, the entries of a series (nominative pl.)}
+avasesesu: {in the remaining ones, in the other cases (locative pl.)}
+sabbattha: {everywhere, in every case (adverb)}
+tikañca: {and the triads, with enclitic -ca, in the closing verse (neuter sg.)}
+tikañceva: {and the triads too, with -ñceva, in the closing verse (neuter sg.)}
+paṭṭhānavaraṃ: {the excellent Conditional Relations, in the closing verse (neuter sg.)}
+dukuttamaṃ: {the supreme Conditional Relations of the dyads, in the closing verse (neuter sg.)}
+# --- frame words of the sections
+paṭicca: {depending on, conditioned by (absolutive)}
+sahajāto: {born together with, the Sahajātavāra frame (absolutive-like participle)}
+nissāya: {depending on, the Nissayavāra frame (absolutive)}
+saṃsaṭṭho: {conjoined with, the Saṃsaṭṭhavāra frame (nominative sg. participle)}
+uppajjati: {arises, comes into being (3rd sg. present)}
+uppajjanti: {they arise, come into being (3rd pl. present)}
+uppajjeyya: {might arise, would arise (3rd sg. optative)}
+uppajjeyyuṃ: {might arise, would arise (3rd pl. optative)}
+# --- phenomena, wholesome / unwholesome / indeterminate
+dhammā: {phenomena, states (nominative pl.)}
+dhammaṃ: {a phenomenon, state (accusative sg.)}
+dhammo: {a phenomenon, state (nominative sg.)}
+kusalā: {wholesome, said of phenomena (nominative pl.)}
+kusalaṃ: {wholesome, often standing for the wholesome mind (neuter sg.)}
+kusalo: {wholesome (masculine sg.)}
+kusalañca: {and wholesome, with enclitic -ñca (neuter sg.)}
+kusale: {wholesome, said of the aggregates (accusative pl.)}
+kusalassa: {wholesome, often standing for the wholesome mind (genitive sg.)}
+akusalā: {unwholesome, said of phenomena (nominative pl.)}
+akusalaṃ: {unwholesome, often standing for the unwholesome mind (neuter sg.)}
+akusalo: {unwholesome (masculine sg.)}
+Akusalañca: {and unwholesome, with enclitic -ñca (neuter sg.)}
+akusale: {unwholesome, said of the aggregates (accusative pl.)}
+akusalassa: {unwholesome, often standing for the unwholesome mind (genitive sg.)}
+akusalānaṃ: {unwholesome (genitive pl.)}
+abyākato: {neither wholesome nor unwholesome (masculine sg.)}
+abyākataṃ: {neither wholesome nor unwholesome (neuter sg.)}
+abyākatañca: {and neither wholesome nor unwholesome, with enclitic -ñca (neuter sg.)}
+abyākatassa: {neither wholesome nor unwholesome (genitive sg.)}
+abyākatānaṃ: {neither wholesome nor unwholesome (genitive pl.)}
+Abyākatā: {neither wholesome nor unwholesome (nominative pl.)}
+vipākā: {resultant, born as the result of action (nominative pl.)}
+vipākānaṃ: {resultant, born as the result of action (genitive pl.)}
+vipākābyākato: {resultant and neither wholesome nor unwholesome, the resultant indeterminate (masculine sg.)}
+kiriyābyākatā: {merely functional and neither wholesome nor unwholesome, the functional indeterminate (nominative pl.)}
+kiriyābyākataṃ: {merely functional and neither wholesome nor unwholesome, the functional indeterminate (neuter sg.)}
+kiriyābyākate: {merely functional and neither wholesome nor unwholesome, said of the aggregates (accusative pl.)}
+kiriyābyākatānaṃ: {merely functional and neither wholesome nor unwholesome, the functional indeterminate (genitive pl.)}
+# --- aggregates, mind, matter
+khandhā: {aggregates, groups of phenomena (nominative pl.)}
+khandhaṃ: {aggregate, group of phenomena (accusative sg.)}
+khandhe: {aggregates, groups of phenomena (accusative pl.)}
+khandhānaṃ: {of the aggregates, groups of phenomena (genitive pl.)}
+khandhañca: {and the aggregate, with enclitic -ñca (accusative sg.)}
+khandho: {aggregate, group of phenomena (nominative sg.)}
+arūpino: {immaterial, without material form (nominative pl.)}
+arūpīnaṃ: {of the immaterial (genitive pl.)}
+Rūpino: {material, having material form (nominative pl.)}
+cittacetasikā: {the mind and its concomitants (nominative pl.)}
+taṃsampayuttakā: {the states associated with it (nominative pl.)}
+taṃsampayuttakānañca: {and of the states associated with it, with enclitic -ñca (genitive pl.)}
+aññamaññaṃ: {mutually, for each other (adverb)}
+mahābhūtā: {the four great elements, primary matter (nominative pl.)}
+mahābhūtaṃ: {a great element, primary matter (neuter sg.)}
+mahābhūte: {the great elements (accusative pl.)}
+upādārūpaṃ: {derived matter, matter dependent on the great elements (neuter sg.)}
+upādārūpānaṃ: {of derived matter, matter dependent on the great elements (genitive pl.)}
+cittasamuṭṭhānaṃ: {mind-produced, matter originated by mind (neuter sg.)}
+cittasamuṭṭhānañca: {and mind-produced, with enclitic -ñca (neuter sg.)}
+cittasamuṭṭhānānaṃ: {of mind-produced matter, originated by mind (genitive pl.)}
+āhārasamuṭṭhānaṃ: {produced by nutriment, nutriment-born matter (neuter sg.)}
+āhārasamuṭṭhāne: {produced by nutriment, said of the great elements (accusative pl.)}
+utusamuṭṭhānaṃ: {produced by temperature, temperature-born matter (neuter sg.)}
+utusamuṭṭhāne: {produced by temperature, said of the great elements (accusative pl.)}
+bāhiraṃ: {external, outside oneself (neuter sg.)}
+bāhire: {external, outside oneself (accusative pl.)}
+kaṭattā: {produced by kamma done, in kaṭattā ca rūpānaṃ (ablative)}
+kaṭattārūpānaṃ: {of kamma-born matter, matter produced by kamma done (genitive pl.)}
+vatthu: {the physical base, the support of mind (nominative sg.)}
+vatthuṃ: {the physical base, the support of mind (accusative sg.)}
+vatthuñca: {and the physical base, with enclitic -ñca (accusative sg.)}
+Okkantikkhaṇe: {at the moment of descent into the womb, conception (locative)}
+paṭisandhikkhaṇe: {at the moment of rebirth-linking (locative)}
+ahetukapaṭisandhikkhaṇe: {at the moment of rootless rebirth-linking (locative)}
+asaññasattānaṃ: {of non-percipient beings (genitive pl.)}
+kiñci: {some, in kiñci kāle 'at some times' (indefinite pronoun)}
+kāle: {at a time, in kiñci kāle (locative sg.)}
+Purimā: {earlier, the preceding ones, in purimā purimā (nominative pl.)}
+pacchimānaṃ: {of the later ones, the succeeding (genitive pl.)}
+samanantarā: {right after, immediately following (postposition)}
+imassa: {of this, in imassa kāyassa 'of this body' (genitive sg. pronoun)}
+kāyassa: {of the body, the physical body (genitive sg.)}
+kammaṃ: {kamma, the action done (nominative/accusative sg.)}
+Cetanā: {volition, intention (nominative sg.)}
+kabaḷīkāro: {made into mouthfuls, edible, in kabaḷīkāro āhāro (masculine sg.)}
+āhāro: {edible food, physical food, in kabaḷīkāro āhāro (nominative sg.)}
+indriyā: {faculties, the controlling faculties (nominative pl.)}
+cakkhundriyaṃ: {the eye faculty (nominative sg.)}
+Kāyindriyaṃ: {the body faculty (nominative sg.)}
+Rūpajīvitindriyaṃ: {the faculty of material life (nominative sg.)}
+jhānaṅgāni: {the jhāna factors, constituents of jhāna (nominative pl.)}
+maggaṅgāni: {the path factors, constituents of the path (nominative pl.)}
+# --- sense bases, elements, consciousness
+rūpāyatanaṃ: {the visible-form sense base, the object of the eye (nominative sg.)}
+Saddāyatanaṃ: {the sound sense base (nominative sg.)}
+Gandhāyatanaṃ: {the smell sense base (nominative sg.)}
+Rasāyatanaṃ: {the taste sense base (nominative sg.)}
+Phoṭṭhabbāyatanaṃ: {the tangible sense base, base of the touchable (nominative sg.)}
+Cakkhāyatanaṃ: {the eye sense base (nominative sg.)}
+Sotāyatanaṃ: {the ear sense base (nominative sg.)}
+ghānāyatanaṃ: {the nose sense base (nominative sg.)}
+Kāyāyatanaṃ: {the body sense base (nominative sg.)}
+manodhātuyā: {of or to the mind element (genitive/dative sg.)}
+manoviññāṇadhātuyā: {of or to the mind-consciousness element (genitive/dative sg.)}
+manoviññāṇadhātu: {the mind-consciousness element (nominative sg.)}
+cakkhuviññāṇadhātu: {the eye-consciousness element (nominative sg.)}
+Sotaviññāṇadhātu: {the ear-consciousness element (nominative sg.)}
+cakkhuviññāṇaṃ: {eye-consciousness, consciousness through the eye (nominative sg.)}
+sotaviññāṇaṃ: {ear-consciousness, consciousness through the ear (nominative sg.)}
+jivhāviññāṇaṃ: {tongue-consciousness, consciousness through the tongue (nominative sg.)}
+kāyaviññāṇaṃ: {body-consciousness, consciousness through the body (nominative sg.)}
+cakkhuviññāṇassa: {of or to eye-consciousness (genitive/dative sg.)}
+sotaviññāṇassa: {of or to ear-consciousness (genitive/dative sg.)}
+ghānaviññāṇassa: {of or to nose-consciousness (genitive/dative sg.)}
+jivhāviññāṇassa: {of or to tongue-consciousness (genitive/dative sg.)}
+kāyaviññāṇassa: {of or to body-consciousness (genitive/dative sg.)}
+pañcaviññāṇasahagataṃ: {accompanying the five kinds of sense consciousness (neuter sg.)}
+cakkhuṃ: {the eye, the seeing organ (accusative sg.)}
+Sotaṃ: {the ear, the hearing organ (accusative sg.)}
+ghānaṃ: {the nose, the smelling organ (accusative sg.)}
+jivhaṃ: {the tongue, the tasting organ (accusative sg.)}
+kāyaṃ: {the body, the physical body (accusative sg.)}
+rūpe: {visible forms, the objects of the eye (accusative pl.)}
+sadde: {sounds, audible objects (accusative pl.)}
+gandhe: {smells, odours (accusative pl.)}
+rase: {tastes, flavours (accusative pl.)}
+phoṭṭhabbe: {tangible objects, things touched (accusative pl.)}
+dibbena: {divine, in dibbena cakkhunā 'with the divine eye' (instrumental)}
+cakkhunā: {with the eye, the organ of sight, also the divine eye (instrumental)}
+sotadhātuyā: {with the ear element, in dibbāya sotadhātuyā 'with the divine ear' (instrumental)}
+passati: {sees, beholds (3rd sg. present)}
+suṇāti: {hears, listens (3rd sg. present)}
+suṇanti: {they hear, listen (3rd pl. present)}
+# --- defilements, roots, accompaniment
+vicikicchāsahagate: {accompanied by doubt, said of the aggregates (accusative pl.)}
+vicikicchāsahagato: {accompanied by doubt, said of a state or aggregate (masculine sg.)}
+uddhaccasahagate: {accompanied by restlessness, said of the aggregates (accusative pl.)}
+uddhaccasahagato: {accompanied by restlessness, said of a state or aggregate (masculine sg.)}
+moho: {delusion, bewilderment (nominative sg.)}
+ahetukaṃ: {without roots, rootless (neuter sg.)}
+rāgo: {lust, passion (nominative sg.)}
+rāgaṃ: {lust, passion (accusative sg.)}
+diṭṭhi: {view, often wrong view (nominative sg.)}
+vicikicchā: {doubt, sceptical doubt (nominative sg.)}
+uddhaccaṃ: {restlessness, agitation (nominative sg.)}
+domanassaṃ: {sadness, mental displeasure (nominative sg.)}
+kilese: {the defilements of mind (accusative pl.)}
+pahīne: {abandoned, the defilements already given up (accusative pl. participle)}
+vikkhambhite: {suppressed, the defilements held down (accusative pl. participle)}
+samudāciṇṇe: {habitually arisen, the defilements that used to arise (accusative pl. participle)}
+assādeti: {savours, relishes (3rd sg. present)}
+abhinandati: {delights in, takes pleasure in (3rd sg. present)}
+# --- the object-condition and strong-support illustrations
+ārabbha: {taking as object, with regard to (absolutive)}
+garuṃ: {weight, importance, in garuṃ katvā 'having given weight to' (accusative)}
+dānaṃ: {giving, a gift (accusative sg.)}
+datvā: {having given (absolutive)}
+sīlaṃ: {virtue, the moral precepts (accusative sg.)}
+samādiyitvā: {having undertaken (absolutive)}
+samādiyati: {undertakes, takes upon oneself (3rd sg. present)}
+uposathakammaṃ: {the observance-day duties, keeping the uposatha (accusative sg.)}
+paccavekkhati: {reviews, reflects back on (3rd sg. present)}
+paccavekkhanti: {review, reflect back on (3rd pl. present)}
+pubbe: {earlier, previously (adverb)}
+suciṇṇāni: {deeds well done, things well practised (accusative pl.)}
+jhānā: {from jhāna, the meditative absorption (ablative)}
+maggā: {from the path, the supramundane path (ablative)}
+nirodhā: {from cessation, the attainment of cessation (ablative)}
+vuṭṭhahitvā: {having emerged, having risen from (absolutive)}
+vuṭṭhahantassa: {of one emerging, as he emerges (present participle, genitive sg.)}
+vuṭṭhānassa: {to emergence, the consciousness that follows the process (dative sg.)}
+sekkhā: {trainees, those in the learner stage (nominative pl.)}
+sekkhāya: {of a trainee, the trainee's (feminine dative sg.)}
+puthujjanā: {ordinary people, worldlings not yet on the path (nominative pl.)}
+arahā: {the arahant, the perfected one (nominative sg.)}
+arahato: {of the arahant (genitive sg.)}
+gotrabhu: {change-of-lineage, the moment before the path (nominative sg.)}
+gotrabhuṃ: {change-of-lineage, the moment before the path (accusative sg.)}
+gotrabhussa: {to change-of-lineage, the moment before the path (genitive/dative sg.)}
+vodānaṃ: {cleansing, the cleansing moment before a higher path (accusative sg.)}
+vodānassa: {to cleansing, the cleansing moment before a higher path (genitive/dative sg.)}
+maggassa: {of or to the path (genitive/dative sg.)}
+phalaṃ: {the fruit, fruition of the path (accusative sg.)}
+phalassa: {to the fruit, fruition of the path (dative sg.)}
+phalasamāpattiyā: {to the attainment of fruition (dative sg.)}
+nibbānaṃ: {nibbāna, the unconditioned element (accusative sg.)}
+aniccato: {as impermanent (ablative adverb)}
+dukkhato: {as suffering, as painful (ablative adverb)}
+anattato: {as not-self, without a self (ablative adverb)}
+vipassati: {sees with insight, contemplates (3rd sg. present)}
+vipassanti: {see with insight, contemplate (3rd pl. present)}
+cetopariyañāṇena: {by the knowledge that reads others' minds (instrumental)}
+kusalacittasamaṅgissa: {of one possessed of a wholesome mind (genitive sg.)}
+akusalacittasamaṅgissa: {of one possessed of an unwholesome mind (genitive sg.)}
+vipākābyākatakiriyābyākatacittasamaṅgissa: {of one possessed of a resultant or functional indeterminate mind (genitive sg.)}
+cittaṃ: {mind, a state of mind (accusative sg.)}
+jānāti: {knows, understands (3rd sg. present)}
+jānanti: {they know, are aware (3rd pl. present)}
+iddhividhañāṇassa: {of or to the knowledge of supernormal powers (genitive/dative sg.)}
+pubbenivāsānussatiñāṇassa: {of or to the knowledge recollecting past lives (genitive/dative sg.)}
+yathākammūpagañāṇassa: {of or to the knowledge of beings faring according to kamma (genitive/dative sg.)}
+anāgataṃsañāṇassa: {of or to the knowledge of the future (genitive/dative sg.)}
+parihīne: {when lost, when the jhāna has declined (locative participle)}
+vippaṭisārissa: {of one feeling remorse (genitive sg.)}
+niruddhe: {when ceased, having ceased (locative participle)}
+tadārammaṇatā: {registration, taking that same object, in tadārammaṇatā uppajjati (ablative)}
+āvajjanāya: {to adverting, the turning of mind to the object (dative sg.)}
+viññāṇañcāyatanavipākassa: {of the resultant mind of the base of infinite consciousness (genitive sg.)}
+viññāṇañcāyatanakiriyassa: {of the functional mind of the base of infinite consciousness (genitive sg.)}
+nevasaññānāsaññāyatanakusalaṃ: {the wholesome mind of the base of neither perception nor non-perception (nominative sg.)}
+nevasaññānāsaññāyatanakiriyaṃ: {the functional mind of the base of neither perception nor non-perception (nominative sg.)}
+# --- predominance and strong-support kinds
+sahajātādhipati: {co-arising predominance, the co-arisen kind of predominance (nominative)}
+kusalādhipati: {wholesome predominance, the predominant factor of a wholesome state (nominative)}
+akusalādhipati: {unwholesome predominance, the predominant factor of an unwholesome state (nominative)}
+ārammaṇūpanissayo: {object strong-support, the object kind of strong-support (nominative)}
+anantarūpanissayo: {proximity strong-support, the proximity kind of strong-support (nominative)}
+pakatūpanissayo: {natural strong-support, the natural kind of strong-support (nominative)}
+upanissāya: {relying strongly on, with strong support from (absolutive)}
+saddhaṃ: {faith, confidence (accusative sg.)}
+deti: {gives, offers (3rd sg. present)}
+uppādeti: {produces, brings about (3rd sg. present)}
+vipassanaṃ: {insight, insight meditation (accusative sg.)}
+abhiññaṃ: {direct knowledge, higher knowing (accusative sg.)}
+samāpattiṃ: {meditative attainment (accusative sg.)}
+sutaṃ: {learning, what has been heard and learnt (accusative sg.)}
+cāgaṃ: {generosity, relinquishing (accusative sg.)}
+paññaṃ: {wisdom, understanding (accusative sg.)}
+parikammaṃ: {preliminary work, the preparation for jhāna or path (nominative sg.)}
+Dutiyassa: {of the second, said of jhāna or path (genitive sg.)}
+Tatiyassa: {of the third, said of jhāna or path (genitive sg.)}
+Catutthassa: {of the fourth, said of jhāna or path (genitive sg.)}
+Ākāsānañcāyatanassa: {of the base of the infinity of space (genitive sg.)}
+Viññāṇañcāyatanassa: {of the base of the infinity of consciousness (genitive sg.)}
+Ākiñcaññāyatanassa: {of the base of nothingness (genitive sg.)}
+Nevasaññānāsaññāyatanassa: {of the base of neither perception nor non-perception (genitive sg.)}

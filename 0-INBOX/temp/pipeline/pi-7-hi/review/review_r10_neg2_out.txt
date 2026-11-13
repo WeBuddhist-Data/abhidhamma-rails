@@ -1,0 +1,1352 @@
+## 13 delta=2 ('nadassanen',)
+   ids: 4-20:7 4-20:8 4-20:9 4-20:13 4-20:14 4-20:15 5-02:225 5-02:229 5-04:315 5-04:325 5-10:151 5-10:152 5-16:75
+   P: Kusalaṃ nadassanena pahātabbaṃ dhammaṃ paṭicca kusalo nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: हितकर, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 12 delta=-2 ('anupādinn', 'anupādinna')
+   ids: 4-18:105 4-18:106 4-18:107 4-18:112 4-18:113 4-18:114 4-18:115 4-18:116 4-18:117 4-18:117 4-18:117 5-02:214
+   P: Kusalaṃ anupādinnaṃ dhammaṃ paṭicca kusalo anupādinno dhammo uppajjati hetupaccayā
+   H: हितकर, कर्म से उत्पन्न न होने वाली परिघटना पर निर्भर होकर हितकर, कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 12 delta=1 ('nabhāvanāy',)
+   ids: 5-02:332 5-02:334 5-03:61 5-03:64 5-09:135 5-09:136 5-10:155 5-10:163 5-15:84 5-15:84 5-15:84 5-16:80
+   P: nabhāvanāya pahātabbaṃ hetuṃ dhammaṃ paṭicca
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी परिघटना पर निर्भर होकर
+## 12 delta=1 ('nadassanen', 'nahetu')
+   ids: 5-05:47 5-05:50 5-06:121 5-06:121 5-08:70 5-08:72 5-08:127 5-08:127 5-17:141 5-18:110 5-18:111 5-20:89
+   P: Nahetuṃ nadassanena pahātabbaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 11 delta=1 ('nadassanen',)
+   ids: 5-02:331 5-02:333 5-03:61 5-03:64 5-09:135 5-09:143 5-10:150 5-10:160 5-15:83 5-15:88 5-16:79
+   P: nadassanena pahātabbaṃ hetuṃ dhammaṃ paṭicca
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, मूल रूपी परिघटना पर निर्भर होकर
+## 10 delta=1 ('nabhāvanāy', 'nahetu')
+   ids: 5-05:48 5-05:51 5-06:121 5-06:121 5-08:72 5-08:72 5-08:127 5-08:127 5-17:142 5-20:91
+   P: Nahetuṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 10 delta=1 ('nadassanen', 'nakusala')
+   ids: 5-05:175 5-05:177 5-06:84 5-06:84 5-07:58 5-07:60 5-07:116 5-07:117 5-19:43 5-19:47
+   P: Nadassanena pahātabbaṃ nakusalaṃ dhammaṃ paṭicca
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 10 delta=1 ('nabhāvanāy', 'nakusala')
+   ids: 5-05:176 5-05:177 5-06:84 5-06:84 5-07:58 5-07:60 5-07:116 5-07:117 5-19:44 5-19:48
+   P: Nabhāvanāya pahātabbaṃ nakusalaṃ dhammaṃ paṭicca
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 9 delta=-2 ('asaṃkiliṭṭh', 'asaṃkiliṭṭha')
+   ids: 4-19:42 4-19:42 4-19:43 4-19:44 4-19:45 4-19:47 4-19:48 4-19:49 4-19:50
+   P: Kusalaṃ asaṃkiliṭṭhaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭho dhammo uppajjati hetupaccayā.
+   H: हितकर, क्लेशों से मलिन न होने वाली परिघटना पर निर्भर होकर हितकर, क्लेशों से मलिन न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 8 delta=2 ('nabhāvanāy',)
+   ids: 4-20:40 5-02:227 5-02:231 5-04:320 5-04:330 5-10:156 5-10:157 5-16:78
+   P: Kusalaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā.
+   H: हितकर, मानसिक अभ्यास से छोड़े जाने वाले मूलों से रहित परिघटना पर निर्भर होकर हितकर, मानसिक अभ्यास से छोड़े जाने वाले मूलों से रहित परिघटना मूल-कारण से उत्पन्न होती है।
+## 8 delta=1 ('nadassanen', 'nahet')
+   ids: 5-11:55 5-11:59 5-12:213 5-12:216 5-14:80 5-14:82 5-14:181 5-14:188
+   P: Hetuṃ dassanena pahātabbaṃ dhammaṃ paṭicca nahetu nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: मूल रूपी, सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 6 delta=-2 ('sauttar', 'sauttara')
+   ids: 4-21:4 4-21:5 4-21:6 4-21:10 4-21:11 4-21:12
+   P: Kusalaṃ sauttaraṃ dhammaṃ paṭicca kusalo sauttaro dhammo uppajjati hetupaccayā
+   H: हितकर, सर्वोच्च न होने वाली परिघटना पर निर्भर होकर हितकर, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 6 delta=1 ('naakusal', 'nadassanen')
+   ids: 5-11:227 5-11:235 5-12:146 5-12:150 5-13:53 5-13:57
+   P: Dassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca nadassanena pahātabbo naakusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली, हानिकर परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 6 delta=1 ('naakusal', 'nabhāvanāy')
+   ids: 5-11:231 5-11:239 5-12:148 5-12:153 5-13:54 5-13:58
+   P: Bhāvanāya pahātabbaṃ akusalaṃ dhammaṃ paṭicca nabhāvanāya pahātabbo naakusalo dhammo uppajjati hetupaccayā
+   H: मानसिक अभ्यास से छोड़ी जाने वाली, हानिकर परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 5 delta=1 ('nahetu', 'nakenac')
+   ids: 5-02:292 5-08:39 5-08:99 5-20:30 5-20:122
+   P: nakenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर
+## 5 delta=1 ('nabhāvanāy', 'nadassanen')
+   ids: 5-09:137 5-09:138 5-09:139 5-15:83 5-15:83
+   P: Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: न सत्य-दर्शन से न मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 4 delta=1 ('n',)
+   ids: 4-17:136 5-04:239 5-10:211 5-17:257
+   P: (Āsavagocchakasadisaṃ§) Diṭṭhiṃ paṭicca diṭṭhi na uppajjati.
+   H: (मन के मैलों के वर्ग के समान§) दृष्टि पर निर्भर होकर दृष्टि उत्पन्न नहीं होती।
+## 4 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'asaṃkiliṭṭhasaṃkilesika')
+   ids: 5-01:89 5-01:90 5-01:397 5-01:400
+   P: Kusalaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: हितकर, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर हितकर, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 4 delta=1 ('nakenac', 'nakusala')
+   ids: 5-05:140 5-06:48 5-17:39 5-18:39
+   P: Nakenaci viññeyyaṃ nakusalaṃ dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 4 delta=1 ('nakusala', 'nanadassanen')
+   ids: 5-05:175 5-05:177 5-06:84 5-06:84
+   P: nanadassanena pahātabbaṃ nakusalaṃ dhammaṃ paṭicca
+   H: सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 4 delta=1 ('nakusala', 'nanabhāvanāy')
+   ids: 5-05:176 5-05:177 5-06:84 5-06:85
+   P: nanabhāvanāya pahātabbaṃ nakusalaṃ dhammaṃ paṭicca
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 4 delta=1 ('nahetu', 'nanadassanen')
+   ids: 5-08:71 5-08:72 5-08:127 5-08:127
+   P: Nahetuṃ nanadassanena pahātabbaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर
+## 4 delta=1 ('nahetu', 'nanabhāvanāy')
+   ids: 5-08:72 5-08:73 5-08:127 5-08:127
+   P: nahetuṃ nanabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर
+## 4 delta=1 ('nahet',)
+   ids: 5-09:17 5-11:367 5-15:19 5-17:317
+   P: ###### Nahetu-naārammaṇapaccayā
+   H: ###### मूल-कारण का अभाव और विषय-कारण का अभाव
+## 4 delta=2 ('naabyākat', 'nadassanen', 'nanadassanen')
+   ids: 5-11:228 5-11:236 5-12:147 5-12:152
+   P: Nadassanena pahātabbaṃ abyākataṃ dhammaṃ paccayā nanadassanena pahātabbo naabyākato dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित परिघटना के कारण सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 4 delta=-2 ('araṇa', 'nasaraṇ', 'nasauttar', 'sauttara')
+   ids: 5-14:223 5-20:185 5-20:186 5-20:188
+   P: Araṇaṃ sauttaraṃ dhammaṃ paccayā nasaraṇo nasauttaro dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित, सर्वोच्च न होने वाली परिघटना के कारण संघर्ष वाली न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 4 delta=1 ('anidassanaappaṭigh', 'nadassanen', 'nasanidassanasappaṭigha')
+   ids: 5-18:214 5-18:218 5-19:203 5-19:207
+   P: Nasanidassanasappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā anidassanaappaṭigho dassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण दिखाई न देने वाली और टकराव से रहित, सत्य-दर्शन से छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 4 delta=1 ('anidassanaappaṭigh', 'nabhāvanāy', 'nasanidassanasappaṭigha')
+   ids: 5-18:216 5-18:220 5-19:204 5-19:208
+   P: Nasanidassanasappaṭighaṃ nabhāvanāya pahātabbaṃ dhammaṃ paccayā anidassanaappaṭigho bhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना के कारण दिखाई न देने वाली और टकराव से रहित, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 3 delta=2 ('nakenac',)
+   ids: 4-16:174 5-04:102 5-10:74
+   P: Kusalaṃ nakenaci viññeyyaṃ dhammaṃ paṭicca kusalo nakenaci viññeyyo dhammo uppajjati hetupaccayā (kenaciviññeyyasadisaṃ).
+   H: हितकर, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर हितकर, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है (किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटनाओं वाले दो के वर्गीकरण के समान)।
+## 3 delta=-2 ('acetasik', 'acetasika')
+   ids: 4-18:53 4-18:54 4-18:55
+   P: Kusalaṃ acetasikaṃ dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā.
+   H: हितकर, मन की सहचर न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=-2 ('asaṃkiliṭṭhaasaṃkilesik', 'asaṃkiliṭṭhaasaṃkilesika')
+   ids: 5-01:93 5-01:94 5-01:398
+   P: Kusalaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: हितकर, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर हितकर, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=1 ('nakenac',)
+   ids: 5-02:291 5-10:72 5-16:28
+   P: nakenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी परिघटना पर निर्भर होकर
+## 3 delta=2 ('nakenac', 'nanakenac')
+   ids: 5-04:102 5-10:72 5-10:73
+   P: Nakenaci viññeyyaṃ dhammaṃ paṭicca nanakenaci viññeyyo dhammo uppajjati hetupaccayā.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=3 ('nadassanen', 'nanadassanen')
+   ids: 5-04:317 5-04:327 5-16:77
+   P: Nadassanena pahātabbañca nanadassanena pahātabbañca dhammaṃ paṭicca nadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली परिघटना और सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=-1 ('nahetu', 'nauppādi')
+   ids: 5-05:76 5-06:129 5-12:240
+   P: Nahetuṃ nauppādiṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 3 delta=1 ('nadassanen', 'nasanidassanasappaṭigha')
+   ids: 5-06:175 5-07:155 5-07:157
+   P: Nasanidassanasappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 3 delta=1 ('nanadassanen',)
+   ids: 5-10:150 5-10:160 5-16:76
+   P: Dassanena pahātabbaṃ dhammaṃ paṭicca nanadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=2 ('nadassanen', 'nanadassanen')
+   ids: 5-10:150 5-16:76 5-16:76
+   P: Dassanena pahātabbaṃ dhammaṃ paṭicca nadassanena pahātabbo ca nanadassanena pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली और सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 3 delta=1 ('nabhāvanāy', 'nahet')
+   ids: 5-11:56 5-11:60 5-14:185
+   P: Hetuṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca nahetu nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: मूल रूपी, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 3 delta=1 ('nadassanen', 'nasaraṇ', 'saraṇa')
+   ids: 5-11:316 5-11:320 5-14:221
+   P: Saraṇaṃ dassanena pahātabbaṃ dhammaṃ paṭicca nasaraṇo nadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: संघर्ष वाली, सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर संघर्ष वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 3 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik', 'nakusal')
+   ids: 5-13:41 5-13:42 5-13:130
+   P: Kusalaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nakusalo naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: हितकर, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 3 delta=1 ('naakusala', 'nadassanen')
+   ids: 5-17:94 5-19:127 5-19:131
+   P: Nadassanena pahātabbaṃ naakusalaṃ dhammaṃ paccayā dassanena pahātabbo akusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर न होने वाली परिघटना के कारण सत्य-दर्शन से छोड़ी जाने वाली, हानिकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-3 ('acetasik', 'acetasika')
+   ids: 4-18:56 4-18:57
+   P: Kusalaṃ acetasikañca abyākataṃ acetasikañca dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā.
+   H: हितकर, मन की सहचर न होने वाली परिघटना और नैतिक रूप से अनिर्धारित, मन की सहचर न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-3 ('anupādinn', 'anupādinna')
+   ids: 4-18:108 4-18:109
+   P: Kusalaṃ anupādinnañca abyākataṃ anupādinnañca dhammaṃ paṭicca abyākato anupādinno dhammo uppajjati hetupaccayā.
+   H: हितकर, कर्म से उत्पन्न न होने वाली परिघटना और नैतिक रूप से अनिर्धारित, कर्म से उत्पन्न न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-3 ('asaṃkiliṭṭh', 'asaṃkiliṭṭha')
+   ids: 4-19:42 4-19:43
+   P: Kusalaṃ asaṃkiliṭṭhaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭho ca abyākato asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā.
+   H: हितकर, क्लेशों से मलिन न होने वाली परिघटना पर निर्भर होकर हितकर, क्लेशों से मलिन न होने वाली परिघटना और नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली परिघटना मूल-कारण से उत्पन्न होती हैं।
+## 2 delta=3 ('nadassanen',)
+   ids: 4-20:10 4-20:11
+   P: Kusalaṃ nadassanena pahātabbañca abyākataṃ nadassanena pahātabbañca dhammaṃ paṭicca abyākato nadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: हितकर, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना और नैतिक रूप से अनिर्धारित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-3 ('sauttar', 'sauttara')
+   ids: 4-21:7 4-21:8
+   P: Kusalaṃ sauttarañca abyākataṃ sauttarañca dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: हितकर, सर्वोच्च न होने वाली परिघटना और नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-2 ('araṇ', 'araṇa', 'asaṃkiliṭṭhasaṃkilesik', 'asaṃkiliṭṭhasaṃkilesika')
+   ids: 4-21:106 4-21:110
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ araṇaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko araṇo dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, संघर्ष से रहित परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, संघर्ष से रहित परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-2 ('araṇ', 'araṇa', 'asaṃkiliṭṭhaasaṃkilesik', 'asaṃkiliṭṭhaasaṃkilesika')
+   ids: 4-21:107 4-21:111
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ araṇaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko araṇo dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली, संघर्ष से रहित परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली, संघर्ष से रहित परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=-1 ('sauttara',)
+   ids: 5-02:246 5-02:347
+   P: Hetuṃ sauttaraṃ dhammaṃ paṭicca
+   H: मूल रूपी, सर्वोच्च न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=3 ('nakenac', 'nanakenac')
+   ids: 5-04:102 5-04:104
+   P: Nakenaci viññeyyaṃ dhammaṃ paṭicca nakenaci viññeyyo ca nanakenaci viññeyyo ca dhammā uppajjanti hetupaccayā.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली और किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 2 delta=2 ('nanadassanen',)
+   ids: 5-04:316 5-04:326
+   P: Nanadassanena pahātabbaṃ dhammaṃ paṭicca nanadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nanabhāvanāy',)
+   ids: 5-04:321 5-04:331
+   P: Nanabhāvanāya pahātabbaṃ dhammaṃ paṭicca nanabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=3 ('nabhāvanāy', 'nanabhāvanāy')
+   ids: 5-04:322 5-04:332
+   P: Nabhāvanāya pahātabbañca nanabhāvanāya pahātabbañca dhammaṃ paṭicca nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना और मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-1 ('sauttaraduka',)
+   ids: 5-04:394 5-10:198
+   P: ##### Sauttaradukaṃ
+   H: ##### सर्वोच्च न होने वाला दो का वर्गीकरण
+## 2 delta=-1 ('naasaṃkiliṭṭhasaṃkilesika', 'nahetu')
+   ids: 5-05:39 5-06:118
+   P: Nahetuṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesika', 'nahetu')
+   ids: 5-05:40 5-06:118
+   P: Nahetuṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nakusala', 'nanakenac')
+   ids: 5-05:140 5-06:48
+   P: nanakenaci viññeyyaṃ nakusalaṃ dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('nakusala', 'nasauttara')
+   ids: 5-05:184 5-06:100
+   P: Nasauttaraṃ nakusalaṃ dhammaṃ paṭicca
+   H: सर्वोच्च न होने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('naasaṃkiliṭṭhasaṃkilesika', 'nakusala')
+   ids: 5-07:49 5-07:112
+   P: Nakusalaṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca
+   H: हितकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesika', 'nakusala')
+   ids: 5-07:50 5-07:112
+   P: Nakusalaṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca
+   H: हितकर न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('nakusala', 'nauppādi')
+   ids: 5-07:77 5-07:125
+   P: nakusalaṃ nauppādiṃ dhammaṃ paṭicca
+   H: हितकर न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nabhāvanāy', 'nasanidassanasappaṭigha')
+   ids: 5-07:155 5-07:157
+   P: nasanidassanasappaṭighaṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nahetu', 'nanakenac')
+   ids: 5-08:39 5-08:99
+   P: nahetuṃ nanakenaci viññeyyaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('naanupādinna', 'nahetu')
+   ids: 5-08:67 5-08:122
+   P: Nahetuṃ naanupādinnaṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=-1 ('nahetu', 'nasauttara')
+   ids: 5-08:77 5-08:133
+   P: Nahetuṃ nasauttaraṃ dhammaṃ paṭicca
+   H: मूल रूपी न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nadassanen', 'nasaraṇa')
+   ids: 5-08:188 5-08:188
+   P: Nasaraṇaṃ nadassanena pahātabbaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nanadassanen', 'nasaraṇa')
+   ids: 5-08:188 5-08:188
+   P: nasaraṇaṃ nanadassanena pahātabbaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nabhāvanāy', 'nasaraṇa')
+   ids: 5-08:188 5-08:188
+   P: nasaraṇaṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nanabhāvanāy', 'nasaraṇa')
+   ids: 5-08:188 5-08:189
+   P: nasaraṇaṃ nanabhāvanāya pahātabbaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर
+## 2 delta=1 ('nanabhāvanāy',)
+   ids: 5-10:155 5-10:163
+   P: Bhāvanāya pahātabbaṃ dhammaṃ paṭicca nanabhāvanāya pahātabbo dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nakenac', 'nakusal')
+   ids: 5-11:146 5-12:77
+   P: Kenaci viññeyyaṃ kusalaṃ dhammaṃ paṭicca nakenaci viññeyyo nakusalo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली, हितकर परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('naakusal', 'nakenac')
+   ids: 5-11:147 5-12:77
+   P: Kenaci viññeyyaṃ akusalaṃ dhammaṃ paṭicca nakenaci viññeyyo naakusalo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली, हानिकर परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('naabyākat', 'nakenac')
+   ids: 5-11:148 5-12:77
+   P: Kenaci viññeyyaṃ abyākataṃ dhammaṃ paccayā nakenaci viññeyyo naabyākato dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली, नैतिक रूप से अनिर्धारित परिघटना के कारण किसी एक प्रकार की चेतना से न जानी जा सकने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nadassanen', 'nakusal')
+   ids: 5-11:226 5-11:234
+   P: Nadassanena pahātabbaṃ kusalaṃ dhammaṃ paṭicca nadassanena pahātabbo nakusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हितकर परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nabhāvanāy', 'nakusal')
+   ids: 5-11:230 5-11:238
+   P: Nabhāvanāya pahātabbaṃ kusalaṃ dhammaṃ paṭicca nabhāvanāya pahātabbo nakusalo dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, हितकर परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('naabyākat', 'nabhāvanāy', 'nanabhāvanāy')
+   ids: 5-11:232 5-12:149
+   P: Nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paccayā nanabhāvanāya pahātabbo naabyākato dhammo uppajjati hetupaccayā
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित परिघटना के कारण मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('nabhāvanāy', 'nasaraṇ', 'saraṇa')
+   ids: 5-11:317 5-11:321
+   P: Saraṇaṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca nasaraṇo nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā.
+   H: संघर्ष वाली, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर संघर्ष वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nadassanen', 'nakusal', 'nanadassanen')
+   ids: 5-12:147 5-12:151
+   P: Abyākataṃ nadassanena pahātabbaṃ dhammaṃ paccayā nakusalo nanadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण हितकर न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nabhāvanāy', 'nahetu', 'nanahet')
+   ids: 5-12:214 5-12:217
+   P: Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca nabhāvanāya pahātabbo nanahetu dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=-2 ('anupādinn', 'naanupādinna', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-12:347 5-18:208
+   P: Sanidassanasappaṭigho anupādinno dhammo nasanidassanasappaṭighassa naanupādinnassa dhammassa ārammaṇapaccayena paccayo.
+   H: दिखाई देने वाली और टकराव वाली, कर्म से उत्पन्न न होने वाली परिघटना, दिखाई देने वाली और टकराव वाली न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना के लिए विषय-कारण के रूप में कारण होती है।
+## 2 delta=1 ('anidassanaappaṭigha', 'naanidassanaappaṭigh', 'nadassanen')
+   ids: 5-12:352 5-12:358
+   P: Anidassanaappaṭighaṃ dassanena pahātabbaṃ dhammaṃ paṭicca naanidassanaappaṭigho nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('anidassanaappaṭigha', 'nadassanen', 'nanadassanen', 'nasanidassanasappaṭigh')
+   ids: 5-12:353 5-12:359
+   P: Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā nasanidassanasappaṭigho nanadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: दिखाई न देने वाली और टकराव से रहित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण दिखाई देने वाली और टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('anidassanaappaṭigha', 'naanidassanaappaṭigh', 'nabhāvanāy')
+   ids: 5-12:355 5-12:361
+   P: Anidassanaappaṭighaṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca naanidassanaappaṭigho nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('anidassanaappaṭigha', 'nabhāvanāy', 'nanabhāvanāy', 'nasanidassanasappaṭigh')
+   ids: 5-12:356 5-12:362
+   P: Anidassanaappaṭighaṃ nabhāvanāya pahātabbaṃ dhammaṃ paccayā nasanidassanasappaṭigho nanabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना के कारण दिखाई देने वाली और टकराव वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naabyākat', 'naasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-13:40 5-13:132
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā naabyākato naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण नैतिक रूप से अनिर्धारित न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nahet', 'nakenac')
+   ids: 5-14:34 5-14:115
+   P: Hetuṃ kenaci viññeyyaṃ dhammaṃ paṭicca nahetu nakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: मूल रूपी, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nahet', 'nakenac', 'nanakenac')
+   ids: 5-14:35 5-14:116
+   P: Hetuṃ nakenaci viññeyyaṃ dhammaṃ paṭicca nahetu nanakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: मूल रूपी, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('nahet', 'nocittānuparivatt')
+   ids: 5-14:71 5-14:165
+   P: Hetuṃ cittānuparivattiṃ dhammaṃ paṭicca nahetu nocittānuparivattī dhammo uppajjati hetupaccayā
+   H: मूल रूपी, मन का अनुसरण करने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nadassanen', 'nahetu', 'nanadassanen', 'nanahet')
+   ids: 5-14:81 5-14:83
+   P: Nahetuṃ nadassanena pahātabbaṃ dhammaṃ paccayā nanahetu nanadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण मूल रूपी न होने वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('nahetu', 'nanadassanen', 'nanahet')
+   ids: 5-14:183 5-14:190
+   P: Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca nanadassanena pahātabbo nanahetu dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nadassanen', 'nahetu', 'nanahet')
+   ids: 5-14:184 5-14:190
+   P: Nadassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca nadassanena pahātabbo nanahetu dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-1 ('acetasik', 'nacetasika')
+   ids: 5-16:54 5-16:54
+   P: Nacetasikaṃ dhammaṃ paṭicca acetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=-1 ('nacittasaṃsaṭṭha',)
+   ids: 5-16:58 5-16:58
+   P: Nacittasaṃsaṭṭhaṃ dhammaṃ paṭicca cittavisaṃsaṭṭho dhammo uppajjati hetupaccayā.
+   H: मन से घुली-मिली न होने वाली परिघटना पर निर्भर होकर मन से घुली-मिली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nacittānuparivatti', 'nocittānuparivatt')
+   ids: 5-16:61 5-16:61
+   P: Nacittānuparivattiṃ dhammaṃ paṭicca nocittānuparivattī dhammo uppajjati hetupaccayā.
+   H: मन का अनुसरण करने वाली न होने वाली परिघटना पर निर्भर होकर मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nadassanen', 'nakusala')
+   ids: 5-17:93 5-17:97
+   P: Nadassanena pahātabbaṃ nakusalaṃ dhammaṃ paccayā nadassanena pahātabbo kusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना के कारण सत्य-दर्शन से न छोड़ी जाने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nabhāvanāy', 'nakusala')
+   ids: 5-17:96 5-17:98
+   P: Nabhāvanāya pahātabbaṃ nakusalaṃ dhammaṃ paccayā nabhāvanāya pahātabbo kusalo dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना के कारण मानसिक अभ्यास से न छोड़ी जाने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nadassanen', 'nahet', 'nanahetu')
+   ids: 5-17:145 5-20:93
+   P: Nanahetuṃ nadassanena pahātabbahetukaṃ dhammaṃ paṭicca nahetu dassanena pahātabbahetuko dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली न होने वाली, सत्य-दर्शन से छोड़े जाने वाले मूलों से रहित परिघटना पर निर्भर होकर मूल रूपी न होने वाली, सत्य-दर्शन से छोड़े जाने वाले मूलों वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nabhāvanāy', 'nahet', 'nanahetu')
+   ids: 5-17:146 5-20:95
+   P: Nanahetuṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nahetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली न होने वाली, मानसिक अभ्यास से छोड़े जाने वाले मूलों से रहित परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मानसिक अभ्यास से छोड़े जाने वाले मूलों वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=1 ('nakenac', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-17:233 5-18:159
+   P: Nakenaci viññeyyaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca kenaci viññeyyo sanidassanasappaṭigho dhammo uppajjati hetupaccayā.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से जानी जा सकने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nakenac', 'nasanidassanasappaṭigha', 'naviññeyy', 'sanidassanasappaṭigh')
+   ids: 5-17:233 5-17:233
+   P: Nakenaci viññeyyaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca kenaci naviññeyyo sanidassanasappaṭigho dhammo uppajjati hetupaccayā.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 2 delta=2 ('nadassanen', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-17:295 5-17:297
+   P: Nadassanena pahātabbaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nadassanena pahātabbo sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nabhāvanāy', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-17:296 5-17:298
+   P: Nabhāvanāya pahātabbaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nabhāvanāya pahātabbo sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=-2 ('nasanidassanasappaṭigha', 'nasauttara', 'sanidassanasappaṭigh', 'sauttar')
+   ids: 5-17:311 5-18:246
+   P: Nasauttaraṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca sauttaro sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: सर्वोच्च न होने वाली न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nadassanen', 'nanadassanen', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-18:215 5-18:219
+   P: Nasanidassanasappaṭighaṃ nanadassanena pahātabbaṃ dhammaṃ paṭicca sanidassanasappaṭigho nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nabhāvanāy', 'nanabhāvanāy', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-18:217 5-18:221
+   P: Nasanidassanasappaṭighaṃ nanabhāvanāya pahātabbaṃ dhammaṃ paṭicca sanidassanasappaṭigho nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=1 ('nabhāvanāy', 'nadassanen', 'nakusala')
+   ids: 5-19:126 5-19:130
+   P: Nadassanena pahātabbaṃ nakusalaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo kusalo dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हितकर न होने वाली परिघटना के कारण न सत्य-दर्शन से न मानसिक अभ्यास से छोड़ी जाने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nadassanen', 'nahet', 'nahetu', 'nanadassanen')
+   ids: 5-20:90 5-20:94
+   P: Nahetuṃ nanadassanena pahātabbaṃ dhammaṃ paṭicca nahetu nadassanena pahātabbo dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 2 delta=2 ('nabhāvanāy', 'nahet', 'nahetu', 'nanabhāvanāy')
+   ids: 5-20:92 5-20:96
+   P: Nahetuṃ nanabhāvanāya pahātabbaṃ dhammaṃ paṭicca nahetu nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nabhāvanāy', 'saṃkhitta')
+   ids: 4-20:24
+   P: Kusalaṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā (saṃkhittaṃ).
+   H: हितकर, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है (संक्षिप्त)।
+## 1 delta=2 ('nadassanen', 'saṃkhitta')
+   ids: 4-20:32
+   P: Kusalaṃ nadassanena pahātabbahetukaṃ dhammaṃ paṭicca kusalo nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā (saṃkhittaṃ).
+   H: हितकर, सत्य-दर्शन से छोड़े जाने वाले मूलों से रहित परिघटना पर निर्भर होकर हितकर, सत्य-दर्शन से छोड़े जाने वाले मूलों से रहित परिघटना मूल-कारण से उत्पन्न होती है (संक्षिप्त)।
+## 1 delta=-3 ('araṇ', 'araṇa', 'asaṃkiliṭṭhaasaṃkilesika', 'asaṃkiliṭṭhasaṃkilesik', 'asaṃkiliṭṭhasaṃkilesika')
+   ids: 4-21:108
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ araṇañca asaṃkiliṭṭhaasaṃkilesikaṃ araṇañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko araṇo dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, संघर्ष से रहित परिघटना और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली, संघर्ष से रहित परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, संघर्ष से रहित परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-3 ('asaṃkiliṭṭhasaṃkilesik', 'asaṃkiliṭṭhasaṃkilesika')
+   ids: 5-01:91
+   P: Kusalaṃ asaṃkiliṭṭhasaṃkilesikañca abyākataṃ asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca abyākato asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: हितकर, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना और नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naviññeyy', 'naviññeyya')
+   ids: 5-02:119
+   P: Hetuṃ kenaci naviññeyyaṃ dhammaṃ paṭicca hetu kenaci naviññeyyo dhammo uppajjati hetupaccayā.
+   H: मूल रूपी, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर मूल रूपी, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('acetasik', 'acetasika', 'nahet', 'nahetu')
+   ids: 5-02:177
+   P: Nahetuṃ acetasikaṃ dhammaṃ paṭicca nahetu acetasiko dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली, मन की सहचर न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('nahet', 'nahetu')
+   ids: 5-02:185
+   P: Nahetuṃ cittavisaṃsaṭṭhaṃ dhammaṃ paṭicca nahetu cittavisaṃsaṭṭho dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली, मन से घुली-मिली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन से घुली-मिली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nahet', 'nahetu', 'nocittānuparivatt', 'nocittānuparivatti')
+   ids: 5-02:195
+   P: Nahetuṃ nocittānuparivattiṃ dhammaṃ paṭicca nahetu nocittānuparivattī dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली, मन का अनुसरण न करने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nahet', 'nahetu', 'nocittasaṃsaṭṭhasamuṭṭhānānuparivatt', 'nocittasaṃsaṭṭhasamuṭṭhānānuparivatti')
+   ids: 5-02:204
+   P: Nahetuṃ nocittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ dhammaṃ paṭicca nahetu nocittasaṃsaṭṭhasamuṭṭhānānuparivattī dhammo uppajjati hetupaccayā.
+   H: मूल रूपी न होने वाली, मन से घुली-मिली मन से उत्पन्न और मन का अनुसरण न करने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन से घुली-मिली मन से उत्पन्न और मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anupādinna',)
+   ids: 5-02:325
+   P: anupādinnaṃ hetuṃ dhammaṃ paṭicca
+   H: कर्म से उत्पन्न न होने वाली, मूल रूपी परिघटना पर निर्भर होकर
+## 1 delta=-2 ('naasaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-03:48
+   P: Naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('naasaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika')
+   ids: 5-03:49
+   P: Naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanuppanna', 'nauppād')
+   ids: 5-03:88
+   P: Naanuppannaṃ dhammaṃ paṭicca nauppādī dhammo uppajjati hetupaccayā.
+   H: उत्पन्न न हुई न होने वाली परिघटना पर निर्भर होकर उत्पन्न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanuppann', 'naanuppanna', 'nauppād')
+   ids: 5-03:88
+   P: Naanuppannaṃ dhammaṃ paṭicca naanuppanno ca nauppādī ca dhammā uppajjanti hetupaccayā.
+   H: उत्पन्न न हुई न होने वाली परिघटना पर निर्भर होकर उत्पन्न न हुई न होने वाली और उत्पन्न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('nauppād', 'nauppādi')
+   ids: 5-03:89
+   P: Nauppādiṃ dhammaṃ paṭicca nauppādī dhammo uppajjati hetupaccayā.
+   H: उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanuppann', 'nauppādi')
+   ids: 5-03:89
+   P: Nauppādiṃ dhammaṃ paṭicca naanuppanno dhammo uppajjati hetupaccayā.
+   H: उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न न हुई न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naanuppann', 'nauppād', 'nauppādi')
+   ids: 5-03:89
+   P: Nauppādiṃ dhammaṃ paṭicca naanuppanno ca nauppādī ca dhammā uppajjanti hetupaccayā.
+   H: उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न न हुई न होने वाली और उत्पन्न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naanuppann', 'naanuppanna', 'nauppādi')
+   ids: 5-03:90
+   P: Naanuppannañca nauppādiñca dhammaṃ paṭicca naanuppanno dhammo uppajjati hetupaccayā.
+   H: उत्पन्न न हुई न होने वाली परिघटना और उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न न हुई न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naanuppanna', 'nauppād', 'nauppādi')
+   ids: 5-03:90
+   P: Naanuppannañca nauppādiñca dhammaṃ paṭicca nauppādī dhammo uppajjati hetupaccayā.
+   H: उत्पन्न न हुई न होने वाली परिघटना और उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naanuppann', 'naanuppanna', 'nauppād', 'nauppādi')
+   ids: 5-03:90
+   P: Naanuppannañca nauppādiñca dhammaṃ paṭicca naanuppanno ca nauppādī ca dhammā uppajjanti hetupaccayā.
+   H: उत्पन्न न हुई न होने वाली परिघटना और उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर उत्पन्न न हुई न होने वाली और उत्पन्न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=2 ('nanakenac',)
+   ids: 5-04:103
+   P: Nanakenaci viññeyyaṃ dhammaṃ paṭicca nanakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naacetasik', 'nacetasika')
+   ids: 5-04:233
+   P: Nacetasikaṃ dhammaṃ paṭicca naacetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naacetasik', 'nacetasik', 'nacetasika')
+   ids: 5-04:233
+   P: Nacetasikaṃ dhammaṃ paṭicca nacetasiko ca naacetasiko ca dhammā uppajjanti hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली और मन की सहचर न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('naacetasik', 'naacetasika')
+   ids: 5-04:234
+   P: Naacetasikaṃ dhammaṃ paṭicca naacetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naacetasika', 'nacetasik')
+   ids: 5-04:234
+   P: Naacetasikaṃ dhammaṃ paṭicca nacetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naacetasik', 'naacetasika', 'nacetasik')
+   ids: 5-04:234
+   P: Naacetasikaṃ dhammaṃ paṭicca nacetasiko ca naacetasiko ca dhammā uppajjanti hetupaccayā.
+   H: मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली और मन की सहचर न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naacetasika', 'nacetasik', 'nacetasika')
+   ids: 5-04:235
+   P: Nacetasikañca naacetasikañca dhammaṃ paṭicca nacetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना और मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naacetasik', 'naacetasika', 'nacetasika')
+   ids: 5-04:235
+   P: Nacetasikañca naacetasikañca dhammaṃ paṭicca naacetasiko dhammo uppajjati hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना और मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naacetasik', 'naacetasika', 'nacetasik', 'nacetasika')
+   ids: 5-04:235
+   P: Nacetasikañca naacetasikañca dhammaṃ paṭicca nacetasiko ca naacetasiko ca dhammā uppajjanti hetupaccayā.
+   H: मन की सहचर न होने वाली परिघटना और मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली और मन की सहचर न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('naanupādinn', 'naanupādinna')
+   ids: 5-04:268
+   P: Naanupādinnaṃ dhammaṃ paṭicca naanupādinno dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanupādinna', 'naupādinn')
+   ids: 5-04:268
+   P: Naanupādinnaṃ dhammaṃ paṭicca naupādinno dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naanupādinn', 'naanupādinna', 'naupādinn')
+   ids: 5-04:268
+   P: Naanupādinnaṃ dhammaṃ paṭicca naupādinno ca naanupādinno ca dhammā uppajjanti hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली और कर्म से उत्पन्न न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naanupādinna', 'naupādinn', 'naupādinna')
+   ids: 5-04:269
+   P: Naupādinnañca naanupādinnañca dhammaṃ paṭicca naupādinno dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली परिघटना और कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naasaṃkiliṭṭh', 'naasaṃkiliṭṭha')
+   ids: 5-04:286
+   P: Naasaṃkiliṭṭhaṃ dhammaṃ paṭicca naasaṃkiliṭṭho dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naasaṃkiliṭṭha', 'nasaṃkiliṭṭh')
+   ids: 5-04:286
+   P: Naasaṃkiliṭṭhaṃ dhammaṃ paṭicca nasaṃkiliṭṭho dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naasaṃkiliṭṭh', 'naasaṃkiliṭṭha', 'nasaṃkiliṭṭh')
+   ids: 5-04:286
+   P: Naasaṃkiliṭṭhaṃ dhammaṃ paṭicca nasaṃkiliṭṭho ca naasaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों से मलिन न होने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naasaṃkiliṭṭha', 'nasaṃkiliṭṭh', 'nasaṃkiliṭṭha')
+   ids: 5-04:287
+   P: Nasaṃkiliṭṭhañca naasaṃkiliṭṭhañca dhammaṃ paṭicca nasaṃkiliṭṭho dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली परिघटना और क्लेशों से मलिन न होने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naasaṃkiliṭṭh', 'naasaṃkiliṭṭha', 'nakiles', 'nakilesa')
+   ids: 5-04:300
+   P: Nakilesañceva naasaṃkiliṭṭhañca dhammaṃ paṭicca nakileso ceva naasaṃkiliṭṭho ca dhammo uppajjati hetupaccayā
+   H: मन के क्लेश रूपी न होने वाली भी और क्लेशों से मलिन न होने वाली न होने वाली भी परिघटना पर निर्भर होकर मन के क्लेश रूपी न होने वाली भी और क्लेशों से मलिन न होने वाली न होने वाली भी परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('naasaṃkiliṭṭh', 'naasaṃkiliṭṭha', 'nan')
+   ids: 5-04:301
+   P: Naasaṃkiliṭṭhañceva nano ca kilesaṃ dhammaṃ paṭicca naasaṃkiliṭṭho ceva nano ca kileso dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली न होने वाली, पर स्वयं मन के क्लेश रूपी न होने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली न होने वाली, पर स्वयं मन के क्लेश रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-3 ('naasaṃkiliṭṭh', 'naasaṃkiliṭṭha', 'nakiles', 'nakilesa', 'nan')
+   ids: 5-04:302
+   P: Nakilesañceva naasaṃkiliṭṭhañca naasaṃkiliṭṭhañceva nano ca kilesañca dhammaṃ paṭicca nakileso ceva naasaṃkiliṭṭho ca dhammo uppajjati hetupaccayā
+   H: मन के क्लेश रूपी न होने वाली भी और क्लेशों से मलिन न होने वाली न होने वाली भी परिघटना और क्लेशों से मलिन न होने वाली न होने वाली, पर स्वयं मन के क्लेश रूपी न होने वाली न होने वाली परिघटना पर निर्भर होकर मन के क्लेश रूपी न होने वाली भी और क्लेशों से मलिन न होने वाली न होने वाली भी परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nasauttar', 'nasauttara')
+   ids: 5-04:395
+   P: Nasauttaraṃ dhammaṃ paṭicca nasauttaro dhammo uppajjati hetupaccayā
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naanuttar', 'naanuttara', 'nasauttara')
+   ids: 5-04:397
+   P: Nasauttarañca naanuttarañca dhammaṃ paṭicca naanuttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना और सर्वोच्च न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=1 ('nakusala', 'nocittānuparivatti')
+   ids: 5-05:160
+   P: Nocittānuparivattiṃ nakusalaṃ dhammaṃ paṭicca
+   H: मन का अनुसरण न करने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naasaṃkiliṭṭha', 'nakusala')
+   ids: 5-05:169
+   P: naasaṃkiliṭṭhaṃ nakusalaṃ dhammaṃ paṭicca
+   H: क्लेशों से मलिन न होने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naasaṃkiliṭṭha', 'nakilesa', 'nakusala')
+   ids: 5-05:172
+   P: Nakilesañceva naasaṃkiliṭṭhañca nakusalaṃ dhammaṃ paṭicca
+   H: मन के क्लेश रूपी न होने वाली भी और क्लेशों से मलिन न होने वाली न होने वाली भी, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naasaṃkiliṭṭha', 'nakusala', 'nan')
+   ids: 5-05:172
+   P: naasaṃkiliṭṭhañceva nano ca kilesaṃ nakusalaṃ dhammaṃ paṭicca
+   H: क्लेशों से मलिन न होने वाली न होने वाली, पर स्वयं मन के क्लेश रूपी न होने वाली न होने वाली, हितकर न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('n', 'nanocittapada', 'saṃkhitta')
+   ids: 5-06:68
+   P: (saṃkhittaṃ, nanocittapadaṃ na labbhati).
+   H: (संक्षिप्त, मन रूपी न होने वाली न होने वाली पद लागू नहीं होता)।
+## 1 delta=-1 ('naanupādinna', 'nakusala')
+   ids: 5-06:77
+   P: Nakusalaṃ naanupādinnaṃ dhammaṃ paṭicca
+   H: हितकर न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('nakenac', 'nasanidassanasappaṭigha')
+   ids: 5-06:158
+   P: Nasanidassanasappaṭighaṃ nakenaci viññeyyaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('nanakenac', 'nasanidassanasappaṭigha')
+   ids: 5-06:158
+   P: nasanidassanasappaṭighaṃ nanakenaci viññeyyaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('n', 'nanocittapada')
+   ids: 5-06:164
+   P: (Nanocittapadaṃ na labbhati§)
+   H: (मन रूपी न होने वाली न होने वाली पद लागू नहीं होता§)
+## 1 delta=-1 ('naanupādinna', 'nasanidassanasappaṭigha')
+   ids: 5-06:171
+   P: nasanidassanasappaṭighaṃ naanupādinnaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('ajjhattārammaṇattik', 'akusalābyākatapadān', 'n', 'nakusala', 'nan', 'naupādinnupādāniya', 'sabbapotthakes', 'sanidassanattikes')
+   ids: 5-07:110
+   P: Naupādinnupādāniyaṃ nakusalaṃ {ito paṭṭhāya yāva ajjhattārammaṇattikā sabbapotthakesu akusalābyākatapadāni na dissanti, vedanāttika sanidassanattikesu viya nanu tehipi bhavitabbaṃ} dhammaṃ paṭicca
+   H: कर्म से उत्पन्न और आसक्ति का विषय बनने वाली न होने वाली, हितकर न होने वाली [पाठभेद: ito paṭṭhāya yāva ajjhattārammaṇattikā sabbapotthakesu akusalābyākatapadāni na dissanti, vedanāttika sanidassanattikesu viya nanu tehipi bhavitabbaṃ] परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naasaṃkiliṭṭhasaṃkilesika', 'nasanidassanasappaṭigha')
+   ids: 5-07:149
+   P: Nasanidassanasappaṭighaṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesika', 'nasanidassanasappaṭigha')
+   ids: 5-07:150
+   P: Nasanidassanasappaṭighaṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('nasanidassanasappaṭigha', 'nauppādi')
+   ids: 5-07:172
+   P: nasanidassanasappaṭighaṃ nauppādiṃ dhammaṃ paṭicca
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('nakenac', 'nasaraṇa')
+   ids: 5-08:155
+   P: Nasaraṇaṃ nakenaci viññeyyaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('nanakenac', 'nasaraṇa')
+   ids: 5-08:155
+   P: nasaraṇaṃ nanakenaci viññeyyaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-1 ('naanupādinna', 'nasaraṇa')
+   ids: 5-08:183
+   P: Nasaraṇaṃ naanupādinnaṃ dhammaṃ paṭicca
+   H: संघर्ष वाली न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=-2 ('nasaraṇ', 'nasaraṇa', 'nasauttar', 'nasauttara')
+   ids: 5-08:204
+   P: Nasaraṇaṃ nasauttaraṃ dhammaṃ paṭicca nasaraṇo nasauttaro dhammo uppajjati hetupaccayā.
+   H: संघर्ष वाली न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर संघर्ष वाली न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naasaṃkiliṭṭhasaṃkilesik', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-09:102
+   P: Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesik', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-09:102
+   P: Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesik', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-09:102
+   P: Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('naasaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesik', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-09:102
+   P: Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesika', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:103
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik')
+   ids: 5-09:103
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:103
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik')
+   ids: 5-09:104
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('asaṃkiliṭṭhaasaṃkilesika', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:104
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:104
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:104
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:104
+   P: Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली और क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'asaṃkiliṭṭhasaṃkilesika', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-09:105
+   P: Asaṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhaasaṃkilesikañca dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesika', 'nasaṃkiliṭṭhasaṃkilesik', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-09:106
+   P: Saṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना और क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('n', 'sadisa', 'sahajātavāramp', 'sampayuttavāramp', 'saṃsaṭṭhavāramp')
+   ids: 5-09:107
+   P: (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ§ Pañhāvāre na sadisaṃ§)
+   H: (सह-उत्पत्ति के खंड, कारण के खंड, आश्रय के खंड, घुले-मिले होने के खंड और जुड़ाव के खंड का भी विस्तार करना चाहिए§ प्रश्नों के खंड में समान नहीं है§)
+## 1 delta=1 ('nabhāvanāy', 'nanevadassanen')
+   ids: 5-09:135
+   P: Dassanena pahātabbaṃ dhammaṃ paṭicca nabhāvanāya pahātabbo ca nanevadassanena nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली और न सत्य-दर्शन से न मानसिक अभ्यास से छोड़ी जाने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=2 ('nabhāvanāy', 'nadassanen')
+   ids: 5-09:135
+   P: Dassanena pahātabbaṃ dhammaṃ paṭicca nadassanena pahātabbo ca nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली और मानसिक अभ्यास से न छोड़ी जाने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=1 ('aya', 'nalokiy', 'nalokiyanalokuttaradhamm', 'nalokuttar', 'natth', 'saṅkhy')
+   ids: 5-10:67
+   P: (Lokuttaraṃ dhammaṃ paṭicca nalokiyo ca nalokuttaro ca dhammā uppajjanti hetupaccayā§) {ayaṃ saṅkhyā vicāretabbā, nalokiyanalokuttaradhammo nāma natthi} (3)
+   H: (लोकोत्तर परिघटना पर निर्भर होकर लौकिक न होने वाली और लोकोत्तर न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं§) [पाठभेद: ayaṃ saṅkhyā vicāretabbā, nalokiyanalokuttaradhammo nāma natthi] (3)
+## 1 delta=1 ('nanakenac',)
+   ids: 5-10:72
+   P: Kenaci viññeyyaṃ dhammaṃ paṭicca nanakenaci viññeyyo dhammo uppajjati hetupaccayā.
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('anupādinna', 'naanupādinn')
+   ids: 5-10:141
+   P: Anupādinnaṃ dhammaṃ paṭicca naanupādinno dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anupādinna', 'naupādinn')
+   ids: 5-10:142
+   P: Upādinnañca anupādinnañca dhammaṃ paṭicca naupādinno dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न परिघटना और कर्म से उत्पन्न न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nabhāvanāy', 'nanabhāvanāy')
+   ids: 5-10:155
+   P: Bhāvanāya pahātabbaṃ dhammaṃ paṭicca nabhāvanāya pahātabbo ca nanabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली और मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naanuttar', 'sauttara')
+   ids: 5-10:199
+   P: Sauttaraṃ dhammaṃ paṭicca naanuttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anuttara', 'nasauttar')
+   ids: 5-10:200
+   P: Anuttaraṃ dhammaṃ paṭicca nasauttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च परिघटना पर निर्भर होकर सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anuttara', 'naanuttar', 'nasauttar')
+   ids: 5-10:200
+   P: Anuttaraṃ dhammaṃ paṭicca nasauttaro ca naanuttaro ca dhammā uppajjanti hetupaccayā.
+   H: सर्वोच्च परिघटना पर निर्भर होकर सर्वोच्च न होने वाली न होने वाली और सर्वोच्च न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('anuttara', 'naanuttar', 'sauttara')
+   ids: 5-10:201
+   P: Sauttarañca anuttarañca dhammaṃ paṭicca naanuttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली परिघटना और सर्वोच्च परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik', 'nahetu', 'nanahet')
+   ids: 5-11:44
+   P: Nahetuṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nanahetu naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik', 'nahet')
+   ids: 5-11:45
+   P: Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nahetu', 'nauppādi')
+   ids: 5-11:92
+   P: Hetu uppādī dhammo nahetussa nauppādissa dhammassa ārammaṇapaccayena paccayo
+   H: मूल रूपी, उत्पन्न होने वाली परिघटना, मूल रूपी न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना के लिए विषय-कारण के रूप में कारण होती है
+## 1 delta=-2 ('acetasika', 'naabyākat', 'naacetasik')
+   ids: 5-11:186
+   P: Acetasikaṃ abyākataṃ dhammaṃ paccayā naacetasiko naabyākato dhammo uppajjati hetupaccayā
+   H: मन की सहचर न होने वाली, नैतिक रूप से अनिर्धारित परिघटना के कारण मन की सहचर न होने वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nakusal', 'nocittānuparivatt')
+   ids: 5-11:200
+   P: Cittānuparivattiṃ kusalaṃ dhammaṃ paṭicca nocittānuparivattī nakusalo dhammo uppajjati hetupaccayā
+   H: मन का अनुसरण करने वाली, हितकर परिघटना पर निर्भर होकर मन का अनुसरण न करने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('naakusal', 'nocittānuparivatt')
+   ids: 5-11:201
+   P: Cittānuparivattiṃ akusalaṃ dhammaṃ paṭicca nocittānuparivattī naakusalo dhammo uppajjati hetupaccayā
+   H: मन का अनुसरण करने वाली, हानिकर परिघटना पर निर्भर होकर मन का अनुसरण न करने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('anupādinna', 'nakusal', 'naupādinn')
+   ids: 5-11:218
+   P: Anupādinnaṃ kusalaṃ dhammaṃ paṭicca naupādinno nakusalo dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली, हितकर परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anupādinna', 'naakusal', 'naupādinn')
+   ids: 5-11:219
+   P: Anupādinnaṃ akusalaṃ dhammaṃ paṭicca naupādinno naakusalo dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली, हानिकर परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusal', 'nadassanen')
+   ids: 5-11:227
+   P: Nadassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca nadassanena pahātabbo naakusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanuttar', 'nakusal', 'sauttara')
+   ids: 5-11:277
+   P: Sauttaraṃ kusalaṃ dhammaṃ paṭicca naanuttaro nakusalo dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली, हितकर परिघटना पर निर्भर होकर सर्वोच्च न होने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naakusal', 'naanuttar', 'sauttara')
+   ids: 5-11:278
+   P: Sauttaraṃ akusalaṃ dhammaṃ paṭicca naanuttaro naakusalo dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली, हानिकर परिघटना पर निर्भर होकर सर्वोच्च न होने वाली, हानिकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('araṇa', 'asaṃkiliṭṭhasaṃkilesika', 'naaraṇ', 'naasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-11:302
+   P: Araṇaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā naaraṇo naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण संघर्ष से रहित न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('araṇa', 'asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik', 'nasaraṇ')
+   ids: 5-11:302
+   P: Araṇaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā nasaraṇo naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण संघर्ष वाली न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('araṇa', 'asaṃkiliṭṭhaasaṃkilesika', 'naasaṃkiliṭṭhaasaṃkilesik', 'nasaraṇ')
+   ids: 5-11:303
+   P: Araṇaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaraṇo naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर संघर्ष वाली न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('araṇ', 'naaraṇa', 'nauppādi')
+   ids: 5-11:353
+   P: Araṇo uppādī dhammo naaraṇassa nauppādissa dhammassa ārammaṇapaccayena paccayo.
+   H: संघर्ष से रहित, उत्पन्न होने वाली परिघटना, संघर्ष से रहित न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना के लिए विषय-कारण के रूप में कारण होती है।
+## 1 delta=-2 ('araṇ', 'nasaraṇa', 'nauppādi')
+   ids: 5-11:353
+   P: Araṇo uppādī dhammo nasaraṇassa nauppādissa dhammassa ārammaṇapaccayena paccayo.
+   H: संघर्ष से रहित, उत्पन्न होने वाली परिघटना, संघर्ष वाली न होने वाली, उत्पन्न होने वाली न होने वाली परिघटना के लिए विषय-कारण के रूप में कारण होती है।
+## 1 delta=2 ('nakenac', 'nakusal', 'naviññeyy', 'naviññeyya')
+   ids: 5-12:78
+   P: Kusalaṃ kenaci naviññeyyaṃ dhammaṃ paṭicca nakusalo nakenaci naviññeyyo dhammo uppajjati hetupaccayā.
+   H: हितकर, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusal', 'nakenac', 'naviññeyy', 'naviññeyya')
+   ids: 5-12:78
+   P: Kusalaṃ kenaci naviññeyyaṃ dhammaṃ paṭicca naakusalo nakenaci naviññeyyo dhammo uppajjati hetupaccayā.
+   H: हितकर, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर हानिकर न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naabyākat', 'nakenac', 'naviññeyy', 'naviññeyya')
+   ids: 5-12:78
+   P: Kusalaṃ kenaci naviññeyyaṃ dhammaṃ paṭicca naabyākato nakenaci naviññeyyo dhammo uppajjati hetupaccayā.
+   H: हितकर, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=1 ('naviññeyy',)
+   ids: 5-12:79
+   P: (Etena upāyena kenaci naviññeyye ekūnavīsati pañhā kātabbā§)
+   H: (इसी तरीके से किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना में उन्नीस प्रश्न करने चाहिए§)
+## 1 delta=-1 ('acetasikān',)
+   ids: 5-12:110
+   P: Acetasikāni nava.
+   H: मन की सहचर न होने वाली में नौ।
+## 1 delta=1 ('nocittānuparivatti',)
+   ids: 5-12:135
+   P: Kusalaṃ nocittānuparivattiṃ dhammaṃ paṭicca
+   H: हितकर, मन का अनुसरण न करने वाली परिघटना पर निर्भर होकर
+## 1 delta=1 ('nadassanen', 'nakusal')
+   ids: 5-12:146
+   P: Akusalaṃ dassanena pahātabbaṃ dhammaṃ paṭicca nakusalo nadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: हानिकर, सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusal', 'nadassanen', 'nakusal')
+   ids: 5-12:146
+   P: Akusalaṃ dassanena pahātabbaṃ dhammaṃ paṭicca nakusalo nadassanena pahātabbo ca naakusalo nadassanena pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: हानिकर, सत्य-दर्शन से छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली और हानिकर न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=3 ('naabyākat', 'nadassanen', 'nakusal', 'nanadassanen')
+   ids: 5-12:147
+   P: Abyākataṃ nadassanena pahātabbaṃ dhammaṃ paccayā nakusalo nanadassanena pahātabbo ca naabyākato nanadassanena pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण हितकर न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली और नैतिक रूप से अनिर्धारित न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=1 ('nabhāvanāy', 'nakusal')
+   ids: 5-12:148
+   P: Akusalaṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca nakusalo nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā.
+   H: हानिकर, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusal', 'nabhāvanāy', 'nakusal')
+   ids: 5-12:148
+   P: Akusalaṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca nakusalo nabhāvanāya pahātabbo ca naakusalo nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: हानिकर, मानसिक अभ्यास से छोड़ी जाने वाली परिघटना पर निर्भर होकर हितकर न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली और हानिकर न होने वाली, मानसिक अभ्यास से न छोड़ी जाने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=2 ('nabhāvanāy', 'nakusal', 'nanabhāvanāy')
+   ids: 5-12:154
+   P: Akusalaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nakusalo nanabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā
+   H: हानिकर, मानसिक अभ्यास से छोड़े जाने वाले मूलों से रहित परिघटना पर निर्भर होकर हितकर न होने वाली, मानसिक अभ्यास से छोड़े जाने वाले मूलों से रहित न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('naabyākat', 'nasauttar', 'sauttara')
+   ids: 5-12:179
+   P: Abyākataṃ sauttaraṃ dhammaṃ paccayā naabyākato nasauttaro dhammo uppajjati hetupaccayā
+   H: नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना के कारण नैतिक रूप से अनिर्धारित न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naasaṃkiliṭṭhasaṃkilesik', 'nahetu', 'nanahet', 'saṃkiliṭṭhasaṃkilesika')
+   ids: 5-12:205
+   P: Saṃkiliṭṭhasaṃkilesikaṃ nahetuṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko nanahetu dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naanuppanna', 'nahetu', 'nauppādi')
+   ids: 5-12:240
+   P: Uppanno hetu dhammo naanuppannassa nahetussa ca nauppādissa nahetussa ca dhammassa hetupaccayena paccayo.
+   H: उत्पन्न हो चुकी, मूल रूपी परिघटना, उत्पन्न न हुई न होने वाली, मूल रूपी न होने वाली परिघटना और उत्पन्न होने वाली न होने वाली, मूल रूपी न होने वाली परिघटना के लिए मूल-कारण के रूप में कारण होती है।
+## 1 delta=1 ('anidassanasappaṭigha', 'naanidassanasappaṭigh', 'nakenac')
+   ids: 5-12:286
+   P: Anidassanasappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca naanidassanasappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā.
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली पर टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=1 ('anidassanasappaṭigha', 'nakenac', 'nasanidassanasappaṭigh')
+   ids: 5-12:286
+   P: Anidassanasappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca nasanidassanasappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā.
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=1 ('anidassanasappaṭigha', 'naanidassanaappaṭigh', 'nakenac')
+   ids: 5-12:286
+   P: Anidassanasappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca naanidassanaappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('anidassanasappaṭigha', 'naanidassanasappaṭigh', 'nakenac', 'nasanidassanasappaṭigh')
+   ids: 5-12:286
+   P: anidassanasappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca nasanidassanasappaṭigho nakenaci viññeyyo ca naanidassanasappaṭigho nakenaci viññeyyo ca dhammā uppajjanti hetupaccayā
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली और दिखाई न देने वाली पर टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं
+## 1 delta=1 ('anidassanaappaṭigha', 'naanidassanaappaṭigh', 'nakenac')
+   ids: 5-12:287
+   P: Anidassanaappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca naanidassanaappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('anidassanaappaṭigha', 'anidassanasappaṭigha', 'nakenac', 'nasanidassanasappaṭigh')
+   ids: 5-12:288
+   P: Anidassanasappaṭighaṃ kenaci viññeyyañca anidassanaappaṭighaṃ kenaci viññeyyañca dhammaṃ paṭicca nasanidassanasappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना और दिखाई न देने वाली और टकराव से रहित, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('anidassanasappaṭigha', 'nanakenac', 'nasanidassanasappaṭigh')
+   ids: 5-12:289
+   P: Anidassanasappaṭighaṃ kenaci viññeyyaṃ dhammaṃ paṭicca nasanidassanasappaṭigho nanakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली पर टकराव वाली, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('anidassanaappaṭigha', 'naanidassanaappaṭigh', 'nocittānuparivatt')
+   ids: 5-12:332
+   P: Anidassanaappaṭighaṃ cittānuparivattiṃ dhammaṃ paṭicca naanidassanaappaṭigho nocittānuparivattī dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, मन का अनुसरण करने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('anidassanaappaṭigha', 'naanidassanasappaṭigh', 'nadassanen', 'nanadassanen')
+   ids: 5-12:353
+   P: Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā naanidassanasappaṭigho nanadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: दिखाई न देने वाली और टकराव से रहित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण दिखाई न देने वाली पर टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=3 ('anidassanaappaṭigha', 'naanidassanasappaṭigh', 'nadassanen', 'nanadassanen', 'nasanidassanasappaṭigh')
+   ids: 5-12:353
+   P: Anidassanaappaṭighaṃ nadassanena pahātabbaṃ dhammaṃ paccayā nasanidassanasappaṭigho nanadassanena pahātabbo ca naanidassanasappaṭigho nanadassanena pahātabbo ca dhammā uppajjanti hetupaccayā.
+   H: दिखाई न देने वाली और टकराव से रहित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण दिखाई देने वाली और टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली और दिखाई न देने वाली पर टकराव वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('anidassanaappaṭigha', 'nasanidassanasappaṭigh', 'nasauttar', 'sauttara')
+   ids: 5-12:400
+   P: Anidassanaappaṭighaṃ sauttaraṃ dhammaṃ paccayā nasanidassanasappaṭigho nasauttaro dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, सर्वोच्च न होने वाली परिघटना के कारण दिखाई देने वाली और टकराव वाली न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nahetunaārammaṇapaccayād',)
+   ids: 5-13:8
+   P: ###### Nahetunaārammaṇapaccayādi
+   H: ###### मूल-कारण का अभाव और विषय-कारण का अभाव आदि
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik', 'nakusal')
+   ids: 5-13:40
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā nakusalo naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण हितकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesika', 'naakusal', 'naasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-13:40
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā naakusalo naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण हानिकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-3 ('asaṃkiliṭṭhasaṃkilesika', 'naabyākat', 'naasaṃkiliṭṭhasaṃkilesik', 'nakusal')
+   ids: 5-13:40
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā nakusalo naasaṃkiliṭṭhasaṃkilesiko ca naabyākato naasaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण हितकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली और नैतिक रूप से अनिर्धारित न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-3 ('asaṃkiliṭṭhasaṃkilesika', 'naabyākat', 'naakusal', 'naasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-13:40
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā naakusalo naasaṃkiliṭṭhasaṃkilesiko ca naabyākato naasaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण हानिकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली और नैतिक रूप से अनिर्धारित न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-3 ('asaṃkiliṭṭhasaṃkilesika', 'naakusal', 'naasaṃkiliṭṭhasaṃkilesik', 'nakusal')
+   ids: 5-13:40
+   P: Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā nakusalo naasaṃkiliṭṭhasaṃkilesiko ca naakusalo naasaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण हितकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली और हानिकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('anuppannasadisa',)
+   ids: 5-13:90
+   P: (Uppādī anuppannasadisaṃ§)
+   H: (उत्पन्न होने वाली परिघटना, उत्पन्न न हुई परिघटना के समान है§)
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesika', 'nakusal', 'nasaṃkiliṭṭhasaṃkilesik')
+   ids: 5-13:129
+   P: Asaṃkiliṭṭhasaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko nakusalo dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, हितकर परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली, हितकर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('anidassanaappaṭigha', 'asaṃkiliṭṭhasaṃkilesika', 'naasaṃkiliṭṭhasaṃkilesik', 'nasanidassanasappaṭigh')
+   ids: 5-13:159
+   P: Anidassanaappaṭighaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paccayā nasanidassanasappaṭigho naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना के कारण दिखाई देने वाली और टकराव वाली न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('anidassanaappaṭigha', 'asaṃkiliṭṭhaasaṃkilesika', 'naanidassanaappaṭigh', 'naasaṃkiliṭṭhaasaṃkilesik')
+   ids: 5-13:160
+   P: Anidassanaappaṭighaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naanidassanaappaṭigho naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: दिखाई न देने वाली और टकराव से रहित, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('acetasika', 'naacetasik', 'nahetu', 'nanahet')
+   ids: 5-14:62
+   P: Nahetuṃ acetasikaṃ dhammaṃ paṭicca nanahetu naacetasiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन की सहचर न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली न होने वाली, मन की सहचर न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nacittavisaṃsaṭṭh', 'nahetu', 'nanahet')
+   ids: 5-14:66
+   P: Nahetuṃ cittavisaṃsaṭṭhaṃ dhammaṃ paṭicca nanahetu nacittavisaṃsaṭṭho dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन से घुली-मिली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली न होने वाली, मन से घुली-मिली न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nahetu', 'nanahet', 'nanocittānuparivatt', 'nocittānuparivatti')
+   ids: 5-14:72
+   P: Nahetuṃ nocittānuparivattiṃ dhammaṃ paṭicca nanahetu nanocittānuparivattī dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन का अनुसरण न करने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली न होने वाली, मन का अनुसरण न करने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nayavasen', 'saṃkhitta')
+   ids: 5-14:78
+   P: hetuyā tīṇi (saṃkhittaṃ§ Nayavasena vitthāretabbaṃ).
+   H: मूल-कारण में तीन (संक्षिप्त§ विधि के अनुसार विस्तार करना चाहिए)।
+## 1 delta=2 ('nahet', 'nakenac')
+   ids: 5-14:117
+   P: Kenaci viññeyyaṃ hetuñca nakenaci viññeyyaṃ hetuñca dhammaṃ paṭicca nakenaci viññeyyo nahetu dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली, मूल रूपी परिघटना और किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nahetu', 'nakenac', 'nanahet')
+   ids: 5-14:118
+   P: Kenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca nakenaci viññeyyo nanahetu dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से जानी जा सकने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naacetasik', 'nahetu', 'nanahet')
+   ids: 5-14:160
+   P: Cetasikaṃ nahetuṃ dhammaṃ paṭicca naacetasiko nanahetu dhammo uppajjati hetupaccayā
+   H: मन की सहचर, मूल रूपी न होने वाली परिघटना पर निर्भर होकर मन की सहचर न होने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('anupādinna', 'nahet', 'naupādinn')
+   ids: 5-14:174
+   P: Anupādinnaṃ hetuṃ dhammaṃ paṭicca naupādinno nahetu dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली, मूल रूपी परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanupādinn', 'nahetu', 'nanahet')
+   ids: 5-14:175
+   P: Upādinnaṃ nahetuṃ dhammaṃ paṭicca naanupādinno nanahetu dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न, मूल रूपी न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anupādinna', 'nahetu', 'nanahet', 'naupādinn')
+   ids: 5-14:176
+   P: Anupādinnaṃ nahetuṃ dhammaṃ paṭicca naupādinno nanahetu dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nadassanen', 'nahet')
+   ids: 5-14:182
+   P: Nadassanena pahātabbaṃ hetuṃ dhammaṃ paṭicca nadassanena pahātabbo nahetu dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, मूल रूपी परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nabhāvanāy', 'nahet')
+   ids: 5-14:185
+   P: Nabhāvanāya pahātabbaṃ hetuṃ dhammaṃ paṭicca nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=1 ('nahetu', 'nanabhāvanāy', 'nanahet')
+   ids: 5-14:186
+   P: Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nanabhāvanāya pahātabbo nanahetu dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nabhāvanāy', 'nahetu', 'nanahet')
+   ids: 5-14:187
+   P: Nabhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nabhāvanāya pahātabbo nanahetu dhammo uppajjati hetupaccayā.
+   H: मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर मानसिक अभ्यास से न छोड़ी जाने वाली, मूल रूपी न होने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('nadassanen', 'nahet', 'nanadassanen')
+   ids: 5-14:189
+   P: Nadassanena pahātabbahetukaṃ hetuṃ dhammaṃ paṭicca nanadassanena pahātabbahetuko nahetu dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से छोड़े जाने वाले मूलों से रहित, मूल रूपी परिघटना पर निर्भर होकर सत्य-दर्शन से छोड़े जाने वाले मूलों से रहित न होने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('araṇa', 'naaraṇ', 'nadassanen', 'nanadassanen')
+   ids: 5-14:222
+   P: Araṇaṃ nadassanena pahātabbaṃ dhammaṃ paccayā naaraṇo nanadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना के कारण संघर्ष से रहित न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-15:68
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('asaṃkiliṭṭhaasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-15:68
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesik', 'asaṃkiliṭṭhasaṃkilesik', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-15:68
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली और क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-15:69
+   P: Naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naasaṃkiliṭṭhaasaṃkilesika', 'saṃkiliṭṭhasaṃkilesik')
+   ids: 5-15:70
+   P: Naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika')
+   ids: 5-15:70
+   P: Naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika', 'saṃkiliṭṭhasaṃkilesik')
+   ids: 5-15:70
+   P: Naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā.
+   H: क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन और क्लेशों का विषय बनने वाली और क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('nauppād',)
+   ids: 5-15:104
+   P: Nauppādī dhammo uppannassa dhammassa hetupaccayena paccayo.
+   H: उत्पन्न होने वाली न होने वाली परिघटना, उत्पन्न हो चुकी परिघटना के लिए मूल-कारण के रूप में कारण होती है।
+## 1 delta=-1 ('naanuppann', 'nauppād')
+   ids: 5-15:104
+   P: Naanuppanno ca nauppādī ca dhammā uppannassa dhammassa hetupaccayena paccayo.
+   H: उत्पन्न न हुई न होने वाली और उत्पन्न होने वाली न होने वाली परिघटनाएँ, उत्पन्न हो चुकी परिघटना के लिए मूल-कारण के रूप में कारण होती हैं।
+## 1 delta=-1 ('anupādinn', 'naupādinna')
+   ids: 5-16:69
+   P: Naupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati hetupaccayā
+   H: कर्म से उत्पन्न न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nasauttara', 'sauttar')
+   ids: 5-16:105
+   P: Nasauttaraṃ dhammaṃ paṭicca sauttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('anuttar', 'nasauttara')
+   ids: 5-16:105
+   P: Nasauttaraṃ dhammaṃ paṭicca anuttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर सर्वोच्च परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('anuttar', 'nasauttara', 'sauttar')
+   ids: 5-16:105
+   P: Nasauttaraṃ dhammaṃ paṭicca sauttaro ca anuttaro ca dhammā uppajjanti hetupaccayā.
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली और सर्वोच्च परिघटनाएँ मूल-कारण से उत्पन्न होती हैं।
+## 1 delta=-1 ('naanuttara', 'sauttar')
+   ids: 5-16:106
+   P: Naanuttaraṃ dhammaṃ paṭicca sauttaro dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naanuttara', 'nasauttara', 'sauttar')
+   ids: 5-16:107
+   P: Nasauttarañca naanuttarañca dhammaṃ paṭicca sauttaro dhammo uppajjati hetupaccayā
+   H: सर्वोच्च न होने वाली न होने वाली परिघटना और सर्वोच्च न होने वाली परिघटना पर निर्भर होकर सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nakenac', 'nakusala', 'naviññeyy', 'naviññeyya')
+   ids: 5-17:40
+   P: Nakenaci naviññeyyaṃ nakusalaṃ dhammaṃ paccayā kenaci naviññeyyo kusalo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, हितकर न होने वाली परिघटना के कारण किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nakenac', 'nakusala', 'naviññeyya')
+   ids: 5-17:41
+   P: Nakenaci viññeyyaṃ nakusalañca nakenaci naviññeyyaṃ nakusalañca dhammaṃ paccayā kenaci viññeyyo kusalo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हितकर न होने वाली परिघटना और किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, हितकर न होने वाली परिघटना के कारण किसी एक प्रकार की चेतना से जानी जा सकने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('naakusala', 'nakenac')
+   ids: 5-17:42
+   P: Nakenaci viññeyyaṃ naakusalaṃ dhammaṃ paccayā kenaci viññeyyo akusalo dhammo uppajjati hetupaccayā.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हानिकर न होने वाली परिघटना के कारण किसी एक प्रकार की चेतना से जानी जा सकने वाली, हानिकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusala', 'nakenac', 'naviññeyy', 'naviññeyya')
+   ids: 5-17:42
+   P: Nakenaci naviññeyyaṃ naakusalaṃ dhammaṃ paccayā kenaci naviññeyyo akusalo dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, हानिकर न होने वाली परिघटना के कारण किसी एक प्रकार की चेतना से न जानी जा सकने वाली, हानिकर परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('naabyākata', 'nakenac')
+   ids: 5-17:43
+   P: Nakenaci viññeyyaṃ naabyākataṃ dhammaṃ paṭicca kenaci viññeyyo abyākato dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से जानी जा सकने वाली, नैतिक रूप से अनिर्धारित परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('anupādinn', 'naanupādinna', 'nakusala')
+   ids: 5-17:87
+   P: Naanupādinnaṃ nakusalaṃ dhammaṃ paccayā anupādinno kusalo dhammo uppajjati hetupaccayā.
+   H: कर्म से उत्पन्न न होने वाली न होने वाली, हितकर न होने वाली परिघटना के कारण कर्म से उत्पन्न न होने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naakusala', 'nadassanen')
+   ids: 5-17:94
+   P: Nadassanena pahātabbaṃ naakusalaṃ dhammaṃ paccayā nadassanena pahātabbo akusalo dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर न होने वाली परिघटना के कारण सत्य-दर्शन से न छोड़ी जाने वाली, हानिकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naabyākata', 'nadassanen')
+   ids: 5-17:95
+   P: Nadassanena pahātabbaṃ naabyākataṃ dhammaṃ paṭicca nadassanena pahātabbo abyākato dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('naabyākata', 'nadassanen', 'nanadassanen')
+   ids: 5-17:95
+   P: Nanadassanena pahātabbaṃ naabyākataṃ dhammaṃ paṭicca nadassanena pahātabbo abyākato dhammo uppajjati hetupaccayā.
+   H: सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना पर निर्भर होकर सत्य-दर्शन से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('naanuttara', 'nakusala', 'sauttar')
+   ids: 5-17:111
+   P: Naanuttaraṃ nakusalaṃ dhammaṃ paccayā sauttaro kusalo dhammo uppajjati hetupaccayā.
+   H: सर्वोच्च न होने वाली, हितकर न होने वाली परिघटना के कारण सर्वोच्च न होने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesika', 'nahet', 'nahetu')
+   ids: 5-17:130
+   P: Nahetuṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika', 'nahetu')
+   ids: 5-17:131
+   P: Nahetuṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paccayā hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना के कारण मूल रूपी, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('ajjhattattik', 'n')
+   ids: 5-17:187
+   P: (Ajjhattattiko na labbhati paṭiccavārādīsu§)
+   H: (स्वयं से संबंधित परिघटनाओं वाला तीन का वर्गीकरण निर्भरता के खंड आदि में लागू नहीं होता§)
+## 1 delta=-1 ('nahetunaanidassanasappaṭighamūlep',)
+   ids: 5-17:194
+   P: (Nahetunaanidassanasappaṭighamūlepi tīṇiyeva§)
+   H: (मूल रूपी न होने वाली, दिखाई न देने वाली पर टकराव वाली न होने वाली परिघटना के मूल वाक्य में भी तीन ही§)
+## 1 delta=-1 ('nasahetukanaanidassanasappaṭighamūlep',)
+   ids: 5-17:199
+   P: (Nasahetukanaanidassanasappaṭighamūlepi tīṇiyeva§)
+   H: (मूल वाली न होने वाली, दिखाई न देने वाली पर टकराव वाली न होने वाली परिघटना के मूल वाक्य में भी तीन ही§)
+## 1 delta=1 ('n', 'nahetusampayutta', 'nasanidassanasappaṭigha', 'sahetukadukasadisa')
+   ids: 5-17:201
+   P: (Nahetusampayuttaṃ nasanidassanasappaṭighaṃ sahetukadukasadisaṃ§ Tīṇi pañhā§ Hetusahetukaduke ca hetuhetusampayuttaduke ca pañhā no labbhati§)
+   H: (मूलों से जुड़ी न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना, मूल वाली परिघटनाओं वाले दो के वर्गीकरण के समान है§ तीन प्रश्न§ मूल रूपी भी और मूल वाली भी परिघटनाओं वाले दो के वर्गीकरण में और मूल रूपी भी और मूलों से जुड़ी भी परिघटनाओं वाले दो के वर्गीकरण में प्रश्न लागू नहीं होते§)
+## 1 delta=-1 ('naappaccayanaanidassanaappaṭighamūlep',)
+   ids: 5-17:210
+   P: (Naappaccayanaanidassanaappaṭighamūlepi ekameva§) Hetuyā ekaṃ, adhipatiyā ekaṃ
+   H: (कारणों पर निर्भर न रहने वाली न होने वाली, दिखाई न देने वाली और टकराव से रहित न होने वाली परिघटना के मूल वाक्य में भी एक ही§) मूल-कारण में एक, प्रधानता-कारण में एक
+## 1 delta=1 ('nakenac', 'nasanidassanasappaṭigha', 'naviññeyya')
+   ids: 5-17:234
+   P: Nakenaci naviññeyyaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=2 ('nakenac', 'nasanidassanasappaṭigha', 'naviññeyya')
+   ids: 5-17:235
+   P: Nakenaci viññeyyaṃ nasanidassanasappaṭighañca nakenaci naviññeyyaṃ nasanidassanasappaṭighañca dhammaṃ paṭicca
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना और किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर
+## 1 delta=2 ('naanidassanasappaṭigha', 'nakenac', 'navapañha')
+   ids: 5-17:236
+   P: Nakenaci viññeyyaṃ naanidassanasappaṭighassa purimasadisaṃ navapañhaṃ kātabbaṃ.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई न देने वाली पर टकराव वाली न होने वाली परिघटना के लिए पहले के समान नौ प्रश्न करने चाहिए।
+## 1 delta=2 ('naanidassanaappaṭighamūla', 'nakenac', 'navapañhamev')
+   ids: 5-17:236
+   P: Nakenaci viññeyyaṃ naanidassanaappaṭighamūlassa navapañhameva.
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली, दिखाई न देने वाली और टकराव से रहित न होने वाली परिघटना के मूल वाक्य के लिए नौ ही प्रश्न।
+## 1 delta=-1 ('naāsavasampayuttanaanidassanasappaṭighamūl',)
+   ids: 5-17:250
+   P: (Naāsavasampayuttanaanidassanasappaṭighamūle tīṇiyeva§)
+   H: (मन के मैलों से जुड़ी न होने वाली, दिखाई न देने वाली पर टकराव वाली न होने वाली परिघटना के मूल वाक्य में तीन ही§)
+## 1 delta=-2 ()
+   ids: 5-17:261
+   P: (Āsavavippayuttanasāsavanaanidassanasappaṭighamūlepi purimanayeneva tīṇi pañhā§)
+   H: (मन के मैलों से अलग, मन के मैलों का विषय बनने वाली न होने वाली, दिखाई न देने वाली पर टकराव वाली न होने वाली परिघटना के मूल वाक्य में भी पहले की विधि से ही तीन प्रश्न§)
+## 1 delta=-1 ('nacittasaṃsaṭṭha', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-17:279
+   P: Nacittasaṃsaṭṭhaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca cittavisaṃsaṭṭho sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: मन से घुली-मिली न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर मन से घुली-मिली न होने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nasanidassanasappaṭigha', 'nocittānuparivatt', 'nocittānuparivatti', 'sanidassanasappaṭigh')
+   ids: 5-17:282
+   P: Nocittānuparivattiṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nocittānuparivattī sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: मन का अनुसरण न करने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर मन का अनुसरण न करने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('anupādinn', 'nasanidassanasappaṭigha', 'naupādinna', 'sanidassanasappaṭigh')
+   ids: 5-17:289
+   P: Naupādinnaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca anupādinno sanidassanasappaṭigho dhammo uppajjati hetupaccayā
+   H: कर्म से उत्पन्न न होने वाली, दिखाई देने वाली और टकराव वाली न होने वाली परिघटना पर निर्भर होकर कर्म से उत्पन्न न होने वाली, दिखाई देने वाली और टकराव वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nakenac', 'nakusala', 'naviññeyya')
+   ids: 5-18:40
+   P: Nakusalaṃ nakenaci naviññeyyaṃ dhammaṃ paṭicca akusalo kenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: हितकर न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर हानिकर, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nakusala', 'nasauttara', 'sauttar')
+   ids: 5-18:81
+   P: Nakusalaṃ nasauttaraṃ dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: हितकर न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naakusala', 'nasauttara', 'sauttar')
+   ids: 5-18:81
+   P: Naakusalaṃ nasauttaraṃ dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: हानिकर न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('naabyākata', 'nasauttara', 'sauttar')
+   ids: 5-18:81
+   P: Naabyākataṃ nasauttaraṃ dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: नैतिक रूप से अनिर्धारित न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-3 ('naabyākata', 'naakusala', 'nasauttara', 'sauttar')
+   ids: 5-18:81
+   P: Naakusalaṃ nasauttarañca naabyākataṃ nasauttarañca dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: हानिकर न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना और नैतिक रूप से अनिर्धारित न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-3 ('naakusala', 'nakusala', 'nasauttara', 'sauttar')
+   ids: 5-18:81
+   P: Nakusalaṃ nasauttarañca naakusalaṃ nasauttarañca dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā.
+   H: हितकर न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना और हानिकर न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesik', 'nahetu', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-18:106
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ nahetuṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko hetu dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली, मूल रूपी न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, मूल रूपी परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('nahetu', 'nanahet', 'nauppād')
+   ids: 5-18:121
+   P: Nauppādī nanahetu dhammo uppannassa nahetussa dhammassa hetupaccayena paccayo.
+   H: उत्पन्न होने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना, उत्पन्न हो चुकी, मूल रूपी न होने वाली परिघटना के लिए मूल-कारण के रूप में कारण होती है।
+## 1 delta=-1 ('naanuppann', 'nahetu', 'nanahet', 'nauppād')
+   ids: 5-18:121
+   P: Naanuppanno nanahetu ca nauppādī nanahetu ca dhammā uppannassa nahetussa dhammassa hetupaccayena paccayo.
+   H: उत्पन्न न हुई न होने वाली, मूल रूपी न होने वाली न होने वाली और उत्पन्न होने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटनाएँ, उत्पन्न हो चुकी, मूल रूपी न होने वाली परिघटना के लिए मूल-कारण के रूप में कारण होती हैं।
+## 1 delta=2 ('nakenac', 'nanakenac', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-18:160
+   P: Nasanidassanasappaṭighaṃ nanakenaci viññeyyaṃ dhammaṃ paṭicca sanidassanasappaṭigho nakenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('acetasik', 'naacetasika', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-18:187
+   P: Nasanidassanasappaṭighaṃ naacetasikaṃ dhammaṃ paṭicca sanidassanasappaṭigho acetasiko dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nacittavisaṃsaṭṭha', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-18:191
+   P: Nasanidassanasappaṭighaṃ nacittavisaṃsaṭṭhaṃ dhammaṃ paṭicca sanidassanasappaṭigho cittavisaṃsaṭṭho dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मन से घुली-मिली न होने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, मन से घुली-मिली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('anidassanaappaṭigh', 'nasanidassanasappaṭigha', 'nocittānuparivatti')
+   ids: 5-18:196
+   P: Nasanidassanasappaṭighaṃ nocittānuparivattiṃ dhammaṃ paṭicca anidassanaappaṭigho cittānuparivattī dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मन का अनुसरण न करने वाली परिघटना पर निर्भर होकर दिखाई न देने वाली और टकराव से रहित, मन का अनुसरण करने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nanocittānuparivatti', 'nasanidassanasappaṭigha', 'nocittānuparivatt', 'sanidassanasappaṭigh')
+   ids: 5-18:197
+   P: Nasanidassanasappaṭighaṃ nanocittānuparivattiṃ dhammaṃ paṭicca sanidassanasappaṭigho nocittānuparivattī dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, मन का अनुसरण न करने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesika', 'nakusala')
+   ids: 5-19:32
+   P: Nakusalaṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca abyākato asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: हितकर न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर नैतिक रूप से अनिर्धारित, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('asaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika', 'nakusala')
+   ids: 5-19:33
+   P: Nakusalaṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paccayā kusalo asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: हितकर न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना के कारण हितकर, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesik', 'nakusala', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-19:114
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ nakusalaṃ dhammaṃ paccayā asaṃkiliṭṭhasaṃkilesiko kusalo dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली, हितकर न होने वाली परिघटना के कारण क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, हितकर परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('asaṃkiliṭṭhasaṃkilesik', 'naabyākata', 'nasaṃkiliṭṭhasaṃkilesika')
+   ids: 5-19:116
+   P: Nasaṃkiliṭṭhasaṃkilesikaṃ naabyākataṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko abyākato dhammo uppajjati hetupaccayā
+   H: क्लेशों से मलिन और क्लेशों का विषय बनने वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना पर निर्भर होकर क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली, नैतिक रूप से अनिर्धारित परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('naabyākata', 'nabhāvanāy', 'nadassanen')
+   ids: 5-19:128
+   P: Nadassanena pahātabbaṃ naabyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo abyākato dhammo uppajjati hetupaccayā
+   H: सत्य-दर्शन से न छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना पर निर्भर होकर न सत्य-दर्शन से न मानसिक अभ्यास से छोड़ी जाने वाली, नैतिक रूप से अनिर्धारित परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-1 ('naanidassanasappaṭighanaabyākatamūlān', 'sabba', 'sattamev')
+   ids: 5-19:177
+   P: (Naanidassanasappaṭighanaabyākatamūlāni sattameva, dukamūlāni sattameva, sabbaṃ ekavīsatimeva§)
+   H: (दिखाई न देने वाली पर टकराव वाली न होने वाली, नैतिक रूप से अनिर्धारित न होने वाली परिघटना के मूल वाक्य सात ही, दो पदों वाले मूल वाक्य सात ही, कुल इक्कीस ही§)
+## 1 delta=-2 ('asaṃkiliṭṭhasaṃkilesik', 'naasaṃkiliṭṭhasaṃkilesika', 'nasanidassanasappaṭigha', 'sanidassanasappaṭigh')
+   ids: 5-19:192
+   P: Nasanidassanasappaṭighaṃ naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca sanidassanasappaṭigho asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली न होने वाली परिघटना पर निर्भर होकर दिखाई देने वाली और टकराव वाली, क्लेशों से मलिन न होने वाली पर क्लेशों का विषय बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('anidassanaappaṭigh', 'asaṃkiliṭṭhaasaṃkilesik', 'naasaṃkiliṭṭhaasaṃkilesika', 'nasanidassanasappaṭigha')
+   ids: 5-19:193
+   P: Nasanidassanasappaṭighaṃ naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paccayā anidassanaappaṭigho asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā
+   H: दिखाई देने वाली और टकराव वाली न होने वाली, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली न होने वाली परिघटना के कारण दिखाई न देने वाली और टकराव से रहित, क्लेशों से मलिन न होने वाली और क्लेशों का विषय न बनने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nahetu', 'nakenac', 'naviññeyy', 'naviññeyya')
+   ids: 5-20:31
+   P: Nahetuṃ nakenaci naviññeyyaṃ dhammaṃ paṭicca hetu kenaci naviññeyyo dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('acetasik', 'naacetasika', 'nahet', 'nahetu')
+   ids: 5-20:62
+   P: Nahetuṃ naacetasikaṃ dhammaṃ paṭicca nahetu acetasiko dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन की सहचर न होने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन की सहचर न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('nacittavisaṃsaṭṭha', 'nahet', 'nahetu')
+   ids: 5-20:66
+   P: Nahetuṃ nacittavisaṃsaṭṭhaṃ dhammaṃ paṭicca nahetu cittavisaṃsaṭṭho dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन से घुली-मिली न होने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन से घुली-मिली न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('nahet', 'nahetu', 'nanocittānuparivatti', 'nocittānuparivatt')
+   ids: 5-20:72
+   P: Nahetuṃ nanocittānuparivattiṃ dhammaṃ paṭicca nahetu nocittānuparivattī dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, मन का अनुसरण न करने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, मन का अनुसरण न करने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=-2 ('anupādinn', 'naanupādinna', 'nahet', 'nahetu')
+   ids: 5-20:83
+   P: Nahetuṃ naanupādinnaṃ dhammaṃ paṭicca nahetu anupādinno dhammo uppajjati hetupaccayā
+   H: मूल रूपी न होने वाली, कर्म से उत्पन्न न होने वाली न होने वाली परिघटना पर निर्भर होकर मूल रूपी न होने वाली, कर्म से उत्पन्न न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('antimaduka', 'n')
+   ids: 5-20:108
+   P: (Antimadukaṃ na labbhati§)
+   H: (अंतिम दो का वर्गीकरण लागू नहीं होता§)
+## 1 delta=2 ('nahet', 'nakenac', 'nanahetu', 'naviññeyy', 'naviññeyya')
+   ids: 5-20:123
+   P: Nakenaci naviññeyyaṃ nanahetuṃ dhammaṃ paṭicca kenaci naviññeyyo nahetu dhammo uppajjati hetupaccayā
+   H: किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली, मूल रूपी न होने वाली न होने वाली परिघटना पर निर्भर होकर किसी एक प्रकार की चेतना से न जानी जा सकने वाली, मूल रूपी न होने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('araṇ', 'nakenac', 'nasaraṇa')
+   ids: 5-20:161
+   P: Nasaraṇaṃ nakenaci viññeyyaṃ dhammaṃ paṭicca araṇo kenaci viññeyyo dhammo uppajjati hetupaccayā
+   H: संघर्ष वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना पर निर्भर होकर संघर्ष से रहित, किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=2 ('araṇ', 'nakenac', 'nasaraṇa', 'naviññeyy', 'naviññeyya')
+   ids: 5-20:162
+   P: Nasaraṇaṃ nakenaci naviññeyyaṃ dhammaṃ paṭicca araṇo kenaci naviññeyyo dhammo uppajjati hetupaccayā
+   H: संघर्ष वाली न होने वाली, किसी एक प्रकार की चेतना से न जानी जा सकने वाली न होने वाली परिघटना पर निर्भर होकर संघर्ष से रहित, किसी एक प्रकार की चेतना से न जानी जा सकने वाली परिघटना मूल-कारण से उत्पन्न होती है
+## 1 delta=1 ('nadassanen', 'nasaraṇa', 'saraṇ')
+   ids: 5-20:179
+   P: Nasaraṇaṃ nadassanena pahātabbaṃ dhammaṃ paṭicca saraṇo dassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: संघर्ष वाली न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना पर निर्भर होकर संघर्ष वाली, सत्य-दर्शन से छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=2 ('araṇ', 'naaraṇa', 'nadassanen', 'nanadassanen')
+   ids: 5-20:180
+   P: Naaraṇaṃ nanadassanena pahātabbaṃ dhammaṃ paṭicca araṇo nadassanena pahātabbo dhammo uppajjati hetupaccayā.
+   H: संघर्ष से रहित न होने वाली, सत्य-दर्शन से न छोड़ी जाने वाली न होने वाली परिघटना पर निर्भर होकर संघर्ष से रहित, सत्य-दर्शन से न छोड़ी जाने वाली परिघटना मूल-कारण से उत्पन्न होती है।
+## 1 delta=-2 ('araṇ', 'nasaraṇa', 'nasauttara', 'sauttar')
+   ids: 5-20:181
+   P: Nasaraṇaṃ nasauttaraṃ dhammaṃ paṭicca araṇo sauttaro dhammo uppajjati hetupaccayā.
+   H: संघर्ष वाली न होने वाली, सर्वोच्च न होने वाली न होने वाली परिघटना पर निर्भर होकर संघर्ष से रहित, सर्वोच्च न होने वाली परिघटना मूल-कारण से उत्पन्न होती है।
