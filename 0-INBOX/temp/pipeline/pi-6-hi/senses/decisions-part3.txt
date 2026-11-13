@@ -1,0 +1,379 @@
+# pi-6 Hindi senses, part 3 (agg-part3.tsv, 374 headwords). Conventions: senses-conventions-pi6.md
+# Anusayayamaka (end): abandoned / not abandoned, realms, rebirth
+pahīno: {abandoned, already given up, of a latent tendency (nominative sg. past participle)}
+pahīnoti: {abandoned, already given up, with quotative -ti (nominative sg. past participle)}
+pahīnā: {abandoned, already given up, of latent tendencies (nominative pl. past participle)}
+pahīnāti: {abandoned, already given up, with quotative -ti (nominative pl. past participle)}
+appahīno: {not abandoned, not yet given up, with fused negative a- (nominative sg. past participle)}
+appahīnā: {not abandoned, not yet given up, with fused negative a- (nominative pl. past participle)}
+pahīnavāre: {in the section on what has been abandoned (locative, heading member)}
+appahīnoti: {not abandoned, with fused negative a- and quotative -ti (nominative sg. past participle)}
+appahīnāti: {not abandoned, with fused negative a- and quotative -ti (nominative pl. past participle)}
+bhaṅgā: {dissolved, broken up, of latent tendencies (nominative pl.)}
+arūpadhātuṃ: {the immaterial realm, as a place of rebirth (accusative sg.)}
+upapajjantassa: {one being reborn, entering a new existence (genitive sg. present participle)}
+kāmadhātuṃ: {the sense-sphere realm, as a place of rebirth (accusative sg.)}
+kāmadhātumūlakaṃ: {based on the sense-sphere realm, label closing a cycle of questions (heading)}
+anusayā: {the latent tendencies, defilements lying dormant (nominative pl.)}
+rūpadhātumūlakaṃ: {based on the fine-material realm, label closing a cycle of questions (heading)}
+arūpadhātumūlakaṃ: {based on the immaterial realm, label closing a cycle of questions (heading)}
+nakāmadhātumūlakaṃ: {based on a realm other than the sense-sphere realm, label closing a cycle (heading)}
+narūpadhātumūlakaṃ: {based on a realm other than the fine-material realm, label closing a cycle (heading)}
+naarūpadhātumūlakaṃ: {based on a realm other than the immaterial realm, label closing a cycle (heading)}
+nakāmanaarūpadhātumūlakaṃ: {based on a realm other than the sense-sphere and immaterial realms, label closing a cycle (heading)}
+narūpanaarūpadhātumūlakaṃ: {based on a realm other than the fine-material and immaterial realms, label closing a cycle (heading)}
+nakāmanarūpadhātumūlakaṃ: {based on a realm other than the sense-sphere and fine-material realms, label closing a cycle (heading)}
+upapatti: {rebirth, being reborn, in 'there is no rebirth there' (nominative sg.)}
+upapajjamāno: {being reborn, in the process of taking rebirth (present participle)}
+upapajjati: {is reborn, takes rebirth (3rd sg. present)}
+kāmadhātuṃyeva: {the sense-sphere realm, as a place of rebirth, with emphatic -yeva (accusative sg.)}
+upapattināma: {rebirth, with nāma 'so-called', in 'there is no such thing as rebirth' (nominative sg.)}
+dhātuvisajjavāro: {the section of answers on the realms (heading)}
+# Cittayamaka
+cittayamakaṃ: {the Pairs on Mind, title of chapter 8 (heading)}
+uppannaṃ: {arisen, already come into being (past participle)}
+suddhacittasāmaññaṃ: {mind in general, the plain mind alone (heading)}
+puggalavāro: {the section on persons (heading)}
+uppādanirodhakālasambhedavāro: {the section on the combined times of arising and ceasing (heading)}
+uppāduppannavāro: {the section on arising and having arisen (heading)}
+nirodhuppannavāro: {the section on ceasing and having arisen (heading)}
+uppajjamāna: {arising, in the process of arising (heading member)}
+nanirodhavāro: {the section on not ceasing, with negative na (heading member)}
+uppajjamānuppannavāro: {the section on being in the process of arising and having arisen (heading)}
+nirujjhamānuppannavāro: {the section on being in the process of ceasing and having arisen (heading)}
+uppannuppādavāro: {the section on having arisen and arising (heading)}
+uppannuppajjamānavāro: {the section on having arisen and being in the process of arising (heading)}
+niruddhanirujjhamānavāro: {the section on having ceased and being in the process of ceasing (heading)}
+dhammavāro: {the section on phenomena (heading)}
+suddhacittasāmañña: {mind in general, the plain mind alone (stem form, heading)}
+puggaladhammavāro: {the section on persons and phenomena (heading)}
+suttantacittamissakaviseso: {the special treatment mixed with the Suttanta kinds of mind (heading)}
+abhidhammacittamissakaviseso: {the special treatment mixed with the Abhidhamma kinds of mind (heading)}
+uppajjamānananirodhavāro: {the section on being in the process of arising and not ceasing (heading)}
+uppajjamānaṃ: {arising, in the process of arising (present participle)}
+nirujjhamānaṃ: {ceasing, in the process of ceasing (present participle)}
+niruddhaṃ: {ceased, already come to an end (past participle)}
+khaṇaṃ: {moment, a single instant (accusative sg.)}
+samāhitaṃ: {concentrated, collected, of the mind (neuter sg. participle)}
+sarāgaṃ: {with lust, lustful, of the mind (neuter sg. adjective)}
+saṃkhittaṃ: {contracted, shrunken, of a sluggish mind (neuter sg. participle)}
+samohaṃ: {with delusion, deluded, of the mind (neuter sg. adjective)}
+mahaggataṃ: {grown great, exalted, of the higher spheres (neuter sg.)}
+sadosaṃ: {with hatred, hating, of the mind (neuter sg. adjective)}
+vimuttaṃ: {freed, released, of the mind (neuter sg. participle)}
+vītarāgaṃ: {free of lust, without passion, of the mind (neuter sg. adjective)}
+vikkhittaṃ: {distracted, scattered, of the mind (neuter sg. participle)}
+sauttaraṃ: {surpassable, having something higher (neuter sg.)}
+asamāhitaṃ: {unconcentrated, not collected (neuter sg. participle)}
+amahaggataṃ: {not exalted, not grown great (neuter sg.)}
+avimuttaṃ: {not freed, unreleased (neuter sg. participle)}
+anuttaraṃ: {unsurpassable, having nothing higher (neuter sg.)}
+sampayuttaṃ: {conjoined with, associated, in 'conjoined with feeling' (neuter sg. participle)}
+saraṇaaraṇā: {involving conflict and free of conflict, the last pair of the matrix (compound)}
+araṇaṃ: {free of conflict, without strife (neuter sg. adjective)}
+vedanāya: {with feeling, the affective tone of experience, in 'conjoined with feeling' (instrumental)}
+abyākataṃ cittaṃ: {a mind neither wholesome nor unwholesome (neuter sg.)}
+akusalaṃ cittaṃ: {an unwholesome mind (neuter sg.)}
+kusalaṃ cittaṃ: {a wholesome mind (neuter sg.)}
+pacchimacittassa uppādakkhaṇe: {at the moment of arising of the last mind before death (locative phrase)}
+uppannanti: {arisen, already come into being, with quotative -ti (past participle)}
+uppannañceva: {arisen, already come into being, with enclitic -ñceva 'both' (past participle)}
+uppajjamānanti: {arising, in the process of arising, with quotative -ti (present participle)}
+uppajjamānañca: {and arising, in the process of arising, with enclitic -ñca (present participle)}
+nirujjhamānanti: {ceasing, in the process of ceasing, with quotative -ti (present participle)}
+nirujjhamānañca: {and ceasing, in the process of ceasing, with enclitic -ñca (present participle)}
+uppannañca: {and arisen, already come into being, with enclitic -ñca (past participle)}
+cittasamaṅgīnaṃ: {those possessed of a mind, persons in whom a mind is present (genitive pl.)}
+atītānāgataṃ: {past and future, of a mind (neuter sg. compound)}
+niruddhanti: {ceased, already come to an end, with quotative -ti (past participle)}
+anāgatañca: {and future, not yet come, with enclitic -ñca (neuter sg. adjective)}
+atītaṃ: {past, gone by, of a mind (neuter sg. adjective)}
+atikkantakālavāro: {the section on time gone by (heading)}
+anāgataṃ: {future, not yet come, of a mind (neuter sg. adjective)}
+uppādakkhaṇaṃ: {the moment of arising, first phase of a mind-moment (accusative sg.)}
+uppādakkhaṇañca: {and the moment of arising, with enclitic -ñca (accusative sg.)}
+bhaṅgakkhaṇaṃ: {the moment of dissolution, last phase of a mind-moment (accusative sg.)}
+bhaṅgakkhaṇañca: {and the moment of dissolution, with enclitic -ñca (accusative sg.)}
+atītañca: {and past, gone by, with enclitic -ñca (neuter sg. adjective)}
+paccuppannaṃ: {present, arisen now, of a mind (neuter sg. adjective)}
+cittake: {the clause with 'mind', in a note on how the questions are stated (locative)}
+sarāgapacchimacittassa uppādakkhaṇe: {at the moment of arising of the last mind before death, one with lust (locative phrase)}
+sarāgacittassa uppādakkhaṇe: {at the moment of arising of a mind with lust (locative phrase)}
+pacchimakusalacittassa: {of the last wholesome mind before death (genitive sg.)}
+kusalacittassa: {of a wholesome mind (genitive sg.)}
+dhammayamakanti: {the Pairs on Phenomena, with quotative -ti, in the closing note (nominative sg.)}
+yamakāni: {chapters of paired questions, in 'these three Pairs' (nominative pl.)}
+# Dhammayamaka
+dhammayamakaṃ: {the Pairs on Phenomena, title of chapter 9 (heading)}
+suddhadhammavāro: {the section on phenomena alone (heading)}
+suddhadhammamūlacakkavāro: {the section on the cycle based on phenomena alone (heading)}
+abyākatā dhammāti: {phenomena neither wholesome nor unwholesome, with quotative -ti (nominative pl.)}
+akusalā dhammāti: {unwholesome phenomena, with quotative -ti (nominative pl.)}
+kusalā dhammāti: {wholesome phenomena, with quotative -ti (nominative pl.)}
+abyākatañca dhamme: {and phenomena neither wholesome nor unwholesome, with enclitic -ñca (accusative pl.)}
+akusalañca dhamme: {and unwholesome phenomena, with enclitic -ñca (accusative pl.)}
+kusalañca dhamme: {and wholesome phenomena, with enclitic -ñca (accusative pl.)}
+abyākatañca: {and neither wholesome nor unwholesome, with enclitic -ñca (neuter sg.)}
+bhāvanāvāro: {the section on development, cultivation by practice (heading)}
+uppajjantīti: {they arise, come into being, with quotative -ti (3rd pl. present)}
+kusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the wholesome (locative phrase)}
+kusalānaṃ uppādakkhaṇe: {at the moment of arising of wholesome phenomena (locative phrase)}
+abyākatā ca dhammā: {phenomena neither wholesome nor unwholesome, with ca 'also' (nominative pl.)}
+kusalā ca dhammā: {wholesome phenomena, with ca 'also' (nominative pl.)}
+akusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the unwholesome (locative phrase)}
+akusalānaṃ uppādakkhaṇe: {at the moment of arising of unwholesome phenomena (locative phrase)}
+akusalā ca dhammā: {unwholesome phenomena, with ca 'also' (nominative pl.)}
+kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the wholesome and from the unwholesome (locative phrase)}
+akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the unwholesome and from the wholesome (locative phrase)}
+uppajjissanti: {they will arise, will come into being (3rd pl. future)}
+uppajjissantīti: {they will arise, will come into being, with quotative -ti (3rd pl. future)}
+nirujjhanti: {they cease, come to an end (3rd pl. present)}
+nirujjhantīti: {they cease, come to an end, with quotative -ti (3rd pl. present)}
+kusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the wholesome (locative phrase)}
+kusalānaṃ bhaṅgakkhaṇe: {at the moment of dissolution of wholesome phenomena (locative phrase)}
+akusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the unwholesome (locative phrase)}
+akusalānaṃ bhaṅgakkhaṇe: {at the moment of dissolution of unwholesome phenomena (locative phrase)}
+kusalavippayuttaakusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the wholesome and from the unwholesome (locative phrase)}
+akusalavippayuttakusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the unwholesome and from the wholesome (locative phrase)}
+nirujjhissanti: {they will cease, will come to an end (3rd pl. future)}
+nirujjhissantīti: {they will cease, will come to an end, with quotative -ti (3rd pl. future)}
+kusalākusalānaṃ: {of wholesome and unwholesome phenomena (genitive pl.)}
+bhāveti: {develops, cultivates by practice (3rd sg. present)}
+bhāvetīti: {develops, cultivates by practice, with quotative -ti (3rd sg. present)}
+akusalaṃ dhammaṃ: {an unwholesome phenomenon (accusative sg.)}
+kusalaṃ dhammaṃ: {a wholesome phenomenon (accusative sg.)}
+# Indriyayamaka
+indriyayamakaṃ: {the Pairs on Faculties, title of chapter 10 (heading)}
+kāyindriyaṃ: {the controlling faculty of the body (nominative/accusative sg.)}
+samādhindriyaṃ: {the controlling faculty of concentration (nominative/accusative sg.)}
+domanassindriyaṃ: {the controlling faculty of grief, mental pain (nominative/accusative sg.)}
+sotindriyaṃ: {the controlling faculty of the ear (nominative/accusative sg.)}
+vīriyindriyaṃ: {the controlling faculty of energy (nominative/accusative sg.)}
+upekkhindriyaṃ: {the controlling faculty of equanimity (nominative/accusative sg.)}
+cakkhundriyaṃ: {the controlling faculty of the eye (nominative/accusative sg.)}
+anaññātaññassāmītindriyaṃ: {the faculty 'I shall know the not yet known' (nominative/accusative sg.)}
+aññindriyaṃ: {the controlling faculty of final knowledge (nominative/accusative sg.)}
+aññātāvindriyaṃ: {the controlling faculty of one who has fully known (nominative/accusative sg.)}
+saddhindriyaṃ: {the controlling faculty of faith (nominative/accusative sg.)}
+itthindriyaṃ: {the controlling faculty of femininity (nominative/accusative sg.)}
+somanassindriyaṃ: {the controlling faculty of joy (nominative/accusative sg.)}
+jīvitindriyaṃ: {the life faculty, which keeps living things alive (nominative/accusative sg.)}
+purisindriyaṃ: {the controlling faculty of masculinity (nominative/accusative sg.)}
+manindriyaṃ: {the controlling faculty of mind (nominative/accusative sg.)}
+satindriyaṃ: {the controlling faculty of mindfulness (nominative/accusative sg.)}
+ghānindriyaṃ: {the controlling faculty of the nose (nominative/accusative sg.)}
+dukkhindriyaṃ: {the controlling faculty of pain (nominative/accusative sg.)}
+sukhindriyaṃ: {the controlling faculty of pleasure (nominative/accusative sg.)}
+jivhindriyaṃ: {the controlling faculty of the tongue (nominative/accusative sg.)}
+paññindriyaṃ: {the controlling faculty of wisdom (nominative/accusative sg.)}
+samādhi: {concentration, the bare word in the word-checking pairs (nominative sg.)}
+domanassaṃ: {grief, mental displeasure, the bare word in the word-checking pairs (nominative sg.)}
+upekkhā: {equanimity, the bare word in the word-checking pairs (nominative sg.)}
+saddhā: {faith, the bare word in the word-checking pairs (nominative sg.)}
+aññaṃ: {final knowledge, the bare word in the word-checking pairs (nominative sg.)}
+aññātāvī: {one who has fully known, the bare word in the word-checking pairs (nominative sg.)}
+somanassaṃ: {joy, mental pleasure, the bare word in the word-checking pairs (nominative sg.)}
+jīvitaṃ: {life, the bare word in the word-checking pairs (nominative sg.)}
+puriso: {a man, the bare word in the word-checking pairs (nominative sg.)}
+sati: {mindfulness, the bare word in the word-checking pairs (nominative sg.)}
+sukhaṃ: {pleasure, the bare word in the word-checking pairs (nominative sg.)}
+anaññātaññassāmīti: {'I shall know the not yet known', the bare phrase in the word-checking pairs (nominative sg.)}
+paññā: {wisdom, the bare word in the word-checking pairs (nominative sg.)}
+itthī: {a woman, the bare word in the word-checking pairs (nominative sg.)}
+anaññātaññāssāmīti: {'I shall know the not yet known', bare phrase, variant spelling of anaññātaññassāmīti (nominative sg.)}
+indriyā: {controlling faculties, of the twenty-two (nominative pl.)}
+suddhindriyavāro: {the section on the faculties alone (heading)}
+suddhindriyamūlacakkavāro: {the section on the cycle based on the faculties alone (heading)}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.)}
+kāyindriyanti: {the controlling faculty of the body, with quotative -ti (nominative sg.)}
+kāyindriyañca: {and the controlling faculty of the body, with enclitic -ñca (nominative/accusative sg.)}
+samādhīti: {concentration, the bare word, with quotative -ti (nominative sg.)}
+samādhindriyanti: {the controlling faculty of concentration, with quotative -ti (nominative sg.)}
+domanassanti: {grief, mental displeasure, the bare word, with quotative -ti (nominative sg.)}
+domanassindriyanti: {the controlling faculty of grief, with quotative -ti (nominative sg.)}
+sotindriyanti: {the controlling faculty of the ear, with quotative -ti (nominative sg.)}
+sotindriyañca: {and the controlling faculty of the ear, with enclitic -ñca (nominative/accusative sg.)}
+vīriyindriyanti: {the controlling faculty of energy, with quotative -ti (nominative sg.)}
+upekkhāti: {equanimity, the bare word, with quotative -ti (nominative sg.)}
+upekkhindriyanti: {the controlling faculty of equanimity, with quotative -ti (nominative sg.)}
+upekkhindriyañca: {and the controlling faculty of equanimity, with enclitic -ñca (nominative/accusative sg.)}
+cakkhundriyanti: {the controlling faculty of the eye, with quotative -ti (nominative sg.)}
+cakkhundriyañca: {and the controlling faculty of the eye, with enclitic -ñca (nominative/accusative sg.)}
+anaññātaññassāmītindriyanti: {the faculty 'I shall know the not yet known', with quotative -ti (nominative sg.)}
+aññindriyanti: {the controlling faculty of final knowledge, with quotative -ti (nominative sg.)}
+aññātāvindriyanti: {the controlling faculty of one who has fully known, with quotative -ti (nominative sg.)}
+saddhāti: {faith, the bare word, with quotative -ti (nominative sg.)}
+saddhindriyanti: {the controlling faculty of faith, with quotative -ti (nominative sg.)}
+itthindriyanti: {the controlling faculty of femininity, with quotative -ti (nominative sg.)}
+aññanti: {final knowledge, the bare word, with quotative -ti (nominative sg.)}
+aññātāvīti: {one who has fully known, the bare word, with quotative -ti (nominative sg.)}
+somanassanti: {joy, mental pleasure, the bare word, with quotative -ti (nominative sg.)}
+somanassindriyanti: {the controlling faculty of joy, with quotative -ti (nominative sg.)}
+jīvitanti: {life, the bare word, with quotative -ti (nominative sg.)}
+jīvitindriyanti: {the life faculty, with quotative -ti (nominative sg.)}
+purisoti: {a man, the bare word, with quotative -ti (nominative sg.)}
+purisindriyanti: {the controlling faculty of masculinity, with quotative -ti (nominative sg.)}
+manindriyanti: {the controlling faculty of mind, with quotative -ti (nominative sg.)}
+satindriyanti: {the controlling faculty of mindfulness, with quotative -ti (nominative sg.)}
+ghānindriyanti: {the controlling faculty of the nose, with quotative -ti (nominative sg.)}
+dukkhindriyanti: {the controlling faculty of pain, with quotative -ti (nominative sg.)}
+sukhanti: {pleasure, the bare word, with quotative -ti (nominative sg.)}
+sukhindriyanti: {the controlling faculty of pleasure, with quotative -ti (nominative sg.)}
+jivhindriyanti: {the controlling faculty of the tongue, with quotative -ti (nominative sg.)}
+paññāti: {wisdom, the bare word, with quotative -ti (nominative sg.)}
+paññindriyanti: {the controlling faculty of wisdom, with quotative -ti (nominative sg.)}
+itthīti: {a woman, the bare word, with quotative -ti (nominative sg.)}
+upekkhañca: {and equanimity, the bare word, with enclitic -ñca (accusative sg.)}
+itthindriyañca: {and the controlling faculty of femininity, with enclitic -ñca (nominative/accusative sg.)}
+purisañca: {and a man, the bare word, with enclitic -ñca (accusative sg.)}
+purisindriyañca: {and the controlling faculty of masculinity, with enclitic -ñca (nominative/accusative sg.)}
+itthiñca: {and a woman, the bare word, with enclitic -ñca (accusative sg.)}
+samādhindriyañca: {and the controlling faculty of concentration, with enclitic -ñca (nominative/accusative sg.)}
+domanassindriyañca: {and the controlling faculty of grief, with enclitic -ñca (nominative/accusative sg.)}
+vīriyindriyañca: {and the controlling faculty of energy, with enclitic -ñca (nominative/accusative sg.)}
+indriyañceva: {controlling faculty, with enclitic -ñceva 'both' (nominative sg.)}
+anaññātaññassāmītindriyañca: {and the faculty 'I shall know the not yet known', with enclitic -ñca (nominative/accusative sg.)}
+aññindriyañca: {and the controlling faculty of final knowledge, with enclitic -ñca (nominative/accusative sg.)}
+aññātāvindriyañca: {and the controlling faculty of one who has fully known, with enclitic -ñca (nominative/accusative sg.)}
+saddhindriyañca: {and the controlling faculty of faith, with enclitic -ñca (nominative/accusative sg.)}
+somanassindriyañca: {and the controlling faculty of joy, with enclitic -ñca (nominative/accusative sg.)}
+jīvitindriyañca: {and the life faculty, with enclitic -ñca (nominative/accusative sg.)}
+manindriyañca: {and the controlling faculty of mind, with enclitic -ñca (nominative/accusative sg.)}
+satindriyañca: {and the controlling faculty of mindfulness, with enclitic -ñca (nominative/accusative sg.)}
+ghānindriyañca: {and the controlling faculty of the nose, with enclitic -ñca (nominative/accusative sg.)}
+dukkhindriyañca: {and the controlling faculty of pain, with enclitic -ñca (nominative/accusative sg.)}
+sukhindriyañca: {and the controlling faculty of pleasure, with enclitic -ñca (nominative/accusative sg.)}
+jivhindriyañca: {and the controlling faculty of the tongue, with enclitic -ñca (nominative/accusative sg.)}
+paññindriyañca: {and the controlling faculty of wisdom, with enclitic -ñca (nominative/accusative sg.)}
+indriyanti: {controlling faculty, with quotative -ti (nominative sg.)}
+indriyañca: {and controlling faculty, with enclitic -ñca (nominative sg.)}
+samādhiṃ: {concentration, the bare word in the word-checking pairs (accusative sg.)}
+samādhiñca: {and concentration, the bare word, with enclitic -ñca (accusative sg.)}
+domanassañca: {and grief, the bare word, with enclitic -ñca (accusative sg.)}
+upekkhaṃ: {equanimity, the bare word in the word-checking pairs (accusative sg.)}
+indriye: {controlling faculties, in 'apart from X and the faculties' (accusative pl.)}
+saddhaṃ: {faith, the bare word in the word-checking pairs (accusative sg.)}
+saddhañca: {and faith, the bare word, with enclitic -ñca (accusative sg.)}
+aññañca: {and final knowledge, the bare word, with enclitic -ñca (accusative sg.)}
+aññātāviṃ: {one who has fully known, the bare word in the word-checking pairs (accusative sg.)}
+aññātāviñca: {and one who has fully known, the bare word, with enclitic -ñca (accusative sg.)}
+somanassañca: {and joy, the bare word, with enclitic -ñca (accusative sg.)}
+jīvitañca: {and life, the bare word, with enclitic -ñca (accusative sg.)}
+purisaṃ: {a man, the bare word in the word-checking pairs (accusative sg.)}
+satiṃ: {mindfulness, the bare word in the word-checking pairs (accusative sg.)}
+satiñca: {and mindfulness, the bare word, with enclitic -ñca (accusative sg.)}
+ghānañca: {and the nose, the bare word, with enclitic -ñca (accusative sg.)}
+sukhañca: {and pleasure, the bare word, with enclitic -ñca (accusative sg.)}
+jivhañca: {and the tongue, the bare word, with enclitic -ñca (accusative sg.)}
+anaññātaññassāmītiṃ: {'I shall know the not yet known', the bare phrase in the word-checking pairs (accusative sg.)}
+anaññātaññassāmītiñca: {and 'I shall know the not yet known', the bare phrase, with enclitic -ñca (accusative sg.)}
+paññaṃ: {wisdom, the bare word in the word-checking pairs (accusative sg.)}
+paññañca: {and wisdom, the bare word, with enclitic -ñca (accusative sg.)}
+itthiṃ: {a woman, the bare word in the word-checking pairs (accusative sg.)}
+upekkhāya: {with equanimity, said of those reborn with an equanimous mind (instrumental)}
+cakkhundriyamūlakaṃ: {based on the controlling faculty of the eye, label closing a cycle of questions (heading)}
+somanassena: {with joy, said of those reborn with a joyful mind (instrumental)}
+ñāṇavippayuttānaṃ: {of those reborn with a mind dissociated from knowledge (genitive pl.)}
+ñāṇasampayuttānaṃ: {of those reborn with a mind conjoined with knowledge (genitive pl.)}
+purisānaṃ: {of men, men being reborn or dying (genitive pl.)}
+upapajjantīnaṃ: {women being reborn (feminine genitive pl. present participle)}
+itthīnaṃ: {of women, women being reborn or dying (genitive pl.)}
+ghānindriyamūlakaṃ: {based on the controlling faculty of the nose, label closing a cycle of questions (heading)}
+itthindriyamūlakaṃ: {based on the controlling faculty of femininity, label closing a cycle of questions (heading)}
+purisindriyamūlakaṃ: {based on the controlling faculty of masculinity, label closing a cycle of questions (heading)}
+somanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy (locative phrase)}
+somanassasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with joy (locative phrase)}
+upekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity (locative phrase)}
+upekkhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with equanimity (locative phrase)}
+saddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from faith (locative phrase)}
+saddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith (locative phrase)}
+ñāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge (locative phrase)}
+ñāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with knowledge (locative phrase)}
+acittakānaṃ: {of the mindless beings, those without mind (genitive pl.)}
+sacittakānaṃ: {of beings with mind, those having a mind (genitive pl.)}
+jīvitindriyamūlakaṃ: {based on the life faculty, label closing a cycle of questions (heading)}
+somanassasampayuttasaddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with joy and dissociated from faith (locative phrase)}
+somanassasampayuttasaddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with joy and conjoined with faith (locative phrase)}
+saddhāsampayuttasomanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and dissociated from joy (locative phrase)}
+saddhāsampayuttasomanassasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and conjoined with joy (locative phrase)}
+somanassasampayuttañāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with joy and dissociated from knowledge (locative phrase)}
+somanassasampayuttañāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with joy and conjoined with knowledge (locative phrase)}
+ñāṇasampayuttasomanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with knowledge and dissociated from joy (locative phrase)}
+ñāṇasampayuttasomanassasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with knowledge and conjoined with joy (locative phrase)}
+somanassindriyamūlakaṃ: {based on the controlling faculty of joy, label closing a cycle of questions (heading)}
+upekkhāsampayuttasaddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with equanimity and dissociated from faith (locative phrase)}
+upekkhāsampayuttasaddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with equanimity and conjoined with faith (locative phrase)}
+saddhāsampayuttaupekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and dissociated from equanimity (locative phrase)}
+saddhāsampayuttaupekkhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and conjoined with equanimity (locative phrase)}
+upekkhāsampayuttañāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with equanimity and dissociated from knowledge (locative phrase)}
+upekkhāsampayuttañāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with equanimity and conjoined with knowledge (locative phrase)}
+ñāṇasampayuttaupekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with knowledge and dissociated from equanimity (locative phrase)}
+ñāṇasampayuttaupekkhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with knowledge and conjoined with equanimity (locative phrase)}
+upekkhindriyamūlakaṃ: {based on the controlling faculty of equanimity, label closing a cycle of questions (heading)}
+saddhāsampayuttañāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and dissociated from knowledge (locative phrase)}
+saddhāsampayuttañāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind conjoined with faith and conjoined with knowledge (locative phrase)}
+saddhindriyamūlakaṃ: {based on the controlling faculty of faith, label closing a cycle of questions (heading)}
+paññindriyamūlakaṃ: {based on the controlling faculty of wisdom, label closing a cycle of questions (heading)}
+uppajjantīnaṃ: {women being reborn, variant spelling of upapajjantīnaṃ (feminine genitive pl. present participle)}
+somanassavippayuttaupekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy and dissociated from equanimity (locative phrase)}
+upekkhāvippayuttasomanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity and dissociated from joy (locative phrase)}
+somanassavippayuttasaddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy and conjoined with faith (locative phrase)}
+somanassavippayuttasaddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy and dissociated from faith (locative phrase)}
+saddhāvippayuttasomanassasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from faith and conjoined with joy (locative phrase)}
+saddhāvippayuttasomanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from faith and dissociated from joy (locative phrase)}
+somanassavippayuttañāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy and conjoined with knowledge (locative phrase)}
+somanassavippayuttañāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from joy and dissociated from knowledge (locative phrase)}
+ñāṇavippayuttasomanassasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and conjoined with joy (locative phrase)}
+ñāṇavippayuttasomanassavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and dissociated from joy (locative phrase)}
+upekkhāvippayuttasaddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity and conjoined with faith (locative phrase)}
+upekkhāvippayuttasaddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity and dissociated from faith (locative phrase)}
+saddhāvippayuttaupekkhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from faith and conjoined with equanimity (locative phrase)}
+saddhāvippayuttaupekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from faith and dissociated from equanimity (locative phrase)}
+upekkhāvippayuttañāṇasampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity and conjoined with knowledge (locative phrase)}
+upekkhāvippayuttañāṇavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from equanimity and dissociated from knowledge (locative phrase)}
+ñāṇavippayuttaupekkhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and conjoined with equanimity (locative phrase)}
+ñāṇavippayuttaupekkhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and dissociated from equanimity (locative phrase)}
+ñāṇavippayuttasaddhāsampayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and conjoined with faith (locative phrase)}
+ñāṇavippayuttasaddhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from knowledge and dissociated from faith (locative phrase)}
+upapatticittassa: {of the rebirth mind, the first mind of a new existence (genitive sg.)}
+sacakkhukā: {having the eye, beings possessed of the eye faculty (nominative pl.)}
+purisā: {men, male persons (nominative pl.)}
+itthiyo: {women, female persons (nominative pl.)}
+upekkhāsampayuttapacchimacittaṃ: {the last mind before death, conjoined with equanimity (nominative sg.)}
+somanassasampayuttapacchimacittaṃ: {the last mind before death, conjoined with joy (nominative sg.)}
+pacchimacittasamaṅgīna: {those possessed of the last mind before death, variant spelling of pacchimacittasamaṅgīnaṃ (genitive pl.)}
+ghānandriyamūlakaṃ: {based on the controlling faculty of the nose, variant spelling of ghānindriyamūlakaṃ (heading)}
+cavantāna: {those dying, passing away, variant spelling of cavantānaṃ (genitive pl. present participle)}
+itarāsaṃ: {the other ones of a named group, before that group (feminine genitive pl.)}
+somanassasampayuttapacchimacittassa uppādakkhaṇe: {at the moment of arising of the last mind before death, conjoined with joy (locative phrase)}
+upekkhāsampayuttapacchimacittassa uppādakkhaṇe: {at the moment of arising of the last mind before death, conjoined with equanimity (locative phrase)}
+somanassasampayuttapacchimacittassa bhaṅgakkhaṇe: {at the moment of dissolution of the last mind before death, conjoined with joy (locative phrase)}
+upekkhāsampayuttapacchimacittasamaṅgīnaṃ: {those possessed of the last mind before death conjoined with equanimity (genitive pl.)}
+upekkhāsampayuttapacchimacittassa bhaṅgakkhaṇe: {at the moment of dissolution of the last mind before death, conjoined with equanimity (locative phrase)}
+somanassasampayuttapacchimacittasamaṅgīnaṃ: {those possessed of the last mind before death conjoined with joy (genitive pl.)}
+cavantīnaṃ: {women dying, passing away (feminine genitive pl. present participle)}
+uppajjantānaṃ: {those being reborn, variant spelling of upapajjantānaṃ (genitive pl. present participle)}
+bhāventi: {they develop, cultivate by practice (3rd pl. present)}
+sacchikarotīti: {realizes, experiences directly, with quotative -ti (3rd sg. present)}
+sacchikaroti: {realizes, experiences directly (3rd sg. present)}
+pajahanti: {they abandon, give up (3rd pl. present)}
+domanassindriyamūlakaṃ: {based on the controlling faculty of grief, label closing a cycle of questions (heading)}
+anaññātaññassāmītindriyamūlakaṃ: {based on the faculty 'I shall know the not yet known', label closing a cycle (heading)}
+aññindriyamūlakaṃ: {based on the controlling faculty of final knowledge, label closing a cycle of questions (heading)}
+aggaphalaṃ: {the highest fruit, the fruit of arahantship (accusative sg.)}
+maggasamaṅgino: {persons possessed of a path, in 'the two path-possessors' (accusative pl.)}
+sacchikaronti: {they realize, experience directly (3rd pl. present)}
+bhāvitthāti: {developed, had cultivated by practice, with quotative -ti (3rd sg. aorist)}
+bhāvittha: {developed, had cultivated by practice (3rd sg. aorist)}
+sacchikaritthāti: {realized, had experienced directly, with quotative -ti (3rd sg. aorist)}
+sacchikarittha: {realized, had experienced directly (3rd sg. aorist)}
+sacchākāsi: {has realized, has experienced directly, rendered as a completed act (3rd sg. aorist)}
+pajahissanti: {they will abandon, will give up (3rd pl. future)}
+bhāvessatīti: {will develop, will cultivate by practice, with quotative -ti (3rd sg. future)}
+bhāvessanti: {they will develop, will cultivate by practice (3rd pl. future)}
+bhāvessati: {will develop, will cultivate by practice (3rd sg. future)}
+sacchikarissatīti: {will realize, will experience directly, with quotative -ti (3rd sg. future)}
+sacchikarissati: {will realize, will experience directly (3rd sg. future)}
+sacchikarissanti: {they will realize, will experience directly (3rd pl. future)}
+anāgāmimaggasamaṅgi: {one possessed of the path of non-returning, short-vowel spelling of anāgāmimaggasamaṅgī (nominative sg.)}
+yamakapakaraṇaṃ: {the Book of Pairs, title of the whole book, in the closing colophon (heading)}

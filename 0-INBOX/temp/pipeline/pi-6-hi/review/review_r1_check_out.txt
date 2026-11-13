@@ -1,0 +1,141 @@
+﻿===== preamble: 3 / 3 non-empty lines
+===== 1-mulayamaka: 305 / 305 non-empty lines
+  6-1-49 L119: QMARK p0 h1
+      P: Ye keci kusalā dhammā, sabbe te kusalahetū…pe… kusalanidānā…pe… kusalasambhavā…pe… kusalappabhavā…pe… kusalasamuṭṭhānā…pe… kusalāhārā…pe… kusalārammaṇā…pe… kusalapaccayā…pe… kusalasamudayā…pe….
+      H: जो भी हितकर परिघटनाएँ हैं, क्या वे सब हितकर हेतु हैं… हितकर स्रोत… हितकर उद्भव… हितकर उद्गम… हितकर उत्पादक… हितकर आहार… हितकर विषय… हितकर कारण… हितकर उत्पत्ति…?
+  6-1-99 L300: QMARK p0 h1
+      P: Ye keci akusalā dhammā… ye keci abyākatā dhammā… ye keci nāmā dhammā, sabbe te nāmahetū ti… nāmanidānā… nāmasambhavā… nāmappabhavā… nāmasamuṭṭhānā… nāmāhārā… nāmārammaṇā… nāmapaccayā… nāmasamudayā….
+      H: जो भी हानिकर परिघटनाएँ हैं… जो भी नैतिक रूप से अनिर्धारित परिघटनाएँ हैं… जो भी मानसिक पक्ष की परिघटनाएँ हैं, क्या वे सब मानसिक पक्ष के हेतु हैं… मानसिक पक्ष के स्रोत… मानसिक पक्ष के उद्भव… मानसिक पक्ष के उद्गम… मानसिक पक
+===== 2-01-khandhayamaka: 788 / 788 non-empty lines
+  6-2-28 L255: TENSE past p0/h0 fut p0/h1
+      P: Avasesā khandhā [avasesā khandhā khandhā (syā.) evamuparipi] na vedanākkhandho.
+      H: शेष समूह [पाठभेद (Syā.): avasesā khandhā khandhā; आगे भी इसी प्रकार], अनुभूति का समूह नहीं हैं।
+  6-2-36 L349: QMARK p0 h1
+      P: (Ka) na saṅkhārā na saṅkhārakkhandhoti. Āmantā.
+      H: (क) जो रचनाएँ नहीं हैं, क्या वे मानसिक रचनाओं का समूह नहीं हैं? हाँ।
+  6-2-62 L577: BEINGS {'upa': (0, 1)}
+      P: Ye arūpaṃ upapajjitvā parinibbāyissanti tesaṃ vedanākkhandho uppajjissati, no ca tesaṃ rūpakkhandho uppajjissati. Itaresaṃ tesaṃ vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjissati.
+      H: जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें अनुभूति का समूह उत्पन्न होगा, पर उनमें भौतिक रूप का समूह उत्पन्न नहीं होगा। बाकी सबमें अनुभूति का समूह भी उत्पन्न होगा और भौतिक रूप का समूह भी उत्पन्न होगा।
+  6-2-65 L590: BEINGS {'upa': (0, 1)}
+      P: Ye arūpaṃ upapajjitvā parinibbāyissanti tesaṃ rūpakkhandho nuppajjissati, no ca tesaṃ vedanākkhandho nuppajjissati. Pacchimabhavikānaṃ tesaṃ rūpakkhandho ca nuppajjissati vedanākkhandho ca nuppajjissati.
+      H: जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें भौतिक रूप का समूह उत्पन्न नहीं होगा, पर उनमें अनुभूति का समूह उत्पन्न होगा। अंतिम जन्म वालों में भौतिक रूप का समूह भी उत्पन्न नहीं होगा और अनुभूति का समूह भी उत्पन्
+  6-2-69 L607: BEINGS {'panca': (0, 1)}
+      P: Sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho uppajjittha, no ca tesaṃ vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho ca uppajjittha vedanākkhandho ca uppajjat
+      H: सभी मरने वालों में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में पहचान का समूह उत्पन्न हुआ था, पर उनमें अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में पहचान का समूह भ
+  6-2-73 L621: BEINGS {'panca': (0, 1)}
+      P: Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho uppajjati, no ca tesaṃ tattha saññākkhandho uppajjittha. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjati saññākkhandho ca u
+      H: शुद्ध निवास लोक में जन्म लेने वालों में वहाँ अनुभूति का समूह उत्पन्न होता है, पर उनमें वहाँ पहचान का समूह उत्पन्न नहीं हुआ था। बाकी चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ अनुभूति का समूह भी उत्पन्न
+  6-2-73 L623: BEINGS {'panca': (0, 2)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho uppajjittha, no ca tesaṃ tattha vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca uppajjittha vedanākkhandho ca u
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ पहचान का समूह उत्पन्न हुआ था, पर उनमें वहाँ अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह भी उत्पन्
+  6-2-79 L640: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati, no ca tesaṃ tattha saññākkhandho nuppajjittha. Suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho c
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह उत्पन्न नहीं होता, पर उनमें वहाँ पहचान का समूह उत्पन्न हुआ था। शुद्ध निवास लोक में पूर्ण निर्वाण पाने वालों में और पहचान-रहित प्राणियों में वहाँ अनु
+  6-2-81 L650: BEINGS {'panca': (0, 1)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ tesaṃ vedanākkhandho uppajjati, no ca tesaṃ saññākkhandho uppajjissati. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ vedanākkhandho ca uppajjati saññākkhandho ca uppajjissati.
+      H: अंतिम जन्म लेने वालों में अनुभूति का समूह उत्पन्न होता है, पर उनमें पहचान का समूह उत्पन्न नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में अनुभूति का समूह भी उत्पन्न होता है और पहचान का समूह भी उत
+  6-2-81 L652: BEINGS {'panca': (0, 1)}
+      P: Sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho uppajjissati, no ca tesaṃ vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho ca uppajjissati vedanākkhandho ca uppajj
+      H: सभी मरने वालों में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में पहचान का समूह उत्पन्न होगा, पर उनमें अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में पहचान का समूह भी 
+  6-2-85 L666: BEINGS {'panca': (0, 1)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho uppajjati, no ca tesaṃ tattha saññākkhandho uppajjissati. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjati saññākkhan
+      H: अंतिम जन्म लेने वालों में वहाँ अनुभूति का समूह उत्पन्न होता है, पर उनमें वहाँ पहचान का समूह उत्पन्न नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ अनुभूति का समूह भी उत्पन्न होता है और पहचा
+  6-2-85 L668: BEINGS {'panca': (0, 2)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho uppajjissati, no ca tesaṃ tattha vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca uppajjissati vedanākkhandho ca
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ पहचान का समूह उत्पन्न होगा, पर उनमें वहाँ अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह भी उत्पन्न 
+  6-2-87 L677: BEINGS {'panca': (1, 0), 'upa': (2, 1), 'pacch': (2, 1)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ [pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ (sī. syā.)] tesaṃ saññākkhandho nuppajjissati, no ca tesaṃ vedanākkhandho nuppajjati. Parinibbantānaṃ tesaṃ saññākkhandho ca nuppajjissati
+      H: अंतिम जन्म लेने वालों में [पाठभेद (Sī., Syā.): pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ] पहचान का समूह उत्पन्न नहीं होगा, पर उनमें अनुभूति का समूह उत्पन्न होता है। पूर्ण निर्वाण पाने वालों में पहचान का समूह भी उत्प
+  6-2-91 L689: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati, no ca tesaṃ tattha saññākkhandho nuppajjissati. Parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca nuppajji
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह उत्पन्न नहीं होता, पर उनमें वहाँ पहचान का समूह उत्पन्न होगा। पूर्ण निर्वाण पाने वालों में और पहचान-रहित प्राणियों में वहाँ अनुभूति का समूह भी उत्पन्
+  6-2-97 L713: BEINGS {'panca': (0, 1)}
+      P: Pacchimabhavikānaṃ tesaṃ tattha vedanākkhandho uppajjittha, no ca tesaṃ tattha saññākkhandho uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha saññākkhandho ca uppajjissati.
+      H: अंतिम जन्म वालों में वहाँ अनुभूति का समूह उत्पन्न हुआ था, पर उनमें वहाँ पहचान का समूह उत्पन्न नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ अनुभूति का समूह भी उत्पन्न हुआ था और पहचान का समूह भी उ
+===== 2-02-khandhayamaka: 366 / 366 non-empty lines
+  6-2-116 L5: BEINGS {'upa': (1, 2)}
+      P: Pacchimabhavikānaṃ arūpaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ vedanākkhandho nirujjhissati, no ca tesaṃ rūpakkhandho nirujjhissati. Itaresaṃ tesaṃ vedanākkhandho ca nirujjhiss
+      H: अभौतिक लोक में अंतिम जन्म लेने वालों में और जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से मरने वालों में अनुभूति का समूह समाप्त होगा, पर उनमें भौतिक रूप का समूह समाप्त नहीं होगा। बाकी सबमें अनुभूति का समूह भ
+  6-2-119 L18: BEINGS {'upa': (1, 2)}
+      P: Pacchimabhavikānaṃ arūpaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ rūpakkhandho na nirujjhissati, no ca tesaṃ vedanākkhandho na nirujjhissati. Parinibbantānaṃ tesaṃ rūpakkhandho ca
+      H: अभौतिक लोक में अंतिम जन्म लेने वालों में और जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से मरने वालों में भौतिक रूप का समूह समाप्त नहीं होगा, पर उनमें अनुभूति का समूह समाप्त होगा। पूर्ण निर्वाण पाने वालों में
+  6-2-123 L35: BEINGS {'panca': (0, 1)}
+      P: Sabbesaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ saññākkhandho nirujjhittha, no ca tesaṃ vedanākkhandho nirujjhati. Catuvokārā pañcavokārā cavantānaṃ tesaṃ saññākkhandho ca nirujjhittha vedanākkhandho ca nirujjhati.
+      H: सभी जन्म लेने वालों में और पहचान-रहित प्राणियों के लोक से मरने वालों में पहचान का समूह समाप्त हुआ था, पर उनमें अनुभूति का समूह समाप्त नहीं होता। चार या पाँच समूहों वाले अस्तित्व से मरने वालों में पहचान का समूह भी समाप्त 
+  6-2-127 L49: BEINGS {'panca': (0, 1)}
+      P: Suddhāvāse parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhati, no ca tesaṃ tattha saññākkhandho nirujjhittha. Itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhati saññākkhandho ca niru
+      H: शुद्ध निवास लोक में पूर्ण निर्वाण पाने वालों में वहाँ अनुभूति का समूह समाप्त होता है, पर उनमें वहाँ पहचान का समूह समाप्त नहीं हुआ था। बाकी चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह भी समाप्त
+  6-2-127 L51: BEINGS {'panca': (0, 2)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhittha, no ca tesaṃ tattha vedanākkhandho nirujjhati. Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho ca nirujjhittha vedanākkhandho c
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह समाप्त हुआ था, पर उनमें वहाँ अनुभूति का समूह समाप्त नहीं होता। चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ पहचान का समूह भी समाप्त ह
+  6-2-132 L65: BEINGS {'panca': (0, 1)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho na nirujjhati, no ca tesaṃ tattha saññākkhandho na nirujjhittha. Suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati 
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ अनुभूति का समूह समाप्त नहीं होता, पर उनमें वहाँ पहचान का समूह समाप्त हुआ था। शुद्ध निवास लोक में जन्म लेने वालों में और पहचान-रहित प्राणियों में वहाँ अनुभूति 
+  6-2-134 L75: BEINGS {'panca': (0, 1)}
+      P: Parinibbantānaṃ tesaṃ vedanākkhandho nirujjhati, no ca tesaṃ saññākkhandho nirujjhissati. Itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ vedanākkhandho ca nirujjhati saññākkhandho ca nirujjhissati.
+      H: पूर्ण निर्वाण पाने वालों में अनुभूति का समूह समाप्त होता है, पर उनमें पहचान का समूह समाप्त नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व से मरने वालों में अनुभूति का समूह भी समाप्त होता है और पहचान का समूह भी समाप्त ह
+  6-2-134 L77: BEINGS {'panca': (0, 1)}
+      P: Sabbesaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ saññākkhandho nirujjhissati, no ca tesaṃ vedanākkhandho nirujjhati. Catuvokārā pañcavokārā cavantānaṃ tesaṃ saññākkhandho ca nirujjhissati vedanākkhandho nirujjhati.
+      H: सभी जन्म लेने वालों में और पहचान-रहित प्राणियों के लोक से मरने वालों में पहचान का समूह समाप्त होगा, पर उनमें अनुभूति का समूह समाप्त नहीं होता। चार या पाँच समूहों वाले अस्तित्व से मरने वालों में पहचान का समूह भी समाप्त हो
+  6-2-137 L86: BEINGS {'panca': (0, 1)}
+      P: Parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhati, no ca tesaṃ tattha saññākkhandho nirujjhissati. Itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhati saññākkhandho ca nirujjhissati.
+      H: पूर्ण निर्वाण पाने वालों में वहाँ अनुभूति का समूह समाप्त होता है, पर उनमें वहाँ पहचान का समूह समाप्त नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह भी समाप्त होता है और पहचान का स
+  6-2-137 L88: BEINGS {'panca': (0, 2)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati, no ca tesaṃ tattha vedanākkhandho nirujjhati. Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह समाप्त होगा, पर उनमें वहाँ अनुभूति का समूह समाप्त नहीं होता। चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ पहचान का समूह भी समाप्त होग
+  6-2-142 L104: BEINGS {'panca': (0, 1)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho na nirujjhati, no ca tesaṃ tattha saññākkhandho na nirujjhissati. Asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati saññākkhandho ca na nirujj
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ अनुभूति का समूह समाप्त नहीं होता, पर उनमें वहाँ पहचान का समूह समाप्त होगा। पहचान-रहित प्राणियों में वहाँ अनुभूति का समूह भी समाप्त नहीं होता और पहचान का समूह 
+  6-2-147 L123: BEINGS {'panca': (0, 1)}
+      P: Parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhittha, no ca tesaṃ tattha saññākkhandho nirujjhissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhittha saññākkhandho ca nirujjhissati.
+      H: पूर्ण निर्वाण पाने वालों में वहाँ अनुभूति का समूह समाप्त हुआ था, पर उनमें वहाँ पहचान का समूह समाप्त नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ अनुभूति का समूह भी समाप्त हुआ था और पहचान का समूह
+  6-2-147 L125: BEINGS {'panca': (0, 1)}
+      P: Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati, no ca tesaṃ tattha vedanākkhandho nirujjhittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca nir
+      H: शुद्ध निवास लोक में जन्म लेने वालों में वहाँ पहचान का समूह समाप्त होगा, पर उनमें वहाँ अनुभूति का समूह समाप्त नहीं हुआ था। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ पहचान का समूह भी समाप्त होगा और अनुभूत
+  6-2-159 L164: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ rūpakkhandho nuppajjati, no ca tesaṃ vedanākkhandho na nirujjhati. Arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ rūpakkhandho ca nuppajjati vedanākkhandho ca na nirujjhati.
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में भौतिक रूप का समूह उत्पन्न नहीं होता, पर उनमें अनुभूति का समूह समाप्त होता है। अभौतिक लोक में जन्म लेने वालों में और पहचान-रहित प्राणियों के लोक से मरने वालों में भौतिक र
+  6-2-160 L168: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ vedanākkhandho nuppajjati, no ca tesaṃ saññākkhandho na nirujjhati. Asaññasattānaṃ tesaṃ vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhati.
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में अनुभूति का समूह उत्पन्न नहीं होता, पर उनमें पहचान का समूह समाप्त होता है। पहचान-रहित प्राणियों में अनुभूति का समूह भी उत्पन्न नहीं होता और पहचान का समूह भी समाप्त नहीं ह
+  6-2-160 L170: BEINGS {'panca': (0, 1)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho na nirujjhati, no ca tesaṃ vedanākkhandho nuppajjati. Asaññasattānaṃ tesaṃ saññākkhandho ca na nirujjhati vedanākkhandho ca nuppajjati.
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में पहचान का समूह समाप्त नहीं होता, पर उनमें अनुभूति का समूह उत्पन्न होता है। पहचान-रहित प्राणियों में पहचान का समूह भी समाप्त नहीं होता और अनुभूति का समूह भी उत्पन्न 
+  6-2-163 L178: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha rūpakkhandho nuppajjati, no ca tesaṃ tattha vedanākkhandho na nirujjhati. Arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho nuppajjati vedanākkhandho ca
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ भौतिक रूप का समूह उत्पन्न नहीं होता, पर उनमें वहाँ अनुभूति का समूह समाप्त होता है। अभौतिक लोक में जन्म लेने वालों में और पहचान-रहित प्राणियों के लोक से मरने वालों म
+  6-2-164 L182: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati, no ca tesaṃ tattha saññākkhandho na nirujjhati. Asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhati.
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह उत्पन्न नहीं होता, पर उनमें वहाँ पहचान का समूह समाप्त होता है। पहचान-रहित प्राणियों में वहाँ अनुभूति का समूह भी उत्पन्न नहीं होता और पहचान का समूह भ
+  6-2-164 L184: BEINGS {'panca': (0, 1)}
+      P: Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho na nirujjhati, no ca tesaṃ tattha vedanākkhandho nuppajjati. Asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhati vedanākkhandho ca nuppajjati.
+      H: चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह समाप्त नहीं होता, पर उनमें वहाँ अनुभूति का समूह उत्पन्न होता है। पहचान-रहित प्राणियों में वहाँ पहचान का समूह भी समाप्त नहीं होता और अनुभूति का स
+  6-2-175 L218: BEINGS {'upa': (1, 2)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ vedanākkhandho nirujjhissati, no ca tesaṃ rūpakkhandho uppajjissati. Itaresaṃ tesaṃ vedanākkhandho ca nirujjhissati rūpakkhandho ca uppaj
+      H: अंतिम जन्म लेने वालों में और जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें अनुभूति का समूह समाप्त होगा, पर उनमें भौतिक रूप का समूह उत्पन्न नहीं होगा। बाकी सबमें अनुभूति का समूह भी समाप्त होगा और भौतिक रूप का सम
+  6-2-179 L231: BEINGS {'panca': (0, 1)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati, no ca tesaṃ tattha vedanākkhandho uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho
+      H: अंतिम जन्म लेने वालों में वहाँ पहचान का समूह समाप्त होगा, पर उनमें वहाँ अनुभूति का समूह उत्पन्न नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ पहचान का समूह भी समाप्त होगा और अनुभूति का समूह भी उत
+  6-2-180 L234: BEINGS {'upa': (1, 2)}
+      P: Pacchimabhavikānaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ rūpakkhandho nuppajjissati, no ca tesaṃ vedanākkhandho na nirujjhissati. Parinibbantānaṃ tesaṃ rūpakkhandho ca nuppajjissati vedanākkhand
+      H: अंतिम जन्म लेने वालों में और जो अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें भौतिक रूप का समूह उत्पन्न नहीं होगा, पर उनमें अनुभूति का समूह समाप्त होगा। पूर्ण निर्वाण पाने वालों में भौतिक रूप का समूह भी उत्पन्न नह
+  6-2-187 L262: BEINGS {'panca': (0, 1)}
+      P: Sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho nirujjhissati, no ca tesaṃ vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho ca nirujjhissati vedanākkhandho ca uppa
+      H: सभी मरने वालों में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में पहचान का समूह समाप्त होगा, पर उनमें अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में पहचान का समूह भी स
+  6-2-190 L272: BEINGS {'panca': (0, 2)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho nirujjhissati, no ca tesaṃ tattha vedanākkhandho uppajjati. Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho 
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ पहचान का समूह समाप्त होगा, पर उनमें वहाँ अनुभूति का समूह उत्पन्न नहीं होता। चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में वहाँ पहचान का समूह भी समाप्त हो
+  6-2-195 L288: BEINGS {'panca': (0, 1)}
+      P: Catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati, no ca tesaṃ tattha saññākkhandho na nirujjhissati. Parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca na ni
+      H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में वहाँ अनुभूति का समूह उत्पन्न नहीं होता, पर उनमें वहाँ पहचान का समूह समाप्त होगा। पूर्ण निर्वाण पाने वालों में और पहचान-रहित प्राणियों में वहाँ अनुभूति का समूह भी उत्पन्न
+  6-2-200 L306: BEINGS {'panca': (0, 1)}
+      P: Parinibbantānaṃ tesaṃ tattha vedanākkhandho uppajjittha, no ca tesaṃ tattha saññākkhandho nirujjhissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha saññākkhandho ca nirujjhissati.
+      H: पूर्ण निर्वाण पाने वालों में वहाँ अनुभूति का समूह उत्पन्न हुआ था, पर उनमें वहाँ पहचान का समूह समाप्त नहीं होगा। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ अनुभूति का समूह भी उत्पन्न हुआ था और पहचान का सम
+  6-2-200 L308: BEINGS {'panca': (0, 1)}
+      P: Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati, no ca tesaṃ tattha vedanākkhandho uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca uppa
+      H: शुद्ध निवास लोक में जन्म लेने वालों में वहाँ पहचान का समूह समाप्त होगा, पर उनमें वहाँ अनुभूति का समूह उत्पन्न नहीं हुआ था। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ पहचान का समूह भी समाप्त होगा और अनुभू
+===== 4-dhatuyamaka: 265 / 265 non-empty lines
+  6-4-13 L189: BEINGS {'sabbe': (0, 1)}
+      P: (Cakkaṃ bandhitabbaṃ, sabbe āmantā ubhatopi sesepi).
+      H: (चक्र पूरा करना चाहिए, दोनों प्रश्नों में भी और शेष में भी सभी उत्तर “हाँ” हैं)।
+TOTAL non-empty lines 1727, segments (block IDs) 564

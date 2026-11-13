@@ -1,0 +1,62 @@
+[6-7-8-0] Pariññāvāro
+[6-7-8-1-0] anulomapuggalo
+[6-7-8-2-0] anulomaokāso
+[6-7-8-3-0] anulomapuggalokāsā
+[6-7-9-0] Pariññāvāra
+[6-7-9-1-0] paṭilomapuggalo
+[6-7-9-2-0] paṭilomaokāso
+[6-7-198] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), paṭighānusayaṃ, mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, kāmarāgānusayaṃ, diṭṭhānusayaṃ
+[6-7-199] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), paṭighānusayaṃ, mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ
+[6-7-200] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ
+[6-7-201] parijānāti, parijānātīti, (no direct equivalent), vicikicchānusayaṃ, diṭṭhānusayaṃ
+[6-7-202] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), vicikicchānusayaṃ, avijjānusayaṃ
+[6-7-203] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), avijjānusayaṃ
+[6-7-204] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), kāmarāgānusayañca, mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ, paṭighānusayañca
+[6-7-205] Natthi, bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), kāmarāgānusayañca, mānānusayañca, Mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ, paṭighānusayañca
+[6-7-206] Natthi, parijānāti, parijānātīti, (no direct equivalent), kāmarāgānusayañca, vicikicchānusayaṃ, diṭṭhānusayañca, Diṭṭhānusayaṃ, paṭighānusayañca, mānānusayañca
+[6-7-207] Natthi, bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), kāmarāgānusayañca, mānānusayañca, Mānānusayaṃ, avijjānusayaṃ, paṭighānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-208] Natthi, bhavarāgānusayañca, parijānāti, parijānātīti, (no direct equivalent), kāmarāgānusayañca, avijjānusayaṃ, paṭighānusayañca, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-209] bhavarāgānusayaṃ, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayaṃ, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayaṃ, kāmarāgānusayañca, diṭṭhānusayaṃ
+[6-7-210] bhavarāgānusayaṃ, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayaṃ, paṭighānusayañca, mānānusayaṃ, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-211] bhavarāgānusayaṃ, bhavarāgānusayañca, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-212] parijānāti, parijānātīti, vicikicchānusayaṃ, diṭṭhānusayaṃ
+[6-7-213] bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, tīsu vedanāsu, Kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ
+[6-7-214] bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, tīsu vedanāsu, Kāmadhātuyā, avijjānusayaṃ, avijjānusayañca
+[6-7-215] Natthi, bhavarāgānusayaṃ, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, kāmarāgānusayaṃ, paṭighānusayañca, paṭighānusayaṃ, mānānusayaṃ, mānānusayañca, diṭṭhānusayaṃ
+[6-7-216] Natthi, bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, diṭṭhānusayaṃ, mānānusayañca
+[6-7-217] Natthi, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, mānānusayañca, diṭṭhānusayañca
+[6-7-218] Natthi, bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-219] Natthi, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-220] bhavarāgānusayaṃ, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, paṭighānusayaṃ, mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, kāmarāgānusayaṃ, diṭṭhānusayaṃ
+[6-7-221] bhavarāgānusayaṃ, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, paṭighānusayaṃ, mānānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ
+[6-7-222] bhavarāgānusayaṃ, bhavarāgānusayañca, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, Aggamaggasamaṅgī, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-223] parijānāti, parijānātīti, (no direct equivalent), vicikicchānusayaṃ, diṭṭhānusayaṃ
+[6-7-224] bhavarāgānusayaṃ, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, tīsu vedanāsu, puggalo, kāmadhātuyā, vicikicchānusayaṃ, avijjānusayaṃ
+[6-7-225] bhavarāgānusayaṃ, bhavarāgānusayañca, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, Aggamaggasamaṅgī, tīsu vedanāsu, puggalo, kāmadhātuyā, avijjānusayaṃ, avijjānusayañca
+[6-7-226] Natthi, bhavarāgānusayaṃ, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, kāmarāgānusayañca, kāmarāgānusayaṃ, paṭighānusayañca, paṭighānusayaṃ, mānānusayaṃ, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, diṭṭhānusayaṃ
+[6-7-227] Natthi, bhavarāgānusayaṃ, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, Aggamaggasamaṅgī, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, mānānusayañca, Mānānusayaṃ, vicikicchānusayaṃ, vicikicchānusayañca, diṭṭhānusayaṃ
+[6-7-228] Natthi, Aṭṭhamako, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, mānānusayañca, diṭṭhānusayañca
+[6-7-229] Natthi, bhavarāgānusayaṃ, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, Aggamaggasamaṅgī, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, kāmadhātuyā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, mānānusayañca, Mānānusayaṃ, paṭighānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-230] Natthi, bhavarāgānusayañca, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, Aggamaggasamaṅgī, dvīsu vedanāsu, dukkhāya vedanāya, puggalo, anulomaṃ, kāmadhātuyā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, paṭighānusayañca, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca, Pariññāvāre
+[6-7-231] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Anāgāmimaggasamaṅgī, Anāgāmimaggasamaṅgiñca, puggalā, maggasamaṅgīnaṃ, avasesā, paṭighānusayaṃ, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayaṃ, kāmarāgānusayañca, diṭṭhānusayaṃ
+[6-7-232] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Anāgāmimaggasamaṅgī, Anāgāmimaggasamaṅgiñca, puggalā, maggasamaṅgīnaṃ, avasesā, paṭighānusayaṃ, paṭighānusayañca, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-233] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgiñca, Aggamaggasamaṅgī, puggalā, avasesā, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, diṭṭhānusayaṃ
+[6-7-234] parijānāti, parijānātīti, (no direct equivalent), vicikicchānusayaṃ, diṭṭhānusayaṃ
+[6-7-235] ṭhapetvā, bhavarāgānusayaṃ, aṭṭhamakañca, Aṭṭhamako, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Aggamaggasamaṅgiñca, puggalā, avasesā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca
+[6-7-236] bhavarāgānusayaṃ, parijānāti, parijānātīti, (no direct equivalent), avijjānusayaṃ
+[6-7-237] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Anāgāmimaggasamaṅgī, Anāgāmimaggasamaṅgiñca, puggalā, maggasamaṅgīnaṃ, avasesā, kāmarāgānusayañca, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ, paṭighānusayañca
+[6-7-238] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Anāgāmimaggasamaṅgī, puggalā, maggasamaṅgīnañca, maggasamaṅgīnaṃ, avasesā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, mānānusayañca, mānānusayaṃ, diṭṭhānusayaṃ, paṭighānusayañca
+[6-7-239] ṭhapetvā, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Aggamaggasamaṅgī, Anāgāmimaggasamaṅgī, puggalā, maggasamaṅgīnañca, avasesā, vicikicchānusayaṃ, vicikicchānusayañca, kāmarāgānusayañca, mānānusayañca, mānānusayaṃ, paṭighānusayañca, diṭṭhānusayañca
+[6-7-240] ṭhapetvā, bhavarāgānusayaṃ, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Anāgāmimaggasamaṅgī, puggalā, maggasamaṅgīnañca, avasesā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, diṭṭhānusayañca, paṭighānusayañca, mānānusayañca, vicikicchānusayañca
+[6-7-241] ṭhapetvā, bhavarāgānusayañca, Aṭṭhamako, aṭṭhamakañca, parijānāti, parijānātīti, parijānanti, Anāgāmimaggasamaṅgī, puggalā, maggasamaṅgīnañca, avasesā, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayañca, diṭṭhānusayañca, paṭighānusayañca, mānānusayañca, vicikicchānusayañca
+[6-7-242] bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayaṃ, paṭighānusayañca, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, kāmarāgānusayaṃ, kāmarāgānusayañca, diṭṭhānusayaṃ
+[6-7-243] bhavarāgānusayaṃ, bhavarāgānusayañca, rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayaṃ, paṭighānusayañca, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-244] bhavarāgānusayaṃ, bhavarāgānusayañca, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-245] parijānāti, parijānātīti, vicikicchānusayaṃ, diṭṭhānusayaṃ
+[6-7-246] bhavarāgānusayaṃ, bhavarāgānusayañca, parijānāti, parijānātīti, tīsu vedanāsu, Kāmadhātuyā, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ
+[6-7-247] bhavarāgānusayaṃ, bhavarāgānusayañca, parijānāti, parijānātīti, tīsu vedanāsu, Kāmadhātuyā, avijjānusayaṃ, avijjānusayañca
+[6-7-248] bhavarāgānusayaṃ, bhavarāgānusayañca, Rūpadhātuyā, arūpadhātuyā, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, kāmarāgānusayañca, kāmarāgānusayaṃ, paṭighānusayañca, paṭighānusayaṃ, mānānusayaṃ, mānānusayañca, vicikicchānusayaṃ, vicikicchānusayañca, avijjānusayaṃ, avijjānusayañca, diṭṭhānusayaṃ
+[6-7-249] bhavarāgānusayaṃ, bhavarāgānusayañca, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, kāmarāgānusayañca, paṭighānusayañca, paṭighānusayaṃ, vicikicchānusayaṃ, avijjānusayaṃ, diṭṭhānusayaṃ, mānānusayañca
+[6-7-250] parijānāti, parijānātīti, kāmarāgānusayañca, vicikicchānusayaṃ, paṭighānusayañca, mānānusayañca, diṭṭhānusayañca
+[6-7-251] bhavarāgānusayaṃ, bhavarāgānusayañca, parijānāti, parijānātīti, dvīsu vedanāsu, Dukkhāya vedanāya, Kāmadhātuyā, paṭighānusayañca, kāmarāgānusayañca, avijjānusayaṃ, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca
+[6-7-252] bhavarāgānusayañca, parijānāti, parijānātīti, kāmarāgānusayañca, avijjānusayaṃ, paṭighānusayañca, mānānusayañca, diṭṭhānusayañca, vicikicchānusayañca

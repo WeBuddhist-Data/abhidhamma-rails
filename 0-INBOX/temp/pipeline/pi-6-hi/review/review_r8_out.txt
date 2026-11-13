@@ -1,0 +1,341 @@
+total lines 1517 flagged 84
+Counter({'FEAT': 81, 'VERB': 2, 'QCOUNT': 2, 'END': 1})
+
+== 10-09 L56 ^6-10-368
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ itthindriyaṃ uppajjati, no ca tāsaṃ purisindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ itthindriyañca uppajjati purisindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में, जो स्त्रियाँ सूक्ष्म भौतिक लोक या अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगी और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें पुरुषत्व की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता भी उत्पन्न होती है और पुरुषत्व की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 4, 5)]
+== 10-09 L64 ^6-10-368
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ itthindriyaṃ uppajjati, no ca tāsaṃ somanassindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ itthindriyañca uppajjati somanassindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता भी उत्पन्न होती है और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 3, 4)]
+== 10-09 L68 ^6-10-368
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ itthindriyaṃ uppajjati, no ca tāsaṃ upekkhindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ itthindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें समभाव की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में स्त्रीत्व की क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 3, 4)]
+== 10-09 L92 ^6-10-370
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ jīvitindriyaṃ uppajjati, no ca tesaṃ somanassindriyaṃ uppajjissati. Itaresaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ jīvitindriyañca uppajjati somanassindriyañca uppajjissati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में जीवन-क्षमता उत्पन्न होती है, पर उनमें प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वालों में और जीवन के दौरान मन के उत्पन्न होने के क्षण में जीवन-क्षमता भी उत्पन्न होती है और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-09 L96 ^6-10-370
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ jīvitindriyaṃ uppajjati, no ca tesaṃ upekkhindriyaṃ uppajjissati. Itaresaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ jīvitindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में जीवन-क्षमता उत्पन्न होती है, पर उनमें समभाव की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वालों में और जीवन के दौरान मन के उत्पन्न होने के क्षण में जीवन-क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-09 L104 ^6-10-371
+ P: Somanassasampayuttapacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ somanassindriyaṃ uppajjati, no ca tesaṃ upekkhindriyaṃ uppajjissati. Itaresaṃ somanassena upapajjantānaṃ pavatte somanassasampayuttacittassa uppādakkhaṇe tesaṃ somanassindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: प्रसन्नता से जुड़े अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में प्रसन्नता की क्षमता उत्पन्न होती है, पर उनमें समभाव की क्षमता उत्पन्न नहीं होगी। बाकी प्रसन्नता के साथ जन्म लेने वालों में और जीवन के दौरान प्रसन्नता से जुड़े मन के उत्पन्न होने के क्षण में प्रसन्नता की क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 4, 3)]
+== 10-09 L139 ^6-10-376
+ P: Pacchimabhavikānaṃ kāmāvacaraṃ upapajjantānaṃ rūpāvacaraṃ upapajjantānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tesaṃ tattha cakkhundriyaṃ uppajjati, no ca tesaṃ tattha purisindriyaṃ uppajjissati. Itaresaṃ sacakkhukānaṃ kāmāvacaraṃ upapajjantānaṃ tesaṃ tattha cakkhundriyañca uppajjati purisindriyañca uppajjissati.
+ H: इंद्रिय-सुखों के लोक में अंतिम जन्म लेने वालों में, सूक्ष्म भौतिक लोक में जन्म लेने वालों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ आँख की क्षमता उत्पन्न होती है, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी। बाकी आँख वाले इंद्रिय-सुखों के लोक में जन्म लेने वालों में वहाँ आँख की क्षमता भी उत्पन्न होती है और पुरुषत्व की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 1, 2)]
+== 10-09 L163 ^6-10-377
+ P: Pacchimabhavikānaṃ kāmāvacaraṃ upapajjantānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tesaṃ tattha ghānindriyaṃ uppajjati, no ca tesaṃ tattha purisindriyaṃ uppajjissati. Itaresaṃ saghānakānaṃ upapajjantānaṃ tesaṃ tattha ghānindriyañca uppajjati purisindriyañca uppajjissati.
+ H: इंद्रिय-सुखों के लोक में अंतिम जन्म लेने वालों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ नाक की क्षमता उत्पन्न होती है, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी। बाकी नाक वाले जन्म लेने वालों में वहाँ नाक की क्षमता भी उत्पन्न होती है और पुरुषत्व की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 1, 2)]
+== 10-09 L183 ^6-10-378
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyaṃ uppajjati, no ca tāsaṃ tattha purisindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyañca uppajjati purisindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न होती है और पुरुषत्व की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 3, 4)]
+== 10-09 L191 ^6-10-378
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyaṃ uppajjati, no ca tāsaṃ tattha somanassindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyañca uppajjati somanassindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न होती है और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 3, 4)]
+== 10-09 L195 ^6-10-378
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyaṃ uppajjati, no ca tāsaṃ tattha upekkhindriyaṃ uppajjissati. Itarāsaṃ itthīnaṃ upapajjantīnaṃ tāsaṃ tattha itthindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है, पर उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी। बाकी जन्म लेने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('itthī', 3, 4)]
+== 10-09 L219 ^6-10-380
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha jīvitindriyaṃ uppajjati, no ca tesaṃ tattha somanassindriyaṃ uppajjissati. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha jīvitindriyañca uppajjati somanassindriyañca uppajjissati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में, जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में वहाँ जीवन-क्षमता उत्पन्न होती है, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में और जीवन के दौरान मन के उत्पन्न होने के क्षण में वहाँ जीवन-क्षमता भी उत्पन्न होती है और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-09 L223 ^6-10-380
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha jīvitindriyaṃ uppajjati, no ca tesaṃ tattha upekkhindriyaṃ uppajjissati. Itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ tattha jīvitindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में वहाँ जीवन-क्षमता उत्पन्न होती है, पर उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी। बाकी चार या पाँच समूहों वाले अस्तित्व में जन्म लेने वालों में और जीवन के दौरान मन के उत्पन्न होने के क्षण में वहाँ जीवन-क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-09 L231 ^6-10-381
+ P: Somanassasampayuttapacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ tattha somanassindriyaṃ uppajjati, no ca tesaṃ tattha upekkhindriyaṃ uppajjissati. Itaresaṃ somanassena upapajjantānaṃ pavatte somanassasampayuttacittassa uppādakkhaṇe tesaṃ tattha somanassindriyañca uppajjati upekkhindriyañca uppajjissati.
+ H: प्रसन्नता से जुड़े अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में वहाँ प्रसन्नता की क्षमता उत्पन्न होती है, पर उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी। बाकी प्रसन्नता के साथ जन्म लेने वालों में और जीवन के दौरान प्रसन्नता से जुड़े मन के उत्पन्न होने के क्षण में वहाँ प्रसन्नता की क्षमता भी उत्पन्न होती है और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 4, 3)]
+== 10-10 L61 ^6-10-387
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ purisindriyaṃ na uppajjissati, no ca tāsaṃ itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ purisindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में, जो स्त्रियाँ सूक्ष्म भौतिक लोक या अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगी और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में पुरुषत्व की क्षमता उत्पन्न नहीं होगी, पर उनमें स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में, जो सूक्ष्म भौतिक लोक या अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वालों में पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 4, 5)]
+== 10-10 L69 ^6-10-387
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ somanassindriyaṃ na uppajjissati, no ca tāsaṃ itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca upekkhāya upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ somanassindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में प्रसन्नता की क्षमता उत्पन्न नहीं होगी, पर उनमें स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में और जो समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से मरने वालों में प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 2, 3)]
+== 10-10 L73 ^6-10-387
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ upekkhindriyaṃ na uppajjissati, no ca tāsaṃ itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca somanassena upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ upekkhindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में और जो प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से मरने वालों में समभाव की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 2, 3)]
+== 10-10 L96 ^6-10-389
+ P: Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ jīvitindriyaṃ na uppajjati, no ca tesaṃ somanassindriyaṃ na uppajjissati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ jīvitindriyañca na uppajjati somanassindriyañca na uppajjissati.
+ H: सभी मरने वालों में और जीवन के दौरान मन के भंग होने के क्षण में जीवन-क्षमता उत्पन्न नहीं होती, पर उनमें प्रसन्नता की क्षमता उत्पन्न होगी। अंतिम मन के भंग होने के क्षण में और जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में जीवन-क्षमता भी उत्पन्न नहीं होती और प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-10 L98 ^6-10-389
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ somanassindriyaṃ na uppajjissati, no ca tesaṃ jīvitindriyaṃ na uppajjati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ somanassindriyañca na uppajjissati jīvitindriyañca na uppajjati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में प्रसन्नता की क्षमता उत्पन्न नहीं होगी, पर उनमें जीवन-क्षमता उत्पन्न होती है। अंतिम मन के भंग होने के क्षण में और जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी और जीवन-क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('upekkhā_s', 2, 0)]
+== 10-10 L100 ^6-10-389
+ P: Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ jīvitindriyaṃ na uppajjati, no ca tesaṃ upekkhindriyaṃ na uppajjissati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ jīvitindriyañca na uppajjati upekkhindriyañca na uppajjissati.
+ H: सभी मरने वालों में और जीवन के दौरान मन के भंग होने के क्षण में जीवन-क्षमता उत्पन्न नहीं होती, पर उनमें समभाव की क्षमता उत्पन्न होगी। अंतिम मन के भंग होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में जीवन-क्षमता भी उत्पन्न नहीं होती और समभाव की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-10 L102 ^6-10-389
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ upekkhindriyaṃ na uppajjissati, no ca tesaṃ jīvitindriyaṃ na uppajjati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ upekkhindriyañca na uppajjissati jīvitindriyañca na uppajjati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें जीवन-क्षमता उत्पन्न होती है। अंतिम मन के भंग होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में समभाव की क्षमता भी उत्पन्न नहीं होगी और जीवन-क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('somanassa_s', 2, 0)]
+== 10-10 L108 ^6-10-390
+ P: Sabbesaṃ cittassa bhaṅgakkhaṇe somanassavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ somanassindriyaṃ na uppajjati, no ca tesaṃ upekkhindriyaṃ na uppajjissati. Somanassasampayuttapacchimacittassa bhaṅgakkhaṇe upekkhāsampayuttapacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ somanassindriyañca na uppajjati upekkhindriyañca na uppajjissati.
+ H: सभी के मन के भंग होने के क्षण में, प्रसन्नता से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में प्रसन्नता की क्षमता उत्पन्न नहीं होती, पर उनमें समभाव की क्षमता उत्पन्न होगी। प्रसन्नता से जुड़े अंतिम मन के भंग होने के क्षण में, समभाव से जुड़े अंतिम मन से युक्त लोगों में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में प्रसन्नता की क्षमता भी उत्पन्न नहीं होती और समभाव की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('somanassa_s', 2, 1)]
+== 10-10 L110 ^6-10-390
+ P: Somanassasampayuttapacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ upekkhindriyaṃ na uppajjissati, no ca tesaṃ somanassindriyaṃ na uppajjati. Somanassasampayuttapacchimacittassa bhaṅgakkhaṇe upekkhāsampayuttapacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe tesaṃ upekkhindriyañca na uppajjissati somanassindriyañca na uppajjati.
+ H: प्रसन्नता से जुड़े अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें प्रसन्नता की क्षमता उत्पन्न होती है। प्रसन्नता से जुड़े अंतिम मन के भंग होने के क्षण में, समभाव से जुड़े अंतिम मन से युक्त लोगों में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में समभाव की क्षमता भी उत्पन्न नहीं होगी और प्रसन्नता की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('somanassa_s', 4, 2)]
+== 10-11 L15 ^6-10-395
+ P: Kāmāvacarā cavantānaṃ acakkhukānaṃ kāmāvacaraṃ upapajjantānaṃ tesaṃ tattha cakkhundriyaṃ na uppajjati, no ca tesaṃ tattha purisindriyaṃ na uppajjissati. Kāmāvacare parinibbantānaṃ rūpāvacarā cavantānaṃ asaññasattānaṃ arūpānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha cakkhundriyañca na uppajjati purisindriyañca na uppajjissati.
+ H: इंद्रिय-सुखों के लोक से मरने वालों में और आँख से रहित इंद्रिय-सुखों के लोक में जन्म लेने वालों में वहाँ आँख की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न होगी। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक से मरने वालों में, पहचान-रहित प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ आँख की क्षमता भी उत्पन्न नहीं होती और पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('itthī', 1, 2)]
+== 10-11 L17 ^6-10-395
+ P: Pacchimabhavikānaṃ kāmāvacaraṃ upapajjantānaṃ rūpāvacaraṃ upapajjantānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tesaṃ tattha purisindriyaṃ na uppajjissati, no ca tesaṃ tattha cakkhundriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacarā cavantānaṃ asaññasattānaṃ arūpānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha purisindriyañca na uppajjissati cakkhundriyañca na uppajjati.
+ H: इंद्रिय-सुखों के लोक में अंतिम जन्म लेने वालों में, सूक्ष्म भौतिक लोक में जन्म लेने वालों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ आँख की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक से मरने वालों में, पहचान-रहित प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी और आँख की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 2, 4)]
+== 10-11 L39 ^6-10-396
+ P: Kāmāvacarā cavantānaṃ aghānakānaṃ kāmāvacaraṃ upapajjantānaṃ tesaṃ tattha ghānindriyaṃ na uppajjati, no ca tesaṃ tattha purisindriyaṃ na uppajjissati. Kāmāvacare parinibbantānaṃ rūpāvacarānaṃ arūpāvacarānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha ghānindriyañca na uppajjati purisindriyañca na uppajjissati.
+ H: इंद्रिय-सुखों के लोक से मरने वालों में और नाक से रहित इंद्रिय-सुखों के लोक में जन्म लेने वालों में वहाँ नाक की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न होगी। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक के प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ नाक की क्षमता भी उत्पन्न नहीं होती और पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('itthī', 1, 2)]
+== 10-11 L41 ^6-10-396
+ P: Pacchimabhavikānaṃ kāmāvacaraṃ upapajjantānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tesaṃ tattha purisindriyaṃ na uppajjissati, no ca tesaṃ tattha ghānindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacarānaṃ arūpāvacarānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha purisindriyañca na uppajjissati ghānindriyañca na uppajjati.
+ H: इंद्रिय-सुखों के लोक में अंतिम जन्म लेने वालों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ नाक की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक के प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी और नाक की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 2, 4)]
+== 10-11 L59 ^6-10-397
+ P: Kāmāvacarā cavantānaṃ na itthīnaṃ kāmāvacaraṃ upapajjantānaṃ tesaṃ tattha itthindriyaṃ na uppajjati, no ca tesaṃ tattha purisindriyaṃ na uppajjissati. Kāmāvacare parinibbantānaṃ rūpāvacarānaṃ arūpāvacarānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha itthindriyañca na uppajjati purisindriyañca na uppajjissati.
+ H: इंद्रिय-सुखों के लोक से मरने वालों में और स्त्रियों से भिन्न इंद्रिय-सुखों के लोक में जन्म लेने वालों में वहाँ स्त्रीत्व की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न होगी। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक के प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती और पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('itthī', 2, 3)]
+== 10-11 L61 ^6-10-397
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha purisindriyaṃ na uppajjissati, no ca tāsaṃ tattha itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacarānaṃ arūpāvacarānaṃ yā ca itthiyo eteneva bhāvena katici bhave dassetvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha purisindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक के प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ पुरुषत्व की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 3, 5)]
+== 10-11 L67 ^6-10-397
+ P: Kāmāvacarā cavantānaṃ na itthīnaṃ kāmāvacaraṃ upapajjantānaṃ rūpāvacarānaṃ tesaṃ tattha itthindriyaṃ na uppajjati, no ca tesaṃ tattha somanassindriyaṃ na uppajjissati. Kāmāvacare parinibbantānaṃ rūpāvacare pacchimabhavikānaṃ asaññasattānaṃ arūpānaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha itthindriyañca na uppajjati somanassindriyañca na uppajjissati.
+ H: इंद्रिय-सुखों के लोक से मरने वालों में, स्त्रियों से भिन्न इंद्रिय-सुखों के लोक में जन्म लेने वालों में और सूक्ष्म भौतिक लोक के प्राणियों में वहाँ स्त्रीत्व की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न होगी। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक में अंतिम जन्म वालों में, पहचान-रहित प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती और प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('itthī', 2, 3)]
+== 10-11 L69 ^6-10-397
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha somanassindriyaṃ na uppajjissati, no ca tāsaṃ tattha itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare pacchimabhavikānaṃ asaññasattānaṃ arūpānaṃ yā ca itthiyo upekkhāya upapajjitvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha somanassindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक में अंतिम जन्म वालों में, पहचान-रहित प्राणियों में, अभौतिक लोक के प्राणियों में और जो स्त्रियाँ समभाव के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 3, 5)]
+== 10-11 L71 ^6-10-397
+ P: Kāmāvacarā cavantānaṃ na itthīnaṃ kāmāvacaraṃ upapajjantānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha itthindriyaṃ na uppajjati, no ca tesaṃ tattha upekkhindriyaṃ na uppajjissati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ asaññasattānaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha itthindriyañca na uppajjati upekkhindriyañca na uppajjissati.
+ H: इंद्रिय-सुखों के लोक से मरने वालों में, स्त्रियों से भिन्न इंद्रिय-सुखों के लोक में जन्म लेने वालों में, सूक्ष्म भौतिक लोक के प्राणियों में और अभौतिक लोक के प्राणियों में वहाँ स्त्रीत्व की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ समभाव की क्षमता उत्पन्न होगी। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में, पहचान-रहित प्राणियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती और समभाव की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('itthī', 2, 3)]
+== 10-11 L73 ^6-10-397
+ P: Pacchimabhavikānaṃ itthīnaṃ upapajjantīnaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ upapajjantīnaṃ tāsaṃ tattha upekkhindriyaṃ na uppajjissati, no ca tāsaṃ tattha itthindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ asaññasattānaṃ yā ca itthiyo somanassena upapajjitvā parinibbāyissanti tāsaṃ cavantīnaṃ tesaṃ tattha upekkhindriyañca na uppajjissati itthindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाली स्त्रियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से जन्म लेने वाली स्त्रियों में वहाँ समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ स्त्रीत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में, पहचान-रहित प्राणियों में और जो स्त्रियाँ प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगी, उनमें से मरने वाली स्त्रियों में वहाँ समभाव की क्षमता भी उत्पन्न नहीं होगी और स्त्रीत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('itthī', 3, 5)]
+== 10-11 L89 ^6-10-398
+ P: Pacchimabhavikānaṃ purisānaṃ uppajjantānaṃ ye ca purisā somanassena upapajjitvā parinibbāyissanti tesaṃ upapajjantānaṃ tesaṃ tattha upekkhindriyaṃ na uppajjissati, no ca tesaṃ tattha purisindriyaṃ na uppajjati. Kāmāvacare parinibbantānaṃ rūpāvacare arūpāvacare pacchimabhavikānaṃ asaññasattānaṃ ye ca purisā somanassena upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ tattha upekkhindriyañca na uppajjissati purisindriyañca na uppajjati.
+ H: अंतिम जन्म लेने वाले पुरुषों में और जो पुरुष प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से जन्म लेने वालों में वहाँ समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ पुरुषत्व की क्षमता उत्पन्न होती है। इंद्रिय-सुखों के लोक में पूर्ण निर्वाण पाने वालों में, सूक्ष्म भौतिक लोक या अभौतिक लोक में अंतिम जन्म वालों में, पहचान-रहित प्राणियों में और जो पुरुष प्रसन्नता के साथ जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें से मरने वालों में वहाँ समभाव की क्षमता भी उत्पन्न नहीं होगी और पुरुषत्व की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('upap', 1, 2)]
+== 10-11 L95 ^6-10-399
+ P: Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha jīvitindriyaṃ na uppajjati, no ca tesaṃ tattha somanassindriyaṃ na uppajjissati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha jīvitindriyañca na uppajjati somanassindriyañca na uppajjissati.
+ H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में और जीवन के दौरान मन के भंग होने के क्षण में वहाँ जीवन-क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न होगी। अंतिम मन के भंग होने के क्षण में, जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों के लोक से मरने वालों में वहाँ जीवन-क्षमता भी उत्पन्न नहीं होती और प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-11 L97 ^6-10-399
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha somanassindriyaṃ na uppajjissati, no ca tesaṃ tattha jīvitindriyaṃ na uppajjati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha somanassindriyañca na uppajjissati jīvitindriyañca na uppajjati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में, जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ जीवन-क्षमता उत्पन्न होती है। अंतिम मन के भंग होने के क्षण में, जिस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों के लोक से मरने वालों में वहाँ प्रसन्नता की क्षमता भी उत्पन्न नहीं होगी और जीवन-क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('upekkhā_s', 2, 0)]
+== 10-11 L99 ^6-10-399
+ P: Catuvokārā pañcavokārā cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha jīvitindriyaṃ na uppajjati, no ca tesaṃ tattha upekkhindriyaṃ na uppajjissati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha jīvitindriyañca na uppajjati upekkhindriyañca na uppajjissati.
+ H: चार या पाँच समूहों वाले अस्तित्व से मरने वालों में और जीवन के दौरान मन के भंग होने के क्षण में वहाँ जीवन-क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ समभाव की क्षमता उत्पन्न होगी। अंतिम मन के भंग होने के क्षण में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों के लोक से मरने वालों में वहाँ जीवन-क्षमता भी उत्पन्न नहीं होती और समभाव की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-11 L101 ^6-10-399
+ P: Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe asaññasattaṃ upapajjantānaṃ tesaṃ tattha upekkhindriyaṃ na uppajjissati, no ca tesaṃ tattha jīvitindriyaṃ na uppajjati. Pacchimacittassa bhaṅgakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattā cavantānaṃ tesaṃ tattha upekkhindriyañca na uppajjissati jīvitindriyañca na uppajjati.
+ H: अंतिम मन के उत्पन्न होने के क्षण में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों के लोक में जन्म लेने वालों में वहाँ समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ जीवन-क्षमता उत्पन्न होती है। अंतिम मन के भंग होने के क्षण में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों के लोक से मरने वालों में वहाँ समभाव की क्षमता भी उत्पन्न नहीं होगी और जीवन-क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('somanassa_s', 2, 0)]
+== 10-11 L107 ^6-10-400
+ P: Sabbesaṃ cittassa bhaṅgakkhaṇe somanassavippayuttacittassa uppādakkhaṇe tesaṃ tattha somanassindriyaṃ na uppajjati, no ca tesaṃ tattha upekkhindriyaṃ na uppajjissati. Somanassasampayuttapacchimacittassa bhaṅgakkhaṇe upekkhāsampayuttapacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha somanassindriyañca na uppajjati upekkhindriyañca na uppajjissati.
+ H: सभी के मन के भंग होने के क्षण में और प्रसन्नता से अलग मन के उत्पन्न होने के क्षण में वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होती, पर उनमें वहाँ समभाव की क्षमता उत्पन्न होगी। प्रसन्नता से जुड़े अंतिम मन के भंग होने के क्षण में, समभाव से जुड़े अंतिम मन से युक्त लोगों में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों में वहाँ प्रसन्नता की क्षमता भी उत्पन्न नहीं होती और समभाव की क्षमता भी उत्पन्न नहीं होगी।
+   ! FEAT [('somanassa_s', 2, 1)]
+== 10-11 L109 ^6-10-400
+ P: Somanassasampayuttapacchimacittassa uppādakkhaṇe yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa uppādakkhaṇe tesaṃ tattha upekkhindriyaṃ na uppajjissati, no ca tesaṃ tattha somanassindriyaṃ na uppajjati. Somanassasampayuttapacchimacittassa bhaṅgakkhaṇe upekkhāsampayuttapacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha upekkhindriyañca na uppajjissati somanassindriyañca na uppajjati.
+ H: प्रसन्नता से जुड़े अंतिम मन के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के उत्पन्न होने के क्षण में वहाँ समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न होती है। प्रसन्नता से जुड़े अंतिम मन के भंग होने के क्षण में, समभाव से जुड़े अंतिम मन से युक्त लोगों में, जिस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों में वहाँ समभाव की क्षमता भी उत्पन्न नहीं होगी और प्रसन्नता की क्षमता भी उत्पन्न नहीं होती।
+   ! FEAT [('somanassa_s', 4, 2)]
+== 10-12 L73 ^6-10-408
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tesaṃ jīvitindriyaṃ uppajjittha, no ca tesaṃ somanassindriyaṃ uppajjissati. Itaresaṃ tesaṃ jīvitindriyañca uppajjittha somanassindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में और जिनमें इस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उनमें जीवन-क्षमता उत्पन्न हुई थी, पर उनमें प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी सबमें जीवन-क्षमता भी उत्पन्न हुई थी और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-12 L76 ^6-10-408
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ jīvitindriyaṃ uppajjittha, no ca tesaṃ upekkhindriyaṃ uppajjissati. Itaresaṃ tesaṃ jīvitindriyañca uppajjittha upekkhindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में और जिनमें इस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उनमें जीवन-क्षमता उत्पन्न हुई थी, पर उनमें समभाव की क्षमता उत्पन्न नहीं होगी। बाकी सबमें जीवन-क्षमता भी उत्पन्न हुई थी और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-12 L82 ^6-10-409
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ somanassindriyaṃ uppajjittha, no ca tesaṃ upekkhindriyaṃ uppajjissati. Itaresaṃ tesaṃ somanassindriyañca uppajjittha upekkhindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में और जिनमें इस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उनमें प्रसन्नता की क्षमता उत्पन्न हुई थी, पर उनमें समभाव की क्षमता उत्पन्न नहीं होगी। बाकी सबमें प्रसन्नता की क्षमता भी उत्पन्न हुई थी और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-12 L184 ^6-10-418
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati asaññasattānaṃ tesaṃ tattha jīvitindriyaṃ uppajjittha, no ca tesaṃ tattha somanassindriyaṃ uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha jīvitindriyañca uppajjittha somanassindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में, जिनमें इस मन के ठीक बाद समभाव से जुड़ा अंतिम मन उत्पन्न होगा, उनमें और पहचान-रहित प्राणियों में वहाँ जीवन-क्षमता उत्पन्न हुई थी, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न नहीं होगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ जीवन-क्षमता भी उत्पन्न हुई थी और प्रसन्नता की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('upekkhā_s', 1, 0)]
+== 10-12 L188 ^6-10-418
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati asaññasattānaṃ tesaṃ tattha jīvitindriyaṃ uppajjittha, no ca tesaṃ tattha upekkhindriyaṃ uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha jīvitindriyañca uppajjittha upekkhindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में, जिनमें इस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उनमें और पहचान-रहित प्राणियों में वहाँ जीवन-क्षमता उत्पन्न हुई थी, पर उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ जीवन-क्षमता भी उत्पन्न हुई थी और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-12 L196 ^6-10-419
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ tattha somanassindriyaṃ uppajjittha, no ca tesaṃ tattha upekkhindriyaṃ uppajjissati. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha somanassindriyañca uppajjittha upekkhindriyañca uppajjissati.
+ H: अंतिम मन से युक्त लोगों में और जिनमें इस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न हुई थी, पर उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ प्रसन्नता की क्षमता भी उत्पन्न हुई थी और समभाव की क्षमता भी उत्पन्न होगी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-12 L226 ^6-10-424
+ P: Yassa ghānindriyaṃ…pe… itthindriyaṃ… purisindriyaṃ… jīvitindriyaṃ… somanassindriyaṃ… upekkhindriyaṃ… saddhindriyaṃ… paññindriyaṃ na uppajjittha tassa manindriyaṃ na uppajjissatīti? Natthi.
+ H: जिस व्यक्ति में नाक की क्षमता… स्त्रीत्व की क्षमता… पुरुषत्व की क्षमता… जीवन-क्षमता… प्रसन्नता की क्षमता… समभाव की क्षमता… श्रद्धा की क्षमता… प्रज्ञा की क्षमता उत्पन्न नहीं हुई थी, क्या उसमें मन की क्षमता उत्पन्न नहीं होगी? ऐसा कोई नहीं है।
+   ! FEAT [('pe', 1, 7)]
+== 10-12 L322 ^6-10-431
+ P: Pacchimacittasamaṅgīnaṃ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ tattha upekkhindriyaṃ na uppajjissati, no ca tesaṃ tattha somanassindriyaṃ na uppajjittha. Asaññasattānaṃ tesaṃ tattha upekkhindriyañca na uppajjissati somanassindriyañca na uppajjittha.
+ H: अंतिम मन से युक्त लोगों में और जिनमें इस मन के ठीक बाद प्रसन्नता से जुड़ा अंतिम मन उत्पन्न होगा, उनमें वहाँ समभाव की क्षमता उत्पन्न नहीं होगी, पर उनमें वहाँ प्रसन्नता की क्षमता उत्पन्न हुई थी। पहचान-रहित प्राणियों में वहाँ समभाव की क्षमता भी उत्पन्न नहीं होगी और प्रसन्नता की क्षमता भी उत्पन्न नहीं हुई थी।
+   ! FEAT [('somanassa_s', 1, 0)]
+== 10-13 L55 ^6-10-441
+ P: Tayo maggasamaṅgino [tayo puggalā (pī.)] anaññātaññassāmītindriyaṃ na bhāventi, no ca aññindriyaṃ na bhāventi. Cattāro maggasamaṅgino [aṭṭhamakañca tayo maggasamaṅgino ca (pī.)] ṭhapetvā avasesā puggalā anaññātaññassāmītindriyañca na bhāventi aññindriyañca na bhāventi.
+ H: मार्ग से युक्त तीन व्यक्ति [पाठभेद (Pī.): tayo puggalā] “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करते, पर पूर्ण ज्ञान की क्षमता का अभ्यास करते हैं। मार्ग से युक्त चार व्यक्तियों [पाठभेद (Pī.): aṭṭhamakañca tayo maggasamaṅgino ca] को छोड़कर शेष व्यक्ति “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करते और पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करते।
+   ! FEAT [('tayo', 3, 1), ('aṭṭhamaka', 1, 0)]
+== 10-13 L130 ^6-10-451
+ P: Dve puggalā cakkhundriyaṃ parijānissanti, no ca domanassindriyaṃ pajahissanti. Pañca puggalā cakkhundriyañca parijānissanti domanassindriyañca pajahissanti.
+ H: दो व्यक्ति आँख की क्षमता को पूरी तरह समझेंगे, पर उदासी की क्षमता को नहीं छोड़ेंगे। पाँच व्यक्ति आँख की क्षमता को भी पूरी तरह समझेंगे और उदासी की क्षमता को भी छोड़ेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L133 ^6-10-451
+ P: Cha puggalā cakkhundriyaṃ parijānissanti, no ca anaññātaññassāmītindriyaṃ bhāvessanti. Ye puthujjanā maggaṃ paṭilabhissanti te cakkhundriyañca parijānissanti anaññātaññassāmītindriyañca bhāvessanti.
+ H: छह व्यक्ति आँख की क्षमता को पूरी तरह समझेंगे, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे आँख की क्षमता को भी पूरी तरह समझेंगे और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L141 ^6-10-452
+ P: Cattāro puggalā domanassindriyaṃ pajahissanti, no ca anaññātaññassāmītindriyaṃ bhāvessanti. Ye puthujjanā maggaṃ paṭilabhissanti te domanassindriyañca pajahissanti anaññātaññassāmītindriyañca bhāvessanti.
+ H: चार व्यक्ति उदासी की क्षमता को छोड़ेंगे, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे उदासी की क्षमता को भी छोड़ेंगे और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L145 ^6-10-452
+ P: Dve puggalā aññindriyaṃ bhāvessanti no ca domanassindriyaṃ pajahissanti, pañca puggalā aññindriyañca bhavissanti domanassindriyañca pajahissanti.
+ H: दो व्यक्ति पूर्ण ज्ञान की क्षमता का अभ्यास करेंगे, पर उदासी की क्षमता को नहीं छोड़ेंगे। पाँच व्यक्ति पूर्ण ज्ञान की क्षमता का भी अभ्यास करेंगे और उदासी की क्षमता को भी छोड़ेंगे।
+   ! VERB P=[('BH', 'F', False), ('PH', 'F', True), ('PH', 'F', False)] H=[('BH', 'F', False), ('PH', 'F', True), ('BH', 'F', False), ('PH', 'F', False)]
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L148 ^6-10-452
+ P: Tayo puggalā aññātāvindriyaṃ sacchikarissanti, no ca domanassindriyaṃ pajahissanti. Pañca puggalā aññātāvindriyañca sacchikarissanti domanassindriyañca pajahissanti. (Domanassindriyamūlakaṃ) ^6-10-452
+ H: तीन व्यक्ति पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे, पर उदासी की क्षमता को नहीं छोड़ेंगे। पाँच व्यक्ति पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार करेंगे और उदासी की क्षमता को भी छोड़ेंगे। (उदासी की क्षमता पर आधारित) ^6-10-452
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L151 ^6-10-453
+ P: Cha puggalā aññindriyaṃ bhāvessanti, no ca anaññātaññassāmītindriyaṃ bhāvessanti. Ye puthujjanā maggaṃ paṭilabhissanti te aññindriyañca bhāvessanti anaññātaññassāmītindriyañca bhāvessanti.
+ H: छह व्यक्ति पूर्ण ज्ञान की क्षमता का अभ्यास करेंगे, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे पूर्ण ज्ञान की क्षमता का भी अभ्यास करेंगे और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L154 ^6-10-453
+ P: Satta puggalā aññātāvindriyaṃ sacchikarissanti, no ca anaññātaññassāmītindriyaṃ bhāvessanti. Ye puthujjanā maggaṃ paṭilabhissanti te aññātāvindriyañca sacchikarissanti anaññātaññassāmītindriyañca bhāvessanti. (Anaññātaññassāmītindriyamūlakaṃ) ^6-10-453
+ H: सात व्यक्ति पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार करेंगे और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास करेंगे। (“जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता पर आधारित) ^6-10-453
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L162 ^6-10-455
+ P: (Ka) yo cakkhundriyaṃ na parijānissati so anaññātaññassāmītindriyaṃ na bhāvessatīti. Āmantā.
+ H: (क) जो व्यक्ति आँख की क्षमता को पूरी तरह नहीं समझेगा, क्या वह “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेगा? हाँ।
+   ! QCOUNT 0/1
+== 10-13 L163 ^6-10-455
+ P: (Kha) yo vā pana anaññātaññassāmītindriyaṃ na bhāvessati so cakkhundriyaṃ na parijānissatīti.
+ H: (ख) और जो व्यक्ति “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेगा, क्या वह आँख की क्षमता को पूरी तरह नहीं समझेगा?
+   ! END p=. h=?
+   ! QCOUNT 0/1
+== 10-13 L172 ^6-10-456
+ P: Cattāro puggalā anaññātaññassāmītindriyaṃ na bhāvessanti, no ca domanassindriyaṃ nappajahissanti. Pañca puggalā anaññātaññassāmītindriyañca na bhāvessanti domanassindriyañca nappajahissanti.
+ H: चार व्यक्ति “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करेंगे, पर उदासी की क्षमता को छोड़ेंगे। पाँच व्यक्ति “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करेंगे और उदासी की क्षमता को भी नहीं छोड़ेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L244 ^6-10-465
+ P: Arahā anaññātaññassāmītindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Aṭṭha [satta (sī. syā. ka.)] puggalā anaññātaññassāmītindriyañca na bhāventi aññātāvindriyañca na sacchikarittha.
+ H: अर्हत् “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं करता, पर उसने पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार किया था। आठ [पाठभेद (Sī., Syā., Ka.): satta] व्यक्ति “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करते और उन्होंने पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं किया था।
+   ! FEAT [('satta', 1, 0), ('aṭṭha', 1, 0)]
+== 10-13 L248 ^6-10-466
+ P: Arahā aññindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Cha [pañca (sī. syā. ka.)] puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarittha.
+ H: अर्हत् पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करता, पर उसने पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार किया था। छह [पाठभेद (Sī., Syā., Ka.): pañca] व्यक्ति पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करते और उन्होंने पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं किया था।
+   ! FEAT [('pañca', 1, 0)]
+== 10-13 L250 ^6-10-466
+ P: Tayo maggasamaṅgino aññātāvindriyaṃ na sacchikarittha, no ca aññindriyaṃ na bhāventi. Cha [pañca (sī. syā. ka.)] puggalā aññātāvindriyañca na sacchikarittha aññindriyañca na bhāventi. (Aññindriyamūlakaṃ) ^6-10-466
+ H: मार्ग से युक्त तीन व्यक्तियों ने पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं किया था, पर वे पूर्ण ज्ञान की क्षमता का अभ्यास करते हैं। छह [पाठभेद (Sī., Syā., Ka.): pañca] व्यक्तियों ने पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं किया था और वे पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करते। (पूर्ण ज्ञान की क्षमता पर आधारित) ^6-10-466
+   ! FEAT [('pañca', 1, 0)]
+== 10-13 L278 ^6-10-470
+ P: Pañca puggalā aññātāvindriyaṃ sacchikarissanti, no ca aññindriyaṃ bhāventi. Tayo maggasamaṅgino aññātāvindriyañca sacchikarissanti aññindriyañca bhāventi. (Aññindriyamūlakaṃ) ^6-10-470
+ H: पाँच व्यक्ति पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे, पर पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करते। मार्ग से युक्त तीन व्यक्ति पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार करेंगे और पूर्ण ज्ञान की क्षमता का भी अभ्यास करते हैं। (पूर्ण ज्ञान की क्षमता पर आधारित) ^6-10-470
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L281 ^6-10-471
+ P: Pañca puggalā cakkhundriyaṃ na parijānanti, no ca domanassindriyaṃ nappajahissanti. Cattāro puggalā cakkhundriyañca na parijānanti domanassindriyañca nappajahissanti.
+ H: पाँच व्यक्ति आँख की क्षमता को पूरी तरह नहीं समझते, पर उदासी की क्षमता को छोड़ेंगे। चार व्यक्ति आँख की क्षमता को भी पूरी तरह नहीं समझते और उदासी की क्षमता को भी नहीं छोड़ेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L285 ^6-10-471
+ P: Ye puthujjanā maggaṃ paṭilabhissanti te cakkhundriyaṃ na parijānanti, no ca anaññātaññassāmītindriyaṃ na bhāvessanti. Aṭṭha puggalā cakkhundriyañca na parijānanti anaññātaññassāmītindriyañca na bhāvessanti.
+ H: जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे आँख की क्षमता को पूरी तरह नहीं समझते, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास करेंगे। आठ व्यक्ति आँख की क्षमता को भी पूरी तरह नहीं समझते और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L296 ^6-10-472
+ P: Ye puthujjanā maggaṃ paṭilabhissanti te domanassindriyaṃ nappajahanti, no ca anaññātaññassāmītindriyaṃ na bhāvessanti. Aṭṭha puggalā domanassindriyañca nappajahanti anaññātaññassāmītindriyañca na bhāvessanti.
+ H: जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, वे उदासी की क्षमता को नहीं छोड़ते, पर “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास करेंगे। आठ व्यक्ति उदासी की क्षमता को भी नहीं छोड़ते और “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L312 ^6-10-474
+ P: Pañca puggalā aññindriyaṃ na bhāventi, no ca aññātāvindriyaṃ na sacchikarissanti. Dve puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarissanti.
+ H: पाँच व्यक्ति पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करते, पर पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे। दो व्यक्ति पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करते और पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L335 ^6-10-477
+ P: Dve puggalā anaññātaññassāmītindriyaṃ bhāvittha, no ca aññindriyaṃ bhāvessanti. Pañca puggalā anaññātaññassāmītindriyañca bhāvittha aññindriyañca bhāvessanti.
+ H: दो व्यक्तियों ने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास किया था, पर वे पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करेंगे। पाँच व्यक्तियों ने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास किया था और वे पूर्ण ज्ञान की क्षमता का भी अभ्यास करेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L346 ^6-10-479
+ P: Pañca puggalā cakkhundriyaṃ na parijānittha, no ca domanassindriyaṃ nappajahissanti. Cattāro puggalā cakkhundriyañca na parijānittha domanassindriyañca nappajahissanti.
+ H: पाँच व्यक्तियों ने आँख की क्षमता को पूरी तरह नहीं समझा था, पर वे उदासी की क्षमता को छोड़ेंगे। चार व्यक्तियों ने आँख की क्षमता को भी पूरी तरह नहीं समझा था और वे उदासी की क्षमता को भी नहीं छोड़ेंगे।
+   ! FEAT [('pañcavok', 0, 1)]
+== 10-13 L350 ^6-10-479
+ P: Ye puthujjanā maggaṃ paṭilabhissanti te cakkhundriyaṃ na parijānittha, no ca anaññātaññassāmītindriyaṃ na bhāvessanti. Aṭṭha puggalā cakkhundriyañca na parijānittha anaññātaññassāmītindriyañca na bhāvessanti.
+ H: जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, उन्होंने आँख की क्षमता को पूरी तरह नहीं समझा था, पर वे “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास करेंगे। आठ व्यक्तियों ने आँख की क्षमता को भी पूरी तरह नहीं समझा था और वे “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L358 ^6-10-479
+ P: Aṭṭha puggalā cakkhundriyaṃ na parijānittha, no ca aññātāvindriyaṃ na sacchikarissanti. Ye puthujjanā maggaṃ na paṭilabhissanti te cakkhundriyañca na parijānittha aññātāvindriyañca na sacchikarissanti.
+ H: आठ व्यक्तियों ने आँख की क्षमता को पूरी तरह नहीं समझा था, पर वे पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने आँख की क्षमता को भी पूरी तरह नहीं समझा था और वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L360 ^6-10-479
+ P: Arahā aññātāvindriyaṃ na sacchikarissati, no ca cakkhundriyaṃ na parijānittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññātāvindriyañca na sacchikarissanti cakkhundriyañca na parijānittha. (Cakkhundriyamūlakaṃ) ^6-10-479
+ H: अर्हत् पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं करेगा, पर उसने आँख की क्षमता को पूरी तरह समझा था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे और उन्होंने आँख की क्षमता को भी पूरी तरह नहीं समझा था। (आँख की क्षमता पर आधारित) ^6-10-479
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L362 ^6-10-480
+ P: Ye puthujjanā maggaṃ paṭilabhissanti te domanassindriyaṃ nappajahittha, no ca anaññātaññassāmītindriyaṃ na bhāvessanti. Cha puggalā domanassindriyañca nappajahittha anaññātaññassāmītindriyañca na bhāvessanti.
+ H: जो साधारण व्यक्ति मार्ग प्राप्त करेंगे, उन्होंने उदासी की क्षमता को नहीं छोड़ा था, पर वे “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास करेंगे। छह व्यक्तियों ने उदासी की क्षमता को भी नहीं छोड़ा था और वे “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L366 ^6-10-480
+ P: Cha puggalā domanassindriyaṃ nappajahittha, no ca aññindriyaṃ na bhāvessanti. Ye puthujjanā maggaṃ na paṭilabhissanti te domanassindriyañca nappajahittha aññindriyañca na bhāvessanti.
+ H: छह व्यक्तियों ने उदासी की क्षमता को नहीं छोड़ा था, पर वे पूर्ण ज्ञान की क्षमता का अभ्यास करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने उदासी की क्षमता को भी नहीं छोड़ा था और वे पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L368 ^6-10-480
+ P: Dve puggalā aññindriyaṃ na bhāvessanti, no ca domanassindriyaṃ nappajahittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññindriyañca na bhāvessanti domanassindriyañca nappajahittha.
+ H: दो व्यक्ति पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करेंगे, पर उन्होंने उदासी की क्षमता को छोड़ा था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करेंगे और उन्होंने उदासी की क्षमता को भी नहीं छोड़ा था।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L369 ^6-10-480
+ P: (Ka) yo domanassindriyaṃ nappajjahittha so aññātāvindriyaṃ na sacchikarissatīti?
+ H: (क) जिस व्यक्ति ने उदासी की क्षमता को नहीं छोड़ा था, क्या वह पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं करेगा?
+   ! VERB P=[('SK', 'F', True)] H=[('PH', 'A', True), ('SK', 'F', True)]
+== 10-13 L370 ^6-10-480
+ P: Cha puggalā domanassindriyaṃ nappajahittha, no ca aññātāvindriyaṃ na sacchikarissanti. Ye puthujjanā maggaṃ na paṭilabhissanti te domanassindriyañca nappajahittha aññātāvindriyañca na sacchikarissanti.
+ H: छह व्यक्तियों ने उदासी की क्षमता को नहीं छोड़ा था, पर वे पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने उदासी की क्षमता को भी नहीं छोड़ा था और वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L372 ^6-10-480
+ P: Arahā aññātāvindriyaṃ na sacchikarissati, no ca domanassindriyaṃ nappajahittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññātāvindriyañca na sacchikarissanti domanassindriyañca nappajahittha. (Domanassindriyamūlakaṃ) ^6-10-480
+ H: अर्हत् पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं करेगा, पर उसने उदासी की क्षमता को छोड़ा था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे और उन्होंने उदासी की क्षमता को भी नहीं छोड़ा था। (उदासी की क्षमता पर आधारित) ^6-10-480
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L374 ^6-10-481
+ P: Dve puggalā anaññātaññassāmītindriyaṃ na bhāvittha, no ca aññindriyaṃ na bhāvessanti. Ye puthujjanā maggaṃ na paṭilabhissanti te anaññātaññassāmītindriyañca na bhāvittha aññindriyañca na bhāvessanti.
+ H: दो व्यक्तियों ने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं किया था, पर वे पूर्ण ज्ञान की क्षमता का अभ्यास करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं किया था और वे पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L376 ^6-10-481
+ P: Dve puggalā aññindriyaṃ na bhāvessanti, no ca anaññātaññassāmītindriyaṃ na bhāvittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññindriyañca na bhāvessanti anaññātaññassāmītindriyañca na bhāvittha.
+ H: दो व्यक्ति पूर्ण ज्ञान की क्षमता का अभ्यास नहीं करेंगे, पर उन्होंने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास किया था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं करेंगे और उन्होंने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं किया था।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L378 ^6-10-481
+ P: Dve puggalā anaññātaññassāmītindriyaṃ na bhāvittha, no ca aññātāvindriyaṃ na sacchikarissanti. Ye puthujjanā maggaṃ na paṭilabhissanti te anaññātaññassāmītindriyañca na bhāvittha aññātāvindriyañca na sacchikarissanti.
+ H: दो व्यक्तियों ने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास नहीं किया था, पर वे पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं किया था और वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L380 ^6-10-481
+ P: Arahā aññātāvindriyaṃ na sacchikarissati, no ca anaññātaññassāmītindriyaṃ na bhāvittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññātāvindriyañca na sacchikarissanti anaññātaññassāmītindriyañca na bhāvittha. (Anaññātaññassāmītindriyamūlakaṃ) ^6-10-481
+ H: अर्हत् पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं करेगा, पर उसने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का अभ्यास किया था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे और उन्होंने “जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता का भी अभ्यास नहीं किया था। (“जो अब तक नहीं जाना उसे मैं जान लूँगा” की क्षमता पर आधारित) ^6-10-481
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L382 ^6-10-482
+ P: Aṭṭha puggalā aññindriyaṃ na bhāvittha, no ca aññātāvindriyaṃ na sacchikarissanti. Ye puthujjanā maggaṃ na paṭilabhissanti te aññindriyañca na bhāvittha aññātāvindriyañca na sacchikarissanti.
+ H: आठ व्यक्तियों ने पूर्ण ज्ञान की क्षमता का अभ्यास नहीं किया था, पर वे पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार करेंगे। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, उन्होंने पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं किया था और वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे।
+   ! FEAT [('puthujjana', 1, 0)]
+== 10-13 L384 ^6-10-482
+ P: Arahā aññātāvindriyaṃ na sacchikarissati, no ca aññindriyaṃ na bhāvittha. Ye puthujjanā maggaṃ na paṭilabhissanti te aññātāvindriyañca na sacchikarissanti aññindriyañca na bhāvittha. (Aññindriyamūlakaṃ).
+ H: अर्हत् पूर्ण ज्ञान पा चुके की क्षमता का साक्षात्कार नहीं करेगा, पर उसने पूर्ण ज्ञान की क्षमता का अभ्यास किया था। जो साधारण व्यक्ति मार्ग प्राप्त नहीं करेंगे, वे पूर्ण ज्ञान पा चुके की क्षमता का भी साक्षात्कार नहीं करेंगे और उन्होंने पूर्ण ज्ञान की क्षमता का भी अभ्यास नहीं किया था। (पूर्ण ज्ञान की क्षमता पर आधारित)।
+   ! FEAT [('puthujjana', 1, 0)]

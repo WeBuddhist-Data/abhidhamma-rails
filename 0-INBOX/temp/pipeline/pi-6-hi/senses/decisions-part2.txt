@@ -1,0 +1,377 @@
+# pi-6 Hindi senses, part 2 (agg-part2.tsv, 376 headwords). Conventions: senses-conventions-pi6.md
+cakkhuṃ: {the eye, the seeing organ, the bare word in the word-checking pairs (accusative sg.)}
+manaṃ: {the mind, the thinking faculty, the bare word in the word-checking pairs (accusative sg.)}
+manañca: {and the mind, the bare word in the word-checking pairs, with enclitic -ñca (accusative sg.)}
+gandhaṃ: {smell, odour as object, the bare word in the word-checking pairs (accusative sg.)}
+nāyatananti: {not a sense base, with fused negative na, with quotative -ti (nominative sg.)}
+āyatanañca: {and sense base, the bare word in the word-checking pairs, with enclitic -ñca (accusative sg.)}
+saddaṃ: {sound as object, what is heard, the bare word in the word-checking pairs (accusative sg.)}
+rasaṃ: {taste, flavour as object, the bare word in the word-checking pairs (accusative sg.)}
+jivhaṃ: {the tongue, the tasting organ, the bare word in the word-checking pairs (accusative sg.)}
+phoṭṭhabbaṃ: {tangible object, what is touched, the bare word in the word-checking pairs (accusative sg.)}
+asotakānaṃ: {beings without the ear, lacking the organ of hearing (genitive pl.)}
+sasotakānaṃ: {beings having the ear, possessing the organ of hearing (genitive pl.)}
+cakkhāyatanamūlakaṃ: {based on the eye sense base, label closing a cycle (neuter sg.)}
+sacakkhukānaṃ: {beings having the eye, possessing the organ of sight (genitive pl.)}
+acakkhukānaṃ: {beings without the eye, lacking the organ of sight (genitive pl.)}
+ghānāyatanañca: {and the nose sense base, with enclitic -ñca (nominative sg.)}
+ghānāyatanamūlakaṃ: {based on the nose sense base, label closing a cycle (neuter sg.)}
+rūpāyatanamūlakaṃ: {based on the visible-form sense base, label closing a cycle (neuter sg.)}
+manāyatanamūlakaṃ: {based on the mind sense base, label closing a cycle (neuter sg.)}
+rūpāvacare: {the fine-material realm, as a place (locative)}
+kāmāvacare: {the sense-sphere realm, as a place (locative)}
+arūpāvacare: {the immaterial realm, as a place (locative)}
+vārasaṅkhepo: {the sections in abridged form, abridgement of the later sections (nominative sg.)}
+catuvokāre: {four-aggregate existence, as a place, in 'four- or five-aggregate existence' (locative)}
+yassakasadisaṃ: {like the part on persons, treated the same as the person part (neuter sg.)}
+paccuppannepi: {the present, the present-tense round, with enclitic -pi 'also' (locative)}
+paccuppannānāgatepi: {the present and the future, the combined tense round, with enclitic -pi 'also' (locative)}
+atītepi: {the past, the past-tense round, with enclitic -pi 'also' (locative)}
+paccuppannātītepi: {the present and the past, the combined tense round, with enclitic -pi 'also' (locative)}
+atītānāgatepi: {the past and the future, the combined tense round, with enclitic -pi 'also' (locative)}
+rūpāvacarānaṃ: {beings of the fine-material realm (genitive pl.)}
+kāmāvacarānaṃ: {beings of the sense-sphere realm (genitive pl.)}
+arūpāvacarānaṃ: {beings of the immaterial realm, those belonging to the immaterial sphere (genitive pl.)}
+uppajjittharūpāyatanañca: {had arisen, run together in the text with rūpāyatanañca 'and the visible-form sense base' (3rd sg. aorist)}
+rūpāvacaraṃ: {the fine-material realm, as a place of rebirth (accusative sg.)}
+arūpāvacaraṃ: {the immaterial realm, as a place of rebirth (accusative sg.)}
+kāmāvacaraṃ: {the sense-sphere realm, as a place of rebirth (accusative sg.)}
+kāmāvacarā: {the sense-sphere realm, as the place one passes away from (ablative)}
+arūpakānaṃ: {beings without material form (genitive pl.)}
+rūpāvacarā: {the fine-material realm, as the place one passes away from (ablative)}
+uppādepi: {arising, the round on arising, with enclitic -pi 'also' (locative)}
+nirodhepi: {ceasing, the round on ceasing, with enclitic -pi 'also' (locative)}
+uppādanirodhepi: {arising and ceasing, the combined round, with enclitic -pi 'also' (locative)}
+yassa yattha: {for whichever person and in whichever place, the person-and-place question (relative pronoun and adverb)}
+yassa yatthakampi: {the part on person and place, written as two words, with enclitic -pi 'also' (nominative sg.)}
+nirujjhatī: {ceases, comes to an end, spelled with long ī before a detached ti (3rd sg. present)}
+nirodhavārepi: {the section on ceasing, with enclitic -pi 'also' (locative)}
+uppādanirodhavārepi: {the section on arising and ceasing, with enclitic -pi 'also' (locative)}
+paccanīkampi: {the negative part, with enclitic -pi 'also' (nominative sg.)}
+anulomampi: {the positive part, with enclitic -pi 'also' (nominative sg.)}
+pucchā: {question, the questions of a section (nominative)}
+uppādavārepi: {the section on arising, with enclitic -pi 'also' (locative)}
+yassa yatthake: {the part on person and place, written as two words (locative)}
+parinibbāntānaṃ: {those attaining final nibbāna, variant spelling of parinibbantānaṃ (genitive pl. present participle)}
+manāyatana: {the mind sense base (stem)}
+yatthakānaṃ: {the parts on place, the place-based questions (genitive pl.)}
+vāresu: {sections, the divisions of a chapter (locative pl.)}
+yassayatthakampi: {the part on person and place, with enclitic -pi 'also' (nominative sg.)}
+yassakampi: {the part on persons, with enclitic -pi 'also' (nominative sg.)}
+upapajjissati: {will arise, will come into being, variant spelling of uppajjissati (3rd sg. future)}
+nirodhavāre: {the section on ceasing (locative)}
+yatthakampi: {the part on place, with enclitic -pi 'also' (nominative sg.)}
+dhātuyamakaṃ: {the Pairs on Elements, title of chapter 4 (heading)}
+kāyadhātu: {the body element (nominative sg.)}
+kāyaviññāṇadhātu: {the body-consciousness element (nominative sg.)}
+sotadhātu: {the ear element (nominative sg.)}
+sotaviññāṇadhātu: {the ear-consciousness element (nominative sg.)}
+dhātuyo: {elements, constituents, the eighteen as a list (nominative pl.)}
+jivhādhātu: {the tongue element (nominative sg.)}
+saddadhātu: {the sound element (nominative sg.)}
+phoṭṭhabbadhātu: {the tangible element, element of the touchable (nominative sg.)}
+cakkhudhātu: {the eye element (nominative sg.)}
+cakkhuviññāṇadhātu: {the eye-consciousness element (nominative sg.)}
+dhammadhātu: {the element of mind-objects (nominative sg.)}
+manodhātu: {the mind element (nominative sg.)}
+manoviññāṇadhātu: {the element of mind-consciousness (nominative sg.)}
+ghānadhātu: {the nose element (nominative sg.)}
+ghānaviññāṇadhātu: {the nose-consciousness element (nominative sg.)}
+gandhadhātu: {the smell element (nominative sg.)}
+rasadhātu: {the taste element (nominative sg.)}
+jivhāviññāṇadhātu: {the tongue-consciousness element (nominative sg.)}
+rūpadhātu: {the visible-form element, the object of the eye (nominative sg.)}
+cakkhuviññāṇaṃ: {consciousness through the eye, eye-consciousness (nominative sg.)}
+manoviññāṇaṃ: {consciousness at the mind door, mind-consciousness (nominative sg.)}
+dhātū: {elements, the bare word in the word-checking pairs (nominative pl.)}
+āyatanayamake: {the Pairs on Sense Bases, title of chapter 3 (locative)}
+suddhadhātuvāro: {the section on the elements alone (heading)}
+suddhadhātumūlacakkavāro: {the section on the cycle based on the elements alone (heading)}
+kāyaviññāṇaṃ: {consciousness through the body, body-consciousness (nominative sg.)}
+sotaviññāṇaṃ: {consciousness through the ear, ear-consciousness (nominative sg.)}
+dhātu: {element, the bare word in the word-checking pairs (nominative sg.)}
+ghānaviññāṇaṃ: {consciousness through the nose, nose-consciousness (nominative sg.)}
+jivhāviññāṇaṃ: {consciousness through the tongue, tongue-consciousness (nominative sg.)}
+kāyadhātūti: {the body element, with quotative -ti (nominative sg.)}
+kāyadhātuṃ: {the body element (accusative sg.)}
+sotadhātūti: {the ear element, with quotative -ti (nominative sg.)}
+cakkhudhātūti: {the eye element, with quotative -ti (nominative sg.)}
+cakkhuviññāṇanti: {consciousness through the eye, eye-consciousness, with quotative -ti (nominative sg.)}
+cakkhuviññāṇadhātūti: {the eye-consciousness element, with quotative -ti (nominative sg.)}
+dhammadhātūti: {the element of mind-objects, with quotative -ti (nominative sg.)}
+dhammadhātuṃ: {the element of mind-objects (accusative sg.)}
+manodhātūti: {the mind element, with quotative -ti (nominative sg.)}
+manodhātuṃ: {the mind element (accusative sg.)}
+manoviññāṇanti: {consciousness at the mind door, mind-consciousness, with quotative -ti (nominative sg.)}
+manoviññāṇadhātūti: {the element of mind-consciousness, with quotative -ti (nominative sg.)}
+ghānasadiso: {like the nose, treated the same as the nose passage (nominative sg.)}
+ghānadhātūti: {the nose element, with quotative -ti (nominative sg.)}
+ghānadhātusadisā: {like the nose element, treated the same as the nose-element passage (nominative pl.)}
+gandhadhātūti: {the smell element, with quotative -ti (nominative sg.)}
+rasadhātūti: {the taste element, with quotative -ti (nominative sg.)}
+jivhāpi: {the tongue, the bare word in the word-checking pairs, with enclitic -pi 'also' (nominative sg.)}
+rūpadhātūti: {the visible-form element, the object of the eye, with quotative -ti (nominative sg.)}
+rūpadhātuṃ: {the fine-material realm, as a place (accusative sg.): सूक्ष्म भौतिक लोक; the visible-form element, in the element pairs (accusative sg.): दृश्य रूप का तत्व}
+kāyadhātuñca: {and the body element, with enclitic -ñca (accusative sg.)}
+sotadhātuñca: {and the ear element, with enclitic -ñca (accusative sg.)}
+cakkhudhātuñca: {and the eye element, with enclitic -ñca (accusative sg.)}
+dhammadhātuñca: {and the element of mind-objects, with enclitic -ñca (accusative sg.)}
+manodhātuñca: {and the mind element, with enclitic -ñca (accusative sg.)}
+gandhadhātuñca: {and the smell element, with enclitic -ñca (accusative sg.)}
+rasadhātuñca: {and the taste element, with enclitic -ñca (accusative sg.)}
+rūpadhātuñca: {and the visible-form element, the object of the eye, with enclitic -ñca (accusative sg.)}
+dhātuyamakepi: {the Pairs on Elements, title of chapter 4, with enclitic -pi 'also' (locative)}
+paṇṇatti: {terminology, the terminology part of a chapter (nominative sg.)}
+dhātūti: {element, the bare word in the word-checking pairs, with quotative -ti (nominative sg.)}
+dhātuñca: {and element, the bare word in the word-checking pairs, with enclitic -ñca (accusative sg.)}
+jivha: {the tongue, the bare word in the word-checking pairs, short spelling (accusative sg.)}
+dhātuyamakassa: {the Pairs on Elements, title of chapter 4 (genitive sg.)}
+āyatanayamakassa: {the Pairs on Sense Bases, title of chapter 3 (genitive sg.)}
+dhātuyamakampi: {the Pairs on Elements, title of chapter 4, with enclitic -pi 'also' (nominative sg.)}
+sotadhātuṃ: {the ear element (accusative sg.)}
+cakkhudhātuṃ: {the eye element (accusative sg.)}
+saccayamakaṃ: {the Pairs on Truths, title of chapter 5 (heading)}
+samudayasaccaṃ: {the truth of the origin, the second noble truth (nominative sg.)}
+maggasaccaṃ: {the truth of the path, the fourth noble truth (nominative sg.)}
+nirodhasaccaṃ: {the truth of cessation, the third noble truth (nominative sg.)}
+dukkhasaccaṃ: {the noble truth of suffering, the first truth (nominative sg.)}
+saccāni: {truths, the four noble truths as a list (nominative pl.)}
+nirodho: {cessation, ending, the bare word in the word-checking pairs (nominative sg.)}
+samudayo: {arising, origin, the bare word in the word-checking pairs (nominative sg.)}
+maggo: {the path, the bare word in the word-checking pairs (nominative sg.)}
+dukkhaṃ: {suffering, pain, the bare word in the word-checking pairs (nominative sg.)}
+saccā: {truths, the bare word in the word-checking pairs (nominative pl.)}
+suddhasaccavāro: {the section on the truths alone (heading)}
+suddhasaccamūlacakkavāro: {the section on the cycle based on the truths alone (heading)}
+saccaṃ: {truth, the bare word in the word-checking pairs (nominative sg.)}
+paṇṇattivāra: {the section on terminology (heading member)}
+kāyikaṃ dukkhaṃ: {bodily pain, physical suffering (neuter sg.)}
+nirodhoti: {cessation, ending, the bare word, with quotative -ti (nominative sg.)}
+cetasikaṃ dukkhaṃ: {mental pain, pain of the mind (neuter sg.)}
+samudayasaccanti: {the truth of the origin, with quotative -ti (nominative sg.)}
+samudayasaccañca: {and the truth of the origin, with enclitic -ñca (nominative sg.)}
+samudayoti: {arising, origin, the bare word, with quotative -ti (nominative sg.)}
+maggasaccanti: {the truth of the path, with quotative -ti (nominative sg.)}
+maggasaccañca: {and the truth of the path, with enclitic -ñca (nominative sg.)}
+maggoti: {the path, the bare word, with quotative -ti (nominative sg.)}
+avasesaṃ: {the remaining, the rest (neuter sg.)}
+dukkhanti: {suffering, pain, the bare word, with quotative -ti (nominative sg.)}
+dukkhañceva: {suffering, pain, the bare word, with enclitic -ñceva 'both' (nominative sg.)}
+nirodhasaccanti: {the truth of cessation, with quotative -ti (nominative sg.)}
+nirodhasaccañca: {and the truth of cessation, with enclitic -ñca (nominative sg.)}
+dukkhasaccanti: {the noble truth of suffering, with quotative -ti (nominative sg.)}
+dukkhasaccañca: {and the noble truth of suffering, with enclitic -ñca (nominative sg.)}
+nirodhañca: {and cessation, the bare word, with enclitic -ñca (accusative sg.)}
+samudayañca: {and arising, origin, the bare word, with enclitic -ñca (accusative sg.)}
+maggañca: {and the path, the bare word, with enclitic -ñca (accusative sg.)}
+dukkhañca: {and suffering, pain, the bare word, with enclitic -ñca (accusative sg.)}
+saccañceva: {truth, the bare word, with enclitic -ñceva 'both' (nominative sg.)}
+saccanti: {truth, the bare word, with quotative -ti (nominative sg.)}
+nirodhaṃ: {cessation, ending, the bare word (accusative sg.)}
+samudayaṃ: {arising, origin, the bare word (accusative sg.)}
+maggaṃ: {the path, as a set of factors, also the bare word in the pairs (accusative sg.)}
+saccañca: {and truth, the bare word, with enclitic -ñca (accusative sg.)}
+taṇhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from craving (locative)}
+maggavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the path (locative)}
+taṇhāya uppādakkhaṇe: {at the moment of arising of craving (locative)}
+pavatte: {during life, in the course of existence between birth and death (locative)}
+maggassa: {of the path (genitive sg.)}
+apāye: {the states of misery, as a place (locative)}
+avasese: {the remaining, the rest, before a place (locative)}
+cittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind (locative)}
+phalassa: {of the fruit, the fruition that follows a path (genitive sg.)}
+taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from craving and from the path (locative)}
+nirodhasamāpannānaṃ: {those absorbed in the attainment of cessation (genitive pl. past participle)}
+maggavippayuttataṇhāvippayuttacittassa: {of a mind dissociated from the path and from craving (genitive sg.)}
+maggavippayuttataṇhāvippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from the path and from craving (locative)}
+anabhisametāvīnaṃ: {those who have not fully realized the truths (genitive pl.)}
+abhisametāvīnaṃ: {those who have fully realized the truths (genitive pl.)}
+yatthakasadisaṃ: {like the part on place, treated the same as the place part (neuter sg.)}
+citte: {mind, in 'while a mind is occurring' (locative)}
+vattamāne: {occurring, going on, in 'while a mind is occurring' (locative present participle)}
+akusale citte: {in an unwholesome mind, while an unwholesome mind occurs (locative)}
+aggamaggaṃ paṭilabhissanti: {they will attain the highest path (3rd pl. future)}
+cittassa: {of the mind (genitive sg.)}
+aggamaggasamaṅgīnaṃ: {those endowed with the highest path (genitive pl.)}
+anantarā: {immediately after, with nothing in between (adverb)}
+caññe: {and others, the other persons, ca + aññe (nominative pl.)}
+arahantānaṃ: {arahants, worthy ones who have completed the path (genitive pl.)}
+āpāyikānaṃ: {beings of the states of misery (genitive pl.)}
+pacchimacittasamaṅgīnaṃ: {those endowed with the final mind, at the last mind before death (genitive pl.)}
+cittassa uppādakkhaṇe: {at the moment of arising of a mind (locative)}
+taṇhāvippayuttacitte: {in a mind dissociated from craving (locative)}
+taṇhāya bhaṅgakkhaṇe: {at the moment of dissolution of craving (locative)}
+yatthakā: {the parts on place (nominative pl.)}
+upapatticittassa uppādakkhaṇe: {at the moment of arising of the rebirth mind (locative)}
+upapatticittassa bhaṅgakkhaṇe: {at the moment of dissolution of the rebirth mind (locative)}
+aggamaggassa: {of the highest path (genitive sg.)}
+yassayatthakasadisaṃ: {like the part on person and place, treated the same (neuter sg.)}
+aggamaggaṃ paṭilabhissānti: {they will attain the highest path, variant spelling of paṭilabhissanti (3rd pl. future)}
+asaññattā: {the realm of non-percipient beings, as a place, variant spelling of asaññasattā (ablative)}
+taṇhāvippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from craving (locative)}
+maggavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the path (locative)}
+taṇhāvippayuttamaggavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from craving and from the path (locative)}
+maggavippayuttataṇhāvippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from the path and from craving (locative)}
+nirodhasamāpannānanti: {those absorbed in the attainment of cessation, with quotative -ti (genitive pl. past participle)}
+yassayatthakepi: {the part on person and place, with enclitic -pi 'also' (locative)}
+uppādakkhaṇe: {at the moment of arising, the first phase of a mind-moment (locative)}
+bhaṅgakkhaṇe: {at the moment of dissolution, the last phase of a mind-moment (locative)}
+pacchimacittassa: {of the final mind, the last mind before death (genitive sg.)}
+nirujjhiti: {ceases, comes to an end, variant spelling of nirujjhati (3rd sg. present)}
+aggaphalassa: {of the highest fruit, the fruition of arahantship (genitive sg.)}
+pajahatīti: {abandons, gives up, with quotative -ti (3rd sg. present)}
+pajahati: {abandons, gives up (3rd sg. present)}
+nappajahatīti: {does not abandon, with fused negative na, with quotative -ti (3rd sg. present)}
+pajahitthāti: {abandoned, had given up, with quotative -ti (3rd sg. aorist)}
+nappajahitthāti: {did not abandon, with fused negative na, with quotative -ti (3rd sg. aorist)}
+pajahissatīti: {will abandon, will give up, with quotative -ti (3rd sg. future)}
+nappajahissatīti: {will not abandon, with fused negative na, with quotative -ti (3rd sg. future)}
+pajahittha: {abandoned, had given up (3rd sg. aorist)}
+nappajahittha: {did not abandon, with fused negative na (3rd sg. aorist)}
+pajahissati: {will abandon, will give up (3rd sg. future)}
+nappajahissanti: {they will not abandon, with fused negative na (3rd pl. future)}
+nappajahissati: {will not abandon, with fused negative na (3rd sg. future)}
+saṅkhārayamakaṃ: {the Pairs on Formations, title of chapter 6 (heading)}
+kāyasaṅkhāro: {the bodily formation, in-and-out breathing (nominative sg.)}
+cittasampayuttakā: {associated with the mind, conjoined with consciousness (nominative pl.)}
+cittasaṅkhāroti: {the mental formation, perception and feeling, with quotative -ti (nominative sg.)}
+cittasaṅkhāro: {the mental formation, perception and feeling (nominative sg.)}
+assāsapassāsā: {in-breathing and out-breathing (nominative pl.)}
+vitakkavicārā: {initial and sustained thought, thought and examination (nominative pl.)}
+vitakkavicāre: {initial and sustained thought, thought and examination (accusative pl.)}
+vacīsaṅkhāro: {the verbal formation, thought that precedes speech (nominative sg.)}
+cittaṃ: {mind, a state or type of mind, also the bare word in the word-checking pairs (nominative/accusative sg.)}
+vacī: {speech, the bare word in the word-checking pairs (nominative sg.)}
+suddhasaṅkhāravāro: {the section on the formations alone (heading)}
+kāyasaṅkhāroti: {the bodily formation, in-and-out breathing, with quotative -ti (nominative sg.)}
+cittanti: {mind, a state or type of mind, with quotative -ti (nominative sg.)}
+vacīti: {speech, the bare word, with quotative -ti (nominative sg.)}
+vacīsaṅkhāroti: {the verbal formation, thought that precedes speech, with quotative -ti (nominative sg.)}
+kāyasaṅkhārañca: {and the bodily formation, with enclitic -ñca (accusative sg.)}
+cittañca: {and the mind, with enclitic -ñca (accusative sg.)}
+cittasaṅkhārañca: {and the mental formation, with enclitic -ñca (accusative sg.)}
+vaciñca: {and speech, the bare word, with enclitic -ñca (accusative sg.)}
+vacīsaṅkhārañca: {and the verbal formation, with enclitic -ñca (accusative sg.)}
+saṅkhāro: {formation, the bare word in the word-checking pairs (nominative sg.)}
+paccanīkaokāsā: {the negative part, by place (heading)}
+samāpannānaṃ: {those absorbed in a meditative attainment, who have entered a jhāna (genitive pl. past participle)}
+assāsapassāsānaṃ: {in-breathing and out-breathing (genitive pl.)}
+assāsapassāsehi: {in-breathing and out-breathing, in 'without in-and-out breathing' (instrumental pl.)}
+vitakkavicārehi: {initial and sustained thought, in 'without thought and examination' (instrumental pl.)}
+vitakkavicārānaṃ: {of thought and examination, applied and sustained thought (genitive pl.)}
+catutthajjhāne: {the fourth jhāna, the fourth stage of meditative absorption, as a state (locative)}
+avitakkaavicāracittassa uppādakkhaṇe: {at the moment of arising of a mind without initial and sustained thought (locative)}
+yassayatthake: {the part on person and place (locative)}
+paccuppannavārādi: {the section on the present and the rest (heading)}
+catutthajjhānaṃ: {the fourth jhāna, the fourth stage of meditative absorption (accusative sg.)}
+pacchimacittaṃ: {the final mind, the last mind before death (nominative sg.)}
+avitakkaavicāraṃ: {without initial and sustained thought, said of a mind (neuter sg.)}
+tesaṃyeva: {of those very ones, with emphatic -yeva (genitive pl.)}
+savitakkasavicārapacchimacittassa uppādakkhaṇe: {at the moment of arising of a final mind with initial and sustained thought (locative)}
+savitakkasavicārapacchimacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a final mind with initial and sustained thought (locative)}
+avitakkaavicārapacchimacittasamaṅgīnaṃ: {those endowed with a final mind without initial and sustained thought (genitive pl.)}
+savitakkasavicārabhūmiyaṃ: {the plane with initial and sustained thought (locative)}
+avitakkaavicārabhūmiyaṃ: {the plane without initial and sustained thought (locative)}
+avitakkaavicāracittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind without initial and sustained thought (locative)}
+avitakkaavicārapacchimacittassa: {of a final mind without initial and sustained thought (genitive sg.)}
+savitakkasavicārapacchimacittassa: {of a final mind with initial and sustained thought (genitive sg.)}
+pacchimacittassa bhaṅgakkhaṇe: {at the moment of dissolution of the final mind (locative)}
+avitakkaavicārapacchimacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a final mind without initial and sustained thought (locative)}
+uppādavāranirodhavārepi: {the section on arising and ceasing, spelled as two section names, with enclitic -pi 'also' (locative)}
+nirodhavārena: {the section on ceasing (instrumental)}
+khandhayamake: {the Pairs on Aggregates, title of chapter 2 (locative)}
+kāyasaṅkhāraṃ: {the bodily formation, in-and-out breathing (accusative sg.)}
+saṅkhārayamakepi: {the Pairs on Formations, title of chapter 6, with enclitic -pi 'also' (locative)}
+pariññāvāraṃ: {the section on full understanding (accusative sg.)}
+vacīsaṅkhāraṃ: {the verbal formation, thought that precedes speech (accusative sg.)}
+anusayayamakaṃ: {the Pairs on Underlying Tendencies, title of chapter 7 (heading)}
+bhavarāgānusayo: {the underlying tendency to lust for existence (nominative sg.)}
+kāmarāgānusayo: {the underlying tendency to sensual lust (nominative sg.)}
+sattānusayā: {the seven underlying tendencies, as a list (nominative pl.)}
+paṭighānusayo: {the underlying tendency to aversion, irritation (nominative sg.)}
+mānānusayo: {the underlying tendency to conceit (nominative sg.)}
+diṭṭhānusayo: {the underlying tendency to views (nominative sg.)}
+vicikicchānusayo: {the underlying tendency to doubt (nominative sg.)}
+avijjānusayo: {the underlying tendency to ignorance (nominative sg.)}
+uppattiṭṭhānavāro: {the section on the place of arising (heading)}
+rūpadhātuyā: {the fine-material realm, as a place where tendencies lie latent (locative)}
+arūpadhātuyā: {the immaterial realm, as a place where tendencies lie latent (locative)}
+dvīsu vedanāsu: {in two kinds of feeling, as a place where tendencies lie latent (locative pl.)}
+anuseti: {lies latent, underlies (3rd sg. present)}
+dukkhāya vedanāya: {painful feeling, as a place where tendencies lie latent (locative)}
+kāmadhātuyā: {the sense-sphere realm, as a place where tendencies lie latent (locative)}
+mahāvāro: {the great section (heading)}
+anusayavāro: {the section on underlying tendencies (heading)}
+puggalānaṃ: {of individuals, persons (genitive pl.)}
+anusetīti: {lies latent, underlies, with quotative -ti (3rd sg. present)}
+anāgāmissa: {of the non-returner, one at the third stage of awakening (genitive sg.)}
+puthujjanassa: {of a worldling, an unawakened individual (genitive sg.)}
+anusayavāra: {the section on underlying tendencies (heading member)}
+paṭilomapuggalo: {the reversed part, by person (heading)}
+paṭilomaokāso: {the reversed part, by place (heading)}
+paṭilomapuggalokāsā: {the reversed part, by person and place (heading)}
+sānusayavāro: {the section on having the underlying tendency (heading)}
+sānusayavāra: {the section on having the underlying tendency (heading member)}
+pajahanavāro: {the section on abandoning (heading)}
+pajahanavāra: {the section on abandoning (heading member)}
+anusenti: {they lie latent, underlie (3rd pl. present)}
+anusentīti: {they lie latent, underlie, with quotative -ti (3rd pl. present)}
+pariññāvāra: {the section on full understanding (heading member)}
+pahīnavāro: {the section on what has been abandoned (heading)}
+pahīnavāra: {the section on what has been abandoned (heading member)}
+uppajjanavāro: {the section on arising, in the chapter on tendencies (heading)}
+dhātupucchāvāro: {the section of questions about the realms (heading)}
+dhātuvisajjanāvāro: {the section of answers about the realms (heading)}
+tīsu vedanāsu: {in three kinds of feeling, as a place where tendencies lie latent (locative pl.)}
+kāmārāgānusayo: {the underlying tendency to sensual lust, variant spelling of kāmarāgānusayo (nominative sg.)}
+puggalassa: {of an individual, person (genitive sg.)}
+anusayavāre: {the section on underlying tendencies (locative)}
+nānuseti: {does not lie latent, with fused negative na (3rd sg. present)}
+nānusetīti: {does not lie latent, with fused negative na, with quotative -ti (3rd sg. present)}
+nānusenti: {they do not lie latent, with fused negative na (3rd pl. present)}
+nānusentīti: {they do not lie latent, with fused negative na, with quotative -ti (3rd pl. present)}
+paṭilomaṃ: {the reversed part, the questions in reverse order (nominative sg.)}
+bhavarāgānusayena: {the underlying tendency to lust for existence (instrumental)}
+anāgāmī: {the non-returner, one at the third stage of awakening (nominative sg.)}
+puthujjano: {a worldling, an unawakened individual (nominative sg.)}
+paṭighānusayena: {the underlying tendency to aversion, irritation (instrumental)}
+mānānusayena: {the underlying tendency to conceit (instrumental)}
+vicikicchānusayena: {the underlying tendency to doubt (instrumental)}
+avijjānusayena: {the underlying tendency to ignorance (instrumental)}
+kāmarāgānusayena: {the underlying tendency to sensual lust (instrumental)}
+diṭṭhānusayena: {the underlying tendency to views (instrumental)}
+sānusayo: {having the underlying tendency, subject to it (nominative sg.)}
+sānusayoti: {having the underlying tendency, with quotative -ti (nominative sg.)}
+sānusayā: {having the underlying tendency, subject to it (nominative pl.)}
+puggalo: {an individual, person (nominative sg.)}
+sānusayavāre: {the section on having the underlying tendency (locative)}
+niranusayo: {free of the underlying tendency, without it (nominative sg.)}
+niranusayoti: {free of the underlying tendency, with quotative -ti (nominative sg.)}
+niranusayā: {free of the underlying tendency, without it (nominative pl.)}
+bhavarāgānusayaṃ: {the underlying tendency to lust for existence (accusative sg.)}
+paṭighānusayaṃ: {the underlying tendency to aversion, irritation (accusative sg.)}
+mānānusayaṃ: {the underlying tendency to conceit (accusative sg.)}
+vicikicchānusayaṃ: {the underlying tendency to doubt (accusative sg.)}
+avijjānusayaṃ: {the underlying tendency to ignorance (accusative sg.)}
+kāmarāgānusayaṃ: {the underlying tendency to sensual lust (accusative sg.)}
+diṭṭhānusayaṃ: {the underlying tendency to views (accusative sg.)}
+kāmarāgānusayañca: {and the underlying tendency to sensual lust, with enclitic -ñca (accusative sg.)}
+paṭighānusayañca: {and the underlying tendency to aversion, with enclitic -ñca (accusative sg.)}
+mānānusayañca: {and the underlying tendency to conceit, with enclitic -ñca (accusative sg.)}
+diṭṭhānusayañca: {and the underlying tendency to views, with enclitic -ñca (accusative sg.)}
+vicikicchānusayañca: {and the underlying tendency to doubt, with enclitic -ñca (accusative sg.)}
+bhavarāgānusayañca: {and the underlying tendency to lust for existence, with enclitic -ñca (accusative sg.)}
+avijjānusayañca: {and the underlying tendency to ignorance, with enclitic -ñca (accusative sg.)}
+aṭṭhamako: {the eighth person, the one on the path of stream-entry (nominative sg.)}
+pajahanavāre: {the section on abandoning (locative)}
+nappajahati: {does not abandon, with fused negative na (3rd sg. present)}
+nappajahanti: {they do not abandon, with fused negative na (3rd pl. present)}
+aṭṭhamakañca: {and the eighth person, the one on the path of stream-entry, with enclitic -ñca (accusative sg.)}
+anāgāmimaggasamaṅgī: {one endowed with the path of non-returning (nominative sg.)}
+anāgāmimaggasamaṅgiñca: {and one endowed with the path of non-returning, with enclitic -ñca (accusative sg.)}
+maggasamaṅgīnaṃ: {those endowed with a path (genitive pl.)}
+maggasamaṅgīnañca: {and those endowed with a path, with enclitic -ñca (genitive pl.)}
+anāgāmimaggasamaṅgiṃ: {one endowed with the path of non-returning (accusative sg.)}
+aggamaggasamaṅgiṃ: {one endowed with the highest path (accusative sg.)}
+pajahanāvāre: {the section on abandoning, variant spelling of pajahanavāre (locative)}
+pariññāvāre: {the section on full understanding (locative)}

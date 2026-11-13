@@ -1,0 +1,80 @@
+﻿templates 762 lines 2948
+lines with Hindi items not in Pali: 186
+  EXTRA ('10-01-indriyayamaka.md', 556, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 606, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 659, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 663, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 667, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 671, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 675, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 679, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 683, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 687, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 691, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 695, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 699, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 703, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 707, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 711, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 715, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 719, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 723, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 727, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 731, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 735, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 739, {'paa'})
+  EXTRA ('10-01-indriyayamaka.md', 1082, {'aññ'})
+  EXTRA ('10-02-indriyayamaka.md', 273, {'aññ'})
+  EXTRA ('10-02-indriyayamaka.md', 276, {'aññ'})
+  EXTRA ('10-02-indriyayamaka.md', 397, {'man'})
+  EXTRA ('10-02-indriyayamaka.md', 400, {'man'})
+  EXTRA ('10-02-indriyayamaka.md', 403, {'man'})
+  EXTRA ('10-02-indriyayamaka.md', 406, {'man'})
+  EXTRA ('10-02-indriyayamaka.md', 414, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 416, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 418, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 420, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 423, {'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 425, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 427, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 429, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 431, {'man', 'jīv'})
+  EXTRA ('10-02-indriyayamaka.md', 434, {'jīv'})
+templates with >1 Hindi variant: 9
+==========
+P: Ye purisā eteneva bhāvena katici bhave dassetvā parinibbāyissanti tesaṃ <FA> uppajjissati, no ca tesaṃ <FB> uppajjissati. Itaresaṃ tesaṃ <FA> uppajjissati <FB> uppajjissati.
+  [1] [('10-05-indriyayamaka.md', 321)] H: जो <BC> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+  [1] [('10-05-indriyayamaka.md', 343)] H: जो <BA> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+==========
+P: Yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tesaṃ <FA> uppajjissati, no ca tesaṃ <FB> uppajjissati. Itaresaṃ tesaṃ <FA> uppajjissati <FB> uppajjissati.
+  [1] [('10-05-indriyayamaka.md', 373)] H: जिनमें इस <BC> के ठीक बाद <BD> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+  [1] [('10-05-indriyayamaka.md', 383)] H: जिनमें इस <BC> के ठीक बाद <BA> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+==========
+P: Yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ <FA> uppajjissati, no ca tesaṃ <FB> uppajjissati. Itaresaṃ tesaṃ <FA> uppajjissati <FB> uppajjissati.
+  [1] [('10-05-indriyayamaka.md', 376)] H: जिनमें इस <BC> के ठीक बाद <BD> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+  [1] [('10-05-indriyayamaka.md', 381)] H: जिनमें इस <BC> के ठीक बाद <BA> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न होगी, पर उनमें <FB> उत्पन्न नहीं होगी। बाकी सबमें <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+==========
+P: Ye purisā eteneva bhāvena katici bhave dassetvā parinibbāyissanti tesaṃ tattha <FA> uppajjissati, no ca tesaṃ tattha <FB> uppajjissati. Itaresaṃ kāmāvacarānaṃ tesaṃ tattha <FA> uppajjissati <FB> uppajjissati.
+  [1] [('10-06-indriyayamaka.md', 89)] H: जो <BC> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें वहाँ <FA> उत्पन्न होगी, पर उनमें वहाँ <FB> उत्पन्न नहीं होगी। बाकी इंद्रिय-सुखों के लोक के प्राणियों में वहाँ <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+  [1] [('10-06-indriyayamaka.md', 111)] H: जो <BA> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें वहाँ <FA> उत्पन्न होगी, पर उनमें वहाँ <FB> उत्पन्न नहीं होगी। बाकी इंद्रिय-सुखों के लोक के प्राणियों में वहाँ <FA> भी उत्पन्न होगी और <FB> भी उत्पन्न होगी।
+==========
+P: Ye purisā eteneva bhāvena katici bhave dassetvā parinibbāyissanti tesaṃ <FA> na uppajjissati, no ca tesaṃ <FB> na uppajjissati. Pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ <FA> na uppajjissati <FB> na uppajjissati.
+  [1] [('10-06-indriyayamaka.md', 190)] H: जो <BC> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम जन्म वालों में और जो सूक्ष्म भौतिक लोक या अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-06-indriyayamaka.md', 209)] H: जो <BB> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम जन्म वालों में और जो सूक्ष्म भौतिक लोक या अभौतिक लोक में जन्म लेकर पूर्ण निर्वाण पाएँगे, उनमें <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+==========
+P: Yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tesaṃ <FA> na uppajjissati, no ca tesaṃ <FB> na uppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ <FA> na uppajjissati <FB> na uppajjissati.
+  [1] [('10-06-indriyayamaka.md', 242)] H: जिनमें इस <BC> के ठीक बाद <BD> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम <BC> से युक्त लोगों में <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-06-indriyayamaka.md', 249)] H: जिनमें इस <BC> के ठीक बाद <BB> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम <BC> से युक्त लोगों में <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-06-indriyayamaka.md', 253)] H: जिनमें इस <BB> के ठीक बाद <BC> से जुड़ा अंतिम <BB> उत्पन्न होगा, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम <BB> से युक्त लोगों में <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+==========
+P: Yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati tesaṃ <FA> na uppajjissati, no ca tesaṃ <FB> na uppajjissati. Pacchimacittasamaṅgīnaṃ tesaṃ <FA> na uppajjissati <FB> na uppajjissati.
+  [1] [('10-06-indriyayamaka.md', 245)] H: जिनमें इस <BC> के ठीक बाद <BD> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम <BC> से युक्त लोगों में <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-06-indriyayamaka.md', 251)] H: जिनमें इस <BC> के ठीक बाद <BB> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें <FA> उत्पन्न नहीं होगी, पर उनमें <FB> उत्पन्न होगी। अंतिम <BC> से युक्त लोगों में <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+==========
+P: Ye purisā eteneva bhāvena katici bhave dassetvā parinibbāyissanti tesaṃ tattha <FA> na uppajjissati, no ca tesaṃ tattha <FB> na uppajjissati. Kāmāvacare pacchimabhavikānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha <FA> na uppajjissati <FB> na uppajjissati.
+  [1] [('10-07-indriyayamaka.md', 28)] H: जो <BC> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें वहाँ <FA> उत्पन्न नहीं होगी, पर उनमें वहाँ <FB> उत्पन्न होगी। इंद्रिय-सुखों के लोक में अंतिम जन्म वालों में, सूक्ष्म भौतिक लोक के प्राणियों में और अभौतिक लोक के प्राणियों में वहाँ <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-07-indriyayamaka.md', 47)] H: जो <BB> इसी लिंग में कुछ जन्म बिताकर पूर्ण निर्वाण पाएँगे, उनमें वहाँ <FA> उत्पन्न नहीं होगी, पर उनमें वहाँ <FB> उत्पन्न होगी। इंद्रिय-सुखों के लोक में अंतिम जन्म वालों में, सूक्ष्म भौतिक लोक के प्राणियों में और अभौतिक लोक के प्राणियों में वहाँ <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+==========
+P: Yassa cittassa anantarā upekkhāsampayuttapacchimacittaṃ uppajjissati tesaṃ tattha <FA> na uppajjissati, no ca tesaṃ tattha <FB> na uppajjissati. Pacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha <FA> na uppajjissati <FB> na uppajjissati.
+  [1] [('10-07-indriyayamaka.md', 88)] H: जिनमें इस <BC> के ठीक बाद <BB> से जुड़ा अंतिम <BC> उत्पन्न होगा, उनमें वहाँ <FA> उत्पन्न नहीं होगी, पर उनमें वहाँ <FB> उत्पन्न होगी। अंतिम <BC> से युक्त लोगों में और पहचान-रहित प्राणियों में वहाँ <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।
+  [1] [('10-07-indriyayamaka.md', 92)] H: जिनमें इस <BB> के ठीक बाद <BC> से जुड़ा अंतिम <BB> उत्पन्न होगा, उनमें वहाँ <FA> उत्पन्न नहीं होगी, पर उनमें वहाँ <FB> उत्पन्न होगी। अंतिम <BB> से युक्त लोगों में और पहचान-रहित प्राणियों में वहाँ <FA> भी उत्पन्न नहीं होगी और <FB> भी उत्पन्न नहीं होगी।

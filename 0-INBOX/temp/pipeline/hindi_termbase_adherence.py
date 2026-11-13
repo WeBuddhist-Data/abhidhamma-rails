@@ -37,7 +37,7 @@ for p in pathlib.Path(rails_dir).glob("*.md"):
 tb = {}
 for line in pathlib.Path(tb_path).read_text(encoding="utf-8").splitlines():
     w, body = line.split(": {", 1)
-    tb[w] = [s.rsplit(": ", 1)[1] for s in body[:-1].split("; ")]
+    tb[w] = [s.split(": ", 1)[1] for s in body[:-1].split("; ")]
 tb_ci = {k.lower(): v for k, v in tb.items()}
 
 

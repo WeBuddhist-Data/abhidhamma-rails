@@ -1,0 +1,1018 @@
+[1] P: ### Dhammayamakaṃ ^6-9-0
+[1] H: ### परिघटनाओं पर प्रश्नों के जोड़े ^6-9-0
+[2] P: #### Paṇṇattivāro ^6-9-1-0
+[2] H: #### शब्दावली का खंड ^6-9-1-0
+[3] P: ##### (Ka) uddeso ^6-9-1-1-0
+[3] H: ##### (क) सूची ^6-9-1-1-0
+[4] P: #### Padasodhanavāro ^6-9-2-0
+[4] H: #### शब्दों की जाँच का खंड ^6-9-2-0
+[5] P: ##### (Ka) anulomaṃ ^6-9-2-1-0
+[5] H: ##### (क) सकारात्मक ^6-9-2-1-0
+[6] P: (Ka) kusalā kusalā dhammā?
+[6] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं?
+[7] P: (Kha) kusalā dhammā kusalā?
+[7] H: (ख) क्या हितकर परिघटनाएँ, हितकर हैं?
+[8] P: (Ka) akusalā akusalā dhammā?
+[8] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं?
+[9] P: (Kha) akusalā dhammā akusalā?
+[9] H: (ख) क्या हानिकर परिघटनाएँ, हानिकर हैं?
+[10] P: (Ka) abyākatā abyākatā dhammā?
+[10] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[11] P: (Kha) abyākatā dhammā abyākatā? ^6-9-1
+[11] H: (ख) क्या नैतिक रूप से अनिर्धारित परिघटनाएँ, नैतिक रूप से अनिर्धारित हैं? ^6-9-1
+[12] P: ##### (Kha) paccanīkaṃ ^6-9-2-2-0
+[12] H: ##### (ख) नकारात्मक ^6-9-2-2-0
+[13] P: (Ka) na kusalā na kusalā dhammā?
+[13] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं?
+[14] P: (Kha) na kusalā dhammā na kusalā?
+[14] H: (ख) जो हितकर परिघटनाएँ नहीं हैं, क्या वे हितकर नहीं हैं?
+[15] P: (Ka) na akusalā na akusalā dhammā?
+[15] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं?
+[16] P: (Kha) na akusalā dhammā na akusalā?
+[16] H: (ख) जो हानिकर परिघटनाएँ नहीं हैं, क्या वे हानिकर नहीं हैं?
+[17] P: (Ka) na abyākatā na abyākatā dhammā?
+[17] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं?
+[18] P: (Kha) na abyākatā dhammā na abyākatā? ^6-9-2
+[18] H: (ख) जो नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित नहीं हैं? ^6-9-2
+[19] P: #### Padasodhanamūlacakkavāro ^6-9-3-0
+[19] H: #### शब्दों की जाँच पर आधारित चक्र का खंड ^6-9-3-0
+[20] P: ##### (Ka) anulomaṃ ^6-9-3-1-0
+[20] H: ##### (क) सकारात्मक ^6-9-3-1-0
+[21] P: (Ka) kusalā kusalā dhammā?
+[21] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं?
+[22] P: (Kha) dhammā akusalā dhammā?
+[22] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[23] P: (Ka) kusalā kusalā dhammā?
+[23] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं?
+[24] P: (Kha) dhammā abyākatā dhammā? ^6-9-3
+[24] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं? ^6-9-3
+[25] P: (Ka) akusalā akusalā dhammā?
+[25] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं?
+[26] P: (Kha) dhammā kusalā dhammā?
+[26] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[27] P: (Ka) akusalā akusalā dhammā?
+[27] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं?
+[28] P: (Kha) dhammā abyākatā dhammā? ^6-9-4
+[28] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं? ^6-9-4
+[29] P: (Ka) abyākatā abyākatā dhammā?
+[29] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[30] P: (Kha) dhammā kusalā dhammā?
+[30] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[31] P: (Ka) abyākatā abyākatā dhammā?
+[31] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[32] P: (Kha) dhammā akusalā dhammā? ^6-9-5
+[32] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं? ^6-9-5
+[33] P: ##### (Kha) paccanīkaṃ ^6-9-3-2-0
+[33] H: ##### (ख) नकारात्मक ^6-9-3-2-0
+[34] P: (Ka) na kusalā na kusalā dhammā?
+[34] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं?
+[35] P: (Kha) na dhammā na akusalā dhammā?
+[35] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं?
+[36] P: (Ka) na kusalā na kusalā dhammā?
+[36] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं?
+[37] P: (Kha) na dhammā na abyākatā dhammā? ^6-9-6
+[37] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? ^6-9-6
+[38] P: (Ka) na akusalā na akusalā dhammā?
+[38] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं?
+[39] P: (Kha) na dhammā na kusalā dhammā?
+[39] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं?
+[40] P: (Ka) na akusalā na akusalā dhammā?
+[40] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं?
+[41] P: (Kha) na dhammā na abyākatā dhammā? ^6-9-7
+[41] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? ^6-9-7
+[42] P: (Ka) na abyākatā na abyākatā dhammā?
+[42] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं?
+[43] P: (Kha) na dhammā na kusalā dhammā?
+[43] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं?
+[44] P: (Ka) na abyākatā na abyākatā dhammā?
+[44] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं?
+[45] P: (Kha) na dhammā na akusalā dhammā? ^6-9-8
+[45] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? ^6-9-8
+[46] P: #### 3 Suddhadhammavāro ^6-9-4-0
+[46] H: #### 3 केवल परिघटनाओं का खंड ^6-9-4-0
+[47] P: ##### (Ka) anulomaṃ ^6-9-4-1-0
+[47] H: ##### (क) सकारात्मक ^6-9-4-1-0
+[48] P: (Ka) kusalā dhammā?
+[48] H: (क) क्या हितकर, परिघटनाएँ हैं?
+[49] P: (Kha) dhammā kusalā?
+[49] H: (ख) क्या परिघटनाएँ, हितकर हैं?
+[50] P: (Ka) akusalā dhammā?
+[50] H: (क) क्या हानिकर, परिघटनाएँ हैं?
+[51] P: (Kha) dhammā akusalā?
+[51] H: (ख) क्या परिघटनाएँ, हानिकर हैं?
+[52] P: (Ka) abyākatā dhammā?
+[52] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं?
+[53] P: (Kha) dhammā abyākatā? ^6-9-9
+[53] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित हैं? ^6-9-9
+[54] P: ##### (Kha) paccanīkaṃ ^6-9-4-2-0
+[54] H: ##### (ख) नकारात्मक ^6-9-4-2-0
+[55] P: (Ka) na kusalā na dhammā?
+[55] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[56] P: (Kha) na dhammā na kusalā?
+[56] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर नहीं हैं?
+[57] P: (Ka) na akusalā na dhammā?
+[57] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[58] P: (Kha) na dhammā na akusalā?
+[58] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर नहीं हैं?
+[59] P: (Ka) na abyākatā na dhammā?
+[59] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[60] P: (Kha) na dhammā na abyākatā? ^6-9-10
+[60] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित नहीं हैं? ^6-9-10
+[61] P: #### 4 Suddhadhammamūlacakkavāro ^6-9-5-0
+[61] H: #### 4 केवल परिघटनाओं पर आधारित चक्र का खंड ^6-9-5-0
+[62] P: ##### (Ka) anulomaṃ ^6-9-5-1-0
+[62] H: ##### (क) सकारात्मक ^6-9-5-1-0
+[63] P: (Ka) kusalā dhammā?
+[63] H: (क) क्या हितकर, परिघटनाएँ हैं?
+[64] P: (Kha) dhammā akusalā?
+[64] H: (ख) क्या परिघटनाएँ, हानिकर हैं?
+[65] P: (Ka) kusalā dhammā?
+[65] H: (क) क्या हितकर, परिघटनाएँ हैं?
+[66] P: (Kha) dhammā abyākatā? ^6-9-11
+[66] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित हैं? ^6-9-11
+[67] P: (Ka) akusalā dhammā?
+[67] H: (क) क्या हानिकर, परिघटनाएँ हैं?
+[68] P: (Kha) dhammā kusalā?
+[68] H: (ख) क्या परिघटनाएँ, हितकर हैं?
+[69] P: (Ka) akusalā dhammā?
+[69] H: (क) क्या हानिकर, परिघटनाएँ हैं?
+[70] P: (Kha) dhammā abyākatā? ^6-9-12
+[70] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित हैं? ^6-9-12
+[71] P: (Ka) abyākatā dhammā?
+[71] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं?
+[72] P: (Kha) dhammā kusalā?
+[72] H: (ख) क्या परिघटनाएँ, हितकर हैं?
+[73] P: (Ka) abyākatā dhammā?
+[73] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं?
+[74] P: (Kha) dhammā akusalā? ^6-9-13
+[74] H: (ख) क्या परिघटनाएँ, हानिकर हैं? ^6-9-13
+[75] P: ##### (Kha) paccanīkaṃ ^6-9-5-2-0
+[75] H: ##### (ख) नकारात्मक ^6-9-5-2-0
+[76] P: (Ka) na kusalā na dhammā?
+[76] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[77] P: (Kha) na dhammā na akusalā?
+[77] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर नहीं हैं?
+[78] P: (Ka) na kusalā na dhammā?
+[78] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[79] P: (Kha) na dhammā na abyākatā? ^6-9-14
+[79] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित नहीं हैं? ^6-9-14
+[80] P: (Ka) na akusalā na dhammā?
+[80] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[81] P: (Kha) na dhammā na kusalā?
+[81] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर नहीं हैं?
+[82] P: (Ka) na akusalā na dhammā?
+[82] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[83] P: (Kha) na dhammā na abyākatā? ^6-9-15
+[83] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित नहीं हैं? ^6-9-15
+[84] P: (Ka) na abyākatā na dhammā?
+[84] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[85] P: (Kha) na dhammā na kusalā?
+[85] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर नहीं हैं?
+[86] P: (Ka) na abyākatā na dhammā?
+[86] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[87] P: (Kha) na dhammā na akusalā?
+[87] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर नहीं हैं?
+[88] P: (Kha) niddeso ^6-9-16
+[88] H: (ख) व्याख्या ^6-9-16
+[89] P: #### Padasodhanavāro ^6-9-6-0
+[89] H: #### शब्दों की जाँच का खंड ^6-9-6-0
+[90] P: ##### (Ka) anulomaṃ ^6-9-6-1-0
+[90] H: ##### (क) सकारात्मक ^6-9-6-1-0
+[91] P: (Ka) kusalā kusalā dhammāti? Āmantā.
+[91] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं? हाँ।
+[92] P: (Kha) kusalā dhammā kusalāti? Āmantā.
+[92] H: (ख) क्या हितकर परिघटनाएँ, हितकर हैं? हाँ।
+[93] P: (Ka) akusalā akusalā dhammāti? Āmantā.
+[93] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं? हाँ।
+[94] P: (Kha) akusalā dhammā akusalāti? Āmantā.
+[94] H: (ख) क्या हानिकर परिघटनाएँ, हानिकर हैं? हाँ।
+[95] P: (Ka) abyākatā abyākatā dhammāti? Āmantā.
+[95] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं? हाँ।
+[96] P: (Kha) abyākatā dhammā abyākatāti? Āmantā. ^6-9-17
+[96] H: (ख) क्या नैतिक रूप से अनिर्धारित परिघटनाएँ, नैतिक रूप से अनिर्धारित हैं? हाँ। ^6-9-17
+[97] P: ##### (Kha) paccanīkaṃ ^6-9-6-2-0
+[97] H: ##### (ख) नकारात्मक ^6-9-6-2-0
+[98] P: (Ka) na kusalā na kusalā dhammāti? Āmantā.
+[98] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[99] P: (Kha) na kusalā dhammā na kusalāti? Āmantā.
+[99] H: (ख) जो हितकर परिघटनाएँ नहीं हैं, क्या वे हितकर नहीं हैं? हाँ।
+[100] P: (Ka) na akusalā na akusalā dhammāti? Āmantā.
+[100] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[101] P: (Kha) na akusalā dhammā na akusalāti? Āmantā.
+[101] H: (ख) जो हानिकर परिघटनाएँ नहीं हैं, क्या वे हानिकर नहीं हैं? हाँ।
+[102] P: (Ka) na abyākatā na abyākatā dhammāti? Āmantā.
+[102] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ।
+[103] P: (Kha) na abyākatā dhammā na abyākatāti? Āmantā. ^6-9-18
+[103] H: (ख) जो नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित नहीं हैं? हाँ। ^6-9-18
+[104] P: #### Padasodhanamūlacakkavāro ^6-9-7-0
+[104] H: #### शब्दों की जाँच पर आधारित चक्र का खंड ^6-9-7-0
+[105] P: ##### (Ka) anulomaṃ ^6-9-7-1-0
+[105] H: ##### (क) सकारात्मक ^6-9-7-1-0
+[106] P: (Ka) kusalā kusalā dhammāti? Āmantā.
+[106] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं? हाँ।
+[107] P: (Kha) dhammā akusalā dhammāti?
+[107] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[108] P: Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā.
+[108] H: हानिकर परिघटनाएँ, परिघटनाएँ भी हैं और हानिकर परिघटनाएँ भी। शेष परिघटनाएँ, हानिकर परिघटनाएँ नहीं हैं।
+[109] P: (Ka) kusalā kusalā dhammāti? Āmantā.
+[109] H: (क) क्या हितकर, हितकर परिघटनाएँ हैं? हाँ।
+[110] P: (Kha) dhammā abyākatā dhammāti?
+[110] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[111] P: Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-19
+[111] H: नैतिक रूप से अनिर्धारित परिघटनाएँ, परिघटनाएँ भी हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी। शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं। ^6-9-19
+[112] P: (Ka) akusalā akusalā dhammāti? Āmantā.
+[112] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं? हाँ।
+[113] P: (Kha) dhammā kusalā dhammāti?
+[113] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[114] P: Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dhammā.
+[114] H: हितकर परिघटनाएँ, परिघटनाएँ भी हैं और हितकर परिघटनाएँ भी। शेष परिघटनाएँ, हितकर परिघटनाएँ नहीं हैं।
+[115] P: (Ka) akusalā akusalā dhammāti? Āmantā.
+[115] H: (क) क्या हानिकर, हानिकर परिघटनाएँ हैं? हाँ।
+[116] P: (Kha) dhammā abyākatā dhammāti?
+[116] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[117] P: Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-20
+[117] H: नैतिक रूप से अनिर्धारित परिघटनाएँ, परिघटनाएँ भी हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी। शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं। ^6-9-20
+[118] P: (Ka) abyākatā abyākatā dhammāti? Āmantā.
+[118] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं? हाँ।
+[119] P: (Kha) dhammā kusalā dhammāti?
+[119] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[120] P: Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dhammā.
+[120] H: हितकर परिघटनाएँ, परिघटनाएँ भी हैं और हितकर परिघटनाएँ भी। शेष परिघटनाएँ, हितकर परिघटनाएँ नहीं हैं।
+[121] P: (Ka) abyākatā abyākatā dhammāti? Āmantā.
+[121] H: (क) क्या नैतिक रूप से अनिर्धारित, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं? हाँ।
+[122] P: (Kha) dhammā akusalā dhammāti?
+[122] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[123] P: Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā. ^6-9-21
+[123] H: हानिकर परिघटनाएँ, परिघटनाएँ भी हैं और हानिकर परिघटनाएँ भी। शेष परिघटनाएँ, हानिकर परिघटनाएँ नहीं हैं। ^6-9-21
+[124] P: ##### (Kha) paccanīkaṃ ^6-9-7-2-0
+[124] H: ##### (ख) नकारात्मक ^6-9-7-2-0
+[125] P: (Ka) na kusalā na kusalā dhammāti? Āmantā.
+[125] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[126] P: (Kha) na dhammā na akusalā dhammāti? Āmantā.
+[126] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[127] P: (Ka) na kusalā na kusalā dhammāti? Āmantā.
+[127] H: (क) जो हितकर नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[128] P: (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-22
+[128] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ। ^6-9-22
+[129] P: (Ka) na akusalā na akusalā dhammāti? Āmantā.
+[129] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[130] P: (Kha) na dhammā na kusalā dhammāti? Āmantā.
+[130] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[131] P: (Ka) na akusalā na akusalā dhammāti? Āmantā.
+[131] H: (क) जो हानिकर नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[132] P: (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-23
+[132] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ। ^6-9-23
+[133] P: (Ka) na abyākatā na abyākatā dhammāti? Āmantā.
+[133] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ।
+[134] P: (Kha) na dhammā na kusalā dhammāti? Āmantā.
+[134] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[135] P: (Ka) na abyākatā na abyākatā dhammāti? Āmantā.
+[135] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ।
+[136] P: (Kha) na dhammā na akusalā dhammāti? Āmantā. ^6-9-24
+[136] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ। ^6-9-24
+[137] P: #### Suddhadhammavāro ^6-9-8-0
+[137] H: #### केवल परिघटनाओं का खंड ^6-9-8-0
+[138] P: ##### (Ka) anulomaṃ ^6-9-8-1-0
+[138] H: ##### (क) सकारात्मक ^6-9-8-1-0
+[139] P: (Ka) kusalā dhammāti? Āmantā.
+[139] H: (क) क्या हितकर, परिघटनाएँ हैं? हाँ।
+[140] P: (Kha) dhammā kusalā dhammāti?
+[140] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[141] P: Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dhammā.
+[141] H: हितकर परिघटनाएँ, परिघटनाएँ भी हैं और हितकर परिघटनाएँ भी। शेष परिघटनाएँ, हितकर परिघटनाएँ नहीं हैं।
+[142] P: (Ka) akusalā dhammāti? Āmantā.
+[142] H: (क) क्या हानिकर, परिघटनाएँ हैं? हाँ।
+[143] P: (Kha) dhammā akusalā dhammāti?
+[143] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[144] P: Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā.
+[144] H: हानिकर परिघटनाएँ, परिघटनाएँ भी हैं और हानिकर परिघटनाएँ भी। शेष परिघटनाएँ, हानिकर परिघटनाएँ नहीं हैं।
+[145] P: (Ka) abyākatā dhammāti? Āmantā.
+[145] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं? हाँ।
+[146] P: (Kha) dhammā abyākatā dhammāti?
+[146] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[147] P: Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-25
+[147] H: नैतिक रूप से अनिर्धारित परिघटनाएँ, परिघटनाएँ भी हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी। शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं। ^6-9-25
+[148] P: ##### (Kha) paccanīkaṃ ^6-9-8-2-0
+[148] H: ##### (ख) नकारात्मक ^6-9-8-2-0
+[149] P: (Ka) na kusalā na dhammāti?
+[149] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[150] P: Kusalaṃ ṭhapetvā avasesā dhammā na kusalā, dhammā. Kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā.
+[150] H: हितकर को छोड़कर शेष परिघटनाएँ, हितकर नहीं हैं, पर परिघटनाएँ हैं। हितकर और परिघटनाओं को छोड़कर शेष न तो हितकर हैं, न परिघटनाएँ।
+[151] P: (Kha) na dhammā na kusalā dhammāti? Āmantā.
+[151] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[152] P: (Ka) na akusalā na dhammāti?
+[152] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[153] P: Akusalaṃ ṭhapetvā avasesā dhammā na akusalā, dhammā. Akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā.
+[153] H: हानिकर को छोड़कर शेष परिघटनाएँ, हानिकर नहीं हैं, पर परिघटनाएँ हैं। हानिकर और परिघटनाओं को छोड़कर शेष न तो हानिकर हैं, न परिघटनाएँ।
+[154] P: (Kha) na dhammā na akusalā dhammāti? Āmantā.
+[154] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[155] P: (Ka) na abyākatā na dhammāti?
+[155] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[156] P: Abyākataṃ ṭhapetvā avasesā dhammā na abyākatā, dhammā. Abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā.
+[156] H: नैतिक रूप से अनिर्धारित को छोड़कर शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित नहीं हैं, पर परिघटनाएँ हैं। नैतिक रूप से अनिर्धारित और परिघटनाओं को छोड़कर शेष न तो नैतिक रूप से अनिर्धारित हैं, न परिघटनाएँ।
+[157] P: (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-26
+[157] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ। ^6-9-26
+[158] P: #### Suddhadhammamūlacakkavāro ^6-9-9-0
+[158] H: #### केवल परिघटनाओं पर आधारित चक्र का खंड ^6-9-9-0
+[159] P: ##### (Ka) anulomaṃ ^6-9-9-1-0
+[159] H: ##### (क) सकारात्मक ^6-9-9-1-0
+[160] P: (Ka) kusalā dhammāti? Āmantā.
+[160] H: (क) क्या हितकर, परिघटनाएँ हैं? हाँ।
+[161] P: (Kha) dhammā akusalā dhammāti?
+[161] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[162] P: Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā.
+[162] H: हानिकर परिघटनाएँ, परिघटनाएँ भी हैं और हानिकर परिघटनाएँ भी। शेष परिघटनाएँ, हानिकर परिघटनाएँ नहीं हैं।
+[163] P: (Ka) kusalā dhammāti? Āmantā.
+[163] H: (क) क्या हितकर, परिघटनाएँ हैं? हाँ।
+[164] P: (Kha) dhammā abyākatā dhammāti?
+[164] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[165] P: Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-27
+[165] H: नैतिक रूप से अनिर्धारित परिघटनाएँ, परिघटनाएँ भी हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी। शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं। ^6-9-27
+[166] P: (Ka) akusalā dhammāti? Āmantā.
+[166] H: (क) क्या हानिकर, परिघटनाएँ हैं? हाँ।
+[167] P: (Kha) dhammā kusalā dhammāti?
+[167] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[168] P: Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dhammā.
+[168] H: हितकर परिघटनाएँ, परिघटनाएँ भी हैं और हितकर परिघटनाएँ भी। शेष परिघटनाएँ, हितकर परिघटनाएँ नहीं हैं।
+[169] P: (Ka) akusalā dhammāti? Āmantā.
+[169] H: (क) क्या हानिकर, परिघटनाएँ हैं? हाँ।
+[170] P: (Kha) dhammā abyākatā dhammāti?
+[170] H: (ख) क्या परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ हैं?
+[171] P: Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-28
+[171] H: नैतिक रूप से अनिर्धारित परिघटनाएँ, परिघटनाएँ भी हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी। शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं। ^6-9-28
+[172] P: (Ka) abyākatā dhammāti? Āmantā.
+[172] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं? हाँ।
+[173] P: (Kha) dhammā kusalā dhammāti?
+[173] H: (ख) क्या परिघटनाएँ, हितकर परिघटनाएँ हैं?
+[174] P: Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dhammā.
+[174] H: हितकर परिघटनाएँ, परिघटनाएँ भी हैं और हितकर परिघटनाएँ भी। शेष परिघटनाएँ, हितकर परिघटनाएँ नहीं हैं।
+[175] P: (Ka) abyākatā dhammāti? Āmantā.
+[175] H: (क) क्या नैतिक रूप से अनिर्धारित, परिघटनाएँ हैं? हाँ।
+[176] P: (Kha) dhammā akusalā dhammāti?
+[176] H: (ख) क्या परिघटनाएँ, हानिकर परिघटनाएँ हैं?
+[177] P: Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā. ^6-9-29
+[177] H: हानिकर परिघटनाएँ, परिघटनाएँ भी हैं और हानिकर परिघटनाएँ भी। शेष परिघटनाएँ, हानिकर परिघटनाएँ नहीं हैं। ^6-9-29
+[178] P: ##### (Kha) paccanīkaṃ ^6-9-9-2-0
+[178] H: ##### (ख) नकारात्मक ^6-9-9-2-0
+[179] P: (Ka) na kusalā na dhammāti?
+[179] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[180] P: Kusalaṃ ṭhapetvā avasesā dhammā na kusalā, dhammā. Kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā.
+[180] H: हितकर को छोड़कर शेष परिघटनाएँ, हितकर नहीं हैं, पर परिघटनाएँ हैं। हितकर और परिघटनाओं को छोड़कर शेष न तो हितकर हैं, न परिघटनाएँ।
+[181] P: (Kha) na dhammā na akusalā dhammāti? Āmantā.
+[181] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[182] P: (Ka) na kusalā na dhammāti?
+[182] H: (क) जो हितकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[183] P: Kusalaṃ ṭhapetvā avasesā dhammā na kusalā, dhammā. Kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā.
+[183] H: हितकर को छोड़कर शेष परिघटनाएँ, हितकर नहीं हैं, पर परिघटनाएँ हैं। हितकर और परिघटनाओं को छोड़कर शेष न तो हितकर हैं, न परिघटनाएँ।
+[184] P: (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-30
+[184] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ। ^6-9-30
+[185] P: (Ka) na akusalā na dhammāti?
+[185] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[186] P: Akusalaṃ ṭhapetvā avasesā dhammā na akusalā, dhammā. Akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā.
+[186] H: हानिकर को छोड़कर शेष परिघटनाएँ, हानिकर नहीं हैं, पर परिघटनाएँ हैं। हानिकर और परिघटनाओं को छोड़कर शेष न तो हानिकर हैं, न परिघटनाएँ।
+[187] P: (Kha) na dhammā na akusalā dhammāti? Āmantā.
+[187] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[188] P: (Ka) na akusalā na dhammāti?
+[188] H: (क) जो हानिकर नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[189] P: Akusalaṃ ṭhapetvā avasesā dhammā na akusalā, dhammā. Akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā.
+[189] H: हानिकर को छोड़कर शेष परिघटनाएँ, हानिकर नहीं हैं, पर परिघटनाएँ हैं। हानिकर और परिघटनाओं को छोड़कर शेष न तो हानिकर हैं, न परिघटनाएँ।
+[190] P: (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-31
+[190] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे नैतिक रूप से अनिर्धारित परिघटनाएँ नहीं हैं? हाँ। ^6-9-31
+[191] P: (Ka) na abyākatā na dhammāti?
+[191] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[192] P: Abyākataṃ ṭhapetvā avasesā dhammā na abyākatā, dhammā. Abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā.
+[192] H: नैतिक रूप से अनिर्धारित को छोड़कर शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित नहीं हैं, पर परिघटनाएँ हैं। नैतिक रूप से अनिर्धारित और परिघटनाओं को छोड़कर शेष न तो नैतिक रूप से अनिर्धारित हैं, न परिघटनाएँ।
+[193] P: (Kha) na dhammā na kusalā dhammāti? Āmantā.
+[193] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हितकर परिघटनाएँ नहीं हैं? हाँ।
+[194] P: (Ka) na abyākatā na dhammāti?
+[194] H: (क) जो नैतिक रूप से अनिर्धारित नहीं हैं, क्या वे परिघटनाएँ नहीं हैं?
+[195] P: Abyākataṃ ṭhapetvā avasesā dhammā na abyākatā, dhammā. Abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā.
+[195] H: नैतिक रूप से अनिर्धारित को छोड़कर शेष परिघटनाएँ, नैतिक रूप से अनिर्धारित नहीं हैं, पर परिघटनाएँ हैं। नैतिक रूप से अनिर्धारित और परिघटनाओं को छोड़कर शेष न तो नैतिक रूप से अनिर्धारित हैं, न परिघटनाएँ।
+[196] P: (Kha) na dhammā na akusalā dhammāti? Āmantā.
+[196] H: (ख) जो परिघटनाएँ नहीं हैं, क्या वे हानिकर परिघटनाएँ नहीं हैं? हाँ।
+[197] P: Paṇṇattiniddesavāro. ^6-9-32
+[197] H: शब्दावली की व्याख्या का खंड। ^6-9-32
+[198] P: #### Pavattivāro ^6-9-10-0
+[198] H: #### प्रक्रिया का खंड ^6-9-10-0
+[199] P: #### Uppādavāro ^6-9-11-0
+[199] H: #### उत्पन्न होने का खंड ^6-9-11-0
+[200] P: #### (1) Paccuppannavāro ^6-9-12-0
+[200] H: #### (1) वर्तमान का खंड ^6-9-12-0
+[201] P: ##### (Ka) anulomapuggalo ^6-9-12-1-0
+[201] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-12-1-0
+[202] P: (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjantīti? No.
+[202] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होती हैं? नहीं।
+[203] P: (Kha) yassa vā pana akusalā dhammā uppajjanti tassa kusalā dhammā uppajjantīti? No.
+[203] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं? नहीं।
+[204] P: (Ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti?
+[204] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं?
+[205] P: Arūpe kusalānaṃ uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti, no ca tesaṃ abyākatā dhammā uppajjanti. Pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti.
+[205] H: अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में हितकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हितकर परिघटनाओं के उत्पन्न होने के क्षण में हितकर परिघटनाएँ भी उत्पन्न होती हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं।
+[206] P: (Kha) yassa vā pana abyākatā dhammā uppajjanti tassa kusalā dhammā uppajjantīti?
+[206] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं?
+[207] P: Sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ abyākatā dhammā uppajjanti, no ca tesaṃ kusalā dhammā uppajjanti. Pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti. ^6-9-33
+[207] H: सभी जन्म लेने वालों में और जीवन के दौरान हितकर से अलग मन के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हितकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-33
+[208] P: (Ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti?
+[208] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं?
+[209] P: Arūpe akusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā uppajjanti, no ca tesaṃ abyākatā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti.
+[209] H: अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ भी उत्पन्न होती हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं।
+[210] P: (Kha) yassa vā pana abyākatā dhammā uppajjanti tassa akusalā dhammā uppajjantīti?
+[210] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[211] P: Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ abyākatā dhammā uppajjanti, no ca tesaṃ akusalā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-34
+[211] H: सभी जन्म लेने वालों में और जीवन के दौरान हानिकर से अलग मन के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-34
+[212] P: ##### (Kha) anulomaokāso ^6-9-12-2-0
+[212] H: ##### (ख) सकारात्मक: स्थान ^6-9-12-2-0
+[213] P: (Ka) yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjantīti? Āmantā.
+[213] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं? हाँ।
+[214] P: (Kha) yattha vā pana akusalā dhammā uppajjanti tattha kusalā dhammā uppajjantīti? Āmantā.
+[214] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं? हाँ।
+[215] P: (Ka) yattha kusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti? Āmantā.
+[215] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं? हाँ।
+[216] P: (Kha) yattha vā pana abyākatā dhammā uppajjanti tattha kusalā dhammā uppajjantīti?
+[216] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[217] P: Asaññasatte tattha abyākatā dhammā uppajjanti, no ca tattha kusalā dhammā uppajjanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti. ^6-9-35
+[217] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-35
+[218] P: (Ka) yattha akusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti? Āmantā.
+[218] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं? हाँ।
+[219] P: (Kha) yattha vā pana abyākatā dhammā uppajjanti tattha akusalā dhammā uppajjantīti?
+[219] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[220] P: Asaññasatte tattha abyākatā dhammā uppajjanti, no ca tattha akusalā dhammā uppajjanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-36
+[220] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-36
+[221] P: ##### (Ga) anulomapuggalokāsā ^6-9-12-3-0
+[221] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-12-3-0
+[222] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti? No.
+[222] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं? नहीं।
+[223] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti? No.
+[223] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं? नहीं।
+[224] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti?
+[224] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं?
+[225] P: Arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti, no ca tesaṃ tattha abyākatā dhammā uppajjanti. Pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti.
+[225] H: अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ भी उत्पन्न होती हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं।
+[226] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti?
+[226] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[227] P: Sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha abyākatā dhammā uppajjanti, no ca tesaṃ tattha kusalā dhammā uppajjanti. Pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti. ^6-9-37
+[227] H: सभी जन्म लेने वालों में और जीवन के दौरान हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-37
+[228] P: (Ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti?
+[228] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं?
+[229] P: Arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjanti, no ca tesaṃ tattha abyākatā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti.
+[229] H: अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ भी उत्पन्न होती हैं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं।
+[230] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti?
+[230] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[231] P: Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha abyākatā dhammā uppajjanti, no ca tesaṃ tattha akusalā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-38
+[231] H: सभी जन्म लेने वालों में और जीवन के दौरान हानिकर से अलग मन के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। पाँच समूहों वाले अस्तित्व में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होती हैं और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-38
+[232] P: ##### (Gha) paccanīkapuggalo ^6-9-12-4-0
+[232] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-12-4-0
+[233] P: (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti?
+[233] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[234] P: Akusalānaṃ uppādakkhaṇe tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti.
+[234] H: हानिकर परिघटनाओं के उत्पन्न होने के क्षण में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें हानिकर परिघटनाएँ उत्पन्न होती हैं। सभी के मन के भंग होने के क्षण में, हितकर से अलग और हानिकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[235] P: (Kha) yassa vā pana akusalā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti?
+[235] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[236] P: Kusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā na uppajjanti, no ca tesaṃ kusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti.
+[236] H: हितकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें हितकर परिघटनाएँ उत्पन्न होती हैं। सभी के मन के भंग होने के क्षण में, हानिकर से अलग और हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[237] P: (Ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti?
+[237] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं?
+[238] P: Sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti.
+[238] H: सभी जन्म लेने वालों में और जीवन के दौरान हितकर से अलग मन के उत्पन्न होने के क्षण में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[239] P: (Kha) yassa vā pana abyākatā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti?
+[239] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[240] P: Arūpe kusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti, no ca tesaṃ kusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti. ^6-9-39
+[240] H: अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें हितकर परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं। ^6-9-39
+[241] P: (Ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti?
+[241] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं?
+[242] P: Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ akusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti.
+[242] H: सभी जन्म लेने वालों में और जीवन के दौरान हानिकर से अलग मन के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[243] P: (Kha) yassa vā pana abyākatā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti?
+[243] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[244] P: Arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti. ^6-9-40
+[244] H: अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें हानिकर परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं। ^6-9-40
+[245] P: ##### (Ṅa) paccanīkaokāso ^6-9-12-5-0
+[245] H: ##### (ङ) नकारात्मक: स्थान ^6-9-12-5-0
+[246] P: (Ka) yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti? Āmantā.
+[246] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ।
+[247] P: (Kha) yattha vā pana akusalā dhammā na uppajjanti tattha kusalā dhammā na uppajjantīti? Āmantā.
+[247] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ।
+[248] P: (Ka) yattha kusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti? Uppajjanti.
+[248] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं? उत्पन्न होती हैं।
+[249] P: (Kha) yattha vā pana abyākatā dhammā na uppajjanti tattha kusalā dhammā na uppajjantīti? Natthi. ^6-9-41
+[249] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं? ऐसा कोई नहीं है। ^6-9-41
+[250] P: (Ka) yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti? Uppajjanti.
+[250] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं? उत्पन्न होती हैं।
+[251] P: (Kha) yattha vā pana abyākatā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti? Natthi. ^6-9-42
+[251] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? ऐसा कोई नहीं है। ^6-9-42
+[252] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-12-6-0
+[252] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-12-6-0
+[253] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti?
+[253] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[254] P: Akusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti.
+[254] H: हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं। सभी के मन के भंग होने के क्षण में, हितकर से अलग और हानिकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[255] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti?
+[255] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[256] P: Kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha kusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti.
+[256] H: हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं। सभी के मन के भंग होने के क्षण में, हानिकर से अलग और हितकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[257] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjantīti?
+[257] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं?
+[258] P: Sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti.
+[258] H: सभी जन्म लेने वालों में और जीवन के दौरान हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[259] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti?
+[259] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[260] P: Arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajjanti, no ca tesaṃ tattha kusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti. ^6-9-43
+[260] H: अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं। ^6-9-43
+[261] P: (Ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjantīti?
+[261] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं?
+[262] P: Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti.
+[262] H: सभी जन्म लेने वालों में और जीवन के दौरान हानिकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[263] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti?
+[263] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[264] P: Arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti. ^6-9-44
+[264] H: अभौतिक लोक में हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं। सभी मरने वालों में, जीवन के दौरान मन के भंग होने के क्षण में और अभौतिक लोक में हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं। ^6-9-44
+[265] P: #### (2) Atītavāro ^6-9-13-0
+[265] H: #### (2) अतीत का खंड ^6-9-13-0
+[266] P: ##### (Ka) anulomapuggalo ^6-9-13-1-0
+[266] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-13-1-0
+[267] P: (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti? Āmantā.
+[267] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[268] P: (Kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti? Āmantā.
+[268] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[269] P: (Ka) yassa kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti? Āmantā.
+[269] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[270] P: (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti? Āmantā. ^6-9-45
+[270] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न हुई थीं? हाँ। ^6-9-45
+[271] P: (Ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti? Āmantā.
+[271] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[272] P: (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-46
+[272] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ। ^6-9-46
+[273] P: ##### (Kha) anulomaokāso ^6-9-13-2-0
+[273] H: ##### (ख) सकारात्मक: स्थान ^6-9-13-2-0
+[274] P: (Ka) yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti? Āmantā.
+[274] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[275] P: (Kha) yattha vā pana akusalā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti? Āmantā.
+[275] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[276] P: (Ka) yattha kusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[276] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[277] P: (Kha) yattha vā pana abyākatā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti?
+[277] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं?
+[278] P: Asaññasatte tattha abyākatā dhammā uppajjittha, no ca tattha kusalā dhammā uppajjittha. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjittha. ^6-9-47
+[278] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-47
+[279] P: (Ka) yattha akusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[279] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[280] P: (Kha) yattha vā pana abyākatā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti?
+[280] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं?
+[281] P: Asaññasatte tattha abyākatā dhammā uppajjittha, no ca tattha akusalā dhammā uppajjittha. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha. ^6-9-48
+[281] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-48
+[282] P: ##### (Ga) anulomapuggalokāsā ^6-9-13-3-0
+[282] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-13-3-0
+[283] P: (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti? Āmantā.
+[283] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[284] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti?
+[284] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं?
+[285] P: Suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha akusalā dhammā uppajjittha, no ca tesaṃ tattha kusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjittha.
+[285] H: शुद्ध निवास लोक के प्राणियों में दूसरे हानिकर मन के चलते समय वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न हुई थीं।
+[286] P: (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[286] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[287] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti?
+[287] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं?
+[288] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha kusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjittha. ^6-9-49
+[288] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-49
+[289] P: (Ka) yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[289] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[290] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti?
+[290] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं?
+[291] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha. ^6-9-50
+[291] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-50
+[292] P: ##### (Gha) paccanīkapuggalo ^6-9-13-4-0
+[292] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-13-4-0
+[293] P: (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti? Natthi.
+[293] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है।
+[294] P: (Kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti? Natthi.
+[294] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है।
+[295] P: (Ka) yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti? Natthi.
+[295] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है।
+[296] P: (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti? Natthi. ^6-9-51
+[296] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है। ^6-9-51
+[297] P: (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti? Natthi.
+[297] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है।
+[298] P: (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti? Natthi. ^6-9-52
+[298] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है। ^6-9-52
+[299] P: ##### (Ṅa) paccanīkaokāso ^6-9-13-5-0
+[299] H: ##### (ङ) नकारात्मक: स्थान ^6-9-13-5-0
+[300] P: (Ka) yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti? Āmantā.
+[300] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? हाँ।
+[301] P: (Kha) yattha vā pana akusalā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti? Āmantā.
+[301] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? हाँ।
+[302] P: (Ka) yattha kusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti? Uppajjittha.
+[302] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[303] P: (Kha) yattha vā pana abyākatā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti? Natthi. ^6-9-53
+[303] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है। ^6-9-53
+[304] P: (Ka) yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti? Uppajjittha.
+[304] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[305] P: (Kha) yattha vā pana abyākatā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti? Natthi. ^6-9-54
+[305] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? ऐसा कोई नहीं है। ^6-9-54
+[306] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-13-6-0
+[306] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-13-6-0
+[307] P: (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti?
+[307] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[308] P: Suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na uppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjittha.
+[308] H: शुद्ध निवास लोक के प्राणियों में दूसरे हानिकर मन के चलते समय वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[309] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti? Āmantā.
+[309] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? हाँ।
+[310] P: (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti?
+[310] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[311] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha abyākatā ca dhammā na uppajjittha.
+[311] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक में जन्म लेने वालों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[312] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti? Āmantā. ^6-9-55
+[312] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? हाँ। ^6-9-55
+[313] P: (Ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti?
+[313] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[314] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjittha, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjittha abyākatā ca dhammā na uppajjittha.
+[314] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक में जन्म लेने वालों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[315] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti? Āmantā. ^6-9-56
+[315] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? हाँ। ^6-9-56
+[316] P: #### (3) Anāgatavāro ^6-9-14-0
+[316] H: #### (3) भविष्य का खंड ^6-9-14-0
+[317] P: ##### (Ka) anulomapuggalo ^6-9-14-1-0
+[317] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-14-1-0
+[318] P: (Ka) yassa kusalā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti?
+[318] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होंगी?
+[319] P: Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti.
+[319] H: जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें हितकर परिघटनाएँ उत्पन्न होंगी, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हितकर परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[320] P: (Kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjissantīti? Āmantā.
+[320] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न होंगी? हाँ।
+[321] P: (Ka) yassa kusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti? Āmantā.
+[321] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[322] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa kusalā dhammā uppajjissantīti?
+[322] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न होंगी?
+[323] P: Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ kusalā dhammā uppajjissanti. Itaresaṃ tesaṃ abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti. ^6-9-57
+[323] H: सर्वोच्च मार्ग से युक्त लोगों में और अर्हतों में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-57
+[324] P: (Ka) yassa akusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti? Āmantā.
+[324] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[325] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti?
+[325] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होंगी?
+[326] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-58
+[326] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-58
+[327] P: ##### (Kha) anulomaokāso ^6-9-14-2-0
+[327] H: ##### (ख) सकारात्मक: स्थान ^6-9-14-2-0
+[328] P: (Ka) yattha kusalā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti? Āmantā.
+[328] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होंगी, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी? हाँ।
+[329] P: (Kha) yattha vā pana akusalā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti? Āmantā.
+[329] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या वहाँ हितकर परिघटनाएँ उत्पन्न होंगी? हाँ।
+[330] P: (Ka) yattha kusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[330] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होंगी, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[331] P: (Kha) yattha vā pana abyākatā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti?
+[331] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या वहाँ हितकर परिघटनाएँ उत्पन्न होंगी?
+[332] P: Asaññasatte tattha abyākatā dhammā uppajjissanti, no ca tattha kusalā dhammā uppajjissanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti. ^6-9-59
+[332] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-59
+[333] P: (Ka) yattha akusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[333] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[334] P: (Kha) yattha vā pana abyākatā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti?
+[334] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?
+[335] P: Asaññasatte tattha abyākatā dhammā uppajjissanti, no ca tattha akusalā dhammā uppajjissanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-60
+[335] H: पहचान-रहित प्राणियों के लोक में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। चार या पाँच समूहों वाले अस्तित्व में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-60
+[336] P: ##### (Ga) anulomapuggalokāsā ^6-9-14-3-0
+[336] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-14-3-0
+[337] P: (Ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti?
+[337] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?
+[338] P: Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti.
+[338] H: जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें वहाँ हितकर परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[339] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti? Āmantā.
+[339] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होंगी? हाँ।
+[340] P: (Ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[340] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[341] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti?
+[341] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होंगी?
+[342] P: Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha kusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti. ^6-9-61
+[342] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-61
+[343] P: (Ka) yassa yattha akusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[343] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[344] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti?
+[344] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?
+[345] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-62
+[345] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में, जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होंगी। ^6-9-62
+[346] P: ##### (Gha) paccanīkapuggalo ^6-9-14-4-0
+[346] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-14-4-0
+[347] P: (Ka) yassa kusalā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti? Āmantā.
+[347] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ।
+[348] P: (Kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti?
+[348] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होंगी?
+[349] P: Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti, no ca tesaṃ kusalā dhammā na uppajjissanti. Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjissanti.
+[349] H: जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें हितकर परिघटनाएँ उत्पन्न होंगी। सर्वोच्च मार्ग से युक्त लोगों में और अर्हतों में हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और हितकर परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[350] P: (Ka) yassa kusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti?
+[350] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[351] P: Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ kusalā dhammā na uppajjissanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
+[351] H: सर्वोच्च मार्ग से युक्त लोगों में और अर्हतों में हितकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में हितकर परिघटनाएँ भी उत्पन्न नहीं होंगी और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[352] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti? Āmantā. ^6-9-63
+[352] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ। ^6-9-63
+[353] P: (Ka) yassa akusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti?
+[353] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[354] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
+[354] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[355] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-64
+[355] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ। ^6-9-64
+[356] P: ##### (Ṅa) paccanīkaokāso ^6-9-14-5-0
+[356] H: ##### (ङ) नकारात्मक: स्थान ^6-9-14-5-0
+[357] P: (Ka) yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti? Āmantā.
+[357] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ।
+[358] P: (Kha) yattha vā pana akusalā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti? Āmantā.
+[358] H: (ख) और जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ।
+[359] P: (Ka) yattha kusalā dhammā na uppajjissanti tattha abyākatā dhammā na uppajjissantīti? Uppajjissanti.
+[359] H: (क) जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? उत्पन्न होंगी।
+[360] P: (Kha) yattha vā pana abyākatā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti? Natthi. ^6-9-65
+[360] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी? ऐसा कोई नहीं है। ^6-9-65
+[361] P: (Ka) yattha akusalā dhammā na uppajjissanti tattha abyākatā dhammā na uppajjissantīti? Uppajjissanti.
+[361] H: (क) जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? उत्पन्न होंगी।
+[362] P: (Kha) yattha vā pana abyākatā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti? Natthi. ^6-9-66
+[362] H: (ख) और जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? ऐसा कोई नहीं है। ^6-9-66
+[363] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-14-6-0
+[363] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-14-6-0
+[364] P: (Ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti? Āmantā.
+[364] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ।
+[365] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti?
+[365] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी?
+[366] P: Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha kusalā dhammā na uppajjissanti. Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjissanti.
+[366] H: जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न होंगी। सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और हितकर परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[367] P: (Ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti?
+[367] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[368] P: Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjissanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
+[368] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होंगी और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[369] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti? Āmantā. ^6-9-67
+[369] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ। ^6-9-67
+[370] P: (Ka) yassa yattha akusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti?
+[370] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[371] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
+[371] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में, जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[372] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-68
+[372] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? हाँ। ^6-9-68
+[373] P: #### (4) Paccuppannātītavāro ^6-9-15-0
+[373] H: #### (4) वर्तमान और अतीत का खंड ^6-9-15-0
+[374] P: ##### (Ka) anulomapuggalo ^6-9-15-1-0
+[374] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-15-1-0
+[375] P: (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjitthāti? Āmantā.
+[375] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[376] P: (Kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjantīti?
+[376] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं?
+[377] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā uppajjittha, no ca tesaṃ kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjanti.
+[377] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हानिकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न होती हैं।
+[378] P: (Ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti? Āmantā.
+[378] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[379] P: (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjantīti?
+[379] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं?
+[380] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjittha, no ca tesaṃ kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjanti. ^6-9-69
+[380] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-69
+[381] P: (Ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti? Āmantā.
+[381] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[382] P: (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjantīti?
+[382] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[383] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjittha, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti. ^6-9-70
+[383] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। हानिकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-70
+[384] P: ##### (Kha) anulomaokāso ^6-9-15-2-0
+[384] H: ##### (ख) सकारात्मक: स्थान ^6-9-15-2-0
+[385] P: Yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjitthāti?…Pe…. ^6-9-71
+[385] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं?… ^6-9-71
+[386] P: ##### (Ga) anulomapuggalokāsā ^6-9-15-3-0
+[386] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-15-3-0
+[387] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjitthāti? Āmantā.
+[387] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[388] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti?
+[388] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[389] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjittha, no ca tesaṃ tattha kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjanti.
+[389] H: सभी के मन के भंग होने के क्षण में और हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न होती हैं।
+[390] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[390] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[391] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti?
+[391] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[392] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjanti. ^6-9-72
+[392] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-72
+[393] P: (Ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti? Āmantā.
+[393] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[394] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjantīti?
+[394] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[395] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti. ^6-9-73
+[395] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-73
+[396] P: ##### (Gha) paccanīkapuggalo ^6-9-15-4-0
+[396] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-15-4-0
+[397] P: (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjitthāti? Uppajjittha.
+[397] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[398] P: (Kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti? Natthi.
+[398] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं? ऐसा कोई नहीं है।
+[399] P: (Ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti? Uppajjittha.
+[399] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[400] P: (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti? Natthi. ^6-9-74
+[400] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं? ऐसा कोई नहीं है। ^6-9-74
+[401] P: (Ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti? Uppajjittha.
+[401] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[402] P: (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjantīti? Natthi. ^6-9-75
+[402] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? ऐसा कोई नहीं है। ^6-9-75
+[403] P: ##### (Ṅa) paccanīkaokāso ^6-9-15-5-0
+[403] H: ##### (ङ) नकारात्मक: स्थान ^6-9-15-5-0
+[404] P: Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjitthāti?…Pe…. ^6-9-76
+[404] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं?… ^6-9-76
+[405] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-15-6-0
+[405] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-15-6-0
+[406] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjitthāti?
+[406] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[407] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjittha.
+[407] H: सभी के मन के भंग होने के क्षण में और हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[408] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti? Āmantā.
+[408] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ।
+[409] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti?
+[409] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[410] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjittha.
+[410] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक में जन्म लेने वालों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[411] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti? Āmantā. ^6-9-77
+[411] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-77
+[412] P: (Ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti?
+[412] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[413] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjittha.
+[413] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न हुई थीं। शुद्ध निवास लोक में जन्म लेने वालों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[414] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-78
+[414] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-78
+[415] P: #### (5) Paccuppannānāgatavāro ^6-9-16-0
+[415] H: #### (5) वर्तमान और भविष्य का खंड ^6-9-16-0
+[416] P: ##### (Ka) anulomapuggalo ^6-9-16-1-0
+[416] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-16-1-0
+[417] P: (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjissantīti?
+[417] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होंगी?
+[418] P: Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti.
+[418] H: सर्वोच्च मार्ग के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के उत्पन्न होने के क्षण में हितकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हितकर परिघटनाओं के उत्पन्न होने के क्षण में हितकर परिघटनाएँ भी उत्पन्न होती हैं और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[419] P: (Kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjantīti?
+[419] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं?
+[420] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā uppajjissanti, no ca tesaṃ kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti.
+[420] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हानिकर परिघटनाएँ उत्पन्न होंगी, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होती हैं।
+[421] P: (Ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti? Āmantā.
+[421] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[422] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa kusalā dhammā uppajjantīti?
+[422] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न होती हैं?
+[423] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti. ^6-9-79
+[423] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-79
+[424] P: (Ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti? Āmantā.
+[424] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[425] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjantīti?
+[425] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[426] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjanti. ^6-9-80
+[426] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। हानिकर परिघटनाओं के उत्पन्न होने के क्षण में नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-80
+[427] P: ##### (Kha) anulomaokāso ^6-9-16-2-0
+[427] H: ##### (ख) सकारात्मक: स्थान ^6-9-16-2-0
+[428] P: Yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjissantīti?…Pe…. ^6-9-81
+[428] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?… ^6-9-81
+[429] P: ##### (Ga) anulomapuggalokāsā ^6-9-16-3-0
+[429] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-16-3-0
+[430] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjissantīti?
+[430] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?
+[431] P: Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti.
+[431] H: सर्वोच्च मार्ग के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ भी उत्पन्न होती हैं और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[432] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjantīti?
+[432] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[433] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjissanti, no ca tesaṃ tattha kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti.
+[433] H: सभी के मन के भंग होने के क्षण में और हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होती हैं।
+[434] P: (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[434] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[435] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjantīti?
+[435] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं?
+[436] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha kusalā dhammā uppajjanti. Kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti. ^6-9-82
+[436] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं। हितकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-82
+[437] P: (Ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti? Āmantā.
+[437] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होती हैं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी? हाँ।
+[438] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjantīti?
+[438] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होती हैं?
+[439] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjanti. ^6-9-83
+[439] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं। हानिकर परिघटनाओं के उत्पन्न होने के क्षण में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न होती हैं। ^6-9-83
+[440] P: ##### (Gha) paccanīkapuggalo ^6-9-16-4-0
+[440] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-16-4-0
+[441] P: (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjissantīti?
+[441] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी?
+[442] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjissanti.
+[442] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें हानिकर परिघटनाएँ उत्पन्न होंगी। सर्वोच्च मार्ग के भंग होने के क्षण में, अर्हतों में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के भंग होने के क्षण में हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[443] P: (Kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti?
+[443] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[444] P: Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ akusalā dhammā na uppajjissanti, no ca tesaṃ kusalā dhammā na uppajjanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjanti.
+[444] H: सर्वोच्च मार्ग के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के उत्पन्न होने के क्षण में हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें हितकर परिघटनाएँ उत्पन्न होती हैं। सर्वोच्च मार्ग के भंग होने के क्षण में, अर्हतों में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के भंग होने के क्षण में हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[445] P: (Ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti?
+[445] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[446] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
+[446] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[447] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti? Āmantā. ^6-9-84
+[447] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-84
+[448] P: (Ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti?
+[448] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[449] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
+[449] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में, समाप्ति की ध्यान-अवस्था में लीन लोगों में और पहचान-रहित प्राणियों में हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[450] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjantīti? Āmantā. ^6-9-85
+[450] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-85
+[451] P: ##### (Ṅa) paccanīkaokāso ^6-9-16-5-0
+[451] H: ##### (ङ) नकारात्मक: स्थान ^6-9-16-5-0
+[452] P: Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjissantīti?…Pe…. ^6-9-86
+[452] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी?… ^6-9-86
+[453] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-16-6-0
+[453] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-16-6-0
+[454] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjissantīti?
+[454] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी?
+[455] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjissanti.
+[455] H: सभी के मन के भंग होने के क्षण में और हितकर से अलग मन के उत्पन्न होने के क्षण में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी। सर्वोच्च मार्ग के भंग होने के क्षण में, अर्हतों में, जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[456] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjantīti?
+[456] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं?
+[457] P: Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha kusalā dhammā na uppajjanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjanti.
+[457] H: सर्वोच्च मार्ग के उत्पन्न होने के क्षण में और जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के उत्पन्न होने के क्षण में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न होती हैं। सर्वोच्च मार्ग के भंग होने के क्षण में, अर्हतों में, जिस मन के ठीक बाद लोग सर्वोच्च मार्ग प्राप्त करेंगे, उस मन के भंग होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं।
+[458] P: (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti?
+[458] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[459] P: Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
+[459] H: सभी के मन के भंग होने के क्षण में, हितकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[460] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjantīti? Āmantā. ^6-9-87
+[460] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-87
+[461] P: (Ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti?
+[461] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी?
+[462] P: Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
+[462] H: सभी के मन के भंग होने के क्षण में, हानिकर से अलग मन के उत्पन्न होने के क्षण में और पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी। अंतिम मन से युक्त लोगों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होतीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[463] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-88
+[463] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होतीं? हाँ। ^6-9-88
+[464] P: #### (6) Atītānāgatavāro ^6-9-17-0
+[464] H: #### (6) अतीत और भविष्य का खंड ^6-9-17-0
+[465] P: ##### (Ka) anulomapuggalo ^6-9-17-1-0
+[465] H: ##### (क) सकारात्मक: व्यक्ति ^6-9-17-1-0
+[466] P: (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjissantīti?
+[466] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न होंगी?
+[467] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjittha, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti.
+[467] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें हितकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हितकर परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[468] P: (Kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti? Āmantā.
+[468] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न हुई थीं? हाँ।
+[469] P: (Ka) yassa kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti?
+[469] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी?
+[470] P: Pacchimacittasamaṅgīnaṃ tesaṃ kusalā dhammā uppajjittha, no ca tesaṃ abyākatā dhammā uppajjissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti.
+[470] H: अंतिम मन से युक्त लोगों में हितकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हितकर परिघटनाएँ भी उत्पन्न हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी।
+[471] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti? Āmantā. ^6-9-89
+[471] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न हुई थीं? हाँ। ^6-9-89
+[472] P: (Ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti?
+[472] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी?
+[473] P: Pacchimacittasamaṅgīnaṃ tesaṃ akusalā dhammā uppajjittha, no ca tesaṃ abyākatā dhammā uppajjissanti. Itaresaṃ tesaṃ akusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti.
+[473] H: अंतिम मन से युक्त लोगों में हानिकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी। बाकी सबमें हानिकर परिघटनाएँ भी उत्पन्न हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी।
+[474] P: (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-90
+[474] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न हुई थीं? हाँ। ^6-9-90
+[475] P: ##### (Kha) anulomaokāso ^6-9-17-2-0
+[475] H: ##### (ख) सकारात्मक: स्थान ^6-9-17-2-0
+[476] P: Yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjissantīti?…Pe…. ^6-9-91
+[476] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?… ^6-9-91
+[477] P: ##### (Ga) anulomapuggalokāsā ^6-9-17-3-0
+[477] H: ##### (ग) सकारात्मक: व्यक्ति और स्थान ^6-9-17-3-0
+[478] P: (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjissantīti?
+[478] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी?
+[479] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti.
+[479] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न होंगी।
+[480] P: (Kha) yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjitthāti?
+[480] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं?
+[481] P: Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha akusalā dhammā uppajjissanti, no ca tesaṃ tattha kusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjittha.
+[481] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न हुई थीं।
+[482] P: (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti?
+[482] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी?
+[483] P: Pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā dhammā uppajjittha, no ca tesaṃ tattha abyākatā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti.
+[483] H: अंतिम मन से युक्त लोगों में वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी।
+[484] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjitthāti?
+[484] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं?
+[485] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha kusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjittha. ^6-9-92
+[485] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हितकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-92
+[486] P: (Ka) yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti?
+[486] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी?
+[487] P: Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā dhammā uppajjittha, no ca tesaṃ tattha abyākatā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti.
+[487] H: अंतिम मन से युक्त लोगों में वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं, पर उनमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न हुई थीं और नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी।
+[488] P: (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjitthāti?
+[488] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न हुई थीं?
+[489] P: Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjittha. ^6-9-93
+[489] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय और पहचान-रहित प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न होंगी, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं। बाकी चार या पाँच समूहों वाले अस्तित्व के प्राणियों में वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ भी उत्पन्न होंगी और हानिकर परिघटनाएँ भी उत्पन्न हुई थीं। ^6-9-93
+[490] P: ##### (Gha) paccanīkapuggalo ^6-9-17-4-0
+[490] H: ##### (घ) नकारात्मक: व्यक्ति ^6-9-17-4-0
+[491] P: (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjissantīti? Natthi.
+[491] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं होंगी? ऐसा कोई नहीं है।
+[492] P: (Kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjitthāti? Uppajjittha.
+[492] H: (ख) और जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[493] P: (Ka) yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti? Natthi.
+[493] H: (क) जिस व्यक्ति में हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? ऐसा कोई नहीं है।
+[494] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjitthāti? Uppajjittha. ^6-9-94
+[494] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं। ^6-9-94
+[495] P: (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti? Natthi.
+[495] H: (क) जिस व्यक्ति में हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? ऐसा कोई नहीं है।
+[496] P: (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjitthāti? Uppajjittha. ^6-9-95
+[496] H: (ख) और जिस व्यक्ति में नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं। ^6-9-95
+[497] P: ##### (Ṅa) paccanīkaokāso ^6-9-17-5-0
+[497] H: ##### (ङ) नकारात्मक: स्थान ^6-9-17-5-0
+[498] P: Yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjissantīti?…Pe…. ^6-9-96
+[498] H: जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी?… ^6-9-96
+[499] P: ##### (Ca) paccanīkapuggalokāsā ^6-9-17-6-0
+[499] H: ##### (च) नकारात्मक: व्यक्ति और स्थान ^6-9-17-6-0
+[500] P: (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjissantīti?
+[500] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी?
+[501] P: Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na uppajjissanti. Asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjissanti.
+[501] H: शुद्ध निवास लोक के प्राणियों में दूसरे मन के चलते समय वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, पर उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न होंगी। पहचान-रहित प्राणियों में वहाँ हितकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं और हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी।
+[502] P: (Kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti?
+[502] H: (ख) और जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं?
+[503] P: Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha kusalā dhammā na uppajjittha. Asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjittha.
+[503] H: सर्वोच्च मार्ग से युक्त लोगों में, अर्हतों में और जो इस मन के ठीक बाद सर्वोच्च मार्ग प्राप्त करेंगे, उनमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं होंगी, पर उनमें वहाँ हितकर परिघटनाएँ उत्पन्न हुई थीं। पहचान-रहित प्राणियों में वहाँ हानिकर परिघटनाएँ भी उत्पन्न नहीं होंगी और हितकर परिघटनाएँ भी उत्पन्न नहीं हुई थीं।
+[504] P: (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti? Uppajjissanti.
+[504] H: (क) जिस व्यक्ति में जिस स्थान पर हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? उत्पन्न होंगी।
+[505] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti? Uppajjittha. ^6-9-97
+[505] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हितकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं। ^6-9-97
+[506] P: (Ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti? Uppajjissanti.
+[506] H: (क) जिस व्यक्ति में जिस स्थान पर हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं, क्या उसमें वहाँ नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी? उत्पन्न होंगी।
+[507] P: (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjitthāti? Uppajjittha.
+[507] H: (ख) और जिस व्यक्ति में जिस स्थान पर नैतिक रूप से अनिर्धारित परिघटनाएँ उत्पन्न नहीं होंगी, क्या उसमें वहाँ हानिकर परिघटनाएँ उत्पन्न नहीं हुई थीं? उत्पन्न हुई थीं।
+[508] P: Uppādavāro. ^6-9-98
+[508] H: उत्पन्न होने का खंड। ^6-9-98
+[509] P: #### Nirodhavāro ^6-9-18-0
+[509] H: #### समाप्त होने का खंड ^6-9-18-0
