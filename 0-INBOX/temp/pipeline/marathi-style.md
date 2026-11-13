@@ -93,6 +93,15 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
 - nirodhasamāpatti = लोप पावण्याची ध्यान-प्राप्ती; niyāma = निश्चित मार्ग; parinipphanna = पूर्णपणे निर्माण झालेला; upādā (anupādā°) = धरून ठेवणे.
 - Citation brackets keep canon references in Pāli names in Devanagari with numbers: [पुग्गलपञ्ञत्ति मातिका 4.24; अंगुत्तर निकाय 4.95-96], [धम्मसंगणी तिकमातिका …].
 
+### pi-6 additions (pi-6 run, 2026-11-12; full list in AI_translation/marathi/pi-6-pali-marathi-termbase-plain.md)
+- Yamaka = जोड्या; chapter titles «X च्या जोड्या» (मुळांच्या, समूहांच्या, इंद्रिय-क्षेत्रांच्या, तत्त्वांच्या, सत्यांच्या, रचनांच्या, सुप्त प्रवृत्तींच्या, मनाच्या, घटनांच्या, क्षमतांच्या जोड्या); colophon «“X च्या जोड्या” समाप्त.»; book end «“जोड्या” ग्रंथ समाप्त.».
+- «Natthi.» by question type: person «असे कोणी नाही.», place «असे कोणतेही स्थान नाही.», mind «असे कोणतेही मन नाही.»; «no ca» = «पण … नाही» / «… नाही असे नाही».
+- parijānāti = «Xचे पूर्ण आकलन करतो» (genitive object); ṭhapetvā = वगळून; vitthāretabbaṃ = विस्ताराने मांडावे; «tesaṃ» after a moment / place phrase = «त्यांच्या बाबतीत».
+- dhātu as element = तत्त्व, as sphere = लोक (kāmadhātu = इंद्रियसुखांचा लोक); dhamma as phenomena = घटना, beside dhammāyatana / dhammadhātu = मनाचा विषय; saṅkhāra (Saṅkhārayamaka) = रचना; anusaya = सुप्त प्रवृत्ती; indriya = क्षमता.
+- diṭṭhisaññā = मतांच्या स्वरूपातील ओळख (a view, not eyesight); the sota pun = «“सोत” (कान किंवा प्रवाह)», the one allowed gloss.
+- «ye … rūpāvacaraṃ arūpāvacaraṃ upapajjitvā» = «सूक्ष्म भौतिक किंवा अभौतिक लोकात» (either world); person qualifiers joined with «आणि».
+- Capital «…Pe…» = one «…», like «…pe…».
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md

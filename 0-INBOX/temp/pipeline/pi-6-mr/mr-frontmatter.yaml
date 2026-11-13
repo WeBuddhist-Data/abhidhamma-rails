@@ -1,0 +1,29 @@
+---
+title: जोड्या - सोपी मराठी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Yamakapāḷi
+root_text: 1-SOURCES/Text/pi-6.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-6_split_chapters
+source_text_id: IZ74xHeWa9xortlOhL6cc
+source_edition_id: vYtNelE9z5AWQ0jAv82cC
+translation_of: IZ74xHeWa9xortlOhL6cc
+language: Marathi
+lang_tag: mr
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/marathi/pi-6-pali-marathi-termbase-plain.md
+termbase_approved: 2026-11-12
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-6-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; a sample first, remaining chapters run in parallel, then one cross-chapter alignment pass; independent bilingual review with fixes applied; no dashes unless the Pāli has one (user rule)"
+zeroshot_split: AI_translation/marathi/pi-6-marathi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/marathi/pi-6-keywords-by-reference-pali-marathi-plain.md
+senses: AI_translation/marathi/pi-6-pali-word-marathi-senses-plain.md
+segment_ids: "^T-1 … ^6-10-482 (3128 blocks, matching the source)"
+chapters: preamble + 10 yamakas in 44 files (Mūlayamaka … Indriyayamaka)
+split_chapters: AI_translation/marathi/pi-6-marathi-plain-rails_split_chapters
+generated: 2026-11-12
+status: draft
+---

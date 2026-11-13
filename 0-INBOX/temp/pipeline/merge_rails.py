@@ -12,7 +12,15 @@ src_dir, tr_dir, fm_path, out = map(pathlib.Path, sys.argv[1:5])
 
 def order(d):
     files = [p for p in d.glob("*.md")]
-    key = lambda p: (-1 if p.stem == "preamble" else int(p.stem.split("-")[0]))
+    def key(p):  # preamble first, then by every leading number (2-01 before 2-02)
+        if p.stem == "preamble":
+            return (-1,)
+        nums = []
+        for part in p.stem.split("-"):
+            if not part.isdigit():
+                break
+            nums.append(int(part))
+        return tuple(nums)
     return sorted(files, key=key)
 
 
