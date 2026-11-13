@@ -17,7 +17,7 @@ audience_profile: AI_translation/audience_profile/plain.md
 termbase: AI_translation/hindi/pi-6-pali-hindi-termbase-plain.md
 termbase_approved: 2026-11-12
 pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-6-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
-approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a sample at each step, remaining files run in parallel at the user's request; cross-file alignment pass; independent bilingual review and fixes, with three wording decisions by the user; three source slips emended at ^6-9-192, ^6-10-357 and ^6-10-361 with a bracket note; dashes only where the Pāli has them (user rule)"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; user reviewed a sample at each step, remaining files run in parallel at the user's request; cross-file alignment pass; independent bilingual review and fixes, with three wording decisions by the user; the Pāli is translated as written, source slips included (user rule 2026-11-13: no emendations unless the source data is updated; only spelling slips are rendered as the word meant); dashes only where the Pāli has them (user rule)"
 zeroshot_split: AI_translation/hindi/pi-6-hindi-plain-zeroshot_split_chapters
 keyword_map: AI_translation/hindi/pi-6-keywords-by-reference-pali-hindi-plain.md
 senses: AI_translation/hindi/pi-6-pali-word-hindi-senses-plain.md
