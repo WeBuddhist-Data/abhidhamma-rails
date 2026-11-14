@@ -1,0 +1,111 @@
+# pi-1 Pāli→Russian plain termbase decisions (brief ru-termbase-brief.md): key<TAB>term<TAB>reason
+Dhamma|0	объекты ума	pi-1 form (55 of 76), plural concept as in сфера/элемент объектов ума (pi-5 same); pi-3/4 «умственные объекты» not a candidate: cross-book
+sahagataṃ|0	сопровождаемый	core sahagata; pi-5
+uppannaṃ|0	возникший	participle dictionary form; matrix «Возникшие явления» and pi-3/4/5 uppannā; «возникает» in «uppannaṃ hoti» is the verbal rendering of the same sense
+kāya|0	тело	pi-3/4/5; most used
+rūpa|1	мир форм	pi-4 prior; core rūpāvacara «относящийся к миру форм»
+sukhaṃ|0	счастье	core sukha (factor); pi-4/5
+jīvita|0	жизненный	pi-3/4/5 prior; most used (жизненная способность)
+sammā|0	правильный	core; pi-3/4/5
+kāma|1	чувственный	pi-5 prior; most used
+ujukatā|0	прямота	core term list (kāyujukatā/cittujukatā «прямота»); see note on ujutā
+kusalaṃ|0	благой ум	sense stands for the wholesome mind; 77 of 111; headings «Благой ум»
+avacara|0	относящийся к миру	core kāmāvacara/rūpāvacara wording
+Rūpāvacara|0	относящийся к миру форм	core term; pi-5 prior
+Arūpa|0	мир без форм	pi-5 prior «мир без форм»; parallel to rūpa|1 «мир форм»
+Suññataṃ|0	пустой	user 2026-11-14 (termbase approval): the adjective the text uses (40x, «пустое» погружение)
+vipāka|0	результат действий	core vipāka = результат действий; clearer for plain reader
+mano|0	ум	core; pi-3/4/5
+hetuka|0	корни	majority; plural concept as in «имеющий корни» / «без корней»
+Kiriyāmano|0	функциональный … ум	mano = ум (core); heading «Функциональный элемент ума»
+Yo|0	то что	frame «То, что …» (term list); most used
+cetasikaṃ|0	душевный	pi-5 prior (adjective «mental»); majority
+Yaṃ|0	то что	frame «То, что …»; most used
+Nikkhepa|0	сводка	core nikkhepa = сводка; dictionary form
+sañcetanā|0	проявление намерения	term list cetanā string; keeps sañcetanā distinct from cetanā «намерение»
+samuppannā|0	возникший	pi-5; most used
+upekkhāsahagataṃ|0	сопровождаемый невозмутимостью	core sahagata; dictionary form
+cittāni|0	виды ума	ungapped form; user decision cittuppāda «вид ума» family
+ajjhattaṃ|0	внутри себя	user 2026-11-14 (termbase approval): the adverb the text uses (45x)
+dukkha|1	болезненный	core sukha/dukkha (feeling) = приятный/болезненный; pi-3
+sukha|1	счастье	core sukha (factor/happiness); pi-3/4/5
+vāyo|0	ветер	pi-5; most used
+bahiddhā|0	вовне	user 2026-11-14 (termbase approval): the adverb the text uses (45x)
+manasikārā|0	внимание	core manasikāra; pi-5
+ānañcāyatana|0	сфера бесконечного пространства	the translation always writes the full phrase; «сфера бесконечного» is a map fragment and unclear alone
+samatikkamā|0	преодолеть	dictionary form (infinitive); majority
+samatikkamma|0	преодолеть	dictionary form (infinitive); majority; same as samatikkamā
+vacī|0	речевой	pi-5 prior; majority (речевое действие)
+micchā|0	ложный	core micchatta «ложное»; pi-4; majority
+abhiniveso|0	убеждённость	keeps abhinivesa distinct from parāmāsa «приверженность» (sīlabbataparāmāsa) and diṭṭhigata «приверженность воззрениям» in the tie and view lists; attested in the gantha list
+ottappitabbena|0	чего следует бояться	term list hirī/ottappa string «того, чего следует бояться»; complete form
+sārāgo|0	пристрастие	rāgo «страсть» stands next to it in the greed list: keep distinct (harmonise 4-01)
+paccakkhakammaṃ|0	способность видеть воочию	term as used in apaccakkhakamma «неспособность видеть воочию»; majority
+vilekho|0	терзание	majority; plain sense of manovilekha
+thambhitattaṃ|0	оцепенелость	majority
+kusalassa|0	благой	6 of 7; adjectival use (kusalassa kammassa …)
+sukhasahagataṃ|0	сопровождаемый счастьем	core sahagata; dictionary form
+uppannā|0	возникший	matrix «Возникшие явления»; pi-3/4/5 prior
+ārammaṇā|0	объект	core ārammaṇa = объект; pi-3/5 prior
+vipākā|0	являющийся результатом	majority; heading family Kusalavipākā / vipākāni
+akusalassa|0	неблагой	3 of 4; adjectival use; parallel to kusalassa
+Kiriyā mano|0	функциональный … ум	same as Kiriyāmano
+hetukā|0	имеющий корни	pi-3/5 prior; coordinator cleanup rule (hetukā «имеющий корни»)
+rūpāvacaraṃ|0	относящийся к миру форм	core term; pi-5
+akusalaṃ|0	неблагой ум	sense stands for the unwholesome mind; 59 of 65; parallel to kusalaṃ
+rūpāvacarā|0	относящийся к миру форм	core term; ungapped dictionary form
+rūpaṃ|0	материальная форма	core rūpa (matter); pi-3/5
+arūpāvacarā|0	относящийся к миру без форм	core term; ungapped dictionary form
+upādāniyaṃ|0	служащий объектом цепляния	core upādāniya; «его» depends on context
+viññeyyaṃ|0	познаваемый	dictionary form; pi-3/5
+hetukaṃ|0	имеющий корни	family with hetukā; pi-3/5 prior
+sekkha|0	обучающийся	core sekkha; pi-3
+asaṃkiliṭṭha|0	неомрачённый	matrix; pi-3 prior; majority
+upādiṇṇupādāniyaṃ|0	охваченный цеплянием и служащий его объектом	matrix wording, ungapped
+sota|0	ухо	pi-3/4/5; majority
+cakkhu|0	глаз	pi-3/4/5; majority
+ghāna|0	нос	pi-3/4/5; majority
+jivhā|0	язык	pi-3/4/5; majority
+rūpaṃ sappaṭighaṃ|0	материальная форма способная к соударению	ungapped; core sappaṭigha
+sutaṃ|0	услышанный	dictionary form (masc.), parallel to viññātaṃ «познанный»
+mutaṃ|0	ощущённый	dictionary form (masc.), parallel to viññātaṃ «познанный»
+viññeyyaṃ rūpaṃ|0	материальная форма познаваемая	ungapped, same pattern as rūpaṃ sappaṭighaṃ
+ārammaṇo|0	объект	family with ārammaṇā; pi-5 prior; core
+sattānaṃ|0	существа	pi-4/5 prior
+rūpaṃ cittasamuṭṭhānaṃ|0	материальная форма порождённая умом	ungapped; core cittasamuṭṭhāna
+rūpaṃ cittasahabhu|0	материальная форма сосуществующая с умом	ungapped; core cittasahabhū
+rūpaṃ cittānuparivatti|0	материальная форма следующая за умом	ungapped; core cittānuparivattin
+samuṭṭhānaṃ kāyakammaṃ|0	порождённое ими телесное действие	complete form
+ekaṭṭhā ca kilesā|0	омрачения пребывающие вместе с ними	complete form
+rūpāvacare|0	мир форм	dictionary form (nominative)
+kāmāvacare|0	мир чувственных желаний	dictionary form (nominative)
+avacare|0	мир	dictionary form (nominative)
+arūpāvacare|0	мир без форм	dictionary form (nominative)
+upādāniyā|0	служащий объектом цепляния	core upādāniya; majority
+yañca|0	та … которая	majority
+pahātabbā|0	устраняемый	core (устраняемый); pi-3 prior; majority
+sīla|1	нравственность	core sīla; pi-4/5
+assutavā|0	не слышавший Учения	the translation always writes «не слышавший Учения обычный человек»; clearer for a plain reader
+Ito|0	это Учение	tie 3/3; sense is «this Teaching» (ito bahiddhā); clearer than bare «этот»
+pahātabba|0	устраняться	stem in pahātabbahetuka: user decision «чьи корни устраняются …»; majority
+dhammā dassanena pahātabbahetukā|0	явления чьи корни устраняются видением истины	user decision ^1-M1-9
+bhāvanāya pahātabba|0	устраняться развитием ума	user decision pahātabbahetukā; majority
+pahātabbahetukā|0	чьи корни устраняются	user decision ^1-M1-9
+sekkhā|0	относящийся к обучающимся	matrix wording; majority
+asekkhā|0	относящийся к завершившим обучение	matrix wording; majority
+cittacetasikā|0	ум и сопутствующие уму	plural concept; majority
+samaṅgissa|0	обладающий	participle; majority
+anāgatārammaṇā|0	с будущим объектом	matrix wording; majority
+kamyatā|0	желание	majority
+vipākato|0	в виде результатов действий	sense «in kusalato vipākato kiriyato»: the parenthetical series is always «в благом виде, в виде результатов действий и в функциональном виде» (56x)
+para|0	другие	pi-4/5 prior
+pītikā|0	восторг	pi-3 prior; core pīti
+yoniso|0	вдумчиво	term list (pi-4)
+kusalesu|0	благой	pi-4/5 prior; majority
+kiriyato|0	в функциональном виде	one term per series member, see vipākato (36x)
+kusalato|0	в благом виде	one term per series member, see vipākato (56x)
+viññeyyā|0	познаваемый	dictionary form; pi-3/5 prior
+# family re-alignments (single-candidate senses)
+pītisahagataṃ|0	сопровождаемый восторгом	family: sahagataṃ/sukhasahagataṃ/upekkhāsahagataṃ use the participle (dictionary form)
+pahātabbaṃ|0	устраняемый	family: pahātabbā «устраняемый», same sense «to be abandoned»
+Avaseso|0	остальной	family: avasesaṃ/avasesañca «остальной», same sense

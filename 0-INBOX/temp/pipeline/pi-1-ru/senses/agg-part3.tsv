@@ -1,0 +1,620 @@
+sappi	en≈ ghee ×3	топлёное масло=3[1-645,1-742,1-880]	NDE=0
+madhu	en≈ honey ×3	мёд=3[1-645,1-742,1-880]	NDE=0
+maṃsaṃ	en≈ meat ×3	мясо=3[1-645,1-742,1-880]	NDE=0
+khīraṃ	en≈ milk ×3	молоко=3[1-645,1-742,1-880]	NDE=0
+phāṇitaṃ	en≈ molasses ×3	патока=3[1-645,1-742,1-880]	NDE=0
+mukha	en≈ mouth ×3	рот=3[1-645,1-742,1-880]	NDE=0
+kummāso	en≈ porridge ×3	каша=3[1-645,1-742,1-880]	NDE=0
+ajjhoharaṇīyaṃ	en≈ swallow ×3	проглатывать=3[1-645,1-742,1-880]	NDE=0
+danta	en≈ teeth ×3	зуб=3[1-645,1-742,1-880]	NDE=0
+gala	en≈ throat ×3	горло=3[1-645,1-742,1-880]	NDE=0
+kakkhaḷaṃ	en≈ hard ×5	твёрдый=5[1-647,1-648,1-649,1-650…]	NDE=0
+garukaṃ	en≈ heavy ×4	тяжёлый=4[1-647,1-648,1-649,1-650]	NDE=0
+lahukaṃ	en≈ light ×4	лёгкий=4[1-647,1-648,1-649,1-650]	NDE=0
+pharusaṃ	en≈ rough ×4	шероховатый=4[1-647,1-648,1-649,1-650]	NDE=0
+saṇhaṃ	en≈ smooth ×4	гладкий=4[1-647,1-648,1-649,1-650]	NDE=0
+mudukaṃ	en≈ soft ×4	мягкий=4[1-647,1-648,1-649,1-650]	NDE=0
+kāyo	en≈ body ×1	тело=1[1-648]	NDE=0
+kāyamhi	en≈ body ×1	тело=1[1-649]	NDE=0
+kāyaṃ	en≈ body ×1	тело=1[1-650]	NDE=0
+bandhanattaṃ	en≈ binding ×4	связующее свойство=4[1-651,1-726,1-856,1-968]	NDE=0
+bandhanattaṃ rūpassa	en≈ binding of material ×4	связующее свойство материальной формы=4[1-651,1-726,1-856,1-968]	NDE=0
+sineho	en≈ affection ×9 | moisture ×4	приязнь=9[1-1065,1-1103,1-1104,1-1119…] | влага=4[1-651,1-726,1-856,1-968]	NDE=0
+kammassa katattā	en≈ due to past ×66	вследствие совершённых действий=66[1-652,1-653,1-654,1-655…]	NDE=0
+kammassa	en≈ past action ×62	действие=62[1-652,1-653,1-654,1-655…]	NDE=0
+upādiṇṇa	en≈ past action ×36 | produced ×36 | produced by past ×36	охваченный цеплянием=36[1-654,1-655,1-750,1-751…]	NDE=0
+rūpaṃ appaṭighaṃ	en≈ form that makes ×5	материальная форма не способная к соударению=5[1-659,1-944,1-945,1-948…]	NDE=0
+cittasamuṭṭhānaṃ	en≈ arising from mind ×5	порождённый умом=5[1-666,1-667,1-769,1-770…]	NDE=0
+cittajaṃ	en≈ born ×6	рождённый умом=6[1-666,1-667,1-769,1-770…]	NDE=0
+rūpaṃ cittasamuṭṭhānaṃ	en≈ form that arises ×1 | material form arising ×1	материальная форма порождённая умом=1[1-666] | материальная форма … порождённый умом=1[1-U1]	NDE=0
+rūpaṃ cittasahabhu	en≈ form that exists ×1 | material form existing ×1	материальная форма сосуществующая с умом=1[1-668] | материальная форма … сосуществующий с умом=1[1-U1]	NDE=0
+rūpaṃ cittānuparivatti	en≈ form that accompanies ×1 | material form accompanying ×1	материальная форма следующая за умом=1[1-670] | материальная форма … следующий за умом=1[1-U1]	NDE=0
+cakkhusamphassajāya	en≈ born ×4 | eye-contact ×4	рождённый контактом глаза=4[1-680,1-688,1-786,1-798]	NDE=0
+cakkhusamphassajāya vedanāya	en≈ feeling born ×4	чувство рождённое контактом глаза=4[1-680,1-688,1-786,1-798]	NDE=0
+kāyasamphassajāya vedanāya	en≈ feeling born ×4	чувство рождённое контактом тела=4[1-684,1-692,1-792,1-804]	NDE=0
+rūpassa na lahutā	en≈ lightness of material ×3	не … лёгкость материальной формы=3[1-729,1-858,1-860]	NDE=0
+rūpassa na mudutā	en≈ pliancy of material ×3	не … мягкость материальной формы=3[1-731,1-861,1-863]	NDE=0
+rūpassa na kammaññatā	en≈ workability of material ×3	не … работоспособность материальной формы=3[1-733,1-864,1-866]	NDE=0
+rūpassa na upacayo	en≈ growth of material ×3	не … рост материальной формы=3[1-735,1-867,1-869]	NDE=0
+rūpassa na santati	en≈ continuity of material ×3	не … непрерывность материальной формы=3[1-737,1-870,1-872]	NDE=0
+rūpassa na jaratā	en≈ ageing of material ×3	не … старение материальной формы=3[1-739,1-873,1-875]	NDE=0
+rūpassa na aniccatā	en≈ impermanence of material ×3	не … непостоянство материальной формы=3[1-741,1-876,1-878]	NDE=0
+bāhiraṃ sappaṭighaṃ	en≈ external and makes ×1	относящийся к внешнему и способный к соударению=1[1-757]	NDE=0
+bāhiraṃ appaṭighaṃ	en≈ external and makes ×1	относящийся к внешнему и не способный к соударению=1[1-758]	NDE=0
+dhoso	en≈ voice ×1	голос=1[1-850]	NDE=0
+upādā sappaṭighaṃ	en≈ derived and makes ×2	производный и способный к соударению=2[1-890,1-892]	NDE=0
+upādā appaṭighaṃ	en≈ derived and makes ×2	производный и не способный к соударению=2[1-891,1-893]	NDE=0
+upādiṇṇaṃ sappaṭighaṃ	en≈ action and makes ×2	охваченный цеплянием и способный к соударению=2[1-906,1-908]	NDE=0
+upādiṇṇaṃ appaṭighaṃ	en≈ action and makes ×2	охваченный цеплянием и не способный к соударению=2[1-907,1-909]	NDE=0
+viññātaṃ rūpaṃ	en≈ material form cognized ×1	материальная форма познанная=1[1-966]	NDE=0
+manasā	en≈ mind ×3	ум=3[1-966,1-1352,1-1354]	NDE=0
+kakkhaḷattaṃ	en≈ hardness ×1	твёрдость=1[1-967]	NDE=0
+khara	en≈ harsh ×1	жёсткий=1[1-967]	NDE=0
+usumaṃ	en≈ heat ×1	жар=1[1-969]	NDE=0
+usmā	en≈ warmth ×1	тепло=1[1-969]	NDE=0
+āyatanaṃ cakkhuviññeyyaṃ rūpaṃ	en≈ base is material ×3	сфера … есть материальная форма познаваемая глазом=3[1-972,1-973,1-974]	NDE=0
+rūpaṃ manoviññeyyaṃ rūpaṃ	en≈ form is material ×1	материальная форма есть материальная форма познаваемая умом=1[1-972]	NDE=0
+āyatanaṃ manodhātuviññeyyaṃ rūpaṃ	en≈ base are material ×2	сфера … есть материальная форма познаваемая элементом ума=2[1-973,1-974]	NDE=0
+rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ	en≈ form is material ×2	материальная форма есть материальная форма познаваемая элементом умственного сознания=2[1-973,1-974]	NDE=0
+manāpiyo	en≈ agreeable ×1	желанный=1[1-974]	NDE=0
+amanāpiyo	en≈ disagreeable ×1	нежеланный=1[1-974]	NDE=0
+samphasso	en≈ touch ×1	контакт=1[1-974]	NDE=0
+Aṭṭhama	en≈ eighth ×1	восьмой=1[1-984]	NDE=0
+vacīkammaṃ manokammaṃ	en≈ action and mental ×14	речевое действие умственное действие=14[1-985,1-986,1-997,1-1010…]	NDE=0
+samuṭṭhānaṃ kāyakammaṃ	en≈ action arising ×14	порождённое … телесное действие=8[1-985,1-986,1-997,1-1010…] | порождённое ими телесное действие=6[1-1249,1-1264,1-1266,1-1271…]	NDE=0
+sampayutto	en≈ associated ×28	связанный=28[1-985,1-986,1-997,1-1000…]	NDE=0
+kāyakammaṃ	en≈ bodily action ×14	телесное действие=14[1-985,1-986,1-997,1-1010…]	NDE=0
+manokammaṃ	en≈ mental action ×14 | mental action arising ×14	умственное действие=14[1-985,1-986,1-997,1-1010…]	NDE=0
+mūlāni	en≈ roots ×6	корни=6[1-985,1-986,1-997,1-1032…]	NDE=0
+vacīkammaṃ	en≈ verbal action ×14	речевое действие=14[1-985,1-986,1-997,1-1010…]	NDE=0
+kusalamūlāni	en≈ wholesome roots ×1	благие корни=1[1-985]	NDE=0
+kilesā	en≈ defilements ×32 | defilements are states ×2	омрачения=32[1-986,1-997,1-1010,1-1011…]	NDE=0
+ekaṭṭhā ca kilesā	en≈ defilements that occur ×13	и омрачения пребывающие вместе=7[1-986,1-997,1-1010,1-1011…] | омрачения пребывающие вместе с ними=6[1-1249,1-1264,1-1266,1-1271…]	NDE=0
+ekaṭṭhā	en≈ occur ×13 | together ×13	пребывающий вместе=13[1-986,1-997,1-1010,1-1011…]	NDE=0
+akusalamūlāni	en≈ unwholesome roots ×5	неблагие корни=5[1-986,1-997,1-1032,1-1249…]	NDE=0
+rūpāvacare	en≈ Fine-Material Sphere ×20 | fine-material sphere ×20	мир форм=12[1-1275,1-1276,1-1277,1-1278…] | в мире форм=8[1-988,1-990,1-1000,1-1001…]	NDE=0
+bhūmiyaṃ	en≈ plane ×21	уровень=21[1-988,1-989,1-990,1-1000…]	NDE=0
+sukhāya	en≈ pleasant ×3	приятный=3[1-988,1-1387,1-M1-2]	NDE=0
+sukhāya vedanāya	en≈ pleasant feeling ×4	приятное чувство=4[1-988,1-1387,1-1389,1-M1-2]	NDE=0
+kāmāvacare	en≈ sense sphere ×20 | Sense Sphere ×20	мир чувственных желаний=12[1-1275,1-1276,1-1277,1-1278…] | в мире чувственных желаний=8[1-988,1-989,1-990,1-1000…]	NDE=0
+avacare	en≈ sphere ×21	мир=12[1-1275,1-1276,1-1277,1-1278…] | в мире=9[1-988,1-989,1-990,1-1000…]	NDE=0
+dukkhāya	en≈ painful ×3	болезненный=3[1-989,1-1388,1-M1-2]	NDE=0
+dukkhāya vedanāya	en≈ painful feeling ×4	болезненное чувство=4[1-989,1-1388,1-1389,1-M1-2]	NDE=0
+arūpāvacare	en≈ Immaterial Sphere ×9 | immaterial sphere ×9	мир без форм=6[1-1276,1-1278,1-1280,1-1282…] | в мире без форм=3[1-990,1-1002,1-1005]	NDE=0
+adukkhamasukhāya	en≈ painful nor pleasant ×3 | painful ×2 | pleasant ×2	ни болезненный ни приятный=3[1-990,1-1389,1-M1-2]	NDE=0
+vipākadhammadhammā	en≈ States that produce ×3	явления способные приносить результаты=3[1-992,1-1391,1-M1-3]	NDE=0
+akusalā dhammā	en≈ unwholesome states ×10 | Unwholesome states ×10	неблагие явления=10[1-992,1-995,1-1020,1-1218…]	NDE=0
+upādiṇṇupādāniyā	en≈ action and subject ×3	охваченный цеплянием и служащий его объектом=3[1-994,1-1393,1-M1-4]	NDE=0
+upādāniyā	en≈ subject to clinging ×22 | clinging ×14 | clinging and subject ×1 | clinging but subject ×1	служащий объектом цепляния=15[1-1225,1-1226,1-1229,1-1230…] | служащий его объектом=7[1-994,1-995,1-996,1-1393…]	NDE=0
+dhammā upādiṇṇupādāniyā	en≈ states produced ×2 | States produced ×2	явления охваченные цеплянием и служащие его объектом=2[1-994,1-1393]	NDE=0
+Sāsavā	en≈ subject to taints ×40	подверженный влечениям=40[1-994,1-995,1-998,1-1020…]	NDE=0
+āsavā	en≈ taints ×47	влечения=47[1-994,1-995,1-998,1-1020…]	NDE=0
+yañca	en≈ whatever ×16	та … которая=10[1-1217,1-1218,1-1393,1-1394…] | и та … которая=6[1-994,1-995,1-1043,1-1058…]	NDE=0
+anupādiṇṇupādāniyā	en≈ action but subject ×3	не охваченный цеплянием но служащий его объектом=3[1-995,1-1394,1-M1-4]	NDE=0
+dhammā anupādiṇṇupādāniyā	en≈ states not produced ×2 | States not produced ×2	явления не охваченные цеплянием но служащие его объектом=2[1-995,1-1394]	NDE=0
+Sāsavā kusalākusalā dhammā	en≈ States subject ×3 | states subject ×3 | unwholesome states subject ×3	подверженные влечениям благие и неблагие явления=3[1-995,1-1020,1-1218]	NDE=0
+phalāni	en≈ fruits ×50	плоды=50[1-996,1-999,1-1023,1-1028…]	NDE=0
+maggā	en≈ paths ×58	пути=58[1-996,1-999,1-1021,1-1023…]	NDE=0
+Apariyāpannā maggā	en≈ paths not included ×21	пути не принадлежащие к кругам существования=21[1-996,1-999,1-1028,1-1034…]	NDE=0
+dhammā anupādiṇṇaanupādāniyā	en≈ States neither produced ×2	явления не охваченные цеплянием и не служащие его объектом=2[1-996,1-1395]	NDE=0
+saṃkiliṭṭha	en≈ defiled ×3	омрачённый=3[1-997,1-1396,1-M1-5]	NDE=0
+saṃkilesikā	en≈ defilement ×22 | subject to defilement ×22 | defilements but subject ×1	подверженный омрачению=22[1-997,1-998,1-999,1-1247…]	NDE=0
+rūpakkhandho	en≈ aggregate of material ×28	совокупность материальной формы=28[1-998,1-1026,1-1033,1-1089…]	NDE=0
+abyākatā dhammā	en≈ Indeterminate states ×50 | indeterminate states ×50	этически неопределённые явления=50[1-998,1-1012,1-1019,1-1025…]	NDE=0
+Sāsavā kusalābyākatā dhammā	en≈ indeterminate states subject ×4 | States subject ×4 | states subject ×4	подверженные влечениям благие и этически неопределённые явления=4[1-998,1-1033,1-1178,1-1259]	NDE=0
+dhammā savitakkasavicārā	en≈ states with applied ×2 | States with applied ×2	явления с направленной мыслью и удержанием мысли=2[1-1000,1-1399]	NDE=0
+dhammā avitakkavicāramattā	en≈ States without applied ×2 | states without applied ×2	явления без направленной мысли только с удержанием мысли=2[1-1001,1-1400]	NDE=0
+dhammā avitakkaavicārā	en≈ States without applied ×2 | states without applied ×2	явления без направленной мысли и без удержания мысли=2[1-1002,1-1401]	NDE=0
+pītisahagatā	en≈ accompanied by rapture ×9 | belong to states ×1	сопровождаемый восторгом=9[1-1003,1-1281,1-1282,1-1402…]	NDE=0
+dhammā pītisahagatā	en≈ states accompanied ×4 | States accompanied ×4	явления сопровождаемые восторгом=4[1-1003,1-1281,1-1402,1-1595]	NDE=0
+sukhasahagatā	en≈ accompanied by happiness ×9	сопровождаемый счастьем=9[1-1004,1-1283,1-1284,1-1403…]	NDE=0
+dhammā sukhasahagatā	en≈ states accompanied ×4 | States accompanied ×4	явления сопровождаемые счастьем=4[1-1004,1-1283,1-1403,1-1597]	NDE=0
+dhammā upekkhāsahagatā	en≈ states accompanied ×4 | States accompanied ×4	явления сопровождаемые невозмутимостью=4[1-1005,1-1285,1-1404,1-1599]	NDE=0
+pahātabbā	en≈ abandoned ×19	устраняемый=15[1-1010,1-1011,1-1264,1-1265…] | устраняться=4[1-1006,1-1012,1-1261,1-1407]	NDE=0
+saṃyojanāni	en≈ fetters ×8 | fetters are states ×1	оковы=9[1-1006,1-1010,1-1013,1-1017…]	NDE=0
+sakkāya	en≈ identity ×10	самость=10[1-1006,1-1007,1-1013,1-1014…]	NDE=0
+sakkāyadiṭṭhi	en≈ identity view ×10	воззрение о самости=10[1-1006,1-1007,1-1013,1-1014…]	NDE=0
+sīlabbataparāmāso	en≈ misapprehension of rules ×13	приверженность обрядам и обетам=13[1-1006,1-1009,1-1013,1-1016…]	NDE=0
+vata	en≈ observances ×24	обет=24[1-1006,1-1009,1-1013,1-1016…]	NDE=0
+sīla	en≈ rules ×24 | morality ×7	обряд=24[1-1006,1-1009,1-1013,1-1016…] | нравственность=6[1-1368,1-1370,1-1372,1-M2-135…] | нравственный=1[1-1349]	NDE=0
+sīlabbata	en≈ rules and observances ×24	обряды и обеты=24[1-1006,1-1009,1-1013,1-1016…]	NDE=0
+paṭiggāho	en≈ fixation ×4	цепкость=4[1-1007,1-1009,1-1105,1-1122]	NDE=0
+Saṅkhāre	en≈ formations ×4 | mental ×4 | mental formations ×4	формирующие факторы=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+sappurisānaṃ	en≈ good people ×4	достойные люди=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+evarūpā	en≈ kind ×30	такой=30[1-1007,1-1008,1-1009,1-1063…]	NDE=0
+ariyānaṃ	en≈ noble ×4 | ones ×4	благородные=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+puthujjano	en≈ ordinary ×4 | person ×4	обычный человек=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+purisānaṃ	en≈ people ×4	люди=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+rūpavantaṃ	en≈ possessing ×4 | possessing material form ×4	обладающий материальной формой=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+samanupassati	en≈ regards ×4	считать=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+attato	en≈ self ×3	самость=3[1-1007,1-1262,1-1269]	NDE=0
+dhammassa	en≈ teaching ×4	Учение=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+avinīto	en≈ undisciplined ×4	не обученный=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+assutavā	en≈ uninstructed ×4	не слышавший=3[1-1223,1-1262,1-1269] | не слышавший Учения=1[1-1007]	NDE=0
+akovido	en≈ unskilled ×4	не сведущий=4[1-1007,1-1223,1-1262,1-1269]	NDE=0
+samuppannesu	en≈ arisen ×11	возникший=11[1-1008,1-1063,1-1067,1-1076…]	NDE=0
+samuppannesu dhammesu	en≈ arisen states ×11 | Arisen states ×11	явления возникшие=11[1-1008,1-1063,1-1067,1-1076…]	NDE=0
+idappaccayatā	en≈ conditionality ×11 | specific ×11	закон обусловленности=11[1-1008,1-1063,1-1067,1-1076…]	NDE=0
+paṭiccasamuppannesu	en≈ dependently arisen ×11	возникший в зависимости от условий=11[1-1008,1-1063,1-1067,1-1076…]	NDE=0
+paṭiccasamuppannesu dhammesu	en≈ dependently arisen states ×11	явления возникшие в зависимости от условий=11[1-1008,1-1063,1-1067,1-1076…]	NDE=0
+apariyogāhanā	en≈ failure ×9	отсутствие углубления=9[1-1008,1-1067,1-1106,1-1123…]	NDE=0
+dvedhāpatho	en≈ forked ×4	распутье=4[1-1008,1-1123,1-1167,1-1241]	NDE=0
+Satthari	en≈ teacher ×6	Учитель=6[1-1008,1-1123,1-1167,1-1241…]	NDE=0
+dhamme	en≈ teaching ×4 | arise taking states ×1	Учение=4[1-1008,1-1123,1-1167,1-1241] | явления=1[1-1055]	NDE=0
+sikkhāya	en≈ training ×4	обучение=4[1-1008,1-1123,1-1167,1-1241]	NDE=0
+kaṅkhati	en≈ uncertain ×6	сомневаться=6[1-1008,1-1123,1-1167,1-1241…]	NDE=0
+samaṇa	en≈ ascetics ×9	отшельник=9[1-1009,1-1124,1-1143,1-1221…]	NDE=0
+brāhmaṇānaṃ	en≈ brahmins ×6	брахман=6[1-1009,1-1124,1-1143,1-1222…]	NDE=0
+suddhi	en≈ purification ×6	чистота=6[1-1009,1-1124,1-1143,1-1222…]	NDE=0
+Ito	en≈ teaching ×6	этот=3[1-1009,1-1124,1-1143] | это Учение=3[1-1222,1-1264,1-1271]	NDE=0
+bhāvanāya pahātabbā	en≈ abandoned by development ×8	устраняемый развитием ума=8[1-1011,1-1266,1-1267,1-1406…]	NDE=0
+Avaseso	en≈ remaining ×4	оставшийся=4[1-1011,1-1018,1-1266,1-1273]	NDE=0
+pahātabba	en≈ abandoned ×19	устраняться=15[1-1013,1-1017,1-1018,1-1019…] | устраняемый=4[1-1272,1-1274,1-1586,1-1588]	NDE=0
+dhammā dassanena pahātabbahetukā	en≈ states whose roots ×6 | States whose roots ×6	явления чьи корни устраняются видением истины=4[1-1017,1-1271,1-1408,1-1585] | явления имеющие корни которые устраняются видением истины=2[1-1013,1-1268]	NDE=0
+bhāvanāya pahātabba	en≈ abandoned by development ×8	устраняться развитием ума=7[1-1018,1-1273,1-1409,1-1587…] | устраняемый развитием ума=1[1-1274]	NDE=0
+dhammā bhāvanāya pahātabbahetukā	en≈ States whose roots ×4 | states whose roots ×4	явления чьи корни устраняются развитием ума=4[1-1018,1-1273,1-1409,1-1587]	NDE=0
+avasesā	en≈ remaining ×24	остальной=24[1-1019,1-1025,1-1037,1-1078…]	NDE=0
+avasesā kusala	en≈ remaining wholesome ×17	остальной благой=17[1-1019,1-1025,1-1037,1-1078…]	NDE=0
+dhammā	en≈ states dissociated ×9 | States dissociated ×9 | States whose roots ×6 | states whose roots ×6 | states of covetousness ×2	явления=17[1-1019,1-1272,1-1274,1-1352…]	NDE=0
+pahātabbahetukā	en≈ States whose roots ×6 | states whose roots ×6	имеющий корни устраняемые=4[1-1272,1-1274,1-1586,1-1588] | чьи корни устраняются=2[1-1019,1-1410]	NDE=0
+akusalābyākatā	en≈ unwholesome and indeterminate ×41	неблагой и этически неопределённый=41[1-1019,1-1025,1-1026,1-1037…]	NDE=0
+dhammā ācayagāmino	en≈ States leading ×2 | states leading ×2	явления ведущие к накоплению=2[1-1020,1-1411]	NDE=0
+maggā apariyāpannā	en≈ paths not included ×35	пути не принадлежащие к кругам существования=35[1-1021,1-1023,1-1036,1-1295…]	NDE=0
+dhammā apacayagāmino	en≈ States leading ×2 | states leading ×2	явления ведущие к убыванию=2[1-1021,1-1412]	NDE=0
+dhammā neva ācayagāmi	en≈ States leading ×1 | states leading ×1	явления не ведущие ни к накоплению=1[1-1022]	NDE=0
+sāmañña	en≈ contemplative ×28 | life ×28	отшельничество=28[1-1023,1-1395,1-1398,1-1414…]	NDE=0
+sekkhā	en≈ training ×6	относящийся к обучающимся=3[1-1023,1-1414,1-M1-11] | относящийся … к обучающимся=1[1-1025]	NDE=2
+arahatta	en≈ arahantship ×3	состояние архата=3[1-1024,1-1306,1-1415]	NDE=0
+asekkhā	en≈ beyond ×5	относящийся к завершившим обучение=3[1-1024,1-1415,1-M1-11] | относящийся … к завершившим обучение=2[1-1025,1-1416]	NDE=0
+phalaṃ	en≈ fruit ×5	плод=5[1-1024,1-1221,1-1369,1-1371…]	NDE=0
+Upariṭṭhimaṃ	en≈ highest ×2	высший=2[1-1024,1-1415]	NDE=0
+parittā	en≈ limited ×3	ограниченный=3[1-1026,1-1417,1-M1-12]	NDE=0
+dhammā parittā	en≈ Limited states ×2 | limited states ×2	ограниченные явления=2[1-1026,1-1417]	NDE=0
+mahaggatā	en≈ exalted ×3	возвышенный=3[1-1027,1-1418,1-M1-12]	NDE=0
+dhammā mahaggatā	en≈ exalted states ×2 | Exalted states ×2	возвышенные явления=2[1-1027,1-1418]	NDE=0
+appamāṇā	en≈ immeasurable ×3	безмерный=3[1-1028,1-1419,1-M1-12]	NDE=0
+dhammā appamāṇā	en≈ Immeasurable states ×2 | immeasurable states ×2	безмерные явления=2[1-1028,1-1419]	NDE=0
+uppajjanti	en≈ arise ×24 | arise taking states ×1 | functional root arise ×1 | root arise ×1 | wholesome root arise ×1	возникать=24[1-1029,1-1030,1-1031,1-1038…]	NDE=0
+ārabbha ye uppajjanti	en≈ arise taking ×10	которые возникают имея объектом=10[1-1029,1-1030,1-1031,1-1038…]	NDE=0
+cetasikā	en≈ factors ×18 | mental ×18 | mental factors ×18	сопутствующий уму=18[1-1029,1-1030,1-1031,1-1038…]	NDE=0
+uppajjanti cittacetasikā	en≈ factors that arise ×11	ум и сопутствующие уму … возникать=11[1-1029,1-1030,1-1031,1-1038…]	NDE=0
+parittārammaṇā	en≈ limited object ×4	с ограниченным объектом=4[1-1029,1-1420,1-1422,1-M1-13]	NDE=0
+Paritte dhamme	en≈ Limited states ×1 | limited states ×1	ограниченные явления=1[1-1029]	NDE=0
+cittacetasikā	en≈ mind and mental ×13	ум и сопутствующие уму=11[1-1029,1-1030,1-1031,1-1038…] | ум и сопутствующий уму=2[1-1289,1-1291]	NDE=0
+Paritte dhamme ārabbha	en≈ taking limited states ×1	имеющий объектом ограниченные явления=1[1-1029]	NDE=0
+mahaggata	en≈ exalted ×4	возвышенный=4[1-1030,1-1421,1-1422,1-M1-13]	NDE=0
+mahaggatārammaṇā	en≈ exalted object ×4	с возвышенным объектом=4[1-1030,1-1421,1-1422,1-M1-13]	NDE=0
+Mahaggate dhamme	en≈ exalted states ×1 | Exalted states ×1	возвышенные явления=1[1-1030]	NDE=0
+Mahaggate dhamme ārabbha	en≈ taking exalted states ×1	имеющий объектом возвышенные явления=1[1-1030]	NDE=0
+appamāṇārammaṇā	en≈ immeasurable object ×3	с безмерным объектом=3[1-1031,1-1422,1-M1-13]	NDE=0
+Appamāṇe dhamme	en≈ Immeasurable states ×1 | immeasurable states ×1	безмерные явления=1[1-1031]	NDE=0
+Appamāṇe dhamme ārabbha	en≈ taking immeasurable states ×1	имеющий объектом безмерные явления=1[1-1031]	NDE=0
+hīnā	en≈ inferior ×3	низший=3[1-1032,1-1423,1-M1-14]	NDE=0
+dhammā hīnā	en≈ Inferior states ×2 | inferior states ×2	низшие явления=2[1-1032,1-1423]	NDE=0
+majjhimā	en≈ middling ×3	средний=3[1-1033,1-1424,1-M1-14]	NDE=0
+dhammā majjhimā	en≈ Middling states ×2 | middling states ×2	средние явления=2[1-1033,1-1424]	NDE=0
+paṇītā	en≈ superior ×3	высший=3[1-1034,1-1425,1-M1-14]	NDE=0
+dhammā paṇītā	en≈ superior states ×2 | Superior states ×2	высшие явления=2[1-1034,1-1425]	NDE=0
+kammāni	en≈ actions ×2	действия=2[1-1035,1-1297]	NDE=0
+niyatā	en≈ fixed ×12 | bound ×2	предопределённый=12[1-1035,1-1036,1-1037,1-1297…] | закреплённый=2[1-1050,1-1051]	NDE=0
+ānantarikāni	en≈ immediate ×2	с немедленным воздаянием=2[1-1035,1-1297]	NDE=0
+dhammā micchattaniyatā	en≈ States fixed ×2 | states fixed ×2	явления предопределённо ведущие к ложному=2[1-1035,1-1426]	NDE=0
+micchatta	en≈ wrongness ×3	ложное=3[1-1035,1-1426,1-M1-15]	NDE=0
+sammatta	en≈ rightness ×3	правильное=3[1-1036,1-1427,1-M1-15]	NDE=0
+dhammā sammattaniyatā	en≈ States fixed ×2 | states fixed ×2	явления предопределённо ведущие к правильному=2[1-1036,1-1427]	NDE=0
+Ariya	en≈ noble ×5	благородный=5[1-1038,1-1039,1-1040,1-1305…]	NDE=0
+Ariyamaggaṃ	en≈ noble path ×2	благородный путь=2[1-1038,1-1040]	NDE=0
+maggahetū	en≈ belong ×1	корни пути=1[1-1039]	NDE=0
+aṅgāni	en≈ factors ×1	факторы=1[1-1039]	NDE=0
+Ariyamagga	en≈ noble path ×1	благородный путь=1[1-1039]	NDE=0
+samaṅgissa	en≈ possesses ×5	обладающий=3[1-1373,1-1382,1-1383] | обладать=2[1-1039,1-1040]	NDE=0
+bhāvayantassa	en≈ develops ×1	развивать=1[1-1040]	NDE=0
+maggaṃ bhāvayantassa	en≈ develops the path ×1	развивать путь=1[1-1040]	NDE=0
+adhipatino	en≈ dominant ×3 | dominant factor ×3 | Dominant Factor ×3 | factor ×3	находящийся под главенством=3[1-1040,1-1429,1-M1-16]	NDE=0
+dhammā uppannā	en≈ arisen states ×2 | Arisen states ×2	возникшие явления=2[1-1041,1-1430]	NDE=0
+jātā	en≈ born ×4	рождённый=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+saṅkhārā	en≈ formations ×9 | mental ×9 | mental formations ×9	формирующие факторы=9[1-1041,1-1042,1-1044,1-1045…]	NDE=0
+abhinibbattā	en≈ fully ×4 | fully generated ×4	полностью появившийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+samuṭṭhitā	en≈ fully ×4 | fully risen ×4	полностью поднявшийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+nibbattā	en≈ generated ×4	появившийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+aṃsena	en≈ heading ×5	категория=5[1-1041,1-1042,1-1044,1-1045…]	NDE=0
+pātubhūtā	en≈ manifest ×4	проявившийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+sañjātā	en≈ produced ×4	зародившийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+uṭṭhitā	en≈ risen ×4	поднявшийся=4[1-1041,1-1042,1-1045,1-1046]	NDE=0
+uppādino	en≈ arise ×3 | bound ×3	возникнуть=3[1-1043,1-1430,1-M1-17]	NDE=0
+avipakkavipākānaṃ	en≈ ripened ×1	чьи результаты ещё не созрели=1[1-1043]	NDE=0
+uppajjitvā	en≈ arisen ×1	после возникновения=1[1-1044]	NDE=0
+niruddhā	en≈ ceased ×1	прекратившийся=1[1-1044]	NDE=0
+vipariṇatā	en≈ changed ×1	изменившийся=1[1-1044]	NDE=0
+abbhatthaṅgatā	en≈ completely ×1	полностью угасший=1[1-1044]	NDE=0
+vigatā	en≈ gone ×1	исчезнувший=1[1-1044]	NDE=0
+dhammā atītā	en≈ Past states ×1 | past states ×1	прошлые явления=1[1-1044]	NDE=0
+dhammā anāgatā	en≈ future states ×1 | Future states ×1	будущие явления=1[1-1045]	NDE=0
+dhammā paccuppannā	en≈ present states ×1 | Present states ×1	настоящие явления=1[1-1046]	NDE=0
+atītārammaṇā	en≈ past object ×4	с прошлым объектом=4[1-1047,1-1432,1-1434,1-M1-19]	NDE=0
+Atīte dhamme	en≈ past states ×1 | Past states ×1	прошлые явления=1[1-1047]	NDE=0
+Atīte dhamme ārabbha	en≈ taking past states ×1	имеющий объектом прошлые явления=1[1-1047]	NDE=0
+anāgatārammaṇā	en≈ future object ×4	с будущим объектом=3[1-1048,1-1434,1-M1-19] | имеющий будущий объект=1[1-1433]	NDE=0
+Anāgate dhamme	en≈ future states ×1 | Future states ×1	будущие явления=1[1-1048]	NDE=0
+Anāgate dhamme ārabbha	en≈ taking future states ×1	имеющий объектом будущие явления=1[1-1048]	NDE=0
+paccuppannārammaṇā	en≈ present object ×3	с настоящим объектом=3[1-1049,1-1434,1-M1-19]	NDE=0
+Paccuppanne dhamme	en≈ present states ×1 | Present states ×1	настоящие явления=1[1-1049]	NDE=0
+Paccuppanne dhamme ārabbha	en≈ taking present states ×1	имеющий объектом настоящие явления=1[1-1049]	NDE=0
+pāṭipuggalikā	en≈ individual ×2	индивидуальный=2[1-1050,1-1051]	NDE=0
+tesaṃ tesaṃ	en≈ particular ×2	тот или иной=2[1-1050,1-1051]	NDE=0
+upādiṇṇā	en≈ past action ×7 | produced ×7 | produced by past ×7	охваченный цеплянием=7[1-1050,1-1051,1-1217,1-1218…]	NDE=0
+paccattaṃ	en≈ personal ×2	собственный=2[1-1050,1-1051]	NDE=0
+dhammā bahiddhā	en≈ others' states ×1 | Others' states ×1	внешние явления=1[1-1051]	NDE=0
+puggalānaṃ	en≈ person ×1	личность=1[1-1051]	NDE=0
+Bahiddhā dhamme ārabbha	en≈ taking others' states ×1	имеющий объектом внешние явления=1[1-1054]	NDE=0
+dhamme ārabbha	en≈ taking states ×1	имеющий объектом … явления=1[1-1055]	NDE=0
+sappaṭighā	en≈ make impact ×8	способный к соударению=8[1-1056,1-1057,1-1095,1-1438…]	NDE=0
+sanidassana	en≈ visible ×3	видимый=3[1-1056,1-1438,1-M1-22]	NDE=0
+abyākatahetū	en≈ indeterminate roots ×8	этически неопределённые корни=8[1-1059,1-1068,1-1069,1-1070…]	NDE=0
+apariyāpannahetū	en≈ roots not included ×3	корни не принадлежащие к кругам существования=3[1-1059,1-1072,1-1077]	NDE=0
+kāmāvacarahetū	en≈ sense sphere ×2 | Sense Sphere ×2	корни относящиеся к миру чувственных желаний=2[1-1059,1-1069]	NDE=0
+akusalahetū	en≈ unwholesome roots ×5	неблагие корни=5[1-1059,1-1064,1-1067,1-1069…]	NDE=0
+kusalahetū	en≈ wholesome roots ×10	благие корни=10[1-1059,1-1060,1-1063,1-1069…]	NDE=0
+anuddāyanā	en≈ kind ×1	проявление участия=1[1-1062]	NDE=0
+anuddā	en≈ kindness ×1	участие=1[1-1062]	NDE=0
+mettāyanā	en≈ loving ×1	проявление доброжелательности=1[1-1062]	NDE=0
+metti	en≈ loving-kindness ×1	доброжелательность=1[1-1062]	NDE=0
+hitesitā	en≈ others ×1	желание блага=1[1-1062]	NDE=0
+anukampā	en≈ sympathy ×1	сострадание=1[1-1062]	NDE=0
+hita	en≈ welfare ×1	благо=1[1-1062]	NDE=0
+samudaye	en≈ arising ×7	возникновение=7[1-1063,1-1067,1-1076,1-1106…]	NDE=0
+nirodhe	en≈ cessation ×7	прекращение=7[1-1063,1-1067,1-1076,1-1106…]	NDE=0
+dukkhanirodhe	en≈ cessation of suffering ×7	прекращение страдания=7[1-1063,1-1067,1-1076,1-1106…]	NDE=0
+Dukkhe ñāṇaṃ	en≈ Knowledge of suffering ×2	знание страдания=2[1-1063,1-1076]	NDE=0
+Dukkhe	en≈ suffering ×7	страдание=7[1-1063,1-1067,1-1076,1-1106…]	NDE=0
+anurodho	en≈ accommodation ×3	потакание=3[1-1065,1-1141,1-1236]	NDE=0
+āyūhinī	en≈ accumulator ×3	побуждающая сила=3[1-1065,1-1141,1-1236]	NDE=0
+jappanā	en≈ act ×3	проявление тяги=3[1-1065,1-1141,1-1236]	NDE=0
+ejā	en≈ agitation ×3	трепет=3[1-1065,1-1141,1-1236]	NDE=0
+paṇidhi	en≈ aspiration ×3	устремление=3[1-1065,1-1141,1-1236]	NDE=0
+saṅgo	en≈ attachment ×3	привязанность=3[1-1065,1-1141,1-1236]	NDE=0
+janikā	en≈ begetter ×3	порождающая сила=3[1-1065,1-1141,1-1236]	NDE=0
+bandhanaṃ	en≈ bond ×3	путы=3[1-1065,1-1141,1-1236]	NDE=0
+nirodha	en≈ cessation ×3	прекращение=3[1-1065,1-1141,1-1236]	NDE=0
+putta	en≈ children ×3	дети=3[1-1065,1-1141,1-1236]	NDE=0
+upādānaṃ	en≈ clinging ×8	цепляние=8[1-1065,1-1141,1-1220,1-1221…]	NDE=0
+dutiyā	en≈ companion ×3	спутница=3[1-1065,1-1141,1-1236]	NDE=0
+anunayo	en≈ compliance ×3	расположенность=3[1-1065,1-1141,1-1236]	NDE=0
+apekkhā	en≈ concern ×3	томление=3[1-1065,1-1141,1-1236]	NDE=0
+netti	en≈ conduit ×3	проводник=3[1-1065,1-1141,1-1236]	NDE=0
+bhava	en≈ existence ×15 | continued existence ×9	существование=15[1-1065,1-1102,1-1104,1-1114…]	NDE=0
+upakkileso	en≈ corruption ×3	загрязнение=3[1-1065,1-1141,1-1236]	NDE=0
+chādanaṃ	en≈ covering ×3	покров=3[1-1065,1-1141,1-1236]	NDE=0
+taṇhā	en≈ craving ×12	жажда=12[1-1065,1-1103,1-1104,1-1119…]	NDE=0
+latā	en≈ creeper ×3	лиана=3[1-1065,1-1141,1-1236]	NDE=0
+māyā	en≈ deceit ×3	наваждение=3[1-1065,1-1141,1-1236]	NDE=0
+nandī	en≈ delight ×9	наслаждение=9[1-1065,1-1103,1-1104,1-1119…]	NDE=0
+nikāmanā	en≈ desiring ×3	страстное желание=3[1-1065,1-1141,1-1236]	NDE=0
+visayo	en≈ domain ×3	владения=3[1-1065,1-1141,1-1236]	NDE=0
+gedho	en≈ eagerness ×3	жадное стремление=3[1-1065,1-1141,1-1236]	NDE=0
+sampatthanā	en≈ earnest ×3	сильное чаяние=3[1-1065,1-1141,1-1236]	NDE=0
+visattikā	en≈ entangler ×3	липкая сила=3[1-1065,1-1141,1-1236]	NDE=0
+pihanā	en≈ envying ×3	вожделение=3[1-1065,1-1141,1-1236]	NDE=0
+abhijappā	en≈ extreme ×3	чрезмерная тяга=3[1-1065,1-1141,1-1236]	NDE=0
+pucchañjikatā	en≈ fawning ×3	угодливость=3[1-1065,1-1141,1-1236]	NDE=0
+sādhu	en≈ fine ×3 | things ×3	лучшее=3[1-1065,1-1141,1-1236]	NDE=0
+vanaṃ	en≈ forest ×3	лес=3[1-1065,1-1141,1-1236]	NDE=0
+jappā	en≈ hankering ×3	тяга=3[1-1065,1-1141,1-1236]	NDE=0
+nīvaraṇaṃ	en≈ hindrance ×14	помеха=14[1-1065,1-1141,1-1158,1-1159…]	NDE=0
+baḷisaṃ	en≈ hook ×3	крючок=3[1-1065,1-1141,1-1236]	NDE=0
+āsā	en≈ hope ×3	надежда=3[1-1065,1-1141,1-1236]	NDE=0
+āsisanā	en≈ hoping ×3	упование=3[1-1065,1-1141,1-1236]	NDE=0
+mucchā	en≈ infatuation ×9	одурманенность=9[1-1065,1-1103,1-1104,1-1119…]	NDE=0
+paligedho	en≈ intense ×3	сильное жадное стремление=3[1-1065,1-1141,1-1236]	NDE=0
+pajappā	en≈ intense ×3	сильная тяга=3[1-1065,1-1141,1-1236]	NDE=0
+santhavo	en≈ intimacy ×3	близость=3[1-1065,1-1141,1-1236]	NDE=0
+paṭibandhu	en≈ kinship ×3	родство=3[1-1065,1-1141,1-1236]	NDE=0
+visama	en≈ lawless ×3	непомерный=3[1-1065,1-1141,1-1236]	NDE=0
+gaddulaṃ	en≈ leash ×3	привязь=3[1-1065,1-1141,1-1236]	NDE=0
+nikanti	en≈ liking ×3	тяготение=3[1-1065,1-1141,1-1236]	NDE=0
+patthanā	en≈ longing ×3	чаяние=3[1-1065,1-1141,1-1236]	NDE=0
+rāgo	en≈ lust ×7	страсть=7[1-1065,1-1103,1-1104,1-1141…]	NDE=0
+vevicchaṃ	en≈ meanness ×4	скаредность=4[1-1065,1-1127,1-1141,1-1236]	NDE=0
+paṅko	en≈ mire ×3	трясина=3[1-1065,1-1141,1-1236]	NDE=0
+jālinī	en≈ net-maker ×3	опутывающая сила=3[1-1065,1-1141,1-1236]	NDE=0
+vibhava	en≈ non-existence ×5	несуществование=5[1-1065,1-1141,1-1236,1-1321…]	NDE=0
+āvaraṇaṃ	en≈ obstruction ×3	препятствие=3[1-1065,1-1141,1-1236]	NDE=0
+pabhavo	en≈ origin ×3	исток=3[1-1065,1-1141,1-1236]	NDE=0
+sañjananī	en≈ producer ×3	производящая сила=3[1-1065,1-1141,1-1236]	NDE=0
+nadī	en≈ river ×3	река=3[1-1065,1-1141,1-1236]	NDE=0
+sibbinī	en≈ seamstress ×3	сшивающая сила=3[1-1065,1-1141,1-1236]	NDE=0
+pāso	en≈ snare ×3	силки=3[1-1065,1-1141,1-1236]	NDE=0
+nidānaṃ	en≈ source ×3	источник=3[1-1065,1-1141,1-1236]	NDE=0
+visaṭā	en≈ spreading ×3	расползающаяся сила=3[1-1065,1-1141,1-1236]	NDE=0
+saritā	en≈ stream ×3	увлекающая сила=3[1-1065,1-1141,1-1236]	NDE=0
+suttaṃ	en≈ thread ×3	нить=3[1-1065,1-1141,1-1236]	NDE=0
+gantho	en≈ tie ×9	узы=9[1-1065,1-1140,1-1141,1-1142…]	NDE=0
+vanatho	en≈ undergrowth ×3	чаща=3[1-1065,1-1141,1-1236]	NDE=0
+adhamma	en≈ unrighteous ×3	неправедный=3[1-1065,1-1141,1-1236]	NDE=0
+loluppāyanā	en≈ voracious ×3	проявление падкости=3[1-1065,1-1141,1-1236]	NDE=0
+loluppaṃ	en≈ voracity ×3	падкость=3[1-1065,1-1141,1-1236]	NDE=0
+icchā	en≈ wanting ×3	хотение=3[1-1065,1-1141,1-1236]	NDE=0
+dhana	en≈ wealth ×3	богатство=3[1-1065,1-1141,1-1236]	NDE=0
+kamyatā	en≈ wish ×6	желание=5[1-1065,1-1121,1-1141,1-1236…] | стремление=1[1-1378]	NDE=0
+kodho	en≈ anger ×5	гнев=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+kujjhanā	en≈ angry ×5	гневливость=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+āghāto	en≈ annoyance ×5	досада=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+āghāto jāyati	en≈ Annoyance arises ×5	возникать досада=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+jāyati	en≈ arises ×5	возникать=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+paṭighaṃ	en≈ aversion ×7	неприязнь=7[1-1066,1-1142,1-1160,1-1237…]	NDE=0
+piyassa	en≈ dear ×5 | someone ×5	дорогой=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+caratīti	en≈ doing ×5	причинять=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+acarīti	en≈ done ×4	причинить=4[1-1066,1-1120,1-1160,1-1237]	NDE=0
+pakopo	en≈ exasperation ×5	сильное негодование=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+sampakopo	en≈ fury ×5	крайнее негодование=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+Anatthaṃ	en≈ harm ×5	вред=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+padoso	en≈ hatred ×5	сильная злоба=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+sampadoso	en≈ intense ×5	крайняя злоба=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+kopo	en≈ irritation ×5	негодование=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+evarūpo	en≈ kind ×7	такой=7[1-1066,1-1120,1-1121,1-1142…]	NDE=0
+manāpassa	en≈ pleasing ×5	приятный=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+aṭṭhāne	en≈ reason ×5	без повода=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+paṭighāto	en≈ resentment ×5	раздражение=5[1-1066,1-1120,1-1142,1-1160…]	NDE=0
+asamapekkhanā	en≈ failure ×5	отсутствие рассмотрения=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+apaccavekkhaṇā	en≈ failure ×5	отсутствие обдумывания=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+apaccakkhakammaṃ	en≈ failure ×5	неспособность видеть воочию=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+evarūpaṃ	en≈ kind ×7	такой=7[1-1067,1-1106,1-1127,1-1128…]	NDE=0
+Dukkhe aññāṇaṃ	en≈ Knowledge of suffering ×3	незнание страдания=3[1-1067,1-1106,1-1128]	NDE=0
+adassanaṃ	en≈ lack ×7	отсутствие видения=7[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+ananubodho	en≈ lack ×5	отсутствие понимания=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+asambodho	en≈ lack ×5	непробуждённость=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+asampajaññaṃ	en≈ lack ×6	отсутствие ясного понимания=6[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+paccavekkhaṇā	en≈ review ×5	обдумывание=5[1-1067,1-1106,1-1128,1-1168…]	NDE=0
+vipākato	en≈ resultant ×26 | arising ×2	результаты=17[1-1387,1-1389,1-1399,1-1402…] | в виде результатов действий=9[1-1400,1-1401,1-1422,1-1429…] | результат=2[1-1068,1-1077]	NDE=0
+kiriya	en≈ functional ×2	функциональный=2[1-1068,1-1441]	NDE=0
+abyākatesu vā dhammesu	en≈ Indeterminate states ×1 | indeterminate states ×1	этически неопределённые … явления=1[1-1068]	NDE=0
+Kusalānaṃ	en≈ wholesome ×5	благой=5[1-1068,1-1077,1-1361,1-1377…]	NDE=0
+Kusalānaṃ vā dhammānaṃ	en≈ Wholesome states ×1 | wholesome states ×1	благие явления=1[1-1068]	NDE=0
+rūpāvacarahetū	en≈ Fine-Material Sphere ×1 | fine-material sphere ×1	корни относящиеся к миру форм=1[1-1070]	NDE=0
+arūpāvacarahetū	en≈ immaterial sphere ×1 | Immaterial Sphere ×1	корни относящиеся к миру без форм=1[1-1071]	NDE=0
+sambojjha	en≈ awakening ×1	пробуждение=1[1-1076]	NDE=0
+aṅgo	en≈ factor ×1	фактор=1[1-1076]	NDE=0
+Kusalānaṃ dhammānaṃ	en≈ Wholesome states ×4 | wholesome states ×4	благие явления=4[1-1077,1-1361,1-1377,1-1379]	NDE=0
+Tehi dhammehi	en≈ relation ×13	эти явления=13[1-1079,1-1080,1-1084,1-1087…]	NDE=0
+dhammā sahetukā	en≈ States with roots ×2 | states with roots ×2	явления имеющие корни=2[1-1079,1-1443]	NDE=0
+dhammā ahetukā	en≈ states without roots ×2 | States without roots ×2	явления не имеющие корней=2[1-1080,1-1444]	NDE=0
+dhammā hetuvippayuttā	en≈ states dissociated ×2 | States dissociated ×2	явления не связанные с корнями=2[1-1082,1-1446]	NDE=0
+mohena	en≈ delusion ×2 | root through delusion ×2	заблуждение=2[1-1083,1-1085]	NDE=0
+dhammā appaccayā	en≈ states without conditions ×2 | States without conditions ×2	явления не имеющие условий=2[1-1090,1-1454]	NDE=0
+Asaṅkhatā dhātu	en≈ unconditioned element ×1	необусловленный элемент=1[1-1090]	NDE=0
+saṅkhatā	en≈ conditioned ×3	обусловленный=3[1-1091,1-1455,1-M2-8]	NDE=0
+dhammā saṅkhatā	en≈ Conditioned states ×2 | conditioned states ×2	обусловленные явления=2[1-1091,1-1455]	NDE=0
+Yeva	en≈ whatever ×1	те самые=1[1-1091]	NDE=0
+dhammā asaṅkhatā	en≈ Unconditioned states ×2 | unconditioned states ×2	необусловленные явления=2[1-1092,1-1456]	NDE=0
+sanidassanā	en≈ visible ×3	видимый=3[1-1093,1-1457,1-M2-9]	NDE=0
+dhammā sanidassanā	en≈ Visible states ×2 | visible states ×2	видимые явления=2[1-1093,1-1457]	NDE=0
+anidassanā	en≈ invisible ×3	невидимый=3[1-1094,1-1458,1-M2-9]	NDE=0
+dhammā anidassanā	en≈ Invisible states ×2 | invisible states ×2	невидимые явления=2[1-1094,1-1458]	NDE=0
+dhammā sappaṭighā	en≈ States that make ×2 | states that make ×2	явления способные к соударению=2[1-1095,1-1459]	NDE=0
+dhammā appaṭighā	en≈ States that make ×2 | states that make ×2	явления не способные к соударению=2[1-1096,1-1460]	NDE=0
+rūpino	en≈ material ×3	материальный=3[1-1097,1-1461,1-M2-11]	NDE=0
+dhammā rūpino	en≈ Material states ×2 | material states ×2	материальные явления=2[1-1097,1-1461]	NDE=0
+dhammā arūpino	en≈ Immaterial states ×2 | immaterial states ×2	нематериальные явления=2[1-1098,1-1462]	NDE=0
+Sāsavā kusalākusalābyākatā dhammā	en≈ indeterminate states subject ×21 | States subject ×16 | states subject ×16	подверженные влечениям благие неблагие и этически неопределённые явления=21[1-1099,1-1113,1-1116,1-1130…]	NDE=0
+lokiyā	en≈ worldly ×3	мирской=3[1-1099,1-1463,1-M2-12]	NDE=0
+dhammā lokiyā	en≈ Worldly states ×2 | worldly states ×2	мирские явления=2[1-1099,1-1463]	NDE=0
+dhammā lokuttarā	en≈ States that transcend ×2 | states that transcend ×2	надмирские явления=2[1-1100,1-1464]	NDE=0
+uttarā	en≈ transcend ×3	надмирский=3[1-1100,1-1464,1-M2-12]	NDE=0
+na	en≈ cannot ×3	не=3[1-1101,1-1464,1-M2-13]	NDE=0
+viññeyyā	en≈ know ×3	познаваемый=2[1-1101,1-M2-13] | познаваться=1[1-1464]	NDE=0
+dhammā kāya	en≈ states that body-consciousness ×1	явления … осязательный=1[1-1101]	NDE=0
+dhammā sota	en≈ states that ear-consciousness ×1	явления … слуховой=1[1-1101]	NDE=0
+dhammā cakkhu	en≈ states that eye-consciousness ×1	явления … зрительный=1[1-1101]	NDE=0
+dhammā ghāna	en≈ states that nose-consciousness ×1	явления … обонятельный=1[1-1101]	NDE=0
+dhammā jivhā	en≈ states that tongue-consciousness ×1	явления … вкусовой=1[1-1101]	NDE=0
+āsavo	en≈ taint ×7	влечение=7[1-1102,1-1103,1-1104,1-1105…]	NDE=0
+bhavāsavo	en≈ taint of existence ×4	влечение к существованию=4[1-1102,1-1104,1-1114,1-1465]	NDE=0
+avijjāsavo	en≈ taint of ignorance ×3	влечение неведения=3[1-1102,1-1106,1-1465]	NDE=0
+kāmāsavo	en≈ taint of sensual ×4	влечение к чувственным удовольствиям=4[1-1102,1-1103,1-1114,1-1465]	NDE=0
+diṭṭhāsavo	en≈ taint of views ×4	влечение воззрений=4[1-1102,1-1105,1-1114,1-1465]	NDE=0
+vuccati kāmāsavo	en≈ called the taint ×1	называется влечение к чувственным удовольствиям=1[1-1103]	NDE=0
+chando	en≈ desire ×6	желание=6[1-1103,1-1104,1-1119,1-1125…]	NDE=0
+pariḷāho	en≈ fever ×6	жар=6[1-1103,1-1104,1-1119,1-1125…]	NDE=0
+kāmesu	en≈ pleasures ×3 | sensual pleasures ×3	чувственные удовольствия=3[1-1103,1-1119,1-1159]	NDE=0
+kāmarāgo	en≈ sensual lust ×3	чувственная страсть=3[1-1103,1-1159,1-1220]	NDE=0
+vuccati bhavāsavo	en≈ called the taint ×1	называется влечение к существованию=1[1-1104]	NDE=0
+sarīranti	en≈ body ×4	плоть=4[1-1105,1-1122,1-1181,1-1240]	NDE=0
+vuccati diṭṭhāsavo	en≈ called the taint ×1	называется влечение воззрений=1[1-1105]	NDE=0
+maraṇāti	en≈ death ×4	смерть=4[1-1105,1-1122,1-1181,1-1240]	NDE=0
+Sassato	en≈ eternal ×6	вечный=6[1-1105,1-1122,1-1144,1-1181…]	NDE=0
+hoti	en≈ exist ×5 | exists ×5	существовать=5[1-1105,1-1122,1-1144,1-1181…]	NDE=0
+jīvaṃ	en≈ soul ×5	душа=5[1-1105,1-1122,1-1144,1-1181…]	NDE=0
+hoti tathāgato	en≈ Tathāgata exists ×5	Татхагата существовать=5[1-1105,1-1122,1-1144,1-1181…]	NDE=0
+aññaṃ	en≈ thing ×5	другой=5[1-1105,1-1122,1-1144,1-1181…]	NDE=0
+vuccati avijjāsavo	en≈ called the taint ×1	называется влечение неведения=1[1-1106]	NDE=0
+dhammā sāsavā	en≈ States subject ×2 | states subject ×2	явления подверженные влечениям=2[1-1108,1-1467]	NDE=0
+anāsavā	en≈ free ×7 | free of taints ×7	свободный от влечений=7[1-1109,1-1117,1-1468,1-1472…]	NDE=0
+dhammā anāsavā	en≈ States free ×2 | states free ×2	явления свободные от влечений=2[1-1109,1-1468]	NDE=0
+āsavavippayuttā	en≈ dissociated from taints ×9	не связанный с влечениями=9[1-1111,1-1116,1-1117,1-1470…]	NDE=0
+dhammā āsavavippayuttā	en≈ states dissociated ×6 | States dissociated ×6	явления не связанные с влечениями=6[1-1111,1-1116,1-1117,1-1470…]	NDE=0
+avasesā sāsavā kusala	en≈ remaining wholesome ×7	остальной подверженный влечениям благой=7[1-1113,1-1135,1-1151,1-1175…]	NDE=0
+avijjāsavena	en≈ taint of ignorance ×1	влечение неведения=1[1-1114]	NDE=0
+issā	en≈ envy ×4	зависть=4[1-1118,1-1126,1-1136,1-1477]	NDE=0
+paṭighasaṃyojanaṃ	en≈ fetter of aversion ×4	оковы неприязни=4[1-1118,1-1120,1-1136,1-1477]	NDE=0
+mānasaṃyojanaṃ	en≈ fetter of conceit ×4	оковы самомнения=4[1-1118,1-1121,1-1136,1-1477]	NDE=0
+vicikicchāsaṃyojanaṃ	en≈ fetter of doubt ×4	оковы колебания=4[1-1118,1-1123,1-1136,1-1477]	NDE=0
+issāsaṃyojanaṃ	en≈ fetter of envy ×4	оковы зависти=4[1-1118,1-1126,1-1136,1-1477]	NDE=0
+avijjāsaṃyojanaṃ	en≈ fetter of ignorance ×3	оковы неведения=3[1-1118,1-1128,1-1477]	NDE=0
+bhavarāgasaṃyojanaṃ	en≈ fetter of lust ×3	оковы страсти к существованию=3[1-1118,1-1125,1-1136]	NDE=0
+sīlabbataparāmāsasaṃyojanaṃ	en≈ fetter of misapprehension ×4	оковы приверженности обрядам и обетам=4[1-1118,1-1122,1-1124,1-1136]	NDE=0
+kāmarāgasaṃyojanaṃ	en≈ fetter of sensual ×4	оковы чувственной страсти=4[1-1118,1-1119,1-1136,1-1477]	NDE=0
+macchariyasaṃyojanaṃ	en≈ fetter of stinginess ×4	оковы скупости=4[1-1118,1-1127,1-1136,1-1477]	NDE=0
+saṃyojanā	en≈ fetters ×12 | fetters and subject ×1	оковы=12[1-1118,1-1128,1-1129,1-1134…]	NDE=0
+sīlabbataparāmāsa	en≈ misapprehension of rules ×5	приверженность обрядам и обетам=5[1-1118,1-1122,1-1124,1-1136…]	NDE=0
+macchariya	en≈ stinginess ×4	скупость=4[1-1118,1-1127,1-1136,1-1477]	NDE=0
+vuccati kāmarāgasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы чувственной страсти=1[1-1119]	NDE=0
+kāmacchando	en≈ sensual desire ×2	чувственное желание=2[1-1119,1-1220]	NDE=0
+vuccati paṭighasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы неприязни=1[1-1120]	NDE=0
+ketu	en≈ banner ×2	стяг=2[1-1121,1-1239]	NDE=0
+vuccati mānasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы самомнения=1[1-1121]	NDE=0
+maññitattaṃ	en≈ conceived ×2	состояние зазнайства=2[1-1121,1-1239]	NDE=0
+maññanā	en≈ conceiving ×2	зазнайство=2[1-1121,1-1239]	NDE=0
+sadiso	en≈ equal ×2	равный=2[1-1121,1-1239]	NDE=0
+dhajo	en≈ flag-raising ×2	знамя=2[1-1121,1-1239]	NDE=0
+ketukamyatā	en≈ fly ×2	желание … поднять свой стяг=2[1-1121,1-1239]	NDE=0
+unnamo	en≈ haughtiness ×2	надменность=2[1-1121,1-1239]	NDE=0
+hīno	en≈ inferior ×2	хуже=2[1-1121,1-1239]	NDE=0
+unnati	en≈ loftiness ×2	превознесение=2[1-1121,1-1239]	NDE=0
+vuccati diṭṭhisaṃyojanaṃ	en≈ called the fetter ×1	называется оковы воззрений=1[1-1122]	NDE=0
+vuccati vicikicchāsaṃyojanaṃ	en≈ called the fetter ×1	называется оковы колебания=1[1-1123]	NDE=0
+vuccati sīlabbataparāmāsasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы приверженности обрядам и обетам=1[1-1124]	NDE=0
+vuccati bhavarāgasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы страсти к существованию=1[1-1125]	NDE=0
+vuccati issāsaṃyojanaṃ	en≈ called the fetter ×1	называется оковы зависти=1[1-1126]	NDE=0
+issāyanā	en≈ envying ×1	проявление зависти=1[1-1126]	NDE=0
+sakkāra	en≈ honour ×1	почести=1[1-1126]	NDE=0
+usūyanā	en≈ jealous ×1	проявление ревности=1[1-1126]	NDE=0
+usūyā	en≈ jealousy ×1	ревность=1[1-1126]	NDE=0
+para	en≈ others ×3	другой=2[1-1287,1-1350] | другие=1[1-1126]	NDE=0
+garukāra	en≈ respect ×1	уважение=1[1-1126]	NDE=0
+mānana	en≈ reverence ×1	почитание=1[1-1126]	NDE=0
+vandana	en≈ salutation ×1	поклоны=1[1-1126]	NDE=0
+pūjanāsu	en≈ veneration ×1	поклонение=1[1-1126]	NDE=0
+vuccati macchariyasaṃyojanaṃ	en≈ called the fetter ×1	называется оковы скупости=1[1-1127]	NDE=0
+āvāsa	en≈ dwellings ×1	жилище=1[1-1127]	NDE=0
+kula	en≈ families ×1	семьи-покровители=1[1-1127]	NDE=0
+macchariyāni	en≈ kinds ×1	виды скупости=1[1-1127]	NDE=0
+kadariyaṃ	en≈ miserliness ×1	прижимистость=1[1-1127]	NDE=0
+maccharāyanā	en≈ stingy ×1	проявление скупости=1[1-1127]	NDE=0
+kaṭukañcukatā	en≈ tight-fistedness ×1	мелочность=1[1-1127]	NDE=0
+aggahitattaṃ	en≈ tightness ×1	зажатость=1[1-1127]	NDE=0
+vuccati avijjāsaṃyojanaṃ	en≈ called the fetter ×1	называется оковы неведения=1[1-1128]	NDE=0
+dhammā saṃyojanā	en≈ states are fetters ×1	явления являющиеся оковами=1[1-1128]	NDE=0
+saṃyojaniyā	en≈ subject to fetters ×15 | fetters ×7 | fetters and subject ×1 | fetters but subject ×1	подверженный оковам=15[1-1130,1-1131,1-1134,1-1135…]	NDE=0
+dhammā saṃyojaniyā	en≈ States subject ×2 | states subject ×2	явления подверженные оковам=2[1-1130,1-1479]	NDE=0
+dhammā asaṃyojaniyā	en≈ states not subject ×2 | States not subject ×2	явления не подверженные оковам=2[1-1131,1-1480]	NDE=0
+saṃyojanavippayuttā	en≈ dissociated from fetters ×9 | fetters but subject ×1	не связанный с оковами=9[1-1133,1-1138,1-1139,1-1482…]	NDE=0
+dhammā saṃyojanavippayuttā	en≈ states dissociated ×6 | States dissociated ×6	явления не связанные с оковами=6[1-1133,1-1138,1-1139,1-1482…]	NDE=0
+saṃyojanā ceva saṃyojaniyā	en≈ fetters and subject ×3	являющийся оковами и подверженный оковам=3[1-1134,1-1483,1-1484]	NDE=0
+avijjāsaṃyojanena	en≈ fetter of ignorance ×1	оковы неведения=1[1-1136]	NDE=0
+saṃyojanavippayuttā saṃyojaniyā	en≈ fetters but subject ×3	не связанный с оковами но подверженный оковам=3[1-1138,1-1487,1-1488]	NDE=0
+kāyagantho	en≈ bodily tie ×7	телесные узы=7[1-1140,1-1141,1-1142,1-1143…]	NDE=0
+abhijjhā kāyagantho	en≈ tie of covetousness ×2	телесные узы алчности=2[1-1140,1-1141]	NDE=0
+idaṃ saccābhiniveso kāyagantho	en≈ tie of dogmatic ×1	телесные узы приверженности убеждению «только это истинно»=1[1-1140]	NDE=0
+byāpādo kāyagantho	en≈ tie of ill ×3	телесные узы недоброжелательности=3[1-1140,1-1142,1-1489]	NDE=0
+sīlabbataparāmāso kāyagantho	en≈ tie of misapprehension ×3	телесные узы приверженности обрядам и обетам=3[1-1140,1-1143,1-1152]	NDE=0
+ganthā	en≈ ties ×12 | ties and subject ×1	узы=12[1-1140,1-1144,1-1145,1-1150…]	NDE=0
+sacca	en≈ true ×4 | truths ×1	истинный=4[1-1140,1-1144,1-1152,1-1489] | истина=1[1-1373]	NDE=0
+vuccati abhijjhā kāya	en≈ called the bodily ×1	называется телесные … алчность=1[1-1141]	NDE=0
+vuccati byāpādo kāya	en≈ called the bodily ×1	называется телесные … недоброжелательность=1[1-1142]	NDE=0
+acarī	en≈ done ×1	причинить=1[1-1142]	NDE=0
+vuccati sīlabbataparāmāso kāya	en≈ called the bodily ×1	называется телесные … приверженность обрядам и обетам=1[1-1143]	NDE=0
+moghamaññanti	en≈ anything ×1 | else ×1 | false ×1	всё прочее ложно=1[1-1144]	NDE=0
+sarīraṃ	en≈ body ×1	плоть=1[1-1144]	NDE=0
+vuccati idaṃsaccābhiniveso kāya	en≈ called the bodily ×1	называется телесные … приверженность убеждению «только это истинно»=1[1-1144]	NDE=0
+maraṇā	en≈ death ×1	смерть=1[1-1144]	NDE=0
+sīlabbataparāmāsaṃ	en≈ misapprehension of rules ×1	приверженность обрядам и обетам=1[1-1144]	NDE=0
+idaṃsaccābhiniveso kāyagantho	en≈ tie of dogmatic ×2	телесные узы приверженности убеждению «только это истинно»=2[1-1144,1-1152]	NDE=0
+sīlabbataparāmāsaṃ kāyaganthaṃ	en≈ tie of misapprehension ×1	телесные узы приверженности обрядам и обетам=1[1-1144]	NDE=0
+dhammā ganthaniyā	en≈ States subject ×2 | states subject ×2	явления подверженные узам=2[1-1146,1-1491]	NDE=0
+ganthaniyā	en≈ subject to ties ×15 | ties ×7 | ties and subject ×1 | ties but subject ×1	подверженный узам=15[1-1146,1-1147,1-1150,1-1151…]	NDE=0
+dhammā aganthaniyā	en≈ states not subject ×2 | States not subject ×2	явления не подверженные узам=2[1-1147,1-1492]	NDE=0
+ganthavippayuttā	en≈ dissociated from ties ×9 | ties but subject ×1	не связанный с узами=9[1-1149,1-1154,1-1155,1-1494…]	NDE=0
+dhammā ganthavippayuttā	en≈ states dissociated ×6 | States dissociated ×6	явления не связанные с узами=6[1-1149,1-1154,1-1155,1-1494…]	NDE=0
+ganthā ceva ganthaniyā	en≈ ties and subject ×3	являющийся узами и подверженный узам=3[1-1150,1-1495,1-1496]	NDE=0
+abhijjhākāyaganthena	en≈ tie of covetousness ×1	телесные узы алчности=1[1-1152]	NDE=0
+ganthavippayuttā ganthaniyā	en≈ ties but subject ×3	не связанный с узами но подверженный узам=3[1-1154,1-1499,1-1500]	NDE=0
+dhammā oghavippayuttā	en≈ states dissociated ×1 | States dissociated ×1	явления которые не связаны с потоками=1[1-1156]	NDE=0
+oghaniyā	en≈ subject to floods ×4 | floods ×1	подверженный потокам=4[1-1156,1-M2-33,1-M2-35,1-M2-37]	NDE=0
+dhammā yogavippayuttā	en≈ states dissociated ×1 | States dissociated ×1	явления которые не связаны с ярмами=1[1-1157]	NDE=0
+yoganiyā	en≈ subject to yokes ×4 | yokes ×1	подверженный ярмам=4[1-1157,1-M2-39,1-M2-41,1-M2-43]	NDE=0
+vicikicchānīvaraṇaṃ	en≈ hindrance of doubt ×4	помеха колебания=4[1-1158,1-1167,1-1176,1-1503]	NDE=0
+avijjānīvaraṇaṃ	en≈ hindrance of ignorance ×3	помеха неведения=3[1-1158,1-1168,1-1503]	NDE=0
+byāpādanīvaraṇaṃ	en≈ hindrance of ill ×4	помеха недоброжелательности=4[1-1158,1-1160,1-1176,1-1503]	NDE=0
+uddhaccakukkuccanīvaraṇaṃ	en≈ hindrance of restlessness ×4	помеха беспокойства и угрызений=4[1-1158,1-1164,1-1166,1-1503]	NDE=0
+kāmacchandanīvaraṇaṃ	en≈ hindrance of sensual ×4	помеха чувственного желания=4[1-1158,1-1159,1-1176,1-1503]	NDE=0
+thinamiddhanīvaraṇaṃ	en≈ hindrance of sloth ×5	помеха вялости и сонливости=5[1-1158,1-1161,1-1163,1-1176…]	NDE=0
+nīvaraṇā	en≈ hindrances ×12 | hindrances and subject ×1	помехи=12[1-1158,1-1168,1-1169,1-1174…]	NDE=0
+byāpāda	en≈ ill ×4	недоброжелательность=4[1-1158,1-1160,1-1176,1-1503]	NDE=0
+kukkucca	en≈ remorse ×4	угрызения=4[1-1158,1-1164,1-1176,1-1503]	NDE=0
+kāmacchanda	en≈ sensual desire ×4	чувственное желание=4[1-1158,1-1159,1-1176,1-1503]	NDE=0
+thina	en≈ sloth ×4	вялость=4[1-1158,1-1161,1-1176,1-1503]	NDE=0
+middha	en≈ torpor ×4	сонливость=4[1-1158,1-1161,1-1176,1-1503]	NDE=0
+vuccati kāmacchandanīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой чувственного желания=1[1-1159]	NDE=0
+vuccati byāpādanīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой недоброжелательности=1[1-1160]	NDE=0
+olīyanā	en≈ drooping ×2	оседание=2[1-1162,1-1242]	NDE=0
+akallatā	en≈ indisposition ×3	неготовность=3[1-1162,1-1163,1-1242]	NDE=0
+sallīyanā	en≈ sagging ×2	полное оседание=2[1-1162,1-1242]	NDE=0
+thinaṃ	en≈ sloth ×6	вялость=6[1-1162,1-1163,1-1235,1-1242…]	NDE=0
+thiyanā	en≈ slothful ×2	проявление вялости=2[1-1162,1-1242]	NDE=0
+thiyitattaṃ	en≈ slothful state ×2	состояние вялости=2[1-1162,1-1242]	NDE=0
+līyanā	en≈ sluggish ×2	проявление косности=2[1-1162,1-1242]	NDE=0
+līnaṃ	en≈ sluggishness ×2	косность=2[1-1162,1-1242]	NDE=0
+akammaññatā	en≈ unworkability ×3	неработоспособность=3[1-1162,1-1163,1-1242]	NDE=0
+supitattaṃ	en≈ asleep ×1	состояние сна=1[1-1163]	NDE=0
+vuccati thinamiddhanīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой вялости и сонливости=1[1-1163]	NDE=0
+antosamorodho	en≈ confinement ×1 | inner ×1	внутренняя скованность=1[1-1163]	NDE=0
+pacalāyikā	en≈ drowsiness ×1	клевание носом=1[1-1163]	NDE=0
+onāho	en≈ enveloping ×1	окутанность=1[1-1163]	NDE=0
+soppaṃ	en≈ sleep ×1	дремота=1[1-1163]	NDE=0
+supanā	en≈ sleeping ×1	засыпание=1[1-1163]	NDE=0
+middhaṃ	en≈ torpor ×1	сонливость=1[1-1163]	NDE=0
+kappiye	en≈ allowable ×1	допустимый=1[1-1166]	NDE=0
+avajje	en≈ blameless ×1	безупречный=1[1-1166]	NDE=0
+vajja	en≈ blameworthy ×1	предосудительный=1[1-1166]	NDE=0
+vuccati uddhaccakukkuccanīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой беспокойства и угрызений=1[1-1166]	NDE=0
+saññitā	en≈ perceiving ×1	восприятие=1[1-1166]	NDE=0
+vippaṭisāro	en≈ regret ×1	раскаяние=1[1-1166]	NDE=0
+kukkuccaṃ	en≈ remorse ×1	угрызения=1[1-1166]	NDE=0
+kukkuccāyanā	en≈ remorseful ×1	мучение угрызениями=1[1-1166]	NDE=0
+vuccati vicikicchānīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой колебания=1[1-1167]	NDE=0
+vuccati avijjānīvaraṇaṃ	en≈ called the hindrance ×1	называться помехой неведения=1[1-1168]	NDE=0
+nīvaraṇiyā	en≈ subject to hindrances ×15 | hindrances ×7 | hindrances and subject ×1 | hindrances but subject ×1	подверженный помехам=15[1-1170,1-1171,1-1174,1-1175…]	NDE=0
+dhammā nīvaraṇiyā	en≈ States subject ×2 | states subject ×2	явления подверженные помехам=2[1-1170,1-1505]	NDE=0
+dhammā anīvaraṇiyā	en≈ states not subject ×2 | States not subject ×2	явления не подверженные помехам=2[1-1171,1-1506]	NDE=0
+nīvaraṇavippayuttā	en≈ dissociated from hindrances ×9 | hindrances but subject ×1	не связанный с помехами=9[1-1173,1-1178,1-1179,1-1508…]	NDE=0
+dhammā nīvaraṇavippayuttā	en≈ states dissociated ×6 | States dissociated ×6	явления не связанные с помехами=6[1-1173,1-1178,1-1179,1-1508…]	NDE=0
+nīvaraṇā ceva nīvaraṇiyā	en≈ hindrances and subject ×3	являющийся помехами и подверженный помехам=3[1-1174,1-1509,1-1510]	NDE=0
+nīvaraṇāni	en≈ hindrances are states ×1	помехи=1[1-1174]	NDE=0
+avijjānīvaraṇena	en≈ hindrance of ignorance ×1	помеха неведения=1[1-1176]	NDE=0
+kukkuccanīvaraṇaṃ	en≈ hindrance of remorse ×2	помеха угрызений=2[1-1176,1-1503]	NDE=0
+uddhaccanīvaraṇaṃ	en≈ hindrance of restlessness ×1	помеха беспокойства=1[1-1176]	NDE=0
+nīvaraṇavippayuttā nīvaraṇiyā	en≈ hindrances but subject ×3	не связанный с помехами но подверженный помехам=3[1-1178,1-1513,1-1514]	NDE=0
+parāmāsā	en≈ misapprehensions ×12	искажения=12[1-1180,1-1181,1-1182,1-1187…]	NDE=0
+parāmaṭṭhā	en≈ misapprehended ×15	затронутый искажениями=15[1-1183,1-1184,1-1187,1-1188…]	NDE=0
+dhammā parāmaṭṭhā	en≈ Misapprehended states ×2 | misapprehended states ×2	явления затронутые искажениями=2[1-1183,1-1517]	NDE=0
+parāmāsavippayuttā	en≈ dissociated from misapprehension ×8	не связанный с искажениями=8[1-1186,1-1189,1-1190,1-1520…]	NDE=0
+dhammā parāmāsavippayuttā	en≈ states dissociated ×6 | States dissociated ×6	явления не связанные с искажениями=6[1-1186,1-1189,1-1190,1-1520…]	NDE=0
+cittā	en≈ mind ×5	ум=5[1-1193,1-1194,1-1527,1-1528…]	NDE=0
+Cittañca	en≈ mind ×5	ум=5[1-1196,1-1202,1-1204,1-1206…]	NDE=0
+sampayuttanti	en≈ associated ×1	связанный=1[1-1198]	NDE=0
+vattabbaṃ	en≈ described ×4 | counted ×3	определить=7[1-1198,1-1200,1-1404,1-1431…]	NDE=0
+cittavippayuttā	en≈ dissociated from mind ×3	не связанный с умом=3[1-1198,1-1532,1-M2-58]	NDE=0
+dhammā cittavippayuttā	en≈ states dissociated ×2 | States dissociated ×2	явления не связанные с умом=2[1-1198,1-1532]	NDE=0
+saṃsaṭṭhā	en≈ joined ×5	соединённый=5[1-1199,1-1200,1-1533,1-1534…]	NDE=0
+cittasaṃsaṭṭhā	en≈ joined with mind ×3	соединённый с умом=3[1-1199,1-1533,1-M2-59]	NDE=0
+dhammā cittasaṃsaṭṭhā	en≈ States joined ×2 | states joined ×2	явления соединённые с умом=2[1-1199,1-1533]	NDE=0
+cittavisaṃsaṭṭhā	en≈ joined with mind ×2	не соединённый с умом=2[1-1200,1-1534]	NDE=0
+dhammā cittavisaṃsaṭṭhā	en≈ states not joined ×2 | States not joined ×2	явления не соединённые с умом=2[1-1200,1-1534]	NDE=0
+samuṭṭhānā	en≈ arising ×10	порождённый=10[1-1201,1-1202,1-1207,1-1208…]	NDE=0
+cittasamuṭṭhānā	en≈ arising from mind ×5	порождённый умом=5[1-1201,1-1202,1-1535,1-1536…]	NDE=0
+cittahetukaṃ	en≈ caused ×1	имеющий причиной ум=1[1-1201]	NDE=0
+dhammā cittasamuṭṭhānā	en≈ States arising ×2 | states arising ×2	явления порождённые умом=2[1-1201,1-1535]	NDE=0
+avasesañca	en≈ remaining ×6	остальной=6[1-1202,1-1204,1-1206,1-1536…]	NDE=0
+avasesañca rūpaṃ	en≈ remaining material ×6 | remaining material form ×6	остальная материальная форма=6[1-1202,1-1204,1-1206,1-1536…]	NDE=0
+dhammā no cittasamuṭṭhānā	en≈ states not arising ×2 | States not arising ×2	явления не порождённые умом=2[1-1202,1-1536]	NDE=0
+cittasahabhuno	en≈ existing ×5 | together ×5	сосуществующий с умом=5[1-1203,1-1204,1-1537,1-1538…]	NDE=0
+dhammā cittasahabhuno	en≈ states existing ×2 | States existing ×2	явления сосуществующие с умом=2[1-1203,1-1537]	NDE=0
+dhammā no cittasahabhuno	en≈ States not existing ×2 | states not existing ×2	явления не сосуществующие с умом=2[1-1204,1-1538]	NDE=0
+anuparivattino	en≈ accompanying ×10	следующий за=10[1-1205,1-1206,1-1211,1-1212…]	NDE=0
+cittānuparivattino	en≈ accompanying mind ×5	следующий за умом=5[1-1205,1-1206,1-1539,1-1540…]	NDE=0
+dhammā cittānuparivattino	en≈ States accompanying ×2 | states accompanying ×2 | states accompanying mind ×2 | States accompanying mind ×2	явления следующие за умом=2[1-1205,1-1539]	NDE=0
+dhammā no cittānuparivattino	en≈ states not accompanying ×2 | States not accompanying ×2	явления не следующие за умом=2[1-1206,1-1540]	NDE=0
+cittasaṃsaṭṭhasamuṭṭhānā	en≈ arising from mind ×5	соединённый с умом и порождённый им=5[1-1207,1-1208,1-1541,1-1542…]	NDE=0
+saṃsaṭṭha	en≈ joined ×15	соединённый=15[1-1207,1-1208,1-1209,1-1210…]	NDE=0
+dhammā cittasaṃsaṭṭhasamuṭṭhānā	en≈ States joined ×2 | states joined ×2	явления соединённые с умом и порождённые им=2[1-1207,1-1541]	NDE=0
+dhammā no cittasaṃsaṭṭhasamuṭṭhānā	en≈ states not joined ×2 | States not joined ×2	явления не являющиеся соединёнными с умом и порождёнными им=2[1-1208,1-1542]	NDE=0
+samuṭṭhāna	en≈ arising ×10	порождённый=10[1-1209,1-1210,1-1211,1-1212…]	NDE=0
+sahabhuno	en≈ existing ×5 | together ×5	сосуществующий=5[1-1209,1-1210,1-1543,1-1544…]	NDE=0
+dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno	en≈ States joined ×2 | states joined ×2	явления соединённые с умом порождённые им и сосуществующие с ним=2[1-1209,1-1543]	NDE=0
+dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno	en≈ states not joined ×2 | States not joined ×2	явления не являющиеся соединёнными с умом порождёнными им и сосуществующими с ним=2[1-1210,1-1544]	NDE=0
+cittasaṃsaṭṭhasamuṭṭhānānuparivattino	en≈ accompanying mind ×5	соединённый с умом порождённый им и следующий за ним=5[1-1211,1-1212,1-1545,1-1546…]	NDE=0
+dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino	en≈ States joined ×2 | states joined ×2	явления соединённые с умом порождённые им и следующие за ним=2[1-1211,1-1545]	NDE=0
+dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino	en≈ States not joined ×2 | states not joined ×2	явления не являющиеся соединёнными с умом порождёнными им и следующими за ним=2[1-1212,1-1546]	NDE=0
+ajjhattikā	en≈ internal ×3	относящийся к внутреннему=3[1-1213,1-1547,1-M2-66]	NDE=0
+dhammā ajjhattikā	en≈ internal states ×2 | Internal states ×2	явления относящиеся к внутреннему=2[1-1213,1-1547]	NDE=0
+bāhirā	en≈ external ×3	относящийся к внешнему=3[1-1214,1-1548,1-M2-66]	NDE=0
