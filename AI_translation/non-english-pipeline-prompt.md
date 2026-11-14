@@ -29,9 +29,10 @@ Work in `D:\Work\OpenPecha\abhidhamma-rails`. The machine is Windows with PowerS
   - English (the original pipeline): `AI_translation/english/`
 - **Scratch work from those runs,** to reuse briefs, scripts and checks:
   - `0-INBOX/temp/pipeline/`:
-    - Hindi: `hindi-style.md`, `hindi-zeroshot-brief.md`, `hindi-mapper-brief.md`, `hindi-senses-brief.md`, `hindi-termbase-brief.md`, `hindi-rails-brief.md`
-    - per-book folders: `pi-3-hi/` … `pi-5-hi/`, `pi-3/`, `pi-4/`, `pi-5-ru/` (Russian)
-  - the review brief: `pi-3-hi/review-brief.md`
+    - Hindi: `hindi-style.md`, `hindi-zeroshot-brief.md`, `hindi-mapper-brief.md`, `hindi-senses-brief.md`, `hindi-termbase-brief.md`, `hindi-rails-brief.md`, `hindi-frontmatter.yaml`, `hindi_senses_sample.py`
+    - checkers: `dashcheck.py <pali> <target>` (per-line dash count), `verify_hi.py <pali> <hindi>`
+    - per-book folders: `pi-3/`, `pi-4/`, `pi-5-ru/` (Russian)
+  - the review brief: `hindi-review-brief.md`
   - the fix brief: `pi-5-ru/fix-brief.md`
 
 ### Target file names (same pattern as Russian and Hindi)
@@ -121,7 +122,7 @@ Scratch, briefs, scripts and notes go only in `0-INBOX/temp/pipeline/pi-N-<TAG>/
 ### Step 4: Word senses (`word-sense-grouper`)
 
 1. **Aggregate:** `python -I -X utf8 0-INBOX\temp\pipeline\sense_prepare.py N <LANGUAGE> <TAG> <AUDIENCE> <parts>`. Use 1 part for small books and about 1 per 1,800 headwords for large ones.
-2. **Sample:** the first 80 headwords, built with a tool like `0-INBOX/temp/pipeline/pi-3-hi/senses/senses_sample.py`, which has build/verify commands and a decisions file. Stop for review. Brief: copy `hindi-senses-brief.md`. Tags are English glosses, never a copy of the value.
+2. **Sample:** the first 80 headwords, built with a tool like `0-INBOX/temp/pipeline/hindi_senses_sample.py`, which has build/verify commands and a decisions file. Stop for review. Brief: copy `hindi-senses-brief.md`. Tags are English glosses, never a copy of the value.
 3. **After approval:**
    - Run one agent per part.
    - Concatenate the parts into `AI_translation/<LANGUAGE>/pi-N-pali-word-<LANGUAGE>-senses-<AUDIENCE>.md`.
@@ -148,7 +149,7 @@ Scratch, briefs, scripts and notes go only in `0-INBOX/temp/pipeline/pi-N-<TAG>/
 - **Review:**
   - Two reviewers, each covering half the book. They check the Pāli against the target with no termbase and no notes.
   - They are read-only and report findings as text. Subagents cannot write report files, so save their reports yourself to `pi-N-<TAG>/review/report-A.md` and `report-B.md`.
-  - Brief: adapt `pi-3-hi/review-brief.md` to the book. It is formulaic, so the reviewers should check numbers and polarity by script.
+  - Brief: adapt `hindi-review-brief.md` to the book. It is formulaic, so the reviewers should check numbers and polarity by script.
 - **Present the findings and ask "Apply all fixes?"** On approval:
   - one fix agent edits the generator scripts (not the chapters by hand), then regenerates;
   - termbase corrections go into the decisions file with the reason "bilingual review, approved <date>", then the termbase is reassembled;
@@ -156,7 +157,7 @@ Scratch, briefs, scripts and notes go only in `0-INBOX/temp/pipeline/pi-N-<TAG>/
 
 ### Step 8: Merge, frontmatter, track copy
 
-- **Frontmatter:** copy the Hindi or Russian frontmatter fields (`0-INBOX/temp/pipeline/pi-3-hi/hi-frontmatter.yaml`). Set title, language, lang_tag, termbase, termbase_approved, pipeline, approach, the paths, segment_ids and chapters. Take source_text_id and source_edition_id from `AI_translation/pali/pi-N_split_chapters/frontmatter.txt` (text_id / edition_id).
+- **Frontmatter:** copy the Hindi or Russian frontmatter fields (`0-INBOX/temp/pipeline/hindi-frontmatter.yaml`). Set title, language, lang_tag, termbase, termbase_approved, pipeline, approach, the paths, segment_ids and chapters. Take source_text_id and source_edition_id from `AI_translation/pali/pi-N_split_chapters/frontmatter.txt` (text_id / edition_id).
 - **Merge:** `merge_rails.py <pali split> <rails split> <frontmatter.yaml> AI_translation\<LANGUAGE>\pi-N-<LANGUAGE>-<AUDIENCE>.md`. It must print OK, with the expected dash count.
 - **Track copy:**
   1. Copy the merged file and the termbase into the track folder.

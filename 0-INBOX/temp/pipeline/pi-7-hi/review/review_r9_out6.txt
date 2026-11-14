@@ -1,8 +1,0 @@
-﻿MISMATCH 4-02-dukatika-hetuduka.md 364 7-36-147 gen
-   P: ca nahetu nevavipākanavipākadhamma dhammo ca nahetussa nevavipākanavipākadhamma
-   H: मूल रूपी न होने वाली, न कर्म-फल रूपी न कर्म-फल उत्पन्न करने वाली
-   exp: मूल रूपी न होने वाली, न कर्म-फल रूपी न कर्म-फल उत्पन्न करने वाली + मूल रूपी न होने वाली, न कर्म-फल रूपी न कर्म-फल उत्पन्न करने वाली
-UNKNOWN item 4-08-dukatika-nivaranaduka.md 14 7-42-5 ['nīvaraṇ', 'nonīvaraṇ', 'akusal'] | बाधा रूपी और बाधा रूपी न होने वाली, हानिकर
-UNKNOWN item 4-08-dukatika-nivaranaduka.md 63 7-42-25 ['nīvaraṇ', 'nīvaraṇiy', 'akusal'] | बाधा रूपी भी और बाधाओं का विषय बनने वाली भी, हानिकर
-UNKNOWN item 4-13-dukatika-dassanenapahatabbaduka.md 169 7-47-59 ['upekkhāsahagat', 'naupekkhāsahagat'] | समभाव के साथ होने वाली और समभाव के साथ न होने वाली
-ok 431 Counter({'और': 756, 'तथा': 96})
