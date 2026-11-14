@@ -102,6 +102,16 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
 - «ye … rūpāvacaraṃ arūpāvacaraṃ upapajjitvā» = «सूक्ष्म भौतिक किंवा अभौतिक लोकात» (either world); person qualifiers joined with «आणि».
 - Capital «…Pe…» = one «…», like «…pe…».
 
+### pi-7 additions (pi-7 run, 2026-11-14; full list in AI_translation/marathi/pi-7-pali-marathi-termbase-plain.md)
+- Paṭṭhāna = कारण-संबंध; book end «“कारण-संबंध” ग्रंथ समाप्त.»; part and section colophons quote the whole title phrase.
+- paccaya = आधार: Xpaccayā «Xच्या आधाराने», na-Xpaccayā «Xचा आधार नसताना», counts «Xच्या आधारात N», Xpaccayena paccayo «Xच्या रूपाने आधार असतो / असते / असतात»; paṭicca = «…वर अवलंबून»; the 24 names: मूळ, विषय, प्रमुखता, लगेच नंतर येणे, अगदी लगेच नंतर येणे, एकत्र उत्पन्न होणे, परस्परता, आश्रय, प्रबळ आश्रय, आधी उत्पन्न होणे, नंतर उत्पन्न होणे, पुनरावृत्ती, कर्म, परिणाम, आहार, क्षमता, ध्यान, मार्ग, जोडलेले असणे, वेगळे असणे, अस्तित्व, अभाव, निघून जाणे, निघून न जाणे. Condition-kind labels are participles («एकत्र उत्पन्न होणारा»).
+- anuloma / paccanīya (order) = होकारार्थी / नकारार्थी क्रम; anuloma as the cognitive moment = अनुरूपता. vatthu (physical base) = भौतिक स्थान.
+- Dyad terms «स्वतः X असलेला / नसलेला», «Xचा विषय होणारा», «Xशी जोडलेला / Xपासून वेगळा»; dyad names «… घटनांचा दुहेरी गट», triad names «… इत्यादींचा तिहेरी गट»; gocchaka = गुच्छ.
+- Inside one compound term join with «व» («X व Yही» for ceva … ca; contrastive «…नसलेला, पण …»); between separate terms or list items «आणि»; a comma between the two parts of a combined (dyad-triad, triad-dyad …) term; two objects of one postposition «A व B यांवर अवलंबून».
+- Negated terms: an adjective + «नसलेला» (हितकारक नसलेला); «…असलेला» → «…नसलेला»; «न» before a participle; multi-member or already-negative terms quoted («“स्वतः मूळ नसलेले” नसलेला», inner quotes ‘…’).
+- upādāna = धरून ठेवणे (pi-5 / pi-6, not pi-3's आसक्ती); kilesa term = «स्वतः क्लेश असलेला», noun = मनाचे क्लेश; cetasika dyad = «मनाचे सहचर असलेला»; sotadhātu = कानाचे तत्त्व.
+- Variant readings in curly braces as the source: «{पाठभेद (Syā.): …}»; editorial queries kept as queries («{मुळाच्या आधारात आठ?}»).
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md
