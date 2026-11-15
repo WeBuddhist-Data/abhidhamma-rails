@@ -112,6 +112,14 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
 - upādāna = धरून ठेवणे (pi-5 / pi-6, not pi-3's आसक्ती); kilesa term = «स्वतः क्लेश असलेला», noun = मनाचे क्लेश; cetasika dyad = «मनाचे सहचर असलेला»; sotadhātu = कानाचे तत्त्व.
 - Variant readings in curly braces as the source: «{पाठभेद (Syā.): …}»; editorial queries kept as queries («{मुळाच्या आधारात आठ?}»).
 
+### pi-1 additions (pi-1 run, 2026-11-15; full list in AI_translation/marathi/pi-1-pali-marathi-termbase-plain.md)
+- Dhammasaṅgaṇī = घटनांची गणना; book end «“घटनांची गणना” ग्रंथ समाप्त.».
+- Definition frame «त्या वेळी कोणता X असतो? त्या वेळी जो A, B, C – हा त्या वेळी असणारा X आहे.» (question word, pronoun and verb agree with X). Each Pāli synonym of a list keeps its own Marathi word; within one list no two synonyms share a word (bare mano in the citta list = अंतःकरण beside citta = मन; paṇḍaraṃ = निर्मळपणा; avitthanatā = मंदपणा नसणे).
+- New factors: passaddhi प्रशांती, samatha शांती, paggāha उभारी, avikkhepa अविचलता, sampajañña स्पष्ट जाणीव, kammaññatā कामासाठी योग्यता; kāya- in kāyapassaddhi … = «मनाच्या सहचरांची» (the mental body); ekodibhāva मनाची एकरूपता.
+- bhāveti = «Xची साधना करतो»; paṭipadā = वाटचाल; the jhāna clause «… प्राप्त करून राहतो»; bhūmi = टप्पा (stage of the path) / स्तर (plane); suññata / animitta / appaṇihita = शून्यतेची / चिन्हांचा अभाव असलेली / आकांक्षांचा अभाव असलेली.
+- thina / middha = आळस / सुस्ती; rāga = आसक्ती, sārāga = अनुराग; abhijjhā = हव्यास; āghāta = चीड.
+- nāma = मानसिक बाजू (nāmarūpa = मानसिक बाजू आणि भौतिक रूप); upacaya = वाढ; jarā = वार्धक्य; X-viññeyya rūpa = «Xच्या चेतनेने जाणता येणारे भौतिक रूप»; upādāna dyad term = «स्वतः धरून ठेवण्याचा प्रकार असलेला».
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md
