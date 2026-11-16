@@ -1,0 +1,29 @@
+---
+title: विश्लेषण - सोपी मराठी
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Vibhaṅgapāḷi
+root_text: 1-SOURCES/Text/pi-2.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-2_split_chapters
+source_text_id: Bkcft6D0nQCPZNb4Kkuf4
+source_edition_id: KAoqSlcxrqMtx3VRwmnPX
+translation_of: Bkcft6D0nQCPZNb4Kkuf4
+language: Marathi
+lang_tag: mr
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/marathi/pi-2-pali-marathi-termbase-plain.md
+termbase_approved: 2026-11-15
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-2-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "zero-shot built by generator scripts from shared formula frames and a synonym table shared with pi-1 (identical Pāli = pi-1's final Marathi) (sample first, remaining files in parallel), then a book-wide consistency pass in the generators; rails = the harmonised text with the locked termbase applied by an audited rule script (0 genuine termbase misses); independent bilingual review with fixes applied; the Pāli is translated as written, source slips flagged; dashes only where the Pāli has them (user rule)"
+zeroshot_split: AI_translation/marathi/pi-2-marathi-plain-zeroshot_split_chapters
+keyword_map: AI_translation/marathi/pi-2-keywords-by-reference-pali-marathi-plain.md
+senses: AI_translation/marathi/pi-2-pali-word-marathi-senses-plain.md
+segment_ids: "^T-1 … ^2-1044 (1543 blocks, matching the source)"
+chapters: preamble + 18 vibhaṅgas (Khandhavibhaṅga … Dhammahadayavibhaṅga)
+split_chapters: AI_translation/marathi/pi-2-marathi-plain-rails_split_chapters
+generated: 2026-11-15
+status: draft
+---

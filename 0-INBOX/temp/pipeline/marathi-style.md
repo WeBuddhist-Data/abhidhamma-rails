@@ -120,6 +120,15 @@ Audience: AI_translation/audience_profile/plain.md. Readers have little or no Bu
 - thina / middha = आळस / सुस्ती; rāga = आसक्ती, sārāga = अनुराग; abhijjhā = हव्यास; āghāta = चीड.
 - nāma = मानसिक बाजू (nāmarūpa = मानसिक बाजू आणि भौतिक रूप); upacaya = वाढ; jarā = वार्धक्य; X-viññeyya rūpa = «Xच्या चेतनेने जाणता येणारे भौतिक रूप»; upādāna dyad term = «स्वतः धरून ठेवण्याचा प्रकार असलेला».
 
+### pi-2 additions (pi-2 run, 2026-11-16; full list in AI_translation/marathi/pi-2-pali-marathi-termbase-plain.md)
+- Vibhaṅga = विश्लेषण; chapter titles «X चे विश्लेषण» (परस्परावलंबी उत्पत्तीचे, किरकोळ बाबींचे, घटनांच्या गाभ्याचे विश्लेषण …); book end «“विश्लेषण” ग्रंथ समाप्त.».
+- The three parts: सूत्रांनुसार विभागणी, अभिधम्मानुसार विभागणी, प्रश्नोत्तरे; suttanta frame «त्यांपैकी X म्हणजे काय? … – याला X म्हणतात»; «na vattabbā» = «Xला म्हणता येत नाही – …» (dative subject); siyā = «कधी …».
+- Identical Pāli = pi-1's final Marathi (the Dhammasaṅgaṇī definitions and lists).
+- The eleven qualifiers: भूतकाळातील / भविष्यकाळातील / वर्तमानकाळातील, स्वतःमधील / इतरांमधील (bahiddhā of nibbāna and the path's object = बाह्य), स्थूल / सूक्ष्म, हीन / उत्कृष्ट, दूर / जवळ.
+- Dependent origination: the chain «Xमुळे Y»; jarā = वार्धक्य; the fourth truth «दुःखाच्या अंताकडे नेणारा मार्ग»; nirodha = अंत.
+- ātāpī = उत्कट प्रयत्नशील (not तळमळ, which is lālappa); padhānasaṅkhāra = «निकराच्या प्रयत्नाची रचना»; tiracchānayoni = पशुयोनी; iriyāpatha = शरीराची स्थिती; manussarāhasseyyaka = माणसांच्या नजरेआड असलेले.
+- Edition punctuation that misplaces quotation marks: keep the marks, translate the words by their meaning (the «na vattabbo – "A"ti, "B"» dyad lines).
+
 ## Verify (must pass)
 ```
 python3 -I -X utf8 0-INBOX/temp/pipeline/check_chapter_ids.py <pali_split_dir> <marathi_split_dir> <ch>.md
