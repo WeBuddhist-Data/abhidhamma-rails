@@ -1,5 +1,5 @@
 ---
-title: "ปุคคลบัญญัติปกรณ์"
+title: "ปุคคลปัญญัติปกรณ์"
 language: Thai
 script: Thai
 file_type: translation
@@ -12,13 +12,13 @@ coverage: complete
 alignment: "block-aligned to 1-SOURCES/Text/pi-4.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
-source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-4-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๕๒] complete (numbering restarts after the Dhātukathā; the volume has one homage, kept with the Dhātukathā). Some stray spaces between Thai consonants may remain.]"
+source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-4-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๕๒] complete (numbering restarts after the Dhātukathā; the volume has one homage, kept with the Dhātukathā); book title ^4-0 taken from the end colophon 'ปุคคลปัญญัติปกรณ์ ฉภาณวาร จบ' (the volume title names both books). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 ---
 
 # พระอภิธรรมปิฎก เล่ม ๓ ^0
 
-## ธาตุ-ปุคคลบัญญัติปกรณ์ ^4-0
+## ปุคคลปัญญัติปกรณ์ ^4-0
 
 ![[1-SOURCES/Text/pi-4.md#^T-1]]
 ![[1-SOURCES/Text/pi-4.md#^4-M-1]]
@@ -1867,8 +1867,7 @@ verse_id_format: book-verse
 
 ![[1-SOURCES/Text/pi-4.md#^4-208]]
 
-**นวกนิทเทส**
-[บุคคล ๙ จำพวก]
+**[บุคคล ๙ จำพวก]**
 [๑๕๑] บุคคลผู้เป็นพระสัมมาสัมพุทธเจ้า เป็นไฉ น
 บุคคลบางคนในโลกนี้ ย่อมตรัสรู้สัจจะทั้งหลายด้วยตนเอง ในธรรมทั้งหลายที่ตนมิได้ เคยสดับมาแล้วในกาลก่อน บรรลุความเป็นพระสัพพัญญูในธรรมนั้นๆ และบรรลุความเป็นผู้ มีความชำนาญในธรรม เป็นกำลังทั้งหลายนี้เรียกว่า บุคคลผู้เป็นพระสัมมาสัมพุทธเจ้า
 บุคคลผู้เป็นพระปัจเจกพุทธะ เป็นไฉน
@@ -1886,7 +1885,8 @@ verse_id_format: book-verse
 บุคคลผู้เป็นธัมมานุสารี เป็นไฉน
 ปัญญินทรีย์ ของบุคคลใดผู้ปฏิบัติแล้ว เพื่อทำให้แจ้งโสดาปัตติผล มีประมาณยิ่ง บุคคลนั้นย่อมอบรมอริยมรรคอันมีปัญญาเป็นตัวนำ มีปัญญาเป็นประธาน นี้เรียกว่า บุคคลผู้เป็น ธัมมานุสารี บุคคลผู้ปฏิบัติแล้ว เพื่อทำให้แจ้งโสดาปัตติผล ชื่อว่าธัมมานุสารี บุคคลผู้ตั้งแล้ว อยู่ในผล ชื่อว่าทิฏฐิปัตตะ
 บุคคลผู้เป็นสัทธานุสารี เป็นไฉน
-สัทธินทรีย์ ของบุคคลใดผู้ปฏิบัติ เพื่อทำให้แจ้งโสดาปัตติผล มีประมาณยิ่ง บุคคลนั้น ย่อมอบรมอริยมรรค มีสัทธาเป็นตัวนำ มีสัทธาเป็นประธานนี้เรียกว่า บุคคลผู้เป็นสัทธานุสารี บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งโสดาปัตติผลชื่อว่าสัทธานุสารี บุคคลผู้ตั้งอยู่แล้วในผล ชื่อว่า สัทธาวิมุต ^4-208
+สัทธินทรีย์ ของบุคคลใดผู้ปฏิบัติ เพื่อทำให้แจ้งโสดาปัตติผล มีประมาณยิ่ง บุคคลนั้น ย่อมอบรมอริยมรรค มีสัทธาเป็นตัวนำ มีสัทธาเป็นประธานนี้เรียกว่า บุคคลผู้เป็นสัทธานุสารี บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งโสดาปัตติผลชื่อว่าสัทธานุสารี บุคคลผู้ตั้งอยู่แล้วในผล ชื่อว่า สัทธาวิมุต
+นวกนิทเทส ^4-208
 
 #### ทสกนิทเทส ^4-1-10-0
 

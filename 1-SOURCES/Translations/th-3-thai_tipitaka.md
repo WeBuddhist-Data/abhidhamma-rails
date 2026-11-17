@@ -12,7 +12,7 @@ coverage: complete
 alignment: "block-aligned to 1-SOURCES/Text/pi-3.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
-source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-3-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๕๑๕] complete. Some stray spaces between Thai consonants may remain.]"
+source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-3-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๕๑๕] complete; book title ^3-0 taken from the end colophon 'ธาตุกถาปกรณ์ จบบริบูรณ์' (the volume title names both books). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 ---
 
@@ -22,13 +22,14 @@ verse_id_format: book-verse
 
 # พระอภิธรรมปิฎก เล่ม ๓ ^0
 
-## ธาตุ-ปุคคลบัญญัติปกรณ์ ^3-0
+## ธาตุกถาปกรณ์ ^3-0
+
+### มาติกา ^3-1-0
 
 #### ๑. นยมาติกา ๑๔ นัย ^3-1-1-0
 
 ![[1-SOURCES/Text/pi-3.md#^3-1]]
 
-**มาติกา**
 [๑] ๑. การสงเคราะห์ได้การสงเคราะห์ไม่ได้
 ๒. ธรรมที่สงเคราะห์ไม่ได้ด้วยธรรมที่สงเคราะห์ได้
 ๓. ธรรมที่สงเคราะห์ได้ด้วยธรรมที่สงเคราะห์ไม่ได้

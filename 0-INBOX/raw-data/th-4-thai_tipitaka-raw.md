@@ -1,5 +1,5 @@
 ---
-title: "ปุคคลบัญญัติปกรณ์"
+title: "ปุคคลปัญญัติปกรณ์"
 language: Thai
 script: Thai
 file_type: translation

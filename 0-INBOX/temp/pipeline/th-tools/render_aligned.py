@@ -158,7 +158,10 @@ for blk in R:
         # the translation is left out (user decision, 2026-11-13).
         h = M[bid]["heading"]
         text = None
-        if lang == "th" and bid in TITLE_IDS and M[TITLE_IDS[1]]["heading"] is not None:
+        if bid in J.get("title_override", {}):
+            # a book sharing a volume: its own name from its end colophon, not the volume title
+            text = J["title_override"][bid]
+        elif lang == "th" and bid in TITLE_IDS and M[TITLE_IDS[1]]["heading"] is not None:
             # The Thai title page has one line "พระอภิธรรมปิฎก เล่ม N <book>":
             # basket + volume -> ^0, book title -> ^N-0
             full = D[M[TITLE_IDS[1]]["heading"]]["text"]
