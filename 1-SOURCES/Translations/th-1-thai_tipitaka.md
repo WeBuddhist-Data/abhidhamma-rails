@@ -6,12 +6,16 @@ file_type: translation
 lang_tag: th
 pitaka: abhidhamma
 root_text: 1-SOURCES/Text/pi-1.md
-translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, vol. 34"
+translation_of: BzOXhiRUQM4MOT6affzmO
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง) of the Thai Department of Religious Affairs"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๔: พระอภิธรรมปิฎก เล่ม ๑ ธรรมสังคณีปกรณ์"
 coverage: complete
 alignment: "block-aligned to 1-SOURCES/Text/pi-1.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
+license: public
+source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_34 ธรรมสังคณีปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in the two-column Pāli/Thai matrix only the Thai column is kept, one line per item (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-1-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๙๘๗] complete. Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
@@ -4689,7 +4693,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๑ อย่างนี้.
 เอกกมาติกา จบ. ^1-584
 
-##### ทุกมาติกา ^1-2-2-2-0
+#### ทุกมาติกา ^1-2-2-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-U1]]
 
@@ -4745,7 +4749,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๒ อย่างนี้.
 ทุกมาติกา จบ. ^1-U1
 
-##### ติกมาติกา ^1-2-2-3-0
+#### ติกมาติกา ^1-2-2-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-585]]
 
@@ -4799,7 +4803,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๓ อย่างนี้.
 ติกมาติกา จบ. ^1-585
 
-##### จตุกกมาติกา ^1-2-2-4-0
+#### จตุกกมาติกา ^1-2-2-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-586]]
 
@@ -4829,7 +4833,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๔ อย่างนี้.
 จตุกกมาติกา จบ. ^1-586
 
-##### ปัญจกมาติกา ^1-2-2-5-0
+#### ปัญจกมาติกา ^1-2-2-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-587]]
 
@@ -4838,7 +4842,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๕ อย่างนี้.
 ปัญจกมาติกา จบ. ^1-587
 
-##### ฉักกมาติกา ^1-2-2-6-0
+#### ฉักกมาติกา ^1-2-2-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-588]]
 
@@ -4847,7 +4851,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๖ อย่างนี้.
 ฉักกมาติกา จบ. ^1-588
 
-##### สัตตกมาติกา ^1-2-2-7-0
+#### สัตตกมาติกา ^1-2-2-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-589]]
 
@@ -4856,7 +4860,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๗ อย่างนี้.
 สัตตกมาติกา จบ. ^1-589
 
-##### อัฏฐกมาติกา ^1-2-2-8-0
+#### อัฏฐกมาติกา ^1-2-2-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-590]]
 
@@ -4865,7 +4869,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๘ อย่างนี้.
 อัฏฐกมาติกา จบ. ^1-590
 
-##### นวกมาติกา ^1-2-2-9-0
+#### นวกมาติกา ^1-2-2-9-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-591]]
 
@@ -4874,7 +4878,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๙ อย่างนี้.
 นวกมาติกา จบ. ^1-591
 
-##### ทสกมาติกา ^1-2-2-10-0
+#### ทสกมาติกา ^1-2-2-10-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-592]]
 
@@ -4883,7 +4887,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 สงเคราะห์รูปเป็นหมวดละ ๑๐ อย่างนี้.
 ทสกมาติกา จบ. ^1-592
 
-##### เอกาทสกมาติกา ^1-2-2-11-0
+#### เอกาทสกมาติกา ^1-2-2-11-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-593]]
 

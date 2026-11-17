@@ -154,6 +154,7 @@ for b, items in prefix.items():
 out, ml = [], []
 stack = []  # transclusions waiting for text (MERGE)
 last_group = None  # index in out of the previous passage's transclusion group
+hstack = []  # (root level, output level) of the headings written so far, innermost last
 CHECK = set(J.get("check", []))
 for blk in R:
     bid = blk["id"]
@@ -184,7 +185,13 @@ for blk in R:
             stack = []
         # (with no previous passage, e.g. a homage the Thai lacks, the stack carries forward)
         if text:
-            out.append("#" * blk["level"] + " " + text + f" ^{bid}")
+            # output level: one below the nearest written ancestor heading, so a root heading
+            # left out (no heading in this translation) leaves no gap in the levels
+            while hstack and hstack[-1][0] >= blk["level"]:
+                hstack.pop()
+            lvl = hstack[-1][1] + 1 if hstack else 1
+            hstack.append((blk["level"], lvl))
+            out.append("#" * lvl + " " + text + f" ^{bid}")
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  {text[:50]}")
         else:
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  (no heading in this translation: left out)")

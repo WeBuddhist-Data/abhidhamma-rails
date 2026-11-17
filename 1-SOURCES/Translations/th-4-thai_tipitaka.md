@@ -6,12 +6,16 @@ file_type: translation
 lang_tag: th
 pitaka: abhidhamma
 root_text: 1-SOURCES/Text/pi-4.md
-translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๓๖: พระอภิธรรมปิฎก เล่ม ๓ ธาตุ-ปุคคลบัญญัติปกรณ์ (ปุคคลบัญญัติ)"
+translation_of: leKc1Ei0OBaZN2FNMqlpL
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง) of the Thai Department of Religious Affairs"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๖: พระอภิธรรมปิฎก เล่ม ๓ ธาตุ-ปุคคลบัญญัติปกรณ์ (ปุคคลบัญญัติ)"
 coverage: complete
 alignment: "block-aligned to 1-SOURCES/Text/pi-4.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
+license: public
+source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-4-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๕๒] complete (numbering restarts after the Dhātukathā; the volume has one homage, kept with the Dhātukathā); book title ^4-0 taken from the end colophon 'ปุคคลปัญญัติปกรณ์ ฉภาณวาร จบ' (the volume title names both books). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 ---
@@ -185,7 +189,7 @@ verse_id_format: book-verse
 บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งอรหัตผล
 เอกกมาติกา จบ ^4-M-7
 
-#### ทุกมาติกา ^4-M-2-0
+### ทุกมาติกา ^4-M-2-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-8]]
 
@@ -239,7 +243,7 @@ verse_id_format: book-verse
 บุคคลผู้ให้คนอื่นอิ่ม
 ทุกมาติกา จบ ^4-M-8
 
-#### ติกมาติกา ^4-M-3-0
+### ติกมาติกา ^4-M-3-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-9]]
 
@@ -292,7 +296,7 @@ verse_id_format: book-verse
 ศาสดา ๓ ประเภท แม้อื่นอีก
 ติกมาติกา จบ ^4-M-9
 
-#### จตุกกมาติกา ^4-M-4-0
+### จตุกกมาติกา ^4-M-4-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-10]]
 
@@ -397,7 +401,7 @@ verse_id_format: book-verse
 สมณะสุขุมาลในหมู่สมณะ
 จตุกกมาติกา จบ ^4-M-10
 
-#### ปัญจกมาติกา ^4-M-5-0
+### ปัญจกมาติกา ^4-M-5-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-11]]
 
@@ -426,7 +430,7 @@ verse_id_format: book-verse
 ภิกษุผู้ถืออยู่ป่าช้าเป็นวัตร ๕ จำพวก
 ปัญจกมาติกา จบ ^4-M-11
 
-#### ฉักกมาติกา ^4-M-6-0
+### ฉักกมาติกา ^4-M-6-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-12]]
 
@@ -439,7 +443,7 @@ verse_id_format: book-verse
 บุคคลบางคนไม่แทงตลอดสัจจะด้วยตนเองในธรรมทั้งหลาย ที่มิได้สดับแล้วในก่อน ทั่งไม่ทำที่สุดทุกข์ในทิฏฐธรรมเทียว เป็นโสดาบัน และสกทาคามี มาแล้วสู่ความเป็น อย่างนี้
 ฉักกมาติกา จบ ^4-M-12
 
-#### สัตตกมาติกา ^4-M-7-0
+### สัตตกมาติกา ^4-M-7-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-13]]
 
@@ -461,7 +465,7 @@ verse_id_format: book-verse
 บุคคลผู้เป็นสัทธานุสารี
 สัตตกมาติกา จบ ^4-M-13
 
-#### อัฏฐกมาติกา ^4-M-8-0
+### อัฏฐกมาติกา ^4-M-8-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-14]]
 
@@ -470,7 +474,7 @@ verse_id_format: book-verse
 บุคคลผู้พร้อมเพรียงด้วยผล ๔
 อัฏฐกมาติกา จบ ^4-M-14
 
-#### นวกมาติกา ^4-M-9-0
+### นวกมาติกา ^4-M-9-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-15]]
 
@@ -486,7 +490,7 @@ verse_id_format: book-verse
 บุคคลผู้เป็นสัทธานุสารี
 นวกมาติกา จบ ^4-M-15
 
-#### ทสกมาติกา ^4-M-10-0
+### ทสกมาติกา ^4-M-10-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-M-16]]
 
@@ -496,7 +500,7 @@ verse_id_format: book-verse
 ทสกมาติกา จบ
 มาติกาปุคคลปัญญัติ จบ ^4-M-16
 
-#### เอกกนิทเทส ^4-1-1-0
+### เอกกนิทเทส ^4-1-1-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-1]]
 
@@ -716,7 +720,7 @@ verse_id_format: book-verse
 บุคคลปฏิบัติแล้ว เพื่อไม่ให้เหลือซึ่งรูปราคะ อรูปราคะ มานะ อุทธัจจะ และอวิชชา ปฏิบัติแล้วเพื่อทำให้แจ้งซึ่งอรหัตผล รูปราคะ อรูปราคะมานะ อุทธัจจะ อวิชชา อันบุคคลใด ละได้หมดไม่มีเหลือ บุคคลนี้เรียกว่าอรหันต์
 เอกกนิทเทส จบ ^4-44
 
-#### ทุกนิทเทส ^4-1-2-0
+### ทุกนิทเทส ^4-1-2-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-45]]
 
@@ -953,7 +957,7 @@ verse_id_format: book-verse
 สมเด็จพระสัมมาสัมพุทธเจ้า ชื่อว่าผู้อิ่มแล้วด้วย ยังผู้อื่นให้อิ่มแล้วด้วย
 ทุกนิทเทส จบ ^4-90
 
-#### ติกนิทเทส ^4-1-3-0
+### ติกนิทเทส ^4-1-3-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-91]]
 
@@ -1200,7 +1204,7 @@ verse_id_format: book-verse
 เหล่านี้เรียกว่าศาสดา ๓ จำพวก แม้อื่นอีก
 ติกนิทเทส จบ ^4-131
 
-#### จตุกกนิทเทส ^4-1-4-0
+### จตุกกนิทเทส ^4-1-4-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-132]]
 
@@ -1712,7 +1716,7 @@ verse_id_format: book-verse
 บุคคลบางคนในโลกนี้ รู้ยิ่งด้วยตนเองแล้ว กระทำให้แจ้งแล้ว เข้าถึงแล้วซึ่งเจโตวิมุติ ปัญญาวิมุติ  อันหาอาสวะมิได้ เพราะความสิ้นไปแห่งอาสวะทั้งหลายแล้ว สำเร็จอิริยาบถอยู่ ในทิฏฐธรรมเทียว นี้ เรียกว่า บุคคลผู้เป็นสมณะสุขุมาลในหมู่สมณะ
 จตุกกนิทเทส จบ ^4-190
 
-#### ปัญจกนิทเทส ^4-1-5-0
+### ปัญจกนิทเทส ^4-1-5-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-191]]
 
@@ -1799,7 +1803,7 @@ verse_id_format: book-verse
 
 ปัญจกนิทเทส จบ ^4-201
 
-#### ฉักกนิทเทส ^4-1-6-0
+### ฉักกนิทเทส ^4-1-6-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-202]]
 
@@ -1812,7 +1816,7 @@ verse_id_format: book-verse
 บุคคลนี้ใด มิได้ตรัสรู้สัจจะทั้งหลายด้วยตนเองในธรรมทั้งหลายที่ไม่ได้สดับมาแล้ว ในกาลก่อน ทั้งไม่ได้ทำที่สุดทุกข์ในทิฏฐธรรมเทียว ยังมาสู่ความเป็นอย่างนี้ บุคคลเหล่านั้น พึงเห็นว่าเป็น พระโสดาบัน พระสกทาคามีด้วยการมาสู่ความเป็นอย่างนี้นั้น
 ฉักกนิทเทส จบ ^4-202
 
-#### สัตตกนิทเทส ^4-1-7-0
+### สัตตกนิทเทส ^4-1-7-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-203]]
 
@@ -1846,7 +1850,7 @@ verse_id_format: book-verse
 สัทธินทรีย์ของบุคคลใด ผู้ปฏิบัติเพื่อทำให้แจ้ง โสดาปัตติผลมีประมาณยิ่ง อบรม อริยมรรค มีสัทธาเป็นตัวนำ มีสัทธาเป็นประธาน นี้เรียกว่า บุคคลผู้เป็นสัทธานุสารี บุคคล ผู้ปฏิบัติเพื่อทำให้แจ้งโสดาปัตติผล ชื่อว่าสัทธานุสารีผู้ตั้งอยู่แล้วในผล ชื่อว่าสัทธาวิมุต ด้วยประการดังนี้แล
 สัตตกนิทเทส จบ ^4-206
 
-#### อัฏฐกนิทเทส ^4-1-8-0
+### อัฏฐกนิทเทส ^4-1-8-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-207]]
 
@@ -1863,7 +1867,7 @@ verse_id_format: book-verse
 เหล่านี้ชื่อว่า บุคคลผู้พร้อมเพรียงด้วยมรรค ๔ ผู้พร้อมเพรียงด้วยผล ๔
 อัฏฐกนิทเทส จบ ^4-207
 
-#### นวกนิทเทส ^4-1-9-0
+### นวกนิทเทส ^4-1-9-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-208]]
 
@@ -1888,7 +1892,7 @@ verse_id_format: book-verse
 สัทธินทรีย์ ของบุคคลใดผู้ปฏิบัติ เพื่อทำให้แจ้งโสดาปัตติผล มีประมาณยิ่ง บุคคลนั้น ย่อมอบรมอริยมรรค มีสัทธาเป็นตัวนำ มีสัทธาเป็นประธานนี้เรียกว่า บุคคลผู้เป็นสัทธานุสารี บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งโสดาปัตติผลชื่อว่าสัทธานุสารี บุคคลผู้ตั้งอยู่แล้วในผล ชื่อว่า สัทธาวิมุต
 นวกนิทเทส ^4-208
 
-#### ทสกนิทเทส ^4-1-10-0
+### ทสกนิทเทส ^4-1-10-0
 
 ![[1-SOURCES/Text/pi-4.md#^4-209]]
 

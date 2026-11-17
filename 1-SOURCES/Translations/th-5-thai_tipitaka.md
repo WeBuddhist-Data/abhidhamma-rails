@@ -6,12 +6,16 @@ file_type: translation
 lang_tag: th
 pitaka: abhidhamma
 root_text: 1-SOURCES/Text/pi-5.md
-translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๓๗: พระอภิธรรมปิฎก เล่ม ๔ กถาวัตถุปกรณ์"
+translation_of: HE6FGm4AAqwlDOTnCT0Yd
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง) of the Thai Department of Religious Affairs"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๗: พระอภิธรรมปิฎก เล่ม ๔ กถาวัตถุปกรณ์"
 coverage: complete
 alignment: "block-aligned to 1-SOURCES/Text/pi-5.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
+license: public
+source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_37 กถาวัตปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy wrapped dialogue lines that the PDF indents like centred text (5,662) rejoined to their paragraphs keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๘๙๗] complete. Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 ---
@@ -26,7 +30,7 @@ verse_id_format: book-verse
 
 ### ปุคคลกถา ^5-1-0
 
-##### อนุโลมปัญจกะ ^5-1-1-1-0
+#### อนุโลมปัญจกะ ^5-1-1-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-1]]
 
@@ -70,7 +74,7 @@ verse_id_format: book-verse
 นิคหะที่ ๑ จบ
 นิคหะที่ ๒ ^5-5
 
-##### ปัจจนีกปัญจกะ ^5-1-2-1-0
+#### ปัจจนีกปัญจกะ ^5-1-2-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-6]]
 
@@ -10262,7 +10266,7 @@ verse_id_format: book-verse
 ป. ถ้าอย่างนั้น ผู้เห็นอานิสงส์ (ในนิพพาน) ก็ละสัญโญชน์ได้น่ะสิ
 อานิสังสกถา จบ ^5-548
 
-##### อมตารัมมณกถา ^5-17-2-1-0
+#### อมตารัมมณกถา ^5-17-2-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-549]]
 
@@ -10339,7 +10343,7 @@ verse_id_format: book-verse
 ป. ถ้าอย่างนั้น สัญโญชน์ก็มีอมตะเป็นอารมณ์ น่ะสิ
 อมตารัมมณกถา จบ ^5-551
 
-##### รูปังสารัมมณันติกถา ^5-17-3-1-0
+#### รูปังสารัมมณันติกถา ^5-17-3-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-552]]
 
@@ -10376,7 +10380,7 @@ verse_id_format: book-verse
 ป. หากว่า รูปเป็นธรรมมีปัจจัย ด้วยเหตุนั้นนะท่าน จึงต้องกล่าวว่า รูปเป็น ธรรมมีอารมณ์
 รูปังสารัมมณันติกถา จบ ^5-553
 
-##### อนุสยา อนารัมมณาติกถา ^5-17-4-1-0
+#### อนุสยา อนารัมมณาติกถา ^5-17-4-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-554]]
 
@@ -10471,7 +10475,7 @@ verse_id_format: book-verse
 ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
 ส. ถ้าอย่างนั้น ราคะก็เป็นธรรมไม่มีอารมณ์ น่ะสิ อนุสยา อนารัมมณาติกถา จบ ^5-556
 
-##### ญาณัง อนารัมมณันติกถา ^5-17-5-1-0
+#### ญาณัง อนารัมมณันติกถา ^5-17-5-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-557]]
 
@@ -10542,7 +10546,7 @@ verse_id_format: book-verse
 ส. หากว่า ความนึก ฯลฯ ความตั้งใจ ปรารภอดีต มีอยู่ ก็ต้องไม่กล่าวว่า จิต ที่มีอดีตเป็นอารมณ์ เป็นธรรมไม่มีอารมณ์
 อตีตารัมมณกถา จบ ^5-558
 
-##### อนาคตารัมมณกถา ^5-17-6-1-0
+#### อนาคตารัมมณกถา ^5-17-6-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-559]]
 
@@ -10585,7 +10589,7 @@ verse_id_format: book-verse
 ป. หากว่า อดีตและอนาคตไม่มีอยู่ ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า จิต ที่มีอดีตและอนาคตเป็นอารมณ์ เป็นธรรมไม่มีอารมณ์ ฯลฯ
 อนาคตารัมมณกถา จบ ^5-561
 
-##### วิตักกานุปติตกถา ^5-17-7-1-0
+#### วิตักกานุปติตกถา ^5-17-7-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-562]]
 
@@ -10610,7 +10614,7 @@ verse_id_format: book-verse
 ส. หากว่า พระผู้มีพระภาคได้ตรัสสมาธิ ๓ อย่าง คือ สมาธิมีวิตกมีวิจาร สมาธิไม่มีวิตกมีเพียงวิจาร สมาธิไม่มีวิตกไม่มีวิจาร ก็ต้องไม่กล่าวว่า จิตทุกดวงเนื่องด้วยวิตก
 วิตักกานุปติตกถา จบ ^5-562
 
-##### วิตักกวิปผารสัททกถา ^5-17-8-1-0
+#### วิตักกวิปผารสัททกถา ^5-17-8-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-563]]
 
@@ -10628,7 +10632,7 @@ verse_id_format: book-verse
 ส. หากว่า ความแผ่ไปแห่งวิตก ไม่เป็นเสียงที่พึงรู้ได้ด้วยโสตวิญญาณ ไม่ กระทบที่โสตะ ไม่มาสู่คลองแห่งโสตะ ก็ต้องไม่กล่าวว่า ทุกครั้งที่ตรึก อยู่ ตรองอยู่ ความแผ่ไปแห่งวิตกเกิดเป็นเสียง
 วิตักกวิปผารสัททกถา จบ ^5-563
 
-##### นยถาจิตตัสสวาจาติกถา ^5-17-9-1-0
+#### นยถาจิตตัสสวาจาติกถา ^5-17-9-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-564]]
 
@@ -10668,7 +10672,7 @@ verse_id_format: book-verse
 ป. หากว่า บางคนที่คิดว่าจะกล่าวอย่างหนึ่ง ก็กล่าวเสียอีกอย่างหนึ่ง ฯลฯ คิดว่าจะพูดอย่างหนึ่ง ก็พูดเสียอีกอย่างหนึ่ง มีอยู่ ด้วยเหตุนั้นนะท่าน จึงต้องกล่าวว่า บุคคลผู้ไม่มีความคิดอย่างไร ก็มีวาจาได้
 นยถาจิตตัสสวาจาติกถา จบ ^5-565
 
-##### นยถาจิตตัสสกายกัมมันติกถา ^5-17-10-1-0
+#### นยถาจิตตัสสกายกัมมันติกถา ^5-17-10-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-566]]
 
@@ -10708,7 +10712,7 @@ verse_id_format: book-verse
 ป. หากว่า บางคนที่คิดว่าจะไปในที่แห่งหนึ่ง ก็ไปเสียในที่อีกแห่งหนึ่ง ฯลฯ คิดว่าจะเหยียดแขนข้างหนึ่ง ก็เหยียดเสียอีกข้างหนึ่ง มีอยู่ ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า บุคคลผู้ไม่มีความคิดอย่างไร ก็มีกาย กรรมได้
 นยถาจิตตัสสกายกัมมันติกถา จบ ^5-567
 
-##### อตีตานาคตปัจจุปปันนกถา ^5-17-11-1-0
+#### อตีตานาคตปัจจุปปันนกถา ^5-17-11-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-568]]
 
