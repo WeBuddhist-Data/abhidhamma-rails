@@ -104,6 +104,7 @@ def clean_page(text):
 VI_HEAD = [
     (re.compile(r"^PHẦN [IVXL]+(\s*[-–.:]|\s+[A-ZĐÀ-Ỹ]|\s*$)"), 2),  # "PHẦN I - UẨN …", "PHẦN I XIỂN MINH …", "PHẦN I"
     (re.compile(r"^(ĐẠI )?PHẨM THỨ [A-ZĐÀ-Ỹ ]+$"), 2),  # Kathāvatthu vaggas: "PHẨM THỨ HAI"
+    (re.compile(r"^[A-ZĐÀ-Ỹ ]{2,20} SONG$"), 2),  # Yamaka: "CĂN SONG", "TÂM SONG"
     (re.compile(r"^[A-H]\.\s+\S"), 3),  # "A. UẨN PHÂN TÍCH PHẦN PHÂN THEO KINH"
     (re.compile(r"^(Xiển minh|Đầu đề) phần \S+$"), 4),  # Puggalapaññatti: "Xiển minh phần tam"
     (re.compile(r"^Phần [A-Z]\.", re.I), 2),

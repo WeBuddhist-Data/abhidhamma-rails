@@ -17,7 +17,7 @@ status: draft
 copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
 license: copyrighted
 source: https://archive.org/details/2-abhi-bo-phan-tich
-source_description: "archive.org item 2-abhi-bo-phan-tich, file '2-Abhi-Bo-Phan-Tich.pdf' (Word export, June 2015); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 8), running headers and a decorative separator removed; a translator footnote removed (the raw copy 0-INBOX/raw-data/vi-2-tinh_su-raw.md keeps it); 163 syllables split by the extraction re-joined; bullet glyphs rendered as list items; titles ^0 and ^2-0 taken from the title page; Pāli chapter names printed under a heading line, e.g. '(Dhātuvibhaṅga)', joined to that heading; paragraph numbers 1 to 1118 (727, 752 and 1108 are not numbered in the source; their text stays with the paragraph before).]"
+source_description: "archive.org item 2-abhi-bo-phan-tich, file '2-Abhi-Bo-Phan-Tich.pdf' (Word export, June 2015); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 8), running headers and a decorative separator removed; a translator footnote removed (the raw copy 0-INBOX/raw-data/vi-2-tinh_su-raw.md keeps it); 163 syllables split by the extraction re-joined; bullet glyphs rendered as list items; titles ^0 and ^2-0 taken from the title page; Pāli chapter names printed under a heading line, e.g. '(Dhātuvibhaṅga)', joined to that heading; paragraph numbers 1 to 1118 (727 and 752 are not numbered in the source, their text stays with the paragraph before; 1108 is misprinted as 1008).]"
 verse_id_format: book-verse
 ---
 
@@ -8107,10 +8107,8 @@ Tuổi thọ của bực trời Phi Tưởng Phi Phi Tưởng Xứ chừng bao n
 #### 7) PHẦN THẤU TRIỆT (Abhiññeyyadivāra) ^2-18-7-0
 
 ![[1-SOURCES/Text/pi-2.md#^2-1030]]
-![[1-SOURCES/Text/pi-2.md#^2-1031]]
 
-1008. Bao nhiêu ngũ (5) uẩn mà uẩn nào thành pháp thấu triệt, uẩn nào thành pháp chu tường, uẩn nào thành pháp tuyệt trừ, uẩn nào thành pháp tu tiến, uẩn nào thành pháp tỏ ngộ, uẩn nào thành pháp phi trừ, uẩn nào thành pháp phi tu, uẩn nào thành pháp phi ngộ …
-Bao nhiêu thất (7) tâm mà tâm nào thành pháp thấu triệt, tâm nào thành pháp chu toàn, tâm nào thành pháp tuyệt trừ, tâm nào t hành pháp tu tiến, tâm nào thành pháp tỏ ngộ, tâm nào thành pháp phi trừ, tâm nào thành pháp phi ngộ, tâm nào thành pháp phi tu?
+1008. Bao nhiêu ngũ (5) uẩn mà uẩn nào thành pháp thấu triệt, uẩn nào thành pháp chu tường, uẩn nào thành pháp tuyệt trừ, uẩn nào thành pháp tu tiến, uẩn nào thành pháp tỏ ngộ, uẩn nào thành pháp phi trừ, uẩn nào thành pháp phi tu, uẩn nào thành pháp phi ngộ … Bao nhiêu thất (7) tâm mà tâm nào thành pháp thấu triệt, tâm nào thành pháp chu toàn, tâm nào thành pháp tuyệt trừ, tâm nào t hành pháp tu tiến, tâm nào thành pháp tỏ ngộ, tâm nào thành pháp phi trừ, tâm nào thành pháp phi ngộ, tâm nào thành pháp phi tu?
 Như là sắc uẩn thành pháp thấu triệt (abhiññeyya), thành pháp chu tường (pariññeyya), thành pháp phi trừ (napahātabba), thành pháp phi tu (nabhāvetabba) và thành pháp phi ngộ (nasacchikātabba). Còn bốn uẩn (kia) thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp tu tiến cũng có, thành pháp tỏ ngộ (sacchikātabba), thành pháp phi trừ, pháp phi tu, pháp phi ngộ cũng có.
 Thập xứ thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, phi tỏ ngộ. Nhị xứ thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp tu tiến cũng có, thành pháp tỏ ngộ cũ ng có, thành pháp phi trừ, pháp phi tu và pháp phi ngộ cũng có.
 Thập lục giới thành pháp thấu triệt, thành pháp chu tường, pháp phi tu, pháp phi ngộ. Nhị giới thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ,
@@ -8118,11 +8116,14 @@ thành pháp tu tiến cũng có, thành pháp tỏ ngộ cũng có, thành phá
 Tập đế thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ, thành pháp phi tu, thành pháp phi ngộ. Đạo đế thành pháp thấu triệt, thành pháp chu tường, thành phá p phi tu, thành pháp phi ngộ. Diệt đế thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp tu tiến, thành pháp tỏ ngộ . Khổ đế thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp phi tu, thành pháp phi ngộ và pháp phi tuyệt trừ cũng có.
 Cửu quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp phi tuyệt trừ, thành pháp phi tu tiến, thành pháp phi tỏ ngộ. Ưu quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ, thành pháp phi tu, thành pháp phi ngộ. Tri dị tri quyền thành pháp thấu triệt, thành pháp chu tường, pháp phi trừ, thành pháp phi tu, thành pháp phi ngộ. Tri dĩ tri quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp tu tiến cũng có, thành p háp tỏ ngộ cũng có. Tri cụ tri quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành pháp tỏ ngộ . Tam quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp tu tiến, thành pháp tỏ ngộ cũn g có, thành pháp phi tu, thành pháp phi ngộ cũng có . Lục quyền thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp tu tiến cũng có, thành pháp tỏ ngộ cũng có, thành pháp phi trừ, thành pháp phi tu và pháp phi ngộ cũng có.
 Ba nhân bất thiện thành pháp thấu triệt, thành pháp chu tường, thành pháp phi tu, thành pháp phi ngộ.
-Ba nhân thiện thành pháp thấu triệt, thành pháp chu tế, thành pháp phi trừ, thành pháp tu tiến, thành pháp phi ngộ cũng có, thành pháp phi tu cũng có.
+Ba nhân thiện thành pháp thấu triệt, thành pháp chu tế, thành pháp phi trừ, thành pháp tu tiến, thành pháp phi ngộ cũng có, thành pháp phi tu cũng có. ^2-1030
+
+![[1-SOURCES/Text/pi-2.md#^2-1031]]
+
 Ba nhân vô ký thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành pháp tỏ ngộ cũng có, thành pháp phi tỏ ngộ cũng có.
 Đoàn thực thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành phá p phi ngộ. Tam thực thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp tu tiến cũng có, thành pháp tỏ ngộ cũng có, thành pháp phi trừ, thành pháp phi tu và pháp phi ngộ cũng có.
 Lục xúc thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành pháp phi ngộ. Ý thức giới xúc thành pháp thấu triệt, thành pháp chu tường, thành pháp tuyệt trừ cũng có, thành pháp tu tiến cũng có, thành pháp tỏ ngộ cũng có, thành pháp phi trừ, thành pháp phi tu và pháp phi tỏ ngộ cũng có.
-Lục thọ, lục tưởng , lục tư, lục tâm thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành pháp phi ngộ. ^2-1030
+Lục thọ, lục tưởng , lục tư, lục tâm thành pháp thấu triệt, thành pháp chu tường, thành pháp phi trừ, thành pháp phi tu, thành pháp phi ngộ. ^2-1031
 
 #### 8) PHẦN CẢNH ^2-18-8-0
 

@@ -1,0 +1,22 @@
+---
+title: "Bộ Song Đối"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-6.md
+translation_of: IZ74xHeWa9xortlOhL6cc
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ sáu: Bộ Song Đối, quyển thượng và quyển hạ, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1975); NXB Tôn Giáo 2012"
+coverage: complete
+use: "reference only, for checking AI translations; not for hosting or upload (in copyright)"
+alignment: "block-aligned to 1-SOURCES/Text/pi-6.md through the Thai Royal edition (vols. 38 and 39; paragraph numbers restart in the second volume): each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Vietnamese-only headings open the next block as bold lines"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://archive.org/details/6-abhi-bo-song-doi
+source_description: "archive.org item 6-abhi-bo-song-doi, file '6-Abhi-Bo-Song-Doi.pdf' (Word export, August 2015; both volumes); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 6) and running headers removed; translator footnotes removed (the raw copy 0-INBOX/raw-data/vi-6-tinh_su-raw.md keeps them); 5,301 split syllables re-joined; bullet glyphs rendered as list items; titles ^0 and ^6-0 taken from the title page; the ten yamaka titles ('CĂN SONG' …) paired in order with the root's yamakas, other headings by the Pāli name the translator gives in brackets; paragraph numbers 1 to 1571 and, after the restart, 1 to 1454; in the first volume Vietnamese 1485 to 1571 correspond to Thai [1495] to [1581] (the Thai edition lacks [1485] to [1494]); in the second volume 1221 is not numbered and 1224 to 1235 are partly misprinted as 1124 to 1135.]"
+verse_id_format: book-verse
+---

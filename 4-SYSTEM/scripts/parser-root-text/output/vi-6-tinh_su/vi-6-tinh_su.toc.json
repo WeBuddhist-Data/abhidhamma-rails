@@ -1,0 +1,435 @@
+{
+  "sections": [
+    {
+      "title": {
+        "vi": "TẠNG VÔ TỶ PHÁP (ABHIDHAMMAPIṬAKA)"
+      },
+      "span": {
+        "start": 98,
+        "end": 1808400
+      },
+      "subsections": [
+        {
+          "title": {
+            "vi": "BỘ SONG ĐỐI (YAMAKA)"
+          },
+          "span": {
+            "start": 98,
+            "end": 1808400
+          },
+          "subsections": [
+            {
+              "title": {
+                "vi": "CĂN SONG"
+              },
+              "span": {
+                "start": 98,
+                "end": 24827
+              }
+            },
+            {
+              "title": {
+                "vi": "UẨN SONG"
+              },
+              "span": {
+                "start": 24827,
+                "end": 115802
+              }
+            },
+            {
+              "title": {
+                "vi": "XỨ SONG"
+              },
+              "span": {
+                "start": 115802,
+                "end": 358711
+              }
+            },
+            {
+              "title": {
+                "vi": "GIỚI SONG (Dhātu yamaka)"
+              },
+              "span": {
+                "start": 358711,
+                "end": 374043
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN ĐỊNH DANH (PAÑÑATTIVARA)"
+                  },
+                  "span": {
+                    "start": 358711,
+                    "end": 366942
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Phần Xiển Thuật (Uddesavara)"
+                      },
+                      "span": {
+                        "start": 358711,
+                        "end": 366942
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "Phần Câu Lọc Căn Luân (Padasodhanamūlacakkavāra)"
+                  },
+                  "span": {
+                    "start": 366942,
+                    "end": 368114
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Thuần Giới (Suddhadhātuvāra)"
+                  },
+                  "span": {
+                    "start": 368114,
+                    "end": 373705
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN ĐẠT TRI (PARIÑÑAVARA)"
+                  },
+                  "span": {
+                    "start": 373705,
+                    "end": 374043
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "ĐẾ SONG (Saccayamaka)"
+              },
+              "span": {
+                "start": 374043,
+                "end": 486699
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Phần Xiển Thuật (Uddesavāra)"
+                  },
+                  "span": {
+                    "start": 374043,
+                    "end": 381312
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Thuần Đế (Suddhasaccavāra)"
+                  },
+                  "span": {
+                    "start": 381312,
+                    "end": 382179
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Thuần Đế Căn Luân (Suddha sacca mūla cakkavāra)"
+                  },
+                  "span": {
+                    "start": 382179,
+                    "end": 427600
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Diệt (Nirodhavāra)"
+                  },
+                  "span": {
+                    "start": 427600,
+                    "end": 462868
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Sanh Và Diệt (Uppādanirodhavāra)"
+                  },
+                  "span": {
+                    "start": 462868,
+                    "end": 482926
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN ĐẠT TRI (PARIÑÑAVARA)"
+                  },
+                  "span": {
+                    "start": 482926,
+                    "end": 486699
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "HÀNH SONG (Saṅkhārayamaka)"
+              },
+              "span": {
+                "start": 486699,
+                "end": 584886
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN ĐỊNH DANH (PAÑÑATTIVARA)"
+                  },
+                  "span": {
+                    "start": 486699,
+                    "end": 492091
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Phần Xiển Thuật (Uddeasavāra)"
+                      },
+                      "span": {
+                        "start": 486699,
+                        "end": 488590
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Phần Xiển Minh (Niddesavāra)"
+                      },
+                      "span": {
+                        "start": 488590,
+                        "end": 492091
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "Phần Thuần Hành (Suddhasaṅkhāravāra)"
+                  },
+                  "span": {
+                    "start": 492091,
+                    "end": 532153
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Diệt (Nirodhavāra)"
+                  },
+                  "span": {
+                    "start": 532153,
+                    "end": 564625
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Sanh Diệt (Uppādanirodhavāra)"
+                  },
+                  "span": {
+                    "start": 564625,
+                    "end": 584886
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "TÙY MIÊN SONG (Anusaya yamaka)"
+              },
+              "span": {
+                "start": 584886,
+                "end": 1062656
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN TÙY MIÊN (Anusayavāra)"
+                  },
+                  "span": {
+                    "start": 585865,
+                    "end": 681904
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TỰ Y TÙY MIÊN (Sanusayavāra)"
+                  },
+                  "span": {
+                    "start": 681904,
+                    "end": 764798
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TRỪ TÙY MIÊN (Pajahanavāra)"
+                  },
+                  "span": {
+                    "start": 764798,
+                    "end": 858610
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN ĐẠT TRỪ (PARIÑÑAVARA)"
+                  },
+                  "span": {
+                    "start": 858610,
+                    "end": 949371
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN ĐÃ TRỪ (PAHINAVARA)"
+                  },
+                  "span": {
+                    "start": 949371,
+                    "end": 1062656
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "PHẦN VẪN SANH (UPPAJJANAVARA)"
+                      },
+                      "span": {
+                        "start": 1031958,
+                        "end": 1062656
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "TÂM SONG"
+              },
+              "span": {
+                "start": 1062656,
+                "end": 1112278
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Xiển Thuật Phần Người Và Pháp (Puggaladhammavāruddeso)"
+                  },
+                  "span": {
+                    "start": 1062656,
+                    "end": 1095384
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển Minh Phần Pháp (Dhammavāraniddeso)"
+                  },
+                  "span": {
+                    "start": 1095384,
+                    "end": 1095384
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển Minh Phần Người Và Pháp (Puggaladhammavāraniddeso)"
+                  },
+                  "span": {
+                    "start": 1095384,
+                    "end": 1112278
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHÁP SONG (Dhammayamaka)"
+              },
+              "span": {
+                "start": 1112278,
+                "end": 1243013
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Phần Diệt (Nirodhavāra)"
+                  },
+                  "span": {
+                    "start": 1162350,
+                    "end": 1202437
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần Sanh Diệt (Uppādanirodhavāra)"
+                  },
+                  "span": {
+                    "start": 1202437,
+                    "end": 1242509
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TU TIẾN (BHAVANAVARA)"
+                  },
+                  "span": {
+                    "start": 1242509,
+                    "end": 1243013
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "QUYỀN SONG (Indrīyayamaka)"
+              },
+              "span": {
+                "start": 1243013,
+                "end": 1808400
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN ÁN TRÍ (PAÑÑATTIVĀRA)"
+                  },
+                  "span": {
+                    "start": 1243013,
+                    "end": 1755396
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Xiển Thuật (Uddesa)"
+                      },
+                      "span": {
+                        "start": 1243013,
+                        "end": 1263899
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Phần Xiển Minh (Niddesa)"
+                      },
+                      "span": {
+                        "start": 1263899,
+                        "end": 1755396
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN CHU TƯỜNG (PARIÑÑĀVĀRA)"
+                  },
+                  "span": {
+                    "start": 1755396,
+                    "end": 1808400
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

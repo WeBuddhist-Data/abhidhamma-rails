@@ -58,14 +58,27 @@ pb = (hom + 1) if hom is not None else 0
 BODY0 = pos[f"{BOOK}-0"] + 1
 
 # ---------------------------------------------------------------- Thai paragraph -> root blocks
+_opts = json.load(open(ARG_PAIRS, encoding="utf-8")) if ARG_PAIRS and os.path.exists(ARG_PAIRS) else {}
+TABLE_ROWS = bool(_opts.get("_table_rows"))  # Yamaka: numbered rows of Thai tables are paragraphs
+LOOSE_KEYS = bool(_opts.get("_loose_name_keys"))
+RESTARTS = bool(_opts.get("_restarts"))  # the numbering restarts at 1 in a second volume  # Yamaka: strip (Ka)/-vāra/final vowel in names
 th_par = {}
 cur = None
+tpart = 0  # volume: the numbering restarts at [1] in a second volume (Yamaka, Paṭṭhāna)
 for i, it in enumerate(T):
     # a paragraph number at the start of an item, or of a row of a two-column table
     m = re.search(r"(?m)^\|?\s*\[([๐-๙]+)\]", it["text"])
     if m and it["kind"] in ("p", "h", "table"):
-        cur = int(m.group(1).translate(TD))
+        n_ = int(m.group(1).translate(TD))
+        if RESTARTS and cur is not None and n_ < (cur % 100000) - 50:
+            tpart += 1
+        cur = tpart * 100000 + n_
     th_par[i] = cur
+    if TABLE_ROWS and it["kind"] == "table" and cur is not None:
+        # the last numbered row of a table carries on to the items after it
+        rows = re.findall(r"(?m)^\|?\s*\[([๐-๙]+)\]", it["text"])
+        if len(rows) > 1:
+            cur = tpart * 100000 + int(rows[-1].translate(TD))
 body_ids = ids[BODY0:]
 par_blocks = defaultdict(list)  # N -> [(block_id, n_questions_from_N)]
 for b in body_ids:
@@ -76,6 +89,12 @@ for b in body_ids:
         N = th_par.get(i)
         if N is None:
             continue
+        # a table item can hold several numbered rows ("| [๒๔] … | … |", "| [๒๕] … |"): every
+        # number in it belongs to this block (the first one is N)
+        if TABLE_ROWS and T[i]["kind"] == "table":
+            base_ = N - (N % 100000)
+            for x in re.findall(r"(?m)^\|?\s*\[([๐-๙]+)\]", T[i]["text"])[1:]:
+                cnt.setdefault(base_ + int(x.translate(TD)), 0)
         cnt[N] += T[i]["text"].count("เป็นไฉน") if BOOK in ("1", "2", "4") else T[i]["text"].count("?")
         cnt.setdefault(N, cnt[N])
     for N, q in cnt.items():
@@ -84,18 +103,38 @@ for N in par_blocks:
     par_blocks[N].sort(key=lambda bq: pos[bq[0]])
 
 # ---------------------------------------------------------------- Vietnamese paragraphs
+# per-book numbering offsets against the Thai: [[volume, from_number, delta], ...]
+# (Yamaka vol. 1: the Thai lacks [1485]-[1494], Tịnh Sự numbers on without the gap: +10)
+VI_OFFSETS = []
+if ARG_PAIRS and os.path.exists(ARG_PAIRS):
+    VI_OFFSETS = json.load(open(ARG_PAIRS, encoding="utf-8")).get("_vi_offsets", [])
+
+
+def vi_delta(part, n):
+    return sum(d for p_, f_, d in VI_OFFSETS if p_ == part and n >= f_)
+
+
 v_par_start = {}
+vtop, vpart, misprints = 0, 0, []
 for i in range(pb, len(V)):
     m = re.match(r"^(\d{1,4})\.?(?:\s|$)", V[i]["text"])
-    if V[i]["kind"] == "p" and m and int(m.group(1)) not in v_par_start:
-        n = int(m.group(1))
-        # accept only small forward steps: list numbers ("1.", "2.") and misprints ("1008"
-        # for 1108) inside the text cannot hijack the paragraph sequence
-        top = max(v_par_start) if v_par_start else 0
-        if top < n <= top + 6:
-            v_par_start[n] = i
+    if V[i]["kind"] != "p" or not m:
+        continue
+    n = int(m.group(1))
+    if RESTARTS and n == 1 and vtop > 50:
+        vpart += 1  # second volume: numbering restarts
+        vtop = 0
+    # accept only small forward steps: list numbers ("1.", "2.") inside the text cannot hijack
+    # the paragraph sequence; a number printed 100 or 1000 too low ("1124" for 1224) is a misprint
+    acc = next((c for c in (n, n + 100, n + 1000) if vtop < c <= vtop + 6), None)
+    if acc is None:
+        continue
+    if acc != n:
+        misprints.append((n, acc))
+    vtop = acc
+    v_par_start[vpart * 100000 + acc + vi_delta(vpart, acc)] = i
 starts = sorted(v_par_start.items(), key=lambda kv: kv[1])
-report.append(f"BODY Vietnamese numbered paragraphs found: {len(starts)} (first {starts[0][0]}, last {starts[-1][0]})")
+report.append(f"BODY Vietnamese numbered paragraphs found: {len(starts)} (first {starts[0][0]}, last {starts[-1][0]}; volumes {vpart + 1}; misprinted numbers read as {len(misprints)} {misprints[:12]})")
 
 
 def split_units(text):
@@ -313,18 +352,53 @@ if NAME_MODE:
     import unicodedata as _ud
 
     def pkey(s):
-        s = re.sub(r"^\s*(\(\d+(-\d+)?\)\s*)?(\d+(-\d+)?\.\s*)?", "", s)
+        if not LOOSE_KEYS:
+            s = re.sub(r"^\s*(\(\d+(-\d+)?\)\s*)?(\d+(-\d+)?\.\s*)?", "", s)
+            s = "".join(c for c in _ud.normalize("NFD", s.lower()) if not _ud.combining(c))
+            return re.sub(r"[^a-z]", "", s)
+        s = re.sub(r"^\s*(\((\d+(-\d+)?|ka|kha|ga|gha)\)\s*)?(\d+(-\d+)?\.\s*)?", "", s, flags=re.I)
         s = "".join(c for c in _ud.normalize("NFD", s.lower()) if not _ud.combining(c))
-        return re.sub(r"[^a-z]", "", s)
+        s = re.sub(r"[^a-z]", "", s)
+        # "Uddesavāra" / "(Ka) uddeso": drop the -vāra/-vāro suffix and a final vowel or -ṃ
+        s = re.sub(r"var[ao]$", "", s)
+        return re.sub(r"(m|[aoei])$", "", s) if len(s) > 4 else s
 
     ORD_VI = ["NHẤT", "HAI", "BA", "TƯ", "NĂM", "SÁU", "BẢY", "TÁM", "CHÍN", "MƯỜI", "MƯỜI MỘT", "MƯỜI HAI",
               "MƯỜI BA", "MƯỜI BỐN", "MƯỜI LĂM", "MƯỜI SÁU", "MƯỜI BẢY", "MƯỜI TÁM", "MƯỜI CHÍN", "HAI MƯƠI",
               "HAI MƯƠI MỐT", "HAI MƯƠI HAI", "HAI MƯƠI BA"]
+    _jn = json.load(open(ARG_PAIRS, encoding="utf-8"))
+    NAME_WINDOW = int(_jn.get("_name_window", 40))  # root headings searched ahead
+    NAME_PENALTY = float(_jn.get("_name_penalty", 0.01))  # cost per root heading skipped
     root_vaggas = [b["id"] for b in R[BODY0:] if b["kind"] == "h" and b["level"] == 3 and b["text"].strip().endswith("vaggo")]
     root_heads_b = [k for k in range(BODY0, len(R)) if R[k]["kind"] == "h"]
     vh_all3 = [i for i in range(pb, len(V)) if V[i]["kind"] == "h"]
+    # anchors first (Yamaka: the ten yamaka titles "CĂN SONG" … pair in order with the root's
+    # ten yamakas); names are then matched only inside the anchor's section, since every yamaka
+    # repeats the same section names (Paṇṇattivāra, Uddesavāra, Pariññāvāra …)
+    seg_v, seg_r = [pb - 1], [BODY0 - 1]
+    if _jn.get("_anchor_regex"):
+        va = [i for i in vh_all3 if re.search(_jn["_anchor_regex"], V[i]["text"]) and not V[i]["text"].startswith("PHẦN")]
+        ra = [k for k in range(BODY0, len(R)) if R[k]["kind"] == "h" and R[k]["level"] == int(_jn.get("_anchor_level", 3))]
+        if len(va) == len(ra):
+            for i, k in zip(va, ra):
+                mapping[R[k]["id"]]["heading"] = i
+                pair_log.append(f"   ANCHOR ^{R[k]['id']:12} {R[k]['text'][:30]:30} <- {V[i]['text'][:50]}")
+            seg_v += va
+            seg_r += ra
+        else:
+            pair_log.append(f"   !! anchors: Vietnamese {len(va)} vs root {len(ra)}: not used")
+    seg_v.append(len(V))
+    seg_r.append(len(R))
+    anchor_items = set(seg_v)
     last = BODY0 - 1
+    cur_seg = -1
     for i in vh_all3:
+        if i in anchor_items:
+            continue
+        sg = max(x for x in range(len(seg_v) - 1) if seg_v[x] < i)
+        if sg != cur_seg:
+            cur_seg, last = sg, seg_r[sg]
+        r_hi = seg_r[sg + 1]
         t = V[i]["text"].strip()
         mv = re.match(r"^(ĐẠI )?PHẨM THỨ (.+)$", t)
         if mv:
@@ -344,15 +418,15 @@ if NAME_MODE:
         key = pkey(groups[-1])
         best, bk, best_raw = -1.0, None, 0.0
         # nearest good candidate first: a small cost per root heading skipped, and no long jumps
-        for d, k in enumerate([k for k in root_heads_b if k > last][:40]):
+        for d, k in enumerate([k for k in root_heads_b if last < k < r_hi][:NAME_WINDOW]):
             rk = pkey(R[k]["text"])
             if not rk or not key:
                 continue
             s_ = difflib.SequenceMatcher(None, key, rk).ratio()
             if (key in rk or rk in key) and min(len(key), len(rk)) >= 6:
                 s_ = max(s_, 0.9)
-            if s_ - 0.01 * d > best:
-                best, bk, best_raw = s_ - 0.01 * d, k, s_
+            if s_ - NAME_PENALTY * d > best:
+                best, bk, best_raw = s_ - NAME_PENALTY * d, k, s_
         best = best_raw
         if bk is not None and best >= 0.85:
             mapping[R[bk]["id"]]["heading"] = i

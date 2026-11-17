@@ -1,0 +1,12 @@
+{
+  "_note": "Yamaka: the ten yamaka titles ('CĂN SONG' …) are anchors paired in order with the root's ten yamakas (###); inside each yamaka, headings are paired by the Pāli name in brackets (nearest match in order). Numbering: vol. 1 Vietnamese 1485 onward = Thai [1495] onward (the Thai lacks [1485]-[1494]).",
+  "_pali_names": true,
+  "_table_rows": true,
+  "_restarts": true,
+  "_loose_name_keys": true,
+  "_anchor_regex": "SONG(\\s*\\(|$)",
+  "_anchor_level": 3,
+  "_name_window": 400,
+  "_name_penalty": 0.0005,
+  "_vi_offsets": [[0, 1485, 10]]
+}
