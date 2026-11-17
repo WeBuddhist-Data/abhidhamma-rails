@@ -1,0 +1,22 @@
+---
+title: "Bộ Pháp Tụ"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-1.md
+translation_of: BzOXhiRUQM4MOT6affzmO
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ nhất: Bộ Pháp Tụ, cảo bản (draft manuscript), translated from the Pāli-Thai edition"
+coverage: complete
+use: "reference only, for checking AI translations; not for hosting or upload (in copyright)"
+alignment: "block-aligned to 1-SOURCES/Text/pi-1.md through the Thai Royal edition (same paragraph numbers): each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Vietnamese-only headings open the next block as bold lines"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://archive.org/details/1-abhi-phap-tu
+source_description: "archive.org item 1-abhi-phap-tu, file '1-Abhi-phap-tu.pdf' (Word export, May 2015); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 6) and running headers removed; translator footnotes (11) and their markers removed (the raw copy 0-INBOX/raw-data/vi-1-tinh_su-raw.md keeps them); 1,460 syllables split by the extraction re-joined (e.g. 'x ứ' to 'xứ'); bullet glyphs rendered as list items; titles ^0 and ^1-0 taken from the title page; paragraph numbers 1 to 987 complete (806 is printed without a dot in the source). Some split syllables that begin with a vowel (e.g. 'u ẩn') remain.]"
+verse_id_format: book-verse
+---

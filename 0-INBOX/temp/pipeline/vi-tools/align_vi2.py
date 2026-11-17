@@ -1,0 +1,320 @@
+"""Align the Vietnamese Dhammasangani draft to the pi-1 root blocks, using the Thai alignment
+as a pivot (the Vietnamese was translated from the Thai and keeps its paragraph numbers 1-987).
+
+- Matrix: Vietnamese list items before "Phần B" -> ^1-M1-*, ^1-M2-* in order (164 = 164).
+- Body: for each paragraph N, the root blocks that hold Thai paragraph [N] receive the
+  Vietnamese paragraph N, split at question sentences in the same proportion as the Thai
+  questions; if the question counts differ, the whole paragraph goes to the first block and
+  the others are stacked (MERGE), and the case is reported.
+- Headings: paired within the gap before the same paragraph number.
+"""
+import json
+import os
+import re
+import sys
+from collections import defaultdict
+
+sys.stdout.reconfigure(encoding="utf-8")
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "th-tools"))
+from parse_common import parse_draft, parse_root  # noqa: E402
+
+root_path, th_draft, th_map, vi_draft, vi_pdf, out_json, out_report = sys.argv[1:8]
+R = parse_root(root_path)
+T = parse_draft(th_draft)
+TM = json.load(open(th_map, encoding="utf-8"))["mapping"]
+V = parse_draft(vi_draft)
+ids = [b["id"] for b in R]
+pos = {b: k for k, b in enumerate(ids)}
+report = []
+TD = str.maketrans("๐๑๒๓๔๕๖๗๘๙", "0123456789")
+
+mapping = {b: {"items": [], "heading": None, "pieces": []} for b in ids}
+# pieces: list of (item_index, text) so that a Vietnamese paragraph can be split across blocks
+
+# ---------------------------------------------------------------- title (from the PDF title page)
+import pypdf  # noqa: E402
+
+p1 = pypdf.PdfReader(vi_pdf).pages[0].extract_text() or ""
+lines = [ln.strip() for ln in p1.splitlines() if ln.strip()]
+title_basket = next((ln for ln in lines if ln.startswith("TẠNG VÔ TỶ PHÁP")), None)
+k = next((i for i, ln in enumerate(lines) if ln.startswith("BỘ PHÁP TỤ")), None)
+title_book = lines[k] + (" " + lines[k + 1] if k is not None and lines[k + 1].startswith("(") else "") if k is not None else None
+if title_basket and k is not None and lines[k - 1].startswith("(") is False:
+    pass
+# the basket title is followed by "(ABHIDHAMMAPIṬAKA)" on its own line
+kb = lines.index(title_basket) if title_basket else None
+if kb is not None and kb + 1 < len(lines) and lines[kb + 1].startswith("("):
+    title_basket = title_basket + " " + lines[kb + 1]
+extra_titles = {"0": title_basket, "1-0": title_book}
+report.append(f"TITLE  ^0 <- title page '{title_basket}';  ^1-0 <- title page '{title_book}' [Ed: restored from the title page]")
+
+# ---------------------------------------------------------------- front + matrix
+pb = next(i for i, it in enumerate(V) if it["kind"] == "h" and it["text"].startswith("Phần B"))
+homage = [i for i, it in enumerate(V[:pb]) if it["kind"] == "p" and re.match(r"^(NAMO|CUNG KÍNH)", it["text"])]
+mapping["T-1"]["items"] = homage
+m_root = [b for b in R if re.match(r"1-M\d", b["id"])]
+m_head_root = [b for b in R[pos["1-M-0"]:pos["1-1-0"]] if b["kind"] == "h"]
+li = [i for i in range(pb) if V[i]["kind"] == "li"]
+# matrix headings: real headings, plus the group titles that this edition prints with a final
+# period ("Phần tụ nhân (hetugocchakaṃ).") and that sit right before a number line
+heads = [i for i in range(pb) if V[i]["kind"] == "h" or (
+    V[i]["kind"] == "p" and V[i]["text"].startswith("Phần ") and len(V[i]["text"]) < 70
+    and i + 1 < pb and re.fullmatch(r"\d{1,4}\.?", V[i + 1]["text"]))]
+report.append(f"MATRIX list items: Vietnamese {len(li)} vs root {len(m_root)};  headings {len(heads)} vs {len(m_head_root)}")
+for b, i in zip(m_root, li):
+    mapping[b["id"]]["items"].append(i)
+for b, i in zip(m_head_root, heads):
+    mapping[b["id"]]["heading"] = i
+# number lines and "Dứt ..." end lines in the matrix
+li_owner = {i: b["id"] for b, i in zip(m_root, li)}
+for i in range(pb):
+    it = V[i]
+    if it["kind"] != "p" or i in homage or i in heads:
+        continue
+    if it["text"].startswith("Dứt"):
+        prev = max((x for x in li if x < i), default=None)
+        if prev is not None:
+            mapping[li_owner[prev]]["items"].append(i)
+    else:
+        nxt = min((x for x in li if x > i), default=None)
+        if nxt is not None:
+            mapping[li_owner[nxt]]["items"].insert(0, i)
+
+# ---------------------------------------------------------------- Thai paragraph -> root blocks
+th_par = {}
+cur = None
+for i, it in enumerate(T):
+    m = re.match(r"\[([๐-๙]+)\]", it["text"])
+    if m and it["kind"] in ("p", "h"):
+        cur = int(m.group(1).translate(TD))
+    th_par[i] = cur
+body_ids = ids[pos["1-1-0"]:]
+par_blocks = defaultdict(list)  # N -> [(block_id, n_questions_from_N)]
+for b in body_ids:
+    if R[pos[b]]["kind"] != "t":
+        continue
+    cnt = defaultdict(int)
+    for i in TM[b]["items"]:
+        N = th_par.get(i)
+        if N is None:
+            continue
+        cnt[N] += T[i]["text"].count("เป็นไฉน")
+        cnt.setdefault(N, cnt[N])
+    for N, q in cnt.items():
+        par_blocks[N].append((b, q))
+for N in par_blocks:
+    par_blocks[N].sort(key=lambda bq: pos[bq[0]])
+
+# ---------------------------------------------------------------- Vietnamese paragraphs
+v_par_start = {}
+for i in range(pb, len(V)):
+    m = re.match(r"^(\d{1,4})\.?(?:\s|$)", V[i]["text"])
+    if V[i]["kind"] == "p" and m and int(m.group(1)) not in v_par_start:
+        n = int(m.group(1))
+        if not v_par_start or n > max(v_par_start):
+            v_par_start[n] = i
+starts = sorted(v_par_start.items(), key=lambda kv: kv[1])
+report.append(f"BODY Vietnamese numbered paragraphs found: {len(starts)} (first {starts[0][0]}, last {starts[-1][0]})")
+
+
+def split_units(text):
+    """Split a paragraph into units that each start with a question sentence."""
+    sents = re.split(r"(?<=[.?!…])\s+", text)
+    # a leading paragraph number ("16.") stays with its sentence
+    if len(sents) > 1 and re.fullmatch(r"\d{1,4}\.", sents[0]):
+        sents = [sents[0] + " " + sents[1]] + sents[2:]
+    units, cur_u = [], []
+    for s in sents:
+        if "?" in s and cur_u:
+            units.append(" ".join(cur_u))
+            cur_u = []
+        cur_u.append(s)
+    if cur_u:
+        units.append(" ".join(cur_u))
+    return units
+
+
+mismatch, merged_vi = [], []
+for k, (N, i0) in enumerate(starts):
+    i1 = starts[k + 1][1] if k + 1 < len(starts) else len(V)
+    items = [i for i in range(i0, i1) if V[i]["kind"] in ("p", "li")]
+    units = []  # (item, text)
+    for i in items:
+        for u in split_units(V[i]["text"]):
+            units.append((i, u))
+    blocks = par_blocks.get(N, [])
+    if not blocks:
+        report.append(f"  !! Vietnamese paragraph {N}: no Thai/root blocks found")
+        continue
+    th_q = sum(q for _, q in blocks)
+    vi_q = sum(1 for _, u in units if "?" in u)
+    if len(blocks) == 1:
+        mapping[blocks[0][0]]["pieces"].extend(units)
+        continue
+    if th_q != vi_q:
+        mismatch.append(N)
+        mapping[blocks[0][0]]["pieces"].extend(units)
+        for b, _ in blocks[1:]:
+            merged_vi.append((b, blocks[0][0]))
+        continue
+    # give each block as many question units as its Thai questions; leading text to the first
+    qi = 0
+    order = []
+    for b, q in blocks:
+        order.extend([b] * q)
+    owner = blocks[0][0]
+    zero_q = [b for b, q in blocks if q == 0]
+    for i, u in units:
+        if "?" in u:
+            owner = order[qi]
+            qi += 1
+        mapping[owner]["pieces"].append((i, u))
+    for b in zero_q:
+        if not mapping[b]["pieces"]:
+            merged_vi.append((b, None))
+report.append(f"  paragraphs with different question counts (whole paragraph to first block, rest MERGE): {len(mismatch)} {mismatch[:60]}")
+
+# ---------------------------------------------------------------- headings in the body
+def gap_key_root(hk):
+    # the paragraph number of the first Thai text line (not a heading line) of the next block
+    for b in ids[hk + 1:]:
+        if R[pos[b]]["kind"] == "t":
+            ns = [th_par.get(i) for i in sorted(TM[b]["items"]) if T[i]["kind"] != "h" and th_par.get(i) is not None]
+            return ns[0] if ns else None
+    return None
+
+
+root_gap = defaultdict(list)
+for hk in range(pos["1-1-0"], len(ids)):
+    if R[hk]["kind"] == "h":
+        root_gap[gap_key_root(hk)].append(ids[hk])
+vi_gap = defaultdict(list)
+for i in range(pb, len(V)):
+    if V[i]["kind"] == "h":
+        nxt = next((N for N, s in starts if s > i), None)
+        vi_gap[nxt].append(i)
+# Tịnh Sự numbers his headings by level ("Phần B.", "1)", "a)"); some forms are his own
+# groupings with no root heading ("I. PHÁP THIỆN", "1.1) Tâm đại thiện thứ nhứt"). Within a gap,
+# a Vietnamese heading pairs with the next root heading of the level its form stands for; deeper
+# root headings may be skipped (the Vietnamese lacks them), a shallower one is never crossed.
+# Unpaired Vietnamese headings open the next block as bold lines.
+def vi_class(t):
+    for rx, c in ((r"^Phần [A-Z]\.", "P"), (r"^[IVX]+\.\s", "R"), (r"^\d+\.\d+\)", "NN"), (r"^\d+\)", "N"), (r"^[a-zđ]\)", "a")):
+        if re.match(rx, t):
+            return c
+    return "x"
+
+
+OVERRIDES = None
+CLASS_LEVEL = {"P": 3, "N": 4, "a": 5}
+if len(sys.argv) > 8:
+    if os.path.exists(sys.argv[8]):
+        OVERRIDES = {k: v for k, v in json.load(open(sys.argv[8], encoding="utf-8")).items() if not k.startswith("_")}
+    else:
+        CLASS_LEVEL = json.loads(sys.argv[8])
+extra_vi_heads = []
+pair_log = []
+if OVERRIDES is not None:
+    # reviewed pairs: root heading -> Vietnamese heading text, matched in document order
+    import unicodedata
+
+    def _nk(s):  # compare headings NFC-normalised, case-folded, spaces collapsed
+        return re.sub(r"\s+", " ", unicodedata.normalize("NFC", s)).strip().casefold()
+
+    vh_all = [i for i in range(pb, len(V)) if V[i]["kind"] == "h"]
+    used, last = set(), -1
+    for b in ids:
+        if b not in OVERRIDES:
+            continue
+        want = _nk(OVERRIDES[b])
+        hit = next((i for i in vh_all if i > last and i not in used and _nk(V[i]["text"]).startswith(want)), None)
+        if hit is None:
+            pair_log.append(f"   !! ^{b}: Vietnamese heading not found after item {last}: {want}")
+            continue
+        mapping[b]["heading"] = hit
+        used.add(hit)
+        last = hit
+        pair_log.append(f"   ^{b:12} {R[pos[b]]['text'][:30]:30} <- {V[hit]['text'][:50]}")
+    extra_vi_heads = [i for i in vh_all if i not in used]
+    vi_gap = {}  # skip the automatic pairing below
+for key, vh in vi_gap.items():
+    rh = root_gap.get(key, [])
+    p = 0
+    for v_i in vh:
+        lvl = CLASS_LEVEL.get(vi_class(V[v_i]["text"]))
+        hit = None
+        if lvl is not None:
+            for q in range(p, len(rh)):
+                rl = R[pos[rh[q]]]["level"]
+                if rl < lvl:
+                    break
+                if rl == lvl:
+                    hit = q
+                    break
+        if hit is None:
+            extra_vi_heads.append(v_i)
+            pair_log.append(f"   [{key}] vi-only  {V[v_i]['text'][:50]}")
+            continue
+        mapping[rh[hit]]["heading"] = v_i
+        pair_log.append(f"   [{key}] ^{rh[hit]:12} {R[pos[rh[hit]]]['text'][:30]:30} <- {V[v_i]['text'][:50]}")
+        p = hit + 1
+report.append("HEADING PAIRS (gap = next paragraph number)")
+report.extend(pair_log)
+unmatched_h = [b for b in ids if R[pos[b]]["kind"] == "h" and mapping[b]["heading"] is None and b not in extra_titles]
+report.append(f"UNMATCHED root headings (no Vietnamese heading): {len(unmatched_h)}")
+report.append("  " + " ".join("^" + x for x in unmatched_h))
+report.append(f"EXTRA Vietnamese headings kept as bold lines inside the next block: {len(extra_vi_heads)}")
+no_text = [b for b in ids if R[pos[b]]["kind"] == "t" and not mapping[b]["items"] and not mapping[b]["pieces"]]
+report.append(f"ROOT text blocks with no Vietnamese text of their own (MERGE into neighbour): {len(no_text)}")
+report.append("  " + " ".join("^" + x for x in no_text))
+
+# ---------------------------------------------------------------- heading boundaries
+# Every Vietnamese line (item or split piece) must sit in a root block between the two paired
+# headings that surround it in the PDF: a line placed before its heading moves to the start of
+# the first block after it, one placed after the next heading moves to the end of the last block
+# before it (e.g. a subtitle line "Phân theo bốn bực." printed under a heading but attached to
+# the paragraph before; the Rūpakaṇḍa uddesa §502, which the root keeps before "Mātikā").
+import bisect  # noqa: E402
+
+body_start = pos["1-1-0"] if "1-1-0" in pos else 0
+kept = sorted((pos[b], mapping[b]["heading"]) for b in ids
+              if R[pos[b]]["kind"] == "h" and mapping[b]["heading"] is not None and pos[b] >= body_start)
+# keep only pairs in increasing draft order (longest run)
+seq_ok, last_v = [], -1
+for rp, vh in kept:
+    if vh > last_v:
+        seq_ok.append((rp, vh))
+        last_v = vh
+k_root = [x[0] for x in seq_ok]
+k_vi = [x[1] for x in seq_ok]
+seg_blocks = defaultdict(list)
+for b in ids[body_start:]:
+    if R[pos[b]]["kind"] == "t":
+        seg_blocks[bisect.bisect_left(k_root, pos[b])].append(b)
+moved = 0
+for b in ids[body_start:]:
+    if R[pos[b]]["kind"] != "t":
+        continue
+    sb = bisect.bisect_left(k_root, pos[b])
+    for field in ("items", "pieces"):
+        keep_list = []
+        for entry in mapping[b][field]:
+            i = entry if field == "items" else entry[0]
+            si = bisect.bisect_left(k_vi, i)
+            tb = seg_blocks.get(si)
+            if si == sb or not tb:
+                keep_list.append(entry)
+                continue
+            dest = tb[-1] if si < sb else tb[0]
+            mapping[dest][field].append(entry)
+            moved += 1
+        mapping[b][field] = keep_list
+for b in ids:
+    mapping[b]["items"].sort()
+    mapping[b]["pieces"].sort(key=lambda e: e[0])
+report.append(f"BOUNDARIES: {moved} Vietnamese lines moved to the right side of their heading")
+
+json.dump({"mapping": mapping, "extra_titles": extra_titles, "extra_heads": extra_vi_heads},
+          open(out_json, "w", encoding="utf-8"), ensure_ascii=False)
+open(out_report, "w", encoding="utf-8").write("\n".join(report) + "\n")
+print("\n".join(r if len(r) < 300 else r[:300] + " ..." for r in report))
