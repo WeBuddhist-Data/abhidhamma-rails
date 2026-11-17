@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/vi-7-tinh_su.md",
+  "validated_at": "2026-11-17T15:29:50.771094+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-7.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://thegioiphatgiao.org/pdf/vdp/'",
+    "toc: 9 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)' has no [bdrc:ID] or [op:ID] — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "vi": "Bộ Vị Trí"
+    },
+    "alt_titles": null,
+    "language": "vi",
+    "commentary_of": null,
+    "translation_of": "XtTiyeogM96K1Chqpbccr",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "copyrighted",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

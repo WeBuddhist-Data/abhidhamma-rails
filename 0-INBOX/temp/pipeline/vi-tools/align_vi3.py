@@ -35,7 +35,9 @@ mapping = {b: {"items": [], "heading": None, "pieces": []} for b in ids}
 # ---------------------------------------------------------------- title (from the PDF title page)
 import pypdf  # noqa: E402
 
-p1 = pypdf.PdfReader(vi_pdf).pages[0].extract_text() or ""
+_pages = pypdf.PdfReader(vi_pdf).pages
+# the title page: the first of the first pages that names the basket (vi-7: page 1 is blank)
+p1 = next((pg.extract_text() or "" for pg in _pages[:4] if "TẠNG VÔ TỶ PHÁP" in (pg.extract_text() or "")), _pages[0].extract_text() or "")
 lines = [ln.strip() for ln in p1.splitlines() if ln.strip()]
 title_basket = next((ln for ln in lines if ln.startswith("TẠNG VÔ TỶ PHÁP")), None)
 kb = lines.index(title_basket) if title_basket else None
@@ -116,14 +118,21 @@ def vi_delta(part, n):
 
 v_par_start = {}
 vtop, vpart, misprints = 0, 0, []
+num_lines = [(i, int(re.match(r"^(\d{1,4})", V[i]["text"]).group(1))) for i in range(pb, len(V))
+             if V[i]["kind"] == "p" and re.match(r"^(\d{1,4})\.?(?:\s|$)", V[i]["text"])]
+num_pos = {i: k for k, (i, _) in enumerate(num_lines)}
 for i in range(pb, len(V)):
     m = re.match(r"^(\d{1,4})\.?(?:\s|$)", V[i]["text"])
     if V[i]["kind"] != "p" or not m:
         continue
     n = int(m.group(1))
     if RESTARTS and n == 1 and vtop > 50:
-        vpart += 1  # second volume: numbering restarts
-        vtop = 0
+        # a new volume only if the new sequence goes on (2, 3 … follow) and the old one does not
+        # (a list "1. 2. 3." inside the text is followed by the old sequence again)
+        ahead = [x for _, x in num_lines[num_pos[i] + 1:num_pos[i] + 41]]
+        if 2 in ahead[:6] and not any(vtop < x <= vtop + 3 for x in ahead):
+            vpart += 1
+            vtop = 0
     # accept only small forward steps: list numbers ("1.", "2.") inside the text cannot hijack
     # the paragraph sequence; a number printed 100 or 1000 too low ("1124" for 1224) is a misprint
     acc = next((c for c in (n, n + 100, n + 1000) if vtop < c <= vtop + 6), None)
@@ -371,6 +380,7 @@ if NAME_MODE:
     NAME_PENALTY = float(_jn.get("_name_penalty", 0.01))  # cost per root heading skipped
     root_vaggas = [b["id"] for b in R[BODY0:] if b["kind"] == "h" and b["level"] == 3 and b["text"].strip().endswith("vaggo")]
     root_heads_b = [k for k in range(BODY0, len(R)) if R[k]["kind"] == "h"]
+    rkey = {k: gap_key_root(k) for k in root_heads_b} if _jn.get("_name_by_gap") else {}
     vh_all3 = [i for i in range(pb, len(V)) if V[i]["kind"] == "h"]
     # anchors first (Yamaka: the ten yamaka titles "CĂN SONG" … pair in order with the root's
     # ten yamakas); names are then matched only inside the anchor's section, since every yamaka
@@ -412,10 +422,34 @@ if NAME_MODE:
                 extra_vi_heads.append(i)
             continue
         groups = [g for g in re.findall(r"\(([^()]*)\)", t) if re.search(r"[A-Za-z]", g)]
+        if groups and _jn.get("_name_filter") and not re.search(_jn["_name_filter"], groups[-1], re.I):
+            groups = []  # only distinctive names are paired (Paṭṭhāna: tika/duka names, not the vāras)
         if not groups:
             extra_vi_heads.append(i)
             continue
         key = pkey(groups[-1])
+        if _jn.get("_name_by_gap"):
+            # Paṭṭhāna: only root headings that sit at the same place in the text (within three
+            # paragraphs, through the Thai pivot) are candidates; best name wins, no pointer
+            vkey = next((N for N, st in starts if st > i), None)
+            cands = [k for k in root_heads_b if rkey.get(k) is not None and vkey is not None
+                     and abs(rkey[k] - vkey) <= 3 and mapping[R[k]["id"]].get("heading") is None]
+            best_raw, bk = 0.0, None
+            for k in cands:
+                rk = pkey(R[k]["text"])
+                if not rk or not key:
+                    continue
+                s_ = difflib.SequenceMatcher(None, key, rk).ratio()
+                if (key in rk or rk in key) and min(len(key), len(rk)) >= 6:
+                    s_ = max(s_, 0.9)
+                if s_ > best_raw:
+                    best_raw, bk = s_, k
+            if bk is not None and best_raw >= 0.8:
+                mapping[R[bk]["id"]]["heading"] = i
+                pair_log.append(f"   ^{R[bk]['id']:12} {R[bk]['text'][:30]:30} <- {t[:50]}  ({best_raw:.2f})")
+            else:
+                pair_log.append(f"   vi-only  {t[:60]}  (best {best_raw:.2f} of {len(cands)})")
+            continue
         best, bk, best_raw = -1.0, None, 0.0
         # nearest good candidate first: a small cost per root heading skipped, and no long jumps
         for d, k in enumerate([k for k in root_heads_b if last < k < r_hi][:NAME_WINDOW]):

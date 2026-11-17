@@ -1,0 +1,12 @@
+{
+  "_note": "Paṭṭhāna: three PDFs (six volumes) joined; the numbering restarts eleven times, exactly as in the Thai (vols. 40-45). Headings paired by the Pāli name in brackets, nearest match in order, distinctive tika/duka/paṭṭhāna names only; the repeated vāra names ('Phần Liên Quan (Paṭiccavāro)') stay as bold lines.",
+  "_title_book": "BỘ VỊ TRÍ (PAṬṬHĀNA)",
+  "_pali_names": true,
+  "_name_by_gap": true,
+  "_restarts": true,
+  "_table_rows": true,
+  "_loose_name_keys": true,
+  "_name_window": 600,
+  "_name_penalty": 0.0003,
+  "_name_filter": "(duka|tika|ttika|paṭṭhān|patthan|nikkhepa|uddes|niddes)"
+}

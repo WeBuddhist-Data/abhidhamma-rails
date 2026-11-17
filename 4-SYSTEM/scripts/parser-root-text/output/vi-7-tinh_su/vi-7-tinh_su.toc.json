@@ -1,0 +1,89 @@
+{
+  "sections": [
+    {
+      "title": {
+        "vi": "TẠNG VÔ TỶ PHÁP (ABHIDHAMMAPIṬAKA)"
+      },
+      "span": {
+        "start": 99,
+        "end": 3616898
+      },
+      "subsections": [
+        {
+          "title": {
+            "vi": "BỘ VỊ TRÍ (PAṬṬHĀNA)"
+          },
+          "span": {
+            "start": 99,
+            "end": 3616898
+          },
+          "subsections": [
+            {
+              "title": {
+                "vi": "TAM ĐỀ CẢNH HI THIỂU (PARITTĀRAMMAṆATTIKA)"
+              },
+              "span": {
+                "start": 1133680,
+                "end": 3192464
+              }
+            },
+            {
+              "title": {
+                "vi": "NHỊ ĐỀ ĐẠI (Mahantaraduka) - NHỊ ĐỀ PHI NHÂN"
+              },
+              "span": {
+                "start": 3192464,
+                "end": 3193658
+              }
+            },
+            {
+              "title": {
+                "vi": "NHỊ ĐỀ YÊU BỐI (Piṭṭhiduka) - NHỊ ĐỀ PHI NHÂN"
+              },
+              "span": {
+                "start": 3193658,
+                "end": 3261274
+              }
+            },
+            {
+              "title": {
+                "vi": "NHỊ ĐỀ HỮU Y (Saraṇaduka) - NHỊ ĐỀ PHI HỮU Y"
+              },
+              "span": {
+                "start": 3261274,
+                "end": 3443399
+              }
+            },
+            {
+              "title": {
+                "vi": "TAM ĐỀ PHI THỌ – TAM ĐỀ THỌ (Vedanāttika)"
+              },
+              "span": {
+                "start": 3443399,
+                "end": 3444268
+              }
+            },
+            {
+              "title": {
+                "vi": "TAM ĐỀ PHI QUẢ – TAM ĐỀ QUẢ (Vipākattika)"
+              },
+              "span": {
+                "start": 3444268,
+                "end": 3468750
+              }
+            },
+            {
+              "title": {
+                "vi": "NHỊ ĐỀ PHI HỮU Y - NHỊ ĐỀ HỮU Y (Saranaduka)"
+              },
+              "span": {
+                "start": 3468750,
+                "end": 3616898
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

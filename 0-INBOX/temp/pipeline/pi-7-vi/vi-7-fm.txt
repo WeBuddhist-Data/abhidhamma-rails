@@ -1,0 +1,22 @@
+---
+title: "Bộ Vị Trí"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-7.md
+translation_of: XtTiyeogM96K1Chqpbccr
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ bảy: Bộ Vị Trí, quyển thứ nhất đến quyển thứ sáu, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1976); NXB Tôn Giáo 2012"
+coverage: complete
+use: "reference only, for checking AI translations; not for hosting or upload (in copyright)"
+alignment: "block-aligned to 1-SOURCES/Text/pi-7.md through the Thai Royal edition (vols. 40-45; the paragraph numbering restarts eleven times, the same in both): each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Vietnamese-only headings open the next block as bold lines"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://thegioiphatgiao.org/pdf/vdp/
+source_description: "thegioiphatgiao.org/pdf/vdp/, three files: 'Bo Vi Tri' volumes 1-2, 3-4 and 5-6 (Word exports, June 2019), saved as 7-Abhi-Bo-Vi-Tri-1-2.pdf, -3-4.pdf and -5-6.pdf; downloaded 2026-11-13. Text extracted with pypdf. [Ed: title pages and tables of contents and running headers removed; the three files joined, with one homage; translator footnotes removed (the raw copy 0-INBOX/raw-data/vi-7-tinh_su-raw.md keeps them); split syllables re-joined; bullet glyphs rendered as list items; titles ^0 and ^7-0 taken from the title page; tika and duka headings paired with the root by the Pāli name the translator gives in brackets, at the same place in the text; the other headings (vāras, counting notes) kept as bold lines; paragraph numbers in eleven runs (1-1767, 1-2268, 1-730, 1-876, 1-1911, 1-963, 1-220, 1-149, 1-520, 1-1172, 1-1488), the same as the Thai edition.]"
+verse_id_format: book-verse
+---
