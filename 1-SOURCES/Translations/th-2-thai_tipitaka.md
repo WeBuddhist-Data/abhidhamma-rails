@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-2.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๓๕: พระอภิธรรมปิฎก เล่ม ๒ วิภังคปกรณ์"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๕: พระอภิธรรมปิฎก เล่ม ๒ วิภังคปกรณ์"
 coverage: complete
-alignment: "block-aligned to 1-SOURCES/Text/pi-2.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
+alignment: "block-aligned to 1-SOURCES/Text/pi-2.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Thai-only lines between two headings carry ^U-N"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_35 วิภังคปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-2-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๑๑๘] complete. Some stray spaces between Thai consonants may remain.]"
@@ -4669,7 +4669,7 @@ verse_id_format: book-verse
 
 ### ๑๒. ฌานวิภังค์ ^2-12-0
 
-**มาติกา**
+**มาติกา** ^U-1
 
 #### สุตตันตภาชนีย์ ^2-12-1-0
 
@@ -6431,7 +6431,7 @@ verse_id_format: book-verse
 
 ### ๑๖. ญาณวิภังค์ ^2-16-0
 
-**มาติกา**
+**มาติกา** ^U-2
 
 #### เอกกมาติกา ^2-16-1-0
 
@@ -7044,7 +7044,7 @@ verse_id_format: book-verse
 
 ### ๑๗. ขุททกวัตถุวิภังค์ ^2-17-0
 
-**มาติกา**
+**มาติกา** ^U-3
 
 #### เอกกมาติกา ^2-17-1-0
 

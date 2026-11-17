@@ -39,6 +39,9 @@ IDEND = re.compile(r"(?:^|\s)\^([\w-]+)\s*$")
 trans = []          # (line_no, path, id)
 ids_in_file = []    # (line_no, id, is_heading)
 groups = []         # [ [ids...], following_block_id_or_None, following_block_text ]
+no_id = []          # (line_no, text): paragraphs or headings with no block ID
+u_ids = []          # ^U-N: translation-only lines with no root block
+UID = re.compile(r"U-\d+")
 i = 0
 n = len(lines)
 while i < n:
@@ -73,13 +76,29 @@ while i < n:
         mid = IDEND.search(ln)
         if mid:
             ids_in_file.append((i + 1, mid.group(1), True))
-    else:
-        mid = IDEND.search(ln)
-        if mid and ln.strip() and not ln.strip().startswith("![["):
-            # an ID on a text line outside a transclusion group
-            ids_in_file.append((i + 1, mid.group(1), False))
-            problems.append(f"line {i + 1}: block ^{mid.group(1)} has no transclusion before it")
+        else:
+            no_id.append((i + 1, ln[:40]))
+    elif ln.strip() and (i == 0 or not lines[i - 1].strip()):
+        # a paragraph outside a transclusion group: it must end with an ID; only ^U-N
+        # (translation-only lines with no root block) may stand without a transclusion
+        j = i
+        while j < n and lines[j].strip():
+            j += 1
+        mid = IDEND.search(lines[j - 1])
+        if not mid:
+            no_id.append((i + 1, ln[:40]))
+        elif UID.fullmatch(mid.group(1)):
+            u_ids.append(mid.group(1))
+        else:
+            ids_in_file.append((j, mid.group(1), False))
+            problems.append(f"line {j}: block ^{mid.group(1)} has no transclusion before it")
+        i = j
+        continue
     i += 1
+if no_id:
+    problems.append(f"{len(no_id)} paragraphs or headings without a block ID, e.g. {no_id[:4]}")
+if u_ids != [f"U-{k}" for k in range(1, len(u_ids) + 1)]:
+    problems.append(f"^U-N IDs not numbered 1..{len(u_ids)} in order: {u_ids[:8]}")
 
 # ---- 1. transclusions
 bad_path = [t for t in trans if t[1] != root_rel]
@@ -145,7 +164,8 @@ if draft_path != "-" and os.path.exists(draft_path):
 
 own = len(text_ids) - len(set(stacked))
 print(f"{os.path.basename(file_path)}: root text blocks {len(text_ids)}, transcluded {len(set(tr_ids))}, "
-      f"with own translation {own}, stacked {len(set(stacked))}, heading IDs {sum(1 for x in ids_in_file if x[2])}; {cov}")
+      f"with own translation {own}, stacked {len(set(stacked))}, heading IDs {sum(1 for x in ids_in_file if x[2])}, "
+      f"translation-only ^U-N {len(u_ids)}; {cov}")
 print("  RESULT:", "OK" if not problems else f"{len(problems)} problem(s)")
 for p in problems:
     print("   -", p)

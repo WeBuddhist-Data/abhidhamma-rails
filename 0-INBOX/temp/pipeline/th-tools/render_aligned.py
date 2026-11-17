@@ -149,6 +149,7 @@ for b, items in prefix.items():
 out, ml = [], []
 stack = []  # transclusions waiting for text (MERGE)
 last_group = None  # index in out of the previous passage's transclusion group
+u_count = 0  # ^U-N: translation-only lines with no root block
 CHECK = set(J.get("check", []))
 for blk in R:
     bid = blk["id"]
@@ -180,8 +181,11 @@ for blk in R:
         # (with no previous passage, e.g. a homage the Thai lacks, the stack carries forward)
         if text:
             out.append("#" * blk["level"] + " " + text + f" ^{bid}")
-            for i in M[bid].get("after", []):  # translation-only lines printed under this heading
-                out.append(item_text(i))
+            for i in M[bid].get("after", []):
+                # translation-only line printed under this heading, before any root text: it has
+                # no root block, so it gets an unnumbered ID ^U-N (like ^T-N for the homage)
+                u_count += 1
+                out.append(item_text(i) + f" ^U-{u_count}")
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  {text[:50]}")
         else:
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  (no heading in this translation: left out)")

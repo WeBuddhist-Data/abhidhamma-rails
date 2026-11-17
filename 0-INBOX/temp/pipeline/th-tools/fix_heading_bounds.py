@@ -159,6 +159,7 @@ for i, kind, b, s, cur in moves:
     else:
         pending_after[s].append(i)
 
+NOT_NAME = re.compile(r'"|\sมี\s|^ใน|พึง|ผู้มีปัญญา|เหมือน|ฯลฯ|^บท|^หัวข้อ')
 TH_SK = {}
 for chars, v in (("กขฃคฅฆ", "k"), ("จฉชฌ", "c"), ("ซศษส", "s"), ("ฎฏฐฑฒดตถทธ", "t"), ("งญณนํ", "n"),
                  ("บปผฝพฟภ", "p"), ("ม", "m"), ("ย", "y"), ("รฤ", "r"), ("ลฦฬ", "l"), ("ว", "v"), ("หฮ", "h")):
@@ -202,7 +203,9 @@ for s, items in pending_after.items():
     # text printed between two headings with no root text between them (e.g. a list the Thai
     # prints before its "อุทเทสวาร" heading) belongs to the next root text block: it goes forward
     nxt_seg = next((x for x in range(s + 1, len(kept) + 1) if seg_text.get(x)), None)
-    for i in [i for i in items if D[i]["kind"] != "h"]:
+    # centred Thai lines that are content, not section names (count lines "ในอธิปติปัจจัย มี " ๕",
+    # instructions "พึงนับอย่างนี้"), go forward with the text
+    for i in [i for i in items if D[i]["kind"] != "h" or NOT_NAME.search(D[i]["text"].strip())]:
         if nxt_seg is None:
             continue
         dest = seg_text[nxt_seg][0]

@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-1.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, vol. 34"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๔: พระอภิธรรมปิฎก เล่ม ๑ ธรรมสังคณีปกรณ์"
 coverage: complete
-alignment: "block-aligned to 1-SOURCES/Text/pi-1.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
+alignment: "block-aligned to 1-SOURCES/Text/pi-1.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Thai-only lines between two headings carry ^U-N"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_34 ธรรมสังคณีปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in the two-column Pāli/Thai matrix only the Thai column is kept, one line per item (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-1-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๙๘๗] complete. Some stray spaces between Thai consonants may remain.]"
@@ -190,7 +190,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### ทุกมาติกา ๑๔๒ ทุกะ ^1-M-2-0
 
-**อภิธรรมมาติกา ๑๐๐ ทุกะ**
+**อภิธรรมมาติกา ๑๐๐ ทุกะ** ^U-1
 
 ##### เหตุโคจฉกะ ^1-M-2-1-0
 
@@ -1107,11 +1107,11 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 ### จิตตุปปาทกัณฑ์ ^1-1-0
 
-**กุศลธรรม**
+**กุศลธรรม** ^U-2
 
 #### กามาวจรมหากุศลจิต ๘ ^1-1-1-0
 
-**จิตดวงที่ ๑**
+**จิตดวงที่ ๑** ^U-3
 
 ##### บทภาชนีย์ ^1-1-1-1-0
 
@@ -3676,7 +3676,7 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### อัพยากตธรรม ^1-1-7-0
 
-**กามาวจรวิบาก**
+**กามาวจรวิบาก** ^U-4
 
 ##### วิญญาณ ๕ ที่เป็นกุศลวิบาก ^1-1-7-1-0
 
@@ -4123,9 +4123,9 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### โลกุตตรวิบาก ^1-1-8-0
 
-**วิบากแห่งมรรคจิตดวงที่ ๑**
+**วิบากแห่งมรรคจิตดวงที่ ๑** ^U-5
 
-**มหานัย ๒๐**
+**มหานัย ๒๐** ^U-6
 
 ##### สุทธิกปฏิปทา ^1-1-8-1-0
 
