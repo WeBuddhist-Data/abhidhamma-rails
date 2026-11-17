@@ -242,11 +242,16 @@ def vi_class(t):
 
 OVERRIDES = None
 PAIR_FIX = {}
+NAME_MODE = False
 CLASS_LEVEL = {"P": 3, "N": 4, "a": 5}
 if ARG_PAIRS:
     if os.path.exists(ARG_PAIRS):
         _j = json.load(open(ARG_PAIRS, encoding="utf-8"))
-        if "_class_levels" in _j:
+        if _j.get("_pali_names"):
+            NAME_MODE = True
+            CLASS_LEVEL = {}
+            PAIR_FIX = {k: v for k, v in _j.items() if not k.startswith("_")}
+        elif "_class_levels" in _j:
             # automatic pairing by heading form -> root level, then reviewed corrections
             CLASS_LEVEL = _j["_class_levels"]
             PAIR_FIX = {k: v for k, v in _j.items() if not k.startswith("_")}
@@ -300,6 +305,65 @@ for key, vh in vi_gap.items():
         mapping[rh[hit]]["heading"] = v_i
         pair_log.append(f"   [{key}] ^{rh[hit]:12} {R[pos[rh[hit]]]['text'][:30]:30} <- {V[v_i]['text'][:50]}")
         p = hit + 1
+if NAME_MODE:
+    # Kathāvatthu: Tịnh Sự gives the Pāli name in brackets ("THA DẪN NGỮ (PARŪPAHĀRAKATHĀ)");
+    # match it, in order, with the root headings ("(10) 1. Parūpahārakathā"), ignoring numbering,
+    # case and diacritics; "PHẨM THỨ HAI …" is the second vagga ("Dutiyavaggo") and so on.
+    import difflib
+    import unicodedata as _ud
+
+    def pkey(s):
+        s = re.sub(r"^\s*(\(\d+(-\d+)?\)\s*)?(\d+(-\d+)?\.\s*)?", "", s)
+        s = "".join(c for c in _ud.normalize("NFD", s.lower()) if not _ud.combining(c))
+        return re.sub(r"[^a-z]", "", s)
+
+    ORD_VI = ["NHẤT", "HAI", "BA", "TƯ", "NĂM", "SÁU", "BẢY", "TÁM", "CHÍN", "MƯỜI", "MƯỜI MỘT", "MƯỜI HAI",
+              "MƯỜI BA", "MƯỜI BỐN", "MƯỜI LĂM", "MƯỜI SÁU", "MƯỜI BẢY", "MƯỜI TÁM", "MƯỜI CHÍN", "HAI MƯƠI",
+              "HAI MƯƠI MỐT", "HAI MƯƠI HAI", "HAI MƯƠI BA"]
+    root_vaggas = [b["id"] for b in R[BODY0:] if b["kind"] == "h" and b["level"] == 3 and b["text"].strip().endswith("vaggo")]
+    root_heads_b = [k for k in range(BODY0, len(R)) if R[k]["kind"] == "h"]
+    vh_all3 = [i for i in range(pb, len(V)) if V[i]["kind"] == "h"]
+    last = BODY0 - 1
+    for i in vh_all3:
+        t = V[i]["text"].strip()
+        mv = re.match(r"^(ĐẠI )?PHẨM THỨ (.+)$", t)
+        if mv:
+            o = ORD_VI.index(mv.group(2).strip()) + 1 if mv.group(2).strip() in ORD_VI else None
+            if o and o >= 2 and o - 2 < len(root_vaggas) and pos[root_vaggas[o - 2]] > last:
+                b = root_vaggas[o - 2]
+                mapping[b]["heading"] = i
+                last = pos[b]
+                pair_log.append(f"   ^{b:12} {R[pos[b]]['text'][:30]:30} <- {t[:50]}")
+            else:
+                extra_vi_heads.append(i)
+            continue
+        groups = [g for g in re.findall(r"\(([^()]*)\)", t) if re.search(r"[A-Za-z]", g)]
+        if not groups:
+            extra_vi_heads.append(i)
+            continue
+        key = pkey(groups[-1])
+        best, bk, best_raw = -1.0, None, 0.0
+        # nearest good candidate first: a small cost per root heading skipped, and no long jumps
+        for d, k in enumerate([k for k in root_heads_b if k > last][:40]):
+            rk = pkey(R[k]["text"])
+            if not rk or not key:
+                continue
+            s_ = difflib.SequenceMatcher(None, key, rk).ratio()
+            if (key in rk or rk in key) and min(len(key), len(rk)) >= 6:
+                s_ = max(s_, 0.9)
+            if s_ - 0.01 * d > best:
+                best, bk, best_raw = s_ - 0.01 * d, k, s_
+        best = best_raw
+        if bk is not None and best >= 0.85:
+            mapping[R[bk]["id"]]["heading"] = i
+            last = bk
+            pair_log.append(f"   ^{R[bk]['id']:12} {R[bk]['text'][:30]:30} <- {t[:50]}  ({best:.2f})")
+        else:
+            extra_vi_heads.append(i)
+            pair_log.append(f"   vi-only  {t[:60]}  (best {best:.2f})")
+    used3 = {mapping[x]["heading"] for x in ids if mapping[x].get("heading") is not None}
+    extra_vi_heads = [i for i in vh_all3 if i not in used3]
+    pair_log = [ln for ln in pair_log if not re.match(r"^   \[\d+\] vi-only", ln)]
 if PAIR_FIX:
     # reviewed corrections on top of the automatic pairs: the Vietnamese heading is searched
     # between the Vietnamese headings of the nearest paired root headings before and after

@@ -103,6 +103,7 @@ def clean_page(text):
 # ---------------------------------------------------------------- structure
 VI_HEAD = [
     (re.compile(r"^PHẦN [IVXL]+(\s*[-–.:]|\s+[A-ZĐÀ-Ỹ]|\s*$)"), 2),  # "PHẦN I - UẨN …", "PHẦN I XIỂN MINH …", "PHẦN I"
+    (re.compile(r"^(ĐẠI )?PHẨM THỨ [A-ZĐÀ-Ỹ ]+$"), 2),  # Kathāvatthu vaggas: "PHẨM THỨ HAI"
     (re.compile(r"^[A-H]\.\s+\S"), 3),  # "A. UẨN PHÂN TÍCH PHẦN PHÂN THEO KINH"
     (re.compile(r"^(Xiển minh|Đầu đề) phần \S+$"), 4),  # Puggalapaññatti: "Xiển minh phần tam"
     (re.compile(r"^Phần [A-Z]\.", re.I), 2),
@@ -212,7 +213,7 @@ def convert():
             out[-1] = ("h", out[-1][1], out[-1][2] + " " + body)
             bump("heading_subtitles_joined")
             continue
-        if re.match(r"^(Đầy đủ|Hoàn bị|Dứt|Mùa an cư)", body):
+        if re.match(r"^(Đầy đủ|Hoàn bị|Hoàn thành|Hoàn tất|Dứt|Hết [Pp]hẩm|Rồi [Pp]hẩm|Mùa an cư)", body):
             # chapter end lines ("Đầy đủ Uẩn phân tích") and the translator's dating line: text
             flush()
             out.append(("p", body))

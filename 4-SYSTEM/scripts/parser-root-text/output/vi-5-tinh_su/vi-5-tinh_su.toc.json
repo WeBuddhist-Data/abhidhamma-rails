@@ -1,0 +1,2110 @@
+{
+  "sections": [
+    {
+      "title": {
+        "vi": "TẠNG VÔ TỶ PHÁP (ABHIDHAMMAPIṬAKA)"
+      },
+      "span": {
+        "start": 51,
+        "end": 1045107
+      },
+      "subsections": [
+        {
+          "title": {
+            "vi": "BỘ NGỮ TÔNG (KATHĀVATTHU)"
+          },
+          "span": {
+            "start": 51,
+            "end": 1045107
+          },
+          "subsections": [
+            {
+              "title": {
+                "vi": "PHẦN NHÂN NGỮ (PUGGALAKATHĀ)"
+              },
+              "span": {
+                "start": 51,
+                "end": 135094
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN THANH TỊNH TỶ GIÁO (SUDDHIKASAṄSANDANĀ)"
+                  },
+                  "span": {
+                    "start": 18296,
+                    "end": 28009
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TỶ GIẢO (OPAMMASAṂSANDANĀ)"
+                  },
+                  "span": {
+                    "start": 28009,
+                    "end": 42691
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TỨ CHỦNG TỶ (CATUKKANAYASAṄSANDANĀ)"
+                  },
+                  "span": {
+                    "start": 42691,
+                    "end": 51313
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN TƯỚNG BÌNH ĐẲNG (LAKKHAṆAYUTTIKATĀ)"
+                  },
+                  "span": {
+                    "start": 51313,
+                    "end": 52319
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "NGỮ THANH KHIẾT (VOCANASODHANA)"
+                  },
+                  "span": {
+                    "start": 52319,
+                    "end": 54416
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "CẬT VẤN CHẾ ĐỊNH (PAÑÑATTĀNUYOGA)"
+                  },
+                  "span": {
+                    "start": 54416,
+                    "end": 60076
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "THÚ HƯỚNG CẬT VẤN (GATIANUYOGA)"
+                  },
+                  "span": {
+                    "start": 60076,
+                    "end": 72612
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Y CHẾ ĐỊNH CẬT VẤN (UPĀDĀPAÑÑATTĀNUYOGA)"
+                  },
+                  "span": {
+                    "start": 72612,
+                    "end": 90753
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "PHẦN NGHIỆP ĐẶNG KẾ (KĀLYĀṆAVAGGA)"
+                  },
+                  "span": {
+                    "start": 90753,
+                    "end": 109845
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "CẬT VẤN THÔNG (ABHIÑÑĀNUYOGA)"
+                  },
+                  "span": {
+                    "start": 109845,
+                    "end": 111368
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "CẬT VẤN THÂN TỘC (ÑĀTAKĀNUYOGA)"
+                  },
+                  "span": {
+                    "start": 111368,
+                    "end": 135094
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "HOẠI LÌA NGỮ (Ỷ HƯ NGỮ) (PARIHANIKATHA)"
+              },
+              "span": {
+                "start": 135094,
+                "end": 177620
+              }
+            },
+            {
+              "title": {
+                "vi": "PHẠM HẠNH NGỮ (BRAHMACARIYAKATHA)"
+              },
+              "span": {
+                "start": 177620,
+                "end": 208008
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "HẠN ĐỊNH NGỮ (ODHISOKATHA)"
+                  },
+                  "span": {
+                    "start": 196427,
+                    "end": 208008
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "NGUYÊN TRỪ NGỮ (JAHATIKATHA)"
+              },
+              "span": {
+                "start": 208008,
+                "end": 217453
+              }
+            },
+            {
+              "title": {
+                "vi": "CHƯ TÀI VẬT NGỮ (SABBAMATTHITIKATHA)"
+              },
+              "span": {
+                "start": 217453,
+                "end": 267049
+              }
+            },
+            {
+              "title": {
+                "vi": "QUÁ KHỨ UẨN NGỮ (ATITAKHANDHADIKATHA)"
+              },
+              "span": {
+                "start": 267049,
+                "end": 276841
+              }
+            },
+            {
+              "title": {
+                "vi": "THÍCH HỢP NGỮ (EKACCAMATTHITIKATHA)"
+              },
+              "span": {
+                "start": 276841,
+                "end": 283980
+              }
+            },
+            {
+              "title": {
+                "vi": "NIỆM XỨ NGỮ (SATIPAṬṬHANAKATHA)"
+              },
+              "span": {
+                "start": 283980,
+                "end": 290386
+              }
+            },
+            {
+              "title": {
+                "vi": "HỮU VÔ NGỮ (HEVATTHITIKATHĀ)"
+              },
+              "span": {
+                "start": 290386,
+                "end": 298391
+              }
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ HAI"
+              },
+              "span": {
+                "start": 298391,
+                "end": 407672
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "THA DẪN NGỮ (PARŪPAHĀRAKATHĀ)"
+                  },
+                  "span": {
+                    "start": 298391,
+                    "end": 326991
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "BẤT TRI NGỮ (AÑÑĀṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 313682,
+                        "end": 326991
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "HOÀI NGHI NGỮ (KAṄKHĀKATHĀ)"
+                  },
+                  "span": {
+                    "start": 326991,
+                    "end": 407672
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "THA TIẾP DẪN NGỮ (PARAVITĀRAṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 338008,
+                        "end": 350080
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGÔN CHÂN BIẾT NGỮ (VACIBHEDAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 350080,
+                        "end": 363816
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "KHỔ THỰC NGỮ (DUKKHĀHĀRAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 363816,
+                        "end": 364463
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÂM TRỤ NGỮ (CITTAṬṬHITIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 364463,
+                        "end": 372220
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHIỆT THẤU NGỮ (KUKKUḶAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 372220,
+                        "end": 380895
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÙNG TIỀN THỨ ĐỆ NGỮ (ANUPUBBĀBHISAMAYAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 380895,
+                        "end": 396359
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TỪ CÚ NGỮ (VOHĀRAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 396359,
+                        "end": 404782
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DIỆT NGỮ (NIRODHAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 404782,
+                        "end": 407672
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ BA"
+              },
+              "span": {
+                "start": 407672,
+                "end": 474061
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "LỰC NGỮ (BALAKATHĀ)"
+                  },
+                  "span": {
+                    "start": 407672,
+                    "end": 474061
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "THÁNH CHÚNG NGỮ (ARIYANTIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 416222,
+                        "end": 426202
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "GIẢI THOÁT NGỮ (VIMUCCATIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 426202,
+                        "end": 430718
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "GIẢI THOÁT NGÃ MẠN NGỮ (VIMUCCAMANAKATHA)"
+                      },
+                      "span": {
+                        "start": 430718,
+                        "end": 435130
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐỆ BÁT NGỮ (AṬṬHAMAKA KATHA)"
+                      },
+                      "span": {
+                        "start": 435130,
+                        "end": 441680
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐỆ BÁT QUYỀN NGỮ (AṬṬHAMAKASSAINDRIYAKATHA)"
+                      },
+                      "span": {
+                        "start": 441680,
+                        "end": 447853
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THIÊN NHÃN NGỮ (DIBBACAKKHUKATHA)"
+                      },
+                      "span": {
+                        "start": 447853,
+                        "end": 451355
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THIÊN NHĨ NGỮ (DIBBASOTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 451355,
+                        "end": 453683
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÙY NGHIỆP HÀNH TRÍ NGỮ (YATHAKAMMUPAGATAÑAṆAKATHA)"
+                      },
+                      "span": {
+                        "start": 453683,
+                        "end": 457808
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THU THÚC NGỮ (SAṂVARAKATHA)"
+                      },
+                      "span": {
+                        "start": 457808,
+                        "end": 463142
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ TƯỞNG NGỮ (ASAÑÑAKATHA)"
+                      },
+                      "span": {
+                        "start": 463142,
+                        "end": 468045
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHI TƯỞNG PHI PHI TƯỞNG NGỮ (NEVASAÑÑĀNASAÑÑĀYATANAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 468045,
+                        "end": 474061
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ TƯ"
+              },
+              "span": {
+                "start": 474061,
+                "end": 531552
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "CƯ SĨ ỨNG CÚNG NGỮ (GAHISSA ARAHĀTIKATHĀ)"
+                  },
+                  "span": {
+                    "start": 474061,
+                    "end": 531552
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "PHÁT SINH NGỮ (UPAPATTIKATHA)"
+                      },
+                      "span": {
+                        "start": 476867,
+                        "end": 481475
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHI CẢNH LẬU NGỮ (ANASAVAKATHA)"
+                      },
+                      "span": {
+                        "start": 481475,
+                        "end": 487652
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÙNG HIỆP NGỮ (SAMANNAGATAKATHA)"
+                      },
+                      "span": {
+                        "start": 487652,
+                        "end": 497060
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "XẢ TÙNG HIỆP NGỮ (UPEKKHĀSAMANNĀGATAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 497060,
+                        "end": 498219
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHẬT DO GIÁC NGỮ (BODHIYA BUDDHOTIKAKATHA)"
+                      },
+                      "span": {
+                        "start": 498219,
+                        "end": 504265
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TƯỚNG HẢO NGỮ (LAKKHAṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 504265,
+                        "end": 509034
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LIÊN QUAN NHỨT ĐỊNH NGỮ (NIYĀMOKKANTIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 509034,
+                        "end": 516441
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÙNG HIỆP NGỮ MỘT NỮA (APARĀPĪ SAMANNĀGATAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 516441,
+                        "end": 528880
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TUYỆT TRỪ CHƯ TRIỀN NGỮ (SABBASAÑÑOJANAPPAHĀNAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 528880,
+                        "end": 531552
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ NĂM"
+              },
+              "span": {
+                "start": 531552,
+                "end": 557438
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "GIẢI THOÁT NGỮ (VIMUTTAKATHĀ)"
+                  },
+                  "span": {
+                    "start": 531552,
+                    "end": 557438
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "VÔ HỌC TRÍ NGỮ (ASEKKHAÑĀṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 535540,
+                        "end": 538361
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HUYỄN BIẾN NGỮ (VIPARĪTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 538361,
+                        "end": 542441
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHỨT ĐỊNH NGỮ (NIYĀMA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 542441,
+                        "end": 546007
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐẠT THÔNG NGỮ (PAṬISAMBHIDĀKATHĀ)"
+                      },
+                      "span": {
+                        "start": 546007,
+                        "end": 547990
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TỤC TRÍ NGỮ (SAMMATIÑĀṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 547990,
+                        "end": 549149
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÂM CẢNH NGỮ (CITTĀRAMMAṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 549149,
+                        "end": 552300
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VỊ LAI TRÍ NGỮ (ANĀGATAÑĀṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 552300,
+                        "end": 554037
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HIỆN TẠI TRÍ NGỮ (PACCUPPANNAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 554037,
+                        "end": 555991
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUẢ TRÍ NGỮ (PHALAÑĀNAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 555991,
+                        "end": 557438
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ SÁU"
+              },
+              "span": {
+                "start": 557438,
+                "end": 583679
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "CỐ NHIÊN NGỮ (NIYĀMAKATHĀ)"
+                  },
+                  "span": {
+                    "start": 557438,
+                    "end": 583679
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Y TƯƠNG SINH NGỮ (PAṬICCASAMUPPĀDA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 560861,
+                        "end": 566545
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐẾ NGỮ (SACCA KATHA)"
+                      },
+                      "span": {
+                        "start": 566545,
+                        "end": 570347
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ SẮC NGỮ (ĀPUPPA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 570347,
+                        "end": 572526
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHẬP DIỆT NGỮ (NIRODHASAMĀPATTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 572526,
+                        "end": 575204
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HƯ KHÔNG NGỮ (ĀKĀSA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 575204,
+                        "end": 577741
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HƯ KHÔNG HỮU KIẾN NGỮ (ĀKĀSA SANIDASSANATIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 577741,
+                        "end": 579059
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐỊA CHẤT HỮU KIẾN NGỮ (PATHAVI DHATU SANIDASSANATAYADIKATHA)"
+                      },
+                      "span": {
+                        "start": 579059,
+                        "end": 582264
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THÂN NGHIỆP HỮU KIẾN NGỮ (KAYAKAMMA SANIDASSANANTIKATHA)"
+                      },
+                      "span": {
+                        "start": 582264,
+                        "end": 583679
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ BẢY"
+              },
+              "span": {
+                "start": 583679,
+                "end": 621551
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "YẾU HIỆP NGỮ (SAṄGAHITA KATHA)"
+                  },
+                  "span": {
+                    "start": 583679,
+                    "end": 621551
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "TƯƠNG ƯNG NGỮ (SAMPAYUTTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 586611,
+                        "end": 587842
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SỞ HỮU TÂM NGỮ (CETASIKA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 587842,
+                        "end": 589952
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BỐ THÍ NGỮ (DANA KATHA)"
+                      },
+                      "span": {
+                        "start": 589952,
+                        "end": 596255
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HƯỞNG DỤNG THÀNH TỰU PHƯỚC NGỮ (PARIBHOGA MAYAPUÑÑA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 596255,
+                        "end": 602999
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TỰ THỬ THÍ NGỮ (ITODINNAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 602999,
+                        "end": 606923
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐẠI ĐỊA NGHIỆP QUẢ NGỮ (PATHAVĪKAMMAVIPĀKATIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 606923,
+                        "end": 612167
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LÃO TỬ QUẢ NGỮ (JARĀMARAṆAVIPĀKOTIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 612167,
+                        "end": 615519
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THÁNH NGHIỆP QUẢ NGỮ (ARIYADHAMMA VIPĀKA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 615519,
+                        "end": 621551
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ TÁM"
+              },
+              "span": {
+                "start": 621551,
+                "end": 687492
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "LỤC THÚ HƯỚNG NGỮ"
+                  },
+                  "span": {
+                    "start": 621551,
+                    "end": 687492
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "TRUNG HỮU NGỮ (ANTARĀBHAVA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 623388,
+                        "end": 632687
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DỤC LẠC NGỮ (KĀMAGUṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 632687,
+                        "end": 637547
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DỤC NGỮ (KAMAKATHA)"
+                      },
+                      "span": {
+                        "start": 637547,
+                        "end": 639806
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC GIỚI NGỮ (RUPADHATU KATHA)"
+                      },
+                      "span": {
+                        "start": 639806,
+                        "end": 642148
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ SẮC GIỚI NGỮ (ARŪPADHĀTU KATHĀ)"
+                      },
+                      "span": {
+                        "start": 642148,
+                        "end": 645028
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC GIỚI LỤC XỨ NGỮ (RŪPADHĀTUYĀ ĀYATANA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 645028,
+                        "end": 651596
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ SẮC HỮU SẮC NGỮ (ARUPE RUPAKATHA)"
+                      },
+                      "span": {
+                        "start": 651596,
+                        "end": 655215
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC HÀNH ĐỘNG NGỮ (RUPAṂ KAMMANTI KATHA)"
+                      },
+                      "span": {
+                        "start": 655215,
+                        "end": 679959
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "MẠNG QUYỀN NGỮ (JIVITINDRIYAKATHA)"
+                      },
+                      "span": {
+                        "start": 679959,
+                        "end": 685583
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGHIỆP NHÂN NGỮ (KAMMA HETU KATHĀ)"
+                      },
+                      "span": {
+                        "start": 685583,
+                        "end": 687492
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ CHÍN"
+              },
+              "span": {
+                "start": 687492,
+                "end": 720175
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "THÀNH QUẢ NGỮ (ĀNISAṂSA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 687492,
+                    "end": 720175
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "BẤT TỬ CẢNH NGỮ (AMATĀRAMMAṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 690179,
+                        "end": 696075
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC HỮU TRI CẢNH NGỮ (RŪPAṂ SĀRAMMAṆANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 696075,
+                        "end": 698083
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TÙY MIÊN VÔ HỮU CẢNH NGỮ (ANUSAYA ANĀRAMMAṆĀTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 698083,
+                        "end": 703004
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TRÍ BẤT TRI CẢNH NGỮ (ÑĀṆAṂ ANĀRAMMAṆANTIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 703004,
+                        "end": 705627
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUÁ KHỨ CẢNH NGỮ (ATĪTĀRAMMAṆAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 705627,
+                        "end": 708940
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TẦM LIÊN QUAN NGỮ (VITAKKĀNUPATITA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 708940,
+                        "end": 710209
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TẦM BÁ THINH NGỮ (VITAKKAVIPPHĀRASADDA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 710209,
+                        "end": 711307
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DẪN TÂM NGÔN NGỮ (NA YATHACITTASSA VACATI KATHA)"
+                      },
+                      "span": {
+                        "start": 711307,
+                        "end": 716748
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUÁ KHỨ VỊ LAI HIỆN TẠI NGỮ (ATITANAGATAPACCUPANNA KATHA)"
+                      },
+                      "span": {
+                        "start": 716748,
+                        "end": 720175
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ MƯỜI"
+              },
+              "span": {
+                "start": 720175,
+                "end": 756583
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "DIỆT NGỮ (NIRODHA KATHA)"
+                  },
+                  "span": {
+                    "start": 720175,
+                    "end": 756583
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "SẮC ĐẠO NGỮ (RUPAṂ MAGGOTI KATHA)"
+                      },
+                      "span": {
+                        "start": 721821,
+                        "end": 730187
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGŨ THỨC THIỆN HỶ NGỮ (PAÑCAVIÑÑAṆA KUSALAPITI KATHA)"
+                      },
+                      "span": {
+                        "start": 730187,
+                        "end": 734108
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGŨ THỨC KIẾT PHƯỢC NGỮ (PAÑCAVIÑÑAṆA SABHOGATI KATHA)"
+                      },
+                      "span": {
+                        "start": 734108,
+                        "end": 737505
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHỊ GIỚI TÙY TỀ NGỮ (DVIHI SILEHI SAMANNAGATOTI KATHA)"
+                      },
+                      "span": {
+                        "start": 737505,
+                        "end": 741841
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "GIỚI PHI SỞ HỮU TÂM NGỮ (SILAṂ ACETASIKANTI KATHA)"
+                      },
+                      "span": {
+                        "start": 741841,
+                        "end": 746902
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "GIỚI PHI TÙNG HÀNH TÂM NGỮ (SILAṂ NA CITTANUPARIVATTITI KATHA)"
+                      },
+                      "span": {
+                        "start": 746902,
+                        "end": 749551
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGUYỆN TRÌ NHÂN NGỮ (SAMADANAHETUKAKATHA)"
+                      },
+                      "span": {
+                        "start": 749551,
+                        "end": 751787
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BIỂU TRI GIỚI NGỮ (VIÑÑATTI SILANTI KATHA)"
+                      },
+                      "span": {
+                        "start": 751787,
+                        "end": 753037
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ BIỂU TRI PHẠM GIỚI NGỮ (AVIÑÑATTI DUSSIYANTI KATHA)"
+                      },
+                      "span": {
+                        "start": 753037,
+                        "end": 756583
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẨM THỨ MƯỜI MỘT"
+              },
+              "span": {
+                "start": 756583,
+                "end": 1045107
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "TAM CHỦNG TIỀM THÙY NGỮ (TISSOPI ANUSAYA KATHA)"
+                  },
+                  "span": {
+                    "start": 756583,
+                    "end": 784658
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "TRÍ NGỮ (ÑĀṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 766319,
+                        "end": 767829
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TRÍ BẤT TƯƠNG ƯNG TÂM NGỮ (ÑĀṆAṂ CITTAVIPPAYUTTANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 767829,
+                        "end": 770272
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THỬ KHỔ NGỮ (IDAṂDUKKHANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 770272,
+                        "end": 773593
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THẦN THÔNG LỰC NGỮ (IDDHIBALA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 773593,
+                        "end": 778395
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐỊNH NGỮ (SAMĀDHI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 778395,
+                        "end": 780292
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHÁP TRỤ NGỮ (DHAMMAṬṬHITATĀ KATHĀ)"
+                      },
+                      "span": {
+                        "start": 780292,
+                        "end": 781827
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ THƯỜNG NGỮ (ANICCATĀKATHĀ)"
+                      },
+                      "span": {
+                        "start": 781827,
+                        "end": 784658
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "THU THÚC NGHIỆP NGỮ (SAṂVARO KAMMANTI KATHĀ)"
+                  },
+                  "span": {
+                    "start": 784658,
+                    "end": 804719
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "NGHIỆP NGỮ (KAMMAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 787881,
+                        "end": 790569
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THINH DỊ THỤC QUẢ NGỮ (SADDO VIPĀKOTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 790569,
+                        "end": 792573
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LỤC NHẬP NGỮ (SAḶĀYATANA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 792573,
+                        "end": 795291
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THẤT LAI CHÍ THƯỢNG NGỮ (SATTAKKHATTUPARAMAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 795291,
+                        "end": 798392
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LỤC LAI NHỨT SANH NGỮ (KOLAṄKOLA EKAVĪJĪ KATHĀ)"
+                      },
+                      "span": {
+                        "start": 798392,
+                        "end": 799093
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "MẠNG TUYỆT NGỮ (JĪVITAVOROPANAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 799093,
+                        "end": 801270
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "KHỔ THÚ NGỮ (DUGGATIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 801270,
+                        "end": 804354
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THẤT SANH NGỮ (SATTAMABHAVIKAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 804354,
+                        "end": 804719
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "BÁT KIẾP NGỮ (KAPPAṬṬHA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 804719,
+                    "end": 853830
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "THIỆN TÂM PHẢN CHUYỂN NGỮ (KUSALACITTA PATILĀBHA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 807497,
+                        "end": 808757
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ GIÁN BẤT HIỆP NGỮ (ANANTARĀPAYUTTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 808757,
+                        "end": 811079
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUYẾT ĐỊNH SỞ NHỨT ĐỊNH NGỮ (NIYATASSA NIYĀMA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 811079,
+                        "end": 812376
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CÁI NGỮ (NĪVUTAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 812376,
+                        "end": 814976
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "HỘI DIỆN NGỮ (SAMMUKHĪBHŪTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 814976,
+                        "end": 817410
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHẬP THIỀN THÍCH THÀNH CẢNH NGỮ (SAMĀPANNO ASSĀDETI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 817410,
+                        "end": 819988
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHI CẢNH ÁI NGỮ (ASĀTARĀGA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 819988,
+                        "end": 821634
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHÁP ÁI VÔ KÝ NGỮ (DHAMMATAṂHĀ ABYĀKATĀTIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 821634,
+                        "end": 831370
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LỤC NHẬP SANH NGỮ (SAḶĀYATANUPPATTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 831370,
+                        "end": 833679
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ GIÁN DUYÊN NGỮ (ANANTARAPACCAYAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 833679,
+                        "end": 838840
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THÁNH SẮC NGỮ (ARIYARŪPA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 838840,
+                        "end": 840360
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BẤT ĐỒNG TÙY MIÊN NGỮ (AÑÑO ANUSAYOTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 840360,
+                        "end": 844808
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LIÊN QUAN LUÂN HỒI NGỮ (PARIYĀPANNA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 844808,
+                        "end": 849407
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ KÝ NGỮ (ABYĀKATA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 849407,
+                        "end": 853008
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BẤT LIÊN QUAN LUÂN HỒI NGỮ (APARIYĀPANNA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 853008,
+                        "end": 853830
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "DUYÊN KHỞI NGỮ (PACCAYA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 853830,
+                    "end": 879642
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "HỔ TƯƠNG DUYÊN NGỮ (AÑÑAMAÑÑAPACCAYAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 859131,
+                        "end": 860767
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "KỲ GIAN NGỮ (ADDHĀKATHĀ)"
+                      },
+                      "span": {
+                        "start": 860767,
+                        "end": 864277
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SÁT-NA KỲ GIAN ĐIỂM ĐIỂM NGỮ (KHAṆALAYAMUHUTTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 864277,
+                        "end": 865383
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LẬU NGỮ (ĀSAVA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 865383,
+                        "end": 865906
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LÃO TỬ NGỮ (JARĀMARAṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 865906,
+                        "end": 867147
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TƯỞNG HƯỞNG NGỮ (SAÑÑĀVEDAYITA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 867147,
+                        "end": 867619
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TƯỞNG HƯỞNG NGỮ THỨ HAI (DUTIYASAÑÑĀVEDAYITAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 867619,
+                        "end": 868332
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TƯỞNG HƯỞNG NGỮ THỨ BA (TATIYA SAÑÑĀ VEDAYITA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 868332,
+                        "end": 871701
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ TƯỞNG HỮU NGỮ (ASAÑÑĀSATTUPIKA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 871701,
+                        "end": 873969
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGHIỆP TẠO CHỨA NGỮ (KAMMŪPACAYA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 873969,
+                        "end": 879642
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "CHINH LỆ NGỮ (NIGGAHA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 879642,
+                    "end": 910629
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "PHÒ TRÌ NGỮ (PAGGAHA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 882325,
+                        "end": 885138
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "LẠC PHÚ NGỮ (SUKHĀNUPYADĀNA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 885138,
+                        "end": 886982
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TẬP ĐỈNH TÁC Ý NGỮ (ADHIGGAYHAMANASIKĀRA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 886982,
+                        "end": 892215
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC THÀNH NHÂN NGỮ (RŪPAṂ HETŪTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 892215,
+                        "end": 894544
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC HỮU NHÂN NGỮ (RŪPASAHETUKANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 894544,
+                        "end": 896987
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC THÀNH THIỆN, BẤT THIỆN NGỮ (RŪPAṂ KUSALĀKUSALANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 896987,
+                        "end": 900666
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "SẮC THÀNH DỊ THỤC QUẢ NGỮ (RŪPAṂ VIPĀKOTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 900666,
+                        "end": 910629
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "LA HÁN KHÍ PHƯỚC NGỮ (ATTHI ARAHATO PUÑÑUPACAYOTI KATHA)"
+                  },
+                  "span": {
+                    "start": 910629,
+                    "end": 936222
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "LA HÁN VÔ PHI THỜI TỬ NGỮ (NATTHI ARAHATO AKALAMACCUTI KATHA)"
+                      },
+                      "span": {
+                        "start": 913380,
+                        "end": 917819
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUYỀN LIÊN QUAN NGỮ (INDRIYABADDHA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 917819,
+                        "end": 920464
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TRỪ RA THÁNH ĐẠO NGỮ (ṬHAPETVĀ ARIYAMAGGANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 920464,
+                        "end": 932310
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BỐ THÍ THANH TỊNH NGỮ (DAKKHIṆĀVISUDDHI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 932310,
+                        "end": 936222
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "THẾ GIỚI NHÂN LOẠI NGỮ (MANUSSA LOKA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 936222,
+                    "end": 959812
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "THUYẾT PHÁP NGỮ (DHAMMA DESANĀ KATHĀ)"
+                      },
+                      "span": {
+                        "start": 938564,
+                        "end": 940711
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BI NGỮ (KARUṆĀ KATHĀ)"
+                      },
+                      "span": {
+                        "start": 940711,
+                        "end": 942259
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "KHÍ XUẤT NGỮ (GANDHAJĀTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 942259,
+                        "end": 942917
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHỨT ĐẠO NGỮ (EKAMAGGA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 942917,
+                        "end": 945739
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THIỀN ĐÀ NGỮ (JHĀNASAṄKANTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 945739,
+                        "end": 951413
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THIỀN HỮU GIÁN NGỮ (JHĀNANTARIKA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 951413,
+                        "end": 955253
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHẬP THIỀN THÍNH THINH NGỮ (SAMAPANNO SADDAṂ SUṆATITI KATHA)"
+                      },
+                      "span": {
+                        "start": 955253,
+                        "end": 957720
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHÃN KIẾN SẮC NGỮ (CAKKHUNĀ RŪPAṂ PASSATĪTI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 957720,
+                        "end": 959812
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "TRỪ PHIỀN NÃO NGỮ (KILESAJAHANA KATHA)"
+                  },
+                  "span": {
+                    "start": 959812,
+                    "end": 985861
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "TIÊU DIỆT NGỮ (SUÑÑATA KATHA)"
+                      },
+                      "span": {
+                        "start": 963074,
+                        "end": 965853
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHỔ THÔNG QUẢ NGỮ (SĀMAÑÑA PHALA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 965853,
+                        "end": 968052
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ÂN ĐỨC NGỮ (PATTIKATHA)"
+                      },
+                      "span": {
+                        "start": 968052,
+                        "end": 971946
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CHÂN NGỮ (TATHATA KATHA)"
+                      },
+                      "span": {
+                        "start": 971946,
+                        "end": 974099
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THIỆN NGỮ (KUSALA KATHA)"
+                      },
+                      "span": {
+                        "start": 974099,
+                        "end": 976216
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CỰC THẬM CỐ NHIÊN NGỮ (ACCANTA NIYAMA KATHA)"
+                      },
+                      "span": {
+                        "start": 976216,
+                        "end": 981411
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "QUYỀN NGỮ (INDRIYA KATHA)"
+                      },
+                      "span": {
+                        "start": 981411,
+                        "end": 985861
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "VÔ CỐ QUYẾT NGỮ (ASAÑCICCA KATHA)"
+                  },
+                  "span": {
+                    "start": 985861,
+                    "end": 1002941
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "TRÍ NGỮ (ÑAṆAKATHA)"
+                      },
+                      "span": {
+                        "start": 990515,
+                        "end": 991932
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DIÊM VƯƠNG NGỮ (NIRAYAPALAKATHA)"
+                      },
+                      "span": {
+                        "start": 991932,
+                        "end": 995493
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BÀNG SANH NGỮ (TIRACCHANAKATHA)"
+                      },
+                      "span": {
+                        "start": 995493,
+                        "end": 996800
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ĐẠO NGỮ (MAGGAKATHA)"
+                      },
+                      "span": {
+                        "start": 996800,
+                        "end": 1000352
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TRÍ NGỮ (ÑAṆA KATHA)"
+                      },
+                      "span": {
+                        "start": 1000352,
+                        "end": 1002941
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "TÔNG GIÁO NGỮ (SASANAKATHA)"
+                  },
+                  "span": {
+                    "start": 1002941,
+                    "end": 1016346
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "BẤT NGHIÊM TỊNH NGỮ (AVIVITTATHA)"
+                      },
+                      "span": {
+                        "start": 1005135,
+                        "end": 1006271
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TRIỀN NGỮ (SAÑÑOJANAKATHA)"
+                      },
+                      "span": {
+                        "start": 1006271,
+                        "end": 1007610
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "THẦN THÔNG NGỮ (IDDHIKATHA)"
+                      },
+                      "span": {
+                        "start": 1007610,
+                        "end": 1010289
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHẬT NGỮ (BUDDHAKATHA)"
+                      },
+                      "span": {
+                        "start": 1010289,
+                        "end": 1010648
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CHƯ PHƯƠNG NGỮ (SABBAD DISĀKATHĀ)"
+                      },
+                      "span": {
+                        "start": 1010648,
+                        "end": 1012025
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "PHÁP NGỮ (DHAMMAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 1012025,
+                        "end": 1013925
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NGHIỆP NGỮ (KAMMAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 1013925,
+                        "end": 1016346
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "TỊCH DIỆT NGỮ (PARINIBBĀNA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 1016346,
+                    "end": 1031334
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "THIỆN TÂM NGỮ (KUSALACITTA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1017338,
+                        "end": 1019398
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BẤT ĐỘNG NGỮ (ĀNEÑJA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1019398,
+                        "end": 1021064
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CHỨNG THẬT PHÁP NGỮ (DHAMMĀBHISAMAYAKATHĀ)"
+                      },
+                      "span": {
+                        "start": 1021064,
+                        "end": 1022586
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "TAM TOÀN NGỮ (TISSOPI KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1022586,
+                        "end": 1023314
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "VÔ KÝ NGỮ (ABYĀKATA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1023314,
+                        "end": 1025018
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "CỐ HƯỞNG DUYÊN NGỮ (ĀSEVANAPACCAYATĀ KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1025018,
+                        "end": 1028740
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "NHỨT SÁT-NA NGỮ (KHAṆIKA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1028740,
+                        "end": 1031334
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "ĐỒNG NHU YẾU NGỮ (EKĀDHIPPĀYA KATHĀ)"
+                  },
+                  "span": {
+                    "start": 1031334,
+                    "end": 1045107
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "LA HÁN NHÃN SẮC NGỮ (ARAHANTAVAṆṆA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1032114,
+                        "end": 1032478
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "DỤC TÁC VƯƠNG HỒN NGỮ (ISSARIYAKAMAKARIKAKATHA)"
+                      },
+                      "span": {
+                        "start": 1032478,
+                        "end": 1036740
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "ÁI THÍCH HỢP HÀNH NGỮ (RĀGAPAṬIRŪPAKĀDIKATHĀ)"
+                      },
+                      "span": {
+                        "start": 1036740,
+                        "end": 1037904
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "BẤT HIỂN MINH NGỮ (APARINIPPHANNA KATHĀ)"
+                      },
+                      "span": {
+                        "start": 1037904,
+                        "end": 1045107
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

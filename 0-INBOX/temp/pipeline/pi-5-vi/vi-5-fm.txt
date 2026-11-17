@@ -1,0 +1,22 @@
+---
+title: "Bộ Ngữ Tông"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-5.md
+translation_of: HE6FGm4AAqwlDOTnCT0Yd
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ năm: Bộ Ngữ Tông, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1976); NXB Tôn Giáo 2012"
+coverage: complete
+use: "reference only, for checking AI translations; not for hosting or upload (in copyright)"
+alignment: "block-aligned to 1-SOURCES/Text/pi-5.md through the Thai Royal edition (same paragraph numbers): each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Vietnamese-only headings open the next block as bold lines"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://archive.org/details/5-abhi-bo-ngu-tong
+source_description: "archive.org item 5-abhi-bo-ngu-tong, file '5-Abhi-Bo-Ngu-Tong.pdf' (Word export, July 2015); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page, introduction and table of contents (PDF pages 1 to 14) and running headers removed; translator footnotes removed (the raw copy 0-INBOX/raw-data/vi-5-tinh_su-raw.md keeps them); split syllables re-joined; bullet glyphs rendered as list items; titles ^0 and ^5-0 taken from the title page; kathā headings paired with the root by the Pāli name the translator gives in brackets; the vagga titles 'PHẨM THỨ …' are printed for vaggas 1 to 11 only; paragraph numbers 1 to 1897 (75 and 1022 are not numbered in the source; their text stays with the paragraph before).]"
+verse_id_format: book-verse
+---

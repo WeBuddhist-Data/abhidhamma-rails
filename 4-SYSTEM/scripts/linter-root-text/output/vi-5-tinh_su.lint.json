@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/vi-5-tinh_su.md",
+  "validated_at": "2026-11-17T12:13:26.481055+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-5.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://archive.org/details/5-abhi-bo-ngu-tong'",
+    "toc: 226 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)' has no [bdrc:ID] or [op:ID] — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "vi": "Bộ Ngữ Tông"
+    },
+    "alt_titles": null,
+    "language": "vi",
+    "commentary_of": null,
+    "translation_of": "HE6FGm4AAqwlDOTnCT0Yd",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "copyrighted",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
