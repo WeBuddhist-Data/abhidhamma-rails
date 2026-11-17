@@ -1,0 +1,171 @@
+# pi-2 Pāli→Russian plain termbase decisions (brief ru-termbase-brief.md): key<TAB>term<TAB>reason
+rūpa|0	материальная форма	core rūpa (matter); pi-1; 32 of 33
+rūpa|2	мир форм	pi-1 prior (fine-material sphere); pi-4; «форма» is only the fragment of «мир форм»
+saṅkhāra|0	формирующие факторы	core; pi-1/pi-5 prior; plural concept
+Tikaṃ|0	тройки	pi-4 prior; most used; parallel to Dukaṃ «пары»
+Dukaṃ|0	пары	pi-1 prior; most used
+rūpaṃ|0	материальная форма	core; pi-1
+uppannaṃ|0	возникший	pi-1 prior (same tag); participle dictionary form; «возникает» is the verbal rendering of the same sense
+uppajjitvā|0	после возникновения	pi-1 prior (same tag)
+ajjhattaṃ|0	внутренний	user 2026-11-17 (termbase approval): the form the pi-2 text uses (12 of 24) and pi-3/4/5 agree on; the pi-1 decision's own reason
+Dukkha|1	болезненный	pi-1 prior (pain, painful feeling); core sukha/dukkha feeling = приятный/болезненный
+rūpā|1	материальный	sense is the predicate 'are material'; 4 of 5
+Paṭicca|0	в зависимости от условий	core paṭiccasamuppāda; pi-1/pi-5 prior
+catukkaṃ|0	четвёрка	pi-2 family (Paccayacatukkaṃ «четвёрка условий», Hetucatukkaṃ); 16 of 18; pi-4 «четвёрки» names a whole section, not one tetrad
+yaṃ vā panaññampi|0	или же какой бы другой	pi-1 verbatim formula (rūpāyatana definition), 8 of 9; the ch1 formula keeps «а также любая другая» as a fixed string
+pātubhūtā|0	проявившийся	pi-1 prior (same tag)
+uppannā|0	возникший	pi-1 prior (same tag); most used
+jātā|0	рождённый	pi-1 prior (same tag)
+abbhatthaṅgatā|0	полностью угасший	pi-1 prior (same tag); participle dictionary form
+nibbattā|0	появившийся	pi-1 prior (same tag)
+Upekkhā|0	невозмутимость	core upekkhā
+Dhamma|2	объекты ума	pi-1 prior (same tag); 6 of 7
+Ñāti|0	родственники	pi-4 prior (kinsfolk) among the candidates (rule 1b)
+taṇhā|0	жажда	core taṇhā; pi-1 prior
+Antavā|0	конечный	pi-5 prior; adjective dictionary form
+anantavā|0	бесконечный	pi-5 prior; pair with Antavā
+Sīla|0	нравственность	pi-1 prior (same tag); pi-4/5
+bahiddhā|0	внешний	user 2026-11-17 (termbase approval): the form the pi-2 text uses (27 of 28) and pi-3/4/5 agree on; pairs with ajjhattaṃ «внутренний»
+Ajjhatta|0	внутренний	pi-4 prior; compound member used attributively (ajjhattārammaṇa «с внутренним объектом»)
+esanā|0	виды поиска	plural headword (tisso esanā); 3 of 4; as mānā «виды самомнения»
+micchā|0	ложный	pi-1 prior (same tag); 25 of 29
+ayoniso|0	неразумно	pi-1 prior (unwisely); pi-4
+ānusayā|0	скрытые склонности	plural headword, plural concept
+mānā|0	виды самомнения	plural headword; 4 of 5
+antaggāhikā diṭṭhi|0	воззрение держащееся крайностей	ungapped dictionary form of the attested phrase
+Sabba|0	весь	dictionary form (masculine) of the attested всё / весь
+Kāma|1	чувственный	pi-1 prior (same tag); pi-5
+Arūpa|0	мир без форм	pi-1 prior (same tag); parallel to rūpa «мир форм»
+dassanavāro|0	раздел	3 of 4; heading member, the rest of the title names the topic
+āyu|0	срок жизни	pi-1 prior; pi-5
+Āyuppamāṇaṃ|0	продолжительность жизни	ungapped dictionary form; most used
+sahagataṃ|0	сопровождаемый	pi-1 prior (same tag); core sahagata
+upekkhāsahagataṃ|0	сопровождаемый невозмутимостью	pi-1 prior (same tag)
+hetukaṃ|1	имеющий корни	pi-1 prior (same tag); hetuko family
+upādāniyaṃ|0	служащий объектом цепляния	pi-1 prior (same tag)
+viññāṇadhātu|0	элемент сознания	ungapped dictionary form; the bare sixth element «элемент сознания»
+sukha|1	удовольствие	pi-1 prior (bodily pleasure); pi-3/4
+gāmī|0	ведущий	participle the text uses (ācayagāmī «ведущий к накоплению»)
+citta|0	ум	core citta
+hetuko|0	имеющий корни	family hetukaṃ|1 and sahetuko; 20 of 29
+mano|0	ум	core; pi-1 prior
+pahātabbo|0	устраняемый	pi-1 lemma term (pahātabbā «устраняемый»); 13 of 16
+upādāniyo|0	служащий объектом цепляния	pi-1 family (upādāniyaṃ, upādāniyā); «его» only after upādinna in the joined phrase
+uppanno|0	возникший	pi-1 prior (same tag)
+asekkho|0	относящийся к завершившим обучение	pi-1 asekkhā (same tag); 9 of 10
+sekkho|0	относящийся к обучающимся	pi-1 sekkhā (same tag); 9 of 10
+ārammaṇo|0	объект	pi-1 prior (same tag)
+sahagato|0	сопровождаемый	pi-1 prior (same tag)
+pītisahagato|0	сопровождаемый восторгом	pi-1 family (pītisahagatā)
+asaṃkiliṭṭho|0	неомрачённый	map convention (full adjective); 4 of 5
+sahagatā|0	сопровождаемый	pi-1 prior (same tag)
+upekkhāsahagato|0	сопровождаемый невозмутимостью	pi-1 family
+sukhasahagato|0	сопровождаемый счастьем	pi-1 family (sukhasahagatā)
+hetukā|0	чьи корни	the attested values come from pahātabbahetukā (user decision «чьи корни устраняются»); pi-1 «имеющий корни» not a candidate: cross-book
+mahaggatārammaṇā|0	с возвышенным объектом	pi-1 prior (same tag)
+bahiddhārammaṇā|0	с внешним объектом	family of the object triads (ajjhattārammaṇā «с внутренним объектом», pi-1 «с … объектом»)
+parittārammaṇā|0	с ограниченным объектом	pi-1 prior (same tag)
+appamāṇārammaṇā|0	с безмерным объектом	pi-1 prior (same tag)
+upekkhāsahagatā|0	сопровождаемый невозмутимостью	pi-1 prior (same tag)
+sukhasahagatā|0	сопровождаемый счастьем	pi-1 prior (same tag)
+hetū|1	причины	pi-1 prior (causes, possible and impossible)
+dukkhaṃ|1	боль	pi-1 prior (pain, painful feeling); pi-3
+vaṇṇa|0	внешность	8 of 9; pi-4 «облик» not a candidate: cross-book
+maṇi|0	драгоценные камни	pi-1 prior (same tag)
+sūriya|0	солнечный	pi-1 prior (same tag)
+yaṃ vā pana|0	а также всё	5 of 6 (element definitions «а также всё другое …»)
+patta|1	чаша для подаяния	pi-4 prior; most used
+pahātabbā|0	устраняться	the text has the finite verb (устраняются): infinitive; pi-1 «устраняемый» not a candidate: cross-book
+upādāniyā|0	служащий объектом цепляния	pi-1 prior (same tag)
+pītisahagatā|0	сопровождаемый восторгом	pi-1 prior (same tag)
+ārammaṇā|0	объект	pi-1 prior (same tag)
+cetasikaṃ|0	душевный	pi-1 prior (same tag)
+āvacarā|0	относящийся к миру	pi-1 core avacara; ungapped
+sammā|0	правильный	core; pi-1 prior
+mukha|0	рот	pi-1 prior; dictionary noun
+sukhaṃ|0	счастье	pi-1 prior (same tag); core sukha
+doso|1	недостаток	clear plain noun for 'fault' (purisadoso, natthi kāmesu doso)
+ekacco|0	человек	pi-1 prior (same tag); 28 of 30
+aññataraññatarena|0	что-либо	dictionary (nominative) form of the attested чем-либо / что-либо
+yaṃ|0	то что	pi-1 prior (same tag)
+kāya|0	тело	pi-1 prior (physical body)
+samanantarā|0	сразу после	pi-4 prior
+labhati|0	обретать	most used (4 of 7); infinitive
+paṭilābho|0	получение	16 of 18
+bhoga|0	богатство	pi-5 prior (possessions) among the candidates (rule 1b)
+sañcetanā|0	проявление намерения	pi-1 prior (same tag); keeps sañcetanā apart from cetanā «намерение»
+pahāya|0	устранить	pi-5 (устранив); family pahātabba «устраняемый»; most used
+ārabhati|0	пробуждать	pi-1 prior
+viharati|0	пребывать	pi-1 prior; 116 of 118
+upasampajja|0	входить	pi-1 prior (same tag)
+veramaṇī|0	уклонение	pi-1 prior (same tag); 9 of 14; kept apart from virati «воздержание» in the abstention lists where both stand
+vacī|0	речевой	pi-1 prior (same tag)
+neva kusalā nākusalā|0	ни благой ни неблагой	adjective dictionary form (masculine sg.), as the predicate convention
+saddhā|0	вера	core saddhā
+indriyā|0	способности	plural headword; 17 of 19
+jātipaccayā|0	обусловленный рождением	pi-5 form «обусловленный X» for the whole X-paccayā family (dictionary order)
+upādānapaccayā|0	обусловленный цеплянием	pi-5 prior
+viññāṇapaccayā|0	обусловленный сознанием	X-paccayā family «обусловленный X»
+phassapaccayā|0	обусловленный контактом	X-paccayā family
+taṇhāpaccayā|0	обусловленный жаждой	pi-5 prior
+bhavapaccayā|0	обусловленный существованием	X-paccayā family
+vedanāpaccayā|0	обусловленный чувством	X-paccayā family
+rūpapaccayā|0	обусловленный … материальной формой	X-paccayā family order (gap = nāma- of nāmarūpa)
+saṅkhārapaccayā|0	обусловленный формирующим фактором	pi-2 singular in the Abhidhamma sections (94 of 97; harmonise notes: plural only in the Suttanta section ^2-227); pi-5 plural: cross-book
+Avijjāpaccayā|0	обусловленный неведением	pi-5 prior
+saḷāyatanapaccayā|0	обусловленный шестью сферами восприятия	X-paccayā family
+nāmapaccayā|0	обусловленный умственным	X-paccayā family
+āyatanapaccayā|0	обусловленный … сферой восприятия	X-paccayā family order (gap = шестой)
+nissāya|0	в зависимости от	pi-1 prior (same tag)
+adhimokkhapaccayā|0	обусловленный решимостью	X-paccayā family
+paṭighapaccayā|0	обусловленный неприязнью	X-paccayā family
+vicikicchāpaccayā|0	обусловленный колебанием	X-paccayā family; vicikicchā «колебание»
+uddhaccapaccayā|0	обусловленный беспокойством	X-paccayā family; uddhacca «беспокойство»
+pasādapaccayā|0	обусловленный ясной верой	X-paccayā family
+mūlapaccayā|0	обусловленный … корнями	X-paccayā family order (gap = благими / неблагими)
+abyāpajjo|0	отсутствие неприязни	pi-1 prior (absence of malice)
+sampanno|0	оснащённый	10 of 13; pi-5 «обладающий» would collide with upeto «обладать» in the same synonym list (upeto … sampanno samannāgato)
+samannāgato|0	наделённый	pi-4 prior; 35 of 36
+vīriyaṃ ārabhati|0	пробуждать усердие	ārabhati «пробуждать» (pi-1); 20 of 21
+dhuratā|0	несение бремени	pi-1 prior (same tag)
+āpajjati|1	браться	clearest for 'applies oneself to a task' (yogaṃ āpajjati)
+Musāvādā veramaṇī|0	воздержание от лжи	precept name (ch14), 5 of 6; harmonise notes: «воздержание» in the precept names
+Pāṇātipātā veramaṇī|0	воздержание от убийства живых существ	precept name, 6 of 7
+kāmesumicchācārā veramaṇī|0	воздержание от неправильного поведения в чувственных удовольствиях	precept name, 5 of 6
+adinnādānā veramaṇī|0	воздержание от взятия того что не дано	precept name, 5 of 6
+vācaṃ|0	речь	pi-5 prior; core sammāvācā «правильная речь»
+anuyutto|0	преданный	pi-4 prior
+gutta|0	охранение	pi-1 prior (same tag)
+sato|0	осознанный	pi-1 prior (same tag)
+parisodheti|0	полностью очищать	kept apart from sodheti «очищать» in the list sodheti visodheti parisodheti (^2-541); 5 of 7
+cīvara|0	одежда	pi-4/pi-5 prior
+veḷu|0	бамбук	dictionary noun; pi-5 «бамбуковый» is a bamboo grove (other referent)
+saṃsaṭṭho|0	тесное общение	saṃ- 'closely'; the attested ^2-888 «живёт в тесном общении с мирянами»
+rāja|0	царь	pi-4 prior; dictionary noun
+vajja|0	проступок	dictionary form (singular)
+sīha|0	лев	dictionary noun
+seyyaṃ|0	лежание	the meaning 'lying down' (four postures); «поза» only inside «в позе льва»
+kosallaṃ|0	умелость	pi-1 prior (same tag); pi-4
+paññapenti|0	провозглашать	4 of 5
+sukhavihārissa|0	пребывать в счастье	ungapped dictionary form
+samaṅgissa|0	обладающий	pi-1 prior (same tag)
+pharati|0	наполнять	4 of 6
+Uppanna|0	возникший	pi-5 prior; uppanna family
+samāpajjati|0	входить в медитативное достижение	pi-1 samāpanna «вошёл в медитативное достижение»; 2 of 3
+Nānā|0	разный	pi-5 prior; adjective
+iriyāpathaṃ|0	положение тела	2 of 3; clearest
+suta|0	слышанный	3 of 5; participle dictionary form
+sammuti|0	условное	pi-5 prior
+ārabbha|0	в отношении	pi-1 prior (concerning, about) among the candidates (rule 1b)
+Dānaṃ|0	даяние	covers gift and generosity (dānamayā paññā «основанная на даянии»); pi-5 «дар» not a candidate
+kammānaṃ|0	поступок	pi-1 prior (same tag)
+arahanto|1	архат	core arahant; dictionary singular
+saṅghaṃ|0	Община	pi-4/pi-5 «община»; plain Russian, no transliteration
+idappaccayatā|0	закон обусловленности	pi-1 prior (same tag); pi-5
+samannāgatā|0	наделённый	pi-4/pi-5 prior; samannāgato family
+Rūpī|0	материальный	5 of 6; pi-1 «обладать материальной формой» not a candidate as such: cross-book
+muṭṭhassatī|0	утратить осознанность	infinitive dictionary form of the attested verb
+appassuto|0	мало слышать	infinitive dictionary form, as muṭṭhassatī in the same list
+nimmāna|0	творение	pi-5 prior; 2 of 3; one word also gives nimmānaratī «наслаждающиеся творением»
+diṭṭhi uppajjati|0	возникать … воззрение	same order as uppajjati diṭṭhi «возникать воззрение» (one phrase, both word orders); infinitive
+upapatti|0	перерождение	pi-3/pi-5 prior; 13 of 14 (upapattikkhaṇa «момент перерождения»)

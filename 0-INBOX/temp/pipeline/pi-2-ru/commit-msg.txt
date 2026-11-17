@@ -1,0 +1,12 @@
+Russian pi-2 (Vibhanga): plain translation through rails, review and track copy
+
+- Zero-shot draft with consistency pass, keyword map, word senses
+  (4,958 headwords, 5,112 senses) and approved termbase
+- Rails translation of the preamble and all 18 vibhangas, checked for
+  block IDs, line counts, dashes and identical-Pali consistency
+- Six-reviewer bilingual review; approved fixes applied (192 lines)
+  with two user term decisions (dhammacchanda, brahmacakka)
+- Merged file with frontmatter (1,543 segments) and copy in the
+  ru-Contemporary-Russian-Abhidhamma track with 1,113 verified
+  transclusions, plus the termbase copy
+- Pipeline scratch, briefs, scripts and logs in 0-INBOX/temp/pipeline/pi-2-ru

@@ -1,0 +1,622 @@
+# pi-2 (Vibhaṅga) Pāli→Russian senses, part 2 (agg-part2.tsv). Hand-written tag table, one line per headword.
+# Build: python -I -X utf8 senses_tool_ru.py build --part 2
+kusalaṃ viññāṇaṃ: {wholesome consciousness (phrase, nominative sg.)}
+pahātabbaṃ: {to be abandoned (neuter sg. gerundive)}
+saṃyojaniyaṃ: {liable to the fetters (neuter sg.)}
+sahagataṃ: {accompanied by, compound final (neuter sg. participle)}
+upekkhāsahagataṃ: {accompanied by equanimity (neuter sg. participle)}
+sukhasahagataṃ: {accompanied by happiness, of the mind in general (neuter sg. participle): сопровождаться счастьем; accompanied by bodily pleasure, of body-consciousness (neuter sg. participle): сопровождаемый удовольствием}
+pītisahagataṃ: {accompanied by rapture (neuter sg. participle)}
+ācaya: {accumulation, building up (compound member)}
+jarābhibhūtaṃ: {overcome by ageing, subject to decay (neuter sg. participle)}
+vāyo: {air, wind, as element (stem and compound member)}
+vāyodhātu: {the air element, motion (nominative sg.)}
+mattaṃ: {only, merely, in avitakkavicāramattaṃ (compound final)}
+ānuparivatti: {following after, in cittānuparivatti (compound final)}
+vibhattaṃ: {analysed, divided up (neuter sg. participle)}
+sahabhu: {coexisting, in cittasahabhu (compound final)}
+oghaniyaṃ: {liable to the floods (neuter sg.)}
+āsekkhaṃ: {beyond training, in nevasekkhanāsekkhaṃ (neuter sg., compound final)}
+viññatti: {intimation, communicative expression (stem and compound final)}
+kāyaviññeyyaṃ: {cognisable by the body (neuter sg. gerundive)}
+kāyindriyaṃ: {the controlling faculty of the body (nominative sg.)}
+kāyāyatanaṃ: {the body base, the body as a sense field (nominative sg.)}
+hetukaṃ: {caused by, having as cause, in the dependent-origination tetrads (neuter sg., compound final): имеющий причиной; having roots, rooted, as in sahetuka (neuter sg., compound final): имеющий корни / чьи корни}
+kaṇḍe: {in the chapter, in rūpakaṇḍe (locative sg.)}
+vidhena: {kind, way, final of the N-vidhena divisions (instrumental, compound final)}
+upādāniyaṃ: {subject to clinging, a possible object of clinging (neuter sg.)}
+viññātaṃ: {cognised, what is known by the mind (neuter sg. participle)}
+saṅkhataṃ: {conditioned, made by conditions (neuter sg.)}
+viññāṇehi: {by kinds of consciousness (instrumental pl.)}
+viññāṇadhātu: {consciousness element, as in cakkhuviññāṇadhātu (stem and compound final)}
+samphassaṃ: {contact, touching (accusative sg.)}
+saṃkilesikaṃ: {liable to defilement, defileable (neuter sg.)}
+upādā: {derived, of matter dependent on the great elements (compound member)}
+āpacaya: {dismantling, in nevācayagāmināpacayagāmī (compound member)}
+vippayuttaṃ: {dissociated from, compound final (neuter sg. participle)}
+sotaviññeyyaṃ: {cognisable by the ear (neuter sg. gerundive)}
+sotindriyaṃ: {the controlling faculty of the ear (nominative sg.)}
+sotāyatanaṃ: {the ear base, the ear as a sense field (nominative sg.)}
+pathavī: {earth, as element (stem and compound member)}
+pathavīdhātu: {the earth element, solidity (nominative sg.)}
+Aṭṭhavidhena: {into eight kinds, the eightfold division of a topic (instrumental)}
+Ekādasavidhena: {into eleven kinds, the elevenfold division of a topic (instrumental)}
+vicāraṃ: {sustained thought, keeping the mind on its object (accusative sg.)}
+sappaccayaṃ: {having conditions, conditioned (neuter sg.)}
+bāhiraṃ: {external, outside oneself (neuter sg.)}
+cakkhuviññeyyaṃ: {cognisable by the eye (neuter sg. gerundive)}
+cakkhundriyaṃ: {the controlling faculty of the eye (nominative sg.)}
+acetasikaṃ: {not a mental concomitant, not accompanying the mind (neuter sg.)}
+purisindriyaṃ: {the controlling faculty of masculinity (nominative sg.)}
+rūpāvacaraṃ: {belonging to the fine-material sphere (neuter sg.)}
+tejo: {fire, heat, as element (stem and compound member)}
+tejodhātu: {the fire element, heat (nominative sg.)}
+Pañcavidhena: {into five kinds, the fivefold division of a topic (instrumental)}
+aniyataṃ: {not fixed, uncertain in its result (neuter sg.)}
+rūpaṃ upādā: {derived matter, matter dependent on the great elements (phrase, nominative sg.)}
+viññeyyaṃ rūpaṃ: {matter that is cognisable (phrase, nominative sg.)}
+Catubbidhena: {into four kinds, the fourfold division of a topic (instrumental)}
+parāmaṭṭhaṃ: {misapprehended, grasped by wrong views (neuter sg. participle)}
+sukha: {happiness, mental pleasure, as in sukhasahagata and diṭṭhadhammasukhavihāra (compound member): счастье; bodily pleasure, pleasant to the body, as in sukhindriya, sukhadhātu and sukhasamphassa (compound member): удовольствие / доставляющий удовольствие; easy, of the mode of progress in sukhapaṭipadā (compound member): лёгкий}
+sutaṃ: {heard, what is heard (neuter sg. participle): услышанный; learning, erudition, in 'sutaṃ paṭicca' of the conceit topics (accusative sg.): учёность}
+nīvaraṇiyaṃ: {liable to the hindrances (neuter sg.)}
+arūpāvacaraṃ: {belonging to the immaterial sphere (neuter sg.)}
+aniccaṃ: {impermanent, transient (neuter sg.)}
+ajjhattikaṃ: {internal, belonging to oneself (neuter sg.)}
+anidassanaṃ: {invisible, not seen by the eye (neuter sg.)}
+pīti: {rapture, joyful interest (stem and nominative)}
+viññeyyaṃ: {cognisable, to be known (neuter sg. gerundive)}
+gāmī: {leading to, going towards, as in ācayagāmī (compound final)}
+jīvitindriyaṃ: {the controlling faculty of life, vitality (nominative sg.)}
+parittaṃ: {limited, of small scope (neuter sg.)}
+rūpaṃ cittasamuṭṭhānaṃ: {matter originating from the mind, mind-produced matter (nominative sg.)}
+bhāvanāya: {by meditative development, the path of developing the mind (instrumental sg.)}
+dhammāyatana: {the base of mind-objects (stem and compound member)}
+citta: {mind, a state of mind (stem and compound member)}
+manodhātu: {the mind element (stem and nominative)}
+manoviññāṇa: {mind-consciousness, consciousness at the mind door (compound member)}
+manoviññāṇadhātu: {the mind-consciousness element (stem and nominative)}
+Navavidhena: {into nine kinds, the ninefold division of a topic (instrumental)}
+ghānaviññeyyaṃ: {cognisable by the nose (neuter sg. gerundive)}
+ghānindriyaṃ: {the controlling faculty of the nose (nominative sg.)}
+ghānāyatanaṃ: {the nose base, the nose as a sense field (nominative sg.)}
+anārammaṇaṃ: {without an object, objectless (neuter sg.)}
+sappaṭighaṃ: {impinging, capable of striking against (neuter sg.)}
+ābhibhūtaṃ: {overcome, overpowered, in jarābhibhūtaṃ (neuter sg. participle, compound final)}
+samuṭṭhānaṃ: {originating from, produced by (compound final, as in cittasamuṭṭhāna)}
+vipākadhammadhammaṃ: {having the nature of yielding results (neuter sg.)}
+dassanena: {by seeing, the path of seeing the truth (instrumental sg.)}
+kāmāvacaraṃ: {belonging to the sense sphere (neuter sg.)}
+rūpāyatanaṃ: {the base of visible forms, the visible as a sense field (nominative sg.)}
+gandhāyatanaṃ: {the base of smells, odour as a sense field (nominative sg.)}
+saddāyatanaṃ: {the base of sounds, sound as a sense field (nominative sg.)}
+rasāyatanaṃ: {the base of tastes, flavour as a sense field (nominative sg.)}
+mutaṃ: {sensed, what is smelled, tasted or touched (neuter sg. participle)}
+Sattavidhena: {into seven kinds, the sevenfold division of a topic (instrumental)}
+Ekavidhena: {one by one, the single-kind division of a topic (instrumental)}
+Chabbidhena: {into six kinds, the sixfold division of a topic (instrumental)}
+āvacaraṃ: {belonging to a sphere, final of kāmāvacara and rūpāvacara (neuter sg., compound final)}
+Dasavidhena: {into ten kinds, the tenfold division of a topic (instrumental)}
+savitakkasavicāraṃ: {with directed and sustained thought (neuter sg.)}
+Tividhena: {into three kinds, the threefold division of a topic (instrumental)}
+ganthaniyaṃ: {liable to the ties (neuter sg.)}
+saha: {together, along with (adverb and prefix)}
+jivhāviññeyyaṃ: {cognisable by the tongue (neuter sg. gerundive)}
+jivhindriyaṃ: {the controlling faculty of the tongue (nominative sg.)}
+jivhāyatanaṃ: {the tongue base, the tongue as a sense field (nominative sg.)}
+sekkha: {in training, of the learner (compound member)}
+Duvidhena: {into two kinds, the twofold division of a topic (instrumental)}
+asaṃkiliṭṭha: {undefiled, not stained (compound member)}
+sanidassanaṃ: {visible, seen by the eye (neuter sg.)}
+āpo: {water, cohesion, as element (stem and compound member)}
+āpodhātu: {the water element, cohesion (nominative sg.)}
+lokiyaṃ: {mundane, belonging to the world (neuter sg.)}
+yoganiyaṃ: {liable to the yokes (neuter sg.)}
+samphassajā: {born of contact (feminine nominative sg.)}
+hetuko: {having roots, rooted, as in sahetuka and pahātabbahetuka (masculine nominative sg., compound final): имеющий корни / чьи корни / имеющий корнем; caused by, having as cause, in the dependent-origination tetrads (masculine nominative sg., compound final): имеющий причиной}
+phassa: {contact, the meeting of sense, object and consciousness (compound member, as in phassasampayutta)}
+upekkhindriyaṃ: {the controlling faculty of equanimity (nominative sg.)}
+somanassindriyaṃ: {the controlling faculty of mental joy (nominative sg.)}
+dukkhindriyaṃ: {the controlling faculty of pain (nominative sg.)}
+sukhindriyaṃ: {the controlling faculty of bodily pleasure (nominative sg.)}
+domanassindriyaṃ: {the controlling faculty of mental grief (nominative sg.)}
+cakkhusamphassajā vedanā: {feeling arising from contact of the eye (nominative sg.)}
+rūpāvacaro: {belonging to the fine-material sphere (masculine nominative sg.)}
+arūpāvacaro: {belonging to the immaterial sphere (masculine nominative sg.)}
+sampayutto: {conjoined with, compound final (masculine nominative sg. participle)}
+phassasampayutto: {conjoined with contact (masculine nominative sg. participle)}
+mano: {mind, the thinking faculty, also adjectival 'mental' (compound member, as in manodhātu and manosamphassa): ум / умственный; intellect, a synonym of mind in the definition of citta (nominative sg.): разум}
+abyākato: {ethically indeterminate, neither wholesome nor unwholesome (masculine nominative sg.)}
+kāmāvacaro: {belonging to the sense sphere (masculine nominative sg.)}
+āvacaro: {belonging to a sphere, final of kāmāvacara and rūpāvacara (masculine nominative sg., compound final)}
+akusalo: {unwholesome, said of phenomena (masculine nominative sg.)}
+kusalo: {wholesome, said of phenomena (masculine nominative sg.): благой; skilled, proficient, in samādhikusalo of the four meditators (compound final): искусный}
+pahātabbo: {to be abandoned (masculine nominative sg. gerundive)}
+upādāniyo: {subject to clinging, a possible object of clinging (masculine nominative sg.)}
+uppādī: {bound to arise, the not yet arisen (masculine nominative sg.)}
+uppanno: {arisen (masculine nominative sg. participle)}
+asekkho: {beyond training, belonging to those who have completed it (masculine nominative sg.)}
+saṃkiliṭṭha: {defiled, stained by defilements (compound member)}
+saṃkilesiko: {liable to defilement, defileable (masculine nominative sg.)}
+apacaya: {dismantling, decrease of the round of rebirth (compound member, as in apacayagāmi)}
+ādhipati: {having as dominant factor, as in maggādhipati (compound final)}
+vicāro: {sustained thought, keeping the mind on its object (nominative sg.)}
+mahaggato: {exalted, grown great, of the fine-material and immaterial minds (masculine nominative sg.)}
+mahaggatārammaṇo: {having an exalted object (masculine nominative sg.)}
+bahiddho: {external, of another's states (masculine nominative sg.)}
+bahiddhārammaṇo: {having an external object (masculine nominative sg.)}
+ajjhattabahiddho: {internal and external, both one's own and another's (masculine nominative sg.)}
+micchattaniyato: {fixed in wrongness, certain to lead to a wrong destiny (masculine nominative sg.)}
+dasavidhena vedanākkhandho: {the aggregate of feeling divided into ten kinds (phrase, nominative sg.)}
+ācayagāmī: {leading to accumulation of the round of rebirth (masculine nominative sg.)}
+asaṃkiliṭṭhaasaṃkilesiko: {undefiled and not liable to defilement (masculine nominative sg.)}
+aniyato: {not fixed, uncertain in its result (masculine nominative sg.)}
+sekkho: {in training, belonging to the learners (masculine nominative sg.)}
+vipākadhammadhammo: {having the nature of yielding results (masculine nominative sg.)}
+asaṃkiliṭṭhasaṃkilesiko: {undefiled but liable to defilement (masculine nominative sg.)}
+pahātabbahetuko: {having roots that are to be abandoned (masculine nominative sg.)}
+avitakkavicāramatto: {without directed thought, with sustained thought only (masculine nominative sg.)}
+niyato: {fixed, certain in its result (masculine nominative sg.)}
+anāgato: {future, not yet come (masculine nominative sg.)}
+anāgatārammaṇo: {having a future object (masculine nominative sg.)}
+hīno: {inferior, low, in the inferior-superior triad (masculine nominative sg.): низший; inferior, in the conceit 'I am inferior' (masculine nominative sg. in a quoted phrase): хуже}
+ajjhatto: {internal, one's own (masculine nominative sg.)}
+ajjhattārammaṇo: {having an internal object (masculine nominative sg.)}
+apacayagāmī: {leading to the dismantling of the round of rebirth (masculine nominative sg.)}
+paritto: {limited, of small scope (masculine nominative sg.)}
+parittārammaṇo: {having a limited object (masculine nominative sg.)}
+appamāṇo: {immeasurable, unlimited (masculine nominative sg.)}
+appamāṇārammaṇo: {having an immeasurable object (masculine nominative sg.)}
+majjhimo: {middling, medium (masculine nominative sg.)}
+ārammaṇo: {having as object, compound final, as in maggārammaṇo (masculine nominative sg.)}
+ajjhattabahiddhārammaṇo: {having an object both internal and external (masculine nominative sg.)}
+atīto: {past, gone by (masculine nominative sg.)}
+atītārammaṇo: {having a past object (masculine nominative sg.)}
+paccuppanno: {present, existing now (masculine nominative sg.)}
+paccuppannārammaṇo: {having a present object (masculine nominative sg.)}
+sammatta: {rightness, correctness (compound member)}
+paṇīto: {superior, excellent (masculine nominative sg.)}
+savitakkasavicāro: {with directed and sustained thought (masculine nominative sg.)}
+micchatta: {wrongness, falsity (compound member)}
+saṃyojaniyo: {liable to the fetters (masculine nominative sg.)}
+sahagato: {accompanied by, compound final (masculine nominative sg. participle)}
+pītisahagato: {accompanied by rapture (masculine nominative sg. participle)}
+oghaniyo: {liable to the floods (masculine nominative sg.)}
+uttaro: {transcending, beyond, in lokuttaro (compound final)}
+asaṃyojaniyo: {not liable to the fetters (masculine nominative sg.)}
+upādāna: {clinging, grasping (stem and compound member)}
+saraṇo: {with conflict, accompanied by strife (masculine nominative sg.)}
+saṃkiliṭṭho: {defiled, stained by defilements (masculine nominative sg. participle)}
+vippayutto: {dissociated from, compound final (masculine nominative sg. participle)}
+upādānavippayutto: {dissociated from clinging (masculine nominative sg. participle)}
+parāmāsavippayutto: {dissociated from misapprehension (masculine nominative sg. participle)}
+savicāro: {with sustained thought (masculine nominative sg.)}
+hetuvippayutto: {dissociated from roots (masculine nominative sg. participle)}
+anāsavo: {free from the taints (masculine nominative sg.)}
+pariyāpanno: {included in the rounds of existence (masculine nominative sg.)}
+hetusampayutto: {conjoined with roots (masculine nominative sg. participle)}
+kenaci viññeyyo: {cognisable by some one kind of consciousness (masculine nominative sg. phrase)}
+na kāmāvacaro: {not belonging to the sense sphere (masculine nominative sg. phrase)}
+kenaci na viññeyyo: {not cognisable by any one kind of consciousness (masculine nominative sg. phrase)}
+sāsavo: {liable to the taints, with taints (masculine nominative sg.)}
+avitakko: {without directed thought (masculine nominative sg.)}
+parāmaṭṭho: {misapprehended, grasped by wrong views (masculine nominative sg. participle)}
+parāmāsa: {misapprehension, wrong grasping by views (stem and heading member): искажение; adherence, in sīlabbataparāmāsa 'adherence to rules and vows' (compound final): приверженность}
+nīvaraṇiyo: {liable to the hindrances (masculine nominative sg.)}
+upādānasampayutto: {conjoined with clinging (masculine nominative sg. participle)}
+kenaci: {by some one or other, in 'kenaci viññeyya' (instrumental indefinite pronoun)}
+viññeyyo: {cognisable, to be known (masculine nominative sg. gerundive)}
+niyyāniko: {leading out, leading to liberation (masculine nominative sg.)}
+ahetuko: {without roots, rootless (masculine nominative sg.)}
+apariyāpanno: {not included in the rounds of existence (masculine nominative sg.)}
+sauttaro: {surpassable, having something higher (masculine nominative sg.)}
+āsava: {taints, the influxes (stem and heading member)}
+ganthaniyo: {liable to the ties (masculine nominative sg.)}
+gantha: {ties, knots binding body and mind (stem and heading member)}
+asaṃkiliṭṭho: {undefiled, not stained by defilements (masculine nominative sg. participle)}
+lokiyo: {mundane, belonging to the world (masculine nominative sg.)}
+yoganiyo: {liable to the yokes (masculine nominative sg.)}
+araṇo: {without conflict, free from strife (masculine nominative sg.)}
+mūlakaṃ: {based on, in the headings Dukamūlakaṃ and Tikamūlakaṃ (heading member)}
+āsavavippayutto: {dissociated from the taints (masculine nominative sg. participle)}
+āsavasampayutto: {conjoined with the taints (masculine nominative sg. participle)}
+pahātabba: {to be abandoned, as stem in pahātabbahetuka (gerundive, compound member)}
+vippayutta: {dissociated from, compound final (stem)}
+āsavavippayuttasāsavo: {dissociated from the taints but liable to them (masculine nominative sg.)}
+saṃyojanavippayutto: {dissociated from the fetters (masculine nominative sg. participle)}
+saṃyojanasampayutto: {conjoined with the fetters (masculine nominative sg. participle)}
+saṃyojana: {fetters, binding the mind to existence (stem and heading member)}
+saṃyojanavippayuttasaṃyojaniyo: {dissociated from the fetters but liable to them (masculine nominative sg.)}
+aganthaniyo: {not liable to the ties (masculine nominative sg.)}
+ganthavippayutto: {dissociated from the ties (masculine nominative sg. participle)}
+ganthasampayutto: {conjoined with the ties (masculine nominative sg. participle)}
+ganthavippayuttaganthaniyo: {dissociated from the ties but liable to them (masculine nominative sg.)}
+anoghaniyo: {not liable to the floods (masculine nominative sg.)}
+oghavippayutto: {dissociated from the floods (masculine nominative sg. participle)}
+oghasampayutto: {conjoined with the floods (masculine nominative sg. participle)}
+ogha: {floods, sweeping one away (stem and heading member)}
+oghavippayuttaoghaniyo: {dissociated from the floods but liable to them (masculine nominative sg.)}
+ayoganiyo: {not liable to the yokes (masculine nominative sg.)}
+paccayā: {conditioned by, in the dependent origination formula (ablative)}
+vaḍḍhakaṃ: {increasing, growing, in the heading Ubhatovaḍḍhakaṃ (heading member)}
+yogavippayutto: {dissociated from the yokes (masculine nominative sg. participle)}
+yogasampayutto: {conjoined with the yokes (masculine nominative sg. participle)}
+Bahuvidhena: {into many kinds, the manifold division of a topic (instrumental)}
+Ubhato: {on both sides, in the heading Ubhatovaḍḍhakaṃ (adverb, heading member)}
+Tiṃsavidhena: {into thirty kinds, the thirtyfold division of a topic (instrumental)}
+Catuvīsatividhena: {into twenty-four kinds, the twenty-fourfold division of a topic (instrumental)}
+yoga: {yokes, binding one to existence (stem and heading member): ярмо; skill, application, in yogavihita 'requiring skill' (compound member): умение}
+sahagatā: {accompanied by, compound final (feminine sg. and nominative pl. participle)}
+upekkhindriya: {the controlling faculty of equanimity (stem and compound member)}
+somanassindriya: {the controlling faculty of mental joy (stem and compound member)}
+dukkhindriya: {the controlling faculty of pain (stem and compound member)}
+sukhindriya: {the controlling faculty of bodily pleasure (stem and compound member)}
+domanassindriya: {the controlling faculty of mental grief (stem and compound member)}
+sukhindriyasampayutto: {conjoined with the faculty of bodily pleasure (masculine nominative sg. participle)}
+vedanāya sampayutto: {conjoined with feeling, in the feeling-triad predicates (masculine nominative participle phrase)}
+dukkhāya vedanāya sampayutto: {conjoined with painful feeling (masculine nominative participle phrase)}
+sukhāya vedanāya sampayutto: {conjoined with pleasant feeling (masculine nominative participle phrase)}
+dasavidhena saññākkhandho: {the aggregate of perception divided into ten kinds (phrase, nominative sg.)}
+upekkhāsahagato: {accompanied by equanimity (masculine nominative sg. participle)}
+sukhasahagato: {accompanied by happiness (masculine nominative sg. participle)}
+nīvaraṇa: {hindrances, obstacles to the mind (stem and heading member)}
+kilesavippayutto: {dissociated from the defilements (masculine nominative sg. participle)}
+kilesasampayutto: {conjoined with the defilements (masculine nominative sg. participle)}
+na pītisahagato: {not accompanied by rapture (masculine nominative sg. phrase)}
+vitthāro: {detailed treatment, exposition in full (nominative sg.)}
+tike: {in the triad, in 'kusalattike' (locative sg.)}
+tikā: {triads, groups of three, all the matrix triads (nominative pl.)}
+yogavippayuttayoganiyo: {dissociated from the yokes but liable to them (masculine nominative sg.)}
+anīvaraṇiyo: {not liable to the hindrances (masculine nominative sg.)}
+Tiṃsatividhena: {into thirty kinds, the thirtyfold division, variant spelling of tiṃsavidhena (instrumental)}
+samphassa: {contact, meeting of sense and object (compound member)}
+cittasampayutto: {conjoined with the mind (masculine nominative sg. participle)}
+dasavidhena saṅkhārakkhandho: {the aggregate of formations divided into ten kinds (phrase, nominative sg.)}
+saṃyojanaṃ: {fetter, a binding to existence (nominative sg.)}
+gantho: {tie, knot binding to existence (nominative sg.)}
+dasavidhena viññāṇakkhandho: {the aggregate of consciousness divided into ten kinds (phrase, nominative sg.)}
+khandhānaṃ: {of the aggregates, groups of phenomena (genitive pl.)}
+saraṇā: {with conflict, accompanied by strife (nominative pl.)}
+araṇā: {without conflict, free from strife (nominative pl.)}
+khandhā siyā: {aggregates that may be, in 'khandhā siyā …' of the question sections (phrase, nominative pl. with optative)}
+uppādino: {bound to arise, the not-yet-arisen (nominative pl.)}
+asekkhā: {beyond training, belonging to those who have completed it (nominative pl.)}
+na: {not, the negative particle (particle)}
+hetukā: {having roots, rooted, in sahetuka and ahetuka (compound final, nominative)}
+vattabbo: {to be described as, classifiable as (masculine nominative sg. gerundive)}
+vattabbā: {to be described as, classifiable as (nominative pl. gerundive)}
+ādhipatino: {having as dominant factor, as in maggādhipatino (nominative pl., compound final)}
+mahaggatā: {exalted, grown great, of the fine-material and immaterial minds (nominative pl.)}
+mahaggatārammaṇā: {having an exalted object (nominative pl.)}
+bahiddhārammaṇā: {having an external object (nominative pl.)}
+niyatā: {fixed, certain in result, as in micchattaniyata and sammattaniyata (nominative pl.)}
+anāgatārammaṇā: {having a future object (nominative pl.)}
+ajjhattā: {internal, one's own (nominative pl.)}
+ajjhattabahiddhā: {internal and external, both one's own and another's (nominative pl.)}
+ajjhattārammaṇā: {having an internal object (nominative pl.)}
+anidassana: {invisible, not seen by the eye (compound member)}
+anidassanasappaṭigho: {invisible but impinging (masculine nominative sg.)}
+parittārammaṇā: {having a limited object (nominative pl.)}
+appamāṇā: {immeasurable, unlimited (nominative pl.)}
+appamāṇārammaṇā: {having an immeasurable object (nominative pl.)}
+anārammaṇo: {without an object, objectless (masculine nominative sg.)}
+ajjhattabahiddhārammaṇā: {having an object both internal and external (nominative pl.)}
+atītārammaṇā: {having a past object (nominative pl.)}
+paccuppannārammaṇā: {having a present object (nominative pl.)}
+vipākadhammadhammā: {having the nature of yielding results, the result triad (nominative pl.)}
+sappaṭigho: {impinging, capable of striking against (masculine nominative sg.)}
+savitakkasavicārā: {with directed and sustained thought (nominative pl.)}
+sekkhā: {in training, belonging to the learners (nominative pl.)}
+sanidassana: {visible, seen by the eye (stem and compound member)}
+saṃyojaniyā: {liable to the fetters (nominative pl.)}
+upekkhāsahagatā: {accompanied by equanimity (feminine sg. and nominative pl. participle)}
+sukhasahagatā: {accompanied by happiness (feminine sg. and nominative pl. participle)}
+khandhā cittasaṃsaṭṭhā: {aggregates conjoined with the mind (phrase, nominative pl.)}
+ānuparivattino: {following after, in cittānuparivattino (nominative pl., compound final)}
+sahabhuno: {coexisting, arising together (nominative pl.)}
+uttarā: {transcending, beyond, in lokuttarā (compound final)}
+hetū: {roots, the root conditions (nominative pl.): корни; causes, in the definition of the possible and the impossible and in katahetū (nominative pl. and compound final): причины / причина}
+upādānā: {clingings, the four kinds of clinging (nominative pl.)}
+upādānā ceva upādānasampayuttā: {being clingings and also conjoined with clinging (phrase, nominative pl.)}
+saṅkhatā: {conditioned, made by conditions (nominative pl.)}
+saṃkiliṭṭhā: {defiled, stained by defilements (nominative pl. participle)}
+kileso ceva kilesasampayutto: {being a defilement and also conjoined with defilements (phrase, masculine nominative sg.)}
+kilesā: {defilements, the mental stains (nominative pl.)}
+kilesā ceva kilesasampayuttā: {being defilements and also conjoined with defilements (phrase, nominative pl.)}
+avicāro: {without sustained thought (masculine nominative sg.)}
+bāhirā: {external, outside oneself (nominative pl.)}
+cetasikā: {mental concomitants, factors accompanying the mind (nominative pl.)}
+saṃyojanañceva saṃyojanasampayutto: {being a fetter and also conjoined with fetters (phrase, masculine nominative sg.)}
+saṃyojanā: {fetters, binding to existence (nominative pl.)}
+saṃyojanā ceva saṃyojanasampayuttā: {being fetters and also conjoined with fetters (phrase, nominative pl.)}
+niṭṭhito: {completed, finished, in a closing colophon (masculine nominative sg. participle)}
+oghā: {floods, the four overwhelming currents (nominative pl.)}
+Rūpakkhandho hetuvippayutto: {the aggregate of matter is dissociated from roots (phrase, nominative sg.)}
+parāmāso: {misapprehension, wrong grasping by views (nominative sg.): искажение; adherence, in sīlabbataparāmāso 'adherence to rules and vows' (compound final): приверженность}
+sahetuko: {with roots, accompanied by root conditions (masculine nominative sg.)}
+nīvaraṇaṃ: {hindrance, obstruction of the mind (nominative sg.)}
+nīvaraṇañceva nīvaraṇasampayutto: {being a hindrance and also conjoined with hindrances (phrase, masculine nominative sg.)}
+nīvaraṇā: {hindrances, obstructions of the mind (nominative pl.)}
+nīvaraṇā ceva nīvaraṇasampayuttā: {being hindrances and also conjoined with hindrances (phrase, nominative pl.)}
+arūpā: {immaterial, not matter (nominative pl.)}
+ajjhattiko: {internal, belonging to oneself (masculine nominative sg.)}
+anidassanā: {invisible, not seen by the eye (nominative pl.)}
+upādānasampayuttā: {conjoined with clinging (nominative pl. participle)}
+cittasampayuttā: {conjoined with the mind (nominative pl. participle)}
+hetusampayuttā: {conjoined with roots (nominative pl. participle)}
+viññeyyā: {cognisable, to be known (nominative pl. gerundive)}
+cittaṃ: {mind, a state of mind (nominative/accusative sg.): ум; a type of mind, as counted in 'ekaṃ cittaṃ' of the Dhammahadaya chapter (nominative sg.): вид ума}
+saṃsaṭṭhā: {conjoined, mixed together (nominative pl. participle)}
+cittasaṃsaṭṭhā: {conjoined with the mind (nominative pl. participle)}
+sārammaṇā: {having an object, of mental phenomena (nominative pl.): имеющий объект; the sections on objects, as named in 'abhiññā dve sārammaṇā' of the closing summary verse (nominative pl., verse): раздел об объекте}
+apariyāpannā: {not included in the rounds of existence (nominative pl.)}
+samuṭṭhānā: {originating from, produced by, compound final (nominative pl.)}
+hetu ceva hetusampayutto: {being a root and also conjoined with roots (phrase, masculine nominative sg.)}
+hetū ceva hetusampayuttā: {being roots and also conjoined with roots (phrase, nominative pl.)}
+sauttarā: {surpassable, having something higher (nominative pl.)}
+āsavo ceva āsavasampayutto: {being a taint and also conjoined with the taints (phrase, masculine nominative sg.)}
+āsavā ceva āsavasampayuttā: {being taints and also conjoined with the taints (phrase, nominative pl.)}
+gantho ceva ganthasampayutto: {being a tie and also conjoined with the ties (phrase, masculine nominative sg.)}
+ganthā: {ties, knots binding to existence (nominative pl.)}
+ganthā ceva ganthasampayuttā: {being ties and also conjoined with the ties (phrase, nominative pl.)}
+asaṃyojaniyā: {not liable to the fetters (nominative pl.)}
+anuttarā: {unsurpassable, having nothing higher (nominative pl.)}
+sanidassano: {visible, seen by the eye (masculine nominative sg.)}
+parāmāsā: {misapprehensions, wrong graspings by views (nominative pl.)}
+yogā: {yokes, the four bonds (nominative pl.)}
+Kāyo: {the physical body, the organ of touch (nominative sg.)}
+Sotaṃ: {the ear, the hearing organ (nominative/accusative sg.): ухо; stream, current, a synonym of craving (nominative sg.): течение}
+Cakkhuṃ: {the eye, the seeing organ (nominative/accusative sg.)}
+manāyatanaṃ: {the mind base, the mind as a sense field (nominative sg.)}
+Ghānaṃ: {the nose, the smelling organ (nominative/accusative sg.)}
+anattā: {not-self, without a self (nominative, predicate)}
+dhammāyatanaṃ: {the base of mind-objects (nominative sg.)}
+vipariṇāmadhammaṃ: {subject to change, of a changing nature (neuter sg.)}
+Jivhā: {the tongue, the tasting organ (stem and nominative sg.)}
+Dvādasāyatanāni: {the twelve sense bases (nominative pl.)}
+dukkhaṃ: {suffering in general, as in 'dukkhaṃ ariyasaccaṃ' and 'aniccaṃ dukkhaṃ' (nominative sg.): страдание; pain, painful feeling, bodily or mental (nominative/accusative sg.): боль / болезненный / болезненное}
+attabhāva: {individual existence, one's personal being (compound member)}
+paṇḍara: {bright, pure, a name for the sense organ in the base definitions (compound member)}
+dvārā: {door, a name for the sense organ in the base definitions (nominative)}
+bhūtānaṃ: {of the elements, the primaries (genitive pl.)}
+suñño: {empty, deserted (masculine nominative sg.)}
+cakkhu: {the eye, the seeing organ (stem and compound member)}
+cakkhudhātu: {the eye element (nominative sg.)}
+cakkhundriya: {the controlling faculty of the eye (stem and compound member)}
+khetta: {field, a name for the sense organ in the base definitions (compound member)}
+mahābhūtānaṃ: {of the great elements, the four primaries (genitive pl.)}
+netta: {guide, leader, a name for the sense organ in the eye-base definition (compound member)}
+anidassano: {invisible, not seen by the eye (masculine nominative sg.)}
+anidassano sappaṭigho: {invisible and impinging (masculine nominative sg.)}
+samuddo: {ocean, a name for the sense organ in the base definitions (nominative sg.)}
+pasādo: {clear confidence, serene faith, in the series 'vedanāpaccayā pasādo' (nominative sg.): ясная вера; sensitivity, the sensitive matter of a sense organ (nominative sg.): чувствительность}
+upādāya pasādo: {sensitivity derived from the great elements (nominative sg.)}
+tīra: {shore, bank, a name for the sense organ in the base definitions (compound member)}
+gāmo: {village, in suñño gāmo 'empty village' (nominative sg.)}
+sotadhātu: {the ear element (nominative sg.)}
+sotindriya: {the controlling faculty of the ear (stem and compound member)}
+suṇissati: {will hear (3rd sg. future)}
+suṇi: {heard, did hear (3rd sg. aorist)}
+suṇāti: {hears (3rd sg. present)}
+anidassanaṃ sappaṭighaṃ: {invisible and impinging (neuter sg.)}
+saddaṃ: {sound, the object of the ear (accusative sg.)}
+ghānadhātu: {the nose element (nominative sg.)}
+ghānindriya: {the controlling faculty of the nose (stem and compound member)}
+gandhaṃ: {smell, the object of the nose (accusative sg.)}
+ghāyi: {smelled, did smell (3rd sg. aorist)}
+ghāyati: {smells, perceives an odour (3rd sg. present)}
+rasaṃ: {taste, the object of the tongue (accusative sg.)}
+sāyi: {tasted, did taste (3rd sg. aorist)}
+sāyati: {tastes, savours (3rd sg. present)}
+jivhādhātu: {the tongue element (nominative sg.)}
+jīvhindriya: {the controlling faculty of the tongue (stem and compound member)}
+kāyadhātu: {the body element (nominative sg.)}
+kāyindriya: {the controlling faculty of the body (stem and compound member)}
+phusissati: {will touch (3rd sg. future)}
+phoṭṭhabbaṃ: {tangible object, what is touched (nominative/accusative sg.)}
+phusi: {touched, did touch (3rd sg. aorist)}
+phusati: {touches, contacts (3rd sg. present)}
+phassasampayuttaṃ: {conjoined with contact (neuter sg. participle)}
+kāḷakaṃ: {black, dark in colour (neuter sg.)}
+nīlaṃ: {blue, dark blue in colour (neuter sg.)}
+veḷuriyassa: {of beryl, cat's-eye gem (genitive sg.)}
+parimaṇḍalaṃ: {circular, ring-shaped (neuter sg.)}
+abbhā: {clouds, rain clouds (nominative pl.)}
+vaṇṇa: {complexion, beauty of appearance, in vaṇṇapokkharatā and vaṇṇamada (compound member): внешность / красота; praise, reputation, in vaṇṇamacchariya 'stinginess about praise' (compound member): похвала; colour, visible hue (compound member, as in vaṇṇanibhā): цвет}
+saṅkha: {conch, mother-of-pearl shell (compound member)}
+mañjiṭṭhakaṃ: {crimson, madder-red (neuter sg.)}
+andhakāro: {darkness, gloom (nominative sg.)}
+maṇḍalassa: {of the disc, of the moon, sun or mirror (genitive sg.)}
+rajo: {dust, airborne dirt (nominative sg.)}
+aṭṭhaṃsaṃ: {octagonal, having eight sides (neuter sg.)}
+cakkhunā: {with the eye, by the eye (instrumental sg.)}
+maṇi: {gems, precious stones (compound member)}
+harivaṇṇaṃ: {greenish, of green colour (neuter sg.)}
+anidassanena: {by the invisible (instrumental sg.)}
+anidassanena sappaṭighena: {by what is invisible and impinging (instrumental sg.)}
+hari: {green, yellowish-green in colour (neuter sg.)}
+āloko: {light, illumination (nominative sg.)}
+amba: {mango, the mango tree (compound member)}
+ādāsa: {mirror, in ādāsamaṇḍala 'disc of a mirror' (compound member)}
+mahikā: {mist, fog (nominative sg.)}
+canda: {moon, in candamaṇḍala 'disc of the moon' (compound member)}
+sappaṭighena: {by what is impinging, capable of striking against (instrumental sg.)}
+mutta: {pearls, in maṇisaṅkhamuttaveḷuriya (compound member): жемчуг; urine, in the list of body parts (nominative sg.): моча}
+lohitakaṃ: {red in colour (neuter sg.)}
+vaṭṭaṃ: {round, rounded (neuter sg.)}
+chāyā: {shadow, shade (nominative sg.)}
+nibhā: {appearance, outward look (compound final, as in vaṇṇanibhā)}
+vaṇṇanibhā: {colour and appearance, the visible look of a thing (nominative sg.)}
+aṅkura: {shoots, sprouts (compound member, as in ambaṅkura)}
+rajatassa: {of silver (genitive sg.)}
+chaḷaṃsaṃ: {hexagonal, having six sides (neuter sg.)}
+soḷasaṃsaṃ: {having sixteen sides (neuter sg.)}
+dhūmo: {smoke (nominative sg.)}
+caturassaṃ: {square, four-cornered (neuter sg.)}
+tārakarūpānaṃ: {of the stars, the starry forms (genitive pl.)}
+sūriya: {sun, in sūriyamaṇḍala 'disc of the sun' (compound member)}
+ātapo: {sunshine, heat of the sun (nominative sg.)}
+sanidassanaṃ sappaṭighaṃ: {visible and impinging (neuter sg.)}
+yaṃ vā pana: {'or whatever else', the open-ended close of a list (indefinite phrase)}
+odātaṃ: {white in colour (neuter sg.)}
+pītakaṃ: {yellow in colour (neuter sg.)}
+sattānaṃ: {of beings, living creatures (genitive pl.)}
+sannighāta: {knocking together, collision (compound member)}
+nigghosa: {cries, the noise of voices, in nigghosasadda (compound member)}
+samma: {cymbals, small cymbals (compound member)}
+bheri: {drums, large kettle-drums (compound member)}
+sotena: {with the ear, by the ear (instrumental sg.)}
+saddadhātu: {the element of sounds (nominative sg.)}
+dhātūnaṃ: {of things, material objects, in 'dhātūnaṃ sannighātasaddo' (genitive pl.): предметы; of the elements, in 'aṭṭhārasannaṃ dhātūnaṃ' (genitive pl.): элементы}
+pāṇi: {hand-clapping, the hands (compound member)}
+manussa: {humans, people (compound member)}
+vādita: {musical instruments, instrumental music (compound member)}
+amanussa: {non-human beings, spirits (compound member)}
+gīta: {singing, song (compound member)}
+saddo: {sound, the object of the ear (nominative sg.)}
+sadda: {sound, the object of the ear (stem and compound member)}
+paṇava: {tambourines, small drums (compound member)}
+udaka: {water (compound member)}
+yo vā pana: {'or whatever else', the open-ended close of a list (masculine indefinite phrase)}
+vāta: {wind, air in motion (compound member): ветер; breath, breeze, in isivāta 'the breath of sages' (compound member): дыхание}
+taca: {bark, the rind of a tree, in the lists of smells and tastes (compound member): кора; skin, in valittacatā 'wrinkled skin' (compound member): кожа}
+gandhadhātu: {the element of smells (nominative sg.)}
+puppha: {flowers, blossoms (compound member)}
+phala: {fruits of plants, in the lists of smells and tastes (compound member): плоды; fruit of the path, in phalasamaṅgī 'one possessing the fruit' (compound member): плод}
+sāra: {heartwood, the core of a tree (compound member)}
+patta: {leaves, foliage (compound member): листья; alms bowl, in pattamaṇḍanā 'adorning the bowl' (compound member): чаша для подаяния / чаша}
+ghānena: {with the nose, by the nose (instrumental sg.)}
+sugandho: {pleasant smell, fragrance (nominative sg.)}
+vissa: {rot, putrid matter (compound member)}
+āma: {raw flesh, in āmagandha 'smell of raw flesh' (compound member)}
+mūla: {roots, of plants and the wholesome roots, as in mūlagandha and kusalamūla (compound member): корни; foot of a tree, in rukkhamūla (compound member): подножие}
+gandho: {smell, the object of the nose (nominative sg.)}
+duggandho: {unpleasant smell, stench (nominative sg.)}
+lambikaṃ: {tart, sourish in taste (neuter sg.)}
+khārikaṃ: {alkaline, caustic in taste (neuter sg.)}
+kasāvo: {impurity, dregs of the mind, in rāgakasāvo and the three kasāvas (nominative sg., compound final): нечистота; astringent in taste (masculine nominative sg.): вяжущий}
+tittakaṃ: {bitter in taste (neuter sg.)}
+rasadhātu: {the element of tastes (nominative sg.)}
+anidassanāya sappaṭighāya: {by what is invisible and impinging (feminine instrumental sg.)}
+sappaṭighāya: {impinging, capable of striking against (feminine instrumental sg.)}
+kaṭukaṃ: {pungent, sharp in taste (neuter sg.)}
+loṇikaṃ: {salty in taste (neuter sg.)}
+ambilaṃ: {sour in taste (neuter sg.)}
+madhuraṃ: {sweet in taste (neuter sg.)}
+raso: {taste, the object of the tongue (nominative sg.): вкус; juice, sap, in mūlaraso and the other plant juices (compound final): сок}
+sādu: {tasty, pleasant to taste (adjective)}
+jivhāya: {with the tongue, by the tongue (instrumental sg.)}
+asādu: {untasty, unpleasant to taste (adjective)}
+kāyena: {with the body, by the body (instrumental sg.)}
+phoṭṭhabbadhātu: {the element of tangibles (nominative sg.)}
+kakkhaḷaṃ: {hard, solid to the touch (neuter sg.)}
+garukaṃ: {heavy to the touch (neuter sg.)}
+lahukaṃ: {light in weight to the touch (neuter sg.)}
+pharusaṃ: {rough, coarse to the touch (neuter sg.)}
+saṇhaṃ: {smooth, fine to the touch (neuter sg.)}
+mudukaṃ: {soft to the touch (neuter sg.)}
+phoṭṭhabba: {tangible object, what is touched (stem and compound member)}
+moha: {delusion, as an unwholesome root and in mohakasāva (compound member)}
+Rāga: {lust, passion (stem and compound member)}
+bahuvidhena vedanākkhandho: {the aggregate of feeling divided into many kinds (phrase, nominative sg.)}
+Itthi: {femininity, female (compound member, as in itthindriya)}
+bahuvidhena saṅkhārakkhandho: {the aggregate of formations divided into many kinds (phrase, nominative sg.)}
+dosa: {hatred, ill will, as an unwholesome root (compound member)}
+anidassanaappaṭighaṃ: {invisible and non-impinging (neuter sg.)}
+appaṭighaṃ: {non-impinging, not capable of striking against (neuter sg.)}
+bahuvidhena saññākkhandho: {the aggregate of perception divided into many kinds (phrase, nominative sg.)}
+asaṅkhatā: {unconditioned, not made by conditions (nominative)}
+asaṅkhatā dhātu: {the unconditioned element (nominative sg.)}
+āyatanānaṃ: {of the sense bases (genitive pl.)}
+Dvādasannaṃ: {of the twelve, the number (genitive numeral)}
+Dvādasannaṃ āyatanānaṃ: {of the twelve sense bases (genitive pl. phrase)}
+pahātabbā: {to be abandoned (nominative pl. gerundive)}
+upādāniyā: {subject to clinging, a possible object of clinging (nominative pl.)}
+pītisahagatā: {accompanied by rapture (feminine sg. and nominative pl. participle)}
+saṃkilesikā: {liable to defilement, defileable (nominative pl.)}
+vattabbaṃ: {to be said, describable as (neuter sg. gerundive)}
+Ekādasāyatanā: {the eleven sense bases (nominative pl.)}
+vicāra: {sustained thought, keeping the mind on its object (stem and compound member)}
+anidassanasappaṭighā: {invisible but impinging (nominative pl.)}
+parittā: {limited, of small scope (nominative pl.): ограниченный; gentle, light, of winds in 'parittā vātā' (nominative pl.): слабый}
+majjhimā: {middling, medium (nominative pl.)}
+ārammaṇā: {having as object, compound final, as in rūpārammaṇa and parittārammaṇa (nominative)}
+sappaṭigha: {impinging, capable of striking against (stem and compound member)}
+nevavipākanavipākadhammadhammā: {neither results nor having the nature of yielding results (nominative pl.)}
+āyatanā: {sense bases, the sense fields (nominative pl.)}
+āyatanā anidassana: {sense bases that are invisible, in the question sections (phrase, nominative pl.)}
+āyatanā siyā: {sense bases that may be, in 'āyatanā siyā …' of the question sections (phrase, nominative pl. with optative)}
+Dasāyatanā: {the ten sense bases (nominative pl.)}
+sahabhū: {coexisting, arising together (nominative pl.)}
+kileso ceva kilesasampayuttañca: {being a defilement and also conjoined with defilements (phrase, neuter sg.)}
+vippayuttā: {dissociated from, compound final (nominative participle)}
+upādānavippayuttā: {dissociated from clinging (nominative pl. participle)}
+parāmāsavippayuttā: {dissociated from misapprehension (nominative pl. participle)}
+vicārā: {sustained thought, keeping the mind on its object (nominative pl. and compound final)}
+cetasikaṃ: {mental, of the mind as opposed to the body (neuter sg. adjective): душевный / душевное состояние; a mental concomitant, in the dyad predicates of the question sections (neuter sg.): сопутствующий уму}
+acetasikā: {not mental concomitants, not accompanying the mind (nominative pl.)}
+saṃyojanañceva saṃyojanasampayuttañca: {being a fetter and also conjoined with fetters (phrase, neuter sg.)}
+rūpāvacarā: {belonging to the fine-material sphere (nominative pl.)}
+parāmaṭṭhā: {misapprehended, grasped by wrong views (nominative pl. participle)}
+sahetukā: {with roots, accompanied by root conditions (nominative pl.)}
+nīvaraṇañceva nīvaraṇasampayuttañca: {being a hindrance and also conjoined with hindrances (phrase, neuter sg.)}
+arūpaṃ: {immaterial, not matter (neuter sg.)}
+arūpāvacarā: {belonging to the immaterial sphere (nominative pl.)}
+ajjhattikā: {internal, belonging to oneself (nominative pl.)}
+cittasampayuttaṃ: {conjoined with the mind (neuter sg. participle)}
+saṃsaṭṭhaṃ: {conjoined, mixed together (neuter sg. participle)}
+cittasaṃsaṭṭhaṃ: {conjoined with the mind (neuter sg. participle)}
+anārammaṇā: {without an object, objectless (nominative pl.)}
+nīvaraṇiyā: {liable to the hindrances (nominative pl.)}
+sappaṭighā: {impinging, capable of striking against (nominative pl.)}
+hetu ceva hetusampayuttañca: {being a root and also conjoined with roots (phrase, neuter sg.)}
+kāmāvacarā: {belonging to the sense sphere (nominative pl.)}
+āyatanā anidassanā: {sense bases that are invisible, in the question sections (phrase, nominative pl.)}
+āyatanā sappaṭighā: {sense bases that are impinging, in the question sections (phrase, nominative pl.)}
+āvacarā: {belonging to a sphere, final of kāmāvacara and rūpāvacara (nominative pl., compound final)}
+āsavo ceva āsavasampayuttañca: {being a taint and also conjoined with the taints (phrase, neuter sg.)}
+Dasāyatanā sappaṭighā: {the ten sense bases are impinging (phrase, nominative pl.)}
+gantho ceva ganthasampayuttañca: {being a tie and also conjoined with the ties (phrase, neuter sg.)}
+ganthaniyā: {liable to the ties (nominative pl.)}
+asaṅkhataṃ: {unconditioned, not made by conditions (neuter sg.)}
+asaṃkiliṭṭhā: {undefiled, not stained by defilements (nominative pl. participle)}
+lokiyā: {mundane, belonging to the world (nominative pl.)}
+ākāsa: {space, open extent (stem and compound member)}
+ākāsadhātu: {the space element (nominative sg.)}
+lomā: {body hairs, in the list of body parts (nominative pl.)}
+aṭṭhi: {bones, in the list of body parts (nominative)}
+veḷuriyo: {beryl, a precious stone, in the list of external solid things (nominative sg.)}
+saṅkho: {conch, mother-of-pearl shell, in the list of external solid things (nominative sg.)}
+udariyaṃ: {stomach contents, undigested food (nominative sg.)}
+lohaṃ: {copper, a metal, in the list of external solid things (nominative sg.)}
+pavāḷaṃ: {coral (nominative sg.)}
+bhūmi: {ground, soil, in the list of external solid things (nominative sg.)}
+dhātudvayaṃ: {the element being twofold, a pair of elements, in pathavīdhātudvayaṃ (neuter sg.)}
+aññampi: {anything else too, in 'yaṃ vā panaññampi' (pronoun with pi)}
+masāragallaṃ: {cat's-eye gem, a speckled precious stone (nominative sg.)}
+karīsaṃ: {excrement, faeces (nominative sg.)}
+maṃsaṃ: {flesh, muscle, in the list of body parts (nominative sg.)}
+tiṇaṃ: {grass (nominative sg.)}
+sakkharā: {gravel, small stones (nominative)}
+kesā: {head hairs, in the list of body parts (nominative pl.)}
+kakkhaḷattaṃ: {the state of hardness, solidity (neuter sg.)}
+hadayaṃ: {heart, the bodily organ, also a name for the mind in the citta synonym string (neuter sg.)}
+antaṃ: {intestines, the bowel (nominative sg.)}
+ayo: {iron (nominative sg.)}
+vakkaṃ: {kidneys (nominative sg.)}
+yakanaṃ: {liver (nominative sg.)}
+papphāsaṃ: {lungs (nominative sg.)}
+miñjaṃ: {bone marrow, in aṭṭhimiñjaṃ (nominative sg., compound final)}
+kilomakaṃ: {pleura, the membrane round the lungs (nominative sg.)}
+antaguṇaṃ: {mesentery, the tissue binding the intestines (nominative sg.)}
+pabbato: {mountain (nominative sg.)}
+nakhā: {nails of fingers and toes (nominative pl.)}
+seyyathidaṃ: {namely, that is, introducing a list (adverb)}
+sajjhaṃ: {silver, in the list of external solid things (nominative sg.)}
+muttā: {pearls (compound member)}
+kaṭhalaṃ: {potsherds, broken pottery (nominative sg.)}
+pāsāṇo: {rock, stone (nominative sg.)}
+lohitaṅko: {ruby, a red gem (nominative sg.)}
+rajataṃ: {silver money, coins, in the list of external solid things (nominative sg.)}
+nhāru: {sinews, tendons (nominative)}
+taco: {skin, in the list of body parts (nominative sg.)}
