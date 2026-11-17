@@ -28,7 +28,7 @@ extra_titles = J.get("extra_titles", {})
 extra_heads = set(J.get("heading_extra", []) or J.get("extra_heads", []))
 # every line belongs to a block (no lines printed under a heading): run fix_heading_bounds first
 assert not any(v.get("after") for v in M.values()), "map has 'after' lines: run fix_heading_bounds.py"
-ROOT = "1-SOURCES/Text/pi-1.md"
+ROOT = sys.argv[8] if len(sys.argv) > 8 else "1-SOURCES/Text/pi-1.md"
 
 
 MATRIX_END = next((k for k, it in enumerate(D) if it["kind"] == "p" and "[๑๖]" in it["text"]), len(D))

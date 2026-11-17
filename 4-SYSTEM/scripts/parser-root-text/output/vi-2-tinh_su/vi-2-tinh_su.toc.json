@@ -1,0 +1,1564 @@
+{
+  "sections": [
+    {
+      "title": {
+        "vi": "TẠNG VÔ TỶ PHÁP (ABHIDHAMMAPIṬAKA)"
+      },
+      "span": {
+        "start": 47,
+        "end": 860119
+      },
+      "subsections": [
+        {
+          "title": {
+            "vi": "BỘ PHÂN TÍCH (VIBHAṄGA)"
+          },
+          "span": {
+            "start": 47,
+            "end": 860119
+          },
+          "subsections": [
+            {
+              "title": {
+                "vi": "PHẦN I - UẨN PHÂN TÍCH"
+              },
+              "span": {
+                "start": 47,
+                "end": 117974
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. UẨN PHÂN TÍCH PHẦN PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 47,
+                    "end": 21470
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Sắc uẩn"
+                      },
+                      "span": {
+                        "start": 109,
+                        "end": 2996
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Thọ uẩn"
+                      },
+                      "span": {
+                        "start": 2996,
+                        "end": 7125
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "3) Tưởng uẩn"
+                      },
+                      "span": {
+                        "start": 7125,
+                        "end": 12194
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "4) Hành uẩn"
+                      },
+                      "span": {
+                        "start": 12194,
+                        "end": 16835
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "5) Thức uẩn"
+                      },
+                      "span": {
+                        "start": 16835,
+                        "end": 21470
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "B. UẨN PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 21470,
+                    "end": 98762
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. UẨN PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 98762,
+                    "end": 117974
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 98986,
+                        "end": 102718
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 102718,
+                        "end": 117974
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN II - XỨ PHÂN TÍCH"
+              },
+              "span": {
+                "start": 117974,
+                "end": 141339
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. XỨ PHÂN TÍCH PHẦN PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 117974,
+                    "end": 119161
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. XỨ PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 119161,
+                    "end": 120917
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. XỨ PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 120917,
+                    "end": 141339
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 121141,
+                        "end": 125882
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 125882,
+                        "end": 141339
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN III - CHẤT PHÂN TÍCH (Dhātuvibhaṅga)"
+              },
+              "span": {
+                "start": 141339,
+                "end": 177829
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. CHẤT PHÂN TÍCH PHÂN THEO KINH (Suṭtantabhājanīya)"
+                  },
+                  "span": {
+                    "start": 141339,
+                    "end": 151012
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. CHẤT PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 151012,
+                    "end": 155648
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. CHẤT PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 155648,
+                    "end": 177829
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 156064,
+                        "end": 161548
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 161548,
+                        "end": 177829
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN IV - ĐẾ PHÂN TÍCH (Saccavibhaṅga)"
+              },
+              "span": {
+                "start": 177829,
+                "end": 221524
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. ĐẾ PHÂN TÍCH PHẦN PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 177829,
+                    "end": 191434
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "2) Khổ tập thánh đế"
+                      },
+                      "span": {
+                        "start": 181750,
+                        "end": 185241
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "3) Khổ diệt thánh đế"
+                      },
+                      "span": {
+                        "start": 185241,
+                        "end": 188717
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "4) Thánh đế tiến hành nhân diệt khổ"
+                      },
+                      "span": {
+                        "start": 188717,
+                        "end": 191434
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "B. ĐẾ PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 191434,
+                    "end": 202245
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. ĐẾ PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 202245,
+                    "end": 221524
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
+                      },
+                      "span": {
+                        "start": 207714,
+                        "end": 221524
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN V - QUYỀN PHÂN TÍCH (Indrīyavibhaṅga)"
+              },
+              "span": {
+                "start": 221524,
+                "end": 250673
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 226477,
+                    "end": 250673
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Quyền phân tích đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 226947,
+                        "end": 250673
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN VI - DUYÊN KHỞI PHÂN TÍCH (Paccayakāravibhaṅga)"
+              },
+              "span": {
+                "start": 250673,
+                "end": 342290
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. DUYÊN KHỞI PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 250673,
+                    "end": 255948
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. ĐẦU ĐỀ DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 255948,
+                    "end": 342290
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Tứ phần duyên khởi"
+                      },
+                      "span": {
+                        "start": 255948,
+                        "end": 257004
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Tứ phần nhân"
+                      },
+                      "span": {
+                        "start": 257004,
+                        "end": 258614
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Tứ phần tương ưng"
+                      },
+                      "span": {
+                        "start": 258614,
+                        "end": 260149
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "3) Tứ phần tương tế"
+                      },
+                      "span": {
+                        "start": 260149,
+                        "end": 262236
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "1) Bất thiện xiển minh"
+                      },
+                      "span": {
+                        "start": 262236,
+                        "end": 269594
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Tứ phần nhân"
+                      },
+                      "span": {
+                        "start": 269594,
+                        "end": 276872
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Tứ phần tương ưng"
+                      },
+                      "span": {
+                        "start": 276872,
+                        "end": 284028
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Tứ phần tương tế"
+                      },
+                      "span": {
+                        "start": 284028,
+                        "end": 302249
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Thiện xiển minh"
+                      },
+                      "span": {
+                        "start": 302249,
+                        "end": 311418
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "3) Vô ký xiển minh"
+                      },
+                      "span": {
+                        "start": 311418,
+                        "end": 328750
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "4) Xiển minh phần căn vô minh đối với thiện"
+                      },
+                      "span": {
+                        "start": 328750,
+                        "end": 338414
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "6) Xiển minh phần bất thiện căn dị thục quả"
+                      },
+                      "span": {
+                        "start": 338414,
+                        "end": 342290
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN VII - NIỆM XỨ PHÂN TÍCH"
+              },
+              "span": {
+                "start": 342290,
+                "end": 375491
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. NIỆM XỨ PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 342290,
+                    "end": 365136
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Niệm thân xiển minh"
+                      },
+                      "span": {
+                        "start": 343164,
+                        "end": 347433
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Niệm thọ xiển minh"
+                      },
+                      "span": {
+                        "start": 347433,
+                        "end": 351649
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "3) Niệm tâm xiển minh"
+                      },
+                      "span": {
+                        "start": 351649,
+                        "end": 356807
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "4) Niệm pháp xiển minh"
+                      },
+                      "span": {
+                        "start": 356807,
+                        "end": 365136
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "B. NIỆM XỨ PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 365136,
+                    "end": 370419
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. NIỆM XỨ PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 370419,
+                    "end": 375491
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
+                      },
+                      "span": {
+                        "start": 372696,
+                        "end": 375491
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN VIII - TỨ CHÁNH CẦN PHÂN TÍCH"
+              },
+              "span": {
+                "start": 375491,
+                "end": 393605
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. TỨ CHÁNH CẦN PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 375491,
+                    "end": 381480
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. TỨ CHÁNH CẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 381480,
+                    "end": 388663
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. TỨ CHÁNH CẦN PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 388663,
+                    "end": 393605
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 389526,
+                        "end": 393605
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN IX - NHƯ Ý TÚC PHÂN TÍCH (Iddhipādavibhaṅga)"
+              },
+              "span": {
+                "start": 393605,
+                "end": 414753
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. TỨ NHƯ Ý TÚC PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 393605,
+                    "end": 401411
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. TỨ NHƯ Ý TÚC PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 401411,
+                    "end": 409363
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. TỨ NHƯ Ý TÚC PHẦN VẤP ĐÁP"
+                  },
+                  "span": {
+                    "start": 409363,
+                    "end": 414753
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 409845,
+                        "end": 411192
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
+                      },
+                      "span": {
+                        "start": 411192,
+                        "end": 414753
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN X - GIÁC CHI PHÂN TÍCH"
+              },
+              "span": {
+                "start": 414753,
+                "end": 431190
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. GIÁC CHI PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 414753,
+                    "end": 419407
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. GIÁC CHI PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 419407,
+                    "end": 425785
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. GIÁC CHI PHÂN TÍCH - PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 425785,
+                    "end": 431190
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 426148,
+                        "end": 427928
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 427928,
+                        "end": 431190
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XI - ĐẠO PHÂN TÍCH"
+              },
+              "span": {
+                "start": 431190,
+                "end": 448152
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. ĐẠO PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 431190,
+                    "end": 434589
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. ĐẠO PHÂN TÍCH - PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 434589,
+                    "end": 442988
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. ĐẠO PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 442988,
+                    "end": 448152
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 443343,
+                        "end": 445098
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 445098,
+                        "end": 448152
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XII - THIỀN PHÂN TÍCH"
+              },
+              "span": {
+                "start": 448152,
+                "end": 508715
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. ĐẦU ĐỀ"
+                  },
+                  "span": {
+                    "start": 448152,
+                    "end": 491783
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. THIỀN PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 491783,
+                    "end": 501740
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "D. THIỀN PHÂN TÍCH PHẦN VẤP ĐÁP"
+                  },
+                  "span": {
+                    "start": 501740,
+                    "end": 508715
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 502528,
+                        "end": 508715
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XIII - VÔ LƯỢNG PHÂN TÍCH"
+              },
+              "span": {
+                "start": 508715,
+                "end": 536031
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. VÔ LƯỢNG PHÂN TÍCH - PHẦN PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 508715,
+                    "end": 517134
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. VÔ LƯỢNG PHÂN TÍCH - PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 517134,
+                    "end": 529301
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "C. VÔ LƯỢNG PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 529301,
+                    "end": 536031
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 530971,
+                        "end": 532757
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 532757,
+                        "end": 536031
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XIV - ĐIỀU HỌC PHÂN TÍCH"
+              },
+              "span": {
+                "start": 536031,
+                "end": 552160
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. ĐIỀU HỌC PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 536031,
+                    "end": 547654
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. ĐIỀU HỌC PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 547654,
+                    "end": 552160
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 548091,
+                        "end": 549261
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 549261,
+                        "end": 552160
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XV - ĐẠT THÔNG PHÂN TÍCH (Paṭisambhidā vibhaṅga)"
+              },
+              "span": {
+                "start": 552160,
+                "end": 580987
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "A. ĐẠT THÔNG PHÂN TÍCH PHÂN THEO KINH"
+                  },
+                  "span": {
+                    "start": 552160,
+                    "end": 555865
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. ĐẠT THÔNG PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
+                  },
+                  "span": {
+                    "start": 555865,
+                    "end": 574294
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Tứ đạt thông phân theo tám tâm thiện dục giới"
+                      },
+                      "span": {
+                        "start": 555865,
+                        "end": 559822
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "5) Tứ đạt thông phân theo 12 tâm bất thiện"
+                      },
+                      "span": {
+                        "start": 559822,
+                        "end": 561461
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "6) Tam đạt thông phân theo tám tâm dị thục quả thiện vô nhân"
+                      },
+                      "span": {
+                        "start": 561461,
+                        "end": 570950
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "12) Tam đạt thông phân theo ba tâm tố vô nhân (ahetukakiriyā)"
+                      },
+                      "span": {
+                        "start": 570950,
+                        "end": 574294
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "C. ĐẠT THÔNG PHÂN TÍCH PHẦN VẤN ĐÁP"
+                  },
+                  "span": {
+                    "start": 574294,
+                    "end": 580987
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "1) Đáp theo đầu đề tam"
+                      },
+                      "span": {
+                        "start": 574565,
+                        "end": 577815
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "2) Đáp theo đầu đề nhị"
+                      },
+                      "span": {
+                        "start": 577815,
+                        "end": 580987
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XVI - TRÍ PHÂN TÍCH (Ñāṇavibhaṅga)"
+              },
+              "span": {
+                "start": 580987,
+                "end": 659317
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Đầu đề phần một"
+                  },
+                  "span": {
+                    "start": 580987,
+                    "end": 583679
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần hai"
+                  },
+                  "span": {
+                    "start": 583679,
+                    "end": 585449
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần ba"
+                  },
+                  "span": {
+                    "start": 585449,
+                    "end": 592937
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần tứ"
+                  },
+                  "span": {
+                    "start": 592937,
+                    "end": 594014
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Phần năm, phần sáu, phần bảy, phần tám và phần chín"
+                  },
+                  "span": {
+                    "start": 594014,
+                    "end": 594668
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần thập"
+                  },
+                  "span": {
+                    "start": 594668,
+                    "end": 599295
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "B. TRÍ PHÂN TÍCH PHẦN XIỂN MINH"
+                  },
+                  "span": {
+                    "start": 599295,
+                    "end": 659317
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần một"
+                      },
+                      "span": {
+                        "start": 599295,
+                        "end": 606414
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần hai"
+                      },
+                      "span": {
+                        "start": 606414,
+                        "end": 611556
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần ba"
+                      },
+                      "span": {
+                        "start": 611556,
+                        "end": 618742
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần bốn"
+                      },
+                      "span": {
+                        "start": 618742,
+                        "end": 631583
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần năm"
+                      },
+                      "span": {
+                        "start": 631583,
+                        "end": 632955
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần sáu"
+                      },
+                      "span": {
+                        "start": 632955,
+                        "end": 633339
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần bảy"
+                      },
+                      "span": {
+                        "start": 633339,
+                        "end": 634977
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần tám"
+                      },
+                      "span": {
+                        "start": 634977,
+                        "end": 635363
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần chín"
+                      },
+                      "span": {
+                        "start": 635363,
+                        "end": 635869
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Xiển minh phần mười"
+                      },
+                      "span": {
+                        "start": 635869,
+                        "end": 659317
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XVII - TIỂU TÔNG PHÂN TÍCH (Khuddadavatthuvibhaṅga)"
+              },
+              "span": {
+                "start": 659317,
+                "end": 790024
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Đầu đề phần một điều (ekakamātikā)"
+                  },
+                  "span": {
+                    "start": 659317,
+                    "end": 664643
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần hai điều"
+                      },
+                      "span": {
+                        "start": 661297,
+                        "end": 662140
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần ba điều"
+                      },
+                      "span": {
+                        "start": 662140,
+                        "end": 663018
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần bốn điều"
+                      },
+                      "span": {
+                        "start": 663018,
+                        "end": 663227
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần năm điều"
+                      },
+                      "span": {
+                        "start": 663227,
+                        "end": 663443
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần sáu điều"
+                      },
+                      "span": {
+                        "start": 663443,
+                        "end": 663689
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần bảy điều"
+                      },
+                      "span": {
+                        "start": 663689,
+                        "end": 663791
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần tám điều"
+                      },
+                      "span": {
+                        "start": 663791,
+                        "end": 663958
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "Đầu đề phần chín điều"
+                      },
+                      "span": {
+                        "start": 663958,
+                        "end": 664643
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần một điều"
+                  },
+                  "span": {
+                    "start": 664643,
+                    "end": 688137
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần hai điều"
+                  },
+                  "span": {
+                    "start": 688137,
+                    "end": 697803
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần ba điều"
+                  },
+                  "span": {
+                    "start": 697803,
+                    "end": 724284
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần bốn điều"
+                  },
+                  "span": {
+                    "start": 724284,
+                    "end": 731064
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần năm điều"
+                  },
+                  "span": {
+                    "start": 731064,
+                    "end": 739108
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần sáu điều"
+                  },
+                  "span": {
+                    "start": 739108,
+                    "end": 744382
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần bảy điều"
+                  },
+                  "span": {
+                    "start": 744382,
+                    "end": 751630
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần tám điều"
+                  },
+                  "span": {
+                    "start": 751630,
+                    "end": 761527
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần chín điều"
+                  },
+                  "span": {
+                    "start": 761527,
+                    "end": 764787
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần mười điều"
+                  },
+                  "span": {
+                    "start": 764787,
+                    "end": 767926
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần mười tám điều"
+                  },
+                  "span": {
+                    "start": 767926,
+                    "end": 790024
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XVIII - PHÁP TÂM PHÂN TÍCH"
+              },
+              "span": {
+                "start": 790024,
+                "end": 860119
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "1) PHẦN CHƯ YẾU HIỆP"
+                  },
+                  "span": {
+                    "start": 790024,
+                    "end": 793067
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "2) PHẦN TÂM BẤT SANH"
+                  },
+                  "span": {
+                    "start": 793067,
+                    "end": 804722
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "4) PHẦN DANH SIÊU PHI DANH SIÊU"
+                  },
+                  "span": {
+                    "start": 804722,
+                    "end": 821008
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "5) PHẦN KIẾN (Dassanavāra)"
+                  },
+                  "span": {
+                    "start": 821008,
+                    "end": 823051
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "6) PHẦN NGHIỆP SANH SỐNG BAO NHIÊU"
+                  },
+                  "span": {
+                    "start": 823051,
+                    "end": 831335
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "7) PHẦN THẤU TRIỆT (Abhiññeyyadivāra)"
+                  },
+                  "span": {
+                    "start": 831335,
+                    "end": 835650
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "8) PHẦN CẢNH"
+                  },
+                  "span": {
+                    "start": 835650,
+                    "end": 838864
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "9) PHẦN HIỆN TẠI (Diṭṭhādivāra)"
+                  },
+                  "span": {
+                    "start": 838864,
+                    "end": 860119
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "vi": "10) PHẦN TAM ĐỀ THIỆN"
+                      },
+                      "span": {
+                        "start": 840903,
+                        "end": 842150
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "11) PHẦN TAM ĐỀ THỌ"
+                      },
+                      "span": {
+                        "start": 842150,
+                        "end": 845692
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "12) PHẦN TAM ĐỀ DỊ THỤC QUẢ"
+                      },
+                      "span": {
+                        "start": 845692,
+                        "end": 847990
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "13) PHẦN ĐẦU ĐỀ THỦ CẢNH THỦ"
+                      },
+                      "span": {
+                        "start": 847990,
+                        "end": 850351
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "14) PHẦN ĐẦU ĐỀ HỮU TẦM"
+                      },
+                      "span": {
+                        "start": 850351,
+                        "end": 852972
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "15) PHẦN NHỊ ĐỀ SẮC"
+                      },
+                      "span": {
+                        "start": 852972,
+                        "end": 853860
+                      }
+                    },
+                    {
+                      "title": {
+                        "vi": "16) PHẦN NHỊ ĐỀ HIỆP THẾ"
+                      },
+                      "span": {
+                        "start": 853860,
+                        "end": 860119
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

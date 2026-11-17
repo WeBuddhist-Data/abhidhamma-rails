@@ -101,6 +101,8 @@ def clean_page(text):
 
 # ---------------------------------------------------------------- structure
 VI_HEAD = [
+    (re.compile(r"^PHẦN [IVXL]+\s*[-–.:]"), 2),  # "PHẦN I - UẨN PHÂN TÍCH" (Vibhaṅga chapters)
+    (re.compile(r"^[A-H]\.\s+\S"), 3),  # "A. UẨN PHÂN TÍCH PHẦN PHÂN THEO KINH"
     (re.compile(r"^Phần [A-Z]\.", re.I), 2),
     (re.compile(r"^[IVX]+\.\s"), 3),
     (re.compile(r"^\d+\.\d+\)\s"), 5),
@@ -118,11 +120,23 @@ def vi_heading_level(s):
 
 
 def convert():
-    start = START if START is not None else next(i for i, t in enumerate(pages) if "NAMO TASSA" in t.upper())
+    # The body starts at the homage: "NAMO TASSA …" (Pāli) or, in books without it, the
+    # Vietnamese "CUNG KÍNH ĐỨC THẾ TÔN …"; lines before it on that page (book title) are dropped.
+    if START is not None:
+        start = START
+    else:
+        start = next((i for i, t in enumerate(pages) if "NAMO TASSA" in t.upper()), None)
+        if start is None:
+            start = next(i for i, t in enumerate(pages) if i > 1 and "CUNG K" in t.upper() and "THẾ TÔN" in t.upper())
     diag["front_pages_skipped"] = start
     lines = []
-    for text in pages[start:]:
-        lines.extend(clean_page(text))
+    for n, text in enumerate(pages[start:]):
+        pl = clean_page(text)
+        if n == 0:
+            k = next((j for j, ln in enumerate(pl) if "NAMO TASSA" in ln.upper() or ("CUNG K" in ln.upper() and "THẾ TÔN" in ln.upper())), 0)
+            diag["title_lines_dropped"] = k
+            pl = pl[k:]
+        lines.extend(pl)
         lines.append("\x00PAGE")  # page boundary: never a paragraph break by itself
 
     out, para, pending_num = [], None, None
@@ -146,6 +160,12 @@ def convert():
         if not s:
             flush()
             continue
+        if all(0xE000 <= ord(c) <= 0xF8FF or c.isspace() for c in s):
+            # a row of symbol-font glyphs (e.g. U+F068 x 3): a decorative separator
+            flush()
+            out.append(("hr",))
+            bump("glyph_separators")
+            continue
         bullet = 0xE000 <= ord(s[0]) <= 0xF8FF or (s[0] in "•▪●-–" and not re.fullmatch(r"[-~–]+", s))
         body = vi_fix_syllables(re.sub(r"\s+", " ", s[1:].strip() if bullet else s))
         if re.fullmatch(r"[-~]{2,}", s):
@@ -165,6 +185,19 @@ def convert():
             bump("list_items")
             continue
         lvl = vi_heading_level(s)
+        if lvl and s.rstrip().endswith("?"):
+            lvl = None  # "2) Thọ uẩn đó ra sao?": a numbered question, not a heading
+        if para is None and out and out[-1][0] == "h" and re.fullmatch(r"\([^()]{3,60}\)", body):
+            # "(Dhātuvibhaṅga)" printed under a chapter heading: part of that heading
+            out[-1] = ("h", out[-1][1], out[-1][2] + " " + body)
+            bump("heading_subtitles_joined")
+            continue
+        if re.match(r"^(Đầy đủ|Hoàn bị|Dứt|Mùa an cư)", body):
+            # chapter end lines ("Đầy đủ Uẩn phân tích") and the translator's dating line: text
+            flush()
+            out.append(("p", body))
+            bump("end_lines")
+            continue
         starts_block = para is None
         if lvl is None and starts_block and len(s) < 70 and not s.startswith("Dứt") and not re.search(r"[.?!:,;]$", s):
             n = nxt_meaningful(i)
