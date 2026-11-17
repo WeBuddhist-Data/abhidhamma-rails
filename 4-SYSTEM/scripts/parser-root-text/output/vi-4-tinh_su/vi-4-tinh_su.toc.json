@@ -1,0 +1,219 @@
+{
+  "sections": [
+    {
+      "title": {
+        "vi": "TẠNG VÔ TỶ PHÁP (ABHIDHAMMAPIṬAKA)"
+      },
+      "span": {
+        "start": 51,
+        "end": 137925
+      },
+      "subsections": [
+        {
+          "title": {
+            "vi": "BỘ NHÂN CHẾ ĐỊNH (PUGGALAPAÑÑATTI)"
+          },
+          "span": {
+            "start": 51,
+            "end": 137925
+          },
+          "subsections": [
+            {
+              "title": {
+                "vi": "PHẦN XIỂN THUẬT"
+              },
+              "span": {
+                "start": 51,
+                "end": 11459
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Đầu đề phần nhị"
+                  },
+                  "span": {
+                    "start": 2667,
+                    "end": 3638
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần tam"
+                  },
+                  "span": {
+                    "start": 3638,
+                    "end": 4876
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần tứ"
+                  },
+                  "span": {
+                    "start": 4876,
+                    "end": 8457
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần ngũ"
+                  },
+                  "span": {
+                    "start": 8457,
+                    "end": 9765
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần lục"
+                  },
+                  "span": {
+                    "start": 9765,
+                    "end": 10574
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần thất"
+                  },
+                  "span": {
+                    "start": 10574,
+                    "end": 11048
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần bát"
+                  },
+                  "span": {
+                    "start": 11048,
+                    "end": 11111
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần cửu"
+                  },
+                  "span": {
+                    "start": 11111,
+                    "end": 11312
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Đầu đề phần thập"
+                  },
+                  "span": {
+                    "start": 11312,
+                    "end": 11459
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "vi": "PHẦN XIỂN MINH"
+              },
+              "span": {
+                "start": 11459,
+                "end": 137925
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "vi": "Xiển minh phần nhất"
+                  },
+                  "span": {
+                    "start": 11459,
+                    "end": 21934
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần nhị"
+                  },
+                  "span": {
+                    "start": 21934,
+                    "end": 38170
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần tam Tam chủng nhân"
+                  },
+                  "span": {
+                    "start": 38170,
+                    "end": 63374
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần tứ Tứ chủng nhân"
+                  },
+                  "span": {
+                    "start": 63374,
+                    "end": 114064
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần ngũ Ngũ chủng nhân"
+                  },
+                  "span": {
+                    "start": 114064,
+                    "end": 128590
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần lục Lục chủng nhân"
+                  },
+                  "span": {
+                    "start": 128590,
+                    "end": 129923
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần thất Thất chủng nhân"
+                  },
+                  "span": {
+                    "start": 129923,
+                    "end": 133706
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần bát Bát chủng nhân"
+                  },
+                  "span": {
+                    "start": 133706,
+                    "end": 134025
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần cửu Cửu chủng nhân"
+                  },
+                  "span": {
+                    "start": 134025,
+                    "end": 136633
+                  }
+                },
+                {
+                  "title": {
+                    "vi": "Xiển minh phần thập Thập chủng nhân"
+                  },
+                  "span": {
+                    "start": 136633,
+                    "end": 137925
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -44,6 +44,9 @@ if kb is not None and kb + 1 < len(lines) and lines[kb + 1].startswith("("):
 # book title: the first "BỘ …" line that is not "BỘ THỨ …" (the book number), with its "(PĀLI)" line
 k = next((i for i, ln in enumerate(lines) if ln.startswith("BỘ ") and not ln.startswith("BỘ THỨ")), None)
 title_book = (lines[k] + (" " + lines[k + 1] if k + 1 < len(lines) and lines[k + 1].startswith("(") else "")) if k is not None else None
+if ARG_PAIRS and os.path.exists(ARG_PAIRS):
+    # a volume with two books names both on its title page: the pairs file can give the title
+    title_book = json.load(open(ARG_PAIRS, encoding="utf-8")).get("_title_book", title_book)
 extra_titles = {"0": title_basket, f"{BOOK}-0": title_book}
 report.append(f"TITLE  ^0 <- title page '{title_basket}';  ^{BOOK}-0 <- title page '{title_book}' [Ed: restored from the title page]")
 
@@ -58,8 +61,9 @@ BODY0 = pos[f"{BOOK}-0"] + 1
 th_par = {}
 cur = None
 for i, it in enumerate(T):
-    m = re.match(r"\[([๐-๙]+)\]", it["text"])
-    if m and it["kind"] in ("p", "h"):
+    # a paragraph number at the start of an item, or of a row of a two-column table
+    m = re.search(r"(?m)^\|?\s*\[([๐-๙]+)\]", it["text"])
+    if m and it["kind"] in ("p", "h", "table"):
         cur = int(m.group(1).translate(TD))
     th_par[i] = cur
 body_ids = ids[BODY0:]
@@ -72,7 +76,7 @@ for b in body_ids:
         N = th_par.get(i)
         if N is None:
             continue
-        cnt[N] += T[i]["text"].count("เป็นไฉน")
+        cnt[N] += T[i]["text"].count("เป็นไฉน") if BOOK in ("1", "2", "4") else T[i]["text"].count("?")
         cnt.setdefault(N, cnt[N])
     for N, q in cnt.items():
         par_blocks[N].append((b, q))
@@ -108,6 +112,18 @@ def split_units(text):
         cur_u.append(s)
     if cur_u:
         units.append(" ".join(cur_u))
+    if BOOK == "4":
+        # Puggalapaññatti asks two questions in a row ("Người ưa sân ra sao? Điều kiện sân như
+        # thế nào? …" = "Katamo ca puggalo kodhano? Tattha katamo kodho? …"); the Thai counts one
+        # "เป็นไฉน" per block: a question with no answer of its own joins the next question
+        merged = []
+        for u in units:
+            if merged and merged[-1].rstrip().endswith("?") and merged[-1].count("?") == 1 and \
+                    len(re.split(r"(?<=[.?!…])\s+", merged[-1].strip())) <= 2 and "?" in u:
+                merged[-1] = merged[-1] + " " + u
+            else:
+                merged.append(u)
+        units = merged
     return units
 
 
@@ -131,7 +147,7 @@ for k, (N, i0) in enumerate(starts):
     # the Pāli questions of the blocks come first when they add up to the Vietnamese ones: they
     # are the target structure, and they correct local slips of the Thai pivot (e.g. §659: both
     # questions belong to ^2-572, none to ^2-573)
-    pq0 = [(b, len(re.findall(r"\bkatam", R[pos[b]]["text"].lower())) if BOOK in "1234" else R[pos[b]]["text"].count("?"))
+    pq0 = [(b, len(re.findall(r"\bkatam", R[pos[b]]["text"].lower())) if BOOK in ("1", "2", "4") else R[pos[b]]["text"].count("?"))
            for b, _ in blocks]
     if vi_q > 0 and sum(q for _, q in pq0) == vi_q:
         if th_q != vi_q or [q for _, q in pq0] != [q for _, q in blocks]:
@@ -162,7 +178,7 @@ for k, (N, i0) in enumerate(starts):
             continue
     if th_q != vi_q:
         # fall back on the Pāli questions of the blocks (katam- … ?), when they add up
-        pq = [(b, len(re.findall(r"\bkatam", R[pos[b]]["text"].lower())) if BOOK in "1234" else R[pos[b]]["text"].count("?"))
+        pq = [(b, len(re.findall(r"\bkatam", R[pos[b]]["text"].lower())) if BOOK in ("1", "2", "4") else R[pos[b]]["text"].count("?"))
               for b, _ in blocks]
         if sum(q for _, q in pq) == vi_q and vi_q > 0:
             blocks = pq
@@ -217,7 +233,7 @@ for i in range(pb, len(V)):
 # root headings may be skipped (the Vietnamese lacks them), a shallower one is never crossed.
 # Unpaired Vietnamese headings open the next block as bold lines.
 def vi_class(t):
-    for rx, c in ((r"^PHẦN [IVXL]+\s*[-–.:]", "PR"), (r"^[A-H]\.\s", "A"), (r"^Phần [A-Z]\.", "P"), (r"^[IVX]+\.\s", "R"),
+    for rx, c in ((r"^PHẦN [IVXL]+(\s*[-–.:]|\s+[A-ZĐÀ-Ỹ]|\s*$)", "PR"), (r"^[A-H]\.\s", "A"), (r"^Phần [A-Z]\.", "P"), (r"^[IVX]+\.\s", "R"),
                   (r"^\d+\.\d+\)", "NN"), (r"^\d+\)", "N"), (r"^[a-zđ]\)", "a")):
         if re.match(rx, t):
             return c

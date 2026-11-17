@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 95,
-        "end": 485607
+        "end": 481758
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 95,
-            "end": 485607
+            "end": 481758
           },
           "subsections": [
             {
@@ -24,7 +24,7 @@
               },
               "span": {
                 "start": 95,
-                "end": 11013
+                "end": 10952
               },
               "subsections": [
                 {
@@ -33,16 +33,16 @@
                   },
                   "span": {
                     "start": 95,
-                    "end": 2012
+                    "end": 2003
                   }
                 },
                 {
                   "title": {
-                    "vi": "II. MỘT TRĂM ĐẦU ĐỀ NHỊ (Dukamātikā)"
+                    "vi": "II. MỘT TRĂM ĐẦU ĐỀ NHỊ (Dukamātikā)"
                   },
                   "span": {
-                    "start": 2012,
-                    "end": 11013
+                    "start": 2003,
+                    "end": 10952
                   },
                   "subsections": [
                     {
@@ -50,8 +50,8 @@
                         "vi": "Phần tụ nhân (hetugocchakaṃ)."
                       },
                       "span": {
-                        "start": 2012,
-                        "end": 2339
+                        "start": 2003,
+                        "end": 2330
                       }
                     },
                     {
@@ -59,17 +59,17 @@
                         "vi": "Phần nhị đề đỉnh (cūḷantaraduka)."
                       },
                       "span": {
-                        "start": 2339,
-                        "end": 2651
+                        "start": 2330,
+                        "end": 2642
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần chùm lậu (āsavagocchaka)."
+                        "vi": "Phần chùm lậu (āsavagocchaka)."
                       },
                       "span": {
-                        "start": 2651,
-                        "end": 2998
+                        "start": 2642,
+                        "end": 2988
                       }
                     },
                     {
@@ -77,44 +77,44 @@
                         "vi": "Phần tụ triền (saṅyojanagocchaka)."
                       },
                       "span": {
-                        "start": 2998,
-                        "end": 3380
+                        "start": 2988,
+                        "end": 3370
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần tụ (chùm) phược (ganthagocchaka)."
+                        "vi": "Phần tụ (chùm) phược (ganthagocchaka)."
                       },
                       "span": {
-                        "start": 3380,
-                        "end": 3763
+                        "start": 3370,
+                        "end": 3752
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần tụ (chùm) bộc (oghagocchaka)."
+                        "vi": "Phần tụ (chùm) bộc (oghagocchaka)."
                       },
                       "span": {
-                        "start": 3763,
-                        "end": 4108
+                        "start": 3752,
+                        "end": 4096
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần tụ (chùm) phối (yogagocchaka)."
+                        "vi": "Phần tụ (chùm) phối (yogagocchaka)."
                       },
                       "span": {
-                        "start": 4108,
-                        "end": 4469
+                        "start": 4096,
+                        "end": 4456
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần tụ (chùm) cái (nīvaraṇagocchaka)."
+                        "vi": "Phần tụ (chùm) cái (nīvaraṇagocchaka)."
                       },
                       "span": {
-                        "start": 4469,
-                        "end": 4810
+                        "start": 4456,
+                        "end": 4797
                       }
                     },
                     {
@@ -122,17 +122,17 @@
                         "vi": "Phần tụ (chùm) khinh thị (parāmāsagocchaka)."
                       },
                       "span": {
-                        "start": 4810,
-                        "end": 5180
+                        "start": 4797,
+                        "end": 5167
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần nhị đề đại (mahantaraduka)."
+                        "vi": "Phần nhị đề đại (mahantaraduka)."
                       },
                       "span": {
-                        "start": 5180,
-                        "end": 6142
+                        "start": 5167,
+                        "end": 6116
                       }
                     },
                     {
@@ -140,8 +140,8 @@
                         "vi": "Phần tụ thủ (upādānagocchaka)."
                       },
                       "span": {
-                        "start": 6142,
-                        "end": 6487
+                        "start": 6116,
+                        "end": 6461
                       }
                     },
                     {
@@ -149,26 +149,26 @@
                         "vi": "Phần tụ (chùm) phiền não (kilesagocchaka)."
                       },
                       "span": {
-                        "start": 6487,
-                        "end": 7063
+                        "start": 6461,
+                        "end": 7037
                       }
                     },
                     {
                       "title": {
-                        "vi": "Phần yêu bối (piṭṭhiduka)."
+                        "vi": "Phần yêu bối (piṭṭhiduka)."
                       },
                       "span": {
-                        "start": 7063,
-                        "end": 8066
+                        "start": 7037,
+                        "end": 8039
                       }
                     },
                     {
                       "title": {
-                        "vi": "III. BỐN MƯƠI HAI NHỊ ĐỀ KINH (Suttamātikā)"
+                        "vi": "III. BỐN MƯƠI HAI NHỊ ĐỀ KINH (Suttamātikā)"
                       },
                       "span": {
-                        "start": 8066,
-                        "end": 11013
+                        "start": 8039,
+                        "end": 10952
                       }
                     }
                   ]
@@ -180,8 +180,8 @@
                 "vi": "Phần B. THIÊN TÂM SANH"
               },
               "span": {
-                "start": 11013,
-                "end": 209653
+                "start": 10952,
+                "end": 208461
               },
               "subsections": [
                 {
@@ -189,8 +189,8 @@
                     "vi": "1) Tám Tâm Thiện Dục Giới"
                   },
                   "span": {
-                    "start": 11013,
-                    "end": 50390
+                    "start": 10952,
+                    "end": 50097
                   },
                   "subsections": [
                     {
@@ -198,8 +198,8 @@
                         "vi": "a) Câu chia (chi pháp)."
                       },
                       "span": {
-                        "start": 11013,
-                        "end": 25764
+                        "start": 10952,
+                        "end": 25589
                       }
                     },
                     {
@@ -207,8 +207,8 @@
                         "vi": "b) Phần điều pháp."
                       },
                       "span": {
-                        "start": 25764,
-                        "end": 40269
+                        "start": 25589,
+                        "end": 40018
                       }
                     },
                     {
@@ -216,8 +216,8 @@
                         "vi": "c) Phần tiêu diệt."
                       },
                       "span": {
-                        "start": 40269,
-                        "end": 50390
+                        "start": 40018,
+                        "end": 50097
                       }
                     }
                   ]
@@ -227,8 +227,8 @@
                     "vi": "2) Thiện Sắc Giới"
                   },
                   "span": {
-                    "start": 50390,
-                    "end": 88538
+                    "start": 50097,
+                    "end": 88096
                   }
                 },
                 {
@@ -236,8 +236,8 @@
                     "vi": "3) Thiện Vô Sắc Giới"
                   },
                   "span": {
-                    "start": 88538,
-                    "end": 89816
+                    "start": 88096,
+                    "end": 89364
                   },
                   "subsections": [
                     {
@@ -245,8 +245,8 @@
                         "vi": "a) Tứ thiền vô sắc giới."
                       },
                       "span": {
-                        "start": 88538,
-                        "end": 89816
+                        "start": 88096,
+                        "end": 89364
                       }
                     }
                   ]
@@ -256,8 +256,8 @@
                     "vi": "b) Ba bực pháp thiện trong ba cõi."
                   },
                   "span": {
-                    "start": 89816,
-                    "end": 94451
+                    "start": 89364,
+                    "end": 93971
                   }
                 },
                 {
@@ -265,17 +265,17 @@
                     "vi": "4) Tâm Thiện Siêu Thế"
                   },
                   "span": {
-                    "start": 94451,
-                    "end": 123958
+                    "start": 93971,
+                    "end": 123255
                   },
                   "subsections": [
                     {
                       "title": {
-                        "vi": "4.1) Tâm thiện siêu thế (Lối hẹp có bốn)."
+                        "vi": "4.1) Tâm thiện siêu thế (Lối hẹp có bốn)."
                       },
                       "span": {
-                        "start": 94451,
-                        "end": 123958
+                        "start": 93971,
+                        "end": 123255
                       }
                     }
                   ]
@@ -285,8 +285,8 @@
                     "vi": "12 TÂM BẤT THIỆN"
                   },
                   "span": {
-                    "start": 123958,
-                    "end": 145327
+                    "start": 123255,
+                    "end": 144521
                   }
                 },
                 {
@@ -294,8 +294,8 @@
                     "vi": "III. PHÁP VÔ KÝ"
                   },
                   "span": {
-                    "start": 145327,
-                    "end": 166048
+                    "start": 144521,
+                    "end": 165127
                   },
                   "subsections": [
                     {
@@ -303,8 +303,8 @@
                         "vi": "a) Ngũ thức quả thiện."
                       },
                       "span": {
-                        "start": 145327,
-                        "end": 151393
+                        "start": 144521,
+                        "end": 150565
                       }
                     },
                     {
@@ -312,8 +312,8 @@
                         "vi": "b) Ý giới quả thiện."
                       },
                       "span": {
-                        "start": 151393,
-                        "end": 154825
+                        "start": 150565,
+                        "end": 153980
                       }
                     },
                     {
@@ -321,17 +321,17 @@
                         "vi": "c) Ý thức giới quả thiện."
                       },
                       "span": {
-                        "start": 154825,
-                        "end": 161882
+                        "start": 153980,
+                        "end": 161007
                       }
                     },
                     {
                       "title": {
-                        "vi": "d) Tám tâm đại quả."
+                        "vi": "d) Tám tâm đại quả."
                       },
                       "span": {
-                        "start": 161882,
-                        "end": 162675
+                        "start": 161007,
+                        "end": 161782
                       }
                     },
                     {
@@ -339,8 +339,8 @@
                         "vi": "2) Quả Sắc giới."
                       },
                       "span": {
-                        "start": 162675,
-                        "end": 163654
+                        "start": 161782,
+                        "end": 162752
                       }
                     },
                     {
@@ -348,8 +348,8 @@
                         "vi": "3) Quả Vô sắc giới."
                       },
                       "span": {
-                        "start": 163654,
-                        "end": 166048
+                        "start": 162752,
+                        "end": 165127
                       }
                     }
                   ]
@@ -359,17 +359,17 @@
                     "vi": "4) Quả siêu thế (Lokuttaravipāka). (Cách rộng có 20)"
                   },
                   "span": {
-                    "start": 166048,
-                    "end": 198322
+                    "start": 165127,
+                    "end": 197191
                   },
                   "subsections": [
                     {
                       "title": {
-                        "vi": "b) Quả của tâm đạo thứ hai, ba và tư."
+                        "vi": "b) Quả của tâm đạo thứ hai, ba và tư."
                       },
                       "span": {
-                        "start": 196694,
-                        "end": 198322
+                        "start": 195572,
+                        "end": 197191
                       }
                     }
                   ]
@@ -379,35 +379,35 @@
                     "vi": "5) Vô ký quả bất thiện."
                   },
                   "span": {
-                    "start": 198322,
-                    "end": 202460
+                    "start": 197191,
+                    "end": 201313
                   }
                 },
                 {
                   "title": {
-                    "vi": "6) Dục giới tố (kāmāvacarakiriyā)."
+                    "vi": "6) Dục giới tố (kāmāvacarakiriyā)."
                   },
                   "span": {
-                    "start": 202460,
-                    "end": 209653
+                    "start": 201313,
+                    "end": 208461
                   },
                   "subsections": [
                     {
                       "title": {
-                        "vi": "7) Sắc giới tố (rūpāvacarakiriyā)."
+                        "vi": "7) Sắc giới tố (rūpāvacarakiriyā)."
                       },
                       "span": {
-                        "start": 207193,
-                        "end": 207849
+                        "start": 206024,
+                        "end": 206677
                       }
                     },
                     {
                       "title": {
-                        "vi": "8) Vô sắc giới tố (arūpāvacarakiriyā)."
+                        "vi": "8) Vô sắc giới tố (arūpāvacarakiriyā)."
                       },
                       "span": {
-                        "start": 207849,
-                        "end": 209653
+                        "start": 206677,
+                        "end": 208461
                       }
                     }
                   ]
@@ -419,8 +419,8 @@
                 "vi": "Phần C. THIÊN SẮC PHÁP (Rūpakaṇdaṃ)"
               },
               "span": {
-                "start": 209653,
-                "end": 307984
+                "start": 208461,
+                "end": 306160
               },
               "subsections": [
                 {
@@ -428,8 +428,8 @@
                     "vi": "2) Phần nhị đề."
                   },
                   "span": {
-                    "start": 211388,
-                    "end": 215248
+                    "start": 210195,
+                    "end": 214054
                   }
                 },
                 {
@@ -437,8 +437,8 @@
                     "vi": "3) Phần tam đề."
                   },
                   "span": {
-                    "start": 215248,
-                    "end": 220462
+                    "start": 214054,
+                    "end": 219263
                   }
                 },
                 {
@@ -446,8 +446,8 @@
                     "vi": "4) Phần tứ đầu đề."
                   },
                   "span": {
-                    "start": 220462,
-                    "end": 223117
+                    "start": 219263,
+                    "end": 221906
                   }
                 },
                 {
@@ -455,8 +455,8 @@
                     "vi": "5) Phần ngũ đầu đề."
                   },
                   "span": {
-                    "start": 223117,
-                    "end": 223251
+                    "start": 221906,
+                    "end": 222038
                   }
                 },
                 {
@@ -464,8 +464,8 @@
                     "vi": "6) Phần lục đầu đề."
                   },
                   "span": {
-                    "start": 223251,
-                    "end": 223492
+                    "start": 222038,
+                    "end": 222278
                   }
                 },
                 {
@@ -473,17 +473,17 @@
                     "vi": "7) Phần thất đầu đề."
                   },
                   "span": {
-                    "start": 223492,
-                    "end": 223768
+                    "start": 222278,
+                    "end": 222553
                   }
                 },
                 {
                   "title": {
-                    "vi": "8) Phần bát đầu đề."
+                    "vi": "8) Phần bát đầu đề."
                   },
                   "span": {
-                    "start": 223768,
-                    "end": 224079
+                    "start": 222553,
+                    "end": 222861
                   }
                 },
                 {
@@ -491,26 +491,26 @@
                     "vi": "9) Phần cửu đầu đề (cửu yếu hiệp)."
                   },
                   "span": {
-                    "start": 224079,
-                    "end": 224266
+                    "start": 222861,
+                    "end": 223046
                   }
                 },
                 {
                   "title": {
-                    "vi": "10) Phần thập đầu đề."
+                    "vi": "10) Phần thập đầu đề."
                   },
                   "span": {
-                    "start": 224266,
-                    "end": 224514
+                    "start": 223046,
+                    "end": 223292
                   }
                 },
                 {
                   "title": {
-                    "vi": "11) Phần thập nhứt đầu đề."
+                    "vi": "11) Phần thập nhứt đầu đề."
                   },
                   "span": {
-                    "start": 224514,
-                    "end": 224763
+                    "start": 223292,
+                    "end": 223539
                   }
                 },
                 {
@@ -518,8 +518,8 @@
                     "vi": "II. THẬP NHỨT ĐỀ XIỂN MINH"
                   },
                   "span": {
-                    "start": 224763,
-                    "end": 307984
+                    "start": 223539,
+                    "end": 306160
                   },
                   "subsections": [
                     {
@@ -527,8 +527,8 @@
                         "vi": "1) Phần nhứt xiển minh."
                       },
                       "span": {
-                        "start": 224763,
-                        "end": 225955
+                        "start": 223539,
+                        "end": 224725
                       }
                     },
                     {
@@ -536,8 +536,8 @@
                         "vi": "2) Phần nhị xiển minh."
                       },
                       "span": {
-                        "start": 225955,
-                        "end": 270932
+                        "start": 224725,
+                        "end": 269350
                       }
                     },
                     {
@@ -545,8 +545,8 @@
                         "vi": "4) Tam đề xiển minh."
                       },
                       "span": {
-                        "start": 270932,
-                        "end": 289839
+                        "start": 269350,
+                        "end": 288125
                       }
                     },
                     {
@@ -554,8 +554,8 @@
                         "vi": "5) Tứ đề xiển minh."
                       },
                       "span": {
-                        "start": 289839,
-                        "end": 303394
+                        "start": 288125,
+                        "end": 301624
                       }
                     },
                     {
@@ -563,8 +563,8 @@
                         "vi": "6) Ngũ đề xiển minh."
                       },
                       "span": {
-                        "start": 303394,
-                        "end": 304410
+                        "start": 301624,
+                        "end": 302634
                       }
                     },
                     {
@@ -572,8 +572,8 @@
                         "vi": "7) Lục đề xiển minh."
                       },
                       "span": {
-                        "start": 304410,
-                        "end": 304743
+                        "start": 302634,
+                        "end": 302964
                       }
                     },
                     {
@@ -581,17 +581,17 @@
                         "vi": "8) Thất đề xiển minh."
                       },
                       "span": {
-                        "start": 304743,
-                        "end": 305139
+                        "start": 302964,
+                        "end": 303355
                       }
                     },
                     {
                       "title": {
-                        "vi": "9) Bát đề xiển minh."
+                        "vi": "9) Bát đề xiển minh."
                       },
                       "span": {
-                        "start": 305139,
-                        "end": 305647
+                        "start": 303355,
+                        "end": 303854
                       }
                     },
                     {
@@ -599,26 +599,26 @@
                         "vi": "10) Cửu đề xiển minh."
                       },
                       "span": {
-                        "start": 305647,
-                        "end": 306315
+                        "start": 303854,
+                        "end": 304514
                       }
                     },
                     {
                       "title": {
-                        "vi": "11) Thập đề xiển minh."
+                        "vi": "11) Thập đề xiển minh."
                       },
                       "span": {
-                        "start": 306315,
-                        "end": 307139
+                        "start": 304514,
+                        "end": 305330
                       }
                     },
                     {
                       "title": {
-                        "vi": "12) Thập nhứt đề xiển minh."
+                        "vi": "12) Thập nhứt đề xiển minh."
                       },
                       "span": {
-                        "start": 307139,
-                        "end": 307984
+                        "start": 305330,
+                        "end": 306160
                       }
                     }
                   ]
@@ -627,29 +627,29 @@
             },
             {
               "title": {
-                "vi": "Phần D. THIÊN TOÁT YẾU"
+                "vi": "Phần D. THIÊN TOÁT YẾU"
               },
               "span": {
-                "start": 307984,
-                "end": 427533
+                "start": 306160,
+                "end": 424292
               },
               "subsections": [
                 {
                   "title": {
-                    "vi": "I. TOÁT YẾU ĐẦU ĐỀ TAM (Tikamātikā)"
+                    "vi": "I. TOÁT YẾU ĐẦU ĐỀ TAM (Tikamātikā)"
                   },
                   "span": {
-                    "start": 307984,
-                    "end": 327414
+                    "start": 306160,
+                    "end": 325445
                   }
                 },
                 {
                   "title": {
-                    "vi": "II. TOÁT YẾU ĐẦU ĐỀ NHỊ (Dukamātikā)"
+                    "vi": "II. TOÁT YẾU ĐẦU ĐỀ NHỊ (Dukamātikā)"
                   },
                   "span": {
-                    "start": 327414,
-                    "end": 408440
+                    "start": 325445,
+                    "end": 405475
                   },
                   "subsections": [
                     {
@@ -657,8 +657,8 @@
                         "vi": "1) Phần chùm nhân (hetugocchaka)."
                       },
                       "span": {
-                        "start": 327414,
-                        "end": 337212
+                        "start": 325445,
+                        "end": 335087
                       }
                     },
                     {
@@ -666,17 +666,17 @@
                         "vi": "2) Phần nhị đề đỉnh (cūlantaraduka)."
                       },
                       "span": {
-                        "start": 337212,
-                        "end": 342306
+                        "start": 335087,
+                        "end": 340122
                       }
                     },
                     {
                       "title": {
-                        "vi": "3) Phần chùm lậu (asavagocchaka)."
+                        "vi": "3) Phần chùm lậu (asavagocchaka)."
                       },
                       "span": {
-                        "start": 342306,
-                        "end": 347044
+                        "start": 340122,
+                        "end": 344810
                       }
                     },
                     {
@@ -684,35 +684,35 @@
                         "vi": "4) Phần chùm triền (saññoyanagocchaka)."
                       },
                       "span": {
-                        "start": 347044,
-                        "end": 355496
+                        "start": 344810,
+                        "end": 353156
                       }
                     },
                     {
                       "title": {
-                        "vi": "5) Phần chùm phược (ganthagocchaka)."
+                        "vi": "5) Phần chùm phược (ganthagocchaka)."
                       },
                       "span": {
-                        "start": 355496,
-                        "end": 362486
+                        "start": 353156,
+                        "end": 360024
                       }
                     },
                     {
                       "title": {
-                        "vi": "6) Phần chùm bộc và chùm phối (oghagocchaka yogagocchaka)."
+                        "vi": "6) Phần chùm bộc và chùm phối (oghagocchaka yogagocchaka)."
                       },
                       "span": {
-                        "start": 362486,
-                        "end": 362588
+                        "start": 360024,
+                        "end": 360124
                       }
                     },
                     {
                       "title": {
-                        "vi": "7) Phần chùm cái (nivaranagocchaka)."
+                        "vi": "7) Phần chùm cái (nivaranagocchaka)."
                       },
                       "span": {
-                        "start": 362588,
-                        "end": 370178
+                        "start": 360124,
+                        "end": 367603
                       }
                     },
                     {
@@ -720,17 +720,17 @@
                         "vi": "8) Phần chùm khinh thị (parāmāsagocchaka)."
                       },
                       "span": {
-                        "start": 370178,
-                        "end": 372925
+                        "start": 367603,
+                        "end": 370326
                       }
                     },
                     {
                       "title": {
-                        "vi": "9) Phần nhị đề đại (mahantara duka)."
+                        "vi": "9) Phần nhị đề đại (mahantara duka)."
                       },
                       "span": {
-                        "start": 372925,
-                        "end": 378338
+                        "start": 370326,
+                        "end": 375667
                       }
                     },
                     {
@@ -738,48 +738,48 @@
                         "vi": "10) Phần chùm thủ (upadana gocchaka)."
                       },
                       "span": {
-                        "start": 378338,
-                        "end": 383571
+                        "start": 375667,
+                        "end": 380863
                       }
                     },
                     {
                       "title": {
-                        "vi": "11) Phần chùm phiền não (kilesagocchaka)."
+                        "vi": "11) Phần chùm phiền não (kilesagocchaka)."
                       },
                       "span": {
-                        "start": 383571,
-                        "end": 396437
+                        "start": 380863,
+                        "end": 393580
                       }
                     },
                     {
                       "title": {
-                        "vi": "12) Phần yêu bối (pitthiduka)."
+                        "vi": "12) Phần yêu bối (pitthiduka)."
                       },
                       "span": {
-                        "start": 396437,
-                        "end": 408440
+                        "start": 393580,
+                        "end": 405475
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "vi": "III. TOÁT YẾU NHỊ ĐỀ KINH (Suttantamātikā)"
+                    "vi": "III. TOÁT YẾU NHỊ ĐỀ KINH (Suttantamātikā)"
                   },
                   "span": {
-                    "start": 408440,
-                    "end": 427533
+                    "start": 405475,
+                    "end": 424292
                   }
                 }
               ]
             },
             {
               "title": {
-                "vi": "Phần E. THIÊN TRÍCH YẾU ĐẦU ĐỀ TAM VÀ ĐẦU ĐỀ NHỊ"
+                "vi": "Phần E. THIÊN TRÍCH YẾU ĐẦU ĐỀ TAM VÀ ĐẦU ĐỀ NHỊ"
               },
               "span": {
-                "start": 427533,
-                "end": 485607
+                "start": 424292,
+                "end": 481758
               },
               "subsections": [
                 {
@@ -787,17 +787,17 @@
                     "vi": "I. ĐẦU ĐỀ TAM"
                   },
                   "span": {
-                    "start": 427533,
-                    "end": 443187
+                    "start": 424292,
+                    "end": 439790
                   }
                 },
                 {
                   "title": {
-                    "vi": "II. ĐẦU ĐỀ NHỊ"
+                    "vi": "II. ĐẦU ĐỀ NHỊ"
                   },
                   "span": {
-                    "start": 443187,
-                    "end": 485607
+                    "start": 439790,
+                    "end": 481758
                   },
                   "subsections": [
                     {
@@ -805,8 +805,8 @@
                         "vi": "1) Phần tụ nhân."
                       },
                       "span": {
-                        "start": 443187,
-                        "end": 447146
+                        "start": 439790,
+                        "end": 443712
                       }
                     },
                     {
@@ -814,17 +814,17 @@
                         "vi": "2) Phần nhị đề đỉnh (cūlantara duka)."
                       },
                       "span": {
-                        "start": 447146,
-                        "end": 449287
+                        "start": 443712,
+                        "end": 445829
                       }
                     },
                     {
                       "title": {
-                        "vi": "3) Phần chùm lậu (ogha gocchaka)."
+                        "vi": "3) Phần chùm lậu (ogha gocchaka)."
                       },
                       "span": {
-                        "start": 449287,
-                        "end": 452053
+                        "start": 445829,
+                        "end": 448569
                       }
                     },
                     {
@@ -832,26 +832,26 @@
                         "vi": "4) Phần chùm triền (saṃyojanagocchaka)."
                       },
                       "span": {
-                        "start": 452053,
-                        "end": 455153
+                        "start": 448569,
+                        "end": 451645
                       }
                     },
                     {
                       "title": {
-                        "vi": "5) Phần chùm phược (gantha gocchaka)."
+                        "vi": "5) Phần chùm phược (gantha gocchaka)."
                       },
                       "span": {
-                        "start": 455153,
-                        "end": 458457
+                        "start": 451645,
+                        "end": 454904
                       }
                     },
                     {
                       "title": {
-                        "vi": "6) Phần chùm cái (nīvaraṇagocchaka)."
+                        "vi": "6) Phần chùm cái (nīvaraṇagocchaka)."
                       },
                       "span": {
-                        "start": 458457,
-                        "end": 461195
+                        "start": 454904,
+                        "end": 457619
                       }
                     },
                     {
@@ -859,17 +859,17 @@
                         "vi": "7) Phần chùm khinh thị (paramasa gocchaka)."
                       },
                       "span": {
-                        "start": 461195,
-                        "end": 463684
+                        "start": 457619,
+                        "end": 460088
                       }
                     },
                     {
                       "title": {
-                        "vi": "8) Phần nhị đề đại (mahantaraduka)."
+                        "vi": "8) Phần nhị đề đại (mahantaraduka)."
                       },
                       "span": {
-                        "start": 463684,
-                        "end": 468612
+                        "start": 460088,
+                        "end": 464928
                       }
                     },
                     {
@@ -877,26 +877,26 @@
                         "vi": "9) Phần chùm thủ (upādinna gocchaka)."
                       },
                       "span": {
-                        "start": 468612,
-                        "end": 471516
+                        "start": 464928,
+                        "end": 467809
                       }
                     },
                     {
                       "title": {
-                        "vi": "10) Phần chùm phiền não (kilesagocchaka)."
+                        "vi": "10) Phần chùm phiền não (kilesagocchaka)."
                       },
                       "span": {
-                        "start": 471516,
-                        "end": 475246
+                        "start": 467809,
+                        "end": 471485
                       }
                     },
                     {
                       "title": {
-                        "vi": "11) Phần yêu bối (pitthi duka)."
+                        "vi": "11) Phần yêu bối (pitthi duka)."
                       },
                       "span": {
-                        "start": 475246,
-                        "end": 485607
+                        "start": 471485,
+                        "end": 481758
                       }
                     }
                   ]

@@ -1,0 +1,22 @@
+---
+title: "Bộ Nguyên Chất Ngữ"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-3.md
+translation_of: Us3yilUt8Q4I8m3JuCOhk
+category_id: MZUUxphQ0yFwLBon3Vng8
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ ba: Bộ Nguyên Chất Ngữ, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1974); NXB Tôn Giáo 2012"
+coverage: complete
+use: "reference only, for checking AI translations; not for hosting or upload (in copyright)"
+alignment: "block-aligned to 1-SOURCES/Text/pi-3.md through the Thai Royal edition (same paragraph numbers): each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Vietnamese-only headings open the next block as bold lines"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://archive.org/details/34-abhi-bo-nguyen-chat-ngu-va-nhan-che-dinh
+source_description: "archive.org item 34-abhi-bo-nguyen-chat-ngu-va-nhan-che-dinh, file '34-Abhi-Bo-Nguyen-Chat-Ngu-va-Nhan-Che-Dinh.pdf' (Word export, July 2015; one volume with the Dhātukathā and the Puggalapaññatti); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 6), running headers and decorative separators removed; translator footnotes removed (the raw copy 0-INBOX/raw-data/vi-3-tinh_su-raw.md keeps them); split syllables re-joined; bullet glyphs rendered as list items; titles ^0 and ^3-0 taken from the title page; chapter titles printed on two lines ('PHẦN I' / 'XIỂN MINH …') joined; paragraph numbers 1 to 515 complete; the volume's second book (Puggalapaññatti) is vi-4.]"
+verse_id_format: book-verse
+---

@@ -19,7 +19,7 @@ M = json.load(open(map_path, encoding="utf-8"))["mapping"]
 
 
 def qp(t):
-    return len(re.findall(r"\bkatam", t.lower())) if book in "1234" else t.count("?")
+    return len(re.findall(r"\bkatam", t.lower())) if book in ("1", "2", "4") else t.count("?")
 
 
 n = ok = stacked = 0

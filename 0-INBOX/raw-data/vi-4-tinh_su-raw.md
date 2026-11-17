@@ -1,0 +1,1024 @@
+---
+title: "Bộ Nhân Chế Định"
+language: Vietnamese
+script: Latin
+file_type: translation
+lang_tag: vi
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-4.md
+translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
+translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ tư: Bộ Nhân Chế Định, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1975); NXB Tôn Giáo 2012"
+coverage: complete
+alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/vi-4-tinh_su.md)"
+status: draft
+copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
+license: copyrighted
+source: https://archive.org/details/34-abhi-bo-nguyen-chat-ngu-va-nhan-che-dinh
+source_description: "archive.org item 34-abhi-bo-nguyen-chat-ngu-va-nhan-che-dinh, file '34-Abhi-Bo-Nguyen-Chat-Ngu-va-Nhan-Che-Dinh.pdf' (Word export, July 2015; one volume with the Dhātukathā and the Puggalapaññatti); downloaded 2026-11-13. Text extracted with pypdf. [Ed: title page and table of contents (PDF pages 1 to 6), running headers and decorative separators removed; translator footnotes kept as printed; split syllables re-joined; bullet glyphs rendered as list items; titles ^0 and ^4-0 taken from the title page; the niddesa titles 'Xiển minh phần tam' and their subtitles ('Tam chủng nhân') joined; paragraph numbers 1 to 152 complete (numbering restarts after the Dhātukathā; the volume's first book is vi-3).]"
+verse_id_format: book-verse
+---
+
+CUNG KỈNH ĐẾN ĐỨC THẾ TÔN, ỨNG CÚNG, CHÁNH BIẾN TRI
+
+---
+
+#### PHẦN XIỂN THUẬT
+
+1. Lục chế định như là: Uẩn chế định, xứ chế định, giới chế định, đế chế định, quyền chế định, nhân chế định.
+
+#### Uẩn chế định
+
+2. Uẩn chế định chừng bao nhiêu? Lối năm u ẩn như là : Sắc uẩn, thọ uẩn, tư ởng u ẩn, hành uẩn và thức uẩn. Uẩn chế định chỉ có bao nhiêu như thế.
+
+#### Xứ (nhập) chế định
+
+3. Xứ (nhập) chế định chừng bao nhiêu? Lối thập nhị xứ (nhập) như là: Nhãn xứ, sắc xứ, nhĩ xứ, thinh xứ, tỷ xứ, khí xứ, thiệt xứ, vị xứ, thân xứ, xúc xứ, ý xứ và pháp xứ. Xứ chế định chỉ có bao nhiêu như thế.
+
+#### Giới chế định
+
+4. Giới chế định chừng bao nhiêu? Lối thập bát giới như là: Nhãn gi ới, sắc giới, nhãn thức giới, nhĩ giới, thinh giới, nhĩ thức giới, tỷ giới, khí giới, tỷ thức giới, thiệt giới, vị giới, thiệt thức giới, thân gi ới, xúc giới, thân thức giới, ý gi ới, pháp giới, ý thức giới. Giới chế định chỉ có bao nhiêu như thế.
+
+#### Đế chế định
+
+5. Đế chế định chừng bao nhiêu? Lối bốn đế như là: Khổ đế, tập đế, diệt đế và đạo đế. Đế chế định chỉ có bao nhiêu như thế.
+
+#### Quyền (căn) chế định
+
+6. Quyền (căn) chế định chừng bao nhiêu? Lối nhị thập nhị quyền (căn) như là: Nhãn quyền, nhĩ quy ền, tỷ quyền, thiệt quyền, thân quy ền, ý quyền, nữ quyền, nam quy ền, mạng quy ền, lạc quyền, khổ quyền, hỷ quyền, ưu quy ền, xả quyền, tín quy ền, cần
+
+quyền, niệm quyền, tịnh quyền, tuệ quyền, tri vị tri quyền, tri dĩ tri quy ền, tri cụ tri quyền. Quyền (căn) chế định chỉ có bao nhiêu như thế.
+
+Nhân chế định Nhân chế định chừng bao nhiêu? Đầu đề phần nhất
+
+7. Người thời giải thoát. Người bất thời giải thoát, người di động pháp, người bất di động pháp, người có pháp suy đồi, người có pháp không suy đồi, người thích hợp tư, người ưng hộ trợ, người phải chăm nom, người phàm nhơn, người biến chuyển, người chừa bỏ do sợ, người bất chừa bỏ do sợ, người đáng đắc chứng, người không đáng đắc chứng, người nhứt định, người bất định, người tiến hành, người đình trụ bậc quả, người lậu mạng đồng tận, người đắc khi kiếp hoại lửa, người thánh, người phi thánh, người hữu học, người vô học, người phi hữu học phi vô học, người tam minh, người lục thông, người Toàn giác, người Độc giác, người cù giải thoát, người tuệ giải thoát, người thân chứng, người kiến chí, người tín giải, người tùy pháp hành, người tín hành, người thất du, người lục du, người nhứt lai, người bất lai, người trung bang bất huờn, người sanh bang bất huờn, người vô hành bang bất huờn, người hữu hành bang bất huờn, người thượng lưu bang bất huờn, người dự lưu, người tiến hành đến dự lưu quả, người nhất lai, người tiến hành đến quả nhất lai, người bất lai, người tiến hành đến quả bất lai, người la hán, người tiến hành đến quả La hán.
+
+Dứt Đầu đề phần nhất
+
+#### Đầu đề phần nhị
+
+8. Nhị chủng nhân:
+
+- Người sân và người buộc sân.
+- Người vong ân và người ỷ bằng.
+- Người ganh tỵ và người bỏn xẻn.
+- Người khoe khoang và người phách lối.
+- Người vô tàm và người vô úy.
+- Người nan giáo và người có bạn xấu.
+- Người thu thúc lục môn quyền và người tri độ thực.
+- Người thất niệm và người thất trí.
+- Người giới lụy và người kiến lụy.
+- Người nội triền và người ngoại triền.
+- Người không hay sân và người không buộc sân.
+- Người không quên ơn và người không chê trách.
+- Người không ganh tỵ và người không bỏn xẻn.
+- Người không khoe khoang và người không xảo trá.
+- Người hữu tàm và người hữu úy.
+- Người dễ dạy và người có bạn tốt.
+- Người thu thúc môn quyền và người tri độ thực.
+- Người có chánh niệm vững vàng và người có lương tri.
+- Người giới bị và người kiến bị.
+- Hai hạng người khó kiếm.
+- Hai hạng người khó no.
+- Hai hạng người dễ no.
+- Hai hạng người tăng tiến lậu.
+- Hai hạng người bất tăng tiến lậu.
+- Người tánh nết hư hèn và người tánh nết chính chắn.
+- Người no đủ và người làm cho kẻ khác no.
+
+Dứt Đầu đề phần nhị
+
+#### Đầu đề phần tam
+
+9. Tam chủng nhân:
+
+- Người tuyệt vọng, người có hy vọng, người xa lìa hy vọng.
+- Ba hạng người như kẻ bệnh hoạn.
+- Người thân chứng, người kiến chí, người tín giải.
+- Người nói như phẫn, người nói như bông, người nói như mắt.
+- Người có tâm như ghẻ kinh niên, người có tâm như điển chớp, người có tâm như lô i sấm.
+- Người mù, người một mắt, người lưỡng nhãn.
+- Người như nồi úp, người có trí như gươm, người đa trí.
+- Người chưa dứt dục ái hữu ái, người hết dục ái mà còn hữu ái, người dứt dục ái luôn hữu ái.
+- Người như lằn gạch trong đá, người như lằn gạch dưới đất, n gười như lằn gạch mặt nước.
+- Ba hạng người như vải bố.
+- Ba hạng người như vải tơ.
+- Người dễ độ lượng, người khó độ lượng, người đo lường không đặng.
+- Người không nên gặp gỡ, gần gũi, hội hợp.
+- Người nên gặp gỡ, gần gũi, hội họp.
+- Người đáng tặng lễ lộc, cung kỉnh, gần gũi.
+- Người đáng ghét, không nên cung kỉnh, không đáng gặp.
+- Người đáng lơ là bỏ qua không nên hội hiệp, không nên gặp, không nên gần.
+- Người nên gặp gỡ, gần gũi, hội hiệp.
+- Người có bực đủ giới, người có bực thích hợp tu tịnh, người có bực trí huệ thíc h hợp.
+- Người thường làm cho giới tịnh hằng đầy, tuệ vừa thích hợp.
+- Người thường làm cho giới, tịnh, tuệ đầy đủ. Giáo chủ có ba hạng. Giáo chủ có ba hạng bằng cách khác nữa.
+
+Dứt Đầu đề phần tam
+
+#### Đầu đề phần tứ
+
+10. Tứ chủng nhân:
+
+- Người phi hiền triết, ngườ i phi hiền triết rất phi hiền triết, người bực hiền triết, người hiền triết trên hiền triết.
+- Người cấu uế, người rất cấu uế hơn cấu uế, người tốt, người rất tốt.
+- Người có pháp ô trược, người có pháp rất ô trược, người có pháp đẹp, người có pháp rất đẹp.
+- Người có chức phận, người có nhiều chức phận, người có ít chức phận, người không có chức phận.
+- Người tỏ ngộ bằng đầu đề, người rành phân ngạn ngữ, người đáng tiếp độ, người đa ngôn.
+- Người biện bác trúng nhưng không nhậm lẹ, người biện bác nhậm lẹ nhưng không trúng, người biện bác trúng và mau lẹ, người biện bác không trúng và không mau lẹ.
+- Tứ chủng pháp sư , bốn hạng người như mây mưa , bốn hạng người như chuột. Người như xoài có bốn, người như nồi có bốn, người như bò cổ có bốn, người như rắn độc có bốn.
+- Người không ưa không thích mà khen ngợi cách không đáng khen ngợi , người không ưa không thích chê bai người đáng khen ngợi , người không ưa không thích có sự tôn trọng địa vị không đáng tôn trọng , người đã không ưa không thích không tôn trọng địa vị đáng tôn trọng.
+- Người ưa mến khen ngợi cách đáng khen ngợi , người ưa thích không chê bai người đáng khen ngợi, người ưa thích có sự tôn trọng địa vị không đáng tôn trọng , người ưa thích và tôn trọng địa vị đáng tôn trọng.
+- Người chê đúng hợp thời mà không khen chỗ đáng khen, người khen đúng hợp thời nhưng không chê chỗ đáng chê , người chê đúng hợp thời và khen đúng hợp thời , người không chê hợp thời và không khen hợp thời.
+- Người sống với ảnh hưởng của sự siêng năng chẳng phải sống với quả phúc , người sống với quả phúc c hẳng phải sống với ảnh hưởng của sự siêng năng , người sống với ảnh hưởng của sự siêng năng và sống với quả phúc , người chẳng phải sống với ảnh hưởng của sự siêng năng luôn chẳng phải sống với quả phúc.
+- Người từ nơi tối đi đến tối , người từ nơi tối đi đến sáng, người từ nơi sáng đi đến tối, người từ nơi sáng đi đến sáng.
+- Người từ nơi thấp đi đến thấp , người từ nơi thấp đi đến cao, người từ nơi cao đi đến thấp, người từ nơi cao đi đến cao.
+- Người tỷ như cây có bốn.
+- Người chấp nội trong hình sắc quí trọng theo hình sắc, người chấp theo thinh quí trọng theo thinh , người chấp theo phiền muộn quan trọng theo phiền muộn , người chấp cảnh pháp quan trọng theo cảnh pháp.
+- Người hành tự lợi vô lợi tha , người hành lợi tha vô tự lợi , người hành tự tha lưỡng lợi, người bất hành tự tha lưỡng lợi.
+- Người tự làm cho nóng nảy càng tìm sự liên hệ nóng nảy , người làm cho kẻ khác nóng nảy quá tìm tòi sự liên quan làm cho kẻ khác nóng nảy, người tự làm cho nóng nảy quá tìm sự liên quan nóng nảy và làm cho người khác nóng nảy quá tìm sự liên quan cho người khác nóng nảy , người không làm cho tự ta nóng nảy không quá tìm tòi sự liên quan cho ta nóng nảy và không làm cho người khác nóng nảy cũng không
+
+quá tìm tòi sự liên quan làm cho người khác nóng nảy , thành người hết đói khát, người tắt rồi, thành người mát mẻ hưởng vui đặc biệt hẳn thành tự oai nghi hiện đại.
+
+- Người có ái dục, người có sân, người có si, người có ngã mạn.
+- Người đặng phần tịnh mà không đặng huệ trưởng , người có tuệ trưởng tỏ ngộ pháp nhưng không có thiền chỉ , người đắc phần thiền chỉ cao và đắc trí trưởng tỏ ngộ , người không đắc tịnh tuệ và không có tuệ trưởng.
+- Người thuận lưu, người nghịch lưu, người đã tự lập, người qua đến bờ Phạm chí.
+- Người ít nghe không đặng lợi ích do nghe , người ít nghe nhưng đặng lợi ích do nghe, người đa văn nhưng không đặng lợi ích do nghe , người đa văn và đặng lợi ích do nghe.
+- Sa môn không lay động. Sa môn như sen bá biện. Sa môn như bạch liên. Sa môn như Ma vương trong chúng.
+
+Dứt Đầu đề phần tứ
+
+#### Đầu đề phần ngũ
+
+11. Ngũ chủng nhân:
+
+- Người phạm tội nóng nảy luôn chẳng biết sự tu tịnh và tu tuệ hầu trừ pháp bất thiện cấu uế phát sanh cho người ấy. Người phạm tội mà không nóng nảy luôn không hiểu tu tịnh tu tuệ là cơ quan diệt trừ pháp bất thiện nhơ bẩn mà phát sanh cho người ấy. Người không phạm tội nhưng nóng nảy luôn không hiểu tu tịnh tu tuệ là cơ quan diệt trừ hết pháp bất thiện cấu uế mà phát sanh cho người ấy. Người không phạm tội không nóng nảy, nhưng không hiểu tu tịnh hay tu tuệ là cơ quan diệt trừ hết pháp bất thiện cấu uế mà phát sanh cho người ấy. Người không phạm tội không nóng nảy, biết tu tịnh hay tu tuệ là cơ quan diệt trừ hết pháp bất thiện cấu uế mà phát sanh cho người ấy.
+- Người cho rồi coi rẻ, người khi dễ kẻ ở chung, người dễ tin, người hoài nghi, người khờ khạo ngơ ngáo.
+- Người như chiến sĩ có năm bực.
+- Phíc-khú thường trì bình có năm bực.
+- Phíc-khú ngăn vật thực khi ngồi rồi có năm bực.
+- Phíc-khú thọ trì thường ngồi một nơi có năm bực.
+- Phíc-khú thọ trì mặc y vải bó ma có năm bực.
+- Phíc-khú bậc trì tam y có năm bực.
+- Phíc-khú thọ trì thường ở rừng có năm bực.
+- Phíc-khú thọ trì thường ngồi bóng cây có năm bực.
+- Phíc-khú thọ trì lộ địa tọa có năm bực.
+- Phíc-khú thọ trì thường ngồi có năm bực.
+- Phíc-khú thọ trì chỗ tọa ngọa tự sắp có năm bực.
+- Phíc-khú thọ trì trủng gian tọa có năm bực.
+
+Dứt Đầu đề phần ngũ
+
+#### Đầu đề phần lục
+
+12. Lục chủng nhân:
+
+- Bực tự tỏ ngộ chư đế toàn tri nhất thế pháp, khỏi nghe trước đều đầy đủ sức chuyên môn hiểu rõ tất cả pháp.
+- Bực tự tỏ ngộ chư đế không cần nghe trước, nhưng không đắc toàn tri nhất thế pháp và không đầy đủ sức chuyên môn hiểu rõ tất cả pháp.
+- Bực không đặng tự tỏ ngộ chư đế trong tất cả pháp mà có thể làm cho tuyệt khổ hiện đại và nương nhân Thinh văn độ.
+- Bực không đặng tự tỏ ngộ chư đế trong tất cả pháp mà khỏi nghe nhưng đặng làm cho tuyệt khổ hiện đại và chẳng phải nương nhân Thinh văn độ.
+- Bực không đặng tự tỏ ngộ chư đế trong tất cả pháp mà không đặng nghe trước và không làm cho tuyệt khổ hiện đời này như bậc Bất lai đó vậy.
+- Bực không đặng tự tỏ ngộ chư đế trong tất cả pháp mà khỏi nghe trước, luôn chẳng làm cho tuyệt khổ hiện đại như Thất lai và Nhất lai đó đâu.
+
+Dứt Đầu đề phần lục
+
+#### Đầu đề phần thất
+
+13. Thất chủng nhân: Bảy hạng người như kẻ lặn nước : người lặn xuống một lần chìm luôn , người trồi lên rồi lặn xuống nữa, người trồi lên rồi dừng nghỉ, người trồi lên rồi xoay dòm ngó, người trồi lên rồi lội qua , người trồi lên rồi lội đến chỗ cạn vừa đứng , người trồi lên rồi lội đến bờ đứng trên khô sạch sẽ. Người cù giải thoát; người tuệ giải thoát; người thân chứng; người kiên chí; người tín giải thoát; người tùy pháp hành; người tùy tín hành.
+
+Dứt Đầu đề phần thất
+
+#### Đầu đề phần bát
+
+14. Bát chủng nhân: bốn bực đạo, bốn bực quả
+
+Dứt Đầu đề phần bát
+
+#### Đầu đề phần cửu
+
+15. Cửu chủng nhân: Bực Toàn giác, bực Độc giác, người cù giải thoát, người tuệ giải thoát, người thân chứng, người kiến đắc, người tín giải, người tùy pháp hành, người tùy tín hành.
+
+Dứt Đầu đề phần cửu
+
+#### Đầu đề phần thập
+
+16. Thập chủng nhân: năm bực thánh đắc chứng tại Dục giới và năm bực thánh khỏi Dục giới mới đắc chứng.
+
+Dứt Đầu đề phần thập
+
+Dứt Đầu đề nhơn chế định
+
+#### PHẦN XIỂN MINH
+
+#### Xiển minh phần nhất
+
+17. Người bực thời giải thoát ra sao? Có người trong đời này chạm bát giải thoát bằng thân khi trúng trong thời, lúc hợp trong thuở, đã thành tựu oai nghi. Một nữa, lậu của người ấy có phần dứt tuyệt do tuệ thấy. Như thế gọi là người bực thời giải thoát.
+
+18. Người bực bất thời giải thoát ra sao? Có người trong đời này không chạm bát giải thoát bằng thân, chẳng phải khi trúng trong thời, lúc hợp trong thuở, nhưng thành tựu oai nghi. Một nữa, lậu có phần dứt tuyệt do tuệ thấy. Như thế gọi là người bực bất thời giải thoát.
+
+19. Người di động pháp ra sao? Có người trong đời này đắc thiền hỗn hợp sắc giới, hoặc hỗn hợp vô sắc giới khó chẳng dễ như ý muốn, nhập thiền nào chỗ nào bao lâu chẳng theo ý định. Điều ấy chính do địa vị tiến hành thời những thiền đó sẽ di động bởi người ấy dể duôi. Như thế gọi là người di động pháp.
+
+20. Người bất di động pháp ra sao? Có người trong đời này là người đắc thiền hỗn hợp sắc giới và hỗn hợp vô sắc giới , nhưng người đó đắc theo ý muốn không khó khăn sẽ muốn nhập xuất thiền nào nơi nào bao lâu tùy ý. Điều này không phải căn cứ nhân dịp dể duôi của người ấy. Như thế gọi là người bất di động pháp. Chư thánh dĩ nhiên không di động sự giải thoát của bực Thánh.
+
+21. Người có pháp suy đồi ra sao? Có người trong đời này là người đắc thiền hỗn hợp sắc giới hoặc hỗn hợp vô sắc giới , khó chẳng dễ như ý muốn, nhập thiền nào chỗ nào bao lâu chẳng theo ý định. Điều ấy chính do địa vị mà người ấy lìa những thiền đó do sự dể duôi của người ấy. Như thế gọi là người có pháp suy đồi.
+
+22. Người có pháp không suy đồi ra sao? Có người trong đời này là người đắc thiền hỗn hợp sắc giới hoặc hỗn hợp vô sắc giới , nhưng người đó đắc theo ý muốn không khó khăn, sẽ muốn nhập xuất thiền nào nơi nào bao lâu tùy ý. Điều này không do nhân dịp địa vị dể duôi của người ấy mà hoại lìa những thiền đó. Như thế gọi là người có pháp không suy đồi. Chư thánh dĩ nhiên không suy đồi sự giải thoát của bực Thánh.
+
+23. Người thích hợp tư ra sao? Có người trong đời này đắc thiền hỗn hợp sắc giới hoặc đắc thiền hỗn hợp vô sắc giới khó chẳng dễ như ý muốn, nhập thiền nào chỗ nào bao lâu chẳng theo ý định. Nếu để ý thời những thiền đó không hoại. Nếu không để ý thời những thiền đó hoại. Như thế gọi là người thích hợp tư.
+
+24. Người ưng hộ trợ ra sao? Có người trong đời này đắc thiền hỗn hợp sắc giới hoặc hỗn hợp vô sắc giới khó chẳng dễ như ý muốn, nhập thiền nào chỗ nào bao lâu không theo ý định. Nếu để ý thời những thiền đó không hoại, nếu không để ý thời những thiền đó hoại. Như thế gọi là người ưng hộ trợ.
+
+25. Người phàm phu ra sao? Kẻ nào không trừ tam triền và không hành để trừ những pháp ấy. Như thế gọi là người phàm phu.
+
+26. Người biến chuyển ra sao? Bực thứ lớp đến pháp thánh mà người có hiệp với những pháp đó, như thế gọi là người biến chuyển.
+
+27. Người chừa bỏ do sợ ra sao? Bảy bực thánh hữu học và phàm phu có giới đức, đều gọi là người chừa bỏ do sợ. Còn chư La-hán không gọi người chừa bỏ do sợ.
+
+28. Người không đáng đắc chứng ra sao? Người có oan nghiệp, có phiền não oan trái, có quả oan trái, bất tín, không mộ, trí thiể n, khờ khạo, người không thể vào khuôn khổ chư pháp thiện. Như thế gọi là người không đáng đắc chứng.
+
+29. Người đáng đắc chứng ra sao? Người không có nghiệp oan trái, không có hiệp với phiền não oan trái, có đức tin, ngưỡng mộ, có trí, không khờ khạo, người có thể vào khuôn khổ chư pháp thiện. Như thế gọi là người đáng đắc chứng.
+
+30. Người nhất định ra sao? Người tạo ngũ nghịch vô gián với người tà kiến nhất định và tám bực thánh nhất định. Gọi là người nhất định. Còn ngoài ra đều gọi là người bất định.
+
+31. Người tiến hành ra sao? Bực tề toàn trong bốn đạo gọi là người tiến hành. Còn bực tề toàn trong bốn quả gọi là người đang ở trong quả.
+
+32. Người lậu mạng đồng tận ra sao? Tận lậu và tận mạng không trước không sau, không xa cách lâu. Như thế gọi là người lậu mạng đồng tận.
+
+33. Người đắc khi kiếp hoại lửa ra sao? Người tiến hành để đến sơ quả và khi kiếp lửa vừa sẽ có. Kiếp hoại lửa chưa sắp cháy lúc nào thì người ấy chưa đặng tỏ ngộ lúc ấy. Như thế gọi là người đắc khi kiếp hoại lửa. Còn những bực tề toàn tất cả đạo gọi là người đã đình trụ.
+
+34. Người Thánh ra sao? Tám bực thánh gọi là người Thánh. Những người ngoài ra gọi là người phi Thánh.
+
+35. Người hữu học ra sao? Bực tề toàn bốn đạo và ba quả thấp gọi là người hữu học. Bực A La-hán gọi là người vô học Còn những người ngoài ra gọi là người phi hữu học phi vô học.
+
+36. Người tam minh ra sao? Bực hiệp với tam minh gọi là người tam minh.
+
+37. Người lục thông ra sao? Bực đáo hiệp lục thông gọi là người lục thông.
+
+38. Người Toàn giác ra sao? Có bực trong đời này chứng cao tột, hiểu cả pháp, ngộ chư đế, khỏi nghe trước, đắc nhứt thế chủng trí đủ sức chuyên môn biết tất cả pháp. Như thế gọi là người Toàn giác.
+
+39. Người Độc giác ra sao? Có bực trong đời này chứng cao tột hiểu cả pháp ngộ chư đế, khỏi nghe trước, nhưng không đắc nhứt thế chủng trí. Chẳng đủ sức chuyên môn biết tất cả pháp. Như thế gọi là người Độc giác.
+
+40. Người cù giải thoát ra sao? Có người trong đời này bát giải thoát chạm đến mình liền thành tựu oai nghi luôn tận tất cả lậu do tuệ tỏ ngộ. Như thế gọi là người cù giải thoát.
+
+41. Người tuệ giải thoát ra sao? Có người trong đời này không đặng tự chạm bát giải thoát, mà thành tựu oai nghi. Nhưng người ấy cũng tận lậu bằng tuệ. Như thế gọi là người giải thoát bằng tuệ.
+
+42. Người thân tác chứng ra sao? Có người trong đời này bát giải thoát chạm đến thân rồi thành tựu oai nghi, luôn tuyệt lậu phần nào do tỏ ngộ bằng trí. Như thế gọi là người thân tác chứng.
+
+43. Người kiến chí ra sao? Có người trong đời này vẫn biết rõ chắc thật đây là khổ, đây là nhân khổ, đây là diệt khổ, đây là tiến hành đến diệt khổ. Một nữa , tất cả pháp Như Lai truyền bá thời người ấy nhận thấy rõ khéo tiến hành bằng tuệ. Một nữa, người ấy diệt tận lậu phần nào do tuệ tỏ ngộ. Như thế gọi là người kiến chí.
+
+44. Người tín giải ra sao? Có người trong đời này vẫn biết rõ chắc đây là khổ, biết thật đây là nhân sanh khổ, rõ chắc đây là diệt khổ, biết thật đây là tiến hành đến diệt khổ. Một nữa, tất cả pháp Như Lai truyền bá người ấy nhận hiểu rõ tiến hành bằng tuệ. Một nữa, người ấy tuyệt dứt lậu phần nào do tuệ tỏ ngộ. Nhưng chẳng phải như người kiến chí. Như thế gọi là người tín giải.
+
+45. Người tùy pháp hành ra sao? Tuệ quyền của người nào là bực tiến hành hầu đến Dự lưu, người ấy vẫn trau dồi Thánh đạo tột độ có trí trưởng, tuệ dẫn dắt phát sanh. Như thế gọi là người tùy pháp hành. Người tiến hành hầu tỏ ngộ đến sơ đạo gọi là người tùy pháp hành. Còn người đang trụ bực quả, gọi là người kiến chí.
+
+46. Người tùy tín hành ra sao? Tín quyền của người nào là bực tiến hành hầu tỏ ngộ chứng quả Dự lưu, người ấy trau dồi Thánh đạo tột có tín trưởng, tín dẫn dắt phát sanh. Như thế gọi là người tùy tín hành. Người tu tiến hầu đến quả Dự lưu gọi là người tùy tín hành. Còn người đang trụ quả Dự lưu gọi là người tín giải.
+
+47. Người thất du ra sao? Có người trong đời này do tận tam triền, thành quả Dự lưu cố nhiên không sanh khổ thú, thành bực vững vàng sẽ đắc chứng sau này , người ấy dạo cõi chư Thiên và nhâ n loại bảy đời mới đặng dứt khổ. Như thế gọi là người thất du (sattakkhattuparama).
+
+48. Người nhị, tam du ra sao? Có người trong đời này do tận tam triền, thành tựu Dự lưu cố nhiên không sanh khổ thú, thành bực vững vàng sẽ thành tựu sau này , người đó còn dạo cõi vui Dục giới không quá hai, ba đời sẽ dứt tuyệt khổ. Như thế gọi là người nhị, tam du (kolaṅkola).
+
+49. Người Dự lưu Nhứt lai ra sao? Có người trong đời này do tận tam triền thành tựu Dự lưu, cố nhiên không sanh khổ thú, thành bực vững vàng, ngư ời đó còn sanh lại cõi nhân loại một lần nữa rồi làm cho tuyệt dứt khổ. Như thế gọi là người Dự lưu Nhứt lai (Ekabijī).
+
+50. Người Nhứt lai ra sao? Có người trong đời này do tận tam triền bởi làm cho tham ái, sân, si thành nhẹ nhàng, thành Tư-đà-hàm; còn trở lại cõi này chỉ một lần mà thôi rồi làm cho tuyệt dứt khổ. Như thế gọi là người Nhứt lai (Sakadāgāmī).
+
+51. Người Bất lai ra sao? Có người trong đời này do dứt năm triền thấp, còn hóa sanh hay sẽ viên tịch cõi chư Thiên tịnh cư, cố nhiên không trở lại cõi đang ở. Như thế gọi là người Bất lai (Anagami).
+
+52. Người Trung bang bất hườn ra sao? Có người trong đời này dứt hết năm triền thấp, còn hóa sanh sẽ viên tịch tại tịnh cư, nếu chưa cũng dĩ nhiên không trở lại cõi đó, vị ấy sẽ đắc đạo tột trừ hết năm triền cao trong khi quá nữa đời sống, hoặc lúc gần chết. Như thế gọi là người Trung bang bất hườn (Antarāparinibbāyī).
+
+53. Người Sanh bang bất hườn ra sao? Có người trong đời này dứt hết năm triền thấp, còn hóa sanh sẽ viên tịch tại tịnh cư, nếu chưa dĩ nhiên cũng không trở lại cõi đó, vị ấy sẽ đắc đạo tột trừ hết năm triền cao trong khi đổi đời rồi hoặc trước nữa kiếp sống. Như thế gọi là người Sanh bang bất hườn (Upahaccaparinibbāyī).
+
+54. Người Vô hành bang bất hườn ra sao? Có người trong đời này dứt hết năm triền thấp, còn hóa sanh rồi viên tịch cõi tịnh cư, cố nhiên không trở lại cõi đó , người ấy còn làm cho Thánh đạo sanh bằng cách không khó, đặng trừ năm triền cao. Như thế gọi là người Vô hành bang bất hườn (Asaṅkhāraparinibbāyī).
+
+55. Người Hữu hành bang bất hườn ra sao? Có người trong đời này do dứt hết năm triền thấp, còn hóa sanh rồi viên tịch cõi tịnh cư, cố nhiên không trở lại cõi đó, người ấy tiến hành Thánh đạo hầu trừ triền bực cao bằng cách khó. Như thế gọi là người Hữu hành bang bất hườn (Sasaṅkhāra-parinibbāyī).
+
+56. Người Thượng lưu bang bất hườn ra sao? Có người trong đời này do dứt hết năm triền thấp, còn hóa sanh rồi viên tịch nơi Tịnh cư, cố nhiên không trở lại cõi ấy . Bực đó tử biệt cõi Vô phiền sanh cõi Vô nhiệt, tử biệt cõi Vô nhiệt sanh cõi Thiện hiện, tử biệt cõi Thiện hiện sanh cõi Thiện kiến, tử biệt cõi Thiện kiến sanh cõi Sắc cứu cánh.
+
+Đắc Thánh đạo trừ triền bực cao nơi cõi Sắc cứu cánh . Như thế gọi là người Thượng lưu bang bất hườn (Uddhaṅsoto akanitthāgāmī).
+
+57. Người bực Dự lưu và người tiến hành đến quả Dự lưu ra sao? Người nào tiến hành bài trừ tam triền đắc sơ quả, người mà tuyệt trừ tam triền, gọi là người thành tựu Dự lưu. Người tiến hành để cho ái dục và sân độc nhẹ nhàng hầu chứng quả Nhứt lai do ái dục, sân độc của bực nào nhẹ nhàng. Như thế gọi là người Nhứt lai. Người tiến hành dứt hết ái dục và sân độc hầu đắc quả Bất lai , người nào do ái dục và sân độc dứt tuyệt; người ấy gọi là người Bất lai. Ai tiến hành đặng tuyệt ái dục sắc giới , ái dục vô sắc giới, ngã mạn, phóng dật2 và vô minh, chứng quả La-hán do dứt tuyệt ái dục sắc giới , ái dục vô sắc giới, ngã mạn, phóng dật, vô minh mới gọi là người ứng cúng.
+
+Dứt Xiển minh phần nhứt
+
+#### Xiển minh phần nhị
+
+58.
+
+- Người ưa sân ra sao? Điều kiện sân như thế nào? Như là sự giận, cách giận, thái độ giận, sự ác độc, cách ác độc, sự sân độc, cách sân độc, thái độ sân độc, phẫn nộ, giận cự lại, sự hung ác gọi là điều kiện sân; mà sự sân ấy người nào bỏ không được gọi là người ưa sân.
+- Người ưa buộc sân ra sao? Điều kiện buộc sân như thế nào? Ban đầu sân, sau mới có buộc sân. Sự buộc sân, cách buộc sân, thái độ buộc sân, sân không dứt, quyết để tâm sân, lưu tồn sân, chạy theo sân, ràng buộc theo sự sân. Các h nào làm cho sân càng mạnh mẽ gọi là điều kiện buộc sân. Sự buộc sân ai bỏ không được gọi là người buộc sân.
+
+59.
+
+- Người vong ân ra sao? Điều kiện vong ân như thế nào? Sự quên ơn, cách quên ơn, thái độ quên ơn, sự không thấy ơn của người khác, cách điệu làm không biết ơn người khác; như thế gọi là điều kiện vong ân. Sự vong ân mà ai bỏ không được gọi là người vong ân.
+- Người ỷ bằng ra sao? Điều kiện ỷ bằng như thế nào? Sự ỷ cho là bằng, thái độ ỷ cho là bằng, pháp thành vật thực của cách ỷ bằng, nền tảng của điêu tàn, cách của người chấp rằng đồng bằng như họ. Như thế gọi là điều kiện ỷ bằng. Sự ỷ bằng ai không bỏ đặng gọi là người ỷ bằng.
+
+60.
+
+- Người ganh tỵ ra sao? Điều kiện ganh tỵ như thế nào? Sự ganh tỵ, cách ganh tỵ, thái độ ganh tỵ, sự không ưa, cách không ưa, thái độ không ưa với lợi lộc, dưng cúng, cung kỉnh, tín ngưỡng, lễ bái, cúng dường nơi người khác. Như thế gọi là điều kiện ganh tỵ. Sự ganh tỵ ai không bỏ đặng nên gọi là người ganh tỵ.
+- Người bỏn xẻn ra sao? Điều kiện bỏn xẻn như thế nào? Sự bỏn xẻn có năm như là: Bỏn xẻn chỗ ở, bỏn xẻn thân tộc, bỏn xẻn lợi lộc, bỏn xẻ n sắc đẹp, bỏn xẻn pháp. Sự bỏn xẻn, cách bỏn xẻn, thái độ bỏn xẻn, mỗi sự ham, sự bón rít, cách keo kiết, tâm
+
+2 Phóng dật hay còn gọi là Điệu cử
+
+không rộng rãi, thế nào nay hiện bày rõ rệt, như thế gọi là điều kiện bỏn xẻn. Sự bỏn xẻn ai bỏ không được gọi là người bỏn xẻn.
+
+61.
+
+- Người khoe khoang ra sao? Điều kiện khoe khoang như thế nào? Có người trong đời này thành kẻ khoe khoang, sự khoe, cách khoe, thái độ khoe, sự cường ngạnh, cách cường ngạnh, thái độ cường ngạnh, sự nói nâng mình, cách nói nâng mình, thái độ nói nâng mình; như thế gọ i là điều kiện khoe khoang. Sự khoe khoang ai bỏ không đặng gọi là người khoe khoang.
+- Người xảo quyệt ra sao? Điều kiện xảo quyệt như thế nào? Có người trong đời này thân làm ác, khẩu làm ác, ý làm ác do che đậy ác đó mới lập chi ô uế muốn đừng cho ai biết mình, tính đừng cho ai biết mình, nói đừng cho ai biết mình, thân cố gắng làm cho đừng ai biết mình; có sự xảo quyệt, cách xảo quyệt, thái độ xảo quyệt, sự bày bố, sự gạt gẩm, sự phản phúc, sự gian mưu, sự làm cho mê hoặc, sự kết cấu, sự che ngăn sự sáng, sự khuất lấp, cách không làm cho dễ hiểu, cách không làm cho sẽ bày, cách che đậy hạnh ô trược thấy hiện đại gọi là điều kiện xảo quyệt. Xảo quyệt nầy ai không chừa bỏ đặng gọi là người xảo quyệt.
+
+62.
+
+- Người vô tàm ra sao? Điều kiện vô tàm như thế nào? Lẽ phải nào đáng thẹn mà không thẹn cho đến đỗi đầy dẫy tội ác, như thế gọi là điều kiện vô tàm, mà người hiệp với vô tàm thế gọi là người vô tàm.
+- Người vô úy ra sao? Điều kiện vô úy như thế nào? Sự vật lẽ thường đáng ghê sợ mà không ghê sợ cho đến dẫy đầy tội ác, như thế gọi là điều kiện vô úy. Kẻ đã hiệp với sự vô úy gọi là người vô úy.
+
+63.
+
+- Người nan giáo ra sao? Điều kiện nan giáo như thế nào? Sự khó dạy, cách khó dạy, thái độ khó dạy là người chấp theo sự đáng ghét, người ưa phản đối, không phổ tế, cách không phổ tế, sự không kỉnh, cách không nghe theo. Pháp hiện bày như đã nói gọi là điều kiện nan giáo. Kẻ có pháp nan giáo gọi là người nan giáo.
+- Người có bạn xấu ra sao? Điều kiện có bạn xấu như thế nào? Những kẻ không có đức tin, không có giới hạnh, thiếu học thành người rít bón, thiển trí, cách ở ăn đến nương trụ, cách sử dụng, cách gặp gỡ, lối tìm tòi, cách sùng tín và hội hiệp trung tín với những người như thế là điều kiện có bạn xấu , người hiệp với cách có bạn xấu gọi là người có bạn xấu.
+
+64.
+
+- Người không thu thúc môn quyền ra sao? Điều kiện không thu thúc môn quyền như thế nào? Có người trong đời này mắt thấy sắc chấp theo tướng trạng hình thức thì tất cả pháp bất thiện nhơ nhớp như là tham ác và buồn giận mới tươm theo người không thu thúc môn quy ền tức là con mắt. Bởi cách không thu thúc quyền như là con mắt nào thành nhân, vẫn không hành thu thúc quyền thì con mắt đó không gìn giữ quyền. Quyền đây tức là con mắt, không thu thúc quyền tức là không thu thúc con mắt. Tai nghe tiếng,… mũi hưởi hơi,… lưỡi nếm vị,… thân đụng chạm,… tâm biết cảnh pháp mà chấp theo hình thức tướng trạng thời những pháp bất thiện bợn nhơ như là tham ác và buồn giận tươm theo người chẳng thu thúc quyền, quyền đây tức là tâm. Bởi cách không thu thúc quyền, tức là tâm nào thà nh nhân mà không hành để thu thúc
+
+quyền thì tâm ấy vẫn không chăm nom quyền, thì là tâm không thu thúc quyền. Chính là tâm không chăm nom bảo vệ gìn giữ những sáu quyền ấy. Những cách thế đó gọi là điều kiện không thu thúc môn quyền , người hiệp với những điều kiện không thu thúc môn quyền gọi là người không thu thúc môn quyền.
+
+- Người bất tri độ thực ra sao? Điều kiện bất tri độ thực như thế nào? Có người trong đời này trước khi ăn chẳng khéo quán tưởng (mới cho rằng) ăn để chơi, để say mê, để chưn diện, để trau dồi, thành người không tri túc. Điều kiện không quán tưởng vật thực là bất tri độ thực , người hiệp với điều kiện bất tri độ thực như thế gọi là người bất tri độ thực.
+
+65.
+
+- Người thất niệm ra sao? Điều kiện thất niệm như thế nào? Không được hằng nhớ, nhớ lại không đặng, mất chánh niệm, không có sự nhớ đặng, không đặng nhớ vững vàng, sự hay quên, sự lơ láo, như thế là điều kiện thất niệm. Ai hiệp với thất niệm gọi là người thất niệm.
+- Người vô lương tri ra sao? Điều kiện vô lương tri như thế nào? Sự không biết, sự không thấy, sự không tỏ ngộ, sự không hằng biết, sự biết không đầy đủ, sự không tỏ thấu, sự không nhận thức, sự không chăm chú hiểu, sự không chăm chú, sự không quan sát, cách không làm cho rõ rệt, cách thành người trí cạn cợt, cách thành người lừng khừng, cách không có chánh niệm lương tri, sự si mê, sự quá si mê, si mê tràn trề, sự dại dột , vô minh bộc, vô minh phối, vô minh tùy miên , vô minh khe khuất, then chốt vô minh, si là căn bất thiện. Đây là điều kiện vô lương tri. Nếu ai hiệp với điều kiện vô lương tri gọi là người vô lương tri.
+
+66.
+
+- Người giới lụy ra sao? Điều kiện giới lụy như thế nào? Cách thân phạm tội, cách khẩu phạm tội, cách thân và khẩu phạm tội, như thế gọi là điều kiện giới lụy , người hiệp cùng giới lụy gọi là người giới lụy.
+- Người kiến lụy ra sao? Điều kiện kiến lụy như thế nào? Sự nhận thấy rằng bố thí không có quả phúc (đại bố thí khắp chúng sanh cũng không có quả phúc), đãi đằng khách cũng không có quả phúc, quả dị thục do nhân tốt xấu tạo tốt xấu không có, đời này không có , đời sau không có, chẳng phải cha, chẳng phải mẹ, không có hạng hóa sanh, Tăng, Sa môn, Phạm chí tu hành chơn chánh tỏ ngộ tự biết đời này và đời sau rồi tuyên bố cho đời đều không có. Đó là điều kiện hiện bày như thế, nào là thiêng kiến, mộ tràng kiến, hoang vu kiến, phản nghịch kiến, chuyển biến kiến, triền kiến, sự chấp trước, sự cấu kết, sự chấp cứng, chấp theo sự hành sai, sái đường lạc nẻo, trạng thái sai, đảng phái thối hóa do chấp cứng tìm kiếm sai. Nếu có trạng thái như thế gọi là điều kiện kiến lụy. Tất cả tà kiến đều thuộc về kiến lụy, người liên hiệp với kiến lụy gọi là người kiến lụy.
+
+67.
+
+- Người có nội tri ền ra sao? Ngũ tri ền thấp mà ngư ời nào không bỏ, như thế gọi là người có nội triền.
+- Người có ngoại triền ra sao? Ngũ triền cao mà ngư ời nào không bỏ đặng, thời người ấy gọi là người có ngoại triền.
+
+68.
+
+- Người không sân ra sao? Điều kiện không sân như thế nào? Sự sân, cách sân, thái độ sân, giận, sự giận ác, cách gi ận ác, thái độ giận ác, sự sân độc, cách sân độc, thái độ
+
+sân độc, sự giận dữ dội, chống cự dữ dội, sự hung dữ, sự nộ khí xung thiên, cách tâm không ưa là điều kiện sân; kẻ nào trừ bỏ đặng như thế gọi là người không sân.
+
+- Người không cột sân ra sao? Điều kiện cột sân như thế nào? Trước đã có sân sau mới có buộc sân. Sự buộc sân, cách buộc sân, thái độ buộc sân, cách không bỏ qua sân, sự lập trường sân, sự bảo trì sân, sự chạy theo sân, do theo sự buộc sân, cách làm cho sân dẻo dai thấy rõ hiện tại, như thế gọi là điều kiện cột sân. Ai mà đã trừ bỏ đặng, như thế gọi là người không cột sân.
+
+69.
+
+- Người không vong ân ra sao? Điều kiện vong ân người khác như thế nào? Sự vong ân, cách vong ân, thái độ vong ân, sự không thấy ơn nghĩa cách làm cho không thấy ơn nghĩa; như thế gọi là điều kiện vong ân người khác. Ai mà chừa bỏ đặng như thế gọi là người không vong ân.
+- Người không ỷ bằng với người khác ra sao? Điều kiện ỷ bằng người khác như thế nào? Sự ỷ bằng cách ỷ bằng, thái độ ỷ bằng , pháp làm vật thực ỷ bằng, tranh chấp địa vị, cách so sánh cho rằng bằng nhau, cách không buông trả gọi là ỷ bằ ng. Cách ỷ bằng đây ai chừa bỏ đặng, như thế gọi là người không ỷ bằng.
+
+70.
+
+- Người không tật đố ra sao? Điều kiện tật đố như thế nào? Sự tật đố, cách tật đố, thái độ tật đố, sự không thích, cách không thích, thái độ không thích đối với lợi lộc lễ lộc, cung kỉnh, tín ngưỡng, lễ bái và cách đặng cúng dường của người khác đều không vừa lòng, như thế gọi là điều kiện tật đố, mà người nào đã chừa bỏ như thế gọi là người không tật đố.
+- Người không bỏn xẻn ra sao? Điều kiện bỏn xẻn như thế nào ? Ngũ lận sắt như là: Bỏn xẻn chỗ ở, bỏn xẻn thân tộc, bỏn xẻn lợi lộc, bỏn xẻn sắc đẹp, bỏn xẻn pháp; sự bỏn xẻn, cách bỏn xẻn, thái độ bỏn xẻn, các cách ham muốn, sự bón rít, sự keo kiệt, tâm không rộng rãi, những chi hiện bày như thế gọi là điều kiện bỏn xẻn. Ai chừa bỏ đặng, như thế gọi là người không bỏn xẻn.
+
+71.
+
+- Người không khoe khoang ra sao? Điều kiện khoe khoang như thế nào? Có người trong đời này thành người khoe khoang, cách khoe khoang, sự khoe khoang, thái độ khoe khoang, cách sần sượng, sự sần sượng, cách nói tự nâng mình, thái độ nói tự nâng mình, dù thế nào đều gọi là điều kiện khoe khoang. Ai đã chừa bỏ khoe khoang, như thế gọi là người không khoe khoang.
+- Người không xảo quyệt ra sao? Điều kiện xảo quyệt như thế nào? Có người trong đời này hành động ác bằng thân, bằng khẩu, bằng ý vì muốn sẽ che đậy những sự ác đó mới móng ý ô trược, muốn đừng cho ai biết ta, nói đừng cho ai biết ta, cố gắng bằng thân làm cho đừng ai biết, xảo quyệt, cách xảo quyệt, cách hiện bày sự gạt gẩm, sự tráo trở, sự khía cạnh, cách làm cho mê hoặc, lầm lộn, sự giao kiết, sự che đậy, sự khuất, sự khuất lấp, làm cho không dễ biết, cách làm cho không bày rõ, cách che đậy, khuất lấp, thái độ nhơ bẩn hiện bày như thế nào, đó gọi là điều kiện xảo quyệt, ai chừa bỏ xảo quyệt, như thế gọi là người không xảo quyệt.
+
+72.
+
+- Người hữu tàm ra sao? Điều kiện hữu tàm như thế nào? Thẹn với pháp thành tội ác, như thế gọi là tàm, người có sự hổ thẹn gọi là người hữu tàm.
+- Người hữu úy ra sao? Điều kiện hữu úy như thế nào? Pháp nào mà ghê sợ sự vật đáng ghê sợ bằng lối phải đến tội ác, ghê sợ như thế gọi là điều kiện úy. Nếu ai bỏ được sự ghê sợ như thế gọi là người hữu úy.
+
+73.
+
+- Người dễ dạy ra sao? Điều kiện dễ dạy như thế nào? Sự dễ dạy, cách dễ dạy, thái độ dễ dạy, lối người không chấp theo cường ngạnh, ngườ i ưa thích cá ch không trái nghịch, thái độ quảng đại, trạng thái quảng đại, có cách cung kỉnh, có sự tin nghe, trong khi có pháp đồng sanh như đã nói gọi là người dễ dạy.
+- Người có bạn tốt ra sao? Điều kiện có bạn tốt như thế nào? Người nào có đức tin, có giới hạnh, đa văn, có sự xả tài, có trí tuệ, cách kết giao, đi đến kết giao, cách sử dụng, cách gặp gỡ, cách tìm gặp, sự sùng tín, cách sùng tín; người đặng kẻ khác tìm hội hiệp như thế là điều kiện có bạn tốt. Hiệp với người đầy đủ cách bạn tốt là người có bạn tốt.
+
+74.
+
+- Người thu thúc môn quyền ra sao? Điều kiện thu thúc môn quyền như thế nào? Có người trong đời này mắt thấy sắc không chấp tướng, không chấp theo hình trạng, thời tất cả pháp bất thiện nhơ bẩn như là tham ác, ưu sầu mà tươm theo người không t hu thúc môn quyền, tức là không thu thúc nhãn. Mà nhãn thành nhân để đặng hành thu thúc nhãn, nếu giữ gìn quyền là gìn giữ nhãn. Tai nghe tiếng,… mũi hưởi hơi,… lưỡi nếm vị,… thân đụng chạm,… tâm biết cảnh pháp mà không chấp tướng không chấp hình trạng, thì tất cả pháp bất thiện nhơ bẩn như là tham ác, ưu sầu mà tươm đến người không thu thúc quyền đó. Nói quyền đây tức là tâm. Bởi tâm không thu thúc thì tâm làm nhân để đặng hành thu thúc tâm, nếu gìn giữ quyền là gìn giữ tâm, nếu thu thúc quyền là thu thúc tâm; cách bảo vệ duy trì, chăm nom gìn giữ lục quyền. Như thế gọi là thu thúc môn quyền. Người có điều kiện thu thúc môn quyền gọi là người thu thúc môn quyền.
+- Người tri độ thực ra sao? Điều kiện tri độ thực như thế nào? Có người trong đời này, khéo quán tưởng rồi mới dùng vật thực, chẳng ăn vì để chơi, chẳng ăn vì để say mê, chẳng ăn vì chưn diện, chẳng ăn vì sắc đẹp, ăn mà sống, ăn để cho còn, ăn đặng hạn chế đói, ăn để trợ phạm hạnh. Nhờ sự ăn uống ta hạn chế khổ thân, thành người khỏi lỗi, sẽ đặng an vu i cho ta thành người tri túc, đặng biết độ lượng ăn uống vừa thích hợp, suy xét như thế là điều kiện tri độ thực. Nếu đầy đủ điều kiện tri độ thực gọi là người tri độ thực.
+
+75.
+
+- Người có chánh niệm vững vàng ra sao? Niệm đó như thế nào? Sự tỉnh táo nào mà hằng nhớ, trực nhớ, cách nhớ đặng, sự nhớ đặng, thái độ nhớ đặng, sự không quên, sự không lơ lảng. Cũng là niệm quyền, niệm lạc, chánh niệm; như thế gọi là niệm . Bực chánh niệm đầy đủ như thế gọi là người có chánh niệm vững vàng.
+- Người có lương tri ra sao? Điều kiện lương tri như thế nào? Tuệ, sự tỏ ngộ, sự lựa chọn, sự gạn lựa, sự trạch pháp, sự chăm chú mục tiêu, sự chăm chú sát cận, sự soi thấu riêng biệt, sự thành trí thức, sự khôn khéo, sự biết vi tế, sự hiểu rõ rệt, sự suy xét, sự gạn xét, sự hiểu rộn g rãi, siêu tuệ, sự hiểu biết dẫn đường, sự quán, sự rõ chu đáo, tuệ như gươm, tuệ quyền, tuệ lực, tuệ như vũ khí, tuệ như đèn, tuệ như ngọc, sự trạch pháp là vô si, chánh kiến. Như thế gọi là điều kiện lương tri. Bực hiệp với lương tri gọi là người lương tri.
+
+76.
+
+- Người đầy đủ giới ra sao? Điều kiện đầy đủ giới như thế nào? Cách thân không phạm tội, cách khẩu không phạm tội, cách thân và khẩu không phạm tội. Như thế gọi là điều kiện đầy đủ giới. Thu thúc tất cả giới hạnh gọi là đầy đủ giới. Người hiệp với sự mãn túc giới gọi là người đầy đủ giới.
+- Người đầy đủ kiến thức ra sao? Điều kiện đầy đủ kiến thức như thế nào? Sự hiểu rõ chu đáo, sự tỏ ngộ… sự trạch pháp cũng là vô si , chánh kiến. Như thế nên nhận thấy bố thí rồi có quả phúc (đại bố thí khắp mọi người có quả phúc), lễ vật tiếp đãi khách có quả phúc, dị thục quả của người làm tốt làm xấu vẫn có đời này có, đời sau có, có cha có mẹ, có hạng chúng sanh hóa sanh , Tăng, Sa môn, Phạm chí thật hành tốt tu chơn chánh tự hiểu biết cao siêu rõ đời sau và truyền bá cho người tỏ ngộ. Như thế gọi là điều kiện mãn túc kiến. Tất cả chánh kiến đều gọi là mãn túc kiến. Bực đã hiệp với mãn túc kiến gọi là người đầy đủ kiến thức.
+
+77. Nhị chủng nhân trong đời khó kiếm ra sao? Người tri ân, và người đáp nghĩa. Hai hạng người này trong đời rất khó kiếm.
+
+78. Nhị chủng nhân khó no ra sao? Người đặng của rồi giấu luôn. Người đặng của rồi bỏ bậy bỏ bạ. Hai hạng người này khó làm cho no.
+
+79. Nhị chủng nhân dễ no ra sao? Người đặng của không cất mất luôn. Người đặng của không bỏ bậy bỏ bạ. Hai hạng người này dễ làm cho no.
+
+80. Tất cả lậu tăng tiến cho hai hạng người ra sao? Người có tánh cách ghét gớm sự vật không đáng ghét gớm. Người có tánh cách không ghét gớm với sự vật đáng ghét gớm. Tất cả lậu càng tăng thêm cho hai hạng người này.
+
+81. Tất cả lậu không tăng tiến thêm cho hai hạng người ra sao? Người có phẩm hạnh không ghét gớm với sự vật chẳng đáng ố. Người có phẩm hạnh ố nơi sự vật đáng ghét gớm. Tất cả lậu không tăng tiến thêm cho hai dạng người như thế.
+
+82.
+
+- Người có tánh cách đê hèn ra sao? Có người trong đời này phá giới, có cách nhơ bẩn mà y lân cận cần dùng gặp gỡ, gần gũi khắn khít với người phá giới, có những cách ô trược lạ thường. Như thế gọi là người có tánh cách đê hèn.
+- Người có phẩm cách tinh lương ra sao? Có người trong đời này đối với bực có giới đức luôn pháp thiện hảo mà y cần dùng tìm đến gần gũi bực có giới đức luôn pháp thiện hảo. Như thế gọi là người có phẩm cách tinh lương.
+
+83. Người đã no ra sao? Bực Độc giác và chư Thinh văn của đức Như Lai mà đã thành La hán, nên gọi là người đã no. Còn bậc Toàn giác gọi là người đã no và làm cho người khác đặng no.
+
+Dứt Xiển minh phần nhị
+
+#### Xiển minh phần tam Tam chủng nhân
+
+84.
+
+- Người hết hy vọng ra sao? Có người trong đời này phá giới, có cách đê hèn nhất là thân ng hiệp bất tịnh và có thói quen mà người khác hay ta dè dặt bằng cách nghi kỵ có việc khuất lấp , người phi Sa môn mà tượng trưng Sa môn , người phi phạm hạnh mà tượng trưng phạm hạnh , người lỡ lầy bên trong, người dồi dào ái dục, người có cặn bã nhất là ái dụ c đã phát sanh. Y nghe đồn rằng Phíc -khú tên đó đã tự tỏ ngộ hiểu tột, làm cho rõ rệt rồi, đã vào đến tịnh giải thoát, tuệ giải thoát, không còn lậu do dứt tuyệt tất cả lậu thành tựu oai nghi hiện đại. Nhưng y không thể mong rằng dĩ nhiên ta tự tỏ ngộ hiểu tột hay sẽ làm cho rõ rệt đến bực tịnh giải thoát, tuệ giải thoát, không còn lậu bởi tuyệt dứt tất cả lậu mà thành tựu oai nghi lúc nào trong hiện đại có thật như vậy là người hết hy vọng.
+- Người có hy vọng ra sao? Có người trong đời này thành người có giớ i đức, có chánh pháp hảo thiện. Y vẫn nghe đồn rằng Phíc-khú tên như thế đã tự hiểu tột, đã làm cho rõ rệt, đã vào đến bực tâm giải thoát, tuệ giải thoát, lậu không còn do hết tất cả lậu, thành tựu oai nghi trong hiện đại. Như thế y mới móng nghĩ như vầy: Ta có hy vọng sẽ tự hiểu biết cao tột bằng tịnh giải thoát, tuệ giải thoát, dứt hết lậu do tuyệt trừ tất cả lậu, chắc là thành tựu oai nghi hiện đại lúc nào như thế gọi là người có hy vọng.
+- Người ly khứ ra sao? Có người trong đời này đã tự hiểu tột, làm cho rõ rệt vào đến bực tịnh giải thoát, tuệ giải thoát, dứt hết lậu do đã trừ tuyệt tất cả lậu, thành tựu oai nghi trong hiện đại. Y nghe rằng Phíc-khú tên ấy đã tự hiểu tột tỏ ngộ vào đến bực tịnh giải thoát, tuệ giải thoát, không còn lậu do dứt hết tất cả lậu, thành tựu oai nghi trong hiện đại như thế. Mà y không có phát nghĩ rằng dĩ nhiên ta cũng tự hiểu tột, đã làm cho rõ rệt đến bực tịnh giải thoát, tuệ giải thoát, dứt hết lậu bởi tuyệt trừ tất cả lậu, thành tựu oai nghi trong hiện đại với một lúc nào chắc như thế; điều ấy bởi nhân chi? Bởi vì sự mong mỏi giải thoát nào của bực Ứng cúng đó chỉ là trong lúc trước kia chưa giải thoát, mà hy vọng đó đặng yên ổn rồi như thế mới gọi là người ly khứ (puggalo vigatāso).
+
+Ba thứ người như bệnh nhân đó ra sao?
+
+85. Tam chủng bệnh nhân:
+
+- Trong đời này có người bệnh đặng vật thực ưa thích hoặc không đặng vật thực ưa thích. Đặng dược phẩm thích hợp hoặc không đặng dược phẩm thích hợp. Có người ủng hộ thích hợp hoặc không có người ủng hộ thích hợp cũng không lành mạnh.
+- Trong đời này cũng có bệnh nhân đặng thực phẩm thích hợp hoặc không đặng thực phẩm thích hợp. Đặng dược phẩm thích hợp hoặc không đặng dược phẩm thích hợp. Có người nuôi dưỡng thích hợp hoặc không có người nuôi dưỡng thích hợp cũng đặng lành mạnh.
+- Trong đời này cũng có người bệnh đặng thực phẩm thích hợp, gặp vật thực thích hợp mới lành mạnh. Không đặng vật thực thích hợp thì không lành mạnh. Đặng dược phẩm thích hợp thời lành mạnh, không đặng dược phẩm thích hợp thì không
+
+lành mạnh. Có người nuôi dưỡng thí ch hợp mới lành mạnh, không có người nuôi dưỡng thích hợp thì không lành mạnh. Trong ba thứ người bệnh đó, người nào đặng vật thực thích hợp thời dứt khỏi, không đặng thời không hết bệnh. Đặng dược phẩm thích hợp thời hết bệnh, nếu không đặng thời không hế t. Có người nuôi dưỡng thích hợp thời hết bệnh, nếu không có thì không hết. Đức Phật Ngài do người bệnh như thế mới chế cho vật thực bệnh nhân, dược phẩm bệnh nhân, người nuôi dưỡng bệnh nhân cũng chính là do người bệnh như thế; dù cho người bệnh cách khác thì Phíc-khú cũng trợ giúp như thế.
+
+86. Người như ba hạng bệnh nhân hiện bày trong đời vẫn có như thế.
+
+- Có người trong đời này gặp Như Lai hoặc không gặp , đặng nghe pháp, luật do Như Lai truyền bá hoặc không đặng nghe, cũng không đặng vào niêm luật đúng với tất cả pháp thiện.
+- Cũng có người trong đời này gặp Như Lai hoặc không gặp , đặng nghe pháp, luật của Như Lai truyền bá hoặc không đặng nghe, cũng vẫn vào niêm luật của tất cả pháp thiện.
+- Cũng có người trong đời này đặng gặp Như Lai liền vào niêm luật the o tất cả pháp thiện. Nếu không đặng gặp Như Lai thì không đặng nương niêm luật theo tất cả pháp thiện. Nếu đặng nghe chánh pháp của Như Lai truyền bá mới nương theo niêm luật tất cả pháp thiện. Nếu không đặng nghe thì không đặng nương chơn lý tất cả pháp thiện. Trong ba hạng người đó mà chỉ có bực gặp Như Lai liền nương theo chơn lý tất cả pháp thiện. Nếu không gặp Như Lai thời không đặng nương chơn lý những pháp thiện. Nếu đặng nghe pháp, luật Như Lai truyền bá rồi nương theo chơn lý các pháp thiện. Nếu không đặng nghe thời không đặng nương theo chơn lý đúng chư pháp thiện. Đức Phật Ngài mới chế thuyết pháp để vì hạng người như thế. Chư Phíc-khú cũng nên thuyết pháp cho những hạng người khác. Người tỷ như ba hạng bệnh nhân vẫn có hiện bày trong đời.
+
+87.
+
+- Người thân chứng ra sao? Có người trong đời này tự thân chạm bát giải thoát thành tựu oai nghi và phiền não của người ấy cũng có phần dứt tuyệt do tỏ ngộ bằng tuệ. Như thế gọi là người thân chứng (kāyasakkhī).
+- Người kiến chí ra sao? Có người trong đời này vẫ n biết theo thật như vầy đây là khổ, biết theo thật như vầy đây là nhân khổ, biết theo thật như vầy đây là diệt khổ, biết theo thật như vầy đây là đường lối thực hành đi đến nơi diệt khổ và tất cả pháp mà Như Lai truyền bá, y đặng hiểu rành bằng tuệ, y khé o tiến hành bằng tuệ và có thứ lậu của y đặng dứt hết bằng tuệ thấy. Như thế gọi là người kiến chí (diṭṭhipatta).
+- Người tín giải ra sao? Có người trong đời này biết theo sự thật như vầy : Đây là khổ… tất cả pháp Phật đã truyền bá, y đã nhận thấy, khéo tiến hành rành bằng tuệ, cũng tuyệt dứt lậu phần nào do tuệ tỏ ngộ. Vị nào đặng dứt tuyệt lậu mà bực kiến chí trừ tuyệt, nhưng bực tín giải không thể trừ tuyệt đặng như thế. Như vậy gọi là người tín giải (saddhāvimutta).
+
+88.
+
+- Người nói ra như phẩn ra sao? Có người trong đời này ưa nói dối vào nơi nhóm họp đến chốn đông người vào ngay thân tộc, đến nơi quan quyền hoặc đến giữa hoàng tộc bị họ bắt tra, bị họ lấy cớ gạn hỏi như vầy: Này nam tử, ông hiểu như thế nào nên nói như thế ấy, người đó không biết mà nói tôi biết, hoặc biết mà nói không biết, cho đến không thấy nói thấy, hoặc thấy nói không thấy, thành người nói láo. Biết rằng láo như vầy do tại ta hay người khác, hoặc do gặp của chút đỉnh. Như thế gọi là người nói ra như phẩn.
+- Người nói ra như bông ra sao? Có người trong đời chừa bỏ vọng ngữ, dứt tuyệt xa lìa vọng ngữ, dù đến chốn đông người vào nơi đại chúng, đến tại thân tộc, đến giữa quan quyền hoặc vào nơi hoàng tộc bị họ lấy cớ gạn hỏi như vầy: Này hiền giả, ông biết cách nào nên nói cách ấy. Vị đó nếu k hông biết nói không biết, nếu biết nói biết, không thấy nói không thấy, thấy nói thấy; không thành người nói láo mà người ta biết mình nói láo với duyên khởi tại ta hay tại người khác, hoặc vì thấy của chút đỉnh. Như thế gọi là người nói như bông.
+- Người nói như mật ra sao? Có người trong đời này những lời nói đều không sai lỗi, suông tai, để vào tâm ưa thích, thành cách mến của người quê hương, rất nhiều người ưa thích. Như thế gọi là người nói như mật.
+
+89.
+
+- Người có tâm như mụt ghẻ lở ra sao? Có người trong đời này thành người ưa sân, ưa cường ngạnh, bị người nói chút đỉnh thì cố chấp lừng lẫy mới hiện cách khác thường, sần sượng hiện bày giận giữ, tính sự hung dữ với cách không vừa lòng, hiện bày như mụt ghẻ lở đụng cây đụng ngói máu mủ chảy nhiều như thế nào thời người ưa sân cường ngạnh, nếu bị ai nói chút đỉnh thì cố chấp lừng lẫy hiện bày bằng cách khác thường, sần sượng nổi sân tính độc ác với cách không thích hiện bày như thế đó. Như thế gọi là người có tâm như ghẻ lở.
+- Người có tâm như điển chớp ra sao? Có người trong đời này vẫn biết rõ theo chắc thật như vầy : Đây là khổ, rõ biết chắc thật như vầy đây là nhân khổ, rõ biết chắt thật như vầy đây là tiến hành đến diệt khổ, đáng thấy sắc trong khi điển chớp lức giữa đêm tối như thế nào, thì có người trong đời này vẫn biết rõ theo thật như vầy: Đây là khổ, biết theo chắc thật như vầy đây là nhân khổ, biết theo chắc thật như vầy đây là diệt khổ, biết theo chắc thật như vầy đây là điều tiến hành đến diệt khổ. Như thế gọi là người có tâm như điển chớp.
+- Người có tâm như lôi sấm ra sao? Có người trong đời này tử rõ tột, đã làm cho rõ, đã đến bực tâm giải thoát, tuệ giải thoát, lậu không còn do đã hết tất cả lậu, thành tựu oai nghi đời này tợ ngọc như ý, hoặc nhận thấy những chi không diệt mất là không có. Khi sấm nổ như thế nào thì người trong đời này tự hiểu tột, đã làm cho tỏ, đã đến bực tâm giải thoát, tuệ giải thoát, lậu không còn do đã hết tất cả lậu thành tựu oai nghi hiện đại cũng như thế. Như vậy gọi là người có tâm như lôi sấm.
+
+90.
+
+- Người mù ra sao? Người đáng đặng thực phẩm mà ta chưa đặng hoặc làm cho thực phẩm ta đã đặng càng thêm tiến hoá bằng con mắt như thế nào thì con mắt ấy vẫn không có với người trong đời này , người nên biết tất cả pháp thiện và bất thiện biết tất cả pháp có lỗi và không lỗi, biết tất cả pháp hèn hay vi tế, biết tất cả pháp so sánh trắng đen bằng con mắt như thế nào thì con mắt ấy cũng không có với người đó. Như thế gọi là người mù.
+- Người một mắt ra sao? Người đáng đặng thực phẩm mà ta chưa đặng, hoặc làm cho thực phẩm ta đã đặng càng thêm tiến hoá bằng con mắt như thế nào, con mắt như thế ấy cũng không có với người trong đời này như vậy , người nên biết tất cả pháp thiện và bất thiện, biết tất cả pháp có lỗi và không lỗi, biết tất cả pháp thô hèn và vi tế, biết tất cả pháp so sánh t rắng đen bằng con mắt như thế nào thì con mắt như thế ấy cũng không có với người như thế. Như vậy gọi là người một mắt.
+- Người lưỡng nhãn ra sao? Người đáng đặng thực phẩm mà ta chưa đặng, hoặc làm cho thực phẩm ta đã đặng càng thêm tiến hoá bằng con mắt như thế nào thì con mắt như thế ấy cũng có với người trong đời này , người hiểu biết tất cả pháp thiện và bất thiện, thấy tất cả pháp có lỗi và không lỗi, thấy tất cả pháp thô hèn và vi tế, biết tất cả pháp tỷ dụ trắng đen bằng con mắt như thế nào thì con mắt như thế này cũng vẫn có với người đó. Như thế gọi là người lưỡng nhãn.
+
+91.
+
+- Người có tuệ như nồi úp ra sao? Có người trong đời này thường đến chùa nghe pháp với chư Tăng, mà chư Tăng thuyết trước sau chặng giữa đều hay, đầy đủ ý nghĩa văn chương cho người ấy nghe và bố cáo tịnh hạnh đầy đủ hoàn toàn trong sạch. Nhưng người ấy tại trong lúc ngồi cho đến khi ra khỏi đều không lưu ý với pháp hay, cả trước sau và chặng giữa. Chẳng khác chi họ đổ nước trên nồi úp vẫn chạt tuôn g xuống không đặng chứa như thế nào . Thì cũng như có người trong đời này thường đến chùa nghe pháp với chư Tăng mà chư Tăng thuyết trước sau chặng giữa đều hay, ý nghĩa văn chương đầy đủ, luôn trình bày tịnh hạnh hoàn toàn trong sạch. Còn người ấy từ lúc ngồi tại chỗ cho đến khi đứng đi ra khỏi cũng chẳng lưu tâm chú ý trước sau chặng giữa những pháp thuyết hay. Như thế gọi là người có tuệ như nồi úp.
+- Người có tuệ như lưỡi gươm ra sao? Có người trong đời này thường đến chùa nghe pháp với chư Tăng, chư Phíc -khú thuyết pháp trước sau chặng giữ a đều hay, đầy đủ nghĩa lý văn chương. Vẫn tuyên bố tịnh hạnh đầy đủ hoàn toàn, người ấy khi đang ngồi để ý trước sau và chặng giữa mà khi đi khỏi chỗ ngồi không còn để ý trước sau chặng giữa hay những lời chi. Cũng như các thứ nhai như răng tượng, gạo sốn g, bánh tét, trái táo bỏ ngổn ngang trên gươm của nam tử. Khi y giật mình chờ dậy khỏi chỗ mới tản lạc ra như thế nào, thì có người trong đời này thường đến chùa nghe pháp với chư Tăng, chư Phíc -khú thuyết pháp trước sau chặng giữa đều hay, đầy đủ nghĩa lý văn chương. Vẫn tuyên bố tịnh hạnh đầy đủ hoàn toàn , người ấy đang ngồi để ý trước sau và chặng giữa mà khi đi khỏi chỗ ngồi rồi không còn để ý trước sau và chặng giữa hay những lời chi. Như thế gọi là người có tuệ như lưỡi gươm.
+- Người đa trí ra sao? Có n gười trong đời này thường đến chùa nghe pháp với chư Tăng, chư Phíc-khú thuyết pháp trước sau và chặng giữa đều hay, đầy đủ nghĩa lý văn chương cho người đó. Vẫn bố cáo phạm hạnh trong sạch hoàn toàn đầy đủ , người đó khi đang ngồi nơi chỗ vẫn lưu ý hoặc ba n đầu, hoặc chặng giữa hay là đoạn chót. Nhưng sau khi chờ dậy khỏi chỗ cũng chú ý đoạn trước hoặc đoạn giữa, hoặc đoạn chót của lời nói đó như nước họ đổ chứa trong nồi để ngữa, vẫn chứa để không chảy ra như thế nào thì có người trong đời này thường đến c hùa nghe pháp với chư Tăng, chư Phíc-khú thuyết pháp hay luôn chặn g trước, chặng giữa và chặn g sau đầy đủ nghĩa lý văn chương cho người đó. Vẫn tuyên bố phạm hạnh thanh tịnh hoàn toàn đầy đủ. Khi y ngồi nơi chỗ vẫn lưu ý đoạn trước, đoạn giữa và đoạn sau của lời nói đó. Đến khi
+
+chờ dậy khỏi chỗ cũng chăm chú đoạn trước, đoạn giữa và đoạn sau của bài đó. Như thế gọi là người đa trí.
+
+92.
+
+- Người chưa xa lìa dục ái, hữu ái ra sao? Bực nhập lưu và thánh Nhất lai đều gọi là người còn ái dục trong Dục giới, Sắc giới và Vô sắc giới.
+- Người xa lìa dục ái mà chưa xa lìa hữu ái ra sao? Bực Bất lai gọi là người không còn ái dục nơi cõi Dục giới mà còn ái nơi cõi Sắc giới và Vô sắc giới.
+- Người xa lìa cả dục ái và hữu ái ra sao? Bực Alahán gọi là người xa lìa dục ái cõi Dục giới luôn cõi Sắc giới và Vô sắc giới.
+
+93.
+
+- Người như lằn khắc trong đá ra sao? Có người trong đời này thường hay sân và sự sân của y hằng ngấm ngầm rất lâu như lằn chạm trong đá không dễ phai mờ do gió hoặc nước thành thứ còn lâu như thế nào thì có người trong đời này sân thường hoài và sự giận của y hằng ngấm ngầm theo rất lâu, như thế gọi là người tợ lằn khắc trong đá.
+- Người như lằn gạch trên đất ra sao? Có người trong đời này thường hay sân, nhưng cách sân của y ngấm ngầm không lâu tợ lằn gạch trên đấ t dễ chùi dễ phai do nước và gió, không còn đặng lâu như thế nào thì có người trong đời này thường hay sân nhưng cách sân của y ngấm ngầm không lâu. Như thế gọi là người như lằn gạch trên đất.
+- Người như lằn gạch trên nước ra sao? Có người trong đời này bị người nói lời thô bỉ, dù bằng lời nói thô lỗ hay lời nói không vừa ý cũng vẫn còn khắn khít nhau, còn liên lạc nhau, còn ưa nhau, tợ như lằn gạch trên nước lấp phai rất dễ không còn lâu như thế nào, thì có người trong đời này bị người nói nặng cho đến thô lỗ, lời không vừa lòng cũng vẫn còn khắn khít, cũng vẫn còn liên lạc, cũng còn ưa nhau, như thế gọi là người như lằn gạch trên nước.
+
+Tam chủng vải bố ra sao?
+
+94. Vải bố có ba thứ như là:
+
+- Vải bố mới màu không tốt, bận mặc không thích hợp (và giá rẻ).
+- Vải bố nữa sạt màu không tốt, bận mặc không thích hợp (và giá rẻ).
+- Vải bố cũ màu không tốt, bận mặc không thích hợp (và giá rẻ). Tất cả những người dùng vải bố nữa sạt hoặc làm nùi giẻ chùi nồi cơm, đem vải quá củ bỏ đi hoặc thẩy đóng rác.
+
+95. Tam chủng nhân như vải bố ra sao?
+
+- Ba hạng người tỷ như vải bố vẫn có hiện bày trong chư Phíc-khú. Tam chủng nhân như vải bố Dù cho tân Phíc -khú thành người phá giới và có pháp tội lỗi chẳng khác nào vải mới mà màu không tốt, bởi vì người ấy có danh tiếng xấu ai tìm tòi hội hiệp gần gũi vẫn theo cách người ấy, lối giao kiết đó có thể không lợi ích chi mà còn khổ đến cho những người đó rất lâu dài chẳng khác chi vải bố bận mặc không thích hợp, đụng chạm vào thân luôn luôn khổ. Bởi vì vị ấy đắp y, trì bình nương ở, dùng thu ốc, các vật dụng mà thọ của người nào thì thí chủ đó không đặng nhiều quả phúc.
+
+Vải bố rẻ như thế nào thì người ấy cũng như thế đó. Dù cho Phíc-khú bậc trung tọa hay là Phíc-khú bậc thượng tọa mà thành người thiếu giới, có pháp ác xấu thì cũng như vải bố màu chẳng tốt vậy. Bởi vì vị ấy có danh tiếng xấu, ai tìm tòi hội hiệp gần gũi vẫn theo cách người ấy, lối giao kiết đó không lợi ích chi mà còn khổ đến những người đó rất lâu dài, chẳng khác chi vải bố bận mặc không thích hợp đụng chạm vào thân luôn luôn k hổ do vị ấy đắp y, trì bình, nương ở, dùng thuốc, các vật dụng mà của người nào thì thí chủ đó không đặng nhiều quả phúc, vải bố rẻ như thế nào thì người ấy cũng như thế đó. Bởi do vị ấy có danh tiếng xấu. Nếu mà bực trưởng thượng thấy như thế sẽ trình bày giữa Tăng chúng, không khỏi các Phíc-khú ấy sẽ nói với bậc trưởng thượng đó như vầy: Ngài là người ngu si nói có lợi ích chi, dù ngài cho rằng đáng nói. Khi ấy bậc trưởng thượng đó liền trình bày lối nguyên nhân cho chư Tăng trục xuất. Chẳng khác chi vải bố vẫn có hiện bày trong chư Phíc-khú.
+
+Tam chủng nhiễu đô thành Kāsī ra sao?
+
+96. 3 hạng nhiễu đô thành Kāsī như là:
+
+- Nhiễu đô thành Kāsī thứ mới màu tốt, bận mặc khỏe sướng và giá cao.
+- Nhiễu đô thành Kāsī nữa sạt màu còn tốt, bận mặc khỏe sướng và giá mắc.
+- Nhiễu đô thành Kāsī cũ màu cũng tốt, bận mặc cũng khỏe sướng và giá cả cũng còn cao. Phần nhiều người dùng nhiễu đô thành Kāsī cũ đem gói ngọc báu, hoặc cất vải tơ trong tủ để đồ thơm.
+
+97. Tam chủng nhân như nhiễu đô thành Kāsī nhóm này hẳn có trong Tăng như thế. Tam chủng nhân nhân như nhiễu đô thành Kāsī ra sao? Như là tân Phíc -khú có giới đức, có pháp tốt đẹp, chẳng khác nào như nhiễu đô thành Kāsī ấy có màu tốt đẹp. Bởi vì vị ấy có danh tiếng tốt, ai tìm hội hiệp gặp gỡ gần gũi vẫn theo cách người ấ y, lối giao kiết ấy có lợi ích đặng an vui lâu dài cho người đó, chẳng khác chi nhiễu đô thành Kāsī bận mặc thích hợp, đụng chạm vào thân vui sướng. Bởi vì vị ấy đắp y, trì bình, nương ở, dùng thuốc, các vật dụng mà thọ của người nào thì thí chủ đó đặng nhiều quả phúc. Vải đô thành Kāsī giá cao như thế nào thì người ấy cũng như thế đó. Dù cho Phíc-khú bậc trung tọa, hay là Phíc -khú bậc thượng tọa mà thành người có giới đức, có pháp tốt, thời cũng như nhiễu đô thành Kāsī màu tốt vậy. Bởi vì vị đó có danh tiếng tốt, ai hội hiệp gặp gỡ gần gũi theo cách người ấy, lối kiết giao đó có nhiều lợi ích mà còn an lạc đến những người đó rất lâu dài, chẳng khác chi nhiễu đô thành Kāsī bận mặc thích hợp, đụng chạm vào thân khỏe sướng. Do vị ấy đắp y, trì bình, nương ở, dùng thuốc, các vật dụng mà của người nào thì thí chủ đó đặng nhiều quả phúc. Nhiễu đô thành Kāsī giá mắc như thế nào thì người ấy cũng như thế đó. Bởi vì vị ấy có danh tiếng tốt. Nếu mà bậc trưởng thượng thấy như thế đó mới trình bày giữa Tăng chúng. Chư Tỷ Kheo mới nói: Này chư Đại Đức, xin vắng tiếng êm lời, vì lời nói của vị trưởng lão đây đúng pháp luật nên cất để vào lòng. Như thế tỷ như nhiễu đô thành Kāsī cất vào tủ để đồ thơm. Tam chủng nhân như nhiễu đô thành Kāsī vẫn hiện bày trong Tăng chúng.
+
+98.
+
+- Người ước lượng dễ ra sao? Có người trong đời này là người lao chao, ngã mạn, lừng lên như cỏ năng, tráo trở, mạnh miệng nói bừa bãi (không suy xét lời nói), rối loạn thất chánh niệm, thiếu lương tri, tâm không vững, mong mỏi sai, có lục quyền lơ lỏng. N hư thế gọi là người dễ ước lượng.
+- Người khó ước lượng ra sao? Có người trong đời này là người không lao chao, không ngã mạn, không lừng lên như cỏ năng, không nói tráo trở, thành người không nói lướt, không nói bừa bãi, có chánh niệm vững vàng, đủ lương tri, có tâm đình trụ đặng tâm yên tịnh, thu thúc lục quyền. Như thế gọi là người khó ước lượng.
+- Người vô ư ớc lư ợng ra sao? Có ngư ời trong đời này đã tự hiểu tột, đặng đến rồi, thành bực tịnh giải thoát, tu ệ giải thoát, lậu không còn do đã dứt tất cả lậu, thành tựu oai nghi hiện đại. Như thế gọi là người vô ước lượng.
+
+99.
+
+- Người không nên tìm gặp, hội hiệp, gần gũi ra sao? Có hạng trong đời này là người hoại giới, xa lìa tịnh tuệ , người hiện bày như thế không nên hội hiệp, chẳng đáng gặp gỡ, chớ gần gũi, đáng bỏ qua sự chiếu cố, bỏ qua sự tế độ họ.
+- Người nên hội hiệp, gặp gỡ, gần gũi ra sao? Có người trong đời này thành người giới đồng, luôn cả tịnh tuệ. Thấy rõ người như thế nên hội hiệp, tìm kiếm và gần gũi. Điều ấy tại sao? Bởi vì giới hạnh chư hiền triết đến bực giới đồng sẽ có cho chúng ta luôn nết hạnh đó sẽ thành cho chúng ta và nết hạnh đó sẽ hiện hành đến chúng ấy (tức là không nóng nảy). Bài kinh Chú tịnh lự của các hàng triết sĩ là hạnh đầy đủ tịnh tuệ sẽ có đến chúng ta. Những kinh Chú tịnh lự ấy thành tựu sự an vui đến chúng ta và kinh chú ấy sẽ hiện hành cho chúng ta (sau này không nóng nảy). Kinh Chú Tuệ của chư hiền triết hạng đầy đủ tuệ sẽ đến chúng ta, mà kinh chú tuệ đó sẽ thành sự an lạc cho tất cả chúng ta và lời chú nguyện ấy sẽ hiện hành đế n chúng ta (tức là sẽ không nóng nảy) , người đang hiện bày như thế đáng hội hiệp, gặp gỡ , gần gũi.
+- Người đáng cúng dâng, hội hiệp, gặp gỡ và gần gũi ra sao? Có người trong đời này là người giới tột, tịnh tuệ thấy rõ hiện tại, đáng cung kỉnh cúng dường, hội hiệp, gặp gỡ, gần gũi. Điều ấy tại sao? Bởi vì chúng ta sẽ đặng trao dồi những giới chưa đầy đủ đặng đầy đủ. Hoặc chúng ta sẽ trì phần giới đầy đủ luôn tuệ nơi các chỗ. Ta sẽ trao dồi phần tịnh chưa đầy đủ cho đầy đủ. Hoặc ta thọ trì tịnh chỗ đầy giới, tuệ theo mọi nơi. Chúng ta sẽ đặng trao dồi phần trí tuệ chưa đầy đủ đặng đầy đủ. Hoặc chúng ta thọ trì những trí tuệ đầy đủ cho đặng phổ cập. Bởi vậy, người thấy rõ như thế mới đáng cung kỉnh, cúng dâng, hội hiệp, gặp gỡ và gần gũi.
+
+100.
+
+- Người đáng ố không nên hội hiệp, gặp gỡ và gần gũi ra sao? Có người trong đời này là kẻ thiếu giới, có pháp tội lỗi, người hiệp với nhất là thân nghiệp không trong sạch và có thói quen mà người khác hoặc ta để ý dè dặt trá nh, người có chuyện khuất lấp, người không thành Sa môn mà tuyên thệ là Sa môn, chẳng phải người phạm hạnh mà tuyên thệ là phạm hạnh, người hôi thúi ở bên trong, người ái dục dồi dào, người rộn ràng, người rõ thấy như thế đáng gớm không nên hội hiệp, không nên gặp gỡ, không nên gần gũi. Điều ấy tại sao? Bởi vì ai gặp gỡ dù không theo
+
+cách người ấy nhưng sự vật ô uế cũng vẫn bay đến người gặp đó là người có bạn xấu, có bè bạn xấu. Gặp người xấu tỷ như rắn dính phẫn, mặt dù không cắn người đó nhưng đụng người ấy vẫn nhơ uế. Dù cho người gặp sẽ không theo cách, nhưng thói quen ô uế vẫn bay đến người thì thành kẻ có bạn xấu vì gặp người xấu. Bởi do thấy rõ như thế đáng gớm ghê không nên hội hiệp, gặp gỡ, gần gũi.
+
+- Người nên đối như thường chẳng nên hội hiệp, gặp gỡ, gần gũi ra sao? Có người trong đời này ưa sân , đa oán giận, bị người nói dù ít oi cũng vẫn chấp lừng lẫy li ền hiện bày sần sượng khác thường, bày ra hờn giận, tính dữ dằn và sự không vừa ý hiện ra như ghẻ lở đụng cây hay ngói máu mủ chảy tuông như thế nào thì người ưa sân, đa oán giận bị kẻ khác nói dù ít oi thì cũng vẫn chấp lừng lẫy liền hiện sần sượng khác thường, bày ra hờn giận, tính dữ dằn và sự không vừa ý hiện ra cũng như thế đó. Lá cây thị khô đụng cây hoặc ngói thì khua tiếng ào ào hơn thường thế nào, thì người trong đời này ưa sân, đa oán giận bị kẻ khác nói dù ít oi cũng vẫn lừng lẫy liền hiện bày sần sượng khác thường, bày ra hờn giận, tính dữ dằn và sự không vừa ý hiện ra cũng như thế đó. Vũng sâu bị cây hoặc ngói rớt xuống thời có hơi hôi hơn thường như thế nào thì trong đời này có người ưa sân, đa oán giận, bị kẻ khác nói ít cũng vẫn lừng lẫy liền hiện bày sần sượng khác thường, bày ra hờn giận, tính dữ dằn và sự không vừa ý liền hiện ra như thế đó. Thấy người như thế ta nên coi thường, không nên hội hiệp, gặp gỡ, gần gũi. Bởi tại sao? Vì họ cũng có thể nhiếc ta, phê bình ta, hoặc sẽ làm cho ta tàn hại, bởi thế đó người thấy như vậy mới như thường không nên hội hiệp, gặp gỡ, gần gũi.
+- Người đáng hội hiệp, gặp gỡ, gần gũi ra sao? Có người trong đời này, bậc có giới đức, có pháp quý, người thấy rõ như thế nên hội hiệp, gặp gỡ, gần gũi. Điều đó bởi tại sao? Vì rằng dù cho người gặp sẽ không theo cách người như thế nhưng tập quán tốt của người ấy vẫn bay đến người gặp gỡ thì thành người trượng phu, có bè bạn tốt, gặp người tốt; thấy như vậy ta nên hội hiệp, gặp gỡ, gần gũi.
+
+101.
+
+- Người thường làm cho giới đầy đủ, tịnh vừa thích hợp, tuệ vừa đúng ra sao? Bực Dự lưu và bực Nhứt lai là bực hằng làm cho đầy đủ giới và tịnh tuệ vừa vặn.
+- Người thường làm cho giới tịnh đầy đủ và tuệ cũng vừa chừng ra sao? Bực Bất lai gọi là bực thường làm cho giới tịnh hằng đầy đủ và tuệ vừa chừng.
+- Người giới, tịnh, tuệ hằng đầy đủ ra sao? Bực A La-hán gọi là người hằng đầy đủ giới, tịnh, tuệ.
+
+102. Tam chủng giáo chủ ra sao?
+
+- Bực giáo chủ trong đời này, có vị chế định cách trừ dục nhưng không định đặt cách trừ sắc và không chế định cách trừ thọ.
+- Bực giáo chủ trong đời này, có vị chế định cách trừ dục và trừ sắc, nhưng không chế định cách trừ thọ.
+- Bực giáo chủ trong đời này, có vị chế định cách trừ dục, trừ sắc và trừ thọ luôn hết.
+
+Cả ba bực giáo chủ mà bực nào chế định cách trừ dục nhưng không chế định cách trừ sắc và trừ thọ, nên nhận thấy rằng vị giáo chủ đó đắc thiền sắc giới theo cách chế định đó. Vị giáo chủ nào chế định cách trừ dục và trừ sắc mà không chế định cách trừ thọ, nên nhận thấy rằng vị giáo chủ đó là bực đắc thiền Vô sắc giới theo cách chế định ấy. Còn vị giáo chủ nào chế định cách trừ dục, trừ sắc và trừ thọ luôn, vị giáo chủ đó là bực Toàn giác theo lối chế định ấy. Như thế gọi là tam chủng giáo chủ.
+
+103. Tam chủng giáo chủ khác nữa ra sao?
+
+- Trong đời có bực giáo chủ chế định chơn ngã trường tồn đời này và đời sau.
+- Có bực giáo chủ chế định chơn ngã trường tồn chỉ trong đời nầy, không cho rằng chơn ngã trường tồn đến đời sau.
+- Cũng có bực giáo chủ không định đặt chơn ngã trường tồn trong đời này và cũng không định đặt chơn ngã trường tồn luôn đời sau. Trong ba bực giáo chủ đã kể mà bực giáo chủ định đặt chơn ngã trường tồn đời này và đời sau là giáo chủ hạng thường kiến. Còn bực giáo chủ chế định chơn ngã trườn g tồn đời này nhưng không chế định chơn ngã trường tồn đến đời sau là bực giáo chủ chấp theo đoạn kiến. Còn bực giáo chủ không chế định chơn ngã trường tồn trong đời này và cũng không chế định chơn ngã trường tồn cho đời sau. Bực giáo chủ như thế là ngôi Toàn giác. Như thế gọi là tam chủng giáo chủ khác nữa.
+
+Dứt Xiển minh phần tam
+
+#### Xiển minh phần tứ Tứ chủng nhân
+
+104.
+
+- Người phi hiền triết ra sao? Có người trong đời này là kẻ sát sanh, trộm cướp, tà dâm, vọng ngữ, dể duôi dùng rượu và các chất say. Như thế gọi là người phi hiền triết.
+- Người phi hiền triết hơn phi hiền triết ra sao? Có người trong đời này tự sát sanh và dạy người sát sanh. Tự trộm cướp và dạy người trộm cướp. Tự tà dâm và dạy người tà dâm. Tự vọng ngữ và dạy người vọng ngữ. Tự dể duôi dùng rượu các chất say và dạy người khác dể duôi dùng rượu và các chất say. Như thế gọi là người phi hiền triết hơn phi hiền triết.
+- Người hiền triết ra sao? Có người trong đời này chừa bỏ tuyệt sát sanh, chừa bỏ tuyệt trộm cướp, chừa bỏ tuyệt tà dâm, chừa bỏ tuyệ t vọng ngữ, chừa bỏ tuyệt dể duôi uống rượu và các chất say. Như thế gọi là người hiền triết.
+- Người hiền triết hơn hiền triết ra sao? Có người trong đời này là bực tự chừa bỏ tuyệt sát sanh và dạy người khác chừa bỏ tuyệt sát sanh. Tự chừa bỏ tuyệt trộm cư ớp và dạy người khác chừa bỏ tuyệt trộm cướp. Tự chừa bỏ tuyệt tà dâm và dạy người khác chừa bỏ tuyệt tà dâm. Tự chừa bỏ tuyệt vọng ngữ và dạy người khác từ bỏ tuyệt vọng ngữ. Tự chừa bỏ tuyệt dể duôi dùng rượu và các chất say và dạy người khác chừa
+
+bỏ tuyệt dể duôi dùng rượu và các chất say. Như thế gọi là người hiền triết hơn hiền triết.
+
+105.
+
+- Người tội lỗi ra sao? Có người trong đời này là kẻ sát sanh, trộm cướp, tà dâm, vọng ngôn, lưỡng thiệt, ác khẩu, ỷ ngữ, tham ác, sân độc, tà kiến ác. Như thế gọi là người tội lỗi.
+- Người tội lỗi quá tội lỗi ra sao? Có người trong đời này tự mình sát sanh và dạy người khác sát sanh. Tự mình trộm cướp và dạy người khác trộm cướp. Tự mình tà dâm và dạy người khác tà dâm. Tự mình vọng ngôn và dạy người khác vọng ngôn. Tự mình lưỡng thiệt và dạy người khác lưỡng thiệt . Tự mình ác khẩu và dạy người khác ác khẩu. Tự mình ỷ ngữ và dạy người khác ỷ ngữ. Tự mình tham ác và dạy người khác tham ác. Tự mình sân độc và dạy người khác sân độc. Tự mình tà kiến ác và dạy người khác tà kiến ác. Như thế gọi là người tội lỗi quá tội lỗi.
+- Người lương thiện ra sao? Có người trong đời này là bực chừa bỏ sát sanh, chừa bỏ trộm cướp, chừa bỏ tà dâm, chừa bỏ vọng ngôn, chừa bỏ lưỡng thiệt, chừa bỏ ác khẩu, chừa bỏ ỷ ngữ, chừa bỏ tham ác, chừa bỏ sân độc, chừa bỏ tà kiến ác. Như thế gọi là người lương thiện (kalyāṇa).
+- Người lương thiện hơn lương thiện ra sao? Có người trong đời này bực tránh xa sự sát sanh và dạy người khác chừa bỏ sát sanh. Tự tránh xa trộm cướp và dạy người khác chừa bỏ trộm cướp. Tự tránh xa tà dâm và dạy người khác chừa bỏ tà dâm. Tự tránh xa vọng ngôn và dạy người khác chừa bỏ vọng ngôn. Tự tránh xa lưỡng thiệt và dạy người khác chừa bỏ lưỡng thiệt. Tự tránh xa ác khẩu và dạy người khác chừa bỏ ác khẩu. Tự tránh xa ỷ ngữ và dạ y người khác chừa bỏ ỷ ngữ. Tự tránh xa tham ác và dạy người khác chừa bỏ tham ác. Tự tránh xa sân độc và dạy người khác chừa bỏ sân độc. Tự tránh xa tà kiến ác và dạy người khác chừa bỏ tà kiến ác. Như thế gọi là người lương thiện hơn lương thiện (puggala kalyāṇena kalyāṇataro).
+
+106.
+
+- Người có pháp tội lỗi ra sao? Có người trong đời này là kẻ sát sanh… trộm cướp… tà kiến ác… nhận thấy trật ra ngoài đường lối pháp (giáo chỉ). Như thế gọi là người có pháp tội lỗi.
+- Người có pháp tội lỗi quá tội lỗi ra sao? Có người trong đời này tự sát sanh và dạy người khác sát sanh. Tự trộm cướp và dạy người khác trộm cướp. Tự tà kiến ác và dạy người khác tà kiến ác. Như thế gọi là người có pháp tội lỗi quá tội lỗi.
+- Người có pháp lương thiện ra sao? Có người trong đời này là bực tránh xa sự sát sanh, xa lìa trộm cướp…có chánh kiến, nhận thấy đúng theo đường lối pháp (giáo chỉ). Như thế gọi là người có pháp lương thiện (puggala kalyāṇadhamma).
+- Người có pháp lương thiện hơn lương thiện ra sao? Có người trong đời này tự xa lìa sự sát sanh và dạy người khác chừa bỏ sự sát sanh….Tự mình đặng chánh kiến và dạy người khác cho đặng chánh kiến. Như thế gọi là người có pháp lương thiện hơn lương thiện (puggala kalyāṇadhammena kalyāṇadhammataro).
+
+107.
+
+- Người tội lỗi ra sao? Có người trong đời này là kẻ có thân nghiệp hiệp theo tội lỗi, khẩu nghiệp hiệp theo tội lỗi, ý nghiệp hiệp theo tội lỗi. Như thế gọi là người tội lỗi.
+- Người đa tội lỗi ra sao? Có người trong đời này là kẻ có thân nghiệp hiệp theo nhiều tội lỗi, khẩu nghiệp hiệp theo n hiều tội lỗi và ý nghiệp hiệp theo nhiều tội lỗi. Như thế gọi là người đa tội lỗi (puggalo sāvajjabahulo).
+- Người ít tội lỗi ra sao? Có người trong đời này có thân nghiệp ít hiệp theo tội lỗi, khẩu nghiệp ít hiệp theo tội lỗi và ý nghiệp ít hiệp theo tội lỗ i. Như thế gọi là người ít tội lỗi (puggala appasāvajja).
+- Người không tội lỗi ra sao? Có người trong đời này là bực có thân nghiệp không hiệp theo tội lỗi, khẩu nghiệp không hiệp theo tội lỗi và ý nghiệp cũng không hiệp theo tội lỗi. Như thế gọi là người không tội lỗi (puggala anavajja).
+
+108.
+
+- Người tỏ ngộ đầu đề ra sao? Bực mà đắc đạo quả khi ngài vừa mở đầu đề. Như thế gọi là người tỏ ngộ đầu đề.
+- Người tỏ ngộ xiển minh ra sao? Bực nào đắc đạo quả khi ngài phân lời hẹp ra rộng. Như thế gọi là người tỏ ngộ xiển minh.
+- Người đáng tiếp độ ra sao? Vị nào đắc đạo quả từ từ theo từng bực bằng cách do nhân như là bằng cách xiển thuật, bằng cách hỏi, bằng cách tác ý khéo, bằng cách hội hiệp, bằng cách gặp gỡ, bằng cách thân thiện với bạn tốt. Như thế gọi là người đá ng tiếp độ (puggalo neyyo).
+- Người văn học cao siêu ra sao? Người nào nghe Phật ngôn nhiều, tường thuật cũng nhiều, nhớ cũng nhiều, giáo huấn cũng nhiều nhưng không đắc đạo quả đời đó. Như thế gọi là người văn học cao siêu (puggala padaparama).
+
+109.
+
+- Người đáp trúng mà không mau lẹ ra sao? Có người trong đời này bị hỏi đáp trúng nhưng không mau lẹ. Như thế gọi là người đáp trúng nhưng không mau lẹ.
+- Người đáp lẹ mà không trúng ra sao? Có người trong đời này bị hỏi đáp lại rất lẹ nhưng không trúng. Như thế gọi là người đáp lẹ nhưng không trúng.
+- Người đáp lẹ và trúng ra sao? Có người trong đời này bị hỏi giải đáp trúng và mau lẹ. Như thế gọi là người đáp lẹ và trúng.
+- Người đáp không trúng và không lẹ ra sao? Có người trong đời này bị người hỏi, giải đáp không trúng và không lẹ. Như thế gọi là người đáp không trúng và không lẹ.
+
+110. Tứ chủng pháp sư ra sao?
+
+- Có bực pháp sư trong đời này thuyết nhiều mà không hợp sự lợi ích và nội hội cũng không nhận rõ lời ấy lợi ích hay chăng. Pháp sư như thế không gọi là pháp sư nội hội.
+- Trong đời này cũng có pháp sư thuy ết ít mà có hợp theo lợi ích và trong nội hội nhận rõ rằng lời ấy thích hợp theo lợi ích hoặc không lợi ích. Pháp sư như thế đáng kể là pháp sư nội hội
+- Trong đời này cũng có bực pháp sư thuyết nhiều mà không hợp sự lợi ích và nội hội cũng không nhận rõ lời nói ấy lợi ích cùng chăng. Pháp sư như thế chỉ tạm gọi là pháp sư nội hội.
+- Trong đời này còn có bực pháp sư thuy ết nhiều và nói có lợi ích, luôn ngư ời nghe cũng nhận hiểu rõ lời ấy hiệp theo đáng lợi ích ho ặc không hiệp theo đáng lợi ích. Pháp sư như thế mới thật đáng là pháp sư trong nội hội. Những thế gọi là tứ chủng pháp sư.
+
+Người tỷ như mưa có bốn ra sao?
+
+111. Tứ chủng mưa ra sao?
+
+- Chuyển gầm mà không mưa.
+- Mưa mà không chuyển gầm.
+- Chuyển gầm và mưa.
+- Không chuyển gầm và không mưa.
+
+112. Người như bốn cách mưa có hiện bày trong đời như thế. Tứ chủng nhân như mưa ra sao? Người như chuyển gầm và không mưa, người như mưa mà không chuyển gầm, người như chuyển gầm và mưa, người như không chuyển gầm và không mưa.
+
+- Người như chuyển gầm mà không mưa ra sao? Có người trong đời này nói nhưng không làm, như thế gọi là người như chuyển gầm mà không mưa. Cách chuyển gầm mà không mưa như thế nào thì người ấy cũng như thế đó.
+- Người như mưa mà không chuyển gầm ra sao? Có người trong đời này không nói mà làm. Như thế là người như mưa mà không chuyển gầm. T rời mưa mà không chuyển gầm như thế nào thì người ấy cũng như thế đó
+- Người như chuyển gầm và mưa ra sao? Có người trong đời này hễ nói thì làm. Như thế gọi là người như chuyển gầ m và mưa. Trời chuyển gầm và mưa như thế nào thì người đó cũng như thế ấy.
+- Người như không chuyển gầm và không mưa ra sao? Có người trong đời này không nói và cũng không làm. Thế đó gọi là người như không chuyển gầm và cũng không mưa. Trời không chuyển gầm và cũng không mưa như thế nào thì người đó cũng như thế ấy. Người như bốn cách mưa hẳn có trong đời.
+
+Người như chuột có bốn ra sao?
+
+113. Bốn thứ chuột như là:
+
+- Chuột đào hang mà không ở,
+- Chuột nương ở mà không đào hang,
+- Chuột đào hang và ở,
+- Chuột không đào hang và cũng không ở.
+
+114. Người giống như bốn thứ chuột hẳn có trong đời này Người như bốn thứ chuột ra sao? Người tạo chỗ ở mà không ở, người nương ở mà không tạo chỗ ở, người làm chỗ ở và cũng ở luôn, người không làm chỗ ở và cũng không nương ở.
+
+- Người tạo chỗ ở mà không ở ra sao? Có người trong đời này đặng học pháp như là: Khế kinh (sutta), Trùng tụng (kheyya), Văn pháp (veyyākaraṇa), Tác phúng tụng (gathā), Tự thuyết (udāna), Bổn sự (itivuttaka), Bổn sanh (jātaka), Vị tằng hữu
+
+(abbhūtadhamma), Phương quảng (vedalla). Nhưng người đó không biết theo sự thật như vầy : Đây là khổ, đây là tập khổ, thế là diệt khổ, lối tiến hành đi đến chỗ diệt khổ. Chuột làm ổ mà không ở như thế nào thì người đó cũng như thế ấy.
+
+- Người nương ở mà không làm chỗ ở ra sao? Có người trong đời này không học pháp như là khế kinh, trùng tụng, văn pháp, tác phúng tụng, tự thuyết, bổn sự, bổn sanh, vị tằng hữu, phương quảng. Nhưng người ấy biết chắc thật như vầy: Đây là khổ, đây là tập khổ, đây là diệt khổ, đây là đường lối tiến hành đến diệt khổ. Như thế gọi là người ở mà không làm chỗ ở. Chuột ở mà không làm chỗ như thế nào thì người đó cũng như thế ấy.
+- Người làm chỗ và ở luôn ra sao? Có người trong đời này học pháp như là: Khế kinh, trùng tụng, văn pháp, tác phúng tụng, tự thuyế t, bổn sự, bổn sanh, vị tằng hữu, phương quảng, người đó vẫn biết theo thật như vầy: Đây là khổ, đây là tập khổ, đây là diệt khổ, biết đường lối tiến hành đến diệt khổ. Như thế gọi là người làm chỗ ở và ở luôn. Chuột ở và làm chỗ ở như thế nào, thì người ấy cũng như thế đó.
+- Người không ở và không làm chỗ ở ra sao? Có người trong đời này không học pháp như là: Khế kinh, trùng tụng, văn pháp, tác phúng tụng, tự thuyết, bổn sự, bổn sanh, vị tằng hữu, phương quảng và người đó cũng không biết theo sự thật như vầ y: Đây là khổ, đây là tập khổ, đây là diệt khổ, đây là đường lối tiến hành đưa đến diệt khổ. Như thế gọi là người không làm chỗ và cũng không ở. Chuột không ở và cũng không làm chỗ ở như thế nào thì người đó cũng như thế ấy. Người như bốn thứ chuột đã nói đây có hiện bày trong đời này.
+
+Người như bốn thứ xoài ra sao?
+
+115. Bốn thứ xoài:
+
+- Xoài sống mà có màu da chín.
+- Xoài chín mà màu da như sống.
+- Xoài sống mà màu da cũng sống
+- Xoài chín, màu da đều chín.
+
+116. Người như bốn thứ xoài vẫn có hiện bày trong đời. Bốn hạng người như xoài ra sao? Người tỷ như xoài sống mà màu da chín, n gười tỷ như xoài chín mà màu da sống, người tỷ như xoài sống và màu da cũng sống, người tỷ như xoài chín màu da đều chín.
+
+- Người như xoài sống mà màu da chín ra sao? Có người trong đời này, cách đi tới đi lui, ngó ngay day qua xoay lại, co lên bước xuống, mặc y ôm bát đáng cung kỉnh. Nhưng người ấy không biết theo sự thật như vầy : Đây là khổ, đây là khổ tập, đây là khổ diệt, đây là đường lối tiến hành đến diệt khổ , người như thế gọi là n gười như xoài sống mà màu da chín. Xoài sống mà màu da chín như thế nào thì người ấy cũng như thế đó.
+- Người như xoài chín mà màu da sống ra sao? Có người trong đời này, cách đi tới đi lui, ngó thẳng tới, ngó bên trái bên mặt, co lên bước xuống, đắp y mang bát không đáng cung kỉnh. Nhưng người ấy biết theo sự thật như vầy: Đây là khổ, đây là tập khổ, đây là diệt khổ, đây là đường lối tiến hành đưa đến diệt khổ , người như
+
+thế chẳng khác chi xoài chín màu da sống. Xoài chín màu da sống như thế nào thì người ấy cũng như thế đó.
+
+- Người như xoài sống và màu da sống ra sao? Có người trong đời này, cách bước tới bước lui, ngó ngay, xem bên trái bên mặt, co lên bước xuống, đắp y mang bát không đáng kỉnh trọng và người ấy cũng không biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ , người như thế chẳng khác chi xoài sống màu da sống. Xoài sống và màu da sống như thế nào thì người ấy cũng như thế đó.
+- Người như xoài chín luôn màu da chín ra sao? Có người trong đời này, cách đi tới đi lui, ngó thẳng, day qua xoay lại, co lên, bước xuống, đắp y mang bát đáng cung kỉnh và người ấy cũng biết theo sự thật như vầy : Đây là khổ, đây là đường lối tiến hành đưa đến diệt khổ , người như thế chẳng khác chi xoài chín luôn màu da cũng chín. Xoài chín luôn màu da cũng chín như thế nào thì người ấy cũng như thế đó. Người như bốn thứ xoài có hiện bày trong đời.
+
+Người tỷ như bốn thứ nồi ra sao?
+
+117. Nồi có bốn thứ:
+
+- Nồi không mà đậy kín.
+- Nồi đầy mà giở trống.
+- Nồi không và giở trống.
+- Nồi đầy và đậy kín.
+
+118. Người tỷ như bốn thứ nồi, những hạng như vậy có hiện bày trong đời như thế. Tứ chủng nhân như nồi ra sao? Người tỷ như nồi không mà đậy kín , người tỷ như nồi đầy mà giở ra , người tỷ như nồi không và giở trống, người tỷ như nồi đầy và đậy kín.
+
+- Người tỷ như nồi không mà đậy kín ra sao? Có người trong đời này, cách bước tới thối lui, ngó ngay xoay trái xoay mặt, co lên bước xuống, đắp y mang bát đáng kỉnh trọng, người ấy không đặng biết theo sự thật như vầy : Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ, người như thế gọi là (nồi) không mà đậy kín. Nồi không mà đậy kín như thế nào thì người ấy cũng như thế đó.
+- Người tỷ như nồi đầy mà giở trống ra sao? Có người trong đời này, có cách bước tới thối lui, ngó ngay day trái day mặt, co vô bước ra, đắp y mang bát không đáng cung kỉnh. Nhưng người ấy biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến diệt khổ. Như thế gọi là người như (nồi) đầy mà giở trống. Nồi đầy mà giở trống như thế nào thì người ấy cũng như thế đó.
+- Người tỷ như nồi không mà giở trống ra sao ? Có người trong đời này, có cách bước tới thối lui, ngó qua liếc lại, co vô bước ra, đắp y mang bát không đáng cung kỉnh và người ấy cũng không biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến diệt khổ , người như thế gọi là (nồi) không mà giở trống. Nồi không mà giở trống như thế nào thì người đó cũng như thế ấy.
+- Người tỷ như nồi đầy và đậy kín ra sao? Có người trong đời này, có cách bước tới bước lui, ngó qua ngó lại, xoay qua xoay lại, co vô bước ra, đắp y man g bát đáng cung kỉnh, người ấy biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ. Như thế gọi là người như (nồi) đầy và đậy kín. Nồi đầy và đậy kín như thế nào thì người ấy cũng như thế đó. Người tỷ như bốn thứ nồi có hiện bày trong đời.
+
+Người tỷ như hồ nước có bốn ra sao?
+
+119. Hồ nước có bốn thứ:
+
+- Hồ nước cạn mà bóng dọi sâu.
+- Hồ nước sâu mà bóng dọi cạn.
+- Hồ nước cạn bóng dọi cạn.
+- Hồ nước sâu bóng dọi sâu.
+
+120. Người tỷ như hồ nước có hiện bày trong đời này cũng như thế. Tứ chủng nhân như hồ nước ra sao? Người tỷ như hồ cạn bóng dọi sâu , người tỷ như hồ sâu bóng dọi cạn, người tỷ như hồ cạn bóng dọi cạn, n gười tỷ như hồ sâu bóng dọi sâu.
+
+- Người tỷ như hồ cạn bóng dọi sâu ra sao? Có người trong đời này có cách bước tới thối lui, ngó tới, day qua day lại, co vô bước ra, đắp y mang bát đáng cung kỉnh mà người đó không biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ. Như thế gọi là người như hồ cạn bóng dọi sâu. Hồ cạn bóng rọi sâu như thế nào thì người ấy cũng như thế đó.
+- Người như hồ sâu bóng dọi cạn ra sao? Có người trong đời này có cách bước tới thối lui, ngó ngay, day qua xoay lại, co vô bước ra, đắp y mang bát không đáng cung kỉnh mà người đó biết theo sự thật như vầy : Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ. Như thế gọi là người như hồ sâu bóng dọi cạn. Hồ sâu bóng dọi cạn như thế nào thì người đó cũng như thế ấy.
+- Người như hồ cạn bóng dọi cạn ra sao? Có người trong đời này có cách bước tới thối lui, ngó ngay, day qua xoay lại, co vô duổi ra, đắp y mang bát không đáng cung kỉnh và người đó cũng không biết theo sự thật như vầy : Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ. Như thế gọi là người như hồ cạn bóng dọi cạn. Hồ cạn bóng dọi cạn như thế nào thì người ấy cũng như thế đó.
+- Người như hồ sâu bóng dọi sâu ra sao? Có người trong đời này có cách bước tới thối lui, ngó ngay, day qua xoay lại, co vô duổi ra, đắp y mang bát đáng cung kỉnh và người đó biết theo sự thật như vầy : Đây là khổ… đây là đường lối tiến hành đến nơi diệt khổ. Như thế gọi là người như hồ sâu bóng dọi sâu. Hồ sâu bóng dọi sâu như thế nào thì người ấy cũng như thế đó. Người tỷ như bốn thứ hồ nước có hiện bày trong đời.
+
+Người như bò cổ có bốn thứ ra sao?
+
+121. Bò cổ có bốn hạng ra sao?
+
+- Bò hung dữ với đám mình mà không hung dữ với đám khác.
+- Bò hung dữ với đám khác mà không hung dữ với đám mình.
+- Bò hung dữ với đám mình luôn cả với đám khác,
+- Bò không hung dữ với đám mình và cũng không hung dữ với đám khác. Người như bốn thứ bò cổ vẫn có hiện bày trong đời nầy.
+
+122. Bốn hạng người như bò cổ ra sao? Người hung dữ trong bọn mình mà không hung dữ với bọn khác, người hung dữ với bọn khác mà không hung dữ với bọn mình, Người hung dữ với bọn mình và cũng hung dữ với bọn khác , người không hung dữ với bọn mình và cũng không hung dữ với bọn khác.
+
+- Người hung dữ trong đám mình mà không hung dữ trong bọn khác ra sao? Có người trong đời này ưa ép uổng trong đám mình mà không ép uổng đám của người khác, người như vậy tỷ như bò hung dữ trong đám mình mà không hung dữ t rong bọn khác. Bò mà hung dữ trong đám của mình nhưng không hung dữ trong bọn khác như thế nào thì người đó cũng như thế ấy.
+- Người hung dữ với đám khác mà không hung dữ trong đám mình ra sao? Có người trong đời này ưa ép uổng với đám khác mà không ép uổng trong đám của mình, người như vậy tỷ như bò hung dữ với đám khác mà không hung dữ trong đám mình. Bò mà hung dữ với đám khác mà không hung dữ với đám mình như thế nào thì người ấy cũng như thế đó.
+- Người hung dữ với đám mình và cũng hung dữ với đám khác ra sao? Có người trong đời này ép uổng trong đám của mình và cũng ép uổng đám của người khác. Như vậy gọi là người tỷ như bò hung dữ với đám mình và cũng hung dữ với đám khác. Bò mà hung dữ với đám mình và cũng hung dữ với đám khác như thế nào thì người ấy cũng tỷ như thế đó.
+- Người không hung dữ trong đám mình và cũng không hung dữ với đám khác ra sao? Có người trong đời này, không ép uổng trong đám của mình và cũng không ép uổng với đám khác , người như vậy tỷ như bò không hung dữ trong bầy và cũng không hung dữ với đám khác. Bò mà không hung dữ với đám của mình và cũng không hung dữ với đám khác như thế nào thì người đó cũng như thế ấy. Người tỷ như bốn thứ bò cổ có hiện bày trong đời.
+
+Người tỷ như độc xà có bốn ra sao?
+
+123. Tứ chủng độc xà:
+
+- Rắn có nộc chạy mau mà không độc.
+- Rắn có nọc chạy không mau mà độc.
+- Rắn có nọc chạy mau và độc.
+- Rắn có nọc chạy không mau và không độc.
+
+124. Người tỷ như bốn thứ độc xà có hiện bày trong đời này. Tứ chủng nhân (như độc xà) ra sao? Người có nọc chạy mau mà không độc, người có nọc chạy không mau mà độc, n gười có nọc chạy mau và độc, n gười có nọc chạy không mau và không độc.
+
+- Người (như rắn) có nọc chạy mau mà không độc ra sao? Có người trong đời này thường hay sân, nhưng sự sân của y không ngấm ngầm lâu. Như thế gọi là người (như rắn) có nọc chạy mau mà không độc. Rắn có nọc chạy mau mà không độc như thế nào thì người ấy cũng như thế đó.
+- Người (như rắn) có nọc chạy không mau mà độc ra sao? Có người trong đời này ít hay giận, nhưng sự giận của y vẫn chất chứa lâu , người như thế tỷ gọi là có nọc chạy không mau mà độc. Rắn có nọc chạy không mau mà độc như thế nào thì người ấy cũng như thế đó.
+- Người (như rắn) có nọc chạy mau và độc ra sao? Có người trong đời này thường hay sân và sự sân của y đó vẫn chất chứa lâu dài. Như thế gọi là người có nọc chạy mau và độc. Rắn có nọc chạy mau và độc như thế nào thì người ấy cũng như thế đó.
+- Người (như rắn) có nọc độc chạy không mau và không độc ra sao? Có người trong đời này không thường hay sân và cách giận của y cũng không chất chứa lâu dài. Như thế gọi là người có nọc chạy không mau và không độc. Rắn có nọc chạy không mau và không độc như thế nào thì người ấy cũng như thế đó. Người tỷ như bốn thứ rắn có hiện bày trong đời này.
+
+125.
+
+- Người chưa xét cho cạn mà khen người không đáng khen ra sao? Có người trong đời này khen ngợi đám ngoại giáo, đệ tử của ngoại giáo là kẻ tu hành sai lạc đê hèn, mà nói là bậc tu hành tốt hoặc bực tu hành chơn chánh. Như thế gọi là người chưa gạn xét mà khen ngợi kẻ không đáng khen ngợi.
+- Người chưa xét cạn mà chê bai bực đáng khen ngợi ra sao? Có người trong đời này chê bai Đức Phật và bực Thinh văn tu hành chơn chánh tốt đẹp mà cho rằng tu hành sai lạc đê hèn. Như thế gọi là người chưa xét cạn mà chê bai bực đáng khen ngợi.
+- Người chưa gạn xét mà tín ngưỡng với bực không đáng tín ngưỡng ra sao? Có người trong đời này phát tâm tín ngưỡng theo kẻ tu hành sai xiển đê hèn mà cho là tu hành đúng đắn cao quí, tốt đẹp. Như thế gọi là người chưa cạn xét mà tín ngưỡng với bực không đáng tín ngưỡng.
+- Người không xét cạn chẳng tín ngưỡng với bực đáng tín ngưỡng ra sao? Có người trong đời này không đặng tín ngưỡng với điều kiện tu hành tốt đẹp chơn chánh mà cho là tu hành sai xiển , đê hèn , xấu xa. Như thế gọi là người không xét cạn chẳng tín ngưỡng với bực đáng tín ngưỡng.
+
+126.
+
+- Người xét cạn rồi chê trách kẻ đáng chê trách ra sao? Có người trong đời này vẫn chê trách đám ngoại giáo và đệ tử đám ngoại giáo là kẻ tu hành sai rồi cho rằng tu hành sai xiển, xấu hèn. Như thế gọi là người xét cạn rồi chê trách kẻ đáng chê trách.
+- Người xét cạn rồi khen ngợi bực đáng khen ngợi ra sao? Có người trong đời này khen ngợi Đức Phật và chư Thinh văn đệ tử Phật là bực tu hành chơn chánh tốt đẹp rồi cho là tu hành chơn chánh tốt đẹp. Như thế gọi là người xét cạn rồi khen ngợi bực đáng khen ngợi.
+- Người suy xét cạn rồi không tín ngưỡng với bực không đáng tín ngưỡng ra sao? Có người trong đời này không tín ngưỡng phát sanh trong điều kiện tu hành xấu xa , sai
+
+lạc. Như thế gọi là người suy xét cạn rồi không tín ngưỡng với bực không đáng tín ngưỡng.
+
+- Người suy xét cạn rồi mới tín ngưỡng bực đáng tín ngưỡng ra sao? Có người trong đời này làm cho sự tín ngưỡng phát sanh trong điều kiện tu hành chơn chánh tốt đẹp, thời cho là tu hành chơn chánh tốt đẹp. Như thế gọi là người suy xét cạn rồi mới tín ngưỡng với bực đáng tín ngưỡng.
+
+127.
+
+- Người chê trách kẻ đáng chê trách hợp thời nhưng không khen ngợi bực đáng khen ngợi hợp thời ra sao? Trong đời này cũng có người đáng khen ngợi, cũng có người đáng chê trách. Trong hai bực đó mà người nào đáng chê trách thì chê t rách đúng thời kỳ. Còn có người đáng khen ngợi mà không khen ngợi đúng thời kỳ. Như thế gọi là người chê trách kẻ đáng chê trách đúng thời kỳ, mà không khen ngợi bực đáng khen ngợi hợp thời.
+- Người khen ngợi với bực đáng khen ngợi hợp thời mà không chê trác h kẻ đáng chê trách hợp thời đó ra sao? Có người trong đời này đáng khen ngợi cũng có, đáng chê trách cũng có. Trong hai hạng người đó mà người nào đáng khen ngợi thì khen ngợi đúng hợp thời. Nhưng không chê trách kẻ đáng chê trách đúng theo thời. Như thế gọi là người khen ngợi bực đáng khen ngợi hợp thời mà không chê trách kẻ đáng chê trách hợp thời.
+- Người chê trách kẻ đáng chê trách hợp thời và khen ngợi bực đáng khen ngợi hợp thời đó ra sao? Có người trong đời này đáng khen cũng có, đáng chê trách cũng có. Trong hai hạng người đó, người nào đáng chê trách thì chê trách đúng theo thời , người nào đáng khen ngợi cũng khen ngợi đúng theo thời, thì thành ra người biết thời, mới giải quyết vấn đề đó trong chỗ đó. Như thế gọi là người đáng chê trách, kẻ đáng chê trách hợp thời và khen ngợi bực đáng khen ngợi hợp thời.
+- Người không chê trách kẻ đáng chê trách hợp thời cũng không khen ngợi bực đáng khen ngợi hợp thời ra sao? Có người trong đời này đáng khen ngợi cũng có, đáng chê trách cũng có. Trong hai hạng người đó, nếu ai đối với kẻ đáng chê trách không chê trách theo thời. Còn bực đáng khen ngợi mà người ấy không khen ngợi hợp thời; như vậy mới là người tự nhiên và thường có chánh niệm lương tri. Như thế gọi là người không chê trách kẻ đáng trách hợp thời, cũng không khen ngợi bực đáng khen ngợi hợp thời.
+
+128.
+
+- Người sống với quả cần lao chớ không sống với quả phúc ra sao? Người nào nuôi sống tiến hóa thạnh hành bằng sức lực do sự cố gắng tinh tấn siêng năng, không phải từ nơi quả phúc phát sanh. Như thế gọi là n gười sống với quả cần lao chứ không sống với quả phúc.
+- Người sống với quả phúc chẳng phải sống với quả cần lao ra sao? Chư thiên bực cao cao, luôn đến chư thiên Tha hóa tự tại , gọi là người sống với quả phúc chớ chẳng phải sống với quả cần lao.
+- Người sống với quả cần lao và quả phúc ra sao? Nghề sống của người nào tiến hóa thạnh hành do sự cố gắng, tinh tấn, siêng năng cũng có nhờ quả phúc. Như thế gọi là người sống với quả cần lao và quả phúc.
+- Người chẳng phải sống với quả cần lao và chẳng phải sống nhờ qu ả phúc ra sao? Tất cả chủng sanh trong địa ngục gọi là người chẳng phải sống với quả cần lao và cũng không đặng sống với quả phúc.
+
+129.
+
+- Người đi từ chỗ tối đến chỗ tối ra sao? Có người trong đời này sanh giòng thấp hèn như là: Cận thắng tiện dân, thuộc da , thợ dệt, súc (bình) bông, đỗ phân. Nghèo thiếu cơm ăn áo mặc, xe cộ, nước nôi cho đến bông hoa đồ thoa thơm, nơi nằm ngồi, vật dụng, đèn đuốc luôn chỗ ở, khó kiếm đồ che thân, sống chật vật ráng tay làm hàm nhai mới có cơm ăn vừa đủ miệng, lùn xủn xấu xa thấy không ai muốn ngó, có nhiều bệnh hoạn hoặc tàn phế cụt tay chân, đui, bại. Y hành động thân, khẩu, ý ác. Sau khi chết sa đọa ác đạo, khổ thú, địa ngục. Như thế gọi là người đi từ chỗ tối đến chỗ tối.
+- Người đi từ chỗ tối đến chỗ sáng ra sao? Có người trong đời này sanh giòng thấp hèn như là: Cận thắng tiện dân, thuộc da, thợ dệt, súc (bình) bông, đỗ phẫn. Nghèo thiếu cơm ăn áo mặc, xe cộ, nước nôi cho đến bông hoa đồ thơm thoa, nơi nằm ngồi, vật dụng, đèn đuốc luôn chỗ ở, khó kiếm đồ che thân, sống chậ t vật ráng tay làm hàm nhai mới có ăn vừa đủ miệng, lùn xủn xấu xa thấy không muốn ngó, có nhiều bệnh hoạn hoặc tàn phế cụt tay, cụt chân, đui, bại. Y hành động thân, khẩu, ý thiện. Sau khi chết siêu thăng thiên đường nhàn cảnh. Như thế gọi là người đi từ chỗ tối đến chỗ sáng.
+- Người đi từ chỗ sáng đến chỗ tối ra sao? Có người trong đời này sanh ra nơi dòng cao quí như là: Dòng vua, đại phạm chí, đại gia trưởng nhiều quyền tước, vật thực của cải, đủ kim ngân tài sản lúa gạo, các món vừa theo ý thích và người ấy có sắc đẹp đáng xem chiêm ngưỡng, thân thể tợ màu vàng, sẵn đồ phụ thuộc cần dùng nương ở nghỉ ngơi, vật thơm thoa, bông đèn, vải quí, nước nôi , xe cộ. Y hành động thân, khẩu, ý ác. Sau khi chết sa đọa ác đạo, khổ thú, địa ngục. Như thế gọi là người đi từ chỗ sáng đến chỗ tối.
+- Người đi từ chỗ sáng đến chỗ sáng ra sao? Có người trong đời này sanh ra trong dòng giống cao quí như là: Dòng vua, đại phạm chí, đại gia trưởng nhiều quyền tước, vật thực của cải, đủ kim ngân tài sản, lúa gạo, các món vừa theo ý thích và người ấy có sắc đẹp đáng xem chiêm ngưỡng, thân thể tợ màu vàng, sẵn đồ phụ thuộc cần dùng nương ở nghỉ ngơi, vật thơm thoa, bông đèn, vải quí, nước nôi xe cộ. Y hành động thân, khẩu, ý thiện. Sau khi chết siêu thăng thiên đường nhàn cảnh. Như thế gọi là người đi từ chỗ sáng đến chỗ sáng.
+
+130.
+
+- Người từ chỗ thấp đến chỗ thấp ra sao? … như thế gọi là người từ chỗ thấp đến chỗ thấp.
+- Người từ thấp đến cao ra sao? … như thế gọi là người từ thấp đến cao.
+- Người từ chỗ cao đến thấp ra sao? … như thế gọi là người từ chỗ cao đến thấp.
+- Người từ chỗ cao đến chỗ cao ra sao? … như thế gọi là người từ chỗ cao đến chỗ cao.
+
+Người như tứ chủng mộc ra sao?
+
+131. Cây có bốn thứ như là cây ở giữa xốp, xung quanh thịt chắc; cây ở giữa lõi chắc, xung quanh có dác xốp; cây ở giữa thịt xốp, xung quanh dác cũng xốp; cây ở giữa lõi chắc, xung quanh đều lõi chắc.
+
+132. Người như bốn thứ cây có hiện bày trong đời. Tứ chủng nhân như cây ra sao? Người giữa xốp, xung quanh thịt chắc, người giữa lõi chắc, xung quanh có dác xốp, n gười giữa xốp, xung quanh dác cũng xốp, n gười giữa lõi chắc, xung quanh đều lõi chắc.
+
+- Người giữa xốp, xung quanh thịt chắc ra sao? Có người trong đời này thiếu giới, có pháp tội lỗi, nhưng trong đám của người ấy có giới đức, có pháp tốt đẹp. Như thế gọi là người giữa xốp, xung quanh thịt chắc. Cây ở giữa xốp xung quanh thịt chắc như thế nào thì người ấy cũng như thế đó.
+- Người giữa lõi chắc, xung quanh có dác xốp ra sao? Có người trong đời này đầy đủ giới đức, có pháp tốt đẹp, nhưng phần đông trong bọn phá gi ới, có pháp ô trược. Như thế gọi là người giữa lõi chắc xung quanh có dác xốp. Cây giữa lõi chắc, xung quanh có dác xốp như thế nào thì người ấy cũng như thế đó.
+- Người giữa xốp, xung quanh dác cũng xốp ra sao? Có người trong đời này là kẻ thiếu giới, có pháp ô trược; cho đến trong bọn của người ấy cũng thiếu giới, có pháp ô trược. Như thế gọi là người giữa xốp xung quanh dác cũng xốp. Cây giữa xốp xung quanh dác cũng xốp như thế nào thì người ấy cũng như thế đó.
+- Người giữa lõi chắc xung quanh đều lõi chắc ra sao? Có người trong đời này tự có giới đức và có pháp tốt đẹp; trong đám của người ấy cũng có giới đức và có pháp tốt đẹp. Như thế gọi là người giữa lõi chắc xung quanh đều lõi chắc. Cây giữa lõi chắc xung quanh đều lõi chắc như thế nào thì người ấy cũng như thế đó. Người tỷ như bốn thứ cây vẫn có hiện bày trong đời.
+
+133.
+
+- Người chấp theo hình thức mà tín trọng trong sắc tướng ra sao? Có người trong đời này thấy hình sắc cao, không ốm, không mập, hình sắc có thể vóc đều đặn, hoặc hình sắc tốt đẹp không thể chê rồi chấp theo nội trong hình sắc đó mới phát ra sự tín ngưỡng. Như thế gọi là người chấp theo nội trong hình thức mà tín trọng trong sắc tướng.
+- Người chấp trong phần thinh , tín trọng theo phần thinh đó ra sao? Có người trong đời này chấp theo trong p hần thinh, bằng cách khen ngợi ân đức của người nói khuất lấp, bằng cách tán thán người khác trứ tác, bằng cách nưng bợ trước mặt người, bằng cách khen ngợi mà người khác đem đi quảng cáo với nhau rất nhiều rồi còn phát sanh sự tín trọng. Như thế gọi là người chấp nội trong phần thinh, tín trọng theo phần thinh.
+- Người chấp trong phần thê thảm , tín trọng theo phần thê thảm ra sao? Có người trong đời này nhận thấy thê thảm bằng y, bát; nhận thấy thê thảm với chỗ ở hoặc thê thảm với cách khổ hạnh, chấp nội tro ng phần thê thảm đó rồi mới phát sanh sự tín ngưỡng. Như thế gọi là người chấp trong phần thê thảm tín trọng theo phần thê thảm.
+- Người chấp nội trong pháp , tín trọng pháp ra sao? Có người trong đời này đầy đủ giới tịnh tuệ, chấp nội trong pháp, còn làm cho sự tín trọng phát sanh. Như thế gọi là người chấp trong phần pháp tín trọng pháp.
+
+134.
+
+- Người hành tự lợi , không hành lợi tha ra sao? Có người trong đời này thành người tự đầy đủ giới không dẫn dắt người khác cho đặng đầy đủ giới. Tự đầy đủ tịnh, không dẫn dắt người khác cho đặng đầy đủ tịnh. Tự đầy đủ tuệ, không dẫn dắt người khác
+
+cho đặng đầy đủ tuệ. Tự đầy đủ giải thoát, không dẫn dắt người khác đến chỗ giải thoát. Tự mình đến giải thoát tri kiến, không dẫn dắt người khác đến giải thoát tri kiến. Như thế gọi là người hành tự lợi, không hành lợi tha.
+
+- Người hành lợi tha , không hành tự lợi ra sao? Có người trong đời này tự mình không đầy đủ giới mà dẫn dắt cho người khác đặng đầy đủ giới. Tự mình không đầy đủ tịnh mà dẫn dắt cho người khác đặng đầy đủ tịnh. Tự mình không đầy đủ tuệ mà dẫn dắt cho người khác đặng đầy đủ tuệ. Tự mình không đến bực giải thoát mà dẫn dắt người khác đến bực giải thoát. Tự mình không đến bực giải thoát tri kiến mà dẫn dắt cho người khác đến bực giải thoát tri kiến. Như thế gọi là người hành lợi tha mà không hành tự lợi.
+- Người hành tự lợi và lợi tha ra sao? Có người trong đời này thành người tự đầy đủ giới rồi dẫn dắt cho người khác đặng đầy đủ giới. Thành người tự đầy đủ tịnh rồi dẫn dắt cho người khác cũng đầy đủ tịnh. Tự đầy đủ tuệ rồi dẫn dắt cho người khác cũng đầy đủ tuệ. Tự đầy đủ giải thoát rồi dẫn dắt cho người khác cũng đầy đủ giải thoát. Tự đầy đủ giải thoát tri kiến rồi dẫn dắt cho người khác đặng đầy đủ giải thoát tri kiến. Như thế gọi là người hành tự lợi và lợi tha.
+- Người không hành tự lợi và lợi tha ra sao? Có người trong đời này tự mình không đầy đủ giới và cũng không dìu dắt kẻ khác đến bực đầy đủ giới. Tự không đầy đủ tịnh và cũng không dìu dắt kẻ khác cho đặng đầy đủ tịnh. Tự không đầy đủ tuệ và cũng không dìu dắt cho người khác đến bực đầy đủ tuệ. Tự mình không đến bực giải thoát và không dẫn dắt người khác đến bực giải thoát. Tự mình không đến bực giải thoát tri kiến cũng không dẫn dắt người khác đến bực giải thoát tri kiến. Như thế gọi là người không hành tự lợi và lợi tha.
+
+135.
+
+- Người tự tìm nóng nảy hiệp với sự vật làm cho mình nóng nảy ra sao? Trong đời này có người lỏa thể, thiếu lễ độ, dùng phẩn, dùng phẩn dính tay, người mời lại thọ thực không đến, người kêu ngừng không ngừng, không thích vật thực mà họ dùng rồi đem lại, không thích vật thực mà họ hồi hướng đến ta, không nhận thọ thỉnh, không thọ cơm xúc trong nồi, không dùng cơm xúc từ trong nồi và trong chảo, không dùng vật thực chỗ có cửa đất ngăn giữa, không dùng vật thực chỗ có cục không thành ngăn giữa, không dùng vật thực mà có chài đâm tiêu ngăn giữa, không dùng vật thực của cả hai người đang ăn, không dùng vật thực của đàn bà có thai, không dùng vật thực của đàn bà đang cho con bú, không dùng vật thực của phụ nữ ở giữa đám nam, không dùng vật thực mà họ gom lại, không dùng vật thực của họ nuôi chó, không dùng vật thực có ruồi đậu từ chòm, không dùng cá thịt, không uống rượu men, nước rượu ngâm. Người ấy thọ thực chỉ một nhà, tự mình sống bằng một vắt cơm. Thành người ăn hai nhà, tự mình sống bằng hai vắt cơm,… thành người thọ thực bảy nhà, tự sống bằng bảy vắt cơm. Hoặc tự sống bằng cách vật thực họ sắp đặt một chỗ, hoặc tự sống bằng vật thực họ sắp hai chỗ… hoặc tự sống bằng vật thực mà họ sắp bảy chỗ. Hoặc độ một ngày một bữa, hoặc độ hai ngày một bữa … hoặc độ bảy ngày một bữa. Hoặc người tìm tòi hiệp với cách độ vật thực nữa tháng một lần, vẫn thấy rõ như vậy. Hạng đó, cũng có người ăn rau hoặc có người ăn luá tắt, có người ăn hột ý dỉ, có người ăn da dư, có người ăn mủ cây, có người ăn đọt lúa, có người ăn cơm cháy, có người dùng nước gạo, có người ăn cỏ, có người ăn cứt bò, sống theo gốc cây trong rừng, có người thường ăn trái cây rụng. Hoặc có người mặc vải bố, mặc bố trộn, mặc
+
+thứ vải họ bỏ, mặc vải bỏ theo thây ma, hoặc mặc vải bó ma, hoặc mặc vải vỏ cây, hoặc mặc da cọp, mặc da cọp rọc giữa, mặc nấm cây, mặc vỏ cây dương, hoặc bận vải bằng trái cây, hoặc bận bằng tóc người, hoặc bận vải lông thú dữ, hoặc mặc vải lông chim cú, hoặc mặc vải lông chim cú mèo, hoặc nhổ tóc, hoặc nhổ râu, tìm hợp nhổ tóc râu, hoặc đứng không cần ngồi, hoặc thích khổ hạnh ngồi chồm hổm, hoặc đứng và đi kinh hành… trên sắt nhọn, thành tựu cách nằm trên sắt nhọn. Hoặc tìm sự tinh tấn trong cách xuống nước rửa tội lúc thì giờ chiều lần thứ ba, hoặc tìm tòi hiệp với cách làm cho thân nóng và cho nóng khắp như thế thấy chẳng ít. Như vậy gọi là người tự làm cho nóng nảy và tìm kiếm hiệp với sự vật tự làm cho nóng nảy.
+
+- Người làm cho kẻ khác nóng nảy, tìm tòi sự vật làm cho kẻ khác nóng nảy ra sao? Có người trong đời này giết dê, giết heo, giết chim, giết con chương, sát chim thành thợ săn, thành dân hạ bạc, thành ăn cướp, ăn cướp sát nhân, thành người giết bò, thành người gác khám. Hoặc là có đám người khác làm nghề ác độc. Như thế gọi là người làm cho kẻ khác nóng nảy, tìm tòi theo sự vật làm cho kẻ khác nóng nảy.
+- Người tự làm nóng nảy tìm tòi theo sự vật nóng nảy và làm cho người khác nóng nảy luôn tìm theo sự vật để cho người khác nóng nảy ra sao? Có người trong đời này làm vua đã hưởng ngôi cao sang đặc biệt. Hoặc làm phạm chí quân sư, người đó cho tạo hội trường mới phía đông của kinh đô, cạo râu tóc mặc da cọp luôn móng, thân thoa bằng đề hồ và dầu, gảy lưng bằng sừng con chương và ngự đến hội trường với hoàng hậu cùng phạm chí quân sư , người đó thành tựu sự ngủ nghĩ chỗ đó, trên mặt đất lìa đồ trải; người vào trướng thoa đồ xanh. Đức vua còn sống bằng sữa bò vú một phía của con bò nái mà có con giống như bò nái (tức là bò mẹ trắng bò con cũng trắng, bò mẹ đỏ bò con cũng đỏ). Hoàng hậu sống bằng sữa cái vú thứ hai của bò đó. P hạm chí quân sư sống với sữa cái vú thứ tư đó. Còn bò con thì uống sửa dư của đức vua. Nhóm của ông giết bò đực bao nhiêu để cúng bùa, giết bò nghé cái bao nhiêu để cúng bùa; giết trừu bằng bao nhiêu để cúng bùa; giết dê bao nhiêu đây để cúng bùa, giết chừng bao nhiêu ngựa đây để cúng bùa. Đốn cây chừng bao nhiêu đây để lập đàn, chọc giây tòng chừng bao nhiêu đây hầu lợi ích cho sự che lợp. Nếu người nào thành đày tớ, kẻ tay sai, thành người trong ban tổ chức của đức vua, người đó bị hành phạt oai hiếp khóc nước mắt đầy mặt phải làm việc khắp hết. Như thế gọi là người tự làm nóng nảy, tìm sự vật tự làm nóng nảy, làm cho người khác nóng nảy và tìm theo sự vật làm cho người khác nóng nảy.
+- Người không làm cho ta nóng nảy, không tìm sự vật tự làm nóng nảy, không làm cho người khác nóng nảy và cũng không tìm sự vật làm cho người khác nóng nảy ra sao? Người không tự làm nóng nảy, không làm cho người khác nóng nảy, không còn dục vọng diệt trừ phiền não là người mát mẻ hưởng an vui tự đặc biệt trong đời hiện tại. Như Lai ra trong đời này thành bực Ứng Cúng , Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải , Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhơn Sư, Phật, Thế Tôn. Ngài tự biết tột đem ra truyền bá pháp, trước sau và chặng giữa đều hay, gồm đủ ý nghĩa văn chương, tuyên bố phạm hạnh trong sạch đầy đủ hoàn toàn. Quan đại thần hoặc con quan đại thần hoặc người sanh trong một dòng giống nào nếu nghe pháp ấy, người đó khi nghe pháp ấy rồi vẫn có sự tín ngưỡng với Như Lai. Y do nhờ sự tín ngưỡng mới suy xét nhận thấy như vầy: Người thế tục trong đường lối
+
+bụi bặm, xuất gia là dịp rất tốt, cách mà ta ở trong gia đình sẽ hành tịnh hạnh chuyên môn như là ốc xa cừ chùi cho sạch sẽ rất khó đặng thế nào. Ta nên cạo râu tóc, mặc ca- sa ra khỏi nhà, xuất gia thành nhà tu, bực không môn. Như thế với khi khác họ bỏ phần cơm nhiều hoặc ít, bỏ thân thuộc ít hoặc nhiều, cạo râu tóc mặc ca -sa ra khỏi nhà, xuất gia thành bực xuất gia không môn. Người đó thành người đã tu như thế đầy đủ giới hạnh của chư Phíc -khú trừ sát sanh thành người tránh xa sự sát sanh. Bỏ côn, bỏ gươm giáo, có sự tàm, có sự thương mến, có tâm bi, mong mỏi lợi ích liên quan với chúng sanh. Bỏ sự trộm cướp thành người xa lìa trộm cướp, chỉ ăn đồ họ cho, cần dùng đồ họ cho, tự không làm thành người trộm cướp, thành người trong sạch. Bỏ nghiệp trái nghịch với phạm hạnh, hành theo phạm hạnh, có cách xa lìa nghiệp trái với phạm hạnh, dứt tuyệt sự dâm dục của người thế gian. Bỏ vọng ngôn, xa lìa cách vọng ngôn; chỉ nói thật, thường duy trì lời chắc chắn. Có cách nói bền vững không nói buông thả, không nói gạt, bỏ lưỡng thiệt, nghe đây không đem nói kia, không đem nói đây mà làm cho đám này chia rẽ nhau. Hoặc nghe kia không đem lại nói đây mà làm cho đám người đó chia rẽ, hoặc thường nhơn chia rẽ nhau. Hoặc đung đúc cho người hòa hợp nhau, hoan hỷ với sự hòa hợp nhau, ưa sự hòa hợp nhau, hoan hỷ với sự hòa hợp nhau, hớn hở với nhóm người hòa hiệp nhau, tường thuật những điều cho người hòa hợp nhau. Bỏ nói ác, xa lìa ác khẩu chỉ nói những lời không tội lỗi vừa tai, bằng cách đắc nhân tâm của dân chúng, phần nhiều người ưa mến vừa lòng. Bỏ lời thêu dệt, chừa bỏ tuyệt lời ỷ ngữ, nói phải thời, chỉ nói lời chơn thật, nói đúng lý, nói đúng pháp, nói đúng luật, chỉ nói lời có căn cứ, có chỗ dẫn chứng, có chỗ hiệp với lợi ích hợp thời. Người đó là bực chừa tuyệt khỏi cách xa lìa mầm móng và giống nòi. Thành bực độ một bữa, chừa cách độ tối, trá nh khỏi ăn phi thời. Xa lìa múa hát âm nhạc và cũng không coi cách chơi trái với tông giáo, xa lìa sự trang sức và đeo mang tràng hoa bôn g thơm, đồ thoa da, những đồ sáp chưng dọn thân, trách xa chỗ nằm ngồi cao rộng, trá nh thọ vàng bạc, xa lìa thọ lúa gạo sống, trá nh thâu phụ nữ đồng nữ, tránh thâu tớ nam tớ nữ, tránh thọ lãnh dê trừu, tránh thọ lãnh gà và heo, tránh thọ lãnh voi trâu lừa ngựa, tránh thọ lãnh ruộng rẫy và đất vườn, tránh xa lãnh xứ và sai khiến, tránh xa sự mua bán, tránh xa gian dối cách đo lường. Xa lìa cách gian trá với sự thâu hối lộ bằng cách làm đồ giả mạo, tránh xa sự chém giết, xòng xiềng, hăm dọa lấy của, ăn cướp có bè đảng và la hét. Y là bực thích cà -sa tùy thân, đi bát để giúp bụng, y gìn giữ tám món phụ tùng sắp đi theo hướng muốn đi. Chim có cánh có sự nghiệp chỉ là cánh của mình mà thôi, cũng bay đi theo hướng muốn đi như thế nào thì y cũng như thế đó; vẫn vui thích y để hộ thân, đi bát dành để trợ bụng, gìn giữ bao nhiêu phụ tùng sắp đi theo hướng muốn đi. Y có giới đặc biệt thời hưởng trong phần an vui chẳng lỗi bên trong. Mắt thấy sắc y không chấp theo sắc tướng hiện bày, không thành người chấp theo y báo. Tất cả pháp bất thiện như là tham ác, sân độc tươm theo kẻ không thu thúc môn quyền như là con mắt ấy vẫn không thu thúc nhãn quyền chính là con mắt. Mắt nào làm nhơn để hành thu thúc nhãn quyền chính là con mắt. Vẫn giữ gìn quyền là gìn giữ nhãn; đi đến sự thu thúc quyền chính là thu thúc con mắt. Tai nghe tiếng… tâm biết cảnh pháp, rồi không thành người chấp theo hình thức, không chấp theo y báo, tất cả pháp bất thiện nhơ bẩn như là tham ác, buồn rầu sẵn tươm theo kẻ không thu thúc quyền tức là không thu t húc tâm; như là tâm nào hành đặng thu thúc quyền, chính là tâm đó vẫn thu thúc quyền đó. Vẫn đến sự thu thúc
+
+quyền, chính là thu thúc tâm đó. Y đã hợp với quyền thu thúc đặc biệt, hưởng chỉ phần an vui mà những phiền não chảy ra đặng. Y hành lướt đến sự bi ết khắp, tiến hành lương tri với tất cả sự lay động, lương tri với sự đắp y mang bát, hành lương tri với sự ẩm thực, hành lương tri trong khi đại tiểu, thật hành lương tri với sự đại tiểu oai nghi, người hiệp với giới đặc biệt, hợp với quyền thu thúc đặc biệt hợp với chánh niệm lương tri đặc biệt ấy và hiệp với tri túc đặc biệt, vẫn hưởng nơi nương vắng lặng là rừng bụi núi triền hang, nghĩa địa, đất hoang, nơi trống, đồng cỏ. Y sau khi đi bát dùng rồi ngồi tịnh ngay thân, bổ túc chánh niệm chặt chẽ, y bỏ t ham ác đặng, tâm vẫn xa lìa tham ác, còn làm cho tâm trong sạch lìa khỏi tham ác, bỏ sự trở ngại là sân độc, đã bỏ sự trái nghịch tức là sân độc, có tâm không ép bức, có tâm tế trợ lợi ích liên quan với tất cả chúng sanh, còn làm cho tâm trong sạch lìa trở ngại là sân độc và bỏ hôn trầm thùy miên thành người xa lìa hôn trầm thùy miên, có tư tưởng sáng suốt, có chánh niệm lương tri, còn làm cho tâm lìa hôn trầm thùy miên. Bỏ phóng dật thành người có tâm không tán loạn, bực có tâm yên tịnh trong phần trong. Còn làm cho tâm trong sạch lìa trạo hối 3, bỏ hoài nghi, vượt khỏi hoài nghi đặng. Khỏi cần nói tại sao tất cả pháp thiện làm cho tâm trong sạch xa lìa hoài nghi. Y bỏ pháp cái đặng rồi vắng lặng lìa tất cả dục, vắng lặng lìa tất cả pháp bất thiện vào đến sơ thiền có tầm, tứ, hỷ, lạc, định. Sanh từ thê thảm thành tựu oai nghi, vì vắng lặng tầm tứ vào nhị thiền. Tâm càng trong sạch, thành pháp độc lập phần trong không có tầm tứ, chỉ còn hỷ lạc sanh từ tịnh. Vẫn thành tựu oai nghi do chán nản pháp hỷ, thành người có tâm xả, có chánh niệm lương tri và hưởng lạc bằng thân vào đến tam thiền. Theo đây, chư thánh nhắc rằng là người có tâm xả, có chánh niệm ở yên vui như thế, thành tựu oai nghi bỏ khổ bỏ vui đặng do bỏ khổ lạc vì trước đã diệt ưu hỷ rồi vào đến tứ thiền không có khổ lạc, có niệm trong sạch sanh từ xả, khi tâm đặng tịnh sạch sẽ trong trẻo , không có phiền não , xa lìa tùy phiền não dĩ nhiên dịu dàng thích hợp công chuyện không lay động như thế, người chú tâm theo túc mạng thông người có thể nhớ đặng nhiều kiếp sống như là 1 đời, 2 đời, 3 đời, 4 đời, 5 đời, 6 đời, 7 đời, 8 đời, 9 đời, 10 đời, 30 đời, 40 đời, 50 đời, 100 đời, 1000 đời, một ức đời, hoặc luôn nhiều tiểu kiếp, trung kiếp, đại kiếp. Biết rằng đời ấy ta tên đó nhà cửa như thế, có màu da như thế, có vật thực như thế, hưởng khổ vui như thế, có tuổi thọ bao nhiêu đó, khi chết lìa đời đó rồi đặng đi sanh cõi kia. Đời đó ta có tên như thế, nhà cửa như thế, có nước da nhan sắc như thế, hưởng khổ vui như thế, hưởng thọ như thế, khi ta tử biệt đời kia đặng sanh lại đời này. Ta nhớ đặng nhiều đời trước luôn cả thái độ cho đến rộng rãi với cách như thế. Phíc-khú đó khi tâm tịnh trong sạch , trong trẻo không phiền não, xa lìa tùy phiền não yếu ớt thông thường, vững vàng thích hợp công chuyện cho đến không lay động như thế. Y phải chăm tâm cho biết tâm và những chúng sanh hóa sanh. Y thấy đám chúng sanh đang tử biệt và đang tục sinh 4, sang hèn có màu da nhan sắc tốt xấu, bị khổ hưởng vui. Bằng thiên nhãn trong trẻo hơn con mắt nhân loại, rõ biết nhóm chúng sanh do theo nghiệp là những chúng sanh này có thân nghiệp ác, khẩu nghiệp ác, ý nghiệp ác chê bai bực thánh thành tà kiến, chấp theo hành động tà kiến. Sau khi chết đến khổ thú, bàng sanh, ngạ quỉ và địa ngục.
+
+3 Trạo hối tức Điệu hối. 4 Tục sinh hay tái tục
+
+Còn những chúng sanh có thân nghiệp thiện, khẩu ng hiệp thiện, ý nghiệp thiện không chê bai thánh nhân, đó là chánh kiến, tín ngưỡng theo chánh kiến. Sau khi chết đến cõi vui, thiên đường như thế. Người vẫn thấy chúng sanh chết rồi tục sinh đặng sang hèn, có màu da tốt xấu, hưởng khổ lạc. Bằng thiên nhãn t rong sạch hơn con mắt nhơn loại vẫn thấy các chúng sanh chạy theo nghiệp như thế. Khi tâm tịnh trong sạch không phiền não, xa lìa tùy phiền não đặng pháp thường mềm dịu thích dụng, đình trụ không lay động như thế. Y chăm chú tâm để đặng lậu tận thông mới tỏ ngộ đây là khổ, đây là nhân khổ, đây là diệt khổ, đây là đường lối tiến hành đi đến diệt khổ. Vẫn biết rõ theo thứ này là lậu, vẫn biết rõ theo sự thật đây là lậu, đây là nhân sanh lậu, đây là diệt lậu, đây là điều tiến hành đến diệt lậu. Khi y thấy biết cách này tâm thoát ly dục lậu, thoát ly hữu lậu, thoát ly vô minh lậu. Khi tâm đã thoát ly thì có tuệ nhận hiểu rõ thấu rằng sự sanh đã cùng tột, phạm hạnh đã thành, thành tựu sự đáng làm rồi, không còn việc nào khác. Như thế gọi là người không làm tự nón g nảy, không tìm theo sự vật làm tự nóng nảy và cũng không làm cho người khác nóng nảy, cũng không tìm theo sự vật làm cho người khác nóng nảy.
+
+- Người không tự làm nóng nảy luôn không làm cho người khác nóng nảy ra sao? Người không tự làm nóng nảy luôn khôn g làm cho người khác nóng nảy là người không có ái, đã diệt phiền não, người đã mát mẻ rồi, vẫn là người hưởng an vui, tự đặc biệt, thành tựu oai nghi trong đời hiện đại.
+
+136.
+
+- Người có ái dục ra sao? Người nào chưa trừ ái dục, như thế gọi là người có ái dục.
+- Người có sân ra sao? Người nào chưa trừ sân đặng. Như thế gọi là người có sân.
+- Người có si ra sao? Người nào chưa trừ si đặng. Như thế gọi là người có si.
+- Người có ngã mạn ra sao? Người nào chưa trừ đặng ngã mạn. Như thế gọi là người có ngã mạn.
+
+137.
+
+- Người đặng thiền chỉ trong phần trong nhưng không đặng tuệ tỏ ngộ pháp tức là tuệ trưởng ra sao? Có người trong đời này đắc thiền đến đồng sắc, hoặc đến đồng vô sắc. Nhưng không đặng đạo siêu thế hoặc quả siêu thế. Như thế gọi là người đắc thiền chỉ trong phần trong nhưng không đặng tuệ tỏ ngộ pháp như là tuệ trưởng.
+- Người có trí tuệ thấy rõ pháp như là tuệ trưởng nhưng bên trong không đắc thiền chỉ ra sao? Có người trong đời này thành người đắc đạo quả siêu thế. Nhưng không đắc thiền đến đồng sắc , hoặc đến đồng vô sắc . Như thế gọi là người có tuệ thấy rõ pháp như là tuệ trưởng, nhưng bên trong không đắc thiền chỉ.
+- Người đắc thiền chỉ bên trong và đắc luôn tuệ trưởng quán bên ngoài ra sao? Có người trong đời này là bực đắc thiền đến đồng sắc, hoặc đến đồng vô sắc. Thành người đắc đạo quả siêu thế. Như thế gọi là người đắc thiền chỉ bên trong và đắc luôn tuệ trưởng quán bên ngoài.
+- Người không đặng thiền chỉ bên trong và cũng không đắc tuệ trưởng quán thấy rõ pháp ra sao? Có người trong đời này không phải là người đắc thiền chỉ đến đồng sắc, hoặc đến đồng vô sắc , cũng chẳng phải người đắc đạo quả siêu thế. Như thế gọi là
+
+người chẳng phải bực đắc thiền chỉ bên trong và cũng chẳng phải bực đắc tuệ tỏ ngộ pháp như là tuệ trưởng.
+
+138.
+
+- Người đi xuôi chiều hướng ra sao? Có người trong đời này vẫn hưởng dục, vẫn làm nghiệp nhơ bẩn. Như thế gọi là người đi xuôi theo chiều hướng.
+- Người đi ngược chiều ra sao? Có người trong đời này, không hưởng dục và cũng không làm nghiệp nhơ bẩn , người đó dù cho có khổ, có buồn mặt đượm nước, đang khóc lóc; nhưng người ấy vẫn còn hành động trong sạch đầy đủ. Như thế gọi là người đi ngược chiều.
+- Người đã tự lập ra sao? Có người trong đời này sanh ra do hết năm triền thấp viên tịch trong đời ấy, cố nhiên không trở lại thế giới đó. Như thế gọi là người đã tự lập.
+- Người qua đến bờ phạm chí ra sao? Có người trong đời này đã hành tỏ ngộ đến tâm giải thoát, tuệ giải thoát, lậu không còn bởi tuyệt tất cả lậu, do sự hiểu tột, thành tựu oai nghi trong đời hiện đại. Như thế gọi là người qua đến bờ phạm chí.
+
+139.
+
+- Người ít nghe không đặng lợi ích do nghe ra sao? Nói nghe đây tức là đặng nghe chín loại pháp như là: Khế kinh, Trùng tụng, Văn pháp, Tác phúng tụng, Tự thuyết, Bổn sự, Bổn sanh, Vị tằng hữu, Phương quảng. Bởi người trong đời ít đặng nghe nê n không hiểu pháp lý, thời ít đặng hành vừa thích hợp pháp. Như thế gọi là người ít nghe không đặng lợi ích do nghe.
+- Người ít nghe mà lợi ích do nghe ra sao? Nói nghe đây tức là đặng nghe chín loại pháp như là: Khế kinh, Trùng tụng, Văn pháp, Tác phúng tụng, Tự thuyết, Bổn sự, Bổn sanh, Vị tằng hữu, Phương quảng. Bởi người trong đời ít nghe, nhưng biết nghĩa lý của kinh và hành thích hợp với pháp. Như thế gọi là người ít nghe mà đặng lợi ích do nghe.
+- Người đa văn mà không lợi ích do nghe ra sao? Văn đây tức là Khế kinh, Trùng tụng, Văn pháp, Tác phúng tụng, Tự thuyết, Bổn sự, Bổn sanh, Vị tằng hữu, Phương quảng; của người đa văn mà người đó không biết ý nghĩa pháp lý nhiều và không hành vừa thích hợp với pháp. Như thế gọi là người đa văn nhưng không lợi ích do nghe.
+- Người đa văn và lợi ích do nghe ra sao? Đa văn đây tức là Khế Kinh, Trùng Tụng, Văn Pháp, Tác Phúng Tụng, Tự Thuyết, Bổn Sự, Bổn Sanh, Vị Tằng Hữu, Phương Quảng; cũng của người trong đời này biết ý nghĩa pháp lý nhiều, thành người hành thích hợp theo pháp. Như thế gọi là người đa văn và lợi ích do nghe.
+
+140.
+
+- Người thành Sa môn không lay động ra sao? Có người trong đời này gọi là bực dự lưu do sự đã dứt tam triền thời không sa vào ác đạo, khổ thú; thành người nhất định, thành người sẽ đắc chứng sau này. Như thế gọi là người thành Sa môn không lay động.
+- Bực Sa môn như sen bá biện ra sao? Có người trong đời này gọi là bậc Nhất lai do dứt tam triền làm cho tham ái, sân, si càng nhẹ. Nếu trở lại đời này chỉ một lần đó thôi, thời sẽ làm cho tột hết khổ. Như thế gọi là bực Sa môn như sen bá biện.
+- Bực Sa môn như sen trắng ra sao? Có người trong đời này sanh ra do dứt tuyệt năm triền thấp và sẽ viên tịch nơi cõi Phạm thiên, cố nhiên không trở lại thế giới ấy. Như thế gọi là bực Sa môn như sen trắng.
+- Bực Sa môn ôn hòa trong hành Sa môn ra sao? Có người trong đời này đã tự hiểu tột, đã vào đến tịnh giải thoát, tuệ giải thoát, lậu không còn do đã dứt tất cả lậu, trọn thành tựu oai nghi trong đời hiện đại. Như thế gọi là người Sa môn ôn hòa trong chúng Sa môn.
+
+Dứt Xiển minh phần tứ
+
+#### Xiển minh phần ngũ Ngũ chủng nhân
+
+141.
+
+- Bao nhiêu chủng người đã trình bày mà người nào phạm luật nóng nảy và cũng không biết tịnh giải thoát, tuệ giải thoát, sự thật như thế nào là những pháp để diệt trừ bất thiện ác xấu có thể phát sanh ngay cho người đó quyết hẳn khởi bày mà bực trưởng lão phải chê trách đều do nguyên nhân lậu mới có ra phạm luật và nóng nảy. Lành thay, quí thay, Ngài nên chừa bỏ lậu hầu làm cho tâm trí tiến hóa như thế mới khỏi lỗi không biết, gọi là sẽ tiến hóa đồng bằng bực người thứ năm.
+- Người nào phạm luật mà không nóng nảy và cũng không biết tịnh giải thoát, tuệ giải thoát, sự thật như thế nào là những pháp để diệt trừ bất thiện ác xấu có thể phát sanh cho người đó quyết hẳn khởi bày mà bực trưởng lão phải chê t rách, đều do nguyên nhân lậu mới có ra phạm luật nhưng không nóng nảy. Lành thay, quí thay, ngài nên chừa bỏ lậu là nguyên nhân phạm luật và bày trừ lậu hầu làm cho tâm trí tiến hóa. Như thế mới khỏi lỗi không biết, gọi là sẽ tiến hóa đồng bằng bực người thứ năm.
+- Người nào không phạm luật mà nóng nảy và cũng không biết tịnh giải thoát, tuệ giải thoát, sự thật như thế nào là những pháp để diệt trừ bất thiện ác xấu có thể quyết sanh cho người đó hẳn khởi bày mà bực trưởng lão phải chê trách, đều do nguyên nhâ n lậu mới có ra nóng nảy. Lành thay, quí thay, ngài nên chừa bỏ lậu là nhân nóng nảy và bày trừ lậu hầu làm cho tâm trí tiến hóa. Như thế mới khỏi sai lầm gọi là sẽ tiến hóa đồng bằng bực người thứ năm.
+- Người nào mà không phạm luật và không nóng nảy nhưng không biết tịnh giải thoát, tuệ giải thoát, sự thật như thế nào là những pháp để diệt trừ bất thiện ác xấu có thể phát sanh cho người đó quyết hẳn có thể khởi bày mà bực trưởng thượng hằng chê trách đều do nguyên nhân lậu mới phát sanh ra phạm luật và nóng nảy không thể có với người đó. Y hằng bày trừ lậu là nguyên nhân sanh ra phạm luật và nóng nảy, hầu làm cho tâm trí tiến hóa. Như thế mới khỏi lỗi không biết, gọi là sẽ tiến hóa đến đồng bằng bực người thứ năm. Những bốn chủng người ấy mà người thứ năm đâ y vẫn tường thuật dạy như thế, hằng dạy như vậy thứ lớp cho đến dứt hết lậu.
+
+142.
+
+- Người cho rồi coi rẻ ra sao? Có người trong đời này tặng, y, bát, thuốc men, nhà cửa và đồ phụ tùng với người nào rồi nói với người khác như vầy: “Người ấy chỉ đặng có cách lấy của người ta cho”. Như thế gọi là người cho rồi coi rẻ.
+- Người coi rẻ với cách ở chung ra sao? Có người trong đời này tự mình ở chung với người nào đến hai hoặc ba năm, thì coi rẻ người kia bằng cách do ở chung. Như thế gọi là người coi rẻ với cách ở chung.
+- Người dễ tin ra sao? Có người trong đời này khi nghe ai khen người khác hoặc chê người khác liền tin theo. Như thế gọi là người dễ tin.
+- Người nghi hoặc ra sao? Có người trong đời này đức tin không vững vàng, không chắn chắn sự tin cậy, sự thương khô ng cương quyết, sự tín ngưỡng không cương quyết. Như thế gọi là người nghi hoặc.
+- Người ngu si khờ khạo ra sao? Có người trong đời này không biết pháp thiện, không biết pháp đáng chê trách, pháp không đáng chê trách, không thấy pháp ty hạ , pháp tinh vi; không biết pháp tỷ thí trắng đen. Như thế gọi là người ngu si khờ khạo.
+
+Người như chiến sĩ có năm ra sao?
+
+143. Ngũ chủng chiến sĩ:
+
+- Trong đời này có chi ến sĩ vừa thấy vọi bụi liền ngừng chuẩn sát, không kềm vững, không thể đối địch. Chiến sĩ như thế là người thứ nhất vẫn có hiện bày trong đời.
+- Có chiến sĩ khác vừa thấy vọi bụi còn ráng chịu, nhưng khi thấy chót cờ liền ngừng chuẩn sát, không vững vàng, không thể đối địch. Như thế là người chiến sĩ thứ hai vẫn có hiện bày trong đời.
+- Có chi ến sĩ khác nữa vừa thấy vọi bụi còn ráng chịu, thấy chót cờ vẫn còn ráng chịu. Nhưng vừa thấy binh đội ồ ạt tiến, liền ngừng chuẩn sát mà không vững vàng, không thể đối địch. Chiến sĩ trong đời này nếu có như vậy thuộc về người thứ ba, vẫn có hiện bày trong đời.
+- Có chiến sĩ khác nữa, thấy vọi bụi vẫn ráng chịu, thấy chót cờ vẫn ráng chịu, đến khi nghe tiếng binh đội ồ ạt cũng vẫn còn ráng chịu. Nhưng vừa bị thương dù chút đỉnh vẫn bức rức, rộn ràng. Thấy chiến sĩ như thế là người thứ tư vẫn có hi ện bày trong đời.
+- Còn có chiến sĩ khác nữa, thấy vọi bụi, ngọn cờ, nghe tiếng binh đội ồ ạt, bị thương dù chút đỉnh cũng vẫn ráng chịu. Chiến sĩ như thế mới thắng giặc đó đặng, gọi là người chiến sĩ thứ năm vẫn có hiện bày trong đời này. Năm hạng người chiến sĩ này vẫn có hiện bày trong đời.
+
+144. Người tỷ như năm hạng chiến sĩ có hiện bày trong Phíc-khú Tăng chẳng khác. Năm hạng Phíc-khú đó ra sao?
+
+- Có Phíc-khú trong tông giáo này chỉ vừa thấy vọi bụi liền chìm trong tà tư duy; li ền ngừng nghỉ chẳng kềm chế đặng, không ti ến tới phạm hạnh, hiện bày ngư ời khiếp nhược cùng giới luật rồi xin hoàn tục thành người thường. Vậy chứ vọi bụi của Phíc -khú đó cách nào ? Tức là nghe đồn rằng làng xóm tên đó có đàn bà con gái, sắc đẹp đáng thương, đáng mến, có nước da và hình vóc rất đẹp. Phíc -khú đó vừa nghe tin ấy liền chìm vào tà tư duy phải n gưng không thể vững vàng, không thể tu luôn phạm hạnh đặng mới hiện bày là kẻ thiệt lực bạ c nhược với điều học rồi xin hoàn tục biến chuyển thành người hèn. Như thế gọi là vọi bụi của Phíc -khú đó; cũng như chiế n sĩ vừa thấy vọi bụi liền ngừng chuẩn sát, hết vững vàng không thể vào đối địch như thế nào thì Phíc -khú đã nói cũng như thế đó. Người như thế có gặp hiện bày trong đời này , người tỷ như chiến sĩ thứ nhất vẫn có trong Tăng Phíc-khú.
+- Có Phíc-khú khác nữa như là có vị Phíc-khú trong tông giáo này đã thấy vọi bụi vẫn còn ráng chịu đặng; nhưng vừa thấy ngọn cờ liền chìm trong tà tư duy li ền nghỉ không ti ến nữa đặng, không thể tu phạm hạnh luôn mới hi ện bày là ngư ời khi ếp nhược với điều học rồi xin hoàn tục trở về làm người thường. Ngọn cờ của Phíc-khú đó là chi? Như là Phíc -khú trong tông giáo này khởi nghe đồn trong làng xóm tên đó có đàn bà con gái sắc đẹp đáng xem đáng mến, đầy đủ màu da sắc đẹp. Nhưng khi y đặng thấy đàn bà con gái sắc đẹp đáng xem đáng mến đầy đủ nước da và hình vóc đẹp tự nhiên liền chìm trong tà tư duy, không thể duy trì tu luôn đến phạm hạnh liền hiện ra khiếp nhược với điều học mới xin hoàn tục trở thành người thường. Như thế gọi là ngọn cờ của Phíc-khú ấy. Chiến sĩ mà thấy vọi bụi còn ráng chịu đặng nhưng vừa thấy ngọn cờ liền ngừng chuẩn sát mà không đặng vững vàng chẳng có thể vào đối địch đặng như thế nào thì Phíc-khú đó cũng như thế ấy. Người tỷ như chiến sĩ thứ hai vẫn có hiện bày trong Tăng Phíc-khú.
+- Còn có Phíc-khú Tăng khác nữa như là có vị Phíc-khú trong tông giáo này thấy vọi bụi, ngọn cờ còn ráng chịu đặng, nhưng chỉ vừa nghe tiếng ồ ạt của lực lượng binh đội vang rền liền chìm trong sự nghỉ ngợi sai, ngừng không vững chịu đặng, không đủ sức tiếp tục phạm hạnh, liền hiện ra người khiếp nhược với điều học rồi xin xả giới trở về thường nhơn. Cách nghe tiếng ồ ạt lực lượng binh đội của Phíc -khú đó là chi ? Tức là phụ nữ trong đời này tìm Phíc -khú nơi chốn rừng bụi hoặc nơi nhà vắng, cười mơn, trêu ghẹo, giao đàm, mạn tiếu mới chìm trong suy nghĩ bậy, không còn vững đặng, chẳng có thể tiếp tục phạm hạnh nữa liền hiện bày khiếp nhược với điều học rồi xin xả giới về thường nhơn. Như thế gọi là cách nghe lực lượng binh đội ồ ạt của Phíc - khú đó. Chiến sĩ thấy vọi bụi, ngọn cờ còn ráng chịu đựng, nhưng đến khi nghe tiếng ồ ạt của lượng lực binh đội địch liền ngừng chuẩn sát, không yên trụ, chẳng dám vào đối địch như thế nào, thì Phíc -khú đó cũng như thế ấy , người trong đời này thấy gặp như thế còn so sánh chiến sĩ thứ ba, vẫn có hiện bày trong Phíc-khú Tăng.
+- Còn Phíc-khú Tăng khác nữa, như là có vị Phíc-khú trong tông giáo này thấy vọi bụi, ngọn cờ và đặng nghe ti ếng lực lượng binh đội ồ ạt vẫn còn ráng chịu. Nhưng đến khi bị thương chút đỉnh thì bức rức nóng nảy bò càng, bò niểng. Cách bị thương chút đỉnh của Phíc -khú đó ra sao? Tức là có phụ nữ trong đời này tìm Phíc-khú trong rừng, cội cây, nhà vắng, rồi ngồi gần khít, nằm gần khít ôm xiết Phíc -khú đó. Cách bị phụ nữ ngồi sát, nằm sát, ôm xiết cũng không xả giới không hiện bày là người hè n nhát, mới hành dâm. Như thế gọi là cách bị thương chút đỉnh của Phíc-khú đó. Chiến sĩ thấy vọi bụi, ngọn cờ, nghe tiếng binh đội rần rộ còn ráng chịu đặng; nhưng mà bức rức nóng nảy bò càng bò niểng do bị thương chút đỉnh như thế nào thì Phíc-khú đó cũng như thế ấy, người mà thấy như vậy vẫn có hiện trong đời . Bực tỷ như chiến sĩ thứ tư đây vẫn có hiện bày trong Tăng Phíc-khú.
+- Còn Phíc-khú Tăng khác nữa như là có vị Phíc-khú trong tông giáo này thấy vọi bụi, ngọn cờ, nghe ti ếng lực lượng binh đội vang dội và bị thương chút đỉnh cũng vẫn chịu đựng, người đó thắng trận giặc ấy đặng, gọi là ngư ời thắng trận đặc biệt. Như thế mới hẳn là thắng trận đắc chứng.
+
+Cách thắng trận của Phíc -khú đó như thế nào? Tức là có phụ nữ trong đời này tìm Phíc-khú ở trong rừng, ở cội cây hoặc nhà trống vắng vẻ rồi ngồi gần, nằm gần, ôm xiết Phíc -khú đó. Mà Phíc -khú đó bị phụ nữ ngồi, nằm gần, ôm xiết chắc rồi tuốt vuột đi khỏi trốn luôn theo ý. Phíc -khú đó vẫn hưởng chỗ nương vắng lặng như là rừng, cội cây, núi, trên chót, trong hang, mã lạng, bóng mát, chỗ trống, đống cỏ; Y đi vào rừng ẩn bóng cây hoặc nhà trống vắng vẻ rồi ngồi kiết già, mình ngay thẳng vững niệm, thẳng thớm, y vẫn trừ tham ác trong đời, có tâm xa lìa tham ác đặng thành tựu oai nghi. Tâm trong sạch lìa tham ác, bỏ giận hờn là sân độc rồi tâm không ép uổng, có sự tương tế bằng cách lợi ích liên quan cả chúng sanh, thành tựu oai nghi, tâm trong sạch lìa giận hờn là sân độc, trừ hôn trầm thuỳ miên, thành người tránh xa hôn trầm , thuỳ miên. Tư tưởng sáng suốt, có chá nh niệm lương tri, thành tựu oai nghi. Tâm trong sạch lìa hôn trầm thuỳ miên, trừ trạo hối thành người không tán loạn, đến bực vắng lặng thân trong thân. Còn làm cho tâm trong sạch lìa trạo hối, trừ hoài nghi, vượt khỏi hoài nghi, không thành người có cách nói rằng thứ nào trong tất cả pháp thiện còn làm cho tâm trong sạch khỏi hoài nghi. Phíc -khú trừ cái, những thứ đó là tuỳ phiền não của tâm, có thể làm cho tuệ yếu ớt đặng, mà vắng lặng ly tất cả dục, xa lìa chư bất thiện vào đến sơ thiền có tầm tứ hỷ và lạc sanh từ tịnh; thành tựu oai nghi do sự vắng lặng tầm tứ đến nhị thiền, tam thiền, tứ thiền , vẫn thành tựu oai nghi. Phíc-khú đó khi tâm trong sạch thanh tịnh không có phiền não như ngọn đồi, xa lìa tuỳ phiền não thành lẽ thường mềm dịu vừa việc làm, đã vững vàng, đặng sự không lay động như thế . Tâm còn chăm chú vào thiền thành cơ qua trừ hết tất cả lậu. Y vẫn biết theo sự thật như vầy, đây là khổ, đây là tập khổ, đây là diệt khổ, đây là đường lối tiến hành đến diệt khổ. Vẫn biết theo sự thật như vầy: Những thế là lậu, đây là nhân phát sanh của lậu, đây là sự diệt lậu, đây là điều mà tiến hành đi đến diệt lậu. Khi y biết chắc như thế nhận thấy như thế, tâm thoát ly ra ngoài dục lậu, hữu lậu, vô minh lậu. Khi tâm thoát ly rồi, y biết rằng đã thoát ly. Vẫn biết rõ rằng đã tuyệt sự sanh, phạm hạnh đã tột, việc đáng làm đã xong xuôi, việc khác như thế không còn. Đây là cách chiến thắng giặc của Phíc-khú đó. Chiến sĩ thấy vọi bụi, thấy ngọn cờ, đặng nghe tiếng binh đội rầm rộ, bị thương chút đỉnh vẫn cứ chịu đựng; người ấy đã thắng trận, gọi là người thắng trận đặc biệt rồi. Chính như thế mới là cách thắng trận bằng đắc chứng, Phíc -khú đó cũng tỷ như thế ấy, người như vầy vẫn có trong đời này . Bực so sánh với chiến sĩ thứ năm đây có hiện bày trong Tăng Phíc-khú. Cách tỷ dụ năm người chiến sĩ chỉ có bấy nhiêu đây.
+
+145. Ngủ chủng Phíc-khú thường đi bát ra sao?
+
+- Phíc-khú thường đi bát mà người khờ khạo tối mê,
+- Phíc-khú có sự mong mỏi nhơ bẩn, bị sự ham muốn phóng tứ5 mới thường đi bát.
+- Phíc-khú thường đi bát do điên cuồng, vì có tâm tán loạn.
+- Phíc-khú thọ trì thường đi bát do nghĩ rằng chi điều của Phíc -khú thọ trì thường đi bát đây là điều mà Đức Phật và chư Thinh văn khen ngợi.
+
+5 phóng tứ - đây có nghĩa là buông thả tự do, tính tình phóng đãng, không giữ lễ phép.
+
+- Một cách nữa, Phíc -khú thường thọ trì đi bát do chỉ nương một cách thiểu dục, bởi chỉ nương một cách cạo gọt phiền não vì chỉ nương một cách cần hành tốt đẹp ấy. Bao nhiêu vị Phíc -khú đó, mà Phíc -khú nào thọ trì thường đi bát do chỉ nương một cách thiểu dục, chỉ nương cách tri túc, bởi chỉ nương một cách cạo gọt phiền não do chỉ nương một cá ch hành tốt đẹp ấy. Phíc -khú đó là bực cao siêu, đặc biệt, thành hướng đạo là người cao tột, thành người đặc biệt hơn bao nhiêu Phíc -khú thọ trì thường đi bát trong những năm hạng này. Sữa có ra từ bò cái, sữa chua có ra từ nơi sữa, bơ cục có ra từ nơi sữa chua, bơ trong có ra từ nơi bơ cục, đề hồ có ra từ nơi bơ trong. Những năm thứ thuốc đó, mà vị đề hồ người trong đời này cho là quí như thế nào thì Phíc-khú thọ trì thường đi bát chỉ vì một cách mong mỏi thiểu dục, bởi chỉ nương một cách tri túc, chỉ do vì cách cạo gọt phiền não, chỉ vì cách thật hành như thế. Phíc - khú ấy là bực cao quí đặc biệt, là hướng đạo, là người cao tột, là người đặc biệt trong nhóm thọ trì thường đi bát. Như thế gọi là năm bực Phíc-khú thọ trì thường đi bát.
+
+146. Phíc-khú thọ trì cách ngăn vật thực dưng sau khi đã ngồi có năm hạng: phíc-khú giữ ngồi ăn có năm cách; phíc-khú thọ trì y phấn tảo có năm cách; phíc-khú thọ trì ở cội cây có năm cách; phíc-khú thọ trì ở chỗ trống có năm cách; phíc-khú thọ trì ngồi thường có năm cách; phíc-khú thọ trì cách tự sắp ngồi có năm cách; phíc-khú thọ trì ở nghĩa địa có năm cách. Phíc-khú thọ trì ở nghĩa địa có năm cách ra sao? Phíc-khú thọ trì thường ở nghĩa địa mà tối tăm khờ khạo, Phíc -khú có sự mong mỏi nhơ bẩn, bị sự ham muốn phóng tứ nên thườ ngở nghĩa địa. Phíc -khú thọ trì thường ở nghĩa địa do suy xét rằng thường ở nghĩa địa là Phật và chư Thinh văn thường tán thán khen ngợi. Một cách nữa, Phíc -khú thường ở nghĩa địa chỉ do một cách thiểu dục, chỉ do cách tri túc, chỉ do sự cạo gọt phiền não, chỉ do cách thật hành quí tốt đẹp. Bao nhiêu Phíc -khú thọ trì thường ở nghĩa địa mà Phíc -khú chỉ do cách thiểu dục, chỉ do cách tri túc, chỉ do cách cạo gọt phiền não, chỉ do cách thật hành tốt quí. Phíc - khú như thế là cao thượng, đặc biệt, thành hướng đạo, cao siêu và đặc biệt hơn trong năm hạng Phíc-khú thường ở nghĩa địa. Sữa có ra từ nơi bò cái, sữa chua có ra từ nơi sữa , bơ cục có ra từ nơi sữa chua , bơ trong có ra từ nơi bơ cục, đề hồ có ra từ nơi bơ trong. Bao nhiêu thứ thuốc đó mà đề hồ có ra từ bơ trong, người đời cho là quí như thế nào thì bực Phíc-khú thọ trì thường ở nghĩa địa cũng như thế ấy. Bực thọ trì thường đi bát do chỉ nương cách thiểu dục chỉ nương cách tri túc, chỉ do cạo gọt phiền não, chỉ do cần dụng thật hành tốt đẹp cũng giống như vậy. Phíc-khú như thế là bực quí, đặc biệt, cao thượng, đáng hướng đạo, cao siêu, đặc biệt hơn trong năm bực Phíc-khú thường thọ trì đi bát. Cách này gọi là Phíc-khú thọ trì thường ở nghĩa địa có năm hạng.
+
+Dứt Xiển minh phần năm
+
+#### Xiển minh phần lục Lục chủng nhân
+
+147.
+
+- Bực nào tự tỏ ngộ tất cả đế, trong tất cả pháp mà trước khỏi nghe, luôn cả đắc Toàn giác trong chánh pháp, chuyên môn pháp bảo, thành tựu tất cả lực; nhận thấy là bực vô thượng Chánh đẳng Chánh giác bằng nhứt thế chủng trí.
+- Bực nào tự tỏ ngộ c hư đế trong tất cả pháp mà không phải do nghe trước. Nhưng không đặng nhất thế chủng trí trong tất cả pháp, cũng không đặng chuyên môn tất cả pháp. Như thế gọi là bực Độc giác hay Duyên giác.
+- Bực nào không tự chứng chư đế trong tất cả pháp mà không do nghe trước, nhưng đặng làm cho tận khổ luôn và đắc chứng theo độ Thinh văn. Như thế là đức Xá Lợi Phất và Mục Kiền Liên bằng trí tuệ độ Thinh văn.
+- Bực nào không đặng tự ngộ chư đế trong tất cả pháp mà không do nghe trước, cũng thành người làm cho tận khổ trong đời hiện tại, nhưng không chứng theo Thinh văn độ. Bực như thế là La hán, ngoài ra cũng đặng làm tận khổ đó.
+- Bực nào không đặng tự ngộ chư đế trong tất cả pháp mà không do nghe trước luôn cả không làm cho tận khổ trong đời này tức là bực Bất huờn, không còn trở lại như lối này. Như thế nên nhận là bực Bất lai do không trở lại như thế này nữa.
+- Bực nào không tự ngộ chư đế trong tất cả pháp mà khỏi nghe, luôn cả trong đời này không đặng làm cho tận khổ, còn trở lại như thế này . Bực như vậy nhận là Dự lưu hoặc Nhất lai do cách còn trở lại như thế này.
+
+Dứt Xiển minh phần sáu.
+
+#### Xiển minh phần thất Thất chủng nhân
+
+148.
+
+- Hạng người chìm cứ chìm luôn ra sao? Có người trong đời này chỉ hành theo pháp bất thiện, như thế gọi là người chìm càng chìm luôn.
+- Người trồi lên rồi chìm xuống ra sao? Có người trong đời này trồi lên pháp thiện tức là đức tin tốt đẹp , đặng trồi lên pháp thiện tức là có tâm tốt đẹp , đặng trồi lên pháp thiện tức là pháp quí tốt, đặng trồi lên pháp thiện tức là tinh tấn tốt, đặng trồi lên pháp thiện tức là tuệ tốt. Đức tin của người ấy không đặng vững vàng tiến hoá phải thối hoá luôn. Sự tàm của người ấy không vững vàng chẳng tiến thêm dĩ nhiên thối hoá luôn. Sự uý của người đó không vững vàng chẳng tiến hoá trở lại thối hoá luôn. Sự tinh tấn của ngư ời đó không đình trụ tiến thêm, lại còn thối hoá luôn. Tuệ của người đó không vững vàng tiến hoá bị thối hoá luôn. Như thế gọi là người trồi lên rồi chìm xuống luôn.
+- Người trồi lên rồi ngừng lại ra sao? Có người trong đời này đặng trồi lên pháp thiện là đứ c tin tốt, đối trong pháp thiện có tâm tốt, đối trong pháp thiện là quí tốt, đối trong pháp thiện có cần tốt, đối trong pháp thiện có tuệ tốt. Người đó đức tin không thối hoá; pháp tàm của người đó không tiến không thối , pháp uý của người đó không tiến khô ng thối, sự tinh tấn của người đó không tiến không thối, tuệ của người đó không tiến không thối. Như thế gọi là người trồi lên rồi ngừng lại.
+- Người trồi lên rồi xoay liếc ngó ra sao?
+
+Có người trong đời này trồi lên pháp thiện là đức tin đặng tốt, đối với p háp thiện có sự tàm đặng tốt, đối với pháp thiện có sự uý đặng tốt, đối trong pháp thiện có sự tinh tấn đặng tốt, đối trong pháp thiện có đặng tuệ tốt. Người đó là bực Dự lưu không còn sa đoạ khổ thú, thành người nhứt định, sẽ thành tựu sau này do đã hết tam thiền. Như thế gọi là người trồi lên rồi xoay liếc ngó.
+
+- Người trồi lên rồi lội qua ra sao? Có người trong đời này đặng trồi lên pháp thiện tức là đặng có đức tin tốt, đối trong pháp thiện đặng có tàm cao, đối trong pháp thiện đặng có uý cao, đối trong p háp thiện tinh tấn cao, đối trong pháp thiện tuệ cũng đặng cao. Người ấy là bực Nhứt lai vì đã hết tam triền và ái, sân, si cũng đặng nhẹ nhàn. Nếu trở lại Dục giới chỉ một lần thời đặng làm cho tuyệt khổ. Như thế gọi là người trồi lên rồi lội qua.
+- Người trồi lên rồi lội đến nơi cạn vừa đứng ra sao? Có người trong đời này đặng trồi lên pháp thiện là đức tin cao, đối trong pháp thiện có sự tàm rất cao, đối trong pháp thiện có sự uý rất cao, đối trong pháp thiện có sự tinh tấn rất cao, đối với pháp thiện đặng trí tuệ cũng cao siêu. Người đó sẽ hoá sanh vì triền thấp đã dứt hết, sẽ viên tịch thế giới Phạm thiên , không trở lại nơi Dục giới nữa. Như thế gọi là người trồi lên rồi lội đến chỗ cạn vừa đứng.
+- Người trồi lên rồi lội đến bờ tịnh chí đứng trên khô ra sao? Có người trong đời này trồi lên pháp thiện là đức tin rất tốt , trồi lên pháp thiện là tàm rất tốt, trồi lên pháp thiện là uý rất tốt, trồi lên pháp thiện là tinh tấn rất tốt, trồi lên pháp thiện là tuệ rất tốt. Người ấy đã tự hiểu tột, làm cho tỏ ngộ đế n bực tâm giải thoát, tuệ giải thoát, gọi là vô lậu vì tất cả lậu hết rồi, thành tựu oai nghi hiện thế. Như vậy gọi là người trồi lên rồi lội đến bờ tịnh chí.
+
+149.
+
+- Người giải thoát lưỡng biên ra sao? Có người trong đời này, tự mình chạm bát giải thoát thành tựu oai nghi và tất cả lậu của người ấy dứt tuyệt do tuệ tỏ ngộ. Như thế gọi là người giải thoát lưỡng biên.
+- Người giải thoát bằng trí, người kiến chí, người tri kiến tiến hoá, người tuỳ tín hành, người tuỳ pháp hành ra sao? Tín quyền của người nào bực hành để làm cho tỏ ngộ quả Dự lưu tột hạng lượng, huấn luyện thánh đạo, đức tin dẫn dắt, có đức tin hướng đạo. Như thế gọi là người tuỳ tín hành. Người hành để đến quả Dự lưu gọi là người tuỳ tín hành , người vững vàng trong quả gọi là người tín giải hành. Chỉ có bấy nhiêu như thế đó.
+
+Dứt Xiển minh phần bảy
+
+#### Xiển minh phần bát Bát chủng nhân
+
+150. Người đều đủ bốn đạo, đều đủ bốn quả ra sao? Bực quả Dự lưu, bực tiến hành hầu đến quả Dự lưu, bực quả Nhất lai, bực tiến hành hầu đến quả Nhất lai, bực Bất lai, bực
+
+tiến hành hầu đến quả Bất lai, bực La hán, bực tiến hành hầu đến quả La hán. Những bực này gọi là người đều đủ bốn đạo bốn quả.
+
+Dứt Xiển minh phần tám
+
+#### Xiển minh phần cửu Cửu chủng nhân
+
+151.
+
+- Bực Chánh đẳng Chánh giác ra sao? Có người trong đời này tự rõ biết chư đế trong tất cả pháp mà chẳng phải đã từng nghe trước, đắc bực Nhứt thế chủng trí, biết những pháp đó và chuyên môn trong pháp, đủ tất cả lực. Như thế gọi là bực Chánh Đẳng Chánh Giác (Sammā Sambuddho).
+- Bực Độc giác ra sao? Có người trong đời này cũng tự chứng cứ chư đế trong tất cả pháp, không do nghe trước. Nhưng không đắc bực Nhất thế chủng trí với tất cả pháp luôn cũng không phải là bực chuyên môn biết tất cả pháp. Như thế gọi là bực Độc giác (Pacceka Buddha).
+- Bực giải thoát lưỡng biên ra sao? Có người trong đời này tự mình chạm bát giải thoát thành tựu oai nghi và dứt hết tất cả lậu do tỏ ngộ bằng tuệ. Như thế gọi là bực lưỡng biên giải thoát (ubhato bhāgavimutto).
+- Bực giải thoát bằng tuệ ra sao? Có người trong đời này không đặng chạm bát giả i thoát nơi mình mà cũng thành tựu oai nghi do lậu của người ấy đã dứt hết bởi nhận thấy bằng tuệ. Như thế gọi là bực giải thoát bằng tuệ (paññāvimutto).
+- Người thân chứng ra sao? Có người trong đời này tự thân chạm bát giải thoát, thành tựu oai nghi, người ấy dứt luôn hết tất cả lậu do nhận thấy bằng tuệ. Như thế gọi là người thân chứng (puggala kāyasakkhī).
+- Người kiến chí ra sao? Có người trong đời này vẫn biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến diệt khổ. Một nữa, tất cả pháp của Như Lai truyền bá, người đó thấy bằng tuệ, khéo tiến hành bằng tuệ. Một nữa, người đó cũng dứt lậu phần nào do thấy bằng tuệ. Như thế gọi là người kiến chí (puggala diṭṭhipatta).
+- Người tín giải hành ra sao? Có người trong đời này vẫn biết theo sự thật như vầy: Đây là khổ… đây là đường lối tiến hành đến diệt khổ. Một nữa , pháp mà đức Như Lai truyền bá, người đó thấy bằng tuệ tiến hành tốt đẹp bằng tuệ. Một nữa, lậu của người ấy có thứ hết do thấy bằng tuệ nhưng không phải như người kiến chí. Như thế gọi là người tín giải hành (saddhāvimutto).
+- Người tuỳ pháp hành ra sao? Tuệ quyền của bực đã tiến hành hầu tỏ ngộ quả Dự lưu tột hạng lượng, bực như thế vẫn huấn luyện Thánh đạo mà có tuệ dẫn dắt, có tuệ chủ trương. Như thế gọi là người tuỳ pháp hành (puggala dhammanusārī). Bực quả vững vàng rồi, gọi là người kiến chí (puggala diṭṭhipatta).
+- Người tuỳ tín hành ra sao? Tín quyền của người nào tiến hành hầu tỏ ngộ quả Dự lưu siêu hạng lượng, vẫn huấn luyện Thánh đạo có đức tin dẫn dắt, có đức tin làm trưởng. Như t hế gọi là người tuỳ tín hành (puggala saddhānusārī). Người tiến hành làm cho tỏ ngộ quả Dự lưu gọi là bực tuỳ tín hành (puggala saddhānusārī).
+
+Người đã vững vàng quả Dự lưu gọi là bực tín giải hành (puggala saddhāvimutto).
+
+Dứt Xiển minh phần chín
+
+#### Xiển minh phần thập Thập chủng nhân
+
+152.
+
+- Năm bực thánh đắc chứng trong Dục giới ra sao? Năm bực thánh đắc chứng trong Dục giới như là:
+- Bực thánh Dự lưu thất lai (Sattakkhattuparama);
+- Bực thánh Dự lưu lục lai (Kolaṅkola);
+- Bực thánh Dự lưu nhất thăng lai (Ekabījī);
+- Bực thánh Nhất lai (Sakadāgāmī);
+- Bực thành tựu La-hán trong hiện đại.
+- Năm bực xả thân khỏi Dục giới mới thành tựu ra sao?
+- Bực thánh Trung bang bất hườn (Antarāparinibbāyī).
+- Bực thánh Sanh bang bất hườn (Upahaccaparinibbāyī).
+- Bực thánh Vô hành bang bất hườn (Asaṅkhāraparinibbāyī).
+- Bực thánh Hữu hành bang bất hườn (Sasaṅkhāraparinibbāyī).
+- Bực thánh Thượng lưu bang bất hườn (Uddhaṅsotoakaniṭṭhagāmī).
+
+Dứt Xiển minh phần mười
+
+---
+
+Cách chế định người chỉ có bấy nhiêu
+
+Hoàn mãn Bộ Nhơn Chế Định
+
+18 – 04 – 1975 (07 – 03 – 2518)
+
+Chia phước đến tất cả chúng sanh
+
+BỘ NGUYÊN CHẤT NGỮ (DHĀTUKATHĀ) BỘ NHÂN CHẾ ĐỊNH (PUGGALAPAÑÑATTI)
+
+Việt dịch: Sư cả Tịnh Sự
+
+NHÀ XUẤT BẢN TÔN GIÁO 53 Tràng Thi – Hoàn Kiếm – Hà Nội ĐT: 04-37822845 – Fax (04).37822841
+
+Chịu trách nhiệm xuất bản Nguyễn Công Oánh
+
+Biên tập
+
+Sửa bản in Mỹ Hà
+
+Trình bày Tỳ Khưu Siêu Thiện
+
+---
+
+Đối tác liên kết Thư viện Phật Giáo Nguyên Thuỷ 171/10 Quốc Lộ 1A, P. Bình Chiểu, Q. Thủ Đức, Tp HCM
+
+In lần thứ I số lượng 500 cuốn Tại xí nghiệp in... Địa chỉ: GPXB số: In xong và nộp lưu chiểu quý ... năm 2012 GPXB số: Xin xong và nộp lưu chiểu tháng...

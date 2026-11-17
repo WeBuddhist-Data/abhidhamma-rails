@@ -58,13 +58,14 @@ def vi_fix_syllables(s):
 
 
 # ---------------------------------------------------------------- page cleaning
-HEADER = re.compile(r"^\s*(\d+\s+)?(Việt [dD]ịch|Tạng Vô Tỷ Pháp|Tạng Diệu Pháp)|^\s*\d+\s*$")
+HEADER = re.compile(r"^\s*(\d+\s+)?(Việt [dD]ịch|Tạng Vô Tỷ Pháp|Tạng Diệu Pháp)|^\s*\d+\s*$", re.I)
 MARKER = re.compile(r"(?<=[^\W\d_\s])(\d{1,2})(?=[\s,.;:!?)\]\"”']|$)")
 fn_next = [1]  # number of the next translator footnote
 
 
 def clean_page(text):
-    ls = text.splitlines()
+    # NFC: some PDFs give decomposed Vietnamese letters ("PHẦN"), which defeats the patterns
+    ls = [unicodedata.normalize("NFC", ln) for ln in text.splitlines()]
     while ls and not ls[0].strip():
         ls = ls[1:]
     # running header (and a page number on its own line) at the top
@@ -101,8 +102,9 @@ def clean_page(text):
 
 # ---------------------------------------------------------------- structure
 VI_HEAD = [
-    (re.compile(r"^PHẦN [IVXL]+\s*[-–.:]"), 2),  # "PHẦN I - UẨN PHÂN TÍCH" (Vibhaṅga chapters)
+    (re.compile(r"^PHẦN [IVXL]+(\s*[-–.:]|\s+[A-ZĐÀ-Ỹ]|\s*$)"), 2),  # "PHẦN I - UẨN …", "PHẦN I XIỂN MINH …", "PHẦN I"
     (re.compile(r"^[A-H]\.\s+\S"), 3),  # "A. UẨN PHÂN TÍCH PHẦN PHÂN THEO KINH"
+    (re.compile(r"^(Xiển minh|Đầu đề) phần \S+$"), 4),  # Puggalapaññatti: "Xiển minh phần tam"
     (re.compile(r"^Phần [A-Z]\.", re.I), 2),
     (re.compile(r"^[IVX]+\.\s"), 3),
     (re.compile(r"^\d+\.\d+\)\s"), 5),
@@ -140,6 +142,7 @@ def convert():
         lines.append("\x00PAGE")  # page boundary: never a paragraph break by itself
 
     out, para, pending_num = [], None, None
+    last_num = [0]  # last paragraph number seen
 
     def flush():
         nonlocal para
@@ -175,6 +178,11 @@ def convert():
         if NUM_LINE.match(s):
             flush()
             pending_num = s
+            n_ = int(s.rstrip("."))
+            if last_num[0] < n_ <= last_num[0] + 6:
+                last_num[0] = n_
+            elif n_ == 1:
+                last_num[0] = 1  # numbering restarts (second book in the volume)
             continue
         if bullet:
             flush()
@@ -187,6 +195,18 @@ def convert():
         lvl = vi_heading_level(s)
         if lvl and s.rstrip().endswith("?"):
             lvl = None  # "2) Thọ uẩn đó ra sao?": a numbered question, not a heading
+        if (para is None and out and out[-1][0] == "h" and re.fullmatch(r"PHẦN [IVXL]+", out[-1][2])
+                and body.upper() == body and len(body) < 90):
+            # "PHẦN I" on one line, its title "XIỂN MINH CÂU …" (capitals) on the next
+            out[-1] = ("h", out[-1][1], out[-1][2] + " " + body)
+            bump("chapter_titles_joined")
+            continue
+        if (para is None and out and out[-1][0] == "h" and out[-1][2].startswith("Xiển minh phần")
+                and re.fullmatch(r"\S+ chủng nhân", body)):
+            # "Xiển minh phần tam" / "Tam chủng nhân" (three kinds of persons): one heading
+            out[-1] = ("h", out[-1][1], out[-1][2] + " " + body)
+            bump("heading_subtitles_joined")
+            continue
         if para is None and out and out[-1][0] == "h" and re.fullmatch(r"\([^()]{3,60}\)", body):
             # "(Dhātuvibhaṅga)" printed under a chapter heading: part of that heading
             out[-1] = ("h", out[-1][1], out[-1][2] + " " + body)
@@ -198,6 +218,11 @@ def convert():
             out.append(("p", body))
             bump("end_lines")
             continue
+        if lvl == 2 and para is not None and len(s) < 90 and pending_num is None:
+            # a chapter title ("PHẦN I XIỂN MINH …") printed right under a line of text, with
+            # no blank line between: it still starts a heading
+            flush()
+            bump("chapter_titles_after_text")
         starts_block = para is None
         if lvl is None and starts_block and len(s) < 70 and not s.startswith("Dứt") and not re.search(r"[.?!:,;]$", s):
             n = nxt_meaningful(i)
@@ -211,6 +236,14 @@ def convert():
             flush()
             out.append(("p", body))
             continue
+        mnum = re.match(r"^(\d{1,4})\.\s+\S", s)
+        if para is not None and mnum and last_num[0] < int(mnum.group(1)) <= last_num[0] + 3:
+            # the next paragraph number at the start of a line opens a new paragraph, even with
+            # no blank line before it (vi-3: "2. Sắc uẩn …" followed directly by "3. …")
+            flush()
+            bump("numbered_paragraph_breaks")
+        if mnum and last_num[0] < int(mnum.group(1)) <= last_num[0] + 3:
+            last_num[0] = int(mnum.group(1))
         if para is None:
             text = f"{pending_num} {body}" if pending_num else body
             pending_num = None

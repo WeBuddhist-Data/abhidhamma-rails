@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 47,
-        "end": 860119
+        "end": 848305
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 47,
-            "end": 860119
+            "end": 848305
           },
           "subsections": [
             {
@@ -24,7 +24,7 @@
               },
               "span": {
                 "start": 47,
-                "end": 117974
+                "end": 116679
               },
               "subsections": [
                 {
@@ -33,7 +33,7 @@
                   },
                   "span": {
                     "start": 47,
-                    "end": 21470
+                    "end": 21222
                   },
                   "subsections": [
                     {
@@ -42,7 +42,7 @@
                       },
                       "span": {
                         "start": 109,
-                        "end": 2996
+                        "end": 2949
                       }
                     },
                     {
@@ -50,8 +50,8 @@
                         "vi": "2) Thọ uẩn"
                       },
                       "span": {
-                        "start": 2996,
-                        "end": 7125
+                        "start": 2949,
+                        "end": 7029
                       }
                     },
                     {
@@ -59,8 +59,8 @@
                         "vi": "3) Tưởng uẩn"
                       },
                       "span": {
-                        "start": 7125,
-                        "end": 12194
+                        "start": 7029,
+                        "end": 12045
                       }
                     },
                     {
@@ -68,8 +68,8 @@
                         "vi": "4) Hành uẩn"
                       },
                       "span": {
-                        "start": 12194,
-                        "end": 16835
+                        "start": 12045,
+                        "end": 16638
                       }
                     },
                     {
@@ -77,8 +77,8 @@
                         "vi": "5) Thức uẩn"
                       },
                       "span": {
-                        "start": 16835,
-                        "end": 21470
+                        "start": 16638,
+                        "end": 21222
                       }
                     }
                   ]
@@ -88,8 +88,8 @@
                     "vi": "B. UẨN PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 21470,
-                    "end": 98762
+                    "start": 21222,
+                    "end": 97604
                   }
                 },
                 {
@@ -97,8 +97,8 @@
                     "vi": "C. UẨN PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 98762,
-                    "end": 117974
+                    "start": 97604,
+                    "end": 116679
                   },
                   "subsections": [
                     {
@@ -106,8 +106,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 98986,
-                        "end": 102718
+                        "start": 97825,
+                        "end": 101521
                       }
                     },
                     {
@@ -115,8 +115,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 102718,
-                        "end": 117974
+                        "start": 101521,
+                        "end": 116679
                       }
                     }
                   ]
@@ -128,8 +128,8 @@
                 "vi": "PHẦN II - XỨ PHÂN TÍCH"
               },
               "span": {
-                "start": 117974,
-                "end": 141339
+                "start": 116679,
+                "end": 139856
               },
               "subsections": [
                 {
@@ -137,8 +137,8 @@
                     "vi": "A. XỨ PHÂN TÍCH PHẦN PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 117974,
-                    "end": 119161
+                    "start": 116679,
+                    "end": 117853
                   }
                 },
                 {
@@ -146,8 +146,8 @@
                     "vi": "B. XỨ PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 119161,
-                    "end": 120917
+                    "start": 117853,
+                    "end": 119592
                   }
                 },
                 {
@@ -155,8 +155,8 @@
                     "vi": "C. XỨ PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 120917,
-                    "end": 141339
+                    "start": 119592,
+                    "end": 139856
                   },
                   "subsections": [
                     {
@@ -164,8 +164,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 121141,
-                        "end": 125882
+                        "start": 119812,
+                        "end": 124518
                       }
                     },
                     {
@@ -173,8 +173,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 125882,
-                        "end": 141339
+                        "start": 124518,
+                        "end": 139856
                       }
                     }
                   ]
@@ -186,8 +186,8 @@
                 "vi": "PHẦN III - CHẤT PHÂN TÍCH (Dhātuvibhaṅga)"
               },
               "span": {
-                "start": 141339,
-                "end": 177829
+                "start": 139856,
+                "end": 175840
               },
               "subsections": [
                 {
@@ -195,8 +195,8 @@
                     "vi": "A. CHẤT PHÂN TÍCH PHÂN THEO KINH (Suṭtantabhājanīya)"
                   },
                   "span": {
-                    "start": 141339,
-                    "end": 151012
+                    "start": 139856,
+                    "end": 149206
                   }
                 },
                 {
@@ -204,8 +204,8 @@
                     "vi": "B. CHẤT PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 151012,
-                    "end": 155648
+                    "start": 149206,
+                    "end": 153806
                   }
                 },
                 {
@@ -213,8 +213,8 @@
                     "vi": "C. CHẤT PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 155648,
-                    "end": 177829
+                    "start": 153806,
+                    "end": 175840
                   },
                   "subsections": [
                     {
@@ -222,8 +222,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 156064,
-                        "end": 161548
+                        "start": 154221,
+                        "end": 159679
                       }
                     },
                     {
@@ -231,8 +231,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 161548,
-                        "end": 177829
+                        "start": 159679,
+                        "end": 175840
                       }
                     }
                   ]
@@ -244,8 +244,8 @@
                 "vi": "PHẦN IV - ĐẾ PHÂN TÍCH (Saccavibhaṅga)"
               },
               "span": {
-                "start": 177829,
-                "end": 221524
+                "start": 175840,
+                "end": 219003
               },
               "subsections": [
                 {
@@ -253,8 +253,8 @@
                     "vi": "A. ĐẾ PHÂN TÍCH PHẦN PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 177829,
-                    "end": 191434
+                    "start": 175840,
+                    "end": 189218
                   },
                   "subsections": [
                     {
@@ -262,8 +262,8 @@
                         "vi": "2) Khổ tập thánh đế"
                       },
                       "span": {
-                        "start": 181750,
-                        "end": 185241
+                        "start": 179697,
+                        "end": 183136
                       }
                     },
                     {
@@ -271,8 +271,8 @@
                         "vi": "3) Khổ diệt thánh đế"
                       },
                       "span": {
-                        "start": 185241,
-                        "end": 188717
+                        "start": 183136,
+                        "end": 186561
                       }
                     },
                     {
@@ -280,8 +280,8 @@
                         "vi": "4) Thánh đế tiến hành nhân diệt khổ"
                       },
                       "span": {
-                        "start": 188717,
-                        "end": 191434
+                        "start": 186561,
+                        "end": 189218
                       }
                     }
                   ]
@@ -291,8 +291,8 @@
                     "vi": "B. ĐẾ PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 191434,
-                    "end": 202245
+                    "start": 189218,
+                    "end": 199864
                   }
                 },
                 {
@@ -300,8 +300,8 @@
                     "vi": "C. ĐẾ PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 202245,
-                    "end": 221524
+                    "start": 199864,
+                    "end": 219003
                   },
                   "subsections": [
                     {
@@ -309,8 +309,8 @@
                         "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
                       },
                       "span": {
-                        "start": 207714,
-                        "end": 221524
+                        "start": 205295,
+                        "end": 219003
                       }
                     }
                   ]
@@ -322,8 +322,8 @@
                 "vi": "PHẦN V - QUYỀN PHÂN TÍCH (Indrīyavibhaṅga)"
               },
               "span": {
-                "start": 221524,
-                "end": 250673
+                "start": 219003,
+                "end": 247869
               },
               "subsections": [
                 {
@@ -331,8 +331,8 @@
                     "vi": "PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 226477,
-                    "end": 250673
+                    "start": 223888,
+                    "end": 247869
                   },
                   "subsections": [
                     {
@@ -340,8 +340,8 @@
                         "vi": "1) Quyền phân tích đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 226947,
-                        "end": 250673
+                        "start": 224357,
+                        "end": 247869
                       }
                     }
                   ]
@@ -353,8 +353,8 @@
                 "vi": "PHẦN VI - DUYÊN KHỞI PHÂN TÍCH (Paccayakāravibhaṅga)"
               },
               "span": {
-                "start": 250673,
-                "end": 342290
+                "start": 247869,
+                "end": 338278
               },
               "subsections": [
                 {
@@ -362,8 +362,8 @@
                     "vi": "A. DUYÊN KHỞI PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 250673,
-                    "end": 255948
+                    "start": 247869,
+                    "end": 253073
                   }
                 },
                 {
@@ -371,8 +371,8 @@
                     "vi": "B. ĐẦU ĐỀ DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 255948,
-                    "end": 342290
+                    "start": 253073,
+                    "end": 338278
                   },
                   "subsections": [
                     {
@@ -380,8 +380,8 @@
                         "vi": "1) Tứ phần duyên khởi"
                       },
                       "span": {
-                        "start": 255948,
-                        "end": 257004
+                        "start": 253073,
+                        "end": 254114
                       }
                     },
                     {
@@ -389,8 +389,8 @@
                         "vi": "2) Tứ phần nhân"
                       },
                       "span": {
-                        "start": 257004,
-                        "end": 258614
+                        "start": 254114,
+                        "end": 255710
                       }
                     },
                     {
@@ -398,8 +398,8 @@
                         "vi": "Tứ phần tương ưng"
                       },
                       "span": {
-                        "start": 258614,
-                        "end": 260149
+                        "start": 255710,
+                        "end": 257230
                       }
                     },
                     {
@@ -407,8 +407,8 @@
                         "vi": "3) Tứ phần tương tế"
                       },
                       "span": {
-                        "start": 260149,
-                        "end": 262236
+                        "start": 257230,
+                        "end": 259295
                       }
                     },
                     {
@@ -416,8 +416,8 @@
                         "vi": "1) Bất thiện xiển minh"
                       },
                       "span": {
-                        "start": 262236,
-                        "end": 269594
+                        "start": 259295,
+                        "end": 266557
                       }
                     },
                     {
@@ -425,8 +425,8 @@
                         "vi": "Tứ phần nhân"
                       },
                       "span": {
-                        "start": 269594,
-                        "end": 276872
+                        "start": 266557,
+                        "end": 273766
                       }
                     },
                     {
@@ -434,8 +434,8 @@
                         "vi": "Tứ phần tương ưng"
                       },
                       "span": {
-                        "start": 276872,
-                        "end": 284028
+                        "start": 273766,
+                        "end": 280851
                       }
                     },
                     {
@@ -443,8 +443,8 @@
                         "vi": "Tứ phần tương tế"
                       },
                       "span": {
-                        "start": 284028,
-                        "end": 302249
+                        "start": 280851,
+                        "end": 298825
                       }
                     },
                     {
@@ -452,8 +452,8 @@
                         "vi": "2) Thiện xiển minh"
                       },
                       "span": {
-                        "start": 302249,
-                        "end": 311418
+                        "start": 298825,
+                        "end": 307834
                       }
                     },
                     {
@@ -461,8 +461,8 @@
                         "vi": "3) Vô ký xiển minh"
                       },
                       "span": {
-                        "start": 311418,
-                        "end": 328750
+                        "start": 307834,
+                        "end": 324917
                       }
                     },
                     {
@@ -470,8 +470,8 @@
                         "vi": "4) Xiển minh phần căn vô minh đối với thiện"
                       },
                       "span": {
-                        "start": 328750,
-                        "end": 338414
+                        "start": 324917,
+                        "end": 334472
                       }
                     },
                     {
@@ -479,8 +479,8 @@
                         "vi": "6) Xiển minh phần bất thiện căn dị thục quả"
                       },
                       "span": {
-                        "start": 338414,
-                        "end": 342290
+                        "start": 334472,
+                        "end": 338278
                       }
                     }
                   ]
@@ -492,8 +492,8 @@
                 "vi": "PHẦN VII - NIỆM XỨ PHÂN TÍCH"
               },
               "span": {
-                "start": 342290,
-                "end": 375491
+                "start": 338278,
+                "end": 371035
               },
               "subsections": [
                 {
@@ -501,8 +501,8 @@
                     "vi": "A. NIỆM XỨ PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 342290,
-                    "end": 365136
+                    "start": 338278,
+                    "end": 360797
                   },
                   "subsections": [
                     {
@@ -510,8 +510,8 @@
                         "vi": "1) Niệm thân xiển minh"
                       },
                       "span": {
-                        "start": 343164,
-                        "end": 347433
+                        "start": 339132,
+                        "end": 343329
                       }
                     },
                     {
@@ -519,8 +519,8 @@
                         "vi": "2) Niệm thọ xiển minh"
                       },
                       "span": {
-                        "start": 347433,
-                        "end": 351649
+                        "start": 343329,
+                        "end": 347481
                       }
                     },
                     {
@@ -528,8 +528,8 @@
                         "vi": "3) Niệm tâm xiển minh"
                       },
                       "span": {
-                        "start": 351649,
-                        "end": 356807
+                        "start": 347481,
+                        "end": 352588
                       }
                     },
                     {
@@ -537,8 +537,8 @@
                         "vi": "4) Niệm pháp xiển minh"
                       },
                       "span": {
-                        "start": 356807,
-                        "end": 365136
+                        "start": 352588,
+                        "end": 360797
                       }
                     }
                   ]
@@ -548,8 +548,8 @@
                     "vi": "B. NIỆM XỨ PHÂN TÍCH PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 365136,
-                    "end": 370419
+                    "start": 360797,
+                    "end": 366009
                   }
                 },
                 {
@@ -557,8 +557,8 @@
                     "vi": "C. NIỆM XỨ PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 370419,
-                    "end": 375491
+                    "start": 366009,
+                    "end": 371035
                   },
                   "subsections": [
                     {
@@ -566,8 +566,8 @@
                         "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
                       },
                       "span": {
-                        "start": 372696,
-                        "end": 375491
+                        "start": 368257,
+                        "end": 371035
                       }
                     }
                   ]
@@ -579,8 +579,8 @@
                 "vi": "PHẦN VIII - TỨ CHÁNH CẦN PHÂN TÍCH"
               },
               "span": {
-                "start": 375491,
-                "end": 393605
+                "start": 371035,
+                "end": 388867
               },
               "subsections": [
                 {
@@ -588,8 +588,8 @@
                     "vi": "A. TỨ CHÁNH CẦN PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 375491,
-                    "end": 381480
+                    "start": 371035,
+                    "end": 376914
                   }
                 },
                 {
@@ -597,8 +597,8 @@
                     "vi": "B. TỨ CHÁNH CẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 381480,
-                    "end": 388663
+                    "start": 376914,
+                    "end": 383974
                   }
                 },
                 {
@@ -606,8 +606,8 @@
                     "vi": "C. TỨ CHÁNH CẦN PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 388663,
-                    "end": 393605
+                    "start": 383974,
+                    "end": 388867
                   },
                   "subsections": [
                     {
@@ -615,8 +615,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 389526,
-                        "end": 393605
+                        "start": 384818,
+                        "end": 388867
                       }
                     }
                   ]
@@ -628,8 +628,8 @@
                 "vi": "PHẦN IX - NHƯ Ý TÚC PHÂN TÍCH (Iddhipādavibhaṅga)"
               },
               "span": {
-                "start": 393605,
-                "end": 414753
+                "start": 388867,
+                "end": 409764
               },
               "subsections": [
                 {
@@ -637,8 +637,8 @@
                     "vi": "A. TỨ NHƯ Ý TÚC PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 393605,
-                    "end": 401411
+                    "start": 388867,
+                    "end": 396528
                   }
                 },
                 {
@@ -646,8 +646,8 @@
                     "vi": "B. TỨ NHƯ Ý TÚC PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 401411,
-                    "end": 409363
+                    "start": 396528,
+                    "end": 404395
                   }
                 },
                 {
@@ -655,8 +655,8 @@
                     "vi": "C. TỨ NHƯ Ý TÚC PHẦN VẤP ĐÁP"
                   },
                   "span": {
-                    "start": 409363,
-                    "end": 414753
+                    "start": 404395,
+                    "end": 409764
                   },
                   "subsections": [
                     {
@@ -664,8 +664,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 409845,
-                        "end": 411192
+                        "start": 404876,
+                        "end": 406215
                       }
                     },
                     {
@@ -673,8 +673,8 @@
                         "vi": "2) Đáp theo đầu đề nhị (dukamātikā)"
                       },
                       "span": {
-                        "start": 411192,
-                        "end": 414753
+                        "start": 406215,
+                        "end": 409764
                       }
                     }
                   ]
@@ -686,8 +686,8 @@
                 "vi": "PHẦN X - GIÁC CHI PHÂN TÍCH"
               },
               "span": {
-                "start": 414753,
-                "end": 431190
+                "start": 409764,
+                "end": 425907
               },
               "subsections": [
                 {
@@ -695,8 +695,8 @@
                     "vi": "A. GIÁC CHI PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 414753,
-                    "end": 419407
+                    "start": 409764,
+                    "end": 414372
                   }
                 },
                 {
@@ -704,8 +704,8 @@
                     "vi": "B. GIÁC CHI PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 419407,
-                    "end": 425785
+                    "start": 414372,
+                    "end": 420672
                   }
                 },
                 {
@@ -713,8 +713,8 @@
                     "vi": "C. GIÁC CHI PHÂN TÍCH - PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 425785,
-                    "end": 431190
+                    "start": 420672,
+                    "end": 425907
                   },
                   "subsections": [
                     {
@@ -722,8 +722,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 426148,
-                        "end": 427928
+                        "start": 421029,
+                        "end": 422761
                       }
                     },
                     {
@@ -731,8 +731,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 427928,
-                        "end": 431190
+                        "start": 422761,
+                        "end": 425907
                       }
                     }
                   ]
@@ -744,8 +744,8 @@
                 "vi": "PHẦN XI - ĐẠO PHÂN TÍCH"
               },
               "span": {
-                "start": 431190,
-                "end": 448152
+                "start": 425907,
+                "end": 442628
               },
               "subsections": [
                 {
@@ -753,8 +753,8 @@
                     "vi": "A. ĐẠO PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 431190,
-                    "end": 434589
+                    "start": 425907,
+                    "end": 429242
                   }
                 },
                 {
@@ -762,8 +762,8 @@
                     "vi": "B. ĐẠO PHÂN TÍCH - PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 434589,
-                    "end": 442988
+                    "start": 429242,
+                    "end": 437507
                   }
                 },
                 {
@@ -771,8 +771,8 @@
                     "vi": "C. ĐẠO PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 442988,
-                    "end": 448152
+                    "start": 437507,
+                    "end": 442628
                   },
                   "subsections": [
                     {
@@ -780,8 +780,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 443343,
-                        "end": 445098
+                        "start": 437857,
+                        "end": 439600
                       }
                     },
                     {
@@ -789,8 +789,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 445098,
-                        "end": 448152
+                        "start": 439600,
+                        "end": 442628
                       }
                     }
                   ]
@@ -802,8 +802,8 @@
                 "vi": "PHẦN XII - THIỀN PHÂN TÍCH"
               },
               "span": {
-                "start": 448152,
-                "end": 508715
+                "start": 442628,
+                "end": 502276
               },
               "subsections": [
                 {
@@ -811,8 +811,8 @@
                     "vi": "A. ĐẦU ĐỀ"
                   },
                   "span": {
-                    "start": 448152,
-                    "end": 491783
+                    "start": 442628,
+                    "end": 485494
                   }
                 },
                 {
@@ -820,8 +820,8 @@
                     "vi": "C. THIỀN PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 491783,
-                    "end": 501740
+                    "start": 485494,
+                    "end": 495364
                   }
                 },
                 {
@@ -829,8 +829,8 @@
                     "vi": "D. THIỀN PHÂN TÍCH PHẦN VẤP ĐÁP"
                   },
                   "span": {
-                    "start": 501740,
-                    "end": 508715
+                    "start": 495364,
+                    "end": 502276
                   },
                   "subsections": [
                     {
@@ -838,8 +838,8 @@
                         "vi": "Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 502528,
-                        "end": 508715
+                        "start": 496143,
+                        "end": 502276
                       }
                     }
                   ]
@@ -851,8 +851,8 @@
                 "vi": "PHẦN XIII - VÔ LƯỢNG PHÂN TÍCH"
               },
               "span": {
-                "start": 508715,
-                "end": 536031
+                "start": 502276,
+                "end": 529255
               },
               "subsections": [
                 {
@@ -860,8 +860,8 @@
                     "vi": "A. VÔ LƯỢNG PHÂN TÍCH - PHẦN PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 508715,
-                    "end": 517134
+                    "start": 502276,
+                    "end": 510557
                   }
                 },
                 {
@@ -869,8 +869,8 @@
                     "vi": "B. VÔ LƯỢNG PHÂN TÍCH - PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 517134,
-                    "end": 529301
+                    "start": 510557,
+                    "end": 522576
                   }
                 },
                 {
@@ -878,8 +878,8 @@
                     "vi": "C. VÔ LƯỢNG PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 529301,
-                    "end": 536031
+                    "start": 522576,
+                    "end": 529255
                   },
                   "subsections": [
                     {
@@ -887,8 +887,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 530971,
-                        "end": 532757
+                        "start": 524220,
+                        "end": 525996
                       }
                     },
                     {
@@ -896,8 +896,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 532757,
-                        "end": 536031
+                        "start": 525996,
+                        "end": 529255
                       }
                     }
                   ]
@@ -909,8 +909,8 @@
                 "vi": "PHẦN XIV - ĐIỀU HỌC PHÂN TÍCH"
               },
               "span": {
-                "start": 536031,
-                "end": 552160
+                "start": 529255,
+                "end": 545089
               },
               "subsections": [
                 {
@@ -918,8 +918,8 @@
                     "vi": "A. ĐIỀU HỌC PHÂN TÍCH – PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 536031,
-                    "end": 547654
+                    "start": 529255,
+                    "end": 540616
                   }
                 },
                 {
@@ -927,8 +927,8 @@
                     "vi": "B. ĐIỀU HỌC PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 547654,
-                    "end": 552160
+                    "start": 540616,
+                    "end": 545089
                   },
                   "subsections": [
                     {
@@ -936,8 +936,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 548091,
-                        "end": 549261
+                        "start": 541042,
+                        "end": 542205
                       }
                     },
                     {
@@ -945,8 +945,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 549261,
-                        "end": 552160
+                        "start": 542205,
+                        "end": 545089
                       }
                     }
                   ]
@@ -958,8 +958,8 @@
                 "vi": "PHẦN XV - ĐẠT THÔNG PHÂN TÍCH (Paṭisambhidā vibhaṅga)"
               },
               "span": {
-                "start": 552160,
-                "end": 580987
+                "start": 545089,
+                "end": 573463
               },
               "subsections": [
                 {
@@ -967,8 +967,8 @@
                     "vi": "A. ĐẠT THÔNG PHÂN TÍCH PHÂN THEO KINH"
                   },
                   "span": {
-                    "start": 552160,
-                    "end": 555865
+                    "start": 545089,
+                    "end": 548707
                   }
                 },
                 {
@@ -976,8 +976,8 @@
                     "vi": "B. ĐẠT THÔNG PHÂN TÍCH PHẦN PHÂN THEO DIỆU PHÁP"
                   },
                   "span": {
-                    "start": 555865,
-                    "end": 574294
+                    "start": 548707,
+                    "end": 566809
                   },
                   "subsections": [
                     {
@@ -985,8 +985,8 @@
                         "vi": "1) Tứ đạt thông phân theo tám tâm thiện dục giới"
                       },
                       "span": {
-                        "start": 555865,
-                        "end": 559822
+                        "start": 548707,
+                        "end": 552584
                       }
                     },
                     {
@@ -994,8 +994,8 @@
                         "vi": "5) Tứ đạt thông phân theo 12 tâm bất thiện"
                       },
                       "span": {
-                        "start": 559822,
-                        "end": 561461
+                        "start": 552584,
+                        "end": 554194
                       }
                     },
                     {
@@ -1003,8 +1003,8 @@
                         "vi": "6) Tam đạt thông phân theo tám tâm dị thục quả thiện vô nhân"
                       },
                       "span": {
-                        "start": 561461,
-                        "end": 570950
+                        "start": 554194,
+                        "end": 563524
                       }
                     },
                     {
@@ -1012,8 +1012,8 @@
                         "vi": "12) Tam đạt thông phân theo ba tâm tố vô nhân (ahetukakiriyā)"
                       },
                       "span": {
-                        "start": 570950,
-                        "end": 574294
+                        "start": 563524,
+                        "end": 566809
                       }
                     }
                   ]
@@ -1023,8 +1023,8 @@
                     "vi": "C. ĐẠT THÔNG PHÂN TÍCH PHẦN VẤN ĐÁP"
                   },
                   "span": {
-                    "start": 574294,
-                    "end": 580987
+                    "start": 566809,
+                    "end": 573463
                   },
                   "subsections": [
                     {
@@ -1032,8 +1032,8 @@
                         "vi": "1) Đáp theo đầu đề tam"
                       },
                       "span": {
-                        "start": 574565,
-                        "end": 577815
+                        "start": 567078,
+                        "end": 570311
                       }
                     },
                     {
@@ -1041,8 +1041,8 @@
                         "vi": "2) Đáp theo đầu đề nhị"
                       },
                       "span": {
-                        "start": 577815,
-                        "end": 580987
+                        "start": 570311,
+                        "end": 573463
                       }
                     }
                   ]
@@ -1054,8 +1054,8 @@
                 "vi": "PHẦN XVI - TRÍ PHÂN TÍCH (Ñāṇavibhaṅga)"
               },
               "span": {
-                "start": 580987,
-                "end": 659317
+                "start": 573463,
+                "end": 650710
               },
               "subsections": [
                 {
@@ -1063,8 +1063,8 @@
                     "vi": "Đầu đề phần một"
                   },
                   "span": {
-                    "start": 580987,
-                    "end": 583679
+                    "start": 573463,
+                    "end": 576131
                   }
                 },
                 {
@@ -1072,8 +1072,8 @@
                     "vi": "Đầu đề phần hai"
                   },
                   "span": {
-                    "start": 583679,
-                    "end": 585449
+                    "start": 576131,
+                    "end": 577865
                   }
                 },
                 {
@@ -1081,8 +1081,8 @@
                     "vi": "Đầu đề phần ba"
                   },
                   "span": {
-                    "start": 585449,
-                    "end": 592937
+                    "start": 577865,
+                    "end": 585311
                   }
                 },
                 {
@@ -1090,8 +1090,8 @@
                     "vi": "Đầu đề phần tứ"
                   },
                   "span": {
-                    "start": 592937,
-                    "end": 594014
+                    "start": 585311,
+                    "end": 586378
                   }
                 },
                 {
@@ -1099,8 +1099,8 @@
                     "vi": "Phần năm, phần sáu, phần bảy, phần tám và phần chín"
                   },
                   "span": {
-                    "start": 594014,
-                    "end": 594668
+                    "start": 586378,
+                    "end": 587025
                   }
                 },
                 {
@@ -1108,8 +1108,8 @@
                     "vi": "Đầu đề phần thập"
                   },
                   "span": {
-                    "start": 594668,
-                    "end": 599295
+                    "start": 587025,
+                    "end": 591562
                   }
                 },
                 {
@@ -1117,8 +1117,8 @@
                     "vi": "B. TRÍ PHÂN TÍCH PHẦN XIỂN MINH"
                   },
                   "span": {
-                    "start": 599295,
-                    "end": 659317
+                    "start": 591562,
+                    "end": 650710
                   },
                   "subsections": [
                     {
@@ -1126,8 +1126,8 @@
                         "vi": "Xiển minh phần một"
                       },
                       "span": {
-                        "start": 599295,
-                        "end": 606414
+                        "start": 591562,
+                        "end": 598614
                       }
                     },
                     {
@@ -1135,8 +1135,8 @@
                         "vi": "Xiển minh phần hai"
                       },
                       "span": {
-                        "start": 606414,
-                        "end": 611556
+                        "start": 598614,
+                        "end": 603655
                       }
                     },
                     {
@@ -1144,8 +1144,8 @@
                         "vi": "Xiển minh phần ba"
                       },
                       "span": {
-                        "start": 611556,
-                        "end": 618742
+                        "start": 603655,
+                        "end": 610696
                       }
                     },
                     {
@@ -1153,8 +1153,8 @@
                         "vi": "Xiển minh phần bốn"
                       },
                       "span": {
-                        "start": 618742,
-                        "end": 631583
+                        "start": 610696,
+                        "end": 623351
                       }
                     },
                     {
@@ -1162,8 +1162,8 @@
                         "vi": "Xiển minh phần năm"
                       },
                       "span": {
-                        "start": 631583,
-                        "end": 632955
+                        "start": 623351,
+                        "end": 624701
                       }
                     },
                     {
@@ -1171,8 +1171,8 @@
                         "vi": "Xiển minh phần sáu"
                       },
                       "span": {
-                        "start": 632955,
-                        "end": 633339
+                        "start": 624701,
+                        "end": 625084
                       }
                     },
                     {
@@ -1180,8 +1180,8 @@
                         "vi": "Xiển minh phần bảy"
                       },
                       "span": {
-                        "start": 633339,
-                        "end": 634977
+                        "start": 625084,
+                        "end": 626717
                       }
                     },
                     {
@@ -1189,8 +1189,8 @@
                         "vi": "Xiển minh phần tám"
                       },
                       "span": {
-                        "start": 634977,
-                        "end": 635363
+                        "start": 626717,
+                        "end": 627096
                       }
                     },
                     {
@@ -1198,8 +1198,8 @@
                         "vi": "Xiển minh phần chín"
                       },
                       "span": {
-                        "start": 635363,
-                        "end": 635869
+                        "start": 627096,
+                        "end": 627599
                       }
                     },
                     {
@@ -1207,8 +1207,8 @@
                         "vi": "Xiển minh phần mười"
                       },
                       "span": {
-                        "start": 635869,
-                        "end": 659317
+                        "start": 627599,
+                        "end": 650710
                       }
                     }
                   ]
@@ -1220,8 +1220,8 @@
                 "vi": "PHẦN XVII - TIỂU TÔNG PHÂN TÍCH (Khuddadavatthuvibhaṅga)"
               },
               "span": {
-                "start": 659317,
-                "end": 790024
+                "start": 650710,
+                "end": 779063
               },
               "subsections": [
                 {
@@ -1229,8 +1229,8 @@
                     "vi": "Đầu đề phần một điều (ekakamātikā)"
                   },
                   "span": {
-                    "start": 659317,
-                    "end": 664643
+                    "start": 650710,
+                    "end": 655929
                   },
                   "subsections": [
                     {
@@ -1238,8 +1238,8 @@
                         "vi": "Đầu đề phần hai điều"
                       },
                       "span": {
-                        "start": 661297,
-                        "end": 662140
+                        "start": 652649,
+                        "end": 653481
                       }
                     },
                     {
@@ -1247,8 +1247,8 @@
                         "vi": "Đầu đề phần ba điều"
                       },
                       "span": {
-                        "start": 662140,
-                        "end": 663018
+                        "start": 653481,
+                        "end": 654341
                       }
                     },
                     {
@@ -1256,8 +1256,8 @@
                         "vi": "Đầu đề phần bốn điều"
                       },
                       "span": {
-                        "start": 663018,
-                        "end": 663227
+                        "start": 654341,
+                        "end": 654542
                       }
                     },
                     {
@@ -1265,8 +1265,8 @@
                         "vi": "Đầu đề phần năm điều"
                       },
                       "span": {
-                        "start": 663227,
-                        "end": 663443
+                        "start": 654542,
+                        "end": 654753
                       }
                     },
                     {
@@ -1274,8 +1274,8 @@
                         "vi": "Đầu đề phần sáu điều"
                       },
                       "span": {
-                        "start": 663443,
-                        "end": 663689
+                        "start": 654753,
+                        "end": 654995
                       }
                     },
                     {
@@ -1283,8 +1283,8 @@
                         "vi": "Đầu đề phần bảy điều"
                       },
                       "span": {
-                        "start": 663689,
-                        "end": 663791
+                        "start": 654995,
+                        "end": 655089
                       }
                     },
                     {
@@ -1292,8 +1292,8 @@
                         "vi": "Đầu đề phần tám điều"
                       },
                       "span": {
-                        "start": 663791,
-                        "end": 663958
+                        "start": 655089,
+                        "end": 655251
                       }
                     },
                     {
@@ -1301,8 +1301,8 @@
                         "vi": "Đầu đề phần chín điều"
                       },
                       "span": {
-                        "start": 663958,
-                        "end": 664643
+                        "start": 655251,
+                        "end": 655929
                       }
                     }
                   ]
@@ -1312,8 +1312,8 @@
                     "vi": "Xiển minh phần một điều"
                   },
                   "span": {
-                    "start": 664643,
-                    "end": 688137
+                    "start": 655929,
+                    "end": 678940
                   }
                 },
                 {
@@ -1321,8 +1321,8 @@
                     "vi": "Xiển minh phần hai điều"
                   },
                   "span": {
-                    "start": 688137,
-                    "end": 697803
+                    "start": 678940,
+                    "end": 688412
                   }
                 },
                 {
@@ -1330,8 +1330,8 @@
                     "vi": "Xiển minh phần ba điều"
                   },
                   "span": {
-                    "start": 697803,
-                    "end": 724284
+                    "start": 688412,
+                    "end": 714420
                   }
                 },
                 {
@@ -1339,8 +1339,8 @@
                     "vi": "Xiển minh phần bốn điều"
                   },
                   "span": {
-                    "start": 724284,
-                    "end": 731064
+                    "start": 714420,
+                    "end": 721092
                   }
                 },
                 {
@@ -1348,8 +1348,8 @@
                     "vi": "Xiển minh phần năm điều"
                   },
                   "span": {
-                    "start": 731064,
-                    "end": 739108
+                    "start": 721092,
+                    "end": 729037
                   }
                 },
                 {
@@ -1357,8 +1357,8 @@
                     "vi": "Xiển minh phần sáu điều"
                   },
                   "span": {
-                    "start": 739108,
-                    "end": 744382
+                    "start": 729037,
+                    "end": 734231
                   }
                 },
                 {
@@ -1366,8 +1366,8 @@
                     "vi": "Xiển minh phần bảy điều"
                   },
                   "span": {
-                    "start": 744382,
-                    "end": 751630
+                    "start": 734231,
+                    "end": 741378
                   }
                 },
                 {
@@ -1375,8 +1375,8 @@
                     "vi": "Xiển minh phần tám điều"
                   },
                   "span": {
-                    "start": 751630,
-                    "end": 761527
+                    "start": 741378,
+                    "end": 751106
                   }
                 },
                 {
@@ -1384,8 +1384,8 @@
                     "vi": "Xiển minh phần chín điều"
                   },
                   "span": {
-                    "start": 761527,
-                    "end": 764787
+                    "start": 751106,
+                    "end": 754318
                   }
                 },
                 {
@@ -1393,8 +1393,8 @@
                     "vi": "Xiển minh phần mười điều"
                   },
                   "span": {
-                    "start": 764787,
-                    "end": 767926
+                    "start": 754318,
+                    "end": 757399
                   }
                 },
                 {
@@ -1402,8 +1402,8 @@
                     "vi": "Xiển minh phần mười tám điều"
                   },
                   "span": {
-                    "start": 767926,
-                    "end": 790024
+                    "start": 757399,
+                    "end": 779063
                   }
                 }
               ]
@@ -1413,8 +1413,8 @@
                 "vi": "PHẦN XVIII - PHÁP TÂM PHÂN TÍCH"
               },
               "span": {
-                "start": 790024,
-                "end": 860119
+                "start": 779063,
+                "end": 848305
               },
               "subsections": [
                 {
@@ -1422,8 +1422,8 @@
                     "vi": "1) PHẦN CHƯ YẾU HIỆP"
                   },
                   "span": {
-                    "start": 790024,
-                    "end": 793067
+                    "start": 779063,
+                    "end": 782081
                   }
                 },
                 {
@@ -1431,8 +1431,8 @@
                     "vi": "2) PHẦN TÂM BẤT SANH"
                   },
                   "span": {
-                    "start": 793067,
-                    "end": 804722
+                    "start": 782081,
+                    "end": 793700
                   }
                 },
                 {
@@ -1440,8 +1440,8 @@
                     "vi": "4) PHẦN DANH SIÊU PHI DANH SIÊU"
                   },
                   "span": {
-                    "start": 804722,
-                    "end": 821008
+                    "start": 793700,
+                    "end": 809776
                   }
                 },
                 {
@@ -1449,8 +1449,8 @@
                     "vi": "5) PHẦN KIẾN (Dassanavāra)"
                   },
                   "span": {
-                    "start": 821008,
-                    "end": 823051
+                    "start": 809776,
+                    "end": 811795
                   }
                 },
                 {
@@ -1458,8 +1458,8 @@
                     "vi": "6) PHẦN NGHIỆP SANH SỐNG BAO NHIÊU"
                   },
                   "span": {
-                    "start": 823051,
-                    "end": 831335
+                    "start": 811795,
+                    "end": 820000
                   }
                 },
                 {
@@ -1467,8 +1467,8 @@
                     "vi": "7) PHẦN THẤU TRIỆT (Abhiññeyyadivāra)"
                   },
                   "span": {
-                    "start": 831335,
-                    "end": 835650
+                    "start": 820000,
+                    "end": 824131
                   }
                 },
                 {
@@ -1476,8 +1476,8 @@
                     "vi": "8) PHẦN CẢNH"
                   },
                   "span": {
-                    "start": 835650,
-                    "end": 838864
+                    "start": 824131,
+                    "end": 827298
                   }
                 },
                 {
@@ -1485,8 +1485,8 @@
                     "vi": "9) PHẦN HIỆN TẠI (Diṭṭhādivāra)"
                   },
                   "span": {
-                    "start": 838864,
-                    "end": 860119
+                    "start": 827298,
+                    "end": 848305
                   },
                   "subsections": [
                     {
@@ -1494,8 +1494,8 @@
                         "vi": "10) PHẦN TAM ĐỀ THIỆN"
                       },
                       "span": {
-                        "start": 840903,
-                        "end": 842150
+                        "start": 829296,
+                        "end": 830531
                       }
                     },
                     {
@@ -1503,8 +1503,8 @@
                         "vi": "11) PHẦN TAM ĐỀ THỌ"
                       },
                       "span": {
-                        "start": 842150,
-                        "end": 845692
+                        "start": 830531,
+                        "end": 834069
                       }
                     },
                     {
@@ -1512,8 +1512,8 @@
                         "vi": "12) PHẦN TAM ĐỀ DỊ THỤC QUẢ"
                       },
                       "span": {
-                        "start": 845692,
-                        "end": 847990
+                        "start": 834069,
+                        "end": 836349
                       }
                     },
                     {
@@ -1521,8 +1521,8 @@
                         "vi": "13) PHẦN ĐẦU ĐỀ THỦ CẢNH THỦ"
                       },
                       "span": {
-                        "start": 847990,
-                        "end": 850351
+                        "start": 836349,
+                        "end": 838692
                       }
                     },
                     {
@@ -1530,8 +1530,8 @@
                         "vi": "14) PHẦN ĐẦU ĐỀ HỮU TẦM"
                       },
                       "span": {
-                        "start": 850351,
-                        "end": 852972
+                        "start": 838692,
+                        "end": 841294
                       }
                     },
                     {
@@ -1539,8 +1539,8 @@
                         "vi": "15) PHẦN NHỊ ĐỀ SẮC"
                       },
                       "span": {
-                        "start": 852972,
-                        "end": 853860
+                        "start": 841294,
+                        "end": 842162
                       }
                     },
                     {
@@ -1548,8 +1548,8 @@
                         "vi": "16) PHẦN NHỊ ĐỀ HIỆP THẾ"
                       },
                       "span": {
-                        "start": 853860,
-                        "end": 860119
+                        "start": 842162,
+                        "end": 848305
                       }
                     }
                   ]
