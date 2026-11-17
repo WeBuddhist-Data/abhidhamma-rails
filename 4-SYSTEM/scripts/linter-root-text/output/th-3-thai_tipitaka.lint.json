@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/th-3-thai_tipitaka.md",
+  "validated_at": "2026-11-17T10:52:19.256001+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-3.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://archive.org/details/Tri4501'",
+    "toc: 22 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง) of the Thai Department of Religious Affairs' has no [bdrc:ID] or [op:ID] — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "th": "ธาตุกถาปกรณ์"
+    },
+    "alt_titles": null,
+    "language": "th",
+    "commentary_of": null,
+    "translation_of": "Us3yilUt8Q4I8m3JuCOhk",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
