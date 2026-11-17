@@ -27,6 +27,9 @@ J = json.load(open(map_path, encoding="utf-8"))
 M = J["mapping"]
 extra_titles = J.get("extra_titles", {})
 extra_heads = set(J.get("heading_extra", []) or J.get("extra_heads", []))
+THAI_HEADS = set(J.get("thai_heads", []))
+# every line belongs to a block (no lines printed under a heading): run fix_heading_bounds first
+assert not any(v.get("after") for v in M.values()), "map has 'after' lines: run fix_heading_bounds.py"
 ROOT = sys.argv[8] if len(sys.argv) > 8 else "1-SOURCES/Text/pi-1.md"
 BOOK = sys.argv[9] if len(sys.argv) > 9 else "1"
 TITLE_IDS = ("0", f"{BOOK}-0")
@@ -118,7 +121,9 @@ def block_body(b):
             parts.append(item_text(i))
         parts.extend(t for _, t in v["pieces"])
     else:
-        parts = [item_text(i, first=(n == 0)) for n, i in enumerate(v["items"])]
+        # Thai-only section names moved into this block (fix_heading_bounds) are bold too
+        for n, i in enumerate(v["items"]):
+            parts.append(item_text(i, first=(n == 0 or i in THAI_HEADS)))
     return parts
 
 
@@ -149,7 +154,6 @@ for b, items in prefix.items():
 out, ml = [], []
 stack = []  # transclusions waiting for text (MERGE)
 last_group = None  # index in out of the previous passage's transclusion group
-u_count = 0  # ^U-N: translation-only lines with no root block
 CHECK = set(J.get("check", []))
 for blk in R:
     bid = blk["id"]
@@ -181,11 +185,6 @@ for blk in R:
         # (with no previous passage, e.g. a homage the Thai lacks, the stack carries forward)
         if text:
             out.append("#" * blk["level"] + " " + text + f" ^{bid}")
-            for i in M[bid].get("after", []):
-                # translation-only line printed under this heading, before any root text: it has
-                # no root block, so it gets an unnumbered ID ^U-N (like ^T-N for the homage)
-                u_count += 1
-                out.append(item_text(i) + f" ^U-{u_count}")
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  {text[:50]}")
         else:
             ml.append(f"^{bid} H  {blk['text'][:40]}  ->  (no heading in this translation: left out)")

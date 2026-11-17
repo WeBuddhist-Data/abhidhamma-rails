@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-7.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๔๐–๔๕: พระอภิธรรมปิฎก เล่ม ๗–๑๒ มหาปัฏฐานปกรณ์ / ปัฏฐานปกรณ์ ภาค ๑–๖"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๔๐–๔๕: พระอภิธรรมปิฎก เล่ม ๗–๑๒ มหาปัฏฐานปกรณ์ / ปัฏฐานปกรณ์ ภาค ๑–๖"
 coverage: complete
-alignment: "block-aligned to 1-SOURCES/Text/pi-7.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Thai-only lines between two headings carry ^U-N"
+alignment: "block-aligned to 1-SOURCES/Text/pi-7.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_40 to Tri45_45 (six volumes)' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy the six Thai volumes are joined in order; each volume title and homage are kept where they occur; the edition does not print some Pāli sections (e.g. the Pucchāvāra of the opening), whose root blocks are stacked; count tables printed as centred lines are kept as text keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers each volume numbered from [๑], and vols. 44 and 45 restart for each part; all numbers present except where the edition itself skips them ([๑๒๐๒], [๒๑๗๒], [๒๒๐๑] in vol. 41; [๑๒๐๒], [๑๔๐๒] in vol. 44). Some stray spaces between Thai consonants may remain.]"
@@ -50273,12 +50273,11 @@ verse_id_format: book-verse
 
 ###### อุปาทินนทุกะ ^7-3-1-9-322-0
 
-**ปัจจยวาร** ^U-1
-
 ###### ปฏิจจวาร ^7-3-1-9-323-0
 
 ![[1-SOURCES/Text/pi-7.md#^7-32-416]]
 
+**ปัจจยวาร**
 [๓๔๐] อุปาทินนธรรม อาศัยอุปาทินนธรรม เกิดขึ้น เพราะเหตุปัจจัย
 คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอุปาทินนธรรม ขันธ์ ๒ ฯลฯ
 ในปฏิสนธิขณะ ขันธ์ ๓ และกฏัตตารูป อาศัยขันธ์ ๑ ที่เป็นอุปาทาทินนธรรม ขันธ์ ๒ ฯลฯ หทัยวัตถุ อาศัยขันธ์ทั้งหลาย ขันธ์ทั้งหลายอาศัยหทัยวัตถุ มหาภูตรูป ๑ ฯลฯ กฏัตตารูปที่เป็นอุปาทารูป อาศัยมหาภูตรูปทั้งหลาย.
@@ -87348,12 +87347,11 @@ verse_id_format: book-verse
 
 #### ปัจจนียานุโลมติกทุกปัฏฐาน ^7-5-18-0
 
-**นกุสลัตติกเหตุทุกกุสลัตติกเหตุทุกะ** ^U-2
-
 ##### นกุสลัตติกนสเหตุกทุกกุสลัตติกสเหตุกทุกะ ^7-5-18-1-0
 
 ![[1-SOURCES/Text/pi-7.md#^7-72-1]]
 
+**นกุสลัตติกเหตุทุกกุสลัตติกเหตุทุกะ**
 [๕๖๒] เหตุธรรมที่เป็นอกุศล อาศัยนเหตุธรรมที่ไม่ใช่กุศล เกิดขึ้น เพราะเหตุปัจจัย
 เหตุธรรมที่เป็นอัพยากฤต อาศัยนเหตุธรรมที่ไม่ใช่กุศล เกิดขึ้น เพราะเหตุปัจจัย
 เหตุธรรมที่เป็นกุศล อาศัยนเหตุธรรมที่ไม่ใช่กุศล เกิดขึ้น เพราะเหตุปัจจัย

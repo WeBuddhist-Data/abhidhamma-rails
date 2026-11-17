@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-5.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๓๗: พระอภิธรรมปิฎก เล่ม ๔ กถาวัตถุปกรณ์"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๗: พระอภิธรรมปิฎก เล่ม ๔ กถาวัตถุปกรณ์"
 coverage: complete
-alignment: "block-aligned to 1-SOURCES/Text/pi-5.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Thai-only lines between two headings carry ^U-N"
+alignment: "block-aligned to 1-SOURCES/Text/pi-5.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_37 กถาวัตปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy wrapped dialogue lines that the PDF indents like centred text (5,662) rejoined to their paragraphs keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๘๙๗] complete. Some stray spaces between Thai consonants may remain.]"
@@ -24,18 +24,15 @@ verse_id_format: book-verse
 
 ## กถาวัตถุปกรณ์ ^5-0
 
-**มหาวรรค** ^U-1
-
 ### ปุคคลกถา ^5-1-0
-
-**นิคหะ ๘** ^U-2
-
-**นิคหะ ที่ ๘** ^U-3
 
 ##### อนุโลมปัญจกะ ^5-1-1-1-0
 
 ![[1-SOURCES/Text/pi-5.md#^5-1]]
 
+**มหาวรรค**
+**นิคหะ ๘**
+**นิคหะ ที่ ๘**
 [๑] สกวาที ท่านหยั่งเห็นบุคคล โดยสัจฉิกัตถปรมัตถ์ หรือ?
 ปรวาที ถูกแล้ว
 ส. สภาวะใด เป็นสัจฉิกัตถะ  เป็นปรมัตถะ  ท่านหยั่งเห็นบุคคลนั้น ตาม สภาวะนั้น โดยสัจฉิกัตถปรมัตถ์ หรือ?

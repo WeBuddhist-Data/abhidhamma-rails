@@ -97,8 +97,9 @@ while i < n:
     i += 1
 if no_id:
     problems.append(f"{len(no_id)} paragraphs or headings without a block ID, e.g. {no_id[:4]}")
-if u_ids != [f"U-{k}" for k in range(1, len(u_ids) + 1)]:
-    problems.append(f"^U-N IDs not numbered 1..{len(u_ids)} in order: {u_ids[:8]}")
+if u_ids:
+    # decision 2026-11-17: Thai-only lines open the next root block and share its ID
+    problems.append(f"{len(u_ids)} ^U-N IDs: Thai-only lines belong in the next block, e.g. {u_ids[:5]}")
 
 # ---- 1. transclusions
 bad_path = [t for t in trans if t[1] != root_rel]

@@ -148,6 +148,7 @@ def remove(i, kind, b):
 
 
 pending_after = defaultdict(list)
+thai_heads = []  # Thai-only section names moved into the next block
 for i, kind, b, s, cur in moves:
     remove(i, kind, b)
     tb = seg_text.get(s, [])
@@ -225,16 +226,34 @@ for s, items in pending_after.items():
                 j = jj + 1
                 break
     if items:
-        opener = kept[s - 1][2] if s >= 1 else None
-        if opener is None:
+        # Thai-only section names with no root heading: they open the next root text block as
+        # bold lines and share its block ID (user decision 2026-11-17: no IDs of their own)
+        if nxt_seg is None:
             rep.append(f"!! no place for {[D[i]['text'][:30] for i in items]}")
             continue
-        M[opener].setdefault("after", [])
-        M[opener]["after"] = sorted(M[opener]["after"] + items)
+        dest = seg_text[nxt_seg][0]
+        M[dest]["items"] = sorted(M[dest]["items"] + items)
+        thai_heads.extend(items)
         for i in items:
-            rep.append(f"AFTER ^{opener}: '{D[i]['text'][:45]}'")
+            rep.append(f"FWD   h     '{D[i]['text'][:45]}' -> ^{dest} (Thai-only heading, opens the block)")
 
+# any line still printed "under a heading" (an older map's "after" list) opens the first root
+# text block after that heading instead: no line stands outside a block
+for k, b in enumerate(R):
+    v = M[b["id"]]
+    if not v.get("after"):
+        continue
+    nxt = next((x["id"] for x in R[k + 1:] if x["kind"] == "t"), None)
+    if nxt is None:
+        rep.append(f"!! no block after ^{b['id']} for {v['after']}")
+        continue
+    M[nxt]["items"] = sorted(M[nxt]["items"] + v["after"])
+    thai_heads.extend(i for i in v["after"] if D[i]["kind"] == "h")
+    for i in v["after"]:
+        rep.append(f"FWD   {D[i]['kind']:5} '{D[i]['text'][:45]}' (under ^{b['id']}) -> ^{nxt}")
+    v["after"] = []
 J["mapping"] = M
+J["thai_heads"] = sorted(thai_heads)  # rendered bold at the start of their block
 json.dump(J, open(map_out, "w", encoding="utf-8"), ensure_ascii=False)
 n_move = sum(1 for r in rep if r.startswith("MOVE"))
 n_pair = sum(1 for r in rep if r.startswith("PAIR"))

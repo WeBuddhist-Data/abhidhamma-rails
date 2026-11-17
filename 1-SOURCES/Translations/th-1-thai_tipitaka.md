@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-1.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, vol. 34"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๔: พระอภิธรรมปิฎก เล่ม ๑ ธรรมสังคณีปกรณ์"
 coverage: complete
-alignment: "block-aligned to 1-SOURCES/Text/pi-1.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out; Thai-only lines between two headings carry ^U-N"
+alignment: "block-aligned to 1-SOURCES/Text/pi-1.md: each text block carries the root block ID and is preceded by a transclusion of the root block; root blocks rendered together are stacked (merge); headings carry the root heading ID with no transclusion; root headings with no heading in this translation are left out"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_34 ธรรมสังคณีปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in the two-column Pāli/Thai matrix only the Thai column is kept, one line per item (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-1-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๙๘๗] complete. Some stray spaces between Thai consonants may remain.]"
@@ -190,12 +190,11 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### ทุกมาติกา ๑๔๒ ทุกะ ^1-M-2-0
 
-**อภิธรรมมาติกา ๑๐๐ ทุกะ** ^U-1
-
 ##### เหตุโคจฉกะ ^1-M-2-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-M2-1]]
 
+**อภิธรรมมาติกา ๑๐๐ ทุกะ**
 **หมวดที่ ๑ มี ๖ ทุกะ คือ**
 **[๒] ๑. เหตุทุกะ**
 ธรรมเป็นเหตุ
@@ -1107,16 +1106,14 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 ### จิตตุปปาทกัณฑ์ ^1-1-0
 
-**กุศลธรรม** ^U-2
-
 #### กามาวจรมหากุศลจิต ๘ ^1-1-1-0
-
-**จิตดวงที่ ๑** ^U-3
 
 ##### บทภาชนีย์ ^1-1-1-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-1]]
 
+**กุศลธรรม**
+**จิตดวงที่ ๑**
 [๑๖] ธรรมเป็นกุศล เป็นไฉน
 กามาวจรกุศลจิต สหรคตด้วยโสมนัส  สัมปยุตด้วยญาณ  มีรูปเป็นอารมณ์ หรือ มีเสียง เป็นอารมณ์ มีกลิ่นเป็นอารมณ์ มีรสเป็นอารมณ์ มีโผฏฐัพพะเป็นอารมณ์ มีธรรมเป็นอารมณ์ หรือปรารภอารมณ์ใดๆ เกิดขึ้นในสมัยใด ผัสสะ เวทนา สัญญา เจตนา จิต วิตก วิจาร ปีติ สุข เอกัคคตา สัทธินทรีย์ วิริยินทรีย์ สตินทรีย์ สมาธินทรีย์ ปัญญินทรีย์ มนินทรีย์ โสมนัส สินทรีย์ ชีวิตินทรีย์ สัมมาทิฏฐิ สัมมาสังกัปปะ สัมมาวายามะ สัมมาสติ สัมมาสมาธิ สัทธาพละ วิริยพละ สติพละ สมาธิพละ ปัญญาพละ หิริพละ โอตตัปปพละ อโลภ อโทสะ อโมหะ อนภิชฌา อัพยาปาทะ (สัมมาทิฏฐิ หิริ โอตตัปปะ) กายปัสสัทธิ จิตตปัสสัทธิ กายลหุตา จิตตลหุตา กายมุทุตา จิตตมุทุตา กายกัมมัญญตา จิตตกัมมัญญตา กายปาคุญญตา จิตตปาคุญญตา กายุชุกตา จิตตุชุกตา สติ สัมปชัญญะ สมถะ วิปัสสนา ปัคคาหะ อวิกเขปะ มีในสมัยนั้น หรือนามธรรมที่อิงอาศัยเกิดขึ้นแม้อื่นใด มีอยู่ในสมัยนั้น.
 สภาวธรรมเหล่านี้ชื่อว่า ธรรมเป็นกุศล ^1-1
@@ -3676,12 +3673,11 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### อัพยากตธรรม ^1-1-7-0
 
-**กามาวจรวิบาก** ^U-4
-
 ##### วิญญาณ ๕ ที่เป็นกุศลวิบาก ^1-1-7-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-431]]
 
+**กามาวจรวิบาก**
 [๓๓๘] ธรรมเป็นอัพยากฤต เป็นไฉน?
 จักขุวิญญาณเป็นวิบาก สหรคตด้วยอุเบกขา มีรูปเป็นอารมณ์ เกิดขึ้นเพราะกามาวจร กุศลกรรมอันได้กระทำไว้แล้ว ได้สั่งสมไว้แล้ว ในสมัยใด ผัสสะ เวทนา สัญญา เจตนา จิต อุเบกขา เอ กัคคตา มนินทรีย์ อุเปกขินทรีย์ ชีวิตินทรีย์ มีในสมัยนั้น หรือนามธรรม ที่อิงอาศัยเกิดขึ้นแม้อื่นใด มีอยู่ในสมัยนั้น
 สภาวธรรมเหล่านี้ ชื่อว่า ธรรมเป็นอัพยากฤต. ^1-431
@@ -4123,14 +4119,12 @@ segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
 
 #### โลกุตตรวิบาก ^1-1-8-0
 
-**วิบากแห่งมรรคจิตดวงที่ ๑** ^U-5
-
-**มหานัย ๒๐** ^U-6
-
 ##### สุทธิกปฏิปทา ^1-1-8-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-505]]
 
+**วิบากแห่งมรรคจิตดวงที่ ๑**
+**มหานัย ๒๐**
 [๔๒๒] ธรรมเป็นอัพยากฤต เป็นไฉน?
 โยคาวจรบุคคล เจริญฌานเป็นโลกุตตระ อันเป็นเครื่องออกไปจากโลกนำไปสู่นิพพาน เพื่อละทิฏฐิ  เพื่อบรรลุภูมิเบื้องต้น สงัดจากกาม สงัดจากอกุศลธรรมทั้งหลายแล้ว บรรลุ ปฐมฌาน เป็นทุกขาปฏิปทาทันธาภิญญา ฯลฯ อยู่ในสมัยใด ผัสสะ ฯล ฯ อวิกเขปะ มีใน สมัยนั้น ฯลฯ สภาวธรรมเหล่านี้ ชื่อว่า ธรรมเป็นกุศล.
 โยคาวจรบุคคล สงัดจากกาม สงัดจากอกุศลธรรมทั้งหลายแล้ว บรรลุปฐมฌาน ชนิด สุญญตะ เป็นทุกขาปฏิปทาทันธาภิญญา ฯลฯ อันเป็นวิบาก เพราะกุศลฌานเป็นโลกุตตระอัน ได้ทำไว้แล้ว  ได้เจริญไว้แล้วนั้นแล อยู่ในสมัยใด ผัสสะ ฯลฯ อัญญินทรีย์ ฯลฯ อวิกเขปะ มีในสมัยนั้น ฯลฯ
