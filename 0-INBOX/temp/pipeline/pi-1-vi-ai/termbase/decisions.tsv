@@ -1,0 +1,100 @@
+# pi-1 Pāli→Vietnamese plain termbase decisions (brief: ../vi-termbase-brief.md). Format: hw|sense_index TAB term TAB reason. Order of preference: (a) core term, pi-1 term list or user decision; (b) form the pi-1 translation uses most; (c) clearest plain candidate. CITATION-FORM RULE: the form follows the grammar label of the sense tag. A noun headword (nominative/accusative, including "stem and nominative") takes the standalone noun form with its nominaliser as the text uses it on its own (sự tỉnh thức, sự hoài nghi, niềm tin, sự bình thản). A headword labelled only stem / compound member / compound final, an adjective or an adverb takes the bare form (xao động, hối tiếc, tham đắm, hời hợt). Verbs and participles take the bare verb (sinh khởi) unless the Pāli tense is the point (the matrix item uppannā «đã sinh khởi», the past-participle string defining «arisen», futures with «sẽ»). «có» and the classifier «loại» are dropped unless they carry meaning (có X đi kèm, có đối tượng, có gốc rễ; loại tâm = types of mind; «và loại» = the relative yañca). The unbroken form wins over a gapped « … » form when both are attested.
+# USER DECISIONS 2026-11-18: dukkha bodily pain = «khó chịu» (rails: «sự đau khổ» → «sự khó chịu» in ^1-556, ^1-1388, ^1-1404); sukha split in the senses (factor «hạnh phúc» vs pleasant feeling «dễ chịu»; rails: sukhasahagata body-consciousness ^1-443 and parallels → «dễ chịu»); vāro split (section «mục» vs bhāṇavāra «phần»). The three former open-point lines were removed: those senses now have one candidate each.
+uppannaṃ|0	sinh khởi	bare verb (cittaṃ uppannaṃ hoti), 46 of 48; tense is not the point here
+sampajaññaṃ|0	sự hiểu biết rõ ràng	noun headword; most used (30)
+vāyāmo|0	sự nỗ lực	noun headword; nỗ lực kept apart from vīriya «tinh tấn» (core); sammāvāyāmo keeps «nỗ lực đúng đắn»
+saddhā|0	niềm tin	core term; «có» dropped
+rūpa|1	hình sắc	compound member, bare form (277); «cõi» comes from avacara / upapatti (Rūpāvacara «thuộc cõi hình sắc»); same choice as Arūpa
+jīvita|0	sự sống	noun form (tag includes nominative); compounds keep the bare member (năng lực sống)
+sati|0	sự tỉnh thức	core term, user decision 2026-11-17 (never chánh niệm)
+ārammaṇaṃ|0	đối tượng	noun; «có» dropped (91 of 92)
+parittāni|0	hạn hẹp	classifier «loại» dropped; matrix parittā «hạn hẹp»
+Arūpa|0	không hình sắc	compound member, bare form (95); covers arūpajhāna «tầng thiền không hình sắc»; «cõi» comes from avacara
+Suññataṃ|0	tính chất trống rỗng	body form (37 of 41; map decision: headings «Sự trống rỗng», body «tính chất …»); same pattern as animittaṃ «tính chất không có dấu hiệu»
+Appaṇihitaṃ|0	tính chất không mong cầu	body form (36 of 38); same pattern as Suññataṃ and animittaṃ
+upekkhā|0	sự bình thản	core term; noun headword
+abyākataṃ|0	không xác định về mặt đạo đức	core term; classifier «loại» dropped
+kiriyā|0	mang tính chức năng	core term (kiriya = mang tính chức năng); adjective form
+Kiriyāmano|0	ý mang tính chức năng	unbroken form over the gapped one
+Yo|0	điều	most used (83); definition frame «Điều có mặt vào lúc ấy»; same as Yā and Yaṃ
+cetasikaṃ|0	trong tâm	adjective, opposite of kāyikaṃ «nơi thân»; most used (20)
+sukhā|0	dễ chịu	core term (sukhā vedanā = cảm giác dễ chịu); 20 of 21
+Yaṃ|0	điều	most used (75); same as Yo and Yā
+Parāmāsa|0	sự hiểu sai lệch	core term and heading «Nhóm về sự hiểu sai lệch»; kept apart from abhiniveso «sự cố chấp» and diṭṭhigata «sự mắc kẹt trong các quan điểm»
+Yā|0	điều	most used (144); same as Yo and Yaṃ
+sañcetanā|0	sự cố ý	kept apart from cetanā «chủ ý» (they stand side by side in the cetanā string «chủ ý, sự cố ý»); 10 of 12
+pilāpanatā|0	hời hợt	compound final (apilāpanatā «sự không hời hợt»), bare form
+dhāraṇatā|0	sự gìn giữ trong trí nhớ	noun headword (sati string)
+paṭissati|0	sự hồi tưởng	noun headword (sati string)
+anussati|0	sự nhớ lại	noun headword (sati string)
+saraṇatā|0	sự ghi nhớ	noun headword (sati string)
+lubbhanā|0	sự khởi lòng tham	noun headword; map decision: unnegated lobha strings keep «sự»
+sārajjanā|0	sự bị cuốn hút	noun headword; same pattern as lubbhanā
+dussanā|0	sự khởi sân	noun headword; same pattern as lubbhanā
+samuppannā|0	sinh khởi	bare verb as in the closing formula (paṭicca)samuppannā, 73 of 77 (UNSURE: the ^1-1041 / ^1-1046 string keeps «đã sinh khởi trọn vẹn» to stay apart from uppannā)
+cittāni|0	loại tâm	«loại» carries the meaning 'types of mind'; same as cittuppādā / cittuppādo «loại tâm»
+ajjhattaṃ|0	nơi bản thân	most used (45 of 46)
+dukkha|1	khó chịu	OPEN POINT dukkha: bodily pain = «khó chịu» as in dukkhā vedanā «cảm giác khó chịu» (core), dukkhindriya «năng lực khó chịu», kāyikaṃ dukkhaṃ «sự khó chịu nơi thân»; «sự đau khổ» reads as anguish
+dukkha|2	khổ đau	the truth term: Dukkhe «khổ đau», dukkhanirodha «sự chấm dứt khổ đau», «khối khổ đau»
+padhānaṃ|0	sự nỗ lực	noun headword; same word as vāyāma (sammappadhāna = sammāvāyāma, user-accepted pairing); kept apart from vīriya «tinh tấn»
+rāga|0	tham đắm	stem and compound member, bare form (xiềng xích tham đắm hiện hữu)
+kāmarāga|0	tham đắm dục lạc	compound member, bare form; same as rāga
+māna|0	kiêu mạn	stem and compound member, bare form; māno «sự kiêu mạn» is the noun
+uddhacca|0	xao động	stem and compound member, bare form (chướng ngại xao động); uddhaccaṃ «sự xao động» is the noun; kept apart from kukkucca «hối tiếc»
+gāho|0	sự nắm giữ	noun headword; 27 of 31
+patho|0	lối đi	most used (micchāpatho, 14 of 19); a plain word for 'path, way'
+ñāṇaṃ|0	hiểu biết	core: ñāṇa = hiểu biết (kept apart from vijjā); «biết» is the aññāṇa 'not knowing' fragment
+paṭigha|0	ác cảm	compound member, bare form (xiềng xích ác cảm)
+dukkhaṃ|0	khó chịu	OPEN POINT dukkha: as dukkha|1; matches the parallel sukha side «năng lực dễ chịu» and the feeling string «sự khó chịu nơi thân»
+vicikicchā|0	sự hoài nghi	noun headword (stem and nominative); kept apart from kaṅkhā «sự nghi ngờ»
+uppannā|0	đã sinh khởi	matrix item (uppannā dhammā): tense is the point, contrasts anuppannā «chưa sinh khởi» and uppādino «sẽ sinh khởi»
+ārammaṇā|0	có đối tượng	compound final 'having as object' (parittārammaṇā «có đối tượng hạn hẹp»); most used
+Kiriyā mano|0	ý mang tính chức năng	unbroken form; same as Kiriyāmano
+hetukā|0	có gốc rễ	compound final 'having roots' (sahetukā «có gốc rễ»); most used
+rūpaṃ|0	vật chất	core term; 510 of 512
+jarā|0	sự lão hóa	noun headword; same as jaratā «sự lão hóa»; plain modern word
+viññeyyaṃ|0	có thể nhận biết	unbroken form, most used
+viññātaṃ|0	được nhận biết	unbroken form
+rūpaṃ sappaṭighaṃ|0	vật chất có tính va chạm	unbroken form
+samuddo|0	đại dương	most used (20 of 23)
+uppajjati|0	sinh khởi	bare verb
+rūpaṃ cittasamuṭṭhānaṃ|0	vật chất do tâm sinh ra	unbroken form
+rūpaṃ cittasahabhu|0	vật chất cùng tồn tại với tâm	unbroken form
+rūpaṃ cittānuparivatti|0	vật chất vận hành theo tâm	unbroken form
+akusalā dhammā|0	hiện tượng bất thiện	unbroken form
+yañca|0	và loại	most used (12 of 16); «và» carries ca, «loại» is the relative ('the kind of matter that')
+abyākatā dhammā|0	hiện tượng không xác định về mặt đạo đức	unbroken form
+Sāsavā kusalābyākatā dhammā|0	hiện tượng thiện và không xác định về mặt đạo đức là đối tượng của ô nhiễm	unbroken form
+dhammā dassanena pahātabbahetukā|0	hiện tượng có gốc rễ cần dứt bỏ bằng sự thấy chân lý	unbroken form, matrix item
+pahātabbahetukā|0	có gốc rễ cần dứt bỏ	unbroken form, most used
+cetasikā|0	yếu tố đồng hành với tâm	core term (cetasika); noun headword
+dhammā micchattaniyatā|0	hiện tượng cố định theo hướng sai lầm	unbroken form, matrix item
+dhammā uppannā|0	hiện tượng đã sinh khởi	unbroken form, matrix item
+jātā|0	đã sinh ra	past participle in the string defining 'arisen' (^1-1041): tense is the point; the bare form comes from ajātā «chưa sinh ra»
+abhinibbattā|0	đã phát sinh rõ rệt	as jātā
+samuṭṭhitā|0	đã trỗi dậy trọn vẹn	as jātā
+nibbattā|0	đã phát sinh	as jātā
+pātubhūtā|0	đã hiện ra	as jātā
+sañjātā|0	đã sinh thành	as jātā
+uṭṭhitā|0	đã trỗi dậy	as jātā
+bhava|0	hiện hữu	stem and compound member, bare form (bhavāsava «ô nhiễm hiện hữu»); core bhavataṇhā «khao khát được hiện hữu»
+vibhava|0	không còn hiện hữu	compound member, bare form, most used (vibhavataṇhā)
+kamyatā|0	sự mong muốn	plain general word for 'wishing' (sādhukamyatā, ketukamyatā, bhiyyokamyatā); «sự ham» needs an object
+vipākato|0	quả của nghiệp	core term (vipāka = quả của nghiệp); 26 of 28
+dhammā saṅkhatā|0	hiện tượng do điều kiện tạo thành	unbroken form, matrix item
+dhammā asaṅkhatā|0	hiện tượng không do điều kiện tạo thành	unbroken form, matrix item
+Sāsavā kusalākusalābyākatā dhammā|0	hiện tượng thiện bất thiện và không xác định về mặt đạo đức là đối tượng của ô nhiễm	unbroken form
+issā|0	sự ganh tị	noun headword (nominative sg.)
+kukkucca|0	hối tiếc	stem and compound member, bare form (chướng ngại hối tiếc); kukkuccaṃ «sự hối tiếc»; kept apart from uddhacca «xao động»
+thina|0	uể oải	stem and compound member, bare form (chướng ngại uể oải và đờ đẫn)
+middha|0	đờ đẫn	stem and compound member, bare form; kept apart from thina
+Bhavissati|0	sẽ tồn tại	future keeps «sẽ»; unbroken form
+sātatā|0	thích thú	compound final (vipaccanīkasātatā), bare form
+jāti|0	sự sinh	noun headword (stem and nominative); paṭiccasamuppāda chain «sự sinh»
+uppādāya|0	sự sinh khởi	dative noun 'for the arising' (sammappadhāna formula)
+santuṭṭhitā|0	sự biết đủ	noun headword
+mattaññutā|0	sự biết tiết độ	noun headword
+sammusanatā|0	sự quên lãng	noun headword
+rūpañca|0	vật chất	core term; 54 of 55 (the matrix pair nāmañca / rūpañca reads «Phần tinh thần / Phần vật chất» by user decision 2026-11-18, a phrase-level choice in the rails)
+cittuppādā|0	loại tâm	«loại» carries the meaning 'classes of mind'; same as cittuppādo
+sampajaññañca|0	sự hiểu biết rõ ràng	noun form; same as sampajaññaṃ

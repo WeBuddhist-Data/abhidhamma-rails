@@ -1,0 +1,99 @@
+﻿== preamble
+preamble.md: OK (3 segments)
+lines 3 3 dash-line mismatches 0 [] | dashes pali 0 english 0 | extra em-dashes 0
+== 1-matika
+1-matika.md: OK (181 segments)
+lines 384 384 dash-line mismatches 0 [] | dashes pali 0 english 0 | extra em-dashes 0
+== 2-01-cittuppadakandam
+2-01-cittuppadakandam.md: OK (164 segments)
+lines 195 195 dash-line mismatches 0 [] | dashes pali 141 english 141 | extra em-dashes 0
+== 2-02-cittuppadakandam
+2-02-cittuppadakandam.md: OK (143 segments)
+lines 174 174 dash-line mismatches 0 [] | dashes pali 26 english 26 | extra em-dashes 0
+== 2-03-cittuppadakandam
+2-03-cittuppadakandam.md: OK (96 segments)
+lines 109 109 dash-line mismatches 0 [] | dashes pali 65 english 65 | extra em-dashes 0
+== 2-04-cittuppadakandam
+2-04-cittuppadakandam.md: OK (149 segments)
+lines 169 169 dash-line mismatches 0 [] | dashes pali 150 english 150 | extra em-dashes 0
+== 2-05-cittuppadakandam
+2-05-cittuppadakandam.md: OK (99 segments)
+lines 129 129 dash-line mismatches 0 [] | dashes pali 32 english 32 | extra em-dashes 0
+== 3-01-rupakandam
+3-01-rupakandam.md: OK (29 segments)
+lines 159 159 dash-line mismatches 0 [] | dashes pali 12 english 12 | extra em-dashes 0
+== 3-02-rupakandam
+3-02-rupakandam.md: OK (151 segments)
+lines 157 157 dash-line mismatches 0 [] | dashes pali 148 english 148 | extra em-dashes 0
+== 3-03-rupakandam
+3-03-rupakandam.md: OK (250 segments)
+lines 271 271 dash-line mismatches 0 [] | dashes pali 237 english 237 | extra em-dashes 0
+== 4-01-nikkhepakandam
+4-01-nikkhepakandam.md: OK (179 segments)
+lines 187 187 dash-line mismatches 0 [] | dashes pali 174 english 174 | extra em-dashes 0
+== 4-02-nikkhepakandam
+4-02-nikkhepakandam.md: OK (155 segments)
+lines 161 161 dash-line mismatches 0 [] | dashes pali 153 english 153 | extra em-dashes 0
+== 4-03-nikkhepakandam
+4-03-nikkhepakandam.md: OK (82 segments)
+lines 83 83 dash-line mismatches 0 [] | dashes pali 86 english 86 | extra em-dashes 0
+== 5-atthakathakandam
+5-atthakathakandam.md: OK (249 segments)
+lines 255 255 dash-line mismatches 0 [] | dashes pali 273 english 273 | extra em-dashes 0
+== verify_rails_vi
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\preamble.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\1-matika.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\2-01-cittuppadakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\2-02-cittuppadakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\2-03-cittuppadakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\2-04-cittuppadakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\2-05-cittuppadakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\3-01-rupakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\3-02-rupakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\3-03-rupakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\4-01-nikkhepakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\4-02-nikkhepakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\4-03-nikkhepakandam.md OK
+AI_translation\vietnamese\pi-1-vietnamese-plain-rails_split_chapters\5-atthakathakandam.md OK
+== termbase adherence
+checked 32453 keyword occurrences in 1930 segments; 884 without the termbase term (2.7%)
+ 204  dhammā kusalā  ->  hiện tượng thiện   e.g. 1-1, 1-57, 1-58
+  96  dhammā abyākatā  ->  hiện tượng không xác định về mặt đạo đức   e.g. 1-431, 1-441, 1-442
+  57  yaṃ  ->  điều   e.g. 1-616, 1-617, 1-618
+  49  abyākatā dhammā  ->  hiện tượng không xác định về mặt đạo đức   e.g. 1-998, 1-1012, 1-1019
+  48  rūpañca  ->  phần vật chất   e.g. 1-1386, 1-1389, 1-1392
+  45  ajjhattaṃ arūpa  ->  không … hình sắc nơi bản thân   e.g. 1-204, 1-205, 1-206
+  26  dhammā akusalā  ->  hiện tượng bất thiện   e.g. 1-365, 1-397, 1-398
+  12  samuṭṭhānaṃ kāyakammaṃ  ->  do … sinh ra … nghiệp bằng thân   e.g. 1-985, 1-986, 1-997
+   7  sāsavā kusalākusalābyākatā dhammā  ->  hiện tượng thiện bất thiện và không xác định về mặt đạo đức là đối tượng của ô nhiễm   e.g. 1-1113, 1-1135, 1-1151
+   6  rūpaṃ sappaṭighaṃ  ->  vật chất có tính va chạm   e.g. 1-586, 1-658, 1-942
+   6  upādāya vaṇṇanibhā  ->  màu sắc và dáng vẻ phái sinh từ   e.g. 1-616, 1-617, 1-618
+   6  vaṇṇa  ->  màu sắc | lời khen   e.g. 1-616, 1-617, 1-618
+   6  Yo  ->  điều   e.g. 1-641, 1-642, 1-734
+   6  akusalā dhammā  ->  hiện tượng bất thiện   e.g. 1-992, 1-995, 1-1020
+   6  dhammā dassanena pahātabbahetukā  ->  hiện tượng có gốc rễ cần dứt bỏ bằng sự thấy chân lý   e.g. 1-1013, 1-1017, 1-1268
+   6  pahātabbahetukā  ->  có gốc rễ cần dứt bỏ   e.g. 1-1019, 1-1272, 1-1274
+   6  dhammā āsavavippayuttā  ->  hiện tượng không gắn liền với ô nhiễm   e.g. 1-1111, 1-1116, 1-1117
+   6  dhammā saṃyojanavippayuttā  ->  hiện tượng không gắn liền với xiềng xích   e.g. 1-1133, 1-1138, 1-1139
+   6  dhammā ganthavippayuttā  ->  hiện tượng không gắn liền với nút thắt   e.g. 1-1149, 1-1154, 1-1155
+   6  dhammā nīvaraṇavippayuttā  ->  hiện tượng không gắn liền với chướng ngại   e.g. 1-1173, 1-1178, 1-1179
+   6  dhammā parāmāsavippayuttā  ->  hiện tượng không gắn liền với sự hiểu sai lệch   e.g. 1-1186, 1-1189, 1-1190
+   6  dhammā upādānavippayuttā  ->  hiện tượng không gắn liền với sự bám víu   e.g. 1-1228, 1-1233, 1-1234
+   6  dhammā kilesavippayuttā  ->  hiện tượng không gắn liền với phiền não   e.g. 1-1252, 1-1259, 1-1260
+   6  Rūpañca  ->  phần vật chất   e.g. 1-1422, 1-1429, 1-1434
+   5  patho  ->  lối đi   e.g. 1-425, 1-1008, 1-1123
+   5  lokuttaratikacatukkajjhānā  ->  ba tầng thiền vượt thế gian theo phương pháp chia bốn và bốn tầng thiền theo phương pháp chia năm   e.g. 1-1387, 1-1403, 1-1590
+   4  maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā  ->  màu sắc và dáng vẻ của ngọc quý vỏ ốc ngọc trai và ngọc lưu ly   e.g. 1-616, 1-617, 1-618
+   4  jātarūparajatassa vaṇṇanibhā  ->  màu sắc và dáng vẻ của vàng và bạc   e.g. 1-616, 1-617, 1-618
+   4  dhammā pītisahagatā  ->  hiện tượng có sự hân hoan đi kèm   e.g. 1-1003, 1-1281, 1-1402
+   4  dhammā sukhasahagatā  ->  hiện tượng có hạnh phúc đi kèm   e.g. 1-1004, 1-1283, 1-1403
+   4  dhammā upekkhāsahagatā  ->  hiện tượng có sự bình thản đi kèm   e.g. 1-1005, 1-1285, 1-1404
+   4  dhammā bhāvanāya pahātabbahetukā  ->  hiện tượng có gốc rễ cần dứt bỏ bằng sự tu tập   e.g. 1-1018, 1-1273, 1-1409
+   3  lokuttaradukatikajjhānā  ->  hai tầng thiền vượt thế gian theo phương pháp chia bốn và ba tầng thiền theo phương pháp chia năm   e.g. 1-1402, 1-1593, 1-1595
+   2  Kiriyāmano  ->  ý mang tính chức năng   e.g. 1-1-10-2-0, 1-1-10-3-0
+   2  sañcetanā  ->  sự cố ý   e.g. 1-70, 1-126
+   2  Kiriyā mano  ->  ý mang tính chức năng   e.g. 1-573, 1-575
+   2  vipākadhammadhammā  ->  hiện tượng có khả năng sinh ra quả   e.g. 1-992, 1-1391
+   2  dhammā upādiṇṇupādāniyā  ->  hiện tượng do nghiệp tạo ra và là đối tượng của sự bám víu   e.g. 1-994, 1-1393
+   2  dhammā anupādiṇṇupādāniyā  ->  hiện tượng không do nghiệp tạo ra nhưng là đối tượng của sự bám víu   e.g. 1-995, 1-1394
+   2  dhammā anupādiṇṇaanupādāniyā  ->  hiện tượng không do nghiệp tạo ra và không phải là đối tượng của sự bám víu   e.g. 1-996, 1-1395
