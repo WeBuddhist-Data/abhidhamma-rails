@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-2.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๓๕: พระอภิธรรมปิฎก เล่ม ๒ วิภังคปกรณ์"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๓๕: พระอภิธรรมปิฎก เล่ม ๒ วิภังคปกรณ์"
 coverage: complete
-alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/th-2-thai_tipitaka.md)"
+alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/Thai/th-2-thai_tipitaka.md)"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_35 วิภังคปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; two-column Pāli/Thai passages rendered as tables; paragraph numbers [๑] to [๑๑๑๘] complete. Some stray spaces between Thai consonants may remain.]"

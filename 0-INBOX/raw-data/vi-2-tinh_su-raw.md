@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-2.md
 translator: "Đại Trưởng lão Tịnh Sự (Mahāthero Santakicco)"
 translation_basis: "Tạng Vô Tỷ Pháp, Bộ thứ hai: Bộ Phân Tích, cảo bản (draft manuscript), translated from the Pāli-Thai edition (1975); NXB Tôn Giáo 2011"
 coverage: complete
-alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/vi-2-tinh_su.md)"
+alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/Vietnamese/vi-2-tinh_su.md)"
 status: draft
 copyright: "In copyright until 31 Dec 2034 (translator died 1984; Vietnam: life + 50 years); public domain from 2035. No licence stated."
 license: copyrighted

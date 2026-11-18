@@ -43,7 +43,7 @@ Authority comes from the human commentary tradition, never from the LLM's parame
 1-SOURCES/ # human-produced material — read-only ground truth
  Text/ # root texts (the seven books of the Abhidhamma)
  Commentaries/ # aṭṭhakathā, mūlaṭīkā, anuṭīkā
- Translations/ # existing translations (block-aligned with the root)
+ Translations/ # existing translations (block-aligned with the root), one subfolder per language (English/, Thai/, Vietnamese/, …)
  References/ # dictionaries, secondary literature
  Audio/ # recitation and teaching recordings
 2-RAILS/ # compiled interpretive context (primary work area)

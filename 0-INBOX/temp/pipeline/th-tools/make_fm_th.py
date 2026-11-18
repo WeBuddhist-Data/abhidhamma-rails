@@ -34,7 +34,7 @@ aligned = ("---\n" + COMMON
                         tables=f"in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy {raw_rel} keeps both columns); Thai-only sub-headings kept as bold lines; ")
            + "verse_id_format: book-verse\n---\n")
 raw = ("---\n" + COMMON
-       + 'alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/th-' + book + '-thai_tipitaka.md)"\n'
+       + 'alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/Thai/th-' + book + '-thai_tipitaka.md)"\n'
        + "status: draft\n" + COPY
        + SRC.format(pdf=pdf, para_range=para_range, tables="two-column Pāli/Thai passages rendered as tables; ")
        + "---\n")

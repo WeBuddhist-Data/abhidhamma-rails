@@ -224,8 +224,8 @@ if __name__ == "__main__":
 
     OUTPUT_DIR = Path(__file__).resolve().parent
 
-    #SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-rhys_davids.md")  # <-- change this to your .md file path
-    SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-ukyaw_khine.md")
+    #SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\English\en-1-rhys_davids.md")  # <-- change this to your .md file path
+    SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\English\en-1-ukyaw_khine.md")
     source_stem = SOURCE_PATH.stem
 
     with open(SOURCE_PATH, "r", encoding="utf-8") as f:

@@ -164,7 +164,11 @@ def scaffold(source_path, target_path, output_path):
     out_lines.append("---")
     out_lines.append(f"source_file: 1-SOURCES/Text/{source_path.name}")
     out_lines.append(f"source_language: {source_lang}")
-    out_lines.append(f"target_file: 1-SOURCES/Translations/{target_path.name}")
+    # translations sit in language subfolders (1-SOURCES/Translations/<Language>/<file>.md): keep the real vault path
+    _tp = target_path.resolve().parts
+    target_rel = ("/".join(_tp[_tp.index("1-SOURCES"):]) if "1-SOURCES" in _tp
+                  else f"1-SOURCES/Translations/{target_path.name}")
+    out_lines.append(f"target_file: {target_rel}")
     out_lines.append(f"target_language: {target_language}")
     out_lines.append(f"target_lang_tag: {target_lang_tag}")
     if translator:

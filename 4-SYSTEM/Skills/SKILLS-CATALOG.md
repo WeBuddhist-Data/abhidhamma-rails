@@ -84,7 +84,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ### `interlinear-gloss` **[exists]**
 **Purpose:** For one root text + one translation, build a word-by-word gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse is rendered as the translation followed by a ```gloss``` block containing a vertical list of Pāli-to-target pairs. This format supports long compounds and bracketed semantic expansions (the "neither" rule). Token-level alignment lives here so every downstream bilingual glossary step reads from one place. Untranslated sections are handled via a bracketed fallback from the Rhys Davids (`en-rd`) translation.
-**Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
+**Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/<Language>/`.
 **Outputs:** One gloss file per translation under `2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
 **Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates the translation and a vertical `gloss` block with Pāli tokens and `--` placeholders, and re-runs idempotently (preserves filled lines by matching Pāli tokens). `--validate` checks for missing glosses.
 → [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)

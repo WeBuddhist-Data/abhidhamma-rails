@@ -14,7 +14,7 @@ Usage
     python3 generate_termbase.py
 
     # explicit input
-    python3 generate_termbase.py --input 1-SOURCES/Translations/en-1-rhys_davids.md
+    python3 generate_termbase.py --input 1-SOURCES/Translations/English/en-1-rhys_davids.md
 
     # custom output path
     python3 generate_termbase.py --input path/to/translation.md --output scripts/output/my_termbase.md

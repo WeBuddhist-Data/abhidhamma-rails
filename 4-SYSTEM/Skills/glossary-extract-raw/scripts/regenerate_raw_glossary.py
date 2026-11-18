@@ -192,7 +192,7 @@ def regenerate(gloss_path: Path, output_path: Path, min_freq: int = 3,
     lines.append("---")
     lines.append(f"gloss_file: 2-RAILS/Bilingual-Glossaries/Raw/{gloss_path.name}")
     lines.append("source_file: 1-SOURCES/Text/pi-dhammasangani.md")
-    lines.append("target_file: 1-SOURCES/Translations/en-dhammasangani-rd.md")
+    lines.append("target_file: 1-SOURCES/Translations/English/en-1-rhys_davids.md")
     lines.append("source_language: pi")
     lines.append("target_language: en")
     lines.append("language_pair: pi-en")

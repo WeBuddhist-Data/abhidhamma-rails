@@ -1,7 +1,7 @@
 ---
 source_file: 1-SOURCES/Text/pi-1.md
 source_language: pi
-target_file: 1-SOURCES/Translations/en-1-ukyaw_khine.md
+target_file: 1-SOURCES/Translations/English/en-1-ukyaw_khine.md
 target_language: English
 target_lang_tag: en-uk
 translator: U Kyaw Khine

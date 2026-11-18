@@ -16,12 +16,12 @@ Usage
     python3 generate_en_translation_idf.py
 
     # explicit single input
-    python3 generate_en_translation_idf.py --input 1-SOURCES/Translations/en-1-rhys_davids.md
+    python3 generate_en_translation_idf.py --input 1-SOURCES/Translations/English/en-1-rhys_davids.md
 
     # multiple inputs → individual reports + comparison
     python3 generate_en_translation_idf.py \\
-        --input 1-SOURCES/Translations/en-1-rhys_davids.md \\
-                1-SOURCES/Translations/en-2-another.md
+        --input 1-SOURCES/Translations/English/en-1-rhys_davids.md \\
+                1-SOURCES/Translations/English/en-2-another.md
 
     # custom output directory (all reports land here)
     python3 generate_en_translation_idf.py --input a.md b.md --outdir scripts/output/run1
@@ -43,7 +43,7 @@ from idf_corpus import IDF_CORPUS
 # ---------------------------------------------------------------------------
 HERE      = pathlib.Path(__file__).parent            # pali-english/english_keyword/
 REPO_ROOT = HERE.parent.parent                       # abhidhamma-rails/
-_DEFAULT_INPUT  = REPO_ROOT / "1-SOURCES/Translations/en-1-rhys_davids.md"
+_DEFAULT_INPUT  = REPO_ROOT / "1-SOURCES/Translations/English/en-1-rhys_davids.md"
 _DEFAULT_OUTDIR = HERE / "output"
 
 # ---------------------------------------------------------------------------

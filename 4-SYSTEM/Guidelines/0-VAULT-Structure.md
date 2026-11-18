@@ -33,7 +33,7 @@ Each vault is named for the text it serves — typically `[text-slug]-rails` (e.
 ├── 1-SOURCES/            # human-produced material — read-only ground truth
 │   ├── Text/             # root text(s) and editions
 │   ├── Commentaries/     # authored commentaries
-│   ├── Translations/     # translations into other languages
+│   ├── Translations/     # translations into other languages, one subfolder per language (English/, Thai/, …)
 │   ├── References/       # secondary literature, dictionaries with entries on this text
 │   └── Audio/            # recitation and teaching recordings
 ├── 2-RAILS/              # compiled interpretive context (the rails)
@@ -84,7 +84,7 @@ Subfolders:
 
 - `Text/` — the root text in its primary language, plus alternative-script editions (e.g. IAST or Wylie versions of a Devanāgarī or Unicode-Tibetan root). One file per edition.
 - `Commentaries/` — authored commentaries on the text. One file per commentary, regardless of length. Block IDs follow the commentary author's own structural system (chapter-verse, folio-line, section-paragraph, etc.) as declared in frontmatter.
-- `Translations/` — translations of the root text into other languages. One file per translation. Block IDs correspond to the source verse, not the translator's numbering.
+- `Translations/` — translations of the root text into other languages, one subfolder per language (`English/`, `Thai/`, `Vietnamese/`, …). One file per translation. Block IDs correspond to the source verse, not the translator's numbering.
 - `References/` — secondary literature with substantive content on this text: monographs, articles, dictionaries with entries specific to the text.
 - `Audio/` — recitation and teaching recordings, aligned to source-text block IDs where possible.
 

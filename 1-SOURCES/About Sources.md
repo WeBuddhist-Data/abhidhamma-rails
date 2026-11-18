@@ -48,7 +48,8 @@ One script per file. Alternative script forms always go in a separate edition fi
 │ └── [lang]-root-text.md
 ├── Commentaries/ # authored commentaries
 │ └── [lang]-[commentary-name].md
-├── Translations/ # translations into other languages
+├── Translations/ # translations into other languages, one subfolder per language
+│ └── [Language]/ # English name of the language: English, Thai, Vietnamese, …
 │ └── [lang]-[translator-surname].md
 ├── References/ # secondary literature, dictionaries
 │ └── [author-surname]-[short-title]-[lang].md
@@ -123,7 +124,7 @@ bdrc_work_id:
 related_commentaries:
  - 1-SOURCES/Commentaries/[lang]-[commentary-name].md
 related_translations:
- - 1-SOURCES/Translations/[lang]-[translator].md
+ - 1-SOURCES/Translations/[Language]/[lang]-[translator].md
 ---
 ```
 
@@ -626,7 +627,7 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 ## 14. Checklist for adding a new file
 
 - [ ] Correct subfolder — `Text/`, `Commentaries/`, `Translations/`, `References/`, or `Audio/`.
-- [ ] Filename uses language tag, no diacritics, no subfolders.
+- [ ] Filename uses language tag, no diacritics, no subfolders (except the language subfolder under `Translations/`, e.g. `Translations/Thai/`).
 - [ ] Frontmatter complete — `source_description` required at minimum.
 - [ ] External IDs added where applicable (BDRC, CBETA, GRETIL, DSBC, SuttaCentral).
 - [ ] `source_url` included if sourced digitally.

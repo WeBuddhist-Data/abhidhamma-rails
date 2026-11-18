@@ -1,6 +1,6 @@
 ---
 title: TF-IDF Vocabulary Analysis — Rhys Davids Dhammasaṅgaṇī (1900)
-source: 1-SOURCES/Translations/en-1-rhys_davids.md
+source: 1-SOURCES/Translations/English/en-1-rhys_davids.md
 corpus: Reuters-21578 (10,788 newswire documents) via NLTK · sklearn TfidfVectorizer(smooth_idf=True)
 method: TF × IDF — term frequency in translation vs. inverse document frequency in Reuters corpus
 generated: 2026-06-04

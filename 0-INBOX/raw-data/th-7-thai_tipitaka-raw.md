@@ -9,7 +9,7 @@ root_text: 1-SOURCES/Text/pi-7.md
 translator: "Royal edition (พระไตรปิฎกภาษาไทย ฉบับหลวง), Dept of Religious Affairs, เล่มที่ ๔๐–๔๕: พระอภิธรรมปิฎก เล่ม ๗–๑๒ มหาปัฏฐานปกรณ์ / ปัฏฐานปกรณ์ ภาค ๑–๖"
 translation_basis: "พระไตรปิฎก ฉบับ ๔๕ เล่ม, เล่มที่ ๔๐–๔๕: พระอภิธรรมปิฎก เล่ม ๗–๑๒ มหาปัฏฐานปกรณ์ / ปัฏฐานปกรณ์ ภาค ๑–๖"
 coverage: complete
-alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/th-7-thai_tipitaka.md)"
+alignment: "none: plain markdown, no block IDs (raw copy; the block-aligned version is 1-SOURCES/Translations/Thai/th-7-thai_tipitaka.md)"
 status: draft
 copyright: "Public domain in Thailand (government work, first published 1957; 50-year term)"
 source_description: "archive.org item Tri4501, file 'Tri45_40 to Tri45_45 (six volumes)' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; two-column Pāli/Thai passages rendered as tables; paragraph numbers each volume numbered from [๑], and vols. 44 and 45 restart for each part; all numbers present except where the edition itself skips them ([๑๒๐๒], [๒๑๗๒], [๒๒๐๑] in vol. 41; [๑๒๐๒], [๑๔๐๒] in vol. 44). Some stray spaces between Thai consonants may remain.]"

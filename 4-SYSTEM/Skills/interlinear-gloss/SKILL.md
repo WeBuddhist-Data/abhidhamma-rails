@@ -20,7 +20,7 @@ This skill is run **once per translation**.
 ## Inputs
 
 - **Root text** — `1-SOURCES/Text/<root-text>.md`.
-- **Translation** — one file from `1-SOURCES/Translations/<translation>.md`. Must be block-aligned with the root text (same `^block-id` scheme).
+- **Translation** — one file from `1-SOURCES/Translations/<Language>/<translation>.md`. Must be block-aligned with the root text (same `^block-id` scheme).
 
 ## Output
 
@@ -50,7 +50,7 @@ If the file already exists, update in place: keep manually filled `\glb` lines, 
 ---
 source_file: 1-SOURCES/Text/<root-text>.md
 source_language: <src-lang-code>
-target_file: 1-SOURCES/Translations/<translation>.md
+target_file: 1-SOURCES/Translations/<Language>/<translation>.md
 target_language: <target-lang-name>
 target_lang_tag: <target-lang-tag>
 translator: <from the translation's frontmatter>
@@ -124,7 +124,7 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
    ```bash
    python3 4-SYSTEM/Skills/interlinear-gloss/scripts/scaffold_gloss.py \
        1-SOURCES/Text/<root-text>.md \
-       1-SOURCES/Translations/<translation>.md \
+       1-SOURCES/Translations/<Language>/<translation>.md \
        2-RAILS/Bilingual-Glossaries/Raw/<src>-<tag>-gloss.md
    ```
 

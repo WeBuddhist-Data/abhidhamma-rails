@@ -1,7 +1,7 @@
 ---
 source_file: 1-SOURCES/Text/pi-1.md
 source_language: pi
-target_file: 1-SOURCES/Translations/en-1-rhys_davids.md
+target_file: 1-SOURCES/Translations/English/en-1-rhys_davids.md
 target_language: en
 target_lang_tag: en-rd
 translator: C.A.F. Rhys Davids
