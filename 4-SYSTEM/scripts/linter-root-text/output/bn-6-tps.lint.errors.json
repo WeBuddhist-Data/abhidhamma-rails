@@ -1,0 +1,40 @@
+{
+  "status": "error",
+  "source": "1-SOURCES/Translations/Bengali/bn-6-tps.md",
+  "validated_at": "2026-11-20T11:39:05.264651+00:00",
+  "error_count": 2,
+  "errors": [
+    "language: \"Bengali\" is not a valid language code or name. Valid codes: ['bo', 'en', 'fr', 'hi', 'i9', 'ja', 'lzh', 'mn', 'mr', 'ne', 'pi', 'ru', 'sa', 'th', 'vi', 'zh']. Valid names: ['chinese', 'classical chinese', 'english', 'french', 'hindi', 'i9138probe', 'japanese', 'marathi', 'mongolian', 'nepali', 'pali', 'russian', 'sanskrit', 'thai', 'tibetan', 'vietnamese']",
+    "lang_tag: \"bn\" is not a known tag. Known: ['bo', 'en', 'fr', 'hi', 'i9', 'ja', 'lzh', 'mn', 'mr', 'ne', 'pi', 'ru', 'sa', 'th', 'vi', 'zh']"
+  ],
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-6.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://archive.org/details/bangla-tipitaka-bengali-tps-edition'",
+    "toc: 384 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'Bhadanta Karuṇābaṃsa Bhikkhu (ভদন্ত করুণাবংশ ভিক্ষু)' has no [bdrc:ID] or [op:ID] — skipped"
+  ],
+  "resolved": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bn": "যমক"
+    },
+    "alt_titles": null,
+    "language": "Bengali",
+    "commentary_of": null,
+    "translation_of": "IZ74xHeWa9xortlOhL6cc",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "copyrighted",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
