@@ -21,6 +21,7 @@ verse_id_format: book-verse
 text_id: QwggioD5ju749QZOPJrT1
 edition_id: X55GMGhac59svChHVkHcV
 toc_id: O7j4caP09hhnVHBZBi0SK
+aligned_to_edition_id: 03TkdCHL1y2qqnI0aVBNG
 ---
 
 ![[1-SOURCES/Text/pi-7.md#^T-1]]
