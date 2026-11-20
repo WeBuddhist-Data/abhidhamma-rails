@@ -19,6 +19,10 @@ pali-english/db_query/dpd.db/
 
 # Secrets (API keys)
 .env
+4-SYSTEM/scripts/.env
+
+# library-upload ledgers (local; per-environment ids; keep a backup)
+4-SYSTEM/ledgers/
 
 # Python
 __pycache__/

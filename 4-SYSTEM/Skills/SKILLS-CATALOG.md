@@ -211,6 +211,14 @@ Ingests a structural outline (TOC) into a source or rails file.
 
 ---
 
+## Publishing
+
+### `library-upload` **[exists]**
+Keeps the WeBuddhist library in step with the vault, per environment (dev, testing, prod): each note's state, then push what is missing, patch what changed in place, re-segment under a developer gate, delete annotations or alignments, verify. Covers root texts, translations and commentaries (text, edition, table of contents, yigchungs, durchens, footnotes, alignment) and audio (audio, recordings, cues). Payloads come from the vault's own linter and parser in `4-SYSTEM/scripts/`. Plans first; nothing is sent without explicit confirmation. The root goes first: its translations and commentaries need its ids. Copied from rails-template.
+→ [`library-upload/SKILL.md`](library-upload/SKILL.md)
+
+---
+
 ## System skills
 
 These skills operate on the vault's own structure — creating new skills, maintaining registrations, and auditing integrity. They are meta-level tools for contributors, not pipeline steps.
