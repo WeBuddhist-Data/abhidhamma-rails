@@ -70,6 +70,12 @@ the rest of this skill.
 Notes default to the kind's whole folder; name notes or folders to work on part of them.
 `--report` writes `4-SYSTEM/reports/<env>/<kind>-<command>.md`.
 
+**Alignment direction (vault fix, 2026-11-20).** Every alignment is sent with this text
+(translation or commentary) as the source edition and its root as the target edition:
+`PUT /v2/editions/{this edition}/alignments/{root edition}`, pairs `source_segment_reference`
+= this text's block, `target_segment_reference` = the root's. The rails-template version sent
+translations the other way (root → translation); offer this fix back to rails-template.
+
 ## Output
 
 - On the library: what the plan listed, read back after every call.
@@ -118,6 +124,7 @@ dev audio and recording belongs to which note** — keep a backup.
 | `refs-renumbered` | same content and spans, only the references differ → `replace` (gated); harmless as it is — do not re-segment just to tidy |
 | `<annotation>-missing` / `-differs` / `-extra` | toc, yigchungs, durchens, footnotes → `push` / `update` / `delete --only <annotation>` (ask before deleting) |
 | `alignment-missing` / `alignment-differs` | → `push --only alignment` |
+| `alignment-reversed` | aligned with the root as source edition; the library wants the translation/commentary as `source_edition_id` and the root as `target_edition_id` → `push --only alignment` (the plan deletes the reversed alignment, then sends it this text → root) |
 | `alignment-blocked` | no alignment can be built on that environment (reason given): fix the transclusions or re-segment the root |
 | `root-not-on-env` | push the root text to that environment first |
 | `link-differs` | `translation_of` / `commentary_of` points elsewhere; settable only at creation → stop, ask a developer |

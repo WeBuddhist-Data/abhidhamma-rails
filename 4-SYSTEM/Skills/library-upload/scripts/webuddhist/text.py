@@ -20,6 +20,8 @@ the root. States (a note can have several):
   toc|yigchungs|durchens|footnotes-differs   not the note's                  -> update --only <kind>
   toc|yigchungs|durchens|footnotes-extra     on the environment, none in the note -> delete --only <kind>
   alignment-missing / alignment-differs      -> push --only alignment
+  alignment-reversed   aligned root -> this text; the library wants this text (source edition)
+                       -> root (target edition)  -> push --only alignment (deletes it, sends it the right way)
   alignment-blocked    no alignment can be built on this environment (reason given)
   root-not-on-env      the root text is not on this environment             -> push the root first
   link-differs         translation_of / commentary_of points elsewhere; settable only at creation
@@ -61,6 +63,7 @@ FIX = {
     "resegment-needed": "replace (developer only if linked)", "refs-renumbered": "replace (developer only if linked)",
     "types-differ": "harmless as it is; only `replace` changes types (developer only if linked)",
     "alignment-missing": "push --only alignment", "alignment-differs": "push --only alignment",
+    "alignment-reversed": "push --only alignment (deletes the reversed one, sends this text -> root)",
     "alignment-blocked": "fix the note's transclusions / block ids, or re-segment the root first",
     "root-not-on-env": "push the root text to this environment first",
     "link-differs": "cannot be patched (set only at creation): ask a developer",
@@ -123,16 +126,21 @@ class Item:
         return self.ids.get("edition_id")
 
     def direction(self):
-        """Alignment direction used when sending: keep what the environment already has; else a
-        translation is aligned root -> translation (as translation-upload did), a commentary
-        commentary -> root."""
-        if self.live_direction:
-            return self.live_direction
-        return "root->self" if self.kind == "translation" else "self->root"
+        """Alignment direction used when sending. The library reads an alignment as
+        source_edition = the translation or commentary, target_edition = its root, so every
+        kind is sent this text -> root. (rails-template sent translations root -> translation;
+        an alignment made that way is reported as alignment-reversed.)"""
+        return "self->root"
 
     def align_ends(self):
+        """(source edition, target edition) for sending: this text -> its root."""
         root = self.root_ids[1] if self.root_ids else None
-        return (root, self.edition_id) if self.direction() == "root->self" else (self.edition_id, root)
+        return (self.edition_id, root)
+
+    def live_ends(self):
+        """(source edition, target edition) of the alignment the environment holds now."""
+        root = self.root_ids[1] if self.root_ids else None
+        return (root, self.edition_id) if self.live_direction == "root->self" else (self.edition_id, root)
 
 
 def collect(kind, paths):
@@ -554,6 +562,9 @@ def _classify(it: Item, ctx: Ctx):
         want, have = set(it.pairs), set(it.live_pairs or [])
         if not have:
             f["alignment-missing"] = f"no alignment with the root on {ctx.env.name}"
+        elif it.live_direction == "root->self":
+            f["alignment-reversed"] = (f"{len(have)} pairs on {ctx.env.name} with the root as source edition; "
+                                       f"the library expects this text as source, the root as target")
         elif want != have:
             f["alignment-differs"] = f"{len(have)} pairs on {ctx.env.name}, {len(want)} from the note"
     it.stale_fm = _stale_frontmatter(it, ctx)
@@ -734,13 +745,10 @@ def _sync_annotations(it, ctx, a):
 
 
 def _put_alignment(it, ctx):
-    src, tgt = it.align_ends()
+    src, tgt = it.align_ends()                  # this text -> root
     body = [{"source_segment_reference": s, "target_segment_reference": t} for s, t in it.pairs]
-    if it.direction() == "root->self":
-        body = [{"source_segment_reference": t, "target_segment_reference": s} for s, t in it.pairs]
     ctx.client.put(f"/v2/editions/{src}/alignments/{tgt}", {"alignments": body}, timeout=300)
-    back = _pairs(ctx.client, src, tgt)
-    back = {(b, a) for a, b in back} if it.direction() == "root->self" else set(back)
+    back = set(_pairs(ctx.client, src, tgt))
     if back != set(it.pairs):
         raise ApiError(f"alignment read back has {len(back)} pairs, {len(it.pairs)} were sent")
     return f"{len(back)} pairs read back" + _record(it, ctx, aligned_to_edition_id=it.root_ids[1])
@@ -815,7 +823,7 @@ def _delete_ann(it, ctx, a):
 
 
 def _delete_alignment(it, ctx):
-    src, tgt = it.align_ends()
+    src, tgt = it.live_ends()                   # whichever direction the environment holds
     ctx.client.delete(f"/v2/editions/{src}/alignments/{tgt}")
     e = ctx.ledger.entry(it.key)
     e.setdefault("deleted", []).append({"what": "alignment", "date": time.strftime("%Y-%m-%d")})
@@ -867,7 +875,8 @@ def plan_push(states, ctx, only):
             "text": new and "text" in only,
             "edition": new and "edition" in only,
             "alignment": it.kind in LINKED_KINDS and "alignment" in only
-                         and (new or "alignment-missing" in f or "alignment-differs" in f),
+                         and (new or "alignment-missing" in f or "alignment-differs" in f
+                              or "alignment-reversed" in f),
         }
         for a in ANNOTATIONS:
             want[a] = (a in only and bool(it.p.get(a)) and a not in ctx.unsupported
@@ -901,7 +910,14 @@ def plan_push(states, ctx, only):
                     p.steps.append(Step(f"POST /v2/editions/<edition>/{a}  ({len(it.p[a])})",
                                         lambda it=it, a=a: _post_annotations(it, ctx, a)))
             if want["alignment"]:
-                p.steps.append(Step(f"PUT /v2/editions/…/alignments/…  ({len(it.pairs)} pairs, {it.direction()})",
+                if "alignment-reversed" in f:
+                    rs, rt = it.live_ends()
+                    p.steps.append(Step(f"DELETE /v2/editions/{rs}/alignments/{rt}  ({len(it.live_pairs)} pairs, "
+                                        f"reversed: root as source)",
+                                        lambda it=it: _delete_alignment(it, ctx)))
+                src, tgt = it.align_ends()
+                p.steps.append(Step(f"PUT /v2/editions/{src or '<edition>'}/alignments/{tgt}  "
+                                    f"({len(it.pairs)} pairs, this text -> root)",
                                     lambda it=it: _put_alignment(it, ctx)))
         plans.append(p)
     return plans
@@ -996,7 +1012,7 @@ def plan_delete(states, ctx, only):
                                         lambda it=it, a=a: _delete_ann(it, ctx, a)))
             if "alignment" in only:
                 if it.kind in LINKED_KINDS and it.live_pairs:
-                    src, tgt = it.align_ends()
+                    src, tgt = it.live_ends()
                     p.steps.append(Step(f"DELETE /v2/editions/{src}/alignments/{tgt}  ({len(it.live_pairs)} pairs)",
                                         lambda it=it: _delete_alignment(it, ctx)))
             if not p.steps:
