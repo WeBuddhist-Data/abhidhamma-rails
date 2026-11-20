@@ -640,3 +640,18 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 **Book III methods 2–10 open on newly extended rails.** Both rails (`pi-3-summaries.md`, `pi-3-practice.md`) gained 25 entries each on 2026-11-09 (Dutiyanayo – Dasamanayo, with the Pañcamanayo, Chaṭṭhanayo and Dasamanayo subsections), from `pi-dhatukatha-atthakatha.md` ^3-21 – ^3-90 and `pi-dhatukatha-mulatiika.md` ^3-22 – ^3-59. Six ⚑ divergences recorded (aṭṭhakathā vs mūlaṭīkā). Rail prose still needs a native Pāli reviewer. §4 now cites the track copy `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/pi-3-english-plain.md` (same seeded pass as days 174–179).
 
 **Schedule correction, 2026-11-09:** days 180–189 re-split so coverage is contiguous 171–408 (see the boundary-correction note in `schedule.md`). The source spreadsheet still needs the edit.
+
+
+### Added 2026-11-21 (days 190–195, Book III: methods 11–14)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| manasikāra | _attention_ (the mind turning toward its object) | day-194 §1, §5 | Day-194 §5 headword. Not in either termbase; taken from the published §4 wording (seeded pass v. 472 "attention"). One of the six in the root's *phassādisattaka* whose dissociated states are only material form and the unconstructed (`^3-472`). | draft |
+
+**Locked rows used verbatim, unchanged:** *naya* → method; *saṅgaha / saṅgahita* → inclusion / included; *asaṅgahita* → excluded (§1 plain wording: left out); *sampayutta / vippayutta* → associated with / dissociated from; *khandha* → aggregate; *āyatana* → base; *dhātu* → element; *taṇhā* → craving (day-190 §5 headword); *vedanā* → feeling (day-191 §5 headword); *viññāṇa* → consciousness (day-192 §5 headword); *bhava* → becoming (day-193 §5 headword); *saṃyojana* → fetter (day-195 §5 headword); *mātikā* → matrix; *Dhātukathā* → the Discussion of Elements; *moghapucchā* → an empty question; *asaṅkhata* → the unconstructed; *nibbāna* (untranslated); *indriya* → faculty; *saddhā* → faith; *paññā* → wisdom; *adhimokkha* → decision; *cetanā* → volition; *phassa* → contact.
+
+**Book III closes on newly extended rails.** Both rails (`pi-3-summaries.md`, `pi-3-practice.md`) gained 8 entries each on 2026-11-21 (Ekādasamanayo – Cuddasamanayo), from `pi-dhatukatha-atthakatha.md` ^3-91 – ^3-105 and `pi-dhatukatha-mulatiika.md` ^3-60 – ^3-68. The commentaries treat method 14 as one unit, so its five root-text subsections share one method-level entry (coverage note in each rail). One ⚑ divergence recorded (Terasamanayo: why *vedanākkhandha* and the like are left out). Rail prose still needs a native Pāli reviewer. §4 from the same track copy as days 180–189, with the same "sense bases" / "the unconditioned" normalisation.
+
+**⚠️ Reviewer — seeded pass, v. 447 uddāna:** *Rūpakkhandhā cattāro* is rendered "Four aggregates of form". The commentary’s gloss on the parallel list (*cattāro arūpakkhandhā*, `dhatukatha-atthakatha #^3-87`) suggests "the four [immaterial] aggregates, apart from the aggregate of form" instead. Not printed in day-191 §4 (only the opening and closing lines are), but worth fixing in the translation.
+
+**Schedule correction, 2026-11-21:** day-191 is now 417–447 and day-193 is now 456–471 (`^3-447`, `^3-470`–`^3-471` sat in no day). See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.

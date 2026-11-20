@@ -436,9 +436,11 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | Day | Date | Section | Verses |
 |---|---|---|---|
 | day-190 | 19 Nov (Fri) | 11. Saṅgahitenasampayuttavippayuttapadaniddeso | 409–416 |
-| day-191 | 20 Nov (Sat) | 12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso | 417–446 |
+| day-191 | 20 Nov (Sat) | 12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso | 417–447 |
 | day-192 | 21 Nov (Sun) | 13. Asaṅgahitenasampayuttavippayuttapadaniddeso | 448–455 |
-| day-193 | 22 Nov (Mon) | 14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso | 456–469 |
+| day-193 | 22 Nov (Mon) | 14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso | 456–471 |
+
+> ⚙️ **Boundary correction, 2026-11-21 — days 191 and 193.** As scheduled, `^3-447` and `^3-470`–`^3-471` sat in no day. 447 is the close of method 12 — its summary verse (*Rūpakkhandhā cattāro…*) and the colophon `Sampayuttenasaṅgahitāsaṅgahitapadaniddeso dvādasamo.` — so under the 2026-09-09 rule **day-191 is now 417–447** (was 417–446). 470 (fine-material/non-percipient/one-constituent existence …) and 471 (formless existence … the path) are the last two blocks of method 14's `Saccādi` subsection, before the `Phassādisattakaṃ` heading at 472; they join the preceding day, **day-193 is now 456–471** (was 456–469). The source spreadsheet needs these edits too.
 
 ### Plan 27 — Days 194–195 · Heptad of Contact etc. (23–24 Nov)
 

@@ -56,6 +56,14 @@ status: draft
     - [[#Vippayuttenavippayuttapadaniddeso]] ^toc-11-1
         - [[#Tikaṃ (Dasamanayo)]] ^toc-11-1-1
         - [[#Dukaṃ (Dasamanayo)]] ^toc-11-1-2
+- [[#Ekādasamanayo]] ^toc-12
+    - [[#Saṅgahitenasampayuttavippayuttapadaniddeso]] ^toc-12-1
+- [[#Dvādasamanayo]] ^toc-13
+    - [[#Sampayuttenasaṅgahitāsaṅgahitapadaniddeso]] ^toc-13-1
+- [[#Terasamanayo]] ^toc-14
+    - [[#Asaṅgahitenasampayuttavippayuttapadaniddeso]] ^toc-14-1
+- [[#Cuddasamanayo]] ^toc-15
+    - [[#Vippayuttenasaṅgahitāsaṅgahitapadaniddeso]] ^toc-15-1
 
 ## Uddeso
 
@@ -451,3 +459,74 @@ Dukapadesupi yaṃ padaṃ pucchāya uddhaṭaṃ, taṃ yehi dhammehi vippayutt
 
 [[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-89]]
 [[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-90]]
+
+## Ekādasamanayo
+
+[[#^toc-12|↑↑↑]]
+
+Ekādasamanaye saṅgahitena sampayuttaṃ vippayuttañca pucchitaṃ: yaṃ khandhādisaṅgahena ekato saṅgahitaṃ, tampi kehici sampayuttaṃ kehici vippayuttaṃ hoti. Tasmā yoginā ekasmiṃ koṭṭhāse saṅgahitānampi dhammānaṃ nānāsampayogaṃ passantena dhammā yathāsabhāvato vavatthapetabbā.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-91]]
+
+### Saṅgahitenasampayuttavippayuttapadaniddeso
+
+[[#^toc-12-1|↑↑↑]]
+
+Samudayasaccena saṅgahitā saṅkhārakkhandhapariyāpannā dhammā sesehi tīhi khandhehi ekena manāyatanena sattahi viññāṇadhātūhi sampayuttā, rūpakkhandhena pana rūpanibbānehi ca vippayuttā. Tasmā yoginā "taṇhā uppajjamānā vedanāsaññāviññāṇehi saha cittena sampayuttā uppajjatī"ti sallakkhetvā taṇhāsampayuttaṃ cittaṃ pajahitabbaṃ; nibbānaṃ pana taṇhāya vippayuttanti jānantena tadabhimukhaṃ cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-92]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-60]]
+
+## Dvādasamanayo
+
+[[#^toc-13|↑↑↑]]
+
+Dvādasamanaye sampayuttena saṅgahitaṃ asaṅgahitañca pucchitaṃ; navamanaye viya sampayogārahāva idha labbhanti. Tasmā yoginā cittuppādassa aṅgāni aññamaññaṃ sampayuttāni passantena tāni khandhāyatanadhātukoṭṭhāsato vavatthapetabbāni.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-94]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-62]]
+
+### Sampayuttenasaṅgahitāsaṅgahitapadaniddeso
+
+[[#^toc-13-1|↑↑↑]]
+
+Vedanākkhandho saññādīhi sampayutto; te saññādayo tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā, sesehi asaṅgahitā. Tasmā yoginā vedanaṃ anubhavantena "imāya vedanāya saha saññā saṅkhārā viññāṇañca uppannā"ti jānitabbaṃ: vedanaṃ ekakaṃ na gahetvā sampayuttadhammasamūhamattaṃ passantena tattha abhinivesaṃ pajahitvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-95]]
+
+## Terasamanayo
+
+[[#^toc-14|↑↑↑]]
+
+Terasamanaye asaṅgahitena sampayuttaṃ vippayuttañca pucchitaṃ: rūpakkhandhena tīhipi saṅgahehi asaṅgahitaṃ viññāṇameva hoti. Tasmā yoginā rūpato visuṃ viññāṇaṃ, viññāṇato ca visuṃ rūpaṃ jānantena nāmarūpaṃ vavatthapetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-97]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-64]]
+
+### Asaṅgahitenasampayuttavippayuttapadaniddeso
+
+[[#^toc-14-1|↑↑↑]]
+
+Taṃ viññāṇaṃ vedanādīhi tīhi khandhehi sampayuttaṃ, rūpakkhandhena rūpanibbānehi ca vippayuttaṃ; vippayogo ca jātibhūmikālasantānavasena catubbidho: kusalā akusalehi, kāmāvacarā rūpāvacarehi, atītā anāgatehi, ajjhattā bahiddhāhi vippayuttā. Tasmā yoginā "kusalā dhammā akusalehi jātivasena vippayuttā"ti jānantena akusalaṃ cittaṃ na uppādetabbaṃ, kusalaṃ cittaṃ punappunaṃ upasampādetabbaṃ; atītānāgatehi ca kālavasena vippayuttaṃ paccuppannaṃ cittaṃ sallakkhentena cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-98]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-65]]
+
+## Cuddasamanayo
+
+[[#^toc-15|↑↑↑]]
+
+Cuddasamanaye vippayuttena saṅgahitaṃ asaṅgahitañca pucchitaṃ; yesaṃ pana vippayogo na ruhati, dhammāyatanādīni, tāni na gahitāni. Tasmā yoginā dhamme vavatthapentena "ayaṃ dhammo kehici vippayutto, ayaṃ na kenaci vippayujjatī"ti yathābhūtaṃ jānitabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-100]]
+
+### Vippayuttenasaṅgahitāsaṅgahitapadaniddeso
+
+[[#^toc-15-1|↑↑↑]]
+
+Jātiādittayassa dhammasabhāvamattattā na kathañci sampayogo vippayogo ca ruhati: jāti jarā maraṇañca saṅkhatadhammānaṃ sabhāvamattaṃ, na tehi visuṃ kiñci. Tasmā yoginā sabbe saṅkhatadhamme jātijarāmaraṇasabhāve passantena tesu ālayo pajahitabbo; imāni ṭhapetvā sesāni sabbānipi labbhantīti dhātukathāya pariyosāne sabbadhamme khandhāyatanadhātuvasena vavatthapetvā cittaṃ pariyodāpetabbaṃ.
+
+*Coverage note:* this entry serves all five subsections of method 14 (`Khandhādi`, `Saccādi`, `Phassādisattakaṃ`, `Tikaṃ`, `Dukaṃ`; root `^3-456`–`^3-518`), which the commentaries do not treat separately.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-104]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-67]]

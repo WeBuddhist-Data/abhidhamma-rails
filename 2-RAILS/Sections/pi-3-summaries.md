@@ -55,6 +55,14 @@ status: draft
     - [[#Vippayuttenavippayuttapadaniddeso]] ^toc-11-1
         - [[#Tikaṃ (Dasamanayo)]] ^toc-11-1-1
         - [[#Dukaṃ (Dasamanayo)]] ^toc-11-1-2
+- [[#Ekādasamanayo]] ^toc-12
+    - [[#Saṅgahitenasampayuttavippayuttapadaniddeso]] ^toc-12-1
+- [[#Dvādasamanayo]] ^toc-13
+    - [[#Sampayuttenasaṅgahitāsaṅgahitapadaniddeso]] ^toc-13-1
+- [[#Terasamanayo]] ^toc-14
+    - [[#Asaṅgahitenasampayuttavippayuttapadaniddeso]] ^toc-14-1
+- [[#Cuddasamanayo]] ^toc-15
+    - [[#Vippayuttenasaṅgahitāsaṅgahitapadaniddeso]] ^toc-15-1
 
 ## Uddeso
 
@@ -543,3 +551,91 @@ Dukapadesupi eseva nayo: yaṃ padaṃ pucchāya uddhaṭaṃ, taṃ yehi dhamme
 [[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-90]]
 [[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-45]]
 [[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-58]]
+
+## Ekādasamanayo
+
+[[#^toc-12|↑↑↑]]
+
+Idāni ekādasamo nayo saṅgahitenasampayuttavippayuttapadaniddeso nāma āraddho. Tattha ye saṅgahitenasaṅgahitapadaniddese samudayasaccādayova dhammā uddhaṭā, sabbapucchāsu teyeva uddhaṭā; sadisavissajjanānaṃ pana ekato gahitattā padāni aññāya paṭipāṭiyā āgatāni.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-91]]
+
+### Saṅgahitenasampayuttavippayuttapadaniddeso
+
+[[#^toc-12-1|↑↑↑]]
+
+Tattha ye dhammā pucchāya uddhaṭapadena khandhādisaṅgahena saṅgahitā, tesaṃ yehi sampayogo vā vippayogo vā hoti, tesaṃ vasena khandhādivibhāgo veditabbo. Samudayasaccena tāva saṅkhārakkhandhapariyāpannā dhammā khandhādisaṅgahena saṅgahitā. Te ca sesehi tīhi khandhehi, ekena manāyatanena, sattahi viññāṇadhātūhi sampayuttā; saṅkhārakkhandhe dhammāyatanadhammadhātūsu ca ṭhapetvā taṇhaṃ sesehi sampayuttattā kehici sampayuttā nāma. Ekena pana rūpakkhandhena, dasahi rūpāyatanehi rūpadhātūhi ca vippayuttā; ekasmiṃ dhammāyatane dhammadhātuyā ca rūpanibbānehi vippayuttattā kehici vippayuttā nāma. Iminā upāyena sabbattha attho veditabbo. Ettāvatā saṅgahitenasampayuttavippayuttapadavaṇṇanā niṭṭhitā.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-91]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-92]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-93]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-60]]
+
+## Dvādasamanayo
+
+[[#^toc-13|↑↑↑]]
+
+Idāni dvādasamo nayo sampayuttenasaṅgahitāsaṅgahitapadaniddeso nāma āraddho. Tattha ye sampayuttenasampayuttapadaniddese vedanākkhandhādayo dhammā uddhaṭā, sabbapucchāsu teyeva uddhaṭā: navamanaye viya sampayogārahāva idha labbhanti.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-94]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-62]]
+
+### Sampayuttenasaṅgahitāsaṅgahitapadaniddeso
+
+[[#^toc-13-1|↑↑↑]]
+
+Tattha ye dhammā pucchāya uddhaṭapadena sampayuttā, tesaṃ yehi saṅgaho vā asaṅgaho vā hoti, tesaṃ vasena khandhādibhedo veditabbo. Vedanākkhandho hi saññādīhi sampayutto; te saññādayo tīhi saññādikkhandhehi, dvīhi dhammāyatanamanāyatanehi, dhammadhātuyā ceva sattahi ca viññāṇadhātūhīti aṭṭhahi dhātūhi saṅgahitā, sesāhi khandhāyatanadhātūhi asaṅgahitā. Iminā upāyena sabbattha attho veditabbo. Ettāvatā sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā niṭṭhitā.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-94]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-95]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-96]]
+
+## Terasamanayo
+
+[[#^toc-14|↑↑↑]]
+
+Idāni terasamo nayo asaṅgahitenasampayuttavippayuttapadaniddeso nāma āraddho. Tattha ye pañcame asaṅgahitenaasaṅgahitapadaniddese rūpakkhandhena sadisapañhā dhammā, ye ca arūpabhavena sadisā, teyeva uddhaṭā; sesā pana na ruhantīti na uddhaṭā. Rūpakkhandhena sadisapañhā nāma pāḷiyaṃ "rūpañca dhammāyatana"ntiādiuddānagāthāya dassitā bāvīsa dhammā, yehi tīhipi saṅgahehi asaṅgahitaṃ viññāṇameva hoti.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-97]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-64]]
+
+### Asaṅgahitenasampayuttavippayuttapadaniddeso
+
+[[#^toc-14-1|↑↑↑]]
+
+Vedanākkhandhena hi khandhādivasena rūpārūpadhammā asaṅgahitā honti, tesañca sampayogo nāma natthi; tasmā yāni padāni ruhanti, tāneva sadisavissajjanehi saddhiṃ samodhānetvā uddhaṭāni. Tattha ye dhammā pucchāya uddhaṭadhammehi khandhādivasena asaṅgahitā, te yehi sampayuttā ca vippayuttā ca, tesaṃ vasena khandhādivibhāgo veditabbo. Rūpakkhandhena tāva viññāṇameva tīhi saṅgahehi asaṅgahitaṃ. Taṃ vedanādīhi tīhi khandhehi, dhammāyatanadhammadhātūsu ca vedanādīheva sampayuttaṃ; ekena rūpakkhandhena, dasahi rūpāyatanarūpadhātūhi, dhammāyatanadhammadhātūsu ca rūpanibbānadhammehi vippayuttaṃ. Taṃ sandhāya "te dhammā tīhi khandhehī"tiādi vuttaṃ. Vippayogo cettha jātibhūmikālasantānavasena catubbidho veditabbo: jātivippayogo "kusalā dhammā, akusalā dhammā"tiādi, bhūmivippayogo "kāmāvacarā, rūpāvacarā"tiādi, kālavippayogo "atītā dhammā, anāgatā dhammā"tiādi, santānavippayogo "ajjhattā dhammā, bahiddhā dhammā"tiādi.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-97]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-98]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-99]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-64]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-65]]
+
+#### Divergences
+
+- ⚑ *why the aggregate of feeling and the like are left out of the thirteenth method* — the aṭṭhakathā gives the reason as the absence of association: what the aggregate of feeling excludes is a mix of material and immaterial states, and these have no association (*tesañca sampayogo nāma natthi*, `atthakatha #^3-97`). The mūlaṭīkā says the reason is the absence of *both* association and dissociation (*ubhayābhāvato hi vedanākkhandhādayo idha na ruhanti*), and that the aṭṭhakathā's not saying "and there is no dissociation" should not be read as meaning dissociation is present (`mulatiika #^3-65`).
+
+## Cuddasamanayo
+
+[[#^toc-15|↑↑↑]]
+
+Idāni cuddasamo nayo vippayuttenasaṅgahitāsaṅgahitapadaniddeso nāma āraddho, so ca dhātukathāya pariyosānanayo. Tattha yesaṃ padānaṃ vippayogo na ruhati, tāni imasmiṃ vāre na gahitāni. Kāni pana tānīti? Dhammāyatanādīni. Dhammāyatanassa hi khandhādīsu ekenāpi vippayogo na ruhati; dhammadhātuādīsupi eseva nayo.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-100]]
+
+### Vippayuttenasaṅgahitāsaṅgahitapadaniddeso
+
+[[#^toc-15-1|↑↑↑]]
+
+Tesaṃ aggahitānaṃ idamuddānaṃ: "Dhammāyatanaṃ dhammadhātu, jīvitindriyameva ca; nāmarūpapadañceva, saḷāyatanameva ca. Jātiādittayaṃ ekaṃ, padaṃ vīsatime tike; tikāvasānikaṃ ekaṃ, satta cūḷantare padā. Daseva gocchake honti, mahantaramhi cuddasa; cha padāni tato uddhaṃ sabbānipi samāsato; padāni ca na labbhanti, cattālīsañca satta cā"ti. Pariyosāne ca "dhammāyatanaṃ dhammadhātū"ti pāḷigāthāpi imamevatthaṃ dīpeti; tattha "samucchede na labbhantī"ti pariyosāne naye na labbhantīti attho. Dhammāyatanādīnaṃ anārammaṇamissakasabbacittuppādagatadhammabhāvato vippayogassa aruhaṇaṃ daṭṭhabbaṃ; jātiādittayassa pana dhammasabhāvamattattā na kathañci sampayogo vippayogo ca ruhati. Dukkhasaccādidhammāva idha tehi vippayuttānaṃ saṅgahāsaṅgahasabbhāvā gahitā. Imāni pana ṭhapetvā sesāni sabbānipi labbhanti; tesu khandhādivibhāgo vuttanayānusāreneva veditabbo. Ettāvatā vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā niṭṭhitā, dhātukathāpakaraṇañca niṭṭhitaṃ.
+
+*Coverage note:* the aṭṭhakathā and mūlaṭīkā treat method 14 as one unit and do not comment separately on its `Khandhādi`, `Saccādi`, `Phassādisattakaṃ`, `Tikaṃ` and `Dukaṃ` subsections (root `^3-456`–`^3-518`). This one entry therefore serves all five, under the rail rule that sibling nodes sharing one method get one combined entry rather than empty stubs.
+
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-100]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-101]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-102]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-103]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-104]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-atthakatha#^3-105]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-67]]
+[[1-SOURCES/Commentaries/pi-dhatukatha-mulatiika#^3-68]]
