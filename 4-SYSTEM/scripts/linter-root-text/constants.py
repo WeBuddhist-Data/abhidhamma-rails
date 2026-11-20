@@ -44,12 +44,14 @@ SCHEMA_FIELDS = (
     "contributions", "tag_ids",
 )
 
-# API base for the library. Override with the VAULT_API_BASE env variable.
-DEFAULT_API_BASE = "https://library.webuddhist.com/v2/"
-API_BASE = (os.environ.get("VAULT_API_BASE") or DEFAULT_API_BASE).rstrip("/") + "/"
-
-PERSONS_API = API_BASE + "persons"
-LANGUAGES_API = API_BASE + "languages"
+# FORK(21-taras-rails, 2026-09-17): the OpenPecha host these pointed at answers
+# 404 for /v2/languages, so load_languages() silently fell back to the cached
+# languages.py (frozen 2026-08-05, no `ne`). This vault uploads to the
+# WeBuddhist library, whose language list is public and is the one that
+# matters (it carries `ne`, `mr`, …). Override with VAULT_API_BASE if needed.
+_API_BASE = os.environ.get("VAULT_API_BASE", "https://library.webuddhist.com").rstrip("/")
+PERSONS_API = f"{_API_BASE}/v2/persons"
+LANGUAGES_API = f"{_API_BASE}/v2/languages"
 BDRC_SEARCH = "https://autocomplete.bdrc.io/msearch"
 
 BDRC_LABEL_LANGS = {
@@ -116,7 +118,11 @@ def _write_languages_file(name_map: dict, code_map: dict):
 
 
 def load_languages():
-    """Fetch language list from API, update runtime globals, persist to languages.py."""
+    """Fetch language list from API, update runtime globals, persist to languages.py.
+
+    Returns True when the list came from the API, False when the API could not
+    be reached and the cached languages.py is used instead.
+    """
     try:
         data = _call_api(LANGUAGES_API)
         if not isinstance(data, list) or not data:
@@ -140,6 +146,7 @@ def load_languages():
         LANG_TAG_MAP.clear()
         LANG_TAG_MAP.update({c: c for c in code_map})
         _write_languages_file(name_map, code_map)
+        return True
     except Exception:
         # API unreachable — runtime values come from languages.py import
-        pass
+        return False

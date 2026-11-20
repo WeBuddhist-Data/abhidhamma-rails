@@ -27,7 +27,7 @@
             "end": 133
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1"
       },
       {
@@ -41,7 +41,7 @@
             "end": 210
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-2"
       },
       {
@@ -55,7 +55,7 @@
             "end": 292
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-3"
       },
       {
@@ -69,7 +69,7 @@
             "end": 372
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-4"
       },
       {
@@ -83,7 +83,7 @@
             "end": 461
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-5"
       },
       {
@@ -97,7 +97,7 @@
             "end": 556
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-6"
       },
       {
@@ -111,7 +111,7 @@
             "end": 634
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-7"
       },
       {
@@ -125,7 +125,7 @@
             "end": 719
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-8"
       },
       {
@@ -139,7 +139,7 @@
             "end": 804
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-9"
       },
       {
@@ -153,7 +153,7 @@
             "end": 887
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-10"
       },
       {
@@ -167,7 +167,7 @@
             "end": 973
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-11"
       },
       {
@@ -181,7 +181,7 @@
             "end": 1055
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-12"
       },
       {
@@ -195,7 +195,7 @@
             "end": 1137
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-13"
       },
       {
@@ -209,7 +209,7 @@
             "end": 1221
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-14"
       },
       {
@@ -223,7 +223,7 @@
             "end": 1306
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-15"
       },
       {
@@ -237,7 +237,7 @@
             "end": 1388
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-16"
       },
       {
@@ -251,7 +251,7 @@
             "end": 1472
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-17"
       },
       {
@@ -265,7 +265,7 @@
             "end": 1564
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-18"
       },
       {
@@ -279,7 +279,7 @@
             "end": 1647
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-19"
       },
       {
@@ -293,7 +293,7 @@
             "end": 1737
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-20"
       },
       {
@@ -441,7 +441,7 @@
             "end": 9629
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-34"
       },
       {
@@ -485,7 +485,7 @@
             "end": 10259
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-38"
       },
       {
@@ -607,7 +607,7 @@
             "end": 15122
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-49"
       },
       {
@@ -639,7 +639,7 @@
             "end": 15649
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-51"
       },
       {
@@ -671,7 +671,7 @@
             "end": 15866
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-53"
       },
       {
@@ -703,7 +703,7 @@
             "end": 16082
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-55"
       },
       {
@@ -737,7 +737,7 @@
             "end": 16498
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-58"
       },
       {
@@ -799,7 +799,7 @@
             "end": 19222
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-63"
       },
       {
@@ -1031,7 +1031,7 @@
             "end": 28727
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-85"
       },
       {
@@ -1053,7 +1053,7 @@
             "end": 28846
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-86"
       },
       {
@@ -1075,7 +1075,7 @@
             "end": 28993
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-87"
       },
       {
@@ -1099,7 +1099,7 @@
             "end": 29136
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-89"
       },
       {
@@ -1117,7 +1117,7 @@
             "end": 29296
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-90"
       },
       {
@@ -1171,7 +1171,7 @@
             "end": 30705
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-95"
       },
       {
@@ -1195,7 +1195,7 @@
             "end": 31169
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-97"
       },
       {
@@ -1219,7 +1219,7 @@
             "end": 31278
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-99"
       },
       {
@@ -1243,7 +1243,7 @@
             "end": 31865
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-101"
       },
       {
@@ -1267,7 +1267,7 @@
             "end": 32012
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-103"
       },
       {
@@ -1301,7 +1301,7 @@
             "end": 33285
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-106"
       },
       {
@@ -1325,7 +1325,7 @@
             "end": 33410
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-108"
       },
       {
@@ -1377,7 +1377,7 @@
             "end": 34233
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-112"
       },
       {
@@ -1491,7 +1491,7 @@
             "end": 37537
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-123"
       },
       {
@@ -1515,7 +1515,7 @@
             "end": 37662
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-125"
       },
       {
@@ -1589,7 +1589,7 @@
             "end": 40762
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-132"
       },
       {
@@ -1623,7 +1623,7 @@
             "end": 41188
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-135"
       },
       {
@@ -1657,7 +1657,7 @@
             "end": 41767
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-138"
       },
       {
@@ -1681,7 +1681,7 @@
             "end": 41987
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-140"
       },
       {
@@ -1705,7 +1705,7 @@
             "end": 42209
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-142"
       },
       {
@@ -1729,7 +1729,7 @@
             "end": 42475
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-144"
       },
       {
@@ -1783,7 +1783,7 @@
             "end": 43989
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-149"
       },
       {
@@ -1937,7 +1937,7 @@
             "end": 53789
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-164"
       },
       {
@@ -1991,7 +1991,7 @@
             "end": 55247
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-169"
       },
       {
@@ -2009,7 +2009,7 @@
             "end": 55381
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-170"
       },
       {
@@ -2027,7 +2027,7 @@
             "end": 55514
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-171"
       },
       {
@@ -2041,7 +2041,7 @@
             "end": 55596
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-172"
       },
       {
@@ -2055,7 +2055,7 @@
             "end": 55682
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-173"
       },
       {
@@ -2069,7 +2069,7 @@
             "end": 55769
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-174"
       },
       {
@@ -2083,7 +2083,7 @@
             "end": 55861
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-175"
       },
       {
@@ -2097,7 +2097,7 @@
             "end": 55947
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-176"
       },
       {
@@ -2111,7 +2111,7 @@
             "end": 56038
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-177"
       },
       {
@@ -2125,7 +2125,7 @@
             "end": 56130
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-178"
       },
       {
@@ -2139,7 +2139,7 @@
             "end": 56225
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-179"
       },
       {
@@ -2153,7 +2153,7 @@
             "end": 56311
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-180"
       },
       {
@@ -2167,7 +2167,7 @@
             "end": 56405
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-181"
       },
       {
@@ -2181,7 +2181,7 @@
             "end": 56491
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-182"
       },
       {
@@ -2195,7 +2195,7 @@
             "end": 56581
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-183"
       },
       {
@@ -2209,7 +2209,7 @@
             "end": 56669
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-184"
       },
       {
@@ -2223,7 +2223,7 @@
             "end": 56766
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-185"
       },
       {
@@ -2237,7 +2237,7 @@
             "end": 56853
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-186"
       },
       {
@@ -2251,7 +2251,7 @@
             "end": 56947
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-187"
       },
       {
@@ -2265,7 +2265,7 @@
             "end": 57034
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-188"
       },
       {
@@ -2279,7 +2279,7 @@
             "end": 57121
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-189"
       },
       {
@@ -2293,7 +2293,7 @@
             "end": 57213
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-190"
       },
       {
@@ -2307,7 +2307,7 @@
             "end": 57303
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-191"
       },
       {
@@ -2321,7 +2321,7 @@
             "end": 57397
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-192"
       },
       {
@@ -2335,7 +2335,7 @@
             "end": 57492
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-193"
       },
       {
@@ -2349,7 +2349,7 @@
             "end": 57570
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-194"
       },
       {
@@ -2363,7 +2363,7 @@
             "end": 57654
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-195"
       },
       {
@@ -2377,7 +2377,7 @@
             "end": 57737
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-196"
       },
       {
@@ -2391,7 +2391,7 @@
             "end": 57821
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-197"
       },
       {
@@ -2405,7 +2405,7 @@
             "end": 57905
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-198"
       },
       {
@@ -2419,7 +2419,7 @@
             "end": 57988
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-199"
       },
       {
@@ -2433,7 +2433,7 @@
             "end": 58074
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-200"
       },
       {
@@ -2447,7 +2447,7 @@
             "end": 58184
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-201"
       },
       {
@@ -2471,7 +2471,7 @@
             "end": 58876
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-203"
       },
       {
@@ -2615,7 +2615,7 @@
             "end": 67949
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-217"
       },
       {
@@ -2629,7 +2629,7 @@
             "end": 68042
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-218"
       },
       {
@@ -2643,7 +2643,7 @@
             "end": 68127
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-219"
       },
       {
@@ -2657,7 +2657,7 @@
             "end": 68217
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-220"
       },
       {
@@ -2671,7 +2671,7 @@
             "end": 68304
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-221"
       },
       {
@@ -2685,7 +2685,7 @@
             "end": 68388
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-222"
       },
       {
@@ -2699,7 +2699,7 @@
             "end": 68476
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-223"
       },
       {
@@ -2713,7 +2713,7 @@
             "end": 68562
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-224"
       },
       {
@@ -2731,7 +2731,7 @@
             "end": 68691
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-225"
       },
       {
@@ -2745,7 +2745,7 @@
             "end": 68790
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-226"
       },
       {
@@ -2759,7 +2759,7 @@
             "end": 68883
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-227"
       },
       {
@@ -2773,7 +2773,7 @@
             "end": 68969
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-228"
       },
       {
@@ -2787,7 +2787,7 @@
             "end": 69063
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-229"
       },
       {
@@ -2805,7 +2805,7 @@
             "end": 69190
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-230"
       },
       {
@@ -2819,7 +2819,7 @@
             "end": 69275
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-231"
       },
       {
@@ -2833,7 +2833,7 @@
             "end": 69359
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-232"
       },
       {
@@ -2847,7 +2847,7 @@
             "end": 69444
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-233"
       },
       {
@@ -2861,7 +2861,7 @@
             "end": 69533
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-234"
       },
       {
@@ -2875,7 +2875,7 @@
             "end": 69619
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-235"
       },
       {
@@ -2889,7 +2889,7 @@
             "end": 69703
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-236"
       },
       {
@@ -2903,7 +2903,7 @@
             "end": 69791
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-237"
       },
       {
@@ -2917,7 +2917,7 @@
             "end": 69884
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-238"
       },
       {
@@ -2931,7 +2931,7 @@
             "end": 69968
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-239"
       },
       {
@@ -2945,7 +2945,7 @@
             "end": 70060
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-240"
       },
       {
@@ -2959,7 +2959,7 @@
             "end": 70150
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-241"
       },
       {
@@ -2973,7 +2973,7 @@
             "end": 70235
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-242"
       },
       {
@@ -2987,7 +2987,7 @@
             "end": 70330
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-243"
       },
       {
@@ -3001,7 +3001,7 @@
             "end": 70411
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-244"
       },
       {
@@ -3015,7 +3015,7 @@
             "end": 70500
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-245"
       },
       {
@@ -3029,7 +3029,7 @@
             "end": 70589
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-246"
       },
       {
@@ -3043,7 +3043,7 @@
             "end": 70672
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-247"
       },
       {
@@ -3057,7 +3057,7 @@
             "end": 70754
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-248"
       },
       {
@@ -3071,7 +3071,7 @@
             "end": 70844
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-249"
       },
       {
@@ -3085,7 +3085,7 @@
             "end": 70928
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-250"
       },
       {
@@ -3103,7 +3103,7 @@
             "end": 71051
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-251"
       },
       {
@@ -3117,7 +3117,7 @@
             "end": 71133
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-252"
       },
       {
@@ -3135,7 +3135,7 @@
             "end": 71267
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-253"
       },
       {
@@ -3149,7 +3149,7 @@
             "end": 71347
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-254"
       },
       {
@@ -3163,7 +3163,7 @@
             "end": 71436
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-255"
       },
       {
@@ -3177,7 +3177,7 @@
             "end": 71524
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-256"
       },
       {
@@ -3191,7 +3191,7 @@
             "end": 71621
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-257"
       },
       {
@@ -3205,7 +3205,7 @@
             "end": 71706
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-258"
       },
       {
@@ -3219,7 +3219,7 @@
             "end": 71792
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-259"
       },
       {
@@ -3233,7 +3233,7 @@
             "end": 71891
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-260"
       },
       {
@@ -3247,7 +3247,7 @@
             "end": 71979
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-261"
       },
       {
@@ -3261,7 +3261,7 @@
             "end": 72065
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-262"
       },
       {
@@ -3275,7 +3275,7 @@
             "end": 72151
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-263"
       },
       {
@@ -3289,7 +3289,7 @@
             "end": 72237
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-264"
       },
       {
@@ -3303,7 +3303,7 @@
             "end": 72329
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-265"
       },
       {
@@ -3317,7 +3317,7 @@
             "end": 72415
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-266"
       },
       {
@@ -3331,7 +3331,7 @@
             "end": 72504
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-267"
       },
       {
@@ -3345,7 +3345,7 @@
             "end": 72598
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-268"
       },
       {
@@ -3359,7 +3359,7 @@
             "end": 72688
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-269"
       },
       {
@@ -3373,7 +3373,7 @@
             "end": 72783
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-270"
       },
       {
@@ -3387,7 +3387,7 @@
             "end": 72879
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-271"
       },
       {
@@ -3401,7 +3401,7 @@
             "end": 72974
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-272"
       },
       {
@@ -3415,7 +3415,7 @@
             "end": 73069
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-273"
       },
       {
@@ -3429,7 +3429,7 @@
             "end": 73158
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-274"
       },
       {
@@ -3443,7 +3443,7 @@
             "end": 73251
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-275"
       },
       {
@@ -3457,7 +3457,7 @@
             "end": 73341
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-276"
       },
       {
@@ -3471,7 +3471,7 @@
             "end": 73430
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-277"
       },
       {
@@ -3485,7 +3485,7 @@
             "end": 73524
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-278"
       },
       {
@@ -3499,7 +3499,7 @@
             "end": 73615
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-279"
       },
       {
@@ -3513,7 +3513,7 @@
             "end": 73703
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-280"
       },
       {
@@ -3527,7 +3527,7 @@
             "end": 73800
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-281"
       },
       {
@@ -3541,7 +3541,7 @@
             "end": 73891
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-282"
       },
       {
@@ -3555,7 +3555,7 @@
             "end": 73979
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-283"
       },
       {
@@ -3569,7 +3569,7 @@
             "end": 74069
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-284"
       },
       {
@@ -3583,7 +3583,7 @@
             "end": 74160
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-285"
       },
       {
@@ -3597,7 +3597,7 @@
             "end": 74254
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-286"
       },
       {
@@ -3611,7 +3611,7 @@
             "end": 74345
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-287"
       },
       {
@@ -3625,7 +3625,7 @@
             "end": 74436
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-288"
       },
       {
@@ -3639,7 +3639,7 @@
             "end": 74523
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-289"
       },
       {
@@ -3653,7 +3653,7 @@
             "end": 74615
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-290"
       },
       {
@@ -3667,7 +3667,7 @@
             "end": 74707
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-291"
       },
       {
@@ -3681,7 +3681,7 @@
             "end": 74798
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-292"
       },
       {
@@ -3695,7 +3695,7 @@
             "end": 74891
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-293"
       },
       {
@@ -3709,7 +3709,7 @@
             "end": 74988
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-294"
       },
       {
@@ -3723,7 +3723,7 @@
             "end": 75080
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-295"
       },
       {
@@ -3737,7 +3737,7 @@
             "end": 75174
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-296"
       },
       {
@@ -3751,7 +3751,7 @@
             "end": 75270
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-297"
       },
       {
@@ -3765,7 +3765,7 @@
             "end": 75361
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-298"
       },
       {
@@ -3779,7 +3779,7 @@
             "end": 75448
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-299"
       },
       {
@@ -3793,7 +3793,7 @@
             "end": 75533
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-300"
       },
       {
@@ -3807,7 +3807,7 @@
             "end": 75628
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-301"
       },
       {
@@ -3821,7 +3821,7 @@
             "end": 75724
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-302"
       },
       {
@@ -3835,7 +3835,7 @@
             "end": 75812
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-303"
       },
       {
@@ -3849,7 +3849,7 @@
             "end": 75898
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-304"
       },
       {
@@ -3863,7 +3863,7 @@
             "end": 75978
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-305"
       },
       {
@@ -3877,7 +3877,7 @@
             "end": 76072
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-306"
       },
       {
@@ -3891,7 +3891,7 @@
             "end": 76159
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-307"
       },
       {
@@ -3905,7 +3905,7 @@
             "end": 76245
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-308"
       },
       {
@@ -3919,7 +3919,7 @@
             "end": 76331
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-309"
       },
       {
@@ -3933,7 +3933,7 @@
             "end": 76416
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-310"
       },
       {
@@ -3947,7 +3947,7 @@
             "end": 76515
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-311"
       },
       {
@@ -3961,7 +3961,7 @@
             "end": 76604
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-312"
       },
       {
@@ -3975,7 +3975,7 @@
             "end": 76695
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-313"
       },
       {
@@ -3989,7 +3989,7 @@
             "end": 76781
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-314"
       },
       {
@@ -4003,7 +4003,7 @@
             "end": 76864
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-315"
       },
       {
@@ -4017,7 +4017,7 @@
             "end": 76961
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-316"
       },
       {
@@ -4031,7 +4031,7 @@
             "end": 77054
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-317"
       },
       {
@@ -4045,7 +4045,7 @@
             "end": 77149
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-318"
       },
       {
@@ -4059,7 +4059,7 @@
             "end": 77235
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-319"
       },
       {
@@ -4073,7 +4073,7 @@
             "end": 77318
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-320"
       },
       {
@@ -4087,7 +4087,7 @@
             "end": 77415
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-321"
       },
       {
@@ -4101,7 +4101,7 @@
             "end": 77496
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-322"
       },
       {
@@ -4115,7 +4115,7 @@
             "end": 77591
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-323"
       },
       {
@@ -4129,7 +4129,7 @@
             "end": 77677
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-324"
       },
       {
@@ -4143,7 +4143,7 @@
             "end": 77762
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-325"
       },
       {
@@ -4157,7 +4157,7 @@
             "end": 77856
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-326"
       },
       {
@@ -4171,7 +4171,7 @@
             "end": 77947
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-327"
       },
       {
@@ -4185,7 +4185,7 @@
             "end": 78038
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-328"
       },
       {
@@ -4199,7 +4199,7 @@
             "end": 78124
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-329"
       },
       {
@@ -4213,7 +4213,7 @@
             "end": 78206
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-330"
       },
       {
@@ -4227,7 +4227,7 @@
             "end": 78298
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-331"
       },
       {
@@ -4241,7 +4241,7 @@
             "end": 78379
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-332"
       },
       {
@@ -4255,7 +4255,7 @@
             "end": 78469
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-333"
       },
       {
@@ -4269,7 +4269,7 @@
             "end": 78555
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-334"
       },
       {
@@ -4283,7 +4283,7 @@
             "end": 78642
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-335"
       },
       {
@@ -4297,7 +4297,7 @@
             "end": 78736
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-336"
       },
       {
@@ -4311,7 +4311,7 @@
             "end": 78824
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-337"
       },
       {
@@ -4325,7 +4325,7 @@
             "end": 78921
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-338"
       },
       {
@@ -4339,7 +4339,7 @@
             "end": 79007
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-339"
       },
       {
@@ -4353,7 +4353,7 @@
             "end": 79088
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-340"
       },
       {
@@ -4367,7 +4367,7 @@
             "end": 79180
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-341"
       },
       {
@@ -4381,7 +4381,7 @@
             "end": 79262
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-342"
       },
       {
@@ -4395,7 +4395,7 @@
             "end": 79354
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-343"
       },
       {
@@ -4409,7 +4409,7 @@
             "end": 79440
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-344"
       },
       {
@@ -4423,7 +4423,7 @@
             "end": 79523
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-345"
       },
       {
@@ -4437,7 +4437,7 @@
             "end": 79614
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-346"
       },
       {
@@ -4451,7 +4451,7 @@
             "end": 79698
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-347"
       },
       {
@@ -4465,7 +4465,7 @@
             "end": 79794
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-348"
       },
       {
@@ -4479,7 +4479,7 @@
             "end": 79887
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-349"
       },
       {
@@ -4493,7 +4493,7 @@
             "end": 79974
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-350"
       },
       {
@@ -4507,7 +4507,7 @@
             "end": 80063
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-351"
       },
       {
@@ -4521,7 +4521,7 @@
             "end": 80148
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-352"
       },
       {
@@ -4535,7 +4535,7 @@
             "end": 80236
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-353"
       },
       {
@@ -4549,7 +4549,7 @@
             "end": 80319
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-354"
       },
       {
@@ -4563,7 +4563,7 @@
             "end": 80407
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-355"
       },
       {
@@ -4577,7 +4577,7 @@
             "end": 80498
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-356"
       },
       {
@@ -4591,7 +4591,7 @@
             "end": 80588
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-357"
       },
       {
@@ -4605,7 +4605,7 @@
             "end": 80680
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-358"
       },
       {
@@ -4619,7 +4619,7 @@
             "end": 80768
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-359"
       },
       {
@@ -4633,7 +4633,7 @@
             "end": 80860
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-360"
       },
       {
@@ -4647,7 +4647,7 @@
             "end": 80948
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-361"
       },
       {
@@ -4661,7 +4661,7 @@
             "end": 81045
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-362"
       },
       {
@@ -4675,7 +4675,7 @@
             "end": 81139
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-363"
       },
       {
@@ -4689,7 +4689,7 @@
             "end": 81230
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-364"
       },
       {
@@ -4703,7 +4703,7 @@
             "end": 81315
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-365"
       },
       {
@@ -4717,7 +4717,7 @@
             "end": 81409
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-366"
       },
       {
@@ -4731,7 +4731,7 @@
             "end": 81504
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-367"
       },
       {
@@ -4745,7 +4745,7 @@
             "end": 81593
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-368"
       },
       {
@@ -4759,7 +4759,7 @@
             "end": 81677
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-369"
       },
       {
@@ -4773,7 +4773,7 @@
             "end": 81758
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-370"
       },
       {
@@ -4787,7 +4787,7 @@
             "end": 81846
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-371"
       },
       {
@@ -4811,7 +4811,7 @@
             "end": 81960
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-373"
       },
       {
@@ -4825,7 +4825,7 @@
             "end": 82042
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-374"
       },
       {
@@ -4839,7 +4839,7 @@
             "end": 82128
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-375"
       },
       {
@@ -4853,7 +4853,7 @@
             "end": 82220
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-376"
       },
       {
@@ -4867,7 +4867,7 @@
             "end": 82303
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-377"
       },
       {
@@ -4881,7 +4881,7 @@
             "end": 82384
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-378"
       },
       {
@@ -4895,7 +4895,7 @@
             "end": 82472
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-379"
       },
       {
@@ -4909,7 +4909,7 @@
             "end": 82558
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-380"
       },
       {
@@ -4923,7 +4923,7 @@
             "end": 82644
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-381"
       },
       {
@@ -4937,7 +4937,7 @@
             "end": 82728
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-382"
       },
       {
@@ -4951,7 +4951,7 @@
             "end": 82805
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-383"
       },
       {
@@ -4965,7 +4965,7 @@
             "end": 82884
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-384"
       },
       {
@@ -4979,7 +4979,7 @@
             "end": 82965
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-385"
       },
       {
@@ -4993,7 +4993,7 @@
             "end": 83047
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-386"
       },
       {
@@ -5007,7 +5007,7 @@
             "end": 83139
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-387"
       },
       {
@@ -5021,7 +5021,7 @@
             "end": 83227
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-388"
       },
       {
@@ -5035,7 +5035,7 @@
             "end": 83315
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-389"
       },
       {
@@ -5049,7 +5049,7 @@
             "end": 83398
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-390"
       },
       {
@@ -5063,7 +5063,7 @@
             "end": 83486
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-391"
       },
       {
@@ -5077,7 +5077,7 @@
             "end": 83570
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-392"
       },
       {
@@ -5091,7 +5091,7 @@
             "end": 83655
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-393"
       },
       {
@@ -5109,7 +5109,7 @@
             "end": 83782
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-394"
       },
       {
@@ -5123,7 +5123,7 @@
             "end": 83864
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-395"
       },
       {
@@ -5137,7 +5137,7 @@
             "end": 83953
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-396"
       },
       {
@@ -5151,7 +5151,7 @@
             "end": 84056
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-397"
       },
       {
@@ -5233,7 +5233,7 @@
             "end": 88178
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-404"
       },
       {
@@ -5741,7 +5741,7 @@
             "end": 109562
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-454"
       },
       {
@@ -5765,7 +5765,7 @@
             "end": 109978
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-456"
       },
       {
@@ -5779,7 +5779,7 @@
             "end": 110069
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-457"
       },
       {
@@ -5793,7 +5793,7 @@
             "end": 110161
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-458"
       },
       {
@@ -5807,7 +5807,7 @@
             "end": 110257
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-459"
       },
       {
@@ -5821,7 +5821,7 @@
             "end": 110346
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-460"
       },
       {
@@ -5835,7 +5835,7 @@
             "end": 110432
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-461"
       },
       {
@@ -5853,7 +5853,7 @@
             "end": 110572
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-462"
       },
       {
@@ -5877,7 +5877,7 @@
             "end": 111028
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-464"
       },
       {
@@ -5911,7 +5911,7 @@
             "end": 111434
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-467"
       },
       {
@@ -5945,7 +5945,7 @@
             "end": 111793
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-470"
       },
       {
@@ -5979,7 +5979,7 @@
             "end": 112221
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-473"
       },
       {
@@ -6013,7 +6013,7 @@
             "end": 112495
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-476"
       },
       {
@@ -6047,7 +6047,7 @@
             "end": 112676
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-479"
       },
       {
@@ -6081,7 +6081,7 @@
             "end": 112888
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-482"
       },
       {
@@ -6115,7 +6115,7 @@
             "end": 113090
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-485"
       },
       {
@@ -6149,7 +6149,7 @@
             "end": 113305
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-488"
       },
       {
@@ -6183,7 +6183,7 @@
             "end": 113504
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-491"
       },
       {
@@ -6217,7 +6217,7 @@
             "end": 113894
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-494"
       },
       {
@@ -6241,7 +6241,7 @@
             "end": 114647
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-496"
       },
       {
@@ -6255,7 +6255,7 @@
             "end": 114757
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-497"
       },
       {
@@ -6289,7 +6289,7 @@
             "end": 116010
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-500"
       },
       {
@@ -6353,7 +6353,7 @@
             "end": 119271
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-506"
       },
       {
@@ -6377,7 +6377,7 @@
             "end": 119758
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-508"
       },
       {
@@ -6431,7 +6431,7 @@
             "end": 123271
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-513"
       },
       {
@@ -7065,7 +7065,7 @@
             "end": 153825
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-576"
       },
       {
@@ -7099,7 +7099,7 @@
             "end": 154515
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-579"
       },
       {
@@ -7123,7 +7123,7 @@
             "end": 155342
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-581"
       },
       {
@@ -7147,7 +7147,7 @@
             "end": 155649
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-583"
       },
       {
@@ -7171,7 +7171,7 @@
             "end": 155863
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-585"
       },
       {
@@ -7205,7 +7205,7 @@
             "end": 156550
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-588"
       },
       {
@@ -7229,7 +7229,7 @@
             "end": 157372
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-590"
       },
       {
@@ -7433,7 +7433,7 @@
             "end": 169296
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-610"
       },
       {
@@ -7447,7 +7447,7 @@
             "end": 169414
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-611"
       },
       {
@@ -7469,7 +7469,7 @@
             "end": 169554
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-612"
       },
       {
@@ -7567,7 +7567,7 @@
             "end": 173417
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-621"
       },
       {
@@ -7585,7 +7585,7 @@
             "end": 173561
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-622"
       },
       {
@@ -7599,7 +7599,7 @@
             "end": 173664
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-623"
       },
       {
@@ -8223,7 +8223,7 @@
             "end": 203497
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-685"
       },
       {
@@ -8247,7 +8247,7 @@
             "end": 204213
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-687"
       },
       {
@@ -8261,7 +8261,7 @@
             "end": 204302
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-688"
       },
       {
@@ -8275,7 +8275,7 @@
             "end": 204391
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-689"
       },
       {
@@ -8289,7 +8289,7 @@
             "end": 204488
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-690"
       },
       {
@@ -8313,7 +8313,7 @@
             "end": 204588
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-692"
       },
       {
@@ -8645,7 +8645,7 @@
             "end": 219451
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-724"
       },
       {
@@ -9899,7 +9899,7 @@
             "end": 278308
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-849"
       },
       {
@@ -10603,7 +10603,7 @@
             "end": 304674
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-919"
       },
       {
@@ -10777,7 +10777,7 @@
             "end": 314355
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-936"
       },
       {
@@ -11541,7 +11541,7 @@
             "end": 344481
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1012"
       },
       {
@@ -12715,7 +12715,7 @@
             "end": 397321
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1129"
       },
       {
@@ -12867,7 +12867,7 @@
             "end": 403082
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1143"
       },
       {
@@ -12919,7 +12919,7 @@
             "end": 404670
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1147"
       },
       {
@@ -12991,7 +12991,7 @@
             "end": 407832
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1153"
       },
       {
@@ -13005,7 +13005,7 @@
             "end": 407943
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1154"
       },
       {
@@ -13349,7 +13349,7 @@
             "end": 427302
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1188"
       },
       {
@@ -13373,7 +13373,7 @@
             "end": 427405
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1190"
       },
       {
@@ -13397,7 +13397,7 @@
             "end": 427910
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1192"
       },
       {
@@ -13431,7 +13431,7 @@
             "end": 428991
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1195"
       },
       {
@@ -13445,7 +13445,7 @@
             "end": 429091
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1196"
       },
       {
@@ -13479,7 +13479,7 @@
             "end": 430388
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1199"
       },
       {
@@ -13503,7 +13503,7 @@
             "end": 431019
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1201"
       },
       {
@@ -13517,7 +13517,7 @@
             "end": 431126
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1202"
       },
       {
@@ -13921,7 +13921,7 @@
             "end": 450906
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1242"
       },
       {
@@ -14005,7 +14005,7 @@
             "end": 455402
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1250"
       },
       {
@@ -15727,7 +15727,7 @@
             "end": 532177
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1421"
       },
       {
@@ -15901,7 +15901,7 @@
             "end": 540484
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1438"
       },
       {
@@ -16575,7 +16575,7 @@
             "end": 571214
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1505"
       },
       {
@@ -16599,7 +16599,7 @@
             "end": 571343
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1507"
       },
       {
@@ -16623,7 +16623,7 @@
             "end": 571453
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1509"
       },
       {
@@ -16647,7 +16647,7 @@
             "end": 571556
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1511"
       },
       {
@@ -16671,7 +16671,7 @@
             "end": 571670
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1513"
       },
       {
@@ -16685,7 +16685,7 @@
             "end": 571754
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1514"
       },
       {
@@ -16699,7 +16699,7 @@
             "end": 571836
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1515"
       },
       {
@@ -16713,7 +16713,7 @@
             "end": 571912
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1516"
       },
       {
@@ -16731,7 +16731,7 @@
             "end": 572034
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1517"
       },
       {
@@ -16745,7 +16745,7 @@
             "end": 572117
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1518"
       },
       {
@@ -16759,7 +16759,7 @@
             "end": 572235
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1519"
       },
       {
@@ -16783,7 +16783,7 @@
             "end": 572545
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1521"
       },
       {
@@ -16801,7 +16801,7 @@
             "end": 572673
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1522"
       },
       {
@@ -16865,7 +16865,7 @@
             "end": 574437
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1528"
       },
       {
@@ -16879,7 +16879,7 @@
             "end": 574516
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1529"
       },
       {
@@ -16893,7 +16893,7 @@
             "end": 574596
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1530"
       },
       {
@@ -16907,7 +16907,7 @@
             "end": 574690
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1531"
       },
       {
@@ -16921,7 +16921,7 @@
             "end": 574772
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1532"
       },
       {
@@ -16935,7 +16935,7 @@
             "end": 574857
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1533"
       },
       {
@@ -16949,7 +16949,7 @@
             "end": 574974
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1534"
       },
       {
@@ -17153,7 +17153,7 @@
             "end": 586633
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1554"
       },
       {
@@ -18451,7 +18451,7 @@
             "end": 645359
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1683"
       },
       {
@@ -18605,7 +18605,7 @@
             "end": 651679
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1698"
       },
       {
@@ -18639,7 +18639,7 @@
             "end": 652349
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1701"
       },
       {
@@ -18663,7 +18663,7 @@
             "end": 653451
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1703"
       },
       {
@@ -18715,7 +18715,7 @@
             "end": 654185
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1707"
       },
       {
@@ -18759,7 +18759,7 @@
             "end": 655643
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1711"
       },
       {
@@ -18801,7 +18801,7 @@
             "end": 656320
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1714"
       },
       {
@@ -19145,7 +19145,7 @@
             "end": 675704
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1748"
       },
       {
@@ -19169,7 +19169,7 @@
             "end": 676239
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1750"
       },
       {
@@ -19503,7 +19503,7 @@
             "end": 694502
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1783"
       },
       {
@@ -19907,7 +19907,7 @@
             "end": 718788
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1823"
       },
       {
@@ -20351,7 +20351,7 @@
             "end": 740034
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1867"
       },
       {
@@ -21065,7 +21065,7 @@
             "end": 777042
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1938"
       },
       {
@@ -21079,7 +21079,7 @@
             "end": 777129
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1939"
       },
       {
@@ -21093,7 +21093,7 @@
             "end": 777209
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1940"
       },
       {
@@ -21107,7 +21107,7 @@
             "end": 777296
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1941"
       },
       {
@@ -21121,7 +21121,7 @@
             "end": 777389
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1942"
       },
       {
@@ -21135,7 +21135,7 @@
             "end": 777470
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1943"
       },
       {
@@ -21149,7 +21149,7 @@
             "end": 777561
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1944"
       },
       {
@@ -21163,7 +21163,7 @@
             "end": 777652
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1945"
       },
       {
@@ -21187,7 +21187,7 @@
             "end": 778406
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1947"
       },
       {
@@ -21201,7 +21201,7 @@
             "end": 778497
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "1-1948"
       },
       {

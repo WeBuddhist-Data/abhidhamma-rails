@@ -27,7 +27,7 @@
             "end": 132
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-1"
       },
       {
@@ -41,7 +41,7 @@
             "end": 220
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-2"
       },
       {
@@ -253,7 +253,7 @@
             "end": 10684
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-22"
       },
       {
@@ -377,7 +377,7 @@
             "end": 15105
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-34"
       },
       {
@@ -391,7 +391,7 @@
             "end": 15195
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-35"
       },
       {
@@ -495,7 +495,7 @@
             "end": 18007
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-45"
       },
       {
@@ -539,7 +539,7 @@
             "end": 19368
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-49"
       },
       {
@@ -553,7 +553,7 @@
             "end": 19455
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-50"
       },
       {
@@ -567,7 +567,7 @@
             "end": 19544
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-51"
       },
       {
@@ -641,7 +641,7 @@
             "end": 22519
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-58"
       },
       {
@@ -655,7 +655,7 @@
             "end": 22603
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-59"
       },
       {
@@ -669,7 +669,7 @@
             "end": 22693
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-60"
       },
       {
@@ -841,7 +841,7 @@
             "end": 26991
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-76"
       },
       {
@@ -855,7 +855,7 @@
             "end": 27054
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-77"
       },
       {
@@ -929,7 +929,7 @@
             "end": 28995
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-84"
       },
       {
@@ -943,7 +943,7 @@
             "end": 29078
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-85"
       },
       {
@@ -957,7 +957,7 @@
             "end": 29168
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-86"
       },
       {
@@ -1111,7 +1111,7 @@
             "end": 33256
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-101"
       },
       {
@@ -1125,7 +1125,7 @@
             "end": 33338
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-102"
       },
       {
@@ -1143,7 +1143,7 @@
             "end": 33474
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-103"
       },
       {
@@ -1187,7 +1187,7 @@
             "end": 33809
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-107"
       },
       {
@@ -1201,7 +1201,7 @@
             "end": 33907
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-108"
       },
       {
@@ -1215,7 +1215,7 @@
             "end": 34009
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-109"
       },
       {
@@ -1229,7 +1229,7 @@
             "end": 34105
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "3-110"
       },
       {

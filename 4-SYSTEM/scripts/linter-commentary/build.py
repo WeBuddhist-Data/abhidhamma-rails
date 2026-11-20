@@ -218,6 +218,11 @@ def build_text_input(data):
         else:
             payload[field] = None
 
+    # Links that are not set are left out of the payload rather than sent as null.
+    for field in ("commentary_of", "translation_of"):
+        if payload.get(field) is None:
+            payload.pop(field, None)
+
     payload["_person_warnings"] = person_warnings
     return payload
 

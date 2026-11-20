@@ -46,13 +46,15 @@ def extract_doc_info(path):
 
 
 def _frontmatter_has(path, field):
-    """True if the YAML frontmatter already holds a non-empty value for field."""
-    text = path.read_text(encoding="utf-8", errors="replace")
-    match = YAML_PROPS_RE.match(text)
-    if not match:
+    """True if YAML frontmatter already contains a non-empty value for field."""
+    try:
+        data, _ = extract_doc_info(path)
+    except (ValueError, OSError):
         return False
-    found = re.search(r'^' + re.escape(field) + r'\s*:(.*)$', match.group(1), re.MULTILINE)
-    return bool(found and found.group(1).strip())
+    if not data:
+        return False
+    val = data.get(field)
+    return val is not None and str(val).strip() != ""
 
 
 def patch_source_file(path, updates):
@@ -135,7 +137,14 @@ def main(argv=None):
         parser.print_help()
         return 0
 
-    load_languages()
+    if load_languages():
+        print(f"  INFO languages: {len(LANGUAGE_VALUES)} codes loaded from the API")
+    else:
+        print(
+            "  WARN languages: API unreachable — using the cached list in "
+            f"languages.py ({len(LANGUAGE_VALUES)} codes); a newly added code "
+            "may be reported as invalid"
+        )
     had_errors = False
 
     for path in args.paths:
@@ -209,10 +218,11 @@ def main(argv=None):
                     patches["lang_tag"] = code
             elif vault_tag and vault_tag in LANGUAGE_VALUES:
                 patches["language"] = LANGUAGE_CODE_TO_NAME[vault_tag]
-            if doc_info.get("translation_of") and not _frontmatter_has(path, "translation_of"):
-                patches["translation_of"] = doc_info["translation_of"]
-            if doc_info.get("category_id") and not _frontmatter_has(path, "category_id"):
-                patches["category_id"] = doc_info["category_id"]
+            # Fields resolved from root_text are written back when the file
+            # does not carry them yet.
+            for field in ("translation_of", "category_id"):
+                if doc_info.get(field) and not _frontmatter_has(path, field):
+                    patches[field] = doc_info[field]
             source_changes = patch_source_file(path, patches)
 
             if errors:
@@ -251,10 +261,11 @@ def main(argv=None):
                     patches["lang_tag"] = code
             elif vault_tag and vault_tag in LANGUAGE_VALUES:
                 patches["language"] = LANGUAGE_CODE_TO_NAME[vault_tag]
-            if doc_info.get("translation_of") and not _frontmatter_has(path, "translation_of"):
-                patches["translation_of"] = doc_info["translation_of"]
-            if doc_info.get("category_id") and not _frontmatter_has(path, "category_id"):
-                patches["category_id"] = doc_info["category_id"]
+            # Fields resolved from root_text are written back when the file
+            # does not carry them yet.
+            for field in ("translation_of", "category_id"):
+                if doc_info.get(field) and not _frontmatter_has(path, field):
+                    patches[field] = doc_info[field]
             source_changes = patch_source_file(path, patches)
 
             if errors:

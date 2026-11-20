@@ -64,3 +64,8 @@ python3 4-SYSTEM\scripts\parser-root-text\parser.py "1-SOURCES\Text\pi-1.md" "4-
 - Transclusions written one after another form a single group, even when a blank line separates them. Anything else between them starts a new group
 - Headings are TOC-only: they add no segment and no text to the edition `content` (no segment has type `title`). A TOC section spans from its heading's position in `content` to the next heading of the same or higher level (else the end of `content`); a heading followed directly by such a heading gets an empty span
 - Alignment: headings take no alignment, and pending transclusions are dropped at a heading. Transclusions that target a heading in the `root_text` file are skipped (one warning lists them)
+
+## Template sync
+
+Merged with the generic rails-template version on 2026-11-20 (durchens, footnotes, yigchungs, glued-heading and language-key checks, verse by shape). The Abhidhamma specifics kept, and how to take later template updates, are in [UPSTREAM.md](UPSTREAM.md).
+

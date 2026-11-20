@@ -27,7 +27,7 @@
             "end": 126
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-1"
       },
       {
@@ -41,7 +41,7 @@
             "end": 214
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-2"
       },
       {
@@ -55,7 +55,7 @@
             "end": 293
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-3"
       },
       {
@@ -69,7 +69,7 @@
             "end": 384
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-4"
       },
       {
@@ -101,7 +101,7 @@
             "end": 967
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-6"
       },
       {
@@ -133,7 +133,7 @@
             "end": 1493
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-8"
       },
       {
@@ -165,7 +165,7 @@
             "end": 1700
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-10"
       },
       {
@@ -197,7 +197,7 @@
             "end": 1909
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-12"
       },
       {
@@ -571,7 +571,7 @@
             "end": 20727
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-49"
       },
       {
@@ -609,7 +609,7 @@
             "end": 21421
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-52"
       },
       {
@@ -1933,7 +1933,7 @@
             "end": 99799
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-184"
       },
       {
@@ -1957,7 +1957,7 @@
             "end": 100407
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-186"
       },
       {
@@ -1981,7 +1981,7 @@
             "end": 100901
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-188"
       },
       {
@@ -2005,7 +2005,7 @@
             "end": 101333
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-190"
       },
       {
@@ -2029,7 +2029,7 @@
             "end": 101908
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-192"
       },
       {
@@ -2053,7 +2053,7 @@
             "end": 102160
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-194"
       },
       {
@@ -2077,7 +2077,7 @@
             "end": 102413
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-196"
       },
       {
@@ -2101,7 +2101,7 @@
             "end": 102666
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-198"
       },
       {
@@ -2125,7 +2125,7 @@
             "end": 102912
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-200"
       },
       {
@@ -2149,7 +2149,7 @@
             "end": 103161
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-202"
       },
       {
@@ -2173,7 +2173,7 @@
             "end": 103411
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-204"
       },
       {
@@ -2197,7 +2197,7 @@
             "end": 103663
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-206"
       },
       {
@@ -2221,7 +2221,7 @@
             "end": 103910
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-208"
       },
       {
@@ -2245,7 +2245,7 @@
             "end": 104162
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-210"
       },
       {
@@ -2269,7 +2269,7 @@
             "end": 104414
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-212"
       },
       {
@@ -2293,7 +2293,7 @@
             "end": 104658
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-214"
       },
       {
@@ -2317,7 +2317,7 @@
             "end": 104909
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-216"
       },
       {
@@ -2341,7 +2341,7 @@
             "end": 105162
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-218"
       },
       {
@@ -2365,7 +2365,7 @@
             "end": 105418
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-220"
       },
       {
@@ -2389,7 +2389,7 @@
             "end": 105674
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-222"
       },
       {
@@ -2413,7 +2413,7 @@
             "end": 105924
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-224"
       },
       {
@@ -2437,7 +2437,7 @@
             "end": 106175
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-226"
       },
       {
@@ -2461,7 +2461,7 @@
             "end": 106409
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-228"
       },
       {
@@ -2495,7 +2495,7 @@
             "end": 107933
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-231"
       },
       {
@@ -2529,7 +2529,7 @@
             "end": 110316
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-234"
       },
       {
@@ -2553,7 +2553,7 @@
             "end": 110486
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-236"
       },
       {
@@ -2597,7 +2597,7 @@
             "end": 112444
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-240"
       },
       {
@@ -2621,7 +2621,7 @@
             "end": 112599
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-242"
       },
       {
@@ -3945,7 +3945,7 @@
             "end": 169329
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-374"
       },
       {
@@ -4049,7 +4049,7 @@
             "end": 176952
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-384"
       },
       {
@@ -5741,7 +5741,7 @@
             "end": 269915
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-552"
       },
       {
@@ -5793,7 +5793,7 @@
             "end": 271039
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-556"
       },
       {
@@ -5855,7 +5855,7 @@
             "end": 272178
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-561"
       },
       {
@@ -5917,7 +5917,7 @@
             "end": 273598
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-566"
       },
       {
@@ -5971,7 +5971,7 @@
             "end": 274682
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-571"
       },
       {
@@ -5985,7 +5985,7 @@
             "end": 274780
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-572"
       },
       {
@@ -5999,7 +5999,7 @@
             "end": 274882
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-573"
       },
       {
@@ -6013,7 +6013,7 @@
             "end": 274977
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-574"
       },
       {
@@ -6027,7 +6027,7 @@
             "end": 275066
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-575"
       },
       {
@@ -6041,7 +6041,7 @@
             "end": 275158
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-576"
       },
       {
@@ -6055,7 +6055,7 @@
             "end": 275254
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-577"
       },
       {
@@ -6079,7 +6079,7 @@
             "end": 275347
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-579"
       },
       {
@@ -6093,7 +6093,7 @@
             "end": 275440
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-580"
       },
       {
@@ -6107,7 +6107,7 @@
             "end": 275533
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-581"
       },
       {
@@ -6121,7 +6121,7 @@
             "end": 275614
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-582"
       },
       {
@@ -6135,7 +6135,7 @@
             "end": 275705
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-583"
       },
       {
@@ -6149,7 +6149,7 @@
             "end": 275796
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-584"
       },
       {
@@ -6193,7 +6193,7 @@
             "end": 276629
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-588"
       },
       {
@@ -6207,7 +6207,7 @@
             "end": 276718
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "7-589"
       },
       {

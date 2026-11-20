@@ -79,3 +79,8 @@ See `4-SYSTEM/Templates/FILE_YAML_PROPERTIES.md` for the required YAML propertie
 - Header refs may have any depth (`^n-n-n-…`); content refs (verse / top / front / back) max `^n-n-n` (3 parts)
 - The source file title is never overwritten by the linter
 - After the text, edition, and TOC are created in the API, save the returned IDs back to the source file as `text_id`, `edition_id`, and `toc_id`
+
+## Template sync
+
+Merged with the generic rails-template version on 2026-11-20 (durchens, footnotes, yigchungs, glued-heading and language-key checks, verse by shape). The Abhidhamma specifics kept, and how to take later template updates, are in [UPSTREAM.md](UPSTREAM.md).
+

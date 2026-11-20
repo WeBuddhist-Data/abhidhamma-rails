@@ -12,15 +12,17 @@ import re
 import sys
 from pathlib import Path
 
+import durchen
+
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 
 
 def _out_dir(stem):
-    """Each source file gets its own folder: output/<stem>/<stem>.<kind>.json."""
-    out_dir = OUTPUT_DIR / stem
-    out_dir.mkdir(parents=True, exist_ok=True)
-    return out_dir
+    """Each source file gets its own folder: output/<stem>/."""
+    d = OUTPUT_DIR / stem
+    d.mkdir(parents=True, exist_ok=True)
+    return d
 
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 # Headers: ^n, ^n-n, ^n-n-n, ^n-n-n-… (any depth). Content: max ^n-n-n (3 parts).
@@ -151,10 +153,125 @@ def _extract_blocks(body, warn=True):
     return blocks
 
 
+# Characters that look blank but are not whitespace (zero-width space, BOM,
+# non-breaking space). A line made only of these is an empty line.
+BLANK_CHARS = "\u200b\u200c\u200d\ufeff\xa0"
+
+
+def _is_blank_line(line):
+    return not line.strip().strip(BLANK_CHARS).strip()
+
+
+def _is_verse_shape(content_lines):
+    """True for 2+ consecutive lines with no empty line between them.
+
+    Verse is written one line per pāda, with no gap. An empty line inside a
+    block (often an invisible zero-width space) means the block is really two
+    paragraphs that were never given their own block IDs.
+    """
+    if any(_is_blank_line(l) for l in content_lines):
+        return False
+    return sum(1 for l in content_lines if l.strip()) > 1
+
+
+# Inline formatting used for interlinear glosses in the sources. The gloss
+# text stays in the edition; only the tags are dropped.
+INLINE_TAG_RE = re.compile(r"</?small>", re.IGNORECASE)
+
+
+def _strip_inline_tags(text):
+    """Clean a heading title: drop inline gloss tags and footnote markers, turn
+    space-like characters (U+00A0 …) into plain spaces and drop invisible ones."""
+    return durchen.normalize_spaces(durchen.FOOTNOTE_MARK_RE.sub("", INLINE_TAG_RE.sub("", text)))
+
+
+# Yigchung (ཡིག་ཆུང་, small-script gloss) is written <small>…</small>. In the
+# edition the tags are dropped and each run of text inside them becomes a
+# yigchung annotation: a half-open [start, end) span of absolute code-point
+# offsets into the edition content.
+SMALL_TAG_RE = re.compile(r"<(/?)small>", re.IGNORECASE)
+# Everything the edition drops from a line: <small> tags (yigchung) and
+# footnote markers [^dN] / [^fN] (durchen / footnote). One pass, so both get
+# offsets into the same cleaned text.
+INLINE_MARK_RE = re.compile(
+    SMALL_TAG_RE.pattern + "|" + durchen.FOOTNOTE_MARK_RE.pattern, re.IGNORECASE
+)
+
+
+def _tag_context(line, m, width=12):
+    """A short piece of the line around a tag, for error messages."""
+    a, b = max(0, m.start() - width), min(len(line), m.end() + width)
+    return ("…" if a else "") + line[a:b] + ("…" if b < len(line) else "")
+
+
+def _strip_yigchung(line, in_small, error):
+    """Drop <small> tags and footnote markers from one line, and find the
+    yigchung runs and durchen markers in it.
+
+    in_small says whether a run is already open when the line starts (it
+    continues from the previous line of the same block). Returns
+    (text, runs, in_small, marks): runs are [start, end) offsets into text,
+    in_small says whether a run is still open at the end of the line, and
+    marks are (offset, label) for each footnote marker.
+    The text is identical to _strip_inline_tags(line).
+
+    A stray tag — </small> with no open run, or <small> inside an open
+    run — is passed to error(message); the caller stops the build.
+    """
+    out, runs, marks = [], [], []
+    pos = 0
+    run_start = 0 if in_small else None
+    last = 0
+    for m in INLINE_MARK_RE.finditer(line):
+        # normalised piece by piece, so the offsets are into the cleaned text
+        piece = durchen.normalize_spaces(line[last:m.start()])
+        out.append(piece)
+        pos += len(piece)
+        last = m.end()
+        if m.group(2) is not None:
+            marks.append((pos, m.group(2)))
+            continue
+        closing = bool(m.group(1))
+        if not closing:
+            if run_start is not None:
+                error(f"stray <small> (a <small> run is already open): {_tag_context(line, m)!r}")
+                continue
+            run_start = pos
+        else:
+            if run_start is None:
+                error(f"stray </small> (no <small> is open): {_tag_context(line, m)!r}")
+                continue
+            runs.append([run_start, pos])
+            run_start = None
+    piece = durchen.normalize_spaces(line[last:])
+    out.append(piece)
+    pos += len(piece)
+    if run_start is not None:
+        runs.append([run_start, pos])  # carried to the next line, if any
+    text = "".join(out)
+    return text, runs, run_start is not None, marks
+
+
 def _heading_level(line):
     """Number of leading '#' characters of a heading line."""
     stripped = line.lstrip()
     return len(stripped) - len(stripped.lstrip('#'))
+
+
+BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
+
+
+def _clean_heading_title(text, level):
+    """Obsidian renders only six heading levels, so a deeper heading (7+ '#')
+    is often written in bold to look like one. That bold is display-only:
+    drop the ** markers from the TOC title."""
+    if level > 6:
+        text = BOLD_RE.sub(r"\1", text).strip()
+        # Abhidhamma vault: deeper headings are written `####### *Title* ^id`
+        # (Markdown stops at six levels); the asterisks are display only.
+        if len(text) > 2 and text.startswith("*") and text.endswith("*"):
+            text = text[1:-1].strip()
+    return text
 
 
 def _infer_segment_type(ref_no_caret, doc_default):
@@ -188,7 +305,7 @@ def _infer_segment_type(ref_no_caret, doc_default):
 # Function 1: extract text_input
 # ---------------------------------------------------------------------------
 
-def extract_text_input(lint_path, source_path=None):
+def extract_text_input(lint_path, source_stem=None):
     data = json.loads(
         lint_path.read_bytes().replace(b'\x00', b'').decode("utf-8", errors="replace")
     )
@@ -236,15 +353,13 @@ def extract_text_input(lint_path, source_path=None):
                     file=sys.stderr,
                 )
 
-    # Named after the source file, not the lint file.
-    if source_path is not None:
-        stem = source_path.stem
-    else:
-        stem = lint_path.stem
-        if stem.endswith(".lint.errors"):
-            stem = stem[: -len(".lint.errors")]
-        elif stem.endswith(".lint"):
-            stem = stem[: -len(".lint")]
+    stem = lint_path.stem
+    if stem.endswith(".lint.errors"):
+        stem = stem[: -len(".lint.errors")]
+    elif stem.endswith(".lint"):
+        stem = stem[:-len(".lint")]
+    if source_stem:
+        stem = source_stem
     out_path = _out_dir(stem) / f"{stem}.text.json"
     out_path.write_text(json.dumps(clean, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path
@@ -254,10 +369,41 @@ def extract_text_input(lint_path, source_path=None):
 # Function 2: build edition
 # ---------------------------------------------------------------------------
 
-def _build_content_and_segmentation(blocks, doc_default):
+def _block_marks(lines):
+    """Labels of the footnote markers in some lines."""
+    return [m.group(1) for l in lines for m in durchen.FOOTNOTE_MARK_RE.finditer(l)]
+
+
+def _warn_lost_marks(block_num, lines, why, dropped):
+    labels = [l for l in _block_marks(lines) if durchen.kind(l) is not None]
+    if labels:
+        dropped.update(labels)
+        print(
+            f"  WARN block {block_num}: {why}, so nothing is recorded for "
+            f"{', '.join(f'[^{l}]' for l in labels)}",
+            file=sys.stderr,
+        )
+
+
+def _build_content_and_segmentation(blocks, doc_default, notes=None):
+    """Build the edition content and its segments.
+
+    Headings are not part of the edition: they add no segment and no content.
+    They are returned separately, with the content offset where they occur,
+    for the table of contents.
+
+    notes are the footnote definitions (durchen.split_definitions); each
+    [^dN] marker becomes a durchen spanning the lemma before it, and each
+    [^fN] marker a footnote at the position where it stood.
+    """
+    notes = notes or {}
     parts = []
     seg_list = []
     headings = []
+    yigchungs = []
+    marks = []
+    dropped = set()
+    tag_errors = []
     pos = 0
 
     for block_num, block in enumerate(blocks, start=1):
@@ -270,23 +416,44 @@ def _build_content_and_segmentation(blocks, doc_default):
         if all(_is_blank(l) for l in content_lines):
             continue
 
+        # Footnote markers left on their own after a block: they mark the end
+        # of the text before them.
+        if not is_header and not any(
+            durchen.FOOTNOTE_MARK_RE.sub("", l).strip() for l in content_lines
+        ):
+            for label in _block_marks(content_lines):
+                marks.append({"label": label, "pos": pos, "where": f"block {block_num}"})
+            continue
+
         if not ref:
             print(f"  WARN block {block_num}: no reference marker — skipped", file=sys.stderr)
+            _warn_lost_marks(block_num, content_lines, "block skipped", dropped)
             continue
         ref_no_caret = ref[1:] if ref.startswith("^") else ref
 
         if is_header:
-            # Headings are not part of the edition: no segment, no text in
-            # content. They are recorded only to build the TOC.
-            text = raw_lines[0].lstrip().lstrip('#').strip()
+            def _head_err(msg, _ref=ref, _n=block_num):
+                tag_errors.append(f"block {_n} ({_ref}), heading: {msg}")
+
+            _, _, head_open, _ = _strip_yigchung(raw_lines[0], False, _head_err)
+            if head_open:
+                _head_err("stray <small> (not closed in the heading)")
+            if SMALL_TAG_RE.search(raw_lines[0]):
+                print(
+                    f"  WARN block {block_num}: <small> in heading {ref!r} — headings "
+                    f"are not edition content, so no yigchung is recorded for it",
+                    file=sys.stderr,
+                )
+            _warn_lost_marks(
+                block_num, raw_lines[:1],
+                f"footnote in heading {ref!r} — headings are not edition content", dropped,
+            )
+            text = _strip_inline_tags(raw_lines[0].strip().lstrip('#').strip())
             ref_idx = text.rfind(ref)
             if ref_idx != -1:
                 text = text[:ref_idx].rstrip()
             level = _heading_level(raw_lines[0])
-            # Headings deeper than level 6 are written `####### *Title* ^id`
-            # (Markdown stops at six levels); the asterisks are display only.
-            if level > 6 and len(text) > 2 and text.startswith("*") and text.endswith("*"):
-                text = text[1:-1].strip()
+            text = _clean_heading_title(text, level)
             if not text:
                 continue
             headings.append({
@@ -303,6 +470,7 @@ def _build_content_and_segmentation(blocks, doc_default):
                 f"content segments allow at most ^n-n-n ({VERSE_REF_MAX_PARTS} parts) — skipped",
                 file=sys.stderr,
             )
+            _warn_lost_marks(block_num, content_lines, "block skipped", dropped)
             continue
 
         last_nonempty_idx = -1
@@ -311,32 +479,138 @@ def _build_content_and_segmentation(blocks, doc_default):
                 last_nonempty_idx = i
                 break
         line_spans = []
+        block_yig = []
+        in_small = False
+
         for i, raw_line in enumerate(content_lines):
-            text = _rstrip_line(raw_line)
+            def _err(msg, _ref=ref, _n=block_num, _line=i + 1):
+                tag_errors.append(f"block {_n} ({_ref}), line {_line}: {msg}")
+
+            text, runs, in_small, line_marks = _strip_yigchung(_rstrip_line(raw_line), in_small, _err)
             if i == last_nonempty_idx:
                 ref_idx = text.rfind(ref)
                 if ref_idx != -1:
                     text = text[:ref_idx].rstrip()
+            start = pos
+            for off, label in line_marks:
+                # A marker after the text ("…། །[^7] ^1-4") ends at the text's end.
+                marks.append({"label": label, "pos": start + min(off, len(text)),
+                              "where": f"block {block_num} ({ref})"})
             if not text:
                 continue
-            start = pos
             parts.append(text)
             pos += len(text)
             line_spans.append({"start": start, "end": start + len(text)})
-        seg_type = _infer_segment_type(ref_no_caret, doc_default)
+            for s, e in runs:
+                s, e = start + min(s, len(text)), start + min(e, len(text))
+                if s >= e:
+                    continue  # empty run: the API would store it but never return it
+                if block_yig and block_yig[-1]["end"] == s:
+                    # One unbroken stretch (a run continuing onto the next
+                    # line, or </small><small>): one mark, not two.
+                    block_yig[-1]["end"] = e
+                else:
+                    block_yig.append({"start": s, "end": e, "reference": ref_no_caret})
+        if in_small:
+            tag_errors.append(
+                f"block {block_num} ({ref}): stray <small> (not closed by the end of the block)"
+            )
+        yigchungs.extend(block_yig)
+        if any(_is_blank_line(l) for l in content_lines[1:-1]):
+            print(
+                f"  WARN block {block_num}: empty line inside the block — kept as one "
+                f"segment; the parts may each need their own block ID",
+                file=sys.stderr,
+            )
+        # Verse wins: several lines with no gap is a verse wherever it sits,
+        # front matter or colophon included. Otherwise the ID decides.
+        if _is_verse_shape(content_lines):
+            seg_type = "verse"
+        else:
+            seg_type = _infer_segment_type(ref_no_caret, doc_default)
         seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
-    return "".join(parts), seg_list, headings
+    if tag_errors:
+        # Safety stop: the linter reports stray tags as errors, but the parser
+        # also accepts a .lint.errors.json. Broken yigchung markup would put
+        # marks on the wrong text, so nothing is written.
+        raise ValueError(
+            f"{len(tag_errors)} stray <small>/</small> tag(s), first at {tag_errors[0]} — "
+            "run the linter for the full list and fix the source; "
+            "no edition or yigchung payload written"
+        )
+    content = "".join(parts)
+    durchens, footnotes = _resolve_footnotes(content, marks, notes, dropped)
+    return content, seg_list, headings, yigchungs, durchens, footnotes
+
+
+def _resolve_footnotes(content, marks, notes, dropped):
+    """Turn footnote markers into durchens and footnotes. A durchen ([^dN]) is
+    the note text over the lemma that ends at the marker (or the syllable
+    before it, with a warning). A footnote ([^fN]) is the note text at the
+    marker's position: the gap in the content where the marker stood, since
+    the markers are already out of the content. Returns (durchens, footnotes)."""
+    def warn(msg):
+        print(f"  WARN {msg}", file=sys.stderr)
+
+    out, footnotes, seen = [], [], set()
+    for mk in marks:
+        label, where = mk["label"], mk["where"]
+        k = durchen.kind(label)
+        if k is None:
+            warn(f"{where}: [^{label}] is neither [^dN] (durchen) nor [^fN] (footnote) — not sent")
+            continue
+        what = "footnote" if k == durchen.FOOTNOTE else "durchen"
+        note = notes.get(label)
+        if label in seen:
+            warn(f"{where}: [^{label}] is marked more than once — one {what} for each")
+        seen.add(label)
+        if note is None:
+            warn(f"{where}: [^{label}] has no definition — no {what}")
+            continue
+        if not note["text"]:
+            warn(f"{where}: [^{label}] has an empty note — no {what}")
+            continue
+        if k == durchen.FOOTNOTE:
+            footnotes.append({"position": mk["pos"], "text": note["text"], "label": label})
+            continue
+        start, end, how = durchen.locate(content, mk["pos"], note["text"])
+        if how is None:
+            warn(f"{where}: [^{label}] has no text before it — no durchen")
+            continue
+        if how == "mismatch":
+            warn(
+                f"{where}: [^{label}] lemma {durchen.lemma_of(note['text'])!r} does not end at "
+                f"the marker — span set to the syllable before it, {content[start:end]!r}"
+            )
+        elif how == "no-lemma":
+            warn(
+                f"{where}: [^{label}] note has no ༼…༽ witness, so no lemma — span set to the "
+                f"syllable before it, {content[start:end]!r}"
+            )
+        out.append({"start": start, "end": end, "text": note["text"], "label": label})
+    unused = [l for l in notes if l not in seen and l not in dropped and durchen.kind(l) is not None]
+    if unused:
+        warn(
+            f"{len(unused)} footnote definition(s) never marked in the text — not sent: "
+            + ", ".join(f"[^{l}]" for l in unused[:10]) + (" …" if len(unused) > 10 else "")
+        )
+    return out, footnotes
 
 
 def build_edition(source_path, lint_path):
     fm, body = _read_source(source_path)
-    blocks = _extract_blocks(body)
+    body, notes, note_problems = durchen.split_definitions(body)
+    for level, msg in note_problems:
+        print(f"  WARN {msg}", file=sys.stderr)
+    blocks = _extract_blocks(body, warn=False)  # empty-line warning: see _build_content_and_segmentation
 
     # Commentaries are paragraph-segmented (not verse)
     doc_default = "paragraph"
 
-    content_str, seg_list, headings = _build_content_and_segmentation(blocks, doc_default)
+    content_str, seg_list, headings, yigchungs, durchens, footnotes = _build_content_and_segmentation(
+        blocks, doc_default, notes
+    )
 
     edition_type = fm.get("edition_type", "critical")
     source_url = (
@@ -354,7 +628,74 @@ def build_edition(source_path, lint_path):
     stem = source_path.stem
     out_path = _out_dir(stem) / f"{stem}.edition.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, out, headings
+    yig_path, _ = write_yigchungs(stem, content_str, yigchungs)
+    dur_path, _ = write_durchens(stem, content_str, durchens)
+    fn_path, _ = write_footnotes(stem, content_str, footnotes)
+    return out_path, out, headings, yig_path, yigchungs, dur_path, durchens, fn_path, footnotes
+
+
+# ---------------------------------------------------------------------------
+# Function 2b: yigchung annotations
+# ---------------------------------------------------------------------------
+
+def write_yigchungs(stem, content, yigchungs):
+    """Write the yigchung payload: one POST body per unbroken run, sorted by
+    start. Each item is exactly the body of
+    POST /v2/editions/{edition_id}/yigchungs. Not written when there are no
+    runs; a file left from an earlier run is removed, so a source that loses
+    its <small> markup does not leave a stale payload.
+    """
+    out_path = _out_dir(stem) / f"{stem}.yigchungs.json"
+    if not yigchungs:
+        out_path.unlink(missing_ok=True)
+        return None, None
+    yigchungs = sorted(yigchungs, key=lambda y: (y["start"], y["end"]))
+    for y in yigchungs:
+        if not (0 <= y["start"] < y["end"] <= len(content)):
+            raise ValueError(f"yigchung span out of range: {y}")
+    out = {
+        "yigchungs": [
+            {"span": {"start": y["start"], "end": y["end"]}} for y in yigchungs
+        ],
+    }
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    return out_path, out
+
+
+# ---------------------------------------------------------------------------
+# Function 2c: durchen annotations
+# ---------------------------------------------------------------------------
+
+def write_durchens(stem, content, durchens):
+    """Write the durchen payload: one item per footnote, sorted by span. Each
+    item is exactly the body of POST /v2/editions/{edition_id}/durchens (one
+    POST per item — the endpoint takes a single object). Written even when
+    empty, so a file that loses its footnotes does not leave a stale payload.
+    """
+    out = {"durchens": durchen.payload(durchens, len(content))}
+    out_path = _out_dir(stem) / f"{stem}.durchens.json"
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    return out_path, out
+
+
+# ---------------------------------------------------------------------------
+# Function 2d: footnotes
+# ---------------------------------------------------------------------------
+
+def write_footnotes(stem, content, footnotes):
+    """Write the footnote payload: one item per [^fN] marker, sorted by
+    position. A footnote has a position, not a span: the gap before
+    content[position], 0…len(content). There is no API endpoint for footnotes
+    yet, so nothing uploads this file. Not written when the text has no
+    footnotes; a file left from an earlier run is removed.
+    """
+    out_path = _out_dir(stem) / f"{stem}.footnotes.json"
+    if not footnotes:
+        out_path.unlink(missing_ok=True)
+        return None, None
+    out = {"footnotes": durchen.footnote_payload(footnotes, len(content))}
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    return out_path, out
 
 
 # ---------------------------------------------------------------------------
@@ -456,6 +797,7 @@ def _root_heading_refs(fm, source_path):
             file=sys.stderr,
         )
         return set()
+    root_body, _, _ = durchen.split_definitions(root_body)
     return {
         b["ref"].lstrip("^")
         for b in _extract_blocks(root_body, warn=False)
@@ -484,6 +826,8 @@ def build_alignment(source_path):
 
     alignments = []
     seen_pairs = set()
+    # A transclusion or block ID inside a note is note text, not alignment.
+    body, _, _ = durchen.split_definitions(body)
     blocks = _extract_blocks(body, warn=False)
     heading_refs = _root_heading_refs(fm, source_path)
     skipped_heading_targets = []
@@ -582,7 +926,7 @@ def main(argv=None):
         sys.exit(1)
 
     try:
-        text_out = extract_text_input(lint_path, source_path)
+        text_out = extract_text_input(lint_path, source_path.stem)
         print(f"OK    {lint_path}  ->  {text_out}")
     except Exception as exc:
         print(f"ERROR text_input: {exc}", file=sys.stderr)
@@ -591,7 +935,8 @@ def main(argv=None):
     edition_result = None
     headings = []
     try:
-        edition_out, edition_result, headings = build_edition(source_path, lint_path)
+        (edition_out, edition_result, headings, yig_out, yigchungs,
+         dur_out, durchens, fn_out, footnotes) = build_edition(source_path, lint_path)
         segs = edition_result["segmentation"]["segments"]
         content_len = len(edition_result["content"])
         by_type = {}
@@ -603,6 +948,14 @@ def main(argv=None):
         for t, n in sorted(by_type.items()):
             print(f"    {t}: {n}")
         print(f"  headings (toc)   : {len(headings)}")
+        if yig_out:
+            print(f"OK    {source_path}  ->  {yig_out}")
+        print(f"  yigchungs        : {len(yigchungs)}" + ("" if yig_out else " (no file written)"))
+        print(f"OK    {source_path}  ->  {dur_out}")
+        print(f"  durchens         : {len(durchens)}")
+        if fn_out:
+            print(f"OK    {source_path}  ->  {fn_out}")
+        print(f"  footnotes        : {len(footnotes)}" + ("" if fn_out else " (no file written)"))
     except Exception as exc:
         print(f"ERROR edition: {exc}", file=sys.stderr)
         had_error = True

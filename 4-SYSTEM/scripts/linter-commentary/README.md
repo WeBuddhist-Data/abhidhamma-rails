@@ -86,3 +86,8 @@ root_text: 1-SOURCES/Text/pi-1.md
 - Header refs may have any depth (`^n-n-n-…`); content refs max `^n-n-n` (3 parts)
 - Pure transclusion blocks (`![[...]]` only) are skipped during segmentation validation — they are for alignment
 - After the text, edition, and TOC are created in the API, save the returned IDs back as `text_id`, `edition_id`, and `toc_id`
+
+## Template sync
+
+Merged with the generic rails-template version on 2026-11-20 (durchens, footnotes, yigchungs, glued-heading and language-key checks, verse by shape). The Abhidhamma specifics kept, and how to take later template updates, are in [UPSTREAM.md](UPSTREAM.md).
+

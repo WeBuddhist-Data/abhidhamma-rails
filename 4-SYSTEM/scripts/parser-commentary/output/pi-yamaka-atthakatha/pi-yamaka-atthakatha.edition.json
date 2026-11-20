@@ -27,7 +27,7 @@
             "end": 129
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-1"
       },
       {
@@ -41,7 +41,7 @@
             "end": 216
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-2"
       },
       {
@@ -59,7 +59,7 @@
             "end": 341
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-3"
       },
       {
@@ -593,7 +593,7 @@
             "end": 28519
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-56"
       },
       {
@@ -607,7 +607,7 @@
             "end": 28603
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-57"
       },
       {
@@ -621,7 +621,7 @@
             "end": 28687
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-58"
       },
       {
@@ -635,7 +635,7 @@
             "end": 28778
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-59"
       },
       {
@@ -649,7 +649,7 @@
             "end": 28863
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-60"
       },
       {
@@ -663,7 +663,7 @@
             "end": 28955
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-61"
       },
       {
@@ -1957,7 +1957,7 @@
             "end": 92003
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-190"
       },
       {
@@ -1971,7 +1971,7 @@
             "end": 92097
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-191"
       },
       {
@@ -1985,7 +1985,7 @@
             "end": 92196
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-192"
       },
       {
@@ -1999,7 +1999,7 @@
             "end": 92285
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-193"
       },
       {
@@ -2013,7 +2013,7 @@
             "end": 92382
           }
         ],
-        "type": "paragraph",
+        "type": "verse",
         "reference": "6-194"
       },
       {

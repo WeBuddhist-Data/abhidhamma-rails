@@ -75,3 +75,8 @@ python3 4-SYSTEM\scripts\parser-commentary\parser.py "1-SOURCES\Commentaries\pi-
 - Headings deeper than level 6 (7 or more `#`) have `**` stripped from the TOC title, since Obsidian renders only six levels and people bold those to look like headings. Bold on levels 1–6 is left alone
 - Transclusions written one after another form a single group, even when a blank line separates them. Anything else between them starts a new group
 - Headings are TOC-only: they add no segment and no text to the edition `content` (no segment has type `title`). A TOC section spans from its heading's position in `content` to the next heading of the same or higher level (else the end of `content`); a heading followed directly by such a heading gets an empty span
+
+## Template sync
+
+Merged with the generic rails-template version on 2026-11-20 (durchens, footnotes, yigchungs, glued-heading and language-key checks, verse by shape). The Abhidhamma specifics kept, and how to take later template updates, are in [UPSTREAM.md](UPSTREAM.md).
+

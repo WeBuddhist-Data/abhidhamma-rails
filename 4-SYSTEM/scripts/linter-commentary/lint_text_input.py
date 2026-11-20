@@ -140,7 +140,14 @@ def main(argv=None):
         parser.print_help()
         return 0
 
-    load_languages()
+    if load_languages():
+        print(f"  INFO languages: {len(LANGUAGE_VALUES)} codes loaded from the API")
+    else:
+        print(
+            "  WARN languages: API unreachable — using the cached list in "
+            f"languages.py ({len(LANGUAGE_VALUES)} codes); a newly added code "
+            "may be reported as invalid"
+        )
     had_errors = False
 
     for path in args.paths:

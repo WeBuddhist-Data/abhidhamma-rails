@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 import unicodedata
 
+import durchen
 from constants import (
     LICENSE_VALUES, ROLE_VALUES, LANGUAGE_VALUES, LANGUAGE_NAME_MAP,
     LANGUAGE_CODE_TO_NAME, LANG_TAG_MAP,
@@ -88,6 +89,53 @@ def _assert_roman(text, field, items):
             f"{field}: Pali titles must be in Roman script; "
             f"non-Latin letters found: {''.join(bad)!r}",
         ))
+
+
+def _is_pali_key(key):
+    return isinstance(key, str) and key.split("-", 1)[0] == "pi"
+
+
+def _lang_key_base(key):
+    """The plain language code behind a title key.
+
+    A script-suffixed key ("sa-x-iast") is reduced to its base ("sa"), the
+    same way build.py normalizes it before upload.
+    """
+    if isinstance(key, str) and "-x-" in key:
+        return key.split("-x-", 1)[0]
+    return key
+
+
+def _check_lang_key(key, field, items):
+    """The key of a title / alt_titles entry must be a language code the API
+    knows (the list fetched from /v2/languages)."""
+    if not isinstance(key, str) or not key.strip():
+        items.append(("ERROR", f"{field}: language key must be a non-empty string"))
+        return
+    base = _lang_key_base(key)
+    if base not in LANGUAGE_VALUES:
+        name = LANGUAGE_CODE_TO_NAME.get(base)
+        items.append((
+            "ERROR",
+            f'{field}: "{key}" is not a valid language code'
+            + (f' (did you mean "{name}"?)' if name else "")
+            + f". Valid codes (from the languages API): {sorted(LANGUAGE_VALUES)}",
+        ))
+
+
+def _validate_title_lang_keys(data, items):
+    """Every language key used in title / alt_titles must be a known code."""
+    title = data.get("title")
+    if isinstance(title, dict):
+        for key in title:
+            _check_lang_key(key, f"title.{key}", items)
+
+    alt = data.get("alt_titles")
+    if isinstance(alt, list):
+        for i, item in enumerate(alt):
+            if isinstance(item, dict):
+                for key in item:
+                    _check_lang_key(key, f"alt_titles[{i}].{key}", items)
 
 
 def _validate_pali_roman_titles(data, items):
@@ -270,6 +318,23 @@ def _extract_ref(lines):
     return None
 
 
+def _glued_heading(lines):
+    """A heading must be a block of its own, with a blank line before and after
+    it. For a block that mixes a heading with any other line (text, a
+    transclusion, another heading), return (heading, neighbour, where) with
+    where 'after' or 'before' the heading; otherwise None. The parser would
+    lose something either way: text under a heading drops out of the edition,
+    and a heading under text or above a transclusion drops out of the TOC."""
+    rows = [l.strip() for l in lines if l.strip()]
+    heads = [i for i, l in enumerate(rows) if l.startswith('#')]
+    if len(rows) < 2 or not heads:
+        return None
+    h = heads[0]
+    if h + 1 < len(rows):
+        return rows[h], rows[h + 1], 'after'
+    return rows[h], rows[h - 1], 'before'
+
+
 def _validate_segmentation_refs(body, items):
     blocks = re.split(r'\n[ \t]*\n', body.strip())
     header_seen = {}
@@ -283,6 +348,17 @@ def _validate_segmentation_refs(body, items):
         lines = block.split('\n')
         content_lines = [l for l in lines if not TRANSCLUSION_RE.match(l)]
         if not any(l.strip() for l in content_lines):
+            continue
+        glued = _glued_heading(lines)
+        if glued:
+            head, other, where = glued
+            m = REF_RE.search(head)
+            name = m.group(1) if m else repr(head.lstrip('#').strip()[:40])
+            items.append(("ERROR",
+                f"header {name}: a heading must be a block of its own — {other[:50]!r} is on the "
+                f"line {where} it with no blank line between, and the parser would drop "
+                f"{'that text' if where == 'after' and not other.startswith(('#', '![[')) else 'the heading'}; "
+                f"add a blank line {where} the heading"))
             continue
         is_header = lines[0].lstrip().startswith('#')
         ref = _extract_ref(lines)
@@ -305,6 +381,184 @@ def _validate_segmentation_refs(body, items):
             bucket[ref] = block_num
 
 
+# Yigchung (small-script gloss) markup: <small>…</small>. The parser turns
+# each run into a yigchung annotation span, so a stray tag would put marks on
+# the wrong text. A run may continue onto the next line of the same block,
+# but never past the end of the block (or of a heading line).
+SMALL_TAG_RE = re.compile(r"<(/?)small>", re.IGNORECASE)
+
+
+def _tag_context(line, m, width=12):
+    """A short piece of the line around a tag, for messages."""
+    a, b = max(0, m.start() - width), min(len(line), m.end() + width)
+    return ("…" if a else "") + line[a:b] + ("…" if b < len(line) else "")
+
+
+def _validate_yigchung_tags(body, items):
+    """ERROR for every stray <small> / </small>: a </small> with no open run,
+    a <small> inside an open run, or a run not closed by the end of its block
+    (for a heading, by the end of the heading line)."""
+    blocks = re.split(r'\n[ \t]*\n', body.strip())
+    block_num = 0
+    for raw in blocks:
+        block = raw.strip()
+        if not block:
+            continue
+        block_num += 1
+        lines = [l.rstrip('\r') for l in block.split('\n')]
+        content_lines = [l for l in lines if not TRANSCLUSION_RE.match(l)]
+        if not any(l.strip() for l in content_lines):
+            continue
+        is_header = lines[0].lstrip().startswith('#')
+        kind = "header" if is_header else "segment"
+        ref = _extract_ref(lines)
+        where = f"{kind} {block_num}" + (f" ({ref})" if ref else "")
+        # A heading is one line; content may span several.
+        check_lines = [lines[0]] if is_header else content_lines
+        in_small = False
+        for n, line in enumerate(check_lines, start=1):
+            at = where if is_header else f"{where}, line {n}"
+            for m in SMALL_TAG_RE.finditer(line):
+                if not m.group(1):
+                    if in_small:
+                        items.append(("ERROR",
+                            f"{at}: stray <small> (a <small> run is already open): "
+                            f"{_tag_context(line, m)!r}"))
+                    in_small = True
+                else:
+                    if not in_small:
+                        items.append(("ERROR",
+                            f"{at}: stray </small> (no <small> is open): "
+                            f"{_tag_context(line, m)!r}"))
+                    in_small = False
+        if in_small:
+            end = "the heading line" if is_header else "the block"
+            items.append(("ERROR", f"{where}: stray <small> (not closed by the end of {end})"))
+
+
+# Durchen (variant-reading notes) are footnotes: a marker [^dN] right after the
+# text, a definition "[^dN]: lemma ༼sigla༽ variant" at the end of the file. The
+# parser makes one durchen per marker, spanning the lemma before it. Footnotes
+# [^fN] are only checked for a definition: they have a position, not a span,
+# so there is no lemma to place. The old bare [^N] is still read as a durchen.
+INLINE_MARK_RE = re.compile(
+    SMALL_TAG_RE.pattern + "|" + durchen.FOOTNOTE_MARK_RE.pattern, re.IGNORECASE
+)
+
+
+def _validate_durchens(body, notes, items):
+    """Check every footnote marker against its definition and the text before
+    it, building the edition content the way the parser does (headings and
+    transclusions left out, markup and block IDs dropped, lines joined)."""
+    parts, marks, pos = [], [], 0
+    blocks = re.split(r'\n[ \t]*\n', body.strip())
+    block_num = 0
+    for raw in blocks:
+        block = raw.strip()
+        if not block:
+            continue
+        block_num += 1
+        lines = [l.rstrip('\r') for l in block.split('\n')]
+        content_lines = [l for l in lines if not TRANSCLUSION_RE.match(l)]
+        if not any(l.strip() for l in content_lines):
+            continue
+        is_header = lines[0].lstrip().startswith('#')
+        ref = _extract_ref(lines)
+        if is_header:
+            labels = [m.group(1) for m in durchen.FOOTNOTE_MARK_RE.finditer(lines[0])]
+            for label in labels:
+                if durchen.kind(label) is not None:
+                    items.append(("WARN",
+                        f"header {block_num} ({ref}): footnote [^{label}] in a heading — headings "
+                        f"are not edition content, so it is not sent"))
+                marks.append({"label": label, "pos": None, "where": f"header {block_num}"})
+            continue
+        if not any(durchen.FOOTNOTE_MARK_RE.sub("", l).strip() for l in content_lines):
+            # Markers left on their own: they mark the end of the text before them.
+            for l in content_lines:
+                for m in durchen.FOOTNOTE_MARK_RE.finditer(l):
+                    marks.append({"label": m.group(1), "pos": pos, "where": f"segment {block_num}"})
+            continue
+        if ref is None or _ref_part_count(ref) > VERSE_REF_MAX_PARTS:
+            continue  # reported by _validate_segmentation_refs; the parser skips it
+        where = f"segment {block_num} ({ref})"
+        last = max(i for i, l in enumerate(content_lines) if l.strip())
+        for i, line in enumerate(content_lines):
+            out, line_marks, prev = [], [], 0
+            for m in INLINE_MARK_RE.finditer(line.rstrip()):
+                out.append(line[prev:m.start()])
+                prev = m.end()
+                if m.group(2) is not None:
+                    line_marks.append((sum(map(len, out)), m.group(2)))
+            out.append(line.rstrip()[prev:])
+            text = "".join(out)
+            if i == last:
+                idx = text.rfind(ref)
+                if idx != -1:
+                    text = text[:idx].rstrip()
+            for off, label in line_marks:
+                marks.append({"label": label, "pos": pos + min(off, len(text)), "where": where})
+            parts.append(text)
+            pos += len(text)
+
+    content = "".join(parts)
+    seen = set()
+    placed = placed_fn = 0
+    for mk in marks:
+        label, where = mk["label"], mk["where"]
+        k = durchen.kind(label)
+        if k is None:
+            items.append(("ERROR",
+                f"{where}: footnote [^{label}] — label must be [^dN] (durchen) or [^fN] (footnote)"))
+            continue
+        if label in seen:
+            items.append(("WARN",
+                f"{where}: footnote [^{label}] is marked more than once — one "
+                + ("footnote" if k == durchen.FOOTNOTE else "durchen") + " for each"))
+        seen.add(label)
+        note = notes.get(label)
+        if note is None:
+            items.append(("ERROR", f"{where}: footnote [^{label}] has no definition"))
+            continue
+        if k == durchen.FOOTNOTE:
+            # A footnote sits at the marker's position: no lemma, nothing to place.
+            placed_fn += mk["pos"] is not None and bool(note["text"])
+            continue
+        if mk["pos"] is None or not note["text"]:
+            continue
+        start, end, how = durchen.locate(content, mk["pos"], note["text"])
+        if how is None:
+            items.append(("ERROR",
+                f"{where}: footnote [^{label}] has no text before it to attach the durchen to"))
+            continue
+        placed += 1
+        if how == "mismatch":
+            items.append(("WARN",
+                f"{where}: footnote [^{label}] lemma {durchen.lemma_of(note['text'])!r} does not "
+                f"end at the marker — the durchen will span the syllable before it, "
+                f"{content[start:end]!r}"))
+        elif how == "no-lemma":
+            items.append(("WARN",
+                f"{where}: footnote [^{label}] has no ༼…༽ witness, so no lemma — the durchen "
+                f"will span the syllable before it, {content[start:end]!r}"))
+    for label, note in notes.items():
+        if label not in seen:
+            items.append(("WARN",
+                f"footnote [^{label}] (line {note['line']}) is defined but never marked in the "
+                f"text" + (" — not sent" if durchen.kind(label) is not None else "")))
+    for msg in durchen.layout_problems([mk["label"] for mk in marks], notes):
+        items.append(("WARN", msg))
+    fn_defs = [l for l in notes if durchen.kind(l) == durchen.FOOTNOTE]
+    legacy = [l for l in notes if durchen.kind(l) == durchen.LEGACY]
+    if notes or marks:
+        items.append(("INFO", f"durchens: {placed} from {len(notes) - len(fn_defs)} durchen "
+                              f"definition(s); footnotes: {placed_fn} from {len(fn_defs)} footnote "
+                              f"definition(s), placed by position"))
+    if legacy:
+        items.append(("INFO", f"{len(legacy)} footnote(s) still use the old bare label [^N], read "
+                              f"as durchens — relabel them to [^dN] / [^fN]"))
+
+
 def _extract_headers(body):
     headers = []
     for line in body.split('\n'):
@@ -318,6 +572,33 @@ def _extract_headers(body):
         text = text_with_ref[:m.start()].rstrip() if m else text_with_ref
         headers.append((level, text, ref))
     return headers
+
+
+def _validate_characters(body, items):
+    """Warn about characters a source should not contain: spaces other than the
+    plain space (U+00A0 …), invisible ones (zero-width space, BOM …) and line
+    breaks other than \\n. The parser normalises them, but the source should be
+    cleaned (4-SYSTEM/scripts/clean-whitespace/clean_whitespace.py)."""
+    found = {}
+    for line, name in durchen.odd_characters(body):
+        found.setdefault(name, []).append(line)
+    for name, lines in found.items():
+        where = ", ".join(map(str, sorted(set(lines))[:8])) + (" …" if len(set(lines)) > 8 else "")
+        breaks = {durchen.char_name(c) for c in durchen.LINE_BREAKS + "\r"}
+        effect = "the parser does not read it as a line break" if name in breaks else "the parser normalises it"
+        items.append(("WARN", f"{len(lines)} {name} in the source (body line {where}) — {effect}; "
+                              f"clean the source with clean-whitespace/clean_whitespace.py"))
+
+
+def _validate_witness_spacing(body, items):
+    """Warn about a footnote definition with no space before a witness bracket
+    ("…ནོ། །༼སྣར། པེ།༽" for "…ནོ། ། ༼སྣར། པེ།༽"): the convention is "lemma ༼witness༽ variant"."""
+    lines = [n for n, line in enumerate(body.splitlines(), 1)
+             if re.match(r"\[\^[^\]]+\]:", line) and re.search(r"\S༼", line.split(":", 1)[1])]
+    if lines:
+        where = ", ".join(map(str, lines[:8])) + (" …" if len(lines) > 8 else "")
+        items.append(("WARN", f"{len(lines)} footnote definition(s) with no space before ༼ (body line {where}); "
+                              f"fix with footnote-labels/space_before_witness.py"))
 
 
 def validate_edition(data, body):
@@ -357,7 +638,14 @@ def validate_edition(data, body):
     if not body or not body.strip():
         items.append(("ERROR", "content body is empty"))
     else:
+        _validate_characters(body, items)
+        _validate_witness_spacing(body, items)
+        # Footnote definitions are not edition blocks: take them out first.
+        body, notes, note_problems = durchen.split_definitions(body)
+        items.extend(note_problems)
         _validate_segmentation_refs(body, items)
+        _validate_yigchung_tags(body, items)
+        _validate_durchens(body, notes, items)
 
     return items
 
@@ -415,14 +703,12 @@ def validate_text_input(data):
         validate_nullable_string(commentary_of, "commentary_of", items)
         items.append(("INFO", f"commentary_of: {commentary_of!r}"))
     else:
-        items.append(("WARN",
-            "commentary_of: not set — resolve from root_text's text_id "
-            "(set text_id on the root text first)"))
+        items.append(("INFO", "commentary_of: not set (optional)"))
 
-    if not data.get("root_text"):
-        items.append(("ERROR", "root_text: required for file_type 'commentary'"))
-    else:
+    if data.get("root_text"):
         items.append(("INFO", f"root_text: {data['root_text']!r}"))
+    else:
+        items.append(("INFO", "root_text: not set (optional)"))
 
     title_val = data.get("title")
     if "title" not in data:
@@ -453,6 +739,7 @@ def validate_text_input(data):
         else:
             items.append(("ERROR", "alt_titles: expected string or list of strings"))
 
+    _validate_title_lang_keys(data, items)
     _validate_pali_roman_titles(data, items)
 
     vault_tag = data.get("lang_tag")
@@ -496,15 +783,24 @@ def validate_text_input(data):
             for i, item in enumerate(contribs):
                 validate_contribution(item, "contributions", i, items)
 
-    if "tag_ids" not in data:
+    # tag_ids: a list of tag ids, written "tag_ids: [id1, id2]" (a text can have several).
+    tag_ids = data.get("tag_ids")
+    if tag_ids is None:
         items.append(("INFO", "tag_ids: not set (optional)"))
+    elif not isinstance(tag_ids, list):
+        items.append(("ERROR", f"tag_ids: expected a list, got {tag_ids!r} — write it "
+                               f"tag_ids: [{tag_ids}], even for a single tag"))
     else:
-        tag_ids = data["tag_ids"]
-        if not isinstance(tag_ids, list):
-            items.append(("ERROR", "tag_ids: expected array"))
-        else:
-            for i, item in enumerate(tag_ids):
-                if not is_nonempty_string(item):
-                    items.append(("ERROR", f"tag_ids[{i}]: expected string with at least one character"))
+        for i, item in enumerate(tag_ids):
+            if not isinstance(item, str):
+                # YAML reads an unquoted id such as 123456, 1e5, yes or null as a
+                # number, boolean or null, not as a string.
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} was read as {type(item).__name__}, "
+                                       f"not a string — quote it: \"{item}\""))
+            elif not item.strip() or item != item.strip() or any(c.isspace() for c in item):
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} — an id has no spaces and is not empty"))
+        dupes = sorted({t for t in tag_ids if isinstance(t, str) and tag_ids.count(t) > 1})
+        if dupes:
+            items.append(("ERROR", f"tag_ids: listed more than once: {', '.join(dupes)}"))
 
     return items
