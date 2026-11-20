@@ -1,0 +1,40 @@
+{
+  "status": "error",
+  "source": "1-SOURCES/Translations/Khmer/km-2-buddhist_institute.md",
+  "validated_at": "2026-11-20T11:02:58.991793+00:00",
+  "error_count": 2,
+  "errors": [
+    "language: \"Khmer\" is not a valid language code or name. Valid codes: ['bo', 'en', 'fr', 'hi', 'i9', 'ja', 'lzh', 'mn', 'mr', 'ne', 'pi', 'ru', 'sa', 'th', 'vi', 'zh']. Valid names: ['chinese', 'classical chinese', 'english', 'french', 'hindi', 'i9138probe', 'japanese', 'marathi', 'mongolian', 'nepali', 'pali', 'russian', 'sanskrit', 'thai', 'tibetan', 'vietnamese']",
+    "lang_tag: \"km\" is not a known tag. Known: ['bo', 'en', 'fr', 'hi', 'i9', 'ja', 'lzh', 'mn', 'mr', 'ne', 'pi', 'ru', 'sa', 'th', 'vi', 'zh']"
+  ],
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-2.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://5000-years.org/kh/albums/1616'",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'Tipiṭaka Commission of the Buddhist Institute (ពុទ្ធសាសនបណ្ឌិត្យ) in Phnom Penh' has no [bdrc:ID] or [op:ID] — skipped"
+  ],
+  "resolved": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "km": "វិភង្គ"
+    },
+    "alt_titles": null,
+    "language": "Khmer",
+    "commentary_of": null,
+    "translation_of": "Bkcft6D0nQCPZNb4Kkuf4",
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "copyrighted",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
