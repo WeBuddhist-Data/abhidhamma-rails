@@ -1,7 +1,7 @@
 {
   "status": "error",
   "source": "1-SOURCES/Translations/Khmer/km-1-buddhist_institute.md",
-  "validated_at": "2026-11-20T11:02:58.353776+00:00",
+  "validated_at": "2026-11-20T11:12:19.864146+00:00",
   "error_count": 2,
   "errors": [
     "language: \"Khmer\" is not a valid language code or name. Valid codes: ['bo', 'en', 'fr', 'hi', 'i9', 'ja', 'lzh', 'mn', 'mr', 'ne', 'pi', 'ru', 'sa', 'th', 'vi', 'zh']. Valid names: ['chinese', 'classical chinese', 'english', 'french', 'hindi', 'i9138probe', 'japanese', 'marathi', 'mongolian', 'nepali', 'pali', 'russian', 'sanskrit', 'thai', 'tibetan', 'vietnamese']",

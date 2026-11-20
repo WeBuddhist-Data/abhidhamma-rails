@@ -14359,14 +14359,20 @@
           {
             "start": 392358,
             "end": 393108
-          },
+          }
+        ],
+        "type": "verse",
+        "reference": "1-1238"
+      },
+      {
+        "lines": [
           {
             "start": 393108,
             "end": 393395
           }
         ],
         "type": "verse",
-        "reference": "1-1238"
+        "reference": "1-1239"
       },
       {
         "lines": [
