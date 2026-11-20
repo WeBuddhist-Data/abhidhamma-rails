@@ -1,0 +1,47 @@
+# Termbase alignment to the reviewed pi-2 Vietnamese rails text (2026-11-20): review fixes (rails/review-fixes-log.tsv, rails/review-fixes-notes.md) and user decisions 2026-11-19 / 2026-11-20. Terms as the reviewed text has them, in citation form; only senses used by changed segments alone.
+ābhilāpe|0	ngôn từ dùng để diễn đạt	review r5 A11 (dhammaniruttābhilāpe «ngôn từ dùng để diễn đạt các hiện tượng»): ^2-718 … ^2-745, ^2-800 (29)
+paññatti|0	sự gọi tên	review r5 A12 (aṭṭhakathā: naming): ^2-725 … ^2-745 (21)
+dhammānaṃ paññatti|0	sự gọi tên những hiện tượng	review r5 A12 («sự gọi tên những hiện tượng ấy»): ^2-725 … ^2-745 (21)
+ñāṇavatthu|0	loại hiểu biết	user decision 2026-11-20 (decision 4): ^2-751 … ^2-760, ^2-766, ^2-767, ^2-792, ^2-803 … ^2-808 (19)
+adhimuccitvā|0	sau khi trải rộng trọn vẹn	review r4 (aṭṭhakathā suppasāritaṃ suvitthataṃ): ^2-645, 651, 655, 661, 665, 671, 675, 681
+pharitvā adhimuccitvā|0	sau khi lan tỏa khắp sau khi trải rộng trọn vẹn	review r4, text «sau khi lan tỏa khắp, sau khi trải rộng trọn vẹn» (comma dropped as before): same 8 segments
+adaṭṭhukamyatā|0	sự mong muốn không nhìn	user decision 2026-11-20 (decision 5): ^2-934
+asamāgantukamyatā|0	sự mong muốn không hội họp	user decision 2026-11-20 (decision 5), text «sự mong muốn không hội họp với các bậc thánh»: ^2-934
+asotukamyatā|0	sự mong muốn không nghe	user decision 2026-11-20 (decision 5): ^2-17-4-52-0, ^2-834, ^2-U26
+asavanakamyatā|0	sự mong muốn không lắng nghe	user decision 2026-11-20 (decision 5): ^2-U26
+anuggahetukamyatā|0	sự mong muốn không học hỏi	user decision 2026-11-20 (decision 5): ^2-U26
+adhāretukamyatā|0	sự mong muốn không ghi nhớ	user decision 2026-11-20 (decision 5): ^2-U26
+cāṭukamyatā|0	sự mong muốn nịnh bợ	user decision 2026-11-20 (decision 5): ^2-862
+samāpattiṃ|0	thành tựu thiền	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-602, ^2-619, ^2-767
+samāpattīsu|0	thành tựu thiền	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-759, ^2-808
+samāpattīnaṃ|0	thành tựu thiền	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-760, ^2-828
+Rūpāvacarārūpāvacarasamāpattiṃ|0	thành tựu thiền thuộc cõi hình sắc và cõi không hình sắc	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-770
+saṅkhārāvasesasamāpattiṃ|0	thành tựu thiền trong đó các sự tạo tác chỉ còn sót lại	user 2026-11-19 samāpatti (family) and review r4: ^2-619
+ākāsānañcāyatanasamāpattiyā|0	thành tựu thiền của lĩnh vực không gian vô tận	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-808
+viññāṇañcāyatanasamāpattiyā|0	thành tựu thiền của lĩnh vực thức vô tận	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-808
+ākiñcaññāyatanasamāpattiyā|0	thành tựu thiền của lĩnh vực không có gì cả	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-808
+nevasaññānāsaññāyatanasamāpattiyā|0	thành tựu thiền của lĩnh vực không phải tri giác cũng không phải không tri giác	user 2026-11-19 samāpatti «thành tựu thiền» (family): ^2-808
+samāgamo|0	sự hội tụ	review r3 (samāgamo «sự hội tụ», decision 14): ^2-199
+asamāgamo|0	sự không hội tụ	review r3 (decision 14): ^2-200
+uppalaka|0	bứt tim	review r2 (aṭṭhakathā: winds that wrench the heart), text «gió như bứt tim»: ^2-176
+kāḷa|0	mây đen	review r2 (aṭṭhakathā: winds among black clouds), text «gió mây đen»: ^2-176
+nimitte|0	môi trên	review r4 (mukhanimitte = the upper lip, aṭṭhakathā): ^2-537
+mokkhaṃ|0	điều cao nhất	user decision 2026-11-19 (3: ^2-511 mokkhaṃ pāmokkhaṃ 'chief, foremost', own wording at the rails step); text «điều cao nhất, điều đứng đầu»: ^2-511
+payirupāsati|0	thân cận	review r5 A10 («gần gũi, kết giao, thân cận»): ^2-514
+payirupāsanti|0	thân cận	review r5 A10: ^2-813, ^2-818
+payirupāsiṃsu|0	đã thân cận	review r5 A10: ^2-813, ^2-818
+bhajanti|0	kết giao	review r5 A10: ^2-813, ^2-818
+bhajiṃsu|0	đã kết giao	review r5 A10: ^2-813, ^2-818
+attha|1	kết quả	review r5 A5 (aṭṭhakathā: attha = result; atthajāpikā / jāpitatthā only): ^2-752, ^2-767
+Atthajāpikā paññā|0	trí tuệ tạo ra kết quả	review r5 A5: ^2-752, ^2-767
+jāpitatthā paññā|0	trí tuệ có kết quả đã được tạo ra	review r5 A5: ^2-752, ^2-767
+yoga|2	trí tuệ	review r5 A13 (yogavihita, aṭṭhakathā: yogo = paññā), text «được tạo dựng bằng trí tuệ»: ^2-768
+sasaṅkhāra|0	gắng sức	review r5 A14 (aṭṭhakathā: effort): ^2-804
+niggayha|0	đè nén	review r5 A14: ^2-804
+sasaṅkhāraniggayhavāritagato|0	đạt được bằng cách gắng sức đè nén ngăn chặn	review r5 A14, text «đạt được bằng cách gắng sức đè nén, ngăn chặn» (comma dropped): ^2-804
+visuddhiyā|0	đã được thanh lọc	review r5 A15, text «sự hiểu biết của yếu tố tai đã được thanh lọc»: ^2-805
+upādāya|2	xét theo	review r5 A9 (decision 2 context), text «thì, xét theo đó, chính chúng là …»: ^2-809
+bhogaṃ|0	tài sản	review r6 (as bhogamado, bhoga «tài sản»): ^2-844
+vaṇṇaṃ|0	vẻ đẹp	review r6 (as vaṇṇamado, vaṇṇa «vẻ đẹp»): ^2-844
+jeṭṭhe|0	anh cả	review r6 (jeṭṭhe vā bhātari vā = the elder brother, one item «anh cả»): ^2-855
+bhātari|0	anh cả	review r6 (jeṭṭhe vā bhātari vā, one item «anh cả»): ^2-855

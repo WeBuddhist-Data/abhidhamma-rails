@@ -1,0 +1,179 @@
+### Phân tích các trạng thái không thể đo lường ^2-13-0
+
+#### Phân tích theo kinh ^2-13-1-0
+
+Bốn trạng thái không thể đo lường – ở đời này, vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có lòng từ ái đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư [khác chính tả (Sī.): catutthiṃ]. Như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có lòng từ ái đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn [khác chính tả (Sī., Syā.): abyāpajjhena]. Vị ấy an trú sau khi lan tỏa khắp một phương với tâm có lòng trắc ẩn đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có lòng trắc ẩn đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn. Vị ấy an trú sau khi lan tỏa khắp một phương với tâm có niềm vui đồng cảm đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có niềm vui đồng cảm đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn. Vị ấy an trú sau khi lan tỏa khắp một phương với tâm có sự bình thản đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có sự bình thản đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn. ^2-642
+
+##### Lòng từ ái ^2-13-1-1-0
+
+Và vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có lòng từ ái đi kèm như thế nào? Giống như khi thấy một người đáng yêu quý, đáng ưa thích, người ta sẽ khởi lòng từ ái, cũng vậy, vị ấy lan tỏa khắp tất cả chúng sinh bằng lòng từ ái.
+Ở đây, lòng từ ái là gì? Điều mà là lòng từ ái đối với chúng sinh, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí, tấm lòng, sự sáng ngời, ý, lĩnh vực ý, năng lực ý, thức, khối thức, yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có lòng từ ái này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có lòng từ ái đi kèm”. ^2-643
+
+“Một phương”: hoặc phương đông, hoặc phương tây, hoặc phương bắc, hoặc phương nam, hoặc phía trên, hoặc phía dưới, hoặc chiều ngang, hoặc phương trung gian. ^2-644
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-645
+
+“An trú”: vị ấy vận động, tiến triển, gìn giữ, tiếp diễn, kéo dài, đi lại, an trú. Vì thế nên mới nói rằng “an trú”. ^2-646
+
+“Cũng vậy phương thứ hai”: giống như một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, cũng vậy phía trên, cũng vậy phía dưới, cũng vậy chiều ngang, cũng vậy phương trung gian. ^2-647
+
+“Khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”: một cách toàn bộ, về mọi mặt, trọn vẹn, không thiếu sót, không sót lại gì. Đây là cách nói bao hàm tất cả – “khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”. ^2-648
+
+“Với tâm có lòng từ ái đi kèm”: ở đây, lòng từ ái là gì? Điều mà là lòng từ ái đối với chúng sinh, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có lòng từ ái này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có lòng từ ái đi kèm”. ^2-649
+
+“Rộng rãi”: điều gì rộng rãi thì điều ấy rộng lớn, điều gì rộng lớn thì điều ấy không thể đo lường, điều gì không thể đo lường thì điều ấy không thù địch, điều gì không thù địch thì điều ấy không thù hằn [khác chính tả (Sī., Syā.): abyāpajjho]. ^2-650
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-651
+
+“An trú”… vì thế nên mới nói rằng “an trú”. ^2-652
+
+##### Lòng trắc ẩn ^2-13-1-2-0
+
+Và vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có lòng trắc ẩn đi kèm như thế nào? Giống như khi thấy một người khốn khổ, bất hạnh, người ta sẽ khởi lòng trắc ẩn, cũng vậy, vị ấy lan tỏa khắp tất cả chúng sinh bằng lòng trắc ẩn.
+Ở đây, lòng trắc ẩn là gì? Điều mà là lòng trắc ẩn đối với chúng sinh, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có lòng trắc ẩn này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có lòng trắc ẩn đi kèm”. ^2-653
+
+“Một phương”: hoặc phương đông, hoặc phương tây, hoặc phương bắc, hoặc phương nam, hoặc phía trên, hoặc phía dưới, hoặc chiều ngang, hoặc phương trung gian. ^2-654
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-655
+
+“An trú”: vị ấy vận động, tiến triển, gìn giữ, tiếp diễn, kéo dài, đi lại, an trú. Vì thế nên mới nói rằng “an trú”. ^2-656
+
+“Cũng vậy phương thứ hai”: giống như một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, cũng vậy phía trên, cũng vậy phía dưới, cũng vậy chiều ngang, cũng vậy phương trung gian. ^2-657
+
+“Khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”: một cách toàn bộ, về mọi mặt, trọn vẹn, không thiếu sót, không sót lại gì. Đây là cách nói bao hàm tất cả – “khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”. ^2-658
+
+“Với tâm có lòng trắc ẩn đi kèm”: ở đây, lòng trắc ẩn là gì? Điều mà là lòng trắc ẩn đối với chúng sinh, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có lòng trắc ẩn này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có lòng trắc ẩn đi kèm”. ^2-659
+
+“Rộng rãi”: điều gì rộng rãi thì điều ấy rộng lớn, điều gì rộng lớn thì điều ấy không thể đo lường, điều gì không thể đo lường thì điều ấy không thù địch, điều gì không thù địch thì điều ấy không thù hằn. ^2-660
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-661
+
+“An trú”… vì thế nên mới nói rằng “an trú”. ^2-662
+
+##### Niềm vui đồng cảm ^2-13-1-3-0
+
+Và vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có niềm vui đồng cảm đi kèm như thế nào? Giống như khi thấy một người đáng yêu quý, đáng ưa thích, người ta sẽ vui mừng, cũng vậy, vị ấy lan tỏa khắp tất cả chúng sinh bằng niềm vui đồng cảm.
+Ở đây, niềm vui đồng cảm là gì? Điều mà là niềm vui đồng cảm đối với chúng sinh, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có niềm vui đồng cảm này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có niềm vui đồng cảm đi kèm”. ^2-663
+
+“Một phương”: hoặc phương đông, hoặc phương tây, hoặc phương bắc, hoặc phương nam, hoặc phía trên, hoặc phía dưới, hoặc chiều ngang, hoặc phương trung gian. ^2-664
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-665
+
+“An trú”… vì thế nên mới nói rằng “an trú”. ^2-666
+
+“Cũng vậy phương thứ hai”: giống như một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, cũng vậy phía trên, cũng vậy phía dưới, cũng vậy chiều ngang, cũng vậy phương trung gian. ^2-667
+
+“Khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”: một cách toàn bộ, về mọi mặt, trọn vẹn, không thiếu sót, không sót lại gì. Đây là cách nói bao hàm tất cả – “khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”. ^2-668
+
+“Với tâm có niềm vui đồng cảm đi kèm”: ở đây, niềm vui đồng cảm là gì? Điều mà là niềm vui đồng cảm đối với chúng sinh, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có niềm vui đồng cảm này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có niềm vui đồng cảm đi kèm”. ^2-669
+
+“Rộng rãi”: điều gì rộng rãi thì điều ấy rộng lớn, điều gì rộng lớn thì điều ấy không thể đo lường, điều gì không thể đo lường thì điều ấy không thù địch, điều gì không thù địch thì điều ấy không thù hằn. ^2-670
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-671
+
+“An trú”… vì thế nên mới nói rằng “an trú”. ^2-672
+
+##### Sự bình thản ^2-13-1-4-0
+
+Và vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có sự bình thản đi kèm như thế nào? Giống như khi thấy một người không đáng ưa thích cũng không phải không đáng ưa thích, người ta sẽ bình thản, cũng vậy, vị ấy lan tỏa khắp tất cả chúng sinh bằng sự bình thản.
+Ở đây, sự bình thản là gì? Điều mà là sự bình thản đối với chúng sinh, sự khởi bình thản, trạng thái khởi bình thản, sự giải thoát của tâm nhờ sự bình thản – đó được gọi là “sự bình thản”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có sự bình thản này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có sự bình thản đi kèm”. ^2-673
+
+“Một phương”: hoặc phương đông, hoặc phương tây, hoặc phương bắc, hoặc phương nam, hoặc phía trên, hoặc phía dưới, hoặc chiều ngang, hoặc phương trung gian. ^2-674
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-675
+
+“An trú”… vì thế nên mới nói rằng “an trú”. ^2-676
+
+“Cũng vậy phương thứ hai”: giống như một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, cũng vậy phía trên, cũng vậy phía dưới, cũng vậy chiều ngang, cũng vậy phương trung gian. ^2-677
+
+“Khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”: một cách toàn bộ, về mọi mặt, trọn vẹn, không thiếu sót, không sót lại gì. Đây là cách nói bao hàm tất cả – “khắp mọi nơi, đối với tất cả như đối với chính mình, toàn thể thế gian”. ^2-678
+
+“Với tâm có sự bình thản đi kèm”: ở đây, sự bình thản là gì? Điều mà là sự bình thản đối với chúng sinh, sự khởi bình thản, trạng thái khởi bình thản, sự giải thoát của tâm nhờ sự bình thản – đó được gọi là “sự bình thản”.
+Ở đây, tâm là gì? Điều mà là tâm, ý, tâm trí… yếu tố ý thức tương ứng – đó được gọi là “tâm”. Tâm này có sự bình thản này đi kèm, cùng sinh với nó, hòa lẫn với nó, gắn liền với nó. Vì thế nên mới nói rằng “với tâm có sự bình thản đi kèm”. ^2-679
+
+“Rộng rãi”: điều gì rộng rãi thì điều ấy rộng lớn, điều gì rộng lớn thì điều ấy không thể đo lường, điều gì không thể đo lường thì điều ấy không thù địch, điều gì không thù địch thì điều ấy không thù hằn. ^2-680
+
+“Sau khi lan tỏa khắp”: sau khi lan tỏa khắp, sau khi quyết định. ^2-681
+
+“An trú”… vì thế nên mới nói rằng “an trú”.
+Phân tích theo kinh. ^2-682
+
+#### Phân tích theo Vi Diệu Pháp ^2-13-2-0
+
+Bốn trạng thái không thể đo lường – lòng từ ái, lòng trắc ẩn, niềm vui đồng cảm và sự bình thản. ^2-683
+
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ hai, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ ba, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái. ^2-684
+
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc, tách khỏi các hiện tượng bất thiện, chứng nhập và an trú tầng thiền thứ hai, không có sự hướng tâm, chỉ có sự duy trì tâm, có sự hân hoan và hạnh phúc sinh từ sự tách biệt, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ ba, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ tư, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái. ^2-685
+
+Ở đây, lòng trắc ẩn là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đây, lòng trắc ẩn là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ hai, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đây, lòng trắc ẩn là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ ba, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn. ^2-686
+
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc, tách khỏi các hiện tượng bất thiện, chứng nhập và an trú tầng thiền thứ hai, không có sự hướng tâm, chỉ có sự duy trì tâm, có sự hân hoan và hạnh phúc sinh từ sự tách biệt, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ ba, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ tư, có lòng trắc ẩn đi kèm, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn. ^2-687
+
+Ở đây, niềm vui đồng cảm là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đây, niềm vui đồng cảm là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ hai, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đây, niềm vui đồng cảm là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ ba, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm. ^2-688
+
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc, tách khỏi các hiện tượng bất thiện, chứng nhập và an trú tầng thiền thứ hai, không có sự hướng tâm, chỉ có sự duy trì tâm, có sự hân hoan và hạnh phúc sinh từ sự tách biệt, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ ba, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hân hoan phai nhạt… chứng nhập và an trú tầng thiền thứ tư, có niềm vui đồng cảm đi kèm, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm. ^2-689
+
+Ở đây, sự bình thản là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ dứt bỏ sự dễ chịu… chứng nhập và an trú tầng thiền thứ tư, có sự bình thản đi kèm, thì điều mà vào lúc ấy là sự bình thản, sự khởi bình thản, trạng thái khởi bình thản, sự giải thoát của tâm nhờ sự bình thản – đó được gọi là “sự bình thản”. Các hiện tượng còn lại gắn liền với sự bình thản. ^2-690
+
+Bốn trạng thái không thể đo lường – lòng từ ái, lòng trắc ẩn, niềm vui đồng cảm và sự bình thản. ^2-691
+
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng từ ái đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng từ ái đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ hai, có lòng từ ái đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người nhờ sự hướng tâm và sự duy trì tâm lắng xuống… tầng thiền thứ hai… tầng thiền thứ ba… tầng thiền thứ nhất… tầng thiền thứ hai… tầng thiền thứ ba… chứng nhập và an trú tầng thiền thứ tư, có lòng từ ái đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái. ^2-692
+
+Ở đây, lòng trắc ẩn là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng trắc ẩn đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng trắc ẩn đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn.
+Ở đây, lòng trắc ẩn là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ hai, có lòng trắc ẩn đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người nhờ sự hướng tâm và sự duy trì tâm lắng xuống… tầng thiền thứ hai… tầng thiền thứ ba… tầng thiền thứ nhất… tầng thiền thứ hai… tầng thiền thứ ba… chứng nhập và an trú tầng thiền thứ tư, có lòng trắc ẩn đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là lòng trắc ẩn, sự khởi lòng trắc ẩn, trạng thái khởi lòng trắc ẩn, sự giải thoát của tâm nhờ lòng trắc ẩn – đó được gọi là “lòng trắc ẩn”. Các hiện tượng còn lại gắn liền với lòng trắc ẩn. ^2-693
+
+Ở đây, niềm vui đồng cảm là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có niềm vui đồng cảm đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có niềm vui đồng cảm đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm.
+Ở đây, niềm vui đồng cảm là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… chứng nhập và an trú tầng thiền thứ hai, có niềm vui đồng cảm đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người nhờ sự hướng tâm và sự duy trì tâm lắng xuống… tầng thiền thứ hai… tầng thiền thứ ba… tầng thiền thứ nhất… tầng thiền thứ hai… tầng thiền thứ ba… chứng nhập và an trú tầng thiền thứ tư, có niềm vui đồng cảm đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là niềm vui đồng cảm, sự khởi niềm vui đồng cảm, trạng thái khởi niềm vui đồng cảm, sự giải thoát của tâm nhờ niềm vui đồng cảm – đó được gọi là “niềm vui đồng cảm”. Các hiện tượng còn lại gắn liền với niềm vui đồng cảm. ^2-694
+
+Ở đây, sự bình thản là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập con đường dẫn đến tái sinh vào cõi hình sắc, nhờ dứt bỏ sự dễ chịu… chứng nhập và an trú tầng thiền thứ tư, có sự bình thản đi kèm, thì vào lúc ấy có sự tiếp xúc… có sự không tán loạn. Những hiện tượng này là thiện. Còn khi một người nhờ dứt bỏ sự dễ chịu và dứt bỏ sự khó chịu… chứng nhập và an trú tầng thiền thứ tư, có sự bình thản đi kèm, là quả của chính nghiệp thiện thuộc cõi hình sắc ấy đã được tạo và tích lũy, thì điều mà vào lúc ấy là sự bình thản, sự khởi bình thản, trạng thái khởi bình thản, sự giải thoát của tâm nhờ sự bình thản – đó được gọi là “sự bình thản”. Các hiện tượng còn lại gắn liền với sự bình thản. ^2-695
+
+Bốn trạng thái không thể đo lường – lòng từ ái, lòng trắc ẩn, niềm vui đồng cảm và sự bình thản. ^2-696
+
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập tầng thiền thuộc cõi hình sắc, mang tính chức năng, không phải thiện, không phải bất thiện, cũng không phải quả của nghiệp, để an trú trong hạnh phúc ngay trong đời này, hoàn toàn tách khỏi các dục lạc… chứng nhập và an trú tầng thiền thứ nhất, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái.
+Ở đây, lòng từ ái là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập tầng thiền thuộc cõi hình sắc, mang tính chức năng, không phải thiện, không phải bất thiện, cũng không phải quả của nghiệp, để an trú trong hạnh phúc ngay trong đời này, nhờ sự hướng tâm và sự duy trì tâm lắng xuống… tầng thiền thứ hai… tầng thiền thứ ba… tầng thiền thứ nhất… tầng thiền thứ hai… tầng thiền thứ ba… chứng nhập và an trú tầng thiền thứ tư, có lòng từ ái đi kèm, thì điều mà vào lúc ấy là lòng từ ái, sự khởi lòng từ ái, trạng thái khởi lòng từ ái, sự giải thoát của tâm nhờ lòng từ ái – đó được gọi là “lòng từ ái”. Các hiện tượng còn lại gắn liền với lòng từ ái. ^2-697
+
+Ở đây, lòng trắc ẩn là gì… ở đây, niềm vui đồng cảm là gì… ở đây, sự bình thản là gì? Ở đời này, vào lúc vị tỳ-khưu tu tập tầng thiền thuộc cõi hình sắc, mang tính chức năng, không phải thiện, không phải bất thiện, cũng không phải quả của nghiệp, để an trú trong hạnh phúc ngay trong đời này, nhờ dứt bỏ sự dễ chịu và dứt bỏ sự khó chịu… chứng nhập và an trú tầng thiền thứ tư, có sự bình thản đi kèm, thì điều mà vào lúc ấy là sự bình thản, sự khởi bình thản, trạng thái khởi bình thản, sự giải thoát của tâm nhờ sự bình thản – đó được gọi là “sự bình thản”. Các hiện tượng còn lại gắn liền với sự bình thản.
+Phân tích theo Vi Diệu Pháp. ^2-698
+
+#### Phần hỏi đáp ^2-13-3-0
+
+Bốn trạng thái không thể đo lường – ở đời này, vị tỳ-khưu an trú sau khi lan tỏa khắp một phương với tâm có lòng từ ái đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có lòng từ ái đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn; vị ấy an trú sau khi lan tỏa khắp một phương với tâm có lòng trắc ẩn đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có lòng trắc ẩn đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn; vị ấy an trú sau khi lan tỏa khắp một phương với tâm có niềm vui đồng cảm đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có niềm vui đồng cảm đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn; vị ấy an trú sau khi lan tỏa khắp một phương với tâm có sự bình thản đi kèm, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư, như vậy, phía trên, phía dưới, chiều ngang, khắp mọi nơi, đối với tất cả như đối với chính mình, vị ấy an trú sau khi lan tỏa khắp toàn thể thế gian với tâm có sự bình thản đi kèm, rộng rãi, rộng lớn, không thể đo lường, không thù địch, không thù hằn. ^2-699
+
+Trong bốn trạng thái không thể đo lường, bao nhiêu trạng thái không thể đo lường thiện, bao nhiêu trạng thái không thể đo lường bất thiện, bao nhiêu trạng thái không thể đo lường không xác định về mặt đạo đức… bao nhiêu trạng thái không thể đo lường có xung đột, bao nhiêu trạng thái không thể đo lường không có xung đột? ^2-700
+
+##### Bộ ba ^2-13-3-1-0
+
+Đôi khi thiện, đôi khi không xác định về mặt đạo đức. Ba trạng thái không thể đo lường gắn liền với cảm giác dễ chịu, sự bình thản thì gắn liền với cảm giác không khó chịu cũng không dễ chịu. Đôi khi là quả của nghiệp, đôi khi có khả năng sinh ra quả, đôi khi không phải là quả của nghiệp cũng không có khả năng sinh ra quả. Đôi khi do nghiệp tạo ra và là đối tượng của sự bám víu, đôi khi không do nghiệp tạo ra nhưng là đối tượng của sự bám víu. Không bị phiền não làm vẩn đục nhưng là đối tượng của phiền não. Ba trạng thái không thể đo lường đôi khi có sự hướng tâm và sự duy trì tâm, đôi khi không có sự hướng tâm, chỉ có sự duy trì tâm, đôi khi không có sự hướng tâm cũng không có sự duy trì tâm; sự bình thản thì không có sự hướng tâm cũng không có sự duy trì tâm. Ba trạng thái không thể đo lường đôi khi có sự hân hoan đi kèm, đôi khi có hạnh phúc đi kèm, không có sự bình thản đi kèm, đôi khi không nên nói rằng có sự hân hoan đi kèm; sự bình thản thì có sự bình thản đi kèm. Không cần dứt bỏ bằng sự thấy chân lý cũng không cần dứt bỏ bằng sự tu tập. Không có gốc rễ nào cần dứt bỏ bằng sự thấy chân lý, cũng không có gốc rễ nào cần dứt bỏ bằng sự tu tập. Đôi khi dẫn đến sự tích lũy, đôi khi không dẫn đến sự tích lũy cũng không dẫn đến sự giảm trừ, không thuộc về người còn đang tu học cũng không thuộc về người đã hoàn tất tu học, rộng lớn, không nên nói rằng có đối tượng hạn hẹp, hay rằng có đối tượng rộng lớn, hay rằng có đối tượng không thể đo lường. Trung bình, không cố định, không nên nói rằng lấy con đường làm đối tượng, hay rằng lấy con đường làm gốc rễ, hay rằng lấy con đường làm yếu tố chủ đạo. Đôi khi đã sinh khởi, đôi khi chưa sinh khởi, đôi khi sẽ sinh khởi. Đôi khi thuộc quá khứ, đôi khi thuộc tương lai, đôi khi thuộc hiện tại. Không nên nói rằng có đối tượng thuộc quá khứ, hay rằng có đối tượng thuộc tương lai, hay rằng có đối tượng thuộc hiện tại. Đôi khi ở nơi bản thân, đôi khi ở bên ngoài bản thân, đôi khi ở nơi bản thân và ở bên ngoài bản thân, có đối tượng ở bên ngoài bản thân, không thấy được và không có tính va chạm. ^2-701
+
+##### Bộ đôi ^2-13-3-2-0
+
+Lòng từ ái là gốc rễ, ba trạng thái không thể đo lường không phải là gốc rễ, có gốc rễ, gắn liền với gốc rễ. Lòng từ ái thì vừa là gốc rễ vừa có gốc rễ; ba trạng thái không thể đo lường thì không nên nói rằng vừa là gốc rễ vừa có gốc rễ, mà có gốc rễ nhưng không phải là gốc rễ. Lòng từ ái thì vừa là gốc rễ vừa gắn liền với gốc rễ; ba trạng thái không thể đo lường thì không nên nói rằng vừa là gốc rễ vừa gắn liền với gốc rễ, mà gắn liền với gốc rễ nhưng không phải là gốc rễ. Ba trạng thái không thể đo lường không phải là gốc rễ nhưng có gốc rễ; lòng từ ái thì không nên nói rằng không phải là gốc rễ nhưng có gốc rễ, hay rằng không phải là gốc rễ và không có gốc rễ.
+Có điều kiện, do điều kiện tạo thành, không thấy được, không có tính va chạm, phi vật chất, thuộc thế gian, là những hiện tượng mà một loại thức nào đó có thể nhận biết, còn một loại thức nào đó không thể nhận biết, không phải là ô nhiễm, là đối tượng của ô nhiễm, không gắn liền với ô nhiễm, không nên nói rằng vừa là ô nhiễm vừa là đối tượng của ô nhiễm, mà là đối tượng của ô nhiễm nhưng không phải là ô nhiễm, không nên nói rằng vừa là ô nhiễm vừa gắn liền với ô nhiễm, hay rằng gắn liền với ô nhiễm nhưng không phải là ô nhiễm. Không gắn liền với ô nhiễm nhưng là đối tượng của ô nhiễm.
+Không phải là xiềng xích… không phải là nút thắt… không phải là dòng lũ… không phải là ách… không phải là chướng ngại… không phải là sự hiểu sai lệch… có đối tượng, không phải là tâm, là yếu tố đồng hành với tâm, gắn liền với tâm, hòa lẫn với tâm, do tâm sinh ra, cùng tồn tại với tâm, vận hành theo tâm, vừa hòa lẫn với tâm vừa do tâm sinh ra, vừa hòa lẫn với tâm vừa do tâm sinh ra vừa cùng tồn tại với tâm, vừa hòa lẫn với tâm vừa do tâm sinh ra vừa vận hành theo tâm, thuộc phần bên ngoài, không phải là phái sinh, đôi khi do nghiệp tạo ra, đôi khi không do nghiệp tạo ra.
+Không phải là sự bám víu… không phải là phiền não… không cần dứt bỏ bằng sự thấy chân lý, không cần dứt bỏ bằng sự tu tập, không có gốc rễ nào cần dứt bỏ bằng sự thấy chân lý, không có gốc rễ nào cần dứt bỏ bằng sự tu tập. Ba trạng thái không thể đo lường đôi khi có sự hướng tâm, đôi khi không có sự hướng tâm; sự bình thản thì không có sự hướng tâm. Ba trạng thái không thể đo lường đôi khi có sự duy trì tâm, đôi khi không có sự duy trì tâm; sự bình thản thì không có sự duy trì tâm. Ba trạng thái không thể đo lường đôi khi có sự hân hoan, đôi khi không có sự hân hoan; sự bình thản thì không có sự hân hoan. Ba trạng thái không thể đo lường đôi khi có sự hân hoan đi kèm, đôi khi không có sự hân hoan đi kèm; sự bình thản thì không có sự hân hoan đi kèm. Ba trạng thái không thể đo lường có hạnh phúc đi kèm, sự bình thản thì không có hạnh phúc đi kèm. Sự bình thản thì có sự bình thản đi kèm, ba trạng thái không thể đo lường không có sự bình thản đi kèm, không thuộc cõi dục lạc, thuộc cõi hình sắc, không thuộc cõi không hình sắc, nằm trong các cõi tồn tại, không dẫn đến giải thoát, không cố định, còn có điều cao hơn, không có xung đột.
+Phần hỏi đáp.
+Phân tích các trạng thái không thể đo lường đã hoàn tất. ^2-702

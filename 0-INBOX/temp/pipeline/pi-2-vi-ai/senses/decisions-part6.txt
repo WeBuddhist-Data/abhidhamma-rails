@@ -1,0 +1,636 @@
+# pi-2 (Vibhaṅga) Pāli→Vietnamese senses, part 6 (agg-part6.tsv, 622 headwords).
+# Hand-written tag table. Tags: the approved pi-1 Vietnamese tag where pi-2 has the same headword in the same sense
+# with the same Vietnamese value and the pi-1 context occurs in pi-2 ([pi-1 vi]); otherwise the approved pi-2 Russian tag.
+# Russian tag used instead of pi-1 where the pi-1 sense/context does not occur here: suttaṃ (pi-1 'thread'), maggesu
+# (pi-2 has the four paths), ārammaṇāni, vihāra (anupubbavihāra, not brahmavihāra), vijjā, khanti, manasikārā, caritaṃ, ārabbha.
+# Splits (checked with show): attha ý nghĩa / lợi ích (atthajāpikā); phale thành quả (path fruit) / quả (hetuphale);
+# Jātiyā sự sinh / xuất thân (conceit by birth); suta đã nghe, sự lắng nghe / sự học hỏi (sutamada); ṭhānaṃ vị trí / đứng;
+# abhiññā hiểu biết trực tiếp (absolutive) / cần được hiểu biết trực tiếp (summary verse 2-1044).
+# Merged (one expression or synonyms): Uppanna, mattā, paṭilabhati, Dānaṃ, khippaṃ, dandhaṃ, paccavekkhaṇā, gatiṃ,
+# amanāpo, puthujjano, deva; arahato / arahanto «bậc» / «vị» A-la-hán (classifier variants; combined tag for the two Russian senses).
+# Family adaptations: ṭhitibhāginī «duy trì» = persistence (part 3 ṭhiti); anāsavā / asaṃkilesikā paññā take the
+# anāsavaṃ / asaṃkilesikā wording; Ekakaṃ, Pañcakaṃ … Navakaṃ = closing labels «phân loại theo nhóm N» (sample tag);
+# sukho / sukhato «hạnh phúc» = happiness; kusale «tâm thiện»; cittena «tâm» (mind, not the Russian 'intent').
+# Build: python -I -X utf8 senses_tool_vi.py build --part 6
+nirutti: {expression, way of speaking (nominative sg.)}
+Atthe: {meaning, in 'atthe ñāṇaṃ' 'knowledge of meaning' (locative sg.)}
+paṭibhāna: {ready wit, quick discernment, as in paṭibhānapaṭisambhidā (compound member)}
+attha: {meaning, sense, as in atthapaṭisambhidā (stem and compound member): ý nghĩa; goal, welfare, in atthajāpikā and jāpitatthā, the wisdom that brings about the goal (compound member): lợi ích}
+Hetumhi: {in the cause, in 'hetumhi ñāṇaṃ' 'knowledge of the cause' (locative sg.)}
+phale: {fruit of the path, fruition, as in arahattaphale and sotāpattiphale (locative sg.): thành quả; fruit, result of a cause, in 'hetuphale ñāṇaṃ' 'knowledge of the fruit of a cause' (locative sg.): quả}
+Ye: {relative pronoun, whichever (masculine nominative pl.)}
+Jarāmaraṇe: {aging and death, in 'jarāmaraṇe ñāṇaṃ' (locative sg.)}
+jarāmaraṇanirodhe: {the cessation of aging and death (locative sg.)}
+maraṇe: {death, dying (locative sg.)}
+Jarāmaraṇe ñāṇaṃ: {knowledge of aging and death (phrase, nominative sg.)}
+Jātiyā: {birth, being born, in 'jātiyā ñāṇaṃ' 'knowledge of birth' (locative sg.): sự sinh; birth as social standing, family origin, in the conceits 'on account of birth or clan' (instrumental sg.): xuất thân}
+saṅkhāranirodhe: {the cessation of formations (locative sg.)}
+upādāne: {clinging, in 'upādāne ñāṇaṃ' (locative sg.)}
+viññāṇe: {consciousness, in 'viññāṇe ñāṇaṃ' (locative sg.)}
+phasse: {contact, in 'phasse ñāṇaṃ' (locative sg.)}
+bhave: {existence, becoming, in 'bhave ñāṇaṃ' (locative sg.)}
+saṅkhāresu: {formations, the volitional factors, in 'saṅkhāresu ñāṇaṃ' (locative pl.)}
+viññāṇe ñāṇaṃ: {knowledge of consciousness (phrase, nominative sg.)}
+saṅkhāresu ñāṇaṃ: {knowledge of formations (phrase, nominative sg.)}
+nāmarūpe: {mentality and materiality, name-and-form (locative sg.)}
+āyatane: {sense base, the sense field, in 'saḷāyatane ñāṇaṃ' (locative sg.)}
+abbhutadhammaṃ: {the wonders limb of the scriptures (accusative)}
+jātakaṃ: {former-life narratives, a limb of the scriptures (accusative)}
+suttaṃ: {the discourse limb of the scriptures (accusative)}
+veyyākaraṇaṃ: {expository limb of the scriptures (accusative)}
+udānaṃ: {inspired utterances, a limb of the scriptures (accusative)}
+jānāti: {knows, understands (3rd sg. present)}
+abbhuta: {marvellous, wonderful, in abbhutadhamma (compound member)}
+atthaṃ: {sense, purport (accusative)}
+geyyaṃ: {mixed prose-and-verse limb of the scriptures (accusative)}
+vedallaṃ: {catechetical limb of the scriptures (accusative)}
+bhāsitassa: {of what is spoken, the spoken word (genitive sg.)}
+itivuttakaṃ: {the 'thus it was said' sayings, a limb of the scriptures (accusative)}
+gāthaṃ: {the stanza limb of the scriptures (accusative)}
+jotakānī: {illuminating, making clear (neuter nominative pl.)}
+idamatthajotakānī: {illuminating this meaning (neuter nominative pl.)}
+ñāṇāni idamatthajotakānī: {knowledges illuminating this meaning (phrase, nominative pl.)}
+paññatti: {designation, making known (nominative sg.)}
+niruttiyā: {by way of expression, of language, in 'niruttiyā dhammānaṃ paññatti' (instrumental sg.)}
+dhammānaṃ paññatti: {the designation of phenomena (phrase, nominative sg.)}
+nevasaññānāsaññāyatanasaññāsahagataṃ: {accompanied by the perception of the base of neither perception nor non-perception (neuter sg. participle)}
+samuppannā: {arisen, fully arisen (nominative pl. participle)}
+paṭiccasamuppannā: {arisen in dependence on conditions (nominative pl. participle)}
+arūpino: {without material form (nominative pl.)}
+ye vā pana: {or whatever other, opening the closing clause of a list (masculine pl. indefinite phrase)}
+uppajjanti: {arise, come into being (3rd pl. present)}
+uppādesu: {in the arisings, counted kinds of mind (locative pl.)}
+sampayuttesu: {conjoined, associated with, in 'ñāṇasampayuttesu cittuppādesu' (locative pl. participle)}
+phalesu: {in the fruits, the four fruitions of the noble path (locative pl.)}
+kiriyato: {as functional, among the functional minds, in kusalato vipākato kiriyato (ablative used adverbially)}
+cittuppādesu: {in the arisings of mind, the classes of consciousness (locative pl.)}
+maggesu: {in the paths, the four noble paths (locative pl.)}
+kāmāvacara: {belonging to the sense sphere (compound member and heading)}
+kusalato: {as wholesome, among the wholesome minds, in kusalato vipākato kiriyato (ablative used adverbially)}
+paṭisambhidānaṃ: {of the analytical knowledges (genitive pl.)}
+Anidassanaapaṭighā: {invisible and non-impinging (nominative pl.)}
+paṭisambhidā aniyatā: {the analytical knowledges are unfixed (gapped phrase, nominative pl.)}
+apacayagāminī: {leading to dismantling, to the decrease of the round (feminine nominative sg.)}
+apaṭighā: {non-impinging, not capable of striking against (nominative pl.)}
+Uppanna: {arisen, as in uppannavatthukā and uppannasamanantarā (compound member)}
+uppannārammaṇā: {having an arisen object (nominative pl.)}
+samāpajjati: {attains, goes into an attainment (3rd sg.)}
+cavati: {passes away, dies (3rd sg. present)}
+yoganiyā: {liable to the yokes (nominative pl.)}
+asamannāhārā: {through not bringing to mind, without adverting (ablative sg.)}
+paṭivijānāti: {discerns, cognizes (3rd sg. present)}
+viññāṇā: {kinds of consciousness, the five sense consciousnesses (nominative pl.)}
+Nānā: {different, various, as in nānāvatthukā and nānādhātu (compound member)}
+supinaṃ: {dream, a vision in sleep (accusative sg.)}
+vuṭṭhāti: {emerges, rises out of a state (3rd sg. present)}
+anābhogā: {without engagement, free of mental interest (nominative pl.)}
+aññatra: {except, apart from (adverb)}
+paccanubhonti: {experience, undergo (3rd pl. present)}
+bāhirārammaṇā: {having an external object, of the five consciousnesses (nominative pl.)}
+abhinipāta: {impact, the falling of the object on the sense, in abhinipātamattā (compound member)}
+gocaravisayaṃ: {the field and range of a consciousness (accusative sg.)}
+oghaniyā: {liable to the floods (nominative pl.)}
+ñāṇavatthu: {ground of knowledge, the topic the knowledge chapter divides (nominative sg.)}
+Ajjhattika: {internal, pertaining to oneself, in ajjhattikavatthukā (compound member)}
+Ajjhattikavatthukā: {having an internal base (nominative pl.)}
+vibhāvanā: {making clear, elucidating, of wisdom (feminine nominative sg.)}
+mattā: {mere, only, in abhinipātamattā (compound final, ablative)}
+acarimaṃ: {not after, simultaneously (adverb)}
+apubbaṃ: {not before, simultaneously (adverb)}
+purejātārammaṇā: {having a previously arisen object (nominative pl.)}
+iriyāpathaṃ: {posture, deportment of the body (accusative sg.)}
+yāthāvaka: {real, as it truly is, in yāthāvakavatthu (compound member)}
+supati: {sleeps, falls asleep (3rd sg. present)}
+Asambhinna: {unimpaired, unbroken, of the sense organ (compound member)}
+paṭṭhapeti: {initiates, performs an action (3rd sg. present)}
+abbokiṇṇā: {uninterrupted, in unbroken succession (nominative pl.)}
+kusalākusalaṃ dhammaṃ: {a wholesome or unwholesome state (phrase, accusative sg.)}
+paṭibujjhati: {wakes up (3rd sg. present)}
+kusalākusalaṃ: {wholesome or unwholesome (neuter accusative sg.)}
+vibhāvanā paññā: {wisdom that makes clear (phrase, nominative sg.)}
+jāpikā: {bringing about, producing, in atthajāpikā (feminine compound final)}
+jāpita: {brought about, produced, in jāpitatthā (compound member)}
+Niyatā paññā: {fixed wisdom, certain in result (phrase, nominative sg.)}
+Niyyānikā: {leading out, emancipating (nominative pl.)}
+Sauttarā paññā: {surpassable wisdom, having something higher (phrase, nominative sg.)}
+aniyatā paññā: {unfixed wisdom, uncertain in result (phrase, nominative sg.)}
+anuttarā paññā: {unsurpassable wisdom, having nothing higher (phrase, nominative sg.)}
+pītisahagatā paññā: {wisdom accompanied by rapture (phrase, nominative sg.)}
+sukhasahagatā paññā: {wisdom accompanied by happiness (phrase, nominative sg.)}
+saṃkilesikā paññā: {wisdom liable to defilement (phrase, nominative sg.)}
+Āsavavippayuttā sāsavā paññā: {wisdom dissociated from the taints but liable to them (phrase, nominative sg.)}
+Pariyāpannā paññā: {wisdom included in the rounds of existence (phrase, nominative sg.)}
+na pītisahagatā paññā: {wisdom not accompanied by rapture (phrase, nominative sg.)}
+asaṃkilesikā paññā: {wisdom not liable to defilement, not an object of defilement, in the classifications (phrase, nominative sg.)}
+apariyāpannā paññā: {wisdom not included in the rounds of existence (phrase, nominative sg.)}
+sāsavā paññā: {wisdom liable to the taints (phrase, nominative sg.)}
+Atthajāpikā paññā: {wisdom that brings about the goal (phrase, nominative sg.)}
+Niyyānikā paññā: {wisdom leading out, to liberation (phrase, nominative sg.)}
+jāpitatthā paññā: {wisdom whose goal has been brought about (phrase, nominative sg.)}
+Savicārā paññā: {wisdom with sustained thought (phrase, nominative sg.)}
+Sappītikā paññā: {wisdom with rapture (phrase, nominative sg.)}
+Savitakkā paññā: {wisdom with directed thought (phrase, nominative sg.)}
+avicārā paññā: {wisdom without sustained thought (phrase, nominative sg.)}
+appītikā paññā: {wisdom without rapture (phrase, nominative sg.)}
+anāsavā paññā: {wisdom free from the taints, not an object of the taints, in the classifications (phrase, nominative sg.)}
+avitakkā paññā: {wisdom without directed thought (phrase, nominative sg.)}
+Lokiyā paññā: {mundane wisdom, belonging to the world (phrase, nominative sg.)}
+uppādinī: {bound to arise, not yet arisen (feminine nominative sg.)}
+Uppannā paññā: {arisen wisdom (phrase, nominative sg.)}
+ādhipatinī: {having as dominant factor, in maggādhipatinī 'with the path as dominant' (feminine compound final)}
+mahaggatā paññā: {exalted wisdom (phrase, nominative sg.)}
+bahiddhā paññā: {external wisdom (phrase, nominative sg.)}
+anāgatā paññā: {future wisdom (phrase, nominative sg.)}
+adhipaññāya: {in higher wisdom, as in 'adhipaññāya paññā' (locative sg.)}
+Ajjhattā paññā: {internal wisdom (phrase, nominative sg.)}
+ācayagāminī: {leading to accumulation of the round of rebirth (feminine nominative sg.)}
+suta: {heard, what is heard, as in sutamayā paññā and sutavāditā (compound member): đã nghe / sự lắng nghe; learning, erudition, in sutamada 'pride in learning' (compound member): sự học hỏi}
+Parittā paññā: {limited wisdom (phrase, nominative sg.)}
+upāya: {means, method, in upāyakosalla 'skill in means' (compound member)}
+appamāṇā paññā: {immeasurable wisdom (phrase, nominative sg.)}
+Atītā paññā: {past wisdom (phrase, nominative sg.)}
+paccuppannā paññā: {present wisdom (phrase, nominative sg.)}
+anuppannā: {not yet arisen, unarisen (feminine sg. or nominative pl. participle)}
+anuppannā paññā: {unarisen wisdom (phrase, nominative sg.)}
+ajjhattabahiddhā paññā: {wisdom both internal and external (phrase, nominative sg.)}
+Adhisīle paññā: {wisdom in higher virtue (phrase, nominative sg.)}
+adhipaññāya paññā: {wisdom in higher wisdom (phrase, nominative sg.)}
+uppādinī paññā: {wisdom bound to arise (phrase, nominative sg.)}
+apacayagāminī paññā: {wisdom leading to dismantling (phrase, nominative sg.)}
+Ācayagāminī paññā: {wisdom leading to accumulation (phrase, nominative sg.)}
+sutamayā paññā: {wisdom made of learning, based on what is heard (phrase, nominative sg.)}
+Cintāmayā paññā: {wisdom made of thinking, based on reflection (phrase, nominative sg.)}
+Savitakkasavicārā paññā: {wisdom with directed and sustained thought (phrase, nominative sg.)}
+avitakkavicāramattā paññā: {wisdom without directed thought, with sustained thought only (phrase, nominative sg.)}
+ācayāya: {for accumulation, of the round of rebirth (dative sg.)}
+nibbedha: {penetration, breaking through, in nibbedhabhāginī (compound member)}
+ānulomikaṃ: {conforming, in conformity, as in saccānulomikaṃ (neuter sg.)}
+sammuti: {convention, common agreement, as in sammutiñāṇa and sammutidevā (compound member)}
+nibbidāya: {for disenchantment (dative sg.)}
+apacayāya: {for dismantling, for the decrease of the round (dative sg.)}
+visesa: {distinction, progress to a higher state, in visesabhāginī (compound member)}
+pariye: {encompassing others' minds, in 'pariye ñāṇaṃ' (locative sg.)}
+anvaye: {by inference, in 'anvaye ñāṇaṃ' (locative sg.)}
+anvaye ñāṇaṃ: {inferential knowledge, knowledge by induction (phrase, nominative sg.)}
+paṭipadā: {mode of progress, way of practice (compound final and heading member)}
+ārammaṇāni: {objects, the objects of the mind (nominative pl.)}
+paṭivedhāya: {for penetration (dative sg.)}
+nibbedhabhāginī: {partaking of penetration, conducive to breakthrough (feminine nominative sg.)}
+Hānabhāginī: {partaking of decline, conducive to deterioration (feminine nominative sg.)}
+visesabhāginī: {partaking of distinction, conducive to progress (feminine nominative sg.)}
+ṭhitibhāginī: {partaking of persistence, conducive to maintaining one's level (feminine nominative sg.)}
+saccānulomikaṃ: {in conformity with the truths (neuter sg.)}
+paññā ācayāya: {wisdom for accumulation (phrase, nominative sg. with dative)}
+paññā nibbidāya: {wisdom for disenchantment (phrase, nominative sg. with dative)}
+paññā apacayāya: {wisdom for dismantling (phrase, nominative sg. with dative)}
+ṭhitibhāginī paññā: {wisdom partaking of persistence (phrase, nominative sg.)}
+Hānabhāginī paññā: {wisdom partaking of decline (phrase, nominative sg.)}
+pañcañāṇiko: {having five knowledges, of right concentration (masculine nominative sg.)}
+abhiññāsu: {in the higher knowledges, the six direct knowledges (locative pl.)}
+Sattasattati: {seventy-seven, the number (cardinal numeral)}
+samāpattīsu: {in the meditative attainments (locative pl.)}
+vihāra: {abiding, dwelling, in anupubbavihāra 'successive abidings' (compound final)}
+anupubba: {successive, gradual, in anupubbavihāra (compound member)}
+parisāsu: {in the assemblies (locative pl.)}
+samāpattīnaṃ: {the meditative absorptions attained (genitive pl.)}
+cutūpapātaṃ: {the passing away and rebirth of beings (accusative sg.)}
+āsabhaṃ: {of the leader of the herd, the bull's place (accusative sg.)}
+hetuso: {by way of causes (adverb)}
+ṭhānaso: {by way of conditions, by occasion (adverb)}
+paṭijānāti: {claims, declares (3rd sg. present)}
+ṭhānaṃ paṭijānāti: {claims his position, the leader's place (verb phrase)}
+vodānaṃ: {cleansing, purification of the attainments (accusative sg.)}
+saṃkilesaṃ: {defilement, the corruption of the attainments (accusative sg.)}
+khayaṃ: {destruction, ending, of the taints (accusative sg.)}
+vuṭṭhānaṃ: {emergence, rising out of an attainment (accusative sg.)}
+sabbattha: {everywhere, to all destinations, in sabbatthagāminī (compound member)}
+aṭṭhānato: {as the impossible, in 'aṭṭhānañca aṭṭhānato' (ablative used adverbially)}
+ādhimuttikataṃ: {inclination, disposition of beings, in nānādhimuttikataṃ (accusative sg.)}
+gāminiṃ: {leading to, in sabbatthagāminiṃ paṭipadaṃ (feminine accusative sg.)}
+vimokkha: {liberation, deliverance, in jhānavimokkha (compound member)}
+pubbenivāsānussatiṃ: {recollection of past lives (accusative sg.)}
+āsavānaṃ: {of the taints (genitive pl.)}
+ṭhānaṃ: {position, standing, in 'āsabhaṃ ṭhānaṃ paṭijānāti' (accusative sg.): vị trí; standing, the standing posture, among walking, standing, sitting and lying down (accusative sg.): đứng}
+balaṃ āgamma tathāgato: {relying on which power the Tathāgata (phrase, nominative)}
+yathābhūtaṃ: {as it actually is (adverb)}
+ūpapātaṃ: {rebirth, reappearance, in cutūpapātaṃ (accusative sg.)}
+ānussatiṃ: {recollection, in pubbenivāsānussatiṃ (accusative sg.)}
+āgamma: {relying on, owing to (absolutive)}
+nādaṃ: {roar, in sīhanādaṃ (accusative sg.)}
+nadati: {roars, utters (3rd sg. present)}
+sīhanādaṃ nadati: {roars the lion's roar (verb phrase)}
+pavatteti: {sets in motion, turns (3rd sg. present)}
+brahmacakkaṃ pavatteti: {sets in motion the supreme wheel (verb phrase)}
+tathāgato: {the Tathāgata, the Buddha (nominative sg.)}
+tathāgatabalāni: {the powers of the Tathāgata (nominative pl.)}
+samādānānaṃ: {undertaken, of actions undertaken, in kammasamādānānaṃ (genitive pl.)}
+kammasamādānānaṃ: {of actions undertaken (genitive pl.)}
+cakkaṃ: {wheel, in brahmacakkaṃ (accusative sg.)}
+brahmacakkaṃ: {the supreme wheel, the wheel of Brahmā (accusative sg.)}
+pahātabbameva: {certainly to be abandoned, with emphatic eva (neuter sg.)}
+upādāniyameva: {certainly subject to clinging, with emphatic eva (neuter sg.)}
+sahagatameva: {certainly accompanied, with emphatic eva (neuter sg. participle)}
+pītisahagatameva: {certainly accompanied by rapture, with emphatic eva (neuter sg. participle)}
+āsekkha: {one beyond training, who has completed the training (compound member)}
+saṃyojaniyameva: {certainly liable to the fetters, with emphatic eva (neuter sg.)}
+ganthaniyameva: {certainly liable to the ties, with emphatic eva (neuter sg.)}
+yoganiyameva: {certainly liable to the yokes, with emphatic eva (neuter sg.)}
+hetukameva: {certainly having roots, with emphatic eva (neuter sg.)}
+saṅkhatameva: {certainly conditioned, with emphatic eva (neuter sg.)}
+saṃkilesikameva: {certainly liable to defilement, with emphatic eva (neuter sg.)}
+vippayuttameva: {certainly dissociated, with emphatic eva (neuter sg. participle)}
+vicārameva: {certainly with sustained thought, with emphatic eva (neuter sg.)}
+acetasikameva: {certainly not a mental factor, with emphatic eva (neuter sg.)}
+rūpāvacarameva: {certainly belonging to the fine-material sphere, with emphatic eva (neuter sg.)}
+oghaniyameva: {certainly liable to the floods, with emphatic eva (neuter sg.)}
+parāmaṭṭhameva: {certainly misapprehended, with emphatic eva (neuter sg. participle)}
+nīvaraṇiyameva: {certainly liable to the hindrances, with emphatic eva (neuter sg.)}
+arūpameva: {certainly immaterial, with emphatic eva (neuter sg.)}
+arūpāvacarameva: {certainly belonging to the immaterial sphere, with emphatic eva (neuter sg.)}
+aniccameva: {certainly impermanent, with emphatic eva (neuter sg.)}
+viññeyyameva: {certainly cognisable, with emphatic eva (neuter sg.)}
+parittameva: {certainly limited, with emphatic eva (neuter sg.)}
+sāsavameva: {certainly liable to the taints, with emphatic eva (neuter sg.)}
+abyākatameva: {certainly ethically indeterminate, with emphatic eva (neuter sg.)}
+ārammaṇameva: {certainly an object, with emphatic eva (neuter sg.)}
+apariyāpannameva: {certainly not included in the rounds of existence, with emphatic eva (neuter sg.)}
+ābhibhūtameva: {certainly overcome, under the sway, with emphatic eva (neuter sg. participle)}
+hetumeva: {certainly a root, with emphatic eva (neuter sg.)}
+kāmāvacarameva: {certainly belonging to the sense sphere, with emphatic eva (neuter sg.)}
+āvacarameva: {certainly belonging to a sphere, with emphatic eva (neuter sg.)}
+aniyatameva: {certainly unfixed, with emphatic eva (neuter sg.)}
+lokiyameva: {certainly mundane, with emphatic eva (neuter sg.)}
+uppannasmiṃ: {when arisen, upon arising (locative sg. participle)}
+kāyaviññāṇassa: {of body-consciousness, tactile consciousness (genitive sg.)}
+sotaviññāṇassa: {of ear-consciousness, hearing consciousness (genitive sg.)}
+cakkhuviññāṇassa: {of eye-consciousness (genitive sg.)}
+ghānaviññāṇassa: {of nose-consciousness, smelling consciousness (genitive sg.)}
+ārammaṇe: {on the object (locative sg.)}
+aññaṃ: {another, different, in 'aññaṃ jīvaṃ aññaṃ sarīraṃ' (neuter sg.)}
+jivhāviññāṇassa: {of tongue-consciousness, tasting consciousness (genitive sg.)}
+asambhinnasmiṃ: {when unimpaired, of the sense organ (locative sg.)}
+kāyaviññāṇaṃ na paccanubhoti: {body-consciousness does not experience it, the field of another consciousness (verb phrase)}
+paccanubhoti: {experiences, undergoes (3rd sg. present)}
+gocaravisayaṃ paccanubhontī: {experience the field and range (verb phrase, 3rd pl.)}
+cakkhuviññāṇaṃ na paccanubhoti: {eye-consciousness does not experience it, the field of another consciousness (verb phrase)}
+kāyaviññāṇassa gocaravisayaṃ: {the field and range of body-consciousness (phrase, accusative sg.)}
+cakkhuviññāṇassa gocaravisayaṃ: {the field and range of eye-consciousness (phrase, accusative sg.)}
+manasikarontassa: {of one attending, paying attention (genitive sg. participle)}
+samannāharantassa: {of one bringing to mind, adverting (genitive sg. participle)}
+khaṇe: {at the moment, in one moment (locative sg.)}
+ekakkhaṇe: {at a single moment, simultaneously (locative sg.)}
+paṭipāṭiyā: {in succession, one after another (instrumental used adverbially)}
+kāyaviññāṇassa uppannasamanantarā: {immediately after the arising of body-consciousness (adverbial phrase)}
+cakkhuviññāṇassa uppannasamanantarā: {immediately after the arising of eye-consciousness (adverbial phrase)}
+kāyaviññāṇaṃ na uppajjati: {body-consciousness does not arise (verb phrase)}
+cakkhuviññāṇaṃ na uppajjati: {eye-consciousness does not arise (verb phrase)}
+āpāta: {coming into range, falling into the field of perception (compound member)}
+ābhogo: {engagement, mental interest (nominative sg.)}
+manodhātuyā: {of the mind element (genitive/instrumental sg.)}
+Ekakaṃ: {classification by ones, closing label of the onefold sections of the knowledge and minor-topics chapters (heading)}
+nisajjaṃ: {sitting, the sitting posture (accusative sg.)}
+āvaṭṭanā: {turning of the mind, adverting (feminine nominative sg.)}
+gamanaṃ: {walking, the walking posture (accusative sg.)}
+arahato: {the Worthy One, the arahant, in the homage line, and an arahant who has completed the path, in the knowledge chapter (genitive sg.)}
+abhiññaṃ: {direct knowledge, higher knowledge (accusative sg.)}
+Upekkhāsampayuttā paññā: {wisdom conjoined with equanimity (phrase, nominative sg.)}
+Vicārasampayuttā paññā: {wisdom conjoined with sustained thought (phrase, nominative sg.)}
+phalesu paññā: {wisdom in the fruits (gapped phrase, nominative sg.)}
+kiriyābyākate: {in the functional indeterminate (locative sg.)}
+Sukhasampayuttā paññā: {wisdom conjoined with happiness (phrase, nominative sg.)}
+Pītisampayuttā paññā: {wisdom conjoined with rapture (phrase, nominative sg.)}
+ābyākate: {in the ethically indeterminate (locative sg.)}
+maggesu paññā: {wisdom in the paths (gapped phrase, nominative sg.)}
+bhūmīsu: {in the planes, the four planes of mind (locative pl.)}
+bhūmīsu kusalābyākate paññā: {wisdom in the wholesome and indeterminate on the planes (gapped phrase, nominative sg.)}
+uppannāya: {arisen, of what has arisen (feminine genitive/locative sg. participle)}
+uppādentassa: {of one producing, developing (genitive sg. participle)}
+Kāmāvacarakusalābyākate paññā: {wisdom in the wholesome and indeterminate of the sense sphere (phrase, nominative sg.)}
+Vitakkasampayuttā paññā: {wisdom conjoined with directed thought (phrase, nominative sg.)}
+kusale: {in the wholesome, the wholesome mind (locative sg.)}
+kusalābyākate: {in the wholesome and indeterminate (locative sg.)}
+khantiṃ: {acceptance, patient approval of a view (accusative sg.)}
+vihitesu: {requiring skill, arranged, in yogavihitesu (locative pl. participle)}
+samāpannassa paññā: {wisdom of one who has entered an attainment (phrase, nominative sg.)}
+ṭṭhānesu: {fields, branches of learning, in vijjāṭṭhānesu (compound final, locative pl.)}
+anulomikaṃ: {conforming, in accordance (neuter accusative sg.)}
+pekkhaṃ: {consideration, looking into (accusative sg.)}
+sippāyatanesu: {in the crafts (locative pl.)}
+āyatanesu: {fields of work, occupations, in kammāyatanesu (compound final, locative pl.)}
+anicca: {impermanent (stem and compound member)}
+evarūpiṃ: {such, of such a kind (feminine accusative sg.)}
+paṭilabhati: {obtains, gains (3rd sg. present)}
+kammassakataṃ: {ownership of action, that beings own their deeds (accusative sg.)}
+ruciṃ: {preference, liking (accusative sg.)}
+nijjhāna: {reflective pondering, in diṭṭhinijjhānakkhanti (compound member)}
+vijjā: {science, a field of learning, in vijjāṭṭhāna (compound member)}
+mudiṃ: {approval, approbation (accusative sg.)}
+ārabbha: {concerning, with reference to, taking as object (absolutive)}
+Dānaṃ: {giving, generosity, a gift (nominative/accusative sg.)}
+ādhigaccha: {by means of, through, in dānādhigaccha and sīlādhigaccha (compound final)}
+sammādiṭṭhi: {right view (nominative sg.)}
+sīlamayā paññā: {wisdom made of virtue (phrase, nominative sg.)}
+dānamayā paññā: {wisdom made of giving (phrase, nominative sg.)}
+samāpajjantassa: {of one entering an attainment (genitive sg. participle)}
+Rūpāvacarārūpāvacarasamāpattiṃ: {an attainment of the fine-material or immaterial sphere (accusative sg.)}
+saṃvarantassa: {of one restraining himself (genitive sg. participle)}
+saṃvaraṃ: {restraint, self-control (accusative sg.)}
+sīle: {in virtue, morality (locative sg.)}
+pahīyanti: {are abandoned (3rd pl. passive)}
+manasikaroto: {of one attending, paying attention (genitive sg. participle)}
+tatrupāyā: {means therein, skill in the way to do it (feminine nominative sg.)}
+nirujjhanti: {come to an end (3rd pl. passive)}
+bhūmīsu vipāke paññā: {wisdom in the resultants on the planes (gapped phrase, nominative sg.)}
+vitakkavicārasampayuttā paññā: {wisdom conjoined with directed and sustained thought (phrase, nominative sg.)}
+vitakkavicāra: {directed and sustained thought (compound member)}
+vitakkavicāravippayuttā paññā: {wisdom dissociated from directed and sustained thought (phrase, nominative sg.)}
+vitakkavippayuttā vicārasampayuttā paññā: {wisdom dissociated from directed thought but conjoined with sustained thought (phrase, nominative sg.)}
+bhūmīsu kusale paññā: {wisdom in the wholesome on the planes (gapped phrase, nominative sg.)}
+arahatta: {arahantship, the state of an arahant (compound member)}
+upariṭṭhimā: {highest, the uppermost (nominative pl.)}
+bhūmīsu kiriyābyākate paññā: {wisdom in the functional indeterminate on the planes (gapped phrase, nominative sg.)}
+rūpāvacarārūpāvacarakusalābyākate: {in the wholesome and indeterminate of the fine-material and immaterial spheres (locative sg.)}
+āvacara: {belonging to a sphere, as in kāmāvacara (compound final)}
+Paritte: {limited, in 'paritte dhamme ārabbha' (accusative pl.)}
+Mahaggate: {exalted, in 'mahaggate dhamme ārabbha' (accusative pl.)}
+Appamāṇe: {immeasurable, in 'appamāṇe dhamme ārabbha' (accusative pl.)}
+Ajjhatte: {internal, in 'ajjhatte dhamme ārabbha' (accusative pl.)}
+Ajjhatte dhamme: {internal phenomena (phrase, accusative pl.)}
+Bahiddhādhamme: {external phenomena (accusative pl.)}
+khanti: {acceptance, approval of a view (nominative sg.)}
+kammānaṃ: {of deeds, actions done well or badly (genitive pl.)}
+samaṇa: {ascetics, recluses, in samaṇabrāhmaṇa (compound member)}
+dukkaṭānaṃ: {badly done, of ill-done deeds (genitive pl.)}
+brāhmaṇā: {brahmins, members of the priestly class (nominative pl.)}
+sammaggatā: {gone the right way, rightly practising (nominative pl.)}
+anulomikā: {conforming, in accordance (feminine nominative sg.)}
+pekkhā: {consideration, looking into (nominative sg.)}
+pavedentī: {declare, proclaim (3rd pl. present)}
+abhiññā: {having directly known, by higher knowledge (absolutive): hiểu biết trực tiếp; to be directly known, the topic of the section on what is to be directly known, in the Dhammahadaya summary verse (nominative): cần được hiểu biết trực tiếp}
+phalaṃ: {fruit of deeds, the result of good and bad actions, in 'kammānaṃ phalaṃ vipāko' (nominative sg.)}
+evarūpā: {of such a kind, such (feminine nominative sg. or pl.)}
+paṭipannā: {practising, having entered the right way (nominative pl. participle)}
+ruci: {preference, liking (nominative sg.)}
+sacchikatvā: {having realised for oneself (absolutive)}
+opapātikā: {spontaneously born beings, arising without parents (nominative pl.)}
+hutaṃ: {what is offered in sacrifice, an oblation (neuter sg. participle)}
+sayaṃ: {by oneself (adverb)}
+sukata: {well done, of good deeds, in sukatadukkaṭa (compound member)}
+yā: {relative pronoun, that which or whatever (feminine nominative sg.)}
+kusalā paññā: {wholesome wisdom (phrase, nominative sg.)}
+samaṇā: {ascetics, recluses (nominative pl.)}
+nirodhaṃ: {cessation, of suffering (accusative sg.)}
+samāhitaṃ citta: {a concentrated mind (phrase, accusative sg.)}
+saṃkhittaṃ citta: {a contracted mind (phrase, accusative sg.)}
+samohaṃ: {with delusion, of a mind (neuter accusative sg.)}
+abbhaññaṃsu: {directly knew, understood (3rd pl. aorist)}
+dukkhaṃ abbhaññaṃsu: {directly knew suffering (verb phrase)}
+vikkhittaṃ citta: {a distracted mind (phrase, accusative sg.)}
+neti: {draws, leads, in 'nayaṃ neti' 'draws an inference' (3rd sg. present)}
+paricca: {having encompassed, comprehending (absolutive)}
+mahaggataṃ citta: {an exalted mind (phrase, accusative sg.)}
+pariyogāḷhena: {fathomed, plunged into (instrumental sg. participle)}
+vimuttaṃ citta: {a freed mind (phrase, accusative sg.)}
+sadosaṃ: {with hatred, of a mind (neuter accusative sg.)}
+nayaṃ: {inference, in 'nayaṃ neti' (accusative sg.)}
+abhijānissanti: {will directly know (3rd pl. future)}
+pariye ñāṇaṃ: {knowledge of encompassing others' minds (phrase, nominative sg.)}
+ñātena: {known (instrumental sg. participle)}
+sarāgaṃ: {with lust, of a mind (neuter accusative sg.)}
+samohaṃ citta: {a mind with delusion (phrase, accusative sg.)}
+sadosaṃ citta: {a mind with hatred (phrase, accusative sg.)}
+sarāgaṃ citta: {a mind with lust (phrase, accusative sg.)}
+vītamohaṃ citta: {a mind free from delusion (phrase, accusative sg.)}
+vītadosaṃ citta: {a mind free from hatred (phrase, accusative sg.)}
+vītarāgaṃ citta: {a mind free from lust (phrase, accusative sg.)}
+puggalānaṃ: {of persons, individuals, in parapuggalānaṃ (genitive pl.)}
+avasesā paññā: {the remaining wisdom (phrase, nominative sg.)}
+sauttaraṃ citta: {a surpassable mind (phrase, accusative sg.)}
+asamāhitaṃ citta: {an unconcentrated mind (phrase, accusative sg.)}
+viditena: {understood, found out (instrumental sg. participle)}
+amahaggataṃ citta: {an unexalted mind (phrase, accusative sg.)}
+avimuttaṃ citta: {an unfreed mind (phrase, accusative sg.)}
+anuttaraṃ citta: {an unsurpassable mind (phrase, accusative sg.)}
+Ye hi keci: {whoever indeed, all those who (masculine pl. indefinite phrase)}
+rūpāvacarārūpāvacarakusale: {in the wholesome of the fine-material and immaterial spheres (locative sg.)}
+hoti: {exists, is, in the speculative views about the Tathāgata (3rd sg. verb)}
+abhiññāyo: {higher knowledges, the direct knowledges (nominative pl.)}
+vītarāgo: {one whose passion is gone (nominative sg.)}
+paṭivijjhati: {penetrates, pierces through (3rd sg. present)}
+avitakka: {absence of directed thought, as in avitakkavicāramatta (compound member)}
+nibbidāsahagatā: {accompanied by disenchantment (feminine nominative sg. participle)}
+pītisukhasahagatā: {accompanied by rapture and happiness (feminine nominative sg. participle)}
+manasikārā: {attention, attentions, in saññāmanasikārā (nominative pl.)}
+kāmasahagatā saññāmanasikārā: {perceptions and attentions accompanied by sense desire (phrase, nominative pl.)}
+samudācaranti: {assail, beset, occur (3rd pl. present)}
+anudhammatā: {conformity, in tadanudhammatā (feminine nominative sg.)}
+ūpasañhitā: {connected with, in virāgūpasañhitā (feminine compound final)}
+virāgūpasañhitā: {connected with dispassion (feminine nominative sg.)}
+nibbidā: {disenchantment, revulsion (stem and compound member)}
+lābhiṃ: {one who has gained, the obtainer (accusative sg.)}
+ānañcāyatana: {the base of infinite space (compound member)}
+tadanudhammatā sati: {mindfulness in conformity with that (phrase, nominative sg.)}
+Adukkhamasukha: {neither painful nor pleasant (stem and compound member)}
+Nevasaññānāsaññāyatanasahagatā: {accompanied by the base of neither perception nor non-perception (feminine nominative sg. participle)}
+saññāmanasikārā: {perceptions and attentions (nominative pl.)}
+tadanudhammatā sati santiṭṭhati: {mindfulness in conformity with that stands steady (gapped verb phrase)}
+dukkhapaṭipadā: {difficult progress, a painful mode of practice (nominative sg.)}
+kasirena: {with difficulty (instrumental)}
+ābhiññā: {direct knowledge, as in khippābhiññā and dandhābhiññā (compound final)}
+sukhapaṭipadā: {easy progress, a pleasant mode of practice (nominative sg.)}
+abhijānantassa: {of one directly knowing (genitive sg. participle)}
+dukkhapaṭipadā khippābhiññā: {difficult progress with quick direct knowledge (phrase, nominative sg.)}
+dukkhapaṭipadā dandhābhiññā: {difficult progress with slow direct knowledge (phrase, nominative sg.)}
+khippābhiññā: {quick direct knowledge (nominative sg.)}
+khippaṃ: {quickly, fast (adverb)}
+dandhābhiññā: {slow direct knowledge (nominative sg.)}
+dandhaṃ: {slowly, sluggishly (adverb)}
+Kicchena: {with trouble, with hardship (instrumental sg.)}
+dukkhapaṭipadā dandhābhiññā paññā: {wisdom of difficult progress with slow direct knowledge (phrase, nominative sg.)}
+sukhapaṭipadā dandhābhiññā paññā: {wisdom of easy progress with slow direct knowledge (phrase, nominative sg.)}
+Samādhissa: {of concentration (genitive sg.)}
+nikāma: {at will, as one wishes, in nikāmalābhī (compound member)}
+parittā parittārammaṇā paññā: {wisdom that is limited and has a limited object (phrase, nominative sg.)}
+lābhissa: {of one who obtains, the obtainer (genitive sg.)}
+appamāṇā appamāṇārammaṇā paññā: {wisdom that is immeasurable and has an immeasurable object (phrase, nominative sg.)}
+pharantassa: {of one pervading, extending the object (genitive sg. participle)}
+saṅkhāranirodhaṃ: {the cessation of formations (accusative sg.)}
+Saṅkhāre: {formations, the volitional factors of the fourth aggregate (accusative pl.)}
+viññāṇepetaṃ ñāṇaṃ: {this knowledge of consciousness too (phrase, nominative sg.)}
+jhānesu: {in the meditative absorptions (locative pl.)}
+ādhigato: {attained, arrived at, in ekodibhāvādhigato (masculine compound final)}
+Dibba: {divine, heavenly, in dibbacakkhu (compound member)}
+sasaṅkhāra: {with forceful effort, in sasaṅkhāraniggayhavāritagato (compound member)}
+vuṭṭhahāmī: {I emerge, the quoted word (1st sg. present)}
+vuṭṭhitassa: {of one who has emerged (genitive sg. participle)}
+samāpajjāmi: {I enter an attainment (1st sg. present)}
+Pañcakaṃ: {classification by fives, closing label of the fivefold sections of the knowledge and minor-topics chapters (heading)}
+niggayha: {suppression, forceful restraint, in sasaṅkhāraniggayhavāritagato (compound member)}
+ñāṇaṃ uppajjati: {knowledge arises (verb phrase)}
+sasaṅkhāraniggayhavāritagato: {maintained by forceful suppression and restraint (masculine nominative sg.)}
+laddho: {obtained, gained (masculine nominative sg. participle)}
+paccattaññeva: {personally, for oneself, with emphatic eva (adverb)}
+Paracitte: {in another's mind, in 'paracitte ñāṇaṃ' (locative sg.)}
+santo: {peaceful, calm (masculine nominative sg.)}
+akāpurisasevito: {not practised by ignoble people (masculine nominative sg.)}
+pharaṇatā: {pervasion, suffusion (feminine nominative sg.)}
+sukho: {happy, blissful, of a concentration (masculine nominative sg.)}
+sevito: {practised, cultivated (masculine nominative sg. participle)}
+paccavekkhaṇā: {reviewing, reflection (nominative sg.)}
+paccavekkhaṇāñāṇaṃ: {reviewing knowledge (nominative sg.)}
+vārita: {restraint, holding back, in sasaṅkhāraniggayhavāritagato (compound member)}
+paṭippassaddha: {tranquillisation, calming down, in paṭippassaddhaladdho (compound member)}
+ekodibhāvādhigato: {attained through unification of mind (masculine nominative sg.)}
+nirāmiso: {unworldly, free from carnal things (masculine nominative sg.)}
+cutūpapāte: {the passing away and rebirth, in 'sattānaṃ cutūpapāte ñāṇaṃ' (locative sg.)}
+khaye: {in the destruction, of the taints (locative sg.)}
+vidhe: {kinds, in 'iddhividhe ñāṇaṃ' 'knowledge of the kinds of supernormal power' (locative sg.)}
+pubbenivāsānussatiyā: {of the recollection of past lives (genitive/locative sg.)}
+visuddhiyā: {purification, in 'sotadhātuvisuddhiyā ñāṇaṃ' (genitive/locative sg.)}
+ūpapāte: {rebirth, in cutūpapāte (locative sg.)}
+ānussatiyā: {recollection, in pubbenivāsānussatiyā (genitive/locative sg.)}
+Chakkaṃ: {classification by sixes, closing label of the sixfold sections of the knowledge and minor-topics chapters (heading)}
+jarāmaraṇa: {aging and death (stem and compound member)}
+khaya: {destruction, ending, as in khayadhamma (compound member)}
+ṭṭhiti: {stability, establishment, in dhammaṭṭhitiñāṇa (compound member)}
+nāmarūpapaccayā: {conditioned by mentality-materiality, with name-and-form as condition, in the dependent origination formula (ablative)}
+tampi: {that too, with pi (neuter sg.)}
+Sattakaṃ: {classification by sevens, closing label of the sevenfold sections of the knowledge and minor-topics chapters (heading)}
+vaya: {vanishing, decay, in vayadhamma (compound member)}
+Aṭṭhakaṃ: {classification by eights, closing label of the eightfold sections of the knowledge and minor-topics chapters (heading)}
+anāgāmi: {the non-return stage (compound stem)}
+sakadāgāmi: {the once-return stage (compound stem)}
+magge: {in the path, the noble path (locative sg.)}
+Sotāpatti: {stream-entry, the first noble stage (compound member)}
+viññāṇañcāyatanasamāpattiyā: {in the attainment of the base of infinite consciousness (locative sg.)}
+vedayita: {what is felt, in saññāvedayitanirodha (compound member)}
+ākāsānañcāyatana: {the base of infinite space, the first formless attainment (compound member)}
+ākiñcaññāyatanasamāpattiyā: {in the attainment of the base of nothingness (locative sg.)}
+catutthajjhāna: {the fourth meditative absorption (compound member)}
+ākāsānañcāyatanasamāpattiyā: {in the attainment of the base of infinite space (locative sg.)}
+nevasaññānāsaññāyatanasamāpattiyā: {in the attainment of the base of neither perception nor non-perception (locative sg.)}
+Navakaṃ: {classification by nines, closing label of the ninefold sections of the knowledge and minor-topics chapters (heading)}
+diṭṭhisampanno: {accomplished in view, a noble disciple (masculine nominative sg.)}
+uddiseyya: {would acknowledge, point to as teacher (3rd sg. optative)}
+manāpo: {agreeable, pleasing (masculine nominative sg.)}
+manāpo vipāko: {an agreeable result (phrase, nominative sg.)}
+arahaṃ: {the Worthy One, epithet of a Buddha (nominative sg.)}
+arahanto: {the Worthy Ones, epithet of Buddhas in 'arahanto sammāsambuddhā', and arahants who have completed the path (nominative sg. and pl.)}
+uppajjeyyuṃ: {would arise, appear (3rd pl. optative)}
+sambuddho: {the self-awakened one, the Buddha (nominative sg.)}
+sammāsambuddho: {the perfectly self-awakened one (nominative sg.)}
+duggatiṃ: {unhappy destination (accusative)}
+kāyasucarita: {good bodily conduct (compound member)}
+kāyaduccarita: {bodily misconduct (compound member)}
+paraṃ maraṇā: {after death (phrase, ablative)}
+bhedā: {on the dissolution (ablative)}
+sammāsambuddhā: {perfectly self-awakened Buddhas (nominative pl.)}
+anavakāso: {no opportunity, impossible (masculine nominative sg.)}
+sucarita: {good conduct (compound final)}
+maraṇā: {after death, in 'paraṃ maraṇā' (ablative sg.)}
+voropeyya: {would deprive of life (3rd sg. optative)}
+kanto: {lovely, beloved (masculine nominative sg.)}
+gatiṃ: {destiny after dying (accusative)}
+amanāpo: {disagreeable, displeasing (masculine nominative sg.)}
+amanāpo vipāko: {a disagreeable result (phrase, nominative sg.)}
+aṭṭhamaṃ: {eighth, ordinal (neuter sg.)}
+kareyya: {would take up a position, assume a rank (3rd sg. optative)}
+bhavaṃ: {existence, a life (accusative sg.)}
+pitaraṃ: {father (accusative sg.)}
+saṅkhāraṃ: {formation, any conditioned thing, in 'kañci saṅkhāraṃ niccato' (accusative sg.)}
+sugatiṃ: {happy destination (accusative sg.)}
+manosucarita: {good mental conduct (compound member)}
+vacīsucarita: {good verbal conduct (compound member)}
+paduṭṭhena: {corrupted, with an evil mind (instrumental sg. participle)}
+saggaṃ: {the celestial world (accusative)}
+saggaṃ lokaṃ: {the heavenly world (phrase, accusative sg.)}
+Aṭṭhānametaṃ: {this is impossible (phrase, nominative sg.)}
+rājā: {monarch (nominative)}
+rājāno: {kings, rulers (nominative pl.)}
+jīvitā: {from life, in 'jīvitā voropeyya' (ablative sg.)}
+puriso: {man, a male (nominative sg.)}
+manoduccarita: {mental misconduct (compound member)}
+cittena: {with a mind, in 'paduṭṭhena cittena' 'with a corrupted mind' (instrumental sg.)}
+duccarita: {misconduct (compound final)}
+mātaraṃ: {mother (accusative sg.)}
+saṅghaṃ: {the Order, the monastic community (accusative sg.)}
+puthujjano: {ordinary person, worldling (nominative sg.)}
+niccato: {as permanent (ablative used adverbially)}
+puggalo: {a person, an individual (nominative sg.)}
+diṭṭhisampanno puggalo: {a person accomplished in view (phrase, nominative sg.)}
+vinipātaṃ: {downfall, lower world (accusative)}
+sukhato: {as happiness, as pleasant (ablative used adverbially)}
+nibbatteyya: {would produce, bring forth (3rd sg. optative)}
+upapajjeyya: {would appear, be reborn (3rd sg. optative)}
+sakkattaṃ: {the position of Sakka (accusative sg.)}
+atthato: {as a self, in 'kañci dhammaṃ atthato upagaccheyya', rendered as attato (ablative used adverbially)}
+uppādeyya: {would shed, draw blood (3rd sg. optative)}
+satthāraṃ: {teacher (accusative sg.)}
+akanto: {unlovely, unbeloved (masculine nominative sg.)}
+aniṭṭho: {undesired, unwished-for (masculine nominative sg.)}
+vacīduccarita: {verbal misconduct (compound member)}
+Ye ye: {whichever, distributive relative pronoun (nominative pl.)}
+cakkavattī: {wheel-turning monarch (nominative sg.)}
+iṭṭho: {desired, wished-for (masculine nominative sg.)}
+itthī: {female person (nominative)}
+lokadhātuyā: {in a world system (locative sg.)}
+kammasamādānāni: {actions undertaken (nominative pl.)}
+vipaccanti: {ripen, bear result (3rd pl. present)}
+paṭibāḷhāni: {blocked, suppressed (neuter nominative pl. participle)}
+upadhi: {bodily form, physical appearance, in upadhisampatti and upadhivipatti (compound member)}
+gati: {destination, realm of rebirth, in gatisampatti and gativipatti (compound member)}
+payoga: {effort, application, in payogasampatti (compound member)}
+pāpakāni: {evil, bad (neuter nominative pl.)}
+pāpakāni kammasamādānāni: {evil actions undertaken (phrase, nominative pl.)}
+kalyāṇāni kammasamādānāni: {good actions undertaken (phrase, nominative pl.)}
+samādānāni: {undertaken, of actions undertaken (neuter nominative pl.)}
+vipattiṃ: {misfortune, deficiency, in gativipatti and upadhivipatti (accusative sg.)}
+tiracchāna: {animals, in tiracchānayoni (compound member)}
+petti: {ghosts, in pettivisaya (compound member)}
+deva: {gods, in devaloka (compound member)}
+niraya: {hell, in nirayagāmī (compound member)}
+visaya: {realm, domain, in pettivisaya 'the realm of ghosts' (compound final)}
+yoni: {class of beings, in tiracchānayoni (compound final)}
+nānattaṃ: {diversity, variety (nominative/accusative sg.)}
+payirupāsanti: {attend on, associate closely with (3rd pl. present)}
+payirupāsiṃsu: {attended on, associated closely with (3rd pl. aorist)}
+bhajanti: {keep company with, frequent (3rd pl. present)}
+bhajiṃsu: {kept company with, frequented (3rd pl. aorist)}
+ādhimuttikā: {inclination, disposition, as in hīnādhimuttikā (compound final)}
+sevanti: {consort with (3rd pl.)}
+seviṃsu: {consorted with, resorted to (3rd pl. aorist)}
+sevissanti: {will consort with (3rd pl. future)}
+hīnādhimuttikā: {of inferior inclination (nominative pl.)}
+paṇītādhimuttikā: {of superior inclination (nominative pl.)}
+dvākāre: {of bad qualities, poorly disposed (accusative pl.)}
+bhabbābhabbe: {capable and incapable (accusative pl.)}
+ākāre: {quality, character, in svākāre and dvākāre (compound final)}
+caritaṃ: {conduct, temperament of beings (accusative sg.)}
+āsayaṃ: {disposition, inclination of beings (accusative sg.)}
+mudindriye: {with dull faculties (accusative pl.)}
+rajakkhe: {with dust in their eyes, in apparajakkhe and mahārajakkhe (compound final)}
+suviññāpaye: {easy to instruct (accusative pl.)}
+akkhe: {eye, in rajakkhe (compound final)}
+indriye: {faculties, in tikkhindriye and mudindriye (compound final)}
+svākāre: {of good qualities, well disposed (accusative pl.)}
+duviññāpaye: {hard to instruct (accusative pl.)}
+ābhabbe: {incapable, in bhabbābhabbe (compound final)}
+adhimuttiṃ: {inclination, disposition (accusative sg.)}
+viññāpaye: {to be instructed, in suviññāpaye (compound final)}
+tikkhindriye: {with sharp faculties (accusative pl.)}
+anusayaṃ: {underlying tendency, latent disposition (accusative sg.)}
+samuppannesu: {arisen, fully arisen (locative pl. participle)}
+anupagamma: {without approaching, avoiding (absolutive)}
+sarīra: {the body, in 'taṃ jīvaṃ taṃ sarīraṃ' (neuter sg.)}
+paccayatā: {conditionality, in idappaccayatā (compound final)}
+āsayo: {disposition, inclination of beings (nominative sg.)}
+Sassato: {eternal, in the speculative view 'the world is eternal' (masculine nominative sg.)}
+ante: {extremes, the two ends (accusative pl.)}
+paṭiladdhā: {obtained, gained (feminine nominative sg. participle)}
+sannissitā: {relying on, dependent on (nominative pl.)}
+jīvaṃ: {the soul, life-principle (neuter sg.)}
+idappaccayatā: {specific conditionality, the law of conditions (nominative sg.)}
+hoti tathāgato: {'the Tathāgata exists', a speculative view (verb and nominative)}
+paṭighānusayo: {the underlying tendency to aversion (nominative sg.)}
+appiyarūpaṃ: {what is disliked, of an unloved nature, in the world (neuter sg.)}
+ānupatitā: {following upon, accompanying, in avijjānupatitā (compound final)}

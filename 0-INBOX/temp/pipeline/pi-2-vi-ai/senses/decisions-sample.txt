@@ -1,0 +1,125 @@
+# pi-2 (Vibhaṅga) Pāli→Vietnamese senses, sample (agg-sample.tsv = first 90 rows of part 1 + next 30 multi-value rows).
+# Hand-written tag table. Tags: the approved pi-1 Vietnamese tag where pi-2 has the same headword in the same sense
+# (prior <hw>, line [pi-1 vi]); otherwise the approved pi-2 Russian tag ([pi-2 ru]); new or adapted tags only where
+# the Vietnamese values split differently (see senses-conventions.md).
+# Build: python -I -X utf8 senses_tool_vi.py build --part sample
+Abhidhamma: {the higher teaching, name of the third basket (compound member, title lines)}
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+Vibhaṅga: {detailed analysis, name of the second Abhidhamma book (title line)}
+Vibhaṅgapāḷi: {the canonical text of the Vibhaṅga, full title of the book (title line)}
+khandho: {aggregate, a group of phenomena (nominative sg.)}
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.)}
+vedanākkhandho: {the aggregate of feeling (nominative sg.)}
+rūpakkhandho: {the aggregate of matter (nominative sg.)}
+saṅkhārakkhandho: {the aggregate of formations (nominative sg.)}
+saññākkhandho: {the aggregate of perception (nominative sg.)}
+khandhā: {aggregates, groups of phenomena (nominative pl.)}
+viññāṇa: {consciousness, cognising an object (stem and compound member)}
+vedanā: {feeling, the affective tone of experience (nominative sg.)}
+rūpa: {matter, material form (heading and compound member, as in rūpakkhandha and Rūpadukaṃ): vật chất; visible form, the object of the eye (compound member, as in rūpāyatana, rūpataṇhā and the element rūpadhātu): hình sắc; the fine-material sphere, as in rūpabhava and the plane rūpadhātu of the Dhammahadaya chapter (compound member): hình sắc}
+saṅkhāra: {formations, volitional activity, of the fourth aggregate and of dependent origination, also in padhānasaṅkhāra 'formation of striving' (stem and compound member)}
+saññā: {perception, recognition (nominative sg.)}
+Khandha: {aggregates, in Khandhavibhaṅga and khandhadhātuāyatana (stem and compound member): khối; stems, plant stalks, in the list of tastes (compound member): thân cây}
+vibhaṅgo: {analytical exposition, naming each chapter of the book (heading, nominative sg.)}
+bhājanīyaṃ: {analysis, the analytical section (heading member)}
+Suttanta: {the discourses, as the method of Suttantabhājanīya (compound member)}
+Pañhā: {question, first member of Pañhāpucchaka 'the section of questions' (compound member)}
+Pañhāpucchakaṃ: {the question-and-answer section closing a chapter (heading)}
+Tikaṃ: {triads, groups of three, as the matrix triads and in Kusalattikaṃ (heading and heading member): bộ ba; classification by threes, closing label of the threefold sections of the knowledge and minor-topics chapters (heading): phân loại theo nhóm ba}
+Dukaṃ: {pairs, the dyads of the matrix (heading member, as in Rūpadukaṃ): bộ đôi; classification by twos, closing label of the twofold sections of the knowledge and minor-topics chapters (heading): phân loại theo nhóm hai}
+vuccati rūpakkhandho: {'is called the aggregate of matter', close of the definition (verb phrase)}
+oḷārikaṃ: {gross, coarse (neuter sg.)}
+rūpaṃ: {matter, material form, also 'the material' in nāmarūpa and 'material' as predicate (nominative/accusative sg.): vật chất / phần vật chất / thuộc vật chất; visible form, the object of the eye, in 'cakkhunā rūpaṃ disvā' (accusative sg.): hình sắc; of such a nature, a thing that is, as final member of piyarūpaṃ 'what is dear' and sātarūpaṃ 'what is agreeable' (compound final): điều}
+abhisaññūhitvā: {having heaped together into one mass (absolutive)}
+abhisaṅkhipitvā: {having condensed, summing up into one (absolutive)}
+hīnaṃ: {inferior, low (neuter sg.)}
+sukhumaṃ: {subtle, fine (neuter sg.)}
+paṇītaṃ: {superior, excellent (neuter sg.)}
+Tattha: {there, in that, opening an explanation (adverb)}
+tadekajjhaṃ: {all that, taken together as one (adverb)}
+Yaṃ kiñci: {any at all, opening the aggregate definition (neuter indefinite pronoun)}
+Āyatana: {sense bases, the sense fields, as in Āyatanavibhaṅga (stem and compound member): lĩnh vực nhận biết; base of a formless attainment, as in ākāsānañcāyatana (compound final): lĩnh vực}
+pātubhūtaṃ: {become manifest, appeared (neuter sg. participle)}
+uppannaṃ: {arisen, come into being, as in 'cittaṃ uppannaṃ hoti' (neuter sg. participle)}
+uppajjitvā: {having arisen (absolutive)}
+atītaṃsena: {as part of the past, by way of the past portion (instrumental)}
+jātaṃ: {born, come to birth, also as second member of sahajātaṃ 'born together' (neuter sg. participle)}
+abhinibbattaṃ: {fully produced, brought wholly into being (neuter sg. participle)}
+vuccati: {is called, verb of the closing definition formula (present passive)}
+anāgataṃ: {future, not yet come (neuter sg.)}
+atītaṃ: {past, gone by (neuter sg.)}
+paccuppannaṃ: {present, existing now (neuter sg.)}
+niruddhaṃ: {ceased, stopped (neuter sg. participle)}
+vipariṇataṃ: {changed, altered (neuter sg. participle)}
+abbhatthaṅgataṃ: {completely gone down, vanished (neuter sg. participle)}
+saṅgahitaṃ: {included, comprised in a category (neuter sg. participle)}
+atītaṃsena saṅgahitaṃ: {'included as part of the past', phrase of the aggregate definition (neuter sg. participle)}
+upādāya: {derived, dependent on the great elements (absolutive, as in upādārūpa): phái sinh từ; with reference to, in 'ajjhattikassa upādāya' of the currents of craving (absolutive): dựa vào; by virtue of, owing to, in the definition of the possible and the impossible (absolutive): tùy thuộc vào}
+vigataṃ: {disappeared, gone away (neuter sg. participle)}
+bhūtā: {elements, the primaries (nominative pl.)}
+uṭṭhitaṃ: {risen up, emerged (neuter sg. participle)}
+upādāyarūpaṃ: {derived matter, dependent on the great elements (nominative sg.)}
+rūpaṃ anāgataṃ: {matter not yet come, future matter (phrase, nominative sg.)}
+mahābhūtā: {the great elements, the four primaries (nominative pl.)}
+rūpaṃ atītaṃ: {matter gone by, past matter (phrase, nominative sg.)}
+rūpaṃ paccuppannaṃ: {matter existing now, present matter (phrase, nominative sg.)}
+nibbattaṃ: {produced, generated (neuter sg. participle)}
+samuṭṭhitaṃ: {fully risen up, originated (neuter sg. participle)}
+Dhātu: {element, an irreducible constituent (stem and compound final): yếu tố; plane of existence, in kāmadhātu, rūpadhātu and arūpadhātu of the Dhammahadaya chapter (compound final): cõi}
+pāṭipuggalikaṃ: {belonging to a particular individual (neuter sg. adjective)}
+ajjhattaṃ: {internally, within oneself (adverb and adjective)}
+parapuggalānaṃ: {of other people, beings other than oneself (genitive pl.)}
+paccattaṃ: {personal, one's own (adverb)}
+Sacca: {truth, a noble truth, as in Saccavibhaṅga (stem and compound member)}
+Dukkha: {suffering in general, as in dukkhasacca 'the truth of suffering' (stem and compound member): khổ đau; pain, painful feeling or contact, as in dukkhasamphassa and dukkhadhātu (stem and compound member): khó chịu / sự khó chịu; difficult, of the mode of progress in dukkhapaṭipadā (compound member): khó khăn}
+saccaṃ: {truth, a noble truth (nominative/accusative sg.)}
+Dukkhasaccaṃ: {the truth of suffering, first of the four noble truths (nominative sg.)}
+Samudaya: {origin, the arising of suffering, the second noble truth (stem and compound member)}
+Magga: {path, as a noble path or set of factors (stem and compound member)}
+rūpaṃ oḷārikaṃ: {coarse matter, gross material form (phrase, nominative sg.)}
+Cakkhāyatanaṃ: {the eye base, the eye as a sense field (nominative sg.)}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.)}
+Itthindriyaṃ: {the controlling faculty of femininity (nominative sg.)}
+āhāro: {nutriment, a sustaining condition, including edible food in kabaḷīkāro āhāro (nominative sg.): dưỡng chất; food one ate, in evamāhāro of the recollection of past lives (compound member): thức ăn}
+kabaḷīkāro: {edible, made into mouthfuls (masculine nominative sg.)}
+āyatanaṃ: {sense base, sense field (nominative/accusative sg.): lĩnh vực nhận biết; base, sphere, as head of a named base such as cakkhāyatana or ākāsānañcāyatana (compound final): lĩnh vực}
+rūpaṃ sukhumaṃ: {subtle matter, fine material form (phrase, nominative sg.)}
+phoṭṭhabbāyatanaṃ: {the base of tangibles, the touchable as a sense field (nominative sg.)}
+Indriya: {controlling faculties, as in Indriyavibhaṅga (stem and compound member)}
+manāpaṃ: {agreeable, pleasing to the mind (neuter sg.)}
+kantaṃ: {lovely, desirable (neuter sg.)}
+paribhūtaṃ: {treated with scorn, humiliated (neuter sg. participle)}
+avaññātaṃ: {looked down on, held in contempt (neuter sg. participle)}
+amanāpaṃ: {unpleasing, not agreeable to the mind (neuter sg.)}
+acittīkataṃ: {not held in esteem, unhonoured (neuter sg. participle)}
+cittīkataṃ: {held in esteem, honoured (neuter sg. participle)}
+rūpā: {visible forms, the objects of the eye (nominative pl.): hình sắc; material, of matter, as predicate 'are material' and in a list of the aggregates (nominative pl.): thuộc vật chất / vật chất}
+Paṭicca: {in dependence on conditions, first member of paṭiccasamuppāda (compound member)}
+catukkaṃ: {tetrad, a group of four, as in Hetucatukkaṃ and the other tetrads of dependent origination (heading and heading member): bộ bốn; classification by fours, closing label of the fourfold sections of the knowledge and minor-topics chapters (heading): phân loại theo nhóm bốn}
+Hetu: {root, a root condition, as in 'na hetu' and hetusampayutta (stem and compound member): gốc rễ; cause, in Hetucatukkaṃ of dependent origination and Hetuvāra of the analytical knowledges (heading member): nguyên nhân}
+pātubhūtā: {become manifest, appeared (nominative pl. participle)}
+uppannā: {arisen, come into being (feminine sg. or pl. participle)}
+jātā: {born, come to birth (nominative pl. participle)}
+dukkhā: {painful, of feeling or contact (feminine sg. and pl. adjective): khó chịu; suffering, unsatisfactory, said of the aggregates and of sense pleasures (nominative pl.): khổ đau}
+dukkhā vedanā: {painful feeling, one of the three feelings (feminine nominative sg.)}
+sukhā vedanā: {pleasant feeling, one of the three feelings (feminine nominative sg.)}
+nibbattā: {produced, generated (nominative pl. participle)}
+pāda: {base, foundation, in iddhipāda 'bases of supernormal power' (compound final): nền tảng; foot, in pādatala 'soles of the feet' (compound member): chân}
+kiriyā: {merely functional, producing no result (stem and compound member): mang tính chức năng; deed, doing, in pāpakiriyā 'evil deed' (compound final): việc làm}
+Upekkhā: {equanimity, neutral feeling or mental balance (stem and nominative)}
+Sikkhā: {training, the discipline undertaken, as in sikkhāpada (stem and compound member)}
+Dhamma: {phenomena, states, as in Dhammahadaya and dhammapaṭisambhidā (stem and compound member): hiện tượng; mind-objects, what the mind as sixth sense knows (compound member, as in dhammadhātu and dhammataṇhā): đối tượng của ý; the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra (compound member): Giáo Pháp}
+Ñāṇa: {knowledge, understanding (compound member, as in ñāṇasampayutta)}
+Ekaka: {ones, the single-item group, in Ekakamātikā (heading member): bộ một; classification by ones, the onefold exposition, in Ekakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm một}
+Duka: {pairs, the dyad groups (heading member): bộ đôi; classification by twos, the twofold exposition, in Dukaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm hai}
+Tika: {triads, the groups of three (heading member): bộ ba; classification by threes, the threefold exposition, in Tikaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm ba}
+Catukka: {fours, the groups of four items (heading member): bộ bốn; classification by fours, the fourfold exposition, in Catukkaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm bốn}
+Pañcaka: {fives, the groups of five items (heading member): bộ năm; classification by fives, the fivefold exposition, in Pañcakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm năm}
+Chakka: {sixes, the groups of six items (heading member): bộ sáu; classification by sixes, the sixfold exposition, in Chakkaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm sáu}
+Sattaka: {sevens, the groups of seven items (heading member): bộ bảy; classification by sevens, the sevenfold exposition, in Sattakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm bảy}
+Aṭṭhaka: {eights, the groups of eight items (heading member): bộ tám; classification by eights, the eightfold exposition, in Aṭṭhakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm tám}
+Navaka: {nines, the groups of nine items (heading member): bộ chín; classification by nines, the ninefold exposition, in Navakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm chín}
+Dasaka: {tens, the groups of ten items (heading member): bộ mười; classification by tens, the tenfold exposition, in Dasakaniddesa of the knowledge and minor-topics chapters (heading member): phân loại theo nhóm mười}
+vatthu: {basis, ground, as in ñāṇavatthu and the physical base of consciousness, also the grounds for laziness in kusītavatthu (compound final): chỗ dựa; topic, subject matter, in the title Khuddakavatthuvibhaṅga (compound member): chủ đề}
+Jāti: {birth, being born (stem and nominative): sự sinh; birth as social standing, family origin, in jātimada 'pride of birth' (compound member): xuất thân}
+icchatā: {wishing, the state of desiring, as in atricchatā and mahicchatā (compound final)}
