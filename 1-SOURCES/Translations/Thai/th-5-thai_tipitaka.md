@@ -18,6 +18,10 @@ license: public
 source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_37 กถาวัตปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy wrapped dialogue lines that the PDF indents like centred text (5,662) rejoined to their paragraphs keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๘๙๗] complete. Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
+text_id: TnfYnE1LMc8KYjbuJhvKy
+edition_id: QJ8ClqM33PID73BcssiSX
+toc_id: i2OUdgXLwxspOydqzZsba
+aligned_to_edition_id: WjnE60LMIzQETFlXoh9Hd
 ---
 
 ![[1-SOURCES/Text/pi-5.md#^T-1]]

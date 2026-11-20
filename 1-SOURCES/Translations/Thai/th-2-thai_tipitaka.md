@@ -18,6 +18,10 @@ license: public
 source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_35 วิภังคปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-2-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๑๑๘] complete. Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
+text_id: LmikfeMBQNf5hRRFt83JO
+edition_id: OYSVb8KcsXHkhB73V1YFD
+toc_id: k95lpyFVuXU7pxW3Z0byN
+aligned_to_edition_id: KAoqSlcxrqMtx3VRwmnPX
 ---
 
 ![[1-SOURCES/Text/pi-2.md#^T-1]]

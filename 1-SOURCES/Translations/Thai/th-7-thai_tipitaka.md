@@ -18,6 +18,9 @@ license: public
 source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_40 to Tri45_45 (six volumes)' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy the six Thai volumes are joined in order; each volume title and homage are kept where they occur; the edition does not print some Pāli sections (e.g. the Pucchāvāra of the opening), whose root blocks are stacked; count tables printed as centred lines are kept as text keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers each volume numbered from [๑], and vols. 44 and 45 restart for each part; all numbers present except where the edition itself skips them ([๑๒๐๒], [๒๑๗๒], [๒๒๐๑] in vol. 41; [๑๒๐๒], [๑๔๐๒] in vol. 44). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
+text_id: QwggioD5ju749QZOPJrT1
+edition_id: X55GMGhac59svChHVkHcV
+toc_id: O7j4caP09hhnVHBZBi0SK
 ---
 
 ![[1-SOURCES/Text/pi-7.md#^T-1]]

@@ -18,6 +18,10 @@ license: public
 source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_36 ธาตุกถา-ปุคคลปัญญัติปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-4-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๑๕๒] complete (numbering restarts after the Dhātukathā; the volume has one homage, kept with the Dhātukathā); book title ^4-0 taken from the end colophon 'ปุคคลปัญญัติปกรณ์ ฉภาณวาร จบ' (the volume title names both books). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
+text_id: ddvz8AZngiYOVvnmx4Msx
+edition_id: WozJt8nEf1SF6NxXbZ4MZ
+toc_id: E5FHqbJlFuO2WEA2bWO1b
+aligned_to_edition_id: 4bCOP5KnJqlcTxSBZXYA3
 ---
 
 # พระอภิธรรมปิฎก เล่ม ๓ ^0

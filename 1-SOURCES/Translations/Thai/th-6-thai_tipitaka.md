@@ -18,6 +18,10 @@ license: public
 source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_38 ยมกปกรณ์ ภาค ๑.pdf, Tri45_39 ยมกปกรณ์ ภาค ๒.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in two-column Pāli/Thai passages only the Thai column is kept (the Pāli is transcluded from the root; the raw copy the two Thai volumes are joined in order; the title and homage of part 2 are kept where they occur; two-column rows whose both columns are Thai (a question and its converse) are kept whole keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers part 1 [๑] to [๑๕๘๑] and part 2 [๑] to [๑๔๕๔] (the edition itself has no [๑๔๘๕] to [๑๔๙๔] in part 1). Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
+text_id: p0hwaCvFBhg5JC281sa3c
+edition_id: 7r2a3iA0pzDaXxUI4zZlv
+toc_id: Ebj6INDzkbWMYKgR96jka
+aligned_to_edition_id: vYtNelE9z5AWQ0jAv82cC
 ---
 
 ![[1-SOURCES/Text/pi-6.md#^T-1]]

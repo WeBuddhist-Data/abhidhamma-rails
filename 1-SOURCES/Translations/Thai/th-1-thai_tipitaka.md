@@ -19,6 +19,10 @@ source: https://archive.org/details/Tri4501
 source_description: "archive.org item Tri4501, file 'Tri45_34 ธรรมสังคณีปกรณ์.pdf' (Word export, June 2009); downloaded 2026-11-13. Text layer extracted with pypdf. [Ed: legacy Thai font glyphs (U+F700 to U+F71A) mapped back to Unicode; nikhahit + sara aa normalised to sara am; stray spaces before dependent vowels and marks removed; page headers removed; in the two-column Pāli/Thai matrix only the Thai column is kept, one line per item (the Pāli is transcluded from the root; the raw copy 0-INBOX/raw-data/th-1-thai_tipitaka-raw.md keeps both columns); Thai-only sub-headings kept as bold lines; paragraph numbers [๑] to [๙๘๗] complete. Some stray spaces between Thai consonants may remain.]"
 verse_id_format: book-verse
 segment_ids: "^T-1 … ^1-1616 (root block IDs; see alignment)"
+text_id: mtppvUsYdeUSIKjc2h3RY
+edition_id: ULw1S4srqr9M0nfM33xVi
+toc_id: TLQ7bYtbwkvJd4Xf08j75
+aligned_to_edition_id: VYail1lkMeu0V2IDqxRlm
 ---
 
 ![[1-SOURCES/Text/pi-1.md#^T-1]]
