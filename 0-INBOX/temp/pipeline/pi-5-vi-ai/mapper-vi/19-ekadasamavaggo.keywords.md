@@ -1,0 +1,41 @@
+[5-19-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-1-0] kathā, anusaya
+[5-19-2-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-2-1-0] kathā, Ñāṇakathā, ñāṇa
+[5-19-3-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-3-1-0] kathā, vippayutta, Ñāṇaṃ, Ñāṇaṃ cittavippayutta, citta
+[5-19-4-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-4-1-0] kathā, dukkhaṃ
+[5-19-5-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-5-1-0] kathā, iddhi, bala, iddhibala
+[5-19-6-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-6-1-0] samādhi, kathā
+[5-19-7-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-7-1-0] kathā, ṭhitatā, dhammaṭṭhitatā, dhamma
+[5-19-8-0] vaggo, ekādasama, Ekādasamavaggo
+[5-19-8-1-0] kathā, aniccatā
+[5-605] paṭigha, yogo, avijjāyogo, māna, chanda, vicikicchā, bhava, cakkhu, cakkhāyatanaṃ, saṃyojanaṃ, vicikicchāsaṃyojanaṃ, avijjāsaṃyojanaṃ, ogho, avijjogho, rūpaṃ, kiriyā, rāga, bhavarāga, Kāmarāgānusayo akusalo, nīvaraṇaṃ, vicikicchānīvaraṇaṃ, avijjānīvaraṇaṃ, kāmacchandanīvaraṇaṃ, avijjā, Avijjānusayo abyākato, avijjānīvaraṇaṃ akusalaṃ, abyākatā, pariyuṭṭhānaṃ, paṭighapariyuṭṭhānaṃ, mānapariyuṭṭhānaṃ, vicikicchāpariyuṭṭhānaṃ, bhavarāgapariyuṭṭhānaṃ, avijjāpariyuṭṭhānaṃ, kāmarāgapariyuṭṭhānaṃ, diṭṭhipariyuṭṭhānaṃ, kāma, kāmacchanda, kāmarāga, Kāmarāgānusayo abyākato, Anusayā, anusayo, Paṭighānusayo, Mānānusayo, Vicikicchānusayo, Bhavarāgānusayo, Avijjānusayo, Kāmarāgānusayo, Diṭṭhānusayo, phoṭṭhabba, phoṭṭhabbāyatanaṃ, Anusayā abyākatā, akusalaṃ, Diṭṭhi, diṭṭhi, Diṭṭhānusayo abyākato, diṭṭhisaṃyojanaṃ akusalaṃ, Āmantā
+[5-606] tena hi, tena hi rāgo, sammukhībhāvaṃ, rāgo, abyākatā, abyākate citte, citte, citte vattamāne, vattamāne, puthu, Puthujjano, jano, anusayā, akusalā, akusalā dhammā, kusala, Kusalākusalā, Āmantā
+[5-607] paṭigha, yogo, avijjāyogo, māna, chanda, vicikicchā, bhava, cakkhu, cakkhāyatanaṃ, saṃyojanaṃ, avijjāsaṃyojanaṃ, ogho, avijjogho, Rūpaṃ, rāga, bhavarāga, nīvaraṇaṃ, avijjānīvaraṇaṃ, kāmacchandanīvaraṇaṃ, avijjā, pariyuṭṭhānaṃ, avijjāpariyuṭṭhānaṃ, kāmarāgapariyuṭṭhānaṃ, hetukā, kāma, kāmacchanda, kāmarāga, Anusayā, anusayo, paṭighānusayo, mānānusayo, vicikicchānusayo, bhavarāgānusayo, avijjānusayo, Kāmarāgānusayo, diṭṭhānusayo, phoṭṭhabba, phoṭṭhabbāyatanaṃ, diṭṭhi, Āmantā
+[5-608] tena hi, tena hi rāgo, rāgo, abyākate, abyākate citte, citte, citte vattamāne, vattamāne, puthu, Puthujjano, jano, hetunā, hetukā, anusayā, kusala, Āmantā
+[5-609] sampayuttaṃ, yogo, chanda, vippayuttā, cakkhu, cakkhāyatanaṃ, saṃyojanaṃ, ogho, Rūpaṃ, rāga, Kāmarāgānusayo cittavippayutto, nīvaraṇaṃ, kāmacchandanīvaraṇaṃ, citta, pariyuṭṭhānaṃ, kāmarāgapariyuṭṭhānaṃ, kāma, kāmacchanda, kāmarāga, Anusayā, anusayo, Kāmarāgānusayo, phoṭṭhabba, phoṭṭhabbāyatanaṃ, Anusayā cittavippayuttā, Āmantā
+[5-610] khandha, Vedanākkhandho, saṅkhārakkhandha, saññākkhandho, sampayutto, vippayutto, vedanā, saṅkhāra, Saṅkhārakkhandho cittavippayutto, Saṅkhārakkhandho ekadeso, rāga, Kāmarāgānusayo cittavippayutto, citta, cittasampayutto ekadeso, ekadeso, ekadeso cittavippayutto, saññā, saññākkhandho cittavippayutto, kāma, kāmarāga, anusayo, Kāmarāgānusayo, Āmantā
+[5-611] sampayuttaṃ, paṭigha, yogo, avijjāyogo, māna, vippayutto, vicikicchā, bhava, ogho, avijjogho, rāga, bhavarāga, nīvaraṇaṃ, avijjānīvaraṇaṃ, avijjā, avijjānusayo cittavippayutto, citta, anusayo, Paṭighānusayo, mānānusayo, vicikicchānusayo, bhavarāgānusayo, avijjānusayo, diṭṭhānusayo, diṭṭhi, Āmantā
+[5-612] khandha, Vedanākkhandho, saṅkhārakkhandha, saññākkhandho, sampayuttā, vippayutto, vedanā, saṅkhāra, Saṅkhārakkhandho cittavippayutto, Saṅkhārakkhandho ekadeso, avijjā, Avijjānusayo cittavippayutto, citta, cittasampayutto ekadeso, ekadeso, ekadeso cittavippayutto, saññā, saññākkhandho cittavippayutto, anusayo, Avijjānusayo, Āmantā
+[5-613] sampayuttā, Tena hi, Tena hi rāgo, kathā, vippayuttā, niṭṭhitā, rāgo, abyākate, abyākate citte, citta, citte vattamāne, vattamāne, puthu, Puthujjano, jano, anusayā, anusaya, kusala, Āmantā
+[5-614] kilese, mohe, vippayutte, ñāṇavippayutte, vīta, vītarāgo, vigate, Rāge, Dose, ñāṇe, ñāṇavippayutte vattamāne, Aññāṇe, citte, ñāṇavippayutte citte, vattamāne, Āmantā
+[5-615] niruddhena, kathā, Ñāṇakathā, vippayutte, ñāṇavippayutte, niṭṭhitā, vigate, ñāṇe, Ñāṇakathā niṭṭhitā, ñāṇavippayutte vattamāne, Aññāṇe, citte, ñāṇavippayutte citte, vattamāne, Atītena ñāṇena, paṭipassaddhena, Āmantā
+[5-616] khandha, Vedanākkhandho, saṅkhārakkhandha, saññākkhandho, sampayutto, sambojjha, vippayuttaṃ, cakkhu, cakkhāyatanaṃ, aṅgo, sambojjhaṅgo, indriyaṃ, paññindriyaṃ, vedanā, Rūpaṃ, saṅkhāra, Saṅkhārakkhandho cittavippayutto, Saṅkhārakkhandho ekadeso, dhammavicaya, Ñāṇaṃ, Ñāṇaṃ cittavippayuttaṃ, citta, cittasampayutto ekadeso, ekadeso, ekadeso cittavippayutto, saññā, saññākkhandho cittavippayutto, balaṃ, sammā, phoṭṭhabba, phoṭṭhabbāyatanaṃ, diṭṭhi, Paññā, Āmantā
+[5-617] Arahā, sampayuttaṃ, Tena hi, kathā, vippayuttaṃ, cakkhuviññāṇa, niṭṭhitā, ñāṇaṃ, Ñāṇaṃ cittavippayutta, viya, dissati, citta, samaṅgī, cakkhuviññāṇasamaṅgī, pucchā, sakavādī, paññavā, Āmantā
+[5-618] nirodho, dukkhanirodho, ñāṇaṃ, pavattati, samudayo, dukkhasamudayo, maggo, bhāsato, vācaṃ bhāsato, dukkhaṃ, vācaṃ, Āmantā
+[5-619] viññāṇaṃ, viññāṇaṃ aniccaṃ, Vedanā, Rūpaṃ, Rūpaṃ aniccaṃ, saṅkhārā, aniccaṃ, ñāṇaṃ, pavattati, saññā, attā, bhāsato, vācaṃ bhāsato, dukkhaṃ, vācaṃ, Āmantā
+[5-620] kathā, niṭṭhitā, kha, ñāṇaṃ, pavattati, bhāsato, vācaṃ bhāsato, dukkhaṃ, vācaṃ, Āmantā
+[5-621] attabhāvappaṭilābho, kappaṃ, kappe, kālaṅkato, gati, mato, samannāgato, bhāva, atta, attabhāva, āyu, tiṭṭheyya, iddhi, iddhibalena tiṭṭheyya, Iddhibalena tiṭṭheyya, avasese, jīvitāvasese, balena, Iddhibalena, vata, Āmantā
+[5-622] kappaṃ, jīriṃsu, jarā, Uppanno, sattā, jāti, jāyiṃsu, nirujjhi, samādhi, viññāṇaṃ, phasso, maraṇa, mīyiṃsu, samannāgato, saddhā, vedanā, Rūpaṃ, saṅkhārā, cetanā, mā, tiṭṭheyya, cittaṃ, sati, saññā, niccaṃ, iddhi, Iddhibalena tiṭṭheyya, iddhiyā paggahetuṃ, byādhiyiṃsu, byādhi, balena, Iddhibalena, paññā, Āmantā
+[5-623] kappaṃ, pādā, bhagavatā, Tena hi, paricitā, bahulīkatā, bhāvitā, bhāvitā bahulīkatā, suttanto, samannāgato, anuṭṭhitā, tiṭṭheyya, iddhi, iddhibalena tiṭṭheyya, su, eva, avasesaṃ, balena, iddhibalena, samāraddhā, yānīkatā, yassa kassaci, ākaṅkhamāno, Āmantā
+[5-624] kammāni, kappaṃ, jīrī, jarā, jarāmaraṇiyāni, koci, samaṇo, jāti, bhagavatā, brāhmaṇo, Tena hi, maraṇa, saṃkilesikāni, mīyī, suttanto, kathā, darāni, katāni, samannāgato, pāpakāni, bhavikāni, niṭṭhitā, sadarāni, devo, pāṭibhogo, mā, tiṭṭheyya, bhikkhave, māro vā brahmā, iddhi, iddhibalena tiṭṭheyya, Iddhibalena tiṭṭheyya, eva, ponobbhavikāni, dukkhavipākāni jātijarāmaraṇiyāni, byādhiyī, byādhi, bala, iddhibala, dukkha, dhammānaṃ, Āmantā
+[5-625] niruddhaṃ, samādhi, santati, Cittasantati, Nanu, citta, Cittasantati samādhi, cittasantati samādhi, atītaṃ niruddhaṃ, vata, ajātaṃ, Āmantā
+[5-626] pahomi, sahagata, samāpanno, bhagavatā, kāyena, kāyaviññāṇa, Tena hi, samādhi, santati, Cittasantati, moha, suttanto, kathā, viharituṃ, sotaviññāṇa, paṭisaṃvedī, Cakkhuviññāṇa, ottappa, niṭṭhitā, āvuso, rāga, sukhaṃ, dosa, anottappa, citta, rāgasahagatacittasamaṅgī, Cittasantati samādhi, cittasantati samādhi, khaṇiko, cittakkhaṇiko, iñjamāno, rattindivāni, ghānaviññāṇa, samaṅgī, Cakkhuviññāṇasamaṅgī, ekanta, eva, Eka, Ekacittakkhaṇiko, jivhāviññāṇa, akusala, akusalacitta, bhāsamāno, vācaṃ, Āmantā
+[5-627] upādā, parinibbānaṃ, viññāṇassa, viññāṇassa parinipphannā, upacchedo, vaṭṭa, kathā, dukkhassantakiriyā, Vedanāya, niṭṭhitā, Rūpassa, Rūpassa parinipphannā, saṅkhārānaṃ, nipphannā, parinipphannā, saññāya, ṭhitatā, ṭhitatā parinipphannā, Dhammaṭṭhitatā, dukkhassa, Dhamma, Dhammaṭṭhitatā parinipphannā, Tāya tāyeva, Āmantā
+[5-628] Jarā, Jarā parinipphannā, upādā, parinibbānaṃ, upacchedo, vaṭṭa, Maraṇaṃ, Maraṇaṃ parinipphannaṃ, dukkhassantakiriyā, nipphannā, parinipphannā, Aniccatā, Aniccatā parinipphannā, dukkhassa, Tāya tāyeva, Āmantā
+[5-629] kappaṃ, jarā, bhedo, vaggo, samādhi, viññāṇaṃ, viññāṇaṃ parinipphannaṃ, santati, cittasantati, Maraṇaṃ, antaradhānaṃ, kathā, vippayuttā, Ekādasama, Ekādasamavaggo, samannāgato, Vedanā, niṭṭhitā, Rūpaṃ, saṅkhārā, nipphannaṃ, parinipphannaṃ, vigate, aniccatā, abyākatā, ñāṇe, ñāṇaṃ cittavippayuttaṃ, aññāṇe, tiṭṭheyya, citta, cittasantati samādhi, pavattati, saññā, iddhi, iddhibalena tiṭṭheyya, hetukā, saddo, sadde, ṭhitatā, dhammaṭṭhitatā, balena, iddhibalena, uddānaṃ, Anusayā, dhamma, yattha, Āmantā

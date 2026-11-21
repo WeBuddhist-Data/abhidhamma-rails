@@ -1,0 +1,25 @@
+# User decisions on the pi-5 Vietnamese termbase, 2026-11-21 ("Approve as proposed"): cross-book terms follow the earlier books (pi-2 rule: cross-book terms follow pi-1); the rails step makes the text follow. The builder lines for Saṃvaro kammaṃ|0, adhipati|0, aggo|0, niyato|0, tiṭṭheyya|0, Tiṭṭhanti|0 were removed from decisions.tsv so these replace them.
+saṃvara|0	sự thu thúc	user 2026-11-21: align to pi-2 (was «sự phòng hộ»)
+Saṃvaro|0	sự thu thúc	user 2026-11-21: align to pi-1 / pi-2 / pi-4 (was «sự phòng hộ»)
+asaṃvaro|0	sự không thu thúc	user 2026-11-21: align to pi-1 / pi-2 (was «sự không phòng hộ»)
+Saṃvaro kammaṃ|0	sự thu thúc là nghiệp	user 2026-11-21: saṃvara aligned to pi-1 (was «sự phòng hộ là nghiệp»)
+adhipati|0	yếu tố chủ đạo	user 2026-11-21: align to pi-1 (was «yếu tố chi phối»)
+adhipatipaccayena|0	điều kiện chủ đạo	user 2026-11-21: adhipati family follows pi-1 «chủ đạo» (was «điều kiện chi phối»)
+adhipatipaccayataṃ|0	tính chất làm điều kiện chủ đạo	user 2026-11-21: adhipati family follows pi-1 (was «… chi phối»)
+hetupaccayena|0	điều kiện gốc rễ	user 2026-11-21: hetu core term «gốc rễ» (pi-1) (was «điều kiện nguyên nhân»)
+hetupaccayataṃ|0	tính chất làm điều kiện gốc rễ	user 2026-11-21: hetu core term «gốc rễ» (was «… nguyên nhân»)
+aggo|0	bậc hàng đầu	user 2026-11-21: align to pi-4 «hàng đầu», head noun kept as in the epithet list (was «bậc đứng đầu»)
+akusalaṃ kāyakammaṃ|0	nghiệp bất thiện bằng thân	user 2026-11-21: pi-2 word order (was «nghiệp bằng thân bất thiện»)
+akusalaṃ vacīkammaṃ|0	nghiệp bất thiện bằng lời nói	user 2026-11-21: pi-2 word order
+akusalaṃ manokammaṃ|0	nghiệp bất thiện bằng ý	user 2026-11-21: pi-2 word order
+kusalaṃ kāyakammaṃ|0	nghiệp thiện bằng thân	user 2026-11-21: same order as the akusala pair (was «nghiệp bằng thân thiện»)
+kusalaṃ vacīkammaṃ|0	nghiệp thiện bằng lời nói	user 2026-11-21: same order as the akusala pair
+niyato|0	cố định	user 2026-11-21: = pi-1 / pi-2 (was «được cố định»); pi-4's formula wording stays in pi-4
+tiṭṭheyya|0	kéo dài	user 2026-11-21: keeps tiṭṭhati apart from atthi «tồn tại» (attested)
+Tiṭṭhanti|0	kéo dài	user 2026-11-21: as tiṭṭheyya
+seniya|0	Sê-ni-gia	user 2026-11-21: name in Vietnamese form (was «Seniya»)
+seniyassa|0	Sê-ni-gia	user 2026-11-21: name in Vietnamese form
+seniyassa bimbisārassa|0	Sê-ni-gia Tần-bà-sa-la	user 2026-11-21: name in Vietnamese form
+Somo|0	Sô-ma	user 2026-11-21: name in Vietnamese form (was «Soma»)
+yamo|0	Diêm-ma	user 2026-11-21: name in Vietnamese form (was «Yama»)
+subhadda|0	Tu-bạt-đà-la	user 2026-11-21: name in Vietnamese form (was «Subhadda»)

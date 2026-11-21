@@ -1,0 +1,5 @@
+[5-7-0] kathā=Bàn về, atthi=tồn tại
+[5-7-1-0] kathā=Bàn về
+[5-7-2-0] kathā=Bàn về
+[5-299] nirujjhissanti=sẽ chấm dứt, niruddhaṃ=đã chấm dứt, abbhatthaṅgataṃ=đã biến mất hoàn toàn, atthi=tồn tại, vigataṃ=đã mất đi, katvā=vì cho rằng, Nanu=Chẳng phải, ekadesaṃ=một phần, Atītaṃ atthi=quá khứ tồn tại, Atītā dhammā=hiện tượng thuộc quá khứ, Paccuppannā dhammā=hiện tượng thuộc hiện tại, avipakkavipākā atthi=có quả chưa chín muồi … tồn tại, vipakkavipākā=có quả đã chín muồi, vipaccissanti=sẽ trổ quả, vipakka=đã chín muồi, vipakkavipākā atthi=có quả đã chín muồi … tồn tại, avipakkavipākā dhammā=hiện tượng … có quả chưa chín muồi, vata=chắc chắn, atthaṅgataṃ=đã biến mất, Āmantā=Đúng vậy
+[5-300] Nanu=Chẳng phải, uppādino=sẽ sinh khởi, uppādino atthi=sẽ sinh khởi … tồn tại, sañjātaṃ=đã sinh thành, jātaṃ=đã sinh ra, nirujjhissanti=sẽ chấm dứt, kathā=Bàn về, atthi=tồn tại, niṭṭhitā=đã hoàn tất, Anāgataṃ atthi=tương lai tồn tại, Anāgatā dhammā=hiện tượng thuộc tương lai, katvā=vì cho rằng, pātubhūtaṃ=đã hiện ra, Paccuppannā dhammā=hiện tượng thuộc hiện tại, nibbattaṃ=đã phát sinh, vata=chắc chắn, ajātaṃ=chưa sinh ra, Āmantā=Đúng vậy

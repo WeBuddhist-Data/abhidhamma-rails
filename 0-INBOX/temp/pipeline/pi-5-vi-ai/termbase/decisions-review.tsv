@@ -1,0 +1,73 @@
+# Termbase alignment to the reviewed pi-5 Vietnamese rails text (2026-11-22): review fixes (rails/review-fixes-log-r1 … r5.tsv, review-fixes-log-coord.tsv, review-fixes-notes-r1 … r5.md), consistency pass (rails/consistency-log.tsv), user decisions 2026-11-22 (review/findings-summary.md A + B, "Approve as proposed"), and the user-approved terms of 2026-11-21 that the text already follows (saṃvara, adhipati, tiṭṭheyya, anuseti). Terms as the reviewed text has them, in citation form; only senses whose every use now takes the new wording. Not set (shared senses, old wording kept elsewhere): sota|0 «tai», sotadhātuyā|0 «yếu tố tai», karoti|0 «làm», ṭhito|0 «đứng vững», Samāpanno|0 / Samāpannassa|0 «người đang nhập», samāpattiṃ samāpannassa|0, amaggaṃ|0 / amagge|0 «đường sai», sukhudrayaṃ|0, Anupubbena|0, Tiṭṭhanti|0, para|0, dhamma, vuṭṭhānaṃ|0, yānaṃ|0, katvā|0, kilese jahati|0, Tassa tasseva|0, dukkhavedaniyaṃ|0 / Sukhavedaniyaṃ|0 / vedaniyaṃ|0; not in the termbase: apariyāpanna, brahmassaro, nikkileso, sataṃ dhammo, dukkhudraya, amaggena, kappaṭṭha (bare), paradhammakusala. The builder line "assa|0	ngựa đực	= pi-4 termbase (same tag)" was removed from decisions.tsv (line 231) so assa|0 below replaces it.
+Cakkhundriyasaṃvaro cakkhukammaṃ|0	sự thu thúc năng lực mắt là nghiệp bằng mắt	user 2026-11-21 saṃvara «sự thu thúc» (rails-coordinator-rules: also inside phrases; was «sự phòng hộ …»): ^5-630
+jivhindriyasaṃvaro jivhākammaṃ|0	sự thu thúc năng lực lưỡi là nghiệp bằng lưỡi	user 2026-11-21 saṃvara «sự thu thúc» (was «sự phòng hộ …»): ^5-630
+kāyindriyasaṃvaro kāyakammaṃ|0	sự thu thúc năng lực thân là nghiệp bằng thân	user 2026-11-21 saṃvara «sự thu thúc» (was «sự phòng hộ …»): ^5-630
+manindriyasaṃvaro manokammaṃ|0	sự thu thúc năng lực ý là nghiệp bằng ý	user 2026-11-21 saṃvara «sự thu thúc» (was «sự phòng hộ …»): ^5-630
+Cakkhundriyaasaṃvaro cakkhukammaṃ|0	sự không thu thúc năng lực mắt là nghiệp bằng mắt	user 2026-11-21 asaṃvara «sự không thu thúc» (was «sự không phòng hộ …»): ^5-631
+jivhindriyaasaṃvaro jivhākammaṃ|0	sự không thu thúc năng lực lưỡi là nghiệp bằng lưỡi	user 2026-11-21 asaṃvara «sự không thu thúc» (was «sự không phòng hộ …»): ^5-631
+kāyindriyaasaṃvaro kāyakammaṃ|0	sự không thu thúc năng lực thân là nghiệp bằng thân	user 2026-11-21 asaṃvara «sự không thu thúc» (was «sự không phòng hộ …»): ^5-631
+manindriyaasaṃvaro manokammaṃ|0	sự không thu thúc năng lực ý là nghiệp bằng ý	user 2026-11-21 asaṃvara «sự không thu thúc» (was «sự không phòng hộ …»): ^5-631
+iddhibalena tiṭṭheyya|0	sức mạnh thần thông … kéo dài	user 2026-11-21 tiṭṭheyya «kéo dài» («người được trang bị sức mạnh thần thông có thể kéo dài suốt một kiếp»; was «… tồn tại»): ^5-621, ^5-622, ^5-623, ^5-624, ^5-629
+chandādhipati adhipati|0	ý muốn chủ đạo là yếu tố chủ đạo	user 2026-11-21 adhipati «yếu tố chủ đạo» (was «ý muốn chi phối là yếu tố chi phối»): ^5-711
+vīriyādhipati adhipati|0	tinh tấn chủ đạo là yếu tố chủ đạo	user 2026-11-21 adhipati «yếu tố chủ đạo» (was «… chi phối …»): ^5-712
+cittādhipati adhipati|0	tâm chủ đạo là yếu tố chủ đạo	user 2026-11-21 adhipati «yếu tố chủ đạo» (was «… chi phối …»): ^5-713
+vīmaṃsādhipati adhipati|0	sự thẩm xét chủ đạo là yếu tố chủ đạo	user 2026-11-21 adhipati «yếu tố chủ đạo» (was «… chi phối …»): ^5-714
+Rūparāgo anuseti|0	sự tham đắm cõi hình sắc nằm sẵn	APPROVED anuseti «nằm sẵn» (pi-2; was «… tiềm ẩn»): ^5-703, ^5-705
+Arūparāgo anuseti|0	sự tham đắm cõi không hình sắc nằm sẵn	APPROVED anuseti «nằm sẵn» (was «… tiềm ẩn»): ^5-704, ^5-705
+kāmarāgo anuseti|0	sự tham đắm dục lạc nằm sẵn	APPROVED anuseti «nằm sẵn» (was «… tiềm ẩn»): ^5-705
+assa|0	ngựa	review decision A2 («đực» is not in the Pāli: «báu vật ngựa», «voi, bò, ngựa và ngựa cái», «người giữ ngựa»; was «ngựa đực»): ^5-303, ^5-387, ^5-402, ^5-650, ^5-651, ^5-871
+sakko|0	Đế Thích	review decision B17 (Vietnamese name form, = pi-2; «Đế Thích, vua của chư thiên»; was «Sakka»): ^5-798
+dibbasota|0	thiên nhĩ	review decision B6 (symmetric with dibbacakkhu «thiên nhãn»; heading «Bàn về thiên nhĩ»; was «tai thuộc cõi trời»): ^5-11-8-1-0
+dibbasotaṃ|0	thiên nhĩ	review decision B6 (was «tai thuộc cõi trời»): ^5-375, ^5-376
+dibbāya sotadhātuyā|0	yếu tố thiên nhĩ	review decision B6 («yếu tố thiên nhĩ»; was «yếu tố tai thuộc cõi trời»): ^5-194, ^5-196
+dibbāya|0	thiên	review decision B6 (in «yếu tố thiên nhĩ»; = dibba|0 «thiên»; was «thuộc cõi trời»): ^5-194, ^5-196
+kammaṃ karoti|0	tạo nghiệp	review decision B3 («tạo nghiệp» book-wide; = kammaṃ karonti, Kammakārako; was «làm nghiệp»): ^5-692, ^5-777
+kammaṃ karoti kāyena|0	tạo nghiệp bằng thân	review decision B3 (AN 6.63 «người ta tạo nghiệp bằng thân, bằng lời nói, bằng ý»; was «làm nghiệp bằng thân»): ^5-539
+kammaṃ karonto|0	trong khi … tạo nghiệp	review decision B3 («trong khi tạo nghiệp dẫn đến …»; was «trong khi … làm nghiệp»): ^5-894
+karonto|0	trong khi … tạo	review decision B3 (its only use is kammaṃ karonto; was «trong khi … làm»): ^5-894
+uppādino|0	có tính chất sinh khởi	review decision B8 (apart from uppajjissanti «sẽ sinh khởi»; was «sẽ sinh khởi»): ^5-300
+uppādino atthi|0	có tính chất sinh khởi … tồn tại	review decision B8 («các hiện tượng thuộc tương lai có tính chất sinh khởi – chúng tồn tại»): ^5-300
+payutta|0	đã khởi xướng	review decision A12 (commentary: instigated, not done; heading «Bàn về người đã khởi xướng …»; was «đã tiến hành»): ^5-21-3-1-0
+payutto|0	đã khởi xướng	review decision A12 (was «đã tiến hành»): ^5-660, ^5-661, ^5-662, ^5-685
+payuttaṃ|0	đã được khởi xướng	review decision A12 («nghiệp ấy đã được khởi xướng»; was «đã được tiến hành»): ^5-660
+Anantarāpayutto puggalo|0	người đã khởi xướng nghiệp có quả không gián đoạn	review decision A12 (was «người đã tiến hành …»): ^5-660, ^5-661, ^5-662, ^5-685
+viparīte ñāṇaṃ|0	hiểu biết sai lệch	review decision A14 (commentary: distorted knowledge; was «hiểu biết về điều sai lệch»): ^5-424, ^5-425, ^5-426, ^5-427, ^5-444
+viparīte|0	sai lệch	review decision A14 (every use is viparīte ñāṇaṃ «hiểu biết sai lệch»; the heading word viparīta keeps «điều sai lệch»): ^5-424, ^5-425, ^5-426, ^5-427, ^5-444
+kilissamānaṃ|0	đang bị phiền não làm vẩn đục	review decision A16 («vẩn đục», pi-1; «ô nhiễm» is the āsava word): ^5-367
+opadhikaṃ|0	dẫn đến tái sinh	review decision A5 («Làm phước dẫn đến tái sinh»; was «còn chấp trước»): ^5-798
+kummāsaṃ|0	món đậu nấu	review minor (A20, findings-r5: «cơm và món đậu nấu»; was «cháo»): ^5-809
+kuṭhārīhi|0	rìu	review minor (A20, findings-r5: kuṭhārī «rìu»; was «búa»): ^5-868
+vāsīhi|0	rìu lưỡi ngang	review minor (A20, findings-r5: vāsī «rìu lưỡi ngang»; was «rìu»): ^5-868
+ṭho|0	lưu lại	review decision B14 (kappaṭṭho «người lưu lại suốt một kiếp»; was «tồn tại»): ^5-654, ^5-655, ^5-656, ^5-657, ^5-658, ^5-659, ^5-685, ^5-861, ^5-862
+ṭha|0	lưu lại	review decision B14 (heading «Bàn về người lưu lại suốt một kiếp»; was «tồn tại»): ^5-21-1-0
+Kappaṭṭho tiṭṭheyya|0	người lưu lại suốt một kiếp … kéo dài	review decision B14 + user 2026-11-21 tiṭṭheyya «kéo dài» («người lưu lại suốt một kiếp có thể kéo dài suốt một kiếp»; was «người tồn tại … tồn tại»): ^5-654, ^5-655, ^5-656
+Kappaṭṭho dadeyya|0	người lưu lại suốt một kiếp … thực hiện	review decision B14 (was «người tồn tại suốt một kiếp … thực hiện»): ^5-658
+cetasiko|0	đồng hành với tâm	review minor (A20, findings-r3: cetasiko dhammo «hiện tượng đồng hành với tâm»; the noun / predicate uses keep the head noun «yếu tố đồng hành với tâm», which contains the term): ^5-475, ^5-477, ^5-478, ^5-479, ^5-480, ^5-502
+Sadhammakusalo vītarāgo|0	thông thạo lĩnh vực của riêng mình đã lìa tham đắm	review decision A7 (commentary: own sphere; was «thông thạo các hiện tượng của mình …»): ^5-312, ^5-316, ^5-320, ^5-324
+Sadhammakusalassa arahato|0	bậc A-la-hán thông thạo lĩnh vực của riêng mình	review decision A7 (was «… các hiện tượng của mình»): ^5-312, ^5-316, ^5-320, ^5-324
+Sadhammakusalassa paravitāraṇā|0	thông thạo lĩnh vực của riêng mình … việc được người khác giảng giải	review decision A7 (gapped form kept): ^5-324
+sukhudrayo|0	đưa đến hạnh phúc	review minor (A20 ^5-338) + coordinator alignment to ch10 (review-fixes-log-coord; was «đưa đến sự dễ chịu»): ^5-482
+sukhudrayaṃ sukhavipākaṃ|0	đưa đến hạnh phúc có quả trổ là hạnh phúc	review minor (A20 ^5-338 «đưa đến hạnh phúc, có quả trổ là hạnh phúc»; was «đưa đến sự dễ chịu có quả trổ dễ chịu»): ^5-338
+Lokiyasamāpattiṃ|0	thiền thuộc thế gian	review decision A19 («người đang nhập thiền thuộc thế gian»; was «thành tựu thiền thuộc thế gian»): ^5-329
+Samāpanno assādeti|0	người đang nhập thiền thỏa thích	review decision A19 (heading «Bàn về việc người đang nhập thiền thỏa thích»; was «người đang nhập thành tựu thiền thỏa thích»): ^5-21-7-1-0, ^5-673
+Samāpanno suṇāti|0	người đang nhập thiền nghe	review decision A19 (was «người đang nhập thành tựu thiền nghe»): ^5-823, ^5-824, ^5-825, ^5-827
+Samāpanno saddaṃ suṇāti|0	người đang nhập thiền nghe âm thanh	review decision A19 (was «người đang nhập thành tựu thiền nghe âm thanh»): ^5-823, ^5-824, ^5-825, ^5-827
+nivuta|0	người bị các chướng ngại che lấp	review minor (A20, findings-r4: kathā 130 heading «Bàn về người bị các chướng ngại che lấp»; was «người bị ngăn che»): ^5-21-5-1-0
+Nivuto|0	người bị các chướng ngại che lấp	review minor (A20, findings-r4; was «người bị ngăn che»): ^5-665, ^5-666, ^5-667, ^5-685
+Nivuto jahati|0	người bị các chướng ngại che lấp dứt bỏ	review minor (A20, findings-r4; was «người bị ngăn che dứt bỏ»): ^5-665, ^5-666, ^5-667, ^5-685
+sammukhībhūta|0	người đang đối diện với các xiềng xích	review minor (A20, findings-r4: kathā 131 heading «Bàn về người đang đối diện với các xiềng xích»; was «người đang hiện diện đối mặt»): ^5-21-6-1-0
+Sammukhībhūto|0	người đang đối diện với các xiềng xích	review minor (A20, findings-r4; was «người đang hiện diện đối mặt»): ^5-668, ^5-670, ^5-685
+ekadesaṃ samannāgato|0	một phần được trang bị	review minor (A20, findings-r2 / r3: «một phần được trang bị giới hạnh …», samannāgato «được trang bị»; was «một phần có»): ^5-274
+ekadesaṃ na samannāgato|0	một phần không được trang bị	review minor (A20, findings-r2 / r3; was «một phần không có»): ^5-274, ^5-366
+pahātabbaṃ|0	cần được dứt bỏ	review minor (A20 parallels «cần được dứt bỏ»; was «cần dứt bỏ»): ^5-405, ^5-877
+paramāni|0	nặng nhất	review minor (A20, findings-r4 ^5-707 «quan điểm sai lầm là nặng nhất»; was «đứng đầu»): ^5-707
+uppajjamānaṃ|0	khi đang sinh khởi	review minor (A20, findings-r1 ^5-232 «khi đang sinh khởi thì sinh khởi»; was «khi sinh khởi»): ^5-232
+vitakkavipphāro saddo|0	âm thanh lan tỏa của sự hướng tâm	review minor (A20, findings-r4 ^5-563 «thì có âm thanh lan tỏa của sự hướng tâm»; was «sự lan tỏa của sự hướng tâm là âm thanh»): ^5-563
+katattā rūpaṃ|0	vật chất … đã được tạo	review minor (A20, findings-r5 ^5-770 «vật chất do nghiệp … đã được tạo»; was «đã được tạo vật chất»): ^5-770
+yuttaṃ|0	do … kéo	review decision A4 («cỗ xe cõi trời do một nghìn con kéo»; was «được thắng»): ^5-870
+Parihāyati arahā|0	bậc A-la-hán … sa sút	review minor (A20, findings-r1 ch2 «mà bậc A-la-hán vẫn sa sút» / «thì bậc A-la-hán không sa sút»; gapped form): ch2 ^5-242–^5-263 (21 uses)
+Parihāyati anāgāmī|0	bậc không trở lại … sa sút	review minor (A20, findings-r1 ch2; gapped form): ch2 ^5-242–^5-263 (13 uses)
+Parihāyati sakadāgāmī|0	bậc trở lại một lần … sa sút	review minor (A20, findings-r1 ch2; gapped form): ch2 ^5-242–^5-263 (17 uses)
+Parihāyati sotāpanno|0	bậc vào dòng … sa sút	review minor (A20, findings-r1 ch2; gapped form): ch2 ^5-242–^5-263 (17 uses)
+sukhudrayaṃ|0	đưa đến hạnh phúc	user 2026-11-22 «Yes, align them» (coordinator, review-fixes-log-coord: sample ch1, ch15, ch16 aligned to ch10; was «đưa đến sự dễ chịu»): ^5-338, ^5-479, ch16 AN 10, ^5-1xx sample
+dukkhavipākāni jātijarāmaraṇiyāni|0	có quả trổ là khổ đau dẫn đến sự sinh sự lão hóa và sự chết	user 2026-11-22 «Yes, align them» (bare dukkhavipāka = the udraya formula; was «có quả trổ khó chịu …»): ch19

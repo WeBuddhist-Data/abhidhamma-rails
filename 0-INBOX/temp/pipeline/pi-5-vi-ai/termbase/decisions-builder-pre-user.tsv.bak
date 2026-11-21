@@ -1,0 +1,357 @@
+# Citation form (as pi-1 … pi-4): noun headwords with their nominaliser as used alone («sự tỉnh thức», «sự tham đắm», «sự khó chịu»); stems, compound members, adjectives and predicates bare («tham đắm», «si mê», «hình sắc», «tu học»); tense words only where the tense is the point (niruddhe «đã chấm dứt» vs nirujjhamānaṃ «khi đang chấm dứt»; the jātā string «đã sinh ra / đã sinh thành / đã phát sinh / đã hiện ra»); «có» / «điều» / «khi» dropped unless part of the meaning (amata «điều bất tử» = the deathless as a thing; ārammaṇā «có đối tượng» = having as object); person names with their head noun «người» / «bậc» as approved (người cảm nhận, người tạo, người đang nhập); the unbroken form over a gapped « … » form. Where the core list gives a form it wins (samādhi «định tâm», sati «sự tỉnh thức»). Order: core term / user decision / pi-5 term list, map and senses conventions; then the approved pi-4, pi-3, pi-2, pi-1 term among the candidates; then hcount; then the clearest plain candidate.
+kathā|0	Bàn về	user decision: kathā «Bàn về …»; map ×441; unbroken form
+vādī|1	nói	= pi-4 termbase (same tag); compound final bare; map ×8
+vata|2	quả thật	= pi-2 termbase (same tag); letter case only
+puggala|0	người	core term puggala = người; pi-5 term list (Puggalakathā «Bàn về người»); «bậc» / «hạng người» are context classifiers
+gati|0	cõi tái sinh	pi-5 term list (Gatianuyogo, Chagatikathā); = pi-2 termbase, pi-4 user decision gatiṃ; map ×19
+purisa|0	con người	pi-5 map convention purisa = con người (Purisakārānuyogo); = pi-2 termbase (same meaning)
+yutti|0	lập luận	letter case only
+niggahetabbe|0	nên bị bác bỏ	gerundive 'ought to be rebutted' (pi-5 formula «nên bị bác bỏ như vậy»); tie ×2 / ×2
+jahati|0	dứt bỏ	verb bare; map ×27
+sabbaṃ|0	tất cả	pi-5 term list (Sabbamatthītikathā «… tất cả đều tồn tại»); map ×9; pi-1 «toàn bộ» reported
+rūpa|1	hình sắc	= pi-1 / pi-2 termbase (fine-material sphere, compound member bare); map ×51
+rūpa|2	vật chất	= pi-1 / pi-2 termbase (matter, compound member bare); map ×8
+ñāṇa|0	hiểu biết	= pi-1 / pi-2 / pi-4 termbase (same tag); map ×10
+hattha|0	bàn tay	pi-5 term list (Atītahatthādikathā «Bàn về bàn tay quá khứ …»); map convention hattha «bàn tay»
+sādhanaṃ|0	chứng cứ	letter case only (Suttasādhanaṃ «Chứng cứ từ kinh»)
+sati|0	sự tỉnh thức	core term; = pi-1 / pi-2 / pi-4 termbase (same tag)
+vaggo|0	chương	letter case only; map ×210
+dukkha|1	khó chịu	pi-1 user decision (bodily pain «khó chịu»); = pi-1 termbase (same tag); stem bare
+ṭhiti|1	sự duy trì	= pi-2 termbase (persistence «sự duy trì»); noun
+nirodha|0	sự chấm dứt	= pi-1 … pi-4 termbase («sự chấm dứt» for the compound member)
+Sabbattha|1	mọi bản	= pi-4 termbase (same tag)
+dibba|0	thiên	= pi-2 termbase (dibbacakkhu «thiên nhãn»); map ×5 vs ×3 («thuộc cõi trời» in dibbasota: for the user)
+Sabbadā|0	vào mọi lúc	map convention (adverbs keep their preposition); map ×4
+upapatti|0	tái sinh	coordinator rule upapatti = tái sinh; = pi-2 / pi-3 termbase (same meaning); compound member bare
+upekkhā|0	sự bình thản	core term; = pi-1 / pi-2 / pi-3 termbase (same tag)
+sammuti|0	quy ước	= pi-2 termbase; compound member bare; map ×5
+paṭicca|0	tùy thuộc vào điều kiện	= pi-1 / pi-2 / pi-3 termbase; map ×20
+samāpatti|0	thành tựu thiền	pi-2 user decision samāpatti «thành tựu thiền»; map ×11
+pathavī|1	mặt đất	the earth alone «mặt đất» (×7); «địa» only inside «đại địa» (mahāpathavī)
+jarā|0	sự lão hóa	= pi-1 / pi-2 / pi-3 termbase; map ×16
+aṭṭhaka|0	Nhóm tám	= pi-4 termbase «nhóm tám» (letter case only; label Aṭṭhakaniggaho «Nhóm tám sự bác bỏ»)
+bhava|0	hiện hữu	= pi-1 / pi-2 / pi-4 termbase; stem and compound member bare
+arūpa|0	không hình sắc	= pi-1 … pi-4 termbase (same tag); map ×21
+rūpaṃ upalabbhati|0	vật chất được tìm thấy	unbroken form; upalabbhati «được tìm thấy» (user decision)
+amata|0	điều bất tử	the deathless as a thing (amatārammaṇa ×10); = amataṃ «điều bất tử»
+Ñāṇaṃ|0	hiểu biết	= pi-1 / pi-2 termbase (same tag); map ×59
+yathā|0	tùy theo	map ×7
+viññāṇaṃ upalabbhati|0	thức được tìm thấy	unbroken form
+vedanā upalabbhati|0	cảm giác được tìm thấy	unbroken form
+saṅkhārā|0	tạo tác	pi-5 term list («các tạo tác», sample, aggregate list); map ×49; pi-1 … pi-3 «sự tạo tác» reported
+saṅkhārā upalabbhanti|0	tạo tác được tìm thấy	unbroken form
+saññā upalabbhati|0	tri giác được tìm thấy	unbroken form
+viññāṇa|0	thức	core term; = pi-1 … pi-4 termbase
+dhamma|3	lẽ phải	plain word for 'what is right'; «pháp» is jargon a lay reader reads as 'law/method' (core-term note)
+dhammāyatanaṃ upalabbhati|0	lĩnh vực đối tượng của ý được tìm thấy	unbroken form
+jivhā|0	lưỡi	= pi-1 … pi-4 termbase; map ×23
+dukkhaṃ|1	sự khó chịu	pi-1 user decision (pain «khó chịu»), noun used alone with its nominaliser (= pi-3 termbase; pair sukhadukkhaṃ «sự dễ chịu và sự khó chịu»); map ×8
+samādhi|0	định tâm	core term; = pi-1 … pi-4 termbase (same tag)
+dhammadhātu upalabbhati|0	yếu tố đối tượng của ý được tìm thấy	unbroken form
+du|0	xấu	map ×5 («hôi» only in duggandha)
+sotindriyaṃ upalabbhati|0	năng lực tai được tìm thấy	unbroken form
+Cakkhundriyaṃ upalabbhati|0	năng lực mắt được tìm thấy	unbroken form
+saddhā|0	niềm tin	core term; = pi-1 … pi-4 termbase
+aññātāvī upalabbhati|0	người đã hiểu biết trọn vẹn được tìm thấy	unbroken form
+sukha|0	dễ chịu	core term (feeling); = pi-1 / pi-2 termbase (same meaning); compound member bare
+kusala|0	thiện	core term; = pi-1 / pi-2 / pi-4 termbase
+Samāpanno|0	người đang nhập	distinct pair samāpanna «người đang nhập» vs samāpajjanta «người nhập» (brief rule 5); the text's «… thành tựu thiền» extends it
+rāga|0	tham đắm	= pi-1 / pi-2 / pi-4 termbase; stem bare
+taṇhā|0	khao khát	core term; letter case only
+paṭipanno|0	đang thực hành	= pi-4 termbase (same tag); aspect is the point
+uppatti|0	sinh khởi	stem and compound member bare
+paccaya|0	điều kiện	map ×4
+paccayatā|0	tính chất làm điều kiện	pi-5 term list (Paccayatākathā «Bàn về tính chất làm điều kiện»); map ×8; pi-2 idappaccayatā «quy luật …» reported
+maraṇa|0	chết	= pi-1 / pi-2 termbase (compound member bare)
+maccu|0	sự chết	= pi-3 termbase (maccu «sự chết», user-kept); same meaning
+Ṭhapetvā|0	ngoại trừ	= pi-1 / pi-2 / pi-3 termbase
+phalaṃ|1	kết quả	pi-5 sample decisions (iṭṭhaphala «có kết quả đáng mong muốn», saphala «có kết quả» beside savipāka «có quả trổ»): keeps phala apart from vipāka; pi-1 / pi-2 / pi-4 «quả» reported
+manussa|0	người	= pi-1 / pi-2 termbase (same tag)
+jāti|0	sự sinh	= pi-1 … pi-4 termbase
+Cakkhunā|0	mắt	= pi-1 / pi-2 / pi-4 termbase
+accanta|0	hoàn toàn	map ×9
+asañcicca|0	không cố ý	absolutive and compound member bare
+tiracchāna|0	súc sinh	= pi-2 termbase (same tag)
+buddha|0	Đức Phật	= pi-2 termbase; map ×7
+āneñja|0	trạng thái bất động	user decision (harmonise: āneñja = pi-2 «trạng thái bất động»); map ×3; pi-4 «sự bất động» (āneñjappatta) reported
+kārikā|0	làm theo	map ×6
+patirūpa|0	tương tự	adjective bare («cái» dropped)
+Rūpaṃ puggalo|0	vật chất là người	matter sense of the thesis; map ×2
+jāto|0	đã sinh ra	pi-2 user decision on the jātā family «đã sinh ra» (jātaṃ); «sinh» only inside sahajāto
+koci|0	ai đó	map ×35
+Puggalo sandhāvati|0	người trôi lăn	unbroken form; sandhāvati «trôi lăn» (pi-4)
+karo|0	đi đến	= pi-4 termbase
+eva|2	ngay	map ×4
+eva|3	cũng	map ×2
+hoti|0	trở thành	map convention («là X rồi trở thành Y»); map ×16
+katānaṃ|0	đã làm	tie; the deed as done (kammānaṃ katānaṃ)
+nerayiko|0	chúng sinh địa ngục	pi-5 term list nerayika = chúng sinh địa ngục (pi-2)
+deva|0	chư thiên	= pi-2 / pi-4 termbase
+saṅkhāro|0	sự tạo tác	= pi-2 termbase; noun used alone
+saṅkhataṃ|0	do điều kiện tạo thành	= pi-1 / pi-2 termbase; map ×10
+paññatti|0	sự định danh	user decision (pi-4 / pi-5 sample); map ×20
+khaya|0	diệt tận	= pi-2 / pi-4 termbase
+Rūpaṃ aniccaṃ|0	vật chất là vô thường	harmonise decision (anicca predicate «X là vô thường»); map ×3
+puggalassa paññatti|0	sự định danh người	unbroken form; map ×17
+odātaṃ|0	màu trắng	= pi-1 / pi-2 termbase
+Kusalaṃ|0	thiện	= pi-1 / pi-2 termbase
+vipariṇāmadhammā|0	có bản chất biến đổi	= pi-2 termbase; unbroken form
+niruddhe|0	đã chấm dứt	tense is the point (ceased vs nirujjhamāna 'ceasing'; pi-1 niruddha series)
+sotaṃ|0	tai	= pi-1 / pi-2 termbase; letter case only
+Cakkhuṃ|0	mắt	= pi-1 / pi-2 termbase; map ×15
+samādhiṃ|0	định tâm	core term; = pi-2 / pi-4 termbase
+satiṃ|0	sự tỉnh thức	core term; = pi-4 termbase
+vācaṃ|0	lời nói	= pi-2 / pi-4 termbase
+sammā|0	đúng đắn	= pi-1 / pi-2 termbase; map ×46
+puggalānaṃ paññatti|0	sự định danh người	unbroken form
+rañño|0	vua	map ×2 («vị» classifier dropped)
+vā pana|0	hoặc	= pi-2 termbase; letter case only
+puriso|0	đàn ông	pi-4 user decision purisa «đàn ông» (a male person)
+yaṃ|0	cái gì	map ×3 (pi-1 / pi-2 «điều» not attested here)
+yo|0	ai	map ×7; letter case
+kattā kāretā|0	người làm và người khiến làm	pi-5 term list; map ×13
+vaṭṭa|0	vòng luân chuyển	map ×10
+dukkhassa antakiriyā|0	sự đi đến tận cùng của khổ đau	noun with nominaliser; map ×8
+Tassa tasseva|0	từng người như vậy	map ×8
+paṭisaṃvedī|0	người cảm nhận	pi-5 map convention (agent nouns keep «người»); map ×45; pi-2 / pi-4 «cảm nhận» reported
+sukhaṃ|1	sự dễ chịu	pi-1 user decision (pleasant feeling «dễ chịu»), noun used alone (pair with dukkhaṃ «sự khó chịu», sukhadukkhaṃ)
+sukhadukkhaṃ|0	sự dễ chịu và sự khó chịu	harmonise decision (sample ^5-173); map ×8
+karonti|0	làm	map ×5
+kārako|0	người tạo	pi-5 map convention (kārako «người tạo», kept apart from kattā «người làm»); map ×7
+vāyo atthi|0	gió tồn tại	unbroken form
+pathavī atthi|0	đất tồn tại	element sense beside āpo / tejo / vāyo (pi-1 pathavī «đất»); tie
+tejo atthi|0	lửa tồn tại	unbroken form
+āpo atthi|0	nước tồn tại	unbroken form
+sacchikaroti|0	tự mình chứng nghiệm	= pi-4 termbase; map ×16
+patto|0	đạt đến	= pi-4 termbase; map ×9
+pātubhavanti|0	xuất hiện	= pi-2 termbase
+bhagavato|0	Đức Thế Tôn	= pi-1 … pi-4 termbase
+asaṅkhataṃ|0	điều không do điều kiện tạo thành	= pi-3 termbase (noun use); map ×5
+tiṭṭhati|0	duy trì	pi-5 term list (tiṭṭhati = duy trì, ṭhitassa aññathatta); keeps it apart from atthi «tồn tại»
+vipariṇāmadhammo|0	có bản chất biến đổi	unbroken form; map ×2
+Aññā vedanā|0	cảm giác là khác	unbroken form (inner «là» kept, map convention)
+Suññato|0	trống rỗng	map ×2; «là cái» frame dropped
+Saha|0	cùng	= pi-2 termbase; map ×24
+uppajjati|0	sinh khởi	= pi-1 / pi-2 termbase; map ×35
+manussānaṃ|0	loài người	= pi-2 / pi-4 termbase
+nirujjhamānaṃ|0	khi đang chấm dứt	aspect is the point (present participle vs niruddha «đã chấm dứt»); participles keep «khi» (map rule)
+veti|0	tan biến	tie; plainer
+puñjo|0	đống	= pi-2 termbase
+aṅga|0	chi phần	= pi-2 termbase; map ×5
+diṭṭhigataṃ|0	sự mắc kẹt trong các quan điểm	= pi-1 / pi-2 termbase (approved distinct pair)
+paccayā|0	làm điều kiện cho	= pi-1 / pi-2 / pi-3 termbase
+vedayitaṃ|0	cảm nhận	= pi-1 / pi-2 termbase
+tasmā|0	vì vậy	map ×9 (pi-2 «vì thế» not attested)
+tatheva|0	cũng vậy	map ×2
+ṭhānaṃ|0	nền tảng	diṭṭhiṭṭhāna 'standpoint of views' (^5-235); tie
+dhammo|0	Giáo Pháp	core term (the Teaching «Giáo Pháp», capitalised)
+pana|0	Lại nữa	the connective's form in the sutta frame (pi-4 «lại nữa»)
+paññāpeti|0	đề ra	pi-5 term list (three teachers = pi-4 wording «đề ra tự ngã …»); map ×1 each, the sutta line repeats
+parihīno|0	sa sút	predicate bare (pi-4 parihāyati «sa sút»); map ×3
+jana|0	người	map ×3
+māno|0	sự kiêu mạn	core term; = pi-1 / pi-2 / pi-4 termbase
+moho|0	sự si mê	= pi-1 / pi-2 / pi-4 termbase
+rāgo|0	sự tham đắm	= pi-1 / pi-2 / pi-4 termbase
+vicikicchā|0	sự hoài nghi	= pi-1 / pi-2 termbase (approved distinct pair with kaṅkhā)
+doso|0	sự sân hận	= pi-1 / pi-2 / pi-4 termbase
+uppāda|0	sinh khởi	pi-5 term list uppāda = sự sinh khởi, compound member bare (= pi-1 family)
+bhāvito|0	đã tu tập	map ×14 (maggo bhāvito)
+maggo bhāvito|0	đã tu tập con đường	unbroken form; map ×12
+su|0	trọn vẹn	map ×5
+kata|0	đã làm xong	katakaraṇīya; map ×6
+pariññātaṃ|0	đã được hiểu biết trọn vẹn	unbroken form; map ×6
+sacchikato|0	đã tự mình chứng nghiệm	unbroken form; map ×10
+vimuttassa|0	được giải thoát	= pi-4 termbase
+sacchikātabbaṃ|0	cần được tự mình chứng nghiệm	gerundive bare («điều» dropped)
+vijjati|0	có	existential 'is found' (map ×3); kept apart from atthi «tồn tại» of the theses
+yogo|1	sự rèn luyện	pubbayoga 'previous practice'; «sự tu tập» would collide with bhāvanā «tu tập»
+paṭicca uppajjati|0	sinh khởi tùy thuộc vào	unbroken form
+paṭigha|0	ác cảm	= pi-1 / pi-2 termbase; compound member bare
+māna|0	kiêu mạn	= pi-1 / pi-2 termbase; stem bare
+moha|0	si mê	= pi-2 termbase; compound member bare
+dosa|0	sân hận	= pi-2 / pi-4 termbase; compound member bare
+pariyuṭṭhito|0	bị ám ảnh	unbroken form
+kāmarāga|0	tham đắm dục lạc	= pi-1 termbase; compound member bare
+ṭhito|0	đứng vững	bare predicate covering «đã …» (fruits) and «khi đang …» (ch30); map ×3
+buddhe|0	Đức Phật	= pi-2 termbase
+samannāgatā|0	mang	= pi-2 termbase; pi-4 user rule «mang» for bad states (kammāvaraṇa, duccarita: ×2 of 3)
+devā|0	chư thiên	= pi-2 / pi-4 termbase
+mātu|0	mẹ	map ×9
+uppajjanti|0	sinh khởi	= pi-1 / pi-2 termbase
+uppannaṃ|0	sinh khởi	= pi-1 / pi-2 termbase (same tag)
+yattha|0	nơi	tie
+pahānaṃ|0	sự dứt bỏ	= pi-2 termbase
+paṭivedho|0	sự thấu triệt	pi-5 term list (Paṭivedhānuyogo «Chất vấn về sự thấu triệt»); noun
+puna|0	lại	map ×3
+arahatta|0	A-la-hán	= pi-1 / pi-2 / pi-4 termbase (compound member)
+kālaṃ karoti|0	qua đời	map ×2
+samannāgato|0	được trang bị	= pi-2 / pi-4 termbase; map ×30
+paṭiladdho|0	đã có được	map ×10
+samudaya|0	sự phát sinh	= pi-2 / pi-3 / pi-4 termbase
+rāgaṃ|0	sự tham đắm	noun used alone (map ×21; = rāgo); pi-2 «tham đắm» citation variant
+abhabbo|0	không có khả năng	= abhabbā (pi-2) and pi-4 abhabba «không có khả năng» (lemma family)
+udapādi|0	sinh khởi	verb bare; map ×5
+sāvakassa|0	vị đệ tử	= sāvako (pi-2 termbase «vị đệ tử»); map ×5
+Anupubbena|0	dần dần	= pi-4 termbase
+malaṃ|0	cấu uế	map ×4 (vītamala, malamattano)
+dassana|0	thấy chân lý	map ×10 (dassanasampadā, dassanuppāda); pi-4 «thấy rõ» is ñāṇadassana
+avasesaṃ|0	còn sót lại	= avaseso (pi-5 family)
+mūlaṃ|0	gốc rễ	= pi-1 / pi-2 / pi-4 termbase
+abhiññāya|0	sau khi hiểu biết trực tiếp	gerund keeps «sau khi»; unbroken, no tense word
+akkhāsi|0	đã giảng	plainer than «tuyên thuyết»
+upagā|0	đi đến	map ×6
+katvā|0	vì cho rằng	pi-5 debate frame («Có phải vì cho rằng X …»); map ×6
+katvā|1	sau khi làm	gerund keeps «sau khi»
+sañjātaṃ|0	đã sinh thành	pi-2 user decision sañjātā «đã sinh thành»
+jātaṃ|0	đã sinh ra	pi-2 user decision jātā «đã sinh ra»; = pi-2 termbase (same tag)
+abhinibbattaṃ|0	đã phát sinh rõ rệt	= pi-2 termbase
+pātubhūtaṃ|0	đã hiện ra	pi-2 user decision pātubhūtā «đã hiện ra»; = pi-2 termbase
+nibbattaṃ|0	đã phát sinh	pi-2 user decision nibbattā «đã phát sinh»; = pi-2 termbase
+viññāṇaṃ atthi|0	thức tồn tại	unbroken form; atthi «tồn tại» (user decision)
+rūpaṃ atthi|0	vật chất tồn tại	unbroken form
+Anāgataṃ rūpaṃ|0	vật chất thuộc tương lai	unbroken form (harmonise «thuộc tương lai»)
+Atītaṃ rūpaṃ|0	vật chất thuộc quá khứ	unbroken form
+Paccuppannaṃ rūpaṃ|0	vật chất thuộc hiện tại	unbroken form
+Rūpaṃ na jahati|0	vật chất không dứt bỏ	unbroken form
+Rūpaṃ niccaṃ|0	vật chất thường còn	unbroken form
+viññāṇaṃ aniccaṃ|0	thức là vô thường	harmonise decision (anicca predicate «X là vô thường»)
+kāyo atthi|0	thân tồn tại	unbroken form
+anottappī|0	không biết ghê sợ tội lỗi	adjective bare (masculine sg.)
+citto|0	có tâm	= pi-4 termbase (same tag)
+atīto moho|0	sự si mê thuộc quá khứ	unbroken form
+ādāna|0	cầm lên	closest to pi-2 «cầm»
+cakkavattī|0	chuyển luân	= pi-2 termbase (same tag)
+pubbe|0	trước đây	tie
+viññūhi|0	có trí	map ×2
+devatā|0	vị thiên	map ×2
+upasama|0	sự lắng dịu	tie; plainer than «an tịnh»
+balaṃ|0	sức mạnh	= pi-1 / pi-2 / pi-4 termbase
+ārabbha|0	lấy … làm đối tượng	map ×6; «khi» dropped
+amataṃ|0	điều bất tử	map ×12
+assa|0	ngựa đực	= pi-4 termbase (same tag)
+paṭilabhanti|0	có được	tie
+visuddhiyā|0	sự thanh tịnh	= visuddhi «sự thanh tịnh» (pi-5 family); map ×2
+asuci|0	bất tịnh	map ×6
+paccanubhaveyya|0	thụ hưởng	tie; plainer
+methunaṃ|0	dâm dục	map ×5
+ajjhāvaseyya|0	sống	tie; bare verb
+sacchikataṃ|0	đã được tự mình chứng nghiệm	map ×7
+gilāna|0	chữa bệnh	= pi-2 termbase (gilānapaccaya); map ×12
+pāṇaṃ|0	sinh mạng	pi-4 pāṇa «sinh mạng»; map ×6
+tiṭṭheyya|0	tồn tại	map ×5 (kappaṭṭho kappaṃ tiṭṭheyya); for the user (tiṭṭhati vs atthi)
+bhabbo|0	có khả năng	= bhabbā (pi-2 «có khả năng»), pair with abhabbo
+jānato|0	người biết	genitive participle as a person (pi-4 «biết» not attested); tie
+ñāṇa niṭṭhitā|0	hiểu biết … đã hoàn tất	ñāṇa = «hiểu biết»; the unbroken «biết đã hoàn tất» is a fragment of «sự không biết» (aññāṇa)
+bhāsati|0	nói ra	map ×2
+samuṭṭhānā|0	do … sinh ra	= pi-1 / pi-2 / pi-3 termbase (same tag)
+Pahāya|0	sau khi dứt bỏ	= pi-2 / pi-4 termbase (same tag)
+sāvako|0	vị đệ tử	= pi-2 termbase (same tag)
+vinaye|0	Giới Luật	= pi-2 termbase
+pucchati|0	hỏi	verb
+tika|0	bộ ba	= pi-2 / pi-4 termbase (triads)
+uppajjitvā|0	sinh khởi rồi	absolutive; no tense word
+vane|0	rừng	tie; plain
+samiñjeti|0	co lại	tie; pair with pasāreti «duỗi ra»
+viloketi|0	nhìn quanh	= pi-2 / pi-4 termbase
+pasāreti|0	duỗi ra	tie; pair with samiñjeti «co lại»
+muhuttaṃ|0	thời khắc	map ×3
+kāyikaṃ|0	nơi thân	= pi-1 / pi-2 termbase (same tag)
+phassa|0	sự tiếp xúc	= pi-1 / pi-2 / pi-3 termbase; core term
+amanāpa|0	không đáng ưa thích	harmonise decision (manāpa «đáng ưa thích», pi-2)
+ve|0	quả thật	= vata «quả thật» (emphatic)
+cetasikaṃ|1	trong tâm	= pi-1 / pi-2 termbase (same tag)
+sukhā vedanā|0	cảm giác dễ chịu	= pi-2 termbase; unbroken form
+Dukkhe|0	khổ đau	= pi-1 / pi-2 termbase
+sikkhā|0	tu học	= pi-2 termbase; stem and compound member bare
+voharati|0	nói về	tie
+hīna|1	kém	tie; plain
+cariyā|0	sự thực hành	tie
+vidū|0	hiểu	map ×2
+pubba|0	trước đây	map ×2
+akkhānaṃ|0	việc giảng giải	tie
+cuti|0	sự chết	pi-2 user decision cuti «sự chết»; = pi-1 / pi-4 termbase
+nānā|0	khác nhau	= pi-2 / pi-4 termbase
+ārammaṇaṃ|0	đối tượng	= pi-1 / pi-2 termbase (noun; «có» frame dropped)
+bojjhaṅgā ariyā|0	chi phần giác ngộ là cao quý	thesis predicate with «là», as Satipaṭṭhānā ariyā; tie
+Satipaṭṭhānā ariyā|0	sự thiết lập tỉnh thức là cao quý	thesis predicate with «là», as bojjhaṅgā ariyā
+ārammaṇā|0	có đối tượng	= pi-1 / pi-2 / pi-3 termbase (having as object)
+cittaṃ vimuccati|0	tâm được giải thoát	unbroken form
+dosaṃ|0	sự sân hận	= pi-4 termbase; noun used alone
+mohaṃ|0	sự si mê	= pi-1 termbase; noun used alone
+Vimuttaṃ|0	được giải thoát	= pi-2 termbase
+kataṃ|0	đã được làm	tie; past participle
+vuttāni bhagavatā|0	Đức Thế Tôn đã nói	map ×3
+uttamo|0	tối thượng	= pi-4 termbase
+anuttaraṃ|0	không có điều gì cao hơn	= pi-2 termbase; plain
+upapattiyā|0	tái sinh	= pi-1 termbase; coordinator rule
+uppādā|0	sự sinh khởi	map ×4
+aggaṃ|0	đỉnh cao	tie; plain
+deti|0	cho	= pi-4 termbase; harmonise dadāti «cho»
+pacchā|0	sau	map ×2
+seṭṭho|0	bậc tối thắng	Buddha epithet with head noun (^5-401, ^5-799); map ×2
+bhūmi|0	mặt đất	tie; plain
+aggo|0	bậc đứng đầu	Buddha epithet list ^5-799 (head noun as seṭṭho); pi-4 user decision aggo «hàng đầu» reported
+gacchati|0	đi đến	map ×5
+Bodhisatto okkantaniyāmo|0	Bồ-tát đã bước vào sự cố định	unbroken form
+Bodhisatto akāsi|0	Bồ-tát đã làm	unbroken form
+paṭipuggalo|0	ai sánh ngang	'no equal' (natthi paṭipuggalo); «người đối địch» would mislead
+anupalitto|0	không bị vấy bẩn	unbroken form
+samāpajjeyya|0	nhập	optative bare (map coordinator rule)
+samāpajjantassa|0	người nhập	distinct pair samāpajjanta «người nhập» vs samāpanna «người đang nhập»
+Niyatassa atthi ñāṇaṃ|0	người cố định có hiểu biết	person name with head noun (map: niyato «người …»); atthi possessive «có»
+niyato|0	được cố định	map ×7 (ch20); for the user (pi-2 «cố định», pi-4 «có hướng đi cố định»)
+pattā|0	đã đạt đến	= patto «đạt đến» family (pi-4)
+dadantassa|0	người đang cho	harmonise dadāti «cho»; person with head noun
+adhipati|0	yếu tố chi phối	map ×4; for the user (pi-1 «yếu tố chủ đạo» not attested)
+niyāmaṃ okkamanti|0	bước vào sự cố định	unbroken form
+asaṅkhatāni|0	điều không do điều kiện tạo thành	map ×14; noun use
+ṭhitā|0	đã đứng vững	= pi-4 termbase (same tag)
+saṅkhārapaccayā|0	sự tạo tác làm điều kiện cho	= pi-2 termbase; unbroken form
+asaṅkhatā|0	không do điều kiện tạo thành	= pi-1 / pi-2 / pi-3 termbase
+appaṇihito|0	cái không mong cầu	= appaṇihita «cái không mong cầu», Animittaṃ «cái …» (map ch27 «cái» nouns)
+kumbhiyā|0	chum	tie; the tag 'vessel, jar'
+samādhinā|0	định tâm	core term; = pi-4 termbase
+satiyā|0	sự tỉnh thức	core term; = pi-2 termbase
+viditvā|0	sau khi biết	gerund keeps «sau khi»
+bhikkhu|0	vị tỳ-khưu	= pi-1 / pi-2 / pi-4 termbase
+attato|0	tự ngã	= pi-1 / pi-2 termbase
+abyābajjhaṃ|0	không gây hại	'non-harming' (sabyābajjha «gây hại»); tie
+pānaṃ|0	thức uống	map ×2
+yānaṃ|0	xe cộ	tie
+viya|0	như	map ×2
+ābhogassa|0	người chú hướng	tie; shorter
+ārāma|0	vườn cây	map ×2
+paccati|0	bị nung đốt	map ×2
+arūpino|0	phi vật chất	= pi-1 / pi-2 / pi-3 termbase
+Tiṭṭhanti|0	tồn tại	map ×2; for the user (tiṭṭhati vs atthi)
+Rūpino dhammā|0	hiện tượng thuộc vật chất	= pi-1 / pi-3 termbase
+rūpaṃ kusalaṃ|0	vật chất là thiện	unbroken form with inner «là»
+saññī|0	có tri giác	= pi-1 / pi-2 / pi-4 termbase
+ārabbha uppajjati|0	lấy … làm đối tượng mà sinh khởi	map ×5 (ārabbha's own gap)
+ārammaṇo|0	có đối tượng	= pi-2 termbase
+citte vattamāne|0	tâm … đang diễn ra	map ×3 (locative absolute without «khi»)
+vattamāne|0	đang diễn ra	map ×5
+samaṅgī|0	người có được	person with head noun; map ×6
+cakkhuviññāṇasamaṅgī|0	người có được thức qua mắt	= samaṅgī family
+Anāgatārammaṇaṃ|0	có đối tượng thuộc tương lai	= pi-2 termbase; unbroken form
+vitakko vicāro|0	sự hướng tâm và sự duy trì tâm	core terms; map ×3
+uppādaṃ|0	sự sinh khởi	map ×2
+Mato|0	người đã chết	map ×2
+visayaṃ|0	phạm vi	= visayo «phạm vi» (pi-5 family)
+samanantarā|0	liền sau	= pi-2 / pi-4 termbase (pi-4 user decision)
+Cakkhuviññāṇaṃ uppajjati|0	thức qua mắt sinh khởi	unbroken form
+Cakkhuviññāṇaṃ kusalaṃ|0	thức qua mắt là thiện	tie; «vừa» is a segment frame
+akusalā dhammā|0	hiện tượng bất thiện	= pi-1 / pi-2 / pi-3 termbase
+ekanta|0	hoàn toàn	= pi-4 termbase
+Saṃvaro kammaṃ|0	sự phòng hộ là nghiệp	unbroken form; for the user (saṃvara)
+kareyya|0	đi nhiễu quanh	map ×3
+okkamati|1	nhập vào	map ×2
+anuseti|0	nằm sẵn	= pi-2 termbase (same tag, latent tendency); pi-4 «âm ỉ» was its review wording for one simile
+dhammataṇhā lobho|0	khao khát đối tượng của ý là sự tham lam	unbroken form; map ×2
+bhojanaṃ|0	bữa ăn	map ×5 (… bhojana)
+visujjhati|0	được thanh tịnh	map ×2
+bhoga|0	tài sản	= pi-2 termbase (same tag)
+indriyabaddhaṃ dukkhaṃ|0	khổ đau gắn kết với các năng lực	unbroken form
+kiñci saṃyojanaṃ pahāya|0	dứt bỏ một xiềng xích nào đó	tie; renders kiñci in full
+gatiṃ|0	cõi tái sinh	re-align: gati family «cõi tái sinh» (gati, gatiyā, gatiyo); = pi-2 / pi-4 termbase (pi-4 user decision gatiṃ)
+abhabba|0	không có khả năng	re-align: abhabbo / abhabbā «không có khả năng»; = pi-4 termbase
