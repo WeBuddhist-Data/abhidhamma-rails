@@ -1,0 +1,32 @@
+# pi-4 Vietnamese zero-shot, chapter 3 (Dukapuggalapaññatti): new recurring terms and formulas
+
+Yassa puggalassa ayaṃ X appahīno – ayaṃ vuccati puggalo "Y". = Người mà X này chưa được dứt bỏ – người này được gọi là “Y”.
+Yassa puggalassa ayaṃ X pahīno – ayaṃ vuccati puggalo "Y". = Người mà X này đã được dứt bỏ – người này được gọi là “Y”.
+Iminā / Imāya X samannāgato puggalo "Y". (bad quality) = Người mang X này là “Y”.
+Iminā / Imāya X samannāgato puggalo "Y". (good quality) = Người được trang bị X này là “Y”.
+Yassa puggalassa pañcorambhāgiyāni saṃyojanāni appahīnāni = Người mà năm xiềng xích thuộc phần thấp chưa được dứt bỏ
+pañcuddhambhāgiyāni saṃyojanāni = năm xiềng xích thuộc phần cao
+"mā maṃ jaññā"ti icchati, … saṅkappati, … vācaṃ bhāsati, … kāyena parakkamati (after a dash) = người ấy mong muốn “Mong người ta đừng biết về tôi”, suy tính “…”, nói lời “…”, hành động bằng thân “…”.
+sampavaṅkatā = sự nghiêng theo
+Katame dve puggalā X? = Hai hạng người nào X?
+– ime dve puggalā X / "X". = – hai hạng người này X / “X”.
+Katamesaṃ dvinnaṃ puggalānaṃ āsavā (na) vaḍḍhanti? = Các ô nhiễm của hai hạng người nào (không) tăng trưởng?
+– imesaṃ dvinnaṃ puggalānaṃ āsavā (na) vaḍḍhanti. = – các ô nhiễm của hai hạng người này (không) tăng trưởng.
+dullabhā lokasmiṃ = khó tìm gặp trong thế gian
+pubbakārī = người làm ơn trước
+kataññū katavedī = người biết ơn, đền ơn
+duttappayā / sutappayā = khó làm cho thỏa mãn / dễ làm cho thỏa mãn
+laddhaṃ laddhaṃ nikkhipati = nhận được thứ gì cũng cất giữ lại
+laddhaṃ laddhaṃ vissajjeti = nhận được thứ gì cũng đem cho đi
+na kukkuccāyitabbaṃ kukkuccāyati = hối tiếc về điều không đáng hối tiếc
+kukkuccāyitabbaṃ na kukkuccāyati = không hối tiếc về điều đáng hối tiếc
+dussīlo pāpadhammo = phạm giới, có phẩm chất xấu
+sīlavā kalyāṇadhammo = giữ giới, có phẩm chất tốt
+sevati bhajati payirupāsati (verb) = gần gũi, kết giao, thân cận với
+paccekasambuddhā = các bậc Độc Giác
+tathāgatassa sāvakā arahanto = những đệ tử A-la-hán của Như Lai
+titto ca tappetā ca = vừa là người đã thỏa mãn, vừa là người làm cho người khác thỏa mãn
+vibha. N (inside variant brackets) = “Phân tích các hiện tượng” N
+khuddakavibhaṅgadukaniddese = trong phần giải thích phân loại theo nhóm hai của “Phân tích các chủ đề nhỏ”
+(sabbattha) = (mọi bản) (pi-2)
+padasiddhi cintetabbā = cần xem xét cách cấu tạo của từ

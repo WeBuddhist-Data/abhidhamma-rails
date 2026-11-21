@@ -1,0 +1,2 @@
+[4-1-6-0] paññatti, puggalapaññatti, puggala, chakka
+[4-202] sabbaññutaṃ, arahantā, pāpuṇāti, abhisambujjhati, sambuddho, āgantā, sāvaka, dukkhassanta, niddeso, sammā, sammāsambuddho, anussutesu, karoti, dhamme, evaṃ, karo, vasībhāvaṃ, anāgāmī, sakadāgāmino, pāramiṃ, puggalo, balesu, avasesā, chakka, pacceka, paccekasambuddho, sotāpanna, dukkhassa, dhammesu, ananussutesu dhammesu, sāmaṃ, saccāni, daṭṭhabbo

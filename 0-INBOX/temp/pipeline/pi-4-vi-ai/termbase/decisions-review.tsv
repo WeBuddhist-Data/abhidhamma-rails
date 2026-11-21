@@ -1,0 +1,19 @@
+# Termbase alignment to the reviewed pi-4 Vietnamese rails text (2026-11-21): review fixes (rails/review-fixes-log.tsv, rails/review-fixes-notes.md), user decisions 2026-11-21 (vi-review-fixes-brief.md 1-11, "Approve, then merge"). Terms as the reviewed text has them, in citation form; only senses whose every use now takes the new wording. Not set (shared senses, old wording kept elsewhere): arūpa|0 (^4-44, ^4-130), pāpamitto|0 (^4-56, ^4-M-8), kalyāṇamitto|0 (^4-76, ^4-M-8), dhamma ^4-172 (no sense of dhamma is «phẩm hạnh»; all four senses used elsewhere).
+avakkanti|0	sự khởi lên	review decision 1 (gotrabhū, ariyadhammassa avakkanti «trạng thái cao quý khởi lên»): ^4-10
+vihāya|0	sau khi rời bỏ	review decision 2 (idha vihāya niṭṭhā «sau khi rời bỏ cõi này»): ^4-209, ^4-M-16
+sāraparivāro|0	các cây quanh nó có lõi	review decision 3 (tree pheggu sāraparivāro «cây gỗ xốp mà các cây quanh nó có lõi»): ^4-170
+phegguparivāro|0	các cây quanh nó là gỗ xốp	review decision 3 (tree sāro phegguparivāro «cây có lõi mà các cây quanh nó là gỗ xốp»): ^4-170
+sāro parivāro|0	có lõi … các cây quanh nó	review decision 3 (tree «cây có lõi mà / và các cây quanh nó …»; gapped form kept): ^4-170
+pheggu parivāro|0	gỗ xốp … các cây quanh nó	review decision 3 (tree «cây gỗ xốp mà / và các cây quanh nó …»; gapped form kept): ^4-170
+puggalo sāro parivāro|0	người có lõi … những người quanh mình	review decision 3 (persons «người có lõi mà / và những người quanh mình …»; gapped form kept): ^4-170
+puggalo pheggu parivāro|0	người không có lõi … những người quanh mình	review decision 3 (persons «người không có lõi mà / và những người quanh mình …»; gapped form kept): ^4-170
+parivāro|0	quanh	review decision 3 (one term for both «các cây quanh nó» and «những người quanh mình»): ^4-170
+purisapuggalo|0	người đàn ông	review decision 5 («Người đàn ông này kết bạn với …»; was pi-2 «con người»): ^4-124, ^4-126
+uddhaṃsoto|0	theo dòng đi lên	review decision 8 (uddhaṃsoto akaniṭṭhagāmī «người theo dòng đi lên đến cõi Sắc Cứu Cánh»): ^4-40, ^4-M-7
+uddhaṃsotassa|0	theo dòng đi lên	review decision 8 (as uddhaṃsoto): ^4-209
+gāmino|0	đến	review decision 8 (akaniṭṭhagāmino «đến cõi Sắc Cứu Cánh»; «đi lên» now belongs to uddhaṃsota-; cf. gāmī|0 rule): ^4-209
+dhammā|0	những điều	review decision 11 («những điều do Như Lai tuyên bố»): ^4-27, ^4-28, ^4-96, ^4-97
+paveditā dhammā|0	những điều … tuyên bố	review decision 11 (gapped form kept): ^4-27, ^4-28, ^4-96, ^4-97, ^4-208
+anuseti|0	âm ỉ	review decision 11 («âm ỉ trong người ấy rất lâu», negated «không âm ỉ trong người ấy lâu»; was pi-2 «nằm sẵn»): ^4-113, ^4-114, ^4-163
+ciraṃ dīgharattaṃ|0	rất lâu	review decision 11 («âm ỉ trong người ấy rất lâu»): ^4-113, ^4-163
+buddhānaṃ|0	chư Phật	review decision 11 («chư Phật và các đệ tử của Đức Phật»): ^4-164, ^4-165

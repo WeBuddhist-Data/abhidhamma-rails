@@ -1,0 +1,126 @@
+# pi-4 (Puggalapaññatti) Pāli→Vietnamese senses, sample (agg-sample.tsv = first 90 rows of part 1 + next 30 multi-value rows, 120 rows).
+# Hand-written tag table, headword by headword. Tag source order (senses-conventions.md §2): the approved pi-3, then pi-2,
+# then pi-1 Vietnamese tag where the Vietnamese values match and the tag's example / grammar label fits pi-4 (example or
+# label adapted where it does not occur in pi-4); otherwise the approved pi-4 Russian tag word for word; new or combined
+# tags only where the Vietnamese splits differently from all of them.
+# Build: python -I -X utf8 senses_tool_vi.py build --part sample
+abhidhamma: {the higher teaching, name of the third basket (compound member, title lines)}
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+paññatti: {designation, descriptive account, in the book and chapter titles and in the designation questions of the matrix (stem and nominative sg.)}
+Puggalapaññatti: {designation of persons, title of the fourth Abhidhamma book and the sixth designation of its matrix (compound)}
+puggala: {individuals, as stem in the title compound}
+kāyena: {with the body, by the body (instrumental sg.)}
+parikkhīṇā: {completely worn out, said of the taints (nominative pl. participle)}
+Katamo: {interrogative 'which?' opening each definition}
+Katamo puggalo: {'which individual?', the definitional question}
+vimutto: {freed, as in samayavimutto (nominative sg. participle)}
+vimokkhe: {the eight deliverances (accusative pl.)}
+viharati: {dwells, abides, in a meditative attainment as in 'upasampajja viharati' (3rd sg. verb): an trú; lives, conducts oneself in a given manner, as in 'vigatābhijjhena cetasā viharati' (3rd sg. verb): sống}
+samayena: {at certain times only (instrumental)}
+puggalo: {a person, an individual (nominative sg.)}
+vuccati puggalo: {closing formula 'this individual is termed'}
+āsavā: {taints, the influxes (nominative pl.)}
+samaya: {occasion, as compound member in samayavimutto}
+phusitvā: {having personally experienced the liberations with the body (figurative, absolutive): chạm đến; having touched (absolutive): chạm}
+paññāya: {with wisdom, by discernment (instrumental sg.)}
+Niddeso: {exposition, detailed explanation (heading member)}
+ekaka: {ones, the single-item group, in Ekakauddeso and Ekakapuggalapaññatti (heading member): nhóm một; classification by ones, the onefold exposition, in the closing label Ekakaniddeso (heading member): phân loại theo nhóm một}
+duka: {pairs, the dyad groups (heading member): nhóm hai; classification by twos, the twofold exposition, in the closing label Dukaniddeso and an editorial note on the Vibhaṅga (heading member): phân loại theo nhóm hai}
+tika: {triads, the groups of three (heading member): nhóm ba; classification by threes, the threefold exposition, in the closing label Tikaniddeso (heading member): phân loại theo nhóm ba}
+catukka: {fours, the groups of four items (heading member): nhóm bốn; classification by fours, the fourfold exposition, in the closing label Catukkaniddeso (heading member): phân loại theo nhóm bốn}
+pañcaka: {fives, the groups of five items (heading member): nhóm năm; classification by fives, the fivefold exposition, in the closing label Pañcakaniddeso (heading member): phân loại theo nhóm năm}
+chakka: {sixes, the groups of six items (heading member): nhóm sáu; classification by sixes, the sixfold exposition, in the closing label Chakkaniddeso (heading member): phân loại theo nhóm sáu}
+sattaka: {sevens, the groups of seven items (heading member): nhóm bảy; classification by sevens, the sevenfold exposition, in the closing label Sattakaniddeso (heading member): phân loại theo nhóm bảy}
+aṭṭhaka: {eights, the groups of eight items (heading member): nhóm tám; classification by eights, the eightfold exposition, in the closing label Aṭṭhakaniddeso (heading member): phân loại theo nhóm tám}
+navaka: {nines, the groups of nine items (heading member): nhóm chín; classification by nines, the ninefold exposition, in the closing label Navakaniddeso (heading member): phân loại theo nhóm chín}
+dasaka: {tens, the groups of ten items (heading member): nhóm mười; classification by tens, the tenfold exposition, in the closing label Dasakaniddeso (heading member): phân loại theo nhóm mười}
+ariya: {noble, of the noble ones (stem and compound member): cao quý; the noble ones, in ariyapuggala 'noble person' (compound member): bậc thánh}
+ariyapuggalā: {the eight holy individuals (nominative pl.)}
+puggalā: {types of person, as counted in the group lists and similes, 'dve puggalā', 'tayo puggalā' (nominative pl.): hạng người; persons, individuals (nominative pl.): người}
+dhammo: {moral nature, in pāpa-/kalyāṇadhammo: phẩm chất; subject to, liable to, suffix -dhammo in kuppadhammo, parihānadhammo and avinipātadhammo (nominative sg.): thể bị / phải}
+na: {not, the negative particle (particle)}
+pamādaṃ: {heedlessness (accusative)}
+sahagatānaṃ: {accompanied by, compound final (genitive pl.)}
+rūpasahagatānaṃ: {belonging to the fine-material sphere (genitive pl.)}
+kasira: {with toil, in akasiralābhī and kasiravuttika}
+samāpajjati: {attains, goes into an attainment (3rd sg.)}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member): hình sắc / cõi hình sắc; outward looks or colour of a body: hình sắc / màu lông; visible form, the object of the eye (compound member, as in rūpāyatana and the element rūpadhātu): hình sắc; matter, material form (compound member, as in rūpakkhandha): vật chất}
+arūpa: {the immaterial sphere, or immaterial (compound member, as in arūpāvacara and arūpūpapatti)}
+lābhī samāpattīnaṃ: {one who obtains the attainments (phrase)}
+samāpattīnaṃ: {the meditative absorptions attained (genitive pl.)}
+puggalo lābhī: {the individual is an obtainer (phrase)}
+kuppa: {shakable, in kuppadhammo}
+kiccha: {with effort, in akicchalābhī}
+yatthicchakaṃ: {at whatever place one wishes (adverb)}
+yadicchakaṃ: {whatever one wishes (adverb)}
+icchakaṃ: {as desired, in yāvaticchakaṃ}
+akuppa: {unshakable, in akuppadhammo}
+Aṭṭhānaṃ: {there is no possibility (opening formula)}
+parihāna: {decline, in parihānadhammo}
+parihānadhammo: {subject to decline (nominative sg.)}
+parihāyati: {declines (3rd sg.)}
+anusañceteti: {resolves to maintain (3rd sg.)}
+cetanā: {volition, the act of intending (compound member)}
+anurakkhati: {protects, keeps up (3rd sg.)}
+anurakkhaṇā: {preservation, in anurakkhaṇābhabbo}
+pahānāya: {for the abandoning (dative sg.)}
+pahīnāni: {given up (neuter pl. participle)}
+saṃyojanāni: {fetters, the bonds binding to existence (nominative pl.)}
+puthu: {many, common, in puthujjana: phàm phu; broad, in puthupañño: rộng lớn}
+puthujjano: {ordinary person, worldling (nominative sg.)}
+paṭipanno: {practising, proceeding on the path toward a fruit or acting for one's own or others' welfare (participle)}
+avakkanti: {descent, entry (noun in compound)}
+bhū: {becoming, final member of gotrabhū}
+samanantarā: {immediately after, right after (adverb)}
+gotra: {clan, in gotrabhū}
+samannāgato: {furnished with, endowed with (masculine nominative sg. participle)}
+Arahā: {the perfected one (nominative sg.)}
+bhaya: {dread, in bhayūparato}
+sekkhā: {those still in training (nominative pl.)}
+janā: {folk, human beings (nominative pl.)}
+uparatā: {desisting (nominative pl. participle)}
+uparato: {desisting, in bhayūparato (nominative sg.)}
+sīlavanto: {virtuous, possessed of morality (nominative pl.)}
+kamma: {deeds, as compound member}
+niyāmaṃ: {the fixed course of rightness, certainty of destiny (accusative)}
+kilesa: {defilements, staining the mind (compound member)}
+eḷā: {dumb, slow-witted, in eḷamūgā}
+okkamituṃ: {to step into (infinitive)}
+saddhā: {faith, trusting confidence (nominative sg.)}
+āvaraṇena: {by an obstruction (instrumental)}
+duppaññā: {unwise, of poor understanding (nominative pl.)}
+vuccanti puggalā: {closing formula 'these individuals are termed'}
+āgamano: {going forward (nominative)}
+sammattaṃ: {correctness, rightness of the fixed course (accusative)}
+abhabba: {incapable (compound member)}
+kusalesu: {wholesome, of phenomena or standing for the wholesome minds (locative pl.)}
+niyato: {certain of destiny (nominative sg.)}
+phala: {result, the fruit of a path or of effort and merit (compound member): thành quả; fruits of plants, as eaten by ascetics in pavattaphalabhojī (compound member): trái cây}
+hoti: {it occurs to one, one thinks, in 'Tassa evaṃ hoti' (3rd sg. idiom): nghĩ; comes to be, arises (3rd sg.): xảy ra / có; results in, conduces to (with dative): đem lại}
+jīvita: {life, vitality (compound member, as in jīvitindriya, and nominative)}
+ṭhita: {remaining, standing still, in ṭhitakappī 'one who could make the aeon stand' (compound member): dừng lại; standing firm, steady, in ṭhitatto 'of steadied self' (compound member): đứng vững}
+sambuddho: {the self-awakened one, the Buddha (nominative sg.)}
+sammā: {perfectly, in sammāsambuddha (compound member): Hoàn Toàn; right, correct, rightly, prefixed to path factors (compound member and adverb): đúng đắn}
+sammāsambuddho: {the perfectly self-awakened one (nominative sg.)}
+sāmaṃ: {by oneself (adverb)}
+patto: {having reached (nominative sg. participle)}
+dukkha: {suffering in general, as in dukkhasacca 'the truth of suffering' (stem and compound member): khổ đau; pain, painful feeling, bodily or in adukkhamasukha, also unpleasant to the touch, said of cloth in dukkhasamphassa (stem and compound member): khó chịu}
+ṭhito: {standing firm, established in a fruit (nominative sg. participle): đã đứng vững; staying afloat, keeping one's place in the water simile (nominative sg. participle): đứng yên}
+dhamma: {the Buddha's teaching, in dhammamacchariya and dhammānusārī (compound member): Giáo Pháp; phenomena, states, as in dhammavicaya and adhipaññādhammavipassanā (compound member): hiện tượng; moral nature, in pāpadhamma: phẩm chất; mind-objects, what the mind as sixth sense knows (compound member, as in dhammāyatana and dhammadhātu): đối tượng của ý}
+dukkhassa: {of dukkha as the noble truth (genitive): khổ đau; of pain (genitive sg.): sự khó chịu}
+rāga: {lust, passion (stem and compound member)}
+upahacca: {on approaching, in upahaccaparinibbāyī}
+saṅkhāra: {exertion, in sa-/asaṅkhāraparinibbāyī: sự thúc đẩy; formations, the volitional factors of the fourth aggregate (compound member): tạo tác}
+gāmī: {one who goes, compound final (nominative sg.)}
+pahīnā: {given up (nominative pl. participle)}
+pahīno: {given up (nominative sg. participle)}
+kodhano: {wrathful one (nominative sg.)}
+doso: {hatred, hostility (nominative sg.)}
+upanāhī: {one who harbours resentment (nominative sg.)}
+kammaṃ: {action-noun final '-making, -doing' in a synonym list: hành động; morally significant acts (accusative): nghiệp}
+makkhī: {one who disparages (nominative sg.)}
+paḷāsī: {one who is presumptuous (nominative sg.)}
+āhāro: {mode, way, in paḷāsāhāro: sự ôm giữ; food one ate, in evamāhāro of the recollection of past lives (compound member): thức ăn}
+issukī: {one who is jealous (nominative sg.)}
+para: {others, other people, as in parālābha 'others' gain' (compound member): người khác; other, in the deity name paranimmitavasavattī 'wielding power over others' creations' (compound member): Tha}
+pahīnaṃ: {given up (neuter sg. participle)}

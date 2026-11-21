@@ -1,0 +1,10 @@
+# User decisions on the pi-4 Vietnamese termbase, 2026-11-20 ("Approve as proposed"): where pi-4 words a Pāli term differently from the approved pi-1 / pi-2 termbases in the same meaning, pi-4 takes the earlier term (pi-2 rule: cross-book terms follow pi-1); the rails step makes the text follow. aṭṭhakathā keeps «Chú giải» (the name of the commentary text).
+jīvita|0	sự sống	user 2026-11-20: align to pi-1 / pi-2 (was «mạng sống»); as a compound member bare «sống» (jīvitindriya «năng lực sống»)
+saṭho|0	người gian trá	user 2026-11-20: align to pi-2 «gian trá», head noun kept (was «người gian xảo»)
+ñāti|0	người thân	user 2026-11-20: align to pi-2 (was «họ hàng»)
+samanantarā|0	liền sau	user 2026-11-20: align to pi-2 (was «ngay sau»)
+sampavaṅkatā|0	sự nghiêng về phía	user 2026-11-20: align to pi-1 / pi-2 (was «sự nghiêng theo»)
+icchā|0	sự mong muốn	user 2026-11-20: align to pi-1 / pi-2 (was «ước muốn»)
+aggo|0	hàng đầu	user 2026-11-20: align to pi-2 (was «đứng đầu»)
+gatiṃ|0	cõi tái sinh	user 2026-11-20: align to pi-2 (was «cõi»)
+# jīvita|0, saṭho|0, ñāti|0 were multi-candidate builder decisions (mạng sống / người gian xảo / họ hàng); their decisions.tsv lines were removed so the user decisions above replace them.

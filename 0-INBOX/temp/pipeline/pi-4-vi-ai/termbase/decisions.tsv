@@ -1,0 +1,108 @@
+# Citation form (as pi-1 / pi-2 / pi-3): noun headwords with their nominaliser as used alone («sự định danh», «sự tham đắm», «sự hồi tưởng»); stems, compound members, adjectives and predicates bare («tham đắm», «xấu», «hiểu biết rõ ràng», «lìa tham đắm»); tense words only where the tense is the point (pahīna «đã được dứt bỏ» = pi-4 term list; paṭipanno «đang thực hành» vs phaleṭhito «đã đứng vững»); «có» / «điều» dropped unless part of the meaning (-dhammo «có phẩm chất …», cārī «có hành vi» keep it); person names with their head noun «người» / «bậc» as approved (NAME) where the name use dominates or ties, bare where the attribute use dominates (niyato, sampajāno, pāpa- / kalyāṇadhammo); the unbroken form over a gapped « … » form. Order: core term / user decision / pi-4 term list, then approved pi-3 / pi-2 / pi-1 term among the candidates, then hcount, then clearest plain candidate.
+paññatti|0	sự định danh	user decision (pi-4 sample): paññatti «sự định danh»; noun headword with its nominaliser («định danh» is the title-only form)
+Puggalapaññatti|0	Định danh các hạng người	user decision: book title «Định danh các hạng người»; map ×12 vs ×3
+Katamo puggalo|0	thế nào là người	user decision: definition frame «Thế nào là X?» with names in «người»; map ×139 vs ×11 / ×1
+Niddeso|0	giải thích	= pi-1 / pi-2 / pi-3 termbase (same tag, heading member); map ×10 vs ×1 (heading «Phần giải thích» keeps «phần»)
+dhammo|1	thể bị	approved map convention (dhammo = «thể bị», the modal of kuppa- / parihānadhammo, the matrix names); «phải» only in avinipātadhammo; map ×5 / ×5
+kasira|0	vất vả	map ×6 vs ×1; = kasirena family («vất vả» in pi-1 / pi-2)
+rūpa|0	hình sắc	= pi-1 termbase (same tag); compound member bare; map ×12 vs ×1
+rūpa|1	hình sắc	pi-4 term list (rūpappamāṇo «lấy hình sắc làm thước đo»); map ×12 vs ×1 («màu lông» only in the cow simile)
+arūpa|0	không hình sắc	= pi-1 / pi-2 / pi-3 termbase (same tag); map ×8 vs ×1
+parihānadhammo|0	người có thể bị sa sút	person name with its head noun (NAME parihānadhammo); map ×2 vs ×1
+pahīnāni|0	đã được dứt bỏ	pi-4 term list pahīna «đã được dứt bỏ»; family pahīno / pahīnā / pahīnaṃ one term
+paṭipanno|0	đang thực hành	pi-4 term list / NAME «người đang thực hành»; aspect is the point (on the way vs phaleṭhito «đã đứng vững»); map ×7 vs ×4
+samannāgato|0	được trang bị	user decision (harmonise): «được trang bị» for qualities; = pi-2 termbase; map ×8 vs ×1 («mang» for bad states stays in the text)
+saddhā|0	niềm tin	core term; = pi-1 / pi-2 termbase (same tag); map ×12 vs ×4
+niyato|0	có hướng đi cố định	pi-4 term list (stream-enterer formula «có hướng đi cố định»); attribute use dominates (map ×5 vs ×2); the name «người có hướng đi cố định» keeps its head noun in the text
+hoti|1	xảy ra	«có» dropped (citation rule); the verb that renders 'comes to be' (^4-16)
+sambuddho|0	bậc Tự Giác Ngộ	person name with its head noun (NAME; pi-1 / pi-2 / pi-3 homage «bậc Tự Giác Ngộ Hoàn Toàn»); map ×7 vs ×2 / ×1
+sammāsambuddho|0	bậc Tự Giác Ngộ Hoàn Toàn	NAME sammāsambuddho (pi-1 homage form); map ×7 vs ×2
+sāmaṃ|0	tự mình	pi-4 term list (sāmaṃ saccāni abhisambujjhati «tự mình giác ngộ»); map ×5 vs ×1
+patto|0	đạt đến	map ×9 vs ×1 (diṭṭhippatto «người đạt đến quan điểm»)
+rāga|0	tham đắm	= pi-1 / pi-2 termbase (same tag, stem bare); map ×3 / ×3
+upahacca|0	khi gần mạng chung	the name's own form (upahaccaparinibbāyī «… khi gần mạng chung»); map ×2 vs ×1; unbroken meaning for a plain reader
+gāmī|0	đi	bare verb covering both names (anusota- / paṭisotagāmī «đi xuôi / ngược dòng»; «đến» belongs to the destination in uddhaṃsotoakaniṭṭhagāmī); map ×2 / ×2
+pahīnā|0	đã được dứt bỏ	pi-4 term list pahīna «đã được dứt bỏ»; map ×4 vs ×2
+pahīno|0	đã được dứt bỏ	pi-4 term list pahīna «đã được dứt bỏ»; family pahīnā / pahīnaṃ / pahīnāni
+kodhano|0	người giận dữ	person name with its head noun (NAME); map ×3 / ×3
+doso|0	sự sân hận	= pi-1 / pi-2 termbase (same tag); noun with its nominaliser; map ×3 vs ×1
+upanāhī|0	người ôm hận	person name (NAME); map ×2 vs ×1
+makkhī|0	người gièm pha	person name (NAME); map ×3 vs ×1
+paḷāsī|0	người ganh đua	person name (NAME); map ×2 vs ×1
+issukī|0	người ganh tị	person name (NAME); map ×3 vs ×1
+pahīnaṃ|0	đã được dứt bỏ	pi-4 term list pahīna «đã được dứt bỏ»; map ×2 / ×2
+vaṇṇa|0	lời khen	= pi-1 / pi-2 termbase (same tag, vaṇṇamacchariya); map ×2 vs ×1
+maccharī|0	người keo kiệt	person name (NAME); map ×2 vs ×1
+evaṃ|0	như vậy	the meaning 'thus' (^4-203); «cũng» of «cũng vậy» renders the -pi of the edition notes (evamuparipi, evaṃ … ṭhānesupi)
+māyāvī|0	người xảo trá	person name (NAME); map ×2 vs ×1
+caritvā|0	sau khi làm	= pi-2 termbase (same tag); map ×2 vs ×1
+nikati|0	sự gian lận	= pi-2 termbase (same tag); map ×2 vs ×1
+hetu|0	vì lợi ích	'for the sake of' (attahetu / parahetu «vì lợi ích của mình / người khác», ^4-98 / 99); map ×2 / ×2 («vì muốn» only with paṭicchādanahetu)
+vācāya|0	lời nói	= pi-2 termbase (same tag); map ×5 vs ×1
+ottappī|0	người biết ghê sợ tội lỗi	person name (NAME); map ×2 vs ×1
+patissavatā|0	sự vâng lời	noun headword with its nominaliser (list item of the sovacassatā string)
+sātatā|0	sự thích thú	= pi-2 termbase (same tag); list item, noun with its nominaliser
+ādariyatā|0	thái độ tôn trọng	= pi-2 anādariyatā «thái độ thiếu tôn trọng» (family); noun with its nominaliser
+gāravatā|0	sự kính trọng	noun headword with its nominaliser (list item)
+gāhitā|0	sự tiếp nhận	= pi-1 termbase (same tag)
+pāpa|0	xấu	compound member bare (citation rule); the adjective of pāpadhammo, pāpako, pāpasahāyo (map ×6); pi-1 / pi-2 «người xấu» is the pāpamitta context (cross-book, citation form)
+pāpamitto|0	người kết bạn với người xấu	person name (NAME); map ×2 vs ×1
+gopanā|0	sự bảo vệ	= pi-1 / pi-2 termbase (same tag)
+ārakkho|0	sự che chở	= pi-1 / pi-2 termbase (same tag)
+santuṭṭhitā|0	sự biết đủ	= pi-1 / pi-2 termbase (same tag)
+āhāraṃ|0	thức ăn	= pi-1 / pi-2 termbase (same tag 'edible food'); map ×2 vs ×1
+ññū|0	biết	approved map convention («ññū biết», «hiểu» only in ugghaṭitaññū); map ×4 vs ×3
+mattaññutā|0	sự biết tiết độ	= pi-1 / pi-2 termbase (same tag)
+muṭṭhassati|0	người mất tỉnh thức	person name (NAME); map ×2 vs ×1
+sammusanatā|0	sự quên lãng	= pi-1 / pi-2 termbase (same tag)
+dhāraṇatā|0	sự gìn giữ trong trí nhớ	= pi-1 / pi-2 termbase (same tag)
+sati|0	sự tỉnh thức	core term (sati = «sự tỉnh thức»); = pi-1 / pi-2 termbase (same tag); map ×4 vs ×2
+paṭissati|0	sự hồi tưởng	= pi-1 / pi-2 termbase (same tag)
+anussati|0	sự nhớ lại	= pi-1 / pi-2 termbase (same tag); map ×2 vs ×1
+saraṇatā|0	sự ghi nhớ	= pi-1 / pi-2 termbase (same tag)
+pilāpanatā|0	sự hời hợt	= pi-2 termbase (same tag, nominative)
+sampajāno|0	hiểu biết rõ ràng	= pi-1 / pi-2 termbase (same tag); adjective use dominates (map ×6 vs ×2 / ×1); the name «người có hiểu biết rõ ràng» keeps its head noun in the text
+moho|0	sự si mê	= pi-1 / pi-2 termbase (same tag); map ×2 vs ×1
+abhisamayo|0	sự thấu hiểu	noun with its nominaliser; map ×4 vs ×1
+vītikkamo|0	sự vi phạm	= pi-1 / pi-2 termbase (same tag)
+pada|0	câu chữ	NAME member (padaparamo «người chỉ dừng lại ở câu chữ»); map ×2 vs ×1
+kalyāṇamitto|0	người kết bạn với người tốt	person name (NAME); map ×2 vs ×1
+yoniso|0	đúng cách	= pi-1 / pi-2 termbase (same tag)
+sīlasampanno|0	người thành tựu về giới hạnh	person name (NAME); map ×2 vs ×1
+puggalā dullabhā|0	hạng người khó tìm gặp	unbroken over gapped; user decision puggalā counted «hạng người»
+pāpadhammo|0	có phẩm chất xấu	attribute use dominates (dussīlo hoti pāpadhammo; map ×5 vs ×2); «có» part of the meaning; the name keeps «người» in the text
+kalyāṇadhammo|0	có phẩm chất tốt	attribute use dominates (map ×4 vs ×2); same rule as pāpadhammo
+brahmacārī|0	sống đời sống tu hành trong sạch	map ×2 vs ×1; = pi-4 brahmacariyaṃ «đời sống tu hành trong sạch» (family)
+cārī|0	có hành vi	map ×4 vs ×2 (kāmesumicchācārī «có hành vi sai trái trong các dục lạc»); «có» part of the expression
+bhikkhu|0	vị tỳ-khưu	= pi-1 / pi-2 termbase (same tag); map ×9 vs ×2
+gilāna|0	người bệnh	pi-4 term list (simile gilāna «người bệnh»); map ×2 vs ×2 / ×1
+ehi|0	hãy đến đây	the imperative (^4-98 «hãy đến đây»); «được mời đến» is the paraphrase of naehibhaddantiko
+purisa|0	đàn ông	the tag's meaning 'a male person' (^4-174); «ông» is only the address «Này ông» of one repeated vocative formula (^4-98 / 99) and misleads as a standalone term (point for the user)
+cakkhu|0	mắt	= pi-1 / pi-2 / pi-3 termbase (same meaning); map ×3 / ×3
+paṭibhāge|0	đối lập	unbroken, without the context words «với chúng»; map ×3 vs ×1
+vītarāgo|0	lìa tham đắm	= pi-2 termbase (same tag); predicate bare, tense word dropped
+rāgo|0	sự tham đắm	= pi-1 / pi-2 termbase (same tag); noun with its nominaliser
+khippaṃ|0	nhanh chóng	= pi-2 termbase (same tag)
+assa|0	người ấy	map ×3 vs ×1; «của» is the genitive construction, not the term (user decision «người ấy» for non-monks)
+bhaṇati|0	nói	= pi-2 termbase (same tag)
+vāco|0	nói lời	map ×2 / ×2; = bhāṇī «nói lời» and vācā «lời nói» family; clearer than «ăn nói»
+kārī|0	thực hành	map ×3 vs ×1 (paripūrakārī, mattaso kārī)
+pāṇa|0	sinh mạng	map ×12 vs ×3; pāṇātipāta «sát hại sinh mạng» = pi-2 pāṇātipāto «việc sát hại sinh mạng» (pi-2 pāṇa «chúng sinh» is the pāṇabhūta use)
+puggalo pāṇātipātī|0	người sát hại sinh mạng	unbroken over gapped
+puggalo paṭivirato|0	người kiêng tránh	unbroken over gapped
+gava|0	bò	the noun 'cattle' (hatthigavassa «voi, bò, ngựa»); «đàn» is the context rendering in sakagavacaṇḍo; map ×1 / ×1
+paccājāto|0	tái sinh	'born again' (tag); map ×1 / ×1
+ajinaṃ|0	da linh dương	exact meaning 'antelope skin'; map ×1 / ×1
+yāpeti|0	sống nhờ	map ×1 / ×1; the shorter, clearer candidate
+puggalo attantapo|0	người tự hành hạ bản thân	unbroken over gapped; map ×2 vs ×1
+daṇḍa|0	cây gậy	map ×1 / ×1; the plain noun
+saddhiṃ|0	cùng với	map ×1 / ×1; clearer
+raja|0	bụi mù	map ×6 vs ×1 (rajaggaṃ «đám bụi mù»)
+pahāya|0	sau khi dứt bỏ	= pi-2 termbase (same tag); map ×3 vs ×2
+upakkilese|0	những thứ làm vẩn đục	= pi-2 termbase (same tag)
+abhininnāmeti|0	dẫn	unbroken over gapped; user decision «dẫn tâm» (tâm = cittaṃ), kept apart from vitakka «sự hướng tâm»; map ×3 vs ×1
+samannāgatā|0	được trang bị	user decision (harmonise): «được trang bị» for qualities (beauty formula); map ×2 vs ×1 (pi-2 «mang» = bad states: cross-book, same rule)
+māno|0	sự kiêu mạn	= pi-1 / pi-2 termbase (same tag)
+paṭisevati|0	hưởng thụ	clearer plain candidate (kāme paṭisevati «hưởng thụ các dục lạc»); «hành» only in «hành dâm»; map ×1 / ×1
+yodhājīvo sahati|0	chiến binh chịu được	unbroken over gapped
+kasirena|0	vất vả	family re-alignment: same lemma and meaning as kasira «vất vả» (akasiralābhī, kasiravuttika, ^4-168 same sentence); = pi-2 termbase kasirena «vất vả»; keeps kasira apart from kiccha «khó khăn» (akicchalābhī / akasiralābhī side by side); was «một cách khó khăn»
