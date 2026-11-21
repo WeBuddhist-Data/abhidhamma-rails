@@ -1,0 +1,19 @@
+# pi-3 Vietnamese review r3 (8-sattamanayo … 15-cuddasamanayo; 236 segments), 2026-11-20
+
+Coordinator summary of the reviewer's report (our wording only; no Tịnh Sự text). Process slip: the reviewer twice ran a Grep over the Vietnamese rails folder (our own files).
+
+Checks by the reviewer: every count, polarity, kehici / na kehici / Natthi, inclusion type, reference item and list member matches the Pāli (by script: 0 mismatches); items one-to-one consistent across the part and with pi-1 / pi-2 (nevasaññānāsaññā follows the user decision); typography clean.
+
+## Part A
+CRITICAL 0, MAJOR 3 (formula level), MINOR 4, plus 1 source-slip recommendation.
+- MAJOR, elided chain items (ch9, 11, 14, 15; book-wide convention, e.g. ch6 ^3-194): «Những hiện tượng nào cùng với khối cảm giác… những hiện tượng nào không gắn liền với …»: the placeholder «cùng với» for the elided predicate reads "together with" and hides the negation until the last item. Fix: repeat the real predicate in each elided item, keeping «…»: «Những hiện tượng nào không gắn liền với khối cảm giác… những hiện tượng nào không gắn liền với khối tri giác…»; ch14 «Những hiện tượng nào không được gộp vào cùng với …». MINOR in positive frames (ch8, 10, 12, 13): same fix with «gắn liền với …» / «được gộp vào cùng với …».
+- MAJOR, na kehici + vippayutta (ch8, 11; also ch7): «không có khối nào, không có lĩnh vực nhận biết nào mà những hiện tượng ấy không gắn liền với, nhưng …» invites "associated with every aggregate and base" (false: per the aṭṭhakathā on ^3-78 these include matter and nibbāna). Fix in our words: state the zero counts plainly, e.g. «… không gắn liền với không khối nào và không lĩnh vực nhận biết nào; chỉ không gắn liền với năm yếu tố», or r2's «… mà chúng không gắn liền; nhưng chúng không gắn liền với năm yếu tố».
+- MAJOR (clarity; book-level decision), dependent-origination items (^3-310, 325-329, 361-363, 413, 423-427, 449, 465-467): the quoted pi-2 link names («“vô minh làm điều kiện cho các sự tạo tác”») put the condition first, so the item reads as ignorance, not the conditioned formations; at ^3-325 / 361 ignorance seems listed twice. Fix: head with the conditioned item («các sự tạo tác do vô minh làm điều kiện», «thức do các sự tạo tác làm điều kiện», …), book-wide, recorded as a decision (pi-2 differs). Same as r1's ^3-62-66 point.
+- MINOR ^3-352, ^3-447 verse «saṅgahaṃ gatā» «đã được gộp vào» uses the technical term for "collected". Fix: «Những đề mục này được tập hợp trong phần giải thích đề mục thứ chín.»
+- MINOR ^3-455 verse line 4 «Cả hai; phạm vi của phương pháp này …»: mūlaṭīkā: dve = the last two items, visayo = the domain. Fix: «Hai mục sau cùng ấy; đó là phạm vi, và phương pháp này đã được hiểu rõ.» (cf. r2 on ^3-227).
+- MINOR ^3-317, 318, 417, 447, 456, 457, 518: comma before «thì» missing (present in ch8, 10, 11, 12, 14; the Pāli has it). Fix: «…, thì những hiện tượng ấy …».
+- Source slip ^3-447 «Rūpakkhandhā cattāro»: the aṭṭhakathā on ^3-417 says method 12 uses exactly the items of method 9, whose verse (^3-352) has Arūpakkhandhā; the chapter's items are the four mental aggregates; «Bốn khối vật chất» states something false. Reviewer recommends rendering as meant («Bốn khối phi vật chất», as ^3-352) or an [Ed: …] note. User decision (cf. pi-2 ^2-809 kept as written).
+- Other listed slips handled correctly (^3-343, 357, 408, 413, 453, 487, 505); also ^3-450, ^3-454 as meant. ^3-316 verse agrees with the mūlaṭīkā.
+
+## Part B (Tịnh Sự, meaning only)
+Reading 6, content 6: ours follows the Pāli each time (the reference adds or flips clauses at ^3-332, 357, 394, 433, 443, 451; merges dyad items at ^3-402-403; drops or adds items at ^3-399, 400, 440, 491, 495; misplaces content at ^3-462; omits or paraphrases the verses). Clarity 3: the reference states zero counts plainly, names the conditioned link first, and states the relation once before an elided list: all three covered by the Part A fixes.

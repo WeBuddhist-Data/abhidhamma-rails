@@ -1,0 +1,4 @@
+ekādasama (heading «Phương pháp thứ mười một») / ekādasamo (colophon «phần thứ mười một») = thứ mười một
+sampayutta / vippayutta (heading compound Saṅgahitenasampayuttavippayuttapadaniddeso «Giải thích đề mục về điều gắn liền và điều không gắn liền dựa trên điều được gộp vào») = điều gắn liền / điều không gắn liền (method nouns, as map_8 / map_9)
+saṅkhārehi (avijjāpaccayā saṅkhārehi «vô minh làm điều kiện cho các sự tạo tác») = sự tạo tác (as saṅkhārena of map_5)
+Association frame, reference words, cluster plurals and the closing verse of ^3-416 (= ^3-192) copied from map_5 / map_7: sampayuttā gắn liền, vippayuttā không gắn liền, sampayuttehi gắn liền, Natthi không có, kehici một số hiện tượng, dukkhena sự khó chịu, domanassena nỗi buồn, upādānehi sự bám víu, Uddhaṃ tiếp theo, gocchaka nhóm, vidhā loại, tiṃsa ba mươi, pannarasa mười lăm

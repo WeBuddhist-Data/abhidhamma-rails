@@ -1,0 +1,8 @@
+sampayutta / vippayutta (heading and colophon compound Sampayuttenavippayuttapadaniddeso «Giải thích đề mục về điều không gắn liền dựa trên điều gắn liền») = điều gắn liền / điều không gắn liền (method nouns, as asaṅgahita = điều không được gộp vào of map_3 / map_4)
+sampayuttā / vippayuttā (predicates of method 7) = gắn liền / không gắn liền (as map_7_vi.py); dhammā vippayuttā = hiện tượng … không gắn liền («đó» = te, skipped)
+kehici = một số hiện tượng (as map_7_vi.py, KD proposal: «không gắn liền với một số hiện tượng trong một lĩnh vực nhận biết, một yếu tố»)
+sattama (heading «Phương pháp thứ bảy») / sattamo (colophon «phần thứ bảy») = thứ bảy
+Reference words «Đối với X» = X itself: viññāṇakkhandhena khối thức (with Vedanā- / saññā- / saṅkhārakkhandhena of map_4), manāyatanena lĩnh vực ý, Cakkhuviññāṇadhātuyā yếu tố thức qua mắt, viññāṇena thức, cittena tâm, Cittehi tâm («các hiện tượng là tâm»)
+sahagatehi (upekkhāsahagatehi) = đi kèm; sahagatehi dhammehi = hiện tượng có … đi kèm (as KD sahagatā dhammā)
+savitakka dhammehi (artefact of Savitakkasavicārehi dhammehi) / Savitakkehi dhammehi = hiện tượng có sự hướng tâm; savicārehi dhammehi = hiện tượng có sự duy trì tâm; vitakkehi = sự hướng tâm; vicārehi = sự duy trì tâm
+Summary verse of ^3-316: indriyato («hai nữa từ các năng lực»; «từ các» frame) = năng lực; tathariva = cũng vậy (as tathā); manasi (Adhimuccanā manasi «Sự khởi quyết định, sự chú tâm») = sự chú tâm; antarā (Sattantarā «Bảy trong phần xen giữa») = phần xen giữa (as map_7 antare); manena = ý; yuttā («hai kết hợp với ý») = kết hợp; vicāraṇā (Vitakkavicāraṇā) = sự duy trì tâm

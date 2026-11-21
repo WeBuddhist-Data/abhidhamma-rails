@@ -1,0 +1,100 @@
+# pi-3 (Dhātukathā) Pāli→Vietnamese senses, sample (agg-sample.tsv = first 90 rows of part 1 + next 4 multi-value rows, 94 rows).
+# Hand-written tag table, headword by headword. Tag source order (senses-conventions.md §2): the approved pi-2 Vietnamese
+# tag, then pi-1 Vietnamese, where the Vietnamese values match and the tag's example / grammar label fits pi-3;
+# otherwise the approved pi-3 Russian tag word for word; new or adapted tags only where the Vietnamese splits differently
+# or the prior example compound does not occur in pi-3.
+# Build: python -I -X utf8 senses_tool_vi.py build --part sample
+abhidhamma: {the higher teaching, name of the third basket (compound member, title lines)}
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+kathā: {talk or treatise, as in the book title}
+Dhātukathā: {title of the third Abhidhamma book}
+dhātu: {element, an irreducible constituent (stem and compound final)}
+sampayuttaṃ: {conjoined as co-arising mental states (neuter sg. participle)}
+vippayuttaṃ: {not conjoined, standing apart (neuter sg. participle)}
+vippayogo: {the method of non-conjunction (nominative noun)}
+asaṅgahitaṃ: {not comprised within a category (neuter sg. participle)}
+asaṅgaho: {the method of non-comprising (nominative noun)}
+saṅgaho: {the method of comprising within a category (nominative noun)}
+saṅgaho asaṅgaho: {name of the first method, comprising and not comprising}
+Uddeso: {statement, the opening enumeration of a section (heading)}
+naya: {modes of treatment, in the heading Nayamātikā}
+mātikā: {the matrix, the schedule of topics a chapter expounds (heading and heading member)}
+abbhantara: {interior, as in the heading of the internal schedule}
+nayamukha: {entry points of the methods (heading compound)}
+lakkhaṇa: {distinguishing marks, in the heading on marks of the topics}
+bāhira: {exterior, as in the heading of the external schedule}
+Bāhiramātikā: {heading for the external schedule (the Dhammasaṅgaṇī topics)}
+jhānāni: {meditative absorptions, the jhānas (nominative pl.)}
+khandhā: {aggregates, groups of phenomena (nominative pl.)}
+manasikāro: {attention, bringing the object to mind (nominative sg.)}
+bodhi: {awakening (stem and compound member)}
+āyatanāni / pādā: {merged list keyword, the sense bases of dvādasāyatanāni and the bases of iddhipādā (nominative pl.)}
+phasso: {sense contact, the meeting of mind and object (nominative sg.)}
+paṭicca: {in dependence on conditions, first member of paṭiccasamuppāda (compound member)}
+padhānā: {endeavours, efforts, in sammappadhānā (nominative pl.)}
+aṭṭhārasa: {eighteen, the number of the elements (numeral)}
+aṭṭhārasa dhātuyo: {the eighteen elements (phrase, nominative pl.)}
+aṭṭhaṅgiko: {eight-factored, having eight factors (masculine nominative sg.)}
+dhātuyo: {elements, irreducible constituents (nominative pl.)}
+aṅgā: {factors, limbs, in bojjhaṅgā (compound final, nominative pl.)}
+indriyāni: {controlling faculties (nominative pl.)}
+vedanā: {feeling, the affective tone of experience (nominative sg.)}
+upaṭṭhānā: {establishments, in the four foundations of mindfulness (nominative pl.)}
+appamaññāyo: {the measureless states, the four immeasurables (nominative pl.)}
+cetanā: {volition, the act of intending (nominative sg.)}
+cittaṃ: {mind, a state of mind, as a listed topic and in 'no cittaṃ' 'what is not mind' of the summary verses (nominative/accusative sg.)}
+sati: {mindfulness, present awareness (stem and nominative)}
+ariyo: {noble, of the path in 'ariyo aṭṭhaṅgiko maggo' (masculine nominative sg.)}
+samuppādo: {arising together, second half of dependent origination (nominative sg.)}
+maggo: {the path, as a set of factors (nominative sg.)}
+saññā: {perception, recognition, as in saññākkhandha, also 'percipient' in saññābhava and asaññābhava of the existence list (stem and nominative sg.)}
+iddhi: {supernormal power, psychic potency (compound member, as in iddhipāda)}
+balāni: {powers, strengths (nominative pl.)}
+sammā: {right, correct, rightly, prefixed to the efforts in sammappadhāna (compound member): đúng đắn; perfectly, in sammāsambuddha (title line): Hoàn Toàn}
+āyatanāni: {sense bases, the sense fields (nominative pl.)}
+saccāni: {truths, the noble truths (nominative pl.)}
+dvādasa: {twelve, the number (cardinal numeral)}
+dvādasāyatanāni: {the twelve sense bases (nominative pl.)}
+bāvīsati: {the number 22, counting the faculties}
+nayo: {method, way of exposition (nominative sg.)}
+asaṅgaha: {non-comprising, as heading compound member}
+niddeso: {exposition, detailed explanation (heading member)}
+saṅgaha: {comprising, as heading compound member}
+saṅgahāsaṅgaha: {name of the first method in the headings (compound)}
+Khandho: {aggregate, a group of phenomena (nominative sg.)}
+Āyatanaṃ: {sense base, sense field (nominative/accusative sg.)}
+Saccaṃ: {truth, a noble truth (nominative/accusative sg.)}
+Indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.)}
+ādi: {and the rest, the other items, closing a heading such as Khandhādi or Saccādi (compound final): mục khác; beginning with, in Phassādisattakaṃ 'the group of seven beginning with contact' (compound member): bắt đầu bằng}
+samuppāda: {origination, arising together, in paṭiccasamuppāda (compound final)}
+asaṅgahita: {not comprised (stem in heading compounds)}
+visabhāgo: {of a dissimilar class (nominative sg.)}
+bhāga: {class or portion, in sabhāga and visabhāga}
+dhātukathāya: {the book title in the dative-genitive, for the Dhātukathā}
+saṅgaṇī: {listing, enumeration, second member of Dhammasaṅgaṇī (compound final)}
+dhammasaṅgaṇī: {title of the first Abhidhamma book, the listing of phenomena, named as the matrix of this book (nominative sg.)}
+dhamma: {mind-objects, what the mind as sixth sense knows (compound member, as in dhammāyatana and dhammadhātu): đối tượng của ý; phenomena, states, in the book title Dhammasaṅgaṇī (compound member): hiện tượng}
+sabbā: {entire, the book in its totality (nominative fem.)}
+Rūpakkhandho: {the aggregate of matter (nominative sg.)}
+khandhehi: {the five aggregates as counted units (instrumental or ablative pl.)}
+āyatanehi: {the twelve sense bases as counted units (instrumental or ablative pl.)}
+āyatanehi ekādasahi: {sense bases, then the numeral eleven of the element count, as in 'ekādasahāyatanehi ekādasahi dhātūhi' (instrumental pl. phrase)}
+dhātūhi: {the eighteen elements as counted units (instrumental or ablative pl.)}
+ekādasa: {eleven, the number (cardinal numeral)}
+ekādasahi dhātūhi: {phrase counting eleven of the elements (instrumental pl.)}
+ekādasahāyatanehi: {compound counting eleven of the sense bases (instrumental pl.)}
+asaṅgahito: {not comprised within a category (masculine sg. participle)}
+rūpa: {matter, material form (compound member, as in rūpakkhandha): vật chất; visible form, the object of the eye (compound member, as in rūpāyatana and the element rūpadhātu): hình sắc; the fine-material sphere, as in rūpabhava and rūpāvacara (compound member): hình sắc}
+āyatanena: {a single sense base as counted unit (instrumental or ablative sg.)}
+pañcama: {ordinal 5th, in method headings}
+Vedanākkhandho: {the aggregate of feeling (nominative sg.)}
+āyatanehi sattarasahi: {sense bases, then the numeral seventeen of the element count, as in '…āyatanehi sattarasahi dhātūhi' (instrumental pl. phrase)}
+dhātuyā: {a single element as counted unit (instrumental or ablative sg.)}
+sattarasahi: {the number 17 (instrumental pl.)}
+sattarasahi dhātūhi: {phrase counting seventeen of the elements (instrumental pl.)}
+chaṭṭha: {ordinal 6th, in method headings}
+vippayoga: {non-conjunction, as heading compound member}
+saṅkhāra: {formations, volitional activity, of the fourth aggregate and of dependent origination, as in saṅkhārakkhandha and saṅkhārapaccayā (stem and compound member)}
+dukkha: {pain, painful feeling, bodily or in adukkhamasukha (stem and compound member): khó chịu; suffering in general, as in dukkhasacca 'the truth of suffering' (stem and compound member): khổ đau}
+upekkhā: {equanimity, neutral feeling or mental balance (stem and nominative)}
+sukha: {happiness, as jhāna factor, in sukhasahagata (compound member): hạnh phúc; pleasant feeling, mental or bodily, as the faculty sukhindriya (compound member): dễ chịu}

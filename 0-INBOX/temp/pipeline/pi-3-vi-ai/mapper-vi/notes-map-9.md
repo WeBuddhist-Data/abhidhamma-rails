@@ -1,0 +1,6 @@
+sampayutta / vippayutta (members of the heading / colophon compound Vippayuttenasampayuttapadaniddeso «Giải thích đề mục về điều gắn liền dựa trên điều không gắn liền») = điều gắn liền / điều không gắn liền (method nouns with the text's «điều», as asaṅgahita = điều không được gộp vào of map_3 / map_4; the predicates sampayuttā / vippayuttā stay gắn liền / không gắn liền as map_7)
+aṭṭhama / aṭṭhamo = thứ tám (pi-1 / pi-2)
+X-kkhandhena reference words «Đối với khối X» = khối X: Rūpakkhandhena khối vật chất, viññāṇakkhandhena khối thức (others as map_4); viññāṇa (member) = thức
+saraṇehi dhammehi = hiện tượng có xung đột («các» dropped); raṇehi (fragment of araṇehi «không có xung đột») = xung đột (positive part, KD raṇā)
+sattacattālīsa = bốn mươi bảy; sattacattālīsa dhammā = bốn mươi bảy hiện tượng (keyword with its numeral keeps it, Vietnamese order «bốn mươi bảy hiện tượng này»)
+Summary verse of ^3-318: mataṃ (jātijarāmataṃ) = sự chết; labbhare (na labbhare «thì không tìm thấy») = tìm thấy («không» = na; ch7 labbhati = có, different Vietnamese); antare (Paṭhamantare «phần xen giữa thứ nhất») = phần xen giữa; gocchake = nhóm; Cuddasa = mười bốn; Samucchede «trong sự phân tách» = sự phân tách; moghapucchakena «do câu hỏi rỗng»: mogha = rỗng, pucchakena = câu hỏi

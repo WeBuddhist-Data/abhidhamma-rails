@@ -1,0 +1,8 @@
+āyatanasaṅgahena saṅgahitā = được gộp vào theo cách gộp vào lĩnh vực nhận biết (method 3 frame: the Vietnamese puts the predicate first, copied as it stands; Pāli order «theo cách … … được gộp vào» would point at the next clause's «được gộp vào»)
+indriyena khandhasaṅgahena = năng lực … theo cách gộp vào khối (artefact pair, like dhammehi khandhasaṅgahena = hiện tượng … theo cách gộp vào khối of map_3 / map_5)
+X-kkhandhena reference words = khối X: Vedanākkhandhena khối cảm giác, saññākkhandhena khối tri giác, saṅkhārakkhandhena khối tạo tác
+Reference words (as map_5): Jātiyā sự sinh, jarāya sự lão hóa, maraṇena sự chết, jhānena tầng thiền, dukkhena sự khó chịu (soka list), domanassena nỗi buồn, vedanāya cảm giác, saññāya tri giác
+asaṅkhatehi = không do điều kiện tạo thành, asaṅkhatehi dhammehi = hiện tượng không do điều kiện tạo thành (adjective; the noun asaṅkhataṃ keeps «điều»)
+parāmaṭṭhehi = bị sự hiểu sai lệch nắm giữ; Upādānehi = sự bám víu
+citta dyads: Cetasikehi yếu tố đồng hành với tâm, saṃsaṭṭhehi hòa lẫn, saṃsaṭṭhehi dhammehi hiện tượng hòa lẫn, samuṭṭhānehi do … sinh ra, sahabhūhi / sahabhūmi cùng tồn tại, sahabhūmi dhammehi hiện tượng cùng tồn tại, anuparivattīhi vận hành theo, anuparivattīhi dhammehi hiện tượng vận hành theo, cittānuparivattīhi (dhammehi) (hiện tượng) vận hành theo tâm, cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi = vừa hòa lẫn với tâm vừa do tâm sinh ra vừa vận hành theo tâm (pi-1 value)
+Closing verse ^3-190: ākāre (paccayākāre «chuỗi điều kiện») = chuỗi; upari (cuddasūpari «tiếp theo có mười bốn») = tiếp theo; Samatiṃsa = tròn ba mươi; gocchakesu = nhóm; dasasu = mười; antara (cūḷantaradukā / mahantarā) = xen giữa (pi-1, not pi-2 «sự khác biệt»); dukā = bộ đôi

@@ -1,0 +1,19 @@
+# Citation form (as pi-1 / pi-2): noun headwords with their nominaliser as used alone («sự bình thản», «tri giác»); stems, compound members, adjectives and predicates bare («tạo tác», «gắn liền», «không được gộp vào»); tense words only where the tense is the point (uppanna «đã sinh khởi» vs uppādino «sẽ sinh khởi»); «có» / «điều» dropped unless part of the meaning (sahetuka «có gốc rễ» keeps «có»); the unbroken form over a gapped « … » form. Order: core term / user decision / pi-3 term list, then approved pi-2 / pi-1 term among the candidates, then hcount, then clearest plain candidate.
+sampayuttaṃ|0	gắn liền	predicate bare (citation rule; «điều» only in the one matrix-noun use); = pi-1 / pi-2 termbase; family sampayuttā ×154, sampayutto, sampayuttehi «gắn liền»; map ×12 vs ×1
+vippayuttaṃ|0	không gắn liền	predicate bare; = pi-1 / pi-2 termbase; family vippayuttā ×210, vippayutto, vippayuttehi; map ×12 vs ×1
+asaṅgahitaṃ|0	không được gộp vào	predicate bare; user decision saṅgahita «được gộp vào»; family asaṅgahito / asaṅgahitā / asaṅgahitāni «không được gộp vào»; map ×19 vs ×1
+saññā|0	tri giác	core term (saññā = tri giác); = pi-1 / pi-2 termbase; «có tri giác» is the bhava-list use inside the approved one-sense merge
+saṅkhāra|0	tạo tác	stem and compound member bare; = pi-1 / pi-2 termbase; map ×14 vs ×8
+upekkhā|0	sự bình thản	noun headword with its nominaliser; = pi-1 / pi-2 termbase (same tag); map ×19 vs ×12
+hetukā|0	có gốc rễ	= pi-1 / pi-2 termbase (same tag); «có» part of the meaning (-ka 'having'); map ×9 vs ×2 (maggahetukā only)
+gāmino dhammā|0	hiện tượng dẫn đến	unbroken over gapped; = pi-1 termbase; map ×2 vs ×1
+hetukā dhammā|0	hiện tượng có gốc rễ	unbroken over gapped; = pi-1 termbase; map ×4 vs ×2
+Uppannā|0	đã sinh khởi	tense is the point (matrix triad uppannā «đã sinh khởi» vs Uppādino «sẽ sinh khởi», anuppannā «chưa sinh khởi»); = pi-1 / pi-2 termbase; bare «sinh khởi» is the fragment of anuppannā
+paṭighā saṅgahitā|0	có tính va chạm được gộp vào	unbroken over gapped; map ×3 vs ×2
+Cittā saṅgahitā|0	tâm được gộp vào	unbroken over gapped (map ×1 / ×1)
+citta saṅgahitā|0	tâm được gộp vào	unbroken over gapped (rule over count ×3 vs ×4); same as Cittā saṅgahitā
+hetukehi|0	có gốc rễ	family hetukā «có gốc rễ» and sahetukehi «có gốc rễ»; map ×14 vs ×2
+gāmīhi dhammehi|0	hiện tượng dẫn đến	unbroken over gapped; family gāmino dhammā; map ×4 vs ×1
+hetukehi dhammehi|0	hiện tượng có gốc rễ	unbroken over gapped; family hetukā dhammā; map ×8 vs ×2
+uppannehi|0	đã sinh khởi	family Uppannā / Uppannehi dhammehi «đã sinh khởi» (tag 'already come into being'); bare «sinh khởi» is the fragment of anuppannehi (^3-385)
+labbhati|0	tìm thấy	family re-alignment: same lemma and meaning as labbhare «tìm thấy» ('is found, is applicable'; RU both «применимый»); bare «có» is a function word, not a term

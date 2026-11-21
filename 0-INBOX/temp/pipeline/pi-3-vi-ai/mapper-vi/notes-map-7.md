@@ -1,0 +1,8 @@
+Association frame (first sampayutta / vippayutta chapter): «X katihi khandhehi … sampayuttoti? Natthi. Katihi vippayutto? … ekenāyatanena ekāya dhātuyā kehici vippayutto» = «X gắn liền với bao nhiêu khối …? Không có. Không gắn liền với bao nhiêu? …; không gắn liền với một số hiện tượng trong một lĩnh vực nhận biết, một yếu tố»
+sampayutto / sampayuttā / sampayuttaṃ (predicate, every gender / number) = gắn liền (governing «với» dropped, as pi-2 and the sample; never «điều gắn liền», which is only the method noun of 1-uddeso)
+vippayutto / vippayuttā / vippayuttaṃ (predicate) = không gắn liền
+Natthi = không có («Không có.», the KD value; the «Không có khối nào …» of na kehici is a different keyword, not listed in this chapter)
+kehici (ekenāyatanena ekāya dhātuyā kehici sampayutto / vippayutto) = một số hiện tượng (KD proposal confirmed; «trong» is the case frame; English «partly»)
+katihi = bao nhiêu (KD; not a keyword in this chapter: only inside the frame)
+vippayoga (heading / colophon Sampayogavippayogapadaniddeso) = sự không gắn liền (as KD vippayogo); sacca (Saccādi «Các sự thật và các mục khác») = sự thật; chaṭṭha / chaṭṭho = thứ sáu
+Summary verse of ^3-305 (recurs in later methods): jīvitaṃ = sự sống; bhavā (mahābhavā) = sự hiện hữu; ekūnavīsati = mười chín; Gocchakesu = nhóm (as map_5_vi.py gocchaka; «Trong các» frame dropped); paññāsa = năm mươi; antare (cūḷantare / Mahantare) = phần xen giữa (not pi-2 «khoảng giữa»); pannarasa = mười lăm; pare (tato pare «phần sau đó») = phần sau («đó» = tato); Tevīsa = hai mươi ba; sataṃ (padasataṃ) = một trăm; labbhati (na labbhati «không có trong») = có («không» = na)

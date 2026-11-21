@@ -1,0 +1,226 @@
+# pi-3 (Dhātukathā) Pāli→Vietnamese senses, part 3 (agg-part3.tsv, 219 rows).
+# Hand-written tag table, headword by headword, following senses-conventions.md (read-only) and decisions-sample.txt.
+# Tag source order (§2): own pi-2 Vietnamese tag, then pi-1 Vietnamese, where the Vietnamese values match (example or
+# grammar label adapted only where the prior one does not occur in pi-3 / points to the wrong use); else the pi-3
+# Russian tag word for word. -ena / -ehi forms of the 16 list items (3-2): the sample list-item tag with the
+# instrumental label (§4). Families as in §4 (sampayutto / vippayutto, X vippayuttā, ordinals, numerals, verse words).
+# Build: python -I -X utf8 senses_tool_vi.py build --part 3
+aṅgehi: {factors, limbs, in bojjhaṅgehi (compound final, instrumental pl.)}
+indriyehi: {controlling faculties (instrumental pl.)}
+upaṭṭhānena: {an establishment of mindfulness (instrumental sg.)}
+appamaññāya: {a measureless state, one of the four immeasurables (instrumental sg.)}
+cetanāya: {volition (instrumental sg.)}
+ariyena: {noble, of the path in 'ariyena aṭṭhaṅgikena maggena' (masculine instrumental sg.)}
+dukkhena: {pain, painful feeling, bodily, in the grief series (instrumental sg.)}
+maggena: {the path, as a set of factors (instrumental sg.)}
+saññāya: {perception (instrumental sg.)}
+balehi: {powers, strengths (instrumental pl.)}
+hetūhi: {the root conditions (instrumental pl.)}
+domanassena: {mental displeasure, in the grief series (instrumental sg.)}
+Sokena: {grief, in the grief series (instrumental sg.)}
+asaṅkhatehi: {uncompounded (instrumental pl.)}
+asaṅkhatehi dhammehi: {the uncompounded, Nibbāna (instrumental pl. phrase)}
+Āsavehi: {the cankers (instrumental pl.)}
+Saṃyojanehi: {the bonds to the round of rebirth (instrumental pl.)}
+oghehi: {the overwhelming currents (instrumental pl.)}
+nīvaraṇehi: {from the hindrances (instrumental/ablative pl.)}
+parāmaṭṭhehi: {wrongly grasped by wrong view (instrumental pl. participle)}
+parāmāsehi: {wrong graspings by view (instrumental pl.)}
+ganthehi: {the bodily knots (instrumental pl.)}
+yogehi: {the bonds or attachments (instrumental pl.)}
+anuparivattīhi: {following along with consciousness (instrumental pl.)}
+cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi: {conjoined with, originated by and following consciousness (instrumental pl. compound)}
+samuṭṭhānehi: {originated by consciousness (instrumental pl.)}
+sahabhūhi: {coexisting with consciousness (instrumental pl.)}
+Cetasikehi: {mental concomitants (instrumental pl.)}
+saṃsaṭṭhehi: {conjoined with consciousness (instrumental pl. participle)}
+saṃsaṭṭhehi dhammehi: {states conjoined with consciousness (instrumental pl. phrase)}
+cittānuparivattīhi: {following along with consciousness (instrumental pl. compound)}
+sahabhūmi: {coexisting with consciousness (variant of sahabhūhi)}
+anuparivattīhi dhammehi: {states following along with consciousness (instrumental pl. phrase)}
+cittānuparivattīhi dhammehi: {states following along with consciousness (full compound, instrumental pl.)}
+sahabhūmi dhammehi: {states coexisting with consciousness (variant phrase)}
+upari: {above, after that, further on in the count (summary verses)}
+ākāre: {mode, in paccayākāra, the conditional chain (locative)}
+Upādānehi: {the graspings (instrumental pl.)}
+gocchakesu: {in the clusters of the Mātikā (locative pl.)}
+saṃkiliṭṭhehi: {corrupted by defilements (instrumental pl. participle)}
+saṃkilesikehi: {conducive to defilement (instrumental pl.)}
+kilesehi: {the defiling mental factors (instrumental pl.)}
+cuddasa: {the number 14 (cardinal)}
+antara: {intermediate, in between (compound member)}
+tathā: {likewise, in the same way (adverb)}
+dukā: {sets of two topics, dyads (nominative pl.)}
+soḷasa: {sixteen, the number (cardinal numeral)}
+dasasu: {in ten, in 'dasasvatha' of the summary verse (locative numeral)}
+Samatiṃsa: {thirty in all (cardinal, summary verse)}
+saccā: {truths, in the summary verses (nominative pl.)}
+Uddhaṃ: {above, further on in the count (adverb, summary verse)}
+gocchaka: {cluster of the Mātikā (stem in compounds)}
+pannarasa: {fifteen, the number (cardinal numeral)}
+vidhā: {-fold, of kinds (in tiṃsavidhā)}
+tiṃsa: {thirty, the number (cardinal numeral)}
+Rūpakkhandhena: {the matter aggregate (instrumental sg.)}
+Viññāṇakkhandhena: {the consciousness aggregate (instrumental sg.)}
+manāyatanena: {the mind sense base (instrumental sg.)}
+viññāṇena: {consciousness, incl. the dependent-origination link (instrumental sg.)}
+nāmarūpena: {mentality-materiality (instrumental sg.)}
+paccayā āyatanena: {the sixfold sense base conditioned by name-and-form (instrumental phrase)}
+Cittena: {with a mind, as the reference term in 'cittena ye dhammā' (instrumental sg.)}
+pahātabbehi: {to be given up (gerundive, instrumental pl.)}
+bhāvanāya pahātabbehi: {to be given up by meditative development (instrumental pl. phrase)}
+sahagatehi: {co-present with, attended by (instrumental pl. participle)}
+asekkhehi: {of the adept who has finished the training (instrumental pl.)}
+upādāniyehi: {liable to be grasped (instrumental pl.)}
+adhipatīhi: {having as predominant factor (instrumental pl.)}
+mahaggatehi: {grown great, of the higher mundane planes (instrumental pl.)}
+mahaggatehi dhammehi: {states of the higher mundane planes (instrumental pl. phrase)}
+niyatehi: {fixed in destiny, incl. fixed as leading to wrong/right (instrumental pl. participle)}
+appamāṇehi: {measureless, supramundane (instrumental pl.)}
+appamāṇehi dhammehi: {supramundane states (instrumental pl. phrase)}
+hīnehi: {low, base (instrumental pl.)}
+hīnehi dhammehi: {base states (instrumental pl. phrase)}
+ārammaṇehi: {having such-and-such as object (bahuvrīhi final, instrumental pl.)}
+hetukehi: {having roots, bahuvrīhi final (pahātabba-, magga-, sa-hetuka) (instrumental pl.)}
+sahagatehi dhammehi: {states attended by a factor (instrumental pl. phrase)}
+niyatehi dhammehi: {states fixed in destiny (instrumental pl. phrase)}
+gāmīhi dhammehi: {states going toward (accumulation or dismantling) (instrumental pl. phrase)}
+hetukehi dhammehi: {states having roots to be abandoned (instrumental pl. phrase)}
+savitakka dhammehi: {states having initial application (instrumental pl. phrase)}
+avitakka dhammehi: {states lacking initial application (instrumental pl. phrase)}
+paṇītehi: {excellent, sublime (instrumental pl.)}
+paṇītehi dhammehi: {excellent states (instrumental pl. phrase)}
+vicārehi: {sustained application of mind (instrumental pl.)}
+vitakka / vicārehi: {merged list keyword, initial application and sustained application of mind, as in savitakkasavicārehi and avitakkavicāramattehi (instrumental pl. compound)}
+sekkhehi: {of the learner still in training (instrumental pl.)}
+akusalehi: {from unwholesome (instrumental/ablative pl.)}
+akusalehi dhammehi: {from unwholesome phenomena (instrumental/ablative pl.)}
+Kusalehi: {kammically skilful (instrumental pl.)}
+Kusalehi dhammehi: {kammically skilful states (instrumental pl. phrase)}
+sahetukehi: {having roots, accompanied by root conditions (instrumental pl.)}
+Rūpīhi: {having materiality (instrumental pl.)}
+Rūpīhi dhammehi: {states having materiality (instrumental pl. phrase)}
+Arūpīhi: {having no materiality (instrumental pl.)}
+Arūpīhi dhammehi: {states having no materiality (instrumental pl. phrase)}
+lokuttarehi: {supramundane, beyond the world (instrumental pl.)}
+vippayuttehi: {not conjoined, standing apart (instrumental pl. participle)}
+Anāsavehi: {without cankers (instrumental pl.)}
+vippayuttehi dhammehi: {states standing apart (instrumental pl. phrase)}
+Anāsavehi dhammehi: {states without cankers (instrumental pl. phrase)}
+bāhirehi: {outside oneself, the outer sense bases (instrumental pl.)}
+bāhirehi dhammehi: {states of the outer sense bases (instrumental pl. phrase)}
+cittehi: {consciousness, the citta class (instrumental pl.)}
+samuṭṭhānehi dhammehi: {states originated by consciousness (instrumental pl. phrase)}
+sahabhūhi dhammehi: {states coexisting with consciousness (instrumental pl. phrase)}
+visaṃsaṭṭhehi dhammehi: {states unconjoined with consciousness (instrumental pl. phrase)}
+Ajjhattikehi: {belonging to oneself, the inner sense bases (instrumental pl.)}
+Ajjhattikehi dhammehi: {states of the inner sense bases (instrumental pl. phrase)}
+anuparivatti: {following, accompanying (compound final, as in cittānuparivatti)}
+vitakkehi: {initial application of mind (instrumental pl.)}
+samuṭṭhāna: {originating from, produced by (compound member)}
+su: {"well", intensifying prefix in subuddho}
+raṇehi: {strife, defilement as battle (instrumental pl., in saraṇehi)}
+pariyāpannehi: {included within a plane (instrumental pl. participle)}
+maccu: {dying, in the summary verse compound jarāmaccu}
+saṃkiliṭṭhehi dhammehi: {states corrupted by defilements (instrumental pl. phrase)}
+sahabhu: {coexisting, in cittasahabhu (compound final)}
+Bāhiraṃ: {external, outside oneself (neuter sg.)}
+pañcamo: {fifth, ordinal (masculine nominative sg.)}
+Rūpaṃ: {matter, material form, also 'the material' in nāmarūpa and 'material' as predicate (nominative/accusative sg.)}
+saṃsaṭṭhaṃ: {conjoined, mixed together (neuter sg. participle)}
+jīvitaṃ: {life, being alive, in the life-faculty definition and among the grounds of pride (neuter sg.)}
+pumaṃ: {maleness, the masculinity faculty in itthipumaṃ (summary verse)}
+ārammaṇaṃ: {object of the mind, what the mind takes up (nominative/accusative sg.)}
+kāma / āyatana: {merged list keyword, the sensual member kāma of kāmāvacara and the sense-base member āyatana (compound members)}
+kāmāvacarehi: {belonging to the sensual plane (instrumental pl.)}
+avacarehi: {belonging to a plane, compound-final (instrumental pl.)}
+niyyānikehi dhammehi: {states leading out of the round (instrumental pl. phrase)}
+savitakkehi dhammehi: {states having initial application (instrumental pl. phrase, long form)}
+saraṇehi dhammehi: {states with strife, the defiled (instrumental pl. phrase)}
+sappītikehi dhammehi: {states having zest (instrumental pl. phrase)}
+savicārehi dhammehi: {states having sustained application (instrumental pl. phrase)}
+vitakkehi / vicārehi: {merged list keyword, initial application and sustained application of mind, as in savitakkehi and savicārehi (instrumental pl.)}
+buddho: {grasped, comprehended (participle in subuddho, summary verse)}
+anuttarehi: {having nothing higher, supramundane (instrumental pl.)}
+anuttarehi dhammehi: {states having nothing higher (instrumental pl. phrase)}
+sampayutto: {conjoined as co-arising mental states (masculine sg. participle)}
+vippayutto: {not conjoined, standing apart (masculine sg. participle)}
+Natthi: {there is not, as the answer formula when nothing applies (verb)}
+kehici: {"with or from some", marking partial association or dissociation}
+cittasaṃsaṭṭhasamuṭṭhānānuparivattino: {conjoined with, originating from and following upon the mind (nominative pl.)}
+pītikā: {rapture, as had or lacked, in sappītika and appītika (compound final)}
+pare: {after that, further on in the count (summary verse)}
+bhavā: {modes or planes of being (nominative pl., summary verses)}
+paññāsa: {fifty, the number (cardinal numeral)}
+labbhati: {is obtained, is applicable (passive sg.)}
+sataṃ: {a hundred, the number (cardinal numeral)}
+antare: {in the intermediate sections of the Mātikā (locative)}
+ekūnavīsati: {the number 19 (cardinal)}
+chaṭṭho: {sixth, ordinal (masculine nominative sg.)}
+Tevīsa: {the number 23 (cardinal)}
+dhammā vippayuttā: {states standing apart (nominative pl. phrase)}
+manasi: {mental advertence, in the summary verse (manasi for manasikāra)}
+indriyato: {from among the faculties (ablative)}
+antarā: {the intermediate sections of the Mātikā (summary verse)}
+yuttā: {conjoined (participle, summary verse)}
+tathariva: {in the same way (adverb, summary verse)}
+manena: {consciousness, the mind (instrumental sg., summary verse)}
+sattamo: {seventh, ordinal (masculine nominative sg.)}
+vicāraṇā: {sustained application of mind (summary verse form)}
+vitakka / vicāraṇā: {merged list keyword, initial application and sustained application of mind, in the summary verse word vitakkavicāraṇā (compound)}
+Samucchede: {in this systematic analysis (locative sg.)}
+gocchake: {in the clusters of the Mātikā (locative sg.)}
+mataṃ: {dying, in the summary verse compound jātijarāmataṃ}
+aṭṭhamo: {eighth, ordinal (masculine nominative sg.)}
+mogha: {void, yielding nothing (in moghapucchaka)}
+sattacattālīsa: {the number 47 (cardinal)}
+sattacattālīsa dhammā: {the count of 47 states not found (summary verse phrase)}
+labbhare: {are obtained, are applicable (passive pl.)}
+pucchakena: {by way of the question asked (instrumental, in moghapucchaka)}
+saṅkhārehi: {volitional formations conditioned by ignorance (instrumental pl.)}
+pītikehi: {having zest, compound-final (instrumental pl.)}
+niddese: {in the detailed exposition (locative sg.)}
+tecattālīsaṃ: {the number 43 (cardinal)}
+saṅgahaṃ gatā: {"gone into inclusion", collected together (summary verse phrase)}
+Navamassa: {ordinal 9th (genitive, of the ninth method)}
+duke: {in the sets of two topics, dyads (locative)}
+viññāṇena vippayuttā: {standing apart from consciousness (pl. phrase)}
+bhavena vippayuttā: {standing apart from a mode of being (pl. phrase)}
+Adhimokkhena vippayuttā: {standing apart from resolution (adhimokkha) (pl. phrase)}
+Kusalehi vippayuttā: {standing apart from skilful states (pl. phrase)}
+dhammehi vippayuttā: {standing apart from such states (pl. phrase)}
+uppannehi: {already come into being (instrumental pl. participle)}
+upādinnehi: {kammically acquired, clung-to (instrumental pl.)}
+Avitakkehi dhammehi: {states lacking initial application (instrumental pl. phrase, long form)}
+dasamo: {tenth, ordinal (masculine nominative sg.)}
+ekādasamo: {eleventh, ordinal (masculine nominative sg.)}
+dvādasamo: {twelfth, ordinal (masculine nominative sg.)}
+saṃyojaniyehi: {favourable to the bonds of rebirth (instrumental pl.)}
+oghaniyehi: {favourable to the overwhelming currents (instrumental pl.)}
+nīvaraṇiyehi: {favourable to the mental obstructions (instrumental pl.)}
+asaṃyojaniyehi dhammehi: {states not favourable to the bonds of rebirth (instrumental pl. phrase)}
+ganthaniyehi: {favourable to the bodily knots (instrumental pl.)}
+yoganiyehi: {favourable to the bonds or attachments (instrumental pl.)}
+terasamo: {thirteenth, ordinal (masculine nominative sg.)}
+asaṃkiliṭṭhehi: {not corrupted by defilements (instrumental pl.)}
+Dukkhasaccena: {the first noble truth (instrumental sg.)}
+Abyākatehi: {kammically neutral (instrumental pl.)}
+parittehi: {small, of the sense sphere (instrumental pl.)}
+parittehi dhammehi: {sense-sphere states, the small class (instrumental pl. phrase)}
+Majjhimehi: {intermediate in quality (instrumental pl.)}
+Majjhimehi dhammehi: {states of intermediate quality (instrumental pl. phrase)}
+uppādīhi: {bound to come into being (instrumental pl.)}
+Uppannehi dhammehi: {states that have come into being (instrumental pl. phrase)}
+Lokiyehi: {mundane, belonging to the world (instrumental pl.)}
+Lokiyehi dhammehi: {mundane states (instrumental pl. phrase)}
+Sāsavehi dhammehi: {states that are objects of the cankers (instrumental pl. phrase)}
+Parāmaṭṭhehi dhammehi: {states wrongly grasped (instrumental pl. phrase)}
+Saṃkilesikehi dhammehi: {states conducive to defilement (instrumental pl. phrase)}
+sauttarehi: {having something higher, mundane (instrumental pl.)}
+niṭṭhitaṃ: {finished, completed, closing a section (neuter sg. participle)}
+cuddasamo: {fourteenth, ordinal (masculine nominative sg.)}
+sambuddha: {the self-awakened one, member of sammāsambuddha (homage line)}
+bhagavato: {the Blessed One, in the homage line (genitive sg.)}
+sammāsambuddhassa: {the perfectly self-awakened Buddha, in the homage line (genitive sg.)}
+namo: {homage, veneration (indeclinable, title line)}
+arahato: {the Worthy One, the arahant, in the homage line (genitive sg.)}

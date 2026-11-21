@@ -1,0 +1,227 @@
+# pi-3 (Dhātukathā) Pāli→Vietnamese senses, part 2 (agg-part2.tsv, 221 rows).
+# Hand-written tag table, headword by headword, following senses-conventions.md (sample approved 2026-11-20).
+# Tag source order: pi-2 vi, then pi-1 vi (same sense, same value); example / grammar label adapted only where the prior
+# example does not occur in pi-3; otherwise the pi-3 Russian tag word for word; new tags only for slash-alternative keywords
+# and the āyatanehi N-hi artefact.
+# Build: python -I -X utf8 senses_tool_vi.py build --part 2
+dvādasahi dhātūhi: {phrase counting twelve of the elements (instrumental pl.)}
+āyatana: {sense base, sense field (compound member)}
+upādānaṃ: {clinging, grasping (nominative sg.)}
+taṇhā: {craving, thirst (stem and nominative)}
+bhavo: {existence, becoming (nominative sg.)}
+vokāra: {constituent aggregates of a mode of being (one-, four-, five-constituent existence)}
+upapatti: {rebirth, birth into a new existence, as in upapattibhava (compound member)}
+kāma / āyatanehi: {merged list keyword, the sense sphere of kāmabhava and kāmāvacara and the sense bases counted in -āyatanehi (compound member and instrumental pl.)}
+kāma: {the sense sphere, as in kāmabhava (compound member)}
+dasahi: {the number 10 (instrumental pl.)}
+arūpa: {the immaterial sphere, or immaterial (compound member, as in arūpabhava and arūpāvacara): không hình sắc; immaterial, the four non-material aggregates (arūpakkhandhā, summary verse): phi vật chất}
+nāsaññā: {'nor non-perception', in nevasaññānāsaññābhava (compound member)}
+jarā: {ageing, decay (stem and nominative)}
+Jāti: {birth, being born (stem and nominative)}
+maraṇaṃ: {death, dying (nominative sg.)}
+upāyāso: {despair, deep distress (nominative sg.)}
+padhānaṃ: {effort, right striving (nominative sg.)}
+upaṭṭhānaṃ: {one establishment of mindfulness (nominative sg.)}
+paridevo: {lamentation, wailing (nominative sg.)}
+dukkhaṃ: {pain, painful feeling of mind or body, in the grief series (nominative sg.)}
+domanassaṃ: {sadness, mental displeasure (nominative sg.)}
+Soko: {sorrow, grief (nominative sg.)}
+Jhānaṃ: {meditative absorption, jhāna (nominative/accusative sg.)}
+Appamaññā: {the measureless states, the four boundless abidings (nominative)}
+dhammā saṅgahitā: {states together comprised (nominative pl. phrase)}
+akusalā: {unwholesome, said of phenomena (nominative pl.)}
+akusalā dhammā: {unwholesome phenomena (nominative pl.)}
+akusalā dhammā saṅgahitā: {unskilful states together comprised (phrase)}
+Kusalā: {wholesome, said of phenomena (nominative pl.)}
+Kusalā dhammā: {wholesome phenomena (nominative pl.)}
+Abyākatā: {ethically indeterminate, neither wholesome nor unwholesome (nominative pl.)}
+sampayuttā: {conjoined as co-arising mental states (pl. participle)}
+āyatanehi pannarasahi: {sense bases, then the numeral fifteen of the element count, as in '…āyatanehi pannarasahi dhātūhi' (instrumental pl. phrase)}
+vedanāya: {feeling, with which states are conjoined (instrumental-dative sg.)}
+pannarasahi: {the number 15 (instrumental pl.)}
+pannarasahi dhātūhi: {phrase counting fifteen of the elements (instrumental pl.)}
+dukkhāya: {painful, of the feeling (feminine dative/genitive sg.)}
+Sukhāya: {pleasant, of the feeling (feminine dative/genitive sg.)}
+ekādasahi: {the number 11 (instrumental pl.)}
+saṃkiliṭṭha: {defiled, stained by defilements (compound member)}
+saṃkilesikā: {liable to defilement, defileable (nominative pl.)}
+upādāniyā: {subject to clinging, a possible object of clinging (nominative pl.)}
+upādinna: {clung to, grasped by craving, in the upādinna triad (compound member)}
+asaṃkiliṭṭha: {undefiled, not stained (compound member)}
+vitakka: {directed thought, initial application of mind (stem and compound member)}
+savitakka dhammā: {states having initial application (nominative pl. phrase)}
+vicārā: {sustained thought, keeping the mind on its object (nominative pl. and compound final)}
+vitakka / vicārā: {merged list keyword, directed thought and sustained thought of savitakkasavicārā (compound members)}
+sahagatā: {accompanied by, compound final (feminine sg. and nominative pl. participle)}
+pīti: {rapture, joyful interest (stem and nominative)}
+sahagatā dhammā: {phenomena accompanied by, a matrix item cut from X-sahagatā (nominative pl.)}
+avitakka dhammā: {states lacking initial application (nominative pl. phrase)}
+vicāra: {sustained thought, keeping the mind on its object (stem and compound member)}
+vitakka / vicāra: {merged list keyword, directed thought and sustained thought of avitakkavicāramattā (compound members)}
+pahātabbā: {to be abandoned (nominative pl. gerundive)}
+bhāvanāya pahātabbā: {to be abandoned by development, by the higher paths (nominative pl. gerundive)}
+ācaya: {accumulation, building up (compound member)}
+apacaya: {dismantling, decrease of the round of rebirth (compound member, as in apacayagāmi)}
+asekkhā: {beyond training, belonging to those who have completed it (nominative pl.)}
+mahaggatā: {exalted, grown great, of the fine-material and immaterial minds (nominative pl.)}
+mahaggatā dhammā: {exalted phenomena, a triad of the matrix (nominative pl.)}
+hetukā: {having roots, rooted, in sahetuka and ahetuka (compound final, nominative)}
+Dassanena: {by seeing, the path of seeing the truth (instrumental sg.)}
+gāmino dhammā: {phenomena leading to, cut from ācayagāmino and apacayagāmino in the matrix (nominative pl.)}
+hetukā dhammā: {phenomena whose roots, cut from pahātabbahetukā in the matrix (nominative pl.)}
+sekkhā: {in training, belonging to the learners (nominative pl.)}
+sekkha: {in training, of the learner (compound member)}
+Parittā: {limited, of small scope (nominative pl.)}
+Parittā dhammā: {limited phenomena, a triad of the matrix (nominative pl.)}
+Appamāṇā: {immeasurable, unlimited (nominative pl.)}
+Appamāṇā dhammā: {immeasurable phenomena, a triad of the matrix (nominative pl.)}
+paṇītā: {superior, excellent (nominative pl.)}
+paṇītā dhammā: {superior phenomena, a triad of the matrix (nominative pl.)}
+paritta: {limited, small (compound member)}
+ārammaṇā: {having as object, compound final, as in rūpārammaṇa and parittārammaṇa (nominative)}
+adhipatino: {having a dominant factor, under predominance (nominative pl.)}
+mahaggata: {exalted, grown great (stem and compound member)}
+niyatā: {fixed, certain in result, as in micchattaniyata and sammattaniyata (nominative pl.)}
+appamāṇa: {immeasurable, unlimited (compound member)}
+hīnā: {inferior, low (nominative pl.)}
+hīnā dhammā: {inferior phenomena, a triad of the matrix (nominative pl.)}
+sammatta: {rightness, correctness (compound member)}
+niyatā dhammā: {phenomena fixed in their result, in the matrix triad and dyad (nominative pl.)}
+micchatta: {wrongness, falsity (compound member)}
+Majjhimā: {middling, medium (nominative pl.)}
+Majjhimā dhammā: {middling phenomena, a triad of the matrix (nominative pl.)}
+Uppannā: {arisen, come into being (feminine sg. or pl. participle)}
+Uppannā dhammā: {arisen phenomena, a triad of the matrix (nominative pl.)}
+Uppādino: {bound to arise, the not-yet-arisen (nominative pl.)}
+bahiddhā: {externally, external, of what lies outside oneself (adverb and adjective)}
+Bahiddhā dhammā: {external phenomena, those of other beings, a triad of the matrix (nominative pl.)}
+paṭighā saṅgahitā: {comprised as impinging states (pl. phrase)}
+sanidassana: {visible, seen by the eye (stem and compound member)}
+anidassana: {invisible, not seen by the eye (compound member)}
+Hetū: {roots, the root conditions (nominative pl.)}
+vippayuttā: {not conjoined, standing apart (pl. participle)}
+pañhā: {question, first member of Pañhāpucchaka 'the section of questions' (compound member)}
+pucchake: {in the question-wise section (locative sg.)}
+vippayuttā dhammā: {phenomena dissociated from, ending the dyad answers (nominative pl.)}
+saṅkhatā: {conditioned, made by conditions (nominative pl.)}
+asaṅkhatā: {unconditioned, not made by conditions (nominative)}
+asaṅkhatā dhammā: {unconditioned phenomena, a dyad of the matrix (nominative pl.)}
+Sanidassanā: {visible, seen by the eye (nominative pl.)}
+Sanidassanā dhammā: {visible phenomena, a dyad of the matrix (nominative pl.)}
+Anidassanā: {invisible, not seen by the eye (nominative pl.)}
+Rūpino: {having material form, material (nominative pl.)}
+Rūpino dhammā: {material phenomena, a dyad of the matrix (nominative pl.)}
+Arūpino: {without material form (nominative pl.)}
+Arūpino dhammā: {immaterial phenomena, a dyad of the matrix (nominative pl.)}
+Lokiyā: {mundane, belonging to the world (nominative pl.)}
+Lokiyā dhammā: {mundane phenomena, a dyad of the matrix (nominative pl.)}
+Lokuttarā: {world-transcending, supramundane (nominative pl.)}
+viññeyyā: {cognisable, to be known (nominative pl. gerundive)}
+Āsavā: {taints, the influxes (nominative pl.)}
+Sāsavā dhammā: {phenomena liable to the taints, a dyad of the matrix (nominative pl.)}
+Anāsavā: {free from the taints (nominative pl.)}
+Anāsavā dhammā: {phenomena free from the taints, a dyad of the matrix (nominative pl.)}
+āsava: {taints, the influxes (stem and heading member)}
+Saṃyojanā: {fetters, binding to existence (nominative pl.)}
+oghā: {floods, the four overwhelming currents (nominative pl.)}
+nīvaraṇā: {hindrances, obstructions of the mind (nominative pl.)}
+parāmaṭṭhā: {misapprehended, grasped by wrong views (nominative pl. participle)}
+parāmāsā: {misapprehensions, wrong graspings by views (nominative pl.)}
+ganthā: {ties, knots binding to existence (nominative pl.)}
+yogā: {yokes, the four bonds (nominative pl.)}
+parāmāsa: {misapprehension, wrong grasping by views, also in sīlabbataparāmāsa 'misapprehension of rules and rituals' (stem, heading member and compound final)}
+Parāmaṭṭhā dhammā: {misapprehended phenomena, a dyad of the matrix (nominative pl.)}
+Cittā: {minds, states of mind (nominative pl.)}
+Cittā saṅgahitā: {comprised as consciousness (pl. phrase)}
+Cetasikā: {mental concomitants, factors accompanying the mind (nominative pl.)}
+saṃsaṭṭhā: {conjoined, mixed together (nominative pl. participle)}
+citta: {mind, a state of mind (stem and compound member)}
+citta saṅgahitā: {comprised along with consciousness (pl. phrase)}
+saṃsaṭṭhā dhammā: {phenomena conjoined with the mind, a dyad of the matrix (nominative pl.)}
+visaṃsaṭṭhā dhammā: {phenomena disjoined from the mind, a dyad of the matrix (nominative pl.)}
+samuṭṭhānā: {originating from, produced by, compound final (nominative pl.)}
+samuṭṭhānā dhammā: {phenomena originating from the mind, a dyad of the matrix (nominative pl.)}
+anuparivattino: {following upon, accompanying, compound final (nominative pl.)}
+cittānuparivattino: {following upon the mind (nominative pl.)}
+sahabhuno: {coexisting, arising together (nominative pl.)}
+anuparivattino dhammā: {phenomena following upon, the cut form of a dyad of the matrix (nominative pl.)}
+cittānuparivattino dhammā: {phenomena following upon the mind, a dyad of the matrix (nominative pl.)}
+sahabhuno dhammā: {states coexisting with consciousness (nominative pl. phrase)}
+citta anuparivattino: {following along with consciousness (split compound)}
+saṃsaṭṭha: {conjoined, mixed together (compound member)}
+saṃsaṭṭha dhammā: {conjoined states (stem phrase)}
+no saṃsaṭṭha dhammā: {states not conjoined (negated phrase)}
+Ajjhattikā: {internal, belonging to oneself (nominative pl.)}
+Ajjhattikā dhammā: {internal phenomena, a dyad of the matrix (nominative pl.)}
+Bāhirā: {external, outside oneself (nominative pl.)}
+Bāhirā dhammā: {external phenomena, a dyad of the matrix (nominative pl.)}
+Upādā: {derived, of matter dependent on the great elements (compound member)}
+Upādā dhammā: {derived phenomena, a dyad of the matrix (nominative pl.)}
+Upādinnā: {clung to, taken up by clinging, a dyad of the matrix (nominative pl.)}
+Upādānā: {clingings, the four kinds of clinging (nominative pl.)}
+saṃkiliṭṭhā: {defiled, stained by defilements (nominative pl. participle)}
+kilesā: {defilements, the mental stains (nominative pl.)}
+asaṃkiliṭṭhā: {undefiled, not stained by defilements (nominative pl. participle)}
+Saṃkilesikā dhammā: {phenomena liable to defilement, a dyad of the matrix (nominative pl.)}
+kilesa: {defilements, staining the mind (compound member)}
+Saṃkiliṭṭhā dhammā: {defiled phenomena, a dyad of the matrix (nominative pl.)}
+vitakkā: {directed thought, initial application of mind (nominative pl. and compound final)}
+Savitakkā dhammā: {phenomena with directed thought, a dyad of the matrix (nominative pl.)}
+savicārā dhammā: {phenomena with sustained thought, a dyad of the matrix (nominative pl.)}
+vitakkā / vicārā: {merged list keyword, directed thought of savitakkā and sustained thought of savicārā (compound finals, nominative pl.)}
+Avitakkā dhammā: {phenomena without directed thought, a dyad of the matrix (nominative pl.)}
+Sappītikā dhammā: {phenomena with rapture, a dyad of the matrix (nominative pl.)}
+na sahagatā dhammā: {states not attended by a factor (negated pl. phrase)}
+pariyāpannā: {included within a plane (pl. participle)}
+kāmāvacarā: {belonging to the sense sphere (nominative pl.)}
+avacarā: {belonging to a sphere, compound final (nominative pl.)}
+sauttarā: {surpassable, having something higher (nominative pl.)}
+anuttarā: {unsurpassable, having nothing higher (nominative pl.)}
+anuttarā dhammā: {unsurpassable phenomena, a dyad of the matrix (nominative pl.)}
+raṇā: {strife, conflict as defilement, in saraṇa and araṇa (compound final)}
+niyyānikā dhammā: {phenomena leading out to liberation, a dyad of the matrix (nominative pl.)}
+saraṇā dhammā: {phenomena with strife, a dyad of the matrix (nominative pl.)}
+Cakkhāyatanena: {the eye sense base (instrumental sg.)}
+cakkhudhātuyā: {the eye element (instrumental sg.)}
+dhammā asaṅgahitā: {states not comprised together (nominative pl. phrase)}
+phoṭṭhabbāyatanena: {the tangible-object sense base (instrumental sg.)}
+phoṭṭhabbadhātuyā: {the tangible-object element (instrumental sg.)}
+kāyaviññāṇadhātuyā: {the element of body-door consciousness (instrumental sg.)}
+sotaviññāṇadhātuyā: {the element of ear-door consciousness (instrumental sg.)}
+Cakkhuviññāṇadhātuyā: {the element of eye-door consciousness (instrumental sg.)}
+manodhātuyā: {of the mind element (genitive/instrumental sg.)}
+manoviññāṇadhātuyā: {the element of mind-door consciousness (instrumental sg.)}
+ghānaviññāṇadhātuyā: {the element of nose-door consciousness (instrumental sg.)}
+jivhāviññāṇadhātuyā: {the element of tongue-door consciousness (instrumental sg.)}
+Cakkhundriyena: {the eye faculty (instrumental sg.)}
+indriyena: {a controlling faculty (instrumental sg.)}
+bhavena: {a mode or plane of being (instrumental sg.)}
+Paridevena: {wailing, in the grief series (instrumental sg.)}
+dhammehi khandhasaṅgahena: {"with states, by way of aggregate-comprising" (instrumental phrase)}
+Sanidassanehi: {that can be seen (instrumental pl. adjective)}
+Sanidassanehi dhammehi: {seeable states (instrumental pl. phrase)}
+upādādhammehi: {states of derived matter (instrumental pl. compound)}
+indriyā: {controlling faculties (nominative pl.)}
+Anidassanaṃ: {invisible, not seen by the eye (neuter sg.)}
+punareva: {"and again", a variant reading for punadeva (adverb)}
+Dasāyatanā: {ten of the sense bases (nominative pl., in a summary verse)}
+Vedanākkhandhena: {the feeling aggregate (instrumental sg.)}
+saṅkhārakkhandhena: {the formations aggregate (instrumental sg.)}
+saññākkhandhena: {the perception aggregate (instrumental sg.)}
+āyatanasaṅgahena saṅgahitā: {comprised by way of sense-base comprising (pl. phrase)}
+saccena: {a noble truth (instrumental sg.)}
+indriyena khandhasaṅgahena: {"with a faculty, by way of aggregate-comprising" (instrumental phrase)}
+upādānena: {grasping, a dependent-origination link (instrumental sg.)}
+phassena: {sense impression (instrumental sg.)}
+taṇhāya: {thirst, a dependent-origination link (instrumental sg.)}
+saṅkhārena: {volitional formations conditioned by ignorance (instrumental sg.)}
+avijjāya: {not-knowing, the first dependent-origination link (instrumental sg.)}
+jhānena: {meditative absorption (instrumental sg.)}
+jarāya: {decay, the old-age link (instrumental sg.)}
+Jātiyā: {being born, the birth link (instrumental sg.)}
+maraṇena: {dying, the death link (instrumental sg.)}
+sampayuttehi: {conjoined as co-arising mental states (instrumental pl. participle)}
+manasikārena: {mental advertence (instrumental sg.)}
+upāyāsena: {distress, in the grief series (instrumental sg.)}
+padhānena: {a right striving (instrumental sg.)}
+aṭṭhaṅgikena: {having eight factors, said of the noble path (instrumental sg.)}
