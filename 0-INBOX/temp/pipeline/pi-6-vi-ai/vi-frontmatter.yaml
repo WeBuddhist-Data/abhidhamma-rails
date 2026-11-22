@@ -1,0 +1,29 @@
+---
+title: Các cặp câu hỏi - tiếng Việt phổ thông
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Yamakapāḷi
+root_text: 1-SOURCES/Text/pi-6.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-6_split_chapters
+source_text_id: IZ74xHeWa9xortlOhL6cc
+source_edition_id: vYtNelE9z5AWQ0jAv82cC
+translation_of: IZ74xHeWa9xortlOhL6cc
+language: Vietnamese
+lang_tag: vi
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/vietnamese/pi-6-pali-vietnamese-termbase-plain.md
+termbase_approved: 2026-11-22
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-6-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "rails-verse-translator (AI_translation/skills/rails-verse-translator.md); translated fresh from the Pāli with the termbase locked; the Yamaka's repeated question and answer frames built by importable builders from shared fixed strings, set by family-setter chapters and copied byte for byte; user reviewed a sample at each step, remaining chapters run in parallel, five agents at a time; consistency pass for identical Pāli; independent bilingual review in five parts plus a meaning-only comparison with the Tịnh Sự Vietnamese translation (reviewer reference only, copyrighted, no wording reused); fixes and term changes approved by the user; source slips translated as written; dashes only where the Pāli has them (user rule)"
+zeroshot_split: AI_translation/vietnamese/pi-6-vietnamese-plain-zeroshot_split_chapters
+keyword_map: AI_translation/vietnamese/pi-6-keywords-by-reference-pali-vietnamese-plain.md
+senses: AI_translation/vietnamese/pi-6-pali-word-vietnamese-senses-plain.md
+segment_ids: "^T-1 … ^6-10-482 (3128 blocks, matching the source)"
+chapters: preamble + 10 yamakas (Mūla, Khandha, Āyatana, Dhātu, Sacca, Saṅkhāra, Anusaya, Citta, Dhamma, Indriya), split into 43 files
+split_chapters: AI_translation/vietnamese/pi-6-vietnamese-plain-rails_split_chapters
+generated: 2026-11-23
+status: draft
+---

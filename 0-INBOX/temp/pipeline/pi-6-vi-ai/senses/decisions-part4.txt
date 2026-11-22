@@ -1,0 +1,233 @@
+# pi-6 (Yamaka) Pāli→Vietnamese senses, part 4 (agg-part4.tsv, 226 rows: Anusayayamaka from anusayavāro, Cittayamaka,
+# Dhammayamaka, the start of the Indriyayamaka). Hand-written tag table, headword by headword, following
+# senses-conventions.md (read-only): pi-5, then pi-4, pi-3, pi-2, pi-1 Vietnamese tags verbatim where the Vietnamese
+# values match (example adapted where it does not occur in the Yamaka, §2.2); pi-6 English tags word for word where they
+# name the same meaning; otherwise the §4 family tags (X-vāro sections, anusaya compounds, verbs, participles, persons).
+# Every headword in this part has one Vietnamese sense.
+# Build: python -I -X utf8 -B senses_tool_vi.py build --part 4
+anusayavāro: {the section on underlying tendencies, a round of the exposition (heading)}
+puggalānaṃ: {types of person, as grouped by attainment in the pariññā and anusaya sections (genitive pl.)}
+anusetīti: {lies latent, persists dormant in beings (3rd sg. present, with the question particle -ti)}
+Anāgāmissa: {of the non-returner}
+Puthujjanassa: {of the worldling}
+Anusayavāra: {the section on underlying tendencies, a round of the exposition (heading)}
+paṭilomapuggalo: {in reverse order by person (a section label)}
+paṭilomaokāso: {in reverse order by place (a section label)}
+paṭilomapuggalokāsā: {in reverse order by person and place (a section label)}
+Sānusayavāro: {the section on having an underlying tendency, a round of the exposition (heading)}
+Sānusayavāra: {the section on having an underlying tendency, a round of the exposition (heading)}
+Pajahanavāro: {the section on giving up, a round of the exposition (heading)}
+Pajahanavāra: {the section on giving up, a round of the exposition (heading)}
+anusenti: {lie latent, persist dormant in beings (3rd pl. present)}
+anusentīti: {lie latent, persist dormant in beings (3rd pl. present, with the question particle -ti)}
+Pariññāvāra: {the section on knowing thoroughly, a round of the exposition (heading)}
+Pahīnavāro: {the section on what has been given up, a round of the exposition (heading)}
+Pahīnavāra: {the section on what has been given up, a round of the exposition (heading)}
+Uppajjanavāro: {the section on arising, a round of the exposition (heading)}
+dhātupucchāvāro: {the section of questions arranged by dhātu, element or plane (heading)}
+dhātuvisajjanāvāro: {the section of answers arranged by dhātu, element or plane (heading)}
+tīsu vedanāsu: {in the three feelings, as a place where tendencies lie latent (locative pl. phrase)}
+kāmārāgānusayo: {the underlying tendency to sensual lust (nominative sg.)}
+puggalassa: {types of person, as grouped by attainment in the pariññā and anusaya sections (genitive sg.)}
+Anusayavāre: {the section on underlying tendencies, a round of the exposition (locative sg. heading)}
+nānuseti: {does not lie latent, does not persist dormant in beings (3rd sg. present, negated)}
+nānusetīti: {does not lie latent, does not persist dormant in beings (3rd sg. present, negated, with the question particle -ti)}
+nānusenti: {do not lie latent, do not persist dormant in beings (3rd pl. present, negated)}
+nānusentīti: {do not lie latent, do not persist dormant in beings (3rd pl. present, negated, with the question particle -ti)}
+paṭilomaṃ: {in reverse order, the reverse sequence (a section label)}
+bhavarāgānusayena: {latent lust for becoming (instrumental sg.)}
+Anāgāmī: {one who does not come back (nominative sg.)}
+Puthujjano: {ordinary person, worldling (nominative sg.)}
+paṭighānusayena: {the underlying tendency to aversion (instrumental sg.)}
+mānānusayena: {the underlying tendency to conceit (instrumental sg.)}
+vicikicchānusayena: {the underlying tendency to doubt (instrumental sg.)}
+avijjānusayena: {the underlying tendency to ignorance (instrumental sg.)}
+kāmarāgānusayena: {the underlying tendency to sensual lust (instrumental sg.)}
+diṭṭhānusayena: {the underlying tendency to views (instrumental sg.)}
+sānusayo: {having the underlying tendency (nominative sg.)}
+sānusayoti: {having the underlying tendency (nominative sg., with the question particle -ti)}
+sānusayā: {having the underlying tendency (nominative pl.)}
+puggalo: {types of person, as grouped by attainment in the pariññā and anusaya sections (nominative sg.)}
+Sānusayavāre: {the section on having an underlying tendency, a round of the exposition (locative sg. heading)}
+niranusayo: {being without a stated tendency}
+niranusayoti: {being without a stated tendency}
+niranusayā: {being without a stated tendency}
+bhavarāgānusayaṃ: {latent lust for becoming (accusative sg.)}
+paṭighānusayaṃ: {the underlying tendency to aversion (accusative sg.)}
+mānānusayaṃ: {the underlying tendency to conceit (accusative sg.)}
+vicikicchānusayaṃ: {the underlying tendency to doubt (accusative sg.)}
+avijjānusayaṃ: {the underlying tendency to ignorance (accusative sg.)}
+kāmarāgānusayaṃ: {the underlying tendency to sensual lust (accusative sg.)}
+diṭṭhānusayaṃ: {the underlying tendency to views (accusative sg.)}
+kāmarāgānusayañca: {the underlying tendency to sensual lust (accusative sg., with ca 'and')}
+paṭighānusayañca: {the underlying tendency to aversion (accusative sg., with ca 'and')}
+mānānusayañca: {the underlying tendency to conceit (accusative sg., with ca 'and')}
+diṭṭhānusayañca: {the underlying tendency to views (accusative sg., with ca 'and')}
+vicikicchānusayañca: {the underlying tendency to doubt (accusative sg., with ca 'and')}
+bhavarāgānusayañca: {latent lust for becoming (accusative sg., with ca 'and')}
+avijjānusayañca: {the underlying tendency to ignorance (accusative sg., with ca 'and')}
+Aṭṭhamako: {the person on the first path to awakening}
+Pajahanavāre: {the section on giving up, a round of the exposition (locative sg. heading)}
+nappajahati: {does not give up (3rd sg. present, negated)}
+nappajahanti: {do not give up (3rd pl. present, negated)}
+aṭṭhamakañca: {the person on the first path to awakening}
+Anāgāmimaggasamaṅgī: {one endowed with the path of non-returning, the third path (nominative sg.)}
+Anāgāmimaggasamaṅgiñca: {one endowed with the path of non-returning, the third path (accusative sg., with ca 'and')}
+maggasamaṅgīnaṃ: {of those endowed with a path, at the moment of the path (genitive pl.)}
+maggasamaṅgīnañca: {of those endowed with a path, at the moment of the path (genitive pl., with ca 'and')}
+Anāgāmimaggasamaṅgiṃ: {one endowed with the path of non-returning, the third path (accusative sg.)}
+Aggamaggasamaṅgiṃ: {one endowed with the highest path, the path of arahantship (accusative sg.)}
+Pajahanāvāre: {the section on giving up, a round of the exposition (locative sg. heading, variant spelling)}
+Pariññāvāre: {the section on knowing thoroughly, a round of the exposition (locative sg. heading)}
+pahīno: {given up (nominative sg. participle)}
+pahīnoti: {given up (nominative sg. participle, with the question particle -ti)}
+pahīnā: {given up (nominative pl. participle)}
+pahīnāti: {given up (nominative pl. participle, with the question particle -ti)}
+appahīno: {not given up (nominative sg. participle)}
+appahīnā: {not given up (nominative pl. participle)}
+Pahīnavāre: {the section on what has been given up, a round of the exposition (locative sg. heading)}
+appahīnoti: {not given up (nominative sg. participle, with the question particle -ti)}
+appahīnāti: {not given up (nominative pl. participle, with the question particle -ti)}
+bhaṅgā: {to be broken up, divided by case, said of the tendencies in the dhātu section (nominative pl.)}
+arūpadhātuṃ: {the formless world, the immaterial sphere (accusative sg.)}
+upapajjantassa: {entering a new existence (verb or participle)}
+kāmadhātuṃ: {the world of sense desire, the sense sphere (accusative sg.)}
+Kāmadhātumūlakaṃ: {the part based on the world of sense desire, a closing section label (neuter sg.)}
+anusayā: {underlying tendencies, latent dispositions (nominative pl.)}
+Rūpadhātumūlakaṃ: {the part based on the world of form, a closing section label (neuter sg.)}
+Arūpadhātumūlakaṃ: {the part based on the formless world, a closing section label (neuter sg.)}
+Nakāmadhātumūlakaṃ: {the part based on what is not the world of sense desire, a closing section label (neuter sg.)}
+Narūpadhātumūlakaṃ: {the part based on what is not the world of form, a closing section label (neuter sg.)}
+Naarūpadhātumūlakaṃ: {the part based on what is not the formless world, a closing section label (neuter sg.)}
+Nakāmanaarūpadhātumūlakaṃ: {the part based on neither the world of sense desire nor the formless world, a closing section label (neuter sg.)}
+Narūpanaarūpadhātumūlakaṃ: {the part based on neither the world of form nor the formless world, a closing section label (neuter sg.)}
+Nakāmanarūpadhātumūlakaṃ: {the part based on neither the world of sense desire nor the world of form, a closing section label (neuter sg.)}
+upapatti: {rebirth, birth into a new existence (nominative sg.)}
+upapajjamāno: {entering a new existence (verb or participle)}
+upapajjati: {comes to be, is reborn (3rd sg. verb)}
+kāmadhātuṃyeva: {the world of sense desire, the sense sphere (accusative sg., with yeva 'only')}
+upapattināma: {rebirth, birth into a new existence, with nāma 'so-called' (nominative sg.)}
+Dhātuvisajjavāro: {the section of answers arranged by dhātu, element or plane (heading)}
+Cittayamakaṃ: {title of the chapter on consciousness}
+uppannaṃ: {arisen, come into being, in the state of having arisen of the Cittayamaka (neuter sg. participle)}
+Suddhacittasāmaññaṃ: {mind in general, plain mind without qualification (heading)}
+Puggalavāro: {the section on persons, a round of the exposition (heading)}
+Uppādanirodhakālasambhedavāro: {the section on the combined times of arising and cessation, a round of the exposition (heading)}
+Uppāduppannavāro: {the section on arising and what has arisen, a round of the exposition (heading)}
+Nirodhuppannavāro: {the section on cessation and what has arisen, a round of the exposition (heading)}
+Uppajjamāna: {arising, in the process of arising (heading member)}
+nanirodhavāro: {the section on non-cessation, a round of the exposition (heading member)}
+Uppajjamānuppannavāro: {the section on what is arising and what has arisen, a round of the exposition (heading)}
+Nirujjhamānuppannavāro: {the section on what is ceasing and what has arisen, a round of the exposition (heading)}
+Uppannuppādavāro: {the section on what has arisen and arising, a round of the exposition (heading)}
+Uppannuppajjamānavāro: {the section on what has arisen and what is arising, a round of the exposition (heading)}
+Niruddhanirujjhamānavāro: {the section on what has ceased and what is ceasing, a round of the exposition (heading)}
+Dhammavāro: {the section on phenomena, a round of the exposition (heading)}
+Suddhacittasāmañña: {mind in general, plain mind without qualification (heading)}
+Puggaladhammavāro: {the section on persons and phenomena, a round of the exposition (heading)}
+Suttantacittamissakaviseso: {the special case mixed with the kinds of mind of the Suttanta (heading)}
+Abhidhammacittamissakaviseso: {the special case mixed with the kinds of mind of the Abhidhamma (heading)}
+Uppajjamānananirodhavāro: {the section on what is arising and non-cessation, a round of the exposition (heading)}
+uppajjamānaṃ: {arising, in the process of arising (present participle)}
+nirujjhamānaṃ: {ceasing, in the process of ceasing (present participle)}
+niruddhaṃ: {ceased, stopped, in the state of having ceased of the Cittayamaka (neuter sg. participle)}
+khaṇaṃ: {a single instant of time}
+samāhitaṃ: {concentrated, collected (neuter sg. participle)}
+sarāgaṃ: {with lust, of a mind (neuter accusative sg.)}
+saṃkhittaṃ: {contracted, drawn in, of the mind (neuter sg. participle)}
+samohaṃ: {with delusion, of a mind (neuter accusative sg.)}
+mahaggataṃ: {exalted, grown great, of the fine-material and immaterial minds (neuter sg.)}
+sadosaṃ: {with hatred, of a mind (neuter accusative sg.)}
+vimuttaṃ: {freed, released (neuter sg. participle)}
+vītarāgaṃ: {rid of lust}
+vikkhittaṃ: {distracted, scattered (neuter sg. participle)}
+sauttaraṃ: {surpassable, having something higher (neuter sg.)}
+asamāhitaṃ: {unconcentrated, uncollected (neuter sg. participle)}
+amahaggataṃ: {not exalted, of the sense sphere (neuter sg.)}
+avimuttaṃ: {unfreed, not released (neuter sg. participle)}
+anuttaraṃ: {unsurpassable, having nothing higher (neuter sg.)}
+sampayuttaṃ: {conjoined as co-arising mental states (neuter sg. participle)}
+saraṇaaraṇā: {with conflict and without conflict, the closing pair of the listed kinds of mind (dvandva compound)}
+araṇaṃ: {without conflict, free of mental strife, of a mind (neuter sg.)}
+vedanāya: {feeling, with which states are conjoined (instrumental-dative sg.)}
+abyākataṃ cittaṃ: {ethically indeterminate mind, the subject of the Cittayamaka questions (nominative sg.)}
+akusalaṃ cittaṃ: {unwholesome mind, the subject of the Cittayamaka questions (nominative sg.)}
+kusalaṃ cittaṃ: {wholesome mind, the subject of the Cittayamaka questions (nominative sg.)}
+Pacchimacittassa uppādakkhaṇe: {at the moment of arising of the final mind (locative phrase)}
+uppannanti: {arisen, come into being, in the state of having arisen of the Cittayamaka (neuter sg. participle, with the question particle -ti)}
+uppannañceva: {arisen, come into being, in the state of having arisen of the Cittayamaka (neuter sg. participle, with ceva 'both … and')}
+uppajjamānanti: {arising, in the process of arising (present participle, with the question particle -ti)}
+uppajjamānañca: {arising, in the process of arising (present participle, with ca 'and')}
+nirujjhamānanti: {ceasing, in the process of ceasing (present participle, with the question particle -ti)}
+nirujjhamānañca: {ceasing, in the process of ceasing (present participle, with ca 'and')}
+uppannañca: {arisen, come into being, in the state of having arisen of the Cittayamaka (neuter sg. participle, with ca 'and')}
+Cittasamaṅgīnaṃ: {of those endowed with a mind, in whom a mind is present (genitive pl.)}
+Atītānāgataṃ: {bygone and yet to come}
+niruddhanti: {ceased, stopped, in the state of having ceased of the Cittayamaka (neuter sg. participle, with the question particle -ti)}
+anāgatañca: {future, not yet come (neuter sg., with ca 'and')}
+Atītaṃ: {past, gone by (neuter sg.)}
+Atikkantakālavāro: {the section on time gone by, a round of the exposition (heading)}
+anāgataṃ: {future, not yet come (neuter sg.)}
+uppādakkhaṇaṃ: {the moment of arising, the first phase of a mind-moment (accusative sg.)}
+uppādakkhaṇañca: {the moment of arising, the first phase of a mind-moment (accusative sg., with ca 'and')}
+bhaṅgakkhaṇaṃ: {the moment of dissolution, the last phase of a mind-moment (accusative sg.)}
+bhaṅgakkhaṇañca: {the moment of dissolution, the last phase of a mind-moment (accusative sg., with ca 'and')}
+atītañca: {past, gone by (neuter sg., with ca 'and')}
+Paccuppannaṃ: {present, existing now (neuter sg.)}
+cittake: {in the part on mind, the citta portion of the summary (locative sg.)}
+Sarāgapacchimacittassa uppādakkhaṇe: {at the moment of arising of the final mind with lust (locative phrase)}
+sarāgacittassa uppādakkhaṇe: {at the moment of arising of a mind with lust (locative phrase)}
+Pacchimakusalacittassa: {of the final wholesome mind (genitive sg.)}
+kusalacittassa: {of a wholesome mind (genitive sg.)}
+dhammayamakanti: {title of the chapter on phenomena (with the quotation particle -ti)}
+yamakāni: {the pair chapters, counted as 'three yamakas' (nominative pl.)}
+Dhammayamakaṃ: {title of the chapter on phenomena}
+Suddhadhammavāro: {the section on the pure phenomena, the phenomena taken alone, a round of the exposition (heading)}
+Suddhadhammamūlacakkavāro: {the section on the cycle based on the pure phenomena, a round of the exposition (heading)}
+abyākatā dhammāti: {ethically indeterminate phenomena (nominative pl., with the question particle -ti)}
+akusalā dhammāti: {unwholesome phenomena (nominative pl., with the question particle -ti)}
+kusalā dhammāti: {wholesome phenomena (nominative pl., with the question particle -ti)}
+Abyākatañca dhamme: {the ethically indeterminate and phenomena, as in 'abyākatañca dhamme ca ṭhapetvā' (accusative phrase)}
+Akusalañca dhamme: {the unwholesome and phenomena, as in 'akusalañca dhamme ca ṭhapetvā' (accusative phrase)}
+Kusalañca dhamme: {the wholesome and phenomena, as in 'kusalañca dhamme ca ṭhapetvā' (accusative phrase)}
+Abyākatañca: {ethically indeterminate (neuter sg., with ca 'and')}
+Bhāvanāvāro: {the section on development, a round of the exposition (heading)}
+uppajjantīti: {arise, come into being (3rd pl. present, with the question particle -ti)}
+kusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from wholesome phenomena (locative phrase)}
+kusalānaṃ uppādakkhaṇe: {at the moment of arising of wholesome phenomena (locative phrase)}
+abyākatā ca dhammā: {ethically indeterminate phenomena (nominative pl., with ca 'and')}
+kusalā ca dhammā: {wholesome phenomena (nominative pl., with ca 'and')}
+akusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from unwholesome phenomena (locative phrase)}
+akusalānaṃ uppādakkhaṇe: {at the moment of arising of unwholesome phenomena (locative phrase)}
+akusalā ca dhammā: {unwholesome phenomena (nominative pl., with ca 'and')}
+kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from wholesome and from unwholesome phenomena (locative phrase)}
+akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe: {at the moment of arising of a mind dissociated from unwholesome and from wholesome phenomena (locative phrase)}
+uppajjissanti: {will arise (3rd pl. future)}
+uppajjissantīti: {will arise (3rd pl. future, with the question particle -ti)}
+nirujjhanti: {come to an end (3rd pl. passive)}
+nirujjhantīti: {come to an end (3rd pl. passive, with the question particle -ti)}
+kusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from wholesome phenomena (locative phrase)}
+kusalānaṃ bhaṅgakkhaṇe: {at the moment of dissolution of wholesome phenomena (locative phrase)}
+akusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from unwholesome phenomena (locative phrase)}
+akusalānaṃ bhaṅgakkhaṇe: {at the moment of dissolution of unwholesome phenomena (locative phrase)}
+kusalavippayuttaakusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from wholesome and from unwholesome phenomena (locative phrase)}
+akusalavippayuttakusalavippayuttacittassa bhaṅgakkhaṇe: {at the moment of dissolution of a mind dissociated from unwholesome and from wholesome phenomena (locative phrase)}
+nirujjhissanti: {will come to an end}
+nirujjhissantīti: {will come to an end (3rd pl. future, with the question particle -ti)}
+kusalākusalānaṃ: {of the wholesome and unwholesome (genitive pl.)}
+bhāveti: {develops, cultivates (3rd sg. verb)}
+bhāvetīti: {develops, cultivates (3rd sg. verb, with the question particle -ti)}
+akusalaṃ dhammaṃ: {an unwholesome phenomenon (accusative sg.)}
+kusalaṃ dhammaṃ: {a wholesome phenomenon (accusative sg.)}
+Indriyayamakaṃ: {title of the chapter on faculties}
+kāyindriyaṃ: {the controlling faculty of the body (nominative sg.)}
+samādhindriyaṃ: {the controlling faculty of concentration (nominative sg.)}
+domanassindriyaṃ: {the controlling faculty of mental grief (nominative sg.)}
+sotindriyaṃ: {the controlling faculty of the ear (nominative sg.)}
+vīriyindriyaṃ: {the controlling faculty of energy (nominative sg.)}
+upekkhindriyaṃ: {the controlling faculty of equanimity (nominative sg.)}
+cakkhundriyaṃ: {the controlling faculty of the eye (nominative sg.)}
+anaññātaññassāmītindriyaṃ: {the controlling faculty of 'I shall know the unknown' (nominative sg.)}
+aññindriyaṃ: {the controlling faculty of final knowledge (nominative sg.)}
+aññātāvindriyaṃ: {the controlling faculty of one who has final knowledge (nominative sg.)}
+saddhindriyaṃ: {the controlling faculty of faith (nominative sg.)}

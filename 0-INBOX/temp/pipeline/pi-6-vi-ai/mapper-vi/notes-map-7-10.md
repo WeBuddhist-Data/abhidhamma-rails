@@ -1,0 +1,18 @@
+# notes-map-7-10 (7-10-anusayayamaka): new recurring keywords and values
+tooling: map_7-10_vi.py loads map_7-08_vi.py (chains 7-06 … 7-01 and 2-02) and map_7-09_vi.py with importlib, map_2-01_vi.py with importlib.import_module; resolver = OVERRIDES (none) -> 2-01 verb_value(kw, pali) -> 7-05 tendency_ca -> 7-09 pahina_value(kw, pali) -> A.value701(kw, kws, T710, text); T710 = 7-08 T708 + own; ALLOWED empty
+result: 37 lines, bad [], 2 (no direct equivalent) (the placeholder keyword, ^6-7-11-4-0 and ^6-7-331: English «arising» of Uppajjanavāro), presence misses 0, CR 0, pi-1 … pi-5 unchanged, verb_audit 0 differences; no shared keyword differs from 7-01 … 7-09 or 2-01
+appahīno / appahīnoti / appahīnā / appahīnāti = chưa được dứt bỏ [7-09 pahina_value]: every segment opens with the question «… chưa được dứt bỏ»; the «no ca … appahīno» «nhưng ở người ấy … đã được dứt bỏ» (^6-7-319 …) comes later (first-rendering rule)
+pahīno / pahīnā = đã được dứt bỏ [7-09 pahina_value]: only in «Na vattabbo "pahīno"ti vā "appahīno"ti vā» «Không nên nói là “đã được dứt bỏ” hay “chưa được dứt bỏ”»
+paṭilomaokāso = chiều ngược theo nơi chốn; paṭilomapuggalokāsā = chiều ngược theo người và nơi chốn; paṭilomaṃ = chiều ngược (7-02)
+Pahīnavāre / Pahīnavāro = mục về những gì đã được dứt bỏ (closers «Chiều ngược trong mục về những gì đã được dứt bỏ.» / «Mục về những gì đã được dứt bỏ.»; FORMULAS)
+Uppajjanavāro = mục về sự sinh khởi (heading and closer; as FORMULAS uppādavāro; the keyword file's «(no direct equivalent)» placeholder beside it = (no direct equivalent))
+dhātupucchāvāro / Dhātupucchāvāro = mục hỏi theo các yếu tố (heading «(a) Mục hỏi theo các yếu tố», closer «Mục hỏi theo các yếu tố.»; inner «các» kept; text «yếu tố», not «cõi»; cf. FORMULAS dhātuvisajjanāvāro «mục trả lời theo các yếu tố»)
+uppajjati / uppajjatīti = sinh khởi, nuppajjati / nuppajjatīti = không sinh khởi [2-01 verb_value]
+anusenti = nằm sẵn, nānusenti = không nằm sẵn («bao nhiêu khuynh hướng tiềm ẩn nằm sẵn, bao nhiêu khuynh hướng tiềm ẩn không nằm sẵn»; 7-01 VERBS)
+anusayā = khuynh hướng tiềm ẩn («bao nhiêu khuynh hướng tiềm ẩn …»; kati «bao nhiêu» not a keyword here)
+bhaṅgā = phải phân chia («bao nhiêu khuynh hướng tiềm ẩn phải phân chia?»; English «dissolved»; new)
+upapajjantassa = tái sinh («Ở người chết ở cõi … rồi tái sinh vào cõi …»: «vào» = case frame; «người» = the genitive frame shared with cutassa, not a keyword; CROSSCHECK upapajjantānaṃ «đang tái sinh»: the text has no «đang» here)
+kāmadhātuṃ / rūpadhātuṃ / arūpadhātuṃ = cõi dục lạc / cõi hình sắc / cõi không hình sắc (7-01 proposal confirmed; «na kāmadhātuṃ» «nơi không phải là cõi dục lạc»: the separate na = «nơi không phải là», not in the value); Kāmadhātuyā / Rūpadhātuyā / Arūpadhātuyā (cutassa) = the same planes
+X-dhātumūlakaṃ = phần dựa trên cõi X: Kāma- cõi dục lạc, Rūpa- cõi hình sắc, Arūpa- cõi không hình sắc («(Phần dựa trên cõi dục lạc)»; as 3-01 «phần dựa trên lĩnh vực mắt»)
+Na-X-dhātumūlakaṃ (fused Na-: «không phải là» kept) = phần dựa trên nơi không phải là cõi X; Nakāmanaarūpa- = phần dựa trên nơi không phải là cõi dục lạc cũng không phải là cõi không hình sắc; Narūpanaarūpa- = … cõi hình sắc cũng không phải là cõi không hình sắc; Nakāmanarūpa- = … cõi dục lạc cũng không phải là cõi hình sắc
+persons / planes / feelings as 7-01 … 7-09: Anāgāmissa = bậc không trở lại, Arahato = bậc A-la-hán, Puthujjanassa = người phàm phu, puggalassa / puggalānaṃ = hạng người, kāmadhātuyā = cõi dục lạc, rūpadhātuyā = cõi hình sắc, arūpadhātuyā = cõi không hình sắc, dvīsu vedanāsu = hai loại cảm giác, tīsu vedanāsu = ba loại cảm giác, dukkhāya vedanāya = cảm giác khó chịu; Natthi = không có

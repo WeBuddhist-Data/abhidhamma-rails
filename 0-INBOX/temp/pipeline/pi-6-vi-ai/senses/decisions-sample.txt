@@ -1,0 +1,99 @@
+# pi-6 (Yamaka) Pāli→Vietnamese senses, sample (agg-sample.tsv = first 90 rows of part 1 + the next multi-value row, 91 rows).
+# Hand-written tag table, headword by headword. Tag source order (senses-conventions.md §2): the approved pi-5, then pi-4,
+# pi-3, pi-2, pi-1 Vietnamese tag where the Vietnamese values match (example or label adapted where it does not occur in
+# pi-6); otherwise the pi-6 English senses tag word for word where it names the same meaning; new family tags (§4) where
+# the English tag flattens a distinction the Vietnamese makes (mūla / mūlamūla, eka-, the hetuvāra series compounds).
+# Hetuvāra series (user fix 2026-11-22): meaning first, then the place in the series; "; " is the sense separator, so a
+# comma stands where the user's example has "; ".
+# Build: python -I -X utf8 -B senses_tool_vi.py build --part sample
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+Yamakapāḷi: {title of this whole book}
+Mūlayamakaṃ: {title of the chapter on roots}
+kusalamūlā: {wholesome roots (nominative pl.)}
+kusalā dhammā: {wholesome phenomena (nominative pl.)}
+kusalā: {wholesome, said of phenomena (nominative pl.)}
+uddeso: {statement, the opening enumeration of a section (heading)}
+ekamūlā: {having one and the same root, in the root method (nominative pl. adjective)}
+kusalamūlena: {by the wholesome root, 'in terms of the wholesome root' (instrumental sg.)}
+Mūlavāro: {the section on roots, a round of the exposition (heading)}
+aññamaññamūlā: {each serving as root for the other}
+kusalamūlamūlā: {wholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+Mūlanayo: {the method dealing with roots (heading)}
+ekamūlamūlā: {having one and the same root-of-roots, in the root-of-roots method (nominative pl. adjective)}
+Mūlamūlanayo: {the method dealing with roots-of-roots (heading)}
+aññamaññamūlamūlā: {each serving as root-of-roots for the other}
+Mūlakanayo: {the method dealing with what stems from a root}
+kusalamūlakā: {stemming from a wholesome root, in the based-on-a-root method (nominative pl. adjective)}
+Mūlamūlakanayo: {the method dealing with what stems from a root-of-roots}
+ekamūlakā: {stemming from one and the same root, in the based-on-a-root method (nominative pl. adjective)}
+Akusalā dhammā: {unwholesome phenomena (nominative pl.)}
+aññamaññamūlakā: {each stemming from the other as a root}
+Abyākatā dhammā: {ethically indeterminate phenomena (nominative pl.)}
+kusalamūlamūlakā: {stemming from a wholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Nāmā: {mental, belonging to the mental side, nāma, said of phenomena (nominative pl.)}
+ekamūlamūlakā: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Hetuvārādi: {the section on causes and the rest, the other sections of the exposition (heading)}
+niddeso: {exposition, detailed explanation (heading member)}
+aññamaññamūlamūlakā: {each stemming from the other as a root-of-roots}
+akusalamūlā: {unwholesome roots (nominative pl.)}
+akusalā: {unwholesome, said of phenomena (nominative pl.)}
+akusalamūlena: {by the unwholesome root, 'in terms of the unwholesome root' (instrumental sg.)}
+akusalamūlamūlā: {unwholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+akusalamūlakā: {stemming from an unwholesome root, in the based-on-a-root method (nominative pl. adjective)}
+akusalamūlamūlakā: {stemming from an unwholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+abyākatamūlā: {ethically indeterminate roots (nominative pl.)}
+abyākatā: {ethically indeterminate, neither wholesome nor unwholesome (nominative pl.)}
+abyākatamūlena: {by the ethically indeterminate root, 'in terms of the ethically indeterminate root' (instrumental sg.)}
+abyākatamūlamūlā: {ethically indeterminate roots-of-roots, in the root-of-roots method (nominative pl.)}
+abyākatamūlakā: {stemming from an ethically indeterminate root, in the based-on-a-root method (nominative pl. adjective)}
+abyākatamūlamūlakā: {stemming from an ethically indeterminate root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+nāmamūlā: {mental roots, the roots on the mental side (nominative pl.)}
+nāmamūlena: {by the mental root, 'in terms of the root on the mental side' (instrumental sg.)}
+nāmamūlamūlā: {mental roots-of-roots, in the root-of-roots method (nominative pl.)}
+nāmamūlakā: {stemming from a mental root, in the based-on-a-root method (nominative pl. adjective)}
+nāmamūlamūlakā: {stemming from a mental root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Mūlavārauddeso: {statement, the opening enumeration of the section on roots (heading)}
+kusalappabhavā: {wholesome springing forth, source of origin, the fifth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+pabhavena: {springing forth, source of origin, the fifth of the ten root synonyms of the hetuvāra series (instrumental)}
+hetu: {cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative)}
+kusalapaccayā: {wholesome condition, supporting factor, the ninth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+paccayo: {condition, supporting factor, the ninth of the ten root synonyms of the hetuvāra series (nominative)}
+kusalasambhavā: {wholesome coming into being, origin, the fourth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+sambhavo: {coming into being, origin, the fourth of the ten root synonyms of the hetuvāra series (nominative)}
+kusalāhārā: {wholesome nutriment, sustaining support, the seventh of the ten root synonyms of the hetuvāra series (nominative pl.)}
+Samuṭṭhānāhārārammaṇā: {origination, nutriment and object, the sixth, seventh and eighth of the ten root synonyms of the hetuvāra series (dvandva compound)}
+samudayena: {arising, coming forth, the tenth of the ten root synonyms of the hetuvāra series (instrumental)}
+Uddesavāro: {the statement section, the opening enumeration of the hetuvāra series (heading)}
+Mūlaṃ: {root, a root condition, the first of the ten root synonyms of the hetuvāra series (nominative)}
+nidānañca: {source, underlying cause, the third of the ten root synonyms of the hetuvāra series (nominative, with ca 'and')}
+kusalahetū: {wholesome cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalanidānā: {wholesome source, underlying cause, the third of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalasamuṭṭhānā: {wholesome origination, what gives rise, the sixth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalārammaṇā: {wholesome object, what the mind takes up, the eighth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalasamudayā: {wholesome arising, coming forth, the tenth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+Avasesā: {remaining, the rest (nominative pl.)}
+kusalamūlāti: {wholesome roots (nominative pl., with the question particle -ti)}
+kusalamūlāni: {wholesome roots (nominative pl.)}
+kusalāti: {wholesome, said of phenomena (nominative pl., with the question particle -ti)}
+Kusalasamuṭṭhānaṃ: {originating from, produced by the wholesome, said of matter in 'kusalasamuṭṭhānaṃ rūpaṃ' (neuter sg. compound)}
+rūpaṃ: {matter, material form, also 'the material' in nāmarūpa and 'material' as predicate (nominative/accusative sg.)}
+ekamūlāti: {having one and the same root, in the root method (nominative pl. adjective, with the question particle -ti)}
+ekamūlaṃ: {having one and the same root, in the root method (neuter sg. adjective)}
+ekamūlañceva: {having one and the same root, in the root method (neuter sg. adjective, with ceva 'both … and')}
+kusalaṃ: {wholesome, often standing for the wholesome mind (neuter sg.)}
+kusalañca: {wholesome, often standing for the wholesome mind (neuter sg., with ca 'and')}
+uppajjanti: {arise, come into being (3rd pl. present)}
+aññamaññamūlāti: {each serving as root for the other}
+aññamaññamūlāni: {each serving as root for the other}
+Mūlāni: {roots, the root conditions (nominative pl.)}
+ekamūlāni: {having one and the same root, in the root method (neuter pl. adjective)}
+kusalamūlasahajātā dhammā: {phenomena conascent with the wholesome roots (nominative pl. phrase)}
+kusalamūlamūlāti: {wholesome roots-of-roots, in the root-of-roots method (nominative pl., with the question particle -ti)}
+kusalamūlamūlāni: {wholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+ekamūlamūlāti: {having one and the same root-of-roots, in the root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+ekamūlamūlaṃ: {having one and the same root-of-roots, in the root-of-roots method (neuter sg. adjective)}
+ekamūlamūlañceva: {having one and the same root-of-roots, in the root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+aññamaññamūlamūlāti: {each serving as root-of-roots for the other}
+aññamaññamūlamūlāni: {each serving as root-of-roots for the other}
+ekamūlamūlāni: {having one and the same root-of-roots, in the root-of-roots method (neuter pl. adjective)}
+saṅkhārā: {formations, the volitional factors of the fourth aggregate, also formations in general in the Saṅkhārayamaka pairs (nominative pl.)}

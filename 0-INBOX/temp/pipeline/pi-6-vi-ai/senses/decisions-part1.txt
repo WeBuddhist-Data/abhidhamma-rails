@@ -1,0 +1,244 @@
+# pi-6 (Yamaka) Pāli→Vietnamese senses, part 1 (agg-part1.tsv, 226 rows).
+# Block A: the 91 sample headwords, copied unchanged from decisions-sample.txt (approved 2026-11-22 with two fixes).
+# Block B: the other 135 headwords, hand-written headword by headword (senses-conventions.md §2-§4): the approved
+# pi-5, then pi-4 … pi-1 Vietnamese tag where the values match (example or label adapted where it does not occur in
+# pi-6); otherwise the sample family tags with the grammar label adapted; the pi-6 English tag word for word where it
+# names the same meaning.
+# Build: python -I -X utf8 -B senses_tool_vi.py build --part 1
+#
+# ---- Block A: sample decisions (unchanged) ----
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+Yamakapāḷi: {title of this whole book}
+Mūlayamakaṃ: {title of the chapter on roots}
+kusalamūlā: {wholesome roots (nominative pl.)}
+kusalā dhammā: {wholesome phenomena (nominative pl.)}
+kusalā: {wholesome, said of phenomena (nominative pl.)}
+uddeso: {statement, the opening enumeration of a section (heading)}
+ekamūlā: {having one and the same root, in the root method (nominative pl. adjective)}
+kusalamūlena: {by the wholesome root, 'in terms of the wholesome root' (instrumental sg.)}
+Mūlavāro: {the section on roots, a round of the exposition (heading)}
+aññamaññamūlā: {each serving as root for the other}
+kusalamūlamūlā: {wholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+Mūlanayo: {the method dealing with roots (heading)}
+ekamūlamūlā: {having one and the same root-of-roots, in the root-of-roots method (nominative pl. adjective)}
+Mūlamūlanayo: {the method dealing with roots-of-roots (heading)}
+aññamaññamūlamūlā: {each serving as root-of-roots for the other}
+Mūlakanayo: {the method dealing with what stems from a root}
+kusalamūlakā: {stemming from a wholesome root, in the based-on-a-root method (nominative pl. adjective)}
+Mūlamūlakanayo: {the method dealing with what stems from a root-of-roots}
+ekamūlakā: {stemming from one and the same root, in the based-on-a-root method (nominative pl. adjective)}
+Akusalā dhammā: {unwholesome phenomena (nominative pl.)}
+aññamaññamūlakā: {each stemming from the other as a root}
+Abyākatā dhammā: {ethically indeterminate phenomena (nominative pl.)}
+kusalamūlamūlakā: {stemming from a wholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Nāmā: {mental, belonging to the mental side, nāma, said of phenomena (nominative pl.)}
+ekamūlamūlakā: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Hetuvārādi: {the section on causes and the rest, the other sections of the exposition (heading)}
+niddeso: {exposition, detailed explanation (heading member)}
+aññamaññamūlamūlakā: {each stemming from the other as a root-of-roots}
+akusalamūlā: {unwholesome roots (nominative pl.)}
+akusalā: {unwholesome, said of phenomena (nominative pl.)}
+akusalamūlena: {by the unwholesome root, 'in terms of the unwholesome root' (instrumental sg.)}
+akusalamūlamūlā: {unwholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+akusalamūlakā: {stemming from an unwholesome root, in the based-on-a-root method (nominative pl. adjective)}
+akusalamūlamūlakā: {stemming from an unwholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+abyākatamūlā: {ethically indeterminate roots (nominative pl.)}
+abyākatā: {ethically indeterminate, neither wholesome nor unwholesome (nominative pl.)}
+abyākatamūlena: {by the ethically indeterminate root, 'in terms of the ethically indeterminate root' (instrumental sg.)}
+abyākatamūlamūlā: {ethically indeterminate roots-of-roots, in the root-of-roots method (nominative pl.)}
+abyākatamūlakā: {stemming from an ethically indeterminate root, in the based-on-a-root method (nominative pl. adjective)}
+abyākatamūlamūlakā: {stemming from an ethically indeterminate root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+nāmamūlā: {mental roots, the roots on the mental side (nominative pl.)}
+nāmamūlena: {by the mental root, 'in terms of the root on the mental side' (instrumental sg.)}
+nāmamūlamūlā: {mental roots-of-roots, in the root-of-roots method (nominative pl.)}
+nāmamūlakā: {stemming from a mental root, in the based-on-a-root method (nominative pl. adjective)}
+nāmamūlamūlakā: {stemming from a mental root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective)}
+Mūlavārauddeso: {statement, the opening enumeration of the section on roots (heading)}
+kusalappabhavā: {wholesome springing forth, source of origin, the fifth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+pabhavena: {springing forth, source of origin, the fifth of the ten root synonyms of the hetuvāra series (instrumental)}
+hetu: {cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative)}
+kusalapaccayā: {wholesome condition, supporting factor, the ninth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+paccayo: {condition, supporting factor, the ninth of the ten root synonyms of the hetuvāra series (nominative)}
+kusalasambhavā: {wholesome coming into being, origin, the fourth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+sambhavo: {coming into being, origin, the fourth of the ten root synonyms of the hetuvāra series (nominative)}
+kusalāhārā: {wholesome nutriment, sustaining support, the seventh of the ten root synonyms of the hetuvāra series (nominative pl.)}
+Samuṭṭhānāhārārammaṇā: {origination, nutriment and object, the sixth, seventh and eighth of the ten root synonyms of the hetuvāra series (dvandva compound)}
+samudayena: {arising, coming forth, the tenth of the ten root synonyms of the hetuvāra series (instrumental)}
+Uddesavāro: {the statement section, the opening enumeration of the hetuvāra series (heading)}
+Mūlaṃ: {root, a root condition, the first of the ten root synonyms of the hetuvāra series (nominative)}
+nidānañca: {source, underlying cause, the third of the ten root synonyms of the hetuvāra series (nominative, with ca 'and')}
+kusalahetū: {wholesome cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalanidānā: {wholesome source, underlying cause, the third of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalasamuṭṭhānā: {wholesome origination, what gives rise, the sixth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalārammaṇā: {wholesome object, what the mind takes up, the eighth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+kusalasamudayā: {wholesome arising, coming forth, the tenth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+Avasesā: {remaining, the rest (nominative pl.)}
+kusalamūlāti: {wholesome roots (nominative pl., with the question particle -ti)}
+kusalamūlāni: {wholesome roots (nominative pl.)}
+kusalāti: {wholesome, said of phenomena (nominative pl., with the question particle -ti)}
+Kusalasamuṭṭhānaṃ: {originating from, produced by the wholesome, said of matter in 'kusalasamuṭṭhānaṃ rūpaṃ' (neuter sg. compound)}
+rūpaṃ: {matter, material form, also 'the material' in nāmarūpa and 'material' as predicate (nominative/accusative sg.)}
+ekamūlāti: {having one and the same root, in the root method (nominative pl. adjective, with the question particle -ti)}
+ekamūlaṃ: {having one and the same root, in the root method (neuter sg. adjective)}
+ekamūlañceva: {having one and the same root, in the root method (neuter sg. adjective, with ceva 'both … and')}
+kusalaṃ: {wholesome, often standing for the wholesome mind (neuter sg.)}
+kusalañca: {wholesome, often standing for the wholesome mind (neuter sg., with ca 'and')}
+uppajjanti: {arise, come into being (3rd pl. present)}
+aññamaññamūlāti: {each serving as root for the other}
+aññamaññamūlāni: {each serving as root for the other}
+Mūlāni: {roots, the root conditions (nominative pl.)}
+ekamūlāni: {having one and the same root, in the root method (neuter pl. adjective)}
+kusalamūlasahajātā dhammā: {phenomena conascent with the wholesome roots (nominative pl. phrase)}
+kusalamūlamūlāti: {wholesome roots-of-roots, in the root-of-roots method (nominative pl., with the question particle -ti)}
+kusalamūlamūlāni: {wholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+ekamūlamūlāti: {having one and the same root-of-roots, in the root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+ekamūlamūlaṃ: {having one and the same root-of-roots, in the root-of-roots method (neuter sg. adjective)}
+ekamūlamūlañceva: {having one and the same root-of-roots, in the root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+aññamaññamūlamūlāti: {each serving as root-of-roots for the other}
+aññamaññamūlamūlāni: {each serving as root-of-roots for the other}
+ekamūlamūlāni: {having one and the same root-of-roots, in the root-of-roots method (neuter pl. adjective)}
+saṅkhārā: {formations, the volitional factors of the fourth aggregate, also formations in general in the Saṅkhārayamaka pairs (nominative pl.)}
+#
+# ---- Block B: part 1 beyond the sample ----
+# Mūlayamaka, method 3 / 4 forms (family tags §4, label adapted)
+kusalamūlakāti: {stemming from a wholesome root, in the based-on-a-root method (nominative pl. adjective, with the question particle -ti)}
+kusalamūlakaṃ: {stemming from a wholesome root, in the based-on-a-root method (neuter sg. adjective)}
+kusalamūlakañceva: {stemming from a wholesome root, in the based-on-a-root method (neuter sg. adjective, with ceva 'both … and')}
+ekamūlakāti: {stemming from one and the same root, in the based-on-a-root method (nominative pl. adjective, with the question particle -ti)}
+ekamūlakaṃ: {stemming from one and the same root, in the based-on-a-root method (neuter sg. adjective)}
+ekamūlakañceva: {stemming from one and the same root, in the based-on-a-root method (neuter sg. adjective, with ceva 'both … and')}
+aññamaññamūlakāti: {each stemming from the other as a root}
+aññamaññamūlakāni: {each stemming from the other as a root}
+ekamūlakāni: {stemming from one and the same root, in the based-on-a-root method (neuter pl. adjective)}
+kusalamūlamūlakāti: {stemming from a wholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+kusalamūlamūlakaṃ: {stemming from a wholesome root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective)}
+kusalamūlamūlakañceva: {stemming from a wholesome root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+ekamūlamūlakāti: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+ekamūlamūlakaṃ: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective)}
+ekamūlamūlakañceva: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+aññamaññamūlamūlakāti: {each stemming from the other as a root-of-roots}
+aññamaññamūlamūlakāni: {each stemming from the other as a root-of-roots}
+ekamūlamūlakāni: {stemming from one and the same root-of-roots, in the based-on-a-root-of-roots method (neuter pl. adjective)}
+# unwholesome series
+akusalamūlāti: {unwholesome roots (nominative pl., with the question particle -ti)}
+akusalamūlāni: {unwholesome roots (nominative pl.)}
+akusalāti: {unwholesome, said of phenomena (nominative pl., with the question particle -ti)}
+Ahetukaṃ: {without roots, with no root condition, said of phenomena (neuter sg. adjective)}
+Sahetukaṃ: {having roots, with a root condition, said of phenomena (neuter sg. adjective)}
+Akusalasamuṭṭhānaṃ: {originating from, produced by the unwholesome, said of matter in 'akusalasamuṭṭhānaṃ rūpaṃ' (neuter sg. compound)}
+akusalaṃ: {unwholesome, often standing for the unwholesome mind (neuter sg.)}
+akusalañca: {unwholesome, often standing for the unwholesome mind (neuter sg., with ca 'and')}
+akusalamūlasahajātā dhammā: {phenomena conascent with the unwholesome roots (nominative pl. phrase)}
+akusalamūlamūlāti: {unwholesome roots-of-roots, in the root-of-roots method (nominative pl., with the question particle -ti)}
+akusalamūlamūlāni: {unwholesome roots-of-roots, in the root-of-roots method (nominative pl.)}
+akusalamūlakāti: {stemming from an unwholesome root, in the based-on-a-root method (nominative pl. adjective, with the question particle -ti)}
+akusalamūlakaṃ: {stemming from an unwholesome root, in the based-on-a-root method (neuter sg. adjective)}
+akusalamūlakañceva: {stemming from an unwholesome root, in the based-on-a-root method (neuter sg. adjective, with ceva 'both … and')}
+akusalamūlamūlakāti: {stemming from an unwholesome root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+akusalamūlamūlakaṃ: {stemming from an unwholesome root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective)}
+akusalamūlamūlakañceva: {stemming from an unwholesome root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+# ethically indeterminate series
+abyākatamūlāti: {ethically indeterminate roots (nominative pl., with the question particle -ti)}
+abyākatamūlāni: {ethically indeterminate roots (nominative pl.)}
+abyākatāti: {ethically indeterminate, neither wholesome nor unwholesome (nominative pl., with the question particle -ti)}
+abyākataṃ: {ethically indeterminate (neuter sg.)}
+abyākatamūlasahajātā dhammā: {phenomena conascent with the ethically indeterminate roots (nominative pl. phrase)}
+abyākatamūlamūlāti: {ethically indeterminate roots-of-roots, in the root-of-roots method (nominative pl., with the question particle -ti)}
+abyākatamūlamūlāni: {ethically indeterminate roots-of-roots, in the root-of-roots method (nominative pl.)}
+abyākatamūlakāti: {stemming from an ethically indeterminate root, in the based-on-a-root method (nominative pl. adjective, with the question particle -ti)}
+abyākatamūlakaṃ: {stemming from an ethically indeterminate root, in the based-on-a-root method (neuter sg. adjective)}
+abyākatamūlamūlakāti: {stemming from an ethically indeterminate root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+abyākatamūlamūlakaṃ: {stemming from an ethically indeterminate root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective)}
+# mental (nāma) series
+nāmamūlāti: {mental roots, the roots on the mental side (nominative pl., with the question particle -ti)}
+nāmamūlāni: {mental roots, the roots on the mental side (nominative pl.)}
+nāmāti: {mental, belonging to the mental side, nāma, said of phenomena (nominative pl., with the question particle -ti)}
+Nāmasamuṭṭhānaṃ: {originating from, produced by the mental side, said of matter in 'nāmasamuṭṭhānaṃ rūpaṃ' (neuter sg. compound)}
+nāmaṃ: {mentality, the mental side of name-and-form (nominative sg.)}
+nāmañca: {mental, belonging to the mental side, nāma, said of phenomena (neuter sg., with ca 'and')}
+nāmamūlasahajātā: {conascent with the mental roots (nominative pl. adjective)}
+nāmamūlamūlāti: {mental roots-of-roots, in the root-of-roots method (nominative pl., with the question particle -ti)}
+nāmamūlamūlāni: {mental roots-of-roots, in the root-of-roots method (nominative pl.)}
+nāmamūlakāti: {stemming from a mental root, in the based-on-a-root method (nominative pl. adjective, with the question particle -ti)}
+nāmamūlakaṃ: {stemming from a mental root, in the based-on-a-root method (neuter sg. adjective)}
+nāmamūlakañceva: {stemming from a mental root, in the based-on-a-root method (neuter sg. adjective, with ceva 'both … and')}
+nāmamūlamūlakāti: {stemming from a mental root-of-roots, in the based-on-a-root-of-roots method (nominative pl. adjective, with the question particle -ti)}
+nāmamūlamūlakaṃ: {stemming from a mental root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective)}
+nāmamūlamūlakañceva: {stemming from a mental root-of-roots, in the based-on-a-root-of-roots method (neuter sg. adjective, with ceva 'both … and')}
+Mūlavāraniddeso: {exposition, detailed explanation of the section on roots (heading)}
+# hetuvāra series, wholesome -ti and mental forms (meaning first, then the place)
+kusalahetūti: {wholesome cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative pl., with the question particle -ti)}
+nāmappabhavā: {mental springing forth, source of origin, the fifth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmahetū: {mental cause, reason, the second of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmapaccayā: {mental condition, supporting factor, the ninth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmasambhavā: {mental coming into being, origin, the fourth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmāhārā: {mental nutriment, sustaining support, the seventh of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmārammaṇā: {mental object, what the mind takes up, the eighth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmasamudayā: {mental arising, coming forth, the tenth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmasamuṭṭhānā: {mental origination, what gives rise, the sixth of the ten root synonyms of the hetuvāra series (nominative pl.)}
+nāmanidānā: {mental source, underlying cause, the third of the ten root synonyms of the hetuvāra series (nominative pl.)}
+Niddesavāro: {the exposition section, the detailed explanation of the hetuvāra series (closing line)}
+# homage line (pi-5 verbatim; arahato example adapted)
+bhagavato: {the Blessed One, in the homage line (genitive sg.)}
+sammāsambuddhassa: {the perfectly self-awakened Buddha, in the homage line (genitive sg.)}
+Namo: {homage, veneration (indeclinable, title line)}
+arahato: {the Worthy One, the arahant, in the homage line and as a person in the Anusayayamaka (genitive sg.)}
+Mūlayamakapāḷi: {title of the chapter on roots (closing line)}
+# Khandhayamaka: titles, members, headings
+Khandhayamakaṃ: {title of the chapter on aggregates}
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.)}
+vedanākkhandho: {the aggregate of feeling (nominative sg.)}
+rūpakkhandho: {the aggregate of matter (nominative sg.)}
+saṅkhārakkhandho: {the aggregate of formations (nominative sg.)}
+saññākkhandho: {the aggregate of perception (nominative sg.)}
+Pañcakkhandhā: {the five aggregates, the opening enumeration of the Khandhayamaka (nominative pl.)}
+Paṇṇattivāro: {the section on terms, the designations, a round of the exposition (heading)}
+viññāṇaṃ: {consciousness, knowing an object (nominative sg.)}
+vedanā: {feeling, the affective tone of experience (nominative sg.)}
+saññā: {perception, recognition (nominative sg.)}
+Padasodhanavāro: {the section on clarifying the terms, a round of the exposition (heading)}
+anulomaṃ: {direct order, the positive half of a section (heading)}
+paccanīkaṃ: {opposite order, the negated half of a section (heading)}
+Padasodhanamūlacakkavāro: {the section on the cycle based on clarifying the terms, a round of the exposition (heading)}
+khandhā: {aggregates, groups of phenomena (nominative pl.)}
+Suddhakhandhavāro: {the section on the pure aggregates, the aggregates taken alone, a round of the exposition (heading)}
+Suddhakhandhamūlacakkavāro: {the section on the cycle based on the pure aggregates, a round of the exposition (heading)}
+Paṇṇattivāraniddesa: {exposition, detailed explanation of the section on terms (heading)}
+uppādavāro: {the section on arising, a round of the exposition (heading)}
+Pavattivāro: {the section on occurrence, the going-on of existence, a round of the exposition (heading)}
+anulomapuggalo: {direct order by person, the positive half of a section (heading)}
+anulomaokāso: {direct order by place, the positive half of a section (heading)}
+anulomapuggalokāsā: {direct order by person and place, the positive half of a section (heading)}
+paccanīkapuggalo: {opposite order by person, the negated half of a section (heading)}
+paccanīkaokāso: {opposite order by place, the negated half of a section (heading)}
+paccanīkapuggalokāsā: {opposite order by person and place, the negated half of a section (heading)}
+khandho: {aggregate, a group of phenomena (nominative sg.)}
+Atītānāgatavāro: {the section on past and future, a round of the exposition (heading)}
+nirodhavāro: {the section on cessation, a round of the exposition (heading)}
+Pavatti: {occurrence, the going-on of existence (heading member)}
+Paṇṇattiuddesavāro: {the statement section, the opening enumeration of the section on terms (heading)}
+Uppādanirodhavāro: {the section on arising and cessation, a round of the exposition (heading)}
+viññāṇakkhandhoti: {the aggregate of consciousness (nominative sg., with the question particle -ti)}
+vedanākkhandhoti: {the aggregate of feeling (nominative sg., with the question particle -ti)}
+rūpakkhandhoti: {the aggregate of matter (nominative sg., with the question particle -ti)}
+saṅkhārakkhandhoti: {the aggregate of formations (nominative sg., with the question particle -ti)}
+Saṅkhārakkhandhaṃ: {the aggregate of formations (accusative sg.)}
+saññākkhandhoti: {the aggregate of perception (nominative sg., with the question particle -ti)}
+ṭhapetvā: {except, leaving aside (absolutive)}
+viññāṇanti: {consciousness, knowing an object (nominative sg., with the question particle -ti)}
+vedanāti: {feeling, the affective tone of experience (nominative sg., with the question particle -ti)}
+rūpañceva: {matter, material form (nominative sg., with ceva 'both … and')}
+rūpanti: {matter, material form (nominative sg., with the question particle -ti)}
+saṅkhārāti: {formations, the volitional factors of the fourth aggregate, also formations in general in the Saṅkhārayamaka pairs (nominative pl., with the question particle -ti)}
+Diṭṭhisaññā: {perception in the sense of a view, called perception but not the perception aggregate (nominative sg. compound)}
+saññāti: {perception, recognition (nominative sg., with the question particle -ti)}
+rūpakkhandhañca: {the aggregate of matter (accusative sg., with ca 'and')}
+saṅkhārakkhandhañca: {the aggregate of formations (accusative sg., with ca 'and')}
+saññākkhandhañca: {the aggregate of perception (accusative sg., with ca 'and')}
+Rūpañca: {and matter, material form, with ca (accusative sg.)}
+Saṅkhāre: {formations, the volitional factors of the fourth aggregate (accusative pl.)}
+Saññañca: {perception, recognition (accusative sg., with ca 'and')}
+Avasesā khandhā: {the remaining aggregates (nominative pl. phrase)}
+Pariññāvāro: {the section on knowing thoroughly, a round of the exposition (heading)}
+khandhoti: {aggregate, a group of phenomena (nominative sg., with the question particle -ti)}
+khandhe: {aggregates, groups of phenomena (accusative pl.)}

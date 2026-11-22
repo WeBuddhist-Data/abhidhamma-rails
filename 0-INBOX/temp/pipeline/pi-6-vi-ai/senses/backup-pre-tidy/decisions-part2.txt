@@ -1,0 +1,233 @@
+# pi-6 (Yamaka) Pāli→Vietnamese senses, part 2 (agg-part2.tsv, 226 rows, «Viññāṇañca» … «manoviññāṇadhātu»).
+# Hand-written tag table, headword by headword, under senses-conventions.md (read-only). Tag source order: the approved
+# pi-5, then pi-4, pi-3, pi-2, pi-1 Vietnamese tag where the Vietnamese values match (label adapted for -ti / -ñca /
+# -ñceva / -pi forms and where the prior example or label does not occur in pi-6); otherwise the pi-6 English tag word
+# for word where it names the same meaning; otherwise a new tag on the family patterns of senses-conventions.md §4.
+# Every multi-value row of this part is a tense / polarity, position, letter-case or head-noun variant: one sense each.
+# Build: python -I -X utf8 -B senses_tool_vi.py build --part 2
+Viññāṇañca: {consciousness, knowing an object (nominative sg., with ca 'and')}
+Vedanaṃ: {feeling, the affective tone of experience (accusative sg.)}
+Vedanañca: {feeling, the affective tone of experience (accusative sg., with ca 'and')}
+Saññaṃ: {perception, recognition (accusative sg.)}
+Paṇṇattiniddesavāro: {the exposition section on terms, the detailed explanation of the designations (heading)}
+uppajjati: {arises, comes into being (3rd sg. present)}
+uppajjatīti: {arises, comes into being (3rd sg. present, with the question particle -ti)}
+Pañcavokāraṃ: {existence with all five groups}
+Arūpaṃ: {the plane of immaterial existence}
+Asaññasattaṃ: {non-percipient beings and their plane}
+upapajjantānaṃ: {entering a new existence (verb or participle)}
+Pañcavokāre: {existence with all five groups}
+Arūpe: {in the immaterial}
+Asaññasatte: {non-percipient beings and their plane}
+nuppajjati: {does not arise (3rd sg. present, negated)}
+nuppajjatīti: {does not arise (3rd sg. present, negated, with the question particle -ti)}
+cavantānaṃ: {dying, leaving a state of existence}
+uppajjittha: {having come into being (past or completed)}
+uppajjitthāti: {having come into being (past or completed)}
+Pañcavokārānaṃ: {existence with all five groups}
+Arūpānaṃ: {the plane of immaterial existence}
+Asaññasattānaṃ: {non-percipient beings and their plane}
+nuppajjittha: {not having come into being (past or completed, negated)}
+nuppajjitthāti: {not having come into being (past or completed, negated, with the question particle -ti)}
+Natthi: {there is not}
+Suddhāvāsānaṃ: {the highest fine-material planes of non-returners}
+uppajjissati: {will arise (3rd sg. future)}
+uppajjissatīti: {will arise (3rd sg. future, with the question particle -ti)}
+parinibbāyissanti: {reaching complete liberation at death (future)}
+Itaresaṃ: {those not yet mentioned in a passage}
+upapajjitvā: {entering a new existence (verb or participle)}
+nuppajjissati: {will not arise (3rd sg. future, negated)}
+nuppajjissatīti: {will not arise (3rd sg. future, negated, with the question particle -ti)}
+Pacchimabhavikānaṃ: {those in their final existence, the last life before complete liberation (genitive pl.)}
+Pañcavokārā: {existence with all five groups}
+Suddhāvāsaṃ: {the highest fine-material planes of non-returners}
+parinibbantānaṃ: {reaching complete liberation at death}
+asaññasattā: {non-percipient beings and their plane}
+Suddhāvāse: {the highest fine-material planes of non-returners}
+nirujjhati: {ceases (3rd sg. verb)}
+nirujjhatīti: {ceases (3rd sg. verb, with the question particle -ti)}
+Arūpā: {the plane of immaterial existence}
+nirujjhittha: {having come to an end (past or completed)}
+nirujjhitthāti: {having come to an end (past or completed)}
+nirujjhissati: {coming to an end (verb, present or future)}
+nirujjhissatīti: {coming to an end (verb, present or future)}
+Yattha: {where, in which plane, the relative of place in the pair questions (adverb)}
+yatthakaṃ: {the section by place, the questions about planes of existence (section label)}
+vadanākkhandho: {the aggregate of feeling (nominative sg.)}
+uppādavāre: {the section on arising, a round of the exposition (locative sg. heading)}
+vedanākkhandhaṃ: {the aggregate of feeling (accusative sg.)}
+rūpakkhandhaṃ: {the aggregate of matter (accusative sg.)}
+parijānāti: {comprehends fully}
+parijānātīti: {comprehends fully (with the question particle -ti)}
+parijānittha: {having known a thing thoroughly}
+parijānitthāti: {having known a thing thoroughly}
+parijānissati: {knowing a thing thoroughly (verb, present or future)}
+parijānissatīti: {knowing a thing thoroughly (verb, present or future)}
+vedanākkhandhañca: {the aggregate of feeling (accusative sg., with ca 'and')}
+Arahā: {the perfected one (nominative sg.)}
+arahantañca: {the perfected one (accusative sg., with ca 'and')}
+parijānanti: {comprehend fully (3rd pl. present)}
+Aggamaggasamaṅgiñca: {one endowed with the highest path, the path of arahantship (accusative sg., with ca 'and')}
+Aggamaggasamaṅgī: {one endowed with the highest path, the path of arahantship (nominative sg.)}
+puggalā: {types of person, as grouped by attainment in the pariññā and anusaya sections (nominative pl.)}
+maggaṃ paṭilabhissanti: {going to reach the noble path}
+paṭilabhissanti: {going to reach the noble path}
+parijānissanti: {knowing a thing thoroughly (verb, present or future)}
+puthujjanā: {unenlightened people as a group}
+Khandhayamakapāḷi: {title of the chapter on aggregates (closing line)}
+Āyatanayamakaṃ: {title of the chapter on sense bases}
+kāyāyatanaṃ: {the body base, the body as a sense field (nominative sg.)}
+sotāyatanaṃ: {the ear base, the ear as a sense field (nominative sg.)}
+cakkhāyatanaṃ: {the eye base, the eye as a sense field (nominative sg.)}
+dhammāyatanaṃ: {the base of mind-objects (nominative sg.)}
+manāyatanaṃ: {the mind base, the mind as a sense field (nominative sg.)}
+ghānāyatanaṃ: {the nose base, the nose as a sense field (nominative sg.)}
+gandhāyatanaṃ: {the base of smells, odour as a sense field (nominative sg.)}
+saddāyatanaṃ: {the base of sounds, sound as a sense field (nominative sg.)}
+rasāyatanaṃ: {the base of tastes, flavour as a sense field (nominative sg.)}
+jivhāyatanaṃ: {the tongue base, the tongue as a sense field (nominative sg.)}
+phoṭṭhabbāyatanaṃ: {the base of tangibles, the touchable as a sense field (nominative sg.)}
+rūpāyatanaṃ: {the base of visible forms, the visible as a sense field (nominative sg.)}
+kāyo: {the physical body, the organ of touch (nominative sg.)}
+sotaṃ: {the ear, the hearing organ (nominative/accusative sg.)}
+cakkhu: {the eye, the seeing organ, as in cakkhāyatana, cakkhudhātu and the eye faculty cakkhundriya (nominative sg.)}
+mano: {mind, the thinking faculty (nominative sg.)}
+ghānaṃ: {the nose, the smelling organ (nominative/accusative sg.)}
+gandho: {smell, the object of the nose (nominative sg.)}
+saddo: {sound, the object of the ear (nominative sg.)}
+raso: {taste, the object of the tongue (nominative sg.)}
+jivhā: {the tongue, the tasting organ, as in jivhāyatana, jivhādhātu and the tongue faculty jivhindriya (nominative sg.)}
+phoṭṭhabbo: {tangible object, what is touched (nominative sg.)}
+Cakkaṃ: {a repeated round of questions to be supplied}
+āyatanā: {sense bases, the sense fields (nominative pl.)}
+Suddhāyatanavāro: {the section on the bare sense bases, a round of the exposition (heading)}
+nāyatanā: {not sense bases, not the sense fields (nominative pl., negated)}
+Suddhāyatanamūlacakkavāro: {the section on the cycles based on the bare sense bases, a round of the exposition (heading)}
+āyatanaṃ: {sense base, sense field (nominative/accusative sg.)}
+nāyatanaṃ: {not a sense base, not a sense field (nominative sg., negated)}
+kāyoti: {the physical body, the organ of touch (nominative sg., with the question particle -ti)}
+kāyāyatananti: {the body base, the body as a sense field (nominative sg., with the question particle -ti)}
+kāyāyatanañca: {the body base, the body as a sense field (nominative sg., with ca 'and')}
+samādhigandho: {the fragrance of concentration, scent in the figurative sense (nominative sg. compound)}
+taṇhāsotaṃ: {craving seen as a flowing current}
+Dibbasotaṃ: {supernormal hearing}
+Dibbacakkhu: {heavenly eye}
+sotañceva: {the ear, the hearing organ (nominative sg., with ceva 'both … and')}
+sotanti: {the ear, the hearing organ (nominative sg., with the question particle -ti)}
+sotāyatananti: {the ear base, the ear as a sense field (nominative sg., with the question particle -ti)}
+sotāyatanañca: {the ear base, the ear as a sense field (nominative sg., with ca 'and')}
+cakkhāyatananti: {the eye base, the eye as a sense field (nominative sg., with the question particle -ti)}
+cakkhāyatanañca: {the eye base, the eye as a sense field (nominative sg., with ca 'and')}
+paññācakkhu: {sight in the figurative sense of understanding}
+cakkhūti: {the eye, the seeing organ (nominative sg., with the question particle -ti)}
+dhammāyatananti: {the base of mind-objects (nominative sg., with the question particle -ti)}
+dhammāyatanañca: {the base of mind-objects (nominative sg., with ca 'and')}
+manoti: {mind, the thinking faculty (nominative sg., with the question particle -ti)}
+manāyatananti: {the mind base, the mind as a sense field (nominative sg., with the question particle -ti)}
+ghānanti: {the nose, the smelling organ (nominative sg., with the question particle -ti)}
+ghānāyatananti: {the nose base, the nose as a sense field (nominative sg., with the question particle -ti)}
+gandhāyatananti: {the base of smells, odour as a sense field (nominative sg., with the question particle -ti)}
+gandhāyatanañca: {the base of smells, odour as a sense field (nominative sg., with ca 'and')}
+Sīlagandho: {the fragrance of virtue, scent in the figurative sense (nominative sg. compound)}
+paññāgandho: {the fragrance of wisdom, scent in the figurative sense (nominative sg. compound)}
+gandhoti: {smell, the object of the nose (nominative sg., with the question particle -ti)}
+saddoti: {sound, the object of the ear (nominative sg., with the question particle -ti)}
+saddāyatananti: {the base of sounds, sound as a sense field (nominative sg., with the question particle -ti)}
+rasāyatananti: {the base of tastes, flavour as a sense field (nominative sg., with the question particle -ti)}
+rasāyatanañca: {the base of tastes, flavour as a sense field (nominative sg., with ca 'and')}
+Attharaso: {the taste of the meaning, taste in the figurative sense (nominative sg. compound)}
+dhammaraso: {the taste of the Teaching, the Buddha's teaching as a flavour (nominative sg. compound)}
+vimuttiraso: {the taste of liberation, taste in the figurative sense (nominative sg. compound)}
+rasoti: {taste, the object of the tongue (nominative sg., with the question particle -ti)}
+jivhāti: {the tongue, the tasting organ (nominative sg., with the question particle -ti)}
+jivhāyatananti: {the tongue base, the tongue as a sense field (nominative sg., with the question particle -ti)}
+phoṭṭhabboti: {tangible object, what is touched (nominative sg., with the question particle -ti)}
+phoṭṭhabbāyatananti: {the base of tangibles, the touchable as a sense field (nominative sg., with the question particle -ti)}
+rūpāyatananti: {the base of visible forms, the visible as a sense field (nominative sg., with the question particle -ti)}
+rūpāyatanañca: {the base of visible forms, the visible as a sense field (nominative sg., with ca 'and')}
+Kāyañca: {the physical body, the organ of touch (accusative sg., with ca 'and')}
+Sotañca: {the ear, the hearing organ (accusative sg., with ca 'and')}
+Cakkhuñca: {the eye, the seeing organ (accusative sg., with ca 'and')}
+Gandhañca: {smell, the object of the nose (accusative sg., with ca 'and')}
+Rasañca: {taste, the object of the tongue (accusative sg., with ca 'and')}
+manāyatanañca: {the mind base, the mind as a sense field (nominative sg., with ca 'and')}
+avaseso: {remaining, the rest (masculine nominative sg.)}
+āyatanañceva: {sense base, sense field (nominative sg., with ceva 'both … and')}
+sotāyananti: {the ear base, the ear as a sense field (nominative sg., with the question particle -ti, misspelt sotāyatananti)}
+āyatananti: {sense base, sense field (nominative sg., with the question particle -ti)}
+Cakkhuṃ: {the eye, the seeing organ (nominative/accusative sg.)}
+Manaṃ: {mind, the thinking faculty (accusative sg.)}
+Manañca: {mind, the thinking faculty (accusative sg., with ca 'and')}
+gandhaṃ: {smell, the object of the nose (accusative sg.)}
+nāyatananti: {not a sense base, not a sense field (nominative sg., negated, with the question particle -ti)}
+āyatanañca: {sense base, sense field (nominative sg., with ca 'and')}
+saddaṃ: {sound, the object of the ear (accusative sg.)}
+rasaṃ: {taste, the object of the tongue (accusative sg.)}
+jivhaṃ: {the tongue, the tasting organ (accusative sg.)}
+phoṭṭhabbaṃ: {tangible object, what is touched (accusative sg.)}
+asotakānaṃ: {without ears, beings lacking the ear (genitive pl. adjective)}
+sasotakānaṃ: {having ears, beings endowed with the ear (genitive pl. adjective)}
+Cakkhāyatanamūlakaṃ: {based on the eye base, the part of the cycle starting from it (section label)}
+Sacakkhukānaṃ: {having eyes, beings endowed with the eye (genitive pl. adjective)}
+acakkhukānaṃ: {without eyes, beings lacking the eye (genitive pl. adjective)}
+ghānāyatanañca: {the nose base, the nose as a sense field (nominative sg., with ca 'and')}
+Ghānāyatanamūlakaṃ: {based on the nose base, the part of the cycle starting from it (section label)}
+Rūpāyatanamūlakaṃ: {based on the base of visible forms, the part of the cycle starting from it (section label)}
+Manāyatanamūlakaṃ: {based on the mind base, the part of the cycle starting from it (section label)}
+Rūpāvacare: {the plane of fine material existence}
+Kāmāvacare: {the plane of sensual existence}
+arūpāvacare: {the plane of immaterial existence}
+vārasaṅkhepo: {summary of the sections, the abridgement of the rounds (heading)}
+Catuvokāre: {existence with four groups, without material form}
+yassakasadisaṃ: {like the section by person (neuter sg. adjective)}
+paccuppannepi: {in the present, the time section on the present (locative sg., with pi 'also')}
+paccuppannānāgatepi: {in the present and the future, the combined time section (locative sg., with pi 'also')}
+atītepi: {in the past, the time section on the past (locative sg., with pi 'also')}
+paccuppannātītepi: {in the present and the past, the combined time section (locative sg., with pi 'also')}
+atītānāgatepi: {in the past and the future, the combined time section (locative sg., with pi 'also')}
+Rūpāvacarānaṃ: {the plane of fine material existence}
+Kāmāvacarānaṃ: {the plane of sensual existence}
+arūpāvacarānaṃ: {the plane of immaterial existence}
+uppajjittharūpāyatanañca: {having arisen, with the base of visible forms, uppajjittha and rūpāyatanañca run together (fused form)}
+rūpāvacaraṃ: {the plane of fine material existence}
+arūpāvacaraṃ: {the plane of immaterial existence}
+kāmāvacaraṃ: {the plane of sensual existence}
+Kāmāvacarā: {the plane of sensual existence}
+arūpakānaṃ: {without material form (genitive pl.)}
+Rūpāvacarā: {the plane of fine material existence}
+uppādepi: {arising, coming into being (locative sg., with pi 'also')}
+nirodhepi: {cessation, ceasing (locative sg., with pi 'also')}
+uppādanirodhepi: {arising and cessation (locative sg. dvandva, with pi 'also')}
+Yassa yattha: {for whom and where, the pair-question frame by person and place (relative pronoun and adverb)}
+Yassa yatthakampi: {the section by person and place (section label, with pi 'also')}
+nirujjhatī: {ceases (3rd sg. verb, lengthened before the question particle ti)}
+nirodhavārepi: {the section on cessation, a round of the exposition (locative sg. heading, with pi 'also')}
+uppādanirodhavārepi: {the section on arising and cessation, a round of the exposition (locative sg. heading, with pi 'also')}
+paccanīkampi: {opposite order, the negated half of a section (heading, with pi 'also')}
+anulomampi: {direct order, the positive half of a section (heading, with pi 'also')}
+pucchā: {a query put in the pair questions (nominative sg.)}
+Uppādavārepi: {the section on arising, a round of the exposition (locative sg. heading, with pi 'also')}
+yassa yatthake: {the section by person and place (locative sg. section label)}
+parinibbāntānaṃ: {reaching complete liberation at death}
+manāyatana: {the mind base, the mind as a sense field (stem)}
+yatthakānaṃ: {the section by place, the questions about planes of existence (genitive pl. section label)}
+vāresu: {sections, the rounds of the exposition (locative pl.)}
+yassayatthakampi: {the section by person and place (section label, with pi 'also', written as one word)}
+Yassakampi: {the section by person, the questions about individuals (section label, with pi 'also')}
+upapajjissati: {will arise, a variant reading of uppajjissati in the pair questions (3rd sg. future)}
+nirodhavāre: {the section on cessation, a round of the exposition (locative sg. heading)}
+yatthakampi: {the section by place, the questions about planes of existence (section label, with pi 'also')}
+Dhātuyamakaṃ: {title of the chapter on elements}
+kāyadhātu: {the body element (nominative sg.)}
+kāyaviññāṇadhātu: {the element of body-consciousness (nominative sg.)}
+sotadhātu: {the ear element (nominative sg.)}
+sotaviññāṇadhātu: {the element of ear-consciousness (nominative sg.)}
+dhātuyo: {elements, irreducible constituents (nominative pl.)}
+jivhādhātu: {the tongue element (nominative sg.)}
+saddadhātu: {the element of sounds (nominative sg.)}
+phoṭṭhabbadhātu: {the element of tangibles (nominative sg.)}
+cakkhudhātu: {the eye element (nominative sg.)}
+cakkhuviññāṇadhātu: {the element of eye-consciousness (nominative sg.)}
+dhammadhātu: {the element of mind-objects (nominative sg.)}
+manodhātu: {the mind element (stem and nominative)}
+manoviññāṇadhātu: {the mind-consciousness element (stem and nominative)}

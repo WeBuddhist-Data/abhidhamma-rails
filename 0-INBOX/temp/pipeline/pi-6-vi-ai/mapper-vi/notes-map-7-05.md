@@ -1,0 +1,11 @@
+# notes-map-7-05 (7-05-anusayayamaka): new recurring keywords and values
+tooling: map_7-05_vi.py loads map_7-01_vi.py and map_7-04_vi.py with importlib; resolver = OVERRIDES (none) -> tendency_ca -> A.value701(kw, kws, T705, text); T705 = 7-04 T704 (7-02 paṭiloma headings + 7-03 puggalo); ALLOWED empty
+pajahati / pajahatīti = dứt bỏ [7-01 proposal confirmed]: «Người nào dứt bỏ …», «đối với nơi nào mà dứt bỏ …», short answers «Dứt bỏ khuynh hướng tiềm ẩn kiêu mạn.»; in the (Kha) answers «nhưng đối với nơi ấy không dứt bỏ …» the «không» = no of no ca, the verb keeps «dứt bỏ» (every segment has the plain «dứt bỏ» first); -ti of the question dropped
+X-ānusayañca (kāmarāga-, paṭigha-, māna-, diṭṭh-, vicikicch-, bhavarāga-, avijj-) = khuynh hướng tiềm ẩn X («… và khuynh hướng tiềm ẩn X», «vừa …»: -ñca has no word of its own, as the sample's kusalañca; tendency_ca: the -añca form takes the X-ānusayaṃ value; the pi-5 chain raises KeyError for it, so later chapters need tendency_ca or the same rule)
+Pajahanavāro (heading «Mục về sự dứt bỏ») / Pajahanavāre (closer «Chiều thuận trong mục về sự dứt bỏ.») = mục về sự dứt bỏ [FORMULAS / 7-01 vare_value confirmed]
+Aṭṭhamako = người thứ tám («Người thứ tám, nơi …», 7 = 7 in the text); Aggamaggasamaṅgī = người có được con đường tối thượng («Người có được con đường tối thượng, nơi …», 5 = 5) [conventions-pi6 values confirmed]
+puggalo = hạng người («Chính hạng người ấy», 10 = 10 segments; as 7-03 / 7-04)
+Natthi = không có («Không có.», 14 = 14); anulomapuggalo / anulomaokāso / anulomapuggalokāsā / anulomaṃ = chiều thuận theo người / theo nơi chốn / theo người và nơi chốn / chiều thuận [FORMULAS]
+planes / feelings as 7-01 … 7-04: Kāmadhātuyā / kāmadhātuyā = cõi dục lạc, Rūpadhātuyā / rūpadhātuyā = cõi hình sắc, arūpadhātuyā = cõi không hình sắc, dvīsu vedanāsu = hai loại cảm giác, tīsu vedanāsu = ba loại cảm giác, Dukkhāya vedanāya / dukkhāya vedanāya = cảm giác khó chịu
+(no direct equivalent) placeholder (^6-7-132 … 142, 157; English «person») = (no direct equivalent) (coordinator rule)
+not keywords in 7-05: yassa / tassa / yattha / tattha (here «đối với nơi nào» / «đối với nơi ấy»), sahajātaṃ («những gì cùng hiện diện với nó», «vốn cùng hiện diện với nó»), the round labels («(Phần dựa trên một mục)» …)

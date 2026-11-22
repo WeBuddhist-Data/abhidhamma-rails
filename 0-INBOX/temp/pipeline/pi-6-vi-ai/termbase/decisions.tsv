@@ -1,0 +1,54 @@
+# pi-6 Yamaka Pāli→Vietnamese plain termbase, builder decisions 2026-11-22. CITATION FORM (pi-1 … pi-5 rule): noun headwords with their nominaliser as used alone; stems, compound members, adjectives and predicates bare; tense words only where the tense is the point; «có» / «điều» / «khi» dropped unless part of the meaning («sau khi» kept for the absolutive -tvā); person names with their head noun; the unbroken form over a gapped « … » form. Yamaka variants: the term is the positive, unbroken, plain form of the keyword itself (past «đã X», future «sẽ X»; «chưa từng X», «sẽ … X» and «vẫn …» are polarity / no ca renderings of the same form; a fused negative keyword keeps its «không»: nappajahissanti «sẽ không dứt bỏ» = nuppajjissati). Plane-beings: a genitive plural being (-ānaṃ) takes its head noun «chúng sinh trong cõi X»; the plane itself (accusative, locative, nominative) is «cõi X»; Itaresaṃ alone «người khác». Titles: the heading form «Các cặp câu hỏi về …» (closers <X>yamakapāḷi stay lower case).
+Mūlayamakaṃ|0	Các cặp câu hỏi về gốc rễ	user 2026-11-22: yamaka titles «Các cặp câu hỏi về …», heading form (= Khandhayamakaṃ)
+Āyatanayamakaṃ|0	Các cặp câu hỏi về các lĩnh vực nhận biết	yamaka title, heading form
+Dhātuyamakaṃ|0	Các cặp câu hỏi về các yếu tố	yamaka title, heading form
+Saccayamakaṃ|0	Các cặp câu hỏi về các sự thật	yamaka title, heading form
+Saṅkhārayamakaṃ|0	Các cặp câu hỏi về các tạo tác	yamaka title, heading form
+Anusayayamakaṃ|0	Các cặp câu hỏi về các khuynh hướng tiềm ẩn	yamaka title, heading form
+Cittayamakaṃ|0	Các cặp câu hỏi về tâm	yamaka title, heading form
+Dhammayamakaṃ|0	Các cặp câu hỏi về các hiện tượng	yamaka title, heading form
+Indriyayamakaṃ|0	Các cặp câu hỏi về các năng lực	yamaka title, heading form
+kusalā dhammā|0	hiện tượng thiện	= pi-1 / pi-2 / pi-3 / pi-5 termbase; unbroken over the question form «hiện tượng … thiện»; majority
+Akusalā dhammā|0	hiện tượng bất thiện	= pi-1 / pi-2 / pi-3 / pi-5 termbase (cross-book follows pi-1, not pi-4's gapped form); unbroken; majority
+Abyākatā dhammā|0	hiện tượng không xác định về mặt đạo đức	= pi-1 / pi-5 termbase; unbroken; majority
+kusalaṃ|0	thiện	= pi-1 / pi-2 / pi-5 termbase; user map decision (first-occurrence form); majority; one sense with the subject use «hiện tượng thiện»
+kusalañca|0	thiện	as kusalaṃ; majority
+saṅkhārā|0	tạo tác	= pi-5 termbase (user kept «tạo tác» 2026-11-21); majority 32:1; «sự tạo tác» only at ^6-6-1 «Ba sự tạo tác»
+uppajjittha|0	đã sinh khởi	positive past form (coordinator 2-01); «chưa từng sinh khởi» = the negative rendering; majority
+uppajjitthāti|0	đã sinh khởi	as uppajjittha
+uppajjissati|0	sẽ sinh khởi	= pi-1 / pi-5 termbase; unbroken over «sẽ … sinh khởi» (from «sẽ không»); majority
+uppajjissatīti|0	sẽ sinh khởi	as uppajjissati
+uppajjissanti|0	sẽ sinh khởi	as uppajjissati
+uppajjissantīti|0	sẽ sinh khởi	as uppajjissati
+upapajjissati|0	sẽ sinh khởi	OUTSIDE: slip for uppajjissati (tag; agents-run 3-06 / map 10-06 "as meant"); both candidates carry frame material («sẽ … » gapped from «sẽ không», «vẫn» from no ca); = uppajjissati|0
+nirujjhittha|0	đã chấm dứt	positive past form; majority
+nirujjhitthāti|0	đã chấm dứt	as nirujjhittha
+nirujjhissati|0	sẽ chấm dứt	positive unbroken future; majority
+nirujjhissatīti|0	sẽ chấm dứt	as nirujjhissati
+nirujjhissanti|0	sẽ chấm dứt	= pi-5 termbase; unbroken; majority
+nirujjhissantīti|0	sẽ chấm dứt	as nirujjhissanti
+parijānittha|0	đã hiểu biết trọn vẹn	positive past form; majority
+parijānitthāti|0	đã hiểu biết trọn vẹn	as parijānittha
+parijānissati|0	sẽ hiểu biết trọn vẹn	positive unbroken future; majority
+parijānissatīti|0	sẽ hiểu biết trọn vẹn	as parijānissati
+parijānissanti|0	sẽ hiểu biết trọn vẹn	plain future; «vẫn sẽ …» is the after-no-ca rendering (majority 5:1 by position only); = parijānissati
+paṭilabhissanti|0	sẽ đạt được	unbroken future (= maggaṃ paṭilabhissanti «sẽ đạt được con đường»); majority
+nappajahissanti|0	sẽ không dứt bỏ	fused negative keeps «không» (map rule) = nappajahissati|0, nuppajjissati «sẽ không sinh khởi»; «vẫn sẽ dứt bỏ» is the no ca rendering
+pajahissanti|0	sẽ dứt bỏ	unbroken future = pajahissati|0
+bhāvittha|0	đã tu tập	positive past form (9-01 bhāveti «tu tập»)
+bhāvitthāti|0	đã tu tập	as bhāvittha
+bhāvessati|0	sẽ tu tập	unbroken future
+bhāvessatīti|0	sẽ tu tập	as bhāvessati
+bhāvessanti|0	sẽ tu tập	unbroken plain future (over «sẽ … tu tập», «vẫn sẽ tu tập»)
+sacchikarittha|0	đã tự mình chứng nghiệm	positive past form (= sacchākāsi)
+sacchikaritthāti|0	đã tự mình chứng nghiệm	as sacchikarittha
+sacchikarissati|0	sẽ tự mình chứng nghiệm	unbroken future
+sacchikarissatīti|0	sẽ tự mình chứng nghiệm	as sacchikarissati
+sacchikarissanti|0	sẽ tự mình chứng nghiệm	unbroken plain future (over «vẫn sẽ …», «sẽ … »)
+Pañcavokārānaṃ|0	chúng sinh trong cõi gồm năm khối	plane-being rule (genitive pl. being, head noun; map rule 3-02); «cõi gồm năm khối» is the position variant after Itaresaṃ or another plane-being
+Arūpānaṃ|0	chúng sinh trong cõi không hình sắc	plane-being rule; majority 102:3
+Rūpāvacarānaṃ|0	chúng sinh trong cõi hình sắc	plane-being rule; majority 90:4
+Kāmāvacarānaṃ|0	chúng sinh trong cõi dục lạc	plane-being rule; majority 40:14 (= Suddhāvāsānaṃ, āpāyikānaṃ «chúng sinh trong cõi …»)
+Itaresaṃ|0	người khác	standalone form (map rule 2-01 / 3-03; = Itarāsaṃ); «chúng sinh khác» only before a plane-being; majority 158:71
+upapajjitvā|0	sau khi tái sinh	absolutive keeps «sau khi» (pi-2 adhimuccitvā, pi-4 vihāya); «tái sinh» only after dassetvā (10-07); majority 85:4
+Cittasamaṅgīnaṃ|0	người có được tâm	person with head noun (= Pacchimacittasamaṅgīnaṃ «người có được tâm cuối cùng», Aggamaggasamaṅgī)
