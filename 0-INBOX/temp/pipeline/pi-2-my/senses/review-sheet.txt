@@ -1,0 +1,972 @@
+== Paṭicca | အကြောင်းတို့ကို မှီ၍=17 | မှီ၍=1
+   my1: [('dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition', ['အကြောင်းတို့ကို မှီ၍', 'အကြောင်းအကျိုး ဆက်စပ်'])]
+   mr : ['dependent, first member of paṭiccasamuppāda (heading member)', 'depending on, conditioned by, as in paṭicca uppajjati (absolutive)']
+   why: အကြောင်းတို့ကို မှီ၍ (17; 6 15 16 17) · မှီ၍ (1; 3) || «X paṭicca» «အကြောင်းတို့ကို မှီ၍» (pi-1) vs ch3 ^2-184 «cakkhuñca paṭicca rūpe ca» «မှီ၍». Text: the other value is not in that segment's Burmese
+== Hetu | အမြစ်=44 | အကြောင်းပြုခြင်း=4 | အကြောင်းရင်း=1
+   my1: [('roots, the wholesome and unwholesome root conditions (stem and heading)', ['အမြစ်'])]
+   mr : ['roots, the wholesome and unwholesome root conditions (stem and heading)', 'cause, in Hetuvāra of the analytical knowledges (heading member)']
+   why: အမြစ် (44; 1 2 3 4 5 9 10 11 13 18) · အကြောင်းပြုခြင်း (4; 6) · အကြောင်းရင်း (1; 15) || root «အမြစ်» vs cause: Hetucatukkaṃ (ch6) «အကြောင်းပြုခြင်း», Hetuvāro (ch15) «အကြောင်းရင်း». Sense
+== niddeso | အကျယ် ဖော်ပြချက်=33 | ဖွင့်ဆိုချက်=8
+   my1: [('detailed exposition, section heading (nominative)', ['အကျယ် ဖော်ပြချက်'])]
+   mr : ['detailed exposition, section heading (nominative)']
+   why: အကျယ် ဖော်ပြချက် (33; 6 16 17) · ဖွင့်ဆိုချက် (8; 7) || headings «အကျယ် ဖော်ပြချက်» (ch6, ch16, ch17) vs ch7 «ဖွင့်ဆိုချက်» (decision 4). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== vuccati rūpaṃ | ရုပ်ဟု ခေါ်သည်=1
+   my1: [("'is called matter', the closing formula", ['ရုပ်ပိုင်းဟု ခေါ်သည်'])]
+   mr : ["'is called matter', the closing formula"]
+== pātubhūtā | ထင်ရှားလာပြီးသော=4 | ထင်ရှားလာသော=2
+   my1: [('become manifest, appeared (nominative pl. participle)', ['ထင်ရှားလာပြီးသော', 'ထင်ရှား လာသော'])]
+   mr : ['become manifest, appeared (nominative pl. participle)']
+   why: ထင်ရှားလာပြီးသော (4; 1 15) · ထင်ရှားလာသော (2; 12) || = jātā. Grammar
+== abbhatthaṅgatā | လုံးဝ ကွယ်ပျောက်သွားသော=12 | လုံးဝ ကွယ်ပျောက်ပြီးသော=7
+   my1: [('completely gone down, vanished (nominative pl. participle)', ['လုံးဝ ကွယ်ပျောက်ပြီးသော'])]
+   mr : ['completely gone down, vanished (nominative pl. participle)']
+   why: လုံးဝ ကွယ်ပျောက်သွားသော (12; 12) · လုံးဝ ကွယ်ပျောက်ပြီးသော (7; 1 7) || ch7 ^2-362 «…ပြီး» vs ch12 ^2-538 «…သွား» for the same list (santā … byantīkatā). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== dukkhā | နာကျင်သော=13 | ဒုက္ခ=1 | ဆင်းရဲသော=1
+   mr : ['painful, of feeling (feminine adjective), also suffering, said of the five aggregates of clinging (nominative pl.)']
+   why: နာကျင်သော (13; 1 3 4 7) · ဆင်းရဲသော (1; 17) · ဒုက္ခ (1; 4) || feeling «နာကျင်သော» / «kāmā … dukkhā» «ဆင်းရဲသော» / «pañcupādānakkhandhā dukkhā» «ဒုက္ခ». Sense
+== Iddhi | ဣဒ္ဓိ=36 | တန်ခိုး=2
+   my1: [('spiritual power, success, in iddhipāda (compound member)', ['ဣဒ္ဓိ'])]
+   mr : ['spiritual power, success, in iddhipāda (compound member)']
+   why: ဣဒ္ဓိ (36; 9 17) · တန်ခိုး (2; 16 17) || iddhipāda «ဣဒ္ဓိ» vs iddhividha «တန်ခိုး». Sense
+== samāpannassa | ဈာန် ဝင်စားသော=15 | ဝင်စားသော=5
+   my1: [('of one who has entered a meditative attainment (genitive sg.)', ['ဈာန် ဝင်စားသော'])]
+   mr : ['of one who has entered a meditative attainment (genitive sg.)']
+   why: ဈာန် ဝင်စားသော (15; 1 16 18) · ဝင်စားသော (5; 12) || «ဈာန် ဝင်စားသော» (sample) vs ch12 ^2-602 «Rūpāvacarasamāpattiṃ samāpannassa» «ဝင်စားသော» (the object is the keyword samāpattiṃ). Grammar
+== ārūpāvacara | ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော=3 | ရုပ်မရှိသော ဘုံတို့နှင့် ဆိုင်သော=1
+   mr : ['belonging to the immaterial sphere, after rūpa in a compound (compound member)']
+   why: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော (3; 16) · ရုပ်မရှိသော ဘုံတို့နှင့် ဆိုင်သော (1; 12) || heading 2-12-2-7-0 «Rūpārūpāvacarakiriyā» «… ဘုံတို့နှင့် ဆိုင်သော» (decision 4) vs «…ဘုံနှင့် ဆိုင်သော». Text: the other value is not in that segment's Burmese
+== Upekkhā | ဥပေက္ခာ=136 | လျစ်လျူရှုဖွယ်=1
+   my1: [('equanimity, neutral feeling (nominative and stem)', ['ဥပေက္ခာ'])]
+   mr : ['equanimity, neutral feeling (nominative and stem)']
+   why: ဥပေက္ခာ (136; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17) · လျစ်လျူရှုဖွယ် (1; 17) || = domanassa («လျစ်လျူရှုဖွယ်»). Sense
+== Catukka | လေးမျိုးတွဲ=4
+   my1: [('the fourfold, heading member', ['ဈာန် လေးပါး'])]
+   mr : ['the fourfold, heading member']
+== Pañcaka | ငါးမျိုးတွဲ=4
+   my1: [('the fivefold, heading member', ['ဈာန် ငါးပါး'])]
+   mr : ['the fivefold, heading member']
+== Jāti | မွေးဖွားခြင်း=82 | ဇာတိ=2
+   my1: [('birth, being born (nominative sg.)', ['မွေးဖွားခြင်း'])]
+   mr : ["birth, being born (nominative sg. and stem, also jātimada 'pride of birth')"]
+   why: မွေးဖွားခြင်း (82; 4 6 16 17) · ဇာတိ (2; 17) || birth «မွေးဖွားခြင်း» vs jātimada / māna «ဇာတိ» (birth status). Sense
+== icchatā | လိုချင်မှု=3 | အလိုရှိခြင်း=3 | လိုချင်ခြင်း=2
+   mr : ['wishing, the state of desire (compound final)']
+   why: လိုချင်မှု (3; 17) · အလိုရှိခြင်း (3; 17) · လိုချင်ခြင်း (2; 17) || three headings: Mahicchatā «လိုချင်မှု», Pāpicchatā «အလိုရှိခြင်း», Atricchatā «လိုချင်ခြင်း» (decision 4: the heading's Burmese). Text: the other value is not in that segment's Burmese
+== māno | မာန=43 | ထင်မှတ်မှု=1
+   my1: [('conceit, measuring oneself against others (nominative sg.)', ['မာန'])]
+   mr : ['conceit, measuring oneself against others (nominative sg.)']
+   why: မာန (43; 16 17) · ထင်မှတ်မှု (1; 17) || «မာန» vs «omāno» «(ယုတ်ညံ့ဟု) ထင်မှတ်မှု». Text: the other value is not in that segment's Burmese
+== vibhava | ဘဝ ပျောက်ကွယ်သည်=4 | ဘဝ ပျောက်ကွယ်ခြင်း=3
+   my1: [('non-existence, annihilation, in vibhavataṇhā and vibhavadiṭṭhi (compound member)', ['ဘဝ ပြတ်စဲခြင်း', 'ဘဝ ပျောက်ကွယ်သည်'])]
+   mr : ['non-existence, annihilation, in vibhavataṇhā (compound member)']
+   why: ဘဝ ပျောက်ကွယ်သည် (4; 16 17) · ဘဝ ပျောက်ကွယ်ခြင်း (3; 4 17) || vibhavadiṭṭhi clause «ဘဝ ပျောက်ကွယ်သည်» (pi-1 rule 4) vs vibhavataṇhā «ဘဝ ပျောက်ကွယ်ခြင်း» (aligned ch4 = ch17). Grammar
+== uccheda | ပြတ်စဲသွားသည်=6 | ပြတ်သည်=1
+   my1: [('annihilation, cutting off, in ucchedadiṭṭhi (compound member)', ['သေပြီးနောက် ပြတ်စဲသွားသည်'])]
+   mr : ['annihilation, cutting off, in ucchedadiṭṭhi (compound member)']
+   why: ပြတ်စဲသွားသည် (6; 17) · ပြတ်သည် (1; 17) || ucchedadiṭṭhi «ပြတ်စဲသွားသည်» vs ucchedavādā «ပြတ်သည်(ဟု)». Text: the other value is not in that segment's Burmese
+== ucchedadiṭṭhi | အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ=6
+   my1: [('the annihilationist view, belief in destruction at death (nominative sg.)', ['အတ္တသည် သေပြီးနောက် ပြတ်စဲသွားသည်ဟူသော အယူ'])]
+   mr : ['the annihilationist view, belief in destruction at death (nominative sg.)']
+== Sassata | ထာဝရ တည်မြဲသည်=4 | မြဲသည်=1
+   my1: [('eternity, eternalist, in sassatadiṭṭhi (compound member)', ['ထာဝရ တည်မြဲသည်'])]
+   mr : ['eternity, eternalist, in sassatadiṭṭhi (compound member)']
+   why: ထာဝရ တည်မြဲသည် (4; 17) · မြဲသည် (1; 17) || sassatadiṭṭhi «ထာဝရ တည်မြဲသည်» (pi-1 rule 4) vs sassatavādā «မြဲသည်(ဟု)». Text: the other value is not in that segment's Burmese
+== ānudiṭṭhi | ပတ်သက်သော အယူ=3 | အဖန်ဖန် ရှုမြင်သော အယူ=2
+   mr : ['view about or regarding something, as in pubbantānudiṭṭhi and attānudiṭṭhi (compound final)']
+   why: ပတ်သက်သော အယူ (3; 17) · အဖန်ဖန် ရှုမြင်သော အယူ (2; 17) || pubbantānudiṭṭhi «ပတ်သက်သော အယူ» vs attānudiṭṭhi «အဖန်ဖန် ရှုမြင်သော အယူ» (the fragment takes its compound's verb). Text: the other value is not in that segment's Burmese
+== pāpa | ဆိုး=9 | ယုတ်မာသော=1
+   my1: [('bad, evil, in pāpamittatā (compound member)', ['ဆိုး'])]
+   mr : ['bad, evil, in pāpamittatā (compound member)']
+   why: ဆိုး (9; 17) · ယုတ်မာသော (1; 16) || pāpamitta «(မိတ်ဆွေ)ဆိုး» vs pāpāsaya «ယုတ်မာသော». Text: the other value is not in that segment's Burmese
+== vipatti | ပျက်စီးခြင်း=3 | ချို့ယွင်းမှု=1
+   my1: [('failure, falling short, in sīlavipatti and diṭṭhivipatti (compound final)', ['ပျက်စီးခြင်း'])]
+   mr : ['failure, falling short, in sīlavipatti and diṭṭhivipatti (compound final)']
+   why: ပျက်စီးခြင်း (3; 17) · ချို့ယွင်းမှု (1; 16) || sīlavipatti «ပျက်စီးခြင်း» vs jhāna vipatti «ချို့ယွင်းမှု». Sense
+== Ajjhatta | အတွင်းပိုင်း=3 | မိမိ၌=2
+   mr : ["internal, inward, one's own, as in ajjhattasaṃyojana and the jhāna gloss (compound member and quoted word)"]
+   why: အတွင်းပိုင်း (3; 17) · မိမိ၌ (2; 12 16) || ajjhattasaṃyojana «အတွင်းပိုင်း» (internal) vs the definition heading «Ajjhatta» «မိမိ၌». Sense
+== esanā | ရှာမှီးမှု=3 | ရှာမှီးခြင်း=1
+   mr : ['searches, quests for sense pleasure, existence or the holy life (nominative pl.)']
+   why: ရှာမှီးမှု (3; 17) · ရှာမှီးခြင်း (1; 17) || heading «ရှာမှီးမှု» vs the synonym list «ရှာမှီးခြင်း». Text: the other value is not in that segment's Burmese
+== adhamma | တရားနှင့် မညီသော=3 | မတရားသော=1
+   my1: [('unrighteous, improper, in adhammarāga (compound member)', ['မတရားသော'])]
+   mr : ['unrighteous, improper, in adhammacariyā and adhammarāga (compound member)']
+   why: တရားနှင့် မညီသော (3; 17) · မတရားသော (1; 17) || adhammacariyā «တရားနှင့် မညီသော» vs adhammarāgo «မတရားသော». Text: the other value is not in that segment's Burmese
+== nānatta | အမျိုးမျိုး ကွဲပြားမှု=4 | အမျိုးမျိုးသော=3
+   my1: [('diversity, variety, in nānattasaññā (compound member)', ['အမျိုးမျိုး ကွဲပြားမှု'])]
+   mr : ['diversity, variety, in nānattasaññā (compound member)']
+   why: အမျိုးမျိုး ကွဲပြားမှု (4; 12 16 17) · အမျိုးမျိုးသော (3; 17) || ch12 nānattasaññā «အမျိုးမျိုး ကွဲပြားမှု(ဟု)» vs ch17 heading «အမျိုးမျိုးသော မှတ်သိမှု». Text: the other value is not in that segment's Burmese
+== kamyatā | ထူလိုခြင်း=16 | လိုခြင်း=12 | လိုချင်ခြင်း=2
+   my1: [('wishing for, desire, compound final (as in sādhukamyatā and ketukamyatā)', ['လိုချင်ခြင်း', 'ထူလိုခြင်း', 'လိုလားခြင်း'])]
+   mr : ['wishing for, desire, also negated as in asotukamyatā (compound final)']
+   why: ထူလိုခြင်း (16; 17) · လိုခြင်း (12; 8 9 17) · လိုချင်ခြင်း (2; 17) || the fragment takes the verb of its compound: ketukamyatā «ထူလိုခြင်း», adassanakamyatā «…လိုခြင်း», sādhukamyatā «လိုချင်ခြင်း» (pi-1). Text: the other value is not in that segment's Burmese
+== uppādā | ဖြစ်ပေါ်ရာ=3
+   my1: [('arising, origination (nominative pl.)', ['ဖြစ်ပေါ်မှု'])]
+   mr : ['arising, origination (nominative pl.)']
+== ānantarikāni | ချက်ချင်း အကျိုးပေးသော=3
+   my1: [('with immediate result, bearing fruit in the very next life (nominative pl.)', ['နောက်ဘဝ၌ ချက်ချင်း အကျိုးပေးသော'])]
+   mr : ['with immediate result, bearing fruit in the very next life (nominative pl.)']
+== vivāda | အငြင်းပွားမှု=3 | အငြင်းပွားရာ=1 | အငြင်းပွားခြင်း=1
+   mr : ['dispute, quarrel (compound member)']
+   why: အငြင်းပွားမှု (3; 17) · အငြင်းပွားရာ (1; 17) · အငြင်းပွားခြင်း (1; 17) || vivādamūla «အငြင်းပွားမှု» / vivādaṭṭhāna «အငြင်းပွားရာ» / the list ^2-963 «အငြင်းပွားခြင်း». Text: the other value is not in that segment's Burmese
+== vatthūni | အကြောင်း=10 | အကြောင်းရင်း=6 | အခြေခံ=4
+   my1: [('bases, grounds, in kilesavatthūni (nominative pl.)', ['ဖြစ်ရာ အခြေခံ', 'အခြေခံ'])]
+   mr : ['bases, grounds, in kilesavatthūni (nominative pl.)']
+   why: အကြောင်း (10; 17) · အကြောင်းရင်း (6; 17) · အခြေခံ (4; 16) || virodhavatthūni «အကြောင်း» / kilesavatthūni «အကြောင်းရင်း» / ñāṇavatthūni «အခြေခံ». Text: the other value is not in that segment's Burmese
+== ānusayā | ကိန်းအောင်းခြင်း=3 | ကိန်းအောင်းခြင်း ရှိသော=1
+   mr : ['latent tendencies, dormant dispositions (nominative pl.)']
+   why: ကိန်းအောင်းခြင်း (3; 16 17) · ကိန်းအောင်းခြင်း ရှိသော (1; 16) || the noun «ကိန်းအောင်းခြင်း» vs pāpānusayā «… ကိန်းအောင်းခြင်း ရှိသော» (adjective). Grammar
+== kilesavatthūni | ကိလေသာ အကြောင်းရင်း=6 | ကိလေသာ အခြေခံ=2
+   mr : ['the grounds of mental defilement (nominative pl.)']
+   why: ကိလေသာ အကြောင်းရင်း (6; 17) · ကိလေသာ အခြေခံ (2; 16) || ch16 ^2-819 «ကိလေသာ အခြေခံ» vs ch17 «ကိလေသာ အကြောင်းရင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== paṭighāto | ပြန်လည် ရန်ငြိုးဖွဲ့ခြင်း=4 | ထိခိုက်မှု=3
+   my1: [('resentment, striking back (nominative sg.)', ['ပြန်လည် ရန်ငြိုးဖွဲ့ခြင်း'])]
+   mr : ['resentment, striking back (nominative sg.)']
+   why: ပြန်လည် ရန်ငြိုးဖွဲ့ခြင်း (4; 3 12 17) · ထိခိုက်မှု (3; 17) || byāpāda list «ပြန်လည် ရန်ငြိုးဖွဲ့ခြင်း» vs «lokadhammesu cittassa paṭighāto» «ထိခိုက်မှု». Sense
+== purisa | လူ=6 | ယောက်ျား=1
+   my1: [("man, in purisaliṅga 'feature of a man', also masculinity, in purisindriya (compound member)", ['ယောက်ျား'])]
+   mr : ['person, individual, as in purisadosā (compound member)', 'man, male, in the masculinity faculty gloss (compound member)']
+   why: လူ (6; 17) · ယောက်ျား (1; 5) || purisadosā «လူ» vs purisindriya «ယောက်ျား». Sense
+== nevasaññīnāsaññī | မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော=6 | မှတ်သိမှု ရှိသူလည်း မဟုတ် မှတ်သိမှု မရှိသူလည်း မဟုတ်သော=1
+   mr : ['neither percipient nor non-percipient (nominative sg.)']
+   why: မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော (6; 17) · မှတ်သိမှု ရှိသူလည်း မဟုတ် မှတ်သိမှု မရှိသူလည်း မဟုတ်သော (1; 12) || ch17 view formulas «မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော» vs ch12 ^2-619 «မှတ်သိမှု ရှိသူလည်း မဟုတ်၊ မှတ်သိမှု မရှိသူလည်း မဟုတ်». Text: the other value is not in that segment's Burmese
+== vatthukā | အကြောင်းအရာ … ရှိသော=4 | မှီရာ ရှိသော=1
+   mr : ['having a basis or ground, as in dasavatthukā (compound final)']
+   why: အကြောင်းအရာ … ရှိသော (4; 17) · မှီရာ ရှိသော (1; 16) || dasavatthukā «အကြောင်းအရာ … ရှိသော» vs uppannavatthukā «မှီရာ ရှိသော» (physical base). Sense
+== hadaya | နှလုံးသား=2
+   my1: [('heart, in hadayaṅgamā (compound member)', ['နှလုံး'])]
+   mr : ['heart, in hadayaṅgamā (compound member)']
+== Rūpadhātu | အဆင်းအရောင် ဓာတ်=13 | သိမ်မွေ့သော ရုပ်ဘုံ=5
+   my1: [('the visible-form element, the object of the eye (nominative sg.)', ['အဆင်းအရောင် ဓာတ်'])]
+   mr : ['the visible-form element, the object of the eye (nominative sg.)', 'the fine-material realm of existence (nominative sg.)']
+   why: အဆင်းအရောင် ဓာတ် (13; 2 3 18) · သိမ်မွေ့သော ရုပ်ဘုံ (5; 18) || element of the visible «အဆင်းအရောင် ဓာတ်» vs the plane «သိမ်မွေ့သော ရုပ်ဘုံ» (ch18). Sense
+== sattā | သတ္တဝါ=14 | သတ်=1
+   my1: [('beings, living creatures (nominative pl.)', ['သတ္တဝါ'])]
+   mr : ['beings, living creatures (nominative pl.)']
+   why: သတ္တဝါ (14; 16 17 18) · သတ် (1; 18) || beings «သတ္တဝါ» vs the loan asaññasattā «(အသည)သတ်». Sense
+== antara | အသီးသီး=1
+   my1: [('intermediate, in-between (heading member)', ['ကြားညှပ်'])]
+   mr : ['intermediate, in-between (heading member)']
+== āyu | သက်တမ်း=10 | အသက်=1
+   my1: [('life span, vital duration (nominative sg.)', ['သက်တမ်း'])]
+   mr : ['life span, vital duration (nominative sg.)']
+   why: သက်တမ်း (10; 5 18) · အသက် (1; 16) || «သက်တမ်း» vs ^2-829 «evamāyupariyanto» «အသက်». Text: the other value is not in that segment's Burmese
+== anāsavaṃ | စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော=3 | စိတ်အစွန်းအထင်း မရှိသော=1
+   mr : ['not an object of the taints, or free of taints, in the taint classification (neuter sg.)']
+   why: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော (3; 1) · စိတ်အစွန်းအထင်း မရှိသော (1; 16) || Mātikā anāsava «… အာရုံ မဖြစ်နိုင်သော» (sample) vs «anāsavaṃ cetovimuttiṃ» «စိတ်အစွန်းအထင်း မရှိသော» (ch16). Sense
+== hetukaṃ | အကြောင်းပြုသော=8 | အမြစ်=4
+   my1: [('having roots, rooted, in pahātabbahetukaṃ (compound final)', ['အမြစ်'])]
+   mr : ['having roots, rooted, in pahātabbahetukaṃ (compound final)']
+   why: အကြောင်းပြုသော (8; 6) · အမြစ် (4; 1 2 4 5) || «ahetukaṃ» root «အမြစ်» vs «cittahetukaṃ» «အကြောင်းပြုသော» (cause). Sense
+== sutaṃ | ကြားရသော=1 | အကြားအမြင်=1
+   my1: [('heard, what is heard (neuter sg. participle)', ['ကြားရသော'])]
+   mr : ['heard, what is heard (neuter sg. participle)']
+   why: ကြားရသော (1; 1) · အကြားအမြင် (1; 17) || «diṭṭhaṃ sutaṃ» «ကြားရသော» (sample) vs sutamada «အကြားအမြင်». Sense
+== gāmī | ဦးတည်သော=2 | ရောက်စေသော=1
+   mr : ['leading to, going toward, in ācayagāmi and dukkhanirodhagāminī (compound final)']
+   why: ဦးတည်သော (2; 1) · ရောက်စေသော (1; 16) || ācayagāmī «ဦးတည်သော» vs nirayagāmī «ရောက်စေသော». Text: the other value is not in that segment's Burmese
+== uppanno | ဖြစ်ပေါ်ပြီးသော=9 | ဖြစ်ပေါ်သော=1
+   my1: [('come into being (masculine sg. participle)', ['ဖြစ်ပေါ်သော'])]
+   mr : ['come into being (masculine sg. participle)']
+   why: ဖြစ်ပေါ်ပြီးသော (9; 1) · ဖြစ်ပေါ်သော (1; 17) || Mātikā «ဖြစ်ပေါ်ပြီးသော» (sample) vs «uppanno hoti ābādho» «ဖြစ်ပေါ်(၏)». Grammar
+== asekkho | ကျင့်ကြံမှု ပြီးဆုံးသူ၏=9 | ကျင့်ကြံမှု ပြီးဆုံးသူ=1
+   mr : ['belonging to the one beyond training, in nevasekkhanāsekkho (masculine sg.)']
+   why: ကျင့်ကြံမှု ပြီးဆုံးသူ၏ (9; 1) · ကျင့်ကြံမှု ပြီးဆုံးသူ (1; 12) || approved Mātikā genitive «ကျင့်ကြံမှု ပြီးဆုံးသူ၏» vs ch12 ^2-510 «asekkho bhikkhu» «… ပြီးဆုံးသူ ရဟန်း» (no ၏ in the text; the approved person term kept). Grammar
+== sekkho | ကျင့်ကြံဆဲသူ၏=9 | ကျင့်ကြံဆဲသူ=1
+   mr : ['belonging to the learner in training (masculine sg.)']
+   why: ကျင့်ကြံဆဲသူ၏ (9; 1) · ကျင့်ကြံဆဲသူ (1; 12) || = asekkho. Grammar
+== hīno | ယုတ်ညံ့သော=9 | ယုတ်ညံ့သူ=3
+   my1: [("inferior, lower than others, in 'I am inferior' (masculine nominative sg.)", ['ယုတ်ညံ့သူ'])]
+   mr : ["inferior, lower than others, in 'I am inferior' (masculine nominative sg.)"]
+   why: ယုတ်ညံ့သော (9; 1) · ယုတ်ညံ့သူ (3; 17) || approved: quality of a feeling «ယုတ်ညံ့သော» vs the inferior person of the māna formulas «ယုတ်ညံ့သူ» (pi-1, rule P). Sense
+== paccayā | ကြောင့်=121 | အကြောင်းပြု၍=4
+   my1: [('with X as condition, in the dependent origination formula', ['ကြောင့်'])]
+   mr : ['with X as condition, in the dependent origination formula']
+   why: ကြောင့် (121; 6 16) · အကြောင်းပြု၍ (4; 1) || approved split: the chain «ကြောင့်» vs «X-samphassapaccayā» «အကြောင်းပြု၍» (sample). Sense
+== yoga | ထမ်းပိုး=6 | ပညာရှိ=1
+   my1: [('the yokes, bonds (heading member)', ['ထမ်းပိုး'])]
+   mr : ['the yokes, bonds (compound member)', 'security from bondage, in ayogakkhema (compound member)', "skill, application, in yogavihita 'made with skill' (compound member)"]
+   why: ထမ်းပိုး (6; 1) · (no direct equivalent) (1; 12) · ပညာရှိ (1; 16) || yoga «ထမ်းပိုး» vs yogakkhema «ဘေးကင်းမှု» one word: (no direct equivalent) vs yogavihita «ပညာရှိ». Rule / Sense
+== na | မ=21 | မဟုတ်=1
+   my1: [('not, negative particle (indeclinable)', ['မ'])]
+   mr : ['not, negative particle (indeclinable)']
+   why: မ (21; 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16) · မဟုတ် (1; 4) || the prefix «မ» vs ch4 ^2-201 «na … pattabbaṃ» the clause negative «… မဟုတ်» (pi-1 rule 5). Grammar
+== vipākadhammadhammā | အကျိုး ပေးတတ်သော သဘောတရား=15 | အကျိုး ပေးတတ်သော=2
+   my1: [('phenomena that have the nature of producing results (nominative pl.)', ['အကျိုး ပေးတတ်သော သဘောတရား'])]
+   mr : ['phenomena that have the nature of producing results (nominative pl.)']
+   why: အကျိုး ပေးတတ်သော သဘောတရား (15; 1 2 3 4 5 7 8 9 10 11 12 13 14 15 18) · အကျိုး ပေးတတ်သော (2; 16) || sample N6: head paññā («အကျိုး ပေးတတ်သော» ch16) vs the plural of the pañhāpucchaka «… သဘောတရား». Rule
+== Kāyo | ကိုယ်=9 | စိတ်၏ အဖော်တို့=1
+   my1: [('the physical body, or bodily (nominative sg.)', ['ကိုယ်'])]
+   mr : ['the physical body, or bodily (nominative sg.)']
+   why: ကိုယ် (9; 2 3 4 5 7 12 17) · စိတ်၏ အဖော်တို့ (1; 12) || = kāyena (ch12 ^2-587 «katamo kāyo? saññākkhandho …»). Sense
+== Sotaṃ | နား=5 | ရေစီးကြောင်း=1
+   my1: [('the ear, the hearing organ (accusative sg.)', ['နား'])]
+   mr : ['the ear, the hearing organ (nominative/accusative sg.)', 'stream, current, an epithet of craving (nominative sg.)']
+   why: နား (5; 2 3 4) · ရေစီးကြောင်း (1; 17) || the ear «နား» vs taṇhā «sotaṃ» «ရေစီးကြောင်း» (stream). Sense
+== dukkhaṃ | နာကျင်မှု=17 | ဒုက္ခ=15 | နာကျင်သော=1
+   my1: [('pain, suffering (nominative/accusative sg.)', ['နာကျင်မှု'])]
+   mr : ['pain, suffering (nominative/accusative sg.)']
+   why: နာကျင်မှု (17; 3 4 5 6 7 12 15 17) · ဒုက္ခ (15; 2 4 16) · နာကျင်သော (1; 7) || feeling «နာကျင်မှု» / truth «ဒုက္ခ» / «dukkhaṃ vedanaṃ» attributive «နာကျင်သော». Sense / Grammar
+== pasādo | ကြည်ညိုမှု=30 | အာရုံခံ ကြည်လင်မှု=7
+   my1: [('sensitivity, the sensitive matter of a sense organ (nominative sg.)', ['အာရုံခံ ကြည်လင်မှု'])]
+   mr : ['confidence, serene trust, in the faith-based chain of conditions (nominative sg.)', 'sensitivity, the sensitive matter of a sense organ (nominative sg.)']
+   why: ကြည်ညိုမှု (30; 6) · အာရုံခံ ကြည်လင်မှု (7; 2 3 5) || faith «ကြည်ညိုမှု» (ch6) vs the sense sensitivity «အာရုံခံ ကြည်လင်မှု». Sense
+== taca | အခေါက်=3 | အရေ=2
+   my1: [('bark of a tree (compound member)', ['အခေါက်'])]
+   mr : ['bark of a tree (compound member)']
+   why: အခေါက် (3; 2 3) · အရေ (2; 4 6) || bark «အခေါက်» (tacagandha) vs skin «အရေ» (valittacatā). Sense
+== patta | သပိတ်=4 | အရွက်=3 | သစ်ရွက်=1
+   my1: [('leaf, foliage (compound member)', ['အရွက်'])]
+   mr : ['leaf, foliage, in pattagandha and pattarasa (compound member)', 'the alms bowl, in pattacīvara and pattamaṇḍanā (compound member)']
+   why: သပိတ် (4; 12 17) · အရွက် (3; 2 3) · သစ်ရွက် (1; 12) || bowl «သပိတ်» / leaf «အရွက်» (pattagandha) / «pattadāna» «သစ်ရွက်». Sense
+== mūla | အမြစ်=26 | ရင်း=1
+   my1: [('root of a plant (compound member)', ['အမြစ်'])]
+   mr : ['root condition, root of a plant, as in kusalamūla (compound member)', 'foot of a tree, in rukkhamūla (compound member)']
+   why: အမြစ် (26; 2 3 6) · ရင်း (1; 12) || root «အမြစ်» vs rukkhamūla «(သစ်ပင်)ရင်း». Sense
+== kasāvo | အမည်းအစက်=2 | အဖန်=1
+   my1: [('astringent in taste (nominative sg.)', ['အဖန်'])]
+   mr : ['stain, corruption, in rāgakasāvo and the three stains (nominative sg.)', 'astringent in taste (nominative sg.)']
+   why: အမည်းအစက် (2; 17) · အဖန် (1; 2) || «rāgakasāvo» «အမည်းအစက်» (stain) vs the taste «အဖန်». Sense
+== raso | အရသာ=2 | အရည်=1
+   my1: [('taste, flavour as object (nominative sg.)', ['အရသာ'])]
+   mr : ['taste, flavour as object (nominative sg.)', 'juice, sap, in mūlaraso and similar (compound final)']
+   why: အရသာ (2; 2 3) · အရည် (1; 3) || rasāyatana «အရသာ» vs mūlaraso (sap) «အရည်». Sense
+== parittā | အကန့်အသတ် ရှိသော=9 | အားနည်းသော=1
+   my1: [('limited, small in scope (nominative pl.)', ['အကန့်အသတ် ရှိသော'])]
+   mr : ['limited, small in scope (nominative pl.)', 'gentle, mild, of winds (nominative pl.)']
+   why: အကန့်အသတ် ရှိသော (9; 2 3 5 14 15 16) · အားနည်းသော (1; 3) || «အကန့်အသတ် ရှိသော» vs «parittā vātā» «အားနည်းသော». Sense
+== āvacarā | ဘုံနှင့် ဆိုင်သော=19 | ကျင်လည်သော=1
+   mr : ['belonging to a sphere, compound final (nominative pl.)']
+   why: ဘုံနှင့် ဆိုင်သော (19; 2 3 5 6 7 8 9 10 11 12 13 14 15 16 18) · ကျင်လည်သော (1; 3) || «ဘုံနှင့် ဆိုင်သော» vs «etthāvacarā» «(ဤကြား၌) ကျင်လည်သော». Sense
+== hadayaṃ | နှလုံးသား=3 | နှလုံး=2
+   my1: [('heart, as a synonym of mind (neuter sg.)', ['နှလုံးသား'])]
+   mr : ['heart, as a synonym of mind (neuter sg.)']
+   why: နှလုံးသား (3; 3 6 13) · နှလုံး (2; 3 7) || mind synonym «နှလုံးသား» vs the body part «နှလုံး». Sense
+== pihakaṃ | သရက်ရွက်=1 | အဖျဉ်း=1
+   mr : ['spleen (nominative sg.)']
+   why: သရက်ရွက် (1; 3) · အဖျဉ်း (1; 7) || the same body-part list: ch3 ^2-173 «သရက်ရွက်» vs ch7 ^2-356 «အဖျဉ်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== pīta | သောက်ထားသော=2
+   my1: [('yellow, the yellow meditation device (compound member)', ['အဝါ'])]
+   mr : ['yellow, the yellow meditation device (compound member)']
+== gamā | တက်သော=1
+   my1: [("going to, reaching, in hadayaṅgamā 'touching the heart' (compound final)", ['ရောက်သော'])]
+   mr : ["going to, reaching, in hadayaṅgamā 'touching the heart' (compound final)"]
+== mukha | ခံတွင်း=1 | နှုတ်ခမ်းအထက်=1
+   my1: [('the mouth, through which food is eaten (compound member)', ['ခံတွင်း'])]
+   mr : ['mouth, in mukhadvāra (compound member)', "the face area, in parimukhaṃ 'in front' (compound member)"]
+   why: နှုတ်ခမ်းအထက် (1; 12) · ခံတွင်း (1; 3) || parimukhaṃ «နှုတ်ခမ်းအထက်» vs mukhadvāra «ခံတွင်း». Sense
+== santiṭṭhati | တည်နေသည်=1 | တည်တံ့သည်=1
+   mr : ['stays, stands firm, remains (3rd sg. present)']
+   why: တည်တံ့သည် (1; 16) · တည်နေသည် (1; 3) || «sati santiṭṭhati» «တည်တံ့» vs the food «santiṭṭhati» «တည်နေ». Text: the other value is not in that segment's Burmese
+== somanassa | ဝမ်းမြောက်မှု=28 | ဝမ်းမြောက်ဖွယ်=1
+   my1: [('joy, mental pleasure (compound member)', ['ဝမ်းမြောက်မှု'])]
+   mr : ['joy, mental pleasure (compound member)']
+   why: ဝမ်းမြောက်မှု (28; 3 4 6 14 15) · ဝမ်းမြောက်ဖွယ် (1; 17) || = domanassa («ဝမ်းမြောက်ဖွယ်»). Sense
+== domanassa | စိတ်ဆင်းရဲမှု=4 | စိတ်ဆင်းရဲဖွယ်=1
+   my1: [('sadness, mental displeasure (compound member)', ['စိတ်ဆင်းရဲမှု', 'စိတ်ဆင်းရဲခြင်း'])]
+   mr : ['sadness, mental displeasure (compound member)']
+   why: စိတ်ဆင်းရဲမှု (4; 3 6 15) · စိတ်ဆင်းရဲဖွယ် (1; 17) || «စိတ်ဆင်းရဲမှု» vs domanassaṭṭhāniya «စိတ်ဆင်းရဲဖွယ်». Sense
+== adukkhamasukhaṃ | မနာကျင် မသာယာသော=19 | မနာကျင် မသာယာမှု=1
+   my1: [('neither painful nor pleasant (neuter sg.)', ['မနာကျင် မသာယာသော'])]
+   mr : ['neither painful nor pleasant (neuter sg.)']
+   why: မနာကျင် မသာယာသော (19; 3 4 5 6 7 11 12 17) · မနာကျင် မသာယာမှု (1; 17) || attributive / jhāna formula «…သော» vs ch17 ^2-923 the felt object «…မှုကို». Grammar
+== sukhaṃ | သာယာမှု=45 | သာယာသော=1 | ချမ်းသာ=1
+   my1: [('pleasure, happiness, or pleasant (neuter sg.)', ['သာယာမှု'])]
+   mr : ['pleasure, happiness, or pleasant (neuter sg.)']
+   why: သာယာမှု (45; 3 4 5 6 11 12 13 15 17) · ချမ်းသာ (1; 17) · သာယာသော (1; 7) || feeling «သာယာမှု» / seyyasukha «ချမ်းသာ» / «sukhaṃ vedanaṃ» «သာယာသော». Sense / Grammar
+== mūlaṃ | အမြစ်=31 | ရင်း=2
+   my1: [('root, as in kusalamūla (nominative sg.)', ['အမြစ်'])]
+   mr : ['root condition, root of a plant, as in akusalamūlaṃ (nominative sg.)', 'foot of a tree, in rukkhamūlaṃ (nominative sg.)']
+   why: အမြစ် (31; 3 6 17) · ရင်း (2; 12) || = mūla. Sense
+== doso | ဒေါသ=16 | အပြစ်=1
+   my1: [('hatred, hostility (nominative sg.)', ['ဒေါသ'])]
+   mr : ['hatred, hostility (nominative sg.)', "fault, danger, in natthi kāmesu doso 'there is no fault in sense pleasures' (nominative sg.)"]
+   why: ဒေါသ (16; 3 8 12 16 17 18) · အပြစ် (1; 17) || «ဒေါသ» vs «natthi kāmesu doso» «အပြစ်» (fault). Sense
+== pariyantaṃ | အဆုံး=1 | ဝန်းရံထားသော=1 | အဆုံးအစွန်=1
+   my1: [('boundary, the lower limit (accusative sg.)', ['အဆုံးအစွန်'])]
+   mr : ['limit, the lower boundary, in avīcinirayaṃ pariyantaṃ karitvā (accusative sg.)', "bounded by, enclosed within, in tacapariyantaṃ 'enclosed by the skin' (compound final)"]
+   why: အဆုံးအစွန် (1; 18) · အဆုံး (1; 3) · ဝန်းရံထားသော (1; 7) || «avīcinirayaṃ pariyantaṃ karitvā» ch3 «အဆုံး» vs ch18 «အဆုံးအစွန်»; tacapariyantaṃ «ဝန်းရံထားသော». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== paṭivirodho | ပြန်လည် ဆန့်ကျင်ခြင်း=4 | ဆန့်ကျင်ခြင်း=1
+   my1: [('antagonism, opposition (nominative sg.)', ['ပြန်လည် ဆန့်ကျင်ခြင်း'])]
+   mr : ['antagonism, opposition (nominative sg.)']
+   why: ပြန်လည် ဆန့်ကျင်ခြင်း (4; 3 12 17) · ဆန့်ကျင်ခြင်း (1; 17) || byāpāda list «ပြန်လည် ဆန့်ကျင်ခြင်း» vs «alābhe paṭivirodho» «ဆန့်ကျင်ခြင်း». Text: the other value is not in that segment's Burmese
+== uparito | အထက်ဘက်=1 | အထက်၌=1
+   mr : ['above, on the upper side (adverb)']
+   why: အထက်၌ (1; 18) · အထက်ဘက် (1; 3) || same passage ch3 ^2-182 «အထက်ဘက်» vs ch18 ^2-1020 «အထက်၌». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== byāpajjanā | ဖောက်ပြန်နေခြင်း=4
+   my1: [('bearing malice, being malicious (nominative sg.)', ['ညှဉ်းဆဲလိုခြင်း'])]
+   mr : ['bearing malice, being malicious (nominative sg.)']
+== uppajjati | ဖြစ်ပေါ်သည်=30 | ဖြစ်ပေါ်လာသည်=1
+   my1: [('arises, comes into being (3rd sg. present)', ['ဖြစ်ပေါ်သည်'])]
+   mr : ['arises, comes into being, of states and views (3rd sg. present)', 'is born, is reborn, said of beings (3rd sg. present)']
+   why: ဖြစ်ပေါ်သည် (30; 3 4 10 12 15 16 17) · ဖြစ်ပေါ်လာသည် (1; 17) || «ဖြစ်ပေါ်» vs ^2-899 «yā uppajjati diṭṭhi» «ဖြစ်ပေါ်လာ(သော)». Text: the other value is not in that segment's Burmese
+== samannāhāro | နှလုံးသွင်းခြင်း=1 | အာရုံသို့ စိတ်ညွတ်ခြင်း=1 | စိတ်ကို ဆောင်ခြင်း=1
+   mr : ['adverting, bringing to mind, turning the mind towards (nominative sg.)']
+   why: အာရုံသို့ စိတ်ညွတ်ခြင်း (1; 16) · စိတ်ကို ဆောင်ခြင်း (1; 17) · နှလုံးသွင်းခြင်း (1; 3) || ch16 ^2-766 «အာရုံသို့ စိတ်ညွတ်ခြင်း» / ch17 ^2-936 «စိတ်ကို ဆောင်ခြင်း» / ch3 ^2-184 «နှလုံးသွင်းခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== samanantarā | ချက်ချင်း နောက်၌=3 | အခြားမဲ့=1
+   mr : ['right after, immediately following (adverb)']
+   why: ချက်ချင်း နောက်၌ (3; 16) · အခြားမဲ့ (1; 3) || «ချက်ချင်း နောက်၌» vs «niruddhasamanantarā» «အခြားမဲ့». Text: the other value is not in that segment's Burmese
+== Soḷasa | ဆယ့်ခြောက်ပါး=10 | တစ်ထောင့်ခြောက်ရာ=1 | ဆယ့်ခြောက်=1 | တစ်သောင်းခြောက်ထောင်=1
+   mr : ['the number sixteen (numeral)']
+   why: ဆယ့်ခြောက်ပါး (10; 3 17 18) · တစ်ထောင့်ခြောက်ရာ (1; 18) · ဆယ့်ခြောက် (1; 18) · တစ်သောင်းခြောက်ထောင် (1; 18) || «ဆယ့်ခြောက်ပါး» / «soḷasa kappā» «ဆယ့်ခြောက်ကမ္ဘာ» / «soḷasa vassasatāni» «တစ်ထောင့်ခြောက်ရာ» / «soḷasa kappasahassāni» «တစ်သောင်းခြောက်ထောင်» (the Burmese numeral fuses the multiplier). Rule
+== Dvādasa | ဆယ့်နှစ်ပါး=1 | ဆယ့်နှစ်=1
+   my1: [('the number twelve (numeral)', ['ဆယ့်နှစ်ပါး'])]
+   mr : ['the number twelve (numeral)']
+   why: ဆယ့်နှစ် (1; 18) · ဆယ့်နှစ်ပါး (1; 3) || «ဆယ့်နှစ်ပါး» vs «dvādasamāsiyo» «ဆယ့်နှစ်လ» (the month is the classifier). Rule
+== paṭilābho | ထပ်မံ ရခြင်း=8 | ပြန်လည် ရခြင်း=8 | ရရှိခြင်း=2
+   mr : ['obtaining, acquisition, gaining (nominative sg.)']
+   why: ပြန်လည် ရခြင်း (8; 12) · ထပ်မံ ရခြင်း (8; 9) · ရရှိခြင်း (2; 4 6) || attainment list ch9 ^2-434 «ထပ်မံ ရခြင်း» vs ch12 ^2-570 «ပြန်လည် ရခြင်း»; ch4/6 «āyatanānaṃ paṭilābho» «ရရှိခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== cuti | စုတေခြင်း=2
+   my1: [('passing away, death, in cutūpapātañāṇa (compound member)', ['သေခြင်း'])]
+   mr : ['passing away, death, in cutūpapātañāṇa (compound member)']
+== bhoga | စည်းစိမ်=6 | စည်းစိမ်ဥစ္စာ=2
+   mr : ['wealth, possessions (compound member)']
+   why: စည်းစိမ် (6; 4 6) · စည်းစိမ်ဥစ္စာ (2; 17) || bhogabyasana «စည်းစိမ်» vs bhogamado «စည်းစိမ်ဥစ္စာ». Text: the other value is not in that segment's Burmese
+== ahita | အစီးအပွား မရှိခြင်း=1 | စီးပွား မဖြစ်ခြင်း=1
+   mr : ['harm, what is not beneficial, in ahitakāmā (compound member)']
+   why: စီးပွား မဖြစ်ခြင်း (1; 12) · အစီးအပွား မရှိခြင်း (1; 4) || ahitakāmā: ch4 ^2-199 «အစီးအပွား မရှိခြင်း» vs ch12 ^2-514 «စီးပွား မဖြစ်ခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== manāpā | စိတ်နှင့် တွေ့သော=1
+   my1: [('pleasing, delightful to the mind (feminine sg.)', ['စိတ်တွေ့သော'])]
+   mr : ['pleasing, delightful to the mind (feminine sg.)']
+== kantā | ချစ်ခင်ဖွယ်ကောင်းသော=1
+   my1: [('liked, agreeable speech (feminine sg.)', ['နှစ်သက်သော'])]
+   mr : ['liked, agreeable speech (feminine sg.)']
+== pitā | အဖ=3 | ဖခင်=1
+   my1: [("father, in 'there is no father' (nominative sg.)", ['အဖ'])]
+   mr : ["father, in 'there is no father' (nominative sg.)"]
+   why: အဖ (3; 16 17) · ဖခင် (1; 4) || ch4 ^2-200 «ဖခင်» vs ch16/17 «အဖ». Text: the other value is not in that segment's Burmese
+== mātā | အမိ=4 | မိခင်=1
+   my1: [("mother, in 'there is no mother' (nominative sg.)", ['အမိ'])]
+   mr : ["mother, in 'there is no mother' (nominative sg.)"]
+   why: အမိ (4; 16 17) · မိခင် (1; 4) || ch4 ^2-200 «မိခင်» vs ch16/17 «အမိ». Text: the other value is not in that segment's Burmese
+== icchā | အလိုရှိခြင်း=5 | အလိုဆန္ဒ=5 | ဆန္ဒ=1
+   my1: [('wish, desire (nominative sg.)', ['အလိုရှိခြင်း'])]
+   mr : ['wish, desire (nominative sg.)']
+   why: အလိုရှိခြင်း (5; 17) · အလိုဆန္ဒ (5; 17) · ဆန္ဒ (1; 4) || «icchā icchāgatā» «အလိုရှိခြင်း» / icchāpakata «အလိုဆန္ဒ» / ch4 «evaṃ icchā uppajjati» «ဆန္ဒ». Text: the other value is not in that segment's Burmese
+== sañcetanā | စေ့ဆော်ခြင်း=43 | စေ့ဆော်မှု=2
+   my1: [('intending, act of volition (nominative sg.)', ['စေ့ဆော်ခြင်း'])]
+   mr : ['intending, act of volition (nominative sg.)']
+   why: စေ့ဆော်ခြင်း (43; 6 14 17) · စေ့ဆော်မှု (2; 4) || the cetanā synonyms «စေ့ဆော်ခြင်း» vs ch4 rūpasañcetanā «စေ့ဆော်မှု». Text: the other value is not in that segment's Burmese
+== piyarūpaṃ | ချစ်ဖွယ် သဘော ရှိသော=2 | ချစ်ဖွယ် သဘော=1
+   mr : ['what is dear, of a lovely nature (neuter sg.)']
+   why: ချစ်ဖွယ် သဘော ရှိသော (2; 4) · ချစ်ဖွယ် သဘော (1; 16) || ch4 «ချစ်ဖွယ် သဘော ရှိသော» vs ch16 ^2-816 «ချစ်ဖွယ် သဘော၊ နှစ်သက်ဖွယ် သဘော ရှိသော» (one «ရှိသော» for both). Text shape
+== sātarūpaṃ | နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော=2 | နှစ်သက်ဖွယ် သဘော=1
+   mr : ['what is pleasing, of an agreeable nature (neuter sg.)']
+   why: နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော (2; 4) · နှစ်သက်ဖွယ် သဘော (1; 16) || = piyarūpaṃ; ch4 «နှစ်သက်ဖွယ်ကောင်းသော» vs ch16 «နှစ်သက်ဖွယ်». Text: the other value is not in that segment's Burmese
+== virāga | ကင်းပြတ်=2 | ပြယ်ပျောက်ခြင်း=2
+   mr : ['dispassion, fading away of desire, in virāganissita and asesavirāganirodha (compound member)']
+   why: ပြယ်ပျောက်ခြင်း (2; 10 11) · ကင်းပြတ် (2; 4 16) || virāganissita «ပြယ်ပျောက်ခြင်း» vs virāgadhamma «ကင်းပြတ်(တတ်သော)». Text: the other value is not in that segment's Burmese
+== nirujjhati | ချုပ်ငြိမ်းသည်=1 | ချုပ်ပျောက်သည်=1
+   mr : ['ceases, comes to an end (3rd sg. present)']
+   why: ချုပ်ပျောက်သည် (1; 12) · ချုပ်ငြိမ်းသည် (1; 4) || ch12 «ချုပ်ပျောက်» vs ch4 «ချုပ်ငြိမ်း». Text: the other value is not in that segment's Burmese
+== ātāpī | ထက်သန်သော လုံ့လ ရှိသော=11 | အားထုတ်သော=1
+   mr : ['ardent, energetic in practice (masculine sg.)']
+   why: ထက်သန်သော လုံ့လ ရှိသော (11; 7 11) · အားထုတ်သော (1; 4) || ch7/11 «ထက်သန်သော လုံ့လ ရှိသော» vs ch4 ^2-205 «အားထုတ်သော». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== ārabhati | စတင်သည်=21 | အားထုတ်သည်=1
+   my1: [('arouses, puts forth energy (3rd sg. present)', ['စတင်သည်'])]
+   mr : ['arouses, puts forth energy (3rd sg. present)']
+   why: စတင်သည် (21; 4 8 9 11) · အားထုတ်သည် (1; 17) || = vīriyaṃ ārabhati. Text: the other value is not in that segment's Burmese
+== vineyya | ပယ်ဖျောက်၍=11 | ပယ်ဖျောက်လျက်=1
+   mr : ['having put away, having removed covetousness (absolutive)']
+   why: ပယ်ဖျောက်၍ (11; 7 11) · ပယ်ဖျောက်လျက် (1; 4) || «ပယ်ဖျောက်၍» vs ch4 ^2-205 «ပယ်ဖျောက်လျက်» (no ၍ in the text). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== chandaṃ | ဆန္ဒ=23 | လိုလားမှု=1
+   my1: [('desire, the wish to act (accusative sg.)', ['ဆန္ဒ'])]
+   mr : ['desire, the wish to act (accusative sg.)']
+   why: ဆန္ဒ (23; 4 8 9 11 17) · လိုလားမှု (1; 7) || = chanda («chandaṃ janeti» vs kāmacchandaṃ ^2-367). Sense
+== kāyānupassī viharati | ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်=8 | ကိုယ်ကို အဖန်ဖန် ရှုလျက် … နေသည်=1
+   mr : ["'dwells contemplating the body', the mindfulness formula (phrase)"]
+   why: ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည် (8; 7 11) · ကိုယ်ကို အဖန်ဖန် ရှုလျက် … နေသည် (1; 4) || ch7/11 «… ရှုသူ ဖြစ်လျက် နေ» vs ch4 ^2-205 «… ရှုလျက်၊ … နေ». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step) (ch4 satipaṭṭhāna formula)
+== aṭṭhaṅgiko maggo | အင်္ဂါ ရှစ်ပါး ရှိသော မဂ်=10 | အင်္ဂါ ရှစ်ပါး ရှိသော … မဂ်=5
+   mr : ['the path with eight factors, the eightfold path (phrase)']
+   why: အင်္ဂါ ရှစ်ပါး ရှိသော မဂ် (10; 4 11) · အင်္ဂါ ရှစ်ပါး ရှိသော … မဂ် (5; 4 11 17) || «Ariyo aṭṭhaṅgiko maggo» puts «အရိယာ» between (« … », rule 10) vs the continuous «Aṭṭhaṅgiko maggo». Text shape
+== paṭisaṃvedeti | ခံစားသည်=5 | ခံစားရသည်=1
+   my1: [('experiences, feels (3rd sg. present)', ['ခံစားသည်'])]
+   mr : ['experiences, feels (3rd sg. present)']
+   why: ခံစားသည် (5; 4 11 12) · ခံစားရသည် (1; 17) || «ခံစား» vs ^2-923 «ခံစားရ(သမျှ)». Text: the other value is not in that segment's Burmese
+== pītisukhaṃ | ပီတိနှင့် သာယာမှု ရှိသော=9 | ပီတိနှင့် သာယာမှု=1
+   mr : ['joy and pleasure, or having joy and pleasure, of the absorptions (neuter sg.)']
+   why: ပီတိနှင့် သာယာမှု ရှိသော (9; 4 11 12 13) · ပီတိနှင့် သာယာမှု (1; 12) || jhāna formula, qualifying jhānaṃ «ပီတိနှင့် သာယာမှု ရှိသော» (aligned ch12, ch13) vs the jhāna-factor noun ^2-580 «ပီတိနှင့် သာယာမှု». Grammar
+== sati | သတိ=63 | ရှိသော=2
+   my1: [('mindfulness, alert presence of mind (nominative sg.)', ['သတိ'])]
+   mr : ['mindfulness, alert presence of mind (nominative sg.)', "'when that exists', locative of atthi in tasmiṃ sati (participle)"]
+   why: သတိ (63; 4 5 7 10 11 12 16 17) · ရှိသော (2; 17) || mindfulness «သတိ» vs «tasmiṃ sati» «ရှိသော» (when that exists). Sense
+== anuppādāya | မဖြစ်ပေါ်ရန်=11
+   my1: [('for the non-arising, to prevent arising, in the right-effort formula', ['မဖြစ်ပေါ်စေရန်'])]
+   mr : ['for the non-arising, to prevent arising, in the right-effort formula']
+== avasesā | ကြွင်းကျန်သော=42 | ကြွင်းသော=32
+   my1: [('the remaining ones, the rest (nominative pl.)', ['ကြွင်းကျန်သော'])]
+   mr : ['the remaining ones, the rest (nominative pl.)']
+   why: ကြွင်းကျန်သော (42; 4 12 13 14 17) · ကြွင်းသော (32; 7 8 9 10 11 16) || «ကြွင်းကျန်သော» (ch4, ch12–14, ch17; pi-1) vs «ကြွင်းသော» (ch7–11, ch16). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== Avasesā dhammā | ကြွင်းကျန်သော သဘောတရား=37 | ကြွင်းသော သဘောတရား=29
+   mr : ["'the remaining phenomena', the closing formula (phrase)"]
+   why: ကြွင်းကျန်သော သဘောတရား (37; 4 12 13 14) · ကြွင်းသော သဘောတရား (29; 7 8 9 10 11) || = avasesā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== jīvitaṃ | အသက်=1 | အသက်ရှင်ခြင်း=1
+   mr : ['life, vitality (nominative sg.)']
+   why: အသက်ရှင်ခြင်း (1; 17) · အသက် (1; 5) || jīvitamada «အသက်ရှင်ခြင်း» vs jīvitindriya «အသက်». Sense
+== nimittaṃ | အမှတ်အသား=6 | အရိပ်အမြွက် ပြခြင်း=1
+   my1: [('sign, characteristic mark (nominative sg.)', ['အမှတ်အသား'])]
+   mr : ['sign, characteristic mark, also a hint in the definition of hinting (nominative sg.)']
+   why: အမှတ်အသား (6; 5 7 16) · အရိပ်အမြွက် ပြခြင်း (1; 17) || «အမှတ်အသား» vs nemittikatā «nimittaṃ» «အရိပ်အမြွက် ပြခြင်း». Sense
+== rūpajīvitindriyaṃ | ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည်=1 | ရုပ် အသက်၏ စွမ်းရည်=1
+   mr : ['the controlling faculty of material life (nominative sg.)']
+   why: ရုပ် အသက်၏ စွမ်းရည် (1; 18) · ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည် (1; 5) || ch18 «ရုပ် အသက်၏ စွမ်းရည်» vs ch5 «ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည်». Text: the other value is not in that segment's Burmese
+== jarāmaraṇaṃ | အိုခြင်းနှင့် သေခြင်း=75 | အိုခြင်း သေခြင်း=1
+   mr : ['ageing and death, the last link of dependent origination (nominative sg.)']
+   why: အိုခြင်းနှင့် သေခြင်း (75; 6) · အိုခြင်း သေခြင်း (1; 6) || «…နှင့်…» vs the chain list ^2-225 «အိုခြင်း၊ သေခြင်း၊» («၊» dropped, rule 6). Text: the other value is not in that segment's Burmese
+== saṅkhārapaccayā | ပြုပြင်ဖန်တီးမှုကြောင့်=94 | ပြုပြင်ဖန်တီးမှုများကြောင့်=3
+   mr : ['conditioned by mental formations, with formations as condition (ablative)']
+   why: ပြုပြင်ဖန်တီးမှုကြောင့် (94; 6) · ပြုပြင်ဖန်တီးမှုများကြောင့် (3; 6 16) || «ပြုပြင်ဖန်တီးမှုကြောင့်» vs the text's plural «…မှုများကြောင့်» (^2-806 and two ch6 segments; the plural is inside the phrase, rule 1). Text: the other value is not in that segment's Burmese
+== nāma | စိတ်ပိုင်း=13 | ပင်လျှင်=1
+   my1: [('mentality, the mental side of name-and-form (compound member)', ['စိတ်ပိုင်း'])]
+   mr : ['mentality, the mental side of name-and-form (compound member)']
+   why: စိတ်ပိုင်း (13; 6 15 16) · ပင်လျှင် (1; 17) || nāmarūpa «စိတ်ပိုင်း» vs the particle «tvampi nāma» «ပင်လျှင်». Sense
+== apuññābhisaṅkhāro | မကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု=2 | မကောင်းမှုကို ပြုပြင်ဖန်တီးမှု=1
+   mr : ['the demeritorious volitional formation (nominative sg.)']
+   why: မကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု (2; 6) · မကောင်းမှုကို ပြုပြင်ဖန်တီးမှု (1; 16) || ch6 ^2-226 «… ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု» vs ch16 ^2-817 «…ကို ပြုပြင်ဖန်တီးမှု». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== dāna | ဒါန=1 | ပေးလှူခြင်း=1
+   mr : ['giving, generosity, in dānamaya (compound member)']
+   why: ပေးလှူခြင်း (1; 16) · ဒါန (1; 6) || dānamayā ch6 «ဒါနမှ» vs ch16 «ပေးလှူခြင်းမှ». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== āneñjābhisaṅkhāro | မတုန်လှုပ်သော ပြုပြင်ဖန်တီးမှု=2 | မတုန်လှုပ်ခြင်းကို ပြုပြင်ဖန်တီးမှု=1
+   mr : ['the imperturbable volitional formation (nominative sg.)']
+   why: မတုန်လှုပ်သော ပြုပြင်ဖန်တီးမှု (2; 6) · မတုန်လှုပ်ခြင်းကို ပြုပြင်ဖန်တီးမှု (1; 16) || = apuññābhisaṅkhāro. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== bhāvanā | ဘာဝနာ ပွားများခြင်း=3 | ဘာဝနာ=1
+   mr : ['meditative development, mental cultivation, in bhāvanāmaya (compound member)']
+   why: ဘာဝနာ ပွားများခြင်း (3; 16) · ဘာဝနာ (1; 6) || bhāvanāmayā ch6 ^2-226 «ဘာဝနာမှ» vs ch16 ^2-753 «ဘာဝနာ ပွားများခြင်းမှ». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== Puññābhisaṅkhāro | ကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု=2 | ကောင်းမှုကို ပြုပြင်ဖန်တီးမှု=1
+   mr : ['the meritorious volitional formation (nominative sg.)']
+   why: ကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု (2; 6) · ကောင်းမှုကို ပြုပြင်ဖန်တီးမှု (1; 16) || = apuññābhisaṅkhāro. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== Dukkhe | ဒုက္ခ=7 | ဆင်းရဲသော=2 | ဆင်းရဲ=1
+   my1: [('about suffering, the first truth (locative)', ['ဒုက္ခ'])]
+   mr : ['about suffering, the first truth (locative)']
+   why: ဒုက္ခ (7; 6 11 15 16 17) · ဆင်းရဲသော (2; 17) · ဆင်းရဲ (1; 17) || «dukkhe ñāṇaṃ» «ဒုက္ခ» vs the vipallāsa «dukkhe sukhanti» «ဆင်းရဲသော» (rule 3, «ဆင်းရဲသည်၌») vs «dukkhe paṭivirodho» «ဆင်းရဲ» (noun). Sense / Grammar
+== phusanā | ထိခြင်း=26 | ထိတွေ့ခြင်း=8
+   my1: [('the act of touching (nominative sg.)', ['ထိခြင်း'])]
+   mr : ['the act of touching (nominative sg.)']
+   why: ထိခြင်း (26; 6 9) · ထိတွေ့ခြင်း (8; 12) || «ထိခြင်း» (pi-1, ch6, ch9) vs ch12 ^2-570 «ထိတွေ့ခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== chambhitattaṃ | တောင့်တင်းနေသော အဖြစ်=3 | တောင့်တင်းထားသော အဖြစ်=1
+   mr : ['stupefaction, rigidity of mind, in the doubt list, also trembling fear in the list of fears (neuter sg.)']
+   why: တောင့်တင်းနေသော အဖြစ် (3; 6 12) · တောင့်တင်းထားသော အဖြစ် (1; 17) || «တောင့်တင်းနေသော» (doubt) vs «တောင့်တင်းထားသော» (fear, ^2-921). Text: the other value is not in that segment's Burmese
+== abyāpajjo | ညှဉ်းဆဲလိုမှု မရှိသော=4 | မညှဉ်းဆဲလိုခြင်း=2
+   my1: [('absence of malice, not bearing ill will (nominative sg.)', ['မညှဉ်းဆဲလိုခြင်း'])]
+   mr : ['absence of malice, not bearing ill will (nominative sg.)']
+   why: ညှဉ်းဆဲလိုမှု မရှိသော (4; 13) · မညှဉ်းဆဲလိုခြင်း (2; 6) || ch13 attributive of the mind «ညှဉ်းဆဲလိုမှု မရှိသော» vs ch6 the synonym-list noun «မညှဉ်းဆဲလိုခြင်း». Grammar
+== pahānā | ပယ်ခြင်း=20 | ပယ်ပြီးသော=1
+   my1: [('through abandoning, giving up (ablative)', ['ပယ်ခြင်း'])]
+   mr : ['through abandoning, giving up (ablative)']
+   why: ပယ်ခြင်း (20; 6 12 13 15 17) · ပယ်ပြီးသော (1; 12) || «ပယ်ခြင်း(ကြောင့်)» vs ^2-510 «kilesānaṃ pahānā bhikkhu» «ပယ်ပြီးသောကြောင့်». Text: the other value is not in that segment's Burmese
+== dhātu uppannā | ဓာတ် … ဖြစ်ပေါ်ပြီးသော=19 | ဓာတ်=1
+   my1: [("'the element has arisen', the opening formula (phrase)", ['ဓာတ် ဖြစ်ပေါ်လာသည်'])]
+   mr : ["'the element has arisen', the opening formula (phrase)"]
+   why: ဓာတ် … ဖြစ်ပေါ်ပြီးသော (19; 6 15) · ဓာတ် (1; 15) || ch15 ^2-745: the text has no word for uppannā («uppannā hoti» not rendered), so only «ဓာတ်». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== bahulīkaroti | အကြိမ်ကြိမ် ပြုသည်=16 | အဖန်ဖန် ပြုသည်=1
+   mr : ['makes much of, practises repeatedly (3rd sg. present)']
+   why: အကြိမ်ကြိမ် ပြုသည် (16; 7 8 9) · အဖန်ဖန် ပြုသည် (1; 12) || ch7–9 «အကြိမ်ကြိမ် ပြု» vs ch12 ^2-522 «အဖန်ဖန် ပြု». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== āsevati | အလေ့အကျင့် ပြုသည်=16 | မှီဝဲသည်=1
+   mr : ['practises, pursues, cultivates (3rd sg. present)']
+   why: အလေ့အကျင့် ပြုသည် (16; 7 8 9) · မှီဝဲသည် (1; 12) || ch7–9 «အလေ့အကျင့် ပြု» vs ch12 ^2-522 «မှီဝဲ». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== sampanno | ပြည့်စုံသော=12 | ပြည့်ဝသော=1
+   mr : ['endowed, perfected (nominative sg.)']
+   why: ပြည့်စုံသော (12; 7 8 9 12 16) · ပြည့်ဝသော (1; 12) || «ပြည့်စုံသော» vs ch12 ^2-511 «ပြည့်ဝသော». Text: the other value is not in that segment's Burmese
+== upeto | ယှဉ်သော=24 | ပြည့်စုံသော=9
+   mr : ['endowed with, furnished with (nominative sg. participle)']
+   why: ယှဉ်သော (24; 7 8 9) · ပြည့်စုံသော (9; 12) || ch7–9 «anupassanāya upeto» «ယှဉ်သော» vs ch12 ^2-511 «saṃvarena upeto» «ပြည့်စုံသော». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== samupeto | ကောင်းစွာ ယှဉ်သော=9 | ကောင်းစွာ ပြည့်စုံသော=2
+   mr : ['fully endowed, thoroughly furnished (nominative sg. participle)']
+   why: ကောင်းစွာ ယှဉ်သော (9; 7 8 9) · ကောင်းစွာ ပြည့်စုံသော (2; 12) || = upeto. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== samannāgato | အပြည့်အဝ ပြည့်စုံသော=25 | အညီအညွတ် ပြည့်စုံသော=10 | ပြည့်စုံသော=1
+   mr : ['endowed with, possessing (nominative sg. participle)']
+   why: အပြည့်အဝ ပြည့်စုံသော (25; 7 8 9 10) · အညီအညွတ် ပြည့်စုံသော (10; 12) · ပြည့်စုံသော (1; 16) || «satinepakkena samannāgato» «အပြည့်အဝ ပြည့်စုံသော» (ch7–10) / ch12 ^2-511 synonym list «အညီအညွတ် ပြည့်စုံသော» / «balehi samannāgato» «ပြည့်စုံသော». Text: the other value is not in that segment's Burmese
+== upapanno | ရောက်ရှိသော=9 | ရရှိသော=1
+   mr : ['possessed of, provided with (nominative sg. participle)']
+   why: ရောက်ရှိသော (9; 7 8 9) · ရရှိသော (1; 12) || = upeto (ch7–9 «ရောက်ရှိသော» vs ch12 «ရရှိသော»). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== yāpeti | မျှတစေသည်=6 | ဆက်လက် ရှင်သန်စေသည်=2
+   mr : ['carries on, keeps life going, as a gloss of viharati (3rd sg. present)']
+   why: မျှတစေသည် (6; 12 13) · ဆက်လက် ရှင်သန်စေသည် (2; 7) || = iriyati (ch7 «ဆက်လက် ရှင်သန်စေ» vs «မျှတစေ»). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== yapeti | မျှတသည်=6 | ဆက်လက် ဖြစ်နေသည်=2
+   mr : ['sustains, keeps up, as a gloss of viharati (3rd sg. present)']
+   why: မျှတသည် (6; 12 13) · ဆက်လက် ဖြစ်နေသည် (2; 7) || = iriyati (ch7 «ဆက်လက် ဖြစ်နေ» vs «မျှတ»). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== Iriyati | ဣရိယာပုထ်ကို ပြုသည်=6 | လှုပ်ရှားသည်=2
+   mr : ['moves, changes posture, as a gloss of viharati (3rd sg. present)']
+   why: ဣရိယာပုထ်ကို ပြုသည် (6; 12 13) · လှုပ်ရှားသည် (2; 7) || viharati glosses ch7 ^2-358 «လှုပ်ရှား» vs ch12–13 ^2-512 «ဣရိယာပုထ်ကို ပြု». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== byantīkatā | အဆုံးသတ်သွားသော=12 | အဆုံးသတ်ပြီးသော=4
+   mr : ['made to vanish, done away with completely (nominative pl. participle)']
+   why: အဆုံးသတ်သွားသော (12; 12) · အဆုံးသတ်ပြီးသော (4; 7) || = abbhatthaṅgatā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== samitā | ငြိမ်းသွားသော=12 | ငြိမ်သက်ပြီးသော=4
+   mr : ['calmed, quelled (nominative pl. participle)']
+   why: ငြိမ်းသွားသော (12; 12) · ငြိမ်သက်ပြီးသော (4; 7) || = abbhatthaṅgatā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== visositā | လုံးဝ ခြောက်ခန်းသွားသော=12 | လုံးဝ ခြောက်ခန်းစေပြီးသော=4
+   mr : ['completely dried up (nominative pl. participle)']
+   why: လုံးဝ ခြောက်ခန်းသွားသော (12; 12) · လုံးဝ ခြောက်ခန်းစေပြီးသော (4; 7) || = sositā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== sositā | ခြောက်ခန်းသွားသော=12 | ခြောက်ခန်းစေပြီးသော=4
+   mr : ['dried up (nominative pl. participle)']
+   why: ခြောက်ခန်းသွားသော (12; 12) · ခြောက်ခန်းစေပြီးသော (4; 7) || = abbhatthaṅgatā (ch7 causative «…စေပြီး»). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== appitā | ဆုံးခန်းတိုင်သွားသော=12 | ချုပ်ငြိမ်းစေပြီးသော=4
+   mr : ['extinguished, put an end to (nominative pl. participle)']
+   why: ဆုံးခန်းတိုင်သွားသော (12; 12) · ချုပ်ငြိမ်းစေပြီးသော (4; 7) || = abbhatthaṅgatā; ch7 «ချုပ်ငြိမ်းစေပြီး» vs ch12 «ဆုံးခန်းတိုင်သွား» (another verb). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== byappitā | လုံးဝ ဆုံးခန်းတိုင်သွားသော=12 | အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော=4
+   mr : ['fully extinguished, utterly put an end to (nominative pl. participle)']
+   why: လုံးဝ ဆုံးခန်းတိုင်သွားသော (12; 12) · အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော (4; 7) || = appitā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== atthaṅgatā | ကွယ်ပျောက်သွားသော=12 | ကွယ်ပျောက်ပြီးသော=4
+   mr : ['gone to rest, set like the sun (nominative pl. participle)']
+   why: ကွယ်ပျောက်သွားသော (12; 12) · ကွယ်ပျောက်ပြီးသော (4; 7) || = abbhatthaṅgatā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== vūpasantā | ကောင်းစွာ ငြိမ်သက်သွားသော=12 | ကောင်းစွာ ငြိမ်သက်ပြီးသော=4
+   mr : ['quieted, fully calmed (nominative pl. participle)']
+   why: ကောင်းစွာ ငြိမ်သက်သွားသော (12; 12) · ကောင်းစွာ ငြိမ်သက်ပြီးသော (4; 7) || = abbhatthaṅgatā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== santā | ငြိမ်သက်သွားသော=12 | ငြိမ်းပြီးသော=4
+   mr : ['stilled, at peace (nominative pl. participle)']
+   why: ငြိမ်သက်သွားသော (12; 12) · ငြိမ်းပြီးသော (4; 7) || = abbhatthaṅgatā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== pajānāti | သိတော်မူသည်=8 | ကွဲပြားစွာ သိသည်=4
+   mr : ['knows clearly, understands (3rd sg. present)']
+   why: သိတော်မူသည် (8; 16) · ကွဲပြားစွာ သိသည် (4; 7 16) || of the Tathāgata «သိတော်မူ» (honorific) vs «ကွဲပြားစွာ သိ». Text: the other value is not in that segment's Burmese
+== uppādo | ဖြစ်ပေါ်ခြင်း=1
+   my1: [('arising, origination (nominative sg.)', ['ဖြစ်ပေါ်မှု'])]
+   mr : ['arising, origination (nominative sg.)']
+== vīriyaṃ ārabhati | ဝီရိယကို စတင်သည်=20 | ဝီရိယကို အားထုတ်သည်=1
+   mr : ["'arouses energy', the right-effort formula (phrase)"]
+   why: ဝီရိယကို စတင်သည် (20; 8 9 11) · ဝီရိယကို အားထုတ်သည် (1; 17) || «ဝီရိယကို စတင်» vs ch17 ^2-953 «ဝီရိယကို (မ)အားထုတ်». Text: the other value is not in that segment's Burmese
+== chando | ဆန္ဒ=9 | လိုလားမှု=7
+   my1: [('desire, wanting, as in kāmacchanda (nominative sg.)', ['လိုလားမှု'])]
+   mr : ['desire, wanting, as in kāmacchanda (nominative sg.)']
+   why: ဆန္ဒ (9; 8 9 12 17) · လိုလားမှု (7; 17) || = chanda: «Chando kāmo», «asmīti chando», chandiddhipāda «ဆန္ဒ» vs kāmacchando «လိုလားမှု» (pi-1). Sense
+== gacchati | ရသည်=1 | လိုက်သည်=1
+   mr : ['goes, moves on, also is reckoned, comes under a count, in saṅkhyaṃ gacchati (3rd sg. present)']
+   why: လိုက်သည် (1; 17) · ရသည် (1; 9) || «agatiṃ gacchati» «လိုက်» vs «saṅkhyaṃ gacchati» «ရ». Sense
+== dhuratā | တာဝန်=5 | ဝန်=1
+   my1: [('bearing the burden, in anikkhittadhuratā (nominative sg.)', ['ဝန်'])]
+   mr : ['bearing the burden, in anikkhittadhuratā (nominative sg.)']
+   why: တာဝန် (5; 17) · ဝန် (1; 9) || ch17 nikkhittadhuratā «တာဝန်» vs ch9 / pi-1 «ဝန်». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== upasampadā | ပြည့်စုံစွာ ရရှိခြင်း=8 | ဝင်စားခြင်း=8
+   mr : ['full attainment, achievement (nominative sg.)']
+   why: ဝင်စားခြင်း (8; 12) · ပြည့်စုံစွာ ရရှိခြင်း (8; 9) || ch9 «ပြည့်စုံစွာ ရရှိခြင်း» vs ch12 «ဝင်စားခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== sacchikiriyā | မျက်မှောက်ပြုခြင်း=8 | မျက်မှောက် ပြုခြင်း=8
+   mr : ['realization, direct experiencing (nominative sg.)']
+   why: မျက်မှောက် ပြုခြင်း (8; 12) · မျက်မှောက်ပြုခြင်း (8; 9) || ch9 «မျက်မှောက်ပြုခြင်း» vs ch12 «မျက်မှောက် ပြုခြင်း» (spacing). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== bojjhaṅgā | ဗောဇ္ဈင်=16
+   my1: [('the factors of awakening (nominative pl.)', ['သိမြင်ခြင်း၏ အင်္ဂါ'])]
+   mr : ['the factors of awakening (nominative pl.)']
+== āpajjati | ပြုသည်=3 | ရောက်သည်=1 | ဝင်ရောက် ဆောင်ရွက်သည်=1
+   my1: [('takes up, comes to practise (restraint) (3rd sg. present)', ['ပြုသည်'])]
+   mr : ['takes up, comes to practise restraint (3rd sg. present)', 'sets about, applies oneself, as in parivīmaṃsaṃ āpajjati and yogaṃ āpajjati (3rd sg. present)']
+   why: ပြုသည် (3; 12 17) · ရောက်သည် (1; 10) · ဝင်ရောက် ဆောင်ရွက်သည် (1; 17) || «saṃvaraṃ āpajjati» «ပြု» / «parivīmaṃsamāpajjati» «ရောက်» / «yogaṃ āpajjati» «ဝင်ရောက် ဆောင်ရွက်». Sense
+== saritā | အောက်မေ့သူ=1 | စီးဆင်းတတ်သူ=1
+   my1: [('stream, flowing current, of craving (feminine sg.)', ['စီးဆင်းတတ်သူ'])]
+   mr : ['one who remembers (agent noun, masculine sg.)', 'stream, flowing current of craving (feminine sg.)']
+   why: အောက်မေ့သူ (1; 10) · စီးဆင်းတတ်သူ (1; 17) || the agent noun «saritā hoti» «အောက်မေ့သူ» (rule P, ch10) vs the taṇhā epithet «စီးဆင်းတတ်သူ» (pi-1). Sense
+== dhammaṃ | သဘောတရား=12 | တရား=2
+   my1: [('mind-objects, what the mind as sixth sense knows (accusative sg.)', ['သဘောတရား'])]
+   mr : ['a phenomenon, any state cognized, as in na kañci dhammaṃ paṭivijānāti (accusative sg.)', 'mind-objects, what the mind as sixth sense knows (accusative sg.)', 'the teaching, the doctrine heard and remembered (accusative sg.)']
+   why: သဘောတရား (12; 10 12 16 17) · တရား (2; 15 17) || = dhamma («dhammaṃ jānāti – suttaṃ geyyaṃ» the Teaching). Sense
+== nirodha | ချုပ်ငြိမ်းခြင်း=14 | ချုပ်ငြိမ်း=1 | ချုပ်ငြိမ်းရာ=1
+   my1: [("cessation, in nirodhataṇhā 'craving for cessation' (compound member)", ['ချုပ်ငြိမ်းခြင်း'])]
+   mr : ['cessation, ending, as in dukkhanirodha and nirodhagāminī (compound member)']
+   why: ချုပ်ငြိမ်းခြင်း (14; 10 11 16 17 18) · ချုပ်ငြိမ်း (1; 16) · ချုပ်ငြိမ်းရာ (1; 16) || «ချုပ်ငြိမ်းခြင်း» (aligned ^2-803) vs nirodhadhamma ^2-806 «ချုပ်ငြိမ်း(တတ်သော)» vs nirodhasamāpatti ^2-808 «ချုပ်ငြိမ်းရာ». Grammar
+== upekkhanā | ဥပေက္ခာဖြင့် ရှုခြင်း=4 | တည်ငြိမ်စွာ ရှုခြင်း=1
+   mr : ['looking on evenly, being equanimous (nominative sg.)']
+   why: ဥပေက္ခာဖြင့် ရှုခြင်း (4; 10) · တည်ငြိမ်စွာ ရှုခြင်း (1; 12) || = ajjhupekkhanā. Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== majjhattatā | အလယ်အလတ်၌ တည်ခြင်း=4 | အလယ်၌ တည်ခြင်း=3
+   mr : ['neutrality, balanced middle stance of mind (nominative sg.)']
+   why: အလယ်အလတ်၌ တည်ခြင်း (4; 10) · အလယ်၌ တည်ခြင်း (3; 12) || = ajjhupekkhanā («အလယ်အလတ်၌» vs «အလယ်၌»). Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== ajjhupekkhanā | ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း=4 | အလွန် တည်ငြိမ်စွာ ရှုခြင်း=3
+   mr : ['looking on with detachment, watching evenly (nominative sg.)']
+   why: ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း (4; 10) · အလွန် တည်ငြိမ်စွာ ရှုခြင်း (3; 12) || upekkhā synonyms ch10 ^2-474 «ဥပေက္ခာဖြင့် …» vs ch12 ^2-584 «… တည်ငြိမ်စွာ …». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== sato | သတိ ရှိသော=8 | ရှိနေသော=3
+   my1: [('mindful, attentive (masculine sg.)', ['သတိ ရှိသော'])]
+   mr : ['mindful, attentive (nominative sg.)', "existing, actually present, in sato sattassa 'of an existing being' (genitive sg. participle)"]
+   why: သတိ ရှိသော (8; 12 16) · ရှိနေသော (3; 17) || «သတိ ရှိသော» vs «sato sattassa» «ရှိနေသော» (existing). Sense
+== saññī | မှတ်သိမှု ရှိသော=9 | မှတ်သိသော=2
+   my1: [('perceiving, having perception (masculine sg.)', ['မှတ်သိသော'])]
+   mr : ['perceiving, having perception (masculine sg.)']
+   why: မှတ်သိမှု ရှိသော (9; 12 16 17) · မှတ်သိသော (2; 12) || «မှတ်သိမှု ရှိသော» (rule P) vs ālokasaññī «အလင်းဟု မှတ်သိသူ» → «မှတ်သိသော» (ch12). Text: the other value is not in that segment's Burmese
+== paṭigha | ထိခိုက်မှု=4 | မုန်းတီးမှု=4
+   my1: [('aversion, resentment (compound member)', ['မုန်းတီးမှု'])]
+   mr : ['sensory impingement, in paṭighasaññā (compound member)', 'aversion, irritation, as in paṭighānusaya (compound member)']
+   why: ထိခိုက်မှု (4; 12 16 17) · မုန်းတီးမှု (4; 15 17) || approved split: impingement «ထိခိုက်မှု» (paṭighasaññā) vs aversion «မုန်းတီးမှု» (paṭighasampayutta). Sense
+== saṃvara | စောင့်စည်းမှု=1 | စောင့်စည်းခြင်း=1
+   mr : ['restraint, in pātimokkhasaṃvara (compound member)']
+   why: စောင့်စည်းမှု (1; 12) · စောင့်စည်းခြင်း (1; 12) || pātimokkhasaṃvara «စောင့်စည်းမှု» vs saṃvarakaraṇīya «စောင့်စည်းခြင်း». Text: the other value is not in that segment's Burmese
+== samāpattiyā | ကျူးလွန်ခြင်း=3 | ရောက်ရှိရန်=1 | ဈာန် ဝင်စားရာ=1
+   my1: [('by engaging in, entering upon (instrumental/genitive sg.)', ['ကျူးလွန်ခြင်း'])]
+   mr : ['entering upon, taking up states, good or bad (genitive/dative sg.)', 'meditative attainment, in jhānasamāpattiyā (compound final)']
+   why: ကျူးလွန်ခြင်း (3; 17) · ရောက်ရှိရန် (1; 12) · ဈာန် ဝင်စားရာ (1; 16) || «akusalānaṃ dhammānaṃ samāpattiyā» «ကျူးလွန်ခြင်း» / «kusalānaṃ … samāpattiyā» «ရောက်ရှိရန်» / jhānasamāpatti «ဈာန် ဝင်စားရာ». Sense
+== Kāyiko | ကိုယ်ပိုင်းဆိုင်ရာ=5
+   my1: [('the physical body, or bodily (masculine sg. adjective)', ['ကိုယ်ဖြင့်'])]
+   mr : ['bodily, by way of the body (masculine sg. adjective)']
+== vācasiko | နှုတ်ပိုင်းဆိုင်ရာ=5
+   my1: [('verbal, by way of speech (masculine sg. adjective)', ['နှုတ်ဖြင့်'])]
+   mr : ['verbal, by way of speech (masculine sg. adjective)']
+== rāja | ဘုရင်=1 | မင်း=1
+   mr : ['king, ruler (compound member)']
+   why: ဘုရင် (1; 12) · မင်း (1; 17) || ch12 «ဘုရင်» vs ch17 rājabhaya «မင်း». Text: the other value is not in that segment's Burmese
+== sevati | မှီဝဲသည်=1 | ဆည်းကပ်သည်=1
+   mr : ['associates with, keeps company with persons, also resorts to a lodging (3rd sg. present)']
+   why: မှီဝဲသည် (1; 12) · ဆည်းကပ်သည် (1; 12) || ch12 ^2-514 «မှီဝဲ» vs ^2-528 «ဆည်းကပ်» (synonym lists). Text: the other value is not in that segment's Burmese
+== vajja | အပြစ်=2
+   my1: [('blameworthy, faulty, in vajjasaññitā (compound member)', ['အပြစ်ရှိသည်'])]
+   mr : ['blameworthy, faulty, in vajjasaññitā (compound member)']
+== abhijjhādomanassā | သူ့ဥစ္စာကို လိုချင်ခြင်း စိတ်ဆင်းရဲမှု=3
+   my1: [('covetousness and sadness, the evil states that invade (nominative pl.)', ['သူ့ဥစ္စာကို လိုချင်ခြင်း စိတ်ဆင်းရဲခြင်း'])]
+   mr : ['covetousness and sadness, the evil states that invade (nominative pl.)']
+== domanassā | စိတ်ဆင်းရဲမှု=3
+   my1: [('sadness, mental displeasure, in abhijjhādomanassā (compound final)', ['စိတ်ဆင်းရဲခြင်း'])]
+   mr : ['sadness, mental displeasure, in abhijjhādomanassā (compound final)']
+== sutvā | ကြား၍=6 | ကြားနာ၍=1
+   my1: [('having heard (absolutive)', ['ကြား၍'])]
+   mr : ['having heard (absolutive)']
+   why: ကြား၍ (6; 12 17) · ကြားနာ၍ (1; 16) || «ကြား၍» vs «assutvā» ^2-768 «(မ)ကြားနာ၍». Text: the other value is not in that segment's Burmese
+== seyyaṃ | အိပ်ခြင်း=1 | လျောင်းခြင်း=1
+   mr : ['lying down, a sleeping posture (accusative sg.)']
+   why: အိပ်ခြင်း (1; 12) · လျောင်းခြင်း (1; 16) || sīhaseyya «အိပ်ခြင်း» vs the posture list «လျောင်းခြင်း». Text: the other value is not in that segment's Burmese
+== bhūrī | ကျယ်ပြန့်သော=1
+   my1: [('breadth of wisdom, extensive understanding (nominative sg.)', ['ကျယ်ပြန့်ခြင်း'])]
+   mr : ['breadth of wisdom, extensive understanding (nominative sg.)']
+== obhāso | အရောင်အဝါ=1 | သွယ်ဝိုက် ပြောခြင်း=1
+   my1: [('radiance, wisdom as brightness (nominative sg.)', ['အရောင်အဝါ'])]
+   mr : ['radiance, wisdom as brightness (nominative sg.)', 'hint, a suggestive remark, in the definition of hinting for gain (nominative sg.)']
+   why: အရောင်အဝါ (1; 12) · သွယ်ဝိုက် ပြောခြင်း (1; 17) || «paññāobhāso» «အရောင်အဝါ» (radiance) vs the hinting list «သွယ်ဝိုက် ပြောခြင်း». Sense
+== Viharatī | နေသည်=17 | နေတော်မူသည်=1
+   mr : ['dwells, abides, with long final ī (3rd sg. present)']
+   why: နေသည် (17; 12 13) · နေတော်မူသည် (1; 16) || «နေ» vs of the Tathāgata ch16 ^2-831 «နေတော်မူ». Text: the other value is not in that segment's Burmese
+== chandarāgo | ဆန္ဒရာဂ=1 | လိုလားမှု ရာဂ=1
+   mr : ['desire and lust, eager passion (nominative sg.)']
+   why: ဆန္ဒရာဂ (1; 12) · လိုလားမှု ရာဂ (1; 17) || ch12 ^2-564 «ဆန္ဒရာဂ» vs ch17 ^2-963 «လိုလားမှု ရာဂ». Text: the other value is not in that segment's Burmese
+== paññapenti | ပညတ်သည်=4 | သိစေသည်=1
+   mr : ['make known, declare, proclaim (3rd pl. present)']
+   why: ပညတ်သည် (4; 17) · သိစေသည် (1; 12) || «ပညတ်» vs «ācikkhanti desenti paññapenti» «သိစေ». Text: the other value is not in that segment's Burmese
+== samāpattiṃ | ဈာန်=2 | ဈာန် ဝင်စားရာ=2
+   mr : ['meditative attainment (accusative sg.)']
+   why: ဈာန် (2; 12) · ဈာန် ဝင်စားရာ (2; 16) || ch12 ^2-602 «…ဈာန်ကို» vs ch16 ^2-767 «ဈာန် ဝင်စားရာ». Text: the other value is not in that segment's Burmese
+== nāsaññī | မှတ်သိမှု မရှိသူလည်း မဟုတ်သော=1 | မရှိသည်လည်း မဟုတ်သော=1
+   mr : ['not non-percipient, in nevasaññīnāsaññī (nominative sg.)']
+   why: မှတ်သိမှု မရှိသူလည်း မဟုတ်သော (1; 12) · မရှိသည်လည်း မဟုတ်သော (1; 17) || = nevasaññīnāsaññī. Text: the other value is not in that segment's Burmese
+== ekaṃ disaṃ pharitvā | အရပ် တစ်မျက်နှာကို … ပျံ့နှံ့စေ၍=4 | အရပ် တစ်မျက်နှာကို ပျံ့နှံ့စေ၍=2
+   mr : ['having pervaded one direction (phrase)']
+   why: အရပ် တစ်မျက်နှာကို … ပျံ့နှံ့စေ၍ (4; 13) · အရပ် တစ်မျက်နှာကို ပျံ့နှံ့စေ၍ (2; 13) || the question «kathañca … pharitvā» puts «အဘယ်သို့» between (« … ») vs the statement. Text shape
+== vipulaṃ | ပြန့်ပြောသော=4 | ကျယ်ပြန့်စွာ=1
+   mr : ['vast, abundant, of the boundless mind (neuter sg.), also widely, in ārammaṇaṃ vipulaṃ pharantassa']
+   why: ပြန့်ပြောသော (4; 13) · ကျယ်ပြန့်စွာ (1; 16) || the attributive «ပြန့်ပြောသော» vs «vipulaṃ pharantassa» «ကျယ်ပြန့်စွာ». Grammar
+== meraya | အရက်=7 | သေရက်=1
+   mr : ['fermented liquor, in surāmeraya (compound member)']
+   why: အရက် (7; 14) · သေရက် (1; 17) || ch14 «အရက်» vs ch17 ^2-942 «သေရက်» (in «သေရည်သေရက်»). Text: the other value is not in that segment's Burmese
+== kāmāvacare | ကာမဘုံ=1
+   my1: [('belonging to the sense sphere (locative)', ['ကာမဘုံနှင့် ဆိုင်သော'])]
+   mr : ['belonging to the sense sphere (locative)']
+== paṭibhāna | ဉာဏ်ပေါ်မှု=31 | လျင်မြန်သော ဉာဏ်=1
+   mr : ['ready discernment, also quick wit, ready repartee, in paṭibhānamada (compound member)']
+   why: ဉာဏ်ပေါ်မှု (31; 15 16) · လျင်မြန်သော ဉာဏ် (1; 17) || paṭibhānapaṭisambhidā «ဉာဏ်ပေါ်မှု» vs paṭibhānamada «လျင်မြန်သော ဉာဏ်». Sense
+== attha | အကျိုးအနက်=30 | အကျိုး=2
+   mr : ['meaning, sense, also goal, aim (compound member, as in atthapaṭisambhidā)']
+   why: အကျိုးအနက် (30; 15) · အကျိုး (2; 16) || atthapaṭisambhidā «အကျိုးအနက်» (meaning) vs atthajāpikā «အကျိုး» (benefit). Sense
+== phale | ဖိုလ်=2 | အကျိုး=1
+   mr : ['in the fruit, the result (locative)']
+   why: ဖိုလ် (2; 16) · အကျိုး (1; 15) || fruition «ဖိုလ်» vs «hetuphale» «အကျိုး» (effect). Sense
+== Jātiyā | ဇာတိ=16 | မွေးဖွားခြင်း=3
+   mr : ['birth, by or regarding birth and descent (instrumental/locative)']
+   why: ဇာတိ (16; 17) · မွေးဖွားခြင်း (3; 15 16) || = jāti. Sense
+== suttaṃ | သုတ်=1
+   my1: [('thread, string, craving as what binds (nominative sg.)', ['ချည်ကြိုး'])]
+   mr : ['thread, string, craving as what binds (nominative sg.)']
+== Nānā | အမျိုးမျိုး=3 | အသီးသီး ကွဲပြားသော=2
+   mr : ['various, different (adverb and compound member)']
+   why: အမျိုးမျိုး (3; 16) · အသီးသီး ကွဲပြားသော (2; 16) || «nānādhātu» «အမျိုးမျိုး» vs «nānāvatthukā» «အသီးသီး ကွဲပြားသော». Text: the other value is not in that segment's Burmese
+== mattā | သာ=1 | ရုံမျှ=1
+   mr : ['mere, only, in abhinipātamatta (compound final)']
+   why: သာ (1; 16) · ရုံမျှ (1; 16) || «-mattā» «သာ» vs «abhinipātamattā» «ရုံမျှ». Text: the other value is not in that segment's Burmese
+== iriyāpathaṃ | ဣရိယာပုထ်=2 | ကိုယ်ဟန် အမူအရာ=1
+   mr : ['bodily posture, deportment (accusative sg.)']
+   why: ဣရိယာပုထ် (2; 16) · ကိုယ်ဟန် အမူအရာ (1; 17) || «ဣရိယာပုထ်» vs ch17 ^2-844 «ကိုယ်ဟန် အမူအရာ». Text: the other value is not in that segment's Burmese
+== suta | ကြားသော=3 | ကြားနာခြင်း=2 | အကြားအမြင်=1
+   mr : ['heard, what has been heard, also hearing, learning by listening, in sutamayā paññā (compound member)']
+   why: ကြားသော (3; 17) · ကြားနာခြင်း (2; 16) · အကြားအမြင် (1; 17) || «sutavāditā» «ကြားသော» / sutamayā «ကြားနာခြင်း» / sutamada «အကြားအမြင်». Sense
+== sammuti | သမုတ်=2 | သမုတ်ခြင်း=1
+   mr : ['convention, common agreement, in sammutiñāṇa and sammutideva (compound member)']
+   why: သမုတ် (2; 16) · သမုတ်ခြင်း (1; 18) || sammutiñāṇa «သမုတ်» vs sammutideva «သမုတ်ခြင်း(အားဖြင့်)». Text: the other value is not in that segment's Burmese
+== vihāra | နေထိုင်ရာ=3
+   my1: [('abiding, dwelling, in brahmavihāra (compound member)', ['ဗြဟ္မစိုရ်'])]
+   mr : ['abiding, meditative state, in anupubbavihāra (compound member)']
+== ṭhānaṃ | နေရာ=1 | ရပ်ခြင်း=1
+   mr : ['place, ground, possibility, also standing, one of the four postures (accusative sg.)']
+   why: နေရာ (1; 16) · ရပ်ခြင်း (1; 16) || «āsabhaṃ ṭhānaṃ» «နေရာ» vs the posture «ṭhānaṃ» «ရပ်ခြင်း». Sense
+== aññaṃ | တခြား=2
+   my1: [("other, different, in 'the soul is one thing, the body another' (neuter sg.)", ['တခြားစီ'])]
+   mr : ["other, different, in 'the soul is one thing, the body another' (neuter sg.)"]
+== ābhogo | ဆင်ခြင်ခြင်း=1 | စိတ်ညွတ်ခြင်း=1 | ညွတ်ခြင်း=1
+   mr : ["engaging the mind, paying attention, also the mind's leaning toward pleasure (nominative sg.)"]
+   why: ဆင်ခြင်ခြင်း (1; 16) · စိတ်ညွတ်ခြင်း (1; 17) · ညွတ်ခြင်း (1; 17) || ch16 ^2-766 «ဆင်ခြင်ခြင်း» vs ch17 ^2-936 «စိတ်ညွတ်ခြင်း», ^2-943 «ညွတ်ခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== āvaṭṭanā | စိတ်ကို လှည့်ဆောင်ခြင်း=1 | လှည့်ခြင်း=1
+   mr : ['turning of the mind toward an object, adverting (nominative sg.)']
+   why: စိတ်ကို လှည့်ဆောင်ခြင်း (1; 16) · လှည့်ခြင်း (1; 17) || ch16 ^2-766 «စိတ်ကို လှည့်ဆောင်ခြင်း» vs ch17 ^2-936 «လှည့်ခြင်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== paṭilabhati | ရသည်=2 | ရရှိသည်=1
+   mr : ['obtains, gains (3rd sg. present)']
+   why: ရသည် (2; 17) · ရရှိသည် (1; 16) || «ရ» vs «assutvā paṭilabhati» «ရရှိ». Text: the other value is not in that segment's Burmese
+== vijjā | အသိပညာ=1
+   my1: [('true knowledge, the three higher knowledges (nominative sg. and pl.)', ['အမှန်သိမြင်မှု'])]
+   mr : ['true knowledge, the three higher knowledges (nominative sg. and pl.)']
+== ārabbha | အာရုံပြု၍=14 | အစွဲပြု၍=5
+   my1: [('taking as object, with regard to (absolutive)', ['အာရုံပြု၍'])]
+   mr : ['taking as object, with regard to (absolutive)']
+   why: အာရုံပြု၍ (14; 16) · အစွဲပြု၍ (5; 17) || «X ārabbha» «အာရုံပြု၍» (pi-1) vs ch17 vitakka «ñātake ārabbha» «အစွဲပြု၍». Text: the other value is not in that segment's Burmese
+== Dānaṃ | ပေးလှူခြင်း=1 | အလှူ=1
+   mr : ['giving, generosity, a gift (nominative/accusative sg.)']
+   why: ပေးလှူခြင်း (1; 16) · အလှူ (1; 18) || dānamaya «ပေးလှူခြင်း» vs «dānaṃ datvā» «အလှူ» (the gift). Sense
+== arahatta | အရဟတ္တ=2
+   my1: [('arahantship, the state of an arahant (compound member)', ['ရဟန္တာ'])]
+   mr : ['arahantship, the state of an arahant (compound member)']
+== khanti | သည်းခံ လက်ခံမှု=2
+   my1: [('patience, tolerance (stem and nominative)', ['သည်းခံခြင်း'])]
+   mr : ['patience, tolerance (stem and nominative)']
+== abhiññā | ထူးကဲစွာ သိ၍=6 | ထူးကဲစွာ သိရမည့်=1
+   my1: [('by direct knowledge, higher knowing (instrumental)', ['ထူးကဲစွာ သိ၍'])]
+   mr : ['by direct knowledge, higher knowing (instrumental and nominative)', 'direct knowing, a topic word in the summary verse (heading member)']
+   why: ထူးကဲစွာ သိ၍ (6; 16 17) · ထူးကဲစွာ သိရမည့် (1; 18) || absolutive «sayaṃ abhiññā» «ထူးကဲစွာ သိ၍» vs ch18 the noun «abhiññā» «ထူးကဲစွာ သိရမည့်(အရာ)». Sense / Grammar
+== manasikārā | နှလုံးသွင်းခြင်း=1
+   my1: [("attending, giving attention, in amanasikārā 'through not attending' (ablative)", ['နှလုံး သွင်းခြင်း'])]
+   mr : ["attending, giving attention, in amanasikārā 'through not attending' (ablative)"]
+== paccavekkhaṇā | ပြန်လည် ဆင်ခြင်ခြင်း=1 | ပြန်လည် ဆင်ခြင်သော=1
+   my1: [('reflecting back, reviewing (nominative sg.)', ['ပြန်လည် ဆင်ခြင်ခြင်း'])]
+   mr : ['reflecting back, reviewing (nominative sg.)']
+   why: ပြန်လည် ဆင်ခြင်ခြင်း (1; 16) · ပြန်လည် ဆင်ခြင်သော (1; 16) || paccavekkhaṇānimitta «ပြန်လည် ဆင်ခြင်ခြင်း(၏)» vs paccavekkhaṇāñāṇa «ပြန်လည် ဆင်ခြင်သော ဉာဏ်». Grammar
+== jarāmaraṇa | အိုခြင်းနှင့် သေခြင်း=1 | အိုခြင်း သေခြင်း=1
+   mr : ['ageing and death (compound member)']
+   why: အိုခြင်းနှင့် သေခြင်း (1; 16) · အိုခြင်း သေခြင်း (1; 18) || «အိုခြင်းနှင့် သေခြင်း» vs the verse ^2-1029 «အိုခြင်း သေခြင်း». Text: the other value is not in that segment's Burmese
+== bhedā | ပြိုကွဲ၍=3 | ပြိုကွဲသောအခါ=1
+   mr : ['upon the breakup of the body (ablative)']
+   why: ပြိုကွဲ၍ (3; 16 17) · ပြိုကွဲသောအခါ (1; 17) || «kāyassa bhedā paraṃ maraṇā» «ပြိုကွဲ၍» vs ^2-951 «ပြိုကွဲသောအခါ». Text: the other value is not in that segment's Burmese
+== amanāpo | စိတ်နှင့် မတွေ့သော=1 | မနှစ်သက်အပ်သော=1
+   mr : ['disagreeable, displeasing to the mind (masculine nominative sg.)']
+   why: စိတ်နှင့် မတွေ့သော (1; 16) · မနှစ်သက်အပ်သော (1; 17) || result «စိတ်နှင့် မတွေ့သော» (ch16 ^2-809) vs a person disliked «မနှစ်သက်အပ်သော» (ch17 ^2-U58, rule P). Sense / Text: the other value is not in that segment's Burmese
+== aṭṭhamaṃ | ရှစ်ကြိမ်မြောက်=1 | အဋ္ဌမ=1
+   my1: [('the eighth, of a type of mind (numeral)', ['အဋ္ဌမ'])]
+   mr : ['the eighth, of a type of mind (numeral)']
+   why: ရှစ်ကြိမ်မြောက် (1; 16) · အဋ္ဌမ (1; 17) || «aṭṭhamaṃ bhavaṃ» «ရှစ်ကြိမ်မြောက်» vs «aṭṭhamaṃ kusītavatthu» «အဋ္ဌမ». Text: the other value is not in that segment's Burmese
+== rājāno | မင်း=1 | ဘုရင်=1
+   mr : ['kings (nominative pl.)']
+   why: မင်း (1; 16) · ဘုရင် (1; 18) || ch16 «မင်း» vs ch18 «ဘုရင်». Text: the other value is not in that segment's Burmese
+== Sassato | ထာဝရ တည်မြဲသည်=5 | ထာဝရ တည်သော=1
+   my1: [('eternal, everlasting, said of the world in the speculative views (nominative sg.)', ['ထာဝရ တည်မြဲသည်'])]
+   mr : ['eternal, everlasting, said of the world in the speculative views (nominative sg.)']
+   why: ထာဝရ တည်မြဲသည် (5; 16 17) · ထာဝရ တည်သော (1; 17) || the view clause «sassato loko» «ထာဝရ တည်မြဲသည်» (pi-1 rule 4) vs the list adjective ^2-948 «ထာဝရ တည်သော». Grammar / Text: the other value is not in that segment's Burmese
+== adhimutti | စိတ်ညွတ်ရာ=1
+   my1: [('release, the freeing of the mind (nominative sg.)', ['အလွန် လွတ်မြောက်မှု'])]
+   mr : ['release, the freeing of the mind (nominative sg.)']
+== Vuṭṭhāna | ထမြောက်ခြင်း=1
+   my1: [('emerging, from an offence in āpattivuṭṭhāna (rehabilitation) and from a meditative attainment in samāpattivuṭṭhāna (compound member)', ['ထမြောက်ရာ'])]
+   mr : ['emerging from a meditative attainment (compound member)']
+== rūpāni | အဆင်းအရောင်=1
+   my1: [('visible forms, objects of the eye, seen outside (accusative pl.)', ['ရုပ်'])]
+   mr : ['visible forms, objects of the eye, seen outside (accusative pl.)']
+== jātiṃ | ဘဝ=1 | ဇာတိ=1
+   mr : ['birth, one birth (accusative sg.)']
+   why: ဘဝ (1; 16) · ဇာတိ (1; 17) || pubbenivāsa «ekampi jātiṃ» «ဘဝ» (a life) vs jātimada «ဇာတိ». Sense
+== sakkāra | အပူဇော်ခံရခြင်း=7 | အရိုအသေ ပြုခံရမှု=1
+   my1: [('honour, hospitality received (compound member)', ['အရိုအသေ ပြုခံရမှု'])]
+   mr : ['honour, hospitality received (compound member)']
+   why: အပူဇော်ခံရခြင်း (7; 17) · အရိုအသေ ပြုခံရမှု (1; 17) || = garukāra. Text: the other value is not in that segment's Burmese
+== jīvita | အသက်ရှင်ခြင်း=1
+   my1: [('life, vitality (compound member)', ['အသက်'])]
+   mr : ['life, vitality (compound member)']
+== garukāra | အလေးပြုခံရခြင်း=1 | လေးစားခံရမှု=1
+   my1: [('respect, esteem shown (compound member)', ['လေးစားခံရမှု'])]
+   mr : ['respect, esteem shown (compound member)']
+   why: အလေးပြုခံရခြင်း (1; 17) · လေးစားခံရမှု (1; 17) || garukāramado «အလေးပြုခံရခြင်း» vs the issā list «လေးစားခံရမှု». Text: the other value is not in that segment's Burmese
+== Jātiṃ paṭicca | ဇာတိကို စွဲ၍=1 | မွေးဖွားခြင်းကို စွဲ၍=1
+   mr : ['on account of birth (phrase)']
+   why: ဇာတိကို စွဲ၍ (1; 17) · မွေးဖွားခြင်းကို စွဲ၍ (1; 17) || jātimada «ဇာတိကို စွဲ၍» vs jātibhaya «မွေးဖွားခြင်းကို စွဲ၍». Sense
+== nikkhitta | ချထားသော=5
+   my1: [("put down, laid aside, in anikkhitta- 'not laying down' (compound member)", ['လက်လွှတ်သော'])]
+   mr : ["put down, laid aside, in anikkhitta- 'not laying down' (compound member)"]
+== paccaya | အထောက်အပံ့=4 | ပစ္စည်း=1
+   mr : ['condition, cause, requisite (compound member)']
+   why: အထောက်အပံ့ (4; 17) · ပစ္စည်း (1; 17) || gilānappaccaya «အထောက်အပံ့» (support) vs paccayapaṭisevana «ပစ္စည်း» (requisite). Sense
+== pariḷāho | ပူလောင်မှု=3 | ပူလောင်ခြင်း=1
+   my1: [('fever, burning passion (nominative sg.)', ['ပူလောင်မှု'])]
+   mr : ['fever, burning passion (nominative sg.)']
+   why: ပူလောင်မှု (3; 17) · ပူလောင်ခြင်း (1; 17) || taṇhā list «…မှု» vs the bhattasammada list «…ခြင်း». Text: the other value is not in that segment's Burmese
+== jappā | စကား ပြောခြင်း=1 | တမ်းတခြင်း=1
+   my1: [('hankering, yearning, in the greed list (nominative sg.)', ['တမ်းတခြင်း'])]
+   mr : ['hankering, yearning, in the greed list (nominative sg.)']
+   why: စကား ပြောခြင်း (1; 17) · တမ်းတခြင်း (1; 17) || sāmantajappā «စကား ပြောခြင်း» vs the taṇhā list «တမ်းတခြင်း». Sense
+== kata | ပြုပြီးသော=1 | ပြုခဲ့သော=1
+   mr : ['done, accomplished (participle)']
+   why: ပြုပြီးသော (1; 17) · ပြုခဲ့သော (1; 17) || adhimāna «ပြုပြီး» vs «pubbekatahetu» «ပြုခဲ့သော». Text: the other value is not in that segment's Burmese
+== sīlabbatena | သီလနှင့် အကျင့်ဝတ်=2 | သီလ အကျင့်ဝတ်=1
+   mr : ['by rules and observances, by virtue and vows (instrumental)']
+   why: သီလနှင့် အကျင့်ဝတ် (2; 17) · သီလ အကျင့်ဝတ် (1; 17) || «သီလနှင့် အကျင့်ဝတ်» vs ^2-884 «… သီလဖြင့်ဖြစ်စေ၊ … အကျင့်ဝတ်» (no နှင့်). Text: the other value is not in that segment's Burmese
+== kula | ကိုးကွယ်သော အိမ်=2 | ဒါယကာ အိမ်ဝန်း=1
+   my1: [('families, supporting households, in kulamacchariya (compound member)', ['ကိုးကွယ်သော အိမ်'])]
+   mr : ['families, supporting households, in kulamacchariya (compound member)']
+   why: ကိုးကွယ်သော အိမ် (2; 17) · ဒါယကာ အိမ်ဝန်း (1; 17) || kulamacchariya ^2-893 «ကိုးကွယ်သော အိမ်» vs ^2-U50 «ဒါယကာ အိမ်ဝန်း». Text: the other value is not in that segment's Burmese. REPORT (text, for the rails step)
+== ajjhosānaṃ | နစ်မွန်းမှု=6 | နစ်မွန်းခြင်း=2
+   mr : ['holding fast, clinging by greed (nominative sg.)']
+   why: နစ်မွန်းမှု (6; 17) · နစ်မွန်းခြင်း (2; 17) || taṇhā lists: «…မှု» (^2-895) vs «…ခြင်း» (^2-909), the list's own ending (as pi-1 mucchā). Text: the other value is not in that segment's Burmese
+== uppajjati diṭṭhi | ဖြစ်ပေါ်လာသော အယူ=1
+   my1: [("'a view arises', in the speculation formulas (phrase)", ['ဖြစ်ပေါ်သော အယူ'])]
+   mr : ["'a view arises', in the speculation formulas (phrase)"]
+== jimhatā | ကောက်ကျစ်သော အဖြစ်=1
+   my1: [('deviousness, slant (nominative sg.)', ['ကောက်ကွေးခြင်း'])]
+   mr : ['deviousness, slant (nominative sg.)']
+== vaṅkatā | ကွေးကောက်ခြင်း=1
+   my1: [('crookedness, being bent (nominative sg.)', ['ကွေးညွှတ်ခြင်း'])]
+   mr : ['crookedness, being bent (nominative sg.)']
+== kuṭilatā | တွန့်လိမ်ခြင်း=1
+   my1: [('twistedness, crookedness of mind (nominative sg.)', ['လိမ်ကောက်ခြင်း'])]
+   mr : ['twistedness, crookedness of mind (nominative sg.)']
+== kodha | အမျက်ဒေါသ=1
+   my1: [('anger, wrath, in kodhasāmantā (compound member)', ['ဒေါသ'])]
+   mr : ['anger, wrath, in kodhasāmantā (compound member)']
+== kaṭukā | ခါးသက်စေသော=1
+   my1: [('bitter, hurtful speech (feminine sg.)', ['နာကျင်စေသော'])]
+   mr : ['bitter, hurtful speech (feminine sg.)']
+== saṃvattanikā | ဖြစ်စေတတ်သော=1
+   my1: [('conducive to, leading to (feminine sg.)', ['ဖြစ်စေသော'])]
+   mr : ['conducive to, leading to (feminine sg.)']
+== saṅgo | တွယ်ကပ်ခြင်း=1 | တွယ်ငြိမှု=1
+   my1: [('clinging attachment, adhesion, in the greed list (nominative sg.)', ['တွယ်ကပ်ခြင်း'])]
+   mr : ['clinging attachment, adhesion, in the greed list (nominative sg.)']
+   why: တွယ်ကပ်ခြင်း (1; 17) · တွယ်ငြိမှု (1; 17) || the taṇhā list «တွယ်ကပ်ခြင်း» vs the five saṅgā «တွယ်ငြိမှု». Text: the other value is not in that segment's Burmese
+== piyassa | ချစ်သော=3
+   my1: [('of someone dear, a loved one (genitive sg.)', ['ချစ်ခင်သော'])]
+   mr : ['of someone dear, a loved one (genitive sg.)']
+== anatthaṃ | အကျိုးမဲ့=3
+   my1: [("harm, what is to one's detriment (accusative sg.)", ['မကောင်းမှု'])]
+   mr : ["harm, what is to one's detriment (accusative sg.)"]
+== manāpassa | နှစ်သက်သော=3
+   my1: [('of someone pleasing, agreeable (genitive sg.)', ['နှစ်လိုဖွယ်ကောင်းသော'])]
+   mr : ['of someone pleasing, agreeable (genitive sg.)']
+== nimmāna | နိမ္မာန=2 | ဖန်ဆင်းခြင်း=1
+   mr : ['creation, the act of creating, in issaranimmāna and nimmānaratī (compound member)']
+   why: နိမ္မာန (2; 18) · ဖန်ဆင်းခြင်း (1; 17) || the loan nimmānaratī «နိမ္မာန» vs issaranimmāna «ဖန်ဆင်းခြင်း». Sense
+== kusalahetu | ကုသိုလ် အမြစ်=3
+   my1: [('a wholesome root condition (nominative sg.)', ['ကုသိုလ်၏ အမြစ်'])]
+   mr : ['a wholesome root condition (nominative sg.)']
+== samphasso | တွေ့ထိမှု=13
+   my1: [('contact, the touching of an object (nominative sg.)', ['ထိတွေ့ရ'])]
+   mr : ['contact, the touching of an object (nominative sg.)']
+== upapatti | ပြန်လည် ဖြစ်ပေါ်သော=13 | ပြန်လည် ဖြစ်ပေါ်ခြင်း=1
+   mr : ['rebirth, being reborn (compound member)']
+   why: ပြန်လည် ဖြစ်ပေါ်သော (13; 18) · ပြန်လည် ဖြစ်ပေါ်ခြင်း (1; 18) || upapattikkhaṇe «ပြန်လည် ဖြစ်ပေါ်သော» vs upapattidevā «ပြန်လည် ဖြစ်ပေါ်ခြင်း(အားဖြင့်)». Grammar
+== appamāṇa | အပ္ပမာဏ=1
+   my1: [('boundless, without measure (compound member)', ['အတိုင်းအဆ မရှိသော'])]
+   mr : ['boundless, without measure (compound member)']
+== kappasahassāni | ကမ္ဘာ နှစ်ထောင်=1 | ကမ္ဘာ နှစ်သောင်း=1
+   mr : ['thousands of aeons (nominative pl.)']
+   why: ကမ္ဘာ နှစ်ထောင် (1; 18) · ကမ္ဘာ နှစ်သောင်း (1; 18) || «dve …» «ကမ္ဘာ နှစ်ထောင်» vs «vīsati …» «ကမ္ဘာ နှစ်သောင်း»: the Burmese numeral fuses the count. Rule
+== Vīsati | နှစ်သောင်း=1
+   my1: [('the number twenty (numeral)', ['နှစ်ဆယ်'])]
+   mr : ['the number twenty (numeral)']
+== gatā | ရောက်သော=1
+   my1: [('gone, arrived (rightly), in sammaggatā (nominative pl. participle)', ['ရောက်ရှိသော'])]
+   mr : ['gone, arrived (rightly), in sammaggatā (nominative pl. participle)']
+== sutā | ကြားရသော=1
+   my1: [('learning, what has been heard and studied, in appassutā (compound final)', ['အကြားအမြင်'])]
+   mr : ['learning, what has been heard and studied, in appassutā (compound final)']
+== rūpā | အဆင်းအရောင်=6 | ရုပ်=5
+   mr : ['visible forms, objects of the eye (nominative pl.)', 'material, having material form, said of sense bases and elements (nominative pl. adjective)']
+   why: အဆင်းအရောင် (6; 1 2 4) · ရုပ် (5; 2 3 5 18) || the visible objects «အဆင်းအရောင်» vs «kati rūpā» material «ရုပ်». Sense
+== catukkaṃ | လေးမျိုးတွဲ=19
+   mr : ['set of four modes, in Paccayacatukka and similar headings (compound final)', 'the classification by fours, in the matrix of fours (heading)']
+== pāda | ပါဒ်=1 | ခြေ=1
+   mr : ['base, basis, in iddhipāda (compound final)', 'the foot, a part of the body (compound member)']
+   why: ခြေ (1; 7) · ပါဒ် (1; 9) || pādatalā «ခြေ» vs iddhipāda «ပါဒ်». Sense
+== vatthu | အခြေခံ=19 | အကြောင်းအရာ=2 | အကြောင်း=1
+   mr : ['basis, ground, matter, in ñāṇavatthu and as the physical base of consciousness (compound final)', "topics, in Khuddakavatthu 'minor topics' (heading member)"]
+   why: အခြေခံ (19; 16) · အကြောင်းအရာ (2; 17) · အကြောင်း (1; 17) || ñāṇavatthu «အခြေခံ» / Khuddakavatthu «အကြောင်းအရာ» / kusītavatthu «အကြောင်း». Text: the other value is not in that segment's Burmese
+== ādi | စသည်=4 | အစ=1
+   mr : ['and so on, closing a list in headings (compound final)', 'beginning, starting point, in the pātimokkha gloss (noun)']
+   why: စသည် (4; 17 18) · အစ (1; 12) || lābhādi «စသည်» vs «sīlaṃ patiṭṭhā ādi» «အစ». Sense
+== bahiddhā | မိမိ၏ ပြင်ပ၌=25 | အပြင်ပိုင်း=3 | အပြင်ဘက်=2
+   my1: [('externally, of forms seen outside oneself, in the bases of mastery (adverb)', ['ပြင်ပ၌']), ("external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb)", ['သူတစ်ပါး၌']), ("outside, in 'ito bahiddhā' 'outside this teaching' (adverb)", ['အပြင်ဘက်'])]
+   mr : ['external, belonging to others, in the internal and external pair (adverb and compound member)', 'outside, outward, of forms seen outside and of the external fetters (adverb and compound member)']
+   why: မိမိ၏ ပြင်ပ၌ (25; 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16) · အပြင်ပိုင်း (3; 17) · အပြင်ဘက် (2; 17) || approved «မိမိ၏ ပြင်ပ၌» (N10) vs bahiddhāsaṃyojana «အပြင်ပိုင်း» vs «ito bahiddhā» «အပြင်ဘက်» (pi-1). Sense
+== āyatanāni | အာရုံခံ နယ်ပယ်=19 | တည်ရာ=3
+   my1: [('sense bases, the sense fields (nominative pl.)', ['အာရုံခံ နယ်ပယ်']), ("bases, in abhibhāyatanāni 'bases of mastery' (compound final)", ['နယ်ပယ်'])]
+   mr : ['sense bases, the sense fields (nominative pl.)', "grounds, bases, in titthāyatanāni 'grounds of sectarian doctrines' (compound final)"]
+   why: အာရုံခံ နယ်ပယ် (19; 2 18) · တည်ရာ (3; 17) || = āyatana; titthāyatanāni «တည်ရာ». Sense
+== vādā | ဝါဒ=9 | ပြောခြင်း=6
+   mr : ['doctrines, assertions, as in nibbānavādā (nominative pl.)', "speaking, as in musāvādā 'from false speech' (ablative)"]
+   why: ဝါဒ (9; 17) · ပြောခြင်း (6; 14 17) || the views «ဝါဒ» vs musāvādā «ပြောခြင်း». Sense
+== Kāmadhātu | ကာမဘုံ=7 | ကာမ ဓာတ်=3
+   mr : ['the sense-sphere realm, the world of sensual pleasure (nominative sg.)', 'the element of sensual thought, in the six elements of kāma, byāpāda and so on (nominative sg.)']
+   why: ကာမဘုံ (7; 17 18) · ကာမ ဓာတ် (3; 3 17) || plane «ကာမဘုံ» vs the thought element (kāma-, byāpāda-, vihiṃsādhātu) «ကာမ ဓာတ်». Sense
+== cakkhundriyaṃ | မျက်စိ၏ စွမ်းရည်=12
+   mr : ['the eye as one of the twenty-two controlling faculties (nominative sg.)', 'the eye as sense faculty to be guarded, in the restraint passage (accusative sg.)']
+== sukha | သာယာမှု=51 | သာယာစွာ=2 | ချမ်းသာသော=2 | သာယာသော=1 | လွယ်ကူသော=1 | ချမ်းသာ=1
+   my1: [("easy, as in sukhapaṭipadā 'easy practice' (compound member)", ['လွယ်ကူသော']), ('pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa)', ['သာယာမှု', 'သာယာစွာ', 'သာယာသော'])]
+   mr : ['pleasure, happiness, or pleasant (compound member, as in sukhapaṭipadā and sukhasahagata)']
+   why: သာယာမှု (51; 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17) · သာယာစွာ (2; 6 13) · ချမ်းသာသော (2; 17) · လွယ်ကူသော (1; 16) · ချမ်းသာ (1; 17) · သာယာသော (1; 2) || feeling «သာယာမှု» / sukhavihāra «သာယာစွာ» / views and vipallāsa «ချမ်းသာ(သော)» / sukhapaṭipadā «လွယ်ကူသော» / sukhasamphassa «သာယာသော». Sense
+== hetuko | အမြစ်=29 | အကြောင်းပြုသော=10
+   mr : ['having roots, rooted, as in sahetuko (compound final)', 'having X as its root or cause, as in avijjāhetuko and maggahetuko (compound final)']
+   why: အမြစ် (29; 1 2 3) · အကြောင်းပြုသော (10; 6) || = hetukaṃ («avijjāhetuko»). Sense
+== kusalo | ကုသိုလ်=34 | ကျွမ်းကျင်သော=1
+   mr : ['wholesome (masculine sg.)', 'skilled, expert, as in samādhikusalo (compound final)']
+   why: ကုသိုလ် (34; 1 2 3 8 9) · ကျွမ်းကျင်သော (1; 16) || «ကုသိုလ်» vs «samādhikusalo» «ကျွမ်းကျင်သော» (skilled). Sense
+== hetū | အမြစ်=46 | အကြောင်းရင်း=1 | အကြောင်း=1
+   my1: [('roots, root conditions (nominative pl.)', ['အမြစ်']), ("causes, conditions, in 'hetū paccayā' of the skill-in-the-possible passage (nominative pl.)", ['အကြောင်း'])]
+   mr : ['roots, root conditions (nominative pl.)']
+   why: အမြစ် (46; 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 18) · အကြောင်းရင်း (1; 16) · အကြောင်း (1; 17) || root «အမြစ်» vs ṭhānāṭhāna «hetū paccayā» «အကြောင်းရင်း» vs «pubbekatahetū» «အကြောင်း». Sense
+== vaṇṇa | အဆင်းလှခြင်း=9 | အရောင်=2 | ဂုဏ်သတင်း=2 | ဂုဏ်ကျေးဇူး=1
+   my1: [('colour, hue, as in vaṇṇanibhā (compound member)', ['အရောင်']), ('praise, reputation, in vaṇṇamacchariya (compound member)', ['ဂုဏ်သတင်း'])]
+   mr : ['colour, hue, as in vaṇṇanibhā (compound member)', 'praise, reputation, in vaṇṇamacchariya (compound member)']
+   why: အဆင်းလှခြင်း (9; 17) · ဂုဏ်သတင်း (2; 17) · အရောင် (2; 2 3) · ဂုဏ်ကျေးဇူး (1; 17) || vaṇṇamada «အဆင်းလှခြင်း» / vaṇṇanibhā «အရောင်» / vaṇṇamacchariya ^2-893 «ဂုဏ်သတင်း» vs ^2-U50 «ဂုဏ်ကျေးဇူး». Sense + REPORT (text, for the rails step)
+== mutta | ပုလဲ=1
+   mr : ['pearl, in maṇisaṅkhamutta (compound member)', 'urine, in the list of body parts (stem)']
+   why: ပုလဲ (1; 2) · (no direct equivalent) (1; 7) || «maṇisaṅkhamutta» «ပုလဲ» (pearl) vs ch7 ^2-356 mutta (urine): the text's body-part list lacks it ×3. REPORT (text, for the rails step)
+== phala | အသီး=3 | သစ်သီး=1 | ဖိုလ်=1
+   my1: [('fruit, of plants in the smell and taste lists (compound member)', ['အသီး']), ('fruition of the path, in phalasamaṅgī (compound member)', ['ဖိုလ်'])]
+   mr : ['fruit, of plants in the smell and taste lists, also the fruition of the path in phalasamaṅgī (compound member)']
+   why: အသီး (3; 2 3) · သစ်သီး (1; 12) · ဖိုလ် (1; 16) || fruit «အသီး» (phalagandha) / phaladāna «သစ်သီး» / fruition «ဖိုလ်». Sense
+== sammā | မှန်ကန်သော=121 | ကောင်းစွာ=2 | အပြည့်အဝ=2 | မှန်ကန်စွာ=1
+   my1: [('right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā)', ['မှန်ကန်သော', 'မှန်ကန်စွာ']), ('perfectly, in sammāsambuddha (title line)', ['အပြည့်အဝ'])]
+   mr : ['right, correct, properly, prefixed to path factors (compound member and adverb)', 'perfectly, completely, in sammāsambuddha (adverb)']
+   why: မှန်ကန်သော (121; 3 4 5 6 7 8 9 10 11 12 16) · အပြည့်အဝ (2; preamble 16) · ကောင်းစွာ (2; 3 17) · မှန်ကန်စွာ (1; 17) || path factors «မှန်ကန်သော» / sammāsambuddha «အပြည့်အဝ» (sample) / «sammā samucchinno» «ကောင်းစွာ» / «sammā paṭipannā» «မှန်ကန်စွာ» (as pi-1). Sense / Grammar
+== dhātuyā | ဘုံ=18 | ဓာတ်=2
+   mr : ['in the realm, the plane of existence, as in kāmadhātuyā (locative)', 'of or in the element, irreducible constituent (genitive/locative sg.)']
+   why: ဘုံ (18; 18) · ဓာတ် (2; 3 16) || = dhātu (ch18 planes «ဘုံ», manodhātuyā «ဓာတ်»). Sense
+== dhamme | သဘောတရား=11 | တရား=4 | တရားတော်=2
+   my1: [("the Buddha's teaching, in 'doubts about the Teacher, the teaching, the training' (locative)", ['တရားတော်']), ('phenomena, states, in dhamme ārabbha (accusative pl.)', ['သဘောတရား'])]
+   mr : ['phenomena, states, as in dhamme ñāṇaṃ (locative/accusative)', "the Buddha's teaching, in imasmiṃ dhamme (locative)"]
+   why: သဘောတရား (11; 3 16) · တရား (4; 12 15 16) · တရားတော် (2; 17) || = dhamma; «dhamme kaṅkhati» «တရားတော်» (pi-1). Sense
+== dhammesu | သဘောတရား=27
+   mr : ['among phenomena, states (locative pl.)', 'in mind-objects, in dhammesu dhammānupassī (locative pl.)']
+== rūpe | ရုပ်ပိုင်း=3 | အဆင်းအရောင်=1 | ရုပ်=1
+   mr : ['matter, material form, as in nāmarūpe (locative sg.)', 'visible forms, the objects of the eye (accusative pl.)']
+   why: ရုပ်ပိုင်း (3; 15 16) · ရုပ် (1; 17) · အဆင်းအရောင် (1; 3) || nāmarūpe «ရုပ်ပိုင်း» / «rūpe avītarāgo» «ရုပ်» / «rūpe ca» (object) «အဆင်းအရောင်». Sense
+== kāmā | လိုလားသော=2 | ကာမ=1
+   mr : ['wishing, desiring, in atthakāmā and hitakāmā (compound final)', 'sense pleasures, in pañcahi kāmaguṇehi (compound member)']
+   why: လိုလားသော (2; 4) · ကာမ (1; 17) || ayogakkhemakāmā «လိုလားသော» (wishing) vs «kāmā» sense pleasures «ကာမ». Sense
+== kappeti | မွေးသည်=3 | ပြုလုပ်သည်=2 | ပြုသည်=1
+   mr : ['makes a living, in jīvikaṃ kappeti (3rd sg. present)', 'assumes a bodily posture, in iriyāpathaṃ kappeti and sīhaseyyaṃ kappeti (3rd sg. present)']
+   why: မွေးသည် (3; 4 11 12) · ပြုလုပ်သည် (2; 16) · ပြုသည် (1; 12) || «jīvikaṃ kappeti» «မွေး» (aligned, ch4) vs «iriyāpathaṃ kappeti» «ပြုလုပ်» vs «sīhaseyyaṃ kappeti» «ပြု». Sense
+== maggo | မဂ်=24 | လမ်း=2 | ခရီး=1
+   my1: [('the path, as a set of factors (nominative sg.)', ['မဂ်']), ("way, road, in kummaggo 'wrong way' (compound final, nominative sg.)", ['လမ်း'])]
+   mr : ['the path, as a set of factors (nominative sg.)', 'a road to travel, a journey, in the bases of laziness (nominative sg.)']
+   why: မဂ် (24; 4 11 17) · လမ်း (2; 6 16) · ခရီး (1; 17) || path «မဂ်» / «ayaṃ maggo … nirayagāmī» «လမ်း» / «maggo gantabbo» «ခရီး». Sense
+== uttaraṃ | ကျော်လွန်သော=34 | မြောက်=4
+   mr : ['beyond the world, supramundane, in lokuttaraṃ (neuter sg. compound final)', 'northern, in uttaraṃ disaṃ (accusative sg.)']
+   why: ကျော်လွန်သော (34; 4 7 8 9 15) · မြောက် (4; 13) || lokuttaraṃ «ကျော်လွန်သော» vs «uttaraṃ disaṃ» «မြောက်». Sense
+== saṅkhāro | ပြုပြင်ဖန်တီးမှု=95
+   mr : ['a formation, a volitional formation in dependent origination (nominative sg.)', 'formation of striving, in padhānasaṅkhāro (nominative sg.)']
+== vattati | ဖြစ်ပေါ်သည်=8 | လည်ပတ်သည်=8 | ကျင့်သည်=1
+   mr : ['occurs, functions, of the mind-consciousness element depending on matter (3rd sg. present)', 'conducts oneself, behaves, as a gloss of viharati and in samādāya vattati (3rd sg. present)']
+   why: လည်ပတ်သည် (8; 7 12 13) · ဖြစ်ပေါ်သည် (8; 6) · ကျင့်သည် (1; 12) || viharati glosses «လည်ပတ်» vs «manoviññāṇadhātu vattati» «ဖြစ်ပေါ်» vs «samādāya vattati» «ကျင့်». Sense
+== carati | ကျင့်လည်သည်=6 | ပြုသည်=3 | ကျင်လည်သည်=2 | ကျင့်သည်=1
+   mr : ['moves about, lives, as a gloss of viharati (3rd sg. present)', "does, acts, in anatthaṃ carati 'does harm' (3rd sg. present)", 'leads a way of life, in brahmacariyaṃ carati (3rd sg. present)']
+   why: ကျင့်လည်သည် (6; 12 13) · ပြုသည် (3; 17) · ကျင်လည်သည် (2; 7) · ကျင့်သည် (1; 17) || viharati glosses ch12–13 «ကျင့်လည်» vs ch7 ^2-358 «ကျင်လည်» (spelling) / «anatthaṃ carati» «ပြု» / «brahmacariyaṃ carati» «ကျင့်». Sense + REPORT (text, for the rails step) (spelling)
+== sampatti | ကောင်းစွာ ရောက်ခြင်း=16 | ပြည့်စုံမှု=2
+   mr : ['full attainment, in the definition of iddhi (nominative sg.)', 'favourable circumstance, excellence, success in meditation, in gatisampatti and kālasampatti (compound final)']
+   why: ကောင်းစွာ ရောက်ခြင်း (16; 9 12) · ပြည့်စုံမှု (2; 16) || attainment «ကောင်းစွာ ရောက်ခြင်း» vs gatisampatti «ပြည့်စုံမှု». Sense
+== amanasikārā | နှလုံး မသွင်းခြင်း=4 | နှလုံး မသွင်းဘဲ=2
+   mr : ['through non-attention, by not attending, in nānattasaññānaṃ amanasikārā of the formless attainments (ablative)', "without attention, in na amanasikārā uppajjanti 'they do not arise without attention' (ablative)"]
+   why: နှလုံး မသွင်းခြင်း (4; 12 16 17) · နှလုံး မသွင်းဘဲ (2; 16) || the noun «နှလုံး မသွင်းခြင်း» vs ch16 ^2-751 «Na amanasikārā uppajjanti» «နှလုံး မသွင်းဘဲ». Grammar
+== gocara | ကျက်စားရာ=4
+   mr : ['proper resort, the right places to go, in ācāragocara (compound member)', 'range, sphere of a sense faculty, in gocaravisaya (compound member)']
+== pāripūriṃ | ကိုယ်အင်္ဂါ ပြည့်စုံခြင်း=1 | ပြည့်စုံမှု=1
+   mr : ['completeness of limbs, physical perfection, a ground of intoxication (accusative sg.)', 'a full measure, enough food, in yāvadatthaṃ pāripūriṃ (accusative sg.)']
+   why: ကိုယ်အင်္ဂါ ပြည့်စုံခြင်း (1; 17) · ပြည့်စုံမှု (1; 17) || pāripūrimada «ကိုယ်အင်္ဂါ ပြည့်စုံခြင်း» vs «bhojanassa pāripūriṃ» «ပြည့်စုံမှု». Sense
+== rūpataṇhā | သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်မှု=3
+   mr : ['craving for the fine-material sphere (nominative sg.)', 'craving for visible forms, the object of the eye (nominative sg.)']
+== vādo | ပြောခြင်း=3
+   mr : ["speaking, in musāvādo 'false speech' (compound final)", 'doctrine, assertion (nominative sg.)']
+== upanidhāya | နှိုင်းယှဉ်၍=2
+== Parapuggalaṃ | သူတစ်ပါး=2
+== aggi | မီး=2
+   mr : ['fire, the physical danger, in aggibhaya (compound member)', 'fire as a figure for the defilements, in the three fires of lust, hatred and delusion (nominative pl.)']

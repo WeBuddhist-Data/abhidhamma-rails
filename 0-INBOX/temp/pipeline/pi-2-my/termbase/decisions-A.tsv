@@ -1,0 +1,293 @@
+# pi-2 Pāli→Burmese plain termbase decisions (hw|sense_index <TAB> term <TAB> reason). Built from pi-1's LOCKED termbase (binding) and this book's own Burmese text only; for the user's review (not locked).
+# Part 1a: multi-candidate senses where pi-1's locked termbase has the same headword and sense (71): pi-1's term
+rūpaṃ|0	ရုပ်	pi-1 locked term (same headword, same sense rūpaṃ|0); pi-1 locked; nāmarūpa keeps «ရုပ်ပိုင်း» by pi-1 rule 2 (APPROVED.md)
+ajjhattaṃ|0	မိမိ၌	pi-1 locked term (same headword, same sense ajjhattaṃ|0)
+Dukkha|1	နာကျင်မှု	pi-1 locked term (same headword, same sense dukkha|1)
+Paṭicca|0	အကြောင်းတို့ကို မှီ၍	pi-1 locked term (same headword, same sense paṭicca|0); pi-1 APPROVED.md (paṭicca = «အကြောင်းတို့ကို မှီ၍»)
+niddeso|0	အကျယ် ဖော်ပြချက်	pi-1 locked term (same headword, same sense niddeso|0); text inconsistency 19 (ch7 «ဖွင့်ဆိုချက်» vs ch6, 16, 17): one heading word, the pi-1 one
+pātubhūtā|0	ထင်ရှားလာပြီးသော	pi-1 locked term (same headword, same sense pātubhūtā|0)
+jātā|0	မွေးဖွားပြီးသော	pi-1 locked term (same headword, same sense jātā|0)
+abbhatthaṅgatā|0	လုံးဝ ကွယ်ပျောက်ပြီးသော	pi-1 locked term (same headword, same sense abbhatthaṅgatā|0); text inconsistency 6 (abhijjhā list ch7 «…ပြီး» vs ch12 «…သွား»): the pi-1 «…ပြီးသော» form, which then sets the form of the whole list
+nibbattā|0	ပေါ်ထွက်ပြီးသော	pi-1 locked term (same headword, same sense nibbattā|0)
+Iddhi|0	ဣဒ္ဓိ	pi-1 locked term (same headword, same sense iddhi|0)
+samāpannassa|0	ဈာန် ဝင်စားသော	pi-1 locked term (same headword, same sense samāpannassa|0)
+Upekkhā|0	ဥပေက္ခာ	pi-1 locked term (same headword, same sense upekkhā|0)
+māno|0	မာန	pi-1 locked term (same headword, same sense māno|0)
+vibhava|0	ဘဝ ပျောက်ကွယ်ခြင်း	pi-1 locked term (same headword, same sense vibhava|0); pi-1 APPROVED.md (vibhava = «ဘဝ ပျောက်ကွယ်ခြင်း»), also map-harmonise rule A
+uccheda|0	ပြတ်စဲသွားသည်	pi-1 locked term (same headword, same sense uccheda|0); pi-1 APPROVED.md B10
+Sassata|0	ထာဝရ တည်မြဲသည်	pi-1 locked term (same headword, same sense sassata|0)
+pāpa|0	ဆိုး	pi-1 locked term (same headword, same sense pāpa|0)
+vipatti|0	ပျက်စီးခြင်း	pi-1 locked term (same headword, same sense vipatti|0)
+adhamma|0	မတရားသော	pi-1 locked term (same headword, same sense adhamma|0)
+nānatta|0	အမျိုးမျိုး ကွဲပြားမှု	pi-1 locked term (same headword, same sense nānatta|0); text inconsistency 23 (nānattasaññā, ch17 heading «အမျိုးမျိုးသော»): one word, the pi-1 one
+kamyatā|0	လိုချင်ခြင်း	pi-1 locked term (same headword, same sense kamyatā|0); pi-1 locked; ketukamyatā keeps its own entry
+vatthūni|0	အခြေခံ	pi-1 locked term (same headword, same sense vatthūni|0); pi-1 locked (kilesavatthūni «ကိလေသာ အခြေခံ»); text inconsistency 20
+Dasa|0	ဆယ်ပါး	pi-1 locked term (same headword, same sense Dasa|0)
+sattā|0	သတ္တဝါ	pi-1 locked term (same headword, same sense sattā|0)
+āyu|0	သက်တမ်း	pi-1 locked term (same headword, same sense āyu|0)
+sukha|1	သာယာမှု	pi-1 locked term (same headword, same sense sukha|1)
+uppanno|0	ဖြစ်ပေါ်ပြီးသော	pi-1 locked term (same headword, same sense uppanno|0)
+hīno|0	ယုတ်ညံ့သူ	pi-1 locked term (same headword, same sense hīno|0)
+na|0	မ	pi-1 locked term (same headword, same sense na|0)
+vipākadhammadhammā|0	အကျိုး ပေးတတ်သော သဘောတရား	pi-1 locked term (same headword, same sense vipākadhammadhammā|0)
+vaṇṇa|1	ဂုဏ်သတင်း	pi-1 locked term (same headword, same sense vaṇṇa|1); text inconsistency 1 (vaṇṇamacchariya ^2-893 / ^2-U22 vs ^2-U50): one word, the pi-1 one
+sammā|0	မှန်ကန်သော	pi-1 locked term (same headword, same sense sammā|0)
+somanassa|0	ဝမ်းမြောက်မှု	pi-1 locked term (same headword, same sense somanassa|0)
+domanassa|0	စိတ်ဆင်းရဲမှု	pi-1 locked term (same headword, same sense domanassa|0)
+sātaṃ|0	နှစ်သက်ဖွယ်ကောင်းမှု	pi-1 locked term (same headword, same sense sātaṃ|0)
+adukkhamasukhaṃ|0	မနာကျင် မသာယာသော	pi-1 locked term (same headword, same sense adukkhamasukhaṃ|0)
+sukhaṃ|0	သာယာမှု	pi-1 locked term (same headword, same sense sukhaṃ|0)
+pariyantaṃ|0	အဆုံးအစွန်	pi-1 locked term (same headword, same sense pariyantaṃ|0)
+paṭivirodho|0	ပြန်လည် ဆန့်ကျင်ခြင်း	pi-1 locked term (same headword, same sense paṭivirodho|0)
+uppajjati|0	ဖြစ်ပေါ်သည်	pi-1 locked term (same headword, same sense uppajjati|0)
+Dvādasa|0	ဆယ့်နှစ်ပါး	pi-1 locked term (same headword, same sense Dvādasa|0)
+indriyānaṃ|0	အာရုံခံ အင်္ဂါ	pi-1 locked term (same headword, same sense indriyānaṃ|0); pi-1 locked (the senses, approved Mātikā item)
+pitā|0	အဖ	pi-1 locked term (same headword, same sense pitā|0); text inconsistency 24 (ch4 ^2-200 «ဖခင်»): one word, the pi-1 one
+mātā|0	အမိ	pi-1 locked term (same headword, same sense mātā|0); text inconsistency 24 (ch4 ^2-200 «မိခင်»): one word, the pi-1 one
+icchā|0	အလိုရှိခြင်း	pi-1 locked term (same headword, same sense icchā|0)
+sañcetanā|0	စေ့ဆော်ခြင်း	pi-1 locked term (same headword, same sense sañcetanā|0)
+ārabhati|0	စတင်သည်	pi-1 locked term (same headword, same sense ārabhati|0)
+chandaṃ|0	ဆန္ဒ	pi-1 locked term (same headword, same sense chandaṃ|0)
+paṭisaṃvedeti|0	ခံစားသည်	pi-1 locked term (same headword, same sense paṭisaṃvedeti|0)
+ñāṇaṃ|0	ဉာဏ်	pi-1 locked term (same headword, same sense ñāṇaṃ|0)
+avasesā|0	ကြွင်းကျန်သော	pi-1 locked term (same headword, same sense avasesā|0); text inconsistency 13 (ch7-11, ch16 «ကြွင်းသော»): one word, the pi-1 one
+gāho|0	စွဲကိုင်ခြင်း	pi-1 locked term (same headword, same sense gāho|0)
+phusanā|0	ထိခြင်း	pi-1 locked term (same headword, same sense phusanā|0); text inconsistency 9 (attainment list, ch12 «ထိတွေ့ခြင်း»): one word, the pi-1 one; «ထိတွေ့» stays samphassa's touch word
+abyāpajjo|0	မညှဉ်းဆဲလိုခြင်း	pi-1 locked term (same headword, same sense abyāpajjo|0)
+pahānā|0	ပယ်ခြင်း	pi-1 locked term (same headword, same sense pahānā|0)
+chando|0	လိုလားမှု	pi-1 locked term (same headword, same sense chando|0); pi-1 locked; chandarāgo / chandarāgā take the same word
+dhuratā|0	ဝန်	pi-1 locked term (same headword, same sense dhuratā|0); text inconsistency 22 (nikkhittadhuratā ch17 «တာဝန်»): one word, the pi-1 one
+nirodha|0	ချုပ်ငြိမ်းခြင်း	pi-1 locked term (same headword, same sense nirodha|0)
+saññī|0	မှတ်သိသော	pi-1 locked term (same headword, same sense saññī|0)
+sutvā|0	ကြား၍	pi-1 locked term (same headword, same sense sutvā|0)
+sañjātā|0	ကောင်းစွာ မွေးဖွားပြီးသော	pi-1 locked term (same headword, same sense sañjātā|0)
+ārabbha|0	အာရုံပြု၍	pi-1 locked term (same headword, same sense ārabbha|0)
+paccavekkhaṇā|0	ပြန်လည် ဆင်ခြင်ခြင်း	pi-1 locked term (same headword, same sense paccavekkhaṇā|0)
+aṭṭhamaṃ|0	အဋ္ဌမ	pi-1 locked term (same headword, same sense Aṭṭhamaṃ|0)
+Sassato|0	ထာဝရ တည်မြဲသည်	pi-1 locked term (same headword, same sense Sassato|0)
+sakkāra|0	အရိုအသေ ပြုခံရမှု	pi-1 locked term (same headword, same sense sakkāra|0)
+garukāra|0	လေးစားခံရမှု	pi-1 locked term (same headword, same sense garukāra|0)
+pariḷāho|0	ပူလောင်မှု	pi-1 locked term (same headword, same sense pariḷāho|0)
+mucchā|0	မိန်းမောမှု	pi-1 locked term (same headword, same sense mucchā|0)
+kula|0	ကိုးကွယ်သော အိမ်	pi-1 locked term (same headword, same sense kula|0); text inconsistency 2 (kulamacchariya ^2-U50 «ဒါယကာ အိမ်ဝန်း»): one word, the pi-1 one
+saṅgo|0	တွယ်ကပ်ခြင်း	pi-1 locked term (same headword, same sense saṅgo|0)
+# Part 1b: multi-candidate sense whose pi-1 term is not among the candidates and never occurs in the pi-2 text (1; reported)
+dhātu uppannā|0	ဓာတ် … ဖြစ်ပေါ်ပြီးသော	pi-1's locked «ဓာတ် ဖြစ်ပေါ်ပြီးသည်» never occurs in the pi-2 text (reported, brief rule): the pi-2 text puts the feeling between (19 of 20 uses), so the gapped attributive form of the same formula; «ဓာတ်» alone (^2-745) lacks uppannā hoti (text inconsistency 5)
+# Part 1c: multi-candidate senses without a pi-1 entry for the same sense (119)
+rūpa|2	ရုပ်	pi-1 rūpa|2 «ရုပ်» (same sense, tag extended); core word (matter); in nāmarūpa «ရုပ်ပိုင်း» by pi-1 rule 2
+rūpaṃ|2	သဘော ရှိသော	piyarūpaṃ sātarūpaṃ is a bahubbīhi adjective used for «what is …» (2 of 3 uses, ch4); attributive «…သော» (mapping rule); as piyarūpaṃ / sātarūpaṃ
+jātaṃ|0	မွေးဖွားပြီးသော	pi-1 jātā «မွေးဖွားပြီးသော» (same lemma and sense); in the present-time list (^2-3, ^2-27) «ဖြစ်ပေါ်» is uppannaṃ / samuppannaṃ's word, so the synonym rule rules out «ဖြစ်ပေါ်သော»; sahajātaṃ (8 uses) then reads «အတူ မွေးဖွားပြီးသော» (for a Burmese speaker to check)
+Hetu|1	အကြောင်းပြုခြင်း	4 of 5 uses (ch6 Hetucatukka, «X-hetukā» = «Xကို အကြောင်းပြုသော», pi-1 B6 cittahetukaṃ «စိတ်ကို အကြောင်းပြုသော»); kept apart from Hetu|0 «အမြစ်»
+ārūpāvacara|0	ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော	3 of 4 uses; no plural marker in a dictionary form; approved plane name «ရုပ်မရှိသော ဘုံ»
+vatthu|0	အခြေခံ	19 of 22 uses; pi-1 vatthūni «အခြေခံ» (ñāṇavatthu «ဉာဏ် အခြေခံ», kilesavatthu)
+icchatā|0	အလိုရှိခြင်း	pi-1 icchā «အလိုရှိခြင်း» (same lemma); «လိုချင်ခြင်း» is kamyatā's word (pi-1)
+ānudiṭṭhi|0	ပတ်သက်သော အယူ	pi-1 pubbantānudiṭṭhi «အတိတ်နှင့် ပတ်သက်သော အယူ», aparantānudiṭṭhi (same compound final); 3 of 5 uses
+esanā|0	ရှာမှီးမှု	3 of 4 uses (the three searches, ch17)
+vivāda|0	အငြင်းပွားမှု	3 of 5 uses
+ānusayā|0	ကိန်းအောင်းခြင်း	pi-1 anusayo «ကိန်းအောင်းခြင်း» (same lemma); 3 of 4 uses
+kilesavatthūni|0	ကိလေသာ အခြေခံ	pi-1 vatthūni «အခြေခံ» (pi-1 «ကိလေသာ အခြေခံ ဆယ်ပါး»); text inconsistency 20 (ch17 «ကိလေသာ အကြောင်းရင်း»): one word, the pi-1 one
+nevasaññīnāsaññī|0	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော	6 of 6 uses; an adjective (-in), so «…သော», not «…သူ» (map-harmonise rule P)
+sukha|2	ချမ်းသာ	everyday happiness (sukhadukkha of the views, «dukkhe sukhan»ti» of the perversions): plain noun, kept apart from sukha|1 «သာယာမှု» (feeling) and sukha|0 «လွယ်ကူသော» (easy); pair with Dukkhe|1 «ဆင်းရဲ»
+gāmī|0	ဦးတည်သော	pi-1 gāmi / gāmiṃ «ဦးတည်သော» (same compound final); 2 of 3 uses
+asekkho|0	ကျင့်ကြံမှု ပြီးဆုံးသူ၏	pi-1 asekkhā / asekkhaṃ «ကျင့်ကြံမှု ပြီးဆုံးသူ၏» (approved Mātikā triad); 9 of 10 uses
+sekkho|0	ကျင့်ကြံဆဲသူ၏	pi-1 sekkhā / sekkha «ကျင့်ကြံဆဲသူ၏» (approved Mātikā triad); 9 of 10 uses
+hetū|1	အကြောင်း	pi-1 hetū|1 «အကြောင်း» (same sense, tag extended); kept apart from hetū|0 «အမြစ်»
+dukkhaṃ|0	နာကျင်မှု	pi-1 dukkhaṃ|0 «နာကျင်မှု» (same sense, tag extended); 17 of 18 uses
+phala|0	အသီး	pi-1 phala|0 «အသီး» (same sense, tag extended)
+patta|0	အရွက်	pi-1 patta «အရွက်» (same sense, tag extended)
+pihakaṃ|0	သရက်ရွက်	the plain Burmese name of the spleen; text inconsistency 14 (ch7 ^2-356 «အဖျဉ်း»): one word
+santiṭṭhati|0	တည်နေသည်	the plain verb «stays»
+uparito|0	အထက်ဘက်	«on the upper side»; dictionary form without a final case particle; text inconsistency 15 (ch18 «အထက်၌»)
+samannāhāro|0	စိတ်ကို ဆောင်ခြင်း	text inconsistency 18: one set for the list āvaṭṭanā / ābhogo / samannāhāro / manasikāro (^2-766, ^2-936); «နှလုံးသွင်းခြင်း» is manasikāra's word (pi-1) and «… စိတ်ညွတ်ခြင်း» ābhogo's, so neither may be used here
+samanantarā|0	ချက်ချင်း နောက်၌	3 of 4 uses; plain «right after»; «အခြားမဲ့» is a technical word
+dhamme|0	တရား	pi-1 dhamme|0 «တရား» (same sense, tag extended): the Teaching; dhamme|1 keeps «သဘောတရား»
+rūpe|0	ရုပ်	core word ရုပ် (matter), as pi-1 rūpaṃ|0; in nāmarūpe «ရုပ်ပိုင်း» by pi-1 rule 2
+Soḷasa|0	ဆယ့်ခြောက်ပါး	9 of 11 uses; numeral with ပါး, as pi-1 Dasa «ဆယ်ပါး», Dvādasa «ဆယ့်နှစ်ပါး»; the other candidates carry the «thousand» of kappasahassāni
+paṭilābho|0	ရရှိခြင်း	text inconsistency 9: one word in the jāti definition (^2-191 «āyatanānaṃ paṭilābho») and the attainment lists (^2-434, ^2-570); «ထပ်မံ / ပြန်လည် ရခြင်း» add «again», which the jāti line cannot mean; kept apart from lābho «ရခြင်း»
+bhoga|0	စည်းစိမ်	6 of 8 uses
+ahita|0	အစီးအပွား မရှိခြင်း	text inconsistency 21 (ahitakāmā ^2-199 vs ^2-514): one word; plain «what is not to one's welfare»
+piyarūpaṃ|0	ချစ်ဖွယ် သဘော ရှိသော	2 of 3 uses; bahubbīhi adjective, attributive «…သော»
+sātarūpaṃ|0	နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော	2 of 3 uses; as piyarūpaṃ; contains sāta's word «နှစ်သက်ဖွယ်ကောင်း» (pi-1 sātaṃ)
+virāga|0	ပြယ်ပျောက်ခြင်း	pi-1 virāgā «ပြယ်ပျောက်သွားခြင်း» (same lemma); the noun
+nirujjhati|0	ချုပ်ငြိမ်းသည်	nirodha family «ချုပ်ငြိမ်းခြင်း» (pi-1)
+ātāpī|0	ထက်သန်သော လုံ့လ ရှိသော	11 of 12 uses; text inconsistency 12 (ch4 ^2-205 «အားထုတ်»): one word; adjective «…သော»
+vineyya|0	ပယ်ဖျောက်၍	9 of 10 uses; absolutive «…၍» (map-harmonise decision 5); text inconsistency 12
+kāyānupassī viharati|0	ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်	8 of 9 uses; text inconsistency 12 (ch4 ^2-205): one form
+aṭṭhaṅgiko maggo|0	အင်္ဂါ ရှစ်ပါး ရှိသော မဂ်	pi-1 aṭṭhaṅgiko «အင်္ဂါ ရှစ်ပါး ရှိသော» + magga «မဂ်»; dictionary form without the gap (the gap holds ariya)
+pītisukhaṃ|0	ပီတိနှင့် သာယာမှု ရှိသော	9 of 10 uses; bahubbīhi in the jhāna formula (map-harmonise rule A)
+kappeti|1	ပြုလုပ်သည်	2 of 3 uses; kept apart from the other «ပြုသည်» verbs (āpajjati|0, carati|1)
+maggo|1	လမ်း	pi-1 maggo|1 «လမ်း» (same sense, tag extended)
+Avasesā dhammā|0	ကြွင်းကျန်သော သဘောတရား	pi-1 avasesā «ကြွင်းကျန်သော»; text inconsistency 13 (ch7-11, ch16 «ကြွင်းသော»): one word
+jīvitaṃ|0	အသက်	pi-1 jīvita «အသက်» (same lemma); jīvitindriyaṃ «အသက်၏ စွမ်းရည်»
+rūpajīvitindriyaṃ|0	ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည်	pi-1 jīvitindriyaṃ «အသက်၏ စွမ်းရည်»; «the life that is material» is the plain reading
+jarāmaraṇaṃ|0	အိုခြင်းနှင့် သေခြင်း	75 of 76 uses
+saṅkhārapaccayā|0	ပြုပြင်ဖန်တီးမှုကြောင့်	93 of 96 uses; no plural marker in a dictionary form
+apuññābhisaṅkhāro|0	မကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု	text inconsistency 16 (ch16 ^2-817 «…ကို ပြုပြင်ဖန်တီးမှု»): one form; «formation that produces demerit»
+dāna|0	ပေးလှူခြင်း	text inconsistency 17 (dānamayā ch6 «ဒါန» vs ch16): the plain noun, as dānamayā paññā «ပေးလှူခြင်းမှ ဖြစ်သော ပညာ» and Dānaṃ
+āneñjābhisaṅkhāro|0	မတုန်လှုပ်သော ပြုပြင်ဖန်တီးမှု	text inconsistency 16: one form, as Puñña- / apuññābhisaṅkhāro
+bhāvanā|0	ဘာဝနာ ပွားများခြင်း	pi-1 bhāvanāya pahātabbā «ဘာဝနာ ပွားများခြင်းဖြင့်» (same lemma); text inconsistency 17 (ch6 «ဘာဝနာ»)
+Puññābhisaṅkhāro|0	ကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု	text inconsistency 16: one form; «formation that produces merit»
+Dukkhe|1	ဆင်းရဲ	everyday misery (the perversion «dukkhe sukhan»ti», the worldly condition): plain noun, pair with sukha|2 «ချမ်းသာ»; Dukkhe|0 keeps «ဒုက္ခ» (the truth)
+vattati|1	လည်ပတ်သည်	8 of 9 uses (the viharati glosses ^2-358, ^2-512); «ကျင့်သည်» is carati|2's word (brahmacariyaṃ carati)
+chambhitattaṃ|0	တောင့်တင်းနေသော အဖြစ်	3 of 4 uses
+bahulīkaroti|0	အကြိမ်ကြိမ် ပြုသည်	pi-1 bahulīkammaṃ «အကြိမ်ကြိမ် ပြုခြင်း» (same lemma); 16 of 17 uses; text inconsistency 10 (ch12 ^2-522)
+āsevati|0	အလေ့အကျင့် ပြုသည်	16 of 17 uses; text inconsistency 10 (ch12 «မှီဝဲ»); «မှီဝဲ» stays sevati's neighbour, not āsevati's
+sampanno|0	ပြည့်စုံသော	12 of 13 uses; the endowment list (^2-357, ^2-511): upeto «ယှဉ်သော», samupeto «ကောင်းစွာ ယှဉ်သော», upapanno «ရောက်ရှိသော», sampanno «ပြည့်စုံသော», samannāgato «အပြည့်အဝ ပြည့်စုံသော»
+upeto|0	ယှဉ်သော	text inconsistency 11: one set for the endowment list (ch7-9 form, 24 of 33 uses); the ch12 «ပြည့်စုံသော» is sampanno's word in the same list
+samupeto|0	ကောင်းစွာ ယှဉ်သော	text inconsistency 11; as upeto (9 of 11 uses)
+samannāgato|0	အပြည့်အဝ ပြည့်စုံသော	text inconsistency 11; 25 of 36 uses; differs from sampanno by «အပြည့်အဝ»
+upapanno|0	ရောက်ရှိသော	text inconsistency 11; 9 of 10 uses
+yāpeti|0	မျှတစေသည်	text inconsistency 7: one set for the viharati glosses (iriyati «လှုပ်ရှားသည်», vattati «လည်ပတ်သည်», pāleti «စောင့်ရှောက်သည်», yapeti «မျှတသည်», yāpeti «မျှတစေသည်», carati «ကျင်လည်သည်»); 6 of 8 uses
+carati|0	ကျင်လည်သည်	text inconsistency 7; standard spelling ကျင်လည် («ကျင့်လည်» is a typing variant; for a Burmese speaker to confirm)
+yapeti|0	မျှတသည်	text inconsistency 7; 6 of 8 uses; pair with yāpeti «မျှတစေသည်»
+Iriyati|0	လှုပ်ရှားသည်	pi-1 iriyanā «လှုပ်ရှားခြင်း» (same lemma); text inconsistency 7; «ဣရိယာပုထ်ကို ပြုသည်» would repeat iriyāpathaṃ kappeti
+byantīkatā|0	အဆုံးသတ်ပြီးသော	text inconsistency 6: the abhijjhā list takes the «…ပြီးသော» form of its member abbhatthaṅgatā (pi-1 locked «လုံးဝ ကွယ်ပျောက်ပြီးသော»); past participles
+samitā|0	ငြိမ်သက်ပြီးသော	text inconsistency 6; as byantīkatā
+visositā|0	လုံးဝ ခြောက်ခန်းစေပြီးသော	text inconsistency 6; as byantīkatā; pair with sositā
+sositā|0	ခြောက်ခန်းစေပြီးသော	text inconsistency 6; as byantīkatā
+appitā|0	ချုပ်ငြိမ်းစေပြီးသော	text inconsistency 6; as byantīkatā
+byappitā|0	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	text inconsistency 6; as byantīkatā; pair with appitā
+atthaṅgatā|0	ကွယ်ပျောက်ပြီးသော	pi-1 abbhatthaṅgatā «လုံးဝ ကွယ်ပျောက်ပြီးသော» (same stem, same list); text inconsistency 6
+vūpasantā|0	ကောင်းစွာ ငြိမ်သက်ပြီးသော	text inconsistency 6; as byantīkatā; pair with samitā
+santā|0	ငြိမ်းပြီးသော	text inconsistency 6; as byantīkatā; kept apart from samitā «ငြိမ်သက်ပြီးသော»
+pajānāti|0	ကွဲပြားစွာ သိသည်	pi-1 pajānanā «ကွဲပြားစွာ သိခြင်း» (same lemma), harmonise B13; the honorific «သိတော်မူသည်» for the Tathāgata is register, which the rails line adds (for the user's review)
+vīriyaṃ ārabhati|0	ဝီရိယကို စတင်သည်	pi-1 ārabhati «စတင်သည်»; 20 of 21 uses
+upasampadā|0	ဝင်စားခြင်း	text inconsistency 9: one word for both attainment lists; the family of upasampajja «ဝင်စား၍» (^2-570 glosses it); «ပြည့်စုံစွာ ရရှိခြင်း» would repeat paṭilābho «ရရှိခြင်း» in the same list
+sacchikiriyā|0	မျက်မှောက်ပြုခြင်း	pi-1 sacchikiriyāya «မျက်မှောက်ပြုရန်» spelling (no space); text inconsistency 9
+āpajjati|1	ဝင်ရောက် ဆောင်ရွက်သည်	«sets about, applies oneself» (parivīmaṃsaṃ / yogaṃ āpajjati); «ရောက်သည်» says «arrives»
+upekkhanā|0	ဥပေက္ခာဖြင့် ရှုခြင်း	text inconsistency 8: one set for the upekkhā list (ch10 ^2-474 form, 4 uses); keeps the core word ဥပေက္ခာ of the stem upekkh-
+majjhattatā|0	အလယ်၌ တည်ခြင်း	text inconsistency 8; «အလယ်အလတ်» is majjhima's word («middling») in this book
+ajjhupekkhanā|0	ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း	text inconsistency 8; as upekkhanā, «လွန်စွာ» for ajjhi-
+amanasikārā|0	နှလုံး မသွင်းခြင်း	pi-1 manasikārā «နှလုံးသွင်းခြင်း» (the same ablative, tagged for amanasikārā); 4 of 6 uses
+saṃvara|0	စောင့်စည်းမှု	pi-1 saṃvaro «စောင့်စည်းမှု» (same lemma)
+samāpattiyā|0	ကျူးလွန်ခြင်း	pi-1 samāpattiyā|0 «ကျူးလွန်ခြင်း» (same sense, tag extended), 3 of 4 uses; ^2-511 (good states «ရောက်ရှိရန်») is a different reading the tag also covers (for the user's review)
+rāja|0	မင်း	one word with rājā «မင်း» (^2-809, the wheel-turning king «စကြဝတေး မင်း») and rājāno
+sevati|0	မှီဝဲသည်	same lemma as sevanti «မှီဝဲသည်», sevissanti «မှီဝဲလိမ့်မည်» (^2-813) and the ^2-514 line; its list neighbours keep their own words (bhajati / bhajanti «ဆည်းကပ်သည်», payirupāsati «ချဉ်းကပ် ခစားသည်»); kept apart from āsevati «အလေ့အကျင့် ပြုသည်»
+seyyaṃ|0	လျောင်းခြင်း	the posture «lying down» (sīhaseyyā, the four postures); «အိပ်ခြင်း» is sleep
+Viharatī|0	နေသည်	pi-1 viharati «နေသည်» (same verb); 11 of 11 uses
+chandarāgo|0	လိုလားမှု ရာဂ	pi-1 chando «လိုလားမှု» and the pattern nandirāga «နှစ်သက်မှု ရာဂ»; as chandarāgā «လိုလားမှု ရာဂ»
+paññapenti|0	ပညတ်သည်	4 of 5 uses (the views «… attānaṃ paññapenti»); a known Burmese word for «lay down, declare»
+samāpattiṃ|0	ဈာန် ဝင်စားရာ	pi-1 samāpatti «ဈာန် ဝင်စားရာ» (same lemma, approved Mātikā)
+nāsaññī|0	မရှိသည်လည်း မဟုတ်သော	the second half of nevasaññīnāsaññī «… မရှိသည်လည်း မဟုတ်သော»; adjective, not «…သူ» (rule P)
+ekaṃ disaṃ pharitvā|0	အရပ် တစ်မျက်နှာကို … ပျံ့နှံ့စေ၍	4 of 6 uses; the gap holds the inserted «with a mind of …»
+vipulaṃ|0	ပြန့်ပြောသော	4 of 5 uses (the boundless-mind formula)
+meraya|0	အရက်	7 of 8 uses; as the fifth-precept phrase «သေရည် အရက် …» (surā «သေရည်»)
+paṭibhāna|0	ဉာဏ်ပေါ်မှု	31 of 32 uses (paṭibhānapaṭisambhidā)
+Nānā|0	အမျိုးမျိုး	pi-1 nānatta «အမျိုးမျိုး ကွဲပြားမှု» (same stem); plain «various»
+mattā|0	ရုံမျှ	«merely»; «သာ» is eva's word (pi-1)
+iriyāpathaṃ|0	ဣရိယာပုထ်	2 of 3 uses; a word Burmese readers know
+suta|1	အကြားအမြင်	the learning sense of the suta family: sutaṃ|1 and sutena «အကြားအမြင်» (and pi-1 sutā); sutamayā paññā «အကြားအမြင်မှ ဖြစ်သော ပညာ»
+sammuti|0	သမုတ်	2 of 3 uses; a known Burmese word
+ābhogo|0	စိတ်ညွတ်ခြင်း	text inconsistency 18: one set (see samannāhāro); fits all three uses (^2-766, ^2-936, ^2-943 «the mind's leaning»); «ဆင်ခြင်ခြင်း» is paccavekkhaṇā's verb
+āvaṭṭanā|0	စိတ်ကို လှည့်ဆောင်ခြင်း	text inconsistency 18: one set (see samannāhāro); clear on its own (^2-766 «natthi āvaṭṭanā»); anāvaṭṭanā «အဖန်ဖန် လှည့်ခြင်း» shares the verb
+paṭilabhati|0	ရရှိသည်	same lemma as paṭilābho «ရရှိခြင်း»
+Dānaṃ|0	ပေးလှူခြင်း	as dāna «ပေးလှူခြင်း» (one word for the lemma)
+jarāmaraṇa|0	အိုခြင်းနှင့် သေခြင်း	as jarāmaraṇaṃ
+bhedā|0	ပြိုကွဲ၍	3 of 4 uses («kāyassa bhedā»)
+amanāpo|0	စိတ်နှင့် မတွေ့သော	pi-1 amanāpiyo «စိတ်နှင့် မတွေ့သော» (same stem); pair with manāpā «စိတ်နှင့် တွေ့သော»
+rājāno|0	မင်း	as rājā «မင်း»; no plural marker in a dictionary form
+paccaya|0	အထောက်အပံ့	4 of 5 uses (the requisites)
+kata|0	ပြုခဲ့သော	pi-1 katattā / kammassa katattā «ပြုခဲ့သော» (same lemma)
+sīlabbatena|0	သီလ အကျင့်ဝတ်	pi-1 sīlabbata «သီလ အကျင့်ဝတ်» (same lemma)
+ajjhosānaṃ|0	နစ်မွန်းမှု	6 of 8 uses
+nimmāna|0	ဖန်ဆင်းခြင်း	«creation» (issaranimmāna); in the realm name Nimmānaratī pi-1 rule 1 keeps the proper name
+upapatti|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း	harmonise B2 (upapatti noun «ပြန်လည် ဖြစ်ပေါ်ခြင်း», upapattibhavo); the noun dictionary form
+kappasahassāni|0	ကမ္ဘာ ထောင်ပေါင်း	OUTSIDE: both candidates carry a number that belongs to the neighbouring numeral (dve «နှစ်», vīsati «နှစ်ဆယ်»), so each is wrong in the other line; «thousands of aeons», the rails line joins it with the numeral («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း»)
+# Part 2: single-candidate senses re-aligned to pi-1's LOCKED term (same headword, same sense; the pi-1 term occurs in the pi-2 text) (12)
+uppādā|0	ဖြစ်ပေါ်မှု	pi-1 locked uppādā (taṇhuppādā «တပ်မက်မှု ဖြစ်ပေါ်မှု»); «ဖြစ်ပေါ်ရာ» was the pi-2 text's form
+uppādo|0	ဖြစ်ပေါ်မှု	pi-1 locked uppādo; anuppādo aligned with it (^2-367)
+kāmāvacare|0	ကာမဘုံနှင့် ဆိုင်သော	pi-1 locked; the plane adjective, as kāmāvacaraṃ / kāmāvacarā
+kusalato|0	ကုသိုလ်စိတ်	pi-1 locked (the planes-of-arising class of mind); ^2-746 «kāmāvacarakusalato … kiriyato» then reads like pi-1 kiriyato «ပြုရုံမျှသာ ဖြစ်သော စိတ်» in the same line
+aññaṃ|0	တခြားစီ	pi-1 locked («aññaṃ jīvaṃ aññaṃ sarīraṃ», the view list harmonised to pi-1); ^2-762 «aññaṃ … vatthu» reads the same
+arahatta|0	ရဟန္တာ	pi-1 locked (arahattamagga / -phala «ရဟန္တာ …»); «အရဟတ္တ» was the pi-2 text's form (for a Burmese speaker: both are known)
+rūpāni|0	ရုပ်	pi-1 locked for the same tag and formula («bahiddhā rūpāni passati», the liberations ^2-828)
+jīvita|0	အသက်	pi-1 locked (jīvitamado «အသက်ကြောင့် မူးယစ်မှု»); jīvitaṃ the same
+saṃvattanikā|0	ဖြစ်စေသော	pi-1 locked (asamādhisaṃvattanikā)
+Vīsati|0	နှစ်ဆယ်	pi-1 locked (twenty); «နှစ်သောင်း» (20,000) joined the following kappasahassāni into the numeral
+gatā|0	ရောက်ရှိသော	pi-1 locked (gatā «gone, arrived»)
+anatthaṃ|0	မကောင်းမှု	pi-1 locked (Anatthaṃ, the grounds-of-annoyance formula «anatthaṃ me acari»); anattha aligned with it
+# Part 2b: single-candidate senses aligned by binding rules although pi-1's term does not yet occur in the pi-2 text (3; reported)
+vijjā|0	အမှန်သိမြင်မှု	approved cross-book core term (burmese-style.md: vijjā / avijjā = «အမှန်သိမြင်မှု / အမှန်ကို မသိမှု») and pi-1 locked; «အသိပညာ» contains paññā's word (contrast paññā / ñāṇa / vijjā)
+nikkhitta|0	လက်လွှတ်သော	pi-1 locked; polarity pair with this book's anikkhitta «လက်မလွှတ်သော» (nikkhittadhuratā / anikkhittadhuratā); text inconsistency 22
+uppajjati diṭṭhi|0	ဖြစ်ပေါ်သော အယူ	pi-1 locked; family uppajjati «ဖြစ်ပေါ်သည်» (pi-1, Part 1a)
+# Part 3: family re-alignments of single-candidate senses (one Burmese word per Pāli lemma and sense; family-scan-before.txt)
+abhijjhādomanassaṃ|0	သူ့ဥစ္စာကို လိုချင်ခြင်း စိတ်ဆင်းရဲမှု	text inconsistency 3: one form, as pi-1 abhijjhādomanassā (locked)
+Ajjhattikassa|0	အတွင်းပိုင်း	same lemma as ajjhattikaṃ / ajjhattikā «အတွင်းပိုင်း» (pi-1)
+Bāhirassa|0	ပြင်ပ	same lemma as bāhiraṃ / bāhirā «ပြင်ပ» (pi-1)
+anattha|0	မကောင်းမှု	same lemma and sense as anatthaṃ «မကောင်းမှု» (pi-1 locked)
+anuppādo|0	မဖြစ်ပေါ်မှု	polarity pair with uppādo «ဖြစ်ပေါ်မှု» (pi-1) in the same line (^2-367)
+Avasesānaṃ|0	ကြွင်းကျန်သော	text inconsistency 13: as avasesā «ကြွင်းကျန်သော» (pi-1)
+asesa|0	အကြွင်းအကျန် မရှိ	same lemma as asesaṃ «အကြွင်းအကျန် မရှိ» (5 uses)
+bhogaṃ|0	စည်းစိမ်	same lemma as bhoga «စည်းစိမ်»
+bhojanassa|0	အစားအစာ	same lemma as bhojane «အစားအစာ» (pi-1)
+brahmacariyaṃ|0	မြင့်မြတ်သော အကျင့်	same lemma as brahmacariye «မြင့်မြတ်သော အကျင့်»
+buddha|0	ဘုရားရှင်	one word for the Buddha: buddhā «ဘုရားရှင်», sambuddhassa / sammāsambuddhassa «… ဘုရားရှင်» (pi-1, the homage line)
+buddhe|0	ဘုရားရှင်	as buddha
+buddhaṃ|0	ဘုရားရှင်	as buddha
+sambuddho|0	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်	as sambuddhassa (pi-1)
+sammāsambuddho|0	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	as sammāsambuddhassa (pi-1)
+sammāsambuddhā|0	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	as sammāsambuddhassa (pi-1)
+cavanti|0	သေသည်	same lemma as cavati «သေသည်» and cuto «သေသော» (pi-1 cuti «သေခြင်း»)
+cāṭukamyatāya|0	ဖားယားလိုခြင်း	same word as cāṭukamyatā (^2-862); the wrong-livelihood list ^2-513 repeats it
+muggasūpyatāya|0	ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောယှက် ပြောခြင်း	same word as muggasūpyatā
+pāribhaṭayatāya|0	ကလေးထိန်းသကဲ့သို့ ချော့မော့ခြင်း	same word as pāribhaṭayatā
+dānena|0	ပေးလှူခြင်း	same lemma as dāna / Dānaṃ «ပေးလှူခြင်း»
+dukkhanirodha|0	ဒုက္ခ ချုပ်ငြိမ်းခြင်း	same lemma as dukkhanirodhaṃ / dukkhanirodho and pi-1 dukkhanirodhe «ဒုက္ခ ချုပ်ငြိမ်းခြင်း»
+garukāraṃ|0	လေးစားခံရမှု	same lemma as garukāra «လေးစားခံရမှု» (pi-1)
+sakkāraṃ|0	အရိုအသေ ပြုခံရမှု	same lemma as sakkāra «အရိုအသေ ပြုခံရမှု» (pi-1)
+icchāya|0	အလိုရှိခြင်း	same lemma as icchā «အလိုရှိခြင်း» (pi-1); «ဆန္ဒ» is chanda's word
+itthī|0	မိန်းမ	same lemma as itthiyā «မိန်းမ» (pi-1); pair with puriso (^2-809)
+puriso|0	ယောက်ျား	same lemma and sense as purisa|0 «ယောက်ျား»; pair with itthī (^2-809)
+khantiyā|0	သည်းခံ လက်ခံမှု	same sense as khanti / khantiṃ «သည်းခံ လက်ခံမှု»
+kopañca|0	အမျက်ထွက်ခြင်း	same lemma as kopo «အမျက်ထွက်ခြင်း» (pi-1)
+muta|0	နမ်း မြည်း ထိတွေ့ရသော	same lemma as mutaṃ / mutā / muto (diṭṭhasutamutaviññāta)
+viññāta|0	သိရသော	same lemma as viññātaṃ / viññātā «သိရသော» (pi-1)
+nepakkena|0	ပညာ ရင့်ကျက်ခြင်း	same lemma as nepakkaṃ / Nepakka
+nimitte|0	အမှတ်အသား	same lemma as nimitta / nimittaṃ «အမှတ်အသား» (pi-1)
+niruddha|0	ချုပ်ငြိမ်းပြီးသော	same lemma as niruddhā «ချုပ်ငြိမ်းပြီးသော» (pi-1)
+nirāmiso|0	ကာမဂုဏ်နှင့် မစပ်သော	same lemma as nirāmisaṃ / nirāmisā
+nānattaṃ|0	အမျိုးမျိုး ကွဲပြားမှု	same lemma as nānatta «အမျိုးမျိုး ကွဲပြားမှု» (pi-1)
+nānattasaññā|0	အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု	text inconsistency 23: as nānattasaññānaṃ and nānatta (pi-1)
+pamāda|0	မေ့လျော့မှု	same lemma as Pamādo «မေ့လျော့မှု» (10 uses)
+Parapuggalaṃ|0	အခြား ပုဂ္ဂိုလ်	same lemma as parapuggalānaṃ «အခြား ပုဂ္ဂိုလ်» (8 uses, the approved sample)
+bhajati|0	ဆည်းကပ်သည်	the list «sevati bhajati» (^2-528) needs two words; sevati «မှီဝဲသည်» (see Part 1c); one word with bhajanti
+bhajanti|0	ဆည်းကပ်သည်	as bhajati; ^2-813 «sevanti bhajanti payirupāsanti» then reads «မှီဝဲ … ဆည်းကပ် … ချဉ်းကပ် ခစား»
+payirupāsanti|0	ချဉ်းကပ် ခစားသည်	same lemma as payirupāsati «ချဉ်းကပ် ခစားသည်»; «ဆည်းကပ်» is bhajati's word
+paṭibhānena|0	ဉာဏ်ပေါ်မှု	same lemma as paṭibhāna «ဉာဏ်ပေါ်မှု» (31 uses)
+sahassāni|0	ထောင်ပေါင်း	«thousands»; «နှစ်သောင်း» joined the numeral vīsati; as kappasahassāni «ကမ္ဘာ ထောင်ပေါင်း»
+samannāgatā|0	အပြည့်အဝ ပြည့်စုံသော	same lemma as samannāgato / samannāgataṃ «အပြည့်အဝ ပြည့်စုံသော»
+samitaṃ|0	ငြိမ်သက်ပြီးသော	same lemma as samitā (text inconsistency 6); «ငြိမ်း» is santā's word
+vūpasantaṃ|0	ကောင်းစွာ ငြိမ်သက်ပြီးသော	same lemma as vūpasantā (text inconsistency 6)
+vūpasanta|0	ကောင်းစွာ ငြိမ်သက်ပြီးသော	same lemma as vūpasantā
+saṃyama|0	ထိန်းချုပ်မှု	same lemma as saṃyamo «ထိန်းချုပ်မှု»
+saṅgā|0	တွယ်ကပ်ခြင်း	same lemma as saṅgo «တွယ်ကပ်ခြင်း» (pi-1 locked)
+saṅghe|0	သံဃာ	same lemma as saṅgho / saṅghaṃ / saṅghena «သံဃာ»
+senāsana|0	အိပ်ရာ နေရာ	same lemma as senāsanaṃ «အိပ်ရာ နေရာ»; plain «bed and seat»
+senāsanesu|0	အိပ်ရာ နေရာ	as senāsana
+sāvakā|0	တပည့်	same lemma as sāvako / sāvakehi «တပည့်»
+Tadekaṭṭho|0	ထိုနှင့် တစ်နေရာတည်း တည်ရှိသော	same lemma as tadekaṭṭhaṃ (pi-1)
+upakkilese|0	ညစ်နွမ်းစေတတ်သော အညစ်အကြေး	same lemma as upakkileso (pi-1)
+upapajjati|0	ပြန်လည် ဖြစ်ပေါ်သည်	same lemma as upapajjanti «ပြန်လည် ဖြစ်ပေါ်သည်» and upapatti «ပြန်လည် ဖြစ်ပေါ်ခြင်း»
+upapannā|0	ပြန်လည် ဖြစ်ပေါ်သော	«reborn» (^2-830), the upapatti family; kept apart from upapanno «ရောက်ရှိသော» (endowed)
+vaya|0	ပျက်ခြင်း	same lemma as vayo «ပျက်ခြင်း» (pi-1)
+vedayita|0	ခံစားရခြင်း	same lemma as vedayitaṃ «ခံစားရခြင်း» (pi-1); «ခံစားမှု» is vedanā's word
+vipariyāso|0	ပြောင်းပြန် ယူဆမှု	same lemma as vipariyāsā (^2-U41, the same segment)
+vipariṇāmadhammā|0	ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော	same lemma as vipariṇāmadhammaṃ
+virodha|0	ဆန့်ကျင်ခြင်း	same lemma as virodho «ဆန့်ကျင်ခြင်း» (pi-1)
+visuddhiyā|0	စင်ကြယ်ခြင်း	same lemma as visuddhi «စင်ကြယ်ခြင်း» (pi-1); a noun, not «…သော»
+ādīnavā|0	အပြစ်ဒဏ်	same lemma as ādīnava «အပြစ်ဒဏ်»; «အပြစ်» is vajja's word in the same segment (^2-U58 vajjabahulo)
+āyatanūpago|0	နယ်ပယ် ဘုံသို့ ရောက်သော	same compound as āyatanūpage / āyatanūpagānaṃ
+ākiñcaññāyatanūpago|0	ဘာမျှ မရှိသော နယ်ပယ် ဘုံသို့ ရောက်သော	same compound as ākiñcaññāyatanūpagānaṃ
+sukhavihārissa|0	သာယာစွာ နေသော	same lemma as sukhavihārī «သာယာစွာ နေသော» (pi-1 viharati «နေသည်»)
+nevasaññānāsaññāyatanūpago|0	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ် ဘုံသို့ ရောက်သော	same compound as nevasaññānāsaññāyatanūpage / -ānaṃ
+kakkhaḷiyaṃ|0	ကြမ်းတမ်းမှု	synonym list ^2-902 / ^2-847 (amudutā amaddavatā kakkhaḷiyaṃ phārusiyaṃ kakkhaḷatā kaṭhinatā): kakkhaḷatā keeps pi-1's locked «ကြမ်းတမ်းခြင်း», so kakkhaḷiyaṃ needs its own word (synonym-check.txt)
+# Part 4 (comments only): what family-scan-after.txt and synonym-check.txt still show, and why
+# Senses kept from the senses file (different meanings under one stem): rūpa ×3 / rūpaṃ ×3 / rūpe ×2 (matter, visible form, fine-material, «of such a nature»), dukkha ×4 (painful feeling, the truth «ဒုက္ခ», hard «ခက်ခဲသော», everyday misery «ဆင်းရဲ»), sukha ×3 (pleasure «သာယာမှု», easy «လွယ်ကူသော», everyday happiness «ချမ်းသာ»), kāya ×2, bahiddhā ×3, Ajjhatta ×2, hetu / hetū / hetuka (root «အမြစ်» vs cause «အကြောင်း / အကြောင်းပြုသော / အကြောင်းရင်း»), Hetu|1 «အကြောင်းပြုခြင်း» (headings) vs Hetumhi / hetuso «အကြောင်းရင်း» (in the cause), dhamma (phenomenon / Teaching), dhātu (element «ဓာတ်» / plane «ဘုံ»), magga (path «မဂ်» / way «လမ်း»), phala (fruit / fruition / result), patta (leaf / bowl), chanda (desire to act «ဆန္ဒ» / wanting «လိုလားမှု»), carati ×3, vattati ×2, kappeti ×2, āpajjati ×2, samāpattiyā ×2, suta ×2, sampatti ×2, khandha (trunk / aggregate), āyatana (base / ground / craft field), Jāti (birth / caste), paṭigha (aversion / impact), pasāda, obhāsa, saritā, sati (mindfulness / «when there is»), sato, satāni (numbers), vaṇṇa ×3, vatthu ×2, vatthukā ×2, nāma ×3, mukha ×2, taca ×2, tatth, ṭhāna ×2, ādi ×2, āhāra ×2, Dhātu / Kāmadhātu / Rūpadhātu (plane / element), uttaraṃ ×2, dakkhiṇa (right / south), yoga ×2, Sotaṃ ×2, purisa ×2.
+# Grammar, not drift (the Burmese dictionary form follows the Pāli form): finite verbs and tense (uppād: uppādī, uppādino; sev: sevissanti; paṭisaṃvedī; vuṭṭhāti; ālokati), datives «…ရန် / …အတွက်» (apacayāya, ācayāya, nibbidāya, maṇḍanāya, vibhūsanāya, vepullāya, madāya, pattiyā, ṭhitiyā), absolutives «…၍» (pahāya, paṇidhāya, bhedā), attributive vs noun (adukkhamasukha, avitakka, ahiriko, anottappī, agāravo, abyāpajjena, saṭho, visama / visamaṃ, Pītisukha / pītisukhaṃ, samādānā, caritā, diṭṭhī, saddhāni, sukhino, sukho, sukhato), agent «…သူ» (bhāsitā, saritā, hīno, sadiso; rule P), quoted forms (natthi kiñci, viharatīti …), numerals (Dasa / dasapi, sahassaṃ, vīsampi, satāni).
+# Different words or uses under one stem: agg (fire / foremost / tip), ant (entrails / inside / end), amar (deathless / eel), ass (tear / mindfulness), sutt (sleep / discourse), sup, pāṇ (hand / being), pīt (rapture / drunk), mut / mutt (sensed / pearl / urine / release), tej (fire / power), kumār, kul (family clan / patron's house), nik, mūla (root / capital), mūlak (based on / rooted in), nimittaṃ|1 (hint), gat (gone / destination / nature), gacch, dvār (door / opening), daṇḍ, sār, sant (existing / peaceful), samitaṃ vs santaṃ, vihāropi (monastery), iddhiṃ (prosperity) vs Iddhi (spiritual power), cariyaṃ (way of living) vs cariye, iriyāpatha (deportment) vs iriyāpathaṃ (posture), mattaṃ (vitakkamattaṃ «only») vs mattā («merely»), vossagga (release) vs vossaggo (slackening), ādāna (taking up a stick) vs ādānaṃ (taking), yasa (fame) vs yase (following), vaṇṇo (appearance) vs vaṇṇaṃ (beauty), veyyākaraṇa (exposition / a division of the Teaching), appamattaka (trifling in two lists), samannāgatassa «ကြုံတွေ့နေရသော» (harmonise B1, «afflicted with») vs samannāgata «endowed», gato (gone to a place) vs gatā (pi-1 «arrived»), upavicāro (pi-1 vicāra list) vs upavicārā (mental explorations), bhajati (resorts to) is one word with bhajanti, Parapuggalaṃ / parapuggalānaṃ one word.
+# Kept on purpose, from pi-1 or proper names: appamāṇa «အပ္ပမာဏ» (only in the realm name Appamāṇasubhā: pi-1 rule 1), Asañña «အသည» (asaññasattā), subhānaṃ «သုဘ», nimmāna (Nimmānaratī keeps the name), para (Paranimmitavasavattī keeps the name); pi-1 kept pairs dhajo / ketu «အလံ» (ketukamyatā «အလံ ထူလိုခြင်း»), pārisuddhi «စင်ကြယ်သော» (pi-1 pārisuddhiṃ), āpo / udakāni «ရေ», vāyo / vātā «လေ», cetaso / citta «စိတ်» (pi-1 practice).
+# Review fix A8 / B2, user-approved 2026-11-18 (review/report-A.md A8, report-B.md B2): A8 maccu is plain "death", not the god of death «သေမင်း» (jarāmaraṇa list ^2-193, ^2-236; kept distinct from maraṇa «သေခြင်း» and kālakiriyā «ကွယ်လွန်ခြင်း»); B2 siṅga = putting on airs, affectation (its own definition: cāturatā, parikkhattatā), not bragging «ကြွားလုံး ထုတ်»; siṅgaṃ «ဟန်လုပ်မှု» (no own entry; rails fix).
+maccu|0	သေဆုံးခြင်း	user-approved review fix A8 2026-11-18: plain death, not personified «သေမင်း»; distinct from maraṇa «သေခြင်း» and kālakiriyā «ကွယ်လွန်ခြင်း»
+siṅgāratā|0	ဟန်လုပ်ခြင်း	user-approved review fix B2 2026-11-18: affectation, putting on airs (cāturatā, parikkhattatā), not bragging; siṅgaṃ «ဟန်လုပ်မှု»
+# Review fix B2 (completion) and B1, user-approved 2026-11-18 (review/fix-notes.md): Siṅgaṃ has its own entry (the earlier note "no own entry" was wrong) = «ဟန်လုပ်မှု», as approved with B2; B1 needs no decision here: new single-candidate "path" senses sevanā|1 «မှီဝဲခြင်း», nisevanā|1 «နီးကပ်စွာ မှီဝဲခြင်း» and taṃsampavaṅkatā «ထိုလမ်းမှားဘက်သို့ ညွတ်ကိုင်းခြင်း» come from the senses file (mapping ^2-U30 revised, user-approved).
+Siṅgaṃ|0	ဟန်လုပ်မှု	user-approved review fix B2 2026-11-18: affectation, putting on airs; pairs with siṅgāratā «ဟန်လုပ်ခြင်း»

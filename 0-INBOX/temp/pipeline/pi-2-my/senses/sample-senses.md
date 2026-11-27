@@ -1,0 +1,82 @@
+Abhidhamma: {the higher teaching, first member of the Piṭaka name: အဘိဓမ္မာ}
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+Vibhaṅga: {the Analysis, name of the second Abhidhamma book (heading member): ခွဲခြမ်းစိတ်ဖြာခြင်း}
+Vibhaṅgapāḷi: {the Vibhaṅga text, title of the second Abhidhamma book (heading): ခွဲခြမ်းစိတ်ဖြာခြင်း}
+khandho: {aggregate, group of phenomena (nominative sg.): အစုအဝေး}
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.): သိစိတ် အစုအဝေး}
+vedanākkhandho: {the aggregate of feeling (nominative sg.): ခံစားမှု အစုအဝေး}
+rūpakkhandho: {the aggregate of material form (nominative sg.): ရုပ် အစုအဝေး}
+saṅkhārakkhandho: {the aggregate of mental formations (nominative sg.): ပြုပြင်ဖန်တီးမှု အစုအဝေး}
+saññākkhandho: {the aggregate of perception (nominative sg.): မှတ်သိမှု အစုအဝေး}
+khandhā: {aggregates, groups of phenomena (nominative pl.): အစုအဝေး}
+viññāṇa: {consciousness (stem and compound member): သိစိတ်}
+vedanā: {feeling, the affective tone of experience (nominative sg.): ခံစားမှု}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter: သိမ်မွေ့သော ရုပ်; visible form, the object of the eye (compound member, as in rūpārammaṇa): အဆင်းအရောင်; matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha), also the material side of nāmarūpa (in nāmarūpapaccayā): ရုပ် / ရုပ်ပိုင်း}
+saṅkhāra: {mental formations, volitional activities (compound member, in saṅkhārakkhandha), the same value also naming the formation of striving, in padhānasaṅkhāra of the bases of power: ပြုပြင်ဖန်တီးမှု}
+saññā: {perception, recognition (nominative sg.): မှတ်သိမှု}
+Khandha: {stem, trunk of a plant, in khandharaso (compound member): ပင်စည်; aggregate, group of phenomena, in khandhadhātuāyatanā (compound member): အစုအဝေး}
+vibhaṅgo: {analysis, the chapter title word, as in Khandhavibhaṅgo (heading): ခွဲခြမ်းစိတ်ဖြာခြင်း}
+bhājanīyaṃ: {analysis, exposition (heading): ခွဲခြမ်း ဖော်ပြချက်}
+Suttanta: {the discourses, in Suttantabhājanīya 'exposition by the discourse method' (heading member): သုတ္တန်}
+Pañhā: {questions, in Pañhāpucchaka (heading member): မေးခွန်း}
+Pañhāpucchakaṃ: {the question-and-answer section of each chapter (heading): မေးခွန်းများဖြင့် ဖော်ပြချက်}
+Tikaṃ: {the classification by threes, the triads (heading): သုံးမျိုးတွဲ}
+Dukaṃ: {the classification by twos (heading): နှစ်မျိုးတွဲ}
+vuccati rūpakkhandho: {'is called the aggregate of material form', the closing formula: ရုပ် အစုအဝေးဟု ခေါ်သည်}
+oḷārikaṃ: {gross, coarse, of matter (neuter sg.): ရုန့်ရင်းသော}
+rūpaṃ: {matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ် / ရုပ်ပိုင်း; visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင်; of such a nature, in piyarūpaṃ sātarūpaṃ 'what is dear and pleasing' (compound final): သဘော ရှိသော / သဘော}
+abhisaññūhitvā: {having gathered together, collecting into one (absolutive): ပေါင်းစု၍}
+abhisaṅkhipitvā: {having condensed, summing up in brief (absolutive): အကျဉ်းချုံ့၍}
+hīnaṃ: {inferior, low (neuter sg.): ယုတ်ညံ့သော}
+sukhumaṃ: {subtle, fine, of matter (neuter sg.): နုညံ့သော}
+paṇītaṃ: {superior, refined (neuter sg.): မွန်မြတ်သော}
+Tattha: {therein, in that connection, opening a definition (locative): ထိုတို့အနက်; in that, in the case just described, in 'yā tattha paññā' 'the understanding therein' (locative): ထို၌}
+tadekajjhaṃ: {all of that taken together as one lump (adverb): ထိုအားလုံးကို တစ်စုတည်း}
+Yaṃ kiñci: {anything at all, whatever (relative-indefinite pronoun, neuter): မည်သည့် … မဆို}
+Āyatana: {sense bases, the sense fields (compound member): အာရုံခံ နယ်ပယ်; sphere, in the names of the immaterial attainments such as ākāsānañcāyatana (compound final): နယ်ပယ်}
+pātubhūtaṃ: {become manifest, appeared (neuter sg. participle): ထင်ရှားလာပြီးသော}
+uppannaṃ: {come into being (neuter sg. participle): ဖြစ်ပေါ်ပြီးသော}
+uppajjitvā: {having arisen (absolutive): ဖြစ်ပေါ်ပြီး}
+atītaṃsena: {by way of the past portion, as belonging to the past (instrumental): အတိတ် အပိုင်း}
+jātaṃ: {born, come to be, also in sahajātaṃ 'born together' (neuter sg. participle): ဖြစ်ပေါ်သော / မွေးဖွားပြီးသော}
+abhinibbattaṃ: {brought fully into being (neuter sg. participle): ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော}
+vuccati: {is called, is termed, in the definition formula (3rd sg. present): ခေါ်သည်}
+anāgataṃ: {future, not yet come (neuter sg. adjective): အနာဂတ်}
+atītaṃ: {past, gone by (neuter sg. adjective): အတိတ်}
+paccuppannaṃ: {present, arisen now (neuter sg. adjective): ပစ္စုပ္ပန်}
+niruddhaṃ: {stopped, ended (neuter sg. participle): ချုပ်ငြိမ်းပြီးသော}
+vipariṇataṃ: {altered, transformed (neuter sg. participle): ဖောက်ပြန် ပြောင်းလဲပြီးသော}
+abbhatthaṅgataṃ: {gone down entirely, vanished (neuter sg. participle): လုံးဝ ကွယ်ပျောက်ပြီးသော}
+saṅgahitaṃ: {included, classified under (neuter sg. participle): အကျုံးဝင်သော}
+atītaṃsena saṅgahitaṃ: {'included in the past portion', said of past matter (phrase): အတိတ် အပိုင်း၌ အကျုံးဝင်သော}
+upādāya: {derived from, depending on the great elements, as in upādāya rūpaṃ (absolutive), the same value also naming 'with reference to', in ajjhattikassa upādāya and 'hetū paccayā upādāya': မှီ၍}
+vigataṃ: {departed, gone away (neuter sg. participle): ကင်းပျောက်ပြီးသော}
+bhūtā: {the great elements, primary matter, in mahābhūtā (nominative pl.): မူလဓာတ်}
+uṭṭhitaṃ: {risen up, emerged (neuter sg. participle): ထပေါ်ပြီးသော}
+upādāyarūpaṃ: {derived matter, matter dependent on the great elements (nominative sg.): မှီ၍ ဖြစ်သော ရုပ်}
+rūpaṃ anāgataṃ: {future matter, in the past, future and present classification (phrase): အနာဂတ် ရုပ်}
+mahābhūtā: {the four great elements, primary matter (nominative pl.): မူလဓာတ်ကြီး}
+rūpaṃ atītaṃ: {past matter, in the past, future and present classification (phrase): အတိတ် ရုပ်}
+rūpaṃ paccuppannaṃ: {present matter, in the past, future and present classification (phrase): ပစ္စုပ္ပန် ရုပ်}
+nibbattaṃ: {produced, brought into being (neuter sg. participle): ပေါ်ထွက်ပြီးသော}
+samuṭṭhitaṃ: {originated, risen up fully (neuter sg. participle): ကောင်းစွာ ထပေါ်ပြီးသော}
+Dhātu: {element, irreducible constituent (stem and compound final): ဓာတ်; realm, plane of existence, in kāmadhātu, rūpadhātu and arūpadhātu (compound final): ဘုံ}
+pāṭipuggalikaṃ: {belonging privately to each person, individual (neuter sg. adjective): ပုဂ္ဂိုလ်တစ်ဦးချင်းစီ၏ ဖြစ်သော}
+ajjhattaṃ: {internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၏ အတွင်း၌ ဖြစ်သော / မိမိ၌; internal, one's own as opposed to others' (internal and external pair): မိမိ၌ ရှိသော}
+parapuggalānaṃ: {of other persons (genitive pl.): အခြား ပုဂ္ဂိုလ်}
+paccattaṃ: {individually, one's own (adverb): ကိုယ်စီ ဖြစ်သော}
+Sacca: {the truths, in saccānulomikañāṇa 'knowledge in conformity with the truths' (compound member): သစ္စာ}
+Dukkha: {painful, hard, as in dukkhapaṭipadā 'painful practice' (compound member): ခက်ခဲသော; pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa): နာကျင်သော / နာကျင်မှု / ကိုယ်ဆင်းရဲခြင်း; suffering, the whole of what is unsatisfactory, in dukkhamūla and dukkhakkhandha (compound member): ဒုက္ခ; misery, affliction in the everyday sense, in dukkhadhammena phuṭṭhassa 'touched by some painful thing' and sukhadukkha 'pleasure and pain' of the views (compound member): ဆင်းရဲ}
+saccaṃ: {truth, a noble truth (accusative sg.): သစ္စာ}
+Dukkhasaccaṃ: {the noble truth of suffering, the first truth (nominative sg.): ဒုက္ခ သစ္စာ}
+Samudaya: {origin, arising of suffering, the second truth (compound member): ဖြစ်ပေါ်ခြင်း}
+Magga: {the path (stem and heading): မဂ်; way, road, in kummagga 'wrong way' (compound member): လမ်း}
+rūpaṃ oḷārikaṃ: {gross matter, in the gross and subtle pair (phrase): ရုန့်ရင်းသော ရုပ်}
+Cakkhāyatanaṃ: {the eye sense base (nominative sg.): မျက်စိ အာရုံခံ နယ်ပယ်}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya): စွမ်းရည်}
+Itthindriyaṃ: {the controlling faculty of femininity (nominative sg.): မိန်းမ၏ စွမ်းရည်}
+āhāro: {nutriment, a sustaining condition of mind (contact, volition, consciousness), also edible food as nutriment, in kabaḷīkāro āhāro and the four nutriments: အာဟာရ; food, what is eaten, in evamāhāro 'having such food' of the past-lives formula (compound final): အစာ}
+kabaḷīkāro: {made into mouthfuls, edible (masculine sg.): လုတ်ပြု၍ စားရသော}
+āyatanaṃ: {sense base, the sense field (nominative/accusative sg.): အာရုံခံ နယ်ပယ်; sphere, in the names of the immaterial attainments such as ākāsānañcāyatanaṃ (compound final): နယ်ပယ်}
+rūpaṃ sukhumaṃ: {subtle matter, in the gross and subtle pair (phrase): နုညံ့သော ရုပ်}
+phoṭṭhabbāyatanaṃ: {the tangible sense base, base of the touchable (nominative sg.): အထိအတွေ့ အာရုံခံ နယ်ပယ်}

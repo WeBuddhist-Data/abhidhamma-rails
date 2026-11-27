@@ -1,0 +1,4705 @@
+Pāli keys in the tables: 15277 | with more than one Burmese: 1101 | kept (sense / grammar): 0
+
+"
+   “   <- ch2-4:G.QOPEN
+   ”   <- ch2-4:G.QCLOSE
+
+?
+   ရင်းမြစ် မသေချာ   <- ch2-4:G.SIG
+   အမည်မသိ မူ   <- ch17:G.SIG
+
+Abhidhammabhājanīyaṃ
+   အဘိဓမ္မာအလိုက် ခွဲခြမ်း ဖော်ပြချက်   <- ch12-14:F.COLO, ch12-14:F.HEAD, ch12-14:G.COLO, ch12-14:G.HEAD_ALL, ch15-16:F.COLO, ch15-16:F.HEAD, ch15-16:G.COLO, ch15-16:G.HEAD, ch17:F.COLO, ch17:F.HEAD, ch18:F.COLO, ch18:F.HEAD, ch2-4:F.COLO, ch2-4:F.HEAD, ch5-7-11
+   abh   <- ch12-14:F.PART, ch15-16:F.PART, ch17:F.PART, ch18:F.PART, ch2-4:F.PART, ch5-7-11:F.PART, ch6:F.PART, ch6:G.PART, sample:F.PART
+
+Abhidhammapiṭake
+   အဘိဓမ္မာပိဋကတွင်   <- ch12-14:G.HEAD1, ch12-14:G.HEAD_ALL
+   အဘိဓမ္မာပိဋက   <- ch17:G.TB
+
+Abyākatavipāko
+   ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရား   <- ch12-14:G.HEAD1, ch12-14:G.HEAD_ALL
+   ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကံ၏ အကျိုး   <- ch17:G.TB
+
+Appamāṇāni
+   အတိုင်းအဆ မရှိသော လွှမ်းမိုးရာ နယ်ပယ်များ   <- ch12-14:G.HEAD1, ch12-14:G.HEAD_ALL
+   အတိုင်းအဆ မရှိသော   <- ch17:G.TB
+
+Appaṇihitaṃ
+   တောင့်တမှု မရှိသော ဈာန်   <- ch12-14:G.HEAD1, ch12-14:G.HEAD_ALL
+   တောင့်တမှု မရှိသော   <- ch17:G.TB
+
+Catukka
+   ဈာန် လေးပါး   <- ch17:G.TB
+   လေး   <- ch17:G.NUMK
+
+Duka
+   နှစ်မျိုးတွဲ   <- ch17:G.TB
+   နှစ်   <- ch17:G.NUMK
+
+Pañcaka
+   ဈာန် ငါးပါး   <- ch17:G.TB
+   ငါး   <- ch17:G.NUMK
+
+Pañhāpucchakaṃ
+   မေးခွန်းများဖြင့် ဖော်ပြချက်   <- ch12-14:F.COLO, ch12-14:F.HEAD, ch12-14:G.COLO, ch12-14:G.HEAD_ALL, ch15-16:F.COLO, ch15-16:F.HEAD, ch15-16:G.COLO, ch15-16:G.HEAD, ch17:F.COLO, ch17:F.HEAD, ch18:F.COLO, ch18:F.HEAD, ch2-4:F.COLO, ch2-4:F.HEAD, ch5-7-11
+   pan   <- ch12-14:F.PART, ch15-16:F.PART, ch17:F.PART, ch18:F.PART, ch2-4:F.PART, ch5-7-11:F.PART, ch6:F.PART, sample:F.PART
+
+Satta bojjhaṅgā
+   ဗောဇ္ဈင် ခုနစ်ပါး   <- ch5-7-11:G.GROUPS
+   ဗောဇ္ဈင် ခုနစ်ပါး – သတိ ဗောဇ္ဈင်၊ သဘောတရားများကို စိစစ်ခြင်း ဗောဇ္ဈင်၊ ဝီရိယ ဗောဇ္ဈင်၊ ပီတိ ဗောဇ္ဈင်၊ ငြိမ်းအေးခြင်း ဗော   <- ch12-14:G.SENT
+
+Satthari
+   ဘုရားရှင်   <- ch17:G.TB
+   ဘုရားရှင်အပေါ်   <- ch17:G.KV_OBJ
+
+Suttantabhājanīyaṃ
+   သုတ္တန်အလိုက် ခွဲခြမ်း ဖော်ပြချက်   <- ch12-14:F.COLO, ch12-14:F.HEAD, ch12-14:G.COLO, ch12-14:G.HEAD_ALL, ch15-16:F.COLO, ch15-16:F.HEAD, ch15-16:G.COLO, ch15-16:G.HEAD, ch17:F.COLO, ch17:F.HEAD, ch18:F.COLO, ch18:F.HEAD, ch2-4:F.COLO, ch2-4:F.HEAD, ch5-7-11
+   sut   <- ch12-14:F.PART, ch15-16:F.PART, ch17:F.PART, ch18:F.PART, ch2-4:F.PART, ch5-7-11:F.PART, ch6:F.PART, ch6:G.PART, sample:F.PART
+
+Suññataṃ
+   ဆိတ်သုဉ်းသော ဈာန်   <- ch12-14:G.HEAD1, ch12-14:G.HEAD_ALL
+   ဆိတ်သုဉ်းသော   <- ch17:G.TB
+
+abahulīkammaṃ
+   အဖန်ဖန် မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+abbhatthaṅgat
+   လုံးဝ ကွယ်ပျောက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+abbhatthaṅgatā
+   လုံးဝ ကွယ်ပျောက်သွား   <- ch12-14:G.SANTA_MY
+   လုံးဝ ကွယ်ပျောက်ပြီးသော   <- ch17:G.TB
+
+abhijappā
+   ထူးထူးခြားခြား တမ်းတခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+abhijjhā
+   သူ့ဥစ္စာကို လိုချင်ခြင်း   <- ch12-14:G.NOUNS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch2-4:G.P1TANHA, ch5-7-11:G.NAME, ch5-7-11:G.NEWLOG
+   pi-1   <- ch17:G.ITEM_SRC
+
+abhinibbatt
+   ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+abhiniveso
+   သက်ဝင်ယုံကြည်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+abhippasādo
+   ကြည်ညိုလေးစားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+abhāvanā
+   မပွားများခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+abhūt
+   မဖြစ်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+abyākatahetū
+   ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်   <- ch17:G.TB
+   abyākatahet   <- ch18:G.NOUN_FORMS
+
+abyākatā
+   ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော   <- ch17:G.TB
+
+accāsarā
+   အပြစ်ကို ကျော်လွှားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+acittīkat
+   အလေးမထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+acittīkāro
+   အလေးမထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+adassanakamyatā
+   မဖူးမြင်လိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+adassanaṃ
+   မမြင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+adaṭṭhukamyatā
+   မတွေ့မြင်လိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+adhammarāgo
+   မတရားသော ရာဂ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+adhimokkha
+   ဆုံးဖြတ်မှု   <- ch6:G.FACT
+   ဆုံးဖြတ်ချက်   <- ch18:G.NANATTA
+
+adhivacanā
+   အမည်ခေါ်ဝေါ်မှု ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   အမည်ခေါ်ဝေါ်မှု   <- ch17:G.TB
+
+adhāraṇatā
+   စွဲမှတ် မထားခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+adhāretukamyatā
+   မဆောင်ထားလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+adinnādānā
+   မပေးသည်ကို ယူခြင်းမှ   <- ch2-4:G.ABST
+   မပေးသောအရာကို ယူခြင်း   <- ch12-14:G.ABST
+
+adinnādānā ārati
+   မပေးသောအရာကို ယူခြင်းမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   new (pi-1 virati list)   <- ch12-14:G.ITEM_SRC
+
+adoso
+   ဒေါသ မရှိခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:G.PH, ch5-7-11:G.ROOTS, ch6:G.ITEM6
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+adukkhamasukhaṃ vedanaṃ
+   မနာကျင် မသာယာသော ခံစားမှုကို   <- ch5-7-11:G.PH
+   မနာကျင် မသာယာသော ခံစားမှု   <- ch12-14:G.ETTHA_OBJ
+
+adussanā
+   စိတ်မဆိုးခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+adussitattaṃ
+   စိတ်မဆိုးသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+agati
+   အဂတိ   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+agatigamanaṃ
+   အဂတိ လိုက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+aggahitattaṃ cittassa
+   စိတ်၏ တင်းတင်း ဆုပ်ကိုင်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+aghagataṃ
+   ဗလာ သဘော ရှိသောအရာ   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+aghaṃ
+   ဗလာ   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+agopanā
+   မကာကွယ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+agutti
+   မစောင့်ထိန်းခြင်း   <- ch17:G.TB
+   ဤ အာရုံခံ အင်္ဂါ ခြောက်ပါးတို့၏ မစောင့်ထိန်းခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+agāravatā
+   ရိုသေမှု မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ahīḷit
+   မကဲ့ရဲ့ထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+ajjhatt
+   မိမိ၏ အတွင်း၌ ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1050   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+ajjhatta
+   မိမိ၌ ရှိသော   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   မိမိ၌ ရှိသည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   မိမိ၌ ရှိ   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+
+ajjhattaṃ
+   ajjhatta   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   မိမိ၏ အတွင်း၌ ဖြစ်သော   <- ch2-4:G.EQ
+   မိမိ၌ ရှိသော   <- ch5-7-11:G.QA
+   မိမိ၌   <- ch12-14:G.LEM, ch17:G.TB
+
+ajjhattā
+   မိမိ၌ ရှိသော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   ajjhatta   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+ajjhosānaṃ
+   နစ်မွန်းခြင်း   <- ch17:G.ITEMS, ch17:G.T9
+   pi-1   <- ch17:G.ITEM_SRC
+
+ajjhupekkhanā
+   ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch12-14:G.ITEM_SRC, ch5-7-11:G.SYN_SRC
+   အလွန် တည်ငြိမ်စွာ ရှုခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+
+ajāt
+   မမွေးဖွားသေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+akammaññatā
+   အသုံးပြုရန် မသင့်တော်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+akant
+   ချစ်ခင်ဖွယ် မကောင်းသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+akappiye kappiyasaññitā
+   မအပ်စပ်သည်၌ အပ်စပ်သည်ဟု မှတ်ထင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+akaraṇaṃ
+   မပြုလုပ်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+akiriyā
+   မပြုခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+akkhamanatā
+   မသည်းခံနိုင်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+akkhanti
+   မသည်းခံခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+akkosanā
+   ဆဲရေးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+akusalahetū
+   အကုသိုလ် အမြစ်   <- ch17:G.TB
+   akusalahet   <- ch18:G.NOUN_FORMS
+
+akusalamūlaṃ
+   အကုသိုလ်၏ အမြစ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+amaddavatā
+   မနူးညံ့သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+amanāp
+   စိတ်နှင့် မတွေ့သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+amattaññutā
+   အတိုင်းအရှည်ကို မသိခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+amoho
+   မောဟ မရှိခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:G.PH, ch5-7-11:G.ROOTS, ch5-7-11:G.SYN2, ch6:G.ITEM6
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+amudutā
+   မနူးညံ့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anabhinibbatt
+   ထင်ရှားစွာ မပေါ်ထွက်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anabhippasādo
+   ကြည်ညိုလေးစားခြင်း မရှိခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anabhiramaṇā
+   မပျော်မွေ့နေခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anabhirati
+   မပျော်မွေ့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anabhisamayo
+   ထင်ထင်ရှားရှား မသိမြင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+anaddā
+   အလေးဂရု မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anaddāyanā
+   အလေးဂရု မပြုနေခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anaddāyitattaṃ
+   အလေးဂရု မပြုထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anadhivāsanatā
+   သည်းမခံနိုင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anadhiṭṭhānaṃ
+   မဆောက်တည်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anajjavatā
+   မဖြောင့်မတ်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anajjavo
+   မဖြောင့်မတ်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+anajjhāpatti
+   မကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ananubodho
+   လိုက်၍ မနားလည်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ananussati
+   အဖန်ဖန် မအောက်မေ့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ananuyogo
+   အားမထုတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anattamanatā cittassa
+   စိတ်၏ မနှစ်သိမ့်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+anavaññāt
+   လျစ်လျူ မရှုထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anavaññātaṃ
+   လျစ်လျူ မရှုထားသော   <- ch12-14:F._NEW_DEF, ch15-16:F._NEW_DEF, ch17:F._NEW_DEF, ch18:F._NEW_DEF, ch2-4:F._NEW_DEF, ch5-7-11:F._NEW_DEF, ch6:F._NEW_DEF, sample:F._NEW_DEF
+   anavaññāta   <- ch17:G.MADA_ACC
+
+anaṭṭhitakiriyatā
+   တည်တံ့စွာ မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anekaṃsaggāho
+   တစ်ထစ်ချ မယူနိုင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+anibbatt
+   မပေါ်ထွက်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anikkhittachandatā
+   ဆန္ဒကို လက်မလွှတ်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+anikkhittadhuratā
+   ဝန်ကို မချထားခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+aniṭṭh
+   လိုလားဖွယ် မကောင်းသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anokappanā
+   သက်ဝင်၍ မယုံကြည်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+antavā loko
+   လောကသည် အဆုံး ရှိသည်   <- ch15-16:G.VIEW
+   လောကသည် အဆုံး ရှိ၏   <- ch17:G.VIEW
+
+antosamorodho
+   အတွင်း၌ ပိတ်ဆို့ခံရခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+anucāro
+   လိုက်၍ သုံးသပ်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+anuggahetukamyatā
+   မသင်ယူလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anunayo
+   လိုက်လျောခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+anupakaṭṭhe
+   အနားမကပ်သော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anupekkhanatā
+   အာရုံကို စေ့စေ့ ရှုကြည့်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+anuppabandhanā
+   ရန်ငြိုးကို ဆက်တိုက် ဖွဲ့ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anuppann
+   မဖြစ်ပေါ်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anuppiyabhāṇitā
+   နားဝင်ချိုအောင် ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anupārambhanā
+   အဖန်ဖန် အပြစ်ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anupārambhitattaṃ
+   အဖန်ဖန် အပြစ်ရှာထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anupārambho
+   အဖန်ဖန် အပြစ်ရှာမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anurodho
+   သဘောတူ လိုက်ပါခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+anusayo
+   ကိန်းအောင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+anusaṃsandanā
+   ရန်ငြိုးကို ဆက်စပ်ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anussati
+   အဖန်ဖန် အောက်မေ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+anuttānīkammaṃ
+   ထင်ရှားအောင် မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anuvicāro
+   ထပ်ကာထပ်ကာ သုံးသပ်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+anuññāt
+   အထင်မသေးထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anuṭṭhit
+   မထပေါ်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anādaratā
+   မလေးစားသော အဖြစ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+anādariyatā
+   မလေးစားသော သဘော   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anādariyaṃ
+   မလေးစားခြင်း   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+anāgat
+   အနာဂတ် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anāgata
+   အနာဂတ်   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   အနာဂတ်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+
+anāgataṃsena saṅgahit
+   အနာဂတ် အပိုင်း၌ အကျုံးဝင်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anāgatā
+   အနာဂတ်   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch17:G.TB, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   anāgata   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+anārakkho
+   မစောင့်ရှောက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+anāsanne
+   မနီးကပ်သော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+anāsevanā
+   မမှီဝဲခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anāvaṭṭanā
+   အဖန်ဖန် လှည့်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+anāvikammaṃ
+   ပေါ်လွင်အောင် မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+apaccakkhakammaṃ
+   ကိုယ်တိုင် ထင်ထင်ရှားရှား မပြုခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+apaccavekkhaṇā
+   ပြန်လည် မဆင်ခြင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+aparibhūt
+   မစော်ကားထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+apariyogāhanā
+   နက်နက်နဲနဲ မသက်ဝင်နိုင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+apariyogāhaṇā
+   နက်နက်နဲနဲ မသက်ဝင်နိုင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+apekkhā
+   ငဲ့ကွက်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+apilāpanatā
+   အပေါ်ယံ မပေါ်လောခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+appanigghosaṃ
+   ဆူညံသံ နည်းသော   <- ch12-14:G.LEM
+   ဆူညံသံ နည်း   <- ch12-14:G.QUIET
+
+appanā
+   အာရုံ၌ စိတ်ကို သွင်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+appasaddaṃ
+   အသံ နည်းသော   <- ch12-14:G.LEM
+   အသံ နည်း   <- ch12-14:G.QUIET
+
+appatissavatā
+   နာခံမှု မရှိခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   appaṭissavatā   <- ch17:G.TWIN
+
+appaṭinissaggo
+   မစွန့်လွှတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+appaṭisaṅkhā bhojane
+   အစားအစာ၌ ပြန်လည် မဆင်ခြင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+appaṭissati
+   ပြန်လည် မအောက်မေ့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+appaṭissavatā
+   နာခံမှု မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+appaṭivedho
+   ထိုးဖောက်၍ မသိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+apātubhūt
+   ထင်ရှား မလာသေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+arati
+   မမွေ့လျော်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+aratitā
+   မမွေ့လျော်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+arūpataṇhā
+   ရုပ်မရှိသော ဘဝကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+asakhilavācatā
+   စကား မချိုမြိန်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asakkaccakiriyatā
+   ရိုရိုသေသေ မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asamapekkhanā
+   ညီညီညွတ်ညွတ် မရှုမြင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+asambodho
+   ကောင်းစွာ မနားလည်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+asametukamyatā
+   မဆုံလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asammusanatā
+   မမေ့လျော့ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+asammussanatā
+   မမေ့လျော့ခြင်း   <- ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+
+asampajaññaṃ
+   ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+asamphuṭṭhaṃ catūhi mahābhūtehi
+   မူလဓာတ်ကြီး လေးပါးနှင့် မထိတွေ့သောအရာ   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+asamuppann
+   မဖြစ်ပေါ်လာသေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+asamuṭṭhit
+   ကောင်းစွာ မထပေါ်သေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+asamāgantukamyatā
+   မပေါင်းဆုံလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asantike
+   အနီး၌ မရှိသော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+asantuṭṭhitā
+   ရောင့်ရဲမှု မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+asaraṇatā
+   မမှတ်မိခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+asassato loko
+   လောကသည် ထာဝရ မတည်မြဲ   <- ch15-16:G.VIEW
+   လောကသည် မမြဲ   <- ch17:G.VIEW
+
+asati
+   သတိ မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+asavanakamyatā
+   နားမထောင်လိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asañjāt
+   ကောင်းစွာ မမွေးဖွားသေးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1045   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+asaṃgāhanā
+   စုစည်း၍ မယူနိုင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+asaṃvaro
+   မစောင့်စည်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+asaṇhavācatā
+   စကား မပြေပြစ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asithilaparakkamatā
+   မလျော့ရဲဘဲ ကြိုးစားခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+asotukamyatā
+   မနာကြားလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+assaddahanā
+   မယုံကြည်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+assaddhiyaṃ
+   ယုံကြည်မှု မရှိခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+assaraṇatā
+   မမှတ်မိခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   asaraṇatā   <- ch17:G.TWIN
+
+assati
+   သတိ မရှိခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   asati   <- ch17:G.TWIN
+
+asuropo
+   စကား ကြမ်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+asātaccakiriyatā
+   ထပ်ကာထပ်ကာ မပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+asīlyaṃ
+   ယဉ်ကျေးသော အလေ့ မရှိခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+atricchatā
+   အလွန်အကျွံ လိုချင်ခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+attamanatā cittassa
+   စိတ်၏ နှစ်သိမ့်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+attaparibhavo
+   မိမိကိုယ်ကို စော်ကားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+attavaññā
+   မိမိကိုယ်ကို လျစ်လျူရှုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+atthaṅgat
+   ကွယ်ပျောက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+attuññā
+   မိမိကိုယ်ကို အထင်သေးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+attā
+   အတ္တ   <- ch17:G.TB
+   အတ္တ ဖြစ်၏   <- ch17:G.VIEW
+
+atīt
+   အတိတ် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+atīta
+   အတိတ်   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   အတိတ်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+
+atītaṃsena saṅgahit
+   အတိတ် အပိုင်း၌ အကျုံးဝင်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+atītā
+   အတိတ်   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch17:G.TB, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   atīta   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+avajje vajjasaññitā
+   အပြစ်မရှိသည်၌ အပြစ်ရှိသည်ဟု မှတ်ထင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+avaññā
+   လျစ်လျူရှုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+avaññāt
+   လျစ်လျူရှုထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+avaṇṇahārikā
+   ကဲ့ရဲ့ သတင်း ဆောင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+avaṭṭhiti
+   ခိုင်မြဲစွာ တည်တံ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+avidūre
+   မဝေးလှသော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+avijjogho
+   အမှန်ကို မသိမှု ရေအလျဉ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+avijjā
+   အမှန်ကို မသိမှု   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch6:G.FACT, ch6:G.NOUN6
+   avijjā   <- ch15-16:G.CAUSE, ch6:G.NOM
+   pi-1   <- ch17:G.ITEM_SRC
+
+avijjālaṅgī
+   အမှန်ကို မသိမှု တံခါးကန့်လန့်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+avijjānusayo
+   အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+avijjāpariyuṭṭhānaṃ
+   အမှန်ကို မသိမှု ထကြွခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+avijjāya
+   avijjā   <- ch15-16:G.LOCG
+   အမှန်ကို မသိမှု   <- ch17:G.TB
+
+avijjāyogo
+   အမှန်ကို မသိမှု ထမ်းပိုး   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+avikkhepo
+   စိတ် မပျံ့လွင့်ခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+avisāhaṭamānasatā
+   စိတ် မပြန့်ကျဲသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+avisāhāro
+   မပြန့်ကျဲခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+avūpasamo
+   မငြိမ်ဝပ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+aññaṃ jīvaṃ aññaṃ sarīraṃ
+   အသက်နှင့် ကိုယ်ခန္ဓာသည် တခြားစီ ဖြစ်သည်   <- ch15-16:G.VIEW
+   အသက်ကောင်သည် တစ်ခြား၊ ကိုယ်ခန္ဓာသည် တစ်ခြား   <- ch17:G.VIEW
+
+aññāṇaṃ
+   မသိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+aṭṭhapanā
+   ခိုင်ခိုင်မြဲမြဲ တည်ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bahiddhā
+   မိမိ၏ ပြင်ပ၌ ရှိသော   <- ch12-14:F.Q11A, ch12-14:F.T, ch12-14:G.T, ch15-16:F.Q11A, ch15-16:F.T, ch15-16:G.T, ch17:F.Q11A, ch17:F.T, ch17:G.T, ch18:F.Q11A, ch18:F.T, ch18:G.T, ch2-4:F.Q11A, ch2-4:F.T, ch2-4:G.EQ, ch2-4:G.T, ch5-7-11:F.Q11A, ch5-7
+   မိမိ၏ ပြင်ပ၌ ရှိသည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   မိမိ၏ ပြင်ပ၌ ရှိ   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+   bahiddhā   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   အပြင်ဘက်   <- ch17:G.TB
+
+balāni
+   စွမ်းအားများ   <- ch15-16:G.FACT
+   စွမ်းအား   <- ch17:G.TB
+
+bandhanaṃ
+   အချည်အနှောင်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhajanā
+   ဆည်းကပ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhantattaṃ cittassa
+   စိတ်၏ ယိမ်းထိုးနေသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+bhattakilamatho
+   အစာကြောင့် ပင်ပန်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhattapariḷāho
+   အစာကြောင့် ပူလောင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhatti
+   ကိုးကွယ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhava
+   ဘဝ   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.TB, ch6:G.FACT
+   bhava   <- ch15-16:G.CAUSE
+
+bhavacchando
+   ဘဝကို လိုလားမှု   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   bhavachando   <- ch17:G.TWIN
+
+bhavachando
+   ဘဝကို လိုလားမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavajjhosānaṃ
+   ဘဝ၌ နစ်မွန်းမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavamucchā
+   ဘဝ၌ မိန်းမောမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavanandī
+   ဘဝကို နှစ်သက်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavanetti
+   ဘဝသို့ ဆွဲဆောင်သော ကြိုး   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavapariḷāho
+   ဘဝကြောင့် ပူလောင်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavarāgo
+   ဘဝရာဂ   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavasineho
+   ဘဝကို ချစ်ခင်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavataṇhā
+   ဘဝကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA
+   pi-1   <- ch17:G.ITEM_SRC
+
+bhavo
+   bhava   <- ch15-16:G.RES, ch6:G.NOM
+   ဘဝ   <- ch17:G.TB
+
+bhayaṃ
+   ဘေး   <- ch17:G.TB
+   ကြောက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhayānakaṃ
+   ကြောက်မက်ဖွယ် ဖြစ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhoga
+   စည်းစိမ်   <- ch2-4:G.BYASANA
+   စည်းစိမ်ဥစ္စာ   <- ch17:G.MADA_BASE
+
+bhuttāvissa bhattamucchā
+   စားပြီးသူ၏ အစာကြောင့် မိန်းမောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhākuṭitā
+   မျက်မှောင် ကြုတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhākuṭiyaṃ
+   မျက်မှောင် ကြုတ်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+bhāveti
+   ကို ပွားများ၏   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.PH
+   ပွားများသည်   <- ch17:G.TB
+
+bhūrī
+   ကျယ်ပြန့်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+bhūrīmedhā
+   ကျယ်ပြန့်သော ဉာဏ်ထက်မြက်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+bhūt
+   ဖြစ်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+byappanā
+   အာရုံ၌ စိတ်ကို နစ်မြုပ်စွာ သွင်းခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+byādhiyakaṃ
+   ဖျားနာသကဲ့သို့ ဖြစ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+byāpajjanā
+   ဖောက်ပြန်နေခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+byāpajjitattaṃ
+   ဖောက်ပြန်ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+byāpatti
+   ဖောက်ပြန်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+byāpādo
+   ဖျက်ဆီးလိုစိတ်   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.NAME, ch17:G.TB
+   new   <- ch12-14:G.ITEM_SRC
+
+bāhiraṃ
+   ပြင်ပ ဖြစ်သော   <- ch2-4:G.EQ
+   ပြင်ပ   <- ch17:G.TB
+
+bālyaṃ
+   မိုက်မဲခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+cakkhu
+   မျက်စိ   <- ch12-14:F.SENSE, ch12-14:F.SRC, ch15-16:F.SENSE, ch15-16:F.SRC, ch17:F.SENSE, ch17:F.SRC, ch17:G.TB, ch18:F.SENSE, ch18:F.SRC, ch18:G.SENSE, ch2-4:F.SENSE, ch2-4:F.SRC, ch5-7-11:F.SENSE, ch5-7-11:F.SRC, ch6:F.SENSE, ch6:
+   မျက်စိ၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   မူလဓာတ်ကြီး လေးပါးကို မှီ၍ ဖြစ်သော အာရုံခံ ကြည်လင်မှု ဖြစ်သည့် မျက်စိ… ဆိတ်သုဉ်းသော ရွာလည်း ဤသည်ပင်   <- ch5-7-11:G._CAK
+   မျက်စိ သိစိတ်   <- ch15-16:G._XV
+
+cakkhuṃ
+   စာလုံးပေါင်းကွဲ   <- ch2-4:G.VKIND
+   မျက်စိ   <- ch17:G.TB, ch2-4:G.SIX, ch2-4:G.TWELVE
+
+capalatā
+   ပေါ့ပျက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+catur
+   catu   <- ch12-14:G.ANGA
+   အင်္ဂါ လေးပါး ရှိသော ဈာန်   <- ch12-14:G.ANGA_MY
+
+catutthaṃ
+   catuttha   <- ch5-7-11:G._JORD
+   စတုတ္ထ   <- ch12-14:G.LEM
+   sukhassa ca pahānā   <- ch17:G._ORDJ
+
+catūhi vacīduccaritehi ārati
+   နှုတ်ဖြင့် ပြုသော ဒုစရိုက် လေးပါးမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+caṇḍikkaṃ
+   ကြမ်းကြုတ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cetanā
+   စေ့ဆော်မှု   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.KATI_NOUN
+   pi-1   <- ch12-14:G.ITEM_SRC
+   cetan   <- ch18:G.NOUN_FORMS
+
+cetasikaṃ asātaṃ
+   စိတ်ပိုင်းဆိုင်ရာ နှစ်သက်ဖွယ် မကောင်းမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetasikaṃ dukkhaṃ
+   စိတ်ပိုင်းဆိုင်ရာ နာကျင်မှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၌ ဖြစ်သော နာကျင်မှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetasikaṃ neva sātaṃ nāsātaṃ
+   စိတ်ပိုင်းဆိုင်ရာ နှစ်သက်ဖွယ်ကောင်းသည်လည်း မဟုတ် နှစ်သက်ဖွယ် မကောင်းသည်လည်း မဟုတ်သော အဖြစ်   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetasikaṃ sukhaṃ
+   စိတ်ပိုင်းဆိုင်ရာ သာယာမှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၌ ဖြစ်သော သာယာမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetasikaṃ sātaṃ
+   စိတ်ပိုင်းဆိုင်ရာ နှစ်သက်ဖွယ်ကောင်းမှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetasiko vīriyārambho
+   စိတ်ပိုင်းဆိုင်ရာ ဝီရိယ စတင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetasikā
+   စိတ်၏ အဖော် ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   စိတ်၏ အဖော်   <- ch17:G.TB
+
+cetaso abhiniropanā
+   စိတ်ကို အာရုံသို့ တင်ပို့ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetaso utrāso
+   စိတ်၏ ထိတ်လန့်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetaso vikkhepo
+   စိတ်၏ ပျံ့လွင့်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cetaso vippaṭisāro
+   စိတ်၏ နောင်တ ရခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetayitattaṃ
+   စေ့ဆော်ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မနာကျင် မသာယာသော ခံစားရခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မနာကျင် မသာယာစွာ ခံစားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ် မကောင်း၍ နာကျင်သော ခံစားရခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မချမ်းသာ နာကျင်စွာ ခံစားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ်ကောင်း၍ သာယာသော ခံစားရခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော ချမ်းသာ သာယာစွာ ခံစားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetosamphassajā adukkhamasukhā vedanā
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မနာကျင် မသာယာသော ခံစားမှု   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   new   <- ch17:G.ITEM_SRC
+
+cetosamphassajā asātā dukkhā vedanā
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ် မကောင်း၍ နာကျင်သော ခံစားမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မချမ်းသာ နာကျင်သော ခံစားမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cetosamphassajā sātā sukhā vedanā
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ်ကောင်း၍ သာယာသော ခံစားမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စိတ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော ချမ်းသာ သာယာသော ခံစားမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+chadanaṃ
+   ဖုံးအုပ်ခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   chādanaṃ   <- ch17:G.TWIN
+
+chambhitattaṃ
+   တောင့်တင်းထားသော အဖြစ်   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   thambhitattaṃ   <- ch17:G.TWIN
+
+chambhitattaṃ cittassa
+   စိတ် တောင့်တင်းနေသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+chandagamanaṃ
+   ဆန္ဒ အဂတိ လိုက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+chandikatā
+   ဆန္ဒ ပြုခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+chando
+   ဆန္ဒ   <- ch5-7-11:G.NAME, ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+   လိုလားမှု   <- ch17:G.TB
+
+chādanaṃ
+   ဖုံးအုပ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+chādanā
+   ဖုံးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cintā
+   စဉ်းစားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+citta
+   စိတ်   <- ch5-7-11:G.CONT, ch5-7-11:G.IDP
+   စိတ်၌   <- ch5-7-11:G.LOCMY
+   cittānupassī   <- ch5-7-11:G.ANUPA
+
+cittasahabhu
+   cittasahabhuno   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG, ch17:F.TERM_IRREG, ch18:F.TERM_IRREG, ch2-4:F.TERM_IRREG, ch5-7-11:F.TERM_IRREG, ch6:F.TERM_IRREG, sample:F.TERM_IRREG
+   စိတ်နှင့်အတူ တည်ရှိသော   <- ch17:G.TB
+
+cittassa akalyatā
+   စိတ်၏ မကျန်းမာခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+cittassa anusandhanatā
+   စိတ်ကို အာရုံနှင့် ဆက်စပ်ထားခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cittassa anusandhānatā
+   စိတ်ကို အာရုံနှင့် ဆက်စပ်ထားခြင်း   <- ch12-14:G.ITEMS
+   pi-1 (spelling)   <- ch12-14:G.ITEM_SRC
+
+cittassa byāpatti
+   စိတ်၏ ဖောက်ပြန်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cittassa sārāgo
+   စိတ်၏ တပ်မက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cittassa uddhaccaṃ
+   စိတ်၏ ယောက်ယက်ခတ်မှု   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cittassa āghāto
+   စိတ်၏ ရန်ငြိုးဖွဲ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+cittassa ṭhiti
+   စိတ်၏ တည်တံ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cittavipariyāso
+   စိတ် ပြောင်းပြန်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cittaṃ
+   cittā   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG, ch17:F.TERM_IRREG, ch18:F.TERM_IRREG, ch2-4:F.TERM_IRREG, ch5-7-11:F.TERM_IRREG, ch6:F.TERM_IRREG, sample:F.TERM_IRREG
+   စိတ်   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   citt   <- ch18:G.NOUN_FORMS
+
+cittā
+   စိတ် ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   စိတ်   <- ch17:G.TB
+   citt   <- ch18:G.NOUN_FORMS
+
+cittāni
+   စိတ်   <- ch17:G.TB, ch18:G.KATI_NOUN
+   citt   <- ch18:G.NOUN_FORMS
+
+cittānuparivatti
+   cittānuparivattino   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG, ch17:F.TERM_IRREG, ch18:F.TERM_IRREG, ch2-4:F.TERM_IRREG, ch5-7-11:F.TERM_IRREG, ch6:F.TERM_IRREG, sample:F.TERM_IRREG
+   စိတ်နောက်သို့ လိုက်ပါသော   <- ch17:G.TB
+
+cittīkat
+   အလေးထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+cuti
+   စုတေခြင်း   <- ch2-4:G.SYN4
+   သေခြင်း   <- ch17:G.TB
+
+cāpalyaṃ
+   ပေါ့ပျက်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+cāro
+   သုံးသပ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+cāturatā
+   လိမ္မာဟန် ပြခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cāturiyaṃ
+   လိမ္မာဟန် ပြသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cāṭukamyatā
+   ဖားယားလိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+cīvaramaṇḍanā
+   သင်္ကန်းကို အလှဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+daḷhīkammaṃ kodhassa
+   အမျက်ဒေါသကို ခိုင်မြဲအောင် ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+dhajo
+   အလံ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dhamma
+   သဘောတရား   <- ch2-4:G.OBJ6, ch5-7-11:G.CONT
+   သဘောတရားတို့၌   <- ch5-7-11:G.LOCMY
+   dhammānupassī   <- ch5-7-11:G.ANUPA
+
+dhammataṇhā
+   သဘောတရားကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+
+dhammavicayasambojjhaṅgo
+   သဘောတရားများကို စိစစ်ခြင်း ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+dhammavicayo
+   သဘောတရားများကို စိစစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+dhamme
+   သဘောတရား   <- ch17:G.TB
+   တရားတော်အပေါ်   <- ch17:G.KV_OBJ
+
+dhammesu
+   dhamma   <- ch5-7-11:G.LOC
+   သဘောတရား   <- ch17:G.O_OF
+
+dhammā
+   သဘောတရား   <- ch17:G.TB, ch2-4:G.SIX, ch2-4:G.TWELVE
+   သဘောတရားများ   <- ch15-16:G.FACT
+
+dhammārammaṇaṃ
+   သဘောတရား   <- ch15-16:G.ARAM
+   သဘောတရားကို အာရုံပြုသော   <- ch17:G.TB
+
+dhammārammaṇā
+   သဘောတရား   <- ch15-16:G.ARAM
+   သဘောတရားကို အာရုံပြုသော   <- ch17:G.TB
+
+dhanāsā
+   ဥစ္စာကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+dhiti
+   ဇွဲ   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+dhurasampaggāho
+   ဝန်ကို ခိုင်မြဲစွာ ထမ်းဆောင်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+dhāraṇatā
+   စွဲမှတ်ထားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+dhātu
+   ဓာတ်တို့   <- ch15-16:G.NANATTA
+   ဓာတ်   <- ch17:G.TB
+
+dhātuyo
+   ဓာတ်များ   <- ch15-16:G.FACT
+   ဓာတ်   <- ch17:G.TB, ch18:G.KATI_NOUN
+   dhāt   <- ch18:G.NOUN_FORMS
+
+dhātūnaṃ
+   ဓာတ်   <- ch17:G.TB
+   dhāt   <- ch18:G.NOUN_FORMS
+
+diṭṭhi
+   အယူ   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch2-4:G.BYASANA
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhigahanaṃ
+   အယူ တောအုပ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhigataṃ
+   အယူမှား   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhikantāro
+   အယူ ကန္တာရ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhisaṃyojanaṃ
+   အယူ နှောင်ကြိုး   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhivipariyāso
+   အယူ ပြောင်းပြန်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+diṭṭhivipphanditaṃ
+   အယူ၏ တုန်လှုပ်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+diṭṭhivisūkāyikaṃ
+   အယူ၏ ကောက်ကွေးမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+doso
+   ဒေါသ   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch5-7-11:G.PH, ch5-7-11:G.ROOTS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+dovacassatā
+   သွန်သင်ချက်ကို နားမထောင်ခြင်း   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dovacassiyaṃ
+   စကား နားမထောင်သော အဖြစ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dovacassāyaṃ
+   စကား နားမထောင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dukkhamūlaṃ
+   ဒုက္ခ၏ အမြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+dukkhanidānaṃ
+   ဒုက္ခ၏ ဇာစ်မြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+dukkhanirodho
+   ဒုက္ခ ချုပ်ငြိမ်းခြင်း   <- ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM
+   စာလုံးပေါင်းကွဲ   <- ch2-4:G.VKIND
+
+dukkhappabhavo
+   ဒုက္ခ၏ ဖြစ်ပေါ်ရာ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+dukkhasamudayo
+   ဒုက္ခ ဖြစ်ပေါ်ခြင်း   <- ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM
+   စာလုံးပေါင်းကွဲ   <- ch2-4:G.VKIND
+
+dukkhaṃ
+   ကိုယ်ဆင်းရဲခြင်း   <- ch6:G.NOUN6
+   နာကျင်မှု   <- ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB
+   ဒုက္ခ   <- ch15-16:G.ACC
+
+dummejjhaṃ
+   ဉာဏ်နုံခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dussanā
+   စိတ်ဆိုးခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+dussitattaṃ
+   စိတ်ဆိုးထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+dutiyaṃ
+   dutiya   <- ch5-7-11:G._JORD
+   ဒုတိယ   <- ch12-14:G.LEM
+   vitakkavicārānaṃ vūpasamā   <- ch17:G._ORDJ
+
+dutiyā
+   အဖော်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+duv
+   dvi   <- ch12-14:G.ANGA
+   အင်္ဂါ နှစ်ပါး ရှိသော ဈာန်   <- ch12-14:G.ANGA_MY
+
+dvedhāpatho
+   လမ်း နှစ်ခွ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+dveḷhakaṃ
+   စိတ် နှစ်ခွ ဖြစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+dvidhāpatho
+   လမ်း နှစ်ခွ   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+dūre
+   အဝေး၌ ရှိသော   <- ch12-14:F.DEF, ch12-14:F.Q11A, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F.Q11A, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F.Q11A, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F.Q11A, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F.Q11A, ch2-4:F
+   အဝေး၌ ရှိသည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   အဝေး၌ ရှိ   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+   dūre   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+ejā
+   တုန်လှုပ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+esanā
+   ရှာမှီးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+evarūpaṃ
+   ဤသို့ သဘောရှိသော   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+evarūpaṃ kukkuccaṃ
+   ဤသို့ သဘောရှိသော နောင်တ ပူပန်မှု   <- ch12-14:G.ITEMS
+   new   <- ch12-14:G.ITEM_SRC
+
+eṭṭhi
+   ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gandhataṇhā
+   အနံ့ကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+
+gandhāsā
+   အနံ့ကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+ganthavippayuttā aganthaniyā
+   ganthavippayuttaaganthaniyā   <- ch15-16:F.TERM_IRREG
+   အထုံးနှင့် ကင်းကွာသော၊ အထုံး၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+ganthavippayuttā ganthaniyā
+   ganthavippayuttaganthaniyā   <- ch15-16:F.TERM_IRREG
+   အထုံးနှင့် ကင်းကွာသော၊ အထုံး၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+   အထုံးနှင့် ကင်းကွာသော … အထုံး၏ အာရုံ ဖြစ်နိုင်သော   <- ch17:G.TB
+
+gantho
+   အထုံး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ganthā
+   အထုံး ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   အထုံး   <- ch17:G.TB
+
+garahaṇā
+   ကဲ့ရဲ့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+garukaṃ
+   လေးလံသောအရာ   <- ch15-16:G.FACT
+   လေးလံသော   <- ch17:G.TB
+
+garukāra
+   လေးစားခံရမှု   <- ch17:G.TB
+   အလေးပြုခံရခြင်း   <- ch17:G.MADA_BASE
+
+gavesanā
+   စုံစမ်း ရှာမှီးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gaveṭṭhi
+   စုံစမ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gedho
+   ငမ်းငမ်းတက် လိုချင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+gehasitaṃ cetasikaṃ asātaṃ
+   လောကီ အိမ်ရာကို မှီသော စိတ်၌ ဖြစ်သော မချမ်းသာမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gehasitaṃ cetasikaṃ neva sātaṃ nāsātaṃ
+   လောကီ အိမ်ရာကို မှီသော စိတ်၌ ဖြစ်သော ချမ်းသာမှုလည်း မဟုတ်၊ မချမ်းသာမှုလည်း မဟုတ်သော   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gehasitaṃ cetasikaṃ sātaṃ
+   လောကီ အိမ်ရာကို မှီသော စိတ်၌ ဖြစ်သော ချမ်းသာမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gehasito rāgo
+   လောကီ အိမ်ရာကို မှီသော ရာဂ   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gehasito takko
+   လောကီ အိမ်ရာကို မှီသော တွေးတောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ghāna
+   နှာခေါင်း   <- ch12-14:F.SENSE, ch12-14:F.SRC, ch15-16:F.SENSE, ch15-16:F.SRC, ch17:F.SENSE, ch17:F.SRC, ch17:G.TB, ch18:F.SENSE, ch18:F.SRC, ch18:G.SENSE, ch2-4:F.SENSE, ch2-4:F.SRC, ch5-7-11:F.SENSE, ch5-7-11:F.SRC, ch6:F.SENSE, ch6:
+   နှာခေါင်း၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   နှာခေါင်း သိစိတ်   <- ch15-16:G._XV
+
+giddhikattaṃ
+   မက်မောထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+giddhikatā
+   မက်မောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+gopanā
+   ကာကွယ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+gāho
+   စွဲကိုင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+gūhanā
+   ဝှက်ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+hadayaṃ
+   နှလုံး   <- ch2-4:G.EXAMPLES, ch5-7-11:G.BODY32
+   နှလုံးသား   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+hetū
+   အမြစ် ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   အမြစ်များ   <- ch15-16:G.FACT
+   အကြောင်း   <- ch17:G.TB
+   het   <- ch18:G.NOUN_FORMS
+   အမြစ်   <- ch18:G.KATI_NOUN
+
+heṭhanā
+   နှိပ်စက်ခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+hiṃsanā
+   ထိခိုက်နာကျင်စေခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+hoti ca na ca hoti tathāgato paraṃ maraṇā
+   မြတ်စွာဘုရားသည် သေပြီးနောက် ရှိသည်လည်း ဖြစ် မရှိသည်လည်း ဖြစ်သည်   <- ch15-16:G.VIEW
+   တထာဂတသည် သေပြီးနောက် ရှိလည်း ရှိ၏၊ မရှိလည်း ဖြစ်၏   <- ch17:G.VIEW
+
+hoti tathāgato paraṃ maraṇā
+   မြတ်စွာဘုရားသည် သေပြီးနောက် ရှိသည်   <- ch15-16:G.VIEW
+   တထာဂတသည် သေပြီးနောက် ရှိ၏   <- ch17:G.VIEW
+
+hāso
+   ပြုံးရွှင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+hīn
+   ယုတ်ညံ့သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch15-16:G._HD, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+   hīna   <- ch12-14:F.PRED_Q, ch15-16:F.PRED_Q, ch17:F.PRED_Q, ch18:F.PRED_Q, ch2-4:F.PRED_Q, ch5-7-11:F.PRED_Q, ch6:F.PRED_Q, sample:F.PRED_Q
+
+hīna
+   ယုတ်ညံ့သော   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch15-16:G._HD, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   ယုတ်ညံ့သည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   ယုတ်ညံ့   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+
+hīnamat
+   ယုတ်ညံ့သည်ဟု ယူဆထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+hīnasammat
+   ယုတ်ညံ့သည်ဟု အများ သတ်မှတ်ထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+hīnaṃ
+   hīna   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   ယုတ်ညံ့သော   <- ch12-14:F._NEW_DEF, ch12-14:G.QUAL, ch15-16:F._NEW_DEF, ch17:F._NEW_DEF, ch17:G.TB, ch18:F._NEW_DEF, ch2-4:F._NEW_DEF, ch5-7-11:F._NEW_DEF, ch6:F._NEW_DEF, sample:F._NEW_DEF
+   သူတစ်ပါးတို့ထက် ယုတ်ညံ့သူဟု   <- ch17:G.CMP
+
+hīnā
+   ယုတ်ညံ့သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch17:G.TB, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   hīna   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+hīḷanā
+   မိမိကိုယ်ကို နှိမ့်ချခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+hīḷit
+   ကဲ့ရဲ့ထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+icchā
+   အလိုရှိခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+icchāgatā
+   အလိုရှိမှုသို့ ရောက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+iddhi
+   ဣဒ္ဓိ   <- ch17:G.TB, ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+   တန်ခိုး   <- ch17:G.MADA_BASE
+
+ijjhanā
+   ပြီးမြောက်ခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+imassa vā pūtikāyassa bāhirānaṃ vā parikkhārānaṃ maṇḍanā
+   ဤပုပ်စပ်သော ကိုယ်ကိုဖြစ်စေ၊ ပြင်ပ အသုံးအဆောင်တို့ကိုဖြစ်စေ အလှဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+imesaṃ channaṃ indriyānaṃ agutti
+   ဤ အာရုံခံ အင်္ဂါ ခြောက်ပါးတို့၏ မစောင့်ထိန်းခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+imesaṃ channaṃ indriyānaṃ gutti
+   ဤ အာရုံခံ အင်္ဂါ ခြောက်ပါးတို့၏ စောင့်ထိန်းခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+indriyāni
+   စွမ်းရည်များ   <- ch15-16:G.FACT
+   စွမ်းရည်   <- ch17:G.TB, ch18:G.KATI_NOUN
+   indriy   <- ch18:G.NOUN_FORMS
+
+iriyanā
+   လှုပ်ရှားခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+issā
+   ငြူစူမှု   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+issāyanā
+   ငြူစူခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+issāyitattaṃ
+   ငြူစူထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+itthattaṃ
+   မိန်းမ ဖြစ်သော အဖြစ်   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+itthibhāvo
+   မိန်းမ ဖြစ်သော သဘော   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+itthikuttaṃ
+   မိန်းမ အမူအရာ   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+itthiliṅgaṃ
+   မိန်းမ အသွင်သဏ္ဌာန်   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+itthinimittaṃ
+   မိန်းမ အမှတ်အသား   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+itthiyā
+   မိန်းမ၏    <- ch5-7-11:G.LHEAD
+   မိန်းမ   <- ch17:G.TB
+
+itthākappo
+   မိန်းမ ဟန်ပန်   <- ch5-7-11:G.SYN2
+   ^Yaṃ itthiyā itthiliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+iṭṭh
+   လိုလားဖွယ်ကောင်းသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+janikā
+   မွေးဖွားပေးတတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+jappanā
+   တမ်းတနေခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+jappitattaṃ
+   တမ်းတထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+jappā
+   တမ်းတခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+jarāmaraṇaṃ
+   jarāmaraṇa   <- ch6:G.NOM
+   အိုခြင်းနှင့် သေခြင်း   <- ch15-16:G.ACC
+
+jhānaṃ
+   ဈာန်   <- ch12-14:G.LEM, ch15-16:G.FACT, ch17:G.TB
+   jhāna   <- ch17:G.MADA_ACC
+
+jimhatā
+   ကောက်ကွေးခြင်း   <- ch17:G.TB
+   ကောက်ကျစ်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+jivhā
+   လျှာ   <- ch12-14:F.SENSE, ch12-14:F.SRC, ch15-16:F.SENSE, ch15-16:F.SRC, ch17:F.SENSE, ch17:F.SRC, ch17:G.TB, ch18:F.SENSE, ch18:F.SRC, ch18:G.SENSE, ch2-4:F.SENSE, ch2-4:F.SRC, ch2-4:G.SIX, ch2-4:G.TWELVE, ch5-7-11:F.SENSE, ch5-
+   လျှာ၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   လျှာ သိစိတ်   <- ch15-16:G._XV
+
+jālinī
+   ပိုက်ကွန်ကဲ့သို့ ဖြစ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+jāt
+   မွေးဖွားပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+jāti
+   မွေးဖွားခြင်း   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.TB, ch2-4:F.ITEM, ch2-4:G.ICCHA_X, ch2-4:G.NAMES4, ch2-4:G.NM, ch2-4:G.SYN4, ch6:G.FACT
+   jāti   <- ch15-16:G.CAUSE, ch6:G.NOM
+   ဇာတိ   <- ch17:G.MADA_BASE
+
+jātiṃ
+   မွေးဖွားခြင်း   <- ch15-16:G.ACC, ch17:G.BHAYA_OBJ
+   jāti   <- ch17:G.MADA_ACC
+
+jīvita
+   အသက်   <- ch17:G.TB
+   အသက်ရှင်ခြင်း   <- ch17:G.MADA_BASE
+
+jīvitaṃ
+   အသက်   <- ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+   jīvita   <- ch17:G.MADA_ACC
+
+jīvitindriyaṃ
+   အသက်၏ စွမ်းရည်   <- ch12-14:F.ITEM, ch15-16:F.ITEM, ch15-16:G.FACT, ch17:F.ITEM, ch17:G.TB, ch18:F.ITEM, ch18:G.ITEMS, ch2-4:F.ITEM, ch5-7-11:F.ITEM, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2, ch6:F.ITEM, sample:F.ITEM
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+jīvitāsā
+   အသက်ကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kadariyaṃ
+   ကပ်စေးနည်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+kakkaratā
+   ကောက်ကွေးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kakkariyaṃ
+   ကောက်ကွေးသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kakkhaḷatā
+   ကြမ်းတမ်းခြင်း   <- ch17:G.TB
+   ကြမ်းတမ်းသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kakkhaḷaṃ
+   ကြမ်းတမ်းသောအရာ   <- ch15-16:G.FACT
+   ကြမ်းတမ်းသော   <- ch17:G.TB
+
+kakkhaḷiyaṃ
+   ကြမ်းတမ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kant
+   ချစ်ခင်ဖွယ်ကောင်းသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+kappiye akappiyasaññitā
+   အပ်စပ်သည်၌ မအပ်စပ်သည်ဟု မှတ်ထင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+karuṇā
+   ကရုဏာ   <- ch12-14:G.BV, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch12-14:G._new_items, ch17:G.TB
+   new   <- ch12-14:G.ITEM_SRC
+
+karuṇācetovimutti
+   ကရုဏာဖြင့် စိတ်လွတ်မြောက်မှု   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+karuṇāyanā
+   ကရုဏာ ထားခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+karuṇāyitattaṃ
+   ကရုဏာ ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+kattukamyatā
+   ပြုလုပ်လိုခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+kaṅkhā
+   သံသယ   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kaṅkhāyanā
+   သံသယ ဖြစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kaṅkhāyitattaṃ
+   သံသယ ဖြစ်ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kaṭhinatā
+   မာကျောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kaṭukañcukatā
+   တွန့်တိုခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ketukamyatā cittassa
+   စိတ်၏ အလံ ထူလိုခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+keḷanā
+   ကစားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+khandha
+   အစုအဝေးတို့   <- ch15-16:G.NANATTA
+   အစုအဝေး   <- ch17:G.TB
+
+khandharaso
+   ပင်စည် အရည်   <- ch2-4:G.EXAMPLES
+   ပင်စည် အရသာ   <- ch17:G.TB
+
+khandho
+   အစုအဝေး   <- ch17:G.TB
+   khandh   <- ch18:G.NOUN_FORMS
+
+khandhā
+   အစုအဝေးများ   <- ch15-16:G.FACT
+   အစု   <- ch17:G.TB
+   khandh   <- ch18:G.NOUN_FORMS
+   အစုအဝေး   <- ch18:G.KATI_NOUN
+
+khipanā
+   ပစ်ချခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+khīraṃ
+   နို့   <- ch2-4:G.EXAMPLES
+   နွားနို့   <- ch15-16:G.FACT, ch17:G.TB
+
+kilesavippayuttā asaṃkilesikā
+   kilesavippayuttaasaṃkilesikā   <- ch15-16:F.TERM_IRREG
+   ကိလေသာနှင့် ကင်းကွာသော၊ ကိလေသာ၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+kilesavippayuttā saṃkilesikā
+   kilesavippayuttasaṃkilesikā   <- ch15-16:F.TERM_IRREG
+   ကိလေသာနှင့် ကင်းကွာသော၊ ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+   ကိလေသာနှင့် ကင်းကွာသော … ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော   <- ch17:G.TB
+
+kilesā
+   ကိလေသာ ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   ကိလေသာ   <- ch17:G.TB
+
+kodho
+   အမျက်ဒေါသ   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kopo
+   အမျက်ထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kosallaṃ
+   ကျွမ်းကျင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kuhanā
+   လှည့်ဖြား ဟန်ဆောင်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+kuhitattaṃ
+   လှည့်ဖြား ဟန်ဆောင်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kuhāyanā
+   လှည့်ဖြား ဟန်ဆောင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kujjhanā
+   အမျက်ဒေါသ ထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kujjhitattaṃ
+   အမျက်ဒေါသ ထွက်ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+kukkuccaṃ
+   နောင်တ ပူပန်မှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kukkuccāyanā
+   နောင်တ ပူပန်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kukkuccāyitattaṃ
+   နောင်တ ပူပန်ထားသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kummaggo
+   လမ်းမှား   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+kusalahetū
+   ကုသိုလ် အမြစ်   <- ch17:G.TB
+   kusalahet   <- ch18:G.NOUN_FORMS
+
+kusalo dhammacchando
+   ကုသိုလ် သဘောတရားကို လိုလားသော ဆန္ဒ   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+kuṭilatā
+   လိမ်ကောက်ခြင်း   <- ch17:G.TB
+   တွန့်လိမ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kāmacchando
+   ကာမကို လိုလားမှု   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   new   <- ch12-14:G.ITEM_SRC
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmajjhosānaṃ
+   ကာမ၌ နစ်မွန်းမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmamucchā
+   ကာမ၌ မိန်းမောမှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmanandī
+   ကာမကို နှစ်သက်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmapariḷāho
+   ကာမကြောင့် ပူလောင်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmarāgo
+   ကာမရာဂ   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmasineho
+   ကာမကို ချစ်ခင်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmataṇhā
+   ကာမကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāmesumicchācārā
+   ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်းမှ   <- ch2-4:G.ABST
+   ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်း   <- ch12-14:G.ABST
+
+kāmesumicchācārā ārati
+   ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်းမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   new (pi-1 virati list)   <- ch12-14:G.ITEM_SRC
+
+kāya
+   ကိုယ်   <- ch12-14:F.SENSE, ch12-14:F.SRC, ch15-16:F.SENSE, ch15-16:F.SRC, ch17:F.SENSE, ch17:F.SRC, ch18:F.SENSE, ch18:F.SRC, ch18:G.SENSE, ch2-4:F.SENSE, ch2-4:F.SRC, ch5-7-11:F.SENSE, ch5-7-11:F.SRC, ch5-7-11:G.CONT, ch6:F.SENSE
+   ကိုယ်၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   ကိုယ်၌   <- ch5-7-11:G.LOCMY
+   kāyānupassī   <- ch5-7-11:G.ANUPA
+   ကိုယ် သိစိတ်   <- ch15-16:G._XV
+   ကိုယ်ဖြင့် ပြုသော   <- ch15-16:G._CONDUCT
+   စိတ်၏ အဖော်တို့   <- ch17:G.TB
+
+kāyaduṭṭhullaṃ
+   ကိုယ် လေးလံခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ
+   ကိုယ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ် မကောင်း၍ နာကျင်သော ခံစားရခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ
+   ကိုယ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ်ကောင်း၍ သာယာသော ခံစားရခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyasamphassajā asātā dukkhā vedanā
+   ကိုယ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ် မကောင်း၍ နာကျင်သော ခံစားမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyasamphassajā sātā sukhā vedanā
+   ကိုယ်၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော နှစ်သက်ဖွယ်ကောင်း၍ သာယာသော ခံစားမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyassa akalyatā
+   စိတ်၏ အဖော်တို့၏ မကျန်းမာခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyassa jambhanā
+   ကိုယ်၏ သမ်းဝေခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+kāye kāyānupassī
+   ကိုယ်၌ ကိုယ်ကို အဖန်ဖန် ရှုလျက်   <- ch2-4:G.FOUR_BASE
+   ကိုယ်၌ ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက်   <- ch5-7-11:G.NEWLOG
+
+kāyikavācasiko avītikkamo
+   ကိုယ်နှုတ်ဖြင့် မကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+
+kāyikavācasiko vītikkamo
+   ကိုယ်နှုတ်ဖြင့် ကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+   ကိုယ်ပိုင်းဆိုင်ရာနှင့် နှုတ်ပိုင်းဆိုင်ရာ ကျူးလွန်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāyikaṃ asātaṃ
+   ကိုယ်ပိုင်းဆိုင်ရာ နှစ်သက်ဖွယ် မကောင်းမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyikaṃ dukkhaṃ
+   ကိုယ်ပိုင်းဆိုင်ရာ နာကျင်မှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyikaṃ sukhaṃ
+   ကိုယ်ပိုင်းဆိုင်ရာ သာယာမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyikaṃ sātaṃ
+   ကိုယ်ပိုင်းဆိုင်ရာ နှစ်သက်ဖွယ်ကောင်းမှု   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+kāyiko avītikkamo
+   ကိုယ်ဖြင့် မကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+
+kāyiko vītikkamo
+   ကိုယ်ဖြင့် ကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+   ကိုယ်ပိုင်းဆိုင်ရာ ကျူးလွန်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+kāyo
+   ကိုယ်   <- ch17:G.TB, ch2-4:G.SIX, ch2-4:G.TWELVE
+   မူလဓာတ်ကြီး လေးပါးကို မှီ၍ ဖြစ်သော အာရုံခံ ကြည်လင်မှု ဖြစ်သည့် ကိုယ်… ဆိတ်သုဉ်းသော ရွာလည်း ဤသည်ပင်   <- ch5-7-11:G._CAK
+   စိတ်၏ အဖော်တို့   <- ch12-14:G.NOUNS
+
+lahukaṃ
+   ပေါ့ပါးသောအရာ   <- ch15-16:G.FACT
+   ပေါ့ပါးသော   <- ch17:G.TB
+
+lapanā
+   ချော့မော့ ပြောဆိုခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+latā
+   နွယ်ပင်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+lobho
+   လောဘ   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch5-7-11:G.PH, ch5-7-11:G.ROOTS
+   pi-1   <- ch17:G.ITEM_SRC
+
+loluppaṃ
+   လိုချင်လွန်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+loluppāyanā
+   လိုချင်လွန်းနေခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+loluppāyitattaṃ
+   လိုချင်လွန်းထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+lomahaṃso
+   ကြက်သီးမွေးညင်း ထခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+lābhaṃ
+   lābha   <- ch17:G.MADA_ACC
+   ရရှိခြင်း   <- ch17:G.T9
+
+lābho
+   ရခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+   ရရှိခြင်း   <- ch17:G.T9
+
+lābhāsā
+   လာဘ်ကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+līnaṃ
+   အားပျော့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+līyanā
+   အားပျော့နေခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+līyitattaṃ
+   အားပျော့ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+maccharāyanā
+   ဝန်တိုနေခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+maccharāyitattaṃ
+   ဝန်တိုထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+maccheraṃ
+   ဝန်တိုခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+mado
+   မူးယစ်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+maggapariyāpannaṃ
+   မဂ်၌ အကျုံးဝင်သောအရာ   <- ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+
+maggariyāpannaṃ
+   မဂ်၌ အကျုံးဝင်သောအရာ   <- ch5-7-11:G.SYN2
+   source slip (ch9 ^2-459): read as maggapariyāpannaṃ   <- ch5-7-11:G.SYN_SRC
+
+maggaṅgaṃ
+   မဂ်၏ အင်္ဂါ   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+
+maggo
+   မဂ်   <- ch15-16:G.FACT
+   လမ်း   <- ch17:G.TB
+
+mahicchatā
+   လိုချင်မှု ကြီးခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+majjanā
+   မူးယစ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+majjhattatā cittassa
+   စိတ်၏ အလယ်အလတ်၌ တည်ခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch12-14:G.ITEM_SRC, ch5-7-11:G.SYN_SRC
+   စိတ်၏ အလယ်၌ တည်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+
+majjhimaṃ
+   အလယ်အလတ်   <- ch12-14:G.QUAL, ch17:G.TB
+   အလယ်အလတ် အဆင့်ဖြင့်   <- ch18:G.LEVEL
+
+majjitattaṃ
+   မူးယစ်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+makkho
+   ကျေးဇူး ချေဖျက်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+makkhāyanā
+   ကျေးဇူး ချေဖျက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+makkhāyitattaṃ
+   ကျေးဇူး ချေဖျက်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+manasikāro
+   နှလုံးသွင်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+manindriyaṃ
+   မနော၏ စွမ်းရည်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+mano
+   မနော   <- ch12-14:F.SRC, ch12-14:G.ITEMS, ch15-16:F.SRC, ch17:F.SRC, ch17:G.TB, ch18:F.SRC, ch2-4:F.SRC, ch2-4:G.SIX, ch2-4:G.TWELVE, ch5-7-11:F.SRC, ch5-7-11:G.SYN2, ch6:F.SRC, sample:F.SRC
+   မနော၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   မနောဖြင့် ပြုသော   <- ch15-16:G._CONDUCT
+
+manopadoso
+   မနောဖြင့် ဒေါသထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+manovilekho
+   မနောကို ခြစ်ကုတ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+manovilekhā
+   မနောကို ခြစ်ကုတ်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1 (spelling)   <- ch12-14:G.ITEM_SRC
+
+manāp
+   စိတ်နှင့် တွေ့သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+manāyatanaṃ
+   မနော အာရုံခံ နယ်ပယ်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NM, ch5-7-11:G.SYN2, ch6:G.ITEM6
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+mattaññutā
+   အတိုင်းအရှည်ကို သိခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+maññanā
+   ထင်မှတ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+maññitattaṃ
+   ထင်မှတ်ထားသော အဖြစ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+maṇḍanā
+   အလှဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+medhā
+   ဉာဏ်ထက်မြက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+metti
+   မေတ္တာ   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+mettācetovimutti
+   မေတ္တာဖြင့် စိတ်လွတ်မြောက်မှု   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+mettāyanā
+   မေတ္တာ ထားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+mettāyitattaṃ
+   မေတ္တာ ထားသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+micchattaṃ
+   မှားယွင်းမှု   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+micchāpatho
+   မှားယွင်းသော လမ်းကြောင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+micchāsaṅkappo
+   မှားယွင်းသော ကြံစည်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-2   <- ch17:G.ITEM_SRC
+
+middhaṃ
+   ငိုက်မျဉ်းမှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+moho
+   မောဟ   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch5-7-11:G.PH, ch5-7-11:G.ROOTS
+   pi-1   <- ch17:G.ITEM_SRC
+
+mucchā
+   မိန်းမောမှု   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+muditā
+   မုဒိတာ   <- ch12-14:G.BV, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch12-14:G._new_items, ch17:G.TB
+   new   <- ch12-14:G.ITEM_SRC
+
+muditācetovimutti
+   မုဒိတာဖြင့် စိတ်လွတ်မြောက်မှု   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+muditāyanā
+   မုဒိတာ ထားခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+muditāyatanā
+   မုဒိတာ ထားခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+muditāyitattaṃ
+   မုဒိတာ ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+mudukaṃ
+   ပျော့ပျောင်းသောအရာ   <- ch15-16:G.FACT
+   ပျော့ပျောင်းသော   <- ch17:G.TB
+
+muggasūpyatā
+   ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောယှက် ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+musāvādā ārati
+   မုသားစကား ပြောခြင်းမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   new (pi-1 virati list)   <- ch12-14:G.ITEM_SRC
+
+mānasaṃ
+   စိတ်နှလုံး   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+māno
+   မာန   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+mārabaḷisaṃ
+   မာရ်၏ ငါးမျှားချိတ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+mārapāso
+   မာရ်၏ ကျော့ကွင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+māravisayo
+   မာရ်၏ နယ်ပယ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+mātā
+   မိခင်   <- ch2-4:G.KIN
+   အမိ   <- ch17:G.TB
+
+māyā
+   လှည့်စားတတ်ခြင်း   <- ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+māyāvitā
+   လှည့်စားတတ်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+mūlaraso
+   အမြစ် အရည်   <- ch2-4:G.EXAMPLES
+   အမြစ် အရသာ   <- ch17:G.TB
+
+na hoti tathāgato paraṃ maraṇā
+   မြတ်စွာဘုရားသည် သေပြီးနောက် မရှိ   <- ch15-16:G.VIEW
+   တထာဂတသည် သေပြီးနောက် မရှိ   <- ch17:G.VIEW
+
+nandirāgo
+   နှစ်သက်မှု ရာဂ   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   nandīrāgo   <- ch17:G.TWIN
+
+nandī
+   နှစ်သက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+   နှစ်သက်မှု   <- ch17:G.TB
+
+nandīrāgo
+   နှစ်သက်မှု ရာဂ   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch2-4:G.P1TANHA, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+nepuññaṃ
+   နက်နဲသိမ်မွေ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+neva hoti na na hoti tathāgato paraṃ maraṇā
+   မြတ်စွာဘုရားသည် သေပြီးနောက် ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်   <- ch15-16:G.VIEW
+   တထာဂတသည် သေပြီးနောက် ရှိသည်လည်း မဟုတ်၊ မရှိသည်လည်း မဟုတ်   <- ch17:G.VIEW
+
+nevasaññīnāsaññī
+   မှတ်သိမှု ရှိသူလည်း မဟုတ်၊ မှတ်သိမှု မရှိသူလည်း မဟုတ်   <- ch12-14:G.LEM
+   မှတ်သိမှု ရှိသည်လည်း မဟုတ်၊ မရှိသည်လည်း မဟုတ်သူ   <- ch17:G.ATTA_X, ch17:G.PERSON
+
+nibbatt
+   ပေါ်ထွက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+nikanti
+   စွဲလန်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+nikati
+   ကောက်ကျစ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nikkamo
+   ရှေ့သို့ တိုးထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+nikkhittachandatā
+   ဆန္ဒကို ချထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nikkhittadhuratā
+   တာဝန်ကို ချထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nikāmanā
+   အလွန် လိုလားခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+nimittakammaṃ
+   အရိပ်အမြွက် ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nimittaṃ
+   အမှတ်အသား   <- ch17:G.TB
+   အရိပ်အမြွက် ပြခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nirodhasaccaṃ
+   ချုပ်ငြိမ်းခြင်း သစ္စာ   <- ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NAMES4, ch2-4:G.NM
+   ဒုက္ခ ချုပ်ငြိမ်းခြင်း သစ္စာ   <- ch18:G.ITEMS, ch18:G.NEW_ITEMS
+
+nirodhataṇhā
+   ချုပ်ငြိမ်းခြင်းကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   pi-1   <- ch17:G.ITEM_SRC
+
+niruddh
+   ချုပ်ငြိမ်းပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+nirutti
+   စကားဖြင့် ဖော်ပြမှု ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   စကားဖြင့် ဖော်ပြမှု   <- ch17:G.TB
+
+nisevanā
+   နီးကပ်စွာ ပေါင်းသင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+niyak
+   ကိုယ်ပိုင် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+niyat
+   သီးသန့် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1050   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+niyatā
+   ကျိန်းသေသော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   သီးသန့် ဖြစ်သော   <- ch17:G.TB
+
+niṭṭhuriyakammaṃ
+   ရက်စက်စွာ ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+niṭṭhuriyaṃ
+   ရက်စက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+nāmarūpa
+   စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch6:G.FACT
+   nāmarūpa   <- ch15-16:G.CAUSE
+
+nāmarūpaṃ
+   nāmarūpa   <- ch6:G.NOM
+   စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း   <- ch15-16:G.ACC, ch6:G.NOUN6
+
+nāmaṃ
+   nāma   <- ch6:G.NOM
+   စိတ်ပိုင်း   <- ch17:G.TB, ch6:G.NOUN6
+
+nānattasaññā
+   အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု   <- ch12-14:G.NOUNS
+   အမျိုးမျိုးသော မှတ်သိမှု   <- ch17:G.NAME
+
+nīvaraṇavippayuttā anīvaraṇiyā
+   nīvaraṇavippayuttaanīvaraṇiyā   <- ch15-16:F.TERM_IRREG
+   အတားအဆီးနှင့် ကင်းကွာသော၊ အတားအဆီး၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+nīvaraṇavippayuttā nīvaraṇiyā
+   nīvaraṇavippayuttanīvaraṇiyā   <- ch15-16:F.TERM_IRREG
+   အတားအဆီးနှင့် ကင်းကွာသော၊ အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+   အတားအဆီးနှင့် ကင်းကွာသော … အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော   <- ch17:G.TB
+
+nīvaraṇaṃ
+   အတားအဆီး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+nīvaraṇā
+   အတားအဆီး ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   အတားအဆီး   <- ch17:G.TB
+
+obhāsakammaṃ
+   သွယ်ဝိုက် ပြောဆိုမှု ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+obhāso
+   အရောင်အဝါ   <- ch17:G.TB
+   သွယ်ဝိုက် ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+odagyaṃ
+   စိတ်တက်ကြွခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+oghavippayuttā anoghaniyā
+   oghavippayuttaanoghaniyā   <- ch15-16:F.TERM_IRREG
+   ရေအလျဉ်နှင့် ကင်းကွာသော၊ ရေအလျဉ်၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+oghavippayuttā oghaniyā
+   oghavippayuttaoghaniyā   <- ch15-16:F.TERM_IRREG
+   ရေအလျဉ်နှင့် ကင်းကွာသော၊ ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+ogho
+   ရေအလျဉ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+oghā
+   ရေအလျဉ် ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   ရေအလျဉ်   <- ch17:G.TB
+
+ohīḷanā
+   မိမိကိုယ်ကို အလွန် နှိမ့်ချခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ohīḷitattaṃ
+   မိမိကိုယ်ကို နှိမ့်ချထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+okappanā
+   စိတ်ချ အားကိုးခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+olīnavuttitā
+   တွန့်ဆုတ်သော အကျင့် ရှိခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+olīyanā
+   တွန့်ဆုတ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+omaññanā
+   ယုတ်ညံ့ဟု ထင်မှတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+omaññitattaṃ
+   ယုတ်ညံ့ဟု ထင်မှတ်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+omāno
+   ယုတ်ညံ့ဟု ထင်မှတ်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+onāho
+   ပိတ်ဖုံးခံရခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+oḷārika
+   ရုန့်ရင်းသော   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   ရုန့်ရင်းသည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   ရုန့်ရင်း   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+
+oḷārikaṃ
+   oḷārika   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   ရုန့်ရင်းသော   <- ch17:G.TB
+
+pacalāyikā
+   ငိုက်ဆင်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paccatt
+   ကိုယ်စီ ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1050   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+paccupalakkhaṇā
+   လက္ခဏာကို အသီးသီး ခွဲခြားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paccuppann
+   ပစ္စုပ္ပန် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+paccuppanna
+   ပစ္စုပ္ပန်   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   ပစ္စုပ္ပန်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+
+paccuppannaṃsena saṅgahit
+   ပစ္စုပ္ပန် အပိုင်း၌ အကျုံးဝင်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+paccuppannā
+   ပစ္စုပ္ပန်   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch17:G.TB, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   paccuppanna   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+padoso
+   အလွန် ဒေါသထွက်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+paggāho
+   စိတ်ကို မြှင့်တင်ခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pahāso
+   အလွန် ပြုံးရွှင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pajappā
+   အလွန် တမ်းတခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pajānanā
+   ကွဲပြားစွာ သိခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pakopo
+   အလွန် အမျက်ထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+paligedho
+   အလွန် ငမ်းငမ်းတက် လိုချင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pamajjanā
+   မေ့လျော့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pamajjitattaṃ
+   မေ့လျော့ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pamodanā
+   အလွန် ဝမ်းသာခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pamoho
+   အလွန် တွေဝေခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pamādo
+   မေ့လျော့မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+parakkamo
+   ရဲရင့်စွာ ကြိုးစားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+parapiṭṭhimaṃsikatā
+   ကွယ်ရာတွင် အတင်းပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paribhavo
+   စော်ကားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paribhūt
+   စော်ကားထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+parigedho
+   အလွန် ငမ်းငမ်းတက် လိုချင်ခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   paligedho   <- ch17:G.TWIN
+
+parigūhanā
+   အနှံ့ ဝှက်ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pariharaṇā
+   ရှောင်တိမ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+parikathā
+   ပတ်လည် စကား ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+parikeḷanā
+   အမျိုးမျိုး ကစားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+parikkhattatā
+   ကြော့ရှင်းဟန် ပြခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+parisappanā
+   ပတ်ချာလည် ယိမ်းယိုင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+paritassitā
+   ပူပန်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+parittaṃ
+   အကန့်အသတ် ရှိသော   <- ch17:G.TB
+   အကန့်အသတ် ရှိသော အဆင့်ဖြင့်   <- ch18:G.LEVEL
+
+pariyesanā
+   အနှံ့ ရှာမှီးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+   ရှာမှီးခြင်း   <- ch17:G.T9
+
+pariyeṭṭhi
+   အနှံ့ ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pariyonāho
+   အပြည့် ပိတ်ဖုံးခံရခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pariyuṭṭhānaṃ
+   ထကြွခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pariṇāyikā
+   လမ်းပြခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+parāmāsavippayuttā aparāmaṭṭhā
+   parāmāsavippayuttaaparāmaṭṭhā   <- ch15-16:F.TERM_IRREG
+   မှားယွင်းသော ယူဆမှုနှင့် ကင်းကွာသော၊ မှားယွင်းသော ယူဆမှု၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+parāmāsavippayuttā parāmaṭṭhā
+   parāmāsavippayuttaparāmaṭṭhā   <- ch15-16:F.TERM_IRREG
+   မှားယွင်းသော ယူဆမှုနှင့် ကင်းကွာသော၊ မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+parāmāso
+   မှားယွင်းသော ယူဆမှု   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+parāmāsā
+   မှားယွင်းသော ယူဆမှု ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   မှားယွင်းသော ယူဆမှု   <- ch17:G.TB
+
+parūpaghāto
+   သူတစ်ပါးကို ထိပါးခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+passaddhi
+   ငြိမ်းအေးခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   passaddhisambojjhaṅgo   <- ch5-7-11:G.BOJ
+
+passaddhisambojjhaṅgo
+   ငြိမ်းအေးခြင်း ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+passambhanā
+   အေးချမ်းခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+
+pasādo
+   pasāda   <- ch6:G.NOM
+   အာရုံခံ ကြည်လင်မှု   <- ch17:G.TB
+
+patiṭṭhāho
+   ခိုင်မြဲစွာ စွဲကိုင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+patodo
+   နှင်တံ   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pattamaṇḍanā
+   သပိတ်ကို အလှဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pattaraso
+   အရွက် အရည်   <- ch2-4:G.EXAMPLES
+   အရွက် အရသာ   <- ch17:G.TB
+
+patthanā
+   ဆုတောင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+patti
+   ရောက်ခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+pavicayo
+   သေချာစွာ စိစစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pañc
+   pañca   <- ch12-14:G.ANGA
+   အင်္ဂါ ငါးပါး ရှိသော ဈာန်   <- ch12-14:G.ANGA_MY
+
+paññatti
+   သတ်မှတ်ချက် ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   သတ်မှတ်ချက်   <- ch17:G.TB
+
+paññindriyaṃ
+   ပညာ၏ စွမ်းရည်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññā
+   ပညာ   <- ch12-14:G.ITEMS, ch17:G.TB, ch18:G.NANATTA, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññābalaṃ
+   ပညာ၏ စွမ်းအား   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāobhāso
+   ပညာ အရောင်အဝါ   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāpajjoto
+   ပညာ မီးအိမ်   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāpāsādo
+   ပညာ ပြာသာဒ်   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāratanaṃ
+   ပညာ ရတနာ   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāsatthaṃ
+   ပညာ ဓား   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paññāāloko
+   ပညာ အလင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paḷāso
+   တုပြိုင်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+paḷāsāhāro
+   တုပြိုင်မှုကို ဆောင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paḷāsāyanā
+   တုပြိုင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṅko
+   ရွှံ့ညွန်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+paṇamanā
+   ရှေ့သို့ ညွတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṇidhi
+   စိတ်ညွှတ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB, ch18:G.NANATTA
+   pi-1   <- ch17:G.ITEM_SRC
+
+paṇīt
+   မွန်မြတ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch15-16:G._HD, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+   paṇīta   <- ch12-14:F.PRED_Q, ch15-16:F.PRED_Q, ch17:F.PRED_Q, ch18:F.PRED_Q, ch2-4:F.PRED_Q, ch5-7-11:F.PRED_Q, ch6:F.PRED_Q, sample:F.PRED_Q
+
+paṇīta
+   မွန်မြတ်သော   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch15-16:G._HD, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   မွန်မြတ်သည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   မွန်မြတ်   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+
+paṇītamat
+   မွန်မြတ်သည်ဟု ယူဆထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+paṇītasammat
+   မွန်မြတ်သည်ဟု အများ သတ်မှတ်ထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+paṇītaṃ
+   paṇīta   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   မွန်မြတ်သော   <- ch12-14:F._NEW_DEF, ch12-14:G.QUAL, ch15-16:F._NEW_DEF, ch17:F._NEW_DEF, ch17:G.TB, ch18:F._NEW_DEF, ch2-4:F._NEW_DEF, ch5-7-11:F._NEW_DEF, ch6:F._NEW_DEF, sample:F._NEW_DEF
+   မွန်မြတ်သော အဆင့်ဖြင့်   <- ch18:G.LEVEL
+
+paṇītā
+   မွန်မြတ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch17:G.TB, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   paṇīta   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+
+paṇḍaraṃ
+   ကြည်လင်သောအရာ   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paṇḍiccaṃ
+   လိမ္မာခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paṭhamaṃ
+   paṭhama   <- ch5-7-11:G._JORD
+   ပထမ   <- ch12-14:G.LEM
+   vivicceva kāmehi   <- ch17:G._ORDJ
+
+paṭibandhu
+   ဆွေမျိုး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+paṭicchādanā
+   ဖုံးကွယ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṭighaṃ
+   paṭigha   <- ch6:G.NOM
+   မုန်းတီးမှု   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+paṭighāto
+   ပြန်လည် ရန်ငြိုးဖွဲ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+paṭilābho
+   ထပ်မံ ရခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+paṭipassaddhi
+   လုံးဝ ငြိမ်းအေးခြင်း   <- ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+
+paṭipassambhanā
+   လုံးဝ အေးချမ်းခြင်း   <- ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+
+paṭipassambhitattaṃ
+   လုံးဝ အေးချမ်းသွားသော အဖြစ်   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi .* passaddhisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+
+paṭippassaddhi
+   လုံးဝ ငြိမ်းအေးခြင်း   <- ch5-7-11:G.SYN2
+   Vb spelling of the same word   <- ch5-7-11:G.SYN_SRC
+
+paṭippassambhanā
+   လုံးဝ အေးချမ်းခြင်း   <- ch5-7-11:G.SYN2
+   Vb spelling of the same word   <- ch5-7-11:G.SYN_SRC
+
+paṭippassambhitattaṃ
+   လုံးဝ အေးချမ်းသွားသော အဖြစ်   <- ch5-7-11:G.SYN2
+   Vb spelling of the same word   <- ch5-7-11:G.SYN_SRC
+
+paṭisaṅkhā bhojane
+   အစားအစာ၌ ပြန်လည် ဆင်ခြင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paṭisevanā
+   ပြန်လည် ပေါင်းသင်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṭissati
+   ပြန်လည် အောက်မေ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paṭisārambhanā
+   ပြန်လည် ပြိုင်ဆိုင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṭisārambhitattaṃ
+   ပြန်လည် ပြိုင်ဆိုင်ထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṭisārambho
+   ပြန်လည် ပြိုင်ဆိုင်မှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+paṭivirati
+   ပြန်လှည့် ရှောင်ကြဉ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+paṭivirodho
+   ပြန်လည် ဆန့်ကျင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+phalaraso
+   အသီး အရည်   <- ch2-4:G.EXAMPLES
+   အသီး အရသာ   <- ch17:G.TB
+
+pharusavācatā
+   စကား ကြမ်းတမ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pharusaṃ
+   ဖုထစ်သောအရာ   <- ch15-16:G.FACT
+   ဖုထစ်သော   <- ch17:G.TB
+
+phassa
+   တွေ့ထိမှု   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch6:G.FACT
+   phassa   <- ch15-16:G.CAUSE
+
+phasso
+   တွေ့ထိမှု   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   phassa   <- ch15-16:G.RES, ch6:G.NOM
+   pi-1   <- ch12-14:G.ITEM_SRC
+   phass   <- ch18:G.NOUN_FORMS
+
+phassā
+   phass   <- ch18:G.NOUN_FORMS
+   တွေ့ထိမှု   <- ch18:G.KATI_NOUN
+
+phoṭṭhabbasaññā
+   အထိအတွေ့ကို မှတ်သိမှု   <- ch2-4:G.SIX
+   အထိအတွေ့ဟု မှတ်သိမှု   <- ch12-14:G.ITEMS
+   new   <- ch12-14:G.ITEM_SRC
+
+phoṭṭhabbataṇhā
+   အထိအတွေ့ကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+
+phoṭṭhabbāsā
+   အထိအတွေ့ကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+phusanā
+   ထိခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+phārusiyaṃ
+   ကြမ်းကြုတ်သော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pihakaṃ
+   သရက်ရွက်   <- ch2-4:G.EXAMPLES
+   အဖျဉ်း   <- ch5-7-11:G.BODY32
+
+pihanā
+   အားကျ လိုချင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pilāpanatā
+   အပေါ်ယံ ပေါ်လောခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+pitā
+   ဖခင်   <- ch2-4:G.KIN
+   အဖ   <- ch17:G.TB
+
+pucchañjikatā
+   အမြီး ခါ၍ ချော့မော့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+puppharaso
+   ပန်း အရည်   <- ch2-4:G.EXAMPLES
+   ပန်း အရသာ   <- ch17:G.TB
+
+purisabhāvo
+   ယောက်ျား ဖြစ်သော သဘော   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+purisakuttaṃ
+   ယောက်ျား အမူအရာ   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+purisaliṅgaṃ
+   ယောက်ျား အသွင်သဏ္ဌာန်   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+purisanimittaṃ
+   ယောက်ျား အမှတ်အသား   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+purisassa
+   ယောက်ျား၏    <- ch5-7-11:G.LHEAD
+   ယောက်ျား   <- ch17:G.TB
+
+purisattaṃ
+   ယောက်ျား ဖြစ်သော အဖြစ်   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+purisākappo
+   ယောက်ျား ဟန်ပန်   <- ch5-7-11:G.SYN2
+   ^Yaṃ purisassa purisaliṅgaṃ   <- ch5-7-11:G.SYN_SRC
+
+puthujjano
+   ပုထုဇဉ်သည်   <- ch15-16:G.DSUB, ch15-16:G.FIX
+   ပုထုဇဉ်   <- ch17:G.TB
+
+puttāsā
+   သားသမီးကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+pālanā
+   စောင့်ရှောက်ခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+pāmojjaṃ
+   ရွှင်လန်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pāpakiriyā
+   ယုတ်မာသော အမှုကို ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pāpanā
+   အသရေဖျက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pāpicchatā
+   ယုတ်မာသော အလိုရှိခြင်း   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+pāribhaṭayatā
+   ကလေးထိန်းသကဲ့သို့ ချော့မော့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pārikkhattiyaṃ
+   ကြော့ရှင်းဟန် ပြသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+pātubhūt
+   ထင်ရှားလာပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+pāṇātipātā ārati
+   သူ့အသက်ကို သတ်ခြင်းမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   new (pi-1 virati list)   <- ch12-14:G.ITEM_SRC
+
+pāṭipuggalik
+   ပုဂ္ဂိုလ်တစ်ဦးချင်းစီ၏ ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1050   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+pīti
+   ပီတိ   <- ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pītisambojjhaṅgo   <- ch5-7-11:G.BOJ
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+pītisambojjhaṅgo
+   ပီတိ ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+randhagavesitā
+   အပြစ်အနာအဆာ ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+rasataṇhā
+   အရသာကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+
+rasāsā
+   အရသာကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+rosanā
+   ဒေါသ ထွက်စေခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+rāgo
+   ရာဂ   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+rūpa
+   အဆင်းအရောင်   <- ch12-14:F.OBJECT, ch15-16:F.OBJECT, ch17:F.OBJECT, ch18:F.OBJECT, ch2-4:F.OBJECT, ch2-4:G.OBJ6, ch5-7-11:F.OBJECT, ch6:F.OBJECT, sample:F.OBJECT
+   ရုပ်   <- ch15-16:G.SAHA, ch17:G.TB
+
+rūpajīvitindriyaṃ
+   ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည်   <- ch5-7-11:G.NAME, ch5-7-11:G.NEWLOG
+   ရုပ် အသက်၏ စွမ်းရည်   <- ch18:G.ITEMS
+
+rūpasaññā
+   အဆင်းအရောင်ကို မှတ်သိမှု   <- ch2-4:G.SIX
+   အဆင်းအရောင်ဟု မှတ်သိမှု   <- ch12-14:G.ITEMS
+   new   <- ch12-14:G.ITEM_SRC
+   ရုပ်ဟု မှတ်သိမှု   <- ch12-14:G.NOUNS
+
+rūpataṇhā
+   အဆင်းအရောင်ကို တပ်မက်မှု   <- ch17:G.ITEMS, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+   rūpataṇhā@realm   <- ch17:G.HOMO
+   သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်မှု   <- ch17:G.NAME
+
+rūpaṃ
+   rūpa   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   rūpino   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG, ch17:F.TERM_IRREG, ch18:F.TERM_IRREG, ch2-4:F.TERM_IRREG, ch5-7-11:F.TERM_IRREG, ch6:F.TERM_IRREG, sample:F.TERM_IRREG
+   စာလုံးပေါင်းကွဲ   <- ch2-4:G.VKIND
+   ရုပ်ပိုင်း   <- ch6:G.NOUN6
+   အဆင်းအရောင်   <- ch17:G.TB
+
+rūpā
+   အဆင်းအရောင်   <- ch12-14:F.ITEM, ch15-16:F.ITEM, ch17:F.ITEM, ch18:F.ITEM, ch18:G.ITEMS, ch2-4:F.ITEM, ch2-4:G.SIX, ch2-4:G.TWELVE, ch5-7-11:F.ITEM, ch6:F.ITEM, sample:F.ITEM
+   rūpino   <- ch2-4:F.TERM_IRREG, ch2-4:G.IRREG, ch5-7-11:F.TERM_IRREG
+
+rūpāsā
+   အဆင်းအရောင်ကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+rūpī
+   ရုပ် ရှိသော   <- ch17:G.TB
+   ရုပ် ရှိသူ   <- ch17:G.ATTA_X, ch17:G.PERSON
+
+saccaṃ
+   သစ္စာ   <- ch17:G.TB
+   sacc   <- ch18:G.NOUN_FORMS
+
+sacchikiriyā
+   မျက်မှောက်ပြုခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+saccāni
+   sacc   <- ch18:G.NOUN_FORMS
+   သစ္စာ   <- ch18:G.KATI_NOUN
+
+saddahanā
+   ယုံကြည်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+saddasaññā
+   အသံကို မှတ်သိမှု   <- ch2-4:G.SIX
+   အသံဟု မှတ်သိမှု   <- ch12-14:G.ITEMS
+   new   <- ch12-14:G.ITEM_SRC
+
+saddataṇhā
+   အသံကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA, ch2-4:G.SIX, ch6:G.ITEM6
+   pi-1   <- ch17:G.ITEM_SRC
+
+saddhindriyaṃ
+   ယုံကြည်မှု၏ စွမ်းရည်   <- ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+
+saddhā
+   ယုံကြည်မှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+saddhābalaṃ
+   ယုံကြည်မှု၏ စွမ်းအား   <- ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye saddhā saddahanā   <- ch5-7-11:G.SYN_SRC
+
+saddāsā
+   အသံကို မျှော်လင့်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+sakkāra
+   အရိုအသေ ပြုခံရမှု   <- ch17:G.TB
+   အပူဇော်ခံရခြင်း   <- ch17:G.MADA_BASE
+
+sallakkhaṇā
+   လက္ခဏာကို ကောင်းစွာ ခွဲခြားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sallapanā
+   ရင်းနှီးစွာ ပြောဆိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+sallīyanā
+   လုံးဝ တွန့်ဆုတ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+samannāhāro
+   စိတ်ကို ဆောင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samatho
+   စိတ်ငြိမ်သက်ခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sambhajanā
+   ကောင်းစွာ ဆည်းကပ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sambhatti
+   ကောင်းစွာ ကိုးကွယ်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+samiddhi
+   ကောင်းစွာ ပြည့်စုံခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+samijjhanā
+   ကောင်းစွာ ပြီးမြောက်ခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+sammoho
+   လုံးဝ တွေဝေခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sammusanatā
+   မေ့လျော့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sammādiṭṭhi
+   မှန်ကန်သော အယူ   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sammākammanto
+   မှန်ကန်သော အလုပ်   <- ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye tīhi kāyaduccaritehi   <- ch5-7-11:G.SYN_SRC
+
+sammāsamādhi
+   မှန်ကန်သော သမာဓိ   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sammāsati
+   မှန်ကန်သော သတိ   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sammāsaṅkappo
+   မှန်ကန်သော ကြံစည်မှု   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sammāvācā
+   မှန်ကန်သော စကား   <- ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+
+sammāvāyāmo
+   မှန်ကန်သော အားထုတ်မှု   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sammāājīvo
+   မှန်ကန်သော အသက်မွေးမှု   <- ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye micchāājīvā   <- ch5-7-11:G.SYN_SRC
+
+samodhānaṃ
+   စုဝေးခြင်း   <- ch2-4:G.SYN4
+   ပေါင်းစည်းခြင်း   <- ch6:G.SANGATI
+
+sampadoso
+   ပြင်းစွာ ဒေါသထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+sampaggāho
+   အလွန် မြှင့်တင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sampajaññaṃ
+   ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း   <- ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sampajāno
+   ကောင်းစွာ ဆင်ခြင်သိမြင်သူ   <- ch12-14:G.LEM, ch5-7-11:G.GL, ch5-7-11:G.NEWLOG
+   ကောင်းစွာ ဆင်ခြင်သိမြင်သော   <- ch17:G.TB
+
+sampakopo
+   ပြင်းစွာ အမျက်ထွက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+sampatthanā
+   ကောင်းစွာ ဆုတောင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sampatti
+   ကောင်းစွာ ရောက်ခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+   ပြည့်စုံမှု   <- ch15-16:G._SA, ch15-16:G._SV
+
+sampavaṅkatā
+   ညွတ်ကိုင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   new   <- ch17:G.ITEM_SRC
+
+sampāpanā
+   အလွန် အသရေဖျက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samudayasaccaṃ
+   ဖြစ်ပေါ်ခြင်း သစ္စာ   <- ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NAMES4, ch2-4:G.NM
+   ဒုက္ခ ဖြစ်ပေါ်ခြင်း သစ္စာ   <- ch18:G.ITEMS, ch18:G.NEW_ITEMS
+
+samukkhepanā
+   အလွန် မြှောက်ပင့်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samukkācanā
+   အလွန် ချီးမွမ်း ပြောဆိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samullapanā
+   အလွန် မြှောက်ပင့် ပြောဆိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samunnahanā
+   အလွန် ချည်နှောင်သကဲ့သို့ ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+samuppann
+   ဖြစ်ပေါ်လာသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+samuṭṭhit
+   ကောင်းစွာ ထပေါ်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+samādhi
+   သမာဓိ   <- ch17:G.TB, ch5-7-11:G.NAME
+   samādhisambojjhaṅgo   <- ch5-7-11:G.BOJ
+
+samādhibalaṃ
+   သမာဓိ၏ စွမ်းအား   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+samādhindriyaṃ
+   သမာဓိ၏ စွမ်းရည်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+samādhisambojjhaṅgo
+   သမာဓိ ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+samāgamo
+   ပေါင်းဆုံခြင်း   <- ch2-4:G.SYN4
+   ဆုံဆည်းခြင်း   <- ch6:G.SANGATI
+
+sannamanā
+   ကွေးညွတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+santhavo
+   ရင်းနှီးခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+santike
+   အနီး၌ ရှိသော   <- ch12-14:F.DEF, ch12-14:F.Q11A, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F.Q11A, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F.Q11A, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F.Q11A, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F.Q11A, ch2-4:F
+   အနီး၌ ရှိသည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   အနီး၌ ရှိ   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+   santike   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+sappi
+   ထောပတ်ဆီ   <- ch2-4:G.EXAMPLES
+   ထောပတ်ကြည်   <- ch15-16:G.FACT, ch17:G.TB
+
+saraṇatā
+   မှတ်မိခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+saritā
+   စီးဆင်းတတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sassatadiṭṭhi
+   အတ္တသည် ထာဝရ တည်မြဲသည်ဟူသော အယူ   <- ch17:G.TB
+   မြဲသည်ဟူသော အယူ   <- ch17:G.NAME
+
+sassato loko
+   လောကသည် ထာဝရ တည်မြဲသည်   <- ch15-16:G.VIEW
+   လောကသည် မြဲ၏   <- ch17:G.VIEW
+
+sati
+   သတိ   <- ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   satisambojjhaṅgo   <- ch5-7-11:G.BOJ
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+satibalaṃ
+   သတိ၏ စွမ်းအား   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+satindriyaṃ
+   သတိ၏ စွမ်းရည်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+satisambojjhaṅgo
+   သတိ ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye sati anussati .* satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+sattesu
+   သတ္တဝါတို့အပေါ်၌   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+savitakkaṃ savicāraṃ
+   savitakkasavicārā   <- ch12-14:F.TERM_IRREG
+   စတင်ကြံစည်မှု ရှိသော၊ ဆက်လက်သုံးသပ်မှု ရှိသော   <- ch12-14:G.LEM
+
+sañcetanā
+   စေ့ဆော်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sañcetayitattaṃ
+   စေ့ဆော်ထားသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1 (spelling)   <- ch12-14:G.ITEM_SRC
+
+sañjananī
+   ကောင်းစွာ မွေးဖွားပေးတတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sañjānanā
+   မှတ်သိခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+sañjānitattaṃ
+   မှတ်သိထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+sañjāt
+   ကောင်းစွာ မွေးဖွားပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+saññaṃ
+   saññā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   မှတ်သိမှု   <- ch17:G.TB
+
+saññā
+   saññā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   မှတ်သိမှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.ITEMS, ch17:G.TB, ch18:G.KATI_NOUN
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+   saññ   <- ch18:G.NOUN_FORMS
+
+saññākkhandho
+   မှတ်သိမှု အစုအဝေး   <- ch12-14:F.ITEM, ch12-14:F.KH, ch12-14:G.ITEMS, ch15-16:F.ITEM, ch15-16:F.KH, ch15-16:G.FACT, ch17:F.ITEM, ch17:F.KH, ch17:G.TB, ch18:F.ITEM, ch18:F.KH, ch18:G.ITEMS, ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NM, ch5-7-11:F.ITEM,
+   new   <- ch12-14:G.ITEM_SRC
+
+saññāvipariyāso
+   မှတ်သိမှု ပြောင်းပြန်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+saññī
+   မှတ်သိသော   <- ch17:G.TB
+   မှတ်သိမှု ရှိသူ   <- ch17:G.ATTA_X, ch17:G.PERSON
+
+saḷāyatana
+   အာရုံခံ နယ်ပယ် ခြောက်ပါး   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch6:G.FACT
+   saḷāyatana   <- ch15-16:G.CAUSE
+
+saḷāyatanaṃ
+   saḷāyatana   <- ch6:G.NOM
+   အာရုံခံ နယ်ပယ် ခြောက်ပါး   <- ch15-16:G.ACC
+
+saṃkhittaṃ
+   တွန့်ဆုတ်နေသော   <- ch5-7-11:G.CQ
+   တွန့်ဆုတ်သော   <- ch15-16:G.CST
+
+saṃsayo
+   ဒွိဟ ဖြစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+saṃsevanā
+   ကောင်းစွာ ပေါင်းသင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+saṃvaro
+   စောင့်စည်းခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+   စောင့်စည်းမှု   <- ch17:G.TB
+
+saṃyojanavippayuttā asaṃyojaniyā
+   saṃyojanavippayuttaasaṃyojaniyā   <- ch15-16:F.TERM_IRREG
+   နှောင်ကြိုးနှင့် ကင်းကွာသော၊ နှောင်ကြိုး၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+saṃyojanavippayuttā saṃyojaniyā
+   saṃyojanavippayuttasaṃyojaniyā   <- ch15-16:F.TERM_IRREG
+   နှောင်ကြိုးနှင့် ကင်းကွာသော၊ နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+   နှောင်ကြိုးနှင့် ကင်းကွာသော … နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော   <- ch17:G.TB
+
+saṃyojanā
+   နှောင်ကြိုး ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   နှောင်ကြိုး   <- ch17:G.TB
+
+saṅgati
+   ဆုံတွေ့ခြင်း   <- ch2-4:G.SYN4
+   စုဝေးခြင်း   <- ch6:G.SANGATI
+
+saṅgo
+   တွယ်ကပ်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+saṅkappo
+   ကြံစည်မှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+saṅkhipanā
+   အလွန် ပစ်ချခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+saṅkhāra
+   ပြုပြင်ဖန်တီးမှု   <- ch17:G.TB, ch6:G.FACT
+   saṅkhārā   <- ch15-16:G.CAUSE
+
+saṅkhārakkhandho
+   ပြုပြင်ဖန်တီးမှု အစုအဝေး   <- ch12-14:F.ITEM, ch12-14:F.KH, ch12-14:G.ITEMS, ch15-16:F.ITEM, ch15-16:F.KH, ch15-16:G.FACT, ch17:F.ITEM, ch17:F.KH, ch17:G.TB, ch18:F.ITEM, ch18:F.KH, ch18:G.ITEMS, ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NM, ch5-7-11:F.ITEM,
+   new   <- ch12-14:G.ITEM_SRC
+
+saṅkhāre
+   saṅkhārā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   ပြုပြင်ဖန်တီးမှုများ   <- ch15-16:G.ACC
+
+saṅkhāro
+   saṅkhāra   <- ch6:G.NOM
+   ပြုပြင်ဖန်တီးမှု   <- ch6:G.NOUN6
+
+saṅkhārā
+   saṅkhārā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch15-16:G.RES, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   saṅkhāra   <- ch6:G.NOM
+   ပြုပြင်ဖန်တီးမှုများ   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM
+   ပြုပြင်ဖန်တီးမှု   <- ch17:G.TB
+
+saṇhaṃ
+   ချောမွေ့သောအရာ   <- ch15-16:G.FACT
+   ချောမွေ့သော   <- ch17:G.TB
+
+saṇṭhiti
+   ကောင်းစွာ တည်တံ့ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye cittassa ṭhiti .* samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+saṭhatā
+   စဉ်းလဲခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+saṭhaṃ
+   စဉ်းလဲမှု   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+senāsanamaṇḍanā
+   ကျောင်းအိပ်ရာနေရာကို အလှဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+setughāto
+   တံတားကို ဖြိုဖျက်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+sevanā
+   ပေါင်းသင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sibbinī
+   ချုပ်လုပ်တတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sikkhāya
+   ကျင့်စဉ်   <- ch17:G.TB
+   ကျင့်စဉ်အပေါ်   <- ch17:G.KV_OBJ
+
+sineho
+   စေးကပ်မှု   <- ch17:G.TB
+   ချစ်ခင်မှု   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+siṅgaṃ
+   ကြွားလုံး ထုတ်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+siṅgāratā
+   ကြွားလုံး ထုတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+sota
+   နား   <- ch12-14:F.SENSE, ch12-14:F.SRC, ch15-16:F.SENSE, ch15-16:F.SRC, ch17:F.SENSE, ch17:F.SRC, ch17:G.TB, ch18:F.SENSE, ch18:F.SRC, ch18:G.SENSE, ch2-4:F.SENSE, ch2-4:F.SRC, ch5-7-11:F.SENSE, ch5-7-11:F.SRC, ch6:F.SENSE, ch6:
+   နား၏ တွေ့ထိမှုကို အကြောင်းပြု၍ ဖြစ်သော   <- ch12-14:F.PACCAYA, ch15-16:F.PACCAYA, ch17:F.PACCAYA, ch18:F.PACCAYA, ch2-4:F.PACCAYA, ch5-7-11:F.PACCAYA, ch6:F.PACCAYA, sample:F.PACCAYA
+   နား သိစိတ်   <- ch15-16:G._XV
+
+sotaṃ
+   နား   <- ch17:G.TB, ch2-4:G.SIX, ch2-4:G.TWELVE
+   ရေစီးကြောင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+sukha
+   သာယာမှု   <- ch17:G.TB
+   ချမ်းသာ၏   <- ch17:G.VIEW
+
+sukhassa ca pahānā
+   သာယာမှုကိုလည်း ပယ်ခြင်းကြောင့်   <- ch12-14:G.JF, ch17:G._JH, ch2-4:G.JH, ch5-7-11:G.J
+   သာယာမှုကိုလည်း ပယ်ခြင်း   <- ch17:G.TB
+
+sukhaṃ vedanaṃ
+   သာယာသော ခံစားမှုကို   <- ch5-7-11:G.PH
+   သာယာသော ခံစားမှု   <- ch12-14:G.ETTHA_OBJ
+
+sukhuma
+   နုညံ့သော   <- ch12-14:F.Q11A, ch15-16:F.Q11A, ch17:F.Q11A, ch18:F.Q11A, ch2-4:F.Q11A, ch5-7-11:F.Q11A, ch6:F.Q11A, sample:F.Q11A
+   နုညံ့သည်ဖြစ်စေ   <- ch12-14:F.Q11V, ch15-16:F.Q11V, ch17:F.Q11V, ch18:F.Q11V, ch2-4:F.Q11V, ch5-7-11:F.Q11V, ch6:F.Q11V, sample:F.Q11V
+   နုညံ့   <- ch12-14:F.Q11P, ch15-16:F.Q11P, ch17:F.Q11P, ch18:F.Q11P, ch2-4:F.Q11P, ch5-7-11:F.Q11P, ch6:F.Q11P, sample:F.Q11P
+
+sukhumaṃ
+   sukhuma   <- ch12-14:F.Q11_FORMS, ch15-16:F.Q11_FORMS, ch17:F.Q11_FORMS, ch18:F.Q11_FORMS, ch2-4:F.Q11_FORMS, ch5-7-11:F.Q11_FORMS, ch6:F.Q11_FORMS, sample:F.Q11_FORMS
+   နုညံ့သော   <- ch17:G.TB
+
+suppanā
+   အိပ်ပျော်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+suppaṃ
+   အိပ်ငိုက်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+suppitattaṃ
+   အိပ်ပျော်ထားသော အဖြစ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+surāmerayamajjapamādaṭṭhānā
+   သေရည် အရက် မူးယစ်ဖွယ်ဟူသော မေ့လျော့ခြင်း၏ အကြောင်း   <- ch12-14:G.ABST
+   မေ့လျော့ခြင်း၏ အကြောင်း ဖြစ်သော သေရည်သေရက် သောက်ခြင်း   <- ch17:G.NAME
+
+surāmerayamajjapamādaṭṭhānā ārati
+   သေရည် အရက် မူးယစ်ဖွယ်ဟူသော မေ့လျော့ခြင်း၏ အကြောင်းမှ ရှောင်ခြင်း   <- ch12-14:G.ITEMS
+   new (pi-1 virati list)   <- ch12-14:G.ITEM_SRC
+
+sutaṃ
+   ကြားရသော   <- ch17:G.TB
+   suta   <- ch17:G.MADA_ACC
+
+suttaṃ
+   ချည်ကြိုး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+sādhukamyatā
+   ကောင်းသည်ထက် ကောင်းသည်ကို လိုချင်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+sāmantajappā
+   အနီးအနား စကား ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+sārambhanā
+   ပြိုင်ဆိုင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+sārambho
+   ပြိုင်ဆိုင်မှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+sārāgo
+   တပ်မက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo rāgo sārāgo anunayo   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+sāṭheyyaṃ
+   စဉ်းလဲသော အဖြစ်   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+sīlaṃ
+   သီလ   <- ch15-16:G.ACC
+   sīla   <- ch17:G.MADA_ACC
+
+tacaraso
+   အခေါက် အရည်   <- ch2-4:G.EXAMPLES
+   အခေါက် အရသာ   <- ch17:G.TB
+
+tajjāmanodhātu
+   သက်ဆိုင်ရာ မနော ဓာတ်   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+tajjāmanoviññāṇadhātu
+   သက်ဆိုင်ရာ မနော သိစိတ် ဓာတ်   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+takko
+   တွေးတောခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+tandimanakatā
+   ပျင်းရိငိုက်မျဉ်းသော စိတ် ရှိခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+tandiyanā
+   ပျင်းရိငိုက်မျဉ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+tandī
+   ပျင်းရိငိုက်မျဉ်းမှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+tatiyaṃ
+   tatiya   <- ch5-7-11:G._JORD
+   တတိယ   <- ch12-14:G.LEM
+   pītiyā ca virāgā   <- ch17:G._ORDJ
+
+tattha asantuṭṭhitā
+   ထို၌ ရှိသော ရောင့်ရဲမှု မရှိခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+tattha santuṭṭhitā
+   ထို၌ ရှိသော ရောင့်ရဲမှု   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+taṃ jīvaṃ taṃ sarīraṃ
+   အသက်သည် ကိုယ်ခန္ဓာပင် ဖြစ်သည်   <- ch15-16:G.VIEW
+   အသက်ကောင်သည်လည်း ထိုအရာပင်၊ ကိုယ်ခန္ဓာသည်လည်း ထိုအရာပင်   <- ch17:G.VIEW
+
+taṃsampavaṅkatā
+   ထိုသူတို့ဘက်သို့ ညွတ်ကိုင်းခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+taṇhā
+   တပ်မက်မှု   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.TB, ch2-4:F.ITEM, ch2-4:G.NAMES4, ch2-4:G.NM, ch6:G.FACT
+   တပ်မက်မှုလည်း   <- ch2-4:G.DCLAUSE
+   taṇhā   <- ch15-16:G.CAUSE, ch15-16:G.RES, ch6:G.NOM
+
+taṇhāgaddulaṃ
+   တပ်မက်မှု ကြိုးသိုင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+taṇhājālaṃ
+   တပ်မက်မှု ပိုက်ကွန်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+taṇhānadī
+   တပ်မက်မှု မြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+taṇhāsamuddo
+   တပ်မက်မှု သမုဒ္ဒရာ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+taṇhāya
+   တပ်မက်မှုကိုလည်းကောင်း   <- ch2-4:G.GCLAUSE, ch2-4:G._d
+   taṇhā   <- ch15-16:G.LOC
+
+tesaṃ tesaṃ sattānaṃ
+   ထိုထို သတ္တဝါတို့၏   <- ch12-14:F.YE_GEN, ch15-16:F.YE_GEN, ch17:F.YE_GEN, ch18:F.YE_GEN, ch2-4:F.YE_GEN, ch5-7-11:F.YE_GEN, ch6:F.YE_GEN, sample:F.YE_GEN
+   ထိုထို သတ္တဝါတို့က   <- ch12-14:F.AGENT, ch15-16:F.AGENT, ch17:F.AGENT, ch18:F.AGENT, ch2-4:F.AGENT, ch5-7-11:F.AGENT, ch6:F.AGENT, sample:F.AGENT
+
+tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye
+   ထိုထို သတ္တဝါတို့၏ ထိုထို သတ္တဝါ အပေါင်း၌   <- ch2-4:G.GEN4
+   ထိုထို သတ္တဝါတို့၏ ထိုထို သတ္တဝါ အမျိုးအစား၌   <- ch6:G.LIST_GEN
+
+tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā
+   ထိုထို သတ္တဝါတို့၏ ထိုထို သတ္တဝါ အပေါင်းမှ   <- ch2-4:G.GEN4
+   ထိုထို သတ္တဝါတို့၏ ထိုထို သတ္တဝါ အမျိုးအစားမှ   <- ch6:G.LIST_GEN
+
+thambhanā
+   တောင့်တင်းခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   new   <- ch17:G.ITEM_SRC
+
+thambhitattaṃ
+   တောင့်တင်းထားသော အဖြစ်   <- ch17:G.ITEMS, ch17:G.TB
+   new   <- ch17:G.ITEM_SRC
+
+thambhitattaṃ cittassa
+   စိတ် တောင့်တင်းနေသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+thambho
+   တောင့်တင်းမှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+thinaṃ
+   ထိုင်းမှိုင်းမှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+thiyanā
+   ထိုင်းမှိုင်းခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+thiyitattaṃ cittassa
+   စိတ်၏ ထိုင်းမှိုင်းထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch17:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+thāmo
+   ခွန်အား   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+thīyanā
+   ထိုင်းမှိုင်းခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   thiyanā   <- ch17:G.TWIN
+
+thīyitattaṃ cittassa
+   စိတ်၏ ထိုင်းမှိုင်းထားသော အဖြစ်   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   thiyitattaṃ cittassa   <- ch17:G.TWIN
+
+tintiṇaṃ
+   ငမ်းငမ်းတက် မြည်တမ်းမှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+tintiṇāyanā
+   ငမ်းငမ်းတက် မြည်တမ်းခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+tintiṇāyitattaṃ
+   ငမ်းငမ်းတက် မြည်တမ်းထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+titthāyatanaṃ
+   အယူဝါဒတို့၏ တည်ရာ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+tiv
+   ti   <- ch12-14:G.ANGA
+   အင်္ဂါ သုံးပါး ရှိသော ဈာန်   <- ch12-14:G.ANGA_MY
+
+ucchedadiṭṭhi
+   အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ   <- ch17:G.TB
+   ပြတ်သည်ဟူသော အယူ   <- ch17:G.NAME
+
+uddhaccaṃ
+   uddhacca   <- ch6:G.NOM
+   ယောက်ယက်ခတ်မှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.NAME, ch17:G.TB
+   new   <- ch12-14:G.ITEM_SRC
+
+ujucittatā
+   စိတ် ခေါင်းမာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ukkaṇṭhitā
+   ငြီးငွေ့ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ukkhepanā
+   မြှောက်ပင့်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ukkācanā
+   ချီးမွမ်း ပြောဆိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ullapanā
+   မြှောက်ပင့် ပြောဆိုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+unnahanā
+   ချည်နှောင်သကဲ့သို့ ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+unnamo
+   ခေါင်းမော့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+unnati
+   စိတ် မြင့်တက်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+unnāmo
+   ခေါင်းမော့ခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   unnamo   <- ch17:G.TWIN
+
+upakaṭṭhe
+   အနားကပ်သော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+upakkileso
+   ညစ်နွမ်းစေတတ်သော အညစ်အကြေး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+upalakkhaṇā
+   လက္ခဏာကို အနီးကပ် ခွဲခြားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+upanayhanā
+   ရန်ငြိုး သိုထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+upanayhitattaṃ
+   ရန်ငြိုး သိုထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+upanāho
+   ရန်ငြိုး သိုထားမှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+upaparikkhā
+   စူးစမ်းဆန်းစစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+upasampadā
+   ပြည့်စုံစွာ ရရှိခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch5-7-11:G.SYN_SRC
+
+upavicāro
+   အနီးကပ် သုံးသပ်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+upekkhako
+   ဥပေက္ခာ ရှိသူ   <- ch12-14:G.LEM
+   ဥပေက္ခာ ရှိသော   <- ch17:G.TB
+
+upekkhako ca viharati
+   ဥပေက္ခာ ရှိလျက်လည်း နေ၍   <- ch12-14:G.JF, ch2-4:G.JH, ch5-7-11:G.J
+   ဥပေက္ခာ ရှိလျက်လည်း နေသည်   <- ch17:G.TB
+
+upekkhanā
+   ဥပေက္ခာဖြင့် ရှုခြင်း   <- ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch12-14:G.ITEM_SRC, ch5-7-11:G.SYN_SRC
+   တည်ငြိမ်စွာ ရှုခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+
+upekkhā
+   ဥပေက္ခာ   <- ch12-14:F.KH, ch12-14:G.BV, ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch12-14:G._new_items, ch15-16:G.FACT, ch15-16:G.SAHA, ch17:G.TB, ch5-7-11:G.SYN2, ch5-7-11:G._NEW_SYN
+   new   <- ch12-14:G.ITEM_SRC, ch5-7-11:G.SYN_SRC
+   upekkhāsambojjhaṅgo   <- ch5-7-11:G.BOJ
+
+upekkhācetovimutti
+   ဥပေက္ခာဖြင့် စိတ်လွတ်မြောက်မှု   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+upekkhāsambojjhaṅgo
+   ဥပေက္ခာ ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch5-7-11:G.NAME, ch5-7-11:G.NEWLOG, ch5-7-11:G.SYN2
+   new   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+upekkhāyanā
+   ဥပေက္ခာ ထားခြင်း   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+upekkhāyitattaṃ
+   ဥပေက္ခာ ထားသော အဖြစ်   <- ch12-14:G.ITEMS, ch12-14:G._new_items
+   new   <- ch12-14:G.ITEM_SRC
+
+uppajjitv vigat
+   ဖြစ်ပေါ်ပြီးမှ ကင်းပျောက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+uppann
+   ဖြစ်ပေါ်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+uppādinī
+   uppādino   <- ch15-16:F.TERM_IRREG, ch2-4:F.TERM_IRREG
+   ဖြစ်ပေါ်လာမည့်   <- ch15-16:G.NEWT
+
+upādiṇṇ
+   ကံကြောင့် ဖြစ်သော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1050   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+upādāna
+   စွဲလမ်းမှု   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch6:G.FACT
+   upādāna   <- ch15-16:G.CAUSE
+
+upādānavippayuttā anupādāniyā
+   upādānavippayuttaanupādāniyā   <- ch15-16:F.TERM_IRREG
+   စွဲလမ်းမှုနှင့် ကင်းကွာသော၊ စွဲလမ်းမှု၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+upādānavippayuttā upādāniyā
+   upādānavippayuttaupādāniyā   <- ch15-16:F.TERM_IRREG
+   စွဲလမ်းမှုနှင့် ကင်းကွာသော၊ စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+   စွဲလမ်းမှုနှင့် ကင်းကွာသော … စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော   <- ch17:G.TB
+
+upādānaṃ
+   upādāna   <- ch6:G.NOM
+   စွဲလမ်းမှု   <- ch15-16:G.ACC, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+upādānā
+   စွဲလမ်းမှု ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   စွဲလမ်းမှု   <- ch17:G.TB
+
+upārambhanā
+   အပြစ်ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+upārambho
+   အပြစ်ရှာမှု   <- ch17:G.ITEMS, ch17:G.NAME
+   new   <- ch17:G.ITEM_SRC
+
+ussoḷhī
+   ပြင်းပြသော အားမာန်   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ussāho
+   စိတ်အားထက်သန်မှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+usūyanā
+   သဝန်တိုခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+usūyitattaṃ
+   သဝန်တိုထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+usūyā
+   သဝန်တိုမှု   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+uyyāmo
+   ထကြွ ကြိုးစားခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+uññā
+   အထင်သေးခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+uññāt
+   အထင်သေးထားသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+uṭṭhit
+   ထပေါ်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1046   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+vacī
+   နှုတ်ဖြင့် ပြုသော   <- ch15-16:G._CONDUCT
+   နှုတ်   <- ch17:G.TB
+
+vaggagamanaṃ
+   ဂိုဏ်းဖွဲ့၍ လိုက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vajje avajjasaññitā
+   အပြစ်ရှိသည်၌ အပြစ်မရှိသည်ဟု မှတ်ထင်ခြင်း   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vambhanā
+   နှိမ့်ချ ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vanatho
+   တောအုပ်   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+vanaṃ
+   တော   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+vattanā
+   လည်ပတ်ခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+vañcanā
+   လိမ်လည်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vaṅkatā
+   ကွေးညွှတ်ခြင်း   <- ch17:G.TB
+   ကွေးကောက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vaṇṇa
+   ဂုဏ်သတင်း   <- ch17:G.TB
+   အဆင်းလှခြင်း   <- ch17:G.MADA_BASE
+
+vebhabyā
+   ခွဲခြမ်းစိတ်ဖြာခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vedanaṃ
+   vedanā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, sample:F.NOUN_PI
+   ခံစားမှု   <- ch17:G.TB
+
+vedanā
+   vedanā   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch15-16:G.CAUSE, ch15-16:G.RES, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, ch6:G.NOM, sample:F.NOUN_PI
+   ခံစားမှု   <- ch15-16:G.FACT, ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.TB, ch18:G.KATI_NOUN, ch5-7-11:G.CONT, ch6:G.FACT
+   ခံစားမှုတို့၌   <- ch5-7-11:G.LOCMY
+   vedanānupassī   <- ch5-7-11:G.ANUPA
+   vedan   <- ch18:G.NOUN_FORMS
+
+vedanāya
+   vedanā   <- ch15-16:G.LOC
+   ခံစားမှု   <- ch17:G.TB
+
+velāanatikkamo
+   နယ်နိမိတ်ကို မကျော်လွန်ခြင်း   <- ch12-14:G.ITEMS, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+veramaṇī
+   ကင်းဝေးခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vevicchaṃ
+   တစ်ကိုယ်ကောင်းဆန်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+vibhavataṇhā
+   ဘဝ ပျောက်ကွယ်ခြင်းကို တပ်မက်မှု   <- ch17:G.ITEMS, ch17:G.NAME, ch2-4:G.P1TANHA
+   pi-1   <- ch17:G.ITEM_SRC
+
+vibhūsanā
+   တန်ဆာဆင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vicayo
+   စိစစ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vicikicchā
+   ယုံမှားမှု   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch17:G.ITEMS, ch17:G.NAME, ch17:G.TB, ch6:G.FACT
+   vicikicchā   <- ch6:G.NOM
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+vicāro
+   ဆက်လက်သုံးသပ်မှု   <- ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vigat
+   ကင်းပျောက်ပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+viharati
+   နေ၏   <- ch12-14:G.IRIYATI_MY, ch12-14:G.LEM, ch12-14:G.VIRATA, ch5-7-11:G.NEWLOG
+   နေသည်   <- ch17:G.TB
+
+viheṭhanā
+   ညှဉ်းဆဲခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+vihiṃsanā
+   ညှဉ်းပန်းခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+vihāro
+   ကျောင်း   <- ch12-14:G.SENA_ITEMS
+   နေထိုင်မှု   <- ch17:G.TB
+
+vijambhanā
+   အကြိမ်ကြိမ် သမ်းဝေခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vikiraṇā
+   ဖုံးကွယ်ရန် ဖြန့်ကြဲခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vikkhittaṃ
+   ပျံ့လွင့်နေသော   <- ch5-7-11:G.CQ
+   ပျံ့လွင့်သော   <- ch15-16:G.CST
+
+vimati
+   စိတ်ရှုပ်ထွေးခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+vinamanā
+   အမျိုးမျိုး ကိုင်းညွတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vipaccanīkasātatā
+   ဆန့်ကျင်ခြင်း၌ နှစ်သက်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+vipariyāsaggāho
+   ပြောင်းပြန် စွဲကိုင်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+vipariṇat
+   ဖောက်ပြန် ပြောင်းလဲပြီးသော   <- ch12-14:F.DEF, ch15-16:F.DEF, ch17:F.DEF, ch18:F.DEF, ch2-4:F.DEF, ch5-7-11:F.DEF, ch6:F.DEF, sample:F.DEF
+   ^1-1044   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+vipassanā
+   ထိုးထွင်းသိမြင်ခြင်း   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tesaṃ dhammānaṃ anaññātānaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vipatti
+   ချို့ယွင်းမှု   <- ch15-16:G._SA, ch15-16:G._SV
+   ပျက်စီးခြင်း   <- ch17:G.TB
+
+vippaṭikulaggāhitā
+   ဆန့်ကျင်ဘက် ယူခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   vippaṭikūlaggāhitā   <- ch17:G.TWIN
+
+vippaṭikūlaggāhitā
+   ဆန့်ကျင်ဘက် ယူခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+vipāka
+   အကျိုး   <- ch15-16:G._AV
+   ကံ၏ အကျိုး   <- ch17:G.TB
+
+vipākadhammadhammā
+   အကျိုး ပေးတတ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   အကျိုး ပေးတတ်သော သဘောတရား   <- ch17:G.TB
+
+virati
+   ရှောင်ကြဉ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+virodho
+   ဆန့်ကျင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+virosanā
+   အလွန် ဒေါသ ထွက်စေခြင်း   <- ch17:G.ITEMS
+   pi-2   <- ch17:G.ITEM_SRC
+
+visamalobho
+   ဖောက်ပြန်သော လောဘ   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+visattikā
+   ပျံ့နှံ့ တွယ်ကပ်တတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+visaṭā
+   ပျံ့နှံ့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+vitakko
+   စတင်ကြံစည်မှု   <- ch12-14:G.FACTOR, ch12-14:G.ITEMS, ch12-14:G.NOUNS, ch15-16:G.FACT, ch17:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+   pi-2   <- ch17:G.ITEM_SRC
+
+vitti
+   ကျေနပ်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vivaragataṃ
+   အပေါက် သဘော ရှိသောအရာ   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vivaro
+   အပေါက်   <- ch12-14:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vivādaṭṭhānaṃ
+   အငြင်းပွားရာ အကြောင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+viññāṇa
+   သိစိတ်   <- ch15-16:G.PS_LINK, ch15-16:G._TRUTH_STEM, ch17:G.TB, ch6:G.FACT
+   viññāṇa   <- ch15-16:G.CAUSE
+
+viññāṇakkhandho
+   သိစိတ် အစုအဝေး   <- ch12-14:F.ITEM, ch12-14:F.KH, ch12-14:G.ITEMS, ch15-16:F.ITEM, ch15-16:F.KH, ch15-16:G.FACT, ch17:F.ITEM, ch17:F.KH, ch17:G.TB, ch18:F.ITEM, ch18:F.KH, ch18:G.ITEMS, ch2-4:F.ITEM, ch2-4:F.KH, ch2-4:G.NM, ch5-7-11:F.ITEM,
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+viññāṇaṃ
+   viññāṇa   <- ch12-14:F.NOUN_PI, ch15-16:F.NOUN_PI, ch17:F.NOUN_PI, ch18:F.NOUN_PI, ch2-4:F.NOUN_PI, ch5-7-11:F.NOUN_PI, ch6:F.NOUN_PI, ch6:G.NOM, sample:F.NOUN_PI
+   သိစိတ်   <- ch12-14:G.ITEMS, ch15-16:G.ACC, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vocchādanā
+   ကောင်းစွာ ဖုံးအုပ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vossaggo
+   လွှတ်ထားခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vossaggānuppadānaṃ
+   လွှတ်ထားခြင်းကို ထပ်ကာထပ်ကာ ပြုခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vācasiko avītikkamo
+   နှုတ်ဖြင့် မကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+
+vācasiko vītikkamo
+   နှုတ်ဖြင့် ကျူးလွန်ခြင်း   <- ch12-14:G.ITEMS, ch12-14:G.VIT
+   new   <- ch12-14:G.ITEM_SRC
+   နှုတ်ပိုင်းဆိုင်ရာ ကျူးလွန်ခြင်း   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+vārigamanaṃ
+   ရေကဲ့သို့ စီးဆင်း လိုက်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+vāyāmo
+   အားထုတ်မှု   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vīriya
+   vīriyasambojjhaṅgo   <- ch5-7-11:G.BOJ
+   ဝီရိယ   <- ch5-7-11:G.IDP
+
+vīriyabalaṃ
+   ဝီရိယ၏ စွမ်းအား   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vīriyasambojjhaṅgo
+   ဝီရိယ ဗောဇ္ဈင်   <- ch12-14:G.BOJJH, ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1 pattern (make_ch2-02-03)   <- ch12-14:G.ITEM_SRC
+
+vīriyaṃ
+   ဝီရိယ   <- ch12-14:G.ITEMS, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+vīriyindriyaṃ
+   ဝီရိယ၏ စွမ်းရည်   <- ch12-14:G.ITEMS, ch15-16:G.FACT, ch17:G.TB, ch18:G.ITEMS, ch5-7-11:F.KH, ch5-7-11:G.NAME, ch5-7-11:G.SYN2
+   ^Yo tasmiṃ samaye cetasiko vīriyārambho .* vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+yapanā
+   ဆက်လက် ဖြစ်နေခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+yogavippayuttā ayoganiyā
+   yogavippayuttaayoganiyā   <- ch15-16:F.TERM_IRREG
+   ထမ်းပိုးနှင့် ကင်းကွာသော၊ ထမ်းပိုး၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+yogavippayuttā yoganiyā
+   yogavippayuttayoganiyā   <- ch15-16:F.TERM_IRREG
+   ထမ်းပိုးနှင့် ကင်းကွာသော၊ ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+yogo
+   ထမ်းပိုး   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+yogā
+   ထမ်းပိုး ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   ထမ်းပိုး   <- ch17:G.TB
+
+yugaggāho
+   တန်းတူ ဆွဲကိုင်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+yāpanā
+   ဆက်လက် ရှင်သန်စေခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+ābhogo
+   စိတ်ညွတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+āhāro
+   အာဟာရ   <- ch17:G.TB
+   āhār   <- ch18:G.NOUN_FORMS
+
+āhārā
+   အာဟာရများ   <- ch15-16:G.FACT
+   အာဟာရ   <- ch17:G.TB, ch18:G.KATI_NOUN
+   āhār   <- ch18:G.NOUN_FORMS
+
+ākāsagataṃ
+   ဟင်းလင်းပြင် သဘော ရှိသောအရာ   <- ch12-14:G.ITEMS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ākāso
+   ဟင်းလင်းပြင်   <- ch12-14:G.ITEMS, ch12-14:G.NOUNS
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ālapanā
+   စကား စ၍ ပြောခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ālasyaṃ
+   ပျင်းရိခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ālasyāyanā
+   ပျင်းရိနေခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ālasyāyitattaṃ
+   ပျင်းရိထားသော အဖြစ်   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+āmisassa eṭṭhi
+   ပစ္စည်းကို ရှာခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+āmodanā
+   ဝမ်းသာခြင်း   <- ch12-14:G.ITEMS, ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye pīti pāmojjaṃ .* pītisambojjhaṅgo –   <- ch5-7-11:G.SYN_SRC
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ānamanā
+   ကိုင်းညွတ်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+ārakkho
+   စောင့်ရှောက်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.T9, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC
+
+ārati
+   ရှောင်ခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yā tasmiṃ samaye catūhi vacīduccaritehi   <- ch5-7-11:G.SYN_SRC
+
+āsanne
+   နီးကပ်သော   <- ch12-14:F.DEF, ch12-14:F._NEW_DEF, ch15-16:F.DEF, ch15-16:F._NEW_DEF, ch17:F.DEF, ch17:F._NEW_DEF, ch18:F.DEF, ch18:F._NEW_DEF, ch2-4:F.DEF, ch2-4:F._NEW_DEF, ch5-7-11:F.DEF, ch5-7-11:F._NEW_DEF, ch6:F.DEF, ch6:F._NEW_DE
+   new   <- ch12-14:F.DEF_SRC, ch15-16:F.DEF_SRC, ch17:F.DEF_SRC, ch18:F.DEF_SRC, ch2-4:F.DEF_SRC, ch5-7-11:F.DEF_SRC, ch6:F.DEF_SRC, sample:F.DEF_SRC
+
+āsappanā
+   ယိမ်းယိုင်ခြင်း   <- ch12-14:G.ITEMS, ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch12-14:G.ITEM_SRC, ch17:G.ITEM_SRC
+
+āsavavippayuttā anāsavā
+   āsavavippayuttaanāsavā   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG
+   စိတ်အစွန်းအထင်းနှင့် ကင်းကွာသော၊ စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+āsavavippayuttā sāsavā
+   āsavavippayuttasāsavā   <- ch12-14:F.TERM_IRREG, ch15-16:F.TERM_IRREG
+   စိတ်အစွန်းအထင်းနှင့် ကင်းကွာသော၊ စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော   <- ch15-16:G.NEWT
+
+āsavā
+   စိတ်အစွန်းအထင်း ဖြစ်သော   <- ch12-14:F.T, ch12-14:G.T, ch15-16:F.T, ch15-16:G.T, ch17:F.T, ch17:G.T, ch18:F.T, ch18:G.T, ch2-4:F.T, ch2-4:G.T, ch5-7-11:F.T, ch5-7-11:G.T, ch6:F.T, ch6:G.T, sample:F.T
+   စိတ်အစွန်းအထင်း   <- ch17:G.TB
+
+āsisanā
+   တောင့်တခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+āsisitattaṃ
+   တောင့်တထားသော အဖြစ်   <- ch17:G.ITEMS
+   pi-1   <- ch17:G.ITEM_SRC
+
+āsā
+   မျှော်လင့်ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+āsīsanā
+   တောင့်တခြင်း   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   āsisanā   <- ch17:G.TWIN
+
+āsīsitattaṃ
+   တောင့်တထားသော အဖြစ်   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   āsisitattaṃ   <- ch17:G.TWIN
+
+āvaraṇaṃ
+   ပိတ်ဆို့ခြင်း   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+āvaṭṭanā
+   လှည့်ခြင်း   <- ch17:G.ITEMS
+   new   <- ch17:G.ITEM_SRC
+
+āyatana
+   အာရုံခံ နယ်ပယ်တို့   <- ch15-16:G.NANATTA
+   အာရုံခံ နယ်ပယ်   <- ch17:G.TB
+
+āyatanā
+   အာရုံခံ နယ်ပယ်   <- ch17:G.TB, ch18:G.KATI_NOUN
+   āyatan   <- ch18:G.NOUN_FORMS
+
+āyatanānaṃ
+   အာရုံခံ နယ်ပယ်   <- ch17:G.TB
+   āyatan   <- ch18:G.NOUN_FORMS
+
+āyatanāni
+   အာရုံခံ နယ်ပယ်များ   <- ch15-16:G.FACT
+   နယ်ပယ်   <- ch17:G.TB
+   āyatan   <- ch18:G.NOUN_FORMS
+   အာရုံခံ နယ်ပယ်   <- ch18:G.KATI_NOUN
+
+āyu
+   သက်တမ်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+āyūhanī
+   ကြိုးပမ်းစေတတ်သူ   <- ch17:G.ITEMS
+   twin   <- ch17:G.ITEM_SRC
+   āyūhinī   <- ch17:G.TWIN
+
+āyūhinī
+   ကြိုးပမ်းစေတတ်သူ   <- ch17:G.ITEMS, ch17:G.TB
+   pi-1   <- ch17:G.ITEM_SRC
+
+ṭhiti
+   တည်တံ့ခြင်း   <- ch17:G.TB, ch5-7-11:G.SYN2
+   ^Yo tesaṃ rūpīnaṃ dhammānaṃ āyu   <- ch5-7-11:G.SYN_SRC
+
+‘
+   ‘   <- ch2-4:G.QOPEN
+   ’   <- ch2-4:G.QCLOSE

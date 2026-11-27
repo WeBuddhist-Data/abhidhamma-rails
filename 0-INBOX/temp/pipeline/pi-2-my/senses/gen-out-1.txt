@@ -1,0 +1,200 @@
+wrote 4956 decision lines -> decisions-part1.txt
+  MANUAL 109 | pi-1 senses unchanged 1135 | pi-1 senses, subset attested 39 | pi-1 one sense + new values 99 | Marathi tag 3574 | pi-1 matched by case only 90
+REVIEW (197): several Burmese values lumped into one sense; check, then add to LUMP_OK or MANUAL:
+  Paṭicca [pi-1 one sense, new values မှီ၍]: အကြောင်းတို့ကို မှီ၍ / မှီ၍
+  niddeso [pi-1 one sense, new values ဖွင့်ဆိုချက်]: အကျယ် ဖော်ပြချက် / ဖွင့်ဆိုချက်
+  vuccati rūpaṃ [pi-1 one sense, new values ရုပ်ဟု ခေါ်သည်]: ရုပ်ဟု ခေါ်သည်
+  pātubhūtā [pi-1 one sense, new values ထင်ရှားလာသော]: ထင်ရှားလာပြီးသော / ထင်ရှားလာသော
+  abbhatthaṅgatā [pi-1 one sense, new values လုံးဝ ကွယ်ပျောက်သွားသော]: လုံးဝ ကွယ်ပျောက်သွားသော / လုံးဝ ကွယ်ပျောက်ပြီးသော
+  Iddhi [pi-1 one sense, new values တန်ခိုး]: ဣဒ္ဓိ / တန်ခိုး
+  samāpannassa [pi-1 one sense, new values ဝင်စားသော]: ဈာန် ဝင်စားသော / ဝင်စားသော
+  ārūpāvacara [one Marathi tag]: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော / ရုပ်မရှိသော ဘုံတို့နှင့် ဆိုင်သော
+  Upekkhā [pi-1 one sense, new values လျစ်လျူရှုဖွယ်]: ဥပေက္ခာ / လျစ်လျူရှုဖွယ်
+  Catukka [pi-1 one sense, new values လေးမျိုးတွဲ]: လေးမျိုးတွဲ
+  Pañcaka [pi-1 one sense, new values ငါးမျိုးတွဲ]: ငါးမျိုးတွဲ
+  icchatā [one Marathi tag]: လိုချင်မှု / အလိုရှိခြင်း / လိုချင်ခြင်း
+  māno [pi-1 one sense, new values ထင်မှတ်မှု]: မာန / ထင်မှတ်မှု
+  vibhava [pi-1 one sense, new values ဘဝ ပျောက်ကွယ်ခြင်း]: ဘဝ ပျောက်ကွယ်သည် / ဘဝ ပျောက်ကွယ်ခြင်း
+  uccheda [pi-1 one sense, new values ပြတ်စဲသွားသည် / ပြတ်သည်]: ပြတ်စဲသွားသည် / ပြတ်သည်
+  ucchedadiṭṭhi [pi-1 one sense, new values အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ]: အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ
+  Sassata [pi-1 one sense, new values မြဲသည်]: ထာဝရ တည်မြဲသည် / မြဲသည်
+  ānudiṭṭhi [one Marathi tag]: ပတ်သက်သော အယူ / အဖန်ဖန် ရှုမြင်သော အယူ
+  pāpa [pi-1 one sense, new values ယုတ်မာသော]: ဆိုး / ယုတ်မာသော
+  vipatti [pi-1 one sense, new values ချို့ယွင်းမှု]: ပျက်စီးခြင်း / ချို့ယွင်းမှု
+  esanā [one Marathi tag]: ရှာမှီးမှု / ရှာမှီးခြင်း
+  adhamma [pi-1 one sense, new values တရားနှင့် မညီသော]: တရားနှင့် မညီသော / မတရားသော
+  nānatta [pi-1 one sense, new values အမျိုးမျိုးသော]: အမျိုးမျိုး ကွဲပြားမှု / အမျိုးမျိုးသော
+  kamyatā [pi-1 one sense, new values လိုခြင်း]: ထူလိုခြင်း / လိုခြင်း / လိုချင်ခြင်း
+  uppādā [pi-1 one sense, new values ဖြစ်ပေါ်ရာ]: ဖြစ်ပေါ်ရာ
+  ānantarikāni [pi-1 one sense, new values ချက်ချင်း အကျိုးပေးသော]: ချက်ချင်း အကျိုးပေးသော
+  vivāda [one Marathi tag]: အငြင်းပွားမှု / အငြင်းပွားရာ / အငြင်းပွားခြင်း
+  vatthūni [pi-1 one sense, new values အကြောင်း / အကြောင်းရင်း]: အကြောင်း / အကြောင်းရင်း / အခြေခံ
+  ānusayā [one Marathi tag]: ကိန်းအောင်းခြင်း / ကိန်းအောင်းခြင်း ရှိသော
+  kilesavatthūni [one Marathi tag]: ကိလေသာ အကြောင်းရင်း / ကိလေသာ အခြေခံ
+  nevasaññīnāsaññī [one Marathi tag]: မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော / မှတ်သိမှု ရှိသူလည်း မဟုတ် မှတ်သိမှု မရှိသူလည်း မဟုတ်သော
+  sattā [pi-1 one sense, new values သတ်]: သတ္တဝါ / သတ်
+  āyu [pi-1 one sense, new values အသက်]: သက်တမ်း / အသက်
+  gāmī [one Marathi tag]: ဦးတည်သော / ရောက်စေသော
+  uppanno [pi-1 one sense, new values ဖြစ်ပေါ်ပြီးသော]: ဖြစ်ပေါ်ပြီးသော / ဖြစ်ပေါ်သော
+  asekkho [one Marathi tag]: ကျင့်ကြံမှု ပြီးဆုံးသူ၏ / ကျင့်ကြံမှု ပြီးဆုံးသူ
+  sekkho [one Marathi tag]: ကျင့်ကြံဆဲသူ၏ / ကျင့်ကြံဆဲသူ
+  hīno [pi-1 one sense, new values ယုတ်ညံ့သော]: ယုတ်ညံ့သော / ယုတ်ညံ့သူ
+  na [pi-1 one sense, new values မဟုတ်]: မ / မဟုတ်
+  vipākadhammadhammā [pi-1 one sense, new values အကျိုး ပေးတတ်သော]: အကျိုး ပေးတတ်သော သဘောတရား / အကျိုး ပေးတတ်သော
+  pihakaṃ [one Marathi tag]: သရက်ရွက် / အဖျဉ်း
+  santiṭṭhati [one Marathi tag]: တည်နေသည် / တည်တံ့သည်
+  somanassa [pi-1 one sense, new values ဝမ်းမြောက်ဖွယ်]: ဝမ်းမြောက်မှု / ဝမ်းမြောက်ဖွယ်
+  domanassa [pi-1 one sense, new values စိတ်ဆင်းရဲဖွယ်]: စိတ်ဆင်းရဲမှု / စိတ်ဆင်းရဲဖွယ်
+  adukkhamasukhaṃ [pi-1 one sense, new values မနာကျင် မသာယာမှု]: မနာကျင် မသာယာသော / မနာကျင် မသာယာမှု
+  paṭivirodho [pi-1 one sense, new values ဆန့်ကျင်ခြင်း]: ပြန်လည် ဆန့်ကျင်ခြင်း / ဆန့်ကျင်ခြင်း
+  uparito [one Marathi tag]: အထက်ဘက် / အထက်၌
+  byāpajjanā [pi-1 one sense, new values ဖောက်ပြန်နေခြင်း]: ဖောက်ပြန်နေခြင်း
+  uppajjati [pi-1 one sense, new values ဖြစ်ပေါ်လာသည်]: ဖြစ်ပေါ်သည် / ဖြစ်ပေါ်လာသည်
+  samannāhāro [one Marathi tag]: နှလုံးသွင်းခြင်း / အာရုံသို့ စိတ်ညွတ်ခြင်း / စိတ်ကို ဆောင်ခြင်း
+  samanantarā [one Marathi tag]: ချက်ချင်း နောက်၌ / အခြားမဲ့
+  Soḷasa [one Marathi tag]: ဆယ့်ခြောက်ပါး / တစ်ထောင့်ခြောက်ရာ / ဆယ့်ခြောက် / တစ်သောင်းခြောက်ထောင်
+  Dvādasa [pi-1 one sense, new values ဆယ့်နှစ်]: ဆယ့်နှစ်ပါး / ဆယ့်နှစ်
+  paṭilābho [one Marathi tag]: ထပ်မံ ရခြင်း / ပြန်လည် ရခြင်း / ရရှိခြင်း
+  cuti [pi-1 one sense, new values စုတေခြင်း]: စုတေခြင်း
+  bhoga [one Marathi tag]: စည်းစိမ် / စည်းစိမ်ဥစ္စာ
+  ahita [one Marathi tag]: အစီးအပွား မရှိခြင်း / စီးပွား မဖြစ်ခြင်း
+  manāpā [pi-1 one sense, new values စိတ်နှင့် တွေ့သော]: စိတ်နှင့် တွေ့သော
+  kantā [pi-1 one sense, new values ချစ်ခင်ဖွယ်ကောင်းသော]: ချစ်ခင်ဖွယ်ကောင်းသော
+  pitā [pi-1 one sense, new values ဖခင်]: အဖ / ဖခင်
+  mātā [pi-1 one sense, new values မိခင်]: အမိ / မိခင်
+  icchā [pi-1 one sense, new values အလိုဆန္ဒ / ဆန္ဒ]: အလိုရှိခြင်း / အလိုဆန္ဒ / ဆန္ဒ
+  sañcetanā [pi-1 one sense, new values စေ့ဆော်မှု]: စေ့ဆော်ခြင်း / စေ့ဆော်မှု
+  piyarūpaṃ [one Marathi tag]: ချစ်ဖွယ် သဘော ရှိသော / ချစ်ဖွယ် သဘော
+  sātarūpaṃ [one Marathi tag]: နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော / နှစ်သက်ဖွယ် သဘော
+  virāga [one Marathi tag]: ကင်းပြတ် / ပြယ်ပျောက်ခြင်း
+  nirujjhati [one Marathi tag]: ချုပ်ငြိမ်းသည် / ချုပ်ပျောက်သည်
+  ātāpī [one Marathi tag]: ထက်သန်သော လုံ့လ ရှိသော / အားထုတ်သော
+  ārabhati [pi-1 one sense, new values အားထုတ်သည်]: စတင်သည် / အားထုတ်သည်
+  vineyya [one Marathi tag]: ပယ်ဖျောက်၍ / ပယ်ဖျောက်လျက်
+  chandaṃ [pi-1 one sense, new values လိုလားမှု]: ဆန္ဒ / လိုလားမှု
+  kāyānupassī viharati [one Marathi tag]: ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည် / ကိုယ်ကို အဖန်ဖန် ရှုလျက် … နေသည်
+  aṭṭhaṅgiko maggo [one Marathi tag]: အင်္ဂါ ရှစ်ပါး ရှိသော မဂ် / အင်္ဂါ ရှစ်ပါး ရှိသော … မဂ်
+  paṭisaṃvedeti [pi-1 one sense, new values ခံစားရသည်]: ခံစားသည် / ခံစားရသည်
+  pītisukhaṃ [one Marathi tag]: ပီတိနှင့် သာယာမှု ရှိသော / ပီတိနှင့် သာယာမှု
+  anuppādāya [pi-1 one sense, new values မဖြစ်ပေါ်ရန်]: မဖြစ်ပေါ်ရန်
+  avasesā [pi-1 one sense, new values ကြွင်းသော]: ကြွင်းကျန်သော / ကြွင်းသော
+  Avasesā dhammā [one Marathi tag]: ကြွင်းကျန်သော သဘောတရား / ကြွင်းသော သဘောတရား
+  jīvitaṃ [one Marathi tag]: အသက် / အသက်ရှင်ခြင်း
+  rūpajīvitindriyaṃ [one Marathi tag]: ရုပ် ဖြစ်သော အသက်၏ စွမ်းရည် / ရုပ် အသက်၏ စွမ်းရည်
+  jarāmaraṇaṃ [one Marathi tag]: အိုခြင်းနှင့် သေခြင်း / အိုခြင်း သေခြင်း
+  saṅkhārapaccayā [one Marathi tag]: ပြုပြင်ဖန်တီးမှုကြောင့် / ပြုပြင်ဖန်တီးမှုများကြောင့်
+  apuññābhisaṅkhāro [one Marathi tag]: မကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု / မကောင်းမှုကို ပြုပြင်ဖန်တီးမှု
+  dāna [one Marathi tag]: ဒါန / ပေးလှူခြင်း
+  āneñjābhisaṅkhāro [one Marathi tag]: မတုန်လှုပ်သော ပြုပြင်ဖန်တီးမှု / မတုန်လှုပ်ခြင်းကို ပြုပြင်ဖန်တီးမှု
+  bhāvanā [one Marathi tag]: ဘာဝနာ ပွားများခြင်း / ဘာဝနာ
+  Puññābhisaṅkhāro [one Marathi tag]: ကောင်းမှု ဖြစ်စေသော ပြုပြင်ဖန်တီးမှု / ကောင်းမှုကို ပြုပြင်ဖန်တီးမှု
+  phusanā [pi-1 one sense, new values ထိတွေ့ခြင်း]: ထိခြင်း / ထိတွေ့ခြင်း
+  chambhitattaṃ [one Marathi tag]: တောင့်တင်းနေသော အဖြစ် / တောင့်တင်းထားသော အဖြစ်
+  abyāpajjo [pi-1 one sense, new values ညှဉ်းဆဲလိုမှု မရှိသော]: ညှဉ်းဆဲလိုမှု မရှိသော / မညှဉ်းဆဲလိုခြင်း
+  pahānā [pi-1 one sense, new values ပယ်ပြီးသော]: ပယ်ခြင်း / ပယ်ပြီးသော
+  dhātu uppannā [pi-1 one sense, new values ဓာတ် … ဖြစ်ပေါ်ပြီးသော / ဓာတ်]: ဓာတ် … ဖြစ်ပေါ်ပြီးသော / ဓာတ်
+  bahulīkaroti [one Marathi tag]: အကြိမ်ကြိမ် ပြုသည် / အဖန်ဖန် ပြုသည်
+  āsevati [one Marathi tag]: အလေ့အကျင့် ပြုသည် / မှီဝဲသည်
+  sampanno [one Marathi tag]: ပြည့်စုံသော / ပြည့်ဝသော
+  upeto [one Marathi tag]: ယှဉ်သော / ပြည့်စုံသော
+  samupeto [one Marathi tag]: ကောင်းစွာ ယှဉ်သော / ကောင်းစွာ ပြည့်စုံသော
+  samannāgato [one Marathi tag]: အပြည့်အဝ ပြည့်စုံသော / အညီအညွတ် ပြည့်စုံသော / ပြည့်စုံသော
+  upapanno [one Marathi tag]: ရောက်ရှိသော / ရရှိသော
+  yāpeti [one Marathi tag]: မျှတစေသည် / ဆက်လက် ရှင်သန်စေသည်
+  yapeti [one Marathi tag]: မျှတသည် / ဆက်လက် ဖြစ်နေသည်
+  Iriyati [one Marathi tag]: ဣရိယာပုထ်ကို ပြုသည် / လှုပ်ရှားသည်
+  byantīkatā [one Marathi tag]: အဆုံးသတ်သွားသော / အဆုံးသတ်ပြီးသော
+  samitā [one Marathi tag]: ငြိမ်းသွားသော / ငြိမ်သက်ပြီးသော
+  visositā [one Marathi tag]: လုံးဝ ခြောက်ခန်းသွားသော / လုံးဝ ခြောက်ခန်းစေပြီးသော
+  sositā [one Marathi tag]: ခြောက်ခန်းသွားသော / ခြောက်ခန်းစေပြီးသော
+  appitā [one Marathi tag]: ဆုံးခန်းတိုင်သွားသော / ချုပ်ငြိမ်းစေပြီးသော
+  byappitā [one Marathi tag]: လုံးဝ ဆုံးခန်းတိုင်သွားသော / အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော
+  atthaṅgatā [one Marathi tag]: ကွယ်ပျောက်သွားသော / ကွယ်ပျောက်ပြီးသော
+  vūpasantā [one Marathi tag]: ကောင်းစွာ ငြိမ်သက်သွားသော / ကောင်းစွာ ငြိမ်သက်ပြီးသော
+  santā [one Marathi tag]: ငြိမ်သက်သွားသော / ငြိမ်းပြီးသော
+  pajānāti [one Marathi tag]: သိတော်မူသည် / ကွဲပြားစွာ သိသည်
+  uppādo [pi-1 one sense, new values ဖြစ်ပေါ်ခြင်း]: ဖြစ်ပေါ်ခြင်း
+  vīriyaṃ ārabhati [one Marathi tag]: ဝီရိယကို စတင်သည် / ဝီရိယကို အားထုတ်သည်
+  chando [pi-1 one sense, new values ဆန္ဒ]: ဆန္ဒ / လိုလားမှု
+  dhuratā [pi-1 one sense, new values တာဝန်]: တာဝန် / ဝန်
+  upasampadā [one Marathi tag]: ပြည့်စုံစွာ ရရှိခြင်း / ဝင်စားခြင်း
+  sacchikiriyā [one Marathi tag]: မျက်မှောက်ပြုခြင်း / မျက်မှောက် ပြုခြင်း
+  bojjhaṅgā [pi-1 one sense, new values ဗောဇ္ဈင်]: ဗောဇ္ဈင်
+  nirodha [pi-1 one sense, new values ချုပ်ငြိမ်း / ချုပ်ငြိမ်းရာ]: ချုပ်ငြိမ်းခြင်း / ချုပ်ငြိမ်း / ချုပ်ငြိမ်းရာ
+  upekkhanā [one Marathi tag]: ဥပေက္ခာဖြင့် ရှုခြင်း / တည်ငြိမ်စွာ ရှုခြင်း
+  majjhattatā [one Marathi tag]: အလယ်အလတ်၌ တည်ခြင်း / အလယ်၌ တည်ခြင်း
+  ajjhupekkhanā [one Marathi tag]: ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း / အလွန် တည်ငြိမ်စွာ ရှုခြင်း
+  saññī [pi-1 one sense, new values မှတ်သိမှု ရှိသော]: မှတ်သိမှု ရှိသော / မှတ်သိသော
+  saṃvara [one Marathi tag]: စောင့်စည်းမှု / စောင့်စည်းခြင်း
+  Kāyiko [pi-1 one sense, new values ကိုယ်ပိုင်းဆိုင်ရာ]: ကိုယ်ပိုင်းဆိုင်ရာ
+  vācasiko [pi-1 one sense, new values နှုတ်ပိုင်းဆိုင်ရာ]: နှုတ်ပိုင်းဆိုင်ရာ
+  rāja [one Marathi tag]: ဘုရင် / မင်း
+  sevati [one Marathi tag]: မှီဝဲသည် / ဆည်းကပ်သည်
+  vajja [pi-1 one sense, new values အပြစ်]: အပြစ်
+  abhijjhādomanassā [pi-1 one sense, new values သူ့ဥစ္စာကို လိုချင်ခြင်း စိတ်ဆင်းရဲမှု]: သူ့ဥစ္စာကို လိုချင်ခြင်း စိတ်ဆင်းရဲမှု
+  domanassā [pi-1 one sense, new values စိတ်ဆင်းရဲမှု]: စိတ်ဆင်းရဲမှု
+  sutvā [pi-1 one sense, new values ကြားနာ၍]: ကြား၍ / ကြားနာ၍
+  seyyaṃ [one Marathi tag]: အိပ်ခြင်း / လျောင်းခြင်း
+  bhūrī [pi-1 one sense, new values ကျယ်ပြန့်သော]: ကျယ်ပြန့်သော
+  Viharatī [one Marathi tag]: နေသည် / နေတော်မူသည်
+  chandarāgo [one Marathi tag]: ဆန္ဒရာဂ / လိုလားမှု ရာဂ
+  paññapenti [one Marathi tag]: ပညတ်သည် / သိစေသည်
+  samāpattiṃ [one Marathi tag]: ဈာန် / ဈာန် ဝင်စားရာ
+  nāsaññī [one Marathi tag]: မှတ်သိမှု မရှိသူလည်း မဟုတ်သော / မရှိသည်လည်း မဟုတ်သော
+  ekaṃ disaṃ pharitvā [one Marathi tag]: အရပ် တစ်မျက်နှာကို … ပျံ့နှံ့စေ၍ / အရပ် တစ်မျက်နှာကို ပျံ့နှံ့စေ၍
+  vipulaṃ [one Marathi tag]: ပြန့်ပြောသော / ကျယ်ပြန့်စွာ
+  meraya [one Marathi tag]: အရက် / သေရက်
+  kāmāvacare [pi-1 one sense, new values ကာမဘုံ]: ကာမဘုံ
+  paṭibhāna [one Marathi tag]: ဉာဏ်ပေါ်မှု / လျင်မြန်သော ဉာဏ်
+  Nānā [one Marathi tag]: အမျိုးမျိုး / အသီးသီး ကွဲပြားသော
+  mattā [one Marathi tag]: သာ / ရုံမျှ
+  iriyāpathaṃ [one Marathi tag]: ဣရိယာပုထ် / ကိုယ်ဟန် အမူအရာ
+  sammuti [one Marathi tag]: သမုတ် / သမုတ်ခြင်း
+  vihāra [pi-1 one sense, new values နေထိုင်ရာ]: နေထိုင်ရာ
+  aññaṃ [pi-1 one sense, new values တခြား]: တခြား
+  ābhogo [one Marathi tag]: ဆင်ခြင်ခြင်း / စိတ်ညွတ်ခြင်း / ညွတ်ခြင်း
+  āvaṭṭanā [one Marathi tag]: စိတ်ကို လှည့်ဆောင်ခြင်း / လှည့်ခြင်း
+  paṭilabhati [one Marathi tag]: ရသည် / ရရှိသည်
+  vijjā [pi-1 one sense, new values အသိပညာ]: အသိပညာ
+  ārabbha [pi-1 one sense, new values အစွဲပြု၍]: အာရုံပြု၍ / အစွဲပြု၍
+  Dānaṃ [one Marathi tag]: ပေးလှူခြင်း / အလှူ
+  arahatta [pi-1 one sense, new values အရဟတ္တ]: အရဟတ္တ
+  manasikārā [pi-1 one sense, new values နှလုံးသွင်းခြင်း]: နှလုံးသွင်းခြင်း
+  paccavekkhaṇā [pi-1 one sense, new values ပြန်လည် ဆင်ခြင်သော]: ပြန်လည် ဆင်ခြင်ခြင်း / ပြန်လည် ဆင်ခြင်သော
+  jarāmaraṇa [one Marathi tag]: အိုခြင်းနှင့် သေခြင်း / အိုခြင်း သေခြင်း
+  bhedā [one Marathi tag]: ပြိုကွဲ၍ / ပြိုကွဲသောအခါ
+  amanāpo [one Marathi tag]: စိတ်နှင့် မတွေ့သော / မနှစ်သက်အပ်သော
+  aṭṭhamaṃ [pi-1 one sense, new values ရှစ်ကြိမ်မြောက်]: ရှစ်ကြိမ်မြောက် / အဋ္ဌမ
+  rājāno [one Marathi tag]: မင်း / ဘုရင်
+  Sassato [pi-1 one sense, new values ထာဝရ တည်သော]: ထာဝရ တည်မြဲသည် / ထာဝရ တည်သော
+  Vuṭṭhāna [pi-1 one sense, new values ထမြောက်ခြင်း]: ထမြောက်ခြင်း
+  rūpāni [pi-1 one sense, new values အဆင်းအရောင်]: အဆင်းအရောင်
+  sakkāra [pi-1 one sense, new values အပူဇော်ခံရခြင်း]: အပူဇော်ခံရခြင်း / အရိုအသေ ပြုခံရမှု
+  jīvita [pi-1 one sense, new values အသက်ရှင်ခြင်း]: အသက်ရှင်ခြင်း
+  garukāra [pi-1 one sense, new values အလေးပြုခံရခြင်း]: အလေးပြုခံရခြင်း / လေးစားခံရမှု
+  nikkhitta [pi-1 one sense, new values ချထားသော]: ချထားသော
+  paccaya [one Marathi tag]: အထောက်အပံ့ / ပစ္စည်း
+  pariḷāho [pi-1 one sense, new values ပူလောင်ခြင်း]: ပူလောင်မှု / ပူလောင်ခြင်း
+  kata [one Marathi tag]: ပြုပြီးသော / ပြုခဲ့သော
+  sīlabbatena [one Marathi tag]: သီလနှင့် အကျင့်ဝတ် / သီလ အကျင့်ဝတ်
+  kula [pi-1 one sense, new values ဒါယကာ အိမ်ဝန်း]: ကိုးကွယ်သော အိမ် / ဒါယကာ အိမ်ဝန်း
+  ajjhosānaṃ [one Marathi tag]: နစ်မွန်းမှု / နစ်မွန်းခြင်း
+  uppajjati diṭṭhi [pi-1 one sense, new values ဖြစ်ပေါ်လာသော အယူ]: ဖြစ်ပေါ်လာသော အယူ
+  jimhatā [pi-1 one sense, new values ကောက်ကျစ်သော အဖြစ်]: ကောက်ကျစ်သော အဖြစ်
+  vaṅkatā [pi-1 one sense, new values ကွေးကောက်ခြင်း]: ကွေးကောက်ခြင်း
+  kuṭilatā [pi-1 one sense, new values တွန့်လိမ်ခြင်း]: တွန့်လိမ်ခြင်း
+  kodha [pi-1 one sense, new values အမျက်ဒေါသ]: အမျက်ဒေါသ
+  kaṭukā [pi-1 one sense, new values ခါးသက်စေသော]: ခါးသက်စေသော
+  saṃvattanikā [pi-1 one sense, new values ဖြစ်စေတတ်သော]: ဖြစ်စေတတ်သော
+  saṅgo [pi-1 one sense, new values တွယ်ငြိမှု]: တွယ်ကပ်ခြင်း / တွယ်ငြိမှု
+  piyassa [pi-1 one sense, new values ချစ်သော]: ချစ်သော
+  anatthaṃ [pi-1 one sense, new values အကျိုးမဲ့]: အကျိုးမဲ့
+  manāpassa [pi-1 one sense, new values နှစ်သက်သော]: နှစ်သက်သော
+  nimmāna [one Marathi tag]: နိမ္မာန / ဖန်ဆင်းခြင်း
+  kusalahetu [pi-1 one sense, new values ကုသိုလ် အမြစ်]: ကုသိုလ် အမြစ်
+  samphasso [pi-1 one sense, new values တွေ့ထိမှု]: တွေ့ထိမှု
+  upapatti [one Marathi tag]: ပြန်လည် ဖြစ်ပေါ်သော / ပြန်လည် ဖြစ်ပေါ်ခြင်း
+  appamāṇa [pi-1 one sense, new values အပ္ပမာဏ]: အပ္ပမာဏ
+  kappasahassāni [one Marathi tag]: ကမ္ဘာ နှစ်ထောင် / ကမ္ဘာ နှစ်သောင်း
+  Vīsati [pi-1 one sense, new values နှစ်သောင်း]: နှစ်သောင်း
+  gatā [pi-1 one sense, new values ရောက်သော]: ရောက်သော

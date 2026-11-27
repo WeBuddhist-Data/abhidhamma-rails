@@ -1,0 +1,41 @@
+2026-11-17 pi-2 Burmese (Vibhaṅga) started. Source: same CST Pāli as pi-1 (tipitaka.org; licence question open, as noted). Religious Affairs Vb is copyrighted and stays reference-only. zs sample (preamble, 1-khandhavibhango) started. Usage 0% / weekly 30%.
+zs sample DONE (preamble 3, 1-khandha 169 seg; pi-1 reuse 16/16). Waiting for user review.
+user APPROVED pi-2 sample (title «ခွဲခြမ်းစိတ်ဖြာခြင်း», part headings, qualifiers) 2026-11-17.
+zs parallel started (7 agents): 2-4 | 6 | 5,7-11 | 12-14 | 15-16 | 17 | 18. Usage 8% / weekly 30%. Cap 80%.
+zs 6 DONE (145 seg; pi-1 reuse 121/121).
+PAUSED for usage (56% at 10:10 UTC, reset 13:50 UTC): ch17 (generator not yet written) and ch18 (output written, cleanup step) stopped; resume with SendMessage after the reset.
+zs 5,7-11 DONE (206 seg; pi-1 reuse 16/16).
+zs 2-4 DONE (86 seg; pi-1 reuse 8/8). NOTE for harmonise/review: ch2-4 agent CORRECTED some source slips (e.g. upādānasampayutta→vippayutta, 'atthi ahetu'→na hetu) instead of translating as written: check against the 'translate as written' rule.
+zs 12-14 DONE (239 seg; pi-1 reuse 72/72).
+zs 15-16 DONE (152 seg; pi-1 reuse 40/40). All running agents done. Left: ch17 (paused, not written), ch18 notes. Then harmonise. Waiting for reset (13:50 UTC).
+user raised usage cap to 85% (2026-11-17). Resuming ch17 (fresh agent) and ch18 notes (resumed agent). Usage 70%.
+ch18 notes DONE (99 seg; pi-1 reuse 20/20; colophon «“ခွဲခြမ်းစိတ်ဖြာခြင်း” ကျမ်း ပြီးဆုံးပြီ။»). Waiting for ch17.
+zs 17 DONE (444 seg; pi-1 reuse 56/56). ALL 19 pi-2 zero-shot files written and checked.
+PAUSED at 82% (cap 85%), reset 13:50 UTC. Next: consistency pass (incl. slips read as sensible: ch2-4, ch18 ^2-1039, ch17 ^2-933, ^2-974/976 commas).
+2026-11-18 usage reset (3% / weekly 41%). harmonise started (harmonise-brief.md, harmonise-todo.md: A source slips as written, B term drift, pi-1 identity).
+harmonise DONE (44 items, 98 lines; align 83->73 explained; pi-1 identity 321/321; stable). Merged zero-shot: AI_translation/burmese/pi-2-burmese-plain-zeroshot.md
+mapper: keywords split (1541 lines, 19 files) into pi-2-my/mapper-my/; sample (preamble + 1-khandha, 172 lines) started. Usage 14%.
+mapper sample DONE (preamble 3, 1-khandha 169; bad []; 0 presence failures; 1819 uses take pi-1 values; new rules N1-N11). Waiting for user review.
+user APPROVED pi-2 mapping sample (N1-N11, six differences) 2026-11-18. mapper parallel starting (7 groups). Usage 21%.
+mapper 6 DONE (145; bad []; rules C1-C10).
+mapper 18 DONE (98; bad []).
+mapper 2-4 DONE (86; bad []; rules M1-M5; pitā fix).
+mapper 5,7-11 DONE (206; bad []). TRANSLATION GAP found: ^2-356 body-part list lacks mutta (urine) x3 (30 of 31 items) -> fix in rails.
+mapper 12-14 DONE (239; bad []).
+mapper 15-16 DONE (152; bad []). Waiting for 17.
+mapper 17 DONE (443; bad []). ALL 19 mapped. Text inconsistencies for rails: vaṇṇamacchariya (^2-893/U22 vs U50), kulamacchariya (U50), abhijjhādomanassā «…မှု» vs pi-1 «…ခြင်း».
+map-harmonise + assemble started (mapper-my/map-harmonise-brief.md).
+map-harmonise DONE (138 values; scan 282->268 all reasoned; shared presence_check.py). Assembled AI_translation/burmese/pi-2-keywords-by-reference-pali-burmese-plain.md (1541). 24 text inconsistencies logged for rails (incl. ^2-745 uppannā hoti missing).
+senses: agg-part1.tsv (4956 hw, 18 NDE-only omitted); sample (82 hw) started; pi-1 senses binding, Marathi pi-2 tags for new headwords.
+senses sample DONE (82 hw, 97 senses, VERIFY OK; 31 from pi-1, 12 pi-1+change, 39 new). Waiting for user review.
+user APPROVED senses sample (2026-11-18). senses full run started.
+senses full DONE (4956 hw, 5064 senses, 98 multi-sense; VERIFY OK). Next: termbase.
+termbase build started (pi-2-my/burmese-termbase-brief.md; pi-1 locked termbase binding). Needs explicit user approval before lock. Usage 67%.
+termbase DRAFT built (5064 senses; 191 multi decided; 85 aligned; 1 outside; 1335/1362 pi-1 senses take pi-1 term; 14 pi-1 terms absent from pi-2 text kept as pi-2 form). Awaiting user approval.
+user APPROVED termbase -> LOCKED (sha 45bf057a4596dcdd33257c52b93e29a302afc0892aabfc0f159c8a6a635ab15f). Starting rails.
+rails started (burmese-rails-brief.md).
+rails DONE (472 GENUINE fixed, 0 left; pi-1 321/321; 329 lines; 23/24 logged gaps fixed; align 73 = accepted zero-shot set; termbase doubts in rails/notes-rails.md).
+2026-11-18T08:37:29Z bilingual review A (preamble, ch1–6) and B (ch7–18) started, read-only; brief pi-2-my/review/review-brief.md.
+2026-11-18T09:15:57Z review A (CRIT 2, MAJ 2, MIN 5) and B (MAJ 2, MIN 4) saved as review/report-A.md, report-B.md. User: termbase change A8 maccu «သေဆုံးခြင်း» + B2 siṅgāratā «ဟန်လုပ်ခြင်း» approved (Both); slips A6/A7 kept as written. Termbase reassembled, sha256 6ffa7484…; fix agent started (review/fix-brief.md).
+2026-11-18T09:49:10Z fix round 1 done (38 lines; B1 blocked). User: B1 add path senses, B6 back to «ည», A3 extend to ch14/15. Coordinator: map ^2-U30 3 values, agg/decisions/senses rebuilt (VERIFY OK), Siṅgaṃ|0 «ဟန်လုပ်မှု», termbase sha256 715bebdd…; fix round 2 sent to the fix agent.
+2026-11-18T09:56:58Z fix round 2 done; coordinator re-run: ALL CHECKS PASSED, rebuild identical; GENUINE 0 (479 fixed), pi-1 321/321, 367 lines vs zero-shot.

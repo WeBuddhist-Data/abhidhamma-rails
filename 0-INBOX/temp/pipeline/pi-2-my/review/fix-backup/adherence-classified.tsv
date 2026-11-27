@@ -1,0 +1,654 @@
+id	keyword	termbase term	text form	class	reason	ch	src
+2-6	daṭṭhabbaṃ	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-7	daṭṭhabbaṃ	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-7-1-1-0	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-7-1-2-0	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-7-1-3-0	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-7-1-4-0	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-11	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-12	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-13	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-15-1-3-0	Hetu	အမြစ် | အကြောင်းပြုခြင်း	အကြောင်းရင်း	GENUINE	L37: zero-shot «အကြောင်းရင်း» → termbase «အမြစ် | အကြောင်းပြုခြင်း»	15	zeroshot
+2-17	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-17-2-7-0	icchatā	အလိုရှိခြင်း	လိုချင်ခြင်း	GENUINE	L52: zero-shot «လိုချင်ခြင်း» → termbase «အလိုရှိခြင်း»	17	zeroshot
+2-17-2-8-0	icchatā	အလိုရှိခြင်း	လိုချင်မှု	GENUINE	L52: zero-shot «လိုချင်မှု» → termbase «အလိုရှိခြင်း»	17	zeroshot
+2-17-4-25-0	ānudiṭṭhi	ပတ်သက်သော အယူ	အဖန်ဖန် ရှုမြင်သော အယူ	GENUINE	L54: zero-shot «အဖန်ဖန် ရှုမြင်သော အယူ» → termbase «ပတ်သက်သော အယူ»	17	zeroshot
+2-17-4-29-0	adhamma	မတရားသော	တရားနှင့် မညီသော	GENUINE	L54: zero-shot «တရားနှင့် မညီသော» → termbase «မတရားသော»	17	zeroshot
+2-17-4-32-0	nānatta	အမျိုးမျိုး ကွဲပြားမှု	အမျိုးမျိုးသော	GENUINE	L54: zero-shot «အမျိုးမျိုးသော» → termbase «အမျိုးမျိုး ကွဲပြားမှု»	17	zeroshot
+2-17-4-32-0	nānattasaññā	အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု	အမျိုးမျိုးသော မှတ်သိမှု	GENUINE	L54: zero-shot «အမျိုးမျိုးသော မှတ်သိမှု» → termbase «အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု»	17	zeroshot
+2-17-4-38-0	icchatā	အလိုရှိခြင်း	လိုချင်မှု	GENUINE	L52: zero-shot «လိုချင်မှု» → termbase «အလိုရှိခြင်း»	17	zeroshot
+2-17-4-51-0	kamyatā	လိုချင်ခြင်း	မဖူးမြင်လိုခြင်း	ARTEFACT	privative: ariyānaṃ adassanakamyatā «အရိယာတို့ကို မဖူးမြင်လိုခြင်း» (verb + desiderative «-လိုခြင်း», as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»)	17	zeroshot
+2-17-4-52-0	kamyatā	လိုချင်ခြင်း	မနာကြားလိုခြင်း	ARTEFACT	compound: asotukamyatā has its own entry «မနာကြားလိုခြင်း», which the text has	17	zeroshot
+2-17-6-4-0	saṅgā	တွယ်ကပ်ခြင်း	တွယ်ငြိမှု	GENUINE	L57: zero-shot «တွယ်ငြိမှု» → termbase «တွယ်ကပ်ခြင်း»	17	zeroshot
+2-17-6-13-0	ādīnavā	အပြစ်ဒဏ်	အပြစ်	GENUINE	L57: zero-shot «အပြစ်» → termbase «အပြစ်ဒဏ်»	17	zeroshot
+2-17-7-3-0	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-9-1-0	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-9-1-0	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-17-9-2-0	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-10-1-0	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-11-1-0	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-11-1-0	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-17-11-2-0	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-17-12-1-0	Ajjhattikassa	အတွင်းပိုင်း	အတွင်း	GENUINE	L63: zero-shot «အတွင်း» → termbase «အတွင်းပိုင်း»	17	zeroshot
+2-17-12-2-0	Bāhirassa	ပြင်ပ	အပြင်	GENUINE	L63: zero-shot «အပြင်» → termbase «ပြင်ပ»	17	zeroshot
+2-18	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-18-4-3-0	sattā	သတ္တဝါ	အသညသတ်	ARTEFACT	proper name: Asaññasattā keeps the name (termbase asaññasattānaṃ «အသညသတ်»; decisions-A kept on purpose)	18	zeroshot
+2-19	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-23	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-24	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-25	daṭṭhabbā	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-29	daṭṭhabbaṃ	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-30	daṭṭhabbaṃ	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-31	daṭṭhabbaṃ	မှတ်ယူရမည့်	မှတ်ယူရမည်	INFLECTION	finite predicate «… daṭṭhabbaṃ / daṭṭhabbā.» = «… မှတ်ယူရမည်။» of the termbase gerundive «မှတ်ယူရမည့်» (the attributive form; approved sample ch1)	1	zeroshot
+2-35	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-41	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-54	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-64	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-84	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-93	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-113	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-122	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-142	hīno	ယုတ်ညံ့သူ	ယုတ်ညံ့သော	INFLECTION	attributive «atthi hīno (vedanākkhandho …)» = «ယုတ်ညံ့သော …» of the termbase person form «ယုတ်ညံ့သူ» ('I am inferior'); same lemma (approved sample ch1)	1	zeroshot
+2-167	dasa	ဆယ်ပါး	ဆယ်မျိုး	ARTEFACT	compound with -vidhena: the count of kinds takes «မျိုး» («ဆယ်မျိုး»), not the classifier «ပါး» (pi-1 ARTEFACT row)	2	zeroshot
+2-182	pariyantaṃ	အဆုံးအစွန် | ဝန်းရံထားသော	အဆုံး	GENUINE	L23: zero-shot «အဆုံး» → termbase «အဆုံးအစွန် | ဝန်းရံထားသော»	3	zeroshot
+2-184	samannāhāro	စိတ်ကို ဆောင်ခြင်း	နှလုံးသွင်းခြင်း	GENUINE	L25: zero-shot «နှလုံးသွင်းခြင်း» → termbase «စိတ်ကို ဆောင်ခြင်း»	3	zeroshot
+2-184	niruddha	ချုပ်ငြိမ်းပြီးသော	ချုပ်ပြီးသော	GENUINE	L24: zero-shot «ချုပ်ပြီးသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	3	zeroshot
+2-184	paṭicca	အကြောင်းတို့ကို မှီ၍	ကိုလည်းကောင်း၊ အဆင်းအရောင်တို့ကိုလည်းကောင်း မှီ၍	ARTEFACT	absolutive with its own objects «cakkhuñca paṭicca rūpe ca» = «…ကိုလည်းကောင်း … မှီ၍»; the termbase sense is the compound member of paṭiccasamuppāda / -samuppanna	3	zeroshot
+2-184	samanantarā	ချက်ချင်း နောက်၌	အခြားမဲ့	GENUINE	L24: zero-shot «အခြားမဲ့» → termbase «ချက်ချင်း နောက်၌»	3	zeroshot
+2-184	dasa	ဆယ်ပါး	ဆယ်မျိုး	ARTEFACT	compound with -vidhena: the count of kinds takes «မျိုး» («ဆယ်မျိုး»), not the classifier «ပါး» (pi-1 ARTEFACT row)	3	zeroshot
+2-190	labhati	ရသည်	မရခြင်း	ARTEFACT	negation «yampicchaṃ na labhati» = «… မရခြင်း» (style rule: na = «မ…»)	4	zeroshot
+2-200	mātā	အမိ	မိခင်	GENUINE	L20: zero-shot «မိခင်» → termbase «အမိ»	4	zeroshot
+2-201	labhati	ရသည်	မရခြင်း	ARTEFACT	negation «yampicchaṃ na labhati» = «… မရခြင်း» (style rule: na = «မ…»)	4	zeroshot
+2-204	virāga	ပြယ်ပျောက်ခြင်း	ကင်းပြတ်	GENUINE	L21: zero-shot «ကင်းပြတ်» → termbase «ပြယ်ပျောက်ခြင်း»	4	zeroshot
+2-204	asesa	အကြွင်းအကျန် မရှိ	အကြွင်း မရှိ	GENUINE	L21: zero-shot «အကြွင်း မရှိ» → termbase «အကြွင်းအကျန် မရှိ»	4	zeroshot
+2-205	ātāpī	ထက်သန်သော လုံ့လ ရှိသော	အားထုတ်သော	GENUINE	L22: zero-shot «အားထုတ်သော» → termbase «ထက်သန်သော လုံ့လ ရှိသော»	4	zeroshot
+2-205	kāyānupassī viharati	ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်	ကိုယ်ကို အဖန်ဖန် ရှုလျက် … နေသည်	GENUINE	L22: zero-shot «ကိုယ်ကို အဖန်ဖန် ရှုလျက် … နေသည်» → termbase «ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်»	4	zeroshot
+2-222	indriyānaṃ	အာရုံခံ အင်္ဂါ	စွမ်းရည် နှစ်ဆယ့်နှစ်ပါး	ARTEFACT	other sense: the twenty-two faculties (Indriyavibhaṅga «စွမ်းရည်», pi-1 indriya), not the sense organs of the termbase indriyānaṃ «အာရုံခံ အင်္ဂါ»	5	zeroshot
+2-225	saṅkhārapaccayā	ပြုပြင်ဖန်တီးမှုကြောင့်	ပြုပြင်ဖန်တီးမှုများကြောင့်	INFLECTION	plural marker: the suttanta exposition «avijjāpaccayā saṅkhārā» (plural; pi-1 final 4-03 «ပြုပြင်ဖန်တီးမှုများကြောင့်», harmonise_align_kept KEPT) of the termbase «ပြုပြင်ဖန်တီးမှုကြောင့်»; not the abhidhamma exposition (avijjāpaccayā saṅkhāro, singular)	6	zeroshot
+2-226	dāna	ပေးလှူခြင်း	ဒါန	GENUINE	L07: zero-shot «ဒါန» → termbase «ပေးလှူခြင်း»	6	zeroshot
+2-226	bhāvanā	ဘာဝနာ ပွားများခြင်း	ဘာဝနာ	GENUINE	L07: zero-shot «ဘာဝနာ» → termbase «ဘာဝနာ ပွားများခြင်း»	6	zeroshot
+2-227	saṅkhārapaccayā	ပြုပြင်ဖန်တီးမှုကြောင့်	ပြုပြင်ဖန်တီးမှုများကြောင့်	INFLECTION	plural marker: the suttanta exposition «avijjāpaccayā saṅkhārā» (plural; pi-1 final 4-03 «ပြုပြင်ဖန်တီးမှုများကြောင့်», harmonise_align_kept KEPT) of the termbase «ပြုပြင်ဖန်တီးမှုကြောင့်»; not the abhidhamma exposition (avijjāpaccayā saṅkhāro, singular)	6	zeroshot
+2-249	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-251	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-253	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-255	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-257	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-259	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-261	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-263	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-265	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-267	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-269	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-271	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-273	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-275	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-277	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-279	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-281	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-283	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-287	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-289	gāho	စွဲကိုင်ခြင်း	တစ်ထစ်ချ မယူနိုင်ခြင်း	ARTEFACT	compound in the approved pi-1 doubt list: anekaṃsaggāho «တစ်ထစ်ချ မယူနိုင်ခြင်း» (pi-1 locked own entry and ARTEFACT row; identical list items = identical Burmese); the gāho gloss «also … in anekaṃsaggāho» is reported (doubt)	6	zeroshot
+2-289	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-291	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	privative aññāṇaṃ has its own entry «မသိခြင်း» (pi-1 locked; style rule privative a- = «မ» + verb), which the text has; the ñāṇaṃ gloss «also in aññāṇaṃ» is reported (doubt)	6	zeroshot
+2-356	pihakaṃ	သရက်ရွက်	အဖျဉ်း	GENUINE	L03: zero-shot «အဖျဉ်း» → termbase «သရက်ရွက်»	7	zeroshot
+2-356	mutta	ပုလဲ	ဆီး ရှိ၏	ARTEFACT	other sense: mutta = urine in the body-part list («ဆီး», ch7's own BODY32 item); the termbase has only the pearl (maṇisaṅkhamutta); the gap (H4) is fixed by L03	7	zeroshot
+2-358	yāpeti	မျှတစေသည်	ဆက်လက် ရှင်သန်စေသည်	GENUINE	L04: zero-shot «ဆက်လက် ရှင်သန်စေသည်» → termbase «မျှတစေသည်»	7	zeroshot
+2-358	yapeti	မျှတသည်	ဆက်လက် ဖြစ်နေသည်	GENUINE	L04: zero-shot «ဆက်လက် ဖြစ်နေသည်» → termbase «မျှတသည်»	7	zeroshot
+2-362	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-364	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-366	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-367	chandaṃ	ဆန္ဒ	ကာမကို လိုလားမှု	ARTEFACT	compound: kāmacchandaṃ has its own entry «ကာမကို လိုလားမှု» (chando «as in kāmacchanda»), which the text has	7	zeroshot
+2-369	yāpeti	မျှတစေသည်	ဆက်လက် ရှင်သန်စေသည်	GENUINE	L04: zero-shot «ဆက်လက် ရှင်သန်စေသည်» → termbase «မျှတစေသည်»	7	zeroshot
+2-369	yapeti	မျှတသည်	ဆက်လက် ဖြစ်နေသည်	GENUINE	L04: zero-shot «ဆက်လက် ဖြစ်နေသည်» → termbase «မျှတသည်»	7	zeroshot
+2-373	niddeso	အကျယ် ဖော်ပြချက်	ဖွင့်ဆိုချက်	GENUINE	L02: zero-shot «ဖွင့်ဆိုချက်» → termbase «အကျယ် ဖော်ပြချက်»	7	zeroshot
+2-375	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-375	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-376	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-376	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-377	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-377	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-378	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-378	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-379	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-379	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-381	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-381	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-382	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-382	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-383	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-383	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-384	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-384	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-385	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	7	zeroshot
+2-385	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	7	zeroshot
+2-392	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	8	zeroshot
+2-398	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	8	zeroshot
+2-410	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	8	zeroshot
+2-414	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	8	zeroshot
+2-414	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	8	zeroshot
+2-416	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	8	zeroshot
+2-416	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	8	zeroshot
+2-418	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	8	zeroshot
+2-418	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	8	zeroshot
+2-421	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	8	zeroshot
+2-425	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	8	zeroshot
+2-425	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	8	zeroshot
+2-426	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	8	zeroshot
+2-426	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	8	zeroshot
+2-432	labhati	ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-432	labhati samādhiṃ	သမာဓိကို ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-432	gacchati	လိုက်သည် | ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-433	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	9	zeroshot
+2-434	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-435	labhati	ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-435	labhati samādhiṃ	သမာဓိကို ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-435	saṅkhyaṃ gacchati	အမည် ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-437	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-438	labhati	ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-438	labhati samādhiṃ	သမာဓိကို ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-438	saṅkhyaṃ gacchati	အမည် ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-440	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-441	labhati	ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-441	labhati samādhiṃ	သမာဓိကို ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-441	saṅkhyaṃ gacchati	အမည် ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	9	zeroshot
+2-443	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-446	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	9	zeroshot
+2-447	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-450	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-453	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-456	upasampadā	ဝင်စားခြင်း	ပြည့်စုံစွာ ရရှိခြင်း	GENUINE	L05: zero-shot «ပြည့်စုံစွာ ရရှိခြင်း» → termbase «ဝင်စားခြင်း»	9	zeroshot
+2-458	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	9	zeroshot
+2-458	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	9	zeroshot
+2-458	kamyatā	လိုချင်ခြင်း	ပြုလုပ်လိုခြင်း	ARTEFACT	infinitive + kamyatā: kattukamyatā = verb + desiderative «ပြုလုပ်လိုခြင်း» (as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»); kamyatā «လိုချင်ခြင်း» is the noun + kamyatā sense (sādhukamyatā, bhiyyokamyatā)	9	zeroshot
+2-459	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	9	zeroshot
+2-459	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	9	zeroshot
+2-460	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	9	zeroshot
+2-460	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	9	zeroshot
+2-461	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	9	zeroshot
+2-461	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	9	zeroshot
+2-474	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	10	zeroshot
+2-474	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	10	zeroshot
+2-476	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	10	zeroshot
+2-476	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	10	zeroshot
+2-479	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	10	zeroshot
+2-479	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	10	zeroshot
+2-481	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	10	zeroshot
+2-481	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	10	zeroshot
+2-492	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-492	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-495	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-495	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-497	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-497	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-499	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-499	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-501	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-501	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-503	Avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	11	zeroshot
+2-503	Avasesā dhammā	ကြွင်းကျန်သော သဘောတရား	ကြွင်းသော သဘောတရား	GENUINE	L01: zero-shot «ကြွင်းသော သဘောတရား» → termbase «ကြွင်းကျန်သော သဘောတရား»	11	zeroshot
+2-508	bhajati	ဆည်းကပ်သည်	မှီဝဲသည်	GENUINE	L28: zero-shot «မှီဝဲသည်» → termbase «ဆည်းကပ်သည်»	12	zeroshot
+2-508	vūpasanta	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-509	khantiyā	သည်းခံ လက်ခံမှု	လက်ခံမှု	GENUINE	L29: zero-shot «လက်ခံမှု» → termbase «သည်းခံ လက်ခံမှု»	12	zeroshot
+2-511	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-511	samupeto	ကောင်းစွာ ယှဉ်သော	ကောင်းစွာ ပြည့်စုံသော	GENUINE	L09: zero-shot «ကောင်းစွာ ပြည့်စုံသော» → termbase «ကောင်းစွာ ယှဉ်သော»	12	zeroshot
+2-511	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-512	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	12	zeroshot
+2-513	buddha	ဘုရားရှင်	မြတ်စွာဘုရား	GENUINE	L31: zero-shot «မြတ်စွာဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+2-513	pāribhaṭayatāya	ကလေးထိန်းသကဲ့သို့ ချော့မော့ခြင်း	ကလေးထိန်းကဲ့သို့ ပြုစုခြင်း	GENUINE	L30: zero-shot «ကလေးထိန်းကဲ့သို့ ပြုစုခြင်း» → termbase «ကလေးထိန်းသကဲ့သို့ ချော့မော့ခြင်း»	12	zeroshot
+2-513	cāṭukamyatāya	ဖားယားလိုခြင်း	ချော့မော့ ပြောဆိုခြင်း	GENUINE	L30: zero-shot «ချော့မော့ ပြောဆိုခြင်း» → termbase «ဖားယားလိုခြင်း»	12	zeroshot
+2-513	phala	အသီး | ဖိုလ်	သစ်သီး	GENUINE	L30: zero-shot «သစ်သီး» → termbase «အသီး | ဖိုလ်»	12	zeroshot
+2-513	dānena	ပေးလှူခြင်း	ပေးခြင်း	GENUINE	L30: zero-shot «ပေးခြင်း» → termbase «ပေးလှူခြင်း»	12	zeroshot
+2-513	muggasūpyatāya	ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောယှက် ပြောခြင်း	ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောနှော ပြောဆိုခြင်း	GENUINE	L30: zero-shot «ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောနှော ပြောဆိုခြင်း» → termbase «ပဲဟင်းကဲ့သို့ အမှန်အမှား ရောယှက် ပြောခြင်း»	12	zeroshot
+2-513	patta	အရွက် | သပိတ်	သစ်ရွက်	GENUINE	L30: zero-shot «သစ်ရွက်» → termbase «အရွက် | သပိတ်»	12	zeroshot
+2-514	yoga	ထမ်းပိုး | ပညာရှိ	ဘေးကင်းရာ	ARTEFACT	compound yogakkhema 'security' («ဘေးကင်းရာ», as ch4 yogakkhemakāmā «ဘေးကင်းမှု»); neither yoga sense (yokes, skill) applies	12	zeroshot
+2-514	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-514	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-514	anattha	မကောင်းမှု	အကျိုး မရှိခြင်း	GENUINE	L20: zero-shot «အကျိုး မရှိခြင်း» → termbase «မကောင်းမှု»	12	zeroshot
+2-514	ahita	အစီးအပွား မရှိခြင်း	စီးပွား မဖြစ်ခြင်း	GENUINE	L20: zero-shot «စီးပွား မဖြစ်ခြင်း» → termbase «အစီးအပွား မရှိခြင်း»	12	zeroshot
+2-514	rāja	မင်း	ဘုရင်	GENUINE	L31: zero-shot «ဘုရင်» → termbase «မင်း»	12	zeroshot
+2-516	vattati	ဖြစ်ပေါ်သည် | လည်ပတ်သည်	ကျင့်သည်	GENUINE	L37: zero-shot «ကျင့်သည်» → termbase «ဖြစ်ပေါ်သည် | လည်ပတ်သည်»	12	zeroshot
+2-517	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-517	samupeto	ကောင်းစွာ ယှဉ်သော	ကောင်းစွာ ပြည့်စုံသော	GENUINE	L09: zero-shot «ကောင်းစွာ ပြည့်စုံသော» → termbase «ကောင်းစွာ ယှဉ်သော»	12	zeroshot
+2-517	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-518	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-518	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-519	kappeti	မွေးသည် | ပြုလုပ်သည်	ပြုသည်	GENUINE	L32: zero-shot «ပြုသည်» → termbase «မွေးသည် | ပြုလုပ်သည်»	12	zeroshot
+2-519	seyyaṃ	လျောင်းခြင်း	အိပ်ခြင်း	GENUINE	L32: zero-shot «အိပ်ခြင်း» → termbase «လျောင်းခြင်း»	12	zeroshot
+2-522	bahulīkaroti	အကြိမ်ကြိမ် ပြုသည်	အဖန်ဖန် ပြုသည်	GENUINE	L33: zero-shot «အဖန်ဖန် ပြုသည်» → termbase «အကြိမ်ကြိမ် ပြုသည်»	12	zeroshot
+2-522	āsevati	အလေ့အကျင့် ပြုသည်	မှီဝဲသည်	GENUINE	L33: zero-shot «မှီဝဲသည်» → termbase «အလေ့အကျင့် ပြုသည်»	12	zeroshot
+2-525	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-525	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-537	nimitte	အမှတ်အသား	အမှတ်	GENUINE	L34: zero-shot «အမှတ်» → termbase «အမှတ်အသား»	12	zeroshot
+2-538	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-538	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-538	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-538	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-538	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-538	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-538	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-538	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-538	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-538	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-540	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	12	zeroshot
+2-542	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-542	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-542	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-542	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-542	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-542	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-542	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-542	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-542	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-542	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-546	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-546	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-546	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-546	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-546	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-546	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-546	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-546	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-546	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-546	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-550	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-550	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-552	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-552	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-552	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-552	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-552	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-552	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-552	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-552	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-552	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-552	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-555	samitaṃ	ငြိမ်သက်ပြီးသော	ငြိမ်းသော	GENUINE	L08: zero-shot «ငြိမ်းသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-555	vūpasantaṃ	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-555	Vūpasanta	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-557	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-557	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-557	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-557	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-557	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-557	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-557	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-557	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-557	gāho	စွဲကိုင်ခြင်း	တစ်ထစ်ချ မယူနိုင်ခြင်း	ARTEFACT	compound in the approved pi-1 doubt list: anekaṃsaggāho «တစ်ထစ်ချ မယူနိုင်ခြင်း» (pi-1 locked own entry and ARTEFACT row; identical list items = identical Burmese); the gāho gloss «also … in anekaṃsaggāho» is reported (doubt)	12	zeroshot
+2-557	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-557	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-561	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-561	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-561	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-561	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-561	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-561	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-561	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-561	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-561	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-561	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-563	nirujjhati	ချုပ်ငြိမ်းသည်	ချုပ်ပျောက်သည်	GENUINE	L34: zero-shot «ချုပ်ပျောက်သည်» → termbase «ချုပ်ငြိမ်းသည်»	12	zeroshot
+2-565	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-565	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-566	jātā	မွေးဖွားပြီးသော	မွေးဖွားသော	GENUINE	L08: zero-shot «မွေးဖွားသော» → termbase «မွေးဖွားပြီးသော»	12	zeroshot
+2-566	sañjātā	ကောင်းစွာ မွေးဖွားပြီးသော	ကောင်းစွာ မွေးဖွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ မွေးဖွားသော» → termbase «ကောင်းစွာ မွေးဖွားပြီးသော»	12	zeroshot
+2-566	pātubhūtā	ထင်ရှားလာပြီးသော	ထင်ရှားလာသော	GENUINE	L08: zero-shot «ထင်ရှားလာသော» → termbase «ထင်ရှားလာပြီးသော»	12	zeroshot
+2-566	nibbattā	ပေါ်ထွက်ပြီးသော	ပေါ်ထွက်သော	GENUINE	L08: zero-shot «ပေါ်ထွက်သော» → termbase «ပေါ်ထွက်ပြီးသော»	12	zeroshot
+2-570	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-570	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-572	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-572	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-572	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-572	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-572	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-572	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-572	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-572	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-572	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-572	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-576	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-576	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-576	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-576	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-576	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-576	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-576	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-576	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-576	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-576	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-577	jātā	မွေးဖွားပြီးသော	မွေးဖွားသော	GENUINE	L08: zero-shot «မွေးဖွားသော» → termbase «မွေးဖွားပြီးသော»	12	zeroshot
+2-577	sañjātā	ကောင်းစွာ မွေးဖွားပြီးသော	ကောင်းစွာ မွေးဖွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ မွေးဖွားသော» → termbase «ကောင်းစွာ မွေးဖွားပြီးသော»	12	zeroshot
+2-577	pātubhūtā	ထင်ရှားလာပြီးသော	ထင်ရှားလာသော	GENUINE	L08: zero-shot «ထင်ရှားလာသော» → termbase «ထင်ရှားလာပြီးသော»	12	zeroshot
+2-577	nibbattā	ပေါ်ထွက်ပြီးသော	ပေါ်ထွက်သော	GENUINE	L08: zero-shot «ပေါ်ထွက်သော» → termbase «ပေါ်ထွက်ပြီးသော»	12	zeroshot
+2-580	pītisukhaṃ	ပီတိနှင့် သာယာမှု ရှိသော	ပီတိနှင့် သာယာမှု	INFLECTION	the noun (jhāna factor list «sampasādo, pītisukhaṃ, cittassekaggatā») of the termbase «ပီတိနှင့် သာယာမှု ရှိသော» (the gloss: 'joy and pleasure, or having joy and pleasure'; the bahubbīhi takes «ရှိသော»)	12	zeroshot
+2-581	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-581	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-583	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-583	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-583	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-583	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-583	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-583	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-583	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-583	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-583	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-583	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-584	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-584	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-584	ajjhupekkhanā	ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း	အလွန် တည်ငြိမ်စွာ ရှုခြင်း	GENUINE	L06: zero-shot «အလွန် တည်ငြိမ်စွာ ရှုခြင်း» → termbase «ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း»	12	zeroshot
+2-586	upeto	ယှဉ်သော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «ယှဉ်သော»	12	zeroshot
+2-586	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-588	paññapenti	ပညတ်သည်	သိစေသည်	GENUINE	L34: zero-shot «သိစေသည်» → termbase «ပညတ်သည်»	12	zeroshot
+2-589	samannāgato	အပြည့်အဝ ပြည့်စုံသော	အညီအညွတ် ပြည့်စုံသော	GENUINE	L09: zero-shot «အညီအညွတ် ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	12	zeroshot
+2-589	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	12	zeroshot
+2-589	ajjhupekkhanā	ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း	အလွန် တည်ငြိမ်စွာ ရှုခြင်း	GENUINE	L06: zero-shot «အလွန် တည်ငြိမ်စွာ ရှုခြင်း» → termbase «ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း»	12	zeroshot
+2-592	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-592	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-594	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-594	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-594	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-594	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-594	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-594	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-594	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-594	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-594	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-594	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-595	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-595	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-595	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-595	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-595	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-595	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-595	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-595	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-595	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-595	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-597	ajjhupekkhanā	ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း	အလွန် တည်ငြိမ်စွာ ရှုခြင်း	GENUINE	L06: zero-shot «အလွန် တည်ငြိမ်စွာ ရှုခြင်း» → termbase «ဥပေက္ခာဖြင့် လွန်စွာ ရှုခြင်း»	12	zeroshot
+2-600	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-600	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-602	samāpattiṃ	ဈာန် ဝင်စားရာ	ဈာန်ကို ဝင်စားသူ	ARTEFACT	cognate object «rūpāvacarasamāpattiṃ samāpannassa» = «… ဈာန်ကို ဝင်စားသူ၏» (samāpannassa «ဈာန် ဝင်စားသော» holds both words; a second «ဈာန် ဝင်စားရာကို» would repeat the verb)	12	zeroshot
+2-603	byantīkatā	အဆုံးသတ်ပြီးသော	အဆုံးသတ်သွားသော	GENUINE	L08: zero-shot «အဆုံးသတ်သွားသော» → termbase «အဆုံးသတ်ပြီးသော»	12	zeroshot
+2-603	samitā	ငြိမ်သက်ပြီးသော	ငြိမ်းသွားသော	GENUINE	L08: zero-shot «ငြိမ်းသွားသော» → termbase «ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-603	abbhatthaṅgatā	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ကွယ်ပျောက်သွားသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-603	visositā	လုံးဝ ခြောက်ခန်းစေပြီးသော	လုံးဝ ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «လုံးဝ ခြောက်ခန်းသွားသော» → termbase «လုံးဝ ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-603	sositā	ခြောက်ခန်းစေပြီးသော	ခြောက်ခန်းသွားသော	GENUINE	L08: zero-shot «ခြောက်ခန်းသွားသော» → termbase «ခြောက်ခန်းစေပြီးသော»	12	zeroshot
+2-603	appitā	ချုပ်ငြိမ်းစေပြီးသော	ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «ဆုံးခန်းတိုင်သွားသော» → termbase «ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-603	byappitā	အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော	လုံးဝ ဆုံးခန်းတိုင်သွားသော	GENUINE	L08: zero-shot «လုံးဝ ဆုံးခန်းတိုင်သွားသော» → termbase «အပြီးတိုင် ချုပ်ငြိမ်းစေပြီးသော»	12	zeroshot
+2-603	atthaṅgatā	ကွယ်ပျောက်ပြီးသော	ကွယ်ပျောက်သွားသော	GENUINE	L08: zero-shot «ကွယ်ပျောက်သွားသော» → termbase «ကွယ်ပျောက်ပြီးသော»	12	zeroshot
+2-603	vūpasantā	ကောင်းစွာ ငြိမ်သက်ပြီးသော	ကောင်းစွာ ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ကောင်းစွာ ငြိမ်သက်သွားသော» → termbase «ကောင်းစွာ ငြိမ်သက်ပြီးသော»	12	zeroshot
+2-603	santā	ငြိမ်းပြီးသော	ငြိမ်သက်သွားသော	GENUINE	L08: zero-shot «ငြိမ်သက်သွားသော» → termbase «ငြိမ်းပြီးသော»	12	zeroshot
+2-606	samāpannassa	ဈာန် ဝင်စားသော	ဝင်စားသော	GENUINE	L35: zero-shot «ဝင်စားသော» → termbase «ဈာန် ဝင်စားသော»	12	zeroshot
+2-607	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-607	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-611	samāpannassa	ဈာန် ဝင်စားသော	ဝင်စားသော	GENUINE	L35: zero-shot «ဝင်စားသော» → termbase «ဈာန် ဝင်စားသော»	12	zeroshot
+2-612	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-612	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-616	samāpannassa	ဈာန် ဝင်စားသော	ဝင်စားသော	GENUINE	L35: zero-shot «ဝင်စားသော» → termbase «ဈာန် ဝင်စားသော»	12	zeroshot
+2-617	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-617	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-619	samāpattiṃ	ဈာန် ဝင်စားရာ	ပြုပြင်ဖန်တီးမှု အကြွင်းအကျန်သာ ရှိသော ဈာန်	ARTEFACT	compound: saṅkhārāvasesasamāpattiṃ has its own entry «ပြုပြင်ဖန်တီးမှု အကြွင်းအကျန်သာ ရှိသော ဈာန်», which the text has	12	zeroshot
+2-619	nāsaññī	မရှိသည်လည်း မဟုတ်သော	မှတ်သိမှု မရှိသူလည်း မဟုတ်သော	GENUINE	L26: zero-shot «မှတ်သိမှု မရှိသူလည်း မဟုတ်သော» → termbase «မရှိသည်လည်း မဟုတ်သော»	12	zeroshot
+2-619	Nevasaññīnāsaññī	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော	မှတ်သိမှု ရှိသူလည်း မဟုတ် မှတ်သိမှု မရှိသူလည်း မဟုတ်သော	GENUINE	L26: zero-shot «မှတ်သိမှု ရှိသူလည်း မဟုတ် မှတ်သိမှု မရှိသူလည်း မဟုတ်သော» → termbase «မှတ်သိမှု ရှိသည်လည်း မဟုတ် မရှိသည်လည်း မဟုတ်သော»	12	zeroshot
+2-620	samāpannassa	ဈာန် ဝင်စားသော	ဝင်စားသော	GENUINE	L35: zero-shot «ဝင်စားသော» → termbase «ဈာန် ဝင်စားသော»	12	zeroshot
+2-621	paṭilābho	ရရှိခြင်း	ပြန်လည် ရခြင်း	GENUINE	L05: zero-shot «ပြန်လည် ရခြင်း» → termbase «ရရှိခြင်း»	12	zeroshot
+2-621	sacchikiriyā	မျက်မှောက်ပြုခြင်း	မျက်မှောက် ပြုခြင်း	GENUINE	L05: zero-shot «မျက်မှောက် ပြုခြင်း» → termbase «မျက်မှောက်ပြုခြင်း»	12	zeroshot
+2-622	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	12	zeroshot
+2-643	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-646	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	13	zeroshot
+2-649	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-650	abyāpajjo	မညှဉ်းဆဲလိုခြင်း	ညှဉ်းဆဲလိုမှု မရှိသော	GENUINE	L36: zero-shot «ညှဉ်းဆဲလိုမှု မရှိသော» → termbase «မညှဉ်းဆဲလိုခြင်း»	13	zeroshot
+2-653	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-656	iriyati	လှုပ်ရှားသည်	ဣရိယာပုထ်ကို ပြုသည်	GENUINE	L04: zero-shot «ဣရိယာပုထ်ကို ပြုသည်» → termbase «လှုပ်ရှားသည်»	13	zeroshot
+2-659	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-660	abyāpajjo	မညှဉ်းဆဲလိုခြင်း	ညှဉ်းဆဲလိုမှု မရှိသော	GENUINE	L36: zero-shot «ညှဉ်းဆဲလိုမှု မရှိသော» → termbase «မညှဉ်းဆဲလိုခြင်း»	13	zeroshot
+2-663	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-669	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-670	abyāpajjo	မညှဉ်းဆဲလိုခြင်း	ညှဉ်းဆဲလိုမှု မရှိသော	GENUINE	L36: zero-shot «ညှဉ်းဆဲလိုမှု မရှိသော» → termbase «မညှဉ်းဆဲလိုခြင်း»	13	zeroshot
+2-673	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-679	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L08: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	13	zeroshot
+2-680	abyāpajjo	မညှဉ်းဆဲလိုခြင်း	ညှဉ်းဆဲလိုမှု မရှိသော	GENUINE	L36: zero-shot «ညှဉ်းဆဲလိုမှု မရှိသော» → termbase «မညှဉ်းဆဲလိုခြင်း»	13	zeroshot
+2-711	kāmāvacare	ကာမဘုံနှင့် ဆိုင်သော	ကာမဘုံ	GENUINE	L27: zero-shot «ကာမဘုံ» → termbase «ကာမဘုံနှင့် ဆိုင်သော»	14	zeroshot
+2-745	uppannā	ဖြစ်ပေါ်ပြီးသော	(no direct equivalent)	GENUINE	L38: zero-shot «(no direct equivalent)» → termbase «ဖြစ်ပေါ်ပြီးသော»	15	zeroshot
+2-745	dhātu uppannā	ဓာတ် … ဖြစ်ပေါ်ပြီးသော	ဓာတ်	GENUINE	L38: zero-shot «ဓာတ်» → termbase «ဓာတ် … ဖြစ်ပေါ်ပြီးသော»	15	zeroshot
+2-746	kusalato	ကုသိုလ်စိတ်	ကုသိုလ်	GENUINE	L39: zero-shot «ကုသိုလ်» → termbase «ကုသိုလ်စိတ်»	15	zeroshot
+2-751	Nānā	အမျိုးမျိုး	အသီးသီး ကွဲပြားသော	GENUINE	L40: zero-shot «အသီးသီး ကွဲပြားသော» → termbase «အမျိုးမျိုး»	16	zeroshot
+2-753	vipākadhammadhammā	အကျိုး ပေးတတ်သော သဘောတရား	အကျိုး ပေးတတ်သော ပညာ	ARTEFACT	the triad name as attribute of paññā («vipākadhammadhammā paññā»): the head noun «ပညာ» takes the place of the termbase's «သဘောတရား» (dhammā)	16	zeroshot
+2-753	dhammā	သဘောတရား	အကျိုး ပေးတတ်သော ပညာ	ARTEFACT	the triad name as attribute of paññā («vipākadhammadhammā paññā»): the head noun «ပညာ» takes the place of the termbase's «သဘောတရား» (dhammā)	16	zeroshot
+2-760	samannāgato	အပြည့်အဝ ပြည့်စုံသော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	16	zeroshot
+2-760	pajānāti	ကွဲပြားစွာ သိသည်	သိတော်မူသည်	GENUINE	L41: zero-shot «သိတော်မူသည်» → termbase «ကွဲပြားစွာ သိသည်»	16	zeroshot
+2-762	Nānā	အမျိုးမျိုး	အသီးသီး ကွဲပြားသော	GENUINE	L40: zero-shot «အသီးသီး ကွဲပြားသော» → termbase «အမျိုးမျိုး»	16	zeroshot
+2-762	aññaṃ	တခြားစီ	တခြား	GENUINE	L40: zero-shot «တခြား» → termbase «တခြားစီ»	16	zeroshot
+2-768	vijjā	အမှန်သိမြင်မှု	အသိပညာ ဌာန	ARTEFACT	other sense: vijjāṭṭhāna 'branch of learning' («အသိပညာ ဌာန»); the termbase vijjā is the true knowledge «အမှန်သိမြင်မှု»	16	zeroshot
+2-777	arahatta	ရဟန္တာ	အရဟတ္တ	GENUINE	L47: zero-shot «အရဟတ္တ» → termbase «ရဟန္တာ»	16	zeroshot
+2-796	abhijānissanti	ထူးကဲစွာ သိလိမ့်မည်	ကြလိမ့်မည်	INFLECTION	plural marker «ကြ» (3rd pl. subject) inside the termbase future «…လိမ့်မည်»	16	zeroshot
+2-796	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	16	zeroshot
+2-797	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	16	zeroshot
+2-798	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	16	zeroshot
+2-799	lābhiṃ	ရသော	ရသူအား	INFLECTION	person form «ရသူအား» (to one who has gained) of the termbase attributive «ရသော» (as pi-1 Saṃviggassa)	16	zeroshot
+2-799	santiṭṭhati	တည်နေသည်	တည်တံ့သည်	GENUINE	L48: zero-shot «တည်တံ့သည်» → termbase «တည်နေသည်»	16	zeroshot
+2-802	vipulaṃ	ပြန့်ပြောသော	ကျယ်ပြန့်စွာ	GENUINE	L48: zero-shot «ကျယ်ပြန့်စွာ» → termbase «ပြန့်ပြောသော»	16	zeroshot
+2-804	nirāmiso	ကာမဂုဏ်နှင့် မစပ်သော	လောကီ အာမိသ မရှိသော	GENUINE	L48: zero-shot «လောကီ အာမိသ မရှိသော» → termbase «ကာမဂုဏ်နှင့် မစပ်သော»	16	zeroshot
+2-805	Iddhi	ဣဒ္ဓိ	တန်ခိုး	GENUINE	L10: zero-shot «တန်ခိုး» → termbase «ဣဒ္ဓိ»	16	zeroshot
+2-806	virāga	ပြယ်ပျောက်ခြင်း	ကင်းပြတ်	GENUINE	L21: zero-shot «ကင်းပြတ်» → termbase «ပြယ်ပျောက်ခြင်း»	16	zeroshot
+2-806	saṅkhārapaccayā	ပြုပြင်ဖန်တီးမှုကြောင့်	ပြုပြင်ဖန်တီးမှုများကြောင့်	INFLECTION	plural marker: the suttanta exposition «avijjāpaccayā saṅkhārā» (plural; pi-1 final 4-03 «ပြုပြင်ဖန်တီးမှုများကြောင့်», harmonise_align_kept KEPT) of the termbase «ပြုပြင်ဖန်တီးမှုကြောင့်»; not the abhidhamma exposition (avijjāpaccayā saṅkhāro, singular)	16	zeroshot
+2-807	arahatta	ရဟန္တာ	အရဟတ္တ	GENUINE	L47: zero-shot «အရဟတ္တ» → termbase «ရဟန္တာ»	16	zeroshot
+2-808	vedayita	ခံစားရခြင်း	ခံစားမှု	GENUINE	L46: zero-shot «ခံစားမှု» → termbase «ခံစားရခြင်း»	16	zeroshot
+2-809	sambuddho	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရား	GENUINE	L31: zero-shot «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရား» → termbase «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်»	16	zeroshot
+2-809	sammāsambuddho	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား	GENUINE	L31: zero-shot «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား» → termbase «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်»	16	zeroshot
+2-809	sammāsambuddhā	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား	GENUINE	L31: zero-shot «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား» → termbase «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်»	16	zeroshot
+2-809	aṭṭhamaṃ	အဋ္ဌမ	ရှစ်ကြိမ်မြောက်	GENUINE	L42: zero-shot «ရှစ်ကြိမ်မြောက်» → termbase «အဋ္ဌမ»	16	zeroshot
+2-809	puriso	ယောက်ျား	အမျိုးသား	GENUINE	L42: zero-shot «အမျိုးသား» → termbase «ယောက်ျား»	16	zeroshot
+2-809	itthī	မိန်းမ	အမျိုးသမီး	GENUINE	L42: zero-shot «အမျိုးသမီး» → termbase «မိန်းမ»	16	zeroshot
+2-811	gāmī	ဦးတည်သော	ရောက်စေသော	GENUINE	L43: zero-shot «ရောက်စေသော» → termbase «ဦးတည်သော»	16	zeroshot
+2-813	payirupāsanti	ချဉ်းကပ် ခစားသည်	ဆည်းကပ်သည်	GENUINE	L28: zero-shot «ဆည်းကပ်သည်» → termbase «ချဉ်းကပ် ခစားသည်»	16	zeroshot
+2-813	sevissanti	မှီဝဲလိမ့်မည်	ကြလိမ့်မည်	INFLECTION	plural marker «ကြ» (3rd pl. subject) inside the termbase future «…လိမ့်မည်»	16	zeroshot
+2-814	pajānāti	ကွဲပြားစွာ သိသည်	သိတော်မူသည်	GENUINE	L41: zero-shot «သိတော်မူသည်» → termbase «ကွဲပြားစွာ သိသည်»	16	zeroshot
+2-816	sātarūpaṃ	နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော	နှစ်သက်ဖွယ် သဘော	GENUINE	L44: zero-shot «နှစ်သက်ဖွယ် သဘော» → termbase «နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော»	16	zeroshot
+2-818	payirupāsanti	ချဉ်းကပ် ခစားသည်	ဆည်းကပ်သည်	GENUINE	L28: zero-shot «ဆည်းကပ်သည်» → termbase «ချဉ်းကပ် ခစားသည်»	16	zeroshot
+2-818	sevissanti	မှီဝဲလိမ့်မည်	ကြလိမ့်မည်	INFLECTION	plural marker «ကြ» (3rd pl. subject) inside the termbase future «…လိမ့်မည်»	16	zeroshot
+2-826	samannāgatā	အပြည့်အဝ ပြည့်စုံသော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	16	zeroshot
+2-827	samannāgatā	အပြည့်အဝ ပြည့်စုံသော	မပြည့်စုံသော	ARTEFACT	negation «na kammāvaraṇena samannāgatā …» = «… နှင့် မပြည့်စုံသော» (under negation «အပြည့်အဝ» would say 'not fully')	16	zeroshot
+2-828	vipatti	ပျက်စီးခြင်း	ချို့ယွင်းမှု	GENUINE	L44: zero-shot «ချို့ယွင်းမှု» → termbase «ပျက်စီးခြင်း»	16	zeroshot
+2-828	vedayita	ခံစားရခြင်း	ခံစားမှု	GENUINE	L46: zero-shot «ခံစားမှု» → termbase «ခံစားရခြင်း»	16	zeroshot
+2-829	āyu	သက်တမ်း	အသက်	GENUINE	L44: zero-shot «အသက်» → termbase «သက်တမ်း»	16	zeroshot
+2-830	samannāgatā	အပြည့်အဝ ပြည့်စုံသော	ပြည့်စုံသော	GENUINE	L09: zero-shot «ပြည့်စုံသော» → termbase «အပြည့်အဝ ပြည့်စုံသော»	16	zeroshot
+2-830	upapannā	ပြန်လည် ဖြစ်ပေါ်သော	ရောက်သော	GENUINE	L45: zero-shot «ရောက်သော» → termbase «ပြန်လည် ဖြစ်ပေါ်သော»	16	zeroshot
+2-832	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-832	paṭibhāna	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-832	garukāra	လေးစားခံရမှု	အလေးပြုခံရခြင်း	GENUINE	L10: zero-shot «အလေးပြုခံရခြင်း» → termbase «လေးစားခံရမှု»	17	zeroshot
+2-832	iddhi	ဣဒ္ဓိ	တန်ခိုး	GENUINE	L10: zero-shot «တန်ခိုး» → termbase «ဣဒ္ဓိ»	17	zeroshot
+2-834	icchatā	အလိုရှိခြင်း	လိုချင်မှု	GENUINE	L52: zero-shot «လိုချင်မှု» → termbase «အလိုရှိခြင်း»	17	zeroshot
+2-834	nānatta	အမျိုးမျိုး ကွဲပြားမှု	အမျိုးမျိုးသော	GENUINE	L54: zero-shot «အမျိုးမျိုးသော» → termbase «အမျိုးမျိုး ကွဲပြားမှု»	17	zeroshot
+2-834	nānattasaññā	အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု	အမျိုးမျိုးသော မှတ်သိမှု	GENUINE	L54: zero-shot «အမျိုးမျိုးသော မှတ်သိမှု» → termbase «အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု»	17	zeroshot
+2-834	adhamma	မတရားသော	တရားနှင့် မညီသော	GENUINE	L54: zero-shot «တရားနှင့် မညီသော» → termbase «မတရားသော»	17	zeroshot
+2-836	saṅgā	တွယ်ကပ်ခြင်း	တွယ်ငြိမှု	GENUINE	L57: zero-shot «တွယ်ငြိမှု» → termbase «တွယ်ကပ်ခြင်း»	17	zeroshot
+2-836	ādīnavā	အပြစ်ဒဏ်	အပြစ်	GENUINE	L57: zero-shot «အပြစ်» → termbase «အပြစ်ဒဏ်»	17	zeroshot
+2-837	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-839	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-839	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-840	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-841	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-841	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-842	bāhirassa	ပြင်ပ	အပြင်	GENUINE	L63: zero-shot «အပြင်» → termbase «ပြင်ပ»	17	zeroshot
+2-842	ajjhattikassa	အတွင်းပိုင်း	အတွင်း	GENUINE	L63: zero-shot «အတွင်း» → termbase «အတွင်းပိုင်း»	17	zeroshot
+2-843	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-844	iriyāpathaṃ	ဣရိယာပုထ်	ကိုယ်ဟန် အမူအရာ	GENUINE	L10: zero-shot «ကိုယ်ဟန် အမူအရာ» → termbase «ဣရိယာပုထ်»	17	zeroshot
+2-844	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-844	sakkāraṃ	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-844	garukāraṃ	လေးစားခံရမှု	အလေးပြုခံရခြင်း	GENUINE	L10: zero-shot «အလေးပြုခံရခြင်း» → termbase «လေးစားခံရမှု»	17	zeroshot
+2-845	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-846	nikkhitta	လက်လွှတ်သော	ချထားသော	GENUINE	L51: zero-shot «ချထားသော» → termbase «လက်လွှတ်သော»	17	zeroshot
+2-855	buddhe	ဘုရားရှင်	ဘုရား	GENUINE	L31: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	17	zeroshot
+2-861	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-861	paccaya	အထောက်အပံ့	ပစ္စည်း	GENUINE	L50: zero-shot «ပစ္စည်း» → termbase «အထောက်အပံ့»	17	zeroshot
+2-862	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-863	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-864	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-865	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-866	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-866	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-867	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-867	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-868	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-869	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-869	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-870	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-870	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-871	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-872	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-873	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-875	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-876	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-878	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-879	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-880	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-881	māno	မာန	ထင်မှတ်မှု	GENUINE	L52: zero-shot «ထင်မှတ်မှု» → termbase «မာန»	17	zeroshot
+2-881	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-882	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-882	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	L64: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	17	zeroshot
+2-883	chando	လိုလားမှု	ဆန္ဒ	GENUINE	L64: zero-shot «ဆန္ဒ» → termbase «လိုလားမှု»	17	zeroshot
+2-884	kamyatā	လိုချင်ခြင်း	အလံ ထူလိုခြင်း	ARTEFACT	compound: ketukamyatā keeps pi-1's own entry «အလံ ထူလိုခြင်း» (decision kamyatā|0: «ketukamyatā keeps its own entry»; decisions-A «kept on purpose»)	17	zeroshot
+2-884	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-885	ārabbha	အာရုံပြု၍	အစွဲပြု၍	GENUINE	L53: zero-shot «အစွဲပြု၍» → termbase «အာရုံပြု၍»	17	zeroshot
+2-886	ārabbha	အာရုံပြု၍	အစွဲပြု၍	GENUINE	L53: zero-shot «အစွဲပြု၍» → termbase «အာရုံပြု၍»	17	zeroshot
+2-889	ārabbha	အာရုံပြု၍	အစွဲပြု၍	GENUINE	L53: zero-shot «အစွဲပြု၍» → termbase «အာရုံပြု၍»	17	zeroshot
+2-889	sakkāra	အရိုအသေ ပြုခံရမှု	အပူဇော်ခံရခြင်း	GENUINE	L10: zero-shot «အပူဇော်ခံရခြင်း» → termbase «အရိုအသေ ပြုခံရမှု»	17	zeroshot
+2-890	avajāniṃsūti	အထင်သေးသည်	အထင်မသေး	ARTEFACT	prohibitive negation «mā maṃ pare avajāniṃsu» = «… ငါ့ကို အထင်မသေး…» of the termbase «အထင်သေးသည်»	17	zeroshot
+2-890	paṭibhānena	ဉာဏ်ပေါ်မှု	လျင်မြန်သော ဉာဏ်	GENUINE	L10: zero-shot «လျင်မြန်သော ဉာဏ်» → termbase «ဉာဏ်ပေါ်မှု»	17	zeroshot
+2-899	ārabbha	အာရုံပြု၍	အစွဲပြု၍	GENUINE	L53: zero-shot «အစွဲပြု၍» → termbase «အာရုံပြု၍»	17	zeroshot
+2-899	gataṃ	သဘော ရှိသော	အယူမှား	ARTEFACT	compound: diṭṭhigataṃ has its own entry «အယူမှား», which the text has	17	zeroshot
+2-909	anatthaṃ	မကောင်းမှု	အကျိုးမဲ့	GENUINE	L20: zero-shot «အကျိုးမဲ့» → termbase «မကောင်းမှု»	17	zeroshot
+2-921	chambhitattaṃ	တောင့်တင်းနေသော အဖြစ်	တောင့်တင်းထားသော အဖြစ်	GENUINE	L68: zero-shot «တောင့်တင်းထားသော အဖြစ်» → termbase «တောင့်တင်းနေသော အဖြစ်»	17	zeroshot
+2-922	ārabbha	အာရုံပြု၍	အစွဲပြု၍	GENUINE	L53: zero-shot «အစွဲပြု၍» → termbase «အာရုံပြု၍»	17	zeroshot
+2-932	buddhaṃ	ဘုရားရှင်	ဘုရား	GENUINE	L31: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	17	zeroshot
+2-934	kamyatā	လိုချင်ခြင်း	မဖူးမြင်လိုခြင်း	ARTEFACT	privative: ariyānaṃ adassanakamyatā «အရိယာတို့ကို မဖူးမြင်လိုခြင်း» (verb + desiderative «-လိုခြင်း», as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»)	17	zeroshot
+2-936	āvaṭṭanā	စိတ်ကို လှည့်ဆောင်ခြင်း	လှည့်ခြင်း	GENUINE	L25: zero-shot «လှည့်ခြင်း» → termbase «စိတ်ကို လှည့်ဆောင်ခြင်း»	17	zeroshot
+2-942	majja	မူးယစ်ဖွယ်	(no direct equivalent)	GENUINE	L55: zero-shot «(no direct equivalent)» → termbase «မူးယစ်ဖွယ်»	17	zeroshot
+2-942	meraya	အရက်	သေရက်	GENUINE	L55: zero-shot «သေရက်» → termbase «အရက်»	17	zeroshot
+2-943	ābhogo	စိတ်ညွတ်ခြင်း	ညွတ်ခြင်း	GENUINE	L25: zero-shot «ညွတ်ခြင်း» → termbase «စိတ်ညွတ်ခြင်း»	17	zeroshot
+2-943	vipariṇāmadhammā	ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော	ဖောက်ပြန်ခြင်း သဘော ရှိသော	GENUINE	L65: zero-shot «ဖောက်ပြန်ခြင်း သဘော ရှိသော» → termbase «ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော»	17	zeroshot
+2-948	sassato	ထာဝရ တည်မြဲသည်	ထာဝရ တည်သော	GENUINE	L62: zero-shot «ထာဝရ တည်သော» → termbase «ထာဝရ တည်မြဲသည်»	17	zeroshot
+2-952	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-952	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-953	uppanno	ဖြစ်ပေါ်ပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L67: zero-shot «ဖြစ်ပေါ်သော» → termbase «ဖြစ်ပေါ်ပြီးသော»	17	zeroshot
+2-953	bhojanassa	အစားအစာ	အစာ	GENUINE	L66: zero-shot «အစာ» → termbase «အစားအစာ»	17	zeroshot
+2-953	labhati	ရသည်	ရ၏	INFLECTION	finite «… ရ၏» (literary present, as every verb of these passages) of the termbase «ရသည်»	17	zeroshot
+2-953	vatthu	အခြေခံ | အကြောင်းအရာ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ | အကြောင်းအရာ»	17	zeroshot
+2-953	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-953	ārabhati	စတင်သည်	အားထုတ်သည်	GENUINE	L66: zero-shot «အားထုတ်သည်» → termbase «စတင်သည်»	17	zeroshot
+2-953	vīriyaṃ ārabhati	ဝီရိယကို စတင်သည်	ဝီရိယကို အားထုတ်သည်	GENUINE	L66: zero-shot «ဝီရိယကို အားထုတ်သည်» → termbase «ဝီရိယကို စတင်သည်»	17	zeroshot
+2-953	maggo	မဂ် | လမ်း	ခရီး	GENUINE	L66: zero-shot «ခရီး» → termbase «မဂ် | လမ်း»	17	zeroshot
+2-953	vuṭṭhito	ထသော	ထပြီး	INFLECTION	the same verb «ထ» with the perfect «ပြီး … ဖြစ်၏» (gilānā vuṭṭhito hoti) of the termbase «ထသော»	17	zeroshot
+2-954	paṭivirodho	ပြန်လည် ဆန့်ကျင်ခြင်း	ဆန့်ကျင်ခြင်း	GENUINE	L61: zero-shot «ဆန့်ကျင်ခြင်း» → termbase «ပြန်လည် ဆန့်ကျင်ခြင်း»	17	zeroshot
+2-955	viññāta	သိရသော	သိသော	GENUINE	L60: zero-shot «သိသော» → termbase «သိရသော»	17	zeroshot
+2-955	muta	နမ်း မြည်း ထိတွေ့ရသော	ထိတွေ့သော	GENUINE	L60: zero-shot «ထိတွေ့သော» → termbase «နမ်း မြည်း ထိတွေ့ရသော»	17	zeroshot
+2-957	kopañca	အမျက်ထွက်ခြင်း	အမျက်	GENUINE	L67: zero-shot «အမျက်» → termbase «အမျက်ထွက်ခြင်း»	17	zeroshot
+2-960	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-960	Anatthaṃ	မကောင်းမှု	အကျိုးမဲ့	GENUINE	L20: zero-shot «အကျိုးမဲ့» → termbase «မကောင်းမှု»	17	zeroshot
+2-966	vatthūni	အခြေခံ	အကြောင်းရင်း	GENUINE	L58: zero-shot «အကြောင်းရင်း» → termbase «အခြေခံ»	17	zeroshot
+2-966	kilesavatthūni	ကိလေသာ အခြေခံ	ကိလေသာ အကြောင်းရင်း	GENUINE	L58: zero-shot «ကိလေသာ အကြောင်းရင်း» → termbase «ကိလေသာ အခြေခံ»	17	zeroshot
+2-967	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-967	Anatthaṃ	မကောင်းမှု	အကျိုးမဲ့	GENUINE	L20: zero-shot «အကျိုးမဲ့» → termbase «မကောင်းမှု»	17	zeroshot
+2-973	ajjhattikassa	အတွင်းပိုင်း	အတွင်း	GENUINE	L63: zero-shot «အတွင်း» → termbase «အတွင်းပိုင်း»	17	zeroshot
+2-974	ajjhattikassa	အတွင်းပိုင်း	အတွင်း	GENUINE	L63: zero-shot «အတွင်း» → termbase «အတွင်းပိုင်း»	17	zeroshot
+2-974	paṭilabhati	ရရှိသည်	ရသည်	GENUINE	L63: zero-shot «ရသည်» → termbase «ရရှိသည်»	17	zeroshot
+2-974	mānaṃ paṭilabhati	မာနကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «မာနကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-974	chandaṃ paṭilabhati	ဆန္ဒကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «ဆန္ဒကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-974	diṭṭhiṃ paṭilabhati	အယူကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «အယူကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-974	Parapuggalaṃ	အခြား ပုဂ္ဂိုလ်	သူတစ်ပါး	GENUINE	L63: zero-shot «သူတစ်ပါး» → termbase «အခြား ပုဂ္ဂိုလ်»	17	zeroshot
+2-975	bāhirassa	ပြင်ပ	အပြင်	GENUINE	L63: zero-shot «အပြင်» → termbase «ပြင်ပ»	17	zeroshot
+2-976	bāhirassa	ပြင်ပ	အပြင်	GENUINE	L63: zero-shot «အပြင်» → termbase «ပြင်ပ»	17	zeroshot
+2-976	ajjhattikassa	အတွင်းပိုင်း	အတွင်း	GENUINE	L63: zero-shot «အတွင်း» → termbase «အတွင်းပိုင်း»	17	zeroshot
+2-976	paṭilabhati	ရရှိသည်	ရသည်	GENUINE	L63: zero-shot «ရသည်» → termbase «ရရှိသည်»	17	zeroshot
+2-976	mānaṃ paṭilabhati	မာနကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «မာနကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-976	chandaṃ paṭilabhati	ဆန္ဒကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «ဆန္ဒကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-976	diṭṭhiṃ paṭilabhati	အယူကို ရသည်	ရရှိသည်	ARTEFACT	termbase conflict: the undecided entry «အယူကို ရသည်» keeps the zero-shot form; the rails apply the decided paṭilabhati|0 «ရရှိသည်» («same lemma as paṭilābho»); termbase doubt	17	zeroshot
+2-976	Parapuggalaṃ	အခြား ပုဂ္ဂိုလ်	သူတစ်ပါး	GENUINE	L63: zero-shot «သူတစ်ပါး» → termbase «အခြား ပုဂ္ဂိုလ်»	17	zeroshot
+2-977	uccheda	ပြတ်စဲသွားသည်	ပြတ်သည်	GENUINE	L62: zero-shot «ပြတ်သည်» → termbase «ပြတ်စဲသွားသည်»	17	zeroshot
+2-977	sassata	ထာဝရ တည်မြဲသည်	မြဲသည်	GENUINE	L62: zero-shot «မြဲသည်» → termbase «ထာဝရ တည်မြဲသည်»	17	zeroshot
+2-1013	Avasesānaṃ	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	L01: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	18	zeroshot
+2-1020	uparito	အထက်ဘက်	အထက်၌	GENUINE	R01: zero-shot «အထက်၌» → termbase «အထက်ဘက်»	18	zeroshot
+2-1021	nimmāna	ဖန်ဆင်းခြင်း	နိမ္မာနရတီ	ARTEFACT	proper name: Nimmānaratī keeps the name (termbase nimmānaratīnaṃ devānaṃ «နိမ္မာနရတီ နတ်»; decision nimmāna|0)	18	zeroshot
+2-1021	Dānaṃ	ပေးလှူခြင်း	အလှူ	GENUINE	L07: zero-shot «အလှူ» → termbase «ပေးလှူခြင်း»	18	zeroshot
+2-1023	nimmāna	ဖန်ဆင်းခြင်း	နိမ္မာနရတီ	ARTEFACT	proper name: Nimmānaratī keeps the name (termbase nimmānaratīnaṃ devānaṃ «နိမ္မာနရတီ နတ်»; decision nimmāna|0)	18	zeroshot
+2-1023	soḷasa	ဆယ့်ခြောက်ပါး	တစ်ထောင့်ခြောက်ရာ	ARTEFACT	numeral compound «soḷasa vassasatāni» = sixteen hundred «တစ်ထောင့်ခြောက်ရာ» (decision Soḷasa|0: the other candidates carry the hundreds / thousands)	18	zeroshot
+2-1023	dvādasa	ဆယ့်နှစ်ပါး	ဆယ့်နှစ်လ	ARTEFACT	compound dvādasamāsiyo «ဆယ့်နှစ်လ» (the month count joins the measure word «လ»)	18	zeroshot
+2-1026	Soḷasa	ဆယ့်ခြောက်ပါး	ဆယ့်ခြောက်ကမ္ဘာ	ARTEFACT	measure word: «Soḷasa kappā» = «ဆယ့်ခြောက်ကမ္ဘာ», as every lifespan line («… ကမ္ဘာ», e.g. «ခြောက်ဆယ့်လေးကမ္ဘာ»): kappa is its own classifier, «ပါး» is not used	18	zeroshot
+2-1027	kappasahassāni	ကမ္ဘာ ထောင်ပေါင်း	ကမ္ဘာ နှစ်ထောင်	ARTEFACT	decision kappasahassāni|0 (OUTSIDE): the numeral joins kappasahassāni («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း», «ကမ္ဘာ တစ်သောင်းခြောက်ထောင်»)	18	zeroshot
+2-1027	Soḷasa	ဆယ့်ခြောက်ပါး	ကမ္ဘာ နှစ်ထောင်	ARTEFACT	decision kappasahassāni|0 (OUTSIDE): the numeral joins kappasahassāni («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း», «ကမ္ဘာ တစ်သောင်းခြောက်ထောင်»)	18	zeroshot
+2-1028	kappasahassāni	ကမ္ဘာ ထောင်ပေါင်း	ကမ္ဘာ နှစ်သောင်း	ARTEFACT	decision kappasahassāni|0 (OUTSIDE): the numeral joins kappasahassāni («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း», «ကမ္ဘာ တစ်သောင်းခြောက်ထောင်»)	18	zeroshot
+2-1028	sahassāni	ထောင်ပေါင်း	ကမ္ဘာ နှစ်သောင်း	ARTEFACT	decision kappasahassāni|0 (OUTSIDE): the numeral joins kappasahassāni («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း», «ကမ္ဘာ တစ်သောင်းခြောက်ထောင်»)	18	zeroshot
+2-1028	Vīsati	နှစ်ဆယ်	ကမ္ဘာ နှစ်သောင်း	ARTEFACT	decision kappasahassāni|0 (OUTSIDE): the numeral joins kappasahassāni («ကမ္ဘာ နှစ်ထောင်», «ကမ္ဘာ နှစ်သောင်း», «ကမ္ဘာ တစ်သောင်းခြောက်ထောင်»)	18	zeroshot
+2-U11	adhamma	မတရားသော	တရားနှင့် မညီသော	GENUINE	L54: zero-shot «တရားနှင့် မညီသော» → termbase «မတရားသော»	17	zeroshot
+2-U13	nānatta	အမျိုးမျိုး ကွဲပြားမှု	အမျိုးမျိုးသော	GENUINE	L54: zero-shot «အမျိုးမျိုးသော» → termbase «အမျိုးမျိုး ကွဲပြားမှု»	17	zeroshot
+2-U13	nānattasaññā	အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု	အမျိုးမျိုးသော မှတ်သိမှု	GENUINE	L54: zero-shot «အမျိုးမျိုးသော မှတ်သိမှု» → termbase «အမျိုးမျိုး ကွဲပြားမှုဟု မှတ်သိမှု»	17	zeroshot
+2-U14	nikkhitta	လက်လွှတ်သော	ချထားသော	GENUINE	L51: zero-shot «ချထားသော» → termbase «လက်လွှတ်သော»	17	zeroshot
+2-U15	nikkhitta	လက်လွှတ်သော	ချထားသော	GENUINE	L51: zero-shot «ချထားသော» → termbase «လက်လွှတ်သော»	17	zeroshot
+2-U19	nikkhitta	လက်လွှတ်သော	ချထားသော	GENUINE	L51: zero-shot «ချထားသော» → termbase «လက်လွှတ်သော»	17	zeroshot
+2-U23	nikkhitta	လက်လွှတ်သော	ချထားသော	GENUINE	L51: zero-shot «ချထားသော» → termbase «လက်လွှတ်သော»	17	zeroshot
+2-U26	kamyatā	လိုချင်ခြင်း	မနာကြားလိုခြင်း	ARTEFACT	compound: asotukamyatā has its own entry «မနာကြားလိုခြင်း», which the text has	17	zeroshot
+2-U42	viññāta	သိရသော	သိသော	GENUINE	L60: zero-shot «သိသော» → termbase «သိရသော»	17	zeroshot
+2-U42	muta	နမ်း မြည်း ထိတွေ့ရသော	ထိတွေ့သော	GENUINE	L60: zero-shot «ထိတွေ့သော» → termbase «နမ်း မြည်း ထိတွေ့ရသော»	17	zeroshot
+2-U50	kula	ကိုးကွယ်သော အိမ်	ဒါယကာ အိမ်ဝန်း	GENUINE	L56: zero-shot «ဒါယကာ အိမ်ဝန်း» → termbase «ကိုးကွယ်သော အိမ်»	17	zeroshot
+2-U50	vaṇṇa	အရောင် | ဂုဏ်သတင်း | အဆင်းလှခြင်း	ဂုဏ်ကျေးဇူး	GENUINE	L56: zero-shot «ဂုဏ်ကျေးဇူး» → termbase «အရောင် | ဂုဏ်သတင်း | အဆင်းလှခြင်း»	17	zeroshot
+2-U51	saṅgo	တွယ်ကပ်ခြင်း	တွယ်ငြိမှု	GENUINE	L57: zero-shot «တွယ်ငြိမှု» → termbase «တွယ်ကပ်ခြင်း»	17	zeroshot
+2-U51	saṅgā	တွယ်ကပ်ခြင်း	တွယ်ငြိမှု	GENUINE	L57: zero-shot «တွယ်ငြိမှု» → termbase «တွယ်ကပ်ခြင်း»	17	zeroshot
+2-U53	brahmacariyaṃ	မြင့်မြတ်သော အကျင့်	မြတ်သော အကျင့်	GENUINE	L65: zero-shot «မြတ်သော အကျင့်» → termbase «မြင့်မြတ်သော အကျင့်»	17	zeroshot
+2-U58	ādīnavā	အပြစ်ဒဏ်	အပြစ်	GENUINE	L57: zero-shot «အပြစ်» → termbase «အပြစ်ဒဏ်»	17	zeroshot
+2-U58	amanāpo	စိတ်နှင့် မတွေ့သော	မနှစ်သက်အပ်သော	GENUINE	L65: zero-shot «မနှစ်သက်အပ်သော» → termbase «စိတ်နှင့် မတွေ့သော»	17	zeroshot
+2-U58	upapajjati	ပြန်လည် ဖြစ်ပေါ်သည်	ရောက်ရသည်	GENUINE	L45: zero-shot «ရောက်ရသည်» → termbase «ပြန်လည် ဖြစ်ပေါ်သည်»	17	zeroshot
+2-U61	vatthūni	အခြေခံ	အကြောင်း	GENUINE	L58: zero-shot «အကြောင်း» → termbase «အခြေခံ»	17	zeroshot
+2-U66	upekkhā	ဥပေက္ခာ	လျစ်လျူရှုဖွယ်	GENUINE	L59: zero-shot «လျစ်လျူရှုဖွယ်» → termbase «ဥပေက္ခာ»	17	zeroshot
+2-U8	ānudiṭṭhi	ပတ်သက်သော အယူ	အဖန်ဖန် ရှုမြင်သော အယူ	GENUINE	L54: zero-shot «အဖန်ဖန် ရှုမြင်သော အယူ» → termbase «ပတ်သက်သော အယူ»	17	zeroshot
+2-7-1-1-0	Kāyānupassanāniddeso	ကိုယ်ကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «ကိုယ်ကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-1-0	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-2-0	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-2-0	Vedanānupassanāniddeso	ခံစားမှုကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «ခံစားမှုကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-3-0	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-3-0	Cittānupassanāniddeso	စိတ်ကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «စိတ်ကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-4-0	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-7-1-4-0	Dhammānupassanāniddeso	သဘောတရားကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «သဘောတရားကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-17-2-7-0	Atricchatā	အလွန်အကျွံ လိုချင်ခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «အလွန်အကျွံ လိုချင်ခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-17-2-8-0	Mahicchatā	လိုချင်မှု ကြီးခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «လိုချင်မှု ကြီးခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-17-4-25-0	attānudiṭṭhi	အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ	ပတ်သက်သော အယူ	ARTEFACT	termbase conflict: the undecided entry «အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ» keeps the zero-shot form; the rails apply the decided ānudiṭṭhi|0 «ပတ်သက်သော အယူ» (the decision names attānudiṭṭhi); termbase doubt	17	rails
+2-17-4-29-0	adhammacariyā	တရားနှင့် မညီသော အကျင့်	မတရားသော	ARTEFACT	termbase conflict: the undecided entry «တရားနှင့် မညီသော အကျင့်» keeps the zero-shot form; the rails apply the decided adhamma|0 «မတရားသော» (pi-1 locked adhamma «မတရားသော»); termbase doubt	17	rails
+2-17-4-38-0	mahicchatā	လိုချင်မှု ကြီးခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «လိုချင်မှု ကြီးခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-17-7-10-0	upekkhupavicārā	လျစ်လျူရှုဖွယ်၌ စိတ် လှည့်လည်မှု	ဥပေက္ခာ	ARTEFACT	termbase conflict: the undecided entry «လျစ်လျူရှုဖွယ်၌ စိတ် လှည့်လည်မှု» keeps the zero-shot form; the rails apply the decided Upekkhā|0 «ဥပေက္ခာ» (pi-1 locked upekkhā «ဥပေက္ခာ»); termbase doubt	17	rails
+2-17-9-2-0	kusītavatthūni	ပျင်းရိမှု၏ အကြောင်း	အခြေခံ	ARTEFACT	termbase conflict: the undecided entry «ပျင်းရိမှု၏ အကြောင်း» keeps the zero-shot form; the rails apply the decided vatthu|0 «အခြေခံ» (the vatthu gloss names kusītavatthu); termbase doubt	17	rails
+2-193	maccu	သေဆုံးခြင်း		UNVERIFIED	no class	4	rails
+2-205	kāye kāyānupassī	ကိုယ်၌ ကိုယ်ကို အဖန်ဖန် ရှုလျက်	ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်	ARTEFACT	termbase conflict: the undecided entry «ကိုယ်၌ ကိုယ်ကို အဖန်ဖန် ရှုလျက်» keeps the zero-shot form; the rails apply the decided kāyānupassī viharati|0 «ကိုယ်ကို အဖန်ဖန် ရှုသူ ဖြစ်လျက် နေသည်» (H12: one form); termbase doubt	4	rails
+2-236	maccu	သေဆုံးခြင်း		UNVERIFIED	no class	6	rails
+2-362	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-364	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-364	Vedanānupassanāniddeso	ခံစားမှုကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «ခံစားမှုကို အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-366	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-373	ānupassanāniddeso	အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်	အကျယ် ဖော်ပြချက်	ARTEFACT	termbase conflict: the undecided entry «အဖန်ဖန် ရှုခြင်းကို ဖွင့်ဆိုချက်» keeps the zero-shot form; the rails apply the decided niddeso|0 «အကျယ် ဖော်ပြချက်» (the undecided heading entries keep «… ဖွင့်ဆိုချက်»; H19); termbase doubt	7	rails
+2-514	rājūhi	ဘုရင်	မင်း	ARTEFACT	termbase conflict: the undecided entry «ဘုရင်» keeps the zero-shot form; the rails apply the decided rāja|0 «မင်း» («one word with rājā»); termbase doubt	12	rails
+2-578	sahajātaṃ	အတူ ဖြစ်ပေါ်သော	မွေးဖွားပြီးသော	ARTEFACT	termbase conflict: the undecided entry «အတူ ဖြစ်ပေါ်သော» keeps the zero-shot form; the rails apply the decided jātaṃ|0 «မွေးဖွားပြီးသော» (the decision: «sahajātaṃ then reads «အတူ မွေးဖွားပြီးသော»»); termbase doubt	12	rails
+2-751	anābhogā	ဆင်ခြင်ခြင်း မရှိသော	စိတ်ညွတ်ခြင်း	ARTEFACT	termbase conflict: the undecided entry «ဆင်ခြင်ခြင်း မရှိသော» keeps the zero-shot form; the rails apply the decided ābhogo|0 «စိတ်ညွတ်ခြင်း» (H18: one set; «ဆင်ခြင်ခြင်း» is paccavekkhaṇā's verb); termbase doubt	16	rails
+2-810	vipattiṃ	ချို့ယွင်းမှု	ပျက်စီးခြင်း	ARTEFACT	termbase conflict: the undecided entry «ချို့ယွင်းမှု» keeps the zero-shot form; the rails apply the decided vipatti|0 «ပျက်စီးခြင်း» (pi-1 locked vipatti); termbase doubt	16	rails
+2-813	bhajiṃsu	ပေါင်းဖော်ခဲ့သည်	ဆည်းကပ်သည်	ARTEFACT	termbase conflict: the undecided entry «ပေါင်းဖော်ခဲ့သည်» keeps the zero-shot form; the rails apply the decided bhajati|0 «ဆည်းကပ်သည်» («one word with bhajanti»); termbase doubt	16	rails
+2-818	bhajiṃsu	ပေါင်းဖော်ခဲ့သည်	ဆည်းကပ်သည်	ARTEFACT	termbase conflict: the undecided entry «ပေါင်းဖော်ခဲ့သည်» keeps the zero-shot form; the rails apply the decided bhajati|0 «ဆည်းကပ်သည်» («one word with bhajanti»); termbase doubt	16	rails
+2-832	iriyāpatha	ကိုယ်ဟန် အမူအရာ	ဣရိယာပုထ်	ARTEFACT	termbase conflict: the undecided entry «ကိုယ်ဟန် အမူအရာ» keeps the zero-shot form; the rails apply the decided iriyāpathaṃ|0 «ဣရိယာပုထ်» («a word Burmese readers know»); termbase doubt	17	rails
+2-832	atricchatā	အလွန်အကျွံ လိုချင်ခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «အလွန်အကျွံ လိုချင်ခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-832	mahicchatā	လိုချင်မှု ကြီးခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «လိုချင်မှု ကြီးခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-834	mahicchatā	လိုချင်မှု ကြီးခြင်း	အလိုရှိခြင်း	ARTEFACT	termbase conflict: the undecided entry «လိုချင်မှု ကြီးခြင်း» keeps the zero-shot form; the rails apply the decided icchatā|0 «အလိုရှိခြင်း» (the undecided entries keep «လိုချင်…» (kamyatā's word)); termbase doubt	17	rails
+2-834	attānudiṭṭhi	အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ	ပတ်သက်သော အယူ	ARTEFACT	termbase conflict: the undecided entry «အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ» keeps the zero-shot form; the rails apply the decided ānudiṭṭhi|0 «ပတ်သက်သော အယူ» (the decision names attānudiṭṭhi); termbase doubt	17	rails
+2-834	adhammacariyā	တရားနှင့် မညီသော အကျင့်	မတရားသော	ARTEFACT	termbase conflict: the undecided entry «တရားနှင့် မညီသော အကျင့်» keeps the zero-shot form; the rails apply the decided adhamma|0 «မတရားသော» (pi-1 locked adhamma «မတရားသော»); termbase doubt	17	rails
+2-834	kamyatā	လိုချင်ခြင်း	မဖူးမြင်လိုခြင်း	ARTEFACT	privative: ariyānaṃ adassanakamyatā «အရိယာတို့ကို မဖူးမြင်လိုခြင်း» (verb + desiderative «-လိုခြင်း», as the termbase asotukamyatā «မနာကြားလိုခြင်း», adaṭṭhukamyatā «မတွေ့မြင်လိုခြင်း»)	17	rails
+2-839	kusītavatthūni	ပျင်းရိမှု၏ အကြောင်း	အခြေခံ	ARTEFACT	termbase conflict: the undecided entry «ပျင်းရိမှု၏ အကြောင်း» keeps the zero-shot form; the rails apply the decided vatthu|0 «အခြေခံ» (the vatthu gloss names kusītavatthu); termbase doubt	17	rails
+2-844	paṭibhānaṃ	လျင်မြန်သော ဉာဏ်	ဉာဏ်ပေါ်မှု	ARTEFACT	termbase conflict: the undecided entry «လျင်မြန်သော ဉာဏ်» keeps the zero-shot form; the rails apply the decided paṭibhāna|0 «ဉာဏ်ပေါ်မှု» (31 of 32 uses); termbase doubt	17	rails
+2-844	iddhiṃ	တန်ခိုး	ဣဒ္ဓိ	ARTEFACT	termbase conflict: the undecided entry «တန်ခိုး» keeps the zero-shot form; the rails apply the decided Iddhi|0 «ဣဒ္ဓိ» (pi-1 locked iddhi); termbase doubt	17	rails
+2-852	siṅgāratā	ဟန်လုပ်ခြင်း		UNVERIFIED	no class	17	rails
+2-861	iriyāpathassa	ကိုယ်ဟန် အမူအရာ	ဣရိယာပုထ်	ARTEFACT	termbase conflict: the undecided entry «ကိုယ်ဟန် အမူအရာ» keeps the zero-shot form; the rails apply the decided iriyāpathaṃ|0 «ဣရိယာပုထ်» («a word Burmese readers know»); termbase doubt	17	rails
+2-861	Lābhasakkārasilokasannissitassa	လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော	အရိုအသေ ပြုခံရမှု	ARTEFACT	termbase conflict: the undecided entry «လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော» keeps the zero-shot form; the rails apply the decided sakkāra|0 «အရိုအသေ ပြုခံရမှု» (pi-1 locked sakkāra); termbase doubt	17	rails
+2-862	Lābhasakkārasilokasannissitassa	လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော	အရိုအသေ ပြုခံရမှု	ARTEFACT	termbase conflict: the undecided entry «လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော» keeps the zero-shot form; the rails apply the decided sakkāra|0 «အရိုအသေ ပြုခံရမှု» (pi-1 locked sakkāra); termbase doubt	17	rails
+2-863	Lābhasakkārasilokasannissitassa	လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော	အရိုအသေ ပြုခံရမှု	ARTEFACT	termbase conflict: the undecided entry «လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော» keeps the zero-shot form; the rails apply the decided sakkāra|0 «အရိုအသေ ပြုခံရမှု» (pi-1 locked sakkāra); termbase doubt	17	rails
+2-864	Lābhasakkārasilokasannissitassa	လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော	အရိုအသေ ပြုခံရမှု	ARTEFACT	termbase conflict: the undecided entry «လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော» keeps the zero-shot form; the rails apply the decided sakkāra|0 «အရိုအသေ ပြုခံရမှု» (pi-1 locked sakkāra); termbase doubt	17	rails
+2-865	Lābhasakkārasilokasannissito	လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော	အရိုအသေ ပြုခံရမှု	ARTEFACT	termbase conflict: the undecided entry «လာဘ် အပူဇော်ခံရခြင်း ကျော်စောမှုကို မှီသော» keeps the zero-shot form; the rails apply the decided sakkāra|0 «အရိုအသေ ပြုခံရမှု» (pi-1 locked sakkāra); termbase doubt	17	rails
+2-953	kusītavatthu	ပျင်းရိမှု၏ အကြောင်း	အခြေခံ	ARTEFACT	termbase conflict: the undecided entry «ပျင်းရိမှု၏ အကြောင်း» keeps the zero-shot form; the rails apply the decided vatthu|0 «အခြေခံ» (the vatthu gloss names kusītavatthu); termbase doubt	17	rails
+2-953	kusītavatthūni	ပျင်းရိမှု၏ အကြောင်း	အခြေခံ	ARTEFACT	termbase conflict: the undecided entry «ပျင်းရိမှု၏ အကြောင်း» keeps the zero-shot form; the rails apply the decided vatthu|0 «အခြေခံ» (the vatthu gloss names kusītavatthu); termbase doubt	17	rails
+2-U66	upekkhāṭṭhāniyaṃ	လျစ်လျူရှုဖွယ် ဖြစ်သော	ဥပေက္ခာ	ARTEFACT	termbase conflict: the undecided entry «လျစ်လျူရှုဖွယ် ဖြစ်သော» keeps the zero-shot form; the rails apply the decided Upekkhā|0 «ဥပေက္ခာ» (pi-1 locked upekkhā «ဥပေက္ခာ»); termbase doubt	17	rails
+2-U68	Upekkhāṭṭhāniyesu	လျစ်လျူရှုဖွယ် ဖြစ်သော	ဥပေက္ခာ	ARTEFACT	termbase conflict: the undecided entry «လျစ်လျူရှုဖွယ် ဖြစ်သော» keeps the zero-shot form; the rails apply the decided Upekkhā|0 «ဥပေက္ခာ» (pi-1 locked upekkhā «ဥပေက္ခာ»); termbase doubt	17	rails
+2-U8	attānudiṭṭhi	အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ	ပတ်သက်သော အယူ	ARTEFACT	termbase conflict: the undecided entry «အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ» keeps the zero-shot form; the rails apply the decided ānudiṭṭhi|0 «ပတ်သက်သော အယူ» (the decision names attānudiṭṭhi); termbase doubt	17	rails
+2-U9	attānudiṭṭhi	အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ	ပတ်သက်သော အယူ	ARTEFACT	termbase conflict: the undecided entry «အတ္တဟု အဖန်ဖန် ရှုမြင်သော အယူ» keeps the zero-shot form; the rails apply the decided ānudiṭṭhi|0 «ပတ်သက်သော အယူ» (the decision names attānudiṭṭhi); termbase doubt	17	rails
