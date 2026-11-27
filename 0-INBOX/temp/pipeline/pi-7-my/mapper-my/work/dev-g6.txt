@@ -1,0 +1,156 @@
+5-01-anuloma-tikatika lines 277 unmapped 8 stem 0 fails 0 NDE 0 0.5s
+  U	5-01-anuloma-tikatika	7-55-40	nevadassanena
+  U	5-01-anuloma-tikatika	7-55-43	nevadassanena
+  U	5-01-anuloma-tikatika	7-55-85	Kusalattikasanidassanattikaṃ
+  U	5-01-anuloma-tikatika	7-55-85	Kusalattikasanidassanattikaṃ
+  U	5-01-anuloma-tikatika	7-55-102	Nevadassanena
+  U	5-01-anuloma-tikatika	7-55-104	Nevadassanena
+  U	5-01-anuloma-tikatika	7-55-105	Nevadassanena
+  U	5-01-anuloma-tikatika	7-55-107	Nevadassanena
+5-02-anuloma-dukaduka lines 163 unmapped 4 stem 2 fails 0 NDE 0 0.6s
+  U	5-02-anuloma-dukaduka	7-5-2-27-0	saññojanādidukāni
+  U	5-02-anuloma-dukaduka	7-5-2-53-0	Saññojanādiduka
+  U	5-02-anuloma-dukaduka	7-56-22	Sappaccayadukasadisaṃ
+  U	5-02-anuloma-dukaduka	7-56-53	nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ
+  S	5-02-anuloma-dukaduka	7-56-26	rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-02-anuloma-dukaduka	7-56-87	Cittasaṃsaṭṭhasamuṭṭhānaṃ=စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာသော
+5-03-paccaniya-tika lines 84 unmapped 0 stem 1 fails 0 NDE 0 0.6s
+  S	5-03-paccaniya-tika	7-57-34	gaṇitaṃ=ရေတွက်ထားသော
+5-04-paccaniya-duka lines 188 unmapped 14 stem 0 fails 0 NDE 0 0.7s
+  U	5-04-paccaniya-duka	7-58-19	Sappaccayadukasadisaṃ
+  U	5-04-paccaniya-duka	7-58-24	Narūpiṃ
+  U	5-04-paccaniya-duka	7-58-24	Narūpiñca
+  U	5-04-paccaniya-duka	7-58-28	nanoāsavo
+  U	5-04-paccaniya-duka	7-58-28	nanoāsavañca
+  U	5-04-paccaniya-duka	7-58-32	nanoāsavañca
+  U	5-04-paccaniya-duka	7-58-34	nanosaññojanañca
+  U	5-04-paccaniya-duka	7-58-34	nanosaññojanañca
+  U	5-04-paccaniya-duka	7-58-40	nanoganthañca
+  U	5-04-paccaniya-duka	7-58-46	āmasanaṃ
+  U	5-04-paccaniya-duka	7-58-47	āmasanaṃ
+  U	5-04-paccaniya-duka	7-58-56	Paccanīyadukamattāni
+  U	5-04-paccaniya-duka	7-58-56	vattabbaṃ
+  U	5-04-paccaniya-duka	7-58-65	nanoupādā
+5-05-paccaniya-dukatika lines 119 unmapped 4 stem 0 fails 0 NDE 0 0.8s
+  U	5-05-paccaniya-dukatika	7-5-5-9-0	Hetusahetukadukādi
+  U	5-05-paccaniya-dukatika	7-59-41	Ekapañhameva
+  U	5-05-paccaniya-dukatika	7-59-47	nanakenaci
+  U	5-05-paccaniya-dukatika	7-59-54	nanosaññojanaṃ
+5-06-paccaniya-tikaduka lines 114 unmapped 2 stem 0 fails 0 NDE 0 0.9s
+  U	5-06-paccaniya-tikaduka	7-5-6-7-0	saññojanādigocchakāni
+  U	5-06-paccaniya-tikaduka	7-5-6-13-0	hetvādidukāni
+5-07-paccaniya-tikatika lines 108 unmapped 0 stem 0 fails 0 NDE 0 1.0s
+5-08-paccaniya-dukaduka lines 82 unmapped 9 stem 0 fails 0 NDE 0 1.1s
+  U	5-08-paccaniya-dukaduka	7-5-8-1-0	sahetukādidukāni
+  U	5-08-paccaniya-dukaduka	7-5-8-4-0	saññojanādidukāni
+  U	5-08-paccaniya-dukaduka	7-5-8-7-0	Sahetukādidukāni
+  U	5-08-paccaniya-dukaduka	7-5-8-10-0	Saññojanādidukāni
+  U	5-08-paccaniya-dukaduka	7-5-8-14-0	sahetukādidukāni
+  U	5-08-paccaniya-dukaduka	7-5-8-17-0	saññojanādidukāni
+  U	5-08-paccaniya-dukaduka	7-62-8	nanakenaci
+  U	5-08-paccaniya-dukaduka	7-62-23	nanakenaci
+  U	5-08-paccaniya-dukaduka	7-62-46	nanakenaci
+5-09-anulomapaccaniya-tika lines 144 unmapped 6 stem 0 fails 0 NDE 0 1.1s
+  U	5-09-anulomapaccaniya-tika	7-63-4	Cittasamuṭṭhānarūpameva
+  U	5-09-anulomapaccaniya-tika	7-63-7	chabbīsa
+  U	5-09-anulomapaccaniya-tika	7-63-11	chabbīsa
+  U	5-09-anulomapaccaniya-tika	7-63-25	chabbīsa
+  U	5-09-anulomapaccaniya-tika	7-63-32	chabbīsa
+  U	5-09-anulomapaccaniya-tika	7-63-37	chabbīsa
+5-10-anulomapaccaniya-duka lines 114 unmapped 3 stem 3 fails 0 NDE 1 1.2s
+  U	5-10-anulomapaccaniya-duka	7-64-10	sappaccayasadisaṃ
+  U	5-10-anulomapaccaniya-duka	7-64-31	nanoupādā
+  U	5-10-anulomapaccaniya-duka	7-64-53	nanaaraṇo
+  S	5-10-anulomapaccaniya-duka	7-64-13	Rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-10-anulomapaccaniya-duka	7-64-13	Rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-10-anulomapaccaniya-duka	7-64-29	cittasaṃsaṭṭhasamuṭṭhānaṃ=စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာသော
+5-11-anulomapaccaniya-dukatika lines 203 unmapped 29 stem 2 fails 0 NDE 1 1.3s
+  U	5-11-anulomapaccaniya-dukatika	7-5-11-41-0	Saññojanādidukāni
+  U	5-11-anulomapaccaniya-dukatika	7-65-50	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-51	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-51	paccayavasena
+  U	5-11-anulomapaccaniya-dukatika	7-65-52	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-53	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-54	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-55	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-55	paccayavasena
+  U	5-11-anulomapaccaniya-dukatika	7-65-56	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-56	paccayavasena
+  U	5-11-anulomapaccaniya-dukatika	7-65-57	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-58	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-59	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-60	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-65	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-66	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-67	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-68	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-69	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-70	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-71	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-72	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-73	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-74	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-75	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-76	Abyākatamūlaṃ
+  U	5-11-anulomapaccaniya-dukatika	7-65-77	Abyākatamūle
+  U	5-11-anulomapaccaniya-dukatika	7-65-78	Abyākatamūle
+  S	5-11-anulomapaccaniya-dukatika	7-65-38	Rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-11-anulomapaccaniya-dukatika	7-65-38	Rūpiṃ=ရုပ် ဖြစ်သော
+5-12-anulomapaccaniya-tikaduka lines 252 unmapped 11 stem 4 fails 0 NDE 1 1.5s
+  U	5-12-anulomapaccaniya-tikaduka	7-5-12-67-0	saññojanādidukāni
+  U	5-12-anulomapaccaniya-tikaduka	7-66-24	nanoāsavo
+  U	5-12-anulomapaccaniya-tikaduka	7-66-25	lokiyadukasadisaṃ
+  U	5-12-anulomapaccaniya-tikaduka	7-66-25	lokiyadukasadisaṃ
+  U	5-12-anulomapaccaniya-tikaduka	7-66-28	nanoāsavo
+  U	5-12-anulomapaccaniya-tikaduka	7-66-29	lokiyadukasadisaṃ
+  U	5-12-anulomapaccaniya-tikaduka	7-66-29	lokiyadukasadisaṃ
+  U	5-12-anulomapaccaniya-tikaduka	7-66-42	Ete
+  U	5-12-anulomapaccaniya-tikaduka	7-66-44	nanoupādā
+  U	5-12-anulomapaccaniya-tikaduka	7-66-101	nanoāsavo
+  U	5-12-anulomapaccaniya-tikaduka	7-66-104	nanoāsavo
+  S	5-12-anulomapaccaniya-tikaduka	7-66-20	rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-12-anulomapaccaniya-tikaduka	7-66-20	rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-12-anulomapaccaniya-tikaduka	7-66-20	rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-12-anulomapaccaniya-tikaduka	7-66-98	rūpiṃ=ရုပ် ဖြစ်သော
+5-13-anulomapaccaniya-tikatika lines 89 unmapped 2 stem 0 fails 0 NDE 0 1.6s
+  U	5-13-anulomapaccaniya-tikatika	7-67-29	atītasadisaṃ
+  U	5-13-anulomapaccaniya-tikatika	7-67-29	atītasadisaṃ
+5-14-anulomapaccaniya-dukaduka lines 126 unmapped 7 stem 2 fails 0 NDE 1 1.6s
+  U	5-14-anulomapaccaniya-dukaduka	7-5-14-6-0	saññojanādigocchakaṃ
+  U	5-14-anulomapaccaniya-dukaduka	7-68-36	nocittasaṃsaṭṭhasamuṭṭhānasahabhū
+  U	5-14-anulomapaccaniya-dukaduka	7-68-52	Lokiyadukasadisaṃ
+  U	5-14-anulomapaccaniya-dukaduka	7-68-52	Lokiyadukasadisaṃ
+  U	5-14-anulomapaccaniya-dukaduka	7-68-75	nanoupādā
+  U	5-14-anulomapaccaniya-dukaduka	7-68-91	nanoāsavo
+  U	5-14-anulomapaccaniya-dukaduka	7-68-91	nanoāsavo
+  S	5-14-anulomapaccaniya-dukaduka	7-68-12	rūpiṃ=ရုပ် ဖြစ်သော
+  S	5-14-anulomapaccaniya-dukaduka	7-68-48	Rūpiṃ=ရုပ် ဖြစ်သော
+5-15-paccaniyanuloma-tika lines 66 unmapped 2 stem 0 fails 0 NDE 0 1.6s
+  U	5-15-paccaniyanuloma-tika	7-69-6	chabbīsati
+  U	5-15-paccaniyanuloma-tika	7-69-17	chabbīsa
+5-16-paccaniyanuloma-duka lines 75 unmapped 2 stem 0 fails 0 NDE 0 1.7s
+  U	5-16-paccaniyanuloma-duka	7-70-14	Nanoāsavaṃ
+  U	5-16-paccaniyanuloma-duka	7-70-14	nanoāsavañca
+5-17-paccaniyanuloma-dukatika lines 199 unmapped 6 stem 0 fails 0 NDE 0 1.8s
+  U	5-17-paccaniyanuloma-dukatika	7-5-17-2-0	Sahetukādidukāni
+  U	5-17-paccaniyanuloma-dukatika	7-5-17-37-0	Sahetukādidukāni
+  U	5-17-paccaniyanuloma-dukatika	7-71-11	sappaccayadukasadisaṃ
+  U	5-17-paccaniyanuloma-dukatika	7-71-69	nevadassanena
+  U	5-17-paccaniyanuloma-dukatika	7-71-71	nevadassanena
+  U	5-17-paccaniyanuloma-dukatika	7-71-94	purimanayena
+5-18-paccaniyanuloma-tikaduka lines 154 unmapped 3 stem 0 fails 0 NDE 1 1.9s
+  U	5-18-paccaniyanuloma-tikaduka	7-5-18-7-0	saññojanādigocchakāni
+  U	5-18-paccaniyanuloma-tikaduka	7-5-18-31-0	saññojanādigocchakāni
+  U	5-18-paccaniyanuloma-tikaduka	7-72-57	ovattā
+5-19-paccaniyanuloma-tikatika lines 127 unmapped 1 stem 0 fails 0 NDE 0 2.0s
+  U	5-19-paccaniyanuloma-tikatika	7-73-36	nevadassanena
+5-20-paccaniyanuloma-dukaduka lines 120 unmapped 8 stem 0 fails 0 NDE 0 2.1s
+  U	5-20-paccaniyanuloma-dukaduka	7-5-20-5-0	saññojanādigocchakāni
+  U	5-20-paccaniyanuloma-dukaduka	7-5-20-10-0	Sahetukādidukāni
+  U	5-20-paccaniyanuloma-dukaduka	7-74-8	sappaccayasadisaṃ
+  U	5-20-paccaniyanuloma-dukaduka	7-74-14	nanoāsavaṃ
+  U	5-20-paccaniyanuloma-dukaduka	7-74-14	nanoāsavañca
+  U	5-20-paccaniyanuloma-dukaduka	7-74-35	nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ
+  U	5-20-paccaniyanuloma-dukaduka	7-74-52	sappaccayasadisaṃ
+  U	5-20-paccaniyanuloma-dukaduka	7-74-92	Anulomadukatikapaṭṭhānato
+sources [('term', 3085), ('cond', 2595), ('pi-2', 2162), ('frame', 2069), ('stock', 1570), ('verb', 1500), ('headlex', 704), ('vara', 446), ('count', 311), ('pi-5', 257), ('pi-6', 73), ('order', 71), ('terms', 68), ('pi-3', 51), ('title', 34), ('samutthana', 15), ('pi-1', 14), ('stem', 10), (None, 7), ('base', 7), ('pi-4', 2)]

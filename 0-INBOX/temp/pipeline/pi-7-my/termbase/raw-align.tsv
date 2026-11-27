@@ -1,0 +1,18 @@
+# Part 2: single-candidate senses re-aligned to the LOCKED pi-6 / pi-5 / pi-4 / pi-3 / pi-2 / pi-1 term (same headword, same sense; the locked term occurs in the pi-7 text)
+samphaṃ|0	အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား	locked pi-5 review change B12 (pi-1 … pi-4 samphappalāpa); in all 9 segments (the text has «အကျိုးမဲ့ ပြိန်ဖျင်းသော စကားကို ပြောသည်»: the map split it after «အကျိုးမဲ့»); palapati keeps «ပြောသည်» (= pi-5 palapeyya)
+nillopaṃ|0	လုယက်	locked pi-5 (same tag, the same deeds list, pi-5 rails «လုယက်ပစ္စည်းကို လုယူရာ»); harati keeps «လုယူသည်» (= pi-5 hareyya); the rails write «လုယက်ပစ္စည်းကို လုယူသည်» for «ဥစ္စာကို လုယူသည်» (9 segments)
+paripanthe|0	လမ်း	locked pi-5 (same tag; pi-5 rails «လမ်း၌ ဓားပြ တိုက်…»); in all 9 segments, inside «လမ်းခရီး၌»
+vattabbaṃ|0	ခေါ်ဆို၍ ရ	locked pi-2 / pi-1 vattabbaṃ «ခေါ်ဆို၍ ရ» (same tag, the same 'na vattabbaṃ' use); the pi-7 value «ခေါ်ဆို၍ မရသော» carried the negation of na (the only use, ^7-58-56), which the rails render as the negated verb «… မရသော» (Q5, INFLECTION), as pi-1 / pi-2 did
+nānākaraṇaṃ|0	ကွဲပြားမှု	§A 27 decided: locked pi-5 «ကွဲပြားမှု» (same tag; in the pi-7 text at ^7-33-98 ninnānā); one noun for nānā(karaṇa): family ninnānākaraṇaṃ / ninnānākaraṇā / ninnānā «ကွဲပြားမှု မရှိ» (part 3)
+# coordinator change before the lock (2026-11-26): avasesa family = the locked pi-1 / pi-2 / pi-5 / pi-6 term «ကြွင်းကျန်သော» (book-wide consistency; the pi-7 text's «ကြွင်းသော» (23 uses) is changed in the rails)
+avasesesu|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesa family «ကြွင်းကျန်သော» (coordinator)
+avasesā|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesā «ကြွင်းကျန်သော» (coordinator)
+Avasesāni|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesa family «ကြွင်းကျန်သော» (coordinator)
+# coordinator change after review (2026-11-26): review B15 (hetuka = having roots, as the pi-1 Mātikā «… အမြစ် ရှိသော သဘောတရားများ») and B16 / A7 (saṅghaṃ bhindati as the pi-5 saṅghabhedaka family «သင်းခွဲ»)
+Dassanenapahātabbahetukattikaṃ|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း သုံးမျိုးတွဲ	review B15: hetuka = having roots (pi-1 ^1-M1 «… အမြစ် ရှိသော»)
+Dassanenapahātabbahetukattika|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း သုံးမျိုးတွဲ	review B15
+Dassanenapahātabbahetukadukaṃ|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Dassanenapahātabbahetukaduka|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Bhāvanāyapahātabbahetukadukaṃ|0	ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Bhāvanāyapahātabbahetukaduka|0	ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+bhindati|0	သင်းခွဲသည်	review B16 / A7: the pi-5 saṅghabhedaka family «သံဃာကို သင်းခွဲ…» and this book's saṅghabhedakamma «သံဃာကို သင်းခွဲခြင်း ကံ»

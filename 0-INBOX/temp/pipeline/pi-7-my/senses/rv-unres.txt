@@ -1,0 +1,55 @@
+## Anantara  (pi-5 senses ['contiguity, the proximity relation, in anantarapaccaya (compound member)', 'next in sequence, in anantaravāra (compound member)']) kept=grammar
+   pi-7: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း=16[7-2-454,7-2-456,7-2-466,7-2-472…] | ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း=13[7-1-1-1-4-2-5-0,7-1-1-1-4-6-13-0,7-1-1-1-4-15-5-0,7-1-1-1-4-16-11-0…]
+   pi-5: contiguity, the proximity relation, in anantarapaccaya (compound member): ချက်ချင်း နောက်၌ ဖြစ်စေသော / ကြားမလပ် || next in sequence, in anantaravāra (compound member): နောက်ဆက်တွဲ
+   mr-7 tags: proximity condition, bare stem in lists and headings (stem)
+## Hetudukaṃ  (Marathi tags=['the root dyad, first dyad of the matrix (heading)', 'pairs with the root condition, combinations in the counts (heading)']) kept=sense
+   pi-7: အမြစ် နှစ်မျိုးတွဲ=199[7-3-1-1-1-0,7-4-3-1-0,7-4-3-1-0,7-4-3-1-7-0…] | အမြစ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ=80[7-1-1-1-4-6-1-0,7-1-1-1-4-16-3-0,7-1-1-1-4-19-1-0,7-1-1-1-4-30-1-0…]
+   mr-7 tags: the root dyad, first dyad of the matrix (heading) || pairs with the root condition, combinations in the counts (heading)
+## Kamma  (pi-5 senses ['deeds, as compound member', 'work, busy activity, in kammārāmatā (compound member)']) kept=grammar
+   pi-7: ကံ=20[7-2-454,7-2-456,7-2-466,7-2-466…] | ကံဟူသော အကြောင်း=5[7-1-1-1-4-16-13-0,7-1-1-1-6-3-8-0,7-3-1-9-176-9-0,7-3-1-9-282-8-0…]
+   pi-5: deeds, as compound member: ကံ || work, busy activity, in kammārāmatā (compound member): အလုပ်
+   pi-4: deeds, as compound member: ကံ
+   mr-7 tags: kamma condition, bare stem in lists and headings (stem)
+## paccaya  (pi-5 senses ['condition, cause, requisite (compound member), here in the paccaya headings', "reliance on others, in aparappaccaya 'not dependent on others' (compound final)"]) kept=-
+   pi-7: အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်း=21[7-1-1-1-8-7-0,7-2-1-1-2-12-0,7-2-1-1-8-11-0,7-2-1-1-11-12-0…]
+   pi-5: condition, cause, requisite (compound member), here in the paccaya headings: အကြောင်း || reliance on others, in aparappaccaya 'not dependent on others' (compound final): မှီသော
+   pi-2: condition, cause, requisite (compound member): အထောက်အပံ့ / ပစ္စည်း
+   mr-7 tags: conditions, member of the combined section name with nissaya and saṃsaṭṭha (heading member)
+## vatthu  (pi-5 senses ["topics, in Khuddakavatthu 'minor topics' (heading member), here the points of controversy, in the book title Kathāvatthu and its closing line", "stump, in tālāvatthukata 'made like a palm stump' of the arahant formula (compound member)"]) kept=-
+   pi-7: မှီရာ ဝတ္ထု=561[7-2-57,7-2-58,7-2-86,7-2-86…]
+   pi-5: topics, in Khuddakavatthu 'minor topics' (heading member), here the points of controversy, in the book title Kathāvatthu and its closing line: အငြင်းပွားရာ အကြောင်းအရာ / အကြောင်းအရာ || stump, in tālāvatthukata 'made like a palm stump' of the arahant formula (compound member): ငုတ်တို
+   pi-4: basis, ground, in ñāṇavatthu and kusītavatthu (compound final): အကြောင်း
+   pi-2: basis, ground, in ñāṇavatthu and kusītavatthu (compound final): အခြေခံ / အကြောင်း || topics, in Khuddakavatthu 'minor topics' (heading member): အကြောင်းအရာ
+   mr-7 tags: the physical base, the support of mind (nominative sg.) || a thing, an object, a single occurrence (nominative sg.)
+## Ārammaṇādhipati  (Marathi tags=['object-predominance, the object kind of predominance (nominative)', 'object and predominance conditions together, in the combination counts (compound)']) kept=-
+   pi-7: အာရုံ အကြီးအမှူး=186[7-2-413,7-2-414,7-2-415,7-2-416…]
+   mr-7 tags: object-predominance, the object kind of predominance (nominative) || object and predominance conditions together, in the combination counts (compound)
+## kātabbaṃ  (Marathi tags=["to be included, joined, of a basic sentence, a cycle or a list, the joint value 'include or do' is placed here (gerundive)", 'should be done, in general (gerundive)']) kept=-
+   pi-7: ပြုရမည့်=167[7-2-423,7-7-38,7-7-54,7-8-14…]
+   mr-7 tags: to be included, joined, of a basic sentence, a cycle or a list, the joint value 'include or do' is placed here (gerundive) || should be done, in general (gerundive)
+## uppādetvā  (Marathi tags=['having produced, brought about (absolutive)', "having shed, of the Buddha's blood (absolutive)"]) kept=-
+   pi-7: ထွက်စေ၍=2[7-2-423,7-16-45]
+   mr-7 tags: having produced, brought about (absolutive) || having shed, of the Buddha's blood (absolutive)
+## vipāke  (Marathi tags=['in the result condition, the count locative (locative)', "resultant, born as the result of action, in 'vipāke khandhe' (accusative pl.)"]) kept=sense
+   pi-7: ကံ၏ အကျိုးဟူသော အကြောင်း=20[7-2-473,7-3-7,7-3-76,7-39-17…] | ကံ၏ အကျိုး=3[7-4-30,7-13-14,7-13-37] | ကံ၏ အကျိုး ဖြစ်သော=1[7-35-232]
+   mr-7 tags: in the result condition, the count locative (locative) || resultant, born as the result of action, in 'vipāke khandhe' (accusative pl.)
+## kātabbā  (Marathi tags=['should be done, in general (gerundive)', "to be included, joined, of items such as rebirth, the great elements or food, the joint value 'include or do' is placed here (gerundive)"]) kept=sense
+   pi-7: ပြုရမည့်=214[7-7-37,7-7-48,7-7-50,7-7-51…] | ထည့်ရမည့်=2[7-4-110,7-4-111]
+   mr-7 tags: should be done, in general (gerundive) || to be included, joined, of items such as rebirth, the great elements or food, the joint value 'include or do' is placed here (gerundive)
+## kātabbo  (Marathi tags=['to be made or done, of a basic sentence, a cycle or a list (gerundive)', 'to be included, of items such as rebirth, the great elements or food (gerundive, including the one value joining both verbs)']) kept=-
+   pi-7: ပြုရမည့်=65[7-10-101,7-23-45,7-25-44,7-35-98…]
+   mr-7 tags: to be made or done, of a basic sentence, a cycle or a list (gerundive) || to be included, of items such as rebirth, the great elements or food (gerundive, including the one value joining both verbs)
+## Hetuṃ  (Marathi tags=['root as item of the root dyad, the dyad term itself a root, also its negated form (accusative sg.)', 'root as a noun, a root phenomenon (accusative sg.)']) kept=-
+   pi-7: အမြစ်=157[7-24-1,7-24-7,7-24-8,7-24-12…]
+   mr-7 tags: root as item of the root dyad, the dyad term itself a root, also its negated form (accusative sg.) || root as a noun, a root phenomenon (accusative sg.)
+## Saññojanañca  (Marathi tags=['and a fetter, item of the fetter dyad, the dyad term itself a fetter, also its negated form (accusative sg. with -ñca)', 'fetter as a noun (with -ñca)']) kept=-
+   pi-7: နှောင်ကြိုး=6[7-27-3,7-27-10,7-27-11,7-27-99…]
+   mr-7 tags: and a fetter, item of the fetter dyad, the dyad term itself a fetter, also its negated form (accusative sg. with -ñca) || fetter as a noun (with -ñca)
+## parāmāsassa  (Marathi tags=['of wrong grasping, item of the wrong-grasping dyad, the dyad term itself a misapprehension, some values joined with the plain noun (genitive sg.)', 'wrong grasping as a plain noun (genitive sg.)']) kept=-
+   pi-7: မှားယွင်းသော ယူဆမှု=16[7-31-17,7-31-17,7-31-19,7-31-19…]
+   mr-7 tags: of wrong grasping, item of the wrong-grasping dyad, the dyad term itself a misapprehension, some values joined with the plain noun (genitive sg.) || wrong grasping as a plain noun (genitive sg.)
+## citto  (pi-5 senses ['of mind, compound final (nominative sg.)', 'proper name, Citta the householder (citto gahapati)']) kept=-
+   pi-7: စိတ်=6[7-70-23,7-70-23,7-71-29,7-72-82…]
+   pi-5: of mind, compound final (nominative sg.): စိတ် ရှိသော || proper name, Citta the householder (citto gahapati): စိတ္တ
+   pi-4: of mind, compound final (nominative sg.): စိတ် ရှိသော
+   mr-7 tags: mind, the item of the mind dyad (masculine sg.)

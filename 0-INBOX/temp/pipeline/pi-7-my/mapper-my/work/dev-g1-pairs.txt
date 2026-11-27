@@ -1,0 +1,1054 @@
+1-01-kusalattika: lines 1508 problems 0 unmapped 33 NDE 3
+  UNMAPPED ('7-1-1-1-4-54-70-0', 'Sahetādhipati')
+  UNMAPPED ('7-1-1-1-4-57-56-0', 'Sahetādhipati')
+  UNMAPPED ('7-1-1-1-4-57-69-0', 'Sahetādhipati')
+  UNMAPPED ('7-2-72', 'sajjhāyantena')
+  UNMAPPED ('7-2-85', 'sajjhāyantena')
+  UNMAPPED ('7-2-193', 'gaṇite')
+  UNMAPPED ('7-2-406', 'viññāṇañcāyatanavipākassa')
+  UNMAPPED ('7-2-410', 'vipākābyākatakiriyābyākatacittasamaṅgissa')
+  UNMAPPED ('7-2-410', 'viññāṇañcāyatanakiriyassa')
+  UNMAPPED ('7-2-411', 'vipākābyākatakiriyābyākatacittasamaṅgissa')
+  UNMAPPED ('7-2-417', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-417', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-417', 'nevasaññānāsaññāyatanakiriyaṃ')
+  UNMAPPED ('7-2-418', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-418', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-418', 'nevasaññānāsaññāyatanakiriyaṃ')
+  UNMAPPED ('7-2-423', 'Dibbasotadhātu')
+  UNMAPPED ('7-2-423', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-2-423', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-2-423', 'dhammappaṭisambhidāya')
+  UNMAPPED ('7-2-423', 'niruttippaṭisambhidāya')
+  UNMAPPED ('7-2-423', 'paṭibhānappaṭisambhidāya')
+  UNMAPPED ('7-2-423', 'ṭhānāṭhānakosallassa')
+  UNMAPPED ('7-2-423', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-423', 'nevasaññānāsaññāyatanakusalaṃ')
+  UNMAPPED ('7-2-423', 'kiriyasamāpattiṃ')
+  UNMAPPED ('7-2-423', 'bandhitabbaṃ')
+  UNMAPPED ('7-2-423', 'niyatamicchādiṭṭhiyā')
+  UNMAPPED ('7-2-423', 'niyatamicchādiṭṭhiyā')
+  UNMAPPED ('7-2-423', 'paṭighātatthāya')
+  UNMAPPED ('7-2-423', 'nevasaññānāsaññāyatanakiriyaṃ')
+  UNMAPPED ('7-2-423', 'Utu')
+  UNMAPPED ('7-U119', 'ekasadisāni')
+  STEM ^7-2-410 passati = မြင်သည်
+      PA: Abyākato dhammo abyākatassa dhammassa ārammaṇapaccayena paccayo – arahā phalaṃ paccavekkhati, nibbānaṃ paccavekkhati. Nibbānaṃ phalassa āvajjanāya ārammaṇapaccayena paccayo. Arahā cakkhuṃ aniccato dukkhato anattato vipassati. Sotaṃ… ghānaṃ… jivhaṃ… kāyaṃ… rūpe… sadde… gandhe… rase… phoṭṭhabbe… vatth
+      MY: ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရားသည် ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရားအား အာရုံဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – ရဟန္တာသည် ဖိုလ်ကို ပြန်လည် ဆင်ခြင်သည်၊ နိဗ္ဗာန်ကို ပြန်လည် ဆင်ခြင်သည်။ နိဗ္ဗာန်သည် ဖိုလ်အား စိတ်ညွတ်ခြင်းအား အာရုံဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်။ ရဟန္တာသည် မျက်စိကို မမြဲဟု၊ ဆင်းရဲဟု၊ အတ္တ မဟုတ်ဟု ထိုးထွင်း၍ ရှုသည်။ နား… နှာခေါင်း… လျှာ… ကိုယ်…
+  STEM ^7-2-423 pisuṇavācā = ကုန်းတိုက်သော စကား
+      PA: Kusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo. Ārammaṇūpanissayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katv
+      MY: ကုသိုလ် သဘောတရားသည် ကုသိုလ် သဘောတရားအား အားကြီးသော အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အာရုံဖြင့် အားကြီးသော အမှီ၊ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ၊ ပကတိ အားကြီးသော အမှီ။ အာရုံဖြင့် အားကြီးသော အမှီ – ပေးလှူခြင်းကို ပြု၍ သီလကို ဆောက်တည်၍ ဥပုသ်ကို စောင့်ထိန်း၍၊ ထိုအရာကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည် ဆင်ခြင်သည်၊ ရှေးက ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့ကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည်
+  STEM ^7-2-423 pharusavācā = ကြမ်းတမ်းသော စကား
+      PA: Kusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo. Ārammaṇūpanissayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katv
+      MY: ကုသိုလ် သဘောတရားသည် ကုသိုလ် သဘောတရားအား အားကြီးသော အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အာရုံဖြင့် အားကြီးသော အမှီ၊ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ၊ ပကတိ အားကြီးသော အမှီ။ အာရုံဖြင့် အားကြီးသော အမှီ – ပေးလှူခြင်းကို ပြု၍ သီလကို ဆောက်တည်၍ ဥပုသ်ကို စောင့်ထိန်း၍၊ ထိုအရာကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည် ဆင်ခြင်သည်၊ ရှေးက ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့ကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည်
+  STEM ^7-2-423 ādiyitvā = ယူ၍
+      PA: Kusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo. Ārammaṇūpanissayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katv
+      MY: ကုသိုလ် သဘောတရားသည် ကုသိုလ် သဘောတရားအား အားကြီးသော အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အာရုံဖြင့် အားကြီးသော အမှီ၊ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ၊ ပကတိ အားကြီးသော အမှီ။ အာရုံဖြင့် အားကြီးသော အမှီ – ပေးလှူခြင်းကို ပြု၍ သီလကို ဆောက်တည်၍ ဥပုသ်ကို စောင့်ထိန်း၍၊ ထိုအရာကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည် ဆင်ခြင်သည်၊ ရှေးက ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့ကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည်
+  STEM ^7-2-423 uppādetvā = ထွက်စေ၍
+      PA: Kusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo. Ārammaṇūpanissayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katv
+      MY: ကုသိုလ် သဘောတရားသည် ကုသိုလ် သဘောတရားအား အားကြီးသော အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အာရုံဖြင့် အားကြီးသော အမှီ၊ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ၊ ပကတိ အားကြီးသော အမှီ။ အာရုံဖြင့် အားကြီးသော အမှီ – ပေးလှူခြင်းကို ပြု၍ သီလကို ဆောက်တည်၍ ဥပုသ်ကို စောင့်ထိန်း၍၊ ထိုအရာကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည် ဆင်ခြင်သည်၊ ရှေးက ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့ကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည်
+  STEM ^7-2-423 bhinditvā = ဖြိုခွဲ၍
+      PA: Kusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo. Ārammaṇūpanissayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katv
+      MY: ကုသိုလ် သဘောတရားသည် ကုသိုလ် သဘောတရားအား အားကြီးသော အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အာရုံဖြင့် အားကြီးသော အမှီ၊ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ၊ ပကတိ အားကြီးသော အမှီ။ အာရုံဖြင့် အားကြီးသော အမှီ – ပေးလှူခြင်းကို ပြု၍ သီလကို ဆောက်တည်၍ ဥပုသ်ကို စောင့်ထိန်း၍၊ ထိုအရာကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည် ဆင်ခြင်သည်၊ ရှေးက ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့ကို လေးစားဖွယ်ရာ ပြု၍ ပြန်လည်
+1-03-vipakattika: lines 267 problems 0 unmapped 14 NDE 1
+  UNMAPPED ('7-1-1-1-6-40-22-0', 'vigatāvigatapaccayā')
+  UNMAPPED ('7-4-93', 'suciṇṇāni')
+  UNMAPPED ('7-4-93', 'nevasaññānāsaññāyatanakusalassa')
+  UNMAPPED ('7-4-94', 'viññāṇañcāyatanakiriyassa')
+  UNMAPPED ('7-4-96', 'suciṇṇāni')
+  UNMAPPED ('7-4-97', 'nevasaññānāsaññāyatanakiriyaṃ')
+  UNMAPPED ('7-4-102', 'kiriyasamāpattiṃ')
+  UNMAPPED ('7-4-103', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-4-103', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-4-103', 'ṭhānāṭhānakosallassa')
+  UNMAPPED ('7-4-103', 'niyatamicchādiṭṭhiyā')
+  UNMAPPED ('7-4-103', 'niyatamicchādiṭṭhiyā')
+  UNMAPPED ('7-4-103', 'kiriyasamāpattiṃ')
+  UNMAPPED ('7-U277', 'Asammohantena')
+  STEM ^7-4-85 vibhajitabbāni = ခွဲခြမ်းစိတ်ဖြာရမည့်
+      PA: Vipākaṃ dhammaṃ saṃsaṭṭho vipāko dhammo uppajjati nahetupaccayā – ahetukaṃ vipākaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe saṃsaṭṭhā dve khandhā. (Sabbāni padāni vibhajitabbāni.)
+      MY: ကံ၏ အကျိုး ဖြစ်သော သဘောတရားနှင့် ရောနှောသော ကံ၏ အကျိုး ဖြစ်သော သဘောတရားသည် အမြစ်ဟူသော အကြောင်းကြောင့် မဟုတ်ဘဲ ဖြစ်ပေါ်သည် – အမြစ် မရှိသော ကံ၏ အကျိုး ဖြစ်သော အစုအဝေး တစ်ပါးနှင့် ရောနှောသော အစုအဝေး သုံးပါး… အစုအဝေး နှစ်ပါးနှင့် ရောနှောသော အစုအဝေး နှစ်ပါး။ (ပုဒ် အားလုံးကို ခွဲခြမ်းစိတ်ဖြာရမည်။)
+  STEM ^7-4-94 passati = မြင်သည်
+      PA: Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa ārammaṇapaccayena paccayo – arahā nibbānaṃ paccavekkhati. Nibbānaṃ āvajjanāya ārammaṇapaccayena paccayo. Arahā cakkhuṃ aniccato dukkhato anattato vipassati. Sotaṃ… ghānaṃ… jivhaṃ… kāyaṃ… rūpe… sadde… gandhe… rase … phoṭṭhabbe… vatthuṃ…
+      MY: ကံ၏ အကျိုးလည်း မဟုတ်၊ အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရားသည် ကံ၏ အကျိုးလည်း မဟုတ်၊ အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရားအား အာရုံဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – ရဟန္တာသည် နိဗ္ဗာန်ကို ပြန်လည် ဆင်ခြင်သည်။ နိဗ္ဗာန်သည် စိတ်ညွတ်ခြင်းအား အာရုံဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်။ ရဟန္တာသည် မျက်စိကို မမြဲဟု၊ ဆင်းရဲဟု၊ အတ္တ မဟုတ်ဟု ထိုးထွင်း၍ ရှုသည်။ နား… နှာခေါင်း… လျှာ… ကိုယ်… အဆင်းအရောင်များ
+  STEM ^7-U277 sajjhāyamaggo = သရဇ္ဈာယ်သည့် နည်းလမ်း
+      PA: Hetu-sahajāta-nissaya-atthi-avigatanti naārammaṇe satta…pe… naaññamaññe tīṇi…pe… navipāke cattāri…pe… nasampayutte tīṇi, navippayutte tīṇi…pe… novigate satta. (Yathā kusalattike anulomapaccanīyagaṇanā vitthāritā evaṃ vitthāretabbaṃ. Asammohantena eso sajjhāyamaggo.) Anulomapaccanīyaṃ.
+      MY: အမြစ်၊ အတူ ပေါ်ပေါက်ခြင်း၊ အမှီ၊ ရှိခြင်း၊ မပျောက်ကွယ်ခြင်း ဟူသော ပေါင်းစပ်ချက်နှင့် အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း၌ ခုနစ်ခု… အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၌ သုံးခု… ကံ၏ အကျိုးဟူသော အကြောင်း မဟုတ်ခြင်း၌ လေးခု… ယှဉ်တွဲခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၌ သုံးခု၊ ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၌ သုံးခု… ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၌ ခုနစ်ခု။ (ကုသိုလ် သုံးမျိုးတွဲ၌ အဟ
+1-04-upadinnattika: lines 209 problems 0 unmapped 15 NDE 3
+  UNMAPPED ('7-1-1-1-7-29-22-0', 'vigatāvigatapaccayā')
+  UNMAPPED ('7-5-53', 'suciṇṇāni')
+  UNMAPPED ('7-5-53', 'viññāṇañcāyatanavipākassa')
+  UNMAPPED ('7-5-53', 'viññāṇañcāyatanavipākassa')
+  UNMAPPED ('7-5-53', 'viññāṇañcāyatanavipākassa')
+  UNMAPPED ('7-5-55', 'suciṇṇāni')
+  UNMAPPED ('7-5-61', 'utu')
+  UNMAPPED ('7-5-63', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-5-63', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-5-63', 'dhammappaṭisambhidāya')
+  UNMAPPED ('7-5-63', 'niruttippaṭisambhidāya')
+  UNMAPPED ('7-5-63', 'paṭibhānappaṭisambhidāya')
+  UNMAPPED ('7-5-63', 'ṭhānāṭhānakosallassa')
+  UNMAPPED ('7-U284', 'sukhumatarā')
+  UNMAPPED ('7-U284', 'asammohantena')
+  STEM ^7-5-52 passati = မြင်သည်
+      PA: Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa ārammaṇapaccayena paccayo – sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati; kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Sotaṃ… ghānaṃ… j
+      MY: ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားသည် ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားအား အာရုံဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – ကျင့်ကြံဆဲသူတို့ဖြစ်စေ၊ ပုထုဇဉ်တို့ဖြစ်စေ မျက်စိကို မမြဲဟု၊ ဆင်းရဲဟု၊ အတ္တ မဟုတ်ဟု ထိုးထွင်း၍ ရှုကြသည်၊ သာယာ နှစ်သက်ကြသည်၊ ထိုအရာကို အာရုံပြု၍ ရာဂ ဖြစ်ပေါ်သည်… စိတ်ဆင်းရဲမှု ဖြစ်ပေါ်သည်၊ ကုသိုလ်နှင့် အကုသိုလ် ချုပ်ငြိမ်းသွားသောအခါ
+  STEM ^7-5-65 passati = မြင်သည်
+      PA: Anupādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa purejātapaccayena paccayo. Ārammaṇapurejātaṃ – anupādinnupādāniye rūpe… sadde… gandhe… rase… phoṭṭhabbe aniccato dukkhato anattato vipassati, assādeti abhinandati; taṃ ārabbha rāgo uppajjati …pe… domanassaṃ uppajjati. Dibbena cakkhunā anupādi
+      MY: ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော သဘောတရားသည် ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော သဘောတရားအား ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်။ အာရုံ ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း – ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော အဆင်းအရောင်များ… အသံများ… အနံ့များ… အရသာများ… အထိအတွေ့တို့ကို မမြဲဟု၊ ဆင်းရဲဟု၊ အတ္တ မဟုတ်ဟု ထိုးထွင်း၍ ရှုသည်၊ သာယာ န
+  STEM ^7-5-82 passati = မြင်သည်
+      PA: Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. Sahajāto – upādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā dvinnaṃ khandhānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe upādinnu
+      MY: ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားသည် ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားအား ရှိခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည် – အတူ ပေါ်ပေါက်ခြင်း၊ ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း၊ နောက်မှ ဖြစ်ပေါ်ခြင်း၊ အာဟာရ၊ စွမ်းရည်။ အတူ ပေါ်ပေါက်ခြင်း – ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော အစုအဝေး တစ်ပါးသည် အစုအဝေး သုံးပါးတို့အား ရှိခြင်းဟူသော အကြောင်းဖြင့် အ
+1-05-sankilitthattika: lines 85 problems 0 unmapped 9 NDE 2
+  UNMAPPED ('7-1-1-1-8-10-16-0', 'vigatāvigatapaccayā')
+  UNMAPPED ('7-6-10', 'suciṇṇāni')
+  UNMAPPED ('7-6-12', 'suciṇṇāni')
+  UNMAPPED ('7-6-14', 'paṭighātatthāya')
+  UNMAPPED ('7-6-16', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-6-16', 'atthappaṭisambhidāya')
+  UNMAPPED ('7-6-16', 'ṭhānāṭhānakosallassa')
+  UNMAPPED ('7-U289', 'bhāgo')
+  UNMAPPED ('7-U289', 'bhāgo')
+  STEM ^7-6-14 bhinditvā = ဖြိုခွဲ၍
+      PA: Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa samanantarapaccayena paccayo…pe… sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – rāgaṃ upanis
+      MY: ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားသည် ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော သဘောတရားအား ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်… အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်… အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်… အမှီဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်… အားကြီးသော အမှီဟူသော အကြောင်းဖြင့
+sources [('cond', 11964), ('stock', 3241), ('term', 2438), ('pi-2', 1893), ('terms', 1720), ('frame', 544), ('order', 518), ('count', 487), ('verb', 293), ('pi-5', 262), ('samutthana', 214), ('lex', 201), ('vara', 180), ('headlex', 168), ('base', 91), ('pi-6', 80), ('?', 71), ('pi-4', 46), ('stem', 13), ('pi-3', 8)]
+abhijjhāya	သူ့ဥစ္စာကို လိုချင်ခြင်း	1	pi-2
+abhinandanti	နှစ်သက်သည်	12	lex
+abhinandati	နှစ်သက်သည်	27	pi-5
+abhiññaṃ	ထူးကဲစွာ သိခြင်း	15	terms
+abyākatassa	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	41	term
+abyākatañca	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	5	pi-6
+Abyākataṃ	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	58	pi-2
+abyākataṃ	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	6	pi-2
+abyākato	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	91	pi-2
+Abyākato	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	25	pi-2
+Abyākatā	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	1	pi-2
+adhipati	အကြီးအမှူး	20	cond
+Adhipati	အကြီးအမှူး	12	cond
+adhipati	အကြီးအမှူးဟူသော အကြောင်း	1	cond
+Adhipatimissakaghaṭanā	အကြီးအမှူးဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	4	headlex
+adhipatipaccayena	အကြီးအမှူးဟူသော အကြောင်း	26	cond
+Adhipatipaccayo	အကြီးအမှူးဟူသော အကြောင်း	30	cond
+adhipatipaccayā	အကြီးအမှူးဟူသော အကြောင်းကြောင့်	48	cond
+Adhipatipaccayā	အကြီးအမှူးဟူသော အကြောင်းကြောင့်	8	cond
+adhipatiyā	အကြီးအမှူးဟူသော အကြောင်း	99	cond
+adinnaṃ	မပေးသည်	1	lex
+adinnādānassa	မပေးသည်ကို ယူခြင်း	1	term
+Adinnādānaṃ	မပေးသည်ကို ယူခြင်း	1	term
+ahetukapaṭisandhikkhaṇe	အမြစ် မရှိသော ပဋိသန္ဓေ နေသော ခဏ	29	stock
+ahetukaṃ	အမြစ် မရှိသော	22	terms
+ahetuke	အမြစ် မရှိသော	2	term
+akusalacittasamaṅgissa	အကုသိုလ် စိတ်နှင့် ပြည့်စုံသူ	2	term
+akusalassa	အကုသိုလ်	16	pi-2
+Akusalañca	အကုသိုလ်	5	pi-6
+Akusalaṃ	အကုသိုလ်	93	pi-2
+akusalaṃ	အကုသိုလ်	6	pi-2
+akusale	အကုသိုလ်	3	pi-4
+akusalo	အကုသိုလ်	13	pi-2
+Akusalo	အကုသိုလ်	46	pi-2
+akusalādhipati	အကုသိုလ် အကြီးအမှူး	1	term
+Anantara	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	2	cond
+anantara	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	10	cond
+Anantara	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	5	cond
+anantarapaccayaṃ	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	6	cond
+anantarapaccayena	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	12	cond
+Anantarapaccayo	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	15	cond
+Anantarapaccayā	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	3	cond
+anantarapaccayā	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	26	cond
+Anantarapaccayā	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	9	cond
+anantare	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	113	cond
+anantarūpanissayo	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဖြင့် အားကြီးသော အမှီ	10	terms
+anattato	အတ္တ မဟုတ်	27	lex
+aniccato	မမြဲ	84	pi-5
+anulomagaṇanā	အဟုတ်ပြ ပုံစံ၏ ရေတွက်ချက်	1	order
+Anulomapaccanīyaṃ	အဟုတ်ပြ အငြင်းပြ ပုံစံ	30	order
+anulomapaccanīyaṃ	အဟုတ်ပြ အငြင်းပြ ပုံစံ	9	order
+Anulomaṃ	အဟုတ်ပြ ပုံစံ	34	order
+anulomaṃ	အဟုတ်ပြ ပုံစံ	12	order
+anulome	အဟုတ်ပြ ပုံစံ	6	order
+anuppannaṃ	မဖြစ်ပေါ်သေးသော	5	term
+anupādinnaanupādāniyassa	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	21	term
+Anupādinnaanupādāniyaṃ	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	21	term
+anupādinnaanupādāniye	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	4	term
+anupādinnaanupādāniyo	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	36	term
+Anupādinnaanupādāniyo	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	36	term
+anupādinnaanupādāniyā	ကံကြောင့်လည်း မဖြစ် စွဲလမ်းမှု၏ အာရုံလည်း မဖြစ်နိုင်သော	23	term
+anupādinnupādāniyassa	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	66	term
+Anupādinnupādāniyañca	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	6	term
+anupādinnupādāniyañca	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	4	term
+Anupādinnupādāniyaṃ	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	21	term
+anupādinnupādāniyaṃ	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	7	term
+anupādinnupādāniyo	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	80	term
+Anupādinnupādāniyo	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	48	term
+anupādinnupādāniyā	ကံကြောင့် မဖြစ်သော်လည်း စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော	19	term
+anāgataṃsañāṇassa	အနာဂတ်ကို သိသော ဉာဏ်	28	terms
+Anāgataṃsañāṇassa	အနာဂတ်ကို သိသော ဉာဏ်	2	terms
+arahantaghātikammassa	ရဟန္တာကို သတ်ခြင်း ကံ	1	term
+arahantaṃ	ရဟန္တာ	1	pi-5
+arahato	ရဟန္တာ	3	frame
+arahā	ရဟန္တာ	18	pi-4
+ariyā	အရိယာ	10	terms
+arūpe	ရုပ်မရှိသော ဘုံ	24	stock
+Asammohantena	?	1	?
+asammohantena	?	1	?
+asaññasattānaṃ	အသညသတ်	56	pi-2
+Asaññasattānaṃ	အသညသတ်	3	pi-2
+asaṃkiliṭṭhaasaṃkilesikassa	ကိလေသာဖြင့်လည်း မညစ်နွမ်း ကိလေသာ၏ အာရုံလည်း မဖြစ်နိုင်သော	22	term
+Asaṃkiliṭṭhaasaṃkilesikaṃ	ကိလေသာဖြင့်လည်း မညစ်နွမ်း ကိလေသာ၏ အာရုံလည်း မဖြစ်နိုင်သော	3	term
+Asaṃkiliṭṭhaasaṃkilesiko	ကိလေသာဖြင့်လည်း မညစ်နွမ်း ကိလေသာ၏ အာရုံလည်း မဖြစ်နိုင်သော	28	pi-2
+asaṃkiliṭṭhaasaṃkilesiko	ကိလေသာဖြင့်လည်း မညစ်နွမ်း ကိလေသာ၏ အာရုံလည်း မဖြစ်နိုင်သော	3	pi-2
+asaṃkiliṭṭhasaṃkilesikassa	ကိလေသာဖြင့် မညစ်နွမ်းသော်လည်း ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော	60	term
+Asaṃkiliṭṭhasaṃkilesikaṃ	ကိလေသာဖြင့် မညစ်နွမ်းသော်လည်း ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော	5	term
+asaṃkiliṭṭhasaṃkilesiko	ကိလေသာဖြင့် မညစ်နွမ်းသော်လည်း ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော	10	pi-2
+Asaṃkiliṭṭhasaṃkilesiko	ကိလေသာဖြင့် မညစ်နွမ်းသော်လည်း ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော	55	pi-2
+asaṃkiliṭṭhasaṃkilesikādhipati	ကိလေသာဖြင့် မညစ်နွမ်းသော်လည်း ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော အကြီးအမှူး	1	term
+assādenti	သာယာ	13	lex
+assādeti	သာယာ	42	lex
+assādeti	သာယာသည်	8	pi-5
+atthappaṭisambhidāya	?	8	?
+atthi	ရှိခြင်း	106	cond
+Atthi	ရှိခြင်း	6	cond
+Atthimissakaghaṭanā	ရှိခြင်းဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	6	headlex
+atthipaccayaṃ	ရှိခြင်းဟူသော အကြောင်း	3	cond
+atthipaccayena	ရှိခြင်းဟူသော အကြောင်း	26	cond
+Atthipaccayo	ရှိခြင်းဟူသော အကြောင်း	15	cond
+atthipaccayo	ရှိခြင်းဟူသော အကြောင်း	3	cond
+atthipaccayā	ရှိခြင်းဟူသော အကြောင်းကြောင့်	22	cond
+Atthipaccayā	ရှိခြင်းဟူသော အကြောင်းကြောင့်	7	cond
+atthiyā	ရှိခြင်းဟူသော အကြောင်း	205	cond
+attānaṃ	မိမိကိုယ်	3	terms
+avasesesu	ကြွင်းသော	1	term
+Avasesāni	ကြွင်းသော	1	term
+Avigata	မပျောက်ကွယ်ခြင်း	3	cond
+Avigatamissakaghaṭanā	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	2	headlex
+avigatanti	မပျောက်ကွယ်ခြင်း	159	cond
+avigatapaccayena	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	12	cond
+Avigatapaccayo	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	8	cond
+avigatapaccayā	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	4	cond
+avigatapaccayā	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	20	cond
+Avigatapaccayā	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	4	cond
+avigataṃ	မပျောက်ကွယ်ခြင်း	1	cond
+avigate	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	246	cond
+Avigate	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	1	cond
+aññamañña	အချင်းချင်း ထောက်ပံ့ခြင်း	75	cond
+Aññamañña	အချင်းချင်း ထောက်ပံ့ခြင်း	2	cond
+Aññamaññadukaṃ	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	3	cond
+Aññamaññaghaṭanā	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+aññamaññapaccayena	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း	10	cond
+Aññamaññapaccayo	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း	24	cond
+aññamaññapaccayā	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်းကြောင့်	30	cond
+Aññamaññapaccayā	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်းကြောင့်	8	cond
+aññamaññe	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း	152	cond
+Aṭṭhakaṃ	ရှစ်မျိုးတွဲ	13	count
+Aṭṭhārasakaṃ	ဆယ့်ရှစ်မျိုးတွဲ	2	count
+bandhitabbaṃ	?	1	?
+Bhavaṅgaṃ	ဘဝင် စိတ်	4	terms
+bhavaṅgaṃ	ဘဝင် စိတ်	1	terms
+bhaṇati	ပြောသည်	1	lex
+bhaṇitvā	ပြော၍	1	pi-5
+bhindati	ဖြိုခွဲသည်	8	pi-2
+bhinditvā	ဖြိုခွဲ၍	2	stem
+Bhojanaṃ	အစားအစာ	1	term
+bhojanaṃ	အစားအစာ	4	term
+bhāgo	?	2	?
+byāpādassa	ဖျက်ဆီးလိုစိတ်	2	term
+bāhiraṃ	ပြင်ပ	45	pi-2
+Bāhiraṃ	ပြင်ပ	9	pi-2
+bāhire	ပြင်ပ	3	term
+Bāvīsakaṃ	နှစ်ဆယ့်နှစ်မျိုးတွဲ	10	count
+Cakkaṃ	စက်	1	term
+Cakkhundriyaṃ	မျက်စိ၏ စွမ်းရည်	2	terms
+cakkhundriyaṃ	မျက်စိ၏ စွမ်းရည်	2	terms
+cakkhunā	မျက်စိ	48	pi-2
+cakkhussa	မျက်စိ	1	term
+cakkhuviññāṇasahagataṃ	မျက်စိ သိစိတ်နှင့်အတူ ဖြစ်သော	2	term
+cakkhuviññāṇasahagatānaṃ	မျက်စိ သိစိတ်နှင့်အတူ ဖြစ်သော	1	term
+cakkhuviññāṇassa	မျက်စိ သိစိတ်	67	pi-2
+cakkhuviññāṇaṃ	မျက်စိ သိစိတ်	36	pi-2
+cakkhuṃ	မျက်စိ	11	pi-2
+Cakkhuṃ	မျက်စိ	1	pi-2
+cakkhāyatanañca	မျက်စိ အာရုံခံ နယ်ပယ်	6	pi-6
+cakkhāyatanaṃ	မျက်စိ အာရုံခံ နယ်ပယ်	32	terms
+Cakkhāyatanaṃ	မျက်စိ အာရုံခံ နယ်ပယ်	4	terms
+Catukkaṃ	လေးမျိုးတွဲ	66	count
+Catutthassa	စတုတ္ထ	2	term
+catutthassa	စတုတ္ထ	5	term
+Catuvīsakaṃ	နှစ်ဆယ့်လေးမျိုးတွဲ	2	count
+cetanā	စေ့ဆော်မှု	11	stock
+Cetopariyañāṇassa	စိတ်ကို ပိုင်းခြား၍ သိသော ဉာဏ်	3	terms
+cetopariyañāṇena	စိတ်ကို ပိုင်းခြား၍ သိသော ဉာဏ်	42	terms
+Chakkaṃ	ခြောက်မျိုးတွဲ	4	count
+chindati	ဖောက်ထွင်းသည်	1	lex
+cittasamuṭṭhānañca	စိတ်မှ ဖြစ်ပေါ်လာသော	49	samutthana
+cittasamuṭṭhānaṃ	စိတ်မှ ဖြစ်ပေါ်လာသော	76	stock
+cittasamuṭṭhānānañca	စိတ်မှ ဖြစ်ပေါ်လာသော	2	base:stock
+cittaṃ	စိတ်	14	terms
+cittena	စိတ်	1	terms
+Cittādhipatighaṭanā	စိတ် အကြီးအမှူး၏ ပေါင်းစပ်ချက်	4	headlex
+cuddasa	ဆယ့်လေးခု	4	count
+Cuddasakaṃ	ဆယ့်လေးမျိုးတွဲ	5	count
+cāgassa	စွန့်လွှတ်ခြင်း	1	terms
+cāgaṃ	စွန့်လွှတ်ခြင်း	4	terms
+Dasakaṃ	ဆယ်မျိုးတွဲ	13	count
+datvā	ပြု၍	11	lex
+deti	ပြုသည်	8	stock
+dhammappaṭisambhidāya	?	2	?
+dhammassa	သဘောတရား	7	stock
+dhammaṃ	သဘောတရား	265	stock
+dhammo	သဘောတရား	130	stock
+dhammā	သဘောတရား	10	stock
+Dibbacakkhu	နတ်မျက်စိ	1	pi-5
+Dibbasotadhātu	?	1	?
+Dibbassa	နတ်	2	term
+dibbena	နတ်	22	pi-2
+Dibbena	နတ်	12	pi-2
+diṭṭhi	အယူ	98	terms
+diṭṭhiyā	အယူ	3	terms
+diṭṭhiṃ	အယူ	8	terms
+domanassaṃ	စိတ်ဆင်းရဲမှု	44	terms
+dosassa	ဒေါသ	2	terms
+dosaṃ	ဒေါသ	3	terms
+dukkhassa	နာကျင်မှု	2	pi-2
+dukkhato	ဆင်းရဲ	10	pi-5
+dukkhaṃ	နာကျင်မှု	3	pi-2
+Dutiyassa	ဒုတိယ	1	term
+dutiyassa	ဒုတိယ	1	term
+dvādasa	ဆယ့်နှစ်ခု	10	count
+Dvādasakaṃ	ဆယ့်နှစ်မျိုးတွဲ	13	count
+dānaṃ	ပေးလှူခြင်း	18	pi-2
+ekasadisāni	?	1	?
+Ekavīsakaṃ	နှစ်ဆယ့်တစ်မျိုးတွဲ	7	count
+ekā	တစ်ခု	1	count
+Ekā	တစ်ခု	1	count
+ekādasa	ဆယ့်တစ်ခု	37	count
+Ekādasakaṃ	ဆယ့်တစ်မျိုးတွဲ	15	count
+ekāgārikaṃ	အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်	1	stock
+gambhīrā	နက်	1	term
+gandhe	အနံ့	17	pi-2
+gandhāyatanaṃ	အနံ့ အာရုံခံ နယ်ပယ်	32	terms
+garuṃ	လေးစားဖွယ်ရာ	29	frame
+Gaṇanā	ရေတွက်ချက်	2	frame
+gaṇetabbaṃ	ရေတွက်ရမည့်	20	frame
+gaṇetabbā	ရေတွက်ရမည်	7	term
+gaṇetabbāti	ရေတွက်ရမည်	1	base:term
+gaṇhāti	စွဲယူသည်	10	lex
+gaṇite	?	1	?
+gaṇitā	ရေတွက်ထားသော	1	frame
+ghāna	နှာခေါင်း	2	pi-2
+ghānaviññāṇassa	နှာခေါင်း သိစိတ်	3	pi-2
+ghānaṃ	နှာခေါင်း	14	pi-2
+ghānāyatanaṃ	နှာခေါင်း အာရုံခံ နယ်ပယ်	2	terms
+Ghānāyatanaṃ	နှာခေါင်း အာရုံခံ နယ်ပယ်	1	terms
+gotrabhu	အနွယ် ပြောင်းခြင်း စိတ်	10	terms
+gotrabhussa	အနွယ် ပြောင်းခြင်း စိတ်	18	terms
+gotrabhuṃ	အနွယ် ပြောင်းခြင်း စိတ်	9	term
+gāmaghātaṃ	ရွာကို ဖျက်ဆီး၍ လုယက်သည်	1	lex
+hanati	သတ်သည်	6	pi-5
+hantvā	သတ်၍	2	pi-5
+harati	လုယူသည်	1	lex
+Hetudukaṃ	အမြစ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	18	cond
+hetupaccayaṃ	အမြစ်ဟူသော အကြောင်း	6	cond
+hetupaccayena	အမြစ်ဟူသော အကြောင်း	22	cond
+hetupaccayo	အမြစ်ဟူသော အကြောင်း	4	cond
+Hetupaccayo	အမြစ်ဟူသော အကြောင်း	64	cond
+hetupaccayā	အမြစ်ဟူသော အကြောင်း	3	cond
+hetupaccayā	အမြစ်ဟူသော အကြောင်းကြောင့်	235	cond
+Hetupaccayā	အမြစ်ဟူသော အကြောင်းကြောင့်	74	cond
+Hetusāmaññaghaṭanā	အမြစ်ဟူသော အကြောင်း၏ သာမန် ပေါင်းစပ်ချက်	6	headlex
+Hetuyā	အမြစ်ဟူသော အကြောင်း	18	cond
+hetuyā	အမြစ်ဟူသော အကြောင်း	86	cond
+Hetādhipati	အမြစ် အကြီးအမှူး	2	term
+hetādhipati	အမြစ် အကြီးအမှူး	4	term
+iddhividhañāṇassa	တန်ခိုး အမျိုးမျိုးကို ပြနိုင်သော ဉာဏ်	38	terms
+Iddhividhañāṇassa	တန်ခိုး အမျိုးမျိုးကို ပြနိုင်သော ဉာဏ်	2	terms
+imassa	ဤ	63	stock
+indriya	စွမ်းရည်	44	cond
+Indriya	စွမ်းရည်	20	cond
+indriya	စွမ်းရည်ဟူသော အကြောင်း	2	cond
+Indriyadukaṃ	စွမ်းရည်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	4	cond
+Indriyamissakaghaṭanā	စွမ်းရည်ဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	4	headlex
+indriyapaccayena	စွမ်းရည်ဟူသော အကြောင်း	22	cond
+Indriyapaccayo	စွမ်းရည်ဟူသော အကြောင်း	18	cond
+indriyapaccayā	စွမ်းရည်ဟူသော အကြောင်းကြောင့်	23	cond
+Indriyapaccayā	စွမ်းရည်ဟူသော အကြောင်းကြောင့်	8	cond
+indriyaṃ	စွမ်းရည်	12	cond
+indriye	စွမ်းရည်ဟူသော အကြောင်း	184	cond
+indriyā	စွမ်းရည်	4	pi-2
+Indriyādhipati	စွမ်းရည် အကြီးအမှူး	2	term
+jappeti	ဖြစ်ပေါ်စေသည်	4	pi-2
+Jhāna	ဈာန်ဟူသော အကြောင်း	2	cond
+Jhānadukaṃ	ဈာန်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	4	cond
+jhānapaccayena	ဈာန်ဟူသော အကြောင်း	10	cond
+Jhānapaccayo	ဈာန်ဟူသော အကြောင်း	6	cond
+jhānapaccayā	ဈာန်ဟူသော အကြောင်းကြောင့်	10	cond
+jhānassa	ဈာန်	2	pi-2
+jhānaṃ	ဈာန်	3	cond
+jhānaṅgā	ဈာန်၏ အင်္ဂါ	1	term
+jhānaṅgāni	ဈာန်၏ အင်္ဂါ	3	stock
+jhāne	ဈာန်ဟူသော အကြောင်း	7	cond
+jhānā	ဈာန်	9	terms
+Jhānā	ဈာန်	1	terms
+jivhaṃ	လျှာ	14	pi-5
+jivhā	လျှာ	2	pi-2
+jivhāviññāṇassa	လျှာ သိစိတ်	6	pi-2
+jivhāviññāṇaṃ	လျှာ သိစိတ်	2	pi-2
+jānanti	သိသည်	10	terms
+jānāti	သိသည်	7	terms
+Kabaḷīkāro	လုတ်ပြု၍ စားရသော	9	stock
+kabaḷīkāro	လုတ်ပြု၍ စားရသော	36	stock
+kamma	ကံ	10	cond
+Kamma	ကံ	4	cond
+Kamma	ကံဟူသော အကြောင်း	2	cond
+kammapaccayena	ကံဟူသော အကြောင်း	27	cond
+Kammapaccayo	ကံဟူသော အကြောင်း	27	cond
+kammapaccayā	ကံဟူသော အကြောင်း	3	cond
+kammapaccayā	ကံဟူသော အကြောင်းကြောင့်	39	cond
+Kammapaccayā	ကံဟူသော အကြောင်းကြောင့်	9	cond
+Kammapakiṇṇakaghaṭanā	ကံဟူသော အကြောင်း၏ အထွေထွေ ပေါင်းစပ်ချက်	4	headlex
+kammaṃ	ကံ	5	stock
+kamme	ကံဟူသော အကြောင်း	173	cond
+karoti	(no direct equivalent)	4	frame
+katvā	(no direct equivalent)	5	frame
+katvā	ပြု၍	10	frame
+kaṭattā	ကံ ပြုခဲ့သောကြောင့်	19	stock
+kaṭattārūpaṃ	ကံ ပြုခဲ့သောကြောင့် ဖြစ်သော ရုပ်	102	stock
+Kaṭattārūpaṃ	ကံ ပြုခဲ့သောကြောင့် ဖြစ်သော ရုပ်	2	stock
+kaṭattārūpānaṃ	ကံ ပြုခဲ့သောကြောင့် ဖြစ်သော ရုပ်	39	stock
+khandhañca	အစုအဝေး	14	base:stock
+khandhaṃ	အစုအဝေး	118	stock
+khandhe	အစုအဝေး	46	stock
+khandho	အစုအဝေး	26	stock
+khandhā	အစုအဝေး	49	stock
+khandhānaṃ	အစုအဝေး	43	stock
+kilese	ကိလေသာ	5	terms
+kiriyasamāpattiṃ	?	3	?
+kiriyassa	ပြုရုံမျှသာ ဖြစ်သော	1	term
+kiriyaṃ	ပြုရုံမျှသာ ဖြစ်သော	1	stock
+kiriyābyākataṃ	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	398	term
+kiriyābyākate	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	56	term
+Kiriyābyākate	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	11	term
+kiriyābyākatā	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	82	terms
+kiriyābyākatānaṃ	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	32	terms
+kiriyābyākatāni	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	4	term
+kusalacittasamaṅgissa	ကုသိုလ် စိတ်နှင့် ပြည့်စုံသူ	2	term
+kusalassa	ကုသိုလ်	12	pi-2
+kusalattikassa	ကုသိုလ် သုံးမျိုးတွဲ	12	terms
+Kusalattikaṃ	ကုသိုလ် သုံးမျိုးတွဲ	8	headlex
+kusalattike	ကုသိုလ် သုံးမျိုးတွဲ	127	terms
+Kusalañca	ကုသိုလ်	47	pi-6
+Kusalaṃ	ကုသိုလ်	141	pi-2
+kusalaṃ	ကုသိုလ်	3	pi-2
+kusale	ကုသိုလ်	2	term
+kusale	ကုသိုလ် သဘောတရား	2	pi-2
+kusalo	ကုသိုလ်	13	pi-2
+Kusalo	ကုသိုလ်	56	pi-2
+kusalā	ကုသိုလ်	4	pi-2
+kusalādhipati	ကုသိုလ် အကြီးအမှူး	2	term
+Kusalākusalaṃ	ကုသိုလ်နှင့် အကုသိုလ်	4	stock
+kusalākusale	ကုသိုလ်နှင့် အကုသိုလ်	5	terms
+Kusalākusale	ကုသိုလ်နှင့် အကုသိုလ်	6	terms
+kāmesumicchācārassa	ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်း	1	term
+kātabbaṃ	ပြုရမည့်	2	frame
+kātabbā	ထည့်ရမည့်	2	frame
+kāya	ကိုယ်	2	pi-2
+kāyassa	ကိုယ်	27	stock
+kāyaviññāṇasahagatānaṃ	ကိုယ် သိစိတ်နှင့်အတူ ဖြစ်သော	1	term
+kāyaviññāṇassa	ကိုယ် သိစိတ်	35	pi-2
+kāyaviññāṇaṃ	ကိုယ် သိစိတ်	32	terms
+kāyaṃ	ကိုယ်	15	pi-2
+kāyikassa	ကိုယ်ပိုင်းဆိုင်ရာ	31	term
+kāyikaṃ	ကိုယ်ပိုင်းဆိုင်ရာ	15	pi-2
+kāyindriyaṃ	ကိုယ်၏ စွမ်းရည်	8	terms
+kāyāyatanaṃ	ကိုယ် အာရုံခံ နယ်ပယ်	31	terms
+Kāyāyatanaṃ	ကိုယ် အာရုံခံ နယ်ပယ်	1	terms
+magga	မဂ်	22	cond
+Magga	မဂ်	13	cond
+Maggadukaṃ	မဂ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	4	cond
+maggapaccayena	မဂ်ဟူသော အကြောင်း	8	cond
+Maggapaccayo	မဂ်ဟူသော အကြောင်း	6	cond
+maggapaccayā	မဂ်ဟူသော အကြောင်းကြောင့်	10	cond
+maggassa	မဂ်	19	terms
+maggaṃ	မဂ်	2	stock
+maggaṅgā	မဂ်၏ အင်္ဂါ	1	pi-2
+maggaṅgāni	မဂ်၏ အင်္ဂါ	2	stock
+magge	မဂ်ဟူသော အကြောင်း	116	cond
+maggo	မဂ်	2	terms
+maggā	မဂ်	7	terms
+mahābhūtaṃ	မူလဓာတ်ကြီး	314	stock
+mahābhūte	မူလဓာတ်ကြီး	51	stock
+mahābhūtā	မူလဓာတ်ကြီး	12	stock
+mohassa	မောဟ	2	terms
+mohaṃ	မောဟ	2	terms
+moho	မောဟ	13	terms
+musā	မုသား	1	pi-2
+musāvādassa	မုသား ပြောခြင်း	1	term
+mānassa	မာန	1	terms
+mānaṃ	မာန	4	terms
+mātaraṃ	အမိ	1	pi-2
+Mātughātikammaṃ	အမိကို သတ်ခြင်း ကံ	3	term
+mātughātikammaṃ	အမိကို သတ်ခြင်း ကံ	3	term
+mūlakaṃ	အခြေခံ အကြောင်း	19	frame
+Naadhipatidukaṃ	အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ	7	cond
+Naadhipatipaccayo	အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း	15	cond
+naadhipatipaccayā	အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်	50	cond
+Naadhipatipaccayā	အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်	12	cond
+naadhipatiyā	အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း	254	cond
+Naanantara	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	4	cond
+Naanantarapaccayādi	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း စသည်	3	cond
+naanantare	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	170	cond
+naaññamañña	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+Naaññamaññamūlakaṃ	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်းကို အခြေခံခြင်း	2	cond
+naaññamaññamūlakaṃ	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်းကို အခြေခံခြင်း	1	cond
+naaññamaññapaccayā	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+naaññamaññe	အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	183	cond
+Nahetudukaṃ	အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ	20	cond
+nahetupaccayo	အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း	1	cond
+Nahetupaccayo	အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း	11	cond
+Nahetupaccayā	အမြစ်ဟူသော အကြောင်းကြောင့် မဟုတ်	171	cond
+nahetupaccayā	အမြစ်ဟူသော အကြောင်းကြောင့် မဟုတ်	217	cond
+Nahetuyā	အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း	16	cond
+nahetuyā	အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း	160	cond
+naindriye	စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း	154	cond
+Najhānadukaṃ	ဈာန်ဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ	5	cond
+Najhānapaccayo	ဈာန်ဟူသော အကြောင်း မဟုတ်ခြင်း	8	cond
+najhānapaccayā	ဈာန်ဟူသော အကြောင်းကြောင့် မဟုတ်	12	cond
+Najhānapaccayā	ဈာန်ဟူသော အကြောင်းကြောင့် မဟုတ်	2	cond
+najhāne	ဈာန်ဟူသော အကြောင်း မဟုတ်ခြင်း	12	cond
+Nakammapaccayo	ကံဟူသော အကြောင်း မဟုတ်ခြင်း	24	cond
+nakammapaccayā	ကံဟူသော အကြောင်းကြောင့် မဟုတ်	16	cond
+Nakammapaccayā	ကံဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+nakamme	ကံဟူသော အကြောင်း မဟုတ်ခြင်း	279	cond
+Namaggadukaṃ	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ	4	cond
+Namaggapaccayo	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း	8	cond
+namaggapaccayā	မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်	10	cond
+Namaggapaccayā	မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+namaggaṃ	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း	1	cond
+namagge	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း	225	cond
+Namagge	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း	1	cond
+Nanissayamūlakaṃ	အမှီဟူသော အကြောင်း မဟုတ်ခြင်းကို အခြေခံခြင်း	2	cond
+Nanissayapaccayā	အမှီဟူသော အကြောင်းကြောင့် မဟုတ်	3	cond
+nanissayapaccayā	အမှီဟူသော အကြောင်းကြောင့် မဟုတ်	22	cond
+nanissaye	အမှီဟူသော အကြောင်း မဟုတ်ခြင်း	126	cond
+Napacchājāta	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	10	cond
+napacchājāte	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	310	cond
+Napurejātapaccayo	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	4	cond
+napurejātapaccayā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	18	cond
+Napurejātapaccayā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+napurejāte	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	256	cond
+Nasahajātapaccayā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	3	cond
+nasahajātapaccayā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	30	cond
+nasahajāte	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	6	cond
+nasamanantare	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	160	cond
+Nasampayuttapaccayo	ယှဉ်တွဲခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	6	cond
+nasampayuttapaccayā	ယှဉ်တွဲခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	8	cond
+Nasampayuttapaccayā	ယှဉ်တွဲခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+nasampayutte	ယှဉ်တွဲခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	235	cond
+natthi	မရှိခြင်း	10	frame
+Natthi	မရှိခြင်း	1	frame
+Natthi	မရှိသည်	7	frame
+natthi	မရှိသည်	2	frame
+Natthighaṭanā	မရှိခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	1	cond
+natthipaccayena	မရှိခြင်းဟူသော အကြောင်း	9	cond
+Natthipaccayo	မရှိခြင်းဟူသော အကြောင်း	3	cond
+Natthipaccayā	မရှိခြင်းဟူသော အကြောင်း	3	cond
+natthipaccayā	မရှိခြင်းဟူသော အကြောင်းကြောင့်	21	cond
+Natthipaccayā	မရှိခြင်းဟူသော အကြောင်းကြောင့်	4	cond
+natthiyā	မရှိခြင်းဟူသော အကြောင်း	115	cond
+naupanissaye	အားကြီးသော အမှီဟူသော အကြောင်း မဟုတ်ခြင်း	232	cond
+Navakaṃ	ကိုးမျိုးတွဲ	14	count
+Navippayuttadukaṃ	ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ	8	cond
+Navippayuttapaccayo	ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	8	cond
+navippayuttapaccayā	ကင်းကွာခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	12	cond
+Navippayuttapaccayā	ကင်းကွာခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	2	cond
+navippayuttaṃ	ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	2	cond
+navippayutte	ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	323	cond
+Navippayutte	ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	1	cond
+Navipākapaccayo	ကံ၏ အကျိုးဟူသော အကြောင်း မဟုတ်ခြင်း	18	cond
+navipākapaccayā	ကံ၏ အကျိုးဟူသော အကြောင်းကြောင့် မဟုတ်	21	cond
+Navipākapaccayā	ကံ၏ အကျိုးဟူသော အကြောင်းကြောင့် မဟုတ်	3	cond
+Navipākaṃ	ကံ၏ အကျိုးဟူသော အကြောင်း မဟုတ်ခြင်း	5	cond
+navipāke	ကံ၏ အကျိုးဟူသော အကြောင်း မဟုတ်ခြင်း	309	cond
+Naāhārapaccayādi	အာဟာရဟူသော အကြောင်း မဟုတ်ခြင်း စသည်	1	cond
+naāhāre	အာဟာရဟူသော အကြောင်း မဟုတ်ခြင်း	162	cond
+naārammaṇapaccayasadisaṃ	အာရုံဟူသော အကြောင်း မဟုတ်ခြင်းနှင့် တူသည်	12	cond
+Naārammaṇapaccayasadisaṃ	အာရုံဟူသော အကြောင်း မဟုတ်ခြင်းနှင့် တူသည်	10	cond
+Naārammaṇapaccayo	အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း	6	cond
+naārammaṇapaccayā	အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်	166	cond
+Naārammaṇapaccayā	အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်	3	cond
+naārammaṇe	အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း	178	cond
+naāsevanapaccayā	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	10	cond
+Naāsevanapaccayā	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	4	cond
+naāsevane	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	288	cond
+nevasaññānāsaññāyatanakiriyaṃ	?	4	?
+nevasaññānāsaññāyatanakusalassa	?	1	?
+nevasaññānāsaññāyatanakusalaṃ	?	6	?
+Nevasaññānāsaññāyatanassa	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်	2	terms
+nevasaññānāsaññāyatanassa	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်	10	terms
+nevasaññānāsaññāyatanaṃ	မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်	4	terms
+nevavipākanavipākadhammadhammassa	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော	143	term
+nevavipākanavipākadhammadhammañca	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော	21	term
+Nevavipākanavipākadhammadhammaṃ	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော	229	term
+nevavipākanavipākadhammadhammo	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား	303	pi-2
+Nevavipākanavipākadhammadhammo	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား	82	pi-2
+nibbānaṃ	နိဗ္ဗာန်	17	stock
+nigamaghātaṃ	နိဂုံးကို ဖျက်ဆီး၍ လုယက်သည်	3	lex
+nillopaṃ	ဥစ္စာ	1	stock
+nirodhā	ချုပ်ငြိမ်းခြင်း သမာပတ်	6	lex
+niruddhe	ချုပ်ငြိမ်းသော	2	pi-5
+niruddhe	ချုပ်ငြိမ်းသွားသော	12	pi-5
+niruttippaṭisambhidāya	?	2	?
+nissaya	အမှီ	94	cond
+Nissaya	အမှီ	5	cond
+Nissaya	အမှီဟူသော အကြောင်း	1	cond
+Nissayamissakaghaṭanā	အမှီဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	4	headlex
+nissayapaccayena	အမှီဟူသော အကြောင်း	8	cond
+Nissayapaccayo	အမှီဟူသော အကြောင်း	12	cond
+nissayapaccayā	အမှီဟူသော အကြောင်းကြောင့်	8	cond
+Nissayavāre	အမှီပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	8	vara
+Nissayavāro	အမှီပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	10	vara
+nissayavāropi	အမှီပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	2	vara
+nissaye	အမှီဟူသော အကြောင်း	6	cond
+nissāya	မှီ၍	7	frame
+niyatamicchādiṭṭhi	ကျိန်းသေသော	4	term
+niyatamicchādiṭṭhiyā	?	4	?
+niṭṭhitaṃ	ပြီးဆုံးသော	8	pi-3
+noatthimūlakaṃ	ရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်းကို အခြေခံခြင်း	1	cond
+Noatthimūlakaṃ	ရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်းကို အခြေခံခြင်း	1	cond
+noatthiyā	ရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	86	cond
+Noavigatapaccayā	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	1	cond
+noavigate	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	89	cond
+Nonatthi	မရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	10	cond
+nonatthipaccayā	မရှိခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	10	cond
+Nonatthipaccayā	မရှိခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	2	cond
+nonatthiyā	မရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	272	cond
+Nonatthiyā	မရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	1	cond
+novigatapaccayā	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်	10	cond
+novigate	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	349	cond
+nānākkhaṇikā	ခဏ ကွဲပြားသော	4	stock
+Nānākkhaṇikā	ခဏ ကွဲပြားသော	1	stock
+paccanubhoti	ခံစားသည်	3	pi-2
+paccanīyagaṇanā	အငြင်းပြ ပုံစံ၏ ရေတွက်ချက်	3	order
+Paccanīyaṃ	အငြင်းပြ ပုံစံ	37	order
+paccanīyaṃ	အငြင်းပြ ပုံစံ	9	order
+Paccanīyuddhāro	အငြင်းပြ ပုံစံအတွက် ထုတ်နုတ်ချက်	4	headlex
+paccanīyuddhāro	အငြင်းပြ ပုံစံအတွက် ထုတ်နုတ်ချက်	1	headlex
+Paccanīyānulomaṃ	အငြင်းပြ အဟုတ်ပြ ပုံစံ	30	order
+paccanīyānulomaṃ	အငြင်းပြ အဟုတ်ပြ ပုံစံ	12	order
+paccavekkhanti	ပြန်လည် ဆင်ခြင်သည်	28	terms
+paccavekkhati	ပြန်လည် ဆင်ခြင်သည်	17	terms
+paccaya	အကြောင်း	1	pi-5
+Paccayacatukkaṃ	အကြောင်း လေးမျိုးတွဲ	3	count
+Paccayapaccanīyaṃ	အကြောင်း အငြင်းပြ ပုံစံ	87	order
+Paccayapaccanīyānulomaṃ	အကြောင်း အငြင်းပြ အဟုတ်ပြ ပုံစံ	54	order
+Paccayavāre	အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	8	vara
+paccayavāre	အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	6	vara
+Paccayavāro	အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	10	vara
+Paccayavāropi	အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	2	vara
+paccayavāropi	အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်	2	vara
+paccayaṃ	ကြောင့်	1	term
+paccayo	အကြောင်း	67	frame
+paccayā	ကြောင့်	39	pi-2
+Paccayānulomapaccanīyaṃ	အကြောင်း အဟုတ်ပြ အငြင်းပြ ပုံစံ	54	order
+Paccayānulomaṃ	အကြောင်း အဟုတ်ပြ ပုံစံ	140	order
+pacchimānaṃ	နောက်နောက်	10	stock
+Pacchājāta	နောက်မှ ဖြစ်ပေါ်ခြင်း	2	cond
+pacchājāta	နောက်မှ ဖြစ်ပေါ်ခြင်း	5	cond
+Pacchājātaghaṭanā	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+pacchājātapaccayena	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	31	cond
+Pacchājātapaccayo	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	12	cond
+Pacchājātapaccayā	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်	2	cond
+pacchājātaṃ	နောက်မှ ဖြစ်ပေါ်ခြင်း	22	cond
+pacchājāte	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	48	cond
+pacchājātā	နောက်မှ ဖြစ်ပေါ်သော	5	stock
+Pacchājātā	နောက်မှ ဖြစ်ပေါ်သော	1	stock
+padāni	ပုဒ်	7	pi-2
+pahīne	ပယ်ပြီးသော	9	lex
+pakatūpanissayo	ပကတိ အားကြီးသော အမှီ	30	terms
+Pakiṇṇakaghaṭanā	အထွေထွေ ပေါင်းစပ်ချက်	22	headlex
+palapati	ပြောသည်	1	lex
+pannarasa	ဆယ့်ငါးခု	17	count
+Pannarasakaṃ	ဆယ့်ငါးမျိုးတွဲ	4	count
+paradāraṃ	သူတစ်ပါး၏ မယား	1	lex
+parihīne	ဆုတ်ယုတ်သွားသော	1	terms
+parikammaṃ	ကြိုတင် ပြင်ဆင်မှု	8	stock
+paripanthe	လမ်း	1	pi-5
+paripuṇṇaṃ	ပြည့်စုံ	1	terms
+Paripuṇṇaṃ	ပြည့်စုံသော	2	frame
+paripuṇṇaṃ	ပြည့်စုံသော	2	frame
+paritāpeti	ပြင်းစွာ ပူပန်စေသည်	3	frame
+pariyiṭṭhimūlakaṃ	ရှာမှီးခြင်းကို အရင်းခံသော	3	lex
+passati	မြင်သည်	5	stem
+patthanaṃ	တောင့်တခြင်း	2	terms
+patthanā	တောင့်တခြင်း	1	terms
+patthanāya	တောင့်တခြင်း	5	terms
+Pañcakaṃ	ငါးမျိုးတွဲ	8	count
+pañcaviññāṇasahagataṃ	သိစိတ် ငါးပါးနှင့်အတူ ဖြစ်သော	4	term
+Pañcaviññāṇaṃ	သိစိတ်	1	term
+pañcaviññāṇaṃ	သိစိတ်	1	term
+pañhā	ပြဿနာ	6	term
+Pañhāvārassa	ပြဿနာအလိုက် ဖော်ပြချက်	24	vara
+pañhāvārassa	ပြဿနာအလိုက် ဖော်ပြချက်	4	vara
+Pañhāvāro	ပြဿနာအလိုက် ဖော်ပြချက်	16	vara
+paññaṃ	ပညာ	4	terms
+paññāya	ပညာ	1	terms
+paṭibhānappaṭisambhidāya	?	2	?
+paṭicca	မှီ၍	108	frame
+paṭighātatthāya	?	2	?
+paṭisandhikkhaṇe	ပဋိသန္ဓေ နေသော ခဏ	249	stock
+Paṭisandhikkhaṇe	ပဋိသန္ဓေ နေသော ခဏ	48	stock
+phalasamāpattiyā	ဖိုလ်သမာပတ်	39	terms
+phalassa	ဖိုလ်	12	terms
+phalaṃ	ဖိုလ်	5	terms
+pharusavācā	ကြမ်းတမ်းသော စကား	1	stem
+pharusaṃ	ကြမ်းတမ်းသော စကား	1	pi-4
+phoṭṭhabbe	အထိအတွေ့	41	pi-2
+phoṭṭhabbāyatanaṃ	အထိအတွေ့ အာရုံခံ နယ်ပယ်	45	terms
+pisuṇavācā	ကုန်းတိုက်သော စကား	1	stem
+pisuṇaṃ	ကုန်းတိုက်သော စကား	1	pi-4
+pitaraṃ	အဖ	1	pi-2
+pitughātikammassa	အဖကို သတ်ခြင်း ကံ	1	term
+pubbe	ရှေး	15	terms
+Pubbe	ရှေး	1	terms
+pubbenivāsānussatiñāṇassa	ရှေးဘဝများကို အဖန်ဖန် အောက်မေ့နိုင်သော ဉာဏ်	78	terms
+Pubbenivāsānussatiñāṇassa	ရှေးဘဝများကို အဖန်ဖန် အောက်မေ့နိုင်သော ဉာဏ်	5	terms
+purejāta	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	15	cond
+Purejāta	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	2	cond
+Purejātaghaṭanā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+purejātapaccayena	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	24	cond
+Purejātapaccayo	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	24	cond
+purejātapaccayā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	1	cond
+purejātapaccayā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်	54	cond
+Purejātapaccayā	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်	8	cond
+purejātassa	ရှေးဦးစွာ ဖြစ်ပေါ်ပြီးသော	12	term
+purejātaṃ	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	24	cond
+purejāte	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း	105	cond
+purimā	ရှေးရှေး	12	stock
+puthujjanā	ပုထုဇဉ်	15	pi-6
+pāṇaṃ	သတ္တဝါ	6	pi-5
+Pāṇātipāto	သူ့အသက်ကို သတ်ခြင်း	3	pi-2
+pāṇātipāto	သူ့အသက်ကို သတ်ခြင်း	1	pi-2
+rase	အရသာ	17	pi-2
+rasāyatanaṃ	အရသာ အာရုံခံ နယ်ပယ်	10	terms
+ruhiruppādakammassa	ဘုရား၏ ကိုယ်တော်မှ သွေးကို ထွက်စေခြင်း ကံ	4	term
+rāgassa	ရာဂ	2	terms
+rāgaṃ	ရာဂ	10	terms
+Rāgaṃ	ရာဂ	1	terms
+rāgo	ရာဂ	51	terms
+rūpajīvitindriyañca	ရုပ် အသက်၏ စွမ်းရည်	4	base:terms
+rūpajīvitindriyaṃ	ရုပ် အသက်၏ စွမ်းရည်	14	terms
+Rūpajīvitindriyaṃ	ရုပ် အသက်၏ စွမ်းရည်	8	terms
+rūpaṃ	ရုပ်	442	stock
+rūpe	အဆင်းအရောင်	13	pi-2
+rūpānaṃ	ရုပ်	321	stock
+rūpāyatanañca	အဆင်းအရောင် အာရုံခံ နယ်ပယ်	2	pi-6
+Rūpāyatanaṃ	အဆင်းအရောင် အာရုံခံ နယ်ပယ်	16	terms
+rūpāyatanaṃ	အဆင်းအရောင် အာရုံခံ နယ်ပယ်	14	terms
+sabbattha	နေရာတိုင်း	22	pi-5
+saddaṃ	အသံ	3	pi-2
+sadde	အသံ	14	pi-2
+saddhaṃ	ယုံကြည်မှု	4	terms
+saddhāya	ယုံကြည်မှု	4	terms
+Saddāyatanaṃ	အသံ အာရုံခံ နယ်ပယ်	3	terms
+sahajāta	အတူ ပေါ်ပေါက်ခြင်း	81	cond
+Sahajāta	အတူ ပေါ်ပေါက်ခြင်း	3	cond
+Sahajāta	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	1	cond
+Sahajāta	အတူ ပေါ်ပေါက်သော	1	term
+Sahajātadukaṃ	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	3	cond
+Sahajātaghaṭanā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	11	cond
+sahajātapaccayaṃ	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	11	cond
+sahajātapaccayena	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	25	cond
+Sahajātapaccayo	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	15	cond
+sahajātapaccayā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	5	cond
+sahajātapaccayā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်	24	cond
+Sahajātapaccayā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်	7	cond
+Sahajātasāmaññaghaṭanā	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း၏ သာမန် ပေါင်းစပ်ချက်	6	headlex
+sahajātaṃ	အတူ ပေါ်ပေါက်ခြင်း	24	cond
+sahajāte	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း	173	cond
+sahajāto	အတူ ပေါ်ပေါက်သော	8	term
+sahajātā	အတူ ပေါ်ပေါက်သော	4	stock
+sahajātādhipati	အတူ ပေါ်ပေါက်သော အကြီးအမှူး	16	terms
+Sahajātādhipati	အတူ ပေါ်ပေါက်သော အကြီးအမှူး	2	terms
+Sahetādhipati	?	3	?
+Saindriya	စွမ်းရည်ဟူသော အကြောင်း … ပါဝင်သော	5	cond
+Saindriyaghaṭanā	စွမ်းရည်ဟူသော အကြောင်း ပါဝင်သော ပေါင်းစပ်ချက်	6	headlex
+Sajhāna	ဈာန်ဟူသော အကြောင်း … ပါဝင်သော	2	cond
+Sajhānaghaṭanā	ဈာန်ဟူသော အကြောင်း ပါဝင်သော ပေါင်းစပ်ချက်	4	headlex
+sajjhāyamaggena	သရဇ္ဈာယ်သည့် နည်းလမ်း	4	frame
+sajjhāyamaggo	သရဇ္ဈာယ်သည့် နည်းလမ်း	1	stem
+sajjhāyantena	?	2	?
+samanantara	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	10	cond
+Samanantara	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	2	cond
+samanantarapaccayena	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	14	cond
+Samanantarapaccayo	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	9	cond
+samanantarapaccayā	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	3	cond
+samanantarapaccayā	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	25	cond
+Samanantarapaccayā	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	1	cond
+samanantare	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း	113	cond
+sampayutta	ယှဉ်တွဲခြင်း	2	cond
+Sampayuttaghaṭanā	ယှဉ်တွဲခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+sampayuttakānaṃ	ယှဉ်တွဲသော	37	stock
+sampayuttapaccayena	ယှဉ်တွဲခြင်းဟူသော အကြောင်း	8	cond
+Sampayuttapaccayo	ယှဉ်တွဲခြင်းဟူသော အကြောင်း	10	cond
+sampayuttapaccayā	ယှဉ်တွဲခြင်းဟူသော အကြောင်းကြောင့်	10	cond
+sampayuttavāro	ယှဉ်တွဲခြင်းအလိုက် ဖော်ပြချက်	2	vara
+sampayuttavāropi	ယှဉ်တွဲခြင်းအလိုက် ဖော်ပြချက်	4	vara
+sampayutte	ယှဉ်တွဲခြင်းဟူသော အကြောင်း	1	cond
+samphappalāpassa	အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား	1	term
+samphaṃ	အကျိုးမဲ့	1	pi-5
+samudāciṇṇe	ဖြစ်ခဲ့ဖူးသော	5	lex
+samādiyati	ဆောက်တည်သည်	15	lex
+samādiyitvā	ဆောက်တည်၍	44	pi-2
+samāpajjanti	ဝင်စားသည်	3	pi-5
+samāpajjati	ဝင်စားသည်	5	pi-2
+samāpattiṃ	သမာပတ်	8	stock
+sandhiṃ	အိမ်	1	pi-5
+Sattakaṃ	ခုနစ်မျိုးတွဲ	12	count
+sattarasa	ဆယ့်ခုနစ်ခု	35	count
+Sattarasakaṃ	ဆယ့်ခုနစ်မျိုးတွဲ	4	count
+Saṃkhittaṃ	အကျဉ်းချုပ်	79	frame
+saṃkhittaṃ	အကျဉ်းချုပ်	71	frame
+saṃkiliṭṭhasaṃkilesikacittasamaṅgissa	ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော စိတ်နှင့် ပြည့်စုံသူ	1	term
+saṃkiliṭṭhasaṃkilesikassa	ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော	20	term
+Saṃkiliṭṭhasaṃkilesikaṃ	ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော	7	term
+saṃkiliṭṭhasaṃkilesike	ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော	4	term
+Saṃkiliṭṭhasaṃkilesiko	ကိလေသာဖြင့် ညစ်နွမ်း၍ ကိလေသာ၏ အာရုံလည်း ဖြစ်နိုင်သော	59	term
+Saṃkiliṭṭhattikaṃ	ကိလေသာဖြင့် ညစ်နွမ်းခြင်း သုံးမျိုးတွဲ	2	headlex
+saṃsaṭṭha	ရောနှောသော	1	pi-2
+Saṃsaṭṭhavāre	ရောနှောခြင်းအလိုက် ဖော်ပြချက်	4	vara
+Saṃsaṭṭhavāro	ရောနှောခြင်းအလိုက် ဖော်ပြချက်	12	vara
+Saṃsaṭṭhavāropi	ရောနှောခြင်းအလိုက် ဖော်ပြချက်	3	vara
+saṃsaṭṭhavāropi	ရောနှောခြင်းအလိုက် ဖော်ပြချက်	3	vara
+saṃsaṭṭho	ရောနှောသော	21	pi-2
+saṅghabhedakammassa	သံဃာကို သင်းခွဲခြင်း ကံ	1	term
+saṅghaṃ	သံဃာ	16	terms
+Saṅkhyāvāro	ရေတွက်ခြင်းအလိုက် ဖော်ပြချက်	32	vara
+saṅkhāre	ပြုပြင်ဖန်တီးမှု	5	pi-2
+sekkhā	ကျင့်ကြံဆဲသူ	18	pi-4
+Sekkhā	ကျင့်ကြံဆဲသူ	4	pi-4
+sekkhā	ကျင့်ကြံဆဲသူ၏	1	pi-2
+sekkhānaṃ	ကျင့်ကြံဆဲသူ	1	term
+sekkhāya	ကျင့်ကြံဆဲသူ	2	term
+Senāsanaṃ	အိပ်ရာ နေရာ	1	terms
+senāsanaṃ	အိပ်ရာ နေရာ	3	terms
+sota	နား	2	pi-2
+sotadhātuyā	နား ဓာတ်	27	pi-5
+sotaviññāṇassa	နား သိစိတ်	5	pi-2
+sotaviññāṇaṃ	နား သိစိတ်	2	pi-2
+Sotaṃ	နား	29	pi-2
+sotaṃ	နား	7	pi-2
+sotāyatanaṃ	နား အာရုံခံ နယ်ပယ်	3	terms
+Sotāyatanaṃ	နား အာရုံခံ နယ်ပယ်	5	terms
+soḷasa	ဆယ့်ခြောက်ခု	2	count
+Soḷasakaṃ	ဆယ့်ခြောက်မျိုးတွဲ	3	count
+suciṇṇāni	?	6	?
+suciṇṇāni	ကောင်းစွာ ကျင့်ခဲ့ဖူးသော	6	frame
+Suddhaṃ	ရိုးရိုး	58	headlex
+sukhumatarā	?	1	?
+sutassa	အကြားအမြင်	1	terms
+sutaṃ	အကြားအမြင်	4	terms
+suṇanti	ကြားသည်	6	pi-5
+suṇāti	ကြားသည်	9	pi-2
+Sādhipati	အကြီးအမှူးဟူသော အကြောင်း … ပါဝင်သော	10	cond
+sāmaññaghaṭanā	သာမန် ပေါင်းစပ်ချက်	1	headlex
+Sāmaññaghaṭanā	သာမန် ပေါင်းစပ်ချက်	2	headlex
+sīlaṃ	သီလ	15	terms
+Sīlaṃ	သီလ	2	terms
+tadārammaṇatā	စိတ်သည်	14	term
+Tatiyassa	တတိယ	1	term
+tatiyassa	တတိယ	2	term
+tatiyo	တတိယ	1	term
+terasa	ဆယ့်သုံးခု	57	count
+Terasa	ဆယ့်သုံးခု	1	count
+Terasakaṃ	ဆယ့်သုံးမျိုးတွဲ	10	count
+tevīsa	နှစ်ဆယ့်သုံးခု	1	count
+Tevīsakaṃ	နှစ်ဆယ့်သုံးမျိုးတွဲ	17	count
+Tikaṃ	သုံးမျိုးတွဲ	95	count
+tiṭṭhati	ဓားပြ တိုက်သည်	1	stock
+uddhaccasahagate	ယောက်ယက်ခတ်မှုနှင့်အတူ ဖြစ်သော	39	terms
+uddhaccasahagato	ယောက်ယက်ခတ်မှုနှင့်အတူ ဖြစ်သော	9	terms
+uddhaccaṃ	ယောက်ယက်ခတ်မှု	9	terms
+upanissaya	အားကြီးသော အမှီ	20	cond
+Upanissaya	အားကြီးသော အမှီ	2	cond
+Upanissaya	အားကြီးသော အမှီဟူသော အကြောင်း	1	cond
+Upanissayaghaṭanā	အားကြီးသော အမှီဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	4	cond
+upanissayapaccayena	အားကြီးသော အမှီဟူသော အကြောင်း	89	cond
+Upanissayapaccayo	အားကြီးသော အမှီဟူသော အကြောင်း	25	cond
+Upanissayapaccayā	အားကြီးသော အမှီဟူသော အကြောင်း	7	cond
+upanissayapaccayā	အားကြီးသော အမှီဟူသော အကြောင်း	1	cond
+upanissayapaccayā	အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်	28	cond
+Upanissayapaccayā	အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်	14	cond
+upanissaye	အားကြီးသော အမှီဟူသော အကြောင်း	141	cond
+upanissāya	အားကြီးစွာ မှီ၍	10	terms
+uposathakammaṃ	ဥပုသ်ကို စောင့်ထိန်းသည်	28	stock
+uppajjanti	ဖြစ်ပေါ်သည်	48	verb
+uppajjati	ဖြစ်ပေါ်သည်	245	verb
+uppannaṃ	ဖြစ်ပေါ်ပြီးသော	5	pi-2
+uppādenti	ဖြစ်စေကြသည်	2	term
+uppādenti	ဖြစ်ပေါ်စေသည်	2	pi-5
+uppādeti	ဖြစ်စေသည်	15	lex
+uppādetvā	ထွက်စေ၍	1	stem
+Upādinnattikaṃ	ကံကြောင့် ဖြစ်ခြင်း သုံးမျိုးတွဲ	2	headlex
+upādinnattike	ကံကြောင့် ဖြစ်ခြင်း သုံးမျိုးတွဲ	1	term
+upādinnupādāniyassa	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	46	term
+Upādinnupādāniyañca	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	7	term
+Upādinnupādāniyaṃ	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	51	term
+upādinnupādāniye	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	3	term
+upādinnupādāniyo	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	244	term
+Upādinnupādāniyo	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	178	term
+upādinnupādāniyā	ကံကြောင့် ဖြစ်၍ စွဲလမ်းမှု၏ အာရုံလည်း ဖြစ်နိုင်သော	11	term
+upādārūpaṃ	မူလဓာတ်ကြီးတို့ကို မှီ၍ ဖြစ်သော ရုပ်	158	stock
+upādārūpānaṃ	မူလဓာတ်ကြီးတို့ကို မှီ၍ ဖြစ်သော ရုပ်	21	stock
+Utu	?	1	?
+utu	?	1	?
+utusamuṭṭhānaṃ	ရာသီဥတုမှ ဖြစ်ပေါ်လာသော	106	samutthana
+Utusamuṭṭhānaṃ	ရာသီဥတုမှ ဖြစ်ပေါ်လာသော	2	samutthana
+utusamuṭṭhāne	ရာသီဥတုမှ ဖြစ်ပေါ်လာသော	2	samutthana
+utuṃ	ရာသီဥတု	3	term
+vatthu	မှီရာ ဝတ္ထု	73	stock
+Vatthu	မှီရာ ဝတ္ထု	13	stock
+vatthupurejātaṃ	မှီရာ ဝတ္ထု ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	10	term
+vatthuñca	မှီရာ ဝတ္ထု	70	base:stock
+vatthuṃ	မှီရာ ဝတ္ထု	160	stock
+Vatthuṃ	မှီရာ ဝတ္ထု	7	stock
+vibhajitabbāni	ခွဲခြမ်းစိတ်ဖြာရမည့်	1	stem
+Vibhaṅgavāro	ခွဲခြမ်းစိတ်ဖြာခြင်းအလိုက် ဖော်ပြချက်	28	vara
+vicikicchā	ယုံမှားမှု	27	terms
+vicikicchāsahagate	ယုံမှားမှုနှင့်အတူ ဖြစ်သော	60	terms
+Vicikicchāsahagate	ယုံမှားမှုနှင့်အတူ ဖြစ်သော	5	terms
+vicikicchāsahagato	ယုံမှားမှုနှင့်အတူ ဖြစ်သော	2	terms
+Vigata	ပျောက်ကွယ်ခြင်း	1	cond
+vigatapaccayena	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	5	cond
+Vigatapaccayo	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	3	cond
+vigatapaccayā	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	2	cond
+vigatapaccayā	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	19	cond
+Vigatapaccayā	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	1	cond
+vigataṃ	ပျောက်ကွယ်ခြင်း	1	cond
+vigate	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း	116	cond
+vigatāvigatapaccayā	?	3	?
+vikkhambhite	ခွာထားပြီးသော	8	lex
+vipassanaṃ	ထိုးထွင်းသိမြင်ခြင်း	8	lex
+vipassanti	ထိုးထွင်း၍ ရှုကြသည်	17	term
+vipassati	ထိုးထွင်း၍ ရှုသည်	17	terms
+vippayutta	ကင်းကွာခြင်း	98	cond
+Vippayutta	ကင်းကွာခြင်း	6	cond
+Vippayuttadukaṃ	ကင်းကွာခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	4	cond
+Vippayuttamissakaghaṭanā	ကင်းကွာခြင်းဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	4	headlex
+vippayuttapaccayena	ကင်းကွာခြင်းဟူသော အကြောင်း	13	cond
+Vippayuttapaccayo	ကင်းကွာခြင်းဟူသော အကြောင်း	21	cond
+vippayuttapaccayā	ကင်းကွာခြင်းဟူသော အကြောင်းကြောင့်	23	cond
+Vippayuttapaccayā	ကင်းကွာခြင်းဟူသော အကြောင်းကြောင့်	24	cond
+vippayutte	ကင်းကွာခြင်းဟူသော အကြောင်း	160	cond
+vippaṭisārissa	နောင်တ ရသူ	1	terms
+vipāka	ကံ၏ အကျိုး	6	cond
+vipākadhammadhammacittasamaṅgissa	အကျိုး ပေးတတ်သော စိတ်နှင့် ပြည့်စုံသူ	1	term
+vipākadhammadhammassa	အကျိုး ပေးတတ်သော	8	term
+Vipākadhammadhammañca	အကျိုး ပေးတတ်သော	15	term
+Vipākadhammadhammaṃ	အကျိုး ပေးတတ်သော	37	pi-2
+vipākadhammadhamme	အကျိုး ပေးတတ်သော	5	term
+vipākadhammadhammo	အကျိုး ပေးတတ်သော	4	pi-2
+Vipākadhammadhammo	အကျိုး ပေးတတ်သော	31	pi-2
+vipākadhammadhammādhipati	အကျိုး ပေးတတ်သော အကြီးအမှူး	1	term
+Vipākadukaṃ	ကံ၏ အကျိုးဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	7	cond
+Vipākaghaṭanā	ကံ၏ အကျိုးဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+vipākamanodhātuyā	ကံ၏ အကျိုး ဖြစ်သော မနော ဓာတ်	4	terms
+Vipākamanoviññāṇadhātu	ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်	4	terms
+vipākamanoviññāṇadhātu	ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်	4	terms
+vipākapaccayena	ကံ၏ အကျိုးဟူသော အကြောင်း	12	cond
+Vipākapaccayo	ကံ၏ အကျိုးဟူသော အကြောင်း	27	cond
+vipākapaccayā	ကံ၏ အကျိုးဟူသော အကြောင်းကြောင့်	18	cond
+vipākassa	ကံ၏ အကျိုး	1	stock
+vipākassa	ကံ၏ အကျိုး ဖြစ်သော	5	stock
+Vipākattikaṃ	ကံ၏ အကျိုး သုံးမျိုးတွဲ	2	headlex
+Vipākañca	ကံ၏ အကျိုး	31	cond
+vipākaṃ	ကံ၏ အကျိုး	1	stock
+Vipākaṃ	ကံ၏ အကျိုး	1	stock
+Vipākaṃ	ကံ၏ အကျိုး ဖြစ်သော	28	stock
+vipākaṃ	ကံ၏ အကျိုး ဖြစ်သော	4	stock
+vipāke	ကံ၏ အကျိုး	1	cond
+vipāke	ကံ၏ အကျိုးဟူသော အကြောင်း	1	cond
+vipāko	ကံ၏ အကျိုး ဖြစ်သော	18	stock
+Vipāko	ကံ၏ အကျိုး ဖြစ်သော	15	stock
+vipākābyākatakiriyābyākatacittasamaṅgissa	?	2	?
+vipākābyākataṃ	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	121	term
+Vipākābyākataṃ	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	5	term
+vipākābyākate	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	14	term
+vipākābyākato	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	4	term
+vipākābyākatā	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	24	pi-5
+vipākābyākatānaṃ	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	10	term
+vipākābyākatāni	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	4	term
+vipākādhipati	ကံ၏ အကျိုး ဖြစ်သော အကြီးအမှူး	1	term
+vipākānaṃ	ကံ၏ အကျိုး ဖြစ်သော	4	stock
+vitthāretabbaṃ	အကျယ် ချဲ့ရမည့်	59	frame
+vitthāretabbo	အကျယ် ချဲ့ရမည့်	3	frame
+vitthāretabbā	အကျယ် ချဲ့ရမည့်	4	frame
+vitthāretabbāni	အကျယ် ချဲ့ရမည်	4	term
+viññāṇañcāyatanakiriyassa	?	2	?
+Viññāṇañcāyatanassa	အဆုံး မရှိသော သိစိတ် နယ်ပယ်	3	terms
+viññāṇañcāyatanassa	အဆုံး မရှိသော သိစိတ် နယ်ပယ်	8	terms
+viññāṇañcāyatanavipākassa	?	4	?
+viññāṇānaṃ	သိစိတ်	2	term
+vodānassa	စင်ကြယ်ခြင်း စိတ်	18	terms
+vodānaṃ	စင်ကြယ်ခြင်း စိတ်	6	terms
+vuṭṭhahantassa	ထမြောက်နေသူ	6	lex
+vuṭṭhahitvā	ထ၍	24	terms
+vuṭṭhānassa	ထမြောက်ခြင်း စိတ်	6	terms
+vācāya	စကား	1	pi-4
+Vīmaṃsādhipatighaṭanā	စုံစမ်းဆင်ခြင်မှု အကြီးအမှူး၏ ပေါင်းစပ်ချက်	4	headlex
+Vīriyādhipatighaṭanā	ဝီရိယ အကြီးအမှူး၏ ပေါင်းစပ်ချက်	4	headlex
+Vīsakaṃ	နှစ်ဆယ်မျိုးတွဲ	1	count
+yathākammūpagañāṇassa	ကံအားလျော်စွာ ဖြစ်ပေါ်ပုံကို သိသော ဉာဏ်	8	terms
+Yathākammūpagañāṇassa	ကံအားလျော်စွာ ဖြစ်ပေါ်ပုံကို သိသော ဉာဏ်	1	terms
+ādiyati	ယူသည်	1	lex
+ādiyitvā	ယူ၍	1	stem
+āhāra	အာဟာရ	10	cond
+Āhāra	အာဟာရ	9	cond
+Āhāramissakaghaṭanā	အာဟာရဟူသော အကြောင်း၏ ရောစပ် ပေါင်းစပ်ချက်	4	headlex
+āhārapaccayena	အာဟာရဟူသော အကြောင်း	22	cond
+Āhārapaccayo	အာဟာရဟူသော အကြောင်း	18	cond
+āhārapaccayā	အာဟာရဟူသော အကြောင်းကြောင့်	34	cond
+Āhārapaccayā	အာဟာရဟူသော အကြောင်းကြောင့်	10	cond
+āhārasamuṭṭhānaṃ	အာဟာရမှ ဖြစ်ပေါ်လာသော	52	samutthana
+Āhārasamuṭṭhānaṃ	အာဟာရမှ ဖြစ်ပေါ်လာသော	1	samutthana
+āhārasamuṭṭhāne	အာဟာရမှ ဖြစ်ပေါ်လာသော	2	samutthana
+āhāraṃ	အာဟာရ	14	cond
+āhāre	အာဟာရဟူသော အကြောင်း	184	cond
+āhāro	အာဟာရ	1	stock
+āhārā	အာဟာရ	5	pi-2
+Āhārādhipati	အာဟာရ အကြီးအမှူး	1	term
+Ākiñcaññāyatanassa	ဘာမျှ မရှိသော နယ်ပယ်	2	pi-2
+ākiñcaññāyatanaṃ	ဘာမျှ မရှိသော နယ်ပယ်	8	terms
+Ākiñcaññāyatanaṃ	ဘာမျှ မရှိသော နယ်ပယ်	2	terms
+Ākāsānañcāyatanassa	အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်	1	pi-2
+Ākāsānañcāyatanaṃ	အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်	2	terms
+ārabbha	အာရုံပြု၍	9	frame
+Ārammaṇa	အာရုံ	2	cond
+ārammaṇa	အာရုံ	11	cond
+ārammaṇapaccayaṃ	အာရုံဟူသော အကြောင်း	6	cond
+ārammaṇapaccayena	အာရုံဟူသော အကြောင်း	75	cond
+Ārammaṇapaccayo	အာရုံဟူသော အကြောင်း	30	cond
+ārammaṇapaccayā	အာရုံဟူသော အကြောင်း	3	cond
+ārammaṇapaccayā	အာရုံဟူသော အကြောင်းကြောင့်	100	cond
+Ārammaṇapaccayā	အာရုံဟူသော အကြောင်းကြောင့်	13	cond
+ārammaṇapurejātaṃ	အာရုံ ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	8	term
+Ārammaṇapurejātaṃ	အာရုံ ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း	2	term
+ārammaṇe	အာရုံဟူသော အကြောင်း	130	cond
+Ārammaṇe	အာရုံဟူသော အကြောင်း	1	cond
+Ārammaṇādhipati	အာရုံ အကြီးအမှူး	7	terms
+ārammaṇādhipati	အာရုံ အကြီးအမှူး	9	terms
+ārammaṇūpanissayo	အာရုံဖြင့် အားကြီးသော အမှီ	20	terms
+āsevana	အလေ့အကျင့် ပြုခြင်း	8	cond
+Āsevana	အလေ့အကျင့် ပြုခြင်း	2	cond
+Āsevanadukaṃ	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ	7	cond
+Āsevanaghaṭanā	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း၏ ပေါင်းစပ်ချက်	2	cond
+āsevanapaccayena	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း	12	cond
+Āsevanapaccayo	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း	30	cond
+āsevanapaccayā	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်	30	cond
+Āsevanapaccayā	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်	10	cond
+āsevanaṃ	အလေ့အကျင့် ပြုခြင်း	1	cond
+āsevane	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း	92	cond
+ātāpeti	ပူပန်စေသည်	3	frame
+āvajjanā	စိတ်ညွတ်ခြင်း	1	terms
+āvajjanāya	စိတ်ညွတ်ခြင်း	16	terms
+ṭhitena	တည်သော	2	term
+ṭhānāṭhānakosallassa	?	4	?

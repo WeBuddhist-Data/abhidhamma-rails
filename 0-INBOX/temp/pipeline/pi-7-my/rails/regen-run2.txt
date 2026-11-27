@@ -1,0 +1,37 @@
+== 0. protected inputs (termbase, zero-shot chapters + merged file, keyword maps, generators + checks, my7_formulas, regen_zeroshot, notes, harmonise files, termbase decisions, map-harmonise-notes, pi-1 … pi-6 final rails + termbases) unchanged
+protected md5: unchanged (292 files)
+termbase sha256: recorded lock
+== 1. reproduction test (build without the layer = the zero-shot), build (zero-shot generators + rails layer), residual rules
+plain build = zero-shot: 75 of 75 files identical
+layer: 23 source patches; 75 files
+3 rule entries; 3 replacements
+rails folder: 75 files
+== 2. check_chapter_ids / check_text_pe7 (rails copy check_text_pe_rails.py, one file at a time) / pi-4-mr/check_marks.py
+ids+text+marks over 75 files: OK
+typography (no «?», no Zawgyi range, NFC): OK
+== 3. termbase adherence: zero-shot input, rails, classification
+zero-shot: checked 179700; misses 1751 (input file reproduced)
+rails: checked 179700; misses 1695
+1751 zero-shot misses + 0 rails-introduced: ARTEFACT 4, GENUINE 56, INFLECTION 1691
+unverified rows (GENUINE left or unclassified): 0
+misses left: ARTEFACT 4, INFLECTION 1691; GENUINE fixed 53; INFLECTION/ARTEFACT/CONTEXT rows no longer listed 0; GENUINE or unknown left 0
+GENUINE rows of the zero-shot (all fixed in the rails): 56
+== 4. cross-chapter alignment
+align: repeated Pāli sentences: 1074; with differing Burmese: 0; lines compared whole: 1361
+hidden: uneven lines 1361 | unmatched repeated sentences: 0
+align_check: 0 differing, 0 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+== 5. pi-1 … pi-6 identity (every pi-7 sentence that occurs in pi-1 … pi-6 keeps their final rails Burmese)
+pi-1 identity: 12 / 12 identical, 0 explained; differing: 0
+pi-2 identity: 74 / 74 identical, 0 explained; differing: 0
+pi-3 identity: 2 / 2 identical, 0 explained; differing: 0
+pi-4 identity: 7230 / 7230 identical, 0 explained; differing: 0
+pi-5 identity: 6 / 6 identical, 0 explained; differing: 0
+pi-6 identity: 3 / 3 identical, 0 explained; differing: 0
+== 6. per-line scan of the rails families
+line scan: 1 lines left (zero-shot 444 flags; 37 of 37 families with Pāli hits)
+== 7. lines changed against the zero-shot
+total	170 of 27749 lines changed
+== 8. rerun stability (outputs against the previous run)
+rerun: first run, md5s recorded
+termbase sha256 faef9155a30b (locked, read only; recorded faef9155a30b)
+SOME CHECKS FAILED

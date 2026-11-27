@@ -1,0 +1,36 @@
+    ('Ekamūlakaṃ', [
+        # pi-6 'based on one root in common' and pi-3 'section label …' not attested; the counted mūlaka (T6)
+        ('the one-condition series, the counts that start from a single condition (heading)',
+         ['အကြောင်း တစ်ခုကို အခြေခံခြင်း']),
+    ]),
+    ('Anulomaṃ', [
+        # pi-6 sense kept for the order; the mind moment is new (brief; map-harmonise §B kept: sense, harmonise H1)
+        ('the affirmative form of the paired questions, in the headings of each section (heading member), here the '
+         'positive method of the Paṭṭhāna counts', ['အဟုတ်ပြ ပုံစံ']),
+        ('conformity, the cognitive moment before change-of-lineage (nominative sg.)', ['လျော်ညီခြင်း စိတ်']),
+    ]),
+    ('Anantara', [
+        # pi-5 sense 1 is the proximity relation itself (Kathāvatthu 5-22-3-1-0 Anantarapaccayakathā): both pi-7
+        # values are the text's word for it, bare name (ghaṭanā lists) and «…ဟူသော အကြောင်း» name (T1-T4 grammar)
+        ('contiguity, the proximity relation, in anantarapaccaya (compound member), here the proximity condition, by '
+         'its bare name in the combination lists and as the named condition in the headings',
+         ['ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း', 'ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း']),
+    ]),
+    ('Jhāna', [
+        # pi-5 value «ဈာန်» stays in its sense (^7-8-4, the bare name in a cut chain); the condition name is new
+        ('meditative absorption, chapter subject (stem and heading), here also the jhāna condition by its bare name '
+         'in an abbreviated chain', ['ဈာန်']),
+        ('jhāna condition, the named condition in the headings (stem)', ['ဈာန်ဟူသော အကြောင်း']),
+    ]),
+    ('Natthi', [
+        # the verb of the notes keeps the pi-6 sense (one lemma, «မရှိ» / «မရှိသည်», f_natthi); the condition is new
+        ("there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present), here 'there is not' in "
+         "the editorial notes", ['မရှိ', 'မရှိသည်']),
+        ('absence condition, by its bare name in the combination lists and as the named condition in the headings '
+         '(stem)', ['မရှိခြင်း', 'မရှိခြင်းဟူသော အကြောင်း']),
+    ]),
+    ('Hetudukaṃ', [
+        # new in pi-7: the two Marathi pi-7 senses; map-harmonise §B kept: sense
+        ('the root dyad, first dyad of the matrix (heading)', ['အမြစ် နှစ်မျိုးတွဲ']),
+        ('pairs with the root condition, combinations in the counts (heading)', ['အမြစ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ']),
+    ]),

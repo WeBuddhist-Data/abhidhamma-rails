@@ -1,0 +1,87 @@
+== preamble (written by the coordinator: a fixed table)
+== rebuild (18 generators in dependency order; make_sample.py --terms rewrites my7-zeroshot-terms.md)
+  make_sample: 2 files (2 s)
+  make_ch1-01: 1 files (3 s)
+  make_ch1-03-05: 3 files (4 s)
+  make_ch2-01-02: 2 files (4 s)
+  make_ch2-03-06: 4 files (7 s)
+  make_ch2-07-11: 5 files (4 s)
+  make_ch2-12-17: 6 files (7 s)
+  make_ch3-01-02: 2 files (7 s)
+  make_ch3-03-06: 4 files (7 s)
+  make_ch3-07-08-10: 3 files (7 s)
+  make_ch3-09: 1 files (9 s)
+  make_ch4-01: 1 files (8 s)
+  make_ch4-02-09: 8 files (20 s)
+  make_ch4-10-14: 5 files (31 s)
+  make_ch4-15-21: 7 files (32 s)
+  make_ch5-01-04: 4 files (82 s)
+  make_ch5-05-12: 8 files (26 s)
+  make_ch5-13-20: 8 files (312 s)
+== --regress (the upstream outputs regenerate identical in memory)
+  make_ch1-01 --regress: 1-02-vedanattika.md identical
+  make_ch2-03-06 --regress: 1-01-kusalattika.md identical
+  make_ch2-12-17 --regress: 2-06-sekkhattika.md identical
+  make_ch3-01-02 --regress: 2-06-sekkhattika.md identical
+  make_ch3-03-06 --regress: 3-02-culantaraduka.md identical
+  make_ch3-07-08-10 --regress: 3-02-culantaraduka.md identical
+  make_ch3-09 --regress: 3-06-oghayogagocchaka.md identical
+  make_ch4-01 --regress: 3-10-upadanagocchaka.md identical
+== check_chapter_ids / pi-7-my/check_text_pe7.py / pi-4-mr/check_marks.py
+(75 chapter files checked; check_text_pe7 deletes its chk-pe/ copies)
+== agents' own checks (0 mismatches, reuse n / n, mutation)
+check_sample: reuse test: terms 110 / 110 identical (of 156 witnessed values); sentences 58 / 58 identical | 0 mismatches
+check_ch1-01: reuse test: terms 114 / 114 identical (of 202 witnessed values); sentences 278 / 278 identical | 0 mismatches
+   --mutate: 9 / 9 planted errors caught
+check_ch1-03-05: reuse test: terms 101 / 101 identical (of 200 witnessed values); sentences 567 / 567 identical | 0 mismatches
+   --mutate: 8 / 8 planted errors caught
+check_ch2-01-02: reuse test: terms 88 / 88 identical (of 210 witnessed values); sentences 461 / 461 identical | 0 mismatches
+   --mutate: 8 / 8 planted errors caught
+check_ch2-03-06: reuse test: terms 90 / 90 identical (of 217 witnessed values); sentences 702 / 702 identical | 0 mismatches
+   --mutate: 9 / 9 planted errors caught
+check_ch2-07-11: reuse test: terms 78 / 78 identical (of 230 witnessed values); sentences 530 / 530 identical | 0 mismatches
+   --mutate: 9 / 9 planted errors caught
+check_ch2-12-17: reuse test: terms 85 / 85 identical (of 244 witnessed values); sentences 300 / 300 identical | 0 mismatches
+   --mutate: 10 / 10 planted errors caught
+check_ch3-01-02: reuse test: terms 89 / 89 identical (of 251 witnessed values); sentences 618 / 618 identical | 0 mismatches
+   --mutate: 10 / 10 planted errors caught
+check_ch3-03-06: reuse test: terms 88 / 88 identical (of 340 witnessed values); sentences 630 / 630 identical | 0 mismatches
+   --mutate: 10 / 10 planted errors caught
+check_ch3-07-08-10: reuse test: terms 89 / 89 identical (of 296 witnessed values); sentences 448 / 448 identical | 0 mismatches
+   --mutate: 10 / 10 planted errors caught
+check_ch3-09: reuse test: terms 81 / 81 identical (of 373 witnessed values); sentences 855 / 855 identical | 0 mismatches
+   --mutate: 11 / 11 planted errors caught
+check_ch4-01: reuse test: terms 93 / 93 identical (of 357 witnessed values); sentences 586 / 586 identical | 0 mismatches
+   --mutate: 12 / 12 planted errors caught
+check_ch4-02-09: reuse test: terms 33 / 33 identical (of 384 witnessed values); sentences 184 / 184 identical | 0 mismatches
+   --mutate: 11 / 11 planted errors caught
+check_ch4-10-14: reuse test: terms 24 / 24 identical (of 478 witnessed values); sentences 113 / 113 identical | 0 mismatches
+   --mutate: 11 / 11 planted errors caught
+check_ch4-15-21: reuse test: terms 25 / 25 identical (of 478 witnessed values); sentences 534 / 534 identical | 0 mismatches
+   --mutate: 14 / 14 planted errors caught
+check_ch5-01-04: reuse test: terms 149 / 149 witnessed in the finished chapters; sentences 222 / 222 identical with pi-1 … pi-6 | 0 mismatches
+   --mutate: 12 / 12 planted errors caught
+check_ch5-05-12: reuse test: terms 154 / 154 witnessed in the finished chapters; sentences 123 / 123 identical with pi-1 … pi-6 | 0 mismatches
+   --mutate: 13 / 13 planted errors caught
+check_ch5-13-20: reuse test: terms 154 / 154 witnessed in the finished chapters; sentences 23 / 23 identical with pi-1 … pi-6 | 0 mismatches
+   --mutate: 14 / 14 planted errors caught
+  check_ch4-10-14 --regress: regress 4-09-dukatika-paramasaduka.md: identical
+  check_ch4-15-21 --regress: regress 4-14-dukatika-saranaduka.md: identical
+== cross-chapter alignment (pi-1-my/align_check_my.py, align_hidden_my.py)
+repeated Pāli sentences: 1074; with differing Burmese: 0; lines compared whole: 1361
+uneven lines 1361 | unmatched repeated sentences: 0
+align_check: 0 differing, 0 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+== pi-1 … pi-6 identity (harmonise_pi123456.py)
+pi-1 identity: 12 / 12 identical, 0 explained; differing: 0
+pi-2 identity: 74 / 74 identical, 0 explained; differing: 0
+pi-3 identity: 2 / 2 identical, 0 explained; differing: 0
+pi-4 identity: 7230 / 7230 identical, 0 explained; differing: 0
+pi-5 identity: 6 / 6 identical, 0 explained; differing: 0
+pi-6 identity: 3 / 3 identical, 0 explained; differing: 0
+== harmonise scan (one form per item; writes harmonise-table.tsv) and lines changed
+30 / 30 items OK
+30 / 30 items OK
+lines changed: 674 (preamble: 0, 1-00: 0, 1-01: 10, 1-02: 0, 1-03: 34, 1-04: 42, 1-05: 11, 2-01: 63, 2-02: 12, 2-03: 6, 2-04: 4, 2-05: 5, 2-06: 6, 2-07: 60, 2-08: 24, 2-09: 0, 2-10: 26, 2-11: 9, 2-12: 1, 2-13: 0, 2-14: 0, 2-15: 1, 2-16: 0, 2-17: 0, 3-01: 5, 3-02: 4, 3-03: 2, 3-04: 0, 3-05: 2, 3-06: 0, 3-07: 6, 3-08: 9, 3-09: 14, 3-10: 6, 4-01: 22, 4-02: 56, 4-03: 13, 4-04: 5, 4-05: 5, 4-06: 5, 4-07: 7, 4-08: 3, 4-09: 7, 4-10: 24, 4-11: 4, 4-12: 1, 4-13: 12, 4-14: 10, 4-15: 46, 4-16: 7, 4-17: 7, 4-18: 10, 4-19: 7, 4-20: 16, 4-21: 16, 5-01: 16, 5-02: 4, 5-03: 0, 5-04: 2, 5-05: 0, 5-06: 0, 5-07: 0, 5-08: 0, 5-09: 1, 5-10: 1, 5-11: 1, 5-12: 2, 5-13: 0, 5-14: 0, 5-15: 0, 5-16: 0, 5-17: 0, 5-18: 0, 5-19: 0, 5-20: 2)
+== merged file (book order = the pi-7 Pāli folder: preamble, then the chapters in number order)
+merged 75 files: 16249 segments (sum over the chapters 16249) OK
+ALL CHECKS PASSED

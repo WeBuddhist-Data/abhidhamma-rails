@@ -1,0 +1,50 @@
+== 0. protected inputs (termbase, zero-shot chapters + merged file, keyword maps, generators + checks, my7_formulas, regen_zeroshot, notes, harmonise files, termbase decisions, map-harmonise-notes, pi-1 … pi-6 final rails + termbases) unchanged
+protected md5: unchanged (292 files)
+termbase sha256: recorded lock
+== 1. reproduction test (build without the layer = the zero-shot), build (zero-shot generators + rails layer), residual rules
+plain build = zero-shot: 75 of 75 files identical
+layer: 23 source patches; 75 files
+3 rule entries; 3 replacements
+124 rules; 1326 replacements; 948 lines changed
+        check: case check: 13838 clauses, 0 left
+rails folder: 75 files
+rails case check: 13838 clauses, 0 left (1 explained)
+== 2. check_chapter_ids / check_text_pe7 (rails copy check_text_pe_rails.py, one file at a time) / pi-4-mr/check_marks.py
+ids+text+marks over 75 files: OK
+typography (no «?», no Zawgyi range, NFC): OK
+== 3. termbase adherence: zero-shot input, rails, classification
+zero-shot: checked 179700; misses 1844 (input file reproduced)
+rails: checked 179700; misses 1695
+1844 zero-shot misses + 0 rails-introduced: ARTEFACT 4, GENUINE 149, INFLECTION 1691
+unverified rows (GENUINE left or unclassified): 0
+misses left: ARTEFACT 4, INFLECTION 1691; GENUINE fixed 143; INFLECTION/ARTEFACT/CONTEXT rows no longer listed 0; GENUINE or unknown left 0
+GENUINE rows of the zero-shot (all fixed in the rails): 149
+== 4. cross-chapter alignment
+align: repeated Pāli sentences: 1074; with differing Burmese: 0; lines compared whole: 1361
+hidden: uneven lines 1361 | unmatched repeated sentences: 0
+align_check: 0 differing, 0 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+== 5. pi-1 … pi-6 identity (every pi-7 sentence that occurs in pi-1 … pi-6 keeps their final rails Burmese)
+pi-1 identity: 12 / 12 identical, 0 explained; differing: 0
+pi-2 identity: 74 / 74 identical, 0 explained; differing: 0
+pi-3 identity: 2 / 2 identical, 0 explained; differing: 0
+pi-4 identity: 7230 / 7230 identical, 0 explained; differing: 0
+pi-5 identity: 6 / 6 identical, 0 explained; differing: 0
+pi-6 identity: 3 / 3 identical, 0 explained; differing: 0
+== 6. per-line scan of the rails families
+line scan: 0 lines left (zero-shot 443 flags; 37 of 37 families with Pāli hits)
+== 7. lines changed against the zero-shot
+total	1094 of 27749 lines changed
+== 8. rerun stability (outputs against the previous run)
+rerun: outputs differ from the previous run:
+< 36c15c8a440a8aaba1e59a4cab5e1130 AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/1-01-kusalattika.md
+> b1ca1e8b9fb53f6e942c7f21617ab447 AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/1-01-kusalattika.md
+< 5a5bd81a0b8c7fe3ae1bf8ee5f3b382c AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/1-05-sankilitthattika.md
+> d2ebfb2ff529bfb426f181fa06f0fc1f AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/1-05-sankilitthattika.md
+< 8f995ea1b17c5a58d7c7a54124f0fff4 AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/2-10-micchattaniyatattika.md
+> 58ba8cbf2c5b55ae502792cf7d6105d8 AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/2-10-micchattaniyatattika.md
+< 0cb966de5ee0739aa5c5dfea32ec6cda AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/4-01-kilesagocchaka.md
+> 74841c1e365930dd3739975b339932f9 AI_translation/burmese/pi-7-burmese-plain-rails_split_chapters/4-01-kilesagocchaka.md
+< 88049b44bb240ca243b37e21b5c6952c 0-INBOX/temp/pipeline/pi-7-my/rails/adherence-classified.tsv
+> 63d2a29f1a4f528295a070d7ce82fa2d 0-INBOX/temp/pipeline/pi-7-my/rails/adherence-classified.tsv
+termbase sha256 ceb0842a98d4 (locked, read only; recorded ceb0842a98d4)
+ALL CHECKS PASSED

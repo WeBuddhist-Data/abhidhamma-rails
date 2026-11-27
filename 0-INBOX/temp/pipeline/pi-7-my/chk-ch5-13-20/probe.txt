@@ -1,0 +1,257 @@
+ORDER_L {'anulome': 'အဟုတ်ပြ ပုံစံ၌', 'paccanīye': 'အငြင်းပြ ပုံစံ၌', 'paccanīyavibhaṅge': 'အငြင်းပြ ပုံစံ၏ ခွဲခြမ်းစိတ်ဖြာခြင်း၌'}
+ORDER_N {'anulomaṃ': 'အဟုတ်ပြ ပုံစံ', 'paccanīyaṃ': 'အငြင်းပြ ပုံစံ', 'anulomapaccanīyaṃ': 'အဟုတ်ပြ အငြင်းပြ ပုံစံ', 'paccanīyānulomaṃ': 'အငြင်းပြ အဟုတ်ပြ ပုံစံ', 'anulomagaṇanā': 'အဟုတ်ပြ ပုံစံ၏ ရေတွက်ချက်', 'paccanīyagaṇanā': 'အငြင်းပြ ပုံစံ၏ ရေတွက်ချက်', 'vibhaṅgo': 'ခွဲခြမ်းစိတ်ဖြာခြင်း', 'paccanīyuddhāro': 'အငြင်းပြ ပုံစံအတွက် ထုတ်နုတ်ချက်'}
+HEAD keys ['(Paṭhamo bhāgo)', 'Dhammānulome', 'Tikapaṭṭhānaṃ', 'Paccayuddeso', 'Paccayaniddeso', 'Pucchāvāro', 'Paccayānulomaṃ', 'Paccayapaccanīyaṃ', 'Paccayānulomapaccanīyaṃ', 'Paccayapaccanīyānulomaṃ', 'Ekamūlakaṃ', 'Dumūlakaṃ', 'Timūlakaṃ', 'Catumūlakaṃ', 'Pañcamūlakaṃ', 'Sabbamūlakaṃ', 'Dumūlakādi', 'Paṭiccavāro', 'Sahajātavāro', 'Paccayavāro', 'Nissayavāro', 'Saṃsaṭṭhavāro', 'Sampayuttavāro', 'Pañhāvāro', 'Vibhaṅgavāro', 'Saṅkhyāvāro', 'Suddhaṃ', 'Paccanīyuddhāro', 'Ghaṭanā', 'Sāmaññaghaṭanā', 'Pakiṇṇakaghaṭanā', 'Saindriya-maggaghaṭanā', 'Sādhipati-indriya-maggaghaṭanā']
+{}
+5-13 ---- Dhammānulomapaccanīye tikatikapaṭṭhānaṃ | 
+5-13 ---- 1-1. Kusalattika-vedanāttikaṃ | 
+5-13 ---- Paccanīyaṃ | 
+5-13 ---- Nahetunaārammaṇapaccayādi | 
+5-13 ---- Akusalapadaṃ | 
+5-13 ---- Hetupaccayo | 
+5-13 ---- Abyākatapadaṃ | 
+5-13 ---- 1-2. Kusalattika-vipākattikaṃ | 
+5-13 ---- 1-3. Kusalattika-upādinnattikaṃ | 
+5-13 ---- 1-4. Kusalattika-saṃkiliṭṭhattikaṃ | 
+5-13 ---- 1-5. Kusalattika-vitakkattikaṃ | 
+5-13 ---- 1-6. Kusalattika-pītittikaṃ | 
+5-13 ---- 1-7. Kusalattika-dassanattikaṃ | 
+5-13 ---- 1-8. Kusalattika-dassanahetuttikaṃ | 
+5-13 ---- 1-9. Kusalattika-ācayagāmittikaṃ | 
+5-13 ---- 1-10. Kusalattika-sekkhattikaṃ | 
+5-13 ---- 1-11. Kusalattika-parittattikaṃ | 
+5-13 ---- 1-12. Kusalattika-parittārammaṇattikaṃ | 
+5-13 ---- 1-13. Kusalattika-hīnattikaṃ | 
+5-13 ---- 1-14. Kusalattika-micchattaniyatattikaṃ | 
+5-13 ---- 1-15. Kusalattika-maggārammaṇattikaṃ | 
+5-13 ---- 1-16. Kusalattika-uppannattikaṃ | 
+5-13 ---- 1-17. Kusalattika-atītattikaṃ | 
+5-13 ---- 1-18. Kusalattika-atītārammaṇattikaṃ | 
+5-13 ---- 1-19-20. Kusalattika-ajjhattattikadvayaṃ | 
+5-13 ---- 1-21. Kusalattika-sanidassanattikaṃ | 
+5-13 ---- 2-1. Vedanāttika-kusalattikaṃ | 
+5-13 ---- 3-1. Vipākattika-kusalattikaṃ | 
+5-13 ---- 4-1. Upādinnattika-kusalattikaṃ | 
+5-13 ---- 5-1. Saṃkiliṭṭhattika-kusalattikaṃ | 
+5-13 ---- 6-1. Vitakkattika-kusalattikaṃ | 
+5-13 ---- 7-1. Pītittika-kusalattikaṃ | 
+5-13 ---- 22-1. Sanidassanattika-kusalattikaṃ | 
+5-13 ---- 22-2. Sanidassanattika-vedanāttikaṃ | 
+5-13 ---- 22-3. Sanidassanattika-vipākattikaṃ | 
+5-13 ---- 22-4. Sanidassanattika-upādinnattikaṃ | 
+5-13 ---- 22-5. Sanidassanattika-saṃkiliṭṭhattikaṃ | 
+5-13 ---- 22-6-20. Sanidassanattika-vitakkattikādi | 
+5-13 ---- 22-21. Sanidassanattika-ajjhattārammaṇattikaṃ | 
+5-14 ---- Dhammānulomapaccanīye dukadukapaṭṭhānaṃ | 
+5-14 ---- 1-1. Hetuduka-sahetukadukaṃ | 
+5-14 ---- Hetu-ārammaṇapaccayā | 
+5-14 ---- 1-2. Hetuduka-hetusampayuttadukaṃ | 
+5-14 ---- 1-3-5. Hetuduka-hetusahetukādidukāni | 
+5-14 ---- 1-6-12. Hetuduka-cūḷantaradukādi | 
+5-14 ---- 1-13-18. Hetuduka-āsavagocchakaṃ | 
+5-14 ---- 1-19-53. Hetuduka-saññojanādigocchakaṃ | 
+5-14 ---- 1-54-81. Hetuduka-mahantaradukādi | 
+5-14 ---- 1-82-98. Hetuduka-dassanenapahātabbadukādi | 
+5-14 ---- 1-99. Hetuduka-saraṇadukaṃ | 
+5-14 ---- 2-1. Sahetukaduka-hetudukaṃ | 
+5-14 ---- 3-1. Hetusampayuttaduka-hetudukaṃ | 
+5-14 ---- 4-1. Hetusahetukaduka-hetudukaṃ | 
+5-14 ---- 5-1. Hetuhetusampayuttaduka-hetudukaṃ | 
+5-14 ---- 7-13-1. Cūḷantaradukādi-hetudukaṃ | 
+5-14 ---- 14-1. Āsavaduka-hetudukaṃ | 
+5-14 ---- 15-1. Sāsavaduka-hetudukaṃ | 
+5-14 ---- 16-1. Āsavasampayuttaduka-hetudukaṃ | 
+5-14 ---- 17-1. Āsavasāsavaduka-hetudukaṃ | 
+5-14 ---- 18-1. Āsavaāsavasampayuttaduka-hetudukaṃ | 
+5-14 ---- 19-1. Āsavavippayuttasāsavaduka-hetudukaṃ | 
+5-14 ---- 20-54-1. Saññojanagocchakādi-hetudukaṃ | 
+5-14 ---- 55-68-1. Mahantaradukādi-hetudukaṃ | 
+5-14 ---- 69-82-1. Upādānagocchakādi-hetudukaṃ | 
+5-14 ---- 83-1. Piṭṭhiduka-hetudukaṃ | 
+5-14 ---- 100-1-6. Saraṇaduka-hetudukādi | 
+5-14 ---- 100-7-13. Saraṇaduka-cūḷantaradukādi | 
+5-14 ---- 100-14-54. Saraṇaduka-āsavādigocchakāni | 
+5-14 ---- 100-55-82. Saraṇaduka-mahantaradukādi | 
+5-14 ---- 100-83. Saraṇaduka-piṭṭhidukaṃ | 
+5-15 ---- Dhammapaccanīyānulome tikapaṭṭhānaṃ | 
+5-15 ---- Kusalattikaṃ | 
+5-15 ---- 1-2. Paṭiccavārādi | 
+5-15 ---- Paccayacatukkaṃ | 
+5-15 ---- Nahetu-naārammaṇapaccayā | 
+5-15 ---- 3-6. Paccayavārādi | 
+5-15 ---- Pañhāvāro | 
+5-15 ---- Ārammaṇapaccayo | 
+5-15 ---- Vedanāttikaṃ | 
+5-15 KNOWN 1-7. Paṭiccavārādi | 1-7. မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက် စသည်
+5-15 ---- Vipākattikaṃ | 
+5-15 ---- Upādinnattikaṃ | 
+5-15 ---- Saṃkiliṭṭhattikaṃ | 
+5-15 ---- Vitakkattikaṃ | 
+5-15 ---- Pītittikaṃ | 
+5-15 ---- Dassanattikaṃ | 
+5-15 ---- Dassanahetuttikaṃ | 
+5-15 ---- Ācayagāmittikaṃ | 
+5-15 ---- Sekkhattikaṃ | 
+5-15 ---- 12-16. Parittattikādi | 
+5-15 ---- Uppannattikaṃ | 
+5-15 ---- 18-19. Atītattikadvayaṃ | 
+5-15 ---- 20-21. Ajjhattattikadvayaṃ | 
+5-15 ---- Sanidassanattikaṃ | 
+5-16 ---- Dhammapaccanīyānulome dukapaṭṭhānaṃ | 
+5-16 ---- 1-6. Hetugocchakaṃ | 
+5-16 ---- 7-13. Cūḷantaradukādi | 
+5-16 ---- 14-19. Āsavagocchakaṃ | 
+5-16 ---- 20-54. Saññojanādichagocchakāni | 
+5-16 ---- 55-68. Mahantaradukādi | 
+5-16 ---- 69-74. Upādānagocchakaṃ | 
+5-16 ---- 75-82. Kilesagocchakaṃ | 
+5-16 ---- 83-99. Piṭṭhidukaṃ | 
+5-16 KNOWN Saraṇadukaṃ | ပဋိပက္ခ ရှိခြင်း နှစ်မျိုးတွဲ
+5-16 ---- Nahetupaccayo | 
+5-16 ---- Paccanīyuddhāro | 
+5-17 ---- Dhammapaccanīyānulome dukatikapaṭṭhānaṃ | 
+5-17 ---- 1-1. Hetuduka-kusalattikaṃ | 
+5-17 ---- 2-4-1. Sahetukādidukāni-kusalattikaṃ | 
+5-17 ---- 5-1. Hetuhetusampayuttaduka-kusalattikaṃ | 
+5-17 ---- 6-1. Nahetusahetukaduka-kusalattikaṃ | 
+5-17 ---- 7-13-1. Cūḷantaradukāni-kusalattikaṃ | 
+5-17 ---- 14-1. Āsavaduka-kusalattikaṃ | 
+5-17 ---- 15-1. Sāsavaduka-kusalattikaṃ | 
+5-17 ---- 16-1. Āsavasampayuttaduka-kusalattikaṃ | 
+5-17 ---- 17-1. Āsavasāsavaduka-kusalattikaṃ | 
+5-17 ---- 19-1. Āsavavippayuttasāsavaduka-kusalattikaṃ | 
+5-17 ---- 20-54-1. Saññojanādichagocchakāni-kusalattikaṃ | 
+5-17 ---- 55-68-1. Mahantaradukāni-kusalattikaṃ | 
+5-17 ---- 69-74-1. Upādānadukādi-kusalattikaṃ | 
+5-17 ---- 75-82-1. Kilesadukādi-kusalattikaṃ | 
+5-17 ---- 83-100-1. Piṭṭhidukāni-kusalattikaṃ | 
+5-17 ---- 1-2. Hetuduka-vedanāttikaṃ | 
+5-17 ---- 1-3. Hetuduka-vipākattikaṃ | 
+5-17 ---- 1-4. Hetuduka-upādinnattikaṃ | 
+5-17 ---- 1-5. Hetuduka-saṃkiliṭṭhattikaṃ | 
+5-17 ---- 1-6. Hetuduka-vitakkattikaṃ | 
+5-17 ---- 1-7. Hetuduka-pītittikaṃ | 
+5-17 ---- 1-8. Hetuduka-dassanattikaṃ | 
+5-17 ---- 1-9. Hetuduka-dassanahetuttikaṃ | 
+5-17 ---- 1-10. Hetuduka-ācayagāmittikaṃ | 
+5-17 ---- 1-11. Hetuduka-sekkhattikaṃ | 
+5-17 ---- 1-12. Hetuduka-parittattikaṃ | 
+5-17 ---- 1-13. Hetuduka-parittārammaṇattikaṃ | 
+5-17 ---- 1-14. Hetuduka-hīnattikaṃ | 
+5-17 ---- 1-15. Hetuduka-micchattaniyatattikaṃ | 
+5-17 ---- 1-16. Hetuduka-maggārammaṇattikaṃ | 
+5-17 ---- 1-17. Hetuduka-uppannattikaṃ | 
+5-17 ---- 1-18. Hetuduka-atītattikaṃ | 
+5-17 ---- 1-19. Hetuduka-atītārammaṇattikaṃ | 
+5-17 ---- 1-20. Hetuduka-ajjhattattikaṃ | 
+5-17 ---- 1-21. Hetuduka-ajjhattārammaṇattikaṃ | 
+5-17 ---- 1-22. Hetuduka-sanidassanattikaṃ | 
+5-17 ---- 2-5-22. Sahetukādidukāni-sanidassanattikaṃ | 
+5-17 ---- 6-22. Nahetusahetukaduka-sanidassanattikaṃ | 
+5-17 ---- 7-8-22. Sappaccayadukādi-sanidassanattikaṃ | 
+5-17 ---- 9-22. Sanidassanaduka-sanidassanattikaṃ | 
+5-17 ---- 10-22. Sappaṭighaduka-sanidassanattikaṃ | 
+5-17 ---- 11-22. Rūpīduka-sanidassanattikaṃ | 
+5-17 ---- 12-22. Lokiyaduka-sanidassanattikaṃ | 
+5-17 ---- 13-22. Kenaciviññeyyaduka-sanidassanattikaṃ | 
+5-17 ---- 14-22. Āsavaduka-sanidassanattikaṃ | 
+5-17 ---- 15-22. Sāsavaduka-sanidassanattikaṃ | 
+5-17 ---- 16-22. Āsavasampayuttaduka-sanidassanattikaṃ | 
+5-17 ---- 17-22. Āsavasāsavadukādi-sanidassanattikaṃ | 
+5-17 ---- 19-22. Āsavavippayuttasāsavaduka-sanidassanattikaṃ | 
+5-17 ---- 20-54-22. Saññojanādichagocchakāni-sanidassanattikaṃ | 
+5-17 ---- 55-68-22. Mahantaradukādi-sanidassanattikaṃ | 
+5-17 ---- 69-74-22. Upādānadukādi-sanidassanattikaṃ | 
+5-17 ---- 75-82-22. Kilesadukādi-sanidassanattikaṃ | 
+5-17 ---- 83-100-22. Piṭṭhidukādi-sanidassanattikaṃ | 
+5-18 ---- Dhammapaccanīyānulome tikadukapaṭṭhānaṃ | 
+5-18 ---- 1-1. Kusalattika-hetudukaṃ | 
+5-18 ---- 1-2. Kusalattika-sahetukadukaṃ | 
+5-18 ---- 1-3. Kusalattika-hetusampayuttadukaṃ | 
+5-18 ---- 1-4-6. Kusalattika-hetusahetukādidukāni | 
+5-18 ---- 1-7-13. Kusalattika-cūḷantaradukāni | 
+5-18 ---- 1-14. Kusalattika-āsavagocchakaṃ | 
+5-18 ---- 1-20-54. Kusalattika-saññojanādigocchakāni | 
+5-18 ---- 1-55-92. Kusalattika-mahantaradukāni | 
+5-18 ---- 1-93. Kusalattika-kāmāvacaradukaṃ | 
+5-18 ---- 1-94. Kusalattika-rūpāvacaradukaṃ | 
+5-18 ---- 1-95. Kusalattika-arūpāvacaradukaṃ | 
+5-18 ---- 1-96. Kusalattika-pariyāpannadukaṃ | 
+5-18 ---- 1-97. Kusalattika-niyyānikadukaṃ | 
+5-18 ---- 1-98. Kusalattika-niyatadukaṃ | 
+5-18 ---- 1-99. Kusalattika-sauttaradukaṃ | 
+5-18 ---- 1-100. Kusalattika-saraṇadukaṃ | 
+5-18 ---- 2-1. Vedanāttika-hetudukaṃ | 
+5-18 ---- 3-1. Vipākattika-hetudukaṃ | 
+5-18 ---- 4-1. Upādinnattika-hetudukaṃ | 
+5-18 ---- 5-1. Saṃkiliṭṭhattika-hetudukaṃ | 
+5-18 ---- 6-11-1. Vitakkādittikāni-hetudukaṃ | 
+5-18 ---- 12-13-1. Parittattikadvaya-hetudukaṃ | 
+5-18 ---- 14-17-1. Hīnādittikāni-hetudukaṃ | 
+5-18 ---- 18-19-1. Atītattikadvaya-hetudukaṃ | 
+5-18 ---- 20-21-1. Ajjhattattikadvaya-hetudukaṃ | 
+5-18 ---- 22-1. Sanidassanattika-hetudukaṃ | 
+5-18 ---- 22-2. Sanidassanattika-sahetukadukaṃ | 
+5-18 ---- 22-3-6. Sanidassanattika-hetusampayuttādidukāni | 
+5-18 ---- 22-7-13. Sanidassanattika-cūḷantaradukāni | 
+5-18 ---- 22-14-19. Sanidassanattika-āsavagocchakāni | 
+5-18 ---- 22-20-54. Sanidassanattika-saññojanādigocchakāni | 
+5-18 ---- 22-55-68. Sanidassanattika-mahantaradukāni | 
+5-18 ---- 22-69-74. Sanidassanattika-upādānādidukāni | 
+5-18 ---- 22-75-82. Sanidassanattika-kilesādidukāni | 
+5-18 ---- 22-83-99. Sanidassanattika-piṭṭhidukāni | 
+5-18 ---- 22-100. Sanidassanattika-saraṇadukaṃ | 
+5-18 ---- Hetuārammaṇapaccayādi | 
+5-19 ---- Dhammapaccanīyānulome tikatikapaṭṭhānaṃ | 
+5-19 ---- 1-17-18. Kusalattika-atītattikadvayaṃ | 
+5-19 ---- 8-1. Dassanattika-kusalattikaṃ | 
+5-19 ---- 9-1. Dassanahetuttika-kusalattikaṃ | 
+5-19 ---- 10-1. Ācayagāmittika-kusalattikaṃ | 
+5-19 ---- 11-1. Sekkhattika-kusalattikaṃ | 
+5-19 ---- 12-1. Parittattika-kusalattikaṃ | 
+5-19 ---- 13-1. Parittārammaṇattika-kusalattikaṃ | 
+5-19 ---- 14-1. Hīnattika-kusalattikaṃ | 
+5-19 ---- 15-1. Micchattaniyatattika-kusalattikaṃ | 
+5-19 ---- 16-1. Maggārammaṇattika-kusalattikaṃ | 
+5-19 ---- 17-18-1. Uppannādittikāni-kusalattikaṃ | 
+5-19 ---- 19-1. Atītārammaṇattika-kusalattikaṃ | 
+5-19 ---- 20-1. Ajjhattattika-kusalattikaṃ | 
+5-19 ---- 21-1. Ajjhattārammaṇattika-kusalattikaṃ | 
+5-19 ---- 22-6. Sanidassanattika-vitakkattikaṃ | 
+5-19 ---- 22-7. Sanidassanattika-pītittikaṃ | 
+5-19 ---- 22-8. Sanidassanattika-dassanattikaṃ | 
+5-19 ---- 22-9. Sanidassanattika-dassanahetuttikaṃ | 
+5-19 ---- 22-10. Sanidassanattika-ācayagāmittikaṃ | 
+5-19 ---- 22-11. Sanidassanattika-sekkhattikaṃ | 
+5-19 ---- 22-12. Sanidassanattika-parittattikaṃ | 
+5-19 ---- 22-13. Sanidassanattika-parittārammaṇattikaṃ | 
+5-19 ---- 22-14. Sanidassanattika-hīnattikaṃ | 
+5-19 ---- 22-15. Sanidassanattika-micchattaniyatattikaṃ | 
+5-19 ---- 22-16. Sanidassanattika-maggārammaṇattikaṃ | 
+5-19 ---- 22-17. Sanidassanattika-uppannattikaṃ | 
+5-19 ---- 22-18. Sanidassanattika-atītattikaṃ | 
+5-19 ---- 22-19. Sanidassanattika-atītārammaṇattikaṃ | 
+5-19 ---- 22-20-21. Sanidassanattika-ajjhattattikadvayaṃ | 
+5-20 ---- Dhammapaccanīyānulome dukadukapaṭṭhānaṃ | 
+5-20 ---- 1-2-5. Hetuduka-hetusampayuttādidukāni | 
+5-20 ---- 1-6-12. Hetuduka-cūḷantaradukāni | 
+5-20 ---- 1-13-18. Hetuduka-āsavagocchakāni | 
+5-20 ---- 1-19. Hetuduka-saññojanādigocchakāni | 
+5-20 ---- 1-54. Hetuduka-mahantaradukaṃ | 
+5-20 ---- 1-68. Hetuduka-upādānagocchakaṃ | 
+5-20 ---- 1-74. Hetuduka-kilesagocchakaṃ | 
+5-20 ---- 1-82. Hetuduka-piṭṭhidukaṃ | 
+5-20 ---- 2-1. Sahetukādidukāni-hetudukaṃ | 
+5-20 ---- 7-13-1. Cūḷantaradukāni-hetudukaṃ | 
+5-20 ---- 14-1. Āsavagocchaka-hetudukaṃ | 
+5-20 ---- 55-1. Mahantaraduka-hetudukaṃ | 
+5-20 ---- 100-1. Saraṇaduka-hetudukaṃ | 
+5-20 ---- 100-2. Saraṇaduka-sahetukadukaṃ | 
+5-20 ---- 100-3. Saraṇaduka-hetusampayuttadukaṃ | 
+5-20 ---- 100-4. Saraṇaduka-hetusahetukadukādi | 
+5-20 ---- 100-6. Saraṇaduka-nahetusahetukadukaṃ | 
+5-20 ---- 100-7. Saraṇaduka-cūḷantaradukaṃ | 
+5-20 ---- 100-14-54. Saraṇaduka-āsavagocchakādi | 
+5-20 ---- Anuttarapadaṃ | 
+5-20 ---- Hetu-anantarapaccayā | 
+GNAME {'Hetugocchakaṃ': 'အမြစ်တို့၏ အစု', 'Cūḷantaradukaṃ': 'ကြားညှပ် နှစ်မျိုးတွဲ အစုငယ်', 'asava': 'စိတ်အစွန်းအထင်းတို့၏ အစု', 'sannojana': 'နှောင်ကြိုးတို့၏ အစု', 'gantha': 'အထုံးတို့၏ အစု', 'ogha': 'ရေအလျဉ်တို့၏ အစု', 'yoga': 'ထမ်းပိုးတို့၏ အစု', 'Nīvaraṇagocchakaṃ': 'အတားအဆီးတို့၏ အစု', 'Parāmāsagocchakaṃ': 'မှားယွင်းသော ယူဆမှုတို့၏ အစု', 'Upādānagocchakaṃ': 'စွဲလမ်းမှုတို့၏ အစု', 'Kilesagocchakaṃ': 'ကိလေသာတို့၏ အစု', 'Piṭṭhidukaṃ': 'နောက်ဆုံး နှစ်မျိုးတွဲများ', 'Mahantaradukaṃ': 'ကြားညှပ် နှစ်မျိုးတွဲ အစုကြီး', 'Āsavagocchakaṃ': 'စိတ်အစွန်းအထင်းတို့၏ အစု', 'Saññojanagocchakaṃ': 'နှောင်ကြိုးတို့၏ အစု', 'Ganthagocchakaṃ': 'အထုံးတို့၏ အစု', 'Oghagocchakaṃ': 'ရေအလျဉ်တို့၏ အစု', 'Yogagocchakaṃ': 'ထမ်းပိုးတို့၏ အစု'}
+DUKA_NAME {'Hetudukaṃ': 'အမြစ် နှစ်မျိုးတွဲ', 'Sahetukadukaṃ': 'အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ', 'Hetusampayuttadukaṃ': 'အမြစ်နှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Hetusahetukadukaṃ': 'အမြစ် ဖြစ်ခြင်းနှင့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ', 'Hetuhetusampayuttadukaṃ': 'အမြစ် ဖြစ်ခြင်းနှင့် အမြစ်နှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Nahetusahetukadukaṃ': 'အမြစ် မဟုတ်ခြင်းနှင့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ', 'Sappaccayadukaṃ': 'အကြောင်း ရှိခြင်း နှစ်မျိုးတွဲ', 'Saṅkhatadukaṃ': 'ပြုပြင်ဖန်တီးထားခြင်း နှစ်မျိုးတွဲ', 'Sanidassanadukaṃ': 'မြင်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Sappaṭighadukaṃ': 'ထိခိုက်မှု ရှိခြင်း နှစ်မျိုးတွဲ', 'Rūpīdukaṃ': 'ရုပ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Lokiyadukaṃ': 'လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ', 'Kenaciviññeyyadukaṃ': 'တစ်စုံတစ်ခုသော စိတ်ဖြင့် သိနိုင်ခြင်း နှစ်မျိုးတွဲ', 'Āsavadukaṃ': 'စိတ်အစွန်းအထင်း နှစ်မျိုးတွဲ', 'Sāsavadukaṃ': 'စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Āsavasampayuttadukaṃ': 'စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Āsavasāsavadukaṃ': 'စိတ်အစွန်းအထင်း ဖြစ်ခြင်းနှင့် စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Āsavaāsavasampayuttadukaṃ': 'စိတ်အစွန်းအထင်း ဖြစ်ခြင်းနှင့် စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Āsavavippayuttasāsavadukaṃ': 'စိတ်အစွန်းအထင်းနှင့် ကင်းကွာခြင်းနှင့် စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Saññojanadukaṃ': 'နှောင်ကြိုး နှစ်မျိုးတွဲ', 'Saññojaniyadukaṃ': 'နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Saññojanasampayuttadukaṃ': 'နှောင်ကြိုးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Saññojanasaññojaniyadukaṃ': 'နှောင်ကြိုး ဖြစ်ခြင်းနှင့် နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Saññojanasaññojanasampayuttadukaṃ': 'နှောင်ကြိုး ဖြစ်ခြင်းနှင့် နှောင်ကြိုးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Saññojanavippayuttasaññojaniyadukaṃ': 'နှောင်ကြိုးနှင့် ကင်းကွာခြင်းနှင့် နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Ganthadukaṃ': 'အထုံး နှစ်မျိုးတွဲ', 'Ganthaniyadukaṃ': 'အထုံး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Ganthasampayuttadukaṃ': 'အထုံးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Ganthaganthaniyadukaṃ': 'အထုံး ဖြစ်ခြင်းနှင့် အထုံး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Ganthaganthasampayuttadukaṃ': 'အထုံး ဖြစ်ခြင်းနှင့် အထုံးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Ganthavippayuttaganthaniyadukaṃ': 'အထုံးနှင့် ကင်းကွာခြင်းနှင့် အထုံး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Oghadukaṃ': 'ရေအလျဉ် နှစ်မျိုးတွဲ', 'Oghaniyadukaṃ': 'ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Oghasampayuttadukaṃ': 'ရေအလျဉ်နှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Oghaoghaniyadukaṃ': 'ရေအလျဉ် ဖြစ်ခြင်းနှင့် ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Oghaoghasampayuttadukaṃ': 'ရေအလျဉ် ဖြစ်ခြင်းနှင့် ရေအလျဉ်နှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Oghavippayuttaoghaniyadukaṃ': 'ရေအလျဉ်နှင့် ကင်းကွာခြင်းနှင့် ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Yogadukaṃ': 'ထမ်းပိုး နှစ်မျိုးတွဲ', 'Yoganiyadukaṃ': 'ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Yogasampayuttadukaṃ': 'ထမ်းပိုးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Yogayoganiyadukaṃ': 'ထမ်းပိုး ဖြစ်ခြင်းနှင့် ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Yogayogasampayuttadukaṃ': 'ထမ်းပိုး ဖြစ်ခြင်းနှင့် ထမ်းပိုးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Yogavippayuttayoganiyadukaṃ': 'ထမ်းပိုးနှင့် ကင်းကွာခြင်းနှင့် ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Sārammaṇadukaṃ': 'အာရုံ ရှိခြင်း နှစ်မျိုးတွဲ', 'Cittadukaṃ': 'စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Cetasikadukaṃ': 'စိတ်၏ အဖော် ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Cittasampayuttadukaṃ': 'စိတ်နှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Cittasaṃsaṭṭhadukaṃ': 'စိတ်နှင့် ရောနှောခြင်း နှစ်မျိုးတွဲ', 'Cittasamuṭṭhānadukaṃ': 'စိတ်မှ ဖြစ်ပေါ်လာခြင်း နှစ်မျိုးတွဲ', 'Cittasahabhūdukaṃ': 'စိတ်နှင့်အတူ တည်ရှိခြင်း နှစ်မျိုးတွဲ', 'Cittānuparivattidukaṃ': 'စိတ်နောက်သို့ လိုက်ပါခြင်း နှစ်မျိုးတွဲ', 'Cittasaṃsaṭṭhasamuṭṭhānadukaṃ': 'စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာခြင်း နှစ်မျိုးတွဲ', 'Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ': 'စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာပြီး စိတ်နှင့်အတူ တည်ရှိခြင်း နှစ်မျိုးတွဲ', 'Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ': 'စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာပြီး စိတ်နောက်သို့ လိုက်ပါခြင်း နှစ်မျိုးတွဲ', 'Ajjhattikadukaṃ': 'အတွင်းပိုင်း ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Upādādukaṃ': 'မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Upādinnadukaṃ': 'ကံကြောင့် ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Nīvaraṇadukaṃ': 'အတားအဆီး နှစ်မျိုးတွဲ', 'Nīvaraṇiyadukaṃ': 'အတားအဆီး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Nīvaraṇasampayuttadukaṃ': 'အတားအဆီးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Nīvaraṇanīvaraṇiyadukaṃ': 'အတားအဆီး ဖြစ်ခြင်းနှင့် အတားအဆီး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Nīvaraṇanīvaraṇasampayuttadukaṃ': 'အတားအဆီး ဖြစ်ခြင်းနှင့် အတားအဆီးနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Nīvaraṇavippayuttanīvaraṇiyadukaṃ': 'အတားအဆီးနှင့် ကင်းကွာခြင်းနှင့် အတားအဆီး၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Parāmāsadukaṃ': 'မှားယွင်းသော ယူဆမှု နှစ်မျိုးတွဲ', 'Parāmaṭṭhadukaṃ': 'မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Parāmāsasampayuttadukaṃ': 'မှားယွင်းသော ယူဆမှုနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Parāmāsaparāmaṭṭhadukaṃ': 'မှားယွင်းသော ယူဆမှု ဖြစ်ခြင်းနှင့် မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Parāmāsavippayuttaparāmaṭṭhadukaṃ': 'မှားယွင်းသော ယူဆမှုနှင့် ကင်းကွာခြင်းနှင့် မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Upādānadukaṃ': 'စွဲလမ်းမှု နှစ်မျိုးတွဲ', 'Upādāniyadukaṃ': 'စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Upādānasampayuttadukaṃ': 'စွဲလမ်းမှုနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Upādānaupādāniyadukaṃ': 'စွဲလမ်းမှု ဖြစ်ခြင်းနှင့် စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Upādānaupādānasampayuttadukaṃ': 'စွဲလမ်းမှု ဖြစ်ခြင်းနှင့် စွဲလမ်းမှုနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Upādānavippayuttaupādāniyadukaṃ': 'စွဲလမ်းမှုနှင့် ကင်းကွာခြင်းနှင့် စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Kilesadukaṃ': 'ကိလေသာ နှစ်မျိုးတွဲ', 'Saṃkilesikadukaṃ': 'ကိလေသာ၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Saṃkiliṭṭhadukaṃ': 'ကိလေသာဖြင့် ညစ်နွမ်းခြင်း နှစ်မျိုးတွဲ', 'Kilesasampayuttadukaṃ': 'ကိလေသာနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Kilesasaṃkilesikadukaṃ': 'ကိလေသာ ဖြစ်ခြင်းနှင့် ကိလေသာ၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Kilesasaṃkiliṭṭhadukaṃ': 'ကိလေသာ ဖြစ်ခြင်းနှင့် ကိလေသာဖြင့် ညစ်နွမ်းခြင်း နှစ်မျိုးတွဲ', 'Kilesakilesasampayuttadukaṃ': 'ကိလေသာ ဖြစ်ခြင်းနှင့် ကိလေသာနှင့် ယှဉ်တွဲခြင်း နှစ်မျိုးတွဲ', 'Kilesavippayuttasaṃkilesikadukaṃ': 'ကိလေသာနှင့် ကင်းကွာခြင်းနှင့် ကိလေသာ၏ အာရုံ ဖြစ်နိုင်ခြင်း နှစ်မျိုးတွဲ', 'Dassanenapahātabbadukaṃ': 'သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ခြင်း နှစ်မျိုးတွဲ', 'Bhāvanāyapahātabbadukaṃ': 'ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ခြင်း နှစ်မျိုးတွဲ', 'Dassanenapahātabbahetukadukaṃ': 'သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် နှစ်မျိုးတွဲ', 'Bhāvanāyapahātabbahetukadukaṃ': 'ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့် အမြစ် နှစ်မျိုးတွဲ', 'Savitakkadukaṃ': 'စတင်ကြံစည်မှု ရှိခြင်း နှစ်မျိုးတွဲ', 'Savicāradukaṃ': 'ဆက်လက်သုံးသပ်မှု ရှိခြင်း နှစ်မျိုးတွဲ', 'Sappītikadukaṃ': 'ပီတိ ရှိခြင်း နှစ်မျိုးတွဲ', 'Pītisahagatadukaṃ': 'ပီတိနှင့်အတူ ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Sukhasahagatadukaṃ': 'သာယာမှုနှင့်အတူ ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Upekkhāsahagatadukaṃ': 'ဥပေက္ခာနှင့်အတူ ဖြစ်ခြင်း နှစ်မျိုးတွဲ', 'Kāmāvacaradukaṃ': 'ကာမဘုံနှင့် ဆိုင်ခြင်း နှစ်မျိုးတွဲ', 'Rūpāvacaradukaṃ': 'သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်ခြင်း နှစ်မျိုးတွဲ', 'Arūpāvacaradukaṃ': 'ရုပ်မရှိသော ဘုံနှင့် ဆိုင်ခြင်း နှစ်မျိုးတွဲ', 'Pariyāpannadukaṃ': 'ဘဝဘုံတို့၌ အကျုံးဝင်ခြင်း နှစ်မျိုးတွဲ', 'Niyyānikadukaṃ': 'လွတ်မြောက်ရာသို့ ပို့ဆောင်ခြင်း နှစ်မျိုးတွဲ', 'Niyatadukaṃ': 'ကျိန်းသေခြင်း နှစ်မျိုးတွဲ', 'Sauttaradukaṃ': 'ထိုထက် သာလွန်သည် ရှိခြင်း နှစ်မျိုးတွဲ', 'Saraṇadukaṃ': 'ပဋိပက္ခ ရှိခြင်း နှစ်မျိုးတွဲ'}

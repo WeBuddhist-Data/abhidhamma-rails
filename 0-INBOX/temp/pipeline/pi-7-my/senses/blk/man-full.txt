@@ -1,0 +1,121 @@
+    # ---- condition names: the binding value stays in its sense, the «…ဟူသော အကြောင်း» name is the condition ----
+    ('Atthi', [
+        ('there is, exists (3rd sg. present), here in an editorial note', ['ရှိသည်']),
+        ('presence condition, by its bare name in the combination lists and as the named condition in a heading '
+         '(stem)', ['ရှိခြင်း', 'ရှိခြင်းဟူသော အကြောင်း']),
+    ]),
+    ('indriya', [
+        ("sense faculty, in indriyabaddha 'bound to the faculties' (compound member), here the faculties as a "
+         "category, in indriyapaññatti, here also the faculty condition by its bare name in the combination lists",
+         ['စွမ်းရည်']),
+        ('faculty condition, the named condition in the headings (stem)', ['စွမ်းရည်ဟူသော အကြောင်း']),
+    ]),
+    ('Sahajāta', [
+        ('born together (compound member), here also the co-arising condition by its bare name in the combination '
+         'lists and section names, and the adjective in a heading', ['အတူ ပေါ်ပေါက်ခြင်း', 'အတူ ပေါ်ပေါက်သော']),
+        ('co-arising condition, the named condition in a heading (stem)', ['အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း']),
+    ]),
+    ('adhipati', [
+        ('predominance, dominant factor (heading), here also the predominance condition by its bare name in the '
+         'combination lists', ['အကြီးအမှူး']),
+        ('predominance condition, the named condition in the headings (stem)', ['အကြီးအမှူးဟူသော အကြောင်း']),
+    ]),
+    ('Aññamañña', [
+        # pi-5 / pi-2 sense is the reciprocity relation itself (5-23-2-1-0 Aññamaññapaccayakathā): both pi-7 values
+        ('mutuality, reciprocity (heading member), here the mutuality condition, by its bare name in the '
+         'combination lists and as the named condition in the headings',
+         ['အချင်းချင်း ထောက်ပံ့ခြင်း', 'အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း']),
+    ]),
+    ('Ārammaṇa', [
+        ('object of the mind, what the mind takes up (compound member), here also the object condition by its bare '
+         'name in the combination lists', ['အာရုံ']),
+        ('object condition, the named condition in the headings (stem)', ['အာရုံဟူသော အကြောင်း']),
+    ]),
+    ('vipāka', [
+        ('resultant, born as the result of action (compound member), here also the result condition by its bare name '
+         'in the combination lists', ['ကံ၏ အကျိုး']),
+        ('result condition, the named condition in a heading (stem)', ['ကံ၏ အကျိုးဟူသော အကြောင်း']),
+    ]),
+    ('Kamma', [
+        ('deeds, as compound member, here also the kamma condition by its bare name in the combination lists', ['ကံ']),
+        ('kamma condition, the named condition in the headings (stem)', ['ကံဟူသော အကြောင်း']),
+    ]),
+    ('āsevana', [
+        # pi-5 sense is the repetition relation (5-30-7-1-0 Āsevanapaccayakathā): the text's word for it
+        ('repeated practice, frequency, here the repetition condition by its bare name in the combination lists',
+         ['အလေ့အကျင့် ပြုခြင်း']),
+    ]),
+    # ---- bare condition names whose binding (ordinary) value is not attested ----
+    ('vippayutta', [('dissociation condition, by its bare name in the combination lists (stem)', ['ကင်းကွာခြင်း'])]),
+    ('sampayutta', [('association condition, by its bare name in the combination lists (stem)', ['ယှဉ်တွဲခြင်း'])]),
+    ('purejāta', [
+        ('pre-arising condition, by its bare name in the combination lists, also the label of the object and base '
+         'kinds of pre-arising (stem)', ['ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း']),
+    ]),
+    ('āhāra', [('nutriment condition, by its bare name in the combination lists (stem)', ['အာဟာရ'])]),
+    ('Vigata', [('disappearance condition, by its bare name in the combination lists (stem)', ['ပျောက်ကွယ်ခြင်း'])]),
+    ('vigataṃ', [('disappearance condition, named in an editorial note (nominative sg.)', ['ပျောက်ကွယ်ခြင်း'])]),
+    # ---- counting locatives of the conditions (T2) ----
+    ('ārammaṇe', [('in the object condition, the count locative (locative)', ['အာရုံဟူသော အကြောင်း'])]),
+    ('āhāre', [('in the nutriment condition, the count locative (locative)', ['အာဟာရဟူသော အကြောင်း'])]),
+    ('indriye', [('in the faculty condition, the count locative (locative)', ['စွမ်းရည်ဟူသော အကြောင်း'])]),
+    ('magge', [('in the path condition, the count locative (locative)', ['မဂ်ဟူသော အကြောင်း'])]),
+    ('vippayutte', [('in the dissociation condition, the count locative (locative)', ['ကင်းကွာခြင်းဟူသော အကြောင်း'])]),
+    ('vigate', [('in the disappearance condition, the count locative (locative)', ['ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း'])]),
+    ('jhāne', [('in the jhāna condition, the count locative (locative)', ['ဈာန်ဟူသော အကြောင်း'])]),
+    ('sampayutte', [('in the association condition, the count locative (locative)', ['ယှဉ်တွဲခြင်းဟူသော အကြောင်း'])]),
+    ('vipāke', [
+        # new in pi-7 (two Marathi pi-7 senses); the noun and the adjective of 'vipāke khandhe' are one lemma
+        ('in the result condition, the count locative (locative)', ['ကံ၏ အကျိုးဟူသော အကြောင်း']),
+        ("resultant, born as the result of action, in 'vipāke khandhe' (accusative pl.), also the result as a noun",
+         ['ကံ၏ အကျိုး', 'ကံ၏ အကျိုး ဖြစ်သော']),
+    ]),
+    ('vipākaṃ', [
+        ('resultant, born as the result of action (neuter sg.)', ['ကံ၏ အကျိုး ဖြစ်သော']),
+        ("the result condition, named in the count notes, as in 'āsevane vipākaṃ natthi' (neuter sg.)",
+         ['ကံ၏ အကျိုး']),
+    ]),
+    # ---- other binding headwords with a new pi-7 sense ----
+    ('nirodhā', [("from cessation, the attainment of cessation, in 'nirodhā vuṭṭhahantassa' (ablative)",
+                  ['ချုပ်ငြိမ်းခြင်း သမာပတ်'])]),
+    ('parikammaṃ', [('preliminary work, the preparation for jhāna or path (nominative sg.)', ['ကြိုတင် ပြင်ဆင်မှု'])]),
+    ('tiṭṭhati', [("lies in wait, in 'paripanthe tiṭṭhati' 'commits highway robbery' (3rd sg. present)",
+                   ['ဓားပြ တိုက်သည်'])]),
+    ('dhammassa', [('of a phenomenon, a state (genitive sg.)', ['သဘောတရား'])]),
+    ('gamanāni', [('courses, the ways the answers run, in an editorial note (nominative pl.)', ['သွားပုံ'])]),
+    ('byañjanena', [('by the wording, the letter of the text (instrumental)', ['စကားလုံး'])]),
+    ('kāraṇena', [("in this way, by this method, in 'iminā kāraṇena' (instrumental)", ['နည်းလမ်း'])]),
+    ('ante', [("at the end, in 'ante ante' 'at the end of each' (locative)", ['အဆုံးတိုင်း'])]),
+    ('agge', [('at the front, first, in an editorial note (locative)', ['ရှေ့ဆုံး'])]),
+    ('Yogaṃ', [('a bond, yoke, item of the bond dyad (accusative sg.)', ['ထမ်းပိုး'])]),
+    ('bāhiro', [('external, outside oneself, the triad item (masculine sg.)', ['ပြင်ပ'])]),
+    ('likhitaṃ', [("written, set down above, in 'heṭṭhā likhitaṃ' (neuter sg. participle)", ['ရေးထားသော'])]),
+    ('anuloma', [("positive, the positive method, the first member of a detached 'anuloma paccanīyaṃ' "
+                  "(compound member)", ['အဟုတ်ပြ ပုံစံ'])]),
+    ('Abyākatamūlaṃ', [('the series starting from the indeterminate item, in the count notes (nominative sg.)',
+                        ['ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … အခြေခံခြင်း'])]),
+    ('kiñci', [("some, in 'kiñci kāle' 'at some times' (indefinite pronoun)", ['အချို့သော'])]),
+    ('paccaya', [('arising by way of condition, the Paccayavāra as a member of the combined section name with '
+                  'sahajāta, nissaya, saṃsaṭṭha and sampayutta (heading member)', ['အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်း'])]),
+    ('vatthu', [('the physical base, the material support of mind (nominative sg.)', ['မှီရာ ဝတ္ထု'])]),
+    ('citto', [("mind, the item of the mind dyad, in 'citto dhammo' (masculine sg.)", ['စိတ်'])]),
+    # ---- binding headwords whose pi-7 value is another grammatical form of the binding meaning (tag extended) ----
+    ('kusale', [("in the wholesome mind (locative sg.), here wholesome, said of the aggregates, in 'kusale khandhe' "
+                 "(accusative pl.)", ['ကုသိုလ်'])]),
+    ('vodānaṃ', [('cleansing, purification (accusative sg.), here the cleansing moment of mind before a higher path',
+                  ['စင်ကြယ်ခြင်း စိတ်'])]),
+    ('sahajātaṃ', [('born together with it, conascent (neuter sg. participle), here also co-arising as the label of '
+                    'the co-arisen kind of a condition', ['အတူ ပေါ်ပေါက်ခြင်း', 'အတူ ပေါ်ပေါက်သော'])]),
+    # ---- new in pi-7, several Marathi pi-7 senses but one Burmese value (or a Marathi-only artefact in the tag) ----
+    ('Ārammaṇādhipati', [('object-predominance, the object kind of predominance (nominative), also as a member of '
+                          'the combination lists', ['အာရုံ အကြီးအမှူး'])]),
+    ('kātabbaṃ', [('to be done or made, of a basic sentence, a cycle or a list (gerundive)', ['ပြုရမည့်'])]),
+    ('uppādetvā', [("having shed, of the Buddha's blood, in 'lohitaṃ uppādetvā' (absolutive)", ['ထွက်စေ၍'])]),
+    ('kātabbā', [
+        ('should be done, in general (gerundive)', ['ပြုရမည့်']),
+        ('to be included, of items such as rebirth, the great elements or food (gerundive)', ['ထည့်ရမည့်']),
+    ]),
+    ('kātabbo', [('to be made or done, of a basic sentence, a cycle or a list (gerundive)', ['ပြုရမည့်'])]),
+    ('Hetuṃ', [('root, item of the root dyad, a root phenomenon (accusative sg.)', ['အမြစ်'])]),
+    ('Saññojanañca', [('and a fetter, item of the fetter dyad (accusative sg. with -ñca)', ['နှောင်ကြိုး'])]),
+    ('parāmāsassa', [('of wrong grasping, item of the wrong-grasping dyad (genitive sg.)', ['မှားယွင်းသော ယူဆမှု'])]),

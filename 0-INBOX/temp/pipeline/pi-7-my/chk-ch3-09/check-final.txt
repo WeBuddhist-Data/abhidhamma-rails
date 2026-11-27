@@ -1,0 +1,21 @@
+checked: S 1867, P 1867, C 1867, O 1867, N 1867, I 3259, T 99
+reuse test: terms 81 / 81 identical (of 368 witnessed values); sentences 855 / 855 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06, 3-01 … 3-06: 80 / 80 sentences identical (the differences are listed with --groups)
+0 mismatches
+sample identity 1-00-paccaya.md (raw): identical
+sample identity 1-00-paccaya.md (prep): identical
+sample identity 1-02-vedanattika.md (raw): identical
+sample identity 1-02-vedanattika.md (prep): identical
+count          -> caught (2 mismatches)
+polarity       -> caught (2 mismatches)
+term order     -> caught (1 mismatches)
+condition      -> caught (1 mismatches)
+khandha count  -> caught (1 mismatches)
+term           -> caught (2 mismatches)
+digits         -> caught (3 mismatches)
+note           -> caught (1 mismatches)
+both members   -> caught (2 mismatches)
+dyad name      -> caught (1 mismatches)
+term (visaṃsaṭṭha) -> caught (2 mismatches)
+11 / 11 planted errors caught
+exit 0

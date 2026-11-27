@@ -1,0 +1,21 @@
+P 5-15-paccaniyanuloma-tika.md 6 «မဟုတ်» expected 7, found 11 | Nakusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati hetupaccayā. Akusalaṃ ekaṃ khandhaṃ paṭ
+S 5-15-paccaniyanuloma-tika.md 101 Latin left: hetuyā | Namaggārammaṇaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā… hetuyā dasa {het
+N 5-17-paccaniyanuloma-dukatika.md 1 groups [2] vs [2, 3] | #### Dhammapaccanīyānulome dukatikapaṭṭhānaṃ ^7-5-17-0
+N 5-17-paccaniyanuloma-dukatika.md 24 groups [2, 3] vs [2, 2, 3] | ##### 7-13-1. Cūḷantaradukāni-kusalattikaṃ ^7-5-17-5-0
+N 5-17-paccaniyanuloma-dukatika.md 71 groups [2, 3] vs [2, 2, 3] | ##### 55-68-1. Mahantaradukāni-kusalattikaṃ ^7-5-17-12-0
+N 5-17-paccaniyanuloma-dukatika.md 187 groups [] vs [3] | (Ajjhattattiko na labbhati paṭiccavārādīsu.) ^7-71-82
+N 5-17-paccaniyanuloma-dukatika.md 327 groups [2] vs [2, 3] | Dhammapaccanīyānulome dukatikapaṭṭhānaṃ niṭṭhitaṃ. ^7-71-140
+N 5-18-paccaniyanuloma-tikaduka.md 29 groups [3, 2] vs [3, 2, 2] | ##### 1-7-13. Kusalattika-cūḷantaradukāni ^7-5-18-5-0
+N 5-18-paccaniyanuloma-tikaduka.md 60 groups [3, 2] vs [3, 2, 2] | ##### 1-55-92. Kusalattika-mahantaradukāni ^7-5-18-8-0
+N 5-18-paccaniyanuloma-tikaduka.md 147 groups [3, 2] vs [3, 2, 2] | ##### 22-7-13. Sanidassanattika-cūḷantaradukāni ^7-5-18-29-0
+N 5-18-paccaniyanuloma-tikaduka.md 181 groups [3, 2] vs [3, 2, 2] | ##### 22-55-68. Sanidassanattika-mahantaradukāni ^7-5-18-32-0
+N 5-20-paccaniyanuloma-dukaduka.md 20 groups [2, 2] vs [2, 2, 2] | ##### 1-6-12. Hetuduka-cūḷantaradukāni ^7-5-20-3-0
+N 5-20-paccaniyanuloma-dukaduka.md 109 groups [2, 2] vs [2, 2, 2] | ##### 7-13-1. Cūḷantaradukāni-hetudukaṃ ^7-5-20-11-0
+N 5-20-paccaniyanuloma-dukaduka.md 202 groups [2] vs [2, 3] | Anulomadukatikapaṭṭhānato paṭṭhāya yāva pariyosānā tiṃsamattehi bhāṇavārehi paṭṭhānaṃ.
+R - 0 atom «ajjhattabahiddhārammaṇ» = «မိမိ၌နှင့် မိမိ၏ ပြင်ပ၌ ရှိသည်ကို အာရုံပြုသော» not witnessed in a finished chapter | 
+R - 0 combined term «parāmāso akusalo» = «မှားယွင်းသော ယူဆမှု ဖြစ်သော၊ အကုသိုလ်» differs from the finished chapters | 
+checked: S 1690, C 1690, O 1378, P 1378, N 1690, I 2340, T 368
+reuse test: terms 153 / 154 witnessed in the finished chapters; sentences 23 / 23 identical with pi-1 … pi-6
+combined terms (stacked chains) identical with the finished chapters: 566 / 567
+identity with the finished groups 1-00 … 4-14, 5-01 … 5-04: 49 / 49 sentences identical (the differences are listed with --groups)
+16 mismatches

@@ -1,0 +1,15 @@
+wrote 78 decision lines -> dry-decisions-sample.txt
+  manual 0 | p6_same 1 | p6_subset 0 | p6_plus 1 | p6_lump 3 | p5_same 2 | p5_subset 1 | p5_plus 0 | p5_lump 1 | p4_same 3 | p4_subset 0 | p4_plus 0 | p4_lump 0 | p3_same 0 | p3_subset 0 | p3_plus 0 | p3_lump 0 | p2_same 0 | p2_subset 0 | p2_plus 0 | p2_lump 0 | p1_same 1 | p1_subset 0 | p1_plus 0 | p1_lump 0 | mr 65 | mr_adjusted 0 | case_only 6
+REVIEW (9): check, then add to LUMP_OK or MANUAL:
+  paccayo [pi-6 senses + later binding sense for အကြောင်း]: အကြောင်း
+  Ekamūlakaṃ [pi-6 one sense, new values အကြောင်း တစ်ခုကို အခြေခံခြင်း]: အကြောင်း တစ်ခုကို အခြေခံခြင်း
+  Anulomaṃ [pi-6 one sense, new values လျော်ညီခြင်း စိတ်]: အဟုတ်ပြ ပုံစံ / လျော်ညီခြင်း စိတ်
+  Jhāna [pi-5 one sense, new values ဈာန်ဟူသော အကြောင်း]: ဈာန်ဟူသော အကြောင်း / ဈာန်
+  Natthi [pi-6 one sense, new values မရှိ / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း]: မရှိ / မရှိသည် / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း
+  vigatapaccayā [one Marathi tag]: ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် / ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း
+  Naanantara [one Marathi tag]: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်
+  Napacchājāta [one Marathi tag]: နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်
+  Nissaya [one Marathi tag]: အမှီ / အမှီဟူသော အကြောင်း
+UNRESOLVED (2): write MANUAL:
+  Anantara	pi-5 senses ['contiguity, the proximity relation, in anantarapaccaya (compound member)', 'next in sequence, in anantaravāra (compound member)']	burmese=['ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း', 'ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း']
+  Hetudukaṃ	Marathi tags=['the root dyad, first dyad of the matrix (heading)', 'pairs with the root condition, combinations in the counts (heading)']	burmese=['အမြစ် နှစ်မျိုးတွဲ', 'အမြစ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ']

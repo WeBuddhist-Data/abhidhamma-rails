@@ -1,0 +1,2 @@
+wrote 2312 decision lines -> coord/decisions.txt
+  manual 60 | p6_same 94 | p6_subset 0 | p6_plus 10 | p6_lump 2 | p5_same 187 | p5_subset 35 | p5_plus 16 | p5_lump 30 | p4_same 16 | p4_subset 0 | p4_plus 4 | p4_lump 3 | p3_same 8 | p3_subset 0 | p3_plus 0 | p3_lump 6 | p2_same 120 | p2_subset 0 | p2_plus 0 | p2_lump 18 | p1_same 23 | p1_subset 1 | p1_plus 0 | p1_lump 2 | mr 1677 | mr_adjusted 20 | case_only 165

@@ -1,0 +1,53 @@
+== check_ch2-01-02
+checked: S 935, P 935, C 935, O 935, N 935, I 2367, T 72
+reuse test: terms 88 / 88 identical (of 210 witnessed values); sentences 461 / 461 identical
+0 mismatches
+== check_ch2-03-06
+checked: S 1503, P 1503, C 1503, O 1503, N 1503, I 2692, T 59
+reuse test: terms 90 / 90 identical (of 217 witnessed values); sentences 702 / 702 identical
+identity with the finished groups 1-01, 1-03 … 1-05: 101 / 101 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch2-07-11
+T - 0 term parittārammaṇamahaggat: module «အကန့်အသတ် ရှိသည်ကို အာရုံပြုသော၊ ကြီးမြတ်သော» vs checker «အကန့်အသတ် ရှိသည်ကို အာရုံပြုသော ကြီးမြတ်သော» | 
+T - 0 term parittārammaṇaappamāṇ: module «အကန့်အသတ် ရှိသည်ကို အာရုံပြုသော၊ အတိုင်းအဆ မရှိသော» vs checker «အကန့်အသတ် ရှိသည်ကို အာရုံပြုသော အတိုင်းအဆ မရှိသော» | 
+T - 0 term mahaggatārammaṇaparitt: module «ကြီးမြတ်သည်ကို အာရုံပြုသော၊ အကန့်အသတ် ရှိသော» vs checker «ကြီးမြတ်သည်ကို အာရုံပြုသော အကန့်အသတ် ရှိသော» | 
+T - 0 term mahaggatārammaṇamahaggat: module «ကြီးမြတ်သည်ကို အာရုံပြုသော၊ ကြီးမြတ်သော» vs checker «ကြီးမြတ်သည်ကို အာရုံပြုသော ကြီးမြတ်သော» | 
+T - 0 term mahaggatārammaṇaappamāṇ: module «ကြီးမြတ်သည်ကို အာရုံပြုသော၊ အတိုင်းအဆ မရှိသော» vs checker «ကြီးမြတ်သည်ကို အာရုံပြုသော အတိုင်းအဆ မရှိသော» | 
+T - 0 term appamāṇārammaṇaparitt: module «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော၊ အကန့်အသတ် ရှိသော» vs checker «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော အကန့်အသတ် ရှိသော» | 
+T - 0 term appamāṇārammaṇamahaggat: module «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော၊ ကြီးမြတ်သော» vs checker «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော ကြီးမြတ်သော» | 
+T - 0 term appamāṇārammaṇaappamāṇ: module «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော၊ အတိုင်းအဆ မရှိသော» vs checker «အတိုင်းအဆ မရှိသည်ကို အာရုံပြုသော အတိုင်းအဆ မရှိသော» | 
+T - 0 term maggahetukamaggādhipat: module «မဂ်ကို အမြစ်ပြုသော၊ မဂ်ကို အကြီးအမှူးပြုသော» vs checker «မဂ်ကို အမြစ်ပြုသော မဂ်ကို အကြီးအမှူးပြုသော» | 
+checked: S 1010, P 1010, C 1010, O 1010, N 1010, I 1941, T 92
+reuse test: terms 78 / 78 identical (of 230 witnessed values); sentences 530 / 530 identical
+10 mismatches
+== check_ch2-12-17
+checked: S 790, P 790, C 790, O 790, N 790, I 1560, T 72
+reuse test: terms 85 / 85 identical (of 244 witnessed values); sentences 300 / 300 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06: 91 / 91 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch3-01-02
+C 3-01-hetugocchaka.md 242 a note's Burmese differs from the checker's table | Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati naadhipatipaccayā… (anulomasahajātasad
+checked: S 1539, P 1539, C 1539, O 1539, N 1539, I 2537, T 95
+reuse test: terms 89 / 89 identical (of 251 witnessed values); sentences 618 / 618 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06: 29 / 29 sentences identical (the differences are listed with --groups)
+1 mismatches
+== check_ch3-03-06
+checked: S 1426, P 1426, C 1426, O 1426, N 1426, I 2357, T 163
+reuse test: terms 88 / 88 identical (of 340 witnessed values); sentences 630 / 630 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06, 3-01 … 3-02: 77 / 77 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch3-07-08-10
+checked: S 1169, P 1169, C 1169, O 1169, N 1169, I 1926, T 111
+reuse test: terms 89 / 89 identical (of 296 witnessed values); sentences 448 / 448 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06: 57 / 57 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch3-09
+checked: S 1867, P 1867, C 1867, O 1867, N 1867, I 3259, T 99
+reuse test: terms 81 / 81 identical (of 373 witnessed values); sentences 855 / 855 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06, 3-01 … 3-06: 80 / 80 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch4-01
+checked: S 1714, P 1714, C 1714, O 1714, N 1714, I 2985, T 147
+reuse test: terms 93 / 93 identical (of 357 witnessed values); sentences 586 / 586 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06: 124 / 124 sentences identical (the differences are listed with --groups)
+0 mismatches

@@ -1,0 +1,41 @@
+# pi-7 Burmese termbase: APPROVED and LOCKED
+
+- **Approval:** approved and locked by the coordinator on 2026-11-26, under the user's standing go-ahead ("dont ask for my permission, continue now"; "continue now for pi all").
+- **File:** `AI_translation/burmese/pi-7-pali-burmese-termbase-plain.md`.
+  - 2312 headwords and 2328 senses.
+  - 76 multi-candidate senses decided, 14 aligned, 0 outside.
+  - Decisions: `decisions-A.tsv`, built by `build.py` from raw-multi / raw-align / raw-family / raw-textinc (`run_all.sh`).
+  - Report: `termbase-decisions.md`. Explanations: `notes-part5.txt`, `diff-categories.txt`.
+- **sha256:** `faef9155a30b9755e5706b8065de9dfb7d946c603fc5c84657b4ef6b4a74e14a`.
+  - The coordinator ran run_all.sh twice: identical, no errors.
+- **Approved as built by the termbase agent:**
+  - 528 of 616 shared senses take a locked term: pi-6 96, pi-5 244, pi-4 19, pi-3 9, pi-2 135, pi-1 25.
+  - 88 depart, each explained:
+    - 38 other senses, mostly the condition sense «Nဟူသော အကြောင်း» and its frame forms;
+    - 30 where the locked term is absent from the text;
+    - 19 chosen departures;
+    - niruddhe.
+  - The family scan goes from 53 to 51, all explained.
+  - Shared sentences with pi-1 … pi-6: 0 conflicts.
+  - §A: 23 of 38 text items decided by a term, 15 left for the rails step.
+- **Key choices approved:**
+  - **Condition forms:** the bare name N for bare stems, «…ကြောင့်» for Xpaccayā, «…ကြောင့် မဟုတ်» for naXpaccayā.
+  - **Verbs kept apart:**
+    - uppādeti «ဖြစ်စေသည်», apart from jappeti «ဖြစ်ပေါ်စေသည်» in the same deeds list;
+    - paccavekkhati «ပြန်လည် ဆင်ခြင်သည်», following the locked noun paccavekkhaṇā.
+  - **Notes and compounds:**
+    - nānākaraṇa «ကွဲပြားမှု» (locked pi-5; the rails change 70 uses);
+    - the -sadisa notes «…နှင့် တူသည်»;
+    - act compounds carry their verb.
+  - **Sample choices, kept as approved:** samanantarā, uppajjeyya «ဖြစ်ပေါ်နိုင်သည်».
+  - **niruddhe** «ချုပ်ငြိမ်းသွားသော»: the pi-7 text's word. The locked «ချုပ်ငြိမ်းပြီးသော» is absent; this is reported.
+  - **Locked earlier-book terms aligned:** samphaṃ, nillopaṃ, paripanthe and vattabbaṃ.
+- **Coordinator change before the lock:** the avasesa family (avasesesu, avasesā, Avasesāni) takes «ကြွင်းကျန်သော», the locked pi-1 / pi-2 / pi-5 / pi-6 term, for book-wide consistency. The built term was the pi-7 text's «ကြွင်းသော»; the rails change its 23 uses. The sha256 before the change was 4f8a61ef… (md5).
+- **For the rails step:** the 15 §A items the termbase leaves (notes-part5.txt).
+- **Locked:** the rails translation uses this termbase as a fixed reference. Never edit the termbase file; report a term that turns out wrong.
+
+## Change 2026-11-26 (bilingual review A / B / C), decided by the coordinator under the user's standing go-ahead
+- **B15:** the hetuka headings now say «… အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ / သုံးမျိုးတွဲ» ("having roots"), following the pi-1 Mātikā «… အမြစ် ရှိသော သဘောတရားများ». This covers Dassanena- / Bhāvanāya-pahātabbahetuka-ttikaṃ / -dukaṃ / -ttika / -duka, 6 entries. The -padaṃ entries already had «ရှိသော».
+- **B16 / A7:** bhindati «သင်းခွဲသည်», following the pi-5 saṅghabhedaka family and this book's saṅghabhedakamma «သံဃာကို သင်းခွဲခြင်း ကံ». It was «ဖြိုခွဲသည်».
+- **How:** through raw-align.tsv and run_all.sh, run twice, identical, no errors.
+- **sha256** is now `ceb0842a98d4a219466e1fc494f071773710cb9963554bd1dc8dd6e61fecff74`. It was faef9155a30b9755e5706b8065de9dfb7d946c603fc5c84657b4ef6b4a74e14a.

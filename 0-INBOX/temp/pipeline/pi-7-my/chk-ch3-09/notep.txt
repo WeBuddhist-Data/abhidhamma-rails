@@ -1,0 +1,241 @@
+def _notes():
+    return {}
+
+
+def _notep():
+    """whole notes (raw Pāli, brackets included) -> Burmese; put in place before the slotter (as make_ch3-01-02)"""
+    cn, cd, N, CNT = F.cname, F.cond, F.N, F.COUNT
+    E, CC, KAT, VITTH, GAN, VIB = END, C, M3.KAT, M3.VITTH, M3.GAN, M3.VIBHAJ
+    EV, SAB, PANHA, NATTHI, NINN, NINK = M3.EVAM_T, M3.SAB, M3.PANHA, M3.NATTHI, M3.NINNANA, M3.NINNANAKARANA
+    ITARE, GANANA, PV, VARA, LAK, KAYYA, EVAM = M3.ITARE, S.GANANA, M3.PATICCA_V, M3.VARA, F.LAKAUNG, K.KAYYA, K.EVAM
+    SAMKH, MULA, PUCCH, SADISA, SADISANI = F.NOTES["(saṃkhittaṃ)"][1:-1], M3.MULA, M3.PUCCH, F.SADISA, K.SADISANI
+    PS, APS, PAT, NIYAM, MAHAB = (F.PREFIX["paṭisandhikkhaṇe"], F.PREFIX["ahetukapaṭisandhikkhaṇe"], F.PATISANDHI,
+                                  M3.NIYAM, M3.MAHAB)
+    am, sm = F.LEX["ārammaṇādhipati"][0], F.LEX["sahajātādhipati"][0]
+    MOHO, PV5, VUTTH = F.LEX["moho"][0], F.LEX["pañcaviññāṇaṃ"][0], F.LEX["vuṭṭhānassa"][0]
+    GAMANA, PG = M.GAMANA, f"{M3.PATHAMA_GAMANA}{F.SADISA}"                 # paṭhamagamanasadisaṃ
+    DN = DUKA_NAME
+    DSAMU, DSAHA, DCSS = DN["Cittasamuṭṭhānadukaṃ"], DN["Cittasahabhūdukaṃ"], DN["Cittasaṃsaṭṭhasamuṭṭhānadukaṃ"]
+    AHET = F.AHETUKA[:-len("သော")] + "သည်"                               # «ahetuka»nti (as 3-01-02 «…မရှိသည်ဟု»)
+    KINDS = {k: K.kind_word(k) for k in ("sahajātaṃ", "purejātaṃ", "pacchājātaṃ")}
+    NIKKH = new("yathā nikkhittapadāni", "ချထားသော ပုဒ်များအတိုင်း")
+    PURET = new("pūretukāmena", "ပြည့်စုံစေလိုသူသည်")
+    PURETVA = new("pūretvā / pūritvā", "ပြည့်စုံစေ၍")
+    PURIMA_G = new("purimagamanaṃ", f"ရှေး {GAMANA}")                   # (purimā purimā «ရှေးရှေး»)
+    TIYM = new("tīṇiyeva moho", f"{MOHO}နှင့် {CNT['tīṇi']}သာ")          # (Marathi meaning: «with moha only three»)
+    TISUYM = new("tīsuyeva moho", f"{CNT['tīṇi']}၌သာ {MOHO}")
+    ASAMM = S.PH["asammuyhantena"]                                     # «မရောထွေးစေဘဲ» (sample; 2-01-02 asammohantena)
+    MULAPADE = new("mūlapade", f"{MULA} {F.PADA}၌")
+    PAVES = new("pavesetvā", "ထည့်သွင်း၍")
+    ANTE = new("ante", "အဆုံး၌")
+    LABBHATI = new("labbhati", "တွေ့ရသည်")
+    SABBATTH_N = new("sabbaṭṭhāne", f"နေရာ {SAB}၌")
+    GHATANAYA = new("paṭhamaghaṭanānayena", f"ပထမ {F.GHATANA}၏ " + M4.NEW["nayena"])
+    PAVATTI = M3.PAVATTE[:-len("၌")]                                    # pavatti «ဘဝ ဖြစ်စဉ်»
+    EKAMULA = new("ekamūlānaṃ", f"{CNT['ekaṃ']}ကို အခြေခံသည်တို့၏")
+    UDDHAR = M4.NEW["uddharitabbā"]
+    IMINAKARENA = M3.NEW["iminākārena"]
+    ELIP = new("dvepi (kātabbā), tīṇipi …", "")                          # (placeholder, not used)
+    del ELIP
+
+    def mula(term):
+        return f"{term} {F.DHAMMA}{F.MULAKA}၌"
+    gsamp = f"{ITARE} {GANANA} {CNT['dve']}ကိုလည်း{CC} {VARA('sampayutta')}ကိုလည်း"
+    gniss = f"{ITARE} {GANANA} {CNT['dve']}ကိုလည်း{CC} {VARA('nissaya')}ကိုလည်း"
+    return {
+        # Sārammaṇa
+        "(Evaṃ itare dve gaṇanāpi sampayuttavārāpi kātabbā.)": f"({EV} {gsamp} {KAT}{E})",
+        # Citta
+        "(Evaṃ itare dve gaṇanāpi sampayuttavāropi sabbe kātabbā.)": f"({EV} {gsamp} {SAB} {KAT}{E})",
+        "(paṭhamagamanasadisaṃ ninnānākaraṇaṃ, imaṃ nānaṃ)": f"({PG} {NINK}{CC} {M3.NOTE_ADD['imaṃ nānaṃ']})",
+        "(dvepi gamanā paṭhamagamanasadisaṃ ninnānākaraṇaṃ. Ārammaṇādhipati sahajātādhipati kātabbā)":
+            f"({GAMANA} {CNT['dve']}လုံးသည် {PG} {NINK}{E} {am}{CC} {sm}ကို {KAT})",
+        "(tīṇipi garukārammaṇā kātabbā, ārammaṇādhipatiyeva)":
+            f"({CNT['tīṇi']}လုံးကို {M4.GARUK}အဖြစ် {KAT}{CC} {am}သာ)",
+        "(ime dve pūretukāmena kātabbā, purimagamanasadisaṃ)":
+            f"(ဤ {CNT['dve']}ကို {PURET} {KAT}{CC} {PURIMA_G}{SADISA})",
+        "(ime dvepi pūretukāmena sabbattha kātabbā, paṭhamagamanasadisaṃ ninnānākaraṇaṃ)":
+            f"(ဤ {CNT['dve']}လုံးကို {PURET} {K.SABBATTHA} {KAT}{CC} {PG} {NINK})",
+        "(paṭisandhikkhaṇepi dve)": f"({PS}လည်း {CNT['dve']})",
+        # Cetasika
+        "(paṭisandhikkhaṇe dvepi kātabbā, saṃkhittaṃ)": f"({PS} {CNT['dve']}လုံးကို {KAT}{CC} {SAMKH})",
+        "(paṭisandhikkhaṇe dvepi kātabbā)": f"({PS} {CNT['dve']}လုံးကို {KAT})",
+        "(paṭisandhikkhaṇe tīṇipi kātabbā)": f"({PS} {CNT['tīṇi']}လုံးကို {KAT})",
+        "(paṭisandhikkhaṇe ekaṃ)": f"({PS} {CNT['ekaṃ']})",
+        "(paṭisandhikkhaṇe dve)": f"({PS} {CNT['dve']})",
+        "(paṭisandhikkhaṇe ekaṃ, saṃkhittaṃ)": f"({PS} {CNT['ekaṃ']}{CC} {SAMKH})",
+        "(Nava pañhā pañcaviññāṇampi yathā ārammaṇapaccayā evaṃ kātabbaṃ, tīsuyeva moho. Sabbe pañhā "
+        "pavattipaṭisandhiyā kātabbā asammohantena.)":
+            (f"({PANHA} {CNT['nava']}{CC} {PV5}ကိုလည်း {cn('ārammaṇa')}{KAYYA} {EVAM} {KAT}{CC} {TISUYM}{E} "
+             f"{PANHA} {SAB}ကို {M3.PAV_PS} {ASAMM} {KAT}{E})"),
+        "(evaṃ pañcapi pañhā kātabbā, tīṇiyeva moho. Saṃkhittaṃ)":
+            f"({EV} {PANHA} {CNT['pañca']}လုံးကို {KAT}{CC} {TIYM}{E} {SAMKH})",
+        "(Evaṃ itare dve gaṇanāpi sampayuttavāropi kātabbo.)": f"({EV} {gsamp} {KAT}{E})",
+        "(paṭhamagamanasadisaṃ)": f"({PG})",
+        "(paṭhamagamanaṃ)": f"({M3.PATHAMA_GAMANA})",
+        "(ārammaṇādhipatiyeva)": f"({am}သာ)",
+        "(evaṃ tīṇi kātabbāni, paṭhamagamanasadisaṃ. Pūritvā kātabbaṃ, ninnānākaraṇaṃ)":
+            f"({EV} {CNT['tīṇi']}ကို {KAT}{CC} {PG}{E} {PURETVA} {KAT}{CC} {NINK})",
+        "(Mūlaṃ pucchitabbaṃ, tīṇi upanissayā)": f"({MULA}ကို {PUCCH}{CC} {N['upanissaya']} {CNT['tīṇi']})",
+        "(tīṇi, paṭhamagamanasadisaṃ ninnānākaraṇaṃ)": f"({CNT['tīṇi']}{CC} {PG} {NINK})",
+        "(purejātasadisaṃ ninnānākaraṇaṃ)": f"({cn('purejāta')}{SADISA} {NINK})",
+        "(purejātasadisaṃ ninnānaṃ)": f"({cn('purejāta')}{SADISA} {NINN})",
+        "(paṭisandhikkhaṇe)": f"({PS})",
+        "(paṭisandhiyā dve kātabbā)": f"({PAT}၌ {CNT['dve']}ကို {KAT})",
+        # Cittasampayutta
+        "(Evaṃ navapi pañhā kātabbā. Ahetukanti sabbattha niyāmetabbaṃ, ekaṃyeva mohaṃ mūlapade.)":
+            (f"({EV} {PANHA} {CNT['nava']}လုံးကို {KAT}{E} {AHET}ဟု {K.SABBATTHA} {NIYAM}{CC} {MULAPADE} "
+             f"{MOHO} {CNT['ekaṃ']}တည်းကိုသာ{E})"),
+        "(Evaṃ dve pañhā pavattipaṭisandhi kātabbā. Saṃkhittaṃ.)":
+            f"({EV} {PANHA} {CNT['dve']}ကို {M3.PAV_PS} {KAT}{E} {SAMKH}{E})",
+        "(paṭiccasadisā, pañhāghaṭanā natthi)": f"({PV}{SADISANI}{CC} {PANHA} {F.GHATANA} {NATTHI})",
+        "(paccayavārasadisā, pañhāghaṭanā natthi)": f"({VARA('paccaya')}{SADISANI}{CC} {PANHA} {F.GHATANA} {NATTHI})",
+        # Cittasaṃsaṭṭha
+        "(Cittasaṃsaṭṭhadukaṃ yathā cittasampayuttadukaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ.)":
+            f"({DN['Cittasaṃsaṭṭhadukaṃ']}ကို {DN['Cittasampayuttadukaṃ']}{KAYYA} {EVAM} {KAT}{CC} {NINK}{E})",
+        # Cittasamuṭṭhāna
+        "(yāva asaññasattā kātabbā)": f"({M3.YAVA_AS} {KAT})",
+        "(paṭisandhikkhaṇe dvepi paṭiccavārasadisā)": f"({PS} {CNT['dve']}လုံးသည် {PV}{SADISANI})",
+        "(paṭisandhikkhaṇe tīṇipi kātabbā paṭiccavārasadisā)": f"({PS} {CNT['tīṇi']}လုံးကို {PV}နှင့် တူအောင် {KAT})",
+        "(paṭisandhikkhaṇe dvepi kātabbā paṭiccavārasadisā)": f"({PS} {CNT['dve']}လုံးကို {PV}နှင့် တူအောင် {KAT})",
+        "(paṭisandhikkhaṇe dvepi)": f"({PS} {CNT['dve']}လုံး)",
+        "(Sabbe navapi pañhā kātabbā, paṭiccavārasadisā. Pañcaviññāṇampi kātabbaṃ. Tīṇiyeva moho.)":
+            f"({PANHA} {CNT['nava']}လုံး {SAB}ကို {KAT}{CC} {PV}{SADISANI}{E} {PV5}ကိုလည်း {KAT}{E} {TIYM}{E})",
+        "(Evaṃ itare dve gaṇanāpi nissayavāropi kātabbo.)": f"({EV} {gniss} {KAT}{E})",
+        "(pañca pañhā kātabbā. Tīṇi. Moho)": f"({PANHA} {CNT['pañca']}ကို {KAT}{E} {CNT['tīṇi']}{E} {MOHO})",
+        "(tīṇipi ārammaṇādhipati, sahajātādhipatipi kātabbā)":
+            f"({CNT['tīṇi']}လုံး၌ {am}{CC} {sm}ကိုလည်း {KAT})",
+        "(vuṭṭhānaṃ natthi)": f"({VUTTH} {NATTHI})",
+        "(itare dve gaṇanā, imassa sadisāyeva kātabbā)":
+            f"({ITARE} {GANANA} {CNT['dve']}{CC} ဤသည်နှင့် တူအောင်ပင် {KAT})",
+        "(tīṇi kātabbā, vuṭṭhānaṃ natthi)": f"({CNT['tīṇi']}ကို {KAT}{CC} {VUTTH} {NATTHI})",
+        "(iminākāreneva pacchājāto vitthāretabbo)": f"({IMINAKARENA}ပင် {cn('pacchājāta')}ကို {VITTH})",
+        "(paccayavārasadisaṃ paṭisandhipi pavattipi kātabbā sabbesampi pañhānaṃ.)":
+            f"({VARA('paccaya')}{SADISA} {PANHA} {SAB}၏ {PAT}ကိုလည်း{CC} {PAVATTI}ကိုလည်း {KAT}{E})",
+        "(anulomagaṇanā kātabbā)": f"({K.ORDER_N['anulomagaṇanā']}ကို {KAT})",
+        # Cittasahabhū
+        "(arūpaṃ sabbaṃ uddharitabbaṃ. Cittasamuṭṭhānadukasadisaṃ.)":
+            f"({M3.ARUPA_N}ကို {SAB} {UDDHAR}{E} {DSAMU}{SADISA}{E})",
+        "(mahābhūtā chasupi pañhesu kātabbā, adhipatiyā tīsu natthi.)":
+            f"({MAHAB}တို့ကို {PANHA} {CNT['cha']}လုံး၌ {KAT}{CC} {cd('adhipati', 'loc')} {CNT['tīṇi']}၌ {NATTHI}{E})",
+        "(Evaṃ navapi pañhā kātabbā. \"Ahetuka\"nti niyāmetabbaṃ. Yathā anulome labbhati evaṃ kātabbaṃ. Tīṇi moho "
+        "yathā cittasamuṭṭhānaduke evameva kātabbā.)":
+            (f"({EV} {PANHA} {CNT['nava']}လုံးကို {KAT}{E} “{AHET}”ဟု {NIYAM}{E} {K.ORDER_L['anulome']} "
+             f"{M3.LABBH} {KAT}{E} {CNT['tīṇi']} {MOHO}ကို {DSAMU}၌{KAYYA} {EVAM}ပင် {KAT}{E})"),
+        "(evaṃ itare dvepi gaṇanā kātabbā)": f"({EV} {ITARE} {GANANA} {CNT['dve']}လုံးကို {KAT})",
+        "(paṭiccavārasadisaṃ, sabbe mahābhūtā)": f"({PV}{SADISA}{CC} {MAHAB} {SAB})",
+        "(sabbe mahābhūtā paṭiccasadisaṃ)": f"({MAHAB} {SAB} {PV}{SADISA})",
+        "(paṭiccasadisaṃ, sabbe mahābhūtā)": f"({PV}{SADISA}{CC} {MAHAB} {SAB})",
+        "(Imaṃ cittasamuṭṭhānadukaṃ paccayavāre ārammaṇasadisaṃ. Channampi imesaṃ pañcaviññāṇamūlā kātabbā. "
+        "Saṃkhittaṃ.)":
+            (f"(ဤ {DSAMU}သည် {VARA('paccaya')}၌ {cn('ārammaṇa')}{SADISA}{E} ဤ {CNT['cha']}လုံး၏ "
+             f"{PV5}{F.MULAKA}တို့ကို {KAT}{E} {SAMKH}{E})"),
+        "(Saṃkhittaṃ. Sabbaṃ kātabbaṃ. Paccayavārassa pañcaviññāṇaṃ channampi mūlā kātabbā. Sabbe mahābhūte "
+        "tīṇiyeva moho. Saṃkhittaṃ.)":
+            (f"({SAMKH}{E} {SAB}ကို {KAT}{E} {VARA('paccaya')}၏ {PV5}{CC} {CNT['cha']}လုံး၏ {MULA}တို့ကို {KAT}{E} "
+             f"{MAHAB} {SAB}ကို {TIYM}{E} {SAMKH}{E})"),
+        "(tīṇi, moho)": f"({CNT['tīṇi']}{CC} {MOHO})",
+        "(Itare dve gaṇanāpi sampayuttavāropi sabbaṃ kātabbaṃ.)": f"({gsamp} {SAB} {KAT}{E})",
+        "(cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)": f"({DSAMU}{SADISA}{CC} {NINK})",
+        "(ārammaṇādhipatipi sahajātādhipatipi kātabbā)": f"({am}ကိုလည်း{CC} {sm}ကိုလည်း {KAT})",
+        "(ārammaṇādhipatipi sahajātādhipatipi imesampi tiṇṇaṃ kātabbā. Navapi pañhā cittasamuṭṭhānadukasadisā. Ante "
+        "tīṇi ārammaṇādhipatiyeva)":
+            (f"({am}ကိုလည်း{CC} {sm}ကိုလည်း ဤ {CNT['tīṇi']}လုံး၌ {KAT}{E} {PANHA} {CNT['nava']}လုံးသည် "
+             f"{DSAMU}{SADISANI}{E} {ANTE} {CNT['tīṇi']}သည် {am}သာ)"),
+        "(cittasamuṭṭhānadukasadisā)": f"({DSAMU}{SADISANI})",
+        "(nocittasahabhū mūlaṃyeva labbhati, cittasamuṭṭhānadukasadisā. Tīṇipi ninnānākaraṇaṃ)":
+            (f"({NOCSAHA} {F.DHAMMA}{F.MULAKA}သာ {LABBHATI}{CC} {DSAMU}{SADISANI}{E} {CNT['tīṇi']}လုံး "
+             f"{NINK})"),
+        "(cittasamuṭṭhānadukasadisaṃ)": f"({DSAMU}{SADISA})",
+        "(cittasamuṭṭhānadukasadisā. Imampi ekaṃ kabaḷīkāraāhārasadisaṃ)":
+            f"({DSAMU}{SADISANI}{E} ဤ {CNT['ekaṃ']}သည်လည်း {KABALI}{SADISA})",
+        "(sabbaṃ paṭisandhiyaṃ kātabbaṃ, sahajātaṃ purejātampi)":
+            f"({SAB}ကို {PAT}၌ {KAT}{CC} {KINDS['sahajātaṃ']}{CC} {KINDS['purejātaṃ']}လည်း)",
+        # Cittānuparivatti
+        "(yathā cittasahabhūdukaṃ evaṃ imaṃ dukaṃ kātabbaṃ, ninnānākaraṇaṃ)":
+            f"({DSAHA}{KAYYA} {EVAM} ဤ {DUKA}ကို {KAT}{CC} {NINK})",
+        # Cittasaṃsaṭṭhasamuṭṭhāna
+        "(ahetukapaṭisandhikkhaṇe dvepi kātabbā)": f"({APS} {CNT['dve']}လုံးကို {KAT})",
+        "(paṭisandhikkhaṇe dve, saṃkhittaṃ)": f"({PS} {CNT['dve']}{CC} {SAMKH})",
+        "(paṭisandhikkhaṇe ekaṃ kātabbaṃ)": f"({PS} {CNT['ekaṃ']}ကို {KAT})",
+        "(paṭisandhikkhaṇe dve kātabbā)": f"({PS} {CNT['dve']}ကို {KAT})",
+        "(paṭisandhikkhaṇe ekaṃ kātabbaṃ, saṃkhittaṃ)": f"({PS} {CNT['ekaṃ']}ကို {KAT}{CC} {SAMKH})",
+        "(evaṃ nava pañhā kātabbā. Paccayavāre pañcaviññāṇampi kātabbaṃ, tīṇiyeva moho)":
+            f"({EV} {PANHA} {CNT['nava']}ကို {KAT}{E} {VARA('paccaya')}၌ {PV5}ကိုလည်း {KAT}{CC} {TIYM})",
+        "(saṃkhittaṃ. Tīṇiyeva moho)": f"({SAMKH}{E} {TIYM})",
+        "(Saṃkhittaṃ. Yathā cittasahabhūduke ārammaṇaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ. Navapi pañhā.)":
+            (f"({SAMKH}{E} {DSAHA}၌ {cn('ārammaṇa')}{KAYYA} {EVAM} {KAT}{CC} {NINK}{E} {PANHA} "
+             f"{CNT['nava']}လုံး{E})"),
+        "(dvepi adhipatī kātabbā)": f"({N['adhipati']} {CNT['dve']}လုံးကို {KAT})",
+        "(dvepi adhipati kātabbā)": f"({N['adhipati']} {CNT['dve']}လုံးကို {KAT})",
+        "(Ekāyeva adhipati kātabbā, navapi pañhā. Yathā cittasahabhūdukaṃ, evaṃ kātabbaṃ, ninnānākaraṇaṃ)":
+            (f"({N['adhipati']} {CNT['ekaṃ']}တည်းကိုသာ {KAT}{CC} {PANHA} {CNT['nava']}လုံး{E} {DSAHA}{KAYYA}{CC} "
+             f"{EVAM} {KAT}{CC} {NINK})"),
+        "(navapi pañhā cittasahabhūdukasadisā)": f"({PANHA} {CNT['nava']}လုံးသည် {DSAHA}{SADISANI})",
+        "(navapi pañhā cittasahabhūdukasadisā, ninnānākaraṇaṃ)":
+            f"({PANHA} {CNT['nava']}လုံးသည် {DSAHA}{SADISANI}{CC} {NINK})",
+        "(cittasahabhūdukasadisā, ninnānākaraṇaṃ)": f"({DSAHA}{SADISANI}{CC} {NINK})",
+        "(cittasahabhūdukasadisā, ninnānākaraṇaṃ. Tīṇipi pacchājātā. Dve. Ekamūlānaṃ ekā ghaṭanā)":
+            (f"({DSAHA}{SADISANI}{CC} {NINK}{E} {CNT['tīṇi']}လုံး {N['pacchājāta']}{E} {CNT['dve']}{E} "
+             f"{EKAMULA} {F.GHATANA} {CNT['ekaṃ']})"),
+        "(cittasahabhūdukasadisā ninnānākaraṇā. Tīṇipi sahajātā, nānākkhaṇikā)":
+            (f"({DSAHA}{SADISANI} {NINK}{E} {CNT['tīṇi']}လုံး {F.LEX['sahajātā'][0]}{CC} "
+             f"{F.LEX['nānākkhaṇikā'][0]})"),
+        "(cittasahabhūgamanasadisā, ekaṃyeva kabaḷīkāraṃ āhāraṃ)":
+            f"({DSAHA}၏ {GAMANA}{SADISANI}{CC} {KABALI} {CNT['ekaṃ']}တည်းကိုသာ)",
+        "(purejātasadisaṃ purejātaṃ kātabbaṃ. Sabbaṃ saṃkhittaṃ. Vitthāretabbaṃ)":
+            f"({KINDS['purejātaṃ']}ကို {cn('purejāta')}နှင့် တူအောင် {KAT}{E} {SAB} {SAMKH}{E} {VITTH})",
+        "(purejātasadisaṃ, ninnānākaraṇaṃ)": f"({cn('purejāta')}{SADISA}{CC} {NINK})",
+        "(paṭisandhikkhaṇe tīṇi kātabbā)": f"({PS} {CNT['tīṇi']}ကို {KAT})",
+        # the long -sahabhū / -ānuparivattī dyads
+        "(yathā cittasaṃsaṭṭhasamuṭṭhānadukaṃ, evaṃ imampi dukaṃ, ninnānākaraṇaṃ)":
+            f"({DCSS}{KAYYA}{CC} {EVAM} ဤ {DUKA}ကိုလည်း{CC} {NINK})",
+        "(yathā cittasaṃsaṭṭhasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)": f"({DCSS}နှင့် တူသည့်အတိုင်း{CC} {NINK})",
+        # Ajjhattika
+        "(paṭisandhikkhaṇe dvepi kātabbā, yāva ajjhattikā mahābhūtā)":
+            f"({PS} {CNT['dve']}လုံးကို {KAT}{CC} {AJJHATTIKA_T} {MAHAB}တို့အထိ)",
+        "(Saṃkhittaṃ. Evaṃ navapi pañhā kātabbā. Pañcaviññāṇampi pavesetvā tīṇiyeva moho.)":
+            f"({SAMKH}{E} {EV} {PANHA} {CNT['nava']}လုံးကို {KAT}{E} {PV5}ကိုလည်း {PAVES} {TIYM}{E})",
+        "(anulomaṃ)": f"({K.ORDER_N['anulomaṃ']})",
+        "(evaṃ pañca kātabbā, tīṇiyeva moho)": f"({EV} {CNT['pañca']}ကို {KAT}{CC} {TIYM})",
+        "(paccanīyaṃ)": f"({K.ORDER_N['paccanīyaṃ']})",
+        "(dve adhipatī tiṇṇampi kātabbā)": f"({N['adhipati']} {CNT['dve']}ကို {CNT['tīṇi']}လုံး၌ {KAT})",
+        "(tiṇṇampi ekāyeva adhipati)": f"({CNT['tīṇi']}လုံး၌ {N['adhipati']} {CNT['ekaṃ']}တည်းသာ)",
+        "(tiṇṇampi ekasadisā)": f"({CNT['tīṇi']}လုံး {M3.EKASADISA})",
+        "(tīṇipi pūretvā kātabbā, cittassāti kātabbā, sampayuttakānañcāti kātabbā)":
+            (f"({CNT['tīṇi']}လုံးကို {PURETVA} {KAT}{CC} {CITTA_N}အားဟု {KAT}{CC} "
+             f"{F.QUAL['sampayuttakā']}တို့အား{LAK}ဟု {KAT})"),
+        "(evaṃ navapi pañhā kātabbā)": f"({EV} {PANHA} {CNT['nava']}လုံးကို {KAT})",
+        "(Idha atthi sabbaṭṭhāne sahajātaṃ paccayavārasadisaṃ. Purejātaṃ purejātasadisaṃ. Pacchājātaṃ "
+        "pacchājātasadisaṃ kātabbaṃ, ninnānākaraṇaṃ)":
+            (f"({M3.IHA} {cn('atthi')}၏ {SABBATTH_N} {KINDS['sahajātaṃ']}သည် {VARA('paccaya')}{SADISA}{E} "
+             f"{KINDS['purejātaṃ']}သည် {cn('purejāta')}{SADISA}{E} {KINDS['pacchājātaṃ']}ကို "
+             f"{cn('pacchājāta')}နှင့် တူအောင် {KAT}{CC} {NINK})"),
+        "(sahajātapaccayavārasadisaṃ ninnānākaraṇaṃ, paṭhamagamanasadisaṃyeva. Sabbe padā paṭhamaghaṭanānayena "
+        "vibhajitabbā)":
+            (f"({VARA('sahajāta')}နှင့် {VARA('paccaya')}တို့နှင့် တူသည် {NINK}{CC} {M3.PATHAMA_GAMANA}{SADISA}ပင်{E} "
+             f"{F.PADA} {SAB}ကို {GHATANAYA} {VIB})"),
+        "(saṃkhittaṃ. Sabbe padā vibhajitabbā paṭhamaghaṭanānayena)":
+            f"({SAMKH}{E} {F.PADA} {SAB}ကို {GHATANAYA} {VIB})",
+        # Upādā
+        "(yāva asaññasattā, evaṃ tīṇi noupādāmūlake)": f"({M3.YAVA_AS}{CC} {EV} {mula(NOUPADA_T)} {CNT['tīṇi']})",
+        "(noupādāmūlake tīṇipi paṭiccasadisā, ninnānākaraṇā)":
+            f"({mula(NOUPADA_T)} {CNT['tīṇi']}လုံးသည် {PV}{SADISANI}{CC} {NINK})",
+        "(tīṇipi paṭiccasadisā, ninnānākaraṇā)": f"({CNT['tīṇi']}လုံးသည် {PV}{SADISANI}{CC} {NINK})",
+        "(noupādāmūlake tīṇi, paṭisandhikkhaṇe tīṇipi kātabbā)":
+            f"({mula(NOUPADA_T)} {CNT['tīṇi']}{CC} {PS} {CNT['tīṇi']}လုံးကို {KAT})",
+        "(saṃkhittaṃ. Purejātasadisaṃ ninnānākaraṇaṃ)": f"({SAMKH}{E} {cn('purejāta')}{SADISA} {NINK})",
+        # Upādinna
+        "(yāva utusamuṭṭhānaṃ)": f"({F.QUAL['utusamuṭṭhānaṃ']} ရုပ်အထိ)",          # (rūpaṃ supplied; logged)
+        "(nahetusadisaṃ, moho natthi)": f"({cd('hetu', 'n', True)}{SADISA}{CC} {MOHO} {NATTHI})",
+        "(Evaṃ itare dve gaṇanāpi sampayuttavāropi kātabbā.)": f"({EV} {gsamp} {KAT}{E})",
+        "(saṃkhittaṃ. Upādinnamūlake tīṇi. )": f"({SAMKH}{E} {mula(UPADINNA_T)} {CNT['tīṇi']}{E})",
+        "(upādinnamūlake tīṇi, paṭhamasseva rūpajīvitindriyaṃ, itaresu natthi)":
+            (f"({mula(UPADINNA_T)} {CNT['tīṇi']}{CC} ပထမ {PANHA}၌သာ {M3.RJIVIT}{CC} {ITARE}တို့၌ "
+             f"{NATTHI})"),                                                 # (pañhā supplied as 3-05; logged)
+        "(saṃkhittaṃ. Yathā nikkhittapadāni vibhajitabbāni paripuṇṇāni)":
+            f"({SAMKH}{E} {NIKKH} {M3.PARIP}အောင် {VIB})",
+        "(saṃkhittaṃ, yathā nikkhittapadāni vitthāretabbāni)": f"({SAMKH}{CC} {NIKKH} {VITTH})",
+        "(saṃkhittaṃ, yathā nikkhittapadāni vitthāretabbāni.": f"({SAMKH}{CC} {NIKKH} {VITTH}{E}",   # (not closed)
+        "(saṃkhittaṃ, yathā nikkhittapadāni vibhajitabbāni)": f"({SAMKH}{CC} {NIKKH} {VIB})",
+    }

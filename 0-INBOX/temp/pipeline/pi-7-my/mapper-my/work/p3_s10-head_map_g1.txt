@@ -1,0 +1,17 @@
+1-01-kusalattika: lines 1508 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 92 stem 6
+   STEM ^7-2-410 passati
+   STEM ^7-2-423 bhinditvā
+   STEM ^7-2-423 pharusavācā
+   STEM ^7-2-423 pisuṇavācā
+   STEM ^7-2-423 uppādetvā
+   STEM ^7-2-423 ādiyitvā
+1-03-vipakattika: lines 267 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ruled 38 stem 3
+   STEM ^7-4-85 vibhajitabbāni
+   STEM ^7-4-94 passati
+   STEM ^7-U277 sajjhāyamaggo
+1-04-upadinnattika: lines 209 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 36 stem 3
+   STEM ^7-5-52 passati
+   STEM ^7-5-65 passati
+   STEM ^7-5-82 passati
+1-05-sankilitthattika: lines 85 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 20 stem 1
+   STEM ^7-6-14 bhinditvā

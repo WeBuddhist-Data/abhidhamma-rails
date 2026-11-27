@@ -1,0 +1,2 @@
+for w in ["mahābhūtaṃ","mahābhūte","mahābhūtānaṃ","mahābhūtā","kaṭattārūpaṃ","kaṭattā ca rūpaṃ","cakkhuviññāṇaṃ","cakkhāyatanassa","cakkhāyatanaṃ","kāyassa","imassa","purejātassa","dānaṃ","bāhiraṃ","āhārasamuṭṭhānaṃ","utusamuṭṭhānaṃ","cittasamuṭṭhānaṃ","rūpino","arūpino","itthindriyaṃ","cakkhuviññāṇasahagatānaṃ","vatthussa","kabaḷīkāraṃ āhāraṃ"]:
+    print(w, "| N", F.NOUN.get(w), "| F", F.FIXED.get(w), "| Q", F.QUAL.get(w), "| L", F.LEX.get(w), "| SKF", F.SKF.get(w), "| FG", X.FG.FIXED.get(w), X.FG.LEX.get(w))

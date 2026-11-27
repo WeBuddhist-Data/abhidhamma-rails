@@ -1,0 +1,209 @@
+wrote 2297 decision lines -> dry-decisions-part1.txt
+  manual 0 | p6_same 94 | p6_subset 0 | p6_plus 10 | p6_lump 6 | p5_same 187 | p5_subset 35 | p5_plus 16 | p5_lump 59 | p4_same 16 | p4_subset 0 | p4_plus 4 | p4_lump 4 | p3_same 8 | p3_subset 0 | p3_plus 0 | p3_lump 7 | p2_same 120 | p2_subset 0 | p2_plus 0 | p2_lump 25 | p1_same 23 | p1_subset 1 | p1_plus 0 | p1_lump 5 | mr 1677 | mr_adjusted 0 | case_only 165
+REVIEW (190): check, then add to LUMP_OK or MANUAL:
+  paccayo [pi-6 senses + later binding sense for အကြောင်း]: အကြောင်း
+  Ekamūlakaṃ [pi-6 one sense, new values အကြောင်း တစ်ခုကို အခြေခံခြင်း]: အကြောင်း တစ်ခုကို အခြေခံခြင်း
+  Anulomaṃ [pi-6 one sense, new values လျော်ညီခြင်း စိတ်]: အဟုတ်ပြ ပုံစံ / လျော်ညီခြင်း စိတ်
+  Jhāna [pi-5 one sense, new values ဈာန်ဟူသော အကြောင်း]: ဈာန်ဟူသော အကြောင်း / ဈာန်
+  Natthi [pi-6 one sense, new values မရှိ / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း]: မရှိ / မရှိသည် / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း
+  vigatapaccayā [one Marathi tag]: ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် / ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း
+  Naanantara [one Marathi tag]: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်
+  Napacchājāta [one Marathi tag]: နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်
+  Nissaya [one Marathi tag]: အမှီ / အမှီဟူသော အကြောင်း
+  indriya [pi-5 one sense, new values စွမ်းရည်ဟူသော အကြောင်း]: စွမ်းရည် / စွမ်းရည်ဟူသော အကြောင်း
+  Sahajāta [pi-5 one sense, new values အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း / အတူ ပေါ်ပေါက်သော]: အတူ ပေါ်ပေါက်ခြင်း / အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း / အတူ ပေါ်ပေါက်သော
+  adhipati [pi-5 one sense, new values အကြီးအမှူးဟူသော အကြောင်း]: အကြီးအမှူး / အကြီးအမှူးဟူသော အကြောင်း
+  Aññamañña [pi-5 one sense, new values အချင်းချင်း ထောက်ပံ့ခြင်း / အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း]: အချင်းချင်း ထောက်ပံ့ခြင်း / အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း
+  Upanissaya [one Marathi tag]: အားကြီးသော အမှီ / အားကြီးသော အမှီဟူသော အကြောင်း
+  purejātapaccayā [one Marathi tag]: ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် / ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း
+  upanissayapaccayā [one Marathi tag]: အားကြီးသော အမှီဟူသော အကြောင်းကြောင့် / အားကြီးသော အမှီဟူသော အကြောင်း
+  saṃsaṭṭha [pi-3 one sense, new values ရောနှောခြင်း]: ရောနှောခြင်း
+  samanantarā [pi-5 one sense, new values ကောင်းစွာ ချက်ချင်း နောက်]: ကောင်းစွာ ချက်ချင်း နောက်
+  kiñci [pi-5 one sense, new values အချို့သော]: အချို့သော
+  rūpaṃ [pi-6 senses + later binding sense for အဆင်းအရောင်]: ရုပ် / အဆင်းအရောင်
+  kusalākusalaṃ [pi-2 one sense, new values ကုသိုလ်နှင့် အကုသိုလ်]: ကုသိုလ်နှင့် အကုသိုလ်
+  kammaṃ [pi-5 senses + later binding sense for ကံ]: ကံ
+  vipākā [pi-5 senses + later binding sense for ကံ၏ အကျိုး ဖြစ်သော]: ကံ၏ အကျိုး ဖြစ်သော
+  uppajjeyya [pi-5 one sense, new values ဖြစ်ပေါ်နိုင်သည်]: ဖြစ်ပေါ်နိုင်သည်
+  hetupaccayā [one Marathi tag]: အမြစ်ဟူသော အကြောင်းကြောင့် / အမြစ်ဟူသော အကြောင်း
+  uppajjeyyuṃ [pi-2 one sense, new values ဖြစ်ပေါ်နိုင်သည်]: ဖြစ်ပေါ်နိုင်သည်
+  ārammaṇapaccayā [one Marathi tag]: အာရုံဟူသော အကြောင်းကြောင့် / အာရုံဟူသော အကြောင်း
+  adhipatipaccayā [one Marathi tag]: အကြီးအမှူးဟူသော အကြောင်းကြောင့် / အကြီးအမှူးဟူသော အကြောင်း
+  anantarapaccayā [one Marathi tag]: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် / ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း
+  samanantarapaccayā [one Marathi tag]: ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် / ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း
+  sahajātapaccayā [one Marathi tag]: အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့် / အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း
+  āsevanapaccayā [one Marathi tag]: အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့် / အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း
+  kammapaccayā [one Marathi tag]: ကံဟူသော အကြောင်းကြောင့် / ကံဟူသော အကြောင်း
+  natthipaccayā [one Marathi tag]: မရှိခြင်းဟူသော အကြောင်းကြောင့် / မရှိခြင်းဟူသော အကြောင်း
+  avigatapaccayā [one Marathi tag]: မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် / မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း
+  naadhipatipaccayā [one Marathi tag]: အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ် / အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း
+  Atthi [pi-5 one sense, new values ရှိခြင်း / ရှိခြင်းဟူသော အကြောင်း]: ရှိခြင်း / ရှိသည် / ရှိခြင်းဟူသော အကြောင်း
+  Naadhipati [one Marathi tag]: အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း / အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်
+  kiriyābyākataṃ [pi-1 one sense, new values ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော]: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+  ārammaṇe [pi-5 one sense, new values အာရုံဟူသော အကြောင်း]: အာရုံဟူသော အကြောင်း
+  āhāre [pi-5 one sense, new values အာဟာရဟူသော အကြောင်း]: အာဟာရဟူသော အကြောင်း
+  indriye [pi-6 one sense, new values စွမ်းရည်ဟူသော အကြောင်း]: စွမ်းရည်ဟူသော အကြောင်း
+  magge [pi-5 one sense, new values မဂ်ဟူသော အကြောင်း]: မဂ်ဟူသော အကြောင်း
+  vippayutte [pi-5 one sense, new values ကင်းကွာခြင်းဟူသော အကြောင်း]: ကင်းကွာခြင်းဟူသော အကြောင်း
+  vigate [pi-5 one sense, new values ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း]: ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း
+  jhāne [pi-1 one sense, new values ဈာန်ဟူသော အကြောင်း]: ဈာန်ဟူသော အကြောင်း
+  sampayutte [pi-1 one sense, new values ယှဉ်တွဲခြင်းဟူသော အကြောင်း]: ယှဉ်တွဲခြင်းဟူသော အကြောင်း
+  vipākaṃ [pi-2 one sense, new values ကံ၏ အကျိုး]: ကံ၏ အကျိုး ဖြစ်သော / ကံ၏ အကျိုး
+  vipākābyākate [pi-5 one sense, new values ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော]: ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+  kiriyābyākate [pi-5 one sense, new values ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော]: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+  naārammaṇapaccayā [one Marathi tag]: အာရုံဟူသော အကြောင်းကြောင့် မဟုတ် / အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း
+  pañhā [pi-3 one sense, new values ပြဿနာ]: ပြဿနာ
+  Saṃkhittaṃ [pi-6 senses + later binding sense for အကျဉ်းချုပ်]: အကျဉ်းချုပ်
+  sahajāto [pi-1 one sense, new values အတူ ပေါ်ပေါက်သော]: အတူ ပေါ်ပေါက်သော
+  kusale [pi-2 one sense, new values ကုသိုလ်]: ကုသိုလ်
+  Paripuṇṇaṃ [pi-4 one sense, new values ပြည့်စုံစွာ]: ပြည့်စုံသော / ပြည့်စုံစွာ
+  sattarasa [pi-2 one sense, new values ဆယ့်ခုနစ်ခု]: ဆယ့်ခုနစ်ခု
+  datvā [pi-4 one sense, new values ပြု၍]: ပြု၍
+  uposathakammaṃ [one Marathi tag]: ဥပုသ်ကို စောင့်ထိန်းသည် / ဥပုသ် စောင့်ထိန်းခြင်း / ဥပုသ်
+  paccavekkhati [pi-5 one sense, new values ပြန်လည် ဆင်ခြင်သည်]: ပြန်လည် ဆင်ခြင်သည်
+  suciṇṇāni [one Marathi tag]: ကောင်းစွာ ကျင့်ခဲ့ဖူးသော / ကောင်းစွာ ပြုခဲ့ဖူးသော
+  vodānaṃ [pi-5 one sense, new values စင်ကြယ်ခြင်း စိတ်]: စင်ကြယ်ခြင်း စိတ်
+  assādeti [pi-5 one sense, new values သာယာ]: သာယာ / သာယာသည်
+  vipāko [one Marathi tag]: ကံ၏ အကျိုး ဖြစ်သော / ကံ၏ အကျိုး
+  tadārammaṇatā [one Marathi tag]: ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ် / ထိုအာရုံကို အာရုံပြုသည့် အနေ
+  kusalassa [pi-5 senses + later binding sense for ကုသိုလ်]: ကုသိုလ်
+  vipassati [pi-5 one sense, new values ထိုးထွင်း၍ ရှုသည်]: ထိုးထွင်း၍ ရှုသည်
+  nirodhā [pi-5 one sense, new values ချုပ်ငြိမ်းခြင်း သမာပတ်]: ချုပ်ငြိမ်းခြင်း သမာပတ်
+  vuṭṭhahantassa [pi-5 one sense, new values ထမြောက်နေသူ]: ထမြောက်နေသူ
+  deti [pi-5 one sense, new values ပြုသည်]: ပြုသည်
+  sutaṃ [pi-5 senses + later binding sense for အကြားအမြင်]: အကြားအမြင်
+  parikammaṃ [pi-5 one sense, new values ကြိုတင် ပြင်ဆင်မှု]: ကြိုတင် ပြင်ဆင်မှု
+  uppādenti [pi-5 one sense, new values ဖြစ်စေသည်]: ဖြစ်စေသည်
+  ṭhānāṭhānakosallassa [one Marathi tag]: ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း / ဖြစ်နိုင်သော အကြောင်းနှင့် မဖြစ်နိုင်သော အကြောင်း၌ ကျွမ်းကျင်မှု
+  attānaṃ [pi-5 senses + later binding sense for မိမိကိုယ်]: မိမိကိုယ်
+  vipākassa [one Marathi tag]: ကံ၏ အကျိုး / ကံ၏ အကျိုး ဖြစ်သော
+  bhaṇati [pi-5 one sense, new values ပြောသည်]: ပြောသည်
+  harati [pi-2 one sense, new values လုယူသည်]: လုယူသည်
+  ekāgārikaṃ [one Marathi tag]: အိမ်တစ်လုံးတည်း / အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်
+  tiṭṭhati [pi-5 one sense, new values ဓားပြ တိုက်သည်]: ဓားပြ တိုက်သည်
+  gāmaghātaṃ [one Marathi tag]: ရွာကို ဖျက်ဆီး၍ လုယက်သည် / ရွာ
+  Cakkaṃ [pi-6 one sense, new values စက်ဝိုင်း]: စက်ဝိုင်း
+  Bhojanaṃ [pi-5 one sense, new values အစားအစာ]: အစားအစာ
+  āhārā [pi-5 senses + later binding sense for အာဟာရ]: အာဟာရ
+  sahajātaṃ [pi-2 one sense, new values အတူ ပေါ်ပေါက်ခြင်း / အတူ ပေါ်ပေါက်သော]: အတူ ပေါ်ပေါက်ခြင်း / အတူ ပေါ်ပေါက်သော
+  āhāraṃ [pi-4 senses + later binding sense for အာဟာရ]: အာဟာရ
+  terasa [pi-2 one sense, new values ဆယ့်သုံးခု]: ဆယ့်သုံးခု
+  vippayutta [pi-5 one sense, new values ကင်းကွာခြင်း]: ကင်းကွာခြင်း
+  Ārammaṇa [pi-5 one sense, new values အာရုံဟူသော အကြောင်း]: အာရုံ / အာရုံဟူသော အကြောင်း
+  purejāta [pi-5 one sense, new values ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း]: ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း
+  āhāra [pi-5 one sense, new values အာဟာရ]: အာဟာရ
+  sampayutta [pi-3 one sense, new values ယှဉ်တွဲခြင်း]: ယှဉ်တွဲခြင်း
+  āsevana [pi-5 one sense, new values အလေ့အကျင့် ပြုခြင်း]: အလေ့အကျင့် ပြုခြင်း
+  Pacchājāta [one Marathi tag]: နောက်မှ ဖြစ်ပေါ်ခြင်း / နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း
+  vipāka [pi-2 one sense, new values ကံ၏ အကျိုးဟူသော အကြောင်း]: ကံ၏ အကျိုး / ကံ၏ အကျိုးဟူသော အကြောင်း
+  Vigata [pi-5 one sense, new values ပျောက်ကွယ်ခြင်း]: ပျောက်ကွယ်ခြင်း
+  pannarasa [pi-5 one sense, new values ဆယ့်ငါးခု]: ဆယ့်ငါးခု
+  ekādasa [pi-3 one sense, new values ဆယ့်တစ်ခု]: ဆယ့်တစ်ခု
+  nevavipākanavipākadhammadhammo [pi-2 one sense, new values ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော]: ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား / ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော
+  saññojanādidukāni [one Marathi tag]: နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ / နှောင်ကြိုး နှစ်မျိုးတွဲ စသည်
+  dvādasa [pi-5 one sense, new values ဆယ့်နှစ်ခု]: ဆယ့်နှစ်ခု
+  dhammassa [pi-5 one sense, new values သဘောတရား]: သဘောတရား
+  kāyikaṃ [pi-5 senses + later binding sense for ကိုယ်ပိုင်းဆိုင်ရာ]: ကိုယ်ပိုင်းဆိုင်ရာ
+  dukkhaṃ [pi-6 senses + later binding sense for ဆင်းရဲ]: နာကျင်မှု / ဆင်းရဲ
+  vigataṃ [pi-5 one sense, new values ပျောက်ကွယ်ခြင်း]: ပျောက်ကွယ်ခြင်း
+  soḷasa [pi-5 one sense, new values ဆယ့်ခြောက်ခု]: ဆယ့်ခြောက်ခု
+  cuddasa [pi-3 one sense, new values ဆယ့်လေးခု]: ဆယ့်လေးခု
+  dukkhassa [pi-5 senses + later binding sense for နာကျင်မှု]: နာကျင်မှု
+  tevīsa [pi-3 one sense, new values နှစ်ဆယ့်သုံးခု]: နှစ်ဆယ့်သုံးခု
+  patthanā [pi-5 one sense, new values တောင့်တခြင်း]: တောင့်တခြင်း
+  avasesā [pi-6 senses + later binding sense for ကြွင်းသော]: ကြွင်းသော
+  paṭiccavārasadisā [one Marathi tag]: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင် / မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်
+  naindriya [one Marathi tag]: စွမ်းရည်ဟူသော အကြောင်းကြောင့် မဟုတ် / စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း
+  namagga [one Marathi tag]: မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း / မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်
+  tiṃsa [pi-5 one sense, new values သုံးဆယ်ခု]: သုံးဆယ်ခု
+  gamanāni [pi-2 one sense, new values သွားပုံ]: သွားပုံ
+  passitvā [pi-4 one sense, new values ကြည့်၍]: ကြည့်၍
+  Dassanena [pi-5 senses + later binding sense for သစ္စာကို မြင်ခြင်း]: သစ္စာကို မြင်ခြင်း
+  paṭiccavārasadiso [one Marathi tag]: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည် / မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်
+  paṭiccavārasadisaṃ [one Marathi tag]: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည် / မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်
+  pavattipaṭisandhi [one Marathi tag]: ဘဝ ဖြစ်စဉ် … ပဋိသန္ဓေ / ဘဝ ဖြစ်ဆဲ ကာလ … ပဋိသန္ဓေ
+  Gaṇanāya [pi-2 one sense, new values ရေတွက်ချက်]: ရေတွက်ချက်
+  byañjanena [pi-5 one sense, new values စကားလုံး]: စကားလုံး
+  sekkho [pi-4 senses + later binding sense for ကျင့်ကြံဆဲသူ၏]: ကျင့်ကြံဆဲသူ၏
+  asekkho [pi-4 senses + later binding sense for ကျင့်ကြံမှု ပြီးဆုံးသူ၏]: ကျင့်ကြံမှု ပြီးဆုံးသူ၏
+  aññamaññapaccaya [pi-5 one sense, new values အချင်းချင်း ထောက်ပံ့ခြင်း]: အချင်းချင်း ထောက်ပံ့ခြင်း
+  sukhassa [pi-5 senses + later binding sense for သာယာမှု]: သာယာမှု
+  micchattaniyato [pi-5 senses + later binding sense for မှားယွင်းမှု၌ ကျိန်းသေသော]: မှားယွင်းမှု၌ ကျိန်းသေသော
+  sammattaniyato [pi-5 one sense, new values မှန်ကန်မှု၌ ကျိန်းသေသော]: မှန်ကန်မှု၌ ကျိန်းသေသော
+  voropeti [pi-5 one sense, new values သတ်သည်]: သတ်သည်
+  uppannassa [pi-5 senses + later binding sense for ဖြစ်ပေါ်ပြီးသော]: ဖြစ်ပေါ်ပြီးသော
+  Ajjhattaṃ [pi-5 senses + later binding sense for မိမိ၌ ရှိသော]: မိမိ၌ ရှိသော
+  paro [pi-5 one sense, new values သူတစ်ပါး]: သူတစ်ပါး
+  kāraṇena [pi-5 one sense, new values နည်းလမ်း]: နည်းလမ်း
+  ante [pi-2 one sense, new values အဆုံးတိုင်း]: အဆုံးတိုင်း
+  asaññasattā [pi-6 one sense, new values အသညသတ်]: အသညသတ်
+  dutiyagamanasadisaṃ [one Marathi tag]: ဒုတိယ သွားပုံနှင့် တူသည် / ဒုတိယ သွားပုံနှင့် တူအောင်
+  sahetuko [pi-2 one sense, new values အမြစ် … ရှိသော]: အမြစ် ရှိသော / အမြစ် … ရှိသော
+  sahetukassa [one Marathi tag]: အမြစ် ရှိသော / အမြစ် … ရှိသော
+  agge [pi-2 one sense, new values ရှေ့ဆုံး]: ရှေ့ဆုံး
+  rūpī [pi-2 one sense, new values ရုပ် ဖြစ်သော]: ရုပ် ဖြစ်သော
+  arūpī [pi-2 one sense, new values ရုပ် မဟုတ်သော]: ရုပ် မဟုတ်သော
+  Āsavasampayuttaṃ [one Marathi tag]: စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော / စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော
+  Āsavasampayutto [pi-2 one sense, new values စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော]: စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော / စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော
+  sāsavañca [one Marathi tag]: စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော / စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+  sāsavo [pi-5 one sense, new values စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော]: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော / စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော
+  saññojaniyo [one Marathi tag]: နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော / နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော
+  saññojanasampayutto [one Marathi tag]: နှောင်ကြိုးနှင့် ယှဉ်တွဲသော / နှောင်ကြိုးနှင့် … ယှဉ်တွဲသော
+  saññojaniyañca [one Marathi tag]: နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော / နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော
+  ganthasampayutto [pi-2 one sense, new values အထုံးနှင့် … ယှဉ်တွဲသော]: အထုံးနှင့် ယှဉ်တွဲသော / အထုံးနှင့် … ယှဉ်တွဲသော
+  vibhajantena [one Marathi tag]: ခွဲခြမ်းစိတ်ဖြာလျက် / ခွဲခြမ်းစိတ်ဖြာသူ
+  arūpaṃ [pi-6 senses + later binding sense for ရုပ် မဟုတ်သော]: ရုပ် မဟုတ်သော
+  ganthaniyo [pi-5 one sense, new values အထုံး၏ အာရုံ … ဖြစ်နိုင်သော]: အထုံး၏ အာရုံ ဖြစ်နိုင်သော / အထုံး၏ အာရုံ … ဖြစ်နိုင်သော
+  Yogaṃ [pi-5 one sense, new values ထမ်းပိုး]: ထမ်းပိုး
+  nīvaraṇiyo [pi-5 one sense, new values အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော]: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော / အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော
+  nīvaraṇasampayutto [one Marathi tag]: အတားအဆီးနှင့် ယှဉ်တွဲသော / အတားအဆီးနှင့် … ယှဉ်တွဲသော
+  nīvaraṇiyañca [one Marathi tag]: အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော / အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+  nīvaraṇasampayuttañca [one Marathi tag]: အတားအဆီးနှင့် ယှဉ်တွဲသော / အတားအဆီးနှင့် … ယှဉ်တွဲသော
+  parāmaṭṭho [pi-5 one sense, new values မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော]: မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော / မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော
+  Ajjhattikaṃ [pi-5 senses + later binding sense for အတွင်းပိုင်း]: အတွင်းပိုင်း
+  bāhiro [pi-5 one sense, new values ပြင်ပ]: ပြင်ပ
+  ajjhattikassa [pi-2 one sense, new values အတွင်းပိုင်း]: အတွင်းပိုင်း
+  bāhirassa [pi-2 one sense, new values ပြင်ပ]: ပြင်ပ
+  Upādā [pi-5 senses + later binding sense for မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော]: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော
+  Saṃkiliṭṭhañca [one Marathi tag]: ကိလေသာဖြင့် ညစ်နွမ်းသော / ကိလေသာဖြင့် … ညစ်နွမ်းသော
+  saṃkiliṭṭho [pi-2 one sense, new values ကိလေသာဖြင့် … ညစ်နွမ်းသော]: ကိလေသာဖြင့် ညစ်နွမ်းသော / ကိလေသာဖြင့် … ညစ်နွမ်းသော
+  saṃkilesiko [pi-5 one sense, new values ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော]: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော / ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော
+  kilesasampayutto [pi-2 one sense, new values ကိလေသာနှင့် … ယှဉ်တွဲသော]: ကိလေသာနှင့် ယှဉ်တွဲသော / ကိလေသာနှင့် … ယှဉ်တွဲသော
+  pahātabbahetukādhipati [one Marathi tag]: ပယ်ရမည့် အမြစ် ရှိသော အကြီးအမှူး / ပယ်ရမည့် အမြစ် ရှိသည် … အကြီးအမှူး
+  likhitaṃ [pi-4 one sense, new values ရေးထားသော]: ရေးထားသော
+  sappītikadukasadisaṃ [one Marathi tag]: ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူသည် / ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူအောင်
+  Kāmāvacaraṃ [pi-6 senses + later binding sense for ကာမဘုံနှင့် ဆိုင်သော]: ကာမဘုံနှင့် ဆိုင်သော
+  Rūpāvacaraṃ [pi-6 senses + later binding sense for သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော]: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+  Arūpāvacaraṃ [pi-6 senses + later binding sense for ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော]: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+  arūpāvacare [pi-6 senses + later binding sense for ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော]: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+  arūpadukasadisā [one Marathi tag]: ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူအောင် / ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူသည်
+  Saraṇaṃ [pi-5 senses + later binding sense for ပဋိပက္ခ ရှိသော]: ပဋိပက္ခ ရှိသော
+  anuloma [pi-5 one sense, new values အဟုတ်ပြ ပုံစံ]: အဟုတ်ပြ ပုံစံ
+  hīno [pi-4 senses + later binding sense for ယုတ်ညံ့သော]: ယုတ်ညံ့သော
+  Cittadukakusalasadisaṃ [one Marathi tag]: စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူသည် / စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူအောင်
+  Lokiyadukaabyākatasadisaṃ [one Marathi tag]: လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူသည် / လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူအောင်
+  anuttaro [pi-5 one sense, new values ထိုထက် သာလွန်သည် မရှိသော]: ထိုထက် သာလွန်သည် မရှိသော
+  chattiṃsa [pi-5 one sense, new values သုံးဆယ့်ခြောက်ခု]: သုံးဆယ့်ခြောက်ခု
+  aṭṭhārasa [pi-5 one sense, new values ဆယ့်ရှစ်ခု]: ဆယ့်ရှစ်ခု
+  vattabbaṃ [pi-2 one sense, new values ခေါ်ဆို၍ မရသော]: ခေါ်ဆို၍ မရသော
+  ekūnavīsati [pi-3 one sense, new values ဆယ့်ကိုးခု]: ဆယ့်ကိုးခု
+  sahetukañca [one Marathi tag]: အမြစ် ရှိသော / အမြစ် … ရှိသော
+  Abyākatamūlaṃ [pi-1 one sense, new values ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … အခြေခံခြင်း]: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … အခြေခံခြင်း
+  mūlakaṃ [pi-2 one sense, new values အခြေခံ အကြောင်း]: အခြေခံ အကြောင်း
+  nānākaraṇaṃ [pi-5 one sense, new values ကွဲပြားချက်]: ကွဲပြားချက်
+UNRESOLVED (15): write MANUAL:
+  Anantara	pi-5 senses ['contiguity, the proximity relation, in anantarapaccaya (compound member)', 'next in sequence, in anantaravāra (compound member)']	burmese=['ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း', 'ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း']
+  Hetudukaṃ	Marathi tags=['the root dyad, first dyad of the matrix (heading)', 'pairs with the root condition, combinations in the counts (heading)']	burmese=['အမြစ် နှစ်မျိုးတွဲ', 'အမြစ်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ']
+  Kamma	pi-5 senses ['deeds, as compound member', 'work, busy activity, in kammārāmatā (compound member)']	burmese=['ကံ', 'ကံဟူသော အကြောင်း']
+  paccaya	pi-5 senses ['condition, cause, requisite (compound member), here in the paccaya headings', "reliance on others, in aparappaccaya 'not dependent on others' (compound final)"]	burmese=['အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်း']
+  vatthu	pi-5 senses ["topics, in Khuddakavatthu 'minor topics' (heading member), here the points of controversy, in the book title Kathāvatthu and its closing line", "stump, in tālāvatthukata 'made like a palm stump' of the arahant formula (compound member)"]	burmese=['မှီရာ ဝတ္ထု']
+  Ārammaṇādhipati	Marathi tags=['object-predominance, the object kind of predominance (nominative)', 'object and predominance conditions together, in the combination counts (compound)']	burmese=['အာရုံ အကြီးအမှူး']
+  kātabbaṃ	Marathi tags=["to be included, joined, of a basic sentence, a cycle or a list, the joint value 'include or do' is placed here (gerundive)", 'should be done, in general (gerundive)']	burmese=['ပြုရမည့်']
+  uppādetvā	Marathi tags=['having produced, brought about (absolutive)', "having shed, of the Buddha's blood (absolutive)"]	burmese=['ထွက်စေ၍']
+  vipāke	Marathi tags=['in the result condition, the count locative (locative)', "resultant, born as the result of action, in 'vipāke khandhe' (accusative pl.)"]	burmese=['ကံ၏ အကျိုးဟူသော အကြောင်း', 'ကံ၏ အကျိုး', 'ကံ၏ အကျိုး ဖြစ်သော']
+  kātabbā	Marathi tags=['should be done, in general (gerundive)', "to be included, joined, of items such as rebirth, the great elements or food, the joint value 'include or do' is placed here (gerundive)"]	burmese=['ပြုရမည့်', 'ထည့်ရမည့်']
+  kātabbo	Marathi tags=['to be made or done, of a basic sentence, a cycle or a list (gerundive)', 'to be included, of items such as rebirth, the great elements or food (gerundive, including the one value joining both verbs)']	burmese=['ပြုရမည့်']
+  Hetuṃ	Marathi tags=['root as item of the root dyad, the dyad term itself a root, also its negated form (accusative sg.)', 'root as a noun, a root phenomenon (accusative sg.)']	burmese=['အမြစ်']
+  Saññojanañca	Marathi tags=['and a fetter, item of the fetter dyad, the dyad term itself a fetter, also its negated form (accusative sg. with -ñca)', 'fetter as a noun (with -ñca)']	burmese=['နှောင်ကြိုး']
+  parāmāsassa	Marathi tags=['of wrong grasping, item of the wrong-grasping dyad, the dyad term itself a misapprehension, some values joined with the plain noun (genitive sg.)', 'wrong grasping as a plain noun (genitive sg.)']	burmese=['မှားယွင်းသော ယူဆမှု']
+  citto	pi-5 senses ['of mind, compound final (nominative sg.)', 'proper name, Citta the householder (citto gahapati)']	burmese=['စိတ်']

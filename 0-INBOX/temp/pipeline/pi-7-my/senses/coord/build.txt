@@ -1,0 +1,4 @@
+wrote 2312 lines -> coord/senses.md
+input headwords: 2312 (NDE-only omitted: 0) | expected lines: 2312 | output lines: 2312
+senses: 2328 | headwords with >1 sense: 16 | senses with >1 candidate: 76
+VERIFY OK: headwords equal and in order, no duplicates, all attested values present

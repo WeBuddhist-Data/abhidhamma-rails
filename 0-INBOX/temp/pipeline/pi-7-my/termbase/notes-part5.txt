@@ -1,0 +1,82 @@
+# Part 5 (comments only): locked terms NOT taken, family differences kept, §A items, identity, rails notes. No decision lines here.
+#
+# 5a. Same headword and sense as a LOCKED termbase, the pi-7 term kept (diff-categories.txt; pi123456-match.tsv)
+#  (1) Other senses (TAGDIFF, 38): the locked sense is another one; the senses step's NEW_SENSE (logged in senses/gen_decisions_my.py):
+#      the condition forms by frame (ārammaṇe, āhāre, indriye, magge, jhāne, sampayutte, vippayutte, vigate «Nဟူသော အကြောင်း»; the bare
+#      names Aññamañña, vippayutta, sampayutta, purejāta, āhāra, āsevana, Vigata, vigataṃ, sahajātaṃ), paccaya (the vāra member), Ekamūlakaṃ
+#      (the counted mūlaka), kiñci, vatthu «မှီရာ ဝတ္ထု», kusale, vodānaṃ «စင်ကြယ်ခြင်း စိတ်» (the mind moment, §A 5), nirodhā «ချုပ်ငြိမ်းခြင်း
+#      သမာပတ်», parikammaṃ, tiṭṭhati, dhammassa, gamanāni, byañjanena, kāraṇena, ante, agge, Yogaṃ, bāhiro, likhitaṃ, anuloma, Abyākatamūlaṃ, citto.
+#  (2) Locked term in the pi-7 text, the pi-7 term kept (19), each a chosen departure:
+#   - saṃsaṭṭha «ရောနှောခြင်း»: the vāra member of saṃsaṭṭhavāra (T5, approved sample); pi-3 «ရောနှောသော» (adjective) is in 0 of its 24 segments.
+#   - samanantarā «ကောင်းစွာ ချက်ချင်း နောက်»: approved sample point 2 (§A 1); pi-5 «ချက်ချင်း နောက်၌» is anantarā's word here (^7-1-4 / ^7-1-5).
+#   - uppajjeyya / uppajjeyyuṃ «ဖြစ်ပေါ်နိုင်သည်»: the pucchāvāra «Siyā … uppajjeyya» = «… ဖြစ်ပေါ်နိုင်သလော» (approved sample, T10); pi-5 / pi-2
+#     «ဖြစ်ပေါ်သည်» is uppajjati's word, in 0 of their 37 segments as their word.
+#   - paccavekkhati / paccavekkhanti «ပြန်လည် ဆင်ခြင်သည်» (§A 2 decided): the locked noun paccavekkhaṇā «ပြန်လည် ဆင်ခြင်ခြင်း» (pi-1 / pi-2 / pi-4 /
+#     pi-5) and the whole pi-7 family (paccavekkhitvā, paccavekkhaṇā, X-paccavekkhaṇaṃ) have «ပြန်လည် ဆင်ခြင်»; one word per lemma (brief 2).
+#     pi-2 / pi-5 verb «ဆင်ခြင်သည်» is a substring of it (151 / 151 segments), so the rails text needs no change.
+#   - deti «ပြုသည်», datvā «ပြု၍» (absent): T11, «dānaṃ deti / datvā» = «ပေးလှူခြင်းကို ပြုသည် / ပြု၍» (dānaṃ «ပေးလှူခြင်း» carries the giving);
+#     pi-5 «ပေးသည်» would give «ပေးလှူခြင်းကို ပေးသည်».
+#   - uppādeti / uppādenti «ဖြစ်စေသည်»: pi-5 uppādenti «ဖြစ်ပေါ်စေသည်» (2 of 11 segments) NOT taken: jappeti «ဖြစ်ပေါ်စေသည်» (locked pi-5, the same
+#     pi-7 term) stands in the same deeds-list segments («mānaṃ jappeti … jhānaṃ uppādeti», 58 segments, synonym-check.txt); one Burmese
+#     for both would merge two Pāli verbs (burmese-style lessons). Rejected: aligning both to «ဖြစ်ပေါ်စေသည်».
+#   - harati «လုယူသည်»: = pi-5 hareyya «လုယူသည်» (the same deeds list); pi-2 harati «ဆောင်သည်» (carries off) is in 0 of 4 segments.
+#   - kāyikaṃ «ကိုယ်ပိုင်းဆိုင်ရာ»: = pi-1 / pi-2 locked kāyikaṃ (same tag) and the family kāyikassa; pi-5 «ကိုယ်» (the body) is only a part of it.
+#   - Dassanena «သစ္စာကို မြင်ခြင်း», sekkho «ကျင့်ကြံဆဲသူ၏», asekkho «ကျင့်ကြံမှု ပြီးဆုံးသူ၏»: the triad qualifiers from pi-1 final (brief 2; pi-1 /
+#     pi-2 / pi-3 locked; the coordinator's sekkha decision, §A 21); pi-5 «မြင်ခြင်း» / pi-4 «ကျင့်ကြံဆဲသူ» are the plain verb noun and the person.
+#     The persons keep «ကျင့်ကြံဆဲသူ» (sekkhā, sekkhānaṃ = pi-4): two uses, family-scan B «sekkh».
+#   - the answer counts terasa, soḷasa, cuddasa, tevīsa, tiṃsa «…ခု» (and absent: sattarasa, pannarasa, ekādasa, dvādasa, chattiṃsa, aṭṭhārasa,
+#     ekūnavīsati): T6 / pi-1 decision 5, the text's classifier «ခု» for counted answers; the locked «…ပါး» counted persons, khandhas or items.
+#   - vipākamanoviññāṇadhātu «ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်»: pi-1 has the same words with a « … » gap (its own text's construction).
+#   - mūlakaṃ «အခြေခံ အကြောင်း»: the noun of the note «(mūlakaṃ saṃkhittaṃ)»; pi-2 «အခြေခံသော» (compound final) is in 0 of 20 segments.
+#   - niruddhe «ချုပ်ငြိမ်းသွားသော» (part 1, §A 35): pi-5 / pi-6 / pi-1 «ချုပ်ငြိမ်းပြီးသော» never occurs in niruddhe's 28 segments.
+#  (3) Locked term never in the pi-7 text, the pi-7 form kept and reported (30; vattabbaṃ aligned instead, part 2):
+#      paṭicca «မှီ၍» (pi-1 / pi-5 «အကြောင်းတို့ကို မှီ၍» is the dependent-origination sense without an object; approved sample: paṭicca / nissāya
+#      «မှီ၍», 0 of 2903 segments), anantarapaccayena / aññamaññapaccaya (the T1 names), kusalākusalaṃ «ကုသိုလ်နှင့် အကုသိုလ်» (§A 3; = the
+#      text's «… ကံ», pi-5 kusalākusale), kiriyābyākataṃ, pañhā «ပြဿနာ» (the vāra name), sahajāto «အတူ ပေါ်ပေါက်သော» (my7 §4 link word),
+#      vipassati / vipassanti «ထိုးထွင်း၍ ရှုသည်» (vipassanā's «ထိုးထွင်း»), vuṭṭhahantassa «ထမြောက်နေသူ» (pi-4 P6 agent noun), bhaṇati «ပြောသည်»,
+#      vācāya «စကား», Cakkaṃ «စက်ဝိုင်း» (the text's word), Bhojanaṃ «အစားအစာ», avasesā «ကြွင်းသော» (pi-1 … pi-6 «ကြွင်းကျန်သော»: 0 of 18
+#      segments; = avasesesu, Avasesāni), passitvā «ကြည့်၍» (§A 22), Gaṇanāya «ရေတွက်ချက်» (= the gaṇanā family), sukhassa «သာယာမှု», paro
+#      «သူတစ်ပါး», asaññasattā «အသညသတ်» (H3, the beings' name), rūpī / arūpī «ရုပ် ဖြစ်သော / ရုပ် မဟုတ်သော» (§A 24: = pi-1 rūpino / arūpino,
+#      the dyad terms; pi-2 «ရုပ် ရှိသော» is the jhāna formula's sense), hīno «ယုတ်ညံ့သော», the counts above.
+#
+# 5b. Same lemma, other headword (lemma-match.txt; not binding, reported): pavatteyeva / pavattipaṭisandhi «ဘဝ ဖြစ်စဉ်» vs pi-6 pavatte «ဘဝ တည်နေစဉ်»;
+#   vippaṭisārissa «နောင်တ ရသူ» (agent noun) vs pi-4 vippaṭisārī «… ရသော»; gaṇanā «ရေတွက်ချက်» vs pi-5 gaṇanaṃ «ရေတွက်ခြင်း»; Anulomaṃ|0
+#   «အဟုတ်ပြ ပုံစံ» = pi-6 (approved sample).
+#
+# 5c. Family scan (family-scan-before.txt → family-scan-after.txt): part A 1 → 0 headwords lacking the core word (33 explained hits); part B
+#   53 → 51 families with more than one term, 51 explained, 0 unexplained: the condition by its frame (T1-T4: bare name / name / ablative;
+#   the na-X stems: name negative in headings, ablative in the hyphen chains), vipāka attributive vs noun, two senses (anulom, paccay,
+#   hetuduk, kātabb, arūp, rūp, dukkh), grammar (sukh, gaṇit, saṃsaṭṭh, nevavipāka…, -mūlak), two lemmas (uppād, no-upād), sekkh (persons vs
+#   qualifier), maggapaccaya (slip, part 3).
+#
+# 5d. Synonym check (synonym-check.txt; two different Pāli words with one term in a segment): no synonym list is merged. Kept: datvā / katvā
+#   «ပြု၍» (T11 act compounds), bhaṇati / palapati «ပြောသည်» (musā bhaṇati, samphaṃ palapati: one verb 'speaks' with its own object; pi-5
+#   palapeyya «ပြောသည်»), hanati / voropeti «သတ်သည်» (^7-35-336; voropeti locked pi-5 B5), the case siblings (jānanti / jānāti, lobhañca /
+#   lobho …). The jappeti / uppādeti clash is why uppādeti keeps «ဖြစ်စေသည်» (5a).
+#
+# 5e. map-harmonise-notes.md §A, decided by a term (23): 1 samanantarā (kept, sample); 2 paccavekkh- «ပြန်လည် ဆင်ခြင်» (5a); 3 kusalākusalaṃ
+#   «ကုသိုလ်နှင့် အကုသိုလ်»; 4 -sadisa «…နှင့် တူသည်» (part 1, part 4; the adverbial «…နှင့် တူအောင်» and «-sadisā» «တူကြသည်» stay as INFLECTION);
+#   7 assādeti / assādenti «သာယာသည်»; 8 the act compounds with their verb (uposathakammaṃ, gāmaghātaṃ, ekāgārikaṃ; nigamaghātaṃ already);
+#   9 kātabbā two senses «ပြုရမည့် / ထည့်ရမည့်» (senses step); 11 paṭicca / nissāya «မှီ၍»; 13 the -to forms without «ဟု»; 14 ṭhānāṭhānakosalla
+#   «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»; 15 suciṇṇāni «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော»; 16 tadārammaṇatā «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်»;
+#   19 pavatti «ဘဝ ဖြစ်စဉ်»; 21 sekkha qualifier «ကျင့်ကြံဆဲသူ၏» vs persons «ကျင့်ကြံဆဲသူ»; 22 passitvā «ကြည့်၍»; 23 naviññeyyo «မသိနိုင်သော»;
+#   24 rūpī / arūpī «ရုပ် ဖြစ်သော / ရုပ် မဟုတ်သော»; 27 nānākaraṇa «ကွဲပြားမှု» (locked pi-5; ninnānākaraṇaṃ / -ā «ကွဲပြားမှု မရှိ», 70 uses change);
+#   30 lokiya «လောကနှင့် သက်ဆိုင်…» / kāmāvacara «ကာမဘုံနှင့် ဆိုင်…» (each its locked pi-1 word; kept); 33 nevadassanena (one value); 35 niruddhe
+#   «ချုပ်ငြိမ်းသွားသော»; 36 saññojanādidukāni «နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ»; 37 vibhajantena «ခွဲခြမ်းစိတ်ဖြာလျက်».
+#   Left for the rails step (15, no term decides them): 5 the head nouns the text adds («ကံ», «စိတ်», «အမှု», «ရုပ်», «ပြဿနာ», «အပိုင်း», «ထိုအမှု»);
+#   6 «သဘောတရား» inside the -sadisa / -mūla notes; 10 the list comma inside terms (the terms have none); 12 spellings and slips as written
+#   (the slip headwords already carry the intended word's term: vicākānaṃ, lokuttarasa, uppajanti, maggapaccaya (part 3)); 17 tassa
+#   paṭighātatthāya (the text is uniform); 18 uppannaṃ samāpajjati (noun repeated or nominalised: wording); 20 the verb dropped in four
+#   abbreviated sentences; 25 arūpadukasadisā «ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲ» kept as the text (it may name the arūpāvacara dyad
+#   «ရုပ်မရှိသော ဘုံနှင့် ဆိုင်ခြင်း နှစ်မျိုးတွဲ»: for the Burmese speaker); 26 one note read two ways; 28 the missing dot; 29 keyword-file gaps;
+#   31 the elliptic «(dassane ekaṃ, nadassane dve)»; 32 the split title compound; 34 the heading number «အစုများ / အစု»; 38 «နတ်» written
+#   into one word with the next keyword (dibba-: the term «နတ်» stays; spacing).
+#
+# 5f. Identity with pi-1 … pi-6 (shared_check.py → shared-check.txt / shared-check-all.txt): no decision of parts 1-4 touches a shared sentence
+#   (the shared units are headings, «Namo tassa …», «Abhidhammapiṭake», «(1)» «(2)» «(3)», «(Saṃkhittaṃ)»; 0 conflicts). Every sense of the
+#   assembled termbase: 47 shared units, 41 keep the term; the 6 others are Namo «ရှိခိုးသည်» = the locked pi-1 … pi-6 term itself, whose
+#   rails text has the homage register «… ရှိခိုးပါ၏» (INFLECTION), no conflict.
+#
+# 5g. For the rails step: nillopaṃ «လုယက်» (part 2) → «လုယက်ပစ္စည်းကို လုယူသည်» as the pi-5 rails; paripanthe «လမ်း» → «လမ်း၌ ဓားပြ တိုက်သည်» (or
+#   keep «လမ်းခရီး၌», which contains the term); samphaṃ: the text is already «အကျိုးမဲ့ ပြိန်ဖျင်းသော စကားကို ပြောသည်»; vattabbaṃ «ခေါ်ဆို၍ ရ» with
+#   na = «ခေါ်ဆို၍ မရသော» (INFLECTION); the condition forms by frame (T1-T4) and the vipāka attributive / noun are INFLECTION of one term.

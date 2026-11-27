@@ -1,0 +1,20 @@
+checked: S 2399, P 2399, C 2399, O 2399, N 2399, I 3301, T 473
+reuse test: terms 25 / 25 identical (of 474 witnessed values); sentences 534 / 534 identical
+identity with the finished pi-7 groups: 74 / 78 sentences identical (differences: --groups)
+0 mismatches
+count          -> caught (1 mismatches)
+polarity       -> caught (3 mismatches)
+dyad term      -> caught (2 mismatches)
+triad term     -> caught (1 mismatches)
+condition      -> caught (1 mismatches)
+digits         -> caught (3 mismatches)
+part name order -> caught (2 mismatches)
+C world term   -> caught (2 mismatches)
+E world term   -> caught (2 mismatches)
+E world term 2 -> caught (2 mismatches)
+as-written term -> caught (2 mismatches)
+pada heading   -> caught (3 mismatches)
+colophon       -> caught (1 mismatches)
+hand line term -> caught (2 mismatches)
+14 / 14 planted errors caught
+exit 0

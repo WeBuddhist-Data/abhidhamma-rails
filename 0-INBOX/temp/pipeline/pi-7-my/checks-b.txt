@@ -1,0 +1,33 @@
+== check_ch4-02-09
+checked: S 2957, P 2957, C 2957, O 2957, N 2957, I 3157, T 222
+reuse test: terms 33 / 33 identical (of 384 witnessed values); sentences 184 / 184 identical
+identity with the finished pi-7 groups: 88 / 88 sentences identical (differences: --groups)
+0 mismatches
+== check_ch4-10-14
+checked: S 973, P 973, C 973, O 973, N 973, I 1266, T 374
+reuse test: terms 24 / 24 identical (of 478 witnessed values); sentences 113 / 113 identical
+identity with the finished pi-7 groups: 64 / 64 sentences identical (differences: --groups)
+0 mismatches
+== check_ch4-15-21
+checked: S 2399, P 2399, C 2399, O 2399, N 2399, I 3301, T 473
+reuse test: terms 25 / 25 identical (of 478 witnessed values); sentences 534 / 534 identical
+identity with the finished pi-7 groups: 78 / 78 sentences identical (differences: --groups)
+0 mismatches
+== check_ch5-01-04
+checked: S 1438, C 1438, O 1065, P 1065, N 1438, I 2317, T 368
+reuse test: terms 149 / 149 witnessed in the finished chapters; sentences 222 / 222 identical with pi-1 … pi-6
+identity with the finished groups 1-00 … 4-01: 29 / 29 sentences identical (the differences are listed with --groups)
+0 mismatches
+== check_ch5-05-12
+S 5-12-anulomapaccaniya-tikaduka.md 211 Latin left: hetuyā | Pītisahagataṃ nahetuṃ dhammaṃ paṭicca naupekkhāsahagato nanahetu dhammo uppajjati hetupacc
+S 5-12-anulomapaccaniya-tikaduka.md 238 Latin left: hetuyā | Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca namaggahetuko nanahetu dhammo uppajjati hetupaccayā…
+checked: S 2038, C 2038, O 1578, P 1578, N 2038, I 3169, T 376
+reuse test: terms 154 / 154 witnessed in the finished chapters; sentences 123 / 123 identical with pi-1 … pi-6
+identity with the finished groups 1-00 … 4-14, 5-01 … 5-04: 123 / 123 sentences identical (the differences are listed with --groups)
+2 mismatches
+== check_ch5-13-20
+checked: S 1690, C 1690, O 1378, P 1378, N 1690, I 2340, T 368
+reuse test: terms 154 / 154 witnessed in the finished chapters; sentences 23 / 23 identical with pi-1 … pi-6
+combined terms (stacked chains) identical with the finished chapters: 566 / 566
+identity with the finished groups 1-00 … 4-14, 5-01 … 5-04: 49 / 49 sentences identical (the differences are listed with --groups)
+0 mismatches

@@ -1,0 +1,845 @@
+## paccayo  (pi-6 senses + later binding sense for အကြောင်း) kept=-
+   pi-7: အကြောင်း=1167[7-1-1,7-1-2,7-1-3,7-1-4…]
+   pi-6: support, conditioning factor (nominative), here the ninth of the ten synonyms for a root in the hetuvāra: အထောက်အပံ့
+   pi-5: support, conditioning factor (nominative): အကြောင်း || reliance on others, in parapaccayo (compound final): အားကိုးရသော
+   mr-7 tags: is a condition, the predicate of the Pañhāvāra and definition formula (nominative, verbal)
+## Ekamūlakaṃ  (pi-6 one sense, new values အကြောင်း တစ်ခုကို အခြေခံခြင်း) kept=-
+   pi-7: အကြောင်း တစ်ခုကို အခြေခံခြင်း=5[7-1-1-1-3-1-1-0,7-1-34,7-1-38,7-1-41…]
+   pi-6: based on one root in common (neuter sg.): တူညီသော အမြစ်ကို အခြေခံသော
+   pi-3: section label for items taken one at a time: တစ်မျိုးတွဲကို အခြေခံသော
+   mr-7 tags: the one-condition series, counts that start from a single condition (heading)
+## Anulomaṃ  (pi-6 one sense, new values လျော်ညီခြင်း စိတ်) kept=sense
+   pi-7: အဟုတ်ပြ ပုံစံ=535[7-1-1-1-4-2-2-0,7-1-1-1-4-11-2-0,7-1-1-1-4-11-2-0,7-1-1-1-4-11-2-0…] | လျော်ညီခြင်း စိတ်=29[7-8-27,7-8-28,7-8-29,7-10-85…]
+   pi-6: the affirmative form of the paired questions, in the headings of each section (heading member): အဟုတ်ပြ ပုံစံ
+   pi-5: direct order of argument (heading member): အစဉ်အတိုင်း
+   mr-7 tags: the positive method, counting with the conditions present (heading and nominative) || conformity, the cognitive moment before change-of-lineage (nominative sg.)
+## Jhāna  (pi-5 one sense, new values ဈာန်ဟူသော အကြောင်း) kept=grammar
+   pi-7: ဈာန်ဟူသော အကြောင်း=2[7-1-1-1-4-2-16-0,7-1-1-1-4-15-16-0] | ဈာန်=1[7-8-4]
+   pi-5: meditative absorption, chapter subject (stem and heading): ဈာန်
+   pi-2: meditative absorption, chapter subject (stem and heading): ဈာန်
+   mr-7 tags: jhāna condition, bare stem in lists and headings (stem)
+## Natthi  (pi-6 one sense, new values မရှိ / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း) kept=grammar / sense
+   pi-7: မရှိ=38[7-3-2,7-8-4,7-9-12,7-9-42…] | မရှိသည်=20[7-2-339,7-2-358,7-9-44,7-10-59…] | မရှိခြင်း=16[7-2-454,7-2-456,7-2-466,7-2-472…] | မရှိခြင်းဟူသော အကြောင်း=6[7-1-1-1-4-2-20-0,7-1-1-1-4-6-58-0,7-1-1-1-4-57-80-0,7-1-1-1-6-40-22-0…]
+   pi-6: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   pi-5: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   pi-4: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   pi-3: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   pi-2: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   pi-1: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်
+   mr-7 tags: there is not, is absent, in the editorial notes (3rd sg. present) || absence condition, bare stem in lists and headings (stem)
+## vigatapaccayā  (one Marathi tag) kept=grammar
+   pi-7: ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်=54[7-1-33,7-1-33,7-1-33,7-1-39…] | ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း=2[7-1-1-1-4-2-20-0,7-2-268]
+   mr-7 tags: disappearance condition, by which a state arises, also in headings (ablative)
+## Naanantara  (one Marathi tag) kept=grammar
+   pi-7: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း=4[7-1-1-1-4-4-5-0,7-1-1-1-4-4-5-0,7-1-1-1-4-57-99-0,7-1-1-1-4-57-99-0] | ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်=2[7-U265,7-U265]
+   mr-7 tags: absence of the proximity condition, bare negative stem in headings and in chains of negatives
+## Napacchājāta  (one Marathi tag) kept=grammar
+   pi-7: နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း=14[7-1-1-1-4-4-9-0,7-1-1-1-4-4-9-0,7-1-1-1-4-5-15-0,7-1-1-1-4-5-15-0…] | နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်=2[7-U265,7-U265]
+   mr-7 tags: absence of the post-arising condition, bare negative stem in headings and in chains of negatives
+## Nissaya  (one Marathi tag) kept=grammar
+   pi-7: အမှီ=115[7-2-441,7-2-442,7-2-443,7-2-445…] | အမှီဟူသော အကြောင်း=1[7-1-1-1-4-6-20-0]
+   mr-7 tags: support condition, bare stem in lists and headings (stem)
+## indriya  (pi-5 one sense, new values စွမ်းရည်ဟူသော အကြောင်း) kept=grammar
+   pi-7: စွမ်းရည်=72[7-2-442,7-2-443,7-2-450,7-2-451…] | စွမ်းရည်ဟူသော အကြောင်း=3[7-1-1-1-4-54-5-0,7-1-1-1-4-57-4-0,7-1-1-1-5-15-5-0]
+   pi-5: sense faculty, in indriyabaddha 'bound to the faculties' (compound member), here the faculties as a category, in indriyapaññatti: စွမ်းရည်
+   pi-4: sense faculty, in indriyabaddha 'bound to the faculties' (compound member), here the faculties as a category, in indriyapaññatti: စွမ်းရည် || the sense organs to be guarded, in indriyasaṃvara and indriyesu guttadvāro (compound member): အာရုံခံ အင်္ဂါ
+   pi-2: sense faculty, in indriyabaddha 'bound to the faculties' (compound member): စွမ်းရည်
+   pi-1: sense faculty, in indriyabaddha 'bound to the faculties' (compound member): စွမ်းရည်
+   mr-7 tags: faculty condition, bare stem in lists and headings (stem)
+## Sahajāta  (pi-5 one sense, new values အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း / အတူ ပေါ်ပေါက်သော) kept=grammar
+   pi-7: အတူ ပေါ်ပေါက်ခြင်း=119[7-1-1-1-8-7-0,7-2-1-1-2-12-0,7-2-1-1-8-11-0,7-2-1-1-11-12-0…] | အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း=1[7-1-1-1-4-54-49-0] | အတူ ပေါ်ပေါက်သော=1[7-1-1-1-4-57-10-0]
+   pi-5: born together (compound member): အတူ ပေါ်ပေါက်ခြင်း
+   mr-7 tags: co-arising condition, bare stem in lists and headings, and as a label in the section name Sahajātavāra (stem and compound member)
+## adhipati  (pi-5 one sense, new values အကြီးအမှူးဟူသော အကြောင်း) kept=grammar
+   pi-7: အကြီးအမှူး=75[7-2-339,7-2-415,7-2-447,7-2-448…] | အကြီးအမှူးဟူသော အကြောင်း=2[7-1-1-1-4-54-57-0,7-4-3-1-69-5-0]
+   pi-5: predominance, dominant factor (heading): အကြီးအမှူး
+   pi-1: predominance, dominant factor (heading): အကြီးအမှူး
+   mr-7 tags: predominance condition, bare stem or separate word in lists and headings (stem) || the predominant factor itself, in notes and answers, including the participle form predominant (nominative)
+## Aññamañña  (pi-5 one sense, new values အချင်းချင်း ထောက်ပံ့ခြင်း / အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း) kept=grammar
+   pi-7: အချင်းချင်း ထောက်ပံ့ခြင်း=92[7-2-441,7-2-442,7-2-443,7-2-449…] | အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း=2[7-1-1-1-5-13-7-0,7-2-1-1-2-15-7-0]
+   pi-5: mutuality, reciprocity (heading member): အချင်းချင်း
+   pi-2: mutuality, reciprocity (heading member): အချင်းချင်း အကြောင်းဖြစ်ခြင်း
+   mr-7 tags: mutuality condition, bare stem in lists and headings (stem)
+## Upanissaya  (one Marathi tag) kept=grammar
+   pi-7: အားကြီးသော အမှီ=26[7-2-423,7-2-454,7-2-456,7-2-466…] | အားကြီးသော အမှီဟူသော အကြောင်း=1[7-1-1-1-6-17-7-0]
+   mr-7 tags: strong-support condition, bare stem in lists and headings (stem)
+## purejātapaccayā  (one Marathi tag) kept=grammar
+   pi-7: ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်=130[7-1-33,7-1-33,7-1-33,7-1-47…] | ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း=2[7-1-1-1-6-17-7-0,7-4-2-9-27-3-0]
+   mr-7 tags: pre-arising condition, by which a state arises, also in headings (ablative)
+## upanissayapaccayā  (one Marathi tag) kept=grammar
+   pi-7: အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်=160[7-1-33,7-1-33,7-1-33,7-1-33…] | အားကြီးသော အမှီဟူသော အကြောင်း=12[7-1-1-1-7-3-6-0,7-2-149,7-2-149,7-2-149…]
+   mr-7 tags: strong-support condition, by which a state arises, also in headings (ablative)
+## saṃsaṭṭha  (pi-3 one sense, new values ရောနှောခြင်း) kept=-
+   pi-7: ရောနှောခြင်း=24[7-1-1-1-8-7-0,7-2-1-1-2-12-0,7-2-1-1-8-11-0,7-2-1-1-11-12-0…]
+   pi-3: intermixed, joined with (compound member): ရောနှောသော
+   pi-2: intermixed, joined with (compound member): ရောနှောသော
+   pi-1: intermixed, joined with (compound member): ရောနှောသော
+   mr-7 tags: conjoined, intermixed, in the section name Saṃsaṭṭhavāra (heading member)
+## samanantarā  (pi-5 one sense, new values ကောင်းစွာ ချက်ချင်း နောက်) kept=-
+   pi-7: ကောင်းစွာ ချက်ချင်း နောက်=1[7-1-5]
+   pi-5: right after, immediately following (adverb): ချက်ချင်း နောက်၌ / ချက်ချင်း
+   pi-4: right after, immediately following (adverb): ချက်ချင်း နောက်၌
+   pi-2: right after, immediately following (adverb): ချက်ချင်း နောက်၌ / အခြားမဲ့
+   mr-7 tags: right after, immediately following (postposition)
+## kiñci  (pi-5 one sense, new values အချို့သော) kept=-
+   pi-7: အချို့သော=2[7-1-6,7-1-10]
+   pi-5: anything at all (indefinite pronoun): တစ်စုံတစ်ရာ / မှန်သမျှ
+   mr-7 tags: some, in kiñci kāle 'at some times' (indefinite pronoun)
+## rūpaṃ  (pi-6 senses + later binding sense for အဆင်းအရောင်) kept=sense
+   pi-7: ရုပ်=3079[7-1-10,7-2-53,7-2-53,7-2-53…] | အဆင်းအရောင်=57[7-7-71,7-11-48,7-12-44,7-13-56…]
+   pi-6: matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ်
+   pi-5: visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင် || matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ်
+   pi-4: visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင်
+   pi-3: matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ်
+   pi-2: matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ် / ရုပ်ပိုင်း || visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင် || of such a nature, in piyarūpaṃ sātarūpaṃ 'what is dear and pleasing' (compound final): သဘော ရှိသော / သဘော
+   pi-1: matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ် / ရုပ်ပိုင်း || visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင်
+   mr-7 tags: matter, material form (nominative/accusative sg.) || visible form, the object of the eye (nominative/accusative sg.)
+## kusalākusalaṃ  (pi-2 one sense, new values ကုသိုလ်နှင့် အကုသိုလ်) kept=-
+   pi-7: ကုသိုလ်နှင့် အကုသိုလ်=36[7-1-13,7-1-13,7-3-45,7-3-45…]
+   pi-2: wholesome or unwholesome (neuter sg.): ကုသိုလ် အကုသိုလ်
+   mr-7 tags: wholesome or unwholesome, said of kamma or of a mind (neuter sg.)
+## kammaṃ  (pi-5 senses + later binding sense for ကံ) kept=-
+   pi-7: ကံ=11[7-1-13,7-2-423,7-4-103,7-5-62…]
+   pi-5: action-noun final '-making, -doing' in synonym lists, as in niṭṭhuriyakammaṃ and anāvikammaṃ, here in añjalikammaṃ and sāmīcikammaṃ: ပြုမူခြင်း
+   pi-4: action-noun final '-making, -doing' in synonym lists, as in niṭṭhuriyakammaṃ and anāvikammaṃ: ပြုခြင်း || morally significant deeds, kamma (accusative): ကံ
+   mr-7 tags: kamma, the action done (nominative/accusative sg.)
+## vipākā  (pi-5 senses + later binding sense for ကံ၏ အကျိုး ဖြစ်သော) kept=-
+   pi-7: ကံ၏ အကျိုး ဖြစ်သော=5[7-1-14,7-10-99,7-13-35,7-35-204…]
+   pi-5: resultant, born as the result of action (feminine or pl.): အကျိုး
+   pi-2: resultant, born as the result of action (feminine or pl.): ကံ၏ အကျိုး ဖြစ်သော
+   pi-1: resultant, born as the result of action (feminine or pl.): ကံ၏ အကျိုး ဖြစ်သော
+   mr-7 tags: resultant, born as the result of action (nominative pl.)
+## uppajjeyya  (pi-5 one sense, new values ဖြစ်ပေါ်နိုင်သည်) kept=-
+   pi-7: ဖြစ်ပေါ်နိုင်သည်=113[7-1-25,7-1-25,7-1-25,7-1-25…]
+   pi-5: would come to be (optative): ဖြစ်ပေါ်သည်
+   mr-7 tags: might arise, would arise (3rd sg. optative)
+## hetupaccayā  (one Marathi tag) kept=grammar
+   pi-7: အမြစ်ဟူသော အကြောင်းကြောင့်=7098[7-1-25,7-1-25,7-1-25,7-1-26…] | အမြစ်ဟူသော အကြောင်း=10[7-2-265,7-2-265,7-2-265,7-24-149…]
+   mr-7 tags: root condition, by which a state arises, also in headings (ablative)
+## uppajjeyyuṃ  (pi-2 one sense, new values ဖြစ်ပေါ်နိုင်သည်) kept=-
+   pi-7: ဖြစ်ပေါ်နိုင်သည်=95[7-1-25,7-1-25,7-1-25,7-1-25…]
+   pi-2: would arise (3rd pl. optative): ဖြစ်ပေါ်သည်
+   mr-7 tags: might arise, would arise (3rd pl. optative)
+## ārammaṇapaccayā  (one Marathi tag) kept=grammar
+   pi-7: အာရုံဟူသော အကြောင်းကြောင့်=563[7-1-32,7-1-32,7-1-32,7-1-35…] | အာရုံဟူသော အကြောင်း=79[7-4-2-1-33-2-0,7-4-2-1-39-2-0,7-4-2-1-49-2-0,7-4-2-1-59-2-0…]
+   mr-7 tags: object condition, by which a state arises, also in headings (ablative)
+## adhipatipaccayā  (one Marathi tag) kept=grammar
+   pi-7: အကြီးအမှူးဟူသော အကြောင်းကြောင့်=237[7-1-33,7-1-33,7-1-33,7-1-36…] | အကြီးအမှူးဟူသော အကြောင်း=11[7-4-2-1-96-2-0,7-4-2-1-143-2-0,7-4-2-1-146-2-0,7-4-2-1-156-2-0…]
+   mr-7 tags: predominance condition, by which a state arises, also in headings (ablative)
+## anantarapaccayā  (one Marathi tag) kept=grammar
+   pi-7: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်=148[7-1-33,7-1-33,7-1-33,7-1-36…] | ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း=6[7-4-3-1-69-5-0,7-4-3-1-108-4-0,7-5-20-24-1-0,7-U3…]
+   mr-7 tags: proximity condition, by which a state arises, also in headings (ablative)
+## samanantarapaccayā  (one Marathi tag) kept=grammar
+   pi-7: ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်=115[7-1-33,7-1-33,7-1-33,7-1-36…] | ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း=3[7-U3,7-U3,7-U3]
+   mr-7 tags: contiguity condition, by which a state arises, also in headings (ablative)
+## sahajātapaccayā  (one Marathi tag) kept=grammar
+   pi-7: အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်=151[7-1-33,7-1-33,7-1-33,7-1-39…] | အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း=5[7-2-302,7-2-302,7-2-302,7-2-302…]
+   mr-7 tags: co-arising condition, by which a state arises, also in headings (ablative)
+## āsevanapaccayā  (one Marathi tag) kept=grammar
+   pi-7: အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်=107[7-1-33,7-1-33,7-1-33,7-1-47…] | အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း=1[7-3-1-7-28-8-0]
+   mr-7 tags: repetition condition, by which a state arises, also in headings (ablative)
+## kammapaccayā  (one Marathi tag) kept=grammar
+   pi-7: ကံဟူသော အကြောင်းကြောင့်=116[7-1-33,7-1-33,7-1-33,7-1-47…] | ကံဟူသော အကြောင်း=3[7-2-264,7-2-264,7-2-264]
+   mr-7 tags: kamma condition, by which a state arises, also in headings (ablative)
+## natthipaccayā  (one Marathi tag) kept=grammar
+   pi-7: မရှိခြင်းဟူသော အကြောင်းကြောင့်=82[7-1-33,7-1-33,7-1-33,7-1-47…] | မရှိခြင်းဟူသော အကြောင်း=3[7-2-268,7-2-268,7-2-268]
+   mr-7 tags: absence condition, by which a state arises, also in headings (ablative)
+## avigatapaccayā  (one Marathi tag) kept=grammar
+   pi-7: မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်=228[7-1-34,7-1-34,7-1-34,7-1-34…] | မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း=4[7-2-268,7-2-268,7-2-268,7-2-268]
+   mr-7 tags: non-disappearance condition, by which a state arises, also in headings (ablative)
+## naadhipatipaccayā  (one Marathi tag) kept=grammar
+   pi-7: အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်=328[7-1-43,7-1-43,7-1-46,7-1-46…] | အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း=21[7-4-2-1-12-3-0,7-4-2-1-15-3-0,7-4-2-1-18-3-0,7-4-2-1-22-3-0…]
+   mr-7 tags: without the predominance condition, in the negative chains, and absence of it in headings (negative ablative or noun)
+## Atthi  (pi-5 one sense, new values ရှိခြင်း / ရှိခြင်းဟူသော အကြောင်း) kept=grammar
+   pi-7: ရှိခြင်း=129[7-2-441,7-2-442,7-2-443,7-2-445…] | ရှိသည်=2[7-10-111,7-10-112] | ရှိခြင်းဟူသော အကြောင်း=1[7-2-1-1-1-3-4-0]
+   pi-5: there is, exists (3rd sg. present): ရှိသည်
+   pi-1: there is, exists (3rd sg. present): ရှိသည်
+   mr-7 tags: presence condition, bare stem in lists and headings (stem) || there is, is found, in the editorial notes (3rd sg. present)
+## Naadhipati  (one Marathi tag) kept=grammar
+   pi-7: အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း=2[7-2-1-1-2-7-2-0,7-2-1-1-2-7-2-0] | အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်=1[7-U265]
+   mr-7 tags: absence of the predominance condition, bare negative stem in headings and in chains of negatives
+## kiriyābyākataṃ  (pi-1 one sense, new values ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော) kept=-
+   pi-7: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော=410[7-2-53,7-2-53,7-2-53,7-2-53…]
+   pi-1: the merely functional mind, neither wholesome nor unwholesome (neuter sg.): ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော စိတ်
+   mr-7 tags: merely functional and neither wholesome nor unwholesome, the functional indeterminate (neuter sg.)
+## ārammaṇe  (pi-5 one sense, new values အာရုံဟူသော အကြောင်း) kept=-
+   pi-7: အာရုံဟူသော အကြောင်း=1509[7-2-73,7-2-74,7-2-80,7-2-81…]
+   pi-5: in the object, what the mind takes up (locative sg.): အာရုံ
+   pi-2: in the object, what the mind takes up (locative sg.): အာရုံ
+   mr-7 tags: in the object condition, the count locative (locative)
+## āhāre  (pi-5 one sense, new values အာဟာရဟူသော အကြောင်း) kept=-
+   pi-7: အာဟာရဟူသော အကြောင်း=514[7-2-73,7-2-74,7-2-75,7-2-76…]
+   pi-5: in nutritive conditions (locative): အာဟာရ
+   mr-7 tags: in the nutriment condition, the count locative (locative)
+## indriye  (pi-6 one sense, new values စွမ်းရည်ဟူသော အကြောင်း) kept=-
+   pi-7: စွမ်းရည်ဟူသော အကြောင်း=448[7-2-73,7-2-74,7-2-75,7-2-76…]
+   pi-6: faculties, the controlling faculties of beings (accusative pl.): စွမ်းရည်
+   pi-5: faculties, the controlling faculties of beings (accusative pl.): စွမ်းရည်
+   pi-2: faculties, the controlling faculties of beings (accusative pl.): စွမ်းရည်
+   mr-7 tags: in the faculty condition, the count locative (locative)
+## magge  (pi-5 one sense, new values မဂ်ဟူသော အကြောင်း) kept=-
+   pi-7: မဂ်ဟူသော အကြောင်း=426[7-2-73,7-2-74,7-2-75,7-2-76…]
+   pi-5: in the path, of arahantship (locative): မဂ်
+   pi-2: in the path, of arahantship (locative): မဂ်
+   pi-1: in the path, of arahantship (locative): မဂ်
+   mr-7 tags: in the path condition, the count locative (locative)
+## vippayutte  (pi-5 one sense, new values ကင်းကွာခြင်းဟူသော အကြောင်း) kept=-
+   pi-7: ကင်းကွာခြင်းဟူသော အကြောင်း=356[7-2-73,7-2-74,7-2-75,7-2-76…]
+   pi-5: dissociated from (locative): ကင်းကွာသော
+   pi-1: dissociated from (locative): ကင်းကွာသော
+   mr-7 tags: in the dissociation condition, the count locative (locative)
+## vigate  (pi-5 one sense, new values ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း) kept=-
+   pi-7: ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း=347[7-2-73,7-2-74,7-2-75,7-2-76…]
+   pi-5: when departed (locative participle): ကင်းသွားသော
+   mr-7 tags: in the disappearance condition, the count locative (locative)
+## jhāne  (pi-1 one sense, new values ဈာန်ဟူသော အကြောင်း) kept=-
+   pi-7: ဈာန်ဟူသော အကြောင်း=9[7-2-76,7-2-78,7-2-274,7-2-284…]
+   pi-1: in the meditative absorption (locative): ဈာန်
+   mr-7 tags: in the jhāna condition, the count locative (locative)
+## sampayutte  (pi-1 one sense, new values ယှဉ်တွဲခြင်းဟူသော အကြောင်း) kept=-
+   pi-7: ယှဉ်တွဲခြင်းဟူသော အကြောင်း=1[7-2-76]
+   pi-1: conjoined with (locative): ယှဉ်တွဲသော
+   mr-7 tags: in the association condition, the count locative (locative)
+## vipākaṃ  (pi-2 one sense, new values ကံ၏ အကျိုး) kept=sense
+   pi-7: ကံ၏ အကျိုး ဖြစ်သော=67[7-4-1,7-4-6,7-4-13,7-4-14…] | ကံ၏ အကျိုး=3[7-2-81,7-2-283,7-8-4]
+   pi-2: resultant, born as the result of action (neuter sg.): ကံ၏ အကျိုး ဖြစ်သော
+   mr-7 tags: resultant, born as the result of action (neuter sg.) || result condition, named in the count notes (neuter sg.)
+## vipākābyākate  (pi-5 one sense, new values ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော) kept=-
+   pi-7: ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော=14[7-2-87,7-2-87,7-2-90,7-2-90…]
+   pi-5: in the resultant undetermined (locative): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး
+   mr-7 tags: resultant and neither wholesome nor unwholesome, the resultant indeterminate (locative)
+## kiriyābyākate  (pi-5 one sense, new values ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော) kept=-
+   pi-7: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော=67[7-2-87,7-2-87,7-2-87,7-2-87…]
+   pi-5: in the merely functional mind that is neither wholesome nor unwholesome (locative sg.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ
+   pi-2: in the merely functional mind that is neither wholesome nor unwholesome (locative sg.): ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား
+   mr-7 tags: merely functional and neither wholesome nor unwholesome, said of the aggregates (accusative pl.)
+## naārammaṇapaccayā  (one Marathi tag) kept=grammar
+   pi-7: အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်=184[7-2-105,7-2-105,7-2-105,7-2-111…] | အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း=34[7-4-1-1-275-1-0,7-4-1-1-275-1-0,7-4-1-1-306-1-0,7-4-1-1-306-1-0…]
+   mr-7 tags: without the object condition, in the negative chains, and absence of it in headings (negative ablative or noun)
+## pañhā  (pi-3 one sense, new values ပြဿနာ) kept=-
+   pi-7: ပြဿနာ=191[7-2-193,7-2-386,7-2-645,7-4-100…]
+   pi-3: questions, in Pañhāpucchaka (heading member): မေးခွန်း
+   pi-2: questions, in Pañhāpucchaka (heading member): မေးခွန်း
+   mr-7 tags: questions, the answers counted (nominative pl.)
+## Saṃkhittaṃ  (pi-6 senses + later binding sense for အကျဉ်းချုပ်) kept=-
+   pi-7: အကျဉ်းချုပ်=2574[7-2-200,7-2-202,7-2-205,7-2-208…]
+   pi-6: contracted, shrunken, of a sluggish mind (neuter sg. participle): တွန့်ဆုတ်နေသော
+   pi-5: contracted, shrunken, of a sluggish mind (neuter sg. participle): တွန့်ဆုတ်နေသော || shortened text, in the editorial notes (Saṃkhittaṃ): အကျဉ်းချုပ်
+   pi-2: contracted, shrunken, of a sluggish mind (neuter sg. participle): တွန့်ဆုတ်နေသော
+   mr-7 tags: abbreviated, the text is shortened here, in editorial notes (neuter sg.)
+## sahajāto  (pi-1 one sense, new values အတူ ပေါ်ပေါက်သော) kept=-
+   pi-7: အတူ ပေါ်ပေါက်သော=11[7-2-234,7-2-235,7-2-236,7-2-237…]
+   pi-1: born together, co-arisen (masculine sg.): အတူတကွ ဖြစ်ပေါ်သော
+   mr-7 tags: born together with, the Sahajātavāra frame (absolutive-like participle)
+## kusale  (pi-2 one sense, new values ကုသိုလ်) kept=-
+   pi-7: ကုသိုလ်=9[7-2-237,7-2-409,7-5-17,7-6-9…]
+   pi-2: in the wholesome mind (locative sg.): ကုသိုလ် သဘောတရား
+   mr-7 tags: wholesome, said of the aggregates (accusative pl.)
+## Paripuṇṇaṃ  (pi-4 one sense, new values ပြည့်စုံစွာ) kept=grammar
+   pi-7: ပြည့်စုံသော=36[7-2-263,7-2-281,7-2-388,7-3-9…] | ပြည့်စုံစွာ=4[7-2-386,7-9-19,7-24-131,7-26-120]
+   pi-4: fulfilled, entire (accusative): ပြည့်စုံသော
+   mr-7 tags: complete, in full, said of the questions or of rebirth (neuter sg.)
+## sattarasa  (pi-2 one sense, new values ဆယ့်ခုနစ်ခု) kept=-
+   pi-7: ဆယ့်ခုနစ်ခု=84[7-2-269,7-2-270,7-2-272,7-2-276…]
+   pi-2: the number seventeen (numeral): ဆယ့်ခုနစ်ပါး
+   mr-7 tags: seventeen, the number of answers (numeral)
+## datvā  (pi-4 one sense, new values ပြု၍) kept=-
+   pi-7: ပြု၍=85[7-2-404,7-2-405,7-2-413,7-2-414…]
+   pi-4: having given (absolutive): ပေးပြီးနောက်
+   mr-7 tags: having given (absolutive)
+## uposathakammaṃ  (one Marathi tag) kept=construction
+   pi-7: ဥပုသ်ကို စောင့်ထိန်းသည်=264[7-2-404,7-2-404,7-2-405,7-2-405…] | ဥပုသ် စောင့်ထိန်းခြင်း=58[7-11-54,7-11-54,7-12-55,7-12-55…] | ဥပုသ်=6[7-13-74,7-13-74,7-14-25,7-14-25…]
+   mr-7 tags: the observance-day duties, keeping the uposatha (accusative sg.)
+## paccavekkhati  (pi-5 one sense, new values ပြန်လည် ဆင်ခြင်သည်) kept=-
+   pi-7: ပြန်လည် ဆင်ခြင်သည်=151[7-2-404,7-2-406,7-2-409,7-2-410…]
+   pi-5: reviews, reflects on (3rd sg. present): ဆင်ခြင်သည်
+   pi-2: reviews, reflects on (3rd sg. present): ဆင်ခြင်သည်
+   mr-7 tags: reviews, reflects back on (3rd sg. present)
+## suciṇṇāni  (one Marathi tag) kept=text
+   pi-7: ကောင်းစွာ ကျင့်ခဲ့ဖူးသော=78[7-2-404,7-2-405,7-2-406,7-2-413…] | ကောင်းစွာ ပြုခဲ့ဖူးသော=14[7-4-93,7-4-96,7-5-53,7-5-55…]
+   mr-7 tags: deeds well done, things well practised (accusative pl.)
+## vodānaṃ  (pi-5 one sense, new values စင်ကြယ်ခြင်း စိတ်) kept=-
+   pi-7: စင်ကြယ်ခြင်း စိတ်=33[7-2-404,7-2-413,7-4-93,7-4-97…]
+   pi-5: cleansing, purification (accusative sg.): စင်ကြယ်ခြင်း
+   pi-2: cleansing, purification (accusative sg.): စင်ကြယ်ခြင်း
+   mr-7 tags: cleansing, the cleansing moment before a higher path (accusative sg.)
+## assādeti  (pi-5 one sense, new values သာယာ) kept=construction
+   pi-7: သာယာ=415[7-2-405,7-2-405,7-2-406,7-2-406…] | သာယာသည်=28[7-2-435,7-2-435,7-6-9,7-6-9…]
+   pi-5: savours, enjoys (3rd sg.): သာယာသည်
+   mr-7 tags: savours, relishes (3rd sg. present)
+## vipāko  (one Marathi tag) kept=sense
+   pi-7: ကံ၏ အကျိုး ဖြစ်သော=68[7-2-406,7-2-409,7-3-60,7-4-3…] | ကံ၏ အကျိုး=1[7-30-103]
+   mr-7 tags: resultant, born as the result of action, also the kamma-result as a noun (masculine sg.)
+## tadārammaṇatā  (one Marathi tag) kept=text
+   pi-7: ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်=25[7-4-92,7-4-93,7-4-94,7-4-105…] | ထိုအာရုံကို အာရုံပြုသည့် အနေ=3[7-2-406,7-2-409,7-11-46]
+   mr-7 tags: registration, taking that same object, in tadārammaṇatā uppajjati (ablative)
+## kusalassa  (pi-5 senses + later binding sense for ကုသိုလ်) kept=-
+   pi-7: ကုသိုလ်=30[7-2-408,7-2-408,7-2-411,7-2-411…]
+   pi-5: skilled, expert, in sadhammakusalassa 'of one skilled in his own field' (genitive sg.): ကျွမ်းကျင်သော
+   pi-2: wholesome, often standing for the wholesome mind (genitive sg.): ကုသိုလ်
+   pi-1: wholesome, often standing for the wholesome mind (genitive sg.): ကုသိုလ်
+   mr-7 tags: wholesome, often standing for the wholesome mind (genitive sg.)
+## vipassati  (pi-5 one sense, new values ထိုးထွင်း၍ ရှုသည်) kept=-
+   pi-7: ထိုးထွင်း၍ ရှုသည်=64[7-2-409,7-2-410,7-2-423,7-2-424…]
+   pi-5: sees clearly (3rd sg. present): ကြည့်ရှုသည်
+   mr-7 tags: sees with insight, contemplates (3rd sg. present)
+## nirodhā  (pi-5 one sense, new values ချုပ်ငြိမ်းခြင်း သမာပတ်) kept=-
+   pi-7: ချုပ်ငြိမ်းခြင်း သမာပတ်=33[7-2-417,7-2-418,7-2-423,7-3-47…]
+   pi-5: stoppings, endings, also ceasing together in ekanirodhā (nominative pl. or ablative): ချုပ်ငြိမ်းသော
+   mr-7 tags: from cessation, the attainment of cessation (ablative)
+## vuṭṭhahantassa  (pi-5 one sense, new values ထမြောက်နေသူ) kept=-
+   pi-7: ထမြောက်နေသူ=33[7-2-417,7-2-418,7-2-423,7-3-47…]
+   pi-5: of one rising out of (genitive participle): ထမြောက်နေသော
+   mr-7 tags: of one emerging, as he emerges (present participle, genitive sg.)
+## deti  (pi-5 one sense, new values ပြုသည်) kept=-
+   pi-7: ပြုသည်=97[7-2-423,7-3-53,7-3-54,7-3-55…]
+   pi-5: hands over (3rd sg. present): ပေးသည်
+   pi-4: hands over (3rd sg. present): ပေးသည်
+   mr-7 tags: gives, offers (3rd sg. present)
+## sutaṃ  (pi-5 senses + later binding sense for အကြားအမြင်) kept=-
+   pi-7: အကြားအမြင်=16[7-2-423,7-3-53,7-3-55,7-4-103…]
+   pi-5: heard, what is heard (neuter sg. participle): ကြားခဲ့ရသော
+   pi-2: heard, what is heard (neuter sg. participle): ကြားရသော || learning, what one has heard and studied, in sutamada 'pride of learning' (compound member): အကြားအမြင်
+   pi-1: heard, what is heard (neuter sg. participle): ကြားရသော
+   mr-7 tags: learning, what has been heard and learnt (accusative sg.)
+## parikammaṃ  (pi-5 one sense, new values ကြိုတင် ပြင်ဆင်မှု) kept=-
+   pi-7: ကြိုတင် ပြင်ဆင်မှု=44[7-2-423,7-2-423,7-4-103,7-4-103…]
+   pi-5: massaging the body, an attendant's duty (nominative): ပွတ်တိုက်ပေးခြင်း
+   mr-7 tags: preliminary work, the preparation for jhāna or path (nominative sg.)
+## uppādenti  (pi-5 one sense, new values ဖြစ်စေသည်) kept=-
+   pi-7: ဖြစ်စေသည်=11[7-2-423,7-4-103,7-5-63,7-6-16…]
+   pi-5: cause to come into being (3rd pl. causative): ဖြစ်ပေါ်စေသည်
+   mr-7 tags: they produce, bring into being (3rd pl. present)
+## ṭhānāṭhānakosallassa  (one Marathi tag) kept=text
+   pi-7: ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း=7[7-2-423,7-11-55,7-12-53,7-25-157…] | ဖြစ်နိုင်သော အကြောင်းနှင့် မဖြစ်နိုင်သော အကြောင်း၌ ကျွမ်းကျင်မှု=5[7-4-103,7-5-63,7-6-16,7-13-74…]
+   mr-7 tags: for skill in what is possible and impossible (dative sg.)
+## attānaṃ  (pi-5 senses + later binding sense for မိမိကိုယ်) kept=-
+   pi-7: မိမိကိုယ်=8[7-2-423,7-3-53,7-3-55,7-4-103…]
+   pi-5: a self, the soul as posited by a teacher's view, in attānaṃ saccato thetato paññapeti (accusative sg.): အတ္တ
+   pi-4: a self, the soul as posited by a teacher's view, in attānaṃ saccato thetato paññapeti (accusative sg.): အတ္တ
+   pi-2: oneself, himself (accusative sg.): မိမိကိုယ်
+   mr-7 tags: oneself, in attānaṃ ātāpeti 'torments oneself' (accusative sg.)
+## vipākassa  (one Marathi tag) kept=sense
+   pi-7: ကံ၏ အကျိုး=4[7-2-423,7-6-14,7-25-156,7-32-452] | ကံ၏ အကျိုး ဖြစ်သော=4[7-4-93,7-4-96,7-4-104,7-4-117]
+   mr-7 tags: resultant, born as the result of action, also the kamma-result as a noun, in 'kamma is a condition for its result' (genitive sg.)
+## bhaṇati  (pi-5 one sense, new values ပြောသည်) kept=-
+   pi-7: ပြောသည်=5[7-2-423,7-3-53,7-8-33,7-8-36…]
+   pi-5: says, speaks (3rd sg. present): ပြောဆိုသည်
+   pi-4: says, speaks (3rd sg. present): ပြောဆိုသည်
+   pi-2: says, speaks (3rd sg. present): ပြောဆိုသည်
+   mr-7 tags: speaks, says (3rd sg. present)
+## harati  (pi-2 one sense, new values လုယူသည်) kept=-
+   pi-7: လုယူသည်=4[7-2-423,7-3-53,7-8-33,7-8-36]
+   pi-2: carries off, takes away (3rd sg. present): ဆောင်သည်
+   mr-7 tags: carries off, in nillopaṃ harati 'commits plunder' (3rd sg. present)
+## ekāgārikaṃ  (one Marathi tag) kept=construction
+   pi-7: အိမ်တစ်လုံးတည်း=5[7-33-27,7-33-77,7-35-160,7-35-173…] | အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်=4[7-2-423,7-3-53,7-8-33,7-8-36]
+   mr-7 tags: robbing a single house, burglary of one dwelling (accusative sg.)
+## tiṭṭhati  (pi-5 one sense, new values ဓားပြ တိုက်သည်) kept=-
+   pi-7: ဓားပြ တိုက်သည်=4[7-2-423,7-3-53,7-8-33,7-8-36]
+   pi-5: stands upright, on dry land (3rd sg. present), the paired value also covering remaining static: တည်သည် / တည်နေသည်
+   pi-4: stands upright, on dry land (3rd sg. present), the paired value also covering remaining static: ရပ်တည်နေသည်
+   mr-7 tags: stands, lies in wait, in paripanthe tiṭṭhati 'lies in ambush' (3rd sg. present)
+## gāmaghātaṃ  (one Marathi tag) kept=construction
+   pi-7: ရွာကို ဖျက်ဆီး၍ လုယက်သည်=5[7-2-423,7-3-53,7-8-33,7-8-36…] | ရွာ=3[7-35-160,7-35-173,7-35-190]
+   mr-7 tags: the sacking of a village, a raid on a village (accusative sg.)
+## Cakkaṃ  (pi-6 one sense, new values စက်ဝိုင်း) kept=-
+   pi-7: စက်ဝိုင်း=67[7-2-423,7-13-72,7-16-45,7-16-47…]
+   pi-6: the cycle, the round of questions repeated with each term (heading member): လှည့်ပတ်ခြင်း
+   pi-5: wheel, in brahmacakkaṃ 'the excellent wheel' (accusative sg.): စကြာ / တရားစက်
+   pi-2: wheel, in brahmacakkaṃ 'the excellent wheel' (accusative sg.): တရားစက်
+   mr-7 tags: the cycle, the round of questions to be linked up (nominative sg.)
+## Bhojanaṃ  (pi-5 one sense, new values အစားအစာ) kept=-
+   pi-7: အစားအစာ=43[7-2-423,7-4-104,7-5-61,7-5-62…]
+   pi-5: nourishment, a meal (nominative/accusative): ဘောဇဉ်
+   mr-7 tags: food, a meal, as a supporting condition (nominative sg.)
+## āhārā  (pi-5 senses + later binding sense for အာဟာရ) kept=-
+   pi-7: အာဟာရ=26[7-2-429,7-4-110,7-5-72,7-5-73…]
+   pi-5: nutriments, sustaining conditions (nominative pl.): အစာ
+   pi-2: nutriments, sustaining conditions (nominative pl.): အာဟာရ
+   pi-1: nutriments, sustaining conditions (nominative pl.): အာဟာရ
+   mr-7 tags: nutriments, sustaining conditions (nominative pl.)
+## sahajātaṃ  (pi-2 one sense, new values အတူ ပေါ်ပေါက်ခြင်း / အတူ ပေါ်ပေါက်သော) kept=grammar
+   pi-7: အတူ ပေါ်ပေါက်ခြင်း=241[7-2-434,7-2-435,7-2-530,7-2-531…] | အတူ ပေါ်ပေါက်သော=1[7-U409]
+   pi-2: born together with it, conascent (neuter sg. participle): အတူ ဖြစ်ပေါ်သော
+   mr-7 tags: co-arising, the label of the co-arisen kind, and born together with in the Sahajātavāra frame (nominative and participle)
+## āhāraṃ  (pi-4 senses + later binding sense for အာဟာရ) kept=-
+   pi-7: အာဟာရ=145[7-2-435,7-2-530,7-2-531,7-4-117…]
+   pi-4: food, what is eaten, in the moderation-in-eating passage (accusative sg.): အစာ
+   pi-2: food, what is eaten, in the moderation-in-eating passage (accusative sg.): အစာ
+   pi-1: nutriment, a sustaining condition of mind (contact, volition, consciousness), in lokuttaraṃ āhāraṃ (accusative sg.): အာဟာရ || food, what is eaten, in the moderation-in-eating passage (accusative sg.): အစာ
+   mr-7 tags: nutriment, the label of the nutriment kind, and edible food in kabaḷīkāraṃ āhāraṃ (accusative sg.)
+## terasa  (pi-2 one sense, new values ဆယ့်သုံးခု) kept=-
+   pi-7: ဆယ့်သုံးခု=165[7-2-439,7-2-461,7-2-462,7-2-515…]
+   pi-2: the number thirteen (numeral): ဆယ့်သုံးပါး
+   mr-7 tags: the number thirteen (numeral)
+## vippayutta  (pi-5 one sense, new values ကင်းကွာခြင်း) kept=-
+   pi-7: ကင်းကွာခြင်း=106[7-2-441,7-2-442,7-2-443,7-2-445…]
+   pi-5: dissociated from, compound final (stem): ကင်းကွာသော
+   pi-3: dissociated from, compound final (stem): ကင်းကွာသော
+   pi-2: dissociated from, compound final (stem): ကင်းကွာသော
+   pi-1: dissociated from, compound final (stem): ကင်းကွာသော
+   mr-7 tags: dissociation condition, bare stem in lists and headings (stem)
+## Ārammaṇa  (pi-5 one sense, new values အာရုံဟူသော အကြောင်း) kept=grammar
+   pi-7: အာရုံ=15[7-2-445,7-2-448,7-2-468,7-2-513…] | အာရုံဟူသော အကြောင်း=6[7-4-2-9-1-3-0,7-4-3-1-21-2-0,7-4-3-1-62-3-0,7-4-3-1-69-5-0…]
+   pi-5: object of the mind, what the mind takes up (compound member): အာရုံ
+   pi-2: object of the mind, what the mind takes up (compound member): အာရုံ
+   mr-7 tags: object condition, bare stem in lists and headings (stem)
+## purejāta  (pi-5 one sense, new values ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း) kept=-
+   pi-7: ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း=17[7-2-445,7-2-448,7-2-463,7-2-468…]
+   pi-5: born beforehand, pre-nascent (compound member): ရှေးဦးစွာ ဖြစ်ပေါ်ပြီးသော
+   mr-7 tags: pre-arising condition, bare stem in lists and headings, and as a label of the object and base kinds of pre-arising (stem and compound member)
+## āhāra  (pi-5 one sense, new values အာဟာရ) kept=-
+   pi-7: အာဟာရ=24[7-2-450,7-2-475,7-2-479,7-2-480…]
+   pi-5: bringing out in speech (heading member): ဆိုခြင်း
+   mr-7 tags: nutriment condition, bare stem in lists and headings (stem)
+## sampayutta  (pi-3 one sense, new values ယှဉ်တွဲခြင်း) kept=-
+   pi-7: ယှဉ်တွဲခြင်း=5[7-2-451,7-2-483,7-3-89,7-8-4…]
+   pi-3: conjoined with, compound final (stem): ယှဉ်တွဲသော
+   pi-1: conjoined with, compound final (stem): ယှဉ်တွဲသော
+   mr-7 tags: association condition, bare stem in lists and headings (stem)
+## āsevana  (pi-5 one sense, new values အလေ့အကျင့် ပြုခြင်း) kept=-
+   pi-7: အလေ့အကျင့် ပြုခြင်း=13[7-2-454,7-2-456,7-2-466,7-2-472…]
+   pi-5: repeated practice, frequency: အဖန်ဖန် မှီဝဲခြင်း
+   mr-7 tags: repetition condition, bare stem in lists and headings (stem)
+## Pacchājāta  (one Marathi tag) kept=grammar
+   pi-7: နောက်မှ ဖြစ်ပေါ်ခြင်း=7[7-2-470,7-2-513,7-2-517,7-2-525…] | နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း=1[7-3-1-7-28-8-0]
+   mr-7 tags: post-arising condition, bare stem in lists and headings (stem)
+## vipāka  (pi-2 one sense, new values ကံ၏ အကျိုးဟူသော အကြောင်း) kept=grammar
+   pi-7: ကံ၏ အကျိုး=6[7-2-481,7-2-482,7-2-490,7-2-503…] | ကံ၏ အကျိုးဟူသော အကြောင်း=1[7-3-1-9-30-9-0]
+   pi-2: resultant, born as the result of action (compound member): ကံ၏ အကျိုး
+   pi-1: resultant, born as the result of action (compound member): ကံ၏ အကျိုး
+   mr-7 tags: result condition, bare stem in lists and headings (stem)
+## Vigata  (pi-5 one sense, new values ပျောက်ကွယ်ခြင်း) kept=-
+   pi-7: ပျောက်ကွယ်ခြင်း=2[7-2-522,7-8-4]
+   pi-5: gone, removed, in vigatathinamiddha (compound member): ကင်းသော
+   pi-4: gone, removed, in vigatathinamiddha (compound member): ကင်းသော / ကင်းပြီးသော
+   pi-2: gone, removed, in vigatathinamiddha (compound member): ကင်းသော
+   mr-7 tags: disappearance condition, bare stem in lists and headings (stem)
+## pannarasa  (pi-5 one sense, new values ဆယ့်ငါးခု) kept=-
+   pi-7: ဆယ့်ငါးခု=35[7-2-532,7-2-533,7-2-534,7-2-539…]
+   pi-5: the number fifteen (numeral): ဆယ့်ငါးပါး
+   pi-3: the number fifteen (numeral): ဆယ့်ငါးပါး
+   pi-2: the number fifteen (numeral): ဆယ့်ငါးပါး
+   mr-7 tags: the number fifteen (numeral)
+## ekādasa  (pi-3 one sense, new values ဆယ့်တစ်ခု) kept=-
+   pi-7: ဆယ့်တစ်ခု=79[7-2-532,7-2-533,7-2-534,7-2-536…]
+   pi-3: the number eleven (numeral): ဆယ့်တစ်ပါး
+   pi-2: the number eleven (numeral): ဆယ့်တစ်ပါး
+   pi-1: the number eleven (numeral): ဆယ့်တစ်ပါး / ဆယ့်တစ်
+   mr-7 tags: the number eleven (numeral)
+## nevavipākanavipākadhammadhammo  (pi-2 one sense, new values ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော) kept=grammar
+   pi-7: ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား=463[7-4-1,7-4-1,7-4-1,7-4-1…] | ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော=64[7-49-39,7-49-39,7-49-39,7-49-39…]
+   pi-2: neither resultant nor productive of results (nominative sg.): ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား
+   mr-7 tags: neither resultant nor productive of results (masculine sg.)
+## saññojanādidukāni  (one Marathi tag) kept=text
+   pi-7: နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ=6[7-5-2-27-0,7-5-8-4-0,7-5-8-10-0,7-5-8-17-0…] | နှောင်ကြိုး နှစ်မျိုးတွဲ စသည်=1[7-4-3-3-12-4-0]
+   mr-7 tags: the fetter dyad and the rest, the following dyads of the matrix (heading)
+## dvādasa  (pi-5 one sense, new values ဆယ့်နှစ်ခု) kept=-
+   pi-7: ဆယ့်နှစ်ခု=26[7-4-49,7-4-51,7-4-78,7-4-79…]
+   pi-5: the number twelve (numeral): ဆယ့်နှစ်ပါး
+   pi-4: the number twelve (numeral): ဆယ့်နှစ်ပါး
+   pi-3: the number twelve (numeral): ဆယ့်နှစ်ပါး
+   pi-2: the number twelve (numeral): ဆယ့်နှစ်ပါး / ဆယ့်နှစ်
+   pi-1: the number twelve (numeral): ဆယ့်နှစ်ပါး
+   mr-7 tags: the number twelve (numeral)
+## dhammassa  (pi-5 one sense, new values သဘောတရား) kept=-
+   pi-7: သဘောတရား=7[7-4-93,7-4-94,7-4-96,7-4-103…]
+   pi-5: the Buddha's teaching, in 'unskilled in the teaching of the noble ones' (genitive sg.): တရား
+   pi-2: the Buddha's teaching, in 'unskilled in the teaching of the noble ones' (genitive sg.): တရား
+   pi-1: the Buddha's teaching, in 'unskilled in the teaching of the noble ones' (genitive sg.): တရား
+   mr-7 tags: of a phenomenon, a state (genitive sg.)
+## kāyikaṃ  (pi-5 senses + later binding sense for ကိုယ်ပိုင်းဆိုင်ရာ) kept=-
+   pi-7: ကိုယ်ပိုင်းဆိုင်ရာ=211[7-4-102,7-4-102,7-4-102,7-4-102…]
+   pi-5: bodily, physical (neuter sg. adjective): ကိုယ်
+   pi-2: bodily, physical (neuter sg. adjective): ကိုယ်ပိုင်းဆိုင်ရာ
+   pi-1: bodily, physical (neuter sg. adjective): ကိုယ်ပိုင်းဆိုင်ရာ
+   mr-7 tags: bodily, physical (neuter sg. adjective)
+## dukkhaṃ  (pi-6 senses + later binding sense for ဆင်းရဲ) kept=sense
+   pi-7: နာကျင်မှု=26[7-4-103,7-5-62,7-6-15,7-7-104…] | ဆင်းရဲ=1[7-11-54]
+   pi-6: pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ: နာကျင်မှု
+   pi-5: suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.): ဒုက္ခ || pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ: နာကျင်သော || misery, pain in the everyday sense, in āpāyikaṃ dukkhaṃ 'the misery of the states of loss' and in sukhaṃ dukkhaṃ (nominative or accusative sg.): ဆင်းရဲ
+   pi-4: suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.): ဒုက္ခ
+   pi-3: pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ, the same meaning as bodily pain in the grief series soko paridevo dukkhaṃ domanassaṃ: ကိုယ်ဆင်းရဲခြင်း
+   pi-2: pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ: နာကျင်မှု / နာကျင်သော || suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.): ဒုက္ခ
+   pi-1: pain, suffering (nominative/accusative sg.): နာကျင်မှု
+   mr-7 tags: pain, suffering (nominative/accusative sg.)
+## vigataṃ  (pi-5 one sense, new values ပျောက်ကွယ်ခြင်း) kept=-
+   pi-7: ပျောက်ကွယ်ခြင်း=1[7-4-119]
+   pi-5: departed, gone away (neuter sg. participle): ကင်းကွာပြီးသော / ကင်းပျောက်ပြီးသော
+   pi-2: departed, gone away (neuter sg. participle): ကင်းပျောက်ပြီးသော
+   mr-7 tags: disappearance condition, named in an editorial note (nominative sg.)
+## soḷasa  (pi-5 one sense, new values ဆယ့်ခြောက်ခု) kept=-
+   pi-7: ဆယ့်ခြောက်ခု=16[7-4-122,7-7-138,7-7-147,7-8-45…]
+   pi-5: the number sixteen (numeral): ဆယ့်ခြောက်
+   pi-3: the number sixteen (numeral): ဆယ့်ခြောက်ပါး
+   pi-2: the number sixteen (numeral): ဆယ့်ခြောက်ပါး / တစ်ထောင့်ခြောက်ရာ / ဆယ့်ခြောက် / တစ်သောင်းခြောက်ထောင်
+   mr-7 tags: the number sixteen (numeral)
+## cuddasa  (pi-3 one sense, new values ဆယ့်လေးခု) kept=-
+   pi-7: ဆယ့်လေးခု=25[7-4-122,7-5-91,7-6-35,7-7-46…]
+   pi-3: the number 14 (cardinal): ဆယ့်လေးပါး
+   mr-7 tags: the number fourteen (numeral)
+## dukkhassa  (pi-5 senses + later binding sense for နာကျင်မှု) kept=-
+   pi-7: နာကျင်မှု=22[7-5-61,7-6-14,7-7-102,7-7-103…]
+   pi-5: of suffering, the whole of what is unsatisfactory, in dukkhassantakaro and the noble truth (genitive sg.): ဒုက္ခ
+   pi-4: of suffering, the whole of what is unsatisfactory, in dukkhassantakaro and the noble truth (genitive sg.): ဒုက္ခ || of pain, of bodily pain (genitive sg.): နာကျင်မှု
+   pi-2: of pain, of bodily pain (genitive sg.): နာကျင်မှု
+   pi-1: of pain, of bodily pain (genitive sg.): နာကျင်မှု
+   mr-7 tags: of pain, of suffering (genitive sg.)
+## tevīsa  (pi-3 one sense, new values နှစ်ဆယ့်သုံးခု) kept=-
+   pi-7: နှစ်ဆယ့်သုံးခု=12[7-5-88,7-7-22,7-7-44,7-7-138…]
+   pi-3: the number 23 (cardinal): နှစ်ဆယ့်သုံးပါး
+   mr-7 tags: the number twenty-three (numeral)
+## patthanā  (pi-5 one sense, new values တောင့်တခြင်း) kept=-
+   pi-7: တောင့်တခြင်း=6[7-6-14,7-7-106,7-9-84,7-10-89…]
+   pi-5: longing, wishing for (nominative sg.): ဆုတောင်းခြင်း
+   pi-1: longing, wishing for (nominative sg.): ဆုတောင်းခြင်း
+   mr-7 tags: longing, wishing for (nominative sg.)
+## avasesā  (pi-6 senses + later binding sense for ကြွင်းသော) kept=-
+   pi-7: ကြွင်းသော=18[7-7-13,7-7-130,7-7-131,7-13-31…]
+   pi-6: the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော
+   pi-5: the remaining ones, the rest (nominative pl.): ကြွင်းသော
+   pi-4: the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော
+   pi-2: the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော / ကြွင်းသော
+   pi-1: the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော
+   mr-7 tags: the remaining ones, the rest (nominative pl.)
+## paṭiccavārasadisā  (one Marathi tag) kept=text shape
+   pi-7: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်=360[7-14-24,7-14-24,7-14-24,7-36-11…] | မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်=139[7-7-47,7-7-47,7-7-47,7-10-37…]
+   mr-7 tags: like the dependence section, in the instructions to fill in (nominative pl.)
+## naindriya  (one Marathi tag) kept=grammar
+   pi-7: စွမ်းရည်ဟူသော အကြောင်းကြောင့် မဟုတ်=2[7-U265,7-U265] | စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း=1[7-7-55]
+   mr-7 tags: absence of the faculty condition, bare negative stem in headings and in chains of negatives
+## namagga  (one Marathi tag) kept=grammar
+   pi-7: မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း=1[7-7-55] | မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်=1[7-U265]
+   mr-7 tags: absence of the path condition, bare negative stem in headings and in chains of negatives
+## tiṃsa  (pi-5 one sense, new values သုံးဆယ်ခု) kept=-
+   pi-7: သုံးဆယ်ခု=15[7-7-138,7-7-147,7-49-101,7-57-34…]
+   pi-5: the number thirty (numeral): သုံးဆယ်
+   pi-3: the number thirty (numeral): သုံးဆယ်
+   pi-2: the number thirty (numeral): သုံးဆယ်
+   mr-7 tags: the number 30 (numeral)
+## gamanāni  (pi-2 one sense, new values သွားပုံ) kept=-
+   pi-7: သွားပုံ=1[7-8-28]
+   pi-2: goings, ways of going, in agatigamanāni (nominative pl.): လိုက်ခြင်း
+   mr-7 tags: courses, the ways the answers run, in an editorial note (nominative pl.)
+## passitvā  (pi-4 one sense, new values ကြည့်၍) kept=-
+   pi-7: ကြည့်၍=3[7-8-38,7-8-41,7-35-176]
+   pi-4: having seen (absolutive): မြင်၍
+   mr-7 tags: having looked at, having seen (absolutive)
+## Dassanena  (pi-5 senses + later binding sense for သစ္စာကို မြင်ခြင်း) kept=-
+   pi-7: သစ္စာကို မြင်ခြင်း=310[7-9-1,7-9-4,7-9-5,7-9-6…]
+   pi-5: by seeing, the first path's vision of the truths (instrumental): မြင်ခြင်း
+   pi-3: by seeing, the first path's vision of the truths (instrumental): သစ္စာကို မြင်ခြင်း
+   pi-2: by seeing, the first path's vision of the truths (instrumental): သစ္စာကို မြင်ခြင်း
+   pi-1: by seeing, the first path's vision of the truths (instrumental): သစ္စာကို မြင်ခြင်း
+   mr-7 tags: by seeing, the first path's vision of the truths (instrumental)
+## paṭiccavārasadiso  (one Marathi tag) kept=text shape
+   pi-7: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်=193[7-9-35,7-9-35,7-9-35,7-9-35…] | မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်=5[7-U291,7-U291,7-U291,7-U291…]
+   mr-7 tags: like the dependence section, in the editorial notes (masculine sg.)
+## paṭiccavārasadisaṃ  (one Marathi tag) kept=text shape
+   pi-7: မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်=386[7-10-35,7-10-35,7-10-35,7-11-27…] | မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်=93[7-41-27,7-41-27,7-41-27,7-49-38…]
+   mr-7 tags: like the dependence section, in the editorial notes (neuter sg.)
+## pavattipaṭisandhi  (one Marathi tag) kept=text
+   pi-7: ဘဝ ဖြစ်စဉ် … ပဋိသန္ဓေ=10[7-10-99,7-20-4,7-21-43,7-24-169…] | ဘဝ ဖြစ်ဆဲ ကာလ … ပဋိသန္ဓေ=2[7-13-55,7-13-80]
+   mr-7 tags: in the course of existence and at rebirth-linking (compound)
+## Gaṇanāya  (pi-2 one sense, new values ရေတွက်ချက်) kept=-
+   pi-7: ရေတွက်ချက်=1[7-10-111]
+   pi-2: by reckoning (instrumental): ရေတွက်ပုံ
+   mr-7 tags: in the counting, by reckoning (instrumental or locative)
+## byañjanena  (pi-5 one sense, new values စကားလုံး) kept=-
+   pi-7: စကားလုံး=1[7-10-112]
+   pi-5: by outward mark, appearance (instrumental sg.): အသွင်
+   mr-7 tags: by the wording, the letter of the text (instrumental)
+## sekkho  (pi-4 senses + later binding sense for ကျင့်ကြံဆဲသူ၏) kept=-
+   pi-7: ကျင့်ကြံဆဲသူ၏=37[7-12-19,7-12-19,7-12-20,7-12-20…]
+   pi-4: belonging to the learner in training (masculine sg.): ကျင့်ကြံဆဲသူ
+   pi-2: belonging to the learner in training (masculine sg.): ကျင့်ကြံဆဲသူ၏ / ကျင့်ကြံဆဲသူ
+   mr-7 tags: belonging to the learner in training (masculine sg.)
+## asekkho  (pi-4 senses + later binding sense for ကျင့်ကြံမှု ပြီးဆုံးသူ၏) kept=-
+   pi-7: ကျင့်ကြံမှု ပြီးဆုံးသူ၏=30[7-12-19,7-12-19,7-12-42,7-12-43…]
+   pi-4: belonging to the one beyond training, in nevasekkhanāsekkho (masculine sg.): ကျင့်ကြံမှု ပြီးဆုံးသူ
+   pi-2: belonging to the one beyond training, in nevasekkhanāsekkho (masculine sg.): ကျင့်ကြံမှု ပြီးဆုံးသူ၏ / ကျင့်ကြံမှု ပြီးဆုံးသူ
+   mr-7 tags: belonging to the one beyond training (masculine sg.)
+## aññamaññapaccaya  (pi-5 one sense, new values အချင်းချင်း ထောက်ပံ့ခြင်း) kept=-
+   pi-7: အချင်းချင်း ထောက်ပံ့ခြင်း=3[7-12-22,7-12-22,7-12-22]
+   pi-5: the reciprocity relation: အချင်းချင်း အကြောင်း ဖြစ်ခြင်း
+   mr-7 tags: mutuality condition, by which a state arises, written without the final -ā (ablative)
+## sukhassa  (pi-5 senses + later binding sense for သာယာမှု) kept=-
+   pi-7: သာယာမှု=3[7-13-74,7-35-285,7-35-285]
+   pi-5: of pleasure, happiness (genitive sg.): ချမ်းသာ
+   pi-4: of pleasure, happiness (genitive sg.): သာယာမှု
+   pi-2: of pleasure, happiness (genitive sg.): သာယာမှု
+   pi-1: of pleasure, happiness (genitive sg.): သာယာမှု
+   mr-7 tags: of well-being (genitive sg.)
+## micchattaniyato  (pi-5 senses + later binding sense for မှားယွင်းမှု၌ ကျိန်းသေသော) kept=-
+   pi-7: မှားယွင်းမှု၌ ကျိန်းသေသော=32[7-16-1,7-16-5,7-16-9,7-16-14…]
+   pi-5: fixed in the wrong direction, of certain bad destiny (masculine sg.): မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော
+   pi-2: fixed in the wrong direction, of certain bad destiny (masculine sg.): မှားယွင်းမှု၌ ကျိန်းသေသော
+   mr-7 tags: fixed in the wrong direction, of certain bad destiny (masculine sg.)
+## sammattaniyato  (pi-5 one sense, new values မှန်ကန်မှု၌ ကျိန်းသေသော) kept=-
+   pi-7: မှန်ကန်မှု၌ ကျိန်းသေသော=45[7-16-2,7-16-5,7-16-9,7-16-14…]
+   pi-5: destined by rightness (nominative): မှန်ကန်မှု၌ လမ်းကြောင်း သေချာပြီးသော
+   mr-7 tags: fixed in the right direction, of certain good destiny (masculine sg.)
+## voropeti  (pi-5 one sense, new values သတ်သည်) kept=-
+   pi-7: သတ်သည်=4[7-16-47,7-16-47,7-35-336,7-35-336]
+   pi-5: takes away, of life (3rd sg. present): ချသည်
+   mr-7 tags: takes away life, kills (3rd sg. present)
+## uppannassa  (pi-5 senses + later binding sense for ဖြစ်ပေါ်ပြီးသော) kept=-
+   pi-7: ဖြစ်ပေါ်ပြီးသော=15[7-18-3,7-18-3,7-18-4,7-18-4…]
+   pi-5: of what has arisen (genitive sg. participle): ဖြစ်ပေါ်သော
+   pi-2: of what has arisen (genitive sg. participle): ဖြစ်ပေါ်ပြီးသော
+   mr-7 tags: of what has come into being (genitive participle)
+## Ajjhattaṃ  (pi-5 senses + later binding sense for မိမိ၌ ရှိသော) kept=-
+   pi-7: မိမိ၌ ရှိသော=86[7-21-1,7-21-1,7-21-1,7-21-2…]
+   pi-5: internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၌
+   pi-4: internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၌
+   pi-2: internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၏ အတွင်း၌ ဖြစ်သော / မိမိ၌ || internal, one's own as opposed to others' (internal and external pair): မိမိ၌ ရှိသော
+   pi-1: internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၌
+   mr-7 tags: internal, one's own as opposed to others', in the internal and external triad (neuter sg.)
+## paro  (pi-5 one sense, new values သူတစ်ပါး) kept=-
+   pi-7: သူတစ်ပါး=9[7-21-28,7-21-29,7-21-30,7-21-31…]
+   pi-5: another individual (nominative): တစ်ဦး
+   mr-7 tags: another person, someone else (nominative sg.)
+## kāraṇena  (pi-5 one sense, new values နည်းလမ်း) kept=-
+   pi-7: နည်းလမ်း=44[7-23-5,7-23-5,7-23-6,7-23-6…]
+   pi-5: by the reason (instrumental): အကြောင်း
+   mr-7 tags: in this way, by this method, in iminā kāraṇena (instrumental)
+## ante  (pi-2 one sense, new values အဆုံးတိုင်း) kept=-
+   pi-7: အဆုံးတိုင်း=1[7-23-46]
+   pi-2: extremes, the two extremes (accusative pl.): အစွန်း
+   mr-7 tags: at the end, in ante ante 'at the end of each' (locative)
+## asaññasattā  (pi-6 one sense, new values အသညသတ်) kept=-
+   pi-7: အသညသတ်=105[7-23-54,7-24-4,7-24-59,7-24-62…]
+   pi-6: non-percipient beings and their plane: အသညသတ် ဘုံ
+   mr-7 tags: non-percipient beings, in yāva asaññasattā (nominative pl.)
+## dutiyagamanasadisaṃ  (one Marathi tag) kept=text shape
+   pi-7: ဒုတိယ သွားပုံနှင့် တူသည်=3[7-35-173,7-35-173,7-35-173] | ဒုတိယ သွားပုံနှင့် တူအောင်=1[7-24-19]
+   mr-7 tags: like the second course, in an editorial note (neuter sg.)
+## sahetuko  (pi-2 one sense, new values အမြစ် … ရှိသော) kept=construction
+   pi-7: အမြစ် ရှိသော=231[7-24-50,7-24-50,7-24-50,7-24-50…] | အမြစ် … ရှိသော=27[7-24-131,7-24-131,7-24-145,7-24-147…]
+   pi-2: having roots, accompanied by root conditions (masculine sg.): အမြစ် ရှိသော
+   mr-7 tags: having roots, accompanied by root conditions (masculine sg.)
+## sahetukassa  (one Marathi tag) kept=construction
+   pi-7: အမြစ် ရှိသော=17[7-24-97,7-24-97,7-24-99,7-24-99…] | အမြစ် … ရှိသော=1[7-71-7]
+   mr-7 tags: of what has roots (genitive sg.)
+## agge  (pi-2 one sense, new values ရှေ့ဆုံး) kept=-
+   pi-7: ရှေ့ဆုံး=2[7-25-80,7-25-81]
+   pi-2: at the tip, the point (locative): ဖျား
+   mr-7 tags: at the front, first, in an editorial note (locative)
+## rūpī  (pi-2 one sense, new values ရုပ် ဖြစ်သော) kept=-
+   pi-7: ရုပ် ဖြစ်သော=61[7-25-93,7-25-93,7-25-93,7-25-93…]
+   pi-2: having material form, in 'rūpī rūpāni passati' (masculine sg.): ရုပ် ရှိသော
+   pi-1: having material form, in 'rūpī rūpāni passati' (masculine sg.): ရုပ် ရှိသော
+   mr-7 tags: material, having material form (masculine sg.)
+## arūpī  (pi-2 one sense, new values ရုပ် မဟုတ်သော) kept=-
+   pi-7: ရုပ် မဟုတ်သော=41[7-25-93,7-25-94,7-25-95,7-25-97…]
+   pi-2: without material form (nominative sg.): ရုပ် မရှိသော
+   mr-7 tags: immaterial, without material form (masculine sg.)
+## Āsavasampayuttaṃ  (one Marathi tag) kept=construction
+   pi-7: စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော=6[7-26-58,7-26-58,7-51-14,7-51-14…] | စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော=2[7-26-119,7-26-119]
+   mr-7 tags: joined with the taints, conjoined with the cankers (neuter sg.)
+## Āsavasampayutto  (pi-2 one sense, new values စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော) kept=construction
+   pi-7: စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော=28[7-26-80,7-26-85,7-26-91,7-26-96…] | စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော=9[7-39-44,7-39-44,7-39-46,7-51-24…]
+   pi-2: joined with the taints, conjoined with the cankers (masculine sg.): စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော
+   mr-7 tags: joined with the taints, conjoined with the cankers (masculine sg.)
+## sāsavañca  (one Marathi tag) kept=construction
+   pi-7: စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော=4[7-51-19,7-51-19,7-56-38,7-56-38] | စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော=2[7-26-109,7-26-109]
+   mr-7 tags: and subject to the taints, with -ñca (neuter sg.)
+## sāsavo  (pi-5 one sense, new values စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော) kept=construction
+   pi-7: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော=60[7-26-109,7-26-109,7-26-110,7-26-110…] | စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော=6[7-39-38,7-51-19,7-51-19,7-56-38…]
+   pi-5: subject to the taints, a possible object of the taints (masculine sg.): စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   pi-2: subject to the taints, a possible object of the taints (masculine sg.): စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   mr-7 tags: subject to the taints, a possible object of the taints (masculine sg.)
+## saññojaniyo  (one Marathi tag) kept=construction
+   pi-7: နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော=22[7-27-39,7-27-97,7-27-97,7-27-98…] | နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော=3[7-40-30,7-40-30,7-40-32]
+   mr-7 tags: subject to the fetters, a possible object of the fetters (masculine sg.)
+## saññojanasampayutto  (one Marathi tag) kept=construction
+   pi-7: နှောင်ကြိုးနှင့် ယှဉ်တွဲသော=59[7-27-41,7-27-41,7-27-41,7-27-42…] | နှောင်ကြိုးနှင့် … ယှဉ်တွဲသော=3[7-27-109,7-27-112,7-40-39]
+   mr-7 tags: joined with the fetters (masculine sg.)
+## saññojaniyañca  (one Marathi tag) kept=construction
+   pi-7: နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော=3[7-27-97,7-27-97,7-27-99] | နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော=1[7-40-30]
+   mr-7 tags: and subject to the fetters, with -ñca (neuter sg.)
+## ganthasampayutto  (pi-2 one sense, new values အထုံးနှင့် … ယှဉ်တွဲသော) kept=construction
+   pi-7: အထုံးနှင့် ယှဉ်တွဲသော=37[7-28-46,7-28-47,7-28-49,7-28-56…] | အထုံးနှင့် … ယှဉ်တွဲသော=5[7-28-111,7-28-111,7-41-33,7-41-33…]
+   pi-2: joined with the ties, conjoined with the knots (masculine sg.): အထုံးနှင့် ယှဉ်တွဲသော
+   mr-7 tags: joined with the ties, conjoined with the knots (masculine sg.)
+## vibhajantena  (one Marathi tag) kept=text / grammar
+   pi-7: ခွဲခြမ်းစိတ်ဖြာလျက်=1[7-28-52] | ခွဲခြမ်းစိတ်ဖြာသူ=1[7-U409]
+   mr-7 tags: while analysing, setting out separately (instrumental participle)
+## arūpaṃ  (pi-6 senses + later binding sense for ရုပ် မဟုတ်သော) kept=-
+   pi-7: ရုပ် မဟုတ်သော=4[7-28-52,7-28-52,7-28-52,7-32-242]
+   pi-6: the immaterial plane, existence without material form (accusative sg.): ရုပ်မရှိသော ဘုံ
+   pi-5: immaterial, without material form (neuter sg.): ရုပ် မဟုတ်သော
+   pi-2: immaterial, without material form (neuter sg.): ရုပ် မဟုတ်သော
+   mr-7 tags: immaterial, the immaterial states as against matter (neuter sg.) || the plane of immaterial existence
+## ganthaniyo  (pi-5 one sense, new values အထုံး၏ အာရုံ … ဖြစ်နိုင်သော) kept=construction
+   pi-7: အထုံး၏ အာရုံ ဖြစ်နိုင်သော=3[7-28-103,7-28-105,7-41-26] | အထုံး၏ အာရုံ … ဖြစ်နိုင်သော=2[7-28-104,7-41-28]
+   pi-5: subject to the ties, a possible object of the ties (masculine sg.): အထုံး၏ အာရုံ ဖြစ်နိုင်သော
+   pi-2: subject to the ties, a possible object of the ties (masculine sg.): အထုံး၏ အာရုံ ဖြစ်နိုင်သော
+   mr-7 tags: liable to the ties (nominative adjective)
+## Yogaṃ  (pi-5 one sense, new values ထမ်းပိုး) kept=-
+   pi-7: ထမ်းပိုး=5[7-29-2,7-51-34,7-56-43,7-56-85…]
+   pi-5: connection, combination, in ayoganti (accusative): ဆက်စပ်
+   mr-7 tags: a bond, yoke, item of the bond dyad (accusative sg.)
+## nīvaraṇiyo  (pi-5 one sense, new values အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော) kept=construction
+   pi-7: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော=13[7-30-51,7-30-90,7-30-90,7-30-90…] | အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော=1[7-30-89]
+   pi-5: subject to the hindrances, a possible object of the hindrances (masculine sg.): အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   pi-2: subject to the hindrances, a possible object of the hindrances (masculine sg.): အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   mr-7 tags: liable to the obstructions (nominative adjective)
+## nīvaraṇasampayutto  (one Marathi tag) kept=construction
+   pi-7: အတားအဆီးနှင့် ယှဉ်တွဲသော=27[7-30-60,7-30-66,7-30-67,7-30-69…] | အတားအဆီးနှင့် … ယှဉ်တွဲသော=2[7-30-107,7-42-29]
+   mr-7 tags: joined with the hindrances (masculine sg.)
+## nīvaraṇiyañca  (one Marathi tag) kept=construction
+   pi-7: အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော=2[7-30-89,7-30-89] | အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော=2[7-42-25,7-42-25]
+   mr-7 tags: and subject to the hindrances, with -ñca (neuter sg.)
+## nīvaraṇasampayuttañca  (one Marathi tag) kept=construction
+   pi-7: အတားအဆီးနှင့် ယှဉ်တွဲသော=3[7-30-92,7-30-94,7-30-96] | အတားအဆီးနှင့် … ယှဉ်တွဲသော=1[7-42-29]
+   mr-7 tags: and joined with the hindrances, with -ñca (neuter sg.)
+## parāmaṭṭho  (pi-5 one sense, new values မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော) kept=construction
+   pi-7: မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော=13[7-31-86,7-31-86,7-31-86,7-31-87…] | မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော=2[7-31-88,7-31-88]
+   pi-5: misapprehended, wrongly grasped by views (masculine sg. participle): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော
+   pi-2: misapprehended, wrongly grasped by views (masculine sg. participle): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော
+   mr-7 tags: misapprehended, wrongly grasped by views (masculine sg. participle)
+## Ajjhattikaṃ  (pi-5 senses + later binding sense for အတွင်းပိုင်း) kept=-
+   pi-7: အတွင်းပိုင်း=47[7-32-318,7-32-318,7-32-318,7-32-321…]
+   pi-5: internal, belonging to oneself (neuter sg.): မိမိ၏
+   pi-2: internal, belonging to oneself (neuter sg.): အတွင်းပိုင်း
+   pi-1: internal, belonging to oneself (neuter sg.): အတွင်းပိုင်း
+   mr-7 tags: internal, belonging to oneself (neuter sg.)
+## bāhiro  (pi-5 one sense, new values ပြင်ပ) kept=-
+   pi-7: ပြင်ပ=39[7-32-318,7-32-320,7-32-321,7-32-323…]
+   pi-5: one outside the dispensation (nominative sg.): သာသနာပ
+   mr-7 tags: external, outside oneself (masculine sg.)
+## ajjhattikassa  (pi-2 one sense, new values အတွင်းပိုင်း) kept=-
+   pi-7: အတွင်းပိုင်း=29[7-32-340,7-32-340,7-32-340,7-32-346…]
+   pi-2: of what is internal, one's own (genitive sg.): အတွင်း
+   mr-7 tags: of what is internal, one's own (genitive sg.)
+## bāhirassa  (pi-2 one sense, new values ပြင်ပ) kept=-
+   pi-7: ပြင်ပ=9[7-32-342,7-32-345,7-32-348,7-32-350…]
+   pi-2: of what is external (genitive sg.): အပြင်
+   mr-7 tags: of what is external (genitive sg.)
+## Upādā  (pi-5 senses + later binding sense for မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော) kept=-
+   pi-7: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော=118[7-32-370,7-32-370,7-32-370,7-32-370…]
+   pi-5: derived from the great elements, of matter, here 'depending on', in upādāpaññatti 'designation by dependence' (compound member): မှီ၍ || clinging, grasping, in anupādāparinibbāna (compound member, the positive part, mapper rule 8): စွဲလမ်းမှု
+   pi-3: derived from the great elements, of matter: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော
+   pi-2: derived from the great elements, of matter: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော
+   pi-1: derived from the great elements, of matter: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော
+   mr-7 tags: derived from the great elements, of matter (stem)
+## Saṃkiliṭṭhañca  (one Marathi tag) kept=construction
+   pi-7: ကိလေသာဖြင့် ညစ်နွမ်းသော=9[7-34-40,7-34-45,7-34-47,7-34-80…] | ကိလေသာဖြင့် … ညစ်နွမ်းသော=1[7-53-26]
+   mr-7 tags: and defiled, with enclitic -ñca (neuter sg.)
+## saṃkiliṭṭho  (pi-2 one sense, new values ကိလေသာဖြင့် … ညစ်နွမ်းသော) kept=construction
+   pi-7: ကိလေသာဖြင့် ညစ်နွမ်းသော=58[7-34-45,7-34-45,7-34-51,7-34-51…] | ကိလေသာဖြင့် … ညစ်နွမ်းသော=7[7-34-90,7-34-90,7-34-90,7-34-93…]
+   pi-2: defiled, stained by the defilements (masculine sg.): ကိလေသာဖြင့် ညစ်နွမ်းသော
+   mr-7 tags: defiled, stained by the defilements (masculine sg.)
+## saṃkilesiko  (pi-5 one sense, new values ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော) kept=construction
+   pi-7: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော=20[7-34-74,7-34-74,7-34-74,7-34-76…] | ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော=8[7-34-75,7-34-75,7-34-75,7-34-75…]
+   pi-5: subject to defilement, a possible object of defilement (masculine sg.): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   pi-2: subject to defilement, a possible object of defilement (masculine sg.): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   mr-7 tags: subject to defilement, a possible object of defilement (masculine sg.)
+## kilesasampayutto  (pi-2 one sense, new values ကိလေသာနှင့် … ယှဉ်တွဲသော) kept=construction
+   pi-7: ကိလေသာနှင့် ယှဉ်တွဲသော=2[7-34-97,7-46-26] | ကိလေသာနှင့် … ယှဉ်တွဲသော=1[7-53-28]
+   pi-2: joined with the defilements (masculine sg.): ကိလေသာနှင့် ယှဉ်တွဲသော
+   mr-7 tags: joined with the defilements (masculine sg.)
+## pahātabbahetukādhipati  (one Marathi tag) kept=construction
+   pi-7: ပယ်ရမည့် အမြစ် ရှိသော အကြီးအမှူး=2[7-35-73,7-35-97] | ပယ်ရမည့် အမြစ် ရှိသည် … အကြီးအမှူး=2[7-35-74,7-35-98]
+   mr-7 tags: predominance having roots to be abandoned, a predominant factor of that item (nominative)
+## likhitaṃ  (pi-4 one sense, new values ရေးထားသော) kept=-
+   pi-7: ရေးထားသော=1[7-35-124]
+   pi-4: burnished (participle): ပွတ်ထားသော
+   mr-7 tags: written, set down above, in 'heṭṭhā likhitaṃ lekhaṃ' (neuter sg. participle)
+## sappītikadukasadisaṃ  (one Marathi tag) kept=text shape
+   pi-7: ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူသည်=6[7-35-167,7-35-177,7-47-55,7-47-56…] | ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူအောင်=1[7-35-176]
+   mr-7 tags: like the dyad 'with rapture', the same as in that dyad (neuter sg.)
+## Kāmāvacaraṃ  (pi-6 senses + later binding sense for ကာမဘုံနှင့် ဆိုင်သော) kept=-
+   pi-7: ကာမဘုံနှင့် ဆိုင်သော=48[7-35-194,7-35-194,7-35-194,7-35-198…]
+   pi-6: belonging to the sense sphere (neuter sg.), here the sense-sphere plane itself, accusative of the goal, 'reborn in the sense-sphere plane': ကာမဘုံ
+   pi-5: belonging to the sense sphere (neuter sg.): ကာမဘုံနှင့် ဆိုင်သော
+   pi-2: belonging to the sense sphere (neuter sg.): ကာမဘုံနှင့် ဆိုင်သော
+   pi-1: belonging to the sense sphere (neuter sg.): ကာမဘုံနှင့် ဆိုင်သော
+   mr-7 tags: belonging to the sense sphere (nominative sg.)
+## Rūpāvacaraṃ  (pi-6 senses + later binding sense for သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော) kept=-
+   pi-7: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော=16[7-35-226,7-35-226,7-35-231,7-35-231…]
+   pi-6: belonging to the fine-material sphere (neuter sg.), here the fine-material plane itself, accusative of the goal, 'reborn in the fine-material plane': သိမ်မွေ့သော ရုပ်ဘုံ
+   pi-5: belonging to the fine-material sphere (neuter sg.): သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   pi-2: belonging to the fine-material sphere (neuter sg.): သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   pi-1: belonging to the fine-material sphere (neuter sg.): သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   mr-7 tags: belonging to the fine-material sphere (nominative sg.)
+## Arūpāvacaraṃ  (pi-6 senses + later binding sense for ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော) kept=-
+   pi-7: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော=13[7-35-265,7-35-269,7-35-270,7-35-271…]
+   pi-6: belonging to the immaterial sphere (neuter sg.), here the immaterial plane itself, accusative of the goal, 'reborn in the immaterial plane': ရုပ်မရှိသော ဘုံ
+   pi-5: belonging to the immaterial sphere (neuter sg.): ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   pi-2: belonging to the immaterial sphere (neuter sg.): ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   pi-1: belonging to the immaterial sphere (neuter sg.): ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   mr-7 tags: belonging to the immaterial sphere (nominative sg.)
+## arūpāvacare  (pi-6 senses + later binding sense for ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော) kept=-
+   pi-7: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော=1[7-35-266]
+   pi-6: belonging to the immaterial sphere (locative), here the immaterial plane itself, 'in the immaterial plane': ရုပ်မရှိသော ဘုံ
+   pi-1: belonging to the immaterial sphere (locative): ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   mr-7 tags: belonging to the immaterial sphere (accusative pl. or locative)
+## arūpadukasadisā  (one Marathi tag) kept=text shape
+   pi-7: ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူအောင်=2[7-35-320,7-35-322] | ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူသည်=1[7-35-359]
+   mr-7 tags: like the immaterial-sphere dyad, the same as in that dyad (nominative pl.)
+## Saraṇaṃ  (pi-5 senses + later binding sense for ပဋိပက္ခ ရှိသော) kept=-
+   pi-7: ပဋိပက္ခ ရှိသော=134[7-35-346,7-35-346,7-35-347,7-35-347…]
+   pi-5: refuge, a place of safety to go to (nominative or accusative sg.): ကိုးကွယ်ရာ
+   pi-2: involving conflict, accompanied by strife (neuter sg. adjective): ပဋိပက္ခ ရှိသော
+   mr-7 tags: involving conflict, accompanied by strife (neuter sg. adjective)
+## anuloma  (pi-5 one sense, new values အဟုတ်ပြ ပုံစံ) kept=-
+   pi-7: အဟုတ်ပြ ပုံစံ=2[7-36-11,7-36-11]
+   pi-5: direct order, the forward method (compound member): အစဉ်အတိုင်း
+   mr-7 tags: positive, the first member of a detached 'anuloma paccanīyaṃ' (compound member)
+## hīno  (pi-4 senses + later binding sense for ယုတ်ညံ့သော) kept=-
+   pi-7: ယုတ်ညံ့သော=15[7-36-409,7-36-409,7-36-411,7-36-411…]
+   pi-4: inferior, lower than others, in 'I am inferior' (masculine nominative sg.): ယုတ်ညံ့သူ
+   pi-2: inferior, lower than others, in 'I am inferior' (masculine nominative sg.): ယုတ်ညံ့သော / ယုတ်ညံ့သူ
+   pi-1: inferior, lower than others, in 'I am inferior' (masculine nominative sg.): ယုတ်ညံ့သူ
+   mr-7 tags: inferior, low (masculine sg.)
+## Cittadukakusalasadisaṃ  (one Marathi tag) kept=text shape
+   pi-7: စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူသည်=1[7-44-14] | စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူအောင်=1[7-44-17]
+   mr-7 tags: like the wholesome item of the mind dyad (neuter sg.)
+## Lokiyadukaabyākatasadisaṃ  (one Marathi tag) kept=text shape
+   pi-7: လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူသည်=5[7-45-14,7-45-31,7-46-13,7-46-31…] | လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူအောင်=1[7-47-104]
+   mr-7 tags: like the indeterminate item of the mundane dyad (neuter sg.)
+## anuttaro  (pi-5 one sense, new values ထိုထက် သာလွန်သည် မရှိသော) kept=-
+   pi-7: ထိုထက် သာလွန်သည် မရှိသော=17[7-54-58,7-54-58,7-54-58,7-70-54…]
+   pi-5: unexcelled (nominative): အမြတ်ဆုံး
+   pi-4: unexcelled (nominative): အတုမရှိသော
+   mr-7 tags: unsurpassable, having nothing higher (masculine sg.)
+## chattiṃsa  (pi-5 one sense, new values သုံးဆယ့်ခြောက်ခု) kept=-
+   pi-7: သုံးဆယ့်ခြောက်ခု=1[7-57-10]
+   pi-5: thirty-six (numeral): သုံးဆယ့်ခြောက်ပါး
+   pi-2: thirty-six (numeral): သုံးဆယ့်ခြောက်ပါး
+   mr-7 tags: the number 36 (numeral)
+## aṭṭhārasa  (pi-5 one sense, new values ဆယ့်ရှစ်ခု) kept=-
+   pi-7: ဆယ့်ရှစ်ခု=31[7-57-10,7-63-7,7-63-11,7-63-22…]
+   pi-5: the number eighteen (numeral): ဆယ့်ရှစ်ပါး
+   pi-4: the number eighteen (numeral): ဆယ့်ရှစ်ပါး
+   pi-3: the number eighteen (numeral): ဆယ့်ရှစ်ပါး
+   pi-2: the number eighteen (numeral): ဆယ့်ရှစ်ပါး
+   pi-1: the number eighteen (numeral): ဆယ့်ရှစ်ပါး
+   mr-7 tags: the number 18 (numeral)
+## vattabbaṃ  (pi-2 one sense, new values ခေါ်ဆို၍ မရသော) kept=-
+   pi-7: ခေါ်ဆို၍ မရသော=1[7-58-56]
+   pi-2: can be called, to be described, in 'na vattabbaṃ' (neuter sg. participle): ခေါ်ဆို၍ ရ
+   pi-1: can be called, to be described, in 'na vattabbaṃ' (neuter sg. participle): ခေါ်ဆို၍ ရ
+   mr-7 tags: can be called, to be described, in 'na vattabbaṃ' (neuter sg. participle)
+## ekūnavīsati  (pi-3 one sense, new values ဆယ့်ကိုးခု) kept=-
+   pi-7: ဆယ့်ကိုးခု=3[7-63-4,7-66-22,7-66-23]
+   pi-3: the number 19 (cardinal): ဆယ့်ကိုးပါး
+   mr-7 tags: the number nineteen (numeral)
+## sahetukañca  (one Marathi tag) kept=construction
+   pi-7: အမြစ် ရှိသော=4[7-64-6,7-66-92,7-68-6,7-68-85] | အမြစ် … ရှိသော=1[7-66-11]
+   mr-7 tags: and having roots, with enclitic -ñca (neuter sg.)
+## Abyākatamūlaṃ  (pi-1 one sense, new values ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … အခြေခံခြင်း) kept=-
+   pi-7: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … အခြေခံခြင်း=23[7-65-50,7-65-51,7-65-52,7-65-53…]
+   pi-1: a root that is neither wholesome nor unwholesome (nominative sg.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်
+   mr-7 tags: the series starting from the indeterminate item, in the count notes (nominative sg.)
+## mūlakaṃ  (pi-2 one sense, new values အခြေခံ အကြောင်း) kept=-
+   pi-7: အခြေခံ အကြောင်း=20[7-U171,7-U172,7-U175,7-U176…]
+   pi-2: series based on a given term, as in ekamūlakaṃ (heading member): အခြေခံသော
+   mr-7 tags: series, the counts starting from a given condition (nominative sg.)
+## nānākaraṇaṃ  (pi-5 one sense, new values ကွဲပြားချက်) kept=-
+   pi-7: ကွဲပြားချက်=1[7-U416]
+   pi-5: distinction, diversity (accusative): ကွဲပြားမှု
+   mr-7 tags: distinction, diversity (accusative)

@@ -1,0 +1,305 @@
+#1 Anantara|0 [1 senses] MULTI_NEW
+   tag: contiguity, the proximity relation, in anantarapaccaya (compound member), here the proximity condition, by its bare name in the combination lists and as the named condition in the headings
+     16 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း   7-2-454 7-2-456 7-2-466 7-2-472 7-2-474
+     13 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း   7-1-1-1-4-2-5-0 7-1-1-1-4-6-13-0 7-1-1-1-4-15-5-0 7-1-1-1-4-16-11-0 7-1-1-1-6-17-4-0
+#2 Natthi|0 [2 senses] MULTI_NEW
+   tag: there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present), here 'there is not' in the editorial notes
+     38 မရှိ   7-3-2 7-8-4 7-9-12 7-9-42 7-9-56
+     20 မရှိသည်   7-2-339 7-2-358 7-9-44 7-10-59 7-11-53
+#3 Natthi|1 [2 senses] MULTI_NEW
+   tag: absence condition, by its bare name in the combination lists and as the named condition in the headings (stem)
+     16 မရှိခြင်း   7-2-454 7-2-456 7-2-466 7-2-472 7-2-474
+      6 မရှိခြင်းဟူသော အကြောင်း   7-1-1-1-4-2-20-0 7-1-1-1-4-6-58-0 7-1-1-1-4-57-80-0 7-1-1-1-6-40-22-0 7-1-1-1-7-29-22-0
+#4 vigatapaccayā|0 [1 senses] MULTI_NEW
+   tag: disappearance condition, by which a state arises, also in headings (ablative)
+     54 ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-39 7-1-40
+      2 ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း   7-1-1-1-4-2-20-0 7-2-268
+#5 Naanantara|0 [1 senses] MULTI_NEW
+   tag: absence of the proximity condition, bare negative stem in headings and in chains of negatives
+      4 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း   7-1-1-1-4-4-5-0 7-1-1-1-4-4-5-0 7-1-1-1-4-57-99-0 7-1-1-1-4-57-99-0
+      2 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်   7-U265 7-U265
+#6 Napacchājāta|0 [1 senses] MULTI_NEW
+   tag: absence of the post-arising condition, bare negative stem in headings and in chains of negatives
+     14 နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း   7-1-1-1-4-4-9-0 7-1-1-1-4-4-9-0 7-1-1-1-4-5-15-0 7-1-1-1-4-5-15-0 7-1-1-1-4-18-14-0
+      2 နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်   7-U265 7-U265
+#7 Nissaya|0 [1 senses] MULTI_NEW
+   tag: support condition, bare stem in lists and headings (stem)
+    115 အမှီ   7-2-441 7-2-442 7-2-443 7-2-445 7-2-447
+      1 အမှီဟူသော အကြောင်း   7-1-1-1-4-6-20-0
+#8 Sahajāta|0 [2 senses] MULTI_NEW
+   tag: born together (compound member), here also the co-arising condition by its bare name in the combination lists and section names, and the adjective in a heading
+    119 အတူ ပေါ်ပေါက်ခြင်း   7-1-1-1-8-7-0 7-2-1-1-2-12-0 7-2-1-1-8-11-0 7-2-1-1-11-12-0 7-2-1-1-14-12-0
+      1 အတူ ပေါ်ပေါက်သော   7-1-1-1-4-57-10-0
+#9 Aññamañña|0 [1 senses] MULTI_OUT L=အချင်းချင်း (TAGDIFF pi-5 aññamañña|0)
+   tag: mutuality, reciprocity (heading member), here the mutuality condition, by its bare name in the combination lists and as the named condition in the headings
+     92 အချင်းချင်း ထောက်ပံ့ခြင်း   7-2-441 7-2-442 7-2-443 7-2-449 7-2-450
+      2 အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း   7-1-1-1-5-13-7-0 7-2-1-1-2-15-7-0
+#10 Upanissaya|0 [1 senses] MULTI_NEW
+   tag: strong-support condition, bare stem in lists and headings (stem)
+     26 အားကြီးသော အမှီ   7-2-423 7-2-454 7-2-456 7-2-466 7-2-468
+      1 အားကြီးသော အမှီဟူသော အကြောင်း   7-1-1-1-6-17-7-0
+#11 purejātapaccayā|0 [1 senses] MULTI_NEW
+   tag: pre-arising condition, by which a state arises, also in headings (ablative)
+    130 ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-47 7-1-47
+      2 ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း   7-1-1-1-6-17-7-0 7-4-2-9-27-3-0
+#12 upanissayapaccayā|0 [1 senses] MULTI_NEW
+   tag: strong-support condition, by which a state arises, also in headings (ablative)
+    160 အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-33 7-1-33
+     12 အားကြီးသော အမှီဟူသော အကြောင်း   7-1-1-1-7-3-6-0 7-2-149 7-2-149 7-2-149 7-2-149
+#13 hetupaccayā|0 [1 senses] MULTI_NEW
+   tag: root condition, by which a state arises, also in headings (ablative)
+   7098 အမြစ်ဟူသော အကြောင်းကြောင့်   7-1-25 7-1-25 7-1-25 7-1-26 7-1-26
+     10 အမြစ်ဟူသော အကြောင်း   7-2-265 7-2-265 7-2-265 7-24-149 7-24-149
+#14 ārammaṇapaccayā|0 [1 senses] MULTI_NEW
+   tag: object condition, by which a state arises, also in headings (ablative)
+    563 အာရုံဟူသော အကြောင်းကြောင့်   7-1-32 7-1-32 7-1-32 7-1-35 7-1-35
+     79 အာရုံဟူသော အကြောင်း   7-4-2-1-33-2-0 7-4-2-1-39-2-0 7-4-2-1-49-2-0 7-4-2-1-59-2-0 7-4-2-1-73-2-0
+#15 adhipatipaccayā|0 [1 senses] MULTI_NEW
+   tag: predominance condition, by which a state arises, also in headings (ablative)
+    237 အကြီးအမှူးဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-36 7-1-36
+     11 အကြီးအမှူးဟူသော အကြောင်း   7-4-2-1-96-2-0 7-4-2-1-143-2-0 7-4-2-1-146-2-0 7-4-2-1-156-2-0 7-4-2-9-1-3-0
+#16 anantarapaccayā|0 [1 senses] MULTI_NEW
+   tag: proximity condition, by which a state arises, also in headings (ablative)
+    148 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-36 7-1-36
+      6 ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း   7-4-3-1-69-5-0 7-4-3-1-108-4-0 7-5-20-24-1-0 7-U3 7-U3
+#17 samanantarapaccayā|0 [1 senses] MULTI_NEW
+   tag: contiguity condition, by which a state arises, also in headings (ablative)
+    115 ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-36 7-1-36
+      3 ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း   7-U3 7-U3 7-U3
+#18 sahajātapaccayā|0 [1 senses] MULTI_NEW
+   tag: co-arising condition, by which a state arises, also in headings (ablative)
+    151 အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-39 7-1-39
+      5 အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း   7-2-302 7-2-302 7-2-302 7-2-302 7-2-302
+#19 āsevanapaccayā|0 [1 senses] MULTI_NEW
+   tag: repetition condition, by which a state arises, also in headings (ablative)
+    107 အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-47 7-1-47
+      1 အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း   7-3-1-7-28-8-0
+#20 kammapaccayā|0 [1 senses] MULTI_NEW
+   tag: kamma condition, by which a state arises, also in headings (ablative)
+    116 ကံဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-47 7-1-47
+      3 ကံဟူသော အကြောင်း   7-2-264 7-2-264 7-2-264
+#21 natthipaccayā|0 [1 senses] MULTI_NEW
+   tag: absence condition, by which a state arises, also in headings (ablative)
+     82 မရှိခြင်းဟူသော အကြောင်းကြောင့်   7-1-33 7-1-33 7-1-33 7-1-47 7-1-47
+      3 မရှိခြင်းဟူသော အကြောင်း   7-2-268 7-2-268 7-2-268
+#22 avigatapaccayā|0 [1 senses] MULTI_NEW
+   tag: non-disappearance condition, by which a state arises, also in headings (ablative)
+    228 မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်   7-1-34 7-1-34 7-1-34 7-1-34 7-1-36
+      4 မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း   7-2-268 7-2-268 7-2-268 7-2-268
+#23 naadhipatipaccayā|0 [1 senses] MULTI_NEW
+   tag: without the predominance condition, in the negative chains, and absence of it in headings (negative ablative or noun)
+    328 အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်   7-1-43 7-1-43 7-1-46 7-1-46 7-2-88
+     21 အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း   7-4-2-1-12-3-0 7-4-2-1-15-3-0 7-4-2-1-18-3-0 7-4-2-1-22-3-0 7-4-2-1-25-3-0
+#24 Atthi|1 [2 senses] MULTI_NEW
+   tag: presence condition, by its bare name in the combination lists and as the named condition in a heading (stem)
+    129 ရှိခြင်း   7-2-441 7-2-442 7-2-443 7-2-445 7-2-447
+      1 ရှိခြင်းဟူသော အကြောင်း   7-2-1-1-1-3-4-0
+#25 Naadhipati|0 [1 senses] MULTI_NEW
+   tag: absence of the predominance condition, bare negative stem in headings and in chains of negatives
+      2 အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း   7-2-1-1-2-7-2-0 7-2-1-1-2-7-2-0
+      1 အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်   7-U265
+#26 naārammaṇapaccayā|0 [1 senses] MULTI_NEW
+   tag: without the object condition, in the negative chains, and absence of it in headings (negative ablative or noun)
+    184 အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်   7-2-105 7-2-105 7-2-105 7-2-111 7-2-111
+     34 အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း   7-4-1-1-275-1-0 7-4-1-1-275-1-0 7-4-1-1-306-1-0 7-4-1-1-306-1-0 7-4-1-1-335-1-0
+#27 Paripuṇṇaṃ|0 [1 senses] MULTI_IN L=ပြည့်စုံသော (tag-ci pi-4 paripuṇṇaṃ|0)
+   tag: fulfilled, entire (accusative)
+     36 ပြည့်စုံသော   7-2-263 7-2-281 7-2-388 7-3-9 7-3-11
+      4 ပြည့်စုံစွာ   7-2-386 7-9-19 7-24-131 7-26-120
+#28 uposathakammaṃ|0 [1 senses] MULTI_NEW
+   tag: the observance-day duties, keeping the uposatha (accusative sg.)
+    264 ဥပုသ်ကို စောင့်ထိန်းသည်   7-2-404 7-2-404 7-2-405 7-2-405 7-2-413
+     58 ဥပုသ် စောင့်ထိန်းခြင်း   7-11-54 7-11-54 7-12-55 7-12-55 7-19-2
+      6 ဥပုသ်   7-13-74 7-13-74 7-14-25 7-14-25 7-16-47
+#29 suciṇṇāni|0 [1 senses] MULTI_NEW
+   tag: deeds well done, things well practised (accusative pl.)
+     78 ကောင်းစွာ ကျင့်ခဲ့ဖူးသော   7-2-404 7-2-405 7-2-406 7-2-413 7-2-414
+     14 ကောင်းစွာ ပြုခဲ့ဖူးသော   7-4-93 7-4-96 7-5-53 7-5-55 7-6-10
+#30 assādeti|0 [1 senses] MULTI_IN L=သာယာသည် (tag pi-5 assādeti|0)
+   tag: savours, enjoys (3rd sg.)
+    415 သာယာ   7-2-405 7-2-405 7-2-406 7-2-406 7-2-407
+     28 သာယာသည်   7-2-435 7-2-435 7-6-9 7-6-9 7-6-10
+#31 niruddhe|0 [1 senses] MULTI_OUT L=ချုပ်ငြိမ်းပြီးသော (tag pi-5 niruddhe|0)
+   tag: when ended (locative participle)
+     30 ချုပ်ငြိမ်းသွားသော   7-4-92 7-4-93 7-4-94 7-4-105 7-4-117
+      3 ချုပ်ငြိမ်းသော   7-2-406 7-2-409 7-11-46
+#32 vipāko|0 [1 senses] MULTI_NEW
+   tag: resultant, born as the result of action, also the kamma-result as a noun (masculine sg.)
+     68 ကံ၏ အကျိုး ဖြစ်သော   7-2-406 7-2-409 7-3-60 7-4-3 7-4-4
+      1 ကံ၏ အကျိုး   7-30-103
+#33 tadārammaṇatā|0 [1 senses] MULTI_NEW
+   tag: registration, taking that same object, in tadārammaṇatā uppajjati (ablative)
+     25 ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်   7-4-92 7-4-93 7-4-94 7-4-105 7-4-117
+      3 ထိုအာရုံကို အာရုံပြုသည့် အနေ   7-2-406 7-2-409 7-11-46
+#34 ṭhānāṭhānakosallassa|0 [1 senses] MULTI_NEW
+   tag: for skill in what is possible and impossible (dative sg.)
+      7 ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း   7-2-423 7-11-55 7-12-53 7-25-157 7-35-214
+      5 ဖြစ်နိုင်သော အကြောင်းနှင့် မဖြစ်နိုင်သော အကြောင်း၌ ကျွမ်းကျင်မှု   7-4-103 7-5-63 7-6-16 7-13-74 7-16-46
+#35 vipākassa|0 [1 senses] MULTI_NEW
+   tag: resultant, born as the result of action, also the kamma-result as a noun, in 'kamma is a condition for its result' (genitive sg.)
+      4 ကံ၏ အကျိုး   7-2-423 7-6-14 7-25-156 7-32-452
+      4 ကံ၏ အကျိုး ဖြစ်သော   7-4-93 7-4-96 7-4-104 7-4-117
+#36 ekāgārikaṃ|0 [1 senses] MULTI_NEW
+   tag: robbing a single house, burglary of one dwelling (accusative sg.)
+      5 အိမ်တစ်လုံးတည်း   7-33-27 7-33-77 7-35-160 7-35-173 7-35-190
+      4 အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်   7-2-423 7-3-53 7-8-33 7-8-36
+#37 gāmaghātaṃ|0 [1 senses] MULTI_NEW
+   tag: the sacking of a village, a raid on a village (accusative sg.)
+      5 ရွာကို ဖျက်ဆီး၍ လုယက်သည်   7-2-423 7-3-53 7-8-33 7-8-36 7-33-77
+      3 ရွာ   7-35-160 7-35-173 7-35-190
+#38 sahajātaṃ|0 [1 senses] MULTI_OUT_ABSENT L=အတူ ဖြစ်ပေါ်သော (TAGDIFF pi-2 sahajātaṃ|0)
+   tag: born together with it, conascent (neuter sg. participle), here also co-arising as the label of the co-arisen kind of a condition
+    241 အတူ ပေါ်ပေါက်ခြင်း   7-2-434 7-2-435 7-2-530 7-2-531 7-4-13
+      1 အတူ ပေါ်ပေါက်သော   7-U409
+#39 Pacchājāta|0 [1 senses] MULTI_NEW
+   tag: post-arising condition, bare stem in lists and headings (stem)
+      7 နောက်မှ ဖြစ်ပေါ်ခြင်း   7-2-470 7-2-513 7-2-517 7-2-525 7-2-580
+      1 နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း   7-3-1-7-28-8-0
+#40 vipāke|1 [2 senses] MULTI_NEW
+   tag: resultant, born as the result of action, in 'vipāke khandhe' (accusative pl.), also the result as a noun
+      3 ကံ၏ အကျိုး   7-4-30 7-13-14 7-13-37
+      1 ကံ၏ အကျိုး ဖြစ်သော   7-35-232
+#41 nevavipākanavipākadhammadhammo|0 [1 senses] MULTI_IN L=ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား (tag pi-2 nevavipākanavipākadhammadhammo|0)
+   tag: neither resultant nor productive of results (nominative sg.)
+    463 ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား   7-4-1 7-4-1 7-4-1 7-4-1 7-4-1
+     64 ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော   7-49-39 7-49-39 7-49-39 7-49-39 7-49-39
+#42 saññojanādidukāni|0 [1 senses] MULTI_NEW
+   tag: the fetter dyad and the rest, the following dyads of the matrix (heading)
+      6 နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ   7-5-2-27-0 7-5-8-4-0 7-5-8-10-0 7-5-8-17-0 7-5-11-41-0
+      1 နှောင်ကြိုး နှစ်မျိုးတွဲ စသည်   7-4-3-3-12-4-0
+#43 paṭiccavārasadisā|0 [1 senses] MULTI_NEW
+   tag: like the dependence section, in the instructions to fill in (nominative pl.)
+    360 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်   7-14-24 7-14-24 7-14-24 7-36-11 7-36-11
+    139 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်   7-7-47 7-7-47 7-7-47 7-10-37 7-10-37
+#44 naindriya|0 [1 senses] MULTI_NEW
+   tag: absence of the faculty condition, bare negative stem in headings and in chains of negatives
+      2 စွမ်းရည်ဟူသော အကြောင်းကြောင့် မဟုတ်   7-U265 7-U265
+      1 စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း   7-7-55
+#45 namagga|0 [1 senses] MULTI_NEW
+   tag: absence of the path condition, bare negative stem in headings and in chains of negatives
+      1 မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း   7-7-55
+      1 မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်   7-U265
+#46 paṭiccavārasadiso|0 [1 senses] MULTI_NEW
+   tag: like the dependence section, in the editorial notes (masculine sg.)
+    193 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်   7-9-35 7-9-35 7-9-35 7-9-35 7-9-35
+      5 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်   7-U291 7-U291 7-U291 7-U291 7-U291
+#47 paṭiccavārasadisaṃ|0 [1 senses] MULTI_NEW
+   tag: like the dependence section, in the editorial notes (neuter sg.)
+    386 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်   7-10-35 7-10-35 7-10-35 7-11-27 7-11-27
+     93 မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်   7-41-27 7-41-27 7-41-27 7-49-38 7-49-38
+#48 pavattipaṭisandhi|0 [1 senses] MULTI_NEW
+   tag: in the course of existence and at rebirth-linking (compound)
+     10 ဘဝ ဖြစ်စဉ် … ပဋိသန္ဓေ   7-10-99 7-20-4 7-21-43 7-24-169 7-24-180
+      2 ဘဝ ဖြစ်ဆဲ ကာလ … ပဋိသန္ဓေ   7-13-55 7-13-80
+#49 dutiyagamanasadisaṃ|0 [1 senses] MULTI_NEW
+   tag: like the second course, in an editorial note (neuter sg.)
+      3 ဒုတိယ သွားပုံနှင့် တူသည်   7-35-173 7-35-173 7-35-173
+      1 ဒုတိယ သွားပုံနှင့် တူအောင်   7-24-19
+#50 sahetuko|0 [1 senses] MULTI_IN L=အမြစ် ရှိသော (tag pi-2 sahetuko|0)
+   tag: having roots, accompanied by root conditions (masculine sg.)
+    231 အမြစ် ရှိသော   7-24-50 7-24-50 7-24-50 7-24-50 7-24-50
+     27 အမြစ် … ရှိသော   7-24-131 7-24-131 7-24-145 7-24-147 7-24-149
+#51 sahetukassa|0 [1 senses] MULTI_NEW
+   tag: of what has roots (genitive sg.)
+     17 အမြစ် ရှိသော   7-24-97 7-24-97 7-24-99 7-24-99 7-24-99
+      1 အမြစ် … ရှိသော   7-71-7
+#52 Āsavasampayuttaṃ|0 [1 senses] MULTI_NEW
+   tag: joined with the taints, conjoined with the cankers (neuter sg.)
+      6 စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော   7-26-58 7-26-58 7-51-14 7-51-14 7-56-36
+      2 စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော   7-26-119 7-26-119
+#53 Āsavasampayutto|0 [1 senses] MULTI_IN L=စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော (tag-ci pi-2 āsavasampayutto|0)
+   tag: joined with the taints, conjoined with the cankers (masculine sg.)
+     28 စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော   7-26-80 7-26-85 7-26-91 7-26-96 7-26-115
+      9 စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော   7-39-44 7-39-44 7-39-46 7-51-24 7-51-24
+#54 sāsavañca|0 [1 senses] MULTI_NEW
+   tag: and subject to the taints, with -ñca (neuter sg.)
+      4 စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော   7-51-19 7-51-19 7-56-38 7-56-38
+      2 စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော   7-26-109 7-26-109
+#55 sāsavo|0 [1 senses] MULTI_IN L=စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော (tag pi-5 sāsavo|0)
+   tag: subject to the taints, a possible object of the taints (masculine sg.)
+     60 စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော   7-26-109 7-26-109 7-26-110 7-26-110 7-26-111
+      6 စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော   7-39-38 7-51-19 7-51-19 7-56-38 7-56-38
+#56 saññojaniyo|0 [1 senses] MULTI_NEW
+   tag: subject to the fetters, a possible object of the fetters (masculine sg.)
+     22 နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော   7-27-39 7-27-97 7-27-97 7-27-98 7-27-98
+      3 နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော   7-40-30 7-40-30 7-40-32
+#57 saññojanasampayutto|0 [1 senses] MULTI_NEW
+   tag: joined with the fetters (masculine sg.)
+     59 နှောင်ကြိုးနှင့် ယှဉ်တွဲသော   7-27-41 7-27-41 7-27-41 7-27-42 7-27-42
+      3 နှောင်ကြိုးနှင့် … ယှဉ်တွဲသော   7-27-109 7-27-112 7-40-39
+#58 saññojaniyañca|0 [1 senses] MULTI_NEW
+   tag: and subject to the fetters, with -ñca (neuter sg.)
+      3 နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော   7-27-97 7-27-97 7-27-99
+      1 နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော   7-40-30
+#59 ganthasampayutto|0 [1 senses] MULTI_IN L=အထုံးနှင့် ယှဉ်တွဲသော (tag pi-2 ganthasampayutto|0)
+   tag: joined with the ties, conjoined with the knots (masculine sg.)
+     37 အထုံးနှင့် ယှဉ်တွဲသော   7-28-46 7-28-47 7-28-49 7-28-56 7-28-63
+      5 အထုံးနှင့် … ယှဉ်တွဲသော   7-28-111 7-28-111 7-41-33 7-41-33 7-41-35
+#60 vibhajantena|0 [1 senses] MULTI_NEW
+   tag: while analysing, setting out separately (instrumental participle)
+      1 ခွဲခြမ်းစိတ်ဖြာလျက်   7-28-52
+      1 ခွဲခြမ်းစိတ်ဖြာသူ   7-U409
+#61 ganthaniyo|0 [1 senses] MULTI_IN L=အထုံး၏ အာရုံ ဖြစ်နိုင်သော (tag pi-5 ganthaniyo|0)
+   tag: subject to the ties, a possible object of the ties (masculine sg.)
+      3 အထုံး၏ အာရုံ ဖြစ်နိုင်သော   7-28-103 7-28-105 7-41-26
+      2 အထုံး၏ အာရုံ … ဖြစ်နိုင်သော   7-28-104 7-41-28
+#62 nīvaraṇiyo|0 [1 senses] MULTI_IN L=အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော (tag pi-5 nīvaraṇiyo|0)
+   tag: subject to the hindrances, a possible object of the hindrances (masculine sg.)
+     13 အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော   7-30-51 7-30-90 7-30-90 7-30-90 7-30-111
+      1 အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော   7-30-89
+#63 nīvaraṇasampayutto|0 [1 senses] MULTI_NEW
+   tag: joined with the hindrances (masculine sg.)
+     27 အတားအဆီးနှင့် ယှဉ်တွဲသော   7-30-60 7-30-66 7-30-67 7-30-69 7-30-71
+      2 အတားအဆီးနှင့် … ယှဉ်တွဲသော   7-30-107 7-42-29
+#64 nīvaraṇiyañca|0 [1 senses] MULTI_NEW
+   tag: and subject to the hindrances, with -ñca (neuter sg.)
+      2 အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော   7-30-89 7-30-89
+      2 အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော   7-42-25 7-42-25
+#65 nīvaraṇasampayuttañca|0 [1 senses] MULTI_NEW
+   tag: and joined with the hindrances, with -ñca (neuter sg.)
+      3 အတားအဆီးနှင့် ယှဉ်တွဲသော   7-30-92 7-30-94 7-30-96
+      1 အတားအဆီးနှင့် … ယှဉ်တွဲသော   7-42-29
+#66 parāmaṭṭho|0 [1 senses] MULTI_IN L=မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော (tag pi-5 parāmaṭṭho|0)
+   tag: misapprehended, wrongly grasped by views (masculine sg. participle)
+     13 မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော   7-31-86 7-31-86 7-31-86 7-31-87 7-31-87
+      2 မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော   7-31-88 7-31-88
+#67 Saṃkiliṭṭhañca|0 [1 senses] MULTI_NEW
+   tag: and defiled, with enclitic -ñca (neuter sg.)
+      9 ကိလေသာဖြင့် ညစ်နွမ်းသော   7-34-40 7-34-45 7-34-47 7-34-80 7-34-80
+      1 ကိလေသာဖြင့် … ညစ်နွမ်းသော   7-53-26
+#68 saṃkiliṭṭho|0 [1 senses] MULTI_IN L=ကိလေသာဖြင့် ညစ်နွမ်းသော (tag pi-2 saṃkiliṭṭho|0)
+   tag: defiled, stained by the defilements (masculine sg.)
+     58 ကိလေသာဖြင့် ညစ်နွမ်းသော   7-34-45 7-34-45 7-34-51 7-34-51 7-34-52
+      7 ကိလေသာဖြင့် … ညစ်နွမ်းသော   7-34-90 7-34-90 7-34-90 7-34-93 7-34-93
+#69 saṃkilesiko|0 [1 senses] MULTI_IN L=ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော (tag pi-5 saṃkilesiko|0)
+   tag: subject to defilement, a possible object of defilement (masculine sg.)
+     20 ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော   7-34-74 7-34-74 7-34-74 7-34-76 7-34-76
+      8 ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော   7-34-75 7-34-75 7-34-75 7-34-75 7-34-75
+#70 kilesasampayutto|0 [1 senses] MULTI_IN L=ကိလေသာနှင့် ယှဉ်တွဲသော (tag pi-2 kilesasampayutto|0)
+   tag: joined with the defilements (masculine sg.)
+      2 ကိလေသာနှင့် ယှဉ်တွဲသော   7-34-97 7-46-26
+      1 ကိလေသာနှင့် … ယှဉ်တွဲသော   7-53-28
+#71 pahātabbahetukādhipati|0 [1 senses] MULTI_NEW
+   tag: predominance having roots to be abandoned, a predominant factor of that item (nominative)
+      2 ပယ်ရမည့် အမြစ် ရှိသော အကြီးအမှူး   7-35-73 7-35-97
+      2 ပယ်ရမည့် အမြစ် ရှိသည် … အကြီးအမှူး   7-35-74 7-35-98
+#72 sappītikadukasadisaṃ|0 [1 senses] MULTI_NEW
+   tag: like the dyad 'with rapture', the same as in that dyad (neuter sg.)
+      6 ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူသည်   7-35-167 7-35-177 7-47-55 7-47-56 7-47-57
+      1 ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူအောင်   7-35-176
+#73 arūpadukasadisā|0 [1 senses] MULTI_NEW
+   tag: like the immaterial-sphere dyad, the same as in that dyad (nominative pl.)
+      2 ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူအောင်   7-35-320 7-35-322
+      1 ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူသည်   7-35-359
+#74 Cittadukakusalasadisaṃ|0 [1 senses] MULTI_NEW
+   tag: like the wholesome item of the mind dyad (neuter sg.)
+      1 စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူသည်   7-44-14
+      1 စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူအောင်   7-44-17
+#75 Lokiyadukaabyākatasadisaṃ|0 [1 senses] MULTI_NEW
+   tag: like the indeterminate item of the mundane dyad (neuter sg.)
+      5 လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူသည်   7-45-14 7-45-31 7-46-13 7-46-31 7-47-89
+      1 လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူအောင်   7-47-104
+#76 sahetukañca|0 [1 senses] MULTI_NEW
+   tag: and having roots, with enclitic -ñca (neuter sg.)
+      4 အမြစ် ရှိသော   7-64-6 7-66-92 7-68-6 7-68-85
+      1 အမြစ် … ရှိသော   7-66-11

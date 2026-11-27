@@ -1,0 +1,22 @@
+5-01-anuloma-tikatika: lines 277 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 f1f8e6e7997dcba6c7a2c4f19b685267
+5-02-anuloma-dukaduka: lines 163 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 09011b4e1f91394c745b32571ccf19bb
+5-03-paccaniya-tika: lines 84 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 afec994a3cdc1a51c57695ec7968d7da
+5-04-paccaniya-duka: lines 188 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 e13555b4ddaf03e9bc4881056f7938a0
+5-05-paccaniya-dukatika: lines 119 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 282a1b0f0f0f82b438d8ebd8882b08b5
+5-06-paccaniya-tikaduka: lines 114 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 785a08b8a290c3229bc0a08a374a719e
+5-07-paccaniya-tikatika: lines 108 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 662cf42766f69b8b2026030f78ea14a7
+5-08-paccaniya-dukaduka: lines 82 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 25a9197b1956a9790f7e17620fcc1c50
+5-09-anulomapaccaniya-tika: lines 144 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 56335df4581288ddb66125fa90a8c9da
+5-10-anulomapaccaniya-duka: lines 114 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 md5 73ff1815ff44bf3e0a8f2b7374ef67d4
+5-11-anulomapaccaniya-dukatika: lines 203 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 md5 2839763f11e4d13997e768d7809c8c5f
+5-12-anulomapaccaniya-tikaduka: lines 252 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 md5 f2b8e8ad87d23e12a4189015ea7d0004
+5-13-anulomapaccaniya-tikatika: lines 89 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 32931cfd84488fcfe636efaf3e5a7259
+5-14-anulomapaccaniya-dukaduka: lines 126 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 md5 8866265a483e6e15da09fbbdc6fe4291
+5-15-paccaniyanuloma-tika: lines 66 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 6b6de8a255f9d2120a75618e9a755632
+5-16-paccaniyanuloma-duka: lines 75 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 93b6626cf4e88122b030c5b0b26c6bbf
+5-17-paccaniyanuloma-dukatika: lines 199 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 061cf297ba4fc73de6eb33bd72051eb0
+5-18-paccaniyanuloma-tikaduka: lines 154 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 md5 f0e2c5b5b8abf2957dafc7602269a45e
+5-19-paccaniyanuloma-tikatika: lines 127 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 f7887bff41d0af3b49d66ccd43edb4e7
+5-20-paccaniyanuloma-dukaduka: lines 120 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 md5 192a7a699e24d94149dbd6aebcd003c4
+total {'bad': 0, 'fails': 0, 'lines': 2804, 'nde': 5, 'punct': 0, 'unmapped': 0}
+sources [('term', 3116), ('cond', 2503), ('pi-2', 2156), ('frame', 2093), ('stock', 1577), ('verb', 1500), ('headlex', 704), ('vara', 446), ('count', 311), ('pi-5', 257), ('table', 151), ('pi-6', 73), ('order', 71), ('terms', 68), ('pi-3', 51), ('base', 37), ('title', 34), ('stem', 10), ('pi-1', 9), ('samutthana', 5), ('ctx', 2), ('pi-4', 2)]

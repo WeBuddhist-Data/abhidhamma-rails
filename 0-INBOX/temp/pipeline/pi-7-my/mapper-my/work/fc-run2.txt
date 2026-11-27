@@ -1,0 +1,11 @@
+full 297 of 300 | dry run 179791 ok 177784 unmapped 2007 326 wrong 0 stem 684
+  uposathakammaṃ 264/328 [('ဥပုသ်ကို စောင့်ထိန်းသည်', 264)] [('2-05-acayagamittika', [('7-11-54', 'no value')]), ('2-06-sekkhattika', [('7-12-55', 'no value')]), ('2-07-parittattika', [('7-13-74', 'no value')])]
+  sahetuko 163/190 [('အမြစ် ရှိသော', 163)] [('3-01-hetugocchaka', [('7-24-131', 'no value')]), ('4-03-dukatika-sahetukaduka', [('7-37-49', 'no value')]), ('4-15-tikaduka-hetuduka', [('7-49-263', 'no value')])]
+  nibbānaṃ 124/133 [('ဖြစ်ပေါ်သည်', 117), ('ဖြစ်စေသည်', 7)] [('1-01-kusalattika', [('7-2-410', 'no value')]), ('1-04-upadinnattika', [('7-5-54', 'no value')]), ('2-07-parittattika', [('7-13-58', 'no value')])]
+  group 1-01-kusalattika … 2-01-vitakkattika 5 29935
+  group 2-02-pitittika … 3-01-hetugocchaka 17 34017
+  group 3-02-culantaraduka … 3-09-mahantaraduka 8 34541
+  group 3-10-upadanagocchaka … 4-02-dukatika-hetuduka 3 28207
+  group 4-03-dukatika-sahetukaduka … 4-18-tikaduka-sarammanaduka 16 20344
+  group 4-19-tikaduka-kilesaduka … 5-20-paccaniyanuloma-dukaduka 23 29091
+exit 0

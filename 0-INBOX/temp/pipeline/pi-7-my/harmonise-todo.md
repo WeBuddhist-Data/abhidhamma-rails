@@ -1,0 +1,26 @@
+# pi-7 harmonise to-do (collected by the coordinator from the group reports)
+
+- H1 «Anulomaṃ.» (end of the positive order) = «အဟုတ်ပြ ပုံစံ။» (1-01, 2-07-11). The 12 lines «လျော်ညီခြင်း စိတ်။» in 1-03 (2), 1-04 (4), 1-05 (1), 2-01 (3), 2-02 (2) are a mistranslation (the order, not the conformity mind); fix. «Anulomaṃ» as the mind moment (gotrabhu / anuloma citta) keeps «လျော်ညီခြင်း စိတ်».
+- H2 1-01 line 2237 «ယောက်ယက်ခတ်မှုသည်ကို» (Uddhaccaṃ ārabbha): stray «သည်»; use «ယောက်ယက်ခတ်မှုကို».
+- H3 asaññasattānaṃ: «…တို့၏» (1-01, 2-03-06) vs «…တို့၌» (1-03-05): one form by the case use.
+- H4 tassa paṭighātatthāya: 1-01 «ထိုအမှုကို ပယ်ဖျက်ရန်အတွက်» vs 1-03-05 / 2-07-11 «ထိုအမှုကို ချေဖျက်ရန်»: one form.
+- H5 the heinous deeds: pi-5 «အမိကို သတ်ခြင်း ကံ» … (binding) vs 1-01 «… သတ်သော ကံ».
+- H6 stacked pīti / sukha qualifiers (2-01-02) and «ca … ca» stacking (2-07-11): one pattern.
+- H7 sahajātā label: bare name outside the kamma section, «အတူ ပေါ်ပေါက်သည့် ကံ» in it (decided); check all groups.
+- H8 supplied words (2-04 two link words, 2-10/2-11 «dhammassa», elliptic nouns «သဘောတရား»): check each against the as-written rule (supply only where the Pāli has an obvious omission; log).
+- H9 the 3 shared sentences that differ (notes-ch2-03-06).
+- H10 anumajjantena: «ပြန်လည် စိစစ်လျက်» (2-03-06, 2-12-17) vs «အစဉ်လိုက် သုံးသပ်လျက်» (2-01-02): one form.
+- H11 1-05 «cakkhāyatanaṃ cakkhuviññāṇassa …» read as a list (2 sentences; notes-ch2-12-17): the conditioning / conditioned reading of the other groups.
+- H12 «dve mahābhūtā» = «မူလဓာတ်ကြီး နှစ်ပါး» (bug found and fixed in 2-12-17's own file; no earlier file has «နှစ်ခု မူလဓာတ်ကြီး», checked).
+- H13 shared-count runs: no «၊» before the count after the last condition (2-03-06, 2-12-17): check all groups use one pattern.
+- H14 «(evaṃ gaṇetabbaṃ)»: «ဤသို့» (2-03-06 lineage) vs «ထိုနည်းတူ» (2-07-11): one form. Also 1-05 lines 81 / 116 (H11).
+- H15 the sixth-dyad terms «X-နှင့် ကင်းကွာသော်လည်း X၏ အာရုံ ဖြစ်နိုင်သော / …ကင်းကွာ၊ … မဖြစ်နိုင်သော» (3-03-06, 3-07-08-10, new; pi-1 has no attributive): check both groups agree. heṭṭhā «အထက်၌» (the text above) in notes: check the sense where it is a plane / below.
+- H16 3-02 line 565 «…eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ»: two conditioning members published as recipients; 3-09's subject + recipient reading is right (with H11). ajjhattika: dyad term «အတွင်းပိုင်း» vs «အတွင်းပိုင်း ဖြစ်သော» outside the dyad: check.
+- H17 H7 remainder: kamma «Sahajātā –» labels without a «Kammapaccayo» heading got the bare name in 3-07 (1), 3-08 (2), 3-10 (2), 3-09 (6): fix to «အတူ ပေါ်ပေါက်သည့် ကံ –».
+- H18 chandarāga: pi-2 locked termbase «လိုလားမှု ရာဂ» (binding) vs pi-7 2-03-06 / 4-01 «ဆန္ဒရာဂ»: use the locked pi-2 term if the sense is the same.
+- H19 note frame «(sahajātaṃ sahajātasadisaṃ, …)»: bare names (3-10, 4-01) vs the engine's «…ဟူသော အကြောင်းသည်»: one form.
+- H20 vāra lists before «vitthāretabba»: nominative «Xလည်း» (1-05, 4-02-09) vs «Xကိုလည်း» (2-15, 3-01-02); labbhati «တွေ့ရသည်» (3-09, 4-02-09) vs «ရသည်» (4-01): one form each.
+- H21 the na-X rule of 5-01-04 («…သည် မဟုတ်သော»; double negatives twice): naabyākata «ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သည် မဟုတ်သော» is heavy: consider a neither-nor rule (keep the meaning exact); all later 5-xx groups must use the same rule.
+- H22 heṭṭhā in count notes: «အထက်» (3-10, 4-10-14) vs the English «below»: check the sense (the earlier-listed items) and use one form.
+- H23 5-xx shared headings / notes between 5-05-12 and 5-13-20 (done in parallel): align. Antimadukaṃ «အဆုံးသတ် နှစ်မျိုးတွဲ» vs piṭṭhi «နောက်ဆုံး». «{hetuyā aṭṭha?}» variant form.
+- H24 4-15-21 vs 5-01 / 5-02: 4 shared sentences differ (notes-ch4-15-21); 4-17 ^7-51-34 cluster line vs 5-12's: align.

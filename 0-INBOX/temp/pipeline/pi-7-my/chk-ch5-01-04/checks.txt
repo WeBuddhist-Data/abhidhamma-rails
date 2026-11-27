@@ -1,0 +1,22 @@
+== 5-01-anuloma-tikatika.md
+5-01-anuloma-tikatika.md: OK (284 segments)
+OK
+== 5-02-anuloma-dukaduka.md
+5-02-anuloma-dukaduka.md: OK (165 segments)
+OK
+== 5-03-paccaniya-tika.md
+5-03-paccaniya-tika.md: OK (85 segments)
+OK
+== 5-04-paccaniya-duka.md
+5-04-paccaniya-duka.md: OK (194 segments)
+OK
+== own check + text check (--pe)
+/Users/lobsangtseten/Desktop/Abhidhamma-rails/abhidhamma-rails/AI_translation/burmese/pi-7-burmese-plain-zeroshot_split_chapters/5-01-anuloma-tikatika.md: OK (564 lines, dashes match)
+/Users/lobsangtseten/Desktop/Abhidhamma-rails/abhidhamma-rails/AI_translation/burmese/pi-7-burmese-plain-zeroshot_split_chapters/5-02-anuloma-dukaduka.md: OK (352 lines, dashes match)
+/Users/lobsangtseten/Desktop/Abhidhamma-rails/abhidhamma-rails/AI_translation/burmese/pi-7-burmese-plain-zeroshot_split_chapters/5-03-paccaniya-tika.md: OK (117 lines, dashes match)
+/Users/lobsangtseten/Desktop/Abhidhamma-rails/abhidhamma-rails/AI_translation/burmese/pi-7-burmese-plain-zeroshot_split_chapters/5-04-paccaniya-duka.md: OK (405 lines, dashes match)
+checked: S 1438, C 1438, O 1065, P 1065, N 1438, I 2317, T 368
+reuse test: terms 149 / 149 witnessed in the finished chapters; sentences 222 / 222 identical with pi-1 … pi-6
+identity with the finished groups 1-00 … 4-01: 29 / 29 sentences identical (the differences are listed with --groups)
+0 mismatches
+exit 0

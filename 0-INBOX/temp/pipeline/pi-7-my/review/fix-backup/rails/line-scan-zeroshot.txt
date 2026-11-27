@@ -1,0 +1,443 @@
+1-01-kusalattika.md:1183	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+1-01-kusalattika.md:1183	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+1-01-kusalattika.md:1183	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+1-01-kusalattika.md:1184	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-01-kusalattika.md:1184	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-01-kusalattika.md:1796	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-01-kusalattika.md:1796	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-01-kusalattika.md:2099	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-01-kusalattika.md:2099	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-01-kusalattika.md:2112	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-01-kusalattika.md:2112	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-01-kusalattika.md:2121	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-01-kusalattika.md:2121	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-01-kusalattika.md:2121	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+1-01-kusalattika.md:2121	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+1-01-kusalattika.md:2121	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+1-01-kusalattika.md:2235	L04 §A16 tadārammaṇatā = «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်»	eq		0/2
+1-01-kusalattika.md:2235	L04 §A35 niruddhe = «ချုပ်ငြိမ်းသွားသော»	eq		0/2
+1-01-kusalattika.md:2235	L04 niruddhe (old «ချုပ်ငြိမ်းသောအခါ»)	forbid	ချုပ်ငြိမ်းသောအခါ
+1-01-kusalattika.md:2235	§A35 / §A16 the 1-03 frame (tadārammaṇatā with vipāko)	req	
+1-01-kusalattika.md:2241	L04 §A16 tadārammaṇatā = «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်»	eq		0/2
+1-01-kusalattika.md:2241	L04 §A35 niruddhe = «ချုပ်ငြိမ်းသွားသော»	eq		0/2
+1-01-kusalattika.md:2241	L04 niruddhe (old «ချုပ်ငြိမ်းသောအခါ»)	forbid	ချုပ်ငြိမ်းသောအခါ
+1-01-kusalattika.md:2241	§A35 / §A16 the 1-03 frame (tadārammaṇatā with vipāko)	req	
+1-01-kusalattika.md:2337	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-01-kusalattika.md:2337	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-01-kusalattika.md:2338	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-01-kusalattika.md:2338	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-01-kusalattika.md:2354	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-01-kusalattika.md:2354	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-02-vedanattika.md:346	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+1-02-vedanattika.md:346	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+1-02-vedanattika.md:346	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-02-vedanattika.md:346	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-02-vedanattika.md:348	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-02-vedanattika.md:348	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-02-vedanattika.md:350	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+1-02-vedanattika.md:350	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+1-03-vipakattika.md:55	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+1-03-vipakattika.md:55	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+1-03-vipakattika.md:55	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+1-03-vipakattika.md:144	R02 / R03 §A4 «yathā [W] X-sadisaṃ» = «… Xနှင့် တူသည့်အတိုင်း» (each)	eq		0/1
+1-03-vipakattika.md:567	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-03-vipakattika.md:567	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-03-vipakattika.md:569	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-03-vipakattika.md:569	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-03-vipakattika.md:582	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-03-vipakattika.md:582	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-03-vipakattika.md:641	L10 §A18 uppannaṃ samāpajj- = «ဖြစ်ပေါ်ပြီးသော သမာပတ်ကို ဝင်စား…» (each)	eq		0/2
+1-03-vipakattika.md:641	L10 uppannaṃ samāpajj- (old nominalised «ဖြစ်ပေါ်ပြီးသည်ကို»)	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+1-03-vipakattika.md:641	L10 no nominalised «ဖြစ်ပေါ်ပြီးသည်ကို» anywhere	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+1-03-vipakattika.md:644	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+1-03-vipakattika.md:648	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+1-03-vipakattika.md:648	L10 §A18 uppannaṃ samāpajj- = «ဖြစ်ပေါ်ပြီးသော သမာပတ်ကို ဝင်စား…» (each)	eq		0/1
+1-03-vipakattika.md:648	L10 uppannaṃ samāpajj- (old nominalised «ဖြစ်ပေါ်ပြီးသည်ကို»)	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+1-03-vipakattika.md:648	L10 no nominalised «ဖြစ်ပေါ်ပြီးသည်ကို» anywhere	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+1-04-upadinnattika.md:402	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-04-upadinnattika.md:402	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-04-upadinnattika.md:411	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-04-upadinnattika.md:411	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-04-upadinnattika.md:472	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+1-05-sankilitthattika.md:80	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-05-sankilitthattika.md:80	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-05-sankilitthattika.md:81	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-05-sankilitthattika.md:81	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-05-sankilitthattika.md:91	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-05-sankilitthattika.md:91	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-05-sankilitthattika.md:92	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+1-05-sankilitthattika.md:92	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+1-05-sankilitthattika.md:118	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+2-01-vitakkattika.md:89	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-01-vitakkattika.md:89	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-01-vitakkattika.md:333	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-01-vitakkattika.md:333	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-01-vitakkattika.md:339	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-01-vitakkattika.md:339	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-01-vitakkattika.md:339	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-01-vitakkattika.md:339	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-01-vitakkattika.md:403	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-01-vitakkattika.md:403	L02 ninnāna (old «ကွဲပြားခြင်း», kept only for nānattaṃ)	forbid	ကွဲပြားခြင်း
+2-01-vitakkattika.md:478	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:478	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:479	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:479	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:481	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:481	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:506	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:506	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:507	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:507	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:511	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-01-vitakkattika.md:511	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-01-vitakkattika.md:655	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-01-vitakkattika.md:655	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-01-vitakkattika.md:861	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-01-vitakkattika.md:861	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-01-vitakkattika.md:866	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-01-vitakkattika.md:866	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-02-pitittika.md:193	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+2-02-pitittika.md:193	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+2-02-pitittika.md:211	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+2-02-pitittika.md:211	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို လုယူ
+2-03-dassanenapahatabbattika.md:235	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-03-dassanenapahatabbattika.md:235	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-05-acayagamittika.md:353	L04 §A16 tadārammaṇatā = «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်»	eq		0/2
+2-05-acayagamittika.md:353	L04 §A35 niruddhe = «ချုပ်ငြိမ်းသွားသော»	eq		0/2
+2-05-acayagamittika.md:353	L04 niruddhe (old «ချုပ်ငြိမ်းသောအခါ»)	forbid	ချုပ်ငြိမ်းသောအခါ
+2-05-acayagamittika.md:353	§A35 / §A16 the 1-03 frame (tadārammaṇatā with vipāko)	req	
+2-07-parittattika.md:199	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-07-parittattika.md:199	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-07-parittattika.md:361	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-07-parittattika.md:361	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-07-parittattika.md:366	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-07-parittattika.md:366	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-07-parittattika.md:378	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-07-parittattika.md:378	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-07-parittattika.md:449	L09 §A8 uposatha(kamma) = «ဥပုသ်(ကို) စောင့်ထိန်း…» (each, also cut by …pe…)	eq	ဥပုသ်ကို စောင့်ထိန်း	1/2
+2-07-parittattika.md:458	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+2-07-parittattika.md:458	L09 §A8 uposatha(kamma) = «ဥပုသ်(ကို) စောင့်ထိန်း…» (each, also cut by …pe…)	eq		0/2
+2-07-parittattika.md:459	L10 §A18 uppannaṃ samāpajj- = «ဖြစ်ပေါ်ပြီးသော သမာပတ်ကို ဝင်စား…» (each)	eq		0/1
+2-07-parittattika.md:459	L10 uppannaṃ samāpajj- (old nominalised «ဖြစ်ပေါ်ပြီးသည်ကို»)	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+2-07-parittattika.md:459	L10 no nominalised «ဖြစ်ပေါ်ပြီးသည်ကို» anywhere	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+2-07-parittattika.md:494	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-07-parittattika.md:494	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-07-parittattika.md:495	L07 §A19 pavatti = «ဘဝ ဖြစ်စဉ်»	req	
+2-07-parittattika.md:495	L07 pavatti (old «ဘဝ ဖြစ်ဆဲ ကာလ»)	forbid	ဖြစ်ဆဲ ကာလ
+2-08-parittarammanattika.md:104	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-08-parittarammanattika.md:104	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-08-parittarammanattika.md:116	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-08-parittarammanattika.md:116	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-08-parittarammanattika.md:150	L09 §A8 uposatha(kamma) = «ဥပုသ်(ကို) စောင့်ထိန်း…» (each, also cut by …pe…)	eq		0/2
+2-10-micchattaniyatattika.md:260	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-10-micchattaniyatattika.md:260	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-10-micchattaniyatattika.md:274	L03 §A15 suciṇṇāni = «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှု» (each)	eq		0/1
+2-10-micchattaniyatattika.md:274	L03 suciṇṇāni (old «ကောင်းစွာ ပြုခဲ့ဖူးသည်»)	forbid	ပြုခဲ့ဖူး
+2-10-micchattaniyatattika.md:296	L06 §A14 ṭhānāṭhānakosalla = «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»	eq		0/1
+2-10-micchattaniyatattika.md:296	L10 §A18 uppannaṃ samāpajj- = «ဖြစ်ပေါ်ပြီးသော သမာပတ်ကို ဝင်စား…» (each)	eq		0/1
+2-10-micchattaniyatattika.md:296	L10 uppannaṃ samāpajj- (old nominalised «ဖြစ်ပေါ်ပြီးသည်ကို»)	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+2-10-micchattaniyatattika.md:296	L10 no nominalised «ဖြစ်ပေါ်ပြီးသည်ကို» anywhere	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+2-10-micchattaniyatattika.md:298	L09 §A8 uposatha(kamma) = «ဥပုသ်(ကို) စောင့်ထိန်း…» (each, also cut by …pe…)	eq		0/1
+2-15-ajjhattattika.md:56	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-15-ajjhattattika.md:56	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+2-15-ajjhattattika.md:56	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+2-15-ajjhattattika.md:197	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-15-ajjhattattika.md:197	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+2-15-ajjhattattika.md:197	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+2-15-ajjhattattika.md:261	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-15-ajjhattattika.md:261	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+2-15-ajjhattattika.md:261	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+2-16-ajjhattarammanattika.md:36	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-16-ajjhattarammanattika.md:36	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+2-16-ajjhattarammanattika.md:36	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+2-17-sanidassanasappatighattika.md:261	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-17-sanidassanasappatighattika.md:261	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-17-sanidassanasappatighattika.md:271	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-17-sanidassanasappatighattika.md:271	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-17-sanidassanasappatighattika.md:271	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+2-17-sanidassanasappatighattika.md:271	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+2-17-sanidassanasappatighattika.md:271	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+2-17-sanidassanasappatighattika.md:273	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-17-sanidassanasappatighattika.md:273	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+2-17-sanidassanasappatighattika.md:279	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+2-17-sanidassanasappatighattika.md:279	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-01-hetugocchaka.md:31	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-01-hetugocchaka.md:31	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:31	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:791	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-01-hetugocchaka.md:791	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:791	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:929	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-01-hetugocchaka.md:929	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-01-hetugocchaka.md:1003	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-01-hetugocchaka.md:1003	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:1003	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-01-hetugocchaka.md:1118	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-01-hetugocchaka.md:1118	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-02-culantaraduka.md:110	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-02-culantaraduka.md:110	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-02-culantaraduka.md:110	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-02-culantaraduka.md:448	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-02-culantaraduka.md:448	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-02-culantaraduka.md:539	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-02-culantaraduka.md:539	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-02-culantaraduka.md:692	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-02-culantaraduka.md:692	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-02-culantaraduka.md:934	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-02-culantaraduka.md:934	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-03-asavagocchaka.md:305	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-03-asavagocchaka.md:305	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-03-asavagocchaka.md:305	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-03-asavagocchaka.md:848	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-03-asavagocchaka.md:848	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-03-asavagocchaka.md:848	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:246	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-04-sannojanagocchaka.md:246	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:246	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:611	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-04-sannojanagocchaka.md:611	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:611	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:695	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-04-sannojanagocchaka.md:695	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:695	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:742	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-04-sannojanagocchaka.md:742	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-04-sannojanagocchaka.md:742	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:268	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-05-ganthagocchaka.md:268	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:268	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:615	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-05-ganthagocchaka.md:615	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:615	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:634	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-05-ganthagocchaka.md:634	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:634	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:711	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-05-ganthagocchaka.md:711	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-05-ganthagocchaka.md:711	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-06-oghayogagocchaka.md:7	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-06-oghayogagocchaka.md:7	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-06-oghayogagocchaka.md:7	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:55	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-07-nivaranagocchaka.md:55	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-07-nivaranagocchaka.md:221	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-07-nivaranagocchaka.md:221	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-07-nivaranagocchaka.md:280	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-07-nivaranagocchaka.md:280	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:280	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:535	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-07-nivaranagocchaka.md:535	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:535	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:616	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-07-nivaranagocchaka.md:616	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:616	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:686	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-07-nivaranagocchaka.md:686	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-07-nivaranagocchaka.md:686	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:258	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-08-paramasagocchaka.md:258	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:258	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:528	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-08-paramasagocchaka.md:528	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:528	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:564	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-08-paramasagocchaka.md:564	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-08-paramasagocchaka.md:564	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:473	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:473	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:473	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:474	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:474	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:474	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:484	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:484	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:484	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:501	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:501	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:501	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:807	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:807	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:807	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:816	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:816	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:816	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:857	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:857	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:857	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1175	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1175	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1175	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1644	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1644	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1644	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1653	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1653	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1653	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1657	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1657	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1657	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1673	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1673	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1673	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1744	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1744	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1744	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1924	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1924	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1924	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1930	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1930	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1930	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1934	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1934	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1934	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1938	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1938	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1938	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1939	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1939	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1939	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1943	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1943	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1943	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1957	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:1957	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:1957	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2008	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2008	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2008	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2017	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2017	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2017	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2284	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2284	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2284	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2286	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2286	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2286	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2294	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2294	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2294	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2464	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2464	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2464	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2488	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2488	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2488	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2617	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-09-mahantaraduka.md:2617	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-09-mahantaraduka.md:2617	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:73	L05 §A37 vibhajantena = «ခွဲခြမ်းစိတ်ဖြာလျက်»	eq		0/1
+3-10-upadanagocchaka.md:167	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/2
+3-10-upadanagocchaka.md:167	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို…
+3-10-upadanagocchaka.md:167	L09 §A8 ekāgārikaṃ = «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်…» (each)	eq		0/2
+3-10-upadanagocchaka.md:167	L09 §A8 gāmaghātaṃ = «ရွာကို ဖျက်ဆီး၍ လုယက်…» (each)	eq		0/2
+3-10-upadanagocchaka.md:259	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-10-upadanagocchaka.md:259	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:259	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:460	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+3-10-upadanagocchaka.md:460	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို…
+3-10-upadanagocchaka.md:460	L09 §A8 ekāgārikaṃ = «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်…» (each)	eq		0/1
+3-10-upadanagocchaka.md:460	L09 §A8 gāmaghātaṃ = «ရွာကို ဖျက်ဆီး၍ လုယက်…» (each)	eq		0/1
+3-10-upadanagocchaka.md:574	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-10-upadanagocchaka.md:574	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:574	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:596	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+3-10-upadanagocchaka.md:596	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+3-10-upadanagocchaka.md:616	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-10-upadanagocchaka.md:616	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:616	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:702	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+3-10-upadanagocchaka.md:702	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+3-10-upadanagocchaka.md:702	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:267	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:267	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:267	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:498	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:498	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:498	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:513	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:513	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:513	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:540	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:540	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:540	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:657	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:657	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:657	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:665	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:665	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:665	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:898	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:898	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:898	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:905	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:905	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:905	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:937	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:937	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:937	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:953	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:953	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:953	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1164	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+4-01-kilesagocchaka.md:1164	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+4-01-kilesagocchaka.md:1273	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1273	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1273	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1310	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+4-01-kilesagocchaka.md:1310	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+4-01-kilesagocchaka.md:1314	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+4-01-kilesagocchaka.md:1314	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+4-01-kilesagocchaka.md:1514	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1514	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1514	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1563	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1563	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1563	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1640	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+4-01-kilesagocchaka.md:1640	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို…
+4-01-kilesagocchaka.md:1640	L09 §A8 ekāgārikaṃ = «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1640	L09 §A8 gāmaghātaṃ = «ရွာကို ဖျက်ဆီး၍ လုယက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1675	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1675	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1691	R02 / R03 §A4 «yathā [W] X-sadisaṃ» = «… Xနှင့် တူသည့်အတိုင်း» (each)	eq		0/1
+4-01-kilesagocchaka.md:1704	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1704	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1704	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1718	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+4-01-kilesagocchaka.md:1718	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို…
+4-01-kilesagocchaka.md:1718	L09 §A8 ekāgārikaṃ = «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1718	L09 §A8 gāmaghātaṃ = «ရွာကို ဖျက်ဆီး၍ လုယက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1796	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1796	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1796	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1834	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:1834	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1834	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:1852	L08 nillopaṃ = «လုယက်ပစ္စည်း» (each)	eq		0/1
+4-01-kilesagocchaka.md:1852	L08 nillopaṃ (old «ဥစ္စာကို လုယူ / ဥစ္စာကို…»)	forbid	ဥစ္စာကို…
+4-01-kilesagocchaka.md:1852	L09 §A8 ekāgārikaṃ = «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1852	L09 §A8 gāmaghātaṃ = «ရွာကို ဖျက်ဆီး၍ လုယက်…» (each)	eq		0/1
+4-01-kilesagocchaka.md:1917	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+4-01-kilesagocchaka.md:1917	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+4-01-kilesagocchaka.md:1927	L01 avasesa = «ကြွင်းကျန်…» (each occurrence)	eq		0/1
+4-01-kilesagocchaka.md:1927	L01 avasesa (old «ကြွင်းသော / ကြွင်းသည်»)	forbid	ကြွင်းသ
+4-01-kilesagocchaka.md:2506	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:2506	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2506	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2692	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:2692	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2692	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2702	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:2702	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2702	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2771	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-01-kilesagocchaka.md:2771	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-01-kilesagocchaka.md:2771	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-02-dukatika-hetuduka.md:2480	L10 uppannaṃ utu(ṃ) = «ဖြစ်ပေါ်ပြီးသော ရာသီဥတု» (each)	eq		0/1
+4-02-dukatika-hetuduka.md:2480	L10 no nominalised «ဖြစ်ပေါ်ပြီးသည်ကို» anywhere	forbid	ဖြစ်ပေါ်ပြီးသည်ကို
+4-11-dukatika-upadanaduka.md:117	L02 nānākaraṇa / ninnāna / nānaṃ = «ကွဲပြားမှု»	req	
+4-11-dukatika-upadanaduka.md:117	L02 nānākaraṇa (old «ကွဲပြားချက်»)	forbid	ကွဲပြားချက်
+4-11-dukatika-upadanaduka.md:117	L02 no «ကွဲပြားချက်» anywhere	forbid	ကွဲပြားချက်
+4-17-tikaduka-asavaduka.md:198	R01 §A36 saññojanādidukāni = «နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ»	eq		0/1

@@ -1,0 +1,5 @@
+decisions-A.tsv: {'1a': 13, '1b': 3, '1c': 60} {'raw-align.tsv': 5, 'raw-family.tsv': 5, 'raw-textinc.tsv': 1}
+pi-7: headwords 2312 senses 2328 | single 2241 | multi 76 | aligned 11 | outside 0 | no errors -> pi-7-pali-burmese-termbase-plain.md
+7815fc3d41a5b79fb93ff80494ea4058
+4f8a61efbbe228aaa24700d76585b63b
+5e8a981aa17094cbb3c98e33ae0c0363

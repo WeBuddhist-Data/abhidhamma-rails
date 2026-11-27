@@ -1,0 +1,137 @@
+     1  K3.000 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.001 «\bnibbānaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K1.002 «\banulomaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K1.003 «\bsavitakkasavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     2  K1.004 «\bvodānaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K1.005 «\banulomaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K1.006 «\bsavitakkasavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     1  K1.007 «\bAvitakkavicāramattassa(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:»
+     2  K1.008 «\bvodānaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K1.009 «\banulomaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     2  K1.010 «\bvodānaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K1.011 «\bsavitakkasavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     1  K1.012 «\banulomaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K4.013 «\bAvitakkavicāramattaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K4.014 «\bAvitakkavicāramattā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:»
+     1  K1.015 «\bavitakkavicāramattaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K1.016 «\bAvitakkavicāramattaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K1.017 «\bNirodhā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K4.018 «\bAvitakkaavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K4.019 «\bAvitakkaavicārā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|p»
+     1  K1.020 «\bNirodhā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K1.021 «\bAvitakkaavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K1.022 «\bNirodhā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K4.023 «\bavitakkaavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K4.024 «\bAvitakkaavicārā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|p»
+     1  K1.025 «\bNirodhā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañc»
+     1  K4.026 «\bAvitakkavicāramatto(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:»
+     1  K5.027 «\bAvitakkavicāramattaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K4.028 «\bavitakkavicāramattaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K4.029 «\bAvitakkavicāramattā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:»
+     1  K4.030 «\bsavitakkasavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     1  K5.031 «\bSavitakkasavicārā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na»
+     1  K4.032 «\bgotrabhu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K4.033 «\bvodānañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K4.034 «\banulomañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K5.035 «\bsavitakkasavicāraṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     1  K5.036 «\bSavitakkasavicārā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na»
+     1  K5.037 «\bAvitakkavicāramattassa(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:»
+     1  K5.038 «\bGotrabhu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K5.039 «\banulomañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K5.040 «\bvodānañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K5.041 «\banulomañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K1.042 «\bavitakkavicāramattassa(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:»
+     1  K4.043 «\bGotrabhu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K4.044 «\bVodānañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K4.045 «\bavitakkavicāramattassa(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:»
+     1  K4.046 «\bgotrabhu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K4.047 «\bvodānañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K4.048 «\bAnulomañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K4.049 «\banulomañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K4.050 «\bgotrabhu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K4.051 «\bvodānañca(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.052 «\bnevasaññānāsaññāyatanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?»
+     1  K1.053 «\bappamāṇārammaṇaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K1.054 «\bpubbenivāsānussatiñāṇaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?»
+     1  K1.055 «\banāgataṃsañāṇaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|p»
+     1  K1.056 «\bĀkāsānañcāyatanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na»
+     2  K2.057 «\bvicikicchāsahagatā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:n»
+     1  K2.058 «\bSahetuko(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañ»
+     1  K2.059 «\bvatthu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci»
+     1  K1.060 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.061 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     2  K2.062 «\bdiṭṭhigatavippayuttalobhasahagatādhipati(?:\s|…pe…|…|[,.;(»
+     1  K2.063 «\bdomanassasahagatādhipati(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(»
+     1  K1.064 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K2.065 «\bdiṭṭhigatavippayuttalobhasahagatā(?:\s|…pe…|…|[,.;()–]|\{[»
+     1  K2.066 «\bdomanassasahagatā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na»
+     1  K2.067 «\bGanthaniyo(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K1.068 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K3.069 «\bkāmacchandanīvaraṇaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?»
+     1  K3.070 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.071 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K2.072 «\bvatthu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci»
+     1  K2.073 «\bnoparāmāsā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kes»
+     1  K2.074 «\bvatthu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci»
+     1  K2.075 «\bvatthu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci»
+     1  K2.076 «\bvatthu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci»
+     1  K1.077 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.078 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K2.079 «\bUpādāniyo(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.080 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K3.081 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K1.082 «\bsenāsanaṃ(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K2.083 «\bsavitakkādhipati(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K2.084 «\bsappītikā(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesa»
+     1  K2.085 «\bsappītikādhipati(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|»
+     1  K2.086 «\bHetu(?:\s|…pe…|…|[,.;()–]|\{[^}]*\})+(?:(?:na|pi|kesañci|a»
+     1  M01 B1 «hetū ca sampayuttakā ca khandhā hetūnañca sampayuttakānañca khandhānaṃ»: two co-subjects «…လည်းကောင်း»
+     1  M02 B2 «purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nīvaraṇānañca sampayuttakāna
+     1  M03 B3 «sīlabbataparāmāso kāyagantho ca vatthu ca abhijjhākāyaganthassa ca sampayuttakānañca khandhānaṃ»: vatt
+     1  M04 B4 «nonīvaraṇo eko khandho ca kāmacchandanīvaraṇañca tiṇṇannaṃ khandhānaṃ …»: the neuter nominative kāmacc
+     1  M05 B6 «Sahajātaṃ – cittañca vatthuñca nocittānaṃ khandhānaṃ»: both conditioning items are co-subjects, the on
+     1  M06 B9 «kāyikaṃ sukhaṃ moho ca …»: the co-subject sukha «…လည်းကောင်း၊» (was the accusative «ကို»)
+     3  M07 C1 4-15 «uppannā / anuppannā / uppādī hetū …»: the subject hetū «… အမြစ်တို့သည်» (was a stacked qualifier 
+     1  M08 2-01 «nibbānaṃ gotrabhussa vitakkassa ca …»: the subject nibbāna «နိဗ္ဗာန်သည်» (was «ကို»)
+     1  M09 2-05 «patthanā, kāyikassa sukhassa, …»: the subject «တောင့်တခြင်းသည်» (was joined to the recipients by «၊»
+     1  M10 2-08 «…, kāyikaṃ sukhaṃ, kāyikaṃ dukkhaṃ, mahaggatārammaṇāya saddhāya…»: the last subject of the list «…နာ
+     1  M11 2-16 «… aniccānupassanā, dukkhānupassanā, anattānupassanā, ajjhattārammaṇāya aniccānupassanāya, …»: the su
+     1  M12 2-17 «Rūpāyatanañca cakkhāyatanañca cakkhuviññāṇañca …»: three co-subjects, each «…လည်းကောင်း»
+     1  M13 3-09 «rūpāyatanaṃ cakkhuviññāṇassa ca sampayuttakānañca khandhānaṃ…»: the subject «…နယ်ပယ်သည်», two recipi
+    11  M14 «X-ssa parikammaṃ» (the preparation of X) = «X၏ ကြိုတင် ပြင်ဆင်မှု» (as the 30 other places), not the reci
+     2  M15 «maggo sekkhānaṃ atthappaṭisambhidāya …»: sekkhānaṃ is the genitive of the persons «ကျင့်ကြံဆဲသူတို့၏» (= 
+     1  M16 A1 1-01 ^7-2-423 «Adinnādānaṃ adinnādānassa…»: the subject «မပေးသည်ကို ယူခြင်းသည်» (was the object «ကို»; 
+     1  M17 3-10 «diṭṭhupādānaṃ kāmupādānassa atthipaccayena paccayo»: the subject «အယူ စွဲလမ်းမှုသည်» (was merged int
+     1  M18 3-10 «noupādāno eko khandho ca diṭṭhupādānañca tiṇṇannaṃ khandhānaṃ …»: the neuter nominative diṭṭhupādāna
+     3  A2 «paṭisandhikkhaṇe natthi» = «ပဋိသန္ဓေ နေသော ခဏ၌ မရှိ» (the locative kept, as ^7-2-339 / ^7-11-33)
+     1  A5 1-04 ^7-5-34 «(Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)»: avigatapaccayā closes the list «… အကြောင
+     0  B10 the source slip «Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa ca dhammassa» (a stray ca)
+     1  B13 3-09 ^7-32-387 the stray «dhammaṃ» of «Upādā dhammañca noupādā dhammañca dhammaṃ paccayā»: not a third ite
+     1  B14 4-01 ^7-35-101 the source slip «novigatapaccayena» in an anuloma list: the intended positive avigata «… မပ
+     4  A3 «(Cakkaṃ kātabbaṃ)» = «(စက်ဝိုင်း ပြုရမည်)» everywhere (was also «စက်ဝိုင်းကဲ့သို့ လှည့်ပတ်၍ ပြုရမည်»)
+     8  A4 «idaṃ nānākaraṇaṃ» = «ဤသည်မှာ ကွဲပြားမှု ဖြစ်သည်» (= 1-03 ^7-4-13); also «imaṃ / idaṃ nānaṃ», the same word
+    41  B15 the hetuka headings (termbase change 2026-11-26): «… pahātabbahetuka-» = «… ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျ
+   130  B16 / A7 saṅghaṃ bhindati = «သံဃာကို သင်းခွဲသည်» (termbase change 2026-11-26; = «သင်းခွဲခြင်း ကံ», pi-5 «သင်းခ
+     1  B17 «tīṇiyeva moho» = the majority form «မောဟနှင့် သုံးခုသာ» (7 of 8): 4-01 ^7-35-184 «မောဟ သုံးခုသာ»
+     3  C2 the chapter-end titles «Dhammānulome / Dhammapaccanīye … paṭṭhānaṃ niṭṭhitaṃ»: the order phrase stands outs
+     2  C3 5-20 «Anulomadukatikapaṭṭhānato paṭṭhāya … bhāṇavārehi paṭṭhānaṃ.»: no quotes (the Pāli has none and this i
+     5  C4 / A9 the variant mark «{… (?)}» = «(မသေချာ)» (the parentheses were doubled)
+   111  C6 «…sampayuttavārampi paṭiccavārasadisaṃ»: «…ကိုလည်း၊ မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် …» (the «၊» against the garden
+     1  A6 2-02 ^7-8-13 «(Namaggapaccayā nahetupaccayasadisaṃ.)»: the note gets a subject «မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်
+     1  A8 2-04 ^7-10-86 «(dassanena sadisaṃ gamanaṃ)»: the note gets a subject «(သွားပုံသည် …နှင့် တူသည်)»
+     1  B18 3-05 Vārasattakaṃ = «ဖော်ပြချက် ခုနစ်မျိုး» («မျိုးတွဲ» is the dyad / triad word)
+     1  B19 4-01 ^7-35-176 «yadipi vimati atthi» = «အကယ်၍ သံသယ ရှိသော်လည်း» (vimati is doubt)
+   151  B11 «A ca B ca N» with exclusive qualifiers = «A Nလည်းကောင်း၊ B Nလည်းကောင်း» (not «A၊ B N»)
+   737  B12 two «…သော» qualifiers on one noun = «Q1၊ Q2 N» (136 qualifier phrases)
+        check: B11 stacks «A၊ B N» of exclusive qualifiers left: 0
+        check: B12 qualifier stacks without «၊» left: 0
+        check: B16 «ဖြိုခွဲသည်» left: 0
+        check: B15 «ပယ်ရမည့် အမြစ် နှစ်/သုံးမျိုးတွဲ» left: 0
+        check: A3 «စက်ဝိုင်းကဲ့သို့ လှည့်ပတ်၍» left: 0
+        check: C4 «((မသေချာ))» left: 0
+        check: A4 «ဤသည် ကွဲပြားမှု» left: 0
+        check: A2 «ခဏ မရှိ» left: 0
+        check: M14 «အား ကြိုတင် ပြင်ဆင်မှု» left: 0
+        check: C6 «ကိုလည်း မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက်» left: 0
+        check: case check: 13838 clauses, 0 left
+124 rules; 1326 replacements; 948 lines changed

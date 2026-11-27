@@ -1,0 +1,140 @@
+    'Upanissaya',  # «အားကြီးသော အမှီ» / «အားကြီးသော အမှီဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'purejātapaccayā',  # «ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်» / «ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'upanissayapaccayā',  # «အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်» / «အားကြီးသော အမှီဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'saṃsaṭṭha',  # «ရောနှောခြင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'samanantarā',  # «ကောင်းစွာ ချက်ချင်း နောက်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'rūpaṃ',  # «ရုပ်» / «အဆင်းအရောင်»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'kusalākusalaṃ',  # «ကုသိုလ်နှင့် အကုသိုလ်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'kammaṃ',  # «ကံ»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'vipākā',  # «ကံ၏ အကျိုး ဖြစ်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'uppajjeyya',  # «ဖြစ်ပေါ်နိုင်သည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'hetupaccayā',  # «အမြစ်ဟူသော အကြောင်းကြောင့်» / «အမြစ်ဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'uppajjeyyuṃ',  # «ဖြစ်ပေါ်နိုင်သည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'ārammaṇapaccayā',  # «အာရုံဟူသော အကြောင်းကြောင့်» / «အာရုံဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'adhipatipaccayā',  # «အကြီးအမှူးဟူသော အကြောင်းကြောင့်» / «အကြီးအမှူးဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'anantarapaccayā',  # «ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်» / «ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'samanantarapaccayā',  # «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်» / «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'sahajātapaccayā',  # «အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်» / «အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'āsevanapaccayā',  # «အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်» / «အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'kammapaccayā',  # «ကံဟူသော အကြောင်းကြောင့်» / «ကံဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'natthipaccayā',  # «မရှိခြင်းဟူသော အကြောင်းကြောင့်» / «မရှိခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'avigatapaccayā',  # «မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်» / «မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'naadhipatipaccayā',  # «အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်» / «အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'Naadhipati',  # «အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း» / «အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'kiriyābyākataṃ',  # «ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'vipākābyākate',  # «ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'kiriyābyākate',  # «ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'naārammaṇapaccayā',  # «အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်» / «အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'pañhā',  # «ပြဿနာ»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Saṃkhittaṃ',  # «အကျဉ်းချုပ်»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'sahajāto',  # «အတူ ပေါ်ပေါက်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Paripuṇṇaṃ',  # «ပြည့်စုံသော» / «ပြည့်စုံစွာ»: grammatical forms of one lemma, one meaning (kept: grammar / construction)
+    'sattarasa',  # «ဆယ့်ခုနစ်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'datvā',  # «ပြု၍»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'uposathakammaṃ',  # «ဥပုသ်ကို စောင့်ထိန်းသည်» / «ဥပုသ် စောင့်ထိန်းခြင်း» / «ဥပုသ်»: the act compound: the whole act, the noun, or the bare noun before …pe… (U2; kept: construction)
+    'paccavekkhati',  # «ပြန်လည် ဆင်ခြင်သည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'suciṇṇāni',  # «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော» / «ကောင်းစွာ ပြုခဲ့ဖူးသော»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'assādeti',  # «သာယာ» / «သာယာသည်»: grammatical forms of one lemma, one meaning (kept: grammar / construction)
+    'vipāko',  # «ကံ၏ အကျိုး ဖြစ်သော» / «ကံ၏ အကျိုး»: grammatical forms of one lemma, one meaning (kept: grammar / construction)
+    'tadārammaṇatā',  # «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်» / «ထိုအာရုံကို အာရုံပြုသည့် အနေ»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'kusalassa',  # «ကုသိုလ်»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'vipassati',  # «ထိုးထွင်း၍ ရှုသည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'vuṭṭhahantassa',  # «ထမြောက်နေသူ»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'deti',  # «ပြုသည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'sutaṃ',  # «အကြားအမြင်»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'uppādenti',  # «ဖြစ်စေသည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'ṭhānāṭhānakosallassa',  # «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း» / «ဖြစ်နိုင်သော အကြောင်းနှင့် မဖြစ်နိုင်သော အကြောင်း၌ ကျွမ်းကျင်မှု»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'attānaṃ',  # «မိမိကိုယ်»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'vipākassa',  # «ကံ၏ အကျိုး» / «ကံ၏ အကျိုး ဖြစ်သော»: grammatical forms of one lemma, one meaning (kept: grammar / construction)
+    'bhaṇati',  # «ပြောသည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'harati',  # «လုယူသည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'ekāgārikaṃ',  # «အိမ်တစ်လုံးတည်း» / «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်»: the act compound: the whole act, the noun, or the bare noun before …pe… (U2; kept: construction)
+    'gāmaghātaṃ',  # «ရွာကို ဖျက်ဆီး၍ လုယက်သည်» / «ရွာ»: the act compound: the whole act, the noun, or the bare noun before …pe… (U2; kept: construction)
+    'Cakkaṃ',  # «စက်ဝိုင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Bhojanaṃ',  # «အစားအစာ»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'āhārā',  # «အာဟာရ»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'āhāraṃ',  # «အာဟာရ»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'terasa',  # «ဆယ့်သုံးခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'Pacchājāta',  # «နောက်မှ ဖြစ်ပေါ်ခြင်း» / «နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'pannarasa',  # «ဆယ့်ငါးခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'ekādasa',  # «ဆယ့်တစ်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'nevavipākanavipākadhammadhammo',  # «ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား» / «ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော»: grammatical forms of one lemma, one meaning (kept: grammar / construction)
+    'saññojanādidukāni',  # «နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ» / «နှောင်ကြိုး နှစ်မျိုးတွဲ စသည်»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'dvādasa',  # «ဆယ့်နှစ်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'kāyikaṃ',  # «ကိုယ်ပိုင်းဆိုင်ရာ»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'dukkhaṃ',  # «နာကျင်မှု» / «ဆင်းရဲ»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'soḷasa',  # «ဆယ့်ခြောက်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'cuddasa',  # «ဆယ့်လေးခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'dukkhassa',  # «နာကျင်မှု»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'tevīsa',  # «နှစ်ဆယ့်သုံးခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'patthanā',  # «တောင့်တခြင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'avasesā',  # «ကြွင်းသော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'paṭiccavārasadisā',  # «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်» / «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'naindriya',  # «စွမ်းရည်ဟူသော အကြောင်းကြောင့် မဟုတ်» / «စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'namagga',  # «မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း» / «မဂ်ဟူသော အကြောင်းကြောင့် မဟုတ်»: the condition by its frame: ablative «…ကြောင့်», the name «…ဟူသော အကြောင်း», the bare name, negatives (map-table T1-T4; kept: grammar)
+    'tiṃsa',  # «သုံးဆယ်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'passitvā',  # «ကြည့်၍»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Dassanena',  # «သစ္စာကို မြင်ခြင်း»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'paṭiccavārasadiso',  # «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်» / «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'paṭiccavārasadisaṃ',  # «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်» / «မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'pavattipaṭisandhi',  # «ဘဝ ဖြစ်စဉ် … ပဋိသန္ဓေ» / «ဘဝ ဖြစ်ဆဲ ကာလ … ပဋိသန္ဓေ»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'Gaṇanāya',  # «ရေတွက်ချက်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'sekkho',  # «ကျင့်ကြံဆဲသူ၏»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'asekkho',  # «ကျင့်ကြံမှု ပြီးဆုံးသူ၏»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'aññamaññapaccaya',  # «အချင်းချင်း ထောက်ပံ့ခြင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'sukhassa',  # «သာယာမှု»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'micchattaniyato',  # «မှားယွင်းမှု၌ ကျိန်းသေသော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'sammattaniyato',  # «မှန်ကန်မှု၌ ကျိန်းသေသော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'voropeti',  # «သတ်သည်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'uppannassa',  # «ဖြစ်ပေါ်ပြီးသော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'Ajjhattaṃ',  # «မိမိ၌ ရှိသော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'paro',  # «သူတစ်ပါး»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'asaññasattā',  # «အသညသတ်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'dutiyagamanasadisaṃ',  # «ဒုတိယ သွားပုံနှင့် တူသည်» / «ဒုတိယ သွားပုံနှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'sahetuko',  # «အမြစ် ရှိသော» / «အမြစ် … ရှိသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'sahetukassa',  # «အမြစ် ရှိသော» / «အမြစ် … ရှိသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'rūpī',  # «ရုပ် ဖြစ်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'arūpī',  # «ရုပ် မဟုတ်သော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Āsavasampayuttaṃ',  # «စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော» / «စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'Āsavasampayutto',  # «စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော» / «စိတ်အစွန်းအထင်းနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'sāsavañca',  # «စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော» / «စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'sāsavo',  # «စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော» / «စိတ်အစွန်းအထင်း၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'saññojaniyo',  # «နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော» / «နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'saññojanasampayutto',  # «နှောင်ကြိုးနှင့် ယှဉ်တွဲသော» / «နှောင်ကြိုးနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'saññojaniyañca',  # «နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော» / «နှောင်ကြိုး၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'ganthasampayutto',  # «အထုံးနှင့် ယှဉ်တွဲသော» / «အထုံးနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'vibhajantena',  # «ခွဲခြမ်းစိတ်ဖြာလျက်» / «ခွဲခြမ်းစိတ်ဖြာသူ»: two text forms of one meaning (map-harmonise §A; kept: text)
+    'arūpaṃ',  # «ရုပ် မဟုတ်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'ganthaniyo',  # «အထုံး၏ အာရုံ ဖြစ်နိုင်သော» / «အထုံး၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'nīvaraṇiyo',  # «အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော» / «အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'nīvaraṇasampayutto',  # «အတားအဆီးနှင့် ယှဉ်တွဲသော» / «အတားအဆီးနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'nīvaraṇiyañca',  # «အတားအဆီး၏ အာရုံ … ဖြစ်နိုင်သော» / «အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'nīvaraṇasampayuttañca',  # «အတားအဆီးနှင့် ယှဉ်တွဲသော» / «အတားအဆီးနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'parāmaṭṭho',  # «မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော» / «မှားယွင်းသော ယူဆမှု၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'Ajjhattikaṃ',  # «အတွင်းပိုင်း»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'ajjhattikassa',  # «အတွင်းပိုင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'bāhirassa',  # «ပြင်ပ»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'Upādā',  # «မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'Saṃkiliṭṭhañca',  # «ကိလေသာဖြင့် ညစ်နွမ်းသော» / «ကိလေသာဖြင့် … ညစ်နွမ်းသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'saṃkiliṭṭho',  # «ကိလေသာဖြင့် ညစ်နွမ်းသော» / «ကိလေသာဖြင့် … ညစ်နွမ်းသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'saṃkilesiko',  # «ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော» / «ကိလေသာ၏ အာရုံ … ဖြစ်နိုင်သော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'kilesasampayutto',  # «ကိလေသာနှင့် ယှဉ်တွဲသော» / «ကိလေသာနှင့် … ယှဉ်တွဲသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'pahātabbahetukādhipati',  # «ပယ်ရမည့် အမြစ် ရှိသော အကြီးအမှူး» / «ပယ်ရမည့် အမြစ် ရှိသည် … အကြီးအမှူး»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'sappītikadukasadisaṃ',  # «ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူသည်» / «ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'Kāmāvacaraṃ',  # «ကာမဘုံနှင့် ဆိုင်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'Rūpāvacaraṃ',  # «သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'Arūpāvacaraṃ',  # «ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'arūpāvacare',  # «ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'arūpadukasadisā',  # «ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူအောင်» / «ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူသည်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'Saraṇaṃ',  # «ပဋိပက္ခ ရှိသော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'hīno',  # «ယုတ်ညံ့သော»: the pi-7 value is a later binding file's value under the same or its own binding tag
+    'Cittadukakusalasadisaṃ',  # «စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူသည်» / «စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'Lokiyadukaabyākatasadisaṃ',  # «လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူသည်» / «လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူအောင်»: the -sadisa note in each segment's form «…နှင့် တူသည် / တူအောင်» (coordinator; kept: text shape)
+    'anuttaro',  # «ထိုထက် သာလွန်သည် မရှိသော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'chattiṃsa',  # «သုံးဆယ့်ခြောက်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'aṭṭhārasa',  # «ဆယ့်ရှစ်ခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'vattabbaṃ',  # «ခေါ်ဆို၍ မရသော»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'ekūnavīsati',  # «ဆယ့်ကိုးခု»: the count with the text's classifier «ခု» (T6), the same number as the binding «ပါး»
+    'sahetukañca',  # «အမြစ် ရှိသော» / «အမြစ် … ရှိသော»: one value with or without the « … » gap at the «လည်း» of ca / ceva (R7 / rule 10; kept: construction)
+    'mūlakaṃ',  # «အခြေခံ အကြောင်း»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)
+    'nānākaraṇaṃ',  # «ကွဲပြားချက်»: the pi-7 text's own word for the binding meaning (map-table «Values different from pi-1 … pi-6»; the binding value is not in the segment)

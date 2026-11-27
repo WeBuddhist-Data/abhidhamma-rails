@@ -1,0 +1,81 @@
+# Pāli→Burmese pi-7 sense decisions, written by gen_decisions_my.py from agg-sample.tsv
+# English tags: pi-6, then pi-5, pi-4, pi-3, pi-2, pi-1 Burmese senses (binding), else Marathi pi-7 senses (tags only), or MANUAL;
+# values: pi-7 Burmese keyword map only.
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+Paṭṭhānapāḷi: {the Book of Conditional Relations, title of the whole book (heading): အကြောင်းနှင့် အကျိုး ဆက်စပ်ပုံ}
+Hetupaccayoti: {root condition, with quotative -ti, opening its definition (nominative): အမြစ်ဟူသော အကြောင်း}
+dhammānaṃ: {of phenomena, states (genitive pl.): သဘောတရား}
+rūpānaṃ: {of material things (genitive pl.): ရုပ်}
+hetupaccayena: {by the root relation (instrumental): အမြစ်ဟူသော အကြောင်း}
+paccayo: {support, conditioning factor (nominative): အကြောင်း}
+Dhammānulome: {in the positive method by phenomena, division of the book (locative, heading): သဘောတရား အဟုတ်ပြ ပုံစံ}
+Tikapaṭṭhānaṃ: {the Conditional Relations of the triads, first division of the book (heading): သုံးမျိုးတွဲတို့၏ အကြောင်းနှင့် အကျိုး ဆက်စပ်ပုံ}
+Paccayaniddeso: {the exposition of the conditions, defining each of the twenty-four (heading): အကြောင်းများ၏ အကျယ် ဖော်ပြချက်}
+Paccayānulomaṃ: {the positive method by conditions, counting with the conditions present (heading): အကြောင်း အဟုတ်ပြ ပုံစံ}
+Ekamūlakaṃ: {based on one root in common (neuter sg.): အကြောင်း တစ်ခုကို အခြေခံခြင်း}
+Kusalapadaṃ: {the wholesome item, heading of the series that starts from it (heading): ကုသိုလ် ပုဒ်}
+Akusalapadaṃ: {the unwholesome item, heading of the series that starts from it (heading): အကုသိုလ် ပုဒ်}
+Abyākatapadaṃ: {the indeterminate item, neither wholesome nor unwholesome (heading): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ပုဒ်}
+Kusalābyākatapadaṃ: {the combined wholesome and indeterminate item (heading): ကုသိုလ်နှင့် ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ပုဒ်}
+Akusalābyākatapadaṃ: {the combined unwholesome and indeterminate item (heading): အကုသိုလ်နှင့် ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ပုဒ်}
+Paccayapaccanīyaṃ: {the negative method by conditions, counting with the conditions absent (heading): အကြောင်း အငြင်းပြ ပုံစံ}
+Paccayānulomapaccanīyaṃ: {the positive-negative method by conditions, present then absent (heading): အကြောင်း အဟုတ်ပြ အငြင်းပြ ပုံစံ}
+Paccayapaccanīyānulomaṃ: {the negative-positive method by conditions, absent then present (heading): အကြောင်း အငြင်းပြ အဟုတ်ပြ ပုံစံ}
+Kusalattikaṃ: {the wholesome triad, first triad of the matrix (heading): ကုသိုလ် သုံးမျိုးတွဲ}
+Vibhaṅgavāro: {the analysis section, where each answer is set out (heading): ခွဲခြမ်းစိတ်ဖြာခြင်းအလိုက် ဖော်ပြချက်}
+Anulomaṃ: {the affirmative form of the paired questions, in the headings of each section (heading member): အဟုတ်ပြ ပုံစံ / လျော်ညီခြင်း စိတ်}
+hetupaccayo: {root condition, as a named condition (nominative): အမြစ်ဟူသော အကြောင်း}
+Ārammaṇapaccayo: {object condition, as a named condition (nominative): အာရုံဟူသော အကြောင်း}
+Adhipatipaccayo: {predominance condition, as a named condition (nominative): အကြီးအမှူးဟူသော အကြောင်း}
+Sahajātapaccayo: {co-arising condition, as a named condition (nominative): အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း}
+Aññamaññapaccayo: {mutuality condition, as a named condition (nominative): အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း}
+Nissayapaccayo: {support condition, as a named condition (nominative): အမှီဟူသော အကြောင်း}
+Upanissayapaccayo: {strong-support condition, as a named condition (nominative): အားကြီးသော အမှီဟူသော အကြောင်း}
+Purejātapaccayo: {pre-arising condition, as a named condition (nominative): ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း}
+Āsevanapaccayo: {repetition condition, as a named condition (nominative): အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း}
+Kammapaccayo: {kamma condition, as a named condition (nominative): ကံဟူသော အကြောင်း}
+Vipākapaccayo: {result condition, kamma-result as a named condition (nominative): ကံ၏ အကျိုးဟူသော အကြောင်း}
+Āhārapaccayo: {nutriment condition, as a named condition (nominative): အာဟာရဟူသော အကြောင်း}
+Indriyapaccayo: {faculty condition, as a named condition (nominative): စွမ်းရည်ဟူသော အကြောင်း}
+Jhāna: {meditative absorption, chapter subject (stem and heading): ဈာန်ဟူသော အကြောင်း / ဈာန်}
+Sampayuttapaccayo: {association condition, as a named condition (nominative): ယှဉ်တွဲခြင်းဟူသော အကြောင်း}
+Vippayuttapaccayo: {dissociation condition, as a named condition (nominative): ကင်းကွာခြင်းဟူသော အကြောင်း}
+Atthipaccayo: {presence condition, as a named condition (nominative): ရှိခြင်းဟူသော အကြောင်း}
+Natthi: {there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိ / မရှိသည် / မရှိခြင်း / မရှိခြင်းဟူသော အကြောင်း}
+vigatapaccayā: {disappearance condition, by which a state arises, also in headings (ablative): ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့် / ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း}
+Avigatapaccayo: {non-disappearance condition, as a named condition (nominative): မပျောက်ကွယ်ခြင်းဟူသော အကြောင်း}
+Saṅkhyāvāro: {the counting section, the number of answers per condition (heading): ရေတွက်ခြင်းအလိုက် ဖော်ပြချက်}
+Suddhaṃ: {the conditions taken singly, the single-condition count (heading): ရိုးရိုး}
+Gaṇanā: {the count, the reckoning of answers (heading and nominative sg.): ရေတွက်ချက်}
+Tikaṃ: {the classification by threes, the triads (heading): သုံးမျိုးတွဲ}
+Dvādasakaṃ: {twelves, combinations of twelve conditions in the counts (heading): ဆယ့်နှစ်မျိုးတွဲ}
+Bāvīsakaṃ: {twenty-twos, combinations of twenty-two conditions in the counts (heading): နှစ်ဆယ့်နှစ်မျိုးတွဲ}
+Terasakaṃ: {thirteens, combinations of thirteen conditions in the counts (heading): ဆယ့်သုံးမျိုးတွဲ}
+Āsevanadukaṃ: {pairs with the repetition condition, combinations in the counts (heading): အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ}
+Vipākadukaṃ: {pairs with the result condition, combinations in the counts (heading): ကံ၏ အကျိုးဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ}
+Paccanīyaṃ: {the negative method, counting with the conditions absent (heading): အငြင်းပြ ပုံစံ}
+nahetupaccayo: {absence of the root condition, as a named negative condition (nominative): အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း}
+Naārammaṇapaccayo: {absence of the object condition, as a named negative condition (nominative): အာရုံဟူသော အကြောင်း မဟုတ်ခြင်း}
+Naadhipatipaccayo: {absence of the predominance condition, as a named negative condition (nominative): အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း}
+Naanantara: {absence of the proximity condition, bare negative stem in headings and in chains of negatives: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်}
+Napurejātapaccayo: {absence of the pre-arising condition, as a named negative condition (nominative): ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း}
+Napacchājāta: {absence of the post-arising condition, bare negative stem in headings and in chains of negatives: နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း / နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့် မဟုတ်}
+Nakammapaccayo: {absence of the kamma condition, as a named negative condition (nominative): ကံဟူသော အကြောင်း မဟုတ်ခြင်း}
+Navipākapaccayo: {absence of the result condition, as a named negative condition (nominative): ကံ၏ အကျိုးဟူသော အကြောင်း မဟုတ်ခြင်း}
+Najhānapaccayo: {absence of the jhāna condition, as a named negative condition (nominative): ဈာန်ဟူသော အကြောင်း မဟုတ်ခြင်း}
+Namaggapaccayo: {absence of the path condition, as a named negative condition (nominative): မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း}
+Nasampayuttapaccayo: {absence of the association condition, as a named negative condition (nominative): ယှဉ်တွဲခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း}
+Navippayuttapaccayo: {absence of the dissociation condition, as a named negative condition (nominative): ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း}
+Nonatthi: {absence of the absence condition, bare negative stem in headings (stem): မရှိခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း}
+Nahetudukaṃ: {pairs with absence of the root condition, in the negative counts (heading): အမြစ်ဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ}
+Vīsakaṃ: {twenties, combinations of twenty conditions in the counts (heading): နှစ်ဆယ်မျိုးတွဲ}
+Catukkaṃ: {set of four, the classification by fours, in Paccayacatukka and the matrix of fours (compound final and heading): လေးမျိုးတွဲ}
+Naadhipatidukaṃ: {pairs with absence of the predominance condition, in the negative counts (heading): အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ}
+Navippayuttadukaṃ: {pairs with absence of the dissociation condition, in the negative counts (heading): ကင်းကွာခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း၏ နှစ်မျိုးတွဲ}
+Ekādasakaṃ: {the group of eleven, classification by elevens (heading): ဆယ့်တစ်မျိုးတွဲ}
+Tevīsakaṃ: {twenty-threes, combinations of twenty-three conditions in the counts (heading): နှစ်ဆယ့်သုံးမျိုးတွဲ}
+Sahajātadukaṃ: {pairs with the co-arising condition, combinations in the counts (heading): အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ}
+Aññamaññadukaṃ: {pairs with the mutuality condition, combinations in the counts (heading): အချင်းချင်း ထောက်ပံ့ခြင်းဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ}
+Nissaya: {support condition, bare stem in lists and headings (stem): အမှီ / အမှီဟူသော အကြောင်း}
+Pañcakaṃ: {the classification by fives (heading): ငါးမျိုးတွဲ}
+Indriyadukaṃ: {pairs with the faculty condition, combinations in the counts (heading): စွမ်းရည်ဟူသော အကြောင်း၏ နှစ်မျိုးတွဲ}

@@ -1,0 +1,10 @@
+checked: S 1539, P 1539, C 1539, O 1539, N 1539, I 2537, T 95
+reuse test: terms 89 / 89 identical (of 246 witnessed values); sentences 618 / 618 identical
+identity with the finished groups 1-01, 1-03 … 1-05, 2-03 … 2-06: 27 / 29 sentences identical (the differences are listed with --groups)
+G | vatthupurejātaṃ – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. 
+    mine: မှီရာ ဝတ္ထု ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း – မျက်စိ အာရုံခံ နယ်ပယ်သည် မျက်စိ သိစိတ်အား… ကိုယ် အာရုံခံ နယ်ပယ်သည် ကိုယ် သိစိတ်အား ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းဖြ ('3-02-culantaraduka.md', 301) 
+    grp:  မှီရာ ဝတ္ထု ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း – မျက်စိ အာရုံခံ နယ်ပယ်၊ မျက်စိ သိစိတ်တို့အား… ကိုယ် အာရုံခံ နယ်ပယ်သည် ကိုယ် သိစိတ်အား ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း ('1-05-sankilitthattika.md', 81)
+G | purejātaṃ – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa vippayuttapaccayena paccayo. 
+    mine: ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း – မျက်စိ အာရုံခံ နယ်ပယ်သည် မျက်စိ သိစိတ်အား… ကိုယ် အာရုံခံ နယ်ပယ်သည် ကိုယ် သိစိတ်အား ကင်းကွာခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်။ ('3-02-culantaraduka.md', 321) 
+    grp:  ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း – မျက်စိ အာရုံခံ နယ်ပယ်၊ မျက်စိ သိစိတ်တို့အား… ကိုယ် အာရုံခံ နယ်ပယ်သည် ကိုယ် သိစိတ်အား ကင်းကွာခြင်းဟူသော အကြောင်းဖြင့် အကြောင်း ဖြစ်သည်။ ('1-05-sankilitthattika.md', 116)
+0 mismatches

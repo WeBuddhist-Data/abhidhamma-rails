@@ -1,0 +1,12 @@
+3-01-hetugocchaka: lines 430 bad [] presence-fails 0 punct 0 unmapped 0 NDE 4 ruled 123
+3-02-culantaraduka: lines 467 bad [] presence-fails 0 punct 0 unmapped 0 NDE 8 ruled 95
+3-03-asavagocchaka: lines 296 bad [] presence-fails 0 punct 0 unmapped 0 NDE 7 ruled 53
+3-04-sannojanagocchaka: lines 269 bad [] presence-fails 0 punct 0 unmapped 0 NDE 5 ruled 63
+3-05-ganthagocchaka: lines 266 bad [] presence-fails 0 punct 0 unmapped 0 NDE 6 ruled 69
+3-06-oghayogagocchaka: lines 3 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 1
+3-07-nivaranagocchaka: lines 262 bad [] presence-fails 0 punct 0 unmapped 0 NDE 6 ruled 59
+3-08-paramasagocchaka: lines 224 bad [] presence-fails 0 punct 0 unmapped 0 NDE 6 ruled 45
+total {'lines': 2217, 'nde': 42, 'fails': 0, 'unmapped': 0, 'ruled': 508}
+S1 stem uses: kept 112 corrected 3
+newly mapped uses 239 {'3-01-hetugocchaka': 11, '3-02-culantaraduka': 28, '3-03-asavagocchaka': 8, '3-04-sannojanagocchaka': 73, '3-05-ganthagocchaka': 110, '3-07-nivaranagocchaka': 5, '3-08-paramasagocchaka': 4}
+module values overridden (uses) 10 in 6 keyword / value pairs

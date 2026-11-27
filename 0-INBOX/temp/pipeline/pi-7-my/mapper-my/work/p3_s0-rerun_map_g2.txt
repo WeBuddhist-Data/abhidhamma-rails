@@ -1,0 +1,18 @@
+2-01-vitakkattika: lines 236, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 4, unmapped 0, ending-rule chunks 57
+2-02-pitittika: lines 96, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 5, unmapped 0, ending-rule chunks 47
+2-03-dassanenapahatabbattika: lines 201, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 2, unmapped 0, ending-rule chunks 36
+2-04-dassanenapahatabbahetukattika: lines 208, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 0, unmapped 0, ending-rule chunks 50
+2-05-acayagamittika: lines 169, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 43
+2-06-sekkhattika: lines 162, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 43
+2-07-parittattika: lines 178, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 3, unmapped 0, ending-rule chunks 50
+2-08-parittarammanattika: lines 80, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 3, unmapped 0, ending-rule chunks 28
+2-09-hinattika: lines 9, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 0, unmapped 0, ending-rule chunks 3
+2-10-micchattaniyatattika: lines 140, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 3, unmapped 0, ending-rule chunks 46
+2-11-maggarammanattika: lines 98, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 0, unmapped 0, ending-rule chunks 40
+2-12-uppannattika: lines 49, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 4
+2-13-atitattika: lines 45, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 8
+2-14-atitarammanattika: lines 88, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 0, unmapped 0, ending-rule chunks 30
+2-15-ajjhattattika: lines 119, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 2, unmapped 0, ending-rule chunks 31
+2-16-ajjhattarammanattika: lines 63, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 25
+2-17-sanidassanasappatighattika: lines 125, bad [], presence failures 0, «, » / «၊» / « / » 0, (no direct equivalent) 1, unmapped 0, ending-rule chunks 64
+TOTAL g2: lines 2066, bad 0, fails 0, punct 0, nne 28, unmapped 0; S1 stem uses 25 (reviewed kept 25, corrected by table 0, unreviewed 0)

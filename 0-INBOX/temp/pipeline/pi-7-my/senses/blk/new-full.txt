@@ -1,0 +1,78 @@
+    'Atthi': "pi-5 sense kept for the verb «ရှိသည်» of a note (^7-10-111); «ရှိခြင်း» / «ရှိခြင်းဟူသော အကြောင်း» are the "
+             "presence condition (^7-2-441 …, ^7-2-1-1-1-3-4-0; map-table T1, T4)",
+    'indriya': "pi-5 sense kept for «စွမ်းရည်» (bare name, ^7-2-442 …); «စွမ်းရည်ဟူသော အကြောင်း» is the faculty condition "
+               "named in the headings (^7-1-1-1-4-54-5-0 …; map-table T1, brief)",
+    'Sahajāta': "pi-5 sense kept for «အတူ ပေါ်ပေါက်ခြင်း» / «…သော»; «အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း» is the co-arising "
+                "condition named in a heading (^7-1-1-1-4-54-49-0; map-table T1)",
+    'adhipati': "pi-5 sense kept for «အကြီးအမှူး»; «အကြီးအမှူးဟူသော အကြောင်း» is the predominance condition named in the "
+                "headings (^7-1-1-1-4-54-57-0, ^7-4-3-1-69-5-0; map-table T1)",
+    'Ārammaṇa': "pi-5 sense kept for «အာရုံ»; «အာရုံဟူသော အကြောင်း» is the object condition named in the headings "
+                "(^7-4-3-1-21-2-0 …; map-table T1)",
+    'vipāka': "pi-2 sense kept for «ကံ၏ အကျိုး»; «ကံ၏ အကျိုးဟူသော အကြောင်း» is the result condition named in a heading "
+              "(^7-3-1-9-30-9-0; map-table T1, brief)",
+    'Kamma': "pi-5 sense 'deeds' kept for «ကံ»; «ကံဟူသော အကြောင်း» is the kamma condition named in the headings "
+             "(^7-1-1-1-4-16-13-0 …; map-table T1)",
+    'vippayutta': "pi-5 'dissociated from, compound final' «ကင်းကွာသော» not attested; «ကင်းကွာခြင်း» is the bare name of "
+                  "the dissociation condition (^7-2-441 …; map-table T1)",
+    'sampayutta': "pi-3 / pi-1 'conjoined with, compound final' «ယှဉ်တွဲသော» not attested; «ယှဉ်တွဲခြင်း» is the bare "
+                  "name of the association condition (^7-2-451 …; map-table T1)",
+    'purejāta': "pi-5 'born beforehand' «ရှေးဦးစွာ ဖြစ်ပေါ်ပြီးသော» not attested; «ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်း» is the bare "
+                "name of the pre-arising condition (^7-2-445 …; map-table T1)",
+    'āhāra': "pi-5 'bringing out in speech' «ဆိုခြင်း» not attested; «အာဟာရ» is the bare name of the nutriment condition "
+             "(^7-2-450 …; map-table T1)",
+    'Vigata': "pi-5 'gone, removed' «ကင်းသော» not attested; «ပျောက်ကွယ်ခြင်း» is the bare name of the disappearance "
+              "condition (^7-2-522, ^7-8-4; map-table T1)",
+    'vigataṃ': "pi-5 'departed' «ကင်းကွာပြီးသော» not attested; «ပျောက်ကွယ်ခြင်း» is the disappearance condition named "
+               "in a note (^7-4-119; map-table T1)",
+    'ārammaṇe': "pi-5 'in the object' «အာရုံ» not attested; «အာရုံဟူသော အကြောင်း» is the counting locative of the "
+                "object condition (^7-2-73 …; map-table T2, phase-1 §E)",
+    'āhāre': "pi-5 'in nutritive conditions' «အာဟာရ» not attested; «အာဟာရဟူသော အကြောင်း» is the counting locative of "
+             "the nutriment condition (^7-2-73 …; map-table T2)",
+    'indriye': "pi-6 'faculties' «စွမ်းရည်» not attested; «စွမ်းရည်ဟူသော အကြောင်း» is the counting locative of the "
+               "faculty condition (^7-2-73 …; map-table T2)",
+    'magge': "pi-5 'in the path' «မဂ်» not attested; «မဂ်ဟူသော အကြောင်း» is the counting locative of the path condition "
+             "(^7-2-73 …; map-table T2)",
+    'vippayutte': "pi-5 'dissociated from (locative)' «ကင်းကွာသော» not attested; «ကင်းကွာခြင်းဟူသော အကြောင်း» is the "
+                  "counting locative of the dissociation condition (^7-2-73 …; map-table T2)",
+    'vigate': "pi-5 'when departed' «ကင်းသွားသော» not attested; «ပျောက်ကွယ်ခြင်းဟူသော အကြောင်း» is the counting locative "
+              "of the disappearance condition (^7-2-73 …; map-table T2)",
+    'jhāne': "pi-1 'in the meditative absorption' «ဈာန်» not attested; «ဈာန်ဟူသော အကြောင်း» is the counting locative of "
+             "the jhāna condition (^7-2-76 …; map-table T2)",
+    'sampayutte': "pi-1 'conjoined with (locative)' «ယှဉ်တွဲသော» not attested; «ယှဉ်တွဲခြင်းဟူသော အကြောင်း» is the "
+                  "counting locative of the association condition (^7-2-76; map-table T2)",
+    'vipākaṃ': "pi-2 sense kept for the adjective «ကံ၏ အကျိုး ဖြစ်သော»; «ကံ၏ အကျိုး» is the result condition named in the "
+               "count notes '(āsevane vipākaṃ natthi)' (^7-2-81, ^7-2-283, ^7-8-4; Marathi pi-7 tag, map-harmonise §B "
+               "kept: sense)",
+    'nirodhā': "pi-5 'stoppings, endings' «ချုပ်ငြိမ်းသော» not attested; «ချုပ်ငြိမ်းခြင်း သမာပတ်» is the attainment of "
+               "cessation, 'nirodhā vuṭṭhahantassa' (^7-2-417 …; map-table, my7 LEX)",
+    'parikammaṃ': "pi-5 'massaging the body' «ပွတ်တိုက်ပေးခြင်း» not attested; «ကြိုတင် ပြင်ဆင်မှု» is the jhāna / path "
+                  "preliminary (^7-2-423 …; notes-g2 §D)",
+    'tiṭṭhati': "pi-5 'stands upright' «တည်သည်» not attested; «ဓားပြ တိုက်သည်» is 'paripanthe tiṭṭhati', highway robbery "
+                "(^7-2-423 …; map-table T11)",
+    'dhammassa': "pi-5 'the Buddha's teaching' «တရား» not attested; «သဘောတရား» is dhamma as phenomenon (^7-4-93 …)",
+    'gamanāni': "pi-2 'goings, in agatigamanāni' «လိုက်ခြင်း» not attested; «သွားပုံ» is the courses of the answers in a "
+                "note (^7-8-28)",
+    'byañjanena': "pi-5 'by outward mark' «အသွင်» not attested; «စကားလုံး» is the wording of the text, 'byañjanena na "
+                  "samenti' (^7-10-112)",
+    'kāraṇena': "pi-5 'by the reason' «အကြောင်း» not attested; «နည်းလမ်း» is 'iminā kāraṇena', by this method "
+                "(^7-23-5 …; coordinator g2 decision kāraṇena)",
+    'ante': "pi-2 'extremes' «အစွန်း» not attested; «အဆုံးတိုင်း» is 'ante ante', at the end of each (^7-23-46)",
+    'agge': "pi-2 'at the tip' «ဖျား» not attested; «ရှေ့ဆုံး» is 'at the front, first' of a note (^7-25-80, ^7-25-81)",
+    'Yogaṃ': "pi-5 'connection, in ayoganti' «ဆက်စပ်» not attested; «ထမ်းပိုး» is the bond, the item of the yoga dyad "
+             "(^7-29-2 …; notes-g3, cluster names)",
+    'bāhiro': "pi-5 'one outside the dispensation' «သာသနာပ» not attested; «ပြင်ပ» is the triad item 'external' "
+              "(^7-32-318 …)",
+    'likhitaṃ': "pi-4 'burnished' «ပွတ်ထားသော» not attested; «ရေးထားသော» is 'written', 'heṭṭhā likhitaṃ' (^7-35-124; "
+                "notes-g4 §D)",
+    'anuloma': "pi-5 'direct order' «အစဉ်အတိုင်း» not attested; «အဟုတ်ပြ ပုံစံ» is the positive method (^7-36-11; as "
+               "pi-6 anulomaṃ, brief)",
+    'Abyākatamūlaṃ': "pi-1 'a root that is neither wholesome nor unwholesome' «… အမြစ်» not attested; «… အခြေခံခြင်း» is "
+                     "the series based on the indeterminate item (^7-65-50 …; map-table T6)",
+    'kiñci': "pi-5 'anything at all' «တစ်စုံတစ်ရာ» not attested; «အချို့သော» is 'kiñci kāle', at some times (^7-1-6, "
+             "^7-1-10; map-table)",
+    'paccaya': "pi-5 / pi-2 'condition' «အကြောင်း / အထောက်အပံ့» not attested; «အကြောင်းပြု၍ ဖြစ်ပေါ်ခြင်း» is the "
+               "Paccayavāra member of the combined vāra name (^7-1-1-1-8-7-0 …; map-harmonise §F 1)",
+    'vatthu': "pi-5 / pi-4 / pi-2 'topics, stump, basis' not attested; «မှီရာ ဝတ္ထု» is the physical base (^7-2-57 …; "
+              "notes-g2 §D: pi-3's «အခြေခံ» is another sense)",
+    'citto': "pi-5 'of mind, compound final' «စိတ် ရှိသော» and 'Citta the householder' not attested; «စိတ်» is the item of "
+             "the mind dyad, 'citto dhammo' (^7-70-23 …)",

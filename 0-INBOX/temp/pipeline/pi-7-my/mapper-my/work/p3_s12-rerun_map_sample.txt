@@ -1,0 +1,5 @@
+preamble: lines 3 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 4
+1-00-paccaya: lines 66 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 219
+1-02-vedanattika: lines 228 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 27
+sources [('cond', 972), ('stock', 314), ('terms', 254), ('pi-2', 171), ('frame', 165), ('verb', 62), ('count', 56), ('lex', 44), ('order', 25), ('headlex', 19), ('pi-5', 17), ('vara', 12), ('term', 9), ('base', 8), ('pi-4', 2), ('title', 1), ('pi-6', 1), ('ctx', 1), ('pi-3', 1)]
+same 1415 new 1843 diff 398

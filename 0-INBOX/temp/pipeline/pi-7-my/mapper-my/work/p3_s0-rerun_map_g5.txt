@@ -1,0 +1,21 @@
+4-02-dukatika-hetuduka: lines 1032 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 191
+4-03-dukatika-sahetukaduka: lines 229 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 49
+4-04-dukatika-sappaccayaduka: lines 136 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 30
+4-05-dukatika-asavaduka: lines 117 bad [] presence-fails 0 punct 0 unmapped 0 NDE 4 ruled 31
+4-06-dukatika-sannojanaduka: lines 90 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 33
+4-07-dukatika-ganthaduka: lines 69 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 19
+4-08-dukatika-nivaranaduka: lines 60 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 7
+4-09-dukatika-paramasaduka: lines 54 bad [] presence-fails 0 punct 0 unmapped 0 NDE 4 ruled 11
+4-10-dukatika-sarammanaduka: lines 163 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 42
+4-11-dukatika-upadanaduka: lines 54 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 9
+4-12-dukatika-kilesaduka: lines 57 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 12
+4-13-dukatika-dassanenapahatabbaduka: lines 167 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 45
+4-14-dukatika-saranaduka: lines 136 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 31
+4-15-tikaduka-hetuduka: lines 552 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 90
+4-16-tikaduka-sappaccayaduka: lines 91 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 8
+4-17-tikaduka-asavaduka: lines 64 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 12
+4-18-tikaduka-sarammanaduka: lines 60 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 11
+4-19-tikaduka-kilesaduka: lines 60 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 13
+4-20-tikaduka-dassanenapahatabbaduka: lines 101 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 22
+4-21-tikaduka-sauttaraduka: lines 157 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 20
+TOTAL {'lines': 3449, 'fails': 0, 'punct': 0, 'unmapped': 0, 'nde': 26}

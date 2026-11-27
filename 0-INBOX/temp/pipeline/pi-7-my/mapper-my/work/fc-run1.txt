@@ -1,0 +1,30 @@
+full 278 of 300 | dry run 179791 ok 171252 unmapped 8539 560 wrong 0 stem 694
+  paṭiccavārasadisā 139/499 [('မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်', 139)] [('2-08-parittarammanattika', [('7-14-24', 'no value')]), ('4-02-dukatika-hetuduka', [('7-36-11', 'no value')]), ('4-03-dukatika-sahetukaduka', [('7-37-4', 'no value')])]
+  paṭiccavārasadisaṃ 383/476 [('မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်', 383)] [('4-07-dukatika-ganthaduka', [('7-41-27', 'no value')]), ('4-15-tikaduka-hetuduka', [('7-49-38', 'no value')]), ('5-02-anuloma-dukaduka', [('7-56-15', 'no value')])]
+  nevavipākanavipākadhammadhammo 373/405 [('ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား', 373)] [('4-15-tikaduka-hetuduka', [('7-49-43', 'no value')]), ('5-18-paccaniyanuloma-tikaduka', [('7-72-38', 'no value')]), ('5-19-paccaniyanuloma-tikatika', [('7-73-30', 'no value')])]
+  Nasanidassanasappaṭighaṃ 0/398 [] [('5-03-paccaniya-tika', [('7-57-31', 'no value')]), ('5-06-paccaniya-tikaduka', [('7-60-69', 'no value')]), ('5-07-paccaniya-tikatika', [('7-61-63', 'no value')])]
+  upādinnupādāniyo 0/350 [] [('1-04-upadinnattika', [('7-5-1', 'no value')]), ('4-02-dukatika-hetuduka', [('7-36-152', 'no value')]), ('4-14-dukatika-saranaduka', [('7-48-11', 'no value')])]
+  uposathakammaṃ 264/328 [('ဥပုသ်ကို စောင့်ထိန်းသည်', 264)] [('2-05-acayagamittika', [('7-11-54', 'no value')]), ('2-06-sekkhattika', [('7-12-55', 'no value')]), ('2-07-parittattika', [('7-13-74', 'no value')])]
+  Nevavipākanavipākadhammadhammaṃ 247/294 [('ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား', 247)] [('4-15-tikaduka-hetuduka', [('7-49-37', 'no value')]), ('4-21-tikaduka-sauttaraduka', [('7-54-73', 'no value')]), ('5-01-anuloma-tikatika', [('7-55-92', 'no value')])]
+  nabhāvanāya 0/283 [] [('2-03-dassanenapahatabbattika', [('7-9-1', 'no value')]), ('2-04-dassanenapahatabbahetukattika', [('7-10-1', 'no value')]), ('4-01-kilesagocchaka', [('7-35-37', 'no value')])]
+  Upādinnupādāniyo 0/236 [] [('1-04-upadinnattika', [('7-5-51', 'no value')]), ('4-15-tikaduka-hetuduka', [('7-49-53', 'no value')]), ('4-21-tikaduka-sauttaraduka', [('7-54-80', 'no value')])]
+  anupādinnupādāniyo 0/219 [] [('1-04-upadinnattika', [('7-5-1', 'no value')]), ('4-02-dukatika-hetuduka', [('7-36-164', 'no value')]), ('4-14-dukatika-saranaduka', [('7-48-12', 'no value')])]
+  kātabbā 0/216 [] [('1-03-vipakattika', [('7-4-110', 'no value')]), ('2-01-vitakkattika', [('7-7-37', 'no value')]), ('2-02-pitittika', [('7-8-32', 'no value')])]
+  paṭiccavārasadiso 193/198 [('မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်', 193)] [('2-01-vitakkattika', [('7-U291', 'no value')])]
+  nasanidassanasappaṭighaṃ 0/193 [] [('5-05-paccaniya-dukatika', [('7-59-29', 'no value')]), ('5-07-paccaniya-tikatika', [('7-61-36', 'no value')]), ('5-17-paccaniyanuloma-dukatika', [('7-71-84', 'no value')])]
+  sahetuko 163/190 [('အမြစ် ရှိသော', 163)] [('3-01-hetugocchaka', [('7-24-131', 'no value')]), ('4-03-dukatika-sahetukaduka', [('7-37-49', 'no value')]), ('4-15-tikaduka-hetuduka', [('7-49-263', 'no value')])]
+  nasanidassanasappaṭigho 0/172 [] [('5-03-paccaniya-tika', [('7-57-32', 'no value')]), ('5-06-paccaniya-tikaduka', [('7-60-93', 'no value')]), ('5-09-anulomapaccaniya-tika', [('7-63-50', 'no value')])]
+  kātabbaṃ 0/167 [] [('1-01-kusalattika', [('7-2-423', 'no value')]), ('2-01-vitakkattika', [('7-7-38', 'no value')]), ('2-02-pitittika', [('7-8-14', 'no value')])]
+  nevavipākanavipākadhammadhammassa 143/167 [('ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား', 143)] [('4-15-tikaduka-hetuduka', [('7-49-40', 'no value')])]
+  sanidassanasappaṭigho 0/154 [] [('2-17-sanidassanasappatighattika', [('7-23-1', 'no value')]), ('4-15-tikaduka-hetuduka', [('7-49-239', 'no value')]), ('5-01-anuloma-tikatika', [('7-55-132', 'no value')])]
+  nibbānaṃ 124/133 [('ဖြစ်ပေါ်သည်', 117), ('ဖြစ်စေသည်', 7)] [('1-01-kusalattika', [('7-2-410', 'no value')]), ('1-04-upadinnattika', [('7-5-54', 'no value')]), ('2-07-parittattika', [('7-13-58', 'no value')])]
+  vatthupurejātaṃ 0/132 [] [('1-01-kusalattika', [('7-2-424', 'no value')]), ('1-03-vipakattika', [('7-4-105', 'no value')]), ('1-04-upadinnattika', [('7-5-64', 'no value')])]
+  ārammaṇapurejātaṃ 0/130 [] [('1-01-kusalattika', [('7-2-424', 'no value')]), ('1-03-vipakattika', [('7-4-105', 'no value')]), ('1-04-upadinnattika', [('7-5-64', 'no value')])]
+  Nevavipākanavipākadhammadhammo 90/122 [('ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား', 90)] [('4-15-tikaduka-hetuduka', [('7-49-39', 'no value')]), ('4-21-tikaduka-sauttaraduka', [('7-54-75', 'no value')])]
+  group 1-01-kusalattika … 2-01-vitakkattika 5 29935
+  group 2-02-pitittika … 3-01-hetugocchaka 17 34017
+  group 3-02-culantaraduka … 3-09-mahantaraduka 8 34541
+  group 3-10-upadanagocchaka … 4-02-dukatika-hetuduka 3 28207
+  group 4-03-dukatika-sahetukaduka … 4-18-tikaduka-sarammanaduka 16 20344
+  group 4-19-tikaduka-kilesaduka … 5-20-paccaniyanuloma-dukaduka 23 29091
+exit 0

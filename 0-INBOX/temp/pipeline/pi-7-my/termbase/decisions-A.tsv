@@ -1,0 +1,196 @@
+# pi-7 (Paṭṭhāna) Pāli→Burmese plain termbase: decisions. hw|sense_index <TAB> term <TAB> reason
+# Built only from this book's own Burmese text (zero-shot, harmonise and mapping notes, my7-zeroshot-terms.md, the approved sample) and the LOCKED pi-6 / pi-5 / pi-4 / pi-3 / pi-2 / pi-1 termbases (with their APPROVED change notes). For review by the coordinator; not locked.
+# Order of the brief: (a) locked pi-6 / pi-5 / pi-4 / pi-3 / pi-2 / pi-1 term, (b) approved core term (burmese-style.md, my7-zeroshot-terms.md, the approved sample, harmonise, the mapping rules T1-T13, M1, M2), (c) most used form, (d) clearest plain candidate. Match tools: pi123456_match.py (pi123456-match.tsv), lemma_match.py (lemma-match.txt); counts: multi_view.py (multi-view.txt).
+# A locked term is not taken where it never occurs in the pi-7 text (the pi-7 form is kept and reported), where the pi-7 sense is new (the senses step's NEW_SENSE, logged), or where an approved pi-7 sample form or mapping rule binds; every such case says «departs».
+#
+# Part 1a: multi-candidate senses where a locked termbase has the same headword and sense and its term is a candidate (13)
+Paripuṇṇaṃ|0	ပြည့်စုံသော	locked pi-4 paripuṇṇaṃ «ပြည့်စုံသော» (same sense); 36 of 40 uses; «ပြည့်စုံစွာ» is the adverbial use (grammar, map-harmonise §B)
+assādeti|0	သာယာသည်	locked pi-5 assādeti «သာယာသည်» (same sense, rule 4 verb form); §A 7: «သာယာ» is the first of two verbs sharing one «သည်» («သာယာ နှစ်သက်သည်», U1, construction)
+nevavipākanavipākadhammadhammo|0	ကံ၏ အကျိုးလည်း မဟုတ် အကျိုး ပေးတတ်သည်လည်း မဟုတ်သော သဘောတရား	locked pi-2 (same sense), with its head noun «သဘောတရား» (dhammo), 463 of 527 uses; the shorter form is the attributive before a noun (grammar)
+sahetuko|0	အမြစ် ရှိသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+Āsavasampayutto|0	စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+sāsavo|0	စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+ganthasampayutto|0	အထုံးနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+ganthaniyo|0	အထုံး၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+nīvaraṇiyo|0	အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+parāmaṭṭho|0	မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+saṃkiliṭṭho|0	ကိလေသာဖြင့် ညစ်နွမ်းသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+saṃkilesiko|0	ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+kilesasampayutto|0	ကိလေသာနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+#
+# Part 1b: multi-candidate senses whose locked term is not among the candidates (or never occurs in the pi-7 text) (3)
+Aññamañña|0	အချင်းချင်း ထောက်ပံ့ခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar); approved sample name (NEW); the pi-5 «အချင်းချင်း» is the adverb aññamaññaṃ (another sense, TAGDIFF), a part of the name
+niruddhe|0	ချုပ်ငြိမ်းသွားသော	§A 35 decided: «ချုပ်ငြိမ်းသွားသော» (has ceased), 30 of 33 uses (1-03 … 1-05, 3-01, 3-09); the locked pi-5 / pi-6 / pi-1 «ချုပ်ငြိမ်းပြီးသော» never occurs in the pi-7 text (0 of 28 segments): kept and reported (brief), «…သွား…» is the candidate closest to its completed sense
+sahajātaṃ|0	အတူ ပေါ်ပေါက်ခြင်း	the bare name as the label of the co-arising kind (H7 label, T1), 241 of 242 uses; «အတူ ပေါ်ပေါက်သော» is the adjective of «“sahajātaṃ kāmupādāna”nti» (^7-U409, grammar); the pi-2 «အတူ ဖြစ်ပေါ်သော» (another sense, TAGDIFF) never occurs in the pi-7 text
+#
+# Part 1c: multi-candidate senses without a locked entry for the same sense (60)
+Anantara|0	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar); kept apart from samanantara «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း» (approved sample)
+Natthi|0	မရှိသည်	locked pi-6 / pi-5 / pi-4 / pi-3 / pi-2 / pi-1 natthi «မရှိသည်» (dictionary verb form, rule 4; pi-6 the same with its «မရှိပါ။» answers); «မရှိ» is the Q5 negated verb before another word in the notes (grammar)
+Natthi|1	မရှိခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar); sense 0 the verb «မရှိသည်» stays apart (NEW_SENSE)
+Atthi|1	ရှိခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar); sense 0 the verb «ရှိသည်» stays apart (NEW_SENSE)
+Nissaya|0	အမှီ	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar)
+Sahajāta|0	အတူ ပေါ်ပေါက်ခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar); 119 of 120 uses; «အတူ ပေါ်ပေါက်သော» is the adjective in one heading (^7-1-1-1-4-57-10-0, grammar)
+Upanissaya|0	အားကြီးသော အမှီ	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar)
+Pacchājāta|0	နောက်မှ ဖြစ်ပေါ်ခြင်း	the bare condition name N (map-table T1: lists, ghaṭanā and hyphen compounds; the dictionary form of the stem); family: the single-candidate stems Hetu / Ārammaṇa / adhipati / samanantara / āsevana / Kamma / vipāka / āhāra / indriya / Jhāna / sampayutta / vippayutta / purejāta / Vigata / Avigata have N; «Nဟူသော အကြောင်း» in a heading is the name by its frame (T1, grammar)
+hetupaccayā|0	အမြစ်ဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar); 7098 of 7108 uses
+ārammaṇapaccayā|0	အာရုံဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+adhipatipaccayā|0	အကြီးအမှူးဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+anantarapaccayā|0	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+samanantarapaccayā|0	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+sahajātapaccayā|0	အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+upanissayapaccayā|0	အားကြီးသော အမှီဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+purejātapaccayā|0	ရှေးဦးစွာ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+āsevanapaccayā|0	အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+kammapaccayā|0	ကံဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+natthipaccayā|0	မရှိခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+vigatapaccayā|0	ပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+avigatapaccayā|0	မပျောက်ကွယ်ခြင်းဟူသော အကြောင်းကြောင့်	T2 ablative «Nဟူသော အကြောင်းကြောင့်» (pi-2 avijjāpaccayā «…ကြောင့်»: the cause marker is the keyword's meaning); family: the single-candidate Xpaccayā (aññamañña-, nissaya-, vipāka-, āhāra-, indriya-, jhāna-, magga-, sampayutta-, vippayutta-, atthi-) have it; the name «…ဟူသော အကြောင်း» is the heading frame of the same word (T4, grammar)
+naadhipatipaccayā|0	အကြီးအမှူးဟူသော အကြောင်းကြောင့် မဟုတ်	T2 negative ablative «Nဟူသော အကြောင်းကြောင့် မဟုတ်» (the «ဘဲ» of «မဟုတ်ဘဲ» goes, rule 6); family: the single-candidate naXpaccayā (napurejāta-, naāsevana-, nakamma-, navipāka-, najhāna-, namagga- …); the name negative is the heading frame (T4, grammar)
+naārammaṇapaccayā|0	အာရုံဟူသော အကြောင်းကြောင့် မဟုတ်	T2 negative ablative «Nဟူသော အကြောင်းကြောင့် မဟုတ်» (the «ဘဲ» of «မဟုတ်ဘဲ» goes, rule 6); family: the single-candidate naXpaccayā (napurejāta-, naāsevana-, nakamma-, navipāka-, najhāna-, namagga- …); the name negative is the heading frame (T4, grammar)
+Naanantara|0	ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	the bare negative stem names the absent condition «Nဟူသော အကြောင်း မဟုတ်ခြင်း» (T1 negative, = Naxpaccayo, the headings); the same as the single-candidate heading stems Navipāka / Naāhāra / Nonatthi; «…ကြောင့် မဟုတ်» is the hyphen-chain part before -paccayā (^7-U265, T4: the compound's case, grammar)
+Napacchājāta|0	နောက်မှ ဖြစ်ပေါ်ခြင်းဟူသော အကြောင်း မဟုတ်ခြင်း	the bare negative stem names the absent condition «Nဟူသော အကြောင်း မဟုတ်ခြင်း» (T1 negative, = Naxpaccayo, the headings); the same as the single-candidate heading stems Navipāka / Naāhāra / Nonatthi; «…ကြောင့် မဟုတ်» is the hyphen-chain part before -paccayā (^7-U265, T4: the compound's case, grammar)
+Naadhipati|0	အကြီးအမှူးဟူသော အကြောင်း မဟုတ်ခြင်း	the bare negative stem names the absent condition «Nဟူသော အကြောင်း မဟုတ်ခြင်း» (T1 negative, = Naxpaccayo, the headings); the same as the single-candidate heading stems Navipāka / Naāhāra / Nonatthi; «…ကြောင့် မဟုတ်» is the hyphen-chain part before -paccayā (^7-U265, T4: the compound's case, grammar)
+naindriya|0	စွမ်းရည်ဟူသော အကြောင်း မဟုတ်ခြင်း	the bare negative stem names the absent condition «Nဟူသော အကြောင်း မဟုတ်ခြင်း» (T1 negative, = Naxpaccayo, the headings); the same as the single-candidate heading stems Navipāka / Naāhāra / Nonatthi; «…ကြောင့် မဟုတ်» is the hyphen-chain part before -paccayā (^7-U265, T4: the compound's case, grammar)
+namagga|0	မဂ်ဟူသော အကြောင်း မဟုတ်ခြင်း	the bare negative stem names the absent condition «Nဟူသော အကြောင်း မဟုတ်ခြင်း» (T1 negative, = Naxpaccayo, the headings); the same as the single-candidate heading stems Navipāka / Naāhāra / Nonatthi; «…ကြောင့် မဟုတ်» is the hyphen-chain part before -paccayā (^7-U265, T4: the compound's case, grammar)
+uposathakammaṃ|0	ဥပုသ်ကို စောင့်ထိန်းသည်	§A 8 decided: map-table T11, an act compound carries its verb «ဥပုသ်ကို စောင့်ထိန်းသည်» (karoti / katvā then no direct equivalent); 264 of 328 uses; = gāmaghātaṃ / nigamaghātaṃ / ekāgārikaṃ; «ဥပုသ် စောင့်ထိန်းခြင်း» and «ဥပုသ်…» are the noun form and the …pe… cut (g2 G5); pi-2 uposatha «ဥပုသ်» (member) is a part of it
+suciṇṇāni|0	ကောင်းစွာ ကျင့်ခဲ့ဖူးသော	§A 15 decided: «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော» (well practised, carati), 78 of 92 uses (1-01, 2-03, 2-05, 2-06, 2-13, 2-15 … 4-01); the rails write «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော အမှုတို့» for the 14 «ကောင်းစွာ ပြုခဲ့ဖူးသည်တို့» of 1-03 … 2-10
+vipāko|0	ကံ၏ အကျိုး ဖြစ်သော	family: vipākā / vipākaṃ|0 / vipākānaṃ «ကံ၏ အကျိုး ဖြစ်သော» (pi-1 / pi-2 / pi-5 locked vipākā, vipākaṃ); 68 of 69 uses
+vipākassa|0	ကံ၏ အကျိုး	the noun of «kammaṃ vipākassa» (the tag: kamma is a condition for its result), 4 of 8 uses (^7-2-423, ^7-6-14, ^7-25-156, ^7-32-452; phase-3 family alignment); the same word as vipāko «ကံ၏ အကျိုး ဖြစ်သော», whose «ဖြစ်သော» is the attributive (grammar); the noun stands in the attributive form too
+vipāke|1	ကံ၏ အကျိုး	the noun, 3 of 4 uses (= vipākassa|0); «ကံ၏ အကျိုး ဖြစ်သော» is the attributive before khandhe (grammar); sense 0 the count locative «ကံ၏ အကျိုးဟူသော အကြောင်း» stays apart
+tadārammaṇatā|0	ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်	§A 16 decided: «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်» (tad- 'that same' = «ပင်», -tā 'state' = «အဖြစ်»), 25 of 28 uses (1-03 … 1-05, 3-01, 3-09); the rails change the three «…အာရုံပြုသည့် အနေဖြင့်» of 1-01 / 2-05
+ṭhānāṭhānakosallassa|0	ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း	§A 14 decided: «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း», 7 of 12 uses (1-01, 2-05, 2-06, 3-02, 4-01), the plainer and shorter reading of ṭhāna / aṭṭhāna (what can and cannot be); no locked entry
+ekāgārikaṃ|0	အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်	§A 8 decided: T11 act compound with its verb «အိမ်တစ်လုံးတည်းကို ဝိုင်း၍ တိုက်သည်» (= gāmaghātaṃ, nigamaghātaṃ, uposathakammaṃ); «အိမ်တစ်လုံးတည်း» is the …pe… cut of 4-01 (g4)
+gāmaghātaṃ|0	ရွာကို ဖျက်ဆီး၍ လုယက်သည်	§A 8 decided: T11 act compound with its verb «ရွာကို ဖျက်ဆီး၍ လုယက်သည်» (= nigamaghātaṃ single, pi-5 rails «ရွာကို ဖျက်ဆီး၍ လုယက်ရာ»); «ရွာ» is the …pe… cut of 4-01 (g4)
+saññojanādidukāni|0	နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ	§A 36 decided: «နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ» (the dyads of the fetters and the rest), 6 of 7 headings (5-02, 5-08, 5-11, 5-12); the rails change 4-17 ^7-4-3-3-12-4-0
+paṭiccavārasadisā|0	မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION; the plural «တူကြသည်» by the ending rule
+paṭiccavārasadiso|0	မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+paṭiccavārasadisaṃ|0	မှီ၍ ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+dutiyagamanasadisaṃ|0	ဒုတိယ သွားပုံနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+sappītikadukasadisaṃ|0	ပီတိ ရှိခြင်း နှစ်မျိုးတွဲနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+arūpadukasadisā|0	ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+Cittadukakusalasadisaṃ|0	စိတ် ဖြစ်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ် သဘောတရားနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+Lokiyadukaabyākatasadisaṃ|0	လောကနှင့် သက်ဆိုင်ခြင်း နှစ်မျိုးတွဲ၏ ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (map-table T5, rule 4 dictionary form; H19 / H24; = the single-candidate -sadisa terms); the text's «…နှင့် တူအောင်» before kātabbā / vitthāretabbā is the adverbial construction (T5), the rails keep it as INFLECTION
+pavattipaṭisandhi|0	ဘဝ ဖြစ်စဉ် … ပဋိသန္ဓေ	§A 19 decided: pavatti «ဘဝ ဖြစ်စဉ်» (the process of existence), 10 of 12 uses, = pavattipaṭisandhiyā / pavatteyeva; the rails change «ဘဝ ဖြစ်ဆဲ ကာလ» (2-01, 2-07); pi-6 pavatte «ဘဝ တည်နေစဉ်» is another headword (lemma level, not binding, its words not in the pi-7 text)
+vibhajantena|0	ခွဲခြမ်းစိတ်ဖြာလျက်	§A 37 decided: the instrumental participle of a note = the adverbial «…လျက်», as anumajjantena «ပြန်လည် စိစစ်လျက်» (H10) and asammuyhantena «မရောထွေးစေဘဲ»; «ခွဲခြမ်းစိတ်ဖြာသူ» (^7-U409) is the agent-noun reading
+pahātabbahetukādhipati|0	ပယ်ရမည့် အမြစ် ရှိသော အကြီးအမှူး	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept); «ရှိသော» the attributive (rule 3)
+sahetukassa|0	အမြစ် ရှိသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+sahetukañca|0	အမြစ် ရှိသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+Āsavasampayuttaṃ|0	စိတ်အစွန်းအထင်းနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+sāsavañca|0	စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+saññojaniyo|0	နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+saññojanasampayutto|0	နှောင်ကြိုးနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+saññojaniyañca|0	နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+nīvaraṇasampayutto|0	အတားအဆီးနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+nīvaraṇiyañca|0	အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+nīvaraṇasampayuttañca|0	အတားအဆီးနှင့် ယှဉ်တွဲသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+Saṃkiliṭṭhañca|0	ကိလေသာဖြင့် ညစ်နွမ်းသော	the contiguous term (pi-1 rule 3 dictionary form; family: the same item without «…» in the other cases); «… … …» is the R7 gap at the «လည်း» of ca / ceva in coordinated items (construction, map-harmonise §B kept)
+#
+# Part 2: single-candidate senses re-aligned to the LOCKED pi-6 / pi-5 / pi-4 / pi-3 / pi-2 / pi-1 term (same headword, same sense; the locked term occurs in the pi-7 text) (15)
+samphaṃ|0	အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား	locked pi-5 review change B12 (pi-1 … pi-4 samphappalāpa); in all 9 segments (the text has «အကျိုးမဲ့ ပြိန်ဖျင်းသော စကားကို ပြောသည်»: the map split it after «အကျိုးမဲ့»); palapati keeps «ပြောသည်» (= pi-5 palapeyya)
+nillopaṃ|0	လုယက်	locked pi-5 (same tag, the same deeds list, pi-5 rails «လုယက်ပစ္စည်းကို လုယူရာ»); harati keeps «လုယူသည်» (= pi-5 hareyya); the rails write «လုယက်ပစ္စည်းကို လုယူသည်» for «ဥစ္စာကို လုယူသည်» (9 segments)
+paripanthe|0	လမ်း	locked pi-5 (same tag; pi-5 rails «လမ်း၌ ဓားပြ တိုက်…»); in all 9 segments, inside «လမ်းခရီး၌»
+vattabbaṃ|0	ခေါ်ဆို၍ ရ	locked pi-2 / pi-1 vattabbaṃ «ခေါ်ဆို၍ ရ» (same tag, the same 'na vattabbaṃ' use); the pi-7 value «ခေါ်ဆို၍ မရသော» carried the negation of na (the only use, ^7-58-56), which the rails render as the negated verb «… မရသော» (Q5, INFLECTION), as pi-1 / pi-2 did
+nānākaraṇaṃ|0	ကွဲပြားမှု	§A 27 decided: locked pi-5 «ကွဲပြားမှု» (same tag; in the pi-7 text at ^7-33-98 ninnānā); one noun for nānā(karaṇa): family ninnānākaraṇaṃ / ninnānākaraṇā / ninnānā «ကွဲပြားမှု မရှိ» (part 3)
+avasesesu|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesa family «ကြွင်းကျန်သော» (coordinator)
+avasesā|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesā «ကြွင်းကျန်သော» (coordinator)
+Avasesāni|0	ကြွင်းကျန်သော	locked pi-1 / pi-2 / pi-5 / pi-6 avasesa family «ကြွင်းကျန်သော» (coordinator)
+Dassanenapahātabbahetukattikaṃ|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း သုံးမျိုးတွဲ	review B15: hetuka = having roots (pi-1 ^1-M1 «… အမြစ် ရှိသော»)
+Dassanenapahātabbahetukattika|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း သုံးမျိုးတွဲ	review B15
+Dassanenapahātabbahetukadukaṃ|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Dassanenapahātabbahetukaduka|0	သစ္စာကို မြင်ခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Bhāvanāyapahātabbahetukadukaṃ|0	ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+Bhāvanāyapahātabbahetukaduka|0	ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့် အမြစ် ရှိခြင်း နှစ်မျိုးတွဲ	review B15
+bhindati|0	သင်းခွဲသည်	review B16 / A7: the pi-5 saṅghabhedaka family «သံဃာကို သင်းခွဲ…» and this book's saṅghabhedakamma «သံဃာကို သင်းခွဲခြင်း ကံ»
+#
+# Part 3: family re-alignments of single-candidate senses (one Burmese word per Pāli lemma and sense; family-scan-before.txt) and the synonym-list check (5)
+assādenti|0	သာယာသည်	family of assādeti (locked pi-5 «သာယာသည်», part 1): the same verb; «သာယာ» before «နှစ်သက်ကြသည်» is the shared ending (construction, §A 7)
+ninnānākaraṇaṃ|0	ကွဲပြားမှု မရှိ	§A 27: family of nānākaraṇaṃ (locked pi-5 «ကွဲပြားမှု», part 2) and ninnānā «ကွဲပြားမှု မရှိ»; the rails change «ကွဲပြားချက် မရှိ» (57 uses)
+ninnānākaraṇā|0	ကွဲပြားမှု မရှိ	§A 27: as ninnānākaraṇaṃ (13 uses)
+maggapaccaya|0	မဂ်ဟူသော အကြောင်းကြောင့်	source slip for maggapaccayā (^7-12-5, written without the final -ā; map-harmonise §A 12): the intended word's term (pi-6 rule for slips); the text already has «မဂ်ဟူသော အကြောင်းကြောင့်» there
+sāsavassa|0	စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော	family of sāsavo / Sāsavaṃ / sāsavañca (part 1, locked pi-5 sāsavo): the contiguous term; the text's «… … …» gap at «လည်း» is the R7 construction
+#
+# Part 4: text inconsistencies of mapper-my/map-harmonise-notes.md §A decided by a term (single-candidate senses re-aligned) (1)
+pacchājātasadisaṃ|0	နောက်မှ ဖြစ်ပေါ်ခြင်းနှင့် တူသည်	§A 4 decided: -sadisa «…နှင့် တူသည်» (T5, H19; = the multi-candidate -sadisa decisions); the text's «…နှင့် တူအောင်» before the imperative is the adverbial construction, kept by the rails
+#
+# Part 5 (comments only): locked terms NOT taken, family differences kept, §A items, identity, rails notes. No decision lines here.
+#
+# 5a. Same headword and sense as a LOCKED termbase, the pi-7 term kept (diff-categories.txt; pi123456-match.tsv)
+#  (1) Other senses (TAGDIFF, 38): the locked sense is another one; the senses step's NEW_SENSE (logged in senses/gen_decisions_my.py):
+#      the condition forms by frame (ārammaṇe, āhāre, indriye, magge, jhāne, sampayutte, vippayutte, vigate «Nဟူသော အကြောင်း»; the bare
+#      names Aññamañña, vippayutta, sampayutta, purejāta, āhāra, āsevana, Vigata, vigataṃ, sahajātaṃ), paccaya (the vāra member), Ekamūlakaṃ
+#      (the counted mūlaka), kiñci, vatthu «မှီရာ ဝတ္ထု», kusale, vodānaṃ «စင်ကြယ်ခြင်း စိတ်» (the mind moment, §A 5), nirodhā «ချုပ်ငြိမ်းခြင်း
+#      သမာပတ်», parikammaṃ, tiṭṭhati, dhammassa, gamanāni, byañjanena, kāraṇena, ante, agge, Yogaṃ, bāhiro, likhitaṃ, anuloma, Abyākatamūlaṃ, citto.
+#  (2) Locked term in the pi-7 text, the pi-7 term kept (19), each a chosen departure:
+#   - saṃsaṭṭha «ရောနှောခြင်း»: the vāra member of saṃsaṭṭhavāra (T5, approved sample); pi-3 «ရောနှောသော» (adjective) is in 0 of its 24 segments.
+#   - samanantarā «ကောင်းစွာ ချက်ချင်း နောက်»: approved sample point 2 (§A 1); pi-5 «ချက်ချင်း နောက်၌» is anantarā's word here (^7-1-4 / ^7-1-5).
+#   - uppajjeyya / uppajjeyyuṃ «ဖြစ်ပေါ်နိုင်သည်»: the pucchāvāra «Siyā … uppajjeyya» = «… ဖြစ်ပေါ်နိုင်သလော» (approved sample, T10); pi-5 / pi-2
+#     «ဖြစ်ပေါ်သည်» is uppajjati's word, in 0 of their 37 segments as their word.
+#   - paccavekkhati / paccavekkhanti «ပြန်လည် ဆင်ခြင်သည်» (§A 2 decided): the locked noun paccavekkhaṇā «ပြန်လည် ဆင်ခြင်ခြင်း» (pi-1 / pi-2 / pi-4 /
+#     pi-5) and the whole pi-7 family (paccavekkhitvā, paccavekkhaṇā, X-paccavekkhaṇaṃ) have «ပြန်လည် ဆင်ခြင်»; one word per lemma (brief 2).
+#     pi-2 / pi-5 verb «ဆင်ခြင်သည်» is a substring of it (151 / 151 segments), so the rails text needs no change.
+#   - deti «ပြုသည်», datvā «ပြု၍» (absent): T11, «dānaṃ deti / datvā» = «ပေးလှူခြင်းကို ပြုသည် / ပြု၍» (dānaṃ «ပေးလှူခြင်း» carries the giving);
+#     pi-5 «ပေးသည်» would give «ပေးလှူခြင်းကို ပေးသည်».
+#   - uppādeti / uppādenti «ဖြစ်စေသည်»: pi-5 uppādenti «ဖြစ်ပေါ်စေသည်» (2 of 11 segments) NOT taken: jappeti «ဖြစ်ပေါ်စေသည်» (locked pi-5, the same
+#     pi-7 term) stands in the same deeds-list segments («mānaṃ jappeti … jhānaṃ uppādeti», 58 segments, synonym-check.txt); one Burmese
+#     for both would merge two Pāli verbs (burmese-style lessons). Rejected: aligning both to «ဖြစ်ပေါ်စေသည်».
+#   - harati «လုယူသည်»: = pi-5 hareyya «လုယူသည်» (the same deeds list); pi-2 harati «ဆောင်သည်» (carries off) is in 0 of 4 segments.
+#   - kāyikaṃ «ကိုယ်ပိုင်းဆိုင်ရာ»: = pi-1 / pi-2 locked kāyikaṃ (same tag) and the family kāyikassa; pi-5 «ကိုယ်» (the body) is only a part of it.
+#   - Dassanena «သစ္စာကို မြင်ခြင်း», sekkho «ကျင့်ကြံဆဲသူ၏», asekkho «ကျင့်ကြံမှု ပြီးဆုံးသူ၏»: the triad qualifiers from pi-1 final (brief 2; pi-1 /
+#     pi-2 / pi-3 locked; the coordinator's sekkha decision, §A 21); pi-5 «မြင်ခြင်း» / pi-4 «ကျင့်ကြံဆဲသူ» are the plain verb noun and the person.
+#     The persons keep «ကျင့်ကြံဆဲသူ» (sekkhā, sekkhānaṃ = pi-4): two uses, family-scan B «sekkh».
+#   - the answer counts terasa, soḷasa, cuddasa, tevīsa, tiṃsa «…ခု» (and absent: sattarasa, pannarasa, ekādasa, dvādasa, chattiṃsa, aṭṭhārasa,
+#     ekūnavīsati): T6 / pi-1 decision 5, the text's classifier «ခု» for counted answers; the locked «…ပါး» counted persons, khandhas or items.
+#   - vipākamanoviññāṇadhātu «ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်»: pi-1 has the same words with a « … » gap (its own text's construction).
+#   - mūlakaṃ «အခြေခံ အကြောင်း»: the noun of the note «(mūlakaṃ saṃkhittaṃ)»; pi-2 «အခြေခံသော» (compound final) is in 0 of 20 segments.
+#   - niruddhe «ချုပ်ငြိမ်းသွားသော» (part 1, §A 35): pi-5 / pi-6 / pi-1 «ချုပ်ငြိမ်းပြီးသော» never occurs in niruddhe's 28 segments.
+#  (3) Locked term never in the pi-7 text, the pi-7 form kept and reported (30; vattabbaṃ aligned instead, part 2):
+#      paṭicca «မှီ၍» (pi-1 / pi-5 «အကြောင်းတို့ကို မှီ၍» is the dependent-origination sense without an object; approved sample: paṭicca / nissāya
+#      «မှီ၍», 0 of 2903 segments), anantarapaccayena / aññamaññapaccaya (the T1 names), kusalākusalaṃ «ကုသိုလ်နှင့် အကုသိုလ်» (§A 3; = the
+#      text's «… ကံ», pi-5 kusalākusale), kiriyābyākataṃ, pañhā «ပြဿနာ» (the vāra name), sahajāto «အတူ ပေါ်ပေါက်သော» (my7 §4 link word),
+#      vipassati / vipassanti «ထိုးထွင်း၍ ရှုသည်» (vipassanā's «ထိုးထွင်း»), vuṭṭhahantassa «ထမြောက်နေသူ» (pi-4 P6 agent noun), bhaṇati «ပြောသည်»,
+#      vācāya «စကား», Cakkaṃ «စက်ဝိုင်း» (the text's word), Bhojanaṃ «အစားအစာ», avasesā «ကြွင်းသော» (pi-1 … pi-6 «ကြွင်းကျန်သော»: 0 of 18
+#      segments; = avasesesu, Avasesāni), passitvā «ကြည့်၍» (§A 22), Gaṇanāya «ရေတွက်ချက်» (= the gaṇanā family), sukhassa «သာယာမှု», paro
+#      «သူတစ်ပါး», asaññasattā «အသညသတ်» (H3, the beings' name), rūpī / arūpī «ရုပ် ဖြစ်သော / ရုပ် မဟုတ်သော» (§A 24: = pi-1 rūpino / arūpino,
+#      the dyad terms; pi-2 «ရုပ် ရှိသော» is the jhāna formula's sense), hīno «ယုတ်ညံ့သော», the counts above.
+#
+# 5b. Same lemma, other headword (lemma-match.txt; not binding, reported): pavatteyeva / pavattipaṭisandhi «ဘဝ ဖြစ်စဉ်» vs pi-6 pavatte «ဘဝ တည်နေစဉ်»;
+#   vippaṭisārissa «နောင်တ ရသူ» (agent noun) vs pi-4 vippaṭisārī «… ရသော»; gaṇanā «ရေတွက်ချက်» vs pi-5 gaṇanaṃ «ရေတွက်ခြင်း»; Anulomaṃ|0
+#   «အဟုတ်ပြ ပုံစံ» = pi-6 (approved sample).
+#
+# 5c. Family scan (family-scan-before.txt → family-scan-after.txt): part A 1 → 0 headwords lacking the core word (33 explained hits); part B
+#   53 → 51 families with more than one term, 51 explained, 0 unexplained: the condition by its frame (T1-T4: bare name / name / ablative;
+#   the na-X stems: name negative in headings, ablative in the hyphen chains), vipāka attributive vs noun, two senses (anulom, paccay,
+#   hetuduk, kātabb, arūp, rūp, dukkh), grammar (sukh, gaṇit, saṃsaṭṭh, nevavipāka…, -mūlak), two lemmas (uppād, no-upād), sekkh (persons vs
+#   qualifier), maggapaccaya (slip, part 3).
+#
+# 5d. Synonym check (synonym-check.txt; two different Pāli words with one term in a segment): no synonym list is merged. Kept: datvā / katvā
+#   «ပြု၍» (T11 act compounds), bhaṇati / palapati «ပြောသည်» (musā bhaṇati, samphaṃ palapati: one verb 'speaks' with its own object; pi-5
+#   palapeyya «ပြောသည်»), hanati / voropeti «သတ်သည်» (^7-35-336; voropeti locked pi-5 B5), the case siblings (jānanti / jānāti, lobhañca /
+#   lobho …). The jappeti / uppādeti clash is why uppādeti keeps «ဖြစ်စေသည်» (5a).
+#
+# 5e. map-harmonise-notes.md §A, decided by a term (23): 1 samanantarā (kept, sample); 2 paccavekkh- «ပြန်လည် ဆင်ခြင်» (5a); 3 kusalākusalaṃ
+#   «ကုသိုလ်နှင့် အကုသိုလ်»; 4 -sadisa «…နှင့် တူသည်» (part 1, part 4; the adverbial «…နှင့် တူအောင်» and «-sadisā» «တူကြသည်» stay as INFLECTION);
+#   7 assādeti / assādenti «သာယာသည်»; 8 the act compounds with their verb (uposathakammaṃ, gāmaghātaṃ, ekāgārikaṃ; nigamaghātaṃ already);
+#   9 kātabbā two senses «ပြုရမည့် / ထည့်ရမည့်» (senses step); 11 paṭicca / nissāya «မှီ၍»; 13 the -to forms without «ဟု»; 14 ṭhānāṭhānakosalla
+#   «ဖြစ်နိုင်ခြင်းနှင့် မဖြစ်နိုင်ခြင်း၌ ကျွမ်းကျင်ခြင်း»; 15 suciṇṇāni «ကောင်းစွာ ကျင့်ခဲ့ဖူးသော»; 16 tadārammaṇatā «ထိုအာရုံကိုပင် အာရုံပြုသော အဖြစ်»;
+#   19 pavatti «ဘဝ ဖြစ်စဉ်»; 21 sekkha qualifier «ကျင့်ကြံဆဲသူ၏» vs persons «ကျင့်ကြံဆဲသူ»; 22 passitvā «ကြည့်၍»; 23 naviññeyyo «မသိနိုင်သော»;
+#   24 rūpī / arūpī «ရုပ် ဖြစ်သော / ရုပ် မဟုတ်သော»; 27 nānākaraṇa «ကွဲပြားမှု» (locked pi-5; ninnānākaraṇaṃ / -ā «ကွဲပြားမှု မရှိ», 70 uses change);
+#   30 lokiya «လောကနှင့် သက်ဆိုင်…» / kāmāvacara «ကာမဘုံနှင့် ဆိုင်…» (each its locked pi-1 word; kept); 33 nevadassanena (one value); 35 niruddhe
+#   «ချုပ်ငြိမ်းသွားသော»; 36 saññojanādidukāni «နှောင်ကြိုး စသည်တို့၏ နှစ်မျိုးတွဲ»; 37 vibhajantena «ခွဲခြမ်းစိတ်ဖြာလျက်».
+#   Left for the rails step (15, no term decides them): 5 the head nouns the text adds («ကံ», «စိတ်», «အမှု», «ရုပ်», «ပြဿနာ», «အပိုင်း», «ထိုအမှု»);
+#   6 «သဘောတရား» inside the -sadisa / -mūla notes; 10 the list comma inside terms (the terms have none); 12 spellings and slips as written
+#   (the slip headwords already carry the intended word's term: vicākānaṃ, lokuttarasa, uppajanti, maggapaccaya (part 3)); 17 tassa
+#   paṭighātatthāya (the text is uniform); 18 uppannaṃ samāpajjati (noun repeated or nominalised: wording); 20 the verb dropped in four
+#   abbreviated sentences; 25 arūpadukasadisā «ရုပ်မရှိသော ဘုံ နှစ်မျိုးတွဲ» kept as the text (it may name the arūpāvacara dyad
+#   «ရုပ်မရှိသော ဘုံနှင့် ဆိုင်ခြင်း နှစ်မျိုးတွဲ»: for the Burmese speaker); 26 one note read two ways; 28 the missing dot; 29 keyword-file gaps;
+#   31 the elliptic «(dassane ekaṃ, nadassane dve)»; 32 the split title compound; 34 the heading number «အစုများ / အစု»; 38 «နတ်» written
+#   into one word with the next keyword (dibba-: the term «နတ်» stays; spacing).
+#
+# 5f. Identity with pi-1 … pi-6 (shared_check.py → shared-check.txt / shared-check-all.txt): no decision of parts 1-4 touches a shared sentence
+#   (the shared units are headings, «Namo tassa …», «Abhidhammapiṭake», «(1)» «(2)» «(3)», «(Saṃkhittaṃ)»; 0 conflicts). Every sense of the
+#   assembled termbase: 47 shared units, 41 keep the term; the 6 others are Namo «ရှိခိုးသည်» = the locked pi-1 … pi-6 term itself, whose
+#   rails text has the homage register «… ရှိခိုးပါ၏» (INFLECTION), no conflict.
+#
+# 5g. For the rails step: nillopaṃ «လုယက်» (part 2) → «လုယက်ပစ္စည်းကို လုယူသည်» as the pi-5 rails; paripanthe «လမ်း» → «လမ်း၌ ဓားပြ တိုက်သည်» (or
+#   keep «လမ်းခရီး၌», which contains the term); samphaṃ: the text is already «အကျိုးမဲ့ ပြိန်ဖျင်းသော စကားကို ပြောသည်»; vattabbaṃ «ခေါ်ဆို၍ ရ» with
+#   na = «ခေါ်ဆို၍ မရသော» (INFLECTION); the condition forms by frame (T1-T4) and the vipāka attributive / noun are INFLECTION of one term.
