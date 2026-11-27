@@ -1,0 +1,10 @@
+Burmese pi-6 (Yamaka): plain translation through rails, review and track copy
+
+- Yamaka in plain Burmese, 3128 segments, full rails pipeline from the Pali
+  only: zero-shot, consistency pass, keyword map, word senses, termbase
+  (locked 2026-11-22), rails translation, three-reviewer bilingual review with
+  fixes applied
+- Identical Pali kept as the earlier Burmese books
+- Merged file with frontmatter and track copy with root-text transclusions
+  (2089, all verified), plus the termbase copy
+- Pipeline scratch, briefs, scripts and logs in 0-INBOX/temp/pipeline/pi-6-my

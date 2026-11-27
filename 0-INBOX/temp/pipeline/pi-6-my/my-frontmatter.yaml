@@ -1,0 +1,29 @@
+---
+title: အတွဲလိုက် မေးဖြေခြင်း - ရိုးရှင်းသော မြန်မာ
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Yamakapāḷi
+root_text: 1-SOURCES/Text/pi-6.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-6_split_chapters
+source_text_id: IZ74xHeWa9xortlOhL6cc
+source_edition_id: vYtNelE9z5AWQ0jAv82cC
+translation_of: IZ74xHeWa9xortlOhL6cc
+language: Burmese
+lang_tag: my
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/burmese/pi-6-pali-burmese-termbase-plain.md
+termbase_approved: 2026-11-22
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-6-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "zero-shot built by generator scripts from shared formula frames (sample first, remaining files in parallel), then a book-wide consistency pass; rails = the harmonised text with the locked termbase applied by an audited rule script (0 genuine termbase misses); identical Pāli kept as identical Burmese within the book and with the earlier Burmese books; independent bilingual review with fixes applied; translated from the Pāli only, no existing Burmese translation, nissaya or web source used; dashes only where the Pāli has them"
+zeroshot_split: AI_translation/burmese/pi-6-burmese-plain-zeroshot_split_chapters
+keyword_map: AI_translation/burmese/pi-6-keywords-by-reference-pali-burmese-plain.md
+senses: AI_translation/burmese/pi-6-pali-word-burmese-senses-plain.md
+segment_ids: "^T-1 … ^6-10-482 (3128 blocks, matching the source)"
+chapters: preamble + 10 yamakas in 44 files (Mūlayamaka … Indriyayamaka)
+split_chapters: AI_translation/burmese/pi-6-burmese-plain-rails_split_chapters
+generated: 2026-11-23
+status: draft
+---

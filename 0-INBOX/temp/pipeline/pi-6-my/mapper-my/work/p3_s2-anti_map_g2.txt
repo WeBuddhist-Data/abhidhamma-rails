@@ -1,0 +1,14 @@
+6-01-sankharayamaka: lines 152 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ending-rule chunks {'verb': 22, 'attr': 4, 'abs': 2}
+6-02-sankharayamaka: lines 122 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ending-rule chunks {'abs': 4, 'verb': 33, 'attr': 1}
+7-01-anusayayamaka: lines 41 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ending-rule chunks {'verb': 28}
+7-02-anusayayamaka: lines 34 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {}
+7-03-anusayayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 4 ending-rule chunks {'verb': 10}
+7-04-anusayayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 5 ending-rule chunks {}
+7-05-anusayayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 12 ending-rule chunks {'verb': 22}
+7-06-anusayayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ending-rule chunks {}
+7-07-anusayayamaka: lines 62 bad [] presence-fails 0 punct 0 unmapped 0 NDE 14 ending-rule chunks {'verb': 32}
+7-08-anusayayamaka: lines 12 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ending-rule chunks {'verb': 2}
+7-09-anusayayamaka: lines 50 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'perf-pred': 36, 'attr': 120, 'verb': 10}
+7-10-anusayayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ending-rule chunks {'attr': 110, 'verb': 19}
+7-11-anusayayamaka: lines 10 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'verb': 10, 'attr': 9}
+8-cittayamaka: lines 205 bad [] presence-fails 0 punct 0 unmapped 0 NDE 6 ending-rule chunks {'verb': 91, 'perf-pred': 15, 'attr': 41}

@@ -1,0 +1,29 @@
+    'avaseso',          # «ကြွင်းကျန်သော» = pi-5 «အကြွင်း»: the remaining, = the pi-1 value (same tag)
+    'avasesaṃ',         # «ကြွင်းကျန်သော» = pi-5 «အကြွင်း»: the remaining, = the pi-1 value (same tag)
+    'avasese',          # «ကြွင်းကျန်သော» = pi-5 «အကြွင်း»: the remaining (locative), one meaning
+    'upapajjantānaṃ',   # «…ဖြစ်ပေါ်ဆဲသူ» / «…ဖြစ်ပေါ်ဆဲ»: one participle, agent noun or attributive (R3; kept: grammar)
+    'upapajjantīnaṃ',   # «…ဖြစ်ပေါ်ဆဲ» / «…ဖြစ်ပေါ်ဆဲသူ»: one participle, attributive or agent noun (kept: grammar)
+    'pañcavokārānaṃ',   # «… ဘဝ၌ ရှိသော» / «… ဘဝ၌ ရှိသူ»: the beings, attributive or agent noun (R5; kept: grammar)
+    'rūpāvacarānaṃ',    # «… ရုပ်ဘုံ၌ ရှိသူ» / «… ရုပ်ဘုံ … ရှိသူ / ရှိသော»: the beings, shared ending (kept: construction)
+    'arūpāvacarānaṃ',   # «… ဘုံ၌ ရှိသူ» / «… ဘုံ၌ ရှိသော»: the beings, agent noun or attributive (kept: grammar)
+    'uppajjissati',     # «ဖြစ်ပေါ်လိမ့်မည်» / «ဖြစ်ပေါ်မည့်»: the future, finite or in a relative clause (R2; kept: grammar)
+    'itaresaṃ',         # «အခြားသူ» / «အခြား»: the others, agent noun or attributive before a noun (kept: grammar)
+    'pacchimabhavikānaṃ',  # «နောက်ဆုံး ဘဝ ရှိသူ» / «… ရှိသော»: agent noun or attributive (kept: grammar)
+    'anabhisametāvīnaṃ',   # «…မသိမြင်ရသေးသူ» / «…မသိမြင်ရသေးသော»: agent noun or attributive (kept: grammar)
+    'abhisametāvīnaṃ',  # «…သိမြင်ပြီးသူ» / «…သိမြင်ပြီးသော»: agent noun or attributive (kept: grammar)
+    'yattha',           # «အကြင်နေရာ» = pi-5 «အကြင်»: the relative 'where', with its noun (g1 U3)
+    'raso',             # «အရသာ» = the pi-2 / pi-1 taste sense (later binding file); pi-5 juice not attested
+    'dukkhaṃ',          # «နာကျင်မှု» = the pi-2 pain sense (same tag as pi-5's «နာကျင်သော»): bodily pain in ch. 5 and 10
+    'sukhaṃ',           # «သာယာမှု» = the pi-4 pleasure sense (same tag as pi-5's «သာယာသော»)
+    'kāyasaṅkhāro',     # «ကိုယ်၏ …» = pi-5 «ကိုယ် …»: one lemma, the text's form (map-harmonise §A 12)
+    'assāsapassāsā',    # «ဝင်လေ ထွက်လေ» = pi-5 «ထွက်သက် ဝင်သက်»: synonyms, in-breaths and out-breaths
+    'arūpadhātuṃ',      # «ရုပ်မရှိသော ဘုံ» = pi-5 «ရုပ်မရှိသော ဓာတ်»: the plane, within the pi-5 'element or plane'
+    'kāmadhātuṃ',       # «ကာမဘုံ» = pi-5 «ကာမ ဓာတ်»: the plane, within the pi-5 'element or plane'
+    'uppajjamānaṃ',     # «ဖြစ်ပေါ်ဆဲ» = pi-5 «ဖြစ်ပေါ်သော»: one present participle (R3)
+    'nirujjhamānaṃ',    # «ချုပ်ငြိမ်းဆဲ» = pi-5 «ချုပ်ငြိမ်းသော / …နေသော»: one present participle (R3)
+    'akusalaṃ cittaṃ',  # «အကုသိုလ်စိတ်» = pi-5 «အကုသိုလ် စိတ်»: spacing, = pi-2 / pi-1
+    'kusalaṃ cittaṃ',   # «ကုသိုလ်စိတ်» = pi-5 «ကုသိုလ် စိတ်»: spacing, = pi-2 / pi-1
+    'atītānāgataṃ',     # «အတိတ် … အနာဂတ်» = pi-5 «အတိတ်နှင့် အနာဂတ်»: one phrase, gapped (rule 10)
+    'nirujjhissanti',   # «ချုပ်ငြိမ်းလိမ့်မည်» = pi-5 «ချုပ်ငြိမ်းသည်»: the future (R2), one verb
+    'sacchikaroti',     # «မျက်မှောက်ပြုသည်» = pi-5 «မျက်မှောက် ပြုသည်»: spacing (map-harmonise §A 13)
+    'sacchikaronti',    # «မျက်မှောက်ပြုသည်» = pi-5 «မျက်မှောက် ပြုသည်»: spacing (map-harmonise §A 13)

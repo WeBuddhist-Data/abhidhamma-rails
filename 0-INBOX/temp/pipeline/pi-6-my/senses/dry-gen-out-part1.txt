@@ -1,0 +1,60 @@
+wrote 1125 decision lines -> dry-decisions-part1.txt
+  manual 0 | p5_same 163 | p5_subset 22 | p5_plus 9 | p5_lump 29 | p4_same 3 | p4_subset 0 | p4_plus 0 | p4_lump 0 | p3_same 16 | p3_subset 0 | p3_plus 0 | p3_lump 1 | p2_same 29 | p2_subset 0 | p2_plus 0 | p2_lump 5 | p1_same 5 | p1_subset 1 | p1_plus 0 | p1_lump 2 | mr 840 | case_only 28
+REVIEW (55): check, then add to LUMP_OK or MANUAL:
+  abyākatā dhammā [pi-5 senses + later binding sense for ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား]: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား
+  nāmā [pi-5 one sense, new values စိတ်ပိုင်း]: စိတ်ပိုင်း
+  sambhavo [pi-2 one sense, new values ဖြစ်တည်ရာ]: ဖြစ်တည်ရာ
+  kusalahetū [pi-2 one sense, new values ကုသိုလ်၏ အကြောင်း]: ကုသိုလ်၏ အကြောင်း
+  avasesā [pi-5 senses + later binding sense for ကြွင်းကျန်သော]: ကြွင်းကျန်သော
+  ekamūlakaṃ [pi-3 one sense, new values တူညီသော အမြစ်ကို အခြေခံသော]: တူညီသော အမြစ်ကို အခြေခံသော
+  nāmapaccayā [pi-2 one sense, new values စိတ်ပိုင်း၏ အထောက်အပံ့]: စိတ်ပိုင်း၏ အထောက်အပံ့
+  anulomaṃ [pi-5 one sense, new values အဟုတ်ပြ ပုံစံ]: အဟုတ်ပြ ပုံစံ
+  paccanīkaṃ [pi-5 one sense, new values အငြင်းပြ ပုံစံ]: အငြင်းပြ ပုံစံ
+  viññāṇañca [pi-5 one sense, new values သိစိတ်]: သိစိတ်
+  arūpaṃ [pi-5 one sense, new values ရုပ်မရှိသော ဘုံ]: ရုပ်မရှိသော ဘုံ
+  upapajjantānaṃ [one Marathi tag]: ပြန်လည် ဖြစ်ပေါ်ဆဲသူ / ပြန်လည် ဖြစ်ပေါ်ဆဲ
+  pañcavokārānaṃ [one Marathi tag]: အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသော / အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသူ
+  uppajjissati [pi-5 one sense, new values ဖြစ်ပေါ်မည့်]: ဖြစ်ပေါ်လိမ့်မည် / ဖြစ်ပေါ်မည့်
+  itaresaṃ [one Marathi tag]: အခြားသူ / အခြား
+  pacchimabhavikānaṃ [one Marathi tag]: နောက်ဆုံး ဘဝ ရှိသူ / နောက်ဆုံး ဘဝ ရှိသော
+  arūpā [pi-2 one sense, new values ရုပ်မရှိသော ဘုံ]: ရုပ်မရှိသော ဘုံ
+  yattha [pi-5 one sense, new values အကြင်နေရာ]: အကြင်နေရာ
+  raso [pi-5 senses + later binding sense for အရသာ]: အရသာ
+  cakkaṃ [pi-5 one sense, new values လှည့်ပတ်ခြင်း]: လှည့်ပတ်ခြင်း
+  avaseso [pi-5 senses + later binding sense for ကြွင်းကျန်သော]: ကြွင်းကျန်သော
+  rūpāvacare [pi-1 one sense, new values သိမ်မွေ့သော ရုပ်ဘုံ]: သိမ်မွေ့သော ရုပ်ဘုံ
+  arūpāvacare [pi-1 one sense, new values ရုပ်မရှိသော ဘုံ]: ရုပ်မရှိသော ဘုံ
+  rūpāvacarānaṃ [one Marathi tag]: သိမ်မွေ့သော ရုပ်ဘုံ၌ ရှိသူ / သိမ်မွေ့သော ရုပ်ဘုံ … ရှိသူ / သိမ်မွေ့သော ရုပ်ဘုံ … ရှိသော
+  kāmāvacarānaṃ [pi-2 one sense, new values ကာမဘုံ၌ ရှိသူ / ကာမဘုံ၌ ရှိသော]: ကာမဘုံ၌ ရှိသူ / ကာမဘုံ၌ ရှိသော / ကာမဘုံနှင့် ဆိုင်သော
+  arūpāvacarānaṃ [one Marathi tag]: ရုပ်မရှိသော ဘုံ၌ ရှိသူ / ရုပ်မရှိသော ဘုံ၌ ရှိသော
+  rūpāvacaraṃ [pi-5 one sense, new values သိမ်မွေ့သော ရုပ်ဘုံ]: သိမ်မွေ့သော ရုပ်ဘုံ
+  arūpāvacaraṃ [pi-5 one sense, new values ရုပ်မရှိသော ဘုံ]: ရုပ်မရှိသော ဘုံ
+  kāmāvacaraṃ [pi-5 one sense, new values ကာမဘုံ]: ကာမဘုံ
+  kāmāvacarā [pi-5 one sense, new values ကာမဘုံ]: ကာမဘုံ
+  rūpāvacarā [pi-5 one sense, new values သိမ်မွေ့သော ရုပ်ဘုံ]: သိမ်မွေ့သော ရုပ်ဘုံ
+  dhātū [pi-5 one sense, new values ဓာတ်]: ဓာတ်
+  rūpadhātuṃ [pi-5 one sense, new values သိမ်မွေ့သော ရုပ်ဘုံ / အဆင်းအရောင် ဓာတ်]: သိမ်မွေ့သော ရုပ်ဘုံ / အဆင်းအရောင် ဓာတ်
+  dukkhaṃ [pi-5 senses + later binding sense for နာကျင်မှု]: နာကျင်မှု
+  avasesaṃ [pi-5 senses + later binding sense for ကြွင်းကျန်သော]: ကြွင်းကျန်သော
+  avasese [pi-5 one sense, new values ကြွင်းကျန်သော]: ကြွင်းကျန်သော
+  anabhisametāvīnaṃ [one Marathi tag]: ထင်ထင်ရှားရှား မသိမြင်ရသေးသူ / ထင်ထင်ရှားရှား မသိမြင်ရသေးသော
+  abhisametāvīnaṃ [one Marathi tag]: ထင်ထင်ရှားရှား သိမြင်ပြီးသူ / ထင်ထင်ရှားရှား သိမြင်ပြီးသော
+  kāyasaṅkhāro [pi-5 one sense, new values ကိုယ်၏ ပြုပြင်ဖန်တီးမှု]: ကိုယ်၏ ပြုပြင်ဖန်တီးမှု
+  assāsapassāsā [pi-5 one sense, new values ဝင်လေ ထွက်လေ]: ဝင်လေ ထွက်လေ
+  kāyasaṅkhāraṃ [pi-5 one sense, new values ကိုယ်၏ ပြုပြင်ဖန်တီးမှု]: ကိုယ်၏ ပြုပြင်ဖန်တီးမှု
+  vacīsaṅkhāraṃ [pi-5 one sense, new values နှုတ်၏ ပြုပြင်ဖန်တီးမှု]: နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+  arūpadhātuṃ [pi-5 one sense, new values ရုပ်မရှိသော ဘုံ]: ရုပ်မရှိသော ဘုံ
+  kāmadhātuṃ [pi-5 one sense, new values ကာမဘုံ]: ကာမဘုံ
+  uppajjamānaṃ [pi-5 one sense, new values ဖြစ်ပေါ်ဆဲ]: ဖြစ်ပေါ်ဆဲ
+  nirujjhamānaṃ [pi-5 one sense, new values ချုပ်ငြိမ်းဆဲ]: ချုပ်ငြိမ်းဆဲ
+  akusalaṃ cittaṃ [pi-5 senses + later binding sense for အကုသိုလ်စိတ်]: အကုသိုလ်စိတ်
+  kusalaṃ cittaṃ [pi-5 senses + later binding sense for ကုသိုလ်စိတ်]: ကုသိုလ်စိတ်
+  atītānāgataṃ [pi-5 one sense, new values အတိတ် … အနာဂတ်]: အတိတ် … အနာဂတ်
+  nirujjhissanti [pi-5 one sense, new values ချုပ်ငြိမ်းလိမ့်မည်]: ချုပ်ငြိမ်းလိမ့်မည်
+  aññaṃ [pi-5 one sense, new values အပြည့်အဝ သိမြင်ခြင်း]: အပြည့်အဝ သိမြင်ခြင်း
+  sukhaṃ [pi-5 senses + later binding sense for သာယာမှု]: သာယာမှု
+  upapajjantīnaṃ [one Marathi tag]: ပြန်လည် ဖြစ်ပေါ်ဆဲ / ပြန်လည် ဖြစ်ပေါ်ဆဲသူ
+  sacchikaroti [pi-5 one sense, new values မျက်မှောက်ပြုသည်]: မျက်မှောက်ပြုသည်
+  sacchikaronti [pi-5 one sense, new values မျက်မှောက်ပြုသည်]: မျက်မှောက်ပြုသည်
+UNRESOLVED (1): write MANUAL:
+  paccayo	pi-5 senses ['support, conditioning factor (nominative)', 'reliance on others, in parapaccayo (compound final)']	burmese=['အထောက်အပံ့']

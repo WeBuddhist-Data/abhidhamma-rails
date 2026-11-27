@@ -1,0 +1,27 @@
+== rebuild (9 generators; make_sample.py --terms rewrites my6-zeroshot-terms.md)
+== check_chapter_ids / pi-6-mr/check_text_pe.py / pi-4-mr/check_marks.py
+(44 chapter files checked, chk-pe copies deleted)
+== agents' own checks (0 mismatches, reuse n / n)
+check_sample: C. reuse test: 2792 / 2792 identical (C1 khandha names and bare terms 1069/1069, C2 whole lines and answers 18 | mismatches: 0
+check_ch2-02-4-5: C. reuse test: 6900 / 6900 identical (C1 khandha names and bare terms 569/569, C2 whole lines and answers 203/ | mismatches: 0
+check_ch3: C. reuse test: 10059 / 10059 identical (C1 āyatana names and bare words 3647/3647, C2 whole lines and answers  | mismatches: 0
+check_ch6-8: C. reuse test: 5875 / 5875 identical (C2 whole lines and answers 161/161, C3 82 reused terms 5714/5714 line oc | mismatches: 0
+check_ch7a: C. reuse test: 8727 / 8727 identical (C1 anusaya names 5067/5067, C2 whole lines and answers 269/269, C3 33 re | mismatches: 0
+check_ch7b: C. reuse test: 10289 / 10289 identical (C1 anusaya names 5330/5330, C2 whole lines and answers 230/230, C3 43  | mismatches: 0
+check_ch9-10a: C. reuse test: 13286 / 13286 identical (C1 the 22 faculty names 2496/2496, C2 whole lines and answers 715/715, | mismatches: 0
+check_ch10b: C. reuse test: 7654 / 7654 identical (C1 faculty names 2918/2918, C2 whole lines and answers 349/349, C3 34 re | mismatches: 0
+check_ch10c: reuse 8061 / 8061 (C1 faculty names 2836/2836, C2 terms 5167/5167, C3 pi-6 person groups 58/58); 0 documented  | 0 mismatches
+== cross-chapter alignment (pi-1-my/align_check_my.py, align_hidden_my.py)
+repeated Pāli sentences: 659; with differing Burmese: 0; lines compared whole: 38
+uneven lines 38 | unmatched repeated sentences: 0
+align_check: 0 differing, 0 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+== pi-1 … pi-5 identity (harmonise_pi12345.py)
+pi-1 identity: 10 / 10 identical, 0 explained; differing: 0
+pi-2 identity: 14 / 14 identical, 0 explained; differing: 0
+pi-3 identity: 10 / 332 identical, 322 explained; differing: 0
+pi-4 identity: 10 / 10 identical, 0 explained; differing: 0
+pi-5 identity: 2791 / 2791 identical, 0 explained; differing: 0
+== harmonise scan (one form per item; writes harmonise-table.tsv) and lines changed
+49 / 49 items OK
+lines changed: 370 (preamble: 0, 1: 0, 2-01: 0, 2-02: 0, 3-01: 3, 3-02: 0, 3-03: 0, 3-04: 1, 3-05: 1, 3-06: 0, 4: 1, 5-01: 23, 5-02: 16, 5-03: 0, 6-01: 84, 6-02: 111, 7-01: 0, 7-02: 0, 7-03: 0, 7-04: 0, 7-05: 0, 7-06: 0, 7-07: 0, 7-08: 1, 7-09: 0, 7-10: 0, 7-11: 0, 8: 32, 9-01: 0, 9-02: 0, 9-03: 0, 10-01: 25, 10-02: 5, 10-03: 0, 10-04: 0, 10-05: 4, 10-06: 8, 10-07: 4, 10-08: 0, 10-09: 19, 10-10: 15, 10-11: 12, 10-12: 0, 10-13: 5)
+ALL CHECKS PASSED

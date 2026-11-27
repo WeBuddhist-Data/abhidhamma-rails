@@ -1,0 +1,102 @@
+    # ---- REVIEW headwords: a pi-6 value the binding senses do not list, with a meaning of its own ----
+    ('ekamūlakaṃ', [
+        # pi-3 «တစ်မျိုးတွဲကို အခြေခံသော» (Dhātukathā, items one at a time) not attested; eka = the same root here
+        ('based on one root in common (neuter sg.)', ['တူညီသော အမြစ်ကို အခြေခံသော']),
+    ]),
+    ('nāmapaccayā', [
+        # pi-2 sense kept; the hetuvāra predicate «စိတ်ပိုင်း၏ အထောက်အပံ့» (^6-1-99) gives paccaya its own word
+        ("conditioned by mentality (ablative), here the predicate 'having mentality as support', the ninth of the ten "
+         'synonyms for a root in the hetuvāra (nominative pl.)', ['စိတ်ပိုင်း၏ အထောက်အပံ့']),
+    ]),
+    ('anulomaṃ', [
+        # pi-5 debate order «အစဉ်အတိုင်း» not attested; the Yamaka's affirmative form (map-table, sample departure 2)
+        ('the affirmative form of the paired questions, in the headings of each section (heading member)',
+         ['အဟုတ်ပြ ပုံစံ']),
+    ]),
+    ('paccanīkaṃ', [
+        # pi-5 inverted debate order «ပြောင်းပြန်» not attested; the Yamaka's negated form
+        ('the negated form of the paired questions, in the headings of each section (heading member)',
+         ['အငြင်းပြ ပုံစံ']),
+    ]),
+    ('viññāṇañca', [
+        # pi-5 / pi-1 homograph viññāṇañc(āyatana) not attested; here viññāṇaṃ + ca (map-table R1)
+        ('consciousness, knowing, viññāṇaṃ with ca (nominative sg.)', ['သိစိတ်']),
+    ]),
+    ('arūpaṃ', [
+        # pi-5 / pi-2 adjective 'non-material' «ရုပ် မဟုတ်သော» not attested; the plane (map-table rule 11)
+        ('the immaterial plane, existence without material form (accusative sg.)', ['ရုပ်မရှိသော ဘုံ']),
+    ]),
+    ('arūpā', [
+        # pi-2 adjective «ရုပ် မဟုတ်သော» not attested; the ablative of the plane «Arūpā cavantānaṃ» (map-table R5)
+        ("from the immaterial plane, in 'Arūpā cavantānaṃ' (ablative sg.)", ['ရုပ်မရှိသော ဘုံ']),
+    ]),
+    ('cakkaṃ', [
+        # pi-5 / pi-2 wheel «စကြာ / တရားစက်» not attested; the cycle of the Yamaka's cakkavāras
+        ('the cycle, the round of questions repeated with each term (heading member)', ['လှည့်ပတ်ခြင်း']),
+    ]),
+    ('dhātū', [
+        # pi-5 sphere, plane «ဘုံ» not attested; the elements of ch. 4 (^6-4-4 …)
+        ('elements, the eighteen elements of the chapter on elements (nominative pl.)', ['ဓာတ်']),
+    ]),
+    ('rūpadhātuṃ', [
+        # pi-5 sense (element or plane) for the plane of the dhātupucchā (ch. 7); the visible-form element (ch. 4) is new
+        ('the fine-material element or plane (accusative, also heading), here the fine-material plane of the '
+         'questions on the planes (ch. 7)', ['သိမ်မွေ့သော ရုပ်ဘုံ']),
+        ('the visible-form element, the object of the eye, one of the eighteen elements of ch. 4 (accusative sg.)',
+         ['အဆင်းအရောင် ဓာတ်']),
+    ]),
+    ('aññaṃ', [
+        # pi-5 / pi-2 / pi-1 'other, different' «တခြားစီ / အခြား / တခြား» not attested; the faculty word aññā
+        ('final knowledge, the full understanding of aññindriya (nominative/accusative sg.)',
+         ['အပြည့်အဝ သိမြင်ခြင်း']),
+    ]),
+    ('kāyasaṅkhāraṃ', [
+        # pi-5 «ကိုယ်ဖြင့် ပြုပြင်ဖန်တီးမှု» (volition by the body) not attested; the bodily formation = breathing
+        ('the bodily formation, the in-and-out breathing of the chapter on formations (accusative sg.)',
+         ['ကိုယ်၏ ပြုပြင်ဖန်တီးမှု']),
+    ]),
+    ('vacīsaṅkhāraṃ', [
+        # pi-5 «နှုတ်ဖြင့် ပြုပြင်ဖန်တီးမှု» (volition by speech) not attested; the verbal formation = vitakka-vicāra
+        ('the verbal formation, applied and sustained thinking of the chapter on formations (accusative sg.)',
+         ['နှုတ်၏ ပြုပြင်ဖန်တီးမှု']),
+    ]),
+    ('kāmāvacarānaṃ', [
+        # pi-2 sense kept for the adjective of pacchimacitta (^6-6-39 …, map-harmonise §A 2); the beings are new (R5)
+        ("of those belonging to the sense sphere (genitive pl.), here the adjective of pacchimacitta, 'the last mind "
+         "of the sense sphere'", ['ကာမဘုံနှင့် ဆိုင်သော']),
+        ('the beings of the sense-sphere plane, those who live there (genitive pl.)',
+         ['ကာမဘုံ၌ ရှိသူ', 'ကာမဘုံ၌ ရှိသော']),
+    ]),
+    # ---- the plane words: the binding adjective sense, used here for the plane itself (R5) ----
+    ('kāmāvacare', [
+        ("belonging to the sense sphere (locative), here the sense-sphere plane itself, 'in the sense-sphere plane'",
+         ['ကာမဘုံ']),
+    ]),
+    ('rūpāvacare', [
+        ("belonging to the fine-material sphere (locative), here the fine-material plane itself, 'in the "
+         "fine-material plane'", ['သိမ်မွေ့သော ရုပ်ဘုံ']),
+    ]),
+    ('arūpāvacare', [
+        ("belonging to the immaterial sphere (locative), here the immaterial plane itself, 'in the immaterial plane'",
+         ['ရုပ်မရှိသော ဘုံ']),
+    ]),
+    ('rūpāvacaraṃ', [
+        ("belonging to the fine-material sphere (neuter sg.), here the fine-material plane itself, accusative of the "
+         "goal, 'reborn in the fine-material plane'", ['သိမ်မွေ့သော ရုပ်ဘုံ']),
+    ]),
+    ('arūpāvacaraṃ', [
+        ("belonging to the immaterial sphere (neuter sg.), here the immaterial plane itself, accusative of the goal, "
+         "'reborn in the immaterial plane'", ['ရုပ်မရှိသော ဘုံ']),
+    ]),
+    ('kāmāvacaraṃ', [
+        ("belonging to the sense sphere (neuter sg.), here the sense-sphere plane itself, accusative of the goal, "
+         "'reborn in the sense-sphere plane'", ['ကာမဘုံ']),
+    ]),
+    ('kāmāvacarā', [
+        ("belonging to the sense sphere (feminine or pl.), here the sense-sphere plane itself, ablative 'from the "
+         "sense-sphere plane'", ['ကာမဘုံ']),
+    ]),
+    ('rūpāvacarā', [
+        ("belonging to the fine-material sphere (feminine or pl.), here the fine-material plane itself, ablative "
+         "'from the fine-material plane'", ['သိမ်မွေ့သော ရုပ်ဘုံ']),
+    ]),

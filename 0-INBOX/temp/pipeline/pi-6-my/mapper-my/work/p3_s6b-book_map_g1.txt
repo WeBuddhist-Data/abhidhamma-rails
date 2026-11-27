@@ -1,0 +1,12 @@
+2-02-khandhayamaka: lines 156 bad [] presence-fails 0 punct 0 unmapped 0 NDE 5 ruled 73 S1 kept 0 corrected 0
+3-01-ayatanayamaka: lines 93 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 50 S1 kept 6 corrected 0
+3-02-ayatanayamaka: lines 46 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 40 S1 kept 0 corrected 0
+3-03-ayatanayamaka: lines 48 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 33 S1 kept 0 corrected 0
+3-04-ayatanayamaka: lines 65 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 50 S1 kept 5 corrected 0
+3-05-ayatanayamaka: lines 66 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ruled 51 S1 kept 5 corrected 0
+3-06-ayatanayamaka: lines 61 bad [] presence-fails 0 punct 0 unmapped 0 NDE 6 ruled 33 S1 kept 4 corrected 0
+4-dhatuyamaka: lines 50 bad [] presence-fails 0 punct 0 unmapped 0 NDE 2 ruled 7 S1 kept 30 corrected 0
+5-01-saccayamaka: lines 155 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 28 S1 kept 5 corrected 1
+5-02-saccayamaka: lines 113 bad [] presence-fails 0 punct 0 unmapped 0 NDE 3 ruled 42 S1 kept 9 corrected 0
+5-03-saccayamaka: lines 27 bad [] presence-fails 0 punct 0 unmapped 0 NDE 5 ruled 12 S1 kept 2 corrected 0
+TOTAL {'lines': 880, 'nne': 30, 'fails': 0, 'punct': 0, 'bad': 0, 'unmapped': 0, 'kept': 66, 'corr': 1}

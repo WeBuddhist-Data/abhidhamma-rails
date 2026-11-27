@@ -1,0 +1,250 @@
+# pi-6 Burmese zero-shot: formulas and key terms (Pāli = Burmese)
+
+Written by `make_sample.py --terms` from `my6_formulas.py` (import the module; do not retype). «(pi-N ^id)» = the FINAL rails segment the value was read from / checked against at import; NEW = proposed in this sample; PROPOSED = for the later chapters, not used in the sample. Binding style: `0-INBOX/temp/pipeline/burmese-style.md`.
+
+## 1. Book title and frame
+- Yamakapāḷi (book title, Burmese only) = အတွဲလိုက် မေးဖြေခြင်း (NEW: "question and answer in pairs")
+- Namo tassa bhagavato arahato sammāsambuddhassa = ထိုမြတ်စွာဘုရား၊ ရဟန္တာ၊ အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်အား ရှိခိုးပါ၏ (pi-1 ^T-1) (no «။», as in every preamble; also the last line of ch. 1)
+- Abhidhammapiṭake = အဘိဓမ္မာပိဋကတွင် (pi-1 ^0)
+- Xyamakaṃ (chapter) = «Xများကို အတွဲလိုက် မေးဖြေခြင်း» -> Mūlayamakaṃ = အမြစ်များကို အတွဲလိုက် မေးဖြေခြင်း; Khandhayamakaṃ = အစုအဝေးများကို အတွဲလိုက် မေးဖြေခြင်း; Āyatanayamakaṃ = အာရုံခံ နယ်ပယ်များကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Dhātuyamakaṃ = ဓာတ်များကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Saccayamakaṃ = သစ္စာများကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Saṅkhārayamakaṃ = ပြုပြင်ဖန်တီးမှုများကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Anusayayamakaṃ = ကိန်းအောင်းခြင်းများကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Cittayamakaṃ = စိတ်ကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Dhammayamakaṃ = သဘောတရားများကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED); Indriyayamakaṃ = စွမ်းရည်များကို အတွဲလိုက် မေးဖြေခြင်း (PROPOSED)
+- Mūlayamakapāḷi niṭṭhitā. = “အမြစ်များကို အတွဲလိုက် မေးဖြေခြင်း” ပြီးဆုံးပြီ။; X niṭṭhito / niṭṭhitā / niṭṭhitaṃ. = «“X” ပြီးဆုံးပြီ။» (pi-2 ^2-153)
+
+## 2. Headings (vāra, naya, uddesa / niddesa) and colophons
+- uddeso = အကျဉ်း ဖော်ပြချက် (pi-1 ^1-2-1-0); niddeso = အကျယ် ဖော်ပြချက် (pi-1 ^1-2-3-1-0); -vāro = «Xအလိုက် ဖော်ပြချက်» or «X ဖော်ပြချက်» (pi-2 ^2-15-1-2-0); -nayo = «X ခွဲနည်း» (pi-3 ^3-1-1-0); -ādi = «X စသည်» (pi-3 ^3-15-1-1-0)
+- labels: (Ka) = (က); (Kha) = (ခ); (Ga) = (ဂ); (Gha) = (ဃ); (Ṅa) = (င); (Ca) = (စ); (Cha) = (ဆ); (Ja) = (ဇ) … (pi-1 ^1-M1-1)
+- uddeso = အကျဉ်း ဖော်ပြချက်
+- niddeso = အကျယ် ဖော်ပြချက်
+- Mūlavāro = အမြစ်အလိုက် ဖော်ပြချက်
+- 2-10. Hetuvārādi = 2-10. အကြောင်းအလိုက် ဖော်ပြချက် စသည်
+- Paṇṇattivāro = သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်
+- Padasodhanavāro = စကားလုံးကို စိစစ်ခြင်း ဖော်ပြချက်
+- Padasodhanamūlacakkavāro = စကားလုံးကို စိစစ်ခြင်းကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်
+- Suddhakhandhavāro = ရိုးရိုး အစုအဝေး ဖော်ပြချက်
+- Suddhakhandhamūlacakkavāro = ရိုးရိုး အစုအဝေးကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်
+- Paṇṇattivāraniddesa = သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်
+- anulomaṃ = အဟုတ်ပြ ပုံစံ
+- paccanīkaṃ = အငြင်းပြ ပုံစံ
+- Pavattivāro 1. uppādavāro = ဖြစ်ပျက်ခြင်းအလိုက် ဖော်ပြချက် 1. ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်
+- Pavatti 2. nirodhavāro = ဖြစ်ပျက်ခြင်း 2. ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်
+- Paccuppannavāro = ပစ္စုပ္ပန်အလိုက် ဖော်ပြချက်
+- Atītavāro = အတိတ်အလိုက် ဖော်ပြချက်
+- Anāgatavāro = အနာဂတ်အလိုက် ဖော်ပြချက်
+- Paccuppannātītavāro = ပစ္စုပ္ပန်နှင့် အတိတ်အလိုက် ဖော်ပြချက်
+- Paccuppannānāgatavāro = ပစ္စုပ္ပန်နှင့် အနာဂတ်အလိုက် ဖော်ပြချက်
+- Atītānāgatavāro = အတိတ်နှင့် အနာဂတ်အလိုက် ဖော်ပြချက်
+- anulomapuggalo = ပုဂ္ဂိုလ်အလိုက် အဟုတ်ပြ ပုံစံ
+- anulomaokāso = နေရာအလိုက် အဟုတ်ပြ ပုံစံ
+- anulomapuggalokāsā = ပုဂ္ဂိုလ်နှင့် နေရာအလိုက် အဟုတ်ပြ ပုံစံ
+- paccanīkapuggalo = ပုဂ္ဂိုလ်အလိုက် အငြင်းပြ ပုံစံ
+- paccanīkaokāso = နေရာအလိုက် အငြင်းပြ ပုံစံ
+- paccanīkapuggalokāsā = ပုဂ္ဂိုလ်နှင့် နေရာအလိုက် အငြင်းပြ ပုံစံ
+- Mūlanayo = အမြစ် ခွဲနည်း
+- Mūlamūlanayo = အမြစ်၏ အမြစ် ခွဲနည်း
+- Mūlakanayo = အမြစ်ကို အခြေခံခြင်း ခွဲနည်း
+- Mūlamūlakanayo = အမြစ်၏ အမြစ်ကို အခြေခံခြင်း ခွဲနည်း
+- Kusalā dhammā = ကုသိုလ် သဘောတရားများ
+- Akusalā dhammā = အကုသိုလ် သဘောတရားများ
+- Abyākatā dhammā = ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရားများ
+- Nāmā dhammā = စိတ်ပိုင်း သဘောတရားများ
+- Abhidhammapiṭake = အဘိဓမ္မာပိဋကတွင်
+- Yamakapāḷi = အတွဲလိုက် မေးဖြေခြင်း
+- Mūlavārauddeso. = အမြစ်အလိုက် ဖော်ပြချက်၏ အကျဉ်း ဖော်ပြချက်။
+- Uddesavāro niṭṭhito. = “အကျဉ်း ဖော်ပြချက်” ပြီးဆုံးပြီ။
+- Mūlavāraniddeso. = အမြစ်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်။
+- Niddesavāro niṭṭhito. = “အကျယ် ဖော်ပြချက်” ပြီးဆုံးပြီ။
+- Paṇṇattiuddesavāro. = သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျဉ်း ဖော်ပြချက်။
+- Paṇṇattiniddesavāro. = သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်။
+- Uppādavāro niṭṭhito. = “ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်” ပြီးဆုံးပြီ။
+- Namo tassa bhagavato arahato sammāsambuddhassa = ထိုမြတ်စွာဘုရား၊ ရဟန္တာ၊ အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်အား ရှိခိုးပါ၏
+
+## 3. Answers, particles, variants
+- Āmantā. = ဟုတ်ပါသည်။ (pi-5 ^5-1); Natthi. = မရှိပါ။ (pi-5 ^5-355) (there is no such person / case); No. = မဟုတ်ပါ။ (PROPOSED)
+- …pe… / …Pe… = … (one «…»); questions end in «လော။» (no «?»); statements in «။»
+- vā pana ((Kha) questions) = တစ်ဖန်; no ca / na ca = သို့သော်; sabbe te = ထိုအားလုံးတို့သည်; ye keci = «… မည်သည်တို့မဆို» (pi-5 ^5-334) (pattern adapted: «မည်သူမဆို» for persons, «မည်သည်တို့မဆို» for phenomena)
+- variant: [reading (sī. syā.)] = [ပါဌ်ကွဲ (Sī., Syā.): reading]; spelling only [စာလုံးပေါင်းကွဲ (…): …]; evamuparipi = နောက်တွင်လည်း ဤနည်းတူ (pi-2 ^2-718)
+
+## 4. Pavattivāra: verbs in every tense and polarity (my_verb(root, tense, neg, form))
+- uppajjati = stmt ဖြစ်ပေါ်သည် / clause ဖြစ်ပေါ်၏ / question ဖြစ်ပေါ်သလော; nuppajjati = မဖြစ်ပေါ် / မဖြစ်ပေါ် / မဖြစ်ပေါ်သလော; no ca … nuppajjati = မဖြစ်ပေါ်သည်ကား မဟုတ်
+- uppajjittha = stmt ဖြစ်ပေါ်ခဲ့သည် / clause ဖြစ်ပေါ်ခဲ့၏ / question ဖြစ်ပေါ်ခဲ့သလော; nuppajjittha = မဖြစ်ပေါ်ခဲ့ / မဖြစ်ပေါ်ခဲ့ / မဖြစ်ပေါ်ခဲ့သလော; no ca … nuppajjittha = မဖြစ်ပေါ်ခဲ့သည်ကား မဟုတ်
+- uppajjissati = stmt ဖြစ်ပေါ်လိမ့်မည် / clause ဖြစ်ပေါ်လိမ့်မည် / question ဖြစ်ပေါ်လိမ့်မည်လော; nuppajjissati = မဖြစ်ပေါ်လိမ့်မည် / မဖြစ်ပေါ်လိမ့်မည် / မဖြစ်ပေါ်လိမ့်မည်လော; no ca … nuppajjissati = မဖြစ်ပေါ်လိမ့်မည်ကား မဟုတ်
+- nirujjhati = stmt ချုပ်ငြိမ်းသည် / clause ချုပ်ငြိမ်း၏ / question ချုပ်ငြိမ်းသလော; na nirujjhati = မချုပ်ငြိမ်း / မချုပ်ငြိမ်း / မချုပ်ငြိမ်းသလော; no ca … na nirujjhati = မချုပ်ငြိမ်းသည်ကား မဟုတ်
+- nirujjhittha = stmt ချုပ်ငြိမ်းခဲ့သည် / clause ချုပ်ငြိမ်းခဲ့၏ / question ချုပ်ငြိမ်းခဲ့သလော; na nirujjhittha = မချုပ်ငြိမ်းခဲ့ / မချုပ်ငြိမ်းခဲ့ / မချုပ်ငြိမ်းခဲ့သလော; no ca … na nirujjhittha = မချုပ်ငြိမ်းခဲ့သည်ကား မဟုတ်
+- nirujjhissati = stmt ချုပ်ငြိမ်းလိမ့်မည် / clause ချုပ်ငြိမ်းလိမ့်မည် / question ချုပ်ငြိမ်းလိမ့်မည်လော; na nirujjhissati = မချုပ်ငြိမ်းလိမ့်မည် / မချုပ်ငြိမ်းလိမ့်မည် / မချုပ်ငြိမ်းလိမ့်မည်လော; no ca … na nirujjhissati = မချုပ်ငြိမ်းလိမ့်မည်ကား မဟုတ်
+- uppajjati (pi-2 ^2-203), nirujjhati (pi-2 ^2-204); nirujjhattha (slip, ^6-2-111) read as nirujjhittha
+
+## 5. Pavattivāra: question and answer frames
+- yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjatīti? = အကြင်သူအား ရုပ် အစုအဝေး ဖြစ်ပေါ်၏၊ ထိုသူအား ခံစားမှု အစုအဝေး ဖြစ်ပေါ်သလော။
+- yassa vā pana vedanākkhandho uppajjati tassa rūpakkhandho uppajjatīti? = တစ်ဖန် အကြင်သူအား ခံစားမှု အစုအဝေး ဖြစ်ပေါ်၏၊ ထိုသူအား ရုပ် အစုအဝေး ဖြစ်ပေါ်သလော။
+- yattha rūpakkhandho uppajjittha tattha vedanākkhandho uppajjitthāti? = အကြင်နေရာ၌ ရုပ် အစုအဝေး ဖြစ်ပေါ်ခဲ့၏၊ ထိုနေရာ၌ ခံစားမှု အစုအဝေး ဖြစ်ပေါ်ခဲ့သလော။
+- yattha vā pana vedanākkhandho nuppajjissati tattha rūpakkhandho nuppajjissatīti? = တစ်ဖန် အကြင်နေရာ၌ ခံစားမှု အစုအဝေး မဖြစ်ပေါ်လိမ့်မည်၊ ထိုနေရာ၌ ရုပ် အစုအဝေး မဖြစ်ပေါ်လိမ့်မည်လော။
+- yassa yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhatīti? = အကြင်သူအား အကြင်နေရာ၌ ရုပ် အစုအဝေး ချုပ်ငြိမ်း၏၊ ထိုသူအား ထိုနေရာ၌ ခံစားမှု အစုအဝေး ချုပ်ငြိမ်းသလော။
+- yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho na nirujjhitthāti? = တစ်ဖန် အကြင်သူအား အကြင်နေရာ၌ ခံစားမှု အစုအဝေး မချုပ်ငြိမ်းခဲ့၊ ထိုသူအား ထိုနေရာ၌ ရုပ် အစုအဝေး မချုပ်ငြိမ်းခဲ့သလော။
+- Asaññasattaṃ upapajjantānaṃ tesaṃ X uppajjati, no ca tesaṃ Y uppajjati. = အသညသတ် ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား ရုပ် အစုအဝေး ဖြစ်ပေါ်သည်၊ သို့သော် ထိုသူတို့အား ခံစားမှု အစုအဝေး မဖြစ်ပေါ်။
+- … X nuppajjati, no ca tesaṃ Y nuppajjati. (double negative) = ရုပ်မရှိသော ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား ရုပ် အစုအဝေး မဖြစ်ပေါ်၊ သို့သော် ထိုသူတို့အား ခံစားမှု အစုအဝေး မဖြစ်ပေါ်သည်ကား မဟုတ်။
+- … tesaṃ X ca uppajjati Y ca uppajjittha. = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား ရုပ် အစုအဝေးလည်း ဖြစ်ပေါ်သည်၊ ခံစားမှု အစုအဝေးလည်း ဖြစ်ပေါ်ခဲ့သည်။
+- Asaññasatte tattha X uppajjati, no ca tattha Y uppajjati. = အသညသတ် ဘုံ၌ ရုပ် အစုအဝေး ဖြစ်ပေါ်သည်၊ သို့သော် ထိုနေရာ၌ ခံစားမှု အစုအဝေး မဖြစ်ပေါ်။
+- tesaṃ / tesaṃ tattha / tattha (second clause) = ထိုသူတို့အား / ထိုသူတို့အား ထိုနေရာ၌ / ထိုနေရာ၌
+- Uppajjati. / Uppajjittha. / Uppajjissati. / Nirujjhati. (short answer) = ဖြစ်ပေါ်သည်။ / ဖြစ်ပေါ်ခဲ့သည်။ / ဖြစ်ပေါ်လိမ့်မည်။ / ချုပ်ငြိမ်းသည်။
+
+## 6. Person and place types (… tesaṃ = «…အား»; bare place + tattha = «…၌»)
+- asaññasatta = အသညသတ် ဘုံ
+- pañcavokāra = အစုအဝေး ငါးပါး ရှိသော ဘဝ
+- catuvokāra = အစုအဝေး လေးပါး ရှိသော ဘဝ
+- ekavokāra = အစုအဝေး တစ်ပါး ရှိသော ဘဝ
+- arūpa = ရုပ်မရှိသော ဘုံ
+- suddhāvāsa = သုဒ္ဓါဝါသ ဘုံ
+- asaññasatta (being) = အသညသတ်
+- Asaññasattaṃ upapajjantānaṃ (tesaṃ) = အသညသတ် ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Pañcavokāraṃ upapajjantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Catuvokāraṃ pañcavokāraṃ upapajjantānaṃ (tesaṃ) = အစုအဝေး လေးပါး ရှိသော ဘဝနှင့် အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Arūpaṃ upapajjantānaṃ (tesaṃ) = ရုပ်မရှိသော ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Suddhāvāsaṃ upapajjantānaṃ (tesaṃ) = သုဒ္ဓါဝါသ ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Sabbesaṃ upapajjantānaṃ (tesaṃ) = ပြန်လည် ဖြစ်ပေါ်ဆဲသူ အားလုံးတို့အား
+- Sabbesaṃ cavantānaṃ (tesaṃ) = စုတေဆဲသူ အားလုံးတို့အား
+- Asaññasattā cavantānaṃ (tesaṃ) = အသညသတ် ဘုံမှ စုတေဆဲသူတို့အား
+- Pañcavokārā cavantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝမှ စုတေဆဲသူတို့အား
+- Catuvokārā pañcavokārā cavantānaṃ (tesaṃ) = အစုအဝေး လေးပါး ရှိသော ဘဝနှင့် အစုအဝေး ငါးပါး ရှိသော ဘဝမှ စုတေဆဲသူတို့အား
+- Arūpā cavantānaṃ (tesaṃ) = ရုပ်မရှိသော ဘုံမှ စုတေဆဲသူတို့အား
+- Parinibbantānaṃ (tesaṃ) = ပရိနိဗ္ဗာန် ပြုဆဲသူတို့အား
+- Pañcavokāre parinibbantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပရိနိဗ္ဗာန် ပြုဆဲသူတို့အား
+- Suddhāvāse parinibbantānaṃ (tesaṃ) = သုဒ္ဓါဝါသ ဘုံ၌ ပရိနိဗ္ဗာန် ပြုဆဲသူတို့အား
+- Pacchimabhavikānaṃ (tesaṃ) = နောက်ဆုံး ဘဝ ရှိသူတို့အား
+- Pacchimabhavikānaṃ upapajjantānaṃ (tesaṃ) = ပြန်လည် ဖြစ်ပေါ်ဆဲ နောက်ဆုံး ဘဝ ရှိသူတို့အား
+- Pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲ နောက်ဆုံး ဘဝ ရှိသူတို့အား
+- Pañcavokāre pacchimabhavikānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ နောက်ဆုံး ဘဝ ရှိသူတို့အား
+- arūpe pacchimabhavikānaṃ (tesaṃ) = ရုပ်မရှိသော ဘုံ၌ နောက်ဆုံး ဘဝ ရှိသူတို့အား
+- Asaññasattānaṃ (tesaṃ) = အသညသတ်တို့အား
+- Pañcavokārānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသူတို့အား
+- catuvokārānaṃ pañcavokārānaṃ (tesaṃ) = အစုအဝေး လေးပါး ရှိသော ဘဝနှင့် အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသူတို့အား
+- Arūpānaṃ (tesaṃ) = ရုပ်မရှိသော ဘုံ၌ ရှိသူတို့အား
+- Suddhāvāsānaṃ (tesaṃ) = သုဒ္ဓါဝါသ ဘုံ၌ ရှိသူတို့အား
+- Itaresaṃ (tesaṃ) = အခြားသူတို့အား
+- Itaresaṃ pañcavokāraṃ upapajjantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲ အခြားသူတို့အား
+- Itaresaṃ catuvokārānaṃ pañcavokārānaṃ (tesaṃ) = အစုအဝေး လေးပါး ရှိသော ဘဝနှင့် အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသော အခြားသူတို့အား
+- Itaresaṃ pañcavokārānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသော အခြားသူတို့အား
+- Ye arūpaṃ upapajjitvā parinibbāyissanti (tesaṃ) = ရုပ်မရှိသော ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ပြီး ပရိနိဗ္ဗာန် ပြုမည့်သူတို့အား
+- Sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ (tesaṃ) = စုတေဆဲသူ အားလုံးတို့နှင့် ရုပ်မရှိသော ဘုံ၌ ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့အား
+- Pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ asaññasattā cavantānaṃ (tesaṃ) = အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ပရိနိဗ္ဗာန် ပြုဆဲသူတို့၊ ရုပ်မရှိသော ဘုံ၌ နောက်ဆုံး ဘဝ ရှိသူတို့နှင့် အသညသတ် ဘုံမှ စုတေဆဲသူတို့အား
+- participles: upapajjantānaṃ (pi-2 ^2-1017) / cavantānaṃ (pi-2 ^2-1029) / parinibbantānaṃ (pi-4 ^4-M-7) = «… ဆဲ» (pi-4 cavamāne «သေဆဲ»); pacchimabhavika = နောက်ဆုံး ဘဝ ရှိသူ (NEW); itara = အခြားသူတို့ (NEW); suddhāvāsa = သုဒ္ဓါဝါသ ဘုံ (NEW, name kept)
+
+## 7. Ch. 1 Mūlayamaka: bases, root predicates, frames
+- kusala: before «သဘောတရား» ကုသိုလ်; before a root ကုသိုလ်၏; as a noun ကုသိုလ်
+- akusala: before «သဘောတရား» အကုသိုလ်; before a root အကုသိုလ်၏; as a noun အကုသိုလ်
+- abyākata: before «သဘောတရား» ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော; before a root ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော; as a noun ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရား
+- nāma: before «သဘောတရား» စိတ်ပိုင်း; before a root စိတ်ပိုင်း၏; as a noun စိတ်ပိုင်း
+- kusalamūlā = question ကုသိုလ်၏ အမြစ်များ ဖြစ်ကြသလော / statement ကုသိုလ်၏ အမြစ်များ ဖြစ်ကြသည် / na … ကုသိုလ်၏ အမြစ်များ မဟုတ်ကြ / relative ကုသိုလ်၏ အမြစ်များ ဖြစ်ကြသော
+- kusalamūlena ekamūlā = question ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် ရှိကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် ရှိကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် မရှိကြ / relative ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် ရှိကြသော
+- kusalamūlena aññamaññamūlā = question ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ် ဖြစ်ကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ် ဖြစ်ကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ် မဟုတ်ကြ / relative ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ် ဖြစ်ကြသော
+- kusalamūlamūlā = question ကုသိုလ်၏ အမြစ်၏ အမြစ်များ ဖြစ်ကြသလော / statement ကုသိုလ်၏ အမြစ်၏ အမြစ်များ ဖြစ်ကြသည် / na … ကုသိုလ်၏ အမြစ်၏ အမြစ်များ မဟုတ်ကြ / relative ကုသိုလ်၏ အမြစ်၏ အမြစ်များ ဖြစ်ကြသော
+- kusalamūlena ekamūlamūlā = question ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ် ရှိကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ် ရှိကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ် မရှိကြ / relative ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ် ရှိကြသော
+- kusalamūlena aññamaññamūlamūlā = question ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ် ဖြစ်ကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ် ဖြစ်ကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ် မဟုတ်ကြ / relative ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ် ဖြစ်ကြသော
+- kusalamūlakā = question ကုသိုလ်၏ အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်ကို အခြေခံကြသော
+- kusalamūlena ekamūlakā = question ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်ကို အခြေခံကြသော
+- kusalamūlena aññamaññamūlakā = question ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်ကို အခြေခံကြသော
+- kusalamūlamūlakā = question ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံကြသော
+- kusalamūlena ekamūlamūlakā = question ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံကြသော
+- kusalamūlena aññamaññamūlamūlakā = question ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံကြသလော / statement ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံကြသည် / na … ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ်ကို မအခြေခံကြ / relative ကုသိုလ်၏ အမြစ်နှင့် အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံကြသော
+- kusalamūla (pi-1 ^1-32); akusalamūla (pi-1 ^1-389); mūlamūla = အမြစ်၏ အမြစ် (NEW); eka- = တူညီသော (NEW); aññamañña = အချင်းချင်း (pi-1 ^1-1083); -mūlaka = «…ကို အခြေခံ» (NEW)
+- (Ka) ye keci kusalā dhammā, sabbe te kusalamūlā? = (က) ကုသိုလ် သဘောတရား မည်သည်တို့မဆို၊ ထိုအားလုံးတို့သည် ကုသိုလ်၏ အမြစ်များ ဖြစ်ကြသလော။
+- (Kha) ye vā pana kusalamūlā, sabbe te dhammā kusalā? = (ခ) တစ်ဖန် ကုသိုလ်၏ အမြစ်များ ဖြစ်ကြသော အရာ မည်သည်တို့မဆို၊ ထိုအားလုံးတို့သည် ကုသိုလ် သဘောတရားများ ဖြစ်ကြသလော။
+- Tīṇeva kusalamūlāni. = ကုသိုလ်၏ အမြစ် သုံးပါးသာ ရှိသည်။
+- Naveva nāmamūlāni. = စိတ်ပိုင်း၏ အမြစ် ကိုးပါးသာ ရှိသည်။
+- Avasesā kusalā dhammā na kusalamūlā. = ကြွင်းကျန်သော ကုသိုလ် သဘောတရားများသည် ကုသိုလ်၏ အမြစ်များ မဟုတ်ကြ။
+- Kusalasamuṭṭhānaṃ rūpaṃ kusalamūlena ekamūlaṃ, na kusalaṃ. = ကုသိုလ်မှ ဖြစ်ပေါ်လာသော ရုပ်သည် ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် ရှိသည်၊ ကုသိုလ် မဟုတ်။
+- Kusalaṃ kusalamūlena ekamūlañceva kusalañca. = ကုသိုလ်သည် ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ်လည်း ရှိ၊ ကုသိုလ်လည်း ဖြစ်သည်။
+- Mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlāni ceva aññamaññamūlāni ca. = တစ်ပြိုင်နက် ဖြစ်ပေါ်ကြသော အမြစ်များ ဖြစ်သည့် ကုသိုလ်၏ အမြစ်များသည် တူညီသော အမြစ်လည်း ရှိကြ၊ အချင်းချင်း အမြစ်လည်း ဖြစ်ကြသည်။
+- Avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlā, na ca aññamaññamūlā. = ကြွင်းကျန်သော ကုသိုလ်၏ အမြစ်နှင့်အတူ ပေါ်ပေါက်သော သဘောတရားများသည် ကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် ရှိကြသည်၊ သို့သော် အချင်းချင်း အမြစ် မဟုတ်ကြ။
+- Ahetukaṃ akusalaṃ akusalamūlena na ekamūlaṃ. = အမြစ် မရှိသော အကုသိုလ်သည် အကုသိုလ်၏ အမြစ်နှင့် တူညီသော အမြစ် မရှိ။
+- Sahetukaṃ abyākataṃ abyākatamūlakaṃ. = အမြစ် ရှိသော၊ ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရားသည် ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော အမြစ်ကို အခြေခံသည်။
+- ahetuka / sahetuka = အမြစ် မရှိသော / အမြစ် ရှိသော (pi-1 ^1-M2-2); -samuṭṭhānaṃ rūpaṃ = «Xမှ ဖြစ်ပေါ်လာသော ရုပ်» (pi-1 ^1-M2-60); -sahajāta = «Xနှင့်အတူ ပေါ်ပေါက်သော» (pi-5 ^5-473); ekato = တစ်ပြိုင်နက် (pi-1 ^1-1447); avasesā = ကြွင်းကျန်သော (pi-2 ^2-796)
+- hetuvāra synonym list (each Pāli word its own Burmese): mūla = အမြစ်; hetu = အကြောင်း; nidāna = ဇာစ်မြစ်; sambhava = ဖြစ်တည်ရာ; pabhava = ပေါ်ထွက်ရာ; samuṭṭhāna = ဖြစ်ပေါ်လာရာ; āhāra = အာဟာရ; ārammaṇa = အာရုံ; paccaya = အထောက်အပံ့; samudaya = ဖြစ်ပေါ်ခြင်း
+- Mūlaṃ hetu nidānañca, sambhavo pabhavena ca; = အမြစ်၊ အကြောင်းနှင့် ဇာစ်မြစ်၊ ဖြစ်တည်ရာနှင့် ပေါ်ထွက်ရာ၊
+- Samuṭṭhānāhārārammaṇā, paccayo samudayena cāti. = ဖြစ်ပေါ်လာရာ၊ အာဟာရ၊ အာရုံ၊ အထောက်အပံ့နှင့် ဖြစ်ပေါ်ခြင်း။
+
+## 8. Ch. 2 Khandhayamaka: terms and paṇṇattivāra frames
+- Pañcakkhandhā = အစုအဝေး ငါးပါး; rūpakkhandho = ရုပ် အစုအဝေး; vedanākkhandho = ခံစားမှု အစုအဝေး; saññākkhandho = မှတ်သိမှု အစုအဝေး; saṅkhārakkhandho = ပြုပြင်ဖန်တီးမှု အစုအဝေး; viññāṇakkhandho = သိစိတ် အစုအဝေး (pi-2 ^2-1)
+- bare terms: rūpaṃ = ရုပ်; vedanā = ခံစားမှု; saññā = မှတ်သိမှု; saṅkhārā = ပြုပြင်ဖန်တီးမှုများ; viññāṇaṃ = သိစိတ်; khandho = အစုအဝေး; khandhā = အစုအဝေးတို့ (pi-1 ^1-1044)
+- Piyarūpaṃ sātarūpaṃ = ချစ်ဖွယ် သဘော ရှိသော၊ နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော အရာ (pi-2 ^2-203); Diṭṭhisaññā = အယူ ဖြစ်သော မှတ်သိမှု (NEW)
+- ṭhapetvā = ချန်ထား၍ (pi-2 ^2-796)
+- (Ka) rūpaṃ rūpakkhandho? = (က) ရုပ်သည် ရုပ် အစုအဝေး ဖြစ်သလော။
+- (Kha) khandhā vedanākkhandho? = (ခ) အစုအဝေးတို့သည် ခံစားမှု အစုအဝေး ဖြစ်ကြသလော။
+- (Ka) na rūpaṃ na rūpakkhandho? = (က) ရုပ် မဟုတ်သော အရာသည် ရုပ် အစုအဝေး မဟုတ်သလော။
+- Piyarūpaṃ sātarūpaṃ rūpaṃ, na rūpakkhandho. = ချစ်ဖွယ် သဘော ရှိသော၊ နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော အရာသည် ရုပ် ဖြစ်သည်၊ ရုပ် အစုအဝေး မဟုတ်။
+- Rūpakkhandho rūpañceva rūpakkhandho ca. = ရုပ် အစုအဝေးသည် ရုပ်လည်း ဖြစ်၊ ရုပ် အစုအဝေးလည်း ဖြစ်သည်။
+- Saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā, na saṅkhārakkhandho. = ပြုပြင်ဖန်တီးမှု အစုအဝေးကို ချန်ထား၍၊ ကြွင်းကျန်သော အရာများသည် ပြုပြင်ဖန်တီးမှုများ ဖြစ်ကြသည်၊ ပြုပြင်ဖန်တီးမှု အစုအဝေး မဟုတ်ကြ။
+- Avasesā khandhā na vedanākkhandho. = ကြွင်းကျန်သော အစုအဝေးတို့သည် ခံစားမှု အစုအဝေး မဟုတ်ကြ။
+- Piyarūpaṃ sātarūpaṃ na rūpakkhandho, rūpaṃ. = ချစ်ဖွယ် သဘော ရှိသော၊ နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော အရာသည် ရုပ် အစုအဝေး မဟုတ်၊ ရုပ် ဖြစ်သည်။
+- Rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ, khandhā. = ရုပ်ကို ချန်ထား၍၊ ကြွင်းကျန်သော အစုအဝေးတို့သည် ရုပ် မဟုတ်ကြ၊ အစုအဝေးတို့ ဖြစ်ကြသည်။
+- Rūpañca rūpakkhandhañca ṭhapetvā avasesā na ceva rūpaṃ na ca rūpakkhandho. = ရုပ်နှင့် ရုပ် အစုအဝေးကို ချန်ထား၍၊ ကြွင်းကျန်သော အရာများသည် ရုပ်လည်း မဟုတ်၊ ရုပ် အစုအဝေးလည်း မဟုတ်။
+
+## 9. All values read from pi-1 … pi-5 FINAL at import (WITNESS)
+- (Gha) = (ဃ) (pi-2 ^2-793)
+- (Ka) = (က) ကုသိုလ် သဘောတရားများ (pi-1 ^1-M1-1)
+- -anta / -amāna (participle «…ဆဲ») = သေဆဲ၊ ဖြစ်ပေါ်ဆဲ (pi-4 ^4-184)
+- -ādi = စသည် (pi-3 ^3-15-1-1-0)
+- Abhidhammapiṭake = အဘိဓမ္မာပိဋကတွင် (pi-1 ^0)
+- Asaññasattā = အသညသတ် (pi-2 ^2-18-4-3-0)
+- Namo tassa bhagavato arahato sammāsambuddhassa = ထိုမြတ်စွာဘုရား၊ ရဟန္တာ၊ အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်အား ရှိခိုးပါ၏ (pi-1 ^T-1)
+- Natthi. = မရှိပါ။ (pi-5 ^5-355)
+- Pañcakkhandhā = အစုအဝေး ငါးပါး (pi-2 ^2-1)
+- Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. = အစုအဝေး ငါးပါး – ရုပ် အစုအဝေး၊ ခံစားမှု အစုအဝေး၊ မှတ်သိမှု အစုအဝေး၊ ပြုပြင်ဖန်တီးမှု အစုအဝေး၊ သိစိတ် အစုအဝေး။ (pi-2 ^2-1)
+- Uddeso = အကျဉ်း ဖော်ပြချက် (pi-1 ^1-2-1-0)
+- X niṭṭhito. = “အစုအဝေးများကို ခွဲခြမ်းစိတ်ဖြာခြင်း” ပြီးဆုံးပြီ။ (pi-2 ^2-153)
+- Xvāro = သစ္စာအလိုက် ဖော်ပြချက် (pi-2 ^2-15-1-2-0)
+- abyākatā dhammā = ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော (pi-1 ^1-M1-1)
+- ahetukā dhammā = အမြစ် မရှိသော (pi-1 ^1-M2-2)
+- akusalamūla = အကုသိုလ်၏ အမြစ် (pi-1 ^1-389)
+- akusalā dhammā = အကုသိုလ် သဘောတရားများ (pi-1 ^1-M1-1)
+- anusaya = ကိန်းအောင်းခြင်း (pi-1 ^1-1065)
+- anāgata = အနာဂတ် (pi-1 ^1-M1-18)
+- arūpabhavo = ရုပ်မရှိသော ဘုံ (pi-2 ^2-234)
+- atīta = အတိတ် (pi-1 ^1-M1-18)
+- avasesā paññā = ကြွင်းကျန်သော (pi-2 ^2-796)
+- aññamañña = အချင်းချင်း (pi-1 ^1-1083)
+- catuvokārabhavo = အစုအဝေး လေးပါး ရှိသော ဘဝ (pi-2 ^2-234)
+- cavanti = စုတေ (pi-2 ^2-1029)
+- citta = စိတ် (pi-1 ^1-6)
+- dhātu = ဓာတ် (pi-1 ^1-M2-121)
+- diṭṭhi = အယူ (pi-1 ^1-M2-111)
+- ekato = တစ်ပြိုင်နက် (pi-1 ^1-1447)
+- ekavokārabhavo = အစုအဝေး တစ်ပါး ရှိသော ဘဝ (pi-2 ^2-234)
+- evamuparipi = နောက်တွင်လည်း ဤနည်းတူ (pi-2 ^2-718)
+- indriya = စွမ်းရည် (pi-1 ^1-1)
+- khandhā = အစုအဝေးတို့ (pi-5 ^5-212)
+- kusalamūla = ကုသိုလ်၏ အမြစ် (pi-1 ^1-32)
+- naya = ခွဲနည်း (pi-3 ^3-1-1-0)
+- niddeso = အကျယ် ဖော်ပြချက် (pi-1 ^1-2-3-1-0)
+- nirodha = ချုပ်ငြိမ်းခြင်း (pi-1 ^1-1063)
+- nirujjhati = ချုပ်ငြိမ်းလျှင် ချုပ်ငြိမ်းသည် (pi-2 ^2-204)
+- nāma = စိတ်ပိုင်း (pi-1 ^1-M2-109)
+- okāsa = နေရာ (pi-4 ^4-M-11)
+- paccaya = အထောက်အပံ့ (pi-1 ^1-1344)
+- paccuppanna = ပစ္စုပ္ပန် (pi-1 ^1-M1-18)
+- parinibbāyī = ပရိနိဗ္ဗာန် ပြု (pi-4 ^4-M-7)
+- pañcavokārabhavo = အစုအဝေး ငါးပါး ရှိသော ဘဝ (pi-2 ^2-234)
+- paṇṇatti = သတ်မှတ်ချက် (pi-1 ^1-M2-108)
+- piyarūpaṃ sātarūpaṃ = ချစ်ဖွယ် သဘော ရှိသော၊ နှစ်သက်ဖွယ်ကောင်းသော သဘော ရှိသော အရာ (pi-2 ^2-203)
+- puggala = ပုဂ္ဂိုလ် (pi-1 ^1-1050)
+- rūpakkhandho = ရုပ် အစုအဝေး (pi-2 ^2-1)
+- rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ = ရုပ်၊ ခံစားမှု၊ မှတ်သိမှု၊ ပြုပြင်ဖန်တီးမှုများ၊ သိစိတ် (pi-1 ^1-1044)
+- sacca = သစ္စာ (pi-2 ^2-15-1-2-0)
+- sahajātā = နှင့်အတူ ပေါ်ပေါက်သော (pi-5 ^5-473)
+- sahetukā dhammā = အမြစ် ရှိသော (pi-1 ^1-M2-2)
+- samudaya = ဖြစ်ပေါ်ခြင်း (pi-1 ^1-1063)
+- samuṭṭhāna = မှ ဖြစ်ပေါ်လာသော (pi-1 ^1-M2-60)
+- saññākkhandho = မှတ်သိမှု အစုအဝေး (pi-2 ^2-1)
+- saṅkhāra = ပြုပြင်ဖန်တီးမှု (pi-1 ^1-40)
+- saṅkhārakkhandho = ပြုပြင်ဖန်တီးမှု အစုအဝေး (pi-2 ^2-1)
+- suddha = ရိုးရိုး (pi-5 ^5-1-1-0)
+- upapattikkhaṇe = ပြန်လည် ဖြစ်ပေါ် (pi-2 ^2-1017)
+- uppajjati = ဖြစ်ပေါ်လျှင် ဖြစ်ပေါ်သည် (pi-2 ^2-203)
+- uppāda = ဖြစ်ပေါ်ခြင်း (pi-1 ^1-1-0)
+- vedanākkhandho = ခံစားမှု အစုအဝေး (pi-2 ^2-1)
+- viññāṇakkhandho = သိစိတ် အစုအဝေး (pi-2 ^2-1)
+- yassa = အကြင်သူအား (pi-2 ^2-199)
+- ye keci …, sabbe te … = မည်သူမဆို၊ ထိုသူ အားလုံးတို့သည် (pi-5 ^5-334)
+- Āmantā = ဟုတ်ပါသည် (pi-5 ^5-1)
+- āhāra = အာဟာရ (pi-1 ^1-70)
+- ārammaṇa = အာရုံ (pi-1 ^1-M1-13)
+- āyatana = အာရုံခံ နယ်ပယ် (pi-1 ^1-M2-122)
+- ṭhapetvā = ချန်ထား၍ (pi-2 ^2-796)

@@ -1,0 +1,17 @@
+9-01-dhammayamaka: lines 165 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'attr': 8, 'plural': 60, 'verb': 116} S1 kept 0 corrected 1
+9-02-dhammayamaka: lines 136 bad [] presence-fails 0 punct 0 unmapped 0 NDE 4 ending-rule chunks {'attr': 12, 'plural': 56, 'verb': 212} S1 kept 0 corrected 1
+9-03-dhammayamaka: lines 69 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ending-rule chunks {'attr': 4, 'plural': 84, 'verb': 71} S1 kept 0 corrected 1
+10-01-indriyayamaka: lines 166 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {} S1 kept 12 corrected 2
+10-02-indriyayamaka: lines 69 bad [] presence-fails 0 punct 0 unmapped 0 NDE 1 ending-rule chunks {'attr': 35, 'verb': 10} S1 kept 10 corrected 0
+10-03-indriyayamaka: lines 20 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'attr': 53} S1 kept 8 corrected 0
+10-04-indriyayamaka: lines 20 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'attr': 34, 'verb': 14} S1 kept 4 corrected 0
+10-05-indriyayamaka: lines 57 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 4, 'attr': 48, 'verb': 53} S1 kept 8 corrected 0
+10-06-indriyayamaka: lines 40 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 8, 'attr': 34, 'verb': 4} S1 kept 16 corrected 0
+10-07-indriyayamaka: lines 10 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 4, 'attr': 9} S1 kept 8 corrected 0
+10-08-indriyayamaka: lines 37 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'attr': 29, 'verb': 18} S1 kept 3 corrected 0
+10-09-indriyayamaka: lines 22 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 8, 'attr': 18, 'verb': 1} S1 kept 13 corrected 0
+10-10-indriyayamaka: lines 12 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 4, 'attr': 9, 'verb': 1} S1 kept 7 corrected 0
+10-11-indriyayamaka: lines 10 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 4, 'attr': 9} S1 kept 7 corrected 0
+10-12-indriyayamaka: lines 39 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ending-rule chunks {'abs': 12, 'attr': 30, 'verb': 4} S1 kept 17 corrected 0
+10-13-indriyayamaka: lines 61 bad [] presence-fails 0 punct 0 unmapped 0 NDE 7 ending-rule chunks {'attr': 48, 'neg-infix': 44, 'verb': 77} S1 kept 6 corrected 1
+TOTAL {'bad': 0, 'corr': 6, 'fails': 0, 'kept': 119, 'lines': 933, 'nde': 13, 'punct': 0, 'ruled': 1249, 'unmapped': 0}

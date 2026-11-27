@@ -1,0 +1,19 @@
+    ('nāmā', [
+        # pi-5 'by name' «အမည်» not attested; nāma = mentality «စိတ်ပိုင်း» (map-table rule 11, pi-1 nāma ^1-M2-109)
+        ('mentality, the mental side, in the root chapter (nominative pl.)', ['စိတ်ပိုင်း']),
+    ]),
+    ('sambhavo', [
+        # pi-2 sense kept; the hetuvāra word «ဖြစ်တည်ရာ» (^6-1-49, ^6-1-99) is the place of origination
+        ('coming into being, origination (nominative sg.), here the source of origination, the fourth of the ten '
+         'synonyms for a root in the hetuvāra', ['ဖြစ်တည်ရာ']),
+    ]),
+    ('kusalahetū', [
+        # pi-2 sense kept; hetu gets its own word «အကြောင်း» in the hetuvāra list (map-table, sample departure 1)
+        ("the wholesome roots (nominative pl.), here 'having the skilful as cause', the second of the ten synonyms for "
+         'a root in the hetuvāra', ['ကုသိုလ်၏ အကြောင်း']),
+    ]),
+    ('paccayo', [
+        # pi-5 support sense kept; parapaccayo 'reliance on others' not attested; paccaya «အထောက်အပံ့» (pi-1 ^1-1344)
+        ('support, conditioning factor (nominative), here the ninth of the ten synonyms for a root in the hetuvāra',
+         ['အထောက်အပံ့']),
+    ]),

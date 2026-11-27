@@ -1,0 +1,67 @@
+# pi-6 (Yamaka) Pāli→Burmese plain termbase: decisions. hw|sense_index <TAB> term <TAB> reason
+# Built only from this book's own Burmese text (zero-shot, harmonise and mapping notes, my6-zeroshot-terms.md, the approved sample) and the LOCKED pi-5 / pi-4 / pi-3 / pi-2 / pi-1 termbases (with their APPROVED change notes). For review by the coordinator; not locked.
+# Order of the brief: (a) locked pi-5 / pi-4 / pi-3 / pi-2 / pi-1 term, (b) approved core term (burmese-style.md, my6-zeroshot-terms.md, the approved sample, harmonise, the mapping rules R1-R9), (c) most used form, (d) clearest plain candidate. Match tools: pi12345_match.py (pi12345-match.tsv), lemma_match.py (lemma-match.txt); counts: multi_view.py (multi-view.txt).
+# A locked term is not taken where it never occurs in the pi-6 text (the pi-6 form is kept and reported), where the pi-6 sense is new (the senses step's NEW_SENSE, logged), or where an approved pi-6 sample form or mapping rule binds; every such case says «departs».
+#
+# Part 1a: multi-candidate senses where a locked termbase has the same headword and sense and its term is a candidate (1)
+uppajjissati|0	ဖြစ်ပေါ်လိမ့်မည်	pi-5 locked (Uppajjissati); R2 future; 254 of 269 uses; «ဖြစ်ပေါ်မည့်» is the future participle in a relative clause «… ဖြစ်ပေါ်မည့်သူတို့» (6-02, rule 3: grammar)
+#
+# Part 1b: multi-candidate senses whose locked term is not among the candidates (or never occurs in the pi-6 text) (0)
+#
+# Part 1c: multi-candidate senses without a locked entry for the same sense (10)
+upapajjantānaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ	R3 person participle = agent noun (pi-4 P6); 314 of 343 uses; family upapajjantassa / upapajjamāno «…ဆဲသူ», cavantānaṃ «စုတေဆဲသူ»; «…ဆဲ» is the attributive before «နောက်ဆုံး ဘဝ ရှိသူ» (grammar)
+upapajjantīnaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ	R3 agent noun, the same word as the masculine upapajjantānaṃ and as cavantīnaṃ «စုတေဆဲသူ» (family); departs from the count (4 of 22): «…ဆဲ» is the attributive before «မိန်းမတို့» (18, grammar)
+pañcavokārānaṃ|0	အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသူ	approved my6-zeroshot-terms §6 «Pañcavokārānaṃ = … ဘဝ၌ ရှိသူတို့အား» and R5 (beings of a plane = agent noun); family arūpānaṃ / suddhāvāsānaṃ «… ၌ ရှိသူ»; departs from the count (25 of 68): «… ရှိသော» is the attributive before «အခြားသူ» (Itaresaṃ pañcavokārānaṃ, 43, grammar)
+itaresaṃ|0	အခြားသူ	approved my6-zeroshot-terms §6 «Itaresaṃ = အခြားသူတို့အား»; 227 of 229 uses; «အခြား» is the attributive before «ယောက်ျားတို့» (10-09, grammar)
+pacchimabhavikānaṃ|0	နောက်ဆုံး ဘဝ ရှိသူ	approved my6-zeroshot-terms §6 (NEW «နောက်ဆုံး ဘဝ ရှိသူ»); 129 of 133 uses; «… ရှိသော» is the attributive before «မိန်းမတို့ / ယောက်ျားတို့» (grammar)
+rūpāvacarānaṃ|0	သိမ်မွေ့သော ရုပ်ဘုံ၌ ရှိသူ	R5 beings of the plane «P၌ ရှိသူ» (core plane name, burmese-style.md); 68 of 94 uses; «… ရုပ်ဘုံ … ရှိသူ / ရှိသော» is the shared ending of two coordinated planes «… ရုပ်ဘုံနှင့် ရုပ်မရှိသော ဘုံ၌ ရှိသူတို့» (rule 10, construction)
+kāmāvacarānaṃ|1	ကာမဘုံ၌ ရှိသူ	R5 beings of the plane; 45 of 51 uses; = arūpāvacarānaṃ / rūpāvacarānaṃ; «… ရှိသော» is the attributive before another person noun (grammar); sense 0 «ကာမဘုံနှင့် ဆိုင်သော» (adjective of pacchimacitta) stays apart
+arūpāvacarānaṃ|0	ရုပ်မရှိသော ဘုံ၌ ရှိသူ	R5 beings of the plane; 71 of 75 uses; = arūpānaṃ «ရုပ်မရှိသော ဘုံ၌ ရှိသူ» (family); «… ရှိသော» before «အခြားသူတို့» (grammar)
+anabhisametāvīnaṃ|0	ထင်ထင်ရှားရှား မသိမြင်ရသေးသူ	agent noun (pi-4 P6); 14 of 22 uses; abhisamaya family «ထင်ထင်ရှားရှား သိမြင်…» (pi-5 / pi-4 locked); «…သော» before another person noun (grammar); pair abhisametāvīnaṃ
+abhisametāvīnaṃ|0	ထင်ထင်ရှားရှား သိမြင်ပြီးသူ	agent noun (pi-4 P6); 12 of 20 uses; abhisamaya family «ထင်ထင်ရှားရှား သိမြင်…» (pi-5 / pi-4 locked); «…သော» before «စုတေဆဲသူတို့ / ပြန်လည် ဖြစ်ပေါ်ဆဲသူတို့» (grammar); pair anabhisametāvīnaṃ
+#
+# Part 2: single-candidate senses re-aligned to the LOCKED pi-5 / pi-4 / pi-3 / pi-2 / pi-1 term (same headword, same sense; the locked term occurs in the pi-6 text) (1)
+atītānāgataṃ|0	အတိတ်နှင့် အနာဂတ်	pi-5 locked (same tag); present in the pi-6 text (atītānāgatepi ^6-3-40, Atītānāgatavāro); family atītānāgatepi / atītānāgatavāro; the gapped «အတိတ် … အနာဂတ်» was the text's spelled-out «အတိတ် စိတ်နှင့် အနာဂတ် စိတ်» (^6-8-81 …, rule 10), which the term covers
+#
+# Part 3: family re-alignments of single-candidate senses (one Burmese word per Pāli lemma and sense; family-scan-before.txt) and the synonym-list check (2)
+uppajjantānaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ	source slip for upapajjantānaṃ (^6-10-398, map-harmonise §A 6): the intended word's term (upapajjantānaṃ|0); the text's «ပြန်လည် ဖြစ်ပေါ်ဆဲ နောက်ဆုံး ဘဝ ရှိသော …» is the attributive (grammar)
+uppajjantīnaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ	source slip for upapajjantīnaṃ (^6-10-206, map-harmonise §A 6): the intended word's term (upapajjantīnaṃ|0); the text's «ပြန်လည် ဖြစ်ပေါ်ဆဲ မိန်းမတို့» is the attributive (grammar)
+#
+# Part 4: text inconsistencies of mapper-my/map-harmonise-notes.md §A decided by a term (single-candidate senses re-aligned) (1)
+yassayatthakasadisaṃ|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်းနှင့် တူညီသည်	§A 9: one word for sadisa «…နှင့် တူညီသည်» (= yassakasadisaṃ, yatthakasadisaṃ, ghānasadiso, ghānadhātusadisā; harmonise B15 sadisaṃ «တူညီသည်»); «တူညီအောင် ပြုရမည်» is the construction with kātabbaṃ (^6-5-70), which the rails keep
+#
+# Part 5 (comments only): locked terms NOT taken, family differences kept, §A items, rails notes. No decision lines here.
+#
+# 5a. Same headword and sense as a LOCKED termbase, the pi-6 term kept (pi12345-match.tsv SINGLE_DIFF / SINGLE_DIFF_ABSENT, newcheck.txt)
+# - abyākatā dhammā|0 «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား»: pi-5 has the same words with a « … » gap (its own text's construction); the whole phrase = the pi-1 locked term and the pi-6 text; family abyākatā dhammāti / abyākatā ca dhammā (form only, same words).
+# - yattha|0 «အကြင်နေရာ»: pi-5 «အကြင်» departs: g1 U3 (coordinator) «Yattha = အကြင်နေရာ», «Yassa yattha = အကြင်သူအား အကြင်နေရာ»; the Yamaka sets yassa (whom) against yattha (where), and «အကြင်» alone would not tell a plain reader which.
+# - uppajjamānaṃ|0 «ဖြစ်ပေါ်ဆဲ»: pi-5 «ဖြစ်ပေါ်သော» departs: the Cittayamaka contrasts uppajjamāna (in the course of arising) with uppanna «ဖြစ်ပေါ်ပြီးသော» (arisen); «ဖြစ်ပေါ်သော» would blur the pair (R3; family uppajjamāna / -nti / -ñca, the headings «ဖြစ်ပေါ်ဆဲ အရာ …»).
+# - nirujjhamānaṃ|0 «ချုပ်ငြိမ်းဆဲ»: pi-5 «ချုပ်ငြိမ်းနေသော» never occurs in the pi-6 text; parallel to uppajjamāna (R3).
+# - nirujjhissanti|0 «ချုပ်ငြိမ်းလိမ့်မည်»: pi-5 «ချုပ်ငြိမ်းသည်» departs: the future is the point of the anāgata vāras (R2); family nirujjhissati / -īti; pi-5 itself locks Uppajjissati «ဖြစ်ပေါ်လိမ့်မည်».
+# - avasese|0 «ကြွင်းကျန်သော»: pi-5 «အကြွင်း» never occurs; = avasesā / avaseso / avasesaṃ (pi-1 / pi-4 locked «ကြွင်းကျန်သော»).
+# - kāyasaṅkhāro|0, kāyasaṅkhāraṃ|0 «ကိုယ်၏ ပြုပြင်ဖန်တီးမှု»: pi-5 / pi-2 «ကိုယ် ပြုပြင်ဖန်တီးမှု» never occurs in the pi-6 text; parallel to vacīsaṅkhāraṃ «နှုတ်၏ …» (pi-5 locked) and cittasaṅkhāro «စိတ်၏ …» (§A 12 decided).
+# - sacchikaroti|0, sacchikaronti|0 «မျက်မှောက်ပြုသည်»: pi-5 / pi-4 «မျက်မှောက် ပြုသည်» (spaced) never occurs in the pi-6 text; joined as pi-2 sacchikata «မျက်မှောက်ပြုပြီးသော», pi-4 sacchikiriyāya «မျက်မှောက်ပြုရန်» and every pi-6 tense (§A 13 decided; the negative «မျက်မှောက် မပြု…» stays spaced in the text, B13).
+# - kāmadhātuṃ|0 «ကာမဘုံ», arūpadhātuṃ|0 «ရုပ်မရှိသော ဘုံ», rūpadhātuṃ|0 «သိမ်မွေ့သော ရုပ်ဘုံ»: pi-5 «… ဓာတ်» never occurs in the pi-6 text; ch. 7 uses them as planes (B8, R5; = kāmadhātuyā / rūpadhātuyā / arūpadhātuyā); rūpadhātuṃ|1 «အဆင်းအရောင် ဓာတ်» is the element of ch. 4 (kept apart, brief).
+# - the planes as places, here the plane itself (senses step tags): rūpāvacare / rūpāvacaraṃ / rūpāvacarā «သိမ်မွေ့သော ရုပ်ဘုံ», kāmāvacare / kāmāvacaraṃ / kāmāvacarā «ကာမဘုံ», arūpāvacare / arūpāvacaraṃ «ရုပ်မရှိသော ဘုံ»: the locked «…နှင့် ဆိုင်သော» is the adjective (kept for kāmāvacarānaṃ|0, the adjective of pacchimacitta); B8, R5.
+# - new senses of the senses step (NEW_SENSE, logged; the locked term is another sense and never occurs here): nāmā «စိတ်ပိုင်း», anulomaṃ / paccanīkaṃ «အဟုတ်ပြ / အငြင်းပြ ပုံစံ» (approved sample departure 2), viññāṇañca «သိစိတ်», arūpaṃ / arūpā «ရုပ်မရှိသော ဘုံ», cakkaṃ «လှည့်ပတ်ခြင်း», dhātū «ဓာတ်», aññaṃ «အပြည့်အဝ သိမြင်ခြင်း» (aññā, = pi-1 / pi-2 / pi-4 / pi-5 aññā), ekamūlakaṃ «တူညီသော အမြစ်ကို အခြေခံသော», kāmāvacarānaṃ|1 «ကာမဘုံ၌ ရှိသူ».
+# - the hetuvāra list (approved sample departure 1, each of the ten synonyms its own word): kusalahetū «ကုသိုလ်၏ အကြောင်း» (pi-2 «ကုသိုလ် အမြစ်»), sambhavo «ဖြစ်တည်ရာ» (pi-2 «ဖြစ်ပေါ်လာသော»), nāmapaccayā «စိတ်ပိုင်း၏ အထောက်အပံ့» (pi-2 «စိတ်ပိုင်းကြောင့်»), paccayo «အထောက်အပံ့» (pi-5 «အကြောင်း» is hetu's word in the same verse; = pi-1 paccaya).
+#
+# 5b. Same lemma, other headword, another grammatical form (lemma-match.txt; not binding, reported): maggasamaṅgīnaṃ / maggasamaṅgino «မဂ်နှင့် ပြည့်စုံသူ» (agent noun, R8) vs pi-5 Maggasamaṅgī «… ပြည့်စုံသော»; samāpannānaṃ «ဝင်စားနေသူ» vs pi-5 samāpanno «ဝင်စားနေသော»; upapajjamāno «ပြန်လည် ဖြစ်ပေါ်ဆဲသူ» vs pi-4 / pi-5 upapajjamāne «ဖြစ်ပေါ်ဆဲ» (upapajjati «ပြန်လည် ဖြစ်ပေါ်», pi-2 / pi-5); parinibbāyissanti «ပရိနိဗ္ဗာန် ပြုမည့်» (future participle, R2) vs pi-5 parinibbāyī «… ပြုသော»; āpāyikānaṃ «အပါယ်၌ ရှိသူ» (beings, R5) vs pi-5 Āpāyiko «အပါယ်သို့ ရောက်သော»; bhaṅgā «ပြိုပျက်သော» vs pi-5 bhaṅga «ပြိုပျက်ခြင်း» (participle vs noun); pañca- / catuvokāra- «… ရှိသော ဘဝ» (the plane, pi-2 ^2-234 …bhavo) vs the pi-2 / pi-5 member «… ရှိသော».
+#
+# 5c. Family scan (family-scan-after.txt part B): the families left with more than one term are grammar or sense differences, each explained there:
+#   tense (R2): uppajj, nuppajj, nirujjh, pajah, na-ppajah, parijān, sacchikar; plane vs its beings (R5): arūp, arūpāvacar, rūpāvacar, pañcavokār, suddhāvās, asaññasatt;
+#   sense: kāmāvacar (plane / adjective / beings), rūpadhāt (plane / element); slips: upapajj (upapajjissati = uppajjissati), uppajjant (uppajjantīti verb vs the slips for upapajjant-); nāyatan (g1 U1: the gapped attributive vs the predicate).
+# Synonym check (synonym-check.txt): see the report.
+#
+# 5d. map-harmonise-notes.md §A, decided by a term: 2 (kāmāvacarānaṃ: two senses kept, adjective «ကာမဘုံနှင့် ဆိုင်သော» / beings «ကာမဘုံ၌ ရှိသူ»);
+#   6 (the keyed slips take the intended word's term: vadanākkhandho, sotāyananti, upapajjissati, uppajjantānaṃ / uppajjantīnaṃ (part 3), asaññattā, nirujjhiti, nirujjhatī, kāmārāgānusayo, Pajahanāvāre, paccanīkaokāsā, Dhātuvisajjavāro, cavantāna, Pacchimacittasamaṅgīna, Ghānandriyamūlakaṃ, anaññātaññāssāmīti, parinibbāntānaṃ, manāyatana, aggamaggaṃ paṭilabhissānti, uppajjittharūpāyatanañca);
+#   8 (aggamaggassa «အမြတ်ဆုံး မဂ်» / aggaphalassa «အမြတ်ဆုံး ဖိုလ်» / phalassa «ဖိုလ်» kept apart); 9 (sadisa «…နှင့် တူညီသည်», part 4);
+#   10 (sotaṃ «နား»; taṇhāsotaṃ «တပ်မက်မှု ရေစီး»; the text's pun gloss «“သောတ” (နား သို့မဟုတ် ရေစီး)» contains the term, B7);
+#   11 (uppāda: vāra / cited section «ဖြစ်ပေါ်ခြင်း(အလိုက် ဖော်ပြချက်)», Uppajjanavāro = uppādavāro, moment «ဖြစ်ခြင်း ခဏ»); 12 (kāyasaṅkhāra «ကိုယ်၏ …»); 13 (sacchikaroti joined).
+# Left for the rails step (no term decides them): 1 «yassa cittassa anantarā» «အကြင်စိတ်၏ / မိမိ စိတ်၏ ချက်ချင်း နောက်၌» (one rendering per Pāli syntax, B10; cittassa «စိတ်», anantarā «ချက်ချင်း နောက်» fit both);
+#   3 colophons without a word for vāro; 4 heading IDs out of order in the keyword files (no effect); 5 keyword gaps (Catuvokārā, the Uppajjamāna-nanirodhavāro split, cittake for three sections, the second kāmāvacarānaṃ of ^6-6-88);
+#   6 the punctuation / label slips (^6-2-36 «.» for «?», ^6-2-61 (Ka) for (Kha), ^6-2-44 split line, ^6-1-99 nāmahetū ti); 7 heading layout (^6-6-65, ^6-8-82, ^6-9-4-0 / ^6-9-5-0);
+#   14 the words the text adds that no keyword carries (dhammānaṃ after kusalānaṃ … «… သဘောတရားတို့၏», «အရာ(များ)» after anaññātaññassāmīti / abyākatā, «ပုဂ္ဂိုလ်» after Aṭṭhamako, «ထိုသူတို့၏ပင်» of tesaṃyeva).
+#
+# 5e. For the rails step: the agent-noun terms (part 1, R3 / R5) have an attributive form before another person noun in the text («ပြန်လည် ဖြစ်ပေါ်ဆဲ မိန်းမတို့», «… ဘဝ၌ ရှိသော အခြားသူတို့», «… မသိမြင်ရသေးသော …»): the same word, a grammar form (map-harmonise §B kept: grammar), to be classed as INFLECTION, not changed.
+#   Answers: Natthi = natthi «မရှိသည်» (pi-5 locked, dictionary form); the text's «မရှိပါ။» is the approved answer register (sample; harmonise_pi12345 «explained»).

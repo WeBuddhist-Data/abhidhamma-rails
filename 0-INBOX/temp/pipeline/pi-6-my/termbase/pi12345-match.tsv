@@ -1,0 +1,1128 @@
+SINGLE_SAME	abhidhammapiṭake|0	အဘိဓမ္မာပိဋက	အဘိဓမ္မာပိဋက	tag-ci	pi-5 Abhidhammapiṭake|0	the Abhidhamma basket of the canon (locative, in the title line)
+SINGLE_NEW	yamakapāḷi|0	အတွဲလိုက် မေးဖြေခြင်း				title of this whole book
+SINGLE_NEW	mūlayamakaṃ|0	အမြစ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on roots
+SINGLE_SAME	kusalamūlā|0	ကုသိုလ်၏ အမြစ်	ကုသိုလ်၏ အမြစ်	tag	pi-2 kusalamūlā|0	the wholesome roots (nominative pl.)
+SINGLE_SAME	kusalā dhammā|0	ကုသိုလ် သဘောတရား	ကုသိုလ် သဘောတရား	tag	pi-5 kusalā dhammā|0	wholesome phenomena, said of all wholesome states (nominative pl.)
+SINGLE_SAME	kusalā|0	ကုသိုလ်	ကုသိုလ်	tag	pi-5 kusalā|0	wholesome, said of phenomena (nominative pl.)
+SINGLE_SAME	uddeso|0	အကျဉ်း ဖော်ပြချက်	အကျဉ်း ဖော်ပြချက်	tag	pi-4 uddeso|0	the summary statement, opening list (heading)
+SINGLE_NEW	ekamūlā|0	တူညီသော အမြစ် ရှိသော				having one root in common with a given root (nominative pl.)
+SINGLE_NEW	kusalamūlena|0	ကုသိုလ်၏ အမြစ်				a root that is skilful
+SINGLE_NEW	mūlavāro|0	အမြစ်အလိုက် ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	aññamaññamūlā|0	အချင်းချင်း အမြစ်				each serving as root for the other
+SINGLE_NEW	kusalamūlamūlā|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is skilful (nominative pl.)
+SINGLE_NEW	mūlanayo|0	အမြစ် ခွဲနည်း				a way of questioning used in a section
+SINGLE_NEW	ekamūlamūlā|0	တူညီသော အမြစ်၏ အမြစ် ရှိသော				having one root of a root in common (nominative pl.)
+SINGLE_NEW	mūlamūlanayo|0	အမြစ်၏ အမြစ် ခွဲနည်း				a root of a root, in the method of that name
+SINGLE_NEW	aññamaññamūlamūlā|0	အချင်းချင်း အမြစ်၏ အမြစ်				each serving as the root of a root for the other (nominative pl.)
+SINGLE_NEW	mūlakanayo|0	အမြစ်ကို အခြေခံခြင်း ခွဲနည်း				the method dealing with what stems from a root
+SINGLE_NEW	kusalamūlakā|0	ကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is skilful (nominative pl.)
+SINGLE_NEW	mūlamūlakanayo|0	အမြစ်၏ အမြစ်ကို အခြေခံခြင်း ခွဲနည်း				the method dealing with what stems from a root-of-roots
+SINGLE_NEW	ekamūlakā|0	တူညီသော အမြစ်ကို အခြေခံသော				based on one root in common with a given root (nominative pl.)
+SINGLE_SAME	akusalā dhammā|0	အကုသိုလ် သဘောတရား	အကုသိုလ် သဘောတရား	tag	pi-5 akusalā dhammā|0	unwholesome phenomena (nominative pl.)
+SINGLE_NEW	aññamaññamūlakā|0	အချင်းချင်း အမြစ်ကို အခြေခံသော				each stemming from the other as a root
+SINGLE_DIFF_ABSENT	abyākatā dhammā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … သဘောတရား	tag	pi-5 abyākatā dhammā|0	phenomena neither wholesome nor unwholesome (nominative pl.)
+SINGLE_NEW	kusalamūlamūlakā|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is skilful (nominative pl.)
+SINGLE_DIFF_ABSENT	nāmā|0	စိတ်ပိုင်း	အမည်	TAGDIFF	pi-5 nāmā|0	mentality, the mental side, in the root chapter (nominative pl.)
+SINGLE_NEW	ekamūlamūlakā|0	တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on one root of a root in common (nominative pl.)
+SINGLE_NEW	hetuvārādi|0	အကြောင်းအလိုက် ဖော်ပြချက် စသည်				a named division of a chapter
+SINGLE_SAME	niddeso|0	အကျယ် ဖော်ပြချက်	အကျယ် ဖော်ပြချက်	tag	pi-4 niddeso|0	detailed exposition, section heading (nominative)
+SINGLE_NEW	aññamaññamūlamūlakā|0	အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံသော				each stemming from the other as the root of a root (nominative pl.)
+SINGLE_NEW	akusalamūlā|0	အကုသိုလ်၏ အမြစ်				a root that is unskilful
+SINGLE_SAME	akusalā|0	အကုသိုလ်	အကုသိုလ်	tag	pi-5 akusalā|0	unwholesome, said of phenomena (nominative pl.)
+SINGLE_NEW	akusalamūlena|0	အကုသိုလ်၏ အမြစ်				a root that is unskilful
+SINGLE_NEW	akusalamūlamūlā|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is unskilful (nominative pl.)
+SINGLE_NEW	akusalamūlakā|0	အကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is unskilful (nominative pl.)
+SINGLE_NEW	akusalamūlamūlakā|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is unskilful (nominative pl.)
+SINGLE_NEW	abyākatamūlā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်				a root that is neither skilful nor unskilful
+SINGLE_SAME	abyākatā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	tag	pi-5 abyākatā|0	neither wholesome nor unwholesome (nominative pl.)
+SINGLE_NEW	abyākatamūlena|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်				a root that is neither skilful nor unskilful
+SINGLE_NEW	abyākatamūlamūlā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်				the root of a root that is neither skilful nor unskilful (nominative pl.)
+SINGLE_NEW	abyākatamūlakā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်ကို အခြေခံသော				based on a root that is neither skilful nor unskilful (nominative pl.)
+SINGLE_NEW	abyākatamūlamūlakā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is neither skilful nor unskilful (nominative pl.)
+SINGLE_NEW	nāmamūlā|0	စိတ်ပိုင်း၏ အမြစ်				a root belonging to the mental side
+SINGLE_NEW	nāmamūlena|0	စိတ်ပိုင်း၏ အမြစ်				a root belonging to the mental side
+SINGLE_NEW	nāmamūlamūlā|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်				the root of a root belonging to the mental side (nominative pl.)
+SINGLE_NEW	nāmamūlakā|0	စိတ်ပိုင်း၏ အမြစ်ကို အခြေခံသော				based on a root belonging to the mental side (nominative pl.)
+SINGLE_NEW	nāmamūlamūlakā|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root belonging to the mental side (nominative pl.)
+SINGLE_NEW	mūlavārauddeso|0	အမြစ်အလိုက် ဖော်ပြချက်၏ အကျဉ်း ဖော်ပြချက်				the summary part of a section
+SINGLE_NEW	kusalappabhavā|0	ကုသိုလ်၏ ပေါ်ထွက်ရာ				the fifth of ten synonyms for a root
+SINGLE_NEW	pabhavena|0	ပေါ်ထွက်ရာ				the fifth of ten synonyms for a root
+SINGLE_SAME	hetu|0	အကြောင်း	အကြောင်း	tag	pi-5 hetu|0	cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member), also 'on account of', in attahetu and parahetu (compound final)
+SINGLE_NEW	kusalapaccayā|0	ကုသိုလ်၏ အထောက်အပံ့				having a skilful condition, the ninth synonym for a root (nominative pl.)
+SINGLE_NEW	paccayo|0	အထောက်အပံ့				support, conditioning factor (nominative), here the ninth of the ten synonyms for a root in the hetuvāra
+SINGLE_NEW	kusalasambhavā|0	ကုသိုလ်၏ ဖြစ်တည်ရာ				the fourth of ten synonyms for a root
+SINGLE_DIFF	sambhavo|0	ဖြစ်တည်ရာ	ဖြစ်ပေါ်လာသော	TAGDIFF	pi-2 sambhavo|0	coming into being, origination (nominative sg.), here the source of origination, the fourth of the ten synonyms for a root in the hetuvāra
+SINGLE_NEW	kusalāhārā|0	ကုသိုလ်၏ အာဟာရ				the seventh of ten synonyms for a root
+SINGLE_NEW	samuṭṭhānāhārārammaṇā|0	ဖြစ်ပေါ်လာရာ အာဟာရ အာရုံ				origination, nourishment and object, three synonyms for a root in one verse compound
+SINGLE_NEW	samudayena|0	ဖြစ်ပေါ်ခြင်း				the tenth of ten synonyms for a root
+SINGLE_NEW	uddesavāro|0	အကျဉ်း ဖော်ပြချက်				the summary part of a section
+SINGLE_SAME	mūlaṃ|0	အမြစ်	အမြစ်	tag	pi-5 mūlaṃ|0	root, as in kusalamūla (nominative sg.)
+SINGLE_NEW	nidānañca|0	ဇာစ်မြစ်				the third of ten synonyms for a root
+SINGLE_DIFF_ABSENT	kusalahetū|0	ကုသိုလ်၏ အကြောင်း	ကုသိုလ် အမြစ်	TAGDIFF	pi-2 kusalahetū|0	the wholesome roots (nominative pl.), here 'having the skilful as cause', the second of the ten synonyms for a root in the hetuvāra
+SINGLE_NEW	kusalanidānā|0	ကုသိုလ်၏ ဇာစ်မြစ်				having a skilful source, the third of ten synonyms for a root (nominative pl.)
+SINGLE_NEW	kusalasamuṭṭhānā|0	ကုသိုလ်၏ ဖြစ်ပေါ်လာရာ				having a skilful origin, the sixth of ten synonyms for a root (nominative pl.)
+SINGLE_NEW	kusalārammaṇā|0	ကုသိုလ်၏ အာရုံ				having a skilful object, the eighth of ten synonyms for a root (nominative pl.)
+SINGLE_NEW	kusalasamudayā|0	ကုသိုလ်၏ ဖြစ်ပေါ်ခြင်း				having a skilful arising, the tenth of ten synonyms for a root (nominative pl.)
+SINGLE_SAME	avasesā|0	ကြွင်းကျန်သော	ကြွင်းကျန်သော	tag	pi-5 avasesā|0	the remaining ones, the rest (nominative pl.)
+SINGLE_NEW	kusalamūlāti|0	ကုသိုလ်၏ အမြစ်				a root that is skilful
+SINGLE_SAME	kusalamūlāni|0	ကုသိုလ်၏ အမြစ်	ကုသိုလ်၏ အမြစ်	tag	pi-2 kusalamūlāni|0	the wholesome roots (nominative pl.)
+SINGLE_NEW	kusalāti|0	ကုသိုလ်				states that are skilful
+SINGLE_NEW	kusalasamuṭṭhānaṃ|0	ကုသိုလ်မှ ဖြစ်ပေါ်လာသော				material form that arises from a stated state
+SINGLE_SAME	rūpaṃ|0	ရုပ်	ရုပ်	tag	pi-5 rūpaṃ|1	matter, material form (nominative/accusative sg.), also the material side of nāmarūpa
+SINGLE_NEW	ekamūlāti|0	တူညီသော အမြစ် ရှိသော				having one root in common, quoted with iti
+SINGLE_NEW	ekamūlaṃ|0	တူညီသော အမြစ် ရှိသော				having one root in common (neuter sg.)
+SINGLE_NEW	ekamūlañceva|0	တူညီသော အမြစ် ရှိသော				both having one root in common (neuter sg., with ceva)
+SINGLE_SAME	kusalaṃ|0	ကုသိုလ်	ကုသိုလ်	tag	pi-5 kusalaṃ|0	wholesome, often standing for the wholesome mind (neuter sg.)
+SINGLE_NEW	kusalañca|0	ကုသိုလ်				skilful, also as a noun 'a skilful state' (neuter sg., with ca)
+SINGLE_SAME	uppajjanti|0	ဖြစ်ပေါ်သည်	ဖြစ်ပေါ်သည်	tag	pi-5 uppajjanti|0	they arise, come into being (3rd pl. present)
+SINGLE_NEW	aññamaññamūlāti|0	အချင်းချင်း အမြစ်				each serving as root for the other
+SINGLE_NEW	aññamaññamūlāni|0	အချင်းချင်း အမြစ်				each serving as root for the other
+SINGLE_SAME	mūlāni|0	အမြစ်	အမြစ်	tag	pi-2 mūlāni|0	roots, the wholesome and unwholesome root conditions (nominative pl.)
+SINGLE_NEW	ekamūlāni|0	တူညီသော အမြစ် ရှိသော				having one root in common (neuter pl.)
+SINGLE_NEW	kusalamūlasahajātā dhammā|0	ကုသိုလ်၏ အမြစ်နှင့်အတူ ပေါ်ပေါက်သော သဘောတရား				states arisen together with a root that is skilful (nominative pl.)
+SINGLE_NEW	kusalamūlamūlāti|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is skilful (nominative pl., quoted with iti)
+SINGLE_NEW	kusalamūlamūlāni|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is skilful (neuter pl.)
+SINGLE_NEW	ekamūlamūlāti|0	တူညီသော အမြစ်၏ အမြစ် ရှိသော				having one root of a root in common (nominative pl., quoted with iti)
+SINGLE_NEW	ekamūlamūlaṃ|0	တူညီသော အမြစ်၏ အမြစ် ရှိသော				having one root of a root in common (neuter sg.)
+SINGLE_NEW	ekamūlamūlañceva|0	တူညီသော အမြစ်၏ အမြစ် ရှိသော				having one root of a root in common (neuter sg., with ceva)
+SINGLE_NEW	aññamaññamūlamūlāti|0	အချင်းချင်း အမြစ်၏ အမြစ်				each serving as the root of a root for the other (nominative pl., quoted with iti)
+SINGLE_NEW	aññamaññamūlamūlāni|0	အချင်းချင်း အမြစ်၏ အမြစ်				each serving as the root of a root for the other (neuter pl.)
+SINGLE_NEW	ekamūlamūlāni|0	တူညီသော အမြစ်၏ အမြစ် ရှိသော				having one root of a root in common (neuter pl.)
+SINGLE_NEW	kusalamūlakāti|0	ကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is skilful (nominative pl., quoted with iti)
+SINGLE_NEW	kusalamūlakaṃ|0	ကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is skilful (neuter sg.)
+SINGLE_NEW	kusalamūlakañceva|0	ကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is skilful (neuter sg., with ceva)
+SINGLE_NEW	ekamūlakāti|0	တူညီသော အမြစ်ကို အခြေခံသော				based on one root in common, quoted with iti
+SINGLE_DIFF_ABSENT	ekamūlakaṃ|0	တူညီသော အမြစ်ကို အခြေခံသော	တစ်မျိုးတွဲကို အခြေခံသော	TAGDIFF	pi-3 Ekamūlakaṃ|0	based on one root in common (neuter sg.)
+SINGLE_NEW	ekamūlakañceva|0	တူညီသော အမြစ်ကို အခြေခံသော				both based on one root in common (neuter sg., with ceva)
+SINGLE_NEW	aññamaññamūlakāti|0	အချင်းချင်း အမြစ်ကို အခြေခံသော				each stemming from the other as a root
+SINGLE_NEW	aññamaññamūlakāni|0	အချင်းချင်း အမြစ်ကို အခြေခံသော				each stemming from the other as a root
+SINGLE_NEW	ekamūlakāni|0	တူညီသော အမြစ်ကို အခြေခံသော				based on one root in common (neuter pl.)
+SINGLE_NEW	kusalamūlamūlakāti|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is skilful (nominative pl., quoted with iti)
+SINGLE_NEW	kusalamūlamūlakaṃ|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is skilful (neuter sg.)
+SINGLE_NEW	kusalamūlamūlakañceva|0	ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is skilful (neuter sg., with ceva)
+SINGLE_NEW	ekamūlamūlakāti|0	တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on one root of a root in common (nominative pl., quoted with iti)
+SINGLE_NEW	ekamūlamūlakaṃ|0	တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on one root of a root in common (neuter sg.)
+SINGLE_NEW	ekamūlamūlakañceva|0	တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on one root of a root in common (neuter sg., with ceva)
+SINGLE_NEW	aññamaññamūlamūlakāti|0	အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံသော				each stemming from the other as the root of a root (nominative pl., quoted with iti)
+SINGLE_NEW	aññamaññamūlamūlakāni|0	အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံသော				each stemming from the other as the root of a root (neuter pl.)
+SINGLE_NEW	ekamūlamūlakāni|0	တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on one root of a root in common (neuter pl.)
+SINGLE_NEW	akusalamūlāti|0	အကုသိုလ်၏ အမြစ်				a root that is unskilful
+SINGLE_SAME	akusalamūlāni|0	အကုသိုလ်၏ အမြစ်	အကုသိုလ်၏ အမြစ်	tag	pi-2 akusalamūlāni|0	the unwholesome roots (nominative pl.)
+SINGLE_NEW	akusalāti|0	အကုသိုလ်				states that are unskilful
+SINGLE_NEW	ahetukaṃ|0	အမြစ် မရှိသော				without roots, of a state or a mind (neuter sg.)
+SINGLE_NEW	sahetukaṃ|0	အမြစ် ရှိသော				accompanied by roots, of a state or a mind (neuter sg.)
+SINGLE_NEW	akusalasamuṭṭhānaṃ|0	အကုသိုလ်မှ ဖြစ်ပေါ်လာသော				material form that arises from a stated state
+SINGLE_SAME	akusalaṃ|0	အကုသိုလ်	အကုသိုလ်	tag	pi-5 akusalaṃ|0	unwholesome, often standing for the unwholesome mind (neuter sg.)
+SINGLE_NEW	akusalañca|0	အကုသိုလ်				states that are unskilful
+SINGLE_NEW	akusalamūlasahajātā dhammā|0	အကုသိုလ်၏ အမြစ်နှင့်အတူ ပေါ်ပေါက်သော သဘောတရား				states arisen together with a root that is unskilful (nominative pl.)
+SINGLE_NEW	akusalamūlamūlāti|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	akusalamūlamūlāni|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်				the root of a root that is unskilful (neuter pl.)
+SINGLE_NEW	akusalamūlakāti|0	အကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	akusalamūlakaṃ|0	အကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is unskilful (neuter sg.)
+SINGLE_NEW	akusalamūlakañceva|0	အကုသိုလ်၏ အမြစ်ကို အခြေခံသော				based on a root that is unskilful (neuter sg., with ceva)
+SINGLE_NEW	akusalamūlamūlakāti|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	akusalamūlamūlakaṃ|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is unskilful (neuter sg.)
+SINGLE_NEW	akusalamūlamūlakañceva|0	အကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is unskilful (neuter sg., with ceva)
+SINGLE_NEW	abyākatamūlāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်				a root that is neither skilful nor unskilful
+SINGLE_NEW	abyākatamūlāni|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်				a root that is neither skilful nor unskilful
+SINGLE_NEW	abyākatāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော				states that are neither skilful nor unskilful
+SINGLE_SAME	abyākataṃ|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	tag	pi-5 abyākataṃ|0	neither wholesome nor unwholesome (neuter sg.)
+SINGLE_NEW	abyākatamūlasahajātā dhammā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်နှင့်အတူ ပေါ်ပေါက်သော သဘောတရား				states arisen together with a root that is neither skilful nor unskilful (nominative pl.)
+SINGLE_NEW	abyākatamūlamūlāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်				the root of a root that is neither skilful nor unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	abyākatamūlamūlāni|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်				the root of a root that is neither skilful nor unskilful (neuter pl.)
+SINGLE_NEW	abyākatamūlakāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်ကို အခြေခံသော				based on a root that is neither skilful nor unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	abyākatamūlakaṃ|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်ကို အခြေခံသော				based on a root that is neither skilful nor unskilful (neuter sg.)
+SINGLE_NEW	abyākatamūlamūlakāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is neither skilful nor unskilful (nominative pl., quoted with iti)
+SINGLE_NEW	abyākatamūlamūlakaṃ|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root that is neither skilful nor unskilful (neuter sg.)
+SINGLE_NEW	nāmamūlāti|0	စိတ်ပိုင်း၏ အမြစ်				a root belonging to the mental side
+SINGLE_NEW	nāmamūlāni|0	စိတ်ပိုင်း၏ အမြစ်				a root belonging to the mental side
+SINGLE_NEW	nāmāti|0	စိတ်ပိုင်း				states on the mental side of existence
+SINGLE_NEW	nāmasamuṭṭhānaṃ|0	စိတ်ပိုင်းမှ ဖြစ်ပေါ်လာသော				material form that arises from a stated state
+SINGLE_SAME	nāmaṃ|0	စိတ်ပိုင်း	စိတ်ပိုင်း	tag	pi-2 nāmaṃ|0	mentality, the mental side, the four immaterial aggregates and the unconditioned (nominative sg.)
+SINGLE_SAME	nāmañca|0	စိတ်ပိုင်း	စိတ်ပိုင်း	tag	pi-1 nāmañca|0	mentality, the mental side of name-and-form (nominative sg.)
+SINGLE_NEW	nāmamūlasahajātā|0	စိတ်ပိုင်း၏ အမြစ်နှင့်အတူ ပေါ်ပေါက်သော				arisen together with a root belonging to the mental side (nominative pl.)
+SINGLE_NEW	nāmamūlamūlāti|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်				the root of a root belonging to the mental side (nominative pl., quoted with iti)
+SINGLE_NEW	nāmamūlamūlāni|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်				the root of a root belonging to the mental side (neuter pl.)
+SINGLE_NEW	nāmamūlakāti|0	စိတ်ပိုင်း၏ အမြစ်ကို အခြေခံသော				based on a root belonging to the mental side (nominative pl., quoted with iti)
+SINGLE_NEW	nāmamūlakaṃ|0	စိတ်ပိုင်း၏ အမြစ်ကို အခြေခံသော				based on a root belonging to the mental side (neuter sg.)
+SINGLE_NEW	nāmamūlakañceva|0	စိတ်ပိုင်း၏ အမြစ်ကို အခြေခံသော				based on a root belonging to the mental side (neuter sg., with ceva)
+SINGLE_NEW	nāmamūlamūlakāti|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root belonging to the mental side (nominative pl., quoted with iti)
+SINGLE_NEW	nāmamūlamūlakaṃ|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root belonging to the mental side (neuter sg.)
+SINGLE_NEW	nāmamūlamūlakañceva|0	စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်ကို အခြေခံသော				based on the root of a root belonging to the mental side (neuter sg., with ceva)
+SINGLE_NEW	mūlavāraniddeso|0	အမြစ်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်				the detailed part of a section
+SINGLE_NEW	kusalahetūti|0	ကုသိုလ်၏ အကြောင်း				the wholesome roots, here 'having the skilful as cause', the second of ten synonyms for a root (nominative pl., quoted with iti)
+SINGLE_NEW	nāmappabhavā|0	စိတ်ပိုင်း၏ ပေါ်ထွက်ရာ				the fifth of ten synonyms for a root
+SINGLE_SAME	bhagavato|0	မြတ်စွာဘုရား	မြတ်စွာဘုရား	tag	pi-5 bhagavato|0	of the Blessed One, the Lord (genitive sg.)
+SINGLE_NEW	nāmahetū|0	စိတ်ပိုင်း၏ အကြောင်း				the second of ten synonyms for a root
+SINGLE_DIFF_ABSENT	nāmapaccayā|0	စိတ်ပိုင်း၏ အထောက်အပံ့	စိတ်ပိုင်းကြောင့်	TAGDIFF	pi-2 nāmapaccayā|0	conditioned by mentality (ablative), here the predicate 'having mentality as support', the ninth of the ten synonyms for a root in the hetuvāra (nominative pl.)
+SINGLE_NEW	niddesavāro|0	အကျယ် ဖော်ပြချက်				the detailed part of a section
+SINGLE_SAME	sammāsambuddhassa|0	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်	tag	pi-5 sammāsambuddhassa|0	of the perfectly self-awakened Buddha (genitive sg.)
+SINGLE_NEW	nāmasambhavā|0	စိတ်ပိုင်း၏ ဖြစ်တည်ရာ				the fourth of ten synonyms for a root
+SINGLE_SAME	namo|0	ရှိခိုးသည်	ရှိခိုးသည်	tag	pi-5 namo|0	homage, reverence (nominative sg.)
+SINGLE_NEW	nāmāhārā|0	စိတ်ပိုင်း၏ အာဟာရ				the seventh of ten synonyms for a root
+SINGLE_NEW	nāmārammaṇā|0	စိတ်ပိုင်း၏ အာရုံ				the eighth of ten synonyms for a root
+SINGLE_NEW	nāmasamudayā|0	စိတ်ပိုင်း၏ ဖြစ်ပေါ်ခြင်း				the tenth of ten synonyms for a root
+SINGLE_NEW	mūlayamakapāḷi|0	အမြစ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on roots
+SINGLE_NEW	nāmasamuṭṭhānā|0	စိတ်ပိုင်း၏ ဖြစ်ပေါ်လာရာ				the sixth of ten synonyms for a root
+SINGLE_NEW	nāmanidānā|0	စိတ်ပိုင်း၏ ဇာစ်မြစ်				the third of ten synonyms for a root
+SINGLE_SAME	arahato|0	ရဟန္တာ	ရဟန္တာ	tag	pi-5 arahato|0	of the worthy one, the arahant (genitive sg.)
+SINGLE_NEW	khandhayamakaṃ|0	အစုအဝေးများကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the aggregates
+SINGLE_SAME	viññāṇakkhandho|0	သိစိတ် အစုအဝေး	သိစိတ် အစုအဝေး	tag	pi-5 viññāṇakkhandho|0	the aggregate of consciousness (nominative sg.)
+SINGLE_SAME	vedanākkhandho|0	ခံစားမှု အစုအဝေး	ခံစားမှု အစုအဝေး	tag-ci	pi-5 Vedanākkhandho|0	the aggregate of feeling (nominative sg.)
+SINGLE_SAME	rūpakkhandho|0	ရုပ် အစုအဝေး	ရုပ် အစုအဝေး	tag	pi-5 rūpakkhandho|0	the aggregate of material form (nominative sg.)
+SINGLE_SAME	saṅkhārakkhandho|0	ပြုပြင်ဖန်တီးမှု အစုအဝေး	ပြုပြင်ဖန်တီးမှု အစုအဝေး	tag	pi-3 saṅkhārakkhandho|0	the aggregate of mental formations (nominative sg.)
+SINGLE_SAME	saññākkhandho|0	မှတ်သိမှု အစုအဝေး	မှတ်သိမှု အစုအဝေး	tag	pi-5 saññākkhandho|0	the aggregate of perception (nominative sg.)
+SINGLE_NEW	pañcakkhandhā|0	အစုအဝေး ငါးပါး				the five groups of existence as a category
+SINGLE_NEW	paṇṇattivāro|0	သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်				the part of a chapter dealing with terms
+SINGLE_SAME	viññāṇaṃ|0	သိစိတ်	သိစိတ်	tag	pi-5 viññāṇaṃ|0	consciousness, knowing (nominative sg.)
+SINGLE_SAME	vedanā|0	ခံစားမှု	ခံစားမှု	tag	pi-5 vedanā|0	feeling, the affective tone of experience (nominative sg.)
+SINGLE_SAME	saṅkhārā|0	ပြုပြင်ဖန်တီးမှု	ပြုပြင်ဖန်တီးမှု	tag	pi-5 saṅkhārā|0	mental formations, volitional activities (nominative pl.)
+SINGLE_SAME	saññā|0	မှတ်သိမှု	မှတ်သိမှု	tag	pi-5 saññā|0	perception, recognition (nominative sg.)
+SINGLE_NEW	padasodhanavāro|0	စကားလုံးကို စိစစ်ခြင်း ဖော်ပြချက်				heading for the section that examines each term
+SINGLE_DIFF_ABSENT	anulomaṃ|0	အဟုတ်ပြ ပုံစံ	အစဉ်အတိုင်း	TAGDIFF	pi-5 anulomaṃ|0	the affirmative form of the paired questions, in the headings of each section (heading member)
+SINGLE_DIFF_ABSENT	paccanīkaṃ|0	အငြင်းပြ ပုံစံ	ပြောင်းပြန်	TAGDIFF	pi-5 paccanīkaṃ|0	the negated form of the paired questions, in the headings of each section (heading member)
+SINGLE_NEW	padasodhanamūlacakkavāro|0	စကားလုံးကို စိစစ်ခြင်းကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for the cycle that examines each term
+SINGLE_SAME	khandhā|0	အစုအဝေး	အစုအဝေး	tag	pi-5 khandhā|0	aggregates, groups of phenomena (nominative pl.)
+SINGLE_NEW	suddhakhandhavāro|0	ရိုးရိုး အစုအဝေး ဖော်ပြချက်				heading: the section on the aggregates alone
+SINGLE_NEW	suddhakhandhamūlacakkavāro|0	ရိုးရိုး အစုအဝေးကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_NEW	paṇṇattivāraniddesa|0	သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်				the part of a chapter dealing with terms
+SINGLE_NEW	uppādavāro|0	ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်				the process or section of coming into being
+SINGLE_NEW	pavattivāro|0	ဖြစ်ပျက်ခြင်းအလိုက် ဖော်ပြချက်				the going-on of existence, as a section heading
+SINGLE_NEW	anulomapuggalo|0	ပုဂ္ဂိုလ်အလိုက် အဟုတ်ပြ ပုံစံ				subheading: affirmative questions about persons
+SINGLE_NEW	anulomaokāso|0	နေရာအလိုက် အဟုတ်ပြ ပုံစံ				subheading: affirmative questions about places
+SINGLE_NEW	anulomapuggalokāsā|0	ပုဂ္ဂိုလ်နှင့် နေရာအလိုက် အဟုတ်ပြ ပုံစံ				questions about both an individual and a plane
+SINGLE_NEW	paccanīkapuggalo|0	ပုဂ္ဂိုလ်အလိုက် အငြင်းပြ ပုံစံ				subheading: negated questions about persons
+SINGLE_NEW	paccanīkaokāso|0	နေရာအလိုက် အငြင်းပြ ပုံစံ				subheading: negated questions about places
+SINGLE_NEW	paccanīkapuggalokāsā|0	ပုဂ္ဂိုလ်နှင့် နေရာအလိုက် အငြင်းပြ ပုံစံ				questions about both an individual and a plane
+SINGLE_SAME	khandho|0	အစုအဝေး	အစုအဝေး	tag	pi-5 khandho|0	aggregate, group of phenomena (nominative sg.)
+SINGLE_NEW	atītānāgatavāro|0	အတိတ်နှင့် အနာဂတ်အလိုက် ဖော်ပြချက်				the section combining past and future
+SINGLE_NEW	nirodhavāro|0	ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				stopping, as a topic or section heading
+SINGLE_NEW	pavatti|0	ဖြစ်ပျက်ခြင်း				the going-on of existence, as a section heading
+SINGLE_NEW	paṇṇattiuddesavāro|0	သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျဉ်း ဖော်ပြချက်				the part of a chapter dealing with terms
+SINGLE_NEW	uppādanirodhavāro|0	ဖြစ်ပေါ်ခြင်းနှင့် ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				heading: the section on arising and ceasing
+SINGLE_NEW	viññāṇakkhandhoti|0	သိစိတ် အစုအဝေး				the consciousness group among the five
+SINGLE_NEW	vedanākkhandhoti|0	ခံစားမှု အစုအဝေး				the feeling group among the five
+SINGLE_NEW	rūpakkhandhoti|0	ရုပ် အစုအဝေး				the physical group among the five
+SINGLE_NEW	saṅkhārakkhandhoti|0	ပြုပြင်ဖန်တီးမှု အစုအဝေး				the volitional group among the five
+SINGLE_NEW	saṅkhārakkhandhaṃ|0	ပြုပြင်ဖန်တီးမှု အစုအဝေး				the volitional group among the five
+SINGLE_NEW	saññākkhandhoti|0	မှတ်သိမှု အစုအဝေး				the perception group among the five
+SINGLE_SAME	ṭhapetvā|0	ချန်ထား၍	ချန်ထား၍	tag	pi-5 ṭhapetvā|0	leaving aside, excepting (absolutive)
+SINGLE_NEW	viññāṇanti|0	သိစိတ်				mind as the knowing of an object
+SINGLE_NEW	vedanāti|0	ခံစားမှု				the experience of pleasant, painful or neutral tone
+SINGLE_NEW	rūpañceva|0	ရုပ်				the physical aspect of existence
+SINGLE_NEW	rūpanti|0	ရုပ်				the physical aspect of existence
+SINGLE_NEW	saṅkhārāti|0	ပြုပြင်ဖန်တီးမှု				the volitional group or conditioned things generally
+SINGLE_NEW	diṭṭhisaññā|0	အယူ ဖြစ်သော မှတ်သိမှု				perception in the sense of a view, a view or opinion taken as a perception (ch. 2)
+SINGLE_NEW	saññāti|0	မှတ်သိမှု				recognizing and labelling an object
+SINGLE_NEW	rūpakkhandhañca|0	ရုပ် အစုအဝေး				the physical group among the five
+SINGLE_NEW	saṅkhārakkhandhañca|0	ပြုပြင်ဖန်တီးမှု အစုအဝေး				the volitional group among the five
+SINGLE_NEW	saññākkhandhañca|0	မှတ်သိမှု အစုအဝေး				the perception group among the five
+SINGLE_SAME	rūpañca|0	ရုပ်	ရုပ်	tag	pi-1 rūpañca|0	matter, material form (nominative sg.)
+SINGLE_SAME	saṅkhāre|0	ပြုပြင်ဖန်တီးမှု	ပြုပြင်ဖန်တီးမှု	tag	pi-5 saṅkhāre|0	mental formations, volitional activities (accusative pl.)
+SINGLE_NEW	saññañca|0	မှတ်သိမှု				recognizing and labelling an object
+SINGLE_NEW	avasesā khandhā|0	ကြွင်းကျန်သော အစုအဝေး				the other aggregates after one is set aside
+SINGLE_NEW	pariññāvāro|0	ပိုင်းခြား သိခြင်းအလိုက် ဖော်ပြချက်				the section on knowing thoroughly
+SINGLE_NEW	khandhoti|0	အစုအဝေး				the five groups of existence as a category
+SINGLE_SAME	khandhe|0	အစုအဝေး	အစုအဝေး	tag	pi-5 khandhe|0	the groups (accusative pl. or locative)
+SINGLE_DIFF_ABSENT	viññāṇañca|0	သိစိတ်	အဆုံး မရှိသော သိစိတ်	TAGDIFF	pi-5 viññāṇañca|0	consciousness, knowing, viññāṇaṃ with ca (nominative sg.)
+SINGLE_SAME	vedanaṃ|0	ခံစားမှု	ခံစားမှု	tag	pi-5 vedanaṃ|0	feeling, the affective tone of experience (accusative sg.)
+SINGLE_NEW	vedanañca|0	ခံစားမှု				the experience of pleasant, painful or neutral tone
+SINGLE_SAME	saññaṃ|0	မှတ်သိမှု	မှတ်သိမှု	tag	pi-5 saññaṃ|0	perception, recognition (accusative sg.)
+SINGLE_NEW	paṇṇattiniddesavāro|0	သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်၏ အကျယ် ဖော်ပြချက်				the part of a chapter dealing with terms
+SINGLE_SAME	uppajjati|0	ဖြစ်ပေါ်သည်	ဖြစ်ပေါ်သည်	tag	pi-5 uppajjati|0	arises, comes into being (3rd sg. present)
+SINGLE_NEW	uppajjatīti|0	ဖြစ်ပေါ်သည်				coming into being (verb, present or future)
+SINGLE_NEW	pañcavokāraṃ|0	အစုအဝေး ငါးပါး ရှိသော ဘဝ				existence with all five groups
+SINGLE_DIFF	arūpaṃ|0	ရုပ်မရှိသော ဘုံ	ရုပ် မဟုတ်သော	TAGDIFF	pi-5 arūpaṃ|0	the immaterial plane, existence without material form (accusative sg.)
+SINGLE_NEW	asaññasattaṃ|0	အသညသတ် ဘုံ				non-percipient beings and their plane
+MULTI_NEW	upapajjantānaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ / ပြန်လည် ဖြစ်ပေါ်ဆဲ				entering a new existence (verb or participle)
+SINGLE_NEW	pañcavokāre|0	အစုအဝေး ငါးပါး ရှိသော ဘဝ				existence with all five groups
+SINGLE_SAME	arūpe|0	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဘုံ	tag-ci	pi-5 Arūpe|0	in the immaterial (spheres) (locative)
+SINGLE_NEW	asaññasatte|0	အသညသတ် ဘုံ				non-percipient beings and their plane
+SINGLE_NEW	nuppajjati|0	မဖြစ်ပေါ်				does not come into being (negated, 3rd sg. present)
+SINGLE_NEW	nuppajjatīti|0	မဖြစ်ပေါ်				does not come into being (negated, present, quoted with iti)
+SINGLE_NEW	cavantānaṃ|0	စုတေဆဲသူ				dying, leaving a state of existence
+SINGLE_NEW	uppajjittha|0	ဖြစ်ပေါ်ခဲ့သည်				having come into being (past or completed)
+SINGLE_NEW	uppajjitthāti|0	ဖြစ်ပေါ်ခဲ့သည်				having come into being (past or completed)
+MULTI_NEW	pañcavokārānaṃ|0	အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသော / အစုအဝေး ငါးပါး ရှိသော ဘဝ၌ ရှိသူ				of beings in the existence with all five aggregates (genitive pl.)
+SINGLE_NEW	arūpānaṃ|0	ရုပ်မရှိသော ဘုံ၌ ရှိသူ				of beings in the immaterial plane (genitive pl.)
+SINGLE_SAME	asaññasattānaṃ|0	အသညသတ်	အသညသတ်	tag	pi-2 asaññasattānaṃ|0	of beings without perception (genitive pl.)
+SINGLE_NEW	nuppajjittha|0	မဖြစ်ပေါ်ခဲ့				did not come into being (negated, past)
+SINGLE_NEW	nuppajjitthāti|0	မဖြစ်ပေါ်ခဲ့				did not come into being (negated, past, quoted with iti)
+SINGLE_SAME	natthi|0	မရှိသည်	မရှိသည်	tag	pi-5 natthi|0	there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present)
+SINGLE_NEW	suddhāvāsānaṃ|0	သုဒ္ဓါဝါသ ဘုံ၌ ရှိသူ				of beings in the Pure Abodes, the highest fine-material planes of non-returners (genitive pl.)
+MULTI_IN	uppajjissati|0	ဖြစ်ပေါ်လိမ့်မည် / ဖြစ်ပေါ်မည့်	ဖြစ်ပေါ်လိမ့်မည်	tag-ci	pi-5 Uppajjissati|0	will arise, will come into being (3rd sg. future)
+SINGLE_NEW	uppajjissatīti|0	ဖြစ်ပေါ်လိမ့်မည်				coming into being (verb, present or future)
+SINGLE_NEW	parinibbāyissanti|0	ပရိနိဗ္ဗာန် ပြုမည့်				will attain final nibbāna, passing away without rebirth (3rd pl. future)
+MULTI_NEW	itaresaṃ|0	အခြားသူ / အခြား				those not yet mentioned in a passage
+SINGLE_NEW	upapajjitvā|0	ပြန်လည် ဖြစ်ပေါ်၍				entering a new existence (verb or participle)
+SINGLE_NEW	nuppajjissati|0	မဖြစ်ပေါ်လိမ့်မည်				will not come into being (negated, future)
+SINGLE_NEW	nuppajjissatīti|0	မဖြစ်ပေါ်လိမ့်မည်				will not come into being (negated, future, quoted with iti)
+MULTI_NEW	pacchimabhavikānaṃ|0	နောက်ဆုံး ဘဝ ရှိသူ / နောက်ဆုံး ဘဝ ရှိသော				of those in their last existence, also fused with upapajjantānaṃ as 'taking their last birth' (genitive pl.)
+SINGLE_NEW	pañcavokārā|0	အစုအဝေး ငါးပါး ရှိသော ဘဝ				existence with all five groups
+SINGLE_NEW	suddhāvāsaṃ|0	သုဒ္ဓါဝါသ ဘုံ				the highest fine-material planes of non-returners
+SINGLE_NEW	parinibbantānaṃ|0	ပရိနိဗ္ဗာန် ပြုဆဲသူ				reaching complete liberation at death
+SINGLE_NEW	asaññasattā|0	အသညသတ် ဘုံ				non-percipient beings and their plane
+SINGLE_NEW	suddhāvāse|0	သုဒ္ဓါဝါသ ဘုံ				the highest fine-material planes of non-returners
+SINGLE_SAME	nirujjhati|0	ချုပ်ငြိမ်းသည်	ချုပ်ငြိမ်းသည်	tag	pi-5 nirujjhati|0	ceases, comes to an end (3rd sg. present)
+SINGLE_NEW	nirujjhatīti|0	ချုပ်ငြိမ်းသည်				coming to an end (verb, present or future)
+SINGLE_DIFF	arūpā|0	ရုပ်မရှိသော ဘုံ	ရုပ် မဟုတ်သော	TAGDIFF	pi-2 arūpā|0	from the immaterial plane, in 'Arūpā cavantānaṃ' (ablative sg.)
+SINGLE_NEW	nirujjhittha|0	ချုပ်ငြိမ်းခဲ့သည်				having come to an end (past or completed)
+SINGLE_NEW	nirujjhitthāti|0	ချုပ်ငြိမ်းခဲ့သည်				having come to an end (past or completed)
+SINGLE_NEW	nirujjhissati|0	ချုပ်ငြိမ်းလိမ့်မည်				coming to an end (verb, present or future)
+SINGLE_NEW	nirujjhissatīti|0	ချုပ်ငြိမ်းလိမ့်မည်				coming to an end (verb, present or future)
+SINGLE_DIFF	yattha|0	အကြင်နေရာ	အကြင်	tag	pi-5 yattha|0	where, in which places (relative adverb)
+SINGLE_NEW	yatthakaṃ|0	အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	vadanākkhandho|0	ခံစားမှု အစုအဝေး				the feeling group among the five
+SINGLE_NEW	uppādavāre|0	ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်				the process or section of coming into being
+SINGLE_SAME	vedanākkhandhaṃ|0	ခံစားမှု အစုအဝေး	ခံစားမှု အစုအဝေး	tag	pi-1 vedanākkhandhaṃ|0	the aggregate of feeling (accusative sg.)
+SINGLE_NEW	rūpakkhandhaṃ|0	ရုပ် အစုအဝေး				the physical group among the five
+SINGLE_SAME	parijānāti|0	ပိုင်းခြား သိသည်	ပိုင်းခြား သိသည်	tag	pi-5 parijānāti|0	comprehends fully (3rd sg. present)
+SINGLE_NEW	parijānātīti|0	ပိုင်းခြား သိသည်				knowing a thing thoroughly (verb, present or future)
+SINGLE_NEW	parijānittha|0	ပိုင်းခြား သိခဲ့သည်				having known a thing thoroughly
+SINGLE_NEW	parijānitthāti|0	ပိုင်းခြား သိခဲ့သည်				having known a thing thoroughly
+SINGLE_NEW	parijānissati|0	ပိုင်းခြား သိလိမ့်မည်				knowing a thing thoroughly (verb, present or future)
+SINGLE_NEW	parijānissatīti|0	ပိုင်းခြား သိလိမ့်မည်				knowing a thing thoroughly (verb, present or future)
+SINGLE_NEW	vedanākkhandhañca|0	ခံစားမှု အစုအဝေး				the feeling group among the five
+SINGLE_SAME	arahā|0	ရဟန္တာ	ရဟန္တာ	tag	pi-5 arahā|0	the perfected one (nominative sg.)
+SINGLE_NEW	arahantañca|0	ရဟန္တာ				one who has completed the path, free of all defilements
+SINGLE_NEW	parijānanti|0	ပိုင်းခြား သိသည်				knowing a thing thoroughly (verb, present or future)
+SINGLE_NEW	aggamaggasamaṅgiñca|0	အမြတ်ဆုံး မဂ်နှင့် ပြည့်စုံသူ				one possessed of the highest path (accusative, with ca)
+SINGLE_NEW	aggamaggasamaṅgī|0	အမြတ်ဆုံး မဂ်နှင့် ပြည့်စုံသူ				one possessed of the highest path, the path of arahantship (nominative)
+SINGLE_SAME	puggalā|0	ပုဂ္ဂိုလ်	ပုဂ္ဂိုလ်	tag	pi-5 puggalā|0	persons, individuals (nominative pl.)
+SINGLE_NEW	maggaṃ paṭilabhissanti|0	မဂ်ကို ရရှိမည့်				going to reach the noble path
+SINGLE_NEW	paṭilabhissanti|0	ရရှိမည့်				going to reach the noble path
+SINGLE_NEW	parijānissanti|0	ပိုင်းခြား သိလိမ့်မည်				knowing a thing thoroughly (verb, present or future)
+SINGLE_NEW	puthujjanā|0	ပုထုဇဉ်				unenlightened people as a group
+SINGLE_NEW	khandhayamakapāḷi|0	အစုအဝေးများကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the aggregates (colophon)
+SINGLE_NEW	āyatanayamakaṃ|0	အာရုံခံ နယ်ပယ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on sense bases
+SINGLE_SAME	kāyāyatanaṃ|0	ကိုယ် အာရုံခံ နယ်ပယ်	ကိုယ် အာရုံခံ နယ်ပယ်	tag	pi-5 kāyāyatanaṃ|0	the body sense base (nominative sg.)
+SINGLE_SAME	sotāyatanaṃ|0	နား အာရုံခံ နယ်ပယ်	နား အာရုံခံ နယ်ပယ်	tag	pi-5 sotāyatanaṃ|0	the ear sense base (nominative sg.)
+SINGLE_SAME	cakkhāyatanaṃ|0	မျက်စိ အာရုံခံ နယ်ပယ်	မျက်စိ အာရုံခံ နယ်ပယ်	tag	pi-5 cakkhāyatanaṃ|0	the eye sense base (nominative sg.)
+SINGLE_SAME	dhammāyatanaṃ|0	သဘောတရား အာရုံခံ နယ်ပယ်	သဘောတရား အာရုံခံ နယ်ပယ်	tag	pi-5 dhammāyatanaṃ|0	the sense base of mind-objects (nominative sg.)
+SINGLE_SAME	manāyatanaṃ|0	မနော အာရုံခံ နယ်ပယ်	မနော အာရုံခံ နယ်ပယ်	tag	pi-5 manāyatanaṃ|0	the mind sense base (nominative sg.)
+SINGLE_SAME	ghānāyatanaṃ|0	နှာခေါင်း အာရုံခံ နယ်ပယ်	နှာခေါင်း အာရုံခံ နယ်ပယ်	tag	pi-5 ghānāyatanaṃ|0	the nose sense base (nominative sg.)
+SINGLE_SAME	gandhāyatanaṃ|0	အနံ့ အာရုံခံ နယ်ပယ်	အနံ့ အာရုံခံ နယ်ပယ်	tag	pi-5 gandhāyatanaṃ|0	the smell sense base (nominative sg.)
+SINGLE_SAME	saddāyatanaṃ|0	အသံ အာရုံခံ နယ်ပယ်	အသံ အာရုံခံ နယ်ပယ်	tag	pi-5 saddāyatanaṃ|0	the sound sense base (nominative sg.)
+SINGLE_SAME	rasāyatanaṃ|0	အရသာ အာရုံခံ နယ်ပယ်	အရသာ အာရုံခံ နယ်ပယ်	tag	pi-5 rasāyatanaṃ|0	the taste sense base (nominative sg.)
+SINGLE_SAME	jivhāyatanaṃ|0	လျှာ အာရုံခံ နယ်ပယ်	လျှာ အာရုံခံ နယ်ပယ်	tag	pi-5 jivhāyatanaṃ|0	the tongue sense base (nominative sg.)
+SINGLE_SAME	phoṭṭhabbāyatanaṃ|0	အထိအတွေ့ အာရုံခံ နယ်ပယ်	အထိအတွေ့ အာရုံခံ နယ်ပယ်	tag	pi-5 phoṭṭhabbāyatanaṃ|0	the tangible sense base, base of the touchable (nominative sg.)
+SINGLE_SAME	rūpāyatanaṃ|0	အဆင်းအရောင် အာရုံခံ နယ်ပယ်	အဆင်းအရောင် အာရုံခံ နယ်ပယ်	tag	pi-5 rūpāyatanaṃ|0	the visible-form sense base, the object of the eye (nominative sg.)
+SINGLE_SAME	kāyo|0	ကိုယ်	ကိုယ်	tag	pi-5 kāyo|0	the physical body, or bodily (nominative sg.)
+SINGLE_SAME	sotaṃ|0	နား	နား	tag	pi-5 sotaṃ|0	the ear, the hearing organ (accusative sg.)
+SINGLE_SAME	cakkhu|0	မျက်စိ	မျက်စိ	tag	pi-5 cakkhu|0	the eye, the seeing organ (stem and nominative)
+SINGLE_SAME	mano|0	မနော	မနော	tag	pi-5 mano|0	mind, the thinking faculty, also adjectival 'mental' in compounds
+SINGLE_SAME	ghānaṃ|0	နှာခေါင်း	နှာခေါင်း	tag	pi-5 ghānaṃ|0	the nose, the smelling organ (accusative sg.)
+SINGLE_SAME	gandho|0	အနံ့	အနံ့	tag	pi-2 gandho|0	smell, odour as object (nominative sg.)
+SINGLE_SAME	saddo|0	အသံ	အသံ	tag	pi-5 saddo|0	sound as object, what is heard (nominative sg.)
+SINGLE_SAME	raso|0	အရသာ	အရသာ	tag	pi-2 raso|0	taste, flavour as object (nominative sg.)
+SINGLE_SAME	jivhā|0	လျှာ	လျှာ	tag	pi-5 jivhā|0	the tongue, the tasting organ (stem and nominative)
+SINGLE_SAME	phoṭṭhabbo|0	အထိအတွေ့	အထိအတွေ့	tag	pi-1 phoṭṭhabbo|0	tangible object, what is touched (nominative sg.)
+SINGLE_DIFF_ABSENT	cakkaṃ|0	လှည့်ပတ်ခြင်း	စကြာ	TAGDIFF	pi-5 cakkaṃ|0	the cycle, the round of questions repeated with each term (heading member)
+SINGLE_SAME	āyatanā|0	အာရုံခံ နယ်ပယ်	အာရုံခံ နယ်ပယ်	tag	pi-5 āyatanā|0	sense bases, the sense fields (nominative pl.)
+SINGLE_NEW	suddhāyatanavāro|0	ရိုးရိုး အာရုံခံ နယ်ပယ် ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	nāyatanā|0	အာရုံခံ နယ်ပယ် … မဟုတ်သော				the twelve sense bases as a category
+SINGLE_NEW	suddhāyatanamūlacakkavāro|0	ရိုးရိုး အာရုံခံ နယ်ပယ်ကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_SAME	āyatanaṃ|0	အာရုံခံ နယ်ပယ်	အာရုံခံ နယ်ပယ်	tag	pi-5 āyatanaṃ|0	sense base, the sense field (nominative/accusative sg.)
+SINGLE_NEW	nāyatanaṃ|0	အာရုံခံ နယ်ပယ် မဟုတ်				the twelve sense bases as a category
+SINGLE_NEW	kāyoti|0	ကိုယ်				the physical body or a collection called body
+SINGLE_NEW	kāyāyatananti|0	ကိုယ် အာရုံခံ နယ်ပယ်				sense base of bodily contact
+SINGLE_NEW	kāyāyatanañca|0	ကိုယ် အာရုံခံ နယ်ပယ်				sense base of bodily contact
+SINGLE_NEW	samādhigandho|0	သမာဓိ၏ အနံ့				the fragrance of concentration (figurative)
+SINGLE_NEW	taṇhāsotaṃ|0	တပ်မက်မှု ရေစီး				craving seen as a flowing current
+SINGLE_SAME	dibbasotaṃ|0	နတ်နား	နတ်နား	tag	pi-5 dibbasotaṃ|0	the heavenly ear, supernormal hearing (accusative sg.)
+SINGLE_SAME	dibbacakkhu|0	နတ်မျက်စိ	နတ်မျက်စိ	tag	pi-5 dibbacakkhu|0	the heavenly eye, clairvoyance
+SINGLE_NEW	sotañceva|0	နား				the organ of hearing
+SINGLE_NEW	sotanti|0	နား				the organ of hearing
+SINGLE_NEW	sotāyatananti|0	နား အာရုံခံ နယ်ပယ်				sense base of hearing
+SINGLE_NEW	sotāyatanañca|0	နား အာရုံခံ နယ်ပယ်				sense base of hearing
+SINGLE_NEW	cakkhāyatananti|0	မျက်စိ အာရုံခံ နယ်ပယ်				sense base of sight
+SINGLE_NEW	cakkhāyatanañca|0	မျက်စိ အာရုံခံ နယ်ပယ်				sense base of sight
+SINGLE_NEW	paññācakkhu|0	ပညာမျက်စိ				sight in the figurative sense of understanding
+SINGLE_NEW	cakkhūti|0	မျက်စိ				the organ of sight
+SINGLE_NEW	dhammāyatananti|0	သဘောတရား အာရုံခံ နယ်ပယ်				sense base of objects of thought
+SINGLE_NEW	dhammāyatanañca|0	သဘောတရား အာရုံခံ နယ်ပယ်				sense base of objects of thought
+SINGLE_NEW	manoti|0	မနော				the knowing faculty in general
+SINGLE_NEW	manāyatananti|0	မနော အာရုံခံ နယ်ပယ်				sense base of thought
+SINGLE_NEW	ghānanti|0	နှာခေါင်း				the organ of smell
+SINGLE_NEW	ghānāyatananti|0	နှာခေါင်း အာရုံခံ နယ်ပယ်				sense base of smell
+SINGLE_NEW	gandhāyatananti|0	အနံ့ အာရုံခံ နယ်ပယ်				sense base of smell objects
+SINGLE_NEW	gandhāyatanañca|0	အနံ့ အာရုံခံ နယ်ပယ်				sense base of smell objects
+SINGLE_NEW	sīlagandho|0	သီလ၏ အနံ့				the fragrance of virtue (figurative)
+SINGLE_NEW	paññāgandho|0	ပညာ၏ အနံ့				the fragrance of wisdom (figurative)
+SINGLE_NEW	gandhoti|0	အနံ့				odour, or figuratively a fragrance of virtue
+SINGLE_NEW	saddoti|0	အသံ				audible noise as an object
+SINGLE_NEW	saddāyatananti|0	အသံ အာရုံခံ နယ်ပယ်				sense base of sound objects
+SINGLE_NEW	rasāyatananti|0	အရသာ အာရုံခံ နယ်ပယ်				sense base of flavour objects
+SINGLE_NEW	rasāyatanañca|0	အရသာ အာရုံခံ နယ်ပယ်				sense base of flavour objects
+SINGLE_NEW	attharaso|0	အနက်၏ အရသာ				the taste of meaning (figurative)
+SINGLE_NEW	dhammaraso|0	တရား၏ အရသာ				the taste of the teaching (figurative)
+SINGLE_NEW	vimuttiraso|0	လွတ်မြောက်မှု၏ အရသာ				the taste of liberation (figurative)
+SINGLE_NEW	rasoti|0	အရသာ				flavour, or figuratively the flavour of meaning
+SINGLE_NEW	jivhāti|0	လျှာ				the organ of taste
+SINGLE_NEW	jivhāyatananti|0	လျှာ အာရုံခံ နယ်ပယ်				sense base of taste
+SINGLE_NEW	phoṭṭhabboti|0	အထိအတွေ့				tangible contact as an object
+SINGLE_NEW	phoṭṭhabbāyatananti|0	အထိအတွေ့ အာရုံခံ နယ်ပယ်				sense base of tangible objects
+SINGLE_NEW	rūpāyatananti|0	အဆင်းအရောင် အာရုံခံ နယ်ပယ်				sense base of sights
+SINGLE_NEW	rūpāyatanañca|0	အဆင်းအရောင် အာရုံခံ နယ်ပယ်				sense base of sights
+SINGLE_NEW	kāyañca|0	ကိုယ်				the physical body or a collection called body
+SINGLE_NEW	sotañca|0	နား				the organ of hearing
+SINGLE_NEW	cakkhuñca|0	မျက်စိ				the organ of sight
+SINGLE_NEW	gandhañca|0	အနံ့				odour, or figuratively a fragrance of virtue
+SINGLE_NEW	rasañca|0	အရသာ				flavour, or figuratively the flavour of meaning
+SINGLE_NEW	manāyatanañca|0	မနော အာရုံခံ နယ်ပယ်				sense base of thought
+SINGLE_SAME	avaseso|0	ကြွင်းကျန်သော	ကြွင်းကျန်သော	tag	pi-5 avaseso|0	the remaining, the rest (masculine sg.)
+SINGLE_NEW	āyatanañceva|0	အာရုံခံ နယ်ပယ်				the twelve sense bases as a category
+SINGLE_NEW	sotāyananti|0	နား အာရုံခံ နယ်ပယ်				sense base of hearing
+SINGLE_NEW	āyatananti|0	အာရုံခံ နယ်ပယ်				the twelve sense bases as a category
+SINGLE_SAME	cakkhuṃ|0	မျက်စိ	မျက်စိ	tag	pi-5 cakkhuṃ|0	the eye, the seeing organ (accusative sg.)
+SINGLE_SAME	manaṃ|0	မနော	မနော	tag	pi-5 manaṃ|0	the mind (accusative)
+SINGLE_NEW	manañca|0	မနော				the knowing faculty in general
+SINGLE_SAME	gandhaṃ|0	အနံ့	အနံ့	tag	pi-5 gandhaṃ|0	smell, odour as object (accusative sg.)
+SINGLE_NEW	nāyatananti|0	အာရုံခံ နယ်ပယ် မဟုတ်				the twelve sense bases as a category
+SINGLE_NEW	āyatanañca|0	အာရုံခံ နယ်ပယ်				the twelve sense bases as a category
+SINGLE_SAME	saddaṃ|0	အသံ	အသံ	tag	pi-5 saddaṃ|0	sound as object, what is heard (accusative sg.)
+SINGLE_SAME	rasaṃ|0	အရသာ	အရသာ	tag	pi-5 rasaṃ|0	taste, flavour as object (accusative sg.)
+SINGLE_SAME	jivhaṃ|0	လျှာ	လျှာ	tag	pi-5 jivhaṃ|0	the tongue, the tasting organ (accusative sg.)
+SINGLE_SAME	phoṭṭhabbaṃ|0	အထိအတွေ့	အထိအတွေ့	tag	pi-5 phoṭṭhabbaṃ|0	tangible object, what is touched (accusative sg.)
+SINGLE_NEW	asotakānaṃ|0	နား မရှိသော				of those lacking the ear (genitive pl.)
+SINGLE_NEW	sasotakānaṃ|0	နား ရှိသော				of those having the ear (genitive pl.)
+SINGLE_NEW	cakkhāyatanamūlakaṃ|0	မျက်စိ အာရုံခံ နယ်ပယ်ကို အခြေခံသော				based on the eye base, a cycle tag (neuter sg.)
+SINGLE_NEW	sacakkhukānaṃ|0	မျက်စိ ရှိသော				of those having the eye (genitive pl.)
+SINGLE_NEW	acakkhukānaṃ|0	မျက်စိ မရှိသော				of those lacking the eye (genitive pl.)
+SINGLE_NEW	ghānāyatanañca|0	နှာခေါင်း အာရုံခံ နယ်ပယ်				sense base of smell
+SINGLE_NEW	ghānāyatanamūlakaṃ|0	နှာခေါင်း အာရုံခံ နယ်ပယ်ကို အခြေခံသော				based on the nose base, a cycle tag (neuter sg.)
+SINGLE_NEW	rūpāyatanamūlakaṃ|0	အဆင်းအရောင် အာရုံခံ နယ်ပယ်ကို အခြေခံသော				based on the visible-form base, a cycle tag (neuter sg.)
+SINGLE_NEW	manāyatanamūlakaṃ|0	မနော အာရုံခံ နယ်ပယ်ကို အခြေခံသော				based on the mind base, a cycle tag (neuter sg.)
+SINGLE_DIFF_ABSENT	rūpāvacare|0	သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-1 rūpāvacare|0	belonging to the fine-material sphere (locative), here the fine-material plane itself, 'in the fine-material plane'
+SINGLE_DIFF	kāmāvacare|0	ကာမဘုံ	ကာမဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-2 kāmāvacare|0	belonging to the sense sphere (locative), here the sense-sphere plane itself, 'in the sense-sphere plane'
+SINGLE_DIFF_ABSENT	arūpāvacare|0	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-1 arūpāvacare|0	belonging to the immaterial sphere (locative), here the immaterial plane itself, 'in the immaterial plane'
+SINGLE_NEW	vārasaṅkhepo|0	ဖော်ပြချက်တို့၌ အကျဉ်း ဖော်ပြထားသည်				editorial note: the sections are abbreviated
+SINGLE_NEW	catuvokāre|0	အစုအဝေး လေးပါး ရှိသော ဘဝ				existence with four groups, without material form
+SINGLE_NEW	yassakasadisaṃ|0	အကြင်သူအား အပိုင်းနှင့် တူညီသည်				like the 'of whom' section, in an abbreviation note
+SINGLE_NEW	paccuppannepi|0	ပစ္စုပ္ပန်				also in the present-tense section (locative, with pi)
+SINGLE_NEW	paccuppannānāgatepi|0	ပစ္စုပ္ပန်နှင့် အနာဂတ်				also in the present-and-future section (locative, with pi)
+SINGLE_NEW	atītepi|0	အတိတ်				also in the past-tense section (locative, with pi)
+SINGLE_NEW	paccuppannātītepi|0	ပစ္စုပ္ပန်နှင့် အတိတ်				also in the present-and-past section (locative, with pi)
+SINGLE_NEW	atītānāgatepi|0	အတိတ်နှင့် အနာဂတ်				also in the past-and-future section (locative, with pi)
+MULTI_NEW	rūpāvacarānaṃ|0	သိမ်မွေ့သော ရုပ်ဘုံ၌ ရှိသူ / သိမ်မွေ့သော ရုပ်ဘုံ … ရှိသူ / သိမ်မွေ့သော ရုပ်ဘုံ … ရှိသော				of beings in the fine-material plane (genitive pl.)
+SINGLE_NEW	kāmāvacarānaṃ|0	ကာမဘုံနှင့် ဆိုင်သော				of those belonging to the sense sphere (genitive pl.), here the adjective of pacchimacitta, 'the last mind of the sense sphere'
+MULTI_NEW	kāmāvacarānaṃ|1	ကာမဘုံ၌ ရှိသူ / ကာမဘုံ၌ ရှိသော				the beings of the sense-sphere plane, those who live there (genitive pl.)
+MULTI_NEW	arūpāvacarānaṃ|0	ရုပ်မရှိသော ဘုံ၌ ရှိသူ / ရုပ်မရှိသော ဘုံ၌ ရှိသော				of beings in the immaterial plane (genitive pl.)
+SINGLE_NEW	uppajjittharūpāyatanañca|0	အဆင်းအရောင် အာရုံခံ နယ်ပယ် … ဖြစ်ပေါ်ခဲ့သည်				'has arisen' run together with 'and the visible-form base' (joined words in the source)
+SINGLE_DIFF_ABSENT	rūpāvacaraṃ|0	သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-5 rūpāvacaraṃ|0	belonging to the fine-material sphere (neuter sg.), here the fine-material plane itself, accusative of the goal, 'reborn in the fine-material plane'
+SINGLE_DIFF_ABSENT	arūpāvacaraṃ|0	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-5 arūpāvacaraṃ|0	belonging to the immaterial sphere (neuter sg.), here the immaterial plane itself, accusative of the goal, 'reborn in the immaterial plane'
+SINGLE_DIFF	kāmāvacaraṃ|0	ကာမဘုံ	ကာမဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-5 Kāmāvacaraṃ|0	belonging to the sense sphere (neuter sg.), here the sense-sphere plane itself, accusative of the goal, 'reborn in the sense-sphere plane'
+SINGLE_DIFF	kāmāvacarā|0	ကာမဘုံ	ကာမဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-5 Kāmāvacarā|0	belonging to the sense sphere (feminine or pl.), here the sense-sphere plane itself, ablative 'from the sense-sphere plane'
+SINGLE_NEW	arūpakānaṃ|0	ရုပ် မရှိသော				of beings without material form (genitive pl.)
+SINGLE_DIFF_ABSENT	rūpāvacarā|0	သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော	TAGDIFF	pi-5 rūpāvacarā|0	belonging to the fine-material sphere (feminine or pl.), here the fine-material plane itself, ablative 'from the fine-material plane'
+SINGLE_NEW	uppādepi|0	ဖြစ်ပေါ်ခြင်း				also in the section on arising (locative, with pi)
+SINGLE_NEW	nirodhepi|0	ချုပ်ငြိမ်းခြင်း				also in the section on ceasing (locative, with pi)
+SINGLE_NEW	uppādanirodhepi|0	ဖြစ်ပေါ်ခြင်းနှင့် ချုပ်ငြိမ်းခြင်း				also in the sections on arising and ceasing together (locative, with pi)
+SINGLE_NEW	yassa yattha|0	အကြင်သူအား အကြင်နေရာ				questions about both an individual and a plane
+SINGLE_NEW	yassa yatthakampi|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်း				questions about both an individual and a plane
+SINGLE_NEW	nirujjhatī|0	ချုပ်ငြိမ်းသည်				coming to an end (verb, present or future)
+SINGLE_NEW	nirodhavārepi|0	ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				stopping, as a topic or section heading
+SINGLE_NEW	uppādanirodhavārepi|0	ဖြစ်ပေါ်ခြင်းနှင့် ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				also in the section on arising and ceasing (locative, with pi)
+SINGLE_NEW	paccanīkampi|0	အငြင်းပြ ပုံစံ				the part of a section with negated questions
+SINGLE_NEW	anulomampi|0	အဟုတ်ပြ ပုံစံ				the part of a section with affirmative questions
+SINGLE_SAME	pucchā|0	အမေး	အမေး	tag	pi-5 pucchā|0	a query put in the debate
+SINGLE_NEW	uppādavārepi|0	ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်				also in the section on arising (locative, with pi)
+SINGLE_NEW	yassa yatthake|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်း				questions about both an individual and a plane
+SINGLE_NEW	parinibbāntānaṃ|0	ပရိနိဗ္ဗာန် ပြုဆဲသူ				reaching complete liberation at death
+SINGLE_NEW	manāyatana|0	မနော အာရုံခံ နယ်ပယ်				sense base of thought
+SINGLE_NEW	yatthakānaṃ|0	အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	vāresu|0	ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	yassayatthakampi|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	yassakampi|0	အကြင်သူအား အပိုင်း				also the 'of whom' part of a section, the questions on individuals (with pi)
+SINGLE_NEW	upapajjissati|0	ဖြစ်ပေါ်လိမ့်မည်				will come into being (3rd sg. future), misspelt in the source for uppajjissati (map-harmonise §A 6)
+SINGLE_NEW	nirodhavāre|0	ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				stopping, as a topic or section heading
+SINGLE_NEW	yatthakampi|0	အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	dhātuyamakaṃ|0	ဓာတ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on elements
+SINGLE_SAME	kāyadhātu|0	ကိုယ် ဓာတ်	ကိုယ် ဓာတ်	tag	pi-3 kāyadhātu|0	the body element (nominative sg.)
+SINGLE_SAME	kāyaviññāṇadhātu|0	ကိုယ် သိစိတ် ဓာတ်	ကိုယ် သိစိတ် ဓာတ်	tag	pi-3 kāyaviññāṇadhātu|0	the body-consciousness element (nominative sg.)
+SINGLE_SAME	sotadhātu|0	နား ဓာတ်	နား ဓာတ်	tag-ci	pi-3 Sotadhātu|0	the ear element (nominative sg.)
+SINGLE_SAME	sotaviññāṇadhātu|0	နား သိစိတ် ဓာတ်	နား သိစိတ် ဓာတ်	tag	pi-3 sotaviññāṇadhātu|0	the ear-consciousness element (nominative sg.)
+SINGLE_SAME	dhātuyo|0	ဓာတ်	ဓာတ်	tag	pi-5 dhātuyo|0	elements, constituents (nominative pl.)
+SINGLE_SAME	jivhādhātu|0	လျှာ ဓာတ်	လျှာ ဓာတ်	tag	pi-3 jivhādhātu|0	the tongue element (nominative sg.)
+SINGLE_SAME	saddadhātu|0	အသံ ဓာတ်	အသံ ဓာတ်	tag	pi-5 saddadhātu|0	the sound element (nominative sg.)
+SINGLE_SAME	phoṭṭhabbadhātu|0	အထိအတွေ့ ဓာတ်	အထိအတွေ့ ဓာတ်	tag	pi-3 phoṭṭhabbadhātu|0	the tangible element, element of the touchable (nominative sg.)
+SINGLE_SAME	cakkhudhātu|0	မျက်စိ ဓာတ်	မျက်စိ ဓာတ်	tag-ci	pi-5 Cakkhudhātu|0	the eye element (nominative sg.)
+SINGLE_SAME	cakkhuviññāṇadhātu|0	မျက်စိ သိစိတ် ဓာတ်	မျက်စိ သိစိတ် ဓာတ်	tag	pi-3 cakkhuviññāṇadhātu|0	the eye-consciousness element (nominative sg.)
+SINGLE_SAME	dhammadhātu|0	သဘောတရား ဓာတ်	သဘောတရား ဓာတ်	tag	pi-5 dhammadhātu|0	the element of mind-objects (nominative sg.)
+SINGLE_SAME	manodhātu|0	မနော ဓာတ်	မနော ဓာတ်	tag	pi-4 manodhātu|0	the mind element (heading and nominative)
+SINGLE_SAME	manoviññāṇadhātu|0	မနော သိစိတ် ဓာတ်	မနော သိစိတ် ဓာတ်	tag	pi-3 manoviññāṇadhātu|0	the element of mind-consciousness (nominative and heading)
+SINGLE_SAME	ghānadhātu|0	နှာခေါင်း ဓာတ်	နှာခေါင်း ဓာတ်	tag	pi-3 ghānadhātu|0	the nose element (nominative sg.)
+SINGLE_SAME	ghānaviññāṇadhātu|0	နှာခေါင်း သိစိတ် ဓာတ်	နှာခေါင်း သိစိတ် ဓာတ်	tag	pi-3 ghānaviññāṇadhātu|0	the nose-consciousness element (nominative sg.)
+SINGLE_SAME	gandhadhātu|0	အနံ့ ဓာတ်	အနံ့ ဓာတ်	tag	pi-3 gandhadhātu|0	the smell element (nominative sg.)
+SINGLE_SAME	rasadhātu|0	အရသာ ဓာတ်	အရသာ ဓာတ်	tag	pi-3 rasadhātu|0	the taste element (nominative sg.)
+SINGLE_SAME	jivhāviññāṇadhātu|0	လျှာ သိစိတ် ဓာတ်	လျှာ သိစိတ် ဓာတ်	tag	pi-3 jivhāviññāṇadhātu|0	the tongue-consciousness element (nominative sg.)
+SINGLE_SAME	rūpadhātu|0	အဆင်းအရောင် ဓာတ်	အဆင်းအရောင် ဓာတ်	tag	pi-5 rūpadhātu|0	the visible-form element, the object of the eye (nominative sg.)
+SINGLE_SAME	cakkhuviññāṇaṃ|0	မျက်စိ သိစိတ်	မျက်စိ သိစိတ်	tag	pi-5 cakkhuviññāṇaṃ|0	consciousness through the eye, eye-consciousness (nominative sg.)
+SINGLE_SAME	manoviññāṇaṃ|0	မနော သိစိတ်	မနော သိစိတ်	tag	pi-5 manoviññāṇaṃ|0	consciousness at the mind door, mind-consciousness (nominative sg.)
+SINGLE_DIFF	dhātū|0	ဓာတ်	ဘုံ	TAGDIFF	pi-5 dhātū|0	elements, the eighteen elements of the chapter on elements (nominative pl.)
+SINGLE_NEW	āyatanayamake|0	အာရုံခံ နယ်ပယ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on sense bases
+SINGLE_NEW	suddhadhātuvāro|0	ရိုးရိုး ဓာတ် ဖော်ပြချက်				heading: the section on the elements alone
+SINGLE_NEW	suddhadhātumūlacakkavāro|0	ရိုးရိုး ဓာတ်ကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_SAME	kāyaviññāṇaṃ|0	ကိုယ် သိစိတ်	ကိုယ် သိစိတ်	tag	pi-5 kāyaviññāṇaṃ|0	consciousness through the body, body-consciousness (nominative sg.)
+SINGLE_SAME	sotaviññāṇaṃ|0	နား သိစိတ်	နား သိစိတ်	tag	pi-5 sotaviññāṇaṃ|0	consciousness through the ear, ear-consciousness (nominative sg.)
+SINGLE_SAME	dhātu|0	ဓာတ်	ဓာတ်	tag	pi-5 dhātu|0	element, irreducible constituent (stem and compound final)
+SINGLE_SAME	ghānaviññāṇaṃ|0	နှာခေါင်း သိစိတ်	နှာခေါင်း သိစိတ်	tag	pi-5 ghānaviññāṇaṃ|0	consciousness through the nose, nose-consciousness (nominative sg.)
+SINGLE_SAME	jivhāviññāṇaṃ|0	လျှာ သိစိတ်	လျှာ သိစိတ်	tag	pi-5 jivhāviññāṇaṃ|0	consciousness through the tongue, tongue-consciousness (nominative sg.)
+SINGLE_NEW	kāyadhātūti|0	ကိုယ် ဓာတ်				element of bodily contact
+SINGLE_NEW	kāyadhātuṃ|0	ကိုယ် ဓာတ်				element of bodily contact
+SINGLE_NEW	sotadhātūti|0	နား ဓာတ်				element of hearing
+SINGLE_NEW	cakkhudhātūti|0	မျက်စိ ဓာတ်				element of sight
+SINGLE_NEW	cakkhuviññāṇanti|0	မျက်စိ သိစိတ်				consciousness arising from sight
+SINGLE_NEW	cakkhuviññāṇadhātūti|0	မျက်စိ သိစိတ် ဓာတ်				element of consciousness arising from sight
+SINGLE_NEW	dhammadhātūti|0	သဘောတရား ဓာတ်				element of objects of thought
+SINGLE_SAME	dhammadhātuṃ|0	သဘောတရား ဓာတ်	သဘောတရား ဓာတ်	tag	pi-5 dhammadhātuṃ|0	the mind-object element (accusative)
+SINGLE_NEW	manodhātūti|0	မနော ဓာတ်				element of mental processing
+SINGLE_NEW	manodhātuṃ|0	မနော ဓာတ်				element of mental processing
+SINGLE_NEW	manoviññāṇanti|0	မနော သိစိတ်				consciousness at the mind door
+SINGLE_NEW	manoviññāṇadhātūti|0	မနော သိစိတ် ဓာတ်				element of consciousness at the mind door
+SINGLE_NEW	ghānasadiso|0	နှာခေါင်းနှင့် တူညီသည်				like the nose, in an abbreviation note
+SINGLE_NEW	ghānadhātūti|0	နှာခေါင်း ဓာတ်				element of smell
+SINGLE_NEW	ghānadhātusadisā|0	နှာခေါင်း ဓာတ်နှင့် တူညီသည်				like the nose element, in an abbreviation note
+SINGLE_NEW	gandhadhātūti|0	အနံ့ ဓာတ်				element of smell objects
+SINGLE_NEW	rasadhātūti|0	အရသာ ဓာတ်				element of flavour objects
+SINGLE_NEW	jivhāpi|0	လျှာ				the organ of taste
+SINGLE_NEW	rūpadhātūti|0	အဆင်းအရောင် ဓာတ်				element of sights
+SINGLE_NEW	rūpadhātuṃ|0	သိမ်မွေ့သော ရုပ်ဘုံ				the fine-material element or plane (accusative, also heading), here the fine-material plane of the questions on the planes (ch. 7)
+SINGLE_NEW	rūpadhātuṃ|1	အဆင်းအရောင် ဓာတ်				the visible-form element, the object of the eye, one of the eighteen elements of ch. 4 (accusative sg.)
+SINGLE_NEW	kāyadhātuñca|0	ကိုယ် ဓာတ်				element of bodily contact
+SINGLE_NEW	sotadhātuñca|0	နား ဓာတ်				element of hearing
+SINGLE_NEW	cakkhudhātuñca|0	မျက်စိ ဓာတ်				element of sight
+SINGLE_NEW	dhammadhātuñca|0	သဘောတရား ဓာတ်				element of objects of thought
+SINGLE_NEW	manodhātuñca|0	မနော ဓာတ်				element of mental processing
+SINGLE_NEW	gandhadhātuñca|0	အနံ့ ဓာတ်				element of smell objects
+SINGLE_NEW	rasadhātuñca|0	အရသာ ဓာတ်				element of flavour objects
+SINGLE_NEW	rūpadhātuñca|0	အဆင်းအရောင် ဓာတ်				element of sights
+SINGLE_NEW	dhātuyamakepi|0	ဓာတ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on elements
+SINGLE_NEW	paṇṇatti|0	သတ်မှတ်ချက်				the part of a chapter dealing with terms
+SINGLE_NEW	dhātūti|0	ဓာတ်				the eighteen components of experience as a category
+SINGLE_NEW	dhātuñca|0	ဓာတ်				the eighteen components of experience as a category
+SINGLE_NEW	jivha|0	လျှာ				the organ of taste
+SINGLE_NEW	dhātuyamakassa|0	ဓာတ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on elements
+SINGLE_NEW	āyatanayamakassa|0	အာရုံခံ နယ်ပယ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on sense bases
+SINGLE_NEW	dhātuyamakampi|0	ဓာတ်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on elements
+SINGLE_NEW	sotadhātuṃ|0	နား ဓာတ်				element of hearing
+SINGLE_SAME	cakkhudhātuṃ|0	မျက်စိ ဓာတ်	မျက်စိ ဓာတ်	tag-ci	pi-5 Cakkhudhātuṃ|0	the sight element (accusative)
+SINGLE_NEW	saccayamakaṃ|0	သစ္စာများကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the truths
+SINGLE_NEW	samudayasaccaṃ|0	ဖြစ်ပေါ်ခြင်း သစ္စာ				second noble truth
+SINGLE_NEW	maggasaccaṃ|0	မဂ် သစ္စာ				fourth noble truth
+SINGLE_SAME	nirodhasaccaṃ|0	ချုပ်ငြိမ်းခြင်း သစ္စာ	ချုပ်ငြိမ်းခြင်း သစ္စာ	tag-ci	pi-5 Nirodhasaccaṃ|0	the truth of ending (nominative sg.)
+SINGLE_SAME	dukkhasaccaṃ|0	ဒုက္ခ သစ္စာ	ဒုက္ခ သစ္စာ	tag-ci	pi-5 Dukkhasaccaṃ|0	the noble truth of suffering, the first truth (nominative sg.)
+SINGLE_SAME	saccāni|0	သစ္စာ	သစ္စာ	tag	pi-5 saccāni|0	truths, the noble realities (nominative/accusative pl.)
+SINGLE_SAME	nirodho|0	ချုပ်ငြိမ်းခြင်း	ချုပ်ငြိမ်းခြင်း	tag	pi-5 nirodho|0	ending (nominative sg.)
+SINGLE_SAME	samudayo|0	ဖြစ်ပေါ်ခြင်း	ဖြစ်ပေါ်ခြင်း	tag	pi-5 samudayo|0	arising, origin (nominative sg.)
+SINGLE_SAME	maggo|0	မဂ်	မဂ်	tag	pi-5 maggo|1	the path, as a set of factors (nominative sg.)
+SINGLE_SAME	dukkhaṃ|0	နာကျင်မှု	နာကျင်မှု	tag	pi-5 dukkhaṃ|1	pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ
+SINGLE_SAME	saccā|0	သစ္စာ	သစ္စာ	tag	pi-3 saccā|0	truths, the noble truths (nominative pl.)
+SINGLE_NEW	suddhasaccavāro|0	ရိုးရိုး သစ္စာ ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	suddhasaccamūlacakkavāro|0	ရိုးရိုး သစ္စာကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_SAME	saccaṃ|0	သစ္စာ	သစ္စာ	tag	pi-5 saccaṃ|0	truth, a noble truth (accusative sg.)
+SINGLE_NEW	paṇṇattivāra|0	သတ်မှတ်ချက်အလိုက် ဖော်ပြချက်				the part of a chapter dealing with terms
+SINGLE_NEW	kāyikaṃ dukkhaṃ|0	ကိုယ်ပိုင်းဆိုင်ရာ နာကျင်မှု				physical pain as a kind of suffering
+SINGLE_NEW	nirodhoti|0	ချုပ်ငြိမ်းခြင်း				stopping, as a topic or section heading
+SINGLE_SAME	cetasikaṃ dukkhaṃ|0	စိတ်ပိုင်းဆိုင်ရာ နာကျင်မှု	စိတ်ပိုင်းဆိုင်ရာ နာကျင်မှု	tag	pi-2 cetasikaṃ dukkhaṃ|0	mental pain, pain of the mind (neuter sg.)
+SINGLE_NEW	samudayasaccanti|0	ဖြစ်ပေါ်ခြင်း သစ္စာ				second noble truth
+SINGLE_NEW	samudayasaccañca|0	ဖြစ်ပေါ်ခြင်း သစ္စာ				second noble truth
+SINGLE_NEW	samudayoti|0	ဖြစ်ပေါ်ခြင်း				the arising or cause of suffering
+SINGLE_NEW	maggasaccanti|0	မဂ် သစ္စာ				fourth noble truth
+SINGLE_NEW	maggasaccañca|0	မဂ် သစ္စာ				fourth noble truth
+SINGLE_NEW	maggoti|0	မဂ်				the way of practice to liberation
+SINGLE_SAME	avasesaṃ|0	ကြွင်းကျန်သော	ကြွင်းကျန်သော	tag	pi-5 avasesaṃ|0	the remaining, the rest (neuter sg.)
+SINGLE_NEW	dukkhanti|0	နာကျင်မှု				suffering as the first truth, also bodily pain as a faculty, quoted with iti
+SINGLE_NEW	dukkhañceva|0	နာကျင်မှု				unsatisfactoriness as a topic of the truths
+SINGLE_NEW	nirodhasaccanti|0	ချုပ်ငြိမ်းခြင်း သစ္စာ				third noble truth
+SINGLE_NEW	nirodhasaccañca|0	ချုပ်ငြိမ်းခြင်း သစ္စာ				third noble truth
+SINGLE_NEW	dukkhasaccanti|0	ဒုက္ခ သစ္စာ				first noble truth
+SINGLE_NEW	dukkhasaccañca|0	ဒုက္ခ သစ္စာ				first noble truth
+SINGLE_NEW	nirodhañca|0	ချုပ်ငြိမ်းခြင်း				stopping, as a topic or section heading
+SINGLE_NEW	samudayañca|0	ဖြစ်ပေါ်ခြင်း				the arising or cause of suffering
+SINGLE_NEW	maggañca|0	မဂ်				the way of practice to liberation
+SINGLE_NEW	dukkhañca|0	နာကျင်မှု				suffering as the first truth, also bodily pain as a faculty (with ca)
+SINGLE_NEW	saccañceva|0	သစ္စာ				the four noble truths as a category
+SINGLE_NEW	saccanti|0	သစ္စာ				the four noble truths as a category
+SINGLE_SAME	nirodhaṃ|0	ချုပ်ငြိမ်းခြင်း	ချုပ်ငြိမ်းခြင်း	tag	pi-5 nirodhaṃ|0	cessation, ending (accusative sg.)
+SINGLE_SAME	samudayaṃ|0	ဖြစ်ပေါ်ခြင်း	ဖြစ်ပေါ်ခြင်း	tag	pi-5 samudayaṃ|0	origin, arising, the second truth (accusative sg.)
+SINGLE_SAME	maggaṃ|0	မဂ်	မဂ်	tag	pi-5 maggaṃ|0	the supramundane path, as a set of factors (accusative sg.)
+SINGLE_NEW	saccañca|0	သစ္စာ				the four noble truths as a category
+SINGLE_NEW	taṇhāvippayuttacittassa uppādakkhaṇe|0	တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	maggavippayuttacittassa uppādakkhaṇe|0	မဂ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	taṇhāya uppādakkhaṇe|0	တပ်မက်မှု၏ ဖြစ်ခြင်း ခဏ				the instant when craving comes into being
+SINGLE_NEW	pavatte|0	ဘဝ တည်နေစဉ်				in the course of existence, between birth and death
+SINGLE_SAME	maggassa|0	မဂ်	မဂ်	tag	pi-5 maggassa|0	of the way (genitive)
+SINGLE_NEW	apāye|0	အပါယ်				the planes of unhappy rebirth
+SINGLE_DIFF_ABSENT	avasese|0	ကြွင်းကျန်သော	အကြွင်း	tag	pi-5 avasese|0	in what is left over (locative)
+SINGLE_NEW	cittassa bhaṅgakkhaṇe|0	စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_SAME	phalassa|0	ဖိုလ်	ဖိုလ်	tag	pi-5 phalassa|0	of the fruition of the path (genitive)
+SINGLE_NEW	taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe|0	တပ်မက်မှုနှင့် ကင်းကွာ၍ မဂ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	nirodhasamāpannānaṃ|0	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသူ				of those who have entered the attainment of cessation (genitive pl.)
+SINGLE_NEW	maggavippayuttataṇhāvippayuttacittassa|0	မဂ်နှင့် ကင်းကွာ၍ တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်				of a mind dissociated from the path and from craving (genitive)
+SINGLE_NEW	maggavippayuttataṇhāvippayuttacittassa uppādakkhaṇe|0	မဂ်နှင့် ကင်းကွာ၍ တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+MULTI_NEW	anabhisametāvīnaṃ|0	ထင်ထင်ရှားရှား မသိမြင်ရသေးသူ / ထင်ထင်ရှားရှား မသိမြင်ရသေးသော				of those who have not yet seen the truths directly (genitive pl.)
+MULTI_NEW	abhisametāvīnaṃ|0	ထင်ထင်ရှားရှား သိမြင်ပြီးသူ / ထင်ထင်ရှားရှား သိမြင်ပြီးသော				of those who have seen the truths directly (genitive pl.)
+SINGLE_NEW	yatthakasadisaṃ|0	အကြင်နေရာ၌ အပိုင်းနှင့် တူညီသည်				like the 'where' section, in an abbreviation note
+SINGLE_SAME	citte|0	စိတ်	စိတ်	tag	pi-5 citte|0	in the mind, as the field of contemplation (locative)
+SINGLE_SAME	vattamāne|0	ဖြစ်နေသော	ဖြစ်နေသော	tag	pi-5 vattamāne|0	going on, proceeding (locative present participle)
+SINGLE_NEW	akusale citte|0	အကုသိုလ် စိတ်				a mind that is unskilful
+SINGLE_NEW	aggamaggaṃ paṭilabhissanti|0	အမြတ်ဆုံး မဂ်ကို ရရှိမည့်				going to reach the supreme path
+SINGLE_SAME	cittassa|0	စိတ်	စိတ်	tag	pi-5 cittassa|0	of the mind (genitive sg.)
+SINGLE_NEW	aggamaggasamaṅgīnaṃ|0	အမြတ်ဆုံး မဂ်နှင့် ပြည့်စုံသူ				of those possessed of the highest path (genitive pl.)
+SINGLE_SAME	anantarā|0	ချက်ချင်း နောက်	ချက်ချင်း နောက်	tag	pi-5 anantarā|0	without interval, directly after, also in anantarāpayutta (compound member)
+SINGLE_NEW	caññe|0	အခြားသူ				those not yet mentioned in a passage
+SINGLE_SAME	arahantānaṃ|0	ရဟန္တာ	ရဟန္တာ	tag-ci	pi-5 Arahantānaṃ|0	of the fully liberated ones (genitive pl.)
+SINGLE_NEW	āpāyikānaṃ|0	အပါယ်၌ ရှိသူ				of beings in the states of loss, the planes of unhappy rebirth (genitive pl.)
+SINGLE_NEW	pacchimacittasamaṅgīnaṃ|0	နောက်ဆုံး စိတ်နှင့် ပြည့်စုံသူ				of those possessed of the last mind before death (genitive pl.)
+SINGLE_NEW	cittassa uppādakkhaṇe|0	စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	taṇhāvippayuttacitte|0	တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်				in a mind dissociated from craving (locative)
+SINGLE_NEW	taṇhāya bhaṅgakkhaṇe|0	တပ်မက်မှု၏ ပြိုပျက်ခြင်း ခဏ				the instant when craving breaks up
+SINGLE_NEW	yatthakā|0	အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	upapatticittassa uppādakkhaṇe|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upapatticittassa bhaṅgakkhaṇe|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	aggamaggassa|0	အမြတ်ဆုံး မဂ်				the final path to full awakening
+SINGLE_NEW	yassayatthakasadisaṃ|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်းနှင့် တူညီအောင်				like the 'of whom, where' section, in an abbreviation note
+SINGLE_NEW	aggamaggaṃ paṭilabhissānti|0	အမြတ်ဆုံး မဂ်ကို ရရှိမည့်				going to reach the supreme path
+SINGLE_NEW	asaññattā|0	အသညသတ် ဘုံ				non-percipient beings and their plane (misspelt for asaññasattā)
+SINGLE_NEW	taṇhāvippayuttacittassa bhaṅgakkhaṇe|0	တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	maggavippayuttacittassa bhaṅgakkhaṇe|0	မဂ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	taṇhāvippayuttamaggavippayuttacittassa bhaṅgakkhaṇe|0	တပ်မက်မှုနှင့် ကင်းကွာ၍ မဂ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	maggavippayuttataṇhāvippayuttacittassa bhaṅgakkhaṇe|0	မဂ်နှင့် ကင်းကွာ၍ တပ်မက်မှုနှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	nirodhasamāpannānanti|0	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသူ				of those who have entered the attainment of cessation (genitive pl., quoted with iti)
+SINGLE_NEW	yassayatthakepi|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	uppādakkhaṇe|0	ဖြစ်ခြင်း ခဏ				the first phase of an instant of consciousness
+SINGLE_NEW	bhaṅgakkhaṇe|0	ပြိုပျက်ခြင်း ခဏ				the last phase of an instant of consciousness
+SINGLE_NEW	pacchimacittassa|0	နောက်ဆုံး စိတ်				the last consciousness before death
+SINGLE_NEW	nirujjhiti|0	ချုပ်ငြိမ်းသည်				coming to an end (verb, present or future)
+SINGLE_NEW	aggaphalassa|0	အမြတ်ဆုံး ဖိုလ်				the fruit of the final path, full awakening
+SINGLE_NEW	pajahatīti|0	ပယ်သည်				giving up a defilement or tendency (verb)
+SINGLE_SAME	pajahati|0	ပယ်သည်	ပယ်သည်	tag	pi-5 pajahati|0	gives up (3rd sg.)
+SINGLE_NEW	nappajahatīti|0	မပယ်				does not give up (negated, present, quoted with iti)
+SINGLE_NEW	pajahitthāti|0	ပယ်ခဲ့သည်				has given up, of a tendency (past), quoted with iti
+SINGLE_NEW	nappajahitthāti|0	မပယ်ခဲ့				has not given up, of a tendency (past), quoted with iti
+SINGLE_NEW	pajahissatīti|0	ပယ်လိမ့်မည်				giving up a defilement or tendency (verb)
+SINGLE_NEW	nappajahissatīti|0	မပယ်လိမ့်မည်				will not give up (negated, future, quoted with iti)
+SINGLE_NEW	pajahittha|0	ပယ်ခဲ့သည်				has given up, of a tendency (past)
+SINGLE_NEW	nappajahittha|0	မပယ်ခဲ့				has not given up, of a tendency (past)
+SINGLE_NEW	pajahissati|0	ပယ်လိမ့်မည်				giving up a defilement or tendency (verb)
+SINGLE_NEW	nappajahissanti|0	မပယ်လိမ့်မည်				will not give up (negated, 3rd pl. future)
+SINGLE_NEW	nappajahissati|0	မပယ်လိမ့်မည်				will not give up (negated, 3rd sg. future)
+SINGLE_NEW	saṅkhārayamakaṃ|0	ပြုပြင်ဖန်တီးမှုများကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the formations
+SINGLE_DIFF_ABSENT	kāyasaṅkhāro|0	ကိုယ်၏ ပြုပြင်ဖန်တီးမှု	ကိုယ် ပြုပြင်ဖန်တီးမှု	tag	pi-5 kāyasaṅkhāro|0	the bodily formation, bodily volition (nominative sg.)
+SINGLE_NEW	cittasampayuttakā|0	စိတ်နှင့် ယှဉ်တွဲသော				associated with the mind (adjective, pl.)
+SINGLE_NEW	cittasaṅkhāroti|0	စိတ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of perception and feeling
+SINGLE_SAME	cittasaṅkhāro|0	စိတ်၏ ပြုပြင်ဖန်တီးမှု	စိတ်၏ ပြုပြင်ဖန်တီးမှု	tag	pi-5 cittasaṅkhāro|0	mental activity, perception and feeling (nominative sg.)
+SINGLE_SAME	assāsapassāsā|0	ဝင်လေ ထွက်လေ	ဝင်လေ ထွက်လေ	tag	pi-5 assāsapassāsā|0	in-breaths and out-breaths (nominative pl.)
+SINGLE_SAME	vitakkavicārā|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	tag	pi-5 vitakkavicārā|0	applied and sustained thought (nominative pl. compound)
+SINGLE_SAME	vitakkavicāre|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	tag	pi-5 vitakkavicāre|0	initial and sustained thought (accusative pl.)
+SINGLE_SAME	vacīsaṅkhāro|0	နှုတ်၏ ပြုပြင်ဖန်တီးမှု	နှုတ်၏ ပြုပြင်ဖန်တီးမှု	tag	pi-5 vacīsaṅkhāro|0	verbal activity, thought and reflection (nominative sg.)
+SINGLE_SAME	cittaṃ|0	စိတ်	စိတ်	tag	pi-5 cittaṃ|0	mind, a state or type of mind (nominative/accusative sg.)
+SINGLE_SAME	vacī|0	နှုတ်	နှုတ်	tag	pi-5 vacī|0	speech, verbal, as in vacīduccarita and vacīkamma (compound member)
+SINGLE_NEW	suddhasaṅkhāravāro|0	ရိုးရိုး ပြုပြင်ဖန်တီးမှု ဖော်ပြချက်				heading: the section on the formations alone
+SINGLE_NEW	kāyasaṅkhāroti|0	ကိုယ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of breathing
+SINGLE_NEW	cittanti|0	စိတ်				mind as the knowing of an object
+SINGLE_NEW	vacīti|0	နှုတ်				speaking, the verbal side of action
+SINGLE_NEW	vacīsaṅkhāroti|0	နှုတ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of thinking before speech
+SINGLE_NEW	kāyasaṅkhārañca|0	ကိုယ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of breathing
+SINGLE_SAME	cittañca|0	စိတ်	စိတ်	tag-ci	pi-1 Cittañca|0	and the mind, in lists of phenomena (nominative sg.)
+SINGLE_NEW	cittasaṅkhārañca|0	စိတ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of perception and feeling
+SINGLE_NEW	vaciñca|0	နှုတ်				speaking, the verbal side of action
+SINGLE_NEW	vacīsaṅkhārañca|0	နှုတ်၏ ပြုပြင်ဖန်တီးမှု				the formation consisting of thinking before speech
+SINGLE_SAME	saṅkhāro|0	ပြုပြင်ဖန်တီးမှု	ပြုပြင်ဖန်တီးမှု	tag	pi-5 saṅkhāro|0	a formation, a volitional formation in dependent origination (nominative sg.), the same value also naming the formation of striving, in padhānasaṅkhāro
+SINGLE_NEW	paccanīkaokāsā|0	နေရာအလိုက် အငြင်းပြ ပုံစံ				subheading: negated questions about places (variant form)
+SINGLE_NEW	samāpannānaṃ|0	ဝင်စားနေသူ				entering a meditative absorption
+SINGLE_NEW	assāsapassāsānaṃ|0	ဝင်လေ ထွက်လေ				in-breath and out-breath
+SINGLE_NEW	assāsapassāsehi|0	ဝင်လေ ထွက်လေ				in-breath and out-breath
+SINGLE_NEW	vitakkavicārehi|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု				applied and sustained thinking
+SINGLE_SAME	vitakkavicārānaṃ|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု	tag	pi-5 vitakkavicārānaṃ|0	of thought and examination, applied and sustained thought (genitive pl.)
+SINGLE_NEW	catutthajjhāne|0	စတုတ္ထ ဈာန်				the fourth meditative absorption
+SINGLE_NEW	avitakkaavicāracittassa uppādakkhaṇe|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	yassayatthake|0	အကြင်သူအား အကြင်နေရာ၌ အပိုင်း				a named division of a chapter
+SINGLE_NEW	paccuppannavārādi|0	ပစ္စုပ္ပန်အလိုက် ဖော်ပြချက် စသည်				a named division of a chapter
+SINGLE_NEW	catutthajjhānaṃ|0	စတုတ္ထ ဈာန်				the fourth meditative absorption
+SINGLE_NEW	pacchimacittaṃ|0	နောက်ဆုံး စိတ်				the last consciousness before death
+SINGLE_NEW	avitakkaavicāraṃ|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော				without applied and without sustained thinking (neuter sg.)
+SINGLE_NEW	tesaṃyeva|0	ထိုသူ				a pronoun pointing back to those same individuals
+SINGLE_NEW	savitakkasavicārapacchimacittassa uppādakkhaṇe|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု ရှိသော နောက်ဆုံး စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	savitakkasavicārapacchimacittassa bhaṅgakkhaṇe|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု ရှိသော နောက်ဆုံး စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	avitakkaavicārapacchimacittasamaṅgīnaṃ|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော နောက်ဆုံး စိတ်နှင့် ပြည့်စုံသူ				of those possessed of a last mind without applied and sustained thinking (genitive pl.)
+SINGLE_NEW	savitakkasavicārabhūmiyaṃ|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု ရှိရာ အဆင့်				in the level with applied and sustained thinking (locative)
+SINGLE_NEW	avitakkaavicārabhūmiyaṃ|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိရာ အဆင့်				in the level without applied and sustained thinking (locative)
+SINGLE_NEW	avitakkaavicāracittassa bhaṅgakkhaṇe|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	avitakkaavicārapacchimacittassa|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော နောက်ဆုံး စိတ်				of the last mind without applied and sustained thinking (genitive)
+SINGLE_NEW	savitakkasavicārapacchimacittassa|0	စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု ရှိသော နောက်ဆုံး စိတ်				of the last mind with applied and sustained thinking (genitive)
+SINGLE_NEW	pacchimacittassa bhaṅgakkhaṇe|0	နောက်ဆုံး စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	avitakkaavicārapacchimacittassa bhaṅgakkhaṇe|0	စတင်ကြံစည်မှုလည်း မရှိ ဆက်လက်သုံးသပ်မှုလည်း မရှိသော နောက်ဆုံး စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	uppādavāranirodhavārepi|0	ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်နှင့် ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				also in the sections on arising and on ceasing (locative, with pi)
+SINGLE_NEW	nirodhavārena|0	ချုပ်ငြိမ်းခြင်းအလိုက် ဖော်ပြချက်				stopping, as a topic or section heading
+SINGLE_NEW	khandhayamake|0	အစုအဝေးများကို အတွဲလိုက် မေးဖြေခြင်း				in the chapter of pairs on the aggregates (locative)
+SINGLE_DIFF_ABSENT	kāyasaṅkhāraṃ|0	ကိုယ်၏ ပြုပြင်ဖန်တီးမှု	ကိုယ် ပြုပြင်ဖန်တီးမှု	TAGDIFF	pi-5 kāyasaṅkhāraṃ|0	the bodily formation, the in-and-out breathing of the chapter on formations (accusative sg.)
+SINGLE_NEW	saṅkhārayamakepi|0	ပြုပြင်ဖန်တီးမှုများကို အတွဲလိုက် မေးဖြေခြင်း				in the chapter of pairs on the formations too (locative, with pi)
+SINGLE_NEW	pariññāvāraṃ|0	ပိုင်းခြား သိခြင်းအလိုက် ဖော်ပြချက်				the section on knowing thoroughly
+SINGLE_SAME	vacīsaṅkhāraṃ|0	နှုတ်၏ ပြုပြင်ဖန်တီးမှု	နှုတ်၏ ပြုပြင်ဖန်တီးမှု	TAGDIFF	pi-5 vacīsaṅkhāraṃ|0	the verbal formation, applied and sustained thinking of the chapter on formations (accusative sg.)
+SINGLE_NEW	anusayayamakaṃ|0	ကိန်းအောင်းခြင်းများကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the tendencies
+SINGLE_SAME	bhavarāgānusayo|0	ဘဝရာဂ ကိန်းအောင်းခြင်း	ဘဝရာဂ ကိန်းအောင်းခြင်း	tag	pi-5 bhavarāgānusayo|0	latent lust for becoming (nominative)
+SINGLE_SAME	kāmarāgānusayo|0	ကာမရာဂ ကိန်းအောင်းခြင်း	ကာမရာဂ ကိန်းအောင်းခြင်း	tag-ci	pi-5 Kāmarāgānusayo|0	latent disposition to sensual lust (nominative sg.)
+SINGLE_NEW	sattānusayā|0	ကိန်းအောင်းခြင်း ခုနစ်ပါး				the seven dormant defilements as a category
+SINGLE_SAME	paṭighānusayo|0	မုန်းတီးမှု ကိန်းအောင်းခြင်း	မုန်းတီးမှု ကိန်းအောင်းခြင်း	tag	pi-5 paṭighānusayo|0	the underlying tendency to aversion (nominative sg.)
+SINGLE_SAME	mānānusayo|0	မာန ကိန်းအောင်းခြင်း	မာန ကိန်းအောင်းခြင်း	tag	pi-5 mānānusayo|0	latent disposition to conceit (nominative sg.)
+SINGLE_SAME	diṭṭhānusayo|0	အယူ ကိန်းအောင်းခြင်း	အယူ ကိန်းအောင်းခြင်း	tag	pi-5 diṭṭhānusayo|0	latent disposition to views (nominative sg.)
+SINGLE_SAME	vicikicchānusayo|0	ယုံမှားမှု ကိန်းအောင်းခြင်း	ယုံမှားမှု ကိန်းအောင်းခြင်း	tag	pi-5 vicikicchānusayo|0	latent disposition to doubt (nominative sg.)
+SINGLE_SAME	avijjānusayo|0	အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း	အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း	tag	pi-5 avijjānusayo|0	latent disposition to ignorance (nominative sg.)
+SINGLE_NEW	uppattiṭṭhānavāro|0	ဖြစ်ပေါ်ရာ နေရာအလိုက် ဖော်ပြချက်				heading: the section on the place of arising
+SINGLE_SAME	rūpadhātuyā|0	သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ်ဘုံ	tag-ci	pi-5 Rūpadhātuyā|0	in the fine-material realm (locative)
+SINGLE_SAME	arūpadhātuyā|0	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဘုံ	tag-ci	pi-5 Arūpadhātuyā|0	in the immaterial realm (locative)
+SINGLE_NEW	dvīsu vedanāsu|0	ခံစားမှု နှစ်ပါး				two or three of the tones of feeling as a place
+SINGLE_SAME	anuseti|0	ကိန်းအောင်းသည်	ကိန်းအောင်းသည်	tag	pi-5 anuseti|0	lies latent, underlies (3rd sg. present)
+SINGLE_SAME	dukkhāya vedanāya|0	နာကျင်သော ခံစားမှု	နာကျင်သော ခံစားမှု	tag	pi-5 dukkhāya vedanāya|0	with painful feeling (genitive sg.)
+SINGLE_SAME	kāmadhātuyā|0	ကာမဘုံ	ကာမဘုံ	tag-ci	pi-5 Kāmadhātuyā|0	in the sense-sphere realm (locative)
+SINGLE_NEW	mahāvāro|0	ဖော်ပြချက်ကြီး				a named division of a chapter
+SINGLE_NEW	anusayavāro|0	ကိန်းအောင်းခြင်းအလိုက် ဖော်ပြချက်				heading: the section on the tendencies
+SINGLE_SAME	puggalānaṃ|0	ပုဂ္ဂိုလ်	ပုဂ္ဂိုလ်	tag	pi-5 puggalānaṃ|0	of individuals, persons, in parapuggalānaṃ (genitive pl.)
+SINGLE_NEW	anusetīti|0	ကိန်းအောင်းသည်				remaining dormant in the mind (verb)
+SINGLE_SAME	anāgāmissa|0	အနာဂါမ်	အနာဂါမ်	tag-ci	pi-5 Anāgāmissa|0	of the non-returner (genitive)
+SINGLE_SAME	puthujjanassa|0	ပုထုဇဉ်	ပုထုဇဉ်	tag	pi-5 puthujjanassa|0	of the worldling (genitive)
+SINGLE_NEW	anusayavāra|0	ကိန်းအောင်းခြင်းအလိုက် ဖော်ပြချက်				heading: the section on the tendencies (stem)
+SINGLE_NEW	paṭilomapuggalo|0	ပုဂ္ဂိုလ်အလိုက် အငြင်းပြ ပုံစံ				subheading: reverse (negated) questions about persons
+SINGLE_NEW	paṭilomaokāso|0	နေရာအလိုက် အငြင်းပြ ပုံစံ				subheading: reverse (negated) questions about places
+SINGLE_NEW	paṭilomapuggalokāsā|0	ပုဂ္ဂိုလ်နှင့် နေရာအလိုက် အငြင်းပြ ပုံစံ				questions about both an individual and a plane
+SINGLE_NEW	sānusayavāro|0	ကိန်းအောင်းခြင်း ရှိသူအလိုက် ဖော်ပြချက်				heading: the section on those who have a tendency
+SINGLE_NEW	sānusayavāra|0	ကိန်းအောင်းခြင်း ရှိသူအလိုက် ဖော်ပြချက်				heading: the section on those who have a tendency (stem)
+SINGLE_NEW	pajahanavāro|0	ပယ်ခြင်းအလိုက် ဖော်ပြချက်				the section about giving up
+SINGLE_NEW	pajahanavāra|0	ပယ်ခြင်းအလိုက် ဖော်ပြချက်				the section about giving up
+SINGLE_NEW	anusenti|0	ကိန်းအောင်းသည်				remaining dormant in the mind (verb)
+SINGLE_NEW	anusentīti|0	ကိန်းအောင်းသည်				remaining dormant in the mind (verb)
+SINGLE_NEW	pariññāvāra|0	ပိုင်းခြား သိခြင်းအလိုက် ဖော်ပြချက်				the section on knowing thoroughly
+SINGLE_NEW	pahīnavāro|0	ပယ်ပြီး ဖြစ်ခြင်းအလိုက် ဖော်ပြချက်				heading: the section on what has been given up
+SINGLE_NEW	pahīnavāra|0	ပယ်ပြီး ဖြစ်ခြင်းအလိုက် ဖော်ပြချက်				the section on what has been given up (stem)
+SINGLE_NEW	uppajjanavāro|0	ဖြစ်ပေါ်ခြင်းအလိုက် ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	dhātupucchāvāro|0	ဘုံများအကြောင်း အမေး ဖော်ပြချက်				heading: the section of questions on the spheres
+SINGLE_NEW	dhātuvisajjanāvāro|0	ဘုံများအကြောင်း အဖြေ ဖော်ပြချက်				heading: the section of answers on the planes
+SINGLE_NEW	tīsu vedanāsu|0	ခံစားမှု သုံးပါး				two or three of the tones of feeling as a place
+SINGLE_NEW	kāmārāgānusayo|0	ကာမရာဂ ကိန်းအောင်းခြင်း				dormant sense longing
+SINGLE_SAME	puggalassa|0	ပုဂ္ဂိုလ်	ပုဂ္ဂိုလ်	tag	pi-5 puggalassa|0	of the individual (genitive)
+SINGLE_NEW	anusayavāre|0	ကိန်းအောင်းခြင်းအလိုက် ဖော်ပြချက်				in the section on the tendencies (locative)
+SINGLE_NEW	nānuseti|0	မကိန်းအောင်း				does not lie dormant (negated, 3rd sg. present)
+SINGLE_NEW	nānusetīti|0	မကိန်းအောင်း				does not lie dormant (negated, present, quoted with iti)
+SINGLE_NEW	nānusenti|0	မကိန်းအောင်း				do not lie dormant (negated, 3rd pl. present)
+SINGLE_NEW	nānusentīti|0	မကိန်းအောင်း				do not lie dormant (negated, 3rd pl. present, quoted with iti)
+SINGLE_NEW	paṭilomaṃ|0	အငြင်းပြ ပုံစံ				the part of a section with negated questions
+SINGLE_NEW	bhavarāgānusayena|0	ဘဝရာဂ ကိန်းအောင်းခြင်း				dormant longing for continued being
+SINGLE_SAME	anāgāmī|0	အနာဂါမ်	အနာဂါမ်	tag	pi-5 anāgāmī|0	one who does not come back (nominative sg.)
+SINGLE_SAME	puthujjano|0	ပုထုဇဉ်	ပုထုဇဉ်	tag-ci	pi-5 Puthujjano|0	a worldling, an unawakened individual (nominative sg.)
+SINGLE_NEW	paṭighānusayena|0	မုန်းတီးမှု ကိန်းအောင်းခြင်း				dormant ill will
+SINGLE_NEW	mānānusayena|0	မာန ကိန်းအောင်းခြင်း				dormant pride
+SINGLE_NEW	vicikicchānusayena|0	ယုံမှားမှု ကိန်းအောင်းခြင်း				dormant uncertainty
+SINGLE_NEW	avijjānusayena|0	အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း				dormant not-knowing
+SINGLE_NEW	kāmarāgānusayena|0	ကာမရာဂ ကိန်းအောင်းခြင်း				dormant sense longing
+SINGLE_NEW	diṭṭhānusayena|0	အယူ ကိန်းအောင်းခြင်း				dormant distorted views
+SINGLE_NEW	sānusayo|0	ကိန်းအောင်းခြင်း ရှိသူ				being subject to a stated tendency
+SINGLE_NEW	sānusayoti|0	ကိန်းအောင်းခြင်း ရှိသူ				being subject to a stated tendency
+SINGLE_NEW	sānusayā|0	ကိန်းအောင်းခြင်း ရှိသူ				being subject to a stated tendency
+SINGLE_SAME	puggalo|0	ပုဂ္ဂိုလ်	ပုဂ္ဂိုလ်	tag	pi-5 puggalo|0	an individual, person (nominative sg.)
+SINGLE_NEW	sānusayavāre|0	ကိန်းအောင်းခြင်း ရှိသူအလိုက် ဖော်ပြချက်				in the section on those who have a tendency (locative)
+SINGLE_NEW	niranusayo|0	ကိန်းအောင်းခြင်း မရှိသူ				being without a stated tendency
+SINGLE_NEW	niranusayoti|0	ကိန်းအောင်းခြင်း မရှိသူ				being without a stated tendency
+SINGLE_NEW	niranusayā|0	ကိန်းအောင်းခြင်း မရှိသူ				being without a stated tendency
+SINGLE_NEW	bhavarāgānusayaṃ|0	ဘဝရာဂ ကိန်းအောင်းခြင်း				dormant longing for continued being
+SINGLE_NEW	paṭighānusayaṃ|0	မုန်းတီးမှု ကိန်းအောင်းခြင်း				dormant ill will
+SINGLE_NEW	mānānusayaṃ|0	မာန ကိန်းအောင်းခြင်း				dormant pride
+SINGLE_NEW	vicikicchānusayaṃ|0	ယုံမှားမှု ကိန်းအောင်းခြင်း				dormant uncertainty
+SINGLE_NEW	avijjānusayaṃ|0	အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း				dormant not-knowing
+SINGLE_NEW	kāmarāgānusayaṃ|0	ကာမရာဂ ကိန်းအောင်းခြင်း				dormant sense longing
+SINGLE_NEW	diṭṭhānusayaṃ|0	အယူ ကိန်းအောင်းခြင်း				dormant distorted views
+SINGLE_NEW	kāmarāgānusayañca|0	ကာမရာဂ ကိန်းအောင်းခြင်း				dormant sense longing
+SINGLE_NEW	paṭighānusayañca|0	မုန်းတီးမှု ကိန်းအောင်းခြင်း				dormant ill will
+SINGLE_NEW	mānānusayañca|0	မာန ကိန်းအောင်းခြင်း				dormant pride
+SINGLE_NEW	diṭṭhānusayañca|0	အယူ ကိန်းအောင်းခြင်း				dormant distorted views
+SINGLE_NEW	vicikicchānusayañca|0	ယုံမှားမှု ကိန်းအောင်းခြင်း				dormant uncertainty
+SINGLE_NEW	bhavarāgānusayañca|0	ဘဝရာဂ ကိန်းအောင်းခြင်း				dormant longing for continued being
+SINGLE_NEW	avijjānusayañca|0	အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း				dormant not-knowing
+SINGLE_NEW	aṭṭhamako|0	အဋ္ဌမ				the person on the first path to awakening
+SINGLE_NEW	pajahanavāre|0	ပယ်ခြင်းအလိုက် ဖော်ပြချက်				the section about giving up
+SINGLE_NEW	nappajahati|0	မပယ်				does not give up (negated, 3rd sg. present)
+SINGLE_NEW	nappajahanti|0	မပယ်				do not give up (negated, 3rd pl. present)
+SINGLE_NEW	aṭṭhamakañca|0	အဋ္ဌမ				the person on the first path to awakening
+SINGLE_NEW	anāgāmimaggasamaṅgī|0	အနာဂါမိမဂ်နှင့် ပြည့်စုံသူ				the path to the third stage of awakening
+SINGLE_NEW	anāgāmimaggasamaṅgiñca|0	အနာဂါမိမဂ်နှင့် ပြည့်စုံသူ				the path to the third stage of awakening
+SINGLE_NEW	maggasamaṅgīnaṃ|0	မဂ်နှင့် ပြည့်စုံသူ				someone endowed with a stated path
+SINGLE_NEW	maggasamaṅgīnañca|0	မဂ်နှင့် ပြည့်စုံသူ				someone endowed with a stated path
+SINGLE_NEW	anāgāmimaggasamaṅgiṃ|0	အနာဂါမိမဂ်နှင့် ပြည့်စုံသူ				the path to the third stage of awakening
+SINGLE_NEW	aggamaggasamaṅgiṃ|0	အမြတ်ဆုံး မဂ်နှင့် ပြည့်စုံသူ				one possessed of the highest path (accusative)
+SINGLE_NEW	pajahanāvāre|0	ပယ်ခြင်းအလိုက် ဖော်ပြချက်				the section about giving up
+SINGLE_NEW	pariññāvāre|0	ပိုင်းခြား သိခြင်းအလိုက် ဖော်ပြချက်				the section on knowing thoroughly
+SINGLE_SAME	pahīno|0	ပယ်ပြီးသော	ပယ်ပြီးသော	tag	pi-5 pahīno|0	given up (nominative sg. participle)
+SINGLE_NEW	pahīnoti|0	ပယ်ပြီးသော				a defilement already given up
+SINGLE_SAME	pahīnā|0	ပယ်ပြီးသော	ပယ်ပြီးသော	tag	pi-5 pahīnā|0	given up (nominative pl. participle)
+SINGLE_NEW	pahīnāti|0	ပယ်ပြီးသော				a defilement already given up
+SINGLE_NEW	appahīno|0	မပယ်ရသေးသော				not yet given up, of a tendency (participle, sg.)
+SINGLE_NEW	appahīnā|0	မပယ်ရသေးသော				not yet given up, of tendencies (participle, pl.)
+SINGLE_NEW	pahīnavāre|0	ပယ်ပြီး ဖြစ်ခြင်းအလိုက် ဖော်ပြချက်				in the section on what has been given up (locative)
+SINGLE_NEW	appahīnoti|0	မပယ်ရသေးသော				not yet given up, of a tendency, quoted with iti
+SINGLE_NEW	appahīnāti|0	မပယ်ရသေးသော				not yet given up, of tendencies, quoted with iti
+SINGLE_NEW	bhaṅgā|0	ပြိုပျက်သော				tendencies that have broken up
+SINGLE_DIFF_ABSENT	arūpadhātuṃ|0	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဓာတ်	tag	pi-5 arūpadhātuṃ|0	the immaterial element or plane (accusative, also heading)
+SINGLE_NEW	upapajjantassa|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ				entering a new existence (verb or participle)
+SINGLE_DIFF_ABSENT	kāmadhātuṃ|0	ကာမဘုံ	ကာမ ဓာတ်	tag	pi-5 kāmadhātuṃ|0	the sensual element or plane (accusative)
+SINGLE_NEW	kāmadhātumūlakaṃ|0	ကာမဘုံကို အခြေခံသော				based on the sense-sphere plane, a cycle tag (neuter sg.)
+SINGLE_SAME	anusayā|0	ကိန်းအောင်းခြင်း	ကိန်းအောင်းခြင်း	tag-ci	pi-5 Anusayā|0	underlying tendencies, latent dispositions (nominative pl.)
+SINGLE_NEW	rūpadhātumūlakaṃ|0	သိမ်မွေ့သော ရုပ်ဘုံကို အခြေခံသော				based on the fine-material plane, a cycle tag (neuter sg.)
+SINGLE_NEW	arūpadhātumūlakaṃ|0	ရုပ်မရှိသော ဘုံကို အခြေခံသော				based on the immaterial plane, a cycle tag (neuter sg.)
+SINGLE_NEW	nakāmadhātumūlakaṃ|0	ကာမဘုံ မဟုတ်သော ဘုံကို အခြေခံသော				based on what is not the sense-sphere plane, a cycle tag (neuter sg.)
+SINGLE_NEW	narūpadhātumūlakaṃ|0	သိမ်မွေ့သော ရုပ်ဘုံ မဟုတ်သော ဘုံကို အခြေခံသော				based on what is not the fine-material plane, a cycle tag (neuter sg.)
+SINGLE_NEW	naarūpadhātumūlakaṃ|0	ရုပ်မရှိသော ဘုံ မဟုတ်သော ဘုံကို အခြေခံသော				based on what is not the immaterial plane, a cycle tag (neuter sg.)
+SINGLE_NEW	nakāmanaarūpadhātumūlakaṃ|0	ကာမဘုံလည်း မဟုတ် ရုပ်မရှိသော ဘုံလည်း မဟုတ်သော ဘုံကို အခြေခံသော				based on what is neither the sense-sphere nor the immaterial plane, a cycle tag (neuter sg.)
+SINGLE_NEW	narūpanaarūpadhātumūlakaṃ|0	သိမ်မွေ့သော ရုပ်ဘုံလည်း မဟုတ် ရုပ်မရှိသော ဘုံလည်း မဟုတ်သော ဘုံကို အခြေခံသော				based on what is neither the fine-material nor the immaterial plane, a cycle tag (neuter sg.)
+SINGLE_NEW	nakāmanarūpadhātumūlakaṃ|0	ကာမဘုံလည်း မဟုတ် သိမ်မွေ့သော ရုပ်ဘုံလည်း မဟုတ်သော ဘုံကို အခြေခံသော				based on what is neither the sense-sphere nor the fine-material plane, a cycle tag (neuter sg.)
+SINGLE_SAME	upapatti|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း	ပြန်လည် ဖြစ်ပေါ်ခြင်း	tag	pi-5 upapatti|0	rebirth, being reborn (compound member)
+SINGLE_NEW	upapajjamāno|0	ပြန်လည် ဖြစ်ပေါ်ဆဲသူ				entering a new existence (verb or participle)
+SINGLE_SAME	upapajjati|0	ပြန်လည် ဖြစ်ပေါ်သည်	ပြန်လည် ဖြစ်ပေါ်သည်	tag	pi-5 upapajjati|0	is reborn, arises (3rd sg. present)
+SINGLE_NEW	kāmadhātuṃyeva|0	ကာမဘုံ				the sensual sphere as a place of tendencies
+SINGLE_NEW	upapattināma|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း				being born in a new existence, as a noun
+SINGLE_NEW	dhātuvisajjavāro|0	ဘုံများအကြောင်း အဖြေ ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	cittayamakaṃ|0	စိတ်ကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter on consciousness
+SINGLE_SAME	uppannaṃ|0	ဖြစ်ပေါ်ပြီးသော	ဖြစ်ပေါ်ပြီးသော	tag	pi-5 uppannaṃ|0	come into being (neuter sg. participle)
+SINGLE_NEW	suddhacittasāmaññaṃ|0	ရိုးရိုး စိတ် အထွေထွေ				heading: mind in general, the plain mind
+SINGLE_NEW	puggalavāro|0	ပုဂ္ဂိုလ်အလိုက် ဖော်ပြချက်				the part of a chapter dealing with individuals
+SINGLE_NEW	uppādanirodhakālasambhedavāro|0	ဖြစ်ပေါ်ခြင်းနှင့် ချုပ်ငြိမ်းခြင်း၏ ကာလ ရောနှောခြင်း ဖော်ပြချက်				heading: the section mixing the times of arising and ceasing
+SINGLE_NEW	uppāduppannavāro|0	ဖြစ်ပေါ်ခြင်းနှင့် ဖြစ်ပေါ်ပြီးသော အရာ ဖော်ပြချက်				heading: the section on arising and the arisen
+SINGLE_NEW	nirodhuppannavāro|0	ချုပ်ငြိမ်းခြင်းနှင့် ဖြစ်ပေါ်ပြီးသော အရာ ဖော်ပြချက်				heading: the section on ceasing and the arisen
+SINGLE_NEW	uppajjamāna|0	ဖြစ်ပေါ်ဆဲ				arising, in the course of arising (stem in headings)
+SINGLE_NEW	nanirodhavāro|0	မချုပ်ငြိမ်းခြင်း ဖော်ပြချက်				heading: the section on not ceasing
+SINGLE_NEW	uppajjamānuppannavāro|0	ဖြစ်ပေါ်ဆဲ အရာနှင့် ဖြစ်ပေါ်ပြီးသော အရာ ဖော်ပြချက်				heading: the section on what is arising and the arisen
+SINGLE_NEW	nirujjhamānuppannavāro|0	ချုပ်ငြိမ်းဆဲ အရာနှင့် ဖြစ်ပေါ်ပြီးသော အရာ ဖော်ပြချက်				heading: the section on what is ceasing and the arisen
+SINGLE_NEW	uppannuppādavāro|0	ဖြစ်ပေါ်ပြီးသော အရာနှင့် ဖြစ်ပေါ်ခြင်း ဖော်ပြချက်				heading: the section on the arisen and arising
+SINGLE_NEW	uppannuppajjamānavāro|0	ဖြစ်ပေါ်ပြီးသော အရာနှင့် ဖြစ်ပေါ်ဆဲ အရာ ဖော်ပြချက်				heading: the section on the arisen and what is arising
+SINGLE_NEW	niruddhanirujjhamānavāro|0	ချုပ်ငြိမ်းပြီးသော အရာနှင့် ချုပ်ငြိမ်းဆဲ အရာ ဖော်ပြချက်				heading: the section on the ceased and what is ceasing
+SINGLE_SAME	dhammavāro|0	သဘောတရားအလိုက် ဖော်ပြချက်	သဘောတရားအလိုက် ဖော်ပြချက်	tag-ci	pi-2 Dhammavāro|0	the section on phenomena (heading)
+SINGLE_NEW	suddhacittasāmañña|0	ရိုးရိုး စိတ် အထွေထွေ				mind in general, the plain mind (stem, in the heading)
+SINGLE_NEW	puggaladhammavāro|0	ပုဂ္ဂိုလ်နှင့် သဘောတရားအလိုက် ဖော်ပြချက်				the part of a chapter dealing with individuals
+SINGLE_NEW	suttantacittamissakaviseso|0	သုတ္တန်လာ စိတ်များကို ရောစပ်သော ထူးခြားချက်				heading: the special part mixed with the mind types of the suttas
+SINGLE_NEW	abhidhammacittamissakaviseso|0	အဘိဓမ္မာလာ စိတ်များကို ရောစပ်သော ထူးခြားချက်				heading: the special part mixed with the mind types of the Abhidhamma
+SINGLE_NEW	uppajjamānananirodhavāro|0	ဖြစ်ပေါ်ဆဲ အရာနှင့် မချုပ်ငြိမ်းခြင်း ဖော်ပြချက်				heading: the section on what is arising and not ceasing
+SINGLE_DIFF	uppajjamānaṃ|0	ဖြစ်ပေါ်ဆဲ	ဖြစ်ပေါ်သော	tag	pi-5 uppajjamānaṃ|0	coming into being (neuter participle)
+SINGLE_DIFF_ABSENT	nirujjhamānaṃ|0	ချုပ်ငြိမ်းဆဲ	ချုပ်ငြိမ်းနေသော	tag	pi-5 nirujjhamānaṃ|0	ceasing (neuter participle)
+SINGLE_SAME	niruddhaṃ|0	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းပြီးသော	tag	pi-5 niruddhaṃ|0	stopped, ended (neuter sg. participle)
+SINGLE_NEW	khaṇaṃ|0	ခဏ				a single instant of time
+SINGLE_SAME	samāhitaṃ|0	တည်ကြည်သော	တည်ကြည်သော	tag	pi-5 samāhitaṃ|0	concentrated, collected, of the mind (neuter sg. participle)
+SINGLE_SAME	sarāgaṃ|0	ရာဂ ရှိသော	ရာဂ ရှိသော	tag	pi-2 sarāgaṃ|0	with lust, lustful (neuter sg. adjective)
+SINGLE_SAME	saṃkhittaṃ|0	တွန့်ဆုတ်နေသော	တွန့်ဆုတ်နေသော	tag-ci	pi-5 Saṃkhittaṃ|0	contracted, shrunken, of a sluggish mind (neuter sg. participle)
+SINGLE_SAME	samohaṃ|0	မောဟ ရှိသော	မောဟ ရှိသော	tag	pi-2 samohaṃ|0	with delusion, deluded (neuter sg. adjective)
+SINGLE_SAME	mahaggataṃ|0	ကြီးမြတ်သော	ကြီးမြတ်သော	tag	pi-5 mahaggataṃ|0	grown great, exalted, of the higher spheres (neuter sg.)
+SINGLE_SAME	sadosaṃ|0	ဒေါသ ရှိသော	ဒေါသ ရှိသော	tag	pi-2 sadosaṃ|0	with hatred, hating (neuter sg. adjective)
+SINGLE_SAME	vimuttaṃ|0	လွတ်မြောက်သော	လွတ်မြောက်သော	tag	pi-5 vimuttaṃ|0	freed, released, of the mind (neuter sg. participle)
+SINGLE_SAME	vītarāgaṃ|0	ရာဂ ကင်းသော	ရာဂ ကင်းသော	tag-ci	pi-5 Vītarāgaṃ|0	rid of lust (accusative sg.)
+SINGLE_SAME	vikkhittaṃ|0	ပျံ့လွင့်နေသော	ပျံ့လွင့်နေသော	tag	pi-5 vikkhittaṃ|0	distracted, scattered, of the mind (neuter sg. participle)
+SINGLE_SAME	sauttaraṃ|0	ထိုထက် သာလွန်သည် ရှိသေးသော	ထိုထက် သာလွန်သည် ရှိသေးသော	tag	pi-5 sauttaraṃ|0	surpassable, having something higher (neuter sg.)
+SINGLE_SAME	asamāhitaṃ|0	မတည်ကြည်သော	မတည်ကြည်သော	tag	pi-5 asamāhitaṃ|0	unconcentrated, not collected (neuter sg. participle)
+SINGLE_SAME	amahaggataṃ|0	မကြီးမြတ်သော	မကြီးမြတ်သော	tag	pi-5 amahaggataṃ|0	not exalted, not grown great (neuter sg.)
+SINGLE_SAME	avimuttaṃ|0	မလွတ်မြောက်သော	မလွတ်မြောက်သော	tag	pi-5 avimuttaṃ|0	not freed, unreleased (neuter sg. participle)
+SINGLE_SAME	anuttaraṃ|0	ထိုထက် သာလွန်သည် မရှိသော	ထိုထက် သာလွန်သည် မရှိသော	tag	pi-5 anuttaraṃ|0	unsurpassable, having nothing higher (neuter sg.)
+SINGLE_SAME	sampayuttaṃ|0	ယှဉ်တွဲသော	ယှဉ်တွဲသော	tag	pi-5 sampayuttaṃ|0	conjoined with, compound final (neuter sg. participle)
+SINGLE_NEW	saraṇaaraṇā|0	ပဋိပက္ခ ရှိသော ပဋိပက္ခ မရှိသော				a mind with or without mental strife
+SINGLE_NEW	araṇaṃ|0	ပဋိပက္ခ မရှိသော				a mind with or without mental strife
+SINGLE_SAME	vedanāya|0	ခံစားမှု	ခံစားမှု	tag	pi-5 vedanāya|0	of feeling, the affective tone of experience (genitive sg.)
+SINGLE_NEW	abyākataṃ cittaṃ|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော စိတ်				a mind that is neither skilful nor unskilful
+SINGLE_SAME	akusalaṃ cittaṃ|0	အကုသိုလ်စိတ်	အကုသိုလ်စိတ်	tag	pi-5 akusalaṃ cittaṃ|0	an unwholesome mind (nominative sg.)
+SINGLE_SAME	kusalaṃ cittaṃ|0	ကုသိုလ်စိတ်	ကုသိုလ်စိတ်	tag	pi-5 kusalaṃ cittaṃ|0	a wholesome mind (nominative sg.)
+SINGLE_NEW	pacchimacittassa uppādakkhaṇe|0	နောက်ဆုံး စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	uppannanti|0	ဖြစ်ပေါ်ပြီးသော				having come into being (past or completed)
+SINGLE_NEW	uppannañceva|0	ဖြစ်ပေါ်ပြီးသော				having come into being (past or completed)
+SINGLE_NEW	uppajjamānanti|0	ဖြစ်ပေါ်ဆဲ				arising, what is in the course of arising (present participle, quoted with iti)
+SINGLE_NEW	uppajjamānañca|0	ဖြစ်ပေါ်ဆဲ				arising, what is in the course of arising (present participle, with ca)
+SINGLE_NEW	nirujjhamānanti|0	ချုပ်ငြိမ်းဆဲ				ceasing, what is in the course of ceasing (present participle, quoted with iti)
+SINGLE_NEW	nirujjhamānañca|0	ချုပ်ငြိမ်းဆဲ				ceasing, what is in the course of ceasing (present participle, with ca)
+SINGLE_NEW	uppannañca|0	ဖြစ်ပေါ်ပြီးသော				having come into being (past or completed)
+SINGLE_NEW	cittasamaṅgīnaṃ|0	စိတ်နှင့် ပြည့်စုံသူ				of those possessed of a mind (genitive pl.)
+SINGLE_DIFF	atītānāgataṃ|0	အတိတ် … အနာဂတ်	အတိတ်နှင့် အနာဂတ်	tag	pi-5 atītānāgataṃ|0	bygone and yet to come (nominative sg.)
+SINGLE_NEW	niruddhanti|0	ချုပ်ငြိမ်းပြီးသော				having come to an end (past or completed)
+SINGLE_NEW	anāgatañca|0	အနာဂတ်				consciousness that has not yet arisen
+SINGLE_SAME	atītaṃ|0	အတိတ်	အတိတ်	tag	pi-2 atītaṃ|0	past, gone by (neuter sg. adjective)
+SINGLE_NEW	atikkantakālavāro|0	ကာလ ကျော်လွန်ပြီးခြင်း ဖော်ပြချက်				a named division of a chapter
+SINGLE_SAME	anāgataṃ|0	အနာဂတ်	အနာဂတ်	tag	pi-2 anāgataṃ|0	future, not yet come (neuter sg. adjective)
+SINGLE_NEW	uppādakkhaṇaṃ|0	ဖြစ်ခြင်း ခဏ				the first phase of an instant of consciousness
+SINGLE_NEW	uppādakkhaṇañca|0	ဖြစ်ခြင်း ခဏ				the first phase of an instant of consciousness
+SINGLE_NEW	bhaṅgakkhaṇaṃ|0	ပြိုပျက်ခြင်း ခဏ				the last phase of an instant of consciousness
+SINGLE_NEW	bhaṅgakkhaṇañca|0	ပြိုပျက်ခြင်း ခဏ				the last phase of an instant of consciousness
+SINGLE_NEW	atītañca|0	အတိတ်				consciousness that has already ceased
+SINGLE_SAME	paccuppannaṃ|0	ပစ္စုပ္ပန်	ပစ္စုပ္ပန်	tag	pi-2 paccuppannaṃ|0	present, arisen now (neuter sg. adjective)
+SINGLE_NEW	cittake|0	စိတ် အပိုင်း				the mind section, in the names of the cited sections 'yassa cittake …' (locative)
+SINGLE_NEW	sarāgapacchimacittassa uppādakkhaṇe|0	ရာဂ ရှိသော နောက်ဆုံး စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	sarāgacittassa uppādakkhaṇe|0	ရာဂ ရှိသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	pacchimakusalacittassa|0	နောက်ဆုံး ကုသိုလ်စိတ်				of the last wholesome mind (genitive)
+SINGLE_SAME	kusalacittassa|0	ကုသိုလ်စိတ်	ကုသိုလ်စိတ်	tag	pi-1 kusalacittassa|0	of a wholesome mind (genitive sg.)
+SINGLE_NEW	dhammayamakanti|0	သဘောတရားများကို အတွဲလိုက် မေးဖြေခြင်း				name for a yamaka, paired questions
+SINGLE_NEW	yamakāni|0	အတွဲလိုက် မေးဖြေခြင်း				name for a yamaka, paired questions
+SINGLE_NEW	dhammayamakaṃ|0	သဘောတရားများကို အတွဲလိုက် မေးဖြေခြင်း				name for a yamaka, paired questions
+SINGLE_NEW	suddhadhammavāro|0	ရိုးရိုး သဘောတရား ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	suddhadhammamūlacakkavāro|0	ရိုးရိုး သဘောတရားကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_NEW	abyākatā dhammāti|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား				states that are neither skilful nor unskilful
+SINGLE_NEW	akusalā dhammāti|0	အကုသိုလ် သဘောတရား				states that are unskilful
+SINGLE_NEW	kusalā dhammāti|0	ကုသိုလ် သဘောတရား				states that are skilful
+SINGLE_NEW	abyākatañca dhamme|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … သဘောတရား				states that are neither skilful nor unskilful
+SINGLE_NEW	akusalañca dhamme|0	အကုသိုလ်နှင့် သဘောတရား				states that are unskilful
+SINGLE_NEW	kusalañca dhamme|0	ကုသိုလ်နှင့် သဘောတရား				states that are skilful
+SINGLE_NEW	abyākatañca|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော				neither skilful nor unskilful (adjective)
+SINGLE_NEW	bhāvanāvāro|0	ဘာဝနာ ပွားများခြင်းအလိုက် ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	uppajjantīti|0	ဖြစ်ပေါ်သည်				coming into being (verb, present or future)
+SINGLE_NEW	kusalavippayuttacittassa uppādakkhaṇe|0	ကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	kusalānaṃ uppādakkhaṇe|0	ကုသိုလ် … ဖြစ်ခြင်း ခဏ				the instant when skilful states come into being
+SINGLE_NEW	abyākatā ca dhammā|0	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား				states that are neither skilful nor unskilful
+SINGLE_NEW	kusalā ca dhammā|0	ကုသိုလ် သဘောတရား				states that are skilful
+SINGLE_NEW	akusalavippayuttacittassa uppādakkhaṇe|0	အကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	akusalānaṃ uppādakkhaṇe|0	အကုသိုလ် … ဖြစ်ခြင်း ခဏ				the instant when unskilful states come into being
+SINGLE_NEW	akusalā ca dhammā|0	အကုသိုလ် သဘောတရား				states that are unskilful
+SINGLE_NEW	kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe|0	ကုသိုလ်နှင့် ကင်းကွာ၍ အကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe|0	အကုသိုလ်နှင့် ကင်းကွာ၍ ကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	uppajjissanti|0	ဖြစ်ပေါ်လိမ့်မည်				coming into being (verb, present or future)
+SINGLE_NEW	uppajjissantīti|0	ဖြစ်ပေါ်လိမ့်မည်				coming into being (verb, present or future)
+SINGLE_SAME	nirujjhanti|0	ချုပ်ငြိမ်းသည်	ချုပ်ငြိမ်းသည်	tag	pi-5 nirujjhanti|0	cease, come to an end (3rd pl. present)
+SINGLE_NEW	nirujjhantīti|0	ချုပ်ငြိမ်းသည်				coming to an end (verb, present or future)
+SINGLE_NEW	kusalavippayuttacittassa bhaṅgakkhaṇe|0	ကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	kusalānaṃ bhaṅgakkhaṇe|0	ကုသိုလ် … ပြိုပျက်ခြင်း ခဏ				the instant when skilful states break up
+SINGLE_NEW	akusalavippayuttacittassa bhaṅgakkhaṇe|0	အကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	akusalānaṃ bhaṅgakkhaṇe|0	အကုသိုလ် … ပြိုပျက်ခြင်း ခဏ				the instant when unskilful states break up
+SINGLE_NEW	kusalavippayuttaakusalavippayuttacittassa bhaṅgakkhaṇe|0	ကုသိုလ်နှင့် ကင်းကွာ၍ အကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	akusalavippayuttakusalavippayuttacittassa bhaṅgakkhaṇe|0	အကုသိုလ်နှင့် ကင်းကွာ၍ ကုသိုလ်နှင့် ကင်းကွာသော စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_DIFF	nirujjhissanti|0	ချုပ်ငြိမ်းလိမ့်မည်	ချုပ်ငြိမ်းသည်	tag	pi-5 nirujjhissanti|0	will come to an end (3rd pl. future)
+SINGLE_NEW	nirujjhissantīti|0	ချုပ်ငြိမ်းလိမ့်မည်				coming to an end (verb, present or future)
+SINGLE_SAME	kusalākusalānaṃ|0	ကုသိုလ်နှင့် အကုသိုလ်	ကုသိုလ်နှင့် အကုသိုလ်	tag	pi-2 kusalākusalānaṃ|0	of wholesome and unwholesome (genitive pl.)
+SINGLE_SAME	bhāveti|0	ပွားများသည်	ပွားများသည်	tag	pi-5 bhāveti|0	develops, cultivates by practice (3rd sg. present)
+SINGLE_NEW	bhāvetīti|0	ပွားများသည်				cultivating a quality (verb, present or future)
+SINGLE_NEW	akusalaṃ dhammaṃ|0	အကုသိုလ် သဘောတရား				states that are unskilful
+SINGLE_NEW	kusalaṃ dhammaṃ|0	ကုသိုလ် သဘောတရား				states that are skilful
+SINGLE_NEW	indriyayamakaṃ|0	စွမ်းရည်များကို အတွဲလိုက် မေးဖြေခြင်း				title of the chapter of pairs on the faculties
+SINGLE_SAME	kāyindriyaṃ|0	ကိုယ်၏ စွမ်းရည်	ကိုယ်၏ စွမ်းရည်	tag	pi-5 kāyindriyaṃ|0	the controlling faculty of the body (nominative sg.)
+SINGLE_SAME	samādhindriyaṃ|0	သမာဓိ၏ စွမ်းရည်	သမာဓိ၏ စွမ်းရည်	tag	pi-5 samādhindriyaṃ|0	the controlling faculty of concentration (nominative sg.)
+SINGLE_SAME	domanassindriyaṃ|0	စိတ်ဆင်းရဲမှု၏ စွမ်းရည်	စိတ်ဆင်းရဲမှု၏ စွမ်းရည်	tag	pi-2 domanassindriyaṃ|0	the controlling faculty of grief, mental pain (nominative sg.)
+SINGLE_SAME	sotindriyaṃ|0	နား၏ စွမ်းရည်	နား၏ စွမ်းရည်	tag	pi-5 sotindriyaṃ|0	the controlling faculty of the ear (nominative sg.)
+SINGLE_SAME	vīriyindriyaṃ|0	ဝီရိယ၏ စွမ်းရည်	ဝီရိယ၏ စွမ်းရည်	tag	pi-2 vīriyindriyaṃ|0	the controlling faculty of energy (nominative sg.)
+SINGLE_SAME	upekkhindriyaṃ|0	ဥပေက္ခာ၏ စွမ်းရည်	ဥပေက္ခာ၏ စွမ်းရည်	tag	pi-2 upekkhindriyaṃ|0	the controlling faculty of equanimity (nominative sg.)
+SINGLE_SAME	cakkhundriyaṃ|0	မျက်စိ၏ စွမ်းရည်	မျက်စိ၏ စွမ်းရည်	tag-ci	pi-5 Cakkhundriyaṃ|0	the eye faculty, as one of the twenty-two controlling faculties and as the sense faculty to be guarded (nominative/accusative sg.)
+SINGLE_SAME	anaññātaññassāmītindriyaṃ|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော စွမ်းရည်	မသိရသေးသည်ကို သိရတော့မည်ဟူသော စွမ်းရည်	tag	pi-2 anaññātaññassāmītindriyaṃ|0	the faculty 'I shall know the not yet known' (nominative sg.)
+SINGLE_SAME	aññindriyaṃ|0	အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်	အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်	tag	pi-5 aññindriyaṃ|0	the controlling faculty of final knowledge (nominative sg.)
+SINGLE_SAME	aññātāvindriyaṃ|0	အပြည့်အဝ သိမြင်ပြီးသူ၏ စွမ်းရည်	အပြည့်အဝ သိမြင်ပြီးသူ၏ စွမ်းရည်	tag	pi-2 aññātāvindriyaṃ|0	the controlling faculty of one who has fully known (nominative sg.)
+SINGLE_SAME	saddhindriyaṃ|0	ယုံကြည်မှု၏ စွမ်းရည်	ယုံကြည်မှု၏ စွမ်းရည်	tag	pi-5 saddhindriyaṃ|0	the controlling faculty of faith (nominative sg.)
+SINGLE_SAME	itthindriyaṃ|0	မိန်းမ၏ စွမ်းရည်	မိန်းမ၏ စွမ်းရည်	tag-ci	pi-2 Itthindriyaṃ|0	the controlling faculty of femininity (nominative sg.)
+SINGLE_SAME	somanassindriyaṃ|0	ဝမ်းမြောက်မှု၏ စွမ်းရည်	ဝမ်းမြောက်မှု၏ စွမ်းရည်	tag	pi-5 somanassindriyaṃ|0	the controlling faculty of joy (nominative sg.)
+SINGLE_SAME	jīvitindriyaṃ|0	အသက်၏ စွမ်းရည်	အသက်၏ စွမ်းရည်	tag	pi-5 jīvitindriyaṃ|0	the life faculty (nominative sg.)
+SINGLE_SAME	purisindriyaṃ|0	ယောက်ျား၏ စွမ်းရည်	ယောက်ျား၏ စွမ်းရည်	tag	pi-2 purisindriyaṃ|0	the controlling faculty of masculinity (nominative sg.)
+SINGLE_SAME	manindriyaṃ|0	မနော၏ စွမ်းရည်	မနော၏ စွမ်းရည်	tag	pi-5 manindriyaṃ|0	the controlling faculty of mind, one of the twenty-two, the same word also naming the mind as a sense faculty to be guarded in the restraint passage (nominative sg.)
+SINGLE_SAME	satindriyaṃ|0	သတိ၏ စွမ်းရည်	သတိ၏ စွမ်းရည်	tag	pi-5 satindriyaṃ|0	the controlling faculty of mindfulness (nominative sg.)
+SINGLE_SAME	ghānindriyaṃ|0	နှာခေါင်း၏ စွမ်းရည်	နှာခေါင်း၏ စွမ်းရည်	tag	pi-5 ghānindriyaṃ|0	the controlling faculty of the nose (nominative sg.)
+SINGLE_SAME	dukkhindriyaṃ|0	နာကျင်မှု၏ စွမ်းရည်	နာကျင်မှု၏ စွမ်းရည်	tag	pi-2 dukkhindriyaṃ|0	the controlling faculty of pain (nominative sg.)
+SINGLE_SAME	sukhindriyaṃ|0	သာယာမှု၏ စွမ်းရည်	သာယာမှု၏ စွမ်းရည်	tag	pi-2 sukhindriyaṃ|0	the controlling faculty of pleasure (nominative sg.)
+SINGLE_SAME	jivhindriyaṃ|0	လျှာ၏ စွမ်းရည်	လျှာ၏ စွမ်းရည်	tag	pi-5 jivhindriyaṃ|0	the controlling faculty of the tongue (nominative sg.)
+SINGLE_SAME	paññindriyaṃ|0	ပညာ၏ စွမ်းရည်	ပညာ၏ စွမ်းရည်	tag	pi-5 paññindriyaṃ|0	the controlling faculty of wisdom (nominative sg.)
+SINGLE_SAME	samādhi|0	သမာဓိ	သမာဓိ	tag	pi-5 samādhi|0	concentration, mental composure (stem and nominative)
+SINGLE_SAME	domanassaṃ|0	စိတ်ဆင်းရဲမှု	စိတ်ဆင်းရဲမှု	tag	pi-3 domanassaṃ|0	sadness, mental displeasure (nominative sg.)
+SINGLE_SAME	upekkhā|0	ဥပေက္ခာ	ဥပေက္ခာ	tag	pi-5 upekkhā|0	equanimity, neutral feeling (nominative and stem)
+SINGLE_SAME	saddhā|0	ယုံကြည်မှု	ယုံကြည်မှု	tag	pi-5 saddhā|0	faith, confidence (nominative sg.), also as an adjective, having faith (of persons, in the good-friendship definition)
+SINGLE_DIFF_ABSENT	aññaṃ|0	အပြည့်အဝ သိမြင်ခြင်း	တခြားစီ	TAGDIFF	pi-5 Aññaṃ|0	final knowledge, the full understanding of aññindriya (nominative/accusative sg.)
+SINGLE_SAME	aññātāvī|0	အပြည့်အဝ သိမြင်ပြီးသူ	အပြည့်အဝ သိမြင်ပြီးသူ	tag	pi-5 aññātāvī|0	one who has fully known, in aññātāvindriya (compound member)
+SINGLE_SAME	somanassaṃ|0	ဝမ်းမြောက်မှု	ဝမ်းမြောက်မှု	tag	pi-5 somanassaṃ|0	gladness, mental pleasure (nominative/accusative sg.)
+SINGLE_SAME	jīvitaṃ|0	အသက်	အသက်	tag	pi-5 jīvitaṃ|0	life, vitality (nominative sg.)
+SINGLE_SAME	puriso|0	ယောက်ျား	ယောက်ျား	tag	pi-5 puriso|0	a man, male person (nominative sg.)
+SINGLE_SAME	sati|0	သတိ	သတိ	tag	pi-5 sati|0	mindfulness, alert presence of mind (nominative sg.)
+SINGLE_SAME	sukhaṃ|0	သာယာမှု	သာယာမှု	tag	pi-5 sukhaṃ|0	pleasure, happiness, or pleasant (neuter sg.)
+SINGLE_NEW	anaññātaññassāmīti|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော				the phrase naming the first-path faculty
+SINGLE_SAME	paññā|0	ပညာ	ပညာ	tag	pi-5 paññā|0	wisdom, discernment (nominative sg.)
+SINGLE_SAME	itthī|0	မိန်းမ	မိန်းမ	tag	pi-5 itthī|0	a woman (nominative sg.)
+SINGLE_NEW	anaññātaññāssāmīti|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော				the phrase naming the first-path faculty
+SINGLE_SAME	indriyā|0	စွမ်းရည်	စွမ်းရည်	tag	pi-5 indriyā|0	controlling faculties (nominative pl.)
+SINGLE_NEW	suddhindriyavāro|0	ရိုးရိုး စွမ်းရည် ဖော်ပြချက်				a named division of a chapter
+SINGLE_NEW	suddhindriyamūlacakkavāro|0	ရိုးရိုး စွမ်းရည်ကို အခြေခံ၍ လှည့်ပတ်ခြင်း ဖော်ပြချက်				heading for a cycle built on one term
+SINGLE_SAME	indriyaṃ|0	စွမ်းရည်	စွမ်းရည်	tag	pi-5 indriyaṃ|0	controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya)
+SINGLE_NEW	kāyindriyanti|0	ကိုယ်၏ စွမ်းရည်				faculty of bodily contact
+SINGLE_NEW	kāyindriyañca|0	ကိုယ်၏ စွမ်းရည်				faculty of bodily contact
+SINGLE_NEW	samādhīti|0	သမာဓိ				mental unification as a quality
+SINGLE_NEW	samādhindriyanti|0	သမာဓိ၏ စွမ်းရည်				faculty of mental unification
+SINGLE_NEW	domanassanti|0	စိတ်ဆင်းရဲမှု				unhappy mental feeling
+SINGLE_NEW	domanassindriyanti|0	စိတ်ဆင်းရဲမှု၏ စွမ်းရည်				faculty of unhappy mental feeling
+SINGLE_NEW	sotindriyanti|0	နား၏ စွမ်းရည်				faculty of hearing
+SINGLE_NEW	sotindriyañca|0	နား၏ စွမ်းရည်				faculty of hearing
+SINGLE_NEW	vīriyindriyanti|0	ဝီရိယ၏ စွမ်းရည်				steady energy as a quality of mind
+SINGLE_NEW	upekkhāti|0	ဥပေက္ခာ				neutral feeling or a balanced mind
+SINGLE_NEW	upekkhindriyanti|0	ဥပေက္ခာ၏ စွမ်းရည်				faculty of neutral feeling
+SINGLE_NEW	upekkhindriyañca|0	ဥပေက္ခာ၏ စွမ်းရည်				faculty of neutral feeling
+SINGLE_NEW	cakkhundriyanti|0	မျက်စိ၏ စွမ်းရည်				faculty of sight
+SINGLE_NEW	cakkhundriyañca|0	မျက်စိ၏ စွမ်းရည်				faculty of sight
+SINGLE_NEW	anaññātaññassāmītindriyanti|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော စွမ်းရည်				faculty belonging to the first path
+SINGLE_NEW	aññindriyanti|0	အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	aññātāvindriyanti|0	အပြည့်အဝ သိမြင်ပြီးသူ၏ စွမ်းရည်				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	saddhāti|0	ယုံကြည်မှု				trust as a quality of mind
+SINGLE_NEW	saddhindriyanti|0	ယုံကြည်မှု၏ စွမ်းရည်				faculty of trust
+SINGLE_NEW	itthindriyanti|0	မိန်းမ၏ စွမ်းရည်				faculty of femaleness
+SINGLE_NEW	aññanti|0	အပြည့်အဝ သိမြင်ခြင်း				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	aññātāvīti|0	အပြည့်အဝ သိမြင်ပြီးသူ				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	somanassanti|0	ဝမ်းမြောက်မှု				glad mental feeling
+SINGLE_NEW	somanassindriyanti|0	ဝမ်းမြောက်မှု၏ စွမ်းရည်				faculty of glad mental feeling
+SINGLE_NEW	jīvitanti|0	အသက်				being alive, or the course of a life
+SINGLE_NEW	jīvitindriyanti|0	အသက်၏ စွမ်းရည်				faculty that keeps living things alive
+SINGLE_NEW	purisoti|0	ယောက်ျား				a male person
+SINGLE_NEW	purisindriyanti|0	ယောက်ျား၏ စွမ်းရည်				faculty of maleness
+SINGLE_NEW	manindriyanti|0	မနော၏ စွမ်းရည်				faculty of thought
+SINGLE_NEW	satindriyanti|0	သတိ၏ စွမ်းရည်				faculty of steady awareness
+SINGLE_NEW	ghānindriyanti|0	နှာခေါင်း၏ စွမ်းရည်				faculty of smell
+SINGLE_NEW	dukkhindriyanti|0	နာကျင်မှု၏ စွမ်းရည်				faculty of bodily pain
+SINGLE_NEW	sukhanti|0	သာယာမှု				bodily pleasant feeling as a faculty topic
+SINGLE_NEW	sukhindriyanti|0	သာယာမှု၏ စွမ်းရည်				faculty of bodily pleasure
+SINGLE_NEW	jivhindriyanti|0	လျှာ၏ စွမ်းရည်				faculty of taste
+SINGLE_NEW	paññāti|0	ပညာ				seeing things as they are
+SINGLE_NEW	paññindriyanti|0	ပညာ၏ စွမ်းရည်				faculty of seeing things as they are
+SINGLE_NEW	itthīti|0	မိန်းမ				a female person
+SINGLE_NEW	upekkhañca|0	ဥပေက္ခာ				neutral feeling or a balanced mind
+SINGLE_NEW	itthindriyañca|0	မိန်းမ၏ စွမ်းရည်				faculty of femaleness
+SINGLE_NEW	purisañca|0	ယောက်ျား				a male person
+SINGLE_NEW	purisindriyañca|0	ယောက်ျား၏ စွမ်းရည်				faculty of maleness
+SINGLE_NEW	itthiñca|0	မိန်းမ				a female person
+SINGLE_NEW	samādhindriyañca|0	သမာဓိ၏ စွမ်းရည်				faculty of mental unification
+SINGLE_NEW	domanassindriyañca|0	စိတ်ဆင်းရဲမှု၏ စွမ်းရည်				faculty of unhappy mental feeling
+SINGLE_NEW	vīriyindriyañca|0	ဝီရိယ၏ စွမ်းရည်				steady energy as a quality of mind
+SINGLE_NEW	indriyañceva|0	စွမ်းရည်				the twenty-two controlling powers as a category
+SINGLE_NEW	anaññātaññassāmītindriyañca|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော စွမ်းရည်				faculty belonging to the first path
+SINGLE_NEW	aññindriyañca|0	အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	aññātāvindriyañca|0	အပြည့်အဝ သိမြင်ပြီးသူ၏ စွမ်းရည်				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	saddhindriyañca|0	ယုံကြည်မှု၏ စွမ်းရည်				faculty of trust
+SINGLE_NEW	somanassindriyañca|0	ဝမ်းမြောက်မှု၏ စွမ်းရည်				faculty of glad mental feeling
+SINGLE_NEW	jīvitindriyañca|0	အသက်၏ စွမ်းရည်				faculty that keeps living things alive
+SINGLE_NEW	manindriyañca|0	မနော၏ စွမ်းရည်				faculty of thought
+SINGLE_NEW	satindriyañca|0	သတိ၏ စွမ်းရည်				faculty of steady awareness
+SINGLE_NEW	ghānindriyañca|0	နှာခေါင်း၏ စွမ်းရည်				faculty of smell
+SINGLE_NEW	dukkhindriyañca|0	နာကျင်မှု၏ စွမ်းရည်				faculty of bodily pain
+SINGLE_NEW	sukhindriyañca|0	သာယာမှု၏ စွမ်းရည်				faculty of bodily pleasure
+SINGLE_NEW	jivhindriyañca|0	လျှာ၏ စွမ်းရည်				faculty of taste
+SINGLE_NEW	paññindriyañca|0	ပညာ၏ စွမ်းရည်				faculty of seeing things as they are
+SINGLE_NEW	indriyanti|0	စွမ်းရည်				the twenty-two controlling powers as a category
+SINGLE_NEW	indriyañca|0	စွမ်းရည်				the twenty-two controlling powers as a category
+SINGLE_SAME	samādhiṃ|0	သမာဓိ	သမာဓိ	tag	pi-5 samādhiṃ|0	concentration (accusative sg.)
+SINGLE_NEW	samādhiñca|0	သမာဓိ				mental unification as a quality
+SINGLE_NEW	domanassañca|0	စိတ်ဆင်းရဲမှု				unhappy mental feeling
+SINGLE_SAME	upekkhaṃ|0	ဥပေက္ခာ	ဥပေက္ခာ	tag	pi-2 upekkhaṃ|0	equanimity, neutral feeling (accusative sg.)
+SINGLE_SAME	indriye|0	စွမ်းရည်	စွမ်းရည်	tag	pi-5 indriye|0	faculties, the controlling faculties of beings (accusative pl.)
+SINGLE_SAME	saddhaṃ|0	ယုံကြည်မှု	ယုံကြည်မှု	tag	pi-5 saddhaṃ|0	confidence in the teaching (accusative)
+SINGLE_NEW	saddhañca|0	ယုံကြည်မှု				trust as a quality of mind
+SINGLE_NEW	aññañca|0	အပြည့်အဝ သိမြင်ခြင်း				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	aññātāviṃ|0	အပြည့်အဝ သိမြင်ပြီးသူ				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	aññātāviñca|0	အပြည့်အဝ သိမြင်ပြီးသူ				faculty belonging to the higher paths and final fruit
+SINGLE_NEW	somanassañca|0	ဝမ်းမြောက်မှု				glad mental feeling
+SINGLE_NEW	jīvitañca|0	အသက်				being alive, or the course of a life
+SINGLE_NEW	purisaṃ|0	ယောက်ျား				a male person
+SINGLE_SAME	satiṃ|0	သတိ	သတိ	tag	pi-5 satiṃ|0	mindfulness, as a path factor (accusative sg.)
+SINGLE_NEW	satiñca|0	သတိ				steady awareness as a quality of mind
+SINGLE_NEW	ghānañca|0	နှာခေါင်း				the organ of smell
+SINGLE_SAME	sukhañca|0	သာယာမှု	သာယာမှု	tag	pi-2 sukhañca|0	and pleasure, happiness (accusative sg.)
+SINGLE_NEW	jivhañca|0	လျှာ				the organ of taste
+SINGLE_NEW	anaññātaññassāmītiṃ|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော				the phrase naming the first-path faculty
+SINGLE_NEW	anaññātaññassāmītiñca|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော				the phrase naming the first-path faculty
+SINGLE_SAME	paññaṃ|0	ပညာ	ပညာ	tag	pi-5 paññaṃ|0	understanding (accusative)
+SINGLE_NEW	paññañca|0	ပညာ				seeing things as they are
+SINGLE_NEW	itthiṃ|0	မိန်းမ				a female person
+SINGLE_SAME	upekkhāya|0	ဥပေက္ခာ	ဥပေက္ခာ	tag	pi-5 upekkhāya|0	of even-mindedness (genitive)
+SINGLE_NEW	cakkhundriyamūlakaṃ|0	မျက်စိ၏ စွမ်းရည်ကို အခြေခံသော				based on the eye faculty, a cycle tag (neuter sg.)
+SINGLE_NEW	somanassena|0	ဝမ်းမြောက်မှု				glad mental feeling
+SINGLE_SAME	ñāṇavippayuttānaṃ|0	ဉာဏ်နှင့် ကင်းကွာသော	ဉာဏ်နှင့် ကင်းကွာသော	tag	pi-2 ñāṇavippayuttānaṃ|0	not accompanied by knowledge (genitive pl.)
+SINGLE_NEW	ñāṇasampayuttānaṃ|0	ဉာဏ်နှင့် ယှဉ်တွဲသော				of those endowed with knowledge, of persons reborn with knowledge (genitive pl.)
+SINGLE_SAME	purisānaṃ|0	ယောက်ျား	ယောက်ျား	tag	pi-5 purisānaṃ|0	of persons, men, in sappurisānaṃ (genitive pl.)
+MULTI_NEW	upapajjantīnaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲ / ပြန်လည် ဖြစ်ပေါ်ဆဲသူ				entering a new existence (verb or participle)
+SINGLE_NEW	itthīnaṃ|0	မိန်းမ				a female person
+SINGLE_NEW	ghānindriyamūlakaṃ|0	နှာခေါင်း၏ စွမ်းရည်ကို အခြေခံသော				based on the nose faculty, a cycle tag (neuter sg.)
+SINGLE_NEW	itthindriyamūlakaṃ|0	မိန်းမ၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of femaleness, a cycle tag (neuter sg.)
+SINGLE_NEW	purisindriyamūlakaṃ|0	ယောက်ျား၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of maleness, a cycle tag (neuter sg.)
+SINGLE_NEW	somanassavippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassasampayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāsampayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāvippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇasampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	acittakānaṃ|0	စိတ် မရှိသော				of beings without mind (genitive pl.)
+SINGLE_NEW	sacittakānaṃ|0	စိတ် ရှိသော				of beings with mind (genitive pl.)
+SINGLE_NEW	jīvitindriyamūlakaṃ|0	အသက်၏ စွမ်းရည်ကို အခြေခံသော				based on the life faculty, a cycle tag (neuter sg.)
+SINGLE_NEW	somanassasampayuttasaddhāvippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲ၍ ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassasampayuttasaddhāsampayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲ၍ ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttasomanassavippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttasomanassasampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassasampayuttañāṇavippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassasampayuttañāṇasampayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇasampayuttasomanassavippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ယှဉ်တွဲ၍ ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇasampayuttasomanassasampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ယှဉ်တွဲ၍ ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassindriyamūlakaṃ|0	ဝမ်းမြောက်မှု၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of glad mental feeling, a cycle tag (neuter sg.)
+SINGLE_NEW	upekkhāsampayuttasaddhāvippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲ၍ ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāsampayuttasaddhāsampayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲ၍ ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttaupekkhāvippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttaupekkhāsampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဥပေက္ခာနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāsampayuttañāṇavippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāsampayuttañāṇasampayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇasampayuttaupekkhāvippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ယှဉ်တွဲ၍ ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇasampayuttaupekkhāsampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ယှဉ်တွဲ၍ ဥပေက္ခာနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhindriyamūlakaṃ|0	ဥပေက္ခာ၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of neutral feeling, a cycle tag (neuter sg.)
+SINGLE_NEW	saddhāsampayuttañāṇavippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāsampayuttañāṇasampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ယှဉ်တွဲ၍ ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhindriyamūlakaṃ|0	ယုံကြည်မှု၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of trust, a cycle tag (neuter sg.)
+SINGLE_NEW	paññindriyamūlakaṃ|0	ပညာ၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of wisdom, a cycle tag (neuter sg.)
+SINGLE_NEW	uppajjantīnaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲ				being reborn, variant spelling of upapajjantīnaṃ (genitive pl. f.)
+SINGLE_NEW	somanassavippayuttaupekkhāvippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာ၍ ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttasomanassavippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာ၍ ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassavippayuttasaddhāsampayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassavippayuttasaddhāvippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāvippayuttasomanassasampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ကင်းကွာ၍ ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāvippayuttasomanassavippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ကင်းကွာ၍ ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassavippayuttañāṇasampayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာ၍ ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassavippayuttañāṇavippayuttacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ကင်းကွာ၍ ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttasomanassasampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttasomanassavippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ဝမ်းမြောက်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttasaddhāsampayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttasaddhāvippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāvippayuttaupekkhāsampayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ကင်းကွာ၍ ဥပေက္ခာနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	saddhāvippayuttaupekkhāvippayuttacittassa uppādakkhaṇe|0	ယုံကြည်မှုနှင့် ကင်းကွာ၍ ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttañāṇasampayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာ၍ ဉာဏ်နှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāvippayuttañāṇavippayuttacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ကင်းကွာ၍ ဉာဏ်နှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttaupekkhāsampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ဥပေက္ခာနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttaupekkhāvippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ဥပေက္ခာနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttasaddhāsampayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ယှဉ်တွဲသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	ñāṇavippayuttasaddhāvippayuttacittassa uppādakkhaṇe|0	ဉာဏ်နှင့် ကင်းကွာ၍ ယုံကြည်မှုနှင့် ကင်းကွာသော စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upapatticittassa|0	ပြန်လည် ဖြစ်ပေါ်ခြင်း စိတ်				the first consciousness of a new life
+SINGLE_NEW	sacakkhukā|0	မျက်စိ ရှိသော				those having the eye (nominative pl.)
+SINGLE_NEW	purisā|0	ယောက်ျား				a male person
+SINGLE_NEW	itthiyo|0	မိန်းမ				a female person
+SINGLE_NEW	upekkhāsampayuttapacchimacittaṃ|0	ဥပေက္ခာနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်				a last mind accompanied by neutral feeling (nominative sg.)
+SINGLE_NEW	somanassasampayuttapacchimacittaṃ|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်				a last mind accompanied by glad mental feeling (nominative sg.)
+SINGLE_NEW	pacchimacittasamaṅgīna|0	နောက်ဆုံး စိတ်နှင့် ပြည့်စုံသူ				of those possessed of the last mind before death (genitive pl., misspelt for pacchimacittasamaṅgīnaṃ)
+SINGLE_NEW	ghānandriyamūlakaṃ|0	နှာခေါင်း၏ စွမ်းရည်ကို အခြေခံသော				based on the nose faculty, a cycle tag (misspelt for ghānindriyamūlakaṃ)
+SINGLE_NEW	cavantāna|0	စုတေဆဲသူ				dying, leaving a state of existence
+SINGLE_NEW	itarāsaṃ|0	အခြား				those not yet mentioned in a passage
+SINGLE_NEW	somanassasampayuttapacchimacittassa uppādakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	upekkhāsampayuttapacchimacittassa uppādakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်၏ ဖြစ်ခြင်း ခဏ				the instant when a stated kind of consciousness comes into being
+SINGLE_NEW	somanassasampayuttapacchimacittassa bhaṅgakkhaṇe|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	upekkhāsampayuttapacchimacittasamaṅgīnaṃ|0	ဥပေက္ခာနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်နှင့် ပြည့်စုံသူ				of those possessed of a last mind accompanied by neutral feeling (genitive pl.)
+SINGLE_NEW	upekkhāsampayuttapacchimacittassa bhaṅgakkhaṇe|0	ဥပေက္ခာနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်၏ ပြိုပျက်ခြင်း ခဏ				the instant when a stated kind of consciousness breaks up
+SINGLE_NEW	somanassasampayuttapacchimacittasamaṅgīnaṃ|0	ဝမ်းမြောက်မှုနှင့် ယှဉ်တွဲသော နောက်ဆုံး စိတ်နှင့် ပြည့်စုံသူ				of those possessed of a last mind accompanied by glad mental feeling (genitive pl.)
+SINGLE_NEW	cavantīnaṃ|0	စုတေဆဲသူ				dying, leaving a state of existence
+SINGLE_NEW	uppajjantānaṃ|0	ပြန်လည် ဖြစ်ပေါ်ဆဲ				being reborn, variant spelling of upapajjantānaṃ (genitive pl.)
+SINGLE_SAME	bhāventi|0	ပွားများသည်	ပွားများသည်	tag	pi-5 bhāventi|0	develop, cultivate (3rd pl. present)
+SINGLE_NEW	sacchikarotīti|0	မျက်မှောက်ပြုသည်				making directly evident (verb, present)
+SINGLE_DIFF_ABSENT	sacchikaroti|0	မျက်မှောက်ပြုသည်	မျက်မှောက် ပြုသည်	tag	pi-5 sacchikaroti|0	experiences directly (3rd sg.)
+SINGLE_SAME	pajahanti|0	ပယ်သည်	ပယ်သည်	tag	pi-5 pajahanti|0	give up (3rd pl. present)
+SINGLE_NEW	domanassindriyamūlakaṃ|0	စိတ်ဆင်းရဲမှု၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of unhappy mental feeling, a cycle tag (neuter sg.)
+SINGLE_NEW	anaññātaññassāmītindriyamūlakaṃ|0	မသိရသေးသည်ကို သိရတော့မည်ဟူသော စွမ်းရည်ကို အခြေခံသော				based on the faculty 'I shall know the not yet known', a cycle tag (neuter sg.)
+SINGLE_NEW	aññindriyamūlakaṃ|0	အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်ကို အခြေခံသော				based on the faculty of final knowledge, a cycle tag (neuter sg.)
+SINGLE_NEW	aggaphalaṃ|0	အမြတ်ဆုံး ဖိုလ်				the fruit of the final path, full awakening
+SINGLE_NEW	maggasamaṅgino|0	မဂ်နှင့် ပြည့်စုံသူ				someone endowed with a stated path
+SINGLE_DIFF_ABSENT	sacchikaronti|0	မျက်မှောက်ပြုသည်	မျက်မှောက် ပြုသည်	tag	pi-5 sacchikaronti|0	experience directly (3rd pl. present)
+SINGLE_NEW	bhāvitthāti|0	ပွားများခဲ့သည်				having cultivated a quality
+SINGLE_NEW	bhāvittha|0	ပွားများခဲ့သည်				having cultivated a quality
+SINGLE_NEW	sacchikaritthāti|0	မျက်မှောက်ပြုခဲ့သည်				having made directly evident
+SINGLE_NEW	sacchikarittha|0	မျက်မှောက်ပြုခဲ့သည်				having made directly evident
+SINGLE_NEW	sacchākāsi|0	မျက်မှောက်ပြုခဲ့သည်				having made directly evident
+SINGLE_NEW	pajahissanti|0	ပယ်လိမ့်မည်				giving up a defilement or tendency (verb)
+SINGLE_NEW	bhāvessatīti|0	ပွားများလိမ့်မည်				cultivating a quality (verb, present or future)
+SINGLE_NEW	bhāvessanti|0	ပွားများလိမ့်မည်				cultivating a quality (verb, present or future)
+SINGLE_NEW	bhāvessati|0	ပွားများလိမ့်မည်				cultivating a quality (verb, present or future)
+SINGLE_NEW	sacchikarissatīti|0	မျက်မှောက်ပြုလိမ့်မည်				making directly evident, experiencing (verb, present or future)
+SINGLE_NEW	sacchikarissati|0	မျက်မှောက်ပြုလိမ့်မည်				making directly evident, experiencing (verb, present or future)
+SINGLE_NEW	sacchikarissanti|0	မျက်မှောက်ပြုလိမ့်မည်				making directly evident, experiencing (verb, present or future)
+SINGLE_NEW	anāgāmimaggasamaṅgi|0	အနာဂါမိမဂ်နှင့် ပြည့်စုံသူ				the path to the third stage of awakening
+SINGLE_NEW	yamakapakaraṇaṃ|0	အတွဲလိုက် မေးဖြေခြင်း ကျမ်း				title of this whole book

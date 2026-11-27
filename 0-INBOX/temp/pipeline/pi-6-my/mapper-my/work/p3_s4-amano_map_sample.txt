@@ -1,0 +1,5 @@
+preamble: lines 3 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 1
+1-mulayamaka: lines 139 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 189
+2-01-khandhayamaka: lines 195 bad [] presence-fails 0 punct 0 unmapped 0 NDE 0 ruled 22
+sources [('stock', 569), ('mula', 400), ('khandha', 371), ('verb', 283), ('place', 123), ('base:stock', 102), ('terms', 97), ('frame', 41), ('compose', 28), ('heading', 4), ('title', 3)]
+same 975 new 856 diff 80

@@ -1,0 +1,26 @@
+    'ekamūlakaṃ': "pi-3 'section label for items taken one at a time' «တစ်မျိုးတွဲကို အခြေခံသော» (Dhātukathā) not "
+                  "attested; «တူညီသော အမြစ်ကို အခြေခံသော» is eka = the same root (^6-1-57 …; map-table)",
+    'anulomaṃ': "pi-5 'direct order of argument' «အစဉ်အတိုင်း» not attested; «အဟုတ်ပြ ပုံစံ» is the affirmative form "
+                "of the Yamaka's paired questions (^6-2-2-1-0 …; map-table, notes-sample departure 2)",
+    'paccanīkaṃ': "pi-5 'inverted order of argument' «ပြောင်းပြန်» not attested; «အငြင်းပြ ပုံစံ» is the negated form "
+                  "of the paired questions (^6-2-2-2-0 …; map-table)",
+    'viññāṇañca': "pi-5 / pi-1 'infinity of consciousness' (viññāṇañcāyatana) not attested; «သိစိတ်» is viññāṇaṃ + ca "
+                  "(^6-2-39, ^6-2-49; map-table R1)",
+    'arūpaṃ': "pi-5 / pi-2 adjective 'immaterial' «ရုပ် မဟုတ်သော» not attested; «ရုပ်မရှိသော ဘုံ» is the immaterial "
+              "plane (^6-2-50 …; map-table rule 11, my6-zeroshot-terms §6)",
+    'arūpā': "pi-2 adjective «ရုပ် မဟုတ်သော» not attested; «ရုပ်မရှိသော ဘုံ» is the ablative of the plane, 'Arūpā "
+             "cavantānaṃ' (^6-2-104 …; map-table R5)",
+    'cakkaṃ': "pi-5 / pi-2 wheel «စကြာ / တရားစက်» (brahmacakka) not attested; «လှည့်ပတ်ခြင်း» is the cycle, the round "
+              "of questions (^6-3-4 …; brief)",
+    'dhātū': "pi-5 'sphere, plane' «ဘုံ» not attested; «ဓာတ်» is the elements of the chapter on elements (^6-4-4 …; "
+             "brief: dhātu «ဓာတ်» vs pi-5 «ဘုံ»)",
+    'rūpadhātuṃ': "pi-5 sense kept for the plane «သိမ်မွေ့သော ရုပ်ဘုံ» (ch. 7); «အဆင်းအရောင် ဓာတ်» is the "
+                  "visible-form element of the eighteen (^6-4-10, ^6-4-11; map-harmonise §B kept: sense)",
+    'aññaṃ': "pi-5 'other, different' «တခြားစီ / အခြား» not attested; «အပြည့်အဝ သိမြင်ခြင်း» is aññā, final "
+             "knowledge, of the faculty aññindriya (^6-10-2 …; brief)",
+    'kāyasaṅkhāraṃ': "pi-5 'volitional construction through the body' «ကိုယ်ဖြင့် …» not attested; «ကိုယ်၏ "
+                     "ပြုပြင်ဖန်တီးမှု» is the bodily formation, the breathing of the saṅkhārayamaka (^6-6-159)",
+    'vacīsaṅkhāraṃ': "pi-5 'volitional construction through speech' «နှုတ်ဖြင့် …» not attested; «နှုတ်၏ "
+                     "ပြုပြင်ဖန်တီးမှု» is the verbal formation, vitakka-vicāra, of the saṅkhārayamaka (^6-6-159)",
+    'kāmāvacarānaṃ': "pi-2 sense kept for the adjective «ကာမဘုံနှင့် ဆိုင်သော» (^6-6-39 …); «ကာမဘုံ၌ ရှိသူ / ရှိသော» "
+                     "are the beings of the plane (^6-3-41 …; map-table R5, map-harmonise §B kept: grammar / sense)",

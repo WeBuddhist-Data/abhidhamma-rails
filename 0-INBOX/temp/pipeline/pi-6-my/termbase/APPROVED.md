@@ -1,0 +1,29 @@
+# pi-6 Burmese termbase: APPROVED and LOCKED
+
+- **Approval:** approved and locked by the coordinator on 2026-11-22, under the user's standing go-ahead ("dont ask for my permission, continue now"; "continue now for pi all").
+- **File:** `AI_translation/burmese/pi-6-pali-burmese-termbase-plain.md`.
+  - 1126 headwords and 1128 senses.
+  - 11 multi-candidate senses decided, 4 aligned, 0 outside.
+  - Decisions: `decisions-A.tsv`, built by `build.py` from raw-multi / raw-align / raw-family / raw-textinc.
+  - Report: `termbase-decisions.md`. Explanations: `notes-part5.txt`.
+- **sha256:** `847e49cdef8bc8c3f90d2de9f92fd0c6479f60e17a04c8243286b12602a86453`. The coordinator re-ran build.py and the assembler: identical, no errors.
+- **Approved as built by the termbase agent:**
+  - 250 of 283 shared senses take a locked term: pi-5 196, pi-4 3, pi-3 16, pi-2 29, pi-1 6.
+  - 33 depart, each explained: 22 are other senses (the senses step's new senses, the hetuvāra list, the plane itself); 8 have a locked term that is absent from the text; 3 are chosen departures.
+  - Family scan: 20 → 18, all explained.
+  - Identity with pi-1 … pi-5: 0 differing.
+- **Key choices approved:**
+  - The agent-noun form for the beings / persons genitives: pañcavokārānaṃ, upapajjantānaṃ / -īnaṃ, itaresaṃ, pacchimabhavikānaṃ, …āvacarānaṃ «…၌ ရှိသူ», abhisametāvīnaṃ. Where the text has the attributive before a person noun, the rails class that as INFLECTION and do not change it.
+  - The chosen departures from pi-5:
+    - yattha «အကြင်နေရာ»;
+    - uppajjamānaṃ «ဖြစ်ပေါ်ဆဲ», kept apart from uppanna «ဖြစ်ပေါ်ပြီးသော»;
+    - nirujjhissanti «ချုပ်ငြိမ်းလိမ့်မည်».
+  - The terms that settle §A text items:
+    - atītānāgataṃ «အတိတ်နှင့် အနာဂတ်» (pi-5);
+    - kāyasaṅkhāra «ကိုယ်၏ ပြုပြင်ဖန်တီးမှု» (the breathing of the Saṅkhāra chapter);
+    - sacchikaroti joined «မျက်မှောက်ပြု…»;
+    - sadisa «…နှင့် တူညီသည်»;
+    - uppāda: the vāra name «ဖြစ်ပေါ်ခြင်း» vs the moment «ဖြစ်ခြင်း ခဏ».
+  - The answer register stays as approved: Natthi «မရှိပါ။» in the text, while the term is «မရှိသည်»; Āmantā «ဟုတ်ပါသည်။».
+- **For the rails step:** the §A items the termbase leaves (notes-part5.txt): 1, 3, 4, 5, 6 (punctuation and label slips), 7 and 14 (words the text adds).
+- **Locked:** the rails translation uses this termbase as a fixed reference. Never edit the termbase file; report a term that turns out wrong.

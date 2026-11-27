@@ -1,0 +1,10 @@
+wrote 79 decision lines -> dry-decisions-sample.txt
+  manual 0 | p5_same 8 | p5_subset 3 | p5_plus 2 | p5_lump 1 | p4_same 2 | p4_subset 0 | p4_plus 0 | p4_lump 0 | p3_same 0 | p3_subset 0 | p3_plus 0 | p3_lump 0 | p2_same 3 | p2_subset 0 | p2_plus 0 | p2_lump 2 | p1_same 0 | p1_subset 0 | p1_plus 0 | p1_lump 0 | mr 58 | case_only 1
+REVIEW (5): check, then add to LUMP_OK or MANUAL:
+  abyākatā dhammā [pi-5 senses + later binding sense for ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား]: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား
+  nāmā [pi-5 one sense, new values စိတ်ပိုင်း]: စိတ်ပိုင်း
+  sambhavo [pi-2 one sense, new values ဖြစ်တည်ရာ]: ဖြစ်တည်ရာ
+  kusalahetū [pi-2 one sense, new values ကုသိုလ်၏ အကြောင်း]: ကုသိုလ်၏ အကြောင်း
+  avasesā [pi-5 senses + later binding sense for ကြွင်းကျန်သော]: ကြွင်းကျန်သော
+UNRESOLVED (1): write MANUAL:
+  paccayo	pi-5 senses ['support, conditioning factor (nominative)', 'reliance on others, in parapaccayo (compound final)']	burmese=['အထောက်အပံ့']

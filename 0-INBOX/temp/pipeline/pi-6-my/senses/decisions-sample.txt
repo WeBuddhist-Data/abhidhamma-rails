@@ -1,0 +1,83 @@
+# Pāli→Burmese pi-6 sense decisions, written by gen_decisions_my.py from agg-sample.tsv
+# English tags: pi-5, then pi-4, pi-3, pi-2, pi-1 Burmese senses (binding), else Marathi pi-6 senses (tags only), or MANUAL;
+# values: pi-6 Burmese keyword map only.
+abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+yamakapāḷi: {title of this whole book: အတွဲလိုက် မေးဖြေခြင်း}
+mūlayamakaṃ: {title of the chapter on roots: အမြစ်များကို အတွဲလိုက် မေးဖြေခြင်း}
+kusalamūlā: {the wholesome roots (nominative pl.): ကုသိုလ်၏ အမြစ်}
+kusalā dhammā: {wholesome phenomena, said of all wholesome states (nominative pl.): ကုသိုလ် သဘောတရား}
+kusalā: {wholesome, said of phenomena (nominative pl.): ကုသိုလ်}
+uddeso: {the summary statement, opening list (heading): အကျဉ်း ဖော်ပြချက်}
+ekamūlā: {having one root in common with a given root (nominative pl.): တူညီသော အမြစ် ရှိသော}
+kusalamūlena: {a root that is skilful: ကုသိုလ်၏ အမြစ်}
+mūlavāro: {a named division of a chapter: အမြစ်အလိုက် ဖော်ပြချက်}
+aññamaññamūlā: {each serving as root for the other: အချင်းချင်း အမြစ်}
+kusalamūlamūlā: {the root of a root that is skilful (nominative pl.): ကုသိုလ်၏ အမြစ်၏ အမြစ်}
+mūlanayo: {a way of questioning used in a section: အမြစ် ခွဲနည်း}
+ekamūlamūlā: {having one root of a root in common (nominative pl.): တူညီသော အမြစ်၏ အမြစ် ရှိသော}
+mūlamūlanayo: {a root of a root, in the method of that name: အမြစ်၏ အမြစ် ခွဲနည်း}
+aññamaññamūlamūlā: {each serving as the root of a root for the other (nominative pl.): အချင်းချင်း အမြစ်၏ အမြစ်}
+mūlakanayo: {the method dealing with what stems from a root: အမြစ်ကို အခြေခံခြင်း ခွဲနည်း}
+kusalamūlakā: {based on a root that is skilful (nominative pl.): ကုသိုလ်၏ အမြစ်ကို အခြေခံသော}
+mūlamūlakanayo: {the method dealing with what stems from a root-of-roots: အမြစ်၏ အမြစ်ကို အခြေခံခြင်း ခွဲနည်း}
+ekamūlakā: {based on one root in common with a given root (nominative pl.): တူညီသော အမြစ်ကို အခြေခံသော}
+akusalā dhammā: {unwholesome phenomena (nominative pl.): အကုသိုလ် သဘောတရား}
+aññamaññamūlakā: {each stemming from the other as a root: အချင်းချင်း အမြစ်ကို အခြေခံသော}
+abyākatā dhammā: {phenomena neither wholesome nor unwholesome (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား}
+kusalamūlamūlakā: {based on the root of a root that is skilful (nominative pl.): ကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော}
+nāmā: {mentality, the mental side, in the root chapter (nominative pl.): စိတ်ပိုင်း}
+ekamūlamūlakā: {based on one root of a root in common (nominative pl.): တူညီသော အမြစ်၏ အမြစ်ကို အခြေခံသော}
+hetuvārādi: {a named division of a chapter: အကြောင်းအလိုက် ဖော်ပြချက် စသည်}
+niddeso: {detailed exposition, section heading (nominative): အကျယ် ဖော်ပြချက်}
+aññamaññamūlamūlakā: {each stemming from the other as the root of a root (nominative pl.): အချင်းချင်း အမြစ်၏ အမြစ်ကို အခြေခံသော}
+akusalamūlā: {a root that is unskilful: အကုသိုလ်၏ အမြစ်}
+akusalā: {unwholesome, said of phenomena (nominative pl.): အကုသိုလ်}
+akusalamūlena: {a root that is unskilful: အကုသိုလ်၏ အမြစ်}
+akusalamūlamūlā: {the root of a root that is unskilful (nominative pl.): အကုသိုလ်၏ အမြစ်၏ အမြစ်}
+akusalamūlakā: {based on a root that is unskilful (nominative pl.): အကုသိုလ်၏ အမြစ်ကို အခြေခံသော}
+akusalamūlamūlakā: {based on the root of a root that is unskilful (nominative pl.): အကုသိုလ်၏ အမြစ်၏ အမြစ်ကို အခြေခံသော}
+abyākatamūlā: {a root that is neither skilful nor unskilful: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်}
+abyākatā: {neither wholesome nor unwholesome (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော}
+abyākatamūlena: {a root that is neither skilful nor unskilful: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်}
+abyākatamūlamūlā: {the root of a root that is neither skilful nor unskilful (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်}
+abyākatamūlakā: {based on a root that is neither skilful nor unskilful (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်ကို အခြေခံသော}
+abyākatamūlamūlakā: {based on the root of a root that is neither skilful nor unskilful (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်၏ အမြစ်ကို အခြေခံသော}
+nāmamūlā: {a root belonging to the mental side: စိတ်ပိုင်း၏ အမြစ်}
+nāmamūlena: {a root belonging to the mental side: စိတ်ပိုင်း၏ အမြစ်}
+nāmamūlamūlā: {the root of a root belonging to the mental side (nominative pl.): စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်}
+nāmamūlakā: {based on a root belonging to the mental side (nominative pl.): စိတ်ပိုင်း၏ အမြစ်ကို အခြေခံသော}
+nāmamūlamūlakā: {based on the root of a root belonging to the mental side (nominative pl.): စိတ်ပိုင်း၏ အမြစ်၏ အမြစ်ကို အခြေခံသော}
+mūlavārauddeso: {the summary part of a section: အမြစ်အလိုက် ဖော်ပြချက်၏ အကျဉ်း ဖော်ပြချက်}
+kusalappabhavā: {the fifth of ten synonyms for a root: ကုသိုလ်၏ ပေါ်ထွက်ရာ}
+pabhavena: {the fifth of ten synonyms for a root: ပေါ်ထွက်ရာ}
+hetu: {cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member), also 'on account of', in attahetu and parahetu (compound final): အကြောင်း}
+kusalapaccayā: {having a skilful condition, the ninth synonym for a root (nominative pl.): ကုသိုလ်၏ အထောက်အပံ့}
+paccayo: {support, conditioning factor (nominative), here the ninth of the ten synonyms for a root in the hetuvāra: အထောက်အပံ့}
+kusalasambhavā: {the fourth of ten synonyms for a root: ကုသိုလ်၏ ဖြစ်တည်ရာ}
+sambhavo: {coming into being, origination (nominative sg.), here the source of origination, the fourth of the ten synonyms for a root in the hetuvāra: ဖြစ်တည်ရာ}
+kusalāhārā: {the seventh of ten synonyms for a root: ကုသိုလ်၏ အာဟာရ}
+samuṭṭhānāhārārammaṇā: {origination, nourishment and object, three synonyms for a root in one verse compound: ဖြစ်ပေါ်လာရာ အာဟာရ အာရုံ}
+samudayena: {the tenth of ten synonyms for a root: ဖြစ်ပေါ်ခြင်း}
+uddesavāro: {the summary part of a section: အကျဉ်း ဖော်ပြချက်}
+mūlaṃ: {root, as in kusalamūla (nominative sg.): အမြစ်}
+nidānañca: {the third of ten synonyms for a root: ဇာစ်မြစ်}
+kusalahetū: {the wholesome roots (nominative pl.), here 'having the skilful as cause', the second of the ten synonyms for a root in the hetuvāra: ကုသိုလ်၏ အကြောင်း}
+kusalanidānā: {having a skilful source, the third of ten synonyms for a root (nominative pl.): ကုသိုလ်၏ ဇာစ်မြစ်}
+kusalasamuṭṭhānā: {having a skilful origin, the sixth of ten synonyms for a root (nominative pl.): ကုသိုလ်၏ ဖြစ်ပေါ်လာရာ}
+kusalārammaṇā: {having a skilful object, the eighth of ten synonyms for a root (nominative pl.): ကုသိုလ်၏ အာရုံ}
+kusalasamudayā: {having a skilful arising, the tenth of ten synonyms for a root (nominative pl.): ကုသိုလ်၏ ဖြစ်ပေါ်ခြင်း}
+avasesā: {the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော}
+kusalamūlāti: {a root that is skilful: ကုသိုလ်၏ အမြစ်}
+kusalamūlāni: {the wholesome roots (nominative pl.): ကုသိုလ်၏ အမြစ်}
+kusalāti: {states that are skilful: ကုသိုလ်}
+kusalasamuṭṭhānaṃ: {material form that arises from a stated state: ကုသိုလ်မှ ဖြစ်ပေါ်လာသော}
+rūpaṃ: {matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ်}
+ekamūlāti: {having one root in common, quoted with iti: တူညီသော အမြစ် ရှိသော}
+ekamūlaṃ: {having one root in common (neuter sg.): တူညီသော အမြစ် ရှိသော}
+ekamūlañceva: {both having one root in common (neuter sg., with ceva): တူညီသော အမြစ် ရှိသော}
+kusalaṃ: {wholesome, often standing for the wholesome mind (neuter sg.): ကုသိုလ်}
+kusalañca: {skilful, also as a noun 'a skilful state' (neuter sg., with ca): ကုသိုလ်}
+uppajjanti: {they arise, come into being (3rd pl. present): ဖြစ်ပေါ်သည်}
+aññamaññamūlāti: {each serving as root for the other: အချင်းချင်း အမြစ်}
+aññamaññamūlāni: {each serving as root for the other: အချင်းချင်း အမြစ်}
+mūlāni: {roots, the wholesome and unwholesome root conditions (nominative pl.): အမြစ်}
