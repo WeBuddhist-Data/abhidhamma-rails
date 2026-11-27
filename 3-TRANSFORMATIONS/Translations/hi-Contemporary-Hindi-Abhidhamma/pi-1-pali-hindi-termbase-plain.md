@@ -495,7 +495,7 @@ ajjhattaṃ arūpa: {'not perceiving material form in oneself', in ajjhattaṃ a
 rūpāni: {visible forms, objects of the eye, seen outside (accusative pl.): दृश्य रूप}
 jānāmi: {I know, in the thought 'jānāmi passāmi' (1st sg. present): जानना}
 abhibhuyya: {having mastered, overcome (absolutive): विजय पाकर}
-bahiddhā: {outside, externally, of forms seen outside and in 'ito bahiddhā' 'outside this teaching' (adverb): बाहर; external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb): दूसरों से संबंधित}
+bahiddhā: {outside, externally, of forms seen outside and in 'ito bahiddhā' 'outside this teaching' (adverb): बाहर; external, belonging to others, in the internal and external triad (adverb): दूसरों से संबंधित; in 'ajjhattaṃ vā bahiddhā vā' of the four elements ^1-967–970 the sense is 'external' (aṭṭhakathā: bāhiraṃ), rendered बाहर}
 saññī: {perceiving, having perception (masculine sg.): पहचान रखना}
 rūpasaññī: {perceiving material form, having the perception of matter (masculine sg.): भौतिक रूप की पहचान रखना}
 passāmīti: {'I see', closing the thought 'jānāmi passāmi' (1st sg. present, with ti): देखना}
@@ -913,7 +913,7 @@ ghāna: {the nose, the smelling organ (stem and compound member): नाक}
 ghānāyatanaṃ: {the nose sense base (nominative sg.): नाक का इंद्रिय-क्षेत्र}
 ghānadhātu: {the nose element (nominative sg.): नाक का तत्व}
 ghānasamphassassa: {of nose-contact, contact through smelling (genitive sg.): नाक का संपर्क}
-upādiṇṇaṃ: {kamma-born, produced by past action (neuter sg. participle): कर्म से उत्पन्न}
+upādiṇṇaṃ: {kamma-born, produced by past action (neuter sg. participle): कर्म से उत्पन्न; taken up, grasped, kamma-born or not, in the element definitions ^1-967–970 (aṭṭhakathā) (neuter sg. participle): ग्रहण किया हुआ}
 saññāya: {of perception, recognition (genitive sg.): पहचान}
 rūpassa mudutā: {the pliancy of matter (nominative sg.): भौतिक रूप की मृदुता}
 gandhāyatanaṃ: {the smell sense base (nominative sg.): गंध का इंद्रिय-क्षेत्र}
@@ -1399,7 +1399,7 @@ dhammā bhāvanāya pahātabbahetukā: {phenomena whose roots are to be abandone
 avasesā: {the remaining ones, the rest (nominative pl.): शेष}
 avasesā kusala: {the remaining wholesome (nominative pl. phrase): शेष हितकर}
 dhammā: {phenomena, states (nominative pl.): परिघटना}
-pahātabbahetukā: {having roots that are to be abandoned (nominative pl.): छोड़े जाने वाले मूलों वाला}
+pahātabbahetukā: {having roots that are to be abandoned (nominative pl.): छोड़े जाने वाले मूलों वाला; having no root to be abandoned, in neva dassanena na bhāvanāya pahātabbahetukā (aṭṭhakathā ^1-528) (nominative pl.): छोड़े जाने वाले मूलों से भी रहित}
 akusalābyākatā: {unwholesome and neither wholesome nor unwholesome (nominative pl.): हानिकर और नैतिक रूप से अनिर्धारित}
 dhammā ācayagāmino: {phenomena leading to accumulation of rebirth (nominative pl.): संचय की ओर ले जाने वाली परिघटना}
 maggā apariyāpannā: {the paths not included in the round of existence (nominative pl., gapped): अस्तित्व के लोकों में न समाए हुए … मार्ग}

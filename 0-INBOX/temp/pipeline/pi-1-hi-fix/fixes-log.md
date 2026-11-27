@@ -103,7 +103,47 @@ For the human reviewers (only a native reader or a specialist can settle these):
 - *niyatā* «उन्हीं से बँधी»: the commentary glosses it *attani jātā*, "arisen in oneself".
 - In the *sīlabbataparāmāsa* wording, «शुद्धि का मार्ग» uses मार्ग, which is also the word for *magga*, the path.
 - Is «चार-चार / पाँच-पाँच की विधि» (the four- and five-fold jhāna method) clear?
-- The Pāli source has a stray «ः» at ^1-1123 and ^1-1241. That is a source-file matter, not a translation one.
+- The Pāli source has a stray «ः» in 11 blocks: ^1-1106, 1123, 1128, 1143, 1144, 1168, 1181, 1240, 1241, 1369, 1371. The Hindi renders it as «;». That is a source-file matter, not a translation one.
+
+## Comparison with the scholar version (2026-11-27)
+
+The only scholar version in the vault is the English scholarly translation of the Mātikā (`pali-english/en-dhammasangani-ai-auto-scholarly-1.md`, with its own termbase). Its 164 lines (22 triads, 142 dyads) were compared one by one with the Hindi and the Pāli, using the aṭṭhakathā where needed. Report: `scholar-compare/compare-hi.md`.
+
+| Verdict | Lines |
+|---|---|
+| Same meaning | 88 |
+| Same meaning, Hindi plainer (expected under plain.md; e.g. *āsava* मन के मैल, *bhāvanā* मानसिक अभ्यास) | 25 |
+| Different readings, both defensible | 2 |
+| The English scholar version is off, the Hindi matches the Pāli | 48 (e.g. "object of …" terms rendered as agents, *sāsava* "defiled", *hetu* "reason") |
+| **The Hindi is off** | **1** |
+
+The one Hindi error, confirmed by hand and fixed:
+- ***neva dassanena na bhāvanāya pahātabbahetukā* (^1-M1-9, ^1-1018, ^1-1019, ^1-1409, ^1-1410; 5 places).** The old Hindi was «न सत्य-दर्शन से, न मानसिक अभ्यास से छोड़े जाने वाले मूलों वाली» ("having roots abandoned by neither"). The aṭṭhakathā on ^1-M1-9 rejects exactly that reading (*"Itarathā hi ahetukānaṃ aggahaṇaṃ bhaveyya"*), and the text's own lists include rootless matter and nibbāna. Now: «सत्य-दर्शन से छोड़े जाने वाले मूलों से भी रहित और मानसिक अभ्यास से छोड़े जाने वाले मूलों से भी रहित», the wording ^1-M2-85/86 already used. The termbase entry *pahātabbahetukā* gets this as a second sense.
+
+All checks were rerun with the same results. This fix is not yet committed (the push 329f385e is before it).
+
+## Last verification (2026-11-27)
+
+Every automated check was rerun on the full text, all passing:
+- verify_hi 14/14, block IDs 14/14, 1,782 links;
+- repeated sentences identical;
+- adherence: 27 inflected-form misses, as before;
+- no old wording, no agreement errors;
+- display clean.
+
+A fresh reviewer, who did not see the earlier reviews, checked one example of each of the 62 kinds of change and 140 blocks no earlier review had seen. Report: `review3/last-review-hi.md`.
+
+Verdicts:
+- **Audience (plain.md):** satisfied, with 2 minor corrections.
+- **Scholar check:** satisfied, with the same 2.
+
+Both corrections were confirmed in the vault's aṭṭhakathā on ^1-967 (*"Bahiddhāti bāhiraṃ. Upādiṇṇanti na kammasamuṭṭhānameva … sarīraṭṭhakassetaṃ gahaṇaṃ"*) and applied in ^1-967 to ^1-970, the four elements:
+- «चाहे कर्म से उत्पन्न हो या कर्म से उत्पन्न न हो» → «चाहे ग्रहण किया हुआ हो या ग्रहण न किया हुआ हो» (4 places);
+- «चाहे स्वयं में हो या दूसरों से संबंधित हो» → «चाहे स्वयं में हो या बाहर हो» (4 places).
+
+The termbase entries *upādiṇṇaṃ* and *bahiddhā* are updated to match. All checks were rerun with the same results.
+
+Also for the human reviewers: «काया की गाँठ» (*kāyagantha*) is literal, but the aṭṭhakathā reads *kāya* there as the mental body, so a plain reader may take it as the physical body.
 
 ## Not changed, on purpose
 

@@ -49,6 +49,12 @@ RULES = [  # (pattern, replacement, expected)
      "sīla: {virtue, moral conduct, precepts (compound member): सदाचार; rules and observances, in sīlabbata and sīlena suddhi (compound member): नियम}", 1),
     ("dukkha: {pain, suffering, or painful (compound member, as in dukkhapaṭipadā and dukkhasahagata): दुःखद}",
      "dukkha: {pain, suffering, or painful (compound member, as in dukkhasahagata): दुःखद; painful, laborious, in dukkhapaṭipadā (compound member): कष्टदायक}", 1),
+    ("pahātabbahetukā: {having roots that are to be abandoned (nominative pl.): छोड़े जाने वाले मूलों वाला}",
+     "pahātabbahetukā: {having roots that are to be abandoned (nominative pl.): छोड़े जाने वाले मूलों वाला; having no root to be abandoned, in neva dassanena na bhāvanāya pahātabbahetukā (aṭṭhakathā ^1-528) (nominative pl.): छोड़े जाने वाले मूलों से भी रहित}", 1),
+    ("upādiṇṇaṃ: {kamma-born, produced by past action (neuter sg. participle): कर्म से उत्पन्न}",
+     "upādiṇṇaṃ: {kamma-born, produced by past action (neuter sg. participle): कर्म से उत्पन्न; taken up, grasped, kamma-born or not, in the element definitions ^1-967–970 (aṭṭhakathā) (neuter sg. participle): ग्रहण किया हुआ}", 1),
+    ("external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb): दूसरों से संबंधित}",
+     "external, belonging to others, in the internal and external triad (adverb): दूसरों से संबंधित; in 'ajjhattaṃ vā bahiddhā vā' of the four elements ^1-967–970 the sense is 'external' (aṭṭhakathā: bāhiraṃ), rendered बाहर}", 1),
     # termbase-only defects (the text was already right)
     ("(3rd sg. present): व्यर्थ और नहीं}", "(3rd sg. present): नहीं}", 1),
     ("indriyabaddharūpañca nibbānañca: {matter bound to the faculties, and Nibbāna (nominative sg.): इंद्रियों से बँधा भौतिक रूप और निर्वाण}",

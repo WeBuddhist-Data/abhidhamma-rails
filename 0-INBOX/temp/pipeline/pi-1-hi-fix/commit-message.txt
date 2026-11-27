@@ -1,10 +1,10 @@
-pi-1 Hindi plain: verification fixes to the text, termbase and track copy
+pi-1 Hindi plain: last verification fixes and scholar-version comparison
 
-- Corrections from the pi-1 verification (word meaning, alignment, audience and scholar reviews):
-  viññāṇa चेतना → विज्ञान (515 places, with gender agreement; sense consciousness as «X से होने वाला विज्ञान»),
-  paṭicca "mutual" → कारणों पर आश्रित, sīlabbataparāmāsa, sakkāyadiṭṭhi, appaṇihita, siyā «कुछ स्थितियों में»,
-  upādiṇṇā and amanussasadda as in the aṭṭhakathā, misleading words (मूर्छा, अशिक्षित, निडरता, आक्रोश, सेवन …),
-  sentence fixes, and the book's name धम्मसंगणी in the title.
-- Termbase brought in line with the text; termbase-only defects fixed (Natthi, anindriyabaddha).
+- neva dassanena na bhāvanāya pahātabbahetukā: "having no root to be abandoned by either", as the
+  aṭṭhakathā on ^1-M1-9 requires (5 places, found by the comparison with the scholar version).
+- ^1-967–970 (the four elements): upādiṇṇaṃ vā anupādiṇṇaṃ vā = «ग्रहण किया हुआ हो या ग्रहण न किया हुआ हो»,
+  bahiddhā = «बाहर», as the aṭṭhakathā on ^1-967 says (found by the last review).
+- Termbase entries pahātabbahetukā, upādiṇṇaṃ and bahiddhā updated to match.
+- Line-by-line comparison with the English scholarly Mātikā (scholar-compare/), check against the
+  scholar profile (scholar-profile-check-hi.md) and the last independent review (review3/).
 - All checks pass: verify_hi 14/14, block IDs, 1,782 root-text links, alignment, termbase adherence.
-- Working files in 0-INBOX/temp/pipeline/pi-1-hi-fix/: fix scripts with expected counts, fixes-log.md, two reviews.
