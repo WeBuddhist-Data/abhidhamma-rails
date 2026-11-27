@@ -1,0 +1,35 @@
+== 0. protected inputs (termbase, zero-shot chapters + merged file, keyword map, generators, my4_formulas, terms_my4, regen_zeroshot, pi-1 / pi-2 / pi-3 final rails + termbases) unchanged
+protected md5: unchanged (84 files)
+termbase sha256: recorded lock
+== 1. reproduction test (build without the layer = the zero-shot), build (zero-shot generators + rails layer), residual rules
+plain build = zero-shot: 12 of 12 files identical
+layer: 40 source patches
+0 rule entries; 0 replacements
+5 rules; 5 replacements; 5 lines changed
+rails folder: 12 files
+== 2. check_chapter_ids / check_text_pe (pi-6-mr wrapper, copies in rails/chk-pe) / pi-4-mr/check_marks.py
+ids+text+marks over 12 files: OK
+typography (no «?», no Zawgyi range, NFC): OK
+== 3. termbase adherence: zero-shot input, rails, classification, sense-level cross-check
+zero-shot: checked 5790; misses 124 (input file reproduced)
+rails: checked 5790; misses 80
+124 zero-shot misses + 2 rails-introduced: ARTEFACT 71, GENUINE 45, INFLECTION 10
+misses left: ARTEFACT 70, INFLECTION 10; GENUINE fixed 45; INFLECTION/ARTEFACT rows no longer listed 1; GENUINE or unknown left 0
+
+sense-level: keyword-map values: 5828; = a termbase term: 5617; explained: 211 (FIXED 75, STALE 21, KEPT 77, no entry 38); unexplained or unverified: 0
+== 4. cross-chapter alignment
+align: repeated Pāli sentences: 70; with differing Burmese: 0; lines compared whole: 47
+rails align differences: 0 (zero-shot 0); new in the rails: 0; no longer differing: 0
+hidden: uneven lines 47 | unmatched repeated sentences: 0
+== 5. pi-1 / pi-2 / pi-3 identity (every pi-4 sentence that occurs in pi-1 / pi-2 / pi-3 keeps their final rails Burmese)
+pi-1 identity: 45 / 45 identical, 0 explained; differing: 0
+pi-2 identity: 35 / 36 identical, 1 explained; differing: 0
+pi-3 identity: 2 / 2 identical, 0 explained; differing: 0
+== 6. per-line scan of the rails families (L01-L25, kept items K)
+line scan: 0 lines left (zero-shot 157 flags; 74 of 74 families with Pāli hits)
+== 7. lines changed against the zero-shot
+total	60 of 561 lines changed
+== 8. rerun stability (outputs against the previous run)
+rerun: no byte changed (26 files)
+termbase sha256 6ba052ff7edf (locked, read only; recorded 6ba052ff7edf)
+ALL CHECKS PASSED

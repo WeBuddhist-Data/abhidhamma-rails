@@ -1,0 +1,2136 @@
+# Pāli→Burmese pi-4 sense decisions, written by gen_decisions_my.py from agg-part1.tsv
+# English tags: pi-3, then pi-2, then pi-1 Burmese senses (binding), else Marathi pi-4 senses (tags only), or MANUAL;
+# values: pi-4 Burmese keyword map only.
+abhidhamma: {the higher teaching, first member of the Piṭaka name: အဘိဓမ္မာ}
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+paññatti: {designation, making known (nominative sg. and compound member): သတ်မှတ်ချက် / သတ်မှတ်ဖော်ပြခြင်း}
+puggalapaññatti: {designation of persons, the title of the fourth Abhidhamma book and the member of the chapter headings such as Ekakapuggalapaññatti: ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း / ပုဂ္ဂိုလ် သတ်မှတ်ချက်}
+puggala: {individuals, as stem in the title compound: ပုဂ္ဂိုလ်}
+kāyena: {with the physical body, through the body (instrumental): ကိုယ်; with the mental body, the group of mental factors, in the third-jhāna formula (instrumental): စိတ်၏ အဖော်တို့}
+parikkhīṇā: {completely worn out, said of the taints (nominative pl. participle): ကုန်ခန်းသော}
+Katamo: {interrogative 'which?' opening each definition: အဘယ်}
+Katamo puggalo: {'which individual?', the definitional question: အဘယ် ပုဂ္ဂိုလ်}
+vimutto: {freed, as in samayavimutto (nominative sg. participle): လွတ်မြောက်သော}
+vimokkhe: {the eight deliverances (accusative pl.): လွတ်မြောက်ခြင်း}
+viharati: {dwells, abides in the attainment (3rd sg. present): နေသည်}
+samayena: {at certain times only (instrumental): အချိန်အလိုက်}
+puggalo: {an individual, person (nominative sg.): ပုဂ္ဂိုလ်}
+vuccati puggalo: {closing formula 'this individual is termed': ပုဂ္ဂိုလ် … ခေါ်သည်}
+āsavā: {the mental taints, cankers (nominative pl.): စိတ်အစွန်းအထင်း}
+samaya: {occasion, as compound member in samayavimutto: အချိန်အလိုက်}
+phusitvā: {having touched, having contacted (absolutive): ထိ၍}
+paññāya: {by wisdom, through discernment (instrumental): ပညာ}
+niddeso: {detailed exposition, section heading (nominative): အကျယ် ဖော်ပြချက်}
+ekaka: {the classification by ones (heading member): တစ်မျိုးတွဲ}
+duka: {the classification by twos (heading member): နှစ်မျိုးတွဲ}
+tika: {the classification by threes (heading member): သုံးမျိုးတွဲ}
+catukka: {the fourfold, heading member: လေးမျိုးတွဲ}
+pañcaka: {the fivefold, heading member: ငါးမျိုးတွဲ}
+chakka: {the classification by sixes (heading member): ခြောက်မျိုးတွဲ}
+sattaka: {the classification by sevens (heading member): ခုနစ်မျိုးတွဲ}
+aṭṭhaka: {the classification by eights (heading member): ရှစ်မျိုးတွဲ}
+navaka: {the classification by nines (heading member): ကိုးမျိုးတွဲ}
+dasaka: {the classification by tens (heading member): ဆယ်မျိုးတွဲ}
+ariya: {noble, in ariyamagga (compound member): အရိယာ}
+ariyapuggalā: {the eight holy individuals (nominative pl.): အရိယာ ပုဂ္ဂိုလ်}
+puggalā: {persons, individuals (nominative pl.): ပုဂ္ဂိုလ်}
+dhammo: {having the nature of, of such a character (compound final), as in kuppadhammo and akuppadhammo and in pāpadhammo and kalyāṇadhammo: သဘော ရှိသော}
+na: {not, negative particle (indeclinable): မ}
+pamādaṃ: {heedlessness (accusative): မေ့လျော့မှု}
+sahagatānaṃ: {accompanied by, compound final (genitive pl.): အတူ ဖြစ်သော}
+rūpasahagatānaṃ: {belonging to the fine-material sphere (genitive pl.): သိမ်မွေ့သော ရုပ်ဘုံနှင့်အတူ ဖြစ်သော}
+kasira: {with toil, in akasiralābhī and kasiravuttika: ပင်ပန်း / ခက်ခဲသော}
+samāpajjati: {enters into, attains a meditative state (3rd sg. present): ဝင်စားသည်}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter: သိမ်မွေ့သော ရုပ်; visible form, the object of the eye (compound member, as in rūpārammaṇa), the same meaning as outward looks in rūpappamāṇo and rūpappasanno and in sarūpavaccha 'with a calf of like colour': အဆင်းအရောင် / အဆင်း; matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha), also the material side of nāmarūpa (in nāmarūpapaccayā): ရုပ်}
+arūpa: {the immaterial sphere (compound member, as in arūpāvacara and arūpūpapatti): ရုပ်မရှိသော}
+lābhī samāpattīnaṃ: {one who obtains the attainments (phrase): ဈာန် ဝင်စားရာ … ရရှိသော}
+samāpattīnaṃ: {of the meditative attainments (genitive pl.): ဈာန် ဝင်စားရာ}
+puggalo lābhī: {the individual is an obtainer (phrase): ပုဂ္ဂိုလ် … ရရှိသော}
+kuppa: {shakable, in kuppadhammo: ပျက်ယွင်းတတ်သော}
+kiccha: {with effort, in akicchalābhī: ခက်ခဲ}
+yatthicchakaṃ: {at whatever place one wishes (adverb): အလိုရှိရာ}
+yadicchakaṃ: {whatever one wishes (adverb): အလိုရှိသည်}
+icchakaṃ: {as desired, in yāvaticchakaṃ: အလိုရှိသမျှ}
+akuppa: {unshakable, in akuppadhammo (rendered by negation): မပျက်ယွင်းတတ်သော}
+Aṭṭhānaṃ: {there is no possibility (opening formula): မဖြစ်နိုင်သော အကြောင်း}
+parihāna: {decline, in parihānadhammo: ဆုတ်ယုတ်တတ်သော}
+parihānadhammo: {subject to decline (nominative sg.): ဆုတ်ယုတ်တတ်သော သဘော ရှိသူ}
+parihāyati: {declines (3rd sg.): ဆုတ်ယုတ်သည်}
+anusañceteti: {resolves to maintain (3rd sg.): အဖန်ဖန် စေတနာ ထားသည်}
+cetanā: {intention, volition (nominative sg.): စေတနာ}
+anurakkhati: {protects, keeps up (3rd sg.): စောင့်ရှောက်သည်}
+anurakkhaṇā: {preservation, in anurakkhaṇābhabbo: စောင့်ရှောက်ခြင်း}
+pahānāya: {for the abandoning, giving up (dative sg.): ပယ်ရန်}
+pahīnāni: {given up (neuter pl. participle): ပယ်ရသော / ပယ်ပြီးသော}
+saṃyojanāni: {the bonds binding to existence (nominative pl.): နှောင်ကြိုး}
+puthu: {many, common, in puthujjana (compound member): ပုထုဇဉ်; broad, wide, in puthupañño (compound member): ကျယ်ပြန့်သော}
+puthujjano: {a worldling, an unawakened individual (nominative sg.): ပုထုဇဉ်}
+paṭipanno: {practising, on the way, toward a fruit and in attahitāya paṭipanno 'practising for his own welfare' (participle): ကျင့်ကြံသော / ကျင့်သော}
+avakkanti: {descent, entry (noun in compound): သက်ဆင်းခြင်း}
+bhū: {becoming, final member of gotrabhū: ပြောင်းသော}
+samanantarā: {right after, immediately following (adverb): ချက်ချင်း နောက်၌}
+gotra: {clan, in gotrabhū: အရိယာ အနွယ်}
+samannāgato: {endowed with, possessing (nominative sg. participle): အပြည့်အဝ ပြည့်စုံသော}
+Arahā: {the perfected one (nominative sg.): ရဟန္တာ}
+bhaya: {danger, fear, as in bhayadassāvī (compound member): ဘေး}
+sekkhā: {in training, belonging to the learner stage (nominative pl.), also the training itself as the positive part of asekkhā: ကျင့်ကြံဆဲသူ}
+uparatā: {desisting (nominative pl. participle): ရှောင်ကြဉ်သော}
+uparato: {desisting, in bhayūparato (nominative sg.): ရှောင်ကြဉ်သော}
+sīlavanto: {virtuous, of good conduct (nominative pl.): သီလ ရှိသော}
+kamma: {deeds, as compound member: ကံ}
+niyāmaṃ: {the fixed course, certainty of rightness, in sammattaniyāma (accusative sg.): သေချာသော လမ်းကြောင်း}
+kilesa: {mental defilements (heading member): ကိလေသာ}
+eḷā: {dumb, slow-witted, in eḷamūgā: နုံအသော}
+okkamituṃ: {to step into, to enter (infinitive): သက်ဆင်းရန်}
+saddhā: {faith, confidence (nominative sg.), also as an adjective, having faith (of persons, in the good-friendship definition): ယုံကြည်မှု}
+āvaraṇena: {by an obstruction (instrumental): အဟန့်အတား}
+duppaññā: {unwise, lacking wisdom (nominative pl.): ပညာ နည်းသော}
+vuccanti puggalā: {closing formula 'these individuals are termed': ပုဂ္ဂိုလ် … ခေါ်သည်}
+āgamano: {going forward (nominative): ရှေ့သို့ တိုးတက်ရန်}
+sammattaṃ: {rightness, in sammattaniyāma (accusative sg.): မှန်ကန်မှု}
+abhabba: {incapable (compound member): မထိုက်တန်သော}
+kusalesu: {wholesome, among the wholesome states or minds (locative): ကုသိုလ်}
+kusalesu dhammesu: {in wholesome phenomena, a matrix item (locative): ကုသိုလ် သဘောတရား}
+paññā: {wisdom, discernment (nominative sg.): ပညာ}
+chandikā: {having the desire to act (nominative pl.): ဆန္ဒ ရှိသော}
+bhabba: {capable (compound member): ထိုက်တန်သော / ထိန်းနိုင်သော}
+paññavanto: {wise, possessed of wisdom (nominative pl.): ပညာ ရှိသော}
+niyato: {fixed in its destiny, certain (masculine sg.): ကျိန်းသေသော / လမ်းကြောင်း ကျိန်းသေသူ}
+ānantarikā: {deeds bearing result without interval (nominative pl.): ချက်ချင်း အကျိုးပေးသော ကံ ရှိသော}
+Avasesā: {the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော}
+Avasesā puggalā: {the other individuals (phrase): ကြွင်းကျန်သော ပုဂ္ဂိုလ်}
+diṭṭhikā: {holding an opinion, compound final (nominative pl.): အယူ ရှိသော}
+micchā: {wrong, false (compound member): မှားယွင်းသော}
+micchādiṭṭhikā: {holders of wrong view (nominative pl.): မှားယွင်းသော အယူ ရှိသော}
+ṭhitā: {standing firm, settled (nominative pl. participle): တည်နေသော}
+phala: {fruit, of plants in the smell and taste lists (compound member), also in phaladāna 'gift of fruit': အသီး; fruition of the path, in phalasamaṅgī (compound member): ဖိုလ်; result, the fruit of effort or of merit, in uṭṭhānaphalūpajīvī and puññaphalūpajīvī (compound member): အကျိုး}
+magga: {the path (stem and heading): မဂ်}
+samaṅgino puggalā: {individuals endowed with a path (phrase): ပြည့်စုံသော ပုဂ္ဂိုလ်}
+samaṅgino: {endowed with (nominative pl.): ပြည့်စုံသော}
+sīsī: {one whose ends coincide, in samasīsī: ကုန်ဆုံးသော}
+hoti: {is, comes to be, becomes (3rd sg. present): ဖြစ်သည်}
+jīvita: {life, vitality (compound member): အသက်}
+sama: {simultaneous, at one and the same time, in samasīsī (compound member): တပြိုင်နက်; evenly, in due balance, in asamapekkhaṇā (compound member): ညီညီညွတ်ညွတ်}
+āsava: {the mental taints, cankers (heading member): စိတ်အစွန်းအထင်း}
+kappī: {lasting a world-cycle, in ṭhitakappī: ကမ္ဘာ}
+uḍḍayhana: {the burning up of the world-cycle (compound member): မီးလောင်ရမည့်}
+sotāpattiphala: {result of entering the stream (compound): သောတာပတ္တိဖိုလ်}
+sacchikiriyāya paṭipanno: {proceeding toward the realization (phrase): မျက်မှောက်ပြုရန် ကျင့်ကြံသော}
+sacchikiriyāya: {for the realization, direct experiencing (dative sg.): မျက်မှောက်ပြုရန်}
+phalasacchikiriyāya: {for experiencing the fruit (dative compound): ဖိုလ်ကို မျက်မှောက်ပြုရန်}
+sacchikaroti: {experiences directly (3rd sg.): မျက်မှောက် ပြုသည်}
+ṭhita: {holding in place, making last, in ṭhitakappī 'one who could make the aeon last' (compound member): တည်နေစေသော; steady, firm, in ṭhitatto (compound member): တည်ငြိမ်သော}
+sotāpatti: {stream-entry, the first stage (compound member): သောတာပတ္တိ}
+ariyo: {noble, of the noble eightfold path (masculine sg.): အရိယာ}
+asekkho: {belonging to the one beyond training, in nevasekkhanāsekkho (masculine sg.): ကျင့်ကြံမှု ပြီးဆုံးသူ}
+sekkho: {belonging to the learner in training (masculine sg.): ကျင့်ကြံဆဲသူ}
+vijjo: {possessing the three knowledges, in tevijjo: အမှန်သိမြင်မှု … ရှိသော}
+samannāgato puggalo: {individual endowed with (phrase): အပြည့်အဝ ပြည့်စုံသော ပုဂ္ဂိုလ်}
+abhiñño: {having the direct knowledges, in chaḷabhiñño: ထူးကဲစွာ သိခြင်း … ရှိသော}
+sabbaññutaṃ: {omniscience (accusative): အလုံးစုံကို သိသော ဉာဏ်}
+pāpuṇāti: {reaches (3rd sg.): ရောက်သည်}
+sambuddho: {a self-awakened one (nominative sg.): အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရား}
+abhisambujjhati: {fully understands by himself (3rd sg.): အပြည့်အဝ သိမြင်သည်}
+sammā: {right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā): မှန်ကန်သော / မှန်ကန်စွာ; perfectly, in sammāsambuddha (title line): အပြည့်အဝ}
+sammāsambuddho: {the perfectly self-awakened Buddha (nominative sg.): အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်}
+anussutesu: {in what has been handed down, in ananussutesu (locative pl.): ကြားဖူးသော}
+vasībhāvaṃ: {state of control (accusative): နိုင်နင်းခြင်း}
+balesu: {strengths (locative pl.): စွမ်းအား}
+dhammesu: {teachings, truths, in pubbe ananussutesu dhammesu 'in things not heard before' (locative pl.): တရား}
+ananussutesu dhammesu: {doctrines not previously handed down (locative pl. phrase): မကြားဖူးသော တရား}
+sāmaṃ: {by oneself (adverb): ကိုယ်တိုင်}
+saccāni: {truths, the noble realities (nominative/accusative pl.): သစ္စာ}
+pacceka: {individual, private, in paccekabuddha: ပစ္စေကဗုဒ္ဓါ}
+paccekasambuddho: {one awakened privately, who does not found a dispensation: ပစ္စေကဗုဒ္ဓါ}
+puggalo viharati: {the individual dwells (phrase): ပုဂ္ဂိုလ် … နေသည်}
+bhāga: {side, part, in ubhatobhāgavimutto (compound member): နှစ်ဖက်စလုံး}
+kāyasakkhī: {one who has witnessed with the body (nominative sg.): ကိုယ်ဖြင့် မျက်မှောက်ပြုသူ}
+patto: {having reached (nominative sg. participle): ရောက်သော}
+nirodho: {ending (nominative sg.): ချုပ်ငြိမ်းခြင်း}
+dukkhanirodho: {the ending of suffering, the third noble truth (nominative sg.): ဒုက္ခ ချုပ်ငြိမ်းခြင်း}
+vodiṭṭhā: {well seen through (nominative pl. participle): ကောင်းစွာ မြင်ပြီးသော}
+vocaritā: {thoroughly traversed (nominative pl. participle): ကောင်းစွာ ဆင်ခြင်ပြီးသော}
+samudayo: {arising, origin (nominative sg.): ဖြစ်ပေါ်ခြင်း}
+dukkhasamudayo: {the origin of suffering, the second noble truth (nominative sg.): ဒုက္ခ ဖြစ်ပေါ်ခြင်း}
+paṭipadā: {mode of progress, way of practice (heading): ကျင့်စဉ်}
+gāminī paṭipadā: {the way going to cessation (phrase): ရောက်စေသော ကျင့်စဉ်}
+puggalo pajānāti: {the individual knows (phrase): ပုဂ္ဂိုလ် … ကွဲပြားစွာ သိသည်}
+paveditā: {made known (nominative pl. participle): ဟောကြားထားသော}
+yathābhūtaṃ: {as it really is (adverb): ဟုတ်မှန်သည့်အတိုင်း}
+dukkha: {pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa): နာကျင်မှု / နာကျင်သော; suffering, the whole of what is unsatisfactory, in dukkhamūla and dukkhakkhandha (compound member): ဒုက္ခ}
+dhammā: {teachings, in tathāgatappaveditā dhammā 'the teachings made known by the Tathāgata' (nominative pl.): တရား}
+paveditā dhammā: {doctrines made known (phrase): ဟောကြားထားသော တရား}
+pajānāti: {knows clearly, understands (3rd sg. present): ကွဲပြားစွာ သိသည်}
+diṭṭhi: {view, opinion, often wrong view (stem and nominative): အယူ}
+pattassa: {of one who has reached (genitive sg.): ရောက်သော}
+saddhāvimutto: {freed through confidence (nominative sg.): ယုံကြည်မှုဖြင့် လွတ်မြောက်သူ}
+vāhiṃ: {borne along by, in paññāvāhiṃ (accusative): ဆောင်သော}
+bhāveti: {develops, cultivates by practice (3rd sg. present): ပွားများသည်}
+ṭhito: {established in, abiding in, in phale ṭhito 'established in the fruit' (nominative sg. participle): တည်သော / တည်နေသော}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya): စွမ်းရည်}
+anusārī: {one who goes along after (nominative sg.): အစဉ်လိုက်သော}
+ariyamaggaṃ: {the noble path (accusative sg.): အရိယာ မဂ်}
+maggaṃ: {the supramundane path, as a set of factors (accusative sg.): မဂ်}
+puggalassa paṭipannassa: {of an individual who is proceeding (genitive phrase): ကျင့်ကြံသော … ပုဂ္ဂိုလ်}
+paṭipannassa: {of one proceeding (genitive sg.): ကျင့်ကြံသော}
+sacchikiriyāya paṭipannassa: {of one proceeding toward realization (genitive phrase): မျက်မှောက်ပြုရန် ကျင့်ကြံသော}
+adhimattaṃ: {excessive, dominant (nominative sg.): လွန်ကဲသော}
+dhamma: {phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what the mind as sixth sense knows (as in dhammāyatana): သဘောတရား; the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra: တရား; moral nature, character, in pāpadhamma and kalyāṇadhamma (compound member): သဘော}
+saddhānusārī: {one who follows through confidence (nominative sg.): ယုံကြည်မှုကို အစဉ်လိုက်သူ}
+sambodhi: {full enlightenment, in sambodhiparāyano: အပြည့်အဝ သိမြင်ခြင်း}
+parikkhayā: {through the total ending (ablative): ကုန်ခန်းခြင်း}
+dukkhassantaṃ: {the end of dukkha (accusative): ဒုက္ခ၏ အဆုံး}
+saṃyojanānaṃ: {of the bonds (genitive pl.): နှောင်ကြိုး}
+deve: {gods, deities (accusative pl.): နတ်}
+parāyano: {destined for (nominative sg.): ရှေးရှုသော}
+mānuse: {human beings (accusative pl.): လူ}
+vinipātadhammo: {subject to downfall into lower realms (nominative sg.): အပါယ်သို့ ကျတတ်သော သဘော ရှိသော}
+sandhāvitvā: {having transmigrated (absolutive): ကူးသွား}
+sotāpanno: {one who has entered the stream (nominative sg.): သောတာပန်}
+dukkhassa: {of suffering, the whole of what is unsatisfactory, in dukkhassantakaro and the noble truth (genitive sg.): ဒုက္ခ; of pain, of bodily pain (genitive sg.): နာကျင်မှု}
+khattuṃ: {so many times (adverb), in sattakkhattuṃ: ကြိမ်}
+saṃsaritvā: {having circled on (absolutive): ကျင်လည်ပြီး}
+kulāni: {households, families (accusative pl.): အမျိုး}
+kola: {family to family, in kolaṃkolo: အမျိုး}
+bhavaṃ: {existence, a rebirth, in aṭṭhamaṃ bhavaṃ (accusative sg.): ဘဝ}
+mānusakaṃ: {pertaining to humans (accusative): လူ့}
+nibbattetvā: {having generated (absolutive): ပေါ်ထွက်စေ၍}
+bījī: {having one germ, in ekabījī: မျိုးစေ့ … ရှိသော}
+eka: {one, as in the one-item section label Ekamūlaka, here one seed, one more birth, in ekabījī (compound member): တစ်စေ့}
+āgantvā: {having returned (absolutive): ပြန်လာ၍}
+mohānaṃ: {of bewilderment (genitive pl.): မောဟ}
+dosa: {hatred, aversion (compound member): ဒေါသ}
+rāga: {lust, passion (compound member): ရာဂ}
+sakiṃ: {one time (adverb): တစ်ကြိမ်}
+sakadāgāmī: {one who returns one more time (nominative sg.): သကဒါဂါမ်}
+tanuttā: {through thinness (ablative): ပါးလျခြင်း}
+parinibbāyī: {one who attains complete extinction (nominative sg.): ပရိနိဗ္ဗာန် ပြုသော}
+āvattidhammo: {subject to coming back (nominative sg.): ပြန်လာတတ်သော သဘော ရှိသော}
+orambhāgiyānaṃ saṃyojanānaṃ: {of the bonds of the lower side (genitive pl.): အောက်ပိုင်း ဘုံနှင့် ဆိုင်သော နှောင်ကြိုး}
+anāgāmī: {one who does not come back (nominative sg.): အနာဂါမ်}
+opapātiko: {arising without parents (nominative sg.): အလိုအလျောက် ပေါ်လာသော}
+āvatti: {coming back (compound member): ပြန်လာတတ်သော}
+sañjaneti: {brings forth, produces fully (3rd sg. present): ဖြစ်ပေါ်စေသည်}
+upariṭṭhimānaṃ saṃyojanānaṃ: {of the upper bonds (genitive pl.): အထက်ပိုင်း နှောင်ကြိုး}
+antarā: {midway, before the middle of the life span, in antarāparinibbāyī (compound member): သက်တမ်း၏ အလယ်သို့ မရောက်မီ}
+āyuppamāṇaṃ: {the measure of life span (heading and nominative sg.): သက်တမ်း အတိုင်းအတာ}
+vemajjhaṃ: {the midpoint (accusative): အလယ်}
+pattaṃ: {having reached (accusative participle): ရောက်}
+upahacca: {on approaching, in upahaccaparinibbāyī: သက်တမ်း၏ အလယ်ကို ကျော်ပြီးမှ}
+kālakiriyaṃ: {the act of dying (accusative): ကွယ်လွန်ခြင်း}
+atikkamitvā: {having gone beyond (absolutive): ကျော်လွန်၍}
+saṅkhāra: {mental formations, volitional activities (compound member, in saṅkhārakkhandha), the same value also naming the formation of striving, in padhānasaṅkhāra of the bases of power: ပြုပြင်ဖန်တီးမှု; prompting, exertion, in sasaṅkhāraparinibbāyī and asaṅkhāraparinibbāyī (compound member): တိုက်တွန်းမှု}
+atappaṃ: {the Atappa Pure Abode (accusative): အတပ္ပါ ဘုံ}
+avihā: {the Aviha Pure Abode: အဝိဟာ ဘုံ}
+cuto: {passed away, having died (masculine nominative sg. participle): သေသော}
+gāmī: {leading to, going toward, in ācayagāmi and dukkhanirodhagāminī (compound final): လိုက်သွားသော / ရောက်သော}
+akaniṭṭha: {the Akaniṭṭha Pure Abode, topmost of the heavens: အကနိဋ္ဌ ဘုံ}
+sudassaṃ: {the Sudassa Pure Abode (accusative): သုဒဿာ ဘုံ}
+uddhaṃsoto: {one whose stream goes upward (nominative sg.): အထက်သို့ စီးဆင်း၍}
+paṭipanno puggalo: {individual on the way (phrase): ကျင့်ကြံသော ပုဂ္ဂိုလ်}
+byāpādānaṃ: {of ill will (genitive pl.): ဖျက်ဆီးလိုစိတ်}
+sakadāgāmi: {once-return, the second stage (compound member): သကဒါဂါမိ}
+kāma: {sensual pleasure, the sense sphere (compound member, as in kāmāvacara): ကာမ}
+tanubhāvāya: {for the weakening, thinning out (dative sg.): ပါးလျစေရန်}
+tanubhūtā: {thinned out (nominative pl. participle): ပါးလျသော}
+pahīnā: {given up (nominative pl. participle): ပယ်ပြီးသော / ပယ်ရသော}
+anāgāmi: {non-return, the third stage (compound member): အနာဂါမိ}
+avasesa: {remaining, left over: အကြွင်း}
+arahatta: {arahantship, the state of an arahant (compound member): ရဟန္တာ}
+māna: {conceit, pride (compound member): မာန}
+avijjāya: {of ignorance (genitive sg.): အမှန်ကို မသိမှု}
+uddhacca: {restlessness, agitation (compound member): ယောက်ယက်ခတ်မှု}
+pahīno: {given up (nominative sg. participle): ပယ်ရသော / ပယ်ပြီးသော}
+asuropo: {abusiveness, harsh speech (nominative sg.): စကား ကြမ်းခြင်း}
+kodho: {anger, wrath (nominative sg.): အမျက်ဒေါသ}
+kujjhitattaṃ: {the state of being angry (neuter sg.): အမျက်ဒေါသ ထွက်ထားသော အဖြစ်}
+kodhano: {wrathful one (nominative sg.): အမျက်ဒေါသ ထွက်တတ်သူ}
+paṭivirodho: {antagonism, opposition (nominative sg.): ပြန်လည် ဆန့်ကျင်ခြင်း}
+byāpajjanā: {bearing malice, being malicious (nominative sg.): ဖောက်ပြန်နေခြင်း}
+anattamanatā: {discontent, being displeased (nominative sg.): မနှစ်သိမ့်ခြင်း}
+caṇḍikkaṃ: {fierceness, violence of temper (neuter sg.): ကြမ်းကြုတ်ခြင်း}
+dussitattaṃ: {the state of being full of hate (neuter sg.): စိတ်ဆိုးထားသော အဖြစ်}
+dussanā: {hating, being hostile (nominative sg.): စိတ်ဆိုးခြင်း}
+doso: {hatred, hostility (nominative sg.): ဒေါသ}
+virodho: {hostility, conflict (nominative sg.): ဆန့်ကျင်ခြင်း}
+byāpatti: {malice, ill will (nominative sg.): ဖောက်ပြန်ခြင်း}
+byāpajjitattaṃ: {state of malevolence (nominative): ဖောက်ပြန်ထားသော အဖြစ်}
+cittassa: {of the mind (genitive sg.): စိတ်}
+upanayhanā: {act of harbouring a grudge (nominative sg.): ရန်ငြိုး သိုထားခြင်း}
+upanāhī: {one who harbours resentment (nominative sg.): ရန်ငြိုး သိုထားတတ်သူ}
+saṇṭhapanā: {composing one's deportment for show, in the hypocrisy list, also firmly fixing anger in the resentment list (nominative sg.): ကောင်းစွာ တည်ထားခြင်း}
+upanāho: {resentment, holding a grudge (nominative sg.): ရန်ငြိုး သိုထားမှု}
+anusaṃsandanā: {connecting up again and again (nominative sg.): ရန်ငြိုးကို ဆက်စပ်ထားခြင်း}
+ṭhapanā: {arranging, setting one's deportment for show, in the hypocrisy list, also maintaining anger in the resentment list (nominative sg.): တည်ထားခြင်း}
+aṭṭhapanā: {not dropping, holding fast in the mind (nominative sg.): ခိုင်ခိုင်မြဲမြဲ တည်ထားခြင်း}
+anuppabandhanā: {continuing, keeping up a grudge (nominative sg.): ရန်ငြိုးကို ဆက်တိုက် ဖွဲ့ထားခြင်း}
+daḷhīkammaṃ: {making firm (nominative): ခိုင်မြဲအောင် ပြုခြင်း}
+vibha: {the Vibhaṅga, the second Abhidhamma book, abbreviated in a cross-reference note (vibha.): ခွဲခြမ်းစိတ်ဖြာခြင်း}
+kammaṃ: {action-noun final '-making, -doing' in synonym lists, as in niṭṭhuriyakammaṃ and anāvikammaṃ: ပြုခြင်း; morally significant deeds, kamma (accusative): ကံ}
+makkhī: {one who disparages (nominative sg.): ကျေးဇူး ချေဖျက်တတ်သူ}
+makkho: {disparagement, belittling others (nominative sg.): ကျေးဇူး ချေဖျက်မှု}
+niṭṭhuriya: {harshness, as compound member: ရက်စက်ခြင်း}
+niṭṭhuriyaṃ: {harshness, callousness (nominative sg.): ရက်စက်ခြင်း}
+ṭhānaṃ: {ground, occasion, in vivādaṭṭhānaṃ 'ground for dispute' (compound final, nominative sg.): အကြောင်း}
+vivāda: {dispute, quarrel (compound member): အငြင်းပွားရာ}
+paḷāso: {presumption, rivalry (nominative sg.): တုပြိုင်မှု}
+paḷāsī: {one who is presumptuous (nominative sg.): တုပြိုင်တတ်သူ}
+āhāro: {food, what is eaten, in evamāhāro 'having such food' of the past-lives formula (compound final): အစာ; taking on, bringing along, in paḷāsāhāro 'the taking up of rivalry' (compound final): ဆောင်ခြင်း}
+appaṭinissaggo: {not giving up one's position (nominative sg.): မစွန့်လွှတ်ခြင်း}
+yugaggāho: {taking up a competing yoke, insisting on equality (nominative sg.): တန်းတူ ဆွဲကိုင်ခြင်း}
+issukī: {one who is jealous (nominative sg.): ငြူစူတတ်သူ}
+issāyitattaṃ: {state of being envious (nominative): ငြူစူထားသော အဖြစ်}
+issā: {envy, resentment at others' gain (nominative sg.): ငြူစူမှု}
+issāyanā: {envying, act of envy (nominative sg.): ငြူစူခြင်း}
+mānana: {reverence, being held in regard (compound member): ချီးမြှောက်ခံရမှု}
+vandana: {salutation, bowing in homage (compound member): ရှိခိုးခံရမှု}
+sakkāra: {honour, hospitality received (compound member): အရိုအသေ ပြုခံရမှု}
+usūyanā: {being jealous, act of jealousy (nominative sg.): သဝန်တိုခြင်း}
+usūyitattaṃ: {state of being jealous (nominative): သဝန်တိုထားသော အဖြစ်}
+usūyā: {jealousy, begrudging (nominative sg.): သဝန်တိုမှု}
+para: {others, another person (compound member, as in paralābha and paranimmita): သူတစ်ပါး / ပရ}
+garukāra: {respect, esteem shown (compound member): လေးစားခံရမှု}
+pūjanāsu: {in veneration, offerings of worship (locative pl.): ပူဇော်ခံရမှု}
+pahīnaṃ: {given up (neuter sg. participle): ပယ်ရသော / ပယ်ပြီးသော}
+āvāsa: {dwelling place, residence, in āvāsamacchariya (compound member): နေရာထိုင်ခင်း}
+kula: {families, supporting households, in kulamacchariya (compound member): ကိုးကွယ်သော အိမ်; the royal household, in rājakulamajjhagato (compound member): မင်းမျိုးမင်းနွယ်}
+aggahitattaṃ: {the state of holding back, not letting go (neuter sg.): တင်းတင်း ဆုပ်ကိုင်ထားသော အဖြစ်}
+vevicchaṃ: {avarice, stinginess (nominative sg.): တစ်ကိုယ်ကောင်းဆန်ခြင်း}
+kadariyaṃ: {miserliness, meanness (nominative sg.): ကပ်စေးနည်းခြင်း}
+maccharāyitattaṃ: {state of being stingy (nominative): ဝန်တိုထားသော အဖြစ်}
+vaṇṇa: {praise, reputation, in vaṇṇamacchariya (compound member), also praise spoken, in avaṇṇaṃ vaṇṇaṃ: ဂုဏ်သတင်း / ချီးမွမ်း; beauty, good looks, in vaṇṇamada 'pride of beauty' (compound member), here the complexion, in vaṇṇapokkharatā: အသားအရေ}
+macchariyaṃ: {avarice, grudging one's own things to others (nominative sg.): ဝန်တိုမှု}
+maccharī: {an avaricious one (nominative sg.): ဝန်တိုတတ်သူ}
+kaṭukañcukatā: {tight-fistedness, close-gripping meanness (nominative sg.): တွန့်တိုခြင်း}
+sāṭheyyaṃ: {deceptiveness, treacherous cunning (nominative sg.): စဉ်းလဲသော အဖြစ်}
+saṭho: {a deceptive, treacherous person (nominative sg.): စဉ်းလဲသူ}
+niddese: {in the detailed exposition (locative sg.): အကျယ် ဖော်ပြချက်}
+pārikkhattiyaṃ: {trickery (nominative): ကြော့ရှင်းဟန် ပြသော အဖြစ်}
+evaṃ: {in this way, thus (adverb): ဤနည်းတူ / ဤသို့}
+kakkaratā: {being tricky, crookedness of conduct (nominative sg.): ကောက်ကွေးခြင်း}
+kakkariyaṃ: {trickiness, crooked behaviour (nominative sg.): ကောက်ကွေးသော အဖြစ်}
+ekacco: {a certain person, someone (masculine nominative sg.): အချို့သော သူ}
+pari: {all round, intensive prefix: အလွန်}
+parikkhattattā: {being artful (nominative): ကြော့ရှင်းဟန် ပြခြင်း}
+parakkamati: {exerts himself, makes an effort (3rd sg. present): ကြိုးပမ်းသည်}
+vocchādanā: {covering up completely, concealing (nominative sg.): ကောင်းစွာ ဖုံးအုပ်ခြင်း}
+chādanā: {covering, veiling (nominative sg.): ဖုံးခြင်း}
+accāsarā: {overreaching, going beyond bounds in cunning (nominative sg.): အပြစ်ကို ကျော်လွှားခြင်း}
+māyā: {deceit, deception, in the greed list (nominative sg.): လှည့်စားတတ်ခြင်း}
+māyāvī: {one who deceives (nominative sg.): လှည့်စားတတ်သူ}
+māyāvitā: {being deceptive, deceitfulness (nominative sg.): လှည့်စားတတ်သော အဖြစ်}
+caritvā: {having conducted oneself, having done (absolutive): ကျင့်၍}
+vikiraṇā: {scattering, dodging the point (nominative sg.): ဖုံးကွယ်ရန် ဖြန့်ကြဲခြင်း}
+pāpikaṃ: {wicked, evil (feminine accusative sg.): ယုတ်မာသော}
+paṇidahati: {directs, sets the mind on (3rd sg. present): ထားသည်}
+nikati: {dishonesty, fraud (nominative sg.): ကောက်ကျစ်ခြင်း / စဉ်းလဲခြင်း}
+paṭicchādana: {concealment (compound member): ဖုံးကွယ်ရန်}
+gūhanā: {concealing, hiding (nominative sg.): ဝှက်ထားခြင်း}
+jaññā: {might come to know, may find out (optative): သိသည်}
+āvi: {openly, in anāvikammaṃ: ပေါ်လွင်အောင်}
+manasā: {by the mind, mentally (instrumental): မနော}
+hetu: {cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member), also 'on account of', in attahetu and parahetu (compound final): အကြောင်း; for the purpose of, in paṭicchādanahetu 'in order to conceal' (compound final): အလို့ငှာ}
+uttānī: {open, in anuttānīkammaṃ: ထင်ရှားအောင်}
+pariharaṇā: {avoiding, evasive excuses (nominative sg.): ရှောင်တိမ်းခြင်း}
+bhāsati: {utters, talks (3rd sg. present): ပြောသည်}
+vācāya: {by spoken word (instrumental sg.): နှုတ် / စကား}
+vañcanā: {cheating, deceiving others (nominative sg.): လိမ်လည်ခြင်း}
+icchaṃ: {desire, a wish (accusative sg.): အလို}
+duccaritaṃ: {misconduct, bad conduct (nominative sg.): ဒုစရိုက်}
+pāpakiriyā: {doing evil (nominative): ယုတ်မာသော အမှုကို ပြုခြင်း}
+pāpakānaṃ: {of bad, evil (genitive pl.): ယုတ်မာသော}
+vuccati ahirikaṃ: {formula 'is termed shamelessness': ဒုစရိုက်ကို မရှက်မှုဟု ခေါ်သည်}
+hiriko: {having moral shame, in ahiriko (nominative sg.): ဒုစရိုက်ကို ရှက်သော}
+samāpattiyā: {by engaging in, entering upon (instrumental/genitive sg.), of bad and of good states: ကျူးလွန်ခြင်း; meditative attainment, in jhānasamāpattiyā (compound final): ဈာန် ဝင်စားရာ}
+hirīyati: {is ashamed (3rd sg. present): ရှက်သည်}
+ahirikaṃ: {shamelessness, lack of moral shame (neuter sg.): ဒုစရိုက်ကို မရှက်မှု}
+akusalānaṃ: {of unwholesome (genitive pl.): အကုသိုလ်}
+akusalānaṃ dhammānaṃ: {of unwholesome phenomena (genitive pl.): အကုသိုလ် သဘောတရား}
+vuccati anottappaṃ: {formula 'is termed moral fearlessness': ဒုစရိုက်ကို မကြောက်ရွံ့မှုဟု ခေါ်သည်}
+ottappī: {one who has moral dread (nominative sg.): ဒုစရိုက်ကို ကြောက်ရွံ့သူ}
+ottappati: {fears wrongdoing, is morally afraid (3rd sg. present): ကြောက်ရွံ့သည်}
+anottappaṃ: {absence of moral dread, not fearing wrongdoing (neuter sg.): ဒုစရိုက်ကို မကြောက်ရွံ့မှု}
+saha: {in accordance with, in sahadhammika 'reasonable, in accordance with the Dhamma' (compound member): လျော်စွာ}
+vippaṭikula: {adverse, contrary, in vippaṭikulagāhitā (compound member): ဆန့်ကျင်ဘက်}
+vaco: {admonition, in dubbaca and suvaca: သွန်သင်ချက်ကို နားထောင်သော}
+vuccamāne: {when being spoken to, admonished (locative): သွန်သင် ပြောဆိုသော}
+patissavatā: {compliance (nominative): နာခံမှု ရှိခြင်း}
+sātatā: {taking delight, relish, in vipaccanīkasātatā (compound final): နှစ်သက်ခြင်း}
+dovacassāyaṃ: {intractability, being hard to correct (nominative sg.): စကား နားမထောင်ခြင်း}
+anādariyaṃ: {disregard, lack of consideration (nominative sg.): မလေးစားခြင်း}
+dubbaco: {one difficult to admonish (nominative sg.): သွန်သင်ချက်ကို နားမထောင်သူ}
+anādariyatā: {disrespectfulness, lack of regard (nominative sg.): မလေးစားသော အဖြစ်}
+vipaccanīka: {opposing, contrariness (compound member): ဆန့်ကျင်ခြင်း}
+ādariyatā: {respectfulness, in anādariyatā (nominative): လေးစားသော အဖြစ်}
+gāravatā: {respectfulness, weightiness (nominative): ရိုသေမှု ရှိခြင်း}
+gāhitā: {grasping, taking up (compound final): ယူခြင်း}
+dhammike: {lawful, in accordance with dhamma (locative): တရား}
+dovacassatā: {being hard to admonish, unruliness (nominative sg.): သွန်သင်ချက်ကို နားမထောင်ခြင်း}
+sevanā: {associating, keeping company with persons (nominative sg.): ပေါင်းသင်းခြင်း}
+sambhatti: {close devotion (nominative): ကောင်းစွာ ကိုးကွယ်ခြင်း}
+pāpa: {bad, evil, in pāpamittatā (compound member): ဆိုး / ယုတ်မာသော}
+pāpamitto: {one with evil companions (nominative sg.): မိတ်ဆွေဆိုးနှင့် ပေါင်းသင်းသူ}
+bhatti: {devotion, attachment to them (nominative sg.): ကိုးကွယ်ခြင်း}
+nisevanā: {frequenting, constant association with persons (nominative sg.): နီးကပ်စွာ ပေါင်းသင်းခြင်း}
+mitto: {companion, compound final (nominative sg.): မိတ်ဆွေ … ပေါင်းသင်းသော}
+bhajanā: {resorting to, consorting (nominative sg.): ဆည်းကပ်ခြင်း}
+saṃsevanā: {keeping company closely, intimacy (nominative sg.): ကောင်းစွာ ပေါင်းသင်းခြင်း}
+sampavaṅkatā: {leaning towards, inclination (nominative sg.): ညွတ်ကိုင်းခြင်း}
+sutā: {learning, what has been heard and studied, in appassutā (compound final): အကြားအမြင်}
+sīlā: {virtue, compound member: သီလ}
+maccharino: {stingy, miserly persons (nominative pl.): ဝန်တိုသော}
+nimitta: {general features, the overall sign of an object, in nimittaggāhī (compound member): အမှတ်အသား}
+pāpakā: {bad, evil, of unwholesome states (nominative pl.): ယုတ်မာသော}
+dvāro: {door of the senses, in guttadvāro (compound final): တံခါး}
+sotena: {by the ear, with the hearing organ (instrumental): နား}
+cakkhunā: {by the eye, with the seeing organ (instrumental): မျက်စိ}
+cakkhundriyaṃ: {the eye faculty, as one of the twenty-two controlling faculties and as the sense faculty to be guarded (nominative/accusative sg.): မျက်စိ၏ စွမ်းရည်}
+indriyānaṃ: {of the sense faculties, the senses (genitive pl.): စွမ်းရည် / အာရုံခံ အင်္ဂါ}
+indriyaṃ asaṃvutaṃ: {the sense faculty left unguarded (phrase): စွမ်းရည် … မစောင့်စည်းသော}
+aguttadvāratāya: {by unguardedness of the doors (instrumental): တံခါးကို မစောင့်ထိန်းခြင်း}
+anvāssaveyyuṃ: {might flow in upon, invade the unguarded mind: စီးဝင်လာနိုင်သည်}
+rūpaṃ: {visible form, the object of the eye, in the restraint passage (accusative sg.): အဆင်းအရောင်}
+gāhī: {one who grasps, seizing on (compound final): စွဲယူသူ}
+gutta: {guarded, in guttadvāratā (compound member): စောင့်ထိန်းသော}
+guttadvāro: {one whose sense doors are guarded (nominative sg.): တံခါးကို စောင့်ထိန်းသော}
+sutvā: {having heard (absolutive): ကြား၍ / ကြားနာ၍}
+viññāya: {having cognised with the mind (absolutive): သိ၍}
+viharantaṃ: {dwelling, remaining so (accusative sg.): နေသော}
+abhijjhā: {covetousness, longing for what belongs to others (nominative sg. and compound member): သူ့ဥစ္စာကို လိုချင်ခြင်း}
+dhammaṃ: {mind-objects, what the mind as sixth sense knows (accusative sg.), the same value also naming a phenomenon, any state, as in na kañci dhammaṃ: သဘောတရား; the teaching, the doctrine heard and remembered, in 'dhammaṃ jānāti – suttaṃ geyyaṃ' (accusative sg.): တရား}
+manindriyaṃ: {the controlling faculty of mind, one of the twenty-two, the same word also naming the mind as a sense faculty to be guarded in the restraint passage (nominative sg.): မနော၏ စွမ်းရည်}
+ghānena: {by the nose, with the smelling organ (instrumental): နှာခေါင်း}
+paṭipajjati: {sets about, practises for (restraint) (3rd sg. present): ကျင့်ကြံသည်}
+gopanā: {protection, looking after (nominative sg.): ကာကွယ်ခြင်း}
+saṃvarāya: {for restraint, in the restraint passage: စောင့်စည်းရန်}
+saṃvaro: {restraint, self-control (nominative sg.): စောင့်စည်းမှု}
+saṃvaraṃ: {restraint, control (accusative sg.): စောင့်စည်းမှု}
+domanassā: {sadness, mental displeasure, in abhijjhādomanassā (compound final): စိတ်ဆင်းရဲမှု}
+disvā: {having seen (absolutive): မြင်၍}
+indriyesu: {sense faculty to be guarded, in the restraint passage (locative): အာရုံခံ အင်္ဂါ}
+gandhaṃ: {smell, odour as object (accusative sg.): အနံ့}
+ghāyitvā: {having smelt (absolutive): နမ်း၍}
+saddaṃ: {sound as object, what is heard (accusative sg.): အသံ}
+rasaṃ: {taste, flavour as object (accusative sg.): အရသာ}
+sāyitvā: {having tasted (absolutive): လျက်၍}
+jivhāya: {by the tongue, with the tasting organ (instrumental): လျှာ}
+phoṭṭhabbaṃ: {tangible object, what is touched (accusative sg.): အထိအတွေ့}
+āpajjati: {takes up, comes to practise (restraint) (3rd sg. present): ပြုသည်}
+asaṃvutaṃ: {unrestrained, unguarded (accusative sg.): မစောင့်စည်းသော}
+akusalā: {unwholesome, said of phenomena (nominative pl.): အကုသိုလ်}
+akusalā dhammā: {unwholesome phenomena (nominative pl.): အကုသိုလ် သဘောတရား}
+ārakkho: {watchfulness, keeping watch (nominative sg.): စောင့်ရှောက်ခြင်း}
+vibhūsanāya: {for beautification, in the food passage: တန်ဆာဆင်ရန်}
+santuṭṭhitā: {contentment, being satisfied (nominative sg.): ရောင့်ရဲမှု}
+bhojane: {in eating, regarding food (locative): အစားအစာ}
+āhāraṃ: {food, what is eaten, in the moderation-in-eating passage (accusative sg.): အစာ}
+davāya: {for amusement, for sport, in the food passage: ကစားရန်}
+madāya: {for intoxication, for vanity, in the food passage: မာန်ယစ်ရန်}
+ññū: {knower, compound final -ññū: သိသော}
+ññutā: {awareness of, final member -ññutā: သိခြင်း}
+mattaññutā: {knowing the right measure, moderation (nominative sg.): အတိုင်းအရှည်ကို သိခြင်း}
+asantuṭṭhitā: {not being content, dissatisfaction (nominative sg.): ရောင့်ရဲမှု မရှိခြင်း}
+maṇḍanāya: {for adornment, to fill out the body, in the food passage: အလှပြင်ရန်}
+matta: {measure, in mattaññū: အတိုင်းအရှည်}
+bhojane mattaññū: {knowing the right measure in eating (phrase): အစားအစာ၌ အတိုင်းအရှည်ကို သိသူ}
+paṭisaṅkhā: {having reflected, wisely considering (absolutive): ပြန်လည် ဆင်ခြင်ခြင်း}
+āhāreti: {takes food, eats (3rd sg. present): စားသုံးသည်}
+ayoniso: {unwisely, improperly (adverb): မသင့်လျော်စွာ}
+muṭṭhassati: {one of lapsed mindfulness (nominative sg.): သတိလစ်သူ}
+muṭṭhassaccaṃ: {lapse of mindfulness (nominative sg.): သတိလစ်ခြင်း}
+sammusanatā: {forgetting, state of forgetfulness (nominative sg.): မေ့လျော့ခြင်း}
+dhāraṇatā: {keeping in mind, retaining (nominative sg.): စွဲမှတ်ထားခြင်း}
+assati: {absence of mindfulness, non-recollection (nominative sg.): သတိ မရှိခြင်း}
+sati: {mindfulness, alert presence of mind (nominative sg.): သတိ}
+paṭissati: {recollection, recalling (nominative sg.): ပြန်လည် အောက်မေ့ခြင်း}
+anussati: {recollection, repeated remembering (nominative sg. and compound member): အဖန်ဖန် အောက်မေ့ခြင်း / အောက်မေ့နိုင်သော}
+saraṇatā: {remembering, bearing in mind (nominative sg.): မှတ်မိခြင်း}
+pilāpanatā: {floating on the surface, in apilāpanatā (nominative sg.): အပေါ်ယံ ပေါ်လောခြင်း}
+sambodho: {full understanding, awakening, in asambodho (nominative sg.): ကောင်းစွာ နားလည်ခြင်း}
+sampajāno: {clearly comprehending, fully aware (masculine sg.): ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း ရှိသူ / ကောင်းစွာ ဆင်ခြင်သိမြင်သော}
+laṅgī: {bar, bolt, ignorance as a barrier (nominative sg.): တံခါးကန့်လန့်}
+yogo: {yoke, bond binding to existence (nominative sg.): ထမ်းပိုး}
+vuccati asampajaññaṃ: {formula 'is termed non-comprehension': ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း မရှိခြင်းဟု ခေါ်သည်}
+saṅgāhaṇā: {grasping together (nominative): စုစည်း၍ ယူနိုင်ခြင်း}
+pekkhaṇā: {looking at, in samapekkhaṇā: ရှုမြင်ခြင်း}
+pamoho: {deep delusion, being deluded (nominative sg.): အလွန် တွေဝေခြင်း}
+moho: {delusion, bewilderment (nominative sg.): မောဟ}
+paccakkha: {before one's eyes, in paccakkhakamma: ကိုယ်တိုင် ထင်ထင်ရှားရှား}
+dummejjhaṃ: {stupidity, dull-wittedness (neuter sg.): ဉာဏ်နုံခြင်း}
+pariyogāhaṇā: {plunging into (nominative): နက်နက်နဲနဲ သက်ဝင်နိုင်ခြင်း}
+ogho: {flood, torrent of defilement (nominative sg.): ရေအလျဉ်}
+bālyaṃ: {foolishness, childishness (neuter sg.): မိုက်မဲခြင်း}
+abhisamayo: {penetrative realization (nominative): ထိုးဖောက် သိမြင်ခြင်း / ထင်ထင်ရှားရှား သိမြင်ခြင်း}
+avijjā: {ignorance, not knowing (nominative sg.): အမှန်ကို မသိမှု}
+ñāṇaṃ: {knowledge, knowing, also in aññāṇaṃ 'not knowing' (nominative sg.): သိခြင်း}
+asampajaññaṃ: {absence of clear comprehension (nominative sg.): ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း မရှိခြင်း}
+pariyuṭṭhānaṃ: {obsession, the outburst of a defilement (nominative sg.): ထကြွခြင်း}
+paṭivedho: {piercing through (nominative): ထိုးဖောက်၍ သိခြင်း}
+paccavekkhaṇā: {reflecting back, reviewing (nominative sg.): ပြန်လည် ဆင်ခြင်ခြင်း}
+mūlaṃ: {root, as in kusalamūla (nominative sg.): အမြစ်; foot of a tree, in rukkhamūlaṃ (nominative sg.): ရင်း}
+dassanaṃ: {seeing, vision, in adassanaṃ (nominative sg.): မြင်ခြင်း}
+anusayo: {underlying tendency, latent disposition (nominative sg.): ကိန်းအောင်းခြင်း}
+anubodho: {understanding, in ananubodho (nominative sg.): လိုက်၍ နားလည်ခြင်း}
+akusala: {unwholesome (stem and heading): အကုသိုလ်}
+sammoho: {utter delusion, total bewilderment (nominative sg.): လုံးဝ တွေဝေခြင်း}
+Kāyiko: {the physical body, or bodily (masculine sg. adjective): ကိုယ်ပိုင်းဆိုင်ရာ}
+vuccati sīlavipatti: {formula 'is termed failure of virtue': သီလ ပျက်စီးခြင်းဟု ခေါ်သည်}
+vipanno: {one who has fallen away (nominative sg.): ပျက်စီးသော}
+vipatti: {failure, falling short, in sīlavipatti and diṭṭhivipatti (compound final): ပျက်စီးခြင်း}
+sīlavipatti: {failure of virtue (nominative): သီလ ပျက်စီးခြင်း}
+dussilyaṃ: {immorality, bad conduct (neuter sg.): သီလ ဖောက်ဖျက်မှု}
+sīla: {precepts and rites, in sīlabbata 'adherence to rites and rituals' (compound member), the same value also naming virtue, moral conduct (in sīlasaṃvara, sīlavipatti and sīlavisuddhi): သီလ}
+vācasiko: {verbal, by way of speech (masculine sg. adjective): နှုတ်ပိုင်းဆိုင်ရာ}
+vītikkamo: {transgression, overstepping (nominative sg.): ကျူးလွန်ခြင်း}
+kammānaṃ: {of actions, of deeds (genitive pl.): ကံ}
+abhiniveso: {adherence, dogmatic clinging (nominative sg.): သက်ဝင်ယုံကြည်ခြင်း}
+samaṇa: {ascetics, recluses, in samaṇabrāhmaṇa (compound member): ရဟန်း}
+dukkaṭānaṃ: {of ill-done deeds, badly done (genitive pl.): ဆိုးစွာ ပြုသော}
+sattā: {beings, living creatures (nominative pl.): သတ္တဝါ}
+brāhmaṇā: {brahmins, priests, in samaṇabrāhmaṇā (nominative pl.): ပုဏ္ဏား}
+āyatanaṃ: {abode, fold, in titthāyatanaṃ 'the sectarian fold' (compound final): တည်ရာ}
+vuccati diṭṭhivipatti: {formula 'is termed failure of view': အယူ ပျက်စီးခြင်းဟု ခေါ်သည်}
+parāmāso: {wrong grasping, misapprehension (nominative sg.): မှားယွင်းသော ယူဆမှု}
+cintetabbā: {what should be thought over (gerundive): စဉ်းစားရမည့်}
+siddhi: {success, being well-founded (nominative): ဖြစ်ပုံ}
+abhiññā: {by direct knowledge, higher knowing (instrumental): ထူးကဲစွာ သိ၍}
+visūkāyikaṃ: {contortion, the twisting of views (neuter sg.): ကောက်ကွေးမှု}
+tittha: {sectarian doctrines, in titthāyatana 'ground of sectarian views' (compound member): အယူဝါဒ}
+diṭṭhivipatti: {failure of view, going wrong in one's views (nominative sg.): အယူ ပျက်စီးခြင်း}
+pitā: {father, in 'there is no father' (nominative sg.): အဖ}
+saṃyojanaṃ: {fetter, bond (nominative sg.): နှောင်ကြိုး}
+phalaṃ: {fruit, the result of good and bad deeds, in the wrong-view and right-view formulas (nominative sg.): အသီးအပွင့် / အကျိုး}
+gatā: {gone, arrived (rightly), in sammaggatā (nominative pl. participle): ရောက်ရှိသော}
+gāho: {grasp, seizing, a holding on to a view (nominative sg.), also taking up a position, in anekaṃsaggāho 'not taking one side' (doubt list): စွဲကိုင်ခြင်း}
+pavedenti: {make known (3rd pl.): ဟောကြားသည်}
+mātā: {mother, in 'there is no mother' (nominative sg.): အမိ}
+Natthi: {there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်}
+patho: {path, way, in micchāpatho 'wrong path' and in dvedhāpatho 'forked path', a synonym of doubt (compound final): လမ်းကြောင်း}
+paṭipannā: {practising, walking the path (nominative pl. participle): ကျင့်ကြံသော}
+sammāpaṭipannā: {correctly proceeding (nominative pl.): မှန်ကန်စွာ ကျင့်ကြံသော / မှန်ကန်စွာ ကျင့်သော}
+sacchikatvā: {having realised, experienced directly (absolutive): မျက်မှောက်ပြုပြီး}
+opapātikā: {spontaneously reborn, appearing without parents (nominative pl.): အလိုအလျောက် ပေါ်လာသော}
+gataṃ: {resort to a view, in diṭṭhigataṃ 'a wrong view' (compound final): မှား; gone to, staying in, in araññagataṃ and suññāgāragataṃ (compound final): ရောက်သော}
+maggo: {way, road, in kummaggo 'wrong way' (compound final, nominative sg.), also a road to travel, a journey, in the bases of laziness: လမ်း}
+hutaṃ: {what is offered in sacrifice, oblation (neuter sg.): ပူဇော်သကာ ဆက်ကပ်ခြင်း}
+paṭiggāho: {firm grasping, holding on tightly (nominative sg.): လက်ခံ စွဲကိုင်ခြင်း}
+gahanaṃ: {thicket, jungle of views (neuter sg.): တောအုပ်}
+vipariyāsa: {distortion, perversion (compound member): ပြောင်းပြန်}
+vipphanditaṃ: {vacillation, the writhing of views (neuter sg.): တုန်လှုပ်မှု}
+kantāro: {wilderness, desert of views (nominative sg.): ကန္တာရ}
+pada: {rules, items, in sikkhāpada (compound final), here a grammatical item, in padasiddhi: ပုဒ်; word, the letter of a text, in padaparamo 'one for whom the words are the most' (compound member): စကားလုံး}
+ku: {bad, pejorative prefix in kummaggo: မှား}
+micchādiṭṭhi: {wrong view, false belief (nominative sg.): မှားယွင်းသော အယူ}
+micchattaṃ: {wrongness, falsity (neuter sg.): မှားယွင်းမှု}
+saṃyojano: {bond, compound final (nominative): နှောင်ကြိုး ရှိသော}
+ajjhatta: {internal, of the internal fetters, in ajjhattasaṃyojana (compound member): အတွင်းပိုင်း}
+orambhāgiyāni saṃyojanāni: {bonds of the lower side (nominative pl.): အောက်ပိုင်း ဘုံနှင့် ဆိုင်သော နှောင်ကြိုး}
+uddhambhāgiyāni saṃyojanāni: {bonds of the upper side (nominative pl.): အထက်ပိုင်း ဘုံနှင့် ဆိုင်သော နှောင်ကြိုး}
+bahiddhā: {external, of the external fetters, in bahiddhāsaṃyojana (compound member): အပြင်ပိုင်း}
+kujjhanā: {being angry, getting enraged (nominative sg.): အမျက်ဒေါသ ထွက်ခြင်း}
+akkodhano: {one without wrath (nominative sg.): အမျက်ဒေါသ မထွက်တတ်သူ}
+anissukī: {one without jealousy (nominative sg.): မငြူစူတတ်သူ}
+amaccharī: {one without avarice (nominative sg.): ဝန်မတိုတတ်သူ}
+Katamo pugalo: {variant spelling of katamo puggalo, the definitional question: အဘယ် ပုဂ္ဂိုလ်}
+pugalo: {variant spelling of puggalo, an individual: ပုဂ္ဂိုလ်}
+maccharāyanā: {being stingy, act of avarice (nominative sg.): ဝန်တိုနေခြင်း}
+parikkhattatā: {studied elegance, being artful (nominative sg.): ကြော့ရှင်းဟန် ပြခြင်း}
+hirimā: {one having moral shame (nominative sg.): ဒုစရိုက်ကို ရှက်သူ}
+sovacassatā: {being easy to admonish, amenability (nominative sg.): သွန်သင်ချက်ကို နားထောင်ခြင်း}
+suvaco: {one easy to admonish (nominative sg.): သွန်သင်ချက်ကို နားထောင်သူ}
+ādariyaṃ: {regard (nominative): လေးစားခြင်း}
+sovacassāyaṃ: {tractability, being easy to correct (nominative sg.): စကား နားထောင်ခြင်း}
+cāgavanto: {generous, given to giving (nominative pl.): စွန့်ကြဲမှု ရှိသော}
+kalyāṇamitto: {one with lovely companions (nominative sg.): မိတ်ဆွေကောင်းနှင့် ပေါင်းသင်းသူ}
+rakkhati: {guards, protects (3rd sg. present): စောင့်ရှောက်သည်}
+anavajjatā: {blamelessness, faultlessness (nominative sg.): အပြစ် မရှိမှု}
+kāyassa: {the physical body, or bodily (genitive sg., as in kāyassa thambhanā and imassa kāyassa ṭhitiyā): ကိုယ်}
+vuccati mattaññutā: {formula 'is termed sense of measure': အတိုင်းအရှည်ကို သိခြင်းဟု ခေါ်သည်}
+vihiṃsā: {harm, discomfort, in vihiṃsūparati (compound member): ညှဉ်းပန်းမှု}
+phāsu: {ease, comfort, in phāsuvihāra (compound member): ချမ်းသာစွာ / ချမ်းသာ}
+vedanaṃ: {feeling, the affective tone of experience (accusative sg.): ခံစားမှု}
+yātrā: {keeping going, sustenance of life (nominative sg.): အသက်မွေးမှု}
+brahma: {divine, sublime, in brahmavihāra (compound member), also the sublime life, in brahmacariya and brahmacārī, and in brahmabhūta: မြင့်မြတ်သော}
+brahmacariya: {the holy life, the pure life of training (compound member): မြင့်မြတ်သော အကျင့်}
+cariya: {way of living (compound member): အကျင့်}
+purāṇaṃ: {former (accusative): ဟောင်းသော}
+yāpanāya: {for maintaining, keeping the body going: ဆက်လက် ရှင်သန်ရန်}
+yoniso: {wisely, properly, in the right way (adverb): သင့်လျော်စွာ}
+upaṭṭhita: {set up, present (participle in compounds): တည်နေသော}
+balaṃ: {power, strength as a mental force (nominative sg.): စွမ်းအား}
+bhūrī: {breadth of wisdom, extensive understanding (nominative sg.): ကျယ်ပြန့်ခြင်း}
+vuccati sampajaññaṃ: {formula 'is termed clear comprehension': ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်းဟု ခေါ်သည်}
+vebhabyā: {discrimination, clarity of understanding (nominative sg.): ခွဲခြမ်းစိတ်ဖြာခြင်း}
+sallakkhaṇā: {discerning, noticing (nominative sg.): လက္ခဏာကို ကောင်းစွာ ခွဲခြားခြင်း}
+upalakkhaṇā: {distinguishing closely (nominative sg.): လက္ခဏာကို အနီးကပ် ခွဲခြားခြင်း}
+upaparikkhā: {close examination, scrutiny (nominative sg.): စူးစမ်းဆန်းစစ်ခြင်း}
+patodo: {goad, wisdom as a prod (nominative sg.): နှင်တံ}
+pariṇāyikā: {leading, guiding wisdom (nominative sg.): လမ်းပြခြင်း}
+vipassanā: {insight, clear seeing (nominative sg.): ထိုးထွင်းသိမြင်ခြင်း}
+medhā: {intelligence, sagacity (nominative sg.): ဉာဏ်ထက်မြက်ခြင်း}
+vicayo: {investigation, sifting (compound final and nominative): စိစစ်ခြင်း}
+ratanaṃ: {jewel, wisdom as a gem (nominative sg.): ရတနာ}
+pajjoto: {lamp, wisdom as a light-source (nominative sg.): မီးအိမ်}
+paṇḍiccaṃ: {erudition, learning (nominative sg.): လိမ္မာခြင်း}
+āloko: {light or brightness, as a figure for wisdom, and daylight as a visible form (nominative sg.): အလင်း}
+amoho: {absence of delusion (nominative sg.): မောဟ မရှိခြင်း}
+obhāso: {radiance, wisdom as brightness (nominative sg.): အရောင်အဝါ; seeming, outward look, in gambhīrobhāso and uttānobhāso (compound final): ဟန် ထင်ရသော}
+cintā: {reflection, consideration (nominative sg.): စဉ်းစားခြင်း}
+kosallaṃ: {skill, expertness (nominative sg.): ကျွမ်းကျင်ခြင်း}
+nepuññaṃ: {subtlety, dexterity (nominative sg.): နက်နဲသိမ်မွေ့ခြင်း}
+satthaṃ: {sword, wisdom as a blade (nominative sg.): ဓား}
+pāsādo: {tower, palace, wisdom as a high vantage (nominative sg.): ပြာသာဒ်}
+pajānanā: {understanding, knowing (nominative sg.): ကွဲပြားစွာ သိခြင်း}
+sampanno: {endowed, perfected (nominative sg.): ပြည့်စုံသော}
+sīlasampanno: {perfect in virtue (nominative sg.): သီလ ပြည့်စုံသူ}
+sampadā: {accomplishment, perfection, in sīlasampadā and diṭṭhisampadā (compound final): ပြည့်စုံခြင်း}
+sīlasampadā: {perfection of virtue (nominative): သီလ ပြည့်စုံခြင်း}
+vuccati sīlasampadā: {formula 'is termed perfection of virtue': သီလ ပြည့်စုံခြင်းဟု ခေါ်သည်}
+diṭṭhisampadā: {perfection of view (nominative): အယူ ပြည့်စုံခြင်း}
+vuccati diṭṭhisampadā: {formula 'is termed perfection of view': အယူ ပြည့်စုံခြင်းဟု ခေါ်သည်}
+vedī: {one who recognizes, in katavedī: ဆပ်သော}
+kata: {what has been done for one, a kindness, in kataññū and katavedī (compound member): ကျေးဇူး}
+kataññū: {one who knows what was done for him (nominative sg.): ကျေးဇူးကို သိသော}
+puggalā dullabhā: {individuals hard to find (phrase): ရခဲသော ပုဂ္ဂိုလ်}
+dullabhā: {hard to obtain (nominative pl.): ရခဲသော}
+nikkhipati: {sets aside, stores (3rd sg.): သိုမှီးထားသည်}
+vissajjeti: {gives away (3rd sg.): စွန့်ကြဲသည်}
+duttappayā: {difficult to satisfy (nominative pl.): ရောင့်ရဲစေရန် ခက်ခဲသော}
+laddhaṃ: {what is obtained (accusative): ရတိုင်း}
+tappayā: {to be satisfied, in du-/sutappayā: ရောင့်ရဲစေရန်}
+laddhaṃ laddhaṃ: {each thing obtained (repeated accusative): ရတိုင်း ရတိုင်း}
+sutappayā: {easily satisfied (nominative pl.): ရောင့်ရဲစေရန် လွယ်ကူသော}
+kukkuccāyitabbaṃ: {what should be scrupled over (gerundive): နောင်တ ပူပန်ရန် ထိုက်သော}
+kukkuccāyati: {has scruples (3rd sg.): နောင်တ ပူပန်သည်}
+vaḍḍhanti: {increase (3rd pl.): တိုးပွားသည်}
+puggalānaṃ: {of individuals, persons, in parapuggalānaṃ (genitive pl.): ပုဂ္ဂိုလ်}
+puggalānaṃ āsavā: {cankers of individuals (phrase): ပုဂ္ဂိုလ် … စိတ်အစွန်းအထင်း}
+sevati: {associates with, keeps company with persons, also resorts to a lodging (3rd sg. present): ပေါင်းသင်းသည်}
+payirupāsati: {attends upon, frequents (3rd sg. present): ချဉ်းကပ် ခစားသည်}
+pāpadhammo: {one of evil nature (nominative sg.): ယုတ်မာသော သဘော ရှိသူ}
+dussīlo: {immoral, of bad conduct (masculine nominative sg.): သီလ ပျက်သော}
+adhimutto: {resolved upon, intent on (masculine nominative sg.): စိတ်ညွတ်သော}
+bhajati: {resorts to a lodging, betakes oneself (3rd sg. present), the same value also naming associating with a person (^4-88, ^4-89): ဆည်းကပ်သည်}
+puggalo dussīlo: {the individual is unvirtuous (phrase): ပုဂ္ဂိုလ် … သီလ ပျက်သော}
+paṇīta: {superior, refined (compound member): မွန်မြတ်သော}
+kalyāṇadhammo: {one of lovely nature (nominative sg.): ကောင်းမွန်သော သဘော ရှိသူ}
+sīlavā: {virtuous one (nominative sg.): သီလ ရှိသော}
+arahanto: {the worthy ones, arahants (nominative pl.): ရဟန္တာ}
+sāvakā: {hearers, followers (nominative pl.): တပည့်}
+titto: {contented, sated (nominative sg.): ရောင့်ရဲပြီးသူ}
+tappetā: {one who contents others (agent noun): အခြားသူကို ရောင့်ရဲစေသူ}
+kammanto: {work, conduct (nominative sg.): အမှု ရှိသော}
+samaṇo: {a renunciant, wandering ascetic (nominative sg.): ရဟန်း}
+paṭiñño: {professing to be, in samaṇapaṭiñño: ဝန်ခံသော}
+samācāro: {behaviour (nominative sg.): အကျင့် ရှိသော}
+khayā: {through the ending (ablative): ကုန်ခန်းခြင်း}
+upasampajja: {having entered upon, having attained (absolutive): ဝင်စား၍}
+kasambu: {refuse, rubbish (compound member): အမှိုက်သရိုက်}
+anāsavaṃ: {free of taints, taintless, in anāsavaṃ cetovimuttiṃ (accusative sg.): စိတ်အစွန်းအထင်း မရှိသော}
+suṇāti: {hears, listens (3rd sg. present): ကြားရသည် / ကြားသည် / ကြားနာသည်}
+sayaṃ: {by oneself, personally (adverb): ကိုယ်တိုင်}
+brahmacārī: {one who lives the celibate life (nominative sg.): မြင့်မြတ်သော အကျင့်ကို ကျင့်သော}
+āso: {expectation, compound final (nominative): မျှော်လင့်ချက် ရှိသော}
+asuci: {unclean (compound member): စင်ကြယ်မှု မရှိသော}
+anto: {within, inner, in antosoko and antosamorodho (compound member): အတွင်း}
+vimuttiṃ: {liberation, release (accusative sg.): လွတ်မြောက်ခြင်း}
+paññāvimuttiṃ: {release through understanding (accusative): ပညာဖြင့် လွတ်မြောက်ခြင်း}
+cetovimuttiṃ: {liberation of mind (accusative sg.): စိတ်၏ လွတ်မြောက်ခြင်း}
+cārī: {one who practises, follows a conduct (agent noun), as in kāmesu micchācārī and abrahmacārī: ကျင့်သော}
+viharissāmi: {I shall dwell (1st sg. future): နေရပါသည်}
+ceto: {heart, mind (compound member): စိတ်}
+cetovimuttiṃ paññāvimuttiṃ: {release of heart and release through understanding (phrase): စိတ်၏ လွတ်မြောက်ခြင်း … ပညာဖြင့် လွတ်မြောက်ခြင်း}
+bhikkhu: {a monk, a mendicant of the order (nominative sg.): ရဟန်း}
+nāmo: {having such a name, in evaṃnāmo (compound final): မည်သော}
+avassuto: {leaking, festering (nominative sg.): ကိလေသာ စိုစွတ်သော}
+pūti: {putrid, rotting, of the body (compound member): ပုပ်သိုးသော}
+paṭicchanna: {hidden, concealed (compound member): ဖုံးကွယ်ထားသော}
+kira: {reportedly, hearsay particle: သတတ်}
+itthaṃ: {such, in itthannāmo: ဤ}
+saṅkassara: {doubtful, in saṅkassarasamācāro: သံသယဖြင့် အောက်မေ့ရသော}
+āsavānaṃ: {of the taints, the mental corruptions (genitive pl.): စိတ်အစွန်းအထင်း}
+āsaṃso: {one who has expectation (nominative sg.): မျှော်လင့်ချက် ရှိသူ}
+paṭippassaddhā: {calmed, subsided (nominative fem. participle): ငြိမ်းသွားသော}
+vigata: {gone, removed, in vigatathinamiddha (compound member): ကင်းသော / ကင်းပြီးသော}
+vimuttassa: {of one released (genitive sg.): လွတ်မြောက်သော}
+kissa hetu: {for what reason (interrogative phrase): အဘယ်ကြောင့်}
+anuññātaṃ: {permitted (participle): ခွင့်ပြုတော်မူသော}
+bhagavatā: {by the Blessed One (instrumental): မြတ်စွာဘုရား}
+vinayaṃ: {monastic code (accusative): ဝိနည်း}
+paveditaṃ vinayaṃ: {the monastic code made known (phrase): ဟောကြားထားသော … ဝိနည်း}
+okkamati: {steps into (3rd sg.): သက်ဆင်းသည်}
+evameva: {just so (adverb): ထို့အတူပင် / ဤနည်းတူ}
+bhojanāni: {meals (accusative pl.): အစားအစာ}
+saṃvijjamānā: {existing, actually present (participle): ထင်ရှား ရှိသော}
+savaṇāya: {for listening (dative): နာကြားရန်}
+dhamma savaṇāya: {for listening to the doctrine (phrase): တရား … နာကြားရန်}
+ābādhā: {affliction (ablative): အနာရောဂါ}
+upamā: {like, similar to, in vijjūpama and vajirūpama (compound final): တူသော}
+bhesajjāni: {remedies (accusative pl.): ဆေးဝါး}
+upaṭṭhākaṃ: {attendant (accusative): လုပ်ကျွေးပြုစုသူ}
+upaṭṭhātabbā: {to be waited on (gerundive): လုပ်ကျွေးပြုစုရမည့်}
+upaṭṭhāko: {attendant (nominative): လုပ်ကျွေးပြုစုသူ}
+aññesaṃ: {of other people (genitive pl.): အခြားသူ}
+puggalo okkamati: {the individual steps into (phrase): ပုဂ္ဂိုလ် … သက်ဆင်းသည်}
+gilāno vuṭṭhāti: {the ill one rises from illness (phrase): လူနာ … ပျောက်ကင်းသည်}
+paveditaṃ: {made known (participle): ဟောကြားထားသော}
+patirūpaṃ: {suitable (accusative): လျောက်ပတ်သော}
+patirūpaṃ upaṭṭhākaṃ: {a suitable attendant (accusative phrase): လျောက်ပတ်သော လုပ်ကျွေးပြုစုသူ}
+vuṭṭhāti: {recovers, rises from an illness (3rd sg. present): ပျောက်ကင်းသည်}
+gilāna: {sick, in gilānapaccaya (compound member): သူနာ / လူနာ}
+gilāno: {an ill one (nominative sg.): လူနာ}
+sappāyāni: {beneficial (accusative pl.): သင့်လျော်သော}
+sappāyāni bhojanāni: {beneficial meals (phrase): သင့်လျော်သော အစားအစာ}
+sappāyāni bhesajjāni: {beneficial remedies (phrase): သင့်လျော်သော ဆေးဝါး}
+desetabbo: {to be taught (gerundive): ဟောကြားရမည့်}
+dhammavinayaṃ: {doctrine and monastic code (accusative): တရားနှင့် ဝိနည်း}
+parisa: {assemblies, in parisasārajja (compound member): ပရိသတ်}
+bho: {friend, sir, polite address (vocative particle): အချင်း}
+sampajāna: {knowingly, deliberately, in sampajānamusā bhāsitā, the same value also in sampajānakārī (compound member): သိလျက်}
+gūtha: {excrement (compound member): မစင်}
+ehi: {imperative 'come!': လာသည်}
+pūga: {corporation (compound member): အသင်းအပင်း}
+jānāsi: {you know (2nd sg. present): သိသည်}
+jānaṃ: {while knowing (present participle): သိလျက်}
+musāvādī: {one who speaks falsehood (nominative sg.): မုသား ပြောသော}
+musā: {falsely, untruthfully, as in musāvāda (adverb and compound member): မုသား}
+purisa: {man, in purisaliṅga 'feature of a man', also masculinity, in purisindriya (compound member): ယောက်ျား}
+āmisa: {material things, in āmisapaṭisanthāra (compound member): ပစ္စည်း}
+puṭṭho: {asked (nominative participle): မေးမြန်းခံရသော}
+ñāti: {kinsfolk, relatives (compound member): ဆွေမျိုး}
+rāja: {king, ruler (compound member): မင်း}
+passaṃ: {while seeing (present participle): မြင်လျက်}
+bhāṇī: {one who speaks, compound final: စကားပြောသော}
+abhinīto: {brought forward (nominative participle): ခေါ်ဆောင်ခံရသော}
+vadehi: {say! (imperative): ပြောသည်}
+sakkhi: {eyewitness (compound member): သက်သေ}
+puppha: {flower, blossom (compound member): ပန်း}
+musāvādaṃ: {false speech (accusative): မုသား ပြောခြင်း}
+paṭivirato: {abstaining (nominative participle): ရှောင်ကြဉ်သော}
+pemaniyā: {endearing (nominative fem.): ချစ်ခင်ဖွယ်ကောင်းသော}
+porī: {urbane, polite speech (feminine sg.): ယဉ်ယဉ်ကျေးကျေး ရှိသော}
+kaṇṇa: {ear, in kaṇṇasukhā 'pleasant to the ear' (compound member): နား}
+nelā: {faultless, soft (nominative fem.): အပြစ်ကင်းသော}
+gamā: {going to, reaching, in hadayaṅgamā 'touching the heart' (compound final): ရောက်သော}
+hadaya: {heart, essence, core, in Dhammahadayavibhaṅga (heading member): နှလုံးသား}
+madhu: {honey, as food (nominative sg.): ပျားရည်}
+manāpā: {pleasing, delightful to the mind (feminine sg.): စိတ်တွေ့သော}
+kantā: {liked, agreeable speech (feminine sg.): ချစ်ခင်ဖွယ်ကောင်းသော}
+puggalo bhāsitā: {the individual is a speaker (phrase): ပုဂ္ဂိုလ် … ပြောဆိုသူ}
+sukhā: {pleasant, agreeable, of feeling or of speech (feminine adjective): သာယာသော}
+bhāsitā: {speaker, one who utters (agent noun): ပြောဆိုသူ}
+vācā: {speech, as in sammāvācā (nominative sg.): စကား}
+aṭṭhakathā: {the commentary chapter (heading), here the commentary cited as a source in variant notes: အဋ္ဌကထာ}
+āsavaṃ deti: {oozes fluid (verb phrase): ပြည်ယိုသည်}
+appaccayaṃ: {discontent (accusative): မနှစ်သက်မှု}
+bahulo: {much given to (nominative): များသော}
+dosaṃ: {hatred, aversion (accusative sg.): ဒေါသ}
+byāpajjati: {becomes malevolent, turns hostile (3rd sg. present): ဖောက်ပြန်သည်; is wounded, struck down in battle (3rd sg. present): ဒဏ်ရာ ရသည်}
+duṭṭha: {corrupted, festering (compound member): ပြည်တည်နေသော}
+kuppati: {is provoked (3rd sg.): အမျက်ထွက်သည်}
+kopaṃ: {agitated anger (accusative): အမျက်ထွက်ခြင်း}
+upama: {resembling (compound member): တူသော}
+abhisajjati: {becomes resentful (3rd sg.): ငြိုငြင်သည်}
+citto: {of mind, compound final (nominative sg.): စိတ် ရှိသော}
+puggalo kodhano: {the individual is wrathful (phrase): ပုဂ္ဂိုလ် … အမျက်ဒေါသ ထွက်တတ်သူ}
+puggalo citto: {individual whose mind is so, compound phrase: စိတ် ရှိသော … ပုဂ္ဂိုလ်}
+kaṭhalāya: {with a shard (instrumental): အိုးခြမ်းကွဲ}
+aruka: {wound (compound member): အနာ}
+kaṭṭhena: {with a piece of wood (instrumental): သစ်သားချောင်း}
+ghaṭṭito: {hit (nominative participle): ထိခိုက်မိသော}
+patitthīyati: {becomes obstinate (3rd sg.): ခိုင်ခိုင်မာမာ ဆန့်ကျင်သည်}
+upāyāsa: {turmoil (compound member): ပြင်းစွာ ပူပန်ခြင်း}
+andhakāra: {gloom (compound member): မှောင်မိုက်}
+cakkhumā: {one with sight (nominative): မျက်စိ ကောင်းသော}
+antarikāya: {in the interval, in vijjantarikāya (locative): ခဏ}
+vijju: {lightning, as a simile for wisdom (compound member): လျှပ်စီး}
+ratta: {the dark hours (compound member): ညဉ့်အခါ}
+timisāya: {in darkness, in andhakāratimisāya (locative): ထူထပ်စဉ်}
+rūpāni: {visible forms, objects of the eye, seen outside (accusative pl.): အဆင်းအရောင်}
+abhejjaṃ: {unbreakable (accusative): မဖောက်ထွင်းနိုင်သော}
+vajira: {diamond, thunderbolt, as a simile for wisdom (compound member): စိန်}
+maṇi: {gem, jewel (compound member): ပတ္တမြား}
+natthi kiñci: {'there is nothing', the base of nothingness (phrase): တစ်စုံတစ်ရာမျှ မရှိသည်}
+pāsāṇo: {rock, boulder (nominative sg.): ကျောက်}
+anavajje: {faultless (accusative pl.): အပြစ် မရှိသော}
+anavajje dhamme: {faultless mental qualities (accusative pl. phrase): အပြစ် မရှိသော သဘောတရား}
+sāvajja: {faulty (compound member): အပြစ် ရှိသော}
+andho: {sightless one (nominative): မျက်စိ ကန်းသူ}
+sukka: {white, pure (compound member): ဖြူစင်သော}
+sukka dhamme: {white, pure qualities (accusative pl. phrase): ဖြူစင်သော … သဘောတရား}
+kaṇha: {black, impure (compound member): မည်းနက်သော}
+paṇīte: {refined, superior (accusative pl.): မွန်မြတ်သော}
+paṇīte dhamme: {refined qualities (accusative pl. phrase): မွန်မြတ်သော သဘောတရား}
+cakkhu: {the eye, the seeing organ (stem and nominative): မျက်စိ}
+adhigataṃ: {acquired (accusative participle): ရပြီးသော}
+tathārūpaṃ cakkhu: {sight of such a sort (phrase): ထိုသို့ သဘောရှိသော မျက်စိ}
+jāneyya: {might know (optative): သိသည်}
+paṭibhāge: {corresponding contrasting qualities (accusative pl.): ဆန့်ကျင်ဘက် ရှိသော}
+akusale: {unskilful (accusative pl.): အကုသိုလ်}
+akusale dhamme: {unskilful qualities (accusative pl. phrase): အကုသိုလ် သဘောတရား}
+bhogaṃ: {wealth, possessions (accusative sg.): စည်းစိမ်ဥစ္စာ}
+kusala: {wholesome (stem and heading): ကုသိုလ်}
+ekacakkhu: {having one eye (nominative): မျက်စိ တစ်ဖက် ရှိသူ}
+dvicakkhu: {having two eyes (nominative): မျက်စိ နှစ်ဖက် ရှိသူ}
+manasi: {mental advertence, in the summary verse (manasi for manasikāra), also in manasi karoti 'attends to': နှလုံး / နှလုံးသွင်းခြင်း}
+ādi: {beginning, starting point, in the pātimokkha gloss (noun): အစ}
+paripuṇṇaṃ: {fulfilled, entire (accusative): ပြည့်စုံသော}
+paripuṇṇaṃ parisuddhaṃ: {entire and purified (accusative pair): ပြည့်စုံသော … စင်ကြယ်သော}
+kevala: {wholly (compound member): အလုံးစုံ}
+gantā: {one who goes (agent noun): သွားသော}
+dhammassavaṇāya: {for listening to the doctrine (dative): တရား နာကြားရန်}
+brahmacariyaṃ: {the pure religious life, celibacy (accusative sg.): မြင့်မြတ်သော အကျင့်}
+cariyaṃ: {course of life, way of living, in bhikkhācariyaṃ (accusative sg.): အကျင့်}
+atthaṃ: {the meaning, the sense (accusative sg.): အနက်အဓိပ္ပာယ် / အနက်}
+majjhe: {in the midst, among (locative): အလယ်}
+majjhekalyāṇaṃ: {lovely in the middle (accusative): အလယ်၌ ကောင်းသော}
+ārāmaṃ: {monastic park (accusative): ကျောင်း}
+ārāmaṃ savaṇāya: {to the monastic park for listening (phrase): နာကြားရန် … ကျောင်း}
+bhikkhūnaṃ: {of the monks (genitive pl.): ရဟန်း}
+bhikkhū desenti: {the mendicants teach (phrase): ရဟန်း … ဟောကြားသည်}
+abhikkhaṇaṃ: {frequently (adverb): ခဏခဏ}
+neva manasi karoti: {does not attend in mind (verb phrase): နှလုံး မသွင်းသည်}
+puggalo pañño: {individual whose understanding is so (phrase): ပညာ ရှိသော … ပုဂ္ဂိုလ်}
+kumbho: {jar (nominative): အိုး}
+āsittaṃ: {sprinkled in (participle): လောင်းထည့်သော}
+parisuddhaṃ: {purified (accusative): စင်ကြယ်သော}
+pakāsenti: {make manifest, proclaim (3rd pl. present): ထုတ်ဖော် ပြသည်}
+brahmacariyaṃ pakāsenti: {make manifest the celibate life (phrase): မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်}
+vivaṭṭati: {rolls off (3rd sg.): စီးကျသွားသည်}
+āsane: {on a sitting place (locative): နေရာ}
+nisinno: {seated (nominative sg. participle): ထိုင်နေသော}
+saṇṭhāti: {remains settled (3rd sg.): တည်နေသည်}
+kathāya: {of the discourse (dative/genitive): တရားစကား}
+desenti: {teach, expound (3rd pl. present): ဟောကြားသည်}
+nikkujjo: {overturned, upside-down (nominative): မှောက်ထားသော}
+avakujja: {face-down (compound member): မှောက်ထားသော အိုး}
+udakaṃ: {the poured fluid (accusative): ရေ}
+pañño: {having understanding, compound final (nominative): ပညာ ရှိသော}
+byañjanaṃ: {letter, phrasing (accusative): စကားလုံး / သဒ္ဒါ}
+satisammosā: {through lapse of mindfulness (ablative): သတိလစ်၍}
+khajjakāni: {hard foods, snacks (nominative pl.): စားဖွယ်}
+badarā: {jujube berries (nominative pl.): ဆီးသီး}
+vuṭṭhahanto: {rising up (present participle): ထသော}
+taṇḍulā: {husked rice grains (nominative pl.): ဆန်}
+ucchaṅga: {the hip-fold of a garment (compound member): ပေါင်ခွင်}
+purisassa: {of a man (genitive sg.): ယောက်ျား}
+manasi karoti: {attends to, gives attention (3rd sg. present): နှလုံး သွင်းသည်}
+ākiṇṇāni: {strewn (nominative pl. participle): ပြန့်ကျဲ ထည့်ထားသော}
+tilā: {sesame grains (nominative pl.): နှမ်း}
+pakireyya: {would scatter (optative): ဖိတ်ကျစေသည်}
+modakā: {sweetmeats (nominative pl.): မုန့်လုံး}
+nānā: {various, different (adverb and compound member): အမျိုးမျိုး}
+ukkujjo: {right side up (nominative): လှန်ထားသော}
+bhavesu: {in states of being (locative pl.): ဘဝ}
+vītarāgo: {free from lust, dispassionate (masculine nominative sg.): ရာဂ ကင်းသော}
+sakadāgāmino: {those who return once more (nominative pl.): သကဒါဂါမ်}
+rāgo: {lust, passion (nominative sg.): ရာဂ}
+kāmesu: {in sensual pleasures, the objects of sense desire (locative pl.): ကာမ}
+sotāpanna: {those who have entered the stream (stem, plural sense): သောတာပန်}
+kujjhati: {becomes enraged (3rd sg.): အမျက်ဒေါသ ထွက်သည်}
+lujjati: {breaks up, wears away (3rd sg.): ပျက်သည်}
+ṭhitikā: {enduring, in ciraṭṭhitikā: တည်သော}
+upamo: {resembling, compound final (nominative sg.): တူသော}
+ciraṃ dīgharattaṃ: {for a long long while (adverbial phrase): ကြာမြင့်စွာ ရှည်လျားသော ကာလပတ်လုံး}
+abhiṇhaṃ: {repeatedly (adverb): ခဏခဏ}
+khippaṃ: {quickly, fast (adverb): လျင်မြန်စွာ}
+pāsāṇa: {stone (compound member): ကျောက်}
+anuseti: {lies latent, underlies (3rd sg. present): ကိန်းအောင်းသည်}
+assa: {his, of him (genitive pronoun): ထိုသူ}
+udakena: {by liquid (instrumental): ရေ}
+vātena: {by the air in motion (instrumental): လေ}
+pathavi: {ground, soil (compound member): မြေ}
+lekhā: {line, scratch (nominative): အရေးအကြောင်း}
+sammodati: {is on good terms (3rd sg.): ဝမ်းမြောက်စွာ ဆက်ဆံသည်}
+pharusena: {roughly (instrumental adverb): ကြမ်းတမ်းစွာ}
+sandhiyati: {is reconciled (3rd sg.): ပြန်လည် ဆက်စပ်သည်}
+vuccamāno: {being addressed (participle): ပြောဆိုခံရသော}
+saṃsandati: {fits together (3rd sg.): ညီညွတ်စွာ ပေါင်းစည်းသည်}
+amanāpena: {disagreeably (instrumental): မနှစ်မြို့ဖွယ်}
+udaka: {water, flowing water (compound member): ရေ}
+paṭiggaṇhāti: {takes, receives (3rd sg.): လက်ခံသည်}
+piṇḍapāta: {alms-food (compound member): ဆွမ်း}
+kupito: {angry, provoked (nominative sg. participle): အမျက်ထွက်သော}
+sevanti: {associate with, resort to (3rd pl. present): ပေါင်းသင်းသည်}
+payirupāsanti: {attend on, keep company with (3rd pl. present): ချဉ်းကပ် ခစားသည်}
+chaḍḍenti: {discard (3rd pl.): စွန့်ပစ်သည်}
+ānisaṃsaṃ: {advantage (accusative): အာနိသင်}
+potthaka: {sackcloth (compound member): လျှော်ပိတ်စ}
+potthakā: {coarse sackcloth (nominative pl.): လျှော်ပိတ်စ}
+anattamano: {displeased, unhappy in mind (nominative sg.): စိတ်မနှစ်သိမ့်သော}
+thero: {senior monk (nominative sg.): ထေရ်}
+diṭṭha: {what is seen, an example, in diṭṭhānugatiṃ āpajjati 'follows the example' (compound member): အမြင်}
+anugatiṃ: {following after (accusative): အတုယူ လိုက်နာ}
+bālassa: {of a fool (genitive sg.): မိုက်မဲသော}
+Majjhimo: {middling, intermediate in quality (masculine sg.): အလယ်အလတ်}
+ahitāya: {to disadvantage (dative): အစီးအပွား မရှိခြင်း}
+kūṭe: {on a pile (locative): ပုံ}
+abyattassa: {of an incompetent one (genitive sg.): မလိမ္မာသော}
+bhajanti: {associate with, frequent (3rd pl. present): ဆည်းကပ်သည်}
+tathārūpiṃ: {of such a kind, such (accusative sg.): ထိုသို့သော}
+senāsana: {lodging, dwelling place (compound member): ကျောင်းအိပ်ရာနေရာ / အိပ်ရာ နေရာ}
+dīgharattaṃ: {for a long night, i.e. long period (adverb): ကြာမြင့်စွာ}
+bhesajja: {medicine, in gilānapaccayabhesajja (compound member): ဆေး}
+bhikkhūsu: {among the mendicants (locative pl.): ရဟန်း}
+Navo: {new, recently ordained (nominative): ဝါငယ်}
+jiṇṇo: {worn out, aged (nominative): ဟောင်းနွမ်းသော}
+ukkhali: {cooking pot (compound member): အိုး}
+nāma: {even, indeed, emphatic particle, in 'tvampi nāma' (indeclinable): ပင်လျှင်}
+cīvara: {robe, in pattacīvara (compound member): သင်္ကန်း}
+dukkhasamphassatāya: {by unpleasant contact (instrumental): ထိတွေ့ရ နာကျင်ခြင်း}
+saṅkāra: {refuse (compound member): အမှိုက်}
+saṅgha: {monastic community (compound member): သံဃာ}
+parimajjanaṃ: {wiping, in ukkhaliparimajjanaṃ (accusative): သုတ်ဝတ်}
+bhaṇati: {says, speaks (3rd sg. present): ပြောဆိုသည်}
+dukkhāya: {for the suffering, the misery of, in dīgharattaṃ ahitāya dukkhāya (dative sg.): ဆင်းရဲခြင်း}
+parikkhāraṃ: {requisites (accusative): အသုံးအဆောင်}
+ukkhipati: {throws out, expels (3rd sg.): နှင်ထုတ်သည်}
+samphasso: {contact, the touching of an object (nominative sg.): ထိတွေ့ရ}
+dubbaṇṇatāya: {by bad colour (instrumental): အဆင်း ညှိုးခြင်း}
+dubbaṇṇo: {ill-coloured, unsightly (nominative): အဆင်း ညှိုးသော / အဆင်း ဆိုးသော}
+nicchāreti: {emits (3rd sg.): ထုတ်ဖော် ပြောဆိုသည်}
+vācaṃ: {speech, as a path factor (accusative sg.): စကား}
+sameti: {coincides (3rd sg.): ညီသည်}
+vaṇṇavantaṃ: {having fine colour (accusative): အဆင်း လှသော}
+suvaṇṇatāya: {by fine colour (instrumental): အဆင်း လှခြင်း}
+karaṇḍake: {in a casket (locative): ဘူး}
+vattha: {fabric (compound member): ပိတ်စ}
+kāsika: {from Kāsi (compound member): ကာသိ}
+kāsikavattha: {fabric from Kāsi (compound): ကာသိ ပိတ်စ}
+majjhimaṃ: {middling, intermediate (neuter sg.): အလယ်အလတ်}
+sukhāya: {for the happiness, the well-being of, in dīgharattaṃ hitāya sukhāya (dative sg.): ချမ်းသာခြင်း}
+ādheyyaṃ: {worth keeping close (accusative): လက်ခံ မှတ်သားထိုက်သော}
+ratana: {gems (compound member): ရတနာ}
+nikkhipanti: {deposit (3rd pl.): ထည့်ထားသည်}
+jiṇṇaṃ: {worn out (accusative): ဟောင်းနွမ်းသော}
+gandha: {smell, odour as object (compound member): အနံ့; perfume, scents used as cosmetics, in mālāgandhavilepana (compound member): နံ့သာ}
+sukha: {pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa): သာယာမှု / သာယာသော}
+sukhasamphassatāya: {by agreeable contact (instrumental): ထိတွေ့ရ သာယာခြင်း}
+appasaddā: {with little noise (nominative pl.): အသံ ငြိမ်သော}
+ṭīkāya: {in the sub-commentary (locative, in a note): ဋီကာ}
+samphassaṃ: {having such a contact, in sukhasamphassaṃ 'pleasant to touch' (compound final): ထိတွေ့ရ}
+āyasmanto: {venerable ones, honorific for monks (nominative pl.): အသျှင်}
+hitāya: {for benefit (dative): အစီးအပွား}
+vacanaṃ: {saying (accusative): စကား}
+paliveṭhanaṃ: {wrapping cloth (accusative): ထုပ်ရာ အဝတ်}
+suppameyyo: {easily measured (nominative): ချိန်ဆရ လွယ်သူ}
+capalo: {unsteady (nominative): ပေါ့ပျက်သော}
+vikiṇṇa: {scattered, in vikiṇṇavāco (compound member): ရှုပ်ပွေစွာ}
+pameyyo: {measurable (nominative): ချိန်ဆရ / ချိန်ဆ၍ ရနိုင်သော}
+unnaḷo: {conceited, inflated (nominative): ဘဝင် မြင့်သော}
+uddhato: {agitated (nominative): ယောက်ယက်ခတ်သော}
+indriyo: {having faculties, compound final as in ahīnindriyo (nominative sg.): အာရုံခံ အင်္ဂါ}
+vāco: {of speech, compound final (nominative): ပြောတတ်သော / စကားကို ပြောသော}
+mukharo: {garrulous (nominative): စကား များသော}
+asamāhito: {unconcentrated (masculine nominative sg.): စိတ် မတည်ကြည်သော}
+pākaṭa: {exposed, unguarded (compound member): ပွင့်ဟနေသော}
+vibbhanta: {roaming, strayed (compound member): ပျံ့လွင့်သော}
+samāhito: {composed (nominative): တည်ကြည်သော}
+duppameyyo: {difficult to measure (nominative): ချိန်ဆရ ခက်သူ}
+saṃvuta: {guarded (compound member): စောင့်စည်းသော}
+ekagga: {one-pointed (compound member): တစ်ခုတည်း၌ စူးစိုက်သော}
+appameyyo: {immeasurable (nominative): ချိန်ဆ၍ မရနိုင်သူ}
+sevitabbo: {to be consorted with (gerundive): ပေါင်းသင်းအပ်}
+payirupāsitabbo: {to be waited upon (gerundive): ချဉ်းကပ် ခစားအပ်}
+anukampā: {compassionate sympathy, fellow feeling (nominative sg.): စာနာ ထောက်ထားခြင်း}
+samādhinā: {by mental composure (instrumental): သမာဓိ}
+samādhinā paññāya: {by composure and understanding (instrumental pair): သမာဓိ … ပညာ}
+aññatra: {except, apart from (adverb): လွဲ၍}
+hīno: {inferior, lower than others, in 'I am inferior' (masculine nominative sg.): ယုတ်ညံ့သူ}
+bhajitabbo: {to be kept company with (gerundive): ဆည်းကပ်အပ်}
+anuddayā: {through sympathy (ablative): သနားကြင်နာခြင်း}
+sīlena: {by moral rules, a code of conduct, often of other ascetics (instrumental): သီလ}
+sadiso: {equal, the same as others, in 'I am equal' (masculine nominative sg.): တူညီသူ}
+pavattinī: {proceeding (nominative fem.): ဆက်လက် ဖြစ်ပွားနေသော}
+kathā: {talk or treatise, as in the book title: စကား}
+paripūressāmi: {I shall fulfil (1st sg. future): ပြည့်စုံအောင် ပြုသည်}
+sakkatvā: {having honoured (absolutive): ရိုသေ၍}
+Aparipūraṃ: {unfulfilled (accusative): မပြည့်စုံသေးသော}
+garuṃ katvā: {having treated as weighty (absolutive phrase): လေးစားကာ}
+adhiko: {surpassing (nominative): သာလွန်သော}
+ḍaṃsati: {stings with fangs (3rd sg.): ကိုက်သည်}
+sahāyo: {comrades (nominative): အပေါင်းအဖော် … ရှိသော}
+jigucchitabbo: {to be loathed (gerundive): စက်ဆုပ်အပ်}
+purisapuggalo: {a man, a human individual (nominative sg.): လူ ပုဂ္ဂိုလ်}
+sampavaṅko: {inclined toward (nominative): ညွတ်ကိုင်းသော}
+kittisaddo: {sound of fame (nominative): သတင်းစကား}
+makkheti: {besmears (3rd sg.): ပေကျံစေသည်}
+ahi: {serpent (nominative): မြွေ}
+abbhuggacchati: {goes abroad, rises up (3rd sg.): ပျံ့နှံ့သည်}
+paribhāseyya: {might revile (optative): ကဲ့ရဲ့ ပြောဆိုသည်}
+alātaṃ: {firebrand (nominative): မီးစ}
+gūthakūpo: {pit of excrement (nominative): မစင်တွင်း}
+ciṭiciṭāyati: {sizzles (3rd sg.): တဖွားဖွား မီးပွင့်သည်}
+ajjhupekkhitabbo: {to be looked on with equanimity (gerundive): လျစ်လျူရှုအပ်}
+anatthaṃ: {harm, what is to one's detriment (accusative sg.): မကောင်းမှု}
+cicciṭāyati: {makes a hissing noise (3rd sg.): တဖျစ်ဖျစ် မြည်သည်}
+Akkoseyya: {might scold (optative): ဆဲရေးသည်}
+duggandho: {foul smell, stench (nominative sg.): အနံ့ ဆိုးသော}
+aruko: {wound (nominative): အနာ}
+tinduka: {tinduka-tree wood, left in Pāli: တည်သား}
+bhiyyoso: {even more (adverb): ပို၍ ပို၍}
+samādhismiṃ: {in composure (locative): သမာဓိ}
+samādhismiṃ paññāya: {in composure and understanding (phrase): သမာဓိ … ပညာ}
+paripūrakārino: {those who carry out fully (nominative pl.): ပြည့်စုံစွာ ကျင့်သော}
+paripūrakārī: {one who carries out fully (nominative sg.): ပြည့်စုံစွာ ကျင့်သော}
+sīlesu paripūrakārī: {one who carries out the virtues fully (phrase): သီလတို့ကို ပြည့်စုံစွာ ကျင့်သော}
+sīlesu: {in the virtues (locative pl.): သီလ}
+puggalo paripūrakārī: {the individual carries out fully (phrase): ပုဂ္ဂိုလ် … ပြည့်စုံစွာ ကျင့်သော}
+puggalo sīlesu paripūrakārī: {the individual carries out the virtues fully (phrase): သီလတို့ကို ပြည့်စုံစွာ ကျင့်သော … ပုဂ္ဂိုလ်}
+kārino: {doers, compound final (nominative pl.): ကျင့်သော}
+kārī: {one who does, compound final (nominative sg.): ကျင့်သော / ပြုလေ့ရှိသော}
+vedanānaṃ: {of sensations (genitive pl.): ခံစားမှု}
+rūpānaṃ: {of material things (genitive pl.): ရုပ်}
+pariññaṃ: {comprehension (accusative): ပိုင်းခြား သိခြင်း}
+lābhī: {obtainer (nominative sg.): ရရှိသော}
+kāmānaṃ: {of sense-objects (genitive pl.): ကာမ}
+avacara: {belonging to a sphere, compound final (stem): ဘုံနှင့် ဆိုင်သော}
+paññapeti: {makes known, sets forth (3rd sg.): ပညတ်သည်}
+satthā: {spiritual master (nominative sg.): ဆရာ}
+satthā paññapeti: {the master makes known (phrase): ဆရာ … ပညတ်သည်}
+satthāro: {spiritual masters (nominative pl.): ဆရာ}
+pariññaṃ paññapeti: {makes known the comprehension (phrase): ပိုင်းခြား သိခြင်းကို ပညတ်သည်}
+vedanānaṃ pariññaṃ: {comprehension of sensations (phrase): ခံစားမှုတို့ကို ပိုင်းခြား သိခြင်း}
+rūpānaṃ pariññaṃ: {comprehension of material things (phrase): ရုပ်တို့ကို ပိုင်းခြား သိခြင်း}
+kāmānaṃ pariññaṃ: {comprehension of sense-objects (phrase): ကာမတို့ကို ပိုင်းခြား သိခြင်း}
+ucchedavādo: {doctrine of cutting off at death (nominative): ပြတ်စဲသွားသည်ဟု ဆိုသော ဝါဒ ရှိသော}
+sassatavādo: {doctrine of permanence (nominative): ထာဝရ တည်မြဲသည်ဟု ဆိုသော ဝါဒ ရှိသော}
+thetato: {as established, reliably (ablative adverb): ခိုင်မြဲစွာ}
+dhamme: {this present life, in diṭṭhe ceva dhamme and diṭṭheva dhamme 'here and now' (locative): ဘဝ}
+diṭṭhe dhamme: {in the visible state, here and now (locative phrase): မျက်မှောက်ဘဝ}
+saccato thetato: {as true and as established (adverbial pair): အမှန်အားဖြင့် ခိုင်မြဲစွာ}
+attānaṃ: {a self, the soul as posited by a teacher's view, in attānaṃ saccato thetato paññapeti (accusative sg.): အတ္တ}
+surā: {distilled liquor, in surāmeraya (compound member): သေရည်}
+asappuriso: {an ignoble man (nominative): သူတော်ကောင်း မဟုတ်သူ}
+pāṇa: {living being, creature (compound member): သတ္တဝါ; life, the life of another, in pāṇātipātī 'one who takes life' (compound member): သူ့အသက်}
+pamāda: {heedlessness, negligence (compound member): မေ့လျော့ခြင်း}
+meraya: {fermented liquor, in surāmeraya (compound member): အရက်}
+ṭhāyī: {one who stands in, i.e. indulges, compound final: မှီဝဲသော}
+majja: {intoxicant, in surāmerayamajja (compound member): မူးယစ်ဖွယ်}
+atipātī: {one who strikes down, compound final: သတ်သော}
+pāṇātipātī: {one who destroys life (nominative sg.): သူ့အသက်ကို သတ်သော}
+micchācārī: {one who conducts himself wrongly (nominative sg.): မှားယွင်းစွာ ကျင့်သော}
+puggalo pāṇātipātī: {the individual destroys life (phrase): ပုဂ္ဂိုလ် … သူ့အသက်ကို သတ်သော}
+kāmesumicchācārī: {one of wrong conduct in sensual matters (nominative sg.): ကာမတို့၌ မှားယွင်းစွာ ကျင့်သော}
+ādāyī: {one who takes, compound final in adinnādāyī: ယူသော}
+vādī: {one who speaks, compound final in musāvādī: ပြောသော}
+asappurisena: {than an ignoble man (instrumental): သူတော်ကောင်း မဟုတ်သူ}
+samādapeti: {incites, urges (3rd sg.): ဆောက်တည်စေသည်}
+cāre: {in conduct, in micchācāre (locative): ကျင့်ခြင်း}
+ṭhāne: {in standing, in pamādaṭṭhāne (locative): အကြောင်း}
+atipāte: {in striking down (locative): သတ်ခြင်း}
+pāṇātipāte: {in destroying life (locative): သူ့အသက်ကို သတ်ခြင်း}
+paraṃ: {another person (accusative): သူတစ်ပါး}
+vāde: {in speaking, in musāvāde (locative): ပြောခြင်း}
+attanā: {by oneself, personally (instrumental): မိမိကိုယ်တိုင် / မိမိကိုယ်}
+asappurisataro: {more ignoble (comparative): သူတော်ကောင်း မဟုတ်သူထက် ပို၍ သူတော်ကောင်း မဟုတ်သူ}
+sappuriso: {a true man, a worthy individual (nominative): သူတော်ကောင်း}
+atipātā: {from striking down (ablative): သတ်ခြင်း}
+pāṇātipātā: {from destroying life, killing living beings (ablative): သူ့အသက်ကို သတ်ခြင်း}
+micchācārā: {from wrong conduct in sensual matters (ablative): မှားယွင်းစွာ ကျင့်ခြင်း}
+puggalo paṭivirato: {the individual abstains (phrase): ပုဂ္ဂိုလ် … ရှောင်ကြဉ်သော}
+pāṇātipātā paṭivirato: {abstaining from destroying life (phrase): သူ့အသက်ကို သတ်ခြင်းမှ ရှောင်ကြဉ်သော}
+kāmesumicchācārā paṭivirato: {abstaining from wrong conduct in sensual matters (phrase): ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်းမှ ရှောင်ကြဉ်သော}
+adinnādānā paṭivirato: {abstaining from taking the not-given (phrase): မပေးသည်ကို ယူခြင်းမှ ရှောင်ကြဉ်သော}
+musāvādā paṭivirato: {abstaining from false speech (phrase): မုသား ပြောခြင်းမှ ရှောင်ကြဉ်သော}
+kāmesumicchācārā: {from wrong conduct in sensual matters (ablative): ကာမတို့၌ မှားယွင်းစွာ ကျင့်ခြင်း}
+ādānā: {from taking, in adinnādānā 'from taking what is not given' (ablative): ယူခြင်း}
+vādā: {speaking, as in musāvādā 'from false speech' (ablative): ပြောခြင်း}
+musāvādā: {from false speech, lying (ablative): မုသား ပြောခြင်း}
+sappurisena: {than a worthy man (instrumental): သူတော်ကောင်း}
+veramaṇiyā: {in abstention (locative/dative): ကင်းဝေးခြင်း}
+pāṇātipātā veramaṇiyā: {in abstention from destroying life (phrase): သူ့အသက်ကို သတ်ခြင်းမှ ကင်းဝေးခြင်း}
+adinnādānā veramaṇiyā: {in abstention from taking the not-given (phrase): မပေးသည်ကို ယူခြင်းမှ ကင်းဝေးခြင်း}
+musāvādā veramaṇiyā: {in abstention from false speech (phrase): မုသား ပြောခြင်းမှ ကင်းဝေးခြင်း}
+palāpī: {one who prattles, in samphappalāpī: ပြိန်ဖျင်းသော စကားကို ပြောသော}
+abhijjhālu: {greedy for others' goods (nominative): သူ့ဥစ္စာကို လိုချင်သော}
+pisuṇa: {slanderous, in pisuṇavācā (compound member): ကုန်းတိုက်သော}
+pharusa: {rough, in pharusavācā (compound member): ကြမ်းတမ်းသော}
+sampha: {frivolous, in samphappalāpa (compound member): အကျိုးမဲ့}
+byāpanna: {malevolent, in byāpannacitto (compound member): ဖျက်ဆီးလိုစိတ် ရှိသော}
+pāpo: {an evil one (nominative): ယုတ်မာသူ}
+abhijjhāya: {from covetousness (ablative): သူ့ဥစ္စာကို လိုချင်ခြင်း}
+pāpataro: {more evil (comparative): ပို၍ ယုတ်မာသူ}
+palāpā: {from prattle (ablative): ပြိန်ဖျင်းသော စကား}
+pisuṇāya: {from slanderous, divisive speech (ablative fem.): ကုန်းတိုက်သော}
+abyāpanna: {not malevolent (compound member): ဖျက်ဆီးလိုစိတ် မရှိသော}
+pharusāya: {from harsh, rough speech (ablative fem.): ကြမ်းတမ်းသော}
+abyāpannacitto: {with a mind free from ill will (nominative sg.): ဖျက်ဆီးလိုစိတ် မရှိသော စိတ် ရှိသော}
+anabhijjhāya: {in non-greed (locative/dative): သူ့ဥစ္စာကို မလိုချင်ခြင်း}
+pāpadhammena: {than one of evil nature (instrumental): ယုတ်မာသော သဘော ရှိသူ}
+pāpadhammataro: {of more evil nature (comparative): ပို၍ ယုတ်မာသော သဘော ရှိသူ}
+samā: {correct, variant spelling of sammā: မှန်ကန်သော}
+kammena: {by a formal act of the Order (instrumental): ကံ}
+sāvajjo: {faulty one (nominative): အပြစ် ရှိသူ}
+kāya: {the physical body, or bodily (compound member, as in kāyaviññāṇa and kāyakamma): ကိုယ်}
+mano: {mind, the thinking faculty, also adjectival 'mental' in compounds: မနော}
+vacī: {speech, verbal, as in vacīduccarita and vacīkamma (compound member): နှုတ်}
+vajja: {blameworthy, faulty, in vajjasaññitā (compound member): အပြစ်}
+anavajjena: {by the faultless (instrumental): အပြစ် မရှိသော}
+sāvajjena: {by the faulty (instrumental): အပြစ် ရှိသော}
+bahulaṃ: {frequently, for the most part (adverb): များစွာ}
+vajjo: {what is faulty or censurable (nominative): အပြစ်}
+anavajjo: {free from fault (nominative adjective): အပြစ် မရှိသူ}
+ugghaṭita: {one who understands from a brief statement (compound member): အကျဉ်းကို ကြားရုံဖြင့်}
+velāya: {at the time, at that instant (locative): ခဏ}
+puggalassa abhisamayo: {the person's penetration of the teaching (genitive phrase): ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း}
+udāhaṭa: {uttered, stated (participle in compound): ပြောကြားလိုက်သော}
+saṃkhittena: {in brief, concisely (instrumental): အကျဉ်း}
+vitthārena: {at length, in full (instrumental): အကျယ်အားဖြင့်}
+vibhajiyamāne: {being analysed in detail (locative participle): ခွဲခြား ပြသသော}
+vipañcita: {one who understands after elaboration (compound member): အကျယ် ရှင်းပြမှ}
+atthe: {in the meaning, regarding the meaning (locative): အနက်}
+paripucchato: {by inquiring (genitive present participle): မေးမြန်းခြင်း}
+sevato: {keeping company with (genitive participle): ပေါင်းသင်းခြင်း}
+payirupāsato: {honouring by attendance (genitive participle): ချဉ်းကပ် ခစားခြင်း}
+mitte: {companions (accusative pl.): မိတ်ဆွေ}
+kalyāṇamitte: {admirable spiritual companions (accusative pl.): မိတ်ဆွေကောင်း}
+anupubbena: {step by step, in due course (instrumental adverb): အစဉ်အတိုင်း}
+neyyo: {one who must be led to understanding (nominative): လမ်းညွှန် ပို့ဆောင်ရသူ}
+bhajato: {cultivating companionship (genitive participle): ဆည်းကပ်ခြင်း}
+uddesato: {by reciting or studying (genitive participle): သင်ယူခြင်း}
+karoto: {doing, as in giving attention (genitive participle): နှလုံးသွင်းခြင်း}
+suṇato: {listening (genitive participle): ကြားနာသော}
+jātiyā: {existence, life-time, in tāya jātiyā 'in that same life' (instrumental): ဘဝ}
+dhārayato: {retaining in memory (genitive participle): ဆောင်ထားသော}
+vācayato: {making others recite, instructing (genitive participle): ပို့ချသော}
+vadati: {speaks in response (3rd sg. present): ဖြေဆိုသည်}
+yutta: {fitting, to the point (compound member): သင့်လျော်သော}
+yuttaṃ: {fittingly (adverbial accusative): သင့်လျော်စွာ}
+mutta: {free-flowing, quick, of speech, in muttapaṭibhāno (compound member): လျင်မြန်သော; discarding, free from, in muttācāro 'one who has discarded conventions' (compound member): စွန့်လွှတ်သော}
+pañhaṃ: {a query put to someone (accusative): ပြဿနာ}
+sīghaṃ: {fast, promptly (adverb): လျင်မြန်စွာ}
+paṭibhāno: {readiness of response, ready wit (compound end): ဉာဏ်ပေါ်မှု ရှိသော}
+parisā: {an assembly of listeners (nominative): ပရိသတ်}
+sahita: {connected, consistent (compound member): အနက် ဆက်စပ်သော}
+sahitaṃ: {in a connected way (adverbial): အနက် ဆက်စပ်သော}
+asahitassa: {of what is unconnected (genitive): အနက် မဆက်စပ်သော}
+asahitaṃ: {in an unconnected way (adverbial): အနက် မဆက်စပ်သော}
+dhammakathikā puggalā: {Dhamma speakers as types of person (nominative pl. phrase): တရား ဟောပြောသော ပုဂ္ဂိုလ်}
+saṅkhaṃ gacchati: {comes to be counted as (verbal idiom): အမည် ရသည်}
+eva: {just, indeed, emphatic particle (enclitic): သာ / ပင်}
+kusalā: {skilled, expert (nominative pl.): ကျွမ်းကျင်သော}
+kathikā: {speakers, expounders (nominative pl.): ဟောပြောသော}
+dhammakathikā: {expounders of the Dhamma (nominative pl.): တရား ဟောပြောသော}
+kathiko: {one who speaks on the Dhamma (nominative sg.): ဟောပြောသူ}
+dhammakathiko bhāsati: {a Dhamma speaker speaks (phrase): တရား ဟောပြောသူ … ဟောပြောသည်}
+valāhako: {rain cloud in the simile (nominative sg.): မိုးတိမ်}
+valāhaka: {rain-bearing clouds as a simile (stem in compound): မိုးတိမ်}
+kattā: {one who acts, a doer rather than a talker (agent noun): ပြုလုပ်သူ; one who digs, maker of a burrow, with gādhaṃ (agent noun): တူးသူ}
+puggalo vassitā: {person who is like a cloud that pours (phrase): ပုဂ္ဂိုလ် … မိုး ရွာသူ}
+puggalo gajjitā: {person who is like a cloud that roars (phrase): ပုဂ္ဂိုလ် … မိုး ချုန်းသူ}
+vassitā: {one that pours down water (agent noun): မိုး ရွာသူ}
+gajjitā: {one that roars in the sky (agent noun): မိုး ချုန်းသူ}
+abbhutadhammaṃ: {accounts of marvels, a division of the teaching (accusative sg.): အဗ္ဘုတဓမ္မ}
+jātakaṃ: {the birth stories, a division of the teaching (accusative sg.): ဇာတ်}
+gādhaṃ kattā: {one who makes a burrow (phrase): တွင်း တူးသူ}
+suttaṃ: {a discourse, the sutta as a division of the teaching, in 'dhammaṃ jānāti – suttaṃ geyyaṃ' (nominative/accusative sg.): သုတ်}
+veyyākaraṇaṃ: {the expositions, a division of the teaching (accusative sg.): ဝေယျာကရဏ}
+gādhaṃ: {burrow, pit (accusative): တွင်း}
+udānaṃ: {the inspired utterances, a division of the teaching (accusative sg.): ဥဒါန်း}
+pariyāpuṇāti: {masters by study (3rd sg. present): သင်ယူသည်}
+dhammaṃ pariyāpuṇāti: {masters the Dhamma by study (phrase): တရားကို သင်ယူသည်}
+vasitā: {one who dwells in it (agent noun): နေသူ}
+abbhuta: {marvellous, wonderful (compound member): အဗ္ဘုတ}
+mūsika: {small rodents in the simile (stem in compound): ကြွက်}
+geyyaṃ: {the mixed prose and verse, a division of the teaching (accusative sg.): ဂေယျ}
+mūsikā: {small rodent (nominative sg.): ကြွက်}
+puggalo kattā: {person who is like a burrowing rodent (phrase): ပုဂ္ဂိုလ် … တူးသူ}
+puggalo pariyāpuṇāti: {a person masters by study (phrase): ပုဂ္ဂိုလ် … သင်ယူသည်}
+puggalo vasitā: {person who is like a rodent that dwells (phrase): ပုဂ္ဂိုလ် … နေသူ}
+vedallaṃ: {the catechisms, a division of the teaching (accusative sg.): ဝေဒလ္လ}
+gāthaṃ: {the verses, a division of the teaching (accusative sg.): ဂါထာ}
+ālokitaṃ: {looking forward (neuter participle as noun): ရှေ့သို့ ကြည့်ခြင်း}
+samiñjitaṃ: {flexing the limbs (neuter participle as noun): ကွေးခြင်း}
+samiñjitaṃ pasāritaṃ: {flexing and extending the limbs (pair): ကွေးခြင်း … ဆန့်ခြင်း}
+patta: {the alms bowl, in pattacīvara and pattamaṇḍanā (compound member): သပိတ်; wings, the feathers of a bird, in pattabhāro 'with its wings as its only burden' (compound member): အတောင်}
+patta dhāraṇaṃ: {bearing the alms vessel (compound pair): သပိတ် … ဆောင်ခြင်း}
+dhāraṇaṃ: {bearing a bowl or robe (action noun): ဆောင်ခြင်း}
+paṭikkantaṃ: {returning movement (neuter participle as noun): နောက်သို့ ဆုတ်ခြင်း}
+abhikkantaṃ: {moving forward (neuter participle as noun): ရှေ့သို့ တိုးခြင်း}
+pāsādikaṃ: {pleasing, inspiring confidence (adverbial): ကြည်ညိုဖွယ်}
+vaṇṇī: {having the appearance of (compound end): အဆင်း ရှိသော}
+vaṇṇi: {has the appearance of (compound member): အဆင်း ရှိသော}
+ambaṃ: {the fruit of the mango tree (nominative sg.): သရက်သီး}
+amba: {mango tree, in ambaṅkura 'mango shoot' (compound member): သရက်}
+saṅghāṭi: {the outer double robe, in saṅghāṭipattacīvara (compound member): ဒုကုဋ်}
+puggalo pakko: {person who is mature in conduct (phrase): ပုဂ္ဂိုလ် … မှည့်သော}
+puggalo āmo: {person who is immature in conduct (phrase): ပုဂ္ဂိုလ် … စိမ်းသော}
+pakka: {mature, of fruit (adjective in compound): မှည့်သော}
+pasāritaṃ: {extending the limbs (neuter participle as noun): ဆန့်ခြင်း}
+āmaṃ: {immature, of fruit (adjective): စိမ်းသော}
+saṅghāṭi dhāraṇaṃ: {bearing the outer cloak (compound pair): ဒုကုဋ် … ဆောင်ခြင်း}
+cīvaradhāraṇaṃ: {bearing the monastic garments (compound): သင်္ကန်းကို ဆောင်ခြင်း}
+nirodha: {cessation, in nirodhataṇhā 'craving for cessation' (compound member): ချုပ်ငြိမ်းခြင်း / ချုပ်ငြိမ်း}
+dukkhanirodha: {the ending of suffering, the third truth (compound member): ဒုက္ခ ချုပ်ငြိမ်းရာ}
+pihito: {closed with a lid (nominative participle): အဖုံး ပိတ်ထားသော}
+tuccho: {hollow, not filled (nominative adjective): ဗလာ ဖြစ်သော}
+puggalo tuccho: {a person like a hollow pot (phrase): ပုဂ္ဂိုလ် … ဗလာ ဖြစ်သော}
+puggalo pūro: {a person like a filled pot (phrase): ပုဂ္ဂိုလ် … ပြည့်သော}
+kumbha: {water jars in the simile (stem in compound): အိုး}
+vivaṭo: {open, without a lid (nominative participle): အဖုံး ဖွင့်ထားသော}
+gambhīra: {of great depth (compound member): နက်}
+udakarahado: {pool of water (nominative sg.): ရေကန်}
+udakarahada: {pools of water as a simile (stem in compound): ရေကန်}
+puggalo gambhīro: {a person profound like a deep pool (phrase): ပုဂ္ဂိုလ် … နက်သော}
+puggalo uttāno: {a person superficial like a shallow pool (phrase): ပုဂ္ဂိုလ် … တိမ်သော}
+uttāno: {not deep, superficial (nominative adjective): တိမ်သော}
+balībaddo: {ox, draught animal (nominative sg.): နွားလား}
+balībadda: {oxen as a simile (stem in compound): နွားလား}
+parisaṃ: {group, company (accusative): ပရိသတ်}
+caṇḍo: {violent, aggressive (nominative adjective): ကြမ်းကြုတ်သော}
+gava: {cattle, kine as a group (stem in compound): နွား}
+ubbejitā: {one who frightens others (agent noun): ထိတ်လန့်စေသူ}
+puggalo caṇḍo: {an aggressive person like the ox (phrase): ပုဂ္ဂိုလ် … ကြမ်းကြုတ်သော}
+puggalo ubbejitā: {a person who frightens others (phrase): ပုဂ္ဂိုလ် … ထိတ်လန့်စေသူ}
+āgata: {fast-acting, of venom (compound member): လျင်မြန်စွာ တက်သော}
+ghora: {dreadful, lethal (compound member): ပြင်းသော}
+neva: {negative particle, not at all (retained as Pāli): မ}
+āsīviso: {poisonous serpent (nominative sg.): မြွေဆိုး}
+āsīvisa: {poisonous serpents as a simile (stem in compound): မြွေဆိုး}
+viso: {poison (nominative, compound end): အဆိပ်}
+āgataviso: {whose poison takes effect fast (compound): အဆိပ် လျင်မြန်စွာ တက်သော}
+āsīvisā: {poisonous, of serpents (nominative pl.): မြွေဆိုး}
+duppaṭipadāya: {wrong way of practice (dative or genitive): ဆိုးသော ကျင့်စဉ်}
+duppaṭipannānaṃ: {those practising wrongly (genitive pl.): ဆိုးစွာ ကျင့်သော}
+avaṇṇa: {dispraise, ill repute, in avaṇṇahārikā (compound member): ကဲ့ရဲ့}
+avaṇṇaṃ bhāsitā: {one who speaks dispraise (phrase): ကဲ့ရဲ့ ပြောဆိုသော}
+buddhānaṃ: {the Awakened Ones (genitive pl.): ဘုရားရှင်}
+avaṇṇaṃ bhāsati: {speaks dispraise of (phrase): ကဲ့ရဲ့ ပြောဆိုသည်}
+arahassa: {of one who merits (genitive, compound end): ထိုက်သော}
+avaṇṇārahassa: {of one meriting dispraise (genitive): ကဲ့ရဲ့ထိုက်သော}
+vaṇṇārahassa: {of one meriting commendation (genitive): ချီးမွမ်းထိုက်သော}
+janeti: {generates, gives rise to desire (3rd sg. present): ဖြစ်စေသည်}
+pasādaṃ janeti: {gives rise to confidence, becomes pleased, in a path (^4-164, ^4-165) and taking a measure (^4-171, ^4-172) (phrase): ကြည်ညိုမှုကို ဖြစ်စေသည်}
+sāvakānaṃ: {the hearers, pupils (genitive pl.): တပည့်}
+appasādaṃ: {lack of confidence (accusative): မကြည်ညိုမှု}
+anuvicca: {after investigating (absolutive): စုံစမ်း}
+pariyogāhetvā: {having fathomed, probed (absolutive): စိစစ်၍}
+puggalo avaṇṇaṃ bhāsati: {a person speaks dispraise (phrase): ပုဂ္ဂိုလ် … ကဲ့ရဲ့ ပြောဆိုသည်}
+puggalo janeti: {a person gives rise to (phrase): ပုဂ္ဂိုလ် … ဖြစ်စေသည်}
+puggalo appasādaṃ janeti: {a person gives rise to lack of confidence (phrase): ပုဂ္ဂိုလ် … မကြည်ညိုမှုကို ဖြစ်စေသည်}
+puggalo pasādaṃ janeti: {a person gives rise to confidence (phrase): ပုဂ္ဂိုလ် … ကြည်ညိုမှုကို ဖြစ်စေသည်}
+puggalo vaṇṇaṃ bhāsati: {a person speaks commendation (phrase): ပုဂ္ဂိုလ် … ချီးမွမ်း ပြောဆိုသည်}
+puggalo titthiyānaṃ vaṇṇaṃ bhāsati: {a person commends other sectarians (phrase): ပုဂ္ဂိုလ် … တိတ္ထိ … ချီးမွမ်း ပြောဆိုသည်}
+paṭipadāya: {way of practice (dative or genitive): ကျင့်စဉ်}
+paṭipannānaṃ: {those who are following the path (genitive pl.): ကျင့်သော}
+micchāpaṭipannānaṃ: {those on the wrong path (genitive pl.): မှားယွင်းစွာ ကျင့်သော}
+vaṇṇaṃ bhāsitā: {one who speaks commendation (phrase): ချီးမွမ်း ပြောဆိုသော}
+vaṇṇaṃ bhāsati: {speaks commendation of (phrase): ချီးမွမ်း ပြောဆိုသည်}
+titthiyānaṃ: {other religious schools (genitive pl.): တိတ္ထိ}
+pasādaṃ upadaṃsitā: {one who displays confidence (phrase): ကြည်ညိုမှုကို ပြသသော}
+upadaṃsitā: {one who displays (agent noun): ပြသသော}
+pasādanīye ṭhāne pasādaṃ: {confidence in what merits confidence (phrase): ကြည်ညိုထိုက်သော အရာ၌ ကြည်ညိုမှု}
+sammāpaṭipannānaṃ: {those on the right path (genitive pl.): မှန်ကန်စွာ ကျင့်သော}
+tacchaṃ: {in accordance with fact (adverbial): ဟုတ်တိုင်း}
+veyyākaraṇāya: {for the explanation or reply (dative): ဖြေဆိုရန်}
+upekkhako: {one who is equanimous, looking on evenly (masculine sg.): ဥပေက္ခာ ရှိသော}
+sato: {mindful, attentive (masculine sg.): သတိ ရှိသော}
+puggalo avaṇṇaṃ bhāsitā: {a person who speaks dispraise (phrase): ပုဂ္ဂိုလ် … ကဲ့ရဲ့ ပြောဆိုသော}
+puggalo vaṇṇaṃ bhāsitā: {a person who speaks commendation (phrase): ပုဂ္ဂိုလ် … ချီးမွမ်း ပြောဆိုသော}
+pañhassa: {of the query (genitive): ပြဿနာ}
+bhūtaṃ: {what is true, as it really is, in yathābhūtaṃ (adverbial): အမှန်အတိုင်း}
+Nerayikā: {denizens of the infernal realm (nominative pl.): ငရဲသား}
+abhinibbattati: {is born, arises (3rd sg. present): ဖြစ်ပေါ်သည်}
+nimmita: {created, in paranimmita 'creations of others' (compound member): နိမ္မိတ}
+uṭṭhāna: {exertion, initiative (compound member): ကြိုးစားအားထုတ်မှု}
+vāyamato: {by one who strives (genitive participle): အားထုတ်၍}
+uṭṭhahato: {by one who rises to work (genitive participle): ထကြွ၍}
+devā: {the gods (nominative pl.): နတ်}
+upajīvino: {those subsisting on (nominative pl.): အသက်မွေးသော}
+ājīvo: {livelihood, means of living (nominative sg.): အသက်မွေးမှု}
+upajīvī: {subsisting on (compound end): အသက်မွေးသော}
+puñña: {merit, meritorious deeds (compound member): ကောင်းမှု}
+puggalassa ājīvo: {a person's means of subsistence (phrase): ပုဂ္ဂိုလ် … အသက်မွေးမှု}
+vasa: {control, mastery (compound member): ဝသ}
+ghaṭato: {by one who exerts himself (genitive participle): ကြိုးပမ်း၍}
+upari: {above, further on in the count (summary verses): အထက်}
+vattī: {exercising control (compound end): ဝတ္တီ}
+duggatiṃ: {a bad destination, unhappy rebirth (accusative sg.): ဆိုးသော လားရာ}
+vena: {basket-weaver caste (compound member): ဝါးရက်သမား}
+seyyā: {place to lie down (compound member): အိပ်ရာ}
+carati: {leads a way of life, in 'brahmacariyaṃ carati' (3rd sg. present): ကျင့်သည်}
+duccaritaṃ carati: {practises misconduct (phrase): ဒုစရိုက် … ကျင့်သည်}
+kāṇo: {one-eyed or sightless (nominative): မျက်စိ ကွယ်သော}
+brāhmaṇa: {brahmin, in brāhmaṇamahāsāla (compound member): ပုဏ္ဏားမျိုး}
+bhedā: {upon the breakup of the body (ablative): ပြိုကွဲ၍}
+rathakāra: {chariot-maker caste (compound member): ရထားလုပ်သမား}
+acchādo: {covering for the body (compound end): အဝတ်}
+vaṇṇapokkharatāya: {by beauty of complexion (instrumental): လှပသော အဆင်း}
+kuṇī: {deformed in limb (nominative): လက် ကောက်သော}
+tamo: {state of obscurity, low birth (nominative): မှောင်မိုက်}
+maraṇā: {after death, in 'the Tathāgata exists after death' (ablative, without quotation particle): သေပြီးနောက်}
+gatiṃ: {destination, course of rebirth (accusative sg.): လားရာ}
+pāna: {beverages (compound member): အဖျော်}
+āvasatha: {lodging, shelter (compound member): နေအိမ်}
+kule: {in a clan or household (locative): အမျိုး}
+paramāya: {supreme, excellent (feminine instrumental): အလွန်}
+anna: {nourishment, rice (compound member): အစာ}
+mālā: {flower wreaths (compound member): ပန်း}
+dassanīyo: {pleasing to see (nominative): ရှုချင်ဖွယ် ဖြစ်သော}
+pāsādiko: {pleasing, inspiring (nominative): ကြည်ညိုဖွယ် ဖြစ်သော}
+abhirūpo: {of fine form (nominative): ရုပ်ချောသော}
+kasirena: {with toil, laboriously (instrumental): ခက်ခဲစွာ}
+saggaṃ: {heaven, the heavenly realm (accusative sg.): နတ်ပြည်}
+nirayaṃ: {hell, the infernal realm (accusative sg.): ငရဲ}
+gahapati: {householder, in gahapatimahāsāla (compound member): သူကြွယ်မျိုး / သူကြွယ်}
+nesāda: {trapper caste (compound member): မုဆိုး}
+khañjo: {limping (nominative): ခြေ ဆွံ့သော}
+padīpeyyassa: {lighting materials (genitive): ဆီမီး}
+joti: {brightness, high status (stem): အလင်း}
+vuttike: {having a livelihood (locative, compound end): အသက်မွေးရ}
+khattiya: {warrior-noble, in khattiyamahāsāla (compound member): မင်းမျိုး}
+bahu: {many times, frequently (adverbial): များသော}
+vilepanassa: {unguents for the body (genitive): နံ့သာပျောင်း}
+caṇḍāla: {lowest caste (compound member): စဏ္ဍာလ}
+pakkhahato: {struck down on one side (nominative): လေဖြတ်သော}
+puggalo tamo: {a person of dark origin (phrase): ပုဂ္ဂိုလ် … မှောင်မိုက်}
+puggalo joti: {a person of bright origin (phrase): ပုဂ္ဂိုလ် … အလင်း}
+puggalo paccājāto: {a person is born again (phrase): ပုဂ္ဂိုလ် … ပြန်လည် မွေးဖွားသော}
+pahūta: {abundant (compound member): ပေါများသော}
+dalidde: {destitute (locative): ဆင်းရဲသော}
+bhoge: {wealth, goods (accusative pl.): စည်းစိမ်}
+upakaraṇe: {means, equipment (locative): အသုံးအဆောင်}
+paccājāto: {born again into a family (participle): ပြန်လည် မွေးဖွားသော}
+pukkusa: {sweeper caste (compound member): အမှိုက်သိမ်းသမား}
+aḍḍhe: {wealthy (locative): ချမ်းသာသော}
+vinipātaṃ: {the world of ruin, the lower realm (accusative sg.): ပျက်စီး ကျရောက်ရာ}
+ābādho: {illness, sickness (nominative sg.): ရောဂါ}
+rajate: {the white precious metal (locative): ငွေ}
+okoṭimako: {dwarfish (nominative): ပုကွသော}
+duddasiko: {ugly to look at (nominative): ကြည့်ရ ဆိုးသော}
+yānassa: {conveyances (genitive): ယာဉ်}
+dhane: {riches (locative): ဥစ္စာ}
+mahāsāla: {greatly propertied (compound member): ကြွယ်ဝသော}
+puggalo uṇṇatoṇato: {a person risen and raised (phrase): ပုဂ္ဂိုလ် … မြင့်ရာမှ နိမ့်ရာသို့ ဆင်းသူ}
+puggalo oṇatoṇato: {a person sunk and sinking (phrase): ပုဂ္ဂိုလ် … နိမ့်ရာမှ နိမ့်ရာသို့ ဆင်းသူ}
+oṇato: {sunk down, lowly (participle): နိမ့်ရာ}
+kalyāṇadhammā: {of good nature (nominative): ကောင်းမွန်သော သဘော ရှိသော}
+sīlavatī: {virtuous (feminine nominative): သီလ ရှိသော}
+sāra: {heartwood, core of a tree (compound member): အနှစ်}
+sāraparivāro: {encircled by core-wood trees (compound): အနှစ် အခြံအရံ ရှိသော}
+sāro: {heartwood, the essential, said of a monk (nominative sg.): အနှစ်}
+sāro parivāro: {hard-core tree with a retinue (phrase): အနှစ် … အခြံအရံ ရှိသော}
+puggalo sāro: {a person of solid core (phrase): ပုဂ္ဂိုလ် … အနှစ်}
+puggalo sāro parivāro: {a solid person with a solid retinue (phrase): ပုဂ္ဂိုလ် … အနှစ် … အခြံအရံ ရှိသော}
+puggalo pheggu: {a person of weak core (phrase): ပုဂ္ဂိုလ် … အကာ}
+puggalo pheggu parivāro: {a weak-cored person with a retinue (phrase): ပုဂ္ဂိုလ် … အကာ … အခြံအရံ ရှိသော}
+pheggu: {sapwood, weak timber (stem): အကာ}
+pheggu parivāro: {sapwood tree with a retinue (phrase): အကာ … အခြံအရံ ရှိသော}
+parivāro: {encircled by a retinue (nominative): အခြံအရံ ရှိသော}
+phegguparivāro: {encircled by sapwood trees (compound): အကာ အခြံအရံ ရှိသော}
+rukkho: {woody plant (nominative sg.): သစ်ပင်}
+rukkha: {tree, in rukkhamūla (compound member): သစ်ပင်}
+pasaṃsanāya: {praising (dative or instrumental): ထောမနာစကား}
+pariṇāhaṃ: {build, stature (accusative sg.): လုံးပတ်}
+vaṇṇahārikāya: {spreading of praise (dative or instrumental): ဂုဏ်သတင်း ဆောင်ယူချက်}
+pāripūriṃ: {a full measure, enough food, in 'bhojanassa pāripūriṃ' (accusative sg.): ပြည့်စုံမှု}
+ārohaṃ: {height, tall stature (accusative sg.): အရပ် အမြင့်}
+pamāṇo: {taking as measure (compound end): အတိုင်းအတာ ထား၍}
+vaṇṇanāya: {describing favourably (dative or instrumental): ချီးမွမ်းစကား}
+passitvā: {having seen (absolutive): မြင်၍}
+saṇṭhānaṃ: {figure, bodily shape (accusative sg.): ပုံသဏ္ဌာန်}
+pamāṇaṃ: {measure, length (nominative sg.): အတိုင်းအတာ}
+gahetvā: {having taken (absolutive): ထား၍}
+thomanāya: {eulogy (dative or instrumental): ချီးကျူးစကား}
+ghosa: {sound of speech (compound member): အသံဗလံ}
+pasanno: {gaining confidence (nominative participle): ကြည်ညိုသော}
+samādhiṃ: {concentration (accusative sg.): သမာဓိ}
+dukkara: {hard to do, severe, in dukkarakāritā (compound member): ပြုရခက်သော}
+sīlaṃ: {virtue, moral conduct (nominative/accusative sg.): သီလ}
+lūkha: {coarseness, austerity (compound member): ကြမ်းတမ်းခြင်း}
+kārikaṃ: {ascetic performances (accusative): အကျင့်}
+vividhaṃ: {of many kinds (accusative): အမျိုးမျိုးသော}
+paññaṃ: {understanding (accusative): ပညာ}
+samādhisampanno: {endowed with collectedness (compound): သမာဓိ ပြည့်စုံသော}
+vimuttisampanno: {endowed with release (compound): လွတ်မြောက်မှု ပြည့်စုံသော}
+paññāsampanno: {endowed with understanding (compound): ပညာ ပြည့်စုံသော}
+sampadāya: {achievement, attainment (dative or genitive): ပြည့်စုံခြင်း}
+samādhisampadāya: {attainment of collectedness (compound): သမာဓိ ပြည့်စုံခြင်း}
+vimuttisampadāya: {attainment of release (compound): လွတ်မြောက်မှု ပြည့်စုံခြင်း}
+sīlasampadāya: {attainment of virtue (compound): သီလ ပြည့်စုံခြင်း}
+paññāsampadāya: {attainment of understanding (compound): ပညာ ပြည့်စုံခြင်း}
+samādhi: {concentration, mental composure (stem and nominative): သမာဓိ}
+ñāṇa: {knowledge, in ñāṇasampayutta (compound member): ဉာဏ်}
+ñāṇadassana: {knowing and seeing (compound): သိမြင်သော ဉာဏ်}
+vimutti: {liberation, freedom (nominative sg.): လွတ်မြောက်မှု}
+puggalo paṭipanno: {a person who is practising (phrase): ပုဂ္ဂိုလ် … ကျင့်ကြံသော}
+dassana: {seeing, vision, in vimuttiñāṇadassana (compound member): သိမြင်သော}
+vimuttiñāṇadassana: {knowing and seeing of release (compound): လွတ်မြောက်မှုကို သိမြင်သော ဉာဏ်}
+sādiyati: {consents to, receives (3rd sg. present): သာယာသည်}
+antaraṃ: {between, over (accusative of place): ကြားခံ၍}
+vāḷa: {beast of prey (compound member): တိရစ္ဆာန် အမွေး}
+ajinaṃ: {antelope skin (accusative): သမင်သားရေ / သားရေ}
+tirīṭāni: {tree-bark garments (nominative pl.): သစ်ခေါက် အဝတ်}
+orohana: {descending into water (compound member): ဆင်းခြင်း}
+massu: {facial hair (compound member): မုတ်ဆိတ်}
+apassayiko: {lying on, using as a bed (compound end): လျောင်းသော}
+kambalaṃ: {woollen cloak (accusative): ကမ္ဗလာ}
+kaḷopi: {a basket or dish (compound member): ဒယ်အိုး}
+kaṇa: {rice husk powder (compound member): ဖွဲနု}
+abhihaṭaṃ: {fetched to one (accusative participle): ယူဆောင်လာသော}
+sāṇāni: {hempen garments (accusative pl.): လျှော် အဝတ်}
+saṅkittīsu: {communal food collections (locative pl.): ငတ်မွတ်ချိန်၌ စုဆောင်းထားသော ဆွမ်း}
+ācāro: {proper conduct, good behaviour (nominative sg.): ကျင့်ဝတ်}
+chava: {dead bodies (compound member): အလောင်း}
+go: {cow, bovine animal (compound member), as in gomaya and the cattle of the ascetic practices: နွား}
+anuyutto: {devoted to, given to (masculine sg. participle): အားထုတ်သော}
+sā: {canine (compound member): ခွေး}
+pivati: {takes liquid (3rd sg. present): သောက်သည်}
+maya: {excrement, as in gomaya (compound end): ချေး}
+bhuñjamānānaṃ: {while taking food (genitive pl. participle): စားနေသော}
+sāya: {late in the day (compound member): ညနေ}
+pavatta: {dropped of itself (compound member): ကြွေကျသော}
+thusodakaṃ: {sour husk-water (accusative): ဖွဲရေ}
+vāka: {plant strands for cloth (compound member): သစ်ခေါက် အမျှင်}
+macchaṃ: {aquatic creature as food (accusative): ငါး}
+pariyāya: {set turn, regular interval (compound member): အလှည့်ကျ}
+makkhikā: {insects that swarm (nominative pl.): ယင်ကောင်}
+piññāka: {oilcake from sesame (compound member): နှမ်းဖတ်}
+vana: {wild wooded country (compound member): တော}
+yāpeti: {carries on, keeps life going, as a gloss of viharati (3rd sg. present): မျှတသည်}
+tiṇa: {herbage (compound member): မြက်}
+sāka: {leafy vegetables (compound member): ဟင်းရွက်}
+kesa: {hair of the head (compound member): ဆံပင်}
+hattha: {the palms (compound member): လက်}
+kūlāni: {rubbish heaps (accusative pl.): အဝတ်}
+dattiyā: {one serving of food (instrumental): ခွက်}
+dattīhi: {servings of food (instrumental pl.): ခွက်}
+daddula: {leather scraps (compound member): သားရေ အပိုင်းအစ}
+āgāriko: {going to dwellings for alms (compound end): အိမ်}
+nimantanaṃ: {an invited meal (accusative): ပင့်ဖိတ်ခြင်း}
+kusa: {a sacred grass (compound member, kept as Pāli): ကုသမြက်}
+apalekhano: {wiping clean with the tongue (compound end): လျက်သော}
+suraṃ: {distilled spirits (accusative): သေရည်}
+maṃsaṃ: {meat, flesh as a kind of edible food (nominative sg.): အသား}
+sāmāka: {a kind of grain (compound member): ဆပ်}
+masāṇāni: {garments of mixed fibre (accusative pl.): လျှော် ရောသော အဝတ်}
+haṭa: {aquatic plant (compound member): ရေညှိ}
+mukhā: {the opening, the rim of a vessel, in kumbhimukhā (ablative): နှုတ်ခမ်း; face, in assumukhā with tears on the face (compound final): မျက်ရည် စီးသော}
+ālopiko: {living on morsels (compound end): လုတ်}
+acelako: {unclothed ascetic (nominative): အဝတ် မဝတ်သော}
+pāyamānāya: {suckling a child (feminine dative or genitive): နို့တိုက်နေသော}
+ekāhikaṃ: {at one-day intervals (adverbial): တစ်ရက်ခြား}
+ulūka: {night birds (compound member): ဇီးကွက်}
+puggalo attantapo: {a person who afflicts himself (phrase): ပုဂ္ဂိုလ် … မိမိကိုယ်ကို ပူပန်စေသော}
+musala: {pounding club (compound member): ကျည်ပွေ့}
+kumbhi: {cooking vessel (compound member): အိုး}
+paritāpanānuyoga: {pursuit of self-affliction (compound): ပူပန်စေခြင်း}
+gabbhiniyā: {an expectant woman (feminine genitive): ကိုယ်ဝန် ရှိသော}
+kataṃ: {done, performed (neuter sg. participle): ပြုသော}
+locako: {plucking out hair (compound end): နုတ်သော}
+locana: {plucking out (compound member): နုတ်ခြင်း}
+paṃsukūlāni: {robes from rubbish heaps (accusative pl.): ပံ့သကူ အဝတ်}
+paṭikkhitto: {declining, rejecting (nominative participle): ပယ်သော}
+nīvāra: {wild grain (compound member): တောစပါး}
+mūla: {root of a plant (compound member), the same value also naming the root condition, in kusalamūla and akusalamūla: အမြစ်; foot of a tree, in rukkhamūla (compound member): ရင်း}
+paṃsu: {dust, refuse (compound member): ပံ့သကူ}
+ācāma: {rice-water froth (compound member): ထမင်းရည်ချ}
+phalaka: {wooden boards (compound member): ပျဉ်ပြား}
+dussāni: {cloth from the dead (accusative pl.): အဝတ်}
+āsana: {seat (compound member): ထိုင်ခုံ}
+uddissa: {designated for (absolutive): ရည်ရွယ်၍}
+ukkuṭiko: {crouching on the heels (nominative): ခြောင်းကြောင့်ချ ထိုင်သော}
+ukkuṭika: {crouching posture (compound member): ခြောင်းကြောင့်ချ ထိုင်၍}
+ubbhaṭṭhako: {remaining upright (nominative): မတ်တတ် ရပ်သော}
+daṇḍa: {punishment, in daṇḍabhaya (compound member), here in daṇḍatajjita: ဒဏ်; a stick, a rod, in daṇḍamantaraṃ (compound member): တုတ်}
+tiṭṭha: {halting (compound member): ရပ်သည်}
+khipaṃ: {pieces, slices (accusative): အစ}
+padhāna: {striving, exertion, in sammappadhāna and padhānasaṅkhāra (compound member): ကြိုးစားခြင်း}
+saṇḍasaṇḍacārinī: {moving in swarms (feminine adjective): အုပ်လိုက် ပျံဝဲနေသော}
+atta: {oneself, one's own (reflexive compound member), as in attantapo and attahita: မိမိ}
+kaṇṭaka: {sharp spikes (compound member): ဆူး}
+eḷaka: {doorsill, threshold, in eḷakamantaraṃ (compound member): တံခါးခုံ; sheep, small livestock, in ajeḷaka (compound member): သိုး}
+tatiyakaṃ: {every third (adverbial): သုံးကြိမ်}
+tapo: {one who afflicts (compound end): ပူပန်စေသော}
+paritāpana: {affliction (compound member): ပူပန်စေခြင်း}
+upaṭṭhito: {attending, ready (nominative participle): ရပ်စောင့်နေသော}
+vihitaṃ: {manifold, varied, in anekavihitaṃ (accusative): အမျိုးမျိုးသော}
+dhāreti: {puts on (3rd sg. present): ဝတ်သည်}
+merayaṃ: {fermented drink (accusative): အရက်}
+pakkhaṃ: {feathers, pinions (accusative): အတောင်}
+sākuṇiko: {fowler (nominative): ငှက် ဖမ်းသူ}
+orabbhiko: {slaughterer of sheep (nominative): သိုး သတ်သူ}
+kurūra: {brutal (compound member): ကြမ်းကြုတ်သော}
+māgaviko: {hunter of deer (nominative): သားကောင် ဖမ်းသူ}
+ghātako: {one who kills, executes (nominative): သတ်သူ}
+macchaghātako: {one who kills fish (nominative): ငါး သတ်သူ}
+luddo: {huntsman (nominative): မုဆိုး}
+bandhanāgāriko: {prison keeper (nominative): ထောင်စောင့်}
+kammantā: {line of work (nominative pl.): အလုပ် ရှိသော}
+puggalo parantapo: {a person who afflicts others (phrase): ပုဂ္ဂိုလ် … သူတစ်ပါးကို ပူပန်စေသော}
+sūkariko: {pig-butcher (nominative): ဝက် သတ်သူ}
+coro: {robber (nominative): သူခိုး}
+cora: {thieves, robbers (compound member): သူခိုး}
+anantarahitāya: {uncovered, with nothing between (feminine locative): အခင်း မခင်းထားသော}
+massuṃ: {facial hair (accusative): မုတ်ဆိတ်}
+kāyaṃ: {the physical body, or bodily (accusative sg.): ကိုယ်}
+brāhmaṇo: {a brahmin, member of the priestly caste (nominative sg.): ပုဏ္ဏား}
+brāhmaṇena purohitena: {by the brahmin chaplain (instrumental phrase): ပုဏ္ဏား ပုရောဟိတ်}
+kārāpetvā: {having had constructed (causative absolutive): ဆောက်စေ၍}
+vacchatarā: {young steers (nominative pl.): နွားထီးပေါက်}
+usabhā: {male cattle (nominative pl.): နွားထီး}
+vacchāya: {young of a cow (dative or genitive): နွားသငယ် ရှိသော}
+narassa: {town, settlement, fragment of nagarassa (genitive): လူ}
+gāviyā: {female bovine (genitive): နွားမ}
+miga: {wild game animals (compound member): သမင်}
+tajjitā: {menaced, frightened (participle): ခြိမ်းခြောက်ခံရသော}
+puratthimena: {to the eastern side (instrumental): အရှေ့ဘက်}
+pavisati: {goes into (3rd sg. present): ဝင်သည်}
+aggiṃ: {sacrificial flame (accusative): မီး}
+sappi: {ghee, clarified butter (nominative sg.): ထောပတ်ကြည် / ထောပတ်}
+ajā: {she-goats (nominative pl.): ဆိတ်}
+dabbhā: {sacrificial grass (nominative pl.): မြက်}
+harita: {fresh, verdant (compound member): စိမ်းစိုသော}
+bhūmiyā: {the ground, the surface of the earth (locative): မြေ}
+āgāraṃ: {building, house (accusative): အဆောင်}
+muddhāvasitto: {consecrated by anointing (nominative): ဘိသိက်ခံ}
+vacchatariyo: {young cows (nominative pl.): နွားမပေါက်}
+purohito yāpeti: {the chaplain subsists (phrase): ပုရောဟိတ် … မျှတသည်}
+visāṇena: {a beast's horn (instrumental): ချို}
+assā: {steeds (nominative pl.): မြင်း}
+kandaraka: {name of the interlocutor of the sutta (proper name): ကန္ဒရက}
+kandarakasutte: {in the sutta named after Kandaraka (locative title): ကန္ဒရကသုတ်}
+rājā: {king (nominative sg.): မင်း}
+avasesena: {with what remains (instrumental): ကြွင်းကျန်သော}
+seyyaṃ kappeti: {makes one's bed (phrase): အိပ်ရာ ပြုသည်}
+majjhima: {the Majjhima Nikāya, the middle-length collection, in a cross-reference note (title member): မဇ္ဈိမ}
+majjhimanikāye: {in the collection of middle-length discourses (locative title): မဇ္ဈိမနိကာယ်}
+potthake: {in a written copy (locative): ပေစာမူ}
+khīraṃ: {milk, as a kind of edible food (nominative sg.): နွားနို့}
+khattiyo: {a member of the warrior-noble caste (nominative sg.): မင်းမျိုး}
+yūpa: {sacrificial pillars (compound member): ယဇ်တိုင်}
+purohitena: {by the royal chaplain (instrumental): ပုရောဟိတ်}
+mahesiyā: {chief consort (instrumental): မိဖုရား}
+urabbhā: {male sheep (nominative pl.): သိုး}
+khara: {harsh, rough, in kharagata 'having a harsh nature' (compound member): ကြမ်းသော}
+yañña: {ritual offering (compound member): ယဇ်}
+kaṇḍuvamāno: {rubbing an itch (participle): ကုတ်သော}
+pessā: {messengers, menials (nominative pl.): စေခိုင်းရသူ}
+ohāretvā: {having removed hair (absolutive): ရိတ်၍}
+sīhaḷa: {Sri Lankan edition (manuscript siglum): သီဟိုဠ်}
+haññantu: {let them be killed (imperative passive): သတ်သည်}
+dāsā: {bondmen (nominative pl.): ကျွန်}
+abbhañjitvā: {having anointed (absolutive): လိမ်း၍}
+barihisa: {sacrificial grass to be spread (compound member): ယဇ်ခင်း}
+upalittāya: {covered over (feminine participle): လိမ်းကျံထားသော}
+sutte: {in the discourse, a sutta cited in a note (locative): သုတ်; in sleeping, in the clear-comprehension list (locative): အိပ်ရာ}
+parikammāni: {preparatory work (nominative pl.): အလုပ်}
+assu: {tears, teardrops (nominative sg.): မျက်ရည်}
+thane: {udder (locative): နို့သီး}
+saddhiṃ: {along with (indeclinable): အတူ}
+rukkhā: {woody plants (nominative pl.): သစ်ပင်}
+mahāsālo: {of great property (nominative): ကြွယ်ဝသော}
+rudamānā: {crying (participle pl.): ငိုကြွေးသော}
+kammakarā: {labourers (nominative pl.): အလုပ်သမား}
+abbhokāso: {the open air, an unsheltered place (nominative sg.): လွင်တီးခေါင်}
+arahaṃ: {the worthy one, arahant (nominative sg.): ရဟန္တာ}
+uppajjati: {arises, comes into being (3rd sg. present): ပွင့်ထွန်းတော်မူသည်}
+bhagavā: {the Lord, epithet of the Buddha (nominative): ဘုန်းတော်ရှင်}
+brāhmaṇiṃ: {of the priestly caste (feminine accusative adjective): ပုဏ္ဏား}
+parivaṭṭaṃ: {circle of relatives (accusative): အပေါင်း}
+caraṇa: {good behaviour (compound member): အကျင့်}
+sītībhūto: {become cool, calmed (nominative): အေးမြသော}
+sambādho: {confined, crowded (nominative): ကျဉ်းကျပ်သော}
+raja: {fine particles (compound member): ဖုန်လုံး / မြူမှုန်}
+sukaraṃ: {not difficult (nominative neuter): လွယ်ကူသော}
+paṭisaṃvedī: {experiencing (nominative sg. agent noun): ခံစားသော}
+saddhaṃ: {confidence in the teaching (accusative): ယုံကြည်မှု}
+pabbajjā: {going forth into homelessness (nominative): ရဟန်း ပြုခြင်း}
+bhogakkhandhaṃ: {mass of wealth (accusative): စည်းစိမ် အစု}
+nicchāto: {without craving, unhungry (nominative): ဆာလောင်မှု ကင်းသော}
+pajaṃ: {offspring, population (accusative): သတ္တဝါ အပေါင်း}
+pahāya: {having given up, having abandoned (absolutive): ပယ်၍}
+deva: {gods, deities (compound member): နတ်}
+sārathi: {charioteer, trainer (compound member): ဆုံးမရာ}
+agāraṃ: {the household life (accusative): အိမ်ရာ}
+anagāriyaṃ: {homeless state (accusative): အိမ်ရာ မရှိသော ရဟန်းအဖြစ်}
+ghara: {home (compound member): အိမ်ရာ}
+manussānaṃ: {of human beings (genitive pl.): လူ}
+chāto: {hungry, craving (compound end): ဆာလောင်မှု}
+vidū: {one who knows (compound end): သိတော်မူသော}
+vijjā: {true knowledge, the three higher knowledges (nominative sg. and pl.): အမှန်သိမြင်မှု}
+pavedeti: {makes known, proclaims (3rd sg. present): ဟောကြားတော်မူသည်}
+ajjhāvasatā: {by one dwelling in (instrumental participle): နေသူ}
+kāsāyāni: {saffron-dyed (accusative pl.): ဖန်ရည်စွန်းသော}
+nibbuto: {quenched, extinguished (nominative): ငြိမ်းအေးသော}
+likhitaṃ: {burnished (participle): ပွတ်ထားသော}
+paṭisañcikkhati: {considers (3rd sg. present): ဆင်ခြင်သည်}
+pakāseti: {makes manifest (3rd sg. present): ထင်ရှားပြတော်မူသည်}
+āpatho: {open way (nominative): တက်ရာ လမ်း}
+vatthāni: {garments (accusative pl.): သင်္ကန်း}
+saṅkha: {conch shell (compound member): ခရုသင်း}
+putto: {male child (nominative): သား}
+deseti: {expounds (3rd sg. present): ဟောတော်မူသည်}
+damma: {to be tamed (compound member): ဆုံးမထိုက်သော}
+anuttaro: {unexcelled (nominative): အတုမရှိသော}
+ekanta: {wholly, completely (compound member): စင်စစ် / လုံးဝ}
+sugato: {epithet of the Buddha, fortunately gone (nominative): ကောင်းသော လားရာသို့ ကြွတော်မူသော}
+pemanīyā: {affectionate, lovable speech (feminine sg.): ချစ်ခင်ဖွယ်ကောင်းသော}
+ārā: {far from (indeclinable): ဝေးကွာစွာ}
+nihita: {put down (participle): ချထားသော}
+attha: {meaning, sense, in atthapaṭisambhidā (compound member), here in atthamaññāya: အနက်; benefit, welfare, in atthajāpikā 'that brings about benefit' (compound member), here in atthavādī and atthasaṃhita: အကျိုး}
+palāpaṃ: {idle prattle (accusative): ပြိန်ဖျင်းသော စကား}
+anukampī: {sympathetic (compound end): စာနာသော}
+lajjī: {having moral shame (nominative): ရှက်တတ်သော}
+karaṇiṃ: {producing, making (feminine accusative): ညီညွတ်စေသော}
+visaṃvādako: {one who misleads (nominative): လှည့်ဖြားသော}
+pariyantavatiṃ: {having limits (feminine accusative): အပိုင်းအခြား ရှိသော}
+ārāmo: {delighting in, fond of, in saṅgaṇikārāmo (compound final): နှစ်သက်သော}
+vinaya: {code of training (compound member): ဝိနည်း}
+bhedāya: {for causing division (dative): ကွဲစေရန်}
+bhinnānaṃ: {of those split apart (genitive pl.): ကွဲပြားနေသော}
+pisuṇaṃ: {slanderous (accusative): ကုန်းတိုက်သော စကား}
+pāṭikaṅkhī: {awaiting (compound end): မျှော်လင့်သော}
+pabbajito: {one gone forth, a renunciant (nominative sg.): ရဟန်း}
+samagga: {concord (compound member): ညီညွတ်ခြင်း}
+pharusaṃ: {harsh, rough speech, in pharusaṃ vācaṃ (accusative sg.): ကြမ်းတမ်းသော စကား}
+athenena: {without stealing (instrumental): ခိုးဝှက်ခြင်း မရှိသော}
+methunā: {sexual union (ablative): မေထုန်}
+atipātaṃ: {striking down (accusative): သတ်ခြင်း}
+pāṇātipātaṃ: {destroying life (accusative): သူ့အသက်ကို သတ်ခြင်း}
+dayāpanno: {full of sympathy (nominative): သနားကြင်နာမှု ရှိသော}
+ājīva: {way of living (compound member): အသက်မွေးမှု}
+rato: {delighting in (participle): ပျော်ပိုက်သော}
+sucibhūtena: {by one who has become clean (instrumental): စင်ကြယ်သော}
+sāpadesaṃ: {with reasons given (accusative): အကြောင်း ပြချက်နှင့် တကွ ဖြစ်သော}
+nandī: {delight, enjoyment as craving (nominative sg. and compound member), also delighting in concord, in samagganandī (compound final): နှစ်သက်သော}
+paccayiko: {dependable (nominative): ယုံကြည်ထိုက်သော}
+akkhātā: {one who reports (agent noun): ပြောကြားသော}
+sandhātā: {one who reconciles (agent noun): ပြန်လည် စည်းလုံးစေသော}
+daṇḍo: {rod laid aside (nominative): တုတ်}
+ādānaṃ: {taking, in adinnādānaṃ 'taking what is not given' (compound final): ယူခြင်း}
+sikkhā: {training, the course of discipline (stem and nominative): သိက္ခာ}
+nidhānavatiṃ: {worth storing up (feminine accusative): မှတ်သားထိုက်သော}
+bhūta: {vegetation, plant life, in bhūtagāma (compound member): အပင်}
+theto: {reliable, firm (nominative): တည်ကြည်သော}
+sacca: {the truths, in saccānulomikañāṇa 'knowledge in conformity with the truths' (compound member): သစ္စာ; truth, what is true, as in idaṃsaccābhinivesa (compound member): အမှန်}
+abrahmacariyaṃ: {non-celibate conduct (accusative): မြင့်မြတ်သော အကျင့် မဟုတ်သည်}
+gāma: {settlement, group (compound member): ရွာသား}
+sattho: {knife, blade (nominative): လက်နက်}
+hita: {benefit, well-being, in hitesitā (compound member): အကျိုး}
+paṭiggahaṇā: {receiving (ablative): လက်ခံခြင်း}
+maṇḍana: {decorating oneself (compound member): အလှပြင်ခြင်း}
+vibhūsana: {embellishing (compound member): တန်ဆာဆင်ခြင်း}
+sayanā: {couches (ablative): အိပ်ရာ}
+bandhana: {tying up, imprisoning (compound member): နှောင်ဖွဲ့ခြင်း}
+ukkoṭana: {corrupt payment (compound member): တံစိုး ယူခြင်း}
+gamana: {going on errands (compound member): သွားခြင်း}
+kūṭa: {fraud, falsified (compound member): လိမ်ခြင်း}
+kukkuṭa: {fowl (compound member): ကြက်}
+sāci: {devious (compound member): ကောက်ကျစ်သော}
+samārambhā: {injuring (ablative): ဖျက်ဆီးခြင်း}
+nacca: {dance performance (compound member): ကခြင်း}
+yogā: {crooked means, devious practices, in sāciyogā and the errand-running list (compound final, ablative): နည်းလမ်း}
+vañcana: {cheating (compound member): လှည့်ဖြားခြင်း}
+bhojanā: {taking food (ablative): စားခြင်း}
+hatthi: {tuskers (compound member): ဆင်}
+dūteyya: {messenger work (compound member): တမန် လုပ်ခြင်း}
+dāsi: {slave woman (compound member): ကျွန်မ}
+khetta: {field, cultivated land, in khettavatthu (compound member): လယ်}
+kumārikā: {young unmarried women (compound member): မိန်းကလေး}
+aja: {she-goats or he-goats (compound member): ဆိတ်}
+viparāmosa: {waylaying (compound member): ခိုးဆိုးခြင်း}
+vadha: {slaying (compound member): သတ်ခြင်း}
+vatthu: {basis, ground, in ñāṇavatthu and kusītavatthu (compound final): အကြောင်း}
+mahā: {great, grand (compound member): မြတ်သော}
+dāsa: {bondsman (compound member): ကျွန်ယောက်ျား}
+vaḷava: {female horses (compound member): မြင်းမ}
+bhattiko: {one who eats a meal (compound end): စားသော}
+maṃsa: {flesh (compound member): အသား}
+pahiṇa: {sending (compound member): စေခိုင်းရာ}
+kaṃsa: {bronze (compound member): ကြေးခွက်}
+vādita: {instrumental music, played instruments (compound member): တီးမှုတ်}
+ratti: {night-time (compound member): ညစာ}
+vilepana: {unguents (compound member): နံ့သာပျောင်း}
+sūkara: {swine (compound member): ဝက်}
+ālopa: {pillage (compound member): လုယက်ခြင်း}
+āmaka: {raw flesh, uncooked meat (compound member): အစိမ်း}
+paṭiggahaṇā paṭivirato: {abstains from receiving (phrase): လက်ခံခြင်းမှ ရှောင်ကြဉ်သော}
+virato: {abstaining (participle): ကင်းဝေးသော}
+bīja: {plants that grow from a germ or grain (compound member): မျိုးစေ့}
+visūka: {public entertainments (compound member): ကုသိုလ်ကို ဆန့်ကျင်သော ပွဲသဘင်}
+rajata: {the white precious metal, coin (compound member): ငွေ}
+gīta: {song, singing (compound member): သီချင်း}
+sahasākārā: {acts of force (ablative): အနိုင်အထက် ပြုခြင်း}
+dassanā: {seeing, attending (ablative): ကြည့်ခြင်း}
+dhāraṇa: {putting on garlands (compound member): ဆောင်ခြင်း}
+tulā: {scales (compound member): ချိန်ခွင်}
+itthi: {femininity, in itthindriya (compound member): မိန်းမ}
+chedana: {cutting, maiming (compound member): ဖြတ်ခြင်း}
+vikāla: {improper time (compound member): အချိန်လွန်}
+piṇḍapātena: {food received on almsround (instrumental): ဆွမ်း}
+kucchi: {belly, stomach (nominative sg.): ဝမ်း}
+sakuṇo: {winged creature (nominative): ငှက်}
+anavajja: {faultless (compound member): အပြစ် မရှိသော}
+bhāro: {load (compound end): ဝန်}
+santuṭṭho: {satisfied (nominative): ရောင့်ရဲသော}
+paṭisaṃvedeti: {experiences, feels (3rd sg. present): ခံစားသည်}
+ḍeti: {takes wing (3rd sg. present): ပျံသည်}
+sukhaṃ: {pleasure, happiness, or pleasant (neuter sg.): သာယာမှု}
+ariyena: {belonging to the noble ones, qualifying the path (instrumental sg.): အရိယာ}
+ariyena sīlakkhandhena: {with the noble aggregate of virtue (instrumental phrase): အရိယာ သီလ အစုအဝေး}
+iminā ariyena samannāgato: {endowed with this noble (phrase): ဤအရိယာ … အပြည့်အဝ ပြည့်စုံသော}
+parihārikena: {maintaining (instrumental): စောင့်ရှောက်ရုံ}
+cīvarena: {monastic garments (instrumental): သင်္ကန်း}
+samādāya: {taking along, carrying with one, of the bowl and robe (absolutive): ယူဆောင်၍}
+ajjhattaṃ: {internally, within oneself, as in 'ajjhattaṃ arūpasaññī' and 'ajjhattaṃ sampasādanaṃ' (adverb): မိမိ၌}
+yena yeneva: {to whatever place (relative phrase): အရပ်တိုင်း}
+indriya: {sense faculty, in indriyabaddha 'bound to the faculties' (compound member), here the faculties as a category, in indriyapaññatti: စွမ်းရည်; the sense organs to be guarded, in indriyasaṃvara and indriyesu guttadvāro (compound member): အာရုံခံ အင်္ဂါ}
+abyāseka: {unmixed, unsullied (compound member): ကိလေသာ မရောနှောသော}
+sampajānakārī: {one who acts with clear comprehension (masculine sg.): ကောင်းစွာ ဆင်ခြင်သိမြင်လျက် ပြုလေ့ရှိသော}
+ālokite: {in looking ahead (locative): ရှေ့သို့ ကြည့်ရာ}
+abbhokāsaṃ: {the open air, an open space (accusative sg.): လွင်တီးခေါင်}
+attantapa: {self-tormentor (kept as Pāli): အတ္တန္တပ}
+samiñjite: {in bending the limbs (locative): ကွေးရာ}
+samiñjite pasārite: {flexing and extending (locative pair): ကွေးရာ … ဆန့်ရာ}
+tiṇṇa: {crossed over, overcome, in tiṇṇavicikiccho (compound member): ကူးမြောက်သော}
+khandhena: {a single aggregate as counted unit (instrumental or ablative sg.): အစုအဝေး}
+patta dhāraṇe: {bearing the alms vessel (locative pair): သပိတ် … ဆောင်ရာ}
+vūpasanta: {calmed, quieted, in vūpasantacitta (compound member): ကောင်းစွာ ငြိမ်သက်သော}
+dhāraṇe: {in carrying, bearing robe and bowl (locative): ဆောင်ရာ}
+guhaṃ: {a mountain cave (accusative sg.): ဂူ}
+susānaṃ: {a charnel ground, cremation ground (accusative sg.): သုသာန်}
+khāyite: {in chewing (locative): ခဲရာ}
+parisodheti: {purifies thoroughly, cleanses the mind (3rd sg. present): အကြွင်းမဲ့ သန့်စင်စေသည်}
+cittaṃ parisodheti: {'he thoroughly purifies the mind', from obstructive states (phrase): စိတ် … အကြွင်းမဲ့ သန့်စင်စေသည်}
+paṭikkante: {in going back, in the clear-comprehension list (locative): နောက်သို့ ဆုတ်ရာ}
+santuṭṭhiyā: {satisfaction (instrumental): ရောင့်ရဲမှု}
+pallaṅkaṃ: {the cross-legged sitting posture (accusative sg.): ထက်ဝယ်}
+uccāra: {defecating, excrement (compound member): ကျင်ကြီး}
+vicikicchaṃ: {doubt, sceptical wavering (accusative sg.): ယုံမှားမှု}
+pīte: {in drinking (locative): သောက်ရာ}
+middhaṃ: {torpor, drowsiness (nominative sg.): ငိုက်မျဉ်းမှု}
+thina: {sloth, sluggishness of mind (compound member): ထိုင်းမှိုင်းမှု}
+senāsanaṃ: {lodging, a monk's dwelling place (nominative/accusative sg.): အိပ်ရာ နေရာ}
+asite: {in eating, in the clear-comprehension list (locative): စားရာ}
+upaṭṭhapetvā: {having set up, establishing mindfulness in front (absolutive): ထင်စေ၍}
+ābhujitvā: {having folded the legs crosswise (absolutive): ဖွဲ့ခွေ၍}
+araññaṃ: {forest, wilderness away from villages (accusative sg.): တော}
+parimukhaṃ: {in front, before the face (adverb): ရှေ့မှောက်}
+abhikkante: {in going forward, in the clear-comprehension list (locative): ရှေ့သို့ တိုးရာ}
+padosaṃ: {hatred, corruption of mind, in byāpādapadosaṃ (accusative sg.): အလွန် ဒေါသထွက်ခြင်း}
+puñjaṃ: {a heap, in palālapuñjaṃ 'straw heap' (accusative sg.): ပုံ}
+giri: {mountain (compound member): တောင်ဂူ}
+byāpāda: {ill will, malice (compound member): ဖျက်ဆီးလိုစိတ်}
+bhāve: {state, in tuṇhībhāve (locative): ဆိတ်ဆိတ်နေရာ}
+āloka: {light, brightness, in ālokasaññā (compound member): အလင်း}
+vigatathinamiddho viharati: {dwells rid of sloth and torpor (phrase): ထိုင်းမှိုင်းမှုနှင့် ငိုက်မျဉ်းမှု ကင်းသော … နေသည်}
+abhijjhaṃ: {covetousness (accusative sg.): သူ့ဥစ္စာကို လိုချင်ခြင်း}
+bhattaṃ: {cooked food (accusative): ဆွမ်းစား}
+cetasā: {with the mind, mentally (instrumental): စိတ်}
+vūpasantacitto: {with a calmed mind (nominative sg.): ကောင်းစွာ ငြိမ်သက်ပြီးသော စိတ် ရှိသော}
+vigatābhijjhena cetasā: {with a mind free of covetousness (instrumental phrase): သူ့ဥစ္စာကို လိုချင်ခြင်း ကင်းသော စိတ်}
+pabbataṃ: {a mountain, a hill (accusative sg.): တောင်}
+saññī: {perceiving, having perception (masculine sg.): မှတ်သိသော}
+kandaraṃ: {a glen, a mountain ravine (accusative sg.): ချောက်}
+kukkuccaṃ: {remorse, worry (nominative sg.): နောင်တ ပူပန်မှု}
+saṃvarena: {guarding (instrumental): စောင့်စည်းမှု}
+paṭikkanto: {come back (participle): ပြန်လာသော}
+vivittaṃ: {secluded, solitary (neuter sg. adjective): ဆိတ်ငြိမ်သော}
+tuṇhī: {silently, in tuṇhībhāva (compound member): ဆိတ်ဆိတ်}
+nisīdati: {sits down (3rd sg. present): ထိုင်သည်}
+nisinne: {in sitting, in the clear-comprehension list (locative): ထိုင်ရာ}
+bhāsite: {in speaking, in the clear-comprehension list (locative): ပြောဆိုရာ}
+ṭhite: {in standing, in the clear-comprehension list (locative): ရပ်ရာ; steady, stable, of the concentrated mind, in ṭhite āneñjappatte (locative): တည်တံ့သော}
+palāla: {straw, in palālapuñja (compound member): ကောက်ရိုး}
+pasārite: {in stretching the limbs, in the clear-comprehension list (locative): ဆန့်ရာ}
+sāyite: {in tasting, in the clear-comprehension list (locative): လျက်ရာ}
+patthaṃ: {remote, in vanapatthaṃ 'remote jungle' (compound final): တောအုပ်ကြီး}
+kathaṃkathī: {perplexity (compound end): တွေးတောသော}
+ujuṃ: {upright, erect, of the body (adverb): ဖြောင့်မတ်စွာ}
+passāva: {urine, in uccārapassāva (compound member): ကျင်ငယ်}
+jāgarite: {in waking, in the clear-comprehension list (locative): နိုးရာ}
+gate: {in walking, in the clear-comprehension list (locative): သွားရာ; gone to a destiny, in sugate duggate (locative or accusative pl.): လားရာ ရှိသော}
+saṅghāṭi dhāraṇe: {bearing the outer cloak (locative pair): ဒုကုဋ် … ဆောင်ရာ}
+cīvaradhāraṇe: {bearing the monastic garments (locative compound): သင်္ကန်းကို ဆောင်ရာ}
+jhānaṃ: {meditative absorption (nominative/accusative sg.): ဈာန်}
+kappe: {aeons, world-cycles (accusative pl.): ကမ္ဘာ}
+vaṇṇo: {appearance, complexion (nominative sg.): အဆင်း}
+udapādiṃ: {I arose, was reborn (1st sg. aorist): ဖြစ်ပေါ်ခဲ့သည်}
+virāgā: {through the fading away, dispassion (ablative): ပြယ်ပျောက်သွားခြင်း}
+jātiṃ: {a birth, one life, in 'ekampi jātiṃ' of the recollection of past lives (accusative sg.): ဘဝ}
+jātiyo: {births (accusative pl.): ဘဝ}
+jaṃ: {produced from (compound end): ဖြစ်ပေါ်သော}
+gotto: {clan, lineage (nominative sg.): အနွယ်}
+pariyodāte: {made bright (locative): ဖြူစင်သော}
+samāhite: {collected (locative): တည်ကြည်သော}
+sampasādanaṃ: {inner clarity, serene confidence (neuter sg.): ကြည်လင်မှု}
+saṃvaṭṭa: {world-contraction, the dissolving of the cosmos (compound member): ပျက်ခြင်း}
+ācikkhanti: {they declare, the noble ones proclaim (3rd pl. present): ပြောကြားသည်}
+upakkilese: {the corruptions, things that defile the mind (accusative pl.): အညစ်အကြေး}
+pīti: {rapture, joyful interest (nominative sg.): ပီတိ}
+abhininnāmeti: {inclines (3rd sg. present): ညွတ်စေသည်}
+atthaṅgamā: {through the disappearance, passing away (ablative): ချုပ်ငြိမ်းသွားခြင်း}
+amutra: {there, in such a place (adverb): အခြားဘဝ}
+vicāraṃ: {sustained examination of the object (accusative sg.): ဆက်လက်သုံးသပ်မှု}
+vivaṭṭa: {world-expansion, unfolding of the cosmos (compound member): တည်ခြင်း}
+paññāsaṃ: {the number 50 (cardinal): ငါးဆယ်}
+cattālīsaṃ: {the number 40 (cardinal): လေးဆယ်}
+pahānā: {through abandoning, giving up (ablative): ပယ်ခြင်း}
+nīvaraṇe: {the hindrances, obstacles of the mind (accusative pl.): အတားအဆီး}
+sataṃ: {a hundred (numeral): တစ်ရာ}
+somanassa: {joy, mental pleasure (compound member): ဝမ်းမြောက်မှု}
+ñāṇāya: {for understanding (dative): ဉာဏ်}
+āyu: {life span, vital duration (nominative sg.): သက်တမ်း}
+vihārī: {dwelling (compound end): နေသော}
+cetaso: {of the mind (genitive sg.): စိတ်}
+samāhite citte: {when the mind is collected (locative absolute): စိတ်သည် တည်ကြည်သော}
+satimā: {mindful, possessing mindfulness (masculine sg.): သတိ ရှိသော}
+ariyā: {the noble ones, the awakened (nominative pl.): အရိယာ}
+uddesaṃ: {details, specifications (accusative): ညွှန်ပြချက်}
+pubbenivāsa: {former abodes (compound member): ရှေးဘဝ}
+sukhassa: {of pleasure, happiness (genitive sg.): သာယာမှု}
+kāmehi: {from sensual pleasures, in the first-jhāna formula (instrumental): ကာမ}
+mudubhūte: {become soft (locative): နူးညံ့သော}
+parisuddhe: {pure (locative): စင်ကြယ်သော}
+pārisuddhiṃ: {purity, complete purification (accusative sg.): စင်ကြယ်သော}
+upapanno: {possessed of, provided with (nominative sg. participle): ပြည့်စုံသော; reborn, reappeared in a new existence (nominative sg. participle): ဖြစ်ပေါ်လာသော}
+anussarati: {recollects, recalls (3rd sg. present): အဖန်ဖန် အောက်မေ့သည်}
+domanassānaṃ: {of sadness, mental displeasure (genitive pl.): စိတ်ဆင်းရဲမှု}
+vivicca: {having separated from, secluded (absolutive): ကင်းဆိတ်၍}
+viveka: {seclusion, detachment (compound member): ကင်းဆိတ်ခြင်း}
+vūpasamā: {through the stilling, subsiding (ablative): ငြိမ်းသွားခြင်း}
+dasa: {the number ten (numeral): ဆယ်}
+vitakkaṃ: {initial application of mind to the object (accusative sg.): စတင်ကြံစည်မှု}
+tiṃsaṃ: {the number 30 (cardinal): သုံးဆယ်}
+sahassaṃ: {the number one thousand (numeral): တစ်ထောင်}
+vīsaṃ: {the number 20 (cardinal): နှစ်ဆယ်}
+anaṅgaṇe: {without blemish (locative): အမည်းအစက် မရှိသော}
+ekodibhāvaṃ: {unification, singleness of mind (accusative sg.): စုစည်း တည်ငြိမ်စေသော}
+āneñja: {imperturbable (compound member): မတုန်လှုပ်ခြင်း}
+akusalehi: {from unwholesome (instrumental, pl.): အကုသိုလ်}
+akusalehi dhammehi: {from unwholesome phenomena, in the first-jhāna formula (instrumental, pl.): အကုသိုလ် သဘောတရား}
+dubbalīkaraṇe: {that weaken wisdom, said of the hindrances (accusative pl.): အားနည်းစေတတ်သော}
+kammaniye: {fit for work (locative): အသုံးပြုရန် သင့်တော်သော}
+cuti: {passing away, death, in cutūpapātañāṇa (compound member): သေခြင်း}
+duggate: {unfortunate, in a bad destination (accusative pl.): ဆိုးသော လားရာ ရှိသော}
+suvaṇṇe: {beautiful, of fair complexion (accusative pl.): အဆင်း လှသော}
+sattānaṃ: {of living beings (genitive pl.): သတ္တဝါ}
+atikkanta: {surpassing, gone beyond, in atikkantamānusaka (compound member): ကျော်လွန်သော}
+caritena: {behaviour (instrumental): ဒုစရိုက်}
+dibbena: {divine, with the divine eye (instrumental): နတ်}
+samannāgatā: {endowed with, possessed of (nominative pl. participle): ပြည့်စုံသော}
+upage: {going according to (accusative pl.): ရောက်သွားသော}
+mānusakena: {human, in 'surpassing the human' (instrumental): လူ၏ မျက်စိ}
+hīne: {inferior, low (accusative pl.): ယုတ်ညံ့သော}
+citte: {in the mind, as the field of contemplation (locative): စိတ်}
+ariyānaṃ: {of the noble ones (genitive pl.): အရိယာ}
+upapāta: {reappearance (compound member): ဖြစ်ပေါ်ခြင်း}
+upapajjamāne: {reappearing (participle): ဖြစ်ပေါ်ဆဲ}
+upavādakā: {revilers, those who abuse (nominative pl.): စွပ်စွဲ ပြောဆိုသော}
+samādānā: {undertaking, taking up, in micchādiṭṭhikammasamādānā (compound final): ဆောက်တည်သော}
+dubbaṇṇe: {ugly, of poor complexion (accusative pl.): အဆင်း ဆိုးသော}
+jāti: {birth, being born (nominative sg.): မွေးဖွားခြင်း}
+khaya: {destruction, wearing away (compound member): ကုန်ခန်း}
+bhava: {becoming, existence (compound member): ဘဝ}
+jānato: {for one who knows (genitive participle): သိသော}
+vimuccati: {is released (3rd sg. passive): လွတ်မြောက်သည်}
+vusitaṃ: {fulfilled, lived out (participle): ကျင့်ပြီးသော}
+nāparaṃ: {no more beyond this (adverb): နောက်ထပ်}
+māno: {conceit, measuring oneself against others (nominative sg.): မာန}
+samathassa: {of tranquillity (genitive): စိတ်ငြိမ်သက်ခြင်း}
+cetosamathassa: {of tranquillity of the heart (genitive): စိတ်ငြိမ်သက်ခြင်း}
+phalassa: {of the fruition of the path (genitive): ဖိုလ်}
+adhipaññā: {superior understanding (compound member): လွန်ကဲသော ပညာ}
+vipassanāya: {clear seeing (genitive): ထိုးထွင်းသိမြင်ခြင်း}
+dhammavipassanāya: {clear seeing into phenomena (genitive): သဘောတရားတို့ကို ထိုးထွင်းသိမြင်ခြင်း}
+maggassa: {of the way (genitive): မဂ်}
+puggalo lābhī vipassanāya: {a person who has obtained clear seeing (phrase): ပုဂ္ဂိုလ် … ရရှိသော … ထိုးထွင်းသိမြင်ခြင်း}
+adhipaññādhamma: {phenomena seen by superior understanding (compound): လွန်ကဲသော ပညာဖြင့် သဘောတရား}
+lokuttara: {supramundane, beyond the world (heading and compound member): လောကကို ကျော်လွန်သော}
+lokuttaramaggassa: {of the supramundane path (genitive): လောကကို ကျော်လွန်သော မဂ်}
+pāpaṃ: {evil deeds (accusative): ယုတ်မာသော}
+tiṇṇo: {crossed over (nominative sg. participle): ကူးမြောက်သော}
+thale: {on firm ground (locative): ကုန်းပေါ်}
+mukhena: {with countenance (instrumental): မျက်ရည် စီးသော}
+paṭisevati: {indulges in, pursues (3rd sg. present): မှီဝဲသည်}
+dukkhena: {bodily pain, in the grief series (instrumental sg.), also in sahāpi dukkhena sahāpi domanassena: နာကျင်မှု}
+puggalo paṭisevati: {a person indulges in (phrase): ပုဂ္ဂိုလ် … မှီဝဲသည်}
+kāme: {objects of sense desire (accusative pl.): ကာမ}
+domanassena: {mental displeasure, in the grief series (instrumental sg.): စိတ်ဆင်းရဲမှု}
+pāraṅgato: {reached the far side (participle): ကမ်းတစ်ဖက်သို့ ရောက်သော}
+sota: {the ear, the hearing organ (stem and compound member): နား; the current, the stream, in anusotagāmī and paṭisotagāmī (compound member): ရေစီး}
+rudamāno: {crying (participle): ငိုကြွေးသော}
+sutena upapanno: {possessed of learning (phrase): အကြားအမြင်နှင့် ပြည့်စုံသော}
+aññāya: {having understood (absolutive): သိ၍}
+suto: {learning, what has been heard and studied, in appassuto and bahussuto (compound final): အကြားအမြင်}
+sutena: {by learning, what one has heard and studied (instrumental): အကြားအမြင်}
+puggalassa sutaṃ: {what a person has heard (phrase): ပုဂ္ဂိုလ် … အကြားအမြင်}
+samaṇesu: {among recluses (locative pl.): ရဟန်း}
+sakid: {a single time (adverb in compound): တစ်ကြိမ်}
+padumo: {red water-lily (nominative): ကြာနီ}
+sukhumālo: {delicate (nominative): နူးညံ့သိမ်မွေ့သော}
+acalo: {immovable (nominative): မတုန်လှုပ်သော}
+puṇḍarīko: {white water-lily (nominative): ကြာဖြူ}
+ovadiyamānā: {being exhorted (participle): ဆုံးမခံရသော}
+uppannā: {come into being, arisen (feminine or pl. participle): ဖြစ်ပေါ်ပြီးသော}
+jā: {produced from (compound end): ဖြစ်သော}
+vippaṭisārajā: {produced by regret (compound): နောင်တ ရခြင်းမှ ဖြစ်သော}
+ārambhajā: {produced by transgression (compound): မှားယွင်းစွာ ပြုမူခြင်းမှ ဖြစ်သော}
+nirujjhanti: {cease, come to an end (3rd pl. present): ချုပ်ငြိမ်းသည်}
+khayaṃ: {destruction, exhaustion (accusative sg.): ကုန်ခန်းခြင်း}
+bhāvetu: {may he cultivate (imperative): ပွားများသည်}
+paṭivinodetvā: {having driven out (absolutive): ဖယ်ရှားပြီး}
+samasamo: {exactly alike (nominative): တန်းတူ ဖြစ်သော}
+pañcamena: {the ordinal 5th (instrumental): ပဉ္စမ}
+saṃvijjanti: {exist, are present (3rd pl. passive): ရှိသည်}
+pavaḍḍhanti: {increase (3rd pl. present): ပို၍ ပို၍ တိုးပွားသည်}
+anusāsiyamānā: {being taught (participle): သွန်သင်ခံရသော}
+cittaṃ paññaṃ: {heart and understanding (pair): စိတ် … ပညာ}
+pāpuṇanti: {arrive at (3rd pl. present): ရောက်သည်}
+parisesā: {what is left (ablative): အကြွင်းအကျန် ရှိသော}
+vippaṭisārī: {regretful (nominative): နောင်တ ရသော}
+ārambhajā āsavā: {cankers produced by transgression (phrase): မှားယွင်းစွာ ပြုမူခြင်းမှ ဖြစ်သော … စိတ်အစွန်းအထင်း}
+āyasmato: {of the respected one (genitive): အသျှင်}
+ārabhati: {transgresses, commits an offence (3rd sg. present): မှားယွင်းစွာ ပြုမူသည်}
+ārambha: {transgression (compound member): မှားယွင်းစွာ ပြုမူခြင်း}
+pemo: {fondness (compound end): ချစ်ခင်မှု ရှိသော}
+adhimuccitā: {one who is resolved on, credulous (agent noun): ယုံကြည်လိုက်သူ}
+ādheyyamukho: {credulous, quick to accept (compound): ကြားကာစကို ယုံလွယ်သူ}
+momūho: {deluded (nominative): အလွန် တွေဝေသော}
+avaṇṇe: {in dispraise (locative): ကဲ့ရဲ့}
+bhattī: {loyalty (compound end): ကိုးကွယ်ခြင်း ရှိသော}
+mando: {slow-witted (nominative): ထုံထိုင်းသော}
+parassa: {of another (genitive): သူတစ်ပါး}
+saddho: {confident, believing (nominative): ယုံကြည်မှု ရှိသော}
+lolo: {unsteady (nominative): စိတ် မတည်ငြိမ်သူ}
+deti: {hands over (3rd sg. present): ပေးသည်}
+hīna: {low (compound member): ယုတ်ညံ့သော}
+jānāti: {knows, understands (3rd sg. present): သိသည်}
+saṃvasati: {dwells together with (3rd sg. present): အတူ နေသည်}
+saṃvāsena: {by cohabiting (instrumental): အတူ နေခြင်း}
+avajānāti: {despises (3rd sg. present): အထင်သေးသည်}
+puggalo mando: {a slow-witted person (phrase): ပုဂ္ဂိုလ် … ထုံထိုင်းသော}
+puggalo lolo: {an unsteady person (phrase): ပုဂ္ဂိုလ် … စိတ် မတည်ငြိမ်သူ}
+puggalo datvā: {a person, having handed over (phrase): ပုဂ္ဂိုလ် … ပေးပြီးနောက်}
+puggalo deti: {a person hands over (phrase): ပုဂ္ဂိုလ် … ပေးသည်}
+puggalo deti cīvara: {a person hands over robes (phrase): ပုဂ္ဂိုလ် … သင်္ကန်း … ပေးသည်}
+puggalo saṃvasati: {a person dwells with (phrase): ပုဂ္ဂိုလ် … အတူ နေသည်}
+vaṇṇe: {in praise (locative): ချီးမွမ်း}
+ittara: {brief, fleeting (compound member): ခဏတာသာ}
+evaṃ hoti: {it occurs to him thus (idiom): ဤသို့ … ဖြစ်သည်}
+Puna: {furthermore (adverb): တစ်ဖန်}
+dhaja: {flags, standards (compound member): အလံ}
+saṅgāmaṃ: {war, fighting (accusative): စစ်ပွဲ}
+ussāraṇaṃ: {war-shout (accusative): ကြွေးကြော်သံ}
+sahati: {endures (3rd sg. present): သည်းခံနိုင်သည်}
+sahati ussāraṇaṃ: {endures the war-shout (phrase): ကြွေးကြော်သံကို သည်းခံနိုင်သည်}
+sahati sampahāraṃ: {endures the fighting (phrase): ထိပ်တိုက် တိုက်ခိုက်ခြင်းကို သည်းခံနိုင်သည်}
+sahati rajaggaṃ: {endures the dust cloud (phrase): ဖုန်လုံးကို သည်းခံနိုင်သည်}
+sahati dhajaggaṃ: {endures the banner tips (phrase): အလံဖျားကို သည်းခံနိုင်သည်}
+sampahāre: {combat (locative): ထိပ်တိုက် တိုက်ခိုက်ခြင်း}
+aggaṃ: {tip or top, of a dust cloud or a banner (compound end): ဖျား}
+rajaggaṃ: {rising dust of an army (accusative): ဖုန်လုံး}
+visīdati: {sinks down, wavers (3rd sg. present): အားလျော့သည်}
+pañcamo: {the fifth, of a liberation (masculine numeral): ပဉ္စမ}
+saṃvijjamāno: {existing, to be met with (participle): ထင်ရှား ရှိသော}
+sīsaṃ: {head, vanguard (accusative): ရှေ့တန်း}
+saṃsīdati: {sinks down in spirit (3rd sg. present): စိတ်ဓာတ် ကျဆင်းသည်}
+ajjhāvasati: {occupies (3rd sg. present): အုပ်စိုး နေသည်}
+santhambhati: {holds steady (3rd sg. present): ခိုင်ခိုင်မာမာ ရပ်တည်နိုင်သည်}
+haññati: {is killed or hit (3rd sg. passive): အသတ်ခံရသည်}
+vijitasaṅgāmo: {having won the battle (compound): စစ်ပွဲကို အောင်ပြီးသော}
+yodhājīvo: {one who lives by fighting (nominative): စစ်သည်}
+yodhājīvo sahati: {a soldier endures (phrase): စစ်သည် … သည်းခံနိုင်သည်}
+yodhājīva: {soldiers by profession (stem): စစ်သည်}
+abhivijinitvā: {having conquered (absolutive): အောင်နိုင်၍}
+abhirūpā: {fair of form (feminine nominative): အဆင်းလှသော}
+āvikatvā: {having disclosed (absolutive): ထုတ်ဖော်၍}
+dubbalyaṃ āvikatvā: {having disclosed feebleness (phrase): အားနည်းချက်ကို ထုတ်ဖော်၍}
+kumārī: {young maiden (nominative): အပျို}
+pāsādikā: {pleasing (feminine nominative): ကြည်ညိုဖွယ် ကောင်းသော}
+sandhāretuṃ: {to sustain (infinitive): ဆက်လက် ထိန်းသိမ်းနိုင်}
+dassanīyā: {pleasing to see (feminine nominative): ရှုချင်ဖွယ် ကောင်းသော}
+hīnāya: {to the low state, lay life (dative): လူဘောင်}
+āvattati: {turns back (3rd sg. present): ပြန်လည်သည်}
+asukasmiṃ: {in a certain (locative): ဤမည်သော}
+nigame: {market settlement (locative): နိဂုံး}
+sikkhaṃ āvattati: {turns back from the training (phrase): သိက္ခာကို … ပြန်လည်သည်}
+gāme: {in a hamlet (locative): ရွာ}
+dubbalyaṃ: {feebleness (accusative): အားနည်းချက်}
+itthī: {a woman (nominative sg.): မိန်းမ}
+bhikkhu sahati: {a monk endures (phrase): ရဟန်း … သည်းခံနိုင်သည်}
+ullapati: {talks flirtatiously (3rd sg. present): စကား ပြောဆို ချော့မော့သည်}
+ullapiyamāno: {being talked to flirtatiously (participle): စကား ပြောဆို ချော့မော့ခြင်း}
+upasaṅkamitvā: {having approached (absolutive): ချဉ်းကပ်၍}
+āgāra: {house, hut, in suññāgāra 'empty hut' (compound member): အိမ်}
+suñña: {vacant (compound member): ဆိတ်ငြိမ်ရာ}
+arañña: {forest, wilderness (compound member): တော}
+ujjagghiyamāno: {being mocked with laughter (participle): ကျယ်လောင်စွာ ရယ်မောခြင်း}
+ujjagghati: {mocks with laughter (3rd sg. present): ကျယ်လောင်စွာ ရယ်မောသည်}
+ūhasiyamāno: {being grinned at (participle): ပြုံးရယ်ခြင်း}
+ūhasati: {grins (3rd sg. present): ပြုံးရယ်သည်}
+uppaṇḍiyamāno: {being mocked (participle): ကျီစယ် ပြက်ရယ်ပြုခြင်း}
+uppaṇḍeti: {mocks (3rd sg. present): ကျီစယ် ပြက်ရယ်ပြုသည်}
+mātugāmo: {womankind, a female (nominative): အမျိုးသမီး}
+catuttho puggalo: {the person ranked 4th (phrase): စတုတ္ထ … ပုဂ္ဂိုလ်}
+paccakkhāya: {having renounced (absolutive): စွန့်၍}
+methunaṃ: {sexual union (accusative): မေထုန်}
+abhinipajjati: {lies down beside (3rd sg. present): အနီး၌ လှဲလျောင်းသည်}
+abhinisīdati: {sits down beside (3rd sg. present): အနီး၌ ထိုင်သည်}
+ajjhottharati: {overpowers, flings herself on (3rd sg. present): ဖိ၍ အုပ်မိုးသည်}
+sikkhaṃ: {the training (accusative sg.): သိက္ခာ}
+sampahāraṃ: {combat (accusative): ထိပ်တိုက် တိုက်ခိုက်ခြင်း}
+viniveṭhetvā: {having untangled (absolutive): ရုန်းထွက်၍}
+vinimocetvā: {having released (absolutive): လွတ်မြောက်အောင် ပြုပြီး}
+satiṃ: {mindfulness, as a path factor (accusative sg.): သတိ}
+dukkhaṃ: {suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.): ဒုက္ခ}
+vijayasmiṃ: {in winning (locative): အောင်နိုင်ခြင်း}
+kāmaṃ: {as desired (adverbial): အလိုရှိရာ}
+piṇḍa: {almsfood lump (compound member): ဆွမ်း}
+piṇḍapātikā: {almsround-eaters (nominative pl.): ဆွမ်းခံ၍သာ စားသူ}
+eva piṇḍapātiko: {almsround-eater only for this reason (phrase): ဆွမ်းခံ၍သာ စားသူ}
+sallekhaṃ: {austerity, effacement (accusative): ခြိုးခြံခြင်း}
+seṭṭho: {supreme (nominative): အကောင်းဆုံး}
+buddhehi: {by the Awakened Ones (instrumental pl.): ဘုရားရှင်}
+navanītaṃ: {fresh butter (nominative sg.): ထောပတ်}
+momūhattā: {from delusion (ablative): အလွန် တွေဝေခြင်း}
+santuṭṭhiṃ: {satisfaction (accusative): ရောင့်ရဲမှု}
+gavā: {from a bovine (ablative): နွား}
+maṇḍo: {top of ghee, best part (nominative): အနှစ်}
+dadhi: {curd, sour milk (nominative sg.): နို့ချဉ်}
+icchā: {wish, desire (nominative sg.): အလိုဆန္ဒ}
+sāvakehi: {by the disciples (instrumental pl.): တပည့်}
+vikkhepā: {from distraction (ablative): ပျံ့လွင့်ခြင်း}
+pakato: {overcome, driven, in icchāpakato (compound final): နှိပ်စက်ခံရသော}
+mandattā: {from stupidity (ablative): ထုံထိုင်းခြင်း}
+appa: {little (compound member): နည်းခြင်း}
+pavaro: {most excellent (nominative): အမွန်မြတ်ဆုံး}
+aggo: {foremost, chief (nominative sg.): အမြတ်ဆုံး}
+uttamo: {supreme (nominative): အထွတ်အထိပ်}
+ummādā: {from derangement (ablative): ရူးသွပ်ခြင်း}
+citta: {mind, consciousness (stem and compound member): စိတ်}
+vaṇṇitaṃ: {extolled (participle): ချီးမွမ်းထားသော}
+nissāya: {depending on, relying on (absolutive): မှီ၍}
+santuṭṭhiṃ nissāya: {on account of satisfaction (phrase): ရောင့်ရဲမှုကိုသာ မှီ၍}
+sallekhaṃ nissāya: {on account of effacement (phrase): ခြိုးခြံခြင်းကိုသာ မှီ၍}
+iccho: {wanting (compound end): အလိုရှိသော}
+abbhokāsikā: {open-air dwellers (nominative pl.): လွင်တီးခေါင်၌ နေသူ}
+bhattikā: {eaters of food, as in later-food refusers (compound end): နောက်မှ ကပ်သော ဆွမ်းကို မစားသူ}
+mūlikā: {tree-root dwellers (compound end): ရင်း၌ နေသူ}
+āraññikā: {wilderness dwellers (nominative pl.): တော၌ နေသူ}
+nesajjikā: {sitters who never recline (nominative pl.): မလျောင်းဘဲ ထိုင်၍သာ နေသူ}
+santhatikā: {users of any assigned seat (compound end): ခင်းထားသည့်အတိုင်း နေရာ၌ နေသူ}
+paṃsukūlikā: {wearers of dust-heap robes (nominative pl.): ပံ့သကူ သင်္ကန်းကိုသာ ဝတ်သူ}
+cīvarikā: {wearers of the three robes (compound end): သင်္ကန်း … ဆောင်သူ}
+āsanikā: {one-session eaters (compound end): တစ်ထိုင်တည်းသာ စားသူ}
+yathā: {in accordance with, in yathādiṭṭhissa 'of one whose effort accords with his view' (compound member), also 'as it comes', in yathāsanthatika: အတိုင်း}
+sosānikā: {cemetery dwellers (nominative pl.): သုသာန်၌ နေသူ}
+eva sosāniko: {cemetery dweller only for this reason (phrase): သုသာန်၌ နေသူ}
+sosāniko: {cemetery dweller (nominative sg.): သုသာန်၌ နေသူ}
+arahantā: {the fully liberated ones (nominative pl.): ရဟန္တာ}
+āgantā: {one who will come back (agent noun): ပြန်လာမည့်}
+sāvaka: {hearer, pupil (compound member): တပည့်}
+dukkhassanta: {the termination of dukkha (compound): ဒုက္ခ၏ အဆုံး}
+karo: {maker (compound end): ပြုသော}
+pāramiṃ: {completion, the far point (accusative): ပါရမီ}
+daṭṭhabbo: {is to be regarded (gerundive): သိမှတ်ရမည့်}
+patarati: {crosses by swimming (3rd sg. present): ကူးခတ်သည်}
+kāḷakehi: {dark (instrumental pl.): မည်းနက်သော}
+ummujjati: {emerges (3rd sg. present): ပေါ်လာသည်}
+hirī: {moral shame (nominative sg.): ဒုစရိုက်ကို ရှက်မှု}
+hirī kusalesu: {moral shame in good states (phrase): ကုသိုလ် … ဒုစရိုက်ကို ရှက်မှု}
+hāyati: {decreases (3rd sg. present): ယုတ်လျော့သည်}
+hāyati no vaḍḍhati: {decreases and does not increase (phrase): ယုတ်လျော့သည် … တိုးပွားသည်}
+vīriyaṃ kusalesu: {effort in good states (phrase): ကုသိုလ် … ဝီရိယ}
+saddhā kusalesu: {confidence in good states (phrase): ကုသိုလ် … ယုံကြည်မှု}
+ottappaṃ: {moral dread (nominative sg.): ဒုစရိုက်ကို ကြောက်ရွံ့မှု}
+ottappaṃ kusalesu: {moral dread in good states (phrase): ကုသိုလ် … ဒုစရိုက်ကို ကြောက်ရွံ့မှု}
+patigādha: {firm ground for the feet (compound member): ခြေကုပ်ရာ}
+vaḍḍhati: {increases (3rd sg. present): တိုးပွားသည်}
+viloketi: {looks around, looks aside (3rd sg. present): ပတ်ဝန်းကျင်ကို ကြည့်သည်}
+puggalo samannāgato: {a person endowed with (phrase): ပုဂ္ဂိုလ် … အပြည့်အဝ ပြည့်စုံသော}
+puggalo nimuggo: {a submerged person (phrase): ပုဂ္ဂိုလ် … နစ်နေသော}
+ṭhānesu: {places, in the editorial note 'evaṃ tīsu ṭhānesupi' 'likewise in the three places' (locative pl.): နေရာ}
+nimuggo: {submerged (participle): နစ်နေသော}
+tiṭṭhati: {stands upright, on dry land (3rd sg. present), the paired value also covering remaining static: ရပ်တည်နေသည်}
+sāhu dhammesu: {it is good in states, variant reading (phrase): သဘောတရား … ကောင်းသော}
+tiṭṭhati no vaḍḍhati: {remains and does not increase (phrase): တည်တံ့သည် … တိုးပွားသည်}
+tassa: {of him, his (genitive pronoun): ထိုသူ}
+paññā kusalesu: {understanding in good states (phrase): ကုသိုလ် … ပညာ}
+parinibbāyissa: {of one attaining final extinction (genitive): ပရိနိဗ္ဗာန် ပြုသော}
+niṭṭhitaṃ: {completed, finished (neuter sg. participle): ပြီးဆုံးသော}
+Ettāvatā: {by this much, to this extent (adverb): ဤမျှ}
+niṭṭhā: {conclusion, aim (compound member): ပြီးမြောက်ခြင်း}
+gāmino: {going to (compound end): ရောက်သော}
+vihāya: {having left behind (absolutive): စွန့်ခွာပြီးမှ}
+sakadāgāmissa: {of the one who comes back once (genitive): သကဒါဂါမ်}
+bījissa: {of the one with a single germ of rebirth, in ekabījī (genitive): မျိုးစေ့ … ရှိသော}
+pakaraṇaṃ: {the book, treatise (nominative sg.): ကျမ်း}
+uddhaṃsotassa: {of one whose stream goes upward (genitive): အထက်သို့ စီးဆင်း၍}
+Mātikā: {the matrix, the book's list of topics (heading): ခေါင်းစဉ်စာရင်း}
+khandha: {aggregate, group of phenomena, in khandhadhātuāyatanā (compound member): အစုအဝေး}
+āyatana: {sense bases, the sense fields (compound member): အာရုံခံ နယ်ပယ်}
+paññattiyo: {designations (nominative pl.): သတ်မှတ်ချက်}
+dhātu: {element, irreducible constituent (stem and compound final): ဓာတ်}
+khandho: {aggregate, group of phenomena (nominative sg.): အစုအဝေး}
+khandhānaṃ: {of the aggregates, groups of phenomena (genitive pl.): အစုအဝေး}
+Kittāvatā khandhānaṃ: {how far the designation of the aggregates extends (question phrase): အစုအဝေး … အဘယ်မျှ}
+ettāvatā khandhānaṃ: {so far the designation of the aggregates extends (answer phrase): ဤမျှသည် အစုအဝေး}
+viññāṇa: {consciousness (stem and compound member): သိစိတ်}
+Kittāvatā: {how far, to what extent (interrogative adverb): အဘယ်မျှ}
+Yāvatā: {as far as (relative adverb): ရှိသမျှ}
+vedanā: {feeling, the affective tone of experience (nominative sg.): ခံစားမှု}
+saññā: {perception, recognition (nominative sg.): မှတ်သိမှု}
+āyatanānaṃ: {of the sense bases, the sense fields (genitive pl.): အာရုံခံ နယ်ပယ်}
+Kittāvatā āyatanānaṃ: {how far the sense-sphere designation extends (question phrase): အာရုံခံ နယ်ပယ် … အဘယ်မျှ}
+ettāvatā āyatanānaṃ: {so far the sense-sphere designation extends (answer phrase): ဤမျှသည် အာရုံခံ နယ်ပယ်}
+mana: {mind, as stem in manindriya and similar compounds: မနော}
+manāyatanaṃ: {the mind sense base (nominative sg.): မနော အာရုံခံ နယ်ပယ်}
+ghāna: {the nose, the smelling organ (stem and compound member): နှာခေါင်း}
+sadda: {sound as object (compound member): အသံ}
+rasa: {taste, flavour as object (compound member): အရသာ}
+jivhā: {the tongue, the tasting organ (stem and nominative): လျှာ}
+phoṭṭhabba: {tangible object, what is touched (compound member): အထိအတွေ့}
+dvādasa: {the number twelve (numeral): ဆယ့်နှစ်ပါး}
+kāyaviññāṇa: {consciousness through the body, body-consciousness (compound member): ကိုယ် သိစိတ်}
+sotaviññāṇa: {ear-consciousness, hearing consciousness (compound member): နား သိစိတ်}
+aṭṭhārasa: {the number eighteen (numeral): ဆယ့်ရှစ်ပါး}
+dhātūnaṃ: {of the elements, irreducible constituents, in skill in attention (genitive pl.): ဓာတ်}
+Kittāvatā dhātūnaṃ: {how far the element designation extends (question phrase): ဓာတ် … အဘယ်မျှ}
+ettāvatā dhātūnaṃ: {so far the element designation extends (answer phrase): ဤမျှသည် ဓာတ်}
+cakkhuviññāṇa: {consciousness through the eye, eye-consciousness (compound member): မျက်စိ သိစိတ်}
+manodhātu: {the mind element (heading and nominative): မနော ဓာတ်}
+manoviññāṇa: {consciousness at the mind door (compound member): မနော သိစိတ်}
+ghānaviññāṇa: {nose-consciousness, smelling consciousness (compound member): နှာခေါင်း သိစိတ်}
+jivhāviññāṇa: {tongue-consciousness, tasting consciousness (compound member): လျှာ သိစိတ်}
+samudaya: {origin, arising of suffering, the second truth (compound member): ဖြစ်ပေါ်ခြင်း}
+saccaṃ: {truth, a noble truth (accusative sg.): သစ္စာ}
+saccānaṃ: {of the truths (genitive pl.): သစ္စာ}
+Kittāvatā saccānaṃ: {how far the truth designation extends (question phrase): သစ္စာ … အဘယ်မျှ}
+ettāvatā saccānaṃ: {so far the truth designation extends (answer phrase): ဤမျှသည် သစ္စာ}
+upekkhā: {equanimity, neutral feeling (nominative and stem): ဥပေက္ခာ}
+ñassāmi: {"I shall know", in the faculty anaññātaññassāmītindriya: သိရတော့သည်}
+aññā: {final knowledge, the knowing of one on the higher paths (compound member): အပြည့်အဝ သိမြင်ခြင်း}
+aññāta: {known, in anaññātaññassāmi (compound member): သိရသော}
+domanassa: {sadness, mental displeasure (compound member): စိတ်ဆင်းရဲမှု}
+bāvīsati: {the number 22, counting the faculties: နှစ်ဆယ့်နှစ်ပါး}
+Kittāvatā puggalānaṃ: {how far the designation of persons extends (question phrase): ပုဂ္ဂိုလ် … အဘယ်မျှ}
+Ekakaṃ: {the classification by ones, the single items (heading): တစ်မျိုးတွဲ}
+Dukaṃ: {the classification by twos (heading): နှစ်မျိုးတွဲ}
+citto puggalo: {a person with such a mind (compound end phrase): စိတ် ရှိသော ပုဂ္ဂိုလ်}
+pañño puggalo: {a person with such understanding (compound end phrase): ပညာ ရှိသော ပုဂ္ဂိုလ်}
+Tikaṃ: {the classification by threes, the triads (heading): သုံးမျိုးတွဲ}
+Catukkaṃ: {set of four, the classification by fours, in Paccayacatukka and the matrix of fours (compound final and heading): လေးမျိုးတွဲ}
+puriso: {person, the member of sappuriso and asappuriso 'good person' (compound final): သူတော်ကောင်း}
+ṭhitatto puggalo: {a person of steady self (phrase): တည်ငြိမ်သော စိတ် ရှိသော ပုဂ္ဂိုလ်}
+Pañcakaṃ: {the classification by fives (heading): ငါးမျိုးတွဲ}
+Datvā: {having given (absolutive): ပေးပြီးနောက်}
+dukkhassantakaro: {one who makes an end of dukkha (compound): ဒုက္ခ၏ အဆုံးကို ပြုသော}
+āgāmī: {one who comes back (compound end): ပြန်လာသော}
+Chakkaṃ: {the classification by sixes (heading): ခြောက်မျိုးတွဲ}
+ummujjitvā: {having emerged (absolutive): ပေါ်လာပြီး}
+paṭigādha: {firm ground for the feet (compound member): ခြေကုပ်ရာ}
+Sattakaṃ: {the classification by sevens (heading): ခုနစ်မျိုးတွဲ}
+Aṭṭhakaṃ: {the classification by eights (heading): ရှစ်မျိုးတွဲ}
+Navakaṃ: {the classification by nines (heading): ကိုးမျိုးတွဲ}
+niṭṭhitā: {finished, completed, closing the matrix (feminine sg.): ပြီးဆုံးသော}
+Dasa puggalā: {the ten kinds of individual (heading phrase): ပုဂ္ဂိုလ် ဆယ်ယောက်}
+Dasakaṃ: {the group of ten, classification by tens (heading): ဆယ်မျိုးတွဲ}
+uddeso: {the summary statement, opening list (heading): အကျဉ်း ဖော်ပြချက်}
+sambuddha: {the self-awakened one, member of sammāsambuddha (homage line): အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်}
+bhagavato: {of the Blessed One, the Lord (genitive sg.): မြတ်စွာဘုရား}
+sammāsambuddhassa: {of the perfectly self-awakened Buddha (genitive sg.): အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်}
+namo: {homage, reverence (nominative sg.): ရှိခိုးသည်}
+arahato: {of the worthy one, the arahant (genitive sg.): ရဟန္တာ}

@@ -1,0 +1,127 @@
+id	keyword	termbase term	text form	class	reason	ch	src
+4-0	paññatti	သတ်မှတ်ချက်	ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း	ARTEFACT	the approved BOOK TITLE «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း» at ^4-0 (book-title rule; decisions paññatti|0 / puggalapaññatti|0 keep it)	preamble	zeroshot
+4-0	Puggalapaññatti	ပုဂ္ဂိုလ် သတ်မှတ်ချက်	ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း	ARTEFACT	the approved BOOK TITLE «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း» at ^4-0 (book-title rule; decisions paññatti|0 / puggalapaññatti|0 keep it)	preamble	zeroshot
+4-9	pahīnāni	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	2	zeroshot
+4-23	sambuddho	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်	ပစ္စေကဗုဒ္ဓါ	ARTEFACT	paccekasambuddho has its own entry «ပစ္စေကဗုဒ္ဓါ»; no free sambuddho	2	zeroshot
+4-29	ṭhito	တည်နေသော	တည်သော	GENUINE	L01: zero-shot «တည်သော» → termbase «တည်နေသော»	2	zeroshot
+4-30	ṭhito	တည်နေသော	တည်သော	GENUINE	L01: zero-shot «တည်သော» → termbase «တည်နေသော»	2	zeroshot
+4-35	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-35	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-36	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-36	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-37	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-37	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-38	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-38	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-39	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-39	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-40	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-40	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	2	zeroshot
+4-45	pahīno	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-46	pahīno	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-47	pahīno	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-48	pahīno	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-49	pahīnā	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-50	pahīnaṃ	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-51	pahīnaṃ	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-51	evaṃ	ဤသို့	ဤနည်းတူ]	ARTEFACT	the bracket note «… evaṃ / evamuparipi / evameva» «… ဤနည်းတူ]» (harmonise B7; decisions evaṃ|0 / evameva|0: «ဤနည်းတူ» is only the bracket note)	3	zeroshot
+4-52	pahīnā	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-55	vaco	သွန်သင်ချက်ကို နားထောင်သော	သွန်သင်ချက်ကို နားမထောင်	ARTEFACT	privative: dubbaco has its own entry «သွန်သင်ချက်ကို နားမထောင်သူ»; vaco «… နားထောင်သော» is suvaco's part	3	zeroshot
+4-59	dhāraṇatā	စွဲမှတ်ထားခြင်း	စွဲမှတ် မထားခြင်း	ARTEFACT	privative: adhāraṇatā «စွဲမှတ် မထားခြင်း» (the negation «မ» before the verb ထား); no free dhāraṇatā	3	zeroshot
+4-62	cintetabbā	စဉ်းစားရမည့်	စဉ်းစားရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the translated bracket note ^4-62)	3	zeroshot
+4-63	pahīnāni	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-64	pahīnāni	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	3	zeroshot
+4-70	maccharī	ဝန်တိုတတ်သူ	ဝန်မတိုတတ်သူ	ARTEFACT	privative: amaccharī has its own entry «ဝန်မတိုတတ်သူ»	3	zeroshot
+4-88	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	3	zeroshot
+4-91	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	4	zeroshot
+4-94	upaṭṭhātabbā	လုပ်ကျွေးပြုစုရမည့်	လုပ်ကျွေးပြုစုရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်»	4	zeroshot
+4-94	gilāna	သူနာ	လူနာ	ARTEFACT	the sick person: gilāno / gilānūpamā «လူနာ» (entry gilāno); the termbase gilāna «သူနာ» is the requisite idiom gilānapaccaya only (decision gilāna|0, H11); no gilānapaccaya in the segment	4	zeroshot
+4-94	desetabbo	ဟောရမည့်	တရား ဟောရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်»; the verb itself was changed by L04 «ဟောကြား» → «ဟော» (the termbase word), the finite ending is left	4	zeroshot
+4-107	manasi	နှလုံးသွင်းခြင်း	နှလုံး မသွင်း	ARTEFACT	privative fragment: «နှလုံး» is only the part before the negated verb in «နှလုံး မသွင်း» (neva … manasi karoti; decision manasi|0)	4	zeroshot
+4-107	pakāsenti	ထင်ရှားပြသည်	ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «ထုတ်ဖော် ပြသည်» → termbase «ထင်ရှားပြသည်»	4	zeroshot
+4-107	brahmacariyaṃ pakāsenti	မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်	မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်» → termbase «မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်»	4	zeroshot
+4-108	pakāsenti	ထင်ရှားပြသည်	ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «ထုတ်ဖော် ပြသည်» → termbase «ထင်ရှားပြသည်»	4	zeroshot
+4-108	brahmacariyaṃ pakāsenti	မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်	မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်» → termbase «မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်»	4	zeroshot
+4-109	pakāsenti	ထင်ရှားပြသည်	ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «ထုတ်ဖော် ပြသည်» → termbase «ထင်ရှားပြသည်»	4	zeroshot
+4-109	brahmacariyaṃ pakāsenti	မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်	မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်	GENUINE	L05: zero-shot «မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်» → termbase «မြင့်မြတ်သော အကျင့်ကို ထင်ရှားပြသည်»	4	zeroshot
+4-116	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word [no longer a miss in the rails only because an unrelated layer word now occurs in the segment]	4	zeroshot
+4-116	phalaṃ	အသီးအပွင့်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: phalaṃ at ^4-116 / ^4-117 (mahapphalaṃ, the fruit of a gift) = «အကျိုး» (sense phala «result»), not this headword's term «အသီးအပွင့်»	4	zeroshot
+4-116	dīgharattaṃ	ရှည်လျားသော ကာလပတ်လုံး	ကြာမြင့်စွာ	GENUINE	L06: zero-shot «ကြာမြင့်စွာ» → termbase «ရှည်လျားသော ကာလပတ်လုံး»	4	zeroshot
+4-116	dubbaṇṇatāya	အဆင်း ဆိုးခြင်း	အဆင်း ညှိုးခြင်း	GENUINE	L07: zero-shot «အဆင်း ညှိုးခြင်း» → termbase «အဆင်း ဆိုးခြင်း»	4	zeroshot
+4-116	dubbaṇṇo	အဆင်း ဆိုးသော	အဆင်း ညှိုးသော	GENUINE	L07: zero-shot «အဆင်း ညှိုးသော» → termbase «အဆင်း ဆိုးသော»	4	zeroshot
+4-117	phalaṃ	အသီးအပွင့်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: phalaṃ at ^4-116 / ^4-117 (mahapphalaṃ, the fruit of a gift) = «အကျိုး» (sense phala «result»), not this headword's term «အသီးအပွင့်»	4	zeroshot
+4-117	dīgharattaṃ	ရှည်လျားသော ကာလပတ်လုံး	ကြာမြင့်စွာ	GENUINE	L06: zero-shot «ကြာမြင့်စွာ» → termbase «ရှည်လျားသော ကာလပတ်လုံး»	4	zeroshot
+4-120	pameyyo	ချိန်ဆရ	ချိန်ဆ၍ မရနိုင်သူ	ARTEFACT	privative: appameyyo has its own entry «ချိန်ဆ၍ မရနိုင်သူ» (decision pameyyo|0)	4	zeroshot
+4-122	phāsu	ချမ်းသာစွာ	ချမ်းသာ ဖြစ်လိမ့်မည်	INFLECTION	predicate «… ချမ်းသာ ဖြစ်လိမ့်မည်» (sā ca no phāsu bhavissati) of the adverbial termbase «ချမ်းသာစွာ» (decision phāsu|0: the same word as predicate)	4	zeroshot
+4-137	vācāya	နှုတ်	ကုန်းတိုက်သော စကား	ARTEFACT	pisuṇāya / pharusāya vācāya = the speech itself «… စကား» (vācā / vācaṃ «စကား»), not the door of speech «နှုတ်» (decision vācāya|0: the rails step writes «စကား» here; doubt 3)	5	zeroshot
+4-138	vācāya	နှုတ်	ကုန်းတိုက်သော စကား	ARTEFACT	pisuṇāya / pharusāya vācāya = the speech itself «… စကား» (vācā / vācaṃ «စကား»), not the door of speech «နှုတ်» (decision vācāya|0: the rails step writes «စကား» here; doubt 3)	5	zeroshot
+4-139	vācāya	နှုတ်	ကုန်းတိုက်သော စကား	ARTEFACT	pisuṇāya / pharusāya vācāya = the speech itself «… စကား» (vācā / vācaṃ «စကား»), not the door of speech «နှုတ်» (decision vācāya|0: the rails step writes «စကား» here; doubt 3)	5	zeroshot
+4-140	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	5	zeroshot
+4-148	abhisamayo	ထင်ထင်ရှားရှား သိမြင်ခြင်း	ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ထိုးဖောက် သိမြင်ခြင်း» → termbase «ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-148	puggalassa abhisamayo	ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း	ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း» → termbase «ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-149	abhisamayo	ထင်ထင်ရှားရှား သိမြင်ခြင်း	ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ထိုးဖောက် သိမြင်ခြင်း» → termbase «ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-149	atthe	အနက်အဓိပ္ပာယ်	အနက်	GENUINE	L13: zero-shot «အနက်» → termbase «အနက်အဓိပ္ပာယ်»	5	zeroshot
+4-149	puggalassa abhisamayo	ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း	ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း» → termbase «ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-150	abhisamayo	ထင်ထင်ရှားရှား သိမြင်ခြင်း	ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ထိုးဖောက် သိမြင်ခြင်း» → termbase «ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-150	puggalassa abhisamayo	ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း	ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း» → termbase «ပုဂ္ဂိုလ် … ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-151	abhisamayo	ထင်ထင်ရှားရှား သိမြင်ခြင်း	ထိုးဖောက် သိမြင်ခြင်း	GENUINE	L12: zero-shot «ထိုးဖောက် သိမြင်ခြင်း» → termbase «ထင်ထင်ရှားရှား သိမြင်ခြင်း»	5	zeroshot
+4-156	saṅkhaṃ gacchati	အမည် ရသည်	အမည် ရ၏	INFLECTION	finite «အမည် ရ၏» of the termbase «အမည် ရသည်»	5	zeroshot
+4-164	duppaṭipannānaṃ	ဆိုးစွာ ကျင့်ကြံသော	ဆိုးစွာ ကျင့်သော	GENUINE	L15: zero-shot «ဆိုးစွာ ကျင့်သော» → termbase «ဆိုးစွာ ကျင့်ကြံသော»	5	zeroshot
+4-164	paṭipannānaṃ	ကျင့်ကြံသော	ကျင့်သော	GENUINE	L15: zero-shot «ကျင့်သော» → termbase «ကျင့်ကြံသော»	5	zeroshot
+4-164	sammāpaṭipannā	မှန်ကန်စွာ ကျင့်ကြံသော	မှန်ကန်စွာ ကျင့်သော	GENUINE	L15: zero-shot «မှန်ကန်စွာ ကျင့်သော» → termbase «မှန်ကန်စွာ ကျင့်ကြံသော»	5	zeroshot
+4-164	micchāpaṭipannānaṃ	မှားယွင်းစွာ ကျင့်ကြံသော	မှားယွင်းစွာ ကျင့်သော	GENUINE	L15: zero-shot «မှားယွင်းစွာ ကျင့်သော» → termbase «မှားယွင်းစွာ ကျင့်ကြံသော»	5	zeroshot
+4-165	duppaṭipannānaṃ	ဆိုးစွာ ကျင့်ကြံသော	ဆိုးစွာ ကျင့်သော	GENUINE	L15: zero-shot «ဆိုးစွာ ကျင့်သော» → termbase «ဆိုးစွာ ကျင့်ကြံသော»	5	zeroshot
+4-165	paṭipannānaṃ	ကျင့်ကြံသော	ကျင့်သော	GENUINE	L15: zero-shot «ကျင့်သော» → termbase «ကျင့်ကြံသော»	5	zeroshot
+4-165	sammāpaṭipannānaṃ	မှန်ကန်စွာ ကျင့်ကြံသော	မှန်ကန်စွာ ကျင့်သော	GENUINE	L15: zero-shot «မှန်ကန်စွာ ကျင့်သော» → termbase «မှန်ကန်စွာ ကျင့်ကြံသော»	5	zeroshot
+4-165	micchāpaṭipannānaṃ	မှားယွင်းစွာ ကျင့်ကြံသော	မှားယွင်းစွာ ကျင့်သော	GENUINE	L15: zero-shot «မှားယွင်းစွာ ကျင့်သော» → termbase «မှားယွင်းစွာ ကျင့်ကြံသော»	5	zeroshot
+4-167	para	သူတစ်ပါး	ပရနိမ္မိတ	ARTEFACT	proper name Paranimmitavasavattī «ပရနိမ္မိတဝသဝတ္တီ» (pi-1 rule: proper names stay names; decision para|0)	5	zeroshot
+4-168	abhirūpo	အဆင်းလှသော	ရုပ်ချောသော	GENUINE	L16: zero-shot «ရုပ်ချောသော» → termbase «အဆင်းလှသော»	5	zeroshot
+4-168	kasirena	ပင်ပန်းစွာ	ခက်ခဲစွာ	GENUINE	L17: zero-shot «ခက်ခဲစွာ» → termbase «ပင်ပန်းစွာ»	5	zeroshot
+4-168	kasira	ပင်ပန်း	ခက်ခဲသော	GENUINE	L17: zero-shot «ခက်ခဲသော» → termbase «ပင်ပန်း»	5	zeroshot
+4-168	ābādho	အနာရောဂါ	ရောဂါ	GENUINE	L18: zero-shot «ရောဂါ» → termbase «အနာရောဂါ»	5	zeroshot
+4-170	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	5	zeroshot
+4-176	ajinaṃ	သမင်သားရေ	သားရေ	GENUINE	L19: zero-shot «သားရေ» → termbase «သမင်သားရေ»	5	zeroshot
+4-176	narassa	မြို့	လူ	GENUINE	F03: zero-shot «လူ» → termbase «မြို့»	5	zeroshot
+4-176	rūpa	သိမ်မွေ့သော ရုပ် | အဆင်းအရောင် | ရုပ်	အဆင်း	GENUINE	L21: zero-shot «အဆင်း» → termbase «သိမ်မွေ့သော ရုပ် | အဆင်းအရောင် | ရုပ်»	5	zeroshot
+4-176	sappi	ထောပတ်ကြည်	ထောပတ်	GENUINE	L20: zero-shot «ထောပတ်» → termbase «ထောပတ်ကြည်»	5	zeroshot
+4-176	evameva	ထို့အတူပင်	ဤနည်းတူ]	ARTEFACT	the bracket note «… evaṃ / evamuparipi / evameva» «… ဤနည်းတူ]» (harmonise B7; decisions evaṃ|0 / evameva|0: «ဤနည်းတူ» is only the bracket note)	5	zeroshot
+4-177	raja	ဖုန်လုံး	မြူမှုန်	GENUINE	L22: zero-shot «မြူမှုန်» → termbase «ဖုန်လုံး»	5	zeroshot
+4-177	gahapati	သူကြွယ်မျိုး	သူကြွယ်ဖြစ်စေ	ARTEFACT	the householder himself «gahapati vā gahapatiputto vā» «သူကြွယ်ဖြစ်စေ» (decision gahapati|0 names it); the term «သူကြွယ်မျိုး» is the compound member of gahapatimahāsāla (doubt 1)	5	zeroshot
+4-177	atthaṃ	အနက်အဓိပ္ပာယ်	အနက်	GENUINE	L13: zero-shot «အနက်» → termbase «အနက်အဓိပ္ပာယ်»	5	zeroshot
+4-177	attanā	မိမိကိုယ်တိုင်	ဖြစ်ပြီးသော မိမိကိုယ်ဖြင့်	ARTEFACT	«X-bhūtena attanā viharati» = «… မိမိကိုယ်ဖြင့် နေ၏» (the self as instrument, decision attanā|0 names it for the speaker to check); the term «မိမိကိုယ်တိုင်» (personally) would change the meaning (doubt 2)	5	zeroshot
+4-177	ekanta	လုံးဝ	စင်စစ်	GENUINE	L23: zero-shot «စင်စစ်» → termbase «လုံးဝ»	5	zeroshot
+4-177	byañjanaṃ	စကားလုံး	သဒ္ဒါ	GENUINE	L14: zero-shot «သဒ္ဒါ» → termbase «စကားလုံး»	5	zeroshot
+4-178	attanā	မိမိကိုယ်တိုင်	စင်ကြယ်သော မိမိကိုယ်ဖြင့်	ARTEFACT	«X-bhūtena attanā viharati» = «… မိမိကိုယ်ဖြင့် နေ၏» (the self as instrument, decision attanā|0 names it for the speaker to check); the term «မိမိကိုယ်တိုင်» (personally) would change the meaning (doubt 2)	5	zeroshot
+4-178	bhūta	အပင်	ခပ်သိမ်းသော သတ္တဝါ	ARTEFACT	not bhūtagāma (the termbase sense «အပင်»): sabbapāṇabhūta «ခပ်သိမ်းသော သတ္တဝါ», bhūtavādī, sucibhūtena, yathābhūtaṃ, mudubhūte have no word bhūta of their own	5	zeroshot
+4-179	sāci	ကွေ့ဝိုက်သော	ကောက်ကျစ်သော	GENUINE	F05: zero-shot «ကောက်ကျစ်သော» → termbase «ကွေ့ဝိုက်သော»	5	zeroshot
+4-182	kārī	ကျင့်သော	ကောင်းစွာ ဆင်ခြင်သိမြင်လျက် ပြုလေ့ရှိ	ARTEFACT	sampajānakārī has its own entry «ကောင်းစွာ ဆင်ခြင်သိမြင်လျက် ပြုလေ့ရှိသော» (decision kārī|0)	5	zeroshot
+4-182	bhūta	အပင်	ခပ်သိမ်းသော သတ္တဝါ	ARTEFACT	not bhūtagāma (the termbase sense «အပင်»): sabbapāṇabhūta «ခပ်သိမ်းသော သတ္တဝါ», bhūtavādī, sucibhūtena, yathābhūtaṃ, mudubhūte have no word bhūta of their own	5	zeroshot
+4-185	attanā	မိမိကိုယ်တိုင်	ဖြစ်ပြီးသော မိမိကိုယ်ဖြင့်	ARTEFACT	«X-bhūtena attanā viharati» = «… မိမိကိုယ်ဖြင့် နေ၏» (the self as instrument, decision attanā|0 names it for the speaker to check); the term «မိမိကိုယ်တိုင်» (personally) would change the meaning (doubt 2)	5	zeroshot
+4-186	pahīno	ပယ်ပြီးသော	မပယ်ရသေး	ARTEFACT	privative: the keyword is the fragment of appahīno / appahīnā / appahīnaṃ / appahīnāni «မပယ်ရသေး» (decisions pahīno|0 … pahīnāni|0: «ပယ်ရသော» is only the positive part of appahīn-, pi-3 uppannā model); no free pahīn- word	5	zeroshot
+4-188	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	5	zeroshot
+4-188	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	5	zeroshot
+4-189	attha	အနက်အဓိပ္ပာယ် | အကျိုး	အနက်	GENUINE	L13: zero-shot «အနက်» → termbase «အနက်အဓိပ္ပာယ် | အကျိုး»	5	zeroshot
+4-189	paṭipanno	ကျင့်ကြံသော	ကျင့်သော	GENUINE	L15: zero-shot «ကျင့်သော» → termbase «ကျင့်ကြံသော»	5	zeroshot
+4-190	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	5	zeroshot
+4-190	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	5	zeroshot
+4-191	vippaṭisārī	နောင်တ ရသော	နောင်တ ရသူ	INFLECTION	agent «နောင်တ ရသူ» (predicate «vippaṭisārī hoti» of a person) of the attributive termbase «နောင်တ ရသော»	6	zeroshot
+4-193	eva	သာ	ဖုန်လုံးကိုပင် မြင်၍	ARTEFACT	the identifying emphatic «ပင်» (rajaggaññeva «at the very sight of», tameva «that very»; = pi-2 diṭṭheva dhamme «မျက်မှောက်ဘဝ၌ပင်»); the term «သာ» (only) would change «tameva saṅgāmasīsaṃ»; the whole simile ^4-193 … ^4-198 keeps one form (doubt 7)	6	zeroshot
+4-193	byāpajjati	ဖောက်ပြန်သည် | ဒဏ်ရာ ရသည်	ဒဏ်ရာ ရ၏	INFLECTION	finite «ဒဏ်ရာ ရ၏» of the termbase «ဒဏ်ရာ ရသည်» (sense 2, wounded in battle; «ရသည်» is not stripped by the test)	6	zeroshot
+4-194	aggaṃ	ဖျား	ဖုန်လုံး ဟူသည်	ARTEFACT	rajaggasmiṃ = rajaggaṃ, which has its own entry «ဖုန်လုံး» (decision raja|0; mapper: rajagga has no word of its own); aggaṃ «ဖျား» is dhajaggaṃ «အလံဖျား» (doubt 4)	6	zeroshot
+4-197	byāpajjati	ဖောက်ပြန်သည် | ဒဏ်ရာ ရသည်	ဒဏ်ရာ ရ၏	INFLECTION	finite «ဒဏ်ရာ ရ၏» of the termbase «ဒဏ်ရာ ရသည်» (sense 2, wounded in battle; «ရသည်» is not stripped by the test)	6	zeroshot
+4-198	bhūta	အပင်	ခပ်သိမ်းသော သတ္တဝါ	ARTEFACT	not bhūtagāma (the termbase sense «အပင်»): sabbapāṇabhūta «ခပ်သိမ်းသော သတ္တဝါ», bhūtavādī, sucibhūtena, yathābhūtaṃ, mudubhūte have no word bhūta of their own	6	zeroshot
+4-199	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	6	zeroshot
+4-201	pāpa	ဆိုး	ယုတ်မာသော	ARTEFACT	pāpadhammo / pāpiccho: their own word «ယုတ်မာသော …» (entries pāpadhammo, pāpakā, pāpaṃ; decision pāpa|0: the termbase «ဆိုး» is the compound member of pāpamittatā); no pāpamitt- word	6	zeroshot
+4-202	evaṃ	ဤသို့	ဤနည်းတူ]	ARTEFACT	the bracket note «… evaṃ / evamuparipi / evameva» «… ဤနည်းတူ]» (harmonise B7; decisions evaṃ|0 / evameva|0: «ဤနည်းတူ» is only the bracket note)	7	zeroshot
+4-202	daṭṭhabbo	သိမှတ်ရမည့်	သိမှတ်ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်»	7	zeroshot
+4-203	āvattidhammo	ပြန်လာတတ်သော သဘော ရှိသော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	8	zeroshot
+4-203	āvatti	ပြန်လာတတ်သော	ပြန်မလာတတ်သော သဘော ရှိ	ARTEFACT	privative: the keyword is the positive part of anāvattidhammo «ပြန်မလာတတ်သော သဘော ရှိသူ» (style rule an- = «မ» + verb); no free āvatti word	8	zeroshot
+4-206	ṭhito	တည်နေသော	တည်သော	GENUINE	L01: zero-shot «တည်သော» → termbase «တည်နေသော»	8	zeroshot
+4-208	ṭhito	တည်နေသော	တည်သော	GENUINE	L01: zero-shot «တည်သော» → termbase «တည်နေသော»	10	zeroshot
+4-M-6	indriyānaṃ	အာရုံခံ အင်္ဂါ	စွမ်းရည်	ARTEFACT	approved rails-step note: indriyānaṃ at ^4-M-6 = the 22 faculties «စွမ်းရည်» (indriya «faculties as a category»), not the sense organs «အာရုံခံ အင်္ဂါ»	1	zeroshot
+4-M-9	gilāna	သူနာ	လူနာ	ARTEFACT	the sick person: gilāno / gilānūpamā «လူနာ» (entry gilāno); the termbase gilāna «သူနာ» is the requisite idiom gilānapaccaya only (decision gilāna|0, H11); no gilānapaccaya in the segment	1	zeroshot
+4-M-10	vaṇṇa	ဂုဏ်သတင်း | အသားအရေ	ချီးမွမ်း	ARTEFACT	spoken praise: the phrases vaṇṇaṃ bhāsitā / vaṇṇārahassa have their own entries «ချီးမွမ်း …» (decision vaṇṇa|0)	1	zeroshot
+4-M-10	attanā	မိမိကိုယ်တိုင်	ဖြစ်ပြီးသော မိမိကိုယ်ဖြင့်	ARTEFACT	«X-bhūtena attanā viharati» = «… မိမိကိုယ်ဖြင့် နေ၏» (the self as instrument, decision attanā|0 names it for the speaker to check); the term «မိမိကိုယ်တိုင်» (personally) would change the meaning (doubt 2)	1	zeroshot
+4-M-11	vippaṭisārī	နောင်တ ရသော	နောင်တ ရသူ	INFLECTION	agent «နောင်တ ရသူ» (predicate «vippaṭisārī hoti» of a person) of the attributive termbase «နောင်တ ရသော»	1	zeroshot
+4-M-16	paññatti	သတ်မှတ်ချက်	“ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း” ခေါင်းစဉ်စာရင်း	ARTEFACT	review fix A1 (F01): the mātikā colophon ^4-M-16 names the book by its approved BOOK TITLE «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း», as the colophon ^4-209 (book-title rule); the term «ပုဂ္ဂိုလ် သတ်မှတ်ချက်» is the designation itself	1	rails
+4-M-16	puggalapaññatti	ပုဂ္ဂိုလ် သတ်မှတ်ချက်	“ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း” ခေါင်းစဉ်စာရင်း	ARTEFACT	review fix A1 (F01): the mātikā colophon ^4-M-16 names the book by its approved BOOK TITLE «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း», as the colophon ^4-209 (book-title rule); the term «ပုဂ္ဂိုလ် သတ်မှတ်ချက်» is the designation itself	1	rails

@@ -1,0 +1,2 @@
+wrote 2133 decision lines -> decisions-part1.txt
+  manual 81 | p3_same 82 | p3_subset 2 | p3_plus 11 | p3_lump 3 | p2_same 507 | p2_subset 49 | p2_plus 12 | p2_lump 62 | p1_same 33 | p1_subset 0 | p1_plus 0 | p1_lump 3 | mr 1288 | case_only 52

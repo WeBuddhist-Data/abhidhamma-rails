@@ -1,0 +1,194 @@
+wrote 2106 decision lines -> dry-part1.txt
+  manual 0 | p3_same 82 | p3_subset 2 | p3_plus 11 | p3_lump 18 | p2_same 507 | p2_subset 49 | p2_plus 12 | p2_lump 95 | p1_same 33 | p1_subset 0 | p1_plus 0 | p1_lump 8 | mr 1289 | case_only 52
+REVIEW (163): check, then add to LUMP_OK or MANUAL:
+  paññatti [pi-2 one sense, new values သတ်မှတ်ဖော်ပြခြင်း]: သတ်မှတ်ချက် / သတ်မှတ်ဖော်ပြခြင်း
+  puggalapaññatti [one Marathi tag]: ပုဂ္ဂိုလ် သတ်မှတ်ချက် / ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း
+  kasira [one Marathi tag]: ပင်ပန်း / ခက်ခဲသော
+  cetanā [pi-3 one sense, new values စေတနာ]: စေတနာ
+  pahīnāni [one Marathi tag]: ပယ်ရသော / ပယ်ပြီးသော
+  sekkhā [pi-3 one sense, new values ကျင့်ကြံဆဲသူ]: ကျင့်ကြံဆဲသူ
+  bhabba [one Marathi tag]: ထိုက်တန်သော / ထိန်းနိုင်သော
+  niyato [pi-2 one sense, new values လမ်းကြောင်း ကျိန်းသေသူ]: ကျိန်းသေသော / လမ်းကြောင်း ကျိန်းသေသူ
+  hoti [pi-2 one sense, new values ဖြစ်သည်]: ဖြစ်သည်
+  ṭhita [pi-1 one sense, new values တည်နေစေသော / တည်ငြိမ်သော]: တည်နေစေသော / တည်ငြိမ်သော
+  sammā [pi-3 senses + later binding sense for မှန်ကန်စွာ]: အပြည့်အဝ / မှန်ကန်သော / မှန်ကန်စွာ
+  sammāsambuddho [pi-2 one sense, new values အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်]: အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်
+  dhammesu [pi-2 one sense, new values တရား]: တရား
+  bhāga [pi-3 one sense, new values နှစ်ဖက်စလုံး]: နှစ်ဖက်စလုံး
+  dukkha [pi-3 senses + later binding sense for နာကျင်သော]: ဒုက္ခ / နာကျင်မှု / နာကျင်သော
+  dhammā [pi-2 one sense, new values တရား]: တရား
+  ṭhito [pi-2 one sense, new values တည်သော / တည်နေသော]: တည်သော / တည်နေသော
+  dhamma [pi-3 one sense, new values တရား / သဘော]: တရား / သဘောတရား / သဘော
+  dukkhassa [pi-2 one sense, new values ဒုက္ခ]: ဒုက္ခ / နာကျင်မှု
+  eka [pi-3 one sense, new values တစ်စေ့]: တစ်စေ့
+  sañjaneti [pi-2 one sense, new values ဖြစ်ပေါ်စေသည်]: ဖြစ်ပေါ်စေသည်
+  antarā [pi-3 one sense, new values သက်တမ်း၏ အလယ်သို့ မရောက်မီ]: သက်တမ်း၏ အလယ်သို့ မရောက်မီ
+  saṅkhāra [pi-3 one sense, new values တိုက်တွန်းမှု]: တိုက်တွန်းမှု / ပြုပြင်ဖန်တီးမှု
+  gāmī [pi-2 one sense, new values လိုက်သွားသော / ရောက်သော]: လိုက်သွားသော / ရောက်သော
+  pahīnā [one Marathi tag]: ပယ်ပြီးသော / ပယ်ရသော
+  avasesa [pi-1 one sense, new values အကြွင်း]: အကြွင်း
+  arahatta [pi-2 senses + later binding sense for ရဟန္တာ]: ရဟန္တာ
+  pahīno [one Marathi tag]: ပယ်ရသော / ပယ်ပြီးသော
+  para [pi-2 senses + later binding sense for ပရ]: သူတစ်ပါး / ပရ
+  pahīnaṃ [one Marathi tag]: ပယ်ရသော / ပယ်ပြီးသော
+  kula [pi-2 one sense, new values မင်းမျိုးမင်းနွယ်]: ကိုးကွယ်သော အိမ် / မင်းမျိုးမင်းနွယ်
+  saṭho [pi-2 one sense, new values စဉ်းလဲသူ]: စဉ်းလဲသူ
+  evaṃ [one Marathi tag]: ဤနည်းတူ / ဤသို့
+  nikati [pi-2 one sense, new values စဉ်းလဲခြင်း]: ကောက်ကျစ်ခြင်း / စဉ်းလဲခြင်း
+  vācāya [pi-2 one sense, new values စကား]: နှုတ် / စကား
+  saha [pi-2 one sense, new values လျော်စွာ]: လျော်စွာ
+  anādariyatā [pi-2 one sense, new values မလေးစားသော အဖြစ်]: မလေးစားသော အဖြစ်
+  sutā [pi-2 senses + later binding sense for အကြားအမြင်]: အကြားအမြင်
+  indriyaṃ asaṃvutaṃ [pi-2 one sense, new values စွမ်းရည် … မစောင့်စည်းသော]: စွမ်းရည် … မစောင့်စည်းသော
+  rūpaṃ [pi-3 senses + later binding sense for အဆင်းအရောင်]: အဆင်းအရောင်
+  bhojane mattaññū [pi-2 one sense, new values အစားအစာ၌ အတိုင်းအရှည်ကို သိသူ]: အစားအစာ၌ အတိုင်းအရှည်ကို သိသူ
+  anussati [pi-2 senses + later binding sense for အောက်မေ့နိုင်သော]: အဖန်ဖန် အောက်မေ့ခြင်း / အောက်မေ့နိုင်သော
+  sampajāno [pi-2 one sense, new values ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း ရှိသူ]: ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း ရှိသူ / ကောင်းစွာ ဆင်ခြင်သိမြင်သော
+  abhisamayo [one Marathi tag]: ထိုးဖောက် သိမြင်ခြင်း / ထင်ထင်ရှားရှား သိမြင်ခြင်း
+  āyatanaṃ [pi-3 one sense, new values တည်ရာ]: တည်ရာ
+  phalaṃ [pi-2 one sense, new values အကျိုး]: အသီးအပွင့် / အကျိုး
+  gatā [pi-2 senses + later binding sense for ရောက်ရှိသော]: ရောက်ရှိသော
+  sammāpaṭipannā [one Marathi tag]: မှန်ကန်စွာ ကျင့်ကြံသော / မှန်ကန်စွာ ကျင့်သော
+  gataṃ [pi-2 one sense, new values မှား / ရောက်သော]: မှား / ရောက်သော
+  maggo [pi-3 senses + later binding sense for လမ်း]: လမ်း
+  paṭiggāho [pi-1 one sense, new values လက်ခံ စွဲကိုင်ခြင်း]: လက်ခံ စွဲကိုင်ခြင်း
+  pada [pi-2 one sense, new values စကားလုံး]: စကားလုံး / ပုဒ်
+  bahiddhā [pi-3 senses + later binding sense for အပြင်ပိုင်း]: အပြင်ပိုင်း
+  phāsu [pi-2 one sense, new values ချမ်းသာ]: ချမ်းသာစွာ / ချမ်းသာ
+  bhūrī [pi-2 senses + later binding sense for ကျယ်ပြန့်ခြင်း]: ကျယ်ပြန့်ခြင်း
+  kata [pi-2 one sense, new values ကျေးဇူး]: ကျေးဇူး
+  sevati [pi-2 one sense, new values ပေါင်းသင်းသည်]: ပေါင်းသင်းသည်
+  bhajati [pi-2 one sense, new values ဆည်းကပ်သည်]: ဆည်းကပ်သည်
+  sāvakā [pi-2 one sense, new values တပည့်]: တပည့်
+  suṇāti [pi-2 one sense, new values ကြားရသည် / ကြားနာသည်]: ကြားရသည် / ကြားသည် / ကြားနာသည်
+  nāmo [pi-2 one sense, new values မည်သော]: မည်သော
+  pūti [pi-2 one sense, new values ပုပ်သိုးသော]: ပုပ်သိုးသော
+  vigata [pi-2 one sense, new values ကင်းပြီးသော]: ကင်းသော / ကင်းပြီးသော
+  evameva [one Marathi tag]: ထို့အတူပင် / ဤနည်းတူ
+  vuṭṭhāti [pi-2 one sense, new values ပျောက်ကင်းသည်]: ပျောက်ကင်းသည်
+  gilāna [pi-2 one sense, new values လူနာ]: သူနာ / လူနာ
+  sampajāna [pi-2 one sense, new values သိလျက်]: သိလျက်
+  gamā [pi-2 senses + later binding sense for ရောက်သော]: ရောက်သော
+  manāpā [pi-2 senses + later binding sense for စိတ်တွေ့သော]: စိတ်တွေ့သော
+  aṭṭhakathā [pi-1 one sense, new values အဋ္ဌကထာ]: အဋ္ဌကထာ
+  maṇi [pi-2 one sense, new values ပတ္တမြား]: ပတ္တမြား
+  natthi kiñci [pi-2 one sense, new values တစ်စုံတစ်ရာမျှ မရှိသည်]: တစ်စုံတစ်ရာမျှ မရှိသည်
+  pāsāṇo [pi-2 one sense, new values ကျောက်]: ကျောက်
+  manasi [pi-3 one sense, new values နှလုံး]: နှလုံး / နှလုံးသွင်းခြင်း
+  ādi [pi-3 senses + later binding sense for အစ]: အစ
+  brahmacariyaṃ [pi-2 one sense, new values မြင့်မြတ်သော အကျင့်]: မြင့်မြတ်သော အကျင့်
+  cariyaṃ [pi-2 one sense, new values အကျင့်]: အကျင့်
+  atthaṃ [pi-2 one sense, new values အနက်အဓိပ္ပာယ် / အနက်]: အနက်အဓိပ္ပာယ် / အနက်
+  pakāsenti [pi-2 one sense, new values ထုတ်ဖော် ပြသည်]: ထုတ်ဖော် ပြသည်
+  desenti [pi-2 one sense, new values ဟောကြားသည်]: ဟောကြားသည်
+  byañjanaṃ [one Marathi tag]: စကားလုံး / သဒ္ဒါ
+  sevanti [pi-2 one sense, new values ပေါင်းသင်းသည်]: ပေါင်းသင်းသည်
+  payirupāsanti [pi-2 one sense, new values ချဉ်းကပ် ခစားသည်]: ချဉ်းကပ် ခစားသည်
+  anattamano [pi-2 one sense, new values စိတ်မနှစ်သိမ့်သော]: စိတ်မနှစ်သိမ့်သော
+  bhajanti [pi-2 one sense, new values ဆည်းကပ်သည်]: ဆည်းကပ်သည်
+  senāsana [pi-2 one sense, new values အိပ်ရာ နေရာ]: ကျောင်းအိပ်ရာနေရာ / အိပ်ရာ နေရာ
+  dukkhāya [pi-3 one sense, new values ဆင်းရဲခြင်း]: ဆင်းရဲခြင်း
+  samphasso [pi-2 senses + later binding sense for ထိတွေ့ရ]: ထိတွေ့ရ
+  dubbaṇṇo [one Marathi tag]: အဆင်း ညှိုးသော / အဆင်း ဆိုးသော
+  sukhāya [pi-3 one sense, new values ချမ်းသာခြင်း]: ချမ်းသာခြင်း
+  gandha [pi-3 one sense, new values နံ့သာ]: နံ့သာ / အနံ့
+  sukha [pi-3 senses + later binding sense for သာယာသော]: သာယာမှု / သာယာသော
+  pameyyo [one Marathi tag]: ချိန်ဆရ / ချိန်ဆ၍ ရနိုင်သော
+  indriyo [pi-2 one sense, new values အာရုံခံ အင်္ဂါ]: အာရုံခံ အင်္ဂါ
+  vāco [one Marathi tag]: ပြောတတ်သော / စကားကို ပြောသော
+  kathā [pi-3 one sense, new values စကား]: စကား
+  purisapuggalo [pi-2 one sense, new values လူ ပုဂ္ဂိုလ်]: လူ ပုဂ္ဂိုလ်
+  anatthaṃ [pi-2 senses + later binding sense for မကောင်းမှု]: မကောင်းမှု
+  duggandho [pi-2 one sense, new values အနံ့ ဆိုးသော]: အနံ့ ဆိုးသော
+  kārī [one Marathi tag]: ကျင့်သော / ပြုလေ့ရှိသော
+  attānaṃ [pi-2 one sense, new values အတ္တ]: အတ္တ
+  pāṇa [pi-2 one sense, new values သူ့အသက်]: သူ့အသက် / သတ္တဝါ
+  attanā [pi-2 one sense, new values မိမိကိုယ်]: မိမိကိုယ်တိုင် / မိမိကိုယ်
+  atthe [pi-2 one sense, new values အနက်]: အနက်
+  jātiyā [pi-3 one sense, new values ဘဝ]: ဘဝ
+  mutta [pi-2 one sense, new values လျင်မြန်သော / စွန့်လွှတ်သော]: လျင်မြန်သော / စွန့်လွှတ်သော
+  kusalā [pi-3 one sense, new values ကျွမ်းကျင်သော]: ကျွမ်းကျင်သော
+  nirodha [pi-3 senses + later binding sense for ချုပ်ငြိမ်း]: ချုပ်ငြိမ်း / ချုပ်ငြိမ်းခြင်း
+  avaṇṇa [pi-2 one sense, new values ကဲ့ရဲ့]: ကဲ့ရဲ့
+  bhūtaṃ [pi-1 one sense, new values အမှန်အတိုင်း]: အမှန်အတိုင်း
+  vaṇṇapokkharatāya [pi-2 one sense, new values လှပသော အဆင်း]: လှပသော အဆင်း
+  kasirena [pi-2 one sense, new values ခက်ခဲစွာ]: ခက်ခဲစွာ
+  gahapati [pi-2 one sense, new values သူကြွယ်]: သူကြွယ်မျိုး / သူကြွယ်
+  ābādho [pi-2 one sense, new values ရောဂါ]: ရောဂါ
+  sāro [pi-2 one sense, new values အနှစ်]: အနှစ်
+  pariṇāhaṃ [pi-2 one sense, new values လုံးပတ်]: လုံးပတ်
+  ārohaṃ [pi-2 one sense, new values အရပ် အမြင့်]: အရပ် အမြင့်
+  saṇṭhānaṃ [pi-2 one sense, new values ပုံသဏ္ဌာန်]: ပုံသဏ္ဌာန်
+  dukkara [pi-2 one sense, new values ပြုရခက်သော]: ပြုရခက်သော
+  dassana [pi-2 one sense, new values သိမြင်သော]: သိမြင်သော
+  ajinaṃ [one Marathi tag]: သမင်သားရေ / သားရေ
+  ācāro [pi-2 one sense, new values ကျင့်ဝတ်]: ကျင့်ဝတ်
+  yāpeti [pi-2 one sense, new values မျှတသည်]: မျှတသည်
+  daṇḍa [pi-2 one sense, new values တုတ် / ဒဏ်]: တုတ် / ဒဏ်
+  padhāna [pi-2 one sense, new values ကြိုးစားခြင်း]: ကြိုးစားခြင်း
+  atta [pi-2 one sense, new values မိမိ]: မိမိ
+  cora [pi-2 one sense, new values သူခိုး]: သူခိုး
+  sappi [pi-2 one sense, new values ထောပတ်]: ထောပတ်ကြည် / ထောပတ်
+  bhūmiyā [pi-2 one sense, new values မြေ]: မြေ
+  majjhima [pi-2 one sense, new values မဇ္ဈိမ]: မဇ္ဈိမ
+  khara [pi-1 one sense, new values ကြမ်းသော]: ကြမ်းသော
+  sutte [pi-2 one sense, new values သုတ်]: သုတ် / အိပ်ရာ
+  uppajjati [pi-2 one sense, new values ပွင့်ထွန်းတော်မူသည်]: ပွင့်ထွန်းတော်မူသည်
+  raja [one Marathi tag]: ဖုန်လုံး / မြူမှုန်
+  paṭisaṃvedī [pi-2 one sense, new values ခံစားသော]: ခံစားသော
+  vijjā [pi-2 senses + later binding sense for အမှန်သိမြင်မှု]: အမှန်သိမြင်မှု
+  ekanta [one Marathi tag]: စင်စစ် / လုံးဝ
+  pharusaṃ [pi-2 one sense, new values ကြမ်းတမ်းသော စကား]: ကြမ်းတမ်းသော စကား
+  nandī [pi-2 one sense, new values နှစ်သက်သော]: နှစ်သက်သော
+  sacca [pi-3 senses + later binding sense for အမှန်]: အမှန် / သစ္စာ
+  yogā [pi-3 one sense, new values နည်းလမ်း]: နည်းလမ်း
+  khetta [pi-2 one sense, new values လယ်]: လယ်
+  samādāya [pi-2 one sense, new values ယူဆောင်၍]: ယူဆောင်၍
+  indriya [pi-2 one sense, new values အာရုံခံ အင်္ဂါ]: အာရုံခံ အင်္ဂါ / စွမ်းရည်
+  cittaṃ parisodheti [pi-2 one sense, new values စိတ် … အကြွင်းမဲ့ သန့်စင်စေသည်]: စိတ် … အကြွင်းမဲ့ သန့်စင်စေသည်
+  vūpasantacitto [pi-2 one sense, new values ကောင်းစွာ ငြိမ်သက်ပြီးသော စိတ် ရှိသော]: ကောင်းစွာ ငြိမ်သက်ပြီးသော စိတ် ရှိသော
+  ṭhite [pi-2 one sense, new values တည်တံ့သော]: တည်တံ့သော / ရပ်ရာ
+  gate [pi-2 one sense, new values လားရာ ရှိသော]: သွားရာ / လားရာ ရှိသော
+  upapanno [pi-2 one sense, new values ပြည့်စုံသော / ဖြစ်ပေါ်လာသော]: ပြည့်စုံသော / ဖြစ်ပေါ်လာသော
+  anussarati [pi-2 one sense, new values အဖန်ဖန် အောက်မေ့သည်]: အဖန်ဖန် အောက်မေ့သည်
+  dasa [pi-3 senses + later binding sense for ဆယ်]: ဆယ်
+  cuti [pi-2 senses + later binding sense for သေခြင်း]: သေခြင်း
+  dukkhena [pi-3 one sense, new values နာကျင်မှု]: နာကျင်မှု
+  sota [pi-3 one sense, new values ရေစီး]: နား / ရေစီး
+  suto [pi-2 one sense, new values အကြားအမြင်]: အကြားအမြင်
+  ārabhati [pi-2 one sense, new values မှားယွင်းစွာ ပြုမူသည်]: မှားယွင်းစွာ ပြုမူသည်
+  itthī [pi-2 one sense, new values မိန်းမ]: မိန်းမ
+  dukkhaṃ [pi-3 senses + later binding sense for ဒုက္ခ]: ဒုက္ခ
+  yathā [pi-1 one sense, new values အတိုင်း]: အတိုင်း
+  viloketi [pi-2 one sense, new values ပတ်ဝန်းကျင်ကို ကြည့်သည်]: ပတ်ဝန်းကျင်ကို ကြည့်သည်
+  ṭhānesu [pi-1 one sense, new values နေရာ]: နေရာ
+  Ettāvatā [pi-2 one sense, new values ဤမျှ]: ဤမျှ
+  puriso [pi-2 one sense, new values သူတော်ကောင်း]: သူတော်ကောင်း
+UNRESOLVED (27): write MANUAL:
+  dhammo	Marathi tags=['the attained states, in kuppa-/akuppadhammo', 'moral nature, in pāpa-/kalyāṇadhammo']	burmese=['သဘော ရှိသော']
+  rūpa	pi-3 senses ['the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter', 'visible form, the object of the eye (compound member, as in rūpārammaṇa)', 'matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha), also the material side of nāmarūpa (in nāmarūpapaccayā)']	burmese=['သိမ်မွေ့သော ရုပ်', 'အဆင်းအရောင်', 'အဆင်း', 'ရုပ်']
+  puthu	Marathi tags=['many, common, in puthujjana', 'broad, in puthupañño']	burmese=['ပုထုဇဉ်', 'ကျယ်ပြန့်သော']
+  paṭipanno	Marathi tags=['proceeding on the path toward a fruit (participle)', "engaged in acting for one's own or others' welfare (participle)"]	burmese=['ကျင့်ကြံသော', 'ကျင့်သော']
+  phala	pi-2 senses ["fruit, of plants in the smell and taste lists (compound member), also in phaladāna 'gift of fruit'", 'fruition of the path, in phalasamaṅgī (compound member)']	burmese=['ဖိုလ်', 'အကျိုး', 'အသီး']
+  sama	Marathi tags=['simultaneous, in samasīsī', 'evenly, in samapekkhaṇā']	burmese=['တပြိုင်နက်', 'ညီညီညွတ်ညွတ်']
+  vibha	Marathi tags=None	burmese=['ခွဲခြမ်းစိတ်ဖြာခြင်း']
+  kammaṃ	Marathi tags=["action-noun final '-making, -doing' in synonym lists", 'morally significant deeds (accusative)']	burmese=['ပြုခြင်း', 'ကံ']
+  ṭhānaṃ	pi-2 senses ["place, position, in 'āsabhaṃ ṭhānaṃ' 'the place of the leader' (accusative sg.)", 'standing, one of the four postures (accusative sg.)']	burmese=['အကြောင်း']
+  āhāro	pi-2 senses ['nutriment, a sustaining condition of mind (contact, volition, consciousness), also edible food as nutriment, in kabaḷīkāro āhāro and the four nutriments', "food, what is eaten, in evamāhāro 'having such food' of the past-lives formula (compound final)"]	burmese=['ဆောင်ခြင်း', 'အစာ']
+  vaṇṇa	pi-2 senses ['colour, hue, as in vaṇṇanibhā (compound member)', 'praise, reputation, in vaṇṇamacchariya (compound member)', "beauty, good looks, in vaṇṇamada 'pride of beauty' (compound member)"]	burmese=['ဂုဏ်သတင်း', 'အသားအရေ', 'ချီးမွမ်း']
+  hetu	pi-2 senses ['roots, the wholesome and unwholesome root conditions (stem and heading)', 'cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member)']	burmese=['အလို့ငှာ', 'အကြောင်း']
+  brahma	pi-1 senses ['divine, sublime, in brahmavihāra (compound member)', 'the Brahmā world, in brahmaloka (compound member)']	burmese=['မြင့်မြတ်သော']
+  obhāso	pi-2 senses ['radiance, wisdom as brightness (nominative sg.)', 'hint, a suggestive remark, in the definition of hinting for gain (nominative sg.)']	burmese=['အရောင်အဝါ', 'ဟန် ထင်ရသော']
+  cārī	Marathi tags=['one who engages in a conduct, in kāmesu micchācārī (agent noun)', 'one who lives a way of life, in brahmacārī (agent noun)']	burmese=['ကျင့်သော']
+  byāpajjati	Marathi tags=['becomes malevolent (3rd sg.)', 'is struck down in battle (3rd sg.)']	burmese=['ဖောက်ပြန်သည်', 'ဒဏ်ရာ ရသည်']
+  assa	Marathi tags=['his, of him (genitive pronoun)', 'horse (compound member)']	burmese=['ထိုသူ']
+  diṭṭha	Marathi tags=None	burmese=['အမြင်']
+  dhamme	pi-2 senses ["the Buddha's teaching, in 'doubts about the Teacher, the teaching, the training' (locative), also in 'imasmiṃ dhamme' and in 'dhamme ñāṇaṃ' of the analytical knowledges", 'phenomena, states, in dhamme ārabbha (accusative pl.)']	burmese=['ဘဝ']
+  kattā	Marathi tags=['one who acts rather than talks (agent noun)', 'one who makes a burrow, with gādhaṃ (agent noun)']	burmese=['ပြုလုပ်သူ', 'တူးသူ']
+  patta	pi-2 senses ["leaf, foliage (compound member), also in pattadāna 'gift of leaves'", 'the alms bowl, in pattacīvara and pattamaṇḍanā (compound member)']	burmese=['သပိတ်', 'အတောင်']
+  pasādaṃ janeti	Marathi tags=['gives rise to confidence in a path (^4-164, ^4-165) (phrase)', 'becomes pleased, taking looks, voice, austerity or qualities as the measure (^4-171, ^4-172) (phrase)']	burmese=['ကြည်ညိုမှုကို ဖြစ်စေသည်']
+  go	Marathi tags=['cow, in gomaya where the compound means cow dung', 'bovine animal, cow (compound member)']	burmese=['နွား']
+  mukhā	Marathi tags=['opening of a vessel, in kumbhimukhā (ablative)', 'human face, in assumukhā (compound end)']	burmese=['နှုတ်ခမ်း', 'မျက်ရည် စီးသော']
+  eḷaka	Marathi tags=['doorsill, in eḷakamantaraṃ (compound member)', 'small livestock, in ajeḷaka (compound member)']	burmese=['တံခါးခုံ', 'သိုး']
+  attha	pi-2 senses ['meaning, sense, in atthapaṭisambhidā (compound member)', "benefit, welfare, in atthajāpikā 'that brings about benefit' (compound member)"]	burmese=['အကျိုး', 'အနက်']
+  bhūta	Marathi tags=['living creatures, in pāṇabhūta (compound member)', 'factual, in bhūtavādī (compound member)', 'vegetation, in bhūtagāma (compound member)']	burmese=['အပင်']

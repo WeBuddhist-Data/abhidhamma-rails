@@ -1,0 +1,20 @@
+# pi-4 Burmese (Puggalapaññatti) progress log
+2026-11-19T13:29:59Z user: "Start pi-4". Pāli AI_translation/pali/pi-4_split_chapters (12 files, 155 KB); same pipeline; pi-1/2/3 final Burmese binding; standing go-ahead (no approval gates, coordinator decides and logs). Zero-shot SAMPLE started (preamble, 1-matika, 2-ekaka).
+2026-11-19T14:10:54Z sample DONE (3 files OK, 0 mismatches, reuse 230/230; coordinator re-run OK). Coordinator APPROVED the sample (standing go-ahead); note for harmonise: ^4-1 «အခါအားလျော်စွာ၊ အချိန်အလိုက်» added «၊» (kālena kālaṃ samayena samayaṃ has no comma). Parallel zero-shot: ch3-4, ch5, ch6-11.
+2026-11-19T14:35:19Z ch6-11 DONE (6 files OK, 0 mismatches, reuse 75/75; coordinator re-run). For harmonise: vippaṭisāra = kukkucca word «နောင်တ ပူပန်…» (distinct?); added words «သဘောထား၍» (ummujjati) and «ကိလေသာကို» (sallekha): check nothing added; vipassati viloketi «မြင်၍ …ကြည့်» vs mātikā «မြင်၏၊».
+2026-11-19T14:44:29Z ch3-4 DONE (2 files OK, 0 mismatches, reuse 173/173 with 13 logged ADAPTED; coordinator re-run). For harmonise: ^4-52 / ^4-66 missing punctuation: check nothing added; vuṭṭhāti sense split; 'Tattha katamo X' frame vs sample.
+2026-11-19T14:48:25Z ch5 DONE (60 seg OK, 0 mismatches, reuse 108/108; coordinator re-run). All 12 files written. Next: harmonise.
+2026-11-19T14:49:12Z harmonise started (harmonise-brief.md, harmonise-todo.md A1-A5, B1-B8; B4 bhagavā «မြတ်စွာဘုရား» as pi-1/2/3, tathāgato own word).
+2026-11-19T15:30:59Z harmonise round 1 DONE (74/74 items, 134 lines, align 7->0, hidden 1->0, pi-1 45/45, pi-2 35/36 + 1 explained (So = ထိုသူ), pi-3 2/2). Coordinator revises B4: tathāgata «မြတ်စွာဘုရား» (pi-2 lock), bhagavā «မြတ်စွာဘုရား» except the ^4-177 epithet «ဘုန်းတော်ရှင်»; sent back to the harmonise agent.
+2026-11-19T15:34:25Z harmonise DONE incl. B4 revision (75/75, 126 lines; align 0, hidden 0; pi-1 45/45, pi-2 35/36+1, pi-3 2/2; coordinator re-run). Merged zero-shot pi-4-burmese-plain-zeroshot.md. Keywords split into mapper-my/.
+2026-11-19T15:34:57Z mapping started: whole book in one script (250 lines; burmese-mapper-brief.md).
+2026-11-19T16:15:43Z mapping DONE (250 lines, 5828 uses, bad [], 0 presence failures; rules P1-P8, A2; scan 95->89 kept with reasons; 15 text inconsistencies for rails; coordinator check OK). senses input: agg-part1.tsv prepared.
+2026-11-19T16:16:15Z senses started (2133 hw; sample + full in one run; burmese-senses-brief.md).
+2026-11-19T16:28:42Z senses DONE (2133 hw, 2176 senses, 40 multi-sense, 50 multi-candidate, VERIFY OK; 53 new senses logged; coordinator check OK). Note for rails: ^4-198 map gataṃ «မှား» probable map slip (araññagataṃ «ရောက်သော»).
+2026-11-19T16:28:52Z termbase agent started (burmese-termbase-brief.md).
+2026-11-19T16:48:14Z termbase built (2133 hw, 2176 senses, multi 50, aligned 31, outside 0, no errors) and LOCKED by the coordinator (standing go-ahead), sha256 c6a4e611fea053d20376b2418f0a83d7086d6ee99883d67146fb49033e7eb9e9. Rails next.
+2026-11-19T16:48:49Z rails started (burmese-rails-brief.md).
+2026-11-20T03:43:37Z rails agent hit a network error (before the layer); resumed with its context.
+2026-11-20T03:49:15Z rails DONE (GENUINE 43 fixed, 0 left; 49/561 lines; 36 patches L01-L25; pi-1 45/45, pi-2 35/36+1, pi-3 2/2; coordinator re-run twice: ALL CHECKS PASSED, identical). Doubts in rails/notes-rails.md (nikati / sāci share «ကောက်ကျစ်» at ^4-179: fix in review round; dhammadesanā). Review A (preamble, 1-4) / B (5-11) started.
+2026-11-20T04:00:45Z review A (MIN 6) / B (MAJ 2, MIN 4) saved. Coordinator decisions: APPLY A1, A6, B1 (termbase narassa «မြို့»), B2, B3, B4, B5, B6, doubt 5 (termbase sāci «ကွေ့ဝိုက်သော»); KEEP A2, A3, A4, A5. Termbase sha256 6ba052ff…. Fix agent started.
+2026-11-20T04:12:44Z review fixes DONE (13 lines: A1, A6, B1, B2, B4, B6, doubt 5; B3 already right by termbase slot; B5 kept = pi-1 ^1-1350 form). Coordinator re-ran twice: ALL CHECKS PASSED, identical; 60/561 lines vs zero-shot; GENUINE 0; pi-1 45/45, pi-2 35/36+1, pi-3 2/2. pi-4 Burmese DONE. Not published / committed.

@@ -1,0 +1,92 @@
+keyword-map values: 5828; = a termbase term: 5617; explained: 211 (FIXED 75, STALE 21, KEPT 77, no entry 38); unexplained or unverified: 0
+   1	FIXED F03 narassa: «လူ»
+   1	FIXED F05 sāci: «ကောက်ကျစ်သော»
+   4	FIXED L01 ṭhito: «တည်သော»
+   1	FIXED L03 sutvā: «ကြားနာ၍»
+   1	FIXED L03 suṇato: «ကြားနာသော»
+   1	FIXED L03 suṇāti: «ကြားနာသည်»
+   3	FIXED L03 suṇāti: «ကြားရသည်»
+   3	FIXED L04 bhikkhū desenti: «ရဟန်း … ဟောကြားသည်»
+   3	FIXED L04 desenti: «ဟောကြားသည်»
+   1	FIXED L04 desetabbo: «ဟောကြားရမည့်»
+   3	FIXED L05 brahmacariyaṃ pakāsenti: «မြင့်မြတ်သော အကျင့်ကို ထုတ်ဖော် ပြသည်»
+   3	FIXED L05 pakāsenti: «ထုတ်ဖော် ပြသည်»
+   2	FIXED L06 dīgharattaṃ: «ကြာမြင့်စွာ»
+   1	FIXED L07 dubbaṇṇatāya: «အဆင်း ညှိုးခြင်း»
+   1	FIXED L07 dubbaṇṇo: «အဆင်း ညှိုးသော»
+   3	FIXED L08 senāsana: «ကျောင်းအိပ်ရာနေရာ»
+   2	FIXED L09 purisapuggalo: «လူ ပုဂ္ဂိုလ်»
+   3	FIXED L10 bhogaṃ: «စည်းစိမ်ဥစ္စာ»
+   2	FIXED L11 vāco: «ပြောတတ်သော»
+   4	FIXED L12 abhisamayo: «ထိုးဖောက် သိမြင်ခြင်း»
+   3	FIXED L12 puggalassa abhisamayo: «ပုဂ္ဂိုလ် … ထိုးဖောက် သိမြင်ခြင်း»
+   1	FIXED L13 attha: «အနက်»
+   1	FIXED L13 atthaṃ: «အနက်»
+   1	FIXED L13 atthe: «အနက်»
+   1	FIXED L14 byañjanaṃ: «သဒ္ဒါ»
+   2	FIXED L15 duppaṭipannānaṃ: «ဆိုးစွာ ကျင့်သော»
+   2	FIXED L15 micchāpaṭipannānaṃ: «မှားယွင်းစွာ ကျင့်သော»
+   1	FIXED L15 paṭipanno: «ကျင့်သော»
+   2	FIXED L15 paṭipannānaṃ: «ကျင့်သော»
+   1	FIXED L15 sammāpaṭipannā: «မှန်ကန်စွာ ကျင့်သော»
+   1	FIXED L15 sammāpaṭipannānaṃ: «မှန်ကန်စွာ ကျင့်သော»
+   1	FIXED L16 abhirūpo: «ရုပ်ချောသော»
+   1	FIXED L16 dassanīyo: «ရှုချင်ဖွယ် ဖြစ်သော»
+   1	FIXED L16 pāsādiko: «ကြည်ညိုဖွယ် ဖြစ်သော»
+   1	FIXED L17 kasira: «ခက်ခဲသော»
+   1	FIXED L17 kasirena: «ခက်ခဲစွာ»
+   1	FIXED L18 ābādho: «ရောဂါ»
+   1	FIXED L19 ajinaṃ: «သားရေ»
+   1	FIXED L20 sappi: «ထောပတ်»
+   1	FIXED L21 rūpa: «အဆင်း»
+   1	FIXED L22 raja: «မြူမှုန်»
+   1	FIXED L23 ekanta: «စင်စစ်»
+   1	FIXED L24 nikati: «စဉ်းလဲခြင်း»
+   4	FIXED L25 pamāda: «မေ့လျော့ခြင်း»
+   1	KEPT Niyato: «လမ်းကြောင်း ကျိန်းသေသူ» — person-type NAME (binding; decision niyato|0)
+   1	KEPT Puggalapaññatti: «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း» — the approved book title (^4-0)
+   1	KEPT aggaṃ: «(no direct equivalent)» — no word of its own here (paccekasambuddho / akaniṭṭhagāmī NAME / pāṇabhūta … / rajagga)
+   1	KEPT anussati: «အောက်မေ့နိုင်သော» — inside pubbenivāsānussatiñāṇa (decision anussati|0)
+   4	KEPT attanā: «မိမိကိုယ်» — X-bhūtena attanā (doubt 2)
+   1	KEPT bhabba: «ထိန်းနိုင်သော» — person-type NAMES cetanābhabbo / anurakkhaṇābhabbo (binding; decision bhabba|0)
+   3	KEPT bhūta: «(no direct equivalent)» — no word of its own here (paccekasambuddho / akaniṭṭhagāmī NAME / pāṇabhūta … / rajagga)
+   1	KEPT dukkha: «နာကျင်သော» — dukkhasamphassa, the cloth (decision dukkha|0)
+   3	KEPT dukkhanirodha: «ဒုက္ခ ချုပ်ငြိမ်းရာ» — inside dukkhanirodhagāminī (grammar)
+   1	KEPT eva: «ပင်» — the identifying emphatic «ပင်» (doubt 7)
+   1	KEPT evameva: «ဤနည်းတူ» — the bracket note «… evameva» (decision evameva|0)
+   2	KEPT evaṃ: «ဤနည်းတူ» — the bracket note evamuparipi / evaṃ (decision evaṃ|0)
+   1	KEPT gahapati: «သူကြွယ်» — the householder himself (doubt 1)
+   2	KEPT gilāna: «လူနာ» — the sick person gilāno «လူနာ» (decision gilāna|0, H11)
+   1	KEPT gāmī: «(no direct equivalent)» — no word of its own here (paccekasambuddho / akaniṭṭhagāmī NAME / pāṇabhūta … / rajagga)
+   2	KEPT gāmī: «လိုက်သွားသော» — person-type NAME anusotagāmī (binding; decision gāmī|0)
+   1	KEPT indriyānaṃ: «စွမ်းရည်» — approved rails-step note: ^4-M-6 the 22 faculties «စွမ်းရည်»
+   1	KEPT kārī: «ပြုလေ့ရှိသော» — sampajānakārī, own entry
+   3	KEPT manasi: «နှလုံး» — fragment before the negated verb «နှလုံး မသွင်း» (decision manasi|0)
+   3	KEPT nirodha: «ချုပ်ငြိမ်း» — inside dukkhanirodhagāminī «… ချုပ်ငြိမ်းရာ» (grammar, decision nirodha|0)
+   1	KEPT niyato: «လမ်းကြောင်း ကျိန်းသေသူ» — person-type NAME (binding; decision niyato|0)
+   2	KEPT pahīnaṃ: «ပယ်ရသော» — privative fragment of appahīn- «မပယ်ရသေး» (decision)
+   5	KEPT pahīno: «ပယ်ရသော» — privative fragment of appahīn- «မပယ်ရသေး» (decision)
+   2	KEPT pahīnā: «ပယ်ရသော» — privative fragment of appahīn- «မပယ်ရသေး» (decision)
+   3	KEPT pahīnāni: «ပယ်ရသော» — privative fragment of appahīn- «မပယ်ရသေး» (decision)
+   1	KEPT pameyyo: «ချိန်ဆ၍ ရနိုင်သော» — positive part of appameyyo «ချိန်ဆ၍ မရနိုင်သူ» (own entry)
+   1	KEPT para: «ပရ» — proper name Paranimmita
+   1	KEPT paññatti: «သတ်မှတ်ဖော်ပြခြင်း» — inside the approved book title (^4-0)
+   2	KEPT phalaṃ: «အကျိုး» — approved rails-step note: mahapphalaṃ ^4-116 / ^4-117 «အကျိုး»
+   1	KEPT phāsu: «ချမ်းသာ» — predicate «… ချမ်းသာ ဖြစ်လိမ့်မည်» (INFLECTION row)
+   1	KEPT puggalapaññatti: «ပုဂ္ဂိုလ်များကို သတ်မှတ်ဖော်ပြခြင်း» — the approved book title (colophon ^4-209)
+   7	KEPT pāpa: «ယုတ်မာသော» — pāpadhammo / pāpiccho: their own word «ယုတ်မာသော» (entries pāpadhammo, pāpakā; decision pāpa|0: «ဆိုး» is the member of pāpamittatā)
+   1	KEPT sambuddho: «(no direct equivalent)» — no word of its own here (paccekasambuddho / akaniṭṭhagāmī NAME / pāṇabhūta … / rajagga)
+   1	KEPT sammā: «မှန်ကန်စွာ» — the adverb in sammāpaṭipannā (decision sammā|0)
+   6	KEPT sampajāno: «ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း ရှိသူ» — person-type NAME (binding; decision sampajāno|0); ^4-182 «sato sampajāno» has the term as «… ဆင်ခြင်သိမြင်လျက်»
+   1	KEPT sukha: «သာယာသော» — sukhasamphassa, the cloth (decision sukha|0)
+   1	KEPT vaṇṇa: «ချီးမွမ်း» — spoken praise, own phrase entries (decision vaṇṇa|0)
+   2	KEPT vigata: «ကင်းပြီးသော» — inside a person-type NAME (binding; decision vigata|0)
+   3	KEPT vācāya: «စကား» — pisuṇāya / pharusāya vācāya, the speech itself (doubt 3)
+   1	KEPT ñāṇaṃ: «သိခြင်း» — positive part of aññāṇaṃ «မသိခြင်း» (decision ñāṇaṃ|0)
+   2	STALE map value kantā: «ချစ်ခင်ဖွယ်ကောင်းသော» (the text has the term)
+   3	STALE map value samannāgatā: «ပြည့်စုံသော» (the text has the term)
+   9	STALE map value sambuddho: «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရား» (the text has the term)
+   4	STALE map value upakkilese: «အညစ်အကြေး» (the text has the term)
+   2	STALE map value vūpasanta: «ကောင်းစွာ ငြိမ်သက်သော» (the text has the term)
+   1	STALE map value ārāmo: «နှစ်သက်သော» (the text has the term)
+   38	no entry, (no direct equivalent)
