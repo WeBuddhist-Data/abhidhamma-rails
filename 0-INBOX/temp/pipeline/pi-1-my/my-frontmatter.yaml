@@ -1,0 +1,29 @@
+---
+title: သဘောတရားများကို စုစည်းရေတွက်ခြင်း - ရိုးရှင်းသော မြန်မာ
+translator: Rails [op:Xz6QQW6yYdR111UgnnxJk]
+source_title: Dhammasaṅgaṇīpāḷi
+root_text: 1-SOURCES/Text/pi-1.md
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: public
+source: https://webuddhist.com
+source_split: AI_translation/pali/pi-1_split_chapters
+source_text_id: BzOXhiRUQM4MOT6affzmO
+source_edition_id: VYail1lkMeu0V2IDqxRlm
+translation_of: BzOXhiRUQM4MOT6affzmO
+language: Burmese
+lang_tag: my
+file_type: translation
+audience_profile: AI_translation/audience_profile/plain.md
+termbase: AI_translation/burmese/pi-1-pali-burmese-termbase-plain.md
+termbase_approved: 2026-11-17
+pipeline: "zeroshot-translator -> keyword-equivalence-mapper (Pāli keywords from AI_translation/pali/pi-1-keywords-by-reference-pali-plain.md; keyword extraction skipped) -> word-sense-grouper -> termbase-builder -> rails-verse-translator"
+approach: "zero-shot built by generator scripts from shared formula frames (sample first, remaining files in parallel), then a book-wide consistency pass; rails = the harmonised text with the locked termbase applied by an audited rule script (0 genuine termbase misses); identical Pāli kept as identical Burmese within the book and with the earlier Burmese books; independent bilingual review with fixes applied; translated from the Pāli only, no existing Burmese translation, nissaya or web source used; dashes only where the Pāli has them; afterwards a meaning-only comparison of part of the book with the Religious Affairs Burmese translation (copyrighted, post-translation reference only, no wording used, its findings not applied)"
+zeroshot_split: AI_translation/burmese/pi-1-burmese-plain-zeroshot_split_chapters
+keyword_map: AI_translation/burmese/pi-1-keywords-by-reference-pali-burmese-plain.md
+senses: AI_translation/burmese/pi-1-pali-word-burmese-senses-plain.md
+segment_ids: "^T-1 … ^1-1616 (1930 blocks, matching the source)"
+chapters: preamble + Mātikā + Cittuppādakaṇḍa (5 files) + Rūpakaṇḍa (3 files) + Nikkhepakaṇḍa (3 files) + Aṭṭhakathākaṇḍa
+split_chapters: AI_translation/burmese/pi-1-burmese-plain-rails_split_chapters
+generated: 2026-11-17
+status: draft
+---

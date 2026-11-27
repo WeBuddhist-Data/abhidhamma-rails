@@ -1,0 +1,93 @@
+wrote 2466 decision lines -> decisions-part1.txt (MANUAL used: 7)
+REVIEW (71): one Marathi tag, several Burmese values; check, then add to LUMP_OK or MANUAL:
+  kusalaṃ: ကုသိုလ်စိတ် / ကုသိုလ်
+  vāro: အပိုင်း / ဖော်ပြချက်
+  Suññata: ဆိတ်သုဉ်းခြင်း / ဆိတ်သုဉ်းကြောင်း
+  Suññataṃ: ဆိတ်သုဉ်းသော / ဆိတ်သုဉ်းခြင်း
+  Appaṇihitaṃ: တောင့်တမှု မရှိသော / တောင့်တမှု မရှိခြင်း
+  vipākamanoviññāṇadhātu: ကံ၏ အကျိုး ဖြစ်သော … မနော သိစိတ် ဓာတ် / ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်
+  Chanda: ဆန္ဒ / လိုလားမှု
+  Kiriyāmano: ပြုရုံမျှသာ ဖြစ်သော မနော / ပြုရုံမျှသာ ဖြစ်သော … မနော
+  Yo: ရှိသမျှ / အကြင်
+  sātaṃ: နှစ်သက်ဖွယ်ကောင်းမှု / နှစ်သက်ဖွယ်ကောင်းသော
+  cetasikaṃ: စိတ်ပိုင်းဆိုင်ရာ / စိတ်၏ အဖော်
+  sukhā: သာယာသော / ချိုသော
+  anussati: အဖန်ဖန် အောက်မေ့ခြင်း / အောက်မေ့နိုင်သော
+  samuppannā: ဖြစ်ပေါ်လာသော / ကောင်းစွာ ဖြစ်ပေါ်ပြီးသော / ကောင်းစွာ ဖြစ်ပေါ်သော
+  maggo: မဂ် / လမ်း
+  hetū: အမြစ် / အကြောင်း
+  asātaṃ: နှစ်သက်ဖွယ် မကောင်းသော / နှစ်သက်ဖွယ် မကောင်းမှု
+  maggaṃ: လမ်း / မဂ်
+  kāyena: ကိုယ် / စိတ်၏ အဖော်တို့
+  sukha: လွယ်ကူသော / သာယာမှု / သာယာစွာ / သာယာသော
+  ākāsa: ဟင်းလင်းပြင် / ကောင်းကင်
+  eva: သာ / ပင်
+  āhāraṃ: အာဟာရ / အစာ
+  gāho: စွဲကိုင်ခြင်း / ယူနိုင်ခြင်း
+  patho: လမ်းကြောင်း / လမ်း
+  ñāṇaṃ: သိခြင်း / ဉာဏ်
+  domanassa: စိတ်ဆင်းရဲမှု / စိတ်ဆင်းရဲခြင်း
+  uppannā: ဖြစ်ပေါ်လာသော / ဖြစ်ပေါ်ပြီးသော / ဖြစ်ပေါ်သော
+  vipākā manoviññāṇadhātu: ကံ၏ အကျိုး ဖြစ်သော … မနော သိစိတ် ဓာတ် / ကံ၏ အကျိုး ဖြစ်သော မနော သိစိတ် ဓာတ်
+  Kiriyā mano: ပြုရုံမျှသာ ဖြစ်သော … မနော / ပြုရုံမျှသာ ဖြစ်သော မနော
+  akusalaṃ: အကုသိုလ်စိတ် / အကုသိုလ်
+  rūpaṃ sappaṭighaṃ: ထိခိုက်မှု ရှိသော … ရုပ် / ထိခိုက်မှု ရှိသော ရုပ်
+  Dasa: ဆယ်ပါး / ဆယ်
+  Ekādasa: ဆယ့်တစ်ပါး / ဆယ့်တစ်
+  phala: အသီး / ဖိုလ်
+  indriyānaṃ: စွမ်းရည် / အာရုံခံ အင်္ဂါ
+  sineho: ချစ်ခင်မှု / စေးကပ်မှု / ချစ်ခင်ခြင်း
+  kammassa katattā: ပြုခဲ့သော ကံကြောင့် / ကံကို ပြုခဲ့ခြင်းကြောင့်
+  rūpaṃ appaṭighaṃ: ထိခိုက်မှု မရှိသော … ရုပ် / ထိခိုက်မှု မရှိသော ရုပ်
+  akusalābyākatā: အကုသိုလ်နှင့် ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော / အကုသိုလ် ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+  sekkhā: ကျင့်ကြံဆဲသူ၏ / ကျင့်ကြံမှု
+  phalaṃ: အသီးအပွင့် / ဖိုလ်
+  niyatā: ကျိန်းသေသော / သီးသန့် ဖြစ်သော
+  jātā: မွေးဖွားပြီးသော / မွေးဖွားသော
+  abhinibbattā: ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော / ထင်ရှားစွာ ပေါ်ထွက်သော
+  samuṭṭhitā: ကောင်းစွာ ထပေါ်ပြီးသော / ကောင်းစွာ ထပေါ်သော
+  nibbattā: ပေါ်ထွက်ပြီးသော / ပေါ်ထွက်သော
+  pātubhūtā: ထင်ရှားလာပြီးသော / ထင်ရှား လာသော
+  sañjātā: ကောင်းစွာ မွေးဖွားပြီးသော / ကောင်းစွာ မွေးဖွားသော
+  uṭṭhitā: ထပေါ်ပြီးသော / ထပေါ်သော
+  abyākatahetū: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ် / ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရားတို့၏ အမြစ်
+  akusalahetū: အကုသိုလ် အမြစ် / အကုသိုလ်၏ အမြစ်
+  kusalahetū: ကုသိုလ် အမြစ် / ကုသိုလ်၏ အမြစ်
+  nandī: နှစ်သက်မှု / နှစ်သက်ခြင်း
+  mucchā: မိန်းမောမှု / မိန်းမောခြင်း
+  vibhava: ဘဝ ပြတ်စဲခြင်း / ဘဝ ပျောက်ကွယ်သည်
+  kamyatā: လိုချင်ခြင်း / ထူလိုခြင်း / လိုလားခြင်း
+  vipākato: အကျိုး ဖြစ်သော စိတ် / ကံ၏ အကျိုး / အကျိုး
+  para: သူတစ်ပါး / ပရ
+  sacca: အမှန် / သစ္စာ
+  vatthūni: ဖြစ်ရာ အခြေခံ / အခြေခံ
+  samāpatti: ဈာန် ဝင်စားရာ / ဈာန် ဝင်စားမှု
+  uppādāya: ဖြစ်ပေါ်ရန် / ဖြစ်ပေါ်စေရန်
+  santuṭṭhitā: ရောင့်ရဲမှု / ရောင့်ရဲခြင်း
+  Saṃvego: သံဝေဂ / သံဝေဂ ရခြင်း
+  kusalesu: ကုသိုလ် / ကုသိုလ်စိတ်
+  rūpañca: ရုပ် / ရုပ်ပိုင်း
+  rūpañca nibbānañca: ရုပ်လည်း နိဗ္ဗာန်လည်း / ရုပ်နှင့် နိဗ္ဗာန်
+  kiriyato: ပြုရုံမျှသာ ဖြစ်သော စိတ် / ပြုရုံမျှသာ
+  vipākato ca kiriyato: ကံ၏ အကျိုးအဖြစ်လည်းကောင်း ပြုရုံမျှသာအဖြစ်လည်းကောင်း / အကျိုး ဖြစ်သော စိတ်အနက်လည်းကောင်း ပြုရုံမျှသာ ဖြစ်သော စိတ်အနက်လည်းကောင်း
+  kusalato: ကုသိုလ်စိတ် / ကုသိုလ်
+UNRESOLVED (19): several Marathi senses or no Marathi line; write MANUAL:
+  āyatanāni	tags=['sense bases, the sense fields (nominative pl.)', "bases, in abhibhāyatanāni 'bases of mastery' (compound final)"]	burmese=['အာရုံခံ နယ်ပယ်', 'နယ်ပယ်']
+  brahma	tags=['divine, sublime, in brahmavihāra (compound member)', 'the Brahmā world, in brahmaloka (compound member)']	burmese=['ဗြဟ္မစိုရ်', 'ဗြဟ္မာ့']
+  kiriyā	tags=['merely functional, producing no result (stem and compound member)', "doing, in akiriyā 'not doing' (noun)"]	burmese=['ပြုရုံမျှသာ ဖြစ်သော', 'ပြုခြင်း']
+  ṭhiti	tags=['stability, steadiness of mind (in the concentration list)', 'persistence, lasting of life (in the life-faculty list)']	burmese=['တည်တံ့ခြင်း']
+  sampaggāho	tags=['upholding, keeping the mind exerted (in the energy list)', 'self-exaltation, holding oneself high (in the conceit list)']	burmese=['ခိုင်မြဲစွာ ထမ်းဆောင်ခြင်း', 'အလွန် မြှင့်တင်ခြင်း']
+  khandhā	tags=['aggregates, groups of phenomena (nominative pl.)', 'classes of offences, in āpattikkhandhā (compound final)']	burmese=['အစုအဝေး', 'အစု']
+  dukkha	tags=["painful, hard, as in dukkhapaṭipadā 'painful practice' (compound member)", 'pain, suffering, or painful feeling (compound member, as in dukkhasahagata)']	burmese=['ခက်ခဲသော', 'နာကျင်သော', 'နာကျင်မှု', 'ဒုက္ခ']
+  bahiddhā	tags=["outside, externally, of forms seen outside and in 'ito bahiddhā' 'outside this teaching' (adverb)", "external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb)"]	burmese=['ပြင်ပ၌', 'သူတစ်ပါး၌', 'အပြင်ဘက်']
+  thambhitattaṃ	tags=['stiffening of the mind, mental paralysis, in the doubt list (neuter sg.)', 'distension, the stiffened state of matter, in the air element definition (neuter sg.)']	burmese=['တောင့်တင်းနေသော အဖြစ်', 'တောင့်တင်းထားသော အဖြစ်']
+  rūpaṃ	tags=['matter, material form (nominative/accusative sg.)', 'visible form, the object of the eye, in the restraint passage (accusative sg.)']	burmese=['ရုပ်', 'အဆင်းအရောင်', 'ရုပ်ပိုင်း']
+  vaṇṇa	tags=['colour, hue, as in vaṇṇanibhā (compound member)', 'praise, reputation, in vaṇṇamacchariya (compound member)']	burmese=['အရောင်', 'ဂုဏ်သတင်း']
+  khandha	tags=['stem, trunk of a plant, in khandharaso (compound member)', 'aggregate, group of phenomena, in khandhadhātuāyatanā (compound member)']	burmese=['ပင်စည်', 'အစုအဝေး']
+  kāyassa	tags=['the physical body, or bodily (genitive sg., as in kāyassa thambhanā and imassa kāyassa ṭhitiyā)', 'the mental body, the group of mental factors (genitive sg., in kāyassa akallatā, the definition of torpor)']	burmese=['ကိုယ်', 'စိတ်၏ အဖော်', 'ကိုယ်ခန္ဓာ']
+  bhedo	tags=["breaking forth, in vacībhedo 'utterance of speech' (nominative sg.)", 'breaking up, dissolution, in the impermanence list (nominative sg.)']	burmese=['ကွဲထွက်ခြင်း', 'ကွဲခြင်း']
+  sīla	tags=["precepts and rites, in sīlabbata 'adherence to rites and rituals' (compound member)", 'virtue, moral conduct, precepts (compound member)']	burmese=['သီလ']
+  dhammassa	tags=["the Buddha's teaching, in 'unskilled in the teaching of the noble ones' (genitive sg.)", 'phenomena, states (genitive sg.)']	burmese=['တရား']
+  dhamme	tags=["the Buddha's teaching, in 'doubts about the Teacher, the teaching, the training' (locative)", 'phenomena, states, in dhamme ārabbha (accusative pl.)']	burmese=['တရားတော်', 'သဘောတရား']
+  vuṭṭhāna	tags=['rehabilitation, emerging from an offence, in āpattivuṭṭhāna (compound member)', 'emerging from a meditative attainment, in samāpattivuṭṭhāna (compound member)']	burmese=['ထမြောက်ရာ']
+  vuṭṭhānakusalatā	tags=['skill in rehabilitation from offences, in āpattivuṭṭhānakusalatā', 'skill in emerging from attainments, in samāpattivuṭṭhānakusalatā']	burmese=['ထမြောက်ရာ၌ ကျွမ်းကျင်ခြင်း']

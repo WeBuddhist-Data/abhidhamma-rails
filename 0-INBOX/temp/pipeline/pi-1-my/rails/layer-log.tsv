@@ -1,0 +1,87 @@
+file	count	old	new	reason
+my_formulas.py	1	UPPANNA = "ဖြစ်ပေါ်လာသော"	UPPANNA = "ဖြစ်ပေါ်ပြီးသော"	L01 uppannaṃ / uppannā / cittaṃ uppannaṃ / dhātu uppannā = ဖြစ်ပေါ်ပြီးသော (citta-opening formula, decision uppannaṃ|0; samuppannā stays ဖြစ်ပေါ်လာသော)
+my_formulas.py	1	CU_REL = {"sg": "ရှိသော", "pl": "ရှိကြသော"}	CU_REL = {"sg": "ရှိသော", "pl": "ရှိကြသော"}\nYO_REL = "ရှိသမျှ"	L02 Yo / Yaṃ = ရှိသမျှ: the relative of the definition list (decision Yo|0)
+my_formulas.py	1	        parts += [TASMIM, CU_REL["sg"]]\n	        parts += [TASMIM]\n	L02 Yo / Yaṃ: «ထိုအချိန်၌ ရှိသော A၊ B …» -> «ထိုအချိန်၌ A၊ B … ရှိသမျှ –»
+my_formulas.py	1	    parts.append(items_my(list_items(s[m.end():end])))\n	    parts.append(items_my(list_items(s[m.end():end])) + " " + YO_REL)\n	L02 Yo / Yaṃ = «… ရှိသမျှ» before the dash
+my_formulas.py	1	"ākāsānañcāyatana": "အဆုံး မရှိသော ကောင်းကင် နယ်ပယ်"	"ākāsānañcāyatana": "အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်"	L03 ākāsa = ဟင်းလင်းပြင်, also in the immaterial base (decision ākāsa|0)
+my_formulas.py	1	"paṭiccasamuppādakusalatā": "အကြောင်းအကျိုး ဆက်စပ်ဖြစ်ပေါ်ပုံ၌ ကျွမ်းကျင်ခြင်း"	"paṭiccasamuppādakusalatā": "အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံ၌ ကျွမ်းကျင်ခြင်း"	L04 paṭicca = အကြောင်းတို့ကို မှီ၍; paṭiccasamuppāda = «အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံ» (APPROVED.md)
+my_formulas.py	1	"Suññatavāro": f"ဆိတ်သုဉ်းကြောင်း {VARA}"	"Suññatavāro": f"ဆိတ်သုဉ်းခြင်း {VARA}"	L05 Suññata = ဆိတ်သုဉ်းခြင်း; Suññatavāro = «ဆိတ်သုဉ်းခြင်း ဖော်ပြချက်» (APPROVED.md)
+my_formulas.py	1	"samāpattivuṭṭhānakusalatā": "ဈာန်မှ ထမြောက်ရာ၌ ကျွမ်းကျင်ခြင်း"	"samāpattivuṭṭhānakusalatā": "ဈာန် ဝင်စားရာမှ ထမြောက်ရာ၌ ကျွမ်းကျင်ခြင်း"	L06 samāpatti (compound member) = ဈာန် ဝင်စားရာ, vuṭṭhānakusalatā = ထမြောက်ရာ၌ ကျွမ်းကျင်ခြင်း
+my_formulas.py	1	f"{TASMIM} ရှက်ထိုက်သည့်အရာကို ရှက်ခြင်း၊ {_PAPA} ရှက်ခြင်း"	f"{TASMIM} ရှက်ထိုက်သည့်အရာကို ရှက်ခြင်း၊ {_PAPA} ရှက်ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ (the hiri definition «Yaṃ tasmiṃ samaye hirīyati … – idaṃ»)
+my_formulas.py	1	f"{TASMIM} ကြောက်ရွံ့ထိုက်သည့်အရာကို ကြောက်ရွံ့ခြင်း၊ {_PAPA} ကြောက်ရွံ့ခြင်း"	f"{TASMIM} ကြောက်ရွံ့ထိုက်သည့်အရာကို ကြောက်ရွံ့ခြင်း၊ {_PAPA} ကြောက်ရွံ့ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ (the ottappa definition)
+my_formulas.py	1	"bahiddhā": "သူတစ်ပါး၌ ရှိသော"	"bahiddhā": "မိမိ၏ ပြင်ပ၌ ရှိသော"	L28 bahiddhā = မိမိ၏ ပြင်ပ၌ (termbase bahiddhā|1, dhammā bahiddhā, bahiddhā dhammā; user-approved 2026-11-17; B3, B5)
+my_formulas.py	1	"ajjhattabahiddhā": "မိမိ၌နှင့် သူတစ်ပါး၌ ရှိသော"	"ajjhattabahiddhā": "မိမိ၌နှင့် မိမိ၏ ပြင်ပ၌ ရှိသော"	L28 ajjhattabahiddhā = မိမိ၌နှင့် မိမိ၏ ပြင်ပ၌ ရှိသော
+my_formulas.py	1	"bahiddhārammaṇā": f"သူတစ်ပါး၌ ရှိသည်{TAKES}"	"bahiddhārammaṇā": f"မိမိ၏ ပြင်ပ၌ ရှိသည်{TAKES}"	L28 bahiddhārammaṇā = မိမိ၏ ပြင်ပ၌ ရှိသည်ကို အာရုံပြုသော
+my_formulas.py	1	"ajjhattabahiddhārammaṇā": f"မိမိ၌နှင့် သူတစ်ပါး၌ ရှိသည်{TAKES}"	"ajjhattabahiddhārammaṇā": f"မိမိ၌နှင့် မိမိ၏ ပြင်ပ၌ ရှိသည်{TAKES}"	L28 ajjhattabahiddhārammaṇā = မိမိ၌နှင့် မိမိ၏ ပြင်ပ၌ ရှိသည်ကို အာရုံပြုသော
+my_formulas.py	1	{_SATA}သည်လည်း မဟုတ်၊ နှစ်သက်ဖွယ် မကောင်းသည်လည်း မဟုတ်သော အဖြစ်	{_SATA}သည်လည်း မဟုတ် နှစ်သက်ဖွယ် မကောင်းသည်လည်း မဟုတ်သော အဖြစ်	L32 A5 cetasikaṃ neva sātaṃ nāsātaṃ: one synonym item, no «၊» inside it
+my_formulas.py	1	CITTAHETUKA = f"{MIND}ကို အမြစ်ပြုသော"	CITTAHETUKA = f"{MIND}ကို အကြောင်းပြုသော"	L36 B6 cittahetukaṃ = စိတ်ကို အကြောင်းပြုသော (caused by mind; termbase cittahetukaṃ|0, user-approved 2026-11-17)
+my_formulas.py	1	"ucchedadiṭṭhi": "အတ္တသည် သေပြီးနောက် ပြတ်စဲသွားသည်ဟူသော အယူ"	"ucchedadiṭṭhi": "အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ"	L38 B10 ucchedadiṭṭhi without the added «သေပြီးနောက်» (termbase uccheda|0, ucchedadiṭṭhi|0, user-approved 2026-11-17); the Mātikā item ^1-M2-112 and 4-03 ^1-1323 share this string
+make_ch2-02-03.py	1	    parts = [F.TASMIM, F.CU_REL["sg"]] if m["ts"] else []\n	    parts = [F.TASMIM] if m["ts"] else []\n	L02 Yo / Yaṃ = ရှိသမျှ (list closed by «, idaṃ tasmiṃ samaye», ^1-364)
+make_ch2-02-03.py	1	    parts.append(F.items_my(F.list_items(m["lst"])))\n	    parts.append(F.items_my(F.list_items(m["lst"])) + " " + F.YO_REL)\n	L02 Yo / Yaṃ = ရှိသမျှ
+make_ch2-02-03.py	1	"Catukkanayo": f"{F.JHANA} {C['catu']}{F.CL} {NAYA}", "Pañcakanayo": f"{F.JHANA} {C['pañca']}{F.CL} {NAYA}"	"Catukkanayo": f"{F.JHANA} {C['catu']}{F.CL} ခွဲနည်း", "Pañcakanayo": f"{F.JHANA} {C['pañca']}{F.CL} ခွဲနည်း"	L07 Catukkanayo / Pañcakanayo = ဈာန် လေးပါး / ငါးပါး ခွဲနည်း (nayo = ခွဲနည်း)
+make_ch2-04-05.py	1	AKASA = "အဆုံးမရှိသော ကောင်းကင် နယ်ပယ်"	AKASA = "အဆုံးမရှိသော ဟင်းလင်းပြင် နယ်ပယ်"	L03 ākāsa = ဟင်းလင်းပြင်
+make_ch2-04-05.py	1	"Suddhikaappaṇihitaṃ": f"{PANIHITA} မရှိခြင်း {SUDDHIKA}"	"Suddhikaappaṇihitaṃ": f"{PANIHITA} မရှိသော ဈာန် {SUDDHIKA}"	L08 Suddhikaappaṇihitaṃ = တောင့်တမှု မရှိသော ဈာန် သက်သက်
+make_ch2-04-05.py	1	{_PAPA} မရှက်ခြင်း",	{_PAPA} မရှက်ခြင်း ရှိသမျှ",	L02 Yaṃ = ရှိသမျှ (ahirika definition)
+make_ch2-04-05.py	1	{_PAPA} မကြောက်ရွံ့ခြင်း",	{_PAPA} မကြောက်ရွံ့ခြင်း ရှိသမျှ",	L02 Yaṃ = ရှိသမျှ (anottappa definition)
+make_ch2-04-05.py	1	"byāpajjanā": "ညှဉ်းဆဲလိုခြင်း", "byāpajjitattaṃ": "ညှဉ်းဆဲလိုသော အဖြစ်"	"byāpajjanā": "ဖောက်ပြန်နေခြင်း", "byāpajjitattaṃ": "ဖောက်ပြန်ထားသော အဖြစ်"	L37 B7 byāpatti / byāpajjanā / byāpajjitattaṃ on one stem (termbase byāpatti ဖောက်ပြန်ခြင်း, byāpajjanā|0 ဖောက်ပြန်နေခြင်း, user-approved 2026-11-17)
+make_ch2-04-05.py	1	"Abyākatavipāko": f"{ABY} {VIPAKA_N}"	"Abyākatavipāko": f"{VIPAKA_ATTR} {ABY} {DHAMMA}"	L29 A1 Abyākatavipāko = ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ်၊ အကုသိုလ်လည်း မဟုတ်သော သဘောတရား (the result is abyākata; as ^1-565 Vipākā abyākatā)
+make_ch2-04-05.py	1	"Akusalavipākaabyākataṃ": f"{ABY} {T['akusalā']}{KAMMA}၏ အကျိုး"	"Akusalavipākaabyākataṃ": f"{_AKV} {ABY} {DHAMMA}"	L29 A2 Akusalavipākaabyākataṃ = အကုသိုလ်ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ်၊ … သဘောတရား
+make_ch2-04-05.py	1	"Aṭṭhamahāvipākā": f"ကြီးကျယ်သော {VIPAKA_N} {F.NUM['aṭṭha']}{F.CL}"	"Aṭṭhamahāvipākā": f"{KAMMA}၏ ကြီးကျယ်သော အကျိုး {F.NUM['aṭṭha']}{F.CL}"	L30 A3 Aṭṭhamahāvipākā = ကံ၏ ကြီးကျယ်သော အကျိုး ရှစ်ပါး (mahā qualifies vipāka)
+make_ch2-04-05.py	1	"Suddhikasuññataṃ": f"{SUNNATA}ခြင်း {SUDDHIKA}"	"Suddhikasuññataṃ": f"{SUNNATA}သော ဈာန် {SUDDHIKA}"	L31 A4 Suddhikasuññataṃ = ဆိတ်သုဉ်းသော ဈာန် သက်သက် (as Suññataṃ ^1-344, Suddhikaappaṇihitaṃ ^1-522)
+make_ch2-04-05.py	1	"Chandādhipateyyasuddhikasuññatā": f"ဆန္ဒ{ADHIPATI}သော {SUNNATA}ခြင်း {SUDDHIKA}"	"Chandādhipateyyasuddhikasuññatā": f"ဆန္ဒ{ADHIPATI}သော {SUNNATA}သော ဈာန် {SUDDHIKA}"	L31 A4 Chandādhipateyyasuddhikasuññatā = ဆန္ဒကို အကြီးအမှူးပြုသော ဆိတ်သုဉ်းသော ဈာန် သက်သက်
+make_ch3.py	1	"indriyānaṃ paripāko": f"{F.INDRIYA}တို့ ရင့်ရော်ခြင်း"	"indriyānaṃ paripāko": "အာရုံခံ အင်္ဂါတို့ ရင့်ရော်ခြင်း"	L09 indriyānaṃ = အာရုံခံ အင်္ဂါ (decision: «in the ageing definition the sense organs decline»)
+make_ch3.py	1	f"{AYATANA}တို့၏ စုပုံခြင်း{C} ထိုအရာသည်	f"{AYATANA}တို့၏ စုပုံခြင်း ရှိသမျှ{C} ထိုအရာသည်	L02 Yo = ရှိသမျှ («Yo āyatanānaṃ ācayo, so …»)
+make_ch3.py	1	f"{NOUN['rūpassa upacayo']}{C} ထိုအရာသည်	f"{NOUN['rūpassa upacayo']} ရှိသမျှ{C} ထိုအရာသည်	L02 Yo = ရှိသမျှ («Yo rūpassa upacayo, sā …»)
+make_ch3.py	1	    return f"{F.items_my(F.list_items(m['l']))}{C} {TAIL}"\n	    return f"{F.items_my(F.list_items(m['l']))} ရှိသမျှ{C} {TAIL}"\n	L02 Yaṃ = ရှိသမျှ (the element definitions «Yaṃ kakkhaḷaṃ … ajjhattaṃ vā bahiddhā vā … –»)
+make_ch3.py	1	    return f"{CITTA3} {F.items_my(F.list_items(m['l']))}"\n	    return f"{CITTA3} {F.items_my(F.list_items(m['l']))} ရှိသမျှ"\n	L02 Yā (same definition formula as Yo / Yaṃ) = ရှိသမျှ (vācā list)
+make_ch3.py	1	CITTAJA, CITTAHETU = f"{F.MIND}မှ မွေးဖွားသော", f"{F.MIND}ကို အမြစ်ပြုသော"	CITTAJA, CITTAHETU = f"{F.MIND}မှ မွေးဖွားသော", f"{F.MIND}ကို အကြောင်းပြုသော"	L36 B6 cittahetuka = စိတ်ကို အကြောင်းပြုသော in the Rūpakaṇḍa (and its negative via no_)
+make_ch3.py	1	def r_cause_other(m):\n    return f"{CAUSE[m['q']]} အခြား {RUPA} ရှိသမျှလည်း"\n	def r_cause_other(m):\n    return f"{CAUSE[m['q']]} အခြား {RUPA} ရှိသမျှလည်း"\n\n\ndef r_cause_other_list(m):\n    return f"{CAUSE[m['q']]} အခြား {RUPA} ရှိသမျှ ဖြစ်သည့်"\n	L35 B11 «yaṃ vā panaññampi atthi rūpaṃ CAUSE» + list: «… အခြား ရုပ် ရှိသမျှ ဖြစ်သည့် LIST» (the frame)
+make_ch3.py	1	    (rf"yaṃ vā panaññampi atthi rūpaṃ (?P<q>{_alt(CAUSE)})", r_cause_other),\n	    (rf"yaṃ vā panaññampi atthi rūpaṃ (?P<q>{_alt(CAUSE)})(?= [a-zāīūṃṅñṭḍṇḷ])", r_cause_other_list),\n    (rf"yaṃ vā panaññampi atthi rūpaṃ (?P<q>{_alt(CAUSE)})", r_cause_other),\n	L35 B11 the list follows directly (a space and a list item, no «,» / «–» in the Pāli): linked with «ဖြစ်သည့်»
+make_ch4.py	1	KAMMA_KATATTA = "ကံကို ပြုခဲ့ခြင်းကြောင့်"	KAMMA_KATATTA = "ပြုခဲ့သော ကံကြောင့်"	L10 kammassa katattā = ပြုခဲ့သော ကံကြောင့် (decision, 3-0x form)
+make_ch4.py	1	"vibhavataṇhā": f"{BHAVA} ပြတ်စဲခြင်းကို တပ်မက်မှု"	"vibhavataṇhā": f"{BHAVA} ပျောက်ကွယ်ခြင်းကို တပ်မက်မှု"	L11 vibhava = ဘဝ ပျောက်ကွယ်ခြင်း (APPROVED.md)
+make_ch4.py	1	"Kusalānaṃ vā dhammānaṃ vipākato": f"{KUS} {DH}တို့၏ အကျိုး အဖြစ်ဖြင့်ဖြစ်စေ"	"Kusalānaṃ vā dhammānaṃ vipākato": f"{KUS} {DH}တို့၏ အကျိုး ဖြစ်သော စိတ်၌ဖြစ်စေ"	L12 vipākato = အကျိုး ဖြစ်သော စိတ် (decision: fits after a genitive)
+make_ch4.py	1	"Kusalānaṃ dhammānaṃ vipākato": f"{KUS} {DH}တို့၏ အကျိုး အဖြစ်ဖြင့်"	"Kusalānaṃ dhammānaṃ vipākato": f"{KUS} {DH}တို့၏ အကျိုး ဖြစ်သော စိတ်၌"	L12 vipākato = အကျိုး ဖြစ်သော စိတ်
+make_ch4.py	1	_VIT = {"kāyiko": "ကိုယ်ဖြင့်", "vācasiko": "နှုတ်ဖြင့်", "kāyikavācasiko": "ကိုယ်နှင့် နှုတ်ဖြင့်"}	_VIT = {"kāyiko": "ကိုယ်ပိုင်းဆိုင်ရာ", "vācasiko": "နှုတ်ပိုင်းဆိုင်ရာ", "kāyikavācasiko": "ကိုယ်ပိုင်းဆိုင်ရာနှင့် နှုတ်ပိုင်းဆိုင်ရာ"}	L13 kāyiko = ကိုယ်ပိုင်းဆိုင်ရာ, vācasiko = နှုတ်ပိုင်းဆိုင်ရာ
+make_ch4.py	1	ဒေါသနှင့် နီးစပ်သော	အမျက်ဒေါသနှင့် နီးစပ်သော	L14 kodha = အမျက်ဒေါသ (kodhasāmantā)
+make_ch4.py	1	နားဝင်ချိုသော	နား သာယာသော	L15 sukhā = သာယာသော (decision: kaṇṇasukhā «နား သာယာသော»)
+make_ch4.py	1	နှလုံးသို့ ရောက်သော	နှလုံးသားသို့ ရောက်သော	L16 hadaya = နှလုံးသား (hadayaṅgamā)
+make_ch4.py	1	"bhiyyokamyatā": "ပိုမို လိုလားခြင်း"	"bhiyyokamyatā": "ပိုမို လိုချင်ခြင်း"	L17 kamyatā = လိုချင်ခြင်း (compound final)
+make_ch4.py	1	num('သိမြင်ခြင်း၏ အင်္ဂါ', 'satta')	num('ဗောဇ္ဈင်', 'satta')	L18 bojjhaṅgā = ဗောဇ္ဈင်
+make_ch4.py	1	ဟူသော သိမြင်ခြင်း၏ အင်္ဂါ"	ဟူသော ဗောဇ္ဈင်"	L18 sambojjhaṅgo = ဗောဇ္ဈင်
+make_ch4.py	1	"Saṃvegoti": F.SAMVEGA + _TI	"Saṃvegoti": F.SAMVEGA + " ရခြင်း" + _TI	L19 Saṃvego = သံဝေဂ ရခြင်း (as the Mātikā item)
+make_ch4.py	1	{DH}တို့ မဖြစ်ပေါ်စေရန်	{DH}တို့ မဖြစ်ပေါ်ရန်	L20 anuppādāya = မဖြစ်ပေါ်ရန် (not a causative)
+make_ch4.py	1	{DH}တို့ ဖြစ်ပေါ်စေရန်	{DH}တို့ ဖြစ်ပေါ်ရန်	L20 uppādāya = ဖြစ်ပေါ်ရန် (not a causative)
+make_ch4.py	1	ရှေးဘဝများကို အောက်မေ့နိုင်သော ဉာဏ်	ရှေးဘဝများကို အဖန်ဖန် အောက်မေ့နိုင်သော ဉာဏ်	L21 anussati = အဖန်ဖန် အောက်မေ့ခြင်း (pubbenivāsānussati)
+make_ch4.py	1	"Yo eva so dhammo appaccayo": f"အကြင် {DH}သည် {pred(T['appaccayā'], False)}"	"Yo eva so dhammo appaccayo": f"{T['appaccayā']} {DH} ရှိသမျှ"	L02 Yo = ရှိသမျှ
+make_ch4.py	1	"samuppannā": "ကောင်းစွာ ဖြစ်ပေါ်ပြီးသော"	"samuppannā": "ဖြစ်ပေါ်လာသော"	L22 samuppannā = ဖြစ်ပေါ်လာသော (kept apart from uppannā in the arisen-states list, decision samuppannā)
+make_ch4.py	1	"asamuppannā": "ကောင်းစွာ မဖြစ်ပေါ်သေးသော"	"asamuppannā": "မဖြစ်ပေါ်လာသေးသော"	L22 asamuppannā: the not-arisen list builds «မ…သေးသော» from the positive (now ဖြစ်ပေါ်လာသော)
+make_ch4.py	1	    return g + F.items_my(F.list_items(m["list"].replace(",", "")))\n	    return g + F.items_my(F.list_items(m["list"].replace(",", ""))) + " " + F.YO_REL\n	L02 Yo / Yaṃ = «… ရှိသမျှ» (Nikkhepa definition lists)
+make_ch4.py	1	    ph({f"{_y}{_k} avītikkamo": f"{_v} မကျူးလွန်ခြင်း", f"{_y}{_k} vītikkamo": f"{_v} ကျူးလွန်ခြင်း"})\n	    _r = " ရှိသမျှ" if _k == "kāyikavācasiko" else ""\n    ph({f"{_y}{_k} avītikkamo": f"{_v} မကျူးလွန်ခြင်း{_r}", f"{_y}{_k} vītikkamo": f"{_v} ကျူးလွန်ခြင်း{_r}"})\n	L02 Yo = ရှိသမျှ («Yo kāyiko …, vācasiko …, kāyikavācasiko … –»: before the dash)
+make_ch4.py	1	"na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} မရှက်ခြင်း"	"na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} မရှက်ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ («Yaṃ na hirīyati …, na hirīyati … –»)
+make_ch4.py	1	"na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} မကြောက်ရွံ့ခြင်း"	"na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} မကြောက်ရွံ့ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ
+make_ch4.py	1	"hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} ရှက်ခြင်း"	"hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} ရှက်ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ (as the 2-01 BODY; the assert of make_ch4 still holds)
+make_ch4.py	1	"ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} ကြောက်ရွံ့ခြင်း"	"ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā": f"{_PAPA} ကြောက်ရွံ့ခြင်း ရှိသမျှ"	L02 Yaṃ = ရှိသမျှ
+make_ch4.py	1	"yañca rūpaṃ kammassa katattā uppajjissati": f"{KAMMA_KATATTA} ဖြစ်ပေါ်လာမည့် ရုပ်လည်း"	"yañca rūpaṃ kammassa katattā uppajjissati": f"{KAMMA_KATATTA} ဖြစ်ပေါ်လာမည့် ရုပ် ရှိသမျှလည်း"	L02 yañca = ရှိသမျှ (as the other «yañca rūpaṃ …» items «… ရုပ် ရှိသမျှလည်း»)
+make_ch4.py	1	"sineho": "ချစ်ခင်ခြင်း"	"sineho": "ချစ်ခင်မှု"	L26 sineho = ချစ်ခင်မှု (decision: same nominaliser as nandī / mucchā of the kāma lists)
+make_ch4.py	1	"mucchā": "မိန်းမောခြင်း"	"mucchā": "မိန်းမောမှု"	L26 mucchā = မိန်းမောမှု (decision)
+make_ch4.py	1	"santuṭṭhitā": "ရောင့်ရဲခြင်း"	"santuṭṭhitā": "ရောင့်ရဲမှု"	L26 santuṭṭhitā = ရောင့်ရဲမှု (decision, as the Mātikā asantuṭṭhitā «ရောင့်ရဲမှု မရှိခြင်း»)
+make_ch4.py	1	ကိုယ်ဆင်းရဲခြင်း၊ စိတ်ဆင်းရဲခြင်း၊ 	ကိုယ်ဆင်းရဲခြင်း၊ စိတ်ဆင်းရဲမှု၊ 	L27 domanassa = စိတ်ဆင်းရဲမှု (decision, 29 of 30; sokaparidevadukkhadomanassupāyāsā)
+make_ch4.py	1	{SYN['abhijjhā']}၊ စိတ်ဆင်းရဲခြင်း ဟူသော 	{SYN['abhijjhā']}၊ စိတ်ဆင်းရဲမှု ဟူသော 	L27 domanassā / abhijjhādomanassā = … စိတ်ဆင်းရဲမှု (re-alignment)
+make_ch4.py	1	"byāpajjanā": "ညှဉ်းဆဲလိုခြင်း",	"byāpajjanā": "ဖောက်ပြန်နေခြင်း",	L37 B7 byāpajjanā = ဖောက်ပြန်နေခြင်း
+make_ch4.py	1	"byāpajjitattaṃ": "ညှဉ်းဆဲလိုသော အဖြစ်",	"byāpajjitattaṃ": "ဖောက်ပြန်ထားသော အဖြစ်",	L37 B7 byāpajjitattaṃ = ဖောက်ပြန်ထားသော အဖြစ်
+make_ch4.py	1	"Dasa kilesavatthūni": num(f"{F.KIL} ဖြစ်ရာ အခြေခံ", "dasa")	"Dasa kilesavatthūni": num(f"{F.KIL} အခြေခံ", "dasa")	L33 B4 Dasa kilesavatthūni = ကိလေသာ အခြေခံ ဆယ်ပါး (termbase vatthūni = အခြေခံ; as ^1-1565)
+make_ch4.py	1	"kusalābyākatā dhammā": f"{KUS}နှင့် {ABY} {DHP}"	"kusalābyākatā dhammā": f"{KUS} သဘောတရားနှင့် {ABY} {DHP}"	L34 B9 kusalābyākatā dhammā = ကုသိုလ် သဘောတရားနှင့် ကုသိုလ်လည်း မဟုတ်၊ …
+make_ch4.py	1	"kusalākusalābyākatā dhammā": f"{KUS}၊ {AKUS}နှင့် {ABY} {DHP}"	"kusalākusalābyākatā dhammā": f"{KUS}၊ {AKUS} သဘောတရားနှင့် {ABY} {DHP}"	L34 B9 kusalākusalābyākatā dhammā = ကုသိုလ်၊ အကုသိုလ် သဘောတရားနှင့် ကုသိုလ်လည်း မဟုတ်၊ …
+make_ch4.py	1	{T['cittasamuṭṭhānā']} အခြား ရုပ် ရှိသမျှလည်း"})	{T['cittasamuṭṭhānā']} အခြား ရုပ် ရှိသမျှ ဖြစ်သည့်"})	L35 B11 «yaṃ vā panaññampi atthi rūpaṃ cittajaṃ …» + list (^1-1201)
+make_ch5.py	1	ETTH = new("etthuppanna (arisen therein)", "ထိုတို့၌ ဖြစ်ပေါ်သော")	ETTH = new("etthuppanna (arisen therein)", "ထိုတို့၌ ဖြစ်ပေါ်ပြီးသော")	L01 uppanne / uppannaṃ vicāraṃ / uppanne hetū = ဖြစ်ပေါ်ပြီးသော
+make_ch5.py	1	"ဖြစ်ပေါ်သော")\nAVAS	"ဖြစ်ပေါ်ပြီးသော")\nAVAS	L01 uppanno = ဖြစ်ပေါ်ပြီးသော
+make_ch5.py	1	"kusalato ca vipākato ca kiriyato ca": f"{T['kusalā']}{AS}{F.COMMA} ကံ၏ အကျိုး{AS}{F.COMMA} {KIR_STEM}{AS}"	"kusalato ca vipākato ca kiriyato ca": f"{KUS}{AMONG}{CA}ကောင်း{F.COMMA} အကျိုး ဖြစ်သော {MIND}{AMONG}{CA}ကောင်း{F.COMMA} {KIR}{AMONG}{CA}ကောင်း"	L23 kusalato = ကုသိုလ်စိတ်; vipākato ca kiriyato = «အကျိုး ဖြစ်သော စိတ်အနက်လည်းကောင်း ပြုရုံမျှသာ ဖြစ်သော စိတ်အနက်လည်းကောင်း» (decision)
+make_ch5.py	1	"kusalato ca vipākato ca": f"{T['kusalā']}{AS}{F.COMMA} ကံ၏ အကျိုး{AS}"	"kusalato ca vipākato ca": f"{KUS}{AMONG}{CA}ကောင်း{F.COMMA} အကျိုး ဖြစ်သော {MIND}{AMONG}{CA}ကောင်း"	L23 kusalato / vipākato
+make_ch5.py	1	"kusalato ca kiriyato ca": f"{T['kusalā']}{AS}{F.COMMA} {KIR_STEM}{AS}"	"kusalato ca kiriyato ca": f"{KUS}{AMONG}{CA}ကောင်း{F.COMMA} {KIR}{AMONG}{CA}ကောင်း"	L23 kusalato / kiriyato
+make_ch5.py	1	"rūpañca nibbānañca": f"{RUP}နှင့် {NIB}"	"rūpañca nibbānañca": f"{RUP}{CA} {NIB}{CA}"	L24 rūpañca nibbānañca = ရုပ်လည်း နိဗ္ဗာန်လည်း (decision, 45 of 47)
+make_ch5.py	1	ကံကို ပြုခဲ့ခြင်းကြောင့် ဖြစ်သော {RUP}	ပြုခဲ့သော ကံကြောင့် ဖြစ်သော {RUP}	L10 kammassa katattā = ပြုခဲ့သော ကံကြောင့်
+make_ch5.py	1	ကံကို ပြုခဲ့ခြင်းကြောင့် ဖြစ်သည် မဟုတ်သော {RUP}	ပြုခဲ့သော ကံကြောင့် ဖြစ်သည် မဟုတ်သော {RUP}	L10 kammassa katattā = ပြုခဲ့သော ကံကြောင့်
+make_ch5.py	1	_HETU = {"kusala": f"{T['kusalā']}၏ {ROOT}"	_HETU = {"kusala": f"{T['kusalā']} {ROOT}"	L25 kusalahetu = ကုသိုလ် အမြစ် (decision kusalahetū)
+make_ch5.py	1	"kusalahetū": f"{T['kusalā']}၏ {ROOT}", "akusalahetū": f"{T['akusalā']}၏ {ROOT}"	"kusalahetū": f"{T['kusalā']} {ROOT}", "akusalahetū": f"{T['akusalā']} {ROOT}"	L25 kusalahetū / akusalahetū = ကုသိုလ် / အကုသိုလ် အမြစ် (as 4-01)
+make_ch5.py	1	"abyākatahetū": f"{ABY} {DH}တို့၏ {ROOT}"	"abyākatahetū": f"{ABY} {ROOT}"	L25 abyākatahetū = «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အမြစ်» (as 4-01)
+make_ch5.py	1	f"{T['kusalā']}နှင့် {ABY}{F.COMMA} {RUPA} {DHS}	f"{T['kusalā']} သဘောတရားနှင့် {ABY}{F.COMMA} {RUPA} {DHS}	L34 B9 kusalābyākatā (^1-1418) = ကုသိုလ် သဘောတရားနှင့် ကုသိုလ်လည်း မဟုတ်၊ …

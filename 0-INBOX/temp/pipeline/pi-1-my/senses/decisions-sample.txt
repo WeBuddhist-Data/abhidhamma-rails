@@ -1,0 +1,84 @@
+# Pāli→Burmese pi-1 sense decisions, written by gen_decisions_my.py from agg-sample.tsv
+# English tags: Marathi pi-1 senses (tags only) or MANUAL; values: Burmese keyword map only.
+Abhidhamma: {the higher teaching, first member of the Piṭaka name: အဘိဓမ္မာ}
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+saṅgaṇī: {listing, second member of the book title: စုစည်းရေတွက်ခြင်း}
+Dhammasaṅgaṇī: {title of the first Abhidhamma book: သဘောတရားများကို စုစည်းရေတွက်ခြင်း}
+Dhamma: {phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what the mind as sixth sense knows (as in dhammāyatana): သဘောတရား; the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra: တရား}
+sahagataṃ: {accompanied by, compound final (neuter sg. participle): အတူ ဖြစ်သော}
+somanassasahagataṃ: {accompanied by joy, said of the mind (neuter sg.): ဝမ်းမြောက်မှုနှင့်အတူ ဖြစ်သော}
+vitakko: {initial application of mind to the object (nominative sg.): စတင်ကြံစည်မှု}
+uppannaṃ: {come into being (neuter sg. participle): ဖြစ်ပေါ်လာသော / ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ပြီးသော}
+samuppannā arūpino: {arisen immaterial (states), in the closing 'whatever others' formula: ဖြစ်ပေါ်လာသော ရုပ် မဟုတ်သော}
+samuppannā arūpino dhammā: {'arisen immaterial phenomena', the closing 'whatever others' formula (nominative pl.): ဖြစ်ပေါ်လာသော ရုပ် မဟုတ်သော … သဘောတရား}
+sampayuttaṃ: {conjoined with, compound final (neuter sg. participle): ယှဉ်တွဲသော}
+sampajaññaṃ: {clear comprehension, alert understanding (nominative sg.): ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း}
+kāya: {the physical body, or bodily (compound member, as in kāyaviññāṇa and kāyakamma): ကိုယ်; the mental body, the group of mental factors (in kāyapassaddhi and similar): စိတ်၏ အဖော်တို့}
+samatho: {calm, tranquillity of mind (nominative sg.): စိတ်ငြိမ်သက်ခြင်း}
+samādhi: {concentration, mental composure (stem and nominative): သမာဓိ}
+phasso: {sense contact, the meeting of sense, object and consciousness (nominative sg.): တွေ့ထိမှု}
+paṭicca: {dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition: အကြောင်းတို့ကို မှီ၍ / အကြောင်းအကျိုး ဆက်စပ်}
+paṭiccasamuppannā: {arisen in dependence on conditions (nominative pl. participle): အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော}
+paṭiccasamuppannā arūpino: {dependently arisen immaterial (states), in the closing formula: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော ရုပ် မဟုတ်သော}
+vāyāmo: {effort, as a path factor (nominative sg.): အားထုတ်မှု}
+paggāho: {exertion, upholding of the mind (nominative sg.): စိတ်ကို မြှင့်တင်ခြင်း}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya): စွမ်းရည်}
+samādhindriyaṃ: {the controlling faculty of concentration (nominative sg.): သမာဓိ၏ စွမ်းရည်}
+vīriyindriyaṃ: {the controlling faculty of energy (nominative sg.): ဝီရိယ၏ စွမ်းရည်}
+saddhindriyaṃ: {the controlling faculty of faith (nominative sg.): ယုံကြည်မှု၏ စွမ်းရည်}
+somanassindriyaṃ: {the controlling faculty of joy (nominative sg.): ဝမ်းမြောက်မှု၏ စွမ်းရည်}
+jīvitindriyaṃ: {the life faculty (nominative sg.): အသက်၏ စွမ်းရည်}
+manindriyaṃ: {the controlling faculty of mind, one of the twenty-two, the same word also naming the mind as a sense faculty to be guarded in the restraint passage (nominative sg.): မနော၏ စွမ်းရည်}
+satindriyaṃ: {the controlling faculty of mindfulness (nominative sg.): သတိ၏ စွမ်းရည်}
+paññindriyaṃ: {the controlling faculty of wisdom (nominative sg.): ပညာ၏ စွမ်းရည်}
+saddhā: {faith, confidence (nominative sg.), also as an adjective, having faith (of persons, in the good-friendship definition): ယုံကြည်မှု / ယုံကြည်မှု ရှိသော}
+ottappa: {moral dread, fear of wrongdoing (compound member): ဒုစရိုက်ကို ကြောက်ရွံ့မှု}
+vedanā: {feeling, the affective tone of experience (nominative sg.): ခံစားမှု}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter: သိမ်မွေ့သော ရုပ်; visible form, the object of the eye (compound member, as in rūpārammaṇa): အဆင်းအရောင်; matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha): ရုပ်}
+sukhaṃ: {pleasure, happiness, or pleasant (neuter sg.): သာယာမှု}
+arūpino: {without material form (nominative pl.): ရုပ် မဟုတ်သော}
+arūpino dhammā: {immaterial phenomena (nominative pl.): ရုပ် မဟုတ်သော … သဘောတရား / ရုပ် မဟုတ်သော သဘောတရား}
+vipassanā: {insight, clear seeing (nominative sg.): ထိုးထွင်းသိမြင်ခြင်း}
+cetanā: {intention, volition (nominative sg.): စေ့ဆော်မှု}
+somanassa: {joy, mental pleasure (compound member): ဝမ်းမြောက်မှု}
+ñāṇa: {knowledge, in ñāṇasampayutta (compound member): ဉာဏ်}
+jīvita: {life, vitality (compound member): အသက်}
+lahutā: {lightness, buoyancy (nominative sg.): ပေါ့ပါးခြင်း}
+cittalahutā: {lightness of the mind (nominative sg.): စိတ် ပေါ့ပါးခြင်း}
+cittaṃ: {mind, a state or type of mind (nominative/accusative sg.): စိတ်}
+mana: {mind, as stem in manindriya and similar compounds: မနော}
+sati: {mindfulness, alert presence of mind (nominative sg.): သတိ}
+hiri: {moral shame, conscience (compound member): ဒုစရိုက်ကို ရှက်မှု}
+anabhijjhā: {absence of covetousness (nominative sg.): သူ့ဥစ္စာကို မလိုချင်ခြင်း}
+amoho: {absence of delusion (nominative sg.): မောဟ မရှိခြင်း}
+avikkhepo: {absence of distraction, non-wavering (nominative sg.): စိတ် မပျံ့လွင့်ခြင်း}
+alobho: {absence of greed (nominative sg.): လောဘ မရှိခြင်း}
+adoso: {absence of hatred (nominative sg.): ဒေါသ မရှိခြင်း}
+abyāpādo: {absence of ill will (nominative sg.): ဖျက်ဆီးလိုစိတ် မရှိခြင်း}
+ārammaṇaṃ: {object of the mind, what the mind takes up (noun, nominative/accusative sg.): အာရုံ}
+ekaggatā: {one-pointedness, unification (nominative sg.): စူးစိုက်မှု}
+cittassekaggatā: {one-pointedness of the mind (nominative sg.): စိတ်၏ စူးစိုက်မှု}
+saññā: {perception, recognition (nominative sg.): မှတ်သိမှု}
+mudutā: {pliancy, softness (nominative sg.): ပျော့ပျောင်းခြင်း}
+cittamudutā: {pliancy of the mind (nominative sg.): စိတ် ပျော့ပျောင်းခြင်း}
+balaṃ: {power, strength as a mental force (nominative sg.): စွမ်းအား}
+samādhibalaṃ: {the power of concentration (nominative sg.): သမာဓိ၏ စွမ်းအား}
+vīriyabalaṃ: {the power of energy (nominative sg.): ဝီရိယ၏ စွမ်းအား}
+saddhābalaṃ: {the power of faith (nominative sg.): ယုံကြည်မှု၏ စွမ်းအား}
+ottappabalaṃ: {the power of moral dread (nominative sg.): ဒုစရိုက်ကို ကြောက်ရွံ့မှု၏ စွမ်းအား}
+satibalaṃ: {the power of mindfulness (nominative sg.): သတိ၏ စွမ်းအား}
+hiribalaṃ: {the power of moral shame (nominative sg.): ဒုစရိုက်ကို ရှက်မှု၏ စွမ်းအား}
+paññābalaṃ: {the power of wisdom (nominative sg.): ပညာ၏ စွမ်းအား}
+pāguññatā: {proficiency, competence (nominative sg.): ကျင့်သားရခြင်း}
+cittapāguññatā: {proficiency of the mind (nominative sg.): စိတ် ကျင့်သားရခြင်း}
+pīti: {rapture, joyful interest (nominative sg.): ပီတိ}
+sammā: {right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā): မှန်ကန်သော / မှန်ကန်စွာ; perfectly, in sammāsambuddha (title line): အပြည့်အဝ}
+kāma: {sensual pleasure, the sense sphere (compound member, as in kāmāvacara): ကာမ}
+kāmāvacaraṃ: {belonging to the sense sphere (neuter sg.): ကာမဘုံနှင့် ဆိုင်သော}
+gandha: {smell, odour as object (compound member): အနံ့}
+sadda: {sound as object (compound member): အသံ}
+avacaraṃ: {belonging to a sphere, compound final (neuter sg.): ဘုံနှင့် ဆိုင်သော}
+vicāro: {sustained examination of the object (nominative sg.): ဆက်လက်သုံးသပ်မှု}
+ārabbha: {taking as object, with regard to (absolutive): အာရုံပြု၍}
+rasa: {taste, flavour as object (compound member): အရသာ}
+saṅkappo: {intention, thought as a path factor (nominative sg.): ကြံစည်မှု}

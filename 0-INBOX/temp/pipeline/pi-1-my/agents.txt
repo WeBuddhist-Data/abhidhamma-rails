@@ -1,0 +1,41 @@
+2026-11-16 pi-1 Burmese (Dhammasaṅgaṇī, သဘောတရားများကို စုစည်းရေတွက်ခြင်း) started.
+zs sample DONE (preamble 3, 1-matika 181 seg); user APPROVED the sample terms (burmese-style.md updated).
+zs 2-01 DONE (164 seg, 195 lines; my_formulas.py extended additively; terms section «Cittuppāda (2-01)»). Usage 16% / weekly 14%.
+zs parallel started: 2-02,2-03 | 2-04,2-05 | 3-01..03 | 4-01..03 | 5  (brief: burmese-zeroshot-brief.md). User cap: stay under 80% usage.
+zs 2-02,2-03 DONE (143+96 seg; checks OK)
+zs 2-04,2-05 DONE (149+99 seg; checks OK). Drift to harmonise: uddhacca, abhiññā, bahiddhā
+zs 5 DONE (249 seg; checks OK)
+zs 3-01..03 DONE (29+151+250 seg; checks OK). Drift: kiriyā ပြုလုပ်ရုံမျှသာ vs ပြုရုံမျှသာ
+zs 4-01..03 DONE (179+155+82 seg). ALL 14 pi-1 Burmese zero-shot files written.
+harmonise started (brief harmonise-brief.md, todo harmonise-todo.md). Usage 48% / weekly 18%.
+harmonise DONE (91 items aligned, 1009 uses, 475 lines in 12 files; align_check 51 -> 0, align_hidden 0 -> 0; all checks pass; regen_zeroshot.sh twice: no byte changed). Not committed.
+harmonise DONE (91 items, 475 lines; align 51->0; regen stable). Merged zero-shot: AI_translation/burmese/pi-1-burmese-plain-zeroshot.md
+2026-11-17 mapper: keywords split (1916 lines, 14 files) into pi-1-my/mapper-my/; sample (preamble + 1-matika) started. Usage 0% / weekly 19%.
+mapper sample DONE (preamble 3, 1-matika 181; bad [], presence 0 fail, 25 rule-matched exceptions, 0 no-equivalent). Waiting for user review of dictionary-form rules.
+user APPROVED mapper sample rules (2026-11-17). mapper parallel started: 2-01 | 2-02,03 | 2-04,05 | 3-01..03 | 4-01..03 | 5. Usage 4% / weekly 20%.
+2026-11-17 user asked to keep the copyrighted Religious Affairs translation as a post-translation reference: stored git-excluded at 0-INBOX/temp/language-priority/burmese-religious-affairs/ (Pp first printed 1963). mapper 2-01 DONE (164 lines, bad [], 101 no-equivalent = relative pronouns).
+mapper 3-01..03 DONE (21+151+244; bad []). To settle at the end: rūpa «ရုပ် / အဆင်းအရောင်» alternatives (27).
+mapper 5 DONE (249; bad []; 1 no-equivalent).
+mapper 2-02,2-03 DONE (143+96; bad []). To settle: «samaye X» = «အချိန်၌ ရှိသော X» (2-01, 2-02/03) vs «အချိန်၌ … X» (2-04/05).
+mapper 2-04,2-05 DONE (149+99; bad []). Absolutives differ: 2-01/2-04/05 «…၍» vs 2-02/03 (agent says it switched to ၍; verify).
+mapper 4-01..03 DONE (179+155+82; bad []). ALL 14 mapped. Scan: 2647 kw, 107 with >1 value. map-harmonise + assemble started. Usage 31% / weekly 23%.
+map-harmonise DONE (181 values changed; alternatives 31->0; scan 104->95 kept with reasons). Assembled AI_translation/burmese/pi-1-keywords-by-reference-pali-burmese-plain.md (1916 lines). Translation-level differences noted for rails step: Suññata/Appaṇihita headings, kusala hetu wording, kilesavatthu.
+2026-11-17 senses: agg-part1.tsv prepared (2485 headwords, 4 NDE-only omitted); sample (first 82 headwords) started; English tags from the Marathi pi-1 senses.
+senses sample DONE (82 hw, VERIFY OK, 4 multi-sense). Waiting for user review.
+user APPROVED senses sample (2026-11-17). senses full run (2485 hw) started. Usage 39% / weekly 24%.
+senses full DONE (2485 hw, 2520 senses, 32 multi-sense, 67 multi-candidate; VERIFY OK). Output AI_translation/burmese/pi-1-pali-word-burmese-senses-plain.md.
+termbase build started (brief burmese-termbase-brief.md; 67 multi-candidate senses + family alignment). Needs explicit user approval before lock.
+termbase DRAFT built (2485 hw, 2520 senses, 67 decided, 26 aligned, 1 outside; no errors). Awaiting user approval.
+user APPROVED termbase with 2 rules (proper names; nāma-rūpa pair) 2026-11-17 -> LOCKED (termbase/APPROVED.md, burmese-style.md).
+rails started (brief burmese-rails-brief.md; output AI_translation/burmese/pi-1-burmese-plain-rails_split_chapters/). Usage 46% / weekly 25%.
+rails DONE (adherence zs 487 misses/405 GENUINE -> rails 100/0 GENUINE; 569 lines; all checks OK; 12 termbase doubts).
+review A (pre, 1, 2-xx) and B (3..5) started (read-only; review/review-brief.md). Usage 54%.
+review A DONE (0 crit, 2 major A1 A2 vipāka headings, 3 minor). Waiting for B.
+review B DONE (0 crit, 4 major B1-B4, 7 minor). Open user decision: bahiddhā Mātikā label (B3/B5).
+user APPROVED bahiddhā = «မိမိ၏ ပြင်ပ၌» book-wide (termbase change). fix agent started (review/fix-brief.md: A1-A5, B1-B11 all applied, B2 drop စီ only). Usage 60%.
+review fixes DONE: 12 of 15 + bahiddhā termbase change (sha eafe0f8d…); B6, B7, B10 blocked by locked termbase entries -> user decision.
+user APPROVED termbase edits for B6, B7, B10 (2026-11-17); fix agent resumed to apply them.
+B6/B7/B10 applied in main session (user-approved termbase edit, sha 3c8cc8d0…): L36-L38; classifier + line scan updated; regen ALL PASSED twice, identical. Rails total 706 lines vs zero-shot.
+2026-11-17 user asked to verify the AI translation against the Religious Affairs reference: compare part 1 (pre, 1, 2-xx) started; part 2 after usage check. Usage 69%.
+compare part 1 DONE (746/746 aligned; ~97% agree; AI wrong: lokuttara-vipāka labels ^1-508…551 major, nāma ^1-M2-109 minor). Part 2 waits for usage reset (73% at 08:20 local; reset 08:50 UTC).
+2026-11-17 user: keep the AI translation as is for now; reference findings (lokuttara-vipāka labels ^1-508…551, nāma ^1-M2-109) to be discussed later. NOT applied. Compare part 2 and publish not started.

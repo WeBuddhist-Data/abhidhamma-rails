@@ -1,0 +1,13 @@
+Burmese pi-1 (Dhammasangani): plain translation through rails, review and track copy
+
+- Dhammasangani in plain Burmese, 1930 segments, full rails pipeline from the
+  Pali only: zero-shot, consistency pass, keyword map, word senses, termbase
+  (locked 2026-11-17), rails translation, bilingual review with fixes applied
+- Merged file with frontmatter and a new my-Contemporary-Burmese-Abhidhamma
+  track with root-text transclusions (1782, all verified), plus the termbase copy
+- A meaning-only comparison of part of the book with the Religious Affairs
+  Burmese translation (copyrighted, kept out of the repository); its findings
+  are not applied
+- burmese-style.md: shared Burmese style rules and per-book termbase notes;
+  burmese_publish.py: merge, track copy and transclusion checks
+- Pipeline scratch, briefs, scripts and logs in 0-INBOX/temp/pipeline/pi-1-my
