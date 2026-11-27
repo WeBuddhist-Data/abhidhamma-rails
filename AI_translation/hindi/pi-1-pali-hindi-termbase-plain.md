@@ -15,9 +15,9 @@ kāya: {the physical body, or bodily (compound member, as in kāyaviññāṇa a
 samatho: {calm, tranquillity of mind (nominative sg.): शांति}
 samādhi: {concentration, mental composure (stem and nominative): एकाग्रता}
 phasso: {sense contact, the meeting of sense, object and consciousness (nominative sg.): संपर्क}
-paṭicca: {dependent, first member of paṭiccasamuppanna: परस्पर-आश्रित}
-paṭiccasamuppannā: {arisen in dependence on conditions (nominative pl. participle): परस्पर-आश्रित रूप से उत्पन्न}
-paṭiccasamuppannā arūpino: {dependently arisen immaterial (states), in the closing formula: परस्पर-आश्रित रूप से उत्पन्न अभौतिक}
+paṭicca: {dependent, first member of paṭiccasamuppanna: कारणों पर आश्रित}
+paṭiccasamuppannā: {arisen in dependence on conditions (nominative pl. participle): कारणों पर आश्रित होकर उत्पन्न}
+paṭiccasamuppannā arūpino: {dependently arisen immaterial (states), in the closing formula: कारणों पर आश्रित होकर उत्पन्न अभौतिक}
 vāyāmo: {effort, as a path factor (nominative sg.): प्रयास}
 paggāho: {exertion, upholding of the mind (nominative sg.): तत्परता}
 indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.): क्षमता; sense faculty to be guarded, in the restraint passage (cakkhundriya): इंद्रिय}
@@ -137,8 +137,8 @@ Suddhikapaṭipadā: {the plain modes of progress (heading): केवल प्
 Suññataṃ: {empty, emptiness, as a name of the path absorption (accusative sg. or heading): शून्य}
 mūlakapaṭipadā: {modes of progress rooted in a gateway (heading member): पर आधारित प्रगति का ढंग}
 mūlaka: {rooted in, based on (compound final): पर आधारित}
-Appaṇihitaṃ: {without hankering, as a name of the path absorption (accusative sg. or heading): इच्छा-रहित}
-Appaṇihita: {the hankering-free (heading member): इच्छाओं का अभाव}
+Appaṇihitaṃ: {without hankering, as a name of the path absorption (accusative sg. or heading): आकांक्षा-रहित}
+Appaṇihita: {the hankering-free (heading member): आकांक्षाओं का अभाव}
 nayā: {methods of analysis (nominative pl.): विधि}
 Vīsati: {the number twenty (numeral): बीस}
 Adhipati: {predominance, dominant factor (heading): प्रधानता}
@@ -146,8 +146,8 @@ akusalāni: {unwholesome minds (heading, nominative pl.): हानिकर}
 Dvādasa: {the number twelve (numeral): बारह}
 Abyākata: {neither wholesome nor unwholesome, morally indeterminate (heading and stem): नैतिक रूप से अनिर्धारित}
 Abyākatavipāko: {indeterminate results of action (heading): नैतिक रूप से अनिर्धारित कर्म-फल}
-viññāṇāni: {consciousnesses, the sense-consciousnesses (nominative pl.): चेतना}
-vipākapañcaviññāṇāni: {the five resultant sense-consciousnesses (heading): कर्म के फल रूपी पाँच प्रकार की चेतना}
+viññāṇāni: {consciousnesses, the sense-consciousnesses (nominative pl.): विज्ञान}
+vipākapañcaviññāṇāni: {the five resultant sense-consciousnesses (heading): कर्म के फल रूपी पाँच प्रकार का विज्ञान}
 vipāka: {resultant, born as the result of action (compound member): कर्म-फल रूपी}
 Kusalavipāka: {result of wholesome action (heading member): हितकर कर्म के फल रूपी}
 Kusala: {wholesome (stem and heading): हितकर}
@@ -157,14 +157,14 @@ mano: {mind, the thinking faculty, also adjectival 'mental' in compounds: मन
 manodhātu: {the mind element (heading and nominative): मन का तत्व}
 sahagatā: {accompanied by, compound final (feminine or pl. participle): के साथ होने वाला}
 somanassasahagatā: {accompanied by joy (feminine or pl.): प्रसन्नता के साथ होने वाला}
-vipākamanoviññāṇadhātu: {the resultant mind-consciousness element (heading): कर्म के फल रूपी मन की चेतना का तत्व}
-manoviññāṇa: {consciousness at the mind door (compound member): मन की चेतना}
-manoviññāṇadhātu: {the element of mind-consciousness (nominative and heading): मन की चेतना का तत्व}
+vipākamanoviññāṇadhātu: {the resultant mind-consciousness element (heading): कर्म के फल रूपी मन से होने वाले विज्ञान का तत्व}
+manoviññāṇa: {consciousness at the mind door (compound member): मन से होने वाला विज्ञान}
+manoviññāṇadhātu: {the element of mind-consciousness (nominative and heading): मन से होने वाले विज्ञान का तत्व}
 upekkhāsahagatā: {accompanied by equanimity (feminine or pl.): समभाव के साथ होने वाला}
 upekkhā: {equanimity, neutral feeling (nominative and stem): समभाव}
 mahāvipākā: {the great resultants, the eight sense-sphere resultant minds (heading): बड़ा कर्म-फल}
 magga: {the path (stem and heading): मार्ग}
-Suddhikaappaṇihitaṃ: {the plain hankering-free (heading): केवल इच्छाओं का अभाव}
+Suddhikaappaṇihitaṃ: {the plain hankering-free (heading): केवल आकांक्षाओं का अभाव}
 Chanda: {desire to act, zeal as dominant factor (compound member): चाह}
 adhipateyya: {having as dominant factor (compound final): प्रधानता वाला}
 suññatā: {the state of emptiness (heading member): शून्यता}
@@ -177,11 +177,11 @@ hetuka: {having roots, rooted (compound final): मूल वाला}
 Kiriyāmano: {the functional mind (heading member): केवल क्रिया रूपी मन}
 Kiriyāmanodhātu: {the functional mind element (heading): केवल क्रिया रूपी मन का तत्व}
 dhātusomanassasahagatā: {element accompanied by joy (heading fragment): प्रसन्नता के साथ होने वाला … तत्व}
-Kiriyāmanoviññāṇa: {the functional mind-consciousness (heading member): केवल क्रिया रूपी … मन की चेतना}
-Kiriyāmanoviññāṇadhātu: {the functional mind-consciousness element (heading): केवल क्रिया रूपी … मन की चेतना का तत्व}
-manoviññāṇadhātusomanassasahagatā: {mind-consciousness element accompanied by joy (heading): प्रसन्नता के साथ होने वाला मन की चेतना का तत्व}
+Kiriyāmanoviññāṇa: {the functional mind-consciousness (heading member): केवल क्रिया रूपी … मन से होने वाला विज्ञान}
+Kiriyāmanoviññāṇadhātu: {the functional mind-consciousness element (heading): केवल क्रिया रूपी … मन से होने वाले विज्ञान का तत्व}
+manoviññāṇadhātusomanassasahagatā: {mind-consciousness element accompanied by joy (heading): प्रसन्नता के साथ होने वाला मन से होने वाले विज्ञान का तत्व}
 dhātuupekkhāsahagatā: {element accompanied by equanimity (heading fragment): समभाव के साथ होने वाला … तत्व}
-manoviññāṇadhātuupekkhāsahagatā: {mind-consciousness element accompanied by equanimity (heading): समभाव के साथ होने वाला मन की चेतना का तत्व}
+manoviññāṇadhātuupekkhāsahagatā: {mind-consciousness element accompanied by equanimity (heading): समभाव के साथ होने वाला मन से होने वाले विज्ञान का तत्व}
 saṃphusanā: {full touching, making contact (nominative sg.): भली-भाँति छूना}
 samaye phasso: {'at that time there is contact', the definition formula: उस समय … संपर्क}
 phusanā: {the act of touching (nominative sg.): छूना}
@@ -235,8 +235,8 @@ cetayitattaṃ: {the state of having intended (neuter sg.): इरादा क�
 sañcetanā: {intending, act of volition (nominative sg.): इरादा करना}
 mānasaṃ: {mentality, mental activity as a synonym of mind (neuter sg.): मानसिक क्रिया}
 khandho: {aggregate, group of phenomena (nominative sg.): समूह}
-viññāṇakkhandho: {the aggregate of consciousness (nominative sg.): चेतना का समूह}
-viññāṇaṃ: {consciousness, knowing (nominative sg.): चेतना}
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.): विज्ञान का समूह}
+viññāṇaṃ: {consciousness, knowing (nominative sg.): विज्ञान}
 hadayaṃ: {heart, as a synonym of mind (neuter sg.): हृदय}
 manāyatanaṃ: {the mind sense base (nominative sg.): मन का इंद्रिय-क्षेत्र}
 paṇḍaraṃ: {bright, clear, as a synonym of mind (neuter sg.): उज्ज्वलता}
@@ -358,8 +358,8 @@ passambhitattaṃ: {the state of being calmed (neuter sg.): शांत हो 
 passambhanā: {calming down (nominative sg.): शांत होना}
 saṅkhāra: {mental formations, volitional activities (compound member, in saṅkhārakkhandha): मानसिक रचनाएँ}
 paṭipassambhitattaṃ: {the state of being fully calmed (neuter sg.): पूरी तरह शांत हो चुका होना}
-viññāṇakkhandhassa: {of the aggregate of consciousness (genitive sg.): चेतना का समूह}
-viññāṇa: {consciousness (stem and compound member): चेतना}
+viññāṇakkhandhassa: {of the aggregate of consciousness (genitive sg.): विज्ञान का समूह}
+viññāṇa: {consciousness (stem and compound member): विज्ञान}
 adandhanatā: {absence of sluggishness (nominative sg.): सुस्ती का अभाव}
 lahu: {light, quick, in lahupariṇāmatā (compound member): जल्दी}
 dandhanatā: {slowness, in adandhanatā (nominative sg.): सुस्ती}
@@ -393,7 +393,7 @@ balāni: {mental powers (nominative pl.): बल}
 hetū: {roots, root conditions (nominative pl.): मूल}
 ye: {relative pronoun, those which (masculine nominative pl.): जो}
 samaye saññā: {'at that time there is perception', the definition formula: उस समय … पहचान}
-viññāṇakkhandhaṃ: {the aggregate of consciousness (accusative sg.): चेतना का समूह}
+viññāṇakkhandhaṃ: {the aggregate of consciousness (accusative sg.): विज्ञान का समूह}
 vedanākkhandhaṃ: {the aggregate of feeling (accusative sg.): अनुभूति का समूह}
 saññākkhandhaṃ: {the aggregate of perception (accusative sg.): पहचान का समूह}
 ṭhapetvā: {leaving aside, excepting (absolutive): छोड़कर}
@@ -462,13 +462,13 @@ sukhassa ca pahānā: {'with the abandoning of pleasure', the fourth-jhāna form
 atthaṅgamā: {through the disappearance, passing away (ablative): मिट जाना}
 catutthaṃ jhānaṃ: {the fourth meditative absorption (nominative/accusative sg.): चौथा ध्यान}
 dukkhassa: {of pain, of bodily pain (genitive sg.): दुःख}
-dukkha: {pain, suffering, or painful (compound member, as in dukkhapaṭipadā and dukkhasahagata): दुःखद}
+dukkha: {pain, suffering, or painful (compound member, as in dukkhasahagata): दुःखद; painful, laborious, in dukkhapaṭipadā (compound member): कष्टदायक}
 sukhassa: {of pleasure, happiness (genitive sg.): सुख}
 pārisuddhiṃ: {purity, complete purification (accusative sg.): पूरी तरह शुद्ध होना}
 domanassānaṃ: {of sadness, mental displeasure (genitive pl.): उदासी}
 vicāra: {sustained examination of the object (compound member): सतत विचार}
 abhiññaṃ: {direct knowledge, higher understanding, in the mode-of-progress formula (compound final): उच्च ज्ञान}
-dukkhapaṭipadaṃ: {with a painful mode of progress (accusative sg.): दुःखद प्रगति}
+dukkhapaṭipadaṃ: {with a painful mode of progress (accusative sg.): कष्टदायक प्रगति}
 paṭipadaṃ: {mode of progress, way of practice (accusative sg.): प्रगति}
 dandha: {slow, sluggish (compound member): धीमा}
 dandhābhiññaṃ: {with slow direct knowledge (neuter sg.): धीमे उच्च ज्ञान वाला}
@@ -534,10 +534,10 @@ saññānaṃ: {of perceptions (genitive pl.): पहचान}
 ākāsa: {space, in ākāsānañcāyatana and the space element (compound member): आकाश}
 ānañcāyatanaṃ: {the base of infinity, an immaterial attainment (nominative/accusative sg.): अनंत आकाश का क्षेत्र}
 samatikkamma: {having gone beyond, having surmounted (absolutive): पार करके}
-viññāṇañca: {infinity of consciousness, in viññāṇañcāyatana (compound member): अनंत चेतना}
-viññāṇañcāyatanaṃ: {the base of the infinity of consciousness (nominative/accusative sg.): अनंत चेतना का क्षेत्र}
+viññāṇañca: {infinity of consciousness, in viññāṇañcāyatana (compound member): अनंत विज्ञान}
+viññāṇañcāyatanaṃ: {the base of the infinity of consciousness (nominative/accusative sg.): अनंत विज्ञान का क्षेत्र}
 ākiñcañña: {nothingness, the base where there is nothing (compound member): कुछ भी न होना}
-nāsaññā: {non-perception, in nevasaññānāsaññā 'neither perception nor non-perception' (compound member): न अ-पहचान}
+nāsaññā: {non-perception, in nevasaññānāsaññā 'neither perception nor non-perception' (compound member): न पहचान का अभाव}
 adhipateyyaṃ: {having as dominant factor (compound final, neuter sg.): प्रधानता वाला}
 hīnaṃ: {inferior, low (neuter sg.): हीन}
 vīmaṃsā: {inquiry, investigation as dominant factor (stem and compound member): जाँच-परख}
@@ -638,11 +638,11 @@ uddhacca: {restlessness, agitation (compound member): बेचैनी}
 ñātānaṃ: {of what has been known (genitive pl.): जाना जा चुका}
 abhijjhā: {covetousness, longing for what belongs to others (nominative sg. and compound member): लालच}
 moho: {delusion, bewilderment (nominative sg.): मोह}
-anottappa: {absence of moral dread, not fearing wrongdoing (compound member): बुराई के प्रति निडरता}
+anottappa: {absence of moral dread, not fearing wrongdoing (compound member): बुराई से न डरने की वृत्ति}
 lobho: {greed, wanting (nominative sg.): लोभ}
 dhammārammaṇaṃ: {having a mind-object as its object, in the list rūpārammaṇaṃ … dhammārammaṇaṃ (neuter sg.): मन का विषय}
 cittaṃ uppannaṃ: {'a mind has arisen', the opening formula (phrase): मन उत्पन्न}
-anottappabalaṃ: {the power of absence of moral dread (nominative sg.): बुराई के प्रति निडरता का बल}
+anottappabalaṃ: {the power of absence of moral dread (nominative sg.): बुराई से न डरने की वृत्ति का बल}
 ahirikabalaṃ: {the power of shamelessness (nominative sg.): निर्लज्जता का बल}
 ahirika: {shamelessness, lack of moral shame (compound member): निर्लज्जता}
 akusalā: {unwholesome, said of phenomena (nominative pl.): हानिकर}
@@ -699,7 +699,7 @@ sammoho: {utter delusion, total bewilderment (nominative sg.): घोर मो�
 dassanaṃ: {seeing, vision, in adassanaṃ (nominative sg.): देखना}
 yogo: {yoke, bond binding to existence (nominative sg.): जकड़न}
 ahirikaṃ: {shamelessness, lack of moral shame (neuter sg.): निर्लज्जता}
-anottappaṃ: {absence of moral dread, not fearing wrongdoing (neuter sg.): बुराई के प्रति निडरता}
+anottappaṃ: {absence of moral dread, not fearing wrongdoing (neuter sg.): बुराई से न डरने की वृत्ति}
 diṭṭhigatavippayuttaṃ: {dissociated from wrong view (neuter sg.): ग़लत दृष्टि से अलग}
 tivaṅgiko: {having three factors, of the path (masculine sg.): तीन अंगों वाला}
 domanassasahagataṃ: {accompanied by sadness (neuter sg.): उदासी के साथ होने वाला}
@@ -739,27 +739,27 @@ uddhaccaṃ: {restlessness, agitation (nominative sg.): बेचैनी}
 akusalacittāni: {the unwholesome types of mind (nominative pl.): हानिकर मन}
 upacitattā: {because of having been accumulated (ablative): संचित होना}
 katattā: {because of having been done, performed (ablative): किया जाना}
-cakkhuviññāṇaṃ: {consciousness through the eye, eye-consciousness (nominative sg.): आँख की चेतना}
+cakkhuviññāṇaṃ: {consciousness through the eye, eye-consciousness (nominative sg.): आँख से होने वाला विज्ञान}
 abyākatā: {neither wholesome nor unwholesome (nominative pl.): नैतिक रूप से अनिर्धारित}
 dhammā abyākatā: {phenomena neither wholesome nor unwholesome, the opening question (nominative pl.): नैतिक रूप से अनिर्धारित परिघटना}
 kāmāvacarassa: {belonging to the sense sphere (genitive sg.): इंद्रिय-सुखों के लोक से संबंधित}
 avacarassa: {belonging to a sphere, compound final (genitive sg.): लोक से संबंधित}
 kusalassa: {wholesome, often standing for the wholesome mind (genitive sg.): हितकर}
 kusalassa kammassa: {of wholesome action, of good kamma (genitive sg.): हितकर कर्म}
-cakkhuviññāṇa: {consciousness through the eye, eye-consciousness (compound member): आँख की चेतना}
-cakkhuviññāṇadhātu: {the eye-consciousness element (nominative sg.): आँख की चेतना का तत्व}
+cakkhuviññāṇa: {consciousness through the eye, eye-consciousness (compound member): आँख से होने वाला विज्ञान}
+cakkhuviññāṇadhātu: {the eye-consciousness element (nominative sg.): आँख से होने वाले विज्ञान का तत्व}
 sukhasahagataṃ: {accompanied by pleasure, by happiness (neuter sg.): सुख के साथ होने वाला}
-kāyaviññāṇaṃ: {consciousness through the body, body-consciousness (nominative sg.): शरीर की चेतना}
-sotaviññāṇaṃ: {consciousness through the ear, ear-consciousness (nominative sg.): कान की चेतना}
-ghānaviññāṇaṃ: {consciousness through the nose, nose-consciousness (nominative sg.): नाक की चेतना}
-jivhāviññāṇaṃ: {consciousness through the tongue, tongue-consciousness (nominative sg.): जीभ की चेतना}
+kāyaviññāṇaṃ: {consciousness through the body, body-consciousness (nominative sg.): शरीर से होने वाला विज्ञान}
+sotaviññāṇaṃ: {consciousness through the ear, ear-consciousness (nominative sg.): कान से होने वाला विज्ञान}
+ghānaviññāṇaṃ: {consciousness through the nose, nose-consciousness (nominative sg.): नाक से होने वाला विज्ञान}
+jivhāviññāṇaṃ: {consciousness through the tongue, tongue-consciousness (nominative sg.): जीभ से होने वाला विज्ञान}
 kāyikaṃ: {bodily, physical (neuter sg. adjective): शारीरिक}
-kāyaviññāṇa: {consciousness through the body, body-consciousness (compound member): शरीर की चेतना}
-kāyaviññāṇadhātu: {the body-consciousness element (nominative sg.): शरीर की चेतना का तत्व}
+kāyaviññāṇa: {consciousness through the body, body-consciousness (compound member): शरीर से होने वाला विज्ञान}
+kāyaviññāṇadhātu: {the body-consciousness element (nominative sg.): शरीर से होने वाले विज्ञान का तत्व}
 kāyasamphassajaṃ: {born of body-contact (neuter sg.): शरीर के संपर्क से उत्पन्न}
 kāyasamphassajā: {born of body-contact (feminine sg., of feeling): शरीर के संपर्क से उत्पन्न}
 samaye kāyikaṃ: {'at that time there is (something) bodily', the definition formula: उस समय … शारीरिक}
-vipākāni pañcaviññāṇāni: {the five resultant sense-consciousnesses (heading): कर्म के फल रूपी पाँच प्रकार की चेतना}
+vipākāni pañcaviññāṇāni: {the five resultant sense-consciousnesses (heading): कर्म के फल रूपी पाँच प्रकार का विज्ञान}
 vipākāni: {resultant, born as the result of action (neuter pl.): कर्म के फल रूपी}
 Kusalavipākāni: {results of wholesome action (heading member, pl.): हितकर कर्म के फल रूपी}
 uppannā: {come into being, arisen (feminine or pl. participle): उत्पन्न}
@@ -769,21 +769,21 @@ vipākā manodhātu: {the resultant mind element (nominative sg.): कर्म 
 vipākā: {resultant, born as the result of action (feminine or pl.): कर्म के फल रूपी}
 Kusalavipākā: {result of wholesome action (heading member): हितकर कर्म के फल रूपी}
 dhammārammaṇā: {having a mind-object as its object (feminine or pl.): मन का विषय}
-vipākā manoviññāṇadhātu: {the resultant mind-consciousness element (nominative sg.): कर्म के फल रूपी मन की चेतना का तत्व}
-vipākā upekkhāsahagatā manoviññāṇadhātu: {the resultant mind-consciousness element accompanied by equanimity (nominative sg.): कर्म के फल रूपी समभाव के साथ होने वाला मन की चेतना का तत्व}
+vipākā manoviññāṇadhātu: {the resultant mind-consciousness element (nominative sg.): कर्म के फल रूपी मन से होने वाले विज्ञान का तत्व}
+vipākā upekkhāsahagatā manoviññāṇadhātu: {the resultant mind-consciousness element accompanied by equanimity (nominative sg.): कर्म के फल रूपी समभाव के साथ होने वाला मन से होने वाले विज्ञान का तत्व}
 sampayuttā: {conjoined with, compound final (feminine or pl. participle): जुड़ा}
 vippayuttā: {dissociated from (feminine or pl. participle): अलग}
 ñāṇavippayuttā: {not conjoined with knowledge (feminine or pl.): ज्ञान से अलग}
 abyākatamūlaṃ: {a root that is neither wholesome nor unwholesome (nominative sg.): नैतिक रूप से अनिर्धारित मूल}
 rūpāvacarassa: {belonging to the fine-material sphere (genitive sg.): सूक्ष्म भौतिक लोक से संबंधित}
 arūpāvacarassa: {belonging to the immaterial sphere (genitive sg.): अभौतिक लोक से संबंधित}
-asaññā: {non-perception, in nevasaññānāsaññāyatana (compound member): अ-पहचान}
+asaññā: {non-perception, in nevasaññānāsaññāyatana (compound member): पहचान का अभाव}
 bhāvitattā: {because of having been developed (ablative): अभ्यास किया जाना}
 kusalassa jhānassa: {of wholesome absorption (genitive sg.): हितकर ध्यान}
 lokuttarassa kusalassa: {of the supramundane wholesome (genitive sg.): लोकोत्तर हितकर}
 lokuttarassa kusalassa jhānassa: {of supramundane wholesome absorption (genitive sg.): लोकोत्तर हितकर ध्यान}
 animittaṃ: {signless, as a name of the path absorption (accusative sg.): चिह्नों से रहित}
-appaṇihitanti: {without hankering, as a name of the path absorption (with ti): इच्छा-रहित}
+appaṇihitanti: {without hankering, as a name of the path absorption (with ti): आकांक्षा-रहित}
 abhiññanti: {direct knowledge, closing the mode-of-progress formula (with ti): उच्च ज्ञान}
 suññatanti: {empty, emptiness, as a name of the path absorption (with ti): शून्य}
 animittanti: {signless, as a name of the path absorption (with ti): चिह्नों से रहित}
@@ -802,12 +802,12 @@ kusalā nākusalā: {'neither wholesome nor unwholesome' (nominative pl.): न �
 Kiriyā mano: {the functional mind (heading member): केवल क्रिया रूपी मन}
 Kiriyā manodhātu: {the functional mind element (heading): केवल क्रिया रूपी मन का तत्व}
 dhātu somanassasahagatā: {element accompanied by joy (heading fragment): प्रसन्नता के साथ होने वाला … तत्व}
-Kiriyā manoviññāṇa: {the functional mind-consciousness (heading member): केवल क्रिया रूपी … मन की चेतना}
-Kiriyā manoviññāṇadhātu: {the functional mind-consciousness element (heading): केवल क्रिया रूपी … मन की चेतना का तत्व}
-manoviññāṇadhātu somanassasahagatā: {mind-consciousness element accompanied by joy (heading): प्रसन्नता के साथ होने वाला मन की चेतना का तत्व}
+Kiriyā manoviññāṇa: {the functional mind-consciousness (heading member): केवल क्रिया रूपी … मन से होने वाला विज्ञान}
+Kiriyā manoviññāṇadhātu: {the functional mind-consciousness element (heading): केवल क्रिया रूपी … मन से होने वाले विज्ञान का तत्व}
+manoviññāṇadhātu somanassasahagatā: {mind-consciousness element accompanied by joy (heading): प्रसन्नता के साथ होने वाला मन से होने वाले विज्ञान का तत्व}
 dhātu upekkhāsahagatā: {element accompanied by equanimity (heading fragment and nominative sg.): समभाव के साथ होने वाला … तत्व}
 kiriyā abyākatā: {functional minds, neither wholesome nor unwholesome (heading): केवल क्रिया रूपी नैतिक रूप से अनिर्धारित मन}
-manoviññāṇadhātu upekkhāsahagatā: {mind-consciousness element accompanied by equanimity (heading and nominative sg.): समभाव के साथ होने वाला मन की चेतना का तत्व}
+manoviññāṇadhātu upekkhāsahagatā: {mind-consciousness element accompanied by equanimity (heading and nominative sg.): समभाव के साथ होने वाला मन से होने वाले विज्ञान का तत्व}
 hetukā: {having roots, rooted (compound final, nominative pl.): मूलों वाला}
 vihāraṃ: {abiding, in diṭṭhadhammasukhavihāra 'pleasant abiding here and now' (accusative sg.): रहना}
 jhānaṃ bhāveti: {'cultivates meditative absorption' (phrase): ध्यान का अभ्यास करना}
@@ -833,7 +833,7 @@ asekkhaṃ: {beyond training, of one who has finished training, in nevasekkhanā
 saṅgaho: {classification, grouping into kinds, as in rūpasaṅgaho (nominative sg.): वर्गीकरण}
 upādāniyaṃ: {subject to clinging, a possible object of clinging (neuter sg.): आसक्ति का विषय बनने वाला}
 saṅkhataṃ: {conditioned, made by conditions (neuter sg. participle): निर्मित}
-viññāṇehi: {by the kinds of consciousness, in 'knowable by six kinds' (instrumental): चेतना}
+viññāṇehi: {by the kinds of consciousness, in 'knowable by six kinds' (instrumental): विज्ञान}
 saṃkilesikaṃ: {tending to defilement, a possible object of defilement (neuter sg.): क्लेशों का विषय बनने वाला}
 upādāya: {derived from, depending on the great elements, as in upādāya rūpaṃ (absolutive): व्युत्पन्न}
 cittavippayuttaṃ: {dissociated from mind (neuter sg. participle): मन से अलग}
@@ -871,7 +871,7 @@ samuṭṭhānaṃ: {originating from, arisen from, as in cittasamuṭṭhāna�
 kāyaviññatti: {bodily intimation, expression through the body (nominative sg.): शरीर द्वारा प्रकट अभिव्यक्ति}
 kāyāyatanaṃ: {the body sense base (nominative sg.): शरीर का इंद्रिय-क्षेत्र}
 kāyadhātu: {the body element (nominative sg.): शरीर का तत्व}
-kāyaviññāṇassa: {of body-consciousness, consciousness at the body door (genitive sg.): शरीर की चेतना}
+kāyaviññāṇassa: {of body-consciousness, consciousness at the body door (genitive sg.): शरीर से होने वाला विज्ञान}
 kāyasamphassassa: {of body-contact, contact through the body (genitive sg.): शरीर का संपर्क}
 samphassajāya: {born of contact, said of feeling (genitive sg.): संपर्क से उत्पन्न}
 kāyasamphassajāya: {born of body-contact, said of feeling (genitive sg.): शरीर के संपर्क से उत्पन्न}
@@ -889,7 +889,7 @@ bāhiraṃ: {external, outside oneself (neuter sg.): बाह्य}
 cakkhu: {the eye, the seeing organ (stem and nominative): आँख}
 cakkhāyatanaṃ: {the eye sense base (nominative sg.): आँख का इंद्रिय-क्षेत्र}
 cakkhudhātu: {the eye element (nominative sg.): आँख का तत्व}
-cakkhuviññāṇassa: {of eye-consciousness, seeing consciousness (genitive sg.): आँख की चेतना}
+cakkhuviññāṇassa: {of eye-consciousness, seeing consciousness (genitive sg.): आँख से होने वाला विज्ञान}
 cakkhusamphassassa: {of eye-contact, contact through the eye (genitive sg.): आँख का संपर्क}
 itthindriyaṃ: {the controlling faculty of femininity (nominative sg.): स्त्रीत्व की क्षमता}
 purisindriyaṃ: {the controlling faculty of masculinity (nominative sg.): पुरुषत्व की क्षमता}
@@ -1112,7 +1112,7 @@ cakkhuṃ: {the eye, the seeing organ (accusative sg.): आँख}
 cakkhumhi: {the eye, the seeing organ (locative): आँख}
 anidassanamhi: {invisible, not visible to the eye (locative): दिखाई न देने वाला}
 sattānaṃ: {of living beings (genitive pl.): प्राणी}
-amanussa: {non-human beings, spirits (compound member): अमानवीय प्राणी}
+amanussa: {non-human, in amanussasadda (compound member): मनुष्येतर}
 samma: {cymbal (compound member): मंजीरा}
 bheri: {drum, kettle-drum (compound member): नगाड़ा}
 sotena: {by the ear, with the hearing organ (instrumental): कान}
@@ -1128,7 +1128,7 @@ bherisaddo: {the sound of drums beaten (nominative sg.): नगाड़े क�
 pāṇisaddo: {the sound of hands clapped (nominative sg.): ताली की ध्वनि}
 manussasaddo: {the sound of human voices (nominative sg.): मनुष्यों की ध्वनि}
 vāditasaddo: {the sound of musical instruments played (nominative sg.): बाजे की ध्वनि}
-amanussasaddo: {the sound of non-human beings, spirit voices (nominative sg.): अमानवीय प्राणियों की ध्वनि}
+amanussasaddo: {non-human sound, every sound other than human speech (aṭṭhakathā) (nominative sg.): मनुष्येतर ध्वनि}
 gītasaddo: {the sound of song, singing voices (nominative sg.): गाने की ध्वनि}
 mudiṅgasaddo: {the sound of tabors, two-headed drums (nominative sg.): मृदंग की ध्वनि}
 dhātūnaṃ sannighātasaddo: {the sound of things knocking together (nominative sg.): वस्तुओं के आपस में टकराने की ध्वनि}
@@ -1163,7 +1163,7 @@ vissagandho: {the smell of rot, stench of decay (nominative sg.): सड़न �
 duggandho: {foul smell, stench (nominative sg.): दुर्गंध}
 ghānaṃ: {the nose, the smelling organ (accusative sg.): नाक}
 ghānamhi: {the nose, the smelling organ (locative): नाक}
-khārikaṃ: {alkaline, caustic in taste (neuter sg.): खारा}
+khārikaṃ: {alkaline, caustic in taste (neuter sg.): क्षारीय}
 kasāvo: {astringent in taste (nominative sg.): कसैला}
 tittakaṃ: {bitter in taste (neuter sg.): कड़वा}
 kaṭukaṃ: {pungent, sharp in taste (neuter sg.): तीखा}
@@ -1298,7 +1298,7 @@ usmā: {warmth, glow of the fire element (nominative sg.): ऊष्मा}
 āyatanaṃ cakkhuviññeyyaṃ rūpaṃ: {'the visible-form base is matter cognisable by the eye' (phrase): इंद्रिय-क्षेत्र आँख से जाना जा सकने वाला भौतिक रूप}
 rūpaṃ manoviññeyyaṃ rūpaṃ: {'all matter is matter cognisable by the mind' (phrase): भौतिक रूप मन से जाना जा सकने वाला भौतिक रूप}
 āyatanaṃ manodhātuviññeyyaṃ rūpaṃ: {'the base is matter cognisable by the mind element' (phrase): इंद्रिय-क्षेत्र मन के तत्व से जाना जा सकने वाला भौतिक रूप}
-rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ: {'matter is matter cognisable by the mind-consciousness element' (phrase): भौतिक रूप मन की चेतना के तत्व से जाना जा सकने वाला भौतिक रूप}
+rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ: {'matter is matter cognisable by the mind-consciousness element' (phrase): भौतिक रूप मन से होने वाले विज्ञान के तत्व से जाना जा सकने वाला भौतिक रूप}
 manāpiyo: {pleasing, attractive to the mind (masculine sg. adjective): मनभावन}
 amanāpiyo: {unpleasing, unattractive to the mind (masculine sg. adjective): मन को न भाने वाला}
 samphasso: {contact, the touching of an object (nominative sg.): संपर्क}
@@ -1355,12 +1355,12 @@ dhammā sukhasahagatā: {phenomena accompanied by pleasure (nominative pl.): स
 dhammā upekkhāsahagatā: {phenomena accompanied by equanimity (nominative pl.): समभाव के साथ होने वाली परिघटना}
 pahātabbā: {to be abandoned, to be given up (nominative pl. participle): छोड़ा जाने वाला}
 saṃyojanāni: {the bonds binding to existence (nominative pl.): बंधन}
-sakkāya: {the existing body, the personality taken as a lasting self (compound member): स्थायी आत्मा}
-sakkāyadiṭṭhi: {personality view, the wrong view of a lasting self (nominative sg.): स्थायी आत्मा की ग़लत दृष्टि}
-sīlabbataparāmāso: {wrong grasping of precepts and vows as the way to purity (nominative sg.): सदाचार और व्रतों के बारे में ग़लत धारणा}
+sakkāya: {the existing personality, the five groups regarded in terms of a self (compound member): पाँच समूह}
+sakkāyadiṭṭhi: {personality view, regarding the five groups in terms of a self in four ways (nominative sg.): पाँच समूहों के संबंध में आत्मा की ग़लत दृष्टि}
+sīlabbataparāmāso: {wrong grasping of precepts and vows as the way to purity (nominative sg.): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा}
 vata: {vows, religious observances (compound member): व्रत}
-sīla: {virtue, moral conduct, precepts (compound member): सदाचार}
-sīlabbata: {precepts and vows, virtue and observances (compound member): सदाचार और व्रत}
+sīla: {virtue, moral conduct, precepts (compound member): सदाचार; rules and observances, in sīlabbata and sīlena suddhi (compound member): नियम}
+sīlabbata: {precepts and vows, virtue and observances (compound member): नियम और व्रत}
 paṭiggāho: {firm grasping, holding on tightly (nominative sg.): कसकर पकड़ना}
 Saṅkhāre: {mental formations, volitional activities (accusative pl.): मानसिक रचनाएँ}
 sappurisānaṃ: {of good, worthy persons (genitive pl.): सज्जन}
@@ -1373,13 +1373,13 @@ samanupassati: {regards, considers as (3rd sg. present): देखना}
 attato: {as self, as one's own self (ablative): आत्मा के रूप में}
 dhammassa: {the Buddha's teaching, in 'unskilled in the teaching of the noble ones' (genitive sg.): शिक्षा}
 avinīto: {untrained, undisciplined in the teaching (masculine sg. adjective): प्रशिक्षित नहीं}
-assutavā: {unlearned, without instruction in the teaching (nominative sg.): अशिक्षित}
+assutavā: {unlearned, without instruction in the teaching (nominative sg.): उपदेश से अनजान}
 akovido: {unversed, not skilled in the teaching (masculine sg. adjective): निपुण नहीं}
 samuppannesu: {come into being (locative pl. participle): उत्पन्न}
 samuppannesu dhammesu: {in regard to phenomena that have come into being (locative pl.): उत्पन्न परिघटना}
 idappaccayatā: {specific conditionality, the law of cause and effect (nominative sg.): कार्य-कारण का नियम}
-paṭiccasamuppannesu: {arisen in dependence on conditions (locative pl. participle): परस्पर-आश्रित रूप से उत्पन्न}
-paṭiccasamuppannesu dhammesu: {in regard to dependently arisen phenomena (locative pl.): परस्पर-आश्रित रूप से उत्पन्न परिघटना}
+paṭiccasamuppannesu: {arisen in dependence on conditions (locative pl. participle): कारणों पर आश्रित होकर उत्पन्न}
+paṭiccasamuppannesu dhammesu: {in regard to dependently arisen phenomena (locative pl.): कारणों पर आश्रित होकर उत्पन्न परिघटना}
 apariyogāhanā: {not plunging into, failure to penetrate (nominative sg.): गहराई में न उतर पाना}
 dvedhāpatho: {a forked road, doubt as being at a crossroads (nominative sg.): दोराहा}
 Satthari: {about the Teacher, the Buddha (locative): गुरु}
@@ -1485,7 +1485,7 @@ Paccuppanne dhamme: {present phenomena (accusative pl.): वर्तमान �
 Paccuppanne dhamme ārabbha: {taking present phenomena as object (phrase): वर्तमान की परिघटना को विषय बनाना}
 pāṭipuggalikā: {belonging to each individual, private (nominative pl.): हर व्यक्ति का निजी}
 tesaṃ tesaṃ: {of each of those, of these and those (repeated genitive pl.): उन-उन}
-upādiṇṇā: {acquired by kamma, produced by past action (nominative pl. participle): कर्म से उत्पन्न}
+upādiṇṇā: {acquired by kamma, produced by past action (nominative pl. participle): कर्म से उत्पन्न; taken up, grasped as one's own, kamma-born or not, in ^1-1050/1-1051 (aṭṭhakathā) (nominative pl. participle): ग्रहण की हुई}
 paccattaṃ: {individually, one's own (adverb): अपना}
 dhammā bahiddhā: {external phenomena, those belonging to others (nominative pl.): दूसरों से संबंधित परिघटना}
 puggalānaṃ: {of individuals, persons, in parapuggalānaṃ (genitive pl.): व्यक्ति}
@@ -1547,7 +1547,7 @@ nīvaraṇaṃ: {hindrance, obstruction of the mind (nominative sg.): बाध�
 baḷisaṃ: {fish-hook, in mārabaḷisa 'Māra's hook' (compound final): काँटा}
 āsā: {hope, expectation, as craving (nominative sg. and compound final): आशा}
 āsisanā: {hoping, wishing for (nominative sg.): आशा करना}
-mucchā: {infatuation, swooning over (nominative sg. and compound final): मूर्छा}
+mucchā: {infatuation, swooning over (nominative sg. and compound final): मदहोशी}
 paligedho: {intense greed, deep eagerness (nominative sg.): गहरी लालसा}
 pajappā: {intense hankering, in the greed list (nominative sg.): गहरी तड़प}
 santhavo: {intimacy, close acquaintance, in the greed list (nominative sg.): घनिष्ठता}
@@ -1581,8 +1581,8 @@ dhana: {wealth, riches, in dhanāsā 'hope for wealth' (compound member): धन
 kamyatā: {wishing for, desire, compound final (as in sādhukamyatā and ketukamyatā): चाह}
 kodho: {anger, wrath (nominative sg.): क्रोध}
 kujjhanā: {being angry, getting enraged (nominative sg.): क्रोध करना}
-āghāto: {annoyance, resentment (nominative sg.): आक्रोश}
-āghāto jāyati: {'annoyance arises', the grounds-of-annoyance formula (phrase): आक्रोश उत्पन्न होना}
+āghāto: {annoyance, resentment (nominative sg.): रोष}
+āghāto jāyati: {'annoyance arises', the grounds-of-annoyance formula (phrase): रोष उत्पन्न होना}
 jāyati: {arises, is born (3rd sg. present): उत्पन्न होना}
 paṭighaṃ: {aversion, irritation, repulsion (nominative sg.): चिढ़}
 piyassa: {of someone dear, a loved one (genitive sg.): प्रिय}
@@ -1684,19 +1684,19 @@ vicikicchāsaṃyojanaṃ: {the fetter of doubt (nominative sg.): संशय �
 issāsaṃyojanaṃ: {the fetter of envy (nominative sg.): ईर्ष्या का बंधन}
 avijjāsaṃyojanaṃ: {the fetter of ignorance (nominative sg.): अज्ञान का बंधन}
 bhavarāgasaṃyojanaṃ: {the fetter of lust for existence (nominative sg.): अस्तित्व के राग का बंधन}
-sīlabbataparāmāsasaṃyojanaṃ: {the fetter of misapprehending rules and vows (nominative sg.): सदाचार और व्रतों के बारे में ग़लत धारणा का बंधन}
+sīlabbataparāmāsasaṃyojanaṃ: {the fetter of misapprehending rules and vows (nominative sg.): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा का बंधन}
 kāmarāgasaṃyojanaṃ: {the fetter of lust for sensual pleasures (nominative sg.): इंद्रिय-सुखों के राग का बंधन}
 macchariyasaṃyojanaṃ: {the fetter of stinginess (nominative sg.): कंजूसी का बंधन}
 saṃyojanā: {fetters, bonds that tie one to existence (nominative pl.): बंधन}
-sīlabbataparāmāsa: {misapprehension of rules and vows, wrong grasping of them (compound member): सदाचार और व्रतों के बारे में ग़लत धारणा}
+sīlabbataparāmāsa: {misapprehension of rules and vows, wrong grasping of them (compound member): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा}
 macchariya: {stinginess, avarice (compound member): कंजूसी}
 vuccati kāmarāgasaṃyojanaṃ: {'is called the fetter of lust for sensual pleasures', the closing formula: इंद्रिय-सुखों के राग का बंधन कहा जाता है}
 kāmacchando: {desire for sensual pleasures (nominative sg.): इंद्रिय-सुखों की चाह}
 vuccati paṭighasaṃyojanaṃ: {'is called the fetter of aversion', the closing formula: चिढ़ का बंधन कहा जाता है}
 ketu: {banner, conceit as a flag, in ketukamyatā (compound member): झंडा}
 vuccati mānasaṃyojanaṃ: {'is called the fetter of conceit', the closing formula: अहंकार का बंधन कहा जाता है}
-maññitattaṃ: {the state of having conceived oneself (neuter sg.): मान चुका होना}
-maññanā: {conceiving, act of measuring oneself (nominative sg.): मान लेना}
+maññitattaṃ: {the state of having conceived oneself (neuter sg.): अपने को कुछ मान बैठना}
+maññanā: {conceiving, act of measuring oneself (nominative sg.): अपने को कुछ मानना}
 sadiso: {equal, the same as others, in 'I am equal' (masculine nominative sg.): बराबर}
 dhajo: {flag, conceit as a raised banner (nominative sg.): ध्वजा}
 ketukamyatā: {desire to fly the flag, wish for prominence (nominative sg.): झंडा फहराने की चाह}
@@ -1705,7 +1705,7 @@ hīno: {inferior, lower than others, in 'I am inferior' (masculine nominative sg
 unnati: {elevation, rising up in pride (nominative sg.): ऊँचा उठना}
 vuccati diṭṭhisaṃyojanaṃ: {'is called the fetter of views', the closing formula: दृष्टि का बंधन कहा जाता है}
 vuccati vicikicchāsaṃyojanaṃ: {'is called the fetter of doubt', the closing formula: संशय का बंधन कहा जाता है}
-vuccati sīlabbataparāmāsasaṃyojanaṃ: {'is called the fetter of misapprehending rules and vows', the closing formula: सदाचार और व्रतों के बारे में ग़लत धारणा का बंधन कहा जाता है}
+vuccati sīlabbataparāmāsasaṃyojanaṃ: {'is called the fetter of misapprehending rules and vows', the closing formula: नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा का बंधन कहा जाता है}
 vuccati bhavarāgasaṃyojanaṃ: {'is called the fetter of lust for existence', the closing formula: अस्तित्व के राग का बंधन कहा जाता है}
 vuccati issāsaṃyojanaṃ: {'is called the fetter of envy', the closing formula: ईर्ष्या का बंधन कहा जाता है}
 issāyanā: {envying, act of envy (nominative sg.): ईर्ष्या करना}
@@ -1739,20 +1739,20 @@ kāyagantho: {bodily tie, a knot binding the body (nominative sg.): काया
 abhijjhā kāyagantho: {the bodily tie of covetousness (nominative sg.): लालच रूपी काया की गाँठ}
 idaṃ saccābhiniveso kāyagantho: {the bodily tie of dogmatic insistence 'this alone is true' (nominative sg.): “केवल यही सत्य है” के आग्रह रूपी काया की गाँठ}
 byāpādo kāyagantho: {the bodily tie of ill will (nominative sg.): दुर्भावना रूपी काया की गाँठ}
-sīlabbataparāmāso kāyagantho: {the bodily tie of misapprehending rules and vows (nominative sg.): सदाचार और व्रतों के बारे में ग़लत धारणा रूपी काया की गाँठ}
+sīlabbataparāmāso kāyagantho: {the bodily tie of misapprehending rules and vows (nominative sg.): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा रूपी काया की गाँठ}
 ganthā: {ties, knots that bind (nominative pl.): गाँठ}
 sacca: {truth, what is true, as in idaṃsaccābhinivesa (compound member): सत्य}
 vuccati abhijjhā kāya: {'is called the bodily tie of covetousness', the closing formula: लालच रूपी काया … कहा जाता है}
 vuccati byāpādo kāya: {'is called the bodily tie of ill will', the closing formula: दुर्भावना रूपी काया … कहा जाता है}
 acarī: {did (harm), in 'he did me harm' (3rd sg. aorist): किया}
-vuccati sīlabbataparāmāso kāya: {'is called the bodily tie of misapprehending rules and vows', the closing formula: सदाचार और व्रतों के बारे में ग़लत धारणा रूपी काया … कहा जाता है}
+vuccati sīlabbataparāmāso kāya: {'is called the bodily tie of misapprehending rules and vows', the closing formula: नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा रूपी काया … कहा जाता है}
 moghamaññanti: {'everything else is false', in the dogmatic view formula: बाकी सब झूठ}
 sarīraṃ: {the body, in the view 'the soul is the body' (nominative sg.): शरीर}
 vuccati idaṃsaccābhiniveso kāya: {'is called the bodily tie of dogmatic insistence', the closing formula: “केवल यही सत्य है” के आग्रह रूपी काया … कहा जाता है}
 maraṇā: {after death, in 'the Tathāgata exists after death' (ablative, without quotation particle): मृत्यु}
-sīlabbataparāmāsaṃ: {misapprehension of rules and vows, wrong grasping of them (accusative sg.): सदाचार और व्रतों के बारे में ग़लत धारणा}
+sīlabbataparāmāsaṃ: {misapprehension of rules and vows, wrong grasping of them (accusative sg.): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा}
 idaṃsaccābhiniveso kāyagantho: {the bodily tie of dogmatic insistence 'this alone is true' (nominative sg.): “केवल यही सत्य है” के आग्रह रूपी काया की गाँठ}
-sīlabbataparāmāsaṃ kāyaganthaṃ: {the bodily tie of misapprehending rules and vows (accusative sg.): सदाचार और व्रतों के बारे में ग़लत धारणा रूपी काया की गाँठ}
+sīlabbataparāmāsaṃ kāyaganthaṃ: {the bodily tie of misapprehending rules and vows (accusative sg.): नियमों और व्रतों को ही शुद्धि का मार्ग मानने की ग़लत धारणा रूपी काया की गाँठ}
 dhammā ganthaniyā: {phenomena that are objects of the ties (nominative pl.): गाँठों का विषय बनने वाली परिघटना}
 ganthaniyā: {objects of the ties, subject to them (nominative pl.): गाँठों का विषय बनने वाला}
 dhammā aganthaniyā: {phenomena that are not objects of the ties (nominative pl.): गाँठों का विषय न बनने वाली परिघटना}
@@ -1866,7 +1866,7 @@ dhammā upādā: {derived phenomena, matter dependent on the great elements (nom
 dhammā upādiṇṇā: {phenomena produced by past action, kamma-born (nominative pl.): कर्म से उत्पन्न परिघटना}
 dhammā anupādiṇṇā: {phenomena not produced by past action (nominative pl.): कर्म से उत्पन्न न होने वाली परिघटना}
 upādānā: {the clingings, forms of grasping (nominative pl.): आसक्ति}
-sīlabbatupādānaṃ: {clinging to rules and vows (nominative sg.): सदाचार और व्रतों के प्रति आसक्ति}
+sīlabbatupādānaṃ: {clinging to rules and vows (nominative sg.): नियमों और व्रतों के प्रति आसक्ति}
 kāmupādānaṃ: {clinging to sensual pleasures (nominative sg.): इंद्रिय-सुखों के प्रति आसक्ति}
 diṭṭhupādānaṃ: {clinging to views, grasping at opinions (nominative sg.): दृष्टियों के प्रति आसक्ति}
 vāda: {doctrine, theory, in attavāda (compound member): सिद्धांत}
@@ -1877,9 +1877,9 @@ dukkaṭānaṃ: {of ill-done deeds, badly done (genitive pl.): बुरा}
 sattā: {beings, living creatures (nominative pl.): प्राणी}
 brāhmaṇā: {brahmins, priests, in samaṇabrāhmaṇā (nominative pl.): ब्राह्मण}
 vuccati diṭṭhupādānaṃ: {'is called clinging to views', the closing formula: दृष्टियों के प्रति आसक्ति कहा जाता है}
-sīlabbatupādānañca: {and clinging to rules and vows (nominative sg.): सदाचार और व्रतों के प्रति आसक्ति}
+sīlabbatupādānañca: {and clinging to rules and vows (nominative sg.): नियमों और व्रतों के प्रति आसक्ति}
 abhiññā: {by direct knowledge, higher knowing (instrumental): उच्च ज्ञान}
-Natthi: {there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): व्यर्थ और नहीं}
+Natthi: {there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): नहीं}
 pitā: {father, in 'there is no father' (nominative sg.): पिता}
 gatā: {gone, arrived (rightly), in sammaggatā (nominative pl. participle): पहुँचा हुआ}
 pavedentīti: {they make known, proclaim (3rd pl. present): बताना}
@@ -1888,7 +1888,7 @@ paṭipannā: {practising, walking the path (nominative pl. participle): सा�
 sacchikatvā: {having realised, experienced directly (absolutive): साक्षात्कार करके}
 opapātikā: {spontaneously reborn, appearing without parents (nominative pl.): स्वतः जन्म लेने वाला}
 hutaṃ: {what is offered in sacrifice, oblation (neuter sg.): आहुति}
-vuccati sīlabbatupādānaṃ: {'is called clinging to rules and vows', the closing formula: सदाचार और व्रतों के प्रति आसक्ति कहा जाता है}
+vuccati sīlabbatupādānaṃ: {'is called clinging to rules and vows', the closing formula: नियमों और व्रतों के प्रति आसक्ति कहा जाता है}
 vuccati attavādupādānaṃ: {'is called clinging to a doctrine of self', the closing formula: आत्मा के सिद्धांत के प्रति आसक्ति कहा जाता है}
 dhammā upādāniyā: {phenomena that are objects of clinging (nominative pl.): आसक्ति का विषय बनने वाली परिघटना}
 dhammā anupādāniyā: {phenomena that are not objects of clinging (nominative pl.): आसक्ति का विषय न बनने वाली परिघटना}
@@ -1912,12 +1912,12 @@ dhammā asaṃkiliṭṭhā: {phenomena not defiled (nominative pl.): क्ल�
 kilesavippayuttā: {dissociated from the defilements (nominative pl. participle): क्लेशों से अलग}
 dhammā kilesavippayuttā: {phenomena dissociated from the defilements (nominative pl.): क्लेशों से अलग परिघटना}
 kileso: {a defilement, mental corruption (nominative sg.): मन का क्लेश}
-uddhaccaṃ anottappena: {restlessness together with moral fearlessness (phrase): बेचैनी बुराई के प्रति निडरता के साथ}
+uddhaccaṃ anottappena: {restlessness together with moral fearlessness (phrase): बेचैनी बुराई से न डरने की वृत्ति के साथ}
 uddhaccaṃ ahirikena: {restlessness together with shamelessness (phrase): बेचैनी निर्लज्जता के साथ}
-ahirikaṃ anottappena: {shamelessness together with moral fearlessness (phrase): निर्लज्जता बुराई के प्रति निडरता के साथ}
+ahirikaṃ anottappena: {shamelessness together with moral fearlessness (phrase): निर्लज्जता बुराई से न डरने की वृत्ति के साथ}
 ahirikaṃ uddhaccena: {shamelessness together with restlessness (phrase): निर्लज्जता बेचैनी के साथ}
-anottappaṃ uddhaccena: {moral fearlessness together with restlessness (phrase): बुराई के प्रति निडरता बेचैनी के साथ}
-anottappaṃ ahirikena: {moral fearlessness together with shamelessness (phrase): बुराई के प्रति निडरता निर्लज्जता के साथ}
+anottappaṃ uddhaccena: {moral fearlessness together with restlessness (phrase): बुराई से न डरने की वृत्ति बेचैनी के साथ}
+anottappaṃ ahirikena: {moral fearlessness together with shamelessness (phrase): बुराई से न डरने की वृत्ति निर्लज्जता के साथ}
 kilesavippayuttā saṃkilesikā: {dissociated from the defilements but defiling (nominative pl.): क्लेशों से अलग पर क्लेशों का विषय बनने वाला}
 vitakkā: {initial applications of mind to the object (nominative pl.): आरंभिक विचार}
 dhammā savitakkā: {phenomena with initial application of mind (nominative pl.): आरंभिक विचार वाली परिघटना}
@@ -1966,7 +1966,7 @@ dhammā vijjūpamā: {phenomena like lightning (nominative pl.): बिजली
 vajira: {diamond, thunderbolt, as a simile for wisdom (compound member): वज्र}
 Upariṭṭhime: {in the highest, the uppermost (locative): सबसे ऊँचा}
 magge: {in the path, of arahantship (locative): मार्ग}
-anottappañca: {and moral fearlessness, no fear of wrongdoing (nominative sg.): बुराई के प्रति निडरता}
+anottappañca: {and moral fearlessness, no fear of wrongdoing (nominative sg.): बुराई से न डरने की वृत्ति}
 bālā: {foolish, of fools (nominative pl.): मूर्खतापूर्ण}
 dhammā bālā: {phenomena of fools, foolish (nominative pl.): मूर्खतापूर्ण परिघटना}
 Ahirīkañca: {and shamelessness (nominative sg.): निर्लज्जता}
@@ -1995,7 +1995,7 @@ vohāro: {usage, conventional speech (nominative sg.): व्यवहार}
 abhilāpo: {utterance, speaking of (nominative sg.): उच्चारण}
 dhammā niruttipathā: {phenomena that are pathways of expression (nominative pl.): परिघटना … अभिव्यक्ति के मार्ग रूपी}
 dhammā paññattipathā: {phenomena that are pathways of designation (nominative pl.): परिघटना … नामकरण के मार्ग रूपी}
-nāmaṃ: {mentality, the mental side, the four immaterial aggregates and the unconditioned (nominative sg.): मानसिक पक्ष}
+nāmaṃ: {mentality, the mental side, the four immaterial aggregates and the unconditioned (nominative sg.): अभौतिक पक्ष}
 vuccati rūpaṃ: {'is called matter', the closing formula: भौतिक रूप कहा जाता है}
 vuccati bhavadiṭṭhi: {'is called the view of existence', the closing formula: अस्तित्व की दृष्टि कहा जाता है}
 Bhavissati: {will exist, will continue (3rd sg. future): रहना}
@@ -2062,10 +2062,10 @@ samāpatti: {meditative attainments, absorptions entered (compound member): ध�
 vuccati samāpattikusalatā: {'is called skill in meditative attainments', the closing formula: ध्यान-अवस्थाओं के विषय में कुशलता कहा जाता है}
 vuccati samāpattivuṭṭhānakusalatā: {'is called skill in emerging from meditative attainments', the closing formula: ध्यान-अवस्थाओं से बाहर आने में कुशलता कहा जाता है}
 vuccati dhātukusalatā: {'is called skill in the elements', the closing formula: तत्वों के विषय में कुशलता कहा जाता है}
-sotaviññāṇa: {ear-consciousness, hearing consciousness (compound member): कान की चेतना}
+sotaviññāṇa: {ear-consciousness, hearing consciousness (compound member): कान से होने वाला विज्ञान}
 Aṭṭhārasa: {the number eighteen (numeral): अठारह}
-ghānaviññāṇa: {nose-consciousness, smelling consciousness (compound member): नाक की चेतना}
-jivhāviññāṇa: {tongue-consciousness, tasting consciousness (compound member): जीभ की चेतना}
+ghānaviññāṇa: {nose-consciousness, smelling consciousness (compound member): नाक से होने वाला विज्ञान}
+jivhāviññāṇa: {tongue-consciousness, tasting consciousness (compound member): जीभ से होने वाला विज्ञान}
 manasikāra: {attention, bringing to mind (compound member): मनोयोग}
 vuccati manasikārakusalatā: {'is called skill in attention', the closing formula: मनोयोग के विषय में कुशलता कहा जाता है}
 manasikārakusalatā: {skill in attention, in wise bringing to mind (nominative sg.): मनोयोग के विषय में कुशलता}
@@ -2073,13 +2073,13 @@ manasikārakusalatā: {skill in attention, in wise bringing to mind (nominative 
 vuccati āyatanakusalatā: {'is called skill in the sense bases', the closing formula: इंद्रिय-क्षेत्रों के विषय में कुशलता कहा जाता है}
 samudayo: {arising, origin (nominative sg.): उत्पत्ति}
 jāti: {birth, being born (nominative sg.): जन्म}
-vuccati paṭiccasamuppādakusalatā: {'is called skill in dependent origination', closing formula of the definition: परस्पर-आश्रित उत्पत्ति के विषय में कुशलता कहा जाता है}
+vuccati paṭiccasamuppādakusalatā: {'is called skill in dependent origination', closing formula of the definition: कारणों पर आश्रित उत्पत्ति के विषय में कुशलता कहा जाता है}
 paccayā: {with X as condition, in the dependent origination formula: कारण}
 maraṇaṃ: {death, dying, in the dependent origination formula (nominative sg.): मृत्यु}
 upāyāsā: {despair, deep distress (nominative pl.): निराशा}
 bhavo: {becoming, existence, in the dependent origination formula (nominative sg.): अस्तित्व}
 parideva: {lamentation, wailing (compound member): विलाप}
-nāma: {mentality, the mental side of name-and-form (compound member): मानसिक पक्ष}
+nāma: {mentality, the mental side of name-and-form (compound member): अभौतिक पक्ष}
 samuppāda: {origination, in paṭiccasamuppāda 'dependent origination' (compound final): उत्पत्ति}
 soka: {sorrow, grief (compound member): शोक}
 kevalassa: {whole, entire, of the whole mass of suffering (genitive sg.): पूरा}
@@ -2187,7 +2187,7 @@ ananussati: {absence of recollection (nominative sg.): बार-बार स�
 appaṭissati: {absence of remembering, non-recall (nominative sg.): पुनः स्मरण का अभाव}
 paṭisaṅkhāna: {reflection, considering, in paṭisaṅkhānabala (compound member): सोच-विचार}
 bojjhaṅgā: {the factors of awakening (nominative pl.): जागृति का अंग}
-āsevanā: {cultivating, constant practice (nominative sg.): निरंतर सेवन}
+āsevanā: {cultivating, constant practice (nominative sg.): निरंतर आचरण}
 bahulīkammaṃ: {making much of, repeated practice (neuter sg.): बार-बार करना}
 samatha: {calm, tranquillity of mind (compound member): शांति}
 paggāha: {exertion, upholding of the mind (compound member): तत्परता}
@@ -2276,14 +2276,14 @@ uppanno: {come into being (masculine sg. participle): उत्पन्न}
 āruppā: {the immaterial attainments, absorptions of the formless (nominative pl.): अभौतिक अवस्था}
 vattabbo: {may be called, can be said to be (masculine sg.): कहा जा सकना}
 vattabbo savitakkasavicāro: {may be called 'with initial and sustained application' (masculine sg.): आरंभिक विचार और सतत विचार वाली परिघटना कहा जा सकना}
-pañcaviññāṇāni: {the twice-five sense consciousnesses (nominative pl.): पाँच-पाँच इंद्रिय-चेतना}
+pañcaviññāṇāni: {the twice-five sense consciousnesses (nominative pl.): पाँच-पाँच इंद्रिय-विज्ञान}
 savitakkasavicāro: {with initial and sustained application of mind (masculine sg.): आरंभिक विचार और सतत विचार वाला}
 uppanno ca vicāro: {and arisen sustained examination (nominative sg.): उत्पन्न सतत विचार}
 sahajāto: {born together, co-arisen (masculine sg.): के साथ उत्पन्न}
 lokuttaratikatikajjhānā: {world-transcending absorptions counted three in the fourfold and three in the fivefold method (nominative pl.): लोकोत्तर वे ध्यान जो चार-चार की विधि में तीन और पाँच-पाँच की विधि में तीन हैं}
 lokuttaradukatikajjhānā: {world-transcending absorptions counted two in the fourfold and three in the fivefold method (nominative pl.): लोकोत्तर वे ध्यान जो चार-चार की विधि में दो और पाँच-पाँच की विधि में तीन हैं}
 vattabbaṃ pītisahagatanti: {may be called 'accompanied by rapture' (neuter sg.): उल्लास के साथ होने वाली परिघटना … कहा जा सकना}
-siyā: {sometimes, in some cases (adverb): कभी}
+siyā: {sometimes, in some cases (adverb): कुछ स्थितियों में}
 sahagato: {accompanied by, compound final (masculine sg. participle): के साथ होने वाला}
 vicikicchāsahagato: {accompanied by doubt, said of the arising of mind (masculine sg.): संशय के साथ होने वाला}
 uppādo: {arising, origination (nominative sg.): उत्पत्ति}
@@ -2298,8 +2298,8 @@ vippayuttā lobha: {dissociated from view yet accompanied by greed, the paired c
 mohaṃ: {delusion, bewilderment (accusative sg.): मोह}
 sahagato moho: {delusion accompanied by doubt or restlessness (nominative sg.): के साथ होने वाला मोह}
 dhammā nevācayagāmināpacayagāmino: {phenomena leading neither to accumulation nor to its undoing (nominative pl.): न संचय की ओर न संचय घटाने की ओर ले जाने वाली परिघटना}
-kiriyāhetukamanoviññāṇa: {the rootless functional mind-consciousness (compound member): मूल से रहित केवल क्रिया रूपी मन की चेतना}
-kiriyāhetukamanoviññāṇadhātu: {the rootless functional mind-consciousness element (nominative sg.): मूल से रहित केवल क्रिया रूपी मन की चेतना का … तत्व}
+kiriyāhetukamanoviññāṇa: {the rootless functional mind-consciousness (compound member): मूल से रहित केवल क्रिया रूपी मन से होने वाला विज्ञान}
+kiriyāhetukamanoviññāṇadhātu: {the rootless functional mind-consciousness element (nominative sg.): मूल से रहित केवल क्रिया रूपी मन से होने वाले विज्ञान का … तत्व}
 vattabbā parittārammaṇā: {may be called 'having a limited object' (nominative pl.): सीमित विषय वाली परिघटना कहा जा सकना}
 vippayutta: {dissociated from, compound final (stem): अलग}
 ñāṇavippayutta: {dissociated from knowledge, compound final (stem): ज्ञान से अलग}
@@ -2318,7 +2318,7 @@ vattabbā atītārammaṇā: {may be called 'having a past object' (nominative p
 manodhātuyo: {the mind elements (nominative pl.): मन का तत्व}
 baddha: {bound, tied, in indriyabaddha (compound final): बँधा}
 indriya: {sense faculty, in indriyabaddha 'bound to the faculties' (compound member): इंद्रिय}
-indriyabaddharūpañca nibbānañca: {matter bound to the faculties, and Nibbāna (nominative sg.): इंद्रियों से बँधा भौतिक रूप और निर्वाण}
+indriyabaddharūpañca nibbānañca: {matter not bound to the faculties, and Nibbāna; the key is found inside anindriyabaddha- (nominative sg.): इंद्रियों से न बँधा भौतिक रूप और निर्वाण}
 jhānassa: {of the meditative absorption (genitive sg.): ध्यान}
 vattabbaṃ ajjhattārammaṇanti: {may be called 'having an internal object' (neuter sg.): स्वयं से संबंधित विषय वाली परिघटना कहा जा सकना}
 catutthassa jhānassa: {of the fourth absorption (genitive sg.): चौथा ध्यान}
@@ -2347,7 +2347,7 @@ ekato: {together, jointly (adverb): एक साथ}
 uppanne hetū: {roots that have arisen (nominative pl.): उत्पन्न मूल}
 Ahetukā dhammā: {rootless phenomena, without root conditions (nominative pl.): मूल से रहित परिघटना}
 vippayuttā dhammā: {phenomena dissociated from X (nominative pl.): अलग परिघटना}
-dhammā kenaci viññeyyā: {phenomena cognisable by some one kind of consciousness (nominative pl.): किसी एक प्रकार की चेतना से जानी जा सकने वाली परिघटना}
+dhammā kenaci viññeyyā: {phenomena cognisable by some one kind of consciousness (nominative pl.): किसी एक प्रकार के विज्ञान से जानी जा सकने वाली परिघटना}
 uppādesu: {arising, origination (locative): उत्पत्ति}
 cittuppādesu: {the arising of mind, a mind-moment (locative): मन की उत्पत्ति}
 sampayutte: {conjoined with (locative): जुड़ा}
@@ -2464,7 +2464,7 @@ bālā dhammā: {foolish phenomena, belonging to fools, a matrix heading (nomina
 paṇḍitā dhammā: {wise phenomena, belonging to the wise, a matrix heading (nominative pl.): बुद्धिमत्तापूर्ण परिघटना}
 sukkā dhammā: {bright, white phenomena, a matrix heading (nominative pl.): उजली परिघटना}
 kaṇhā dhammā: {dark, black phenomena, a matrix heading (nominative pl.): काली परिघटना}
-nāmañca: {mentality, the mental side of name-and-form (nominative sg.): मानसिक पक्ष}
+nāmañca: {mentality, the mental side of name-and-form (nominative sg.): अभौतिक पक्ष}
 ahirikañca: {shamelessness, lack of moral shame (nominative sg.): निर्लज्जता}
 soraccañca: {gentleness, being well-restrained (nominative sg.): सौम्यता}
 sākhalyañca: {courtesy, kindliness of manner (nominative sg.): मधुर व्यवहार}
