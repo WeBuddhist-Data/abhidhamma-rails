@@ -1,0 +1,34 @@
+== 0. protected inputs (termbase, zero-shot chapters + merged file, generators, my3_formulas, pi-1 / pi-2 final) unchanged
+protected md5: unchanged (75 files)
+termbase sha256: recorded lock
+== 1. reproduction test (build without the layer = the zero-shot), build (zero-shot generators + rails layer), residual rules
+plain build = zero-shot: 16 of 16 files identical
+layer: 0 source patches
+0 rule entries; 0 replacements
+2 rules; 4 replacements; 4 lines changed
+rails folder: 16 files
+== 2. check_chapter_ids / check_text_pe (pi-6-mr wrapper, copies in rails/chk-pe) / pi-4-mr/check_marks.py
+ids+text+marks over 16 files: OK
+typography (no «?», no Zawgyi range, NFC): OK
+== 3. termbase adherence: zero-shot input, rails, classification
+zero-shot: checked 8430; misses 8 (input file reproduced)
+rails: checked 8430; misses 6
+8 zero-shot misses + 0 rails-introduced: ARTEFACT 5, GENUINE 2, INFLECTION 1
+misses left: ARTEFACT 5, INFLECTION 1; GENUINE fixed 2; INFLECTION/ARTEFACT rows no longer listed 0; GENUINE or unknown left 0
+
+sense-level: keyword-map values: 8442; = a termbase term: 8412; explained: 30; unexplained: 0
+== 4. cross-chapter alignment
+align: repeated Pāli sentences: 75; with differing Burmese: 5; lines compared whole: 5
+rails align differences: 5 (zero-shot 5); new in the rails: 0; no longer differing: 0; harmonise_align_kept on the rails: differences explained by the subject's number: 5; not explained: 0
+hidden: uneven lines 5 | unmatched repeated sentences: 0
+== 5. pi-1 / pi-2 identity (every pi-3 sentence that occurs in pi-1 / pi-2 keeps their final rails Burmese)
+pi-1 identity: 13 / 13 identical; differing: 0
+pi-2 identity: 12 / 12 identical; differing: 0
+== 6. per-line scan of the rails families (H1-H4, plural-marker terms)
+line scan: 0 lines left (zero-shot 8 flags; 26 of 26 families with Pāli hits)
+== 7. lines changed against the zero-shot
+total	4 of 673 lines changed
+== 8. rerun stability (outputs against the previous run)
+rerun: no byte changed (31 files)
+termbase sha256 857bfa8eff94 (locked, read only; recorded 857bfa8eff94)
+ALL CHECKS PASSED

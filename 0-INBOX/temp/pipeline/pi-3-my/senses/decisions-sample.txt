@@ -1,0 +1,83 @@
+# Pāli→Burmese pi-3 sense decisions, written by gen_decisions_my.py from agg-sample.tsv
+# English tags: pi-2 then pi-1 Burmese senses (binding), else Marathi pi-3 senses (tags only), or MANUAL;
+# values: pi-3 Burmese keyword map only.
+abhidhamma: {the higher teaching, first member of the Piṭaka name: အဘိဓမ္မာ}
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+kathā: {talk or treatise, as in the book title: ဆွေးနွေးခြင်း}
+Dhātukathā: {title of the third Abhidhamma book: ဓာတ်များအကြောင်း ဆွေးနွေးခြင်း}
+dhātu: {element, irreducible constituent (stem and compound final): ဓာတ်}
+sampayuttaṃ: {conjoined with, compound final (neuter sg. participle): ယှဉ်တွဲသော}
+vippayuttaṃ: {dissociated from (neuter sg. participle): ကင်းကွာသော}
+vippayogo: {dissociation, the method of non-conjunction, in sampayogo vippayogo (nominative noun): ကင်းကွာခြင်း}
+asaṅgahitaṃ: {not comprised within a category (neuter sg. participle): အကျုံးမဝင်သော}
+asaṅgaho: {the method of non-comprising (nominative noun): အကျုံးမဝင်ခြင်း}
+saṅgaho: {inclusion, the method of comprising within a category, in saṅgaho asaṅgaho (nominative noun): အကျုံးဝင်ခြင်း}
+saṅgaho asaṅgaho: {name of the first method, comprising and not comprising: အကျုံးဝင်ခြင်း အကျုံးမဝင်ခြင်း}
+Uddeso: {the summary statement, opening list (heading): အကျဉ်း ဖော်ပြချက်}
+naya: {modes of treatment, in the heading Nayamātikā: ခွဲနည်း}
+mātikā: {the matrix, the book's list of topics (heading): ခေါင်းစဉ်စာရင်း}
+abbhantara: {interior, as in the heading of the internal schedule: အတွင်း}
+nayamukha: {entry points of the methods (heading compound): ခွဲနည်း၏ တံခါးဝ}
+lakkhaṇa: {distinguishing marks, in the heading on marks of the topics: လက္ခဏာ}
+bāhira: {exterior, as in the heading of the external schedule: ပြင်ပ}
+Bāhiramātikā: {heading for the external schedule (the Dhammasaṅgaṇī topics): ပြင်ပ ခေါင်းစဉ်စာရင်း}
+jhānāni: {meditative absorptions (nominative pl.): ဈာန်}
+khandhā: {aggregates, groups of phenomena (nominative pl.): အစုအဝေး}
+manasikāro: {attention, directing the mind (nominative sg.): နှလုံးသွင်းခြင်း}
+bodhi: {awakening, enlightenment, in bojjhaṅga (compound member): ဗောဇ္ဈင်}
+āyatanāni: {sense bases, the sense fields (nominative pl.): အာရုံခံ နယ်ပယ်}
+phasso: {sense contact, the meeting of sense, object and consciousness (nominative sg.): တွေ့ထိမှု}
+paṭicca: {dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition: အကြောင်းတို့ကို မှီ၍}
+padhānā: {strivings, efforts, in sammappadhānā (nominative pl.): ကြိုးပမ်းအားထုတ်ခြင်း}
+aṭṭhārasa: {the number eighteen (numeral): ဆယ့်ရှစ်ပါး}
+aṭṭhārasa dhātuyo: {the eighteen elements (nominative pl.): ဓာတ် ဆယ့်ရှစ်ပါး}
+aṭṭhaṅgiko: {having eight factors, of the path (masculine sg.): အင်္ဂါ ရှစ်ပါး ရှိသော}
+dhātuyo: {elements, constituents (nominative pl.): ဓာတ်}
+indriyāni: {controlling faculties (nominative pl.): စွမ်းရည်}
+vedanā: {feeling, the affective tone of experience (nominative sg.): ခံစားမှု}
+upaṭṭhānā: {establishments, in the four foundations of mindfulness (nominative pl.): ပဋ္ဌာန်}
+appamaññāyo: {the boundless states, the immeasurables (nominative pl.): အပ္ပမညာ}
+cetanā: {intention, volition (nominative sg.): စေ့ဆော်မှု}
+cittaṃ: {mind, a state or type of mind (nominative/accusative sg.): စိတ်}
+sati: {mindfulness, alert presence of mind (nominative sg.): သတိ}
+ariyo: {noble, of the noble eightfold path (masculine sg.): အရိယာ}
+samuppādo: {arising together, second half of dependent origination (nominative sg.): ဖြစ်ပေါ်ပုံ}
+maggo: {the path, as a set of factors (nominative sg.): မဂ်}
+saññā: {perception, recognition (nominative sg.): မှတ်သိမှု}
+iddhi: {spiritual power, success, in iddhipāda (compound member): ဣဒ္ဓိ}
+balāni: {mental powers (nominative pl.): စွမ်းအား}
+sammā: {right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā): မှန်ကန်သော; perfectly, in sammāsambuddha (title line): အပြည့်အဝ}
+saccāni: {truths, the noble realities (nominative/accusative pl.): သစ္စာ}
+dvādasa: {the number twelve (numeral): ဆယ့်နှစ်ပါး}
+dvādasāyatanāni: {the twelve sense bases (nominative pl.): အာရုံခံ နယ်ပယ် ဆယ့်နှစ်ပါး}
+bāvīsati: {the number 22, counting the faculties: နှစ်ဆယ့်နှစ်ပါး}
+nayo: {method of analysis (nominative sg.): ခွဲနည်း}
+asaṅgaha: {non-comprising, as heading compound member: အကျုံးမဝင်ခြင်း}
+niddeso: {detailed exposition, section heading (nominative): အကျယ် ဖော်ပြချက်}
+saṅgaha: {inclusion, comprising, as heading compound member (Saṅgahāsaṅgahapadaniddeso): အကျုံးဝင်ခြင်း}
+saṅgahāsaṅgaha: {name of the first method in the headings (compound): အကျုံးဝင်ခြင်းနှင့် အကျုံးမဝင်ခြင်း}
+khandho: {aggregate, group of phenomena (nominative sg.): အစုအဝေး}
+Āyatanaṃ: {sense base, the sense field (nominative/accusative sg.): အာရုံခံ နယ်ပယ်}
+saccaṃ: {truth, a noble truth (accusative sg.): သစ္စာ}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya): စွမ်းရည်}
+ādi: {and so on, closing a list in headings (compound final): စသည်}
+samuppāda: {origination, in paṭiccasamuppāda 'dependent origination' (compound final): ဖြစ်ပေါ်ပုံ}
+asaṅgahita: {not comprised (stem in heading compounds): အကျုံးမဝင်သော}
+visabhāgo: {of a dissimilar class (nominative sg.): ကွဲပြားသော သဘော}
+bhāga: {class, kind, in sabhāga and visabhāga (compound final): သဘော}
+dhātukathāya: {the book title in the dative-genitive, for the Dhātukathā: ဓာတ်များအကြောင်း ဆွေးနွေးခြင်း}
+saṅgaṇī: {listing, second member of the book title: စုစည်းရေတွက်ခြင်း}
+dhammasaṅgaṇī: {title of the first Abhidhamma book: သဘောတရားများကို စုစည်းရေတွက်ခြင်း}
+dhamma: {phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what the mind as sixth sense knows (as in dhammāyatana): သဘောတရား}
+sabbā: {entire, the book in its totality (nominative fem.): အားလုံး}
+Rūpakkhandho: {the aggregate of material form (nominative sg.): ရုပ် အစုအဝေး}
+khandhehi: {the five aggregates as counted units (instrumental or ablative pl.): အစုအဝေး}
+āyatanehi: {the twelve sense bases as counted units (instrumental or ablative pl.): အာရုံခံ နယ်ပယ်}
+āyatanehi ekādasahi: {phrase counting eleven sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်တစ်ပါး}
+dhātūhi: {the eighteen elements as counted units (instrumental or ablative pl.): ဓာတ်}
+ekādasa: {the number eleven (numeral): ဆယ့်တစ်ပါး}
+ekādasahi dhātūhi: {phrase counting eleven of the elements (instrumental pl.): ဓာတ် ဆယ့်တစ်ပါး}
+ekādasahāyatanehi: {compound counting eleven of the sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် ဆယ့်တစ်ပါး}
+asaṅgahito: {not comprised within a category (masculine sg. participle): အကျုံးမဝင်သော}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter: သိမ်မွေ့သော ရုပ်; visible form, the object of the eye (compound member, as in rūpārammaṇa): အဆင်းအရောင်; matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha), also the material side of nāmarūpa (in nāmarūpapaccayā): ရုပ်}
+āyatanena: {a single sense base as counted unit (instrumental or ablative sg.): အာရုံခံ နယ်ပယ်}

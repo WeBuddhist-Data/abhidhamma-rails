@@ -1,0 +1,4 @@
+wrote 658 lines -> part1-senses.md
+input headwords: 658 (NDE-only omitted: 0) | expected lines: 658 | output lines: 658
+senses: 663 | headwords with >1 sense: 4 | senses with >1 candidate: 6
+VERIFY OK: headwords equal and in order, no duplicates, all attested values present

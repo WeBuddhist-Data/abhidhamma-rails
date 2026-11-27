@@ -1,0 +1,26 @@
+wrote 653 decision lines -> dryrun-part1-decisions.txt
+  manual 4 | p2_same 225 | p2_subset 35 | p2_plus_p1 4 | p2_lump 7 | p1_same 57 | p1_subset 1 | p1_lump 5 | mr 315 | case_only 98
+REVIEW (17): check, then add to LUMP_OK or MANUAL:
+  jīvita [pi-2 senses + pi-1 sense for အသက်]: အသက်
+  aññāta [pi-1 one sense, new values သိရသော]: သိရသော
+  arūpa [pi-2 one sense, new values ရုပ် မဟုတ်သော]: ရုပ်မရှိသော / ရုပ် မဟုတ်သော
+  hetukā dhammā [pi-1 one sense, new values အမြစ် … သဘောတရား]: အမြစ် ရှိသော သဘောတရား / အမြစ် … သဘောတရား
+  appamāṇa [pi-2 senses + pi-1 sense for အတိုင်းအဆ မရှိသော]: အတိုင်းအဆ မရှိသော
+  uppannā [pi-2 senses + pi-1 sense for ဖြစ်ပေါ်သော]: ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ပြီးသော
+  Bahiddhā dhammā [pi-1 one sense, new values မိမိ၏ ပြင်ပ၌ ရှိသော သဘောတရား]: မိမိ၏ ပြင်ပ၌ ရှိသော သဘောတရား
+  saṅkhārena [pi-1 one sense, new values ပြုပြင်ဖန်တီးမှု]: ပြုပြင်ဖန်တီးမှု
+  antara [pi-2 senses + pi-1 sense for ကြားညှပ်]: ကြားညှပ်
+  vidhā [pi-2 one sense, new values မျိုး]: မျိုး
+  hetukehi dhammehi [one Marathi tag]: အမြစ် ရှိသော သဘောတရား / အမြစ် … သဘောတရား
+  maccu [pi-2 one sense, new values သေခြင်း]: သေခြင်း
+  pare [pi-2 one sense, new values နောက်]: နောက်
+  paññāsa [pi-2 one sense, new values ငါးဆယ်ပါး]: ငါးဆယ်ပါး
+  antare [pi-2 one sense, new values ကြားညှပ်]: ကြားညှပ်
+  bhavena vippayuttā [one Marathi tag]: ဘဝနှင့် … ကင်းကွာသော / ဘဝနှင့် ကင်းကွာသော
+  uppannehi [one Marathi tag]: ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ပြီးသော
+UNRESOLVED (5): write MANUAL:
+  dukkha	pi-2 senses ["painful, hard, as in dukkhapaṭipadā 'painful practice' (compound member)", 'pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa)', 'suffering, the whole of what is unsatisfactory, in dukkhamūla and dukkhakkhandha (compound member)', "misery, affliction in the everyday sense, in dukkhadhammena phuṭṭhassa 'touched by some painful thing' and sukhadukkha 'pleasure and pain' of the views (compound member)"]	burmese=['နာကျင်မှု', 'ဒုက္ခ', 'နာကျင်']
+  dukkhaṃ	pi-2 senses ['pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ', 'suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.)']	burmese=['ကိုယ်ဆင်းရဲခြင်း']
+  niyatehi	Marathi tags=['fixed in destiny, the niyata dyad and its negation aniyatehi (instrumental pl. participle)', 'fixed in a wrong or right direction, in micchattaniyatehi and sammattaniyatehi (instrumental pl. participle)']	burmese=['ကျိန်းသေသော']
+  hetukehi	Marathi tags=['having roots to be abandoned, in dassanena or bhāvanāya pahātabbahetukehi (instrumental pl. adjective)', 'accompanied by roots or rootless, in sahetukehi and ahetukehi (instrumental pl. adjective)', 'having the path as root, in maggahetukehi (instrumental pl. adjective)']	burmese=['အမြစ်']
+  niyatehi dhammehi	Marathi tags=['states fixed in a wrong or right direction, in micchattaniyatehi and sammattaniyatehi (instrumental pl. phrase)', 'states fixed in destiny, the niyata dyad (instrumental pl. phrase)']	burmese=['ကျိန်းသေသော သဘောတရား']

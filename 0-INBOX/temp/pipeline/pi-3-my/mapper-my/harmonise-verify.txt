@@ -1,0 +1,44 @@
+preamble lines 3 bad []
+1-uddeso lines 11 bad []
+2-pathamanayo lines 173 bad []
+3-dutiyanayo lines 10 bad []
+4-tatiyanayo lines 14 bad []
+5-catutthanayo lines 4 bad []
+6-pancamanayo lines 37 bad []
+7-chatthanayo lines 84 bad []
+8-sattamanayo lines 13 bad []
+9-atthamanayo lines 4 bad []
+10-navamanayo lines 36 bad []
+11-dasamanayo lines 58 bad []
+12-ekadasamanayo lines 10 bad []
+13-dvadasamanayo lines 33 bad []
+14-terasamanayo lines 10 bad []
+15-cuddasamanayo lines 68 bad []
+
+## each script's verifier (re-run after the pass)
+# map_all.py
+preamble: lines 3 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 1) | comma/၊// [] | no-equivalent 0
+1-uddeso: lines 11 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 3) | comma/၊// [] | no-equivalent 1
+2-pathamanayo: lines 173 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 252) | comma/၊// [] | no-equivalent 1
+# map_ch3-6-8-9.py
+3-dutiyanayo: lines 10 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 2) | comma/၊// [] | no-equivalent 1
+4-tatiyanayo: lines 14 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 4) | comma/၊// [] | no-equivalent 1
+5-catutthanayo: lines 4 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 2) | comma/၊// [] | no-equivalent 1
+6-pancamanayo: lines 37 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 7) | comma/၊// [] | no-equivalent 1
+8-sattamanayo: lines 13 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 2) | comma/၊// [] | no-equivalent 0
+9-atthamanayo: lines 4 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 7) | comma/၊// [] | no-equivalent 0
+# map_ch7-10-11.py
+7-chatthanayo: lines 84 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 187) | comma/၊// [] | no-equivalent 1
+10-navamanayo: lines 36 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 5) | comma/၊// [] | no-equivalent 1
+11-dasamanayo: lines 58 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 15) | comma/၊// [] | no-equivalent 1
+# map_ch12-15.py
+12-ekadasamanayo: lines 10 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 21) | comma/၊// [] | no-equivalent 1
+13-dvadasamanayo: lines 33 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 39) | comma/၊// [] | no-equivalent 1
+14-terasamanayo: lines 10 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 19) | comma/၊// [] | no-equivalent 0
+15-cuddasamanayo: lines 68 | keyword preservation bad [] | presence failures 0 (rule-matched chunks 81) | comma/၊// [] | no-equivalent 1
+
+## book-wide: presence_check.presence() on every value of all 16 files; ', ' / ၊ / ' / ' in values
+values 8442 | presence failures 0 | comma / ၊ / « / » in a value 0
+
+## assembled AI_translation/burmese/pi-3-keywords-by-reference-pali-burmese-plain.md
+lines 568 (Pāli 568) | IDs once: True | same order as Pāli: True | keyword lists identical: True | keyword uses 8442 (Pāli 8442)

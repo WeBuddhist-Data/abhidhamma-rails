@@ -1,0 +1,2 @@
+wrote 658 decision lines -> decisions-part1.txt
+  manual 13 | p2_same 225 | p2_subset 35 | p2_plus_p1 4 | p2_lump 4 | p1_same 57 | p1_subset 1 | p1_lump 4 | mr 315 | case_only 98

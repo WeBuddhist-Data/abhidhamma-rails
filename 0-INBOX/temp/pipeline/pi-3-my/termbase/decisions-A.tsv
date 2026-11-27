@@ -1,0 +1,24 @@
+# pi-3 (Dhātukathā) Pāli→Burmese plain termbase: decisions. hw|sense_index <TAB> term <TAB> reason
+# Multi-candidate senses (6). Order of the brief: (a) locked pi-2 / pi-1 term, (b) approved core term, (c) most used form, (d) clearest.
+dukkha|0	နာကျင်မှု	pi-2 locked term (Dukkha|1, same sense «pain, painful feeling»; = pi-1 dukkha|1); dictionary form; «နာကျင်» is only the positive part of the fragment in «မနာကျင်» (adukkhamasukha)
+hetukā dhammā|0	အမြစ် ရှိသော သဘောတရား	pi-1 locked term (hetukā dhammā|0, same sense); the dictionary form; the gapped «အမြစ် … သဘောတရား» is only where the negated «na … pahātabbahetukā» puts «ရှိသည် မဟုတ်» between (approved sample M4: placement, not another word)
+hetukehi dhammehi|0	အမြစ် ရှိသော သဘောတရား	family: = hetukā dhammā (pi-1 locked); instrumental items take the value of their nominative (map-harmonise decision 3); 8 of 10 uses; the gap only in the negated ^3-486 / ^3-511
+uppannā|0	ဖြစ်ပေါ်ပြီးသော	pi-2 locked term (uppannā|0, same sense; pi-1 APPROVED uppanna «ဖြစ်ပေါ်ပြီးသော»); «ဖြစ်ပေါ်သော» is only the positive part of the fragment in Anuppannā «မဖြစ်ပေါ်သေးသော»
+uppannehi|0	ဖြစ်ပေါ်ပြီးသော	family: = uppannā (pi-2 locked, pi-1 APPROVED); the word itself at ^3-491 is «ဖြစ်ပေါ်ပြီးသော»; ^3-385 «ဖြစ်ပေါ်သော» is the fragment of Anuppannehi
+bhavena vippayuttā|0	ဘဝနှင့် ကင်းကွာသော	approved core pattern vippayutta = «Nနှင့် ကင်းကွာသော» (burmese-style.md), as Adhimokkhena vippayuttā «ဆုံးဖြတ်မှုနှင့် ကင်းကွာသော» and dhammehi vippayuttā; the dictionary form; the gapped form (4 of 7 uses) only has other listed items between (^3-365, ^3-366, ^3-470, ^3-471)
+#
+# Kept single-candidate senses that differ from a locked pi-2 / pi-1 term (no decision line; reported to the user):
+# same sense, locked term absent from the pi-3 text or the user-approved sample difference:
+#   bodhi|0 ဗောဇ္ဈင် (pi-2 ဗောဓိ; approved sample, the text's one word for bojjhaṅga) · aññāta|0 သိရသော (pi-1 သိသော; approved sample, «မသိရသေးသည်ကို»)
+#   dukkhaṃ|0 ကိုယ်ဆင်းရဲခြင်း (pi-1 / pi-2 နာကျင်မှု; approved sample; grief series soko … upāyāso, = pi-2 rails text ^2-206, = dukkhena)
+#   appamāṇa|0 အတိုင်းအဆ မရှိသော (pi-2 အပ္ပမာဏ absent; = pi-1 appamāṇa, = the whole appamāṇ- family)
+#   antare|0 ကြားညှပ် (pi-2 အကြား «etasmiṃ antare» absent; the intermediate section cūḷantare / paṭhamantare = pi-1 antara «ကြားညှပ်»)
+#   paññāsa|0 ငါးဆယ်ပါး (pi-2 ငါးဆယ် is the bare numeral before a noun; the pi-3 verse counts items with «ပါး» like every other pi-3 count)
+#   Arūpino dhammā|0 ရုပ် မဟုတ်သော သဘောတရား (pi-1 has the same words with a gap; ^3-121 is contiguous, = Arūpīhi dhammehi)
+#   maccu|0 သေခြင်း (pi-2 review change A8 «သေဆုံးခြင်း» not aligned: in pi-3 maccu is the summary verse's name for the list item maraṇaṃ «သေခြင်း», parallel verse mataṃ «သေခြင်း»; no synonym list to keep apart; «သေဆုံး» is absent from the pi-3 text)
+# different sense from the locked entry of the same headword: vippayogo, saṅgaho, saṅgaha, saṅkhārena, vidhā, pare, arūpa|1
+# text inconsistencies: pucchake ဖော်ပြချက် (heading member, = pi-2 Pañhāpucchakaṃ) vs pucchakena မေးခွန်း (the question itself in moghapucchaka): two senses, one word each;
+#   plural markers: the termbase term dhammehi vippayuttā «သဘောတရားများနှင့် ကင်းကွာသော» fixes the item phrase; «tehi dhammehi» is no keyword and its «ထိုသဘောတရားတို့နှင့်» = the pi-1 rails text (43 uses), so no change;
+#   arūpa spacing: ရုပ်မရှိသော (planes) vs ရုပ် မဟုတ်သော (non-material aggregates): two senses, spelling kept as in pi-1 / pi-2.
+# Review fix A3 / B3, decided by the coordinator under the user's standing go-ahead (2026-11-19, "dont ask for my permission"): subuddho = "is well understood" (a completed state), not "should be understood".
+buddho|0	နားလည်ပြီးသော	review fix A3 / B3 2026-11-19: subuddho is well understood (past participle), not the gerundive «နားလည်အပ်သော»

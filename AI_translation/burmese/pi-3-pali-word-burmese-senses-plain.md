@@ -1,0 +1,658 @@
+abhidhamma: {the higher teaching, first member of the Piṭaka name: အဘိဓမ္မာ}
+Abhidhammapiṭake: {the Abhidhamma basket of the canon (locative, in the title line): အဘိဓမ္မာပိဋက}
+kathā: {talk or treatise, as in the book title: ဆွေးနွေးခြင်း}
+Dhātukathā: {title of the third Abhidhamma book: ဓာတ်များအကြောင်း ဆွေးနွေးခြင်း}
+dhātu: {element, irreducible constituent (stem and compound final): ဓာတ်}
+sampayuttaṃ: {conjoined with, compound final (neuter sg. participle): ယှဉ်တွဲသော}
+vippayuttaṃ: {dissociated from (neuter sg. participle): ကင်းကွာသော}
+vippayogo: {dissociation, the method of non-conjunction, in sampayogo vippayogo (nominative noun): ကင်းကွာခြင်း}
+asaṅgahitaṃ: {not comprised within a category (neuter sg. participle): အကျုံးမဝင်သော}
+asaṅgaho: {the method of non-comprising (nominative noun): အကျုံးမဝင်ခြင်း}
+saṅgaho: {inclusion, the method of comprising within a category, in saṅgaho asaṅgaho (nominative noun): အကျုံးဝင်ခြင်း}
+saṅgaho asaṅgaho: {name of the first method, comprising and not comprising: အကျုံးဝင်ခြင်း အကျုံးမဝင်ခြင်း}
+Uddeso: {the summary statement, opening list (heading): အကျဉ်း ဖော်ပြချက်}
+naya: {modes of treatment, in the heading Nayamātikā: ခွဲနည်း}
+mātikā: {the matrix, the book's list of topics (heading): ခေါင်းစဉ်စာရင်း}
+abbhantara: {interior, as in the heading of the internal schedule: အတွင်း}
+nayamukha: {entry points of the methods (heading compound): ခွဲနည်း၏ တံခါးဝ}
+lakkhaṇa: {distinguishing marks, in the heading on marks of the topics: လက္ခဏာ}
+bāhira: {exterior, as in the heading of the external schedule: ပြင်ပ}
+Bāhiramātikā: {heading for the external schedule (the Dhammasaṅgaṇī topics): ပြင်ပ ခေါင်းစဉ်စာရင်း}
+jhānāni: {meditative absorptions (nominative pl.): ဈာန်}
+khandhā: {aggregates, groups of phenomena (nominative pl.): အစုအဝေး}
+manasikāro: {attention, directing the mind (nominative sg.): နှလုံးသွင်းခြင်း}
+bodhi: {awakening, enlightenment, in bojjhaṅga (compound member): ဗောဇ္ဈင်}
+āyatanāni: {sense bases, the sense fields (nominative pl.): အာရုံခံ နယ်ပယ်}
+phasso: {sense contact, the meeting of sense, object and consciousness (nominative sg.): တွေ့ထိမှု}
+paṭicca: {dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition: အကြောင်းတို့ကို မှီ၍}
+padhānā: {strivings, efforts, in sammappadhānā (nominative pl.): ကြိုးပမ်းအားထုတ်ခြင်း}
+aṭṭhārasa: {the number eighteen (numeral): ဆယ့်ရှစ်ပါး}
+aṭṭhārasa dhātuyo: {the eighteen elements (nominative pl.): ဓာတ် ဆယ့်ရှစ်ပါး}
+aṭṭhaṅgiko: {having eight factors, of the path (masculine sg.): အင်္ဂါ ရှစ်ပါး ရှိသော}
+dhātuyo: {elements, constituents (nominative pl.): ဓာတ်}
+indriyāni: {controlling faculties (nominative pl.): စွမ်းရည်}
+vedanā: {feeling, the affective tone of experience (nominative sg.): ခံစားမှု}
+upaṭṭhānā: {establishments, in the four foundations of mindfulness (nominative pl.): ပဋ္ဌာန်}
+appamaññāyo: {the boundless states, the immeasurables (nominative pl.): အပ္ပမညာ}
+cetanā: {intention, volition (nominative sg.): စေ့ဆော်မှု}
+cittaṃ: {mind, a state or type of mind (nominative/accusative sg.): စိတ်}
+sati: {mindfulness, alert presence of mind (nominative sg.): သတိ}
+ariyo: {noble, of the noble eightfold path (masculine sg.): အရိယာ}
+samuppādo: {arising together, second half of dependent origination (nominative sg.): ဖြစ်ပေါ်ပုံ}
+maggo: {the path, as a set of factors (nominative sg.): မဂ်}
+saññā: {perception, recognition (nominative sg.): မှတ်သိမှု}
+iddhi: {spiritual power, success, in iddhipāda (compound member): ဣဒ္ဓိ}
+balāni: {mental powers (nominative pl.): စွမ်းအား}
+sammā: {right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā): မှန်ကန်သော; perfectly, in sammāsambuddha (title line): အပြည့်အဝ}
+saccāni: {truths, the noble realities (nominative/accusative pl.): သစ္စာ}
+dvādasa: {the number twelve (numeral): ဆယ့်နှစ်ပါး}
+dvādasāyatanāni: {the twelve sense bases (nominative pl.): အာရုံခံ နယ်ပယ် ဆယ့်နှစ်ပါး}
+bāvīsati: {the number 22, counting the faculties: နှစ်ဆယ့်နှစ်ပါး}
+nayo: {method of analysis (nominative sg.): ခွဲနည်း}
+asaṅgaha: {non-comprising, as heading compound member: အကျုံးမဝင်ခြင်း}
+niddeso: {detailed exposition, section heading (nominative): အကျယ် ဖော်ပြချက်}
+saṅgaha: {inclusion, comprising, as heading compound member (Saṅgahāsaṅgahapadaniddeso): အကျုံးဝင်ခြင်း}
+saṅgahāsaṅgaha: {name of the first method in the headings (compound): အကျုံးဝင်ခြင်းနှင့် အကျုံးမဝင်ခြင်း}
+khandho: {aggregate, group of phenomena (nominative sg.): အစုအဝေး}
+Āyatanaṃ: {sense base, the sense field (nominative/accusative sg.): အာရုံခံ နယ်ပယ်}
+saccaṃ: {truth, a noble truth (accusative sg.): သစ္စာ}
+indriyaṃ: {controlling faculty, one of the twenty-two (nominative sg.), the same value also naming the sense faculty to be guarded in the restraint passage (cakkhundriya): စွမ်းရည်}
+ādi: {and so on, closing a list in headings (compound final): စသည်}
+samuppāda: {origination, in paṭiccasamuppāda 'dependent origination' (compound final): ဖြစ်ပေါ်ပုံ}
+asaṅgahita: {not comprised (stem in heading compounds): အကျုံးမဝင်သော}
+visabhāgo: {of a dissimilar class (nominative sg.): ကွဲပြားသော သဘော}
+bhāga: {class, kind, in sabhāga and visabhāga (compound final): သဘော}
+dhātukathāya: {the book title in the dative-genitive, for the Dhātukathā: ဓာတ်များအကြောင်း ဆွေးနွေးခြင်း}
+saṅgaṇī: {listing, second member of the book title: စုစည်းရေတွက်ခြင်း}
+dhammasaṅgaṇī: {title of the first Abhidhamma book: သဘောတရားများကို စုစည်းရေတွက်ခြင်း}
+dhamma: {phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what the mind as sixth sense knows (as in dhammāyatana): သဘောတရား}
+sabbā: {entire, the book in its totality (nominative fem.): အားလုံး}
+Rūpakkhandho: {the aggregate of material form (nominative sg.): ရုပ် အစုအဝေး}
+khandhehi: {the five aggregates as counted units (instrumental or ablative pl.): အစုအဝေး}
+āyatanehi: {the twelve sense bases as counted units (instrumental or ablative pl.): အာရုံခံ နယ်ပယ်}
+āyatanehi ekādasahi: {phrase counting eleven sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်တစ်ပါး}
+dhātūhi: {the eighteen elements as counted units (instrumental or ablative pl.): ဓာတ်}
+ekādasa: {the number eleven (numeral): ဆယ့်တစ်ပါး}
+ekādasahi dhātūhi: {phrase counting eleven of the elements (instrumental pl.): ဓာတ် ဆယ့်တစ်ပါး}
+ekādasahāyatanehi: {compound counting eleven of the sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် ဆယ့်တစ်ပါး}
+asaṅgahito: {not comprised within a category (masculine sg. participle): အကျုံးမဝင်သော}
+rūpa: {the fine-material sphere, as in rūpāvacara and rūpūpapatti (compound member), rūpa in rūpasaññā of the immaterial-jhāna formula being given under matter: သိမ်မွေ့သော ရုပ်; visible form, the object of the eye (compound member, as in rūpārammaṇa): အဆင်းအရောင်; matter, material form (heading and compound member, as in Rūpakaṇḍa and rūpakkhandha), also the material side of nāmarūpa (in nāmarūpapaccayā): ရုပ်}
+āyatanena: {a single sense base as counted unit (instrumental or ablative sg.): အာရုံခံ နယ်ပယ်}
+pañcama: {ordinal 5th, in method headings: ပဉ္စမ}
+vedanākkhandho: {the aggregate of feeling (nominative sg.): ခံစားမှု အစုအဝေး}
+āyatanehi sattarasahi: {phrase counting seventeen sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်ခုနစ်ပါး}
+dhātuyā: {of or in the element, irreducible constituent, as in manodhātuyā (genitive/locative sg.): ဓာတ်}
+sattarasahi: {the number 17 (instrumental pl.): ဆယ့်ခုနစ်ပါး}
+sattarasahi dhātūhi: {phrase counting seventeen of the elements (instrumental pl.): ဓာတ် ဆယ့်ခုနစ်ပါး}
+chaṭṭha: {ordinal 6th, in method headings: ဆဋ္ဌမ}
+vippayoga: {non-conjunction, as heading compound member: ကင်းကွာခြင်း}
+sacca: {the truths, in saccānulomikañāṇa 'knowledge in conformity with the truths' (compound member): သစ္စာ}
+saññākkhandho: {the aggregate of perception (nominative sg.): မှတ်သိမှု အစုအဝေး}
+sattama: {ordinal 7th, in method headings: သတ္တမ}
+sampayutta: {conjoined with, compound final (stem): ယှဉ်တွဲသော}
+vippayutta: {dissociated from, compound final (stem): ကင်းကွာသော}
+saṅkhārakkhandho: {the aggregate of mental formations (nominative sg.): ပြုပြင်ဖန်တီးမှု အစုအဝေး}
+saṅkhāra: {mental formations, volitional activities (compound member, in saṅkhārakkhandha), the same value also naming the formation of striving, in padhānasaṅkhāra of the bases of power: ပြုပြင်ဖန်တီးမှု}
+saṅkhāra saṅgahito: {the formations aggregate is comprised (masculine sg. phrase): ပြုပြင်ဖန်တီးမှု … အကျုံးဝင်သော}
+aṭṭhama: {the eighth, ordinal in a section heading (heading member): အဋ္ဌမ}
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.): သိစိတ် အစုအဝေး}
+viññāṇa: {consciousness (stem and compound member): သိစိတ်}
+viññāṇa saṅgahito: {the consciousness aggregate is comprised (masculine sg. phrase): သိစိတ် … အကျုံးဝင်သော}
+eka: {one, as in the one-item section label Ekamūlaka: တစ်မျိုးတွဲ}
+Ekamūlakaṃ: {section label for items taken one at a time: တစ်မျိုးတွဲကို အခြေခံသော}
+navama: {ordinal 9th, in method headings: နဝမ}
+asaṅgahitā: {not comprised within a category (pl. participle), incl. "in turn not included": အကျုံးမဝင်သော}
+dasama: {ordinal 10th, in method headings: ဒသမ}
+ekādasama: {ordinal 11th, in method headings: ဧကာဒသမ}
+dvādasama: {ordinal 12th, in method headings: ဒွါဒသမ}
+āyatanehi aṭṭhārasahi: {phrase counting eighteen sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်ရှစ်ပါး}
+aṭṭhārasahi: {the number 18 (instrumental pl.): ဆယ့်ရှစ်ပါး}
+aṭṭhārasahi dhātūhi: {phrase counting all eighteen elements (instrumental pl.): ဓာတ် ဆယ့်ရှစ်ပါး}
+duka: {the classification by twos (heading member): နှစ်မျိုးတွဲ}
+dvādasahāyatanehi: {compound counting all twelve sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် ဆယ့်နှစ်ပါး}
+terasama: {ordinal 13th, in method headings: တေရသမ}
+cuddasama: {ordinal 14th, in method headings: စုဒ္ဒသမ}
+khandha: {aggregate, group of phenomena, in khandhadhātuāyatanā (compound member): အစုအဝေး}
+phassa: {contact, in phassāhāra (compound member): တွေ့ထိမှု}
+tika: {the classification by threes (heading member): သုံးမျိုးတွဲ}
+saṅkhāra saṅgahitā: {the formations aggregate together comprised (pl. phrase): ပြုပြင်ဖန်တီးမှု … အကျုံးဝင်သော}
+catukka: {the fourfold, heading member: လေးမျိုးတွဲ}
+viññāṇa saṅgahitā: {the consciousness aggregate together comprised (pl. phrase): သိစိတ် … အကျုံးဝင်သော}
+dvādasāyatanehi: {compound counting all twelve sense bases (instrumental pl., variant spelling): အာရုံခံ နယ်ပယ် ဆယ့်နှစ်ပါး}
+khandhā saṅgahitā: {aggregates together comprised (pl. phrase): အစုအဝေး … အကျုံးဝင်သော}
+khandhena: {a single aggregate as counted unit (instrumental or ablative sg.): အစုအဝေး}
+āyatanaṃ saṅgahitaṃ: {a sense base is comprised (neuter sg. phrase): အာရုံခံ နယ်ပယ် … အကျုံးဝင်သော}
+cakkhu: {the eye, the seeing organ (stem and nominative): မျက်စိ}
+Cakkhāyatanaṃ: {the eye sense base (nominative sg.): မျက်စိ အာရုံခံ နယ်ပယ်}
+Cakkhāyatanaṃ saṅgahitaṃ: {the eye sense base is comprised (phrase): မျက်စိ အာရုံခံ နယ်ပယ် … အကျုံးဝင်သော}
+kāya: {the physical body, or bodily (compound member, as in kāyaviññāṇa and kāyakamma): ကိုယ်}
+kāyāyatanaṃ: {the body sense base (nominative sg.): ကိုယ် အာရုံခံ နယ်ပယ်}
+sota: {the ear, the hearing organ (stem and compound member): နား}
+Sotāyatanaṃ: {the ear sense base (nominative sg.): နား အာရုံခံ နယ်ပယ်}
+ghāna: {the nose, the smelling organ (stem and compound member): နှာခေါင်း}
+ghānāyatanaṃ: {the nose sense base (nominative sg.): နှာခေါင်း အာရုံခံ နယ်ပယ်}
+gandha: {smell, odour as object (compound member): အနံ့}
+gandhāyatanaṃ: {the smell sense base (nominative sg.): အနံ့ အာရုံခံ နယ်ပယ်}
+sadda: {sound as object (compound member): အသံ}
+saddāyatanaṃ: {the sound sense base (nominative sg.): အသံ အာရုံခံ နယ်ပယ်}
+rasa: {taste, flavour as object (compound member): အရသာ}
+rasāyatanaṃ: {the taste sense base (nominative sg.): အရသာ အာရုံခံ နယ်ပယ်}
+jivhā: {the tongue, the tasting organ (stem and nominative): လျှာ}
+jivhāyatanaṃ: {the tongue sense base (nominative sg.): လျှာ အာရုံခံ နယ်ပယ်}
+phoṭṭhabba: {tangible object, what is touched (compound member): အထိအတွေ့}
+phoṭṭhabbāyatanaṃ: {the tangible sense base, base of the touchable (nominative sg.): အထိအတွေ့ အာရုံခံ နယ်ပယ်}
+rūpāyatanaṃ: {the visible-form sense base, the object of the eye (nominative sg.): အဆင်းအရောင် အာရုံခံ နယ်ပယ်}
+mana: {mind, as stem in manindriya and similar compounds: မနော}
+manāyatanaṃ: {the mind sense base (nominative sg.): မနော အာရုံခံ နယ်ပယ်}
+khandhato: {"from the aggregate reckoning" (ablative, in the formula excepting the unconditioned): အစုအဝေး ရေတွက်ရာ}
+ṭhapetvā: {leaving aside, excepting (absolutive): ချန်ထား၍}
+asaṅkhataṃ ṭhapetvā: {formula setting aside Nibbāna from the count: ပြုပြင်ဖန်တီးထားခြင်း မရှိသော … ချန်ထား၍}
+asaṅkhataṃ: {unconditioned, not made by conditions (neuter sg.): ပြုပြင်ဖန်တီးထားခြင်း မရှိသော}
+āyatanaṃ saṅgahitā: {comprised in a sense base (pl. phrase): အာရုံခံ နယ်ပယ် … အကျုံးဝင်သော}
+āyatanehi soḷasahi: {phrase counting sixteen sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်ခြောက်ပါး}
+soḷasahi: {the number 16 (instrumental pl.): ဆယ့်ခြောက်ပါး}
+soḷasahi dhātūhi: {phrase counting sixteen of the elements (instrumental pl.): ဓာတ် ဆယ့်ခြောက်ပါး}
+dasa: {the number ten (numeral): ဆယ်ပါး}
+dasahāyatanehi: {compound counting ten of the sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် ဆယ်ပါး}
+āyatanehi dasahi: {phrase counting ten sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ်ပါး}
+dasahi dhātūhi: {phrase counting ten of the elements (instrumental pl.): ဓာတ် ဆယ်ပါး}
+āyatanāni saṅgahitā: {sense bases together comprised (pl. phrase): အာရုံခံ နယ်ပယ် … အကျုံးဝင်သော}
+dhātu saṅgahitā: {comprised in an element (pl. phrase): ဓာတ် … အကျုံးဝင်သော}
+Cakkhudhātu: {the eye element (nominative sg.): မျက်စိ ဓာတ်}
+Cakkhudhātu saṅgahitā: {the eye element together comprised (phrase): မျက်စိ ဓာတ် … အကျုံးဝင်သော}
+kāyadhātu: {the body element (nominative sg.): ကိုယ် ဓာတ်}
+kāyaviññāṇa: {consciousness through the body, body-consciousness (compound member): ကိုယ် သိစိတ်}
+kāyaviññāṇadhātu: {the body-consciousness element (nominative sg.): ကိုယ် သိစိတ် ဓာတ်}
+Sotadhātu: {the ear element (nominative sg.): နား ဓာတ်}
+sotaviññāṇa: {ear-consciousness, hearing consciousness (compound member): နား သိစိတ်}
+sotaviññāṇadhātu: {the ear-consciousness element (nominative sg.): နား သိစိတ် ဓာတ်}
+cakkhuviññāṇa: {consciousness through the eye, eye-consciousness (compound member): မျက်စိ သိစိတ်}
+cakkhuviññāṇadhātu: {the eye-consciousness element (nominative sg.): မျက်စိ သိစိတ် ဓာတ်}
+mano: {mind, the thinking faculty, also adjectival 'mental' in compounds: မနော}
+manodhātu: {the mind element (heading and nominative): မနော ဓာတ်}
+manoviññāṇa: {consciousness at the mind door (compound member): မနော သိစိတ်}
+manoviññāṇadhātu: {the element of mind-consciousness (nominative and heading): မနော သိစိတ် ဓာတ်}
+ghānadhātu: {the nose element (nominative sg.): နှာခေါင်း ဓာတ်}
+ghānaviññāṇa: {nose-consciousness, smelling consciousness (compound member): နှာခေါင်း သိစိတ်}
+ghānaviññāṇadhātu: {the nose-consciousness element (nominative sg.): နှာခေါင်း သိစိတ် ဓာတ်}
+gandhadhātu: {the smell element (nominative sg.): အနံ့ ဓာတ်}
+saddadhātu: {the sound element (nominative sg.): အသံ ဓာတ်}
+rasadhātu: {the taste element (nominative sg.): အရသာ ဓာတ်}
+jivhādhātu: {the tongue element (nominative sg.): လျှာ ဓာတ်}
+jivhāviññāṇa: {tongue-consciousness, tasting consciousness (compound member): လျှာ သိစိတ်}
+jivhāviññāṇadhātu: {the tongue-consciousness element (nominative sg.): လျှာ သိစိတ် ဓာတ်}
+phoṭṭhabbadhātu: {the tangible element, element of the touchable (nominative sg.): အထိအတွေ့ ဓာတ်}
+rūpadhātu: {the visible-form element, the object of the eye (nominative sg.): အဆင်းအရောင် ဓာတ်}
+Aṭṭhārasa dhātuyo saṅgahitā: {all eighteen elements together comprised (phrase): ဓာတ် ဆယ့်ရှစ်ပါး … အကျုံးဝင်သော}
+dhātuyo saṅgahitā: {elements together comprised (pl. phrase): ဓာတ် … အကျုံးဝင်သော}
+dukkha: {pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa): နာကျင်မှု / နာကျင်; suffering, the whole of what is unsatisfactory, in dukkhamūla and dukkhakkhandha (compound member): ဒုက္ခ}
+Dukkhasaccaṃ: {the noble truth of suffering, the first truth (nominative sg.): ဒုက္ခ သစ္စာ}
+samudaya: {origin, arising of suffering, the second truth (compound member): ဖြစ်ပေါ်ခြင်း}
+magga: {the path (stem and heading): မဂ်}
+nirodha: {cessation, in nirodhataṇhā 'craving for cessation' (compound member): ချုပ်ငြိမ်းခြင်း}
+asaṅgahitāni: {not comprised within a category (neuter pl. participle): အကျုံးမဝင်သော}
+Cakkhundriyaṃ: {the eye faculty, as one of the twenty-two controlling faculties and as the sense faculty to be guarded (nominative/accusative sg.): မျက်စိ၏ စွမ်းရည်}
+Cakkhundriyaṃ saṅgahitaṃ: {the eye faculty is comprised (phrase): မျက်စိ၏ စွမ်းရည် … အကျုံးဝင်သော}
+itthi: {femininity, in itthindriya (compound member): မိန်းမ}
+purisa: {man, in purisaliṅga 'feature of a man', also masculinity, in purisindriya (compound member): ယောက်ျား}
+jīvita: {life, vitality (compound member): အသက်}
+samādhi: {concentration, mental composure (stem and nominative): သမာဓိ}
+upekkhā: {equanimity, neutral feeling (nominative and stem): ဥပေက္ခာ}
+saddhā: {faith, confidence (nominative sg.), also as an adjective, having faith (of persons, in the good-friendship definition): ယုံကြည်မှု}
+somanassa: {joy, mental pleasure (compound member): ဝမ်းမြောက်မှု}
+ñassāmi: {"I shall know", in the faculty anaññātaññassāmītindriya: သိရတော့သည်}
+aññāta: {known, in anaññātaññassāmi (compound member): သိရသော}
+sukha: {pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa): သာယာမှု}
+domanassa: {sadness, mental displeasure (compound member): စိတ်ဆင်းရဲမှု}
+paññā: {wisdom, discernment (nominative sg.): ပညာ}
+āyatanehi terasahi: {phrase counting thirteen sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်သုံးပါး}
+terasahi: {the number 13 (instrumental pl.): ဆယ့်သုံးပါး}
+terasahi dhātūhi: {phrase counting thirteen of the elements (instrumental pl.): ဓာတ် ဆယ့်သုံးပါး}
+avijjā: {ignorance, not knowing (nominative sg.): အမှန်ကို မသိမှု}
+paccayā: {with X as condition, in the dependent origination formula: ကြောင့်}
+saṅkhārā: {mental formations, volitional activities (nominative pl.): ပြုပြင်ဖန်တီးမှု}
+viññāṇaṃ: {consciousness, knowing (nominative sg.): သိစိတ်}
+nāmarūpaṃ: {mentality and materiality, name-and-form (nominative sg.): စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း}
+āyatanehi dvādasahi: {phrase counting twelve sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်နှစ်ပါး}
+nāmarūpa: {mentality and materiality, name-and-form (compound member): စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း}
+dvādasahi: {the number 12 (instrumental pl.): ဆယ့်နှစ်ပါး}
+dvādasahi dhātūhi: {phrase counting twelve of the elements (instrumental pl.): ဓာတ် ဆယ့်နှစ်ပါး}
+āyatana: {sense bases, the sense fields (compound member): အာရုံခံ နယ်ပယ်}
+upādānaṃ: {clinging, grasping (nominative sg.): စွဲလမ်းမှု}
+taṇhā: {craving, thirst (nominative sg. and compound final): တပ်မက်မှု}
+bhavo: {becoming, existence, in the dependent origination formula (nominative sg.): ဘဝ}
+vokāra: {constituent aggregates of a mode of being (one-, four-, five-constituent existence): အစုအဝေး}
+upapatti: {rebirth, being reborn (compound member): ပြန်လည် ဖြစ်ပေါ်ခြင်း}
+kāma: {sensual pleasure, the sense sphere (compound member, as in kāmāvacara): ကာမ}
+dasahi: {the number 10 (instrumental pl.): ဆယ်ပါး}
+arūpa: {the immaterial sphere (compound member, as in arūpāvacara and arūpūpapatti): ရုပ်မရှိသော; immaterial, without material form, qualifying the four mental aggregates, in 'Arūpakkhandhā cattāro' of the summary verse ^3-352 (compound member): ရုပ် မဟုတ်သော}
+nāsaññā: {non-perception, in nevasaññānāsaññā 'neither perception nor non-perception' (compound member): မှတ်သိမှု မရှိသည် မဟုတ်သော}
+jarā: {ageing, decay, in jarābhibhūta 'overcome by ageing' (compound member): အိုခြင်း}
+jāti: {birth, being born (nominative sg.): မွေးဖွားခြင်း}
+maraṇaṃ: {death, dying, in the dependent origination formula (nominative sg.): သေခြင်း}
+upāyāso: {despair, deep trouble (nominative sg.): ပြင်းစွာ ပူပန်ခြင်း}
+padhānaṃ: {striving, right effort, as in sammappadhāna and yoniso padhānaṃ (nominative/accusative sg.): ကြိုးပမ်းအားထုတ်ခြင်း}
+upaṭṭhānaṃ: {one establishment of mindfulness (nominative sg.): ပဋ္ဌာန်}
+paridevo: {lamentation, wailing (nominative sg.): ငိုကြွေးခြင်း}
+dukkhaṃ: {pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ, the same meaning as bodily pain in the grief series soko paridevo dukkhaṃ domanassaṃ: ကိုယ်ဆင်းရဲခြင်း}
+domanassaṃ: {sadness, mental displeasure (nominative sg.): စိတ်ဆင်းရဲမှု}
+Soko: {sorrow, grief (nominative sg.): စိုးရိမ်ခြင်း}
+Jhānaṃ: {meditative absorption (nominative/accusative sg.): ဈာန်}
+Appamaññā: {the boundless states, the divine abidings (heading member): အပ္ပမညာ}
+dhammā saṅgahitā: {states together comprised (nominative pl. phrase): သဘောတရား … အကျုံးဝင်သော}
+akusalā: {unwholesome, said of phenomena (nominative pl.): အကုသိုလ်}
+akusalā dhammā: {unwholesome phenomena (nominative pl.): အကုသိုလ် သဘောတရား}
+akusalā dhammā saṅgahitā: {unskilful states together comprised (phrase): အကုသိုလ် သဘောတရား … အကျုံးဝင်သော}
+Kusalā: {wholesome, said of phenomena (nominative pl.): ကုသိုလ်}
+Kusalā dhammā: {wholesome phenomena, said of all wholesome states (nominative pl.): ကုသိုလ် သဘောတရား}
+Abyākatā: {neither wholesome nor unwholesome (nominative pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော}
+sampayuttā: {conjoined with, compound final (feminine or pl. participle): ယှဉ်တွဲသော}
+āyatanehi pannarasahi: {phrase counting fifteen sense bases (instrumental pl.): အာရုံခံ နယ်ပယ် … ဆယ့်ငါးပါး}
+vedanāya: {of feeling, the affective tone of experience (genitive sg.): ခံစားမှု}
+pannarasahi: {the number 15 (instrumental pl.): ဆယ့်ငါးပါး}
+pannarasahi dhātūhi: {phrase counting fifteen of the elements (instrumental pl.): ဓာတ် ဆယ့်ငါးပါး}
+dukkhāya: {painful, of feeling (feminine genitive sg.): နာကျင်သော}
+sukhāya: {pleasant, of feeling (feminine genitive sg.): သာယာသော}
+ekādasahi: {the number 11 (instrumental pl.): ဆယ့်တစ်ပါး}
+saṃkiliṭṭha: {defiled, stained by the defilements (compound member): ကိလေသာဖြင့် ညစ်နွမ်းသော}
+saṃkilesikā: {liable to defilement, leading to the defilements (nominative pl.): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော}
+upādāniyā: {liable to be clung to, objects of clinging (nominative pl.): စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော}
+upādinna: {kammically acquired, clung-to, in the upādinna triad (heading member): ကံကြောင့် ဖြစ်သော}
+asaṃkiliṭṭha: {undefiled, not stained by defilements (compound member): ကိလေသာဖြင့် မညစ်နွမ်းသော}
+vitakka: {initial application of mind to the object (compound member): စတင်ကြံစည်မှု}
+savitakka dhammā: {states having initial application (nominative pl. phrase): စတင်ကြံစည်မှု ရှိသော … သဘောတရား}
+vicārā: {sustained examinations of the object (nominative pl.): ဆက်လက်သုံးသပ်မှု}
+sahagatā: {accompanied by, compound final (feminine or pl. participle): အတူ ဖြစ်သော}
+pīti: {rapture, joyful interest (nominative sg.): ပီတိ}
+sahagatā dhammā: {phenomena accompanied by X, a matrix heading (nominative pl.): အတူ ဖြစ်သော သဘောတရား}
+avitakka dhammā: {states lacking initial application (nominative pl. phrase): စတင်ကြံစည်မှု မရှိသော … သဘောတရား}
+vicāra: {sustained examination of the object (compound member): ဆက်လက်သုံးသပ်မှု}
+pahātabbā: {to be abandoned, to be given up (nominative pl. participle): ပယ်ရမည့်}
+bhāvanāya pahātabbā: {to be abandoned by meditative development (nominative pl. participle): ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့်}
+ācaya: {accumulation, in ācayagāmi 'leading to accumulation' (compound member): စုပုံခြင်း}
+apacaya: {dispersal, the undoing of accumulation, in apacayagāmi (compound member): လျော့ပါးခြင်း}
+asekkhā: {beyond training, belonging to the stage where learning is complete (nominative pl.): ကျင့်ကြံမှု ပြီးဆုံးသူ၏}
+mahaggatā: {grown great, exalted (nominative pl.): ကြီးမြတ်သော}
+mahaggatā dhammā: {exalted phenomena, grown great, a matrix heading (nominative pl.): ကြီးမြတ်သော သဘောတရား}
+hetukā: {having roots, rooted (compound final, nominative pl.): အမြစ်}
+Dassanena: {by seeing, the first path's vision of the truths (instrumental): သစ္စာကို မြင်ခြင်း}
+gāmino dhammā: {phenomena leading to X, a matrix heading (nominative pl.): ဦးတည်သော သဘောတရား}
+hetukā dhammā: {phenomena having roots, rooted, a matrix heading (nominative pl.): အမြစ် ရှိသော သဘောတရား / အမြစ် … သဘောတရား}
+sekkhā: {in training, belonging to the learner stage (nominative pl.), also the training itself as the positive part of asekkhā: ကျင့်ကြံဆဲသူ၏}
+sekkha: {in training, of the learner's stage, in nevasekkhanāsekkha (compound member): ကျင့်ကြံဆဲသူ၏}
+Parittā: {limited, small in scope (nominative pl.): အကန့်အသတ် ရှိသော}
+Parittā dhammā: {limited phenomena, small in scope, a matrix heading (nominative pl.): အကန့်အသတ် ရှိသော သဘောတရား}
+Appamāṇā: {boundless, without measure (nominative pl.): အတိုင်းအဆ မရှိသော}
+Appamāṇā dhammā: {immeasurable phenomena, without limit, a matrix heading (nominative pl.): အတိုင်းအဆ မရှိသော သဘောတရား}
+paṇītā: {excellent, refined, sublime (nominative pl.): မွန်မြတ်သော}
+paṇītā dhammā: {superior, refined phenomena, a matrix heading (nominative pl.): မွန်မြတ်သော သဘောတရား}
+paritta: {limited, small in scope (compound member): အကန့်အသတ် ရှိသော}
+ārammaṇā: {having such-and-such an object, as in parittārammaṇā, rūpārammaṇā and anārammaṇā (compound final, nominative pl.): အာရုံ}
+adhipatino: {predominant, having a dominant factor (nominative pl.): အကြီးအမှူး}
+mahaggata: {exalted, grown great (compound member): ကြီးမြတ်သော}
+niyatā: {fixed in destiny, with a certain outcome (nominative pl. participle): ကျိန်းသေသော}
+appamāṇa: {boundless, without measure (compound member): အတိုင်းအဆ မရှိသော}
+hīnā: {low, inferior in quality (nominative pl.): ယုတ်ညံ့သော}
+hīnā dhammā: {inferior, low phenomena, a matrix heading (nominative pl.): ယုတ်ညံ့သော သဘောတရား}
+sammatta: {rightness, the right direction (compound member): မှန်ကန်မှု}
+niyatā dhammā: {fixed phenomena, certain in their outcome, a matrix heading (nominative pl.): ကျိန်းသေသော သဘောတရား}
+micchatta: {wrongness, the wrong direction (compound member): မှားယွင်းမှု}
+Majjhimā: {middle, of medium quality (nominative pl.): အလယ်အလတ်}
+Majjhimā dhammā: {middling, intermediate phenomena, a matrix heading (nominative pl.): အလယ်အလတ် သဘောတရား}
+uppannā: {come into being, arisen (feminine or pl. participle): ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ပြီးသော}
+Uppannā dhammā: {phenomena that have arisen, a matrix heading (nominative pl.): ဖြစ်ပေါ်ပြီးသော သဘောတရား}
+Uppādino: {bound to arise, due to come into being (nominative pl.): ဖြစ်ပေါ်လာမည့်}
+bahiddhā: {external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb): မိမိ၏ ပြင်ပ၌}
+Bahiddhā dhammā: {phenomena outside oneself, belonging to others, a matrix heading (nominative pl.): မိမိ၏ ပြင်ပ၌ ရှိသော သဘောတရား}
+paṭighā saṅgahitā: {comprised as impinging states (pl. phrase): ထိခိုက်မှု … အကျုံးဝင်သော}
+sanidassana: {visible, that can be seen (compound member): မြင်နိုင်သော}
+anidassana: {invisible, not visible to the eye (compound member): မမြင်နိုင်သော}
+Hetū: {roots, root conditions (nominative pl.): အမြစ်}
+vippayuttā: {dissociated from (feminine or pl. participle): ကင်းကွာသော}
+pañhā: {questions, in Pañhāpucchaka (heading member): မေးခွန်း}
+pucchake: {in the question-wise section (locative sg.): ဖော်ပြချက်}
+vippayuttā dhammā: {phenomena dissociated from X (nominative pl.): ကင်းကွာသော သဘောတရား}
+saṅkhatā: {constructed, produced by conditions (nominative pl. participle): ပြုပြင်ဖန်တီးထားသော}
+asaṅkhatā: {unconditioned, not made by conditions (feminine sg. and nominative pl.): ပြုပြင်ဖန်တီးထားခြင်း မရှိသော}
+asaṅkhatā dhammā: {unconditioned, unconstructed phenomena, a matrix heading (nominative pl.): ပြုပြင်ဖန်တီးထားခြင်း မရှိသော သဘောတရား}
+Sanidassanā: {visible, that can be seen (nominative pl.): မြင်နိုင်သော}
+Sanidassanā dhammā: {phenomena that can be seen, a matrix heading (nominative pl.): မြင်နိုင်သော သဘောတရား}
+Anidassanā: {invisible, that cannot be seen (nominative pl.): မမြင်နိုင်သော}
+Rūpino: {having material form, material (nominative pl.): ရုပ် ဖြစ်သော}
+Rūpino dhammā: {phenomena having material form, a matrix heading (nominative pl.): ရုပ် ဖြစ်သော သဘောတရား}
+Arūpino: {without material form (nominative pl.): ရုပ် မဟုတ်သော}
+Arūpino dhammā: {immaterial phenomena (nominative pl.): ရုပ် မဟုတ်သော သဘောတရား}
+Lokiyā: {mundane, belonging to the world (nominative pl.): လောကနှင့် သက်ဆိုင်သော}
+Lokiyā dhammā: {mundane phenomena, belonging to the world, a matrix heading (nominative pl.): လောကနှင့် သက်ဆိုင်သော သဘောတရား}
+Lokuttarā: {supramundane, beyond the world (nominative pl.): လောကကို ကျော်လွန်သော}
+viññeyyā: {cognisable, that can be known (nominative pl.): သိနိုင်သော}
+āsavā: {the mental taints, cankers (nominative pl.): စိတ်အစွန်းအထင်း}
+Sāsavā dhammā: {phenomena that are objects of the taints, a matrix heading (nominative pl.): စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+Anāsavā: {not objects of the taints, free of them (nominative pl.): စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော}
+Anāsavā dhammā: {phenomena free of the taints, not their objects (nominative pl.): စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော သဘောတရား}
+āsava: {the mental taints, cankers (heading member): စိတ်အစွန်းအထင်း}
+Saṃyojanā: {fetters, bonds that tie one to existence (nominative pl.): နှောင်ကြိုး}
+oghā: {floods, the overwhelming currents (nominative pl.): ရေအလျဉ်}
+nīvaraṇā: {hindrances, obstructions of the mind (nominative pl.): အတားအဆီး}
+parāmaṭṭhā: {objects of misapprehension, wrongly grasped (nominative pl. participle): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော}
+parāmāsā: {misapprehensions, wrong graspings (nominative pl.): မှားယွင်းသော ယူဆမှု}
+ganthā: {ties, knots that bind (nominative pl.): အထုံး}
+yogā: {yokes, the binding attachments (nominative pl.): ထမ်းပိုး}
+parāmāsa: {wrong grasping, misapprehension (heading member): မှားယွင်းသော ယူဆမှု}
+Parāmaṭṭhā dhammā: {phenomena that are objects of misapprehension, a matrix heading (nominative pl.): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+Cittā: {minds, phenomena that are mind (nominative pl.): စိတ်}
+Cittā saṅgahitā: {comprised as consciousness (pl. phrase): စိတ် … အကျုံးဝင်သော}
+Cetasikā: {mental concomitants, factors accompanying the mind (nominative pl.): စိတ်၏ အဖော်}
+saṃsaṭṭhā: {intermixed, joined with (nominative pl. participle): ရောနှောသော}
+citta: {mind, consciousness (stem and compound member): စိတ်}
+citta saṅgahitā: {comprised along with consciousness (pl. phrase): စိတ် … အကျုံးဝင်သော}
+saṃsaṭṭhā dhammā: {phenomena conjoined with mind, a matrix heading (nominative pl.): ရောနှောသော သဘောတရား}
+visaṃsaṭṭhā dhammā: {phenomena not conjoined with mind, a matrix heading (nominative pl.): မရောနှောသော သဘောတရား}
+samuṭṭhānā: {originated, produced from (compound final, nominative pl.): ဖြစ်ပေါ်လာသော}
+samuṭṭhānā dhammā: {phenomena originated by mind, a matrix heading (nominative pl.): ဖြစ်ပေါ်လာသော သဘောတရား}
+anuparivattino: {following after, keeping pace with (compound final, nominative pl.): နောက်သို့ လိုက်ပါသော}
+cittānuparivattino: {following after mind, keeping pace with it (nominative pl.): စိတ်နောက်သို့ လိုက်ပါသော}
+sahabhuno: {coexisting, arising together (compound final, nominative pl.): အတူ တည်ရှိသော}
+anuparivattino dhammā: {phenomena that follow along with X, a matrix heading (nominative pl.): နောက်သို့ လိုက်ပါသော သဘောတရား}
+cittānuparivattino dhammā: {phenomena that follow along with mind, a matrix heading (nominative pl.): စိတ်နောက်သို့ လိုက်ပါသော သဘောတရား}
+sahabhuno dhammā: {states coexisting with consciousness (nominative pl. phrase): အတူ တည်ရှိသော သဘောတရား}
+citta anuparivattino: {following along with consciousness (split compound): စိတ်နောက်သို့ လိုက်ပါသော}
+saṃsaṭṭha: {intermixed, joined with (compound member): ရောနှောသော}
+saṃsaṭṭha dhammā: {conjoined states (stem phrase): ရောနှောသော … သဘောတရား}
+no saṃsaṭṭha dhammā: {states not conjoined (negated phrase): ရောနှောသော … မဟုတ်သော သဘောတရား}
+Ajjhattikā: {internal, belonging to oneself (nominative pl.): အတွင်းပိုင်း}
+Ajjhattikā dhammā: {internal phenomena, of oneself, a matrix heading (nominative pl.): အတွင်းပိုင်း သဘောတရား}
+Bāhirā: {external, outside oneself (nominative pl.): ပြင်ပ}
+Bāhirā dhammā: {external phenomena, outside oneself, a matrix heading (nominative pl.): ပြင်ပ သဘောတရား}
+upādā: {derived from the great elements, of matter: မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော}
+Upādā dhammā: {derived phenomena, dependent matter, a matrix heading (nominative pl.): မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော သဘောတရား}
+upādinnā: {karmically acquired, grasped by past action (feminine or pl. participle): ကံကြောင့် ဖြစ်သော}
+Upādānā: {the clingings, forms of grasping (nominative pl.): စွဲလမ်းမှု}
+Saṃkiliṭṭhā: {defiled, stained by the defilements (nominative pl. participle): ကိလေသာဖြင့် ညစ်နွမ်းသော}
+kilesā: {mental defilements (nominative pl.): ကိလေသာ}
+asaṃkiliṭṭhā: {not defiled, free of their stain (nominative pl. participle): ကိလေသာဖြင့် မညစ်နွမ်းသော}
+Saṃkilesikā dhammā: {phenomena that lead to defilement, a matrix heading (nominative pl.): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+kilesa: {mental defilements (heading member): ကိလေသာ}
+Saṃkiliṭṭhā dhammā: {phenomena stained by defilement, a matrix heading (nominative pl.): ကိလေသာဖြင့် ညစ်နွမ်းသော သဘောတရား}
+vitakkā: {initial applications of mind to the object (nominative pl.): စတင်ကြံစည်မှု}
+Savitakkā dhammā: {phenomena with initial application, a matrix heading (nominative pl.): စတင်ကြံစည်မှု ရှိသော သဘောတရား}
+savicārā dhammā: {phenomena with sustained examination, a matrix heading (nominative pl.): ဆက်လက်သုံးသပ်မှု ရှိသော သဘောတရား}
+Avitakkā dhammā: {phenomena without initial application, a matrix heading (nominative pl.): စတင်ကြံစည်မှု မရှိသော သဘောတရား}
+Sappītikā dhammā: {phenomena with rapture, a matrix heading (nominative pl.): ပီတိ ရှိသော သဘောတရား}
+na sahagatā dhammā: {states not attended by a factor (negated pl. phrase): အတူ ဖြစ်သည် မဟုတ်သော သဘောတရား}
+pariyāpannā: {included within a plane (pl. participle): ဘဝဘုံတို့၌ အကျုံးဝင်သော}
+kāmāvacarā: {belonging to the sense sphere (feminine or pl.): ကာမဘုံနှင့် ဆိုင်သော}
+avacarā: {belonging to a sphere, compound final (feminine or pl.): ဘုံနှင့် ဆိုင်သော}
+sauttarā: {surpassable, having something higher (nominative pl.): ထိုထက် သာလွန်သည် ရှိသေးသော}
+anuttarā: {unsurpassable, with nothing higher (nominative pl.): ထိုထက် သာလွန်သည် မရှိသော}
+anuttarā dhammā: {unsurpassable phenomena, with nothing higher, a matrix heading (nominative pl.): ထိုထက် သာလွန်သည် မရှိသော သဘောတရား}
+raṇā: {conflict, strife, in saraṇa and araṇa (compound final): ပဋိပက္ခ}
+niyyānikā dhammā: {phenomena leading out to liberation, a matrix heading (nominative pl.): လွတ်မြောက်ရာသို့ ပို့ဆောင်သော သဘောတရား}
+saraṇā dhammā: {phenomena with conflict, battle-laden, a matrix heading (nominative pl.): ပဋိပက္ခ ရှိသော သဘောတရား}
+Cakkhāyatanena: {the eye sense base (instrumental sg.): မျက်စိ အာရုံခံ နယ်ပယ်}
+cakkhudhātuyā: {the eye element (instrumental sg.): မျက်စိ ဓာတ်}
+dhammā asaṅgahitā: {states not comprised together (nominative pl. phrase): သဘောတရား … အကျုံးမဝင်သော}
+phoṭṭhabbāyatanena: {the tangible-object sense base (instrumental sg.): အထိအတွေ့ အာရုံခံ နယ်ပယ်}
+phoṭṭhabbadhātuyā: {the tangible-object element (instrumental sg.): အထိအတွေ့ ဓာတ်}
+kāyaviññāṇadhātuyā: {the element of body-door consciousness (instrumental sg.): ကိုယ် သိစိတ် ဓာတ်}
+sotaviññāṇadhātuyā: {the element of ear-door consciousness (instrumental sg.): နား သိစိတ် ဓာတ်}
+Cakkhuviññāṇadhātuyā: {the element of eye-door consciousness (instrumental sg.): မျက်စိ သိစိတ် ဓာတ်}
+manodhātuyā: {of the mind element (genitive sg.): မနော ဓာတ်}
+manoviññāṇadhātuyā: {the element of mind-door consciousness (instrumental sg.): မနော သိစိတ် ဓာတ်}
+ghānaviññāṇadhātuyā: {the element of nose-door consciousness (instrumental sg.): နှာခေါင်း သိစိတ် ဓာတ်}
+jivhāviññāṇadhātuyā: {the element of tongue-door consciousness (instrumental sg.): လျှာ သိစိတ် ဓာတ်}
+Cakkhundriyena: {the eye faculty (instrumental sg.): မျက်စိ၏ စွမ်းရည်}
+indriyena: {a controlling faculty (instrumental sg.): စွမ်းရည်}
+bhavena: {a mode or plane of being (instrumental sg.): ဘဝ}
+Paridevena: {wailing, in the grief series (instrumental sg.): ငိုကြွေးခြင်း}
+dhammehi khandhasaṅgahena: {"with states, by way of aggregate-comprising" (instrumental phrase): သဘောတရား … အစုအဝေး အကျုံးဝင်ခြင်း}
+Sanidassanehi: {that can be seen (instrumental pl. adjective): မြင်နိုင်သော}
+Sanidassanehi dhammehi: {seeable states (instrumental pl. phrase): မြင်နိုင်သော သဘောတရား}
+upādādhammehi: {states of derived matter (instrumental pl. compound): မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော သဘောတရား}
+indriyā: {controlling faculties (nominative pl.): စွမ်းရည်}
+Anidassanaṃ: {invisible, not visible to the eye (neuter sg.): မမြင်နိုင်သော}
+Dasāyatanā: {the ten sense bases (nominative pl.): အာရုံခံ နယ်ပယ် ဆယ်ပါး}
+Vedanākkhandhena: {the feeling aggregate (instrumental sg.): ခံစားမှု အစုအဝေး}
+saṅkhārakkhandhena: {the formations aggregate (instrumental sg.): ပြုပြင်ဖန်တီးမှု အစုအဝေး}
+saññākkhandhena: {the perception aggregate (instrumental sg.): မှတ်သိမှု အစုအဝေး}
+āyatanasaṅgahena saṅgahitā: {comprised by way of sense-base comprising (pl. phrase): အာရုံခံ နယ်ပယ် အကျုံးဝင်ခြင်း … အကျုံးဝင်သော}
+saccena: {a noble truth (instrumental sg.): သစ္စာ}
+indriyena khandhasaṅgahena: {"with a faculty, by way of aggregate-comprising" (instrumental phrase): စွမ်းရည် … အစုအဝေး အကျုံးဝင်ခြင်း}
+upādānena: {grasping, a dependent-origination link (instrumental sg.): စွဲလမ်းမှု}
+phassena: {sense impression (instrumental sg.): တွေ့ထိမှု}
+taṇhāya: {of craving, thirst, in taṇhāya pahānaṃ (genitive sg.): တပ်မက်မှု}
+saṅkhārena: {a volitional formation, in avijjāpaccayā saṅkhārena of dependent origination (instrumental sg.): ပြုပြင်ဖန်တီးမှု}
+avijjāya: {of ignorance (genitive sg.): အမှန်ကို မသိမှု}
+jhānena: {meditative absorption (instrumental sg.): ဈာန်}
+jarāya: {decay, the old-age link (instrumental sg.): အိုခြင်း}
+jātiyā: {birth, being born, as a link of dependent origination, in jātiyā ñāṇaṃ (locative): မွေးဖွားခြင်း}
+maraṇena: {dying, the death link (instrumental sg.): သေခြင်း}
+sampayuttehi: {conjoined as co-arising mental states (instrumental pl. participle): ယှဉ်တွဲသော}
+manasikārena: {mental advertence (instrumental sg.): နှလုံးသွင်းခြင်း}
+upāyāsena: {distress, in the grief series (instrumental sg.): ပြင်းစွာ ပူပန်ခြင်း}
+padhānena: {a right striving (instrumental sg.): ကြိုးပမ်းအားထုတ်ခြင်း}
+aṭṭhaṅgikena: {having eight factors, said of the noble path (instrumental sg.): အင်္ဂါ ရှစ်ပါး ရှိသော}
+indriyehi: {controlling faculties (instrumental pl.): စွမ်းရည်}
+upaṭṭhānena: {an establishment of mindfulness (instrumental sg.): ပဋ္ဌာန်}
+appamaññāya: {a boundless state, divine abiding (instrumental sg.): အပ္ပမညာ}
+cetanāya: {of intention, volition (genitive sg.): စေ့ဆော်မှု}
+ariyena: {belonging to the noble ones, qualifying the path (instrumental sg.): အရိယာ}
+dukkhena: {bodily pain, in the grief series (instrumental sg.): ကိုယ်ဆင်းရဲခြင်း}
+maggena: {the way to liberation (instrumental sg.): မဂ်}
+saññāya: {of perception, recognition (genitive sg.): မှတ်သိမှု}
+balehi: {the five strengths (instrumental pl.): စွမ်းအား}
+Hetūhi: {the root conditions (instrumental pl.): အမြစ်}
+domanassena: {mental displeasure, in the grief series (instrumental sg.): စိတ်ဆင်းရဲမှု}
+Sokena: {grief, in the grief series (instrumental sg.): စိုးရိမ်ခြင်း}
+asaṅkhatehi: {uncompounded (instrumental pl.): ပြုပြင်ဖန်တီးထားခြင်း မရှိသော}
+asaṅkhatehi dhammehi: {the uncompounded, Nibbāna (instrumental pl. phrase): ပြုပြင်ဖန်တီးထားခြင်း မရှိသော သဘောတရား}
+āsavehi: {the cankers (instrumental pl.): စိတ်အစွန်းအထင်း}
+Saṃyojanehi: {the bonds to the round of rebirth (instrumental pl.): နှောင်ကြိုး}
+oghehi: {the overwhelming currents (instrumental pl.): ရေအလျဉ်}
+nīvaraṇehi: {by or from the hindrances (instrumental pl.): အတားအဆီး}
+parāmaṭṭhehi: {wrongly grasped by wrong view (instrumental pl. participle): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော}
+parāmāsehi: {wrong graspings by view (instrumental pl.): မှားယွင်းသော ယူဆမှု}
+ganthehi: {the bodily knots (instrumental pl.): အထုံး}
+yogehi: {the bonds or attachments (instrumental pl.): ထမ်းပိုး}
+anuparivattīhi: {following along with consciousness (instrumental pl.): နောက်သို့ လိုက်ပါသော}
+cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi: {conjoined with, originated by and following consciousness (instrumental pl. compound): စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာပြီး စိတ်နောက်သို့ လိုက်ပါသော}
+samuṭṭhānehi: {originated by consciousness (instrumental pl.): ဖြစ်ပေါ်လာသော}
+sahabhūhi: {coexisting with consciousness (instrumental pl.): အတူ တည်ရှိသော}
+Cetasikehi: {mental concomitants (instrumental pl.): စိတ်၏ အဖော်}
+saṃsaṭṭhehi: {conjoined with consciousness (instrumental pl. participle): ရောနှောသော}
+saṃsaṭṭhehi dhammehi: {states conjoined with consciousness (instrumental pl. phrase): ရောနှောသော သဘောတရား}
+cittānuparivattīhi: {following along with consciousness (instrumental pl. compound): စိတ်နောက်သို့ လိုက်ပါသော}
+sahabhūmi: {coexisting with consciousness (variant of sahabhūhi): အတူ တည်ရှိသော}
+anuparivattīhi dhammehi: {states following along with consciousness (instrumental pl. phrase): နောက်သို့ လိုက်ပါသော သဘောတရား}
+cittānuparivattīhi dhammehi: {states following along with consciousness (full compound, instrumental pl.): စိတ်နောက်သို့ လိုက်ပါသော သဘောတရား}
+sahabhūmi dhammehi: {states coexisting with consciousness (variant phrase): အတူ တည်ရှိသော သဘောတရား}
+upari: {above, further on in the count (summary verses): အထက်}
+ākāre: {qualities, character, in svākāra and dvākāra (compound final): အခြင်းအရာ}
+Upādānehi: {the graspings (instrumental pl.): စွဲလမ်းမှု}
+Gocchakesu: {in the clusters of the Mātikā (locative pl.): အစု}
+saṃkiliṭṭhehi: {corrupted by defilements (instrumental pl. participle): ကိလေသာဖြင့် ညစ်နွမ်းသော}
+saṃkilesikehi: {conducive to defilement (instrumental pl.): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော}
+kilesehi: {the defiling mental factors (instrumental pl.): ကိလေသာ}
+cuddasa: {the number 14 (cardinal): ဆယ့်လေးပါး}
+antara: {intermediate, in-between (heading member): ကြားညှပ်}
+tathā: {likewise, in the same way (adverb): ထို့အတူ}
+dukā: {sets of two topics, dyads (nominative pl.): နှစ်မျိုးတွဲ}
+soḷasa: {the number sixteen (numeral): ဆယ့်ခြောက်ပါး}
+dasasu: {in the ten, among ten (numeral): ဆယ်ပါး}
+Samatiṃsa: {thirty in all (cardinal, summary verse): သုံးဆယ်ပါး အပြည့်}
+saccā: {truths, the noble truths (nominative pl.): သစ္စာ}
+Uddhaṃ: {above, further on in the count (adverb, summary verse): အထက်}
+gocchaka: {cluster of the Mātikā (stem in compounds): အစု}
+pannarasa: {the number fifteen (numeral): ဆယ့်ငါးပါး}
+vidhā: {-fold, of kinds, in tiṃsavidhā of the summary verse (compound final): မျိုး}
+tiṃsa: {the number thirty (numeral): သုံးဆယ်}
+Rūpakkhandhena: {the matter aggregate (instrumental sg.): ရုပ် အစုအဝေး}
+viññāṇakkhandhena: {the consciousness aggregate (instrumental sg.): သိစိတ် အစုအဝေး}
+manāyatanena: {the mind sense base (instrumental sg.): မနော အာရုံခံ နယ်ပယ်}
+viññāṇena: {consciousness, incl. the dependent-origination link (instrumental sg.): သိစိတ်}
+nāmarūpena: {mentality-materiality (instrumental sg.): စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း}
+paccayā āyatanena: {the sixfold sense base conditioned by name-and-form (instrumental phrase): ကြောင့် … အာရုံခံ နယ်ပယ်}
+Cittena: {with the mind (instrumental): စိတ်}
+pahātabbehi: {to be given up (gerundive, instrumental pl.): ပယ်ရမည့်}
+bhāvanāya pahātabbehi: {to be given up by meditative development (instrumental pl. phrase): ဘာဝနာ ပွားများခြင်းဖြင့် ပယ်ရမည့်}
+sahagatehi: {co-present with, attended by (instrumental pl. participle): အတူ ဖြစ်သော}
+asekkhehi: {of the adept who has finished the training (instrumental pl.): ကျင့်ကြံမှု ပြီးဆုံးသူ၏}
+upādāniyehi: {liable to be grasped (instrumental pl.): စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော}
+adhipatīhi: {having as predominant factor (instrumental pl.): အကြီးအမှူး}
+mahaggatehi: {grown great, of the higher mundane planes (instrumental pl.): ကြီးမြတ်သော}
+mahaggatehi dhammehi: {states of the higher mundane planes (instrumental pl. phrase): ကြီးမြတ်သော သဘောတရား}
+niyatehi: {fixed in destiny, with a certain outcome, in the niyata dyad and in micchattaniyatehi and sammattaniyatehi (instrumental pl. participle): ကျိန်းသေသော}
+appamāṇehi: {measureless, supramundane (instrumental pl.): အတိုင်းအဆ မရှိသော}
+appamāṇehi dhammehi: {supramundane states (instrumental pl. phrase): အတိုင်းအဆ မရှိသော သဘောတရား}
+hīnehi: {low, base (instrumental pl.): ယုတ်ညံ့သော}
+hīnehi dhammehi: {base states (instrumental pl. phrase): ယုတ်ညံ့သော သဘောတရား}
+ārammaṇehi: {having such-and-such as object (bahuvrīhi final, instrumental pl.): အာရုံ}
+hetukehi: {having roots, rooted, as in sahetukehi, ahetukehi, pahātabbahetukehi and maggahetukehi (instrumental pl. compound final): အမြစ်}
+sahagatehi dhammehi: {states attended by a factor (instrumental pl. phrase): အတူ ဖြစ်သော သဘောတရား}
+niyatehi dhammehi: {fixed phenomena, certain in their outcome, in the niyata dyad and in micchattaniyatehi and sammattaniyatehi (instrumental pl. phrase): ကျိန်းသေသော သဘောတရား}
+gāmīhi dhammehi: {states going toward (accumulation or dismantling) (instrumental pl. phrase): ဦးတည်သော သဘောတရား}
+hetukehi dhammehi: {states having roots to be abandoned (instrumental pl. phrase): အမြစ် ရှိသော သဘောတရား / အမြစ် … သဘောတရား}
+savitakka dhammehi: {states having initial application (instrumental pl. phrase): စတင်ကြံစည်မှု ရှိသော … သဘောတရား}
+avitakka dhammehi: {states lacking initial application (instrumental pl. phrase): စတင်ကြံစည်မှု မရှိသော … သဘောတရား}
+paṇītehi: {excellent, sublime (instrumental pl.): မွန်မြတ်သော}
+paṇītehi dhammehi: {excellent states (instrumental pl. phrase): မွန်မြတ်သော သဘောတရား}
+vicārehi: {sustained application of mind (instrumental pl.): ဆက်လက်သုံးသပ်မှု}
+sekkhehi: {of the learner still in training (instrumental pl.): ကျင့်ကြံဆဲသူ၏}
+akusalehi: {from unwholesome (instrumental, pl.): အကုသိုလ်}
+akusalehi dhammehi: {from unwholesome phenomena, in the first-jhāna formula (instrumental, pl.): အကုသိုလ် သဘောတရား}
+Kusalehi: {kammically skilful (instrumental pl.): ကုသိုလ်}
+Kusalehi dhammehi: {kammically skilful states (instrumental pl. phrase): ကုသိုလ် သဘောတရား}
+sahetukehi: {having roots, accompanied by root conditions (instrumental pl., left in Pāli): အမြစ် ရှိသော}
+Rūpīhi: {having materiality (instrumental pl.): ရုပ် ဖြစ်သော}
+Rūpīhi dhammehi: {states having materiality (instrumental pl. phrase): ရုပ် ဖြစ်သော သဘောတရား}
+Arūpīhi: {having no materiality (instrumental pl.): ရုပ် မဟုတ်သော}
+Arūpīhi dhammehi: {states having no materiality (instrumental pl. phrase): ရုပ် မဟုတ်သော သဘောတရား}
+lokuttarehi: {supramundane, beyond the world (instrumental pl.): လောကကို ကျော်လွန်သော}
+vippayuttehi: {not conjoined, standing apart (instrumental pl. participle): ကင်းကွာသော}
+Anāsavehi: {without cankers (instrumental pl.): စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော}
+vippayuttehi dhammehi: {states standing apart (instrumental pl. phrase): ကင်းကွာသော သဘောတရား}
+Anāsavehi dhammehi: {states without cankers (instrumental pl. phrase): စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော သဘောတရား}
+bāhirehi: {outside oneself, the outer sense bases (instrumental pl.): ပြင်ပ}
+bāhirehi dhammehi: {states of the outer sense bases (instrumental pl. phrase): ပြင်ပ သဘောတရား}
+cittehi: {consciousness, the citta class (instrumental pl.): စိတ်}
+samuṭṭhānehi dhammehi: {states originated by consciousness (instrumental pl. phrase): ဖြစ်ပေါ်လာသော သဘောတရား}
+sahabhūhi dhammehi: {states coexisting with consciousness (instrumental pl. phrase): အတူ တည်ရှိသော သဘောတရား}
+visaṃsaṭṭhehi dhammehi: {states unconjoined with consciousness (instrumental pl. phrase): မရောနှောသော သဘောတရား}
+Ajjhattikehi: {belonging to oneself, the inner sense bases (instrumental pl.): အတွင်းပိုင်း}
+Ajjhattikehi dhammehi: {states of the inner sense bases (instrumental pl. phrase): အတွင်းပိုင်း သဘောတရား}
+anuparivatti: {following along with, moving in step with the mind (compound final): နောက်သို့ လိုက်ပါသော}
+vitakkehi: {initial application of mind (instrumental pl.): စတင်ကြံစည်မှု}
+samuṭṭhāna: {originated, produced (compound member): ဖြစ်ပေါ်လာသော}
+su: {"well", intensifying prefix in subuddho: ကောင်းစွာ}
+raṇehi: {strife, defilement as battle (instrumental pl., in saraṇehi): ပဋိပက္ခ}
+pariyāpannehi: {included within a plane (instrumental pl. participle): ဘဝဘုံတို့၌ အကျုံးဝင်သော}
+maccu: {death, mortality (stem): သေခြင်း}
+saṃkiliṭṭhehi dhammehi: {states corrupted by defilements (instrumental pl. phrase): ကိလေသာဖြင့် ညစ်နွမ်းသော သဘောတရား}
+sahabhu: {coexisting with, arising together, in cittasahabhu (compound final): အတူ တည်ရှိသော}
+Bāhiraṃ: {external, outside oneself (neuter sg.): ပြင်ပ}
+pañcamo: {the fifth, of a liberation (masculine numeral): ပဉ္စမ}
+Rūpaṃ: {matter, material form (nominative/accusative sg.), also the material side of nāmarūpa: ရုပ်}
+saṃsaṭṭhaṃ: {intermixed, joined with (neuter sg. participle): ရောနှောသော}
+jīvitaṃ: {life, vitality (nominative sg.): အသက်}
+pumaṃ: {maleness, the masculinity faculty in itthipumaṃ (summary verse): ယောက်ျား}
+ārammaṇaṃ: {object of the mind, what the mind takes up (noun, nominative/accusative sg.): အာရုံ}
+kāmāvacarehi: {belonging to the sensual plane (instrumental pl.): ကာမဘုံနှင့် ဆိုင်သော}
+avacarehi: {belonging to a plane, compound-final (instrumental pl.): ဘုံနှင့် ဆိုင်သော}
+niyyānikehi dhammehi: {states leading out of the round (instrumental pl. phrase): လွတ်မြောက်ရာသို့ ပို့ဆောင်သော သဘောတရား}
+savitakkehi dhammehi: {states having initial application (instrumental pl. phrase, long form): စတင်ကြံစည်မှု ရှိသော သဘောတရား}
+saraṇehi dhammehi: {states with strife, the defiled (instrumental pl. phrase): ပဋိပက္ခ ရှိသော သဘောတရား}
+sappītikehi dhammehi: {states having zest (instrumental pl. phrase): ပီတိ ရှိသော သဘောတရား}
+savicārehi dhammehi: {states having sustained application (instrumental pl. phrase): ဆက်လက်သုံးသပ်မှု ရှိသော သဘောတရား}
+buddho: {grasped, comprehended (participle in subuddho, summary verse): နားလည်အပ်သော}
+anuttarehi: {having nothing higher, supramundane (instrumental pl.): ထိုထက် သာလွန်သည် မရှိသော}
+anuttarehi dhammehi: {states having nothing higher (instrumental pl. phrase): ထိုထက် သာလွန်သည် မရှိသော သဘောတရား}
+sampayutto: {conjoined with, compound final (masculine sg. participle): ယှဉ်တွဲသော}
+vippayutto: {dissociated from (masculine sg. participle): ကင်းကွာသော}
+Natthi: {there is not, the denial in the nihilist view 'there is no gift' (3rd sg. present): မရှိသည်}
+kehici: {"with or from some", marking partial association or dissociation: အချို့}
+cittasaṃsaṭṭhasamuṭṭhānānuparivattino: {intermixed with, originated by and following after mind (nominative pl.): စိတ်နှင့် ရောနှော၍ စိတ်မှ ဖြစ်ပေါ်လာပြီး စိတ်နောက်သို့ လိုက်ပါသော}
+pītikā: {having rapture, compound final in sappītika and appītika (nominative pl.): ပီတိ}
+pare: {after that, further on in the count, in 'tato pare' of the summary verse (adverb): နောက်}
+bhavā: {modes or planes of being (nominative pl., summary verses): ဘဝ}
+paññāsa: {the number fifty (numeral): ငါးဆယ်ပါး}
+labbhati: {is obtained, is applicable (passive sg.): တွေ့ရသည်}
+sataṃ: {a hundred (numeral): တစ်ရာ}
+antare: {in between, within (locative): ကြားညှပ်}
+ekūnavīsati: {the number 19 (cardinal): ဆယ့်ကိုးပါး}
+chaṭṭho: {the sixth, of a liberation (masculine numeral): ဆဋ္ဌမ}
+Tevīsa: {the number 23 (cardinal): နှစ်ဆယ့်သုံးပါး}
+dhammā vippayuttā: {states standing apart (nominative pl. phrase): ကင်းကွာသော သဘောတရား}
+manasi: {mental advertence, in the summary verse (manasi for manasikāra): နှလုံးသွင်းခြင်း}
+indriyato: {from among the faculties (ablative): စွမ်းရည်}
+antarā: {the intermediate sections of the Mātikā (summary verse): ကြားညှပ်}
+yuttā: {conjoined (participle, summary verse): ယှဉ်သော}
+tathariva: {in the same way (adverb, summary verse): ထို့အတူ}
+manena: {consciousness, the mind (instrumental sg., summary verse): စိတ်}
+sattamo: {the seventh, of a liberation (masculine numeral): သတ္တမ}
+vicāraṇā: {sustained application of mind (summary verse form): ဆက်လက်သုံးသပ်မှု}
+Samucchede: {in this systematic analysis (locative sg.): ပိုင်းဖြတ်ခြင်း}
+gocchake: {in the clusters of the Mātikā (locative sg.): အစု}
+mataṃ: {dying, in the summary verse compound jātijarāmataṃ: သေခြင်း}
+aṭṭhamo: {the eighth, of a liberation (masculine numeral): အဋ္ဌမ}
+mogha: {void, yielding nothing (in moghapucchaka): အချည်းနှီး}
+sattacattālīsa: {the number 47 (cardinal): လေးဆယ့်ခုနစ်ပါး}
+sattacattālīsa dhammā: {the count of 47 states not found (summary verse phrase): သဘောတရား လေးဆယ့်ခုနစ်ပါး}
+labbhare: {are obtained, are applicable (passive pl.): တွေ့ရသည်}
+pucchakena: {by way of the question asked (instrumental, in moghapucchaka): မေးခွန်း}
+saṅkhārehi: {volitional formations conditioned by ignorance (instrumental pl.): ပြုပြင်ဖန်တီးမှု}
+pītikehi: {having zest, compound-final (instrumental pl.): ပီတိ}
+niddese: {in the detailed exposition (locative sg.): အကျယ် ဖော်ပြချက်}
+tecattālīsaṃ: {the number 43 (cardinal): လေးဆယ့်သုံးပါး}
+saṅgahaṃ gatā: {"gone into inclusion", collected together (summary verse phrase): အကျုံးဝင်သော}
+Navamassa: {ordinal 9th (genitive, of the ninth method): နဝမ}
+duke: {in the sets of two topics, dyads (locative): နှစ်မျိုးတွဲ}
+viññāṇena vippayuttā: {standing apart from consciousness (pl. phrase): သိစိတ်နှင့် … ကင်းကွာသော}
+bhavena vippayuttā: {standing apart from a mode of being (pl. phrase): ဘဝနှင့် … ကင်းကွာသော / ဘဝနှင့် ကင်းကွာသော}
+Adhimokkhena vippayuttā: {standing apart from resolution (adhimokkha) (pl. phrase): ဆုံးဖြတ်မှုနှင့် ကင်းကွာသော}
+Kusalehi vippayuttā: {standing apart from skilful states (pl. phrase): ကုသိုလ် … ကင်းကွာသော}
+dhammehi vippayuttā: {standing apart from such states (pl. phrase): သဘောတရားများနှင့် ကင်းကွာသော}
+uppannehi: {already come into being (instrumental pl. participle): ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ပြီးသော}
+upādinnehi: {kammically acquired, clung-to (instrumental pl.): ကံကြောင့် ဖြစ်သော}
+Avitakkehi dhammehi: {states lacking initial application (instrumental pl. phrase, long form): စတင်ကြံစည်မှု မရှိသော သဘောတရား}
+dasamo: {ordinal 10th, closing the method's explanation: ဒသမ}
+ekādasamo: {ordinal 11th, closing the method's explanation: ဧကာဒသမ}
+dvādasamo: {ordinal 12th, closing the method's explanation: ဒွါဒသမ}
+saṃyojaniyehi: {favourable to the bonds of rebirth (instrumental pl.): နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော}
+oghaniyehi: {favourable to the overwhelming currents (instrumental pl.): ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်သော}
+nīvaraṇiyehi: {favourable to the mental obstructions (instrumental pl.): အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော}
+asaṃyojaniyehi dhammehi: {states not favourable to the bonds of rebirth (instrumental pl. phrase): နှောင်ကြိုး၏ အာရုံ မဖြစ်နိုင်သော သဘောတရား}
+ganthaniyehi: {favourable to the bodily knots (instrumental pl.): အထုံး၏ အာရုံ ဖြစ်နိုင်သော}
+yoganiyehi: {favourable to the bonds or attachments (instrumental pl.): ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်သော}
+terasamo: {ordinal 13th, closing the method's explanation: တေရသမ}
+asaṃkiliṭṭhehi: {not corrupted by defilements (instrumental pl.): ကိလေသာဖြင့် မညစ်နွမ်းသော}
+Dukkhasaccena: {the first noble truth (instrumental sg.): ဒုက္ခ သစ္စာ}
+Abyākatehi: {kammically neutral (instrumental pl.): ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော}
+parittehi: {small, of the sense sphere (instrumental pl.): အကန့်အသတ် ရှိသော}
+parittehi dhammehi: {sense-sphere states, the small class (instrumental pl. phrase): အကန့်အသတ် ရှိသော သဘောတရား}
+Majjhimehi: {intermediate in quality (instrumental pl.): အလယ်အလတ်}
+Majjhimehi dhammehi: {states of intermediate quality (instrumental pl. phrase): အလယ်အလတ် သဘောတရား}
+uppādīhi: {bound to come into being (instrumental pl.): ဖြစ်ပေါ်လာမည့်}
+Uppannehi dhammehi: {states that have come into being (instrumental pl. phrase): ဖြစ်ပေါ်ပြီးသော သဘောတရား}
+Lokiyehi: {mundane, belonging to the world (instrumental pl.): လောကနှင့် သက်ဆိုင်သော}
+Lokiyehi dhammehi: {mundane states (instrumental pl. phrase): လောကနှင့် သက်ဆိုင်သော သဘောတရား}
+Sāsavehi dhammehi: {states that are objects of the cankers (instrumental pl. phrase): စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+Parāmaṭṭhehi dhammehi: {states wrongly grasped (instrumental pl. phrase): မှားယွင်းသော ယူဆမှု၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+Saṃkilesikehi dhammehi: {states conducive to defilement (instrumental pl. phrase): ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော သဘောတရား}
+sauttarehi: {having something higher, mundane (instrumental pl.): ထိုထက် သာလွန်သည် ရှိသေးသော}
+niṭṭhitaṃ: {completed, finished (neuter sg. participle): ပြီးဆုံးသော}
+cuddasamo: {ordinal 14th, closing the method's explanation: စုဒ္ဒသမ}
+sambuddha: {the self-awakened one, member of sammāsambuddha (homage line): အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်}
+bhagavato: {of the Blessed One, the Lord (genitive sg.): မြတ်စွာဘုရား}
+sammāsambuddhassa: {of the perfectly self-awakened Buddha (genitive sg.): အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်}
+namo: {homage, reverence (nominative sg.): ရှိခိုးသည်}
+arahato: {of the worthy one, the arahant (genitive sg.): ရဟန္တာ}
+āyatanāni / pādā: {paired keyword, the sense bases with the bases of spiritual power (summary list): အာရုံခံ နယ်ပယ် … ပါဒ်}
+aññā / aññātāvī: {paired keyword, final knowledge and one who has final knowledge (faculty list): အပြည့်အဝ သိမြင်ခြင်း … အပြည့်အဝ သိမြင်ပြီးသူ}
+kāma / āyatanehi: {paired keyword, the sensual sphere with the counted sense bases (instrumental pl.): ကာမ … အာရုံခံ နယ်ပယ်}
+vitakka / vicārā: {paired keyword, applied and sustained thought (compound with pl. vicārā): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}
+vitakka / vicāra: {paired keyword, applied and sustained thought (stem compound): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}
+vitakkā / vicārā: {paired keyword, applied and sustained thought (nominative pl.): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}
+vitakka / vicārehi: {paired keyword, applied and sustained thought (compound with instrumental pl.): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}
+kāma / āyatana: {paired keyword, the sensual sphere with the sense bases (stem compound): ကာမ … အာရုံခံ နယ်ပယ်}
+vitakkehi / vicārehi: {paired keyword, applied and sustained thought (instrumental pl.): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}
+vitakka / vicāraṇā: {paired keyword, applied thought and its sustained exploring (summary verse): စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု}

@@ -1,0 +1,4 @@
+[3-5-0] nayo
+[3-5-1-0] niddeso
+[3-191] khandhena, khandha, āyatana, dhātuyā, dhātu, samudaya, magga, āyatanena, dhammā saṅgahitā, dhammehi khandhasaṅgahena, saccena
+[3-192] khandhena, khandha, sampayuttehi, manasikārena, bodhi, āyatana, Uddhaṃ, upādānena, gocchaka, samādhi, paccayā, phassena, taṇhāya, saṃkiliṭṭhehi, saṃkilesikehi, kilesehi, paṭicca, upāyāsena, padhānena, aṭṭhaṅgikena, dhātuyā, dhātu, ekādasa, upekkhā, bhavena, niddeso, aṅgehi, indriyehi, indriyena, saddhā, vedanā, itthi, saṃyojanehi, pannarasa, oghehi, saṅkhārena, upaṭṭhānena, nīvaraṇehi, Avijjāya, appamaññāya, cetanāya, somanassa, vidhā, ñassāmi, aññā / aññātāvī, aññāta, paridevena, purisa, sati, parāmāsehi, ariyena, dukkha, maggena, sukha, balehi, sammā, Hetūhi, domanassa, āyatanena, sokena, dhammā saṅgahitā, dhammehi khandhasaṅgahena, āsavehi, tiṃsa, ganthehi, saccā, paññā, yogehi
