@@ -1,0 +1,41 @@
+    # ---- REVIEW batch 3 ----
+    ('gandhaṃ', [
+        ('smell, odour as object (accusative sg.)', ['အနံ့']),
+        ('perfume, scent given as a gift, in the list annaṃ pānaṃ vatthaṃ … gandhaṃ (accusative sg.)', ['နံ့သာ']),
+    ]),
+    ('tena', [
+        ("therefore, for that reason, in tena vuccati (instrumental pronoun), also 'if so, then', in tena hi",
+         ['ထို့ကြောင့်', 'သို့ဖြစ်လျှင်']),
+    ]),
+    ('setu', [
+        ('causeway, bridge, in setughāto (compound member)', ['တံတား']),
+        ('proper name, Setu the young brahmin, in setu māṇavo', ['သေတု']),
+    ]),
+    ('bhūtā', [
+        ('the great elements, primary matter, in mahābhūtā (nominative pl.)', ['မဟာဘုတ်', 'ဓာတ်ကြီး']),
+        ("become, in vasībhūtā 'having become masters' (compound final)", ['ဖြစ်စေနိုင်သော']),
+    ]),
+    ('pānaṃ', [
+        # new in pi-5: the drink (gift lists) and the drinking of surāmerayapāna (^5-903): two meanings
+        ('beverage, drink (nominative or accusative sg.)', ['သောက်ဖွယ်', 'အဖျော်']),
+        ('drinking, in surāmerayapānaṃ (compound final)', ['သောက်ခြင်း']),
+    ]),
+    ('karaṇaṃ', [
+        ("doing, taking up, in akaraṇaṃ 'not doing' (nominative sg.), here making, causing, in aññāṇakaraṇa and "
+         'nānākaraṇa', ['ပြုတတ်သော', 'ကွဲပြားစေတတ်သော']),
+    ]),
+    ('vihāra', [
+        ('abiding, dwelling, in brahmavihāra (compound member)', ['နေထိုင်ရာ']),
+        ('monastery, a dwelling of monks, in ārāmavihāra (compound member)', ['ကျောင်း']),
+    ]),
+    ('uppāditaṃ', [
+        ("made to flow, of the Tathāgata's blood (neuter sg. participle)", ['ထွက်စေအပ်သော']),
+        ('produced, aroused, of remorse, in kukkuccaṃ uppāditaṃ (neuter sg. participle)', ['ဖြစ်ပေါ်စေခဲ့ပြီးသော']),
+    ]),
+    ('kareyya', [
+        ('would exercise or wield rule (optative), also would commit, of a robbery (^5-901)', ['ပြုသည်', 'လုယက်သည်']),
+    ]),
+    ('dukkhāya', [
+        ('for the suffering, the misery of, in dīgharattaṃ ahitāya dukkhāya (dative sg.)', ['ဆင်းရဲဖွယ်ရာ']),
+        ('painful, of feeling (feminine genitive sg.)', ['နာကျင်သော']),
+    ]),

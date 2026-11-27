@@ -1,0 +1,119 @@
+    # ---- REVIEW batch 4 (one-stem groups checked by hand) ----
+    ('buddho', [
+        ('the Buddha, the Awakened One (nominative sg.)', ['ဘုရား', 'ဘုရားရှင်']),
+    ]),
+    ('maya', [
+        ("consisting in, made of, the suffix -maya (compound end)", ['ဖြစ်သော']),
+    ]),
+    ('dakkhiṇaṃ', [
+        ('religious gift, offering (accusative sg.)', ['အလှူ']),
+    ]),
+    ('aññatra', [
+        ('except, apart from (adverb), also elsewhere, in natthaññatra and aññatra gacchati', ['အခြား']),
+    ]),
+    ('iddhiṃ', [
+        ("supernormal power, in iddhiṃ vikubbati 'works a wonder' (accusative sg.)", ['ဣဒ္ဓိ']),
+    ]),
+    ('antarā', [
+        ("between, intermediate, in antarābhava 'the intermediate existence' (compound member), also 'in the "
+         "meantime' (adverb)", ['ကြား']),
+    ]),
+    ('puriso', [
+        ('a man, male person (nominative sg.)', ['ယောက်ျား', 'ယောကျ်ား']),
+    ]),
+    ('atthato', [
+        ('in terms of meaning, as to import (adverb in -to)', ['အဓိပ္ပာယ်']),
+    ]),
+    ('kusalassa', [
+        ("skilled, expert, in sadhammakusalassa 'of one skilled in his own field' (genitive sg.)", ['ကျွမ်းကျင်သော']),
+    ]),
+    ('hetuka', [
+        ("caused, having a cause, in ahetukavāda 'the doctrine of no cause' (compound member)", ['အကြောင်း']),
+    ]),
+    ('asuci', [
+        ('unclean (compound member), here the bodily impurity, semen, in asuci sukkavissaṭṭhi',
+         ['မစင်ကြယ်သော', 'မစင်ကြယ်သော သုက်ထွက်ခြင်း', 'မစင်ကြယ်သော သုက်']),
+    ]),
+    ('āsayo', [
+        ('receptacle, store, of food and drink in the body (nominative sg.)', ['သိုလှောင်ရာ']),
+    ]),
+    ('nāma', [
+        ('name, in nāmagotta (compound member)', ['အမည်']),
+    ]),
+    ('maṃsa', [
+        ("flesh (compound member), here fleshly, physical, in maṃsacakkhu 'the physical eye'", ['ပကတိ']),
+    ]),
+    ('samitaṃ', [
+        ('continually, without a break (adverb)', ['အစဉ်တစိုက်']),
+    ]),
+    ('vivaṭṭa', [
+        ("drawn back, removed, in vivaṭṭacchada 'with the veil drawn back' (compound member)", ['ဖွင့်လှစ်ပြီးသော']),
+    ]),
+    ('anto', [
+        ("end, boundary, in cāturanto 'ruling to the four ends of the earth' (compound final)", ['အဆုံး']),
+    ]),
+    ('dhammena', [
+        ('by righteousness, lawfully, in adaṇḍena asatthena dhammena (instrumental)', ['တရား']),
+    ]),
+    ('daṇḍena', [
+        ('with a stick, a staff (instrumental), here force, punishment, in adaṇḍena', ['ဒဏ်']),
+    ]),
+    ('saraṇaṃ', [
+        ('refuge, a place of safety to go to (nominative or accusative sg.)', ['ကိုးကွယ်ရာ']),
+    ]),
+    ('citto', [
+        ('of mind, compound final (nominative sg.)', ['စိတ် ရှိသော']),
+        ('proper name, Citta the householder (citto gahapati)', ['စိတ္တ']),
+    ]),
+    ('pariyāya', [
+        ('comprehending, encompassing, in cetopariyāya (compound member)', ['ပိုင်းခြား သိခြင်း']),
+    ]),
+    ('upamā', [
+        ('simile, comparison (nominative)', ['ဥပမာ']),
+    ]),
+    ('āruppā', [
+        ('the immaterial attainments, absorptions of the formless (nominative pl.), here the immaterial realms',
+         ['ရုပ်မရှိသော ဘုံ']),
+    ]),
+    ('sā', [
+        ('that, she (feminine pronoun)', ['ထို']),
+    ]),
+    ('cetasiko', [
+        ('a mental factor, what accompanies the mind, in cetasiko dhammo (masculine sg.)', ['စိတ်၏ အဖော်']),
+    ]),
+    ('dahati', [
+        ('burns, consumes with fire (3rd sg. present)', ['လောင်သည်']),
+    ]),
+    ('santo', [
+        ('the good, virtuous people (nominative pl.)', ['သူတော်ကောင်း']),
+    ]),
+    ('samiddhi', [
+        ('proper name, the monk Samiddhi', ['သမိဒ္ဓိ']),
+    ]),
+    ('kāmo', [
+        ('desirous of, wishing to, in bhaṇitukāmo and abhikkamitukāmo (compound final)', ['လို']),
+    ]),
+    ('Rūpataṇhā', [
+        ('craving for visible forms (nominative sg.)', ['အဆင်းအရောင်ကို တပ်မက်မှု']),
+    ]),
+    ('kappo', [
+        ('a world-age, an aeon (nominative sg.)', ['ကမ္ဘာ']),
+    ]),
+    ('samāhito', [
+        ('furnished with, in paññāsīlasamāhito (compound final)', ['ပြည့်စုံသော']),
+    ]),
+    ('veḷu', [
+        ('the Bamboo Grove, in the name Veḷuvana (compound member)', ['ဝေဠုဝန်']),
+    ]),
+    ('yuttaṃ', [
+        ('harnessed, yoked (participle)', ['ကပ်ထားသော']),
+    ]),
+    ('pattaṃ', [
+        ('alms bowl (accusative sg.)', ['သပိတ်']),
+    ]),
+    ('samaye', [
+        ("in the system of thought, the doctrine, in satthusamaye (locative)", ['အယူဝါဒ']),
+    ]),
+    ('seyyaṃ', [
+        ('bed, a sleeping place, in the gift lists (accusative sg.)', ['အိပ်ရာ']),
+    ]),

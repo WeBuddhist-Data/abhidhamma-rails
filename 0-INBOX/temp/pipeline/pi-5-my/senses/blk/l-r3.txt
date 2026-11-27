@@ -1,0 +1,54 @@
+    # batch 3
+    'khaṇo',         # «ခဏ» / «အခါ» (^5-338): the moment, the occasion
+    'soḷasa sahassāni',  # the members in either order across «…» (rule 10)
+    'viloketi',      # «ဘေးသို့ / ဝေ့ဝဲ ကြည့်သည်», «ကြည့်သည်» = pi-4 'looks around'
+    'phoṭṭhabbaṃ',   # «အတွေ့အထိ» = «အထိအတွေ့»: the tangible
+    'manāpā',        # «နှစ်သက်ဖွယ် ကောင်းသော» / «စိတ်နှင့် တွေ့သော» = pi-4 «စိတ်တွေ့သော»: pleasing
+    'amanāpa',       # «စိတ်နှင့် မတွေ့ဖွယ်» / «မနှစ်သက်ဖွယ်»: unpleasing
+    'dānaṃ',         # «ဒါန» = «အလှူ / ပေးလှူခြင်း»: the gift, giving
+    'viveka',        # «ဆိတ်ငြိမ်ခြင်း» = pi-4 «ကင်းဆိတ်ခြင်း»: seclusion
+    'sikkhā',        # «ကျင့်ခြင်း» (anupubbasikkhā) = «သိက္ခာ»: the training
+    'voharati',      # «ပြောဆို သုံးနှုန်းသည်» / «သုံးနှုန်းပြောသည်»: expresses
+    'hīna',          # «ယုတ်ခြင်း» / «ယုတ်လျော့သော» / «ချို့ယွင်းသော» = pi-4 «ယုတ်ညံ့သော»: low, deficient
+    'akkhātā',       # «ဟောကြားသူ» = «ပြောကြားသော»: one who announces
+    'vidū',          # «နားလည်သော» / «သိသော» = pi-4 «သိတော်မူသော»: one who knows
+    'cuti',          # «စုတေ» / «စုတိ» = «သေခြင်း»: passing away
+    'vadāmi',        # «ဆိုသည်» / «ဟောသည်»: I say (by speaker, map-harmonise §A 9)
+    'uttamo',        # «အမြတ်ဆုံး» = pi-4 «အထွတ်အထိပ်»: supreme
+    'anuttaraṃ',     # «အမြတ်ဆုံး» = pi-2 «ထိုထက် သာလွန်သည် မရှိသော»: unsurpassed
+    'upapattiyā',    # «ပြန်လည် ဖြစ်ပေါ်သော / ခြင်း» = pi-1 «ဖြစ်ပေါ်ရန်»: rebirth (map-harmonise §F 14)
+    'uppādā',        # «ဖြစ်ပေါ်သော / ခြင်း», «ပွင့်ပေါ်သည်» = pi-2 «ဖြစ်ပေါ်ရာ»: arising
+    'seṭṭho',        # «အမြတ်ဆုံး» / «မြတ်သော» = pi-4 «အကောင်းဆုံး»: best
+    'uddisi',        # «ကိုးကွယ်ခဲ့သည်» / «ညွှန်ပြခဲ့သည်»: named (another teacher), the same phrase
+    'tapaṃ',         # «ပြင်းထန်သော / ခြိုးခြံသော အကျင့်»: austerity
+    'akāsi',         # «ကျင့်ခဲ့သည်» / «ပြုခဲ့သည်»: did, performed (map-harmonise §B)
+    'phusanti',      # «ထိသည်» / «တွေ့ထိသည်»: touch
+    'niyamo',        # «ကျိန်းသေမှု» / «သေချာသော လမ်းကြောင်း»: certainty
+    'mahābhūtā',     # «မဟာဘုတ်» = pi-2 «မူလဓာတ်ကြီး»: the great elements
+    'abyābajjhaṃ',   # «ညှဉ်းဆဲမှု ကင်းခြင်း» / «မဆင်းရဲစေတတ်သော»: non-affliction
+    'annaṃ',         # «ထမင်း» / «အစာ»: food
+    'ārāma',         # «ကျောင်း» / «ဥယျာဉ်» / «အရံ»: park, monastery park
+    'bhojanīyaṃ',    # «ဘောဇဉ်» / «စားဖွယ်» (map-harmonise §A 27)
+    'parakataṃ sukhadukkhaṃ',   # the phrase glued or gapped (rule 10)
+    'atthāya',       # «အကျိုး» / «အတွက်»: for the sake of (attano / parassa atthāya)
+    'saṃvattaniyaṃ', # «ပို့ဆောင် / ဖြစ်စေ / ရောက်စေတတ်သော»: conducive (map-harmonise §A 26)
+    'adhipacca',     # «အကြီးအကဲ ဖြစ်ခြင်း» / «အုပ်ချုပ်ခြင်း»: sovereignty
+    'paccati',       # «ကျက်သည်» / «ပူလောင်ရသည်»: is tormented in hell (^5-501, ^5-657)
+    'āyu',           # «အသက်» = pi-2 under the same tag
+    'jātā',          # «ပေါ်ပေါက်သော» / «ဖြစ်ပေါ်သော» = pi-2 born, come to be
+    'jāyiṃsu',       # «ဖြစ်သည်» / «မွေးဖွားသည်»: came to birth
+    'bhāvitā bahulīkatā',   # the members in either order across «…» (rule 10)
+    'ekanta',        # «တစ်ထစ်ချ» = pi-4 «လုံးဝ»: wholly
+    'parinipphannaṃ',   # the text's three wordings (map-harmonise §A 24)
+    'sañcetanikānaṃ',   # «ရည်ရွယ်၍» / «စေ့ဆော်၍»: the same passage in two wordings (map-harmonise §A 26)
+    'voropitā',      # «သတ်ခဲ့ပြီးသော» = pi-2 «ချခံရသော»: deprived of life (map-harmonise §A 29)
+    'niyato',        # pi-4 NAME / adjective under the same tag (mapper P1)
+    'yoniṃ',         # «ဘဝ» / «ဘုံ» / «မွေးဖွားရာ အမျိုးအစား» of tiracchānayoniṃ: one mode of generation
+    'upapajjeyya',   # «ပြန်လည် ဖြစ်ပေါ်သည်» = pi-2 «ရောက်သည်»: would be reborn
+    'seyyathidaṃ',   # «ယင်းမှာ» = «ဆိုလိုသည်မှာ»: namely
+    'diṭṭhadhamma',  # «ယခုဘဝ» = pi-2 «မျက်မှောက်ဘဝ»: this present life
+    'rūpaṃ rūpāvacaraṃ',    # the members glued or separated (rule 10)
+    'saṃvattaniyaṃ kammaṃ', # the same sutta phrase in two wordings (map-harmonise §A 26)
+    'apacināti',     # «ဖြိုဖျက်သည်» / «ဖျက်ဆီးသည်» (map-harmonise §A 26)
+    'ariyo aṭṭhaṅgiko',         # the members in either order (rule 10, G2)
+    'ariyo aṭṭhaṅgiko maggo',   # the members in either order (rule 10, G2)

@@ -1,0 +1,279 @@
+    ('pada', [
+        ('rules, items, in sikkhāpada (compound final), here a grammatical item, in padasiddhi, also a term '
+         'examined, in Padasodhanakathā', ['ပုဒ်']),
+        ("step, stride, in sattapadavītihāra 'walking seven steps' (compound member)", ['လှမ်း']),
+    ]),
+    ('bheda', [
+        ('breaking into speech, in vacībheda', ['စကား ထွက်ခြင်း']),
+        ('schism, in saṅghabheda', ['သင်းခွဲခြင်း']),
+    ]),
+    ('bodhiyā', [
+        ('enlightenment as a state (instrumental), in the Bodhi headings and bodhiyā buddho', ['ဗောဓိ']),
+        ('the Bodhi tree, in bodhiyā mūle (genitive)', ['ဗောဓိပင်']),
+    ]),
+    ('niyāma', [
+        ('fixed course of rightness, the path that is certain', ['သေချာသော လမ်း', 'သေချာသော လမ်းကြောင်း']),
+        ('fixed destiny of an ordinary person, in accantaniyāmatā', ['ကျိန်းသေခြင်း']),
+    ]),
+    ('sacca', [
+        # pi-4 senses (tags); «မှန်သော» of the epithet saccavādī (^5-229 …) = what is true
+        ("the truths, in saccānulomikañāṇa 'knowledge in conformity with the truths' (compound member)", ['သစ္စာ']),
+        ('truth, what is true, as in idaṃsaccābhinivesa (compound member), here true, in the epithet saccavādī',
+         ['မှန်သော']),
+    ]),
+    ('dhamma', [
+        # pi-4 senses (tags); «ဓမ္မ» the loan in dhammacakka / dhammacakkhu / dhammavinaya = the teaching
+        # (map-harmonise §A 12, kept difference dhamma «အရာ / ဓမ္မ / တရား»)
+        ('phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what '
+         'the mind as sixth sense knows (as in dhammāyatana)', ['သဘောတရား']),
+        ("the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra, here also in dhammadesanā and the "
+         'fixed names dhammacakka, dhammacakkhu and dhammavinaya, and the truth in dhammaṭṭha and dhammaniyāmatā',
+         ['တရား', 'ဓမ္မ']),
+        ("field, domain, in sadhammakusala and paradhammakusala 'skilled in one's own or in another's field' "
+         '(compound member)', ['အရာ']),
+    ]),
+    ('anantarā', [
+        # three wordings of 'immediately (after)', the same meaning: one sense
+        ('without interval, directly after, also in anantarāpayutta (compound member)',
+         ['ချက်ချင်း နောက်', 'ချက်ချင်း', 'နောက်တွင် ချက်ချင်း']),
+    ]),
+    ('samāpanno', [
+        ('having entered a meditative attainment', ['ဝင်စားနေသော']),
+        ("involved in, in 'caught up in favouring and opposing' (anurodhavirodhaṃ samāpanno)", ['ရောက်သော']),
+    ]),
+    ('anantara', [
+        ('contiguity, the proximity relation, in anantarapaccaya (compound member)',
+         ['ချက်ချင်း နောက်၌ ဖြစ်စေသော', 'ကြားမလပ်']),
+        ('next in sequence, in anantaravāra (compound member)', ['နောက်ဆက်တွဲ']),
+    ]),
+    ('vaṇṇa', [
+        ('guise, outward look, in Arahantavaṇṇakathā (heading member)', ['အသွင်']),
+    ]),
+    ('Rūpaṃ puggalo', [
+        # one Burmese value «ရုပ်» in all three segments: one sense
+        ("thesis phrase 'matter is the individual'", ['ရုပ်သည် ပုဂ္ဂိုလ်', 'ရုပ် … ပုဂ္ဂိုလ်']),
+    ]),
+    ('sama', [
+        ("evenly, in due balance, in asamapekkhaṇā (compound member), here equal, in samabhāga 'an equal share'",
+         ['တူသော']),
+    ]),
+    ('kāyo', [
+        ('the physical body, or bodily (nominative sg.)', ['ကိုယ်']),
+        ('troop, multitude, in asurakāyo (compound final)', ['အပေါင်း']),
+    ]),
+    ('mahiso', [
+        # no Marathi line
+        ('buffalo (nominative sg.)', ['ကျွဲ']),
+    ]),
+    ('hatthako', [
+        ('little hand, in kuṇihatthaka', ['လက်']),
+        ('proper name, Hatthaka of Āḷavī', ['ဟတ္ထက']),
+    ]),
+    ('upapanno', [
+        ('reborn, reappeared in a new existence (nominative sg. participle)', ['ပြန်လည် ဖြစ်ပေါ်သော']),
+    ]),
+    ('vigato', [
+        # no Marathi line
+        ('gone, vanished (nominative sg. participle)', ['ကွယ်ပျောက်သော']),
+    ]),
+    ('karonti', [
+        ('do, perform (3rd pl.)', ['ပြုသည်']),
+        ('construct, of houses and storerooms', ['ဆောက်သည်']),
+    ]),
+    ('dukkhā', [
+        ('painful, of feeling (feminine adjective)', ['နာကျင်သော']),
+        ('suffering, said of the five aggregates of clinging (nominative pl.)', ['ဒုက္ခ']),
+        ("miserable, painful in the everyday sense, in 'kāmā aniccā dukkhā' of the views (nominative pl.)",
+         ['ဆင်းရဲ']),
+    ]),
+    ('dha', [
+        ('abbreviated citation of the Dhammapada', ['“ဓမ္မပဒ”']),
+        ('abbreviated citation of the Dhammasaṅgaṇī', ['သဘောတရားများကို စုစည်းရေတွက်ခြင်း']),
+    ]),
+    ('saṅkiṇṇa', [
+        ('filled in, of a moat, in saṅkiṇṇaparikha (compound member)', ['ဖို့ပြီးသော']),
+        ('mingled, adulterated, in asaṅkiṇṇa (compound member)', ['ရောနှောခြင်း', 'ရောယှက်သော']),
+    ]),
+    ('ghano', [
+        ('compact, solid, in ekagghano (masculine)', ['ခဲနက်']),
+        ('the solid mass, an embryonic stage', ['အခဲ']),
+    ]),
+    ('viññātāresu', [
+        # no Marathi line: aviññātāresu of the border peoples (^5-271), the positive part (mapper rule 8)
+        ('those who understand, in aviññātāresu of the border peoples (locative pl.)', ['နားလည်သော']),
+    ]),
+    ('ekaṭṭhe', [
+        ('co-existing, standing in one place, in tadekaṭṭhe (locative)', ['တစ်နေရာတည်း တည်ရှိသော']),
+        ('identical in sense, eka-attha (locative)', ['အနက် တူသော']),
+    ]),
+    ('Anāgataṃ rūpaṃ', [
+        ('matter yet to come (phrase)', ['အနာဂတ် ရုပ်']),
+        ('visible object yet to come (phrase)', ['အနာဂတ် အဆင်းအရောင်']),
+    ]),
+    ('Atītaṃ rūpaṃ', [
+        ('bygone matter (phrase)', ['အတိတ် ရုပ်']),
+        ('bygone visible object (phrase)', ['အတိတ် အဆင်းအရောင်']),
+    ]),
+    ('Paccuppannaṃ rūpaṃ', [
+        ('matter arisen now (phrase)', ['ပစ္စုပ္ပန် ရုပ်']),
+        ('visible object arisen now (phrase)', ['ပစ္စုပ္ပန် အဆင်းအရောင်']),
+    ]),
+    ('rajjamānaṃ', [
+        ('being coloured, of cloth in the dye (present participle)', ['ဆိုးဆေး ဆိုးနေသော']),
+        ('becoming lustful, of the mind (present participle)', ['တပ်မက်ဆဲ']),
+    ]),
+    ('niccaṃ', [
+        ('lasting, permanent (nominative or accusative)', ['မြဲသော', 'မြဲ']),
+        ('constantly, always (adverb), in wishes for ever-leafy trees', ['အမြဲ']),
+    ]),
+    ('dhammaṃ', [
+        ('mind-objects, what the mind as sixth sense knows (accusative sg.), the same value also naming a '
+         'phenomenon, any state, as in na kañci dhammaṃ', ['သဘောတရား']),
+        ("the teaching, the doctrine heard and remembered, in 'dhammaṃ jānāti – suttaṃ geyyaṃ' (accusative sg.)",
+         ['တရား']),
+        ("practice, in methunaṃ dhammaṃ 'sexual intercourse' (accusative sg.)", ['အကျင့်']),
+    ]),
+    ('bhedana', [
+        ('smashing, physical destruction, in chedanabhedana (compound member)', ['ခွဲခြင်း']),
+        ('estrangement from friends, in bhedanasaṃvattanika (compound member)', ['ကွဲပြားခြင်း']),
+    ]),
+    ('tiṭṭheyya', [
+        ('would endure, remain in existence (optative)', ['တည်နေသည်']),
+        ('would take up position, of an ambush, in paripanthe tiṭṭheyya (optative)',
+         ['ဓားပြ တိုက်သည်', 'စောင့်ဆိုင်းလုယက်သည်']),
+    ]),
+    ('suriyova', [
+        # no Marathi line
+        ("the sun, in suriyova 'like the sun' (nominative with the particle va)", ['နေမင်း']),
+    ]),
+    ('paccayo', [
+        ('support, conditioning factor (nominative)', ['အကြောင်း']),
+        ('reliance on others, in parapaccayo (compound final)', ['အားကိုးရသော']),
+    ]),
+    ('viharissati', [
+        # no Marathi line
+        ('will dwell, will live on (3rd sg. future)', ['နေသည်']),
+    ]),
+    ('vihessati', [
+        # no Marathi line: the variant reading of viharissati (^5-333)
+        ('will dwell, the variant reading of viharissati (3rd sg. future)', ['နေသည်']),
+    ]),
+    ('āhāro', [
+        # pi-4 food «အစာ» and pi-2 nutriment «အာဟာရ»; «ဆိုခြင်း» the uttering of dukkhāhāro (^5-334, ^5-353)
+        ("food, what is eaten, in evamāhāro 'having such food' of the past-lives formula (compound final), here "
+         'also the food of happiness, in sukhassāhāro', ['အစာ']),
+        ('nutriment, a sustaining condition of mind (contact, volition, consciousness), also edible food as '
+         'nutriment, in kabaḷīkāro āhāro and the four nutriments', ['အာဟာရ']),
+        ("bringing out, utterance, in dukkhāhāro 'the uttering of pain' (compound final)", ['ဆိုခြင်း']),
+    ]),
+    ('muhuttaṃ', [
+        ('a short span of time, as a unit beside khaṇa and laya (accusative)', ['မုဟုတ်ကာလ']),
+        ('moment by moment, in the repeated muhuttaṃ muhuttaṃ (adverbial accusative)', ['ခဏခဏ']),
+    ]),
+    ('cetasikaṃ', [
+        ('mental, of the mind as opposed to the body (neuter sg. adjective), here of pleasure and pain', ['စိတ်']),
+        ('a mental factor, what accompanies the mind, in the cetasika dyad (acetasikaṃ, neuter sg.)',
+         ['စိတ်၏ အဖော်']),
+    ]),
+    ('sutaṃ', [
+        ('heard, what is heard (neuter sg. participle)', ['ကြားခဲ့ရသော']),
+    ]),
+    ('nirodhā', [
+        # one Burmese value: one sense
+        ('stoppings, endings, also ceasing together in ekanirodhā (nominative pl. or ablative)', ['ချုပ်ငြိမ်းသော']),
+    ]),
+    ('antarikā', [
+        ('dividing gap, in the list uccanīcatā … antarikā (nominative)', ['ကြားအပိုင်း']),
+        ('intermediate state between two jhānas, contacts etc., in jhānantarikā (nominative)', ['အကြား ကာလ']),
+    ]),
+    ('bhonto', [
+        # no Marathi line: 'Ime vata bhonto sattā' (^5-377)
+        ('good sirs, the respectful address (nominative pl.)', ['အချင်း']),
+    ]),
+    ('kula', [
+        ("good family, in kulaputta 'a son of good family' (compound member)", ['အမျိုးကောင်း']),
+    ]),
+    ('gacchati', [
+        # pi-2 senses (tags): «ရသည်» is pi-2's reckoning value; «သွားသည်» goes; «ရောက်သည်» reaches (^5-874)
+        ("goes, takes a course, in 'agatiṃ gacchati' 'goes a wrong course' (3rd sg. present), here also of walking "
+         'and travelling', ['သွားသည်']),
+        ("comes under, is reckoned, in 'saṅkhyaṃ gacchati' (3rd sg. present), here also reaches a state, in "
+         'bhāvanāpāripūriṃ gacchati', ['ရသည်', 'ရောက်သည်']),
+    ]),
+    ('niyāmo', [
+        ('certainty, the fixed course of rightness (nominative sg.)', ['သေချာသော လမ်း', 'သေချာသော လမ်းကြောင်း']),
+        ('a binding rule or law by which something is determined (nominative sg.)', ['စည်းမျဉ်း']),
+    ]),
+    ('niyatassa', [
+        # one Burmese value: one sense
+        ('of one certain of destiny (genitive sg.)', ['ကျိန်းသေသော']),
+    ]),
+    ('pariyāye', [
+        ('comprehending, going round, in cetopariyāye (locative sg.)', ['ပိုင်းခြား၍ သိသော']),
+        # «အလှည့်» (^5-635) / «ဘဝအဆက်ဆက်» (^5-782): the same sutta phrase in two wordings (map-harmonise §A 26)
+        ('another time or turn, in apare vā pariyāye (locative sg.)', ['အလှည့်', 'ဘဝအဆက်ဆက်']),
+    ]),
+    ('niyāmatā', [
+        ("certainty of one's destiny, the absolutely fixed course (nominative sg.)", ['ကျိန်းသေခြင်း']),
+        ('fixed regularity of the way things are, in dhammaniyāmatā (nominative sg.)', ['သေချာခြင်း']),
+    ]),
+    ('jāyanti', [
+        ('come to birth, of beings (3rd pl. present)', ['မွေးဖွားသည်']),
+        ('develop, of limbs in the womb (3rd pl. present)', ['ဖြစ်ပေါ်သည်']),
+    ]),
+    ('passasi', [
+        # no Marathi line
+        ('you see (2nd sg. present)', ['မြင်သည်']),
+    ]),
+    ('byāyiko', [
+        # no Marathi line: abyāyiko 'unfailing' (^5-485), the positive part (mapper rule 8)
+        ("perishing, failing, in abyāyiko 'unfailing' (adjective)", ['ပျက်စီးတတ်သော']),
+    ]),
+    ('Ratto', [
+        ('dyed with lust, inflamed (nominative sg. participle)', ['တပ်မက်နေသော']),
+        ('by night, in divā ca ratto ca (adverbial)', ['ည']),
+    ]),
+    ('pavattati', [
+        ('goes on, comes about, of mental states (3rd sg. present)', ['ဖြစ်ပွားသည်']),
+        ('runs down, of water (3rd sg. present)', ['စီးဆင်းသည်']),
+    ]),
+    ('hāpayaṃ', [
+        # no Marathi line: kulavaṃsaṃ ahāpayaṃ (^5-491), the positive part (mapper rule 8)
+        ("letting decline, in kulavaṃsaṃ ahāpayaṃ 'not letting the family line decline' (present participle)",
+         ['ဆုတ်ယုတ်စေသော']),
+    ]),
+    ('tiṭṭhanti', [
+        ('remain, abide in a place (3rd pl. present)', ['တည်ရှိသည်', 'တည်သည်']),
+        ('lie in wait, waylay and rob, in paripanthe tiṭṭhanti (3rd pl. present)', ['ဓားပြ တိုက်သည်']),
+    ]),
+    ('kammaṃ', [
+        ("action-noun final '-making, -doing' in synonym lists, as in niṭṭhuriyakammaṃ and anāvikammaṃ, here in "
+         'añjalikammaṃ and sāmīcikammaṃ', ['ပြုမူခြင်း']),
+    ]),
+    ('ṭhita', [
+        ('steady, firm, in ṭhitatto (compound member), here in ṭhitadhamma', ['တည်မြဲသော']),
+    ]),
+    ('dissanti', [
+        ('appear to be, with viya (3rd pl. passive)', ['ထင်ရသည်']),
+        ('are seen, are met with (3rd pl. passive)', ['မြင်ရသည်']),
+    ]),
+    ('kaṇṇo', [
+        ('organ of hearing (nominative)', ['နား']),
+        ("angle or side, in catukkaṇṇo 'four-sided' (compound end)", ['ထောင့်']),
+    ]),
+    ('vattate', [
+        # no Marathi line: the variant reading «vattate (?)» of vattati (^5-785)
+        ('goes on, the variant reading of vattati in kammunā vattati loko (3rd sg. middle)', ['ဖြစ်သည်']),
+    ]),
+    ('vattati', [
+        ('occurs, functions, of the mind-consciousness element depending on matter (3rd sg. present), here the '
+         'world goes on by kamma, in kammunā vattati loko', ['ဖြစ်သည်']),
+    ]),
+    ('karaṇīyo', [
+        ("worthy of, in añjalikaraṇīyo 'deserving joined palms' (compound end)", ['ရှိခိုးထိုက်သော']),
+        ('fitting, ought to be done (gerundive)', ['လိုက်နာသင့်သော']),
+    ]),
+    ('kāraṇikā', [
+        ('those who inflict punishment or torture, beside kammakāraṇā (nominative pl.)', ['ညှဉ်းပန်း နှိပ်စက်သူ']),
+        ('animal trainers, in a list of stable hands (nominative pl.)', ['လေ့ကျင့်ပေးသူ']),
+    ]),

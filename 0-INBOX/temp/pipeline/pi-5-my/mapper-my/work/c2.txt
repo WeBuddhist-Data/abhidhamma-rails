@@ -1,0 +1,205 @@
+## 2-parihanikatha 146 keywords, 300 uses
+P: ### Parihānikathā
+M: ### ဆုတ်ယုတ်ခြင်းအကြောင်း ဆွေးနွေးချက်
+   parihāni[6]=
+P: #### Vādayuttiparihāni
+M: #### ဆုတ်ယုတ်ခြင်း၌ ဝါဒ၏ ယုတ္တိ
+   yutti[1 5-2-1-0]=
+P: #### Ariyapuggalasaṃsandanaparihāni
+M: #### ဆုတ်ယုတ်ခြင်း၌ အရိယာ ပုဂ္ဂိုလ်တို့ကို နှိုင်းယှဉ်ခြင်း
+   saṃsandana[1 5-2-2-0]=နှိုင်းယှဉ်ခြင်း
+P: #### Suttasādhanaparihāni
+M: #### ဆုတ်ယုတ်ခြင်း၌ သုတ္တန်ဖြင့် သက်သေပြခြင်း
+   sutta[2]=သုတ္တန်; sādhana[1 5-2-3-0]=
+P: Catūhi satasahassehi seṭṭhī seṭṭhittaṃ kārento satasahasse parihīne seṭṭhittā parihīno hotīti
+M: ငွေ လေးသိန်းဖြင့် သူဌေး အဖြစ်ကို ပြုနေသော သူဌေးသည် ငွေ တစ်သိန်း ဆုတ်ယုတ်သွားသောအခါ သူဌေး အဖြစ်မှ ဆုတ်ယုတ်သူ ဖြစ်သလော
+   parihīno[1 5-239]=ဆုတ်ယုတ်သည်; kārento[1 5-239]=; sata[1 5-239]=; parihīne[1 5-239]=ဆုတ်ယုတ်သည်; seṭṭhī[1 5-239]=; seṭṭhittaṃ[1 5-239]=; sahassehi[1 5-239]=
+P: Arahā arahattā parihāyamāno catūhi phalehi parihāyatīti
+M: ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်နေသော ရဟန္တာသည် ဖိုလ် လေးပါးလုံးမှ ဆုတ်ယုတ်သလော
+   parihāyamāno[3]=ဆုတ်ယုတ်သည်; phalehi[1 5-239]=ဖိုလ်¦(no direct equivalent)
+P: Catūhi satasahassehi seṭṭhī seṭṭhittaṃ kārento satasahasse parihīne bhabbo sabbasāpateyyā parihāyitunti
+M: ငွေ လေးသိန်းဖြင့် သူဌေး အဖြစ်ကို ပြုနေသော သူဌေးသည် ငွေ တစ်သိန်း ဆုတ်ယုတ်သွားသောအခါ ဥစ္စာ အားလုံးမှ ဆုတ်ယုတ်နိုင်သူ ဖြစ်သလော
+   parihāyituṃ[1 5-239]=ဆုတ်ယုတ်သည်
+P: Sabbasāpateyyā parihīno hotīti
+M: ဟုတ်ပါသည်
+   sāpateyyā[1 5-239]=
+P: Parihāyati anāgāmī anāgāmiphalāti
+M: အနာဂါမ်သည် အနာဂါမိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   anāgāmiphalā[13]=အနာဂါမိဖိုလ်
+P: Parihāyati sakadāgāmī sakadāgāmiphalāti
+M: သကဒါဂါမ်သည် သကဒါဂါမိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   sakadāgāmiphalā[16]=သကဒါဂါမိဖိုလ်
+P: Parihāyati sotāpanno sotāpattiphalāti
+M: သောတာပန်သည် သောတာပတ္တိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   sotāpattiphalā[16]=သောတာပတ္တိဖိုလ်
+P: Arahā arahattā parihāyamāno kattha saṇṭhātīti
+M: ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်နေသော ရဟန္တာသည် အဘယ်၌ တည်သနည်း
+   saṇṭhāti[1 5-241]=
+P: Anāgāmiphaleti
+M: အနာဂါမိဖိုလ်၌ တည်သည်
+   Anāgāmiphale[1 5-241]=အနာဂါမိဖိုလ်
+P: Sakadāgāmiphaleti
+M: သကဒါဂါမိဖိုလ်၌ တည်သည်
+   Sakadāgāmiphale[1 5-241]=သကဒါဂါမိဖိုလ်
+P: Sotāpattiphaleti
+M: သောတာပတ္တိဖိုလ်၌ တည်သည်
+   Sotāpattiphale[1 5-241]=သောတာပတ္တိဖိုလ်
+P: Sotāpattiphalassa anantarā arahattaṃyeva sacchikarotīti
+M: သောတာပတ္တိဖိုလ်၏ နောက်တွင် ချက်ချင်း ရဟန္တာ အဖြစ်ကိုပင် မျက်မှောက်ပြုသလော
+   anantarā[1 5-241]=
+P: Sotāpanno sotāpattiphalā parihāyamāno puthujjanabhūmiyaṃ saṇṭhātīti
+M: သောတာပတ္တိဖိုလ်မှ ဆုတ်ယုတ်နေသော သောတာပန်သည် ပုထုဇဉ် အဆင့်၌ တည်သလော
+   puthujjana[1 5-241]=ပုထုဇဉ်; jana[1 5-241]=
+P: kassa bahutarā kilesā pahīnā arahato vā sotāpannassa vāti
+M: ရဟန္တာနှင့် သောတာပန်တို့အနက် အဘယ်သူသည် ကိလေသာတို့ကို ပိုများစွာ ပယ်ပြီး ဖြစ်သနည်း
+   pahīnā[10]=ပယ်ပြီးသော
+P: bojjhaṅgabhāvanā arahato vā sotāpannassa vāti
+M: စွမ်းအားကို ပွားများခြင်း
+   aṅga[3]=
+P: kassa adhimattā maggabhāvanā arahato vā sotāpannassa vāti
+M: ရဟန္တာနှင့် သောတာပန်တို့အနက် အဘယ်သူ၏ မဂ်ကို ပွားများခြင်းသည် ပို၍ လွန်ကဲသနည်း
+   adhimattā[3]=လွန်ကဲသော
+P: balabhāvanā
+M: စွမ်းရည်ကို ပွားများခြင်း
+   bala[1 5-244]=စွမ်းအား
+P: Anāgāminā dukkhaṃ diṭṭhaṃ, parihāyati anāgāmī anāgāmiphalāti
+M: အနာဂါမ်သည် ဒုက္ခကို မြင်ပြီး ဖြစ်သည်၊ အနာဂါမ်သည် အနာဂါမိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   Anāgāminā[3]=အနာဂါမိ
+P: Sakadāgāminā dukkhaṃ diṭṭhaṃ, parihāyati sakadāgāmī sakadāgāmiphalāti
+M: သကဒါဂါမ်သည် ဒုက္ခကို မြင်ပြီး ဖြစ်သည်၊ သကဒါဂါမ်သည် သကဒါဂါမိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   Sakadāgāminā[4]=သကဒါဂါမ်
+P: Sotāpannena dukkhaṃ diṭṭhaṃ, parihāyati sotāpanno sotāpattiphalāti
+M: သောတာပန်သည် ဒုက္ခကို မြင်ပြီး ဖြစ်သည်၊ သောတာပန်သည် သောတာပတ္တိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   Sotāpannena[4]=သောတာပန်
+P: Arahatā dukkhaṃ diṭṭhaṃ, parihāyati arahā arahattāti
+M: ရဟန္တာသည် ဒုက္ခကို မြင်ပြီး ဖြစ်သည်၊ ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်သလော
+   Arahatā[2]=ရဟန္တာ
+P: Arahato rāgo pahīno, parihāyati arahā arahattāti
+M: ရဟန္တာသည် ရာဂကို ပယ်ပြီး ဖြစ်သည်၊ ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်သလော
+   pahīno[2]=ပယ်ပြီးသော
+P: oḷāriko kāmarāgo pahīno
+M: ရုန့်ရင်းသော ကာမရာဂကို ပယ်ပြီး ဖြစ်
+   oḷāriko[6]=ရုန့်ရင်းသော
+P: apāyagamanīyo rāgo pahīno 
+M: အပါယ်သို့ ရောက်စေတတ်သော ရာဂကို ပယ်ပြီး ဖြစ်
+   gamanīyo[6]=; apāya[6]=
+P: Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti
+M: အနာဂါမ်သည် ကိုယ်ကို အတ္တဟု ယူဆသော အယူကို ပယ်ပြီး ဖြစ်သည်၊ အနာဂါမ်သည် အနာဂါမိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   Anāgāmissa[5]=အနာဂါမိ
+P: Sotāpannassa sakkāyadiṭṭhi pahīnā, parihāyati sotāpanno sotāpattiphalāti
+M: သောတာပန်သည် ကိုယ်ကို အတ္တဟု ယူဆသော အယူကို ပယ်ပြီး ဖြစ်သည်၊ သောတာပန်သည် သောတာပတ္တိဖိုလ်မှ ဆုတ်ယုတ်သလော
+   Sotāpannassa[6]=သောတာပန်
+P: aṇusahagato kāmarāgo pahīno
+M: အနည်းငယ်မျှ ကျန်ရှိသော ကာမရာဂကို ပယ်ပြီး ဖြစ်
+   aṇu[5]=
+P: Nanu arahato rāgappahānāya maggo bhāvitoti
+M: ရဟန္တာသည် ရာဂကို ပယ်ရန် မဂ်ကို ပွားများပြီး ဖြစ်သည် မဟုတ်လော
+   rāgappahānāya[3]=
+P: Nanu arahato dosappahānāya
+M: ဗောဇ္ဈင်တို့ကို ပွားများပြီး ဖြစ်သည် မဟုတ်လော
+   dosappahānāya[3]=
+P: anottappapahānāya maggo bhāvito
+M: ဒုစရိုက်ကို မကြောက်ရွံ့မှုကို ပယ်ရန် မဂ်ကို ပွားများပြီး ဖြစ်သည်
+   anottappapahānāya[3]=
+P: Nanu arahato rāgo pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammoti
+M: ရဟန္တာသည် ရာဂကို ပယ်ပြီး၊ အမြစ်ပြတ်စေပြီး၊ ငုတ်တို ထန်းပင်ကဲ့သို့ ပြုပြီး၊ မရှိတော့အောင် ပြုပြီး၊ နောင်အခါ မဖြစ်ပေါ်တော့သော သဘော ရှိစေပြီး ဖြစ်သည် မဟုတ်လော
+   uppāda[1 5-260]=; anabhāvaṅkato[1 5-260]=; mūlo[1 5-260]=အမြစ်; vatthu[1 5-260]=
+P: Parihāyati arahā arahattāti
+M: ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်သလော
+   tāla[1 5-260]=; pari[2]=ပိုင်းခြား သိ၍; ādayo[1 5-264]=; anupassati[1 5-266]=
+P: balā bhāvitā
+M: စွမ်းအားတို့ကို ပွားများပြီး ဖြစ်သည်
+   balā[2]=စွမ်းအား
+P: Nanu arahā vītarāgo vītadoso vītamoho katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto ukkhitt
+M: ရဟန္တာသည် ရာဂ ကင်းသူ၊ ဒေါသ ကင်းသူ၊ မောဟ ကင်းသူ၊ ပြုဖွယ် ကိစ္စကို ပြုပြီးသူ၊ ဝန်ကို ချပြီးသူ၊ မိမိ၏ အကျိုးစီးပွားသို့ ရောက်ပြီးသူ၊ ဘဝ နှောင်ကြိုး ကုန်ခန်းပြီးသူ၊ ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ၊ တံခါးကျ
+   aggaḷo[2]=(no direct equivalent); paligho[2]=; khīṇa[2]=; saṃyojano[2]=နှောင်ကြိုး ရှိသော; saṅkiṇṇa[2]=; aññā[2]=သိသော¦သိ၍; vītamoho[3]=ရာဂ ကင်းသော; vītadoso[3]=ရာဂ ကင်းသော; attho[2]=ရှိသည်¦အကျိုး; ohita[2]=; ukkhitta[2]=; panna[2]=; parikho[2]=ကုန်ခန်းသော; esiko[2]=; abbūḷha[2]=; visaññutto[2]=; vijayo[2]=; vijita[2]=သိသည်
+P: dukkhaṃ tassa pariññātaṃ, samudayo pahīno, nirodho sacchikato, maggo bhāvito, abhiññeyyaṃ abhiññātaṃ, pariññeyyaṃ pariññātaṃ, pahā
+M: ရဟန္တာသည် ရာဂ ကင်းသူ၊ ဒေါသ ကင်းသူ၊ မောဟ ကင်းသူ၊ ပြုဖွယ် ကိစ္စကို ပြုပြီးသူ၊ ဝန်ကို ချပြီးသူ၊ မိမိ၏ အကျိုးစီးပွားသို့ ရောက်ပြီးသူ၊ ဘဝ နှောင်ကြိုး ကုန်ခန်းပြီးသူ၊ ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ၊ တံခါးကျ
+   abhiññeyyaṃ[2]=ထူးကဲစွာ သိရမည့်; pariññātaṃ[2]=ပိုင်းခြား သိ၍; sacchikato[2]=မျက်မှောက်ပြုပြီး¦မျက်မှောက် ပြုသော¦မျက်မှောက်ပြုပြီးသော
+P: ( ) Samayavimutto arahā arahattā parihāyati, asamayavimutto arahā arahattā na parihāyatīti
+M: ( ) အချိန်အလိုက် လွတ်မြောက်သော ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်သည်၊ အချိန်အလိုက် မဟုတ်ဘဲ လွတ်မြောက်သော ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ မဆုတ်ယုတ်
+   Samayavimutto[1 5-262]=အချိန်အလိုက် လွတ်မြောက်သော
+P: sacchikātabbaṃ sacchikataṃ, na parihāyati asamayavimutto arahā arahattāti
+M: မျက်မှောက်ပြုရမည့် အရာကို မျက်မှောက်ပြုပြီး ဖြစ်သည်၊ အချိန်အလိုက် မဟုတ်ဘဲ လွတ်မြောက်သော ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ မဆုတ်ယုတ်သလော
+   sacchikātabbaṃ[1 5-263]=မျက်မှောက်ပြုရမည့်
+P: Asamayavimuttassa arahato rāgo pahīno, na parihāyati asamayavimutto arahā arahattāti
+M: အချိန်အလိုက် မဟုတ်ဘဲ လွတ်မြောက်သော ရဟန္တာသည် ရာဂကို ပယ်ပြီး ဖြစ်သည်၊ အချိန်အလိုက် မဟုတ်ဘဲ လွတ်မြောက်သော ရဟန္တာသည် ရဟန္တာ အဖြစ်မှ မဆုတ်ယုတ်သလော
+   samayavimuttassa[2]=အချိန်အလိုက် လွတ်မြောက်သော
+P: "Uccāvacā hi paṭipadā, samaṇena pakāsitā
+M: “ရဟန်းမြတ် ထင်ရှားပြတော်မူသော ကျင့်စဉ်တို့သည် အမြင့်လည်း ရှိ၊ အနိမ့်လည်း ရှိ၏၊ ကမ်းတစ်ဖက်သို့ နှစ်ကြိမ် မရောက်ကြ၊ ကမ်းတစ်ဖက်သို့ တစ်ကြိမ်တည်းဖြင့် ရောက်သည်ဟုလည်း မမှတ်ယူအပ်”
+   samaṇena[1 5-265]=ရဟန်း; pakāsitā[1 5-265]=
+P: "Vītataṇho anādāno, kiccaṃ yassa na vijjati
+M: “တပ်မက်မှု ကင်း၍ စွဲလမ်းမှု မရှိသော၊ ပြုဖွယ် ကိစ္စ မရှိသော အကြင်သူ၌၊ ဖြတ်ပြီးသော အရာ၌ ဖြတ်ဖွယ် မရှိ၊ ရေအလျဉ်ဟူသော ကျော့ကွင်းကို နုတ်ပယ်ပြီး ဖြစ်၏”
+   taṇho[1 5-265]=တပ်မက်မှု; ādāno[1 5-265]=; vijjati[2]=
+P: Na pāraṃ diguṇaṃ yanti, nayidaṃ ekaguṇaṃ muta"nti
+M: “ရဟန်းမြတ် ထင်ရှားပြတော်မူသော ကျင့်စဉ်တို့သည် အမြင့်လည်း ရှိ၊ အနိမ့်လည်း ရှိ၏၊ ကမ်းတစ်ဖက်သို့ နှစ်ကြိမ် မရောက်ကြ၊ ကမ်းတစ်ဖက်သို့ တစ်ကြိမ်တည်းဖြင့် ရောက်သည်ဟုလည်း မမှတ်ယူအပ်”
+   ekaguṇaṃ[1 5-265]=; pāraṃ[1 5-265]=ကမ်းတစ်ဖက်သို့ ရောက်သော; mutaṃ[1 5-265]=; diguṇaṃ[1 5-265]=
+P: Chinnassa chediyaṃ natthi, oghapāso samūhato"ti
+M: “တပ်မက်မှု ကင်း၍ စွဲလမ်းမှု မရှိသော၊ ပြုဖွယ် ကိစ္စ မရှိသော အကြင်သူ၌၊ ဖြတ်ပြီးသော အရာ၌ ဖြတ်ဖွယ် မရှိ၊ ရေအလျဉ်ဟူသော ကျော့ကွင်းကို နုတ်ပယ်ပြီး ဖြစ်၏”
+   samūhato[1 5-265]=
+P: Atthi katassa paticayoti
+M: ပြုပြီးသော အရာ၌ ထပ်မံ စုဆောင်းခြင်း ရှိသလော
+   paticayo[1 5-266]=; katassa[1 5-266]=ပြုသော¦ပြုပြီးသော
+P: "Iṭṭhā dhammā aniṭṭhā ca, nappavedhenti tādino
+M: “တစ်ခဲနက် ဖြစ်သော ကျောက်တောင်သည် လေကြောင့် မလှုပ်ရှားသကဲ့သို့၊ ထို့အတူ အဆင်းအရောင်၊ အရသာ၊ အသံ၊ အနံ့၊ အတွေ့တို့ အားလုံးသည်လည်း၊ “နှစ်သက်ဖွယ် သဘောတရားတို့နှင့် မနှစ်သက်ဖွယ် သဘောတရားတို့သည် ထိုသို့ တည်ကြ
+   Iṭṭhā[1 5-266]=; tādino[1 5-266]=; pavedhenti[1 5-266]=; aniṭṭhā[1 5-266]=
+P: Ṭhitaṃ cittaṃ vippamuttaṃ, vayaṃ cassānupassatī"ti
+M: ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော
+   vippamuttaṃ[1 5-266]=; vayaṃ[1 5-266]=; Ṭhitaṃ[1 5-266]=တည်ငြိမ်သော
+P: "Selo yathā ekagghano, vātena na samīrati
+M: “တစ်ခဲနက် ဖြစ်သော ကျောက်တောင်သည် လေကြောင့် မလှုပ်ရှားသကဲ့သို့၊ ထို့အတူ အဆင်းအရောင်၊ အရသာ၊ အသံ၊ အနံ့၊ အတွေ့တို့ အားလုံးသည်လည်း၊ “နှစ်သက်ဖွယ် သဘောတရားတို့နှင့် မနှစ်သက်ဖွယ် သဘောတရားတို့သည် ထိုသို့ တည်ကြ
+   ghano[1 5-266]=; Selo[1 5-266]=; samīrati[1 5-266]=
+P: "Tassa sammā vimuttassa, santacittassa bhikkhuno
+M: “ကောင်းစွာ လွတ်မြောက်၍ ငြိမ်သက်သော စိတ် ရှိသော ထိုရဟန်းအား၊ ပြုပြီးသော အရာ၌ ထပ်မံ စုဆောင်းခြင်း မရှိ၊ ပြုဖွယ်လည်း မရှိ
+   santa[1 5-266]=
+P: Evaṃ rūpā rasā saddā, gandhā phassā ca kevalā
+M: “တစ်ခဲနက် ဖြစ်သော ကျောက်တောင်သည် လေကြောင့် မလှုပ်ရှားသကဲ့သို့၊ ထို့အတူ အဆင်းအရောင်၊ အရသာ၊ အသံ၊ အနံ့၊ အတွေ့တို့ အားလုံးသည်လည်း၊ “နှစ်သက်ဖွယ် သဘောတရားတို့နှင့် မနှစ်သက်ဖွယ် သဘောတရားတို့သည် ထိုသို့ တည်ကြ
+   phassā[1 5-266]=
+P: Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ na paccavekkhati
+M: အလုပ်ကို နှစ်သက်ခြင်း၊ စကားပြောခြင်းကို နှစ်သက်ခြင်း၊ အိပ်ခြင်းကို နှစ်သက်ခြင်း၊ အပေါင်းအသင်းကို နှစ်သက်ခြင်း၊ လွတ်မြောက်သည့်အတိုင်း စိတ်ကို ပြန်လည် မဆင်ခြင်ခြင်း
+   kamma[1 5-267]=အလုပ် ရှိသော; niddā[1 5-267]=; bhassa[1 5-267]=မြတ်စွာဘုရား¦ဖြစ်သည်
+P: "pañcime, bhikkhave, dhammā samayavimuttassa bhikkhuno parihānāya saṃvattanti
+M: “ရဟန်းတို့၊ ဤသဘောတရား ငါးပါးတို့သည် အချိန်အလိုက် လွတ်မြောက်သော ရဟန်း၏ ဆုတ်ယုတ်ခြင်းအတွက် ဖြစ်စေကုန်၏
+   parihānāya[1 5-267]=
+P: Atthi arahato rāgo kāmarāgo kāmarāgapariyuṭṭhānaṃ kāmarāgasaṃyojanaṃ kāmogho kāmayogo kāmacchandanīvaraṇanti
+M: ရဟန္တာ၌ ရာဂ၊ ကာမရာဂ၊ ကာမရာဂ ထကြွခြင်း၊ ကာမရာဂ နှောင်ကြိုး၊ ကာမ ရေအလျဉ်၊ ကာမ ထမ်းပိုး၊ ကာမကို လိုလားမှု အတားအဆီး ရှိသလော
+   kāmarāgapariyuṭṭhānaṃ[1 5-267]=ကာမရာဂ ထကြွခြင်း
+P: Arahā pajahatīti
+M: ဟုတ်ပါသည်
+   pajahati[1 5-268]=
+P: Nanu arahā neva pajahati na upādiyati pajahitvā ṭhitoti
+M: ရဟန္တာသည် မပယ်၊ မစွဲလမ်း၊ ပယ်ပြီး၍ တည်နေသူ ဖြစ်သည် မဟုတ်လော
+   pajahitvā[1 5-268]=
+P: Arahā ussinetīti
+M: ဤသို့ မဆိုသင့်ပါ
+   ussineti[1 5-268]=
+P: Arahā ācinatīti
+M: ဤသို့ မဆိုသင့်ပါ
+   ācinati[1 5-268]=
+P: Arahā upādiyatīti
+M: ရဟန္တာသည် ဖြိုဖျက်သလော
+   upādiyati[1 5-268]=
+P: Atthi arahato kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayoti
+M: ရဟန္တာ၌ ကာမရာဂ ကိန်းအောင်းခြင်း၊ မုန်းတီးမှု ကိန်းအောင်းခြင်း၊ မာန ကိန်းအောင်းခြင်း၊ အယူ ကိန်းအောင်းခြင်း၊ ယုံမှားမှု ကိန်းအောင်းခြင်း၊ ဘဝရာဂ ကိန်းအောင်းခြင်း၊ အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း ရှိသလော
+   bhavarāga[1 5-268]=ဖြစ်သည်¦ဘဝ; bhavarāgānusayo[1 5-268]=ဘဝရာဂ ကိန်းအောင်းခြင်း
+P: Arahā sandhūpetīti
+M: ရဟန္တာသည် ငြိမ်းစေသလော
+   sandhūpeti[1 5-268]=
+P: Arahā arahattā parihāyamāno kiṃ pariyuṭṭhito parihāyatīti
+M: ရဟန္တာ အဖြစ်မှ ဆုတ်ယုတ်နေသော ရဟန္တာသည် အဘယ်အရာ၏ ထကြွခြင်းကို ခံရ၍ ဆုတ်ယုတ်သနည်း
+   pariyuṭṭhito[1 5-268]=ထကြွခြင်း
+P: Arahā vidhūpetīti
+M: ဤသို့ မဆိုသင့်ပါ
+   vidhūpeti[1 5-268]=
+P: Arahā visinetīti
+M: ရဟန္တာသည် ပယ်သလော
+   visineti[1 5-268]=
+P: Nanu arahā neva visineti na ussineti visinitvā ṭhitoti
+M: ရဟန္တာသည် မဖြန့်ကြဲ၊ မစုပုံ၊ ဖြန့်ကြဲပြီး၍ တည်နေသူ ဖြစ်သည် မဟုတ်လော
+   visinitvā[1 5-268]=
+P: Arahā apacinatīti
+M: ဤသို့ မဆိုသင့်ပါ
+   apacinati[1 5-268]=
+P: Nanu arahā nevācinati na apacinati apacinitvā ṭhitoti
+M: ရဟန္တာသည် မစုဆောင်း၊ မဖြိုဖျက်၊ ဖြိုဖျက်ပြီး၍ တည်နေသူ ဖြစ်သည် မဟုတ်လော
+   apacinitvā[1 5-268]=

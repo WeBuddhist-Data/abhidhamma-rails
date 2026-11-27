@@ -1,0 +1,37 @@
+== 0. protected inputs (termbase, zero-shot chapters + merged file, keyword maps, generators, my5_formulas, terms_my5, regen_zeroshot, pi-1 … pi-4 final rails + termbases) unchanged
+protected md5: unchanged (137 files)
+termbase sha256: recorded lock
+== 1. reproduction test (build without the layer = the zero-shot), build (zero-shot generators + rails layer), residual rules
+plain build = zero-shot: 32 of 32 files identical
+layer: 152 source patches
+198 rule entries; 363 replacements
+rails folder: 32 files
+== 2. check_chapter_ids / check_text_pe (pi-6-mr wrapper, copies in rails/chk-pe) / pi-4-mr/check_marks.py
+ids+text+marks over 32 files: OK
+typography (no «?», no Zawgyi range, NFC): OK
+== 3. termbase adherence: zero-shot input, rails, classification
+zero-shot: checked 23680; misses 928 (input file reproduced)
+rails: checked 23680; misses 275
+928 zero-shot misses + 2 rails-introduced: ARTEFACT 239, GENUINE 655, INFLECTION 36
+unverified rows (GENUINE left or unclassified): 0
+misses left: ARTEFACT 239, INFLECTION 36; GENUINE fixed 655; INFLECTION/ARTEFACT rows no longer listed 0; GENUINE or unknown left 0
+== 4. cross-chapter alignment
+align: repeated Pāli sentences: 690; with differing Burmese: 1; lines compared whole: 475
+hidden: uneven lines 475 | unmatched repeated sentences: 0
+align_check: 1 differing, 1 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+== 5. pi-1 … pi-4 identity (every pi-5 sentence that occurs in pi-1 … pi-4 keeps their final rails Burmese)
+pi-1 identity: 2 / 2 identical, 0 explained; differing: 0
+pi-2 identity: 4 / 4 identical, 0 explained; differing: 0
+pi-3 identity: 2 / 21 identical, 19 explained; differing: 0
+pi-4 identity: 5 / 7 identical, 2 explained; differing: 0
+== 6. per-line scan of the rails families
+line scan: 0 lines left (zero-shot 265 flags; 31 of 31 families with Pāli hits)
+== 7. lines changed against the zero-shot
+total	597 of 3460 lines changed
+== 8. rerun stability (outputs against the previous run)
+rerun: outputs differ from the previous run:
+< bbe25001651d4dcdfc9b534f1fc4bf0c 0-INBOX/temp/pipeline/pi-5-my/rails/coord-run1.txt
+> 8207e12c4d49ceba260d1e2d0a1f0f1f 0-INBOX/temp/pipeline/pi-5-my/rails/coord-run1.txt
+> bbe25001651d4dcdfc9b534f1fc4bf0c 0-INBOX/temp/pipeline/pi-5-my/rails/coord-run2.txt
+termbase sha256 ee9018fbfe85 (locked, read only; recorded ee9018fbfe85)
+ALL CHECKS PASSED

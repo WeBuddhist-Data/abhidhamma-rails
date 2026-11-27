@@ -1,0 +1,489 @@
+    ('ñāṇa', [
+        # p4: ['ဉာဏ်']
+        ('knowledge, in ñāṇasampayutta (compound member)', ['ဉာဏ်']),
+        # UNASSIGNED 'သိခြင်း' 4[5-10-2-1-0,5-349,5-549,5-550]
+        # mr-5: ['knowing, insight']
+    ]),
+    ('khandha', [
+        # p4: ['အစုအဝေး']
+        ('aggregate, group of phenomena, in khandhadhātuāyatanā (compound member)', ['အစုအဝေး']),
+        # p2: ['ပင်စည်']
+        ('stem, trunk of a plant, in khandharaso (compound member)', ['ပင်စည်']),
+        # mr-5: ['group of mental and material factors', 'trunk or stalk of a plant, in khandharasa']
+    ]),
+    ('para', [
+        # p4: ['သူတစ်ပါး', 'ပရ']
+        ('others, another person (compound member, as in paralābha and paranimmita)', ['သူတစ်ပါး', 'ပရ']),
+        # UNASSIGNED 'အခြားသူ' 3[5-194,5-196,5-432]
+        # UNASSIGNED 'ကျော်' 1[5-402]
+        # UNASSIGNED 'အခြား' 1[5-875]
+        # mr-5: ['another, other people, as in paracitta (hostile others in parasenā not rendered separately)']
+    ]),
+    ('dukkha', [
+        # p4: ['နာကျင်မှု', 'နာကျင်သော']
+        ('pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa)', ['နာကျင်မှု', 'နာကျင်သော']),
+        # p4: ['ဒုက္ခ']
+        ('suffering, the whole of what is unsatisfactory, in dukkhamūla and dukkhakkhandha (compound member)', ['ဒုက္ခ']),
+        # p2: ['ခက်ခဲသော']
+        ("painful, hard, as in dukkhapaṭipadā 'painful practice' (compound member)", []),
+        # p2: ['ဆင်းရဲ']
+        ("misery, affliction in the everyday sense, in dukkhadhammena phuṭṭhassa 'touched by some painful thing' and sukhadukkha 'pleasure and pain' of the views (compound member)", ['ဆင်းရဲ']),
+        # mr-5: ['unsatisfactoriness, suffering in general', 'painful, of feeling or bodily pain']
+    ]),
+    ('citta', [
+        # p4: ['စိတ်']
+        ('mind, consciousness (stem and compound member)', ['စိတ်']),
+        # UNASSIGNED 'အရောင်စုံ' 1[5-387]
+        # UNASSIGNED 'စိတ္တ' 1[5-911]
+        # mr-5: ['mind, consciousness', 'variegated, colourful (in cittavaṇḍa-)']
+    ]),
+    ('Sabbattha', [
+        # p2: ['ဘုံ အားလုံး']
+        ("everywhere, in sabbatthagāminī 'leading to all destinations' (compound member)", ['ဘုံ အားလုံး']),
+        # UNASSIGNED 'နေရာတိုင်း' 6[5-11,5-14,5-239,5-282…]
+        # mr-5: ['in every place (adverb, positive and negative)', 'in all editions, in variant-reading notes', 'leading everywhere, in sabbatthagāminī']
+    ]),
+    ('Sabbadā', [
+        # UNASSIGNED 'အချိန်တိုင်း' 4[5-12,5-239,5-282,5-326]
+        # UNASSIGNED 'အမြဲ' 1[5-868]
+        # mr-5: ['at all times (adverb)']
+    ]),
+    ('paṭicca', [
+        # p3: ['အကြောင်းတို့ကို မှီ၍']
+        ('dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition', ['အကြောင်းတို့ကို မှီ၍']),
+        # UNASSIGNED 'မှီ၍' 10[5-268,5-463,5-465,5-467…]
+        # mr-5: ['dependent, first member of paṭiccasamuppāda', 'depending on, conditioned by (absolutive, as in paṭicca uppajjati)']
+    ]),
+    ('samāpatti', [
+        # p2: ['ဈာန် ဝင်စားရာ']
+        ('meditative attainments, absorptions entered (compound member)', []),
+        # UNASSIGNED 'သမာပတ်' 10[5-14-5-1-0,5-457,5-459,5-470…]
+        # UNASSIGNED 'ဈာန် ဝင်စားခြင်း' 7[5-728,5-729,5-730,5-731…]
+        # mr-5: ['meditative attainment']
+    ]),
+    ('dhātu', [
+        # p4: ['ဓာတ်']
+        ('element, irreducible constituent (stem and compound final)', ['ဓာတ်']),
+        # p2: ['ဘုံ']
+        ('realm, plane of existence, in kāmadhātu, rūpadhātu and arūpadhātu (compound final)', ['ဘုံ']),
+        # mr-5: ['primary constituent, one of the elements', 'sphere of existence, as in rūpadhātu']
+    ]),
+    ('sattama', [
+        # p3: ['သတ္တမ']
+        ('ordinal 7th, in method headings', ['သတ္တမ']),
+        # UNASSIGNED 'ခုနစ်ကြိမ်မြောက်' 2[5-20-10-1-0,5-653]
+        # mr-5: ['ordinal (compound member)']
+    ]),
+    ('rūpadhātu', [
+        # p3: ['အဆင်းအရောင် ဓာတ်']
+        ('the visible-form element, the object of the eye (nominative sg.)', ['အဆင်းအရောင် ဓာတ်']),
+        # p2: ['သိမ်မွေ့သော ရုပ်ဘုံ']
+        ('the fine-material realm of existence, among the planes (nominative sg.)', ['သိမ်မွေ့သော ရုပ်ဘုံ']),
+        # UNASSIGNED 'သိမ်မွေ့သော ရုပ် ဓာတ်' 2[5-771,5-772]
+        # mr-5: ['the fine-material sphere of existence', 'the sight-object element among the eighteen']
+    ]),
+    ('dhātuyā', [
+        # p3: ['ဓာတ်']
+        ('of or in the element, irreducible constituent, as in manodhātuyā (genitive/locative sg.)', ['ဓာတ်']),
+        # p2: ['ဘုံ']
+        ('in the realm, the plane of existence, as in kāmadhātuyā (locative)', ['ဘုံ']),
+        # mr-5: ['in the sphere of existence (locative)', 'one of the eighteen elements']
+    ]),
+    ('rūpaṃ', [
+        # p4: ['အဆင်းအရောင်']
+        ('visible form, the object of the eye, in the restraint passage (accusative sg.)', ['အဆင်းအရောင်']),
+        # p3: ['ရုပ်']
+        ('matter, material form (nominative/accusative sg.), also the material side of nāmarūpa', ['ရုပ်']),
+        # p2: ['သဘော ရှိသော', 'သဘော']
+        ("of such a nature, in piyarūpaṃ sātarūpaṃ 'what is dear and pleasing' (compound final)", []),
+        # mr-5: ['matter, materiality (nominative or accusative)', 'the visible object, sight-object']
+    ]),
+    ('Aññaṃ', [
+        # p2: ['တခြား']
+        ("other, different, in 'the soul is one thing, the body another' (neuter sg.)", []),
+        # UNASSIGNED 'တခြားစီ' 29[5-17,5-18,5-21,5-22…]
+        # UNASSIGNED 'အခြား' 1[5-565]
+        # mr-5: ["other, different (neuter), in 'one thing… another'"]
+    ]),
+    ('ñāṇaṃ', [
+        # p4: ['သိခြင်း']
+        ("knowledge, knowing, also in aññāṇaṃ 'not knowing' (nominative sg.)", ['သိခြင်း']),
+        # UNASSIGNED 'ဉာဏ်' 60[5-17-5-1-0,5-19-3-1-0,5-232,5-290…]
+        # mr-5: ['knowing, insight (nominative/accusative)']
+    ]),
+    ('maggo', [
+        # p4: ['လမ်း']
+        ("way, road, in kummaggo 'wrong way' (compound final, nominative sg.), also a road to travel, a journey, in the bases of laziness", ['လမ်း']),
+        # p3: ['မဂ်']
+        ('the path, as a set of factors (nominative sg.)', ['မဂ်']),
+        # p1: ['လမ်း']
+        ("way, road, in kummaggo 'wrong way' (compound final, nominative sg.)", []),
+        # mr-5: ['the supramundane way (nominative)']
+    ]),
+    ('magga', [
+        # p4: ['မဂ်']
+        ('the path (stem and heading)', ['မဂ်']),
+        # p2: ['လမ်း']
+        ("way, road, in kummagga 'wrong way' (compound member)", ['လမ်း']),
+        # mr-5: ['the spiritual way (compound member)', "physical road, in maggāmagga 'right road and wrong road'"]
+    ]),
+    ('samaṅgissa', [
+        # p2: ['ပြည့်စုံသော']
+        ('of one endowed with, possessing (genitive sg.)', ['ပြည့်စုံသော']),
+        # UNASSIGNED 'ရရှိထားသော' 2[5-419,5-420]
+        # mr-5: ['of one endowed with (genitive)']
+    ]),
+    ('hetu', [
+        # p4: ['အကြောင်း']
+        ("cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member), also 'on account of', in attahetu and parahetu (compound final)", ['အကြောင်း']),
+        # p4: ['အလို့ငှာ']
+        ("for the purpose of, in paṭicchādanahetu 'in order to conceal' (compound final)", []),
+        # p2: ['အမြစ်']
+        ('roots, the wholesome and unwholesome root conditions (stem and heading)', ['အမြစ်']),
+        # p2: ['အကြောင်းပြုခြင်း', 'အကြောင်းရင်း']
+        ('cause, condition, in Hetucatukka of dependent origination and Hetuvāra of the analytical knowledges (heading member)', []),
+        # mr-5: ['root condition, wholesome or unwholesome root', "cause or reason, as in 'for the sake of' and 'caused by'"]
+    ]),
+    ('dukkhaṃ', [
+        # p4: ['ဒုက္ခ']
+        ('suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.)', ['ဒုက္ခ']),
+        # p3: ['ကိုယ်ဆင်းရဲခြင်း']
+        ('pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ, the same meaning as bodily pain in the grief series soko paridevo dukkhaṃ domanassaṃ', []),
+        # p2: ['နာကျင်မှု', 'နာကျင်သော']
+        ('pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ', ['နာကျင်သော']),
+        # p1: ['နာကျင်မှု']
+        ('pain, suffering (nominative/accusative sg.)', []),
+        # UNASSIGNED 'ဆင်းရဲ' 21[5-157,5-158,5-160,5-161…]
+        # mr-5: ['unsatisfactoriness, suffering, also felt pain (nominative or accusative)']
+    ]),
+    ('dhammaṭṭhitatā', [
+        # UNASSIGNED 'သဘောတရားတို့၏ တည်နေခြင်း သဘော' 3[5-19-7-1-0,5-627,5-629]
+        # UNASSIGNED 'တရား၏ တည်ရှိခြင်း' 2[5-450,5-451]
+        # mr-5: ['fixity of the order of phenomena']
+    ]),
+    ('mano', [
+        # p4: ['မနော']
+        ("mind, the thinking faculty, also adjectival 'mental' in compounds", ['မနော']),
+        # UNASSIGNED 'စိတ်' 1[5-742]
+        # mr-5: ['mind, the thinking faculty']
+    ]),
+    ('eka', [
+        # p4: ['တစ်စေ့']
+        ('one, as in the one-item section label Ekamūlaka, here one seed, one more birth, in ekabījī (compound member)', ['တစ်စေ့']),
+        # p3: ['တစ်မျိုးတွဲ']
+        ('one, as in the one-item section label Ekamūlaka', []),
+        # UNASSIGNED 'တစ်ပါး' 6[5-26-5-1-0,5-314,5-901,5-908…]
+        # UNASSIGNED 'တစ်' 2[5-626,5-784]
+        # UNASSIGNED 'တစ်ခု' 2[5-906,5-907]
+        # UNASSIGNED 'တူညီသော' 1[5-31-1-0]
+        # mr-5: ['one in number, single, only one', 'one and the same, shared, in ekādhippāya']
+    ]),
+    ('du', [
+        # UNASSIGNED 'ဆိုးသော' 5[5-20-9-1-0,5-650,5-651,5-652…]
+        # UNASSIGNED 'နံစော်သော' 1[5-522]
+        # mr-5: ['ill-, bad- (prefix)']
+    ]),
+    ('aññā', [
+        # p4: ['အပြည့်အဝ သိမြင်ခြင်း']
+        ('final knowledge, the knowing of one on the higher paths (compound member)', ['အပြည့်အဝ သိမြင်ခြင်း']),
+        # UNASSIGNED 'သိ၍' 5[5-261,5-262,5-277,5-311…]
+        # UNASSIGNED 'တခြားစီ' 1[5-221]
+        # UNASSIGNED 'ရဟန္တာ ဖိုလ်' 1[5-346]
+        # mr-5: ['final gnosis of the arahant', "other (feminine pronoun), in 'one thing… another'"]
+    ]),
+    ('sukha', [
+        # p4: ['သာယာမှု', 'သာယာသော']
+        ('pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa)', ['သာယာမှု', 'သာယာသော']),
+        # p2: ['လွယ်ကူသော']
+        ("easy, as in sukhapaṭipadā 'easy practice' (compound member)", []),
+        # p2: ['ချမ်းသာသော', 'ချမ်းသာ']
+        ("happiness, well-being in the everyday sense, in sukhadukkha 'pleasure and pain' of the views and the perversion 'dukkhe sukhan'ti' (compound member and quoted word)", ['ချမ်းသာ']),
+        # UNASSIGNED 'သုခ' 4[5-24-3-1-0,5-748,5-775,5-801]
+        # mr-5: ['pleasure, happiness (noun)', 'pleasant, bringing pleasure (adjective, of results)']
+    ]),
+    ('rāga', [
+        # p4: ['ရာဂ']
+        ('lust, passion (compound member)', ['ရာဂ']),
+        # UNASSIGNED 'တပ်မက်မှု' 1[5-21-8-1-0]
+        # mr-5: ['lust, passion']
+    ]),
+    ('taṇhā', [
+        # p3: ['တပ်မက်မှု']
+        ('craving, thirst (nominative sg. and compound final)', ['တပ်မက်မှု']),
+        # UNASSIGNED 'တဏှာ' 1[5-75]
+        # mr-5: ['thirst, longing, craving', 'in the cited sutta title Mahātaṇhāsaṅkhaya']
+    ]),
+    ('paccaya', [
+        # p2: ['အထောက်အပံ့', 'ပစ္စည်း']
+        ('condition, cause, requisite (compound member)', []),
+        # UNASSIGNED 'အကြောင်း' 4[5-22-3-1-0,5-23-2-1-0,5-30-7-1-0,5-697]
+        # UNASSIGNED 'မှီသော' 1[5-232]
+        # mr-5: ['condition, support, reliance']
+    ]),
+    ('añño', [
+        # UNASSIGNED 'တခြားစီ' 10[5-67,5-68,5-112,5-113…]
+        # UNASSIGNED 'အခြား' 4[5-89,5-90,5-488,5-801]
+        # UNASSIGNED 'တခြား' 3[5-22-5-1-0,5-78,5-80]
+        # mr-5: ['another, other (masculine pronoun)']
+    ]),
+    ('paccayatā', [
+        # p2: ['ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ']
+        ('conditionality, in idappaccayatā (compound final)', ['ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ']),
+        # UNASSIGNED 'အကြောင်းဖြစ်ပုံ' 4[5-23-1-0,5-711,5-717,5-742]
+        # UNASSIGNED 'အကြောင်းဖြစ်ခြင်း' 4[5-903,5-904,5-905,5-907]
+        # mr-5: ['being a condition']
+    ]),
+    ('satta', [
+        # UNASSIGNED 'သတ္တဝါ' 9[5-384,5-455,5-506,5-507…]
+        # UNASSIGNED 'အသညသတ်' 3[5-23-10-1-0,5-735,5-736]
+        # mr-5: ['living creatures']
+    ]),
+    ('maggaṃ', [
+        # p4: ['မဂ်']
+        ('the supramundane path, as a set of factors (accusative sg.)', ['မဂ်']),
+        # p2: ['လမ်း']
+        ("way, the means to rebirth, in rūpūpapattiyā maggaṃ 'the way to rebirth in the fine-material sphere' (accusative sg.)", ['လမ်း']),
+        # mr-5: ['the way (accusative)']
+    ]),
+    ('bhuñjati', [
+        # UNASSIGNED 'စားသည်' 5[5-25-8-1-0,5-692,5-795,5-796…]
+        # UNASSIGNED 'ဘုဉ်းပေးတော်မူသည်' 1[5-809]
+        # mr-5: ['consumes food (3rd sg.)']
+    ]),
+    ('phalaṃ', [
+        # p4: ['အသီးအပွင့်', 'အကျိုး']
+        ('fruit, the result of good and bad deeds, in the wrong-view and right-view formulas (nominative sg.)', ['အသီးအပွင့်', 'အကျိုး']),
+        # p1: ['ဖိုလ်']
+        ('fruition attainment, the fruit of the path, in arahattaphalaṃ (nominative sg.)', ['ဖိုလ်']),
+        # mr-5: ['result, of the path or of a gift (nominative/accusative)']
+    ]),
+    ('mahapphalaṃ', [
+        # UNASSIGNED 'အကျိုး ကြီးမားသော' 7[5-25-9-1-0,5-25-10-1-0,5-498,5-797…]
+        # UNASSIGNED 'ကြီးမားသော အကျိုး' 1[5-321]
+        # mr-5: ['yielding much result']
+    ]),
+    ('jāti', [
+        # p4: ['မွေးဖွားခြင်း']
+        ('birth, being born (nominative sg.)', ['မွေးဖွားခြင်း']),
+        # p2: ['ဇာတိ']
+        ("birth as social standing, descent, in jātimada 'pride of birth' (compound member)", []),
+        # UNASSIGNED 'ဖြစ်ခြင်း' 3[5-622,5-624,5-719]
+        # UNASSIGNED 'မျိုး' 1[5-26-4-1-0]
+        # UNASSIGNED 'ပဋိသန္ဓေ နေခြင်း' 1[5-333]
+        # UNASSIGNED 'ဘဝ' 1[5-401]
+        # mr-5: ['being born', 'kind or sort, in gandhajāti']
+    ]),
+    ('accanta', [
+        # UNASSIGNED 'အပြီးအပိုင်' 8[5-27-7-1-0,5-847,5-848,5-849…]
+        # UNASSIGNED 'အဆုံးစွန်' 1[5-338]
+        # UNASSIGNED 'လုံးဝ' 1[5-353]
+        # mr-5: ['completely, to the very end']
+    ]),
+    ('āneñja', [
+        # p4: ['မတုန်လှုပ်ခြင်း']
+        ('imperturbable (compound member)', ['မတုန်လှုပ်ခြင်း']),
+        # UNASSIGNED 'မတုန်မလှုပ်သော' 2[5-30-3-1-0,5-894]
+        # UNASSIGNED 'မတုန်လှုပ်သော' 2[5-666,5-777]
+        # UNASSIGNED 'အာနေဉ္ဇသပ္ပာယ' 1[5-834]
+        # mr-5: ['unshakable, imperturbable state', 'in the cited sutta title Āneñjasappāya']
+    ]),
+    ('adhippāya', [
+        # UNASSIGNED 'အလိုအတိုင်း' 3[5-883,5-884,5-891]
+        # UNASSIGNED 'ရည်ရွယ်ချက်' 1[5-31-1-0]
+        # mr-5: ['purpose, will, as in adhippāya-iddhi']
+    ]),
+    ('issariya', [
+        # UNASSIGNED 'မိမိ၏ အစွမ်း' 7[5-31-3-1-0,5-910,5-911,5-912…]
+        # UNASSIGNED 'အစိုးရခြင်း' 4[5-338,5-494,5-777,5-894]
+        # mr-5: ['lordship, dominion']
+    ]),
+    ('Saṃkhittaṃ', [
+        # p2: ['တွန့်ဆုတ်နေသော']
+        ('contracted, shrunken, of a sluggish mind (neuter sg. participle)', ['တွန့်ဆုတ်နေသော']),
+        # UNASSIGNED 'အကျဉ်းချုပ်' 8[5-53,5-54,5-60,5-68…]
+        # mr-5: ['shortened text, in editorial notes', 'narrowed, said of a shrunken mind']
+    ]),
+    ('jāto', [
+        # p2: ['မွေးဖွားသော']
+        ('born, come into being (nominative sg. participle)', []),
+        # UNASSIGNED 'ပေါ်ပေါက်သော' 6[5-703,5-704,5-738,5-739…]
+        # UNASSIGNED 'မွေးဖွားလာသော' 2[5-65,5-66]
+        # UNASSIGNED 'ဖွားမြင်တော်မူသော' 2[5-270,5-803]
+        # UNASSIGNED 'ဖွားမြင်တော်မူခဲ့သော' 1[5-802]
+        # mr-5: ['come into being, born or arisen (participle)']
+    ]),
+    ('jāte', [
+        # UNASSIGNED 'တစ်မျိုးတည်းမှ ဖြစ်သော' 2[5-67,5-68]
+        # UNASSIGNED 'မျိုး' 2[5-809,5-827]
+        # mr-5: ['of a kind or class (locative), incl. kinds of scent']
+    ]),
+    ('sattānaṃ', [
+        # p4: ['သတ္တဝါ']
+        ('of living beings (genitive pl.)', ['သတ္တဝါ']),
+        # UNASSIGNED 'အသညသတ်' 1[5-543]
+        # mr-5: ['of living creatures (genitive pl.)']
+    ]),
+    ('hoti', [
+        # p4: ['ဖြစ်သည်']
+        ('is, comes to be, becomes (3rd sg. present)', ['ဖြစ်သည်']),
+        # p2: ['ရှိသည်']
+        ('exists, continues to be, in the speculative views (3rd sg. present)', ['ရှိသည်']),
+        # mr-5: ['becomes, comes to be, remains, turns out (copula)', 'is, exists']
+    ]),
+    ('bhijjati', [
+        # UNASSIGNED 'ပျက်သည်' 2[5-544,5-740]
+        # UNASSIGNED 'ပြိုကွဲသည်' 1[5-94]
+        # mr-5: ['breaks up (3rd sg.)']
+    ]),
+    ('lohitaṃ', [
+        # p2: ['သွေး']
+        ('blood, the fluid in the veins (nominative sg.)', ['သွေး']),
+        # UNASSIGNED 'အနီ' 1[5-97]
+        # mr-5: ['the fluid in the veins', 'colour of blood']
+    ]),
+    ('phalā', [
+        # UNASSIGNED 'ဖိုလ်' 20[5-240,5-242,5-243,5-244…]
+        # UNASSIGNED 'အသီးအပွင့်' 2[5-98,5-99]
+        # mr-5: ['results (pl.)']
+    ]),
+    ('samādhiṃ', [
+        # p4: ['သမာဓိ']
+        ('concentration (accusative sg.)', ['သမာဓိ']),
+        # UNASSIGNED 'တည်ကြည်ခြင်း' 1[5-486]
+        # mr-5: ['collectedness (accusative)']
+    ]),
+    ('sammā', [
+        # p4: ['မှန်ကန်သော', 'မှန်ကန်စွာ']
+        ('right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā)', ['မှန်ကန်သော', 'မှန်ကန်စွာ']),
+        # p4: ['အပြည့်အဝ']
+        ('perfectly, in sammāsambuddha (title line)', ['အပြည့်အဝ']),
+        # p2: ['ကောင်းစွာ']
+        ("well, properly, thoroughly (adverb), in 'sammā pariṇāmaṃ gacchati' and 'sammā samucchinno'", ['ကောင်းစွာ']),
+        # mr-5: ['correct, correctly', 'perfectly, thoroughly, in sammāsambuddha and similar']
+    ]),
+    ('kamma', [
+        # p4: ['ကံ']
+        ('deeds, as compound member', ['ကံ']),
+        # UNASSIGNED 'အလုပ်' 1[5-267]
+        # mr-5: ['deeds, kamma, also busy activity in kammārāmatā']
+    ]),
+    ('upacchedo', [
+        # p2: ['ပြတ်စဲခြင်း']
+        ('cutting off, severance (nominative sg.)', []),
+        # UNASSIGNED 'ပြတ်ခြင်း' 10[5-125,5-138,5-145,5-152…]
+        # UNASSIGNED 'ဖြတ်တောက်ခြင်း' 1[5-501]
+        # mr-5: ['severing']
+    ]),
+    ('vaṭṭa', [
+        # UNASSIGNED 'သံသရာ စက်ဝန်း' 10[5-125,5-138,5-145,5-152…]
+        # UNASSIGNED 'ဝဋ်' 1[5-501]
+        # mr-5: ['the round of rebirths']
+    ]),
+    ('sukhaṃ', [
+        # p4: ['သာယာမှု']
+        ('pleasure, happiness, or pleasant (neuter sg.)', []),
+        # p2: ['ချမ်းသာ']
+        ('comfort, ease, in seyyasukhaṃ, passasukhaṃ and middhasukhaṃ (compound final)', ['ချမ်းသာ']),
+        # UNASSIGNED 'သာယာသော' 6[5-218,5-220,5-221,5-234…]
+        # UNASSIGNED 'သုခ' 4[5-743,5-745,5-747,5-748]
+        # mr-5: ['bliss, pleasure, pleasant feeling (neuter)']
+    ]),
+    ('sayaṃ', [
+        # p4: ['ကိုယ်တိုင်']
+        ('by oneself, personally (adverb)', ['ကိုယ်တိုင်']),
+        # UNASSIGNED 'မိမိ' 4[5-171,5-175,5-177,5-179]
+        # mr-5: ['by oneself (adverb)']
+    ]),
+    ('sukhadukkhaṃ', [
+        # UNASSIGNED 'ချမ်းသာနှင့် ဆင်းရဲ' 5[5-171,5-173,5-175,5-177…]
+        # UNASSIGNED 'ချမ်းသာ ဆင်းရဲ' 2[5-488,5-539]
+        # UNASSIGNED 'သာယာမှု နာကျင်မှု' 1[5-742]
+        # UNASSIGNED 'သုခ ဒုက္ခ' 1[5-801]
+        # mr-5: ['pleasure-and-pain']
+    ]),
+    ('mātā', [
+        # p4: ['အမိ']
+        ("mother, in 'there is no mother' (nominative sg.)", ['အမိ']),
+        # UNASSIGNED 'မိဘ' 1[5-491]
+        # mr-5: ['female parent']
+    ]),
+    ('yugā', [
+        # UNASSIGNED 'အစုံ' 4[5-791,5-793,5-797,5-800]
+        # UNASSIGNED 'အတွဲ' 2[5-206,5-207]
+        # mr-5: ['couples (nominative pl.)']
+    ]),
+    ('pātubhavanti', [
+        # p2: ['ထင်ရှားလာသည်']
+        ('appear, become manifest (3rd pl. present)', []),
+        # UNASSIGNED 'ပေါ်ပေါက်သည်' 2[5-207,5-401]
+        # UNASSIGNED 'ထင်ရှား ပေါ်လာသည်' 1[5-321]
+        # mr-5: ['become manifest (3rd pl.)']
+    ]),
+    ('pātubhāvā', [
+        # UNASSIGNED 'ပွင့်ပေါ်ခြင်း' 1[5-207]
+        # UNASSIGNED 'ထင်ရှား လာခြင်း' 1[5-303]
+        # mr-5: ['from the manifestation (ablative)']
+    ]),
+    ('dhammānaṃ', [
+        # p2: ['သဘောတရား']
+        ('of phenomena, states (genitive pl.)', ['သဘောတရား']),
+        # UNASSIGNED 'တရား' 1[5-281]
+        # mr-5: ['of phenomena (genitive pl.)']
+    ]),
+    ('pajānāti', [
+        # p4: ['ကွဲပြားစွာ သိသည်']
+        ('knows clearly, understands (3rd sg. present)', ['ကွဲပြားစွာ သိသည်']),
+        # UNASSIGNED 'သိသည်' 2[5-671,5-749]
+        # mr-5: ['knows clearly (3rd sg.)']
+    ]),
+    ('dhammesu', [
+        # p4: ['တရား']
+        ("teachings, truths, in pubbe ananussutesu dhammesu 'in things not heard before' (locative pl.)", ['တရား']),
+        # p2: ['သဘောတရား']
+        ('among phenomena, states, also mind-objects, in dhammesu dhammānupassī (locative pl.)', ['သဘောတရား']),
+        # mr-5: ['among phenomena (locative pl.)', 'in mind-objects, the fourth foundation of awareness']
+    ]),
+    ('atta', [
+        # p4: ['မိမိ']
+        ("oneself, one's own (reflexive compound member), as in attantapo and attahita", []),
+        # p2: ['အတ္တ']
+        ('self, soul, in attavāda (compound member)', ['အတ္တ']),
+        # UNASSIGNED 'ကိုယ်' 16[5-381,5-382,5-384,5-385…]
+        # mr-5: ["one's own being, individual existence, in attabhāva", 'the self, as a speculative entity']
+    ]),
+    ('saha', [
+        # p4: ['လျော်စွာ']
+        ("in accordance with, in sahadhammika 'reasonable, in accordance with the Dhamma' (compound member)", []),
+        # p2: ['အတူ']
+        ('together with, at the same time as (compound member and preposition)', ['အတူ']),
+        # UNASSIGNED 'တစ်ပြိုင်နက်' 12[5-278,5-317,5-321,5-325…]
+        # mr-5: ['together with, at the same time as']
+    ]),
+    ('bahiddhā', [
+        # p4: ['အပြင်ပိုင်း']
+        ('external, of the external fetters, in bahiddhāsaṃyojana (compound member)', []),
+        # p3: ['မိမိ၏ ပြင်ပ၌']
+        ("external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb)", ['မိမိ၏ ပြင်ပ၌']),
+        # p2: ['အပြင်ဘက်']
+        ("outside, in 'ito bahiddhā' 'outside this teaching' (adverb)", []),
+        # p1: ['ပြင်ပ၌']
+        ('externally, of forms seen outside oneself, in the bases of mastery (adverb)', []),
+        # UNASSIGNED 'အပြင်' 1[5-228]
+        # mr-5: ['outside (adverb)']
+    ]),
+    ('uppajjati', [
+        # p4: ['ပွင့်ထွန်းတော်မူသည်']
+        ('arises, comes into being (3rd sg. present)', ['ပွင့်ထွန်းတော်မူသည်']),
+        # UNASSIGNED 'ဖြစ်ပေါ်သည်' 35[5-232,5-234,5-268,5-335…]
+        # UNASSIGNED 'ပေါ်ပေါက်လာသည်' 1[5-230]
+        # UNASSIGNED 'ပေါ်ပေါက်သည်' 1[5-270]
+        # mr-5: ['comes into being (3rd sg.)']
+    ]),
+    ('sukhāya', [
+        # p4: ['ချမ်းသာခြင်း']
+        ('for the happiness, the well-being of, in dīgharattaṃ hitāya sukhāya (dative sg.)', []),
+        # p3: ['သာယာသော']
+        ('pleasant, of feeling (feminine genitive sg.)', ['သာယာသော']),
+        # UNASSIGNED 'ချမ်းသာ' 1[5-230]
+        # mr-5: ['for well-being (dative), or pleasant (feminine)']
+    ]),

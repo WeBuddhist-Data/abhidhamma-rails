@@ -1,0 +1,47 @@
+    # batch 1
+    'ñāṇa',          # «သိခြင်း» of aññāṇa (positive part) = pi-4 knowledge «ဉာဏ်»
+    'khandha',       # pi-2 stem «ပင်စည်» added after pi-4 aggregate (binding pi-2 sense)
+    'dukkha',        # pi-2 misery «ဆင်းရဲ» added after the pi-4 senses (binding pi-2 sense)
+    'Sabbadā',       # «အချိန်တိုင်း» / «အမြဲ»: at all times, synonyms
+    'samāpatti',     # «သမာပတ်» / «ဈာန် ဝင်စားခြင်း» = pi-2 «ဈာန် ဝင်စားရာ»: meditative attainment
+    'dhātu',         # pi-2 realm «ဘုံ» added after pi-4 element (binding pi-2 sense)
+    'sattama',       # «ခုနစ်ကြိမ်မြောက်» = pi-3 «သတ္တမ»: the ordinal seventh
+    'dhātuyā',       # pi-2 realm «ဘုံ» / pi-3 element «ဓာတ်» (binding senses)
+    'rūpaṃ',         # pi-4 visible form / pi-3 matter (binding senses)
+    'Aññaṃ',         # «တခြားစီ» / «အခြား» = pi-2 «တခြား» (map-harmonise §A 5)
+    'ñāṇaṃ',         # pi-4 «သိခြင်း» / pi-2 «ဉာဏ်» under the same tag
+    'maggo',         # pi-4 way «လမ်း» / pi-3 path «မဂ်» (binding senses)
+    'magga',         # pi-4 path «မဂ်» / pi-2 way «လမ်း» (binding senses)
+    'samaṅgissa',    # «ရရှိထားသော» = «ပြည့်စုံသော»: possessing
+    'hetu',          # pi-2 roots «အမြစ်» added after pi-4 cause (binding pi-2 sense)
+    'dhammaṭṭhitatā',   # «သဘောတရားတို့၏ တည်နေခြင်း သဘော» / «တရား၏ တည်ရှိခြင်း»: one fixity, the text's two wordings
+    'mano',          # «စိတ်» of manosaṅkhāra (^5-742) = mind
+    'du',            # «ဆိုးသော» (duggati) / «နံစော်သော» (duggandha): the prefix 'bad, ill-'
+    'rāga',          # «တပ်မက်မှု» (asātarāga ^5-21-8-1-0) = «ရာဂ» (map-harmonise §A 3)
+    'taṇhā',         # «တဏှာ» (^5-75) = «တပ်မက်မှု» (map-harmonise §A 3)
+    'añño',          # «တခြားစီ» / «အခြား» / «တခြား»: other (map-harmonise §A 5)
+    'satta',         # «အသညသတ်» of asaññasatta: the beings, one Burmese word for the compound (map-harmonise §F 10)
+    'maggaṃ',        # pi-4 path «မဂ်» / pi-2 way «လမ်း» (binding senses)
+    'bhuñjati',      # «ဘုဉ်းပေးတော်မူသည်» = «စားသည်», the honorific of the Buddha's eating
+    'phalaṃ',        # pi-4 fruit / pi-2 fruition «ဖိုလ်» (binding senses)
+    'mahapphalaṃ',   # «အကျိုး ကြီးမားသော» / «ကြီးမားသော အကျိုး»: one phrase, two orders
+    'accanta',       # «အပြီးအပိုင်» / «အဆုံးစွန်» / «လုံးဝ»: completely, to the very end
+    'adhippāya',     # «အလိုအတိုင်း» / «ရည်ရွယ်ချက်»: will, purpose
+    'issariya',      # «မိမိ၏ အစွမ်း» / «အစိုးရခြင်း»: lordship, power
+    'jāto',          # «ပေါ်ပေါက်သော» / «မွေးဖွားလာသော» / «ဖွားမြင်တော်မူ(ခဲ့)သော» = pi-2 born, come into being
+    'jāte',          # «တစ်မျိုးတည်းမှ ဖြစ်သော» / «မျိုး»: of a kind
+    'sattānaṃ',      # «အသညသတ်» of asaññasattānaṃ (as satta)
+    'hoti',          # pi-2 exists «ရှိသည်» added after pi-4 is (binding pi-2 sense)
+    'bhijjati',      # «ပျက်သည်» / «ပြိုကွဲသည်»: breaks up
+    'samādhiṃ',      # «တည်ကြည်ခြင်း» = «သမာဓိ»: concentration
+    'sammā',         # binding senses (pi-4 / pi-3)
+    'upacchedo',     # «ပြတ်ခြင်း» / «ဖြတ်တောက်ခြင်း» = pi-2 «ပြတ်စဲခြင်း»: severance
+    'vaṭṭa',         # «သံသရာ စက်ဝန်း» / «ဝဋ်»: the round
+    'sayaṃ',         # «မိမိ» (sayaṃkataṃ) = «ကိုယ်တိုင်»: by oneself
+    'mātā',          # «မိဘ» of mātāpitaro (^5-491): one Burmese word for both members = mother
+    'yugā',          # «အစုံ» / «အတွဲ»: pairs (map-harmonise §A 28)
+    'pātubhavanti',  # «ပေါ်ပေါက်သည်» / «ထင်ရှား ပေါ်လာသည်» = pi-2 «ထင်ရှားလာသည်»
+    'pātubhāvā',     # «ပွင့်ပေါ်ခြင်း» / «ထင်ရှား လာခြင်း»: manifestation
+    'pajānāti',      # «သိသည်» = «ကွဲပြားစွာ သိသည်»: knows
+    'dhammesu',      # pi-4 teachings / pi-2 phenomena (binding senses)
+    'uppajjati',     # «ပေါ်ပေါက်(လာ)သည်» = pi-2 «ဖြစ်ပေါ်သည်»: arises

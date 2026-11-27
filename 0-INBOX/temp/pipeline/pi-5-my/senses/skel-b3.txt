@@ -1,0 +1,370 @@
+    ('khaṇo', [
+        # UNASSIGNED 'ခဏ' 3[5-335,5-722,5-742]
+        # UNASSIGNED 'အခါ' 1[5-338]
+        # mr-5: ['an instant (nominative)']
+    ]),
+    ('soḷasa sahassāni', [
+        # UNASSIGNED 'ဆယ့်ခြောက် … နှစ်သောင်း' 1[5-335]
+        # UNASSIGNED 'နှစ်သောင်း … ဆယ့်ခြောက်' 1[5-337]
+        # mr-5: ['16,000 (numeral phrase)']
+    ]),
+    ('viloketi', [
+        # p4: ['ပတ်ဝန်းကျင်ကို ကြည့်သည်']
+        ('looks around, looks aside (3rd sg. present)', []),
+        # UNASSIGNED 'ဘေးသို့ ကြည့်သည်' 1[5-336]
+        # UNASSIGNED 'ကြည့်သည်' 1[5-401]
+        # UNASSIGNED 'ဝေ့ဝဲ ကြည့်သည်' 1[5-852]
+        # mr-5: ['looks around (3rd sg. present)']
+    ]),
+    ('phoṭṭhabbaṃ', [
+        # p4: ['အထိအတွေ့']
+        ('tangible object, what is touched (accusative sg.)', ['အထိအတွေ့']),
+        # UNASSIGNED 'အတွေ့အထိ' 1[5-397]
+        # mr-5: ['the tangible object (accusative)']
+    ]),
+    ('manāpā', [
+        # p4: ['စိတ်တွေ့သော']
+        ('pleasing, delightful to the mind (feminine sg.)', []),
+        # UNASSIGNED 'နှစ်သက်ဖွယ် ကောင်းသော' 2[5-512,5-514]
+        # UNASSIGNED 'စိတ်နှင့် တွေ့သော' 1[5-338]
+        # mr-5: ['pleasing to the mind (nominative pl.)']
+    ]),
+    ('amanāpa', [
+        # UNASSIGNED 'စိတ်နှင့် မတွေ့ဖွယ်' 1[5-338]
+        # UNASSIGNED 'မနှစ်သက်ဖွယ်' 1[5-903]
+        # mr-5: ['unpleasing (compound member)']
+    ]),
+    ('dānaṃ', [
+        # p2: ['ပေးလှူခြင်း', 'အလှူ']
+        ('giving, generosity, a gift (nominative/accusative sg.)', ['ပေးလှူခြင်း', 'အလှူ']),
+        # UNASSIGNED 'ဒါန' 3[5-658,5-779,5-784]
+        # mr-5: ['a gift offered (nominative or accusative)']
+    ]),
+    ('viveka', [
+        # p4: ['ကင်းဆိတ်ခြင်း']
+        ('seclusion, detachment (compound member)', ['ကင်းဆိတ်ခြင်း']),
+        # UNASSIGNED 'ဆိတ်ငြိမ်ခြင်း' 1[5-338]
+        # mr-5: ['detachment, solitude (compound member)']
+    ]),
+    ('gandhaṃ', [
+        # p4: ['အနံ့']
+        ('smell, odour as object (accusative sg.)', ['အနံ့']),
+        # UNASSIGNED 'နံ့သာ' 4[5-481,5-658,5-779,5-901]
+        # mr-5: ['odour, scent, also perfume offered as a gift (accusative)']
+    ]),
+    ('tena', [
+        # p2: ['ထို့ကြောင့်']
+        ('therefore, for that reason, in tena vuccati (instrumental pronoun)', ['ထို့ကြောင့်']),
+        # UNASSIGNED 'သို့ဖြစ်လျှင်' 1[5-367]
+        # mr-5: ["by that, in 'tena hi' 'in that case', cited as a variant reading (pronoun, instrumental)"]
+    ]),
+    ('sikkhā', [
+        # p4: ['သိက္ခာ']
+        ('training, the course of discipline (stem and nominative)', ['သိက္ခာ']),
+        # UNASSIGNED 'ကျင့်ခြင်း' 1[5-346]
+        # mr-5: ['the training rules (nominative)']
+    ]),
+    ('voharati', [
+        # UNASSIGNED 'ပြောဆို သုံးနှုန်းသည်' 2[5-351,5-352]
+        # UNASSIGNED 'သုံးနှုန်းပြောသည်' 2[5-564,5-565]
+        # mr-5: ['expresses, talks about (3rd sg. present)']
+    ]),
+    ('hīna', [
+        # p4: ['ယုတ်ညံ့သော']
+        ('low (compound member)', ['ယုတ်ညံ့သော']),
+        # UNASSIGNED 'ယုတ်ခြင်း' 6[5-353,5-445,5-448,5-452…]
+        # UNASSIGNED 'ယုတ်လျော့သော' 1[5-371]
+        # UNASSIGNED 'ချို့ယွင်းသော' 1[5-691]
+        # mr-5: ['low, base, opposite of refined (compound member)', 'deficient in, in hīnavīriya and ahīnindriya (compound member)']
+    ]),
+    ('akkhātā', [
+        # p4: ['ပြောကြားသော']
+        ('one who reports (agent noun)', ['ပြောကြားသော']),
+        # UNASSIGNED 'ဟောကြားသူ' 1[5-443]
+        # mr-5: ['one who announces (agent noun)']
+    ]),
+    ('vidū', [
+        # p4: ['သိတော်မူသော']
+        ('one who knows (compound end)', []),
+        # UNASSIGNED 'နားလည်သော' 2[5-354,5-443]
+        # UNASSIGNED 'သိသော' 1[5-405]
+        # mr-5: ['one who knows, in maggavidū and lokavidū (nominative)']
+    ]),
+    ('cuti', [
+        # p4: ['သေခြင်း']
+        ('passing away, death, in cutūpapātañāṇa (compound member)', ['သေခြင်း']),
+        # UNASSIGNED 'စုတေ' 1[5-383]
+        # UNASSIGNED 'စုတိ' 1[5-390]
+        # mr-5: ['decease, falling from a realm (noun)']
+    ]),
+    ('vadāmi', [
+        # UNASSIGNED 'ဆိုသည်' 1[5-372]
+        # UNASSIGNED 'ဟောသည်' 1[5-707]
+        # mr-5: ['I say, I state (1st sg. present)']
+    ]),
+    ('uttamo', [
+        # p4: ['အထွတ်အထိပ်']
+        ('supreme (nominative)', ['အထွတ်အထိပ်']),
+        # UNASSIGNED 'အမြတ်ဆုံး' 1[5-374]
+        # mr-5: ['supreme (nominative sg. superlative)']
+    ]),
+    ('anuttaraṃ', [
+        # p2: ['ထိုထက် သာလွန်သည် မရှိသော']
+        ('unsurpassable, having nothing higher (neuter sg.)', ['ထိုထက် သာလွန်သည် မရှိသော']),
+        # UNASSIGNED 'အမြတ်ဆုံး' 5[5-374,5-791,5-793,5-797…]
+        # mr-5: ['having nothing higher (nominative or accusative sg.)']
+    ]),
+    ('upapattiyā', [
+        # p1: ['ဖြစ်ပေါ်ရန်']
+        ('rebirth, for arising in a sphere (dative sg.)', ['ဖြစ်ပေါ်ရန်']),
+        # UNASSIGNED 'ပြန်လည် ဖြစ်ပေါ်သော' 4[5-388,5-389,5-390,5-417]
+        # UNASSIGNED 'ပြန်လည် ဖြစ်ပေါ်ခြင်း' 1[5-378]
+        # mr-5: ['of reappearance in a new existence (genitive or instrumental sg.)']
+    ]),
+    ('uppādā', [
+        # p2: ['ဖြစ်ပေါ်ရာ']
+        ('arising, origination (nominative pl.)', []),
+        # UNASSIGNED 'ဖြစ်ပေါ်သော' 4[5-473,5-475,5-501,5-564]
+        # UNASSIGNED 'ဖြစ်ပေါ်ခြင်း' 1[5-383]
+        # UNASSIGNED 'ပွင့်ပေါ်သည်' 1[5-450]
+        # mr-5: ['through coming into being (ablative)']
+    ]),
+    ('setu', [
+        # p2: ['တံတား']
+        ('causeway, bridge, in setughāto (compound member)', ['တံတား']),
+        # UNASSIGNED 'သေတု' 1[5-387]
+        # mr-5: ['personal name of a young brahmin who became an arahant (nominative)', 'causeway over water, in setukārakā (compound member)']
+    ]),
+    ('seṭṭho', [
+        # p4: ['အကောင်းဆုံး']
+        ('supreme (nominative)', []),
+        # UNASSIGNED 'အမြတ်ဆုံး' 2[5-401,5-872]
+        # UNASSIGNED 'မြတ်သော' 1[5-799]
+        # mr-5: ['most excellent (nominative sg. superlative)']
+    ]),
+    ('uddisi', [
+        # UNASSIGNED 'ကိုးကွယ်ခဲ့သည်' 3[5-913,5-914,5-918]
+        # UNASSIGNED 'ညွှန်ပြခဲ့သည်' 1[5-404]
+        # mr-5: ['pointed out, named as (3rd sg. aorist)']
+    ]),
+    ('tapaṃ', [
+        # UNASSIGNED 'ပြင်းထန်သော အကျင့်' 2[5-913,5-918]
+        # UNASSIGNED 'ခြိုးခြံသော အကျင့်' 1[5-404]
+        # mr-5: ['ascetic practice (accusative sg.)']
+    ]),
+    ('akāsi', [
+        # UNASSIGNED 'ကျင့်ခဲ့သည်' 2[5-404,5-913]
+        # UNASSIGNED 'ပြုခဲ့သည်' 2[5-912,5-918]
+        # mr-5: ['did, performed (3rd sg. aorist)']
+    ]),
+    ('phusanti', [
+        # UNASSIGNED 'ထိသည်' 1[5-458]
+        # UNASSIGNED 'တွေ့ထိသည်' 1[5-742]
+        # mr-5: ['come into contact with (3rd pl. present)']
+    ]),
+    ('niyamo', [
+        # UNASSIGNED 'ကျိန်းသေမှု' 2[5-642,5-643]
+        # UNASSIGNED 'သေချာသော လမ်းကြောင်း' 1[5-470]
+        # mr-5: ['certainty, the fixed course (nominative sg.)']
+    ]),
+    ('bhūtā', [
+        # p2: ['မူလဓာတ်']
+        ('the great elements, primary matter, in mahābhūtā (nominative pl.)', []),
+        # UNASSIGNED 'ဖြစ်စေနိုင်သော' 2[5-744,5-746]
+        # UNASSIGNED 'မဟာဘုတ်' 1[5-470]
+        # UNASSIGNED 'ဓာတ်ကြီး' 1[5-756]
+        # mr-5: ['the primary material elements, in mahābhūtā (nominative pl.)', 'become, having come to be, in vasībhūtā (nominative pl. participle)']
+    ]),
+    ('mahābhūtā', [
+        # p2: ['မူလဓာတ်ကြီး']
+        ('the four great elements, primary matter (nominative pl.)', ['မူလဓာတ်ကြီး']),
+        # UNASSIGNED 'မဟာဘုတ်' 1[5-470]
+        # mr-5: ['the four primary elements (nominative pl.)']
+    ]),
+    ('abyābajjhaṃ', [
+        # UNASSIGNED 'ညှဉ်းဆဲမှု ကင်းခြင်း' 1[5-480]
+        # UNASSIGNED 'မဆင်းရဲစေတတ်သော' 1[5-742]
+        # mr-5: ['absence of affliction, non-harming (accusative sg.)']
+    ]),
+    ('pānaṃ', [
+        # UNASSIGNED 'သောက်ဖွယ်' 1[5-481]
+        # UNASSIGNED 'အဖျော်' 1[5-692]
+        # UNASSIGNED 'သောက်ခြင်း' 1[5-903]
+        # mr-5: ['beverage (nominative or accusative sg.)']
+    ]),
+    ('annaṃ', [
+        # UNASSIGNED 'ထမင်း' 1[5-481]
+        # UNASSIGNED 'အစာ' 1[5-692]
+        # mr-5: ['nourishment, rice (accusative sg.)']
+    ]),
+    ('ārāma', [
+        # UNASSIGNED 'ကျောင်း' 1[5-486]
+        # UNASSIGNED 'ဥယျာဉ်' 1[5-600]
+        # UNASSIGNED 'အရံ' 1[5-802]
+        # mr-5: ['pleasure-garden, park, also a monastery park (compound member)']
+    ]),
+    ('bhojanīyaṃ', [
+        # UNASSIGNED 'ဘောဇဉ်' 4[5-658,5-779,5-791,5-793]
+        # UNASSIGNED 'စားဖွယ်' 2[5-488,5-901]
+        # mr-5: ['soft food to be eaten (nominative sg.)']
+    ]),
+    ('parakataṃ sukhadukkhaṃ', [
+        # UNASSIGNED 'သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ' 1[5-488]
+        # UNASSIGNED 'သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော' 1[5-801]
+        # mr-5: ['pleasure and pain made by another (phrase)']
+    ]),
+    ('atthāya', [
+        # UNASSIGNED 'အကျိုး' 2[5-743,5-745]
+        # UNASSIGNED 'အတွက်' 1[5-489]
+        # mr-5: ['for the good of, for the purpose of (dative sg.)']
+    ]),
+    ('saṃvattaniyaṃ', [
+        # UNASSIGNED 'ပို့ဆောင်တတ်သော' 3[5-549,5-550,5-894]
+        # UNASSIGNED 'ဖြစ်စေတတ်သော' 2[5-494,5-497]
+        # UNASSIGNED 'ရောက်စေတတ်သော' 1[5-777]
+        # mr-5: ['conducive to (nominative sg.)']
+    ]),
+    ('adhipacca', [
+        # UNASSIGNED 'အကြီးအကဲ ဖြစ်ခြင်း' 2[5-777,5-894]
+        # UNASSIGNED 'အုပ်ချုပ်ခြင်း' 1[5-494]
+        # mr-5: ['sovereignty, rule (compound member)']
+    ]),
+    ('paccati', [
+        # UNASSIGNED 'ကျက်သည်' 2[5-501,5-868]
+        # UNASSIGNED 'ပူလောင်ရသည်' 2[5-657,5-862]
+        # mr-5: ['is cooked, is tormented in hell (3rd sg. present passive)']
+    ]),
+    ('āyu', [
+        # p4: ['သက်တမ်း']
+        ('life span, vital duration (nominative sg.)', ['သက်တမ်း']),
+        # UNASSIGNED 'အသက်' 1[5-802]
+        # mr-5: ['lifespan, vitality (nominative sg.)']
+    ]),
+    ('karaṇaṃ', [
+        # p1: ['ပြုလုပ်ခြင်း']
+        ("doing, taking up, in akaraṇaṃ 'not doing' (nominative sg.)", []),
+        # UNASSIGNED 'ပြုတတ်သော' 2[5-549,5-550]
+        # UNASSIGNED 'ကွဲပြားစေတတ်သော' 1[5-785]
+        # mr-5: ['causing, producing, as compound final (nominative sg.)', 'diversity, in nānākaraṇaṃ, rendered as making a difference']
+    ]),
+    ('jātā', [
+        # p2: ['မွေးဖွားပြီးသော', 'မွေးဖွားသော']
+        ('born, come to birth (nominative pl. participle)', []),
+        # UNASSIGNED 'ပေါ်ပေါက်သော' 2[5-564,5-718]
+        # UNASSIGNED 'ဖြစ်ပေါ်သော' 1[5-798]
+        # mr-5: ['come into being, born (nominative participle)', 'become full of, in vedajātā (compound final), rendered adverbially']
+    ]),
+    ('vihāra', [
+        # p2: ['နေထိုင်ရာ']
+        ('abiding, dwelling, in brahmavihāra (compound member)', ['နေထိုင်ရာ']),
+        # UNASSIGNED 'ကျောင်း' 1[5-802]
+        # mr-5: ['monastic residence, in ārāmavihāra (compound member)']
+    ]),
+    ('jāyiṃsu', [
+        # UNASSIGNED 'ဖြစ်သည်' 1[5-622]
+        # UNASSIGNED 'မွေးဖွားသည်' 1[5-883]
+        # mr-5: ['came to birth (3rd pl. aorist)']
+    ]),
+    ('bhāvitā bahulīkatā', [
+        # UNASSIGNED 'အဖန်ဖန် ပြုထားသော … ပွားများထားသော' 2[5-904,5-905]
+        # UNASSIGNED 'ပွားများထားသော … အဖန်ဖန် ပြုထားသော' 1[5-623]
+        # mr-5: ['made to grow and practised much (phrase)']
+    ]),
+    ('ekanta', [
+        # p4: ['စင်စစ်', 'လုံးဝ']
+        ('wholly, completely (compound member)', ['လုံးဝ']),
+        # UNASSIGNED 'တစ်ထစ်ချ' 1[5-626]
+        # mr-5: ['exclusively, through and through (compound member)']
+    ]),
+    ('parinipphannaṃ', [
+        # UNASSIGNED 'ပြည့်စုံစွာ ပြီးမြောက်သော' 2[5-917,5-918]
+        # UNASSIGNED 'ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော' 1[5-629]
+        # UNASSIGNED 'အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော' 1[5-723]
+        # mr-5: ['completely produced (neuter participle, also heading)']
+    ]),
+    ('sañcetanikānaṃ', [
+        # UNASSIGNED 'ရည်ရွယ်၍' 1[5-635]
+        # UNASSIGNED 'စေ့ဆော်၍' 1[5-782]
+        # mr-5: ['of deliberate deeds (genitive pl.)']
+    ]),
+    ('voropitā', [
+        # p2: ['ချခံရသော']
+        ('deprived, of life (feminine or pl. participle)', ['ချခံရသော']),
+        # UNASSIGNED 'သတ်ခဲ့ပြီးသော' 1[5-859]
+        # mr-5: ['deprived of (participle)']
+    ]),
+    ('niyato', [
+        # p4: ['ကျိန်းသေသော', 'လမ်းကြောင်း ကျိန်းသေသူ']
+        ('fixed in its destiny, certain (masculine sg.)', ['ကျိန်းသေသော', 'လမ်းကြောင်း ကျိန်းသေသူ']),
+        # UNASSIGNED 'လမ်းကြောင်း သေချာပြီးသော' 2[5-663,5-664]
+        # mr-5: ['destined, settled in outcome (nominative participle)']
+    ]),
+    ('uppāditaṃ', [
+        # p2: ['ထွက်စေအပ်သော']
+        ("made to flow, of the Tathāgata's blood (neuter sg. participle)", ['ထွက်စေအပ်သော']),
+        # UNASSIGNED 'ဖြစ်ပေါ်စေခဲ့ပြီးသော' 1[5-660]
+        # mr-5: ["made to flow, of the Tathāgata's blood (participle)", 'generated, of remorse (participle)']
+    ]),
+    ('kareyya', [
+        # p2: ['ပြုသည်']
+        ('would exercise or wield rule (optative)', ['ပြုသည်']),
+        # UNASSIGNED 'လုယက်သည်' 1[5-901]
+        # mr-5: ['would make, in going around a shrine, also in committing burglary on a house (optative)']
+    ]),
+    ('yoniṃ', [
+        # UNASSIGNED 'ဘဝ' 2[5-652,5-653]
+        # UNASSIGNED 'ဘုံ' 1[5-707]
+        # UNASSIGNED 'မွေးဖွားရာ အမျိုးအစား' 1[5-911]
+        # mr-5: ['mode of generation, birth-sphere (accusative)']
+    ]),
+    ('upapajjeyya', [
+        # p2: ['ရောက်သည်']
+        ('would be reborn, reappear (optative)', ['ရောက်သည်']),
+        # UNASSIGNED 'ပြန်လည် ဖြစ်ပေါ်သည်' 1[5-911]
+        # mr-5: ['would arise in a new existence (optative)']
+    ]),
+    ('dukkhāya', [
+        # p4: ['ဆင်းရဲခြင်း']
+        ('for the suffering, the misery of, in dīgharattaṃ ahitāya dukkhāya (dative sg.)', []),
+        # p3: ['နာကျင်သော']
+        ('painful, of feeling (feminine genitive sg.)', ['နာကျင်သော']),
+        # UNASSIGNED 'ဆင်းရဲဖွယ်ရာ' 1[5-708]
+        # mr-5: ['painful, of feeling (dative or locative feminine)', 'toward suffering, with saṃvattati (dative)']
+    ]),
+    ('seyyathidaṃ', [
+        # p2: ['ဆိုလိုသည်မှာ']
+        ('namely, that is to say, introducing a list (indeclinable)', ['ဆိုလိုသည်မှာ']),
+        # UNASSIGNED 'ယင်းမှာ' 1[5-872]
+        # mr-5: ['that is to say (indeclinable)']
+    ]),
+    ('diṭṭhadhamma', [
+        # p2: ['မျက်မှောက်ဘဝ']
+        ('this present life, here and now (compound member)', ['မျက်မှောက်ဘဝ']),
+        # UNASSIGNED 'ယခုဘဝ' 6[5-703,5-704,5-768,5-769…]
+        # mr-5: ['this present existence (compound member)']
+    ]),
+    ('rūpaṃ rūpāvacaraṃ', [
+        # UNASSIGNED 'သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော ရုပ်' 2[5-768,5-775]
+        # UNASSIGNED 'ရုပ်သည် သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော' 1[5-770]
+        # mr-5: ['matter belonging to the fine-material sphere (phrase)']
+    ]),
+    ('saṃvattaniyaṃ kammaṃ', [
+        # UNASSIGNED 'ရောက်စေတတ်သော ကံ' 1[5-777]
+        # UNASSIGNED 'ပို့ဆောင်တတ်သော ကံ' 1[5-894]
+        # mr-5: ['deed conducive to (phrase)']
+    ]),
+    ('apacināti', [
+        # UNASSIGNED 'ဖြိုဖျက်သည်' 1[5-778]
+        # UNASSIGNED 'ဖျက်ဆီးသည်' 1[5-894]
+        # mr-5: ['pulls down, dismantles (3rd sg. present)']
+    ]),
+    ('ariyo aṭṭhaṅgiko', [
+        # UNASSIGNED 'အရိယာ … အင်္ဂါ ရှစ်ပါး ရှိသော' 1[5-874]
+        # UNASSIGNED 'အင်္ဂါ ရှစ်ပါး ရှိသော … အရိယာ' 1[5-875]
+        # mr-5: ['holy, of eight factors (phrase)']
+    ]),
+    ('ariyo aṭṭhaṅgiko maggo', [
+        # UNASSIGNED 'အရိယာ မဂ်သည် အင်္ဂါ ရှစ်ပါး ရှိသော' 2[5-874,5-874]
+        # UNASSIGNED 'အင်္ဂါ ရှစ်ပါး ရှိသော မဂ် … အရိယာ' 1[5-875]
+        # mr-5: ['the holy path with eight factors (phrase)']
+    ]),

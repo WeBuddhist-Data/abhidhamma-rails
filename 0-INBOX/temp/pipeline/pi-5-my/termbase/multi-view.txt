@@ -1,0 +1,1531 @@
+#1 kathā|0 [1 senses] MULTI_OUT L=စကား (tag pi-4 kathā|0)
+   tag: talk or treatise, as in the book title
+    450 ဆွေးနွေးချက်   5-1-0 5-1-12-0 5-2-0 5-3-0 5-3-1-0
+      1 ဆွေးနွေးခြင်း   5-0
+#2 vatthu|0 [2 senses] MULTI_NEW
+   tag: topics, in Khuddakavatthu 'minor topics' (heading member), here the points of controversy, in the book title Kathāvatthu and its closing line
+      1 အငြင်းပွားရာ အကြောင်းအရာ   5-0
+      1 အကြောင်းအရာ   5-918
+#3 puggalo upalabbhati|0 [1 senses] MULTI_NEW
+   tag: 'the individual is apprehended', the thesis phrase
+     56 ပုဂ္ဂိုလ် … တွေ့ရသည်   5-1 5-4 5-5 5-7 5-8
+      0 ပုဂ္ဂိုလ်ကို တွေ့ရသည်   
+#4 vādī|0 [2 senses] MULTI_NEW
+   tag: one who speaks, compound final in musāvādī, also in the epithets of the Tathāgata, saccavādī, tathavādī and the like
+      8 ဆိုတော်မူသော   5-229 5-230 5-231 5-232 5-235
+      1 ပြောသော   5-857
+#5 vādī|1 [2 senses] MULTI_NEW
+   tag: party to the debate, in sakavādī (own side) and paravādī (the opponent) of the question notes
+      4 တစ်ဖက်သား   5-2 5-345 5-479 5-652
+      2 မိမိဘက်   5-1 5-344
+#6 micchā|0 [1 senses] MULTI_IN L=မှားယွင်းသော (TAGDIFF pi-4 micchā|0)
+   tag: wrong, false (compound member), also the verdict 'that is wrong' of the rebuttal formula (predicate)
+     44 မှားသည်   5-1 5-2 5-3 5-5 5-6
+      7 မှားယွင်းသော   5-105 5-269 5-282 5-377 5-707
+#7 suddha|0 [1 senses] MULTI_NEW
+   tag: unqualified, nothing but (adjective)
+      3 ရိုးရိုး   5-1-1-0 5-1-2-0 5-3-1-0
+      1 သက်သက်   5-233
+#8 niggahetabbe|0 [1 senses] MULTI_NEW
+   tag: ought to be rebutted (gerundive)
+      2 ချေပရမည့်   5-3 5-8
+      2 ချေပရသည်   5-5 5-10
+#9 brahma|0 [1 senses] MULTI_IN L=မြင့်မြတ်သော (tag pi-4 brahma|0)
+   tag: divine, sublime, in brahmavihāra (compound member), also the sublime life, in brahmacariya and brahmacārī, and in brahmabhūta
+     14 မြင့်မြတ်သော   5-3-0 5-3-1-0 5-3-2-0 5-269 5-270
+      2 မြတ်သော   5-321 5-338
+#10 brahmacariya|0 [1 senses] MULTI_IN L=မြင့်မြတ်သော အကျင့် (tag pi-4 brahmacariya|0)
+   tag: the holy life, the pure life of training (compound member)
+      9 မြင့်မြတ်သော အကျင့်   5-3-0 5-3-1-0 5-3-2-0 5-269 5-270
+      1 မြတ်သော အကျင့်   5-338
+#11 Tena hi|0 [1 senses] MULTI_NEW
+   tag: 'well then', drawing the consequence
+    145 သို့ဖြစ်လျှင်   5-74 5-75 5-121 5-210 5-226
+      2 သို့ဖြစ်၍   5-5 5-10
+#12 ñāṇa|0 [1 senses] MULTI_IN L=ဉာဏ် (tag pi-4 ñāṇa|0)
+   tag: knowledge, in ñāṇasampayutta (compound member)
+     10 ဉာဏ်   5-5-5-0 5-11-9-1-0 5-13-2-1-0 5-13-6-1-0 5-13-8-1-0
+      4 သိခြင်း   5-10-2-1-0 5-349 5-549 5-550
+#13 para|0 [2 senses] MULTI_NEW
+   tag: others, another person (compound member, as in paralābha and paranimmita), here also in paracitta and parappavāda
+     14 သူတစ်ပါး   5-10-1-0 5-10-5-1-0 5-232 5-312 5-313
+      3 အခြားသူ   5-194 5-196 5-432
+      2 ပရ   5-337 5-886
+      1 အခြား   5-875
+#14 dukkha|0 [3 senses] MULTI_IN L=နာကျင်မှု (tag pi-4 dukkha|0)
+   tag: pain, painful feeling or painful to the touch (compound member, as in dukkhasahagata and dukkhasamphassa)
+      7 နာကျင်သော   5-492 5-495 5-522 5-636 5-638
+      1 နာကျင်မှု   5-21
+#15 ṭhiti|0 [1 senses] MULTI_IN L=တည်တံ့ခြင်း (tag pi-2 ṭhiti|0)
+   tag: stability, steadiness of mind (in the concentration list), the same value also naming persistence, the lasting of life (in the life-faculty list)
+      7 တည်ရာ   5-455 5-506 5-507 5-511 5-515
+      3 တည်ခြင်း   5-10-8-1-0 5-337 5-353
+      1 တည်နေသော   5-383
+      1 တည်တံ့ခြင်း   5-540
+#16 citta|0 [2 senses] MULTI_NEW
+   tag: mind, consciousness (stem and compound member), also in cittiddhipāda
+     38 စိတ်   5-10-8-1-0 5-13-7-1-0 5-18-8-1-0 5-19-3-1-0 5-22-6-1-0
+      1 စိတ္တ   5-911
+#17 nirodha|0 [1 senses] MULTI_IN L=ချုပ်ငြိမ်းခြင်း (tag pi-4 nirodha|0)
+   tag: cessation, in nirodhataṇhā 'craving for cessation' (compound member)
+     18 ချုပ်ငြိမ်း   5-95 5-96 5-100 5-103 5-217
+     17 ချုပ်ငြိမ်းခြင်း   5-10-12-1-0 5-14-5-1-0 5-18-1-0 5-272 5-274
+#18 Sabbattha|0 [1 senses] MULTI_IN L=ဘုံ အားလုံး (TAGDIFF pi-2 sabbattha|0)
+   tag: everywhere, in sabbatthagāminī 'leading to all destinations' (compound member), here also the adverb 'in every place'
+      5 နေရာတိုင်း   5-11 5-14 5-239 5-282 5-326
+      0 ဘုံ အားလုံး   
+#19 upagata|0 [1 senses] MULTI_NEW
+   tag: gone to, in yathākammūpaga 'faring according to action'
+      1 ရောက်သွားသော   5-11-9-1-0
+      1 ရောက်သော   5-378
+#20 Sabbadā|0 [1 senses] MULTI_NEW
+   tag: at all times (adverb)
+      4 အချိန်တိုင်း   5-12 5-239 5-282 5-326
+      0 အမြဲ   
+#21 samannāgata|0 [1 senses] MULTI_NEW
+   tag: possessed of
+      3 ပြည့်စုံသော   5-12-4-1-0 5-12-5-1-0 5-12-9-1-0
+      1 ပြည့်စုံခြင်း   5-17-11-1-0
+#22 buddho|0 [1 senses] MULTI_OUT_ABSENT L=နားလည်ပြီးသော (TAGDIFF pi-3 buddho|0)
+   tag: the Buddha, the Awakened One (nominative sg.)
+      7 ဘုရား   5-12-6-1-0 5-398 5-399 5-403 5-417
+      2 ဘုရားရှင်   5-281 5-802
+#23 niyāma|0 [2 senses] MULTI_NEW
+   tag: fixed course of rightness, the path that is certain
+      8 သေချာသော လမ်း   5-12-8-1-0 5-13-4-1-0 5-14-1-0 5-428 5-429
+      1 သေချာသော လမ်းကြောင်း   5-21-4-1-0
+#24 paṭicca|0 [1 senses] MULTI_IN L=အကြောင်းတို့ကို မှီ၍ (TAGDIFF pi-3 paṭicca|0)
+   tag: dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition, here also the absolutive 'depending on'
+     20 အကြောင်းတို့ကို မှီ၍   5-14-2-1-0 5-95 5-96 5-100 5-103
+     10 မှီ၍   5-268 5-463 5-465 5-467 5-469
+#25 samāpatti|0 [1 senses] MULTI_OUT L=ဈာန် ဝင်စားရာ (tag pi-2 samāpatti|0)
+   tag: meditative attainments, absorptions entered (compound member)
+     10 သမာပတ်   5-14-5-1-0 5-457 5-459 5-470 5-703
+      7 ဈာန် ဝင်စားခြင်း   5-728 5-729 5-730 5-731 5-735
+#26 sattama|0 [1 senses] MULTI_IN L=သတ္တမ (tag pi-3 sattama|0)
+   tag: ordinal 7th, in method headings
+     11 သတ္တမ   5-15-0 5-15-2-0 5-15-3-0 5-15-4-0 5-15-5-0
+      2 ခုနစ်ကြိမ်မြောက်   5-20-10-1-0 5-653
+#27 cetasika|0 [1 senses] MULTI_NEW
+   tag: mental concomitant
+      2 စိတ်၏ အဖော် ဖြစ်သော သဘောတရား   5-15-3-1-0 5-477
+      2 စိတ်၏ အဖော်   5-18-7-1-0 5-594
+#28 rūpadhātu|1 [2 senses] MULTI_NEW
+   tag: the fine-material realm of existence, among the planes (nominative sg.), also as the fine-material element
+      6 သိမ်မွေ့သော ရုပ်ဘုံ   5-16-5-1-0 5-516 5-518 5-546 5-775
+      2 သိမ်မွေ့သော ရုပ် ဓာတ်   5-771 5-772
+#29 arūpadhātu|0 [1 senses] MULTI_IN L=ရုပ်မရှိသော ဘုံ (tag-ci pi-2 Arūpadhātu|0)
+   tag: the immaterial realm of existence (nominative sg.)
+      5 ရုပ်မရှိသော ဘုံ   5-16-6-1-0 5-518 5-546 5-775 5-880
+      3 ရုပ်မရှိသော ဓာတ်   5-24-10-1-0 5-773 5-774
+#30 Aññaṃ|0 [1 senses] MULTI_IN L=တခြားစီ (tag-ci pi-2 aññaṃ|0)
+   tag: other, different, in 'the soul is one thing, the body another' (neuter sg.)
+     18 တခြားစီ   5-17 5-18 5-21 5-22 5-23
+      0 အခြား   
+#31 ñāṇaṃ|0 [1 senses] MULTI_IN L=ဉာဏ် (tag pi-4 ñāṇaṃ|0)
+   tag: knowledge, knowing, also in aññāṇaṃ 'not knowing' (nominative sg.)
+     55 ဉာဏ်   5-232 5-290 5-354 5-355 5-356
+      5 သိခြင်း   5-314 5-315 5-316 5-317 5-353
+#32 Aññaṃ viññāṇaṃ|0 [1 senses] MULTI_NEW
+   tag: 'consciousness is one thing (and the person another)'
+      3 သိစိတ် … တခြားစီ   5-18 5-23 5-213
+      0 သိစိတ်သည် တခြားစီ   
+#33 samaṅgissa|0 [1 senses] MULTI_IN L=ပြည့်စုံသော (tag pi-2 samaṅgissa|0)
+   tag: of one endowed with, possessing (genitive sg.)
+      8 ပြည့်စုံသော   5-18-3-1-0 5-573 5-575 5-576 5-577
+      2 ရရှိထားသော   5-419 5-420
+#34 dhamma|1 [3 senses] MULTI_NEW
+   tag: the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra, here also in dhammadesanā and the fixed names dhammacakka, dhammacakkhu and dhammavinaya, and the truth in dhammaṭṭha and dhammaniyām
+     24 တရား   5-26-2-1-0 5-30-4-1-0 5-280 5-281 5-354
+      4 ဓမ္မ   5-270 5-278 5-333 5-802
+#35 ṭhitatā|0 [1 senses] MULTI_NEW
+   tag: stableness, fixity
+      3 တည်နေခြင်း သဘော   5-19-7-1-0 5-627 5-629
+      2 တည်ရှိခြင်း   5-450 5-451
+#36 dhammaṭṭhitatā|0 [1 senses] MULTI_NEW
+   tag: fixity of the order of phenomena
+      2 သဘောတရားတို့၏ တည်နေခြင်း သဘော   5-19-7-1-0 5-629
+      2 တရား၏ တည်ရှိခြင်း   5-450 5-451
+#37 mano|0 [1 senses] MULTI_IN L=မနော (tag pi-4 mano|0)
+   tag: mind, the thinking faculty, also adjectival 'mental' in compounds
+     16 မနော   5-20 5-234 5-289 5-296 5-335
+      1 စိတ်   5-742
+#38 eka|0 [2 senses] MULTI_NEW
+   tag: one, as in the one-item section label Ekamūlaka, here one seed, one more birth, in ekabījī (compound member), also one path, one mind-moment, in ekamagga and ekacittakkhaṇika
+      8 တစ်စေ့   5-20-7-1-0 5-274 5-340 5-366 5-393
+      6 တစ်ပါး   5-26-5-1-0 5-314 5-901 5-908 5-909
+      1 တစ်   5-784
+      2 တစ်ခု   5-906 5-907
+#39 du|0 [1 senses] MULTI_NEW
+   tag: ill-, bad- (prefix)
+      5 ဆိုးသော   5-20-9-1-0 5-650 5-651 5-652 5-653
+      1 နံစော်သော   5-522
+#40 sotindriyaṃ upalabbhati|0 [1 senses] MULTI_NEW
+   tag: 'the hearing faculty is apprehended', thesis phrase
+      2 နား၏ စွမ်းရည်ကို တွေ့ရသည်   5-36 5-45
+      1 နား၏ စွမ်းရည် … တွေ့ရသည်   5-21
+#41 aññā|0 [2 senses] MULTI_NEW
+   tag: final knowledge, the knowing of one on the higher paths (compound member), here also in sammadaññāvimutta and aññāpaṭivedha
+      5 သိ၍   5-261 5-262 5-277 5-311 5-343
+      2 အပြည့်အဝ သိမြင်ခြင်း   5-21 5-26
+      1 ရဟန္တာ ဖိုလ်   5-346
+#42 sukha|0 [2 senses] MULTI_IN L=သာယာမှု (tag pi-4 sukha|0)
+   tag: pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa)
+      8 သာယာသော   5-492 5-495 5-636 5-638 5-639
+      4 သာယာမှု   5-21 5-562 5-742 5-815
+#43 sukha|1 [2 senses] MULTI_NEW
+   tag: happiness, well-being in the everyday sense, in sukhadukkha 'pleasure and pain' of the views and the perversion 'dukkhe sukhan'ti' (compound member and quoted word), also in Sukhānuppadānakathā
+     18 ချမ်းသာ   5-98 5-101 5-171 5-173 5-175
+      4 သုခ   5-24-3-1-0 5-748 5-775 5-801
+#44 anantarā|0 [1 senses] MULTI_NEW
+   tag: without interval, directly after, also in anantarāpayutta (compound member)
+      6 ချက်ချင်း နောက်   5-687 5-689 5-693 5-694 5-695
+      5 ချက်ချင်း   5-21-3-1-0 5-660 5-661 5-662 5-685
+      1 နောက်တွင် ချက်ချင်း   5-241
+#45 rāga|0 [1 senses] MULTI_IN L=ရာဂ (tag pi-4 rāga|0)
+   tag: lust, passion (compound member)
+     20 ရာဂ   5-268 5-279 5-306 5-311 5-336
+      1 တပ်မက်မှု   5-21-8-1-0
+#46 taṇhā|0 [1 senses] MULTI_IN L=တပ်မက်မှု (tag pi-3 taṇhā|0)
+   tag: craving, thirst (nominative sg. and compound final)
+     18 တပ်မက်မှု   5-21-9-1-0 5-21-10-1-0 5-281 5-296 5-452
+      1 တဏှာ   5-75
+#47 hitāya|0 [1 senses] MULTI_OUT L=အစီးအပွား (tag pi-4 hitāya|0)
+   tag: for benefit (dative)
+     12 အကျိုး   5-22 5-23 5-24 5-27 5-37
+      2 အကျိုးစီးပွား   5-230 5-486
+#48 anantara|0 [2 senses] MULTI_NEW
+   tag: contiguity, the proximity relation, in anantarapaccaya (compound member)
+      4 ချက်ချင်း နောက်၌ ဖြစ်စေသော   5-22-3-1-0 5-697 5-716 5-717
+      1 ကြားမလပ်   5-439
+#49 añño|0 [1 senses] MULTI_NEW
+   tag: another, other (masculine pronoun)
+      4 တခြားစီ   5-112 5-113 5-115 5-701
+      3 အခြား   5-89 5-90 5-801
+      2 တခြား   5-78 5-80
+#50 paccayatā|0 [1 senses] MULTI_IN L=ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ (TAGDIFF pi-2 paccayatā|0)
+   tag: conditionality, in idappaccayatā (compound final), also being a condition, in the paccayatā debates
+      5 ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ   5-308 5-314 5-318 5-322 5-450
+      2 အကြောင်းဖြစ်ပုံ   5-23-1-0 5-717
+      4 အကြောင်းဖြစ်ခြင်း   5-903 5-904 5-905 5-907
+#51 vedayita|0 [1 senses] MULTI_IN L=ခံစားရခြင်း (tag pi-2 vedayita|0)
+   tag: what is felt, feeling, in saññāvedayitanirodha (compound member)
+     12 ခံစားရခြင်း   5-23-7-1-0 5-23-8-1-0 5-23-9-1-0 5-728 5-729
+      1 ခံစားမှု   5-333
+#52 saññāvedayita|0 [1 senses] MULTI_NEW
+   tag: perceiving and feeling, as in their cessation
+     13 မှတ်သိမှုနှင့် ခံစားရခြင်း   5-23-7-1-0 5-23-8-1-0 5-23-9-1-0 5-728 5-729
+      1 မှတ်သိမှုနှင့် ခံစားမှု   5-333
+#53 satta|0 [1 senses] MULTI_NEW
+   tag: living creatures
+      9 သတ္တဝါ   5-384 5-455 5-506 5-507 5-511
+      3 အသညသတ်   5-23-10-1-0 5-735 5-736
+#54 upacaya|0 [1 senses] MULTI_NEW
+   tag: heaping up
+      1 စုဆောင်းမှု   5-23-11-1-0
+      1 စုဆောင်းခြင်း   5-25-1-0
+#55 maccu|0 [1 senses] MULTI_IN L=သေခြင်း (tag pi-3 maccu|0)
+   tag: death, mortality (stem)
+      5 သေခြင်း   5-25-2-1-0 5-780 5-781 5-782 5-801
+      1 သေမင်း   5-226
+#56 saṅgho dakkhiṇaṃ paṭiggaṇhāti|0 [1 senses] MULTI_NEW
+   tag: heading thesis 'the Order accepts gifts'
+      3 သံဃာသည် အလှူကို ခံယူသည်   5-25-6-1-0 5-791 5-792
+      1 သံဃာသည် အလှူ … ခံယူသည်   5-801
+#57 dakkhiṇaṃ paṭiggaṇhāti|0 [1 senses] MULTI_NEW
+   tag: accepts gifts (verb phrase)
+      3 အလှူကို ခံယူသည်   5-25-6-1-0 5-791 5-792
+      1 အလှူ … ခံယူသည်   5-801
+#58 saṅgho dakkhiṇaṃ visodheti|0 [1 senses] MULTI_NEW
+   tag: heading thesis 'the Order purifies gifts'
+      3 သံဃာသည် အလှူကို စင်ကြယ်စေသည်   5-25-7-1-0 5-793 5-794
+      1 သံဃာသည် အလှူ … စင်ကြယ်စေသည်   5-801
+#59 dakkhiṇaṃ visodheti|0 [1 senses] MULTI_NEW
+   tag: makes gifts pure (verb phrase)
+      3 အလှူကို စင်ကြယ်စေသည်   5-25-7-1-0 5-793 5-794
+      1 အလှူ … စင်ကြယ်စေသည်   5-801
+#60 bhuñjati|0 [1 senses] MULTI_NEW
+   tag: consumes food (3rd sg.)
+      5 စားသည်   5-25-8-1-0 5-692 5-795 5-796 5-801
+      1 ဘုဉ်းပေးတော်မူသည်   5-809
+#61 phalaṃ|0 [2 senses] MULTI_IN L=အသီးအပွင့် (tag pi-4 phalaṃ|0)
+   tag: fruit, the result of good and bad deeds, in the wrong-view and right-view formulas (nominative sg.)
+      7 အကျိုး   5-25-9-1-0 5-25-10-1-0 5-591 5-797 5-798
+      6 အသီးအပွင့်   5-101 5-102 5-338 5-479 5-592
+#62 mahapphalaṃ|0 [1 senses] MULTI_NEW
+   tag: yielding much result
+      7 အကျိုး ကြီးမားသော   5-25-9-1-0 5-25-10-1-0 5-498 5-797 5-798
+      1 ကြီးမားသော အကျိုး   5-321
+#63 Buddhassa|0 [1 senses] MULTI_NEW
+   tag: of or to the Awakened One (genitive/dative)
+      1 ဘုရား   5-809
+      5 ဘုရားရှင်   5-347 5-348 5-349 5-350 5-352
+#64 jāti|0 [2 senses] MULTI_NEW
+   tag: birth, being born (nominative sg.), also rebirth, in jātisaṃsāra, the last birth and the jāti of dependent origination
+      4 မွေးဖွားခြင်း   5-296 5-449 5-450 5-451
+      3 ဖြစ်ခြင်း   5-622 5-624 5-719
+      1 ပဋိသန္ဓေ နေခြင်း   5-333
+      1 ဘဝ   5-401
+#65 sāmañña|0 [1 senses] MULTI_IN L=ရဟန်းအဖြစ် (tag pi-1 sāmañña|0)
+   tag: the recluse's life, the contemplative state, in sāmaññaphala (compound member)
+     10 ရဟန်းအဖြစ်   5-27-3-1-0 5-280 5-403 5-810 5-811
+      1 ရဟန်း   5-338
+#66 tathatā|0 [1 senses] MULTI_NEW
+   tag: thusness, invariable nature
+      4 ဟုတ်တိုင်းမှန်သော သဘော   5-27-5-1-0 5-841 5-843 5-856
+      1 ဟုတ်မှန်ခြင်း   5-450
+#67 accanta|0 [1 senses] MULTI_NEW
+   tag: completely, to the very end
+      8 အပြီးအပိုင်   5-27-7-1-0 5-847 5-848 5-849 5-850
+      1 အဆုံးစွန်   5-338
+      1 လုံးဝ   5-353
+#68 āneñja|0 [2 senses] MULTI_IN L=မတုန်လှုပ်ခြင်း (tag pi-4 āneñja|0)
+   tag: imperturbable (compound member)
+      2 မတုန်မလှုပ်သော   5-30-3-1-0 5-894
+      2 မတုန်လှုပ်သော   5-666 5-777
+      1 မတုန်လှုပ်ခြင်း   5-367
+#69 adhippāya|0 [1 senses] MULTI_NEW
+   tag: purpose, will, as in adhippāya-iddhi
+      3 အလိုအတိုင်း   5-883 5-884 5-891
+      1 ရည်ရွယ်ချက်   5-31-1-0
+#70 issariya|0 [1 senses] MULTI_NEW
+   tag: lordship, dominion
+      7 မိမိ၏ အစွမ်း   5-31-3-1-0 5-910 5-911 5-912 5-913
+      4 အစိုးရခြင်း   5-338 5-494 5-777 5-894
+#71 Rūpaṃ puggalo|0 [1 senses] MULTI_NEW
+   tag: thesis phrase 'matter is the individual'
+      2 ရုပ်သည် ပုဂ္ဂိုလ်   5-46 5-50
+      1 ရုပ် … ပုဂ္ဂိုလ်   5-122
+#72 jāto|0 [1 senses] MULTI_OUT_ABSENT L=မွေးဖွားသော (tag pi-2 jāto|0)
+   tag: born, come into being (nominative sg. participle)
+      6 ပေါ်ပေါက်သော   5-703 5-704 5-738 5-739 5-771
+      2 မွေးဖွားလာသော   5-65 5-66
+      2 ဖွားမြင်တော်မူသော   5-270 5-803
+      1 ဖွားမြင်တော်မူခဲ့သော   5-802
+#73 jāte|0 [1 senses] MULTI_NEW
+   tag: of a kind or class (locative), incl. kinds of scent
+      2 တစ်မျိုးတည်းမှ ဖြစ်သော   5-67 5-68
+      2 မျိုး   5-809 5-827
+#74 puggalo sandhāvati|0 [1 senses] MULTI_NEW
+   tag: thesis phrase 'the individual transmigrates'
+     13 ပုဂ္ဂိုလ် … ကူးသွားသည်   5-74 5-75 5-77 5-79 5-81
+      0 ပုဂ္ဂိုလ်သည် ကူးသွားသည်   
+#75 karo|0 [1 senses] MULTI_IN L=ပြုသော (tag pi-4 karo|0)
+   tag: maker (compound end)
+      2 ပြုသော   5-74 5-485
+      1 ပြုတော်မူသော   5-281
+#76 eva|0 [1 senses] MULTI_IN L=သာ (tag pi-4 eva|0)
+   tag: just, indeed, emphatic particle (enclitic)
+    131 ပင်   5-74 5-75 5-121 5-210 5-226
+     10 သာ   5-232 5-233 5-434 5-435 5-436
+#77 sattānaṃ|0 [1 senses] MULTI_IN L=သတ္တဝါ (tag pi-4 sattānaṃ|0)
+   tag: of living beings (genitive pl.)
+      4 သတ္တဝါ   5-75 5-355 5-477 5-508
+      1 အသညသတ်   5-543
+#78 katānaṃ|0 [1 senses] MULTI_NEW
+   tag: of what has been done (genitive pl.)
+      2 ပြုခဲ့သော   5-78 5-80
+      2 ပြုခဲ့   5-635 5-782
+#79 nerayiko|0 [1 senses] MULTI_NEW
+   tag: a being in hell, or one destined for it
+      2 ငရဲ၌ ကျသော   5-657 5-862
+      1 ငရဲသား   5-79
+      1 ငရဲ၌ ကျမည့်   5-861
+#80 bhijjati|0 [1 senses] MULTI_NEW
+   tag: breaks up (3rd sg.)
+      2 ပျက်သည်   5-544 5-740
+      1 ပြိုကွဲသည်   5-94
+#81 vaya|0 [1 senses] MULTI_IN L=ပျက်ခြင်း (tag pi-2 vaya|0)
+   tag: passing away, vanishing (compound member)
+      9 ပျက်စီး   5-95 5-96 5-100 5-103 5-217
+      1 ပျက်ခြင်း   5-335
+#82 rūpaṃ aniccaṃ|0 [1 senses] MULTI_NEW
+   tag: thesis phrase 'matter is impermanent'
+      3 ရုပ်သည် မမြဲသော   5-286 5-287 5-917
+      1 ရုပ် … မမြဲသော   5-112
+#83 puggalassa paññatti|0 [1 senses] MULTI_NEW
+   tag: 'the designation of the individual', thesis phrase
+     17 ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်   5-95 5-96 5-97 5-98 5-99
+      1 ပုဂ္ဂိုလ် … သတ်မှတ်ချက်   5-111
+#84 nirodhadhammaṃ|0 [1 senses] MULTI_NEW
+   tag: having the nature to cease
+      7 ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော   5-95 5-96 5-103 5-278 5-786
+      4 ချုပ်ငြိမ်းခြင်း သဘော ရှိသော   5-317 5-321 5-325 5-346
+#85 iṭṭha|0 [1 senses] MULTI_NEW
+   tag: wished for
+      4 လိုလားဖွယ်   5-98 5-101 5-479 5-482
+      1 လိုလားအပ်သော   5-591
+#86 aniṭṭha|0 [1 senses] MULTI_NEW
+   tag: not wished for
+      4 မလိုလားဖွယ်   5-99 5-102 5-338 5-479
+      0 မလိုလားအပ်သော   
+#87 vipariṇāmadhammā|0 [1 senses] MULTI_IN L=ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော (tag pi-2 vipariṇāmadhammā|0)
+   tag: of a changing nature, liable to alter (feminine or pl.)
+      2 ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော   5-100 5-238
+      1 ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော   5-907
+#88 niruddhe|0 [1 senses] MULTI_NEW
+   tag: when ended (locative participle)
+      4 ချုပ်ငြိမ်းသွားသော   5-104 5-447 5-594 5-597
+      3 ချုပ်ငြိမ်းသော   5-353 5-571 5-604
+      2 ချုပ်ငြိမ်းပြီးသော   5-572 5-589
+#89 niruddhāya|0 [1 senses] MULTI_NEW
+   tag: when ended (feminine locative participle)
+      2 ချုပ်ငြိမ်းသွားသော   5-105 5-106
+      1 ချုပ်ငြိမ်းသော   5-398
+#90 samādhiṃ|0 [1 senses] MULTI_IN L=သမာဓိ (tag pi-4 samādhiṃ|0)
+   tag: concentration (accusative sg.)
+      4 သမာဓိ   5-105 5-106 5-493 5-745
+      1 တည်ကြည်ခြင်း   5-486
+#91 sammā|0 [3 senses] MULTI_IN L=မှန်ကန်သော (tag pi-4 sammā|0)
+   tag: right, correct, prefixed to path factors (compound member), also the adverb rightly (sammāpaṭipannā)
+     39 မှန်ကန်သော   5-106 5-232 5-244 5-260 5-262
+      1 မှန်ကန်စွာ   5-539
+#92 puggalānaṃ paññatti|0 [1 senses] MULTI_NEW
+   tag: 'designation of individuals', thesis phrase
+      4 ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်   5-107 5-108 5-109 5-110
+      1 ပုဂ္ဂိုလ် … သတ်မှတ်ချက်   5-111
+#93 puriso|0 [1 senses] MULTI_IN L=ယောက်ျား (tag pi-2 puriso|0)
+   tag: a man, male person (nominative sg.)
+      1 ယောက်ျား   5-117
+      1 ယောကျ်ား   5-539
+#94 upacchedo|0 [1 senses] MULTI_OUT L=ပြတ်စဲခြင်း (tag pi-2 upacchedo|0)
+   tag: cutting off, severance (nominative sg.)
+     10 ပြတ်ခြင်း   5-125 5-138 5-145 5-152 5-159
+      1 ဖြတ်တောက်ခြင်း   5-501
+#95 vaṭṭa|0 [1 senses] MULTI_NEW
+   tag: the round of rebirths
+     10 သံသရာ စက်ဝန်း   5-125 5-138 5-145 5-152 5-159
+      1 ဝဋ်   5-501
+#96 sukhaṃ|1 [2 senses] MULTI_NEW
+   tag: comfort, ease, in seyyasukhaṃ, passasukhaṃ and middhasukhaṃ (compound final), here happiness, well-being, as in dibbaṃ sukhaṃ and sukhaṃ dukkhaṃ
+     15 ချမ်းသာ   5-143 5-144 5-146 5-147 5-148
+      4 သုခ   5-743 5-745 5-747 5-748
+#97 karoti|0 [1 senses] MULTI_NEW
+   tag: does, makes, performs (3rd sg.)
+     12 ပြုသည်   5-170 5-171 5-172 5-173 5-176
+      3 ပြုလုပ်သည်   5-237 5-878 5-891
+#98 sayaṃ|0 [1 senses] MULTI_IN L=ကိုယ်တိုင် (tag pi-4 sayaṃ|0)
+   tag: by oneself, personally (adverb)
+      4 မိမိ   5-171 5-175 5-177 5-179
+      0 ကိုယ်တိုင်   
+#99 sukhadukkhaṃ|0 [2 senses] MULTI_NEW
+   tag: pleasure-and-pain, weal and woe, in the views on who makes them
+      5 ချမ်းသာနှင့် ဆင်းရဲ   5-171 5-173 5-175 5-177 5-179
+      2 ချမ်းသာ ဆင်းရဲ   5-488 5-539
+      1 သုခ ဒုက္ခ   5-801
+#100 pathavī atthi|0 [1 senses] MULTI_NEW
+   tag: thesis phrase 'the earth exists'
+      2 မြေ … ရှိသည်   5-185 5-191
+      2 မြေ ရှိသည်   5-289 5-427
+#101 mātā|0 [1 senses] MULTI_IN L=အမိ (tag pi-4 mātā|0)
+   tag: mother, in 'there is no mother' (nominative sg.)
+      1 အမိ   5-197
+      1 မိဘ   5-491
+#102 yugā|0 [1 senses] MULTI_NEW
+   tag: couples (nominative pl.)
+      4 အစုံ   5-791 5-793 5-797 5-800
+      2 အတွဲ   5-206 5-207
+#103 purisayugā|0 [1 senses] MULTI_NEW
+   tag: couples of individuals
+      4 လူ အစုံ   5-791 5-793 5-797 5-800
+      2 လူ အတွဲ   5-206 5-207
+#104 pātubhavanti|0 [1 senses] MULTI_OUT_ABSENT L=ထင်ရှားလာသည် (tag pi-2 pātubhavanti|0)
+   tag: appear, become manifest (3rd pl. present)
+      2 ပေါ်ပေါက်သည်   5-207 5-401
+      1 ထင်ရှား ပေါ်လာသည်   5-321
+#105 pātubhāvā|0 [1 senses] MULTI_NEW
+   tag: from the manifestation (ablative)
+      1 ပွင့်ပေါ်ခြင်း   5-207
+      1 ထင်ရှား လာခြင်း   5-303
+#106 parinibbute|0 [1 senses] MULTI_NEW
+   tag: when fully extinguished (locative participle)
+      1 ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော   5-207
+      1 ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီးသော   5-296
+#107 uppādo|0 [1 senses] MULTI_OUT_ABSENT L=ဖြစ်ပေါ်မှု (tag pi-2 uppādo|0)
+   tag: arising, origination (nominative sg.)
+      5 ဖြစ်ပေါ်ခြင်း   5-374 5-703 5-704 5-771 5-773
+      2 ဖြစ်ခြင်း   5-214 5-215
+#108 parinibbuto|0 [1 senses] MULTI_NEW
+   tag: fully extinguished (participle)
+      2 ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့သော   5-802 5-896
+      0 ပရိနိဗ္ဗာန် ပြုပြီးသော   
+      1 ပရိနိဗ္ဗာန် ပြုတော်မူသော   5-281
+#109 tiṭṭhati|0 [1 senses] MULTI_OUT_ABSENT L=ရပ်တည်နေသည် (tag pi-4 tiṭṭhati|0)
+   tag: stands upright, on dry land (3rd sg. present), the paired value also covering remaining static
+      3 တည်သည်   5-217 5-233 5-321
+      1 တည်နေသည်   5-868
+#110 pajānāti|0 [1 senses] MULTI_IN L=ကွဲပြားစွာ သိသည် (tag pi-4 pajānāti|0)
+   tag: knows clearly, understands (3rd sg. present)
+      7 ကွဲပြားစွာ သိသည်   5-218 5-219 5-220 5-221 5-321
+      2 သိသည်   5-671 5-749
+#111 viharati|0 [1 senses] MULTI_IN L=နေသည် (tag pi-4 viharati|0)
+   tag: dwells, abides in the attainment (3rd sg. present)
+     21 နေသည်   5-222 5-223 5-224 5-225 5-274
+      1 နေတော်မူသည်   5-803
+#112 saha|0 [1 senses] MULTI_IN L=အတူ (tag pi-2 saha|0)
+   tag: together with, at the same time as (compound member and preposition)
+     21 အတူ   5-363 5-364 5-365 5-476 5-564
+      7 တစ်ပြိုင်နက်   5-278 5-321 5-325 5-417 5-473
+#113 uppajjati|0 [1 senses] MULTI_IN L=ပွင့်ထွန်းတော်မူသည် (tag pi-4 uppajjati|0)
+   tag: arises, comes into being (3rd sg. present)
+     35 ဖြစ်ပေါ်သည်   5-232 5-234 5-268 5-335 5-337
+      1 ပေါ်ပေါက်လာသည်   5-230
+      1 ပေါ်ပေါက်သည်   5-270
+      1 ပွင့်ထွန်းတော်မူသည်   5-654
+#114 nirujjhamānaṃ|0 [1 senses] MULTI_NEW
+   tag: ceasing (neuter participle)
+      1 ချုပ်ငြိမ်းသော   5-232
+      1 ချုပ်ငြိမ်းနေသော   5-285
+#115 veti|0 [1 senses] MULTI_NEW
+   tag: goes away, vanishes (3rd sg.)
+      1 ပျက်ကွယ်သည်   5-233
+      1 ပျက်စီးသည်   5-485
+#116 puñjo|0 [1 senses] MULTI_IN L=ပုံ (tag pi-2 puñjo|0)
+   tag: a heap, a pile (nominative sg.)
+      3 ပုံ   5-351 5-483 5-598
+      1 အစုအပုံ   5-233
+#117 tasmā|0 [1 senses] MULTI_IN L=ထို့ကြောင့် (tag-ci pi-2 Tasmā|0)
+   tag: therefore, for that reason (adverb)
+      7 ထို့ကြောင့်   5-405 5-599 5-603 5-666 5-669
+      1 သောကြောင့်   5-234
+#118 bāla|0 [1 senses] MULTI_NEW
+   tag: childish, a fool (stem)
+      2 မိုက်မဲသော   5-334 5-350
+      1 လူမိုက်   5-235
+#119 paññāpeti|0 [1 senses] MULTI_NEW
+   tag: declares, makes known (3rd sg.)
+      2 သတ်မှတ်ဖော်ပြသည်   5-443 5-450
+      1 ပညတ်သည်   5-236
+#120 anāgāmi|0 [1 senses] MULTI_IN L=အနာဂါမိ (tag pi-4 anāgāmi|0)
+   tag: non-return, the third stage (compound member)
+     57 အနာဂါမိ   5-240 5-241 5-242 5-243 5-244
+      2 အနာဂါမ်   5-439 5-644
+#121 sakadāgāmi|0 [1 senses] MULTI_IN L=သကဒါဂါမိ (tag pi-4 sakadāgāmi|0)
+   tag: once-return, the second stage (compound member)
+     60 သကဒါဂါမိ   5-240 5-241 5-242 5-243 5-244
+      2 သကဒါဂါမ်   5-439 5-644
+#122 nirodho|0 [1 senses] MULTI_IN L=ချုပ်ငြိမ်းခြင်း (tag pi-4 nirodho|0)
+   tag: ending (nominative sg.)
+     16 ချုပ်ငြိမ်းခြင်း   5-247 5-248 5-249 5-250 5-261
+      4 ချုပ်သော   5-703 5-704 5-771 5-773
+#123 rāgo|0 [1 senses] MULTI_IN L=ရာဂ (tag pi-4 rāgo|0)
+   tag: lust, passion (nominative sg.)
+     55 ရာဂ   5-251 5-252 5-253 5-254 5-255
+      2 တပ်မက်မှု   5-675 5-685
+#124 uppāda|0 [2 senses] MULTI_NEW
+   tag: arising, origination (compound member), also in anuppādadhamma and uppādakkhaṇa
+      6 ဖြစ်ပေါ်တော့သော   5-260 5-310 5-315 5-319 5-323
+      2 ဖြစ်ခြင်း   5-335 5-366
+#125 bhāvito|0 [1 senses] MULTI_NEW
+   tag: cultivated (participle)
+     18 ပွားများပြီးသော   5-260 5-261 5-262 5-263 5-277
+      1 ပွားများထားသော   5-903
+#126 bojjhaṅgā bhāvitā|0 [1 senses] MULTI_NEW
+   tag: the enlightenment factors are cultivated (phrase)
+      8 ဗောဇ္ဈင်ကို ပွားများပြီးသော   5-311 5-312 5-315 5-316 5-319
+      3 ဗောဇ္ဈင်တို့ကို ပွားများပြီးသော   5-260 5-262 5-263
+#127 arahato bhāvito|0 [1 senses] MULTI_NEW
+   tag: cultivated by the arahant (phrase)
+      3 ရဟန္တာ … ပွားများပြီးသော   5-260 5-311 5-315
+      2 ပွားများပြီးသော … ရဟန္တာ   5-319 5-323
+#128 su|0 [1 senses] MULTI_IN L=ကောင်းစွာ (TAGDIFF pi-3 su|0)
+   tag: "well", intensifying prefix in subuddho, also good, in sugandha 'fragrant'
+      6 ကောင်းစွာ   5-261 5-262 5-277 5-311 5-343
+      1 မွှေးသော   5-522
+#129 kata|0 [1 senses] MULTI_IN L=ပြုခဲ့သော (tag pi-2 kata|0)
+   tag: done, accomplished (participle)
+      6 ပြုပြီးသော   5-261 5-262 5-273 5-277 5-311
+      1 ပြုခဲ့သော   5-783
+#130 saṅkiṇṇa|1 [2 senses] MULTI_NEW
+   tag: mingled, adulterated, in asaṅkiṇṇa (compound member)
+      1 ရောနှောခြင်း   5-296
+      1 ရောယှက်သော   5-480
+#131 pariññātaṃ|0 [1 senses] MULTI_NEW
+   tag: completely comprehended (participle)
+      7 ပိုင်းခြား သိပြီးသော   5-261 5-262 5-277 5-311 5-343
+      1 ပိုင်းခြား သိခြင်း   5-272
+#132 sacchikato|0 [1 senses] MULTI_NEW
+   tag: directly experienced (participle)
+     13 မျက်မှောက်ပြုပြီးသော   5-261 5-262 5-274 5-275 5-276
+      1 မျက်မှောက် ပြုရသေးသော   5-378
+#133 thero|0 [1 senses] MULTI_IN L=ထေရ် (tag pi-4 thero|0)
+   tag: senior monk (nominative sg.)
+      3 မထေရ်   5-264 5-389 5-423
+      1 ထေရ်   5-346
+#134 iṭṭhā|0 [1 senses] MULTI_IN L=လိုလားဖွယ်ကောင်းသော (tag pi-2 iṭṭhā|0)
+   tag: wished for, desired (nominative pl.)
+      2 လိုလားဖွယ် ကောင်းသော   5-512 5-514
+      0 နှစ်သက်ဖွယ်   
+      1 လိုလားဖွယ်ကောင်းသော   5-338
+#135 phassā|0 [1 senses] MULTI_IN L=တွေ့ထိမှု (tag pi-2 phassā|0)
+   tag: contacts, the meetings of sense and object (nominative pl.)
+      2 တွေ့ထိမှု   5-458 5-742
+      1 အတွေ့   5-266
+#136 paṭicca uppajjati|0 [1 senses] MULTI_NEW
+   tag: arises in dependence (phrase)
+      9 မှီ၍ … ဖြစ်ပေါ်သည်   5-463 5-465 5-467 5-469 5-577
+      1 မှီ၍ ဖြစ်ပေါ်သည်   5-268
+#137 ussineti|0 [1 senses] MULTI_NEW
+   tag: heaps up (3rd sg.)
+      2 စုပုံသည်   5-268 5-778
+      1 စုစည်းသည်   5-894
+#138 pariyuṭṭhito|0 [1 senses] MULTI_NEW
+   tag: overcome by an outburst (participle)
+      1 ထကြွခြင်းကို ခံရသော   5-268
+      0 ထကြွခြင်း ရှိသော   
+#139 visineti|0 [1 senses] MULTI_NEW
+   tag: disperses (3rd sg.)
+      2 ဖြန့်ကြဲသည်   5-268 5-778
+      1 ဖြန့်ကျက်သည်   5-894
+#140 ṭhito|0 [1 senses] MULTI_IN L=တည်နေသော (tag pi-4 ṭhito|0)
+   tag: established in, abiding in, in phale ṭhito 'established in the fruit' (nominative sg. participle)
+      5 တည်သော   5-333 5-344 5-372 5-896 5-907
+      3 တည်နေသော   5-268 5-778 5-894
+#141 apacinitvā|0 [1 senses] MULTI_NEW
+   tag: having dismantled, uprooted (absolutive)
+      2 ဖြိုဖျက်၍   5-268 5-778
+      1 ဖျက်ဆီး၍   5-894
+#142 niyāmaṃ|0 [1 senses] MULTI_IN L=သေချာသော လမ်းကြောင်း (tag pi-4 niyāmaṃ|0)
+   tag: the fixed course, certainty of rightness, in sammattaniyāma (accusative sg.)
+      4 သေချာသော လမ်းကြောင်း   5-660 5-661 5-662 5-685
+      1 သေချာသော လမ်း   5-269
+#143 okkamituṃ|0 [1 senses] MULTI_OUT_ABSENT L=သက်ဆင်းရန် (tag pi-4 okkamituṃ|0)
+   tag: to step into, to enter (infinitive)
+      1 သက်ဆင်းသည်   5-269
+      1 မသက်ဆင်းနိုင်   5-661
+#144 niyāmaṃ okkamituṃ|0 [1 senses] MULTI_NEW
+   tag: to step into the certainty of destiny (phrase, also a chapter title)
+      1 သေချာသော လမ်းသို့ သက်ဆင်းသည်   5-269
+      1 သေချာသော လမ်းကြောင်းသို့ မသက်ဆင်းနိုင်   5-661
+#145 mātu|0 [1 senses] MULTI_NEW
+   tag: of the female parent, in mātughātaka (stem or genitive)
+      8 အမိ   5-269 5-334 5-350 5-546 5-691
+      1 မယ်တော်   5-401
+#146 attamanā|0 [1 senses] MULTI_OUT_ABSENT L=စိတ်ကျေနပ်သည် (tag pi-2 attamanā|0)
+   tag: glad, satisfied (nominative pl.)
+      1 နှစ်သက်သော   5-269
+      1 ဝမ်းမြောက်သည်   5-401
+#147 uppajjanti|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်သည် (tag pi-2 uppajjanti|0)
+   tag: they arise, come into being (3rd pl. present)
+     10 ဖြစ်ပေါ်သည်   5-353 5-493 5-511 5-550 5-571
+      1 ပေါ်ပေါက်သည်   5-270
+#148 uppannaṃ|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်ပြီးသော (tag pi-2 uppannaṃ|0)
+   tag: come into being (neuter sg. participle)
+      1 ပေါ်ပေါက်ခဲ့သော   5-270
+      1 ဖြစ်ပေါ်ပြီးသော   5-640
+#149 sambuddhā uppajjanti|0 [1 senses] MULTI_NEW
+   tag: self-awakened ones appear in the world (phrase)
+      1 အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်တို့ ပေါ်ပေါက်သည်   5-270
+      1 အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင် … ပွင့်သည်   5-511
+#150 dhāreti|0 [1 senses] MULTI_IN L=ဝတ်သည် (TAGDIFF pi-4 dhāreti|0)
+   tag: puts on (3rd sg. present), also bears, carries
+      1 ဝတ်သည်   5-270
+      1 ဆောင်သည်   5-886
+#151 sāvaka|0 [1 senses] MULTI_IN L=တပည့် (tag pi-4 sāvaka|0)
+   tag: hearer, pupil (compound member)
+      5 တပည့်   5-270 5-354 5-355 5-356 5-886
+      1 သာဝက   5-511
+#152 sammāsambuddhā|0 [1 senses] MULTI_IN L=အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင် (tag pi-2 sammāsambuddhā|0)
+   tag: perfectly self-awakened Buddhas (nominative pl.)
+      1 အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်   5-270
+      1 အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား   5-511
+#153 abhisambuddho|0 [1 senses] MULTI_NEW
+   tag: awakened fully by himself (nominative participle)
+      1 ဘုရား ဖြစ်တော်မူသော   5-270
+      1 အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော   5-802
+#154 pabbajati|0 [1 senses] MULTI_NEW
+   tag: renounces the household life (3rd sg. present)
+      1 ရဟန်းပြုသည်   5-270
+      1 ရဟန်း ပြုသည်   5-402
+#155 pavattitaṃ|0 [1 senses] MULTI_NEW
+   tag: set in motion, turned (participle)
+      1 လည်စေတော်မူသော   5-270
+      1 လည်စေတော်မူခဲ့သော   5-802
+#156 yugaṃ|0 [1 senses] MULTI_NEW
+   tag: a couple, twosome (accusative)
+      2 အစုံ   5-270 5-886
+      1 နှစ်ပါး   5-511
+#157 sāvakayugaṃ|0 [1 senses] MULTI_NEW
+   tag: the two foremost disciples (accusative)
+      2 တပည့် အစုံ   5-270 5-886
+      1 အဂ္ဂသာဝက နှစ်ပါး   5-511
+#158 paccekasambuddhā uppajjanti|0 [1 senses] MULTI_NEW
+   tag: privately awakened ones appear (phrase)
+      1 ပစ္စေကဗုဒ္ဓါတို့ ပေါ်ပေါက်သည်   5-270
+      1 ပစ္စေကဗုဒ္ဓါ … ပွင့်သည်   5-511
+#159 cakkaṃ|0 [1 senses] MULTI_IN L=တရားစက် (tag pi-2 cakkaṃ|0)
+   tag: wheel, in brahmacakkaṃ 'the excellent wheel' (accusative sg.)
+      2 စကြာ   5-270 5-802
+      1 တရားစက်   5-405
+#160 paṭivedho|0 [1 senses] MULTI_OUT_ABSENT L=ထိုးဖောက်၍ သိခြင်း (tag pi-4 paṭivedho|0)
+   tag: piercing through (nominative)
+      1 ထိုးထွင်း သိမြင်ခြင်း   5-272
+      1 ထိုးထွင်း သိခြင်း   5-346
+#161 aṭṭhena|0 [1 senses] MULTI_NEW
+   tag: by way of meaning, 'in the sense of' (instrumental)
+      5 အနက်   5-789 5-887 5-888 5-890 5-891
+      1 အကြောင်း   5-272
+#162 pahīyanti|0 [1 senses] MULTI_OUT_ABSENT L=ပျောက်ကင်းသည် (tag pi-2 pahīyanti|0)
+   tag: are abandoned, fall away (3rd pl. passive)
+      7 ပယ်သည်   5-273 5-321 5-325 5-413 5-414
+      1 ပယ်ခံရသည်   5-547
+#163 arahatta|0 [1 senses] MULTI_IN L=ရဟန္တာ (tag pi-4 arahatta|0)
+   tag: arahantship, the state of an arahant (compound member)
+     26 ရဟန္တာ   5-339 5-348 5-357 5-372 5-391
+     16 ရဟန္တာ အဖြစ်   5-273 5-277 5-343 5-366 5-416
+#164 maggaṃ bhāveti|0 [1 senses] MULTI_OUT_ABSENT L=လမ်းကို ပွားများသည် (tag pi-2 maggaṃ bhāveti|0)
+   tag: 'develops the path', in the jhāna and path formulas (phrase)
+     10 မဂ်ကို ပွားများသည်   5-290 5-339 5-390 5-398 5-435
+      1 မဂ် … ပွားများသည်   5-273
+#165 Arahattasacchikiriyāya|0 [1 senses] MULTI_NEW
+   tag: for experiencing the state of a worthy one (dative compound)
+      6 ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်   5-406 5-407 5-408 5-412 5-419
+      1 ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်   5-343
+#166 sakkāyadiṭṭhiṃ jahati|0 [1 senses] MULTI_NEW
+   tag: gives up the personality view (phrase)
+      3 ကိုယ်ကို အတ္တဟု ယူဆသော အယူ … စွန့်ပယ်သည်   5-280 5-281 5-810
+      0 ကိုယ်ကို အတ္တဟု ယူဆသော အယူကို စွန့်ပယ်သည်   
+#167 kilese jahati|0 [1 senses] MULTI_NEW
+   tag: gives up the corruptions (phrase)
+      4 ကိလေသာ … စွန့်ပယ်သည်   5-274 5-275 5-276 5-278
+      2 ကိလေသာတို့ကို စွန့်ပယ်သည်   5-665 5-668
+#168 phusitvā viharati|0 [1 senses] MULTI_NEW
+   tag: abides having contacted (phrase)
+     11 ထိ၍ နေသည်   5-274 5-275 5-276 5-277 5-340
+      1 ထိ၍ … နေသည်   5-422
+#169 upasampajja|0 [1 senses] MULTI_IN L=ဝင်စား၍ (tag pi-4 upasampajja|0)
+   tag: having entered upon, having attained (absolutive)
+     10 ပြည့်စုံစွာ ဝင်ရောက်၍   5-274 5-275 5-276 5-277 5-340
+      3 ပြည့်စုံစေ၍   5-421 5-422 5-486
+      3 ဝင်စား၍   5-673 5-816 5-879
+#170 paṭiladdho|0 [1 senses] MULTI_NEW
+   tag: acquired (nominative participle)
+     10 ရရှိပြီးသော   5-274 5-275 5-276 5-277 5-340
+      2 ရသော   5-338 5-378
+#171 samudaya|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်ခြင်း (tag pi-4 samudaya|0)
+   tag: origin, arising of suffering, the second truth (compound member)
+     13 ဖြစ်ပေါ်ခြင်း   5-274 5-275 5-276 5-317 5-321
+      1 ဖြစ်ပေါ်တတ်သော   5-278
+#172 oḷārikaṃ kāmarāgaṃ jahati|0 [1 senses] MULTI_NEW
+   tag: gives up coarse sensual lust (phrase)
+      2 ရုန့်ရင်းသော ကာမရာဂ … စွန့်ပယ်သည်   5-281 5-810
+      0 ရုန့်ရင်းသော ကာမရာဂကို စွန့်ပယ်သည်   
+#173 abhabbo|0 [1 senses] MULTI_NEW
+   tag: unfit, cannot (nominative sg.)
+      3 မထိုက်တန်   5-317 5-321 5-325
+      1 မစွမ်းနိုင်   5-278
+#174 virajaṃ|0 [1 senses] MULTI_NEW
+   tag: free of dust, of the Dhamma eye (accusative)
+      4 မြူမှုန် ကင်းသော   5-317 5-321 5-325 5-346
+      1 မြူ ကင်းသော   5-278
+#175 dassana|0 [1 senses] MULTI_IN L=သိမြင်သော (tag pi-4 dassana|0)
+   tag: seeing, vision, in vimuttiñāṇadassana (compound member)
+      6 အမြင်   5-278 5-317 5-321 5-325 5-346
+      1 သိမြင်သော   5-885
+#176 kiñci|0 [1 senses] MULTI_NEW
+   tag: anything at all (indefinite pronoun)
+      3 တစ်စုံတစ်ရာ   5-278 5-317 5-346
+      2 မှန်သမျှ   5-321 5-325
+#177 Arahatte|0 [1 senses] MULTI_NEW
+   tag: in the state of a worthy one (locative)
+      1 ရဟန္တာ အဖြစ်   5-280
+      0 ရဟန္တာ ဖိုလ်   
+#178 jātiyā|1 [2 senses] MULTI_NEW
+   tag: birth, being born, as a link of dependent origination, in jātiyā ñāṇaṃ (locative), here also rebirth
+      1 မွေးဖွားခြင်း   5-281
+      1 ပဋိသန္ဓေ နေခြင်း   5-338
+#179 khīṇā|0 [1 senses] MULTI_NEW
+   tag: exhausted, ended (nominative participle)
+      1 ကုန်သော   5-281
+      1 ကုန်ခန်းပြီးသော   5-355
+#180 abhiññāya|0 [1 senses] MULTI_IN L=ထူးကဲစွာ သိခြင်း (tag pi-2 abhiññāya|0)
+   tag: for direct knowledge (dative)
+      2 ထူးကဲစွာ သိခြင်း   5-281 5-405
+      1 ထူးကဲစွာ သိ၍   5-806
+#181 vimuttiyā|0 [1 senses] MULTI_NEW
+   tag: of release (genitive or instrumental)
+      1 လွတ်မြောက်မှု   5-281
+      1 လွတ်မြောက်ခြင်း   5-355
+#182 akkhāsi|0 [1 senses] MULTI_NEW
+   tag: declared, made known (aorist)
+      1 ဟောကြားတော်မူသည်   5-281
+      1 ဟောကြားတော်မူခဲ့သည်   5-374
+#183 katvā|1 [2 senses] MULTI_NEW
+   tag: treating as, on the ground that, in the idiom iti katvā (absolutive)
+      6 အကြောင်းပြု၍   5-299 5-300 5-370 5-386 5-476
+      1 မှတ်ယူ၍   5-282
+#184 sañjātaṃ|0 [1 senses] MULTI_NEW
+   tag: come to birth, arisen (participle)
+      3 ဖြစ်ပေါ်သော   5-283 5-284 5-568
+      1 ကောင်းစွာ မွေးဖွားပြီးသော   5-300
+      1 ပေါ်ပေါက်သော   5-829
+#185 jātaṃ|0 [1 senses] MULTI_IN L=မွေးဖွားပြီးသော (tag pi-2 jātaṃ|0)
+   tag: born, come to be, also in sahajātaṃ 'born together' (neuter sg. participle)
+      7 ဖြစ်ပေါ်သော   5-283 5-284 5-296 5-566 5-768
+      4 ပေါ်ပေါက်သော   5-363 5-364 5-365 5-740
+      1 မွေးဖွားပြီးသော   5-300
+#186 niruddhaṃ|0 [1 senses] MULTI_IN L=ချုပ်ငြိမ်းပြီးသော (tag pi-2 niruddhaṃ|0)
+   tag: stopped, ended (neuter sg. participle)
+      6 ချုပ်ငြိမ်းပြီးသော   5-283 5-284 5-296 5-299 5-568
+      1 ချုပ်ငြိမ်းပြီး   5-820
+#187 abbhatthaṅgataṃ|0 [1 senses] MULTI_IN L=လုံးဝ ကွယ်ပျောက်ပြီးသော (tag pi-2 abbhatthaṅgataṃ|0)
+   tag: gone down entirely, vanished (neuter sg. participle)
+      3 လုံးဝ ကွယ်ပြီးသော   5-283 5-284 5-568
+      2 လုံးဝ ကွယ်ပျောက်ပြီးသော   5-299 5-828
+#188 vigataṃ|0 [1 senses] MULTI_IN L=ကင်းပျောက်ပြီးသော (tag pi-2 vigataṃ|0)
+   tag: departed, gone away (neuter sg. participle)
+      4 ကင်းကွာပြီးသော   5-283 5-284 5-296 5-568
+      2 ကင်းပျောက်ပြီးသော   5-299 5-828
+#189 pātubhūtaṃ|0 [1 senses] MULTI_IN L=ထင်ရှားလာပြီးသော (tag pi-2 pātubhūtaṃ|0)
+   tag: become manifest, appeared (neuter sg. participle)
+      5 ထင်ရှား ပေါ်ပေါက်သော   5-283 5-284 5-296 5-568 5-829
+      1 ထင်ရှားလာပြီးသော   5-300
+#190 atītaṃ niruddhaṃ|0 [1 senses] MULTI_NEW
+   tag: the bygone has ended (phrase)
+      3 အတိတ်သည် ချုပ်ငြိမ်းပြီးသော   5-283 5-568 5-625
+      1 အတိတ် ချုပ်ငြိမ်းပြီးသော   5-828
+#191 nibbattaṃ|0 [1 senses] MULTI_IN L=ပေါ်ထွက်ပြီးသော (tag pi-2 nibbattaṃ|0)
+   tag: produced, brought into being (neuter sg. participle)
+      3 ဖြစ်မြောက်သော   5-283 5-284 5-568
+      1 ပေါ်ထွက်ပြီးသော   5-300
+      1 ဖြစ်ထွန်းသော   5-829
+#192 ajātaṃ|0 [1 senses] MULTI_NEW
+   tag: not yet come to birth (participle)
+      5 မဖြစ်သေးသော   5-283 5-284 5-296 5-568 5-625
+      1 မမွေးဖွားသေးသော   5-300
+#193 atthaṅgataṃ|0 [1 senses] MULTI_NEW
+   tag: gone down, disappeared (participle)
+      3 ကွယ်ပြီးသော   5-283 5-284 5-568
+      2 ကွယ်ပျောက်ပြီးသော   5-299 5-828
+#194 niccaṃ|0 [2 senses] MULTI_NEW
+   tag: lasting, permanent (nominative or accusative)
+      4 မြဲသော   5-286 5-287 5-424 5-425
+      1 မြဲ   5-622
+#195 nirodhaṃ|0 [1 senses] MULTI_IN L=ချုပ်ငြိမ်းခြင်း (tag pi-2 nirodhaṃ|0)
+   tag: cessation, ending (accusative sg.)
+     11 ချုပ်ငြိမ်းခြင်း   5-290 5-333 5-344 5-346 5-390
+      3 ချုပ်ငြိမ်းရာ ဈာန်   5-732 5-733 5-825
+      2 ချုပ်သော   5-768 5-769
+#196 atīto moho|0 [1 senses] MULTI_NEW
+   tag: bygone bewilderment (phrase)
+      1 အတိတ် မောဟ   5-291
+      1 အတိတ် … မောဟ   5-292
+#197 sādhāraṇo|0 [1 senses] MULTI_NEW
+   tag: common to others (nominative)
+      1 ဆက်ဆံရသော   5-293
+      1 ဆက်ဆံသော   5-391
+#198 nandī|0 [1 senses] MULTI_OUT L=နှစ်သက်သော (tag pi-4 nandī|0)
+   tag: delight, enjoyment as craving (nominative sg. and compound member), also delighting in concord, in samagganandī (compound final)
+      2 နှစ်သက်မှု   5-679 5-684
+      1 ပျော်မွေ့မှု   5-296
+#199 pubbe|0 [1 senses] MULTI_NEW
+   tag: earlier, previously (adverb)
+      1 ရှေး   5-296
+      1 ရှေးဦးစွာ   5-874
+#200 paṇītaṃ|0 [1 senses] MULTI_IN L=မွန်မြတ်သော (tag pi-2 paṇītaṃ|0)
+   tag: superior, refined (neuter sg.)
+      2 မွန်မြတ်သော   5-296 5-298
+      1 မြတ်ခြင်း   5-477
+#201 Yaṃ kiñci|0 [1 senses] MULTI_IN L=မည်သည့် … မဆို (tag pi-2 Yaṃ kiñci|0)
+   tag: anything at all, whatever (relative-indefinite pronoun, neuter)
+      5 မှန်သမျှ   5-418 5-528 5-532 5-533 5-534
+      0 မည်သည့် … မဆို   
+      0 အကြင်   
+      0 ဟူသမျှ   
+#202 pātubhāvo|0 [1 senses] MULTI_IN L=ထင်ရှား လာခြင်း (tag pi-2 pātubhāvo|0)
+   tag: appearance, becoming manifest (nominative sg.)
+      1 ထင်ရှား လာခြင်း   5-303
+      1 ထင်ရှား ဖြစ်ပေါ်ခြင်း   5-906
+#203 paṭilabhanti|0 [1 senses] MULTI_NEW
+   tag: acquire, gain (3rd pl. present)
+      3 ရရှိသည်   5-303 5-445 5-457
+      1 ရသည်   5-489
+#204 visuddhiyā|0 [1 senses] MULTI_OUT L=စင်ကြယ်ခြင်း (tag pi-2 visuddhiyā|0)
+   tag: of purification, purity (genitive sg.)
+      2 စင်ကြယ်သော   5-378 5-753
+      1 စင်ကြယ်ရန်   5-303
+#205 asuci|0 [1 senses] MULTI_OUT_ABSENT L=စင်ကြယ်မှု မရှိသော (TAGDIFF pi-4 asuci|0)
+   tag: unclean (compound member), here the bodily impurity, semen, in asuci sukkavissaṭṭhi
+      6 မစင်ကြယ်သော   5-307 5-309 5-310 5-311 5-312
+      4 မစင်ကြယ်သော သုက်ထွက်ခြင်း   5-535 5-536 5-537 5-538
+      1 မစင်ကြယ်သော သုက်   5-901
+#206 sikkhāya|0 [1 senses] MULTI_IN L=ကျင့်စဉ် (tag pi-2 sikkhāya|0)
+   tag: about the training, the course of practice (locative)
+      4 ကျင့်စဉ်   5-308 5-314 5-318 5-322
+      1 သိက္ခာ   5-648
+#207 uppādeyya|0 [1 senses] MULTI_IN L=ထွက်စေသည် (TAGDIFF pi-2 uppādeyya|0)
+   tag: would cause, as in shedding the Buddha's blood (optative), also would bring about, in methunaṃ uppādeyya
+      2 ဖြစ်စေသည်   5-310 5-387
+      1 ထွက်စေသည်   5-648
+#208 vilepanaṃ|0 [1 senses] MULTI_NEW
+   tag: unguent, cosmetic (accusative)
+      5 နံ့သာပျောင်း   5-310 5-387 5-658 5-779 5-901
+      1 နံ့သာ လိမ်းဖွယ်   5-481
+#209 sacchikataṃ|0 [1 senses] MULTI_NEW
+   tag: directly experienced (participle)
+      8 မျက်မှောက်ပြုပြီးသော   5-312 5-315 5-316 5-319 5-320
+      1 မျက်မှောက် ပြုဖူးသော   5-812
+#210 arahattaṃ|0 [1 senses] MULTI_NEW
+   tag: the state of a worthy one (accusative)
+      4 ရဟန္တာ အဖြစ်   5-387 5-390 5-413 5-417
+      3 ရဟန္တာ ဖိုလ်   5-313 5-317 5-325
+#211 Aṭṭhānaṃ|0 [1 senses] MULTI_IN L=မဖြစ်နိုင်သော အကြောင်း (tag pi-4 Aṭṭhānaṃ|0)
+   tag: there is no possibility (opening formula)
+      1 အကြောင်း မဟုတ်   5-313
+      0 မဖြစ်နိုင်သော အကြောင်း   
+#212 paripanthe|0 [1 senses] MULTI_NEW
+   tag: on the road, waylaying (locative)
+      4 လမ်း   5-784 5-901 5-908 5-909
+      1 လမ်းခရီး   5-314
+#213 pāṇaṃ|0 [1 senses] MULTI_NEW
+   tag: a breathing creature (accusative)
+      7 သတ္တဝါ   5-501 5-648 5-649 5-653 5-857
+      2 သူ့အသက်   5-314 5-784
+#214 chindeyya|0 [1 senses] MULTI_NEW
+   tag: would break into (optative)
+      2 ဖောက်ထွင်းသည်   5-784 5-901
+      1 ဖောက်သည်   5-314
+#215 hareyya|0 [1 senses] MULTI_NEW
+   tag: would carry off, in nillopaṃ hareyya 'carry off plunder' (optative)
+      1 လုယူသည်   5-314
+      1 တိုက်သည်   5-784
+#216 pisuṇaṃ|0 [1 senses] MULTI_IN L=ကုန်းတိုက်သော စကား (tag pi-4 pisuṇaṃ|0)
+   tag: slanderous (accusative)
+      3 ကုန်းချောစကား   5-901 5-908 5-909
+      2 ကုန်းတိုက်သော စကား   5-314 5-784
+#217 samphaṃ|0 [1 senses] MULTI_NEW
+   tag: frivolously (adverbial accusative)
+      3 အကျိုးမဲ့ စကား   5-901 5-908 5-909
+      1 အကျိုးမဲ့   5-314
+      1 အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား   5-784
+#218 tiṭṭheyya|1 [2 senses] MULTI_NEW
+   tag: would take up position, of an ambush, in paripanthe tiṭṭheyya (optative)
+      2 ဓားပြ တိုက်သည်   5-314 5-901
+      1 စောင့်ဆိုင်းလုယက်သည်   5-784
+#219 nillopaṃ|0 [1 senses] MULTI_NEW
+   tag: pillage (accusative)
+      3 လုယက်   5-901 5-908 5-909
+      1 ဥစ္စာ   5-314
+      1 ဓားပြ   5-784
+#220 bhabbo|0 [1 senses] MULTI_NEW
+   tag: fit, having the potential (nominative sg.)
+      3 ထိုက်တန်သော   5-317 5-321 5-325
+      1 သိနိုင်သော   5-431
+#221 ñāṇa niṭṭhitā|0 [1 senses] MULTI_NEW
+   tag: the discussion of understanding is ended (heading phrase)
+      1 သိခြင်း … ပြီးဆုံးသော   5-317
+      1 ဉာဏ် … ပြီးဆုံးသော   5-435
+#222 cariyaṃ|0 [1 senses] MULTI_IN L=အကျင့် (tag pi-4 cariyaṃ|0)
+   tag: course of life, way of living, in bhikkhācariyaṃ (accusative sg.)
+      1 အကျင့်   5-788
+      1 ကျင့်ဝတ်   5-321
+#223 jānāti|0 [1 senses] MULTI_IN L=သိသည် (tag pi-4 jānāti|0)
+   tag: knows, understands (3rd sg. present)
+     10 သိသည်   5-322 5-355 5-378 5-421 5-422
+      1 သိတော်မူသည်   5-431
+#224 samāpannassa|0 [1 senses] MULTI_OUT L=ဈာန် ဝင်စားသော (tag pi-2 samāpannassa|0)
+   tag: of one who has entered a meditative attainment (genitive sg.)
+      7 သမာပတ်ကို ဝင်စားနေသော   5-329 5-332 5-333 5-424 5-425
+      6 ဝင်စားနေသော   5-330 5-331 5-541 5-542 5-735
+      2 ဝင်စားသော   5-426 5-427
+#225 samāpattiṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered an attainment (genitive phrase)
+      4 သမာပတ် … သမာပတ်ကို ဝင်စားနေသော   5-424 5-425 5-432 5-434
+      1 ဈာန် … သမာပတ်ကို ဝင်စားနေသော   5-329
+      1 သမာပတ်ကို ဝင်စားသော   5-426
+      1 သမာပတ် … ဝင်စားသော   5-427
+#226 nevasaññānāsaññāyatanaṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered the sphere of neither perception nor non-perception (phrase)
+      1 မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော   5-329
+      1 သမာပတ်ကို ဝင်စားနေသော … မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်   5-432
+#227 catutthaṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered the fourth (phrase)
+      1 စတုတ္ထ ဈာန် … သမာပတ်ကို ဝင်စားနေသော   5-329
+      1 သမာပတ်ကို ဝင်စားနေသော … စတုတ္ထ ဈာန်   5-333
+#228 samuṭṭhānā|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်လာသော (tag pi-3 samuṭṭhānā|0)
+   tag: originated, produced from (compound final, nominative pl.)
+      1 ဖြစ်ပေါ်သော   5-332
+      1 ဖြစ်ပေါ်လာသော   5-564
+#229 saññāvedayitanirodhaṃ|0 [1 senses] MULTI_NEW
+   tag: the stopping of perception and feeling (accusative)
+      1 မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်   5-825
+      1 မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း   5-333
+#230 ākāsānañcāyatanaṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered the sphere of endless space (phrase)
+      1 အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော   5-333
+      1 အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်ကို ဝင်စားနေသော   5-825
+#231 saññāvedayitanirodhaṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered the stopping of perception and feeling (phrase)
+      1 မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော   5-333
+      1 မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော   5-825
+#232 uppajjitvā|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်ပြီး (tag pi-2 uppajjitvā|0)
+   tag: having arisen (absolutive)
+      2 ဖြစ်ပေါ်ပြီး   5-594 5-597
+      1 ဖြစ်ပေါ်၍   5-335
+#233 khaṇo|0 [1 senses] MULTI_NEW
+   tag: an instant (nominative)
+      2 ခဏ   5-335 5-742
+      1 အခါ   5-338
+#234 soḷasa sahassāni|0 [1 senses] MULTI_NEW
+   tag: 16,000 (numeral phrase)
+      1 ဆယ့်ခြောက် … နှစ်သောင်း   5-335
+      1 နှစ်သောင်း … ဆယ့်ခြောက်   5-337
+#235 viloketi|0 [1 senses] MULTI_OUT_ABSENT L=ပတ်ဝန်းကျင်ကို ကြည့်သည် (tag pi-4 viloketi|0)
+   tag: looks around, looks aside (3rd sg. present)
+      1 ဘေးသို့ ကြည့်သည်   5-336
+      1 ကြည့်သည်   5-401
+      1 ဝေ့ဝဲ ကြည့်သည်   5-852
+#236 phoṭṭhabbaṃ|0 [1 senses] MULTI_IN L=အထိအတွေ့ (tag pi-4 phoṭṭhabbaṃ|0)
+   tag: tangible object, what is touched (accusative sg.)
+     12 အထိအတွေ့   5-336 5-338 5-578 5-579 5-582
+      1 အတွေ့အထိ   5-397
+#237 manāpā|0 [1 senses] MULTI_OUT_ABSENT L=စိတ်တွေ့သော (tag pi-4 manāpā|0)
+   tag: pleasing, delightful to the mind (feminine sg.)
+      2 နှစ်သက်ဖွယ် ကောင်းသော   5-512 5-514
+      1 စိတ်နှင့် တွေ့သော   5-338
+#238 amanāpa|0 [1 senses] MULTI_NEW
+   tag: unpleasing (compound member)
+      1 စိတ်နှင့် မတွေ့ဖွယ်   5-338
+      1 မနှစ်သက်ဖွယ်   5-903
+#239 rajanīyā|0 [1 senses] MULTI_NEW
+   tag: arousing lust (nominative pl.)
+      2 တပ်မက်ဖွယ် ကောင်းသော   5-512 5-514
+      1 တပ်မက်ဖွယ်ကောင်းသော   5-338
+#240 dānaṃ|0 [1 senses] MULTI_IN L=ပေးလှူခြင်း (tag-ci pi-2 Dānaṃ|0)
+   tag: giving, generosity, a gift (nominative/accusative sg.)
+     13 အလှူ   5-432 5-484 5-485 5-487 5-489
+      5 ပေးလှူခြင်း   5-478 5-480 5-481 5-482 5-502
+      3 ဒါန   5-658 5-779 5-784
+#241 pītikaṃ|0 [1 senses] MULTI_NEW
+   tag: rapturous, with zest (adjective)
+      1 ပီတိ   5-338
+      1 ပီတိ ရှိသော   5-814
+#242 kantā|0 [1 senses] MULTI_OUT L=နှစ်သက်သော (tag pi-4 kantā|0)
+   tag: liked, agreeable speech (feminine sg.)
+      2 ချစ်ခင်ဖွယ် ကောင်းသော   5-512 5-514
+      1 ချစ်ခင်ဖွယ်ကောင်းသော   5-338
+#243 viveka|0 [1 senses] MULTI_IN L=ကင်းဆိတ်ခြင်း (tag pi-4 viveka|0)
+   tag: seclusion, detachment (compound member)
+      1 ဆိတ်ငြိမ်ခြင်း   5-338
+      1 ကင်းဆိတ်ခြင်း   5-458
+#244 tena|0 [1 senses] MULTI_IN L=ထို့ကြောင့် (TAGDIFF pi-2 Tena|0)
+   tag: therefore, for that reason, in tena vuccati (instrumental pronoun), also 'if so, then', in tena hi
+      1 ထို့ကြောင့်   5-338
+      1 သို့ဖြစ်လျှင်   5-367
+#245 sikkhā|0 [1 senses] MULTI_IN L=သိက္ခာ (tag pi-4 sikkhā|0)
+   tag: training, the course of discipline (stem and nominative)
+      1 ကျင့်ခြင်း   5-346
+      1 သိက္ခာ   5-649
+#246 voharati|0 [1 senses] MULTI_NEW
+   tag: expresses, talks about (3rd sg. present)
+      2 ပြောဆို သုံးနှုန်းသည်   5-351 5-352
+      2 သုံးနှုန်းပြောသည်   5-564 5-565
+#247 hīna|0 [1 senses] MULTI_IN L=ယုတ်ညံ့သော (tag pi-4 hīna|0)
+   tag: low (compound member)
+      9 ယုတ်ညံ့သော   5-485 5-599 5-603 5-665 5-666
+      6 ယုတ်ခြင်း   5-353 5-445 5-448 5-452 5-885
+      1 ယုတ်လျော့သော   5-371
+      1 ချို့ယွင်းသော   5-691
+#248 akkhātā|0 [1 senses] MULTI_IN L=ပြောကြားသော (tag pi-4 akkhātā|0)
+   tag: one who reports (agent noun)
+      1 ပြောကြားသော   5-354
+      1 ဟောကြားသူ   5-443
+#249 vidū|0 [1 senses] MULTI_OUT_ABSENT L=သိတော်မူသော (tag pi-4 vidū|0)
+   tag: one who knows (compound end)
+      2 နားလည်သော   5-354 5-443
+      1 သိသော   5-405
+#250 cuti|0 [1 senses] MULTI_IN L=သေခြင်း (tag pi-4 cuti|0)
+   tag: passing away, death, in cutūpapātañāṇa (compound member)
+      5 သေခြင်း   5-355 5-356 5-360 5-361 5-362
+      1 စုတေ   5-383
+      1 စုတိ   5-390
+#251 vuṭṭhānaṃ|0 [1 senses] MULTI_IN L=ထမြောက်ခြင်း (tag pi-2 vuṭṭhānaṃ|0)
+   tag: emergence from an attainment (accusative sg.)
+      2 ထမြောက်ခြင်း   5-355 5-458
+      1 ထမြောက်ရန်   5-659
+#252 manasi karoti|0 [1 senses] MULTI_IN L=နှလုံး သွင်းသည် (tag pi-4 manasi karoti|0)
+   tag: attends to, gives attention (3rd sg. present)
+      6 နှလုံး သွင်းသည်   5-547 5-749 5-750 5-751 5-752
+      3 နှလုံး … ပြုသည်   5-357 5-360 5-377
+#253 cittaṃ vimuccati|0 [1 senses] MULTI_NEW
+   tag: the mind is freed (phrase)
+      3 စိတ်သည် လွတ်မြောက်သည်   5-363 5-364 5-365
+      3 စိတ် … လွတ်မြောက်သည်   5-367 5-667 5-670
+#254 sarāgaṃ cittaṃ|0 [1 senses] MULTI_NEW
+   tag: mind accompanied by lust (phrase)
+      3 ရာဂ ရှိသော စိတ်   5-386 5-436 5-702
+      0 ရာဂ ရှိသော … စိတ်   
+#255 vimuttaṃ|0 [1 senses] MULTI_IN L=လွတ်မြောက်သော (tag pi-2 vimuttaṃ|0)
+   tag: freed, released, of the mind (neuter sg. participle)
+      4 လွတ်မြောက်ပြီးသော   5-418 5-419 5-420 5-444
+      2 လွတ်မြောက်သော   5-367 5-436
+#256 kataṃ|0 [1 senses] MULTI_IN L=ပြုသော (tag pi-4 kataṃ|0)
+   tag: done, performed (neuter sg. participle)
+      4 ပြုသော   5-367 5-491 5-743 5-745
+      1 ပြုလုပ်ချက်   5-443
+#257 puggalassa saddhā|0 [1 senses] MULTI_NEW
+   tag: the individual's confidence (phrase)
+      1 ပုဂ္ဂိုလ်သည် ယုံကြည်မှု   5-371
+      1 ပုဂ္ဂိုလ်၌ ယုံကြည်မှု   5-372
+#258 puggalassa paññā|0 [1 senses] MULTI_NEW
+   tag: the individual's discernment (phrase)
+      1 ပုဂ္ဂိုလ်သည် ပညာ   5-371
+      1 ပုဂ္ဂိုလ်၌ ပညာ   5-372
+#259 vadāmi|0 [1 senses] MULTI_NEW
+   tag: I say, I state (1st sg. present)
+      1 ဆိုသည်   5-372
+      1 ဟောသည်   5-707
+#260 vuttāni bhagavatā|0 [1 senses] MULTI_NEW
+   tag: stated by the Lord (phrase)
+      3 မြတ်စွာဘုရား ဟောတော်မူသည်   5-374 5-376 5-707
+      2 မြတ်စွာဘုရား … ဟောတော်မူသည်   5-789 5-795
+#261 uttamo|0 [1 senses] MULTI_IN L=အထွတ်အထိပ် (tag pi-4 uttamo|0)
+   tag: supreme (nominative)
+      1 အမြတ်ဆုံး   5-374
+      1 အထွတ်အထိပ်   5-799
+#262 anuttaraṃ|0 [1 senses] MULTI_IN L=ထိုထက် သာလွန်သည် မရှိသော (tag pi-2 anuttaraṃ|0)
+   tag: unsurpassable, having nothing higher (neuter sg.)
+      5 အမြတ်ဆုံး   5-374 5-791 5-793 5-797 5-800
+      1 ထိုထက် သာလွန်သည် မရှိသော   5-436
+#263 upagataṃ|0 [1 senses] MULTI_NEW
+   tag: gone to, reborn into (past participle)
+      2 ရောက်သော   5-377 5-378
+      1 ရောက်သွားသော   5-386
+#264 paṇidhi|0 [1 senses] MULTI_OUT_ABSENT L=စိတ်ညွှတ်ခြင်း (tag pi-2 paṇidhi|0)
+   tag: aspiration, setting the heart on, in the greed list (nominative sg.)
+     35 ဆုတောင်းခြင်း   5-492 5-495 5-527 5-532 5-533
+      1 ဆုတောင်းမှု   5-378
+#265 upapattiyā|0 [1 senses] MULTI_IN L=ဖြစ်ပေါ်ရန် (tag pi-1 upapattiyā|0)
+   tag: rebirth, for arising in a sphere (dative sg.)
+      4 ပြန်လည် ဖြစ်ပေါ်သော   5-388 5-389 5-390 5-417
+      1 ပြန်လည် ဖြစ်ပေါ်ခြင်း   5-378
+      1 ဖြစ်ပေါ်ရန်   5-742
+#266 yoni|0 [1 senses] MULTI_OUT L=ဘဝ (tag pi-2 yoni|0)
+   tag: kind of birth, in tiracchānayoni (compound final)
+     14 မွေးဖွားရာ အမျိုးအစား   5-381 5-382 5-384 5-385 5-455
+      1 မွေးဖွားရာ   5-503
+#267 uppādā|0 [1 senses] MULTI_OUT_ABSENT L=ဖြစ်ပေါ်မှု (tag pi-2 uppādā|0)
+   tag: arising, origination (nominative pl.)
+      4 ဖြစ်ပေါ်သော   5-473 5-475 5-501 5-564
+      1 ဖြစ်ပေါ်ခြင်း   5-383
+      0 ပွင့်ပေါ်သည်   
+#268 tittiravaṭṭakamorakapiñjaraṃ paṭiggaṇheyya|0 [1 senses] MULTI_NEW
+   tag: would receive game birds (phrase)
+      2 ခါ … ငှက်ကြီးတို့ကို ခံယူသည်   5-650 5-651
+      1 ခါ … ငှက်ကြီး … ခံယူသည်   5-387
+#269 seṭṭho|0 [1 senses] MULTI_OUT_ABSENT L=အကောင်းဆုံး (tag pi-4 seṭṭho|0)
+   tag: supreme (nominative)
+      2 အမြတ်ဆုံး   5-401 5-872
+      1 မြတ်သော   5-799
+#270 gacchati|1 [2 senses] MULTI_NEW
+   tag: comes under, is reckoned, in 'saṅkhyaṃ gacchati' (3rd sg. present), here also reaches a state, in bhāvanāpāripūriṃ gacchati
+      3 ရသည်   5-401 5-471 5-480
+      1 ရောက်သည်   5-874
+#271 Bodhisatto okkantaniyāmo|0 [1 senses] MULTI_NEW
+   tag: the bodhisatta had stepped onto the fixed course (phrase)
+      2 ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော   5-403 5-404
+      0 ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော   
+#272 niyāmo|0 [2 senses] MULTI_NEW
+   tag: certainty, the fixed course of rightness (nominative sg.)
+      5 သေချာသော လမ်း   5-403 5-404 5-405 5-417 5-447
+      1 သေချာသော လမ်းကြောင်း   5-918
+#273 okkanta|0 [1 senses] MULTI_NEW
+   tag: having stepped into (participle in compounds)
+      3 သက်ဆင်းပြီးသော   5-403 5-404 5-405
+      1 သက်ဆင်းသော   5-417
+#274 okkantaniyāmo|0 [1 senses] MULTI_NEW
+   tag: one who has stepped onto the fixed course (nominative sg.)
+      3 သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော   5-403 5-404 5-405
+      1 သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော   5-417
+#275 uddisi|0 [1 senses] MULTI_NEW
+   tag: pointed out, named as (3rd sg. aorist)
+      3 ကိုးကွယ်ခဲ့သည်   5-913 5-914 5-918
+      1 ညွှန်ပြခဲ့သည်   5-404
+#276 tapaṃ|0 [1 senses] MULTI_NEW
+   tag: ascetic practice (accusative sg.)
+      2 ပြင်းထန်သော အကျင့်   5-913 5-918
+      1 ခြိုးခြံသော အကျင့်   5-404
+#277 Bodhisatto akāsi|0 [1 senses] MULTI_NEW
+   tag: the bodhisatta performed (phrase)
+      1 ဘုရားလောင်း … ပြုခဲ့သည်   5-912
+      1 ဘုရားလောင်း … ကျင့်ခဲ့သည်   5-404
+#278 akāsi|0 [1 senses] MULTI_NEW
+   tag: did, performed (3rd sg. aorist)
+      2 ကျင့်ခဲ့သည်   5-404 5-913
+      2 ပြုခဲ့သည်   5-912 5-918
+#279 paṭipuggalo|0 [1 senses] MULTI_NEW
+   tag: a counterpart, an equal (nominative sg.)
+      1 ပြိုင်ဘက် ပုဂ္ဂိုလ်   5-405
+      1 ပြိုင်ဘက် ပုဂ္ဂိုလ် ရှိသော   5-799
+#280 saṃyojanā pahīyanti|0 [1 senses] MULTI_NEW
+   tag: the bonds are given up (phrase)
+      4 နှောင်ကြိုး … ပယ်သည်   5-413 5-414 5-415 5-416
+      1 နှောင်ကြိုးတို့ ပယ်ခံရသည်   5-547
+#281 samāpajjeyya|0 [1 senses] MULTI_NEW
+   tag: would go into an attainment (3rd sg. optative)
+      1 ဝင်စားနေသည်   5-426
+      1 ဝင်စားသည်   5-864
+#282 samāpajjantassa|0 [1 senses] MULTI_IN L=ဝင်စားသူ (tag pi-2 samāpajjantassa|0)
+   tag: of one entering an attainment (genitive sg. participle)
+      1 ဝင်စားသူ   5-427
+      1 ဝင်စားနေသော   5-458
+#283 abhisametuṃ|0 [1 senses] MULTI_NEW
+   tag: to penetrate, comprehend fully (infinitive)
+      1 ထိုးထွင်း သိနိုင်သော   5-431
+      1 ထိုးထွင်း သိမြင်ရန်   5-641
+      1 ထိုးထွင်း သိ၍   5-664
+#284 pattā|0 [1 senses] MULTI_NEW
+   tag: those who have reached (nominative pl. participle)
+      2 ရောက်ပြီးသော   5-744 5-746
+      1 ရောက်သော   5-432
+#285 pariyāye|1 [2 senses] MULTI_NEW
+   tag: another time or turn, in apare vā pariyāye (locative sg.)
+      1 အလှည့်   5-635
+      1 ဘဝအဆက်ဆက်   5-782
+#286 dadantassa|0 [1 senses] MULTI_NEW
+   tag: of one offering (genitive present participle)
+      1 ပေးနေသော   5-432
+      1 ပေးလှူနေသော   5-434
+      1 ပေးသော   5-603
+#287 ñāṇaṃ paṭisambhidā|0 [1 senses] MULTI_NEW
+   tag: knowing is a discrimination (phrase)
+      2 ဉာဏ် … ပိုင်းခြားသိသော ဉာဏ်   5-433 5-444
+      1 ဉာဏ်သည် ပိုင်းခြားသိသော ဉာဏ်   5-432
+#288 samanantara|0 [1 senses] MULTI_NEW
+   tag: immediately contiguous, a conditional relation (compound member)
+      1 ကောင်းစွာ ကြားမလပ်   5-439
+      1 ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း   5-717
+#289 vedeti|0 [1 senses] MULTI_NEW
+   tag: experiences a sensation (3rd sg. present)
+      3 ခံစားသည်   5-441 5-671 5-742
+      1 ခံစားရသည်   5-868
+#290 asaṅkhatāni|0 [1 senses] MULTI_NEW
+   tag: not made by conditions (nominative pl.)
+      9 ပြုပြင်ဖန်တီးထားခြင်း မရှိသော   5-445 5-446 5-448 5-451 5-452
+      7 ပြုပြင်ဖန်တီးထားခြင်း မရှိသော အရာ   5-835 5-836 5-837 5-838 5-839
+#291 ṭhitā|0 [1 senses] MULTI_OUT_ABSENT L=တည်နေသော (tag pi-4 ṭhitā|0)
+   tag: standing firm, settled (nominative pl. participle)
+      1 တည်သော   5-450
+      1 တည်ပြီးသော   5-798
+#292 saccāni asaṅkhatāni|0 [1 senses] MULTI_NEW
+   tag: the truths are not made by conditions (phrase)
+      2 သစ္စာ … ပြုပြင်ဖန်တီးထားခြင်း မရှိသော   5-454 5-470
+      1 သစ္စာသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော   5-452
+#293 upagaṃ|0 [1 senses] MULTI_NEW
+   tag: going to, bringing rebirth in (compound final)
+      6 ရောက်စေသော   5-506 5-507 5-511 5-515 5-517
+      1 ရောက်သော   5-455
+#294 vuttā bhagavatā|0 [1 senses] MULTI_NEW
+   tag: stated by the Lord (phrase)
+     10 မြတ်စွာဘုရား ဟောတော်မူသည်   5-456 5-503 5-677 5-791 5-793
+      1 မြတ်စွာဘုရား … ဟောတော်မူသည်   5-562
+#295 appaṇihito|0 [1 senses] MULTI_NEW
+   tag: without aim or longing (nominative sg.)
+      1 တောင့်တမှု မရှိသော   5-458
+      0 တောင့်တမှု မရှိခြင်း   
+#296 phusanti|0 [1 senses] MULTI_NEW
+   tag: come into contact with (3rd pl. present)
+      1 ထိသည်   5-458
+      1 တွေ့ထိသည်   5-742
+#297 niyamo|0 [1 senses] MULTI_NEW
+   tag: certainty, the fixed course (nominative sg.)
+      2 ကျိန်းသေမှု   5-642 5-643
+      0 သေချာသော လမ်းကြောင်း   
+#298 bhūtā|0 [2 senses] MULTI_OUT L=မူလဓာတ် (tag pi-2 bhūtā|0)
+   tag: the great elements, primary matter, in mahābhūtā (nominative pl.)
+      1 မဟာဘုတ်   5-470
+      1 ဓာတ်ကြီး   5-756
+#299 mahābhūtā|0 [1 senses] MULTI_IN L=မူလဓာတ်ကြီး (tag pi-2 mahābhūtā|0)
+   tag: the four great elements, primary matter (nominative pl.)
+      1 မဟာဘုတ်   5-470
+      1 မူလဓာတ်ကြီး   5-756
+#300 sahajātā|0 [1 senses] MULTI_NEW
+   tag: born together, co-nascent (nominative pl.)
+      3 အတူ ဖြစ်သော   5-473 5-475 5-501
+      1 အတူ ပေါ်ပေါက်သော   5-476
+#301 iṭṭhaphalaṃ|0 [1 senses] MULTI_NEW
+   tag: having a wished-for result (nominative sg.)
+      2 လိုလားဖွယ် အသီးအပွင့် ရှိသော   5-479 5-482
+      1 လိုလားအပ်သော အကျိုး ရှိသော   5-591
+#302 abyābajjhaṃ|0 [1 senses] MULTI_NEW
+   tag: absence of affliction, non-harming (accusative sg.)
+      1 ညှဉ်းဆဲမှု ကင်းခြင်း   5-480
+      1 မဆင်းရဲစေတတ်သော   5-742
+#303 pānaṃ|0 [2 senses] MULTI_NEW
+   tag: beverage, drink (nominative or accusative sg.)
+      1 သောက်ဖွယ်   5-481
+      1 အဖျော်   5-692
+#304 annaṃ|0 [1 senses] MULTI_NEW
+   tag: nourishment, rice (accusative sg.)
+      1 ထမင်း   5-481
+      1 အစာ   5-692
+#305 ekacco|0 [1 senses] MULTI_IN L=အချို့သော သူ (tag pi-4 ekacco|0)
+   tag: a certain person, someone (masculine nominative sg.)
+      1 အချို့သူ   5-481
+      1 အချို့သော သူ   5-742
+#306 cittaṃ vaḍḍhati|0 [1 senses] MULTI_NEW
+   tag: the mind increases (phrase)
+      1 စိတ် တိုးပွားသည်   5-483
+      1 စိတ်သည် တိုးပွားသည်   5-598
+#307 paṇidahantassa|0 [1 senses] MULTI_NEW
+   tag: of one who directs the mind with longing (genitive participle)
+      9 ဆု တောင်းသော   5-564 5-566 5-686 5-688 5-693
+      1 ဆုတောင်းသော   5-484
+#308 ābhogassa|0 [1 senses] MULTI_NEW
+   tag: of one who is mindful of (genitive sg.)
+      1 စိတ်ညွတ်သော   5-484
+      1 စိတ် ညွတ်သော   5-564
+#309 vidūrāni|0 [1 senses] MULTI_NEW
+   tag: very distant (nominative pl.)
+      6 ဝေးကွာသော အရာ   5-599 5-603 5-666 5-669 5-672
+      1 ဝေးကွာသော   5-485
+#310 ārāma|0 [1 senses] MULTI_NEW
+   tag: pleasure-garden, park, also a monastery park (compound member)
+      1 ကျောင်း   5-486
+      1 ဥယျာဉ်   5-600
+      1 အရံ   5-802
+#311 pānīyaṃ|0 [1 senses] MULTI_NEW
+   tag: water or beverage for drinking (nominative sg.)
+      5 သောက်ရေ   5-658 5-779 5-791 5-793 5-901
+      1 သောက်ဖွယ်   5-488
+#312 bhojanīyaṃ|0 [1 senses] MULTI_NEW
+   tag: soft food to be eaten (nominative sg.)
+      4 ဘောဇဉ်   5-658 5-779 5-791 5-793
+      2 စားဖွယ်   5-488 5-901
+#313 parakataṃ sukhadukkhaṃ|0 [1 senses] MULTI_NEW
+   tag: pleasure and pain made by another (phrase)
+      1 သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ   5-488
+      1 သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော   5-801
+#314 atthāya|0 [1 senses] MULTI_NEW
+   tag: for the good of, for the purpose of (dative sg.)
+      2 အကျိုး   5-743 5-745
+      1 အတွက်   5-489
+#315 samannāhāro|0 [1 senses] MULTI_OUT L=စိတ်ကို ဆောင်ခြင်း (tag pi-2 samannāhāro|0)
+   tag: adverting, bringing to mind, turning the mind towards (nominative sg.)
+      7 နှလုံးသွင်းခြင်း   5-492 5-495 5-527 5-533 5-552
+      1 နှလုံးသွင်းမှု   5-906
+#316 saṃvattaniyaṃ|0 [1 senses] MULTI_NEW
+   tag: conducive to (nominative sg.)
+      3 ပို့ဆောင်တတ်သော   5-549 5-550 5-894
+      2 ဖြစ်စေတတ်သော   5-494 5-497
+      1 ရောက်စေတတ်သော   5-777
+#317 adhipacca|0 [1 senses] MULTI_NEW
+   tag: sovereignty, rule (compound member)
+      2 အကြီးအကဲ ဖြစ်ခြင်း   5-777 5-894
+      1 အုပ်ချုပ်ခြင်း   5-494
+#318 paccati|0 [1 senses] MULTI_NEW
+   tag: is cooked, is tormented in hell (3rd sg. present passive)
+      2 ကျက်သည်   5-501 5-868
+      2 ပူလောင်ရသည်   5-657 5-862
+#319 tiṭṭhanti|0 [2 senses] MULTI_NEW
+   tag: remain, abide in a place (3rd pl. present)
+      2 တည်ရှိသည်   5-886 5-891
+      0 တည်သည်   
+#320 Rūpino dhammā|0 [1 senses] MULTI_IN L=ရုပ် ဖြစ်သော သဘောတရား (tag pi-3 Rūpino dhammā|0)
+   tag: phenomena having material form, a matrix heading (nominative pl.)
+      3 ရုပ် ဖြစ်သော သဘောတရား   5-515 5-516 5-518
+      0 ရုပ် … သဘောတရား   
+#321 vedayati|0 [1 senses] MULTI_NEW
+   tag: experiences sensation (3rd sg. present)
+      2 ခံစားသည်   5-539 5-675
+      1 ခံစားရသည်   5-868
+#322 vācāya|0 [1 senses] MULTI_IN L=နှုတ် (tag pi-4 vācāya|0)
+   tag: by spoken word (instrumental sg.)
+      1 နှုတ်   5-539
+      1 စကား   5-588
+#323 Nirodhaṃ samāpannassa|0 [1 senses] MULTI_NEW
+   tag: of one who has entered the attainment of ending (genitive phrase)
+      2 ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော   5-541 5-542
+      0 ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော   
+#324 āyu|0 [1 senses] MULTI_IN L=သက်တမ်း (tag pi-4 āyu|0)
+   tag: life span, vital duration (nominative sg.)
+      2 သက်တမ်း   5-541 5-621
+      1 အသက်   5-802
+#325 saññī|0 [1 senses] MULTI_IN L=မှတ်သိသော (tag pi-4 saññī|0)
+   tag: perceiving, having perception (masculine sg.)
+      3 မှတ်ထင်သော   5-860 5-861 5-862
+      1 မှတ်သိသော   5-548
+#326 ārabbha uppajjati|0 [1 senses] MULTI_NEW
+   tag: comes into being concerning (phrase)
+      5 အာရုံပြု၍ ဖြစ်ပေါ်သည်   5-577 5-578 5-581 5-582 5-585
+      2 အာရုံပြု၍ … ဖြစ်ပေါ်သည်   5-549 5-550
+#327 karaṇaṃ|0 [1 senses] MULTI_OUT_ABSENT L=ပြုလုပ်ခြင်း (TAGDIFF pi-1 karaṇaṃ|0)
+   tag: doing, taking up, in akaraṇaṃ 'not doing' (nominative sg.), here making, causing, in aññāṇakaraṇa and nānākaraṇa
+      2 ပြုတတ်သော   5-549 5-550
+      1 ကွဲပြားစေတတ်သော   5-785
+#328 samaṅgī|0 [1 senses] MULTI_NEW
+   tag: endowed with, in possession of (nominative sg.)
+      6 ပြည့်စုံသော   5-558 5-587 5-588 5-589 5-617
+      2 ပြည့်စုံနေသော   5-734 5-823
+#329 cakkhuviññāṇasamaṅgī|0 [1 senses] MULTI_NEW
+   tag: one endowed with eye cognizance (nominative sg.)
+      2 မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော   5-558 5-617
+      0 မျက်စိ သိစိတ်နှင့် ပြည့်စုံနေသော   
+#330 jātā|0 [1 senses] MULTI_OUT_ABSENT L=မွေးဖွားပြီးသော (tag pi-2 jātā|0)
+   tag: born, come to birth (nominative pl. participle)
+      2 ပေါ်ပေါက်သော   5-564 5-718
+      1 ဖြစ်ပေါ်သော   5-798
+#331 Mato|0 [1 senses] MULTI_NEW
+   tag: dead (nominative sg. participle)
+      1 သေပြီးသော   5-572
+      1 သေ၍   5-656
+#332 samanantarā uppajjanti|0 [1 senses] MULTI_NEW
+   tag: come into being right after (phrase)
+      3 ချက်ချင်း နောက်၌ ဖြစ်ပေါ်သည်   5-576 5-580 5-697
+      1 ချက်ချင်း နောက်၌ … ဖြစ်ပေါ်သည်   5-584
+#333 samanantarā|0 [1 senses] MULTI_IN L=ချက်ချင်း နောက်၌ (tag pi-4 samanantarā|0)
+   tag: right after, immediately following (adverb)
+      4 ချက်ချင်း နောက်၌   5-576 5-580 5-584 5-697
+      1 ချက်ချင်း   5-896
+#334 Cakkhuviññāṇaṃ uppajjati|0 [1 senses] MULTI_NEW
+   tag: visual cognizance comes into being (phrase)
+      4 မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်   5-577 5-581 5-585 5-694
+      2 မျက်စိ သိစိတ် … ဖြစ်ပေါ်သည်   5-578 5-582
+#335 Tena hi sīlaṃ|0 [1 senses] MULTI_NEW
+   tag: 'then morality …', concluding formula (phrase)
+      2 သို့ဖြစ်လျှင် သီလ   5-594 5-597
+      1 သို့ဖြစ်လျှင် … သီလ   5-600
+#336 jīvitāvasese|0 [1 senses] MULTI_NEW
+   tag: in the rest of the lifespan (locative)
+      1 အသက်၏ အကြွင်း   5-621
+      1 အသက် အကြွင်းအကျန်   5-780
+#337 jāyiṃsu|0 [1 senses] MULTI_NEW
+   tag: came to birth (3rd pl. aorist)
+      1 ဖြစ်သည်   5-622
+      1 မွေးဖွားသည်   5-883
+#338 bhāvitā bahulīkatā|0 [1 senses] MULTI_NEW
+   tag: made to grow and practised much (phrase)
+      2 အဖန်ဖန် ပြုထားသော … ပွားများထားသော   5-904 5-905
+      1 ပွားများထားသော … အဖန်ဖန် ပြုထားသော   5-623
+#339 ekanta|0 [1 senses] MULTI_IN L=လုံးဝ (tag pi-4 ekanta|0)
+   tag: wholly, completely (compound member)
+      2 လုံးဝ   5-851 5-852
+      1 တစ်ထစ်ချ   5-626
+#340 parinipphannaṃ|0 [1 senses] MULTI_NEW
+   tag: completely produced (neuter participle, also heading)
+      2 ပြည့်စုံစွာ ပြီးမြောက်သော   5-917 5-918
+      1 ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော   5-629
+      1 အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော   5-723
+#341 sañcetanikānaṃ|0 [1 senses] MULTI_NEW
+   tag: of deliberate deeds (genitive pl.)
+      1 ရည်ရွယ်၍   5-635
+      1 စေ့ဆော်၍   5-782
+#342 voropitā|0 [1 senses] MULTI_IN L=ချခံရသော (tag pi-2 voropitā|0)
+   tag: deprived, of life (feminine or pl. participle)
+      2 ချခံရသော   5-641 5-661
+      1 သတ်ခဲ့ပြီးသော   5-859
+#343 niyato|0 [1 senses] MULTI_IN L=ကျိန်းသေသော (tag pi-4 niyato|0)
+   tag: fixed in its destiny, certain (masculine sg.)
+      6 ကျိန်းသေသော   5-641 5-642 5-645 5-646 5-647
+      1 လမ်းကြောင်း သေချာပြီးသော   5-664
+      1 လမ်းကြောင်း ကျိန်းသေသူ   5-644
+#344 mātaraṃ jīvitā|0 [1 senses] MULTI_NEW
+   tag: the mother … from life (phrase)
+      2 အမိ   5-857 5-858
+      1 အမိကို အသက်   5-648
+#345 kareyya|0 [1 senses] MULTI_IN L=ပြုသည် (TAGDIFF pi-2 kareyya|0)
+   tag: would exercise or wield rule (optative), also would commit, of a robbery (^5-901)
+      3 ပြုသည်   5-649 5-658 5-779
+      1 လုယက်သည်   5-901
+#346 tiracchānayoniṃ|0 [1 senses] MULTI_NEW
+   tag: the womb of beasts (accusative)
+      2 တိရစ္ဆာန် ဘဝ   5-652 5-653
+      1 တိရစ္ဆာန် ဘုံ   5-707
+      1 တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား   5-911
+#347 yoniṃ|0 [1 senses] MULTI_NEW
+   tag: mode of generation, birth-sphere (accusative)
+      2 ဘဝ   5-652 5-653
+      1 ဘုံ   5-707
+      1 မွေးဖွားရာ အမျိုးအစား   5-911
+#348 upapajjeyya|0 [1 senses] MULTI_IN L=ရောက်သည် (tag pi-2 upapajjeyya|0)
+   tag: would be reborn, reappear (optative)
+      2 ရောက်သည်   5-652 5-653
+      1 ပြန်လည် ဖြစ်ပေါ်သည်   5-911
+#349 Āpāyiko|0 [1 senses] MULTI_NEW
+   tag: destined for the states of deprivation (nominative)
+      2 အပါယ်သို့ ရောက်သော   5-657 5-862
+      0 အပါယ်သို့ ရောက်မည့်   
+#350 niyāmaṃ okkameyya|0 [1 senses] MULTI_NEW
+   tag: would step into the certainty of destiny (phrase)
+      2 သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်   5-660 5-662
+      1 သေချာသော လမ်းကြောင်း … သက်ဆင်းသည်   5-685
+#351 niyāmaṃ okkamati|0 [1 senses] MULTI_NEW
+   tag: steps into the certainty of destiny (phrase)
+      2 သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်   5-663 5-664
+      1 သေချာသော လမ်းကြောင်း … သက်ဆင်းသည်   5-685
+#352 seyyathidaṃ|0 [1 senses] MULTI_IN L=ဆိုလိုသည်မှာ (tag pi-2 seyyathidaṃ|0)
+   tag: namely, that is to say, introducing a list (indeclinable)
+      2 ဆိုလိုသည်မှာ   5-679 5-684
+      1 ယင်းမှာ   5-872
+#353 Akusalamūlaṃ paṭisandahati|0 [1 senses] MULTI_NEW
+   tag: 'an unskilful root connects' (phrase)
+      3 အကုသိုလ်၏ အမြစ် … ဆက်စပ်သည်   5-686 5-687 5-710
+      0 အကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည်   
+#354 Kusalaṃ uppajjati|0 [1 senses] MULTI_NEW
+   tag: 'the skilful comes to be' (phrase)
+      2 ကုသိုလ် … ဖြစ်ပေါ်သည်   5-687 5-689
+      1 ကုသိုလ် ဖြစ်ပေါ်သည်   5-686
+#355 Kusalamūlaṃ paṭisandahati|0 [1 senses] MULTI_NEW
+   tag: 'a skilful root connects' (phrase)
+      2 ကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည်   5-688 5-689
+      0 ကုသိုလ်၏ အမြစ် … ဆက်စပ်သည်   
+#356 Akusalaṃ uppajjati|0 [1 senses] MULTI_NEW
+   tag: 'the unskilful comes to be' (phrase)
+      1 အကုသိုလ် ဖြစ်ပေါ်သည်   5-688
+      1 အကုသိုလ် … ဖြစ်ပေါ်သည်   5-689
+#357 diṭṭhadhamma|0 [1 senses] MULTI_IN L=မျက်မှောက်ဘဝ (tag pi-2 diṭṭhadhamma|0)
+   tag: this present life, here and now (compound member)
+      6 ယခုဘဝ   5-703 5-704 5-768 5-769 5-771
+      2 မျက်မှောက်ဘဝ   5-890 5-891
+#358 upacayo|0 [1 senses] MULTI_NEW
+   tag: heaping up (nominative)
+      6 စုဆောင်းမှု   5-737 5-738 5-739 5-740 5-741
+      5 စုဆောင်းခြင်း   5-776 5-777 5-778 5-779 5-801
+#359 rūpaṃ rūpāvacaraṃ|0 [1 senses] MULTI_NEW
+   tag: matter belonging to the fine-material sphere (phrase)
+      2 သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော ရုပ်   5-768 5-775
+      1 ရုပ်သည် သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော   5-770
+#360 saṃvattaniyaṃ kammaṃ|0 [1 senses] MULTI_NEW
+   tag: deed conducive to (phrase)
+      1 ရောက်စေတတ်သော ကံ   5-777
+      1 ပို့ဆောင်တတ်သော ကံ   5-894
+#361 sobhagya|0 [1 senses] MULTI_NEW
+   tag: good fortune, beauty (compound member)
+      1 ကောင်းသော ကံကြမ္မာ   5-777
+      1 ကောင်းကျိုး ချမ်းသာ   5-894
+#362 visinetvā|0 [1 senses] MULTI_NEW
+   tag: having dispersed (absolutive)
+      1 ဖြန့်ကြဲ၍   5-778
+      1 ဖြန့်ကျက်၍   5-894
+#363 apacināti|0 [1 senses] MULTI_NEW
+   tag: pulls down, dismantles (3rd sg. present)
+      1 ဖြိုဖျက်သည်   5-778
+      1 ဖျက်ဆီးသည်   5-894
+#364 ekāgārikaṃ kareyya|0 [1 senses] MULTI_NEW
+   tag: would commit burglary on a single house (phrase)
+      1 အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်   5-784
+      1 အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်သည်   5-901
+#365 indriyabaddhaṃ dukkhaṃ|0 [1 senses] MULTI_NEW
+   tag: 'what is bound up with the faculties is pain' (phrase)
+      3 စွမ်းရည်တို့နှင့် ဆက်စပ်သော … ဒုက္ခ   5-786 5-787 5-801
+      1 စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ   5-788
+#366 dvipadānaṃ|0 [1 senses] MULTI_NEW
+   tag: of bipeds, human beings (genitive pl.)
+      1 ခြေနှစ်ချောင်း ရှိသော   5-799
+      1 ခြေ နှစ်ချောင်း ရှိသော   5-872
+#367 bhagavā jāto|0 [1 senses] MULTI_NEW
+   tag: the Lord was born (phrase)
+      1 မြတ်စွာဘုရား … ဖွားမြင်တော်မူခဲ့သော   5-802
+      1 မြတ်စွာဘုရား … ဖွားမြင်တော်မူသော   5-803
+#368 ariyo aṭṭhaṅgiko|0 [1 senses] MULTI_NEW
+   tag: holy, of eight factors (phrase)
+      1 အရိယာ … အင်္ဂါ ရှစ်ပါး ရှိသော   5-874
+      1 အင်္ဂါ ရှစ်ပါး ရှိသော … အရိယာ   5-875
+#369 ariyo aṭṭhaṅgiko maggo|0 [1 senses] MULTI_NEW
+   tag: the holy path with eight factors (phrase)
+      1 အရိယာ မဂ်သည် အင်္ဂါ ရှစ်ပါး ရှိသော   5-874
+      1 အင်္ဂါ ရှစ်ပါး ရှိသော မဂ် … အရိယာ   5-875
+#370 buddhā tiṭṭhanti|0 [1 senses] MULTI_NEW
+   tag: enlightened ones live on (phrase)
+      1 ဘုရား တည်ရှိသည်   5-886
+      1 ဘုရားတို့ တည်ရှိသည်   5-891

@@ -1,0 +1,130 @@
+5-0	kathā	ဆွေးနွေးခြင်း	ဆွေးနွေးချက်	1	flag:only in
+5-22-5-1-0	Añño	တခြား	တခြားစီ	1	flag:speaker
+5-31-1-0	adhippāya	ရည်ရွယ်ချက်	အလိုအတိုင်း	1	flag:speaker
+5-65	jāto	မွေးဖွားလာ	ပေါ်ပေါက်	1	flag:kept
+5-66	jāto	မွေးဖွားလာ	ပေါ်ပေါက်	1	flag:kept
+5-78	añño	တခြား	တခြားစီ	2	flag:speaker
+5-80	añño	တခြား	တခြားစီ	2	flag:speaker
+5-89	añño	အခြား	တခြားစီ	1	flag:speaker
+5-90	añño	အခြား	တခြားစီ	1	flag:speaker
+5-194	para	အခြားသူ	သူတစ်ပါး	1	multi-sense;flag:only in
+5-196	para	အခြားသူ	သူတစ်ပါး	1	multi-sense;flag:only in
+5-207	pātubhavanti	ပေါ်ပေါက်	ထင်ရှား ပေါ်လာ	3	count 3 vs Pāli 0
+5-207	pātubhāvā	ပွင့်ပေါ်ခြင်း	ထင်ရှား လာခြင်း	3	count 3 vs Pāli 0
+5-214	uppādo	ဖြစ်ခြင်း	ဖြစ်ပေါ်ခြင်း	3	flag:never occurs
+5-215	uppādo	ဖြစ်ခြင်း	ဖြစ်ပေါ်ခြင်း	3	flag:never occurs
+5-230	uppajjati	ပေါ်ပေါက်လာ	ဖြစ်ပေါ်	2	flag:context;count 2 vs Pāli 1
+5-232	nirujjhamānaṃ	ချုပ်ငြိမ်း	ချုပ်ငြိမ်းနေ	2	count 2 vs Pāli 1
+5-233	suddha	သက်သက်	ရိုးရိုး	1	flag:speaker
+5-235	bāla	လူမိုက်	မိုက်မဲ	2	count 2 vs Pāli 0
+5-266	Iṭṭhā	နှစ်သက်ဖွယ်	လိုလားဖွယ်ကောင်း	2	count 2 vs Pāli 1
+5-266	aniṭṭhā	မနှစ်သက်ဖွယ်	မလိုလားဖွယ်	1	flag:never occurs
+5-269	bhedakā	ခွဲသူ	သင်းခွဲသူ	2	count 2 vs Pāli 0
+5-272	pariññātaṃ	ပိုင်းခြား သိခြင်း	ပိုင်းခြား သိပြီးသော	2	count 2 vs Pāli 0
+5-279	avasesaṃ	အကြွင်း	ကြွင်းကျန်	9	count 9 vs Pāli 0
+5-282	katvā	မှတ်ယူ၍	ပြု၍	1	multi-sense
+5-296	vaṭṭe	ဝဋ်	သံသရာ စက်ဝန်း	4	count 4 vs Pāli 0
+5-296	saṅkiṇṇa	ရောနှောခြင်း	ဖို့ပြီးသော	4	multi-sense;count 4 vs Pāli 0
+5-296	asaṅkiṇṇā	ရောနှောခြင်း မရှိ	မရောယှက်	4	count 4 vs Pāli 2
+5-313	arahattaṃ	ရဟန္တာ ဖိုလ်	ရဟန္တာ အဖြစ်	1	flag:only in
+5-317	arahattaṃ	ရဟန္တာ ဖိုလ်	ရဟန္တာ အဖြစ်	1	flag:only in
+5-325	arahattaṃ	ရဟန္တာ ဖိုလ်	ရဟန္တာ အဖြစ်	1	flag:only in
+5-332	samuṭṭhānā	ဖြစ်ပေါ်သော	ဖြစ်ပေါ်လာသော	6	count 6 vs Pāli 0
+5-333	jāti	ပဋိသန္ဓေ နေခြင်း	မွေးဖွားခြင်း	1	multi-sense
+5-335	uppajjitvā	ဖြစ်ပေါ်၍	ဖြစ်ပေါ်ပြီး	2	count 2 vs Pāli 1
+5-337	para	ပရ	သူတစ်ပါး	3	multi-sense;flag:only in;count 3 vs Pāli 0;short
+5-338	sāmañña	ရဟန်း	ရဟန်းအဖြစ်	12	count 12 vs Pāli 0
+5-338	upadhi	ဥပဓိ	ခန္ဓာကိုယ်	2	count 2 vs Pāli 0
+5-338	jātiyā	ပဋိသန္ဓေ နေခြင်း	ဘဝ	2	multi-sense
+5-338	brahma	မြတ်သော	မြင့်မြတ်သော	5	count 5 vs Pāli 0
+5-338	brahmacariya	မြတ်သော အကျင့်	မြင့်မြတ်သော အကျင့်	5	count 5 vs Pāli 0
+5-338	viveka	ဆိတ်ငြိမ်ခြင်း	ကင်းဆိတ်ခြင်း	2	count 2 vs Pāli 0
+5-353	accanta	လုံးဝ	အပြီးအပိုင်	4	count 4 vs Pāli 0
+5-354	uppannassa	ဖြစ်ပေါ်	ဖြစ်ပေါ်ပြီး	4	count 4 vs Pāli 0
+5-354	cariyā	ကျင့်ကြံမှု	အကျင့်	2	count 2 vs Pāli 0
+5-355	sabbattha	ဘုံ အားလုံး	နေရာတိုင်း	3	count 3 vs Pāli 0
+5-396	paṭiladdhāni	ရပြီး	ရရှိပြီး	12	count 12 vs Pāli 9
+5-400	cariyā	ကျင့်ကြံမှု	အကျင့်	2	count 2 vs Pāli 0
+5-401	seṭṭho	အမြတ်ဆုံး	အကောင်းဆုံး	4	count 4 vs Pāli 0
+5-401	mātu	မယ်တော်	အမိ	4	flag:context
+5-401	attamanā	ဝမ်းမြောက်	နှစ်သက်	2	flag:never occurs
+5-401	viloketi	ကြည့်	ဘေးသို့ ကြည့်	3	flag:never occurs;count 3 vs Pāli 2
+5-402	purisassa	ယောကျ်ား	ယောက်ျား	3	count 3 vs Pāli 0
+5-404	uddisi	ညွှန်ပြခဲ့	ကိုးကွယ်ခဲ့	1	flag:speaker
+5-405	vidū	သိ	နားလည်	34	flag:never occurs;count 34 vs Pāli 0;short
+5-405	cakkaṃ	တရားစက်	စကြာ	1	flag:departs
+5-411	paṭiladdhāni	ရပြီး	ရရှိပြီး	6	count 6 vs Pāli 4
+5-412	paṭiladdhāni	ရပြီး	ရရှိပြီး	6	count 6 vs Pāli 2
+5-432	para	အခြားသူ	သူတစ်ပါး	1	multi-sense;flag:only in
+5-443	uppannassa	ဖြစ်ပေါ်	ဖြစ်ပေါ်ပြီး	2	count 2 vs Pāli 0
+5-454	aññathāni	အခြား	အခြားတစ်မျိုး	4	count 4 vs Pāli 0
+5-458	ninnaṃ	ညွတ်သော	နိမ့်ဆင်းသော	2	count 2 vs Pāli 0
+5-458	pabbhāraṃ	ရှိုင်းသော	စောင်းသော	2	count 2 vs Pāli 0
+5-458	poṇaṃ	ကိုင်းသော	ညွတ်ကိုင်းသော	2	count 2 vs Pāli 0
+5-470	Niyamo	သေချာသော လမ်းကြောင်း	ကျိန်းသေ	1	flag:kept
+5-480	paṭikuṭṭhāni	ကဲ့ရဲ့အပ်	ကန့်ကွက်အပ်	4	count 4 vs Pāli 0
+5-485	veti	ပျက်စီး	ပျက်ကွယ်	2	count 2 vs Pāli 1
+5-486	āhārā	အစာ	အာဟာရ	4	count 4 vs Pāli 0
+5-486	vipākā	အကျိုး	ကံ၏ အကျိုး ဖြစ်	8	count 8 vs Pāli 0
+5-488	Añño	အခြား	တခြားစီ	2	flag:speaker;count 2 vs Pāli 3
+5-489	atthāya	အတွက်	အကျိုး	2	flag:kept
+5-491	mātā	မိဘ	အမိ	4	count 4 vs Pāli 0
+5-494	adhipacca	အုပ်ချုပ်ခြင်း	အကြီးအကဲ ဖြစ်ခြင်း	2	flag:kept;count 2 vs Pāli 0
+5-503	āhārā	အစာ	အာဟာရ	6	count 6 vs Pāli 0
+5-512	manāpā	နှစ်သက်ဖွယ် ကောင်းသော	စိတ်နှင့် တွေ့သော	2	flag:never occurs
+5-514	manāpā	နှစ်သက်ဖွယ် ကောင်းသော	စိတ်နှင့် တွေ့သော	2	flag:never occurs
+5-514	Tiṭṭhanti	တည်	တည်ရှိ	1	multi-sense
+5-539	puriso	ယောကျ်ား	ယောက်ျား	2	count 2 vs Pāli 0
+5-544	avaseso	အကြွင်း	ကြွင်းကျန်	2	count 2 vs Pāli 0
+5-565	aññaṃ	အခြား	တခြားစီ	6	count 6 vs Pāli 12
+5-571	niruddhe	ချုပ်ငြိမ်း	ချုပ်ငြိမ်းပြီး	3	count 3 vs Pāli 0
+5-588	vācāya	စကား	နှုတ်	6	count 6 vs Pāli 0
+5-603	dadantassa	ပေး	ပေးနေ	2	count 2 vs Pāli 1
+5-604	niruddhe	ချုပ်ငြိမ်း	ချုပ်ငြိမ်းပြီး	2	count 2 vs Pāli 0
+5-622	jāti	ဖြစ်ခြင်း	မွေးဖွားခြင်း	1	multi-sense
+5-622	jāyiṃsu	ဖြစ်	မွေးဖွား	12	count 12 vs Pāli 0
+5-624	jāti	ဖြစ်ခြင်း	မွေးဖွားခြင်း	1	multi-sense
+5-625	ajātaṃ	မဖြစ်သေးသော	မမွေးဖွားသေးသော	2	count 2 vs Pāli 1
+5-653	sattama	ခုနစ်ကြိမ်မြောက်	သတ္တမ	5	count 5 vs Pāli 0
+5-654	uppajjati	ပွင့်ထွန်းတော်မူ	ဖြစ်ပေါ်	1	flag:context
+5-671	pajānāti	သိ	ကွဲပြားစွာ သိ	13	count 13 vs Pāli 0;short
+5-675	rāgo	တပ်မက်မှု	ရာဂ	3	count 3 vs Pāli 0
+5-685	rāgo	တပ်မက်မှု	ရာဂ	10	count 10 vs Pāli 0
+5-692	pānaṃ	အဖျော်	သောက်ဖွယ်	1	multi-sense;flag:kept
+5-742	mano	စိတ်	မနော	4	count 4 vs Pāli 0
+5-742	abyābajjhaṃ	မဆင်းရဲစေတတ်	ညှဉ်းဆဲမှု ကင်း	9	count 9 vs Pāli 0
+5-749	pajānāti	သိ	ကွဲပြားစွာ သိ	10	count 10 vs Pāli 0;short
+5-777	saṃvattaniyaṃ kammaṃ	ရောက်စေတတ်သော ကံ	ဖြစ်စေတတ်သော ကံ	7	count 7 vs Pāli 0
+5-777	saṃvattaniyaṃ	ရောက်စေတတ်သော	ဖြစ်စေတတ်သော	8	count 8 vs Pāli 0
+5-782	pariyāye	ဘဝအဆက်ဆက်	ပိုင်းခြား၍ သိ	1	multi-sense
+5-784	hareyya	တိုက်	လုယူ	2	count 2 vs Pāli 1
+5-784	pāṇaṃ	သူ့အသက်	သတ္တဝါ	3	count 3 vs Pāli 1
+5-785	karaṇaṃ	ကွဲပြားစေတတ်	ပြုတတ်	1	flag:never occurs
+5-798	Vineyya	ဖယ်ရှား၍	ပယ်ဖျောက်၍	1	flag:kept
+5-801	añño	အခြား	တခြားစီ	2	flag:speaker;count 2 vs Pāli 3
+5-802	parinibbuto	ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့	ပရိနိဗ္ဗာန် ပြုပြီး	2	count 2 vs Pāli 1
+5-802	jāto	ဖွားမြင်တော်မူခဲ့	ပေါ်ပေါက်	2	flag:kept
+5-802	ārāma	အရံ	ဥယျာဉ်	3	count 3 vs Pāli 0
+5-803	jāto	ဖွားမြင်တော်မူ	ပေါ်ပေါက်	2	flag:kept
+5-829	sañjātaṃ	ပေါ်ပေါက်	ကောင်းစွာ မွေးဖွားပြီး	2	count 2 vs Pāli 0
+5-829	nibbattaṃ	ဖြစ်ထွန်း	ပေါ်ထွက်ပြီး	2	count 2 vs Pāli 0
+5-852	viloketi	ဝေ့ဝဲ ကြည့်	ဘေးသို့ ကြည့်	1	flag:never occurs
+5-856	dassāvino	မြင်	ရှုမြင်	3	count 3 vs Pāli 0
+5-868	bandhanaṃ	အနှောင်	အနှောင်အဖွဲ့	1	flag:kept
+5-868	ādittāya	ပူလောင်နေသော	လောင်ကျွမ်းနေသော	3	count 3 vs Pāli 2
+5-868	paccati	ကျက်	ပူလောင်ရ	2	count 2 vs Pāli 1
+5-872	seṭṭho	အမြတ်ဆုံး	အကောင်းဆုံး	4	count 4 vs Pāli 2
+5-874	gacchati	ရောက်	သွား	1	multi-sense
+5-875	para	အခြား	သူတစ်ပါး	1	multi-sense;flag:only in
+5-885	dassana	သိမြင်သော	အမြင်	1	flag:departs
+5-886	para	ပရ	သူတစ်ပါး	1	multi-sense;flag:only in;short
+5-894	ussineti	စုစည်း	စုပုံ	2	count 2 vs Pāli 1
+5-894	sobhagya	ကောင်းကျိုး ချမ်းသာ	ကောင်းသော ကံကြမ္မာ	2	count 2 vs Pāli 0
+5-894	apacināti	ဖျက်ဆီး	ဖြိုဖျက်	5	count 5 vs Pāli 2
+5-894	apacinitvā	ဖျက်ဆီး	ဖြိုဖျက်	5	count 5 vs Pāli 2
+5-896	parinibbuto	ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့	ပရိနိဗ္ဗာန် ပြုပြီး	2	count 2 vs Pāli 1
+5-903	palāpassa	စကား	ပြိန်ဖျင်းသော စကား	4	count 4 vs Pāli 0
+5-905	parāyanā	ဆုံးခန်းတိုင်ရာ	မှီခိုရာ	2	count 2 vs Pāli 0
+5-906	samannāhāro	နှလုံးသွင်းမှု	စိတ်ကို ဆောင်ခြင်း	6	count 6 vs Pāli 4
+5-906	ajjhattikaṃ	မိမိ၏	အတွင်းပိုင်း	6	count 6 vs Pāli 0
+5-911	upapajjeyya	ပြန်လည် ဖြစ်ပေါ်	ရောက်	2	count 2 vs Pāli 1

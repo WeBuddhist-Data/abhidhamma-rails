@@ -1,0 +1,1540 @@
+=== micchā ×44  TB: wrong, false (compound member), also the verdict 'that is wrong' of the rebuttal formula (predicate): မှားယွင်းသော
+   map: «မှားသည်» ×44
+   DEC: micchā|0 «မှားယွင်းသော»: pi-4 / pi-2 / pi-1 locked (compound member, same sense; tag widened); the verdict «… ဟူသည် မှားသည်» is the approved sample frame (my5 §3), built by the formula module, not this term
+   ids: 5-1 5-2 5-3 5-5 5-6 5-7 5-8 5-10 5-11 5-12 5-13 5-14 5-15 5-16 5-17 5-18 5-21 5-22 5-23 5-27 5-28 5-29 5-33 5-36 5-37 5-45 5-46 5-47 5-48 5-49 5-50 5-51 5-52 5-67 5-68 5-78 5-80 5-116 5-117 5-288
+=== upasampajja ×13  TB: having entered upon, having attained (absolutive): ဝင်စား၍
+   map: «ပြည့်စုံစွာ ဝင်ရောက်၍» ×10; «ပြည့်စုံစေ၍» ×3
+   DEC: upasampajja|0 «ဝင်စား၍»: pi-4 / pi-2 / pi-1 locked (the jhāna formula ^5-673 …); the stream-entry passage «… ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» (harmonise B6) follows (upasampajja viharati aligned)
+   ids: 5-274 5-275 5-276 5-277 5-340 5-341 5-342 5-343 5-366 5-368 5-421 5-422 5-486
+=== hitāya ×12  TB: for benefit (dative): အကျိုးစီးပွား
+   map: «အကျိုး» ×12
+   DEC: hitāya|0 «အကျိုးစီးပွား»: §A4: hitāya must differ from atthāya «အကျိုး» in the same sutta list (^5-230 «atthāya hitāya sukhāya»; synonym-list rule), so not «အကျိုး»; «အကျိုးစီးပွား» (^5-230, ^5-486) has the same stem «စီးပွား» as pi-4 «အစီးအပွား» (not a candidate); attahitāya (^5-22 …) reads «မိမိ၏ အကျိုးစီးပွား»: departs from pi-4 in form only, Burmese speaker to check
+   ids: 5-22 5-23 5-24 5-27 5-37 5-45 5-50 5-51 5-52 5-54 5-68 5-229
+=== ṭhiti ×11  TB: stability, steadiness of mind (in the concentration list), the same value also naming persistence, the lasting of life (in the life-faculty list): တည်တံ့ခြင်း
+   map: «တည်ရာ» ×7; «တည်ခြင်း» ×3; «တည်နေသော» ×1
+   DEC: ṭhiti|0 «တည်တံ့ခြင်း»: pi-2 / pi-1 locked (same tag; the tag's own use ^5-540, the life-faculty list); NOTE: 7 uses are viññāṇaṭṭhiti «stations of consciousness» (^5-455 … the realm lists, text «သိစိတ် တည်ရာ») and 3 cittaṭṭhiti (own entry «စိတ်၏ တည်ခြင်း»): an upstream sense split (station vs persistence) would let the realm lists keep «တည်ရာ»; Burmese speaker / coordinator to check
+   ids: 5-10-8-1-0 5-337 5-353 5-383 5-455 5-506 5-507 5-511 5-515 5-517 5-524
+=== upacchedo ×11  TB: cutting off, severance (nominative sg.): ပြတ်စဲခြင်း
+   map: «ပြတ်ခြင်း» ×10; «ဖြတ်တောက်ခြင်း» ×1
+   DEC: upacchedo|0 «ပြတ်စဲခြင်း»: pi-2 locked (present in the text) and the pi-1 review change B10 stem uccheda «ပြတ်စဲ»; the candidates «ပြတ်ခြင်း» / «ဖြတ်တောက်ခြင်း» do not keep the locked stem; outside the candidates
+   ids: 5-125 5-138 5-145 5-152 5-159 5-165 5-182 5-189 5-501 5-627 5-628
+=== jātaṃ ×11  TB: born, come to be, also in sahajātaṃ 'born together' (neuter sg. participle): မွေးဖွားပြီးသော
+   map: «ဖြစ်ပေါ်သော» ×7; «ပေါ်ပေါက်သော» ×4
+   DEC: jātaṃ|0 «မွေးဖွားပြီးသော»: pi-2 locked (same tag, incl. sahajātaṃ); §A14 the pi-2 list wording; NOTE: sahajātaṃ (^5-363 … ^5-365, ^5-740) of mental states: Burmese speaker to check «အတူ မွေးဖွားပြီးသော» (jāto / jātā / sahajātā «ပေါ်ပေါက်»)
+   ids: 5-283 5-284 5-296 5-363 5-364 5-365 5-566 5-740 5-768 5-769 5-906
+=== dānaṃ ×11  TB: giving, generosity, a gift (nominative/accusative sg.): ပေးလှူခြင်း
+   map: «အလှူ» ×8; «ဒါန» ×3
+   DEC: dānaṃ|0 «ပေးလှူခြင်း»: pi-2 locked (a candidate); NOTE: «dānaṃ deti / dadāti» (^5-432, ^5-484 …, 13 uses «အလှူ») is the gift itself: Burmese speaker / rails to check
+   ids: 5-484 5-485 5-487 5-501 5-603 5-658 5-779 5-784 5-793 5-864 5-901
+=== upasampajja viharati ×10  TB: 'having entered upon it, dwells in it', the jhāna formula (phrase): ဝင်စား၍ နေသည်
+   map: «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» ×10
+   DEC: upasampajja viharati|0 «ဝင်စား၍ နေသည်»: pi-2 locked (the text has it as «… ဝင်စား၍ နေ၏», ^5-673); = upasampajja (pi-4 / pi-2 / pi-1 «ဝင်စား၍»)
+   ids: 5-274 5-275 5-276 5-277 5-340 5-341 5-342 5-343 5-366 5-368
+=== paṭicca ×9  TB: dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent origination) in the Mātikā and its definition, here also the absolutive 'depending on': အကြောင်းတို့ကို မှီ၍
+   map: «မှီ၍» ×9
+   DEC: paṭicca|0 «အကြောင်းတို့ကို မှီ၍»: pi-3 locked (= pi-1 review change, paṭiccasamuppāda); 20 of 30 uses; the absolutive «မှီ၍» of «X paṭicca uppajjati» is carried by the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်»
+   ids: 5-463 5-465 5-467 5-469 5-577 5-581 5-585 5-694 5-696
+=== hīna ×8  TB: low (compound member): ယုတ်ညံ့သော
+   map: «ယုတ်ခြင်း» ×6; «ယုတ်လျော့သော» ×1; «ချို့ယွင်းသော» ×1
+   DEC: hīna|0 «ယုတ်ညံ့သော»: pi-4 locked; 10 of 18
+   ids: 5-353 5-371 5-445 5-448 5-452 5-691 5-885 5-891
+=== buddho ×7  TB: the Buddha, the Awakened One (nominative sg.): ဘုရားရှင်
+   map: «ဘုရား» ×7
+   DEC: buddho|0 «ဘုရားရှင်»: family buddha: pi-2 / pi-4 locked buddha / buddhe / Buddhaṃ / buddhā / buddhānaṃ / sambuddho «ဘုရားရှင်» (present in the text, 2 of 9 uses here); pi-3 buddho «နားလည်ပြီးသော» is another sense (subuddho); «ဘုရား» 7 uses align
+   ids: 5-12-6-1-0 5-398 5-399 5-403 5-417 5-654 5-886
+=== issariya ×7  TB: lordship, dominion: အစိုးရခြင်း
+   map: «မိမိ၏ အစွမ်း» ×7
+   DEC: issariya|0 «အစိုးရခြင်း»: the word itself "lordship, ruling" (the happiness lists ^5-338, ^5-494, ^5-777, ^5-894, kept apart from adhipacca «အကြီးအကဲ ဖြစ်ခြင်း»); «မိမိ၏ အစွမ်း» (ch31, 7 uses) adds «မိမိ၏», absent from the Pāli: Burmese speaker to check ch31
+   ids: 5-31-3-1-0 5-910 5-911 5-912 5-913 5-914 5-918
+=== upagā ×7  TB: went to, arose in a realm (aorist): ရောက်သွားသော
+   map: «ရောက်သော» ×7
+   DEC: upagā|0 «ရောက်သွားသော»: family upagata / upage (approved yathākammūpaga «… ရောက်သွားသော»)
+   ids: 5-281 5-455 5-506 5-507 5-511 5-515 5-517
+=== samāpatti ×7  TB: meditative attainments, absorptions entered (compound member): သမာပတ်
+   map: «ဈာန် ဝင်စားခြင်း» ×7
+   DEC: samāpatti|0 «သမာပတ်»: 10 of 17 uses; family samāpattiṃ / samāpattīsu «သမာပတ်», nirodhasamāpatti «ချုပ်ငြိမ်းခြင်း သမာပတ်»; pi-2 / pi-1 «ဈာန် ဝင်စားရာ» is not a candidate and calls every attainment a jhāna (nirodhasamāpatti is not one); «သမာပတ်» is a common Burmese word: departs from pi-2 / pi-1
+   ids: 5-728 5-729 5-730 5-731 5-735 5-736 5-742
+=== phalaṃ ×6  TB: fruit, the result of good and bad deeds, in the wrong-view and right-view formulas (nominative sg.): အသီးအပွင့်; fruition attainment, the fruit of the path, in arahattaphalaṃ (nominative sg.): ဖိုလ်
+   map: «အကျိုး» ×6
+   DEC: phalaṃ|0 «အသီးအပွင့်»: pi-4 / pi-2 / pi-1 locked (the wrong-view / right-view formula «… ကံတို့၏ အသီးအပွင့်»); «အကျိုး» (^5-591, ^5-797 …, the result of a gift) is the pi-4 phala|2 use: rails to keep mahapphala «အကျိုး ကြီးမားသော» there (own entry)
+   ids: 5-25-9-1-0 5-25-10-1-0 5-591 5-797 5-799 5-801
+=== niruddhe ×6  TB: when ended (locative participle): ချုပ်ငြိမ်းပြီးသော
+   map: «ချုပ်ငြိမ်းသွားသော» ×4; «ချုပ်ငြိမ်းသော» ×2
+   DEC: niruddhe|0 «ချုပ်ငြိမ်းပြီးသော»: family: pi-2 locked niruddhaṃ / niruddhā «ချုပ်ငြိမ်းပြီးသော» (a candidate, ^5-572 / ^5-589); «ချုပ်ငြိမ်းသွားသော» / «ချုပ်ငြိမ်းသော» align
+   ids: 5-104 5-447 5-571 5-594 5-597 5-604
+=== Mānusakaṃ ×6  TB: pertaining to humans (accusative): လူ့
+   map: «လူ» ×6
+   DEC: Mānusakaṃ|0 «လူ့»: pi-4 locked
+   ids: 5-150 5-151 5-153 5-154 5-155 5-156
+=== para ×6  TB: others, another person (compound member, as in paralābha and paranimmita), here also in paracitta and parappavāda: သူတစ်ပါး; more than, beyond, in parosahassa 'over a thousand' (compound member): ကျော်
+   map: «အခြားသူ» ×3; «ပရ» ×2; «အခြား» ×1
+   DEC: para|0 «သူတစ်ပါး»: pi-4 / pi-2 / pi-1 locked (same sense; tag widened); 14 of 20 uses; «ပရ» only inside names (pi-1 rule: proper names stay names); «အခြားသူ» / «အခြား» (paracitta, parappavāda) align
+   ids: 5-194 5-196 5-337 5-432 5-875 5-886
+=== kata ×6  TB: done, accomplished (participle): ပြုခဲ့သော
+   map: «ပြုပြီးသော» ×6
+   DEC: kata|0 «ပြုခဲ့သော»: pi-2 locked (a candidate); the arahant epithet katakaraṇīyo reads «ပြုဖွယ်ကို ပြုခဲ့သော»
+   ids: 5-261 5-262 5-273 5-277 5-311 5-343
+=== aññā ×6  TB: final knowledge, the knowing of one on the higher paths (compound member), here also in sammadaññāvimutta and aññāpaṭivedha: အပြည့်အဝ သိမြင်ခြင်း; other, different (feminine pronoun): တခြားစီ
+   map: «သိ၍» ×5; «ရဟန္တာ ဖိုလ်» ×1
+   DEC: aññā|0 «အပြည့်အဝ သိမြင်ခြင်း»: the noun "final knowledge" (aññindriya «အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်», ^5-21 / ^5-26; my5 aññātāvī «အပြည့်အဝ သိမြင်…»); «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho (mapper §D, §E)
+   ids: 5-261 5-262 5-277 5-311 5-343 5-346
+=== diṭṭhadhamma ×6  TB: this present life, here and now (compound member): မျက်မှောက်ဘဝ
+   map: «ယခုဘဝ» ×6
+   DEC: diṭṭhadhamma|0 «မျက်မှောက်ဘဝ»: pi-2 / pi-1 locked (a candidate); «ယခုဘဝ» (6) aligns
+   ids: 5-703 5-704 5-768 5-769 5-771 5-773
+=== diṭṭhadhammasukhavihārena cittena ×6  TB: with a mind of happy abiding here and now (instrumental phrase): မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်
+   map: «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» ×6
+   DEC: diṭṭhadhammasukhavihārena cittena|0 «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»: family diṭṭhadhamma «မျက်မှောက်ဘဝ» (pi-2 / pi-1 locked)
+   ids: 5-703 5-704 5-768 5-769 5-771 5-773
+=== anantarā ×5  TB: without interval, directly after, also in anantarāpayutta (compound member): ချက်ချင်း နောက်
+   map: «ချက်ချင်း» ×5
+   DEC: anantarā|0 «ချက်ချင်း နောက်»: 6 of 12 uses; = samanantarā «ချက်ချင်း နောက်၌» (pi-4 / pi-2 locked) without the locative
+   ids: 5-21-3-1-0 5-660 5-661 5-662 5-685
+=== buddha ×5  TB: the Buddha, in buddhapaṭikuṭṭha (compound member): ဘုရားရှင်
+   map: «ဘုရား» ×5
+   DEC: buddha|0 «ဘုရားရှင်»: pi-2 locked; family buddha (buddhasāsana, buddhapaṭikuṭṭha)
+   ids: 5-29-5-1-0 5-301 5-856 5-882 5-893
+=== añño ×5  TB: another, other (masculine pronoun): တခြားစီ
+   map: «အခြား» ×3; «တခြား» ×2
+   DEC: añño|0 «တခြားစီ»: approved frame «aññaṃ A añño B = … တခြားစီ» (my5 §7); 4 of 9; §A5: «တခြား» (^5-78, ^5-80) and «အခြား» (^5-89, ^5-90, ^5-801, «añño … paṭisaṃvedeti») align: Burmese speaker to check the last three
+   ids: 5-78 5-80 5-89 5-90 5-801
+=== Yo ×5  TB: relative pronoun, that which (masculine nominative sg.): အကြင်သူ
+   map: «(no direct equivalent)» ×5
+   ids: 5-195 5-196 5-220 5-224 5-780
+=== aṅga ×5  TB: factor, limb, in maggaṅga and bojjhaṅga (compound final): အင်္ဂါ
+   map: «(no direct equivalent)» ×5
+   ids: 5-244 5-245 5-246 5-303 5-885
+=== pātubhūtaṃ ×5  TB: become manifest, appeared (neuter sg. participle): ထင်ရှားလာပြီးသော
+   map: «ထင်ရှား ပေါ်ပေါက်သော» ×5
+   DEC: pātubhūtaṃ|0 «ထင်ရှားလာပြီးသော»: pi-2 locked; §A14
+   ids: 5-283 5-284 5-296 5-568 5-829
+=== ajātaṃ ×5  TB: not yet come to birth (participle): မမွေးဖွားသေးသော
+   map: «မဖြစ်သေးသော» ×5
+   DEC: ajātaṃ|0 «မမွေးဖွားသေးသော»: §A14: the pi-2 list wording (ch7 ^5-300), the negative of jātaṃ «မွေးဖွားပြီးသော» (locked); «မဖြစ်သေးသော» (5) aligns
+   ids: 5-283 5-284 5-296 5-568 5-625
+=== paccayatā ×5  TB: conditionality, in idappaccayatā (compound final), also being a condition, in the paccayatā debates: အကြောင်းဖြစ်ခြင်း
+   map: «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» ×5
+   DEC: paccayatā|0 «အကြောင်းဖြစ်ခြင်း»: "being a condition" (the paccayatā debates ^5-903 … ^5-907, the Paccayatākathā heading); pi-2 «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» is the word of idappaccayatā, which has its own entry; departs from the pi-2 TAGDIFF match
+   ids: 5-308 5-314 5-318 5-322 5-450
+=== janā ×5  TB: folk, individuals (nominative pl.): လူ
+   map: «(no direct equivalent)» ×5
+   ids: 5-313 5-334 5-347 5-350 5-352
+=== ñāṇaṃ ×5  TB: knowledge, knowing, also in aññāṇaṃ 'not knowing' (nominative sg.): ဉာဏ်
+   map: «သိခြင်း» ×5
+   DEC: ñāṇaṃ|0 «ဉာဏ်»: pi-4 / pi-2 / pi-1 locked; 55 of 60 uses
+   ids: 5-314 5-315 5-316 5-317 5-353
+=== ṭhito ×5  TB: established in, abiding in, in phale ṭhito 'established in the fruit' (nominative sg. participle): တည်နေသော
+   map: «တည်သော» ×5
+   DEC: ṭhito|0 «တည်နေသော»: pi-4 locked; «တည်သော» aligns
+   ids: 5-333 5-344 5-372 5-896 5-907
+=== uppādako ×5  TB: one who draws a Buddha's blood, in ruhiruppādako (nominative): ထွက်စေသူ
+   map: «စိမ်းစေသူ» ×5
+   DEC: uppādako|0 «ထွက်စေသူ»: §A13: = uppādakā «ထွက်စေသူ» (ruhiruppāda)
+   ids: 5-334 5-350 5-847 5-859 5-877
+=== anuttaraṃ ×5  TB: unsurpassable, having nothing higher (neuter sg.): ထိုထက် သာလွန်သည် မရှိသော
+   map: «အမြတ်ဆုံး» ×5
+   DEC: anuttaraṃ|0 «ထိုထက် သာလွန်သည် မရှိသော»: pi-2 locked (a candidate); keeps anuttara apart from seṭṭha «အမြတ်ဆုံး»
+   ids: 5-374 5-791 5-793 5-797 5-800
+=== Yaṃ kiñci ×5  TB: anything at all, whatever (relative-indefinite pronoun, neuter): မည်သည့် … မဆို
+   map: «မှန်သမျှ» ×5
+   DEC: Yaṃ kiñci|0 «မည်သည့် … မဆို»: pi-2 locked (a candidate); the stock phrase yaṃ kiñci samudayadhammaṃ (^5-418, ^5-528 …) «မှန်သမျှ» aligns
+   ids: 5-418 5-528 5-532 5-533 5-534
+=== niggahetabbe ×4  TB: ought to be rebutted (gerundive): ချေပရမည့်
+   map: «ချေပရမည့်» ×2; «ချေပရသည်» ×2
+   DEC: niggahetabbe|0 «ချေပရမည့်»: gerundive = «…မည့်» (pi-1 mapping rule 3); the frame sentences «hevaṃ niggahetabbe» keep the approved sample wording (my5 §3)
+   ids: 5-3 5-5 5-8 5-10
+=== ñāṇa ×4  TB: knowledge, in ñāṇasampayutta (compound member): ဉာဏ်
+   map: «သိခြင်း» ×4
+   DEC: ñāṇa|0 «ဉာဏ်»: pi-4 / pi-2 / pi-1 locked; 10 of 14 uses
+   ids: 5-10-2-1-0 5-349 5-549 5-550
+=== jāto ×4  TB: born, come into being (nominative sg. participle): ပေါ်ပေါက်သော
+   map: «မွေးဖွားလာသော» ×2; «ဖွားမြင်တော်မူခဲ့သော» ×1; «ဖွားမြင်တော်မူသော» ×1
+   DEC: jāto|0 «ပေါ်ပေါက်သော»: 6 of 11 uses (sahajāto, kept apart from sahagato «အတူ ဖြစ်သော» in the ^5-703 list); pi-2 «မွေးဖွားသော» never occurs in the pi-5 text (kept, reported); bhagavā jāto has its own entry «… ဖွားမြင်တော်မူသော»
+   ids: 5-65 5-66 5-802 5-803
+=== sayaṃ ×4  TB: by oneself, personally (adverb): ကိုယ်တိုင်
+   map: «မိမိ» ×4
+   DEC: sayaṃ|0 «ကိုယ်တိုင်»: pi-4 / pi-2 locked (a candidate); sayaṃkataṃ «ကိုယ်တိုင် ပြုသော»; keeps «မိမိ» for atta / saka
+   ids: 5-171 5-175 5-177 5-179
+=== saṇṭhāti ×4  TB: remains settled (3rd sg.): တည်နေသည်
+   map: «တည်သည်» ×4
+   DEC: saṇṭhāti|0 «တည်နေသည်»: pi-4 locked; = tiṭṭhati
+   ids: 5-241 5-280 5-493 5-691
+=== sañjātaṃ ×4  TB: come to birth, arisen (participle): ကောင်းစွာ မွေးဖွားပြီးသော
+   map: «ဖြစ်ပေါ်သော» ×3; «ပေါ်ပေါက်သော» ×1
+   DEC: sañjātaṃ|0 «ကောင်းစွာ မွေးဖွားပြီးသော»: §A14: the pi-2 list wording (ch7 ^5-300), family jātaṃ «မွေးဖွားပြီးသော» (pi-2 locked); ch5 / ch17 «ဖြစ်ပေါ်သော» align
+   ids: 5-283 5-284 5-568 5-829
+=== vigataṃ ×4  TB: departed, gone away (neuter sg. participle): ကင်းပျောက်ပြီးသော
+   map: «ကင်းကွာပြီးသော» ×4
+   DEC: vigataṃ|0 «ကင်းပျောက်ပြီးသော»: pi-2 locked; §A14 (ch5 / ch17 «ကင်းကွာပြီး» align)
+   ids: 5-283 5-284 5-296 5-568
+=== nibbattaṃ ×4  TB: produced, brought into being (neuter sg. participle): ပေါ်ထွက်ပြီးသော
+   map: «ဖြစ်မြောက်သော» ×3; «ဖြစ်ထွန်းသော» ×1
+   DEC: nibbattaṃ|0 «ပေါ်ထွက်ပြီးသော»: pi-2 locked; §A14
+   ids: 5-283 5-284 5-568 5-829
+=== nirodhadhammaṃ ×4  TB: having the nature to cease: ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော
+   map: «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» ×4
+   DEC: nirodhadhammaṃ|0 «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော»: §A20: 7 of 11 uses; the approved list form «ချုပ်ငြိမ်းတတ်သော သဘော» (my5 §7, = vayadhamma); ch10 «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» aligns
+   ids: 5-317 5-321 5-325 5-346
+=== Saha ×4  TB: together with, at the same time as (compound member and preposition): အတူ
+   map: «တစ်ပြိုင်နက်» ×4
+   DEC: saha|0 «အတူ»: pi-2 locked; 21 of 28; «တစ်ပြိုင်နက်» (saha upapattiyā, ^5-278 …) aligns
+   ids: 5-317 5-388 5-389 5-390
+=== saṃvattaniyaṃ ×4  TB: conducive to (nominative sg.): ဖြစ်စေတတ်သော
+   map: «ပို့ဆောင်တတ်သော» ×3; «ရောက်စေတတ်သော» ×1
+   DEC: saṃvattaniyaṃ|0 «ဖြစ်စေတတ်သော»: §A26: one verb «ဖြစ်စေ» = pi-2 locked saṃvattanikā «ဖြစ်စေသော» (aligned), saṃvattati «ဖြစ်စေသည်»; «ပို့ဆောင်» / «ရောက်စေ» align
+   ids: 5-549 5-550 5-777 5-894
+=== nirodho ×4  TB: ending (nominative sg.): ချုပ်ငြိမ်းခြင်း
+   map: «ချုပ်သော» ×4
+   DEC: nirodho|0 «ချုပ်ငြိမ်းခြင်း»: pi-4 locked; 16 of 20; «ချုပ်သော» is ekanirodho of the ^5-703 list
+   ids: 5-703 5-704 5-771 5-773
+=== buddhānaṃ ×4  TB: the Awakened Ones (genitive pl.): ဘုရားရှင်
+   map: «ဘုရား» ×4
+   DEC: buddhānaṃ|0 «ဘုရားရှင်»: pi-4 locked; family buddha
+   ids: 5-883 5-884 5-885 5-891
+=== vādī ×3  TB: one who speaks, compound final in musāvādī, also in the epithets of the Tathāgata, saccavādī, tathavādī and the like: ဆိုတော်မူသော; party to the debate, in sakavādī (own side) and paravādī (the opponent) of the question notes: တစ်ဖက်သား
+   map: «မိမိဘက်» ×2; «ပြောသော» ×1
+   DEC: vādī|0 «ဆိုတော်မူသော»: 8 of 9 uses (the Tathāgata epithets, my5 §7; each epithet also has its own entry); ^5-857 musāvādī (not the Buddha): Burmese speaker / rails to keep the plain «ပြောသော» there (honorific only for the Buddha; vādino «ပြောသော»)
+   DEC: vādī|1 «တစ်ဖက်သား»: 4 of 6 uses (paravādīpucchā), = vādissa «တစ်ဖက်သား»; sakavādī / sakavādi keep their own approved entries «မိမိဘက်» (my5 §6), so the bare member is the debater «တစ်ဖက်သား»
+   ids: 5-1 5-344 5-857
+=== satta ×3  TB: living creatures: သတ္တဝါ
+   map: «အသညသတ်» ×3
+   DEC: satta|0 «သတ္တဝါ»: 9 of 12 uses; «အသညသတ်» only inside the realm name asaññasatta (proper names stay names)
+   ids: 5-23-10-1-0 5-735 5-736
+=== sukha ×3  TB: pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa): သာယာမှု; happiness, well-being in the everyday sense, in sukhadukkha 'pleasure and pain' of the views and the perversion 'dukkhe sukhan'ti' (compound member and quoted word), also in Sukhānuppadānakathā: ချမ်းသာ
+   map: «သုခ» ×3
+   DEC: sukha|0 «သာယာမှု»: pi-4 / pi-3 / pi-2 / pi-1 locked; «သာယာသော» the attributive inside sukhasahagata / sukhasamphassa
+   DEC: sukha|1 «ချမ်းသာ»: 18 of 22 uses; approved sample sukhadukkha «ချမ်းသာနှင့် ဆင်းရဲ» (my5 §7); §A19: «သုခ» (^5-748, ^5-775, ^5-801, ch24 heading) aligns
+   ids: 5-24-3-1-0 5-775 5-801
+=== arūpadhātu ×3  TB: the immaterial realm of existence (nominative sg.): ရုပ်မရှိသော ဘုံ
+   map: «ရုပ်မရှိသော ဓာတ်» ×3
+   DEC: arūpadhātu|0 «ရုပ်မရှိသော ဘုံ»: pi-2 locked; approved plane name; 5 of 8 uses
+   ids: 5-24-10-1-0 5-773 5-774
+=== niruddhāya ×3  TB: when ended (feminine locative participle): ချုပ်ငြိမ်းပြီးသော
+   map: «ချုပ်ငြိမ်းသွားသော» ×2; «ချုပ်ငြိမ်းသော» ×1
+   DEC: niruddhāya|0 «ချုပ်ငြိမ်းပြီးသော»: family: pi-2 locked niruddhaṃ / niruddhā «ချုပ်ငြိမ်းပြီးသော» (the same participle, feminine locative); the candidates differ only in the aspect word; outside the candidates for the family
+   ids: 5-105 5-106 5-398
+=== tiṭṭhati ×3  TB: stands upright, on dry land (3rd sg. present), the paired value also covering remaining static: တည်နေသည်
+   map: «တည်သည်» ×3
+   DEC: tiṭṭhati|0 «တည်နေသည်»: family ṭhito / ṭhitā «တည်နေသော» (pi-4 locked); pi-4 «ရပ်တည်နေသည်» never occurs (reported)
+   ids: 5-217 5-233 5-321
+=== uppajjati ×3  TB: arises, comes into being (3rd sg. present): ဖြစ်ပေါ်သည်
+   map: «ပေါ်ပေါက်လာသည်» ×1; «ပေါ်ပေါက်သည်» ×1; «ပွင့်ထွန်းတော်မူသည်» ×1
+   DEC: uppajjati|0 «ဖြစ်ပေါ်သည်»: pi-2 / pi-1 locked; 35 of 38 uses; pi-4 «ပွင့်ထွန်းတော်မူသည်» is pi-4's context form «tathāgato loke uppajjati» (pi-4 APPROVED part 4a), kept only there
+   ids: 5-230 5-270 5-654
+=== dhamma ×3  TB: phenomena, states (as in the book title Dhammasaṅgaṇī), the same value also naming mind-objects, what the mind as sixth sense knows (as in dhammāyatana): သဘောတရား; the Buddha's teaching, in dhammamacchariya and dhammapaṭisanthāra, here also in dhammadesanā and the fixed names dhammacakka, dhammacakkhu and dhammavinaya, and the truth in dhammaṭṭha and dhammaniyāmatā: တရား; field, domain, in sadhammakusala and paradhammakusala 'skilled in one's own or in another's field' (compound member): အရာ
+   map: «ဓမ္မ» ×3
+   DEC: dhamma|1 «တရား»: pi-4 / pi-2 / pi-1 locked dhamma «the Buddha's teaching» «တရား»; 24 of 28 uses; «ဓမ္မ» only the fixed name dhammacakka «ဓမ္မစကြာ» (own phrase entry, §A12)
+   ids: 5-270 5-333 5-802
+=== buddhe ×3  TB: toward the Buddha (locative sg.): ဘုရားရှင်
+   map: «ဘုရား» ×3
+   DEC: buddhe|0 «ဘုရားရှင်»: pi-2 locked; family buddha
+   ids: 5-274 5-340 5-366
+=== saha ×3  TB: together with, at the same time as (compound member and preposition): အတူ
+   map: «တစ်ပြိုင်နက်» ×3
+   DEC: saha|0 «အတူ»: pi-2 locked; 21 of 28; «တစ်ပြိုင်နက်» (saha upapattiyā, ^5-278 …) aligns
+   ids: 5-278 5-321 5-325
+=== parinibbuto ×3  TB: fully extinguished (participle): ပရိနိဗ္ဗာန် ပြုပြီးသော
+   map: «ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့သော» ×2; «ပရိနိဗ္ဗာန် ပြုတော်မူသော» ×1
+   DEC: parinibbuto|0 «ပရိနိဗ္ဗာန် ပြုပြီးသော»: §A15: the approved sample form (ch1 «ပရိနိဗ္ဗာန် ပြုပြီး»); the Buddha's uses (^5-281, ^5-802, ^5-896) add the honorific «တော်မူ» (as parinibbute)
+   ids: 5-281 5-802 5-896
+=== puna ×3  TB: furthermore (adverb): တစ်ဖန်
+   map: «(no direct equivalent)» ×3
+   ids: 5-281 5-296 5-401
+=== abbhatthaṅgataṃ ×3  TB: gone down entirely, vanished (neuter sg. participle): လုံးဝ ကွယ်ပျောက်ပြီးသော
+   map: «လုံးဝ ကွယ်ပြီးသော» ×3
+   DEC: abbhatthaṅgataṃ|0 «လုံးဝ ကွယ်ပျောက်ပြီးသော»: pi-2 locked; §A14 (ch5 / ch17 «လုံးဝ ကွယ်ပြီး» align)
+   ids: 5-283 5-284 5-568
+=== abhinibbattaṃ ×3  TB: brought fully into being (neuter sg. participle): ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော
+   map: «ထင်ရှားစွာ ဖြစ်မြောက်သော» ×3
+   DEC: abhinibbattaṃ|0 «ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော»: §A14: the pi-2 list wording (pi-2 locked; = nibbattaṃ «ပေါ်ထွက်ပြီးသော»)
+   ids: 5-283 5-284 5-568
+=== atthaṅgataṃ ×3  TB: gone down, disappeared (participle): ကွယ်ပျောက်ပြီးသော
+   map: «ကွယ်ပြီးသော» ×3
+   DEC: atthaṅgataṃ|0 «ကွယ်ပျောက်ပြီးသော»: §A14: family abbhatthaṅgataṃ «လုံးဝ ကွယ်ပျောက်ပြီးသော» (pi-2 locked)
+   ids: 5-283 5-284 5-568
+=== arahattaṃ ×3  TB: the state of a worthy one (accusative): ရဟန္တာ အဖြစ်
+   map: «ရဟန္တာ ဖိုလ်» ×3
+   DEC: arahattaṃ|0 «ရဟန္တာ အဖြစ်»: §A32: the state (harmonise B6 ARHT); 4 of 7; «ရဟန္တာ ဖိုလ်» stays only in the fruit-realisation formula (Arahattasacchikiriyāya)
+   ids: 5-313 5-317 5-325
+=== samāpannassa ×3  TB: of one who has entered a meditative attainment (genitive sg.): သမာပတ်ကို ဝင်စားနေသော
+   map: «ဝင်စားနေသော» ×3
+   DEC: samāpannassa|0 «သမာပတ်ကို ဝင်စားနေသော»: 7 of 15 uses; family samāpatti «သမာပတ်»; nearest to pi-2 / pi-1 «ဈာန် ဝင်စားသော» (not a candidate, the object included)
+   ids: 5-330 5-331 5-735
+=== jāti ×3  TB: birth, being born (nominative sg.), also rebirth, in jātisaṃsāra, the last birth and the jāti of dependent origination: မွေးဖွားခြင်း; kind, sort, in gandhajāti 'kinds of scent' (compound member): မျိုး
+   map: «ဖြစ်ခြင်း» ×2; «ပဋိသန္ဓေ နေခြင်း» ×1
+   DEC: jāti|0 «မွေးဖွားခြင်း»: 5 of 10 uses (dependent origination ^5-296, ^5-449 …); = jātiyā|1, jāyiṃsu «မွေးဖွား»; «ပဋိသန္ဓေ နေခြင်း», «ဘဝ», «ဖြစ်ခြင်း» (jātidhamma) align
+   ids: 5-333 5-622 5-624
+=== paṭiladdhāni ×3  TB: acquired (neuter pl. participle): ရရှိပြီးသော
+   map: «ရပြီးသော» ×3
+   DEC: paṭiladdhāni|0 «ရရှိပြီးသော»: family paṭiladdho
+   ids: 5-396 5-411 5-412
+=== seṭṭho ×3  TB: supreme (nominative): အကောင်းဆုံး
+   map: «အမြတ်ဆုံး» ×2; «မြတ်သော» ×1
+   DEC: seṭṭho|0 «အကောင်းဆုံး»: pi-4 locked; keeps seṭṭha apart from agga «အမြတ်ဆုံး» (pi-4 / pi-2 locked) in the lion's-roar list ^5-401 «aggo … jeṭṭho … seṭṭho» (text «ထိပ်ဆုံး / အကြီးဆုံး / အမြတ်ဆုံး») and the ^5-799 verse (synonym-list rule); the candidates are agga's locked word and brahma's «မြတ်သော»; outside the candidates
+   ids: 5-401 5-799 5-872
+=== abhisametuṃ ×3  TB: to penetrate, comprehend fully (infinitive): ထင်ထင်ရှားရှား သိမြင်ရန်
+   map: «ထိုးထွင်း သိနိုင်သော» ×1; «ထိုးထွင်း သိမြင်ရန်» ×1; «ထိုးထွင်း သိ၍» ×1
+   DEC: abhisametuṃ|0 «ထင်ထင်ရှားရှား သိမြင်ရန်»: coordinator review 2026-11-22: abhisamaya family (locked pi-4 «ထင်ထင်ရှားရှား သိမြင်ခြင်း»); not vipassanā's word
+   ids: 5-431 5-641 5-664
+=== eva ×3  TB: just, indeed, emphatic particle (enclitic): ပင်
+   map: «သာ» ×3
+   DEC: eva|0 «ပင်»: 131 of 141 uses: the emphatic "indeed" of the tag (the approved frame «Attheva suttanto» «ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော», my5 §3); pi-4 / pi-1 «သာ» ("only") fits only the 10 restrictive uses (dukkhameva, saccārammaṇaññeva …): departs from pi-4 / pi-1; Burmese speaker / rails to keep «သာ» for those
+   ids: 5-435 5-511 5-546
+=== manasikārā ×3  TB: attending, giving attention, in amanasikārā 'through not attending' (ablative): နှလုံးသွင်းခြင်း
+   map: «နှလုံး သွင်း» ×3
+   DEC: manasikārā|0 «နှလုံးသွင်းခြင်း»: pi-2 locked; = manasikāro (§F8 bare stem)
+   ids: 5-576 5-580 5-584
+=== bhāvitā ×3  TB: made to grow (participle pl.): ပွားများပြီးသော
+   map: «ပွားများထားသော» ×3
+   DEC: bhāvitā|0 «ပွားများပြီးသော»: family bhāvito (the phrase bhāvitā bahulīkatā keeps its own formula wording)
+   ids: 5-623 5-904 5-905
+=== tiracchānayoniṃ ×3  TB: the womb of beasts (accusative): တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား
+   map: «တိရစ္ဆာန် ဘဝ» ×2; «တိရစ္ဆာန် ဘုံ» ×1
+   DEC: tiracchānayoniṃ|0 «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»: family yoni «မွေးဖွားရာ အမျိုးအစား»; «… ဘဝ / ဘုံ» align
+   ids: 5-652 5-653 5-707
+=== yoniṃ ×3  TB: mode of generation, birth-sphere (accusative): မွေးဖွားရာ အမျိုးအစား
+   map: «ဘဝ» ×2; «ဘုံ» ×1
+   DEC: yoniṃ|0 «မွေးဖွားရာ အမျိုးအစား»: family yoni
+   ids: 5-652 5-653 5-707
+=== paṭilabheyya ×3  TB: would gain (optative): ရသည်
+   map: «ရသည်» ×3
+   ids: 5-658 5-659 5-685
+=== kusalaṃ paṭilabheyya ×3  TB: would gain a skilful (phrase): ကုသိုလ် … ရသည်
+   map: «ကုသိုလ် … ရသည်» ×3
+   ids: 5-658 5-659 5-685
+=== kusalaṃ cittaṃ ×3  TB: a wholesome mind (nominative sg.): ကုသိုလ်စိတ်
+   map: «ကုသိုလ် စိတ်» ×3
+   DEC: kusalaṃ cittaṃ|0 «ကုသိုလ်စိတ်»: pi-2 locked (spelling, joined)
+   ids: 5-658 5-659 5-685
+=== aṅgaṃ ×3  TB: factor, limb, as in maggaṅga and jhānaṅga (nominative sg.): အင်္ဂါ
+   map: «(no direct equivalent)» ×3
+   ids: 5-663 5-743 5-745
+=== parinipphanno ×3  TB: completely produced (nominative participle, also heading): ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   map: «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» ×3
+   DEC: parinipphanno|0 «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»: §A24: family parinipphannaṃ
+   ids: 5-720 5-721 5-722
+=== parinipphannaṃ ×3  TB: completely produced (neuter participle, also heading): ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   map: «ပြည့်စုံစွာ ပြီးမြောက်သော» ×2; «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» ×1
+   DEC: parinipphannaṃ|0 «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»: §A24: the form of ch19's whole debate (^5-627 … ^5-629, Maraṇaṃ / Dhammaṭṭhitatā parinipphann-); ch23 «အမှန်တကယ် …» and ch31 «… ပြီးမြောက်သော» align
+   ids: 5-723 5-917 5-918
+=== nirodhaṃ samāpanno ×3  TB: one who has attained the stopping (phrase): ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော
+   map: «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» ×3
+   DEC: nirodhaṃ samāpanno|0 «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»: family Nirodhaṃ samāpannassa / nirodhasamāpatti «ချုပ်ငြိမ်းခြင်း သမာပတ်»; the attainment is not a jhāna
+   ids: 5-732 5-733 5-742
+=== sukhaṃ ×3  TB: pleasure, happiness, or pleasant (neuter sg.): သာယာမှု; comfort, ease, in seyyasukhaṃ, passasukhaṃ and middhasukhaṃ (compound final), here happiness, well-being, as in dibbaṃ sukhaṃ and sukhaṃ dukkhaṃ: ချမ်းသာ
+   map: «သုခ» ×3
+   DEC: sukhaṃ|1 «ချမ်းသာ»: 15 of 19 uses; = sukha|1; §A19: «သုခ» aligns
+   DEC: sukhaṃ|0 «သာယာမှု»: pi-4 locked; = sukha|0 (the noun)
+   ids: 5-743 5-745 5-747
+=== avasesā ×3  TB: the remaining ones, the rest (nominative pl.): ကြွင်းကျန်သော
+   map: «ကြွင်းသော» ×3
+   DEC: avasesā|0 «ကြွင်းကျန်သော»: pi-4 locked
+   ids: 5-789 5-790 5-801
+=== saññī ×3  TB: perceiving, having perception (masculine sg.): မှတ်သိသော
+   map: «မှတ်ထင်သော» ×3
+   DEC: saññī|0 «မှတ်သိသော»: pi-4 / pi-2 / pi-1 locked; NOTE: «mātusaññī» "taking her for one's mother" (^5-860 … ^5-862, text «မှတ်ထင်သော»): Burmese speaker to check
+   ids: 5-860 5-861 5-862
+=== pisuṇaṃ ×3  TB: slanderous (accusative): ကုန်းတိုက်သော စကား
+   map: «ကုန်းချောစကား» ×3
+   DEC: pisuṇaṃ|0 «ကုန်းတိုက်သော စကား»: pi-4 locked; §A27 (ch30 / ch31 «ကုန်းချောစကား» align)
+   ids: 5-901 5-908 5-909
+=== Paṭivedhānuyogo ×2  TB: heading 'inquiry into penetration': ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း
+   map: «ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း» ×2
+   DEC: Paṭivedhānuyogo|0 «ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း»: coordinator: paṭivedha family (locked pi-4); sample heading follows
+   ids: 5-1-20-0 5-205
+=== paṭivedha ×2  TB: penetration of truth: ထိုးဖောက်၍ သိခြင်း
+   map: «ထိုးထွင်း သိမြင်ခြင်း» ×2
+   DEC: paṭivedha|0 «ထိုးဖောက်၍ သိခြင်း»: coordinator: locked pi-4 paṭivedho family
+   ids: 5-1-20-0 5-205
+=== niggahetabbā ×2  TB: ought to be rebutted (gerundive pl.): ချေပရမည့်
+   map: «ချေပရသည်» ×2
+   DEC: niggahetabbā|0 «ချေပရမည့်»: family niggahetabbe (gerundive, rule 3); the frame keeps its approved wording
+   ids: 5-4 5-9
+=== Tena hi ×2  TB: 'well then', drawing the consequence: သို့ဖြစ်လျှင်
+   map: «သို့ဖြစ်၍» ×2
+   DEC: Tena hi|0 «သို့ဖြစ်လျှင်»: 145 of 147 uses; approved frame «Tena hi P-ti = သို့ဖြစ်လျှင် P» (my5 §3); «သို့ဖြစ်၍» only in the two approved sample frames «Tena hi yaṃ niggaṇhāsi / ye kate niggahe», which stay as approved
+   ids: 5-5 5-10
+=== sattama ×2  TB: ordinal 7th, in method headings: သတ္တမ
+   map: «ခုနစ်ကြိမ်မြောက်» ×2
+   DEC: sattama|0 «သတ္တမ»: pi-3 locked (ordinal in headings); 11 of 13 uses
+   ids: 5-20-10-1-0 5-653
+=== Añño ×2  TB: another, other (masculine pronoun): တခြားစီ
+   map: «တခြား» ×1; «အခြား» ×1
+   DEC: añño|0 «တခြားစီ»: approved frame «aññaṃ A añño B = … တခြားစီ» (my5 §7); 4 of 9; §A5: «တခြား» (^5-78, ^5-80) and «အခြား» (^5-89, ^5-90, ^5-801, «añño … paṭisaṃvedeti») align: Burmese speaker to check the last three
+   ids: 5-22-5-1-0 5-488
+=== buddhassa ×2  TB: of or to the Awakened One (genitive/dative): ဘုရားရှင်
+   map: «ဘုရား» ×2
+   DEC: Buddhassa|0 «ဘုရားရှင်»: family buddha (pi-2 / pi-4 locked «ဘုရားရှင်»); 5 of 6 uses
+   ids: 5-25-10-1-0 5-799
+=== āneñja ×2  TB: imperturbable (compound member): မတုန်လှုပ်ခြင်း; the cited sutta title Āneñjasappāya (name): အာနေဉ္ဇသပ္ပာယ
+   map: «မတုန်မလှုပ်သော» ×2
+   DEC: āneñja|0 «မတုန်လှုပ်ခြင်း»: pi-4 locked; §A26: one stem «မတုန်လှုပ်» (not «မတုန်မလှုပ်»)
+   ids: 5-30-3-1-0 5-894
+=== parinipphanna ×2  TB: completely produced (heading): ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   map: «ပြည့်စုံစွာ ပြီးမြောက်သော» ×2
+   DEC: parinipphanna|0 «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»: §A24: family parinipphannaṃ / parinipphannā
+   ids: 5-31-5-1-0 5-918
+=== manussalokā ×2  TB: from the world of humankind (ablative): လူ့ပြည်
+   map: «လူ့လောက» ×2
+   DEC: manussalokā|0 «လူ့ပြည်»: family manussaloka
+   ids: 5-87 5-88
+=== uppanne ×2  TB: arisen, when it has arisen (locative): ဖြစ်ပေါ်ပြီးသော
+   map: «ဖြစ်ပေါ်သော» ×2
+   DEC: uppanne|0 «ဖြစ်ပေါ်ပြီးသော»: pi-1 locked (pi-1 change uppanna «ဖြစ်ပေါ်ပြီးသော»)
+   ids: 5-116 5-117
+=== yugā ×2  TB: couples (nominative pl.): အစုံ
+   map: «အတွဲ» ×2
+   DEC: yugā|0 «အစုံ»: 4 of 6 uses; §A28 purisayuga «လူ အစုံ»
+   ids: 5-206 5-207
+=== purisayugā ×2  TB: couples of individuals: လူ အစုံ
+   map: «လူ အတွဲ» ×2
+   DEC: purisayugā|0 «လူ အစုံ»: §A28: 4 of 6 uses (^5-791 …); ch1 «လူ အတွဲ» aligns
+   ids: 5-206 5-207
+=== pātubhavanti ×2  TB: appear, become manifest (3rd pl. present): ထင်ရှား ပေါ်လာသည်
+   map: «ပေါ်ပေါက်သည်» ×2
+   DEC: pātubhavanti|0 «ထင်ရှား ပေါ်လာသည်»: family pātu-: pi-2 locked pātubhāvo «ထင်ရှား လာခြင်း», pātubhūtaṃ «ထင်ရှားလာပြီးသော»; closest to pi-2 «ထင်ရှားလာသည်» (absent); keeps pātubhavati apart from uppajjati «ဖြစ်ပေါ်» / jāta «ပေါ်ပေါက်»
+   ids: 5-207 5-401
+=== uppādo ×2  TB: arising, origination (nominative sg.): ဖြစ်ပေါ်ခြင်း
+   map: «ဖြစ်ခြင်း» ×2
+   DEC: uppādo|0 «ဖြစ်ပေါ်ခြင်း»: 5 of 7 uses; pi-2 / pi-1 «ဖြစ်ပေါ်မှု» never occurs (kept, reported); family uppajjati «ဖြစ်ပေါ်»
+   ids: 5-214 5-215
+=== paṭivedho ×2  TB: piercing through (nominative): ထိုးဖောက်၍ သိခြင်း
+   map: «ထိုးထွင်း သိမြင်ခြင်း» ×1; «ထိုးထွင်း သိခြင်း» ×1
+   DEC: paṭivedho|0 «ထိုးဖောက်၍ သိခြင်း»: coordinator review 2026-11-22: locked pi-4 term; keeps paṭivedha apart from vipassanā «ထိုးထွင်းသိမြင်ခြင်း» (locked pi-1/2/4), which differed only by a space
+   ids: 5-272 5-346
+=== abhabbo ×2  TB: unfit, cannot (nominative sg.): မထိုက်တန်
+   map: «မစွမ်းနိုင်» ×1; «(no direct equivalent)» ×1
+   DEC: abhabbo|0 «မထိုက်တန်»: 3 of 4 uses; mapper binding (pi-1 … pi-4 value Abhabbo «မထိုက်တန်», ^5-641); polarity pair bhabbo «ထိုက်တန်သော»
+   ids: 5-278 5-661
+=== abhabba ×2  TB: incapable (compound member): မထိုက်တန်သော
+   map: «မစွမ်းနိုင်» ×2
+   DEC: abhabba|0 «မထိုက်တန်သော»: pi-4 locked; family abhabbo
+   ids: 5-278 5-346
+=== avasesaṃ ×2  TB: the remaining, the rest (neuter sg.): ကြွင်းကျန်သော
+   map: «အကြွင်း» ×2
+   DEC: avasesaṃ|0 «ကြွင်းကျန်သော»: pi-1 locked
+   ids: 5-279 5-623
+=== ādāna ×2  TB: taking up, compound final (stem): ကိုင်ခြင်း
+   map: «ယူခြင်း» ×2
+   DEC: ādāna|0 «ကိုင်ခြင်း»: pi-2 locked (taking up, compound final)
+   ids: 5-293 5-546
+=== uppādeyya ×2  TB: would cause, as in shedding the Buddha's blood (optative), also would bring about, in methunaṃ uppādeyya: ထွက်စေသည်
+   map: «ဖြစ်စေသည်» ×2
+   DEC: uppādeyya|0 «ထွက်စေသည်»: pi-2 locked (the Buddha's blood, ^5-648); §A13 ruhiruppādaka «… သွေးကို ထွက်စေသူ» follows; NOTE: methunaṃ uppādeyya (^5-310, ^5-387) means "bring about": Burmese speaker / rails to keep «ဖြစ်စေ» there
+   ids: 5-310 5-387
+=== pāṇaṃ ×2  TB: a breathing creature (accusative): သတ္တဝါ
+   map: «သူ့အသက်» ×2
+   DEC: pāṇaṃ|0 «သတ္တဝါ»: 7 of 9 uses
+   ids: 5-314 5-784
+=== brahma ×2  TB: divine, sublime, in brahmavihāra (compound member), also the sublime life, in brahmacariya and brahmacārī, and in brahmabhūta: မြင့်မြတ်သော
+   map: «မြတ်သော» ×2
+   DEC: brahma|0 «မြင့်မြတ်သော»: pi-4 locked; text inconsistency §A31 («မြင့်မြတ်သော» 23 uses, «မြတ်သော» ch10 3 uses align)
+   ids: 5-321 5-338
+=== kiñci ×2  TB: anything at all (indefinite pronoun): တစ်စုံတစ်ရာ
+   map: «မှန်သမျှ» ×2
+   DEC: kiñci|0 «တစ်စုံတစ်ရာ»: 3 of 5 uses
+   ids: 5-321 5-325
+=== akusalaṃ cittaṃ ×2  TB: an unwholesome mind (nominative sg.): အကုသိုလ်စိတ်
+   map: «အကုသိုလ် စိတ်» ×2
+   DEC: akusalaṃ cittaṃ|0 «အကုသိုလ်စိတ်»: pi-2 locked (spelling, joined)
+   ids: 5-336 5-702
+=== paṭiladdho ×2  TB: acquired (nominative participle): ရရှိပြီးသော
+   map: «ရသော» ×2
+   DEC: paṭiladdho|0 «ရရှိပြီးသော»: 10 of 12 uses
+   ids: 5-338 5-378
+=== accanta ×2  TB: completely, to the very end: အပြီးအပိုင်
+   map: «အဆုံးစွန်» ×1; «လုံးဝ» ×1
+   DEC: accanta|0 «အပြီးအပိုင်»: 8 of 10 uses
+   ids: 5-338 5-353
+=== paṭivijānanti ×2  TB: comprehend, recognise (3rd pl. present): ခွဲခြား သိသည်
+   map: «ထိုးထွင်း သိသည်» ×2
+   DEC: paṭivijānanti|0 «ခွဲခြား သိသည်»: family paṭivijānāti; «ထိုးထွင်း» is paṭivedha's word
+   ids: 5-347 5-352
+=== uppannassa ×2  TB: of what has arisen (genitive sg. participle): ဖြစ်ပေါ်ပြီးသော
+   map: «ဖြစ်ပေါ်သော» ×2
+   DEC: uppannassa|0 «ဖြစ်ပေါ်ပြီးသော»: pi-2 locked (pi-1 change uppanna)
+   ids: 5-354 5-443
+=== cariyā ×2  TB: conduct, behaviour, in adhammacariyā (nominative sg.): အကျင့်
+   map: «ကျင့်ကြံမှု» ×2
+   DEC: cariyā|0 «အကျင့်»: pi-2 locked; «ကျင့်ကြံ» is paṭipanna's word
+   ids: 5-354 5-400
+=== samāpattīnaṃ ×2  TB: of the meditative attainments (genitive pl.): သမာပတ်
+   map: «ဈာန် ဝင်စားရာ» ×2
+   DEC: samāpattīnaṃ|0 «သမာပတ်»: family samāpatti «သမာပတ်»
+   ids: 5-355 5-570
+=== sabbattha ×2  TB: everywhere, in sabbatthagāminī 'leading to all destinations' (compound member), here also the adverb 'in every place': နေရာတိုင်း
+   map: «ဘုံ အားလုံး» ×1; «(no direct equivalent)» ×1
+   DEC: Sabbattha|0 «နေရာတိုင်း»: approved sample core term (sabbattha «နေရာတိုင်း၌», my5 §7); 5 of 5 uses; pi-2 «ဘုံ အားလုံး» is the sabbatthagāminī member (another use, not in pi-5)
+   ids: 5-355 5-525
+=== viloketi ×2  TB: looks around, looks aside (3rd sg. present): ဘေးသို့ ကြည့်သည်
+   map: «ကြည့်သည်» ×1; «ဝေ့ဝဲ ကြည့်သည်» ×1
+   DEC: viloketi|0 «ဘေးသို့ ကြည့်သည်»: pi-2 locked (pi-4 «ပတ်ဝန်းကျင်ကို ကြည့်သည်» never occurs, so the next locked book)
+   ids: 5-401 5-852
+=== purisassa ×2  TB: of a man (genitive sg.): ယောက်ျား
+   map: «ယောကျ်ား» ×2
+   DEC: purisassa|0 «ယောက်ျား»: pi-4 locked; §A17 standard spelling
+   ids: 5-402 5-514
+=== akāsi ×2  TB: did, performed (3rd sg. aorist): ပြုခဲ့သည်
+   map: «ကျင့်ခဲ့သည်» ×2
+   DEC: akāsi|0 «ပြုခဲ့သည်»: "did" = karoti «ပြု» (family); 2 / 2 uses
+   ids: 5-404 5-913
+=== pahātabbaṃ ×2  TB: to be abandoned (neuter sg. participle): ပယ်ရမည့်
+   map: «ပယ်ရမည့်» ×2
+   ids: 5-405 5-877
+=== bhāvetabbaṃ ×2  TB: to be cultivated (gerundive): ပွားများရမည့်
+   map: «ပွားများရမည့်» ×2
+   ids: 5-405 5-877
+=== pariññeyyaṃ ×2  TB: to be comprehended (gerundive): ပိုင်းခြား သိရမည့်
+   map: «ပိုင်းခြား သိရမည့်» ×2
+   ids: 5-405 5-877
+=== sacchikātabbaṃ ×2  TB: to be directly experienced (gerundive): မျက်မှောက်ပြုရမည့်
+   map: «မျက်မှောက်ပြုရမည့်» ×2
+   ids: 5-405 5-877
+=== sotāpattiphalaṃ paṭiladdhaṃ ×2  TB: the result of stream-entry acquired (phrase): သောတာပတ္တိဖိုလ်ကို ရသော
+   map: «သောတာပတ္တိဖိုလ်ကို ရသော» ×2
+   ids: 5-411 5-412
+=== samaṅgissa ×2  TB: of one endowed with, possessing (genitive sg.): ပြည့်စုံသော
+   map: «ရရှိထားသော» ×2
+   DEC: samaṅgissa|0 «ပြည့်စုံသော»: pi-2 / pi-1 locked; 8 of 10 uses
+   ids: 5-419 5-420
+=== dadantassa ×2  TB: of one offering (genitive present participle): ပေးနေသော
+   map: «ပေးလှူနေသော» ×1; «ပေးသော» ×1
+   DEC: dadantassa|0 «ပေးနေသော»: the present participle of the plain verb «ပေး»
+   ids: 5-434 5-603
+=== anāgāmi ×2  TB: non-return, the third stage (compound member): အနာဂါမိ
+   map: «အနာဂါမ်» ×2
+   DEC: anāgāmi|0 «အနာဂါမိ»: pi-4 / pi-2 locked (compound member spelling); 57 of 59
+   ids: 5-439 5-644
+=== sakadāgāmi ×2  TB: once-return, the second stage (compound member): သကဒါဂါမိ
+   map: «သကဒါဂါမ်» ×2
+   DEC: sakadāgāmi|0 «သကဒါဂါမိ»: pi-4 / pi-2 locked; 60 of 62
+   ids: 5-439 5-644
+=== dhammaniyāmatā ×2  TB: the regularity of phenomena (nominative sg.): သဘောတရားတို့၏ သေချာခြင်း
+   map: «တရား၏ သေချာခြင်း» ×2
+   DEC: dhammaniyāmatā|0 «သဘောတရားတို့၏ သေချာခြင်း»: the sutta pair with dhammaṭṭhitatā «သဘောတရားတို့၏ တည်နေခြင်း သဘော» (one dhamma word, ^5-450 / ^5-451)
+   ids: 5-450 5-451
+=== ṭhitatā ×2  TB: stableness, fixity: တည်နေခြင်း သဘော
+   map: «တည်ရှိခြင်း» ×2
+   DEC: ṭhitatā|0 «တည်နေခြင်း သဘော»: 3 of 5 uses (the ch11 heading Dhammaṭṭhitatākathā, the ch19 debate ^5-627 / ^5-629, the phrase entry ṭhitatā parinipphannā); the -tā abstract «… သဘော» as aniccatā / tathatā; the sutta ^5-450 / ^5-451 «တည်ရှိခြင်း» aligns
+   ids: 5-450 5-451
+=== dhammaṭṭhitatā ×2  TB: fixity of the order of phenomena: သဘောတရားတို့၏ တည်နေခြင်း သဘော
+   map: «တရား၏ တည်ရှိခြင်း» ×2
+   DEC: dhammaṭṭhitatā|0 «သဘောတရားတို့၏ တည်နေခြင်း သဘော»: the ch11 heading and uddāna (^5-19-7-1-0, ^5-629) and the phrase entry Dhammaṭṭhitatā parinipphannā; family ṭhitatā; the sutta pair ^5-450 / ^5-451 aligns, with dhammaniyāmatā re-aligned to «သဘောတရားတို့၏ သေချာခြင်း» (one dhamma word for the pair)
+   ids: 5-450 5-451
+=== ṭhitā ×2  TB: standing firm, settled (nominative pl. participle): တည်နေသော
+   map: «တည်သော» ×1; «တည်ပြီးသော» ×1
+   DEC: ṭhitā|0 «တည်နေသော»: pi-4 locked (same tag; «တည်နေ» occurs in the pi-5 text, ṭhito ^5-268 …); family ṭhito; the candidates «တည်သော / တည်ပြီးသော» align; outside the candidates
+   ids: 5-450 5-798
+=== gacchati ×2  TB: goes, takes a course, in 'agatiṃ gacchati' 'goes a wrong course' (3rd sg. present), here also of walking and travelling: သွားသည်; comes under, is reckoned, in 'saṅkhyaṃ gacchati' (3rd sg. present), here also reaches a state, in bhāvanāpāripūriṃ gacchati: ရသည်
+   map: «ရသည်» ×1; «ရောက်သည်» ×1
+   DEC: gacchati|1 «ရသည်»: 3 of 4 uses
+   ids: 5-471 5-874
+=== āhārā ×2  TB: nutriments, sustaining conditions (nominative pl.): အာဟာရ
+   map: «အစာ» ×2
+   DEC: āhārā|0 «အာဟာရ»: pi-2 locked (the four nutriments); = āhāre / āhārato
+   ids: 5-486 5-503
+=== bhojanīyaṃ ×2  TB: soft food to be eaten (nominative sg.): ဘောဇဉ်
+   map: «စားဖွယ်» ×2
+   DEC: bhojanīyaṃ|0 «ဘောဇဉ်»: §A27: 4 of 6 uses (the requisite lists)
+   ids: 5-488 5-901
+=== mātā ×2  TB: mother, in 'there is no mother' (nominative sg.): အမိ
+   map: «မိဘ» ×1; «(no direct equivalent)» ×1
+   DEC: mātā|0 «အမိ»: pi-4 / pi-2 / pi-1 locked
+   ids: 5-491 5-886
+=== paccati ×2  TB: is cooked, is tormented in hell (3rd sg. present passive): ပူလောင်ရသည်
+   map: «ကျက်သည်» ×2
+   DEC: paccati|0 «ပူလောင်ရသည်»: the tag's hell sense (^5-657, ^5-862); 2 / 2 uses
+   ids: 5-501 5-868
+=== manāpā ×2  TB: pleasing, delightful to the mind (feminine sg.): စိတ်နှင့် တွေ့သော
+   map: «နှစ်သက်ဖွယ် ကောင်းသော» ×2
+   DEC: manāpā|0 «စိတ်နှင့် တွေ့သော»: pi-2 locked (pi-4 / pi-1 «စိတ်တွေ့သော» never occurs); keeps manāpā apart from iṭṭhā / kantā in the ^5-512 list
+   ids: 5-512 5-514
+=== iṭṭhā ×2  TB: wished for, desired (nominative pl.): လိုလားဖွယ်ကောင်းသော
+   map: «လိုလားဖွယ် ကောင်းသော» ×2
+   DEC: iṭṭhā|0 «လိုလားဖွယ်ကောင်းသော»: pi-2 locked; §A10 / §A23: one spelling, joined (as rajanīyā, kantā)
+   ids: 5-512 5-514
+=== rajanīyā ×2  TB: arousing lust (nominative pl.): တပ်မက်ဖွယ်ကောင်းသော
+   map: «တပ်မက်ဖွယ် ကောင်းသော» ×2
+   DEC: rajanīyā|0 «တပ်မက်ဖွယ်ကောင်းသော»: §A10: one spelling, joined (as iṭṭhā pi-2 «လိုလားဖွယ်ကောင်းသော»)
+   ids: 5-512 5-514
+=== kantā ×2  TB: liked, agreeable speech (feminine sg.): ချစ်ခင်ဖွယ်ကောင်းသော
+   map: «ချစ်ခင်ဖွယ် ကောင်းသော» ×2
+   DEC: kantā|0 «ချစ်ခင်ဖွယ်ကောင်းသော»: pi-2 locked (a candidate, joined spelling); pi-4 / pi-1 «နှစ်သက်သော» (not a candidate) would merge kantā with attamanā / nandī «နှစ်သက်»
+   ids: 5-512 5-514
+=== yaṃ ×2  TB: relative pronoun, that which (neuter nominative sg.): အကြင်အရာ
+   map: «(no direct equivalent)» ×2
+   ids: 5-649 5-708
+=== amanussa ×2  TB: non-human beings, spirits (compound member): လူ မဟုတ်သူ
+   map: «လူ မဟုတ်သော» ×2
+   DEC: amanussa|0 «လူ မဟုတ်သူ»: pi-2 locked
+   ids: 5-650 5-651
+=== pajānāti ×2  TB: knows clearly, understands (3rd sg. present): ကွဲပြားစွာ သိသည်
+   map: «သိသည်» ×2
+   DEC: pajānāti|0 «ကွဲပြားစွာ သိသည်»: pi-4 / pi-2 locked; 7 of 9
+   ids: 5-671 5-749
+=== rāgo ×2  TB: lust, passion (nominative sg.): ရာဂ
+   map: «တပ်မက်မှု» ×2
+   DEC: rāgo|0 «ရာဂ»: pi-4 / pi-2 / pi-1 locked; 55 of 57; §A3
+   ids: 5-675 5-685
+=== yaṃ kiñci ×2  TB: anything at all, whatever (relative-indefinite pronoun, neuter): မည်သည့် … မဆို
+   map: «အကြင်» ×1; «ဟူသမျှ» ×1
+   DEC: Yaṃ kiñci|0 «မည်သည့် … မဆို»: pi-2 locked (a candidate); the stock phrase yaṃ kiñci samudayadhammaṃ (^5-418, ^5-528 …) «မှန်သမျှ» aligns
+   ids: 5-675 5-699
+=== nirodhaṃ ×2  TB: cessation, ending (accusative sg.): ချုပ်ငြိမ်းခြင်း
+   map: «ချုပ်သော» ×2
+   DEC: nirodhaṃ|0 «ချုပ်ငြိမ်းခြင်း»: pi-2 locked; 13 of 18; the attainment uses «ချုပ်ငြိမ်းရာ ဈာန်» (^5-732, ^5-733, ^5-825) follow nirodhasamāpatti «ချုပ်ငြိမ်းခြင်း သမာပတ်»
+   ids: 5-768 5-769
+=== rūpadhātu ×2  TB: the visible-form element, the object of the eye (nominative sg.): အဆင်းအရောင် ဓာတ်; the fine-material realm of existence, among the planes (nominative sg.), also as the fine-material element: သိမ်မွေ့သော ရုပ်ဘုံ
+   map: «သိမ်မွေ့သော ရုပ် ဓာတ်» ×2
+   DEC: rūpadhātu|1 «သိမ်မွေ့သော ရုပ်ဘုံ»: approved plane name «သိမ်မွေ့သော ရုပ်ဘုံ» (burmese-style); 6 of 8 uses
+   ids: 5-771 5-772
+=== saṃvattaniyaṃ kammaṃ ×2  TB: deed conducive to (phrase): ဖြစ်စေတတ်သော ကံ
+   map: «ရောက်စေတတ်သော ကံ» ×1; «ပို့ဆောင်တတ်သော ကံ» ×1
+   DEC: saṃvattaniyaṃ kammaṃ|0 «ဖြစ်စေတတ်သော ကံ»: §A26: family saṃvattaniyaṃ «ဖြစ်စေတတ်သော» (the two candidates are the text's two other verbs); outside the candidates
+   ids: 5-777 5-894
+=== hareyya ×2  TB: would carry off, in nillopaṃ hareyya 'carry off plunder' (optative): လုယူသည်
+   map: «တိုက်သည်» ×1; «(no direct equivalent)» ×1
+   DEC: hareyya|0 «လုယူသည်»: §A27: the verb itself "carry off"; «တိုက်» is the raid word of paripanthe tiṭṭheyya «ဓားပြ တိုက်»
+   ids: 5-784 5-901
+=== jīvitā ×2  TB: from life, deprived of life (ablative): အသက်
+   map: «(no direct equivalent)» ×2
+   ids: 5-858 5-859
+=== ruhiruppādako ānantariko ×2  TB: 'one who draws a Buddha's blood is guilty of an immediate deed' (phrase): ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော
+   map: «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော» ×2
+   DEC: ruhiruppādako ānantariko|0 «ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော»: §A13: = ruhiruppādako
+   ids: 5-859 5-877
+=== ruhiruppādako ×2  TB: one who draws a Buddha's blood (nominative): ဘုရားရှင်၏ သွေးကို ထွက်စေသူ
+   map: «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ» ×2
+   DEC: ruhiruppādako|0 «ဘုရားရှင်၏ သွေးကို ထွက်စေသူ»: §A13: ch3 ^5-269 «… ထွက်စေသူ» = uppādeyya «ထွက်စေ» (pi-2 locked), uppādakā; ch10 ^5-333 «စိမ်းစေသူ» aligns
+   ids: 5-859 5-877
+=== buddhā tiṭṭhanti ×2  TB: enlightened ones live on (phrase): ဘုရားရှင် တည်ရှိသည်
+   map: «ဘုရား တည်ရှိသည်» ×1; «ဘုရားတို့ တည်ရှိသည်» ×1
+   DEC: buddhā tiṭṭhanti|0 «ဘုရားရှင် တည်ရှိသည်»: family buddha «ဘုရားရှင်» (pi-2 / pi-4 locked) + tiṭṭhanti «တည်ရှိသည်»; the candidates have «ဘုရား», aligned in the whole family; outside the candidates
+   ids: 5-886 5-891
+=== āneñje ×2  TB: in the unshakable (locative): မတုန်လှုပ်သော အခြေ
+   map: «မတုန်မလှုပ်သော အခြေ» ×2
+   DEC: āneñje|0 «မတုန်လှုပ်သော အခြေ»: §A26: one stem «မတုန်လှုပ်» (āneñja pi-4 locked)
+   ids: 5-896 5-907
+=== khaṇikā ×2  TB: lasting for an instant (feminine): ခဏ၌သာ ဖြစ်သော
+   map: «ခဏမျှသာ တည်သော» ×2
+   DEC: khaṇikā|0 «ခဏ၌သာ ဖြစ်သော»: family khaṇiko
+   ids: 5-906 5-907
+=== cittakkhaṇikā ×2  TB: lasting for one instant of mind (feminine): စိတ် … ခဏ၌သာ ဖြစ်သော
+   map: «စိတ် … ခဏမျှသာ တည်သော» ×2
+   DEC: cittakkhaṇikā|0 «စိတ် … ခဏ၌သာ ဖြစ်သော»: family cittakkhaṇiko (feminine of the same word)
+   ids: 5-906 5-907
+=== paṭisevitabbo ×2  TB: to be indulged in (gerundive): မှီဝဲရမည့်
+   map: «မှီဝဲရမည့်» ×2
+   ids: 5-908 5-918
+=== Dukkhaṃ parinipphannaṃ ×2  TB: 'pain is fully produced' (phrase): ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   map: «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော» ×2
+   DEC: Dukkhaṃ parinipphannaṃ|0 «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»: §A24: family parinipphannaṃ
+   ids: 5-917 5-918
+=== kathā ×1  TB: talk or treatise, as in the book title: ဆွေးနွေးချက်
+   map: «ဆွေးနွေးခြင်း» ×1
+   DEC: kathā|0 «ဆွေးနွေးချက်»: approved sample (kathā «ဆွေးနွေးချက်», my5 §2 «Xအကြောင်း ဆွေးနွေးချက်»); 450 of 451 uses; pi-4 «စကား» is its sīlakathā "talk" use (not in pi-5); «ဆွေးနွေးခြင်း» only inside the approved book title (kathāvatthu, own entry)
+   ids: 5-0
+=== rāga ×1  TB: lust, passion (compound member): ရာဂ
+   map: «တပ်မက်မှု» ×1
+   DEC: rāga|0 «ရာဂ»: pi-4 / pi-2 / pi-1 locked; 20 of 21; §A3: ch21 asātarāga «တပ်မက်မှု» (taṇhā's word) aligns
+   ids: 5-21-8-1-0
+=== adhippāya ×1  TB: purpose, will, as in adhippāya-iddhi: အလိုအတိုင်း
+   map: «ရည်ရွယ်ချက်» ×1
+   DEC: adhippāya|0 «အလိုအတိုင်း»: 3 of 4 uses (adhippāya-iddhi, the ch29 wish frame); the ^5-31-1-0 heading «ရည်ရွယ်ချက်» aligns: Burmese speaker to check
+   ids: 5-31-1-0
+=== nipphanna ×1  TB: produced, accomplished: ဖြစ်ပေါ်ပြီးသော
+   map: «ပြီးမြောက်သော» ×1
+   DEC: nipphanna|0 «ဖြစ်ပေါ်ပြီးသော»: family nipphannā / nipphannaṃ / nipphanno; §A24
+   ids: 5-31-5-1-0
+=== taṇhā ×1  TB: craving, thirst (nominative sg. and compound final): တပ်မက်မှု
+   map: «တဏှာ» ×1
+   DEC: taṇhā|0 «တပ်မက်မှု»: pi-3 / pi-2 / pi-1 locked; 18 of 19; §A3: ^5-75 taṇhāsaṃyojana «တဏှာ» aligns
+   ids: 5-75
+=== bhijjamānesu ×1  TB: when breaking up (locative pl. participle): ပျက်နေသော
+   map: «ပြိုကွဲကြသော» ×1
+   DEC: bhijjamānesu|0 «ပျက်နေသော»: family bhijjati «ပျက်»
+   ids: 5-94
+=== bhijjati ×1  TB: breaks up (3rd sg.): ပျက်သည်
+   map: «ပြိုကွဲသည်» ×1
+   DEC: bhijjati|0 «ပျက်သည်»: 2 of 3 uses
+   ids: 5-94
+=== samasamo ×1  TB: exactly alike (nominative): တန်းတူ ဖြစ်သော
+   map: «အလွန် တူညီစွာ» ×1
+   DEC: samasamo|0 «တန်းတူ ဖြစ်သော»: pi-4 locked (exactly alike)
+   ids: 5-94
+=== pātubhāvā ×1  TB: from the manifestation (ablative): ထင်ရှား လာခြင်း
+   map: «ပွင့်ပေါ်ခြင်း» ×1
+   DEC: pātubhāvā|0 «ထင်ရှား လာခြင်း»: family: pi-2 locked pātubhāvo «ထင်ရှား လာခြင်း»
+   ids: 5-207
+=== nirujjhamānaṃ ×1  TB: ceasing (neuter participle): ချုပ်ငြိမ်းနေသော
+   map: «ချုပ်ငြိမ်းသော» ×1
+   DEC: nirujjhamānaṃ|0 «ချုပ်ငြိမ်းနေသော»: the present participle «…နေသော»
+   ids: 5-232
+=== suddha ×1  TB: unqualified, nothing but (adjective): ရိုးရိုး
+   map: «သက်သက်» ×1
+   DEC: suddha|0 «ရိုးရိုး»: approved sample (Suddhasaccikaṭṭho «ရိုးရိုး အမှန်တကယ် အရာ», my5 §2); 3 of 4; text inconsistency §A6: suddha no longer shares «သက်သက်» with kevala (kevalo keeps «သက်သက်»); ^5-233 suddhasaṅkhārapuñjo «ရိုးရိုး …»: Burmese speaker to check
+   ids: 5-233
+=== tasmā ×1  TB: therefore, for that reason (adverb): ထို့ကြောင့်
+   map: «သောကြောင့်» ×1
+   DEC: tasmā|0 «ထို့ကြောင့်»: pi-2 locked; 7 of 8
+   ids: 5-234
+=== bāla ×1  TB: childish, a fool (stem): မိုက်မဲသော
+   map: «လူမိုက်» ×1
+   DEC: bāla|0 «မိုက်မဲသော»: 2 of 3 uses
+   ids: 5-235
+=== Iṭṭhā ×1  TB: wished for, desired (nominative pl.): လိုလားဖွယ်ကောင်းသော
+   map: «နှစ်သက်ဖွယ်» ×1
+   DEC: iṭṭhā|0 «လိုလားဖွယ်ကောင်းသော»: pi-2 locked; §A10 / §A23: one spelling, joined (as rajanīyā, kantā)
+   ids: 5-266
+=== katassa ×1  TB: of what is done (genitive): ပြုခဲ့သော အရာ
+   map: «ပြုပြီးသော အရာ» ×1
+   DEC: katassa|0 «ပြုခဲ့သော အရာ»: family kata «ပြုခဲ့သော» (pi-2 locked)
+   ids: 5-266
+=== phassā ×1  TB: contacts, the meetings of sense and object (nominative pl.): တွေ့ထိမှု
+   map: «အတွေ့» ×1
+   DEC: phassā|0 «တွေ့ထိမှု»: pi-2 locked; 2 of 3
+   ids: 5-266
+=== aniṭṭhā ×1  TB: not wished for, undesired (nominative pl.): မလိုလားဖွယ်
+   map: «မနှစ်သက်ဖွယ်» ×1
+   DEC: aniṭṭhā|0 «မလိုလားဖွယ်»: family aniṭṭha «မလိုလားဖွယ်» (pi-2 «လိုလားဖွယ် မကောင်းသော» never occurs); «မနှစ်သက်» is not iṭṭha's word
+   ids: 5-266
+=== bhabbā ×1  TB: capable (nominative pl.): ထိုက်တန်သော
+   map: «သက်ဆင်းနိုင်သော» ×1
+   DEC: bhabbā|0 «ထိုက်တန်သော»: pi-2 locked; family bhabbo
+   ids: 5-269
+=== niyāmaṃ ×1  TB: the fixed course, certainty of rightness, in sammattaniyāma (accusative sg.): သေချာသော လမ်းကြောင်း
+   map: «သေချာသော လမ်း» ×1
+   DEC: niyāmaṃ|0 «သေချာသော လမ်းကြောင်း»: pi-4 / pi-2 locked; 4 of 5
+   ids: 5-269
+=== niyāmaṃ okkamituṃ ×1  TB: to step into the certainty of destiny (phrase, also a chapter title): သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်
+   map: «သေချာသော လမ်းသို့ သက်ဆင်းသည်» ×1
+   DEC: niyāmaṃ okkamituṃ|0 «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်»: family: niyāmaṃ «သေချာသော လမ်းကြောင်း» (locked) + okkamituṃ «သက်ဆင်းသည်»; = niyāmaṃ okkamati / okkameyya; the candidates have niyāma's minor word «လမ်း» or a negated verb; outside the candidates
+   ids: 5-269
+=== abhabbā ×1  TB: incapable (nominative pl.): မထိုက်တန်သော
+   map: «မသက်ဆင်းနိုင်» ×1
+   DEC: abhabbā|0 «မထိုက်တန်သော»: pi-2 locked («ထိုက်တန်» occurs in the pi-5 text: bhabbo / abhabbo); family abhabbo
+   ids: 5-269
+=== bhedakā ×1  TB: dividers, in saṅghabhedakā (nominative pl.): သင်းခွဲသူ
+   map: «ခွဲသူ» ×1
+   DEC: bhedakā|0 «သင်းခွဲသူ»: family bhedako (mapper S1)
+   ids: 5-269
+=== uppajjanti ×1  TB: they arise, come into being (3rd pl. present): ဖြစ်ပေါ်သည်
+   map: «ပေါ်ပေါက်သည်» ×1
+   DEC: uppajjanti|0 «ဖြစ်ပေါ်သည်»: pi-2 / pi-1 locked; 10 of 11
+   ids: 5-270
+=== uppannaṃ ×1  TB: come into being (neuter sg. participle): ဖြစ်ပေါ်ပြီးသော
+   map: «ပေါ်ပေါက်ခဲ့သော» ×1
+   DEC: uppannaṃ|0 «ဖြစ်ပေါ်ပြီးသော»: pi-2 / pi-1 locked (pi-1 change uppanna «ဖြစ်ပေါ်ပြီးသော»)
+   ids: 5-270
+=== abhisambuddho ×1  TB: awakened fully by himself (nominative participle): အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော
+   map: «ဘုရား ဖြစ်တော်မူသော» ×1
+   DEC: abhisambuddho|0 «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော»: family sammāsambuddha (pi-2 / pi-4 locked); ^5-270 «ဘုရား ဖြစ်တော်မူသော» (the same sentence in ch3) aligns
+   ids: 5-270
+=== pavattitaṃ ×1  TB: set in motion, turned (participle): လည်စေတော်မူခဲ့သော
+   map: «လည်စေတော်မူသော» ×1
+   DEC: pavattitaṃ|0 «လည်စေတော်မူခဲ့သော»: = dhammacakkaṃ pavattitaṃ «ဓမ္မစကြာကို လည်စေတော်မူခဲ့သော»
+   ids: 5-270
+=== yattha ×1  TB: where, in which places (relative adverb): အကြင်
+   map: «(no direct equivalent)» ×1
+   ids: 5-271
+=== viññātāresu ×1  TB: those who understand, in aviññātāresu of the border peoples (locative pl.): နားလည်သော
+   map: «နားလည်သော» ×1
+   ids: 5-271
+=== bhāvitena ×1  TB: cultivated (instrumental participle): ပွားများပြီးသော
+   map: «ပွားများခဲ့သော» ×1
+   DEC: bhāvitena|0 «ပွားများပြီးသော»: family bhāvito
+   ids: 5-272
+=== aṭṭhena ×1  TB: by way of meaning, 'in the sense of' (instrumental): အနက်
+   map: «အကြောင်း» ×1
+   DEC: aṭṭhena|0 «အနက်»: 5 of 6 uses (saccikaṭṭha «အမှန်တကယ် … အနက်»)
+   ids: 5-272
+=== pariññātaṃ ×1  TB: completely comprehended (participle): ပိုင်းခြား သိပြီးသော
+   map: «ပိုင်းခြား သိခြင်း» ×1
+   DEC: pariññātaṃ|0 «ပိုင်းခြား သိပြီးသော»: 7 of 8 uses
+   ids: 5-272
+=== pariññāta ×1  TB: fully comprehended (participle): ပိုင်းခြား သိပြီးသော
+   map: «ပိုင်းခြား သိရသေးသော» ×1
+   DEC: pariññāta|0 «ပိုင်းခြား သိပြီးသော»: family pariññātaṃ; «… သိရသေးသော» was the positive fragment of apariññāta (rule 8)
+   ids: 5-273
+=== paṭivedhāya ×1  TB: for penetration (dative): ထိုးဖောက်၍ သိရန်
+   map: «ထိုးထွင်း သိမြင်ရန်» ×1
+   DEC: paṭivedhāya|0 «ထိုးဖောက်၍ သိရန်»: coordinator: locked pi-4 paṭivedho family, dative
+   ids: 5-273
+=== paṭividdha ×1  TB: pierced through, comprehended (participle): ထိုးဖောက်၍ သိပြီးသော
+   map: «ထိုးထွင်း သိမြင်ရသေးသော» ×1
+   DEC: paṭividdha|0 «ထိုးဖောက်၍ သိပြီးသော»: coordinator review 2026-11-22: paṭivijjhati family = locked pi-4 «ထိုးဖောက်၍ သိသည်»
+   ids: 5-273
+=== sacchikata ×1  TB: realised, experienced directly (compound member): မျက်မှောက်ပြုပြီးသော
+   map: «မျက်မှောက် ပြုရသေးသော» ×1
+   DEC: sacchikata|0 «မျက်မှောက်ပြုပြီးသော»: pi-2 locked; «မျက်မှောက် ပြုရသေးသော» was the positive fragment of asacchikata (rule 8)
+   ids: 5-273
+=== arahattasacchikiriyāya ×1  TB: for experiencing the state of a worthy one (dative compound): ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်
+   map: «ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်» ×1
+   DEC: Arahattasacchikiriyāya|0 «ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်»: §A32: 6 of 7 uses; parallel to sotāpattiphala- / sakadāgāmiphala- / anāgāmiphalasacchikiriyāya «… ဖိုလ်ကို မျက်မှောက်ပြုရန်»; ^5-343 aligns
+   ids: 5-277
+=== virajaṃ ×1  TB: free of dust, of the Dhamma eye (accusative): မြူမှုန် ကင်းသော
+   map: «မြူ ကင်းသော» ×1
+   DEC: virajaṃ|0 «မြူမှုန် ကင်းသော»: 4 of 5 uses
+   ids: 5-278
+=== paṭivijjhanto ×1  TB: piercing through (present participle): ထိုးဖောက်၍ သိလျက်
+   map: «ထိုးထွင်း သိမြင်လျက်» ×1
+   DEC: paṭivijjhanto|0 «ထိုးဖောက်၍ သိလျက်»: coordinator: paṭivijjhati family (locked pi-4)
+   ids: 5-279
+=== khīṇā ×1  TB: exhausted, ended (nominative participle): ကုန်ခန်းပြီးသော
+   map: «ကုန်သော» ×1
+   DEC: khīṇā|0 «ကုန်ခန်းပြီးသော»: the perfect participle (khīṇā jāti «ကုန်ခန်းပြီး»)
+   ids: 5-281
+=== paṭivedhā ×1  TB: from piercing through (ablative): ထိုးဖောက်၍ သိခြင်း
+   map: «ထိုးထွင်း သိမြင်ခြင်း» ×1
+   DEC: paṭivedhā|0 «ထိုးဖောက်၍ သိခြင်း»: coordinator: locked pi-4 paṭivedho family
+   ids: 5-281
+=== paṭividdhaṃ ×1  TB: pierced through, comprehended (participle): ထိုးဖောက်၍ သိပြီးသော
+   map: «ထိုးထွင်း သိမြင်ပြီးသော» ×1
+   DEC: paṭividdhaṃ|0 «ထိုးဖောက်၍ သိပြီးသော»: coordinator: paṭivijjhati family (locked pi-4)
+   ids: 5-281
+=== akkhāsi ×1  TB: declared, made known (aorist): ဟောကြားတော်မူခဲ့သည်
+   map: «ဟောကြားတော်မူသည်» ×1
+   DEC: akkhāsi|0 «ဟောကြားတော်မူခဲ့သည်»: the aorist (past «…ခဲ့သည်», as akāsi «ပြုခဲ့သည်»)
+   ids: 5-281
+=== anuttarā ×1  TB: unsurpassable, with nothing higher (nominative pl.): ထိုထက် သာလွန်သည် မရှိသော
+   map: «အမြတ်ဆုံး» ×1
+   DEC: anuttarā|0 «ထိုထက် သာလွန်သည် မရှိသော»: pi-3 locked; = anuttaraṃ (pi-2); kept apart from seṭṭha «အမြတ်ဆုံး»
+   ids: 5-281
+=== katvā ×1  TB: having performed, in uposathakammaṃ katvā (absolutive), here in kammaṃ katvā: ပြု၍; treating as, on the ground that, in the idiom iti katvā (absolutive): အကြောင်းပြု၍
+   map: «မှတ်ယူ၍» ×1
+   DEC: katvā|1 «အကြောင်းပြု၍»: approved frame «X-ti katvā = Xဟု အကြောင်းပြု၍» (my5 §3); 6 of 7
+   ids: 5-282
+=== sammukhībhāvo ×1  TB: being in one another's presence (nominative): မျက်နှာချင်း ဆိုင်ခြင်း
+   map: «မျက်မှောက် ဆုံဆည်းခြင်း» ×1
+   DEC: sammukhībhāvo|0 «မျက်နှာချင်း ဆိုင်ခြင်း»: harmonise B6 F.SAMMUKHA (= sammukhībhāvaṃ)
+   ids: 5-294
+=== parinibbute ×1  TB: when fully extinguished (locative participle): ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော
+   map: «ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီးသော» ×1
+   DEC: parinibbute|0 «ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော»: §A15: base «ပရိနိဗ္ဗာန် ပြု…ပြီး» (approved sample ch1 «ပရိနိဗ္ဗာန် ပြုပြီး»); both uses are the Buddha (honorific «တော်မူ» only for him); ^5-296 «စံဝင်» aligns
+   ids: 5-296
+=== vaṭṭe ×1  TB: in the round of rebirth (locative): သံသရာ စက်ဝန်း
+   map: «ဝဋ်» ×1
+   DEC: vaṭṭe|0 «သံသရာ စက်ဝန်း»: family vaṭṭa
+   ids: 5-296
+=== nandī ×1  TB: delight, enjoyment as craving (nominative sg. and compound member), also delighting in concord, in samagganandī (compound final): နှစ်သက်မှု
+   map: «ပျော်မွေ့မှု» ×1
+   DEC: nandī|0 «နှစ်သက်မှု»: pi-2 / pi-1 locked (a candidate); 2 of 3; pi-4 «နှစ်သက်သော» was the adjective of samagganandī (not a candidate)
+   ids: 5-296
+=== saṅkiṇṇa ×1  TB: filled in, of a moat, in saṅkiṇṇaparikha (compound member): ဖို့ပြီးသော; mingled, adulterated, in asaṅkiṇṇa (compound member): ရောယှက်သော
+   map: «ရောနှောခြင်း» ×1
+   DEC: saṅkiṇṇa|1 «ရောယှက်သော»: the adjective; keeps saṅkiṇṇa apart from saṃsaṭṭha «ရောနှောသော» (the ^5-703 list)
+   ids: 5-296
+=== asaṅkiṇṇapubbā ×1  TB: not mixed up before (nominative pl.): ရှေး … မရောယှက်ခဲ့သော
+   map: «ရှေး … ရောနှောခြင်း မရှိခဲ့သော» ×1
+   DEC: asaṅkiṇṇapubbā|0 «ရှေး … မရောယှက်ခဲ့သော»: family asaṅkiṇṇa (= asaṅkiṇṇapubbāni)
+   ids: 5-296
+=== asaṅkiṇṇā ×1  TB: not mixed up (nominative pl.): မရောယှက်သော
+   map: «ရောနှောခြင်း မရှိသော» ×1
+   DEC: asaṅkiṇṇā|0 «မရောယှက်သော»: family saṅkiṇṇa «ရောယှက်သော», asaṅkiṇṇāni; «ရောနှော» is saṃsaṭṭha's word
+   ids: 5-296
+=== Aṭṭhānaṃ ×1  TB: there is no possibility (opening formula): မဖြစ်နိုင်သော အကြောင်း
+   map: «အကြောင်း မဟုတ်» ×1
+   DEC: Aṭṭhānaṃ|0 «မဖြစ်နိုင်သော အကြောင်း»: pi-4 locked (a candidate)
+   ids: 5-313
+=== chindeyya ×1  TB: would break into (optative): ဖောက်ထွင်းသည်
+   map: «ဖောက်သည်» ×1
+   DEC: chindeyya|0 «ဖောက်ထွင်းသည်»: §A27: 2 of 3 uses
+   ids: 5-314
+=== ñāṇa niṭṭhitā ×1  TB: the discussion of understanding is ended (heading phrase): ဉာဏ် … ပြီးဆုံးသော
+   map: «သိခြင်း … ပြီးဆုံးသော» ×1
+   DEC: ñāṇa niṭṭhitā|0 «ဉာဏ် … ပြီးဆုံးသော»: family ñāṇa «ဉာဏ်» (locked)
+   ids: 5-317
+=== arahatte ×1  TB: in the state of a worthy one (locative): ရဟန္တာ အဖြစ်
+   map: «ရဟန္တာ ဖိုလ်» ×1
+   DEC: Arahatte|0 «ရဟန္တာ အဖြစ်»: §A32: the state (harmonise B6 ARHT «ရဟန္တာ အဖြစ်»)
+   ids: 5-321
+=== brahmacariyaṃ ×1  TB: the pure religious life, celibacy (accusative sg.): မြင့်မြတ်သော အကျင့်
+   map: «မြတ်သော အကျင့်» ×1
+   DEC: brahmacariyaṃ|0 «မြင့်မြတ်သော အကျင့်»: pi-4 locked; §A31
+   ids: 5-321
+=== seṭṭhaṃ ×1  TB: best, highest (accusative): အကောင်းဆုံး
+   map: «မြတ်သော» ×1
+   DEC: seṭṭhaṃ|0 «အကောင်းဆုံး»: family seṭṭho «အကောင်းဆုံး» (pi-4 locked); «မြတ်သော» is brahma's minor word (§A31)
+   ids: 5-325
+=== samuṭṭhānā ×1  TB: originated, produced from (compound final, nominative pl.): ဖြစ်ပေါ်လာသော
+   map: «ဖြစ်ပေါ်သော» ×1
+   DEC: samuṭṭhānā|0 «ဖြစ်ပေါ်လာသော»: pi-3 / pi-2 / pi-1 locked
+   ids: 5-332
+=== assāsapassāsā ×1  TB: in-breaths and out-breaths (nominative pl.): ဝင်လေ ထွက်လေ
+   map: «ထွက်သက် ဝင်သက်» ×1
+   DEC: assāsapassāsā|0 «ဝင်လေ ထွက်လေ»: family assāsapassāso (one order, one word)
+   ids: 5-333
+=== niruddhā ×1  TB: ceased, come to an end (nominative pl. participle): ချုပ်ငြိမ်းပြီးသော
+   map: «ချုပ်ငြိမ်းသွားသော» ×1
+   DEC: niruddhā|0 «ချုပ်ငြိမ်းပြီးသော»: pi-2 locked; family niruddha
+   ids: 5-333
+=== saññāvedayitanirodhaṃ ×1  TB: the stopping of perception and feeling (accusative): မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း
+   map: «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း» ×1
+   DEC: saññāvedayitanirodhaṃ|0 «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း»: family saññāvedayita «မှတ်သိမှုနှင့် ခံစားရခြင်း» + nirodha «ချုပ်ငြိမ်းခြင်း» (locked); one candidate adds «ဈာန်» (absent from the Pāli), the other has vedanā's «ခံစားမှု»; outside the candidates
+   ids: 5-333
+=== saññāvedayitanirodhaṃ samāpannassa ×1  TB: of one who has entered the stopping of perception and feeling (phrase): မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော
+   map: «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော» ×1
+   DEC: saññāvedayitanirodhaṃ samāpannassa|0 «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»: family saññāvedayitanirodhaṃ + Nirodhaṃ samāpannassa «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော» (one name for the attainment, = nirodhasamāpatti); outside the candidates (each mixes «ခံစားမှု» or «ဈာန်»)
+   ids: 5-333
+=== vedayita ×1  TB: what is felt, feeling, in saññāvedayitanirodha (compound member): ခံစားရခြင်း
+   map: «ခံစားမှု» ×1
+   DEC: vedayita|0 «ခံစားရခြင်း»: pi-2 locked; 12 of 13; keeps vedayita apart from vedanā «ခံစားမှု»
+   ids: 5-333
+=== saññāvedayita ×1  TB: perceiving and feeling, as in their cessation: မှတ်သိမှုနှင့် ခံစားရခြင်း
+   map: «မှတ်သိမှုနှင့် ခံစားမှု» ×1
+   DEC: saññāvedayita|0 «မှတ်သိမှုနှင့် ခံစားရခြင်း»: 13 of 14; family vedayita «ခံစားရခြင်း» (pi-2 locked)
+   ids: 5-333
+=== tika ×1  TB: the classification by threes (heading member): သုံးမျိုးတွဲ
+   map: «(no direct equivalent)» ×1
+   ids: 5-333
+=== dissati ×1  TB: is seen, appears, in editorial notes (3rd sg. passive): ထင်ရသည်
+   map: «(no direct equivalent)» ×1
+   ids: 5-334
+=== uppajjitvā ×1  TB: having arisen (absolutive): ဖြစ်ပေါ်ပြီး
+   map: «ဖြစ်ပေါ်၍» ×1
+   DEC: uppajjitvā|0 «ဖြစ်ပေါ်ပြီး»: pi-2 / pi-1 locked
+   ids: 5-335
+=== vane ×1  TB: in the forest (locative): ဝုန်တော
+   map: «(no direct equivalent)» ×1
+   ids: 5-335
+=== upagānaṃ ×1  TB: of those who have arisen in a realm (genitive pl.): ရောက်သွားသော
+   map: «ရောက်သော» ×1
+   DEC: upagānaṃ|0 «ရောက်သွားသော»: family upagata / upage
+   ids: 5-337
+=== sāmañña ×1  TB: the recluse's life, the contemplative state, in sāmaññaphala (compound member): ရဟန်းအဖြစ်
+   map: «ရဟန်း» ×1
+   DEC: sāmañña|0 «ရဟန်းအဖြစ်»: pi-1 locked; harmonise B2 (sāmaññaphala «ရဟန်းအဖြစ်၏ ဖိုလ်»); 10 of 11
+   ids: 5-338
+=== upadhi ×1  TB: substratum of existence, the body (compound member, as in upadhisampatti): ခန္ဓာကိုယ်
+   map: «ဥပဓိ» ×1
+   DEC: upadhi|0 «ခန္ဓာကိုယ်»: pi-2 locked; «ဥပဓိ» is opaque Pāli for a plain reader
+   ids: 5-338
+=== jātiyā ×1  TB: existence, life-time, in tāya jātiyā 'in that same life' (instrumental): ဘဝ; birth, being born, as a link of dependent origination, in jātiyā ñāṇaṃ (locative), here also rebirth: မွေးဖွားခြင်း
+   map: «ပဋိသန္ဓေ နေခြင်း» ×1
+   DEC: jātiyā|1 «မွေးဖွားခြင်း»: family jāti «မွေးဖွားခြင်း»
+   ids: 5-338
+=== suladdhaṃ ×1  TB: well obtained (participle): ကောင်းစွာ ရသော
+   map: «ကောင်းစွာ ရသော» ×1
+   ids: 5-338
+=== brahmacariya ×1  TB: the holy life, the pure life of training (compound member): မြင့်မြတ်သော အကျင့်
+   map: «မြတ်သော အကျင့်» ×1
+   DEC: brahmacariya|0 «မြင့်မြတ်သော အကျင့်»: pi-4 / pi-1 locked; §A31
+   ids: 5-338
+=== mānusakaṃ ×1  TB: pertaining to humans (accusative): လူ့
+   map: «လူ» ×1
+   DEC: Mānusakaṃ|0 «လူ့»: pi-4 locked
+   ids: 5-338
+=== khaṇo ×1  TB: an instant (nominative): ခဏ
+   map: «အခါ» ×1
+   DEC: khaṇo|0 «ခဏ»: 2 of 3 uses
+   ids: 5-338
+=== viveka ×1  TB: seclusion, detachment (compound member): ကင်းဆိတ်ခြင်း
+   map: «ဆိတ်ငြိမ်ခြင်း» ×1
+   DEC: viveka|0 «ကင်းဆိတ်ခြင်း»: pi-4 / pi-2 locked
+   ids: 5-338
+=== Arahattasacchikiriyāya ×1  TB: for experiencing the state of a worthy one (dative compound): ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်
+   map: «ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်» ×1
+   DEC: Arahattasacchikiriyāya|0 «ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်»: §A32: 6 of 7 uses; parallel to sotāpattiphala- / sakadāgāmiphala- / anāgāmiphalasacchikiriyāya «… ဖိုလ်ကို မျက်မှောက်ပြုရန်»; ^5-343 aligns
+   ids: 5-343
+=== thero ×1  TB: senior monk (nominative sg.): မထေရ်
+   map: «ထေရ်» ×1
+   DEC: thero|0 «မထေရ်»: coordinator review 2026-11-22: the pi-5 text's word (32 of 33 uses) and natural standalone Burmese; pi-4 «ထေရ်» is a substring, so pi-4 is not contradicted
+   ids: 5-346
+=== sutaṃ ×1  TB: heard, what is heard (neuter sg. participle): ကြားရသော
+   map: «ကြားခဲ့ရသော» ×1
+   DEC: sutaṃ|0 «ကြားရသော»: pi-2 locked
+   ids: 5-346
+=== sikkhā ×1  TB: training, the course of discipline (stem and nominative): သိက္ခာ
+   map: «ကျင့်ခြင်း» ×1
+   DEC: sikkhā|0 «သိက္ခာ»: pi-4 / pi-2 locked
+   ids: 5-346
+=== paṇīta ×1  TB: superior, refined (compound member): မွန်မြတ်သော
+   map: «မြတ်ခြင်း» ×1
+   DEC: paṇīta|0 «မွန်မြတ်သော»: pi-4 locked; = paṇītaṃ (pi-2); pair hīna «ယုတ်ညံ့သော»
+   ids: 5-353
+=== tena ×1  TB: therefore, for that reason, in tena vuccati (instrumental pronoun), also 'if so, then', in tena hi: ထို့ကြောင့်
+   map: «သို့ဖြစ်လျှင်» ×1
+   DEC: tena|0 «ထို့ကြောင့်»: pi-2 locked (TAGDIFF); Tena hi has its own entry «သို့ဖြစ်လျှင်»
+   ids: 5-367
+=== uttamo ×1  TB: supreme (nominative): အထွတ်အထိပ်
+   map: «အမြတ်ဆုံး» ×1
+   DEC: uttamo|0 «အထွတ်အထိပ်»: pi-4 locked; kept apart from seṭṭho «အမြတ်ဆုံး» (the ^5-799 verse pair)
+   ids: 5-374
+=== vata ×1  TB: vows, religious observances (compound member): အကျင့်ဝတ်; emphatic particle 'surely, indeed', in 'tena vata re vattabbe' of the rebuttal formula: အမှန်ပင်
+   map: «(no direct equivalent)» ×1
+   ids: 5-377
+=== sacchikato ×1  TB: directly experienced (participle): မျက်မှောက်ပြုပြီးသော
+   map: «မျက်မှောက် ပြုရသေးသော» ×1
+   DEC: sacchikato|0 «မျက်မှောက်ပြုပြီးသော»: 13 of 14 uses
+   ids: 5-378
+=== sattesu ×1  TB: towards living beings (locative pl.): သတ္တဝါ
+   map: «(no direct equivalent)» ×1
+   ids: 5-386
+=== aggaṃ ×1  TB: tip or top, of a dust cloud or a banner (compound end): ဖျား
+   map: «(no direct equivalent)» ×1
+   ids: 5-386
+=== phoṭṭhabbaṃ ×1  TB: tangible object, what is touched (accusative sg.): အထိအတွေ့
+   map: «အတွေ့အထိ» ×1
+   DEC: phoṭṭhabbaṃ|0 «အထိအတွေ့»: pi-4 / pi-2 / pi-1 locked; 12 of 13
+   ids: 5-397
+=== paṭipassaddhāya ×1  TB: calmed down, ceased (feminine participle): ငြိမ်းအေးပြီးသော
+   map: «ငြိမ်းအေးသွားသော» ×1
+   DEC: paṭipassaddhāya|0 «ငြိမ်းအေးပြီးသော»: family paṭipassaddhena
+   ids: 5-398
+=== mātu ×1  TB: of the female parent, in mātughātaka (stem or genitive): အမိ
+   map: «မယ်တော်» ×1
+   DEC: mātu|0 «အမိ»: 8 of 9 uses; «မယ်တော်» (^5-401, the Bodhisatta's mother) is an honorific context
+   ids: 5-401
+=== attamanā ×1  TB: glad, satisfied (nominative pl.): နှစ်သက်သော
+   map: «ဝမ်းမြောက်သည်» ×1
+   DEC: attamanā|0 «နှစ်သက်သော»: the adjective "glad"; pi-2 «စိတ်ကျေနပ်သည်» never occurs (reported); «ဝမ်းမြောက်» is somanassa's core word
+   ids: 5-401
+=== patto ×1  TB: having reached (nominative sg. participle): ရောက်သော
+   map: «(no direct equivalent)» ×1
+   ids: 5-402
+=== pabbajati ×1  TB: renounces the household life (3rd sg. present): ရဟန်းပြုသည်
+   map: «ရဟန်း ပြုသည်» ×1
+   DEC: pabbajati|0 «ရဟန်းပြုသည်»: one spelling, joined (as ရဟန်းအဖြစ်)
+   ids: 5-402
+=== sattamaṃ ×1  TB: the seventh, of a type of mind (numeral): သတ္တမ
+   map: «ခုနစ်ခုမြောက်» ×1
+   DEC: sattamaṃ|0 «သတ္တမ»: pi-2 locked; = sattama (harmonise B1: the Pāli ordinals)
+   ids: 5-402
+=== uddisi ×1  TB: pointed out, named as (3rd sg. aorist): ကိုးကွယ်ခဲ့သည်
+   map: «ညွှန်ပြခဲ့သည်» ×1
+   DEC: uddisi|0 «ကိုးကွယ်ခဲ့သည်»: 3 of 4 uses (ch31); ^5-404 «ညွှန်ပြခဲ့သည်» aligns: Burmese speaker to check
+   ids: 5-404
+=== tapaṃ ×1  TB: ascetic practice (accusative sg.): ပြင်းထန်သော အကျင့်
+   map: «ခြိုးခြံသော အကျင့်» ×1
+   DEC: tapaṃ|0 «ပြင်းထန်သော အကျင့်»: 2 of 3 uses
+   ids: 5-404
+=== Bodhisatto akāsi ×1  TB: the bodhisatta performed (phrase): ဘုရားလောင်း … ပြုခဲ့သည်
+   map: «ဘုရားလောင်း … ကျင့်ခဲ့သည်» ×1
+   DEC: Bodhisatto akāsi|0 «ဘုရားလောင်း … ပြုခဲ့သည်»: family akāsi «ပြုခဲ့သည်»
+   ids: 5-404
+=== ve ×1  TB: emphatic particle (indeclinable): ဧကန်
+   map: «(no direct equivalent)» ×1
+   ids: 5-405
+=== vidū ×1  TB: one who knows (compound end): နားလည်သော
+   map: «သိသော» ×1
+   DEC: vidū|0 «နားလည်သော»: 2 of 3 uses; keeps vidū apart from aññū «သိသော» in the same list ^5-354 / ^5-443 «maggaññū maggavidū» (synonym-list rule); pi-4 «သိတော်မူသော» never occurs (reported)
+   ids: 5-405
+=== anuttaro ×1  TB: unexcelled (nominative): ထိုထက် သာလွန်သည် မရှိသော
+   map: «အမြတ်ဆုံး» ×1
+   DEC: anuttaro|0 «ထိုထက် သာလွန်သည် မရှိသော»: family anuttara (pi-2 / pi-3 locked); pi-4 «အတုမရှိသော» never occurs
+   ids: 5-405
+=== cakkaṃ ×1  TB: wheel, in brahmacakkaṃ 'the excellent wheel' (accusative sg.): စကြာ
+   map: «တရားစက်» ×1
+   DEC: cakkaṃ|0 «စကြာ»: §A12: dhammacakka = «ဓမ္မစကြာ», the Burmese word every reader knows (ch3 ^5-270, ch26 ^5-802, phrase dhammacakkaṃ pavattitaṃ); ch12 «တရားစက်» (^5-405) aligns; departs from pi-2 «တရားစက်»
+   ids: 5-405
+=== bodhisatto okkantaniyāmo ×1  TB: the bodhisatta had stepped onto the fixed course (phrase): ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော
+   map: «ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော» ×1
+   DEC: Bodhisatto okkantaniyāmo|0 «ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော»: 2 of 2 uses
+   ids: 5-417
+=== okkanta ×1  TB: having stepped into (participle in compounds): သက်ဆင်းပြီးသော
+   map: «သက်ဆင်းသော» ×1
+   DEC: okkanta|0 «သက်ဆင်းပြီးသော»: 3 of 4 uses
+   ids: 5-417
+=== okkantaniyāmo ×1  TB: one who has stepped onto the fixed course (nominative sg.): သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော
+   map: «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော» ×1
+   DEC: okkantaniyāmo|0 «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော»: 3 of 4 uses
+   ids: 5-417
+=== paṭiladdhassa ×1  TB: of one who has acquired (genitive participle): ရရှိပြီးသော
+   map: «ရသော» ×1
+   DEC: paṭiladdhassa|0 «ရရှိပြီးသော»: family paṭiladdho
+   ids: 5-418
+=== bhabbo ×1  TB: fit, having the potential (nominative sg.): ထိုက်တန်သော
+   map: «သိနိုင်သော» ×1
+   DEC: bhabbo|0 «ထိုက်တန်သော»: 3 of 4 uses; polarity pair abhabbo «မထိုက်တန်»; = pi-4 bhabba «ထိုက်တန်သော»
+   ids: 5-431
+=== samanantara ×1  TB: immediately contiguous, a conditional relation (compound member): ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း
+   map: «ကောင်းစွာ ကြားမလပ်» ×1
+   DEC: samanantara|0 «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း»: family anantara «ချက်ချင်း နောက်၌ ဖြစ်စေ…» (the ^5-439 pair aligns)
+   ids: 5-439
+=== anantara ×1  TB: contiguity, the proximity relation, in anantarapaccaya (compound member): ချက်ချင်း နောက်၌ ဖြစ်စေသော; next in sequence, in anantaravāra (compound member): နောက်ဆက်တွဲ
+   map: «ကြားမလပ်» ×1
+   DEC: anantara|0 «ချက်ချင်း နောက်၌ ဖြစ်စေသော»: 4 of 5 uses (anantarapaccaya); = samanantarā «ချက်ချင်း နောက်၌»; ^5-439 «ကြားမလပ်» aligns (samanantara follows)
+   ids: 5-439
+=== akkhātā ×1  TB: one who reports (agent noun): ပြောကြားသော
+   map: «ဟောကြားသူ» ×1
+   DEC: akkhātā|0 «ပြောကြားသော»: pi-4 locked
+   ids: 5-443
+=== tathatā ×1  TB: thusness, invariable nature: ဟုတ်တိုင်းမှန်သော သဘော
+   map: «ဟုတ်မှန်ခြင်း» ×1
+   DEC: tathatā|0 «ဟုတ်တိုင်းမှန်သော သဘော»: 4 of 5 uses (heading, ^5-841 …)
+   ids: 5-450
+=== aññathāni ×1  TB: different from what they are, in anaññathāni (nominative pl.): အခြားတစ်မျိုး
+   map: «အခြား» ×1
+   DEC: aññathāni|0 «အခြားတစ်မျိုး»: family aññatha (anaññathāni = anaññatha)
+   ids: 5-454
+=== samāpajjantassa ×1  TB: of one entering an attainment (genitive sg. participle): ဝင်စားသူ
+   map: «ဝင်စားနေသော» ×1
+   DEC: samāpajjantassa|0 «ဝင်စားသူ»: pi-2 locked
+   ids: 5-458
+=== ninnaṃ ×1  TB: bending toward (nominative sg.): နိမ့်ဆင်းသော
+   map: «ညွတ်သော» ×1
+   DEC: ninnaṃ|0 «နိမ့်ဆင်းသော»: family ninno; «ညွတ်» is poṇa's word in the same simile (ninna / poṇa / pabbhāra)
+   ids: 5-458
+=== pabbhāraṃ ×1  TB: inclined, tending toward (nominative sg.): စောင်းသော
+   map: «ရှိုင်းသော» ×1
+   DEC: pabbhāraṃ|0 «စောင်းသော»: family pabbhāro
+   ids: 5-458
+=== poṇaṃ ×1  TB: sloping toward (nominative sg.): ညွတ်ကိုင်းသော
+   map: «ကိုင်းသော» ×1
+   DEC: poṇaṃ|0 «ညွတ်ကိုင်းသော»: family poṇo
+   ids: 5-458
+=== Niyamo ×1  TB: certainty, the fixed course (nominative sg.): ကျိန်းသေမှု
+   map: «သေချာသော လမ်းကြောင်း» ×1
+   DEC: niyamo|0 «ကျိန်းသေမှု»: 2 of 2 uses; niyama (certainty) kept apart from niyāma «သေချာသော လမ်းကြောင်း»; family niyato «ကျိန်းသေသော»
+   ids: 5-470
+=== bhūtā ×1  TB: the great elements, primary matter, in mahābhūtā (nominative pl.): မူလဓာတ်; become, in vasībhūtā 'having become masters' (compound final): ဖြစ်စေနိုင်သော
+   map: «မဟာဘုတ်» ×1
+   DEC: bhūtā|0 «မူလဓာတ်»: pi-2 / pi-1 locked (= the core word mahābhūta «မူလဓာတ်», mahābhūtā «မူလဓာတ်ကြီး»); «မဟာဘုတ်» is opaque Pāli for a plain reader (style rule), «ဓာတ်ကြီး» drops «မူလ»; outside the candidates
+   ids: 5-470
+=== mahābhūtā ×1  TB: the four great elements, primary matter (nominative pl.): မူလဓာတ်ကြီး
+   map: «မဟာဘုတ်» ×1
+   DEC: mahābhūtā|0 «မူလဓာတ်ကြီး»: pi-2 / pi-1 locked
+   ids: 5-470
+=== paṇītaṃ ×1  TB: superior, refined (neuter sg.): မွန်မြတ်သော
+   map: «မြတ်ခြင်း» ×1
+   DEC: paṇītaṃ|0 «မွန်မြတ်သော»: pi-2 / pi-1 locked
+   ids: 5-477
+=== paṭikuṭṭhāni ×1  TB: despised, scorned, in appaṭikuṭṭhāni (nominative pl.): ကန့်ကွက်အပ်သော
+   map: «ကဲ့ရဲ့အပ်သော» ×1
+   DEC: paṭikuṭṭhāni|0 «ကန့်ကွက်အပ်သော»: §A18: one word for the formula (ch5 ^5-296 «ကန့်ကွက်အပ်», = paṭikuṭṭhā); «ကဲ့ရဲ့» stays avaṇṇa's (pi-4 spoken dispraise)
+   ids: 5-480
+=== vilepanaṃ ×1  TB: unguent, cosmetic (accusative): နံ့သာပျောင်း
+   map: «နံ့သာ လိမ်းဖွယ်» ×1
+   DEC: vilepanaṃ|0 «နံ့သာပျောင်း»: 5 of 6 uses
+   ids: 5-481
+=== veti ×1  TB: goes away, vanishes (3rd sg.): ပျက်ကွယ်သည်
+   map: «ပျက်စီးသည်» ×1
+   DEC: veti|0 «ပျက်ကွယ်သည်»: "vanishes"; keeps «ပျက်စီး» for the approved vayadhamma list
+   ids: 5-485
+=== manāpāya ×1  TB: for what is pleasing (dative sg.): စိတ်နှင့် တွေ့ဖွယ်
+   map: «နှစ်သက်ဖွယ်» ×1
+   DEC: manāpāya|0 «စိတ်နှင့် တွေ့ဖွယ်»: family manāpā «စိတ်နှင့် တွေ့သော» (pi-2); pair amanāpāya
+   ids: 5-486
+=== samādhiṃ ×1  TB: concentration (accusative sg.): သမာဓိ
+   map: «တည်ကြည်ခြင်း» ×1
+   DEC: samādhiṃ|0 «သမာဓိ»: pi-4 / pi-2 locked; 4 of 5
+   ids: 5-486
+=== vipākā ×1  TB: resultant, born as the result of action (feminine or pl.): ကံ၏ အကျိုး ဖြစ်သော
+   map: «အကျိုး» ×1
+   DEC: vipākā|0 «ကံ၏ အကျိုး ဖြစ်သော»: pi-2 locked
+   ids: 5-486
+=== pānīyaṃ ×1  TB: water or beverage for drinking (nominative sg.): သောက်ရေ
+   map: «သောက်ဖွယ်» ×1
+   DEC: pānīyaṃ|0 «သောက်ရေ»: 5 of 6 uses
+   ids: 5-488
+=== atthāya ×1  TB: for the good of, for the purpose of (dative sg.): အကျိုး
+   map: «အတွက်» ×1
+   DEC: atthāya|0 «အကျိုး»: §A4: 2 of 3 uses; «အတွက်» is only the dative particle; hitāya «အကျိုးစီးပွား» kept apart
+   ids: 5-489
+=== paṭilabhanti ×1  TB: acquire, gain (3rd pl. present): ရရှိသည်
+   map: «ရသည်» ×1
+   DEC: paṭilabhanti|0 «ရရှိသည်»: 3 of 4 uses
+   ids: 5-489
+=== caritaṃ ×1  TB: good conduct, in kāyasucaritaṃ and similar (compound final): စရိုက်
+   map: «အကျင့်» ×1
+   DEC: caritaṃ|0 «စရိုက်»: pi-2 locked (kāyasucaritaṃ «… သုစရိုက်»)
+   ids: 5-493
+=== adhipacca ×1  TB: sovereignty, rule (compound member): အကြီးအကဲ ဖြစ်ခြင်း
+   map: «အုပ်ချုပ်ခြင်း» ×1
+   DEC: adhipacca|0 «အကြီးအကဲ ဖြစ်ခြင်း»: 2 of 3 uses; = ādhipacca ^5-338; kept apart from issariya «အစိုးရခြင်း»
+   ids: 5-494
+=== sāmaññaṃ ×1  TB: the state of a recluse (nominative sg.): ရဟန်းအဖြစ်
+   map: «ရဟန်း၏ အဖြစ်» ×1
+   DEC: sāmaññaṃ|0 «ရဟန်းအဖြစ်»: family sāmañña (pi-1 locked; harmonise B2)
+   ids: 5-498
+=== vaṭṭa ×1  TB: the round of rebirths: သံသရာ စက်ဝန်း
+   map: «ဝဋ်» ×1
+   DEC: vaṭṭa|0 «သံသရာ စက်ဝန်း»: 10 of 11 uses
+   ids: 5-501
+=== tiracchānayoni ×1  TB: the class of animals (nominative sg.): တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား
+   map: «တိရစ္ဆာန် မွေးဖွားရာ» ×1
+   DEC: tiracchānayoni|0 «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»: family yoni «မွေးဖွားရာ အမျိုးအစား»
+   ids: 5-503
+=== yoni ×1  TB: kind of birth, in tiracchānayoni (compound final): မွေးဖွားရာ အမျိုးအစား
+   map: «မွေးဖွားရာ» ×1
+   DEC: yoni|0 «မွေးဖွားရာ အမျိုးအစား»: 14 of 15 uses (mapper alignment); pi-2 «ဘဝ» is bhavo's word in the same list (^5-455 «bhavo gati … yoni»; synonym-list rule; lessons: yoni ≠ saṃsāra): departs from pi-2
+   ids: 5-503
+=== sāvaka ×1  TB: hearer, pupil (compound member): တပည့်
+   map: «သာဝက» ×1
+   DEC: sāvaka|0 «တပည့်»: pi-4 locked; 5 of 6
+   ids: 5-511
+=== yugaṃ ×1  TB: a couple, twosome (accusative): အစုံ
+   map: «နှစ်ပါး» ×1
+   DEC: yugaṃ|0 «အစုံ»: 2 of 3 uses; = yugā
+   ids: 5-511
+=== sāvakayugaṃ ×1  TB: the two foremost disciples (accusative): တပည့် အစုံ
+   map: «အဂ္ဂသာဝက နှစ်ပါး» ×1
+   DEC: sāvakayugaṃ|0 «တပည့် အစုံ»: 2 of 3 uses; sāvaka «တပည့်» (pi-4 locked)
+   ids: 5-511
+=== Tiṭṭhanti ×1  TB: remain, abide in a place (3rd pl. present): တည်ရှိသည်; lie in wait, waylay and rob, in paripanthe tiṭṭhanti (3rd pl. present): ဓားပြ တိုက်သည်
+   map: «တည်သည်» ×1
+   DEC: tiṭṭhanti|0 «တည်ရှိသည်»: 2 of 2 uses
+   ids: 5-514
+=== du ×1  TB: ill-, bad- (prefix): ဆိုးသော
+   map: «နံစော်သော» ×1
+   DEC: du|0 «ဆိုးသော»: 5 of 6 uses (duggati «ဆိုးသော လားရာ»); ^5-522 duggandho «နံစော်သော» in the smell list: Burmese speaker to check
+   ids: 5-522
+=== su ×1  TB: "well", intensifying prefix in subuddho, also good, in sugandha 'fragrant': ကောင်းစွာ
+   map: «မွှေးသော» ×1
+   DEC: su|0 «ကောင်းစွာ»: pi-3 locked; 6 of 7; sugandha «မွှေးသော» (^5-522, smell list) aligns
+   ids: 5-522
+=== puriso ×1  TB: a man, male person (nominative sg.): ယောက်ျား
+   map: «ယောကျ်ား» ×1
+   DEC: puriso|0 «ယောက်ျား»: pi-2 locked; §A17: the standard spelling «ယောက်ျား» (ch12 / ch15 / ch16 «ယောကျ်ား» align)
+   ids: 5-539
+=== paribbājakassa ×1  TB: of the wandering ascetic (genitive sg.): ပရိဗိုဇ်
+   map: «ပရိဗ္ဗာဇ်» ×1
+   DEC: paribbājakassa|0 «ပရိဗိုဇ်»: family paribbājako (one spelling)
+   ids: 5-539
+=== sattānaṃ ×1  TB: of living beings (genitive pl.): သတ္တဝါ
+   map: «အသညသတ်» ×1
+   DEC: sattānaṃ|0 «သတ္တဝါ»: pi-4 / pi-2 / pi-1 locked; «အသညသတ်» only the realm name (^5-543)
+   ids: 5-543
+=== avaseso ×1  TB: the remaining, the rest (masculine sg.): ကြွင်းကျန်သော
+   map: «အကြွင်း» ×1
+   DEC: avaseso|0 «ကြွင်းကျန်သော»: pi-1 locked
+   ids: 5-544
+=== dhuvato ×1  TB: as stable, permanent (ablative): ခိုင်ခံ့သော အရာ
+   map: «ခိုင်မြဲသော အရာ» ×1
+   DEC: dhuvato|0 «ခိုင်ခံ့သော အရာ»: family dhuva «ခိုင်ခံ့သော» (§A2)
+   ids: 5-547
+=== Sabbaso ×1  TB: entirely, in every way (adverb): အလုံးစုံ
+   map: «အခါခပ်သိမ်း» ×1
+   DEC: Sabbaso|0 «အလုံးစုံ»: pi-2 locked; «အခါခပ်သိမ်း» means "always", not "entirely"
+   ids: 5-563
+=== pajānato ×1  TB: of one discerning (genitive participle): ကွဲပြားစွာ သိနေသော
+   map: «ပိုင်းခြား သိနေသော» ×1
+   DEC: pajānato|0 «ကွဲပြားစွာ သိနေသော»: family pajānāti (pi-4 / pi-2 locked «ကွဲပြားစွာ သိ»)
+   ids: 5-563
+=== aññaṃ ×1  TB: other, different, in 'the soul is one thing, the body another' (neuter sg.): တခြားစီ
+   map: «အခြား» ×1
+   DEC: Aññaṃ|0 «တခြားစီ»: pi-2 / pi-1 locked; approved frame «aññaṃ A añño B = Aနှင့် Bသည် တခြားစီ» (my5 §7); 18 of 18 uses
+   ids: 5-565
+=== sabbaso ×1  TB: entirely, in every way (adverb): အလုံးစုံ
+   map: «အခါခပ်သိမ်း» ×1
+   DEC: Sabbaso|0 «အလုံးစုံ»: pi-2 locked; «အခါခပ်သိမ်း» means "always", not "entirely"
+   ids: 5-570
+=== lābhī ×1  TB: obtainer (nominative sg.): ရသော
+   map: «ရသော» ×1
+   ids: 5-570
+=== vācāya ×1  TB: by spoken word (instrumental sg.): နှုတ်
+   map: «စကား» ×1
+   DEC: vācāya|0 «နှုတ်»: pi-4 / pi-2 locked
+   ids: 5-588
+=== iṭṭha ×1  TB: wished for: လိုလားဖွယ်
+   map: «လိုလားအပ်သော» ×1
+   DEC: iṭṭha|0 «လိုလားဖွယ်»: §A23: 4 of 5 uses; ch18 «လိုလားအပ်သော» aligns; iṭṭhā keeps pi-2 «လိုလားဖွယ်ကောင်းသော»
+   ids: 5-591
+=== iṭṭhaphalaṃ ×1  TB: having a wished-for result (nominative sg.): လိုလားဖွယ် အသီးအပွင့် ရှိသော
+   map: «လိုလားအပ်သော အကျိုး ရှိသော» ×1
+   DEC: iṭṭhaphalaṃ|0 «လိုလားဖွယ် အသီးအပွင့် ရှိသော»: 2 of 3 uses; iṭṭha «လိုလားဖွယ်», phalaṃ «အသီးအပွင့်» (locked)
+   ids: 5-591
+=== Aniṭṭha ×1  TB: not wished for: မလိုလားဖွယ်
+   map: «မလိုလားအပ်သော» ×1
+   DEC: aniṭṭha|0 «မလိုလားဖွယ်»: 4 of 4 uses; polarity pair with iṭṭha
+   ids: 5-591
+=== gāmino ×1  TB: going to (compound end): ရောက်သော
+   map: «သွားသော» ×1
+   DEC: gāmino|0 «ရောက်သော»: pi-4 locked; = gāmī
+   ids: 5-600
+=== jāyiṃsu ×1  TB: came to birth (3rd pl. aorist): မွေးဖွားသည်
+   map: «ဖြစ်သည်» ×1
+   DEC: jāyiṃsu|0 «မွေးဖွားသည်»: family jāti / jāyati «မွေးဖွား»; «ဖြစ်» is uppajjati's
+   ids: 5-622
+=== ekanta ×1  TB: wholly, completely (compound member): လုံးဝ
+   map: «တစ်ထစ်ချ» ×1
+   DEC: ekanta|0 «လုံးဝ»: pi-4 locked
+   ids: 5-626
+=== sañcetanikānaṃ ×1  TB: of deliberate deeds (genitive pl.): စေ့ဆော်၍
+   map: «ရည်ရွယ်၍» ×1
+   DEC: sañcetanikānaṃ|0 «စေ့ဆော်၍»: cetanā's core word «စေ့ဆော်» (pi-3 core); §A26: ^5-635 «ရည်ရွယ်၍» aligns
+   ids: 5-635
+=== sikkhāya ×1  TB: about the training, the course of practice (locative): ကျင့်စဉ်
+   map: «သိက္ခာ» ×1
+   DEC: sikkhāya|0 «ကျင့်စဉ်»: pi-2 / pi-1 locked
+   ids: 5-648
+=== Mato ×1  TB: dead (nominative sg. participle): သေပြီးသော
+   map: «သေ၍» ×1
+   DEC: Mato|0 «သေပြီးသော»: the participle
+   ids: 5-656
+=== Niyato ×1  TB: fixed in its destiny, certain (masculine sg.): ကျိန်းသေသော
+   map: «လမ်းကြောင်း သေချာပြီးသော» ×1
+   DEC: niyato|0 «ကျိန်းသေသော»: pi-4 / pi-2 locked; 6 of 8
+   ids: 5-663
+=== Micchattaniyato ×1  TB: fixed in the wrong direction, of certain bad destiny (masculine sg.): မှားယွင်းမှု၌ ကျိန်းသေသော
+   map: «မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော» ×1
+   DEC: Micchattaniyato|0 «မှားယွင်းမှု၌ ကျိန်းသေသော»: pi-2 locked; family niyato «ကျိန်းသေသော»
+   ids: 5-663
+=== niyato ×1  TB: fixed in its destiny, certain (masculine sg.): ကျိန်းသေသော
+   map: «လမ်းကြောင်း သေချာပြီးသော» ×1
+   DEC: niyato|0 «ကျိန်းသေသော»: pi-4 / pi-2 locked; 6 of 8
+   ids: 5-664
+=== pānaṃ ×1  TB: beverage, drink (nominative or accusative sg.): သောက်ဖွယ်; drinking, in surāmerayapānaṃ (compound final): သောက်ခြင်း
+   map: «အဖျော်» ×1
+   DEC: pānaṃ|0 «သောက်ဖွယ်»: "drink"; kept apart from pānīyaṃ «သောက်ရေ»
+   ids: 5-692
+=== annaṃ ×1  TB: nourishment, rice (accusative sg.): ထမင်း
+   map: «အစာ» ×1
+   DEC: annaṃ|0 «ထမင်း»: the plain word (the gift list)
+   ids: 5-692
+=== yāpeti ×1  TB: carries on, keeps life going, as a gloss of viharati (3rd sg. present): အသက်မွေးသည်
+   map: «အသက် မွေးသည်» ×1
+   DEC: yāpeti|0 «အသက်မွေးသည်»: family yāpenti (spacing)
+   ids: 5-692
+=== Yaṃ ×1  TB: relative pronoun, that which (neuter nominative sg.): အကြင်အရာ
+   map: «(no direct equivalent)» ×1
+   ids: 5-692
+=== naccati ×1  TB: moves rhythmically (3rd sg. present): ကသည်
+   map: «ကသည်» ×1
+   ids: 5-697
+=== Pariyuṭṭhito ×1  TB: overcome by an outburst (participle): ထကြွခြင်းကို ခံရသော
+   map: «ထကြွခြင်း ရှိသော» ×1
+   DEC: pariyuṭṭhito|0 «ထကြွခြင်းကို ခံရသော»: the passive participle (^5-268)
+   ids: 5-701
+=== akantāya ×1  TB: for the unlovely (dative): မချစ်ခင်ဖွယ်ရာ
+   map: «မနှစ်သက်ဖွယ်ရာ» ×1
+   DEC: akantāya|0 «မချစ်ခင်ဖွယ်ရာ»: family kanta / kantāya «ချစ်ခင်ဖွယ်» (kantā pi-2); «မနှစ်သက်» would merge it with amanāpa
+   ids: 5-708
+=== Addhā parinipphanno ×1  TB: 'a period of time is fully produced' (phrase): ကာလသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   map: «ကာလသည် အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» ×1
+   DEC: Addhā parinipphanno|0 «ကာလသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»: §A24: family parinipphanno
+   ids: 5-720
+=== nirodhaṃ samāpannassa ×1  TB: of one who has entered the attainment of ending (genitive phrase): ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော
+   map: «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» ×1
+   DEC: Nirodhaṃ samāpannassa|0 «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»: 2 of 2 uses; = nirodhasamāpatti «ချုပ်ငြိမ်းခြင်း သမာပတ်», samāpannassa
+   ids: 5-735
+=== mano ×1  TB: mind, the thinking faculty, also adjectival 'mental' in compounds: မနော
+   map: «စိတ်» ×1
+   DEC: mano|0 «မနော»: pi-4 / pi-3 / pi-2 / pi-1 locked; 16 of 17 uses
+   ids: 5-742
+=== abyābajjhaṃ ×1  TB: absence of affliction, non-harming (accusative sg.): ညှဉ်းဆဲမှု ကင်းခြင်း
+   map: «မဆင်းရဲစေတတ်သော» ×1
+   DEC: abyābajjhaṃ|0 «ညှဉ်းဆဲမှု ကင်းခြင်း»: the noun (accusative sg.)
+   ids: 5-742
+=== pariyāye ×1  TB: comprehending, going round, in cetopariyāye (locative sg.): ပိုင်းခြား၍ သိသော; another time or turn, in apare vā pariyāye (locative sg.): အလှည့်
+   map: «ဘဝအဆက်ဆက်» ×1
+   DEC: pariyāye|1 «အလှည့်»: §A26: the plain "turn" (apare vā pariyāye); ^5-782 «ဘဝအဆက်ဆက်» aligns
+   ids: 5-782
+=== karaṇaṃ ×1  TB: doing, taking up, in akaraṇaṃ 'not doing' (nominative sg.), here making, causing, in aññāṇakaraṇa and nānākaraṇa: ပြုတတ်သော
+   map: «ကွဲပြားစေတတ်သော» ×1
+   DEC: karaṇaṃ|0 «ပြုတတ်သော»: 2 of 3 uses (aññāṇakaraṇa); pi-1 «ပြုလုပ်ခြင်း» (another use) never occurs
+   ids: 5-785
+=== seṭṭhā ×1  TB: foremost (nominative pl.): အကောင်းဆုံး
+   map: «မြတ်သော» ×1
+   DEC: seṭṭhā|0 «အကောင်းဆုံး»: family seṭṭho
+   ids: 5-798
+=== jātā ×1  TB: born, come to birth (nominative pl. participle): ပေါ်ပေါက်သော
+   map: «ဖြစ်ပေါ်သော» ×1
+   DEC: jātā|0 «ပေါ်ပေါက်သော»: 2 of 3 uses (co-arising states); = jāto; pi-2 «မွေးဖွားပြီးသော» is not a candidate (reported)
+   ids: 5-798
+=== uddissa ×1  TB: designated for (absolutive): ရည်ရွယ်၍
+   map: «ရည်စူး၍» ×1
+   DEC: uddissa|0 «ရည်ရွယ်၍»: pi-4 locked
+   ids: 5-798
+=== Vineyya ×1  TB: having put away, having removed covetousness (absolutive): ပယ်ဖျောက်၍
+   map: «ဖယ်ရှား၍» ×1
+   DEC: Vineyya|0 «ပယ်ဖျောက်၍»: pi-2 locked; kept apart from paṭivinodetvā «ဖယ်ရှား…» (pi-4)
+   ids: 5-798
+=== parakataṃ sukhadukkhaṃ ×1  TB: pleasure and pain made by another (phrase): သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ
+   map: «သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော» ×1
+   DEC: parakataṃ sukhadukkhaṃ|0 «သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ»: the candidate in the members' words (para «သူတစ်ပါး», sukhadukkha «ချမ်းသာ …»); §A19: the rails step writes sukhadukkhaṃ's «ချမ်းသာနှင့် ဆင်းရဲ»
+   ids: 5-801
+=== sukhadukkhaṃ ×1  TB: pleasure-and-pain, weal and woe, in the views on who makes them: ချမ်းသာနှင့် ဆင်းရဲ; pleasant and painful feeling, as feelings (^5-742): သာယာမှု နာကျင်မှု
+   map: «သုခ ဒုက္ခ» ×1
+   DEC: sukhadukkhaṃ|0 «ချမ်းသာနှင့် ဆင်းရဲ»: §A19: approved sample sukhadukkha «ချမ်းသာနှင့် ဆင်းရဲ» (my5 §7); 5 of 8; «ချမ်းသာ ဆင်းရဲ» and «သုခ ဒုက္ခ» align
+   ids: 5-801
+=== āyu ×1  TB: life span, vital duration (nominative sg.): သက်တမ်း
+   map: «အသက်» ×1
+   DEC: āyu|0 «သက်တမ်း»: pi-4 / pi-2 / pi-1 locked
+   ids: 5-802
+=== ārāma ×1  TB: pleasure-garden, park, also a monastery park (compound member): ဥယျာဉ်
+   map: «အရံ» ×1
+   DEC: ārāma|0 «ဥယျာဉ်»: "park" (the tag's first meaning); 1 / 1 / 1 uses
+   ids: 5-802
+=== sacchikataṃ ×1  TB: directly experienced (participle): မျက်မှောက်ပြုပြီးသော
+   map: «မျက်မှောက် ပြုဖူးသော» ×1
+   DEC: sacchikataṃ|0 «မျက်မှောက်ပြုပြီးသော»: 8 of 9 uses; = sacchikato
+   ids: 5-812
+=== vitthāretabbaṃ ×1  TB: to be filled out in full (gerundive): အကျယ် ချဲ့ရမည့်
+   map: «အကျယ် ချဲ့ရမည့်» ×1
+   ids: 5-839
+=== dassāvino ×1  TB: who perceive (accusative pl.): ရှုမြင်သော
+   map: «မြင်သော» ×1
+   DEC: dassāvino|0 «ရှုမြင်သော»: family dassāvī
+   ids: 5-856
+=== mātaraṃ jīvitā ×1  TB: the mother … from life (phrase): အမိကို အသက်
+   map: «အမိ» ×1
+   DEC: mātaraṃ jīvitā|0 «အမိကို အသက်»: §A29: the candidate that renders both words (jīvitā «အသက်မှ»)
+   ids: 5-858
+=== voropitā ×1  TB: deprived, of life (feminine or pl. participle): ချခံရသော
+   map: «သတ်ခဲ့ပြီးသော» ×1
+   DEC: voropitā|0 «ချခံရသော»: pi-2 locked
+   ids: 5-859
+=== jīvitā voropitā ×1  TB: deprived of the life-principle (phrase): အသက်မှ ချခံရသော
+   map: «သတ်ခဲ့ပြီးသော» ×1
+   DEC: jīvitā voropitā|0 «အသက်မှ ချခံရသော»: §A29: family voropitā «ချခံရသော» (pi-2 locked) and Mātā jīvitā voropitā «အမိသည် အသက်မှ ချခံရသော»; renders jīvitā
+   ids: 5-859
+=== bandhanaṃ ×1  TB: fetter, shackle, in the greed list (nominative sg.): အနှောင်အဖွဲ့
+   map: «အနှောင်» ×1
+   DEC: bandhanaṃ|0 «အနှောင်အဖွဲ့»: harmonise B4: bandhana «အနှောင်အဖွဲ့», kept apart from saṃyojana «နှောင်ကြိုး» (= bandhanehi / bandhanena)
+   ids: 5-868
+=== ādittāya ×1  TB: set on fire (feminine instrumental): လောင်ကျွမ်းနေသော
+   map: «ပူလောင်နေသော» ×1
+   DEC: ādittāya|0 «လောင်ကျွမ်းနေသော»: family ādittaṃ
+   ids: 5-868
+=== sabbadā ×1  TB: at all times (adverb): အချိန်တိုင်း
+   map: «အမြဲ» ×1
+   DEC: Sabbadā|0 «အချိန်တိုင်း»: approved sample core term (sabbadā «အချိန်တိုင်း၌», my5 §7); 4 of 4 uses
+   ids: 5-868
+=== dvipadānaṃ ×1  TB: of bipeds, human beings (genitive pl.): ခြေနှစ်ချောင်း ရှိသော
+   map: «ခြေ နှစ်ချောင်း ရှိသော» ×1
+   DEC: dvipadānaṃ|0 «ခြေနှစ်ချောင်း ရှိသော»: §A10: one spelling, joined
+   ids: 5-872
+=== seyyathidaṃ ×1  TB: namely, that is to say, introducing a list (indeclinable): ဆိုလိုသည်မှာ
+   map: «ယင်းမှာ» ×1
+   DEC: seyyathidaṃ|0 «ဆိုလိုသည်မှာ»: pi-2 locked
+   ids: 5-872
+=== pana ×1  TB: connective or emphatic particle 'and, now, but': တစ်ဖန်
+   map: «(no direct equivalent)» ×1
+   ids: 5-884
+=== dassana ×1  TB: seeing, vision, in vimuttiñāṇadassana (compound member): အမြင်
+   map: «သိမြင်သော» ×1
+   DEC: dassana|0 «အမြင်»: 6 of 7 uses: the noun "vision" (dassanasampadā ^5-278 …); pi-4 «သိမြင်သော» is the attributive inside vimuttiñāṇadassana «… သိမြင်သော ဉာဏ်» (^5-885 sabbaññutañāṇadassana): departs from pi-4 in form
+   ids: 5-885
+=== buddhā ×1  TB: the Buddhas, the awakened ones (nominative pl.): ဘုရားရှင်
+   map: «ဘုရား» ×1
+   DEC: buddhā|0 «ဘုရားရှင်»: pi-2 locked; family buddha
+   ids: 5-886
+=== dhāreti ×1  TB: puts on (3rd sg. present), also bears, carries: ဝတ်သည်
+   map: «ဆောင်သည်» ×1
+   DEC: dhāreti|0 «ဝတ်သည်»: pi-4 locked
+   ids: 5-886
+=== ussineti ×1  TB: heaps up (3rd sg.): စုပုံသည်
+   map: «စုစည်းသည်» ×1
+   DEC: ussineti|0 «စုပုံသည်»: §A26: 2 of 3 uses (^5-268, ^5-778); ^5-894 «စုစည်းသည်» aligns
+   ids: 5-894
+=== visineti ×1  TB: disperses (3rd sg.): ဖြန့်ကြဲသည်
+   map: «ဖြန့်ကျက်သည်» ×1
+   DEC: visineti|0 «ဖြန့်ကြဲသည်»: §A26: 2 of 3 uses; ^5-894 «ဖြန့်ကျက်» aligns
+   ids: 5-894
+=== visinetvā ×1  TB: having dispersed (absolutive): ဖြန့်ကြဲ၍
+   map: «ဖြန့်ကျက်၍» ×1
+   DEC: visinetvā|0 «ဖြန့်ကြဲ၍»: §A26: = visineti
+   ids: 5-894
+=== sobhagya ×1  TB: good fortune, beauty (compound member): ကောင်းသော ကံကြမ္မာ
+   map: «ကောင်းကျိုး ချမ်းသာ» ×1
+   DEC: sobhagya|0 «ကောင်းသော ကံကြမ္မာ»: «ကံကြမ္မာ» is the ordinary word for fortune; «ကောင်းကျိုး ချမ်းသာ» has sukha's «ချမ်းသာ»
+   ids: 5-894
+=== apacināti ×1  TB: pulls down, dismantles (3rd sg. present): ဖြိုဖျက်သည်
+   map: «ဖျက်ဆီးသည်» ×1
+   DEC: apacināti|0 «ဖြိုဖျက်သည်»: §A26: = apacinitvā
+   ids: 5-894
+=== apacinitvā ×1  TB: having dismantled, uprooted (absolutive): ဖြိုဖျက်၍
+   map: «ဖျက်ဆီး၍» ×1
+   DEC: apacinitvā|0 «ဖြိုဖျက်၍»: §A26: 2 of 3 uses; ^5-894 «ဖျက်ဆီး» aligns
+   ids: 5-894
+=== kiriyābyākate ×1  TB: in the merely functional mind that is neither wholesome nor unwholesome (locative sg.): ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   map: «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ» ×1
+   DEC: kiriyābyākate|0 «ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»: family Kiriyābyākatā; core word kiriya «ပြုရုံမျှသာ»; «ကြိယာ» is opaque Pāli (pi-2's term never occurs)
+   ids: 5-896
+=== samanantarā ×1  TB: right after, immediately following (adverb): ချက်ချင်း နောက်၌
+   map: «ချက်ချင်း» ×1
+   DEC: samanantarā|0 «ချက်ချင်း နောက်၌»: pi-4 / pi-2 locked
+   ids: 5-896
+=== vipākābyākate ×1  TB: in the resultant undetermined (locative): ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   map: «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး» ×1
+   DEC: vipākābyākate|0 «ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»: family Vipākābyākatā
+   ids: 5-896
+=== ekāgārikaṃ kareyya ×1  TB: would commit burglary on a single house (phrase): အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်
+   map: «အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်သည်» ×1
+   DEC: ekāgārikaṃ kareyya|0 «အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်»: §A27: the first wording (ch25 ^5-784); ch30 / ch31 align
+   ids: 5-901
+=== kareyya ×1  TB: would exercise or wield rule (optative), also would commit, of a robbery (^5-901): ပြုသည်
+   map: «လုယက်သည်» ×1
+   DEC: kareyya|0 «ပြုသည်»: pi-2 locked (TAGDIFF); ^5-901 «လုယက်» belongs to the robbery phrase (ekāgārikaṃ kareyya)
+   ids: 5-901
+=== ādeyya ×1  TB: whose word is taken up (nominative): လက်ခံထိုက်သော
+   map: «လက်ခံထိုက်သော» ×1
+   ids: 5-903
+=== palāpassa ×1  TB: of frivolous talk (genitive): ပြိန်ဖျင်းသော စကား
+   map: «စကား» ×1
+   DEC: palāpassa|0 «ပြိန်ဖျင်းသော စကား»: family palāpa
+   ids: 5-903
+=== bhāvito ×1  TB: cultivated (participle): ပွားများပြီးသော
+   map: «ပွားများထားသော» ×1
+   DEC: bhāvito|0 «ပွားများပြီးသော»: 18 of 19 uses (harmonise B6 BHAVITA_V)
+   ids: 5-903
+=== amanāpa ×1  TB: unpleasing (compound member): စိတ်နှင့် မတွေ့ဖွယ်
+   map: «မနှစ်သက်ဖွယ်» ×1
+   DEC: amanāpa|0 «စိတ်နှင့် မတွေ့ဖွယ်»: family manāpā «စိတ်နှင့် တွေ့»; «မနှစ်သက်ဖွယ်» aligns
+   ids: 5-903
+=== pisuṇāya ×1  TB: from slanderous, divisive speech (ablative fem.): ကုန်းတိုက်သော
+   map: «ကုန်းချောစကား» ×1
+   DEC: pisuṇāya|0 «ကုန်းတိုက်သော»: pi-4 locked; §A27
+   ids: 5-903
+=== saṃvattanikā ×1  TB: conducive to, leading to (feminine sg.): ဖြစ်စေသော
+   map: «ပို့ဆောင်တတ်သော» ×1
+   DEC: saṃvattanikā|0 «ဖြစ်စေသော»: pi-2 locked; §A26 one verb «ဖြစ်စေ»
+   ids: 5-904
+=== parāyanā ×1  TB: having as ultimate support (nominative): မှီခိုရာ
+   map: «ဆုံးခန်းတိုင်ရာ» ×1
+   DEC: parāyanā|0 «မှီခိုရာ»: harmonise B6: parāyaṇa «မှီခိုရာ» (= parāyanaṃ / parāyanāni); «ဆုံးခန်းတိုင်ရာ» was the replaced ch27 form
+   ids: 5-905
+=== samannāhāro ×1  TB: adverting, bringing to mind, turning the mind towards (nominative sg.): စိတ်ကို ဆောင်ခြင်း
+   map: «နှလုံးသွင်းမှု» ×1
+   DEC: samannāhāro|0 «စိတ်ကို ဆောင်ခြင်း»: pi-2 locked = the text's own word at ^5-492 … (the āvaṭṭanā list «… စိတ်ညွတ်ခြင်း၊ စိတ်ကို ဆောင်ခြင်း၊ နှလုံးသွင်းခြင်း …»); both candidates are manasikāro's word in that same list (probable map slip; synonym-list rule); outside the candidates
+   ids: 5-906
+=== ajjhattikaṃ ×1  TB: internal, belonging to oneself (neuter sg.): အတွင်းပိုင်း
+   map: «မိမိ၏» ×1
+   DEC: ajjhattikaṃ|0 «အတွင်းပိုင်း»: pi-2 / pi-1 locked; = ajjhattika «အတွင်းပိုင်း» (this book)
+   ids: 5-906
+=== Ekacittakkhaṇikā ×1  TB: lasting for a single mind-instant (feminine): စိတ် တစ်ခဏ၌သာ ဖြစ်သော
+   map: «စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော» ×1
+   DEC: Ekacittakkhaṇikā|0 «စိတ် တစ်ခဏ၌သာ ဖြစ်သော»: family Ekacittakkhaṇiko (feminine of the same word)
+   ids: 5-906
+=== ekacittakkhaṇikā ×1  TB: lasting for a single mind-instant (feminine): စိတ် တစ်ခဏ၌သာ ဖြစ်သော
+   map: «စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော» ×1
+   DEC: Ekacittakkhaṇikā|0 «စိတ် တစ်ခဏ၌သာ ဖြစ်သော»: family Ekacittakkhaṇiko (feminine of the same word)
+   ids: 5-907
+=== vipariṇāmadhammā ×1  TB: of a changing nature, liable to alter (feminine or pl.): ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော
+   map: «ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော» ×1
+   DEC: vipariṇāmadhammā|0 «ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော»: pi-2 locked; 2 of 3
+   ids: 5-907
+=== cheditabbo ×1  TB: to be broken into, of a house-joint (gerundive): ဖောက်ထွင်းရမည့်
+   map: «ဖောက်ထွင်းရမည့်» ×1
+   ids: 5-908
+=== palapitabbaṃ ×1  TB: to be prattled (gerundive): ပြောရမည့်
+   map: «ပြောရမည့်» ×1
+   ids: 5-908
+=== ghātako ×1  TB: one who kills, executes (nominative): သတ်သူ; raider, destroyer, in gāmaghātako and nigamaghātako (compound final): ဖျက်ဆီးရမည့်
+   map: «ဖျက်ဆီးရမည့်» ×1
+   ids: 5-908
+=== hantabbo ×1  TB: to be slain (gerundive): သတ်ရမည့်
+   map: «သတ်ရမည့်» ×1
+   ids: 5-908
+=== ṭhātabbaṃ ×1  TB: to be stood, of waiting in ambush (gerundive): ဓားပြ တိုက်ရမည့်
+   map: «ဓားပြ တိုက်ရမည့်» ×1
+   ids: 5-908
+=== ekāgārikaṃ kātabbaṃ ×1  TB: burglary of a single house to be committed (phrase): အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်ရမည့်
+   map: «အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်ရမည့်» ×1
+   ids: 5-908
+=== bhaṇitabbā ×1  TB: to be uttered (gerundive): ပြောရမည့်
+   map: «ပြောရမည့်» ×1
+   ids: 5-908
+=== citta ×1  TB: mind, consciousness (stem and compound member), also in cittiddhipāda: စိတ်; variegated, colourful, in cittavaṇḍa (compound member): အရောင်စုံ
+   map: «စိတ္တ» ×1
+   DEC: citta|0 «စိတ်»: pi-4 / pi-3 / pi-2 / pi-1 locked; 38 of 39 uses; «စိတ္တ» only the iddhipāda name at ^5-911
+   ids: 5-911
+=== upapajjeyya ×1  TB: would be reborn, reappear (optative): ရောက်သည်
+   map: «ပြန်လည် ဖြစ်ပေါ်သည်» ×1
+   DEC: upapajjeyya|0 «ရောက်သည်»: pi-2 locked
+   ids: 5-911
+=== samāhitā ×1  TB: founded on (nominative): တည်ကြည်သော
+   map: «ကောင်းစွာ တည်သော» ×1
+   DEC: samāhitā|0 «တည်ကြည်သော»: family samāhite / samāhitaṃ
+   ids: 5-918

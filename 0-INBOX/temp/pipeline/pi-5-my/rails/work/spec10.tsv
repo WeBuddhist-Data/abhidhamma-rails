@@ -1,0 +1,6 @@
+make_sample	ဒုတိယ စိတ် ဖြစ်ပေါ်သောအခါ	ဒုတိယ စိတ် ဖြစ်ပေါ်ပြီးသောအခါ	L36 uppanne = ဖြစ်ပေါ်ပြီးသော (decision uppanne|0, pi-1 locked): dutiye citte uppanne ^5-116, ^5-117
+make_ch13-16	ဤ{PUG}သည် တရားကို ထိုးထွင်း သိနိုင်သူ ဖြစ်သည်	ဤ{PUG}သည် တရားကို ထင်ထင်ရှားရှား သိမြင်ရန် ထိုက်တန်သူ ဖြစ်သည်	L36 bhabbo … abhisametuṃ = ထိုက်တန်သော … ထင်ထင်ရှားရှား သိမြင်ရန် (decisions bhabbo|0, abhisametuṃ|0): ^5-431
+make_ch11-12	ငါသည် လောက၏ အမြတ်ဆုံး ဖြစ်၏	ငါသည် လောက၏ အကောင်းဆုံး ဖြစ်၏	L36 seṭṭho = အကောင်းဆုံး (decision seṭṭho|0, pi-4 locked; agga keeps «ထိပ်ဆုံး»): seṭṭhohamasmi lokassa ^5-401
+make_ch26-31	အမြတ်ဆုံး ဖြစ်၏	အကောင်းဆုံး ဖြစ်၏	L36 seṭṭho = အကောင်းဆုံး: the verse «Maggānaṭṭhaṅgiko seṭṭho …» ^5-872
+make_ch26-31	_FIRE = "ပူလောင်နေသော၊	_FIRE = "လောင်ကျွမ်းနေသော၊	L36 ādittāya = လောင်ကျွမ်းနေသော (decision ādittāya|0, family ādittaṃ): ^5-868
+make_ch21-25	"ခြေနှစ်ချောင်း ရှိသူတို့တွင် အမွန်မြတ်ဆုံး"	"ခြေနှစ်ချောင်း ရှိသူတို့တွင် အကောင်းဆုံး"	L36 seṭṭho = အကောင်းဆုံး: dvipadānaṃ seṭṭho ^5-799

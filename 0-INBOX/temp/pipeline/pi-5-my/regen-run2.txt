@@ -1,0 +1,26 @@
+== rebuild (8 generators; terms_my5.py rewrites my5-zeroshot-terms.md)
+== check_chapter_ids / pi-6-mr/check_text_pe.py / pi-4-mr/check_marks.py
+(32 chapter files checked, chk-pe copies deleted)
+== agents' own checks (0 mismatches, reuse n / n)
+check_sample: OK: 0 mismatches; reuse 1276 / 1276 identical
+check_ch2-5: OK: 0 mismatches; reuse 1331 / 1331 identical
+check_ch6-10: OK: 0 mismatches; reuse 882 / 882 identical
+check_ch11-12: OK: 0 mismatches; reuse 1115 / 1115 identical
+check_ch13-16: OK: 0 mismatches; reuse 1152 / 1152 identical
+check_ch17-20: OK: 0 mismatches; reuse 1063 / 1063 identical
+check_ch21-25: OK: 0 mismatches; reuse 1002 / 1002 identical
+check_ch26-31: OK: 0 mismatches; reuse 663 / 663 identical
+== cross-chapter alignment (pi-1-my/align_check_my.py, align_hidden_my.py)
+repeated Pāli sentences: 690; with differing Burmese: 1; lines compared whole: 475
+uneven lines 475 | unmatched repeated sentences: 0
+align_check: 1 differing, 1 explained, 0 unexplained; align_hidden: 0 unmatched, 0 explained, 0 unexplained
+   explained: Tena hi na vattabbaṃ – "puggalo upalabbhati saccikaṭṭhaparamatthenā"ti. — 1:426 (the approved sample): the Pāli line has «Na hevaṃ vattabbe.…Pe…. Tena hi …»; the tool cuts after «vattabbe.», so «…Pe….» opens this unit and the Burmese 
+== pi-1 … pi-4 identity (harmonise_pi1234.py)
+pi-1 identity: 2 / 2 identical, 0 explained; differing: 0
+pi-2 identity: 4 / 4 identical, 0 explained; differing: 0
+pi-3 identity: 2 / 21 identical, 19 explained; differing: 0
+pi-4 identity: 5 / 7 identical, 2 explained; differing: 0
+== harmonise scan (one form per item; writes harmonise-table.tsv) and lines changed
+78 / 78 items OK
+lines changed: 450 (preamble: 0, 1: 8, 2: 0, 3: 1, 4: 3, 5: 6, 6: 0, 7: 5, 8: 2, 9: 3, 10: 74, 11: 23, 12: 24, 13: 4, 14: 2, 15: 14, 16: 14, 17: 35, 18: 25, 19: 1, 20: 17, 21: 20, 22: 14, 23: 5, 24: 20, 25: 9, 26: 25, 27: 36, 28: 18, 29: 16, 30: 13, 31: 13)
+ALL CHECKS PASSED

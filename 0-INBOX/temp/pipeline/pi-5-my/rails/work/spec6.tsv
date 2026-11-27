@@ -1,0 +1,47 @@
+== L24 sukha (§A19)
+make_ch21-25	သုခ ဒုက္ခ	ချမ်းသာနှင့် ဆင်းရဲ	L24 §A19 sukhadukkhaṃ = ချမ်းသာနှင့် ဆင်းရဲ (decisions sukhadukkhaṃ|0 «သုခ ဒုက္ခ aligns», parakataṃ sukhadukkhaṃ|0): ^5-801 …
+make_ch21-25	သုခ	ချမ်းသာ	L24 §A19 sukha / sukhaṃ = ချမ်းသာ (decisions sukha|1, sukhaṃ|1: ««သုခ» (^5-748, ^5-775, ^5-801, ch24 heading) aligns»): ch24 ^5-743 … ^5-747, ^5-775, ^5-24-3-1-0
+== L25 paṭivedha family (coordinator change: «ထိုးဖောက်၍ သိ…»)
+my5_formulas	"Paṭivedhānuyogo": f"ထိုးထွင်း သိမြင်ခြင်းကို {ANUYOGA_W}",	"Paṭivedhānuyogo": f"ထိုးဖောက်၍ သိခြင်းကို {ANUYOGA_W}",	L25 Paṭivedhānuyogo = ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း (termbase/APPROVED.md coordinator change: the locked pi-4 paṭivedho term): ^5-1-20-0, ^5-205
+make_ch2-5	PATIVEDHA = "ထိုးထွင်း သိမြင်ခြင်း"	PATIVEDHA = "ထိုးဖောက်၍ သိခြင်း"	L25 paṭivedho / paṭivedha = ထိုးဖောက်၍ သိခြင်း (coordinator change): ch3 ^5-272, ^5-281
+make_ch2-5	အရာကို ထိုးထွင်း သိမြင်ရန်	အရာကို ထိုးဖောက်၍ သိရန်	L25 paṭivedhāya = ထိုးဖောက်၍ သိရန် (coordinator change): akuppapaṭivedhāya ^5-273
+make_ch2-5	အရာကို ထိုးထွင်း သိမြင်လျက်	အရာကို ထိုးဖောက်၍ သိလျက်	L25 paṭivijjhanto = ထိုးဖောက်၍ သိလျက် (coordinator change): ^5-279
+make_ch2-5	ထိုးထွင်း သိမြင်ပြီး	ထိုးဖောက်၍ သိပြီး	L25 paṭividdhaṃ / paṭividdhā = ထိုးဖောက်၍ သိပြီးသော (coordinator change): «anubuddhā paṭividdhā» ^5-281
+make_ch2-5	ထိုးထွင်း မသိမြင်ခြင်း	ထိုးဖောက်၍ မသိခြင်း	L25 appaṭivedhā = the negative of paṭivedha «ထိုးဖောက်၍ သိခြင်း» (coordinator change): ^5-281
+make_ch6-10	ရဟန္တာ ဖိုလ်ကို ထိုးထွင်း သိခြင်း	ရဟန္တာ ဖိုလ်ကို ထိုးဖောက်၍ သိခြင်း	L25 paṭivedho = ထိုးဖောက်၍ သိခြင်း: aññāpaṭivedho ^5-346
+make_ch17-20	ကြားကာလ၌ တရားကို ထိုးထွင်း သိမြင်ရန်	ကြားကာလ၌ တရားကို ထင်ထင်ရှားရှား သိမြင်ရန်	L25 abhisametuṃ = ထင်ထင်ရှားရှား သိမြင်ရန် (coordinator change: the abhisamaya family, locked pi-4): ^5-641
+make_ch6-10	ထိုးထွင်း သိကြ	ခွဲခြား သိကြ	L25 paṭivijānanti = ခွဲခြား သိသည် (decision paṭivijānanti|0, family paṭivijānāti; «ထိုးထွင်း» is paṭivedha's word): vohāraṃ … paṭivijānanti ^5-347, ^5-352
+make_ch6-10	ထိုးထွင်း မသိကြ	ခွဲခြား မသိကြ	L25 na paṭivijānanti = ခွဲခြား မသိ: ^5-347, ^5-352
+== L26 parinipphanna (§A24), arūpadhātu, rūpadhātu
+make_ch21-25	အမှန်တကယ် ဖြစ်ပေါ်ပြီး	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီး	L26 §A24 parinipphanno / parinipphannaṃ = ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော (decisions parinipphanno|0, parinipphannaṃ|0: ch19's form): ch23 ^5-720 … ^5-723
+make_ch26-31	ပြည့်စုံစွာ ပြီးမြောက်	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီး	L26 §A24 parinipphannaṃ = ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော: ch31 ^5-917, ^5-918
+make_ch21-25	"arūpa": "ရုပ်မရှိသော ဓာတ်"	"arūpa": "ရုပ်မရှိသော ဘုံ"	L26 arūpadhātu = ရုပ်မရှိသော ဘုံ (decision arūpadhātu|0, pi-2 locked, approved plane name): ch24 ^5-773, ^5-774, heading ^5-24-10-1-0
+make_ch21-25	"rūpa": "သိမ်မွေ့သော ရုပ် ဓာတ်"	"rūpa": "သိမ်မွေ့သော ရုပ်ဘုံ"	L26 rūpadhātu = သိမ်မွေ့သော ရုပ်ဘုံ (decision rūpadhātu|1, approved plane name): ch24 ^5-771, ^5-772
+== L27 abhabba / bhabba
+my5_formulas	RATANA_LAST = "ကြီးလေးသော ဒုစရိုက် ခြောက်ပါးတို့ကို ပြုလုပ်ရန် မစွမ်းနိုင်"	RATANA_LAST = "ကြီးလေးသော ဒုစရိုက် ခြောက်ပါးတို့ကို ပြုလုပ်ရန် မထိုက်တန်"	L27 abhabba = မထိုက်တန်သော (decision abhabba|0, pi-4 locked; mapper binding Abhabbo «မထိုက်တန်»): the ratana verse «chaccābhiṭhānāni abhabba kātuṃ» ^5-278, ^5-346 …
+== L28 saṃvattaniya (§A26)
+make_ch6-10	"နိဗ္ဗာန်သို့ မပို့ဆောင်တတ်သော"	"နိဗ္ဗာန်သို့ မဖြစ်စေတတ်သော"	L28 §A26 saṃvattaniyaṃ = ဖြစ်စေတတ်သော (decision saṃvattaniyaṃ|0: one verb «ဖြစ်စေ», pi-2 saṃvattanikā): anibbānasaṃvattaniyaṃ ^5-549, ^5-550
+make_ch6-10	"နိဗ္ဗာန်သို့ ပို့ဆောင်တတ်သော"	"နိဗ္ဗာန်ကို ဖြစ်စေတတ်သော"	L28 §A26 saṃvattaniyaṃ = ဖြစ်စေတတ်သော: nibbānasaṃvattaniyaṃ (the pair)
+make_ch26-31	_SV = "သို့ ပို့ဆောင်တတ်သော ကံကို ပြုလျက်"	_SV = "ကို ဖြစ်စေတတ်သော ကံကို ပြုလျက်"	L28 §A26 saṃvattaniyaṃ kammaṃ = ဖြစ်စေတတ်သော ကံ (decision saṃvattaniyaṃ kammaṃ|0): ^5-894
+make_ch26-31	_LEAD = "သို့ ပို့ဆောင်တတ်၏"	_LEAD = "ကို ဖြစ်စေတတ်၏"	L28 §A26 saṃvattanikā = ဖြစ်စေသော (decision saṃvattanikā|0, pi-2 locked): ^5-903, ^5-904
+== L29 saññī, pisuṇa, khaṇika, āneñja (§A26 / §A27)
+make_ch26-31	တရားဟု မှတ်ထင်လျက်	တရားဟု မှတ်သိလျက်	L29 saññī = မှတ်သိသော (decision saññī|0, pi-1 … pi-4 locked): dhammasaññī ^5-860 …
+make_ch26-31	ကုန်းချောစကား	ကုန်းတိုက်သော စကား	L29 §A27 pisuṇaṃ = ကုန်းတိုက်သော စကား (decision pisuṇaṃ|0, pi-4 locked; «ch30 / ch31 «ကုန်းချောစကား» align»): ^5-901, ^5-903, ^5-908, ^5-909
+make_ch26-31	EKC = f"စိတ် {F.NUM_MY[1]}ခု၏ ခဏမျှသာ တည်သော အရာ"	EKC = f"စိတ် {F.NUM_MY[1]}ခဏ၌သာ ဖြစ်သော အရာ"	L29 Ekacittakkhaṇikā = စိတ် တစ်ခဏ၌သာ ဖြစ်သော (decisions Ekacittakkhaṇikā|0, khaṇikā|0, cittakkhaṇikā|0): ^5-906, ^5-907
+make_ch26-31	မတုန်မလှုပ်	မတုန်လှုပ်	L29 §A26 āneñja = မတုန်လှုပ်… (decisions āneñja|0, āneñje|0, pi-4 locked: one stem «မတုန်လှုပ်»): ^5-894, ^5-896, ^5-907, heading ^5-30-3-1-0
+my5_formulas	(ch3 ^5-274; was «မတုန်မလှုပ်သော …» ch10 / ch11)	(ch3 ^5-274; was «မတုန်လှုပ်သော …» ch10 / ch11)	L29 §A26 (a comment of my5_formulas that names the old word; changed so that the source has one stem)
+== L30 yoni (decision yoni|0 «မွေးဖွားရာ အမျိုးအစား»)
+make_ch17-20	"tiracchānayoniṃ": "တိရစ္ဆာန် ဘဝသို့"	"tiracchānayoniṃ": "တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစားသို့"	L30 tiracchānayoniṃ = တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား (decision tiracchānayoniṃ|0, family yoni; the pi-2 ^2-811 tiracchānayonigāmī witness is kept): ^5-652, ^5-653
+== L31 niyato, samaṅgī, dhammaṭṭhitatā / dhammaniyāmatā
+make_ch21-25	NIYATO = new("niyato (a person)", "လမ်းကြောင်း သေချာပြီးသူ")	NIYATO = new("niyato (a person)", "ကျိန်းသေသူ")	L31 niyato = ကျိန်းသေသော (decisions niyato|0, Niyato|0, Micchattaniyato|0, pi-4 / pi-2 locked): ch21 ^5-663, ^5-664
+make_ch13-16	HAVING = "ကို ရရှိထားသော"	HAVING = "နှင့် ပြည့်စုံသော"	L31 samaṅgissa = ပြည့်စုံသော (decision samaṅgissa|0, pi-2 / pi-1 locked, 8 of 10): X-phalasamaṅgī ^5-419, ^5-420
+make_ch13-16	တရား၏ တည်ရှိခြင်း၊ တရား၏ သေချာခြင်း	သဘောတရားတို့၏ တည်နေခြင်း သဘော၊ သဘောတရားတို့၏ သေချာခြင်း	L31 dhammaṭṭhitatā = သဘောတရားတို့၏ တည်နေခြင်း သဘော, dhammaniyāmatā = သဘောတရားတို့၏ သေချာခြင်း (decisions dhammaṭṭhitatā|0, dhammaniyāmatā|0: the ch11 heading / ch19 debate): ^5-450, ^5-451
+== L32 mixed single terms with one source line each
+make_sample	"လူ့လောက	"လူ့ပြည်	L32 manussalokā = လူ့ပြည် (decision manussalokā|0, family manussaloka): ^5-87, ^5-88
+make_sample	လူ အတွဲ	လူ အစုံ	L32 §A28 purisayugā = လူ အစုံ, yugā = အစုံ (decisions purisayugā|0, yugā|0: «ch1 «လူ အတွဲ» aligns»): ^5-206, ^5-207
+make_ch17-20	အခါခပ်သိမ်း	အလုံးစုံ	L32 Sabbaso = အလုံးစုံ (decision Sabbaso|0, pi-2 locked: «အခါခပ်သိမ်း» means "always"): ^5-563, ^5-570
+make_ch26-31	ဖြန့်ကျက်	ဖြန့်ကြဲ	L32 §A26 visineti = ဖြန့်ကြဲသည် (decisions visineti|0, visinetvā|0): ^5-894
+make_ch26-31	"ကျင့်ခဲ့"))	"ပြုခဲ့"))	L32 akāsi = ပြုခဲ့သည် (decision akāsi|0, family karoti «ပြု»): aparantapaṃ akāsi ^5-913
+make_ch26-31	ပြင်းထန်သော အကျင့်ကို ကျင့်ခဲ့၊	ပြင်းထန်သော အကျင့်ကို ပြုခဲ့၊	L32 akāsi = ပြုခဲ့သည်: the uddāna ^5-918
+make_ch11-12	Cl(f"{BS}သည် {DKK}ကို", "ကျင့်ခဲ့", "မကျင့်ခဲ့"))	Cl(f"{BS}သည် {DKK}ကို", "ပြုခဲ့", "မပြုခဲ့"))	L32 akāsi = ပြုခဲ့သည်: dukkarakāriyaṃ akāsi ^5-404
+make_ch11-12	ခြိုးခြံသော အကျင့်ကို ကျင့်ခဲ့၍	ပြင်းထန်သော အကျင့်ကို ပြုခဲ့၍	L32 akāsi = ပြုခဲ့သည်, tapaṃ = ပြင်းထန်သော အကျင့် (decisions akāsi|0, tapaṃ|0): ^5-404

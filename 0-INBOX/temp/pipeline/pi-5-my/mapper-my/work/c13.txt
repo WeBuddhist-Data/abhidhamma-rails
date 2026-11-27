@@ -1,0 +1,100 @@
+## 13-pancamavaggo 81 keywords, 125 uses
+P: Asekhañāṇakathā
+M: ##### (44) 2. ကျင့်ကြံမှု ပြီးဆုံးသူ၏ ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   sekha[1 5-13-2-1-0]=ကျင့်ကြံမှု
+P: Viparītakathā
+M: ##### (45) 3. ဖောက်ပြန်သော အရာအကြောင်း ဆွေးနွေးချက်
+   viparīta[1 5-13-3-1-0]=
+P: Anāgatañāṇakathā
+M: ##### (50) 8. အနာဂတ်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   Anāgatañāṇakathā[2]=
+P: Phalañāṇakathā
+M: ##### (52) 10. ဖိုလ်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   Phalañāṇakathā[2]=
+P: Vimuttiñāṇaṃ vimuttanti
+M: လွတ်မြောက်ခြင်းကို သိသော ဉာဏ်သည် လွတ်မြောက်ပြီးသော အရာ ဖြစ်သလော
+   Vimuttiñāṇaṃ[2]=
+P: Sotāpattiphalasamaṅgissa puggalassa vimuttiñāṇaṃ vimuttanti
+M: သောတာပတ္တိဖိုလ်ကို ရရှိထားသော ပုဂ္ဂိုလ်၏ လွတ်မြောက်ခြင်းကို သိသော ဉာဏ်သည် လွတ်မြောက်ပြီးသော အရာ ဖြစ်သလော
+   vimuttiñāṇaṃ[2]=; samaṅgissa[2]=; Sotāpattiphalasamaṅgissa[2]=
+P: Sekho asekhaṃ dhammaṃ jānāti passati, diṭṭhaṃ viditaṃ sacchikataṃ upasampajja viharati, kāyena phusitvā viharatīti
+M: ကျင့်ကြံဆဲသူသည် ကျင့်ကြံမှု ပြီးဆုံးသူ၏ သဘောတရားကို သိ၍ မြင်သည်၊ မြင်ပြီး၊ သိပြီး၊ မျက်မှောက်ပြုပြီးသော ထိုတရားကို ပြည့်စုံစေလျက် နေသည်၊ ကိုယ်ဖြင့် ထိ၍ နေသလော
+   upasampajja[2]=; viditaṃ[1 5-421]=
+P: Sekhassa asekhaṃ ñāṇaṃ atthīti
+M: ကျင့်ကြံဆဲသူ၌ ကျင့်ကြံမှု ပြီးဆုံးသူ၏ ဉာဏ် ရှိသလော
+   Sekhassa[2]=; sekhaṃ[4]=ကျင့်ကြံဆဲသူ¦ကျင့်ကြံမှု
+P: nanu sekho asekhaṃ dhammaṃ na jānāti na passati, adiṭṭhaṃ aviditaṃ asacchikataṃ na upasampajja viharati, na kāyena phusitvā vihara
+M: ကျင့်ကြံဆဲသူသည် ကျင့်ကြံမှု ပြီးဆုံးသူ၏ သဘောတရားကို မသိ၊ မမြင်၊ မမြင်ရသေး၊ မသိရသေး၊ မျက်မှောက် မပြုရသေးသော ထိုတရားကို ပြည့်စုံစေလျက် မနေ၊ ကိုယ်ဖြင့် ထိ၍ မနေ မဟုတ်လော
+   aviditaṃ[2]=; adiṭṭhaṃ[2]=
+P: "sekhassa asekhaṃ ñāṇaṃ atthī"ti
+M: “ကျင့်ကြံဆဲသူ၌ ကျင့်ကြံမှု ပြီးဆုံးသူ၏ ဉာဏ် ရှိသည်”
+   sekhassa[2]=
+P: Pathavīkasiṇaṃ samāpattiṃ samāpannassa viparīte ñāṇanti
+M: မြေ ကသိုဏ်း သမာပတ်ကို ဝင်စားနေသူ၏ ဉာဏ်သည် ဖောက်ပြန်သော ဉာဏ် ဖြစ်သလော
+   viparīte[5]=
+P: Anicce niccanti vipariyesoti
+M: မမြဲသော အရာ၌ မြဲသည်ဟု ဖောက်ပြန်ခြင်း ဖြစ်သလော
+   vipariyeso[3]=
+P: pathavīkasiṇaṃ samāpattiṃ samāpannassa viparīte ñāṇanti
+M: မြေ ကသိုဏ်း သမာပတ်ကို ဝင်စားနေသူ၏ ဉာဏ်သည် ဖောက်ပြန်သော ဉာဏ် ဖြစ်သည်
+   viparītaṃ[1 5-427]=
+P: Aniyatassa niyāmagamanāya atthi ñāṇanti
+M: မကျိန်းသေသူ၌ သေချာသော လမ်းကြောင်းသို့ ရောက်ခြင်းအတွက် ဉာဏ် ရှိသလော
+   gamanāya[5]=
+P: "ayaṃ puggalo sammattaniyāmaṃ okkamissati, bhabbo ayaṃ puggalo dhammaṃ abhisametu"nti
+M: “ဤပုဂ္ဂိုလ်သည် မှန်ကန်မှု၌ သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းလိမ့်မည်၊ ဤပုဂ္ဂိုလ်သည် တရားကို ထိုးထွင်း သိနိုင်သူ ဖြစ်သည်”ဟု
+   abhisametuṃ[1 5-431]=; bhabbo[1 5-431]=; okkamissati[1 5-431]=
+P: Nanu bhagavā jānāti 
+M: မြတ်စွာဘုရားသည် သိတော်မူသည် မဟုတ်လော 
+   jānāti[1 5-431]=
+P: Ye keci sammutiṃ jānanti, sabbe te paṭisambhidāpattāti
+M: သမုတ်ကို သိကြသူ မှန်သမျှ ထိုသူ အားလုံးတို့သည် ပိုင်းခြားသိသော ဉာဏ်သို့ ရောက်ပြီးသူတို့ ဖြစ်သလော
+   paṭisambhidāpattā[1 5-432]=
+P: Sammutiñāṇaṃ paṭisambhidāti
+M: သမုတ်ကို သိသော ဉာဏ်သည် ပိုင်းခြားသိသော ဉာဏ် ဖြစ်သလော
+   Sammutiñāṇaṃ[2]=
+P: Cetopariyāye ñāṇaṃ paṭisambhidāti
+M: ဉာဏ် အားလုံးသည် ပိုင်းခြားသိသော ဉာဏ် ဖြစ်သလော
+   Cetopariyāye[2]=
+P: dānaṃ dadantassa
+M: အလှူကို ပေးနေသူ၌
+   dadantassa[2]=
+P: "sammutiñāṇaṃ saccārammaṇaññeva na aññārammaṇa"nti
+M: “သမုတ်ကို သိသော ဉာဏ်သည် သစ္စာကိုသာ အာရုံပြု၏၊ အခြားကို အာရုံ မပြု”
+   sammutiñāṇaṃ[2]=
+P: Nanu pathavīkasiṇaṃ samāpattiṃ samāpannassa atthi ñāṇaṃ, pathavīkasiṇañca sammutisaccamhīti
+M: မြေ ကသိုဏ်း သမာပတ်ကို ဝင်စားနေသူ၌ ဉာဏ် ရှိသည်၊ မြေ ကသိုဏ်းသည်လည်း သမုတ် သစ္စာ၌ ပါဝင်သည် မဟုတ်လော
+   sammutisaccamhi[1 5-434]=သမုတ် သစ္စာ
+P: "cetopariyāye ñāṇa"nti
+M: “စိတ်ကို ပိုင်းခြား၍ သိသော ဉာဏ်”ဟု
+   cetopariyāye[3]=
+P: Anāgataṃ hetupaccayataṃ jānāti, ārammaṇapaccayataṃ jānāti, adhipatipaccayataṃ jānāti, anantarapaccayataṃ jānāti, samanantarapaccay
+M: အနာဂတ်၏ အမြစ် အကြောင်း ဖြစ်ခြင်းကို သိသည်၊ အာရုံ အကြောင်း ဖြစ်ခြင်းကို သိသည်၊ အကြီးအမှူး အကြောင်း ဖြစ်ခြင်းကို သိသည်၊ ကြားမလပ် အကြောင်း ဖြစ်ခြင်းကို သိသည်၊ ကောင်းစွာ ကြားမလပ် အကြောင်း ဖြစ်ခြင်းကို 
+   samanantara[1 5-439]=; ārammaṇapaccayataṃ[1 5-439]=; adhipatipaccayataṃ[1 5-439]=; anantara[1 5-439]=; anantarapaccayataṃ[1 5-439]=; hetupaccayataṃ[1 5-439]=
+P: Anāgataṃ mūlato jānāti, hetuto jānāti, nidānato jānāti, sambhavato jānāti, pabhavato jānāti, samuṭṭhānato jānāti, āhārato jānāti, 
+M: အနာဂတ်ကို မူလအားဖြင့် သိသည်၊ အမြစ်အားဖြင့် သိသည်၊ အစအားဖြင့် သိသည်၊ ဖြစ်ပေါ်ရာအားဖြင့် သိသည်၊ ပေါ်ပေါက်ရာအားဖြင့် သိသည်၊ ထကြွရာအားဖြင့် သိသည်၊ အာဟာရအားဖြင့် သိသည်၊ အာရုံအားဖြင့် သိသည်၊ အကြောင်းအားဖ
+   sambhavato[1 5-439]=; nidānato[1 5-439]=
+P: "pāṭaliputtassa kho, ānanda, tayo antarāyā bhavissanti 
+M: “အာနန္ဒာ၊ ပါဋလိပုတ်မြို့အား အန္တရာယ် သုံးပါး ဖြစ်လိမ့်မည် 
+   bhavissanti[1 5-440]=; antarāyā[1 5-440]=
+P: aggito vā udakato vā mithubhedā vā"ti
+M: မီးကြောင့်ဖြစ်စေ၊ ရေကြောင့်ဖြစ်စေ၊ အချင်းချင်း ကွဲပြားခြင်းကြောင့်ဖြစ်စေ”
+   mithubhedā[1 5-440]=; mithu[1 5-440]=
+P: Tena phassena taṃ phassaṃ phusati, tāya vedanāya taṃ vedanaṃ vedeti, tāya saññāya taṃ saññaṃ sañjānāti, tāya cetanāya taṃ cetanaṃ 
+M: ထိုတွေ့ထိမှုဖြင့် ထိုတွေ့ထိမှုကို တွေ့ထိသည်၊ ထိုခံစားမှုဖြင့် ထိုခံစားမှုကို ခံစားသည်၊ ထိုမှတ်သိမှုဖြင့် ထိုမှတ်သိမှုကို မှတ်သိသည်၊ ထိုစေ့ဆော်မှုဖြင့် ထိုစေ့ဆော်မှုကို စေ့ဆော်သည်၊ ထိုစိတ်ဖြင့် ထိုစ
+   vāsiṃ[1 5-441]=; pharasuṃ[1 5-441]=; piyāyati[1 5-441]=; gūthaṃ[1 5-441]=; vedeti[1 5-441]=; aṅgulaggaṃ[1 5-441]=လက်ချောင်းဖျား; kudhāriṃ[1 5-441]=; tacchati[1 5-441]=; ceteti[1 5-441]=စေ့ဆော်မှု¦စ
+P: Paṭuppannañāṇakathā niṭṭhitā
+M: “ပစ္စုပ္ပန်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်” ပြီးဆုံးပြီ
+   Paṭuppannañāṇakathā[1 5-442]=
+P: Sāvako phalassa kataṃ paññāpetīti
+M: တပည့်သည် ဖိုလ်၏ ပြုလုပ်ချက်ကို သတ်မှတ်ဖော်ပြသလော
+   kataṃ[1 5-443]=; paññāpeti[1 5-443]=
+P: Sāvako anuppannassa maggassa uppādetā asañjātassa maggassa sañjanetā anakkhātassa maggassa akkhātā maggaññū maggavidū maggakovidot
+M: တပည့်သည် မဖြစ်ပေါ်သေးသော မဂ်ကို ဖြစ်ပေါ်စေသူ၊ မပေါ်ပေါက်သေးသော မဂ်ကို ပေါ်ပေါက်စေသူ၊ မဟောကြားရသေးသော မဂ်ကို ဟောကြားသူ၊ မဂ်ကို သိသူ၊ မဂ်ကို နားလည်သူ၊ မဂ်၌ ကျွမ်းကျင်သူ ဖြစ်သလော
+   akkhātā[1 5-443]=
+P: Sattupaladdhiṃ, upaharato, balaṃ, gihissa arahā ca, vimuttipañcamanti
+M: သတ္တဝါကို တွေ့ရခြင်း၊ သူတစ်ပါးက ဆောင်ယူပေးခြင်း၊ စွမ်းအား၊ လူဝတ်ကြောင် ရဟန္တာ၊ ပဉ္စမ လွတ်မြောက်ခြင်း
+   upaharato[1 5-444]=; upaladdhiṃ[1 5-444]=
+P: Mahāpaṇṇāsako
+M: ကြီးမားသော ငါးဆယ်အစု
+   paṇṇāsako[1 5-444]=

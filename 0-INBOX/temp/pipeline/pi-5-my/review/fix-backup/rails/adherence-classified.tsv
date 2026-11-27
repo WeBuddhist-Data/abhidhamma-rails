@@ -1,0 +1,931 @@
+id	keyword	termbase term	text form	class	reason	ch	src
+5-0	kathā	ဆွေးနွေးချက်	အငြင်းပွားရာ အကြောင်းအရာများကို ဆွေးနွေးခြင်း	ARTEFACT	the approved BOOK TITLE «အငြင်းပွားရာ အကြောင်းအရာများကို ဆွေးနွေးခြင်း» (book-title rule)	preamble	zeroshot
+5-1	vādī	ဆိုတော်မူသော | တစ်ဖက်သား	မိမိဘက်	ARTEFACT	sakavādī «မိမိဘက်» (own approved entry) / musāvādī «… ပြောသော» (decision vādī|0: the honorific term is only for the Buddha)	1	zeroshot
+5-1	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-1-20-0	Paṭivedhānuyogo	ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း	ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း	GENUINE	L25: zero-shot «ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း»	1	zeroshot
+5-1-20-0	paṭivedha	ထိုးဖောက်၍ သိခြင်း	ထိုးထွင်း သိမြင်ခြင်း	GENUINE	L25: zero-shot «ထိုးထွင်း သိမြင်ခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်း»	1	zeroshot
+5-2	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-3	niggahetabbe	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-3	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-4	niggahetabbā	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-5	niggahetabbe	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-5	Tena hi	သို့ဖြစ်လျှင်	သို့ဖြစ်၍	ARTEFACT	the approved frame (decision Tena hi|0: «သို့ဖြစ်၍» only in the frame «Na hevaṃ niggahetabbe. Tena hi …»; tena inside Tena hi has the phrase entry «သို့ဖြစ်လျှင်»)	1	zeroshot
+5-5	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-6	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-7	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-8	niggahetabbe	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-8	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-9	niggahetabbā	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-10	niggahetabbe	ချေပရမည့်	ချေပရ	ARTEFACT	the approved frame sentence «hevaṃ niggahetabbe» «… ချေပရ…» (decision niggahetabbe|0: «the frame sentences keep the approved sample wording»)	1	zeroshot
+5-10	Tena hi	သို့ဖြစ်လျှင်	သို့ဖြစ်၍	ARTEFACT	the approved frame (decision Tena hi|0: «သို့ဖြစ်၍» only in the frame «Na hevaṃ niggahetabbe. Tena hi …»; tena inside Tena hi has the phrase entry «သို့ဖြစ်လျှင်»)	1	zeroshot
+5-10	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-10-2-1-0	ñāṇa	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-10-8-1-0	ṭhiti	တည်တံ့ခြင်း	စိတ်၏ တည်ခြင်း	ARTEFACT	cittaṭṭhiti has its own entry «စိတ်၏ တည်ခြင်း» (decision ṭhiti|0 note)	10	zeroshot
+5-11	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-12	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-12-6-1-0	buddho	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+5-13	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-14	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-15	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-16	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-17	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-18	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-20-10-1-0	sattama	သတ္တမ	ခုနစ်ကြိမ်မြောက် ဘဝ၌	ARTEFACT	sattamabhavika has its own locked entry «ခုနစ်ကြိမ်မြောက် ဘဝ၌ ရှိသော» (coordinator 2026-11-22: the ordinal «သတ္တမ» is for the vagga headings only)	20	zeroshot
+5-21	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-21-3-1-0	anantarā	ချက်ချင်း နောက်	ချက်ချင်း အကျိုးပေးသော	ARTEFACT	anantarāpayutto has its own phrase entry Anantarāpayutto puggalo «ချက်ချင်း အကျိုးပေးသော ကံကို ပြုခဲ့သော ပုဂ္ဂိုလ်» (the deed of immediate result, not «right after»)	21	zeroshot
+5-21-8-1-0	rāga	ရာဂ	တပ်မက်မှု	GENUINE	L34: zero-shot «တပ်မက်မှု» → termbase «ရာဂ»	21	zeroshot
+5-22	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-22	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-22-5-1-0	Añño	တခြားစီ	တခြား	GENUINE	R305: zero-shot «တခြား» → termbase «တခြားစီ»	22	zeroshot
+5-23	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-23	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-23-7-1-0	Saññāvedayitakathā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-23-8-1-0	Dutiyasaññāvedayitakathā	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-23-9-1-0	Tatiyasaññāvedayitakathā	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-23-10-1-0	satta	သတ္တဝါ	အသညသတ်	ARTEFACT	the realm name asaññasatta «အသညသတ်» (proper names stay names; decision satta|0)	23	zeroshot
+5-24	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-24-3-1-0	Sukhānuppadānakathā	ချမ်းသာကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်	သုခကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်	GENUINE	L24: zero-shot «သုခကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်» → termbase «ချမ်းသာကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်»	24	zeroshot
+5-24-3-1-0	sukhānuppadāna	ချမ်းသာကို ပေးခြင်း	သုခကို ပေးခြင်း	GENUINE	L24: zero-shot «သုခကို ပေးခြင်း» → termbase «ချမ်းသာကို ပေးခြင်း»	24	zeroshot
+5-24-3-1-0	sukha	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	L07/L11/L16: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	24	zeroshot
+5-24-10-1-0	Rūpārūpadhātupariyāpannakathā	သိမ်မွေ့သော ရုပ်ဘုံ … ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်	သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်	GENUINE	L26: zero-shot «သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်» → termbase «သိမ်မွေ့သော ရုပ်ဘုံ … ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်»	24	zeroshot
+5-24-10-1-0	arūpadhātu	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဓာတ်	GENUINE	L26: zero-shot «ရုပ်မရှိသော ဓာတ်» → termbase «ရုပ်မရှိသော ဘုံ»	24	zeroshot
+5-24-10-1-0	rūpārūpadhātu	သိမ်မွေ့သော ရုပ်ဘုံ … ရုပ်မရှိသော ဘုံ	သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်	GENUINE	L26: zero-shot «သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်» → termbase «သိမ်မွေ့သော ရုပ်ဘုံ … ရုပ်မရှိသော ဘုံ»	24	zeroshot
+5-25-9-1-0	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: mahapphalaṃ «အကျိုး ကြီးမားသော» (own entry), not phalaṃ «အသီးအပွင့်»	25	zeroshot
+5-25-10-1-0	buddhassa	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	25	zeroshot
+5-25-10-1-0	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: mahapphalaṃ «အကျိုး ကြီးမားသော» (own entry), not phalaṃ «အသီးအပွင့်»	25	zeroshot
+5-27	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-27	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-28	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-29	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-29-5-1-0	buddha	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-30-3-1-0	āneñja	မတုန်လှုပ်ခြင်း | အာနေဉ္ဇသပ္ပာယ	မတုန်မလှုပ်သော	GENUINE	L29: zero-shot «မတုန်မလှုပ်သော» → termbase «မတုန်လှုပ်ခြင်း | အာနေဉ္ဇသပ္ပာယ»	30	zeroshot
+5-31-1-0	adhippāya	အလိုအတိုင်း	တူညီသော ရည်ရွယ်ချက်	ARTEFACT	ekādhippāya has its own entry «တူညီသော ရည်ရွယ်ချက်» (the heading Ekādhippāyakathā); adhippāya «အလိုအတိုင်း» is the wish of adhippāya-iddhi	31	zeroshot
+5-31-3-1-0	Issariyakāmakārikādikathā	အစိုးရခြင်းဖြင့် အလိုရှိတိုင်း ပြုခြင်း စသည်တို့အကြောင်း ဆွေးနွေးချက်	မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်း စသည်တို့အကြောင်း ဆွေးနွေးချက်	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်း စသည်တို့အကြောင်း ဆွေးနွေးချက်» → termbase «အစိုးရခြင်းဖြင့် အလိုရှိတိုင်း ပြုခြင်း စသည်တို့အကြောင်း ဆွေးနွေးချက်»	31	zeroshot
+5-31-3-1-0	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-31-5-1-0	nipphanna	ဖြစ်ပေါ်ပြီးသော	ပြည့်စုံစွာ မဖြစ်ပေါ်	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	31	zeroshot
+5-31-5-1-0	parinipphanna	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ပြည့်စုံစွာ မဖြစ်ပေါ်	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	31	zeroshot
+5-33	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-36	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-37	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-37	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-45	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-45	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-46	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-47	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-48	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-49	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-50	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-50	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-51	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-51	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-52	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-52	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-54	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-65	jāto	ပေါ်ပေါက်သော	မွေးဖွားလာသော	GENUINE	R335: zero-shot «မွေးဖွားလာသော» → termbase «ပေါ်ပေါက်သော»	1	zeroshot
+5-66	jāto	ပေါ်ပေါက်သော	မွေးဖွားလာသော	GENUINE	R337: zero-shot «မွေးဖွားလာသော» → termbase «ပေါ်ပေါက်သော»	1	zeroshot
+5-67	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-68	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-68	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-75	taṇhā	တပ်မက်မှု	တဏှာ	GENUINE	R004: zero-shot «တဏှာ» → termbase «တပ်မက်မှု»	1	zeroshot
+5-78	añño	တခြားစီ	တခြား	GENUINE	R201/R202: zero-shot «တခြား» → termbase «တခြားစီ»	1	zeroshot
+5-78	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-80	añño	တခြားစီ	တခြား	GENUINE	R201/R202: zero-shot «တခြား» → termbase «တခြားစီ»	1	zeroshot
+5-80	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-87	manussalokā	လူ့ပြည်	လူ့လောက	GENUINE	L32: zero-shot «လူ့လောက» → termbase «လူ့ပြည်»	1	zeroshot
+5-88	manussalokā	လူ့ပြည်	လူ့လောက	GENUINE	L32: zero-shot «လူ့လောက» → termbase «လူ့ပြည်»	1	zeroshot
+5-89	añño	တခြားစီ	အခြား	GENUINE	R203: zero-shot «အခြား» → termbase «တခြားစီ»	1	zeroshot
+5-90	añño	တခြားစီ	အခြား	GENUINE	R203: zero-shot «အခြား» → termbase «တခြားစီ»	1	zeroshot
+5-94	bhijjamānesu	ပျက်နေသော	ပြိုကွဲကြသော	GENUINE	R005/R006/R419: zero-shot «ပြိုကွဲကြသော» → termbase «ပျက်နေသော»	1	zeroshot
+5-94	bhijjati	ပျက်သည်	ပြိုကွဲသည်	GENUINE	R005/R006/R419: zero-shot «ပြိုကွဲသည်» → termbase «ပျက်သည်»	1	zeroshot
+5-94	samasamo	တန်းတူ ဖြစ်သော	အလွန် တူညီစွာ	GENUINE	R005/R006/R419: zero-shot «အလွန် တူညီစွာ» → termbase «တန်းတူ ဖြစ်သော»	1	zeroshot
+5-104	niruddhe	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	1	zeroshot
+5-105	niruddhāya	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	1	zeroshot
+5-106	niruddhāya	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	1	zeroshot
+5-116	uppanne	ဖြစ်ပေါ်ပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L36: zero-shot «ဖြစ်ပေါ်သော» → termbase «ဖြစ်ပေါ်ပြီးသော»	1	zeroshot
+5-116	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-117	uppanne	ဖြစ်ပေါ်ပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L36: zero-shot «ဖြစ်ပေါ်သော» → termbase «ဖြစ်ပေါ်ပြီးသော»	1	zeroshot
+5-117	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	1	zeroshot
+5-125	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-138	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-145	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-150	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-151	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-152	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-153	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-154	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-155	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-156	Mānusakaṃ	လူ့	လူ	GENUINE	L07: zero-shot «လူ» → termbase «လူ့»	1	zeroshot
+5-159	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-165	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-171	sayaṃ	ကိုယ်တိုင်	မိမိ	GENUINE	L16: zero-shot «မိမိ» → termbase «ကိုယ်တိုင်»	1	zeroshot
+5-175	sayaṃ	ကိုယ်တိုင်	မိမိ	GENUINE	L16: zero-shot «မိမိ» → termbase «ကိုယ်တိုင်»	1	zeroshot
+5-177	sayaṃ	ကိုယ်တိုင်	မိမိ	GENUINE	L16: zero-shot «မိမိ» → termbase «ကိုယ်တိုင်»	1	zeroshot
+5-179	sayaṃ	ကိုယ်တိုင်	မိမိ	GENUINE	L16: zero-shot «မိမိ» → termbase «ကိုယ်တိုင်»	1	zeroshot
+5-182	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-189	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	1	zeroshot
+5-194	para	သူတစ်ပါး | ကျော်	အခြားသူ	GENUINE	R301: zero-shot «အခြားသူ» → termbase «သူတစ်ပါး | ကျော်»	1	zeroshot
+5-195	Yo	အကြင်သူ	ဣ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	1	zeroshot
+5-196	para	သူတစ်ပါး | ကျော်	အခြားသူ	GENUINE	R302: zero-shot «အခြားသူ» → termbase «သူတစ်ပါး | ကျော်»	1	zeroshot
+5-196	Yo	အကြင်သူ	န	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	1	zeroshot
+5-205	Paṭivedhānuyogo	ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း	ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း	GENUINE	L25: zero-shot «ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်းခြင်း»	1	zeroshot
+5-205	paṭivedha	ထိုးဖောက်၍ သိခြင်း	ထိုးထွင်း သိမြင်ခြင်း	GENUINE	L25: zero-shot «ထိုးထွင်း သိမြင်ခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်း»	1	zeroshot
+5-206	yugā	အစုံ	အတွဲ	GENUINE	L32: zero-shot «အတွဲ» → termbase «အစုံ»	1	zeroshot
+5-206	purisayugā	လူ အစုံ	လူ အတွဲ	GENUINE	L32: zero-shot «လူ အတွဲ» → termbase «လူ အစုံ»	1	zeroshot
+5-207	pātubhavanti	ထင်ရှား ပေါ်လာသည်	ပေါ်ပေါက်သည်	GENUINE	R303/R304: zero-shot «ပေါ်ပေါက်သည်» → termbase «ထင်ရှား ပေါ်လာသည်»	1	zeroshot
+5-207	pātubhāvā	ထင်ရှား လာခြင်း	ပွင့်ပေါ်ခြင်း	GENUINE	R303/R304: zero-shot «ပွင့်ပေါ်ခြင်း» → termbase «ထင်ရှား လာခြင်း»	1	zeroshot
+5-207	yugā	အစုံ	အတွဲ	GENUINE	R303/R304: zero-shot «အတွဲ» → termbase «အစုံ»	1	zeroshot
+5-207	purisayugā	လူ အစုံ	လူ အတွဲ	GENUINE	R303/R304: zero-shot «လူ အတွဲ» → termbase «လူ အစုံ»	1	zeroshot
+5-214	uppādo	ဖြစ်ပေါ်ခြင်း	ဖြစ်ခြင်း	GENUINE	R204: zero-shot «ဖြစ်ခြင်း» → termbase «ဖြစ်ပေါ်ခြင်း»	1	zeroshot
+5-215	uppādo	ဖြစ်ပေါ်ခြင်း	ဖြစ်ခြင်း	GENUINE	R204: zero-shot «ဖြစ်ခြင်း» → termbase «ဖြစ်ပေါ်ခြင်း»	1	zeroshot
+5-217	tiṭṭhati	တည်နေသည်	တည်သည်	GENUINE	L19/L22: zero-shot «တည်သည်» → termbase «တည်နေသည်»	1	zeroshot
+5-220	Yo	အကြင်သူ	သ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	1	zeroshot
+5-224	Yo	အကြင်သူ	က	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	1	zeroshot
+5-229	hitāya	အကျိုးစီးပွား	အကျိုး	GENUINE	L01: zero-shot «အကျိုး» → termbase «အကျိုးစီးပွား»	1	zeroshot
+5-230	uppajjati	ဖြစ်ပေါ်သည်	ပေါ်ပေါက်လာသည်	GENUINE	R205: zero-shot «ပေါ်ပေါက်လာသည်» → termbase «ဖြစ်ပေါ်သည်»	1	zeroshot
+5-232	nirujjhamānaṃ	ချုပ်ငြိမ်းနေသော	ချုပ်ငြိမ်းသော	GENUINE	R420: zero-shot «ချုပ်ငြိမ်းသော» → termbase «ချုပ်ငြိမ်းနေသော»	1	zeroshot
+5-233	suddha	ရိုးရိုး	သက်သက်	GENUINE	R306: zero-shot «သက်သက်» → termbase «ရိုးရိုး»	1	zeroshot
+5-233	tiṭṭhati	တည်နေသည်	တည်သည်	GENUINE	R306: zero-shot «တည်သည်» → termbase «တည်နေသည်»	1	zeroshot
+5-234	tasmā	ထို့ကြောင့်	သောကြောင့်	GENUINE	R007: zero-shot «သောကြောင့်» → termbase «ထို့ကြောင့်»	1	zeroshot
+5-235	bāla	မိုက်မဲသော	လူမိုက်	GENUINE	R206: zero-shot «လူမိုက်» → termbase «မိုက်မဲသော»	1	zeroshot
+5-241	saṇṭhāti	တည်နေသည်	တည်သည်	GENUINE	L19/L22: zero-shot «တည်သည်» → termbase «တည်နေသည်»	2	zeroshot
+5-244	aṅga	အင်္ဂါ	ရ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	2	zeroshot
+5-245	aṅga	အင်္ဂါ	အ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	2	zeroshot
+5-246	aṅga	အင်္ဂါ	သ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	2	zeroshot
+5-261	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	L03/L08/L16: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	2	zeroshot
+5-261	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ကောင်းစွာ သိ၍	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	2	zeroshot
+5-262	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	L03/L08/L16: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	2	zeroshot
+5-262	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ကောင်းစွာ သိ၍	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	2	zeroshot
+5-266	Iṭṭhā	လိုလားဖွယ်ကောင်းသော	နှစ်သက်ဖွယ်	GENUINE	R008/R207: zero-shot «နှစ်သက်ဖွယ်» → termbase «လိုလားဖွယ်ကောင်းသော»	2	zeroshot
+5-266	katassa	ပြုခဲ့သော အရာ	ပြုပြီးသော အရာ	GENUINE	R008/R207: zero-shot «ပြုပြီးသော အရာ» → termbase «ပြုခဲ့သော အရာ»	2	zeroshot
+5-266	phassā	တွေ့ထိမှု	အတွေ့	GENUINE	R008/R207: zero-shot «အတွေ့» → termbase «တွေ့ထိမှု»	2	zeroshot
+5-266	aniṭṭhā	မလိုလားဖွယ်	မနှစ်သက်ဖွယ်	GENUINE	R008/R207: zero-shot «မနှစ်သက်ဖွယ်» → termbase «မလိုလားဖွယ်»	2	zeroshot
+5-269	bhabbā	ထိုက်တန်သော	သက်ဆင်းနိုင်သော	GENUINE	R009/R011/R401: zero-shot «သက်ဆင်းနိုင်သော» → termbase «ထိုက်တန်သော»	3	zeroshot
+5-269	niyāmaṃ	သေချာသော လမ်းကြောင်း	သေချာသော လမ်း	GENUINE	R009/R011/R401: zero-shot «သေချာသော လမ်း» → termbase «သေချာသော လမ်းကြောင်း»	3	zeroshot
+5-269	niyāmaṃ okkamituṃ	သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်	သေချာသော လမ်းသို့ သက်ဆင်းသည်	GENUINE	R009/R011/R401: zero-shot «သေချာသော လမ်းသို့ သက်ဆင်းသည်» → termbase «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်»	3	zeroshot
+5-269	abhabbā	မထိုက်တန်သော	မသက်ဆင်းနိုင်	GENUINE	R009/R011/R401: zero-shot «မသက်ဆင်းနိုင်» → termbase «မထိုက်တန်သော»	3	zeroshot
+5-269	bhedakā	သင်းခွဲသူ	ခွဲသူ	GENUINE	R009/R011/R401: zero-shot «ခွဲသူ» → termbase «သင်းခွဲသူ»	3	zeroshot
+5-270	uppajjanti	ဖြစ်ပေါ်သည်	ပေါ်ပေါက်သည်	GENUINE	R012/R013/R014: zero-shot «ပေါ်ပေါက်သည်» → termbase «ဖြစ်ပေါ်သည်»	3	zeroshot
+5-270	uppajjati	ဖြစ်ပေါ်သည်	ပေါ်ပေါက်သည်	GENUINE	R012/R013/R014: zero-shot «ပေါ်ပေါက်သည်» → termbase «ဖြစ်ပေါ်သည်»	3	zeroshot
+5-270	uppannaṃ	ဖြစ်ပေါ်ပြီးသော	ပေါ်ပေါက်ခဲ့သော	GENUINE	R012/R013/R014: zero-shot «ပေါ်ပေါက်ခဲ့သော» → termbase «ဖြစ်ပေါ်ပြီးသော»	3	zeroshot
+5-270	dhamma	သဘောတရား | တရား | အရာ	ဓမ္မစကြာ	ARTEFACT	the fixed name dhammacakka «ဓမ္မစကြာ» (own phrase entry, §A12)	3	zeroshot
+5-270	abhisambuddho	အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော	ဘုရား ဖြစ်တော်မူသော	GENUINE	R012/R013/R014: zero-shot «ဘုရား ဖြစ်တော်မူသော» → termbase «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော»	3	zeroshot
+5-270	pavattitaṃ	လည်စေတော်မူခဲ့သော	လည်စေတော်မူသော	GENUINE	R012/R013/R014: zero-shot «လည်စေတော်မူသော» → termbase «လည်စေတော်မူခဲ့သော»	3	zeroshot
+5-271	yattha	အကြင်	န	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	3	zeroshot
+5-271	viññātāresu	နားလည်သော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	3	zeroshot
+5-272	bhāvitena	ပွားများပြီးသော	ပွားများခဲ့သော	GENUINE	R015/R421: zero-shot «ပွားများခဲ့သော» → termbase «ပွားများပြီးသော»	3	zeroshot
+5-272	bhāvitena maggena	ပွားများပြီးသော မဂ်	ပွားများခဲ့သော မဂ်	GENUINE	R015/R421: zero-shot «ပွားများခဲ့သော မဂ်» → termbase «ပွားများပြီးသော မဂ်»	3	zeroshot
+5-272	paṭivedho	ထိုးဖောက်၍ သိခြင်း	ထိုးထွင်း သိမြင်ခြင်း	GENUINE	R015/R421: zero-shot «ထိုးထွင်း သိမြင်ခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်း»	3	zeroshot
+5-272	aṭṭhena	အနက်	အကြောင်း	GENUINE	R015/R421: zero-shot «အကြောင်း» → termbase «အနက်»	3	zeroshot
+5-272	pariññātaṃ	ပိုင်းခြား သိပြီးသော	ပိုင်းခြား သိခြင်း	INFLECTION	dukkhapariññātaṃ is a nominal compound «ဒုက္ခကို ပိုင်းခြား သိခြင်း» (the verbal noun of the termbase participle «ပိုင်းခြား သိပြီးသော»)	3	zeroshot
+5-273	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	L03/L08/L16: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	3	zeroshot
+5-273	pariññāta	ပိုင်းခြား သိပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	3	zeroshot
+5-273	paṭivedhāya	ထိုးဖောက်၍ သိရန်	ထိုးထွင်း သိမြင်ရန်	GENUINE	L08/L25: zero-shot «ထိုးထွင်း သိမြင်ရန်» → termbase «ထိုးဖောက်၍ သိရန်»	3	zeroshot
+5-273	paṭividdha	ထိုးဖောက်၍ သိပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	3	zeroshot
+5-273	sacchikata	မျက်မှောက်ပြုပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	3	zeroshot
+5-274	buddhe	ဘုရားရှင်	ဘုရား	GENUINE	L03/L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	3	zeroshot
+5-274	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03/L19: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	3	zeroshot
+5-274	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03/L19: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	3	zeroshot
+5-275	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	3	zeroshot
+5-275	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	3	zeroshot
+5-276	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	3	zeroshot
+5-276	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	3	zeroshot
+5-277	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	R016: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	3	zeroshot
+5-277	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	R016: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	3	zeroshot
+5-277	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	R016: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	3	zeroshot
+5-277	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ကောင်းစွာ သိ၍	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	3	zeroshot
+5-277	arahattasacchikiriyāya	ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်	ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်	GENUINE	R016: zero-shot «ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်» → termbase «ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်»	3	zeroshot
+5-278	abhabbo	မထိုက်တန်	မစွမ်းနိုင်	GENUINE	L13/L20/L27: zero-shot «မစွမ်းနိုင်» → termbase «မထိုက်တန်»	3	zeroshot
+5-278	virajaṃ	မြူမှုန် ကင်းသော	မြူ ကင်းသော	GENUINE	L13/L20/L27: zero-shot «မြူ ကင်းသော» → termbase «မြူမှုန် ကင်းသော»	3	zeroshot
+5-278	abhabba	မထိုက်တန်သော	မစွမ်းနိုင်	GENUINE	L13/L20/L27: zero-shot «မစွမ်းနိုင်» → termbase «မထိုက်တန်သော»	3	zeroshot
+5-278	saha	အတူ	တစ်ပြိုင်နက်	GENUINE	L13/L20/L27: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	3	zeroshot
+5-279	paṭivijjhanto	ထိုးဖောက်၍ သိလျက်	ထိုးထွင်း သိမြင်လျက်	GENUINE	L25: zero-shot «ထိုးထွင်း သိမြင်လျက်» → termbase «ထိုးဖောက်၍ သိလျက်»	4	zeroshot
+5-279	avasesaṃ	ကြွင်းကျန်သော	အကြွင်း	INFLECTION	the noun «(အ)ကြွင်း» (the remainder, in jīvitāvasesa / kappāvasesa / anavasesa «အကြွင်းမဲ့») of the attributive termbase «ကြွင်းကျန်သော»	4	zeroshot
+5-280	saṇṭhāti	တည်နေသည်	တည်သည်	GENUINE	L19/L20/L22: zero-shot «တည်သည်» → termbase «တည်နေသည်»	4	zeroshot
+5-281	parinibbuto	ပရိနိဗ္ဗာန် ပြုပြီးသော	ပရိနိဗ္ဗာန် ပြုတော်မူ	ARTEFACT	the Buddha's uses add the honorific «တော်မူ» (decision parinibbuto|0: ^5-281, ^5-802, ^5-896)	4	zeroshot
+5-281	khīṇā	ကုန်ခန်းပြီးသော	ကုန်သော	GENUINE	R018/R019: zero-shot «ကုန်သော» → termbase «ကုန်ခန်းပြီးသော»	4	zeroshot
+5-281	paṭivedhā	ထိုးဖောက်၍ သိခြင်း	ထိုးထွင်း သိမြင်ခြင်း	GENUINE	R018/R019: zero-shot «ထိုးထွင်း သိမြင်ခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်း»	4	zeroshot
+5-281	paṭividdhaṃ	ထိုးဖောက်၍ သိပြီးသော	ထိုးထွင်း သိမြင်ပြီးသော	GENUINE	R018/R019: zero-shot «ထိုးထွင်း သိမြင်ပြီးသော» → termbase «ထိုးဖောက်၍ သိပြီးသော»	4	zeroshot
+5-281	puna	တစ်ဖန်	အ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	4	zeroshot
+5-281	akkhāsi	ဟောကြားတော်မူခဲ့သည်	ဟောကြားတော်မူသည်	GENUINE	R018/R019: zero-shot «ဟောကြားတော်မူသည်» → termbase «ဟောကြားတော်မူခဲ့သည်»	4	zeroshot
+5-281	anuttarā	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	R018/R019: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	4	zeroshot
+5-281	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	R018/R019: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	4	zeroshot
+5-282	katvā	ပြု၍ | အကြောင်းပြု၍	မှတ်ယူ၍	GENUINE	R402: zero-shot «မှတ်ယူ၍» → termbase «ပြု၍ | အကြောင်းပြု၍»	5	zeroshot
+5-283	sañjātaṃ	ကောင်းစွာ မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L05: zero-shot «ဖြစ်ပေါ်သော» → termbase «ကောင်းစွာ မွေးဖွားပြီးသော»	5	zeroshot
+5-283	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L05: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	5	zeroshot
+5-283	abbhatthaṅgataṃ	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပြီးသော	GENUINE	L05: zero-shot «လုံးဝ ကွယ်ပြီးသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	5	zeroshot
+5-283	abhinibbattaṃ	ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော	ထင်ရှားစွာ ဖြစ်မြောက်သော	GENUINE	L05: zero-shot «ထင်ရှားစွာ ဖြစ်မြောက်သော» → termbase «ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော»	5	zeroshot
+5-283	vigataṃ	ကင်းပျောက်ပြီးသော	ကင်းကွာပြီးသော	GENUINE	L05: zero-shot «ကင်းကွာပြီးသော» → termbase «ကင်းပျောက်ပြီးသော»	5	zeroshot
+5-283	pātubhūtaṃ	ထင်ရှားလာပြီးသော	ထင်ရှား ပေါ်ပေါက်သော	GENUINE	L05: zero-shot «ထင်ရှား ပေါ်ပေါက်သော» → termbase «ထင်ရှားလာပြီးသော»	5	zeroshot
+5-283	nibbattaṃ	ပေါ်ထွက်ပြီးသော	ဖြစ်မြောက်သော	GENUINE	L05: zero-shot «ဖြစ်မြောက်သော» → termbase «ပေါ်ထွက်ပြီးသော»	5	zeroshot
+5-283	ajātaṃ	မမွေးဖွားသေးသော	မဖြစ်သေးသော	GENUINE	L05: zero-shot «မဖြစ်သေးသော» → termbase «မမွေးဖွားသေးသော»	5	zeroshot
+5-283	atthaṅgataṃ	ကွယ်ပျောက်ပြီးသော	ကွယ်ပြီးသော	GENUINE	L05: zero-shot «ကွယ်ပြီးသော» → termbase «ကွယ်ပျောက်ပြီးသော»	5	zeroshot
+5-284	sañjātaṃ	ကောင်းစွာ မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L05: zero-shot «ဖြစ်ပေါ်သော» → termbase «ကောင်းစွာ မွေးဖွားပြီးသော»	5	zeroshot
+5-284	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	L05: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	5	zeroshot
+5-284	abbhatthaṅgataṃ	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပြီးသော	GENUINE	L05: zero-shot «လုံးဝ ကွယ်ပြီးသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	5	zeroshot
+5-284	abhinibbattaṃ	ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော	ထင်ရှားစွာ ဖြစ်မြောက်သော	GENUINE	L05: zero-shot «ထင်ရှားစွာ ဖြစ်မြောက်သော» → termbase «ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော»	5	zeroshot
+5-284	vigataṃ	ကင်းပျောက်ပြီးသော	ကင်းကွာပြီးသော	GENUINE	L05: zero-shot «ကင်းကွာပြီးသော» → termbase «ကင်းပျောက်ပြီးသော»	5	zeroshot
+5-284	pātubhūtaṃ	ထင်ရှားလာပြီးသော	ထင်ရှား ပေါ်ပေါက်သော	GENUINE	L05: zero-shot «ထင်ရှား ပေါ်ပေါက်သော» → termbase «ထင်ရှားလာပြီးသော»	5	zeroshot
+5-284	rūpaṃ jātaṃ	ရုပ် … မွေးဖွားပြီးသော	ရုပ် … ဖြစ်ပေါ်သော	GENUINE	layer: zero-shot «ရုပ် … ဖြစ်ပေါ်သော» → termbase «ရုပ် … မွေးဖွားပြီးသော»	5	zeroshot
+5-284	nibbattaṃ	ပေါ်ထွက်ပြီးသော	ဖြစ်မြောက်သော	GENUINE	L05: zero-shot «ဖြစ်မြောက်သော» → termbase «ပေါ်ထွက်ပြီးသော»	5	zeroshot
+5-284	ajātaṃ	မမွေးဖွားသေးသော	မဖြစ်သေးသော	GENUINE	L05: zero-shot «မဖြစ်သေးသော» → termbase «မမွေးဖွားသေးသော»	5	zeroshot
+5-284	atthaṅgataṃ	ကွယ်ပျောက်ပြီးသော	ကွယ်ပြီးသော	GENUINE	L05: zero-shot «ကွယ်ပြီးသော» → termbase «ကွယ်ပျောက်ပြီးသော»	5	zeroshot
+5-288	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	5	zeroshot
+5-293	ādāna	ကိုင်ခြင်း	ယူခြင်း	GENUINE	R020: zero-shot «ယူခြင်း» → termbase «ကိုင်ခြင်း»	5	zeroshot
+5-294	sambuddhānaṃ sammukhībhāvo	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင် … မျက်နှာချင်း ဆိုင်ခြင်း	အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင် … မျက်မှောက် ဆုံဆည်းခြင်း	GENUINE	R021: zero-shot «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင် … မျက်မှောက် ဆုံဆည်းခြင်း» → termbase «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင် … မျက်နှာချင်း ဆိုင်ခြင်း»	5	zeroshot
+5-294	sammukhībhāvo	မျက်နှာချင်း ဆိုင်ခြင်း	မျက်မှောက် ဆုံဆည်းခြင်း	GENUINE	R021: zero-shot «မျက်မှောက် ဆုံဆည်းခြင်း» → termbase «မျက်နှာချင်း ဆိုင်ခြင်း»	5	zeroshot
+5-295	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	5	zeroshot
+5-296	parinibbute	ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော	ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီးသော	GENUINE	R022/R023/R208: zero-shot «ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီးသော» → termbase «ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော»	5	zeroshot
+5-296	jātaṃ	မွေးဖွားပြီးသော	ဖြစ်ပေါ်သော	GENUINE	R022/R023/R208: zero-shot «ဖြစ်ပေါ်သော» → termbase «မွေးဖွားပြီးသော»	5	zeroshot
+5-296	vaṭṭe	သံသရာ စက်ဝန်း	ဝဋ်	GENUINE	R022/R023/R208: zero-shot «ဝဋ်» → termbase «သံသရာ စက်ဝန်း»	5	zeroshot
+5-296	nandī	နှစ်သက်မှု	ပျော်မွေ့မှု	GENUINE	R022/R023/R208: zero-shot «ပျော်မွေ့မှု» → termbase «နှစ်သက်မှု»	5	zeroshot
+5-296	vigataṃ	ကင်းပျောက်ပြီးသော	ကင်းကွာပြီးသော	GENUINE	R022/R023/R208: zero-shot «ကင်းကွာပြီးသော» → termbase «ကင်းပျောက်ပြီးသော»	5	zeroshot
+5-296	pātubhūtaṃ	ထင်ရှားလာပြီးသော	ထင်ရှား ပေါ်ပေါက်သော	GENUINE	R022/R023/R208: zero-shot «ထင်ရှား ပေါ်ပေါက်သော» → termbase «ထင်ရှားလာပြီးသော»	5	zeroshot
+5-296	saṅkiṇṇa	ဖို့ပြီးသော | ရောယှက်သော	ရောနှောခြင်း	GENUINE	R022/R023/R208: zero-shot «ရောနှောခြင်း» → termbase «ဖို့ပြီးသော | ရောယှက်သော»	5	zeroshot
+5-296	asaṅkiṇṇapubbā	ရှေး … မရောယှက်ခဲ့သော	ရှေး … ရောနှောခြင်း မရှိခဲ့သော	GENUINE	R022/R023/R208: zero-shot «ရှေး … ရောနှောခြင်း မရှိခဲ့သော» → termbase «ရှေး … မရောယှက်ခဲ့သော»	5	zeroshot
+5-296	puna	တစ်ဖန်	ဤ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	5	zeroshot
+5-296	ajātaṃ	မမွေးဖွားသေးသော	မဖြစ်သေးသော	GENUINE	R022/R023/R208: zero-shot «မဖြစ်သေးသော» → termbase «မမွေးဖွားသေးသော»	5	zeroshot
+5-296	asaṅkiṇṇā	မရောယှက်သော	ရောနှောခြင်း မရှိသော	GENUINE	R022/R023/R208: zero-shot «ရောနှောခြင်း မရှိသော» → termbase «မရောယှက်သော»	5	zeroshot
+5-301	buddha	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	8	zeroshot
+5-303	aṅga	အင်္ဂါ	သ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	8	zeroshot
+5-308	paccayatā	အကြောင်းဖြစ်ခြင်း	ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ	ARTEFACT	idappaccayatā has its own entry «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» (decision paccayatā|0)	10	zeroshot
+5-310	uppādeyya	ထွက်စေသည်	ဖြစ်စေ	ARTEFACT	approved rails-step note: methunaṃ uppādeyya «… ဖြစ်စေ» (bring about) by context	10	zeroshot
+5-311	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	L03/L08/L16: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	10	zeroshot
+5-311	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ကောင်းစွာ သိ၍	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	10	zeroshot
+5-313	arahattaṃ	ရဟန္တာ အဖြစ်	ရဟန္တာ ဖိုလ်	GENUINE	R024/R309: zero-shot «ရဟန္တာ ဖိုလ်» → termbase «ရဟန္တာ အဖြစ်»	10	zeroshot
+5-313	Aṭṭhānaṃ	မဖြစ်နိုင်သော အကြောင်း	အကြောင်း မဟုတ်	GENUINE	R024/R309: zero-shot «အကြောင်း မဟုတ်» → termbase «မဖြစ်နိုင်သော အကြောင်း»	10	zeroshot
+5-313	janā	လူ	ရ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-314	pāṇaṃ	သတ္တဝါ	သူ့အသက်	GENUINE	R025/R026: zero-shot «သူ့အသက်» → termbase «သတ္တဝါ»	10	zeroshot
+5-314	chindeyya	ဖောက်ထွင်းသည်	ဖောက်သည်	GENUINE	R025/R026: zero-shot «ဖောက်သည်» → termbase «ဖောက်ထွင်းသည်»	10	zeroshot
+5-314	paccayatā	အကြောင်းဖြစ်ခြင်း	ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ	ARTEFACT	idappaccayatā has its own entry «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» (decision paccayatā|0)	10	zeroshot
+5-314	pāṇaṃ haneyya	သတ္တဝါကို သတ်သည်	သူ့အသက်ကို သတ်သည်	GENUINE	R025/R026: zero-shot «သူ့အသက်ကို သတ်သည်» → termbase «သတ္တဝါကို သတ်သည်»	10	zeroshot
+5-314	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-315	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-316	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-317	arahattaṃ	ရဟန္တာ အဖြစ်	ရဟန္တာ ဖိုလ်	GENUINE	R310: zero-shot «ရဟန္တာ ဖိုလ်» → termbase «ရဟန္တာ အဖြစ်»	10	zeroshot
+5-317	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-317	ñāṇa niṭṭhitā	ဉာဏ် … ပြီးဆုံးသော	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-317	nirodhadhammaṃ	ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော	ချုပ်ငြိမ်းခြင်း သဘော ရှိသော	GENUINE	R310: zero-shot «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» → termbase «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော»	10	zeroshot
+5-317	Saha	အတူ	တစ်ပြိုင်နက်	GENUINE	R310: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	10	zeroshot
+5-318	paccayatā	အကြောင်းဖြစ်ခြင်း	ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ	ARTEFACT	idappaccayatā has its own entry «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» (decision paccayatā|0)	10	zeroshot
+5-321	arahatte	ရဟန္တာ အဖြစ်	ရဟန္တာ ဖိုလ်	GENUINE	R027/R029: zero-shot «ရဟန္တာ ဖိုလ်» → termbase «ရဟန္တာ အဖြစ်»	10	zeroshot
+5-321	brahma	မြင့်မြတ်သော	မြတ်သော	GENUINE	R027/R029: zero-shot «မြတ်သော» → termbase «မြင့်မြတ်သော»	10	zeroshot
+5-321	brahmacariyaṃ	မြင့်မြတ်သော အကျင့်	မြတ်သော အကျင့်	GENUINE	R027/R029: zero-shot «မြတ်သော အကျင့်» → termbase «မြင့်မြတ်သော အကျင့်»	10	zeroshot
+5-321	tiṭṭhati	တည်နေသည်	တည်သည်	GENUINE	R027/R029: zero-shot «တည်သည်» → termbase «တည်နေသည်»	10	zeroshot
+5-321	nirodhadhammaṃ	ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော	ချုပ်ငြိမ်းခြင်း သဘော ရှိသော	GENUINE	R027/R029: zero-shot «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» → termbase «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော»	10	zeroshot
+5-321	saha	အတူ	တစ်ပြိုင်နက်	GENUINE	R027/R029: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	10	zeroshot
+5-321	kiñci	တစ်စုံတစ်ရာ	မည်သည့် အရာမဆို အားလုံးသည် ချုပ်ငြိမ်းတတ်သော သဘော ရှိ၏’ဟု၊ ရဟန်းတို့၊ မြင်ခြင်း ဖြစ်ပေါ်သည်နှင့် အတူ အရိယာ တပည့်၏ နှောင်ကြိုး သုံးပါးတို့ကို ပယ်ရ၏ – ကိုယ်ကို အတ္တဟု ယူဆသော အယူ၊ ယုံမှားမှု၊ သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု”။ ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော။ ဟုတ်ပါသည်။ သို့ဖြစ်လျှင် ဤသို့ မဆိုသင့် – “ရဟန္တာ၌ သံသယ ရှိသည်”။ ရဟန္တာ၌ သံသယ ရှိသလော။ ဟုတ်ပါသည်။ မြတ်စွာဘုရား ဤသို့ ဟောတော်မူသည် မဟုတ်လော – “အကြင်အခါ၌ သဘောတရားတို့သည် ဧကန်မုချ ထင်ရှား ပေါ်လာကြ၏၊ အားထုတ်သော၊ ဈာန် ဝင်စားသော ပုဏ္ဏားအား၊ ထိုအခါ ထိုပုဏ္ဏား၏ သံသယ အားလုံးတို့ ကင်းပျောက်ကြ၏၊ အကြောင်းနှင့်တကွ ဖြစ်သော သဘောတရားကို ကွဲပြားစွာ သိသောကြောင့်တည်း။ “အကြင်အခါ၌ သဘောတရားတို့သည် ဧကန်မုချ ထင်ရှား ပေါ်လာကြ၏၊ အားထုတ်သော၊ ဈာန် ဝင်စားသော ပုဏ္ဏားအား၊ ထိုအခါ ထိုပုဏ္ဏား၏ သံသယ အားလုံးတို့ ကင်းပျောက်ကြ၏၊ အကြောင်းတို့၏ ကုန်ခန်းခြင်းကို သိသောကြောင့်တည်း။ “အကြင်အခါ၌ သဘောတရားတို့သည် ဧကန်မုချ ထင်ရှား ပေါ်လာကြ၏၊ အားထုတ်သော၊ ဈာန် ဝင်စားသော ပုဏ္ဏားအား၊ မာရ်နတ်၏ စစ်သည်ကို ဖြိုခွင်းလျက် တည်နေ၏၊ နေမင်းသည် [စာလုံးပေါင်းကွဲ (Sī., Syā., Kaṃ., Pī.): suriyova] ကောင်းကင်ကို ထွန်းလင်းစေသကဲ့သို့တည်း [“မဟာဝဂ်” 3၊ “ဥဒါန်း” 3]။ “ဤလောက၌ဖြစ်စေ၊ တမလွန်လောက၌ဖြစ်စေ၊ မိမိ၌ ဖြစ်သည်ဖြစ်စေ၊ သူတစ်ပါး၌ ဖြစ်သည်ဖြစ်စေ သံသယ ရှိသမျှတို့ကို ဈာန် ဝင်စားသူတို့သည် [ပါဌ်ကွဲ (“ဥဒါန်း”): ye jhāyino] ထိုသံသယ အားလုံးတို့ကို ပယ်ကြ၏၊ ထိုသူတို့သည် အားထုတ်၍ မြင့်မြတ်သော အကျင့်ကို ကျင့်ကြသူတို့ ဖြစ်ကြ၏ [“ဥဒါန်း” 47၊ “ဥဒါန်း”၌လည်း]။ “သံသယ ဖြစ်နေကြသော သတ္တဝါတို့အကြား သံသယကို လွန်မြောက်ပြီးသော၊ ယုံမှားခြင်း ကင်း၍ နှောင်ကြိုးမှ ကင်းလွတ်ကြသူတို့၌ ပေးလှူသော အလှူသည် ကြီးမားသော အကျိုး ရှိ၏။ “ဤ၌ တရားကို ပြသခြင်းသည် ဤသို့ ဖြစ်၏၊ ထိုတရား၌ မည်သည့် တပည့်မျှ အဘယ်ကိုမျှ သံသယ မဖြစ်၊ ရေအလျဉ်ကို ကူးမြောက်ပြီး [စာလုံးပေါင်းကွဲ (Sī., Ka.): nitiṇṇaoghaṃ၊ (Syā., Kaṃ.): nittiṇṇaoghaṃ] ယုံမှားမှုကို ဖြတ်ပြီးသော အောင်မြင်တော်မူသော လူတို့၏ အရှင် ဘုရားရှင်ကို ရှိခိုးကြပါ၏” [“ဒီဃနိကာယ်” 2.354]။ ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော။ ဟုတ်ပါသည်။ သို့ဖြစ်လျှင် ဤသို့ မဆိုသင့် – “ရဟန္တာ၌ သံသယ ရှိသည်”။ ဤသို့ မဆိုသင့်သလော – “ရဟန္တာ၌ သံသယ ရှိသည်”။ ဟုတ်ပါသည်။ ရဟန္တာသည် မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်၌ သံသယ ဖြစ်ရာ၊ လမ်း ဟုတ် မဟုတ်၌ သံသယ ဖြစ်ရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်၌ သံသယ ဖြစ်ရာသည် မဟုတ်လော။ ဟုတ်ပါသည်။ အကယ်၍ ရဟန္တာသည် မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်၌ သံသယ ဖြစ်ရာ၊ လမ်း ဟုတ် မဟုတ်၌ သံသယ ဖြစ်ရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်၌ သံသယ ဖြစ်ရာလျှင် ထို့ကြောင့် အမှန်ပင် ဤသို့ ဆိုသင့်သည် – “ရဟန္တာ၌ သံသယ ရှိသည်”။ ရဟန္တာသည် မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်၌ သံသယ ဖြစ်ရာ၊ လမ်း ဟုတ် မဟုတ်၌ သံသယ ဖြစ်ရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်၌ သံသယ ဖြစ်ရာသည်ဟူ၍၊ ရဟန္တာ၌ သံသယ ရှိသလော။ ဟုတ်ပါသည်။ ရဟန္တာသည် သောတာပတ္တိဖိုလ်၌ဖြစ်စေ၊ သကဒါဂါမိဖိုလ်၌ဖြစ်စေ၊ အနာဂါမိဖိုလ်၌ဖြစ်စေ၊ ရဟန္တာ အဖြစ်၌ဖြစ်စေ သံသယ ဖြစ်ရာသလော။ ဤသို့ မဆို	ARTEFACT	yaṃ kiñci has its own entry Yaṃ kiñci «မည်သည့် … မဆို»	10	zeroshot
+5-322	paccayatā	အကြောင်းဖြစ်ခြင်း	ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ	ARTEFACT	idappaccayatā has its own entry «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» (decision paccayatā|0)	10	zeroshot
+5-325	arahattaṃ	ရဟန္တာ အဖြစ်	ရဟန္တာ ဖိုလ်	GENUINE	R030/R311: zero-shot «ရဟန္တာ ဖိုလ်» → termbase «ရဟန္တာ အဖြစ်»	10	zeroshot
+5-325	nirodhadhammaṃ	ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော	ချုပ်ငြိမ်းခြင်း သဘော ရှိသော	GENUINE	R030/R311: zero-shot «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» → termbase «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော»	10	zeroshot
+5-325	seṭṭhaṃ	အကောင်းဆုံး	မြတ်သော	GENUINE	R030/R311: zero-shot «မြတ်သော» → termbase «အကောင်းဆုံး»	10	zeroshot
+5-325	saha	အတူ	တစ်ပြိုင်နက်	GENUINE	R030/R311: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	10	zeroshot
+5-325	kiñci	တစ်စုံတစ်ရာ	မည်သည့် အရာမဆို အားလုံးသည် ချုပ်ငြိမ်းတတ်သော သဘော ရှိ၏’ဟု၊ ရဟန်းတို့၊ မြင်ခြင်း ဖြစ်ပေါ်သည်နှင့် အတူ အရိယာ တပည့်၏ နှောင်ကြိုး သုံးပါးတို့ကို ပယ်ရ၏ – ကိုယ်ကို အတ္တဟု ယူဆသော အယူ၊ ယုံမှားမှု၊ သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု”။ ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော။ ဟုတ်ပါသည်။ သို့ဖြစ်လျှင် ဤသို့ မဆိုသင့် – “ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသည်”။ ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသလော။ ဟုတ်ပါသည်။ မြတ်စွာဘုရား ဤသို့ ဟောတော်မူသည် မဟုတ်လော – “ဓောတက၊ ငါသည် [ပါဌ်ကွဲ (Sī., Syā., Ka.): gamissāmi၊ (Pī.): samīhāmi] လောက၌ ယုံမှားသံသယ ရှိသူ တစ်စုံတစ်ယောက်ကိုမျှ [စာလုံးပေါင်းကွဲ (Ka.): kiñci] လွတ်မြောက်စေရန် မတတ်နိုင်၊ အကောင်းဆုံး တရားကို ထူးကဲစွာ သိလျက် သင်သည် ဤသို့ ဤရေအလျဉ်ကို ကူးမြောက်ရာ၏” [“သုတ္တနိပါတ်” 1070၊ “သုတ္တနိပါတ်”၌၊ “စူဠနိဒ္ဒေသ” 33၊ ဓောတက လုလင်၏ အမေးကို ဖွင့်ဆိုချက်]။ ထိုသို့သော သုတ္တန် အမှန်ပင် ရှိသလော။ ဟုတ်ပါသည်။ သို့ဖြစ်လျှင် ဤသို့ မဆိုသင့် – “ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသည်”။ ဤသို့ မဆိုသင့်သလော – “ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသည်”။ ဟုတ်ပါသည်။ ရဟန္တာအား မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ လမ်း ဟုတ် မဟုတ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာသည် မဟုတ်လော။ ဟုတ်ပါသည်။ အကယ်၍ ရဟန္တာအား မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ လမ်း ဟုတ် မဟုတ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာလျှင် ထို့ကြောင့် အမှန်ပင် ဤသို့ ဆိုသင့်သည် – “ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသည်”။ ရဟန္တာအား မိန်းမ ယောက်ျားတို့၏ အမည်နှင့် အနွယ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ လမ်း ဟုတ် မဟုတ်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာ၊ မြက်၊ ထင်း၊ သစ်ပင်တို့၏ အမည်ကို သူတစ်ပါးတို့က ရှင်းပြပေးကြရာသည်ဟူ၍၊ ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း ရှိသလော။ ဟုတ်ပါသည်။ ရဟန္တာအား သောတာပတ္တိဖိုလ်ကိုဖြစ်စေ၊ သကဒါဂါမိဖိုလ်ကိုဖြစ်စေ၊ အနာဂါမိဖိုလ်ကိုဖြစ်စေ၊ ရဟန္တာ အဖြစ်ကိုဖြစ်စေ သူတစ်ပါးတို့က ရှင်းပြပေးကြရာသလော။ ဤသို့ မဆို	ARTEFACT	yaṃ kiñci has its own entry Yaṃ kiñci «မည်သည့် … မဆို»	10	zeroshot
+5-330	samāpannassa	သမာပတ်ကို ဝင်စားနေသော	ဈာန်ကို ဝင်စားနေ	ARTEFACT	jhānaṃ samāpannassa: the object is the segment's own jhāna «… ဈာန်ကို ဝင်စားနေသူ» (mapper §F5: the term «သမာပတ်ကို ဝင်စားနေသော» includes the object)	10	zeroshot
+5-331	samāpannassa	သမာပတ်ကို ဝင်စားနေသော	ဈာန်ကို ဝင်စားနေ	ARTEFACT	jhānaṃ samāpannassa: the object is the segment's own jhāna «… ဈာန်ကို ဝင်စားနေသူ» (mapper §F5: the term «သမာပတ်ကို ဝင်စားနေသော» includes the object)	10	zeroshot
+5-332	samuṭṭhānā	ဖြစ်ပေါ်လာသော	ဖြစ်ပေါ်သော	GENUINE	R601: zero-shot «ဖြစ်ပေါ်သော» → termbase «ဖြစ်ပေါ်လာသော»	10	zeroshot
+5-333	jāti	မွေးဖွားခြင်း | မျိုး	ပဋိသန္ဓေ နေခြင်း	GENUINE	R403: zero-shot «ပဋိသန္ဓေ နေခြင်း» → termbase «မွေးဖွားခြင်း | မျိုး»	10	zeroshot
+5-333	assāsapassāsā	ဝင်လေ ထွက်လေ	ထွက်သက် ဝင်သက်	GENUINE	R403: zero-shot «ထွက်သက် ဝင်သက်» → termbase «ဝင်လေ ထွက်လေ»	10	zeroshot
+5-333	niruddhā	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	R403: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	10	zeroshot
+5-333	saññāvedayitanirodhaṃ	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း	မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း	GENUINE	R403: zero-shot «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း»	10	zeroshot
+5-333	dhamma	သဘောတရား | တရား | အရာ	ဓမ္မ	GENUINE	R403: zero-shot «ဓမ္မ» → termbase «သဘောတရား | တရား | အရာ»	10	zeroshot
+5-333	saññāvedayitanirodhaṃ samāpannassa	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	GENUINE	R403: zero-shot «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»	10	zeroshot
+5-333	vedayita	ခံစားရခြင်း	ခံစားမှု	GENUINE	R403: zero-shot «ခံစားမှု» → termbase «ခံစားရခြင်း»	10	zeroshot
+5-333	saññāvedayita	မှတ်သိမှုနှင့် ခံစားရခြင်း	မှတ်သိမှုနှင့် ခံစားမှု	GENUINE	R403: zero-shot «မှတ်သိမှုနှင့် ခံစားမှု» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း»	10	zeroshot
+5-333	ṭhito	တည်နေသော	တည်သော	GENUINE	R403: zero-shot «တည်သော» → termbase «တည်နေသော»	10	zeroshot
+5-333	tika	သုံးမျိုးတွဲ	သ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-334	dissati	ထင်ရသည်	ဒ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-334	janā	လူ	ဒ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-334	uppādako	ထွက်စေသူ	စိမ်းစေသူ	GENUINE	L18: zero-shot «စိမ်းစေသူ» → termbase «ထွက်စေသူ»	10	zeroshot
+5-335	uppajjitvā	ဖြစ်ပေါ်ပြီး	ဖြစ်ပေါ်၍	GENUINE	R404: zero-shot «ဖြစ်ပေါ်၍» → termbase «ဖြစ်ပေါ်ပြီး»	10	zeroshot
+5-335	vane	ဝုန်တော	စ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-336	akusalaṃ cittaṃ	အကုသိုလ်စိတ်	အကုသိုလ် စိတ်	GENUINE	R031: zero-shot «အကုသိုလ် စိတ်» → termbase «အကုသိုလ်စိတ်»	10	zeroshot
+5-337	ṭhiti	တည်တံ့ခြင်း	စိတ်၏ တည်ခြင်း	ARTEFACT	cittaṭṭhiti has its own entry «စိတ်၏ တည်ခြင်း» (decision ṭhiti|0 note)	10	zeroshot
+5-337	para	သူတစ်ပါး | ကျော်	ပရနိမ္မိတ	ARTEFACT	the proper name Paranimmitavasavattī «ပရနိမ္မိတဝသဝတ္တီ» (proper names stay names; decision para|0)	10	zeroshot
+5-337	upagānaṃ	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	10	zeroshot
+5-338	sāmañña	ရဟန်းအဖြစ်	ရဟန်း	GENUINE	R032/R211/R212: zero-shot «ရဟန်း» → termbase «ရဟန်းအဖြစ်»	10	zeroshot
+5-338	upadhi	ခန္ဓာကိုယ်	ဥပဓိ	GENUINE	R032/R211/R212: zero-shot «ဥပဓိ» → termbase «ခန္ဓာကိုယ်»	10	zeroshot
+5-338	jātiyā	ဘဝ | မွေးဖွားခြင်း	ပဋိသန္ဓေ နေခြင်း	GENUINE	R032/R211/R212: zero-shot «ပဋိသန္ဓေ နေခြင်း» → termbase «ဘဝ | မွေးဖွားခြင်း»	10	zeroshot
+5-338	nirūpadhi	ခန္ဓာကိုယ် ကင်းသော	ဥပဓိ ကင်းသော	GENUINE	R032/R211/R212: zero-shot «ဥပဓိ ကင်းသော» → termbase «ခန္ဓာကိုယ် ကင်းသော»	10	zeroshot
+5-338	suladdhaṃ	ကောင်းစွာ ရသော	ရပြီ	INFLECTION	the termbase word in another form (finite «…၏», plural «…ကြ», agent «…သူ»): the keyword map's own value is the term; the loose test cannot strip the ending of a one-syllable verb	10	zeroshot
+5-338	brahma	မြင့်မြတ်သော	မြတ်သော	GENUINE	R032/R211/R212: zero-shot «မြတ်သော» → termbase «မြင့်မြတ်သော»	10	zeroshot
+5-338	brahmacariya	မြင့်မြတ်သော အကျင့်	မြတ်သော အကျင့်	GENUINE	R032/R211/R212: zero-shot «မြတ်သော အကျင့်» → termbase «မြင့်မြတ်သော အကျင့်»	10	zeroshot
+5-338	mānusakaṃ	လူ့	လူ	GENUINE	R032/R211/R212: zero-shot «လူ» → termbase «လူ့»	10	zeroshot
+5-338	khaṇo	ခဏ	အခါ	GENUINE	R032/R211/R212: zero-shot «အခါ» → termbase «ခဏ»	10	zeroshot
+5-338	paṭiladdho	ရရှိပြီးသော	ရရှိပြီ	INFLECTION	the perfect predicate «… ရရှိပြီ» of the termbase participle «ရရှိပြီးသော» (khaṇo vo paṭiladdho)	10	zeroshot
+5-338	viveka	ကင်းဆိတ်ခြင်း	ဆိတ်ငြိမ်ခြင်း	GENUINE	R032/R211/R212: zero-shot «ဆိတ်ငြိမ်ခြင်း» → termbase «ကင်းဆိတ်ခြင်း»	10	zeroshot
+5-338	accanta	အပြီးအပိုင်	အဆုံးစွန်	GENUINE	R032/R211/R212: zero-shot «အဆုံးစွန်» → termbase «အပြီးအပိုင်»	10	zeroshot
+5-340	buddhe	ဘုရားရှင်	ဘုရား	GENUINE	R033: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	10	zeroshot
+5-340	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	R033: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	10	zeroshot
+5-340	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	R033: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	10	zeroshot
+5-341	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	10	zeroshot
+5-341	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	10	zeroshot
+5-342	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	10	zeroshot
+5-342	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	10	zeroshot
+5-343	kata	ပြုခဲ့သော	ပြုပြီးသော	GENUINE	R034: zero-shot «ပြုပြီးသော» → termbase «ပြုခဲ့သော»	10	zeroshot
+5-343	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	R034: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	10	zeroshot
+5-343	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	R034: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	10	zeroshot
+5-343	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ကောင်းစွာ သိ၍	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	10	zeroshot
+5-343	Arahattasacchikiriyāya	ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်	ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်	GENUINE	R034: zero-shot «ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်» → termbase «ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်»	10	zeroshot
+5-344	ṭhito	တည်နေသော	တည်သော	GENUINE	L17/L22: zero-shot «တည်သော» → termbase «တည်နေသော»	10	zeroshot
+5-344	vādī	ဆိုတော်မူသော | တစ်ဖက်သား	မိမိဘက်	ARTEFACT	sakavādī «မိမိဘက်» (own approved entry) / musāvādī «… ပြောသော» (decision vādī|0: the honorific term is only for the Buddha)	10	zeroshot
+5-346	thero	မထေရ်	ထေရ်	GENUINE	R035/R036/R037: zero-shot «ထေရ်» → termbase «မထေရ်»	10	zeroshot
+5-346	aññā	အပြည့်အဝ သိမြင်ခြင်း | တခြားစီ	ရဟန္တာ ဖိုလ်ကို ထိုးဖောက်၍ သိ	ARTEFACT	sammadaññāvimutto «ကောင်းစွာ သိ၍ လွတ်မြောက်ပြီးသူ» (approved arahant epithet) / aññāpaṭivedho (decision aññā|0: «သိ၍» only sammadaññāvimutto, «ရဟန္တာ ဖိုလ်» only aññāpaṭivedho)	10	zeroshot
+5-346	sutaṃ	ကြားရသော	ကြားခဲ့ရသော	GENUINE	R035/R036/R037: zero-shot «ကြားခဲ့ရသော» → termbase «ကြားရသော»	10	zeroshot
+5-346	abhabba	မထိုက်တန်သော	မစွမ်းနိုင်	GENUINE	R035/R036/R037: zero-shot «မစွမ်းနိုင်» → termbase «မထိုက်တန်သော»	10	zeroshot
+5-346	paṭivedho	ထိုးဖောက်၍ သိခြင်း	ထိုးထွင်း သိခြင်း	GENUINE	R035/R036/R037: zero-shot «ထိုးထွင်း သိခြင်း» → termbase «ထိုးဖောက်၍ သိခြင်း»	10	zeroshot
+5-346	nirodhadhammaṃ	ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော	ချုပ်ငြိမ်းခြင်း သဘော ရှိသော	GENUINE	R035/R036/R037: zero-shot «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော» → termbase «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော»	10	zeroshot
+5-346	sikkhā	သိက္ခာ	ကျင့်ခြင်း	GENUINE	R035/R036/R037: zero-shot «ကျင့်ခြင်း» → termbase «သိက္ခာ»	10	zeroshot
+5-347	janā	လူ	ဘ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-347	puthujjanā paṭivijānanti	ပုထုဇဉ်တို့ ခွဲခြား သိသည်	ပုထုဇဉ်တို့ ထိုးထွင်း သိသည်	GENUINE	L25: zero-shot «ပုထုဇဉ်တို့ ထိုးထွင်း သိသည်» → termbase «ပုထုဇဉ်တို့ ခွဲခြား သိသည်»	10	zeroshot
+5-347	paṭivijānanti	ခွဲခြား သိသည်	ထိုးထွင်း သိသည်	GENUINE	L25: zero-shot «ထိုးထွင်း သိသည်» → termbase «ခွဲခြား သိသည်»	10	zeroshot
+5-347	vohāraṃ paṭivijānanti	ပြောဆို သုံးနှုန်းခြင်း … ခွဲခြား သိသည်	ပြောဆို သုံးနှုန်းခြင်း … ထိုးထွင်း သိသည်	GENUINE	L25: zero-shot «ပြောဆို သုံးနှုန်းခြင်း … ထိုးထွင်း သိသည်» → termbase «ပြောဆို သုံးနှုန်းခြင်း … ခွဲခြား သိသည်»	10	zeroshot
+5-349	ñāṇa	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-349	saṃvattaniko	ဖြစ်စေတတ်သော	ပို့ဆောင်တတ်သော	GENUINE	layer: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေတတ်သော»	10	zeroshot
+5-350	janā	လူ	ဘ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-350	uppādako	ထွက်စေသူ	စိမ်းစေသူ	GENUINE	L18: zero-shot «စိမ်းစေသူ» → termbase «ထွက်စေသူ»	10	zeroshot
+5-352	janā	လူ	ဘ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	10	zeroshot
+5-352	puthujjanā paṭivijānanti	ပုထုဇဉ်တို့ ခွဲခြား သိသည်	ပုထုဇဉ်တို့ ထိုးထွင်း သိသည်	GENUINE	L25: zero-shot «ပုထုဇဉ်တို့ ထိုးထွင်း သိသည်» → termbase «ပုထုဇဉ်တို့ ခွဲခြား သိသည်»	10	zeroshot
+5-352	paṭivijānanti	ခွဲခြား သိသည်	ထိုးထွင်း သိသည်	GENUINE	L25: zero-shot «ထိုးထွင်း သိသည်» → termbase «ခွဲခြား သိသည်»	10	zeroshot
+5-353	ṭhiti	တည်တံ့ခြင်း	စိတ်၏ တည်ခြင်း	ARTEFACT	cittaṭṭhiti has its own entry «စိတ်၏ တည်ခြင်း» (decision ṭhiti|0 note)	10	zeroshot
+5-353	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	R605: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	10	zeroshot
+5-353	ñāṇaṃ	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	10	zeroshot
+5-353	paṇīta	မွန်မြတ်သော	မြတ်ခြင်း	ARTEFACT	hīnapaṇītatā: paṇītatā has its own entry «မြတ်ခြင်း»	10	zeroshot
+5-353	accanta	အပြီးအပိုင်	လုံးဝ	GENUINE	R605: zero-shot «လုံးဝ» → termbase «အပြီးအပိုင်»	10	zeroshot
+5-354	uppannassa	ဖြစ်ပေါ်ပြီးသော	မြတ်စွာဘုရားသည် မဖြစ်ပေါ်သေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	11	zeroshot
+5-354	cariyā	အကျင့်	ကျင့်ကြံမှု	GENUINE	R312: zero-shot «ကျင့်ကြံမှု» → termbase «အကျင့်»	11	zeroshot
+5-355	samāpattīnaṃ	သမာပတ်	ဈာန် ဝင်စားရာ	GENUINE	L06: zero-shot «ဈာန် ဝင်စားရာ» → termbase «သမာပတ်»	11	zeroshot
+5-355	sabbattha	နေရာတိုင်း	ဘုံ အားလုံးသို့ ရောက်စေသော	ARTEFACT	sabbatthagāminī paṭipadā: the witnessed pi-2 ^2-760 ten-powers phrase «ဘုံ အားလုံးသို့ ရောက်စေသော ကျင့်စဉ်» (kept for pi-1 … pi-4 identity; Sabbattha «နေရာတိုင်း» is the free adverb)	11	zeroshot
+5-363	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	11	zeroshot
+5-364	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	11	zeroshot
+5-365	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	11	zeroshot
+5-366	buddhe	ဘုရားရှင်	ဘုရား	GENUINE	R038: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	11	zeroshot
+5-366	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	R038: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	11	zeroshot
+5-366	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	R038: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	11	zeroshot
+5-367	tena	ထို့ကြောင့်	သို့ဖြစ်လျှင်	ARTEFACT	the approved frame (decision Tena hi|0: «သို့ဖြစ်၍» only in the frame «Na hevaṃ niggahetabbe. Tena hi …»; tena inside Tena hi has the phrase entry «သို့ဖြစ်လျှင်»)	11	zeroshot
+5-368	upasampajja viharati	ဝင်စား၍ နေသည်	ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်» → termbase «ဝင်စား၍ နေသည်»	11	zeroshot
+5-368	upasampajja	ဝင်စား၍	ပြည့်စုံစွာ ဝင်ရောက်၍	GENUINE	L03: zero-shot «ပြည့်စုံစွာ ဝင်ရောက်၍» → termbase «ဝင်စား၍»	11	zeroshot
+5-371	hīna	ယုတ်ညံ့သော	ယုတ်လျော့သော	GENUINE	L09/L17: zero-shot «ယုတ်လျော့သော» → termbase «ယုတ်ညံ့သော»	11	zeroshot
+5-372	ṭhito	တည်နေသော	တည်သော	GENUINE	L17/L22: zero-shot «တည်သော» → termbase «တည်နေသော»	11	zeroshot
+5-374	uttamo	အထွတ်အထိပ်	အမြတ်ဆုံး	GENUINE	L14/L36: zero-shot «အမြတ်ဆုံး» → termbase «အထွတ်အထိပ်»	11	zeroshot
+5-374	anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	L14: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	11	zeroshot
+5-374	paññācakkhuṃ anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော ပညာမျက်စိ	အမြတ်ဆုံး ပညာမျက်စိ	GENUINE	L14: zero-shot «အမြတ်ဆုံး ပညာမျက်စိ» → termbase «ထိုထက် သာလွန်သည် မရှိသော ပညာမျက်စိ»	11	zeroshot
+5-377	vata	အကျင့်ဝတ် | အမှန်ပင်	က	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	11	zeroshot
+5-378	paṭiladdho	ရရှိပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	11	zeroshot
+5-378	sacchikato	မျက်မှောက်ပြုပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	11	zeroshot
+5-379	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	11	zeroshot
+5-383	ṭhiti	တည်တံ့ခြင်း	တည်နေသည့် အချိန်	ARTEFACT	ṭhitikāla 'the moment of standing' rendered with the verb «တည်နေသည့် အချိန်» (the noun «တည်တံ့ခြင်း» does not fit the time phrase; decision ṭhiti|0 note)	11	zeroshot
+5-386	sattesu	သတ္တဝါ	မ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	11	zeroshot
+5-386	aggaṃ	ဖျား	မ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	11	zeroshot
+5-387	uppādeyya	ထွက်စေသည်	ဖြစ်စေ	ARTEFACT	approved rails-step note: methunaṃ uppādeyya «… ဖြစ်စေ» (bring about) by context	12	zeroshot
+5-388	Saha	အတူ	တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	12	zeroshot
+5-388	Saha upapattiyā	ပြန်လည် ဖြစ်ပေါ်သော … အတူ	ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်» → termbase «ပြန်လည် ဖြစ်ပေါ်သော … အတူ»	12	zeroshot
+5-389	Saha	အတူ	တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	12	zeroshot
+5-389	Saha upapattiyā	ပြန်လည် ဖြစ်ပေါ်သော … အတူ	ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်» → termbase «ပြန်လည် ဖြစ်ပေါ်သော … အတူ»	12	zeroshot
+5-390	Saha	အတူ	တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «တစ်ပြိုင်နက်» → termbase «အတူ»	12	zeroshot
+5-390	Saha upapattiyā	ပြန်လည် ဖြစ်ပေါ်သော … အတူ	ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်	GENUINE	L20: zero-shot «ပြန်လည် ဖြစ်ပေါ်သော … တစ်ပြိုင်နက်» → termbase «ပြန်လည် ဖြစ်ပေါ်သော … အတူ»	12	zeroshot
+5-396	paṭiladdhāni	ရရှိပြီးသော	ရပြီးသော	GENUINE	R313: zero-shot «ရပြီးသော» → termbase «ရရှိပြီးသော»	12	zeroshot
+5-396	tīṇi phalāni paṭiladdhāni	ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော	ဖိုလ် သုံးပါးတို့ကို ရပြီးသော	GENUINE	R313: zero-shot «ဖိုလ် သုံးပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-396	dve phalāni paṭiladdhāni	ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော	ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော	GENUINE	R313: zero-shot «ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-397	phoṭṭhabbaṃ	အထိအတွေ့	အတွေ့အထိ	GENUINE	R039: zero-shot «အတွေ့အထိ» → termbase «အထိအတွေ့»	12	zeroshot
+5-398	buddho	ဘုရားရှင်	ဘုရား	GENUINE	L19/L21: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+5-398	niruddhāya	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသော	GENUINE	L19/L21: zero-shot «ချုပ်ငြိမ်းသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	12	zeroshot
+5-398	paṭipassaddhāya	ငြိမ်းအေးပြီးသော	ငြိမ်းအေးသွားသော	GENUINE	L19/L21: zero-shot «ငြိမ်းအေးသွားသော» → termbase «ငြိမ်းအေးပြီးသော»	12	zeroshot
+5-399	buddho	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+5-400	cariyā	အကျင့်	ကျင့်ကြံမှု	GENUINE	R314: zero-shot «ကျင့်ကြံမှု» → termbase «အကျင့်»	12	zeroshot
+5-401	pātubhavanti	ထင်ရှား ပေါ်လာသည်	ပေါ်ပေါက်သည်	GENUINE	R040/R315/R407: zero-shot «ပေါ်ပေါက်သည်» → termbase «ထင်ရှား ပေါ်လာသည်»	12	zeroshot
+5-401	seṭṭho	အကောင်းဆုံး	အမြတ်ဆုံး	GENUINE	R040/R315/R407: zero-shot «အမြတ်ဆုံး» → termbase «အကောင်းဆုံး»	12	zeroshot
+5-401	mātu	အမိ	မယ်တော်	ARTEFACT	the Bodhisatta's mother: the honorific «မယ်တော်» (decision mātu|0 names ^5-401 as an honorific context)	12	zeroshot
+5-401	attamanā	နှစ်သက်သော	ဝမ်းမြောက်သည်	GENUINE	R040/R315/R407: zero-shot «ဝမ်းမြောက်သည်» → termbase «နှစ်သက်သော»	12	zeroshot
+5-401	puna	တစ်ဖန်	ဘ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	12	zeroshot
+5-401	viloketi	ဘေးသို့ ကြည့်သည်	ကြည့်သည်	GENUINE	R040/R315/R407: zero-shot «ကြည့်သည်» → termbase «ဘေးသို့ ကြည့်သည်»	12	zeroshot
+5-402	patto	ရောက်သော	ဤ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	12	zeroshot
+5-402	pabbajati	ရဟန်းပြုသည်	ရဟန်း ပြုသည်	GENUINE	R041/R042: zero-shot «ရဟန်း ပြုသည်» → termbase «ရဟန်းပြုသည်»	12	zeroshot
+5-402	purisassa	ယောက်ျား	ယောကျ်ား	GENUINE	R041/R042: zero-shot «ယောကျ်ား» → termbase «ယောက်ျား»	12	zeroshot
+5-402	sattamaṃ	သတ္တမ	ခုနစ်ခုမြောက်	GENUINE	R041/R042: zero-shot «ခုနစ်ခုမြောက်» → termbase «သတ္တမ»	12	zeroshot
+5-403	buddho	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+5-404	uddisi	ကိုးကွယ်ခဲ့သည်	ညွှန်ပြခဲ့သည်	GENUINE	R317: zero-shot «ညွှန်ပြခဲ့သည်» → termbase «ကိုးကွယ်ခဲ့သည်»	12	zeroshot
+5-404	tapaṃ	ပြင်းထန်သော အကျင့်	ခြိုးခြံသော အကျင့်	GENUINE	R317: zero-shot «ခြိုးခြံသော အကျင့်» → termbase «ပြင်းထန်သော အကျင့်»	12	zeroshot
+5-404	Bodhisatto akāsi	ဘုရားလောင်း … ပြုခဲ့သည်	ဘုရားလောင်း … ကျင့်ခဲ့သည်	GENUINE	R317: zero-shot «ဘုရားလောင်း … ကျင့်ခဲ့သည်» → termbase «ဘုရားလောင်း … ပြုခဲ့သည်»	12	zeroshot
+5-404	akāsi	ပြုခဲ့သည်	ကျင့်ခဲ့သည်	GENUINE	R317: zero-shot «ကျင့်ခဲ့သည်» → termbase «ပြုခဲ့သည်»	12	zeroshot
+5-405	pahātabbaṃ	ပယ်ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	12	zeroshot
+5-405	bhāvetabbaṃ	ပွားများရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	12	zeroshot
+5-405	pariññeyyaṃ	ပိုင်းခြား သိရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	12	zeroshot
+5-405	ve	ဧကန်	ဤ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	12	zeroshot
+5-405	vidū	နားလည်သော	သိသော	GENUINE	R318/R606: zero-shot «သိသော» → termbase «နားလည်သော»	12	zeroshot
+5-405	sacchikātabbaṃ	မျက်မှောက်ပြုရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	12	zeroshot
+5-405	anuttaro	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	R318/R606: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	12	zeroshot
+5-405	cakkaṃ	စကြာ	တရားစက်	GENUINE	R318/R606: zero-shot «တရားစက်» → termbase «စကြာ»	12	zeroshot
+5-411	paṭiladdhāni	ရရှိပြီးသော	ရပြီးသော	GENUINE	R319: zero-shot «ရပြီးသော» → termbase «ရရှိပြီးသော»	12	zeroshot
+5-411	sotāpattiphalaṃ paṭiladdhaṃ	သောတာပတ္တိဖိုလ်ကို ရရှိပြီးသော	သောတာပတ္တိဖိုလ်ကို ရသော	GENUINE	R319: zero-shot «သောတာပတ္တိဖိုလ်ကို ရသော» → termbase «သောတာပတ္တိဖိုလ်ကို ရရှိပြီးသော»	12	zeroshot
+5-411	tīṇi phalāni paṭiladdhāni	ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော	ဖိုလ် သုံးပါးတို့ကို ရပြီးသော	GENUINE	R319: zero-shot «ဖိုလ် သုံးပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-411	dve phalāni paṭiladdhāni	ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော	ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော	GENUINE	R319: zero-shot «ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-412	paṭiladdhāni	ရရှိပြီးသော	ရပြီးသော	GENUINE	R320: zero-shot «ရပြီးသော» → termbase «ရရှိပြီးသော»	12	zeroshot
+5-412	sotāpattiphalaṃ paṭiladdhaṃ	သောတာပတ္တိဖိုလ်ကို ရရှိပြီးသော	သောတာပတ္တိဖိုလ်ကို ရသော	GENUINE	R320: zero-shot «သောတာပတ္တိဖိုလ်ကို ရသော» → termbase «သောတာပတ္တိဖိုလ်ကို ရရှိပြီးသော»	12	zeroshot
+5-412	tīṇi phalāni paṭiladdhāni	ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော	ဖိုလ် သုံးပါးတို့ကို ရပြီးသော	GENUINE	R320: zero-shot «ဖိုလ် သုံးပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် သုံးပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-412	dve phalāni paṭiladdhāni	ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော	ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော	GENUINE	R320: zero-shot «ဖိုလ် နှစ်ပါးတို့ကို ရပြီးသော» → termbase «ဖိုလ် နှစ်ပါးတို့ကို ရရှိပြီးသော»	12	zeroshot
+5-417	bodhisatto okkantaniyāmo	ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော	ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော	GENUINE	R043: zero-shot «ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော» → termbase «ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော»	12	zeroshot
+5-417	buddho	ဘုရားရှင်	ဘုရား	GENUINE	R043: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	12	zeroshot
+5-417	okkanta	သက်ဆင်းပြီးသော	သက်ဆင်းသော	GENUINE	R043: zero-shot «သက်ဆင်းသော» → termbase «သက်ဆင်းပြီးသော»	12	zeroshot
+5-417	okkantaniyāmo	သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော	သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော	GENUINE	R043: zero-shot «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော» → termbase «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော»	12	zeroshot
+5-418	paṭiladdhassa	ရရှိပြီးသော	ရသော	GENUINE	R604: zero-shot «ရသော» → termbase «ရရှိပြီးသော»	13	zeroshot
+5-418	adhigatassa sacchikatassa	ရရှိပြီးသော … မျက်မှောက်ပြုပြီးသော	ရပြီးသော … မျက်မှောက်ပြုပြီးသော	GENUINE	R604: zero-shot «ရပြီးသော … မျက်မှောက်ပြုပြီးသော» → termbase «ရရှိပြီးသော … မျက်မှောက်ပြုပြီးသော»	13	zeroshot
+5-418	Yaṃ kiñci	မည်သည့် … မဆို	မှန်သမျှ	GENUINE	R604: zero-shot «မှန်သမျှ» → termbase «မည်သည့် … မဆို»	13	zeroshot
+5-419	arahattaphalasamaṅgissa vimuttaṃ	ရဟန္တာ ဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	ရဟန္တာ ဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «ရဟန္တာ ဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «ရဟန္တာ ဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-419	anāgāmiphalasamaṅgissa vimuttaṃ	အနာဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	အနာဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «အနာဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «အနာဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-419	sakadāgāmiphalasamaṅgissa vimuttaṃ	သကဒါဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	သကဒါဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «သကဒါဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «သကဒါဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-419	Sotāpattiphalasamaṅgissa puggalassa	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော ပုဂ္ဂိုလ်	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော ပုဂ္ဂိုလ်	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော ပုဂ္ဂိုလ်» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော ပုဂ္ဂိုလ်»	13	zeroshot
+5-419	samaṅgissa	ပြည့်စုံသော	ရရှိထားသော	GENUINE	L31: zero-shot «ရရှိထားသော» → termbase «ပြည့်စုံသော»	13	zeroshot
+5-419	Sotāpattiphalasamaṅgissa	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော»	13	zeroshot
+5-419	Sotāpattiphalasamaṅgissa vimuttaṃ	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-420	arahattaphalasamaṅgissa vimuttaṃ	ရဟန္တာ ဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	ရဟန္တာ ဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «ရဟန္တာ ဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «ရဟန္တာ ဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-420	anāgāmiphalasamaṅgissa vimuttaṃ	အနာဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	အနာဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «အနာဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «အနာဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-420	sakadāgāmiphalasamaṅgissa vimuttaṃ	သကဒါဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	သကဒါဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «သကဒါဂါမိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «သကဒါဂါမိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-420	Sotāpattiphalasamaṅgissa puggalassa	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော ပုဂ္ဂိုလ်	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော ပုဂ္ဂိုလ်	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော ပုဂ္ဂိုလ်» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော ပုဂ္ဂိုလ်»	13	zeroshot
+5-420	samaṅgissa	ပြည့်စုံသော	ရရှိထားသော	GENUINE	L31: zero-shot «ရရှိထားသော» → termbase «ပြည့်စုံသော»	13	zeroshot
+5-420	Sotāpattiphalasamaṅgissa	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော»	13	zeroshot
+5-420	Sotāpattiphalasamaṅgissa vimuttaṃ	သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော	သောတာပတ္တိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော	GENUINE	L31: zero-shot «သောတာပတ္တိဖိုလ်ကို ရရှိထားသော … လွတ်မြောက်ပြီးသော» → termbase «သောတာပတ္တိဖိုလ်နှင့် ပြည့်စုံသော … လွတ်မြောက်ပြီးသော»	13	zeroshot
+5-421	upasampajja	ဝင်စား၍	ပြည့်စုံစေ၍	GENUINE	L03: zero-shot «ပြည့်စုံစေ၍» → termbase «ဝင်စား၍»	13	zeroshot
+5-422	upasampajja	ဝင်စား၍	ပြည့်စုံစေ၍	GENUINE	L03: zero-shot «ပြည့်စုံစေ၍» → termbase «ဝင်စား၍»	13	zeroshot
+5-431	abhisametuṃ	ထင်ထင်ရှားရှား သိမြင်ရန်	ထိုးထွင်း သိနိုင်သော	GENUINE	L25/L36: zero-shot «ထိုးထွင်း သိနိုင်သော» → termbase «ထင်ထင်ရှားရှား သိမြင်ရန်»	13	zeroshot
+5-431	bhabbo	ထိုက်တန်သော	သိနိုင်သော	GENUINE	L27/L36: zero-shot «သိနိုင်သော» → termbase «ထိုက်တန်သော»	13	zeroshot
+5-432	para	သူတစ်ပါး | ကျော်	အခြားသူ	GENUINE	R321: zero-shot «အခြားသူ» → termbase «သူတစ်ပါး | ကျော်»	13	zeroshot
+5-434	dadantassa	ပေးနေသော	ပေးလှူနေသော	GENUINE	R047: zero-shot «ပေးလှူနေသော» → termbase «ပေးနေသော»	13	zeroshot
+5-435	eva	ပင်	သာ	ARTEFACT	approved rails-step note: the restrictive eva «သာ» (only) as a context sense	13	zeroshot
+5-439	anāgāmi	အနာဂါမိ	အနာဂါမ်	GENUINE	R048/R049/R050: zero-shot «အနာဂါမ်» → termbase «အနာဂါမိ»	13	zeroshot
+5-439	sakadāgāmi	သကဒါဂါမိ	သကဒါဂါမ်	GENUINE	R048/R049/R050: zero-shot «သကဒါဂါမ်» → termbase «သကဒါဂါမိ»	13	zeroshot
+5-439	samanantara	ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း	ကောင်းစွာ ကြားမလပ်	GENUINE	R048/R049/R050: zero-shot «ကောင်းစွာ ကြားမလပ်» → termbase «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း»	13	zeroshot
+5-439	anantara	ချက်ချင်း နောက်၌ ဖြစ်စေသော | နောက်ဆက်တွဲ	ကြားမလပ်	GENUINE	R048/R049/R050: zero-shot «ကြားမလပ်» → termbase «ချက်ချင်း နောက်၌ ဖြစ်စေသော | နောက်ဆက်တွဲ»	13	zeroshot
+5-443	uppannassa	ဖြစ်ပေါ်ပြီးသော	တပည့်သည် မဖြစ်ပေါ်သေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	13	zeroshot
+5-443	akkhātā	ပြောကြားသော	ဟောကြားသူ	GENUINE	L33: zero-shot «ဟောကြားသူ» → termbase «ပြောကြားသော»	13	zeroshot
+5-445	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	L09: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	14	zeroshot
+5-447	niruddhe	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	14	zeroshot
+5-448	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	L09: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	14	zeroshot
+5-450	paccayatā	အကြောင်းဖြစ်ခြင်း	ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ	ARTEFACT	idappaccayatā has its own entry «ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ» (decision paccayatā|0)	14	zeroshot
+5-450	dhammaniyāmatā	သဘောတရားတို့၏ သေချာခြင်း	တရား၏ သေချာခြင်း	GENUINE	R052: zero-shot «တရား၏ သေချာခြင်း» → termbase «သဘောတရားတို့၏ သေချာခြင်း»	14	zeroshot
+5-450	tathatā	ဟုတ်တိုင်းမှန်သော သဘော	ဟုတ်မှန်ခြင်း	GENUINE	R052: zero-shot «ဟုတ်မှန်ခြင်း» → termbase «ဟုတ်တိုင်းမှန်သော သဘော»	14	zeroshot
+5-450	ṭhitatā	တည်နေခြင်း သဘော	တည်ရှိခြင်း	GENUINE	R052: zero-shot «တည်ရှိခြင်း» → termbase «တည်နေခြင်း သဘော»	14	zeroshot
+5-450	dhammaṭṭhitatā	သဘောတရားတို့၏ တည်နေခြင်း သဘော	တရား၏ တည်ရှိခြင်း	GENUINE	R052: zero-shot «တရား၏ တည်ရှိခြင်း» → termbase «သဘောတရားတို့၏ တည်နေခြင်း သဘော»	14	zeroshot
+5-450	ṭhitā	တည်နေသော	တည်သော	GENUINE	R052: zero-shot «တည်သော» → termbase «တည်နေသော»	14	zeroshot
+5-451	dhammaniyāmatā	သဘောတရားတို့၏ သေချာခြင်း	တရား၏ သေချာခြင်း	GENUINE	L31: zero-shot «တရား၏ သေချာခြင်း» → termbase «သဘောတရားတို့၏ သေချာခြင်း»	14	zeroshot
+5-451	ṭhitatā	တည်နေခြင်း သဘော	တည်ရှိခြင်း	GENUINE	L31: zero-shot «တည်ရှိခြင်း» → termbase «တည်နေခြင်း သဘော»	14	zeroshot
+5-451	dhammaṭṭhitatā	သဘောတရားတို့၏ တည်နေခြင်း သဘော	တရား၏ တည်ရှိခြင်း	GENUINE	L31: zero-shot «တရား၏ တည်ရှိခြင်း» → termbase «သဘောတရားတို့၏ တည်နေခြင်း သဘော»	14	zeroshot
+5-452	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	L09: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	14	zeroshot
+5-454	aññathāni	အခြားတစ်မျိုး	အခြား	GENUINE	R627: zero-shot «အခြား» → termbase «အခြားတစ်မျိုး»	14	zeroshot
+5-455	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	14	zeroshot
+5-455	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	14	zeroshot
+5-458	samāpajjantassa	ဝင်စားသူ	ဝင်စားနေ	INFLECTION	the present participle (samāpajjanta) «ဝင်စားနေသူ» of the termbase «ဝင်စားသူ»	14	zeroshot
+5-458	ninnaṃ	နိမ့်ဆင်းသော	ညွတ်သော	GENUINE	R322/R323/R324: zero-shot «ညွတ်သော» → termbase «နိမ့်ဆင်းသော»	14	zeroshot
+5-458	pabbhāraṃ	စောင်းသော	ရှိုင်းသော	GENUINE	R322/R323/R324: zero-shot «ရှိုင်းသော» → termbase «စောင်းသော»	14	zeroshot
+5-458	poṇaṃ	ညွတ်ကိုင်းသော	ကိုင်းသော	GENUINE	R322/R323/R324: zero-shot «ကိုင်းသော» → termbase «ညွတ်ကိုင်းသော»	14	zeroshot
+5-463	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	14	zeroshot
+5-465	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	14	zeroshot
+5-467	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	14	zeroshot
+5-469	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	14	zeroshot
+5-470	Niyamo	ကျိန်းသေမှု	သေချာသော လမ်းကြောင်း	GENUINE	R053/R325: zero-shot «သေချာသော လမ်းကြောင်း» → termbase «ကျိန်းသေမှု»	14	zeroshot
+5-470	bhūtā	မူလဓာတ် | ဖြစ်စေနိုင်သော	မဟာဘုတ်	GENUINE	R053/R325: zero-shot «မဟာဘုတ်» → termbase «မူလဓာတ် | ဖြစ်စေနိုင်သော»	14	zeroshot
+5-470	mahābhūtā	မူလဓာတ်ကြီး	မဟာဘုတ်	GENUINE	R053/R325: zero-shot «မဟာဘုတ်» → termbase «မူလဓာတ်ကြီး»	14	zeroshot
+5-471	gacchati	သွားသည် | ရသည်	ရ	INFLECTION	the termbase verb in another form or sense entry of the same headword (saṅkhaṃ gacchati «… ရ…» / goes «ရောက်»; the one-syllable verb «ရ» keeps «သည်» in the loose test)	15	zeroshot
+5-477	paṇītaṃ	မွန်မြတ်သော	မြတ်ခြင်း	GENUINE	R054: zero-shot «မြတ်ခြင်း» → termbase «မွန်မြတ်သော»	15	zeroshot
+5-480	paṭikuṭṭhāni	ကန့်ကွက်အပ်သော	ကဲ့ရဲ့အပ်သော	GENUINE	R326: zero-shot «ကဲ့ရဲ့အပ်သော» → termbase «ကန့်ကွက်အပ်သော»	15	zeroshot
+5-481	vilepanaṃ	နံ့သာပျောင်း	နံ့သာ လိမ်းဖွယ်	GENUINE	R055: zero-shot «နံ့သာ လိမ်းဖွယ်» → termbase «နံ့သာပျောင်း»	15	zeroshot
+5-484	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	15	zeroshot
+5-485	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	15	zeroshot
+5-485	veti	ပျက်ကွယ်သည်	ပျက်စီးသည်	GENUINE	R625: zero-shot «ပျက်စီးသည်» → termbase «ပျက်ကွယ်သည်»	15	zeroshot
+5-486	manāpāya	စိတ်နှင့် တွေ့ဖွယ်	နှစ်သက်ဖွယ်	GENUINE	R056/R327: zero-shot «နှစ်သက်ဖွယ်» → termbase «စိတ်နှင့် တွေ့ဖွယ်»	15	zeroshot
+5-486	samādhiṃ	သမာဓိ	တည်ကြည်ခြင်း	GENUINE	R056/R327: zero-shot «တည်ကြည်ခြင်း» → termbase «သမာဓိ»	15	zeroshot
+5-486	upasampajja	ဝင်စား၍	ပြည့်စုံစေ၍	GENUINE	R056/R327: zero-shot «ပြည့်စုံစေ၍» → termbase «ဝင်စား၍»	15	zeroshot
+5-486	āhārā	အာဟာရ	အစာ	GENUINE	R056/R327: zero-shot «အစာ» → termbase «အာဟာရ»	15	zeroshot
+5-486	vipākā	ကံ၏ အကျိုး ဖြစ်သော	အကျိုး ရှိသော	ARTEFACT	sukhavipākā (bahubbīhi, 'having a pleasant result') «ချမ်းသာသော အကျိုး ရှိသော»; vipākā «ကံ၏ အကျိုး ဖြစ်သော» is the resultant states	15	zeroshot
+5-487	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	15	zeroshot
+5-488	pānīyaṃ	သောက်ရေ	သောက်ဖွယ်	GENUINE	R057/R058: zero-shot «သောက်ဖွယ်» → termbase «သောက်ရေ»	15	zeroshot
+5-488	bhojanīyaṃ	ဘောဇဉ်	စားဖွယ်	GENUINE	R057/R058: zero-shot «စားဖွယ်» → termbase «ဘောဇဉ်»	15	zeroshot
+5-488	Añño	တခြားစီ	အခြား	ARTEFACT	the reciprocal «añño … aññassa» «တစ်ယောက် … အခြားတစ်ယောက်» / «aññaṃ … aññaṃ» (decision añño|0: «Burmese speaker to check the last three»; the term «တခြားစီ» (separate) would misread the reciprocal; doubt)	15	zeroshot
+5-489	atthāya	အကျိုး	အတွက်	GENUINE	R408: zero-shot «အတွက်» → termbase «အကျိုး»	15	zeroshot
+5-489	paṭilabhanti	ရရှိသည်	ရကြ	INFLECTION	the termbase word in another form (finite «…၏», plural «…ကြ», agent «…သူ»): the keyword map's own value is the term; the loose test cannot strip the ending of a one-syllable verb	15	zeroshot
+5-491	mātā	အမိ	မိဘ	ARTEFACT	the dvanda mātāpitaro «မိဘ» (parents, one Burmese word)	15	zeroshot
+5-493	caritaṃ	စရိုက်	အကျင့်	GENUINE	R059: zero-shot «အကျင့်» → termbase «စရိုက်»	15	zeroshot
+5-493	saṇṭhāti	တည်နေသည်	တည်သည်	GENUINE	R059: zero-shot «တည်သည်» → termbase «တည်နေသည်»	15	zeroshot
+5-494	adhipacca	အကြီးအကဲ ဖြစ်ခြင်း	အုပ်ချုပ်ခြင်း	GENUINE	R328: zero-shot «အုပ်ချုပ်ခြင်း» → termbase «အကြီးအကဲ ဖြစ်ခြင်း»	15	zeroshot
+5-498	sāmaññaṃ	ရဟန်းအဖြစ်	ရဟန်း၏ အဖြစ်	GENUINE	R060: zero-shot «ရဟန်း၏ အဖြစ်» → termbase «ရဟန်းအဖြစ်»	15	zeroshot
+5-501	paccati	ပူလောင်ရသည်	ကျက်သည်	GENUINE	R061: zero-shot «ကျက်သည်» → termbase «ပူလောင်ရသည်»	15	zeroshot
+5-501	upacchedo	ပြတ်စဲခြင်း	ဖြတ်တောက်ခြင်း	GENUINE	R061: zero-shot «ဖြတ်တောက်ခြင်း» → termbase «ပြတ်စဲခြင်း»	15	zeroshot
+5-501	vaṭṭa	သံသရာ စက်ဝန်း	ဝဋ်	GENUINE	R061: zero-shot «ဝဋ်» → termbase «သံသရာ စက်ဝန်း»	15	zeroshot
+5-501	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	15	zeroshot
+5-503	tiracchānayoni	တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	တိရစ္ဆာန် မွေးဖွားရာ	GENUINE	R062/R329: zero-shot «တိရစ္ဆာန် မွေးဖွားရာ» → termbase «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»	16	zeroshot
+5-503	āhārā	အာဟာရ	အစာ	GENUINE	R062/R329: zero-shot «အစာ» → termbase «အာဟာရ»	16	zeroshot
+5-503	yoni	မွေးဖွားရာ အမျိုးအစား	မွေးဖွားရာ	GENUINE	R062/R329: zero-shot «မွေးဖွားရာ» → termbase «မွေးဖွားရာ အမျိုးအစား»	16	zeroshot
+5-506	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	16	zeroshot
+5-506	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-507	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	16	zeroshot
+5-507	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-511	eva	ပင်	သာ	ARTEFACT	approved rails-step note: the restrictive eva «သာ» (only) as a context sense	16	zeroshot
+5-511	sāvaka	တပည့်	သာဝက	GENUINE	R063: zero-shot «သာဝက» → termbase «တပည့်»	16	zeroshot
+5-511	yugaṃ	အစုံ	နှစ်ပါး	GENUINE	R063: zero-shot «နှစ်ပါး» → termbase «အစုံ»	16	zeroshot
+5-511	sāvakayugaṃ	တပည့် အစုံ	အဂ္ဂသာဝက နှစ်ပါး	GENUINE	R063: zero-shot «အဂ္ဂသာဝက နှစ်ပါး» → termbase «တပည့် အစုံ»	16	zeroshot
+5-511	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	R063: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	16	zeroshot
+5-511	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-512	manāpā	စိတ်နှင့် တွေ့သော	နှစ်သက်ဖွယ် ကောင်းသော	GENUINE	R064/R065/R066: zero-shot «နှစ်သက်ဖွယ် ကောင်းသော» → termbase «စိတ်နှင့် တွေ့သော»	16	zeroshot
+5-512	iṭṭhā	လိုလားဖွယ်ကောင်းသော	လိုလားဖွယ် ကောင်းသော	GENUINE	R064/R065/R066: zero-shot «လိုလားဖွယ် ကောင်းသော» → termbase «လိုလားဖွယ်ကောင်းသော»	16	zeroshot
+5-512	rajanīyā	တပ်မက်ဖွယ်ကောင်းသော	တပ်မက်ဖွယ် ကောင်းသော	GENUINE	R064/R065/R066: zero-shot «တပ်မက်ဖွယ် ကောင်းသော» → termbase «တပ်မက်ဖွယ်ကောင်းသော»	16	zeroshot
+5-512	kantā	ချစ်ခင်ဖွယ်ကောင်းသော	ချစ်ခင်ဖွယ် ကောင်းသော	GENUINE	R064/R065/R066: zero-shot «ချစ်ခင်ဖွယ် ကောင်းသော» → termbase «ချစ်ခင်ဖွယ်ကောင်းသော»	16	zeroshot
+5-514	manāpā	စိတ်နှင့် တွေ့သော	နှစ်သက်ဖွယ် ကောင်းသော	GENUINE	R067/R068/R069: zero-shot «နှစ်သက်ဖွယ် ကောင်းသော» → termbase «စိတ်နှင့် တွေ့သော»	16	zeroshot
+5-514	iṭṭhā	လိုလားဖွယ်ကောင်းသော	လိုလားဖွယ် ကောင်းသော	GENUINE	R067/R068/R069: zero-shot «လိုလားဖွယ် ကောင်းသော» → termbase «လိုလားဖွယ်ကောင်းသော»	16	zeroshot
+5-514	rajanīyā	တပ်မက်ဖွယ်ကောင်းသော	တပ်မက်ဖွယ် ကောင်းသော	GENUINE	R067/R068/R069: zero-shot «တပ်မက်ဖွယ် ကောင်းသော» → termbase «တပ်မက်ဖွယ်ကောင်းသော»	16	zeroshot
+5-514	kantā	ချစ်ခင်ဖွယ်ကောင်းသော	ချစ်ခင်ဖွယ် ကောင်းသော	GENUINE	R067/R068/R069: zero-shot «ချစ်ခင်ဖွယ် ကောင်းသော» → termbase «ချစ်ခင်ဖွယ်ကောင်းသော»	16	zeroshot
+5-514	purisassa	ယောက်ျား	ယောကျ်ား	GENUINE	R067/R068/R069: zero-shot «ယောကျ်ား» → termbase «ယောက်ျား»	16	zeroshot
+5-514	Tiṭṭhanti	တည်ရှိသည် | ဓားပြ တိုက်သည်	တည်သည်	GENUINE	R067/R068/R069: zero-shot «တည်သည်» → termbase «တည်ရှိသည် | ဓားပြ တိုက်သည်»	16	zeroshot
+5-515	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	16	zeroshot
+5-515	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-517	upagā	ရောက်သွားသော	ရောက်သော	GENUINE	L10: zero-shot «ရောက်သော» → termbase «ရောက်သွားသော»	16	zeroshot
+5-517	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-522	du	ဆိုးသော	မွှေးသော	ARTEFACT	sugandha / duggandha in the smell list: the plain words «မွှေးသော / နံစော်သော» (decision du|0: «Burmese speaker to check»; doubt)	16	zeroshot
+5-522	su	ကောင်းစွာ	မွှေးသော	ARTEFACT	sugandha / duggandha in the smell list: the plain words «မွှေးသော / နံစော်သော» (decision du|0: «Burmese speaker to check»; doubt)	16	zeroshot
+5-524	ṭhiti	တည်တံ့ခြင်း	သိစိတ် တည်ရာ	ARTEFACT	approved rails-step note: ṭhiti in viññāṇaṭṭhiti «သိစိတ် တည်ရာ» rendered by context (a station, not persistence)	16	zeroshot
+5-525	sabbattha	နေရာတိုင်း	သ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	16	zeroshot
+5-528	Yaṃ kiñci	မည်သည့် … မဆို	မှန်သမျှ	GENUINE	L13: zero-shot «မှန်သမျှ» → termbase «မည်သည့် … မဆို»	16	zeroshot
+5-532	Yaṃ kiñci	မည်သည့် … မဆို	မှန်သမျှ	GENUINE	L13: zero-shot «မှန်သမျှ» → termbase «မည်သည့် … မဆို»	16	zeroshot
+5-533	Yaṃ kiñci	မည်သည့် … မဆို	မှန်သမျှ	GENUINE	L13: zero-shot «မှန်သမျှ» → termbase «မည်သည့် … မဆို»	16	zeroshot
+5-534	Yaṃ kiñci	မည်သည့် … မဆို	မှန်သမျှ	GENUINE	L13: zero-shot «မှန်သမျှ» → termbase «မည်သည့် … မဆို»	16	zeroshot
+5-539	puriso	ယောက်ျား	ယောကျ်ား	GENUINE	R071: zero-shot «ယောကျ်ား» → termbase «ယောက်ျား»	16	zeroshot
+5-539	paribbājakassa	ပရိဗိုဇ်	ပရိဗ္ဗာဇ်	GENUINE	R071: zero-shot «ပရိဗ္ဗာဇ်» → termbase «ပရိဗိုဇ်»	16	zeroshot
+5-543	sattānaṃ	သတ္တဝါ	အသညသတ်	ARTEFACT	the realm name asaññasatta «အသညသတ်» (proper names stay names; decision satta|0)	16	zeroshot
+5-544	avaseso	ကြွင်းကျန်သော	အကြွင်း	INFLECTION	the noun «(အ)ကြွင်း» (the remainder, in jīvitāvasesa / kappāvasesa / anavasesa «အကြွင်းမဲ့») of the attributive termbase «ကြွင်းကျန်သော»	16	zeroshot
+5-546	eva	ပင်	သာ	ARTEFACT	approved rails-step note: the restrictive eva «သာ» (only) as a context sense	16	zeroshot
+5-546	ādāna	ကိုင်ခြင်း	ယူခြင်း	GENUINE	R072: zero-shot «ယူခြင်း» → termbase «ကိုင်ခြင်း»	16	zeroshot
+5-547	dhuvato	ခိုင်ခံ့သော အရာ	ခိုင်မြဲသော အရာ	GENUINE	R073: zero-shot «ခိုင်မြဲသော အရာ» → termbase «ခိုင်ခံ့သော အရာ»	17	zeroshot
+5-549	ñāṇa	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	17	zeroshot
+5-549	saṃvattaniyaṃ	ဖြစ်စေတတ်သော	ပို့ဆောင်တတ်သော	GENUINE	L28: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေတတ်သော»	17	zeroshot
+5-550	ñāṇa	ဉာဏ်	မသိခြင်း	ARTEFACT	aññāṇa has its own entries aññāṇa / aññāṇaṃ / Aññāṇe «မသိခြင်း»: ñāṇa is its fragment	17	zeroshot
+5-550	saṃvattaniyaṃ	ဖြစ်စေတတ်သော	ပို့ဆောင်တတ်သော	GENUINE	L28: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေတတ်သော»	17	zeroshot
+5-559	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	17	zeroshot
+5-560	micchā	မှားယွင်းသော	ဟူသည် မှားသည်	ARTEFACT	the verdict «… ဟူသည် မှားသည်» of the approved sample frame «…ti micchā» (decision micchā|0: «built by the formula module, not this term»)	17	zeroshot
+5-563	Sabbaso	အလုံးစုံ	အခါခပ်သိမ်း	GENUINE	R074: zero-shot «အခါခပ်သိမ်း» → termbase «အလုံးစုံ»	17	zeroshot
+5-563	pajānato	ကွဲပြားစွာ သိနေသော	ပိုင်းခြား သိနေသော	GENUINE	R074: zero-shot «ပိုင်းခြား သိနေသော» → termbase «ကွဲပြားစွာ သိနေသော»	17	zeroshot
+5-565	aññaṃ	တခြားစီ	အခြား	ARTEFACT	the reciprocal «añño … aññassa» «တစ်ယောက် … အခြားတစ်ယောက်» / «aññaṃ … aññaṃ» (decision añño|0: «Burmese speaker to check the last three»; the term «တခြားစီ» (separate) would misread the reciprocal; doubt)	17	zeroshot
+5-566	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	17	zeroshot
+5-568	sañjātaṃ	ကောင်းစွာ မွေးဖွားပြီးသော	အနာဂတ်သည် မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	17	zeroshot
+5-568	abbhatthaṅgataṃ	လုံးဝ ကွယ်ပျောက်ပြီးသော	လုံးဝ ကွယ်ပြီးသော	GENUINE	L05: zero-shot «လုံးဝ ကွယ်ပြီးသော» → termbase «လုံးဝ ကွယ်ပျောက်ပြီးသော»	17	zeroshot
+5-568	abhinibbattaṃ	ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော	အနာဂတ်သည် မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	17	zeroshot
+5-568	vigataṃ	ကင်းပျောက်ပြီးသော	ကင်းကွာပြီးသော	GENUINE	L05: zero-shot «ကင်းကွာပြီးသော» → termbase «ကင်းပျောက်ပြီးသော»	17	zeroshot
+5-568	pātubhūtaṃ	ထင်ရှားလာပြီးသော	အနာဂတ်သည် မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	17	zeroshot
+5-568	nibbattaṃ	ပေါ်ထွက်ပြီးသော	အနာဂတ်သည် မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	17	zeroshot
+5-568	ajātaṃ	မမွေးဖွားသေးသော	မဖြစ်သေးသော	GENUINE	L05: zero-shot «မဖြစ်သေးသော» → termbase «မမွေးဖွားသေးသော»	17	zeroshot
+5-568	atthaṅgataṃ	ကွယ်ပျောက်ပြီးသော	ကွယ်ပြီးသော	GENUINE	L05: zero-shot «ကွယ်ပြီးသော» → termbase «ကွယ်ပျောက်ပြီးသော»	17	zeroshot
+5-570	samāpattīnaṃ	သမာပတ်	ဈာန် ဝင်စားရာ	GENUINE	L06/L32: zero-shot «ဈာန် ဝင်စားရာ» → termbase «သမာပတ်»	17	zeroshot
+5-570	sabbaso	အလုံးစုံ	အခါခပ်သိမ်း	GENUINE	L06/L32: zero-shot «အခါခပ်သိမ်း» → termbase «အလုံးစုံ»	17	zeroshot
+5-570	lābhī	ရသော	ရသူ	INFLECTION	the termbase word in another form (finite «…၏», plural «…ကြ», agent «…သူ»): the keyword map's own value is the term; the loose test cannot strip the ending of a one-syllable verb	17	zeroshot
+5-571	niruddhe	ချုပ်ငြိမ်းပြီးသော	ငါးပါး မချုပ်ငြိမ်းသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	18	zeroshot
+5-576	manasikārā	နှလုံးသွင်းခြင်း	ရှိကြသည်၊ မပျက်စီးသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	18	zeroshot
+5-577	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	18	zeroshot
+5-580	manasikārā	နှလုံးသွင်းခြင်း	ရှိကြသည်၊ မပျက်စီးသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	18	zeroshot
+5-581	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	18	zeroshot
+5-584	manasikārā	နှလုံးသွင်းခြင်း	ရှိကြသည်၊ မပျက်စီးသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	18	zeroshot
+5-585	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	18	zeroshot
+5-588	vācāya	နှုတ်	စကား	ARTEFACT	the speech itself «… စကား», not the door of speech «နှုတ်» (as pi-4 doubt 3; decision vācāya|0)	18	zeroshot
+5-591	iṭṭha	လိုလားဖွယ်	လိုလားအပ်သော	GENUINE	L03/L11/L12: zero-shot «လိုလားအပ်သော» → termbase «လိုလားဖွယ်»	18	zeroshot
+5-591	iṭṭhaphalaṃ	လိုလားဖွယ် အသီးအပွင့် ရှိသော	လိုလားအပ်သော အကျိုး ရှိသော	GENUINE	L12: zero-shot «လိုလားအပ်သော အကျိုး ရှိသော» → termbase «လိုလားဖွယ် အသီးအပွင့် ရှိသော»	18	zeroshot
+5-591	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး	GENUINE	L12/L19: zero-shot «အကျိုး» → termbase «အသီးအပွင့် | ဖိုလ်»	18	zeroshot
+5-591	Aniṭṭha	မလိုလားဖွယ်	မလိုလားအပ်သော	GENUINE	L12: zero-shot «မလိုလားအပ်သော» → termbase «မလိုလားဖွယ်»	18	zeroshot
+5-594	niruddhe	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	18	zeroshot
+5-597	niruddhe	ချုပ်ငြိမ်းပြီးသော	ချုပ်ငြိမ်းသွားသော	GENUINE	L21: zero-shot «ချုပ်ငြိမ်းသွားသော» → termbase «ချုပ်ငြိမ်းပြီးသော»	18	zeroshot
+5-600	gāmino	ရောက်သော	သွားသော	GENUINE	R075: zero-shot «သွားသော» → termbase «ရောက်သော»	18	zeroshot
+5-603	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	18	zeroshot
+5-603	dadantassa	ပေးနေသော	ပေးသော	GENUINE	R333: zero-shot «ပေးသော» → termbase «ပေးနေသော»	18	zeroshot
+5-604	niruddhe	ချုပ်ငြိမ်းပြီးသော	ငါးပါး မချုပ်ငြိမ်းသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	18	zeroshot
+5-622	jāti	မွေးဖွားခြင်း | မျိုး	ဖြစ်ခြင်း	GENUINE	R410: zero-shot «ဖြစ်ခြင်း» → termbase «မွေးဖွားခြင်း | မျိုး»	19	zeroshot
+5-622	jāyiṃsu	မွေးဖွားသည်	ဖြစ်သည်	GENUINE	R410: zero-shot «ဖြစ်သည်» → termbase «မွေးဖွားသည်»	19	zeroshot
+5-623	bhāvitā	ပွားများပြီးသော	ပွားများထား	ARTEFACT	the formula bhāvitā bahulīkatā … «ပွားများထား…» keeps its own phrase-entry wording (decision bhāvitā|0)	19	zeroshot
+5-623	avasesaṃ	ကြွင်းကျန်သော	အကြွင်း	INFLECTION	the noun «(အ)ကြွင်း» (the remainder, in jīvitāvasesa / kappāvasesa / anavasesa «အကြွင်းမဲ့») of the attributive termbase «ကြွင်းကျန်သော»	19	zeroshot
+5-624	jāti	မွေးဖွားခြင်း | မျိုး	ဖြစ်ခြင်း	GENUINE	R411: zero-shot «ဖြစ်ခြင်း» → termbase «မွေးဖွားခြင်း | မျိုး»	19	zeroshot
+5-625	ajātaṃ	မမွေးဖွားသေးသော	မဖြစ်သေးသော	GENUINE	R334: zero-shot «မဖြစ်သေးသော» → termbase «မမွေးဖွားသေးသော»	19	zeroshot
+5-626	ekanta	လုံးဝ	တစ်ထစ်ချ	GENUINE	R077: zero-shot «တစ်ထစ်ချ» → termbase «လုံးဝ»	19	zeroshot
+5-627	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	19	zeroshot
+5-628	upacchedo	ပြတ်စဲခြင်း	ပြတ်ခြင်း	GENUINE	L02: zero-shot «ပြတ်ခြင်း» → termbase «ပြတ်စဲခြင်း»	19	zeroshot
+5-635	sañcetanikānaṃ	စေ့ဆော်၍	ရည်ရွယ်၍	GENUINE	R078: zero-shot «ရည်ရွယ်၍» → termbase «စေ့ဆော်၍»	20	zeroshot
+5-641	abhisametuṃ	ထင်ထင်ရှားရှား သိမြင်ရန်	ထိုးထွင်း သိမြင်ရန်	GENUINE	L25/L36: zero-shot «ထိုးထွင်း သိမြင်ရန်» → termbase «ထင်ထင်ရှားရှား သိမြင်ရန်»	20	zeroshot
+5-644	anāgāmi	အနာဂါမိ	အနာဂါမ်	GENUINE	R079/R080: zero-shot «အနာဂါမ်» → termbase «အနာဂါမိ»	20	zeroshot
+5-644	sakadāgāmi	သကဒါဂါမိ	သကဒါဂါမ်	GENUINE	R079/R080: zero-shot «သကဒါဂါမ်» → termbase «သကဒါဂါမိ»	20	zeroshot
+5-648	sikkhāya	ကျင့်စဉ်	သိက္ခာ	GENUINE	R081: zero-shot «သိက္ခာ» → termbase «ကျင့်စဉ်»	20	zeroshot
+5-649	yaṃ	အကြင်အရာ	အ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	20	zeroshot
+5-650	amanussa	လူ မဟုတ်သူ	လူ မဟုတ်သော	GENUINE	R082: zero-shot «လူ မဟုတ်သော» → termbase «လူ မဟုတ်သူ»	20	zeroshot
+5-651	amanussa	လူ မဟုတ်သူ	လူ မဟုတ်သော	GENUINE	R083: zero-shot «လူ မဟုတ်သော» → termbase «လူ မဟုတ်သူ»	20	zeroshot
+5-652	tiracchānayoniṃ	တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	တိရစ္ဆာန် ဘဝ	GENUINE	L30: zero-shot «တိရစ္ဆာန် ဘဝ» → termbase «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»	20	zeroshot
+5-652	yoniṃ	မွေးဖွားရာ အမျိုးအစား	ဘဝ	GENUINE	L30: zero-shot «ဘဝ» → termbase «မွေးဖွားရာ အမျိုးအစား»	20	zeroshot
+5-653	tiracchānayoniṃ	တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	တိရစ္ဆာန် ဘဝ	GENUINE	L30: zero-shot «တိရစ္ဆာန် ဘဝ» → termbase «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»	20	zeroshot
+5-653	yoniṃ	မွေးဖွားရာ အမျိုးအစား	ဘဝ	GENUINE	L30: zero-shot «ဘဝ» → termbase «မွေးဖွားရာ အမျိုးအစား»	20	zeroshot
+5-653	sattama	သတ္တမ	ခုနစ်ကြိမ်မြောက် ဘဝ၌	ARTEFACT	sattamabhavika has its own locked entry «ခုနစ်ကြိမ်မြောက် ဘဝ၌ ရှိသော» (coordinator 2026-11-22: the ordinal «သတ္တမ» is for the vagga headings only)	20	zeroshot
+5-654	uppajjati	ဖြစ်ပေါ်သည်	ပွင့်ထွန်းတော်မူ	ARTEFACT	buddho loke uppajjati: the Buddha's arising «ပွင့်ထွန်းတော်မူ» (decision uppajjati|0: pi-4's context form «tathāgato loke uppajjati»)	21	zeroshot
+5-654	buddho	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	21	zeroshot
+5-656	Mato	သေပြီးသော	သေ၍	GENUINE	R084: zero-shot «သေ၍» → termbase «သေပြီးသော»	21	zeroshot
+5-658	Kappaṭṭho dadeyya	ကမ္ဘာ ပတ်လုံး တည်ရမည့်သူ … ပေးသည်	ကမ္ဘာ ပတ်လုံး တည်ရမည့်သူ … ပြုသည်	GENUINE	R085/R412: zero-shot «ကမ္ဘာ ပတ်လုံး တည်ရမည့်သူ … ပြုသည်» → termbase «ကမ္ဘာ ပတ်လုံး တည်ရမည့်သူ … ပေးသည်»	21	zeroshot
+5-658	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	21	zeroshot
+5-658	paṭilabheyya	ရသည်	ရရာ	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-658	kusalaṃ paṭilabheyya	ကုသိုလ် … ရသည်	ရရာ	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-658	kusalaṃ cittaṃ	ကုသိုလ်စိတ်	ကုသိုလ် စိတ်	GENUINE	R085/R412: zero-shot «ကုသိုလ် စိတ်» → termbase «ကုသိုလ်စိတ်»	21	zeroshot
+5-659	paṭilabheyya	ရသည်	ရရာ	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-659	kusalaṃ paṭilabheyya	ကုသိုလ် … ရသည်	ရရာ	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-659	kusalaṃ cittaṃ	ကုသိုလ်စိတ်	ကုသိုလ် စိတ်	GENUINE	R086: zero-shot «ကုသိုလ် စိတ်» → termbase «ကုသိုလ်စိတ်»	21	zeroshot
+5-660	anantarā	ချက်ချင်း နောက်	ချက်ချင်း အကျိုးပေးသော	ARTEFACT	anantarāpayutto has its own phrase entry Anantarāpayutto puggalo «ချက်ချင်း အကျိုးပေးသော ကံကို ပြုခဲ့သော ပုဂ္ဂိုလ်» (the deed of immediate result, not «right after»)	21	zeroshot
+5-661	anantarā	ချက်ချင်း နောက်	ချက်ချင်း အကျိုးပေးသော	ARTEFACT	anantarāpayutto has its own phrase entry Anantarāpayutto puggalo «ချက်ချင်း အကျိုးပေးသော ကံကို ပြုခဲ့သော ပုဂ္ဂိုလ်» (the deed of immediate result, not «right after»)	21	zeroshot
+5-661	abhabbo	မထိုက်တန်	ခ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	21	zeroshot
+5-662	anantarā	ချက်ချင်း နောက်	ချက်ချင်း အကျိုးပေးသော	ARTEFACT	anantarāpayutto has its own phrase entry Anantarāpayutto puggalo «ချက်ချင်း အကျိုးပေးသော ကံကို ပြုခဲ့သော ပုဂ္ဂိုလ်» (the deed of immediate result, not «right after»)	21	zeroshot
+5-663	Niyato	ကျိန်းသေသော	လမ်းကြောင်း သေချာပြီးသော	GENUINE	L31: zero-shot «လမ်းကြောင်း သေချာပြီးသော» → termbase «ကျိန်းသေသော»	21	zeroshot
+5-663	aṅgaṃ	အင်္ဂါ	က	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	21	zeroshot
+5-663	Niyato okkamati	ကျိန်းသေသော … သက်ဆင်းသည်	လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်	GENUINE	L31: zero-shot «လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်» → termbase «ကျိန်းသေသော … သက်ဆင်းသည်»	21	zeroshot
+5-663	sammattaniyato	မှန်ကန်မှု၌ ကျိန်းသေသော	မှန်ကန်မှု၌ လမ်းကြောင်း သေချာပြီးသော	GENUINE	L31: zero-shot «မှန်ကန်မှု၌ လမ်းကြောင်း သေချာပြီးသော» → termbase «မှန်ကန်မှု၌ ကျိန်းသေသော»	21	zeroshot
+5-663	Micchattaniyato	မှားယွင်းမှု၌ ကျိန်းသေသော	မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော	GENUINE	L31: zero-shot «မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော» → termbase «မှားယွင်းမှု၌ ကျိန်းသေသော»	21	zeroshot
+5-664	abhisametuṃ	ထင်ထင်ရှားရှား သိမြင်ရန်	ထင်ထင်ရှားရှား မသိမြင်	ARTEFACT	nābhisametuṃ (negated): «… ထင်ထင်ရှားရှား မသိမြင်ဘဲ», the negative of the termbase «ထင်ထင်ရှားရှား သိမြင်ရန်» (fixed by rule R607)	21	zeroshot
+5-664	niyato	ကျိန်းသေသော	လမ်းကြောင်း သေချာပြီးသော	GENUINE	R607: zero-shot «လမ်းကြောင်း သေချာပြီးသော» → termbase «ကျိန်းသေသော»	21	zeroshot
+5-664	niyato okkamati	ကျိန်းသေသော … သက်ဆင်းသည်	လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်	GENUINE	R607: zero-shot «လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်» → termbase «ကျိန်းသေသော … သက်ဆင်းသည်»	21	zeroshot
+5-671	pajānāti	ကွဲပြားစွာ သိသည်	သိသည်	GENUINE	R608: zero-shot «သိသည်» → termbase «ကွဲပြားစွာ သိသည်»	21	zeroshot
+5-675	rāgo	ရာဂ	တပ်မက်မှု	GENUINE	L13/L34: zero-shot «တပ်မက်မှု» → termbase «ရာဂ»	21	zeroshot
+5-675	yaṃ kiñci	မည်သည့် … မဆို	အကြင်	GENUINE	L13/L34: zero-shot «အကြင်» → termbase «မည်သည့် … မဆို»	21	zeroshot
+5-685	niyato okkamati	ကျိန်းသေသော … သက်ဆင်းသည်	လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်	GENUINE	R087: zero-shot «လမ်းကြောင်း သေချာပြီးသော … သက်ဆင်းသည်» → termbase «ကျိန်းသေသော … သက်ဆင်းသည်»	21	zeroshot
+5-685	rāgo	ရာဂ	တပ်မက်မှု	GENUINE	R087: zero-shot «တပ်မက်မှု» → termbase «ရာဂ»	21	zeroshot
+5-685	anantarā	ချက်ချင်း နောက်	ချက်ချင်း အကျိုးပေးသော	ARTEFACT	anantarāpayutto has its own phrase entry Anantarāpayutto puggalo «ချက်ချင်း အကျိုးပေးသော ကံကို ပြုခဲ့သော ပုဂ္ဂိုလ်» (the deed of immediate result, not «right after»)	21	zeroshot
+5-685	paṭilabheyya	ရသည်	ရခြင်း	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-685	kusalaṃ paṭilabheyya	ကုသိုလ် … ရသည်	ရခြင်း	INFLECTION	optative «…ရရာ» / verbal noun «…ရခြင်း» of the termbase «ရသည်» (the one-syllable verb «ရ» keeps «သည်» in the loose test)	21	zeroshot
+5-685	kusalaṃ cittaṃ	ကုသိုလ်စိတ်	ကုသိုလ် စိတ်	GENUINE	R087: zero-shot «ကုသိုလ် စိတ်» → termbase «ကုသိုလ်စိတ်»	21	zeroshot
+5-691	hīna	ယုတ်ညံ့သော	ချို့ယွင်းသော	GENUINE	L09/L22: zero-shot «ချို့ယွင်းသော» → termbase «ယုတ်ညံ့သော»	22	zeroshot
+5-691	saṇṭhāti	တည်နေသည်	တည်သည်	GENUINE	L09/L19/L22: zero-shot «တည်သည်» → termbase «တည်နေသည်»	22	zeroshot
+5-692	pānaṃ	သောက်ဖွယ် | သောက်ခြင်း	အဖျော်	GENUINE	R088/R089/R413: zero-shot «အဖျော်» → termbase «သောက်ဖွယ် | သောက်ခြင်း»	22	zeroshot
+5-692	annaṃ	ထမင်း	အစာ	GENUINE	R088/R089/R413: zero-shot «အစာ» → termbase «ထမင်း»	22	zeroshot
+5-692	yāpeti	အသက်မွေးသည်	အသက် မွေးသည်	GENUINE	R088/R089/R413: zero-shot «အသက် မွေးသည်» → termbase «အသက်မွေးသည်»	22	zeroshot
+5-692	Yaṃ	အကြင်အရာ	အ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	22	zeroshot
+5-694	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	22	zeroshot
+5-696	paṭicca	အကြောင်းတို့ကို မှီ၍	မှီ၍	ARTEFACT	«X ca paṭicca Y ca uppajjati»: the absolutive is the phrase entry paṭicca uppajjati «မှီ၍ … ဖြစ်ပေါ်သည်» (decision paṭicca|0)	22	zeroshot
+5-697	naccati	ကသည်	က၊	INFLECTION	the one-syllable verb «က» in another form (the keyword map's own value is the term)	22	zeroshot
+5-699	yaṃ kiñci	မည်သည့် … မဆို	ဟူသမျှ	GENUINE	L13: zero-shot «ဟူသမျှ» → termbase «မည်သည့် … မဆို»	22	zeroshot
+5-701	Pariyuṭṭhito	ထကြွခြင်းကို ခံရသော	ထကြွခြင်း ရှိသော	GENUINE	R090: zero-shot «ထကြွခြင်း ရှိသော» → termbase «ထကြွခြင်းကို ခံရသော»	22	zeroshot
+5-702	akusalaṃ cittaṃ	အကုသိုလ်စိတ်	အကုသိုလ် စိတ်	GENUINE	R091: zero-shot «အကုသိုလ် စိတ်» → termbase «အကုသိုလ်စိတ်»	22	zeroshot
+5-703	nirodho	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L11/L23: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	22	zeroshot
+5-703	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11/L23: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	22	zeroshot
+5-703	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11/L23: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	22	zeroshot
+5-704	nirodho	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L11/L23: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	22	zeroshot
+5-704	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11/L23: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	22	zeroshot
+5-704	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11/L23: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	22	zeroshot
+5-707	tiracchānayoniṃ	တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	တိရစ္ဆာန် ဘုံ	GENUINE	R092: zero-shot «တိရစ္ဆာန် ဘုံ» → termbase «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»	22	zeroshot
+5-707	yoniṃ	မွေးဖွားရာ အမျိုးအစား	ဘုံ	GENUINE	R092: zero-shot «ဘုံ» → termbase «မွေးဖွားရာ အမျိုးအစား»	22	zeroshot
+5-708	akantāya	မချစ်ခင်ဖွယ်ရာ	မနှစ်သက်ဖွယ်ရာ	GENUINE	R094: zero-shot «မနှစ်သက်ဖွယ်ရာ» → termbase «မချစ်ခင်ဖွယ်ရာ»	22	zeroshot
+5-708	yaṃ	အကြင်အရာ	ဤ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	22	zeroshot
+5-720	parinipphanno	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော	GENUINE	L26: zero-shot «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	23	zeroshot
+5-720	Addhā parinipphanno	ကာလသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ကာလသည် အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော	GENUINE	L26: zero-shot «ကာလသည် အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» → termbase «ကာလသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	23	zeroshot
+5-721	parinipphanno	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော	GENUINE	L26: zero-shot «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	23	zeroshot
+5-722	parinipphanno	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော	GENUINE	L26: zero-shot «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	23	zeroshot
+5-723	parinipphannaṃ	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော	GENUINE	L26: zero-shot «အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	23	zeroshot
+5-728	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-728	Saññāvedayitanirodhasamāpatti lokuttarā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် လောကကို ကျော်လွန်သော	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် လောကကို ကျော်လွန်သော	GENUINE	L06: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် လောကကို ကျော်လွန်သော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် လောကကို ကျော်လွန်သော»	23	zeroshot
+5-729	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-729	Saññāvedayitakathā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-729	Saññāvedayitakathā niṭṭhitā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော»	23	zeroshot
+5-730	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-731	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-731	Dutiyasaññāvedayitakathā	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-731	Dutiyasaññāvedayitakathā niṭṭhitā	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	GENUINE	layer: zero-shot «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော» → termbase «ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော»	23	zeroshot
+5-732	nirodhaṃ samāpanno	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော	GENUINE	L06: zero-shot «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» → termbase «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»	23	zeroshot
+5-732	saññāvedayitanirodhaṃ kālaṃ kareyya	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်»	23	zeroshot
+5-732	Saññāvedayitanirodhaṃ kālaṃ kareyya	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်»	23	zeroshot
+5-732	saññāvedayitanirodhaṃ phasso	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … တွေ့ထိမှု	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … တွေ့ထိမှု»	23	zeroshot
+5-733	nirodhaṃ samāpanno	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော	GENUINE	L06: zero-shot «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» → termbase «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»	23	zeroshot
+5-734	Tatiyasaññāvedayitakathā	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်	GENUINE	layer: zero-shot «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်» → termbase «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက်»	23	zeroshot
+5-734	Tatiyasaññāvedayitakathā niṭṭhitā	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော	GENUINE	layer: zero-shot «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော» → termbase «တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော»	23	zeroshot
+5-735	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-735	satta	သတ္တဝါ	အသညသတ်	ARTEFACT	the realm name asaññasatta «အသညသတ်» (proper names stay names; decision satta|0)	23	zeroshot
+5-735	samāpannassa	သမာပတ်ကို ဝင်စားနေသော	ဝင်စားနေသော	GENUINE	L21: zero-shot «ဝင်စားနေသော» → termbase «သမာပတ်ကို ဝင်စားနေသော»	23	zeroshot
+5-735	nirodhaṃ samāpannassa	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော	GENUINE	layer: zero-shot «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» → termbase «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»	23	zeroshot
+5-735	saññāvedayitanirodhaṃ phasso	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … တွေ့ထိမှု	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … တွေ့ထိမှု»	23	zeroshot
+5-735	Saññāvedayitanirodhasamāpatti asaññasattupikā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော»	23	zeroshot
+5-735	saññāvedayitanirodhasamāpatti asaññasattupikā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော»	23	zeroshot
+5-736	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	L06: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-736	satta	သတ္တဝါ	အသညသတ်	ARTEFACT	the realm name asaññasatta «အသညသတ်» (proper names stay names; decision satta|0)	23	zeroshot
+5-736	saññāvedayitanirodhasamāpatti asaññasattupikā	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော	GENUINE	layer: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ်သည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော»	23	zeroshot
+5-740	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	23	zeroshot
+5-742	samāpatti	သမာပတ်	ဈာန် ဝင်စားခြင်း	GENUINE	R610: zero-shot «ဈာန် ဝင်စားခြင်း» → termbase «သမာပတ်»	23	zeroshot
+5-742	nirodhaṃ samāpanno	ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော	ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော	GENUINE	R610: zero-shot «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော» → termbase «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော»	23	zeroshot
+5-742	saññāvedayitanirodhaṃ kālaṃ kareyya	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်	မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်	GENUINE	R610: zero-shot «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်» → termbase «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းခြင်း သမာပတ် … သေသည်»	23	zeroshot
+5-742	sabyābajjhaṃ	ညှဉ်းဆဲမှု ရှိသော	ဆင်းရဲစေတတ်သော	GENUINE	R610: zero-shot «ဆင်းရဲစေတတ်သော» → termbase «ညှဉ်းဆဲမှု ရှိသော»	23	zeroshot
+5-742	sabyābajjhaṃ abyābajjhaṃ	ညှဉ်းဆဲမှု ရှိသော … ညှဉ်းဆဲမှု ကင်းသော	ဆင်းရဲစေတတ်သော … မဆင်းရဲစေတတ်သော	GENUINE	R610: zero-shot «ဆင်းရဲစေတတ်သော … မဆင်းရဲစေတတ်သော» → termbase «ညှဉ်းဆဲမှု ရှိသော … ညှဉ်းဆဲမှု ကင်းသော»	23	zeroshot
+5-742	mano	မနော	စိတ်	GENUINE	R610: zero-shot «စိတ်» → termbase «မနော»	23	zeroshot
+5-742	abyābajjhaṃ	ညှဉ်းဆဲမှု ကင်းခြင်း	မဆင်းရဲစေတတ်သော	GENUINE	R610: zero-shot «မဆင်းရဲစေတတ်သော» → termbase «ညှဉ်းဆဲမှု ကင်းခြင်း»	23	zeroshot
+5-743	aṅgaṃ	အင်္ဂါ	တ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	24	zeroshot
+5-743	sukhaṃ	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	L07/L24: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	24	zeroshot
+5-743	sukhaṃ dukkhaṃ	ချမ်းသာနှင့် ဆင်းရဲ	သုခ ဒုက္ခ	GENUINE	L24: zero-shot «သုခ ဒုက္ခ» → termbase «ချမ်းသာနှင့် ဆင်းရဲ»	24	zeroshot
+5-745	aṅgaṃ	အင်္ဂါ	တ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	24	zeroshot
+5-745	sukhaṃ	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	L07/L24: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	24	zeroshot
+5-745	sukhaṃ dukkhaṃ	ချမ်းသာနှင့် ဆင်းရဲ	သုခ ဒုက္ခ	GENUINE	layer: zero-shot «သုခ ဒုက္ခ» → termbase «ချမ်းသာနှင့် ဆင်းရဲ»	24	zeroshot
+5-747	sukhaṃ anuppadeti	ချမ်းသာကို ပေးသည်	သုခကို ပေးသည်	GENUINE	L24: zero-shot «သုခကို ပေးသည်» → termbase «ချမ်းသာကို ပေးသည်»	24	zeroshot
+5-747	sukhaṃ	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	L07/L24: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	24	zeroshot
+5-747	Paro sukhaṃ anuppadeti	တစ်ဦး … ချမ်းသာကို ပေးသည်	တစ်ဦး … သုခကို ပေးသည်	GENUINE	L24: zero-shot «တစ်ဦး … သုခကို ပေးသည်» → termbase «တစ်ဦး … ချမ်းသာကို ပေးသည်»	24	zeroshot
+5-747	paro sukhaṃ anuppadeti	တစ်ဦး … ချမ်းသာကို ပေးသည်	တစ်ဦး … သုခကို ပေးသည်	GENUINE	L24: zero-shot «တစ်ဦး … သုခကို ပေးသည်» → termbase «တစ်ဦး … ချမ်းသာကို ပေးသည်»	24	zeroshot
+5-747	sukhaṃ dukkhaṃ	ချမ်းသာနှင့် ဆင်းရဲ	သုခ ဒုက္ခ	GENUINE	L24: zero-shot «သုခ ဒုက္ခ» → termbase «ချမ်းသာနှင့် ဆင်းရဲ»	24	zeroshot
+5-749	pajānāti	ကွဲပြားစွာ သိသည်	သိသည်	GENUINE	R609: zero-shot «သိသည်» → termbase «ကွဲပြားစွာ သိသည်»	24	zeroshot
+5-768	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	24	zeroshot
+5-768	nirodhaṃ	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L06/L11/L23: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	24	zeroshot
+5-768	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11/L23: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	24	zeroshot
+5-768	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11/L23: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	24	zeroshot
+5-769	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	24	zeroshot
+5-769	nirodhaṃ	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L06/L11/L23: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	24	zeroshot
+5-769	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	24	zeroshot
+5-769	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	24	zeroshot
+5-771	nirodho	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L11/L23/L26: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	24	zeroshot
+5-771	Rūparāgo rūpadhātupariyāpanno	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L11/L26: zero-shot «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော» → termbase «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-771	rūparāgo rūpadhātupariyāpanno	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L11/L26: zero-shot «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော» → termbase «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-771	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11/L26: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	24	zeroshot
+5-771	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11/L26: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	24	zeroshot
+5-771	rūpadhātu	အဆင်းအရောင် ဓာတ် | သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ် ဓာတ်	GENUINE	L11/L26: zero-shot «သိမ်မွေ့သော ရုပ် ဓာတ်» → termbase «အဆင်းအရောင် ဓာတ် | သိမ်မွေ့သော ရုပ်ဘုံ»	24	zeroshot
+5-772	Rūparāgo rūpadhātupariyāpanno	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော	သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L26: zero-shot «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော» → termbase «သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ်ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-772	rūpadhātu	အဆင်းအရောင် ဓာတ် | သိမ်မွေ့သော ရုပ်ဘုံ	သိမ်မွေ့သော ရုပ် ဓာတ်	GENUINE	L26: zero-shot «သိမ်မွေ့သော ရုပ် ဓာတ်» → termbase «အဆင်းအရောင် ဓာတ် | သိမ်မွေ့သော ရုပ်ဘုံ»	24	zeroshot
+5-773	nirodho	ချုပ်ငြိမ်းခြင်း	ချုပ်သော	GENUINE	L11/L23/L26: zero-shot «ချုပ်သော» → termbase «ချုပ်ငြိမ်းခြင်း»	24	zeroshot
+5-773	arūpadhātu	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဓာတ်	GENUINE	L11/L26: zero-shot «ရုပ်မရှိသော ဓာတ်» → termbase «ရုပ်မရှိသော ဘုံ»	24	zeroshot
+5-773	Arūparāgo arūpadhātupariyāpanno	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L11/L26: zero-shot «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော» → termbase «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-773	diṭṭhadhamma	မျက်မှောက်ဘဝ	ယခုဘဝ	GENUINE	L11/L26: zero-shot «ယခုဘဝ» → termbase «မျက်မှောက်ဘဝ»	24	zeroshot
+5-773	diṭṭhadhammasukhavihārena cittena	မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်	GENUINE	L11/L26: zero-shot «ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်» → termbase «မျက်မှောက်ဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်»	24	zeroshot
+5-773	arūparāgo arūpadhātupariyāpanno	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L11/L26: zero-shot «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော» → termbase «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-774	arūpadhātu	ရုပ်မရှိသော ဘုံ	ရုပ်မရှိသော ဓာတ်	GENUINE	L26: zero-shot «ရုပ်မရှိသော ဓာတ်» → termbase «ရုပ်မရှိသော ဘုံ»	24	zeroshot
+5-774	Arūparāgo arūpadhātupariyāpanno	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော	ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော	GENUINE	L26: zero-shot «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော» → termbase «ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဘုံ၌ အကျုံးဝင်သော»	24	zeroshot
+5-775	sukhānuppadānaṃ	ချမ်းသာကို ပေးခြင်း	သုခကို ပေးခြင်း	GENUINE	L24: zero-shot «သုခကို ပေးခြင်း» → termbase «ချမ်းသာကို ပေးခြင်း»	24	zeroshot
+5-775	sukha	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	L07/L11/L16: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	24	zeroshot
+5-777	saṃvattaniyaṃ kammaṃ	ဖြစ်စေတတ်သော ကံ	ရောက်စေတတ်သော ကံ	GENUINE	R612: zero-shot «ရောက်စေတတ်သော ကံ» → termbase «ဖြစ်စေတတ်သော ကံ»	25	zeroshot
+5-777	saṃvattaniyaṃ	ဖြစ်စေတတ်သော	ရောက်စေတတ်သော	GENUINE	R612: zero-shot «ရောက်စေတတ်သော» → termbase «ဖြစ်စေတတ်သော»	25	zeroshot
+5-779	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	25	zeroshot
+5-779	Arahā dadeyya	ရဟန္တာ … ပေးသည်	ရဟန္တာ … ပြုသည်	GENUINE	R412: zero-shot «ရဟန္တာ … ပြုသည်» → termbase «ရဟန္တာ … ပေးသည်»	25	zeroshot
+5-780	Yo	အကြင်သူ	ရ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	25	zeroshot
+5-782	pariyāye	ပိုင်းခြား၍ သိသော | အလှည့်	ဘဝအဆက်ဆက်	GENUINE	R414: zero-shot «ဘဝအဆက်ဆက်» → termbase «ပိုင်းခြား၍ သိသော | အလှည့်»	25	zeroshot
+5-784	hareyya	လုယူသည်	တိုက်သည်	GENUINE	R412/R613/R614: zero-shot «တိုက်သည်» → termbase «လုယူသည်»	25	zeroshot
+5-784	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	25	zeroshot
+5-784	pāṇaṃ	သတ္တဝါ	သူ့အသက်	GENUINE	R412/R613/R614: zero-shot «သူ့အသက်» → termbase «သတ္တဝါ»	25	zeroshot
+5-785	karaṇaṃ	ပြုတတ်သော	ကွဲပြား	ARTEFACT	nānākaraṇaṃ 'diversity' «… ကွဲပြား…», another sense than karaṇaṃ «ပြုတတ်သော» (aññāṇakaraṇa)	25	zeroshot
+5-789	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	R095: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	25	zeroshot
+5-790	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	R096: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	25	zeroshot
+5-791	anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	L14: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	25	zeroshot
+5-793	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	25	zeroshot
+5-793	anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	L14: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	25	zeroshot
+5-797	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: mahapphalaṃ «အကျိုး ကြီးမားသော» (own entry), not phalaṃ «အသီးအပွင့်»	25	zeroshot
+5-797	anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	L14: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	25	zeroshot
+5-798	seṭṭhā	အကောင်းဆုံး	မြတ်သော	GENUINE	R097/R098/R099: zero-shot «မြတ်သော» → termbase «အကောင်းဆုံး»	25	zeroshot
+5-798	ṭhitā	တည်နေသော	တည်ပြီးသော	GENUINE	R097/R098/R099: zero-shot «တည်ပြီးသော» → termbase «တည်နေသော»	25	zeroshot
+5-798	jātā	ပေါ်ပေါက်သော	ဖြစ်ပေါ်သော	GENUINE	R097/R098/R099: zero-shot «ဖြစ်ပေါ်သော» → termbase «ပေါ်ပေါက်သော»	25	zeroshot
+5-798	uddissa	ရည်ရွယ်၍	ရည်စူး၍	GENUINE	R097/R098/R099: zero-shot «ရည်စူး၍» → termbase «ရည်ရွယ်၍»	25	zeroshot
+5-798	Vineyya	ပယ်ဖျောက်၍	ဖယ်ရှား၍	GENUINE	R097/R098/R099: zero-shot «ဖယ်ရှား၍» → termbase «ပယ်ဖျောက်၍»	25	zeroshot
+5-799	seṭṭho	အကောင်းဆုံး	မြတ်သော	GENUINE	L14/L19/L36: zero-shot «မြတ်သော» → termbase «အကောင်းဆုံး»	25	zeroshot
+5-799	buddhassa	ဘုရားရှင်	ဘုရား	GENUINE	L19/L36: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	25	zeroshot
+5-799	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: mahapphalaṃ «အကျိုး ကြီးမားသော» (own entry), not phalaṃ «အသီးအပွင့်»	25	zeroshot
+5-800	anuttaraṃ	ထိုထက် သာလွန်သည် မရှိသော	အမြတ်ဆုံး	GENUINE	L14: zero-shot «အမြတ်ဆုံး» → termbase «ထိုထက် သာလွန်သည် မရှိသော»	25	zeroshot
+5-801	phalaṃ	အသီးအပွင့် | ဖိုလ်	အကျိုး ကြီးမား	ARTEFACT	approved rails-step note: mahapphalaṃ «အကျိုး ကြီးမားသော» (own entry), not phalaṃ «အသီးအပွင့်»	25	zeroshot
+5-801	parakataṃ sukhadukkhaṃ	သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ	သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော	GENUINE	R100: zero-shot «သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော» → termbase «သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ»	25	zeroshot
+5-801	añño	တခြားစီ	အခြား	ARTEFACT	the reciprocal «añño … aññassa» «တစ်ယောက် … အခြားတစ်ယောက်» / «aññaṃ … aññaṃ» (decision añño|0: «Burmese speaker to check the last three»; the term «တခြားစီ» (separate) would misread the reciprocal; doubt)	25	zeroshot
+5-801	sukha	သာယာမှု | ချမ်းသာ	သုခ	GENUINE	R100: zero-shot «သုခ» → termbase «သာယာမှု | ချမ်းသာ»	25	zeroshot
+5-801	sukhadukkhaṃ	ချမ်းသာနှင့် ဆင်းရဲ | သာယာမှု နာကျင်မှု	သုခ ဒုက္ခ	GENUINE	R100: zero-shot «သုခ ဒုက္ခ» → termbase «ချမ်းသာနှင့် ဆင်းရဲ | သာယာမှု နာကျင်မှု»	25	zeroshot
+5-801	avasesā	ကြွင်းကျန်သော	ကြွင်းသော	GENUINE	R100: zero-shot «ကြွင်းသော» → termbase «ကြွင်းကျန်သော»	25	zeroshot
+5-802	parinibbuto	ပရိနိဗ္ဗာန် ပြုပြီးသော	ပရိနိဗ္ဗာန် ပြုတော်မူ	ARTEFACT	the Buddha's uses add the honorific «တော်မူ» (decision parinibbuto|0: ^5-281, ^5-802, ^5-896)	26	zeroshot
+5-802	jāto	ပေါ်ပေါက်သော	ဖွားမြင်တော်မူ	ARTEFACT	bhagavā jāto has its own entry «… ဖွားမြင်တော်မူသော» (decision jāto|0)	26	zeroshot
+5-802	dhamma	သဘောတရား | တရား | အရာ	ဓမ္မစကြာ	ARTEFACT	the fixed name dhammacakka «ဓမ္မစကြာ» (own phrase entry, §A12)	26	zeroshot
+5-802	āyu	သက်တမ်း	အသက်	GENUINE	R101/R616: zero-shot «အသက်» → termbase «သက်တမ်း»	26	zeroshot
+5-802	ārāma	ဥယျာဉ်	အရံ	GENUINE	R101/R616: zero-shot «အရံ» → termbase «ဥယျာဉ်»	26	zeroshot
+5-803	jāto	ပေါ်ပေါက်သော	ဖွားမြင်တော်မူ	ARTEFACT	bhagavā jāto has its own entry «… ဖွားမြင်တော်မူသော» (decision jāto|0)	26	zeroshot
+5-812	sacchikataṃ	မျက်မှောက်ပြုပြီးသော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	26	zeroshot
+5-829	sañjātaṃ	ကောင်းစွာ မွေးဖွားပြီးသော	ဟုတ်ပါသည်။ မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	27	zeroshot
+5-829	pātubhūtaṃ	ထင်ရှားလာပြီးသော	ဟုတ်ပါသည်။ မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	27	zeroshot
+5-829	nibbattaṃ	ပေါ်ထွက်ပြီးသော	ဟုတ်ပါသည်။ မမွေးဖွားသေး	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	27	zeroshot
+5-839	vitthāretabbaṃ	အကျယ် ချဲ့ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	27	zeroshot
+5-847	uppādako	ထွက်စေသူ	စိမ်းစေသူ	GENUINE	L18: zero-shot «စိမ်းစေသူ» → termbase «ထွက်စေသူ»	27	zeroshot
+5-852	viloketi	ဘေးသို့ ကြည့်သည်	ဝေ့ဝဲ ကြည့်သည်	GENUINE	R338: zero-shot «ဝေ့ဝဲ ကြည့်သည်» → termbase «ဘေးသို့ ကြည့်သည်»	27	zeroshot
+5-856	buddha	ဘုရားရှင်	ဘုရား	GENUINE	R617: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	27	zeroshot
+5-856	dassāvino	ရှုမြင်သော	မြင်သော	GENUINE	R617: zero-shot «မြင်သော» → termbase «ရှုမြင်သော»	27	zeroshot
+5-857	voropetvā	ချ၍	သတ်၍	GENUINE	R501: zero-shot «သတ်၍» → termbase «ချ၍»	28	zeroshot
+5-857	mātaraṃ voropetvā	အမိကို အသက်မှ ချ၍	အမိကို သတ်၍	GENUINE	R501: zero-shot «အမိကို သတ်၍» → termbase «အမိကို အသက်မှ ချ၍»	28	zeroshot
+5-857	vādī	ဆိုတော်မူသော | တစ်ဖက်သား	ပြောသူ	ARTEFACT	sakavādī «မိမိဘက်» (own approved entry) / musāvādī «… ပြောသော» (decision vādī|0: the honorific term is only for the Buddha)	28	zeroshot
+5-857	Asañcicca voropetvā	မရည်ရွယ်ဘဲ … အသက်မှ ချ၍	မရည်ရွယ်ဘဲ … သတ်၍	GENUINE	R501: zero-shot «မရည်ရွယ်ဘဲ … သတ်၍» → termbase «မရည်ရွယ်ဘဲ … အသက်မှ ချ၍»	28	zeroshot
+5-858	voropetvā	ချ၍	သတ်၍	GENUINE	R501: zero-shot «သတ်၍» → termbase «ချ၍»	28	zeroshot
+5-858	mātaraṃ voropetvā	အမိကို အသက်မှ ချ၍	အမိကို သတ်၍	GENUINE	R501: zero-shot «အမိကို သတ်၍» → termbase «အမိကို အသက်မှ ချ၍»	28	zeroshot
+5-858	jīvitā	အသက်	(no direct equivalent)	GENUINE	R501: zero-shot «(no direct equivalent)» → termbase «အသက်»	28	zeroshot
+5-858	mātaraṃ jīvitā	အမိကို အသက်	အမိ	GENUINE	R501: zero-shot «အမိ» → termbase «အမိကို အသက်»	28	zeroshot
+5-858	Asañcicca voropetvā	မရည်ရွယ်ဘဲ … အသက်မှ ချ၍	မရည်ရွယ်ဘဲ … သတ်၍	GENUINE	R501: zero-shot «မရည်ရွယ်ဘဲ … သတ်၍» → termbase «မရည်ရွယ်ဘဲ … အသက်မှ ချ၍»	28	zeroshot
+5-859	ruhiruppādako ānantariko	ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော	ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော	GENUINE	R618: zero-shot «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော» → termbase «ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-859	voropitā	ချခံရသော	သတ်ခဲ့ပြီးသော	GENUINE	R618: zero-shot «သတ်ခဲ့ပြီးသော» → termbase «ချခံရသော»	28	zeroshot
+5-859	jīvitā voropitā	အသက်မှ ချခံရသော	သတ်ခဲ့ပြီးသော	GENUINE	R618: zero-shot «သတ်ခဲ့ပြီးသော» → termbase «အသက်မှ ချခံရသော»	28	zeroshot
+5-859	jīvitā	အသက်	(no direct equivalent)	GENUINE	R618: zero-shot «(no direct equivalent)» → termbase «အသက်»	28	zeroshot
+5-859	uppādako	ထွက်စေသူ	စိမ်းစေသူ	GENUINE	R618: zero-shot «စိမ်းစေသူ» → termbase «ထွက်စေသူ»	28	zeroshot
+5-859	ruhiruppādako	ဘုရားရှင်၏ သွေးကို ထွက်စေသူ	ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ	GENUINE	R618: zero-shot «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ» → termbase «ဘုရားရှင်၏ သွေးကို ထွက်စေသူ»	28	zeroshot
+5-860	Dhammasaññī saṅghabhedako	တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ	တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ	GENUINE	L29: zero-shot «တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ» → termbase «တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ»	28	zeroshot
+5-860	Dhammasaññī ānantariko	တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော	တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော	GENUINE	L29: zero-shot «တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော» → termbase «တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-860	saññī	မှတ်သိသော	မှတ်ထင်သော	GENUINE	L29: zero-shot «မှတ်ထင်သော» → termbase «မှတ်သိသော»	28	zeroshot
+5-861	Dhammasaññī saṅghabhedako	တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ	တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ	GENUINE	L37: zero-shot «တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ» → termbase «တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ»	28	zeroshot
+5-861	Dhammasaññī ānantariko	တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော	တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော	GENUINE	L37: zero-shot «တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော» → termbase «တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-861	dhammasaññī ānantariko	တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော	တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော	GENUINE	L37: zero-shot «တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော» → termbase «တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-861	saññī	မှတ်သိသော	မှတ်ထင်သော	GENUINE	L29/L37: zero-shot «မှတ်ထင်သော» → termbase «မှတ်သိသော»	28	zeroshot
+5-862	dhammasaññī saṅghabhedako	တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ	တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ	GENUINE	layer: zero-shot «တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ» → termbase «တရားဟု မှတ်သိသော … သံဃာကို သင်းခွဲသူ»	28	zeroshot
+5-862	dhammasaññī ānantariko	တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော	တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော	GENUINE	layer: zero-shot «တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော» → termbase «တရားဟု မှတ်သိသော … အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-862	saññī	မှတ်သိသော	မှတ်ထင်သော	GENUINE	L29: zero-shot «မှတ်ထင်သော» → termbase «မှတ်သိသော»	28	zeroshot
+5-864	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	28	zeroshot
+5-868	bandhanaṃ	အနှောင်အဖွဲ့	အနှောင်	GENUINE	R102/R339/R416: zero-shot «အနှောင်» → termbase «အနှောင်အဖွဲ့»	28	zeroshot
+5-868	ādittāya	လောင်ကျွမ်းနေသော	ပူလောင်နေသော	GENUINE	R102/R339/R416: zero-shot «ပူလောင်နေသော» → termbase «လောင်ကျွမ်းနေသော»	28	zeroshot
+5-868	paccati	ပူလောင်ရသည်	ကျက်သည်	GENUINE	R102/R339/R416: zero-shot «ကျက်သည်» → termbase «ပူလောင်ရသည်»	28	zeroshot
+5-868	sabbadā	အချိန်တိုင်း	အမြဲ	GENUINE	R102/R339/R416: zero-shot «အမြဲ» → termbase «အချိန်တိုင်း»	28	zeroshot
+5-872	dvipadānaṃ	ခြေနှစ်ချောင်း ရှိသော	ခြေ နှစ်ချောင်း ရှိသော	GENUINE	R103/R104: zero-shot «ခြေ နှစ်ချောင်း ရှိသော» → termbase «ခြေနှစ်ချောင်း ရှိသော»	28	zeroshot
+5-872	seṭṭho	အကောင်းဆုံး	အမြတ်ဆုံး	GENUINE	R103/R104: zero-shot «အမြတ်ဆုံး» → termbase «အကောင်းဆုံး»	28	zeroshot
+5-872	seyyathidaṃ	ဆိုလိုသည်မှာ	ယင်းမှာ	GENUINE	R103/R104: zero-shot «ယင်းမှာ» → termbase «ဆိုလိုသည်မှာ»	28	zeroshot
+5-874	gacchati	သွားသည် | ရသည်	ရ	INFLECTION	the termbase verb in another form or sense entry of the same headword (saṅkhaṃ gacchati «… ရ…» / goes «ရောက်»; the one-syllable verb «ရ» keeps «သည်» in the loose test)	28	zeroshot
+5-875	para	သူတစ်ပါး | ကျော်	အခြား	GENUINE	R340: zero-shot «အခြား» → termbase «သူတစ်ပါး | ကျော်»	28	zeroshot
+5-877	pahātabbaṃ	ပယ်ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	28	zeroshot
+5-877	ruhiruppādako ānantariko	ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော	ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော	GENUINE	L18: zero-shot «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော» → termbase «ဘုရားရှင်၏ သွေးကို ထွက်စေသူသည် အနန္တရိယကံ ရှိသော»	28	zeroshot
+5-877	bhāvetabbaṃ	ပွားများရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	28	zeroshot
+5-877	pariññeyyaṃ	ပိုင်းခြား သိရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	28	zeroshot
+5-877	sacchikātabbaṃ	မျက်မှောက်ပြုရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	28	zeroshot
+5-877	uppādako	ထွက်စေသူ	စိမ်းစေသူ	GENUINE	L18: zero-shot «စိမ်းစေသူ» → termbase «ထွက်စေသူ»	28	zeroshot
+5-877	ruhiruppādako	ဘုရားရှင်၏ သွေးကို ထွက်စေသူ	ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ	GENUINE	L18: zero-shot «ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ» → termbase «ဘုရားရှင်၏ သွေးကို ထွက်စေသူ»	28	zeroshot
+5-882	buddha	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-883	buddhānaṃ	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-884	buddhānaṃ	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-884	pana	တစ်ဖန်	ဤ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	29	zeroshot
+5-885	buddhānaṃ	ဘုရားရှင်	ဘုရား	GENUINE	L09/L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-885	aṅga	အင်္ဂါ	ဘ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	29	zeroshot
+5-885	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	L09/L19: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	29	zeroshot
+5-885	dassana	အမြင်	သိမြင်သော ဉာဏ်	ARTEFACT	ñāṇadassana «… သိမြင်သော ဉာဏ်» as pi-4 vimuttiñāṇadassana (decision dassana|0 names it), not the noun «အမြင်»	29	zeroshot
+5-886	buddho	ဘုရားရှင်	ဘုရား	GENUINE	R105: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-886	buddhā	ဘုရားရှင်	ဘုရား	GENUINE	R105: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-886	buddhā tiṭṭhanti	ဘုရားရှင် တည်ရှိသည်	ဘုရား တည်ရှိသည်	GENUINE	R105: zero-shot «ဘုရား တည်ရှိသည်» → termbase «ဘုရားရှင် တည်ရှိသည်»	29	zeroshot
+5-886	dhāreti	ဝတ်သည်	ဆောင်သည်	GENUINE	R105: zero-shot «ဆောင်သည်» → termbase «ဝတ်သည်»	29	zeroshot
+5-886	mātā	အမိ	မိဘ	ARTEFACT	the dvanda mātāpitaro «မိဘ» (parents, one Burmese word)	29	zeroshot
+5-886	para	သူတစ်ပါး | ကျော်	ပရနိမ္မိတ	ARTEFACT	the proper name Paranimmitavasavattī «ပရနိမ္မိတဝသဝတ္တီ» (proper names stay names; decision para|0)	29	zeroshot
+5-891	buddhānaṃ	ဘုရားရှင်	ဘုရား	GENUINE	L09/L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	29	zeroshot
+5-891	buddhā tiṭṭhanti	ဘုရားရှင် တည်ရှိသည်	ဘုရားတို့ တည်ရှိသည်	GENUINE	L09/L19: zero-shot «ဘုရားတို့ တည်ရှိသည်» → termbase «ဘုရားရှင် တည်ရှိသည်»	29	zeroshot
+5-891	hīna	ယုတ်ညံ့သော	ယုတ်ခြင်း	GENUINE	L09/L19: zero-shot «ယုတ်ခြင်း» → termbase «ယုတ်ညံ့သော»	29	zeroshot
+5-893	buddha	ဘုရားရှင်	ဘုရား	GENUINE	L19: zero-shot «ဘုရား» → termbase «ဘုရားရှင်»	30	zeroshot
+5-894	saṃvattaniyaṃ kammaṃ	ဖြစ်စေတတ်သော ကံ	ပို့ဆောင်တတ်သော ကံ	GENUINE	R341/R417/R626: zero-shot «ပို့ဆောင်တတ်သော ကံ» → termbase «ဖြစ်စေတတ်သော ကံ»	30	zeroshot
+5-894	ussineti	စုပုံသည်	စုစည်းသည်	GENUINE	R341/R417/R626: zero-shot «စုစည်းသည်» → termbase «စုပုံသည်»	30	zeroshot
+5-894	ussinento	စုပုံသော	စုစည်းသော	GENUINE	R341/R417/R626: zero-shot «စုစည်းသော» → termbase «စုပုံသော»	30	zeroshot
+5-894	āneñja	မတုန်လှုပ်ခြင်း | အာနေဉ္ဇသပ္ပာယ	မတုန်မလှုပ်သော	GENUINE	R341/R417/R626: zero-shot «မတုန်မလှုပ်သော» → termbase «မတုန်လှုပ်ခြင်း | အာနေဉ္ဇသပ္ပာယ»	30	zeroshot
+5-894	saṃvattaniyaṃ	ဖြစ်စေတတ်သော	ပို့ဆောင်တတ်သော	GENUINE	R341/R417/R626: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေတတ်သော»	30	zeroshot
+5-894	visineti	ဖြန့်ကြဲသည်	ဖြန့်ကျက်သည်	GENUINE	R341/R417/R626: zero-shot «ဖြန့်ကျက်သည်» → termbase «ဖြန့်ကြဲသည်»	30	zeroshot
+5-894	visinetvā	ဖြန့်ကြဲ၍	ဖြန့်ကျက်၍	GENUINE	R341/R417/R626: zero-shot «ဖြန့်ကျက်၍» → termbase «ဖြန့်ကြဲ၍»	30	zeroshot
+5-894	visinento	ဖြန့်ကြဲသော	ဖြန့်ကျက်သော	GENUINE	R341/R417/R626: zero-shot «ဖြန့်ကျက်သော» → termbase «ဖြန့်ကြဲသော»	30	zeroshot
+5-894	sobhagya	ကောင်းသော ကံကြမ္မာ	ကောင်းကျိုး ချမ်းသာ	GENUINE	R341/R417/R626: zero-shot «ကောင်းကျိုး ချမ်းသာ» → termbase «ကောင်းသော ကံကြမ္မာ»	30	zeroshot
+5-894	apacināti	ဖြိုဖျက်သည်	ဖျက်ဆီးသည်	GENUINE	R341/R417/R626: zero-shot «ဖျက်ဆီးသည်» → termbase «ဖြိုဖျက်သည်»	30	zeroshot
+5-894	apacinanto	ဖြိုဖျက်သော	ဖျက်ဆီးသော	GENUINE	R341/R417/R626: zero-shot «ဖျက်ဆီးသော» → termbase «ဖြိုဖျက်သော»	30	zeroshot
+5-894	apacinitvā	ဖြိုဖျက်၍	ဖျက်ဆီး၍	GENUINE	R341/R417/R626: zero-shot «ဖျက်ဆီး၍» → termbase «ဖြိုဖျက်၍»	30	zeroshot
+5-896	parinibbuto	ပရိနိဗ္ဗာန် ပြုပြီးသော	ပရိနိဗ္ဗာန် ပြုတော်မူ	ARTEFACT	the Buddha's uses add the honorific «တော်မူ» (decision parinibbuto|0: ^5-281, ^5-802, ^5-896)	30	zeroshot
+5-896	ṭhito	တည်နေသော	တည်လျက်	ARTEFACT	the phrase entry ṭhito parinibbāyati «တည်သော … ပရိနိဗ္ဗာန် ပြုသည်» (āneñje ṭhito parinibbāyati)	30	zeroshot
+5-896	kiriyābyākate	ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ	GENUINE	R619/R620: zero-shot «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ» → termbase «ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»	30	zeroshot
+5-896	samanantarā	ချက်ချင်း နောက်၌	ချက်ချင်း	GENUINE	R619/R620: zero-shot «ချက်ချင်း» → termbase «ချက်ချင်း နောက်၌»	30	zeroshot
+5-896	āneñje	မတုန်လှုပ်သော အခြေ	မတုန်မလှုပ်သော အခြေ	GENUINE	R619/R620: zero-shot «မတုန်မလှုပ်သော အခြေ» → termbase «မတုန်လှုပ်သော အခြေ»	30	zeroshot
+5-896	vipākābyākate	ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော	ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး	GENUINE	R619/R620: zero-shot «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး» → termbase «ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော»	30	zeroshot
+5-901	hareyya	လုယူသည်	အ	ARTEFACT	the keyword map has no Burmese word for this keyword in the segment: a compound fragment, a particle or a relative pronoun absorbed in the Burmese construction (mapper rules Q7, rule 8, decision 4)	30	zeroshot
+5-901	pisuṇaṃ	ကုန်းတိုက်သော စကား	ကုန်းချောစကား	GENUINE	R106/R107: zero-shot «ကုန်းချောစကား» → termbase «ကုန်းတိုက်သော စကား»	30	zeroshot
+5-901	dānaṃ	ပေးလှူခြင်း	အလှူ	ARTEFACT	approved rails-step note: dānaṃ as the gift itself (dānaṃ deti / dadāti / datvā) «အလှူ», rendered by context	30	zeroshot
+5-901	bhojanīyaṃ	ဘောဇဉ်	စားဖွယ်	GENUINE	R106/R107: zero-shot «စားဖွယ်» → termbase «ဘောဇဉ်»	30	zeroshot
+5-901	ekāgārikaṃ kareyya	အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်	အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်သည်	GENUINE	R106/R107: zero-shot «အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်သည်» → termbase «အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်»	30	zeroshot
+5-901	kareyya	ပြုသည်	လုယက်	ARTEFACT	ekāgārikaṃ kareyya: the robbery phrase entry «… ဝိုင်းဝန်း၍ လုယက်သည်» (decision kareyya|0)	30	zeroshot
+5-903	ādeyya	လက်ခံထိုက်သော	မရ	ARTEFACT	privative fragment: the keyword is the positive part of an-uppanna / a-niruddha / a-pariññāta / a-ppaṭividdha / a-sacchikata / a-sañjāta / a-nibbatta / a-pātubhūta / an-abhinibbatta / a-manasikāra, rendered «မ … (သေး)» (style rule)	30	zeroshot
+5-903	palāpassa	ပြိန်ဖျင်းသော စကား	စကား	GENUINE	R108/R621: zero-shot «စကား» → termbase «ပြိန်ဖျင်းသော စကား»	30	zeroshot
+5-903	bhāvito	ပွားများပြီးသော	ပွားများထား	ARTEFACT	the formula bhāvitā bahulīkatā … «ပွားများထား…» keeps its own phrase-entry wording (decision bhāvitā|0)	30	zeroshot
+5-903	amanāpa	စိတ်နှင့် မတွေ့ဖွယ်	မနှစ်သက်ဖွယ်	GENUINE	R108/R621: zero-shot «မနှစ်သက်ဖွယ်» → termbase «စိတ်နှင့် မတွေ့ဖွယ်»	30	zeroshot
+5-903	pisuṇāya	ကုန်းတိုက်သော	ကုန်းချောစကား	GENUINE	R108/R621: zero-shot «ကုန်းချောစကား» → termbase «ကုန်းတိုက်သော»	30	zeroshot
+5-903	saṃvattaniko	ဖြစ်စေတတ်သော	ပို့ဆောင်တတ်သော	GENUINE	R108/R621: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေတတ်သော»	30	zeroshot
+5-903	nirayasaṃvattaniko	ငရဲကို ဖြစ်စေတတ်သော	ငရဲသို့ ပို့ဆောင်တတ်သော	GENUINE	R108/R621: zero-shot «ငရဲသို့ ပို့ဆောင်တတ်သော» → termbase «ငရဲကို ဖြစ်စေတတ်သော»	30	zeroshot
+5-904	bhāvitā	ပွားများပြီးသော	ပွားများထား	ARTEFACT	the formula bhāvitā bahulīkatā … «ပွားများထား…» keeps its own phrase-entry wording (decision bhāvitā|0)	30	zeroshot
+5-904	saṃvattanikā	ဖြစ်စေသော	ပို့ဆောင်တတ်သော	GENUINE	L28: zero-shot «ပို့ဆောင်တတ်သော» → termbase «ဖြစ်စေသော»	30	zeroshot
+5-904	nirayasaṃvattanikā	ငရဲကို ဖြစ်စေတတ်သော	ငရဲသို့ ပို့ဆောင်တတ်သော	GENUINE	L28: zero-shot «ငရဲသို့ ပို့ဆောင်တတ်သော» → termbase «ငရဲကို ဖြစ်စေတတ်သော»	30	zeroshot
+5-905	bhāvitā	ပွားများပြီးသော	ပွားများထား	ARTEFACT	the formula bhāvitā bahulīkatā … «ပွားများထား…» keeps its own phrase-entry wording (decision bhāvitā|0)	30	zeroshot
+5-905	parāyanā	မှီခိုရာ	ဆုံးခန်းတိုင်ရာ	GENUINE	R342: zero-shot «ဆုံးခန်းတိုင်ရာ» → termbase «မှီခိုရာ»	30	zeroshot
+5-906	jātaṃ	မွေးဖွားပြီးသော	အတူ ပေါ်ပေါက်	ARTEFACT	sahajātaṃ (co-arisen states): kept «… အတူ ပေါ်ပေါက်သော», the termbase's own sahajāta / sahajātā / sahajāto / sahajātānaṃ dhammānaṃ «အတူ ပေါ်ပေါက်…» in the same lists (jātaṃ «မွေးဖွားပြီးသော» would split one compound into two words; termbase doubt)	30	zeroshot
+5-906	samannāhāro	စိတ်ကို ဆောင်ခြင်း	နှလုံးသွင်းမှု	GENUINE	R622/R623: zero-shot «နှလုံးသွင်းမှု» → termbase «စိတ်ကို ဆောင်ခြင်း»	30	zeroshot
+5-906	ajjhattikaṃ	အတွင်းပိုင်း	မိမိ၏	GENUINE	R622/R623: zero-shot «မိမိ၏» → termbase «အတွင်းပိုင်း»	30	zeroshot
+5-906	khaṇikā	ခဏ၌သာ ဖြစ်သော	ခဏမျှသာ တည်သော	GENUINE	R622/R623: zero-shot «ခဏမျှသာ တည်သော» → termbase «ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-906	cittakkhaṇikā	စိတ် … ခဏ၌သာ ဖြစ်သော	စိတ် … ခဏမျှသာ တည်သော	GENUINE	R622/R623: zero-shot «စိတ် … ခဏမျှသာ တည်သော» → termbase «စိတ် … ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-906	Ekacittakkhaṇikā	စိတ် တစ်ခဏ၌သာ ဖြစ်သော	စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော	GENUINE	R622/R623: zero-shot «စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော» → termbase «စိတ် တစ်ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-907	ṭhito	တည်နေသော	တည်လျက်	ARTEFACT	the phrase entry ṭhito parinibbāyati «တည်သော … ပရိနိဗ္ဗာန် ပြုသည်» (āneñje ṭhito parinibbāyati)	30	zeroshot
+5-907	āneñje	မတုန်လှုပ်သော အခြေ	မတုန်မလှုပ်သော အခြေ	GENUINE	R624: zero-shot «မတုန်မလှုပ်သော အခြေ» → termbase «မတုန်လှုပ်သော အခြေ»	30	zeroshot
+5-907	khaṇikā	ခဏ၌သာ ဖြစ်သော	ခဏမျှသာ တည်သော	GENUINE	R624: zero-shot «ခဏမျှသာ တည်သော» → termbase «ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-907	cittakkhaṇikā	စိတ် … ခဏ၌သာ ဖြစ်သော	စိတ် … ခဏမျှသာ တည်သော	GENUINE	R624: zero-shot «စိတ် … ခဏမျှသာ တည်သော» → termbase «စိတ် … ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-907	ekacittakkhaṇikā	စိတ် တစ်ခဏ၌သာ ဖြစ်သော	စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော	GENUINE	R624: zero-shot «စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော» → termbase «စိတ် တစ်ခဏ၌သာ ဖြစ်သော»	30	zeroshot
+5-907	vipariṇāmadhammā	ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော	ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော	GENUINE	R624: zero-shot «ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော» → termbase «ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော»	30	zeroshot
+5-908	cheditabbo	ဖောက်ထွင်းရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	palapitabbaṃ	ပြောရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	ghātako	သတ်သူ | ဖျက်ဆီးရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	pisuṇaṃ	ကုန်းတိုက်သော စကား	ကုန်းချောစကား	GENUINE	L29: zero-shot «ကုန်းချောစကား» → termbase «ကုန်းတိုက်သော စကား»	31	zeroshot
+5-908	paṭisevitabbo	မှီဝဲရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	hantabbo	သတ်ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	ṭhātabbaṃ	ဓားပြ တိုက်ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	ekāgārikaṃ kātabbaṃ	အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်ရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-908	bhaṇitabbā	ပြောရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-909	pisuṇaṃ	ကုန်းတိုက်သော စကား	ကုန်းချောစကား	GENUINE	L29: zero-shot «ကုန်းချောစကား» → termbase «ကုန်းတိုက်သော စကား»	31	zeroshot
+5-910	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-911	citta	စိတ် | အရောင်စုံ	စိတ္တ	ARTEFACT	the iddhipāda name «စိတ္တ» (decision citta|0: «စိတ္တ» only the iddhipāda name at ^5-911)	31	zeroshot
+5-911	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	R418: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-911	upapajjeyya	ရောက်သည်	ပြန်လည် ဖြစ်ပေါ်သည်	GENUINE	R418: zero-shot «ပြန်လည် ဖြစ်ပေါ်သည်» → termbase «ရောက်သည်»	31	zeroshot
+5-912	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-913	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	L04/L32: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-913	akāsi	ပြုခဲ့သည်	ကျင့်ခဲ့သည်	GENUINE	L32: zero-shot «ကျင့်ခဲ့သည်» → termbase «ပြုခဲ့သည်»	31	zeroshot
+5-914	Issariyakāmakārikākathā	အစိုးရခြင်းဖြင့် အလိုရှိတိုင်း ပြုခြင်းအကြောင်း ဆွေးနွေးချက်	မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်းအကြောင်း ဆွေးနွေးချက်	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်းအကြောင်း ဆွေးနွေးချက်» → termbase «အစိုးရခြင်းဖြင့် အလိုရှိတိုင်း ပြုခြင်းအကြောင်း ဆွေးနွေးချက်»	31	zeroshot
+5-914	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	L04: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-917	parinipphannaṃ	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ပြည့်စုံစွာ ပြီးမြောက်သော	GENUINE	L26: zero-shot «ပြည့်စုံစွာ ပြီးမြောက်သော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	31	zeroshot
+5-917	Dukkhaṃ parinipphannaṃ	ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော	GENUINE	L26: zero-shot «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော» → termbase «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	31	zeroshot
+5-918	paṭisevitabbo	မှီဝဲရမည့်	ရမည်	INFLECTION	finite «…ရမည်» (the gerundive ends the sentence) of the attributive termbase form «…ရမည့်» (the keyword map's own value is the term)	31	zeroshot
+5-918	parinipphannaṃ	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ပြည့်စုံစွာ ပြီးမြောက်သော	GENUINE	R109/R502: zero-shot «ပြည့်စုံစွာ ပြီးမြောက်သော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	31	zeroshot
+5-918	parinipphanna	ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ပြည့်စုံစွာ ပြီးမြောက်သော	GENUINE	R109/R502: zero-shot «ပြည့်စုံစွာ ပြီးမြောက်သော» → termbase «ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	31	zeroshot
+5-918	samāhitā	တည်ကြည်သော	ကောင်းစွာ တည်သော	GENUINE	R109/R502: zero-shot «ကောင်းစွာ တည်သော» → termbase «တည်ကြည်သော»	31	zeroshot
+5-918	issariya	အစိုးရခြင်း	မိမိ၏ အစွမ်း	GENUINE	R109/R502: zero-shot «မိမိ၏ အစွမ်း» → termbase «အစိုးရခြင်း»	31	zeroshot
+5-918	Dukkhaṃ parinipphannaṃ	ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော	ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော	GENUINE	R109/R502: zero-shot «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော» → termbase «ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော»	31	zeroshot
+5-658	kareyya	ပြုသည်	လက်ယာရစ်	ARTEFACT	padakkhiṇaṃ kareyya: the idiom «လက်ယာရစ် …» (one Burmese verb for the phrase)	21	rails
+5-779	kareyya	ပြုသည်	လက်ယာရစ်	ARTEFACT	padakkhiṇaṃ kareyya: the idiom «လက်ယာရစ် …» (one Burmese verb for the phrase)	25	rails

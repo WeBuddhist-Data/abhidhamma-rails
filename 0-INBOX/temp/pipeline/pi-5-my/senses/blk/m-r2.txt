@@ -1,0 +1,89 @@
+    # ---- REVIEW batch 2 ----
+    ('gandhā', [
+        ('odours, objects of the nose (nominative pl.)', ['အနံ့']),
+        ("stench of corruption, in nirāmagandhā 'free from the stench of corruption' (compound final)",
+         ['အပုပ်နံ့']),
+    ]),
+    ('ṭhānaṃ', [
+        ("ground, occasion, in vivādaṭṭhānaṃ 'ground for dispute' (compound final, nominative sg.), here in "
+         "diṭṭhiṭṭhānaṃ 'a basis of views'", ['တည်ရာ']),
+        ("place, position, in 'āsabhaṃ ṭhānaṃ' 'the place of the leader' (accusative sg.), here the heavenly "
+         "abode, in 'saggamupenti ṭhānaṃ'", ['ဌာန']),
+    ]),
+    ('dhammo', [
+        ('having the nature of, of such a character (compound final), as in kuppadhammo and akuppadhammo and in '
+         'pāpadhammo and kalyāṇadhammo', ['သဘော ရှိသော']),
+        ("the teaching, the Dhamma of the good, in 'sataṃ dhammo' and 'buddhena dhammo desito' (nominative sg.)",
+         ['တရား']),
+        ('a phenomenon, a state (nominative sg.)', ['သဘောတရား']),
+        ("practice, in methuno dhammo 'sexual intercourse' (nominative sg.)", ['အကျင့်']),
+    ]),
+    ('uppāda', [
+        ('arising, origination (compound member), also in anuppādadhamma and uppādakkhaṇa',
+         ['ဖြစ်ပေါ်တော့သော', 'ဖြစ်ခြင်း']),
+        ("causing to flow, in ruhiruppāda 'the shedding of blood' (compound member)", ['ထွက်စေခြင်း']),
+    ]),
+    ('pādā', [
+        ("bases, in iddhipādā 'bases of power' (nominative pl., compound final)", ['ပါဒ်']),
+        ('the feet, the body part (nominative pl.)', ['ခြေ']),
+    ]),
+    ('su', [
+        ('"well", intensifying prefix in subuddho, also good, in sugandha \'fragrant\'', ['ကောင်းစွာ', 'မွှေးသော']),
+    ]),
+    ('yogo', [
+        ('yoke, bond binding to existence (nominative sg.)', ['ထမ်းပိုး']),
+        ("effort, application, in pubbayogo 'former effort' (compound final)", ['အားထုတ်မှု']),
+    ]),
+    ('dhāreti', [
+        ('puts on (3rd sg. present), also bears, carries', ['ဝတ်သည်', 'ဆောင်သည်']),
+    ]),
+    ('khu', [
+        # new in pi-5: the citation khu. pā. and the extractor fragment of dhammacakkhuṃ (^5-278)
+        ('abbreviated citation of the Khuddakapāṭha (khu. pā.)', ['“ခုဒ္ဒကပါဌ”']),
+        ("eye, the fragment of dhammacakkhu 'the eye of the Dhamma' (compound final)", ['မျက်စိ']),
+    ]),
+    ('jātiyā', [
+        ("existence, life-time, in tāya jātiyā 'in that same life' (instrumental)", ['ဘဝ']),
+        ('birth, being born, as a link of dependent origination, in jātiyā ñāṇaṃ (locative), here also rebirth',
+         ['မွေးဖွားခြင်း', 'ပဋိသန္ဓေ နေခြင်း']),
+    ]),
+    ('āma', [
+        ("uncooked flesh, in āmagandha 'smell of raw flesh' (compound member)", ['အစိမ်း']),
+        ("yes, the assent 'āma' (indeclinable)", ['ဟုတ်ပါသည်']),
+    ]),
+    ('katvā', [
+        ('having performed, in uposathakammaṃ katvā (absolutive), here in kammaṃ katvā', ['ပြု၍']),
+        ('treating as, on the ground that, in the idiom iti katvā (absolutive)', ['အကြောင်းပြု၍', 'မှတ်ယူ၍']),
+    ]),
+    ('gatā', [
+        ('gone, arrived (rightly), in sammaggatā (nominative pl. participle), here in saṅghagatā', ['ရောက်သော']),
+        ('directed to, concerned with, in kāyagatāsati (compound member)', ['အာရုံပြုသော']),
+    ]),
+    ('assa', [
+        ('his, of him (genitive pronoun)', ['ထိုသူ']),
+        ('horse, the steed, in assaratana and hatthigavassa (compound member)', ['မြင်း']),
+    ]),
+    ('vādo', [
+        ("speaking, in musāvādo 'false speech' (compound final)", ['ပြောခြင်း']),
+        ('a doctrine, a school, in sabbatthivādo (compound final)', ['ဝါဒ']),
+    ]),
+    ('sukka', [
+        ('white, pure (compound member)', ['ဖြူစင်သော']),
+        ('seminal fluid, in sukkavissaṭṭhi (compound member)', ['သုက်']),
+    ]),
+    ('pīta', [
+        ('drunk, what has been drunk, in asitapītakhāyitasāyita (compound member)', ['သောက်']),
+        ('yellow, the yellow meditation device (compound member)', ['အဝါ']),
+    ]),
+    ('uppādeyya', [
+        ("would cause, as in shedding the Buddha's blood (optative), also would bring about, in methunaṃ uppādeyya",
+         ['ထွက်စေသည်', 'ဖြစ်စေသည်']),
+    ]),
+    ('bhedo', [
+        ('breaking up, dissolution, in the impermanence list (nominative sg.)', ['ပြိုပျက်ခြင်း']),
+        ("breaking forth, in vacībhedo 'utterance of speech' (nominative sg.)", ['စကား ထွက်ခြင်း']),
+    ]),
+    ('ghātako', [
+        ('one who kills, executes (nominative)', ['သတ်သူ']),
+        ('raider, destroyer, in gāmaghātako and nigamaghātako (compound final)', ['ဖျက်ဆီးရမည့်']),
+    ]),

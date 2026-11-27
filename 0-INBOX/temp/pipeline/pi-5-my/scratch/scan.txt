@@ -1,0 +1,79 @@
+A1 ^5-332 (no quote in the Pāli): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A1 ^5-407 (unquoted «sotāpannoti vattabbo»): 6 lines; chosen 0 -> 6; other forms 6 -> 0
+A1 ch17 ^5-556 (unquoted «sānusayoti / sarāgoti vattabbo»): 1 lines; chosen 0 -> 2; other forms 2 -> 0
+A1 ch17 ^5-558 (unquoted «ñāṇīti / paññavāti vattabbo»): 1 lines; chosen 0 -> 2; other forms 2 -> 0
+A1 ^5-514 verse line opening «"» = «“» (one rule in line_my): 1 lines; chosen 1 -> 1
+A1 «Na vattabbaṃ – P-ti?» without quotes (^5-445, ^5-465, ^5-475, ^5-853, ^5-885 …): 5 lines; chosen 0 -> 5; other forms 5 -> 0
+A1 asmimāna «ငါဟူသော» (no quote pair added): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A2 the sample's regular “…” / ‘…’ nesting kept; stanzas keep their own marks: 127 lines; chosen 297 -> 297
+A3 Nirāmagandhā (no added «ကိလေသာ»): 2 lines; chosen 2 -> 2; other forms 2 -> 0
+A3 «Nanu "paṭhamaṃ jhānaṃ … niruddhā hotī"ti!» (no verb supplied): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A3 «Atītaṃ khandhā» (the copula that a Burmese nominal question needs: kept): 1 lines; chosen 1 -> 1
+A3 «… nuppajjissatīti katvā pahīnaṃ» (no added «ထိုအရာကို»): 4 lines; chosen 0 -> 10; other forms 10 -> 0
+A3 sammukhībhūta (no added «နှောင်ကြိုးနှင့်»): 6 lines; chosen 8 -> 8; other forms 8 -> 0
+A4 ^5-43 (no comma before «cakkhāyatanañca»): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A4 ^5-274 (no comma «… samannāgato ekadesaṃ …»): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A4 ^5-292 (no comma «… atthi puthujjano tena …»): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A4 «X kusalampi akusalampi» (no comma: no «၊»): 4 lines; chosen 5 -> 15; other forms 4 -> 0
+A4 ^5-306 «Paṭhamavaggo» (no full stop: none added): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+A4 ^5-116 / ^5-164 / ^5-323 / ^5-379 / ^5-456 / ^5-509 (missing dash / …pe… / quotes: as written): 2 lines; chosen 4 -> 4
+B1 vagga ordinals 18-23 = the Pāli ordinals (pi-3 naya names): 50 lines; chosen 0 -> 50; other forms 50 -> 0
+B1 vagga ordinals 1-17 (Pāli ordinals, unchanged): 181 lines; chosen 181 -> 181
+B2 aveccappasāda: 5 lines; chosen 2 -> 5; other forms 3 -> 0
+B2 aṇusahagata: 21 lines; chosen 20 -> 38; other forms 18 -> 0
+B2 ucchinnamūla … anuppādadhamma: 10 lines; chosen 4 -> 19; other forms 15 -> 0
+B2 bodhagāmī: 8 lines; chosen 7 -> 12; other forms 5 -> 0
+B2 rūparāga / arūparāga (pi-2 ^2-U49): 20 lines; chosen 44 -> 48; other forms 4 -> 0
+B2 dukkhanirodhagāminī paṭipadā (pi-2 ^2-189): 9 lines; chosen 9 -> 16; other forms 7 -> 0
+B2 «dibbena cakkhunā rūpaṃ passati» (rūpa seen = «အဆင်းအရောင်», pi-2 ^2-517; the sample changes): 5 lines; chosen 0 -> 5; other forms 5 -> 0
+B2 jahati «စွန့်ပယ်» (kept apart from pajahati «ပယ်»): 23 lines; chosen 43 -> 59; other forms 16 -> 0
+B2 sāmaññaphala (pi-2 ^2-818): 10 lines; chosen 2 -> 14; other forms 12 -> 0
+B2 (gandhaṃ) ghāyati (pi-1 ^1-1352 / pi-2 ^2-517): 14 lines; chosen 3 -> 18; other forms 13 -> 0
+B2 (rasaṃ) sāyati (pi-1 ^1-1352 / pi-2 ^2-517): 14 lines; chosen 7 -> 19; other forms 12 -> 0
+B2 kameyya: 6 lines; chosen 3 -> 33; other forms 30 -> 0
+B2 paṇṇāsaka «ငါးဆယ်အစု»: 5 lines; chosen 5 -> 5
+B2 Saṅgaha (the paṇṇāsaka uddāna, ^5-604) = the ch15 heading: 1 lines; chosen 0 -> 1; other forms 1 -> 0
+B2 Suttasādhanaṃ heading (ch5 / ch6 the same): 2 lines; chosen 2 -> 2
+B2 the vagga-1 uddāna = the kathā headings: 2 lines; chosen 0 -> 2; other forms 3 -> 0
+B2 the paṇṇāsaka uddānas = the kathā headings (niggaho, puññasañcayo, Mahā, vavatthitā): 3 lines; chosen 0 -> 3; other forms 5 -> 0
+B3 ovāda / anusāsanī (natural words; «ဆုံးမ» in every checker's non-negation list): 2 lines; chosen 0 -> 2; other forms 3 -> 0
+B3 pāpakamma = the sample's «ယုတ်မာသော ကံ»: 3 lines; chosen 2 -> 4; other forms 2 -> 0
+B3 avipāka «အကျိုး မရှိသော» (was avoided for the existence checker): 13 lines; chosen 6 -> 23; other forms 18 -> 0
+B3 gūtha / mutta «ကျင်ကြီး / ကျင်ငယ်» (natural; kept): 5 lines; chosen 7 -> 7
+B4 paṭipannaka = pi-4 «ကျင့်ကြံသူ» (apart from sekha «ကျင့်ကြံဆဲသူ»): 5 lines; chosen 0 -> 13; other forms 13 -> 0
+B4 sekha «ကျင့်ကြံဆဲသူ» (pi-1): 3 lines; chosen 10 -> 10
+B4 saṅgahita «အကျုံးဝင်» / the ^5-472 simile «စုစည်းထား» (tied together: a sense difference, kept): 1 lines; chosen 6 -> 6
+B4 bandhana «အနှောင်အဖွဲ့» (kept apart from saṃyojana «နှောင်ကြိုး»): 2 lines; chosen 0 -> 18; other forms 20 -> 0
+B5 «"P"ti – (n)attheva suttanto» = «“P”ဟု – ထိုသို့သော သုတ္တန် …»: 16 lines; chosen 12 -> 40; other forms 36 -> 0
+B5 the closing «ti» of a quotation before the reference = «”» (sample): 92 lines; chosen 67 -> 92; other forms 24 -> 0
+B5 «… ti – atthi adhippāyaiddhi» = «ဟု –»: 5 lines; chosen 0 -> 7; other forms 7 -> 0
+B5 «Nanu āyasmā sāriputto etadavoca –» = ch11 «… ဤသို့ ပြောခဲ့သည် မဟုတ်လော –»: 3 lines; chosen 1 -> 3; other forms 2 -> 0
+B5 «X-ti katvā P-ti?» = «Xဟု အကြောင်းပြု၍ Pသလော» (sample KATVA): 22 lines; chosen 41 -> 41
+B6 the āvaṭṭanā list (ch15): 78 lines; chosen 59 -> 222; other forms 164 -> 0
+B6 «atthi / natthi tassa (tāya) āvaṭṭanā» = «ထိုအရာ၌ …»: 57 lines; chosen 115 -> 175; other forms 60 -> 0
+B6 (s)ārammaṇa as predicate = «အာရုံ (မ)ရှိသော အရာ (ဖြစ်)»: 84 lines; chosen 165 -> 295; other forms 45 -> 0
+B6 «kāyena phusitvā viharati» (pi-4 ^4-1): 22 lines; chosen 20 -> 47; other forms 27 -> 0
+B6 the X-sotāpanno / phalappatto stock passage = ch3: 18 lines; chosen 6 -> 19; other forms 13 -> 0
+B6 the arahant's epithets = ch2: 7 lines; chosen 4 -> 7; other forms 6 -> 0
+B6 the Ratana verse (ch3): 3 lines; chosen 1 -> 3; other forms 2 -> 0
+B6 the Dhammapada 239 verse (ch3): 2 lines; chosen 1 -> 2; other forms 1 -> 0
+B6 «kusalākusalā sāvajjānavajjā hīnapaṇītā kaṇhasukkasappaṭibhāgā» (pi-4 ^4-104): 5 lines; chosen 6 -> 9; other forms 3 -> 0
+B6 sammukhībhāvaṃ āgacchanti (ch15): 18 lines; chosen 3 -> 29; other forms 26 -> 0
+B6 the far-things sutta (a. ni. 4.47; ch15): 7 lines; chosen 1 -> 7; other forms 7 -> 0
+B6 «latā viya vaḍḍhati, māluvā viya …» (ch15): 2 lines; chosen 1 -> 2; other forms 2 -> 0
+B6 tāṇaṃ leṇaṃ saraṇaṃ parāyaṇaṃ accutaṃ amataṃ (ch10): 2 lines; chosen 0 -> 2; other forms 4 -> 0
+B6 amata «အမြိုက်» (ch10 / ch17): 2 lines; chosen 0 -> 6; other forms 6 -> 0
+B6 kāyakamma / vacīkamma (ch14 …): 4 lines; chosen 2 -> 6; other forms 3 -> 0
+B6 saphala / savipāka = the sample: 8 lines; chosen 40 -> 48; other forms 4 -> 0
+B6 (kappaṃ) tiṭṭheyya «တည်နေရာ» (ch19): 4 lines; chosen 18 -> 25; other forms 8 -> 0
+B6 the saṅghabheda verse (ch21): 2 lines; chosen 0 -> 2; other forms 2 -> 0
+B6 kusalābyākate citte vattamāne (ch19): 5 lines; chosen 8 -> 10; other forms 2 -> 0
+B6 «Taṃ kissa hetu?» (pi-2 / pi-4): 2 lines; chosen 0 -> 2; other forms 2 -> 0
+B6 «Ratto rāgaṃ jahati, … / Rāgo cittasampayutto, …» (the sample's «P, Q» = «Pသည်၊ Q», ch27): 6 lines; chosen 3 -> 9; other forms 6 -> 0
+B6 paggahaniggahupaga chedanabhedanupaga (ch5): 3 lines; chosen 3 -> 5; other forms 2 -> 0
+B7 «-ti kathā» headings «…ဟူသော» (attached): 4 lines; chosen 0 -> 4; other forms 4 -> 0
+B7 tatheva in the uddānas = the sample's «ထိုအတိုင်းပင်»: 3 lines; chosen 0 -> 4; other forms 4 -> 0
+B7 bhāṇavāra (pi-1 ^1-57): 1 lines; chosen 0 -> 1; other forms 1 -> 0
+B7 the book colophon (pi-1 … pi-4 pattern): 1 lines; chosen 1 -> 1
+B7 kathā colophons «“X” ပြီးဆုံးပြီ။» = the heading names: 219 lines; chosen 219 -> 219
+78 / 78 items OK

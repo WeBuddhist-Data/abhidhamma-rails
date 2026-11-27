@@ -1,0 +1,34 @@
+preamble	lines 3	keywords 11	bad []	presence failures 0	punct []	ending-rule chunks 1	(no direct equivalent) 0
+1-puggalakatha	lines 269	keywords 3863	bad []	presence failures 0	punct []	ending-rule chunks 491	(no direct equivalent) 10
+2-parihanikatha	lines 34	keywords 911	bad []	presence failures 0	punct []	ending-rule chunks 153	(no direct equivalent) 11
+3-brahmacariyakatha	lines 14	keywords 536	bad []	presence failures 0	punct []	ending-rule chunks 108	(no direct equivalent) 2
+4-jahatikatha	lines 6	keywords 241	bad []	presence failures 0	punct []	ending-rule chunks 20	(no direct equivalent) 4
+5-sabbamatthitikatha	lines 26	keywords 646	bad []	presence failures 0	punct []	ending-rule chunks 109	(no direct equivalent) 6
+6-atitakkhandhadikatha	lines 5	keywords 88	bad []	presence failures 0	punct []	ending-rule chunks 18	(no direct equivalent) 0
+7-ekaccam-atthitikatha	lines 5	keywords 42	bad []	presence failures 0	punct []	ending-rule chunks 11	(no direct equivalent) 0
+8-satipatthanakatha	lines 4	keywords 166	bad []	presence failures 0	punct []	ending-rule chunks 8	(no direct equivalent) 2
+9-hevatthikatha	lines 4	keywords 63	bad []	presence failures 0	punct []	ending-rule chunks 1	(no direct equivalent) 0
+10-dutiyavaggo	lines 69	keywords 2071	bad []	presence failures 0	punct []	ending-rule chunks 337	(no direct equivalent) 36
+11-tatiyavaggo	lines 57	keywords 1071	bad []	presence failures 0	punct []	ending-rule chunks 140	(no direct equivalent) 19
+12-catutthavaggo	lines 51	keywords 1139	bad []	presence failures 0	punct []	ending-rule chunks 204	(no direct equivalent) 13
+13-pancamavaggo	lines 47	keywords 696	bad []	presence failures 0	punct []	ending-rule chunks 84	(no direct equivalent) 4
+14-chatthavaggo	lines 46	keywords 684	bad []	presence failures 0	punct []	ending-rule chunks 67	(no direct equivalent) 0
+15-sattamavaggo	lines 52	keywords 887	bad []	presence failures 0	punct []	ending-rule chunks 90	(no direct equivalent) 4
+16-atthamavaggo	lines 66	keywords 1340	bad []	presence failures 0	punct []	ending-rule chunks 64	(no direct equivalent) 7
+17-navamavaggo	lines 46	keywords 660	bad []	presence failures 0	punct []	ending-rule chunks 81	(no direct equivalent) 2
+18-dasamavaggo	lines 56	keywords 790	bad []	presence failures 0	punct []	ending-rule chunks 91	(no direct equivalent) 1
+19-ekadasamavaggo	lines 41	keywords 682	bad []	presence failures 0	punct []	ending-rule chunks 80	(no direct equivalent) 5
+20-dvadasamavaggo	lines 44	keywords 581	bad []	presence failures 0	punct []	ending-rule chunks 92	(no direct equivalent) 3
+21-terasamavaggo	lines 52	keywords 788	bad []	presence failures 0	punct []	ending-rule chunks 127	(no direct equivalent) 2
+22-cuddasamavaggo	lines 43	keywords 745	bad []	presence failures 0	punct []	ending-rule chunks 61	(no direct equivalent) 6
+23-pannarasamavaggo	lines 54	keywords 664	bad []	presence failures 0	punct []	ending-rule chunks 61	(no direct equivalent) 5
+24-solasamavaggo	lines 53	keywords 724	bad []	presence failures 0	punct []	ending-rule chunks 66	(no direct equivalent) 3
+25-sattarasamavaggo	lines 48	keywords 713	bad []	presence failures 0	punct []	ending-rule chunks 109	(no direct equivalent) 2
+26-attharasamavaggo	lines 44	keywords 626	bad []	presence failures 0	punct []	ending-rule chunks 103	(no direct equivalent) 0
+27-ekunavisatimavaggo	lines 45	keywords 626	bad []	presence failures 0	punct []	ending-rule chunks 45	(no direct equivalent) 7
+28-visatimavaggo	lines 33	keywords 520	bad []	presence failures 0	punct []	ending-rule chunks 76	(no direct equivalent) 8
+29-ekavisatimavaggo	lines 30	keywords 411	bad []	presence failures 0	punct []	ending-rule chunks 49	(no direct equivalent) 7
+30-bavisatimavaggo	lines 32	keywords 497	bad []	presence failures 0	punct []	ending-rule chunks 105	(no direct equivalent) 1
+31-tevisatimavaggo	lines 21	keywords 320	bad []	presence failures 0	punct []	ending-rule chunks 43	(no direct equivalent) 2
+TOTAL {'lines': 1400, 'kw': 23802, 'bad': 0, 'fails': 0, 'punct': 0, 'ruled': 3095, 'nne': 172}
+ending rules {'verb': 1171, 'attr': 1733, 'attr-fut': 20, 'abs': 31, 'neg-abs': 22, 'neg-verb': 19, 'perf-pred': 97, 'neg-infix': 2}

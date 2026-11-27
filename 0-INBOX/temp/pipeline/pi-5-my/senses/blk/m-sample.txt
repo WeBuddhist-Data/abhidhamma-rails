@@ -1,0 +1,75 @@
+    ('vatthu', [
+        # pi-4 basis «အကြောင်း» not attested; pi-2 topics sense for the book title (^5-0) and its closing line (^5-918)
+        ("topics, in Khuddakavatthu 'minor topics' (heading member), here the points of controversy, in the book "
+         'title Kathāvatthu and its closing line', ['အငြင်းပွားရာ အကြောင်းအရာ', 'အကြောင်းအရာ']),
+        ("stump, in tālāvatthukata 'made like a palm stump' of the arahant formula (compound member)", ['ငုတ်တို']),
+    ]),
+    ('vādī', [
+        # pi-4 musāvādī «ပြောသော» (^5-857); the Tathāgata's epithets saccavādī, tathavādī … «ဆိုတော်မူသော» (^5-229 …)
+        ('one who speaks, compound final in musāvādī, also in the epithets of the Tathāgata, saccavādī, tathavādī '
+         'and the like', ['ဆိုတော်မူသော', 'ပြောသော']),
+        ('party to the debate, in sakavādī (own side) and paravādī (the opponent) of the question notes',
+         ['တစ်ဖက်သား', 'မိမိဘက်']),
+    ]),
+    ('vata', [
+        ('vows, religious observances (compound member)', ['အကျင့်ဝတ်']),
+        ("emphatic particle 'surely, indeed', in 'tena vata re vattabbe' of the rebuttal formula", ['အမှန်ပင်']),
+    ]),
+    ('parama', [
+        # «အဆုံးစွန်» of paramattha (^5-1 …): the highest, the ultimate, the binding meaning
+        ("highest, supreme (compound member), here the ultimate, in paramattha 'the ultimate sense'", ['အဆုံးစွန်']),
+    ]),
+    ('micchā', [
+        # verdict «မှားသည်» / compound «မှားယွင်းသော» (map-harmonise §E): one lemma, one sense
+        ("wrong, false (compound member), also the verdict 'that is wrong' of the rebuttal formula (predicate)",
+         ['မှားသည်', 'မှားယွင်းသော']),
+    ]),
+    ('gati', [
+        ('destination, rebirth realm (compound member), here also in the debate headings and the lists of realms',
+         ['လားရာ']),
+        ("access, the coming and going of monks, nuns and lay followers to a region, in 'yattha natthi gati "
+         "bhikkhūnaṃ' (nominative)", ['သွားလာခြင်း']),
+    ]),
+    ('upādā', [
+        ("derived from the great elements, of matter, here 'depending on', in upādāpaññatti 'designation by "
+         "dependence' (compound member)", ['မှီ၍']),
+        ('clinging, grasping, in anupādāparinibbāna (compound member, the positive part, mapper rule 8)',
+         ['စွဲလမ်းမှု']),
+    ]),
+    ('purisa', [
+        ("man, in purisaliṅga 'feature of a man', also masculinity, in purisindriya (compound member)", ['ယောက်ျား']),
+        ("person, individual, in purisadosā 'faults of a person' (compound member), here in purisapuggala, "
+         'purisayuga, purisuttama and the purisakāra headings', ['လူ']),
+        ('good person, the member of sappurisa (compound member)', ['သူတော်ကောင်း']),
+    ]),
+    ('abhiññā', [
+        ('by direct knowledge, higher knowing (instrumental), here the higher knowledges as a noun, in the '
+         'headings and at ^5-196', ['ထူးကဲစွာ သိခြင်း']),
+    ]),
+    ('vāda', [
+        ('doctrine, theory, in attavāda (compound member), here the position examined, in vādayutti (heading '
+         'member)', ['ဝါဒ']),
+        ('speaking, in musāvāda false speech (compound member)', ['ပြောခြင်း']),
+    ]),
+    ('paṭiññāya', [
+        ("by self-declaration, claiming to be a monk (instrumental), here by one's own admission in the debate",
+         ['ဝန်ခံချက်']),
+    ]),
+    ('aṭṭho', [
+        # new in pi-5; one Burmese value «အရာ» (saccikaṭṭho, atthaṭṭho): the first Marathi sense only
+        ('a reality, a thing that truly is, in saccikaṭṭho of the debate headings, also in atthaṭṭho and natthaṭṭho',
+         ['အရာ']),
+    ]),
+    ('anuyogo', [
+        ('an examination, a line of questioning (in the debate headings)', ['စစ်ဆေးမေးမြန်းခြင်း']),
+        ('application to a practice, as in jāgariyānuyoga', ['နိုးကြားစွာ အားထုတ်ခြင်း']),
+    ]),
+    ('sutta', [
+        # one Burmese value «သုတ္တန်» for the discourse and the book name: one sense
+        ("a discourse of the Buddha, in the suttasādhana headings and 'Attheva suttanto', also in the book name "
+         'Suttanipāta and in suttamūla', ['သုတ္တန်']),
+    ]),
+    ('niggaha', [
+        ('rebuttal in debate', ['ချေပချက်']),
+        ('holding back, restraining the mind', ['ချုပ်ကိုင်ခြင်း']),
+    ]),

@@ -1,0 +1,118 @@
+    # ---- REVIEW batch 1 ----
+    ('para', [
+        ('others, another person (compound member, as in paralābha and paranimmita), here also in paracitta and '
+         'parappavāda', ['သူတစ်ပါး', 'ပရ', 'အခြားသူ', 'အခြား']),
+        ("more than, beyond, in parosahassa 'over a thousand' (compound member)", ['ကျော်']),
+    ]),
+    ('citta', [
+        ('mind, consciousness (stem and compound member), also in cittiddhipāda', ['စိတ်', 'စိတ္တ']),
+        ('variegated, colourful, in cittavaṇḍa (compound member)', ['အရောင်စုံ']),
+    ]),
+    ('Sabbattha', [
+        ("everywhere, in sabbatthagāminī 'leading to all destinations' (compound member), here also the adverb "
+         "'in every place'", ['နေရာတိုင်း', 'ဘုံ အားလုံး']),
+    ]),
+    ('paṭicca', [
+        ('dependent on conditions, first member of paṭiccasamuppanna, and of paṭiccasamuppāda (dependent '
+         "origination) in the Mātikā and its definition, here also the absolutive 'depending on'",
+         ['အကြောင်းတို့ကို မှီ၍', 'မှီ၍']),
+    ]),
+    ('rūpadhātu', [
+        ('the visible-form element, the object of the eye (nominative sg.)', ['အဆင်းအရောင် ဓာတ်']),
+        ('the fine-material realm of existence, among the planes (nominative sg.), also as the fine-material '
+         'element', ['သိမ်မွေ့သော ရုပ်ဘုံ', 'သိမ်မွေ့သော ရုပ် ဓာတ်']),
+    ]),
+    ('dukkhaṃ', [
+        ('suffering in the sense of the noble truth, the unsatisfactoriness of what is conditioned (nominative sg.)',
+         ['ဒုက္ခ']),
+        ('pain, suffering (nominative/accusative sg.), here painful feeling, also attributive in dukkhaṃ vedanaṃ',
+         ['နာကျင်သော']),
+        ("misery, pain in the everyday sense, in āpāyikaṃ dukkhaṃ 'the misery of the states of loss' and in "
+         'sukhaṃ dukkhaṃ (nominative or accusative sg.)', ['ဆင်းရဲ']),
+    ]),
+    ('eka', [
+        ('one, as in the one-item section label Ekamūlaka, here one seed, one more birth, in ekabījī (compound '
+         'member), also one path, one mind-moment, in ekamagga and ekacittakkhaṇika', ['တစ်စေ့', 'တစ်ပါး', 'တစ်',
+                                                                                     'တစ်ခု']),
+        ("one and the same, in Ekādhippāyakathā 'on a shared intention' (compound member)", ['တူညီသော']),
+    ]),
+    ('aññā', [
+        ('final knowledge, the knowing of one on the higher paths (compound member), here also in '
+         'sammadaññāvimutta and aññāpaṭivedha', ['သိ၍', 'အပြည့်အဝ သိမြင်ခြင်း', 'ရဟန္တာ ဖိုလ်']),
+        ('other, different (feminine pronoun)', ['တခြားစီ']),
+    ]),
+    ('sukha', [
+        ('pleasure, happiness, or pleasant (compound member, as in sukhasahagata, sukhavihāra and sukhasamphassa)',
+         ['သာယာမှု', 'သာယာသော']),
+        ("happiness, well-being in the everyday sense, in sukhadukkha 'pleasure and pain' of the views and the "
+         "perversion 'dukkhe sukhan'ti' (compound member and quoted word), also in Sukhānuppadānakathā",
+         ['ချမ်းသာ', 'သုခ']),
+    ]),
+    ('paccaya', [
+        ('condition, cause, requisite (compound member), here in the paccaya headings', ['အကြောင်း']),
+        ("reliance on others, in aparappaccaya 'not dependent on others' (compound final)", ['မှီသော']),
+    ]),
+    ('paccayatā', [
+        ('conditionality, in idappaccayatā (compound final), also being a condition, in the paccayatā debates',
+         ['ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ', 'အကြောင်းဖြစ်ပုံ', 'အကြောင်းဖြစ်ခြင်း']),
+    ]),
+    ('jāti', [
+        ('birth, being born (nominative sg.), also rebirth, in jātisaṃsāra, the last birth and the jāti of '
+         'dependent origination', ['မွေးဖွားခြင်း', 'ဖြစ်ခြင်း', 'ပဋိသန္ဓေ နေခြင်း', 'ဘဝ']),
+        ("kind, sort, in gandhajāti 'kinds of scent' (compound member)", ['မျိုး']),
+    ]),
+    ('āneñja', [
+        ('imperturbable (compound member)', ['မတုန်မလှုပ်သော', 'မတုန်လှုပ်သော', 'မတုန်လှုပ်ခြင်း']),
+        ('the cited sutta title Āneñjasappāya (name)', ['အာနေဉ္ဇသပ္ပာယ']),
+    ]),
+    ('Saṃkhittaṃ', [
+        ('contracted, shrunken, of a sluggish mind (neuter sg. participle)', ['တွန့်ဆုတ်နေသော']),
+        ('shortened text, in the editorial notes (Saṃkhittaṃ)', ['အကျဉ်းချုပ်']),
+    ]),
+    ('lohitaṃ', [
+        ('blood, the fluid in the veins (nominative sg.)', ['သွေး']),
+        ('red, the colour of blood (nominative sg.)', ['အနီ']),
+    ]),
+    ('phalā', [
+        # new in pi-5; «ဖိုလ်» fruition vs «အသီးအပွင့်» the fruits of deeds (^5-98, ^5-99): kept sense difference
+        ('fruitions of the path, in the paths and fruits (nominative pl.)', ['ဖိုလ်']),
+        ('fruits, results of deeds, in iṭṭhaphalā and kantaphalā (compound final)', ['အသီးအပွင့်']),
+    ]),
+    ('kamma', [
+        ('deeds, as compound member', ['ကံ']),
+        ('work, busy activity, in kammārāmatā (compound member)', ['အလုပ်']),
+    ]),
+    ('sukhaṃ', [
+        ('pleasure, happiness, or pleasant (neuter sg.)', ['သာယာသော']),
+        ('comfort, ease, in seyyasukhaṃ, passasukhaṃ and middhasukhaṃ (compound final), here happiness, well-being, '
+         'as in dibbaṃ sukhaṃ and sukhaṃ dukkhaṃ', ['ချမ်းသာ', 'သုခ']),
+    ]),
+    ('sukhadukkhaṃ', [
+        # new in pi-5; three wordings of weal and woe (map-harmonise §A 19); ^5-742 the feelings
+        ('pleasure-and-pain, weal and woe, in the views on who makes them', ['ချမ်းသာနှင့် ဆင်းရဲ', 'ချမ်းသာ ဆင်းရဲ',
+                                                                            'သုခ ဒုက္ခ']),
+        ('pleasant and painful feeling, as feelings (^5-742)', ['သာယာမှု နာကျင်မှု']),
+    ]),
+    ('dhammānaṃ', [
+        ('of phenomena, states (genitive pl.)', ['သဘောတရား']),
+        ("of the qualities to be understood, in catunnaṃ dhammānaṃ ananubodhā 'not understanding four things' "
+         '(genitive pl.)', ['တရား']),
+    ]),
+    ('atta', [
+        ('self, soul, in attavāda (compound member)', ['အတ္တ']),
+        ("one's own being, individual existence, in attabhāva (compound member)", ['ကိုယ်']),
+    ]),
+    ('saha', [
+        # pi-2 tag covers both «အတူ» and «တစ်ပြိုင်နက်» (saha upapattiyā): one sense
+        ('together with, at the same time as (compound member and preposition)', ['အတူ', 'တစ်ပြိုင်နက်']),
+    ]),
+    ('bahiddhā', [
+        ("external, belonging to others, in 'ajjhattaṃ vā bahiddhā vā' and the internal and external triad (adverb)",
+         ['မိမိ၏ ပြင်ပ၌']),
+        ("outside, in 'ito bahiddhā' 'outside this teaching' (adverb), here going outside the body, in bahiddhā "
+         'nikkhamitvā', ['အပြင်']),
+    ]),
+    ('sukhāya', [
+        ('for the happiness, the well-being of, in dīgharattaṃ hitāya sukhāya (dative sg.)', ['ချမ်းသာ']),
+        ('pleasant, of feeling (feminine genitive sg.)', ['သာယာသော']),
+    ]),

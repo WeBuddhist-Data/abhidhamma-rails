@@ -1,0 +1,242 @@
+6	သုခ → သာယာ	src 13 {'make_ch21-25': 13}	5-24-3-1-0/sukha×1 5-743/sukhaṃ×1 5-745/sukhaṃ×1 5-747/sukhaṃ×15 5-775/sukha×1 5-801/sukha×1
+5	အခြား → တခြားစီ	src 80 {'my5_formulas': 2, 'make_sample': 19, 'make_ch2-5': 1, 'make_ch6-10': 8, 'make_ch11-12': 4, 'make_ch13-16': 17, 'make_ch17-20': 5, 'make_ch21-25': 15, 'make_ch26-31': 9}	5-89/añño×1 5-90/añño×1 5-488/Añño×2 5-565/aññaṃ×6 5-801/añño×2
+5	ဖြစ်ပေါ် → ဖြစ်ပေါ်ပြီး	src 247 {'my5_formulas': 2, 'make_sample': 24, 'make_ch2-5': 12, 'make_ch6-10': 32, 'make_ch11-12': 34, 'make_ch13-16': 50, 'make_ch17-20': 25, 'make_ch21-25': 43, 'make_ch26-31': 25}	5-116/uppanne×11 5-117/uppanne×10 5-335/uppajjitvā×2 5-354/uppannassa×4 5-443/uppannassa×2
+4	ထိုးထွင်း သိမြင် → ထိုးဖောက်၍ သိ	src 10 {'my5_formulas': 1, 'make_ch2-5': 8, 'make_ch17-20': 1}	5-1-20-0/paṭivedha×1 5-205/paṭivedha×1 5-272/paṭivedho×3 5-281/paṭivedhā×4
+4	ရဟန္တာ ဖိုလ် → ရဟန္တာ အဖြစ်	src 7 {'make_ch6-10': 6, 'make_ch13-16': 1}	5-313/arahattaṃ×1 5-317/arahattaṃ×1 5-321/arahatte×1 5-325/arahattaṃ×1
+4	အမှန်တကယ် ဖြစ်ပေါ်ပြီး → ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီး	src 2 {'make_ch21-25': 2}	5-720/parinipphanno×4 5-721/parinipphanno×2 5-722/parinipphanno×3 5-723/parinipphannaṃ×2
+3	တပ်မက် → ရာဂ	src 46 {'make_ch2-5': 7, 'make_ch6-10': 9, 'make_ch11-12': 6, 'make_ch13-16': 5, 'make_ch17-20': 4, 'make_ch21-25': 14, 'make_ch26-31': 1}	5-21-8-1-0/rāga×1 5-675/rāgo×3 5-685/rāgo×10
+3	တခြား → တခြားစီ	src 14 {'my5_formulas': 4, 'make_sample': 6, 'make_ch21-25': 3, 'make_ch26-31': 1}	5-22-5-1-0/Añño×1 5-78/añño×2 5-80/añño×2
+3	ရုပ်မရှိသော ဓာတ် → ရုပ်မရှိသော ဘုံ	src 1 {'make_ch21-25': 1}	5-24-10-1-0/arūpadhātu×1 5-773/arūpadhātu×4 5-774/arūpadhātu×4
+3	အခြားသူ → သူတစ်ပါး	src 20 {'my5_formulas': 1, 'make_sample': 10, 'make_ch6-10': 2, 'make_ch13-16': 1, 'make_ch21-25': 6}	5-194/para×1 5-196/para×1 5-432/para×1
+3	မစွမ်းနိုင် → မထိုက်တန်	src 1 {'my5_formulas': 1}	5-278/abhabbo×1 5-278/abhabba×1 5-346/abhabba×1
+3	အကြွင်း → ကြွင်းကျန်	src 10 {'make_ch2-5': 1, 'make_ch11-12': 3, 'make_ch13-16': 1, 'make_ch17-20': 3, 'make_ch21-25': 2}	5-279/avasesaṃ×9 5-544/avaseso×2 5-623/avasesaṃ×1
+3	မြတ် → အကောင်းဆုံး	src 80 {'my5_formulas': 5, 'make_ch2-5': 4, 'make_ch6-10': 13, 'make_ch11-12': 15, 'make_ch13-16': 10, 'make_ch17-20': 1, 'make_ch21-25': 20, 'make_ch26-31': 12}	5-325/seṭṭhaṃ×7 5-798/seṭṭhā×4 5-799/seṭṭho×11
+3	ရပြီး → ရရှိပြီး	src 6 {'make_ch11-12': 5, 'make_ch13-16': 1}	5-396/paṭiladdhāni×12 5-411/paṭiladdhāni×6 5-412/paṭiladdhāni×6
+3	ယောကျ်ား → ယောက်ျား	src 8 {'make_ch11-12': 3, 'make_ch13-16': 5}	5-402/purisassa×3 5-514/purisassa×2 5-539/puriso×2
+3	ပို့ဆောင်တတ် → ဖြစ်စေတတ်	src 4 {'make_ch6-10': 2, 'make_ch26-31': 2}	5-549/saṃvattaniyaṃ×3 5-550/saṃvattaniyaṃ×4 5-894/saṃvattaniyaṃ×8
+3	ဖြစ် → မွေးဖွား	src 1296 {'my5_formulas': 30, 'make_sample': 97, 'make_ch2-5': 116, 'make_ch6-10': 147, 'make_ch11-12': 180, 'make_ch13-16': 211, 'make_ch17-20': 140, 'make_ch21-25': 250, 'make_ch26-31': 125}	5-622/jāti×12 5-622/jāyiṃsu×12 5-624/jāti×30
+3	ကုသိုလ် စိတ် → ကုသိုလ်စိတ်	src 7 {'make_ch6-10': 1, 'make_ch13-16': 2, 'make_ch26-31': 4}	5-658/kusalaṃ cittaṃ×4 5-659/kusalaṃ cittaṃ×3 5-685/kusalaṃ cittaṃ×1
+3	ကြွင်း → ကြွင်းကျန်	src 14 {'make_ch2-5': 1, 'make_ch11-12': 3, 'make_ch13-16': 1, 'make_ch17-20': 3, 'make_ch21-25': 6}	5-789/avasesā×1 5-790/avasesā×2 5-801/avasesā×1
+3	မှတ်ထင် → မှတ်သိ	src 1 {'make_ch26-31': 1}	5-860/saññī×1 5-861/saññī×2 5-862/saññī×1
+3	ကုန်းချောစကား → ကုန်းတိုက်သော စကား	src 2 {'make_ch26-31': 2}	5-901/pisuṇaṃ×1 5-908/pisuṇaṃ×1 5-909/pisuṇaṃ×1
+3	ပြည့်စုံစွာ ပြီးမြောက် → ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီး	src 1 {'make_ch26-31': 1}	5-917/parinipphannaṃ×2 5-918/parinipphannaṃ×2 5-918/parinipphanna×2
+2	ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်း → ထိုးဖောက်၍ သိခြင်းကို စစ်ဆေးမေးမြန်း	src 0 {}	5-1-20-0/Paṭivedhānuyogo×1 5-205/Paṭivedhānuyogo×1
+2	ခုနစ်ကြိမ်မြောက် → သတ္တမ	src 0 {}	5-20-10-1-0/sattama×1 5-653/sattama×5
+2	မတုန်မလှုပ် → မတုန်လှုပ်	src 3 {'my5_formulas': 1, 'make_ch26-31': 2}	5-30-3-1-0/āneñja×1 5-894/āneñja×1
+2	မွေးဖွားလာ → ပေါ်ပေါက်	src 2 {'make_sample': 2}	5-65/jāto×1 5-66/jāto×1
+2	လူ့လော → လူ့ပြည်	src 2 {'make_sample': 2}	5-87/manussalokā×2 5-88/manussalokā×2
+2	အတွဲ → အစုံ	src 2 {'make_sample': 2}	5-206/yugā×2 5-207/yugā×2
+2	လူ အတွဲ → လူ အစုံ	src 2 {'make_sample': 2}	5-206/purisayugā×2 5-207/purisayugā×2
+2	ပေါ်ပေါက် → ထင်ရှား ပေါ်လာ	src 38 {'make_sample': 6, 'make_ch2-5': 6, 'make_ch11-12': 5, 'make_ch13-16': 11, 'make_ch17-20': 2, 'make_ch21-25': 4, 'make_ch26-31': 4}	5-207/pātubhavanti×3 5-401/pātubhavanti×2
+2	ဖြစ် → ဖြစ်ပေါ်	src 1296 {'my5_formulas': 30, 'make_sample': 97, 'make_ch2-5': 116, 'make_ch6-10': 147, 'make_ch11-12': 180, 'make_ch13-16': 211, 'make_ch17-20': 140, 'make_ch21-25': 250, 'make_ch26-31': 125}	5-214/uppādo×6 5-215/uppādo×6
+2	ပေါ်ပေါက် → ဖြစ်ပေါ်	src 38 {'make_sample': 6, 'make_ch2-5': 6, 'make_ch11-12': 5, 'make_ch13-16': 11, 'make_ch17-20': 2, 'make_ch21-25': 4, 'make_ch26-31': 4}	5-270/uppajjanti×20 5-270/uppajjati×20
+2	ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန် → ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်	src 0 {}	5-277/arahattasacchikiriyāya×1 5-343/Arahattasacchikiriyāya×1
+2	ယူ → ကိုင်	src 116 {'my5_formulas': 5, 'make_sample': 7, 'make_ch2-5': 17, 'make_ch6-10': 18, 'make_ch11-12': 18, 'make_ch13-16': 11, 'make_ch17-20': 10, 'make_ch21-25': 17, 'make_ch26-31': 13}	5-293/ādāna×1 5-546/ādāna×1
+2	သူ့အသက် → သတ္တဝါ	src 9 {'my5_formulas': 1, 'make_ch6-10': 1, 'make_ch11-12': 2, 'make_ch13-16': 4, 'make_ch21-25': 1}	5-314/pāṇaṃ×5 5-784/pāṇaṃ×3
+2	မြတ် → မြင့်မြတ်	src 80 {'my5_formulas': 5, 'make_ch2-5': 4, 'make_ch6-10': 13, 'make_ch11-12': 15, 'make_ch13-16': 10, 'make_ch17-20': 1, 'make_ch21-25': 20, 'make_ch26-31': 12}	5-321/brahma×7 5-338/brahma×14
+2	မြတ်သော အကျင့် → မြင့်မြတ်သော အကျင့်	src 13 {'make_ch2-5': 1, 'make_ch6-10': 5, 'make_ch11-12': 4, 'make_ch21-25': 3}	5-321/brahmacariyaṃ×1 5-338/brahmacariya×5
+2	အကုသိုလ် စိတ် → အကုသိုလ်စိတ်	src 1 {'make_ch6-10': 1}	5-336/akusalaṃ cittaṃ×1 5-702/akusalaṃ cittaṃ×3
+2	ပရ → သူတစ်ပါး	src 36 {'my5_formulas': 3, 'make_sample': 4, 'make_ch2-5': 6, 'make_ch6-10': 7, 'make_ch11-12': 1, 'make_ch13-16': 6, 'make_ch26-31': 9}	5-337/para×3 5-886/para×1
+2	ဘုရား → ဘုရားရှင်	src 97 {'my5_formulas': 2, 'make_sample': 11, 'make_ch2-5': 13, 'make_ch6-10': 16, 'make_ch11-12': 7, 'make_ch13-16': 3, 'make_ch17-20': 3, 'make_ch21-25': 18, 'make_ch26-31': 24}	5-340/buddhe×2 5-366/buddhe×1
+2	ထိုးထွင်း သိ → ခွဲခြား သိ	src 26 {'my5_formulas': 2, 'make_ch2-5': 9, 'make_ch6-10': 10, 'make_ch11-12': 1, 'make_ch13-16': 3, 'make_ch17-20': 1}	5-347/paṭivijānanti×6 5-352/paṭivijānanti×4
+2	ကျင့်ကြံ → အကျင့်	src 30 {'my5_formulas': 7, 'make_ch2-5': 5, 'make_ch6-10': 5, 'make_ch11-12': 7, 'make_ch13-16': 4, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-354/cariyā×2 5-400/cariyā×2
+2	အမြတ်ဆုံး → အကောင်းဆုံး	src 17 {'make_ch2-5': 1, 'make_ch6-10': 2, 'make_ch11-12': 6, 'make_ch13-16': 1, 'make_ch21-25': 3, 'make_ch26-31': 4}	5-401/seṭṭho×4 5-872/seṭṭho×4
+2	ကျင့်ခဲ့ → ပြုခဲ့	src 6 {'make_ch11-12': 4, 'make_ch26-31': 2}	5-404/akāsi×2 5-913/akāsi×1
+2	ရရှိထား → ပြည့်စုံ	src 1 {'make_ch13-16': 1}	5-419/samaṅgissa×4 5-420/samaṅgissa×4
+2	အနာဂါမ် → အနာဂါမိ	src 1 {'my5_formulas': 1}	5-439/anāgāmi×1 5-644/anāgāmi×1
+2	သကဒါဂါမ် → သကဒါဂါမိ	src 1 {'my5_formulas': 1}	5-439/sakadāgāmi×1 5-644/sakadāgāmi×1
+2	တရား၏ သေချာ → သဘောတရားတို့၏ သေချာ	src 3 {'make_ch13-16': 3}	5-450/dhammaniyāmatā×1 5-451/dhammaniyāmatā×6
+2	တည်ရှိ → တည်နေခြင်း သဘော	src 12 {'make_ch2-5': 1, 'make_ch6-10': 1, 'make_ch11-12': 2, 'make_ch13-16': 3, 'make_ch26-31': 5}	5-450/ṭhitatā×1 5-451/ṭhitatā×6
+2	တရား၏ တည်ရှိ → သဘောတရားတို့၏ တည်နေခြင်း သဘော	src 3 {'make_ch13-16': 3}	5-450/dhammaṭṭhitatā×1 5-451/dhammaṭṭhitatā×6
+2	အစာ → အာဟာရ	src 8 {'make_ch11-12': 1, 'make_ch13-16': 2, 'make_ch21-25': 2, 'make_ch26-31': 3}	5-486/āhārā×4 5-503/āhārā×4
+2	စားဖွယ် → ဘောဇဉ်	src 3 {'make_ch13-16': 1, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-488/bhojanīyaṃ×1 5-901/bhojanīyaṃ×1
+2	ကျက် → ပူလောင်ရ	src 15 {'make_ch6-10': 8, 'make_ch11-12': 1, 'make_ch13-16': 1, 'make_ch26-31': 5}	5-501/paccati×1 5-868/paccati×2
+2	နှစ်သက်ဖွယ် ကောင်း → စိတ်နှင့် တွေ့	src 2 {'make_ch13-16': 2}	5-512/manāpā×2 5-514/manāpā×2
+2	လိုလားဖွယ် ကောင်း → လိုလားဖွယ်ကောင်း	src 2 {'make_ch13-16': 2}	5-512/iṭṭhā×2 5-514/iṭṭhā×2
+2	တပ်မက်ဖွယ် ကောင်း → တပ်မက်ဖွယ်ကောင်း	src 2 {'make_ch13-16': 2}	5-512/rajanīyā×2 5-514/rajanīyā×2
+2	ချစ်ခင်ဖွယ် ကောင်း → ချစ်ခင်ဖွယ်ကောင်း	src 2 {'make_ch13-16': 2}	5-512/kantā×2 5-514/kantā×2
+2	အခါခပ်သိမ်း → အလုံးစုံ	src 1 {'make_ch17-20': 1}	5-563/Sabbaso×10 5-570/sabbaso×1
+2	ချုပ်ငြိမ်း → ချုပ်ငြိမ်းပြီး	src 103 {'my5_formulas': 2, 'make_sample': 8, 'make_ch2-5': 4, 'make_ch6-10': 50, 'make_ch11-12': 5, 'make_ch13-16': 11, 'make_ch17-20': 14, 'make_ch21-25': 3, 'make_ch26-31': 6}	5-571/niruddhe×3 5-604/niruddhe×2
+2	လူ မဟုတ် → လူ မဟုတ်သူ	src 2 {'make_ch17-20': 1, 'make_ch26-31': 1}	5-650/amanussa×1 5-651/amanussa×1
+2	တိရစ္ဆာန် ဘဝ → တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	src 2 {'make_ch17-20': 2}	5-652/tiracchānayoniṃ×1 5-653/tiracchānayoniṃ×1
+2	ဘဝ → မွေးဖွားရာ အမျိုးအစား	src 101 {'my5_formulas': 2, 'make_sample': 7, 'make_ch2-5': 11, 'make_ch6-10': 2, 'make_ch11-12': 21, 'make_ch13-16': 24, 'make_ch17-20': 12, 'make_ch21-25': 17, 'make_ch26-31': 5}	5-652/yoniṃ×1 5-653/yoniṃ×6
+2	လမ်းကြောင်း သေချာပြီး → ကျိန်းသေ	src 1 {'make_ch21-25': 1}	5-663/Niyato×4 5-664/niyato×3
+2	သိ → ကွဲပြားစွာ သိ	src 948 {'my5_formulas': 51, 'make_sample': 44, 'make_ch2-5': 113, 'make_ch6-10': 142, 'make_ch11-12': 95, 'make_ch13-16': 192, 'make_ch17-20': 69, 'make_ch21-25': 102, 'make_ch26-31': 140}	5-671/pajānāti×13 5-749/pajānāti×10
+2	သိမ်မွေ့သော ရုပ် ဓာတ် → အဆင်းအရောင် ဓာတ်	src 1 {'make_ch21-25': 1}	5-771/rūpadhātu×2 5-772/rūpadhātu×4
+2	ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့ → ပရိနိဗ္ဗာန် ပြုပြီး	src 2 {'make_ch26-31': 2}	5-802/parinibbuto×2 5-896/parinibbuto×2
+2	ဖြန့်ကျက် → ဖြန့်ကြဲ	src 3 {'make_ch26-31': 3}	5-894/visineti×3 5-894/visinetvā×3
+2	ဖျက်ဆီး → ဖြိုဖျက်	src 23 {'make_ch2-5': 1, 'make_ch6-10': 4, 'make_ch11-12': 4, 'make_ch13-16': 2, 'make_ch21-25': 5, 'make_ch26-31': 7}	5-894/apacināti×5 5-894/apacinitvā×5
+2	မတုန်မလှုပ်သော အခြေ → မတုန်လှုပ်သော အခြေ	src 1 {'make_ch26-31': 1}	5-896/āneñje×9 5-907/āneñje×1
+2	ခဏမျှသာ တည် → ခဏ၌သာ ဖြစ်	src 1 {'make_ch26-31': 1}	5-906/khaṇikā×2 5-907/khaṇikā×3
+2	စိတ် တစ်ခု၏ ခဏမျှသာ တည် → စိတ် တစ်ခဏ၌သာ ဖြစ်	src 0 {}	5-906/Ekacittakkhaṇikā×2 5-907/ekacittakkhaṇikā×3
+1	ဆွေးနွေး → ဆွေးနွေးချက်	src 13 {'my5_formulas': 3, 'make_sample': 1, 'make_ch2-5': 1, 'make_ch6-10': 1, 'make_ch11-12': 1, 'make_ch13-16': 1, 'make_ch17-20': 2, 'make_ch21-25': 1, 'make_ch26-31': 2}	5-0/kathā×1
+1	ရည်ရွယ်ချက် → အလိုအတိုင်း	src 4 {'make_ch26-31': 4}	5-31-1-0/adhippāya×1
+1	ပြီးမြောက် → ဖြစ်ပေါ်ပြီး	src 5 {'make_ch2-5': 1, 'make_ch26-31': 4}	5-31-5-1-0/nipphanna×1
+1	တဏှာ → တပ်မက်	src 2 {'make_sample': 1, 'make_ch21-25': 1}	5-75/taṇhā×1
+1	ပြိုကွဲကြ → ပျက်နေ	src 2 {'make_sample': 2}	5-94/bhijjamānesu×2
+1	ပြိုကွဲ → ပျက်	src 7 {'make_sample': 4, 'make_ch11-12': 3}	5-94/bhijjati×4
+1	အလွန် တူညီစွာ → တန်းတူ ဖြစ်	src 1 {'make_sample': 1}	5-94/samasamo×1
+1	ပွင့်ပေါ် → ထင်ရှား လာ	src 4 {'make_sample': 2, 'make_ch13-16': 2}	5-207/pātubhāvā×3
+1	ပေါ်ပေါက်လာ → ဖြစ်ပေါ်	src 2 {'make_sample': 2}	5-230/uppajjati×2
+1	ချုပ်ငြိမ်း → ချုပ်ငြိမ်းနေ	src 103 {'my5_formulas': 2, 'make_sample': 8, 'make_ch2-5': 4, 'make_ch6-10': 50, 'make_ch11-12': 5, 'make_ch13-16': 11, 'make_ch17-20': 14, 'make_ch21-25': 3, 'make_ch26-31': 6}	5-232/nirujjhamānaṃ×2
+1	သက်သက် → ရိုးရိုး	src 3 {'make_sample': 3}	5-233/suddha×1
+1	သောကြောင့် → ထို့ကြောင့်	src 13 {'make_sample': 2, 'make_ch2-5': 1, 'make_ch6-10': 3, 'make_ch13-16': 1, 'make_ch21-25': 6}	5-234/tasmā×2
+1	လူမိုက် → မိုက်မဲ	src 2 {'make_sample': 2}	5-235/bāla×2
+1	နှစ်သက်ဖွယ် → လိုလားဖွယ်ကောင်း	src 7 {'make_ch2-5': 2, 'make_ch13-16': 3, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-266/Iṭṭhā×2
+1	အတွေ့ → တွေ့ထိ	src 25 {'make_sample': 1, 'make_ch2-5': 4, 'make_ch6-10': 6, 'make_ch11-12': 1, 'make_ch13-16': 4, 'make_ch17-20': 3, 'make_ch21-25': 2, 'make_ch26-31': 4}	5-266/phassā×1
+1	မနှစ်သက်ဖွယ် → မလိုလားဖွယ်	src 3 {'make_ch2-5': 1, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-266/aniṭṭhā×1
+1	သက်ဆင်းနိုင် → ထိုက်တန်	src 4 {'make_ch2-5': 2, 'make_ch21-25': 2}	5-269/bhabbā×2
+1	သေချာသော လမ်း → သေချာသော လမ်းကြောင်း	src 12 {'make_ch2-5': 1, 'make_ch11-12': 5, 'make_ch13-16': 1, 'make_ch17-20': 2, 'make_ch21-25': 1, 'make_ch26-31': 2}	5-269/niyāmaṃ×2
+1	သေချာသော လမ်းသို့ သက်ဆင်း → သေချာသော လမ်းကြောင်းသို့ သက်ဆင်း	src 0 {}	5-269/niyāmaṃ okkamituṃ×1
+1	မသက်ဆင်းနိုင် → မထိုက်တန်	src 1 {'make_ch21-25': 1}	5-269/abhabbā×1
+1	ခွဲသူ → သင်းခွဲသူ	src 4 {'my5_formulas': 1, 'make_ch2-5': 1, 'make_ch6-10': 1, 'make_ch21-25': 1}	5-269/bhedakā×2
+1	ပေါ်ပေါက်ခဲ့ → ဖြစ်ပေါ်ပြီး	src 1 {'make_ch2-5': 1}	5-270/uppannaṃ×1
+1	ဘုရား ဖြစ်တော်မူ → အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့	src 0 {}	5-270/abhisambuddho×1
+1	လည်စေတော်မူ → လည်စေတော်မူခဲ့	src 2 {'make_ch2-5': 1, 'make_ch26-31': 1}	5-270/pavattitaṃ×1
+1	ပွားများခဲ့ → ပွားများပြီး	src 3 {'make_ch2-5': 3}	5-272/bhāvitena×1
+1	အကြောင်း → အနက်	src 407 {'my5_formulas': 9, 'make_sample': 6, 'make_ch2-5': 16, 'make_ch6-10': 36, 'make_ch11-12': 44, 'make_ch13-16': 77, 'make_ch17-20': 52, 'make_ch21-25': 76, 'make_ch26-31': 91}	5-272/aṭṭhena×1
+1	ပိုင်းခြား သိ → ပိုင်းခြား သိပြီး	src 26 {'make_ch2-5': 6, 'make_ch6-10': 5, 'make_ch11-12': 7, 'make_ch13-16': 1, 'make_ch17-20': 1, 'make_ch21-25': 2, 'make_ch26-31': 4}	5-272/pariññātaṃ×2
+1	ထိုးထွင်း သိမြင်ရန် → ထိုးဖောက်၍ သိရန်	src 3 {'make_ch2-5': 2, 'make_ch17-20': 1}	5-273/paṭivedhāya×2
+1	ထိုးထွင်း သိမြင်လျက် → ထိုးဖောက်၍ သိလျက်	src 1 {'make_ch2-5': 1}	5-279/paṭivijjhanto×2
+1	ပရိနိဗ္ဗာန် ပြုတော်မူ → ပရိနိဗ္ဗာန် ပြုပြီး	src 3 {'make_sample': 1, 'make_ch26-31': 2}	5-281/parinibbuto×1
+1	ကုန် → ကုန်ခန်းပြီး	src 114 {'my5_formulas': 5, 'make_sample': 9, 'make_ch2-5': 8, 'make_ch6-10': 8, 'make_ch11-12': 25, 'make_ch13-16': 38, 'make_ch17-20': 1, 'make_ch21-25': 13, 'make_ch26-31': 7}	5-281/khīṇā×1
+1	ထိုးထွင်း သိမြင်ပြီး → ထိုးဖောက်၍ သိပြီး	src 4 {'make_ch2-5': 4}	5-281/paṭividdhaṃ×4
+1	ဟောကြားတော်မူ → ဟောကြားတော်မူခဲ့	src 2 {'make_ch2-5': 1, 'make_ch11-12': 1}	5-281/akkhāsi×1
+1	မှတ်ယူ → ပြု	src 2 {'make_ch2-5': 2}	5-282/katvā×1
+1	မျက်မှောက် ဆုံဆည်း → မျက်နှာချင်း ဆိုင်	src 2 {'make_ch2-5': 2}	5-294/sammukhībhāvo×2
+1	ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီး → ပရိနိဗ္ဗာန် ပြုတော်မူပြီး	src 1 {'make_ch2-5': 1}	5-296/parinibbute×4
+1	ဝဋ် → သံသရာ စက်ဝန်း	src 2 {'make_ch2-5': 1, 'make_ch13-16': 1}	5-296/vaṭṭe×4
+1	ပျော်မွေ့ → နှစ်သက်	src 4 {'make_ch2-5': 4}	5-296/nandī×4
+1	ရောနှော → ဖို့ပြီး	src 11 {'make_sample': 2, 'make_ch2-5': 4, 'make_ch11-12': 2, 'make_ch13-16': 2, 'make_ch21-25': 1}	5-296/saṅkiṇṇa×8
+1	ရောနှောခြင်း မရှိ → မရောယှက်	src 2 {'make_ch2-5': 2}	5-296/asaṅkiṇṇā×4
+1	အကြောင်း မဟုတ် → မဖြစ်နိုင်သော အကြောင်း	src 1 {'make_ch6-10': 1}	5-313/Aṭṭhānaṃ×1
+1	ဖောက် → ဖောက်ထွင်း	src 29 {'make_sample': 3, 'make_ch2-5': 5, 'make_ch6-10': 2, 'make_ch13-16': 14, 'make_ch17-20': 2, 'make_ch21-25': 1, 'make_ch26-31': 2}	5-314/chindeyya×1
+1	ဖြစ်ပေါ် → ဖြစ်ပေါ်လာ	src 247 {'my5_formulas': 2, 'make_sample': 24, 'make_ch2-5': 12, 'make_ch6-10': 32, 'make_ch11-12': 34, 'make_ch13-16': 50, 'make_ch17-20': 25, 'make_ch21-25': 43, 'make_ch26-31': 25}	5-332/samuṭṭhānā×6
+1	ပဋိသန္ဓေ နေ → မွေးဖွား	src 2 {'make_ch6-10': 2}	5-333/jāti×1
+1	ရဟန်း → ရဟန်းအဖြစ်	src 142 {'my5_formulas': 5, 'make_sample': 13, 'make_ch2-5': 27, 'make_ch6-10': 40, 'make_ch11-12': 12, 'make_ch13-16': 9, 'make_ch17-20': 12, 'make_ch21-25': 2, 'make_ch26-31': 22}	5-338/sāmañña×12
+1	ဥပဓိ → ခန္ဓာကိုယ်	src 2 {'make_ch6-10': 2}	5-338/upadhi×2
+1	ပဋိသန္ဓေ နေ → ဘဝ	src 2 {'make_ch6-10': 2}	5-338/jātiyā×2
+1	အခါ → ခဏ	src 61 {'my5_formulas': 3, 'make_sample': 13, 'make_ch2-5': 9, 'make_ch6-10': 10, 'make_ch11-12': 5, 'make_ch13-16': 5, 'make_ch17-20': 7, 'make_ch21-25': 6, 'make_ch26-31': 3}	5-338/khaṇo×2
+1	ဆိတ်ငြိမ် → ကင်းဆိတ်	src 2 {'make_ch6-10': 2}	5-338/viveka×2
+1	အဆုံးစွန် → အပြီးအပိုင်	src 3 {'my5_formulas': 2, 'make_ch6-10': 1}	5-338/accanta×1
+1	ထေရ် → မထေရ်	src 7 {'make_ch2-5': 1, 'make_ch6-10': 1, 'make_ch11-12': 3, 'make_ch13-16': 2}	5-346/thero×1
+1	ကြားခဲ့ရ → ကြားရ	src 1 {'make_ch6-10': 1}	5-346/sutaṃ×1
+1	ထိုးထွင်း သိ → ထိုးဖောက်၍ သိ	src 26 {'my5_formulas': 2, 'make_ch2-5': 9, 'make_ch6-10': 10, 'make_ch11-12': 1, 'make_ch13-16': 3, 'make_ch17-20': 1}	5-346/paṭivedho×1
+1	ကျင့် → သိက္ခာ	src 98 {'my5_formulas': 8, 'make_ch2-5': 11, 'make_ch6-10': 26, 'make_ch11-12': 26, 'make_ch13-16': 9, 'make_ch17-20': 1, 'make_ch21-25': 8, 'make_ch26-31': 9}	5-346/sikkhā×8
+1	လုံးဝ → အပြီးအပိုင်	src 10 {'make_ch2-5': 1, 'make_ch6-10': 4, 'make_ch11-12': 1, 'make_ch17-20': 1, 'make_ch26-31': 3}	5-353/accanta×4
+1	ဘုံ အားလုံး → နေရာတိုင်း	src 1 {'make_ch11-12': 1}	5-355/sabbattha×3
+1	အတွေ့အထိ → အထိအတွေ့	src 1 {'make_ch11-12': 1}	5-397/phoṭṭhabbaṃ×2
+1	မယ်တော် → အမိ	src 2 {'make_ch11-12': 2}	5-401/mātu×4
+1	ဝမ်းမြောက် → နှစ်သက်	src 9 {'make_ch11-12': 2, 'make_ch13-16': 4, 'make_ch17-20': 1, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-401/attamanā×2
+1	ကြည့် → ဘေးသို့ ကြည့်	src 25 {'my5_formulas': 1, 'make_ch2-5': 1, 'make_ch6-10': 3, 'make_ch11-12': 3, 'make_ch13-16': 6, 'make_ch17-20': 5, 'make_ch21-25': 2, 'make_ch26-31': 4}	5-401/viloketi×3
+1	ရဟန်း ပြု → ရဟန်းပြု	src 1 {'make_ch11-12': 1}	5-402/pabbajati×1
+1	ခုနစ်ခုမြောက် → သတ္တမ	src 1 {'make_ch11-12': 1}	5-402/sattamaṃ×1
+1	ညွှန်ပြခဲ့ → ကိုးကွယ်ခဲ့	src 2 {'make_ch11-12': 2}	5-404/uddisi×1
+1	ခြိုးခြံသော အကျင့် → ပြင်းထန်သော အကျင့်	src 2 {'make_ch11-12': 2}	5-404/tapaṃ×1
+1	သိ → နားလည်	src 948 {'my5_formulas': 51, 'make_sample': 44, 'make_ch2-5': 113, 'make_ch6-10': 142, 'make_ch11-12': 95, 'make_ch13-16': 192, 'make_ch17-20': 69, 'make_ch21-25': 102, 'make_ch26-31': 140}	5-405/vidū×34
+1	တရားစက် → စကြာ	src 1 {'make_ch11-12': 1}	5-405/cakkaṃ×1
+1	ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်း → ဘုရားလောင်း သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီး	src 0 {}	5-417/bodhisatto okkantaniyāmo×1
+1	သက်ဆင်း → သက်ဆင်းပြီး	src 23 {'make_ch2-5': 3, 'make_ch11-12': 5, 'make_ch13-16': 4, 'make_ch17-20': 1, 'make_ch21-25': 8, 'make_ch26-31': 2}	5-417/okkanta×1
+1	သေချာသော လမ်းကြောင်းသို့ သက်ဆင်း → သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီး	src 6 {'make_ch11-12': 5, 'make_ch17-20': 1}	5-417/okkantaniyāmo×1
+1	ထိုးထွင်း သိနိုင် → ထင်ထင်ရှားရှား သိမြင်ရန်	src 1 {'make_ch13-16': 1}	5-431/abhisametuṃ×2
+1	သိနိုင် → ထိုက်တန်	src 27 {'make_sample': 3, 'make_ch2-5': 3, 'make_ch6-10': 7, 'make_ch13-16': 12, 'make_ch17-20': 2}	5-431/bhabbo×2
+1	ပေးလှူနေ → ပေးနေ	src 2 {'make_ch13-16': 2}	5-434/dadantassa×2
+1	ကောင်းစွာ ကြားမလပ် → ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေ	src 1 {'make_ch13-16': 1}	5-439/samanantara×1
+1	ကြားမလပ် → ချက်ချင်း နောက်၌ ဖြစ်စေ	src 4 {'make_ch11-12': 1, 'make_ch13-16': 2, 'make_ch17-20': 1}	5-439/anantara×2
+1	ဟောကြားသူ → ပြောကြား	src 1 {'make_ch11-12': 1}	5-443/akkhātā×1
+1	ဟုတ်မှန် → ဟုတ်တိုင်းမှန်သော သဘော	src 7 {'make_ch11-12': 1, 'make_ch13-16': 6}	5-450/tathatā×1
+1	တည် → တည်နေ	src 198 {'my5_formulas': 9, 'make_sample': 17, 'make_ch2-5': 20, 'make_ch6-10': 27, 'make_ch11-12': 19, 'make_ch13-16': 24, 'make_ch17-20': 13, 'make_ch21-25': 30, 'make_ch26-31': 39}	5-450/ṭhitā×4
+1	အခြား → အခြားတစ်မျိုး	src 80 {'my5_formulas': 2, 'make_sample': 19, 'make_ch2-5': 1, 'make_ch6-10': 8, 'make_ch11-12': 4, 'make_ch13-16': 17, 'make_ch17-20': 5, 'make_ch21-25': 15, 'make_ch26-31': 9}	5-454/aññathāni×4
+1	ဝင်စားနေ → ဝင်စားသူ	src 22 {'make_ch6-10': 6, 'make_ch13-16': 8, 'make_ch17-20': 3, 'make_ch21-25': 3, 'make_ch26-31': 2}	5-458/samāpajjantassa×2
+1	ညွတ် → နိမ့်ဆင်း	src 21 {'my5_formulas': 2, 'make_ch6-10': 1, 'make_ch11-12': 2, 'make_ch13-16': 4, 'make_ch17-20': 12}	5-458/ninnaṃ×2
+1	ရှိုင်း → စောင်း	src 2 {'make_ch13-16': 2}	5-458/pabbhāraṃ×2
+1	ကိုင်း → ညွတ်ကိုင်း	src 9 {'make_ch6-10': 6, 'make_ch13-16': 2, 'make_ch21-25': 1}	5-458/poṇaṃ×2
+1	သေချာသော လမ်းကြောင်း → ကျိန်းသေ	src 11 {'make_ch11-12': 5, 'make_ch13-16': 1, 'make_ch17-20': 2, 'make_ch21-25': 1, 'make_ch26-31': 2}	5-470/Niyamo×1
+1	မဟာဘုတ် → မူလဓာတ်	src 1 {'make_ch13-16': 1}	5-470/bhūtā×1
+1	မဟာဘုတ် → မူလဓာတ်ကြီး	src 1 {'make_ch13-16': 1}	5-470/mahābhūtā×1
+1	မြတ် → မွန်မြတ်	src 80 {'my5_formulas': 5, 'make_ch2-5': 4, 'make_ch6-10': 13, 'make_ch11-12': 15, 'make_ch13-16': 10, 'make_ch17-20': 1, 'make_ch21-25': 20, 'make_ch26-31': 12}	5-477/paṇītaṃ×3
+1	ကဲ့ရဲ့အပ် → ကန့်ကွက်အပ်	src 4 {'make_ch2-5': 1, 'make_ch13-16': 3}	5-480/paṭikuṭṭhāni×4
+1	နံ့သာ လိမ်းဖွယ် → နံ့သာပျောင်း	src 1 {'make_ch13-16': 1}	5-481/vilepanaṃ×1
+1	ပျက်စီး → ပျက်ကွယ်	src 14 {'my5_formulas': 1, 'make_sample': 2, 'make_ch6-10': 1, 'make_ch11-12': 1, 'make_ch13-16': 3, 'make_ch17-20': 1, 'make_ch26-31': 5}	5-485/veti×2
+1	နှစ်သက်ဖွယ် → စိတ်နှင့် တွေ့ဖွယ်	src 7 {'make_ch2-5': 2, 'make_ch13-16': 3, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-486/manāpāya×4
+1	အကျိုး → ကံ၏ အကျိုး ဖြစ်	src 83 {'my5_formulas': 12, 'make_sample': 6, 'make_ch2-5': 3, 'make_ch6-10': 9, 'make_ch11-12': 2, 'make_ch13-16': 12, 'make_ch17-20': 11, 'make_ch21-25': 20, 'make_ch26-31': 8}	5-486/vipākā×8
+1	သောက်ဖွယ် → သောက်ရေ	src 3 {'make_ch13-16': 3}	5-488/pānīyaṃ×2
+1	အတွက် → အကျိုး	src 26 {'my5_formulas': 2, 'make_sample': 6, 'make_ch2-5': 2, 'make_ch6-10': 2, 'make_ch11-12': 4, 'make_ch13-16': 4, 'make_ch17-20': 3, 'make_ch21-25': 2, 'make_ch26-31': 1}	5-489/atthāya×2
+1	မိဘ → အမိ	src 6 {'my5_formulas': 1, 'make_ch13-16': 4, 'make_ch26-31': 1}	5-491/mātā×4
+1	အကျင့် → စရိုက်	src 28 {'my5_formulas': 1, 'make_ch2-5': 2, 'make_ch6-10': 9, 'make_ch11-12': 8, 'make_ch13-16': 1, 'make_ch21-25': 4, 'make_ch26-31': 3}	5-493/caritaṃ×1
+1	အုပ်ချုပ် → အကြီးအကဲ ဖြစ်	src 2 {'make_ch11-12': 1, 'make_ch13-16': 1}	5-494/adhipacca×2
+1	ရဟန်း၏ အဖြစ် → ရဟန်းအဖြစ်	src 1 {'make_ch13-16': 1}	5-498/sāmaññaṃ×2
+1	တိရစ္ဆာန် မွေးဖွားရာ → တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	src 0 {}	5-503/tiracchānayoni×2
+1	မွေးဖွားရာ → မွေးဖွားရာ အမျိုးအစား	src 2 {'make_ch11-12': 1, 'make_ch13-16': 1}	5-503/yoni×2
+1	သာဝ → တပည့်	src 4 {'make_ch2-5': 2, 'make_ch13-16': 1, 'make_ch26-31': 1}	5-511/sāvaka×3
+1	နှစ်ပါး → အစုံ	src 22 {'make_sample': 5, 'make_ch2-5': 2, 'make_ch6-10': 3, 'make_ch11-12': 6, 'make_ch13-16': 1, 'make_ch17-20': 2, 'make_ch21-25': 3}	5-511/yugaṃ×3
+1	အဂ္ဂသာဝက နှစ်ပါး → တပည့် အစုံ	src 1 {'make_ch13-16': 1}	5-511/sāvakayugaṃ×3
+1	တည် → တည်ရှိ	src 198 {'my5_formulas': 9, 'make_sample': 17, 'make_ch2-5': 20, 'make_ch6-10': 27, 'make_ch11-12': 19, 'make_ch13-16': 24, 'make_ch17-20': 13, 'make_ch21-25': 30, 'make_ch26-31': 39}	5-514/Tiṭṭhanti×1
+1	နံစော် → ဆိုး	src 1 {'make_ch13-16': 1}	5-522/du×1
+1	မွှေး → ကောင်းစွာ	src 1 {'make_ch13-16': 1}	5-522/su×1
+1	ပရိဗ္ဗာဇ် → ပရိဗိုဇ်	src 2 {'make_ch13-16': 2}	5-539/paribbājakassa×2
+1	ခိုင်မြဲသော အရာ → ခိုင်ခံ့သော အရာ	src 1 {'make_ch17-20': 1}	5-547/dhuvato×1
+1	ပိုင်းခြား သိနေ → ကွဲပြားစွာ သိနေ	src 1 {'make_ch17-20': 1}	5-563/pajānato×1
+1	စကား → နှုတ်	src 66 {'my5_formulas': 3, 'make_sample': 9, 'make_ch2-5': 12, 'make_ch6-10': 13, 'make_ch11-12': 2, 'make_ch13-16': 6, 'make_ch17-20': 5, 'make_ch21-25': 8, 'make_ch26-31': 8}	5-588/vācāya×6
+1	သွား → ရောက်	src 79 {'my5_formulas': 3, 'make_sample': 15, 'make_ch2-5': 7, 'make_ch6-10': 8, 'make_ch11-12': 7, 'make_ch13-16': 12, 'make_ch17-20': 5, 'make_ch21-25': 12, 'make_ch26-31': 10}	5-600/gāmino×1
+1	ပေး → ပေးနေ	src 138 {'my5_formulas': 1, 'make_sample': 3, 'make_ch2-5': 4, 'make_ch6-10': 20, 'make_ch11-12': 5, 'make_ch13-16': 42, 'make_ch17-20': 6, 'make_ch21-25': 33, 'make_ch26-31': 24}	5-603/dadantassa×2
+1	မဖြစ်သေး → မမွေးဖွားသေး	src 5 {'make_ch6-10': 1, 'make_ch17-20': 2, 'make_ch26-31': 2}	5-625/ajātaṃ×2
+1	တစ်ထစ်ချ → လုံးဝ	src 1 {'make_ch17-20': 1}	5-626/ekanta×1
+1	ရည်ရွယ် → စေ့ဆော်	src 9 {'make_ch11-12': 1, 'make_ch17-20': 2, 'make_ch26-31': 6}	5-635/sañcetanikānaṃ×1
+1	ထိုးထွင်း သိမြင်ရန် → ထင်ထင်ရှားရှား သိမြင်ရန်	src 3 {'make_ch2-5': 2, 'make_ch17-20': 1}	5-641/abhisametuṃ×2
+1	သိက္ခာ → ကျင့်စဉ်	src 4 {'make_ch17-20': 4}	5-648/sikkhāya×3
+1	ပွင့်ထွန်းတော်မူ → ဖြစ်ပေါ်	src 3 {'make_ch21-25': 3}	5-654/uppajjati×1
+1	သေ → သေပြီး	src 2022 {'my5_formulas': 94, 'make_sample': 188, 'make_ch2-5': 192, 'make_ch6-10': 240, 'make_ch11-12': 229, 'make_ch13-16': 394, 'make_ch17-20': 215, 'make_ch21-25': 253, 'make_ch26-31': 217}	5-656/Mato×7
+1	မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီး → မှားယွင်းမှု၌ ကျိန်းသေ	src 0 {}	5-663/Micchattaniyato×1
+1	အဖျော် → သောက်ဖွယ်	src 12 {'make_ch21-25': 12}	5-692/pānaṃ×1
+1	အစာ → ထမင်း	src 8 {'make_ch11-12': 1, 'make_ch13-16': 2, 'make_ch21-25': 2, 'make_ch26-31': 3}	5-692/annaṃ×1
+1	အသက် မွေး → အသက်မွေး	src 1 {'make_ch21-25': 1}	5-692/yāpeti×1
+1	ထကြွခြင်း ရှိ → ထကြွခြင်းကို ခံရ	src 0 {}	5-701/Pariyuṭṭhito×2
+1	တိရစ္ဆာန် ဘုံ → တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား	src 0 {}	5-707/tiracchānayoniṃ×1
+1	ဘုံ → မွေးဖွားရာ အမျိုးအစား	src 76 {'make_sample': 3, 'make_ch2-5': 8, 'make_ch6-10': 3, 'make_ch11-12': 8, 'make_ch13-16': 44, 'make_ch17-20': 2, 'make_ch21-25': 3, 'make_ch26-31': 5}	5-707/yoniṃ×1
+1	မနှစ်သက်ဖွယ်ရာ → မချစ်ခင်ဖွယ်ရာ	src 1 {'make_ch21-25': 1}	5-708/akantāya×1
+1	ကာလသည် အမှန်တကယ် ဖြစ်ပေါ်ပြီး → ကာလသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီး	src 0 {}	5-720/Addhā parinipphanno×4
+1	စိတ် → မနော	src 371 {'my5_formulas': 14, 'make_sample': 15, 'make_ch2-5': 23, 'make_ch6-10': 48, 'make_ch11-12': 44, 'make_ch13-16': 70, 'make_ch17-20': 71, 'make_ch21-25': 42, 'make_ch26-31': 44}	5-742/mano×4
+1	မဆင်းရဲစေတတ် → ညှဉ်းဆဲမှု ကင်း	src 1 {'make_ch21-25': 1}	5-742/abyābajjhaṃ×9
+1	ရောက်စေတတ်သော ကံ → ဖြစ်စေတတ်သော ကံ	src 0 {}	5-777/saṃvattaniyaṃ kammaṃ×7
+1	ရောက်စေတတ် → ဖြစ်စေတတ်	src 10 {'make_ch2-5': 1, 'make_ch11-12': 5, 'make_ch13-16': 1, 'make_ch21-25': 3}	5-777/saṃvattaniyaṃ×8
+1	ဘဝအဆက်ဆက် → ပိုင်းခြား၍ သိ	src 1 {'make_ch21-25': 1}	5-782/pariyāye×1
+1	တိုက် → လုယူ	src 17 {'make_ch2-5': 3, 'make_ch6-10': 5, 'make_ch13-16': 3, 'make_ch17-20': 1, 'make_ch21-25': 3, 'make_ch26-31': 2}	5-784/hareyya×2
+1	ကွဲပြားစေတတ် → ပြုတတ်	src 1 {'make_ch21-25': 1}	5-785/karaṇaṃ×1
+1	ဖြစ်ပေါ် → ပေါ်ပေါက်	src 247 {'my5_formulas': 2, 'make_sample': 24, 'make_ch2-5': 12, 'make_ch6-10': 32, 'make_ch11-12': 34, 'make_ch13-16': 50, 'make_ch17-20': 25, 'make_ch21-25': 43, 'make_ch26-31': 25}	5-798/jātā×1
+1	ရည်စူး → ရည်ရွယ်	src 1 {'make_ch21-25': 1}	5-798/uddissa×1
+1	ဖယ်ရှား → ပယ်ဖျောက်	src 11 {'my5_formulas': 3, 'make_ch2-5': 1, 'make_ch21-25': 7}	5-798/Vineyya×1
+1	သုခ ဒုက္ခ → ချမ်းသာနှင့် ဆင်းရဲ	src 2 {'make_ch21-25': 2}	5-801/sukhadukkhaṃ×1
+1	ဖွားမြင်တော်မူခဲ့ → ပေါ်ပေါက်	src 1 {'make_ch26-31': 1}	5-802/jāto×2
+1	အသက် → သက်တမ်း	src 62 {'my5_formulas': 4, 'make_sample': 2, 'make_ch2-5': 1, 'make_ch6-10': 2, 'make_ch11-12': 4, 'make_ch13-16': 14, 'make_ch17-20': 17, 'make_ch21-25': 12, 'make_ch26-31': 6}	5-802/āyu×1
+1	အရံ → ဥယျာဉ်	src 4 {'make_ch21-25': 1, 'make_ch26-31': 3}	5-802/ārāma×3
+1	ဖွားမြင်တော်မူ → ပေါ်ပေါက်	src 3 {'make_ch2-5': 1, 'make_ch26-31': 2}	5-803/jāto×2
+1	ပေါ်ပေါက် → ကောင်းစွာ မွေးဖွားပြီး	src 38 {'make_sample': 6, 'make_ch2-5': 6, 'make_ch11-12': 5, 'make_ch13-16': 11, 'make_ch17-20': 2, 'make_ch21-25': 4, 'make_ch26-31': 4}	5-829/sañjātaṃ×2
+1	ဖြစ်ထွန်း → ပေါ်ထွက်ပြီး	src 2 {'make_ch26-31': 2}	5-829/nibbattaṃ×2
+1	ဝေ့ဝဲ ကြည့် → ဘေးသို့ ကြည့်	src 1 {'make_ch26-31': 1}	5-852/viloketi×1
+1	မြင် → ရှုမြင်	src 174 {'my5_formulas': 8, 'make_sample': 26, 'make_ch2-5': 21, 'make_ch6-10': 54, 'make_ch11-12': 17, 'make_ch13-16': 24, 'make_ch17-20': 3, 'make_ch21-25': 5, 'make_ch26-31': 16}	5-856/dassāvino×3
+1	အမိ → အမိကို အသက်	src 15 {'my5_formulas': 1, 'make_ch2-5': 1, 'make_ch6-10': 1, 'make_ch13-16': 1, 'make_ch17-20': 3, 'make_ch21-25': 4, 'make_ch26-31': 4}	5-858/mātaraṃ jīvitā×5
+1	သတ်ခဲ့ပြီး → ချခံရ	src 1 {'make_ch26-31': 1}	5-859/voropitā×6
+1	သတ်ခဲ့ပြီး → အသက်မှ ချခံရ	src 1 {'make_ch26-31': 1}	5-859/jīvitā voropitā×6
+1	အနှောင် → အနှောင်အဖွဲ့	src 5 {'my5_formulas': 3, 'make_ch2-5': 1, 'make_ch26-31': 1}	5-868/bandhanaṃ×1
+1	ပူလောင်နေ → လောင်ကျွမ်းနေ	src 1 {'make_ch26-31': 1}	5-868/ādittāya×3
+1	အမြဲ → အချိန်တိုင်း	src 15 {'make_sample': 3, 'make_ch11-12': 1, 'make_ch13-16': 1, 'make_ch17-20': 2, 'make_ch26-31': 8}	5-868/sabbadā×1
+1	ခြေ နှစ်ချောင်း ရှိ → ခြေနှစ်ချောင်း ရှိ	src 1 {'make_ch26-31': 1}	5-872/dvipadānaṃ×1
+1	ယင်းမှာ → ဆိုလိုသည်မှာ	src 1 {'make_ch26-31': 1}	5-872/seyyathidaṃ×2
+1	ရောက် → သွား	src 136 {'my5_formulas': 9, 'make_sample': 6, 'make_ch2-5': 13, 'make_ch6-10': 22, 'make_ch11-12': 16, 'make_ch13-16': 28, 'make_ch17-20': 9, 'make_ch21-25': 15, 'make_ch26-31': 18}	5-874/gacchati×1
+1	အခြား → သူတစ်ပါး	src 80 {'my5_formulas': 2, 'make_sample': 19, 'make_ch2-5': 1, 'make_ch6-10': 8, 'make_ch11-12': 4, 'make_ch13-16': 17, 'make_ch17-20': 5, 'make_ch21-25': 15, 'make_ch26-31': 9}	5-875/para×1
+1	သိမြင် → အမြင်	src 34 {'my5_formulas': 1, 'make_ch2-5': 16, 'make_ch6-10': 7, 'make_ch11-12': 3, 'make_ch17-20': 1, 'make_ch26-31': 6}	5-885/dassana×1
+1	ဆောင် → ဝတ်	src 111 {'my5_formulas': 3, 'make_ch2-5': 11, 'make_ch6-10': 22, 'make_ch11-12': 5, 'make_ch13-16': 35, 'make_ch17-20': 11, 'make_ch21-25': 13, 'make_ch26-31': 11}	5-886/dhāreti×2
+1	ပို့ဆောင်တတ်သော ကံ → ဖြစ်စေတတ်သော ကံ	src 1 {'make_ch26-31': 1}	5-894/saṃvattaniyaṃ kammaṃ×8
+1	စုစည်း → စုပုံ	src 10 {'make_ch13-16': 8, 'make_ch26-31': 2}	5-894/ussineti×2
+1	ကောင်းကျိုး ချမ်းသာ → ကောင်းသော ကံကြမ္မာ	src 2 {'make_ch26-31': 2}	5-894/sobhagya×2
+1	အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက် → အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်	src 1 {'make_ch26-31': 1}	5-901/ekāgārikaṃ kareyya×1
+1	စကား → ပြိန်ဖျင်းသော စကား	src 66 {'my5_formulas': 3, 'make_sample': 9, 'make_ch2-5': 12, 'make_ch6-10': 13, 'make_ch11-12': 2, 'make_ch13-16': 6, 'make_ch17-20': 5, 'make_ch21-25': 8, 'make_ch26-31': 8}	5-903/palāpassa×4
+1	မနှစ်သက်ဖွယ် → စိတ်နှင့် မတွေ့ဖွယ်	src 3 {'make_ch2-5': 1, 'make_ch21-25': 1, 'make_ch26-31': 1}	5-903/amanāpa×1
+1	ကုန်းချောစကား → ကုန်းတိုက်	src 2 {'make_ch26-31': 2}	5-903/pisuṇāya×1
+1	ပို့ဆောင်တတ် → ဖြစ်စေ	src 4 {'make_ch6-10': 2, 'make_ch26-31': 2}	5-904/saṃvattanikā×4
+1	ဆုံးခန်းတိုင်ရာ → မှီခိုရာ	src 2 {'make_ch26-31': 2}	5-905/parāyanā×2
+1	နှလုံးသွင်း → စိတ်ကို ဆောင်	src 31 {'my5_formulas': 1, 'make_ch2-5': 1, 'make_ch11-12': 4, 'make_ch13-16': 1, 'make_ch17-20': 6, 'make_ch21-25': 10, 'make_ch26-31': 8}	5-906/samannāhāro×6
+1	မိမိ → အတွင်းပိုင်း	src 31 {'my5_formulas': 5, 'make_sample': 3, 'make_ch2-5': 3, 'make_ch6-10': 5, 'make_ch13-16': 2, 'make_ch21-25': 7, 'make_ch26-31': 6}	5-906/ajjhattikaṃ×6
+1	ပြန်လည် ဖြစ်ပေါ် → ရောက်	src 31 {'make_sample': 4, 'make_ch2-5': 3, 'make_ch6-10': 3, 'make_ch11-12': 9, 'make_ch13-16': 3, 'make_ch17-20': 2, 'make_ch21-25': 5, 'make_ch26-31': 2}	5-911/upapajjeyya×2
+1	ကောင်းစွာ တည် → တည်ကြည်	src 1 {'make_ch26-31': 1}	5-918/samāhitā×1

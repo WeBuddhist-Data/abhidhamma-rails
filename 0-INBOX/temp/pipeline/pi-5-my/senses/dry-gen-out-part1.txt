@@ -1,0 +1,2 @@
+wrote 5418 decision lines -> dry-decisions-part1.txt
+  manual 193 | p4_same 423 | p4_subset 35 | p4_plus 34 | p4_lump 119 | p3_same 141 | p3_subset 0 | p3_plus 6 | p3_lump 8 | p2_same 519 | p2_subset 43 | p2_plus 1 | p2_lump 155 | p1_same 69 | p1_subset 0 | p1_plus 0 | p1_lump 17 | mr 3655 | case_only 149

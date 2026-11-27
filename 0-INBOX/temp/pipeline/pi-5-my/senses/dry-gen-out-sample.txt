@@ -1,0 +1,29 @@
+wrote 76 decision lines -> dry-decisions-sample.txt
+  manual 0 | p4_same 6 | p4_subset 0 | p4_plus 0 | p4_lump 9 | p3_same 1 | p3_subset 0 | p3_plus 0 | p3_lump 2 | p2_same 0 | p2_subset 0 | p2_plus 0 | p2_lump 4 | p1_same 0 | p1_subset 0 | p1_plus 0 | p1_lump 3 | mr 51 | case_only 1
+REVIEW (21): check, then add to LUMP_OK or MANUAL:
+  kathā [pi-4 one sense, new values ဆွေးနွေးချက် / ဆွေးနွေးခြင်း]: ဆွေးနွေးချက် / ဆွေးနွေးခြင်း
+  vatthu [pi-4 one sense, new values ငုတ်တို / အငြင်းပွားရာ အကြောင်းအရာ / အကြောင်းအရာ]: ငုတ်တို / အငြင်းပွားရာ အကြောင်းအရာ / အကြောင်းအရာ
+  puggalo upalabbhati [one Marathi tag]: ပုဂ္ဂိုလ် … တွေ့ရသည် / ပုဂ္ဂိုလ်ကို တွေ့ရသည်
+  vādī [pi-4 one sense, new values ဆိုတော်မူသော / တစ်ဖက်သား / မိမိဘက်]: ဆိုတော်မူသော / တစ်ဖက်သား / မိမိဘက် / ပြောသော
+  vata [pi-1 one sense, new values အမှန်ပင်]: အမှန်ပင် / အကျင့်ဝတ်
+  parama [pi-2 one sense, new values အဆုံးစွန်]: အဆုံးစွန်
+  micchā [pi-4 one sense, new values မှားသည်]: မှားသည် / မှားယွင်းသော
+  suddha [one Marathi tag]: ရိုးရိုး / သက်သက်
+  suddhika [pi-1 one sense, new values ရိုးရိုး]: ရိုးရိုး
+  catukka [pi-4 one sense, new values လေးပါး]: လေးပါး
+  naya [pi-3 one sense, new values နည်း]: နည်း
+  gati [pi-2 one sense, new values လားရာ / သွားလာခြင်း]: လားရာ / သွားလာခြင်း
+  upādā [pi-3 one sense, new values စွဲလမ်းမှု / မှီ၍]: စွဲလမ်းမှု / မှီ၍
+  purisa [pi-4 one sense, new values လူ / သူတော်ကောင်း]: လူ / ယောက်ျား / သူတော်ကောင်း
+  abhiññā [pi-4 one sense, new values ထူးကဲစွာ သိခြင်း]: ထူးကဲစွာ သိခြင်း
+  vāda [pi-1 one sense, new values ပြောခြင်း]: ဝါဒ / ပြောခြင်း
+  paṭiññāya [pi-2 one sense, new values ဝန်ခံချက်]: ဝန်ခံချက်
+  niggahetabbe [one Marathi tag]: ချေပရမည့် / ချေပရသည်
+  brahma [pi-4 one sense, new values မြတ်သော]: မြင့်မြတ်သော / မြတ်သော
+  brahmacariya [pi-4 one sense, new values မြတ်သော အကျင့်]: မြင့်မြတ်သော အကျင့် / မြတ်သော အကျင့်
+  odhiso [pi-2 one sense, new values အပိုင်းအပိုင်း]: အပိုင်းအပိုင်း
+UNRESOLVED (4): write MANUAL:
+  aṭṭho	Marathi tags=['a reality, a thing that truly is (in the debate headings)', 'sense or meaning of a word']	burmese=['အရာ']
+  anuyogo	Marathi tags=['an examination, a line of questioning (in the debate headings)', 'application to a practice, as in jāgariyānuyoga']	burmese=['စစ်ဆေးမေးမြန်းခြင်း', 'နိုးကြားစွာ အားထုတ်ခြင်း']
+  sutta	Marathi tags=["a discourse of the Buddha, as in 'Attheva suttanto'", 'part of the book name Suttanipāta in citations']	burmese=['သုတ္တန်']
+  niggaha	Marathi tags=['rebuttal in debate', 'holding back, restraining the mind']	burmese=['ချေပချက်', 'ချုပ်ကိုင်ခြင်း']

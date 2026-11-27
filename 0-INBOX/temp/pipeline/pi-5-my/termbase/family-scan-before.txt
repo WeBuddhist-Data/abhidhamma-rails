@@ -1,0 +1,4535 @@
+== A. core words: headwords with the stem whose term lacks the approved word
+   paññatta|0: သတ်မှတ်ချက်   [paññ = ပညာ]  (conventional naming)
+   anuyogo|0: စစ်ဆေးမေးမြန်းခြင်း   [yog = ထမ်းပိုး]  (an examination, a line of questioning (in the debate headings))
+   anuyogo|1: နိုးကြားစွာ အားထုတ်ခြင်း   [yog = ထမ်းပိုး]  (application to a practice, as in jāgariyānuyoga)
+   anuyoga|0: စစ်ဆေးမေးမြန်းခြင်း   [yog = ထမ်းပိုး]  (examination (compound member))
+   Paṭivedhānuyogo|0: ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း   [yog = ထမ်းပိုး]  (heading 'inquiry into penetration')
+   khandha|1: ပင်စည်   [khandh = အစု]  (stem, trunk of a plant, in khandharaso (compound member))
+   dukkha|1: ဒုက္ခ   [dukkh = နာကျင်]  (suffering, the whole of what is unsatisfactory, in dukkhamūla and dukk)
+   dukkha|2: ဆင်းရဲ   [dukkh = နာကျင်]  (misery, affliction in the everyday sense, in dukkhadhammena phuṭṭhassa)
+   sañña|0: အသညသတ်   [saññ = မှတ်သိ]  (perceiving (compound member))
+   dhātu|1: ဘုံ   [dhāt = ဓာတ်]  (realm, plane of existence, in kāmadhātu, rūpadhātu and arūpadhātu (com)
+   dhātuyā|1: ဘုံ   [dhāt = ဓာတ်]  (in the realm, the plane of existence, as in kāmadhātuyā (locative))
+   Rūpadhātuyā|0: သိမ်မွေ့သော ရုပ်ဘုံ   [dhāt = ဓာတ်]  (in the fine-material realm (locative))
+   samādānahetu|0: ဆောက်တည်ခြင်းကြောင့်   [hetu = အမြစ်]  (because of undertaking (heading member))
+   hetu|0: အကြောင်း   [hetu = အမြစ်]  (cause, condition, in Hetucatukka of dependent origination and Hetuvāra)
+   dukkhaṃ|0: ဒုက္ခ   [dukkh = နာကျင်]  (suffering in the sense of the noble truth, the unsatisfactoriness of w)
+   dukkhaṃ|2: ဆင်းရဲ   [dukkh = နာကျင်]  (misery, pain in the everyday sense, in āpāyikaṃ dukkhaṃ 'the misery of)
+   sukha|1: ချမ်းသာ / သုခ   [sukh = သာယာ]  (happiness, well-being in the everyday sense, in sukhadukkha 'pleasure )
+   dukkhasamudayo|0: ဒုက္ခ ဖြစ်ပေါ်ခြင်း   [dukkh = နာကျင်]  (the origin of suffering, the second noble truth (nominative sg.))
+   Sukhānuppadānakathā|0: သုခကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်   [sukh = သာယာ]  (heading 'talk on bestowing happiness')
+   sukhānuppadāna|0: သုခကို ပေးခြင်း   [sukh = သာယာ]  (bestowing of happiness (heading))
+   arūpāvacara|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော   [rūpāvacar = သိမ်မွေ့သော ရုပ်ဘုံ]  (belonging to the immaterial sphere (heading and compound member))
+   Kāmadhātuyā|0: ကာမဘုံ   [dhāt = ဓာတ်]  (in the sense-sphere realm (locative))
+   Arūpadhātuyā|0: ရုပ်မရှိသော ဘုံ   [dhāt = ဓာတ်]  (in the immaterial realm (locative))
+   dukkhassanta|0: ဒုက္ခ၏ အဆုံး   [dukkh = နာကျင်]  (the termination of dukkha (compound))
+   dukkhassa|0: ဒုက္ခ   [dukkh = နာကျင်]  (of suffering, the whole of what is unsatisfactory, in dukkhassantakaro)
+   paññāyati|0: ထင်ရှားသည်   [paññ = ပညာ]  (is discerned, is manifest (3rd sg. passive))
+   paññatti|0: သတ်မှတ်ချက်   [paññ = ပညာ]  (designation, making known (nominative sg. and compound member))
+   virāga|0: ပြယ်ပျောက်   [rāg = ရာဂ]  (dispassion, fading away of desire, in virāganissita and asesavirāganir)
+   puggalassa paññatti|0: ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက် / ပုဂ္ဂိုလ် … သတ်မှတ်ချက်   [paññ = ပညာ]  ('the designation of the individual', thesis phrase)
+   virāgadhammaṃ|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော   [rāg = ရာဂ]  (having the nature to fade)
+   kusalassa puggalassa paññatti|0: ကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်   [paññ = ပညာ]  ('designation of the skilful individual', thesis phrase)
+   akusalassa puggalassa paññatti|0: အကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်   [paññ = ပညာ]  ('designation of the unskilful individual', thesis phrase)
+   abyākatassa puggalassa paññatti|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်   [paññ = ပညာ]  ('designation of the undeclared individual', thesis phrase)
+   virāgadhammā|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော   [rāg = ရာဂ]  (having the nature to fade (feminine or pl.))
+   puggalānaṃ paññatti|0: ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက် / ပုဂ္ဂိုလ် … သတ်မှတ်ချက်   [paññ = ပညာ]  ('designation of individuals', thesis phrase)
+   phusati|0: ထိသည်   [sati = သတိ]  (touches, makes contact (3rd sg. present))
+   dukkhassa antakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း   [kiriy = ပြုရုံမျှသာ]  (making an end of suffering (phrase))
+   dukkhassa antakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း   [dukkh = နာကျင်]  (making an end of suffering (phrase))
+   dibbassa sukhassa paṭisaṃvedī|0: နတ်တို့၏ ချမ်းသာကို ခံစားသော   [sukh = သာယာ]  (one who undergoes heavenly bliss (phrase))
+   sukhaṃ|1: ချမ်းသာ / သုခ   [sukh = သာယာ]  (comfort, ease, in seyyasukhaṃ, passasukhaṃ and middhasukhaṃ (compound )
+   sukhaṃ upalabbhati|0: ချမ်းသာကို တွေ့ရသည်   [sukh = သာယာ]  ('bliss is apprehended', thesis phrase)
+   Dibbaṃ sukhaṃ|0: နတ်တို့၏ ချမ်းသာ   [sukh = သာယာ]  (heavenly bliss (phrase))
+   Dibbaṃ sukhaṃ upalabbhati|0: နတ်တို့၏ ချမ်းသာကို တွေ့ရသည်   [sukh = သာယာ]  ('heavenly bliss is apprehended', thesis phrase)
+   mānusakassa sukhassa paṭisaṃvedī|0: လူတို့၏ ချမ်းသာကို ခံစားသော   [sukh = သာယာ]  (one who undergoes human bliss (phrase))
+   Mānusakaṃ sukhaṃ|0: လူတို့၏ ချမ်းသာ   [sukh = သာယာ]  (human bliss (phrase))
+   Mānusakaṃ sukhaṃ upalabbhati|0: လူတို့၏ ချမ်းသာကို တွေ့ရသည်   [sukh = သာယာ]  ('human bliss is apprehended', thesis phrase)
+   dukkhassa paṭisaṃvedī|0: ဆင်းရဲကို ခံစားသော   [dukkh = နာကျင်]  (one who undergoes suffering (phrase))
+   Nerayikaṃ dukkhaṃ|0: ငရဲ၏ ဆင်းရဲ   [dukkh = နာကျင်]  (infernal suffering (phrase))
+   kataṃ dukkhaṃ|0: ဆင်းရဲ … ပြုထားသော   [dukkh = နာကျင်]  (suffering that is made (phrase))
+   sukhadukkhaṃ|0: ချမ်းသာနှင့် ဆင်းရဲ / ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ   [sukh = သာယာ]  (pleasure-and-pain, weal and woe, in the views on who makes them)
+   sukhadukkhaṃ|0: ချမ်းသာနှင့် ဆင်းရဲ / ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ   [dukkh = နာကျင်]  (pleasure-and-pain, weal and woe, in the views on who makes them)
+   kāraṃ dukkhaṃ|0: ဆင်းရဲ … ပြုသော   [dukkh = နာကျင်]  (suffering made (by another) (phrase))
+   virāgadhammo|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော   [rāg = ရာဂ]  (having the nature to fade (masculine))
+   dukkhā|1: ဒုက္ခ   [dukkh = နာကျင်]  (suffering, said of the five aggregates of clinging (nominative pl.))
+   dukkhā|2: ဆင်းရဲ   [dukkh = နာကျင်]  (miserable, painful in the everyday sense, in 'kāmā aniccā dukkhā' of t)
+   bahiddhā|1: အပြင်   [bahiddh = ၌]  (outside, in 'ito bahiddhā' 'outside this teaching' (adverb), here goin)
+   sukhāya|0: ချမ်းသာ   [sukh = သာယာ]  (for the happiness, the well-being of, in dīgharattaṃ hitāya sukhāya (d)
+   saṅkhāra|1: တိုက်တွန်းမှု   [saṅkhār = ပြုပြင်ဖန်တီး]  (prompting, exertion, in sasaṅkhāraparinibbāyī and asaṅkhāraparinibbāyī)
+   sassatisamaṃ|0: ထာဝရ တည်မြဲသည်နှင့် တူစွာ   [sati = သတိ]  (like eternity itself (adverb))
+   paññāpeti|0: သတ်မှတ်ဖော်ပြသည် / ပညတ်သည်   [paññ = ပညာ]  (declares, makes known (3rd sg.))
+   diṭṭhe dhamme|0: မျက်မှောက်ဘဝ   [diṭṭh = အယူ]  (in the visible state, here and now (locative phrase))
+   uppāda|1: ထွက်စေခြင်း   [uppād = ဖြစ်ပေါ်]  (causing to flow, in ruhiruppāda 'the shedding of blood' (compound memb)
+   visaññutto|0: ကင်းလွတ်ပြီးသော   [saññ = မှတ်သိ]  (disjoined from the bonds)
+   anupassati|0: အဖန်ဖန် ရှုသည်   [sati = သတိ]  (observes repeatedly (3rd sg.))
+   yogo|1: အားထုတ်မှု   [yog = ထမ်းပိုး]  (effort, application, in pubbayogo 'former effort' (compound final))
+   paṭicca uppajjati|0: မှီ၍ … ဖြစ်ပေါ်သည် / မှီ၍ ဖြစ်ပေါ်သည်   [paṭicca = အကြောင်းတို့ကို မှီ၍]  (arises in dependence (phrase))
+   uppādakā|0: ထွက်စေသူ   [uppād = ဖြစ်ပေါ်]  (causers, in ruhiruppādakā (nominative pl.))
+   sacchikiriyā|0: မျက်မှောက်ပြုခြင်း   [kiriy = ပြုရုံမျှသာ]  (realization, direct experiencing (nominative sg.))
+   sacchikiriyāya|0: မျက်မှောက်ပြု   [kiriy = ပြုရုံမျှသာ]  (for the realization, direct experiencing (dative sg.))
+   Arahattasacchikiriyāya|0: ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန် / ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်   [kiriy = ပြုရုံမျှသာ]  (for experiencing the state of a worthy one (dative compound))
+   dukkho|0: ဒုက္ခ   [dukkh = နာကျင်]  (painful, suffering (masculine sg.))
+   Aṇusahagataṃ jahati|0: အနည်းငယ်မျှ ကျန်ရှိသော … စွန့်ပယ်သည်   [sahagat = အတူ]  (gives up the residual subtle form (phrase))
+   Anāgāmiphalasacchikiriyāya jahati|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … စွန့်ပယ်သည်   [kiriy = ပြုရုံမျှသာ]  (gives up for experiencing the non-returning fruit (phrase))
+   Jahati anāgāmiphalasacchikiriyāya|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … စွန့်ပယ်သည်   [kiriy = ပြုရုံမျှသာ]  (gives up for experiencing the non-returning fruit (phrase))
+   Jahati anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်   [kiriy = ပြုရုံမျှသာ]  (gives up sensual lust and malevolence for the non-returning fruit (phr)
+   Vikkhambheti anāgāmiphalasacchikiriyāya|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ဖိနှိပ်ထားသည်   [kiriy = ပြုရုံမျှသာ]  (suppresses for experiencing the non-returning fruit (phrase))
+   Vikkhambheti anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်   [kiriy = ပြုရုံမျှသာ]  (suppresses sensual lust and malevolence for the non-returning fruit (p)
+   dukkhehi|0: ကိုယ်ဆင်းရဲခြင်း   [dukkh = နာကျင်]  (from physical pains (instrumental pl.))
+   dukkhasmā|0: ဒုက္ခ   [dukkh = နာကျင်]  (from pain, unsatisfactoriness (ablative))
+   kissa hetu|0: အဘယ်ကြောင့်   [hetu = အမြစ်]  (for what reason (interrogative phrase))
+   yogaṃ|0: ဆက်စပ်   [yog = ထမ်းပိုး]  (connection, combination, in ayoganti (accusative))
+   Paccuppannaṃ atthi|0: ပစ္စုပ္ပန် ရှိသည်   [uppann = ဖြစ်ပေါ်]  (what is now arisen is existent (phrase))
+   Paccuppannaṃ viññāṇaṃ|0: ပစ္စုပ္ပန် သိစိတ်   [uppann = ဖြစ်ပေါ်]  (cognition arisen now (phrase))
+   Paccuppannaṃ viññāṇaṃ atthi|0: ပစ္စုပ္ပန် သိစိတ် ရှိသည်   [uppann = ဖြစ်ပေါ်]  (cognition arisen now is existent (phrase))
+   Paccuppannaṃ rūpaṃ|0: ပစ္စုပ္ပန် ရုပ်   [uppann = ဖြစ်ပေါ်]  (matter arisen now (phrase))
+   Paccuppannaṃ rūpaṃ|1: ပစ္စုပ္ပန် အဆင်းအရောင်   [uppann = ဖြစ်ပေါ်]  (visible object arisen now (phrase))
+   paccuppannaṃ viññāṇaṃ jahati|0: ပစ္စုပ္ပန် သိစိတ် … စွန့်ပယ်သည်   [uppann = ဖြစ်ပေါ်]  (cognition arisen now gives up its state (phrase))
+   Paccuppannaṃ sotaṃ atthi|0: ပစ္စုပ္ပန် နား ရှိသည်   [uppann = ဖြစ်ပေါ်]  (the hearing organ now arisen is existent (phrase))
+   Paccuppannaṃ cakkhuṃ|0: ပစ္စုပ္ပန် မျက်စိ   [uppann = ဖြစ်ပေါ်]  (the seeing organ now arisen (phrase))
+   Paccuppannaṃ cakkhuṃ atthi|0: ပစ္စုပ္ပန် မျက်စိ ရှိသည်   [uppann = ဖြစ်ပေါ်]  (the seeing organ now arisen is existent (phrase))
+   paccuppannaṃ dhammaṃ|0: ပစ္စုပ္ပန် သဘောတရား   [uppann = ဖြစ်ပေါ်]  (mind-object now arisen (phrase))
+   Paccuppanno mano|0: ပစ္စုပ္ပန် မနော   [uppann = ဖြစ်ပေါ်]  (the mind organ now arisen (phrase))
+   Paccuppanno mano atthi|0: ပစ္စုပ္ပန် မနော ရှိသည်   [uppann = ဖြစ်ပေါ်]  (the mind organ now arisen is existent (phrase))
+   dukkhaṃ parijānāti|0: ဒုက္ခကို ပိုင်းခြား သိသည်   [dukkh = နာကျင်]  (comprehends unsatisfactoriness fully (phrase))
+   Paccuppannaṃ ñāṇaṃ|0: ပစ္စုပ္ပန် ဉာဏ်   [uppann = ဖြစ်ပေါ်]  (understanding now arisen (phrase))
+   Paccuppannaṃ ñāṇaṃ atthi|0: ပစ္စုပ္ပန် ဉာဏ် ရှိသည်   [uppann = ဖြစ်ပေါ်]  (understanding now arisen is existent (phrase))
+   atīto aṇusahagato|0: အတိတ် အနည်းငယ်မျှ ကျန်ရှိသော   [sahagat = အတူ]  (the bygone residual one (phrase))
+   atīto aṇusahagato byāpādo|0: အတိတ် အနည်းငယ်မျှ ကျန်ရှိသော ဖျက်ဆီးလိုစိတ်   [sahagat = အတူ]  (bygone residual malevolence (phrase))
+   Catupaññāsa|0: ငါးဆယ့်လေးပါး   [paññ = ပညာ]  (the number 54 (numeral))
+   atītāni bāvīsatindriyāni atthi|0: အတိတ် စွမ်းရည် နှစ်ဆယ့်နှစ်ပါး ရှိသည်   [sati = သတိ]  (the bygone twenty-two faculties are existent (phrase))
+   paccuppannā pañcakkhandhā atthi|0: ပစ္စုပ္ပန် အစုအဝေး ငါးပါး ရှိသည်   [uppann = ဖြစ်ပေါ်]  (the five groups now arisen are existent (phrase))
+   paccuppannaṃ cakkhāyatanaṃ|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်   [uppann = ဖြစ်ပေါ်]  (the seeing sphere now arisen (phrase))
+   bāvīsati|0: နှစ်ဆယ့်နှစ်ပါး   [sati = သတိ]  (the number 22, counting the faculties)
+   no paccuppannaṃ paccuppannaṃ|0: ပစ္စုပ္ပန်သည် ပစ္စုပ္ပန် မဟုတ်   [uppann = ဖြစ်ပေါ်]  (is not the now-arisen now-arisen? (phrase))
+   hetuka|0: အကြောင်း   [hetu = အမြစ်]  (caused, having a cause, in ahetukavāda 'the doctrine of no cause' (com)
+   paññāpeyya|0: ထင်ရှားပြနိုင်သည်   [paññ = ပညာ]  (would make known, declare (optative))
+   paññāpayamāno|0: ထင်ရှားပြလိုသော   [paññ = ပညာ]  (making known, declaring (present participle))
+   atīte paññāpayamāno|0: အတိတ် … ထင်ရှားပြလိုသော   [paññ = ပညာ]  (declaring with respect to the bygone (phrase))
+   sukhumaṃ|0: နုညံ့သော   [sukh = သာယာ]  (subtle, fine, of matter (neuter sg.))
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး   [uppann = ဖြစ်ပေါ်]  (cognition now arisen and the groups (phrase))
+   paccuppannaṃ natthi|0: ပစ္စုပ္ပန် မရှိသည်   [uppann = ဖြစ်ပေါ်]  (what is now arisen is non-existent (phrase))
+   Paccuppannaṃ khandhā|0: ပစ္စုပ္ပန်သည် အစုအဝေး   [uppann = ဖြစ်ပေါ်]  (what is now arisen and the groups (phrase))
+   Paccuppannā dhammā|0: ပစ္စုပ္ပန် သဘောတရား   [uppann = ဖြစ်ပေါ်]  (present phenomena, a matrix heading (nominative pl.))
+   anussati|0: အဖန်ဖန် အောက်မေ့ခြင်း   [sati = သတိ]  (recollection, repeated remembering (nominative sg. and compound member)
+   samohitā|0: ယှဉ်တွဲသော   [moh = မောဟ]  (gathered together, joined with (nominative pl. participle))
+   passaddhi|0: ငြိမ်းအေးခြင်း   [saddh = ယုံကြည်]  (tranquillity, calming (nominative sg.))
+   uppādeyya|0: ဖြစ်စေသည် / ထွက်စေသည်   [uppād = ဖြစ်ပေါ်]  (would cause, as in shedding the Buddha's blood (optative), also would )
+   Sadhammakusalo vītarāgo|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … ရာဂ ကင်းသော   [kusal = ကုသိုလ်]  (one expert in his own doctrine is rid of lust (phrase))
+   kusalassa|0: ကျွမ်းကျင်သော   [kusal = ကုသိုလ်]  (skilled, expert, in sadhammakusalassa 'of one skilled in his own field)
+   Sadhammakusalassa arahato|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော ရဟန္တာ   [kusal = ကုသိုလ်]  (of a worthy one expert in his own doctrine (genitive phrase))
+   dukkhanirodho|0: ဒုက္ခ ချုပ်ငြိမ်းခြင်း   [dukkh = နာကျင်]  (the ending of suffering, the third noble truth (nominative sg.))
+   dukkhanirodha|0: ဒုက္ခ ချုပ်ငြိမ်းရာ   [dukkh = နာကျင်]  (the ending of suffering, the third truth (compound member))
+   Sadhammakusalassa paravitāraṇā|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … သူတစ်ပါးက ရှင်းပြပေးခြင်း   [kusal = ကုသိုလ်]  (the being helped across of one expert in his own doctrine (phrase))
+   bhāsati|0: ပြောသည်   [sati = သတိ]  (utters, talks (3rd sg. present))
+   vācaṃ bhāsati|0: စကားကို ပြောသည်   [sati = သတိ]  (utters words (phrase))
+   vihassati|0: နေသည်   [sati = သတိ]  (will abide (3rd sg. future))
+   dukkhassantaṃ|0: ဒုက္ခ၏ အဆုံး   [dukkh = နာကျင်]  (the end of dukkha (accusative))
+   viharissati|0: နေသည်   [sati = သတိ]  (will dwell, will live on (3rd sg. future))
+   vihessati|0: နေသည်   [sati = သတိ]  (will dwell, the variant reading of viharissati (3rd sg. future))
+   dissati|0: ထင်ရသည်   [sati = သတိ]  (is seen, appears, in editorial notes (3rd sg. passive))
+   uppādako|0: စိမ်းစေသူ   [uppād = ဖြစ်ပေါ်]  (one who draws a Buddha's blood, in ruhiruppādako (nominative))
+   Divaso uppādakkhaṇo|0: နေ့ … ဖြစ်ခြင်း ခဏ   [uppād = ဖြစ်ပေါ်]  (a day as its arising instant (phrase))
+   paññāsa|0: ငါးဆယ်   [paññ = ပညာ]  (the number fifty (numeral))
+   vīsati|0: နှစ်သောင်း   [sati = သတိ]  (the number twenty (numeral))
+   vīsati sahassāni|0: နှစ်သောင်း   [sati = သတိ]  (20,000 (numeral phrase))
+   vīsati kappasahassāni|0: ကမ္ဘာ နှစ်သောင်း   [sati = သတိ]  (twenty thousand world-ages (phrase))
+   sukhudrayaṃ sukhavipākaṃ|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော … ချမ်းသာသော အကျိုး ရှိသော   [sukh = သာယာ]  (having pleasant yield and pleasant result (phrase))
+   Dukkhe|0: ဒုက္ခ   [dukkh = နာကျင်]  (about suffering, the first truth (locative))
+   Dukkhe|1: ဆင်းရဲသော   [dukkh = နာကျင်]  (in the painful, misery in the everyday sense, in the perversion 'dukkh)
+   Dukkhasaccaṃ|0: ဒုက္ခ သစ္စာ   [dukkh = နာကျင်]  (the noble truth of suffering, the first truth (nominative sg.))
+   dukkhanirodhaṃ|0: ဒုက္ခ ချုပ်ငြိမ်းခြင်း   [dukkh = နာကျင်]  (the ending of suffering, the third noble truth (accusative sg.))
+   dukkhasamudayaṃ|0: ဒုက္ခ ဖြစ်ပေါ်ခြင်း   [dukkh = နာကျင်]  (the origin of suffering, the second noble truth (accusative sg.))
+   Tathāgatabalaṃ sāvakabalaṃ|0: ဘုရားဆိုင်ရာ စွမ်းအားသည် တပည့်၏ စွမ်းအား   [tathāgat = မြတ်စွာဘုရား]  (the Thus-gone One's power is a hearer's power (phrase))
+   Tathāgatabalaṃ sāvakasādhāraṇaṃ|0: ဘုရားဆိုင်ရာ စွမ်းအားသည် တပည့်တို့နှင့် ဆက်ဆံသော   [tathāgat = မြတ်စွာဘုရား]  (the Thus-gone One's power is common to hearers (phrase))
+   tathāgatabalaṃ taṃ sāvakabalaṃ|0: ဘုရားဆိုင်ရာ စွမ်းအား … တပည့်၏ စွမ်းအား   [tathāgat = မြတ်စွာဘုရား]  (that power of the Thus-gone One is a hearer's power (phrase))
+   hetuso|0: အကြောင်းရင်း   [hetu = အမြစ်]  (by way of cause (adverb))
+   saṃkilesaṃ|0: ညစ်နွမ်းခြင်း   [kiles = ကိလေသာ]  (defilement, corruption (accusative sg.))
+   saṃkilesaṃ|0: ညစ်နွမ်းခြင်း   [saṃkiles = ကိလေသာ]  (defilement, corruption (accusative sg.))
+   anussatiṃ|0: အဖန်ဖန် အောက်မေ့ခြင်း   [sati = သတိ]  (calling to mind (accusative))
+   tathāgatassa khīṇā|0: ဘုရားဆိုင်ရာ စွမ်းအား … ကုန်ခန်းပြီးသော   [tathāgat = မြတ်စွာဘုရား]  (the Thus-gone One's (cankers) are ended (phrase))
+   upakkilese|0: အညစ်အကြေး   [kiles = ကိလေသာ]  (the corruptions, things that defile the mind (accusative pl.))
+   Uppajjissati|0: ဖြစ်ပေါ်လိမ့်မည်   [sati = သတိ]  (will arise, will come into being (3rd sg. future))
+   Aṭṭhamako puggalo duppañño|0: အဋ္ဌမ ပုဂ္ဂိုလ်   [paññ = ပညာ]  (the eighth individual is of poor understanding (phrase))
+   mudutarehi|0: နုံ့သော   [mudut = ပျော့ပျောင်း]  (softer, less developed (instrumental pl. comparative))
+   mudutarehi|0: နုံ့သော   [mudut = ပျော့ပျောင်းခြင်း]  (softer, less developed (instrumental pl. comparative))
+   arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော   [rūpāvacar = သိမ်မွေ့သော ရုပ်ဘုံ]  (belonging to the immaterial sphere (neuter sg.))
+   dukkhassantakaro|0: ဒုက္ခ၏ အဆုံးကို ပြုသော   [dukkh = နာကျင်]  (one who makes an end of dukkha (compound))
+   samohito|0: ယှဉ်တွဲသော   [moh = မောဟ]  (furnished with, endowed (nominative sg. participle))
+   Paccuppannāya buddho|0: ပစ္စုပ္ပန် … ဘုရား   [uppann = ဖြစ်ပေါ်]  (awakened by a present awakening (phrase))
+   Paccuppannāya bodhiyā|0: ပစ္စုပ္ပန် ဗောဓိ   [uppann = ဖြစ်ပေါ်]  (by an awakening now occurring (phrase))
+   paṭipassaddhāya|0: ငြိမ်းအေးသွားသော   [saddh = ယုံကြည်]  (calmed down, ceased (feminine participle))
+   paṭipassaddhāya|0: ငြိမ်းအေးသွားသော   [passaddh = ငြိမ်းအေးခြင်း]  (calmed down, ceased (feminine participle))
+   obhāsati|0: ထွန်းလင်းသည်   [sati = သတိ]  (gives off light (3rd sg. present))
+   ajjhāvasati|0: နေသည်   [sati = သတိ]  (occupies (3rd sg. present))
+   pahātabbaṃ|0: ပယ်ရမည့်   [pahātabb = ပယ်ရမည်]  (to be abandoned (neuter sg. participle))
+   dukkhaṃ ariyasaccaṃ|0: ဒုက္ခ အရိယာ သစ္စာ   [dukkh = နာကျင်]  (the noble truth of suffering (phrase))
+   Arahattasacchikiriyāya samannāgato|0: ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော   [kiriy = ပြုရုံမျှသာ]  (possessed of the realization of arahantship (phrase))
+   Anāgāmiphalasacchikiriyāya samannāgato|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော   [kiriy = ပြုရုံမျှသာ]  (possessed of the realization of the result of non-return (phrase))
+   Sakadāgāmiphalasacchikiriyāya samannāgato|0: သကဒါဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော   [kiriy = ပြုရုံမျှသာ]  (possessed of the realization of the result of returning once (phrase))
+   aṇusahagataṃ pajahati|0: အနည်းငယ်မျှ ကျန်ရှိသော … ပယ်သည်   [sahagat = အတူ]  (gives up the residual trace (phrase))
+   anāgāmiphalasacchikiriyāya vimuttaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော   [kiriy = ပြုရုံမျှသာ]  (released by realizing the result of non-return (phrase))
+   sakadāgāmiphalasacchikiriyāya vimuttaṃ|0: သကဒါဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော   [kiriy = ပြုရုံမျှသာ]  (released by realizing the result of returning once (phrase))
+   sotāpattiphalasacchikiriyāya vimuttaṃ|0: သောတာပတ္တိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော   [kiriy = ပြုရုံမျှသာ]  (released by realizing the stream-entry result (phrase))
+   adiṭṭhaṃ|0: မမြင်ရသေးသော   [diṭṭh = အယူ]  (not seen (past participle))
+   sotāpattiphalasacchikiriyāya ñāṇaṃ atthi|0: သောတာပတ္တိဖိုလ်ကို မျက်မှောက်ပြုရန် … ဉာဏ် ရှိသည်   [kiriy = ပြုရုံမျှသာ]  (there is knowing for the realization of the stream-entry result (phras)
+   okkamissati|0: သက်ဆင်းသည်   [sati = သတိ]  (will step into (3rd sg. future))
+   sammattaniyāmaṃ okkamissati|0: မှန်ကန်မှု၌ သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်   [sati = သတိ]  (will step onto the certainty of rightness (phrase))
+   paccuppanne|0: ပစ္စုပ္ပန်   [uppann = ဖြစ်ပေါ်]  (variant reading noted in the present-knowledge discussion, left in Pāl)
+   Paṭuppannañāṇakathā|0: ပစ္စုပ္ပန်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်   [uppann = ဖြစ်ပေါ်]  (title of the discussion of knowledge of the present (heading))
+   Dukkhaṃ saṅkhataṃ|0: ဒုက္ခသည် ပြုပြင်ဖန်တီးထားသော   [dukkh = နာကျင်]  (pain is made by conditions (phrase))
+   Dukkhaṃ asaṅkhataṃ|0: ဒုက္ခသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော   [dukkh = နာကျင်]  (pain is not made by conditions (phrase))
+   paṭicca uppajjati cakkhuviññāṇaṃ|0: မှီ၍ မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်   [paṭicca = အကြောင်းတို့ကို မှီ၍]  (visual cognizance comes into being in dependence (phrase))
+   ādisati|0: ဖော်ပြသည်   [sati = သတိ]  (points out, reveals (3rd sg. present))
+   sukhudrayaṃ|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော   [sukh = သာယာ]  (having pleasant consequences (nominative sg.))
+   vaṃsaññāni|0: အနွယ်ဟု သိအပ်သော   [saññ = မှတ်သိ]  (known as the lineage (nominative pl.))
+   sukhudrayo|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော   [sukh = သာယာ]  (having pleasant consequences (nominative sg.))
+   sukhassa|0: ချမ်းသာ   [sukh = သာယာ]  (of pleasure, happiness (genitive sg.))
+   parakataṃ sukhadukkhaṃ|0: သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော   [sukh = သာယာ]  (pleasure and pain made by another (phrase))
+   parakataṃ sukhadukkhaṃ|0: သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော   [dukkh = နာကျင်]  (pleasure and pain made by another (phrase))
+   sasaṅkhāra|0: တိုက်တွန်းမှု   [saṅkhār = ပြုပြင်ဖန်တီး]  (with effort, by exertion, in sasaṅkhāraniggayhavāritagato (compound me)
+   tappaṭisaññutto|0: ထိုအရာနှင့် စပ်ယှဉ်သော   [saññ = မှတ်သိ]  (bound up with that (nominative sg.))
+   tappaṭisaññutto chando|0: ထိုအရာနှင့် စပ်ယှဉ်သော လိုလားမှု   [saññ = မှတ်သိ]  (wish bound up with that (phrase))
+   tappaṭisaññuttaṃ somanassaṃ|0: ထိုအရာနှင့် စပ်ယှဉ်သော ဝမ်းမြောက်မှု   [saññ = မှတ်သိ]  (mental pleasure bound up with that (phrase))
+   tappaṭisaññutto saṅkappo|0: ထိုအရာနှင့် စပ်ယှဉ်သော ကြံစည်မှု   [saññ = မှတ်သိ]  (resolve bound up with that (phrase))
+   dhātū|0: ဘုံ   [dhāt = ဓာတ်]  (sphere, plane (nominative, as compound final))
+   kāmadhātū|0: ကာမဘုံ   [dhāt = ဓာတ်]  (the sense sphere (nominative))
+   rūpadhātū|0: သိမ်မွေ့သော ရုပ်ဘုံ   [dhāt = ဓာတ်]  (the fine-material sphere (nominative))
+   kāmadhātu rūpadhātū|0: ကာမဘုံ … သိမ်မွေ့သော ရုပ်ဘုံ   [dhāt = ဓာတ်]  (the sense sphere and the fine-material sphere (phrase))
+   arūpadhātū|0: ရုပ်မရှိသော ဘုံ   [dhāt = ဓာတ်]  (the immaterial sphere (nominative))
+   kāmadhātu arūpadhātū|0: ကာမဘုံ … ရုပ်မရှိသော ဘုံ   [dhāt = ဓာတ်]  (the sense sphere and the immaterial sphere (phrase))
+   mogha|0: အချည်းနှီး   [ogh = ရေအလျဉ်]  (void, yielding nothing (in moghapucchaka))
+   samiddhi|0: သမိဒ္ဓိ   [middh = ငိုက်မျဉ်း]  (proper name, the monk Samiddhi)
+   kāmadhātu|0: ကာမဘုံ   [dhāt = ဓာတ်]  (the sense-sphere realm, the world of sensual pleasure (nominative sg.))
+   dukkhato|0: ဆင်းရဲ   [dukkh = နာကျင်]  (as pain (ablative))
+   sukhānupassī viharati|0: ချမ်းသာဟု အဖန်ဖန် ရှုသော … နေသည်   [sukh = သာယာ]  (abides seeing as pleasure (phrase))
+   pariyogāhamāno|0: သက်ဝင်သော   [yog = ထမ်းပိုး]  (diving into (present participle))
+   paccuppannārammaṇaṃ|0: ပစ္စုပ္ပန်ကို အာရုံပြုသော   [uppann = ဖြစ်ပေါ်]  (having a present object (neuter sg.))
+   paccuppannena cakkhāyatanena|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်   [uppann = ဖြစ်ပေါ်]  (by the present sphere of sight (phrase))
+   ajjhattika|0: အတွင်းပိုင်း   [ajjhatt = မိမိ]  (internal, one's own (compound member))
+   Samādānahetukaṃ|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော   [hetu = အမြစ်]  (caused by taking up precepts, heading and thesis (nominative))
+   Samādānahetukaṃ vaḍḍhati|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော … တိုးပွားသည်   [hetu = အမြစ်]  ('what is caused by undertaking increases' (phrase))
+   samādānahetukaṃ sīlaṃ|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော သီလ   [hetu = အမြစ်]  (morality caused by undertaking, heading (phrase))
+   paṭipassaddhena|0: ငြိမ်းအေးပြီးသော   [saddh = ယုံကြည်]  (by what has calmed down (instrumental participle))
+   paṭipassaddhena|0: ငြိမ်းအေးပြီးသော   [passaddh = ငြိမ်းအေးခြင်း]  (by what has calmed down (instrumental participle))
+   iddhiyā paggahetuṃ|0: ဣဒ္ဓိဖြင့် ထိန်းထား   [hetu = အမြစ်]  (to sustain by supernormal potency (phrase))
+   ākaṅkhamāno|0: အလိုရှိသော   [kaṅkh = သံသယ]  (desiring (participle))
+   dukkhavipākāni jātijarāmaraṇiyāni|0: ဆင်းရဲ အကျိုး ရှိသော … ဖြစ်ခြင်း အိုခြင်း သေခြင်းကို ဖြစ်စေတတ်သော   [dukkh = နာကျင်]  (ripening in pain, conducive to birth, decay and dying (phrase))
+   dukkhassantakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း   [kiriy = ပြုရုံမျှသာ]  (making an end of pain (nominative))
+   dukkhassantakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း   [dukkh = နာကျင်]  (making an end of pain (nominative))
+   arūpāvacarā|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော   [rūpāvacar = သိမ်မွေ့သော ရုပ်ဘုံ]  (belonging to the immaterial sphere (feminine or pl.))
+   cittena uppāditaṃ|0: စိတ် … ထွက်စေအပ်သော   [uppād = ဖြစ်ပေါ်]  (drawn out with intent, of a Buddha's blood (phrase))
+   uppāditaṃ|0: ထွက်စေအပ်သော   [uppād = ဖြစ်ပေါ်]  (made to flow, of the Tathāgata's blood (neuter sg. participle))
+   cittena uppādeyya|0: စိတ် … ထွက်စေသည်   [uppād = ဖြစ်ပေါ်]  (would draw blood with intent (phrase))
+   paññattaṃ|0: သတ်မှတ်ထားသော   [paññ = ပညာ]  (laid down, prescribed (participle))
+   padhaṃsati|0: ပျက်စီးသည်   [sati = သတိ]  (is destroyed, drops out (3rd sg. present))
+   dukkhāya|0: ဆင်းရဲဖွယ်ရာ   [dukkh = နာကျင်]  (for the suffering, the misery of, in dīgharattaṃ ahitāya dukkhāya (dat)
+   indriyo|0: အာရုံခံ အင်္ဂါ   [indriy = စွမ်းရည်]  (having faculties, compound final as in ahīnindriyo (nominative sg.))
+   paṭicca uppajjati sotaviññāṇaṃ|0: မှီ၍ နား သိစိတ် ဖြစ်ပေါ်သည်   [paṭicca = အကြောင်းတို့ကို မှီ၍]  (hearing-awareness comes to be in dependence (phrase))
+   paṭicca uppajjati kāyaviññāṇaṃ|0: မှီ၍ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်   [paṭicca = အကြောင်းတို့ကို မှီ၍]  (touch-awareness comes to be in dependence (phrase))
+   paṭicca uppajjati jivhāviññāṇaṃ|0: မှီ၍ လျှာ သိစိတ် ဖြစ်ပေါ်သည်   [paṭicca = အကြောင်းတို့ကို မှီ၍]  (taste-awareness comes to be in dependence (phrase))
+   diṭṭhadhamma|0: ယခုဘဝ / မျက်မှောက်ဘဝ   [diṭṭh = အယူ]  (this present life, here and now (compound member))
+   diṭṭhadhammasukhavihārena cittena|0: ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်   [diṭṭh = အယူ]  (with a mind of happy abiding here and now (instrumental phrase))
+   diṭṭhadhammasukhavihārena cittena|0: ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်   [sukh = သာယာ]  (with a mind of happy abiding here and now (instrumental phrase))
+   sukhavihāro|0: ချမ်းသာစွာ နေခြင်း   [sukh = သာယာ]  (happy abiding (nominative))
+   paccuppanno addhā|0: ပစ္စုပ္ပန် ကာလ   [uppann = ဖြစ်ပေါ်]  (the period now going on (phrase))
+   paccuppannaṃ addhānaṃ|0: ပစ္စုပ္ပန် ကာလ   [uppann = ဖြစ်ပေါ်]  (during the period now going on (accusative phrase))
+   paraṅkataṃ dukkhaṃ|0: သူတစ်ပါး ပြုထားသော … ဒုက္ခ   [dukkh = နာကျင်]  (pain caused by another (phrase))
+   sukhaṃ dukkhaṃ|0: သုခ ဒုက္ခ   [sukh = သာယာ]  (pleasure together with pain (phrase))
+   sukhaṃ dukkhaṃ|0: သုခ ဒုက္ခ   [dukkh = နာကျင်]  (pleasure together with pain (phrase))
+   sukhaṃ anuppadeti|0: သုခကို ပေးသည်   [sukh = သာယာ]  (bestows pleasure (phrase))
+   paro sukhaṃ anuppadeti|0: တစ်ဦး … သုခကို ပေးသည်   [sukh = သာယာ]  ('another bestows pleasure' (phrase))
+   sukhavihāraṃ|0: ချမ်းသာစွာ နေခြင်း   [sukh = သာယာ]  (pleasant abiding, dwelling at ease (accusative sg.))
+   rūpaṃ arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော ရုပ်   [rūpāvacar = သိမ်မွေ့သော ရုပ်ဘုံ]  (matter belonging to the immaterial sphere (phrase))
+   sukhānuppadānaṃ|0: သုခကို ပေးခြင်း   [sukh = သာယာ]  (the bestowing of pleasure, heading (nominative))
+   indriyabaddhaṃ dukkhaṃ|0: စွမ်းရည်တို့နှင့် ဆက်စပ်သော … ဒုက္ခ / စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ   [dukkh = နာကျင်]  ('what is bound up with the faculties is pain' (phrase))
+   vussati|0: ကျင့်ရသည်   [sati = သတိ]  (is lived, of the holy life (3rd sg. passive))
+   indriyabaddhassa dukkhassa|0: စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ   [dukkh = နာကျင်]  (of the pain bound up with the faculties (genitive phrase))
+   Ariyamaggo dukkho|0: အရိယာ မဂ်သည် ဒုက္ခ   [dukkh = နာကျင်]  ('the noble path is painful' (phrase))
+   Dukkhasamudayo dukkho|0: ဒုက္ခ ဖြစ်ပေါ်ခြင်း … ဒုက္ခ   [dukkh = နာကျင်]  ('the origin of pain is itself painful' (phrase))
+   Dukkhasamudayo anicco|0: ဒုက္ခ ဖြစ်ပေါ်ခြင်းသည် မမြဲသော   [dukkh = နာကျင်]  ('the origin of pain is impermanent' (phrase))
+   somanassāya|0: ဝမ်းမြောက်ခြင်း   [somanass = ဝမ်းမြောက်မှု]  (for gladness (dative))
+   vipassati|0: ကြည့်ရှုသည်   [sati = သတိ]  (sees clearly (3rd sg. present))
+   ruhiruppādako ānantariko|0: ဘုရားရှင်၏ သွေးကို စိမ်းစေသူသည် အနန္တရိယကံ ရှိသော   [uppād = ဖြစ်ပေါ်]  ('one who draws a Buddha's blood is guilty of an immediate deed' (phras)
+   ruhiruppādako|0: ဘုရားရှင်၏ သွေးကို စိမ်းစေသူ   [uppād = ဖြစ်ပေါ်]  (one who draws a Buddha's blood (nominative))
+   Dhammasaññī saṅghabhedako|0: တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ   [saññ = မှတ်သိ]  (a schismatic who thinks it is right (phrase))
+   Dhammasaññī ānantariko|0: တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော   [saññ = မှတ်သိ]  ('one who thinks it is right is guilty of an immediate deed' (phrase))
+   gaṇḍuppādā|0: တီကောင်   [uppād = ဖြစ်ပေါ်]  (soil worms (nominative pl.))
+   hatthināgo|0: ဆင်ပြောင်   [thin = ထိုင်းမှိုင်း]  (a great tusker (nominative))
+   tedhātukehi|0: ဘုံ သုံးပါးနှင့် ဆိုင်သော   [dhāt = ဓာတ်]  (belonging to the three planes (instrumental pl.))
+   rūpadhātuarūpadhātūpagaṃ kammaṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ရုပ်မရှိသော ဘုံသို့ ရောက်စေသော ကံ   [dhāt = ဓာတ်]  (kamma conducive to the fine-material and immaterial planes (phrase))
+   Diṭṭhadhammavedanīyaṃ niyataṃ|0: မျက်မှောက်ဘဝ၌ ခံစားရမည့် … ကျိန်းသေသော   [diṭṭh = အယူ]  ('kamma to be felt here and now is destined' (phrase))
+   kiriyamaye|0: ကြိယာ   [kiriy = ပြုရုံမျှသာ]  (in what is merely functional (locative))
+   kiriyābyākate|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ   [kiriy = ပြုရုံမျှသာ]  (in the merely functional mind that is neither wholesome nor unwholesom)
+   indriyesu|0: အာရုံခံ အင်္ဂါ   [indriy = စွမ်းရည်]  (sense faculty to be guarded, in the restraint passage (locative))
+   Dukkhaṃ parinipphannaṃ|0: ဆင်းရဲ ဒုက္ခ … ပြည့်စုံစွာ ပြီးမြောက်သော   [dukkh = နာကျင်]  ('pain is fully produced' (phrase))
+
+== B. lemma families with more than one term (same polarity prefix)
+-- abbokiṇṇ (2 senses, 2 terms)
+   abbokiṇṇaṃ|0: ကြားမလပ်
+   abbokiṇṇā|0: ကြားမပြတ် ဆက်တိုက်
+-- abhabb (3 senses, 3 terms)
+   abhabbā|0: မသက်ဆင်းနိုင်
+   abhabbo|0: မထိုက်တန် / မစွမ်းနိုင်
+   abhabba|0: မစွမ်းနိုင်
+-- abhikkam (2 senses, 2 terms)
+   abhikkama|0: ရှေ့သို့ တက်ခြင်း
+   abhikkamati|0: ရှေ့သို့ တိုးသည်
+-- abhinand (2 senses, 2 terms)
+   abhinandati|0: နှစ်သက်သည်
+   abhinandino|0: နှစ်သက်သော
+-- abhinibbatt (2 senses, 2 terms)
+   abhinibbattaṃ|0: ထင်ရှားစွာ ဖြစ်မြောက်သော
+   abhinibbattenti|0: ထူးကဲစွာ ဖြစ်စေသည်
+-- abhisam (2 senses, 2 terms)
+   abhisamenti|0: ထင်ထင်ရှားရှား သိမြင်သည်
+   abhisameti|0: ကောင်းစွာ သိတော်မူသည်
+-- abhisambuddh (2 senses, 2 terms)
+   abhisambuddho|0: ဘုရား ဖြစ်တော်မူသော / အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူခဲ့သော
+   abhisambuddhāni|0: ထိုးထွင်း သိတော်မူခဲ့သော
+-- abhiññ (2 senses, 2 terms)
+   abhiññā|0: ထူးကဲစွာ သိခြင်း
+   abhiññāya|0: ထူးကဲစွာ သိခြင်း / ထူးကဲစွာ သိ၍
+-- accant (2 senses, 2 terms)
+   accanta|0: အပြီးအပိုင် / အဆုံးစွန် / လုံးဝ
+   Accantaṃ|0: အပြီးအပိုင်
+-- adhiggaṇh (2 senses, 2 terms)
+   adhiggaṇhanti|0: သာလွန်သည်
+   adhiggaṇhāti|0: လွှမ်းမိုးသည်
+-- agg (4 senses, 3 terms)
+   aggi|0: မီး
+   agginā|0: မီး
+   aggaṃ|0: ဖျား
+   aggo|0: အမြတ်ဆုံး
+-- ajjhattik (2 senses, 2 terms)
+   ajjhattika|0: အတွင်းပိုင်း
+   ajjhattikaṃ|0: မိမိ၏
+-- akant (2 senses, 2 terms)
+   akanta|0: မချစ်ခင်ဖွယ်
+   akantāya|0: မနှစ်သက်ဖွယ်ရာ
+-- akkh (2 senses, 2 terms)
+   akkhānaṃ|0: ပြောကြားခြင်း
+   akkhe|0: မျက်စိ
+-- amanāp (2 senses, 2 terms)
+   amanāpa|0: စိတ်နှင့် မတွေ့ဖွယ် / မနှစ်သက်ဖွယ်
+   amanāpāya|0: စိတ် မတွေ့ဖွယ်ရာ
+-- anantar (3 senses, 3 terms)
+   anantarā|0: ချက်ချင်း နောက် / ချက်ချင်း / နောက်တွင် ချက်ချင်း
+   anantara|0: ချက်ချင်း နောက်၌ ဖြစ်စေသော / ကြားမလပ်
+   anantara|1: နောက်ဆက်တွဲ
+-- anantarapaccay (2 senses, 2 terms)
+   anantarapaccaya|0: ချက်ချင်း နောက်၌ ဖြစ်စေသော အကြောင်း
+   anantarapaccayena|0: ချက်ချင်း နောက်၌ ဖြစ်စေခြင်းဟူသော အကြောင်း
+-- anicc (6 senses, 2 terms)
+   aniccaṃ|0: မမြဲသော
+   aniccā|0: မမြဲသော
+   anicco|0: မမြဲသော
+   aniccato|0: မမြဲ
+   Anicce|0: မမြဲသော
+   anicca|0: မမြဲသော
+-- aniṭṭh (3 senses, 3 terms)
+   aniṭṭha|0: မလိုလားဖွယ် / မလိုလားအပ်သော
+   aniṭṭhā|0: မနှစ်သက်ဖွယ်
+   aniṭṭhāya|0: မလိုလားဖွယ်ရာ
+-- anottapp (4 senses, 2 terms)
+   anottappaṃ|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   anottappī|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု ရှိသော
+   anottappa|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   anottappena|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+-- antaradh (2 senses, 2 terms)
+   antaradhāyati|0: ကွယ်ပျောက်သည်
+   antaradhānaṃ|0: ကွယ်ပျောက်ခြင်း
+-- antarik (3 senses, 2 terms)
+   antarika|0: အကြား ကာလ
+   antarikā|0: ကြားအပိုင်း
+   antarikā|1: အကြား ကာလ
+-- antarābhavūpag (2 senses, 2 terms)
+   antarābhavūpagaṃ|0: ကြားဘဝသို့ ရောက်စေသော
+   antarābhavūpagā|0: ကြားဘဝသို့ ရောက်သော
+-- anupatit (2 senses, 2 terms)
+   anupatita|0: တွဲဖက်နေခြင်း
+   anupatitaṃ|0: တွဲဖက်နေသော
+-- anuppad (2 senses, 2 terms)
+   anuppadeti|0: ပေးသည်
+   anuppadānaṃ|0: ပေးခြင်း
+-- anussar (2 senses, 2 terms)
+   anussarati|0: အဖန်ဖန် အောက်မေ့သည်
+   anussaraṃ|0: အောက်မေ့၍
+-- anuttar (3 senses, 2 terms)
+   anuttarā|0: အမြတ်ဆုံး
+   anuttaraṃ|0: အမြတ်ဆုံး / ထိုထက် သာလွန်သည် မရှိသော
+   anuttaro|0: အမြတ်ဆုံး
+-- anuyog (3 senses, 2 terms)
+   anuyogo|0: စစ်ဆေးမေးမြန်းခြင်း
+   anuyogo|1: နိုးကြားစွာ အားထုတ်ခြင်း
+   anuyoga|0: စစ်ဆေးမေးမြန်းခြင်း
+-- anāgataṃ rūp (2 senses, 2 terms)
+   Anāgataṃ rūpaṃ|0: အနာဂတ် ရုပ်
+   Anāgataṃ rūpaṃ|1: အနာဂတ် အဆင်းအရောင်
+-- anāgatārammaṇ (2 senses, 2 terms)
+   anāgatārammaṇa|0: အနာဂတ်ကို အာရုံပြုခြင်း
+   anāgatārammaṇaṃ|0: အနာဂတ်ကို အာရုံပြုသော
+-- anāgām (4 senses, 2 terms)
+   anāgāmī|0: အနာဂါမ်
+   anāgāmi|0: အနာဂါမိ / အနာဂါမ်
+   Anāgāminā|0: အနာဂါမ်
+   Anāgāmissa|0: အနာဂါမ်
+-- anāsav (5 senses, 2 terms)
+   anāsava|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavo|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavā|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavesu|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော အရာ
+-- appamāṇ (2 senses, 2 terms)
+   appamāṇa|0: အပ္ပမာဏ
+   appamāṇaṃ|0: အတိုင်းအဆ မရှိသော
+-- arahatt (4 senses, 3 terms)
+   arahattā|0: ရဟန္တာ အဖြစ်
+   arahatta|0: ရဟန္တာ / ရဟန္တာ အဖြစ်
+   Arahatte|0: ရဟန္တာ အဖြစ် / ရဟန္တာ ဖိုလ်
+   arahattaṃ|0: ရဟန္တာ အဖြစ် / ရဟန္တာ ဖိုလ်
+-- arūp (7 senses, 3 terms)
+   arūpa|0: ရုပ်မရှိသော
+   arūpa|1: ရုပ် မဟုတ်သော
+   Arūpe|0: ရုပ်မရှိသော ဘုံ
+   arūpino|0: ရုပ် မဟုတ်သော
+   arūpesu|0: ရုပ်မရှိသော ဘုံ
+   arūpaṃ|0: ရုပ် မဟုတ်သော
+   arūpīnaṃ|0: ရုပ် မဟုတ်သော
+-- arūpadhāt (3 senses, 3 terms)
+   arūpadhātu|0: ရုပ်မရှိသော ဘုံ / ရုပ်မရှိသော ဓာတ်
+   arūpadhātū|0: ရုပ်မရှိသော ဘုံ
+   arūpadhātuṃ|0: ရုပ်မရှိသော ဓာတ်
+-- asaṅkhat (3 senses, 2 terms)
+   asaṅkhataṃ|0: ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   asaṅkhatāni|0: ပြုပြင်ဖန်တီးထားခြင်း မရှိသော / ပြုပြင်ဖန်တီးထားခြင်း မရှိသော အရာ
+   asaṅkhatā|0: ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+-- asaṅkiṇṇ (2 senses, 2 terms)
+   asaṅkiṇṇā|0: ရောနှောခြင်း မရှိသော
+   asaṅkiṇṇāni|0: မရောယှက်သော
+-- asaṅkiṇṇapubb (2 senses, 2 terms)
+   asaṅkiṇṇapubbā|0: ရှေး … ရောနှောခြင်း မရှိခဲ့သော
+   asaṅkiṇṇapubbāni|0: ရှေး … မရောယှက်ခဲ့သော
+-- ass (3 senses, 3 terms)
+   assa|0: ထိုသူ
+   assa|1: မြင်း
+   assu|0: မျက်ရည်
+-- assāsapassās (2 senses, 2 terms)
+   assāsapassāsā|0: ထွက်သက် ဝင်သက်
+   assāsapassāso|0: ဝင်လေ ထွက်လေ
+-- asuc (2 senses, 2 terms)
+   asuci|0: မစင်ကြယ်သော / မစင်ကြယ်သော သုက်ထွက်ခြင်း / မစင်ကြယ်သော သုက်
+   asuciṃ|0: မစင်ကြယ်သော
+-- atipāt (5 senses, 2 terms)
+   atipātino|0: သတ်သော
+   atipātā|0: သတ်ခြင်း
+   atipātaṃ|0: သတ်ခြင်း
+   atipāta|0: သတ်ခြင်း
+   atipātī|0: သတ်သော
+-- att (6 senses, 2 terms)
+   atta|0: အတ္တ
+   atta|1: ကိုယ်
+   attena|0: အတ္တ
+   attānaṃ|0: အတ္တ
+   attato|0: အတ္တ
+   attā|0: အတ္တ
+-- attan (2 senses, 2 terms)
+   attani|0: အတ္တ
+   Attanā|0: မိမိကိုယ်တိုင်
+-- atth (6 senses, 5 terms)
+   atthena|0: အနက်
+   atthi|0: ရှိသည်
+   atthato|0: အဓိပ္ပာယ်
+   attho|0: အကျိုးစီးပွား
+   attha|0: အနက်
+   atthāya|0: အကျိုး / အတွက်
+-- atthaṅgam (3 senses, 3 terms)
+   atthaṅgamāya|0: ချုပ်ငြိမ်းရန်
+   atthaṅgamo|0: ချုပ်ငြိမ်းသွားခြင်း
+   atthaṅgameti|0: ကွယ်ပျောက်စေသည်
+-- atītaṃ rūp (2 senses, 2 terms)
+   Atītaṃ rūpaṃ|0: အတိတ် ရုပ်
+   Atītaṃ rūpaṃ|1: အတိတ် အဆင်းအရောင်
+-- avases (5 senses, 2 terms)
+   avasesaṃ|0: အကြွင်း
+   avasesa|0: အကြွင်း
+   avaseso|0: အကြွင်း
+   avasese|0: အကြွင်း
+   avasesā|0: ကြွင်းသော
+-- aññ (7 senses, 5 terms)
+   Aññaṃ|0: တခြားစီ / အခြား
+   aññā|0: သိ၍ / အပြည့်အဝ သိမြင်ခြင်း / ရဟန္တာ ဖိုလ်
+   aññā|1: တခြားစီ
+   añño|0: တခြားစီ / အခြား / တခြား
+   Aññāni|0: တခြားစီ
+   Aññe|0: တခြားစီ
+   aññū|0: သိသော
+-- aññath (2 senses, 2 terms)
+   aññatha|0: အခြားတစ်မျိုး
+   aññathāni|0: အခြား
+-- aññāt (2 senses, 2 terms)
+   aññāta|0: သိရသော
+   aññātuṃ|0: သိသည်
+-- aṭṭh (6 senses, 5 terms)
+   aṭṭho|0: အရာ
+   aṭṭha|0: အရာ
+   aṭṭhe|0: အနက် တူသော
+   aṭṭhena|0: အနက် / အကြောင်း
+   Aṭṭhānaṃ|0: အကြောင်း မဟုတ် / မဖြစ်နိုင်သော အကြောင်း
+   aṭṭhī|0: အရိုး
+-- bahiddh (2 senses, 2 terms)
+   bahiddhā|0: မိမိ၏ ပြင်ပ၌
+   bahiddhā|1: အပြင်
+-- bandh (2 senses, 2 terms)
+   bandhaṃ|0: နှောင်ဖွဲ့ခံရခြင်း
+   bandhā|0: ထိန်း
+-- bandhan (3 senses, 2 terms)
+   bandhanehi|0: အနှောင်အဖွဲ့
+   bandhanena|0: အနှောင်အဖွဲ့
+   bandhanaṃ|0: အနှောင်
+-- bhabb (2 senses, 2 terms)
+   bhabbā|0: သက်ဆင်းနိုင်သော
+   bhabbo|0: ထိုက်တန်သော / သိနိုင်သော
+-- bhatt (2 senses, 2 terms)
+   bhattaṃ|0: ထမင်း
+   bhattāni|0: ဆွမ်း
+-- bhav (7 senses, 2 terms)
+   bhava|0: ဘဝ
+   bhavati|0: ဖြစ်သည်
+   bhavaṃ|0: ဘဝ
+   bhavo|0: ဘဝ
+   bhavissanti|0: ဖြစ်သည်
+   bhavena|0: ဘဝ
+   bhavehi|0: ဘဝ
+-- bhavik (4 senses, 2 terms)
+   bhavika|0: ဘဝ၌ ရှိသော
+   bhavikāni|0: ဘဝ
+   bhavikassa|0: ဘဝ၌ ရှိသော
+   bhavikā|0: ဘဝ
+-- bhay (2 senses, 2 terms)
+   bhayato|0: ကြောက်ဖွယ်
+   bhaya|0: ဘေး
+-- bhaṇ (2 senses, 2 terms)
+   bhaṇati|0: ပြောဆိုသည်
+   bhaṇanti|0: ပြောသည်
+-- bhed (5 senses, 4 terms)
+   bheda|0: စကား ထွက်ခြင်း
+   bheda|1: သင်းခွဲခြင်း
+   bhedo|0: ပြိုပျက်ခြင်း
+   bhedo|1: စကား ထွက်ခြင်း
+   bhedā|0: ပြိုကွဲ၍
+-- bhedak (2 senses, 2 terms)
+   bhedakā|0: ခွဲသူ
+   bhedako|0: သင်းခွဲသူ
+-- bhedan (2 senses, 2 terms)
+   bhedana|0: ခွဲခြင်း
+   bhedana|1: ကွဲပြားခြင်း
+-- bhijjamān (2 senses, 2 terms)
+   bhijjamānesu|0: ပြိုကွဲကြသော
+   bhijjamāne|0: ပျက်နေသော
+-- bhojan (2 senses, 2 terms)
+   bhojanaṃ|0: ဘောဇဉ်
+   bhojane|0: အစားအစာ
+-- bhāg (2 senses, 2 terms)
+   bhāga|0: နှစ်ဖက်စလုံး
+   bhāgassa|0: အစိတ်အပိုင်း
+-- bhās (3 senses, 2 terms)
+   bhāsati|0: ပြောသည်
+   bhāsanti|0: ပြောသည်
+   bhāsato|0: ပြောနေသော
+-- bhāvit (3 senses, 2 terms)
+   bhāvitena|0: ပွားများခဲ့သော
+   bhāvita|0: ပွားများခဲ့သော
+   bhāvitā|0: ပွားများထားသော
+-- bhūt (4 senses, 4 terms)
+   bhūtā|0: မဟာဘုတ် / ဓာတ်ကြီး
+   bhūtā|1: ဖြစ်စေနိုင်သော
+   bhūtānaṃ|0: မူလဓာတ်
+   bhūtassa|0: ဖြစ်လာသော
+-- bodh (3 senses, 3 terms)
+   bodhiyā|0: ဗောဓိ
+   bodhiyā|1: ဗောဓိပင်
+   bodha|0: ထိုးထွင်း သိခြင်း
+-- brahmacariy (3 senses, 3 terms)
+   brahmacariya|0: မြင့်မြတ်သော အကျင့် / မြတ်သော အကျင့်
+   brahmacariyaṃ|0: မြတ်သော အကျင့်
+   brahmacariyo|0: မြင့်မြတ်သော အကျင့်
+-- buddh (8 senses, 3 terms)
+   buddho|0: ဘုရား / ဘုရားရှင်
+   Buddhassa|0: ဘုရား / ဘုရားရှင်
+   buddha|0: ဘုရား
+   buddhena|0: ဘုရားရှင်
+   buddhe|0: ဘုရား
+   Buddhaṃ|0: ဘုရား
+   buddhānaṃ|0: ဘုရား
+   buddhā|0: ဘုရား
+-- bāhir (3 senses, 2 terms)
+   bāhiro|0: သာသနာပ
+   bāhira|0: ပြင်ပ
+   bāhirā|0: ပြင်ပ
+-- cakk (2 senses, 2 terms)
+   cakkaṃ|0: စကြာ / တရားစက်
+   cakka|0: စက်
+-- cakkhuviññāṇasamaṅg (2 senses, 2 terms)
+   cakkhuviññāṇasamaṅgī|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော / မျက်စိ သိစိတ်နှင့် ပြည့်စုံနေသော
+   Cakkhuviññāṇasamaṅgissa|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော
+-- car (3 senses, 3 terms)
+   cariyā|0: ကျင့်ကြံမှု
+   care|0: ကျင့်လိုသည်
+   caro|0: ကျင့်သော
+-- carit (3 senses, 3 terms)
+   caritena|0: ဒုစရိုက်
+   carita|0: ကျင့်ပြီးသော
+   caritaṃ|0: အကျင့်
+-- cariy (3 senses, 2 terms)
+   cariya|0: အကျင့်
+   cariyaṃ|0: အကျင့် / ကျင့်ဝတ်
+   cariyo|0: အကျင့်
+-- cet (2 senses, 2 terms)
+   ceto|0: စိတ်
+   ceteti|0: စေ့ဆော်သည်
+-- cetasik (5 senses, 3 terms)
+   cetasika|0: စိတ်၏ အဖော် ဖြစ်သော သဘောတရား / စိတ်၏ အဖော်
+   cetasikaṃ|0: စိတ်
+   cetasikaṃ|1: စိတ်၏ အဖော်
+   cetasiko|0: စိတ်၏ အဖော်
+   cetasikā|0: စိတ်၏ အဖော်
+-- chand (3 senses, 2 terms)
+   chanda|0: ဆန္ဒ
+   chanda|1: လိုလားမှု
+   chando|0: လိုလားမှု
+-- chaṭṭh (3 senses, 2 terms)
+   Chaṭṭho|0: ဆဋ္ဌမ
+   chaṭṭha|0: ဆဋ္ဌမ
+   chaṭṭhā|0: ခြောက်ခုမြောက်
+-- cit (2 senses, 2 terms)
+   citto|0: စိတ် ရှိသော
+   citto|1: စိတ္တ
+-- citt (9 senses, 3 terms)
+   citta|0: စိတ် / စိတ္တ
+   citta|1: အရောင်စုံ
+   cittassa|0: စိတ်
+   citte|0: စိတ်
+   cittaṃ|0: စိတ်
+   cittena|0: စိတ်
+   cittā|0: စိတ်
+   cittānaṃ|0: စိတ်
+   cittehi|0: စိတ်
+-- cittakkhaṇik (2 senses, 2 terms)
+   cittakkhaṇiko|0: စိတ် … ခဏ၌သာ ဖြစ်သော
+   cittakkhaṇikā|0: စိတ် … ခဏမျှသာ တည်သော
+-- cut (4 senses, 3 terms)
+   cuto|0: သေသော
+   cutassa|0: သေသော
+   cuti|0: သေခြင်း / စုတေ / စုတိ
+   Cutiyā|0: စုတေ
+-- dakkhiṇ (3 senses, 2 terms)
+   dakkhiṇaṃ|0: အလှူ
+   dakkhiṇā|0: အလှူ
+   Dakkhiṇāya|0: တောင်
+-- das (3 senses, 3 terms)
+   dasa|0: ဆယ်
+   dasāni|0: အနားစ
+   daso|0: မြင်သော
+-- dassan (2 senses, 2 terms)
+   dassanena|0: မြင်ခြင်း
+   dassana|0: အမြင် / သိမြင်သော
+-- dassāv (2 senses, 2 terms)
+   dassāvī|0: ရှုမြင်သော
+   dassāvino|0: မြင်သော
+-- dev (6 senses, 2 terms)
+   devo|0: နတ်
+   deva|0: နတ်
+   devā|0: နတ်
+   devesu|0: နတ်
+   devānaṃ|0: နတ်
+   devi|0: မိဖုရား
+-- dha (2 senses, 2 terms)
+   dha|0: “ဓမ္မပဒ”
+   dha|1: သဘောတရားများကို စုစည်းရေတွက်ခြင်း
+-- dhamm (20 senses, 7 terms)
+   dhamma|0: သဘောတရား
+   dhamma|1: တရား / ဓမ္မ
+   dhamma|2: အရာ
+   dhammānaṃ|0: သဘောတရား
+   dhammānaṃ|1: တရား
+   dhammesu|0: တရား
+   dhammesu|1: သဘောတရား
+   dhammā|0: သဘောတရား
+   dhammo|0: သဘော ရှိသော
+   dhammo|1: တရား
+   dhammo|2: သဘောတရား
+   dhammo|3: အကျင့်
+   dhamme|0: ဘဝ
+   dhamme|1: တရား
+   dhamme|2: သဘောတရား
+   dhammaṃ|0: သဘောတရား
+   dhammaṃ|1: တရား
+   dhammaṃ|2: အကျင့်
+   dhammassa|0: တရား
+   dhammena|0: တရား
+-- dhuv (5 senses, 3 terms)
+   dhuvo|0: ခိုင်ခံ့သော
+   dhuva|0: အမြဲ
+   dhuvaṃ|0: ခိုင်ခံ့သော
+   dhuvato|0: ခိုင်မြဲသော အရာ
+   dhuvā|0: ခိုင်ခံ့သော
+-- dhār (2 senses, 2 terms)
+   dhāreti|0: ဝတ်သည် / ဆောင်သည်
+   dhārā|0: အလျဉ်
+-- dhāt (5 senses, 2 terms)
+   dhātu|0: ဓာတ်
+   dhātu|1: ဘုံ
+   dhātuṃ|0: ဓာတ်
+   dhātūnaṃ|0: ဓာတ်
+   dhātū|0: ဘုံ
+-- dhātu (2 senses, 2 terms)
+   dhātuyā|0: ဓာတ်
+   dhātuyā|1: ဘုံ
+-- diss (3 senses, 2 terms)
+   dissati|0: ထင်ရသည်
+   dissanti|0: ထင်ရသည်
+   dissanti|1: မြင်ရသည်
+-- duggat (2 senses, 2 terms)
+   duggate|0: ဆိုးသော လားရာ ရှိသော
+   duggatiṃ|0: လားရာ
+-- dukkh (17 senses, 7 terms)
+   dukkha|0: နာကျင်သော / နာကျင်မှု
+   dukkha|1: ဒုက္ခ
+   dukkha|2: ဆင်းရဲ
+   dukkhaṃ|0: ဒုက္ခ
+   dukkhaṃ|1: နာကျင်သော
+   dukkhaṃ|2: ဆင်းရဲ
+   dukkhassa|0: ဒုက္ခ
+   dukkhā|0: နာကျင်သော
+   dukkhā|1: ဒုက္ခ
+   dukkhā|2: ဆင်းရဲ
+   dukkho|0: ဒုက္ခ
+   dukkhehi|0: ကိုယ်ဆင်းရဲခြင်း
+   Dukkhe|0: ဒုက္ခ
+   Dukkhe|1: ဆင်းရဲသော
+   dukkhato|0: ဆင်းရဲ
+   dukkhāya|0: ဆင်းရဲဖွယ်ရာ
+   dukkhāya|1: နာကျင်သော
+-- dukkhanirodh (3 senses, 2 terms)
+   dukkhanirodho|0: ဒုက္ခ ချုပ်ငြိမ်းခြင်း
+   dukkhanirodha|0: ဒုက္ခ ချုပ်ငြိမ်းရာ
+   dukkhanirodhaṃ|0: ဒုက္ခ ချုပ်ငြိမ်းခြင်း
+-- dunniggahit (2 senses, 2 terms)
+   dunniggahite|0: မကောင်းစွာ ချေပခြင်း
+   Dunniggahitā|0: မကောင်းစွာ ချေပခြင်း ခံရသော
+-- duṭṭh (2 senses, 2 terms)
+   duṭṭhena|0: ပြစ်မှားသော
+   duṭṭho|0: ဒေါသ ဖြစ်နေသော
+-- dān (3 senses, 3 terms)
+   dāna|0: ပေးလှူခြင်း
+   dānaṃ|0: အလှူ / ပေးလှူခြင်း / ဒါန
+   dānāni|0: အလှူ
+-- dāyak (2 senses, 2 terms)
+   Dāyako|0: အလှူရှင်
+   Dāyakato|0: ပေးလှူသူကြောင့်
+-- eka (2 senses, 2 terms)
+   eka|0: တစ်စေ့ / တစ်ပါး / တစ် / တစ်ခု
+   eka|1: တူညီသော
+-- ekacittakkhaṇik (2 senses, 2 terms)
+   Ekacittakkhaṇiko|0: စိတ် တစ်ခဏ၌သာ ဖြစ်သော
+   Ekacittakkhaṇikā|0: စိတ် တစ်ခု၏ ခဏမျှသာ တည်သော
+-- ekaṭṭh (2 senses, 2 terms)
+   ekaṭṭhe|0: တစ်နေရာတည်း တည်ရှိသော
+   ekaṭṭhe|1: အနက် တူသော
+-- gacch (2 senses, 2 terms)
+   gacchati|0: သွားသည်
+   gacchati|1: ရသည် / ရောက်သည်
+-- gandh (8 senses, 3 terms)
+   gandha|0: အနံ့
+   gandha|1: နံ့သာ
+   gandhā|0: အနံ့
+   gandhā|1: အပုပ်နံ့
+   gandhaṃ|0: အနံ့
+   gandhaṃ|1: နံ့သာ
+   gandhe|0: အနံ့
+   gandhena|0: အနံ့
+-- gat (9 senses, 6 terms)
+   gati|0: လားရာ
+   gati|1: သွားလာခြင်း
+   gatiyā|0: လားရာ
+   gatā|0: ရောက်သော
+   gatā|1: အာရုံပြုသော
+   gatiṃ|0: လားရာ
+   gatassa|0: ရောက်ပြီးသော
+   gataṃ|0: မှား
+   gatīnaṃ|0: လားရာ
+-- ghan (2 senses, 2 terms)
+   ghano|0: ခဲနက်
+   ghano|1: အခဲ
+-- ghātak (4 senses, 3 terms)
+   ghātakā|0: သတ်သူ
+   ghātako|0: သတ်သူ
+   ghātako|1: ဖျက်ဆီးရမည့်
+   ghātakaṃ|0: ဖျက်ဆီးသည်
+-- gotam (2 senses, 2 terms)
+   gotamena|0: ဂေါတမ ဘုရားရှင်
+   gotama|0: ဂေါတမ
+-- gām (5 senses, 3 terms)
+   gāmaṃ|0: ရွာ
+   gāmī|0: ရောက်သော
+   gāma|0: ရွာ
+   gāmino|0: သွားသော
+   gāme|0: ရွာ
+-- hatth (4 senses, 2 terms)
+   hattha|0: လက်
+   hatthā|0: လက်
+   hatthi|0: ဆင်
+   hatthe|0: လက်
+-- hatthak (2 senses, 2 terms)
+   hatthako|0: လက်
+   hatthako|1: ဟတ္ထက
+-- het (3 senses, 3 terms)
+   hetāya|0: ထို
+   hetu|0: အကြောင်း
+   hetu|1: အမြစ်
+-- hetuk (4 senses, 2 terms)
+   hetukaṃ|0: အမြစ်
+   hetuka|0: အကြောင်း
+   hetukā|0: အမြစ်
+   hetuko|0: အမြစ်
+-- hit (2 senses, 2 terms)
+   hitāya|0: အကျိုး / အကျိုးစီးပွား
+   hito|0: အကျိုးကို လိုလားသော
+-- hot (2 senses, 2 terms)
+   hoti|0: ဖြစ်သည်
+   hoti|1: ရှိသည်
+-- hīn (2 senses, 2 terms)
+   hīnaṃ|0: ယုတ်ညံ့သော
+   hīna|0: ယုတ်ညံ့သော / ယုတ်ခြင်း / ယုတ်လျော့သော / ချို့ယွင်းသော
+-- indriy (9 senses, 2 terms)
+   indriya|0: စွမ်းရည်
+   indriyaṃ|0: စွမ်းရည်
+   indriyānaṃ|0: စွမ်းရည်
+   indriyāni|0: စွမ်းရည်
+   indriye|0: စွမ်းရည်
+   indriyehi|0: စွမ်းရည်
+   indriyena|0: စွမ်းရည်
+   indriyo|0: အာရုံခံ အင်္ဂါ
+   indriyesu|0: အာရုံခံ အင်္ဂါ
+-- iṭṭh (3 senses, 3 terms)
+   iṭṭha|0: လိုလားဖွယ် / လိုလားအပ်သော
+   iṭṭhā|0: လိုလားဖွယ် ကောင်းသော / နှစ်သက်ဖွယ် / လိုလားဖွယ်ကောင်းသော
+   iṭṭhāya|0: နှစ်သက်ဖွယ်
+-- jan (3 senses, 2 terms)
+   janā|0: လူ
+   janenti|0: ဖြစ်စေသည်
+   janeti|0: ဖြစ်စေသည်
+-- jhāy (3 senses, 2 terms)
+   jhāyato|0: ဈာန် ဝင်စားသော
+   Jhāyino|0: ဈာန် ဝင်စားသော
+   jhāyī|0: ဈာန်ဝင်သော
+-- jin (3 senses, 2 terms)
+   jinaṃ|0: အောင်မြင်တော်မူသော
+   jino|0: အောင်နိုင်သူ
+   jinā|0: အောင်နိုင်သူ
+-- jān (3 senses, 3 terms)
+   jānato|0: သိသော
+   jānāti|0: သိသည် / သိတော်မူသည်
+   jānanti|0: သိသည်
+-- jāt (10 senses, 9 terms)
+   jāti|0: မွေးဖွားခြင်း / ဖြစ်ခြင်း / ပဋိသန္ဓေ နေခြင်း / ဘဝ
+   jāti|1: မျိုး
+   jāto|0: ပေါ်ပေါက်သော / မွေးဖွားလာသော / ဖွားမြင်တော်မူသော / ဖွားမြင်တော်မူခဲ့သော
+   jāte|0: တစ်မျိုးတည်းမှ ဖြစ်သော / မျိုး
+   jātiyā|0: ဘဝ
+   jātiyā|1: မွေးဖွားခြင်း / ပဋိသန္ဓေ နေခြင်း
+   jātaṃ|0: ဖြစ်ပေါ်သော / ပေါ်ပေါက်သော / မွေးဖွားပြီးသော
+   jātiṃ|0: ဘဝ
+   jātā|0: ပေါ်ပေါက်သော / ဖြစ်ပေါ်သော
+   jātānaṃ|0: ပေါ်ပေါက်သော
+-- jāy (3 senses, 2 terms)
+   jāyati|0: မွေးဖွားသည်
+   jāyanti|0: မွေးဖွားသည်
+   jāyanti|1: ဖြစ်ပေါ်သည်
+-- jīv (3 senses, 2 terms)
+   jīvo|0: အသက်
+   jīvaṃ|0: အသက်
+   jīvati|0: အသက်ရှင်သည်
+-- kamm (8 senses, 4 terms)
+   kammato|0: ကံကြောင့်
+   kammānaṃ|0: ကံ
+   kamma|0: ကံ
+   kamma|1: အလုပ်
+   kammāni|0: ကံ
+   kammaṃ|0: ပြုမူခြင်း
+   kammehi|0: ကံ
+   kammā|0: ကံ
+-- kammavipāk (2 senses, 2 terms)
+   kammavipāko|0: ကံ၏ အကျိုး
+   kammavipākato|0: ကံ၏ အကျိုးကြောင့်
+-- kant (4 senses, 3 terms)
+   kanta|0: ချစ်ခင်ဖွယ်
+   kantehi|0: နှစ်သက်သော
+   kantā|0: ချစ်ခင်ဖွယ် ကောင်းသော / ချစ်ခင်ဖွယ်ကောင်းသော
+   kantāya|0: ချစ်ခင်ဖွယ်
+-- kar (5 senses, 5 terms)
+   karo|0: ပြုသော / ပြုတော်မူသော
+   karoti|0: ပြုသည် / ပြုလုပ်သည်
+   karonti|0: ပြုသည်
+   karonti|1: ဆောက်သည်
+   karā|0: ပြုသော
+-- karaṇ (2 senses, 2 terms)
+   karaṇo|0: ပြုတတ်သော
+   karaṇaṃ|0: ပြုတတ်သော / ကွဲပြားစေတတ်သော
+-- karaṇīy (2 senses, 2 terms)
+   karaṇīyo|0: ရှိခိုးထိုက်သော
+   karaṇīyo|1: လိုက်နာသင့်သော
+-- kat (5 senses, 5 terms)
+   katānaṃ|0: ပြုခဲ့သော / ပြုခဲ့
+   kata|0: ပြုပြီးသော / ပြုခဲ့သော
+   katassa|0: ပြုပြီးသော အရာ
+   kataṃ|0: ပြုသော / ပြုလုပ်ချက်
+   katāni|0: ပြုခဲ့သော
+-- kath (3 senses, 3 terms)
+   kathā|0: ဆွေးနွေးချက် / ဆွေးနွေးခြင်း
+   katheti|0: ပြောဆိုသည်
+   kathāyaṃ|0: ဆွေးနွေးချက်
+-- katv (2 senses, 2 terms)
+   katvā|0: ပြု၍
+   katvā|1: အကြောင်းပြု၍ / မှတ်ယူ၍
+-- kaṅkh (2 senses, 2 terms)
+   kaṅkhā|0: သံသယ
+   kaṅkhati|0: သံသယ ဖြစ်သည်
+-- kaṇṇ (3 senses, 2 terms)
+   kaṇṇa|0: နား
+   kaṇṇo|0: နား
+   kaṇṇo|1: ထောင့်
+-- kaṭuk (2 senses, 2 terms)
+   kaṭukaṃ|0: အစပ်
+   kaṭukā|0: ခါးသက်သော
+-- kha (2 senses, 2 terms)
+   khayā|0: ကုန်ခန်းခြင်း
+   kha|0: ခ
+-- khandh (10 senses, 2 terms)
+   khandha|0: အစုအဝေး
+   khandha|1: ပင်စည်
+   Khandhesu|0: အစုအဝေး
+   khandhānaṃ|0: အစုအဝေး
+   khandhā|0: အစုအဝေး
+   khandho|0: အစုအဝေး
+   khandhe|0: အစုအဝေး
+   khandhena|0: အစုအဝေး
+   khandhehi|0: အစုအဝေး
+   khandhassa|0: အစုအဝေး
+-- khay (4 senses, 2 terms)
+   khaya|0: ကုန်ခန်း
+   khayaṃ|0: ကုန်ခန်းခြင်း
+   khayena|0: ကုန်ခန်းခြင်း
+   khaye|0: ကုန်ခန်းခြင်း
+-- khaṇ (3 senses, 2 terms)
+   khaṇa|0: ခဏ
+   khaṇe|0: ခဏ
+   khaṇo|0: ခဏ / အခါ
+-- khaṇik (3 senses, 3 terms)
+   khaṇika|0: ခဏ
+   khaṇiko|0: ခဏ၌သာ ဖြစ်သော
+   khaṇikā|0: ခဏမျှသာ တည်သော
+-- khem (2 senses, 2 terms)
+   khemā|0: လွတ်ငြိမ်းရာ
+   khemaṃ|0: ဘေးကင်း
+-- khu (2 senses, 2 terms)
+   khu|0: “ခုဒ္ဒကပါဌ”
+   khu|1: မျက်စိ
+-- khīṇ (3 senses, 2 terms)
+   khīṇa|0: ကုန်ခန်းပြီးသော
+   khīṇā|0: ကုန်သော / ကုန်ခန်းပြီးသော
+   khīṇaṃ|0: ကုန်ခန်းပြီးသော
+-- kiriyābyākat (2 senses, 2 terms)
+   Kiriyābyākatā|0: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   kiriyābyākate|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ
+-- kul (2 senses, 2 terms)
+   kula|0: အမျိုးကောင်း
+   kule|0: အမျိုး
+-- kusal (8 senses, 2 terms)
+   kusalā|0: ကုသိုလ်
+   kusala|0: ကုသိုလ်
+   kusalaṃ|0: ကုသိုလ်
+   kusalesu|0: ကုသိုလ်
+   kusalassa|0: ကျွမ်းကျင်သော
+   kusalo|0: ကုသိုလ်
+   Kusalānaṃ|0: ကုသိုလ်
+   Kusalena|0: ကုသိုလ်
+-- kusalākusal (2 senses, 2 terms)
+   kusalākusale|0: ကုသိုလ်နှင့် အကုသိုလ်
+   Kusalākusalā|0: ကုသိုလ် … အကုသိုလ်
+-- kālaṅkat (2 senses, 2 terms)
+   kālaṅkatā|0: သေလွန်သော
+   kālaṅkatānaṃ|0: သေလွန်ပြီးသော
+-- kām (9 senses, 3 terms)
+   kāma|0: ကာမ
+   kāmī|0: ကာမ ရှိသော
+   kāmino|0: ကာမ ရှိသော
+   kāmesu|0: ကာမ
+   kāmānaṃ|0: ကာမ
+   kāmā|0: ကာမ
+   kāmo|0: လို
+   kāmehi|0: ကာမ
+   kāme|0: ကာမ
+-- kāmadhāt (4 senses, 2 terms)
+   kāmadhātū|0: ကာမဘုံ
+   kāmadhātu|0: ကာမဘုံ
+   kāmadhātu|1: ကာမ ဓာတ်
+   kāmadhātuṃ|0: ကာမ ဓာတ်
+-- kār (2 senses, 2 terms)
+   kārinaṃ|0: ကျေးဇူး ပြုခဲ့သော
+   kārenti|0: ပြုသည်
+-- kārak (2 senses, 2 terms)
+   kārako|0: ပြုသူ
+   kārakā|0: တည်ဆောက်သူ
+-- kāraṇ (3 senses, 2 terms)
+   kāraṇena|0: အကြောင်း
+   kāraṇā|0: အကြောင်း
+   kāraṇaṃ|0: ညှဉ်းပန်းမှု
+-- kāraṇik (2 senses, 2 terms)
+   kāraṇikā|0: ညှဉ်းပန်း နှိပ်စက်သူ
+   kāraṇikā|1: လေ့ကျင့်ပေးသူ
+-- kāy (8 senses, 3 terms)
+   kāya|0: ကိုယ်
+   kāyo|0: ကိုယ်
+   kāyo|1: အပေါင်း
+   kāyaṃ|0: ကိုယ်
+   kāye|0: ကိုယ်
+   kāyena|0: ကိုယ်
+   kāyassa|0: ကိုယ်
+   kāyā|0: အစု
+-- kāyasaṅkhār (2 senses, 2 terms)
+   kāyasaṅkhāro|0: ကိုယ် ပြုပြင်ဖန်တီးမှု
+   kāyasaṅkhāraṃ|0: ကိုယ်ဖြင့် ပြုပြင်ဖန်တီးမှု
+-- kāyik (2 senses, 2 terms)
+   kāyikā|0: အပေါင်းအပါ
+   kāyikaṃ|0: ကိုယ်
+-- lakkhaṇ (4 senses, 2 terms)
+   lakkhaṇena|0: အမှတ်အသား
+   lakkhaṇa|0: လက္ခဏာ
+   lakkhaṇāni|0: လက္ခဏာ
+   lakkhaṇaṃ|0: အမှတ်အသား
+-- lohit (3 senses, 2 terms)
+   lohitaṃ|0: သွေး
+   lohitaṃ|1: အနီ
+   lohita|0: အနီ
+-- macc (3 senses, 3 terms)
+   maccu|0: သေခြင်း / သေမင်း
+   maccuno|0: သေမင်း
+   macco|0: သတ္တဝါ
+-- magg (12 senses, 2 terms)
+   maggo|0: လမ်း
+   maggo|1: မဂ်
+   magga|0: မဂ်
+   magga|1: လမ်း
+   maggaṃ|0: မဂ်
+   maggaṃ|1: လမ်း
+   maggena|0: မဂ်
+   magge|0: မဂ်
+   maggassa|0: မဂ်
+   maggā|0: မဂ်
+   maggehi|0: မဂ်
+   Maggānaṃ|0: မဂ်
+-- maggaṃ bhāv (2 senses, 2 terms)
+   maggaṃ bhāveti|0: မဂ်ကို ပွားများသည် / မဂ် … ပွားများသည်
+   maggaṃ bhāventi|0: မဂ်ကို ပွားများသည်
+-- mahābhūt (2 senses, 2 terms)
+   mahābhūtā|0: မဟာဘုတ် / မူလဓာတ်ကြီး
+   mahābhūtānaṃ|0: မူလဓာတ်ကြီး
+-- man (4 senses, 3 terms)
+   mana|0: မနော
+   mano|0: မနော / စိတ်
+   manussa|0: လူ
+   manaṃ|0: မနော
+-- manasikār (3 senses, 2 terms)
+   manasikāra|0: နှလုံးသွင်းခြင်း
+   manasikāro|0: နှလုံးသွင်းခြင်း
+   manasikārā|0: နှလုံး သွင်း
+-- manussalok (3 senses, 2 terms)
+   manussaloka|0: လူ့ပြည်
+   manussalokā|0: လူ့လောက
+   manussaloke|0: လူ့ပြည်
+-- manāp (2 senses, 2 terms)
+   manāpā|0: နှစ်သက်ဖွယ် ကောင်းသော / စိတ်နှင့် တွေ့သော
+   manāpāya|0: နှစ်သက်ဖွယ်
+-- maraṇ (5 senses, 2 terms)
+   maraṇaṃ|0: သေခြင်း
+   maraṇa|0: သေခြင်း
+   maraṇena|0: သေခြင်း
+   maraṇā|0: သေပြီးနောက်
+   maraṇehi|0: သေခြင်း
+-- micchācār (6 senses, 2 terms)
+   micchācārino|0: မှားယွင်းစွာ ကျင့်သော
+   micchācāraṃ|0: မှားယွင်းစွာ ကျင့်သော
+   micchācāra|0: မှားယွင်းစွာ ကျင့်ခြင်း
+   micchācārā|0: မှားယွင်းစွာ ကျင့်ခြင်း
+   micchācāro|0: မှားယွင်းစွာ ကျင့်ခြင်း
+   micchācārassa|0: မှားယွင်းစွာ ကျင့်ခြင်း
+-- muhutt (3 senses, 2 terms)
+   muhutta|0: မုဟုတ်ကာလ
+   muhuttaṃ|0: မုဟုတ်ကာလ
+   muhuttaṃ|1: ခဏခဏ
+-- mānusak (2 senses, 2 terms)
+   mānusakena|0: လူ၏ မျက်စိ
+   Mānusakaṃ|0: လူ
+-- māt (2 senses, 2 terms)
+   mātā|0: အမိ / မိဘ
+   mātu|0: အမိ / မယ်တော်
+-- mīy (3 senses, 2 terms)
+   mīyati|0: သေဆုံးသည်
+   mīyanti|0: သေဆုံးသည်
+   mīyī|0: သေသည်
+-- mūl (6 senses, 3 terms)
+   mūlo|0: အမြစ်
+   mūle|0: ရင်း
+   mūlaṃ|0: အမြစ်
+   mūlato|0: မူလ
+   mūla|0: အမြစ်
+   mūlena|0: အမြစ်
+-- nerayik (2 senses, 2 terms)
+   nerayiko|0: ငရဲ၌ ကျသော / ငရဲသား / ငရဲ၌ ကျမည့်
+   Nerayikaṃ|0: ငရဲ
+-- nibbatt (3 senses, 3 terms)
+   nibbattaṃ|0: ဖြစ်မြောက်သော / ပေါ်ထွက်ပြီးသော / ဖြစ်ထွန်းသော
+   nibbattenti|0: ဖြစ်စေသည်
+   nibbattati|0: ဖြစ်ပေါ်သည်
+-- nicc (5 senses, 3 terms)
+   nicco|0: မြဲသော
+   nicca|0: အမြဲ
+   niccaṃ|0: မြဲသော / မြဲ
+   niccaṃ|1: အမြဲ
+   niccā|0: မြဲသော
+-- nidd (2 senses, 2 terms)
+   niddā|0: အိပ်ခြင်း
+   niddaṃ|0: အိပ်ပျော်
+-- niggah (4 senses, 2 terms)
+   niggahaṃ|0: ချေပချက်
+   niggaha|0: ချေပချက်
+   niggaha|1: ချုပ်ကိုင်ခြင်း
+   niggaho|0: ချုပ်ကိုင်ခြင်း
+-- niggahetabb (2 senses, 2 terms)
+   niggahetabbe|0: ချေပရမည့် / ချေပရသည်
+   niggahetabbā|0: ချေပရသည်
+-- ninn (2 senses, 2 terms)
+   ninno|0: နိမ့်ဆင်းသော
+   ninnaṃ|0: ညွတ်သော
+-- nipphann (4 senses, 2 terms)
+   nipphanna|0: ပြီးမြောက်သော
+   nipphannā|0: ဖြစ်ပေါ်ပြီးသော
+   nipphannaṃ|0: ဖြစ်ပေါ်ပြီးသော
+   nipphanno|0: ဖြစ်ပေါ်ပြီးသော
+-- nirodh (6 senses, 5 terms)
+   nirodha|0: ချုပ်ငြိမ်း / ချုပ်ငြိမ်းခြင်း
+   nirodho|0: ချုပ်ငြိမ်းခြင်း / ချုပ်သော
+   nirodhaṃ|0: ချုပ်ငြိမ်းခြင်း / ချုပ်ငြိမ်းရာ ဈာန် / ချုပ်သော
+   nirodhenti|0: ချုပ်ငြိမ်းစေသည်
+   nirodhā|0: ချုပ်ငြိမ်းသော
+   nirodheti|0: ချုပ်ငြိမ်းစေသည်
+-- nirodhadhamm (3 senses, 2 terms)
+   nirodhadhammaṃ|0: ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော / ချုပ်ငြိမ်းခြင်း သဘော ရှိသော
+   nirodhadhammā|0: ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော
+   nirodhadhammo|0: ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော
+-- nirodhaṃ samāpann (2 senses, 2 terms)
+   Nirodhaṃ samāpannassa|0: ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော / ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော
+   nirodhaṃ samāpanno|0: ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော
+-- niruddh (5 senses, 5 terms)
+   niruddhe|0: ချုပ်ငြိမ်းသွားသော / ချုပ်ငြိမ်းသော / ချုပ်ငြိမ်းပြီးသော
+   niruddhāya|0: ချုပ်ငြိမ်းသွားသော / ချုပ်ငြိမ်းသော
+   niruddhaṃ|0: ချုပ်ငြိမ်းပြီးသော / ချုပ်ငြိမ်းပြီး
+   niruddhā|0: ချုပ်ငြိမ်းသွားသော
+   niruddhena|0: ချုပ်ငြိမ်းပြီးသော
+-- niyam (2 senses, 2 terms)
+   niyamo|0: ကျိန်းသေမှု / သေချာသော လမ်းကြောင်း
+   niyamena|0: ကျိန်းသေမှု
+-- niyām (5 senses, 4 terms)
+   niyāma|0: သေချာသော လမ်း / သေချာသော လမ်းကြောင်း
+   niyāma|1: ကျိန်းသေခြင်း
+   niyāmaṃ|0: သေချာသော လမ်းကြောင်း / သေချာသော လမ်း
+   niyāmo|0: သေချာသော လမ်း / သေချာသော လမ်းကြောင်း
+   niyāmo|1: စည်းမျဉ်း
+-- niyāmat (2 senses, 2 terms)
+   niyāmatā|0: ကျိန်းသေခြင်း
+   niyāmatā|1: သေချာခြင်း
+-- niyāmaṃ okkam (2 senses, 2 terms)
+   niyāmaṃ okkamanti|0: သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်
+   niyāmaṃ okkamati|0: သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည် / သေချာသော လမ်းကြောင်း … သက်ဆင်းသည်
+-- nān (2 senses, 2 terms)
+   nānaṃ|0: ကွဲပြားသည်
+   nānā|0: အမျိုးမျိုး
+-- nīvaraṇ (3 senses, 2 terms)
+   nīvaraṇānaṃ|0: အတားအဆီး
+   nīvaraṇaṃ|0: အတားအဆီး
+   nīvaraṇiyā|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+-- obhās (2 senses, 2 terms)
+   obhāsassa|0: အရောင်
+   obhāsati|0: ထွန်းလင်းသည်
+-- oharaṇ (2 senses, 2 terms)
+   oharaṇaṃ|0: ချခြင်း
+   oharaṇāya|0: ချရန်
+-- ovād (2 senses, 2 terms)
+   Ovāda|0: ဆုံးမ စကား
+   ovādo|0: ဆုံးမခြင်း
+-- pabbhār (2 senses, 2 terms)
+   pabbhāro|0: စောင်းသော
+   pabbhāraṃ|0: ရှိုင်းသော
+-- paccavekkhaṇ (2 senses, 2 terms)
+   Paccavekkhaṇa|0: ပြန်လည် ဆင်ခြင်သော ဉာဏ်
+   paccavekkhaṇā|0: ပြန်လည် ဆင်ခြင်ခြင်း
+-- paccay (5 senses, 3 terms)
+   paccaya|0: အကြောင်း
+   paccaya|1: မှီသော
+   paccayo|0: အကြောင်း
+   paccayo|1: အားကိုးရသော
+   paccayato|0: အကြောင်း
+-- paccuppannaṃ rūp (2 senses, 2 terms)
+   Paccuppannaṃ rūpaṃ|0: ပစ္စုပ္ပန် ရုပ်
+   Paccuppannaṃ rūpaṃ|1: ပစ္စုပ္ပန် အဆင်းအရောင်
+-- pad (6 senses, 2 terms)
+   pada|0: ပုဒ်
+   pada|1: လှမ်း
+   padesu|0: ပုဒ်
+   padaṃ|0: ပုဒ်
+   padāni|0: ပုဒ်
+   padā|0: ပုဒ်
+-- pah (3 senses, 3 terms)
+   pahānaṃ|0: ပယ်ခြင်း
+   pahāya|0: ပယ်၍
+   pahīnaṃ|0: ပယ်ပြီးသော
+-- pahān (3 senses, 2 terms)
+   pahāna|0: ပယ်ခြင်း
+   pahānāya|0: ပယ်ရန်
+   pahānā|0: ပယ်ခြင်း
+-- pajah (3 senses, 2 terms)
+   pajahati|0: ပယ်သည်
+   pajahaṃ|0: ပယ်၍
+   pajahanti|0: ပယ်သည်
+-- pajān (2 senses, 2 terms)
+   pajānāti|0: ကွဲပြားစွာ သိသည် / သိသည်
+   pajānato|0: ပိုင်းခြား သိနေသော
+-- pak (2 senses, 2 terms)
+   pakato|0: လွှမ်းမိုးခံရသော
+   pakati|0: ပကတိ
+-- pakkh (2 senses, 2 terms)
+   pakkhe|0: ဘက်
+   pakkhino|0: ငှက်
+-- palok (2 senses, 2 terms)
+   paloka|0: ပျက်စီးတတ်သော
+   palokato|0: ပျက်စီးတတ်သော အရာ
+-- palāp (3 senses, 3 terms)
+   palāpino|0: ပြိန်ဖျင်းသော စကားကို ပြောသော
+   palāpa|0: ပြိန်ဖျင်းသော စကား
+   palāpassa|0: စကား
+-- par (4 senses, 4 terms)
+   para|0: သူတစ်ပါး / အခြားသူ / ပရ / အခြား
+   para|1: ကျော်
+   parato|0: သူစိမ်း
+   Paro|0: တစ်ဦး
+-- param (3 senses, 3 terms)
+   parama|0: အဆုံးစွန်
+   paramaṃ|0: အမြတ်ဆုံး
+   paramāni|0: အကြီးဆုံး
+-- paramatth (2 senses, 2 terms)
+   paramattho|0: အဆုံးစွန် အရာ
+   paramatthena|0: အဆုံးစွန် အနက်
+-- paribbājak (2 senses, 2 terms)
+   paribbājako|0: ပရိဗိုဇ်
+   paribbājakassa|0: ပရိဗ္ဗာဇ်
+-- parih (2 senses, 2 terms)
+   parihāni|0: ဆုတ်ယုတ်ခြင်း
+   parihāyati|0: ဆုတ်ယုတ်သည်
+-- parihīn (2 senses, 2 terms)
+   parihīno|0: ဆုတ်ယုတ်သော
+   parihīne|0: ဆုတ်ယုတ်သွားသော
+-- parinibb (3 senses, 2 terms)
+   parinibbānaṃ|0: ပရိနိဗ္ဗာန် ပြုခြင်း
+   parinibbāyati|0: ပရိနိဗ္ဗာန် ပြုသည်
+   parinibbāyanti|0: ပရိနိဗ္ဗာန် ပြုသည်
+-- parinipphann (4 senses, 4 terms)
+   parinipphanna|0: ပြည့်စုံစွာ ပြီးမြောက်သော
+   parinipphannā|0: ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   parinipphannaṃ|0: ပြည့်စုံစွာ ပြီးမြောက်သော / ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော / အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော
+   parinipphanno|0: အမှန်တကယ် ဖြစ်ပေါ်ပြီးသော
+-- paripūr (2 senses, 2 terms)
+   paripūro|0: ပြည့်စုံသော
+   paripūrenti|0: ပြည့်စေသည်
+-- pariyāy (2 senses, 2 terms)
+   pariyāye|0: ပိုင်းခြား၍ သိသော
+   pariyāye|1: အလှည့် / ဘဝအဆက်ဆက်
+-- pariññ (2 senses, 2 terms)
+   Pariññā|0: ပိုင်းခြား သိခြင်း
+   pariññāya|0: ပိုင်းခြား သိရန်
+-- pariññāt (2 senses, 2 terms)
+   pariññātaṃ|0: ပိုင်းခြား သိပြီးသော / ပိုင်းခြား သိခြင်း
+   pariññāta|0: ပိုင်းခြား သိရသေးသော
+-- parāyan (3 senses, 2 terms)
+   parāyanaṃ|0: မှီခိုရာ
+   parāyanāni|0: မှီခိုရာ
+   parāyanā|0: ဆုံးခန်းတိုင်ရာ
+-- pasād (2 senses, 2 terms)
+   pasādena|0: ကြည်ညိုမှု
+   pasādenti|0: ကြည်လင်စေသည်
+-- pasār (2 senses, 2 terms)
+   pasāreti|0: ဆန့်သည်
+   pasārenti|0: ခင်းကျင်းသည်
+-- pathav (3 senses, 2 terms)
+   pathavī|0: မြေ
+   pathaviṃ|0: မြေ
+   pathaviyā|0: မြေပြင်
+-- patt (7 senses, 5 terms)
+   patta|0: သပိတ်
+   patta|1: အရွက်
+   patte|0: ရောက်သော
+   pattassa|0: ရောက်သော
+   pattā|0: ရောက်ပြီးသော / ရောက်သော
+   patti|0: ရောက်ခြင်း
+   pattaṃ|0: သပိတ်
+-- pavatt (2 senses, 2 terms)
+   pavattati|0: ဖြစ်ပွားသည်
+   pavattati|1: စီးဆင်းသည်
+-- payutt (2 senses, 2 terms)
+   payutta|0: ကံကို ပြုခဲ့သော
+   payuttaṃ|0: ပြုခဲ့ပြီးသော
+-- pañcam (5 senses, 2 terms)
+   Pañcamo|0: ပဉ္စမ
+   pañcama|0: ပဉ္စမ
+   pañcamaṃ|0: ပဉ္စမ
+   pañcamehi|0: ပဉ္စမ ပြုသော
+   Pañcamī|0: ပဉ္စမ
+-- paññ (5 senses, 2 terms)
+   paññā|0: ပညာ
+   paññāyati|0: ထင်ရှားသည်
+   paññānaṃ|0: ပညာ
+   paññāya|0: ပညာ
+   paññaṃ|0: ပညာ
+-- paññatt (2 senses, 2 terms)
+   paññatta|0: သတ်မှတ်ချက်
+   paññattaṃ|0: သတ်မှတ်ထားသော
+-- paṇīt (3 senses, 3 terms)
+   paṇītaṃ|0: မွန်မြတ်သော / မြတ်ခြင်း
+   paṇīta|0: မြတ်ခြင်း
+   paṇītā|0: မွန်မြတ်သော
+-- paṭiggāhak (3 senses, 2 terms)
+   paṭiggāhako|0: အလှူခံ
+   paṭiggāhakato|0: အလှူခံသူကြောင့်
+   paṭiggāhakā|0: အလှူခံ
+-- paṭigh (4 senses, 2 terms)
+   paṭigha|0: မုန်းတီးမှု
+   paṭigha|1: ထိခိုက်မှု
+   paṭighassa|0: မုန်းတီးမှု
+   paṭighaṃ|0: မုန်းတီးမှု
+-- paṭikuṭṭh (2 senses, 2 terms)
+   paṭikuṭṭhā|0: ကန့်ကွက်အပ်သော
+   paṭikuṭṭhāni|0: ကဲ့ရဲ့အပ်သော
+-- paṭiladdh (3 senses, 3 terms)
+   paṭiladdho|0: ရရှိပြီးသော / ရသော
+   paṭiladdhāni|0: ရပြီးသော
+   paṭiladdhassa|0: ရသော
+-- paṭilābh (3 senses, 2 terms)
+   paṭilābha|0: ရခြင်း
+   paṭilābhā|0: ရခြင်း
+   paṭilābhāya|0: ရရှိရန်
+-- paṭipann (4 senses, 2 terms)
+   paṭipanno|0: ကျင့်ကြံသော
+   paṭipannassa|0: ကျင့်ကြံသော
+   paṭipannena|0: ကျင့်ကြံသော
+   paṭipannā|0: ကျင့်ကြံဆဲသော
+-- paṭipassaddh (2 senses, 2 terms)
+   paṭipassaddhāya|0: ငြိမ်းအေးသွားသော
+   paṭipassaddhena|0: ငြိမ်းအေးပြီးသော
+-- paṭisaṃved (3 senses, 2 terms)
+   paṭisaṃvedī|0: ခံစားသော
+   paṭisaṃvedeti|0: ခံစားသည်
+   paṭisaṃvedenti|0: ခံစားသည်
+-- paṭivedh (4 senses, 3 terms)
+   paṭivedha|0: ထိုးထွင်း သိမြင်ခြင်း
+   paṭivedho|0: ထိုးထွင်း သိမြင်ခြင်း / ထိုးထွင်း သိခြင်း
+   paṭivedhāya|0: ထိုးထွင်း သိမြင်ရန်
+   paṭivedhā|0: ထိုးထွင်း သိမြင်ခြင်း
+-- paṭividdh (2 senses, 2 terms)
+   paṭividdha|0: ထိုးထွင်း သိမြင်ရသေးသော
+   paṭividdhaṃ|0: ထိုးထွင်း သိမြင်ပြီးသော
+-- paṭivijān (2 senses, 2 terms)
+   paṭivijānanti|0: ထိုးထွင်း သိသည်
+   paṭivijānāti|0: ခွဲခြား သိသည်
+-- phal (13 senses, 5 terms)
+   phala|0: အသီး
+   phala|1: ဖိုလ်
+   phalaṃ|0: အကျိုး / အသီးအပွင့်
+   phalaṃ|1: ဖိုလ်
+   phalā|0: ဖိုလ်
+   phalā|1: အသီးအပွင့်
+   phalehi|0: ဖိုလ်
+   phale|0: ဖိုလ်
+   phalāni|0: ဖိုလ်
+   phalānaṃ|0: ဝေဟပ္ဖိုလ်
+   phalena|0: ဖိုလ်
+   phalo|0: အသီးအပွင့်
+   phalassa|0: ဖိုလ်
+-- pharus (5 senses, 3 terms)
+   pharusā|0: ကြမ်းတမ်းသော
+   pharusaṃ|0: ကြမ်းတမ်းသော စကား
+   pharusaṃ|1: ဖုထစ်သော
+   pharusa|0: ကြမ်းတမ်းသော
+   pharusāya|0: ကြမ်းတမ်းသော
+-- phass (8 senses, 2 terms)
+   phassā|0: တွေ့ထိမှု / အတွေ့
+   phassānaṃ|0: တွေ့ထိမှု
+   Phasse|0: တွေ့ထိမှု
+   phasso|0: တွေ့ထိမှု
+   phassa|0: တွေ့ထိမှု
+   phassaṃ|0: တွေ့ထိမှု
+   phassehi|0: တွေ့ထိမှု
+   phassena|0: တွေ့ထိမှု
+-- phoṭṭhabb (4 senses, 2 terms)
+   phoṭṭhabba|0: အထိအတွေ့
+   phoṭṭhabbā|0: အထိအတွေ့
+   phoṭṭhabbaṃ|0: အထိအတွေ့ / အတွေ့အထိ
+   phoṭṭhabbe|0: အထိအတွေ့
+-- phus (2 senses, 2 terms)
+   phusati|0: ထိသည်
+   phusanti|0: ထိသည် / တွေ့ထိသည်
+-- pisuṇ (3 senses, 3 terms)
+   pisuṇa|0: ကုန်းတိုက်သော
+   pisuṇaṃ|0: ကုန်းချောစကား / ကုန်းတိုက်သော စကား
+   pisuṇāya|0: ကုန်းချောစကား
+-- pitar (2 senses, 2 terms)
+   pitaro|0: မိဘ
+   pitaraṃ|0: အဖ
+-- poṇ (2 senses, 2 terms)
+   poṇo|0: ညွတ်ကိုင်းသော
+   poṇaṃ|0: ကိုင်းသော
+-- pubb (3 senses, 3 terms)
+   pubbe|0: ရှေး / ရှေးဦးစွာ
+   pubba|0: ရှေး
+   pubbaṃ|0: ပြည်
+-- pucch (3 senses, 2 terms)
+   pucchā|0: အမေး
+   pucchanti|0: မေးသည်
+   pucchati|0: မေးသည်
+-- pupph (2 senses, 2 terms)
+   puppha|0: ပန်း
+   pupphā|0: ပန်းပွင့်
+-- puris (6 senses, 5 terms)
+   purisa|0: ယောက်ျား
+   purisa|1: လူ
+   purisa|2: သူတော်ကောင်း
+   puriso|0: ယောက်ျား / ယောကျ်ား
+   purisānaṃ|0: ယောက်ျား
+   purisassa|0: ယောကျ်ား
+-- putt (3 senses, 2 terms)
+   putta|0: သားသမီး
+   puttā|0: သား
+   puttaṃ|0: သား
+-- pād (8 senses, 2 terms)
+   pāda|0: ပါဒ်
+   pāda|1: ခြေ
+   pādā|0: ပါဒ်
+   pādā|1: ခြေ
+   pādehi|0: ခြေ
+   pādānaṃ|0: ပါဒ်
+   pādaṃ|0: ခြေ
+   pāde|0: ခြေ
+-- pān (3 senses, 3 terms)
+   pānaṃ|0: သောက်ဖွယ် / အဖျော်
+   pānaṃ|1: သောက်ခြင်း
+   pānāni|0: အဖျော်
+-- pānīy (2 senses, 2 terms)
+   pānīya|0: သောက်ရေ
+   pānīyaṃ|0: သောက်ရေ / သောက်ဖွယ်
+-- pāp (2 senses, 2 terms)
+   pāpa|0: ယုတ်မာသော
+   pāpaṃ|0: ယုတ်မာမှု
+-- pātubhāv (2 senses, 2 terms)
+   pātubhāvā|0: ပွင့်ပေါ်ခြင်း / ထင်ရှား လာခြင်း
+   pātubhāvo|0: ထင်ရှား လာခြင်း / ထင်ရှား ဖြစ်ပေါ်ခြင်း
+-- pāṇ (5 senses, 4 terms)
+   pāṇa|0: သူ့အသက်
+   pāṇaṃ|0: သတ္တဝါ / သူ့အသက်
+   pāṇiṃ|0: လက်
+   pāṇinaṃ|0: သတ္တဝါ
+   pāṇo|0: သတ္တဝါ
+-- pāṇātipāt (4 senses, 2 terms)
+   pāṇātipātino|0: သူ့အသက်ကို သတ်သော
+   pāṇātipātā|0: သူ့အသက်ကို သတ်ခြင်း
+   pāṇātipātaṃ|0: သူ့အသက်ကို သတ်ခြင်း
+   pāṇātipāta|0: သူ့အသက်ကို သတ်ခြင်း
+-- pīt (6 senses, 3 terms)
+   pītaṃ|0: အဝါ
+   pīti|0: ပီတိ
+   pīta|0: သောက်
+   pīta|1: အဝါ
+   pītiṃ|0: ပီတိ
+   pītiyā|0: ပီတိ
+-- rajj (3 senses, 2 terms)
+   rajju|0: ကြိုး
+   rajjati|0: တပ်မက်သည်
+   rajji|0: တပ်မက်သည်
+-- rajjam (2 senses, 2 terms)
+   rajjamānaṃ|0: ဆိုးဆေး ဆိုးနေသော
+   rajjamānaṃ|1: တပ်မက်ဆဲ
+-- ras (5 senses, 2 terms)
+   rasa|0: အရသာ
+   rasā|0: အရသာ
+   rasaṃ|0: အရသာ
+   raso|0: အရည်
+   rase|0: အရသာ
+-- rat (5 senses, 5 terms)
+   ratīnaṃ|0: ရတီ
+   Ratto|0: တပ်မက်နေသော
+   Ratto|1: ည
+   rato|0: မွေ့လျော်သော
+   ratiyā|0: နိမ္မာနရတီ
+-- ratt (2 senses, 2 terms)
+   rattiyā|0: ညဉ့်
+   ratta|0: ညဉ့်ဦးယံ ညဉ့်နောက်ယံ
+-- raṭṭh (3 senses, 2 terms)
+   raṭṭhaṃ|0: တိုင်းပြည်
+   raṭṭhāni|0: တိုင်း
+   raṭṭhe|0: တိုင်း
+-- rāg (6 senses, 2 terms)
+   rāga|0: ရာဂ / တပ်မက်မှု
+   rāgo|0: ရာဂ / တပ်မက်မှု
+   rāgaṃ|0: ရာဂ
+   rāgā|0: ရာဂ
+   rāgena|0: ရာဂ
+   Rāge|0: ရာဂ
+-- rāj (4 senses, 2 terms)
+   rājā|0: မင်း
+   rājūnaṃ|0: မင်း
+   rāji|0: မျဉ်းကြောင်း
+   rāja|0: မင်း
+-- rūp (14 senses, 4 terms)
+   rūpa|0: သိမ်မွေ့သော ရုပ်
+   rūpa|1: အဆင်းအရောင်
+   rūpa|2: ရုပ်
+   rūpaṃ|0: အဆင်းအရောင်
+   rūpaṃ|1: ရုပ်
+   rūpo|0: ရုပ်
+   rūpena|0: ရုပ်
+   rūpā|0: အဆင်းအရောင်
+   rūpā|1: ရုပ်
+   rūpe|0: အဆင်းအရောင်
+   Rūpino|0: ရုပ် ဖြစ်သော
+   rūpānaṃ|0: ရုပ်
+   Rūpīnaṃ|0: ရုပ် ဖြစ်သော
+   Rūpassa|0: ရုပ်
+-- rūpadhāt (4 senses, 4 terms)
+   rūpadhātu|0: အဆင်းအရောင် ဓာတ်
+   rūpadhātu|1: သိမ်မွေ့သော ရုပ်ဘုံ / သိမ်မွေ့သော ရုပ် ဓာတ်
+   rūpadhātū|0: သိမ်မွေ့သော ရုပ်ဘုံ
+   rūpadhātuṃ|0: သိမ်မွေ့သော ရုပ် ဓာတ်
+-- sabb (6 senses, 3 terms)
+   sabbaṃ|0: အားလုံး
+   Sabbesu|0: အရာအားလုံး
+   sabbo|0: အားလုံး
+   Sabbena|0: အပြည့်အဝ
+   sabba|0: အားလုံး
+   sabbā|0: အားလုံး
+-- sacc (6 senses, 3 terms)
+   sacca|0: သစ္စာ
+   sacca|1: မှန်သော
+   saccato|0: အမှန်အားဖြင့်
+   saccāni|0: သစ္စာ
+   saccaṃ|0: သစ္စာ
+   saccānaṃ|0: သစ္စာ
+-- sacchikat (3 senses, 3 terms)
+   sacchikata|0: မျက်မှောက် ပြုရသေးသော
+   sacchikataṃ|0: မျက်မှောက်ပြုပြီးသော / မျက်မှောက် ပြုဖူးသော
+   sacchikatassa|0: မျက်မှောက်ပြုပြီးသော
+-- saddh (5 senses, 2 terms)
+   saddhā|0: ယုံကြည်မှု
+   saddhānaṃ|0: ယုံကြည်မှု
+   saddhāya|0: ယုံကြည်မှု
+   Saddho|0: ယုံကြည်မှု ရှိသော
+   saddhaṃ|0: ယုံကြည်မှု
+-- sah (2 senses, 2 terms)
+   saha|0: အတူ / တစ်ပြိုင်နက်
+   sahassa|0: တစ်ထောင်
+-- sahajāt (2 senses, 2 terms)
+   sahajātā|0: အတူ ဖြစ်သော / အတူ ပေါ်ပေါက်သော
+   sahajāta|0: အတူ ပေါ်ပေါက်ခြင်း
+-- sahass (3 senses, 3 terms)
+   sahassehi|0: သိန်း
+   sahassaṃ|0: တစ်ထောင်
+   sahassāni|0: နှစ်သောင်း
+-- sak (2 senses, 2 terms)
+   saka|0: မိမိ
+   sakiṃ|0: တစ်ကြိမ်
+-- sakadāgām (4 senses, 2 terms)
+   sakadāgāmī|0: သကဒါဂါမ်
+   sakadāgāmi|0: သကဒါဂါမိ / သကဒါဂါမ်
+   Sakadāgāminā|0: သကဒါဂါမ်
+   Sakadāgāmissa|0: သကဒါဂါမ်
+-- sakk (2 senses, 2 terms)
+   sakkāya|0: ကိုယ်
+   sakko|0: သိကြားမင်း
+-- sall (2 senses, 2 terms)
+   sallena|0: မြား
+   sallato|0: ငြောင့်
+-- sam (3 senses, 2 terms)
+   sama|0: တူသော
+   same|0: ညီမျှသော
+   samo|0: တူသော
+-- samanantar (2 senses, 2 terms)
+   samanantara|0: ကောင်းစွာ ကြားမလပ် / ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း
+   samanantarā|0: ချက်ချင်း နောက်၌ / ချက်ချင်း
+-- samannāgat (2 senses, 2 terms)
+   samannāgata|0: ပြည့်စုံသော / ပြည့်စုံခြင်း
+   samannāgatā|0: ပြည့်စုံသော
+-- samannāhār (2 senses, 2 terms)
+   samannāhāro|0: နှလုံးသွင်းခြင်း / နှလုံးသွင်းမှု
+   samannāhārā|0: စိတ်ကို ဆောင်ခြင်း
+-- samatikkam (2 senses, 2 terms)
+   samatikkamāya|0: လွန်မြောက်ရန်
+   samatikkamo|0: လွန်မြောက်ခြင်း
+-- samatt (2 senses, 2 terms)
+   samattā|0: ပြည့်စုံခြင်း
+   samattaṃ|0: ပြည့်စုံစွာ
+-- samay (3 senses, 3 terms)
+   samaya|0: အချိန်အလိုက်
+   samayaṃ|0: အခါ
+   samaye|0: အယူဝါဒ
+-- samaṅg (2 senses, 2 terms)
+   samaṅgissa|0: ပြည့်စုံသော / ရရှိထားသော
+   samaṅgī|0: ပြည့်စုံသော / ပြည့်စုံနေသော
+-- samaṇ (3 senses, 2 terms)
+   samaṇena|0: ရဟန်းမြတ်
+   samaṇehi|0: ရဟန်း
+   samaṇo|0: ရဟန်း
+-- sambuddh (5 senses, 2 terms)
+   sambuddho|0: အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရား
+   sambuddhā|0: အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်
+   sambuddhānaṃ|0: အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်
+   sambuddhassa|0: အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်
+   sambuddha|0: အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်
+-- samm (4 senses, 4 terms)
+   sammuti|0: သမုတ်
+   sammā|0: မှန်ကန်သော / မှန်ကန်စွာ
+   sammā|1: အပြည့်အဝ
+   sammā|2: ကောင်းစွာ
+-- sammatt (2 senses, 2 terms)
+   sammattaṃ|0: မှန်ကန်ခြင်း
+   sammatta|0: မှန်ကန်မှု
+-- sammukhībhāv (2 senses, 2 terms)
+   sammukhībhāvo|0: မျက်မှောက် ဆုံဆည်းခြင်း
+   sammukhībhāvaṃ|0: မျက်နှာချင်း ဆိုင်ခြင်း
+-- sammāsambuddh (4 senses, 3 terms)
+   sammāsambuddho|0: အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား
+   sammāsambuddhā|0: အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင် / အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား
+   sammāsambuddhānaṃ|0: အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်
+   sammāsambuddhassa|0: အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်
+-- sampajān (3 senses, 2 terms)
+   sampajānā|0: ကောင်းစွာ ဆင်ခြင်သိမြင်သော
+   sampajāno|0: ကောင်းစွာ ဆင်ခြင်သိမြင်သော
+   sampajānassa|0: ကောင်းစွာ ဆင်ခြင်သိမြင်ခြင်း
+-- samph (2 senses, 2 terms)
+   sampha|0: အကျိုးမဲ့
+   samphaṃ|0: အကျိုးမဲ့ စကား / အကျိုးမဲ့ / အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား
+-- samuday (4 senses, 2 terms)
+   samudayo|0: ဖြစ်ပေါ်ခြင်း
+   samudaya|0: ဖြစ်ပေါ်ခြင်း / ဖြစ်ပေါ်တတ်သော
+   samudayaṃ|0: ဖြစ်ပေါ်ခြင်း
+   samudayato|0: ဖြစ်ပေါ်ခြင်း
+-- samuppād (3 senses, 2 terms)
+   samuppāda|0: ဖြစ်ပေါ်ပုံ
+   samuppādenti|0: ကောင်းစွာ ဖြစ်ပေါ်စေသည်
+   samuppādo|0: ဖြစ်ပေါ်ပုံ
+-- samuṭṭhān (2 senses, 2 terms)
+   samuṭṭhānā|0: ဖြစ်ပေါ်သော / ဖြစ်ပေါ်လာသော
+   samuṭṭhānato|0: ထကြွရာ
+-- samādh (5 senses, 2 terms)
+   samādhi|0: သမာဓိ
+   samādhiṃ|0: သမာဓိ / တည်ကြည်ခြင်း
+   samādhīnaṃ|0: သမာဓိ
+   samādhissa|0: သမာဓိ
+   samādhinā|0: သမာဓိ
+-- samādinn (2 senses, 2 terms)
+   samādinno|0: ဆောက်တည်ခဲ့ပြီးသော
+   samādinnaṃ|0: ဆောက်တည်ထားသော
+-- samādān (3 senses, 3 terms)
+   samādāna|0: ဆောက်တည်ခြင်း
+   samādānānaṃ|0: ဆောက်တည်မှု
+   samādānā|0: ဆောက်တည်သော
+-- samāhit (3 senses, 2 terms)
+   samāhite|0: တည်ကြည်သော
+   samāhitaṃ|0: တည်ကြည်သော
+   samāhitā|0: ကောင်းစွာ တည်သော
+-- samāpajj (3 senses, 2 terms)
+   samāpajjati|0: ဝင်စားသည်
+   samāpajjanti|0: ဝင်စားသည်
+   samāpajji|0: ဝင်စားတော်မူခဲ့သည်
+-- samāpann (3 senses, 3 terms)
+   samāpanno|0: ဝင်စားနေသော
+   samāpanno|1: ရောက်သော
+   samāpannassa|0: သမာပတ်ကို ဝင်စားနေသော / ဝင်စားနေသော / ဝင်စားသော
+-- samāpatt (2 senses, 2 terms)
+   samāpattīnaṃ|0: ဈာန် ဝင်စားရာ
+   samāpattiṃ|0: သမာပတ်
+-- sant (2 senses, 2 terms)
+   santa|0: ငြိမ်သက်သော
+   santati|0: အစဉ်
+-- sar (4 senses, 3 terms)
+   sarena|0: အသံ
+   sarati|0: အောက်မေ့သည်
+   sarato|0: အောက်မေ့နေသော
+   saro|0: အသံ
+-- sassat (3 senses, 2 terms)
+   sassatā|0: ထာဝရ တည်မြဲသော
+   sassataṃ|0: ထာဝရ တည်မြဲသော
+   Sassata|0: ထာဝရ တည်မြဲသည်
+-- sat (8 senses, 4 terms)
+   sati|0: သတိ
+   satiṃ|0: သတိ
+   sato|0: သတိ ရှိသော
+   satīnaṃ|0: သတိ
+   satāni|0: ရာပေါင်း
+   satā|0: သတိ ရှိသော
+   sataṃ|0: တစ်ရာ
+   satiyā|0: သတိ
+-- satt (5 senses, 2 terms)
+   satta|0: သတ္တဝါ / အသညသတ်
+   sattā|0: သတ္တဝါ
+   sattānaṃ|0: သတ္တဝါ / အသညသတ်
+   satte|0: သတ္တဝါ
+   sattesu|0: သတ္တဝါ
+-- sattam (3 senses, 3 terms)
+   Sattamo|0: သတ္တမ
+   sattama|0: သတ္တမ / ခုနစ်ကြိမ်မြောက်
+   sattamaṃ|0: ခုနစ်ခုမြောက်
+-- satth (3 senses, 2 terms)
+   satthā|0: ဆရာ
+   satthaṃ|0: လက်နက်
+   satthena|0: လက်နက်
+-- sañjān (2 senses, 2 terms)
+   sañjānāti|0: မှတ်သိသည်
+   sañjānato|0: မှတ်သိနေသော
+-- sañjāt (2 senses, 2 terms)
+   sañjātaṃ|0: ဖြစ်ပေါ်သော / ကောင်းစွာ မွေးဖွားပြီးသော / ပေါ်ပေါက်သော
+   sañjātassa|0: ပေါ်ပေါက်သော
+-- saññ (7 senses, 3 terms)
+   sañña|0: အသညသတ်
+   saññā|0: မှတ်သိမှု
+   sañño|0: မှတ်သိမှု
+   saññaṃ|0: မှတ်သိမှု
+   saññānaṃ|0: မှတ်သိမှု
+   saññāya|0: မှတ်သိမှု
+   saññī|0: မှတ်ထင်သော / မှတ်သိသော
+-- saññāvedayitanirodh (2 senses, 2 terms)
+   saññāvedayitanirodhaṃ|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် / မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း
+   saññāvedayitanirodha|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ
+-- saṃkhitt (3 senses, 3 terms)
+   Saṃkhittaṃ|0: တွန့်ဆုတ်နေသော
+   Saṃkhittaṃ|1: အကျဉ်းချုပ်
+   saṃkhittena|0: အကျဉ်း
+-- saṃvijjamān (2 senses, 2 terms)
+   saṃvijjamāno|0: ထင်ရှား ရှိနေသော
+   saṃvijjamānā|0: ထင်ရှား ရှိသော
+-- saṃyojan (7 senses, 2 terms)
+   saṃyojana|0: နှောင်ကြိုး
+   saṃyojanānaṃ|0: နှောင်ကြိုး
+   saṃyojano|0: နှောင်ကြိုး
+   saṃyojanaṃ|0: နှောင်ကြိုး
+   saṃyojanāni|0: နှောင်ကြိုး
+   saṃyojaniyā|0: နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော
+   saṃyojanā|0: နှောင်ကြိုး
+-- saṅgah (2 senses, 2 terms)
+   Saṅgaho|0: အကျုံးဝင်ခြင်း
+   saṅgaha|0: အကျဉ်းချုပ်
+-- saṅgahit (2 senses, 2 terms)
+   saṅgahita|0: အကျုံးဝင်ခြင်း
+   saṅgahitā|0: အကျုံးဝင်သော
+-- saṅkh (2 senses, 2 terms)
+   saṅkhato|0: ပြုပြင်ဖန်တီးထားသော
+   saṅkhā|0: ရေတွက်ခေါ်ဆိုချက်
+-- saṅkhār (7 senses, 2 terms)
+   saṅkhārā|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāro|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāre|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāra|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāra|1: တိုက်တွန်းမှု
+   saṅkhārānaṃ|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāraṃ|0: ပြုပြင်ဖန်တီးမှု
+-- saṅkiṇṇ (2 senses, 2 terms)
+   saṅkiṇṇa|0: ဖို့ပြီးသော
+   saṅkiṇṇa|1: ရောနှောခြင်း / ရောယှက်သော
+-- sekh (3 senses, 2 terms)
+   sekha|0: ကျင့်ကြံမှု
+   Sekhassa|0: ကျင့်ကြံဆဲသူ
+   sekhaṃ|0: ကျင့်ကြံဆဲသူ
+-- sen (2 senses, 2 terms)
+   senaṃ|0: စစ်သည်
+   sena|0: စစ်တပ်
+-- senāsan (3 senses, 2 terms)
+   senāsana|0: ကျောင်းအိပ်ရာနေရာ
+   senāsanaṃ|0: အိပ်ရာ နေရာ
+   senāsanassa|0: ကျောင်းအိပ်ရာနေရာ
+-- set (2 senses, 2 terms)
+   setu|0: တံတား
+   setu|1: သေတု
+-- seyy (2 senses, 2 terms)
+   seyyaṃ|0: အိပ်ရာ
+   seyyāya|0: ကိန်းအောင်း
+-- seṭṭh (4 senses, 3 terms)
+   seṭṭhī|0: သူဌေး
+   seṭṭhaṃ|0: မြတ်သော
+   seṭṭho|0: အမြတ်ဆုံး / မြတ်သော
+   seṭṭhā|0: မြတ်သော
+-- sikkh (2 senses, 2 terms)
+   sikkhāya|0: ကျင့်စဉ် / သိက္ခာ
+   sikkhā|0: ကျင့်ခြင်း / သိက္ခာ
+-- somanass (2 senses, 2 terms)
+   somanassaṃ|0: ဝမ်းမြောက်မှု
+   somanassāya|0: ဝမ်းမြောက်ခြင်း
+-- subh (2 senses, 2 terms)
+   subhānaṃ|0: သုဘ
+   subhaṃ|0: တင့်တယ်သော
+-- suddh (2 senses, 2 terms)
+   suddha|0: ရိုးရိုး / သက်သက်
+   Suddhi|0: စင်ကြယ်ခြင်း
+-- sukh (9 senses, 4 terms)
+   sukha|0: သာယာသော / သာယာမှု
+   sukha|1: ချမ်းသာ / သုခ
+   sukhaṃ|0: သာယာသော
+   sukhaṃ|1: ချမ်းသာ / သုခ
+   sukhāya|0: ချမ်းသာ
+   sukhāya|1: သာယာသော
+   Sukho|0: သာယာသော
+   sukhā|0: သာယာသော
+   sukhassa|0: ချမ်းသာ
+-- sukhadukkh (2 senses, 2 terms)
+   sukhadukkhaṃ|0: ချမ်းသာနှင့် ဆင်းရဲ / ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ
+   sukhadukkhaṃ|1: သာယာမှု နာကျင်မှု
+-- sukk (2 senses, 2 terms)
+   sukka|0: ဖြူစင်သော
+   sukka|1: သုက်
+-- sukkavissaṭṭh (2 senses, 2 terms)
+   sukkavissaṭṭhi|0: သုက်ထွက်ခြင်း
+   sukkavissaṭṭhiṃ|0: သုက်
+-- sut (2 senses, 2 terms)
+   suta|0: ကြားသော
+   sutaṃ|0: ကြားခဲ့ရသော
+-- sutt (3 senses, 3 terms)
+   sutta|0: သုတ္တန်
+   suttaṃ|0: သုတ်
+   Suttassa|0: အိပ်ပျော်နေသော
+-- suññ (4 senses, 2 terms)
+   suññato|0: ဆိတ်သုဉ်းသည်
+   suñño|0: ဆိတ်သုဉ်းသော
+   suññaṃ|0: ဆိတ်သုဉ်းသော
+   Suññā|0: ဆိတ်သုဉ်းသော
+-- sādhāraṇ (3 senses, 2 terms)
+   sādhāraṇo|0: ဆက်ဆံရသော / ဆက်ဆံသော
+   sādhāraṇaṃ|0: ဆက်ဆံသော
+   sādhāraṇā|0: ဆက်ဆံသော
+-- sāl (2 senses, 2 terms)
+   sālāyaṃ|0: ဇရပ်
+   sāla|0: အင်ကြင်း
+-- sāmaññ (2 senses, 2 terms)
+   sāmañña|0: ရဟန်းအဖြစ် / ရဟန်း
+   sāmaññaṃ|0: ရဟန်း၏ အဖြစ်
+-- sāvak (5 senses, 2 terms)
+   sāvaka|0: တပည့် / သာဝက
+   sāvakassa|0: တပည့်
+   sāvakā|0: တပည့်
+   sāvako|0: တပည့်
+   sāvakānaṃ|0: တပည့်
+-- sūr (2 senses, 2 terms)
+   Sūrā|0: ရဲရင့်သော
+   sūriyā|0: နေ
+-- tath (3 senses, 3 terms)
+   tatha|0: ဟုတ်တိုင်း
+   tatheva|0: ထိုအတိုင်းပင်
+   tathā|0: ထို့အတူ
+-- taṇh (4 senses, 2 terms)
+   taṇhā|0: တပ်မက်မှု / တဏှာ
+   taṇho|0: တပ်မက်မှု
+   taṇhaṃ|0: တပ်မက်မှု
+   taṇha|0: တပ်မက်မှု
+-- tena hi buddh (2 senses, 2 terms)
+   Tena hi buddho|0: သို့ဖြစ်လျှင် ဘုရားရှင်
+   Tena hi buddhassa|0: သို့ဖြစ်လျှင် ဘုရား
+-- tiracchānayon (3 senses, 3 terms)
+   tiracchānayoni|0: တိရစ္ဆာန် မွေးဖွားရာ
+   tiracchānayoniṃ|0: တိရစ္ဆာန် ဘဝ / တိရစ္ဆာန် ဘုံ / တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား
+   tiracchānayonī|0: တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား
+-- tiṭṭh (3 senses, 3 terms)
+   tiṭṭhati|0: တည်သည် / တည်နေသည်
+   tiṭṭhanti|0: တည်ရှိသည် / တည်သည်
+   tiṭṭhanti|1: ဓားပြ တိုက်သည်
+-- tiṭṭheyy (2 senses, 2 terms)
+   tiṭṭheyya|0: တည်နေသည်
+   tiṭṭheyya|1: ဓားပြ တိုက်သည် / စောင့်ဆိုင်းလုယက်သည်
+-- tucch (2 senses, 2 terms)
+   tuccha|0: ဗလာ
+   tucchato|0: အနှစ်မဲ့
+-- tuṭṭh (2 senses, 2 terms)
+   tuṭṭhassa|0: ရောင့်ရဲသော
+   tuṭṭhiyā|0: ကျေနပ်ခြင်း
+-- ucched (2 senses, 2 terms)
+   Ucchedā|0: ပြတ်စဲခြင်း
+   uccheda|0: ပြတ်စဲသွားသည်
+-- udd (2 senses, 2 terms)
+   uddānaṃ|0: အကျဉ်းချုပ်
+   uddissa|0: ရည်စူး၍
+-- uddes (2 senses, 2 terms)
+   uddesaṃ|0: ညွှန်ပြခြင်း
+   uddesa|0: ခွဲဝေ
+-- upag (5 senses, 4 terms)
+   upage|0: ရောက်သွားသော
+   upagā|0: ရောက်သော
+   upagānaṃ|0: ရောက်သော
+   upagaṃ|0: ရောက်စေသော / ရောက်သော
+   upagassa|0: ရောက်မည့်
+-- upagat (2 senses, 2 terms)
+   upagata|0: ရောက်သွားသော / ရောက်သော
+   upagataṃ|0: ရောက်သော / ရောက်သွားသော
+-- upalabbh (3 senses, 2 terms)
+   upalabbhati|0: တွေ့ရသည်
+   upalabbhanti|0: တွေ့ရသည်
+   Upalabbho|0: တွေ့ရခြင်း
+-- upapajj (4 senses, 2 terms)
+   upapajjati|0: ပြန်လည် ဖြစ်ပေါ်သည်
+   upapajje|0: နောက်ဘဝ
+   upapajjaṃ|0: နောက်ဘဝ
+   upapajja|0: နောက်ဘဝ
+-- upapann (3 senses, 2 terms)
+   upapanno|0: ပြန်လည် ဖြစ်ပေါ်သော
+   upapannassa|0: ပြန်လည် ဖြစ်ပေါ်သော
+   upapannā|0: ရောက်သော
+-- uppajj (4 senses, 4 terms)
+   uppajjati|0: ဖြစ်ပေါ်သည် / ပေါ်ပေါက်လာသည် / ပေါ်ပေါက်သည် / ပွင့်ထွန်းတော်မူသည်
+   uppajjanti|0: ဖြစ်ပေါ်သည် / ပေါ်ပေါက်သည်
+   Uppajjissati|0: ဖြစ်ပေါ်လိမ့်မည်
+   uppajja|0: ဖြစ်ပေါ်၍
+-- uppann (6 senses, 3 terms)
+   uppanne|0: ဖြစ်ပေါ်သော
+   uppannaṃ|0: ပေါ်ပေါက်ခဲ့သော / ဖြစ်ပေါ်ပြီးသော
+   uppannassa|0: ဖြစ်ပေါ်သော
+   uppanna|0: ဖြစ်ပေါ်ပြီးသော
+   Uppanno|0: ဖြစ်ပေါ်ပြီးသော
+   uppannā|0: ဖြစ်ပေါ်ပြီးသော
+-- uppād (8 senses, 8 terms)
+   uppādo|0: ဖြစ်ပေါ်ခြင်း / ဖြစ်ခြင်း
+   uppāda|0: ဖြစ်ပေါ်တော့သော / ဖြစ်ခြင်း
+   uppāda|1: ထွက်စေခြင်း
+   uppādino|0: ဖြစ်ပေါ်လာမည့်
+   uppādā|0: ဖြစ်ပေါ်သော / ဖြစ်ပေါ်ခြင်း / ပွင့်ပေါ်သည်
+   uppādenti|0: ဖြစ်ပေါ်စေသည်
+   uppādaṃ|0: ဖြစ်ပေါ်သော
+   uppādāya|0: ဖြစ်ပေါ်ရန်
+-- uppādak (2 senses, 2 terms)
+   uppādakā|0: ထွက်စေသူ
+   uppādako|0: စိမ်းစေသူ
+-- uppādit (2 senses, 2 terms)
+   uppāditaṃ|0: ထွက်စေအပ်သော
+   uppāditaṃ|1: ဖြစ်ပေါ်စေခဲ့ပြီးသော
+-- upād (4 senses, 2 terms)
+   upādā|0: မှီ၍
+   upādā|1: စွဲလမ်းမှု
+   upādāya|0: မှီ၍
+   upādānaṃ|0: စွဲလမ်းမှု
+-- vacīsaṅkhār (3 senses, 2 terms)
+   vacīsaṅkhārā|0: နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   vacīsaṅkhāro|0: နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   vacīsaṅkhāraṃ|0: နှုတ်ဖြင့် ပြုပြင်ဖန်တီးမှု
+-- van (2 senses, 2 terms)
+   vane|0: ဝုန်တော
+   vana|0: တော
+-- vas (2 senses, 2 terms)
+   vasa|0: ဝသ
+   vasī|0: အလိုအတိုင်း
+-- vat (3 senses, 2 terms)
+   vata|0: အကျင့်ဝတ်
+   vata|1: အမှန်ပင်
+   vataṃ|0: အကျင့်ဝတ်
+-- vatt (3 senses, 3 terms)
+   vattīnaṃ|0: ဝတ္တီ
+   vattati|0: ဖြစ်သည်
+   vattiyā|0: ပရနိမ္မိတဝသဝတ္တီ
+-- vatth (5 senses, 4 terms)
+   vatthu|0: အငြင်းပွားရာ အကြောင်းအရာ / အကြောင်းအရာ
+   vatthu|1: ငုတ်တို
+   vatthaṃ|0: အဝတ်
+   vatthuṃ|0: မှီရာ ဝတ္ထု
+   vatthāni|0: အဝတ်
+-- vatthuk (2 senses, 2 terms)
+   vatthukā|0: မှီရာ ရှိသော
+   vatthukaṃ|0: အခြေ … ရှိသော
+-- vay (3 senses, 2 terms)
+   vaya|0: ပျက်စီး / ပျက်ခြင်း
+   vayo|0: ပျက်ခြင်း
+   vayaṃ|0: ပျက်ခြင်း
+-- vaṇṇ (3 senses, 2 terms)
+   vaṇṇa|0: အသွင်
+   vaṇṇā|0: အဆင်း
+   vaṇṇena|0: အသွင်
+-- vaṭṭ (2 senses, 2 terms)
+   vaṭṭa|0: သံသရာ စက်ဝန်း / ဝဋ်
+   vaṭṭe|0: ဝဋ်
+-- ved (3 senses, 3 terms)
+   vediyā|0: ဖြစ်သော
+   vedeti|0: ခံစားသည် / ခံစားရသည်
+   veda|0: ဝမ်းမြောက်ခြင်း
+-- vedan (6 senses, 2 terms)
+   vedanā|0: ခံစားမှု
+   vedano|0: ခံစားမှု
+   vedanaṃ|0: ခံစားမှု
+   vedanānaṃ|0: ခံစားမှု
+   vedanāya|0: ခံစားမှု
+   vedaniyā|0: ခံစားမှုကို ဖြစ်စေတတ်သော
+-- veday (2 senses, 2 terms)
+   vedayati|0: ခံစားသည် / ခံစားရသည်
+   vedayato|0: ခံစားနေသော
+-- vedayit (2 senses, 2 terms)
+   vedayita|0: ခံစားရခြင်း / ခံစားမှု
+   vedayitaṃ|0: ခံစားရမှု
+-- vicikicch (3 senses, 2 terms)
+   vicikicchati|0: ယုံမှားသည်
+   vicikicchā|0: ယုံမှားမှု
+   vicikicchaṃ|0: ယုံမှားမှု
+-- vicār (7 senses, 2 terms)
+   vicārā|0: ဆက်လက်သုံးသပ်မှု
+   vicāreti|0: ဆက်လက်သုံးသပ်သည်
+   vicāraṃ|0: ဆက်လက်သုံးသပ်မှု
+   vicāra|0: ဆက်လက်သုံးသပ်မှု
+   vicārena|0: ဆက်လက်သုံးသပ်မှု
+   vicāre|0: ဆက်လက်သုံးသပ်မှု
+   vicāro|0: ဆက်လက်သုံးသပ်မှု
+-- vigat (4 senses, 4 terms)
+   vigataṃ|0: ကင်းကွာပြီးသော / ကင်းပျောက်ပြီးသော
+   vigata|0: ကင်းသော
+   vigatāya|0: ကင်းပျောက်သော
+   vigate|0: ကင်းသွားသော
+-- vih (2 senses, 2 terms)
+   vihāya|0: စွန့်ခွာပြီးမှ
+   vihassati|0: နေသည်
+-- vihar (2 senses, 2 terms)
+   viharati|0: နေသည် / နေတော်မူသည်
+   viharissati|0: နေသည်
+-- vihār (4 senses, 3 terms)
+   vihāra|0: နေထိုင်ရာ
+   vihāra|1: ကျောင်း
+   vihāro|0: နေခြင်း
+   vihāraṃ|0: နေခြင်း
+-- vijj (2 senses, 2 terms)
+   vijjati|0: ရှိသည်
+   vijjā|0: အမှန်သိမြင်မှု
+-- vikubb (2 senses, 2 terms)
+   vikubbati|0: ဖန်ဆင်းပြသည်
+   vikubbanti|0: ဖန်ဆင်းသည်
+-- vimut (2 senses, 2 terms)
+   vimutti|0: လွတ်မြောက်ခြင်း
+   vimutto|0: လွတ်မြောက်သော
+-- vimutt (3 senses, 3 terms)
+   vimuttassa|0: လွတ်မြောက်သော
+   vimuttiyā|0: လွတ်မြောက်မှု / လွတ်မြောက်ခြင်း
+   vimuttaṃ|0: လွတ်မြောက်ပြီးသော / လွတ်မြောက်သော
+-- vinay (3 senses, 3 terms)
+   vinaye|0: ဝိနည်း
+   vinayo|0: ပယ်ဖျောက်ခြင်း
+   vinayanti|0: ပယ်ဖျောက်သည်
+-- vipariṇāmadhamm (4 senses, 3 terms)
+   vipariṇāmadhammaṃ|0: ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော
+   vipariṇāmadhammā|0: ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော / ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော
+   vipariṇāmadhammo|0: ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော
+   vipariṇāmadhammato|0: ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော
+-- vipul (2 senses, 2 terms)
+   vipulo|0: ပြန့်ပြောသော
+   vipula|0: ကြီးမားသော
+-- vipākābyākat (2 senses, 2 terms)
+   Vipākābyākatā|0: ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   vipākābyākate|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး
+-- virāg (2 senses, 2 terms)
+   virāga|0: ပြယ်ပျောက်
+   Virāgo|0: ရာဂ ကင်းခြင်း
+-- visuddh (3 senses, 3 terms)
+   visuddhi|0: စင်ကြယ်ခြင်း
+   visuddhena|0: စင်ကြယ်သော
+   visuddhiyā|0: စင်ကြယ်သော / စင်ကြယ်ရန်
+-- vitakkānupatit (2 senses, 2 terms)
+   vitakkānupatita|0: စတင်ကြံစည်မှုနှင့် တွဲဖက်နေခြင်း
+   vitakkānupatitaṃ|0: စတင်ကြံစည်မှုနှင့် တွဲဖက်နေသော
+-- viññ (2 senses, 2 terms)
+   viññū|0: နားလည်တတ်သော
+   viññāya|0: သိ၍
+-- viññāṇ (7 senses, 2 terms)
+   viññāṇaṃ|0: သိစိတ်
+   viññāṇa|0: သိစိတ်
+   viññāṇā|0: သိစိတ်
+   viññāṇo|0: သိစိတ်
+   viññāṇassa|0: သိစိတ်
+   viññāṇañca|0: အဆုံး မရှိသော သိစိတ်
+   viññāṇena|0: သိစိတ်
+-- vuṭṭh (2 senses, 2 terms)
+   vuṭṭhānaṃ|0: ထမြောက်ခြင်း / ထမြောက်ရန်
+   vuṭṭhaṃ|0: ရွာသော
+-- vāc (3 senses, 2 terms)
+   vācā|0: စကား
+   vācaṃ|0: စကား
+   vācāya|0: နှုတ် / စကား
+-- vācaṃ bhās (3 senses, 2 terms)
+   vācaṃ bhāsati|0: စကားကို ပြောသည်
+   vācaṃ bhāsanti|0: စကားကို ပြောသည်
+   vācaṃ bhāsato|0: စကား ပြောနေသော
+-- vād (13 senses, 7 terms)
+   vādī|0: ဆိုတော်မူသော / ပြောသော
+   vādī|1: တစ်ဖက်သား / မိမိဘက်
+   vāda|0: ဝါဒ
+   vāda|1: ပြောခြင်း
+   vādino|0: ပြောသော
+   vādā|0: ပြောခြင်း
+   vādā|1: ဝါဒ
+   vādo|0: ပြောခြင်း
+   vādo|1: ဝါဒ
+   vādaṃ|0: ပြောခြင်း
+   vādissa|0: တစ်ဖက်သား
+   vādeti|0: တီးမှုတ်
+   vādassa|0: ပြောခြင်း
+-- vās (3 senses, 3 terms)
+   vāso|0: ကျင့်သုံးခြင်း
+   vāsāya|0: ကျင့်ရန်
+   vāsiṃ|0: ပေါက်ပြား
+-- vīmaṃs (2 senses, 2 terms)
+   vīmaṃsā|0: စုံစမ်းဆင်ခြင်မှု
+   vīmaṃsa|0: ဝီမံသ
+-- yasass (2 senses, 2 terms)
+   yasassino|0: ကျော်ကြားသော
+   yasassinā|0: ကျော်ကြားတော်မူသော
+-- yog (4 senses, 3 terms)
+   yogo|0: ထမ်းပိုး
+   yogo|1: အားထုတ်မှု
+   yogaṃ|0: ဆက်စပ်
+   yoga|0: ထမ်းပိုး
+-- yon (3 senses, 3 terms)
+   yoni|0: မွေးဖွားရာ အမျိုးအစား / မွေးဖွားရာ
+   yoniṃ|0: ဘဝ / ဘုံ / မွေးဖွားရာ အမျိုးအစား
+   yonī|0: မွေးဖွားရာ အမျိုးအစား
+-- yug (2 senses, 2 terms)
+   yugā|0: အစုံ / အတွဲ
+   yugaṃ|0: အစုံ / နှစ်ပါး
+-- yutt (2 senses, 2 terms)
+   yutti|0: ယုတ္တိ
+   yuttaṃ|0: ကပ်ထားသော
+-- yāp (2 senses, 2 terms)
+   yāpenti|0: အသက်မွေးသည်
+   yāpeti|0: အသက် မွေးသည်
+-- ñāṇ (6 senses, 3 terms)
+   ñāṇa|0: ဉာဏ် / သိခြင်း
+   ñāṇaṃ|0: ဉာဏ် / သိခြင်း
+   ñāṇena|0: ဉာဏ်
+   ñāṇehi|0: ဉာဏ်
+   ñāṇāya|0: ဉာဏ်
+   ñāṇe|0: သိခြင်း
+-- ñāṇaṃ cittavippayutt (2 senses, 2 terms)
+   Ñāṇaṃ cittavippayutta|0: ဉာဏ် … စိတ်နှင့် ကင်းကွာသော
+   Ñāṇaṃ cittavippayuttaṃ|0: ဉာဏ်သည် စိတ်နှင့် ကင်းကွာသော
+-- ābhog (5 senses, 2 terms)
+   ābhoga|0: စိတ်ညွတ်ခြင်း
+   ābhogassa|0: စိတ်ညွတ်သော / စိတ် ညွတ်သော
+   ābhogo|0: စိတ်ညွတ်ခြင်း
+   ābhogā|0: စိတ်ညွတ်ခြင်း
+   ābhogaṃ|0: စိတ်ညွတ်ခြင်း
+-- āditt (2 senses, 2 terms)
+   ādittaṃ|0: လောင်ကျွမ်းနေသော
+   ādittāya|0: ပူလောင်နေသော
+-- ādān (4 senses, 2 terms)
+   ādāno|0: စွဲလမ်းမှု
+   ādāna|0: ယူခြင်း
+   ādānaṃ|0: ယူခြင်း
+   ādānā|0: ယူခြင်း
+-- āharaṇ (2 senses, 2 terms)
+   āharaṇa|0: ကိုးကားသော
+   āharaṇena|0: ကိုးကားခြင်း
+-- āhuneyy (2 senses, 2 terms)
+   āhuneyyo|0: ပူဇော်ဖွယ်တို့ကို ခံထိုက်သော
+   āhuneyyānaṃ|0: ပူဇော်ဖွယ်ကို ခံထိုက်သော
+-- āhār (7 senses, 3 terms)
+   āhāra|0: ဆိုခြင်း
+   āhāre|0: အာဟာရ
+   āhāro|0: အစာ
+   āhāro|1: အာဟာရ
+   āhāro|2: ဆိုခြင်း
+   āhārato|0: အာဟာရ
+   āhārā|0: အစာ
+-- ālok (3 senses, 2 terms)
+   āloko|0: အလင်း
+   āloketi|0: ရှေ့သို့ ကြည့်သည်
+   ālokassa|0: အလင်း
+-- āma (2 senses, 2 terms)
+   āma|0: အစိမ်း
+   āma|1: ဟုတ်ပါသည်
+-- āneñj (3 senses, 3 terms)
+   āneñja|0: မတုန်မလှုပ်သော / မတုန်လှုပ်သော / မတုန်လှုပ်ခြင်း
+   āneñja|1: အာနေဉ္ဇသပ္ပာယ
+   āneñje|0: မတုန်မလှုပ်သော အခြေ
+-- āpāyik (3 senses, 3 terms)
+   Āpāyikaṃ|0: အပါယ်
+   āpāyike|0: အပါယ်နှင့် ဆိုင်သော
+   Āpāyiko|0: အပါယ်သို့ ရောက်သော / အပါယ်သို့ ရောက်မည့်
+-- ārabbha uppajj (2 senses, 2 terms)
+   ārabbha uppajjati|0: အာရုံပြု၍ ဖြစ်ပေါ်သည် / အာရုံပြု၍ … ဖြစ်ပေါ်သည်
+   ārabbha uppajjanti|0: အာရုံပြု၍ … ဖြစ်ပေါ်သည်
+-- ārām (2 senses, 2 terms)
+   ārāma|0: ကျောင်း / ဥယျာဉ် / အရံ
+   ārāme|0: အရံ
+-- āsevan (2 senses, 2 terms)
+   āsevana|0: အဖန်ဖန် မှီဝဲခြင်း
+   āsevanā|0: အလေ့အကျင့် ပြုခြင်း
+-- āsevanapaccay (2 senses, 2 terms)
+   āsevanapaccaya|0: အဖန်ဖန် မှီဝဲခြင်း အကြောင်းဖြစ်ခြင်း
+   āsevanapaccayena|0: အလေ့အကျင့် ပြုခြင်းဟူသော အကြောင်း
+-- ṭhit (6 senses, 6 terms)
+   ṭhiti|0: တည်ရာ / တည်ခြင်း / တည်နေသော / တည်တံ့ခြင်း
+   ṭhitassa|0: တည်နေသော
+   Ṭhitaṃ|0: တည်ငြိမ်သော
+   ṭhite|0: တည်တံ့သော
+   ṭhitā|0: တည်သော / တည်ပြီးသော
+   ṭhita|0: တည်မြဲသော
+-- ṭhān (4 senses, 3 terms)
+   ṭhānaṃ|0: တည်ရာ
+   ṭhānaṃ|1: ဌာန
+   ṭhānehi|0: အကြောင်း
+   ṭhānāni|0: အကြောင်း
+
+== C. stem substring families
+== hetu (19 senses, 13 terms)
+   samādānahetu|0: ဆောက်တည်ခြင်းကြောင့်
+   hetu|0: အကြောင်း
+   hetu|1: အမြစ်
+   Rūpaṃ sahetukaṃ|0: ရုပ်သည် အမြစ် ရှိသော
+   hetukaṃ|0: အမြစ်
+   kissa hetu|0: အဘယ်ကြောင့်
+   hetuka|0: အကြောင်း
+   hetuso|0: အကြောင်းရင်း
+   hetuto|0: အမြစ်
+   hetupaccayataṃ|0: အမြစ် အကြောင်း ဖြစ်ခြင်း
+   Samādānahetukaṃ|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော
+   Samādānahetukaṃ vaḍḍhati|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော … တိုးပွားသည်
+   samādānahetukaṃ sīlaṃ|0: ဆောက်တည်ခြင်းကြောင့် ဖြစ်သော သီလ
+   hetukā|0: အမြစ်
+   hetunā|0: အမြစ်
+   iddhiyā paggahetuṃ|0: ဣဒ္ဓိဖြင့် ထိန်းထား
+   hetupaccayena|0: အမြစ်ဟူသော အကြောင်း
+   Rūpaṃ hetu|0: ရုပ်သည် အမြစ်
+   hetuko|0: အမြစ်
+== āsav (20 senses, 8 terms)
+   anāsava|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   āsava|0: စိတ်အစွန်းအထင်း
+   āsavānaṃ|0: စိတ်အစွန်းအထင်း
+   sāsavo|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   anāsavo|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   āsavo|0: စိတ်အစွန်းအထင်း
+   anāsavā|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   āsavā|0: စိတ်အစွန်းအထင်း
+   āsavaṃ|0: စိတ်အစွန်းအထင်း
+   sāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavena|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   āsavena|0: စိတ်အစွန်းအထင်း
+   anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   kāyo anāsavo|0: ကိုယ်သည် စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   Arahato anāsavā|0: ရဟန္တာ … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavaṃ taṃ sāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavaṃ taṃ anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   arahā anāsavo|0: ရဟန္တာ … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavesu|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော အရာ
+   sāsavā|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+== nīvaraṇ (9 senses, 6 terms)
+   nīvaraṇānaṃ|0: အတားအဆီး
+   nīvaraṇaṃ|0: အတားအဆီး
+   kāmacchandanīvaraṇaṃ|0: ကာမကို လိုလားမှု အတားအဆီး
+   nīvaraṇiyo|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   nīvaraṇiyā|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   avijjānīvaraṇaṃ|0: အမှန်ကို မသိမှု အတားအဆီး
+   vicikicchānīvaraṇaṃ|0: ယုံမှားမှု အတားအဆီး
+   nīvaraṇiyaṃ|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   avijjānīvaraṇaṃ akusalaṃ|0: အမှန်ကို မသိမှု အတားအဆီးသည် အကုသိုလ်
+== parāmās (7 senses, 5 terms)
+   parāmāso|0: မှားယွင်းသော ယူဆမှု
+   sīlabbataparāmāso|0: သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု
+   Sīlabbataparāmāsaṃ jahati|0: သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု … စွန့်ပယ်သည်
+   parāmāsaṃ|0: မှားယွင်းသော ယူဆမှု
+   sīlabbataparāmāsaṃ|0: သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု
+   atīto sīlabbataparāmāso|0: အတိတ် သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု
+   sīlabbataparāmāso atthi|0: သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု ရှိသည်
+== kiles (18 senses, 9 terms)
+   kilesa|0: ကိလေသာ
+   bahutarā kilesā pahīnā|0: ကိလေသာတို့ကို ပိုများစွာ ပယ်ပြီးသော
+   kilesā|0: ကိလေသာ
+   kilesā pahīyanti|0: ကိလေသာ … ပယ်သည်
+   kilese jahati|0: ကိလေသာ … စွန့်ပယ်သည် / ကိလေသာတို့ကို စွန့်ပယ်သည်
+   kilese|0: ကိလေသာ
+   Odhisodhiso kilese|0: ကိလေသာတို့ကို အပိုင်းအပိုင်း
+   saṃkilesiyo|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikā|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesaṃ|0: ညစ်နွမ်းခြင်း
+   saṃkilesiyaṃ|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesiyaṃ vimuccati|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော … လွတ်မြောက်သည်
+   upakkilese|0: အညစ်အကြေး
+   saṃkilesiyena|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikāni|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesiko|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikaṃ|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   kileso|0: ကိလေသာ
+== vitakk (24 senses, 16 terms)
+   vitakkānupatita|0: စတင်ကြံစည်မှုနှင့် တွဲဖက်နေခြင်း
+   vitakka|0: စတင်ကြံစည်မှု
+   vitakkavipphāra|0: စတင်ကြံစည်မှု ပျံ့နှံ့ခြင်း
+   jhānaṃ vitakkavicārā|0: ဈာန် … စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vitakkavicārā vacīsaṅkhārā|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှုတို့ကို နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   vitakkavicārā|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vitakkaṃ|0: စတင်ကြံစည်မှု
+   vitakkitaṃ|0: ကြံစည်ထားသော
+   vitakketi|0: စတင်ကြံစည်မှု
+   Avitakko samādhi|0: စတင်ကြံစည်မှု မရှိသော … သမာဓိ
+   cittaṃ vitakkānupatitaṃ|0: စိတ် … စတင်ကြံစည်မှုနှင့် တွဲဖက်နေသော
+   vitakko vicāro|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vitakkayato|0: စတင်ကြံစည်မှု ပြုနေသော
+   vitakkayato vicārayato|0: စတင်ကြံစည်မှု ပြုနေသော … ဆက်လက်သုံးသပ်မှု ပြုနေသော
+   vitakkavipphāro saddo|0: စတင်ကြံစည်မှု ပျံ့နှံ့ခြင်း … အသံ
+   vitakkānupatitaṃ|0: စတင်ကြံစည်မှုနှင့် တွဲဖက်နေသော
+   vitakkavipphāro|0: စတင်ကြံစည်မှု ပျံ့နှံ့ခြင်း
+   vitakkentassa|0: စတင်ကြံစည်မှုကို ပြုနေသော
+   vitakkena|0: စတင်ကြံစည်မှု
+   vitakkavicārānaṃ|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   jhānaṃ savitakkaṃ|0: ဈာန်သည် စတင်ကြံစည်မှု ရှိသော
+   vitakkaṃ vicāraṃ|0: စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု
+   vitakkavicāre|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vitakko|0: စတင်ကြံစည်မှု
+== vicār (17 senses, 9 terms)
+   jhānaṃ vitakkavicārā|0: ဈာန် … စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vicārā|0: ဆက်လက်သုံးသပ်မှု
+   vitakkavicārā vacīsaṅkhārā|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှုတို့ကို နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   vitakkavicārā|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vicāreti|0: ဆက်လက်သုံးသပ်သည်
+   vicāraṃ|0: ဆက်လက်သုံးသပ်မှု
+   vicāritaṃ|0: သုံးသပ်ထားသော
+   vicāra|0: ဆက်လက်သုံးသပ်မှု
+   vitakko vicāro|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vicārayato|0: ဆက်လက်သုံးသပ်မှု ပြုနေသော
+   vitakkayato vicārayato|0: စတင်ကြံစည်မှု ပြုနေသော … ဆက်လက်သုံးသပ်မှု ပြုနေသော
+   vitakkavicārānaṃ|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vicārena|0: ဆက်လက်သုံးသပ်မှု
+   vitakkaṃ vicāraṃ|0: စတင်ကြံစည်မှု … ဆက်လက်သုံးသပ်မှု
+   vicāre|0: ဆက်လက်သုံးသပ်မှု
+   vitakkavicāre|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   vicāro|0: ဆက်လက်သုံးသပ်မှု
+== pīti (4 senses, 2 terms)
+   pīti|0: ပီတိ
+   pītikaṃ|0: ပီတိ / ပီတိ ရှိသော
+   pītiṃ|0: ပီတိ
+   pītiyā|0: ပီတိ
+== sukh (45 senses, 31 terms)
+   sukha|0: သာယာသော / သာယာမှု
+   sukha|1: ချမ်းသာ / သုခ
+   Sukhānuppadānakathā|0: သုခကို ပေးခြင်းအကြောင်း ဆွေးနွေးချက်
+   sukhānuppadāna|0: သုခကို ပေးခြင်း
+   dibbassa sukhassa paṭisaṃvedī|0: နတ်တို့၏ ချမ်းသာကို ခံစားသော
+   sukhaṃ|0: သာယာသော
+   sukhaṃ|1: ချမ်းသာ / သုခ
+   sukhaṃ upalabbhati|0: ချမ်းသာကို တွေ့ရသည်
+   Dibbaṃ sukhaṃ|0: နတ်တို့၏ ချမ်းသာ
+   Dibbaṃ sukhaṃ upalabbhati|0: နတ်တို့၏ ချမ်းသာကို တွေ့ရသည်
+   mānusakassa sukhassa paṭisaṃvedī|0: လူတို့၏ ချမ်းသာကို ခံစားသော
+   Mānusakaṃ sukhaṃ|0: လူတို့၏ ချမ်းသာ
+   Mānusakaṃ sukhaṃ upalabbhati|0: လူတို့၏ ချမ်းသာကို တွေ့ရသည်
+   sukhadukkhaṃ|0: ချမ်းသာနှင့် ဆင်းရဲ / ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ
+   sukhadukkhaṃ|1: သာယာမှု နာကျင်မှု
+   sukhaṃ vediyamāno|0: သာယာသော ခံစားမှုကို ခံစားနေသော
+   sukhaṃ vedanaṃ|0: သာယာသော ခံစားမှု
+   adukkhamasukhaṃ|0: မနာကျင် မသာယာသော
+   adukkhamasukhaṃ vedanaṃ|0: မနာကျင် မသာယာသော ခံစားမှု
+   adukkhamasukhā|0: မနာကျင် မသာယာသော
+   sukhāya|0: ချမ်းသာ
+   sukhāya|1: သာယာသော
+   sukhumaṃ|0: နုညံ့သော
+   Sukho|0: သာယာသော
+   sukhudrayaṃ sukhavipākaṃ|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော … ချမ်းသာသော အကျိုး ရှိသော
+   sukhā|0: သာယာသော
+   sukhā vedanā|0: သာယာသော ခံစားမှု
+   sukhudrayaṃ|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော
+   sukhudrayo|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော
+   sukhassa|0: ချမ်းသာ
+   parakataṃ sukhadukkhaṃ|0: သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော
+   Sukhavedaniyā|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   adukkhamasukhāya|0: မနာကျင် မသာယာသော
+   sukhāya vedanāya|0: သာယာသော ခံစားမှု
+   Sukhavedaniyaṃ|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   sukhānupassī viharati|0: ချမ်းသာဟု အဖန်ဖန် ရှုသော … နေသည်
+   Sukhavedaniyo|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   diṭṭhadhammasukhavihārena cittena|0: ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်
+   sukhavihāro|0: ချမ်းသာစွာ နေခြင်း
+   sukhaṃ dukkhaṃ|0: သုခ ဒုက္ခ
+   sukhaṃ anuppadeti|0: သုခကို ပေးသည်
+   paro sukhaṃ anuppadeti|0: တစ်ဦး … သုခကို ပေးသည်
+   sukhavihāraṃ|0: ချမ်းသာစွာ နေခြင်း
+   sukhānuppadānaṃ|0: သုခကို ပေးခြင်း
+   jhānaṃ sukhasahagataṃ|0: ဈာန်သည် သာယာမှုနှင့်အတူ ဖြစ်သော
+== cetasik (7 senses, 5 terms)
+   Cetasikakathā|0: စိတ်၏ အဖော် ဖြစ်သော သဘောတရားအကြောင်း ဆွေးနွေးချက်
+   cetasika|0: စိတ်၏ အဖော် ဖြစ်သော သဘောတရား / စိတ်၏ အဖော်
+   cetasikaṃ|0: စိတ်
+   cetasikaṃ|1: စိတ်၏ အဖော်
+   cetasiko|0: စိတ်၏ အဖော်
+   cetasikā|0: စိတ်၏ အဖော်
+   Sīlaṃ cetasikaṃ|0: သီလသည် စိတ်၏ အဖော်
+== saṅkhār (30 senses, 21 terms)
+   saṅkhārā|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhārā upalabbhanti|0: ပြုပြင်ဖန်တီးမှု … တွေ့ရသည်
+   aññaṃ aññe saṅkhārā|0: ပြုပြင်ဖန်တီးမှု … တခြားစီ
+   saṅkhāro|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāre|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāra|0: ပြုပြင်ဖန်တီးမှု
+   saṅkhāra|1: တိုက်တွန်းမှု
+   atītā saṅkhārā|0: အတိတ် ပြုပြင်ဖန်တီးမှု
+   vitakkavicārā vacīsaṅkhārā|0: စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှုတို့ကို နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   vacīsaṅkhārā|0: နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   saṅkhārapaccayā|0: ပြုပြင်ဖန်တီးမှုများကြောင့်
+   saṅkhārā viññāṇaṃ|0: ပြုပြင်ဖန်တီးမှု … သိစိတ်
+   kāyasaṅkhāro|0: ကိုယ် ပြုပြင်ဖန်တီးမှု
+   cittasaṅkhāro|0: စိတ်၏ ပြုပြင်ဖန်တီးမှု
+   vacīsaṅkhāro|0: နှုတ်၏ ပြုပြင်ဖန်တီးမှု
+   saṅkhārakkhandha|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး
+   saṅkhārakkhandhena|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး
+   sasaṅkhāra|0: တိုက်တွန်းမှု
+   Saṅkhārakkhandho ekadeso|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး၏ တစ်စိတ်တစ်ဒေသ
+   Saṅkhārakkhandho cittavippayutto|0: ပြုပြင်ဖန်တီးမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   saṅkhārānaṃ|0: ပြုပြင်ဖန်တီးမှု
+   kāyasaṅkhāraṃ|0: ကိုယ်ဖြင့် ပြုပြင်ဖန်တီးမှု
+   saṅkhāraṃ|0: ပြုပြင်ဖန်တီးမှု
+   manosaṅkhāraṃ|0: စိတ်ဖြင့် ပြုပြင်ဖန်တီးမှု
+   vacīsaṅkhāraṃ|0: နှုတ်ဖြင့် ပြုပြင်ဖန်တီးမှု
+   abhisaṅkhāraṃ|0: ပြုပြင်ဖန်တီးမှု
+   Suññatā saṅkhārakkhandhapariyāpannā|0: ဆိတ်သုဉ်းခြင်းသည် ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Rūpakkhandhassa saṅkhārakkhandhapariyāpannā|0: ရုပ် အစုအဝေး … ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Saṅkhārakkhandhassa rūpakkhandhapariyāpannā|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး … ရုပ် အစုအဝေး၌ အကျုံးဝင်သော
+   saṅkhāratā|0: ပြုပြင်ဖန်တီးမှုဖြစ်ခြင်း
+== viññāṇ (96 senses, 73 terms)
+   viññāṇaṃ|0: သိစိတ်
+   viññāṇaṃ upalabbhati|0: သိစိတ် … တွေ့ရသည်
+   Aññaṃ viññāṇaṃ|0: သိစိတ် … တခြားစီ / သိစိတ်သည် တခြားစီ
+   viññāṇa|0: သိစိတ်
+   viññāṇā|0: သိစိတ်
+   kāyaviññāṇa|0: ကိုယ် သိစိတ်
+   sotaviññāṇa|0: နား သိစိတ်
+   cakkhuviññāṇa|0: မျက်စိ သိစိတ်
+   manoviññāṇa|0: မနော သိစိတ်
+   ghānaviññāṇa|0: နှာခေါင်း သိစိတ်
+   jivhāviññāṇa|0: လျှာ သိစိတ်
+   viññāṇo|0: သိစိတ်
+   viññāṇaṃ sandhāvati|0: သိစိတ်သည် ကူးသွားသည်
+   cakkhuviññāṇaṃ|0: မျက်စိ သိစိတ်
+   manoviññāṇaṃ|0: မနော သိစိတ်
+   viññāṇaṃ niruddhaṃ|0: သိစိတ်သည် ချုပ်ငြိမ်းပြီးသော
+   viññāṇaṃ atthi|0: သိစိတ် ရှိသည်
+   viññāṇaṃ ajātaṃ|0: သိစိတ်သည် မဖြစ်သေးသော
+   Anāgataṃ viññāṇaṃ|0: အနာဂတ် သိစိတ်
+   Anāgataṃ viññāṇaṃ atthi|0: အနာဂတ် သိစိတ် ရှိသည်
+   anāgataṃ viññāṇaṃ ajātaṃ|0: အနာဂတ် သိစိတ်သည် မဖြစ်သေးသော
+   atītaṃ viññāṇaṃ|0: အတိတ် သိစိတ်
+   atītaṃ viññāṇaṃ niruddhaṃ|0: အတိတ် သိစိတ်သည် ချုပ်ငြိမ်းပြီးသော
+   atītaṃ viññāṇaṃ atthi|0: အတိတ် သိစိတ် ရှိသည်
+   Paccuppannaṃ viññāṇaṃ|0: ပစ္စုပ္ပန် သိစိတ်
+   Paccuppannaṃ viññāṇaṃ atthi|0: ပစ္စုပ္ပန် သိစိတ် ရှိသည်
+   viññāṇaṃ jahati|0: သိစိတ် … စွန့်ပယ်သည်
+   viññāṇaṃ aniccaṃ|0: သိစိတ်သည် မမြဲသော
+   viññāṇaṃ na jahati|0: သိစိတ် … မစွန့်ပယ်
+   anāgataṃ viññāṇaṃ jahati|0: အနာဂတ် သိစိတ် … စွန့်ပယ်သည်
+   atītaṃ viññāṇaṃ jahati|0: အတိတ် သိစိတ် … စွန့်ပယ်သည်
+   atītaṃ viññāṇaṃ aniccaṃ|0: အတိတ် သိစိတ်သည် မမြဲသော
+   Atītaṃ viññāṇaṃ niccaṃ|0: အတိတ် သိစိတ်သည် မြဲသော
+   paccuppannaṃ viññāṇaṃ jahati|0: ပစ္စုပ္ပန် သိစိတ် … စွန့်ပယ်သည်
+   kāyaviññāṇaṃ|0: ကိုယ် သိစိတ်
+   cakkhuviññāṇaṃ atthi|0: မျက်စိ သိစိတ် ရှိသည်
+   sotaviññāṇaṃ|0: နား သိစိတ်
+   manoviññāṇaṃ atthi|0: မနော သိစိတ် ရှိသည်
+   ghānaviññāṇaṃ|0: နှာခေါင်း သိစိတ်
+   jivhāviññāṇaṃ|0: လျှာ သိစိတ်
+   viññāṇakkhandho|0: သိစိတ် အစုအဝေး
+   viññāṇaṃ āyatanaṃ|0: သိစိတ်သည် အာရုံခံ နယ်ပယ်
+   viññāṇaṃ khandhā|0: သိစိတ်သည် အစုအဝေး
+   viññāṇaṃ khandho|0: သိစိတ်သည် အစုအဝေး
+   viññāṇaṃ natthi|0: သိစိတ် မရှိသည်
+   anāgataṃ viññāṇaṃ khandhā|0: အနာဂတ် သိစိတ်သည် အစုအဝေး
+   atītaṃ viññāṇaṃ khandhā|0: အတိတ် သိစိတ်သည် အစုအဝေး
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး
+   viññāṇassa|0: သိစိတ်
+   viññāṇañca|0: အဆုံး မရှိသော သိစိတ်
+   viññāṇena|0: သိစိတ်
+   saṅkhārā viññāṇaṃ|0: ပြုပြင်ဖန်တီးမှု … သိစိတ်
+   uppajjati cakkhuviññāṇaṃ|0: မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati cakkhuviññāṇaṃ|0: မှီ၍ မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်
+   viññāṇakkhandha|0: သိစိတ် အစုအဝေး
+   viññāṇakkhandhena|0: သိစိတ် အစုအဝေး
+   kāyaviññāṇaṃ rūpaṃ|0: ကိုယ် သိစိတ်သည် ရုပ်
+   sotaviññāṇaṃ rūpaṃ|0: နား သိစိတ်သည် ရုပ်
+   cakkhuviññāṇaṃ rūpaṃ|0: မျက်စိ သိစိတ်သည် ရုပ်
+   ghānaviññāṇaṃ rūpaṃ|0: နှာခေါင်း သိစိတ်သည် ရုပ်
+   jivhāviññāṇaṃ rūpaṃ|0: လျှာ သိစိတ်သည် ရုပ်
+   cakkhuviññāṇasamaṅgī|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော / မျက်စိ သိစိတ်နှင့် ပြည့်စုံနေသော
+   Cakkhuviññāṇaṃ uppajjati|0: မျက်စိ သိစိတ် ဖြစ်ပေါ်သည် / မျက်စိ သိစိတ် … ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇasamaṅgissa|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော
+   manoviññāṇaṃ uppajjati|0: မနော သိစိတ် … ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇaṃ kusalaṃ|0: မျက်စိ သိစိတ်သည် ကုသိုလ်
+   Manoviññāṇaṃ kusalaṃ|0: မနော သိစိတ်သည် ကုသိုလ်
+   Cakkhuviññāṇaṃ sābhogaṃ|0: မျက်စိ သိစိတ်သည် စိတ်ညွတ်ခြင်း ရှိသော
+   viññāṇassa parinipphannā|0: သိစိတ် … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   viññāṇaṃ parinipphannaṃ|0: သိစိတ်သည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   sotaviññāṇaṃ uppajjati|0: နား သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā sotaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ နား သိစိတ် ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇassa|0: မျက်စိ သိစိတ်
+   Cakkhuviññāṇassa anantarā|0: မျက်စိ သိစိတ်၏ ချက်ချင်း နောက်
+   paṭicca uppajjati sotaviññāṇaṃ|0: မှီ၍ နား သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati sotaviññāṇaṃ|0: နား သိစိတ် ဖြစ်ပေါ်သည်
+   kāyaviññāṇaṃ uppajjati|0: ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā kāyaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   ghānaviññāṇaṃ uppajjati|0: နှာခေါင်း သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā ghānaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ နှာခေါင်း သိစိတ် ဖြစ်ပေါ်သည်
+   Sotaviññāṇassa|0: နား သိစိတ်
+   jivhāviññāṇassa anantarā|0: လျှာ သိစိတ်၏ ချက်ချင်း နောက်
+   paṭicca uppajjati kāyaviññāṇaṃ|0: မှီ၍ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati kāyaviññāṇaṃ|0: ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   Jivhāviññāṇassa|0: လျှာ သိစိတ်
+   Jivhāviññāṇaṃ uppajjati|0: လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati jivhāviññāṇaṃ|0: မှီ၍ လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati jivhāviññāṇaṃ|0: လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   pañcaviññāṇā uppajjanti|0: သိစိတ် ငါးပါး … ဖြစ်ပေါ်သည်
+   pañcaviññāṇā samanantarā uppajjanti|0: သိစိတ် ငါးပါး … ချက်ချင်း နောက်၌ ဖြစ်ပေါ်သည်
+   pañcaviññāṇā|0: သိစိတ် ငါးပါး
+   viññāṇakkhandhassa|0: သိစိတ် အစုအဝေး
+   viññāṇatā asaṅkhatā|0: သိစိတ်ဖြစ်ခြင်းသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   viññāṇaṃ niyataṃ|0: သိစိတ် … ကျိန်းသေသော
+   kāyaviññāṇena|0: ကိုယ် သိစိတ်
+   cakkhuviññāṇena|0: မျက်စိ သိစိတ်
+== vedan (41 senses, 22 terms)
+   vedanā|0: ခံစားမှု
+   vedanā upalabbhati|0: ခံစားမှု … တွေ့ရသည်
+   aññaṃ aññā vedanā|0: ခံစားမှု … တခြားစီ
+   vedano|0: ခံစားမှု
+   Vedanaṃ upādāya|0: ခံစားမှုကို မှီ၍
+   vedanaṃ|0: ခံစားမှု
+   sukhaṃ vedanaṃ|0: သာယာသော ခံစားမှု
+   dukkhaṃ vedanaṃ|0: နာကျင်သော ခံစားမှု
+   adukkhamasukhaṃ vedanaṃ|0: မနာကျင် မသာယာသော ခံစားမှု
+   Aññā vedanā|0: ခံစားမှု … တခြားစီ
+   dukkhā vedanā|0: နာကျင်သော ခံစားမှု
+   vedanāsu|0: ခံစားမှု
+   vedanāsu viharati|0: ခံစားမှု … နေသည်
+   vedanānaṃ|0: ခံစားမှု
+   Atītā vedanā|0: အတိတ် ခံစားမှု
+   Atītā vedanā atthi|0: အတိတ် ခံစားမှု ရှိသည်
+   sukhā vedanā|0: သာယာသော ခံစားမှု
+   Savedanaṃ cittaṃ|0: ခံစားမှု ရှိသော … စိတ်
+   vedanāhi|0: ခံစားမှု
+   vedanākkhandha|0: ခံစားမှု အစုအဝေး
+   Vedanākkhandho|0: ခံစားမှု အစုအဝေး
+   Vedanākkhandho sahajāto|0: အတူ ဖြစ်သော … ခံစားမှု အစုအဝေး
+   vedanāya|0: ခံစားမှု
+   vedaniyā|0: ခံစားမှုကို ဖြစ်စေတတ်သော
+   dukkhavedaniyā|0: နာကျင်သော ခံစားမှုကို ဖြစ်စေတတ်သော
+   Sukhavedaniyā|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   dukkhāya vedanāya|0: နာကျင်သော ခံစားမှု
+   sukhāya vedanāya|0: သာယာသော ခံစားမှု
+   vedaniyaṃ|0: ခံစားမှုကို ဖြစ်စေတတ်သော
+   dukkhavedaniyaṃ|0: နာကျင်သော ခံစားမှုကို ဖြစ်စေတတ်သော
+   Sukhavedaniyaṃ|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   vedanūpagaṃ kammaṃ|0: ခံစားမှုသို့ ရောက်စေသော ကံ
+   vedanakassa|0: ခံစားမှု ရှိသော
+   vedaniyo|0: ခံစားမှုကို ဖြစ်စေတတ်သော
+   dukkhavedaniyo|0: နာကျင်သော ခံစားမှုကို ဖြစ်စေတတ်သော
+   Sukhavedaniyo|0: သာယာသော ခံစားမှုကို ဖြစ်စေတတ်သော
+   saññā vedanā|0: မှတ်သိမှုနှင့် ခံစားမှု
+   vedanākkhandhassa|0: ခံစားမှု အစုအဝေး
+   vedanīyaṃ|0: ခံစားရမည့်
+   Diṭṭhadhammavedanīyaṃ niyataṃ|0: မျက်မှောက်ဘဝ၌ ခံစားရမည့် … ကျိန်းသေသော
+   aparāpariyavedanīyaṃ niyataṃ|0: နောက်ဘဝ အဆက်ဆက်၌ ခံစားရမည့် … ကျိန်းသေသော
+== saññ (55 senses, 46 terms)
+   sañña|0: အသညသတ်
+   asaññā|0: မှတ်သိမှု မရှိသော
+   saññā|0: မှတ်သိမှု
+   nevasaññānāsaññā|0: မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော
+   saññā upalabbhati|0: မှတ်သိမှု … တွေ့ရသည်
+   Saññāvedayitakathā|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်
+   saññāvedayita|0: မှတ်သိမှုနှင့် ခံစားရခြင်း / မှတ်သိမှုနှင့် ခံစားမှု
+   Dutiyasaññāvedayitakathā|0: ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်
+   Tatiyasaññāvedayitakathā|0: တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက်
+   sañño|0: မှတ်သိမှု
+   saññaṃ|0: မှတ်သိမှု
+   visaññutto|0: ကင်းလွတ်ပြီးသော
+   saññānaṃ|0: မှတ်သိမှု
+   atītā saññā atthi|0: အတိတ် မှတ်သိမှု ရှိသည်
+   nevasaññānāsaññāyatanaṃ samāpannassa|0: မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော / သမာပတ်ကို ဝင်စားနေသော … မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်
+   saññāvedayitanirodhaṃ|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် / မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း
+   saññāvedayitanirodhaṃ samāpannassa|0: မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော / မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော
+   saññāyoni|0: မှတ်သိမှု ရှိသော မွေးဖွားရာ အမျိုးအစား
+   asaññayoni|0: မှတ်သိမှု မရှိသော မွေးဖွားရာ အမျိုးအစား
+   saññāgati|0: မှတ်သိမှု ရှိသော လားရာ
+   asaññagati|0: မှတ်သိမှု မရှိသော လားရာ
+   saññābhavo|0: မှတ်သိမှု ရှိသော ဘဝ
+   asaññabhavo|0: မှတ်သိမှု မရှိသော ဘဝ
+   saññāya saññākaraṇīyaṃ|0: မှတ်သိမှုဖြင့် မှတ်သိမှု၏ ပြုဖွယ် ကိစ္စ
+   saññāsaṃsāro|0: မှတ်သိမှု ရှိသော သံသရာ
+   asaññasaṃsāro|0: မှတ်သိမှု မရှိသော သံသရာ
+   Manussesu saññā|0: လူတို့၌ မှတ်သိမှု
+   saññabhavo|0: မှတ်သိမှု ရှိသော ဘဝ
+   saññāhi|0: မှတ်သိမှု
+   saññākkhandha|0: မှတ်သိမှု အစုအဝေး
+   Cakkhusamphassajā saññā|0: မျက်စိ၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မှတ်သိမှု
+   saññākkhandhena|0: မှတ်သိမှု အစုအဝေး
+   saññāya|0: မှတ်သိမှု
+   vaṃsaññāni|0: အနွယ်ဟု သိအပ်သော
+   tappaṭisaññutto|0: ထိုအရာနှင့် စပ်ယှဉ်သော
+   tappaṭisaññutto chando|0: ထိုအရာနှင့် စပ်ယှဉ်သော လိုလားမှု
+   tappaṭisaññuttaṃ somanassaṃ|0: ထိုအရာနှင့် စပ်ယှဉ်သော ဝမ်းမြောက်မှု
+   tappaṭisaññutto saṅkappo|0: ထိုအရာနှင့် စပ်ယှဉ်သော ကြံစည်မှု
+   saññākkhandho|0: မှတ်သိမှု အစုအဝေး
+   saññī|0: မှတ်ထင်သော / မှတ်သိသော
+   saññakassa|0: မှတ်သိမှု ရှိသော
+   saññākkhandho cittavippayutto|0: မှတ်သိမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   saññāvedayitanirodha|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ
+   Saññāvedayitanirodhasamāpatti lokuttarā|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် လောကကို ကျော်လွန်သော
+   Saññāvedayitakathā niṭṭhitā|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော
+   Dutiyasaññāvedayitakathā niṭṭhitā|0: ဒုတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော
+   saññāvedayitanirodhaṃ kālaṃ kareyya|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … သေသည်
+   saññāvedayitanirodhaṃ phasso|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု
+   Tatiyasaññāvedayitakathā niṭṭhitā|0: တတိယ မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော
+   saññāvedayitanirodhasamāpatti asaññasattupikā|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် အသညသတ် ဘုံသို့ ရောက်စေတတ်သော
+   saññūpacayo|0: မှတ်သိမှု၏ စုဆောင်းမှု
+   saññā vedanā|0: မှတ်သိမှုနှင့် ခံစားမှု
+   saññākkhandhassa|0: မှတ်သိမှု အစုအဝေး
+   Dhammasaññī saṅghabhedako|0: တရားဟု မှတ်ထင်သော … သံဃာကို သင်းခွဲသူ
+   Dhammasaññī ānantariko|0: တရားဟု မှတ်ထင်သော … အနန္တရိယကံ ရှိသော
+== khandh (54 senses, 30 terms)
+   khandha|0: အစုအဝေး
+   khandha|1: ပင်စည်
+   atītakkhandha|0: အတိတ် အစုအဝေး
+   Khandhesu|0: အစုအဝေး
+   khandhānaṃ|0: အစုအဝေး
+   khandhā|0: အစုအဝေး
+   khandho|0: အစုအဝေး
+   rūpakkhandho|0: ရုပ် အစုအဝေး
+   pañcakkhandhā atthi|0: အစုအဝေး ငါးပါး ရှိသည်
+   rūpakkhandho atthi|0: ရုပ် အစုအဝေး ရှိသည်
+   atītā pañcakkhandhā|0: အတိတ် အစုအဝေး ငါးပါး
+   atītā pañcakkhandhā atthi|0: အတိတ် အစုအဝေး ငါးပါး ရှိသည်
+   paccuppannā pañcakkhandhā atthi|0: ပစ္စုပ္ပန် အစုအဝေး ငါးပါး ရှိသည်
+   viññāṇakkhandho|0: သိစိတ် အစုအဝေး
+   viññāṇaṃ khandhā|0: သိစိတ်သည် အစုအဝေး
+   viññāṇaṃ khandho|0: သိစိတ်သည် အစုအဝေး
+   rūpaṃ khandhā|0: ရုပ်သည် အစုအဝေး
+   rūpaṃ khandho|0: ရုပ်သည် အစုအဝေး
+   anāgataṃ viññāṇaṃ khandhā|0: အနာဂတ် သိစိတ်သည် အစုအဝေး
+   Anāgataṃ khandhā|0: အနာဂတ်သည် အစုအဝေး
+   atītaṃ viññāṇaṃ khandhā|0: အတိတ် သိစိတ်သည် အစုအဝေး
+   Atītaṃ khandhā|0: အတိတ်သည် အစုအဝေး
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး
+   Paccuppannaṃ khandhā|0: ပစ္စုပ္ပန်သည် အစုအဝေး
+   atītānāgatā khandhā|0: အတိတ်နှင့် အနာဂတ်သည် အစုအဝေး
+   khandhe|0: အစုအဝေး
+   Rūpakkhandhe|0: ရုပ် အစုအဝေး
+   viññāṇakkhandha|0: သိစိတ် အစုအဝေး
+   vedanākkhandha|0: ခံစားမှု အစုအဝေး
+   rūpakkhandha|0: ရုပ် အစုအဝေး
+   saṅkhārakkhandha|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး
+   saññākkhandha|0: မှတ်သိမှု အစုအဝေး
+   viññāṇakkhandhena|0: သိစိတ် အစုအဝေး
+   Vedanākkhandho|0: ခံစားမှု အစုအဝေး
+   saṅkhārakkhandhena|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး
+   saññākkhandhena|0: မှတ်သိမှု အစုအဝေး
+   Vedanākkhandho sahajāto|0: အတူ ဖြစ်သော … ခံစားမှု အစုအဝေး
+   saññākkhandho|0: မှတ်သိမှု အစုအဝေး
+   Saṅkhārakkhandho ekadeso|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး၏ တစ်စိတ်တစ်ဒေသ
+   khandhena|0: အစုအဝေး
+   rūpakkhandhena|0: ရုပ် အစုအဝေး
+   khandhehi|0: အစုအဝေး
+   atītehi khandhehi|0: အတိတ် အစုအဝေး
+   khandhā uppajjanti|0: အစုအဝေး … ဖြစ်ပေါ်သည်
+   Saṅkhārakkhandho cittavippayutto|0: ပြုပြင်ဖန်တီးမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   saññākkhandho cittavippayutto|0: မှတ်သိမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   Suññatā saṅkhārakkhandhapariyāpannā|0: ဆိတ်သုဉ်းခြင်းသည် ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   khandhassa|0: အစုအဝေး
+   viññāṇakkhandhassa|0: သိစိတ် အစုအဝေး
+   vedanākkhandhassa|0: ခံစားမှု အစုအဝေး
+   Rūpakkhandhassa|0: ရုပ် အစုအဝေး
+   saññākkhandhassa|0: မှတ်သိမှု အစုအဝေး
+   Rūpakkhandhassa saṅkhārakkhandhapariyāpannā|0: ရုပ် အစုအဝေး … ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Saṅkhārakkhandhassa rūpakkhandhapariyāpannā|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး … ရုပ် အစုအဝေး၌ အကျုံးဝင်သော
+== indriy (51 senses, 36 terms)
+   indriya|0: စွမ်းရည်
+   indriyaṃ|0: စွမ်းရည်
+   jīvitindriya|0: အသက်၏ စွမ်းရည်
+   kāyindriyaṃ|0: ကိုယ်၏ စွမ်းရည်
+   sotindriyaṃ|0: နား၏ စွမ်းရည်
+   sotindriyaṃ upalabbhati|0: နား၏ စွမ်းရည်ကို တွေ့ရသည် / နား၏ စွမ်းရည် … တွေ့ရသည်
+   indriyaṃ upalabbhati|0: စွမ်းရည် … တွေ့ရသည်
+   samādhindriyaṃ|0: သမာဓိ၏ စွမ်းရည်
+   saddhindriyaṃ|0: ယုံကြည်မှု၏ စွမ်းရည်
+   aññindriyaṃ|0: အပြည့်အဝ သိမြင်ခြင်း၏ စွမ်းရည်
+   somanassindriyaṃ|0: ဝမ်းမြောက်မှု၏ စွမ်းရည်
+   satindriyaṃ|0: သတိ၏ စွမ်းရည်
+   paññindriyaṃ|0: ပညာ၏ စွမ်းရည်
+   jīvitindriyaṃ|0: အသက်၏ စွမ်းရည်
+   manindriyaṃ|0: မနော၏ စွမ်းရည်
+   ghānindriyaṃ|0: နှာခေါင်း၏ စွမ်းရည်
+   jivhindriyaṃ|0: လျှာ၏ စွမ်းရည်
+   indriyānaṃ|0: စွမ်းရည်
+   indriyā|0: စွမ်းရည်
+   indriyāni|0: စွမ်းရည်
+   indriyāni atthi|0: စွမ်းရည် ရှိသည်
+   indriyaṃ atthi|0: စွမ်းရည် ရှိသည်
+   atītāni bāvīsatindriyāni atthi|0: အတိတ် စွမ်းရည် နှစ်ဆယ့်နှစ်ပါး ရှိသည်
+   indriye|0: စွမ်းရည်
+   rūpajīvitindriyaṃ|0: ရုပ် အသက်၏ စွမ်းရည်
+   arūpajīvitindriyaṃ|0: ရုပ် မဟုတ်သော အသက်၏ စွမ်းရည်
+   dhammānaṃ rūpajīvitindriyaṃ|0: သဘောတရား … ရုပ် အသက်၏ စွမ်းရည်
+   samuṭṭhitaṃ jīvitindriyaṃ|0: ဖြစ်ပေါ်သော အသက်၏ စွမ်းရည်
+   indriyehi|0: စွမ်းရည်
+   indriyena|0: စွမ်းရည်
+   kāyindriya|0: ကိုယ်၏ စွမ်းရည်
+   kāyindriyasaṃvaro kāyakammaṃ|0: ကိုယ်၏ စွမ်းရည်၌ စောင့်စည်းမှုသည် ကိုယ်ဖြင့် ပြုသော ကံ
+   sotindriya|0: နား၏ စွမ်းရည်
+   manindriyasaṃvaro manokammaṃ|0: မနော၏ စွမ်းရည်၌ စောင့်စည်းမှုသည် မနောဖြင့် ပြုသော ကံ
+   jivhindriyasaṃvaro jivhākammaṃ|0: လျှာ၏ စွမ်းရည်၌ စောင့်စည်းမှုသည် လျှာဖြင့် ပြုသော ကံ
+   manindriya|0: မနော၏ စွမ်းရည်
+   ghānindriya|0: နှာခေါင်း၏ စွမ်းရည်
+   jivhindriya|0: လျှာ၏ စွမ်းရည်
+   kāyindriyaasaṃvaro kāyakammaṃ|0: ကိုယ်၏ စွမ်းရည်၌ မစောင့်စည်းမှုသည် ကိုယ်ဖြင့် ပြုသော ကံ
+   manindriyaasaṃvaro manokammaṃ|0: မနော၏ စွမ်းရည်၌ မစောင့်စည်းမှုသည် မနောဖြင့် ပြုသော ကံ
+   jivhindriyaasaṃvaro jivhākammaṃ|0: လျှာ၏ စွမ်းရည်၌ မစောင့်စည်းမှုသည် လျှာဖြင့် ပြုသော ကံ
+   indriyo|0: အာရုံခံ အင်္ဂါ
+   indriyapaccayena|0: စွမ်းရည်ဟူသော အကြောင်း
+   Indriyabaddhaṃ aniccaṃ|0: စွမ်းရည်တို့နှင့် ဆက်စပ်သော … မမြဲသော
+   indriyabaddhaṃ dukkhaṃ|0: စွမ်းရည်တို့နှင့် ဆက်စပ်သော … ဒုက္ခ / စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ
+   indriyabaddhassa dukkhassa|0: စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ
+   lokiyaṃ saddhindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု၏ စွမ်းရည်
+   lokiyaṃ jīvitindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော အသက်၏ စွမ်းရည်
+   lokiyaṃ manindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော မနော၏ စွမ်းရည်
+   lokuttaraṃ saddhindriyaṃ|0: လောကကို ကျော်လွန်သော ယုံကြည်မှု၏ စွမ်းရည်
+   indriyesu|0: အာရုံခံ အင်္ဂါ
+== magg (60 senses, 32 terms)
+   maggo|0: လမ်း
+   maggo|1: မဂ်
+   magga|0: မဂ်
+   magga|1: လမ်း
+   ariyamaggaṃ|0: အရိယာ မဂ်
+   maggaṃ|0: မဂ်
+   maggaṃ|1: လမ်း
+   maggo bhāvito|0: မဂ်ကို ပွားများပြီးသော
+   maggena|0: မဂ်
+   bhāvitena maggena|0: ပွားများခဲ့သော မဂ်
+   maggaṃ bhāveti|0: မဂ်ကို ပွားများသည် / မဂ် … ပွားများသည်
+   ariyena maggena|0: အရိယာ မဂ်
+   Rūpāvacarena maggena|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော မဂ်
+   anāgāmimaggena|0: အနာဂါမိမဂ်
+   sakadāgāmimaggena|0: သကဒါဂါမိမဂ်
+   Sotāpattimaggena|0: သောတာပတ္တိမဂ်
+   magge|0: မဂ်
+   amaggaṃ|0: မဟုတ်
+   amagge|0: မဟုတ်
+   maggaṃ bhāventi|0: မဂ်ကို ပွားများသည်
+   arahattamaggaṃ|0: ရဟန္တာ မဂ်
+   anāgāmimaggaṃ|0: အနာဂါမိမဂ်
+   sakadāgāmimaggaṃ|0: သကဒါဂါမိမဂ်
+   sotāpattimaggaṃ|0: သောတာပတ္တိမဂ်
+   arahattamaggo|0: ရဟန္တာ မဂ်
+   anāgāmimaggo|0: အနာဂါမိမဂ်
+   sakadāgāmimaggo|0: သကဒါဂါမိမဂ်
+   sotāpattimaggo|0: သောတာပတ္တိမဂ်
+   maggassa|0: မဂ်
+   maggā|0: မဂ်
+   Arahattamaggena|0: ရဟန္တာ မဂ်
+   sotāpattimagge|0: သောတာပတ္တိမဂ်
+   Maggo saṅkhato|0: မဂ်သည် ပြုပြင်ဖန်တီးထားသော
+   Maggo asaṅkhato|0: မဂ်သည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   maggo uppajjati|0: မဂ် ဖြစ်ပေါ်သည်
+   maggasamaṅgissa|0: မဂ်နှင့် ပြည့်စုံသော
+   Maggasamaṅgī samannāgato|0: မဂ်နှင့် ပြည့်စုံသော … ပြည့်စုံသော
+   Maggasamaṅgī|0: မဂ်နှင့် ပြည့်စုံသော
+   samaggaṃ|0: ညီညွတ်သော
+   maggaṃ bhāvetvā|0: မဂ်ကို ပွားများ၍
+   maggapaccayena|0: မဂ်ဟူသော အကြောင်း
+   arahattamaggassa|0: ရဟန္တာ မဂ်
+   anāgāmimaggassa|0: အနာဂါမိမဂ်
+   sakadāgāmimaggassa|0: သကဒါဂါမိမဂ်
+   Ariyamaggo anicco|0: အရိယာ မဂ်သည် မမြဲသော
+   Ariyamaggo dukkho|0: အရိယာ မဂ်သည် ဒုက္ခ
+   maggo anicco|0: မဂ်သည် မမြဲသော
+   Maggo bhuñjati|0: မဂ်သည် စားသည်
+   ariyamaggena|0: အရိယာ မဂ်
+   maggehi|0: မဂ်
+   sotāpattimaggassa|0: သောတာပတ္တိမဂ်
+   Sotāpattimaggassa asaṅkhatā|0: သောတာပတ္တိမဂ် … ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   Akusalena maggena|0: အကုသိုလ် မဂ်
+   Tena hi maggo|0: သို့ဖြစ်လျှင် မဂ်
+   aṭṭhaṅgiko maggo|0: အင်္ဂါ ရှစ်ပါး ရှိသော မဂ်
+   pañcaṅgiko maggo|0: မဂ်သည် အင်္ဂါ ငါးပါး ရှိသော
+   Maggānaṃ|0: မဂ်
+   ariyo aṭṭhaṅgiko maggo|0: အရိယာ မဂ်သည် အင်္ဂါ ရှစ်ပါး ရှိသော / အင်္ဂါ ရှစ်ပါး ရှိသော မဂ် … အရိယာ
+   Ariyo maggo|0: အရိယာ မဂ်
+   dvādasa sotāpattimaggā|0: သောတာပတ္တိမဂ် ဆယ့်နှစ်ပါး
+== kusal (81 senses, 59 terms)
+   akusalā|0: အကုသိုလ်
+   kusalā|0: ကုသိုလ်
+   Kusalapaṭilābhakathā|0: ကုသိုလ်ကို ရခြင်းအကြောင်း ဆွေးနွေးချက်
+   kusala|0: ကုသိုလ်
+   akusala|0: အကုသိုလ်
+   Rūpaṃ kusala|0: ရုပ်သည် ကုသိုလ်
+   kusalacitta|0: ကုသိုလ် စိတ်
+   akusale|0: အကုသိုလ်
+   kusalākusale|0: ကုသိုလ်နှင့် အကုသိုလ်
+   kusalaṃ|0: ကုသိုလ်
+   kusalassa puggalassa|0: ကုသိုလ် ပုဂ္ဂိုလ်
+   kusalassa puggalassa paññatti|0: ကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်
+   akusalaṃ|0: အကုသိုလ်
+   akusalassa puggalassa|0: အကုသိုလ် ပုဂ္ဂိုလ်
+   akusalassa puggalassa paññatti|0: အကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်
+   kusalesu|0: ကုသိုလ်
+   kusalesu dhammesu|0: ကုသိုလ် သဘောတရား
+   Sadhammakusalo vītarāgo|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … ရာဂ ကင်းသော
+   kusalassa|0: ကျွမ်းကျင်သော
+   Sadhammakusalassa arahato|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော ရဟန္တာ
+   Sadhammakusalassa paravitāraṇā|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … သူတစ်ပါးက ရှင်းပြပေးခြင်း
+   akusalaṃ cittaṃ|0: အကုသိုလ် စိတ်
+   kusalo|0: ကုသိုလ်
+   Kusalākusalā|0: ကုသိုလ် … အကုသိုလ်
+   Kusalānaṃ jarāmaraṇaṃ|0: ကုသိုလ် … အိုခြင်း သေခြင်း
+   akusalānaṃ vipāko|0: အကုသိုလ် … အကျိုး
+   kusalānaṃ vipāko|0: ကုသိုလ် … အကျိုး
+   Akusalānaṃ|0: အကုသိုလ်
+   Akusalānaṃ dhammānaṃ|0: အကုသိုလ် သဘောတရား
+   Kusalānaṃ|0: ကုသိုလ်
+   Kusalānaṃ akusalānaṃ|0: အကုသိုလ်
+   Kusalānaṃ dhammānaṃ|0: ကုသိုလ် သဘောတရား
+   Lokuttaraṃ kusalaṃ|0: လောကကို ကျော်လွန်သော ကုသိုလ်
+   Kusalena|0: ကုသိုလ်
+   Kusalena cittena|0: ကုသိုလ် စိတ်
+   ārammaṇaṃ kusalaṃ|0: အာရုံ … ကုသိုလ်
+   phassavippayuttaṃ kusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … ကုသိုလ်
+   Akusalena|0: အကုသိုလ်
+   Akusalena cittena|0: အကုသိုလ် စိတ်
+   ārammaṇaṃ akusalaṃ|0: အာရုံ … အကုသိုလ်
+   phassavippayuttaṃ akusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … အကုသိုလ်
+   vacīkammaṃ kusalaṃ|0: နှုတ်ဖြင့် ပြုသော ကံသည် ကုသိုလ်
+   rūpaṃ kusalaṃ|0: ရုပ်သည် ကုသိုလ်
+   akusalaṃ kāyakammaṃ|0: အကုသိုလ် ကိုယ်ဖြင့် ပြုသော ကံ
+   akusalaṃ manokammaṃ|0: အကုသိုလ် မနောဖြင့် ပြုသော ကံ
+   akusalaṃ vacīkammaṃ|0: အကုသိုလ် နှုတ်ဖြင့် ပြုသော ကံ
+   kusalaṃ kāyakammaṃ|0: ကုသိုလ် ကိုယ်ဖြင့် ပြုသော ကံ
+   kusalaṃ vacīkammaṃ|0: ကုသိုလ် နှုတ်ဖြင့် ပြုသော ကံ
+   Cakkhuviññāṇaṃ kusalaṃ|0: မျက်စိ သိစိတ်သည် ကုသိုလ်
+   Manoviññāṇaṃ kusalaṃ|0: မနော သိစိတ်သည် ကုသိုလ်
+   Kāmarāgānusayo akusalo|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် အကုသိုလ်
+   avijjānīvaraṇaṃ akusalaṃ|0: အမှန်ကို မသိမှု အတားအဆီးသည် အကုသိုလ်
+   diṭṭhisaṃyojanaṃ akusalaṃ|0: အယူ နှောင်ကြိုးသည် အကုသိုလ်
+   akusalā dhammā|0: အကုသိုလ် သဘောတရား
+   akusalacitta|0: အကုသိုလ်စိတ်
+   kusalaṃ paṭilabheyya|0: ကုသိုလ် … ရသည်
+   kusalaṃ cittaṃ|0: ကုသိုလ် စိတ်
+   rāgo akusalo|0: ရာဂသည် အကုသိုလ်
+   akusalo|0: အကုသိုလ်
+   akusalehi|0: အကုသိုလ်
+   akusalehi dhammehi|0: အကုသိုလ် သဘောတရား
+   Dhammataṇhā akusalā|0: သဘောတရားကို တပ်မက်မှုသည် အကုသိုလ်
+   Akusalamūlaṃ paṭisandahati|0: အကုသိုလ်၏ အမြစ် … ဆက်စပ်သည် / အကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည်
+   Akusalamūlaṃ|0: အကုသိုလ်၏ အမြစ်
+   Kusalaṃ uppajjati|0: ကုသိုလ် … ဖြစ်ပေါ်သည် / ကုသိုလ် ဖြစ်ပေါ်သည်
+   kusalamūlaṃ|0: ကုသိုလ်၏ အမြစ်
+   Akusalamūlaṃ uppajjati|0: အကုသိုလ်၏ အမြစ် … ဖြစ်ပေါ်သည်
+   Kusalamūlaṃ paṭisandahati|0: ကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည် / ကုသိုလ်၏ အမြစ် … ဆက်စပ်သည်
+   Akusalaṃ uppajjati|0: အကုသိုလ် ဖြစ်ပေါ်သည် / အကုသိုလ် … ဖြစ်ပေါ်သည်
+   Ariyarūpaṃ kusalaṃ|0: အရိယာ ရုပ်သည် ကုသိုလ်
+   Diṭṭhigataṃ akusalaṃ|0: အယူမှားသည် အကုသိုလ်
+   kusalā dhammā|0: ကုသိုလ် သဘောတရား
+   kammena kusalo|0: ကံ … ကုသိုလ်
+   Kusalena kammena|0: ကုသိုလ် ကံ
+   Kusalena kammena kusalo|0: ကုသိုလ် ကံ … ကုသိုလ်
+   kammena akusalo|0: ကံ … အကုသိုလ်
+   Akusalena kammena|0: အကုသိုလ် ကံ
+   Rūpaṃ akusalaṃ|0: ရုပ်သည် အကုသိုလ်
+   Nibbānadhātu kusalā|0: နိဗ္ဗာန် ဓာတ်သည် ကုသိုလ်
+   Akusalena maggena|0: အကုသိုလ် မဂ်
+   kusalacitto|0: ကုသိုလ် စိတ် ရှိသော
+== kām (59 senses, 44 terms)
+   kāma|0: ကာမ
+   kāmaguṇa|0: ကာမဂုဏ်
+   Kāmakathā|0: ကာမအကြောင်း ဆွေးနွေးချက်
+   Issariyakāmakārikādikathā|0: မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်း စသည်တို့အကြောင်း ဆွေးနွေးချက်
+   kāmī|0: ကာမ ရှိသော
+   Kāmadhātuyā|0: ကာမဘုံ
+   kāmino|0: ကာမ ရှိသော
+   kāmarāgo|0: ကာမရာဂ
+   kāmacchandanīvaraṇaṃ|0: ကာမကို လိုလားမှု အတားအဆီး
+   kāmarāgapariyuṭṭhānaṃ|0: ကာမရာဂ ထကြွခြင်း
+   kāmacchanda|0: ကာမကို လိုလားမှု
+   kāmarāga|0: ကာမရာဂ
+   Kāmarāgānusayo|0: ကာမရာဂ ကိန်းအောင်းခြင်း
+   kāmesu|0: ကာမ
+   oḷārikaṃ kāmarāgaṃ jahati|0: ရုန့်ရင်းသော ကာမရာဂ … စွန့်ပယ်သည် / ရုန့်ရင်းသော ကာမရာဂကို စွန့်ပယ်သည်
+   kāmarāgaṃ|0: ကာမရာဂ
+   Jahati kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   Jahati anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Jahati puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Vikkhambheti kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   kāmarāgabyāpādānaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   kāmūpasaṃhitā|0: ကာမနှင့် စပ်သော
+   kāmānaṃ|0: ကာမ
+   kāmaguṇā|0: ကာမဂုဏ်
+   Kāmāvacaraṃ|0: ကာမဘုံနှင့် ဆိုင်သော
+   oḷārikaṃ kāmarāgaṃ pajahati|0: ကာမရာဂ … ရုန့်ရင်းသော … ပယ်သည်
+   kāmataṇhā|0: ကာမကို တပ်မက်မှု
+   Kāmabhavassa antare antarābhavo|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … ကြား၌ ကြားဘဝ
+   Kāmabhavassa rūpabhavassa|0: ကာမဘုံ၌ ဖြစ်သော ဘဝနှင့် သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmabhavūpagaṃ kammaṃ|0: ကာမဘုံ၌ ဖြစ်သော ဘဝသို့ ရောက်စေသော ကံ
+   kāmabhavo bhavo|0: ကာမဘုံ၌ ဖြစ်သော ဘဝသည် ဘဝ
+   kāmadhātū|0: ကာမဘုံ
+   kāmaguṇūpagaṃ kammaṃ|0: ကာမဂုဏ်တို့သို့ ရောက်စေသော ကံ
+   Pañcevāyatanā kāmā|0: အာရုံခံ နယ်ပယ် ငါးပါးသည်သာ ကာမ
+   kāmā|0: ကာမ
+   kāmabhavena rūpabhavena|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ
+   Kāmabhavena samannāgato|0: ကာမဘုံ၌ ဖြစ်သော ဘဝနှင့် ပြည့်စုံသော
+   kāmadhātu rūpadhātū|0: ကာမဘုံ … သိမ်မွေ့သော ရုပ်ဘုံ
+   kāmabhavena arūpabhavena|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmadhātu arūpadhātū|0: ကာမဘုံ … ရုပ်မရှိသော ဘုံ
+   kāmadhātu|0: ကာမဘုံ
+   kāmadhātu|1: ကာမ ဓာတ်
+   kāmo|0: လို
+   Kāmarāgānusayo akusalo|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် အကုသိုလ်
+   Kāmarāgānusayo abyākato|0: ကာမရာဂ ကိန်းအောင်းခြင်း … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   Kāmarāgānusayo cittavippayutto|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+   Kāmāvacarā|0: ကာမဘုံနှင့် ဆိုင်သော
+   nikāmeti|0: နှစ်သက်တောင့်တသည်
+   kāmehi|0: ကာမ
+   Añño aññaṃ kāmarāgapariyuṭṭhānaṃ|0: ကာမရာဂ ထကြွခြင်းသည် တခြားစီ
+   kāmarāgo anuseti|0: ကာမရာဂ … ကိန်းအောင်းသည်
+   kāmadhātuṃ|0: ကာမ ဓာတ်
+   kāmāvacara|0: ကာမဘုံနှင့် ဆိုင်သော
+   kāmarāgo kāmadhātupariyāpanno|0: ကာမရာဂသည် ကာမ ဓာတ်၌ အကျုံးဝင်သော
+   kāme|0: ကာမ
+   Issariyakāmakārikākathā|0: မိမိ၏ အစွမ်းဖြင့် အလိုရှိတိုင်း ပြုခြင်းအကြောင်း ဆွေးနွေးချက်
+== lok (57 senses, 37 terms)
+   oloketabbā|0: ကြည့်သည်
+   manussaloka|0: လူ့ပြည်
+   manussalokā|0: လူ့လောက
+   lokā upapanno|0: လောက … ပြန်လည် ဖြစ်ပေါ်သော
+   āloko|0: အလင်း
+   āloko atthi|0: အလင်း ရှိသည်
+   lokiya|0: လောကနှင့် သက်ဆိုင်သော
+   Lokiyasamāpattiṃ|0: လောကနှင့် သက်ဆိုင်သော သမာပတ်
+   Lokiyaṃ jhānaṃ|0: လောကနှင့် သက်ဆိုင်သော … ဈာန်
+   Lokuttaraṃ|0: လောကကို ကျော်လွန်သော
+   Lokuttaraṃ jhānaṃ|0: လောကကို ကျော်လွန်သော … ဈာန်
+   lokiyaṃ|0: လောကနှင့် သက်ဆိုင်သော
+   āloketi|0: ရှေ့သို့ ကြည့်သည်
+   viloketi|0: ဘေးသို့ ကြည့်သည် / ကြည့်သည် / ဝေ့ဝဲ ကြည့်သည်
+   lokuttaro|0: လောကကို ကျော်လွန်သော
+   lokiye|0: လောကနှင့် သက်ဆိုင်သော
+   Lokuttaro dhammo|0: လောကကို ကျော်လွန်သော သဘောတရား
+   lokuttarena|0: လောကကို ကျော်လွန်သော
+   lokuttarena vohārena|0: လောကကို ကျော်လွန်သော ပြောဆို သုံးနှုန်းခြင်း
+   lokiyaṃ lokuttaraṃ|0: လောကနှင့် သက်ဆိုင်သော … လောကကို ကျော်လွန်သော
+   vohāro lokiyo|0: ပြောဆို သုံးနှုန်းခြင်းသည် လောကနှင့် သက်ဆိုင်သော
+   lokiyena|0: လောကနှင့် သက်ဆိုင်သော
+   ālokassa|0: အလင်း
+   lokuttarā|0: လောကကို ကျော်လွန်သော
+   ālokentaṃ|0: ရှေ့သို့ ကြည့်သော
+   paloka|0: ပျက်စီးတတ်သော
+   Lokuttaraṃ kusalaṃ|0: လောကကို ကျော်လွန်သော ကုသိုလ်
+   palokato|0: ပျက်စီးတတ်သော အရာ
+   lokiyena samannāgato|0: လောကနှင့် သက်ဆိုင်သော … ပြည့်စုံသော
+   lokuttarena sīlena|0: လောကကို ကျော်လွန်သော သီလ
+   lokiyena lokuttarena|0: လောကနှင့် သက်ဆိုင်သော … လောကကို ကျော်လွန်သော
+   lokiyena vīriyena|0: လောကနှင့် သက်ဆိုင်သော ဝီရိယ
+   lokiyāya saddhāya|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု
+   lokiyena cittena|0: လောကနှင့် သက်ဆိုင်သော စိတ်
+   lokiyena sīlena|0: လောကနှင့် သက်ဆိုင်သော သီလ
+   lokiyāya paññāya|0: လောကနှင့် သက်ဆိုင်သော ပညာ
+   lokiyāya samannāgato|0: လောကနှင့် သက်ဆိုင်သော … ပြည့်စုံသော
+   lokuttarāya|0: လောကကို ကျော်လွန်သော
+   lokiyāya|0: လောကနှင့် သက်ဆိုင်သော
+   lokiyāya lokuttarāya|0: လောကနှင့် သက်ဆိုင်သော … လောကကို ကျော်လွန်သော
+   Lokiye sīle|0: လောကနှင့် သက်ဆိုင်သော သီလ
+   lokuttarānaṃ|0: လောကကို ကျော်လွန်သော
+   Saññāvedayitanirodhasamāpatti lokuttarā|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် ဝင်စားခြင်းသည် လောကကို ကျော်လွန်သော
+   lokiyā|0: လောကနှင့် သက်ဆိုင်သော
+   manussaloke|0: လူ့ပြည်
+   lokiyaṃ vīriyaṃ|0: လောကနှင့် သက်ဆိုင်သော ဝီရိယ
+   lokiyaṃ saddhindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု၏ စွမ်းရည်
+   lokiyā saddhā|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု
+   lokiyaṃ jīvitaṃ|0: လောကနှင့် သက်ဆိုင်သော အသက်
+   lokiyaṃ jīvitindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော အသက်၏ စွမ်းရည်
+   lokiyo mano|0: လောကနှင့် သက်ဆိုင်သော မနော
+   lokiyaṃ manindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော မနော၏ စွမ်းရည်
+   lokiyā paññā|0: လောကနှင့် သက်ဆိုင်သော ပညာ
+   lokuttaraṃ saddhindriyaṃ|0: လောကကို ကျော်လွန်သော ယုံကြည်မှု၏ စွမ်းရည်
+   volokento|0: ကြည့်ရှုသော
+   lokiyāni|0: လောကနှင့် သက်ဆိုင်သော
+   lokuttarañāṇāni|0: လောကကို ကျော်လွန်သော ဉာဏ်
+== sanidassan (10 senses, 7 terms)
+   Ākāso sanidassano|0: ဟင်းလင်းပြင်သည် မြင်နိုင်သော
+   sanidassano|0: မြင်နိုင်သော
+   dhātu sanidassanā|0: ဓာတ်သည် မြင်နိုင်သော
+   sanidassanā|0: မြင်နိုင်သော
+   sanidassanaṃ|0: မြင်နိုင်သော
+   kammaṃ sanidassanaṃ|0: ကံသည် မြင်နိုင်သော
+   Pathavīdhātu sanidassanā|0: မြေဓာတ်သည် မြင်နိုင်သော
+   Cakkhundriyaṃ sanidassanaṃ|0: မျက်စိ၏ စွမ်းရည်သည် မြင်နိုင်သော
+   sanidassanāni|0: မြင်နိုင်သော
+   Kāyakammaṃ sanidassanaṃ|0: ကိုယ်ဖြင့် ပြုသော ကံသည် မြင်နိုင်သော
+== saṃkiles (9 senses, 3 terms)
+   saṃkilesiyo|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikā|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesaṃ|0: ညစ်နွမ်းခြင်း
+   saṃkilesiyaṃ|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesiyaṃ vimuccati|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော … လွတ်မြောက်သည်
+   saṃkilesiyena|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikāni|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesiko|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+   saṃkilesikaṃ|0: ကိလေသာ၏ အာရုံ ဖြစ်နိုင်သော
+== saṃkiliṭṭh (2 senses, 2 terms)
+   saṃkiliṭṭhaṃ|0: ကိလေသာဖြင့် ညစ်နွမ်းသော
+   saṃkiliṭṭhaṃ cittaṃ|0: ကိလေသာဖြင့် ညစ်နွမ်းသော စိတ်
+== dassan (14 senses, 11 terms)
+   Ākāso sanidassano|0: ဟင်းလင်းပြင်သည် မြင်နိုင်သော
+   sanidassano|0: မြင်နိုင်သော
+   dhātu sanidassanā|0: ဓာတ်သည် မြင်နိုင်သော
+   sanidassanā|0: မြင်နိုင်သော
+   sanidassanaṃ|0: မြင်နိုင်သော
+   kammaṃ sanidassanaṃ|0: ကံသည် မြင်နိုင်သော
+   anidassanaṃ|0: မမြင်နိုင်သော
+   dassanena|0: မြင်ခြင်း
+   dassana|0: အမြင် / သိမြင်သော
+   Dassanasampanno puggalo|0: မှန်ကန်သော အမြင်နှင့် ပြည့်စုံသော ပုဂ္ဂိုလ်
+   Pathavīdhātu sanidassanā|0: မြေဓာတ်သည် မြင်နိုင်သော
+   Cakkhundriyaṃ sanidassanaṃ|0: မျက်စိ၏ စွမ်းရည်သည် မြင်နိုင်သော
+   sanidassanāni|0: မြင်နိုင်သော
+   Kāyakammaṃ sanidassanaṃ|0: ကိုယ်ဖြင့် ပြုသော ကံသည် မြင်နိုင်သော
+== bhāvan (3 senses, 3 terms)
+   adhimattā bojjhaṅgabhāvanā|0: ဗောဇ္ဈင်ကို ပွားများခြင်းသည် ပို၍ လွန်ကဲသော
+   bhāvanāphalaṃ|0: ပွားများခြင်း၏ အကျိုး
+   bhāvanā|0: ပွားများခြင်း
+== mahaggat (3 senses, 2 terms)
+   mahaggataṃ|0: ကြီးမြတ်သော
+   amahaggataṃ|0: မကြီးမြတ်သော
+   mahaggato|0: ကြီးမြတ်သော
+== appamāṇ (2 senses, 2 terms)
+   appamāṇa|0: အပ္ပမာဏ
+   appamāṇaṃ|0: အတိုင်းအဆ မရှိသော
+== hīn (20 senses, 17 terms)
+   parihīno|0: ဆုတ်ယုတ်သော
+   parihīne|0: ဆုတ်ယုတ်သွားသော
+   pahīnā|0: ပယ်ပြီးသော
+   bahutarā kilesā pahīnā|0: ကိလေသာတို့ကို ပိုများစွာ ပယ်ပြီးသော
+   pahīno|0: ပယ်ပြီးသော
+   pahīnāni|0: ပယ်ပြီးသော
+   samādhīnaṃ|0: သမာဓိ
+   hīnaṃ|0: ယုတ်ညံ့သော
+   hīna|0: ယုတ်ညံ့သော / ယုတ်ခြင်း / ယုတ်လျော့သော / ချို့ယွင်းသော
+   pahīnaṃ|0: ပယ်ပြီးသော
+   diṭṭhipariyuṭṭhānaṃ pahīnaṃ|0: အယူ ထကြွခြင်းကို ပယ်ပြီးသော
+   anusayo pahīno|0: ကိန်းအောင်းခြင်းကို ပယ်ပြီးသော
+   Aṭṭhamakassa puggalassa pahīnaṃ|0: ပယ်ပြီးသော … အဋ္ဌမ ပုဂ္ဂိုလ်
+   puggalassa pahīnaṃ|0: ပုဂ္ဂိုလ် … ပယ်ပြီးသော
+   puggalassa diṭṭhipariyuṭṭhānaṃ pahīnaṃ|0: ပုဂ္ဂိုလ်သည် အယူ ထကြွခြင်းကို ပယ်ပြီးသော
+   puggalassa appahīno|0: ပုဂ္ဂိုလ် … မပယ်ရသေးသော
+   pahīnā duggati|0: ဆိုးသော လားရာကို ပယ်ပြီးသော
+   diṭṭhisampannassa pahīnā|0: အယူ ပြည့်စုံသော … ပယ်ပြီးသော
+   Diṭṭhisampannassa pahīnā duggati|0: အယူ ပြည့်စုံသော … ဆိုးသော လားရာကို ပယ်ပြီးသော
+   buddhānaṃ hīnātirekatā|0: ဘုရား … ယုတ်ခြင်း ထူးခြင်း
+== paṇīt (4 senses, 3 terms)
+   paṇītaṃ|0: မွန်မြတ်သော / မြတ်ခြင်း
+   paṇīta|0: မြတ်ခြင်း
+   paṇītatā|0: မြတ်ခြင်း
+   paṇītā|0: မွန်မြတ်သော
+== micchatt (4 senses, 3 terms)
+   micchatta|0: မှားယွင်းမှု
+   Micchattaniyato|0: မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော
+   Micchattaniyatā|0: မှားယွင်းမှု၌ ကျိန်းသေသော
+   Micchattaniyataṃ|0: မှားယွင်းမှု၌ ကျိန်းသေသော
+== sammatt (6 senses, 5 terms)
+   sammattaṃ|0: မှန်ကန်ခြင်း
+   sammattaniyāmaṃ okkamissati|0: မှန်ကန်မှု၌ သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်
+   sammatta|0: မှန်ကန်မှု
+   sammattaniyato|0: မှန်ကန်မှု၌ လမ်းကြောင်း သေချာပြီးသော
+   sammattaniyatā|0: မှန်ကန်မှု၌ ကျိန်းသေသော
+   sammattaniyataṃ|0: မှန်ကန်မှု၌ ကျိန်းသေသော
+== ārammaṇ (18 senses, 13 terms)
+   ārammaṇa|0: အာရုံ
+   anāgatārammaṇa|0: အနာဂတ်ကို အာရုံပြုခြင်း
+   ārammaṇaṃ|0: အာရုံ
+   ārammaṇā|0: အာရုံ
+   sammutiñāṇaṃ saccārammaṇaṃ|0: သမုတ်ကို သိသော ဉာဏ် … သစ္စာကိုသာ အာရုံပြုသော
+   ārammaṇe|0: အာရုံ
+   ārammaṇato|0: အာရုံ
+   ārammaṇapaccayataṃ|0: အာရုံ အကြောင်း ဖြစ်ခြင်း
+   ñāṇaṃ ārammaṇaṃ|0: ဉာဏ်၏ အာရုံ
+   ārammaṇaṃ abyākataṃ|0: အာရုံ … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   ārammaṇaṃ kusalaṃ|0: အာရုံ … ကုသိုလ်
+   ārammaṇaṃ akusalaṃ|0: အာရုံ … အကုသိုလ်
+   ārammaṇo ekadeso|0: တစ်စိတ်တစ်ဒေသသည် အာရုံ
+   ārammaṇo|0: အာရုံ
+   Atītārammaṇaṃ|0: အတိတ်ကို အာရုံပြုသော
+   anāgatārammaṇaṃ|0: အနာဂတ်ကို အာရုံပြုသော
+   paccuppannārammaṇaṃ|0: ပစ္စုပ္ပန်ကို အာရုံပြုသော
+   ārammaṇapaccayena|0: အာရုံဟူသော အကြောင်း
+== adhipat (7 senses, 7 terms)
+   adhipati|0: အကြီးအမှူး
+   adhipatipaccayataṃ|0: အကြီးအမှူး အကြောင်း ဖြစ်ခြင်း
+   chandādhipati adhipati|0: ဆန္ဒ အကြီးအမှူး … အကြီးအမှူး
+   adhipatipaccayena|0: အကြီးအမှူးဟူသော အကြောင်း
+   vīriyādhipati adhipati|0: ဝီရိယ အကြီးအမှူး … အကြီးအမှူး
+   cittādhipati adhipati|0: စိတ် အကြီးအမှူး … အကြီးအမှူး
+   vīmaṃsādhipati adhipati|0: စုံစမ်းဆင်ခြင်မှု အကြီးအမှူး … အကြီးအမှူး
+== uppann (46 senses, 34 terms)
+   samuppannaṃ|0: ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannaṃ|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   samuppannā|0: ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannā|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   uppanne|0: ဖြစ်ပေါ်သော
+   citte uppanne|0: စိတ် ဖြစ်ပေါ်သော
+   samuppanno|0: ဖြစ်ပေါ်လာသော
+   paṭiccasamuppanno|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   uppannaṃ|0: ပေါ်ပေါက်ခဲ့သော / ဖြစ်ပေါ်ပြီးသော
+   Paccuppannaṃ atthi|0: ပစ္စုပ္ပန် ရှိသည်
+   Paccuppannaṃ viññāṇaṃ|0: ပစ္စုပ္ပန် သိစိတ်
+   Paccuppannaṃ viññāṇaṃ atthi|0: ပစ္စုပ္ပန် သိစိတ် ရှိသည်
+   Paccuppannaṃ rūpaṃ|0: ပစ္စုပ္ပန် ရုပ်
+   Paccuppannaṃ rūpaṃ|1: ပစ္စုပ္ပန် အဆင်းအရောင်
+   paccuppannaṃ viññāṇaṃ jahati|0: ပစ္စုပ္ပန် သိစိတ် … စွန့်ပယ်သည်
+   Paccuppannaṃ sotaṃ atthi|0: ပစ္စုပ္ပန် နား ရှိသည်
+   Paccuppannaṃ cakkhuṃ|0: ပစ္စုပ္ပန် မျက်စိ
+   Paccuppannaṃ cakkhuṃ atthi|0: ပစ္စုပ္ပန် မျက်စိ ရှိသည်
+   paccuppannaṃ dhammaṃ|0: ပစ္စုပ္ပန် သဘောတရား
+   Paccuppanno mano|0: ပစ္စုပ္ပန် မနော
+   Paccuppanno mano atthi|0: ပစ္စုပ္ပန် မနော ရှိသည်
+   Paccuppannaṃ ñāṇaṃ|0: ပစ္စုပ္ပန် ဉာဏ်
+   Paccuppannaṃ ñāṇaṃ atthi|0: ပစ္စုပ္ပန် ဉာဏ် ရှိသည်
+   paccuppannā pañcakkhandhā atthi|0: ပစ္စုပ္ပန် အစုအဝေး ငါးပါး ရှိသည်
+   paccuppannaṃ cakkhāyatanaṃ|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   no paccuppannaṃ paccuppannaṃ|0: ပစ္စုပ္ပန်သည် ပစ္စုပ္ပန် မဟုတ်
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး
+   paccuppannaṃ natthi|0: ပစ္စုပ္ပန် မရှိသည်
+   Paccuppannaṃ khandhā|0: ပစ္စုပ္ပန်သည် အစုအဝေး
+   Paccuppannā dhammā|0: ပစ္စုပ္ပန် သဘောတရား
+   samuppannesu|0: ဖြစ်ပေါ်လာသော
+   idappaccayatāpaṭiccasamuppannesu|0: ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံနှင့် အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannesu|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannesu dhammesu|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော သဘောတရား
+   uppannassa|0: ဖြစ်ပေါ်သော
+   Paccuppannāya buddho|0: ပစ္စုပ္ပန် … ဘုရား
+   Paccuppannāya bodhiyā|0: ပစ္စုပ္ပန် ဗောဓိ
+   paccuppanne|0: ပစ္စုပ္ပန်
+   Paṭuppannañāṇakathā|0: ပစ္စုပ္ပန်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   paccuppannārammaṇaṃ|0: ပစ္စုပ္ပန်ကို အာရုံပြုသော
+   paccuppannena cakkhāyatanena|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   uppanna|0: ဖြစ်ပေါ်ပြီးသော
+   Uppanno|0: ဖြစ်ပေါ်ပြီးသော
+   paccuppanno addhā|0: ပစ္စုပ္ပန် ကာလ
+   paccuppannaṃ addhānaṃ|0: ပစ္စုပ္ပန် ကာလ
+   uppannā|0: ဖြစ်ပေါ်ပြီးသော
+== atīt (93 senses, 82 terms)
+   atītacakkhu|0: အတိတ် မျက်စိ
+   atītañāṇa|0: အတိတ် ဉာဏ်
+   atītahattha|0: အတိတ် လက်
+   atītakkhandha|0: အတိတ် အစုအဝေး
+   atītānāgata|0: အတိတ်နှင့် အနာဂတ်
+   atītaṃse|0: အတိတ်ကာလ
+   atītaṃ niruddhaṃ|0: အတိတ်သည် ချုပ်ငြိမ်းပြီးသော / အတိတ် ချုပ်ငြိမ်းပြီးသော
+   Atītaṃ atthi|0: အတိတ် ရှိသည်
+   atītaṃ viññāṇaṃ|0: အတိတ် သိစိတ်
+   atītaṃ viññāṇaṃ niruddhaṃ|0: အတိတ် သိစိတ်သည် ချုပ်ငြိမ်းပြီးသော
+   atītaṃ viññāṇaṃ atthi|0: အတိတ် သိစိတ် ရှိသည်
+   Atītā vedanā|0: အတိတ် ခံစားမှု
+   Atītā vedanā atthi|0: အတိတ် ခံစားမှု ရှိသည်
+   Atītaṃ rūpaṃ|0: အတိတ် ရုပ်
+   Atītaṃ rūpaṃ|1: အတိတ် အဆင်းအရောင်
+   atītaṃ jahati|0: အတိတ် … စွန့်ပယ်သည်
+   atītaṃ aniccaṃ|0: အတိတ်သည် မမြဲသော
+   atītaṃ na jahati|0: အတိတ် … မစွန့်ပယ်
+   Atītaṃ niccaṃ|0: အတိတ်သည် မြဲသော
+   atthi atītaṃ|0: အတိတ် … ရှိသည်
+   atītaṃ viññāṇaṃ jahati|0: အတိတ် သိစိတ် … စွန့်ပယ်သည်
+   atītaṃ viññāṇaṃ aniccaṃ|0: အတိတ် သိစိတ်သည် မမြဲသော
+   Atītaṃ viññāṇaṃ niccaṃ|0: အတိတ် သိစိတ်သည် မြဲသော
+   atītā saṅkhārā|0: အတိတ် ပြုပြင်ဖန်တီးမှု
+   atītā saññā atthi|0: အတိတ် မှတ်သိမှု ရှိသည်
+   Atītaṃ nvatthi|0: အတိတ် မရှိ
+   atīto kāyo|0: အတိတ် ကိုယ်
+   atīto kāyo atthi|0: အတိတ် ကိုယ် ရှိသည်
+   atītaṃ sotaṃ|0: အတိတ် နား
+   atītaṃ sotaṃ atthi|0: အတိတ် နား ရှိသည်
+   Atītaṃ cakkhuṃ|0: အတိတ် မျက်စိ
+   Atītaṃ cakkhuṃ atthi|0: အတိတ် မျက်စိ ရှိသည်
+   atītaṃ dhammaṃ|0: အတိတ် သဘောတရား
+   atīto mano|0: အတိတ် မနော
+   atīto mano atthi|0: အတိတ် မနော ရှိသည်
+   atītaṃ ghānaṃ|0: အတိတ် နှာခေါင်း
+   atītaṃ ghānaṃ atthi|0: အတိတ် နှာခေါင်း ရှိသည်
+   atītā jivhā|0: အတိတ် လျှာ
+   atītā jivhā atthi|0: အတိတ် လျှာ ရှိသည်
+   Atītaṃ ñāṇaṃ|0: အတိတ် ဉာဏ်
+   Atītaṃ ñāṇaṃ atthi|0: အတိတ် ဉာဏ် ရှိသည်
+   atīto sīlabbataparāmāso|0: အတိတ် သီလ အကျင့်ဝတ်ဆိုင်ရာ မှားယွင်းသော ယူဆမှု
+   atīto māno atthi|0: အတိတ် မာန ရှိသည်
+   atīto moho|0: အတိတ် မောဟ / အတိတ် … မောဟ
+   atīto moho atthi|0: အတိတ် မောဟ ရှိသည်
+   atītā vicikicchā|0: အတိတ် ယုံမှားမှု
+   atītā vicikicchā atthi|0: အတိတ် ယုံမှားမှု ရှိသည်
+   atīto rāgo|0: အတိတ် ရာဂ
+   atīto rāgo atthi|0: အတိတ် ရာဂ ရှိသည်
+   atīto oḷāriko|0: အတိတ် ရုန့်ရင်းသော
+   atīto oḷāriko byāpādo|0: အတိတ် ရုန့်ရင်းသော ဖျက်ဆီးလိုစိတ်
+   atīto doso|0: အတိတ် ဒေါသ
+   atīto doso atthi|0: အတိတ် ဒေါသ ရှိသည်
+   atītā sakkāyadiṭṭhi|0: အတိတ် ကိုယ်ကို အတ္တဟု ယူဆသော အယူ
+   atītaṃ anottappaṃ|0: အတိတ် ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   atītaṃ uddhaccaṃ atthi|0: အတိတ် ယောက်ယက်ခတ်မှု ရှိသည်
+   atītaṃ ahirikaṃ atthi|0: အတိတ် ဒုစရိုက်ကို မရှက်မှု ရှိသည်
+   atītaṃ thinaṃ atthi|0: အတိတ် ထိုင်းမှိုင်းမှု ရှိသည်
+   atīto aṇusahagato|0: အတိတ် အနည်းငယ်မျှ ကျန်ရှိသော
+   atīto aṇusahagato byāpādo|0: အတိတ် အနည်းငယ်မျှ ကျန်ရှိသော ဖျက်ဆီးလိုစိတ်
+   atīto vāyo atthi|0: အတိတ် လေ ရှိသည်
+   atīto kucchi atthi|0: အတိတ် ဝမ်း ရှိသည်
+   atītā pādā atthi|0: အတိတ် ခြေတို့ ရှိသည်
+   atīto tejo atthi|0: အတိတ် မီး ရှိသည်
+   Atītā hatthā|0: အတိတ် လက်
+   Atītā hatthā atthi|0: အတိတ် လက်တို့ ရှိသည်
+   atītā pabbā atthi|0: အတိတ် အဆစ်တို့ ရှိသည်
+   Atīto āpo atthi|0: အတိတ် ရေ ရှိသည်
+   atītā pañcakkhandhā|0: အတိတ် အစုအဝေး ငါးပါး
+   atītā pañcakkhandhā atthi|0: အတိတ် အစုအဝေး ငါးပါး ရှိသည်
+   atītā aṭṭhārasa dhātuyo atthi|0: အတိတ် ဓာတ် ဆယ့်ရှစ်ပါး ရှိသည်
+   Atītaṃ cakkhāyatanaṃ|0: အတိတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   atītāni bāvīsatindriyāni atthi|0: အတိတ် စွမ်းရည် နှစ်ဆယ့်နှစ်ပါး ရှိသည်
+   Atīto sammāsammuddho|0: အတိတ် အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်
+   nvātītaṃ atītaṃ|0: အတိတ် မဟုတ်သော အရာသည် အတိတ်
+   atīte paññāpayamāno|0: အတိတ် … ထင်ရှားပြလိုသော
+   atīte buddhe|0: အတိတ် ဘုရားရှင်
+   atītaṃ viññāṇaṃ khandhā|0: အတိတ် သိစိတ်သည် အစုအဝေး
+   atītaṃ natthi|0: အတိတ် မရှိသည်
+   Atītaṃ khandhā|0: အတိတ်သည် အစုအဝေး
+   atītānāgatā khandhā|0: အတိတ်နှင့် အနာဂတ်သည် အစုအဝေး
+   atītānāgatā|0: အတိတ်နှင့် အနာဂတ်
+   Atītā dhammā|0: အတိတ် သဘောတရား
+   Atītānāgato|0: အတိတ်နှင့် အနာဂတ်
+   Atītāya buddho|0: အတိတ် … ဘုရား
+   Atītāya bodhiyā|0: အတိတ် ဗောဓိ
+   Atītārammaṇaṃ|0: အတိတ်ကို အာရုံပြုသော
+   atītānāgataṃ|0: အတိတ်နှင့် အနာဂတ်
+   atītehi khandhehi|0: အတိတ် အစုအဝေး
+   Atītena cakkhāyatanena|0: အတိတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   Atītena ñāṇena|0: အတိတ် ဉာဏ်
+   atīto addhā|0: အတိတ် ကာလ
+   Atītaṃ addhānaṃ|0: အတိတ် ကာလ
+== anāgat (31 senses, 27 terms)
+   Anāgatañāṇakathā|0: အနာဂတ်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   anāgatārammaṇa|0: အနာဂတ်ကို အာရုံပြုခြင်း
+   Anāgataṃ atthi|0: အနာဂတ် ရှိသည်
+   Anāgataṃ viññāṇaṃ|0: အနာဂတ် သိစိတ်
+   Anāgataṃ viññāṇaṃ atthi|0: အနာဂတ် သိစိတ် ရှိသည်
+   anāgataṃ viññāṇaṃ ajātaṃ|0: အနာဂတ် သိစိတ်သည် မဖြစ်သေးသော
+   Anāgataṃ rūpaṃ|0: အနာဂတ် ရုပ်
+   Anāgataṃ rūpaṃ|1: အနာဂတ် အဆင်းအရောင်
+   anāgataṃ viññāṇaṃ jahati|0: အနာဂတ် သိစိတ် … စွန့်ပယ်သည်
+   Anāgataṃ cakkhuṃ|0: အနာဂတ် မျက်စိ
+   Anāgataṃ cakkhuṃ atthi|0: အနာဂတ် မျက်စိ ရှိသည်
+   anāgataṃ dhammaṃ|0: အနာဂတ် သဘောတရား
+   anāgataṃ mano|0: အနာဂတ် မနော
+   anāgataṃ mano atthi|0: အနာဂတ် မနော ရှိသည်
+   Anāgato mano atthi|0: အနာဂတ် မနော ရှိသည်
+   Anāgataṃ ñāṇaṃ|0: အနာဂတ် ဉာဏ်
+   Anāgataṃ ñāṇaṃ atthi|0: အနာဂတ် ဉာဏ် ရှိသည်
+   anāgataṃ cakkhāyatanaṃ|0: အနာဂတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   anāgato cakkavattī|0: အနာဂတ် စကြဝတေး
+   anāgato rājā cakkavattī|0: အနာဂတ် စကြဝတေး မင်း
+   nvānāgataṃ anāgataṃ|0: အနာဂတ် မဟုတ်သော အရာသည် အနာဂတ်
+   anāgataṃ viññāṇaṃ khandhā|0: အနာဂတ် သိစိတ်သည် အစုအဝေး
+   Anāgataṃ khandhā|0: အနာဂတ်သည် အစုအဝေး
+   anāgatā|0: အနာဂတ်
+   Anāgatā dhammā|0: အနာဂတ် သဘောတရား
+   Anāgatāya buddho|0: အနာဂတ် … ဘုရား
+   Anāgatāya bodhiyā|0: အနာဂတ် ဗောဓိ
+   anāgatārammaṇaṃ|0: အနာဂတ်ကို အာရုံပြုသော
+   anāgatena cakkhāyatanena|0: အနာဂတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   anāgato addhā|0: အနာဂတ် ကာလ
+   anāgataṃ addhānaṃ|0: အနာဂတ် ကာလ
+== paccuppann (28 senses, 25 terms)
+   Paccuppannaṃ atthi|0: ပစ္စုပ္ပန် ရှိသည်
+   Paccuppannaṃ viññāṇaṃ|0: ပစ္စုပ္ပန် သိစိတ်
+   Paccuppannaṃ viññāṇaṃ atthi|0: ပစ္စုပ္ပန် သိစိတ် ရှိသည်
+   Paccuppannaṃ rūpaṃ|0: ပစ္စုပ္ပန် ရုပ်
+   Paccuppannaṃ rūpaṃ|1: ပစ္စုပ္ပန် အဆင်းအရောင်
+   paccuppannaṃ viññāṇaṃ jahati|0: ပစ္စုပ္ပန် သိစိတ် … စွန့်ပယ်သည်
+   Paccuppannaṃ sotaṃ atthi|0: ပစ္စုပ္ပန် နား ရှိသည်
+   Paccuppannaṃ cakkhuṃ|0: ပစ္စုပ္ပန် မျက်စိ
+   Paccuppannaṃ cakkhuṃ atthi|0: ပစ္စုပ္ပန် မျက်စိ ရှိသည်
+   paccuppannaṃ dhammaṃ|0: ပစ္စုပ္ပန် သဘောတရား
+   Paccuppanno mano|0: ပစ္စုပ္ပန် မနော
+   Paccuppanno mano atthi|0: ပစ္စုပ္ပန် မနော ရှိသည်
+   Paccuppannaṃ ñāṇaṃ|0: ပစ္စုပ္ပန် ဉာဏ်
+   Paccuppannaṃ ñāṇaṃ atthi|0: ပစ္စုပ္ပန် ဉာဏ် ရှိသည်
+   paccuppannā pañcakkhandhā atthi|0: ပစ္စုပ္ပန် အစုအဝေး ငါးပါး ရှိသည်
+   paccuppannaṃ cakkhāyatanaṃ|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   no paccuppannaṃ paccuppannaṃ|0: ပစ္စုပ္ပန်သည် ပစ္စုပ္ပန် မဟုတ်
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး
+   paccuppannaṃ natthi|0: ပစ္စုပ္ပန် မရှိသည်
+   Paccuppannaṃ khandhā|0: ပစ္စုပ္ပန်သည် အစုအဝေး
+   Paccuppannā dhammā|0: ပစ္စုပ္ပန် သဘောတရား
+   Paccuppannāya buddho|0: ပစ္စုပ္ပန် … ဘုရား
+   Paccuppannāya bodhiyā|0: ပစ္စုပ္ပန် ဗောဓိ
+   paccuppanne|0: ပစ္စုပ္ပန်
+   paccuppannārammaṇaṃ|0: ပစ္စုပ္ပန်ကို အာရုံပြုသော
+   paccuppannena cakkhāyatanena|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   paccuppanno addhā|0: ပစ္စုပ္ပန် ကာလ
+   paccuppannaṃ addhānaṃ|0: ပစ္စုပ္ပန် ကာလ
+== ajjhatt (3 senses, 3 terms)
+   ajjhattaṃ|0: မိမိ၌
+   ajjhattika|0: အတွင်းပိုင်း
+   ajjhattikaṃ|0: မိမိ၏
+== bahiddh (2 senses, 2 terms)
+   bahiddhā|0: မိမိ၏ ပြင်ပ၌
+   bahiddhā|1: အပြင်
+== upādān (5 senses, 3 terms)
+   upādāniyo|0: စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော
+   upādāniyā|0: စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော
+   upādāniyaṃ|0: စွဲလမ်းမှု၏ အာရုံ ဖြစ်နိုင်သော
+   upādānaṃ|0: စွဲလမ်းမှု
+   upādānapaccayā|0: စွဲလမ်းမှုကြောင့်
+== arūp (41 senses, 30 terms)
+   arūpa|0: ရုပ်မရှိသော
+   arūpa|1: ရုပ် မဟုတ်သော
+   arūpadhātu|0: ရုပ်မရှိသော ဘုံ / ရုပ်မရှိသော ဓာတ်
+   Arūpe|0: ရုပ်မရှိသော ဘုံ
+   ariyarūpa|0: အရိယာ ရုပ်
+   arūpāvacara|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   Arūpadhātuyā|0: ရုပ်မရှိသော ဘုံ
+   nāmarūpassa|0: စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း
+   piyarūpā|0: ချစ်ဖွယ် သဘော ရှိသော
+   arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   nāmarūpaṃ|0: စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း
+   tārakarūpāni|0: ကြယ်
+   arūpino|0: ရုပ် မဟုတ်သော
+   Rūpabhavassa arūpabhavassa|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝနှင့် ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   arūpadhātū|0: ရုပ်မရှိသော ဘုံ
+   Arūpino dhammā|0: ရုပ် မဟုတ်သော သဘောတရား
+   rūpabhavena arūpabhavena|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ … ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmabhavena arūpabhavena|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmadhātu arūpadhātū|0: ကာမဘုံ … ရုပ်မရှိသော ဘုံ
+   arūpesu|0: ရုပ်မရှိသော ဘုံ
+   arūpattabhāvapaṭilābho|0: ရုပ်မရှိသော … ကိုယ်ခန္ဓာ ရရှိခြင်း
+   arūpabhavo|0: ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   manokammaṃ arūpaṃ|0: မနောဖြင့် ပြုသော ကံသည် ရုပ် မဟုတ်သော
+   kāyakammaṃ arūpaṃ|0: ကိုယ်ဖြင့် ပြုသော ကံသည် ရုပ် မဟုတ်သော
+   arūpaṃ|0: ရုပ် မဟုတ်သော
+   Arūpīnaṃ āyu|0: ရုပ် မဟုတ်သော … သက်တမ်း
+   arūpīnaṃ|0: ရုပ် မဟုတ်သော
+   arūpajīvita|0: ရုပ် မဟုတ်သော အသက်
+   arūpajīvitindriyaṃ|0: ရုပ် မဟုတ်သော အသက်၏ စွမ်းရည်
+   arūpīnaṃ dhammānaṃ|0: ရုပ် မဟုတ်သော သဘောတရား
+   Rūpīnaṃ arūpīnaṃ|0: ရုပ် ဖြစ်သော … ရုပ် မဟုတ်သော
+   arūpāvacarā|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   Ariyarūpaṃ upādāya|0: အရိယာ ရုပ် … မှီ၍
+   Ariyarūpaṃ kusalaṃ|0: အရိယာ ရုပ်သည် ကုသိုလ်
+   ariyarūpaṃ|0: အရိယာ ရုပ်
+   arūpadhātuṃ|0: ရုပ်မရှိသော ဓာတ်
+   arūparāgo anuseti|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂ … ကိန်းအောင်းသည်
+   upādāyarūpānaṃ|0: မူလဓာတ်ကြီးတို့ကို မှီ၍ ဖြစ်သော ရုပ်
+   rūpaṃ arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော ရုပ်
+   Arūparāgo arūpadhātupariyāpanno|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော
+   rūpadhātuarūpadhātūpagaṃ kammaṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ရုပ်မရှိသော ဘုံသို့ ရောက်စေသော ကံ
+== vipāk (23 senses, 22 terms)
+   kammavipāko|0: ကံ၏ အကျိုး
+   vipākadhamma|0: အကျိုး ပေးတတ်သော
+   vipākadhammadhammo|0: အကျိုး ပေးတတ်သော
+   vipākapaṭisaṃvedī|0: အကျိုးကို ခံစားသော
+   kalyāṇa vipāko|0: ကောင်းမွန်သော … အကျိုး
+   Vipāko atthi|0: အကျိုး ရှိသည်
+   avipakkavipākā atthi|0: အကျိုး မရင့်ကျက်သေးသော … ရှိသည်
+   vipakkavipākā|0: အကျိုး ရင့်ကျက်ပြီးသော
+   vipakkavipākā atthi|0: အကျိုး ရင့်ကျက်ပြီးသော … ရှိသည်
+   avipakkavipākā dhammā|0: အကျိုး မရင့်ကျက်သေးသော … သဘောတရား
+   sukhudrayaṃ sukhavipākaṃ|0: ချမ်းသာကို ဖြစ်ပေါ်စေသော … ချမ်းသာသော အကျိုး ရှိသော
+   vipākā|0: အကျိုး
+   Pathavī kammavipāko|0: မြေသည် ကံ၏ အကျိုး
+   Kammavipāko sādhāraṇo|0: ဆက်ဆံသော … ကံ၏ အကျိုး
+   akusalānaṃ vipāko|0: အကုသိုလ် … အကျိုး
+   kusalānaṃ vipāko|0: ကုသိုလ် … အကျိုး
+   savipākaṃ ācayagāmī|0: အကျိုး ရှိ၍ စုပုံခြင်းဆီသို့ ဦးတည်သော
+   Vipāko vipākadhammadhammo|0: အကျိုးသည် အကျိုး ပေးတတ်သော
+   dukkhavipākāni jātijarāmaraṇiyāni|0: ဆင်းရဲ အကျိုး ရှိသော … ဖြစ်ခြင်း အိုခြင်း သေခြင်းကို ဖြစ်စေတတ်သော
+   Vipākābyākatā|0: ကံ၏ အကျိုး ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   kammavipākato|0: ကံ၏ အကျိုးကြောင့်
+   vipākābyākate|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော အကျိုး
+   sabbalahuso vipāko|0: အပေါ့ဆုံး အကျိုး
+== rūpāvacar (10 senses, 5 terms)
+   arūpāvacara|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacara|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   Rūpāvacarena maggena|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော မဂ်
+   Rūpāvacarena|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacaraṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   arūpāvacarā|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacarā|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   rūpaṃ rūpāvacaraṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော ရုပ် / ရုပ်သည် သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   rūpaṃ arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော ရုပ်
+== pariyāpann (10 senses, 10 terms)
+   Rūpārūpadhātupariyāpannakathā|0: သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်
+   pariyāpanna|0: အကျုံးဝင်ခြင်း
+   Rūparāgo rūpadhātupariyāpanno|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော
+   Saddarāgo saddadhātupariyāpanno|0: အသံကို တပ်မက်သော ရာဂသည် အသံ ဓာတ်၌ အကျုံးဝင်သော
+   phoṭṭhabbarāgo phoṭṭhabbadhātupariyāpanno|0: အထိအတွေ့ကို တပ်မက်သော ရာဂသည် အထိအတွေ့ ဓာတ်၌ အကျုံးဝင်သော
+   Arūparāgo arūpadhātupariyāpanno|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော
+   kāmarāgo kāmadhātupariyāpanno|0: ကာမရာဂသည် ကာမ ဓာတ်၌ အကျုံးဝင်သော
+   Suññatā saṅkhārakkhandhapariyāpannā|0: ဆိတ်သုဉ်းခြင်းသည် ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Rūpakkhandhassa saṅkhārakkhandhapariyāpannā|0: ရုပ် အစုအဝေး … ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Saṅkhārakkhandhassa rūpakkhandhapariyāpannā|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး … ရုပ် အစုအဝေး၌ အကျုံးဝင်သော
+== saraṇ (5 senses, 2 terms)
+   saraṇāni|0: ကိုးကွယ်ရာ
+   paṭisaraṇo|0: ကိုးကွယ်ရာ
+   saraṇaṃ|0: ကိုးကွယ်ရာ
+   nissaraṇaṃ|0: ထွက်မြောက်ရာ
+   saraṇato|0: ကိုးကွယ်ရာ
+== araṇ (48 senses, 36 terms)
+   āharaṇa|0: ကိုးကားသော
+   jarāmaraṇaṃ|0: အိုခြင်း သေခြင်း
+   maraṇaṃ|0: သေခြင်း
+   jarāmaraṇa|0: အိုခြင်း သေခြင်း
+   maraṇa|0: သေခြင်း
+   nīvaraṇānaṃ|0: အတားအဆီး
+   āharaṇena|0: ကိုးကားခြင်း
+   nīvaraṇaṃ|0: အတားအဆီး
+   kāmacchandanīvaraṇaṃ|0: ကာမကို လိုလားမှု အတားအဆီး
+   āvaraṇena|0: အဟန့်အတား
+   oharaṇaṃ|0: ချခြင်း
+   oharaṇāya|0: ချရန်
+   nīvaraṇiyo|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   jarāya maraṇena|0: အိုခြင်း … သေခြင်း
+   maraṇena|0: သေခြင်း
+   ñāṇena ñāṇakaraṇīyaṃ|0: ဉာဏ်ဖြင့် ဉာဏ်၏ ပြုဖွယ် ကိစ္စ
+   nīvaraṇiyā|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   avijjānīvaraṇaṃ|0: အမှန်ကို မသိမှု အတားအဆီး
+   vicikicchānīvaraṇaṃ|0: ယုံမှားမှု အတားအဆီး
+   karaṇo|0: ပြုတတ်သော
+   saraṇāni|0: ကိုးကွယ်ရာ
+   paṭisaraṇo|0: ကိုးကွယ်ရာ
+   nānākaraṇaṃ|0: ကွဲပြားမှု
+   nīvaraṇiyaṃ|0: အတားအဆီး၏ အာရုံ ဖြစ်နိုင်သော
+   maraṇā|0: သေပြီးနောက်
+   saññāya saññākaraṇīyaṃ|0: မှတ်သိမှုဖြင့် မှတ်သိမှု၏ ပြုဖွယ် ကိစ္စ
+   bodhiyā bodhikaraṇīyaṃ|0: ဗောဓိဖြင့် ဗောဓိ၏ ပြုဖွယ် ကိစ္စ
+   saraṇaṃ|0: ကိုးကွယ်ရာ
+   acoraharaṇo|0: ခိုးသူတို့ မယူဆောင်နိုင်သော
+   haraṇo|0: ယူဆောင်နိုင်သော
+   Kusalānaṃ jarāmaraṇaṃ|0: ကုသိုလ် … အိုခြင်း သေခြင်း
+   nissaraṇaṃ|0: ထွက်မြောက်ရာ
+   maraṇehi|0: သေခြင်း
+   saraṇato|0: ကိုးကွယ်ရာ
+   acakkhukaraṇaṃ|0: မျက်စိ မမြင်ခြင်းကို ပြုတတ်သော
+   karaṇaṃ|0: ပြုတတ်သော / ကွဲပြားစေတတ်သော
+   avijjānīvaraṇaṃ akusalaṃ|0: အမှန်ကို မသိမှု အတားအဆီးသည် အကုသိုလ်
+   jarāmaraṇiyāni|0: အိုခြင်း သေခြင်းကို ဖြစ်စေတတ်သော
+   dukkhavipākāni jātijarāmaraṇiyāni|0: ဆင်းရဲ အကျိုး ရှိသော … ဖြစ်ခြင်း အိုခြင်း သေခြင်းကို ဖြစ်စေတတ်သော
+   Maraṇaṃ parinipphannaṃ|0: သေခြင်းသည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   karaṇīyo|0: ရှိခိုးထိုက်သော
+   karaṇīyo|1: လိုက်နာသင့်သော
+   añjalikaraṇīyo|0: လက်အုပ်ချီ၍ ရှိခိုးထိုက်သော
+   karaṇīyā|0: ရှိခိုးထိုက်သော
+   añjalikaraṇīyā|0: လက်အုပ်ချီ၍ ရှိခိုးထိုက်သော
+   veyyākaraṇasmiṃ|0: ဖြေရှင်းချက်
+   karaṇḍāya|0: ကြုတ်
+   pakaraṇe|0: ကျမ်း
+== ācay (2 senses, 2 terms)
+   ācaya|0: စုပုံခြင်း
+   savipākaṃ ācayagāmī|0: အကျိုး ရှိ၍ စုပုံခြင်းဆီသို့ ဦးတည်သော
+== sāsav (6 senses, 3 terms)
+   sāsavo|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavena|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   anāsavaṃ taṃ sāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavaṃ taṃ anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   sāsavā|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+== anāsav (10 senses, 6 terms)
+   anāsava|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavo|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavā|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   kāyo anāsavo|0: ကိုယ်သည် စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   Arahato anāsavā|0: ရဟန္တာ … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavaṃ taṃ sāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော
+   sāsavaṃ taṃ anāsavaṃ|0: စိတ်အစွန်းအထင်း၏ အာရုံ ဖြစ်နိုင်သော … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   arahā anāsavo|0: ရဟန္တာ … စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော
+   anāsavesu|0: စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော အရာ
+== cetan (12 senses, 8 terms)
+   cetanānaṃ|0: စေ့ဆော်မှု
+   sañcetanāya|0: စေ့ဆော်ခြင်း
+   cetanā|0: စေ့ဆော်မှု
+   cetanaṃ|0: စေ့ဆော်မှု
+   cetanāhi|0: စေ့ဆော်မှု
+   Cakkhusamphassajā cetanā|0: မျက်စိ၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော စေ့ဆော်မှု
+   cetanāya|0: စေ့ဆော်မှု
+   sañcetaniyaṃ|0: စေ့ဆော်၍
+   sañcetaniyaṃ kammaṃ|0: စေ့ဆော်၍ … ကံ
+   vacīsañcetanā|0: နှုတ်ဖြင့် စေ့ဆော်မှု
+   cetanakassa|0: စေ့ဆော်မှု ရှိသော
+   sañcetanikānaṃ|0: ရည်ရွယ်၍ / စေ့ဆော်၍
+== ogh (8 senses, 4 terms)
+   ogha|0: ရေအလျဉ်
+   ogho|0: ရေအလျဉ်
+   oghaniyo|0: ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်သော
+   oghaniyā|0: ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်သော
+   avijjogho|0: အမှန်ကို မသိမှု ရေအလျဉ်
+   oghaṃ|0: ရေအလျဉ်
+   oghaniyaṃ|0: ရေအလျဉ်၏ အာရုံ ဖြစ်နိုင်သော
+   mogha|0: အချည်းနှီး
+== yog (13 senses, 9 terms)
+   anuyogo|0: စစ်ဆေးမေးမြန်းခြင်း
+   anuyogo|1: နိုးကြားစွာ အားထုတ်ခြင်း
+   anuyoga|0: စစ်ဆေးမေးမြန်းခြင်း
+   Paṭivedhānuyogo|0: ထိုးထွင်း သိမြင်ခြင်းကို စစ်ဆေးမေးမြန်းခြင်း
+   yogo|0: ထမ်းပိုး
+   yogo|1: အားထုတ်မှု
+   yoganiyo|0: ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်သော
+   yogaṃ|0: ဆက်စပ်
+   yoganiyā|0: ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်သော
+   avijjāyogo|0: အမှန်ကို မသိမှု ထမ်းပိုး
+   yoganiyaṃ|0: ထမ်းပိုး၏ အာရုံ ဖြစ်နိုင်သော
+   pariyogāhamāno|0: သက်ဝင်သော
+   yoga|0: ထမ်းပိုး
+== sahajāt (8 senses, 8 terms)
+   sahajātā|0: အတူ ဖြစ်သော / အတူ ပေါ်ပေါက်သော
+   Vedanākkhandho sahajāto|0: အတူ ဖြစ်သော … ခံစားမှု အစုအဝေး
+   sahajāta|0: အတူ ပေါ်ပေါက်ခြင်း
+   sahajātapaccayena|0: အတူ ပေါ်ပေါက်ခြင်းဟူသော အကြောင်း
+   sahajātānaṃ dhammānaṃ|0: အတူ ပေါ်ပေါက်သော သဘောတရား
+   Kammūpacayo sahajāto|0: အတူ ပေါ်ပေါက်သော ကံ၏ စုဆောင်းမှု
+   Kammaṃ sahajātaṃ|0: ကံ … အတူ ပေါ်ပေါက်သော
+   Cakkhāyatanaṃ sahajātaṃ|0: မျက်စိ အာရုံခံ နယ်ပယ် … အတူ ပေါ်ပေါက်သော
+== āhār (10 senses, 6 terms)
+   āhārakathā|0: ဆိုခြင်းအကြောင်း ဆွေးနွေးချက်
+   āhāra|0: ဆိုခြင်း
+   āhāre|0: အာဟာရ
+   āhāro|0: အစာ
+   āhāro|1: အာဟာရ
+   āhāro|2: ဆိုခြင်း
+   āhārato|0: အာဟာရ
+   āhārā|0: အစာ
+   samannāhāro|0: နှလုံးသွင်းခြင်း / နှလုံးသွင်းမှု
+   samannāhārā|0: စိတ်ကို ဆောင်ခြင်း
+== jhān (19 senses, 12 terms)
+   jhāna|0: ဈာန်
+   jhānantarika|0: ဈာန်တို့အကြား ကာလ
+   jhānaṃ|0: ဈာန်
+   jhānaṃ vacībhedo|0: ဈာန် … နှုတ်ဖြင့် စကား ထွက်ခြင်း
+   catutthaṃ jhānaṃ|0: စတုတ္ထ ဈာန်
+   Lokiyaṃ jhānaṃ|0: လောကနှင့် သက်ဆိုင်သော … ဈာန်
+   Lokuttaraṃ jhānaṃ|0: လောကကို ကျော်လွန်သော … ဈာန်
+   jhānaṃ vitakkavicārā|0: ဈာန် … စတင်ကြံစည်မှုနှင့် ဆက်လက်သုံးသပ်မှု
+   jhānānaṃ|0: ဈာန်
+   jhānanikanti|0: ဈာန်ကို စွဲလန်းခြင်း
+   jhānā|0: ဈာန်
+   jhānaṃ uppajjati|0: ဈာန် ဖြစ်ပေါ်သည်
+   jhānaṃ savitakkaṃ|0: ဈာန်သည် စတင်ကြံစည်မှု ရှိသော
+   jhānaṃ sukhasahagataṃ|0: ဈာန်သည် သာယာမှုနှင့်အတူ ဖြစ်သော
+   jhānassa|0: ဈာန်
+   catutthassa jhānassa|0: စတုတ္ထ ဈာန်
+   jhānantarikā|0: ဈာန်တို့အကြား ကာလ
+   jhānaṃ niruddhaṃ|0: ဈာန် ချုပ်ငြိမ်းပြီး
+   catutthajjhānā|0: စတုတ္ထ ဈာန်
+== sampayutt (6 senses, 3 terms)
+   Sampayuttakathā|0: ယှဉ်တွဲခြင်းအကြောင်း ဆွေးနွေးချက်
+   sampayuttaṃ|0: ယှဉ်တွဲသော
+   sampayuttā|0: ယှဉ်တွဲသော
+   sampayutto|0: ယှဉ်တွဲသော
+   cittasampayutto ekadeso|0: တစ်စိတ်တစ်ဒေသသည် စိတ်နှင့် ယှဉ်တွဲသော
+   sampayuttena|0: ယှဉ်တွဲသော
+== vippayutt (21 senses, 17 terms)
+   vippayutta|0: ကင်းကွာသော
+   Ñāṇaṃ cittavippayutta|0: ဉာဏ် … စိတ်နှင့် ကင်းကွာသော
+   vippayuttaṃ|0: ကင်းကွာသော
+   phassavippayuttaṃ abyākataṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   phassavippayuttaṃ kusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … ကုသိုလ်
+   phassavippayuttaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော
+   phassavippayuttaṃ akusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … အကုသိုလ်
+   vippayuttā|0: ကင်းကွာသော
+   Kāmarāgānusayo cittavippayutto|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+   Anusayā cittavippayuttā|0: ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+   vippayutto|0: ကင်းကွာသော
+   Saṅkhārakkhandho cittavippayutto|0: ပြုပြင်ဖန်တီးမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   ekadeso cittavippayutto|0: တစ်စိတ်တစ်ဒေသသည် စိတ်နှင့် ကင်းကွာသော
+   saññākkhandho cittavippayutto|0: မှတ်သိမှု အစုအဝေးသည် စိတ်နှင့် ကင်းကွာသော
+   avijjānusayo cittavippayutto|0: အမှန်ကို မသိမှု ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+   vippayutte|0: ကင်းကွာသော
+   ñāṇavippayutte|0: ဉာဏ်နှင့် ကင်းကွာသော
+   ñāṇavippayutte vattamāne|0: ဉာဏ်နှင့် ကင်းကွာသော … ဖြစ်နေသော
+   ñāṇavippayutte citte|0: ဉာဏ်နှင့် ကင်းကွာသော စိတ်
+   Ñāṇaṃ cittavippayuttaṃ|0: ဉာဏ်သည် စိတ်နှင့် ကင်းကွာသော
+   Pariyuṭṭhānaṃ cittavippayuttaṃ|0: ထကြွခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+== vatthu (10 senses, 10 terms)
+   vatthu|0: အငြင်းပွားရာ အကြောင်းအရာ / အကြောင်းအရာ
+   vatthu|1: ငုတ်တို
+   kathāvatthu|0: အငြင်းပွားရာ အကြောင်းအရာများကို ဆွေးနွေးခြင်း
+   vatthuṃ atthi|0: မှီရာ ဝတ္ထု ရှိသည်
+   vatthuṃ|0: မှီရာ ဝတ္ထု
+   vatthukā|0: မှီရာ ရှိသော
+   vatthusmiṃ|0: အရာဝတ္ထု
+   vatthukaṃ|0: အခြေ … ရှိသော
+   Dvādasavatthukaṃ ñāṇaṃ|0: အခြေ ဆယ့်နှစ်ပါး ရှိသော ဉာဏ်
+   Dvādasavatthukaṃ|0: အခြေ ဆယ့်နှစ်ပါး ရှိသော
+== rūp (161 senses, 128 terms)
+   rūpa|0: သိမ်မွေ့သော ရုပ်
+   rūpa|1: အဆင်းအရောင်
+   rūpa|2: ရုပ်
+   rūpadhātu|0: အဆင်းအရောင် ဓာတ်
+   rūpadhātu|1: သိမ်မွေ့သော ရုပ်ဘုံ / သိမ်မွေ့သော ရုပ် ဓာတ်
+   arūpa|0: ရုပ်မရှိသော
+   arūpa|1: ရုပ် မဟုတ်သော
+   arūpadhātu|0: ရုပ်မရှိသော ဘုံ / ရုပ်မရှိသော ဓာတ်
+   Rūpadhātuyā|0: သိမ်မွေ့သော ရုပ်ဘုံ
+   Arūpe|0: ရုပ်မရှိသော ဘုံ
+   rūpaṃ|0: အဆင်းအရောင်
+   rūpaṃ|1: ရုပ်
+   Rūpaṃ kamma|0: ရုပ်သည် ကံ
+   rūpaṃ upalabbhati|0: ရုပ် … တွေ့ရသည်
+   aññaṃ rūpaṃ|0: ရုပ် … တခြားစီ
+   rūpāyatanaṃ|0: အဆင်းအရောင် အာရုံခံ နယ်ပယ်
+   ariyarūpa|0: အရိယာ ရုပ်
+   Rūpaṃ sahetukaṃ|0: ရုပ်သည် အမြစ် ရှိသော
+   Rūpaṃ kusala|0: ရုပ်သည် ကုသိုလ်
+   arūpāvacara|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacara|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   Rūpārūpadhātupariyāpannakathā|0: သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်
+   rūpārūpadhātu|0: သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်
+   patirūpa|0: အတုအယောင်
+   Patirūpakathā|0: အတုအယောင်အကြောင်း ဆွေးနွေးချက်
+   Rūpaṃ puggalo|0: ရုပ်သည် ပုဂ္ဂိုလ် / ရုပ် … ပုဂ္ဂိုလ်
+   Rūpasmiṃ|0: ရုပ်
+   Arūpadhātuyā|0: ရုပ်မရှိသော ဘုံ
+   rūpī puggalo|0: ရုပ် ရှိသော ပုဂ္ဂိုလ်
+   rūpo|0: ရုပ်
+   Rūpaṃ sandhāvati|0: ရုပ်သည် ကူးသွားသည်
+   Rūpaṃ upādāya|0: ရုပ်ကို မှီ၍
+   rūpaṃ aniccaṃ|0: ရုပ်သည် မမြဲသော / ရုပ် … မမြဲသော
+   rūpavā|0: ရုပ် ရှိသော
+   rūpaṃ cavati|0: ရုပ်သည် စုတေသည်
+   Puggalo rūpaṃ|0: ပုဂ္ဂိုလ် … ရုပ်
+   rūpena|0: ရုပ်
+   rūpā|0: အဆင်းအရောင်
+   rūpā|1: ရုပ်
+   Rūparāgaṃ jahati|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … စွန့်ပယ်သည်
+   Rūparāgaṃ ekadese jahati|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … တစ်စိတ်တစ်ဒေသ စွန့်ပယ်သည်
+   Rūpāvacarena maggena|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော မဂ်
+   Rūpāvacarena|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   rūpaṃ niruddhaṃ|0: ရုပ်သည် ချုပ်ငြိမ်းပြီးသော
+   rūpaṃ atthi|0: ရုပ် ရှိသည်
+   rūpaṃ ajātaṃ|0: ရုပ်သည် မဖြစ်သေးသော
+   Anāgataṃ rūpaṃ|0: အနာဂတ် ရုပ်
+   Anāgataṃ rūpaṃ|1: အနာဂတ် အဆင်းအရောင်
+   rūpaṃ jātaṃ|0: ရုပ် … ဖြစ်ပေါ်သော
+   Atītaṃ rūpaṃ|0: အတိတ် ရုပ်
+   Atītaṃ rūpaṃ|1: အတိတ် အဆင်းအရောင်
+   Paccuppannaṃ rūpaṃ|0: ပစ္စုပ္ပန် ရုပ်
+   Paccuppannaṃ rūpaṃ|1: ပစ္စုပ္ပန် အဆင်းအရောင်
+   rūpaṃ nirujjhamānaṃ|0: ရုပ်သည် ချုပ်ငြိမ်းနေသော
+   Rūpaṃ na jahati|0: ရုပ် … မစွန့်ပယ်
+   Rūpaṃ niccaṃ|0: ရုပ်သည် မြဲသော
+   rūpaṃ jahati|0: ရုပ် … စွန့်ပယ်သည်
+   rūpā atthi|0: အဆင်းအရောင်တို့ ရှိသည်
+   rūpakkhandho|0: ရုပ် အစုအဝေး
+   rūpakkhandho atthi|0: ရုပ် အစုအဝေး ရှိသည်
+   nāmarūpassa|0: စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း
+   rūpaṃ āyatanaṃ|0: ရုပ်သည် အာရုံခံ နယ်ပယ်
+   rūpaṃ khandhā|0: ရုပ်သည် အစုအဝေး
+   rūpaṃ khandho|0: ရုပ်သည် အစုအဝေး
+   rūpaṃ natthi|0: ရုပ် မရှိသည်
+   Cakkhuviññeyyā rūpā|0: မျက်စိဖြင့် သိနိုင်သော … အဆင်းအရောင်
+   nirūpadhi|0: ဥပဓိ ကင်းသော
+   piyarūpā|0: ချစ်ဖွယ် သဘော ရှိသော
+   Rūpakkhandhe|0: ရုပ် အစုအဝေး
+   arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacaraṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   nāmarūpaṃ|0: စိတ်ပိုင်းနှင့် ရုပ်ပိုင်း
+   tārakarūpāni|0: ကြယ်
+   rūpe|0: အဆင်းအရောင်
+   rūpakkhandha|0: ရုပ် အစုအဝေး
+   arūpino|0: ရုပ် မဟုတ်သော
+   Rūpabhavassa arūpabhavassa|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝနှင့် ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   Kāmabhavassa rūpabhavassa|0: ကာမဘုံ၌ ဖြစ်သော ဘဝနှင့် သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ
+   rūpabhavo bhavo|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝသည် ဘဝ
+   rūpūpagaṃ kammaṃ|0: ရုပ်သို့ ရောက်စေသော ကံ
+   Rūpaṃ bhavo|0: ရုပ်သည် ဘဝ
+   Rūpino|0: ရုပ် ဖြစ်သော
+   Rūpino dhammā|0: ရုပ် ဖြစ်သော သဘောတရား / ရုပ် … သဘောတရား
+   rūpadhātū|0: သိမ်မွေ့သော ရုပ်ဘုံ
+   kāmabhavena rūpabhavena|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmadhātu rūpadhātū|0: ကာမဘုံ … သိမ်မွေ့သော ရုပ်ဘုံ
+   arūpadhātū|0: ရုပ်မရှိသော ဘုံ
+   Arūpino dhammā|0: ရုပ် မဟုတ်သော သဘောတရား
+   rūpabhavena arūpabhavena|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ … ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmabhavena arūpabhavena|0: ကာမဘုံ၌ ဖြစ်သော ဘဝ … ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   kāmadhātu arūpadhātū|0: ကာမဘုံ … ရုပ်မရှိသော ဘုံ
+   Rūpabhavo|0: သိမ်မွေ့သော ရုပ်ဘုံ၌ ဖြစ်သော ဘဝ
+   arūpesu|0: ရုပ်မရှိသော ဘုံ
+   arūpattabhāvapaṭilābho|0: ရုပ်မရှိသော … ကိုယ်ခန္ဓာ ရရှိခြင်း
+   arūpabhavo|0: ရုပ်မရှိသော ဘုံ၌ ဖြစ်သော ဘဝ
+   rūpānaṃ|0: ရုပ်
+   samuṭṭhitaṃ rūpaṃ|0: ဖြစ်ပေါ်သော ရုပ်
+   kāyakammaṃ rūpaṃ|0: ကိုယ်ဖြင့် ပြုသော ကံသည် ရုပ်
+   manokammaṃ arūpaṃ|0: မနောဖြင့် ပြုသော ကံသည် ရုပ် မဟုတ်သော
+   Cakkhāyatanaṃ rūpaṃ|0: မျက်စိ အာရုံခံ နယ်ပယ်သည် ရုပ်
+   kāyakammaṃ arūpaṃ|0: ကိုယ်ဖြင့် ပြုသော ကံသည် ရုပ် မဟုတ်သော
+   Kāyo rūpaṃ|0: ကိုယ်သည် ရုပ်
+   kāyaviññāṇaṃ rūpaṃ|0: ကိုယ် သိစိတ်သည် ရုပ်
+   sotaviññāṇaṃ rūpaṃ|0: နား သိစိတ်သည် ရုပ်
+   cakkhuviññāṇaṃ rūpaṃ|0: မျက်စိ သိစိတ်သည် ရုပ်
+   rūpaṃ kusalaṃ|0: ရုပ်သည် ကုသိုလ်
+   manokammaṃ rūpaṃ|0: မနောဖြင့် ပြုသော ကံသည် ရုပ်
+   Mano rūpaṃ|0: မနောသည် ရုပ်
+   arūpaṃ|0: ရုပ် မဟုတ်သော
+   ghānaviññāṇaṃ rūpaṃ|0: နှာခေါင်း သိစိတ်သည် ရုပ်
+   jivhāviññāṇaṃ rūpaṃ|0: လျှာ သိစိတ်သည် ရုပ်
+   Rūpaṃ kammaṃ|0: ရုပ်သည် ကံ
+   Rūpīnaṃ āyu|0: ရုပ် ဖြစ်သော … သက်တမ်း
+   Arūpīnaṃ āyu|0: ရုပ် မဟုတ်သော … သက်တမ်း
+   rūpajīvita|0: ရုပ် အသက်
+   rūpajīvitindriyaṃ|0: ရုပ် အသက်၏ စွမ်းရည်
+   rūpīnaṃ dhammānaṃ|0: ရုပ် ဖြစ်သော သဘောတရား
+   arūpīnaṃ|0: ရုပ် မဟုတ်သော
+   arūpajīvita|0: ရုပ် မဟုတ်သော အသက်
+   arūpajīvitindriyaṃ|0: ရုပ် မဟုတ်သော အသက်၏ စွမ်းရည်
+   arūpīnaṃ dhammānaṃ|0: ရုပ် မဟုတ်သော သဘောတရား
+   rūpīnaṃ pālanā|0: ရုပ် ဖြစ်သော … စောင့်ရှောက်ခြင်း
+   dhammānaṃ rūpajīvitindriyaṃ|0: သဘောတရား … ရုပ် အသက်၏ စွမ်းရည်
+   Rūpīnaṃ|0: ရုပ် ဖြစ်သော
+   Rūpīnaṃ arūpīnaṃ|0: ရုပ် ဖြစ်သော … ရုပ် မဟုတ်သော
+   rūpaṃ jīvitaṃ|0: ရုပ်သည် အသက်
+   rūpaṃ saṃyojaniyaṃ|0: ရုပ်သည် နှောင်ကြိုး၏ အာရုံ ဖြစ်နိုင်သော
+   Rūpaṃ ārabbha|0: ရုပ်ကို အာရုံပြု၍
+   rūpaṃ sappaccayaṃ|0: ရုပ်သည် အကြောင်း ရှိသော
+   rūpakkhandhena|0: ရုပ် အစုအဝေး
+   Rūpassa|0: ရုပ်
+   Rūpassa parinipphannā|0: ရုပ် … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   arūpāvacarā|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော
+   rūpāvacarā|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   rūpe rajjeyya|0: အဆင်းအရောင်တို့၌ တပ်မက်သည်
+   Rūpataṇhā|0: အဆင်းအရောင်ကို တပ်မက်မှု
+   Ariyarūpaṃ upādāya|0: အရိယာ ရုပ် … မှီ၍
+   Ariyarūpaṃ kusalaṃ|0: အရိယာ ရုပ်သည် ကုသိုလ်
+   ariyarūpaṃ|0: အရိယာ ရုပ်
+   rūparāgo anuseti|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … ကိန်းအောင်းသည်
+   rūpadhātuṃ|0: သိမ်မွေ့သော ရုပ် ဓာတ်
+   arūpadhātuṃ|0: ရုပ်မရှိသော ဓာတ်
+   arūparāgo anuseti|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂ … ကိန်းအောင်းသည်
+   Rūpaṃ hetu|0: ရုပ်သည် အမြစ်
+   upādāyarūpānaṃ|0: မူလဓာတ်ကြီးတို့ကို မှီ၍ ဖြစ်သော ရုပ်
+   Rūpaṃ akusalaṃ|0: ရုပ်သည် အကုသိုလ်
+   rūpaṃ rūpāvacaraṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော ရုပ် / ရုပ်သည် သိမ်မွေ့သော ရုပ်ဘုံနှင့် ဆိုင်သော
+   rūpaṃ arūpāvacaraṃ|0: ရုပ်မရှိသော ဘုံနှင့် ဆိုင်သော ရုပ်
+   katattā rūpaṃ|0: ပြုခဲ့သော … ရုပ်
+   Rūparāgo rūpadhātupariyāpanno|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော
+   Arūparāgo arūpadhātupariyāpanno|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော
+   Rūpena rūpaṃ|0: ရုပ်ဖြင့် ရုပ်
+   Rūpakkhandhassa|0: ရုပ် အစုအဝေး
+   Rūpakkhandhassa saṅkhārakkhandhapariyāpannā|0: ရုပ် အစုအဝေး … ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+   Saṅkhārakkhandhassa rūpakkhandhapariyāpannā|0: ပြုပြင်ဖန်တီးမှု အစုအဝေး … ရုပ် အစုအဝေး၌ အကျုံးဝင်သော
+   rūpatā asaṅkhatā|0: ရုပ်ဖြစ်ခြင်းသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   rūpatā|0: ရုပ်ဖြစ်ခြင်း
+   rūpadhātuarūpadhātūpagaṃ kammaṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ရုပ်မရှိသော ဘုံသို့ ရောက်စေသော ကံ
+   Rūpaṃ niyataṃ|0: ရုပ် … ကျိန်းသေသော
+   patirūpako|0: တူသော အရာ
+   cittapatirūpakaṃ|0: စိတ်နှင့် တူသော အရာ
+== mahābhūt (2 senses, 2 terms)
+   mahābhūtā|0: မဟာဘုတ် / မူလဓာတ်ကြီး
+   mahābhūtānaṃ|0: မူလဓာတ်ကြီး
+== ttik (4 senses, 4 terms)
+   Vimuttikathā|0: လွတ်မြောက်ခြင်းအကြောင်း ဆွေးနွေးချက်
+   upapattikāle|0: ပြန်လည် ဖြစ်ပေါ်သော
+   ajjhattika|0: အတွင်းပိုင်း
+   ajjhattikaṃ|0: မိမိ၏
+== phass (27 senses, 21 terms)
+   cakkhusamphasso|0: မျက်စိ တွေ့ထိမှု
+   manosamphasso|0: မနော တွေ့ထိမှု
+   phassā|0: တွေ့ထိမှု / အတွေ့
+   phassānaṃ|0: တွေ့ထိမှု
+   Phasse|0: တွေ့ထိမှု
+   phasso|0: တွေ့ထိမှု
+   phassa|0: တွေ့ထိမှု
+   phassaṃ|0: တွေ့ထိမှု
+   phassaṃ vimuccati|0: တွေ့ထိမှု … လွတ်မြောက်သည်
+   Saphassaṃ cittaṃ|0: တွေ့ထိမှု ရှိသော စိတ်
+   phassehi|0: တွေ့ထိမှု
+   Phassapariyāye ñāṇaṃ|0: တွေ့ထိမှုကို ပိုင်းခြား၍ သိသော ဉာဏ်
+   manosamphassajā|0: မနော၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော
+   sotasamphassa|0: နား၏ တွေ့ထိမှု
+   cakkhusamphassa|0: မျက်စိ၏ တွေ့ထိမှု
+   Cakkhusamphassajā cetanā|0: မျက်စိ၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော စေ့ဆော်မှု
+   manosamphassa|0: မနော၏ တွေ့ထိမှု
+   Cakkhusamphassajā saññā|0: မျက်စိ၏ တွေ့ထိမှုမှ ဖြစ်ပေါ်သော မှတ်သိမှု
+   phassena|0: တွေ့ထိမှု
+   phassavippayuttaṃ abyākataṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   phassavippayuttaṃ kusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … ကုသိုလ်
+   phassavippayuttaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော
+   phassavippayuttaṃ akusalaṃ|0: တွေ့ထိမှုနှင့် ကင်းကွာသော … အကုသိုလ်
+   samuṭṭhito phasso|0: ဖြစ်ပေါ်သော တွေ့ထိမှု
+   phassakassa|0: တွေ့ထိမှု ရှိသော
+   phassaṃ ārabbha|0: တွေ့ထိမှုကို အာရုံပြု၍
+   saññāvedayitanirodhaṃ phasso|0: မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန် … တွေ့ထိမှု
+== passaddh (3 senses, 3 terms)
+   passaddhi|0: ငြိမ်းအေးခြင်း
+   paṭipassaddhāya|0: ငြိမ်းအေးသွားသော
+   paṭipassaddhena|0: ငြိမ်းအေးပြီးသော
+== sati (55 senses, 43 terms)
+   satipaṭṭhāna|0: သတိပဋ္ဌာန်
+   sati|0: သတိ
+   satindriyaṃ|0: သတိ၏ စွမ်းရည်
+   ekūnavīsatima|0: ဧကူနဝီသတိမ
+   Ekūnavīsatimavaggo|0: ဧကူနဝီသတိမ ဝဂ်
+   vīsatima|0: ဝီသတိမ
+   Vīsatimavaggo|0: ဝီသတိမ ဝဂ်
+   ekavīsatima|0: ဧကဝီသတိမ
+   Ekavīsatimavaggo|0: ဧကဝီသတိမ ဝဂ်
+   bāvīsatima|0: ဗာဝီသတိမ
+   Bāvīsatimavaggo|0: ဗာဝီသတိမ ဝဂ်
+   tevīsatima|0: တေဝီသတိမ
+   Tevīsatimavaggo|0: တေဝီသတိမ ဝဂ်
+   satiṃ|0: သတိ
+   phusati|0: ထိသည်
+   sassatisamaṃ|0: ထာဝရ တည်မြဲသည်နှင့် တူစွာ
+   satipaṭṭhānā|0: သတိပဋ္ဌာန်
+   anupassati|0: အဖန်ဖန် ရှုသည်
+   satimanto|0: သတိ ရှိသော
+   atītāni bāvīsatindriyāni atthi|0: အတိတ် စွမ်းရည် နှစ်ဆယ့်နှစ်ပါး ရှိသည်
+   bāvīsati|0: နှစ်ဆယ့်နှစ်ပါး
+   satipaṭṭhānaṃ|0: သတိပဋ္ဌာန်
+   Sati satipaṭṭhānā|0: သတိသည် သတိပဋ္ဌာန်
+   kāyagatāsati|0: ကိုယ်ကို အာရုံပြုသော သတိ
+   satisambojjhaṅgo|0: သတိ ဗောဇ္ဈင်
+   anussati|0: အဖန်ဖန် အောက်မေ့ခြင်း
+   dhammā satipaṭṭhānā|0: သဘောတရား … သတိပဋ္ဌာန်
+   dhammā sati|0: သဘောတရား … သတိ
+   kāyagatāsatiṃ|0: ကိုယ်ကို အာရုံပြုသော သတိ
+   satisambojjhaṅga|0: သတိ ဗောဇ္ဈင်
+   bhāsati|0: ပြောသည်
+   vācaṃ bhāsati|0: စကားကို ပြောသည်
+   vihassati|0: နေသည်
+   viharissati|0: နေသည်
+   vihessati|0: နေသည်
+   dissati|0: ထင်ရသည်
+   vīsati|0: နှစ်သောင်း
+   vīsati sahassāni|0: နှစ်သောင်း
+   vīsati kappasahassāni|0: ကမ္ဘာ နှစ်သောင်း
+   anussatiṃ|0: အဖန်ဖန် အောက်မေ့ခြင်း
+   Satipaṭṭhānā ariyā|0: သတိပဋ္ဌာန်တို့သည် အရိယာ
+   Uppajjissati|0: ဖြစ်ပေါ်လိမ့်မည်
+   Aṭṭhamako puggalo muṭṭhassati|0: အဋ္ဌမ ပုဂ္ဂိုလ်သည် သတိ လစ်သော
+   muṭṭhassati|0: သတိ လစ်သော
+   obhāsati|0: ထွန်းလင်းသည်
+   ajjhāvasati|0: နေသည်
+   okkamissati|0: သက်ဆင်းသည်
+   sammattaniyāmaṃ okkamissati|0: မှန်ကန်မှု၌ သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်
+   satiyā|0: သတိ
+   ādisati|0: ဖော်ပြသည်
+   padhaṃsati|0: ပျက်စီးသည်
+   satipaṭṭhānānaṃ|0: သတိပဋ္ဌာန်
+   vussati|0: ကျင့်ရသည်
+   vipassati|0: ကြည့်ရှုသည်
+   muṭṭhassatissa|0: သတိ လစ်နေသော
+== samādh (10 senses, 6 terms)
+   samādhi|0: သမာဓိ
+   samādhindriyaṃ|0: သမာဓိ၏ စွမ်းရည်
+   samādhiṃ|0: သမာဓိ / တည်ကြည်ခြင်း
+   samādhīnaṃ|0: သမာဓိ
+   samādhissa|0: သမာဓိ
+   samādhīhi|0: သမာဓိ
+   samādhinā|0: သမာဓိ
+   Avitakko samādhi|0: စတင်ကြံစည်မှု မရှိသော … သမာဓိ
+   sammāsamādhi cittānuparivattī|0: မှန်ကန်သော သမာဓိသည် စိတ်နောက်သို့ လိုက်ပါသော
+   cittasantati samādhi|0: စိတ်အစဉ်သည် သမာဓိ
+== paññ (32 senses, 24 terms)
+   paññatta|0: သတ်မှတ်ချက်
+   paññindriyaṃ|0: ပညာ၏ စွမ်းရည်
+   paññā|0: ပညာ
+   paññāyati|0: ထင်ရှားသည်
+   paññatti|0: သတ်မှတ်ချက်
+   puggalassa paññatti|0: ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက် / ပုဂ္ဂိုလ် … သတ်မှတ်ချက်
+   kusalassa puggalassa paññatti|0: ကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်
+   akusalassa puggalassa paññatti|0: အကုသိုလ် ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်
+   abyākatassa puggalassa paññatti|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်
+   puggalānaṃ paññatti|0: ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက် / ပုဂ္ဂိုလ် … သတ်မှတ်ချက်
+   paññāpeti|0: သတ်မှတ်ဖော်ပြသည် / ပညတ်သည်
+   duppaññā|0: ပညာ ညံ့သော
+   paññavanto|0: ပညာ ရှိသော
+   paññānaṃ|0: ပညာ
+   paññāya|0: ပညာ
+   Catupaññāsa|0: ငါးဆယ့်လေးပါး
+   paññāpeyya|0: ထင်ရှားပြနိုင်သည်
+   paññāpayamāno|0: ထင်ရှားပြလိုသော
+   atīte paññāpayamāno|0: အတိတ် … ထင်ရှားပြလိုသော
+   paññāsa|0: ငါးဆယ်
+   paññaṃ|0: ပညာ
+   Aṭṭhamako puggalo duppañño|0: အဋ္ဌမ ပုဂ္ဂိုလ်
+   puggalassa paññā|0: ပုဂ္ဂိုလ်သည် ပညာ / ပုဂ္ဂိုလ်၌ ပညာ
+   paññācakkhuṃ|0: ပညာမျက်စိ
+   paññācakkhuṃ anuttaraṃ|0: အမြတ်ဆုံး ပညာမျက်စိ
+   paññāhi|0: ပညာ
+   paññā paṭisambhidā|0: ပညာသည် ပိုင်းခြားသိသော ဉာဏ်
+   paññavā|0: ပညာ ရှိသော
+   lokiyāya paññāya|0: လောကနှင့် သက်ဆိုင်သော ပညာ
+   paññattaṃ|0: သတ်မှတ်ထားသော
+   lokiyā paññā|0: လောကနှင့် သက်ဆိုင်သော ပညာ
+   puthujjanassa paññā|0: ပုထုဇဉ်၌ ပညာ
+== vīriy (3 senses, 2 terms)
+   lokiyena vīriyena|0: လောကနှင့် သက်ဆိုင်သော ဝီရိယ
+   vīriyādhipati adhipati|0: ဝီရိယ အကြီးအမှူး … အကြီးအမှူး
+   lokiyaṃ vīriyaṃ|0: လောကနှင့် သက်ဆိုင်သော ဝီရိယ
+== saddh (16 senses, 11 terms)
+   saddhindriyaṃ|0: ယုံကြည်မှု၏ စွမ်းရည်
+   saddhā|0: ယုံကြည်မှု
+   saddhānusārī|0: ယုံကြည်မှုကို အစဉ်လိုက်သူ
+   saddhānaṃ|0: ယုံကြည်မှု
+   passaddhi|0: ငြိမ်းအေးခြင်း
+   puggalassa saddhā|0: ပုဂ္ဂိုလ်သည် ယုံကြည်မှု / ပုဂ္ဂိုလ်၌ ယုံကြည်မှု
+   saddhāhi|0: ယုံကြည်မှု
+   paṭipassaddhāya|0: ငြိမ်းအေးသွားသော
+   saddhāya|0: ယုံကြည်မှု
+   Saddho|0: ယုံကြည်မှု ရှိသော
+   saddhaṃ|0: ယုံကြည်မှု
+   lokiyāya saddhāya|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု
+   paṭipassaddhena|0: ငြိမ်းအေးပြီးသော
+   lokiyaṃ saddhindriyaṃ|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု၏ စွမ်းရည်
+   lokiyā saddhā|0: လောကနှင့် သက်ဆိုင်သော ယုံကြည်မှု
+   lokuttaraṃ saddhindriyaṃ|0: လောကကို ကျော်လွန်သော ယုံကြည်မှု၏ စွမ်းရည်
+== hiri (4 senses, 3 terms)
+   ahirikaṃ|0: ဒုစရိုက်ကို မရှက်မှု
+   atītaṃ ahirikaṃ atthi|0: အတိတ် ဒုစရိုက်ကို မရှက်မှု ရှိသည်
+   ahirika|0: ဒုစရိုက်ကို မရှက်မှု
+   hiriyaṃ|0: ရှက်ခြင်း
+== ottapp (12 senses, 8 terms)
+   ottappaṃ|0: ဒုစရိုက်ကို ကြောက်ရွံ့မှု
+   anottappaṃ|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   anottappapahānāya|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှုကို ပယ်ရန်
+   anottappī|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု ရှိသော
+   atītaṃ anottappaṃ|0: အတိတ် ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   ottappaṃ atthi|0: ဒုစရိုက်ကို ကြောက်ရွံ့မှု … ရှိသည်
+   ottappa|0: ဒုစရိုက်ကို ကြောက်ရွံ့မှု
+   anottappa|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   Anottappapariyāye ñāṇaṃ|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှုကို ပိုင်းခြား၍ သိသော ဉာဏ်
+   ottappena|0: ဒုစရိုက်ကို ကြောက်ရွံ့မှု
+   anottappena|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု
+   anottappāsikā|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှု၏ အဖော် ဖြစ်သော
+== lobh (7 senses, 4 terms)
+   lobho|0: လောဘ
+   lobho vutto|0: လောဘ … ဟောတော်မူသည်
+   dhammataṇhā lobho|0: သဘောတရားကို တပ်မက်မှုသည် လောဘ
+   Alobho|0: လောဘ မရှိခြင်း
+   alobhaṃ|0: လောဘ မရှိခြင်း
+   lobha|0: လောဘ
+   alobha|0: လောဘ မရှိခြင်း
+== dos (20 senses, 11 terms)
+   doso|0: ဒေါသ
+   dosappahānāya|0: ဒေါသကို ပယ်ရန်
+   vītadoso|0: ဒေါသ ကင်းသော
+   dosa|0: ဒေါသ
+   atīto doso|0: အတိတ် ဒေါသ
+   atīto doso atthi|0: အတိတ် ဒေါသ ရှိသည်
+   doso atthi|0: ဒေါသ ရှိသည်
+   dosaṭṭhāniyo|0: ဒေါသ ဖြစ်ကြောင်း
+   dosaṃ|0: ဒေါသ
+   dosaṃ vimuccati|0: ဒေါသ … လွတ်မြောက်သည်
+   sadosaṃ cittaṃ|0: ဒေါသ ရှိသော စိတ်
+   vītadosaṃ|0: ဒေါသ ကင်းသော
+   dosena|0: ဒေါသ
+   dosaṭṭhāniyaṃ|0: ဒေါသ ဖြစ်ကြောင်း
+   doso uppajjati|0: ဒေါသ ဖြစ်ပေါ်သည်
+   Dose|0: ဒေါသ
+   adoso|0: ဒေါသ မရှိခြင်း
+   adosaṃ|0: ဒေါသ မရှိခြင်း
+   adosa|0: ဒေါသ မရှိခြင်း
+   niddoso|0: ဒေါသ ကင်းသော
+== moh (20 senses, 10 terms)
+   moho|0: မောဟ
+   vītamoho|0: မောဟ ကင်းသော
+   moha|0: မောဟ
+   atīto moho|0: အတိတ် မောဟ / အတိတ် … မောဟ
+   atīto moho atthi|0: အတိတ် မောဟ ရှိသည်
+   samohitā|0: ယှဉ်တွဲသော
+   mohaṭṭhāniyo|0: မောဟ ဖြစ်ကြောင်း
+   mohaṃ|0: မောဟ
+   mohaṃ vimuccati|0: မောဟ … လွတ်မြောက်သည်
+   vītamohaṃ|0: မောဟ ကင်းသော
+   samohaṃ cittaṃ|0: မောဟ ရှိသော စိတ်
+   samohito|0: ယှဉ်တွဲသော
+   mohena|0: မောဟ
+   mohaṭṭhāniyaṃ|0: မောဟ ဖြစ်ကြောင်း
+   moho uppajjati|0: မောဟ ဖြစ်ပေါ်သည်
+   mohe|0: မောဟ
+   amoho|0: မောဟ မရှိခြင်း
+   amohaṃ|0: မောဟ မရှိခြင်း
+   amoha|0: မောဟ မရှိခြင်း
+   nimmoho|0: မောဟ ကင်းသော
+== diṭṭh (50 senses, 38 terms)
+   diṭṭhi|0: အယူ
+   Micchādiṭṭhiṃ upādāya|0: မှားယွင်းသော အယူကို မှီ၍
+   micchādiṭṭhiyo puggalo|0: မှားယွင်းသော အယူ ရှိသော ပုဂ္ဂိုလ်
+   diṭṭhiṃ|0: အယူ
+   Micchādiṭṭhiṃ|0: မှားယွင်းသော အယူ
+   anudiṭṭhiṃ|0: အယူ
+   diṭṭhigataṃ|0: အယူမှား
+   diṭṭhe dhamme|0: မျက်မှောက်ဘဝ
+   sakkāyadiṭṭhi|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ
+   diṭṭhānusayo|0: အယူ ကိန်းအောင်းခြင်း
+   diṭṭhikā|0: အယူ ရှိသော
+   micchādiṭṭhikā|0: မှားယွင်းသော အယူ ရှိသော
+   sakkāyadiṭṭhiṃ jahati|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ … စွန့်ပယ်သည် / ကိုယ်ကို အတ္တဟု ယူဆသော အယူကို စွန့်ပယ်သည်
+   sakkāyadiṭṭhiṃ|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ
+   Sakkāyadiṭṭhiṃ ekadese jahati|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ … တစ်စိတ်တစ်ဒေသ စွန့်ပယ်သည်
+   Sakkāyadiṭṭhī|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ
+   diṭṭhī|0: အယူ
+   diṭṭhi atthi|0: အယူ ရှိသည်
+   micchādiṭṭhi|0: မှားယွင်းသော အယူ
+   sakkāyadiṭṭhi atthi|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ ရှိသည်
+   atītā sakkāyadiṭṭhi|0: အတိတ် ကိုယ်ကို အတ္တဟု ယူဆသော အယူ
+   diṭṭhiko|0: အယူ ရှိသော
+   diṭṭhipariyuṭṭhānaṃ pahīnaṃ|0: အယူ ထကြွခြင်းကို ပယ်ပြီးသော
+   diṭṭhipariyuṭṭhānaṃ|0: အယူ ထကြွခြင်း
+   puggalassa diṭṭhipariyuṭṭhānaṃ pahīnaṃ|0: ပုဂ္ဂိုလ်သည် အယူ ထကြွခြင်းကို ပယ်ပြီးသော
+   Aṭṭhamakassa puggalassa diṭṭhipariyuṭṭhānaṃ|0: အဋ္ဌမ ပုဂ္ဂိုလ်သည် အယူ ထကြွခြင်း
+   puggalassa diṭṭhipariyuṭṭhānaṃ|0: ပုဂ္ဂိုလ်သည် အယူ ထကြွခြင်း
+   sakkāyadiṭṭhiṃ pajahati|0: ကိုယ်ကို အတ္တဟု ယူဆသော အယူ … ပယ်သည်
+   adiṭṭhaṃ|0: မမြင်ရသေးသော
+   diṭṭhiyā|0: အယူ
+   Diṭṭhānusayo abyākato|0: အယူ ကိန်းအောင်းခြင်း … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   diṭṭhisaṃyojanaṃ akusalaṃ|0: အယူ နှောင်ကြိုးသည် အကုသိုလ်
+   Diṭṭhisampanno puggalo|0: အယူ ပြည့်စုံသော ပုဂ္ဂိုလ်
+   Diṭṭhisampanno sañcicca|0: အယူ ပြည့်စုံသော … ရည်ရွယ်၍
+   Diṭṭhisampanno sañcicca voropeyya|0: အယူ ပြည့်စုံသော … ရည်ရွယ်၍ … သတ်သည်
+   Diṭṭhisampannassa puggalassa|0: အယူ ပြည့်စုံသော ပုဂ္ဂိုလ်
+   diṭṭhisampannassa pahīnā|0: အယူ ပြည့်စုံသော … ပယ်ပြီးသော
+   Diṭṭhisampannassa pahīnā duggati|0: အယူ ပြည့်စုံသော … ဆိုးသော လားရာကို ပယ်ပြီးသော
+   Diṭṭhisampanno rajjeyya|0: အယူ ပြည့်စုံသော … တပ်မက်သည်
+   diṭṭhadhamma|0: ယခုဘဝ / မျက်မှောက်ဘဝ
+   diṭṭhadhammasukhavihārena cittena|0: ယခုဘဝ၌ ချမ်းသာစွာ နေခြင်း ဖြစ်သော စိတ်
+   Diṭṭhigataṃ abyākataṃ|0: အယူမှား … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   Diṭṭhigataṃ akusalaṃ|0: အယူမှားသည် အကုသိုလ်
+   Tena hi diṭṭhigataṃ|0: သို့ဖြစ်လျှင် အယူမှား
+   micchādiṭṭhikassa|0: မှားယွင်းသော အယူ ရှိသော
+   ucchedadiṭṭhi|0: အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ
+   Sassatadiṭṭhiyā|0: အတ္တသည် ထာဝရ တည်မြဲသည်ဟူသော အယူ
+   Ucchedadiṭṭhiyā|0: အတ္တသည် ပြတ်စဲသွားသည်ဟူသော အယူ
+   sassatadiṭṭhi|0: အတ္တသည် ထာဝရ တည်မြဲသည်ဟူသော အယူ
+   Diṭṭhadhammavedanīyaṃ niyataṃ|0: မျက်မှောက်ဘဝ၌ ခံစားရမည့် … ကျိန်းသေသော
+== vicikicch (13 senses, 12 terms)
+   vicikicchati|0: ယုံမှားသည်
+   vicikicchā|0: ယုံမှားမှု
+   vicikicchānusayo|0: ယုံမှားမှု ကိန်းအောင်းခြင်း
+   vicikicchaṃ jahati|0: ယုံမှားမှု … စွန့်ပယ်သည်
+   vicikicchaṃ|0: ယုံမှားမှု
+   vicikicchaṃ ekadese jahati|0: ယုံမှားမှု … တစ်စိတ်တစ်ဒေသ စွန့်ပယ်သည်
+   vicikicchitaṃ|0: ယုံမှားခြင်း
+   vicikicchā atthi|0: ယုံမှားမှု ရှိသည်
+   atītā vicikicchā|0: အတိတ် ယုံမှားမှု
+   atītā vicikicchā atthi|0: အတိတ် ယုံမှားမှု ရှိသည်
+   vicikicchāsaṃyojanaṃ|0: ယုံမှားမှု နှောင်ကြိုး
+   vicikicchānīvaraṇaṃ|0: ယုံမှားမှု အတားအဆီး
+   vicikicchāpariyuṭṭhānaṃ|0: ယုံမှားမှု ထကြွခြင်း
+== kaṅkh (4 senses, 4 terms)
+   kaṅkhā|0: သံသယ
+   kaṅkhati|0: သံသယ ဖြစ်သည်
+   dhammesu kaṅkhā|0: သဘောတရား … သံသယ
+   ākaṅkhamāno|0: အလိုရှိသော
+== uddhacc (5 senses, 4 terms)
+   uddhaccaṃ|0: ယောက်ယက်ခတ်မှု
+   uddhaccaṃ jahati|0: ယောက်ယက်ခတ်မှု … စွန့်ပယ်သည်
+   uddhaccaṃ ekadese jahati|0: ယောက်ယက်ခတ်မှု … တစ်စိတ်တစ်ဒေသ စွန့်ပယ်သည်
+   atītaṃ uddhaccaṃ atthi|0: အတိတ် ယောက်ယက်ခတ်မှု ရှိသည်
+   uddhacca|0: ယောက်ယက်ခတ်မှု
+== thin (4 senses, 3 terms)
+   thinaṃ|0: ထိုင်းမှိုင်းမှု
+   atītaṃ thinaṃ atthi|0: အတိတ် ထိုင်းမှိုင်းမှု ရှိသည်
+   thina|0: ထိုင်းမှိုင်းမှု
+   hatthināgo|0: ဆင်ပြောင်
+== rāg (71 senses, 58 terms)
+   rāga|0: ရာဂ / တပ်မက်မှု
+   virāga|0: ပြယ်ပျောက်
+   virāgadhammaṃ|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော
+   virāgadhammā|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော
+   virāgadhammo|0: ပြယ်ပျောက်တတ်သော သဘော … ရှိသော
+   rāgo|0: ရာဂ / တပ်မက်မှု
+   kāmarāgo|0: ကာမရာဂ
+   rāgappahānāya|0: ရာဂကို ပယ်ရန်
+   vītarāgo|0: ရာဂ ကင်းသော
+   arahā vītarāgo|0: ရဟန္တာသည် ရာဂ ကင်းသော
+   kāmarāgapariyuṭṭhānaṃ|0: ကာမရာဂ ထကြွခြင်း
+   bhavarāga|0: ဘဝရာဂ
+   kāmarāga|0: ကာမရာဂ
+   bhavarāgānusayo|0: ဘဝရာဂ ကိန်းအောင်းခြင်း
+   Kāmarāgānusayo|0: ကာမရာဂ ကိန်းအောင်းခြင်း
+   oḷārikaṃ kāmarāgaṃ jahati|0: ရုန့်ရင်းသော ကာမရာဂ … စွန့်ပယ်သည် / ရုန့်ရင်းသော ကာမရာဂကို စွန့်ပယ်သည်
+   rāgaṃ|0: ရာဂ
+   kāmarāgaṃ|0: ကာမရာဂ
+   Rūparāgaṃ jahati|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … စွန့်ပယ်သည်
+   Rūparāgaṃ ekadese jahati|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … တစ်စိတ်တစ်ဒေသ စွန့်ပယ်သည်
+   ekadesaṃ vītarāgo|0: တစ်စိတ်တစ်ဒေသ ရာဂ ကင်းသော
+   Jahati kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   Jahati anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Jahati puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Vikkhambheti kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   kāmarāgabyāpādānaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   atīto rāgo|0: အတိတ် ရာဂ
+   atīto rāgo atthi|0: အတိတ် ရာဂ ရှိသည်
+   rāgo atthi|0: ရာဂ ရှိသည်
+   Sadhammakusalo vītarāgo|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … ရာဂ ကင်းသော
+   vītarāgā|0: ရာဂ ကင်းသော
+   rāgā|0: ရာဂ
+   catubhāgaṃ vītarāgo|0: လေးပုံတစ်ပုံ ရာဂ ကင်းသော
+   rāgaṃ vimuccati|0: ရာဂ … လွတ်မြောက်သည်
+   sarāgaṃ cittaṃ|0: ရာဂ ရှိသော စိတ် / ရာဂ ရှိသော … စိတ်
+   Vītarāgaṃ|0: ရာဂ ကင်းသော
+   rāgaṃ pajahati|0: ရာဂကို ပယ်သည်
+   oḷārikaṃ kāmarāgaṃ pajahati|0: ကာမရာဂ … ရုန့်ရင်းသော … ပယ်သည်
+   vītarāgaṃ cittaṃ|0: ရာဂ ကင်းသော စိတ်
+   rāgena|0: ရာဂ
+   rāgo uppajjati|0: ရာဂ ဖြစ်ပေါ်သည်
+   Tena hi rāgo|0: သို့ဖြစ်လျှင် ရာဂ
+   Kāmarāgānusayo akusalo|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် အကုသိုလ်
+   bhavarāgapariyuṭṭhānaṃ|0: ဘဝရာဂ ထကြွခြင်း
+   Kāmarāgānusayo abyākato|0: ကာမရာဂ ကိန်းအောင်းခြင်း … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   Kāmarāgānusayo cittavippayutto|0: ကာမရာဂ ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+   Rāge|0: ရာဂ
+   rāgasahagatacittasamaṅgī|0: ရာဂနှင့်အတူ ဖြစ်သော စိတ်နှင့် ပြည့်စုံသော
+   rāgaṃ jahati|0: ရာဂကို စွန့်ပယ်သည်
+   rāgo akusalo|0: ရာဂသည် အကုသိုလ်
+   rāgānusayo anuseti|0: ရာဂ ကိန်းအောင်းခြင်း ကိန်းအောင်းသည်
+   rāgānusayo|0: ရာဂ ကိန်းအောင်းခြင်း
+   Añño aññaṃ kāmarāgapariyuṭṭhānaṃ|0: ကာမရာဂ ထကြွခြင်းသည် တခြားစီ
+   rūparāgo anuseti|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂ … ကိန်းအောင်းသည်
+   Gandharāgo|0: အနံ့ကို တပ်မက်သော ရာဂ
+   Saddarāgo|0: အသံကို တပ်မက်သော ရာဂ
+   rasarāgo|0: အရသာကို တပ်မက်သော ရာဂ
+   phoṭṭhabbarāgo|0: အထိအတွေ့ကို တပ်မက်သော ရာဂ
+   arūparāgo anuseti|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂ … ကိန်းအောင်းသည်
+   kāmarāgo anuseti|0: ကာမရာဂ … ကိန်းအောင်းသည်
+   Rūparāgo rūpadhātupariyāpanno|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော
+   Saddarāgo saddadhātupariyāpanno|0: အသံကို တပ်မက်သော ရာဂသည် အသံ ဓာတ်၌ အကျုံးဝင်သော
+   phoṭṭhabbarāgo phoṭṭhabbadhātupariyāpanno|0: အထိအတွေ့ကို တပ်မက်သော ရာဂသည် အထိအတွေ့ ဓာတ်၌ အကျုံးဝင်သော
+   Arūparāgo arūpadhātupariyāpanno|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော
+   kāmarāgo kāmadhātupariyāpanno|0: ကာမရာဂသည် ကာမ ဓာတ်၌ အကျုံးဝင်သော
+   Virāgo|0: ရာဂ ကင်းခြင်း
+   nirāgo|0: ရာဂ ကင်းသော
+   arahā nirāgo|0: ရဟန္တာသည် ရာဂ ကင်းသော
+== taṇh (19 senses, 16 terms)
+   taṇhā|0: တပ်မက်မှု / တဏှာ
+   Dhammataṇhā|0: သဘောတရားကို တပ်မက်မှု
+   Dhammataṇhā abyākatā|0: သဘောတရားကို တပ်မက်မှု … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   taṇho|0: တပ်မက်မှု
+   taṇhaṃ|0: တပ်မက်မှု
+   bhavataṇhā|0: ဘဝကို တပ်မက်မှု
+   taṇha|0: တပ်မက်မှု
+   vibhavataṇhā|0: ဘဝ ပျောက်ကွယ်ခြင်းကို တပ်မက်မှု
+   kāmataṇhā|0: ကာမကို တပ်မက်မှု
+   gandhataṇhā|0: အနံ့ကို တပ်မက်မှု
+   Saddataṇhā|0: အသံကို တပ်မက်မှု
+   rasataṇhā|0: အရသာကို တပ်မက်မှု
+   phoṭṭhabbataṇhā|0: အထိအတွေ့ကို တပ်မက်မှု
+   Rūpataṇhā|0: အဆင်းအရောင်ကို တပ်မက်မှု
+   Dhammataṇhā akusalā|0: သဘောတရားကို တပ်မက်မှုသည် အကုသိုလ်
+   taṇhā vuttā|0: တပ်မက်မှု … ဟောတော်မူသည်
+   dhammataṇhā lobho|0: သဘောတရားကို တပ်မက်မှုသည် လောဘ
+   taṇhā vutto|0: တပ်မက်မှု … ဟောတော်မူသည်
+   Taṇhāpaccayā|0: တပ်မက်မှုကြောင့်
+== byāpād (18 senses, 14 terms)
+   oḷāriko byāpādo|0: ရုန့်ရင်းသော ဖျက်ဆီးလိုစိတ်
+   byāpādo|0: ဖျက်ဆီးလိုစိတ်
+   oḷārikaṃ byāpādaṃ jahati|0: ရုန့်ရင်းသော ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   oḷārikaṃ byāpādaṃ|0: ရုန့်ရင်းသော ဖျက်ဆီးလိုစိတ်
+   byāpādaṃ|0: ဖျက်ဆီးလိုစိတ်
+   Jahati kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   byāpāda|0: ဖျက်ဆီးလိုစိတ်
+   Jahati anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Jahati puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti puthujjano kāmarāgabyāpādaṃ|0: ပုထုဇဉ်သည် ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Vikkhambheti kāmarāgabyāpādaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   kāmarāgabyāpādānaṃ|0: ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်
+   atīto oḷāriko byāpādo|0: အတိတ် ရုန့်ရင်းသော ဖျက်ဆီးလိုစိတ်
+   atīto aṇusahagato byāpādo|0: အတိတ် အနည်းငယ်မျှ ကျန်ရှိသော ဖျက်ဆီးလိုစိတ်
+   byāpādo atthi|0: ဖျက်ဆီးလိုစိတ် ရှိသည်
+   abyāpāda|0: မဖျက်ဆီးလိုခြင်း
+== ñāṇ (149 senses, 118 terms)
+   ñāṇa|0: ဉာဏ် / သိခြင်း
+   atītañāṇa|0: အတိတ် ဉာဏ်
+   aññāṇa|0: မသိခြင်း
+   Ñāṇakathā|0: ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   sammutiñāṇa|0: သမုတ်ကို သိသော ဉာဏ်
+   Anāgatañāṇakathā|0: အနာဂတ်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   Phalañāṇakathā|0: ဖိုလ်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   ñāṇaṃ|0: ဉာဏ် / သိခြင်း
+   viññāṇaṃ|0: သိစိတ်
+   viññāṇaṃ upalabbhati|0: သိစိတ် … တွေ့ရသည်
+   Aññaṃ viññāṇaṃ|0: သိစိတ် … တခြားစီ / သိစိတ်သည် တခြားစီ
+   viññāṇa|0: သိစိတ်
+   viññāṇā|0: သိစိတ်
+   Ñāṇaṃ cittavippayutta|0: ဉာဏ် … စိတ်နှင့် ကင်းကွာသော
+   kāyaviññāṇa|0: ကိုယ် သိစိတ်
+   sotaviññāṇa|0: နား သိစိတ်
+   cakkhuviññāṇa|0: မျက်စိ သိစိတ်
+   manoviññāṇa|0: မနော သိစိတ်
+   ghānaviññāṇa|0: နှာခေါင်း သိစိတ်
+   jivhāviññāṇa|0: လျှာ သိစိတ်
+   viññāṇo|0: သိစိတ်
+   viññāṇaṃ sandhāvati|0: သိစိတ်သည် ကူးသွားသည်
+   cakkhuviññāṇaṃ|0: မျက်စိ သိစိတ်
+   manoviññāṇaṃ|0: မနော သိစိတ်
+   ñāṇena|0: ဉာဏ်
+   viññāṇaṃ niruddhaṃ|0: သိစိတ်သည် ချုပ်ငြိမ်းပြီးသော
+   viññāṇaṃ atthi|0: သိစိတ် ရှိသည်
+   viññāṇaṃ ajātaṃ|0: သိစိတ်သည် မဖြစ်သေးသော
+   Anāgataṃ viññāṇaṃ|0: အနာဂတ် သိစိတ်
+   Anāgataṃ viññāṇaṃ atthi|0: အနာဂတ် သိစိတ် ရှိသည်
+   anāgataṃ viññāṇaṃ ajātaṃ|0: အနာဂတ် သိစိတ်သည် မဖြစ်သေးသော
+   atītaṃ viññāṇaṃ|0: အတိတ် သိစိတ်
+   atītaṃ viññāṇaṃ niruddhaṃ|0: အတိတ် သိစိတ်သည် ချုပ်ငြိမ်းပြီးသော
+   atītaṃ viññāṇaṃ atthi|0: အတိတ် သိစိတ် ရှိသည်
+   Paccuppannaṃ viññāṇaṃ|0: ပစ္စုပ္ပန် သိစိတ်
+   Paccuppannaṃ viññāṇaṃ atthi|0: ပစ္စုပ္ပန် သိစိတ် ရှိသည်
+   viññāṇaṃ jahati|0: သိစိတ် … စွန့်ပယ်သည်
+   viññāṇaṃ aniccaṃ|0: သိစိတ်သည် မမြဲသော
+   viññāṇaṃ na jahati|0: သိစိတ် … မစွန့်ပယ်
+   anāgataṃ viññāṇaṃ jahati|0: အနာဂတ် သိစိတ် … စွန့်ပယ်သည်
+   atītaṃ viññāṇaṃ jahati|0: အတိတ် သိစိတ် … စွန့်ပယ်သည်
+   atītaṃ viññāṇaṃ aniccaṃ|0: အတိတ် သိစိတ်သည် မမြဲသော
+   Atītaṃ viññāṇaṃ niccaṃ|0: အတိတ် သိစိတ်သည် မြဲသော
+   paccuppannaṃ viññāṇaṃ jahati|0: ပစ္စုပ္ပန် သိစိတ် … စွန့်ပယ်သည်
+   kāyaviññāṇaṃ|0: ကိုယ် သိစိတ်
+   cakkhuviññāṇaṃ atthi|0: မျက်စိ သိစိတ် ရှိသည်
+   sotaviññāṇaṃ|0: နား သိစိတ်
+   manoviññāṇaṃ atthi|0: မနော သိစိတ် ရှိသည်
+   ghānaviññāṇaṃ|0: နှာခေါင်း သိစိတ်
+   jivhāviññāṇaṃ|0: လျှာ သိစိတ်
+   Anāgataṃ ñāṇaṃ|0: အနာဂတ် ဉာဏ်
+   Anāgataṃ ñāṇaṃ atthi|0: အနာဂတ် ဉာဏ် ရှိသည်
+   ñāṇaṃ atthi|0: ဉာဏ် ရှိသည်
+   ñāṇena ñāṇakaraṇīyaṃ|0: ဉာဏ်ဖြင့် ဉာဏ်၏ ပြုဖွယ် ကိစ္စ
+   Atītaṃ ñāṇaṃ|0: အတိတ် ဉာဏ်
+   Atītaṃ ñāṇaṃ atthi|0: အတိတ် ဉာဏ် ရှိသည်
+   Paccuppannaṃ ñāṇaṃ|0: ပစ္စုပ္ပန် ဉာဏ်
+   Paccuppannaṃ ñāṇaṃ atthi|0: ပစ္စုပ္ပန် ဉာဏ် ရှိသည်
+   viññāṇakkhandho|0: သိစိတ် အစုအဝေး
+   viññāṇaṃ āyatanaṃ|0: သိစိတ်သည် အာရုံခံ နယ်ပယ်
+   viññāṇaṃ khandhā|0: သိစိတ်သည် အစုအဝေး
+   viññāṇaṃ khandho|0: သိစိတ်သည် အစုအဝေး
+   viññāṇaṃ natthi|0: သိစိတ် မရှိသည်
+   anāgataṃ viññāṇaṃ khandhā|0: အနာဂတ် သိစိတ်သည် အစုအဝေး
+   atītaṃ viññāṇaṃ khandhā|0: အတိတ် သိစိတ်သည် အစုအဝေး
+   paccuppannaṃ viññāṇaṃ khandhā|0: ပစ္စုပ္ပန် သိစိတ်သည် အစုအဝေး
+   dhammesu ñāṇaṃ|0: သဘောတရား … သိခြင်း
+   aññāṇaṃ|0: မသိခြင်း
+   aññāṇapakato|0: မသိခြင်းဖြင့် လွှမ်းမိုးခံရသော
+   puthujjanassa aññāṇaṃ|0: ပုထုဇဉ်သည် မသိခြင်း
+   ñāṇa niṭṭhitā|0: သိခြင်း … ပြီးဆုံးသော / ဉာဏ် … ပြီးဆုံးသော
+   viññāṇassa|0: သိစိတ်
+   viññāṇañca|0: အဆုံး မရှိသော သိစိတ်
+   ñāṇehi|0: ဉာဏ်
+   viññāṇena|0: သိစိတ်
+   ñāṇāya|0: ဉာဏ်
+   Vimuttiñāṇaṃ|0: လွတ်မြောက်ခြင်းကို သိသော ဉာဏ်
+   Vimuttiñāṇaṃ vimuttaṃ|0: လွတ်မြောက်ခြင်းကို သိသော ဉာဏ်သည် လွတ်မြောက်ပြီးသော
+   arahatte ñāṇaṃ|0: ရဟန္တာ အဖြစ် … ဉာဏ်
+   sotāpattiphalasacchikiriyāya ñāṇaṃ atthi|0: သောတာပတ္တိဖိုလ်ကို မျက်မှောက်ပြုရန် … ဉာဏ် ရှိသည်
+   viparīte ñāṇaṃ|0: ဖောက်ပြန်သော ဉာဏ်
+   niyatassa atthi ñāṇaṃ|0: ကျိန်းသေသော … ဉာဏ် ရှိသည်
+   Sammutiñāṇaṃ|0: သမုတ်ကို သိသော ဉာဏ်
+   Sammutiñāṇaṃ paṭisambhidā|0: သမုတ်ကို သိသော ဉာဏ်သည် ပိုင်းခြားသိသော ဉာဏ်
+   ñāṇaṃ paṭisambhidā|0: ဉာဏ် … ပိုင်းခြားသိသော ဉာဏ် / ဉာဏ်သည် ပိုင်းခြားသိသော ဉာဏ်
+   cetopariyāye ñāṇaṃ|0: စိတ်ကို ပိုင်းခြား၍ သိသော ဉာဏ်
+   sammutiñāṇaṃ saccārammaṇaṃ|0: သမုတ်ကို သိသော ဉာဏ် … သစ္စာကိုသာ အာရုံပြုသော
+   vattabbaṃ ñāṇaṃ|0: ဉာဏ် … ဆိုသင့်ပါသည်
+   vattabbaṃ cetopariyāye ñāṇaṃ|0: စိတ်ကို ပိုင်းခြား၍ သိသော ဉာဏ် … ဆိုသင့်ပါသည်
+   Phassapariyāye ñāṇaṃ|0: တွေ့ထိမှုကို ပိုင်းခြား၍ သိသော ဉာဏ်
+   Anottappapariyāye ñāṇaṃ|0: ဒုစရိုက်ကို မကြောက်ရွံ့မှုကို ပိုင်းခြား၍ သိသော ဉာဏ်
+   ñāṇaṃ ārammaṇaṃ|0: ဉာဏ်၏ အာရုံ
+   Paṭuppannañāṇakathā|0: ပစ္စုပ္ပန်ကို သိသော ဉာဏ်အကြောင်း ဆွေးနွေးချက်
+   Sāvakassa ñāṇaṃ atthi|0: တပည့် … ဉာဏ် ရှိသည်
+   saṅkhārā viññāṇaṃ|0: ပြုပြင်ဖန်တီးမှု … သိစိတ်
+   uppajjati cakkhuviññāṇaṃ|0: မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati cakkhuviññāṇaṃ|0: မှီ၍ မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်
+   viññāṇakkhandha|0: သိစိတ် အစုအဝေး
+   viññāṇakkhandhena|0: သိစိတ် အစုအဝေး
+   kāyaviññāṇaṃ rūpaṃ|0: ကိုယ် သိစိတ်သည် ရုပ်
+   sotaviññāṇaṃ rūpaṃ|0: နား သိစိတ်သည် ရုပ်
+   cakkhuviññāṇaṃ rūpaṃ|0: မျက်စိ သိစိတ်သည် ရုပ်
+   ghānaviññāṇaṃ rūpaṃ|0: နှာခေါင်း သိစိတ်သည် ရုပ်
+   jivhāviññāṇaṃ rūpaṃ|0: လျှာ သိစိတ်သည် ရုပ်
+   cakkhuviññāṇasamaṅgī|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော / မျက်စိ သိစိတ်နှင့် ပြည့်စုံနေသော
+   Cakkhuviññāṇaṃ uppajjati|0: မျက်စိ သိစိတ် ဖြစ်ပေါ်သည် / မျက်စိ သိစိတ် … ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇasamaṅgissa|0: မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော
+   manoviññāṇaṃ uppajjati|0: မနော သိစိတ် … ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇaṃ kusalaṃ|0: မျက်စိ သိစိတ်သည် ကုသိုလ်
+   Manoviññāṇaṃ kusalaṃ|0: မနော သိစိတ်သည် ကုသိုလ်
+   Cakkhuviññāṇaṃ sābhogaṃ|0: မျက်စိ သိစိတ်သည် စိတ်ညွတ်ခြင်း ရှိသော
+   ñāṇavippayutte|0: ဉာဏ်နှင့် ကင်းကွာသော
+   ñāṇe|0: သိခြင်း
+   ñāṇavippayutte vattamāne|0: ဉာဏ်နှင့် ကင်းကွာသော … ဖြစ်နေသော
+   Aññāṇe|0: မသိခြင်း
+   ñāṇavippayutte citte|0: ဉာဏ်နှင့် ကင်းကွာသော စိတ်
+   Ñāṇakathā niṭṭhitā|0: ဉာဏ်အကြောင်း ဆွေးနွေးချက် ပြီးဆုံးသော
+   Atītena ñāṇena|0: အတိတ် ဉာဏ်
+   Ñāṇaṃ cittavippayuttaṃ|0: ဉာဏ်သည် စိတ်နှင့် ကင်းကွာသော
+   viññāṇassa parinipphannā|0: သိစိတ် … ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   viññāṇaṃ parinipphannaṃ|0: သိစိတ်သည် ပြည့်စုံစွာ ဖြစ်ပေါ်ပြီးသော
+   sotaviññāṇaṃ uppajjati|0: နား သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā sotaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ နား သိစိတ် ဖြစ်ပေါ်သည်
+   Cakkhuviññāṇassa|0: မျက်စိ သိစိတ်
+   Cakkhuviññāṇassa anantarā|0: မျက်စိ သိစိတ်၏ ချက်ချင်း နောက်
+   paṭicca uppajjati sotaviññāṇaṃ|0: မှီ၍ နား သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati sotaviññāṇaṃ|0: နား သိစိတ် ဖြစ်ပေါ်သည်
+   kāyaviññāṇaṃ uppajjati|0: ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā kāyaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   ghānaviññāṇaṃ uppajjati|0: နှာခေါင်း သိစိတ် ဖြစ်ပေါ်သည်
+   anantarā ghānaviññāṇaṃ uppajjati|0: ချက်ချင်း နောက်၌ နှာခေါင်း သိစိတ် ဖြစ်ပေါ်သည်
+   Sotaviññāṇassa|0: နား သိစိတ်
+   jivhāviññāṇassa anantarā|0: လျှာ သိစိတ်၏ ချက်ချင်း နောက်
+   paṭicca uppajjati kāyaviññāṇaṃ|0: မှီ၍ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati kāyaviññāṇaṃ|0: ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   Jivhāviññāṇassa|0: လျှာ သိစိတ်
+   Jivhāviññāṇaṃ uppajjati|0: လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati jivhāviññāṇaṃ|0: မှီ၍ လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   uppajjati jivhāviññāṇaṃ|0: လျှာ သိစိတ် ဖြစ်ပေါ်သည်
+   pañcaviññāṇā uppajjanti|0: သိစိတ် ငါးပါး … ဖြစ်ပေါ်သည်
+   pañcaviññāṇā samanantarā uppajjanti|0: သိစိတ် ငါးပါး … ချက်ချင်း နောက်၌ ဖြစ်ပေါ်သည်
+   pañcaviññāṇā|0: သိစိတ် ငါးပါး
+   viññāṇakkhandhassa|0: သိစိတ် အစုအဝေး
+   viññāṇatā asaṅkhatā|0: သိစိတ်ဖြစ်ခြင်းသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   Dvādasavatthukaṃ ñāṇaṃ|0: အခြေ ဆယ့်နှစ်ပါး ရှိသော ဉာဏ်
+   lokuttarañāṇāni|0: လောကကို ကျော်လွန်သော ဉာဏ်
+   viññāṇaṃ niyataṃ|0: သိစိတ် … ကျိန်းသေသော
+   kāyaviññāṇena|0: ကိုယ် သိစိတ်
+   cakkhuviññāṇena|0: မျက်စိ သိစိတ်
+== vijj (22 senses, 20 terms)
+   vijjamāno|0: ရှိနေသော
+   saṃvijjamāno|0: ထင်ရှား ရှိနေသော
+   avijjā|0: အမှန်ကို မသိမှု
+   saṃvijjamānā|0: ထင်ရှား ရှိသော
+   vijjati|0: ရှိသည်
+   avijjānusayo|0: အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း
+   avijjaṃ|0: အမှန်ကို မသိမှု
+   paṭivijjhanto|0: ထိုးထွင်း သိမြင်လျက်
+   avijjāyogo|0: အမှန်ကို မသိမှု ထမ်းပိုး
+   avijjāsaṃyojanaṃ|0: အမှန်ကို မသိမှု နှောင်ကြိုး
+   avijjogho|0: အမှန်ကို မသိမှု ရေအလျဉ်
+   avijjānīvaraṇaṃ|0: အမှန်ကို မသိမှု အတားအဆီး
+   avijjāpariyuṭṭhānaṃ|0: အမှန်ကို မသိမှု ထကြွခြင်း
+   vijjā|0: အမှန်သိမြင်မှု
+   avijjāya|0: အမှန်ကို မသိမှု
+   avijjāpaccayā saṅkhatā|0: အမှန်ကို မသိမှုကြောင့် … ပြုပြင်ဖန်တီးထားသော
+   Avijjāpaccayā asaṅkhatā|0: အမှန်ကို မသိမှုကြောင့် … ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   Avijjā asaṅkhatā|0: အမှန်ကို မသိမှုသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   avijjāpaccayā|0: အမှန်ကို မသိမှုကြောင့်
+   Avijjānusayo abyākato|0: အမှန်ကို မသိမှု ကိန်းအောင်းခြင်း … ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   avijjānīvaraṇaṃ akusalaṃ|0: အမှန်ကို မသိမှု အတားအဆီးသည် အကုသိုလ်
+   avijjānusayo cittavippayutto|0: အမှန်ကို မသိမှု ကိန်းအောင်းခြင်းသည် စိတ်နှင့် ကင်းကွာသော
+== āyatan (49 senses, 36 terms)
+   āyatana|0: အာရုံခံ နယ်ပယ်
+   āyatanaṃ upalabbhati|0: အာရုံခံ နယ်ပယ် … တွေ့ရသည်
+   dhammāyatanaṃ|0: သဘောတရား အာရုံခံ နယ်ပယ်
+   kāyāyatanaṃ|0: ကိုယ် အာရုံခံ နယ်ပယ်
+   sotāyatanaṃ|0: နား အာရုံခံ နယ်ပယ်
+   cakkhāyatanaṃ|0: မျက်စိ အာရုံခံ နယ်ပယ်
+   manāyatanaṃ|0: မနော အာရုံခံ နယ်ပယ်
+   ghānāyatanaṃ|0: နှာခေါင်း အာရုံခံ နယ်ပယ်
+   dhammāyatanaṃ upalabbhati|0: သဘောတရား အာရုံခံ နယ်ပယ် … တွေ့ရသည်
+   gandhāyatanaṃ|0: အနံ့ အာရုံခံ နယ်ပယ်
+   saddāyatanaṃ|0: အသံ အာရုံခံ နယ်ပယ်
+   rasāyatanaṃ|0: အရသာ အာရုံခံ နယ်ပယ်
+   jivhāyatanaṃ|0: လျှာ အာရုံခံ နယ်ပယ်
+   phoṭṭhabbāyatanaṃ|0: အထိအတွေ့ အာရုံခံ နယ်ပယ်
+   rūpāyatanaṃ|0: အဆင်းအရောင် အာရုံခံ နယ်ပယ်
+   saḷāyatana|0: အာရုံခံ နယ်ပယ် ခြောက်ပါး
+   dhammāyatanaṃ puggalo|0: သဘောတရား အာရုံခံ နယ်ပယ်သည် ပုဂ္ဂိုလ်
+   āyatanānaṃ|0: အာရုံခံ နယ်ပယ်
+   āyatanaṃ atthi|0: အာရုံခံ နယ်ပယ် ရှိသည်
+   āyatanāni|0: အာရုံခံ နယ်ပယ်
+   āyatanāni atthi|0: အာရုံခံ နယ်ပယ် ရှိသည်
+   cakkhāyatanaṃ atthi|0: မျက်စိ အာရုံခံ နယ်ပယ် ရှိသည်
+   anāgataṃ cakkhāyatanaṃ|0: အနာဂတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   Atītaṃ cakkhāyatanaṃ|0: အတိတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   paccuppannaṃ cakkhāyatanaṃ|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   āyatanaṃ|0: အာရုံခံ နယ်ပယ်
+   viññāṇaṃ āyatanaṃ|0: သိစိတ်သည် အာရုံခံ နယ်ပယ်
+   dhātu āyatanaṃ|0: ဓာတ် … အာရုံခံ နယ်ပယ်
+   rūpaṃ āyatanaṃ|0: ရုပ်သည် အာရုံခံ နယ်ပယ်
+   ākiñcaññāyatanaṃ|0: ဘာမျှ မရှိသော နယ်ပယ်
+   nevasaññānāsaññāyatanaṃ samāpannassa|0: မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော / သမာပတ်ကို ဝင်စားနေသော … မှတ်သိမှု ရှိသည်လည်း မဟုတ် မှတ်သိမှု မရှိသည်လည်း မဟုတ်သော နယ်ပယ်
+   ākāsānañcāyatanaṃ samāpannassa|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော / အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်ကို ဝင်စားနေသော
+   Cakkhāyatane|0: မျက်စိ အာရုံခံ နယ်ပယ်
+   ākāsānañcāyatanūpagaṃ kammaṃ|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်သို့ ရောက်စေသော ကံ
+   Ākāsānañcāyatanaṃ asaṅkhataṃ|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်သည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   āyatanā|0: အာရုံခံ နယ်ပယ်
+   Pañcevāyatanā kāmā|0: အာရုံခံ နယ်ပယ် ငါးပါးသည်သာ ကာမ
+   āyataniko|0: အာရုံခံ နယ်ပယ် … ရှိသော
+   Cakkhāyatanaṃ rūpaṃ|0: မျက်စိ အာရုံခံ နယ်ပယ်သည် ရုပ်
+   āyatanehi|0: အာရုံခံ နယ်ပယ်
+   cakkhāyatanena|0: မျက်စိ အာရုံခံ နယ်ပယ်
+   anāgatena cakkhāyatanena|0: အနာဂတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   Atītena cakkhāyatanena|0: အတိတ် မျက်စိ အာရုံခံ နယ်ပယ်
+   paccuppannena cakkhāyatanena|0: ပစ္စုပ္ပန် မျက်စိ အာရုံခံ နယ်ပယ်
+   saḷāyatanaṃ|0: အာရုံခံ နယ်ပယ် ခြောက်ပါး
+   cakkhāyatanaṃ uppajjati|0: မျက်စိ အာရုံခံ နယ်ပယ် ဖြစ်ပေါ်သည်
+   jivhāyatanaṃ uppajjati|0: လျှာ အာရုံခံ နယ်ပယ် ဖြစ်ပေါ်သည်
+   ākiñcaññāyatanassa|0: ဘာမျှ မရှိသော နယ်ပယ်
+   Cakkhāyatanaṃ sahajātaṃ|0: မျက်စိ အာရုံခံ နယ်ပယ် … အတူ ပေါ်ပေါက်သော
+== dhāt (58 senses, 41 terms)
+   pathavīdhātu|0: မြေဓာတ်
+   dhātu|0: ဓာတ်
+   dhātu|1: ဘုံ
+   dhātu sanidassanā|0: ဓာတ်သည် မြင်နိုင်သော
+   rūpadhātu|0: အဆင်းအရောင် ဓာတ်
+   rūpadhātu|1: သိမ်မွေ့သော ရုပ်ဘုံ / သိမ်မွေ့သော ရုပ် ဓာတ်
+   arūpadhātu|0: ရုပ်မရှိသော ဘုံ / ရုပ်မရှိသော ဓာတ်
+   dhātuyā|0: ဓာတ်
+   dhātuyā|1: ဘုံ
+   Rūpadhātuyā|0: သိမ်မွေ့သော ရုပ်ဘုံ
+   dhātu upalabbhati|0: ဓာတ် … တွေ့ရသည်
+   dhammadhātu|0: သဘောတရား ဓာတ်
+   Cakkhudhātu|0: မျက်စိ ဓာတ်
+   dhammadhātu upalabbhati|0: သဘောတရား ဓာတ် … တွေ့ရသည်
+   saddadhātu|0: အသံ ဓာတ်
+   Rūpārūpadhātupariyāpannakathā|0: သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်ခြင်းအကြောင်း ဆွေးနွေးချက်
+   rūpārūpadhātu|0: သိမ်မွေ့သော ရုပ် ဓာတ် … ရုပ်မရှိသော ဓာတ်
+   Kāmadhātuyā|0: ကာမဘုံ
+   Arūpadhātuyā|0: ရုပ်မရှိသော ဘုံ
+   dhātuṃ|0: ဓာတ်
+   dhammadhātuṃ|0: သဘောတရား ဓာတ်
+   dhātūnaṃ|0: ဓာတ်
+   Cakkhudhātuṃ|0: မျက်စိ ဓာတ်
+   dibbāya sotadhātuyā|0: နတ်နား ဓာတ်
+   sotadhātuyā|0: နား ဓာတ်
+   dhātuyo|0: ဓာတ်
+   dhātu atthi|0: ဓာတ် ရှိသည်
+   dhātuyo atthi|0: ဓာတ် ရှိသည်
+   cakkhudhātu atthi|0: မျက်စိ ဓာတ် ရှိသည်
+   atītā aṭṭhārasa dhātuyo atthi|0: အတိတ် ဓာတ် ဆယ့်ရှစ်ပါး ရှိသည်
+   dhātu āyatanaṃ|0: ဓာတ် … အာရုံခံ နယ်ပယ်
+   Cakkhudhātuyā|0: မျက်စိ ဓာတ်
+   Pathavīdhātu sanidassanā|0: မြေဓာတ်သည် မြင်နိုင်သော
+   vāyodhātu|0: လေဓာတ်
+   tejodhātu|0: မီးဓာတ်
+   āpodhātu|0: ရေဓာတ်
+   dhātū|0: ဘုံ
+   kāmadhātū|0: ကာမဘုံ
+   rūpadhātū|0: သိမ်မွေ့သော ရုပ်ဘုံ
+   kāmadhātu rūpadhātū|0: ကာမဘုံ … သိမ်မွေ့သော ရုပ်ဘုံ
+   arūpadhātū|0: ရုပ်မရှိသော ဘုံ
+   kāmadhātu arūpadhātū|0: ကာမဘုံ … ရုပ်မရှိသော ဘုံ
+   kāmadhātu|0: ကာမဘုံ
+   kāmadhātu|1: ကာမ ဓာတ်
+   dhātūhi|0: ဓာတ်
+   rūpadhātuṃ|0: သိမ်မွေ့သော ရုပ် ဓာတ်
+   saddadhātuṃ|0: အသံ ဓာတ်
+   arūpadhātuṃ|0: ရုပ်မရှိသော ဓာတ်
+   kāmadhātuṃ|0: ကာမ ဓာတ်
+   Rūparāgo rūpadhātupariyāpanno|0: သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်သော ရာဂသည် သိမ်မွေ့သော ရုပ် ဓာတ်၌ အကျုံးဝင်သော
+   Saddarāgo saddadhātupariyāpanno|0: အသံကို တပ်မက်သော ရာဂသည် အသံ ဓာတ်၌ အကျုံးဝင်သော
+   phoṭṭhabbarāgo phoṭṭhabbadhātupariyāpanno|0: အထိအတွေ့ကို တပ်မက်သော ရာဂသည် အထိအတွေ့ ဓာတ်၌ အကျုံးဝင်သော
+   Arūparāgo arūpadhātupariyāpanno|0: ရုပ်မရှိသော ဘဝကို တပ်မက်သော ရာဂသည် ရုပ်မရှိသော ဓာတ်၌ အကျုံးဝင်သော
+   kāmarāgo kāmadhātupariyāpanno|0: ကာမရာဂသည် ကာမ ဓာတ်၌ အကျုံးဝင်သော
+   Nibbānadhātu|0: နိဗ္ဗာန် ဓာတ်
+   Nibbānadhātu kusalā|0: နိဗ္ဗာန် ဓာတ်သည် ကုသိုလ်
+   tedhātukehi|0: ဘုံ သုံးပါးနှင့် ဆိုင်သော
+   rūpadhātuarūpadhātūpagaṃ kammaṃ|0: သိမ်မွေ့သော ရုပ်ဘုံနှင့် ရုပ်မရှိသော ဘုံသို့ ရောက်စေသော ကံ
+== suññat (5 senses, 4 terms)
+   suññatā|0: ဆိတ်သုဉ်းခြင်း
+   suññato|0: ဆိတ်သုဉ်းသည်
+   suññataṃ|0: ဆိတ်သုဉ်းခြင်း
+   suññataṃ ārabbha|0: ဆိတ်သုဉ်းခြင်းကို အာရုံပြု၍
+   Suññatā saṅkhārakkhandhapariyāpannā|0: ဆိတ်သုဉ်းခြင်းသည် ပြုပြင်ဖန်တီးမှု အစုအဝေး၌ အကျုံးဝင်သော
+== animitt (4 senses, 2 terms)
+   puggalo animitto|0: ပုဂ္ဂိုလ်သည် အမှတ်အသား မရှိသော အရာ
+   animitto|0: အမှတ်အသား မရှိသော
+   animitta|0: အမှတ်အသား မရှိသော
+   Animittaṃ|0: အမှတ်အသား မရှိသော
+== appaṇihit (2 senses, 2 terms)
+   appaṇihita|0: တောင့်တမှု မရှိခြင်း
+   appaṇihito|0: တောင့်တမှု မရှိသော / တောင့်တမှု မရှိခြင်း
+== kiriy (22 senses, 20 terms)
+   dukkhassa antakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း
+   sacchikiriyā|0: မျက်မှောက်ပြုခြင်း
+   sacchikiriyāya|0: မျက်မှောက်ပြု
+   Arahattasacchikiriyāya|0: ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန် / ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်
+   Anāgāmiphalasacchikiriyāya jahati|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … စွန့်ပယ်သည်
+   Jahati anāgāmiphalasacchikiriyāya|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … စွန့်ပယ်သည်
+   Jahati anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို စွန့်ပယ်သည်
+   Vikkhambheti anāgāmiphalasacchikiriyāya|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ဖိနှိပ်ထားသည်
+   Vikkhambheti anāgāmiphalasacchikiriyāya kāmarāgabyāpādaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ကာမရာဂနှင့် ဖျက်ဆီးလိုစိတ်ကို ဖိနှိပ်ထားသည်
+   Arahattasacchikiriyāya samannāgato|0: ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော
+   Anāgāmiphalasacchikiriyāya samannāgato|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော
+   Sakadāgāmiphalasacchikiriyāya samannāgato|0: သကဒါဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … ပြည့်စုံသော
+   anāgāmiphalasacchikiriyāya vimuttaṃ|0: အနာဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော
+   sakadāgāmiphalasacchikiriyāya vimuttaṃ|0: သကဒါဂါမိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော
+   sotāpattiphalasacchikiriyāya vimuttaṃ|0: သောတာပတ္တိဖိုလ်ကို မျက်မှောက်ပြုရန် … လွတ်မြောက်ပြီးသော
+   sotāpattiphalasacchikiriyāya ñāṇaṃ atthi|0: သောတာပတ္တိဖိုလ်ကို မျက်မှောက်ပြုရန် … ဉာဏ် ရှိသည်
+   kiriyā|0: ပြုရုံမျှသာ ဖြစ်သော
+   dukkhassantakiriyā|0: ဒုက္ခ၏ အဆုံးကို ပြုခြင်း
+   Kiriyābyākatā|0: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော
+   kiriyābyākatā dhammā|0: ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … သဘောတရား
+   kiriyamaye|0: ကြိယာ
+   kiriyābyākate|0: ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ
+== somanass (6 senses, 4 terms)
+   somanassindriyaṃ|0: ဝမ်းမြောက်မှု၏ စွမ်းရည်
+   somanassa|0: ဝမ်းမြောက်မှု
+   somanassaṃ|0: ဝမ်းမြောက်မှု
+   tappaṭisaññuttaṃ somanassaṃ|0: ထိုအရာနှင့် စပ်ယှဉ်သော ဝမ်းမြောက်မှု
+   tappaṭisaṃyuttaṃ somanassaṃ|0: ထိုအရာနှင့် စပ်ယှဉ်သော ဝမ်းမြောက်မှု
+   somanassāya|0: ဝမ်းမြောက်ခြင်း
+== ākās (9 senses, 7 terms)
+   ākāsa|0: ဟင်းလင်းပြင်
+   ākāso|0: ဟင်းလင်းပြင်
+   Ākāso sanidassano|0: ဟင်းလင်းပြင်သည် မြင်နိုင်သော
+   ākāsānañca|0: အဆုံး မရှိသော ဟင်းလင်းပြင်
+   ākāsānañcāyatanaṃ samāpannassa|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော / အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်ကို ဝင်စားနေသော
+   ākāsānañcāyatanūpagaṃ kammaṃ|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်သို့ ရောက်စေသော ကံ
+   Ākāsānañcāyatanaṃ asaṅkhataṃ|0: အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်သည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   ākāso asaṅkhato|0: ဟင်းလင်းပြင်သည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   Ākāsaṃ|0: ဟင်းလင်းပြင်
+== para (18 senses, 18 terms)
+   paramattho|0: အဆုံးစွန် အရာ
+   saccikaṭṭhaparamatthena|0: အမှန်တကယ် အဆုံးစွန် အနက်
+   parama|0: အဆုံးစွန်
+   paramatthena|0: အဆုံးစွန် အနက်
+   para|0: သူတစ်ပါး / အခြားသူ / ပရ / အခြား
+   para|1: ကျော်
+   puthujjanassa paravitāraṇā|0: ပုထုဇဉ်၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း
+   arahato paravitāraṇā|0: ရဟန္တာ၌ သူတစ်ပါးက ရှင်းပြပေးခြင်း
+   Sadhammakusalassa paravitāraṇā|0: မိမိ၏ အရာ၌ ကျွမ်းကျင်သော … သူတစ်ပါးက ရှင်းပြပေးခြင်း
+   paramaṃ|0: အမြတ်ဆုံး
+   parakataṃ sukhadukkhaṃ|0: သူတစ်ပါး ပြုသော ချမ်းသာ ဆင်းရဲ / သုခ ဒုက္ခ … သူတစ်ပါး ပြုထားသော
+   parato|0: သူစိမ်း
+   sattakkhattuparamatāniyato|0: အများဆုံး ခုနစ်ကြိမ်သာ ပြန်လည် ဖြစ်ပေါ်သူ၏ အဖြစ်၌ ကျိန်းသေသော
+   paramāni|0: အကြီးဆုံး
+   paraṅkataṃ dukkhaṃ|0: သူတစ်ပါး ပြုထားသော … ဒုက္ခ
+   parassa niggaṇhāti|0: အခြားသူ … ချုပ်ကိုင်သည်
+   parassa paggaṇhāti|0: အခြားသူ … မြှင့်တင်သည်
+   parampara|0: အဆင့်ဆင့်
+== paṭicc (17 senses, 13 terms)
+   paṭicca|0: အကြောင်းတို့ကို မှီ၍ / မှီ၍
+   paṭiccasamuppāda|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံ
+   paṭiccasamuppannaṃ|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannā|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭiccasamuppanno|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭicca uppajjati|0: မှီ၍ … ဖြစ်ပေါ်သည် / မှီ၍ ဖြစ်ပေါ်သည်
+   idappaccayatāpaṭiccasamuppannesu|0: ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံနှင့် အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭiccasamuppannesu|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော
+   paṭicca dhammesu|0: အကြောင်းတို့ကို မှီ၍ … သဘောတရား
+   paṭiccasamuppannesu dhammesu|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်လာသော သဘောတရား
+   Paṭiccasamuppādo asaṅkhato|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော
+   paṭiccasamuppādo|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံ
+   Paṭiccasamuppādo saṅkhato|0: အကြောင်းတို့ကို မှီ၍ ဖြစ်ပေါ်ပုံသည် ပြုပြင်ဖန်တီးထားသော
+   paṭicca uppajjati cakkhuviññāṇaṃ|0: မှီ၍ မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati sotaviññāṇaṃ|0: မှီ၍ နား သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati kāyaviññāṇaṃ|0: မှီ၍ ကိုယ် သိစိတ် ဖြစ်ပေါ်သည်
+   paṭicca uppajjati jivhāviññāṇaṃ|0: မှီ၍ လျှာ သိစိတ် ဖြစ်ပေါ်သည်

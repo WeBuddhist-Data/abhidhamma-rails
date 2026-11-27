@@ -1,0 +1,4 @@
+wrote 80 lines -> sample-senses.md
+input headwords: 80 (NDE-only omitted: 0) | expected lines: 80 | output lines: 80
+senses: 90 | headwords with >1 sense: 9 | senses with >1 candidate: 10
+VERIFY OK: headwords equal and in order, no duplicates, all attested values present

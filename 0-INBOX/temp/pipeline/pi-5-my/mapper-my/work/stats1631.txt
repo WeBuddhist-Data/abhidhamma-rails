@@ -1,0 +1,312 @@
+uses 10687 same 4793 new 4835 diff 1059 keywords diff 248
+sources [('table', 3288), ('pi-2', 3012), ('frame', 1778), ('compose', 808), ('stock', 479), ('group', 429), ('terms', 273), ('pi-4', 237), ('ch1', 124), ('pi-1', 119), ('ctx', 73), ('pi-3', 64), ('neg', 3)]
+NONE 61
+  N 16-atthamavaggo 5-503 āvāha
+  N 16-atthamavaggo 5-519 bhāvo
+  N 16-atthamavaggo 5-523 bhāvo
+  N 16-atthamavaggo 5-525 sabbattha
+  N 16-atthamavaggo 5-539 potaliputtassa
+  N 16-atthamavaggo 5-543 sañña
+  N 16-atthamavaggo 5-545 vattabbe
+  N 17-navamavaggo 5-556 jano
+  N 17-navamavaggo 5-557 aṅgo
+  N 18-dasamavaggo 5-587 jano
+  N 19-ekadasamavaggo 5-606 jano
+  N 19-ekadasamavaggo 5-608 jano
+  N 19-ekadasamavaggo 5-613 jano
+  N 19-ekadasamavaggo 5-616 aṅgo
+  N 19-ekadasamavaggo 5-621 bhāva
+  N 20-dvadasamavaggo 5-642 aṅgā
+  N 20-dvadasamavaggo 5-643 aṅgā
+  N 20-dvadasamavaggo 5-649 yaṃ
+  N 21-terasamavaggo 5-661 abhabbo
+  N 21-terasamavaggo 5-663 aṅgaṃ
+  N 22-cuddasamavaggo 5-692 nibbattati
+  N 22-cuddasamavaggo 5-692 Yaṃ
+  N 22-cuddasamavaggo 5-701 jano
+  N 22-cuddasamavaggo 5-708 yaṃ
+  N 22-cuddasamavaggo 5-709 aṅgo
+  N 22-cuddasamavaggo 5-710 jano
+  N 23-pannarasamavaggo 5-23-10-1-0 sañña
+  N 23-pannarasamavaggo 5-724 aṅgo
+  N 23-pannarasamavaggo 5-726 aṅgo
+  N 23-pannarasamavaggo 5-726 aṅgānaṃ
+  N 23-pannarasamavaggo 5-728 aṅgo
+  N 24-solasamavaggo 5-743 aṅgaṃ
+  N 24-solasamavaggo 5-745 aṅgaṃ
+  N 24-solasamavaggo 5-748 upame
+  N 25-sattarasamavaggo 5-780 Yo
+  N 25-sattarasamavaggo 5-798 viharanti
+  N 27-ekunavisatimavaggo 5-847 janassa
+  N 27-ekunavisatimavaggo 5-848 janassa
+  N 27-ekunavisatimavaggo 5-851 kho
+  N 27-ekunavisatimavaggo 5-851 janassa
+  N 27-ekunavisatimavaggo 5-856 dvākāre
+  N 27-ekunavisatimavaggo 5-856 duviññāpaye
+  N 27-ekunavisatimavaggo 5-856 janassa
+  N 28-visatimavaggo 5-857 jīvitā
+  N 28-visatimavaggo 5-858 jīvitā
+  N 28-visatimavaggo 5-859 jīvitā
+  N 28-visatimavaggo 5-863 janassa
+  N 28-visatimavaggo 5-864 janassa
+  N 28-visatimavaggo 5-865 janassa
+  N 28-visatimavaggo 5-868 karonti
+  N 28-visatimavaggo 5-877 janassa
+  N 29-ekavisatimavaggo 5-878 aṅgā
+  N 29-ekavisatimavaggo 5-879 jano
+  N 29-ekavisatimavaggo 5-880 jano
+  N 29-ekavisatimavaggo 5-884 pana
+  N 29-ekavisatimavaggo 5-885 aṅga
+  N 29-ekavisatimavaggo 5-886 mātā
+  N 29-ekavisatimavaggo 5-891 jano
+  N 30-bavisatimavaggo 5-901 hareyya
+  N 31-tevisatimavaggo 5-908 hātabbaṃ
+  N 31-tevisatimavaggo 5-909 haranti
+D|kathā|ဆွေးနွေးချက် (290)|ဆွေးနွေးခြင်း ; စကား|present|16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+D|vata|အမှန်ပင် (171)|အကျင့်ဝတ်|absent|16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+D|paṇidhi|ဆုတောင်းခြင်း (33)|စိတ်ညွှတ်ခြင်း|absent|16,17,18,20,22,24,26,27
+D|samodhānaṃ|ပေါင်းဆုံခြင်း (13)|ပေါင်းစည်းခြင်း|absent|17,18,21,24,26,27
+D|samāpatti|ဈာန် ဝင်စားခြင်း (7) ; သမာပတ် (6)|ဈာန် ဝင်စားရာ ; ဈာန် ဝင်စားမှု|absent|22,23,24
+D|samuṭṭhitaṃ|ဖြစ်ပေါ်သော (12)|ကောင်းစွာ ထပေါ်ပြီးသော|absent|16
+D|dhammo|တရား (6) ; သဘောတရား (5) ; အကျင့် (1)|သဘော ရှိသော|present|18,21,26,27,31
+D|vedayita|ခံစားရခြင်း (12)|ခံစားမှု|absent|23
+D|atta|ကိုယ် (11)|အတ္တ ; မိမိ|absent|16,19
+D|yoni|မွေးဖွားရာ အမျိုးအစား (9) ; မွေးဖွားရာ (1)|ဘဝ|absent|16,30
+D|jano|(no direct equivalent) (10)|လူ|absent|17,18,19,22,29
+D|eka|တစ်ပါး (5) ; တစ်ခု (2) ; တစ် (1) ; တူညီသော (1)|တစ်မျိုးတွဲ ; တစ်စေ့|absent|25,26,30,31
+D|antarā|ကြား (8)|သက်တမ်း၏ အလယ်သို့ မရောက်မီ ; ကြားညှပ်|absent|16,20
+D|attabhāva|ကိုယ်ခန္ဓာ (8)|မိမိ ကိုယ်ခန္ဓာ|absent|16,19
+D|jāto|ပေါ်ပေါက်သော (6) ; ဖွားမြင်တော်မူခဲ့သော (1) ; ဖွားမြင်တော်မူသော (1)|မွေးဖွားသော ; မွေးဖွားလာသော|absent|22,23,24,26
+D|janassa|(no direct equivalent) (8)|လူ|absent|27,28
+D|koci|တစ်စုံတစ်ယောက် (7)|တစ်စုံတစ်ရာ|present|17,19,22,25,29
+D|arahatta|ရဟန္တာ အဖြစ် (7)|ရဟန္တာ ; အရဟတ္တ|present|20,29,30
+D|dakkhiṇaṃ|အလှူ (7)|တောင်|absent|25
+D|ṭhiti|တည်ရာ (6)|တည်တံ့ခြင်း|absent|16
+D|diṭṭhadhamma|ယခုဘဝ (6)|မျက်မှောက်ဘဝ|absent|22,24
+D|paccayatā|အကြောင်းဖြစ်ခြင်း (4) ; အကြောင်းဖြစ်ပုံ (2)|ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ|absent|23,30
+D|bhagavā|မြတ်စွာဘုရား (6)|ဘုန်းတော်ရှင်|absent|24,25,26,29,30
+D|asuci|မစင်ကြယ်သော သုက်ထွက်ခြင်း (4) ; မစင်ကြယ်သော သုက် (1)|စင်ကြယ်မှု မရှိသော|absent|16,30
+D|maggaṃ bhāveti|မဂ်ကို ပွားများသည် (5)|လမ်းကို ပွားများသည်|absent|18,24,28
+D|buddha|ဘုရား (5)|မြတ်စွာဘုရား|absent|20,27,29,30
+D|āneñja|မတုန်လှုပ်သော (2) ; မတုန်မလှုပ်သော (2) ; အာနေဉ္ဇသပ္ပာယ (1)|မတုန်လှုပ်ခြင်း|absent|21,25,27,30
+D|nirodhaṃ|ချုပ်ငြိမ်းရာ ဈာန် (3) ; ချုပ်သော (2)|ချုပ်ငြိမ်းခြင်း|absent|23,24,26
+D|gāma|ရွာ (5)|ရွာသား|absent|25,26,30,31
+D|Yaṃ kiñci|မှန်သမျှ (4)|မည်သည့် … မဆို|absent|16
+D|samāpannassa|ဝင်စားနေသော (4)|ဈာန် ဝင်စားသော ; ဝင်စားသော|absent|16,23,26
+D|gacchati|သွားသည် (3) ; ရောက်သည် (1)|လိုက်သည် ; ရသည်|present|17,28,31
+D|niruddhe|ချုပ်ငြိမ်းသော (2) ; ချုပ်ငြိမ်းပြီးသော (2)|ချုပ်ငြိမ်းသွားသော|absent|18
+D|jāti|ဖြစ်ခြင်း (3) ; မျိုး (1)|မွေးဖွားခြင်း ; ဇာတိ|absent|19,23,26
+D|Rūpataṇhā|အဆင်းအရောင်ကို တပ်မက်မှု (4)|သိမ်မွေ့သော ရုပ်ဘဝကို တပ်မက်မှု|absent|21
+D|anantara|ချက်ချင်း နောက်၌ ဖြစ်စေသော (4)|နောက်ဆက်တွဲ|absent|22,23
+D|nirodho|ချုပ်သော (4)|ချုပ်ငြိမ်းခြင်း|absent|22,24
+D|vihāro|နေခြင်း (4)|နေထိုင်မှု|absent|22,24
+D|sukha|သုခ (4)|သာယာမှု ; လွယ်ကူသော|absent|24,25
+D|sukhaṃ|သုခ (4)|သာယာမှု ; သာယာသော|present|24
+D|paṭiggaṇhāti|ခံယူသည် (4)|လက်ခံသည်|absent|25
+D|virāga|ပြယ်ပျောက် (4)|ပြယ်ပျောက်ခြင်း ; ကင်းပြတ်|absent|25,27,31
+D|khettaṃ|လယ်မြေ (4)|လယ်ကွင်း|absent|25
+D|yugā|အစုံ (4)|အတွဲ|absent|25
+D|purisayugā|လူ အစုံ (4)|လူ အတွဲ|absent|25
+D|anuttaraṃ|အမြတ်ဆုံး (4)|ထိုထက် သာလွန်သည် မရှိသော|absent|25
+D|buddhānaṃ|ဘုရား (4)|ဘုရားရှင်|absent|29
+D|katvā|ပြု၍ (2) ; အကြောင်းပြု၍ (1)|စောင့်ထိန်း၍|absent|16,23
+D|karaṇaṃ|ပြုတတ်သော (2) ; ကွဲပြားစေတတ်သော (1)|ပြုလုပ်ခြင်း|absent|17,25
+D|jātā|ပေါ်ပေါက်သော (2) ; ဖြစ်ပေါ်သော (1)|မွေးဖွားပြီးသော ; မွေးဖွားသော|absent|17,23,25
+D|manasikārā|နှလုံး သွင်း (3)|နှလုံး သွင်းခြင်း ; နှလုံးသွင်းခြင်း|absent|18
+D|santati|အစဉ် (3)|ဆက်လက်ဖြစ်ပေါ်ခြင်း|absent|19
+D|assa|မြင်း (3)|ထိုသူ|absent|20,28
+D|buddho|ဘုရား (2) ; ဘုရားရှင် (1)|နားလည်အပ်သော|absent|21,26,29
+D|dānaṃ|ဒါန (3)|အလှူ ; ပေးလှူခြင်း|absent|21,25
+D|gandhaṃ|နံ့သာ (3)|အနံ့|absent|21,25,30
+D|kusalaṃ cittaṃ|ကုသိုလ် စိတ် (3)|ကုသိုလ်စိတ်|absent|21
+D|aṅgaṃ|(no direct equivalent) (3)|အင်္ဂါ|absent|21,24
+D|hīna|ယုတ်ခြင်း (2) ; ချို့ယွင်းသော (1)|ယုတ်ညံ့သော|absent|22,29
+D|sassato|ထာဝရ တည်မြဲသော (3)|ထာဝရ တည်မြဲသည် ; ထာဝရ တည်သော|present|22,31
+D|arūpadhātu|ရုပ်မရှိသော ဓာတ် (3)|ရုပ်မရှိသော ဘုံ|absent|24
+D|bhūtā|ဖြစ်စေနိုင်သော (2) ; ဓာတ်ကြီး (1)|မူလဓာတ်|present|24
+D|jīvitā|(no direct equivalent) (3)|အသက်|absent|28
+D|saññī|မှတ်ထင်သော (3)|မှတ်သိသော ; မှတ်သိမှု ရှိသော|absent|28
+D|pañcaṅgiko maggo|မဂ်သည် အင်္ဂါ ငါးပါး ရှိသော (3)|အင်္ဂါ ငါးပါး ရှိသော မဂ်|present|28
+D|pisuṇaṃ|ကုန်းချောစကား (3)|ကုန်းတိုက်သော စကား|absent|30,31
+D|dukkhā|ဆင်းရဲ (2)|နာကျင်သော ; ဒုက္ခ|present|16,28
+D|manāpā|နှစ်သက်ဖွယ် ကောင်းသော (2)|စိတ်တွေ့သော ; စိတ်နှင့် တွေ့သော|absent|16
+D|iṭṭhā|လိုလားဖွယ် ကောင်းသော (2)|လိုလားဖွယ်ကောင်းသော|absent|16
+D|kantā|ချစ်ခင်ဖွယ် ကောင်းသော (2)|ချစ်ခင်ဖွယ်ကောင်းသော ; နှစ်သက်သော|absent|16
+D|bhāvo|(no direct equivalent) (2)|သဘော|absent|16
+D|sabbattha|(no direct equivalent) (1) ; နေရာတိုင်း (1)|ဘုံ အားလုံး|absent|16,28
+D|dukkhaṃ|ဆင်းရဲ (2)|နာကျင်မှု ; ဒုက္ခ|present|16,23
+D|bhijjati|ပျက်သည် (2)|ပြိုကွဲသည်|absent|16,23
+D|dassāvī|ရှုမြင်သော (2)|မြင်လေ့ရှိသော|absent|17
+D|ñāṇa|သိခြင်း (2)|ဉာဏ်|absent|17
+D|micchā|မှားသည် (2)|မှားယွင်းသော|absent|17
+D|kāmo|လို (2)|ကာမ|absent|17
+D|pātubhūtaṃ|ထင်ရှား ပေါ်ပေါက်သော (2)|ထင်ရှားလာပြီးသော|absent|17,27
+D|nibbattaṃ|ဖြစ်မြောက်သော (1) ; ဖြစ်ထွန်းသော (1)|ပေါ်ထွက်ပြီးသော|absent|17,27
+D|dussilyaṃ|သီလ ပျက်ခြင်း (2)|သီလ ဖောက်ဖျက်မှု|absent|18
+D|aniccatā|မမြဲခြင်း သဘော (2)|မမြဲခြင်း|present|19
+D|pādā|ခြေ (2)|ပါဒ်|absent|19,22
+D|upādā|စွဲလမ်းမှု (2)|မူလဓာတ်ကြီးများကို မှီ၍ ဖြစ်သော|absent|19
+D|sattama|ခုနစ်ကြိမ်မြောက် (2)|သတ္တမ|absent|20
+D|asaṃvaro|မစောင့်စည်းမှု (2)|မစောင့်စည်းခြင်း|absent|20
+D|katānaṃ|ပြုခဲ့ (2)|ပြုခဲ့သော|absent|20,25
+D|yaṃ|(no direct equivalent) (2)|ရှိသမျှ|absent|20,22
+D|amanussa|လူ မဟုတ်သော (2)|လူ မဟုတ်သူ|absent|20
+D|rato|မွေ့လျော်သော (2)|ပျော်ပိုက်သော|absent|21,28
+D|pajānāti|သိသည် (2)|ကွဲပြားစွာ သိသည် ; သိတော်မူသည်|absent|21,24
+D|rāgo|တပ်မက်မှု (2)|ရာဂ|absent|21
+D|yaṃ kiñci|အကြင် (1) ; ဟူသမျှ (1)|မည်သည့် … မဆို|absent|21,22
+D|avihiṃsā|မညှဉ်းပန်းခြင်း (2)|ညှဉ်းပန်းမှု မရှိခြင်း|absent|22
+D|abyāpāda|မဖျက်ဆီးလိုခြင်း (2)|ဖျက်ဆီးလိုစိတ် မရှိခြင်း|absent|22
+D|aññamañña|အချင်းချင်း (2)|အချင်းချင်း အကြောင်းဖြစ်ခြင်း|absent|23
+D|Paccayatā|အကြောင်းဖြစ်ပုံ (2)|ဤအကြောင်းကြောင့် ဤအကျိုး ဖြစ်ပုံ|absent|23
+D|satthaṃ|လက်နက် (2)|ဓား|absent|23,25
+D|pāpaṃ|ယုတ်မာမှု (2)|ယုတ်မာသော|absent|24
+D|vihāraṃ|နေခြင်း (2)|နေထိုင်ရန်|absent|24
+D|sukhavihāraṃ|ချမ်းသာစွာ နေခြင်း (2)|သာယာစွာ နေထိုင်ရန် ဖြစ်သော|absent|24
+D|rūpadhātu|သိမ်မွေ့သော ရုပ် ဓာတ် (2)|အဆင်းအရောင် ဓာတ် ; သိမ်မွေ့သော ရုပ်ဘုံ|absent|24
+D|seṭṭho|မြတ်သော (1) ; အမြတ်ဆုံး (1)|အကောင်းဆုံး|absent|25,28
+D|Buddho|ဘုရားရှင် (2)|နားလည်အပ်သော|absent|26
+D|jāte|မျိုး (2)|တစ်မျိုးတည်းမှ ဖြစ်သော|absent|26
+D|saraṇaṃ|ကိုးကွယ်ရာ (2)|ပဋိပက္ခ ရှိသော|absent|27
+D|nimuggo|နစ်မြုပ်သော (2)|နစ်နေသော|absent|27
+D|Pañcaṅgiko maggo|မဂ်သည် အင်္ဂါ ငါးပါး ရှိသော (2)|အင်္ဂါ ငါးပါး ရှိသော မဂ်|present|28
+D|dhammā niyatā|သဘောတရား … ကျိန်းသေသော (2)|ကျိန်းသေသော သဘောတရား|present|29
+D|dhammaṃ|အကျင့် (2)|သဘောတရား ; တရား|absent|30,31
+D|Dukkhaṃ|ဆင်းရဲ (2)|နာကျင်မှု ; ဒုက္ခ|present|31
+D|āhārā|အစာ (1)|အာဟာရ|absent|16
+D|kāyo|အပေါင်း (1)|ကိုယ် ; စိတ်၏ အဖော်တို့|absent|16
+D|sāvaka|သာဝက (1)|တပည့်|absent|16
+D|purisassa|ယောကျ်ား (1)|ယောက်ျား|absent|16
+D|dhīrā|ပညာရှိ (1)|ပညာရှိသော|absent|16
+D|rūpino dhammā|ရုပ် … သဘောတရား (1)|ရုပ် ဖြစ်သော သဘောတရား|present|16
+D|su|မွှေးသော (1)|ကောင်းစွာ|absent|16
+D|puriso|ယောကျ်ား (1)|အမျိုးသား ; သူတော်ကောင်း|absent|16
+D|samiddhi|သမိဒ္ဓိ (1)|ကောင်းစွာ ပြည့်စုံခြင်း|absent|16
+D|sattānaṃ|အသညသတ် (1)|သတ္တဝါ|absent|16
+D|avaseso|အကြွင်း (1)|ကြွင်းကျန်သော|absent|16
+D|phalā|ဖိုလ် (1)|အသီးအပွင့်|absent|16
+D|uppāda|ထွက်စေခြင်း (1)|ဖြစ်ပေါ်ခြင်း|absent|16
+D|vāda|ပြောခြင်း (1)|ဝါဒ|absent|16
+D|ādāna|ယူခြင်း (1)|ကိုင်ခြင်း|absent|16
+D|pahīyanti|ပယ်ခံရသည် (1)|ပျောက်ကင်းသည်|absent|17
+D|attato|အတ္တ (1)|အတ္တဟု|present|17
+D|samitaṃ|အစဉ်တစိုက် (1)|ငြိမ်းသော|absent|17
+D|Sabbaso|အခါခပ်သိမ်း (1)|အလုံးစုံ|absent|17
+D|uppādā|ဖြစ်ပေါ်သော (1)|ဖြစ်ပေါ်မှု ; ဖြစ်ပေါ်ရာ|absent|17
+D|aññaṃ|အခြား (1)|တခြားစီ ; တခြား|absent|17
+D|vipariṇataṃ|ဖောက်ပြန်ပြောင်းလဲပြီးသော (1)|ဖောက်ပြန် ပြောင်းလဲပြီးသော|present|17
+D|abbhatthaṅgataṃ|လုံးဝ ကွယ်ပြီးသော (1)|လုံးဝ ကွယ်ပျောက်ပြီးသော|absent|17
+D|abhinibbattaṃ|ထင်ရှားစွာ ဖြစ်မြောက်သော (1)|ထင်ရှားစွာ ပေါ်ထွက်ပြီးသော|absent|17
+D|vigataṃ|ကင်းကွာပြီးသော (1)|ကင်းပျောက်ပြီးသော|absent|17
+D|sabbaso|အခါခပ်သိမ်း (1)|အလုံးစုံ|absent|17
+D|jhāyī|ဈာန်ဝင်သော (1)|ဈာန်ဝင်စားသူ|absent|17
+D|lābhī|ရသော (1)|ရရှိသော|absent|17
+D|iṭṭha|လိုလားအပ်သော (1)|လိုလားဖွယ်|absent|18
+D|Aniṭṭha|မလိုလားအပ်သော (1)|မလိုလားဖွယ်|absent|18
+D|gāmino|သွားသော (1)|ရောက်သော|absent|18
+D|kammaṃ|ပြုမူခြင်း (1)|ပြုခြင်း ; ကံ|absent|18
+D|āsana|နေရာ (1)|ထိုင်ခုံ|absent|18
+D|Dussilyaṃ|သီလ ပျက်ခြင်း (1)|သီလ ဖောက်ဖျက်မှု|absent|18
+D|avasesaṃ|အကြွင်း (1)|ကြွင်းကျန်သော|absent|19
+D|ekanta|တစ်ထစ်ချ (1)|လုံးဝ ; စင်စစ်|absent|19
+D|Eka|တစ် (1)|တစ်မျိုးတွဲ ; တစ်စေ့|absent|19
+D|Aniccatā|မမြဲခြင်း သဘော (1)|မမြဲခြင်း|present|19
+D|bhedo|ပြိုပျက်ခြင်း (1)|ကွဲခြင်း ; ကွဲထွက်ခြင်း|absent|19
+D|Asaṃvaro|မစောင့်စည်းမှု (1)|မစောင့်စည်းခြင်း|absent|20
+D|bhāṇī|ပြောဆိုသော (1)|စကားပြောသော|absent|20
+D|anāgāmi|အနာဂါမ် (1)|အနာဂါမိ|absent|20
+D|sakadāgāmi|သကဒါဂါမ် (1)|သကဒါဂါမိ|absent|20
+D|sikkhāya|သိက္ခာ (1)|ကျင့်စဉ်|absent|20
+D|ṭhita|တည်မြဲသော (1)|တည်ငြိမ်သော ; တည်နေစေသော|absent|20
+D|vādī|တစ်ဖက်သား (1)|ပြောသော|absent|20
+D|rāga|တပ်မက်မှု (1)|ရာဂ|absent|21
+D|vagga|ဝဂ် (1)|ဂိုဏ်းဖွဲ့၍|absent|21
+D|vuṭṭhānaṃ|ထမြောက်ရန် (1)|ထမြောက်ခြင်း|absent|21
+D|uppāditaṃ|ဖြစ်ပေါ်စေခဲ့ပြီးသော (1)|ထွက်စေအပ်သော|absent|21
+D|paṭivinodetvā|ပယ်ဖျောက်၍ (1)|ဖယ်ရှားပြီး|present|21
+D|okkamituṃ|မသက်ဆင်းနိုင် (1)|သက်ဆင်းရန်|absent|21
+D|Niyato|လမ်းကြောင်း သေချာပြီးသော (1)|ကျိန်းသေသော ; လမ်းကြောင်း ကျိန်းသေသူ|absent|21
+D|Micchattaniyato|မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော (1)|မှားယွင်းမှု၌ ကျိန်းသေသော|absent|21
+D|niyato|လမ်းကြောင်း သေချာပြီးသော (1)|ကျိန်းသေသော ; လမ်းကြောင်း ကျိန်းသေသူ|absent|21
+D|mahā|မဟာ (1)|မြတ်သော|absent|21
+D|sīsaṃ|ဦးခေါင်း (1)|ရှေ့တန်း|absent|22
+D|saṇṭhāti|တည်သည် (1)|တည်နေသည်|absent|22
+D|yāpeti|အသက် မွေးသည် (1)|မျှတစေသည် ; ဆက်လက် ရှင်သန်စေသည်|absent|22
+D|Yaṃ|(no direct equivalent) (1)|ရှိသမျှ|absent|22
+D|akusalaṃ cittaṃ|အကုသိုလ် စိတ် (1)|အကုသိုလ်စိတ်|absent|22
+D|ahitāya|အစီးအပွား မဖြစ်ဖွယ်ရာ (1)|အစီးအပွား မရှိခြင်း|absent|22
+D|dukkhāya|ဆင်းရဲဖွယ်ရာ (1)|နာကျင်သော ; ဆင်းရဲခြင်း|absent|22
+D|abyākatā dhammā|ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … သဘောတရား (1)|ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား|present|23
+D|aṅgānaṃ|(no direct equivalent) (1)|အင်္ဂါ|absent|23
+D|jātaṃ|ပေါ်ပေါက်သော (1)|ဖြစ်ပေါ်သော ; မွေးဖွားပြီးသော|absent|23
+D|kappo|ကမ္ဘာ (1)|သင့်လျော်သည်|absent|23
+D|mano|စိတ် (1)|မနော|absent|23
+D|upapajjati|ပြန်လည် ဖြစ်ပေါ်သည် (1)|ရောက်ရသည်|absent|23
+D|Yo|(no direct equivalent) (1)|ရှိသမျှ ; အကြင်|absent|25
+D|vattati|ဖြစ်သည် (1)|လည်ပတ်သည် ; ဖြစ်ပေါ်သည်|absent|25
+D|pariññāya|ပိုင်းခြား သိရန် (1)|ပိုင်းခြား သိ၍|present|25
+D|ṭhitā|တည်ပြီးသော (1)|တည်နေသော|absent|25
+D|appameyyo|အတိုင်းအဆ မရှိသော (1)|ချိန်ဆ၍ မရနိုင်သူ|absent|25
+D|uddissa|ရည်စူး၍ (1)|ရည်ရွယ်၍|absent|25
+D|ṭhānaṃ|ဌာန (1)|အကြောင်း ; နေရာ|absent|25
+D|samāhito|ပြည့်စုံသော (1)|တည်ကြည်သော|absent|25
+D|paṭipannā|ကျင့်ကြံဆဲသော (1)|ကျင့်ကြံသော|absent|25
+D|Vineyya|ဖယ်ရှား၍ (1)|ပယ်ဖျောက်၍ ; ပယ်ဖျောက်လျက်|absent|25
+D|pavaro|အထူးမြတ်ဆုံး (1)|အမွန်မြတ်ဆုံး|present|25
+D|veḷu|ဝေဠုဝန် (1)|ဝါး|absent|26
+D|dhamma|ဓမ္မ (1)|သဘောတရား ; တရား|absent|26
+D|vihāra|ကျောင်း (1)|နေထိုင်ရာ ; ဗြဟ္မစိုရ်|absent|26
+D|cakkaṃ|စကြာ (1)|တရားစက်|absent|26
+D|viharati|နေတော်မူသည် (1)|နေသည်|absent|26
+D|dullabhā|ရှားပါးသော (1)|ရခဲသော|absent|26
+D|abhiññāya|ထူးကဲစွာ သိ၍ (1)|ထူးကဲစွာ သိခြင်း|absent|26
+D|samāpattiṃ|သမာပတ် (1)|ဈာန် ဝင်စားရာ ; ဈာန်|absent|26
+D|Bhagavā|မြတ်စွာဘုရား (1)|ဘုန်းတော်ရှင်|absent|26
+D|niruddhaṃ|ချုပ်ငြိမ်းပြီး (1)|ချုပ်ငြိမ်းပြီးသော|absent|26
+D|paṭivijānāti|ခွဲခြား သိသည် (1)|ပိုင်းခြား၍ သိသည်|absent|26
+D|patigādha|ခြေကုတ်ရာ မြေ (1)|ခြေကုပ်ရာ|absent|27
+D|viloketi|ဝေ့ဝဲ ကြည့်သည် (1)|ပတ်ဝန်းကျင်ကို ကြည့်သည် ; ဘေးသို့ ကြည့်သည်|absent|27
+D|dvākāre|(no direct equivalent) (1)|အခြင်းအရာ ဆိုးသော|absent|27
+D|raja|မြူ (1)|ဖုန်လုံး ; မြူမှုန်|absent|27
+D|suviññāpaye|သိအောင် ပြရ လွယ်ကူသော (1)|သိအောင် ပြောပြရ လွယ်သော|absent|27
+D|duviññāpaye|(no direct equivalent) (1)|သိအောင် ပြောပြရ ခက်သော|absent|27
+D|viññāpaye|သိအောင် ပြရ (1)|သိအောင် ပြောပြရ|absent|27
+D|voropitā|သတ်ခဲ့ပြီးသော (1)|ချခံရသော|absent|28
+D|Vagga|ဝဂ် (1)|ဂိုဏ်းဖွဲ့၍|absent|28
+D|tiriyaṃ|ဘေး (1)|ဖီလာ|absent|28
+D|bandhanaṃ|အနှောင် (1)|အချည်အနှောင်|absent|28
+D|pāde|ခြေ (1)|ခြေတစ်ဖက်|absent|28
+D|kaṭukā|ခါးသက်သော (1)|နာကျင်စေသော ; ခါးသက်စေသော|absent|28
+D|pharitvā|ပျံ့နှံ့၍ (1)|ပျံ့နှံ့စေ၍|absent|28
+D|tiṭṭhati|တည်နေသည် (1)|ရပ်တည်နေသည် ; တည်သည်|absent|28
+D|makkhikā|ယင် (1)|ယင်ကောင်|absent|28
+D|yuttaṃ|ကပ်ထားသော (1)|သင့်လျော်စွာ|absent|28
+D|seyyathidaṃ|ယင်းမှာ (1)|ဆိုလိုသည်မှာ|absent|28
+D|pāripūriṃ|ပြည့်စုံခြင်း (1)|ပြည့်စုံမှု ; ကိုယ်အင်္ဂါ ပြည့်စုံခြင်း|absent|28
+D|para|အခြား (1)|သူတစ်ပါး ; ပရ|absent|28
+D|nicca|အမြဲ (1)|မြဲသော|absent|29
+D|pana|(no direct equivalent) (1)|တစ်ဖန်|absent|29
+D|aṅga|(no direct equivalent) (1)|အင်္ဂါ|absent|29
+D|upaṭṭhāko|အလုပ်အကျွေး (1)|လုပ်ကျွေးပြုစုသူ|absent|29
+D|pattaṃ|သပိတ် (1)|ရောက်|absent|29
+D|buddhā|ဘုရား (1)|ဘုရားရှင်|absent|29
+D|dhāreti|ဆောင်သည် (1)|ဝတ်သည်|absent|29
+D|mātā|(no direct equivalent) (1)|အမိ ; မိခင်|absent|29
+D|dha|သဘောတရားများကို စုစည်းရေတွက်ခြင်း (1)|“ဓမ္မပဒ”|absent|29
+D|upaṭṭhita|ထင်ရှား တည်သော (1)|တည်နေသော|absent|30
+D|kiriyābyākate|ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ (1)|ပြုရုံမျှသာ ဖြစ်သော ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော သဘောတရား|absent|30
+D|samanantarā|ချက်ချင်း (1)|ချက်ချင်း နောက်၌ ; အခြားမဲ့|absent|30
+D|ratta|ညဉ့်ဦးယံ ညဉ့်နောက်ယံ (1)|ညဉ့်အခါ|absent|30
+D|ghoso|အသံ (1)|အသံဗလံ|absent|30
+D|kareyya|လုယက်သည် (1)|ပြုသည်|absent|30
+D|pisuṇāya|ကုန်းချောစကား (1)|ကုန်းတိုက်သော|absent|30
+D|saṃvattanikā|ပို့ဆောင်တတ်သော (1)|ဖြစ်စေသော ; ဖြစ်စေတတ်သော|absent|30
+D|samannāhāro|နှလုံးသွင်းမှု (1)|နှလုံးသွင်းခြင်း ; စိတ်ကို ဆောင်ခြင်း|absent|30
+D|ajjhattikaṃ|မိမိ၏ (1)|အတွင်းပိုင်း|absent|30
+D|pātubhāvo|ထင်ရှား ဖြစ်ပေါ်ခြင်း (1)|ထင်ရှား လာခြင်း|absent|30
+D|vipariṇāmadhammā|ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော (1)|ဖောက်ပြန်ခြင်း သဘော ရှိသော ; ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော|absent|30
+D|vaṇṇa|အသွင် (1)|အဆင်းလှခြင်း ; အရောင်|absent|31
+D|ghātako|ဖျက်ဆီးရမည့် (1)|သတ်သူ|absent|31
+D|citta|စိတ္တ (1)|စိတ်|absent|31
+D|upapajjeyya|ပြန်လည် ဖြစ်ပေါ်သည် (1)|ရောက်သည်|absent|31
+D|samaye|အယူဝါဒ (1)|အချိန်|absent|31

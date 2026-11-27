@@ -1,0 +1,383 @@
+    # batch 5: one-stem groups and binding values checked by hand (rv-compact.txt)
+    'Tena hi',  # «သို့ဖြစ်လျှင်» / «သို့ဖြစ်၍»: one lemma, the text's form / spacing (kept: form)
+    'ṭhiti',  # «တည်ရာ» / «တည်ခြင်း» / «တည်နေသော» / «တည်တံ့ခြင်း»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'vimutti',  # «လွတ်မြောက်ခြင်း»: one meaning, = the pi-4 sense
+    'upagata',  # «ရောက်သွားသော» / «ရောက်သော»: one lemma, the text's form / spacing (kept: form)
+    'samannāgata',  # «ပြည့်စုံသော» / «ပြည့်စုံခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'cetasika',  # «စိတ်၏ အဖော် ဖြစ်သော သဘောတရား» / «စိတ်၏ အဖော်»: one lemma, the text's form / spacing (kept: form)
+    'aṭṭhaka',  # «ရှစ်ပါးအစု»: one meaning, = the pi-4 sense
+    'arūpa',  # «ရုပ်မရှိသော» / «ရုပ် မဟုတ်သော»: binding senses of pi-4 and a later binding file
+    'arūpadhātu',  # «ရုပ်မရှိသော ဘုံ» / «ရုပ်မရှိသော ဓာတ်»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'dassāvī',  # «ရှုမြင်သော»: one meaning, = the pi-2 sense
+    'Aññaṃ viññāṇaṃ',  # «သိစိတ် … တခြားစီ» / «သိစိတ်သည် တခြားစီ»: one phrase, glued or gapped (kept: construction)
+    'kusalā',  # «ကုသိုလ်»: binding senses of pi-4 and a later binding file
+    'ṭhitatā',  # «တည်နေခြင်း သဘော» / «တည်ရှိခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'aniccatā',  # «မမြဲခြင်း သဘော»: one meaning, = the pi-2 sense
+    'sotindriyaṃ upalabbhati',  # «နား၏ စွမ်းရည်ကို တွေ့ရသည်» / «နား၏ စွမ်းရည် … တွေ့ရသည်»: one phrase, glued or gapped (kept: construction)
+    'hitāya',  # «အကျိုး» / «အကျိုးစီးပွား»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'aññamañña',  # «အချင်းချင်း»: one meaning, = the pi-2 sense
+    'vedayita',  # «ခံစားရခြင်း» / «ခံစားမှု»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'saññāvedayita',  # «မှတ်သိမှုနှင့် ခံစားရခြင်း» / «မှတ်သိမှုနှင့် ခံစားမှု»: one lemma, the text's form / spacing (kept: form)
+    'upacaya',  # «စုဆောင်းမှု» / «စုဆောင်းခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'maccu',  # «သေခြင်း» / «သေမင်း»: binding senses of pi-3 and a later binding file
+    'saṅgho dakkhiṇaṃ paṭiggaṇhāti',  # «သံဃာသည် အလှူကို ခံယူသည်» / «သံဃာသည် အလှူ … ခံယူသည်»: one phrase, glued or gapped (kept: construction)
+    'paṭiggaṇhāti',  # «ခံယူသည်»: one meaning, = the pi-4 sense
+    'dakkhiṇaṃ paṭiggaṇhāti',  # «အလှူကို ခံယူသည်» / «အလှူ … ခံယူသည်»: one phrase, glued or gapped (kept: construction)
+    'saṅgho dakkhiṇaṃ visodheti',  # «သံဃာသည် အလှူကို စင်ကြယ်စေသည်» / «သံဃာသည် အလှူ … စင်ကြယ်စေသည်»: one phrase, glued or gapped (kept: construction)
+    'dakkhiṇaṃ visodheti',  # «အလှူကို စင်ကြယ်စေသည်» / «အလှူ … စင်ကြယ်စေသည်»: one phrase, glued or gapped (kept: construction)
+    'Buddhassa',  # «ဘုရား» / «ဘုရားရှင်»: one lemma, the text's form / spacing (kept: form)
+    'sāmañña',  # «ရဟန်းအဖြစ်» / «ရဟန်း»: one lemma, the text's form / spacing (kept: form), = the pi-1 sense
+    'tathatā',  # «ဟုတ်တိုင်းမှန်သော သဘော» / «ဟုတ်မှန်ခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'buddha',  # «ဘုရား»: one meaning, = the pi-2 sense
+    'sassato',  # «ထာဝရ တည်မြဲသော»: one meaning, = the pi-2 sense
+    'saṃvijjamāno',  # «ထင်ရှား ရှိနေသော»: one meaning, = the pi-4 sense
+    'upapajjati',  # «ပြန်လည် ဖြစ်ပေါ်သည်»: one meaning, = the pi-2 sense
+    'koci',  # «တစ်စုံတစ်ယောက်»: one meaning, = the pi-2 sense
+    'puggalo sandhāvati',  # «ပုဂ္ဂိုလ် … ကူးသွားသည်» / «ပုဂ္ဂိုလ်သည် ကူးသွားသည်»: one phrase, glued or gapped (kept: construction)
+    'karo',  # «ပြုသော» / «ပြုတော်မူသော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'katānaṃ',  # «ပြုခဲ့သော» / «ပြုခဲ့»: one lemma, the text's form / spacing (kept: form)
+    'nerayiko',  # «ငရဲ၌ ကျသော» / «ငရဲသား» / «ငရဲ၌ ကျမည့်»: one lemma, the text's form / spacing (kept: form)
+    'samasamo',  # «အလွန် တူညီစွာ»: one meaning, = the pi-4 sense
+    'vaya',  # «ပျက်စီး» / «ပျက်ခြင်း»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'virāga',  # «ပြယ်ပျောက်»: one meaning, = the pi-2 sense
+    'rūpaṃ aniccaṃ',  # «ရုပ်သည် မမြဲသော» / «ရုပ် … မမြဲသော»: one phrase, glued or gapped (kept: construction)
+    'puggalassa paññatti',  # «ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်» / «ပုဂ္ဂိုလ် … သတ်မှတ်ချက်»: one phrase, glued or gapped (kept: construction)
+    'nirodhadhammaṃ',  # «ချုပ်ငြိမ်းတတ်သော သဘော … ရှိသော» / «ချုပ်ငြိမ်းခြင်း သဘော ရှိသော»: one lemma, the text's form / spacing (kept: form)
+    'iṭṭha',  # «လိုလားဖွယ်» / «လိုလားအပ်သော»: one lemma, the text's form / spacing (kept: form)
+    'aniṭṭha',  # «မလိုလားဖွယ်» / «မလိုလားအပ်သော»: one lemma, the text's form / spacing (kept: form)
+    'vipariṇāmadhammā',  # «ဖောက်ပြန်ပြောင်းလဲတတ်သော သဘော ရှိသော» / «ဖောက်ပြန်ပြောင်းလဲခြင်း … သဘော ရှိသော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'niruddhe',  # «ချုပ်ငြိမ်းသွားသော» / «ချုပ်ငြိမ်းသော» / «ချုပ်ငြိမ်းပြီးသော»: one lemma, the text's form / spacing (kept: form)
+    'cakkhumā',  # «မျက်စိ ရှိသော»: one meaning, = the pi-4 sense
+    'niruddhāya',  # «ချုပ်ငြိမ်းသွားသော» / «ချုပ်ငြိမ်းသော»: one lemma, the text's form / spacing (kept: form)
+    'puggalānaṃ paññatti',  # «ပုဂ္ဂိုလ်၏ သတ်မှတ်ချက်» / «ပုဂ္ဂိုလ် … သတ်မှတ်ချက်»: one phrase, glued or gapped (kept: construction)
+    'cavati',  # «စုတေသည်»: one meaning, = the pi-2 sense
+    'jāyati',  # «မွေးဖွားသည်»: one meaning, = the pi-2 sense
+    'kumārikā',  # «သူငယ်မ»: one meaning, = the pi-4 sense
+    'yaṃ',  # «အကြင်အရာ»: one meaning (kept: none), = the pi-1 sense
+    'Yo',  # «အကြင်သူ»: one meaning (kept: none), = the pi-1 sense
+    'sāyati',  # «လျက်သည်»: one meaning, = the pi-2 sense
+    'Mānusakaṃ',  # «လူ»: one meaning, = the pi-4 sense
+    'karoti',  # «ပြုသည်» / «ပြုလုပ်သည်»: one lemma, the text's form / spacing (kept: form)
+    'pathavī atthi',  # «မြေ … ရှိသည်» / «မြေ ရှိသည်»: one phrase, glued or gapped (kept: construction)
+    'purisayugā',  # «လူ အစုံ» / «လူ အတွဲ»: one lemma, the text's form / spacing (kept: form)
+    'parinibbute',  # «ပရိနိဗ္ဗာန် ပြုတော်မူပြီးသော» / «ပရိနိဗ္ဗာန် စံဝင်တော်မူပြီးသော»: one lemma, the text's form / spacing (kept: form)
+    'uppādo',  # «ဖြစ်ပေါ်ခြင်း» / «ဖြစ်ခြင်း»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'parinibbuto',  # «ပရိနိဗ္ဗာန် ပြုတော်မူခဲ့သော» / «ပရိနိဗ္ဗာန် ပြုပြီးသော» / «ပရိနိဗ္ဗာန် ပြုတော်မူသော»: one lemma, the text's form / spacing (kept: form)
+    'tiṭṭhati',  # «တည်သည်» / «တည်နေသည်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'viharati',  # «နေသည်» / «နေတော်မူသည်»: the text's own word for the one meaning (kept: sense), = the pi-4 sense
+    'dhammā',  # «သဘောတရား»: binding senses of pi-4 and a later binding file
+    'nikkhamitvā',  # «ထွက်၍»: one meaning, = the pi-2 sense
+    'bhagavā',  # «မြတ်စွာဘုရား»: one meaning, = the pi-4 sense
+    'nirujjhamānaṃ',  # «ချုပ်ငြိမ်းသော» / «ချုပ်ငြိမ်းနေသော»: one lemma, the text's form / spacing (kept: form)
+    'Ettāvatā',  # «ဤမျှဖြင့်»: binding senses of pi-4 and a later binding file
+    'veti',  # «ပျက်ကွယ်သည်» / «ပျက်စီးသည်»: one lemma, the text's form / spacing (kept: form)
+    'cakkhusamphasso',  # «မျက်စိ တွေ့ထိမှု»: one meaning, = the pi-2 sense
+    'vedayitaṃ',  # «ခံစားရမှု»: one meaning, = the pi-2 sense
+    'manosamphasso',  # «မနော တွေ့ထိမှု»: one meaning, = the pi-2 sense
+    'dhuvo',  # «ခိုင်ခံ့သော»: one meaning, = the pi-2 sense
+    'sammāsambuddho',  # «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား»: binding senses of pi-4 and a later binding file
+    'bhattaṃ',  # «ထမင်း»: one meaning, = the pi-4 sense
+    'nicca',  # «အမြဲ»: one meaning, = the pi-2 sense
+    'anāgāmi',  # «အနာဂါမိ» / «အနာဂါမ်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'sakadāgāmi',  # «သကဒါဂါမိ» / «သကဒါဂါမ်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'saṇṭhāti',  # «တည်သည်»: one meaning, = the pi-4 sense
+    'padhāna',  # «ကြိုးပမ်းအားထုတ်ခြင်း»: binding senses of pi-4 and a later binding file
+    'nirodho',  # «ချုပ်ငြိမ်းခြင်း» / «ချုပ်သော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'bhāvito',  # «ပွားများပြီးသော» / «ပွားများထားသော»: one lemma, the text's form / spacing (kept: form)
+    'bojjhaṅgā bhāvitā',  # «ဗောဇ္ဈင်ကို ပွားများပြီးသော» / «ဗောဇ္ဈင်တို့ကို ပွားများပြီးသော»: one lemma, the text's form / spacing (kept: form)
+    'kata',  # «ပြုပြီးသော» / «ပြုခဲ့သော»: binding senses of pi-4 and a later binding file
+    'saṃyojano',  # «နှောင်ကြိုး»: one meaning, = the pi-4 sense
+    'pariññātaṃ',  # «ပိုင်းခြား သိပြီးသော» / «ပိုင်းခြား သိခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'sacchikato',  # «မျက်မှောက်ပြုပြီးသော» / «မျက်မှောက် ပြုရသေးသော»: one lemma, the text's form / spacing (kept: form)
+    'mutaṃ',  # «မှတ်ယူအပ်»: one meaning, = the pi-2 sense
+    'aniṭṭhā',  # «မနှစ်သက်ဖွယ်»: one meaning, = the pi-2 sense
+    'paṭicca uppajjati',  # «မှီ၍ … ဖြစ်ပေါ်သည်» / «မှီ၍ ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'ussineti',  # «စုပုံသည်» / «စုစည်းသည်»: the text's own word for the one meaning (kept: sense)
+    'pariyuṭṭhito',  # «ထကြွခြင်းကို ခံရသော» / «ထကြွခြင်း ရှိသော»: one lemma, the text's form / spacing (kept: form)
+    'visineti',  # «ဖြန့်ကြဲသည်» / «ဖြန့်ကျက်သည်»: one lemma, the text's form / spacing (kept: form)
+    'payirupāsanti',  # «ဆည်းကပ်သည်»: binding senses of pi-4 and a later binding file
+    'bhabbā',  # «သက်ဆင်းနိုင်သော»: one meaning, = the pi-2 sense
+    'niyāmaṃ',  # «သေချာသော လမ်းကြောင်း» / «သေချာသော လမ်း»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'niyāmaṃ okkamituṃ',  # «သေချာသော လမ်းသို့ သက်ဆင်းသည်» / «သေချာသော လမ်းကြောင်းသို့ မသက်ဆင်းနိုင်»: one lemma, the text's form / spacing (kept: form)
+    'abhabbā',  # «မသက်ဆင်းနိုင်»: one meaning, = the pi-2 sense
+    'duppaññā',  # «ပညာ ညံ့သော»: one meaning, = the pi-4 sense
+    'sammattaṃ',  # «မှန်ကန်ခြင်း»: one meaning, = the pi-4 sense
+    'sambuddhā uppajjanti',  # «အမှန်ကို ကိုယ်တိုင် … သိမြင်တော်မူသော ဘုရားရှင်တို့ ပေါ်ပေါက်သည်» / «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင် … ပွင့်သည်»: one lemma, the text's form / spacing (kept: form)
+    'sammāsambuddhā',  # «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရားရှင်» / «အမှန်ကို ကိုယ်တိုင် အပြည့်အဝ သိမြင်တော်မူသော ဘုရား»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'pabbajati',  # «ရဟန်းပြုသည်» / «ရဟန်း ပြုသည်»: one lemma, the text's form / spacing (kept: form)
+    'pavattitaṃ',  # «လည်စေတော်မူသော» / «လည်စေတော်မူခဲ့သော»: one lemma, the text's form / spacing (kept: form)
+    'kāsāva',  # «သင်္ကန်း»: one meaning, = the pi-2 sense
+    'paccekasambuddhā uppajjanti',  # «ပစ္စေကဗုဒ္ဓါတို့ ပေါ်ပေါက်သည်» / «ပစ္စေကဗုဒ္ဓါ … ပွင့်သည်»: one lemma, the text's form / spacing (kept: form)
+    'paṭivedho',  # «ထိုးထွင်း သိမြင်ခြင်း» / «ထိုးထွင်း သိခြင်း»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'upapannassa',  # «ပြန်လည် ဖြစ်ပေါ်သော»: one meaning, = the pi-2 sense
+    'pahīyanti',  # «ပယ်သည်» / «ပယ်ခံရသည်»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'arahatta',  # «ရဟန္တာ» / «ရဟန္တာ အဖြစ်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'maggaṃ bhāveti',  # «မဂ်ကို ပွားများသည်» / «မဂ် … ပွားများသည်»: one phrase, glued or gapped (kept: construction), = the pi-2 sense
+    'paṭivedhāya',  # «ထိုးထွင်း သိမြင်ရန်»: one meaning, = the pi-2 sense
+    'sacchikiriyāya',  # «မျက်မှောက်ပြု»: one meaning, = the pi-4 sense
+    'Arahattasacchikiriyāya',  # «ရဟန္တာ ဖိုလ်ကို မျက်မှောက်ပြုရန်» / «ရဟန္တာ အဖြစ်ကို မျက်မှောက်ပြုရန်»: one lemma, the text's form / spacing (kept: form)
+    'sacchikata',  # «မျက်မှောက် ပြုရသေးသော»: one meaning, = the pi-2 sense
+    'sakkāyadiṭṭhiṃ jahati',  # «ကိုယ်ကို အတ္တဟု ယူဆသော အယူ … စွန့်ပယ်သည်» / «ကိုယ်ကို အတ္တဟု ယူဆသော အယူကို စွန့်ပယ်သည်»: one phrase, glued or gapped (kept: construction)
+    'kilese jahati',  # «ကိလေသာ … စွန့်ပယ်သည်» / «ကိလေသာတို့ကို စွန့်ပယ်သည်»: one lemma, the text's form / spacing (kept: form)
+    'phusitvā viharati',  # «ထိ၍ နေသည်» / «ထိ၍ … နေသည်»: one phrase, glued or gapped (kept: construction)
+    'upasampajja viharati',  # «ပြည့်စုံစွာ ဝင်ရောက်၍ နေသည်»: one meaning, = the pi-2 sense
+    'samannāgato',  # «ပြည့်စုံသော»: binding senses of pi-4 and a later binding file
+    'samudaya',  # «ဖြစ်ပေါ်ခြင်း» / «ဖြစ်ပေါ်တတ်သော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'dassanena',  # «မြင်ခြင်း»: one meaning, = the pi-3 sense
+    'oḷārikaṃ kāmarāgaṃ jahati',  # «ရုန့်ရင်းသော ကာမရာဂ … စွန့်ပယ်သည်» / «ရုန့်ရင်းသော ကာမရာဂကို စွန့်ပယ်သည်»: one phrase, glued or gapped (kept: construction)
+    'virajaṃ',  # «မြူမှုန် ကင်းသော» / «မြူ ကင်းသော»: one lemma, the text's form / spacing (kept: form)
+    'abhabba',  # «မစွမ်းနိုင်»: one meaning, = the pi-4 sense
+    'diṭṭhī',  # «အယူ»: one meaning, = the pi-2 sense
+    'avasesaṃ',  # «အကြွင်း»: one meaning, = the pi-1 sense
+    'Arahatte',  # «ရဟန္တာ အဖြစ်» / «ရဟန္တာ ဖိုလ်»: one lemma, the text's form / spacing (kept: form)
+    'samodhānaṃ',  # «ပေါင်းဆုံခြင်း»: one meaning, = the pi-2 sense
+    'khīṇā',  # «ကုန်သော» / «ကုန်ခန်းပြီးသော»: one lemma, the text's form / spacing (kept: form)
+    'abhiññāya',  # «ထူးကဲစွာ သိခြင်း» / «ထူးကဲစွာ သိ၍»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'satāni',  # «ရာပေါင်း»: one meaning, = the pi-2 sense
+    'netti',  # «ကြိုး»: one meaning, = the pi-2 sense
+    'vimuttiyā',  # «လွတ်မြောက်မှု» / «လွတ်မြောက်ခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'akkhāsi',  # «ဟောကြားတော်မူသည်» / «ဟောကြားတော်မူခဲ့သည်»: one lemma, the text's form / spacing (kept: form)
+    'anuttarā',  # «အမြတ်ဆုံး»: one meaning, = the pi-3 sense
+    'niruddhaṃ',  # «ချုပ်ငြိမ်းပြီးသော» / «ချုပ်ငြိမ်းပြီး»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'vipariṇataṃ',  # «ဖောက်ပြန်ပြောင်းလဲပြီးသော»: one meaning, = the pi-2 sense
+    'abbhatthaṅgataṃ',  # «လုံးဝ ကွယ်ပြီးသော» / «လုံးဝ ကွယ်ပျောက်ပြီးသော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'abhinibbattaṃ',  # «ထင်ရှားစွာ ဖြစ်မြောက်သော»: one meaning, = the pi-2 sense
+    'vigataṃ',  # «ကင်းကွာပြီးသော» / «ကင်းပျောက်ပြီးသော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'pātubhūtaṃ',  # «ထင်ရှား ပေါ်ပေါက်သော» / «ထင်ရှားလာပြီးသော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'atītaṃ niruddhaṃ',  # «အတိတ်သည် ချုပ်ငြိမ်းပြီးသော» / «အတိတ် ချုပ်ငြိမ်းပြီးသော»: one phrase, glued or gapped (kept: construction)
+    'atthaṅgataṃ',  # «ကွယ်ပြီးသော» / «ကွယ်ပျောက်ပြီးသော»: one lemma, the text's form / spacing (kept: form)
+    'nirodhaṃ',  # «ချုပ်ငြိမ်းခြင်း» / «ချုပ်ငြိမ်းရာ ဈာန်» / «ချုပ်သော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'anottappī',  # «ဒုစရိုက်ကို မကြောက်ရွံ့မှု ရှိသော»: one meaning, = the pi-2 sense
+    'atīto moho',  # «အတိတ် မောဟ» / «အတိတ် … မောဟ»: one phrase, glued or gapped (kept: construction)
+    'ādāna',  # «ယူခြင်း»: one meaning, = the pi-2 sense
+    'sādhāraṇo',  # «ဆက်ဆံရသော» / «ဆက်ဆံသော»: one lemma, the text's form / spacing (kept: form)
+    'gāma',  # «ရွာ»: one meaning, = the pi-4 sense
+    'satthaṃ',  # «လက်နက်»: one meaning, = the pi-4 sense
+    'upārambha',  # «အပြစ်တင် စွပ်စွဲခြင်း»: one meaning, = the pi-2 sense
+    'pubbe',  # «ရှေး» / «ရှေးဦးစွာ»: one lemma, the text's form / spacing (kept: form)
+    'saṅkhā',  # «ရေတွက်ခေါ်ဆိုချက်»: one meaning, = the pi-1 sense
+    'āyatanaṃ',  # «အာရုံခံ နယ်ပယ်»: binding senses of pi-4 and a later binding file
+    'cetanā',  # «စေ့ဆော်မှု»: binding senses of pi-4 and a later binding file
+    'pātubhāvo',  # «ထင်ရှား လာခြင်း» / «ထင်ရှား ဖြစ်ပေါ်ခြင်း»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'visuddhiyā',  # «စင်ကြယ်သော» / «စင်ကြယ်ရန်»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'khāyita',  # «ခဲ»: one meaning, = the pi-2 sense
+    'asita',  # «စား»: one meaning, = the pi-2 sense
+    'vilepanaṃ',  # «နံ့သာပျောင်း» / «နံ့သာ လိမ်းဖွယ်»: one lemma, the text's form / spacing (kept: form)
+    'sacchikataṃ',  # «မျက်မှောက်ပြုပြီးသော» / «မျက်မှောက် ပြုဖူးသော»: one lemma, the text's form / spacing (kept: form)
+    'arahattaṃ',  # «ရဟန္တာ အဖြစ်» / «ရဟန္တာ ဖိုလ်»: one lemma, the text's form / spacing (kept: form)
+    'anavakāso',  # «အခွင့် မဟုတ်»: one meaning, = the pi-2 sense
+    'paripanthe',  # «လမ်း» / «လမ်းခရီး»: one lemma, the text's form / spacing (kept: form)
+    'chindeyya',  # «ဖောက်ထွင်းသည်» / «ဖောက်သည်»: one lemma, the text's form / spacing (kept: form)
+    'pisuṇaṃ',  # «ကုန်းချောစကား» / «ကုန်းတိုက်သော စကား»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'samphaṃ',  # «အကျိုးမဲ့ စကား» / «အကျိုးမဲ့» / «အကျိုးမဲ့ ပြိန်ဖျင်းသော စကား»: one lemma, the text's form / spacing (kept: form)
+    'pakato',  # «လွှမ်းမိုးခံရသော»: one meaning, = the pi-4 sense
+    'gottaṃ',  # «အနွယ်»: one meaning, = the pi-2 sense
+    'purisānaṃ',  # «ယောက်ျား»: one meaning, = the pi-2 sense
+    'brahmacariyaṃ',  # «မြတ်သော အကျင့်»: binding senses of pi-4 and a later binding file
+    'jānāti',  # «သိသည်» / «သိတော်မူသည်»: the text's own word for the one meaning (kept: sense), = the pi-4 sense
+    'samāpattīsu',  # «သမာပတ်»: one meaning, = the pi-2 sense
+    'Lokuttaraṃ jhānaṃ',  # «လောကကို ကျော်လွန်သော … ဈာန်»: one meaning, = the pi-1 sense
+    'samuṭṭhānā',  # «ဖြစ်ပေါ်သော» / «ဖြစ်ပေါ်လာသော»: one lemma, the text's form / spacing (kept: form), = the pi-3 sense
+    'niruddhā',  # «ချုပ်ငြိမ်းသွားသော»: one meaning, = the pi-2 sense
+    'saññāvedayitanirodhaṃ',  # «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်» / «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'ākāsānañcāyatanaṃ samāpannassa',  # «အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ် … သမာပတ်ကို ဝင်စားနေသော» / «အဆုံး မရှိသော ဟင်းလင်းပြင် နယ်ပယ်ကို ဝင်စားနေသော»: one lemma, the text's form / spacing (kept: form)
+    'saññāvedayitanirodhaṃ samāpannassa',  # «မှတ်သိမှုနှင့် ခံစားမှု ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော» / «မှတ်သိမှုနှင့် ခံစားရခြင်း ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော»: one lemma, the text's form / spacing (kept: form)
+    'āgāraṃ',  # «အိမ်»: one meaning, = the pi-4 sense
+    'sāsane',  # «သာသနာ»: one meaning, = the pi-2 sense
+    'uppajjitvā',  # «ဖြစ်ပေါ်ပြီး» / «ဖြစ်ပေါ်၍»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'paññāsa',  # «ငါးဆယ်»: binding senses of pi-3 and a later binding file
+    'soḷasa',  # «ဆယ့်ခြောက်»: binding senses of pi-3 and a later binding file
+    'kappasahassāni',  # «ကမ္ဘာ»: one meaning, = the pi-2 sense
+    'akusalaṃ cittaṃ',  # «အကုသိုလ် စိတ်»: one meaning, = the pi-2 sense
+    'appamāṇa',  # «အပ္ပမာဏ»: binding senses of pi-3 and a later binding file
+    'paritta',  # «ပရိတ္တာဘ»: one meaning, = the pi-3 sense
+    'upadhi',  # «ဥပဓိ»: one meaning, = the pi-2 sense
+    'kāyikaṃ',  # «ကိုယ်»: one meaning, = the pi-2 sense
+    'rajanīyā',  # «တပ်မက်ဖွယ် ကောင်းသော» / «တပ်မက်ဖွယ်ကောင်းသော»: one lemma, the text's form / spacing (kept: form)
+    'sakkāra',  # «အရိုအသေ ပြုခံရခြင်း»: one meaning, = the pi-4 sense
+    'pītikaṃ',  # «ပီတိ» / «ပီတိ ရှိသော»: one lemma, the text's form / spacing (kept: form)
+    'kantā',  # «ချစ်ခင်ဖွယ် ကောင်းသော» / «ချစ်ခင်ဖွယ်ကောင်းသော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'nirāmisaṃ',  # «ကာမဂုဏ် ကင်းသော»: one meaning, = the pi-2 sense
+    'saṃyamo',  # «စောင့်စည်းခြင်း»: one meaning, = the pi-2 sense
+    'paṭisaṅkhā',  # «ပြန်လည် ဆင်ခြင်၍»: one meaning, = the pi-4 sense
+    'paṇīta',  # «မြတ်ခြင်း»: one meaning, = the pi-4 sense
+    'uppannassa',  # «ဖြစ်ပေါ်သော»: one meaning, = the pi-2 sense
+    'cariyā',  # «ကျင့်ကြံမှု»: one meaning, = the pi-2 sense
+    'vuṭṭhānaṃ',  # «ထမြောက်ခြင်း» / «ထမြောက်ရန်»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'aṭṭhāne',  # «မဖြစ်နိုင်သော အကြောင်း»: one meaning, = the pi-2 sense
+    'manasi karoti',  # «နှလုံး သွင်းသည်» / «နှလုံး … ပြုသည်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'cittaṃ vimuccati',  # «စိတ်သည် လွတ်မြောက်သည်» / «စိတ် … လွတ်မြောက်သည်»: one phrase, glued or gapped (kept: construction)
+    'sarāgaṃ cittaṃ',  # «ရာဂ ရှိသော စိတ်» / «ရာဂ ရှိသော … စိတ်»: one phrase, glued or gapped (kept: construction)
+    'vimuttaṃ',  # «လွတ်မြောက်ပြီးသော» / «လွတ်မြောက်သော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'kataṃ',  # «ပြုသော» / «ပြုလုပ်ချက်»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'puggalassa saddhā',  # «ပုဂ္ဂိုလ်သည် ယုံကြည်မှု» / «ပုဂ္ဂိုလ်၌ ယုံကြည်မှု»: one phrase, glued or gapped (kept: construction)
+    'puggalassa paññā',  # «ပုဂ္ဂိုလ်သည် ပညာ» / «ပုဂ္ဂိုလ်၌ ပညာ»: one phrase, glued or gapped (kept: construction)
+    'muṭṭhassati',  # «သတိ လစ်သော»: one meaning, = the pi-4 sense
+    'sabbena sabbaṃ',  # «လုံးဝ»: one meaning, = the pi-2 sense
+    'sabbathā',  # «လုံးဝ»: one meaning, = the pi-2 sense
+    'vuttāni bhagavatā',  # «မြတ်စွာဘုရား ဟောတော်မူသည်» / «မြတ်စွာဘုရား … ဟောတော်မူသည်»: one phrase, glued or gapped (kept: construction)
+    'vuttāni',  # «ဟောတော်မူသည်»: one meaning, = the pi-2 sense
+    'duggatiṃ',  # «လားရာ»: one meaning, = the pi-4 sense
+    'upagataṃ',  # «ရောက်သော» / «ရောက်သွားသော»: one lemma, the text's form / spacing (kept: form)
+    'paṇidhi',  # «ဆုတောင်းခြင်း» / «ဆုတောင်းမှု»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'asaṃvaro',  # «မစောင့်စည်းမှု»: one meaning, = the pi-2 sense
+    'yoni',  # «မွေးဖွားရာ အမျိုးအစား» / «မွေးဖွားရာ»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'attabhāva',  # «ကိုယ်ခန္ဓာ»: one meaning, = the pi-2 sense
+    'tittiravaṭṭakamorakapiñjaraṃ paṭiggaṇheyya',  # «ခါ … ငှက်ကြီးတို့ကို ခံယူသည်» / «ခါ … ငှက်ကြီး … ခံယူသည်»: one lemma, the text's form / spacing (kept: form)
+    'vatthāni',  # «အဝတ်»: one meaning, = the pi-4 sense
+    'bho',  # «အသျှင်»: one meaning, = the pi-4 sense
+    'odātāni',  # «အဖြူ»: one meaning, = the pi-1 sense
+    'anāsavaṃ',  # «စိတ်အစွန်းအထင်း၏ အာရုံ မဖြစ်နိုင်သော»: binding senses of pi-4 and a later binding file
+    'agāraṃ',  # «လူ့ဘောင်»: one meaning, = the pi-4 sense
+    'ajjhāvasati',  # «နေသည်»: one meaning, = the pi-4 sense
+    'purisassa',  # «ယောကျ်ား»: one meaning, = the pi-4 sense
+    'sattamaṃ',  # «ခုနစ်ခုမြောက်»: one meaning, = the pi-2 sense
+    'Bodhisatto okkantaniyāmo',  # «ဘုရားလောင်း … သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော» / «ဘုရားလောင်းသည် သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော»: one lemma, the text's form / spacing (kept: form)
+    'okkanta',  # «သက်ဆင်းပြီးသော» / «သက်ဆင်းသော»: one lemma, the text's form / spacing (kept: form)
+    'okkantaniyāmo',  # «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းပြီးသော» / «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသော»: one lemma, the text's form / spacing (kept: form)
+    'pāvacane',  # «သာသနာ»: one meaning, = the pi-2 sense
+    'Bodhisatto akāsi',  # «ဘုရားလောင်း … ပြုခဲ့သည်» / «ဘုရားလောင်း … ကျင့်ခဲ့သည်»: one lemma, the text's form / spacing (kept: form)
+    'sambodhāya',  # «အမှန်ကို သိခြင်း»: one meaning, = the pi-2 sense
+    'sadiso',  # «တူသော»: one meaning, = the pi-4 sense
+    'nibbuto',  # «ငြိမ်းချမ်းသော»: one meaning, = the pi-4 sense
+    'paṭipuggalo',  # «ပြိုင်ဘက် ပုဂ္ဂိုလ်» / «ပြိုင်ဘက် ပုဂ္ဂိုလ် ရှိသော»: one lemma, the text's form / spacing (kept: form)
+    'anuttaro',  # «အမြတ်ဆုံး»: one meaning, = the pi-4 sense
+    'saṃyojanā pahīyanti',  # «နှောင်ကြိုး … ပယ်သည်» / «နှောင်ကြိုးတို့ ပယ်ခံရသည်»: one lemma, the text's form / spacing (kept: form)
+    'samāpattiṃ',  # «သမာပတ်»: one meaning, = the pi-2 sense
+    'samāpajjeyya',  # «ဝင်စားနေသည်» / «ဝင်စားသည်»: one lemma, the text's form / spacing (kept: form)
+    'samāpajjantassa',  # «ဝင်စားသူ» / «ဝင်စားနေသော»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'abhisametuṃ',  # «ထိုးထွင်း သိနိုင်သော» / «ထိုးထွင်း သိမြင်ရန်» / «ထိုးထွင်း သိ၍»: one lemma, the text's form / spacing (kept: form)
+    'pattā',  # «ရောက်ပြီးသော» / «ရောက်သော»: one lemma, the text's form / spacing (kept: form)
+    'dadantassa',  # «ပေးနေသော» / «ပေးလှူနေသော» / «ပေးသော»: one lemma, the text's form / spacing (kept: form)
+    'ñāṇaṃ paṭisambhidā',  # «ဉာဏ် … ပိုင်းခြားသိသော ဉာဏ်» / «ဉာဏ်သည် ပိုင်းခြားသိသော ဉာဏ်»: one phrase, glued or gapped (kept: construction)
+    'samanantara',  # «ကောင်းစွာ ကြားမလပ်» / «ကောင်းစွာ ချက်ချင်း နောက်၌ ဖြစ်စေခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'vedeti',  # «ခံစားသည်» / «ခံစားရသည်»: one lemma, the text's form / spacing (kept: form)
+    'asaṅkhatāni',  # «ပြုပြင်ဖန်တီးထားခြင်း မရှိသော» / «ပြုပြင်ဖန်တီးထားခြင်း မရှိသော အရာ»: one lemma, the text's form / spacing (kept: form)
+    'abhisambujjhati',  # «ထိုးထွင်း သိတော်မူသည်»: one meaning, = the pi-4 sense
+    'uttāniṃ',  # «ထင်ရှားအောင်»: one meaning, = the pi-2 sense
+    'ṭhitā',  # «တည်သော» / «တည်ပြီးသော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'saccāni asaṅkhatāni',  # «သစ္စာ … ပြုပြင်ဖန်တီးထားခြင်း မရှိသော» / «သစ္စာသည် ပြုပြင်ဖန်တီးထားခြင်း မရှိသော»: one phrase, glued or gapped (kept: construction)
+    'upagaṃ',  # «ရောက်စေသော» / «ရောက်သော»: one lemma, the text's form / spacing (kept: form)
+    'vuttā bhagavatā',  # «မြတ်စွာဘုရား ဟောတော်မူသည်» / «မြတ်စွာဘုရား … ဟောတော်မူသည်»: one phrase, glued or gapped (kept: construction)
+    'appaṇihito',  # «တောင့်တမှု မရှိသော» / «တောင့်တမှု မရှိခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'antaraṃ',  # «ကြား»: one meaning, = the pi-4 sense
+    'jā',  # «ဖြစ်ပေါ်သော»: one meaning, = the pi-4 sense
+    'uddesaṃ',  # «ညွှန်ပြခြင်း»: one meaning, = the pi-4 sense
+    'sahajātā',  # «အတူ ဖြစ်သော» / «အတူ ပေါ်ပေါက်သော»: one lemma, the text's form / spacing (kept: form)
+    'vicāritaṃ',  # «သုံးသပ်ထားသော»: one meaning, = the pi-2 sense
+    'attato',  # «အတ္တ»: one meaning, = the pi-2 sense
+    'vitakkitaṃ',  # «ကြံစည်ထားသော»: one meaning, = the pi-2 sense
+    'iṭṭhaphalaṃ',  # «လိုလားဖွယ် အသီးအပွင့် ရှိသော» / «လိုလားအပ်သော အကျိုး ရှိသော»: one lemma, the text's form / spacing (kept: form)
+    'ekacco',  # «အချို့သူ» / «အချို့သော သူ»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'cittaṃ vaḍḍhati',  # «စိတ် တိုးပွားသည်» / «စိတ်သည် တိုးပွားသည်»: one phrase, glued or gapped (kept: construction)
+    'paṇidahantassa',  # «ဆု တောင်းသော» / «ဆုတောင်းသော»: one phrase, glued or gapped (kept: construction)
+    'manasikarontassa',  # «နှလုံးသွင်းသော»: one meaning, = the pi-2 sense
+    'samannāharantassa',  # «စိတ်ကို ဆောင်သော»: one meaning, = the pi-2 sense
+    'ābhogassa',  # «စိတ်ညွတ်သော» / «စိတ် ညွတ်သော»: one phrase, glued or gapped (kept: construction)
+    'vidūrāni',  # «ဝေးကွာသော အရာ» / «ဝေးကွာသော»: one lemma, the text's form / spacing (kept: form)
+    'gāmino',  # «သွားသော»: one meaning, = the pi-4 sense
+    'sukhassa',  # «ချမ်းသာ»: one meaning, = the pi-4 sense
+    'saṃvattati',  # «ဖြစ်စေသည်»: one meaning, = the pi-2 sense
+    'āhārā',  # «အစာ»: one meaning, = the pi-2 sense
+    'vipākā',  # «အကျိုး»: one meaning, = the pi-2 sense
+    'pānīyaṃ',  # «သောက်ရေ» / «သောက်ဖွယ်»: one lemma, the text's form / spacing (kept: form)
+    'yāpenti',  # «အသက်မွေးသည်»: one meaning, = the pi-1 sense
+    'paṇḍitā',  # «ပညာရှိ»: one meaning, = the pi-1 sense
+    'samannāhāro',  # «နှလုံးသွင်းခြင်း» / «နှလုံးသွင်းမှု»: one lemma, the text's form / spacing (kept: form), = the pi-2 sense
+    'caritaṃ',  # «အကျင့်»: one meaning, = the pi-2 sense
+    'cora',  # «ခိုးသူ»: binding senses of pi-4 and a later binding file
+    'bhāvanā',  # «ပွားများခြင်း»: one meaning, = the pi-2 sense
+    'dhīrā',  # «ပညာရှိ»: one meaning, = the pi-2 sense
+    'Rūpino dhammā',  # «ရုပ် ဖြစ်သော သဘောတရား» / «ရုပ် … သဘောတရား»: one lemma, the text's form / spacing (kept: form), = the pi-3 sense
+    'samuṭṭhitaṃ',  # «ဖြစ်ပေါ်သော»: one meaning, = the pi-2 sense
+    'vedayati',  # «ခံစားသည်» / «ခံစားရသည်»: one lemma, the text's form / spacing (kept: form)
+    'Nirodhaṃ samāpannassa',  # «ချုပ်ငြိမ်းခြင်း သမာပတ်ကို ဝင်စားနေသော» / «ချုပ်ငြိမ်းရာ ဈာန်ကို ဝင်စားနေသော»: one lemma, the text's form / spacing (kept: form)
+    'avaseso',  # «အကြွင်း»: one meaning, = the pi-1 sense
+    'saññī',  # «မှတ်ထင်သော» / «မှတ်သိသော»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'ārabbha uppajjati',  # «အာရုံပြု၍ ဖြစ်ပေါ်သည်» / «အာရုံပြု၍ … ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'samaṅgī',  # «ပြည့်စုံသော» / «ပြည့်စုံနေသော»: one lemma, the text's form / spacing (kept: form)
+    'cakkhuviññāṇasamaṅgī',  # «မျက်စိ သိစိတ်နှင့် ပြည့်စုံသော» / «မျက်စိ သိစိတ်နှင့် ပြည့်စုံနေသော»: one lemma, the text's form / spacing (kept: form)
+    'Sabbaso',  # «အခါခပ်သိမ်း»: one meaning, = the pi-2 sense
+    'jhāyī',  # «ဈာန်ဝင်သော»: one meaning, = the pi-2 sense
+    'lābhī',  # «ရသော»: one meaning, = the pi-4 sense
+    'Mato',  # «သေပြီးသော» / «သေ၍»: the text's own word for the one meaning (kept: sense)
+    'samanantarā uppajjanti',  # «ချက်ချင်း နောက်၌ ဖြစ်ပေါ်သည်» / «ချက်ချင်း နောက်၌ … ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'manasikārā',  # «နှလုံး သွင်း»: one meaning, = the pi-2 sense
+    'samanantarā',  # «ချက်ချင်း နောက်၌» / «ချက်ချင်း»: one lemma, the text's form / spacing (kept: form), = the pi-4 sense
+    'Cakkhuviññāṇaṃ uppajjati',  # «မျက်စိ သိစိတ် ဖြစ်ပေါ်သည်» / «မျက်စိ သိစိတ် … ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'suññataṃ',  # «ဆိတ်သုဉ်းခြင်း»: binding senses of pi-2 and a later binding file
+    'Tena hi sīlaṃ',  # «သို့ဖြစ်လျှင် သီလ» / «သို့ဖြစ်လျှင် … သီလ»: one phrase, glued or gapped (kept: construction)
+    'āsana',  # «နေရာ»: one meaning, = the pi-4 sense
+    'dussilyaṃ',  # «သီလ ပျက်ခြင်း»: one meaning, = the pi-4 sense
+    'saṅgaha',  # «အကျဉ်းချုပ်»: binding senses of pi-3 and a later binding file
+    'jīvitāvasese',  # «အသက်၏ အကြွင်း» / «အသက် အကြွင်းအကျန်»: one lemma, the text's form / spacing (kept: form)
+    'santati',  # «အစဉ်»: one meaning, = the pi-1 sense
+    'bhāṇī',  # «ပြောဆိုသော»: one meaning, = the pi-4 sense
+    'mātaraṃ jīvitā',  # «အမိ» / «အမိကို အသက်»: one lemma, the text's form / spacing (kept: form)
+    'amanussa',  # «လူ မဟုတ်သော»: one meaning, = the pi-2 sense
+    'tiracchānayoniṃ',  # «တိရစ္ဆာန် ဘဝ» / «တိရစ္ဆာန် ဘုံ» / «တိရစ္ဆာန် မွေးဖွားရာ အမျိုးအစား»: one lemma, the text's form / spacing (kept: form)
+    'Āpāyiko',  # «အပါယ်သို့ ရောက်သော» / «အပါယ်သို့ ရောက်မည့်»: one lemma, the text's form / spacing (kept: form)
+    'rato',  # «မွေ့လျော်သော»: one meaning, = the pi-4 sense
+    'vagga',  # «ဝဂ်»: one meaning, = the pi-2 sense
+    'kusalaṃ cittaṃ',  # «ကုသိုလ် စိတ်»: one meaning, = the pi-2 sense
+    'niyāmaṃ okkameyya',  # «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်» / «သေချာသော လမ်းကြောင်း … သက်ဆင်းသည်»: one phrase, glued or gapped (kept: construction)
+    'paṭivinodetvā',  # «ပယ်ဖျောက်၍»: one meaning, = the pi-4 sense
+    'niyāmaṃ okkamati',  # «သေချာသော လမ်းကြောင်းသို့ သက်ဆင်းသည်» / «သေချာသော လမ်းကြောင်း … သက်ဆင်းသည်»: one phrase, glued or gapped (kept: construction)
+    'Micchattaniyato',  # «မှားယွင်းမှု၌ လမ်းကြောင်း သေချာပြီးသော»: one meaning, = the pi-2 sense
+    'mahā',  # «မဟာ»: one meaning, = the pi-4 sense
+    'Akusalamūlaṃ paṭisandahati',  # «အကုသိုလ်၏ အမြစ် … ဆက်စပ်သည်» / «အကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည်»: one phrase, glued or gapped (kept: construction)
+    'Kusalaṃ uppajjati',  # «ကုသိုလ် … ဖြစ်ပေါ်သည်» / «ကုသိုလ် ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'avihiṃsā',  # «မညှဉ်းပန်းခြင်း»: one meaning, = the pi-2 sense
+    'abyāpāda',  # «မဖျက်ဆီးလိုခြင်း»: one meaning, = the pi-2 sense
+    'Kusalamūlaṃ paṭisandahati',  # «ကုသိုလ်၏ အမြစ်နှင့် ဆက်စပ်သည်» / «ကုသိုလ်၏ အမြစ် … ဆက်စပ်သည်»: one phrase, glued or gapped (kept: construction)
+    'Akusalaṃ uppajjati',  # «အကုသိုလ် ဖြစ်ပေါ်သည်» / «အကုသိုလ် … ဖြစ်ပေါ်သည်»: one phrase, glued or gapped (kept: construction)
+    'sīsaṃ',  # «ဦးခေါင်း»: one meaning, = the pi-4 sense
+    'yāpeti',  # «အသက် မွေးသည်»: one meaning, = the pi-4 sense
+    'vihāro',  # «နေခြင်း»: one meaning, = the pi-2 sense
+    'ahitāya',  # «အစီးအပွား မဖြစ်ဖွယ်ရာ»: one meaning, = the pi-4 sense
+    'abyākatā dhammā',  # «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော … သဘောတရား»: one meaning, = the pi-1 sense
+    'upacayo',  # «စုဆောင်းမှု» / «စုဆောင်းခြင်း»: one lemma, the text's form / spacing (kept: form)
+    'pāpaṃ',  # «ယုတ်မာမှု»: one meaning, = the pi-4 sense
+    'vihāraṃ',  # «နေခြင်း»: one meaning, = the pi-2 sense
+    'sukhavihāraṃ',  # «ချမ်းသာစွာ နေခြင်း»: one meaning, = the pi-2 sense
+    'sobhagya',  # «ကောင်းသော ကံကြမ္မာ» / «ကောင်းကျိုး ချမ်းသာ»: one lemma, the text's form / spacing (kept: form)
+    'visinetvā',  # «ဖြန့်ကြဲ၍» / «ဖြန့်ကျက်၍»: one lemma, the text's form / spacing (kept: form)
+    'ekāgārikaṃ kareyya',  # «အိမ်တစ်အိမ်တည်းကို ဝိုင်းဝန်း၍ လုယက်သည်» / «အိမ်တစ်လုံးကို ဝိုင်းဝန်း လုယက်သည်»: one lemma, the text's form / spacing (kept: form)
+    'indriyabaddhaṃ dukkhaṃ',  # «စွမ်းရည်တို့နှင့် ဆက်စပ်သော … ဒုက္ခ» / «စွမ်းရည်တို့နှင့် ဆက်စပ်သော ဒုက္ခ»: one phrase, glued or gapped (kept: construction)
+    'pariññāya',  # «ပိုင်းခြား သိရန်»: one meaning, = the pi-2 sense
+    'avasesā',  # «ကြွင်းသော»: binding senses of pi-4 and a later binding file
+    'khettaṃ',  # «လယ်မြေ»: one meaning, = the pi-1 sense
+    'appameyyo',  # «အတိုင်းအဆ မရှိသော»: one meaning, = the pi-4 sense
+    'uddissa',  # «ရည်စူး၍»: one meaning, = the pi-4 sense
+    'paṭipannā',  # «ကျင့်ကြံဆဲသော»: one meaning, = the pi-4 sense
+    'Vineyya',  # «ဖယ်ရှား၍»: one meaning, = the pi-2 sense
+    'dvipadānaṃ',  # «ခြေနှစ်ချောင်း ရှိသော» / «ခြေ နှစ်ချောင်း ရှိသော»: one phrase, glued or gapped (kept: construction)
+    'pavaro',  # «အထူးမြတ်ဆုံး»: one meaning, = the pi-4 sense
+    'bhagavā jāto',  # «မြတ်စွာဘုရား … ဖွားမြင်တော်မူခဲ့သော» / «မြတ်စွာဘုရား … ဖွားမြင်တော်မူသော»: one lemma, the text's form / spacing (kept: form)
+    'dullabhā',  # «ရှားပါးသော»: one meaning, = the pi-4 sense
+    'paṭivijānāti',  # «ခွဲခြား သိသည်»: one meaning, = the pi-2 sense
+    'nimuggo',  # «နစ်မြုပ်သော»: one meaning, = the pi-4 sense
+    'patigādha',  # «ခြေကုတ်ရာ မြေ»: one meaning, = the pi-4 sense
+    'raja',  # «မြူ»: one meaning, = the pi-4 sense
+    'suviññāpaye',  # «သိအောင် ပြရ လွယ်ကူသော»: one meaning, = the pi-2 sense
+    'viññāpaye',  # «သိအောင် ပြရ»: one meaning, = the pi-2 sense
+    'tiriyaṃ',  # «ဘေး»: one meaning, = the pi-2 sense
+    'bandhanaṃ',  # «အနှောင်»: one meaning, = the pi-2 sense
+    'pāde',  # «ခြေ»: one meaning, = the pi-2 sense
+    'kaṭukā',  # «ခါးသက်သော»: one meaning, = the pi-2 sense
+    'pharitvā',  # «ပျံ့နှံ့၍»: one meaning, = the pi-2 sense
+    'makkhikā',  # «ယင်»: one meaning, = the pi-4 sense
+    'pañcaṅgiko maggo',  # «မဂ်သည် အင်္ဂါ ငါးပါး ရှိသော»: one meaning, = the pi-2 sense
+    'pāripūriṃ',  # «ပြည့်စုံခြင်း»: one meaning, = the pi-4 sense
+    'buddhānaṃ',  # «ဘုရား»: one meaning, = the pi-4 sense
+    'upaṭṭhāko',  # «အလုပ်အကျွေး»: one meaning, = the pi-4 sense
+    'buddhā',  # «ဘုရား»: one meaning, = the pi-2 sense
+    'buddhā tiṭṭhanti',  # «ဘုရား တည်ရှိသည်» / «ဘုရားတို့ တည်ရှိသည်»: one phrase, glued or gapped (kept: construction)
+    'dhammā niyatā',  # «သဘောတရား … ကျိန်းသေသော»: one meaning, = the pi-1 sense
+    'upaṭṭhita',  # «ထင်ရှား တည်သော»: one meaning, = the pi-4 sense
+    'kiriyābyākate',  # «ကုသိုလ်လည်း မဟုတ် အကုသိုလ်လည်း မဟုတ်သော ကြိယာ»: one meaning, = the pi-2 sense
+    'ratta',  # «ညဉ့်ဦးယံ ညဉ့်နောက်ယံ»: one meaning, = the pi-4 sense
+    'ghoso',  # «အသံ»: one meaning, = the pi-1 sense
+    'pisuṇāya',  # «ကုန်းချောစကား»: one meaning, = the pi-4 sense
+    'saṃvattanikā',  # «ပို့ဆောင်တတ်သော»: one meaning, = the pi-2 sense
+    'ajjhattikaṃ',  # «မိမိ၏»: one meaning, = the pi-2 sense
