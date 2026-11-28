@@ -1,0 +1,611 @@
+# pi-6 (Yamaka) Pāli→Russian senses, part 1 (agg-part1.tsv, 563 headwords). Hand-written tag table, one line per headword.
+# Build: python -I -X utf8 -B senses_tool_ru.py build --part 1
+# Headwords of the approved sample (decisions-sample.txt) are copied unchanged; the rest follow senses-conventions.md.
+# Tags copied verbatim from an approved pi-1 … pi-5 Russian senses line where the Russian value and the sense match.
+#
+# ===== copied unchanged from decisions-sample.txt =====
+# --- title lines and headings
+Abhidhammapiṭake: {in the Abhidhamma basket of the canon (locative, title line)}
+Yamakapāḷi: {the canonical text of the Yamaka, full title of the book of pairs (title line)}
+Mūlayamakaṃ: {the pairs on roots, title of the first chapter of the Yamaka (heading and colophon)}
+uddeso: {statement, the opening enumeration of a section (heading)}
+Mūlavāro: {the section on roots, the first section of the Mūlayamaka (heading)}
+Mūlanayo: {the method of roots, first questioning method of the section on roots (heading member)}
+Mūlamūlanayo: {the method of roots of roots, second questioning method of the section on roots (heading member)}
+Mūlakanayo: {the method of what is based on a root, third questioning method (heading member)}
+Mūlamūlakanayo: {the method of what is based on a root of roots, fourth questioning method (heading member)}
+Hetuvārādi: {the section on causes and the sections that follow it, in the Mūlayamaka (heading member)}
+niddeso: {exposition, detailed explanation (heading member)}
+Mūlavārauddeso: {the statement of the section on roots, closing label of its enumeration (colophon)}
+Uddesavāro: {the section of the statement, closing label of the opening enumeration (colophon)}
+#
+# --- kusala / akusala / abyākata / nāma and their dhammā phrases
+kusalā dhammā: {wholesome phenomena (nominative pl.)}
+kusalā: {wholesome, said of phenomena (nominative pl.)}
+kusalāti: {wholesome, said of phenomena, quoted with -ti (nominative pl.)}
+kusalaṃ: {wholesome, the wholesome as a substantive, as in 'kusalaṃ kusalamūlena ekamūlaṃ' (neuter sg.)}
+kusalañca: {wholesome, the wholesome as a substantive, with ca 'and' (neuter sg.)}
+Akusalā dhammā: {unwholesome phenomena (nominative pl.)}
+akusalā: {unwholesome, said of phenomena (nominative pl.)}
+Abyākatā dhammā: {ethically indeterminate phenomena (nominative pl.)}
+abyākatā: {ethically indeterminate, neither wholesome nor unwholesome (nominative pl.)}
+Nāmā: {mental, of the mind side as opposed to matter, in 'nāmā dhammā' (nominative pl.)}
+kusalamūlasahajātā dhammā: {phenomena born together with a wholesome root (nominative pl. phrase)}
+Kusalasamuṭṭhānaṃ: {produced by the wholesome, of matter originated by a wholesome state (neuter sg.)}
+Avasesā: {remaining, the rest (nominative pl.)}
+uppajjanti: {arise, come into being (3rd pl. present)}
+#
+# --- roots: X-mūla, X-mūlamūla, X-mūlena, X-mūlaka, X-mūlamūlaka
+Mūlaṃ: {root, a root condition (nominative sg.)}
+Mūlāni: {roots, the root conditions (nominative pl.)}
+kusalamūlā: {wholesome roots (nominative pl.)}
+kusalamūlāti: {wholesome roots, quoted with -ti (nominative pl.)}
+kusalamūlāni: {wholesome roots (nominative pl.)}
+akusalamūlā: {unwholesome roots (nominative pl.)}
+akusalamūlāti: {unwholesome roots, quoted with -ti (nominative pl.)}
+akusalamūlāni: {unwholesome roots (nominative pl.)}
+abyākatamūlā: {ethically indeterminate roots (nominative pl.)}
+nāmamūlā: {mental roots, the roots taken on the mind side (nominative pl.)}
+kusalamūlamūlā: {wholesome roots of roots, in the root-of-roots method (nominative pl.)}
+kusalamūlamūlāti: {wholesome roots of roots, quoted with -ti (nominative pl.)}
+kusalamūlamūlāni: {wholesome roots of roots, in the root-of-roots method (neuter nominative pl.)}
+akusalamūlamūlā: {unwholesome roots of roots, in the root-of-roots method (nominative pl.)}
+abyākatamūlamūlā: {ethically indeterminate roots of roots, in the root-of-roots method (nominative pl.)}
+nāmamūlamūlā: {mental roots of roots, in the root-of-roots method (nominative pl.)}
+kusalamūlena: {with a wholesome root, the root that states share (instrumental sg.)}
+akusalamūlena: {with an unwholesome root, the root that states share (instrumental sg.)}
+abyākatamūlena: {with an ethically indeterminate root, the root that states share (instrumental sg.)}
+nāmamūlena: {with a mental root, the root that states share (instrumental sg.)}
+kusalamūlakā: {based on a wholesome root, in the based-on-a-root method (nominative pl.)}
+kusalamūlakāti: {based on a wholesome root, quoted with -ti (nominative pl.)}
+kusalamūlakaṃ: {based on a wholesome root, in the based-on-a-root method (neuter sg.)}
+kusalamūlakañceva: {based on a wholesome root, with ceva 'both … and' (neuter sg.)}
+akusalamūlakā: {based on an unwholesome root, in the based-on-a-root method (nominative pl.)}
+abyākatamūlakā: {based on an ethically indeterminate root, in the based-on-a-root method (nominative pl.)}
+nāmamūlakā: {based on a mental root, in the based-on-a-root method (nominative pl.)}
+kusalamūlamūlakā: {based on a wholesome root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+kusalamūlamūlakāti: {based on a wholesome root of roots, quoted with -ti (nominative pl.)}
+kusalamūlamūlakaṃ: {based on a wholesome root of roots, in the based-on-a-root-of-roots method (neuter sg.)}
+kusalamūlamūlakañceva: {based on a wholesome root of roots, with ceva 'both … and' (neuter sg.)}
+akusalamūlamūlakā: {based on an unwholesome root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+abyākatamūlamūlakā: {based on an ethically indeterminate root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+nāmamūlamūlakā: {based on a mental root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+#
+# --- eka- / aññamañña- root compounds (one value for every case form and particle)
+ekamūlā: {having a common root, sharing one root with another state (nominative pl.)}
+ekamūlāti: {having a common root, quoted with -ti (nominative pl.)}
+ekamūlaṃ: {having a common root, sharing one root with another state (neuter sg.)}
+ekamūlañceva: {having a common root, with ceva 'both … and' (neuter sg.)}
+ekamūlāni: {having a common root, sharing one root with another state (neuter nominative pl.)}
+aññamaññamūlā: {having a mutual root, each being a root of the other (nominative pl.)}
+aññamaññamūlāti: {having a mutual root, quoted with -ti (nominative pl.)}
+aññamaññamūlāni: {having a mutual root, each being a root of the other (neuter nominative pl.)}
+ekamūlamūlā: {having a common root of roots, in the root-of-roots method (nominative pl.)}
+ekamūlamūlāti: {having a common root of roots, quoted with -ti (nominative pl.)}
+ekamūlamūlaṃ: {having a common root of roots, in the root-of-roots method (neuter sg.)}
+ekamūlamūlañceva: {having a common root of roots, with ceva 'both … and' (neuter sg.)}
+ekamūlamūlāni: {having a common root of roots, in the root-of-roots method (neuter nominative pl.)}
+aññamaññamūlamūlā: {having a mutual root of roots, in the root-of-roots method (nominative pl.)}
+aññamaññamūlamūlāti: {having a mutual root of roots, quoted with -ti (nominative pl.)}
+aññamaññamūlamūlāni: {having a mutual root of roots, in the root-of-roots method (neuter nominative pl.)}
+ekamūlakā: {based on a common root, in the based-on-a-root method (nominative pl.)}
+ekamūlakāti: {based on a common root, quoted with -ti (nominative pl.)}
+ekamūlakaṃ: {based on a common root, in the based-on-a-root method (neuter sg.)}
+ekamūlakañceva: {based on a common root, with ceva 'both … and' (neuter sg.)}
+ekamūlakāni: {based on a common root, in the based-on-a-root method (neuter nominative pl.)}
+aññamaññamūlakā: {based on a mutual root, in the based-on-a-root method (nominative pl.)}
+aññamaññamūlakāti: {based on a mutual root, quoted with -ti (nominative pl.)}
+aññamaññamūlakāni: {based on a mutual root, in the based-on-a-root method (neuter nominative pl.)}
+ekamūlamūlakā: {based on a common root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+ekamūlamūlakāti: {based on a common root of roots, quoted with -ti (nominative pl.)}
+ekamūlamūlakaṃ: {based on a common root of roots, in the based-on-a-root-of-roots method (neuter sg.)}
+ekamūlamūlakañceva: {based on a common root of roots, with ceva 'both … and' (neuter sg.)}
+ekamūlamūlakāni: {based on a common root of roots, in the based-on-a-root-of-roots method (neuter nominative pl.)}
+aññamaññamūlamūlakā: {based on a mutual root of roots, in the based-on-a-root-of-roots method (nominative pl.)}
+aññamaññamūlamūlakāti: {based on a mutual root of roots, quoted with -ti (nominative pl.)}
+aññamaññamūlamūlakāni: {based on a mutual root of roots, in the based-on-a-root-of-roots method (neuter nominative pl.)}
+#
+# --- the Hetuvārādi verse (ten names for a root) and the kusala- series
+hetu: {cause, the second of the ten names for a root in the Hetuvārādi verse (nominative sg.)}
+nidānañca: {source, origin, the third name for a root in the verse, with ca 'and' (nominative sg.)}
+sambhavo: {origin, what a thing comes from, the fourth name for a root in the verse (nominative sg.)}
+pabhavena: {source, place of springing forth, the fifth name for a root in the verse (instrumental sg.)}
+Samuṭṭhānāhārārammaṇā: {producer, nutriment and object, the sixth to eighth names for a root, one compound of the verse (nominative pl.)}
+paccayo: {support, conditioning factor}
+samudayena: {arising, origination, the tenth name for a root in the verse (instrumental sg.)}
+kusalahetū: {wholesome causes, the hetu member of the ten-name series (nominative pl.)}
+kusalanidānā: {wholesome sources, the nidāna member of the ten-name series (nominative pl.)}
+kusalasambhavā: {wholesome origins, the sambhava member of the ten-name series (nominative pl.)}
+kusalappabhavā: {wholesome springs, the pabhava member of the ten-name series (nominative pl.)}
+kusalasamuṭṭhānā: {wholesome producers, the samuṭṭhāna member of the ten-name series (nominative pl.)}
+kusalāhārā: {wholesome nutriment, the āhāra member of the ten-name series (nominative pl.)}
+kusalārammaṇā: {wholesome objects, the ārammaṇa member of the ten-name series (nominative pl.)}
+kusalapaccayā: {wholesome conditions, the paccaya member of the ten-name series (nominative pl.)}
+kusalasamudayā: {wholesome originations, the samudaya member of the ten-name series (nominative pl.)}
+#
+# --- multi-value rows of the book (part 1 ones)
+rūpaṃ: {matter, material form, as in 'kusalasamuṭṭhānaṃ rūpaṃ' (nominative sg.): материальная форма; form as the bare word tested against a technical term in the term-analysis questions, as in 'rūpaṃ rūpakkhandho?' and piyarūpa (nominative sg.): форма}
+arahato: {the Worthy One, the arahant, in the homage line (genitive sg.): Достойный; arahant, one who has completed the path, as a person in the questions and answers (genitive sg.): архат}
+Pañcavokāre: {in the five-constituent existence, the plane of beings with all five aggregates (locative sg.)}
+Pacchimabhavikānaṃ: {of those in their last existence, also 'reborn for the last time' before upapajjantānaṃ (genitive pl.)}
+yassakasadisaṃ: {like the 'yassa' section, an abbreviation note referring to the section on persons (neuter sg. adjective)}
+upapajjissati: {will be reborn, of entering a new existence (3rd sg. future): переродиться; will arise, the source slip upapajjissati for uppajjissati at ^6-3-212, rendered as meant (3rd sg. future): возникнуть}
+Rūpadhātuṃ: {the fine-material world, the plane of rebirth in 'rūpadhātuṃ upapajjantassa' (accusative sg.): мир форм; the element of visible forms, one of the eighteen elements, in the chapter on elements (accusative sg.): элемент видимых форм}
+dukkhaṃ: {suffering, the first noble truth, in the chapter on truths (nominative sg.): страдание; pain, painful bodily feeling, as the faculty dukkhindriya in the chapter on faculties (nominative sg.): боль}
+dukkhanti: {suffering, the first noble truth, quoted with -ti in the chapter on truths (nominative sg.): страдание; pain, painful bodily feeling, quoted with -ti in the chapter on faculties (nominative sg.): боль}
+Dukkhañca: {suffering, the first noble truth, with ca in the chapter on truths (nominative sg.): страдание; pain, painful bodily feeling, with ca in the chapter on faculties (nominative sg.): боль}
+cittassa bhaṅgakkhaṇe: {at the moment of the mind's dissolution, the break-up instant of a consciousness (locative phrase)}
+#
+# ===== part 1, new decisions =====
+# --- Mūlayamaka, rest of the akusala / abyākata / nāma series (root-compound family, senses-conventions §4)
+akusalāti: {unwholesome, said of phenomena, quoted with -ti (nominative pl.)}
+Ahetukaṃ: {rootless, not accompanied by any root, as in 'ahetukaṃ akusalaṃ' (neuter sg.)}
+Sahetukaṃ: {with roots, accompanied by a root, as in 'sahetukaṃ akusalaṃ' (neuter sg.)}
+Akusalasamuṭṭhānaṃ: {produced by the unwholesome, of matter originated by an unwholesome state (neuter sg.)}
+akusalaṃ: {unwholesome, the unwholesome as a substantive, as in 'akusalaṃ akusalamūlena ekamūlaṃ' (neuter sg.)}
+akusalañca: {unwholesome, the unwholesome as a substantive, with ca 'and' (neuter sg.)}
+akusalamūlasahajātā dhammā: {phenomena born together with an unwholesome root (nominative pl. phrase)}
+akusalamūlamūlāti: {unwholesome roots of roots, quoted with -ti (nominative pl.)}
+akusalamūlamūlāni: {unwholesome roots of roots, in the root-of-roots method (neuter nominative pl.)}
+akusalamūlakāti: {based on an unwholesome root, quoted with -ti (nominative pl.)}
+akusalamūlakaṃ: {based on an unwholesome root, in the based-on-a-root method (neuter sg.)}
+akusalamūlakañceva: {based on an unwholesome root, with ceva 'both … and' (neuter sg.)}
+akusalamūlamūlakāti: {based on an unwholesome root of roots, quoted with -ti (nominative pl.)}
+akusalamūlamūlakaṃ: {based on an unwholesome root of roots, in the based-on-a-root-of-roots method (neuter sg.)}
+akusalamūlamūlakañceva: {based on an unwholesome root of roots, with ceva 'both … and' (neuter sg.)}
+abyākatamūlāti: {ethically indeterminate roots, quoted with -ti (nominative pl.)}
+abyākatamūlāni: {ethically indeterminate roots (nominative pl.)}
+abyākatāti: {ethically indeterminate, neither wholesome nor unwholesome, quoted with -ti (nominative pl.)}
+abyākataṃ: {ethically indeterminate, the indeterminate as a substantive, as in 'abyākataṃ abyākatamūlena ekamūlaṃ' (neuter sg.)}
+abyākatamūlasahajātā dhammā: {phenomena born together with an ethically indeterminate root (nominative pl. phrase)}
+abyākatamūlamūlāti: {ethically indeterminate roots of roots, quoted with -ti (nominative pl.)}
+abyākatamūlamūlāni: {ethically indeterminate roots of roots, in the root-of-roots method (neuter nominative pl.)}
+abyākatamūlakāti: {based on an ethically indeterminate root, quoted with -ti (nominative pl.)}
+abyākatamūlakaṃ: {based on an ethically indeterminate root, in the based-on-a-root method (neuter sg.)}
+abyākatamūlamūlakāti: {based on an ethically indeterminate root of roots, quoted with -ti (nominative pl.)}
+abyākatamūlamūlakaṃ: {based on an ethically indeterminate root of roots, in the based-on-a-root-of-roots method (neuter sg.)}
+nāmamūlāti: {mental roots, quoted with -ti (nominative pl.)}
+nāmamūlāni: {mental roots, the roots taken on the mind side (neuter nominative pl.)}
+nāmāti: {mental, of the mind side as opposed to matter, quoted with -ti (nominative pl.)}
+Nāmasamuṭṭhānaṃ: {produced by the mental, of matter originated by a mental state (neuter sg.)}
+nāmaṃ: {mentality, the mental side of name-and-form (nominative sg.)}
+nāmañca: {and mentality, with ca (nominative sg.)}
+nāmamūlasahajātā: {born together with a mental root (nominative pl.)}
+nāmamūlamūlāti: {mental roots of roots, quoted with -ti (nominative pl.)}
+nāmamūlamūlāni: {mental roots of roots, in the root-of-roots method (neuter nominative pl.)}
+nāmamūlakāti: {based on a mental root, quoted with -ti (nominative pl.)}
+nāmamūlakaṃ: {based on a mental root, in the based-on-a-root method (neuter sg.)}
+nāmamūlakañceva: {based on a mental root, with ceva 'both … and' (neuter sg.)}
+nāmamūlamūlakāti: {based on a mental root of roots, quoted with -ti (nominative pl.)}
+nāmamūlamūlakaṃ: {based on a mental root of roots, in the based-on-a-root-of-roots method (neuter sg.)}
+nāmamūlamūlakañceva: {based on a mental root of roots, with ceva 'both … and' (neuter sg.)}
+Mūlavāraniddeso: {the exposition of the section on roots, closing label of its detailed explanation (colophon)}
+#
+# --- Hetuvārādi series with kusala- / nāma- (ten-name series)
+kusalahetūti: {wholesome causes, the hetu member of the ten-name series, quoted with -ti (nominative pl.)}
+nāmahetū: {mental causes, the hetu member of the ten-name series (nominative pl.)}
+nāmanidānā: {mental sources, the nidāna member of the ten-name series (nominative pl.)}
+nāmasambhavā: {mental origins, the sambhava member of the ten-name series (nominative pl.)}
+nāmappabhavā: {mental springs, the pabhava member of the ten-name series (nominative pl.)}
+nāmasamuṭṭhānā: {mental producers, the samuṭṭhāna member of the ten-name series (nominative pl.)}
+nāmāhārā: {mental nutriment, the āhāra member of the ten-name series (nominative pl.)}
+nāmārammaṇā: {mental objects, the ārammaṇa member of the ten-name series (nominative pl.)}
+nāmapaccayā: {mental conditions, the paccaya member of the ten-name series (nominative pl.)}
+nāmasamudayā: {mental originations, the samudaya member of the ten-name series (nominative pl.)}
+Niddesavāro: {the section of the exposition, closing label of the detailed explanation (colophon)}
+Mūlayamakapāḷi: {the canonical text of the pairs on roots, closing title of the first chapter (colophon)}
+#
+# --- homage line (pi-1 tags)
+Namo: {homage, veneration (indeclinable, title line)}
+bhagavato: {the Blessed One, in the homage line (genitive sg.)}
+sammāsambuddhassa: {the perfectly self-awakened Buddha, in the homage line (genitive sg.)}
+#
+# --- Khandhayamaka: titles and headings
+Khandhayamakaṃ: {the pairs on aggregates, title of the aggregates chapter (heading and colophon)}
+Khandhayamakapāḷi: {the canonical text of the pairs on aggregates, closing title of the chapter (colophon)}
+Pañcakkhandhā: {the five aggregates, the opening enumeration of the aggregates chapter (nominative pl.)}
+Paṇṇattivāro: {the section on designations (heading)}
+Paṇṇattivāra: {the section on designations, stem form in a heading (heading member)}
+Paṇṇattivāraniddesa: {the exposition of the section on designations, stem form in a heading (heading member)}
+Paṇṇattiuddesavāro: {the section of the statement of designations, closing label of its enumeration (colophon)}
+Paṇṇattiniddesavāro: {the section of the exposition of designations, closing label of its detailed explanation (colophon)}
+paṇṇatti: {the designations, the section on terms, in an abbreviation note (nominative)}
+Padasodhanavāro: {the section on clarifying the terms (heading)}
+Padasodhanamūlacakkavāro: {the cycle section based on clarifying the terms (heading)}
+Suddhakhandhavāro: {the section on the aggregates alone, the pure aggregates (heading)}
+Suddhakhandhamūlacakkavāro: {the cycle section based on the aggregates alone (heading)}
+anulomaṃ: {the positive form of the questions (heading member)}
+paccanīkaṃ: {the negative form of the questions (heading member)}
+anulomapuggalo: {the positive form by person, the questions with 'yassa' (heading member)}
+anulomaokāso: {the positive form by place, the questions with 'yattha' (heading member)}
+anulomapuggalokāsā: {the positive form by person and place, the questions with 'yassa yattha' (heading member)}
+paccanīkapuggalo: {the negative form by person, the questions with 'yassa' (heading member)}
+paccanīkaokāso: {the negative form by place, the questions with 'yattha' (heading member)}
+paccanīkapuggalokāsā: {the negative form by person and place, the questions with 'yassa yattha' (heading member)}
+Pavattivāro: {the section on occurrence (heading and colophon)}
+Pavatti: {occurrence, the section on occurrence, as the heading member before 'nirodhavāro' (heading member)}
+uppādavāro: {the section on arising (heading and colophon)}
+nirodhavāro: {the section on ceasing (heading and colophon)}
+Uppādanirodhavāro: {the section on arising and ceasing (heading and colophon)}
+Atītānāgatavāro: {the section on past and future, the tense combinations (heading)}
+Pariññāvāro: {the section on full understanding (heading and colophon)}
+uppādavāre: {in the section on arising (locative sg.)}
+nirodhavāre: {in the section on ceasing (locative sg.)}
+#
+# --- aggregates (pi-1 tags where the value matches)
+viññāṇakkhandho: {the aggregate of consciousness (nominative sg.)}
+vedanākkhandho: {the aggregate of feeling (nominative sg.)}
+rūpakkhandho: {the aggregate of matter (nominative sg.)}
+saṅkhārakkhandho: {the aggregate of formations (nominative sg.)}
+saññākkhandho: {the aggregate of perception (nominative sg.)}
+vadanākkhandho: {the aggregate of feeling, the source spelling vadanā- for vedanā- rendered as meant (nominative sg.)}
+viññāṇakkhandhoti: {the aggregate of consciousness, quoted with -ti (nominative sg.)}
+vedanākkhandhoti: {the aggregate of feeling, quoted with -ti (nominative sg.)}
+rūpakkhandhoti: {the aggregate of matter, quoted with -ti (nominative sg.)}
+saṅkhārakkhandhoti: {the aggregate of formations, quoted with -ti (nominative sg.)}
+saññākkhandhoti: {the aggregate of perception, quoted with -ti (nominative sg.)}
+vedanākkhandhaṃ: {the aggregate of feeling (accusative sg.)}
+rūpakkhandhaṃ: {the aggregate of matter (accusative sg.)}
+Saṅkhārakkhandhaṃ: {the aggregate of formations (accusative sg.)}
+vedanākkhandhañca: {the aggregate of feeling, with ca 'and' (accusative sg.)}
+rūpakkhandhañca: {the aggregate of matter, with ca 'and' (accusative sg.)}
+saṅkhārakkhandhañca: {the aggregate of formations, with ca 'and' (accusative sg.)}
+saññākkhandhañca: {the aggregate of perception, with ca 'and' (accusative sg.)}
+khandhā: {aggregates, groups of phenomena (nominative pl.)}
+khandho: {aggregate, a group of phenomena (nominative sg.)}
+khandhoti: {aggregate, a group of phenomena, quoted with -ti (nominative sg.)}
+khandhe: {aggregates, groups of phenomena (accusative pl.)}
+Avasesā khandhā: {the remaining aggregates (nominative pl. phrase)}
+viññāṇaṃ: {consciousness, knowing an object (nominative sg.)}
+viññāṇanti: {consciousness, knowing an object, quoted with -ti (nominative sg.)}
+Viññāṇañca: {consciousness, knowing an object, with ca 'and' (accusative sg.)}
+vedanā: {feeling, the affective tone of experience (nominative sg.)}
+vedanāti: {feeling, the affective tone of experience, quoted with -ti (nominative sg.)}
+Vedanaṃ: {feeling, the affective tone of experience (accusative sg.)}
+Vedanañca: {feeling, the affective tone of experience, with ca 'and' (accusative sg.)}
+saṅkhārā: {formations, the volitional factors of the fourth aggregate, also the three formations of the chapter on formations (nominative pl.)}
+saṅkhārāti: {formations, the volitional factors of the fourth aggregate, quoted with -ti (nominative pl.)}
+Saṅkhāre: {formations, the volitional factors of the fourth aggregate (accusative pl.)}
+saññā: {perception, recognition (nominative sg.)}
+saññāti: {perception, recognition, quoted with -ti (nominative sg.)}
+Saññaṃ: {perception, recognition (accusative sg.)}
+Saññañca: {perception, recognition, with ca 'and' (accusative sg.)}
+Diṭṭhisaññā: {perception that is a view, given as perception that is not the aggregate of perception (nominative sg.)}
+rūpañceva: {form as the bare word tested against a technical term, with ceva 'both … and' (nominative sg.)}
+rūpanti: {form as the bare word tested against a technical term, quoted with -ti (nominative sg.)}
+Rūpañca: {form as the bare word tested against a technical term, with ca 'and' (accusative sg.)}
+ṭhapetvā: {except, leaving aside (absolutive)}
+#
+# --- tense forms (uppajj- / nirujjh- / parijān-)
+uppajjati: {arises, comes into being (3rd sg. present)}
+uppajjatīti: {arises, comes into being, quoted with -ti (3rd sg. present)}
+nuppajjati: {does not arise (3rd sg. present, negated)}
+nuppajjatīti: {does not arise, quoted with -ti (3rd sg. present, negated)}
+uppajjittha: {arose, came into being (3rd sg. aorist)}
+uppajjitthāti: {arose, came into being, quoted with -ti (3rd sg. aorist)}
+nuppajjittha: {did not arise (3rd sg. aorist, negated)}
+nuppajjitthāti: {did not arise, quoted with -ti (3rd sg. aorist, negated)}
+uppajjissati: {will arise (3rd sg. future)}
+uppajjissatīti: {will arise, quoted with -ti (3rd sg. future)}
+nuppajjissati: {will not arise (3rd sg. future, negated)}
+nuppajjissatīti: {will not arise, quoted with -ti (3rd sg. future, negated)}
+uppajjittharūpāyatanañca: {arose, and the base of visible forms, the run-together source spelling of 'uppajjittha rūpāyatanañca' (verb and nominative sg.)}
+nirujjhati: {ceases (3rd sg. present)}
+nirujjhatīti: {ceases, quoted with -ti (3rd sg. present)}
+nirujjhatī: {ceases, written with long ī before a detached 'ti' (3rd sg. present)}
+nirujjhittha: {ceased (3rd sg. aorist)}
+nirujjhitthāti: {ceased, quoted with -ti (3rd sg. aorist)}
+nirujjhissati: {will cease (3rd sg. future)}
+nirujjhissatīti: {will cease, quoted with -ti (3rd sg. future)}
+parijānāti: {fully understands, comprehends fully (3rd sg. present)}
+parijānātīti: {fully understands, quoted with -ti (3rd sg. present)}
+parijānanti: {fully understand, comprehend fully (3rd pl. present)}
+parijānittha: {fully understood (3rd sg. aorist)}
+parijānitthāti: {fully understood, quoted with -ti (3rd sg. aorist)}
+parijānissati: {will fully understand (3rd sg. future)}
+parijānissatīti: {will fully understand, quoted with -ti (3rd sg. future)}
+parijānissanti: {will fully understand (3rd pl. future)}
+#
+# --- persons
+upapajjantānaṃ: {of those being reborn (genitive pl. present participle)}
+cavantānaṃ: {of those passing away (genitive pl. present participle)}
+parinibbantānaṃ: {of those attaining final extinction (genitive pl. present participle)}
+parinibbāntānaṃ: {of those attaining final extinction, the source spelling parinibbānt- for parinibbant- (genitive pl. present participle)}
+parinibbāyissanti: {will attain final extinction, of those who will reach final nibbāna (3rd pl. future)}
+upapajjitvā: {having been reborn, after entering a new existence (absolutive)}
+Itaresaṃ: {of the others, the remaining persons (genitive pl.)}
+Arahā: {arahant, one who has completed the path, as a person in the questions and answers (nominative sg.)}
+arahantañca: {arahant, one who has completed the path, with ca 'and' (accusative sg.)}
+Aggamaggasamaṅgī: {one possessed of the highest path, the person at the moment of the path of arahantship (nominative sg.)}
+Aggamaggasamaṅgiñca: {one possessed of the highest path, with ca 'and' (accusative sg.)}
+puggalā: {persons, individuals (nominative pl.)}
+puthujjanā: {ordinary people, worldlings not on the noble path (nominative pl.)}
+maggaṃ paṭilabhissanti: {will obtain the path (3rd pl. future phrase)}
+paṭilabhissanti: {will obtain, will gain (3rd pl. future)}
+asotakānaṃ: {of those without the ear, beings reborn without an ear (genitive pl.)}
+sasotakānaṃ: {of those with the ear, beings reborn with an ear (genitive pl.)}
+acakkhukānaṃ: {of those without the eye, beings reborn without an eye (genitive pl.)}
+Sacakkhukānaṃ: {of those with the eye, beings reborn with an eye (genitive pl.)}
+arūpakānaṃ: {of those without visible form, beings reborn without a material body (genitive pl.)}
+nirodhasamāpannānaṃ: {of those who have entered the attainment of cessation (genitive pl. past participle)}
+Anabhisametāvīnaṃ: {of those who have not penetrated the truths (genitive pl.)}
+Abhisametāvīnaṃ: {of those who have penetrated the truths (genitive pl.)}
+#
+# --- planes
+Pañcavokāraṃ: {the five-constituent existence, the plane of beings with all five aggregates (accusative sg.)}
+Pañcavokārā: {from the five-constituent existence, of those passing away from it (ablative sg.)}
+Pañcavokārānaṃ: {of the beings of the five-constituent existence (genitive pl.)}
+Catuvokāre: {in the four-constituent existence, the plane of beings with four aggregates (locative sg.)}
+Arūpe: {in the formless world, the immaterial plane (locative sg.)}
+Arūpaṃ: {the formless world, the immaterial plane, in 'arūpaṃ upapajjantānaṃ' (accusative sg.)}
+Arūpā: {from the formless world, of those passing away from it (ablative sg.)}
+Arūpānaṃ: {of the beings of the formless world (genitive pl.)}
+Asaññasattaṃ: {the beings without perception, the non-percipient plane (accusative sg.)}
+Asaññasatte: {among the beings without perception, the non-percipient plane (locative sg.)}
+asaññasattā: {from the plane of the beings without perception, of those passing away from it (ablative sg.)}
+Asaññasattānaṃ: {of the beings without perception, the non-percipient beings (genitive pl.)}
+Suddhāvāsaṃ: {the Pure Abodes, in 'suddhāvāsaṃ upapajjantānaṃ' (accusative sg.)}
+Suddhāvāse: {in the Pure Abodes (locative sg.)}
+Suddhāvāsānaṃ: {of the beings of the Pure Abodes (genitive pl.)}
+Rūpāvacare: {belonging to the fine-material sphere, or in that sphere (locative and heading)}
+Kāmāvacare: {belonging to the sense sphere, or in that sphere (locative and heading)}
+arūpāvacare: {belonging to the immaterial sphere, or in that sphere (locative and heading)}
+rūpāvacaraṃ: {belonging to the fine-material sphere, or that sphere (neuter sg.)}
+arūpāvacaraṃ: {the formless world, the immaterial sphere as a place of rebirth (accusative sg.)}
+kāmāvacaraṃ: {the sense-desire world, the sense sphere as a place of rebirth (accusative sg.)}
+Rūpāvacarā: {from the fine-material world, of those passing away from it (ablative sg.)}
+Kāmāvacarā: {from the sense-desire world, of those passing away from it (ablative sg.)}
+Rūpāvacarānaṃ: {of the beings of the fine-material world (genitive pl.)}
+Kāmāvacarānaṃ: {of the beings of the sense-desire world (genitive pl.)}
+arūpāvacarānaṃ: {of the beings of the formless world, the immaterial plane (genitive pl.)}
+Apāye: {in the states of misery, the lower worlds (locative sg.)}
+Avasese: {in the remaining planes, the rest of the four- and five-constituent existence (locative sg.)}
+pavatte: {during the course of existence, in the process of life as opposed to rebirth (locative sg.)}
+#
+# --- answers, relatives and abbreviation notes
+Natthi: {there is no such case, the answer 'none' (verb as answer)}
+Yattha: {where, in which}
+Yassa yattha: {for whom and where, the person-and-place questions (relative phrase)}
+yatthakaṃ: {the 'yattha' section, the questions by place, in an abbreviation note (neuter sg.)}
+yatthakampi: {the 'yattha' section too, the questions by place, in an abbreviation note (neuter sg. with pi)}
+yatthakānaṃ: {of the 'yattha' sections, the questions by place, in an abbreviation note (genitive pl.)}
+Yassakampi: {the 'yassa' section too, the questions by person, in an abbreviation note (neuter sg. with pi)}
+Yassa yatthakampi: {the 'yassa yattha' section too, the questions by person and place, in an abbreviation note (neuter sg. with pi)}
+yassayatthakampi: {the 'yassa yattha' section too, written as one word, in an abbreviation note (neuter sg. with pi)}
+yassa yatthake: {in the 'yassa yattha' section, the questions by person and place (locative sg.)}
+vāresu: {in the sections, in an abbreviation note (locative pl.)}
+vārasaṅkhepo: {the sections in abbreviated form, an abbreviation note on the sections that follow (nominative sg.)}
+uppādepi: {in the section on arising too, in an abbreviation note (locative sg. with pi)}
+nirodhepi: {in the section on ceasing too, in an abbreviation note (locative sg. with pi)}
+uppādanirodhepi: {in the section on arising and ceasing too, in an abbreviation note (locative sg. with pi)}
+Uppādavārepi: {in the section on arising too, the full section name, in an abbreviation note (locative sg. with pi)}
+nirodhavārepi: {in the section on ceasing too, the full section name, in an abbreviation note (locative sg. with pi)}
+uppādanirodhavārepi: {in the section on arising and ceasing too, the full section name, in an abbreviation note (locative sg. with pi)}
+anulomampi: {the positive form too, in an abbreviation note (neuter sg. with pi)}
+paccanīkampi: {the negative form too, in an abbreviation note (neuter sg. with pi)}
+pucchā: {the questions, the question set of a section, in an abbreviation note (nominative pl.)}
+paccuppannepi: {in the present too, in an abbreviation note on the tense combinations (locative sg. with pi)}
+atītepi: {in the past too, in an abbreviation note on the tense combinations (locative sg. with pi)}
+paccuppannātītepi: {in the present and past too, in an abbreviation note on the tense combinations (locative sg. with pi)}
+paccuppannānāgatepi: {in the present and future too, in an abbreviation note on the tense combinations (locative sg. with pi)}
+atītānāgatepi: {in the past and future too, in an abbreviation note on the tense combinations (locative sg. with pi)}
+Cakkaṃ: {the cycle of questions, in 'cakkaṃ bandhitabbaṃ' the cycle is to be completed (nominative sg.)}
+ghānasadiso: {like the nose, an abbreviation note that the rest goes as with the nose (masculine nominative sg.)}
+ghānadhātusadisā: {like the nose element, an abbreviation note that the rest goes as with the nose element (nominative pl.)}
+#
+# --- Āyatanayamaka: title, headings, sense bases (pi-1 tags where the value matches)
+Āyatanayamakaṃ: {the pairs on sense bases, title of the sense-bases chapter (heading and colophon)}
+āyatanayamake: {in the pairs on sense bases, the earlier chapter referred to (locative sg.)}
+āyatanayamakassa: {of the pairs on sense bases, the earlier chapter referred to (genitive sg.)}
+Suddhāyatanavāro: {the section on the sense bases alone (heading)}
+Suddhāyatanamūlacakkavāro: {the cycle section based on the sense bases alone (heading)}
+āyatanā: {sense bases, the sense fields (nominative pl.)}
+āyatanaṃ: {sense base, sense field (nominative/accusative sg.)}
+āyatananti: {sense base, sense field, quoted with -ti (nominative sg.)}
+āyatanañceva: {sense base, sense field, with ceva 'both … and' (nominative sg.)}
+āyatanañca: {sense base, sense field, with ca 'and' (accusative sg.)}
+nāyatanā: {not sense bases, na with āyatanā in the negative questions (negated nominative pl.)}
+nāyatanaṃ: {not a sense base, na with āyatanaṃ in the negative questions (negated nominative sg.)}
+nāyatananti: {not a sense base, na with āyatanaṃ, quoted with -ti (negated nominative sg.)}
+kāyāyatanaṃ: {the body base, the body as a sense field (nominative sg.)}
+sotāyatanaṃ: {the ear base, the ear as a sense field (nominative sg.)}
+cakkhāyatanaṃ: {the eye base, the eye as a sense field (nominative sg.)}
+ghānāyatanaṃ: {the nose base, the nose as a sense field (nominative sg.)}
+jivhāyatanaṃ: {the tongue base, the tongue as a sense field (nominative sg.)}
+manāyatanaṃ: {the mind base, the mind as a sense field (nominative sg.)}
+rūpāyatanaṃ: {the base of visible forms, the visible as a sense field (nominative sg.)}
+saddāyatanaṃ: {the base of sounds, sound as a sense field (nominative sg.)}
+gandhāyatanaṃ: {the base of smells, odour as a sense field (nominative sg.)}
+rasāyatanaṃ: {the base of tastes, flavour as a sense field (nominative sg.)}
+phoṭṭhabbāyatanaṃ: {the base of tangibles, the touchable as a sense field (nominative sg.)}
+dhammāyatanaṃ: {the base of mind-objects (nominative sg.)}
+kāyāyatananti: {the body base, quoted with -ti (nominative sg.)}
+kāyāyatanañca: {the body base, with ca 'and' (nominative sg.)}
+sotāyatananti: {the ear base, quoted with -ti (nominative sg.)}
+sotāyananti: {the ear base, the source spelling sotāyana- for sotāyatana- rendered as meant, quoted with -ti (nominative sg.)}
+sotāyatanañca: {the ear base, with ca 'and' (nominative sg.)}
+cakkhāyatananti: {the eye base, quoted with -ti (nominative sg.)}
+cakkhāyatanañca: {the eye base, with ca 'and' (nominative sg.)}
+ghānāyatananti: {the nose base, quoted with -ti (nominative sg.)}
+ghānāyatanañca: {the nose base, with ca 'and' (nominative sg.)}
+jivhāyatananti: {the tongue base, quoted with -ti (nominative sg.)}
+manāyatananti: {the mind base, quoted with -ti (nominative sg.)}
+manāyatanañca: {the mind base, with ca 'and' (nominative sg.)}
+manāyatana: {the mind base, stem form before an abbreviation (stem)}
+rūpāyatananti: {the base of visible forms, quoted with -ti (nominative sg.)}
+rūpāyatanañca: {the base of visible forms, with ca 'and' (nominative sg.)}
+saddāyatananti: {the base of sounds, quoted with -ti (nominative sg.)}
+gandhāyatananti: {the base of smells, quoted with -ti (nominative sg.)}
+gandhāyatanañca: {the base of smells, with ca 'and' (nominative sg.)}
+rasāyatananti: {the base of tastes, quoted with -ti (nominative sg.)}
+rasāyatanañca: {the base of tastes, with ca 'and' (nominative sg.)}
+phoṭṭhabbāyatananti: {the base of tangibles, quoted with -ti (nominative sg.)}
+dhammāyatananti: {the base of mind-objects, quoted with -ti (nominative sg.)}
+dhammāyatanañca: {the base of mind-objects, with ca 'and' (nominative sg.)}
+Cakkhāyatanamūlakaṃ: {based on the eye base, closing label of the questions led by the eye base (neuter sg. label)}
+Ghānāyatanamūlakaṃ: {based on the nose base, closing label of the questions led by the nose base (neuter sg. label)}
+Rūpāyatanamūlakaṃ: {based on the base of visible forms, closing label of the questions led by it (neuter sg. label)}
+Manāyatanamūlakaṃ: {based on the mind base, closing label of the questions led by the mind base (neuter sg. label)}
+#
+# --- organs and objects as bare words (pi-1 / pi-2 tags where the value matches)
+kāyo: {the physical body, the organ of touch (nominative sg.)}
+kāyoti: {the physical body, the organ of touch, quoted with -ti (nominative sg.)}
+Kāyañca: {the physical body, the organ of touch, with ca 'and' (accusative sg.)}
+sotaṃ: {the ear, the hearing organ (nominative/accusative sg.)}
+sotanti: {the ear, the hearing organ, quoted with -ti (nominative sg.)}
+sotañceva: {the ear, the hearing organ, with ceva 'both … and' (nominative sg.)}
+Sotañca: {the ear, the hearing organ, with ca 'and' (accusative sg.)}
+cakkhu: {the eye, the seeing organ (nominative sg.)}
+cakkhūti: {the eye, the seeing organ, quoted with -ti (nominative sg.)}
+Cakkhuṃ: {the eye, the seeing organ (nominative/accusative sg.)}
+Cakkhuñca: {the eye, the seeing organ, with ca 'and' (accusative sg.)}
+ghānaṃ: {the nose, the smelling organ (nominative/accusative sg.)}
+ghānanti: {the nose, the smelling organ, quoted with -ti (nominative sg.)}
+jivhā: {the tongue, the tasting organ (stem and nominative sg.)}
+jivhāti: {the tongue, the tasting organ, quoted with -ti (nominative sg.)}
+jivhaṃ: {the tongue, the tasting organ (accusative sg.)}
+Jivhāpi: {the tongue, the tasting organ, with pi 'also' (nominative sg.)}
+jivha: {the tongue, the source spelling jivha for jivhaṃ before ṭhapetvā, rendered as meant (accusative sg.)}
+mano: {mind, the thinking faculty (nominative sg.)}
+manoti: {mind, the thinking faculty, quoted with -ti (nominative sg.)}
+Manaṃ: {mind, the thinking faculty (accusative sg.)}
+Manañca: {mind, the thinking faculty, with ca 'and' (accusative sg.)}
+gandho: {smell, the object of the nose (nominative sg.)}
+gandhoti: {smell, the object of the nose, quoted with -ti (nominative sg.)}
+gandhaṃ: {smell, the object of the nose (accusative sg.)}
+Gandhañca: {smell, the object of the nose, with ca 'and' (accusative sg.)}
+saddo: {sound, the object of the ear (nominative sg.)}
+saddoti: {sound, the object of the ear, quoted with -ti (nominative sg.)}
+saddaṃ: {sound, the object of the ear (accusative sg.)}
+raso: {taste, the object of the tongue (nominative sg.)}
+rasoti: {taste, the object of the tongue, quoted with -ti (nominative sg.)}
+rasaṃ: {taste, the object of the tongue (accusative sg.)}
+Rasañca: {taste, the object of the tongue, with ca 'and' (accusative sg.)}
+phoṭṭhabbo: {tangible object, what is touched (nominative sg.)}
+phoṭṭhabboti: {tangible object, what is touched, quoted with -ti (nominative sg.)}
+phoṭṭhabbaṃ: {tangible object, what is touched (accusative sg.)}
+#
+# --- figurative eye / ear / scent / taste in the term-analysis answers
+Dibbacakkhu: {the heavenly eye, supernormal sight, an 'eye' that is not the eye base (nominative sg.)}
+paññācakkhu: {the eye of wisdom, a figurative 'eye' that is not the eye base (nominative sg.)}
+Dibbasotaṃ: {the heavenly ear, supernormal hearing}
+taṇhāsotaṃ: {the stream of craving, a 'sota' meaning stream, not the ear (nominative sg.)}
+Sīlagandho: {the scent of virtue, a figurative 'scent' that is not the base of smells (nominative sg.)}
+samādhigandho: {the scent of concentration, a figurative 'scent' that is not the base of smells (nominative sg.)}
+paññāgandho: {the scent of wisdom, a figurative 'scent' that is not the base of smells (nominative sg.)}
+Attharaso: {the taste of the meaning, a figurative 'taste' that is not the base of tastes (nominative sg.)}
+dhammaraso: {the taste of the Teaching, a figurative 'taste' that is not the base of tastes (nominative sg.)}
+vimuttiraso: {the taste of liberation, a figurative 'taste' that is not the base of tastes (nominative sg.)}
+avaseso: {remaining, the rest (masculine nominative sg.)}
+#
+# --- Dhātuyamaka (pi-1 / pi-2 tags where the value matches)
+Dhātuyamakaṃ: {the pairs on elements, title of the elements chapter (heading and colophon)}
+dhātuyamakepi: {in the pairs on elements too, with pi 'also' (locative sg.)}
+dhātuyamakassa: {of the pairs on elements (genitive sg.)}
+dhātuyamakampi: {the pairs on elements too, with pi 'also' (nominative sg.)}
+Suddhadhātuvāro: {the section on the elements alone (heading)}
+Suddhadhātumūlacakkavāro: {the cycle section based on the elements alone (heading)}
+dhātuyo: {elements, irreducible constituents (nominative pl.)}
+dhātū: {elements, irreducible constituents, the eighteen elements (nominative pl.)}
+dhātu: {element, an irreducible constituent (nominative sg.)}
+dhātūti: {element, an irreducible constituent, quoted with -ti (nominative sg.)}
+dhātuñca: {element, an irreducible constituent, with ca 'and' (accusative sg.)}
+kāyadhātu: {the body element (nominative sg.)}
+sotadhātu: {the ear element (nominative sg.)}
+cakkhudhātu: {the eye element (nominative sg.)}
+ghānadhātu: {the nose element (nominative sg.)}
+jivhādhātu: {the tongue element (nominative sg.)}
+manodhātu: {the mind element (stem and nominative)}
+rūpadhātu: {the element of visible forms (nominative sg.)}
+saddadhātu: {the element of sounds (nominative sg.)}
+gandhadhātu: {the element of smells (nominative sg.)}
+rasadhātu: {the element of tastes (nominative sg.)}
+phoṭṭhabbadhātu: {the element of tangibles (nominative sg.)}
+dhammadhātu: {the element of mind-objects (nominative sg.)}
+cakkhuviññāṇadhātu: {the element of eye-consciousness (nominative sg.)}
+sotaviññāṇadhātu: {the element of ear-consciousness (nominative sg.)}
+ghānaviññāṇadhātu: {the element of nose-consciousness (nominative sg.)}
+jivhāviññāṇadhātu: {the element of tongue-consciousness (nominative sg.)}
+kāyaviññāṇadhātu: {the element of body-consciousness (nominative sg.)}
+manoviññāṇadhātu: {the mind-consciousness element (stem and nominative)}
+kāyadhātūti: {the body element, quoted with -ti (nominative sg.)}
+sotadhātūti: {the ear element, quoted with -ti (nominative sg.)}
+cakkhudhātūti: {the eye element, quoted with -ti (nominative sg.)}
+ghānadhātūti: {the nose element, quoted with -ti (nominative sg.)}
+manodhātūti: {the mind element, quoted with -ti (nominative sg.)}
+rūpadhātūti: {the element of visible forms, quoted with -ti (nominative sg.)}
+gandhadhātūti: {the element of smells, quoted with -ti (nominative sg.)}
+rasadhātūti: {the element of tastes, quoted with -ti (nominative sg.)}
+dhammadhātūti: {the element of mind-objects, quoted with -ti (nominative sg.)}
+cakkhuviññāṇadhātūti: {the element of eye-consciousness, quoted with -ti (nominative sg.)}
+manoviññāṇadhātūti: {the mind-consciousness element, quoted with -ti (nominative sg.)}
+Kāyadhātuṃ: {the body element (accusative sg.)}
+sotadhātuṃ: {the ear element (accusative sg.)}
+cakkhudhātuṃ: {the eye element (accusative sg.)}
+Manodhātuṃ: {the mind element (accusative sg.)}
+Dhammadhātuṃ: {the element of mind-objects (accusative sg.)}
+kāyadhātuñca: {the body element, with ca 'and' (accusative sg.)}
+sotadhātuñca: {the ear element, with ca 'and' (accusative sg.)}
+cakkhudhātuñca: {the eye element, with ca 'and' (accusative sg.)}
+manodhātuñca: {the mind element, with ca 'and' (accusative sg.)}
+rūpadhātuñca: {the element of visible forms, with ca 'and' (accusative sg.)}
+gandhadhātuñca: {the element of smells, with ca 'and' (accusative sg.)}
+rasadhātuñca: {the element of tastes, with ca 'and' (accusative sg.)}
+dhammadhātuñca: {the element of mind-objects, with ca 'and' (accusative sg.)}
+cakkhuviññāṇaṃ: {eye-consciousness, seeing consciousness (nominative sg.)}
+sotaviññāṇaṃ: {ear-consciousness, hearing consciousness (nominative sg.)}
+Ghānaviññāṇaṃ: {nose-consciousness, smelling consciousness (nominative sg.)}
+jivhāviññāṇaṃ: {tongue-consciousness, tasting consciousness (nominative sg.)}
+Kāyaviññāṇaṃ: {body-consciousness, tactile consciousness (nominative sg.)}
+manoviññāṇaṃ: {mind-consciousness, mental consciousness (nominative sg.)}
+cakkhuviññāṇanti: {eye-consciousness, seeing consciousness, quoted with -ti (nominative sg.)}
+manoviññāṇanti: {mind-consciousness, mental consciousness, quoted with -ti (nominative sg.)}
+#
+# --- Saccayamaka (dukkha- forms with the truth sense: senses-conventions §3)
+Saccayamakaṃ: {the pairs on truths, title of the truths chapter (heading and colophon)}
+Suddhasaccavāro: {the section on the truths alone (heading)}
+Suddhasaccamūlacakkavāro: {the cycle section based on the truths alone (heading)}
+saccāni: {truths, the noble truths (nominative pl.)}
+saccā: {truths, in the question sections (nominative pl.)}
+saccaṃ: {truth, a noble truth (nominative/accusative sg.)}
+saccanti: {truth, a noble truth, quoted with -ti (nominative sg.)}
+saccañceva: {truth, a noble truth, with ceva 'both … and' (nominative sg.)}
+saccañca: {truth, a noble truth, with ca 'and' (accusative sg.)}
+dukkhasaccaṃ: {the truth of suffering, first of the four noble truths (nominative sg.)}
+dukkhasaccanti: {the truth of suffering, quoted with -ti (nominative sg.)}
+dukkhasaccañca: {the truth of suffering, with ca 'and' (nominative sg.)}
+samudayasaccaṃ: {the truth of the origin, second of the four noble truths (nominative sg.)}
+samudayasaccanti: {the truth of the origin, quoted with -ti (nominative sg.)}
+samudayasaccañca: {the truth of the origin, with ca 'and' (nominative sg.)}
+nirodhasaccaṃ: {the truth of cessation, third of the four noble truths (nominative sg.)}
+nirodhasaccanti: {the truth of cessation, quoted with -ti (nominative sg.)}
+nirodhasaccañca: {the truth of cessation, with ca 'and' (nominative sg.)}
+maggasaccaṃ: {the truth of the path, fourth of the four noble truths (nominative sg.)}
+maggasaccanti: {the truth of the path, quoted with -ti (nominative sg.)}
+maggasaccañca: {the truth of the path, with ca 'and' (nominative sg.)}
+dukkhañceva: {suffering, the first noble truth, with ceva 'both … and' in the chapter on truths (nominative sg.)}
+Kāyikaṃ dukkhaṃ: {bodily suffering, painful bodily feeling, in the chapter on truths (neuter sg. phrase)}
+cetasikaṃ dukkhaṃ: {mental suffering, unpleasantness of mind, in the chapter on truths (neuter sg. phrase)}
+samudayo: {origin, the bare word tested against the truth of the origin (nominative sg.)}
+samudayoti: {origin, quoted with -ti (nominative sg.)}
+Samudayaṃ: {origin, arising, of suffering (accusative sg.)}
+Samudayañca: {origin, arising, of suffering, with ca 'and' (accusative sg.)}
+nirodho: {cessation, the bare word tested against the truth of cessation (nominative sg.)}
+nirodhoti: {cessation, quoted with -ti (nominative sg.)}
+nirodhaṃ: {cessation, of suffering (accusative sg.)}
+Nirodhañca: {cessation, of suffering, with ca 'and' (accusative sg.)}
+maggo: {the path, as a set of factors (nominative sg.)}
+maggoti: {the path, as a set of factors, quoted with -ti (nominative sg.)}
+Maggaṃ: {path, way (accusative sg.)}
+Maggañca: {path, way, with ca 'and' (accusative sg.)}
+avasesaṃ: {remaining, the rest (neuter sg.)}
+#
+# --- moment phrases (senses-conventions §4 moments)
+taṇhāvippayuttacittassa uppādakkhaṇe: {at the arising moment of a mind not conjoined with craving (locative phrase)}
+maggavippayuttacittassa uppādakkhaṇe: {at the arising moment of a mind not conjoined with the path (locative phrase)}
+taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe: {at the arising moment of a mind conjoined neither with craving nor with the path (locative phrase)}
+maggavippayuttataṇhāvippayuttacittassa uppādakkhaṇe: {at the arising moment of a mind conjoined neither with the path nor with craving (locative phrase)}
+maggavippayuttataṇhāvippayuttacittassa: {of a mind conjoined neither with the path nor with craving (genitive sg.)}
+Taṇhāya uppādakkhaṇe: {at the moment of the arising of craving (locative phrase)}
+maggassa: {of the path, the supramundane path, in 'maggassa uppādakkhaṇe' (genitive sg.)}
+phalassa: {of the fruit, the fruition of the path, in 'phalassa uppādakkhaṇe' (genitive sg.)}

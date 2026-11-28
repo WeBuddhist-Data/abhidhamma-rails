@@ -1,0 +1,800 @@
+﻿SENTCOUNT 7-02-anusayayamaka.md 60 4 3
+SENTCOUNT 7-02-anusayayamaka.md 149 3 2
+SENTCOUNT 7-02-anusayayamaka.md 250 8 7
+SENTCOUNT 7-02-anusayayamaka.md 254 10 9
+SENTCOUNT 7-03-anusayayamaka.md 61 3 2
+SENTCOUNT 7-03-anusayayamaka.md 240 4 3
+SENTCOUNT 7-04-anusayayamaka.md 61 4 3
+SENTCOUNT 7-04-anusayayamaka.md 151 3 2
+SENTCOUNT 7-04-anusayayamaka.md 155 4 3
+SENTCOUNT 7-05-anusayayamaka.md 62 2 1
+SENTCOUNT 7-05-anusayayamaka.md 146 4 3
+SENTCOUNT 7-05-anusayayamaka.md 232 4 3
+P 257 Āmantā.
+   R 257 7-01:20 Да.
+P 77 Natthi.
+   R 77 7-01:152 Такого нет.
+P 75 No.
+   R 75 7-01:99 Нет.
+P 19 #SP #PL tesaṃ tattha A_o ca nānuseti A_o ca nānuseti.
+   R 19 7-02:163 У #SP #PL, там не залегает ни скрытая склонность @, ни @.
+P 19 #SP #PL te tato A_ena ca niranusayā A_ena ca niranusayā.
+   R 19 7-04:164 #SP #PL, там не имеют ни скрытой склонности @, ни @.
+P 18 #PL ettha A_o nānuseti, no ca tattha A_o nānuseti.
+   R 18 7-02:71 #PL не залегает скрытая склонность @, но там залегает скрытая склонность @.
+P 18 #PL ettha A_o ca nānuseti A_o ca nānuseti.
+   R 18 7-02:71 #PL, не залегает ни скрытая склонность @, ни @.
+P 18 #PL tato A_ena niranusayo, no ca tato A_ena niranusayo.
+   R 18 7-04:72 #PL не имеют скрытой склонности @, но там имеют скрытую склонность @.
+P 18 #PL tato A_ena ca niranusayo A_ena ca niranusayo.
+   R 18 7-04:72 #PL, не имеют ни скрытой склонности @, ни @.
+P 17 #AR #ALL A_o ca nānuseti A_o ca nānuseti.
+   R 17 7-02:167 У #AR #ALL не залегает ни скрытая склонность @, ни @.
+P 17 #AR #ALL A_ena ca niranusayo A_ena ca niranusayo.
+   R 17 7-04:168 #AR #ALL не имеет ни скрытой склонности @, ни @.
+P 16 #PL ettha A+_o ca anusenti, no ca tattha A+_o ca anusenti.
+   R 16 7-01:166 #PL залегают скрытые склонности @+, но там не залегают скрытые склонности @+.
+P 16 Tadekaṭṭhaṃ pajahati.
+   R 12 7-05:8 Устраняет ту, что пребывает вместе с ней.
+   R 2 7-05:44 Устраняет ту, что пребывает вместе с ними.
+   R 2 7-05:48 Устраняет те, что пребывают вместе с ней.
+P 15 (Dukamūlakaṃ)
+   R 15 7-01:74 (На основе двух)
+P 15 (Tikamūlakaṃ)
+   R 15 7-01:81 (На основе трёх)
+P 15 (Chakkamūlakaṃ)
+   R 15 7-01:95 (На основе шести)
+P 15 (Ka) yattha A_o anuseti tattha A_o anusetīti?
+   R 15 7-01:99 (а) Где залегает скрытая склонность @, там залегает скрытая склонность @?
+P 15 (Kha) yattha vā pana A_o anuseti tattha A_o anusetīti?
+   R 15 7-01:100 (б) А где залегает скрытая склонность @, там залегает скрытая склонность @?
+P 14 (Ekamūlakaṃ)
+   R 14 7-01:150 (На основе одной)
+P 14 #T3 #PL tesaṃ tattha A_o nānuseti, no ca tesaṃ tattha A_o nānuseti.
+   R 14 7-02:163 У #T3 #PL там не залегает скрытая склонность @, но у них там залегает скрытая склонность @.
+P 14 #T3 #PL te tato A_ena niranusayā, no ca te tato A_ena niranusayā.
+   R 14 7-04:163 #T3 #PL там не имеют скрытой склонности @, но они там имеют скрытую склонность @.
+P 13 (Pañcakamūlakaṃ)
+   R 13 7-01:91 (На основе пяти)
+P 13 #PL tato A+_ena ca sānusayo, no ca tato A+_ena ca sānusayo.
+   R 13 7-03:133 #PL имеют скрытые склонности @+, но там не имеют скрытых склонностей @+.
+P 13 (Ka) yo yato A_ena sānusayo so tato A_ena sānusayoti?
+   R 13 7-03:163 (а) Кто где имеет скрытую склонность @, тот там имеет скрытую склонность @?
+P 13 (Kha) yo vā pana yato A_ena sānusayo so tato A_ena sānusayoti?
+   R 13 7-03:164 (б) А кто где имеет скрытую склонность @, тот там имеет скрытую склонность @?
+P 13 (Ka) yato A_ena niranusayo tato A_ena niranusayoti?
+   R 13 7-04:71 (а) Где не имеют скрытой склонности @, там не имеют скрытой склонности @?
+P 13 (Kha) yato vā pana A_ena niranusayo tato A_ena niranusayoti?
+   R 13 7-04:73 (б) А где не имеют скрытой склонности @, там не имеют скрытой склонности @?
+P 13 (Ka) yo yato A_ena niranusayo so tato A_ena niranusayoti?
+   R 13 7-04:162 (а) Кто где не имеет скрытой склонности @, тот там не имеет скрытой склонности @?
+P 13 (Kha) yo vā pana yato A_ena niranusayo so tato A_ena niranusayoti?
+   R 13 7-04:165 (б) А кто где не имеет скрытой склонности @, тот там не имеет скрытой склонности @?
+P 13 (Ka) yato A_aṃ pajahati tato A_aṃ pajahatīti?
+   R 13 7-05:74 (а) Где устраняют скрытую склонность @, там устраняют скрытую склонность @?
+P 13 (Kha) yato vā pana A_aṃ pajahati tato A_aṃ pajahatīti?
+   R 13 7-05:75 (б) А где устраняют скрытую склонность @, там устраняют скрытую склонность @?
+P 13 (Ka) yo yato A_aṃ pajahati so tato A_aṃ pajahatīti?
+   R 13 7-05:161 (а) Кто где устраняет скрытую склонность @, тот там устраняет скрытую склонность @?
+P 13 (Kha) yo vā pana yato A_aṃ pajahati so tato A_aṃ pajahatīti?
+   R 13 7-05:162 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытую склонность @?
+P 12 (Ka) yassa yattha A_o anuseti tassa tattha A_o anusetīti?
+   R 12 7-01:198 (а) У кого где залегает скрытая склонность @, у того там залегает скрытая склонность @?
+P 12 (Kha) yassa vā pana yattha A_o anuseti tassa tattha A_o anusetīti?
+   R 12 7-01:199 (б) А у кого где залегает скрытая склонность @, у того там залегает скрытая склонность @?
+P 12 (Ka) yattha A_o nānuseti tattha A_o nānusetīti?
+   R 12 7-02:70 (а) Где не залегает скрытая склонность @, там не залегает скрытая склонность @?
+P 12 (Kha) yattha vā pana A_o nānuseti tattha A_o nānusetīti?
+   R 12 7-02:72 (б) А где не залегает скрытая склонность @, там не залегает скрытая склонность @?
+P 12 (Ka) yassa yattha A_o nānuseti tassa tattha A_o nānusetīti?
+   R 12 7-02:162 (а) У кого где не залегает скрытая склонность @, у того там не залегает скрытая склонность @?
+P 12 (Kha) yassa vā pana yattha A_o nānuseti tassa tattha A_o nānusetīti?
+   R 12 7-02:164 (б) А у кого где не залегает скрытая склонность @, у того там не залегает скрытая склонность @?
+P 12 (Ka) yato A_ena sānusayo tato A_ena sānusayoti?
+   R 12 7-03:73 (а) Где имеют скрытую склонность @, там имеют скрытую склонность @?
+P 12 (Kha) yato vā pana A_ena sānusayo tato A_ena sānusayoti?
+   R 12 7-03:74 (б) А где имеют скрытую склонность @, там имеют скрытую склонность @?
+P 11 #PL ettha A_o anuseti, no ca tattha A_o anuseti.
+   R 11 7-01:103 #PL залегает скрытая склонность @, но там не залегает скрытая склонность @.
+P 11 #PL ettha A_o ca anuseti A_o ca anuseti.
+   R 11 7-01:103 #PL и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 11 (Ka) yattha A+_o ca anusenti tattha A_o anusetīti?
+   R 11 7-01:152 (а) Где залегают скрытые склонности @+, там залегает скрытая склонность @?
+P 11 (Ka) yassa yattha A+_o ca anusenti tassa tattha A_o anusetīti?
+   R 11 7-01:251 (а) У кого где залегают скрытые склонности @+, у того там залегает скрытая склонность @?
+P 11 (Kha) yassa vā pana yattha A_o anuseti tassa tattha A+_o ca anusentīti?
+   R 11 7-01:252 (б) А у кого где залегает скрытая склонность @, у того там залегают скрытые склонности @+?
+P 11 (Ka) yato A+_ena ca sānusayo tato A_ena sānusayoti?
+   R 11 7-03:119 (а) Где имеют скрытые склонности @+, там имеют скрытую склонность @?
+P 11 (Kha) yato vā pana A_ena sānusayo tato A+_ena ca sānusayoti?
+   R 11 7-03:120 (б) А где имеют скрытую склонность @, там имеют скрытые склонности @+?
+P 10 (Kha) yattha vā pana A_o anuseti tattha A+_o ca anusentīti?
+   R 10 7-01:153 (б) А где залегает скрытая склонность @, там залегают скрытые склонности @+?
+P 10 #PL ettha A+_o ca anusenti, no ca tattha A_o anuseti.
+   R 10 7-01:154 #PL залегают скрытые склонности @+, но там не залегает скрытая склонность @.
+P 10 #SS #PL tassa tattha A+_o ca anusenti, no ca tassa tattha A+_o ca anusenti.
+   R 10 7-01:265 У #SS #PL там залегают скрытые склонности @+, но у неё там не залегают скрытые склонности @+.
+P 10 #SS #PL tassa tattha A_o ca nānuseti A_o ca nānuseti.
+   R 10 7-02:167 У #SS #PL, там не залегает ни скрытая склонность @, ни @.
+P 10 #PL tato A_ena sānusayo, no ca tato A_ena sānusayo.
+   R 10 7-03:77 #PL имеют скрытую склонность @, но там не имеют скрытой склонности @.
+P 10 #PL tato A_ena ca sānusayo A_ena ca sānusayo.
+   R 10 7-03:77 #PL и имеют скрытую склонность @, и имеют скрытую склонность @.
+P 10 #PL tato A+_ena ca sānusayo, no ca tato A_ena sānusayo.
+   R 10 7-03:121 #PL имеют скрытые склонности @+, но там не имеют скрытой склонности @.
+P 10 #SS #PL so tato A_ena ca niranusayo A_ena ca niranusayo.
+   R 10 7-04:168 #SS #PL, там не имеет ни скрытой склонности @, ни @.
+P 10 #PL tato A_añca pajahati A_añca pajahati.
+   R 10 7-05:78 #PL и устраняют скрытую склонность @, и устраняют скрытую склонность @.
+P 9 (Ka) yassa A_o anuseti tassa A_o anusetīti?
+   R 9 7-01:20 (а) У кого залегает скрытая склонность @, у того залегает скрытая склонность @?
+P 9 (Kha) yassa vā pana A_o anuseti tassa A_o anusetīti?
+   R 9 7-01:21 (б) А у кого залегает скрытая склонность @, у того залегает скрытая склонность @?
+P 9 (Ka) yattha A+_o ca nānusenti tattha A_o nānusetīti?
+   R 9 7-02:125 (а) Где не залегают скрытые склонности @+, там не залегает скрытая склонность @?
+P 9 (Ka) yo yato A+_ena ca sānusayo so tato A_ena sānusayoti?
+   R 9 7-03:216 (а) Кто где имеет скрытые склонности @+, тот там имеет скрытую склонность @?
+P 9 (Kha) yo vā pana yato A_ena sānusayo so tato A+_ena ca sānusayoti?
+   R 9 7-03:217 (б) А кто где имеет скрытую склонность @, тот там имеет скрытые склонности @+?
+P 9 (Ka) yo yato A+_ena ca niranusayo so tato A_ena niranusayoti?
+   R 9 7-04:224 (а) Кто где не имеет скрытых склонностей @+, тот там не имеет скрытой склонности @?
+P 9 (Kha) yo vā pana yato A_ena niranusayo so tato A+_ena ca niranusayoti?
+   R 9 7-04:226 (б) А кто где не имеет скрытой склонности @, тот там не имеет скрытых склонностей @+?
+P 9 #NA #PL so tato A+_ena ca niranusayo, no ca so tato A_ena niranusayo.
+   R 9 7-04:233 #NA #PL там не имеет скрытых склонностей @+, но он там имеет скрытую склонность @.
+P 9 #PL tato A_aṃ pajahati, no ca tato A_aṃ pajahati.
+   R 9 7-05:78 #PL устраняют скрытую склонность @, но там не устраняют скрытую склонность @.
+P 8 #PL ettha A+_o ca nānusenti, no ca tattha A_o nānuseti.
+   R 8 7-02:126 #PL не залегают скрытые склонности @+, но там залегает скрытая склонность @.
+P 8 (Ka) yassa yattha A+_o ca nānusenti tassa tattha A_o nānusetīti?
+   R 8 7-02:222 (а) У кого где не залегают скрытые склонности @+, у того там не залегает скрытая склонность @?
+P 8 (Kha) yassa vā pana yattha A_o nānuseti tassa tattha A+_o ca nānusentīti?
+   R 8 7-02:224 (б) А у кого где не залегает скрытая склонность @, у того там не залегают скрытые склонности @+?
+P 8 #SS #PL so tato A+_ena ca sānusayo, no ca so tato A+_ena ca sānusayo.
+   R 8 7-03:230 #SS #PL там имеет скрытые склонности @+, но она там не имеет скрытых склонностей @+.
+P 8 (Ka) yato A+_ena ca niranusayo tato A_ena niranusayoti?
+   R 8 7-04:127 (а) Где не имеют скрытых склонностей @+, там не имеют скрытой склонности @?
+P 8 #PL tato A+_ena ca niranusayo, no ca tato A_ena niranusayo.
+   R 8 7-04:128 #PL не имеют скрытых склонностей @+, но там имеют скрытую склонность @.
+P 7 Kattha A_o anuseti?
+   R 7 7-01:7 Где залегает скрытая склонность @?
+P 7 #PJ #PL tassa tattha A+_o ca anusenti, no ca tassa tattha A+_o ca anusenti.
+   R 7 7-01:265 У #PJ #PL там залегают скрытые склонности @+, но у него там не залегают скрытые склонности @+.
+P 7 #SP #PL tesaṃ tattha A+_o ca anusenti, no ca tesaṃ tattha A+_o ca anusenti.
+   R 7 7-01:271 У #SP #PL там залегают скрытые склонности @+, но у них там не залегают скрытые склонности @+.
+P 7 Yassa vā pana A_o nānuseti tassa A_o nānusetīti?
+   R 7 7-02:11 А у кого не залегает скрытая склонность @, у того не залегает скрытая склонность @?
+P 7 (Kha) yattha vā pana A_o nānuseti tattha A+_o ca nānusentīti?
+   R 7 7-02:127 (б) А где не залегает скрытая склонность @, там не залегают скрытые склонности @+?
+P 7 #NA #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A_o nānuseti.
+   R 7 7-02:223 У #NA #PL там не залегают скрытые склонности @+, но у него там залегает скрытая склонность @.
+P 7 Yo A_ena sānusayo so A_ena…pe… A_ena sānusayoti?
+   R 7 7-03:10 Кто имеет скрытую склонность @, тот имеет скрытую склонность @… @?
+P 7 Yo vā pana A_ena sānusayo so A_ena sānusayoti?
+   R 7 7-03:12 А кто имеет скрытую склонность @, тот имеет скрытую склонность @?
+P 7 Āmantā …pe….
+   R 7 7-03:34 Да…
+P 7 Yo A_ena niranusayo so A_ena…pe… A_ena niranusayoti?
+   R 7 7-04:10 Кто не имеет скрытой склонности @, тот не имеет скрытой склонности @… @?
+P 7 Yo vā pana A_ena niranusayo so A_ena niranusayoti?
+   R 7 7-04:11 А кто не имеет скрытой склонности @, тот не имеет скрытой склонности @?
+P 7 (Kha) yato vā pana A_ena niranusayo tato A+_ena ca niranusayoti?
+   R 7 7-04:129 (б) А где не имеют скрытой склонности @, там не имеют скрытых склонностей @+?
+P 7 #SS #PL so tato A+_ena ca niranusayo A_ena ca niranusayo.
+   R 4 7-04:225 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @.
+   R 1 7-04:247 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @.
+   R 1 7-04:258 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+   R 1 7-04:262 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @, ни @.
+P 7 #SP #PL te tato A_ena ca niranusayā A+_ena ca niranusayā.
+   R 3 7-04:227 #SP #PL, там не имеют ни скрытой склонности @, ни @, ни @.
+   R 2 7-04:242 #SP #PL, там не имеют ни скрытой склонности @, ни @, ни @, ни @.
+   R 1 7-04:252 #SP #PL, там не имеют ни скрытой склонности @, ни @, ни @, ни @, ни @.
+   R 1 7-04:256 #SP #PL, там не имеют ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+P 7 Yo A_aṃ pajahati so A_aṃ…pe… A_aṃ pajahatīti?
+   R 7 7-05:10 Кто устраняет скрытую склонность @, тот устраняет скрытую склонность @… @?
+P 7 Yo vā pana A_aṃ pajahati so A_aṃ pajahatīti?
+   R 7 7-05:11 А кто устраняет скрытую склонность @, тот устраняет скрытую склонность @?
+P 6 #PJ A_o ca anuseti A_o ca anuseti.
+   R 6 7-01:26 У #PJ и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 6 Yassa A_o anuseti tassa A_o…pe… A_o anusetīti?
+   R 6 7-01:41 У кого залегает скрытая склонность @, у того залегает скрытая склонность @… @?
+P 6 Yassa vā pana A_o anuseti tassa A_o anusetīti?
+   R 6 7-01:42 А у кого залегает скрытая склонность @, у того залегает скрытая склонность @?
+P 6 Yassa A+_o ca anusenti tassa A_o…pe… A_o anusetīti?
+   R 6 7-01:69 У кого залегают скрытые склонности @+, у того залегает скрытая склонность @… @?
+P 6 Yassa vā pana A_o anuseti tassa A+_o ca anusentīti?
+   R 6 7-01:71 А у кого залегает скрытая склонность @, у того залегают скрытые склонности @+?
+P 6 #T3 #PL tesaṃ tattha A_o anuseti, no ca tesaṃ tattha A_o anuseti.
+   R 6 7-01:202 У #T3 #PL там залегает скрытая склонность @, но у них там не залегает скрытая склонность @.
+P 6 #SP #PL tesaṃ tattha A_o ca anuseti A_o ca anuseti.
+   R 6 7-01:202 У #SP #PL там и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 6 #NA #PL tassa tattha A_o anuseti, no ca tassa tattha A+_o ca anusenti.
+   R 6 7-01:253 У #NA #PL там залегает скрытая склонность @, но у него там не залегают скрытые склонности @+.
+P 6 #SS #PL tassa tattha A+_o ca anusenti, no ca tassa tattha A_o anuseti.
+   R 6 7-01:256 У #SS #PL там залегают скрытые склонности @+, но у неё там не залегает скрытая склонность @.
+P 6 #AR A_o ca nānuseti A_o ca nānuseti.
+   R 6 7-02:8 У #AR не залегает ни скрытая склонность @, ни @.
+P 6 Yassa A_o nānuseti tassa A_o…pe… A_o nānusetīti?
+   R 6 7-02:10 У кого не залегает скрытая склонность @, у того не залегает скрытая склонность @… @?
+P 6 #D2 #ALL A_o ca nānuseti A_o ca nānuseti.
+   R 6 7-02:163 У #D2 #ALL не залегает ни скрытая склонность @, ни @.
+P 6 #NA #PL tassa tattha A_o nānuseti, no ca tassa tattha A_o nānuseti.
+   R 6 7-02:167 У #NA #PL там не залегает скрытая склонность @, но у него там залегает скрытая склонность @.
+P 6 #T3 #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti.
+   R 6 7-02:223 У #T3 #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @.
+P 6 #SS #PL tassa tattha A+_o ca nānusenti A_o ca nānuseti.
+   R 4 7-02:223 У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @.
+   R 1 7-02:245 У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @.
+   R 1 7-02:257 У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @, ни @.
+P 6 #AR #ALL…pe….
+   R 6 7-02:231 У #AR #ALL…
+P 6 #T3 #PL te tato A_ena sānusayā, no ca te tato A_ena sānusayā.
+   R 6 7-03:167 #T3 #PL там имеют скрытую склонность @, но они там не имеют скрытой склонности @.
+P 6 #SP #PL te tato A_ena ca sānusayā A_ena ca sānusayā.
+   R 6 7-03:167 #SP #PL там и имеют скрытую склонность @, и имеют скрытую склонность @.
+P 6 #AR A_ena ca niranusayo A_ena ca niranusayo.
+   R 6 7-04:8 #AR не имеет ни скрытой склонности @, ни @.
+P 6 #D2 #ALL A_ena ca niranusayā A_ena ca niranusayā.
+   R 6 7-04:164 #D2 #ALL не имеют ни скрытой склонности @, ни @.
+P 6 #T3 #PL te tato A+_ena ca niranusayā, no ca te tato A_ena niranusayā.
+   R 6 7-04:225 #T3 #PL там не имеют скрытых склонностей @+, но они там имеют скрытую склонность @.
+P 6 #AR #ALL A+_ena ca niranusayo A_ena ca niranusayo.
+   R 3 7-04:225 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @.
+   R 1 7-04:247 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @.
+   R 1 7-04:258 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+   R 1 7-04:262 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @, ни @.
+P 5 #NA A_o anuseti, no ca tassa A_o anuseti.
+   R 5 7-01:24 У #NA залегает скрытая склонность @, но у него не залегает скрытая склонность @.
+P 5 #T3 A_o ca anuseti A_o ca anuseti.
+   R 5 7-01:24 У #T3 и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 5 #PJ #PL tassa tattha A_o ca anuseti A_o ca anuseti.
+   R 5 7-01:204 У #PJ #PL там и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 5 (Ka) yassa A_o nānuseti tassa A_o nānusetīti?
+   R 5 7-02:5 (а) У кого не залегает скрытая склонность @, у того не залегает скрытая склонность @?
+P 5 (Kha) yassa vā pana A_o nānuseti tassa A_o nānusetīti?
+   R 5 7-02:6 (б) А у кого не залегает скрытая склонность @, у того не залегает скрытая склонность @?
+P 5 Yassa A+_o ca nānusenti tassa A_o…pe… A_o nānusetīti?
+   R 5 7-02:45 У кого не залегают скрытые склонности @+, у того не залегает скрытая склонность @… @?
+P 5 Yassa vā pana A_o nānuseti tassa A+_o ca nānusentīti?
+   R 5 7-02:46 А у кого не залегает скрытая склонность @, у того не залегают скрытые склонности @+?
+P 5 #SP #PL tesaṃ tattha A_o ca nānuseti A+_o ca nānusenti.
+   R 3 7-02:225 У #SP #PL, там не залегают ни скрытая склонность @, ни @, ни @.
+   R 2 7-02:240 У #SP #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @.
+P 5 (Ka) yo A_ena sānusayo so A_ena sānusayoti?
+   R 5 7-03:5 (а) Кто имеет скрытую склонность @, тот имеет скрытую склонность @?
+P 5 (Kha) yo vā pana A_ena sānusayo so A_ena sānusayoti?
+   R 5 7-03:6 (б) А кто имеет скрытую склонность @, тот имеет скрытую склонность @?
+P 5 Yo A+_ena ca sānusayo so A_ena…pe… A_ena sānusayoti?
+   R 5 7-03:46 Кто имеет скрытые склонности @+, тот имеет скрытую склонность @… @?
+P 5 Yo vā pana A_ena sānusayo so A+_ena ca sānusayoti?
+   R 5 7-03:48 А кто имеет скрытую склонность @, тот имеет скрытые склонности @+?
+P 5 #PJ #PL so tato A_ena ca sānusayo A_ena ca sānusayo.
+   R 5 7-03:169 #PJ #PL там и имеет скрытую склонность @, и имеет скрытую склонность @.
+P 5 #NA #PL so tato A_ena sānusayo, no ca so tato A+_ena ca sānusayo.
+   R 5 7-03:218 #NA #PL там имеет скрытую склонность @, но он там не имеет скрытых склонностей @+.
+P 5 #SP #PL te tato A+_ena ca sānusayā, no ca te tato A+_ena ca sānusayā.
+   R 5 7-03:236 #SP #PL там имеют скрытые склонности @+, но они там не имеют скрытых склонностей @+.
+P 5 (Ka) yo A_ena niranusayo so A_ena niranusayoti?
+   R 5 7-04:5 (а) Кто не имеет скрытой склонности @, тот не имеет скрытой склонности @?
+P 5 (Kha) yo vā pana A_ena niranusayo so A_ena niranusayoti?
+   R 5 7-04:6 (б) А кто не имеет скрытой склонности @, тот не имеет скрытой склонности @?
+P 5 Yo vā pana A_ena niranusayo so A+_ena ca niranusayoti?
+   R 5 7-04:47 А кто не имеет скрытой склонности @, тот не имеет скрытых склонностей @+?
+P 5 #NA #PL so tato A_ena niranusayo, no ca so tato A_ena niranusayo.
+   R 5 7-04:168 #NA #PL там не имеет скрытой склонности @, но он там имеет скрытую склонность @.
+P 5 (Ka) yo A_aṃ pajahati so A_aṃ pajahatīti?
+   R 5 7-05:5 (а) Кто устраняет скрытую склонность @, тот устраняет скрытую склонность @?
+P 5 (Kha) yo vā pana A_aṃ pajahati so A_aṃ pajahatīti?
+   R 5 7-05:6 (б) А кто устраняет скрытую склонность @, тот устраняет скрытую склонность @?
+P 5 A_aṃ pajahati.
+   R 4 7-05:58 Устраняет скрытую склонность @.
+   R 1 7-05:139 Устраняют скрытую склонность @.
+P 5 #PL tato A_añca A_añca pajahati, no ca tato A_aṃ pajahati.
+   R 5 7-05:124 #PL устраняют скрытые склонности @+, но там не устраняют скрытую склонность @.
+P 4 #PL ettha A_o anuseti.
+   R 4 7-01:7 #PL залегает скрытая склонность @.
+P 4 #NA A+_o ca anusenti, no ca tassa A+_o ca anusenti.
+   R 4 7-01:81 У #NA залегают скрытые склонности @+, но у него не залегают скрытые склонности @+.
+P 4 (Catukkamūlakaṃ)
+   R 4 7-01:87 (На основе четырёх)
+P 4 Yassa vā pana yattha A_o anuseti tassa tattha A_o anusetīti?
+   R 4 7-01:205 А у кого где залегает скрытая склонность @, у того там залегает скрытая склонность @?
+P 4 #PJ #PL tassa tattha A_o anuseti, no ca tassa tattha A_o anuseti.
+   R 4 7-01:206 У #PJ #PL там залегает скрытая склонность @, но у него там не залегает скрытая склонность @.
+P 4 #SS #PL tassa tattha A_o ca anuseti A_o ca anuseti.
+   R 4 7-01:206 У #SS #PL там и залегает скрытая склонность @, и залегает скрытая склонность @.
+P 4 #SP #PL tesaṃ tattha A+_o ca anusenti, no ca tesaṃ tattha A_o anuseti.
+   R 4 7-01:253 У #SP #PL там залегают скрытые склонности @+, но у них там не залегает скрытая склонность @.
+P 4 #NA A_o nānuseti, no ca tassa A_o nānuseti.
+   R 4 7-02:8 У #NA не залегает скрытая склонность @, но у него залегает скрытая склонность @.
+P 4 Yattha vā pana A_o nānuseti tattha A_o nānusetīti?
+   R 4 7-02:79 А где не залегает скрытая склонность @, там не залегает скрытая склонность @?
+P 4 #PL ettha A+_o ca nānusenti A_o ca nānuseti.
+   R 4 7-02:126 #PL, не залегают ни скрытая склонность @, ни @, ни @.
+P 4 #PL ettha A_o ca nānuseti A+_o ca nānusenti.
+   R 2 7-02:128 #PL, не залегают ни скрытая склонность @, ни @, ни @.
+   R 1 7-02:144 #PL, не залегают ни скрытая склонность @, ни @, ни @, ни @.
+   R 1 7-02:153 #PL, не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @.
+P 4 #PJ #PL tassa tattha A_o nānuseti, no ca tassa tattha A_o nānuseti.
+   R 4 7-02:170 У #PJ #PL там не залегает скрытая склонность @, но у него там залегает скрытая склонность @.
+P 4 Yassa vā pana yattha A_o nānuseti tassa tattha A_o nānusetīti?
+   R 4 7-02:171 А у кого где не залегает скрытая склонность @, у того там не залегает скрытая склонность @?
+P 4 #NA A_ena sānusayo, no ca A_ena sānusayo.
+   R 4 7-03:9 #NA имеет скрытую склонность @, но не имеет скрытой склонности @.
+P 4 #T3 A_ena ca sānusayā A_ena ca sānusayā.
+   R 4 7-03:9 #T3 и имеют скрытую склонность @, и имеют скрытую склонность @.
+P 4 #PJ A_ena ca sānusayo A_ena ca sānusayo.
+   R 4 7-03:11 #PJ и имеет скрытую склонность @, и имеет скрытую склонность @.
+P 4 #PJ #PL so tato A_ena sānusayo, no ca so tato A_ena sānusayo.
+   R 4 7-03:171 #PJ #PL там имеет скрытую склонность @, но он там не имеет скрытой склонности @.
+P 4 #SS #PL so tato A_ena ca sānusayo A_ena ca sānusayo.
+   R 4 7-03:171 #SS #PL там и имеет скрытую склонность @, и имеет скрытую склонность @.
+P 4 #SP #PL te tato A+_ena ca sānusayā, no ca te tato A_ena sānusayā.
+   R 4 7-03:218 #SP #PL там имеют скрытые склонности @+, но они там не имеют скрытой склонности @.
+P 4 #SS #PL so tato A+_ena ca sānusayo, no ca so tato A_ena sānusayo.
+   R 4 7-03:221 #SS #PL там имеет скрытые склонности @+, но она там не имеет скрытой склонности @.
+P 4 #PJ #PL so tato A+_ena ca sānusayo, no ca so tato A+_ena ca sānusayo.
+   R 4 7-03:230 #PJ #PL там имеет скрытые склонности @+, но он там не имеет скрытых склонностей @+.
+P 4 #NA A_ena niranusayo, no ca A_ena niranusayo.
+   R 4 7-04:8 #NA не имеет скрытой склонности @, но имеет скрытую склонность @.
+P 4 Yo A+_ena ca niranusayo so A_ena…pe… A_ena niranusayoti?
+   R 4 7-04:46 Кто не имеет скрытых склонностей @+, тот не имеет скрытой склонности @… @?
+P 4 #PL tato A+_ena ca niranusayo A_ena ca niranusayo.
+   R 4 7-04:128 #PL, не имеют ни скрытой склонности @, ни @, ни @.
+P 4 #PJ #PL so tato A_ena niranusayo, no ca so tato A_ena niranusayo.
+   R 4 7-04:171 #PJ #PL там не имеет скрытой склонности @, но он там имеет скрытую склонность @.
+P 4 #AR #ALL A_ena ca niranusayo A+_ena ca niranusayo.
+   R 2 7-04:242 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @.
+   R 1 7-04:227 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @.
+   R 1 7-04:256 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+P 4 #D2 #PL te tato A+_ena ca niranusayā, no ca te tato A_ena niranusayā.
+   R 4 7-04:231 #D2 #PL там не имеют скрытых склонностей @+, но они там имеют скрытую склонность @.
+P 4 #SP #PL te tato A+_ena ca niranusayā, no ca te tato A_ena niranusayā.
+   R 4 7-04:231 #SP #PL там не имеют скрытых склонностей @+, но они там имеют скрытую склонность @.
+P 4 #SP #PL te tato A+_ena ca niranusayā, no ca te tato A+_ena ca niranusayā.
+   R 4 7-04:242 #SP #PL там не имеют скрытых склонностей @+, но они там имеют скрытые склонности @+.
+P 4 #SS #PL so tato A_ena ca niranusayo A+_ena ca niranusayo.
+   R 2 7-04:242 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @.
+   R 1 7-04:252 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @.
+   R 1 7-04:256 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+P 4 #PL tato A_añca A_añca pajahati, no ca tato A_añca A_añca pajahati.
+   R 4 7-05:136 #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+.
+P 4 #A8 #PL so tato A_aṃ pajahati, no ca so tato A_aṃ pajahati.
+   R 4 7-05:168 #A8 #PL там устраняет скрытую склонность @, но она там не устраняет скрытую склонность @.
+P 4 #SS #PL so tato A_aṃ pajahati A_aṃ tadekaṭṭhaṃ pajahati.
+   R 4 7-05:168 #SS #PL там устраняет скрытую склонность @, устраняет скрытую склонность @, пребывающую вместе с ней.
+P 3 Sabbasakkāyapariyāpannesu dhammesu ettha A_o anuseti.
+   R 3 7-01:10 Во всех явлениях, принадлежащих к самости, залегает скрытая склонность @.
+P 3 #D2 A_o anuseti, no ca tesaṃ A_o anuseti.
+   R 3 7-01:26 У #D2 залегает скрытая склонность @, но у них не залегает скрытая склонность @.
+P 3 #T3 A_o anuseti, no ca tesaṃ A_o anuseti.
+   R 3 7-01:48 У #T3 залегает скрытая склонность @, но у них не залегает скрытая склонность @.
+P 3 (Ka) yassa A+_o ca anusenti tassa A_o anusetīti?
+   R 3 7-01:66 (а) У кого залегают скрытые склонности @+, у того залегает скрытая склонность @?
+P 3 (Kha) yassa vā pana A_o anuseti tassa A+_o ca anusentīti?
+   R 3 7-01:67 (б) А у кого залегает скрытая склонность @, у того залегают скрытые склонности @+?
+P 3 #T3 A_o ca anuseti A+_o ca anusenti.
+   R 3 7-01:68 У #T3 и залегает скрытая склонность @, и залегают скрытые склонности @+.
+P 3 #D2 A+_o ca anusenti, no ca tesaṃ A_o anuseti.
+   R 3 7-01:70 У #D2 залегают скрытые склонности @+, но у них не залегает скрытая склонность @.
+P 3 #PJ A_o ca anuseti A+_o ca anusenti.
+   R 3 7-01:87 У #PJ и залегает скрытая склонность @, и залегают скрытые склонности @+.
+P 3 Yattha A_o anuseti tattha A_o…pe… A_o anusetīti?
+   R 3 7-01:104 Где залегает скрытая склонность @, там залегает скрытая склонность @… @?
+P 3 Yattha vā pana A_o anuseti tattha A_o anusetīti?
+   R 3 7-01:105 А где залегает скрытая склонность @, там залегает скрытая склонность @?
+P 3 #PL ettha A_o anuseti, no ca tattha A+_o ca anusenti.
+   R 3 7-01:154 #PL залегает скрытая склонность @, но там не залегают скрытые склонности @+.
+P 3 #NA #PL tassa tattha A_o anuseti, no ca tassa tattha A_o anuseti.
+   R 3 7-01:202 У #NA #PL там залегает скрытая склонность @, но у него там не залегает скрытая склонность @.
+P 3 #C4 #PL tesaṃ tattha A_o anuseti, no ca tesaṃ tattha A_o anuseti.
+   R 3 7-01:230 У #C4 #PL там залегает скрытая склонность @, но у них там не залегает скрытая склонность @.
+P 3 #T3 #PL tesaṃ tattha A+_o ca anusenti, no ca tesaṃ tattha A+_o ca anusenti.
+   R 3 7-01:271 У #T3 #PL там залегают скрытые склонности @+, но у них там не залегают скрытые склонности @+.
+P 3 #D2 #PL tesaṃ tattha A+_o ca anusenti, no ca tesaṃ tattha A+_o ca anusenti.
+   R 3 7-01:281 У #D2 #PL там залегают скрытые склонности @+, но у них там не залегают скрытые склонности @+.
+P 3 (Ka) yassa A+_o ca nānusenti tassa A_o nānusetīti?
+   R 3 7-02:42 (а) У кого не залегают скрытые склонности @+, у того не залегает скрытая склонность @?
+P 3 #NA A+_o ca nānusenti, no ca tassa A_o nānuseti.
+   R 3 7-02:43 У #NA не залегают скрытые склонности @+, но у него залегает скрытая склонность @.
+P 3 (Kha) yassa vā pana A_o nānuseti tassa A+_o ca nānusentīti?
+   R 3 7-02:44 (б) А у кого не залегает скрытая склонность @, у того не залегают скрытые склонности @+?
+P 3 Yattha A_o nānuseti tattha A_o…pe… A_o nānusetīti?
+   R 3 7-02:77 Где не залегает скрытая склонность @, там не залегает скрытая склонность @… @?
+P 3 #PL ettha A+_o ca nānusenti, no ca tattha A+_o ca nānusenti.
+   R 3 7-02:144 #PL не залегают скрытые склонности @+, но там залегают скрытые склонности @+.
+P 3 Yassa yattha A_o nānuseti tassa tattha A_o…pe… A_o nānusetīti?
+   R 3 7-02:169 У кого где не залегает скрытая склонность @, у того там не залегает скрытая склонность @… @?
+P 3 #C4 #PL tesaṃ tattha A_o nānuseti, no ca tesaṃ tattha A_o nānuseti.
+   R 3 7-02:203 У #C4 #PL там не залегает скрытая склонность @, но у них там залегает скрытая склонность @.
+P 3 #SP #PL tesaṃ tattha A+_o ca nānusenti A_o ca nānuseti.
+   R 3 7-02:223 У #SP #PL, там не залегают ни скрытая склонность @, ни @, ни @.
+P 3 #SP #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti.
+   R 3 7-02:229 У #SP #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @.
+P 3 (Ka) yo A+_ena ca sānusayo so A_ena sānusayoti?
+   R 3 7-03:43 (а) Кто имеет скрытые склонности @+, тот имеет скрытую склонность @?
+P 3 #T3 A_ena ca sānusayā A+_ena ca sānusayā.
+   R 3 7-03:45 #T3 и имеют скрытую склонность @, и имеют скрытые склонности @+.
+P 3 #NA A+_ena ca sānusayo, no ca A+_ena ca sānusayo.
+   R 3 7-03:58 #NA имеет скрытые склонности @+, но не имеет скрытых склонностей @+.
+P 3 Yato A_ena sānusayo tato A_ena…pe… A_ena sānusayoti?
+   R 3 7-03:78 Где имеют скрытую склонность @, там имеют скрытую склонность @… @?
+P 3 Yato vā pana A_ena sānusayo tato A_ena sānusayoti?
+   R 3 7-03:79 А где имеют скрытую склонность @, там имеют скрытую склонность @?
+P 3 #PL tato A_ena sānusayo, no ca tato A+_ena ca sānusayo.
+   R 3 7-03:121 #PL имеют скрытую склонность @, но там не имеют скрытых склонностей @+.
+P 3 #NA #PL so tato A_ena sānusayo, no ca so tato A_ena sānusayo.
+   R 3 7-03:167 #NA #PL там имеет скрытую склонность @, но он там не имеет скрытой склонности @.
+P 3 Yo yato A_ena sānusayo so tato A_ena…pe… A_ena sānusayoti?
+   R 3 7-03:168 Кто где имеет скрытую склонность @, тот там имеет скрытую склонность @… @?
+P 3 Yo vā pana yato A_ena sānusayo so tato A_ena sānusayoti?
+   R 3 7-03:170 А кто где имеет скрытую склонность @, тот там имеет скрытую склонность @?
+P 3 #C4 #PL te tato A_ena sānusayā, no ca te tato A_ena sānusayā.
+   R 3 7-03:195 #C4 #PL там имеют скрытую склонность @, но они там не имеют скрытой склонности @.
+P 3 (Ka) yo A+_ena ca niranusayo so A_ena niranusayoti?
+   R 3 7-04:43 (а) Кто не имеет скрытых склонностей @+, тот не имеет скрытой склонности @?
+P 3 #NA A+_ena ca niranusayo, no ca A_ena niranusayo.
+   R 3 7-04:44 #NA не имеет скрытых склонностей @+, но имеет скрытую склонность @.
+P 3 (Kha) yo vā pana A_ena niranusayo so A+_ena ca niranusayoti?
+   R 3 7-04:45 (б) А кто не имеет скрытой склонности @, тот не имеет скрытых склонностей @+?
+P 3 Yato A_ena niranusayo tato A_ena…pe… A_ena niranusayoti?
+   R 3 7-04:78 Где не имеют скрытой склонности @, там не имеют скрытой склонности @… @?
+P 3 Yato vā pana A_ena niranusayo tato A_ena niranusayoti?
+   R 3 7-04:80 А где не имеют скрытой склонности @, там не имеют скрытой склонности @?
+P 3 #PL tato A_ena ca niranusayo A+_ena ca niranusayo.
+   R 2 7-04:130 #PL, не имеют ни скрытой склонности @, ни @, ни @.
+   R 1 7-04:146 #PL, не имеют ни скрытой склонности @, ни @, ни @, ни @.
+P 3 Yo yato A_ena niranusayo so tato A_ena…pe… A_ena niranusayoti?
+   R 3 7-04:170 Кто где не имеет скрытой склонности @, тот там не имеет скрытой склонности @… @?
+P 3 Yo vā pana yato A_ena niranusayo so tato A_ena niranusayoti?
+   R 3 7-04:172 А кто где не имеет скрытой склонности @, тот там не имеет скрытой склонности @?
+P 3 #C4 #PL te tato A_ena niranusayā, no ca te tato A_ena niranusayā.
+   R 3 7-04:204 #C4 #PL там не имеют скрытой склонности @, но они там имеют скрытую склонность @.
+P 3 #SP #PL te tato A+_ena ca niranusayā A_ena ca niranusayā.
+   R 3 7-04:225 #SP #PL, там не имеют ни скрытой склонности @, ни @, ни @.
+P 3 Yato A_aṃ pajahati tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 3 7-05:79 Где устраняют скрытую склонность @, там устраняют скрытую склонность @… @?
+P 3 Yato vā pana A_aṃ pajahati tato A_aṃ pajahatīti?
+   R 3 7-05:80 А где устраняют скрытую склонность @, там устраняют скрытую склонность @?
+P 3 (Ka) yato A_añca A_añca pajahati tato A_aṃ pajahatīti?
+   R 3 7-05:122 (а) Где устраняют скрытые склонности @+, там устраняют скрытую склонность @?
+P 3 (Kha) yato vā pana A_aṃ pajahati tato A_añca A_añca pajahatīti?
+   R 3 7-05:123 (б) А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 3 #PL tato A_aṃ pajahati, no ca tato A_añca A_añca pajahati.
+   R 3 7-05:124 #PL устраняют скрытую склонность @, но там не устраняют скрытые склонности @+.
+P 3 Yo yato A_aṃ pajahati so tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 3 7-05:166 Кто где устраняет скрытую склонность @, тот там устраняет скрытую склонность @… @?
+P 3 Yo vā pana yato A_aṃ pajahati so tato A_aṃ pajahatīti?
+   R 3 7-05:167 А кто где устраняет скрытую склонность @, тот там устраняет скрытую склонность @?
+P 3 #AM #PL so tato A_aṃ pajahati, no ca so tato A_aṃ pajahati.
+   R 3 7-05:190 #AM #PL там устраняет скрытую склонность @, но он там не устраняет скрытую склонность @.
+P 3 #SS #PL so tato A_añca pajahati A_añca pajahati.
+   R 3 7-05:190 #SS #PL там и устраняет скрытую склонность @, и устраняет скрытую склонность @.
+P 3 (Ka) yo yato A_añca A_añca pajahati so tato A_aṃ pajahatīti?
+   R 3 7-05:210 (а) Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @?
+P 3 (Kha) yo vā pana yato A_aṃ pajahati so tato A_añca A_añca pajahatīti?
+   R 3 7-05:211 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 2 #NA A_o anuseti, no ca tassa A+_o ca anusenti.
+   R 2 7-01:68 У #NA залегает скрытая склонность @, но у него не залегают скрытые склонности @+.
+P 2 #PJ A+_o ca anusenti A_o ca anuseti.
+   R 2 7-01:70 У #PJ и залегают скрытые склонности @+, и залегает скрытая склонность @.
+P 2 #D2 A+_o ca anusenti, no ca tesaṃ A+_o ca anusenti.
+   R 2 7-01:91 У #D2 залегают скрытые склонности @+, но у них не залегают скрытые склонности @+.
+P 2 Yattha A+_o ca anusenti tattha A_o…pe… A_o anusetīti?
+   R 2 7-01:155 Где залегают скрытые склонности @+, там залегает скрытая склонность @… @?
+P 2 Yattha vā pana A_o anuseti tattha A+_o ca anusentīti?
+   R 2 7-01:156 А где залегает скрытая склонность @, там залегают скрытые склонности @+?
+P 2 Yassa yattha A_o anuseti tassa tattha A_o…pe… A_o anusetīti?
+   R 2 7-01:203 У кого где залегает скрытая склонность @, у того там залегает скрытая склонность @… @?
+P 2 #D2 #PL tesaṃ tattha A_o anuseti, no ca tesaṃ tattha A_o anuseti.
+   R 2 7-01:204 У #D2 #PL там залегает скрытая склонность @, но у них там не залегает скрытая склонность @.
+P 2 #T3 #PL tesaṃ tattha A_o anuseti, no ca tesaṃ tattha A+_o ca anusenti.
+   R 2 7-01:253 У #T3 #PL там залегает скрытая склонность @, но у них там не залегают скрытые склонности @+.
+P 2 Yassa yattha A+_o ca anusenti tassa tattha A_o…pe… A_o anusetīti?
+   R 2 7-01:254 У кого где залегают скрытые склонности @+, у того там залегает скрытая склонность @… @?
+P 2 Yassa vā pana yattha A_o anuseti tassa tattha A+_o ca anusentīti?
+   R 2 7-01:255 А у кого где залегает скрытая склонность @, у того там залегают скрытые склонности @+?
+P 2 #D2 A_o nānuseti, no ca tesaṃ A_o nānuseti.
+   R 2 7-02:12 У #D2 не залегает скрытая склонность @, но у них залегает скрытая склонность @.
+P 2 #D2 A_o ca nānuseti A_o ca nānuseti.
+   R 2 7-02:12 У #D2 не залегает ни скрытая склонность @, ни @.
+P 2 #T3 A_o nānuseti, no ca tesaṃ A_o nānuseti.
+   R 2 7-02:29 У #T3 не залегает скрытая склонность @, но у них залегает скрытая склонность @.
+P 2 #AR A+_o ca nānusenti A_o ca nānuseti.
+   R 2 7-02:43 У #AR не залегают ни скрытая склонность @, ни @, ни @.
+P 2 #D2 A_o nānuseti, no ca tesaṃ A+_o ca nānusenti.
+   R 2 7-02:47 У #D2 не залегает скрытая склонность @, но у них залегают скрытые склонности @+.
+P 2 Yattha A+_o ca nānusenti tattha A_o…pe… A_o nānusetīti?
+   R 2 7-02:129 Где не залегают скрытые склонности @+, там не залегает скрытая склонность @… @?
+P 2 Yattha vā pana A_o nānuseti tattha A+_o ca nānusentīti?
+   R 2 7-02:131 А где не залегает скрытая склонность @, там не залегают скрытые склонности @+?
+P 2 #D2 #PL tesaṃ tattha A_o nānuseti, no ca tesaṃ tattha A_o nānuseti.
+   R 2 7-02:172 У #D2 #PL там не залегает скрытая склонность @, но у них там залегает скрытая склонность @.
+P 2 #AR #ALL A+_o ca nānusenti A_o ca nānuseti.
+   R 1 7-02:223 У #AR #ALL не залегают ни скрытая склонность @, ни @, ни @.
+   R 1 7-02:257 У #AR #ALL не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @, ни @.
+P 2 Yassa yattha A+_o ca nānusenti tassa tattha A_o…pe… A_o nānusetīti?
+   R 2 7-02:226 У кого где не залегают скрытые склонности @+, у того там не залегает скрытая склонность @… @?
+P 2 #D2 #ALL…pe….
+   R 2 7-02:227 У #D2 #ALL…
+P 2 Yassa vā pana yattha A_o nānuseti tassa tattha A+_o ca nānusentīti?
+   R 2 7-02:228 А у кого где не залегает скрытая склонность @, у того там не залегают скрытые склонности @+?
+P 2 #D2 #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti.
+   R 2 7-02:229 У #D2 #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @.
+P 2 #SP #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A+_o ca nānusenti.
+   R 2 7-02:240 У #SP #PL там не залегают скрытые склонности @+, но у них там залегают скрытые склонности @+.
+P 2 #SS #PL tassa tattha A_o ca nānuseti A+_o ca nānusenti.
+   R 2 7-02:240 У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @.
+P 2 #D2 A_ena sānusayā, no ca A_ena sānusayā.
+   R 2 7-03:11 #D2 имеют скрытую склонность @, но не имеют скрытой склонности @.
+P 2 #T3 A_ena sānusayā, no ca A_ena sānusayā.
+   R 2 7-03:28 #T3 имеют скрытую склонность @, но не имеют скрытой склонности @.
+P 2 (Kha) yo vā pana A_ena sānusayo so A+_ena ca sānusayoti?
+   R 2 7-03:44 (б) А кто имеет скрытую склонность @, тот имеет скрытые склонности @+?
+P 2 #NA A_ena sānusayo, no ca A+_ena ca sānusayo.
+   R 2 7-03:45 #NA имеет скрытую склонность @, но не имеет скрытых склонностей @+.
+P 2 #D2 A+_ena ca sānusayā, no ca A_ena sānusayā.
+   R 2 7-03:47 #D2 имеют скрытые склонности @+, но не имеют скрытой склонности @.
+P 2 #PJ A+_ena ca sānusayo A_ena ca sānusayo.
+   R 2 7-03:47 #PJ и имеет скрытые склонности @+, и имеет скрытую склонность @.
+P 2 #D2 A+_ena ca sānusayā, no ca A+_ena ca sānusayā.
+   R 2 7-03:65 #D2 имеют скрытые склонности @+, но не имеют скрытых склонностей @+.
+P 2 #PJ A_ena ca sānusayo A+_ena ca sānusayo.
+   R 2 7-03:65 #PJ и имеет скрытую склонность @, и имеет скрытые склонности @+.
+P 2 Yato A+_ena ca sānusayo tato A_ena…pe… A_ena sānusayoti?
+   R 2 7-03:122 Где имеют скрытые склонности @+, там имеют скрытую склонность @… @?
+P 2 Yato vā pana A_ena sānusayo tato A+_ena ca sānusayoti?
+   R 2 7-03:123 А где имеют скрытую склонность @, там имеют скрытые склонности @+?
+P 2 A_ena sānusayo.
+   R 1 7-03:135 Имеют скрытую склонность @.
+   R 1 7-03:233 Имеет скрытую склонность @.
+P 2 A+_ena ca sānusayo.
+   R 2 7-03:145 Имеют скрытые склонности @+.
+P 2 #D2 #PL te tato A_ena sānusayā, no ca te tato A_ena sānusayā.
+   R 2 7-03:169 #D2 #PL там имеют скрытую склонность @, но они там не имеют скрытой склонности @.
+P 2 #T3 #PL te tato A_ena sānusayā, no ca te tato A+_ena ca sānusayā.
+   R 2 7-03:218 #T3 #PL там имеют скрытую склонность @, но они там не имеют скрытых склонностей @+.
+P 2 Yo yato A+_ena ca sānusayo so tato A_ena…pe… A_ena sānusayoti?
+   R 2 7-03:219 Кто где имеет скрытые склонности @+, тот там имеет скрытую склонность @… @?
+P 2 Yo vā pana yato A_ena sānusayo so tato A+_ena ca sānusayoti?
+   R 2 7-03:220 А кто где имеет скрытую склонность @, тот там имеет скрытые склонности @+?
+P 2 #T3 #PL te tato A+_ena ca sānusayā, no ca te tato A+_ena ca sānusayā.
+   R 2 7-03:236 #T3 #PL там имеют скрытые склонности @+, но они там не имеют скрытых склонностей @+.
+P 2 #D2 #PL te tato A+_ena ca sānusayā, no ca te tato A+_ena ca sānusayā.
+   R 2 7-03:247 #D2 #PL там имеют скрытые склонности @+, но они там не имеют скрытых склонностей @+.
+P 2 #D2 A_ena niranusayā, no ca A_ena niranusayā.
+   R 2 7-04:12 #D2 не имеют скрытой склонности @, но имеют скрытую склонность @.
+P 2 #D2 A_ena ca niranusayā A_ena ca niranusayā.
+   R 2 7-04:12 #D2 не имеют ни скрытой склонности @, ни @.
+P 2 #T3 A_ena niranusayā, no ca A_ena niranusayā.
+   R 2 7-04:29 #T3 не имеют скрытой склонности @, но имеют скрытую склонность @.
+P 2 #AR A+_ena ca niranusayo A_ena ca niranusayo.
+   R 2 7-04:44 #AR не имеет ни скрытой склонности @, ни @, ни @.
+P 2 #D2 A_ena niranusayā, no ca A+_ena ca niranusayā.
+   R 2 7-04:48 #D2 не имеют скрытой склонности @, но имеют скрытые склонности @+.
+P 2 Yato A+_ena ca niranusayo tato A_ena…pe… A_ena niranusayoti?
+   R 2 7-04:131 Где не имеют скрытых склонностей @+, там не имеют скрытой склонности @… @?
+P 2 Yato vā pana A_ena niranusayo tato A+_ena ca niranusayoti?
+   R 2 7-04:133 А где не имеют скрытой склонности @, там не имеют скрытых склонностей @+?
+P 2 #D2 #PL te tato A_ena niranusayā, no ca te tato A_ena niranusayā.
+   R 2 7-04:173 #D2 #PL там не имеют скрытой склонности @, но они там имеют скрытую склонность @.
+P 2 Āmantā…pe….
+   R 2 7-04:210 Да…
+P 2 Yo yato A+_ena ca niranusayo so tato A_ena…pe… A_ena niranusayoti?
+   R 2 7-04:228 Кто где не имеет скрытых склонностей @+, тот там не имеет скрытой склонности @… @?
+P 2 Yo vā pana yato A_ena niranusayo so tato A+_ena ca niranusayoti?
+   R 2 7-04:230 А кто где не имеет скрытой склонности @, тот там не имеет скрытых склонностей @+?
+P 2 Yo A_añca A_añca pajahati so A_aṃ…pe… A_aṃ pajahatīti?
+   R 2 7-05:46 Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @… @?
+P 2 Yo vā pana A_aṃ pajahati so A_añca A_añca pajahatīti?
+   R 2 7-05:47 А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 2 Yo A_añca A_añca A_añca pajahati so A_aṃ…pe… A_aṃ pajahatīti?
+   R 2 7-05:53 Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @… @?
+P 2 Yo vā pana A_aṃ pajahati so A_añca A_añca A_añca pajahatīti?
+   R 2 7-05:54 А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 2 #PL tato A_añca A_añca A_añca pajahati, no ca tato A_aṃ pajahati.
+   R 2 7-05:136 #PL устраняют скрытые склонности @+, но там не устраняют скрытую склонность @.
+P 2 (Ka) yato A_añca A_añca A_añca pajahati tato A_aṃ pajahatīti?
+   R 2 7-05:137 (а) Где устраняют скрытые склонности @+, там устраняют скрытую склонность @?
+P 2 (Kha) yato vā pana A_aṃ pajahati tato A_añca A_añca A_añca pajahatīti?
+   R 2 7-05:138 (б) А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 2 (Ka) yato A_añca A_añca A_añca A_añca A_añca pajahati tato A_aṃ pajahatīti?
+   R 2 7-05:148 (а) Где устраняют скрытые склонности @+, там устраняют скрытую склонность @?
+P 2 (Kha) yato vā pana A_aṃ pajahati tato A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 2 7-05:149 (б) А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 2 #PL tato A_añca A_añca A_añca A_añca pajahati, no ca tato A_añca A_añca pajahati.
+   R 2 7-05:153 #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+.
+P 2 #PL tato A_añca A_añca A_añca A_añca A_añca pajahati, no ca tato A_añca A_añca pajahati.
+   R 2 7-05:157 #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+.
+P 2 #SS #PL so tato A_aṃ pajahati A_aṃ tadekaṭṭhaṃ pajahati, no ca so tato A_aṃ pajahati.
+   R 2 7-05:214 #SS #PL там устраняет скрытую склонность @, устраняет скрытую склонность @, пребывающую вместе с ней, но она там не устраняет скрытую склонность @.
+P 2 (Ka) yo yato A_añca A_añca A_añca pajahati so tato A_aṃ pajahatīti?
+   R 2 7-05:223 (а) Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @?
+P 2 (Kha) yo vā pana yato A_aṃ pajahati so tato A_añca A_añca A_añca pajahatīti?
+   R 2 7-05:224 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 2 (Ka) yo yato A_añca A_añca A_añca A_añca A_añca pajahati so tato A_aṃ pajahatīti?
+   R 2 7-05:234 (а) Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @?
+P 2 (Kha) yo vā pana yato A_aṃ pajahati so tato A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 2 7-05:235 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 1 Sattānusayā – A_o, A_o, A_o, A_o, A_o, A_o, A_o.
+   R 1 7-01:3 Семь скрытых склонностей – скрытая склонность @, скрытая склонность @, скрытая склонность @, скрытая склонность @, скрытая склонность @, скрытая склонность @, скрытая склонность @.
+P 1 Uppattiṭṭhānavāro.
+   R 1 7-01:14 Раздел о месте возникновения.
+P 1 (Ekamūlakaṃ )
+   R 1 7-01:64 (На основе одной)
+P 1 (Kha) yattha vā pana A_o anuseti tattha A_o ca…pe… A_o ca anusentīti?
+   R 1 7-01:193 (б) А где залегает скрытая склонность @, там залегают скрытые склонности @… и @?
+P 1 Yassa yattha A_o anuseti tassa tattha A_o …pe… A_o anusetīti?
+   R 1 7-01:225 У кого где залегает скрытая склонность @, у того там залегает скрытая склонность @… @?
+P 1 Yassa yattha A_o…pe… A_o anuseti tassa tattha A_o anusetīti?
+   R 1 7-01:238 У кого где залегает скрытая склонность @… @, у того там залегает скрытая склонность @?
+P 1 #PJ #PL tassa tattha A_o anuseti, no ca tassa tattha A+_o ca anusenti.
+   R 1 7-01:256 У #PJ #PL там залегает скрытая склонность @, но у него там не залегают скрытые склонности @+.
+P 1 #C4 #PL tesaṃ tattha A+_o ca anusenti, no ca tesaṃ tattha A+_o ca anusenti.
+   R 1 7-01:268 У #C4 #PL там залегают скрытые склонности @+, но у них там не залегают скрытые склонности @+.
+P 1 #SS #PL tassa tattha A+_o ca anusenti, no ca tassa tattha A+_o ca anusanti.
+   R 1 7-01:292 У #SS #PL там залегают скрытые склонности @+, но у неё там не залегают скрытые склонности @+.
+P 1 Anusayavāre anulomaṃ.
+   R 1 7-01:293 Утвердительная форма в разделе о скрытых склонностях.
+P 1 Yassa A_o…pe… A_o nānuseti tassa A_o…pe… A_o nānusetīti?
+   R 1 7-02:35 У кого не залегает скрытая склонность @… @, у того не залегает скрытая склонность @… @?
+P 1 #D2 A_o ca nānuseti A+_o ca nānusenti.
+   R 1 7-02:47 У #D2 не залегают ни скрытая склонность @, ни @, ни @.
+P 1 #AR A_o ca nānuseti A+_o ca nānusenti.
+   R 1 7-02:54 У #AR не залегают ни скрытая склонность @, ни @, ни @, ни @.
+P 1 #D2 A+_o ca nānusenti, no ca tesaṃ A+_o ca nānusenti. #NA A+_o ca nānusenti, no ca tassa A_o nānuseti. #AR A_o ca nānuseti A+_o ca nānusenti…pe…. (Catukkamūlakaṃ)
+   R 1 7-02:60 У #D2 не залегают скрытые склонности @+, но у них залегают скрытые склонности @+. У #NA не залегают скрытые склонности @+, но у него залегает скрытая склонность @. У #AR не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @… (На основе четырёх)
+P 1 Yattha A_o…pe… A_o nānuseti tattha A_o nānusetīti?
+   R 1 7-02:115 Где не залегает скрытая склонность @… @, там не залегает скрытая склонность @?
+P 1 (Kha) yattha vā pana A_o nānuseti tattha A+_o ca nānusentīti? Āmantā …pe…. (Catukkamūlakaṃ)
+   R 1 7-02:149 (б) А где не залегает скрытая склонность @, там не залегают скрытые склонности @+? Да… (На основе четырёх)
+P 1 (Kha) yattha vā pana…pe…?
+   R 1 7-02:155 (б) А где…?
+P 1 Yassa yattha A_o…pe… A_o nānuseti tassa tattha A_o nānusetīti?
+   R 1 7-02:210 У кого где не залегает скрытая склонность @… @, у того там не залегает скрытая склонность @?
+P 1 #AR #ALL A_o ca nānuseti A+_o ca nānusenti.
+   R 1 7-02:225 У #AR #ALL не залегают ни скрытая склонность @, ни @, ни @.
+P 1 #PJ #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A_o nānuseti.
+   R 1 7-02:227 У #PJ #PL там не залегают скрытые склонности @+, но у него там залегает скрытая склонность @.
+P 1 #D2 #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti. #SP #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A+_o ca nānusenti. #SP #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti. #SP #PL tesaṃ tattha A_o ca nānuseti A+_o ca nānusenti. #NA #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A_o nānuseti. #SS #PL tassa tattha A_o ca nānuseti A+_o ca nānusenti. #AR #ALL A_o ca nānuseti A+_o ca nānusenti …pe…. (Catukkamūlakaṃ)
+   R 1 7-02:250 У #D2 #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @. У #SP #PL там не залегают скрытые склонности @+, но у них там залегают скрытые склонности @+. У #SP #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @. У #SP #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @. У #NA #PL там не залегают скрытые склонности @+, но у него там залегает скрытая склонность @. У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @. У #AR #ALL не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @… (На основе четырёх)
+P 1 #PJ #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A+_o ca nānusenti. #SS #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A+_o ca nānusenti. #SS #PL tassa tattha A_o ca nānuseti A+_o ca nānusenti. #D2 #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A_o nānuseti. #SP #PL tesaṃ tattha A+_o ca nānusenti, no ca tesaṃ tattha A+_o ca nānusenti. #SP #PL tesaṃ tattha A_o ca nānuseti A+_o ca nānusenti. #NA #PL tassa tattha A+_o ca nānusenti, no ca tassa tattha A_o nānuseti. #SS #PL tassa tattha A_o ca nānuseti A+_o ca nānusenti. #AR #ALL…pe…. (Pañcakamūlakaṃ)
+   R 1 7-02:254 У #PJ #PL там не залегают скрытые склонности @+, но у него там залегают скрытые склонности @+. У #SS #PL там не залегают скрытые склонности @+, но у неё там залегают скрытые склонности @+. У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @. У #D2 #PL там не залегают скрытые склонности @+, но у них там залегает скрытая склонность @. У #SP #PL там не залегают скрытые склонности @+, но у них там залегают скрытые склонности @+. У #SP #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @. У #NA #PL там не залегают скрытые склонности @+, но у него там залегает скрытая склонность @. У #SS #PL, там не залегают ни скрытая склонность @, ни @, ни @, ни @, ни @, ни @. У #AR #ALL… (На основе пяти)
+P 1 Anusayavāre paṭilomaṃ.
+   R 1 7-02:259 Отрицательная форма в разделе о скрытых склонностях.
+P 1 Anusayavāro.
+   R 1 7-02:260 Раздел о скрытых склонностях.
+P 1 (Kha) yo vā pana A_ena sānusayo so A+_ena ca sānusayoti? Āmantā …pe…. (Catukkamūlakaṃ)
+   R 1 7-03:61 (б) А кто имеет скрытую склонность @, тот имеет скрытые склонности @+? Да… (На основе четырёх)
+P 1 #PJ #PL so tato A_ena sānusayo, no ca so tato A+_ena ca sānusayo.
+   R 1 7-03:221 #PJ #PL там имеет скрытую склонность @, но он там не имеет скрытых склонностей @+.
+P 1 #PJ #PL so tato A+_ena ca sānusayo, no ca so tato A+_ena ca sānusayo. #SS #PL so tato A+_ena ca sānusayo, no ca so tato A_ena sānusayo. #SS #PL so tato A+_ena ca sānusayo, no ca so tato A+_ena ca sānusayo…pe…. (Catukkamūlakaṃ)
+   R 1 7-03:240 #PJ #PL там имеет скрытые склонности @+, но он там не имеет скрытых склонностей @+. #SS #PL там имеет скрытые склонности @+, но она там не имеет скрытой склонности @. #SS #PL там имеет скрытые склонности @+, но она там не имеет скрытых склонностей @+… (На основе четырёх)
+P 1 Sānusayavāre anulomaṃ.
+   R 1 7-03:252 Утвердительная форма в разделе об имеющих скрытые склонности.
+P 1 #D2 A_ena ca niranusayā A+_ena ca niranusayā.
+   R 1 7-04:48 #D2 не имеют ни скрытой склонности @, ни @, ни @.
+P 1 #AR A_ena ca niranusayo A+_ena ca niranusayo.
+   R 1 7-04:55 #AR не имеет ни скрытой склонности @, ни @, ни @, ни @.
+P 1 #D2 A+_ena ca niranusayā, no ca A+_ena ca niranusayā. #NA A+_ena ca niranusayo, no ca A_ena niranusayo. #AR A_ena ca niranusayo A+_ena ca niranusayo …pe…. (Catukkamūlakaṃ)
+   R 1 7-04:61 #D2 не имеют скрытых склонностей @+, но имеют скрытые склонности @+. #NA не имеет скрытых склонностей @+, но имеет скрытую склонность @. #AR не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @… (На основе четырёх)
+P 1 Yo A+_ena ca niranusayo so A_ena …pe… A_ena niranusayoti?
+   R 1 7-04:63 Кто не имеет скрытых склонностей @+, тот не имеет скрытой склонности @… @?
+P 1 #PL tato A+_ena ca niranusayo, no ca tato A+_ena ca niranusayo.
+   R 1 7-04:146 #PL не имеют скрытых склонностей @+, но там имеют скрытые склонности @+.
+P 1 (Kha) yato vā pana A_ena niranusayo tato A+_ena ca niranusayoti? Āmantā …pe…. (Catukkamūlakaṃ)
+   R 1 7-04:151 (б) А где не имеют скрытой склонности @, там не имеют скрытых склонностей @+? Да… (На основе четырёх)
+P 1 #PL tato A+_ena ca niranusayo, no ca tato A+_ena ca niranusayo. #PL tato A+_ena ca niranusayo, no ca tato A+_ena ca niranusayo. #PL tato A_ena ca niranusayo A+_ena ca niranusayo …pe…. (Pañcakamūlakaṃ)
+   R 1 7-04:155 #PL не имеют скрытых склонностей @+, но там имеют скрытые склонности @+. #PL не имеют скрытых склонностей @+, но там имеют скрытые склонности @+. #PL, не имеют ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @… (На основе пяти)
+P 1 #NA #PL so tato A_ena niranusayo no ca so tato A_ena niranusayo.
+   R 1 7-04:195 #NA #PL там не имеет скрытой склонности @, но он там имеет скрытую склонность @.
+P 1 #NA #PL so tato A+_ena ca niranusayo, no ca so tato A_ena ca niranusayo.
+   R 1 7-04:225 #NA #PL там не имеет скрытых склонностей @+, но он там имеет скрытую склонность @.
+P 1 #PJ #PL so tato A+_ena ca niranusayo, no ca so tato A_ena niranusayo.
+   R 1 7-04:229 #PJ #PL там не имеет скрытых склонностей @+, но он там имеет скрытую склонность @.
+P 1 #D2 #ALL A+_ena ca niranusayā A_ena ca niranusayā.
+   R 1 7-04:229 #D2 #ALL не имеют ни скрытой склонности @, ни @, ни @.
+P 1 #D2 #ALL A_ena ca niranusayā A+_ena ca niranusayā.
+   R 1 7-04:231 #D2 #ALL не имеют ни скрытой склонности @, ни @, ни @.
+P 1 #AR #ALL A_ena niranusayo A+_ena ca niranusayo.
+   R 1 7-04:235 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @.
+P 1 #AR #ALL A_ena ca niranusayo A+_ena ca niranusayo …pe….
+   R 1 7-04:252 #AR #ALL не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @…
+P 1 #PJ #PL so tato A+_ena ca niranusayo, no ca so tato A+_ena ca niranusayo.
+   R 1 7-04:256 #PJ #PL там не имеет скрытых склонностей @+, но он там имеет скрытые склонности @+.
+P 1 #SS #PL so tato A+_ena ca niranusayo, no ca so tato A+_ena ca niranusayo.
+   R 1 7-04:256 #SS #PL там не имеет скрытых склонностей @+, но она там имеет скрытые склонности @+.
+P 1 #SS #PL ariyāpanne so tato A_ena ca niranusayo A+_ena ca niranusayo.
+   R 1 7-04:256 #SS #PL, там не имеет ни скрытой склонности @, ни @, ни @, ни @, ни @, ни @.
+P 1 Sānusayavāre paṭilomaṃ.
+   R 1 7-04:264 Отрицательная форма в разделе об имеющих скрытые склонности.
+P 1 Sānusayavāro.
+   R 1 7-04:265 Раздел об имеющих скрытые склонности.
+P 1 (Ka) yo A_añca A_añca pajahati so A_aṃ pajahatīti?
+   R 1 7-05:43 (а) Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @?
+P 1 (Kha) yo vā pana A_aṃ pajahati so A_añca A_añca pajahatīti?
+   R 1 7-05:45 (б) А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 1 (Ka) yo A_añca A_añca A_añca A_añca pajahati so A_aṃ pajahatīti?
+   R 1 7-05:60 (а) Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @?
+P 1 (Kha) yo vā pana A_aṃ pajahati so A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:61 (б) А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 1 A_aṃ pajahati A_añca A_añca A_añca tadekaṭṭhaṃ pajahati …pe…. (Catukkamūlakaṃ)
+   R 1 7-05:62 Устраняет скрытую склонность @, устраняет скрытые склонности @+, пребывающие вместе с ней… (На основе четырёх)
+P 1 Yo A_añca A_añca A_añca A_añca A_añca pajahati so A_aṃ…pe… A_aṃ pajahatīti?
+   R 1 7-05:64 Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @… @?
+P 1 Yo vā pana A_aṃ pajahati so A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:65 А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 1 (Ka) yo A_añca A_añca A_añca A_añca A_añca A_añca pajahati so A_aṃ pajahatīti?
+   R 1 7-05:68 (а) Кто устраняет скрытые склонности @+, тот устраняет скрытую склонность @?
+P 1 (Kha) yo vā pana A_aṃ pajahati so A_añca A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:69 (б) А кто устраняет скрытую склонность @, тот устраняет скрытые склонности @+?
+P 1 A_añca A_añca pajahati.
+   R 1 7-05:70 Устраняет скрытые склонности @+.
+P 1 #PL tato A_aṃ pajahati no ca tato A_aṃ pajahati.
+   R 1 7-05:120 #PL устраняют скрытую склонность @, но там не устраняют скрытую склонность @.
+P 1 Yato A_añca A_añca pajahati tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 1 7-05:125 Где устраняют скрытые склонности @+, там устраняют скрытую склонность @… @?
+P 1 Yato vā pana A_aṃ pajahati tato A_añca A_añca pajahatīti?
+   R 1 7-05:126 А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 1 Yato A_añca A_añca A_añca pajahati tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 1 7-05:134 Где устраняют скрытые склонности @+, там устраняют скрытую склонность @… @?
+P 1 Yato vā pana A_aṃ pajahati tato A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:135 А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 1 (Ka) yato A_añca A_añca A_añca A_añca pajahati tato A_aṃ pajahatīti?
+   R 1 7-05:144 (а) Где устраняют скрытые склонности @+, там устраняют скрытую склонность @?
+P 1 (Kha) yato vā pana A_aṃ pajahati tato A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:145 (б) А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 1 #PL tato A_añca A_añca A_añca pajahati, no ca tato A_añca A_añca pajahati. #PL tato A_añca A_añca A_añca A_añca pajahati, no ca tato A_aṃ pajahati. #PL tato A_añca A_añca A_añca pajahati, no ca tato A_añca A_añca pajahati …pe…. (Catukkamūlakaṃ)
+   R 1 7-05:146 #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+. #PL устраняют скрытые склонности @+, но там не устраняют скрытую склонность @. #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+… (На основе четырёх)
+P 1 A_añca A_añca A_añca pajahati.
+   R 1 7-05:150 Устраняют скрытые склонности @+.
+P 1 #PL tato A_añca A_añca A_añca A_añca A_añca pajahati, no ca tato A_aṃ pajahati.
+   R 1 7-05:153 #PL устраняют скрытые склонности @+, но там не устраняют скрытую склонность @.
+P 1 (Ka) yato A_añca A_añca A_añca A_añca A_añca A_añca pajahati tato A_aṃ pajahatīti?
+   R 1 7-05:155 (а) Где устраняют скрытые склонности @+, там устраняют скрытую склонность @?
+P 1 (Kha) yato vā pana A_aṃ pajahati tato A_añca A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:156 (б) А где устраняют скрытую склонность @, там устраняют скрытые склонности @+?
+P 1 #PL tato A_añca A_añca A_añca A_añca pajahati, no ca tato A_añca A_añca A_añca pajahati.
+   R 1 7-05:157 #PL устраняют скрытые склонности @+, но там не устраняют скрытые склонности @+.
+P 1 Yo yato A_añca A_añca pajahati so tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 1 7-05:212 Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @… @?
+P 1 Yo vā pana yato A_aṃ pajahati so tato A_añca A_añca pajahatīti?
+   R 1 7-05:213 А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 1 #A8 #PL so tato A_aṃ pajahati, no ca so tato A_añca A_añca pajahati.
+   R 1 7-05:214 #A8 #PL там устраняет скрытую склонность @, но она там не устраняет скрытые склонности @+.
+P 1 Yo yato A_añca A_añca A_añca pajahati so tato A_aṃ…pe… A_aṃ pajahatīti?
+   R 1 7-05:220 Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @… @?
+P 1 Yo vā pana yato A_aṃ pajahati so tato A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:221 А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 1 #A8 #PL so tato A_aṃ pajahati A_aṃ tadekaṭṭhaṃ pajahati, no ca so tato A_añca A_añca pajahati.
+   R 1 7-05:222 #A8 #PL там устраняет скрытую склонность @, устраняет скрытую склонность @, пребывающую вместе с ней, но она там не устраняет скрытые склонности @+.
+P 1 #SS #PL so tato A_aṃ pajahati A_añca A_añca tadekaṭṭhaṃ pajahati, no ca so tato A_aṃ pajahati.
+   R 1 7-05:222 #SS #PL там устраняет скрытую склонность @, устраняет скрытые склонности @+, пребывающие вместе с ней, но она там не устраняет скрытую склонность @.
+P 1 #SS #PL so tato A_aṃ pajahati A_aṃ tadekaṭṭhaṃ pajahati, no ca so tato A_añca A_añca pajahati.
+   R 1 7-05:222 #SS #PL там устраняет скрытую склонность @, устраняет скрытую склонность @, пребывающую вместе с ней, но она там не устраняет скрытые склонности @+.
+P 1 #AM #PL so tato A_aṃ pajahati, no ca so tato A_añca A_añca A_añca pajahati.
+   R 1 7-05:228 #AM #PL там устраняет скрытую склонность @, но он там не устраняет скрытые склонности @+.
+P 1 #SS #PL so tato A_añca A_añca pajahati, no ca so tato A_añca A_añca pajahati.
+   R 1 7-05:228 #SS #PL там устраняет скрытые склонности @+, но она там не устраняет скрытые склонности @+.
+P 1 (Ka) yo yato A_añca A_añca A_añca A_añca pajahati so tato A_aṃ pajahatīti?
+   R 1 7-05:230 (а) Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @?
+P 1 (Kha) yo vā pana yato A_aṃ pajahati so tato A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:231 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 1 #A8 #PL so tato A_añca A_añca pajahati A_aṃ tadekaṭṭhaṃ pajahati, no ca so tato A_añca A_añca pajahati. #SS #PL so tato A_añca A_añca pajahati A_añca A_añca tadekaṭṭhaṃ pajahati, no ca so tato A_aṃ pajahati. #SS #PL so tato A_añca A_añca pajahati A_aṃ tadekaṭṭhaṃ pajahati, no ca so tato A_añca A_añca pajahati…pe…. (Catukkamūlakaṃ)
+   R 1 7-05:232 #A8 #PL там устраняет скрытые склонности @+, устраняет скрытую склонность @, пребывающую вместе с ними, но она там не устраняет скрытые склонности @+. #SS #PL там и устраняет скрытые склонности @+, и устраняет скрытые склонности @+, пребывающие вместе с ними, но она там не устраняет скрытую склонность @. #SS #PL там устраняет скрытые склонности @+, устраняет скрытую склонность @, пребывающую вместе с ними, но она там не устраняет скрытые склонности @+… (На основе четырёх)
+P 1 #AM #PL so tato A_aṃ pajahati, no ca so tato A_añca A_añca A_añca A_añca A_añca pajahati.
+   R 1 7-05:239 #AM #PL там устраняет скрытую склонность @, но он там не устраняет скрытые склонности @+.
+P 1 #SS #PL so tato A_añca A_añca pajahati, no ca so tato A_añca A_añca A_añca A_añca pajahati.
+   R 1 7-05:239 #SS #PL там устраняет скрытые склонности @+, но она там не устраняет скрытые склонности @+.
+P 1 (Ka) yo yato A_añca A_añca A_añca A_añca A_añca A_añca pajahati so tato A_aṃ pajahatīti?
+   R 1 7-05:241 (а) Кто где устраняет скрытые склонности @+, тот там устраняет скрытую склонность @?
+P 1 (Kha) yo vā pana yato A_aṃ pajahati so tato A_añca A_añca A_añca A_añca A_añca A_añca pajahatīti?
+   R 1 7-05:242 (б) А кто где устраняет скрытую склонность @, тот там устраняет скрытые склонности @+?
+P 1 #AM #PL so tato A_aṃ pajahati, no ca so tato A_añca A_añca A_añca A_añca A_añca A_añca pajahati.
+   R 1 7-05:243 #AM #PL там устраняет скрытую склонность @, но он там не устраняет скрытые склонности @+.
+P 1 #SS #PL so tato A_añca A_añca pajahati, no ca so tato A_añca A_añca A_añca A_añca A_añca pajahati.
+   R 1 7-05:243 #SS #PL там устраняет скрытые склонности @+, но она там не устраняет скрытые склонности @+.
+P 1 #SS #PL so tato A_añca A_añca A_añca pajahati, no ca so tato A_añca A_añca A_añca A_añca pajahati.
+   R 1 7-05:243 #SS #PL там устраняет скрытые склонности @+, но она там не устраняет скрытые склонности @+.
+P 1 Pajahanavāre anulomaṃ.
+   R 1 7-05:244 Утвердительная форма в разделе об устранении.

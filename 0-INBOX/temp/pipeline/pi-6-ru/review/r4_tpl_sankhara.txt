@@ -1,0 +1,494 @@
+﻿P 52 Āmantā.
+   R 52 6-02:5 Да.
+P 12 (Kha) yassa vā pana…pe…?
+   R 12 6-02:38 (б) А у кого…?
+P 6 Nirujjhittha.
+   R 6 6-02:100 Прекращался.
+P 6 Natthi.
+   R 6 6-02:101 Такого нет.
+P 6 No.
+   R 6 6-02:266 Нет.
+P 3 (Ka) yassa S_o nirujjhissati tassa S_o nirujjhissatīti?
+   R 3 6-02:5 (а) У кого прекратится S, у того прекратится S?
+P 3 (Kha) yassa vā pana S_o nirujjhissati tassa S_o nirujjhissatīti?
+   R 3 6-02:6 (б) А у кого прекратится S, у того прекратится S?
+P 3 Itaresaṃ tesaṃ S_o ca nirujjhissati S_o ca nirujjhissati.
+   R 3 6-02:7 У остальных и прекратится S, и прекратится S.
+P 3 (Ka) yassa yattha S_o nirujjhissati tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:22 (а) У кого где прекратится S, у того там прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhissati tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:24 (б) А у кого где прекратится S, у того там прекратится S?
+P 3 (Ka) yassa S_o na nirujjhissati tassa S_o na nirujjhissatīti?
+   R 3 6-02:36 (а) У кого не прекратится S, у того не прекратится S?
+P 3 (Ka) yassa yattha S_o na nirujjhissati tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:53 (а) У кого где не прекратится S, у того там не прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o na nirujjhissati tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:55 (б) А у кого где не прекратится S, у того там не прекратится S?
+P 3 (Ka) yassa S_o nirujjhati tassa S_o nirujjhitthāti?
+   R 3 6-02:69 (а) У кого прекращается S, у того прекращался S?
+P 3 (Kha) yassa vā pana S_o nirujjhittha tassa S_o nirujjhatīti?
+   R 3 6-02:70 (б) А у кого прекращался S, у того прекращается S?
+P 3 (Ka) yassa yattha S_o nirujjhati tassa tattha S_o nirujjhitthāti?
+   R 3 6-02:86 (а) У кого где прекращается S, у того там прекращался S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhittha tassa tattha S_o nirujjhatīti?
+   R 3 6-02:88 (б) А у кого где прекращался S, у того там прекращается S?
+P 3 (Ka) yassa S_o na nirujjhati tassa S_o na nirujjhitthāti?
+   R 3 6-02:100 (а) У кого не прекращается S, у того не прекращался S?
+P 3 (Kha) yassa vā pana S_o na nirujjhittha tassa S_o na nirujjhatīti?
+   R 3 6-02:101 (б) А у кого не прекращался S, у того не прекращается S?
+P 3 (Ka) yassa yattha S_o na nirujjhati tassa tattha S_o na nirujjhitthāti?
+   R 3 6-02:114 (а) У кого где не прекращается S, у того там не прекращался S?
+P 3 (Kha) yassa vā pana yattha S_o na nirujjhittha tassa tattha S_o na nirujjhatīti?
+   R 3 6-02:116 (б) А у кого где не прекращался S, у того там не прекращается S?
+P 3 (Ka) yassa S_o nirujjhati tassa S_o nirujjhissatīti?
+   R 3 6-02:130 (а) У кого прекращается S, у того прекратится S?
+P 3 (Kha) yassa vā pana S_o nirujjhissati tassa S_o nirujjhatīti?
+   R 3 6-02:131 (б) А у кого прекратится S, у того прекращается S?
+P 3 (Ka) yassa yattha S_o nirujjhati tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:148 (а) У кого где прекращается S, у того там прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhissati tassa tattha S_o nirujjhatīti?
+   R 3 6-02:150 (б) А у кого где прекратится S, у того там прекращается S?
+P 3 (Ka) yassa S_o na nirujjhati tassa S_o na nirujjhissatīti?
+   R 3 6-02:163 (а) У кого не прекращается S, у того не прекратится S?
+P 3 (Ka) yassa yattha S_o na nirujjhati tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:181 (а) У кого где не прекращается S, у того там не прекратится S?
+P 3 (Ka) yassa S_o nirujjhittha tassa S_o nirujjhissatīti?
+   R 3 6-02:198 (а) У кого прекращался S, у того прекратится S?
+P 3 Itaresaṃ tesaṃ S_o ca nirujjhittha S_o ca nirujjhissati.
+   R 3 6-02:199 У остальных и прекращался S, и прекратится S.
+P 3 (Ka) yassa yattha S_o nirujjhittha tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:215 (а) У кого где прекращался S, у того там прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhissati tassa tattha S_o nirujjhitthāti?
+   R 3 6-02:217 (б) А у кого где прекратится S, у того там прекращался S?
+P 3 (Ka) yassa S_o na nirujjhittha tassa S_o na nirujjhissatīti?
+   R 3 6-02:231 (а) У кого не прекращался S, у того не прекратится S?
+P 3 (Kha) yassa vā pana S_o na nirujjhissati tassa S_o na nirujjhitthāti?
+   R 3 6-02:232 (б) А у кого не прекратится S, у того не прекращался S?
+P 3 (Ka) yassa yattha S_o na nirujjhittha tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:245 (а) У кого где не прекращался S, у того там не прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o na nirujjhissati tassa tattha S_o na nirujjhitthāti?
+   R 3 6-02:247 (б) А у кого где не прекратится S, у того там не прекращался S?
+P 3 (Ka) yassa S_o uppajjati tassa S_o nirujjhatīti?
+   R 3 6-02:266 (а) У кого возникает S, у того прекращается S?
+P 3 (Kha) yassa vā pana S_o na nirujjhati tassa S_o nuppajjatīti?
+   R 3 6-02:287 (б) А у кого не прекращается S, у того не возникает S?
+P 3 (Ka) yassa S_o uppajjissati tassa S_o nirujjhissatīti?
+   R 3 6-02:319 (а) У кого возникнет S, у того прекратится S?
+P 3 (Kha) yassa vā pana S_o nirujjhissati tassa S_o uppajjissatīti?
+   R 3 6-02:320 (б) А у кого прекратится S, у того возникнет S?
+P 3 Itaresaṃ tesaṃ S_o ca nirujjhissati S_o ca uppajjissati.
+   R 3 6-02:321 У остальных и прекратится S, и возникнет S.
+P 3 (Ka) yassa yattha S_o uppajjissati tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:336 (а) У кого где возникнет S, у того там прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhissati tassa tattha S_o uppajjissatīti?
+   R 3 6-02:338 (б) А у кого где прекратится S, у того там возникнет S?
+P 3 (Ka) yassa S_o nuppajjissati tassa S_o na nirujjhissatīti?
+   R 3 6-02:350 (а) У кого не возникнет S, у того не прекратится S?
+P 3 (Ka) yassa yattha S_o nuppajjissati tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:367 (а) У кого где не возникнет S, у того там не прекратится S?
+P 3 (Ka) yassa S_o uppajjati tassa S_o nirujjhissatīti?
+   R 3 6-02:392 (а) У кого возникает S, у того прекратится S?
+P 3 (Kha) yassa vā pana S_o nirujjhissati tassa S_o uppajjatīti?
+   R 3 6-02:393 (б) А у кого прекратится S, у того возникает S?
+P 3 (Ka) yassa yattha S_o uppajjati tassa tattha S_o nirujjhissatīti?
+   R 3 6-02:409 (а) У кого где возникает S, у того там прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o nirujjhissati tassa tattha S_o uppajjatīti?
+   R 3 6-02:411 (б) А у кого где прекратится S, у того там возникает S?
+P 3 (Ka) yassa S_o nuppajjati tassa S_o na nirujjhissatīti?
+   R 3 6-02:423 (а) У кого не возникает S, у того не прекратится S?
+P 3 (Kha) yassa vā pana S_o na nirujjhissati tassa S_o nuppajjatīti?
+   R 3 6-02:425 (б) А у кого не прекратится S, у того не возникает S?
+P 3 (Ka) yassa yattha S_o nuppajjati tassa tattha S_o na nirujjhissatīti?
+   R 3 6-02:440 (а) У кого где не возникает S, у того там не прекратится S?
+P 3 (Kha) yassa vā pana yattha S_o na nirujjhissati tassa tattha S_o nuppajjatīti?
+   R 3 6-02:442 (б) А у кого где не прекратится S, у того там не возникает S?
+P 2 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o nirujjhissati.
+   R 2 6-02:7 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у тех, кто живёт последней жизнью #PL, и у тех умирающих, кто, переродившись #PL, достигнет окончательного угасания, прекратится S, но у них не прекратится S.
+P 2 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ S_o na nirujjhissati, no ca tesaṃ S_o na nirujjhissati.
+   R 2 6-02:37 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у тех, кто живёт последней жизнью #PL, и у тех умирающих, кто, переродившись #PL, достигнет окончательного угасания, не прекратится S, но у них прекратится S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca na nirujjhissati S_o ca na nirujjhissati.
+   R 2 6-02:40 В момент распада последнего ума у них не прекратится ни S, ни S.
+P 2 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhissati.
+   R 2 6-02:54 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших в четвёртое медитативное погружение и у существ без восприятия там не прекратится ни S, ни S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhissati.
+   R 2 6-02:58 В момент распада последнего ума и у существ без восприятия там не прекратится ни S, ни S.
+P 2 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhittha, no ca tesaṃ S_o nirujjhati.
+   R 2 6-02:71 У всех в момент возникновения ума, в момент распада ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия прекращался S, но у них не прекращается S.
+P 2 Assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ S_o ca nirujjhittha S_o ca nirujjhati.
+   R 2 6-02:71 В момент распада вдохов и выдохов у них и прекращался S, и прекращается S.
+P 2 Yattha S_o nirujjhati…pe….
+   R 2 6-02:82 Где прекращается S…
+P 2 Yattha S_o na nirujjhati…pe….
+   R 2 6-02:110 Где не прекращается S…
+P 2 Suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhati S_o ca na nirujjhittha.
+   R 2 6-02:119 У тех, кто перерождается в Чистых обителях, и у существ без восприятия там и не прекращается S, и не прекращался S.
+P 2 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o nirujjhati.
+   R 2 6-02:132 У всех в момент возникновения ума, в момент распада ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия прекратится S, но у них не прекращается S.
+P 2 Assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ S_o ca nirujjhissati S_o ca nirujjhati.
+   R 2 6-02:132 В момент распада вдохов и выдохов у них и прекратится S, и прекращается S.
+P 2 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o na nirujjhati, no ca tesaṃ S_o na nirujjhissati.
+   R 2 6-02:164 У всех в момент возникновения ума, в момент распада ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия не прекращается S, но у них прекратится S.
+P 2 (Kha) yassa vā pana S_o na nirujjhissati tassa S_o na nirujjhatīti?
+   R 2 6-02:165 (б) А у кого не прекратится S, у того не прекращается S?
+P 2 (Kha) yassa vā pana yattha S_o na nirujjhissati tassa tattha S_o na nirujjhatīti?
+   R 2 6-02:183 (б) А у кого где не прекратится S, у того там не прекращается S?
+P 2 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o nirujjhittha, no ca tesaṃ S_o nirujjhissati.
+   R 2 6-02:202 В момент распада последнего ума у них прекращался S, но у них не прекратится S.
+P 2 (Kha) yassa vā pana S_o nirujjhati tassa S_o uppajjatīti?
+   R 2 6-02:267 (б) А у кого прекращается S, у того возникает S?
+P 2 (Ka) yassa S_o nuppajjati tassa S_o na nirujjhatīti?
+   R 2 6-02:285 (а) У кого не возникает S, у того не прекращается S?
+P 2 Assāsapassāsānaṃ uppādakkhaṇe tesaṃ S_o na nirujjhati, no ca tesaṃ S_o nuppajjati.
+   R 2 6-02:288 В момент возникновения вдохов и выдохов у них не прекращается S, но у них возникает S.
+P 2 Sabbesaṃ cittassa bhaṅgakkhaṇe tesaṃ S_o nuppajjati, no ca tesaṃ S_o na nirujjhati.
+   R 2 6-02:290 У всех в момент распада ума не возникает S, но у них прекращается S.
+P 2 Yattha S_o nuppajjati…pe….
+   R 2 6-02:301 Где не возникает S…
+P 2 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o uppajjissati.
+   R 2 6-02:321 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у тех, кто живёт последней жизнью #PL, и у тех умирающих, кто, переродившись #PL, достигнет окончательного угасания, прекратится S, но у них не возникнет S.
+P 2 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ S_o nuppajjissati, no ca tesaṃ S_o na nirujjhissati.
+   R 2 6-02:351 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у тех, кто живёт последней жизнью #PL, и у тех умирающих, кто, переродившись #PL, достигнет окончательного угасания, не возникнет S, но у них прекратится S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca nuppajjissati S_o ca na nirujjhissati.
+   R 2 6-02:354 В момент распада последнего ума у них и не возникнет S, и не прекратится S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca nuppajjissati S_o ca na nirujjhissati.
+   R 2 6-02:372 В момент распада последнего ума и у существ без восприятия там и не возникнет S, и не прекратится S.
+P 2 (Kha) yassa vā pana yattha…pe…?
+   R 2 6-02:373 (б) А у кого где…?
+P 2 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o uppajjati.
+   R 2 6-02:394 У всех в момент распада ума, в момент возникновения ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия прекратится S, но у них не возникает S.
+P 2 Assāsapassāsānaṃ uppādakkhaṇe tesaṃ S_o ca nirujjhissati S_o ca uppajjati.
+   R 2 6-02:394 В момент возникновения вдохов и выдохов у них и прекратится S, и возникает S.
+P 2 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nuppajjati, no ca tesaṃ S_o na nirujjhissati.
+   R 2 6-02:424 У всех в момент распада ума, в момент возникновения ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия не возникает S, но у них прекратится S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca nuppajjati S_o ca na nirujjhissati.
+   R 2 6-02:427 В момент распада последнего ума у них и не возникает S, и не прекратится S.
+P 2 Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca nuppajjati S_o ca na nirujjhissati.
+   R 2 6-02:445 В момент распада последнего ума и у существ без восприятия там и не возникает S, и не прекратится S.
+P 2 (Ka) yassa S_o uppajjittha tassa S_o nirujjhissatīti?
+   R 2 6-02:456 (а) У кого возникал S, у того прекратится S?
+P 2 Itaresaṃ tesaṃ S_o ca uppajjittha S_o ca nirujjhissati.
+   R 2 6-02:457 У остальных и возникал S, и прекратится S.
+P 2 (Kha) yassa vā pana S_o nirujjhissati tassa S_o uppajjitthāti?
+   R 2 6-02:458 (б) А у кого прекратится S, у того возникал S?
+P 1 Avitakkaavicārapacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o nirujjhissati, no ca tesaṃ S_o nirujjhissati.
+   R 1 6-02:14 В момент возникновения последнего ума без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, прекратится S, но у них не прекратится S.
+P 1 Yattha S_o nirujjhissati…pe….
+   R 1 6-02:18 Где прекратится S…
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:23 У вошедших во второе и в третье медитативное погружение там прекратится S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhissati.
+   R 1 6-02:23 У вошедших в первое медитативное погружение и у существ мира чувственных желаний там и прекратится S, и прекратится S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:25 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у существ мира форм и у существ мира без форм там прекратится S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhissati.
+   R 1 6-02:25 У вошедших в первое медитативное погружение и у остальных существ мира чувственных желаний там и прекратится S, и прекратится S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:28 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там прекратится S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhissati.
+   R 1 6-02:28 У вошедших в первое, во второе и в третье медитативное погружение и у остальных существ мира чувственных желаний там и прекратится S, и прекратится S.
+P 1 Avitakkaavicārapacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:32 В момент возникновения последнего ума без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и у вошедших во второе, в третье и в четвёртое медитативное погружение там прекратится S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ itaresaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhissati.
+   R 1 6-02:32 У вошедших в первое медитативное погружение, у существ мира чувственных желаний и у остальных существ мира форм и существ мира без форм там и прекратится S, и прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o ca na nirujjhissati S_o ca na nirujjhissati.
+   R 1 6-02:37 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, не прекратится ни S, ни S.
+P 1 Avitakkaavicārapacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o na nirujjhissati, no ca tesaṃ S_o na nirujjhissati.
+   R 1 6-02:44 В момент возникновения последнего ума без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, не прекратится S, но у них прекратится S.
+P 1 Yattha S_o na nirujjhissati…pe….
+   R 1 6-02:49 Где не прекратится S…
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:54 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у существ мира форм и у существ мира без форм там не прекратится S, но у них там прекратится S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:56 У вошедших во второе и в третье медитативное погружение там не прекратится S, но у них там прекратится S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:58 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там не прекратится S, но у них там прекратится S.
+P 1 Avitakkaavicārapacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:62 В момент возникновения последнего ума без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и у вошедших во второе, в третье и в четвёртое медитативное погружение там не прекратится S, но у них там прекратится S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhittha, no ca tesaṃ S_o nirujjhati.
+   R 1 6-02:78 У всех в момент возникновения ума, в момент распада ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия прекращался S, но у них не прекращается S.
+P 1 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ S_o ca nirujjhittha S_o ca nirujjhati.
+   R 1 6-02:78 В момент распада направленной мысли и удержания мысли у них и прекращался S, и прекращается S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhati, no ca tesaṃ tattha S_o nirujjhittha.
+   R 1 6-02:87 У вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов там прекращается S, но у них там не прекращался S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhati S_o ca nirujjhittha.
+   R 1 6-02:87 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов там и прекращается S, и прекращался S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:89 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там прекращался S, но у них там не прекращается S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhittha S_o ca nirujjhati.
+   R 1 6-02:89 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов там и прекращался S, и прекращается S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:92 У всех в момент возникновения ума и в момент распада ума без вдохов и выдохов там прекращался S, но у них там не прекращается S.
+P 1 Assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhittha S_o ca nirujjhati.
+   R 1 6-02:92 В момент распада вдохов и выдохов у них там и прекращался S, и прекращается S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:96 У всех в момент возникновения ума и в момент распада ума без направленной мысли и удержания мысли там прекращался S, но у них там не прекращается S.
+P 1 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhittha S_o ca nirujjhati.
+   R 1 6-02:96 В момент распада направленной мысли и удержания мысли у них там и прекращался S, и прекращается S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:115 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там не прекращается S, но у них там прекращался S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe catutthajjhānaṃ samāpannānaṃ suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhati S_o ca na nirujjhittha.
+   R 1 6-02:115 У вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение, у существ Чистых обителей, когда присутствует второй ум, и у существ без восприятия там и не прекращается S, и не прекращался S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhittha, no ca tesaṃ tattha S_o na nirujjhati.
+   R 1 6-02:117 У вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов там не прекращался S, но у них там прекращается S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe catutthajjhānaṃ samāpannānaṃ suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhittha S_o ca na nirujjhati.
+   R 1 6-02:117 У вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение, у существ Чистых обителей, когда присутствует второй ум, и у существ без восприятия там и не прекращался S, и не прекращается S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:119 У всех в момент возникновения ума и в момент распада ума без вдохов и выдохов там не прекращается S, но у них там прекращался S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:123 У всех в момент возникновения ума и в момент распада ума без направленной мысли и удержания мысли там не прекращается S, но у них там прекращался S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ S_o nirujjhati, no ca tesaṃ S_o nirujjhissati.
+   R 1 6-02:138 В момент распада последнего ума с направленной мыслью и удержанием мысли у них прекращается S, но у них не прекратится S.
+P 1 Itaresaṃ vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ S_o ca nirujjhati S_o ca nirujjhissati.
+   R 1 6-02:138 У остальных в момент распада направленной мысли и удержания мысли и прекращается S, и прекратится S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o nirujjhati.
+   R 1 6-02:140 У всех в момент возникновения ума, в момент распада ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия прекратится S, но у них не прекращается S.
+P 1 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ S_o ca nirujjhissati S_o ca nirujjhati.
+   R 1 6-02:140 В момент распада направленной мысли и удержания мысли у них и прекратится S, и прекращается S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:149 У вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов там прекращается S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhati S_o ca nirujjhissati.
+   R 1 6-02:149 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов там и прекращается S, и прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:151 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там прекратится S, но у них там не прекращается S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhati.
+   R 1 6-02:151 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов там и прекратится S, и прекращается S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:154 У всех в момент возникновения ума и в момент распада ума без вдохов и выдохов там прекратится S, но у них там не прекращается S.
+P 1 Assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhati.
+   R 1 6-02:154 В момент распада вдохов и выдохов у них там и прекратится S, и прекращается S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:157 В момент распада последнего ума с направленной мыслью и удержанием мысли у них там прекращается S, но у них там не прекратится S.
+P 1 Itaresaṃ vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhati S_o ca nirujjhissati.
+   R 1 6-02:157 У остальных в момент распада направленной мысли и удержания мысли там и прекращается S, и прекратится S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhati.
+   R 1 6-02:159 У всех в момент возникновения ума и в момент распада ума без направленной мысли и удержания мысли там прекратится S, но у них там не прекращается S.
+P 1 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhati.
+   R 1 6-02:159 В момент распада направленной мысли и удержания мысли у них там и прекратится S, и прекращается S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:164 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и не прекращается S, и не прекратится S.
+P 1 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:167 В момент распада последнего ума у них и не прекращается S, и не прекратится S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o na nirujjhati, no ca tesaṃ S_o na nirujjhissati.
+   R 1 6-02:171 У всех в момент возникновения ума, в момент распада ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия не прекращается S, но у них прекратится S.
+P 1 Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:171 В момент распада последнего ума без направленной мысли и без удержания мысли у них и не прекращается S, и не прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ S_o na nirujjhissati, no ca tesaṃ S_o na nirujjhati.
+   R 1 6-02:173 В момент распада последнего ума с направленной мыслью и удержанием мысли у них не прекратится S, но у них прекращается S.
+P 1 Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ S_o ca na nirujjhissati S_o ca na nirujjhati.
+   R 1 6-02:173 В момент распада последнего ума без направленной мысли и без удержания мысли у них и не прекратится S, и не прекращается S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:182 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там не прекращается S, но у них там прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:182 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекращается S, и не прекратится S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhati.
+   R 1 6-02:184 У вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов там не прекратится S, но у них там прекращается S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhati.
+   R 1 6-02:184 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов, у них же в момент распада ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекратится S, и не прекращается S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:186 У всех в момент возникновения ума и в момент распада ума без вдохов и выдохов там не прекращается S, но у них там прекратится S.
+P 1 Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:186 В момент распада последнего ума и у существ без восприятия там и не прекращается S, и не прекратится S.
+P 1 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:190 У всех в момент возникновения ума и в момент распада ума без направленной мысли и удержания мысли там не прекращается S, но у них там прекратится S.
+P 1 Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhati S_o ca na nirujjhissati.
+   R 1 6-02:190 В момент распада последнего ума без направленной мысли и без удержания мысли и у существ без восприятия там и не прекращается S, и не прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhati.
+   R 1 6-02:192 В момент распада последнего ума с направленной мыслью и удержанием мысли у них там не прекратится S, но у них там прекращается S.
+P 1 Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhati.
+   R 1 6-02:192 В момент распада последнего ума без направленной мысли и без удержания мысли и у существ без восприятия там и не прекратится S, и не прекращается S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o nirujjhittha, no ca tesaṃ S_o nirujjhissati.
+   R 1 6-02:199 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, прекращался S, но у них не прекратится S.
+P 1 Yattha S_o nirujjhittha…pe….
+   R 1 6-02:211 Где прекращался S…
+P 1 Kāmāvacare pacchimacittassa bhaṅgakkhaṇe dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:216 #PL в момент распада последнего ума и у вошедших во второе и в третье медитативное погружение там прекращался S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o na nirujjhittha S_o ca nirujjhissati.
+   R 1 6-02:216 У вошедших в первое медитативное погружение и у остальных существ мира чувственных желаний там не прекращался S и прекратится S.
+P 1 Rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhittha.
+   R 1 6-02:218 У существ мира форм и у существ мира без форм там прекратится S, но у них там не прекращался S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhittha.
+   R 1 6-02:218 У вошедших в первое медитативное погружение и у существ мира чувственных желаний там и прекратится S, и прекращался S.
+P 1 Kāmāvacare pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:220 #PL в момент распада последнего ума у них прекращался S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhittha S_o ca nirujjhissati.
+   R 1 6-02:220 У вошедших в первое, во второе и в третье медитативное погружение и у остальных существ мира чувственных желаний там и прекращался S, и прекратится S.
+P 1 Catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhittha.
+   R 1 6-02:222 У вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там прекратится S, но у них там не прекращался S.
+P 1 Paṭhamajjhānaṃ dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhittha.
+   R 1 6-02:222 У вошедших в первое, во второе и в третье медитативное погружение и у существ мира чувственных желаний там и прекратится S, и прекращался S.
+P 1 Savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o nirujjhittha, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:225 На уровне с направленной мыслью и удержанием мысли в момент распада последнего ума у них прекращался S, но у них там не прекратится S.
+P 1 Itaresaṃ savitakkasavicārabhūmiyaṃ tesaṃ tattha S_o ca nirujjhittha S_o ca nirujjhissati.
+   R 1 6-02:225 У остальных на уровне с направленной мыслью и удержанием мысли там и прекращался S, и прекратится S.
+P 1 Avitakkaavicārabhūmiyaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o nirujjhittha.
+   R 1 6-02:227 На уровне без направленной мысли и без удержания мысли у них прекратится S, но у них там не прекращался S.
+P 1 Savitakkasavicārabhūmiyaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca nirujjhittha.
+   R 1 6-02:227 На уровне с направленной мыслью и удержанием мысли у них и прекратится S, и прекращался S.
+P 1 Yattha S_o na nirujjhittha…pe….
+   R 1 6-02:241 Где не прекращался S…
+P 1 Rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhittha, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:246 У существ мира форм и у существ мира без форм там не прекращался S, но у них там прекратится S.
+P 1 Rūpāvacare arūpāvacare savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhittha S_o ca na nirujjhissati.
+   R 1 6-02:246 #PL в момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекращался S, и не прекратится S.
+P 1 Kāmāvacare pacchimacittassa bhaṅgakkhaṇe dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:248 #PL в момент распада последнего ума и у вошедших во второе и в третье медитативное погружение там не прекратится S, но у них там прекращался S.
+P 1 Rūpāvacare arūpāvacare savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhittha.
+   R 1 6-02:248 #PL в момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекратится S, и не прекращался S.
+P 1 Catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o na nirujjhittha, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:250 У вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там не прекращался S, но у них там прекратится S.
+P 1 Rūpāvacare arūpāvacare pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhittha S_o ca na nirujjhissati.
+   R 1 6-02:250 #PL в момент распада последнего ума и у существ без восприятия там и не прекращался S, и не прекратится S.
+P 1 Kāmāvacare pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:252 #PL в момент распада последнего ума у них не прекратится S, но у них там прекращался S.
+P 1 Rūpāvacare arūpāvacare pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhittha.
+   R 1 6-02:252 #PL в момент распада последнего ума и у существ без восприятия там и не прекратится S, и не прекращался S.
+P 1 Avitakkaavicārabhūmiyaṃ tesaṃ tattha S_o na nirujjhittha, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:255 На уровне без направленной мысли и без удержания мысли у них не прекращался S, но у них там прекратится S.
+P 1 Avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhittha S_o ca na nirujjhissati.
+   R 1 6-02:255 На уровне без направленной мысли и без удержания мысли в момент распада последнего ума и у существ без восприятия там и не прекращался S, и не прекратится S.
+P 1 Savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o na nirujjhittha.
+   R 1 6-02:257 На уровне с направленной мыслью и удержанием мысли в момент распада последнего ума у них не прекратится S, но у них там прекращался S.
+P 1 Avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca na nirujjhittha.
+   R 1 6-02:257 На уровне без направленной мысли и без удержания мысли в момент распада последнего ума и у существ без восприятия там и не прекратится S, и не прекращался S.
+P 1 Nirodhavāro.
+   R 1 6-02:258 Раздел о прекращении.
+P 1 Yattha S_o uppajjati tattha S_o nirujjhatīti?
+   R 1 6-02:276 Где возникает S, там прекращается S?
+P 1 Dutiyajjhāne tatiyajjhāne tattha…pe… (itaresaṃ yatthakānaṃ sadisaṃ).
+   R 1 6-02:277 Во втором и в третьем медитативном погружении… (так же, как в остальных разделах с «где»).
+P 1 Yassa yattha S_o uppajjati…pe… (yassakampi yassayatthakampi sadisaṃ).
+   R 1 6-02:281 У кого где возникает S… (раздел с «у кого» и раздел с «у кого где» тоже такие же).
+P 1 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ S_o nuppajjati, no ca tesaṃ S_o na nirujjhati.
+   R 1 6-02:286 В момент распада направленной мысли и удержания мысли у них не возникает S, но у них прекращается S.
+P 1 Vinā assāsapassāsehi cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca nuppajjati S_o ca na nirujjhati.
+   R 1 6-02:286 В момент возникновения ума без вдохов и выдохов, в момент распада ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия и не возникает S, и не прекращается S.
+P 1 Vinā assāsapassāsehi cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca na nirujjhati S_o ca nuppajjati.
+   R 1 6-02:288 В момент возникновения ума без вдохов и выдохов, в момент распада ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия и не прекращается S, и не возникает S.
+P 1 (Ka) yassa S_o nuppajjati tassa S_o nirujjhatīti?
+   R 1 6-02:289 (а) У кого не возникает S, у того прекращается S?
+P 1 Vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca nuppajjati S_o ca na nirujjhati.
+   R 1 6-02:290 В момент возникновения ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия и не возникает S, и не прекращается S.
+P 1 Vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca na nirujjhati S_o ca nuppajjati.
+   R 1 6-02:292 В момент возникновения ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия и не прекращается S, и не возникает S.
+P 1 Vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca nuppajjati S_o ca na nirujjhati.
+   R 1 6-02:295 В момент возникновения ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия и не возникает S, и не прекращается S.
+P 1 Vitakkavicārānaṃ uppādakkhaṇe tesaṃ S_o na nirujjhati, no ca tesaṃ S_o nuppajjati.
+   R 1 6-02:297 В момент возникновения направленной мысли и удержания мысли у них не прекращается S, но у них возникает S.
+P 1 Vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o ca na nirujjhati S_o ca nuppajjati.
+   R 1 6-02:297 В момент возникновения ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия и не прекращается S, и не возникает S.
+P 1 Yassa yattha S_o nuppajjati…pe….
+   R 1 6-02:305 У кого где не возникает S…
+P 1 (Yassakampi yassayatthakampi sadisaṃ, yassayatthake nirodhasamāpannānanti na labbhati).
+   R 1 6-02:306 (Раздел с «у кого» и раздел с «у кого где» тоже такие же, в разделе с «у кого где» слова «у вошедших в медитативное достижение прекращения» не применяются).
+P 1 Yassa S_o uppajjittha tassa S_o nirujjhitthāti?
+   R 1 6-02:312 У кого возникал S, у того прекращался S?
+P 1 (Atītā pucchā uppādavārepi nirodhavārepi uppādanirodhavārepi sadisaṃ vitthāretabbā).
+   R 1 6-02:313 (Вопросы о прошлом и в разделе о возникновении, и в разделе о прекращении, и в разделе о возникновении и прекращении следует развернуть так же).
+P 1 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o nirujjhissati, no ca tesaṃ S_o uppajjissati.
+   R 1 6-02:328 В момент возникновения последнего ума и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, прекратится S, но у них не возникнет S.
+P 1 Yattha S_o uppajjissati…pe….
+   R 1 6-02:332 Где возникнет S…
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o uppajjissati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:337 У вошедших во второе и в третье медитативное погружение там возникнет S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca uppajjissati S_o ca nirujjhissati.
+   R 1 6-02:337 У вошедших в первое медитативное погружение и у существ мира чувственных желаний там и возникнет S, и прекратится S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjissati.
+   R 1 6-02:339 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у существ мира форм и у существ мира без форм там прекратится S, но у них там не возникнет S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjissati.
+   R 1 6-02:339 У вошедших в первое медитативное погружение и у остальных существ мира чувственных желаний там и прекратится S, и возникнет S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjissati.
+   R 1 6-02:342 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там прекратится S, но у них там не возникнет S.
+P 1 Paṭhamajjhānaṃ dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjissati.
+   R 1 6-02:342 У вошедших в первое, во второе и в третье медитативное погружение и у остальных существ мира чувственных желаний там и прекратится S, и возникнет S.
+P 1 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjissati.
+   R 1 6-02:346 В момент возникновения последнего ума, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и у вошедших во второе, в третье и в четвёртое медитативное погружение там прекратится S, но у них там не возникнет S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ itaresaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjissati.
+   R 1 6-02:346 У вошедших в первое медитативное погружение, у существ мира чувственных желаний и у остальных существ мира форм и существ мира без форм там и прекратится S, и возникнет S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o ca nuppajjissati S_o ca na nirujjhissati.
+   R 1 6-02:351 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и не возникнет S, и не прекратится S.
+P 1 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o nuppajjissati, no ca tesaṃ S_o na nirujjhissati.
+   R 1 6-02:358 В момент возникновения последнего ума и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, не возникнет S, но у них прекратится S.
+P 1 Yattha S_o nuppajjissati…pe….
+   R 1 6-02:363 Где не возникнет S…
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nuppajjissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:368 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у существ мира форм и у существ мира без форм там не возникнет S, но у них там прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca nuppajjissati S_o ca na nirujjhissati.
+   R 1 6-02:368 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не возникнет S, и не прекратится S.
+P 1 (Kha) yassa vā pana yattha S_o na nirujjhissati tassa tattha S_o nuppajjissatīti?
+   R 1 6-02:369 (б) А у кого где не прекратится S, у того там не возникнет S?
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o nuppajjissati.
+   R 1 6-02:370 У вошедших во второе и в третье медитативное погружение там не прекратится S, но у них там возникнет S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca nuppajjissati.
+   R 1 6-02:370 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекратится S, и не возникнет S.
+P 1 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nuppajjissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:372 У существ мира чувственных желаний в момент возникновения последнего ума, у существ мира чувственных желаний, у которых сразу после данного ума возникнет последний ум, у вошедших в четвёртое медитативное погружение, у существ мира форм и у существ мира без форм там не возникнет S, но у них там прекратится S.
+P 1 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha S_o nuppajjissati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:376 В момент возникновения последнего ума, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и у вошедших во второе, в третье и в четвёртое медитативное погружение там не возникнет S, но у них там прекратится S.
+P 1 (Ka) yassa S_o uppajjati tassa S_o nirujjhitthāti?
+   R 1 6-02:383 (а) У кого возникает S, у того прекращался S?
+P 1 (Kha) yassa vā pana S_o nirujjhittha tassa S_o uppajjatīti?
+   R 1 6-02:384 (б) А у кого прекращался S, у того возникает S?
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhittha, no ca tesaṃ S_o uppajjati.
+   R 1 6-02:385 У всех в момент распада ума, в момент возникновения ума без вдохов и выдохов, у вошедших в медитативное достижение прекращения и у существ без восприятия прекращался S, но у них не возникает S.
+P 1 Assāsapassāsānaṃ uppādakkhaṇe tesaṃ S_o ca nirujjhittha S_o ca uppajjati.
+   R 1 6-02:385 В момент возникновения вдохов и выдохов у них и прекращался S, и возникает S.
+P 1 (Yathā uppādavāre paccuppannātītā pucchā anulomampi paccanīkampi vibhattā evaṃ uppādavāranirodhavārepi paccuppannātītā pucchā anulomampi paccanīkampi vibhajitabbā.)
+   R 1 6-02:386 (Как в разделе о возникновении разобраны вопросы о настоящем и прошлом и в утвердительной, и в отрицательной форме, так и в разделе о возникновении и прекращении следует разобрать вопросы о настоящем и прошлом и в утвердительной, и в отрицательной форме.)
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nirujjhissati, no ca tesaṃ S_o uppajjati.
+   R 1 6-02:401 У всех в момент распада ума, в момент возникновения ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия прекратится S, но у них не возникает S.
+P 1 Vitakkavicārānaṃ uppādakkhaṇe tesaṃ S_o ca nirujjhissati S_o ca uppajjati.
+   R 1 6-02:401 В момент возникновения направленной мысли и удержания мысли у них и прекратится S, и возникает S.
+P 1 Yattha S_o uppajjati…pe….
+   R 1 6-02:405 Где возникает S…
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha S_o uppajjati, no ca tesaṃ tattha S_o nirujjhissati.
+   R 1 6-02:410 У вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов там возникает S, но у них там не прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha S_o ca uppajjati S_o ca nirujjhissati.
+   R 1 6-02:410 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов там и возникает S, и прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjati.
+   R 1 6-02:412 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов, у них же в момент возникновения ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там прекратится S, но у них там не возникает S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjati.
+   R 1 6-02:412 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент возникновения вдохов и выдохов там и прекратится S, и возникает S.
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjati.
+   R 1 6-02:415 У всех в момент распада ума и в момент возникновения ума без вдохов и выдохов там прекратится S, но у них там не возникает S.
+P 1 Assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjati.
+   R 1 6-02:415 В момент возникновения вдохов и выдохов у них там и прекратится S, и возникает S.
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha S_o nirujjhissati, no ca tesaṃ tattha S_o uppajjati.
+   R 1 6-02:419 У всех в момент распада ума и в момент возникновения ума без направленной мысли и удержания мысли там прекратится S, но у них там не возникает S.
+P 1 Vitakkavicārānaṃ uppādakkhaṇe tesaṃ tattha S_o ca nirujjhissati S_o ca uppajjati.
+   R 1 6-02:419 В момент возникновения направленной мысли и удержания мысли у них там и прекратится S, и возникает S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o ca nuppajjati S_o ca na nirujjhissati.
+   R 1 6-02:424 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, и не возникает S, и не прекратится S.
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ S_o nuppajjati, no ca tesaṃ S_o na nirujjhissati.
+   R 1 6-02:431 У всех в момент распада ума, в момент возникновения ума без направленной мысли и удержания мысли, у вошедших в медитативное достижение прекращения и у существ без восприятия не возникает S, но у них прекратится S.
+P 1 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha S_o nuppajjati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:441 У вошедших в первое медитативное погружение и у существ мира чувственных желаний в момент распада вдохов и выдохов, у них же в момент возникновения ума без вдохов и выдохов, у существ мира форм и у существ мира без форм там не возникает S, но у них там прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca nuppajjati S_o ca na nirujjhissati.
+   R 1 6-02:441 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов, у них же в момент возникновения ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не возникает S, и не прекратится S.
+P 1 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha S_o na nirujjhissati, no ca tesaṃ tattha S_o nuppajjati.
+   R 1 6-02:443 У вошедших во второе и в третье медитативное погружение в момент возникновения вдохов и выдохов там не прекратится S, но у них там возникает S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha S_o ca na nirujjhissati S_o ca nuppajjati.
+   R 1 6-02:443 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли, у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, у вошедших во второе и в третье медитативное погружение в момент распада вдохов и выдохов, у них же в момент возникновения ума без вдохов и выдохов, у вошедших в четвёртое медитативное погружение и у существ без восприятия там и не прекратится S, и не возникает S.
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe tesaṃ tattha S_o nuppajjati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:445 У всех в момент распада ума и в момент возникновения ума без вдохов и выдохов там не возникает S, но у них там прекратится S.
+P 1 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha S_o nuppajjati, no ca tesaṃ tattha S_o na nirujjhissati.
+   R 1 6-02:449 У всех в момент распада ума и в момент возникновения ума без направленной мысли и удержания мысли там не возникает S, но у них там прекратится S.
+P 1 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ S_o uppajjittha, no ca tesaṃ S_o nirujjhissati.
+   R 1 6-02:457 В момент распада последнего ума с направленной мыслью и удержанием мысли, у обладающих последним умом без направленной мысли и без удержания мысли и у тех, у кого сразу после данного ума возникнет последний ум без направленной мысли и без удержания мысли, возникал S, но у них не прекратится S.
+P 1 Pacchimacittassa bhaṅgakkhaṇe tesaṃ S_o uppajjittha, no ca tesaṃ S_o nirujjhissati.
+   R 1 6-02:460 В момент распада последнего ума у них возникал S, но у них не прекратится S.
+P 1 (Yathā nirodhavāre atītānāgatā pucchā anulomampi paccanīkampi evaṃ uppādanirodhavārepi atītānāgatā pucchā anulomampi paccanīkampi vibhajitabbaṃ asammohantena nirodhavārena sadisaṃ, natthi nānākaraṇaṃ.)
+   R 1 6-02:462 (Как в разделе о прекращении вопросы о прошлом и будущем и в утвердительной, и в отрицательной форме, так и в разделе о возникновении и прекращении вопросы о прошлом и будущем и в утвердительной, и в отрицательной форме следует разобрать, не путаясь, так же, как в разделе о прекращении, различий нет.)
+P 1 Uppādanirodhavāro.
+   R 1 6-02:463 Раздел о возникновении и прекращении.
+P 1 (Ka) yo S_aṃ parijānāti so S_aṃ parijānātīti?
+   R 1 6-02:469 (а) Кто полностью понимает S, тот полностью понимает S?
+P 1 (Kha) yo vā pana S_aṃ parijānāti so S_aṃ parijānātīti?
+   R 1 6-02:470 (б) А кто полностью понимает S, тот полностью понимает S?
+P 1 (Yathā khandhayamake pariññāvāraṃ vibhattaṃ evaṃ saṅkhārayamakepi pariññāvāraṃ vibhajitabbaṃ.)
+   R 1 6-02:471 (Как в «Парных вопросах о совокупностях» разобран раздел о полном понимании, так и в «Парных вопросах о формирующих факторах» следует разобрать раздел о полном понимании.)
+P 1 Pariññāvāro.
+   R 1 6-02:472 Раздел о полном понимании.
+P 1 Saṅkhārayamakaṃ niṭṭhitaṃ.
+   R 1 6-02:473 Парные вопросы о формирующих факторах завершены.
+P 1 Namo tassa bhagavato #AR sammāsambuddhassa
+   R 1 6-02:474 Почтение Благословенному, Достойному, Полностью Пробуждённому Будде

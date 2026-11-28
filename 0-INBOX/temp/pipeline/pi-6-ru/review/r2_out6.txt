@@ -1,0 +1,59 @@
+===== 3-06-ayatanayamaka.md: pali 309 lines, rus 309 lines
+L272 VERBS P[] R[('P', 'pres', False), ('P', 'pres', False)]
+   P: (Ka) yo cakkhāyatanaṃ parijānāti so sotāyatanaṃ parijānātīti? Āmantā.
+   R: (а) Кто полностью понимает сферу глаза, тот полностью понимает сферу уха? Да.
+L273 VERBS P[] R[('P', 'pres', False), ('P', 'pres', False)]
+   P: (Kha) yo vā pana sotāyatanaṃ parijānāti so cakkhāyatanaṃ parijānātīti? Āmantā.
+   R: (б) А кто полностью понимает сферу уха, тот полностью понимает сферу глаза? Да.
+L274 VERBS P[] R[('P', 'pres', True), ('P', 'pres', True)]
+   P: (Ka) yo cakkhāyatanaṃ na parijānāti so sotāyatanaṃ na parijānātīti? Āmantā.
+   R: (а) Кто не понимает полностью сферу глаза, тот не понимает полностью сферу уха? Да.
+L275 VERBS P[] R[('P', 'pres', True), ('P', 'pres', True)]
+   P: (Kha) yo vā pana sotāyatanaṃ na parijānāti so cakkhāyatanaṃ na parijānātīti? Āmantā. ^6-3-249
+   R: (б) А кто не понимает полностью сферу уха, тот не понимает полностью сферу глаза? Да. ^6-3-249
+L287 VERBS P[('P', 'past', False)] R[('P', 'pres', False), ('P', 'past', False)]
+   P: (Ka) yo cakkhāyatanaṃ parijānāti so sotāyatanaṃ parijānitthāti? No.
+   R: (а) Кто полностью понимает сферу глаза, тот полностью понял сферу уха? Нет.
+L288 VERBS P[('P', 'past', False)] R[('P', 'past', False), ('P', 'pres', False)]
+   P: (Kha) yo vā pana sotāyatanaṃ parijānittha so cakkhāyatanaṃ parijānātīti? No.
+   R: (б) А кто полностью понял сферу уха, тот полностью понимает сферу глаза? Нет.
+L289 VERBS P[('P', 'past', False)] R[('P', 'pres', True), ('P', 'past', True)]
+   P: (Ka) yo cakkhāyatanaṃ na parijānāti so sotāyatanaṃ na parijānitthāti?
+   R: (а) Кто не понимает полностью сферу глаза, тот не понял полностью сферу уха?
+L290 aggamagga 0/1; VERBS P[('P', 'past', False), ('P', 'pres', True), ('P', 'past', True)] R[('P', 'pres', True), ('P', 'past', False), ('P', 'pres', True), ('P', 'past', True)]
+   P: Arahā cakkhāyatanaṃ na parijānāti, no ca sotāyatanaṃ na parijānittha. Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā cakkhāyatanañca na parijānanti sotāyatanañca na parijānittha.
+   R: Архат не понимает полностью сферу глаза, но полностью понял сферу уха. Кроме обладающего высшим путём и архата, остальные личности и не понимают полностью сферу глаза, и не поняли полностью сферу уха.
+L291 VERBS P[('P', 'past', True)] R[('P', 'past', True), ('P', 'pres', True)]
+   P: (Kha) yo vā pana sotāyatanaṃ na parijānittha so cakkhāyatanaṃ na parijānātīti?
+   R: (б) А кто не понял полностью сферу уха, тот не понимает полностью сферу глаза?
+L292 aggamagga 1/2; VERBS P[('P', 'past', True), ('P', 'past', True), ('P', 'pres', True)] R[('P', 'past', True), ('P', 'pres', False), ('P', 'past', True), ('P', 'pres', True)]
+   P: Aggamaggasamaṅgī sotāyatanaṃ na parijānittha, no ca cakkhāyatanaṃ na parijānāti. Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā sotāyatanañca na parijānittha cakkhāyatanañca na parijānanti. ^6-3-252
+   R: Обладающий высшим путём не понял полностью сферу уха, но полностью понимает сферу глаза. Кроме обладающего высшим путём и архата, остальные личности и не поняли полностью сферу уха, и не понимают полностью сферу глаза. ^6-3-252
+L294 VERBS P[('P', 'fut', False)] R[('P', 'pres', False), ('P', 'fut', False)]
+   P: (Ka) yo cakkhāyatanaṃ parijānāti so sotāyatanaṃ parijānissatīti? No.
+   R: (а) Кто полностью понимает сферу глаза, тот полностью поймёт сферу уха? Нет.
+L295 VERBS P[('P', 'fut', False)] R[('P', 'fut', False), ('P', 'pres', False)]
+   P: (Kha) yo vā pana sotāyatanaṃ parijānissati so cakkhāyatanaṃ parijānātīti? No.
+   R: (б) А кто полностью поймёт сферу уха, тот полностью понимает сферу глаза? Нет.
+L296 VERBS P[('P', 'fut', False)] R[('P', 'pres', True), ('P', 'fut', True)]
+   P: (Ka) yo cakkhāyatanaṃ na parijānāti so sotāyatanaṃ na parijānissatīti?
+   R: (а) Кто не понимает полностью сферу глаза, тот не поймёт полностью сферу уха?
+L297 VERBS P[('P', 'pres', True), ('P', 'fut', False), ('P', 'pres', False), ('P', 'fut', True)] R[('P', 'pres', True), ('P', 'fut', False), ('P', 'pres', True), ('P', 'fut', True)]
+   P: Ye maggaṃ paṭilabhissanti te cakkhāyatanaṃ na parijānanti, no ca sotāyatanaṃ na parijānissanti. Arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te cakkhāyatanañca na parijānanti sotāyatanañca na parijānissanti.
+   R: Те, кто обретёт путь, не понимают полностью сферу глаза, но полностью поймут сферу уха. Архат и те обычные люди, которые не обретут путь, и не понимают полностью сферу глаза, и не поймут полностью сферу уха.
+L298 VERBS P[('P', 'fut', True)] R[('P', 'fut', True), ('P', 'pres', True)]
+   P: (Kha) yo vā pana sotāyatanaṃ na parijānissati so cakkhāyatanaṃ na parijānātīti?
+   R: (б) А кто не поймёт полностью сферу уха, тот не понимает полностью сферу глаза?
+L299 VERBS P[('P', 'fut', True), ('P', 'fut', False), ('P', 'pres', True)] R[('P', 'fut', True), ('P', 'pres', False), ('P', 'fut', True), ('P', 'pres', True)]
+   P: Aggamaggasamaṅgī sotāyatanaṃ na parijānissati, no ca cakkhāyatanaṃ na parijānāti. Arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te sotāyatanañca na parijānissanti cakkhāyatanañca na parijānanti. ^6-3-253
+   R: Обладающий высшим путём не поймёт полностью сферу уха, но полностью понимает сферу глаза. Архат и те обычные люди, которые не обретут путь, и не поймут полностью сферу уха, и не понимают полностью сферу глаза. ^6-3-253
+L304 VERBS P[('P', 'past', True), ('P', 'fut', False), ('P', 'past', False), ('P', 'fut', True)] R[('P', 'past', True), ('P', 'fut', False), ('P', 'past', True), ('P', 'fut', True)]
+   P: Ye maggaṃ paṭilabhissanti te cakkhāyatanaṃ na parijānittha, no ca sotāyatanaṃ na parijānissanti. Aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te cakkhāyatanañca na parijānittha sotāyatanañca na parijānissanti.
+   R: Те, кто обретёт путь, не поняли полностью сферу глаза, но полностью поймут сферу уха. Обладающий высшим путём и те обычные люди, которые не обретут путь, и не поняли полностью сферу глаза, и не поймут полностью сферу уха.
+L306 VERBS P[('P', 'fut', True), ('P', 'past', False), ('P', 'fut', False), ('P', 'past', True)] R[('P', 'fut', True), ('P', 'past', False), ('P', 'fut', True), ('P', 'past', True)]
+   P: Arahā sotāyatanaṃ na parijānissati, no ca cakkhāyatanaṃ na parijānittha. Aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te sotāyatanañca na parijānissanti cakkhāyatanañca na parijānittha.
+   R: Архат не поймёт полностью сферу уха, но полностью понял сферу глаза. Обладающий высшим путём и те обычные люди, которые не обретут путь, и не поймут полностью сферу уха, и не поняли полностью сферу глаза.
+L309 END 'a' vs 'е'
+   P: Namo tassa bhagavato arahato sammāsambuddhassa ^6-3-254
+   R: Почтение Благословенному, Достойному, Полностью Пробуждённому Будде ^6-3-254
+segments (block ids): 69

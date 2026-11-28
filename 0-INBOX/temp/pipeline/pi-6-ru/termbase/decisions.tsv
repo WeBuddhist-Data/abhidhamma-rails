@@ -1,0 +1,8 @@
+# pi-6 (Yamaka) Pāli→Russian plain termbase decisions (builder proposal 2026-11-27): hw|sense_index<TAB>term<TAB>reason
+Pañcavokāre|0	существование с пятью составляющими	plain phrase (104 of 105); the gapped candidate is never the term when the plain phrase is a candidate; same as Pañcavokāraṃ / Pañcavokārā
+Pacchimabhavikānaṃ|0	жить последней жизнью	names the referent, those in their last existence (74 of 133, text «кто живёт последней жизнью»); «в последний раз» is the construction before upapajjantānaṃ / upapajjantīnaṃ (coordinator person-group rule), kept in the rails
+yassakasadisaṃ|0	такой же как раздел с «у кого»	sadisa is an adjective: dictionary form as ghānasadiso «такой же как нос», ghānadhātusadisā «такой же как элемент носа»; 1 : 1 in the map (^6-3-131 vs ^6-3-26)
+cittassa bhaṅgakkhaṇe|0	момент распада ума	plain phrase (162 of 166); the gapped candidate holds «этого» for the unlisted tassa
+cittassa uppādakkhaṇe|0	момент возникновения ума	plain phrase (105 of 117); the gapped candidate holds «этого» for the unlisted tassa
+uppajjamānaṃ|0	возникающий	pi-5 approved term for the same word and meaning (prior rule 1b); participle, most frequent (10 of 15); «возникновение» only inside «миновал момент возникновения» in the past-time section
+nirujjhamānaṃ|0	прекращающийся	pi-5 approved term (prior rule 1b); participle, most frequent (10 of 15); «прекращение» only inside «миновал момент прекращения» in the past-time section
